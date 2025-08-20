@@ -1,4 +1,4 @@
-# 🎨 Ultimate 3D Resources Hub
+# 🎨 3D Resources 
 
 *A comprehensive collection of 3D design software, learning resources, tools, and community assets for creators at all skill levels*
 
@@ -21,7 +21,9 @@
 ## 🆓 Free 3D Design Software
 
 ### **[Blender](https://www.blender.org/)** - Industry Standard Open-Source Suite
-![Blender Logo](https://download.blender.org/branding/blender_logo_socket.png)
+<img src="https://download.blender.org/branding/blender_logo_socket.png" alt="blender" width="200"/>
+
+
 - **Download:** [Official Downloads](https://www.blender.org/download/)
 - **Features:** Complete 3D pipeline - modeling, rigging, animation, simulation, rendering, compositing, motion tracking
 - **Best For:** Professional 3D animation, game development, VFX, architectural visualization
@@ -30,17 +32,6 @@
   - [Official Manual](https://docs.blender.org/)
   - [Blender Guru Donut Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw) (Famous beginner series)
   - [Blender Studio Training](https://studio.blender.org/training/)
-
-### **[MagicaVoxel](https://ephtracy.github.io/)** - Voxel Art Editor
-- **Features:** GPU-based voxel editor with path tracing renderer, supports volumes up to 2048³
-- **Best For:** Voxel art, indie game assets, Minecraft content, retro 3D art
-- **Learning Curve:** Beginner to Intermediate
-- **Community:** [r/MagicaVoxel](https://reddit.com/r/MagicaVoxel)
-
-### **[MagicaCSG](https://ephtracy.github.io/index.html?page=magicacsg)** - CSG Modeling
-- **Platform:** Windows 64-bit only
-- **Features:** SDF-based modeling with real-time Boolean operations
-- **Best For:** Concept design, abstract geometric art, rapid prototyping
 
 ### **[SculptGL](https://stephaneginier.com/sculptgl/)** - Browser Sculpting
 - **Access:** Direct browser access, no download required
@@ -57,16 +48,6 @@
 - **Limitations:** 5 projects max, basic materials only
 - **Best For:** Product visualization, AR experiences, web 3D content
 
-### **[SketchUp Free](https://www.sketchup.com/)** - Architectural Design
-- **Access:** [Web Version](https://app.sketchup.com/app)
-- **Features:** Push/pull modeling, 3D Warehouse access, 10GB cloud storage
-- **Best For:** Architecture, interior design, woodworking
-- **Resources:** [SketchUp Campus](https://campus.sketchup.com/)
-
-### **[Womp3D Free](https://www.womp.com/)** - Liquid Boolean Modeling
-- **Features:** "Goop" modeling system, cloud rendering, community sharing
-- **Best For:** Abstract art, social media content, creative exploration
-
 ### **[Clara.io](https://clara.io/)** *(Note: Discontinued Dec 2022)*
 - **Status:** Service discontinued but included for reference
 
@@ -75,31 +56,83 @@
 - **Features:** Advanced subdivision surface modeling, context-sensitive interface
 - **Best For:** Polygon modeling for games, character modeling
 
+### **[MagicaVoxel](https://ephtracy.github.io/)** - Voxel Art Editor
+- **Features:** GPU-based voxel editor with path tracing renderer, supports volumes up to 2048³
+- **Best For:** Voxel art, indie game assets, Minecraft content, retro 3D art
+- **Learning Curve:** Beginner to Intermediate
+- **Community:** [r/MagicaVoxel](https://reddit.com/r/MagicaVoxel)
+
+### **[MagicaCSG](https://ephtracy.github.io/index.html?page=magicacsg)** - CSG Modeling
+- **Platform:** Windows 64-bit only
+- **Features:** SDF-based modeling with real-time Boolean operations
+- **Best For:** Concept design, abstract geometric art, rapid prototyping
+
 ---
 
-## 💎 Professional 3D Software
+## 💎 3D Software with Free Tiers
 
-### **[Spline](https://spline.design/)** - Real-Time Web 3D
-![Spline Interface](https://spline.design/_next/static/media/hero-ui.c4925530.jpg)
+### **[Spline](https://spline.design/)** - Real-Time Web 3D      
+<img src="https://framerusercontent.com/images/A9jkW9o1T9u3nsHHpidXujk8h8.png" alt="spline" width="20"/>
+
 - **Pricing:** Free tier available, Pro from $12/month
 - **Features:** Browser-based real-time 3D, parametric objects, AI tools, React export
 - **Best For:** Web designers, interactive presentations, marketing
 
-### **[Womp3D Pro](https://www.womp.com/)** - Advanced Features
+### **[Womp3D](https://www.womp.com/)** - Advanced Features
+<img src="https://webflow-prod.womp.com/images/womp-browser-based-3d-modeling-platform.avif" alt="womp" width="20"/>
+
 - **Pricing:** $12.99/month (Pro), Team plans available
 - **Features:** 500+ Super Materials, unlimited 4K exports, advanced tools
 - **Best For:** Product design, 3D printing, concept art
 
-### **[Vectary Premium](https://www.vectary.com/)** - Professional Web 3D
+### **[SketchUp](https://www.sketchup.com/)** - Architectural Design
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Brand_Wordmark_for_SketchUp.png" alt="skp" width="100"/>
+
+- **Access:** [Web Version](https://app.sketchup.com/app)
+- **Features:** Push/pull modeling, 3D Warehouse access, 10GB cloud storage
+- **Best For:** Architecture, interior design, woodworking
+- **Resources:** [SketchUp Campus](https://campus.sketchup.com/)
+
+### **[Vectary](https://www.vectary.com/)** - Professional Web 3D
+<img src="https://www.vectary.com/website_assets/636cc984003871e3cda597bb/6371fe97f2d5ecfa7551542e_navbar__logo.svg" alt="vec" width="20"/>
+
 - **Pricing:** Studio $5/month, Teams $25/month
 - **Features:** CAD import, AR capabilities, team collaboration
 - **Best For:** Product design, e-commerce, AR/VR development
 
+
+---
+
+## 💎 Professional 3D Software
+
+
 ### **[Cinema 4D](https://www.maxon.net/)** - Motion Graphics Powerhouse
+<img src="https://duckduckgo.com/i/bbccad7c208465d5.png" alt="c4d" width="50"/>
+
 - **Pricing:** $69.91/month (annual) 
 - **Features:** MoGraph tools, character animation, Redshift integration
 - **Best For:** Motion graphics, VFX, advertising
 - **Learning:** [Cineversity](https://www.cineversity.com/)
+
+### **[Houdini](https://www.sidefx.com/)** - Procedural Powerhouse
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="hou" width="50"/>
+
+
+- **Pricing:** Indie $269/year, FX $4,495/year, Free Apprentice version
+- **Features:** Node-based procedural workflows, advanced VFX simulations
+- **Best For:** Film VFX, procedural modeling, technical art
+- **Learning:** See [Houdini Resources](#-houdini-resources) section below
+
+
+### **[Maya](https://www.autodesk.com/products/maya/)** - Industry-Standard Animation
+
+<img src="https://forums.autodesk.com/html/assets/autodesk-maya-product-icon.svg" alt="maya" width="50"/>
+
+- **Pricing:** $255/month (monthly commitment)
+- **Features:** Complete 3D package
+- **Best For:** Film VFX, CG Animation
+- **Community:** [Maya Forums](https://forums.autodesk.com/t5/maya-forums/ct-p/maya-en)
+
 
 ### **[3DCoat](https://3dcoat.com/)** - Sculpting & Texturing Suite
 - **Pricing:** €299 perpetual license
@@ -127,52 +160,6 @@
 - **Platform:** iOS/iPadOS, Android, Windows/macOS beta
 - **Features:** Full mobile sculpting, PBR materials, layer system
 
-### **[Houdini](https://www.sidefx.com/)** - Procedural Powerhouse
-- **Pricing:** Indie $269/year, FX $4,495/year, Free Apprentice version
-- **Features:** Node-based procedural workflows, advanced VFX simulations
-- **Best For:** Film VFX, procedural modeling, technical art
-- **Learning:** See [Houdini Resources](#-houdini-resources) section below
-
----
-
-## 🔧 CAD Software & Resources
-
-### Free CAD Software
-
-#### **[FreeCAD](https://www.freecad.org/)**
-- **Features:** Parametric 3D modeling, Python scripting, FEA/CAM capabilities
-- **Best For:** Product design, mechanical engineering, architecture
-
-#### **[Onshape Free](https://www.onshape.com/en/products/free)**
-- **Features:** Cloud-based, real-time collaboration, professional-grade tools
-- **Limitations:** All designs public, non-commercial only
-
-#### **[Fusion 360 Personal](https://www.autodesk.com/products/fusion-360/personal)**
-- **Features:** Integrated CAD/CAM/CAE, cloud-based, simulation tools
-- **Best For:** Product design, 3D printing, hobbyist projects
-
-#### **[OpenSCAD](https://openscad.org/)**
-- **Features:** Script-based modeling, parametric design through code
-- **Best For:** Programmers, technical parts, 3D printing
-
-#### **[LibreCAD](https://librecad.org/)**
-- **Features:** 2D CAD, DXF/DWG compatibility, AutoCAD-like interface
-- **Best For:** 2D drafting, technical drawings
-
-### Professional CAD Software
-
-| Software | Starting Price | Best For | Key Feature |
-|----------|---------------|----------|-------------|
-| **[AutoCAD](https://www.autodesk.com/products/autocad)** | $210/month | Architecture, Engineering | Industry standard, DWG format |
-| **[SolidWorks](https://www.solidworks.com/)** | $2,820/year | Mechanical Engineering | Parametric modeling, simulation |
-| **[CATIA](https://www.3ds.com/products/catia)** | Custom quote | Aerospace, Automotive | Advanced surface modeling |
-| **[Inventor](https://www.autodesk.com/products/inventor)** | $2,085/year | Manufacturing | Assembly design, FEA |
-| **[Rhino](https://www.rhino3d.com/)** | $995 perpetual | Industrial Design | NURBS modeling, Grasshopper |
-
-### CAD Learning Resources
-- **YouTube Channels:** Lars Christensen, NYC CNC, CAD in Black
-- **Forums:** [r/CAD](https://reddit.com/r/CAD), [Engineering.com](https://engineering.com)
-- **File Libraries:** [GrabCAD](https://grabcad.com), [Thingiverse](https://thingiverse.com)
 
 ---
 
@@ -276,38 +263,11 @@
 
 ## 💡 Lighting Resources
 
-### Lighting Fundamentals
-
-#### **Three-Point Lighting System**
-1. **Key Light** - Primary illumination (45° to camera)
-2. **Fill Light** - Softens shadows (opposite key)
-3. **Rim/Back Light** - Creates separation from background
-
-### Lighting Types & Techniques
-
-| Light Type | Use Case | Software Support |
-|------------|----------|------------------|
-| **Point/Omni** | Light bulbs, candles | All software |
-| **Spot** | Flashlights, stage lights | All software |
-| **Area** | Windows, softboxes | Most software |
-| **Sun/Directional** | Outdoor scenes | All software |
-| **HDRI/Environment** | Realistic lighting | Advanced renderers |
-
 ### HDRI Resources
 - **[HDRI Haven](https://hdri-haven.com/)** *(Now Polyhaven)* - Free HDRIs up to 16K
 - **[sIBL Archive](http://www.hdrlabs.com/sibl/archive.html)** - Classic HDRI collection
 - **[HDR Maps](https://hdrmaps.com/)** - Commercial HDRIs
 - **[Greg Zaal](https://blog.gregzaal.com/)** - HDRI creation tutorials
-
-### Render Engines & Lighting
-
-| Engine | Type | Strengths | Best For |
-|--------|------|-----------|----------|
-| **Cycles** (Blender) | Path tracing | Accuracy | Photorealism |
-| **Eevee** (Blender) | Real-time | Speed | Previews, stylized |
-| **Arnold** | Ray tracing | Film quality | VFX, animation |
-| **V-Ray** | Hybrid | Versatility | Architecture |
-| **Octane** | GPU | Speed + quality | Product viz |
 
 ---
 
@@ -325,21 +285,11 @@
 - **[Entagma](https://entagma.com/)** - Advanced procedural techniques
 - **[Applied Houdini](https://www.appliedhoudini.com/)** - Professional VFX workflows
 
-#### **VEX Programming**
-```vex
-// Basic VEX examples
-@Cd = @P * chf('scale');        // Color based on position
-@P.y += sin(@P.x * 4);           // Wave deformation
-if (rand(@ptnum) > ch('threshold')) {
-    removepoint(0, @ptnum);      // Random point deletion
-}
-```
 
 ### Tools & Extensions
 - **[MOPS](https://github.com/toadstorm/MOPS)** - Motion graphics toolkit
 - **[SideFX Labs](https://github.com/sideeffects/SideFXLabs)** - Extended toolset
 - **[qLib](https://github.com/qLab/qLib)** - Open-source tools
-- **[Game Development Toolset](https://github.com/sideeffects/GameDevelopmentToolset)** - Game-focused tools
 
 ### Community & Support
 - **[OdForce](https://forums.odforce.net/)** - Most active Houdini forum
@@ -380,25 +330,61 @@ if (rand(@ptnum) > ch('threshold')) {
 - **[80 Level](https://80.lv/)** - Industry news and tutorials
 - **[3D Artist Magazine](https://www.3dartistonline.com/)** - Print and digital publication
 
+
+<details open>
+  <summary>🔧 CAD Software & Resources </summary>
+
+  ### Free CAD Software
+
+  #### **[FreeCAD](https://www.freecad.org/)**
+  - **Features:** Parametric 3D modeling, Python scripting, FEA/CAM capabilities
+  - **Best For:** Product design, mechanical engineering, architecture
+
+  #### **[Onshape Free](https://www.onshape.com/en/products/free)**
+  - **Features:** Cloud-based, real-time collaboration, professional-grade tools
+  - **Limitations:** All designs public, non-commercial only
+
+  #### **[Fusion 360 Personal](https://www.autodesk.com/products/fusion-360/personal)**
+  - **Features:** Integrated CAD/CAM/CAE, cloud-based, simulation tools
+  - **Best For:** Product design, 3D printing, hobbyist projects
+
+  #### **[OpenSCAD](https://openscad.org/)**
+  - **Features:** Script-based modeling, parametric design through code
+  - **Best For:** Programmers, technical parts, 3D printing
+
+  #### **[LibreCAD](https://librecad.org/)**
+  - **Features:** 2D CAD, DXF/DWG compatibility, AutoCAD-like interface
+  - **Best For:** 2D drafting, technical drawings
+
+  ### Professional CAD Software
+
+  | Software | Starting Price | Best For | Key Feature |
+  |----------|---------------|----------|-------------|
+  | **[AutoCAD](https://www.autodesk.com/products/autocad)** | $210/month | Architecture, Engineering | Industry standard, DWG format |
+  | **[SolidWorks](https://www.solidworks.com/)** | $2,820/year | Mechanical Engineering | Parametric modeling, simulation |
+  | **[CATIA](https://www.3ds.com/products/catia)** | Custom quote | Aerospace, Automotive | Advanced surface modeling |
+  | **[Inventor](https://www.autodesk.com/products/inventor)** | $2,085/year | Manufacturing | Assembly design, FEA |
+  | **[Rhino](https://www.rhino3d.com/)** | $995 perpetual | Industrial Design | NURBS modeling, Grasshopper |
+
+  ### CAD Learning Resources
+  - **YouTube Channels:** Lars Christensen, NYC CNC, CAD in Black
+  - **Forums:** [r/CAD](https://reddit.com/r/CAD), [Engineering.com](https://engineering.com)
+  - **File Libraries:** [GrabCAD](https://grabcad.com), [Thingiverse](https://thingiverse.com)
+
+  ---
+</details>
+
 ---
+
+
 
 ## 🎯 Workflow & Techniques
 
 ### 3D Pipeline Overview
 
-```mermaid
-graph LR
-    A[Concept] --> B[Modeling]
-    B --> C[Sculpting]
-    C --> D[Retopology]
-    D --> E[UV Mapping]
-    E --> F[Texturing]
-    F --> G[Rigging]
-    G --> H[Animation]
-    H --> I[Lighting]
-    I --> J[Rendering]
-    J --> K[Compositing]
-```
+<img src="https://i.pinimg.com/736x/ee/01/59/ee01594340b337152013cdc822083b9b.jpg" alt="pipeline" width=""/>
+
+
 
 ### Modeling Techniques
 
@@ -409,26 +395,6 @@ graph LR
 | **Procedural** | Parametric designs | Houdini, Grasshopper | Advanced |
 | **CAD Modeling** | Precision parts | Fusion 360, SolidWorks | Intermediate |
 | **Photogrammetry** | Real-world capture | Reality Capture, Meshroom | Intermediate |
-
-### Optimization Tips
-
-#### **Modeling**
-- Keep topology clean and quad-based
-- Use instances for repeated elements
-- Plan UV seams during modeling
-- Maintain consistent scale
-
-#### **Texturing**
-- Use texture atlases for game assets
-- Bake high-poly details to normal maps
-- Optimize texture resolution per distance
-- Use procedural textures when possible
-
-#### **Rendering**
-- Use render regions for testing
-- Optimize sample counts
-- Cache simulations and particles
-- Use proxies for heavy geometry
 
 ### Industry-Specific Workflows
 
@@ -442,61 +408,6 @@ graph LR
 
 ---
 
-## 🚀 Getting Started Guide
-
-### For Complete Beginners
-1. **Start with Tinkercad** - Learn basic 3D concepts
-2. **Move to Blender** - Follow the donut tutorial
-3. **Join communities** - Get feedback and support
-4. **Practice daily** - Even 30 minutes helps
-5. **Share your work** - Build a portfolio early
-
-### Recommended Learning Path
-
-```
-Week 1-2: Interface and navigation
-Week 3-4: Basic modeling tools
-Week 5-6: Materials and texturing
-Week 7-8: Lighting and rendering
-Week 9-12: Choose specialization (modeling/animation/VFX)
-```
-
-### Essential Skills Checklist
-- [ ] Navigate 3D viewport
-- [ ] Create and modify primitives
-- [ ] Apply materials and textures
-- [ ] Set up basic lighting
-- [ ] Render an image
-- [ ] Export for different uses
-- [ ] Understand file formats
-- [ ] Basic topology principles
-
----
-
-## 🔧 Hardware Recommendations
-
-### Minimum Requirements
-- **CPU:** Quad-core processor
-- **RAM:** 16GB
-- **GPU:** 4GB VRAM (NVIDIA preferred for CUDA)
-- **Storage:** 256GB SSD
-- **Display:** 1920x1080
-
-### Recommended Setup
-- **CPU:** 8+ cores (AMD Ryzen 7/9, Intel i7/i9)
-- **RAM:** 32GB+
-- **GPU:** RTX 3070 or better
-- **Storage:** 1TB NVMe SSD + HDD for assets
-- **Display:** 2560x1440 or 4K, color-accurate
-
-### Budget Considerations
-| Budget | Focus | Recommended |
-|--------|-------|-------------|
-| **< $1000** | Learning basics | Used workstation, GTX 1660 |
-| **$1000-2000** | Serious hobbyist | RTX 3060, Ryzen 5 |
-| **$2000+** | Professional | RTX 4070+, Threadripper |
-
----
 
 ## 📈 Industry Trends 2024-2025
 
@@ -549,7 +460,5 @@ This compilation is released under MIT License. Individual resources retain thei
 **December 2024** - All links verified and information current
 
 ---
-
-*Star ⭐ this repository if you find it helpful!*
 
 **[Back to Top](#-ultimate-3d-resources-hub)**
