@@ -103,7 +103,7 @@
 
 ---
 
-## 💎 Professional 3D Software
+## 💎 Paid 3D Software
 
 
 ### **[Cinema 4D](https://www.maxon.net/)** - Motion Graphics Powerhouse
