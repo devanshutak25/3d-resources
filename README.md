@@ -358,7 +358,6 @@
 - [3D Jungle](https://3djungle.net/) - Models & textures
 - [Kaimoisch](https://kaimoisch.com/free-textures/) - 3D scanned textures
 - [Free Stock Textures](https://freestocktextures.com/) - Free textures
-- [Tileable](https://tileable.co/) - Tileable textures
 - [Texture Supply (Gumroad)](https://texturesupply.gumroad.com) - Free textures
 - [Resource Boy](https://resourceboy.com/) - Free graphic resources
 - [The Pixel Lab Freebies](https://www.thepixellab.net/freebies-2) - Free 3D models & textures
@@ -366,10 +365,7 @@
 - [Texxary](https://texxary.com/) - 3D scans library
 - [Textures.com](https://www.textures.com/) - Massive professional texture library
 - [Texturify](https://texturify.com/) - Free texture collection
-- [The Pattern Library](https://thepatternlibrary.com/) - Creative pattern designs
 - [TextureCan](https://www.texturecan.com/) - Free PBR textures, high scan quality
-- [Wild Textures](https://www.wildtextures.com/) - Free high-res organic/natural textures
-- [Texture Palace](https://www.texturepalace.com/) - Free seamless architectural textures
 
 **Specialized:**
 - [Texturing.xyz](https://texturing.xyz/) - MicroSkin displacement maps (paid)
