@@ -223,7 +223,7 @@
 
 **Content Libraries & Resources:**
 - [Figma Community](https://www.figma.com/community) - Free templates, plugins, UI kits
-- [Affinity Tutorials](https://affinity.studio/learn/) - Official tutorials, tips, community showcase
+- [Affinity Help Center](https://www.affinity.studio/help/getting-started/) - Official tutorials, guides, getting started
 
 ---
 
