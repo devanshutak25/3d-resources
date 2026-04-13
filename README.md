@@ -2,7 +2,7 @@
 
 **The most comprehensive, community-driven collection of resources for 3D design, art, animation, VFX, game development, and digital creativity.**
 
-> 700+ curated links spanning modeling, texturing, lighting, rendering, motion graphics, game dev, design tools, and more. Free and paid. Beginner to advanced.
+> 800+ curated links spanning modeling, texturing, lighting, rendering, cinematography, composition, animation, motion graphics, game dev, design tools, and more. Free and paid. Beginner to advanced.
 
 ---
 
@@ -36,10 +36,16 @@
 - [Color Tools](#color-tools)
 - [General Inspiration](#general-inspiration)
 - [Photography](#photography)
+- [Cinematography & Camera](#cinematography--camera)
+- [Composition & Visual Storytelling](#composition--visual-storytelling)
+- [Drawing & Painting for 3D Artists](#drawing--painting-for-3d-artists)
+- [Animation Principles](#animation-principles)
+- [Design Principles & Typography](#design-principles--typography)
 - [Video & Motion](#video--motion)
 - [Video Editing](#video-editing)
 - [Game Development](#game-development)
 - [Machine Learning for CG](#machine-learning-for-cg)
+- [Rendering & Shader Theory](#rendering--shader-theory)
 - [Conversion Tools](#conversion-tools)
 - [Industry Insights](#industry-insights)
 - [Contributing](#contributing)
@@ -116,6 +122,12 @@
 - [Free3D](https://free3d.com/) - Large free collection
 - [3D MDB](https://3dmdb.com/) - Model database
 - [MyMiniFactory](https://www.myminifactory.com/scantheworld/) - Scan the World collection
+- [Stanford 3D Scanning Repository](https://graphics.stanford.edu/data/3Dscanrep/) - Classic academic 3D scans (bunny, dragon, etc.)
+- [Casual Effects Data](https://casual-effects.com/data/index.html) - Graphics research datasets & test scenes
+- [Sample and Hold 3D Scans](https://sampleandhold.co.uk/downloads) - Downloadable photogrammetry scans
+- [Keenan Crane's Model Repository](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/) - Clean test meshes for shader/subdivision work
+- [CadNav](https://www.cadnav.com/) - Architecture, furniture, vehicle models
+- [Polycam Explore](https://polycam.ai/explore) - User-uploaded photogrammetry scans
 
 **Specialized:**
 - [Mixamo](https://www.mixamo.com/) - Characters & animations (Adobe, free)
@@ -125,8 +137,11 @@
 - [Anything World Gallery](https://app.anything.world/gallery) - Animated models
 - [Models Resource](https://www.models-resource.com/) - Video game model rips
 - [Dimensions.com](https://www.dimensions.com/) - Dimensioned drawings database
-- [NASA 3D Resources](https://nasa3d.arc.nasa.gov/) - Space models
+- [NASA 3D Resources](https://science.nasa.gov/3d-resources/) - Spacecraft, planets, terrain models (public domain, also on [GitHub](https://nasa3d.arc.nasa.gov/))
 - [Smithsonian 3D](https://3d.si.edu/) - Historical artifacts
+- [Smithsonian Open Access](https://www.si.edu/openaccess) - Millions of 2D/3D museum assets, CC0
+- [British Museum (Sketchfab)](https://sketchfab.com/britishmuseum) - Scanned artifacts
+- [Cleveland Museum of Art (Sketchfab)](https://sketchfab.com/clevelandart) - Museum 3D scans
 - [Quaternius](https://quaternius.com/) - Free low-poly game assets
 - [Kenney Assets](https://kenney.nl/assets/) - Free game assets
 - [Wire Wheels Club](https://wirewheelsclub.com/models/) - Vehicle models
@@ -172,6 +187,12 @@
 - [Adobe Stock HDRI](https://stock.adobe.com/search?k=hdri+studio) - Studio HDRIs
 - [sIBL Archive](http://www.hdrlabs.com/sibl/archive.html) - Classic collection
 - [Location Textures](https://locationtextures.com/panoramas/) - Location panoramas
+- [The Mari Channel HDR](https://themarichannel.com/all-hdr/) - HDR resources
+- [RenderMan HDRIs](https://renderman.pixar.com/category/111-hdri) - Pixar's HDRI collection
+- [Kungfujackrabbit](https://kungfujackrabbit.com/hdri/) - Free HDRIs
+- [OpenFootage](https://www.openfootage.net/) - Free HDRIs, VFX plates, and backplates
+- [Maxime Roz HDRI Pack](https://www.maximeroz.com/hdri-free-pack) - Free studio & outdoor HDRIs for product viz
+- [HDRI Hub](https://hdri-hub.com/) - High-quality HDRIs with backplates
 
 ### Textures & Materials
 
@@ -193,6 +214,12 @@
 - [The Pixel Lab Freebies](https://www.thepixellab.net/freebies-2) - Free 3D models & textures
 - [Texture Labs](https://texturelabs.org/) - Free texture resources
 - [Texxary](https://texxary.com/) - 3D scans library
+- [Textures.com](https://www.textures.com/) - Massive professional texture library
+- [Texturify](https://texturify.com/) - Free texture collection
+- [The Pattern Library](https://thepatternlibrary.com/) - Creative pattern designs
+- [TextureCan](https://www.texturecan.com/) - Free PBR textures, high scan quality
+- [Wild Textures](https://www.wildtextures.com/) - Free high-res organic/natural textures
+- [Texture Palace](https://www.texturepalace.com/) - Free seamless architectural textures
 
 **Specialized:**
 - [Texturing.xyz](https://texturing.xyz/) - MicroSkin displacement maps (paid)
@@ -213,6 +240,8 @@
 - [Substance Designer](https://www.adobe.com/products/substance3d-designer.html) - Procedural texturing
 - [ArmorPaint](https://armorpaint.org/) - Open-source texture painting
 - [SmartNormal 2.0](https://www.smart-page.net/smartnormal/) - Normal map generation
+- [Material Maker](https://www.materialmaker.org/) - Open-source procedural texture generator (Substance Designer alternative)
+- [xNormal](https://xnormal.net/) - Free high-poly to low-poly baking (normals, AO, cavity)
 
 ---
 
@@ -441,6 +470,10 @@
 - [TyFlow](https://docs.tyflow.com/download/) - Particle system (3ds Max)
 - [Substance Painter Live Link](https://xolotlstudio.gumroad.com/l/fTRFN) - SP integration
 
+**Tips & Workflows:**
+- [Rolando Barry Blog](https://rolandobarry.com/blog) - C4D tips, shader switch workflows, productivity tricks
+- [Rolando Barry (Gumroad)](https://honear.gumroad.com/) - C4D assets & presets
+
 ### Fusion 360
 
 - [Fusion for Designers](https://academy.autodesk.com/node/125666/take?q-nr=2) - Autodesk Academy
@@ -585,6 +618,21 @@
 - [Storm HydroFX](https://storm-vfx.com/) - Fluid simulation
 - [Quixel Bridge](https://quixel.com/bridge) - Megascans import plugin
 - [Flim AI](https://flim.ai/) - Film search engine for creatives
+- [Graphtoy](https://iquilezles.org/apps/graphtoy/) - Mathematical function grapher by Inigo Quilez
+- [Jsplacement](https://windmillart.net/?p=jsplacement) - Procedural displacement map generator
+- [mrViewer](https://mrviewer.sourceforge.io/) - Image sequence & EXR viewer
+- [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Interactive math concepts for motion graphics
+- [City Roads](https://github.com/anvaka/city-roads) - Generate road maps of any city as vector art
+- [PureRef](https://pureref.com/) - Industry-standard reference board tool (pay what you want)
+- [Blockbench](https://www.blockbench.net/) - Free low-poly/voxel 3D modeler
+- [MeshLab](https://www.meshlab.net/) - Open-source mesh processing, essential for photogrammetry cleanup
+- [Photopea](https://www.photopea.com/) - Free browser-based Photoshop alternative with full PSD support
+- [Gaea](https://quadspinner.com/) - Terrain generation tool (free community edition)
+- [Plasticity](https://www.plasticity.xyz/) - CAD-style modeling with artist-friendly UX
+- [Dust3D](https://dust3d.org/) - Open-source quick base mesh generation
+- [darktable](https://www.darktable.org/) - Open-source RAW photo editor for reference/texture processing
+- [PixelSham Lighting Map](https://www.pixelsham.com/lighting-map/) - Real-time sun/sky position for any location and time
+- [Sun Path Tools](https://sunpath.tools/) - Sun path and golden hour visualization
 
 ---
 
@@ -620,6 +668,10 @@
 - [The Blueprints](https://www.the-blueprints.com/) - Vehicle & object blueprints
 - [Nick Taylor (MVSM)](http://nicholas-taylor.com/) - Project breakdowns
 - [Cornelius Dammrich](https://corneliusdammrich.gumroad.com) - Sci-fi environments
+- [FX References](https://ref-fx.com/) - Visual effects reference library
+- [Before & Afters](https://beforesandafters.com/) - VFX breakdowns & behind-the-scenes
+- [HUDs and GUIs](https://www.hudsandguis.com/) - FUI/screen graphics reference for sci-fi 3D work
+- [Character Design References](https://characterdesignreferences.com/) - Shape language & character design studies
 
 ---
 
@@ -665,7 +717,7 @@
 
 ## Design Tools
 
-**Editors:** [Graphite](https://editor.graphite.rs/) | [Adobe Express](https://new.express.adobe.com/) | [X-Design](https://www.x-design.com/) | [Modyfi](http://modyfi.com/) | [Eagle](https://en.eagle.cool/) (asset organizer)
+**Editors:** [Graphite](https://editor.graphite.rs/) | [Adobe Express](https://new.express.adobe.com/) | [X-Design](https://www.x-design.com/) | [Modyfi](http://modyfi.com/) | [Eagle](https://en.eagle.cool/) (asset organizer) | [Carbon](https://carbon.now.sh/) (code snippet images)
 
 **Effects:** [Efecto](https://efecto.app/) (ASCII/dithering) | [BabyTrack](https://freedesigntool.online/baby-track) (blob tracking) | [Halftone Maker](https://halftonemaker.com/) | [Vector Halftone](https://halftone.xoihazard.com/) | [Space Type Generator](https://spacetypegenerator.com/) | [Tiled Art](https://tiled.art/en/home/) (tessellations)
 
@@ -687,19 +739,96 @@
 
 ## Color Tools
 
-[Color Hunt](https://colorhunt.co/) | [Coolors](https://coolors.co/) | [Lospec Palette List](https://lospec.com/palette-list) | [WebGradients](https://webgradients.com/) | [Gradient Horse](https://gradient.horse/) | [Huemint](https://huemint.com/brand-intersection/)
+[Color Hunt](https://colorhunt.co/) | [Coolors](https://coolors.co/) | [Lospec Palette List](https://lospec.com/palette-list) | [WebGradients](https://webgradients.com/) | [Gradient Horse](https://gradient.horse/) | [Huemint](https://huemint.com/brand-intersection/) | [Adobe Color](https://color.adobe.com/explore) | [Canva Color Palettes](https://www.canva.com/colors/color-palettes/) | [Paletton](https://paletton.com/) | [ColorBox](https://colorbox.io/) | [Color Method](https://color.method.ac/) (interactive color matching game) | [HueData](https://huedata.org/) (palettes from famous paintings)
 
 ---
 
 ## General Inspiration
 
-[H.R. Giger (Artnet)](http://www.artnet.com/artists/hans-rudolf-giger/) | [Janelle Loi Resources](https://janelloi.com/recommended-resources/) | [Geometric Design (Canva)](https://designschool.canva.com/blog/geometric-design/) | [Movie Scenes Inspired by Art](https://x.com/JamesLucasIT/status/1795507471693320546) | [Mech Blog](http://mechblog.tumblr.com/) | [The Black Workshop](http://theblackworkshop.tumblr.com/) | [Activation Ideas](https://activationideas.com/) | [OTAKU GANGSTA](http://otakugangsta.com/) | [Mr Cup](http://www.mr-cup.com/blog.html) | [DETHJUNKIE](http://www.dethjunkie.com/) | [Truchet's Tiles](https://arearugscarpet.blogspot.com/2014/04/the-curse-of-truchets-tiles.html)
+[H.R. Giger (Artnet)](http://www.artnet.com/artists/hans-rudolf-giger/) | [Janelle Loi Resources](https://janelloi.com/recommended-resources/) | [Geometric Design (Canva)](https://designschool.canva.com/blog/geometric-design/) | [Movie Scenes Inspired by Art](https://x.com/JamesLucasIT/status/1795507471693320546) | [Mech Blog](http://mechblog.tumblr.com/) | [The Black Workshop](http://theblackworkshop.tumblr.com/) | [Activation Ideas](https://activationideas.com/) | [OTAKU GANGSTA](http://otakugangsta.com/) | [Mr Cup](http://www.mr-cup.com/blog.html) | [DETHJUNKIE](http://www.dethjunkie.com/) | [Truchet's Tiles](https://arearugscarpet.blogspot.com/2014/04/the-curse-of-truchets-tiles.html) | [But Does It Float](https://butdoesitfloat.com/) | [Sakuga Booru](https://sakugabooru.com/) | [Savee](https://savee.it/) | [Designspiration](https://designspiration.com/) | [Muddycolors](https://www.muddycolors.com/) (pro illustrator blog)
 
 ---
 
 ## Photography
 
 - [Cambridge in Colour](http://www.cambridgeincolour.com/tutorials.htm) - Comprehensive photography tutorials
+- [Strobist Lighting 101](https://strobist.blogspot.com/2006/03/lighting-101.html) - Definitive free course on shaping light (directly applicable to 3D lighting)
+- [Workphlo](https://www.youtube.com/c/WorkphloPhotography) - Studio product photography lighting breakdowns with placement diagrams
+- [Fstoppers Education](https://fstoppers.com/education) - Studio lighting, portrait ratios, product photography
+- [B&H Explora Photography](https://www.bhphotovideo.com/explora/photography) - Deep technical articles on lighting modifiers and color temperature
+- [Gavin Hoey (Adorama)](https://www.youtube.com/@GavinHoey) - Studio lighting tutorials with setup diagrams
+
+---
+
+## Cinematography & Camera
+
+**Shot Composition & Camera:**
+- [StudioBinder Shot Composition Guide](https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/) - Comprehensive guide with film stills
+- [StudioBinder Camera Shots Encyclopedia](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/) - Every shot type, angle, and movement
+- [StudioBinder Camera Movements](https://www.studiobinder.com/blog/types-of-camera-movements-in-film/) - Dolly, track, crane, steadicam breakdowns
+- [CinematographyDB](https://cinematographydb.com/) - Database of DP filmographies, study any cinematographer's visual language
+- [No Film School - Cinematography](https://nofilmschool.com/cinematography) - Constant stream of technique articles
+
+**Video Essays & Analysis:**
+- [Every Frame a Painting](https://www.youtube.com/c/EveryFrameaPainting) - Gold-standard video essays on composition, camera, editing rhythm
+- [CinemaTyler](https://www.youtube.com/c/CinemaTyler) - Deep analysis of lens choice, color, blocking, lighting in film
+- [Wolfcrow](https://www.youtube.com/c/wolfcrow) - Cinematography fundamentals, color science, exposure theory
+- [In Depth Cine](https://www.youtube.com/c/InDepthCine) - Practical lighting setups and narrative technique
+
+**Lighting for Film/CG:**
+- [Shane Hurlbut ASC Blog](https://www.hurlbutvisuals.com/blog) - Real DP knowledge on cinematography, lens choice, lighting setups
+
+---
+
+## Composition & Visual Storytelling
+
+- [Neil Blevins Art Lessons](https://www.neilblevins.com/art_lessons/art_lessons.htm) - Composition types, tangents, visual hierarchy by a Pixar artist
+- [Can't Unsee](https://cantunsee.space/) - Interactive game training visual alignment and spacing precision
+- [Laws of UX](https://lawsofux.com/) - Gestalt principles, visual perception laws (directly applicable to 3D composition)
+- [Handprint Color & Composition](https://www.handprint.com/HP/WCL/color18a.html) - Deepest free color theory resource online, covers perception and harmony
+- [Marco Bucci - Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY) - 10-part color theory series for artists, applicable to 3D lighting/texturing
+- [PhotoPills Golden Ratio Guide](https://www.photopills.com/articles/golden-ratio-photography-composition-guide) - Golden ratio, spirals, triangles with overlay diagrams
+
+---
+
+## Drawing & Painting for 3D Artists
+
+**Gesture & Figure Drawing:**
+- [Line of Action](https://line-of-action.com/) - Free timed gesture drawing (figures, animals, hands, faces)
+- [QuickPoses](https://quickposes.com/en) - Timed drawing practice with huge photo library
+- [SketchDaily Reference](https://www.sketchdaily.net/) - Timed drawing sessions across categories
+- [Posemaniacs](https://www.posemaniacs.com/) - Rotatable 3D pose reference with muscle groups
+- [Human Anatomy for Artists](https://human-anatomy-for-artist.com/) - Massive free photo reference by body part and angle
+- [BodyVisualizer](https://bodyvisualizer.com/) - 3D body shape visualizer for proportion reference
+
+**Digital Painting & Concept Art:**
+- [Ctrl+Paint](https://www.ctrlpaint.com/library) - Structured free video library: digital painting fundamentals, value studies, color
+- [Proko Free Library](https://www.proko.com/library/) - Anatomy, figure drawing, portrait (substantial free tier)
+- [ModernDayJames](https://www.youtube.com/c/moderndayjames) - Rigorous perspective systems and construction drawing
+- [ArtStation Learning](https://www.artstation.com/learning) - Free courses from Blizzard, Riot, Pixar pros
+- [Trent Kaniuga](https://www.youtube.com/@trentkaneunga) - Concept art workflow for game/film production
+
+---
+
+## Animation Principles
+
+- [The 12 Principles (Illustrated)](https://the12principles.tumblr.com/) - GIF breakdowns of each principle
+- [Animator Island - 51 Exercises](https://www.animatorisland.com/51-great-animation-exercises-to-master/) - Structured practice curriculum by difficulty
+- [Endless Reference](https://www.endlessreference.com/) - Video clips browsable by action type (walk, run, fight, etc.)
+- [Animation Resources](https://animationresources.org/) - Archives of classic animation, frame-by-frame studies
+- [New Frame Plus](https://www.youtube.com/c/NewFramePlus) - Animation analysis in games (walk cycles, weight, timing)
+- [iAnimate Free Resources](https://ianimate.net/free-resources) - Webinars from Disney/Pixar/DreamWorks animators
+- [Hippydrome](https://www.hippydrome.com/) - Richard Williams walk cycle and timing chart reference
+
+---
+
+## Design Principles & Typography
+
+- [Practical Typography](https://practicaltypography.com/) - Free online book on type fundamentals, hierarchy, spacing
+- [Typewolf](https://typewolf.com/) - Curated typography inspiration, fonts in real-world use
+- [The Futur](https://www.youtube.com/@TheFutur) - Graphic design fundamentals, typography, grid systems
+- [Better Web Type](https://betterwebtype.com/web-typography-resources/) - Free typography course on rhythm and hierarchy
+- [NNGroup Visual Design](https://www.nngroup.com/topic/visual-design/) - Research-backed principles on hierarchy, contrast, whitespace
 
 ---
 
@@ -714,10 +843,10 @@
 - [Multichannel EXR](https://forum.blackmagicdesign.com/viewtopic.php?f=22&t=39964) | [Split EXR](http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion)
 
 ### Motion Graphics Inspiration
-[Motionographer](http://motionographer.com/) | [Eyecandy](https://eyecannndy.com/featured/) | [Ads of the World](https://www.adsoftheworld.com/) | [Film Grab](https://film-grab.com/) | [Opening Titles (Vimeo)](https://vimeo.com/theopeningtitles) | [Flim AI](https://flim.ai/) | [ShotDeck](https://shotdeck.com/) | [PlayPhrase.me](https://www.playphrase.me/) | [John Berube](https://johnberube.com/)
+[Motionographer](http://motionographer.com/) | [Eyecandy](https://eyecannndy.com/featured/) | [Ads of the World](https://www.adsoftheworld.com/) | [Film Grab](https://film-grab.com/) | [Opening Titles (Vimeo)](https://vimeo.com/theopeningtitles) | [Flim AI](https://flim.ai/) | [ShotDeck](https://shotdeck.com/) | [PlayPhrase.me](https://www.playphrase.me/) | [John Berube](https://johnberube.com/) | [Art of the Title](https://artofthetitle.com/) | [Stash Magazine](https://stashmedia.tv/) | [Behance Motion](https://www.behance.net/galleries/motion) | [Art of Style Frame](https://artofstyleframe.com/)
 
 ### Motion Graphics Tools
-[Resolume](https://resolume.com/software) | [MadMapper](https://madmapper.com/) | [Notch](https://www.notch.one/) | [Motion Canvas](https://motioncanvas.io/) | [PixelCrash](https://www.pixelcrash.xyz/) | [Effekseer](https://effekseer.github.io/en/) | [Magic Animator](https://magicanimator.com/) | [nw_wrld](https://github.com/aagentah/nw_wrld) | [Nukepedia Lens Engine](https://www.nukepedia.com/gizmos/draw/lens-engine) | [CorridorKey](https://github.com/nikopueringer/CorridorKey) | [Sammie-Roto-2](https://github.com/Zarxrax/Sammie-Roto-2)
+[Resolume](https://resolume.com/software) | [MadMapper](https://madmapper.com/) | [Notch](https://www.notch.one/) | [Motion Canvas](https://motioncanvas.io/) | [PixelCrash](https://www.pixelcrash.xyz/) | [Effekseer](https://effekseer.github.io/en/) | [Magic Animator](https://magicanimator.com/) | [nw_wrld](https://github.com/aagentah/nw_wrld) | [Nukepedia Lens Engine](https://www.nukepedia.com/gizmos/draw/lens-engine) | [CorridorKey](https://github.com/nikopueringer/CorridorKey) | [Sammie-Roto-2](https://github.com/Zarxrax/Sammie-Roto-2) | [Dume](https://rainboxlab.org/tools/dume/) (media encoder)
 
 ### Stock Footage
 [Internet Archive](https://archive.org/) | [Prelinger Archives](https://archive.org/details/prelinger) | [ActionVFX Practice](https://www.actionvfx.com/practice-footage) | [OpenVisualFX](https://openvisualfx.com/)
@@ -768,6 +897,21 @@
 
 - [Introduction to Machine Learning (Rebelway)](https://www.youtube.com/watch?v=tQGfTzgxQIc) - ML for VFX artists
 - [Introduction to Machine Learning (Course)](https://www.rebelway.net/introduction-to-machine-learning) - Full Rebelway course
+
+---
+
+## Rendering & Shader Theory
+
+- [Physically Based Rendering (PBR Book)](https://www.pbr-book.org/) - Full book free online, definitive PBR reference
+- [The Book of Shaders](https://thebookofshaders.com/) - Interactive intro to GLSL fragment shaders
+- [LearnOpenGL](https://learnopengl.com/) - Deep rendering concepts from scratch (lighting, shadows, PBR, SSAO)
+- [Scratchapixel](https://www.scratchapixel.com/) - Ray tracing, rasterization, math foundations from first principles
+- [3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/) - Clear breakdowns of SSAO, bloom, SSR, and more
+- [Real-Time Rendering](https://www.realtimerendering.com/) - Companion site to the book, massive curated link collection
+- [Marmoset Resources](https://marmoset.co/resources/) - Baking guides, PBR theory, technical articles
+- [Substance Academy](https://academy.substance3d.com/) - Free official Substance Painter/Designer tutorials
+- [Graphics Programming Resources](https://graphics-programming.org/) - Papers, talks, implementations aggregated by community
+- [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - Shader & rendering tutorials (Unity-focused, concepts transfer)
 
 ---
 
