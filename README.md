@@ -2,13 +2,21 @@
 
 **The most comprehensive, community-driven collection of resources for 3D design, art, animation, VFX, game development, and digital creativity.**
 
-> 800+ curated links spanning modeling, texturing, lighting, rendering, cinematography, composition, animation, motion graphics, game dev, design tools, and more. Free and paid. Beginner to advanced.
+> 900+ curated links spanning modeling, texturing, lighting, rendering, compositing, cinematography, composition, animation, motion graphics, game dev, design tools, and more. Free and paid. Beginner to advanced.
 
 ---
 
 ## Table of Contents
 
 - [3D Software](#3d-software)
+- [2D & Animation Software](#2d--animation-software)
+- [VFX & Compositing Software](#vfx--compositing-software)
+- [Render Engines](#render-engines)
+- [Video Editing Software](#video-editing-software)
+- [Audio Software](#audio-software)
+- [Design Software](#design-software)
+- [Viewers & File Utilities](#viewers--file-utilities)
+- [USD (Universal Scene Description)](#usd-universal-scene-description)
 - [3D Assets](#3d-assets)
 - [3D Learning](#3d-learning)
   - [YouTube Channels](#youtube-channels)
@@ -98,6 +106,152 @@
 
 ---
 
+## 2D & Animation Software
+
+| Software | Description | Best For |
+|----------|------------|----------|
+| [Krita](https://krita.org/) | Free open-source digital painting. Brush engine, animation, HDR | Digital painting, concept art, 2D animation |
+| [Clip Studio Paint](https://www.clipstudio.net/) | Industry-standard illustration & comics. Animation timeline | Manga, illustration, frame-by-frame animation |
+| [Procreate](https://procreate.com/) | iPad painting app. Procreate Dreams for animation | Mobile illustration, storyboards |
+| [Aseprite](https://www.aseprite.org/) | Pixel art editor with animation tools ([source on GitHub](https://github.com/aseprite/aseprite)) | Pixel art, sprite animation, game assets |
+| [Toon Boom Harmony](https://www.toonboom.com/products/harmony) | Professional 2D animation (studio standard) | TV animation, feature film |
+| [Toon Boom Storyboard Pro](https://www.toonboom.com/products/storyboard-pro) | Industry-standard storyboarding | Pre-production, animatics |
+| [Moho (Smith Micro)](https://moho.lostmarble.com/) | 2D vector/bone-rigged animation | Character animation, motion graphics |
+| [Pixel Composer](https://makham.itch.io/pixel-composer) | Node-based 2D VFX & compositing for pixel art | Pixel art effects, game VFX |
+| [OpenToonz](https://opentoonz.github.io/e/) | Free (Studio Ghibli's engine, open-sourced) | Traditional 2D animation |
+| [Pencil2D](https://www.pencil2d.org/) | Free lightweight 2D animation | Simple hand-drawn animation |
+| [Synfig Studio](https://www.synfig.org/) | Free open-source 2D vector animation | Cutout/bone animation |
+| [Rive](https://rive.app/) | Interactive animation for apps & web | UI animation, interactive graphics |
+| [Cavalry](https://cavalry.scenegroup.co/) | Procedural 2D motion design (After Effects alternative) | Data-driven motion graphics |
+
+**Content Libraries & Resources:**
+- [Krita Resources](https://krita.org/en/resources/) - Official brushes, textures, templates
+- [Clip Studio Assets](https://assets.clip-studio.com/en-us/) - Brushes, materials, 3D models, auto-actions
+- [Procreate Handbook](https://procreate.com/handbook) - Official guide + brush library
+- [Toon Boom Learn](https://learn.toonboom.com/) - Official tutorials & documentation
+- [Aseprite Docs](https://www.aseprite.org/docs/) - Official documentation & scripting API
+- [OpenToonz Resources](https://opentoonz.github.io/e/resources.html) - Effects plugins & documentation
+
+---
+
+## VFX & Compositing Software
+
+| Software | Description | Best For |
+|----------|------------|----------|
+| [Nuke (Foundry)](https://www.foundry.com/products/nuke-family/nuke) | Industry-standard compositing (Non-Commercial free) | Film VFX compositing |
+| [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/products/davinciresolve/fusion) | Node-based compositing (free with Resolve) | Compositing, VFX |
+| [Natron](https://natrongithub.github.io/) | Free open-source node compositor (Nuke-like) | Indie VFX compositing |
+| [EmberGen](https://jangafx.com/software/embergen/) | Real-time volumetric fluid sim (fire, smoke, explosions) | Game VFX, real-time effects |
+| [LiquiGen](https://jangafx.com/software/liquigen/) | Real-time liquid simulation | Game fluid effects |
+| [GeoGen (JangaFX)](https://jangafx.com/software/geogen/) | Real-time terrain generation | Game environments |
+| [After Effects](https://www.adobe.com/products/aftereffects.html) | Motion graphics & compositing | Motion design, light VFX |
+| [HitFilm](https://fxhome.com/product/hitfilm) | Free VFX & editing combo | Indie filmmakers |
+
+**Content Libraries & Resources:**
+- [Nukepedia](https://www.nukepedia.com/) - Free Nuke gizmos, tools, plugins, tutorials
+- [JangaFX Tutorials](https://jangafx.com/tutorials/) - Official EmberGen/LiquiGen tutorials
+- [ActionVFX](https://www.actionvfx.com/) - VFX stock elements (explosions, fire, debris)
+
+---
+
+## Render Engines
+
+| Engine | Type | Pricing | Best For |
+|--------|------|---------|----------|
+| [Redshift (Maxon)](https://www.maxon.net/en/redshift) | GPU-biased | Included with Maxon One | Production rendering, motion graphics |
+| [Octane (OTOY)](https://home.otoy.com/render/octane-render/) | GPU unbiased | Free tier available | Photoreal, arch-viz |
+| [Arnold (Autodesk)](https://arnoldrenderer.com/) | CPU/GPU hybrid | With Maya/3ds Max sub | Film VFX, lighting |
+| [V-Ray (Chaos)](https://www.chaos.com/v-ray) | CPU/GPU hybrid | ~$60/mo | Arch-viz, product viz |
+| [Corona (Chaos)](https://www.chaos.com/corona) | CPU | ~$30/mo | Arch-viz, interiors |
+| [Cycles](https://www.cycles-renderer.org/) | CPU/GPU path tracer | Free (in Blender) | General purpose |
+| [Karma (SideFX)](https://www.sidefx.com/products/karma/) | CPU/GPU | With Houdini license | Film VFX, USD pipeline |
+| [RenderMan (Pixar)](https://renderman.pixar.com/) | CPU/GPU hybrid | Free non-commercial | Film production |
+| [KeyShot (Luxion)](https://www.keyshot.com/) | CPU real-time ray tracing | $995+ perpetual | Product viz, industrial design |
+| [Marmoset Toolbag](https://marmoset.co/toolbag/) | Real-time GPU | $189 perpetual | Game art baking, presentation |
+| [LuxCore](https://luxcorerender.org/) | CPU/GPU unbiased | Free open-source | Physically accurate rendering |
+| [Guerrilla Render](https://guerrillarender.com/) | Production renderer | Free | Film production |
+| [Clarisse (Isotropix)](https://www.isotropix.com/products/clarisse) | CPU/GPU + scene management | Subscription | Large-scale VFX |
+| [D5 Render](https://www.d5render.com/) | Real-time GPU | Free version | Arch-viz |
+| [Twinmotion (Epic)](https://www.twinmotion.com/) | Real-time GPU | Free version | Arch-viz |
+| [Radeon ProRender (AMD)](https://www.amd.com/en/products/software/prorender.html) | GPU path tracer | Free | Cross-platform, GPU-agnostic |
+
+**Content Libraries:**
+- [RenderMan Community](https://renderman.pixar.com/community) - Free RenderMan assets, shaders, HDRIs
+- [Chaos Cosmos](https://www.chaos.com/cosmos) - Free V-Ray/Corona asset library (3D models, materials, HDRIs)
+- [Redshift Community](https://redshift.maxon.net/) - Forums, shaders, resources
+- [Arnold Resources](https://arnoldrenderer.com/resources/) - Official shaders, docs, tutorials
+- [OTOY Octane Render Cloud](https://render.otoy.com/) - Free ORBX assets & cloud rendering
+
+---
+
+## Video Editing Software
+
+| Software | Description | Best For |
+|----------|------------|----------|
+| [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) | Free professional editing, color grading, Fusion, Fairlight audio | Color grading, editing, full post pipeline |
+| [Premiere Pro](https://www.adobe.com/products/premiere.html) | Industry-standard NLE | Broadcast, film editing |
+| [Final Cut Pro](https://www.apple.com/final-cut-pro/) | Apple-native NLE with magnetic timeline | Mac-based editing |
+| [Kdenlive](https://kdenlive.org/) | Free open-source NLE | Linux/cross-platform editing |
+| [Shotcut](https://shotcut.org/) | Free open-source video editor | Quick edits, beginners |
+
+**Content Libraries & Resources:**
+- [DaVinci Resolve Training](https://www.blackmagicdesign.com/products/davinciresolve/training) - Official free training (hundreds of hours)
+- [Premiere Pro Learn](https://helpx.adobe.com/premiere-pro/tutorials.html) - Official Adobe tutorials
+
+---
+
+## Audio Software
+
+| Software | Description | Best For |
+|----------|------------|----------|
+| [Audacity](https://www.audacityteam.org/) | Free open-source audio editor & recorder | Voice recording, SFX editing, podcast |
+| [Adobe Audition](https://www.adobe.com/products/audition.html) | Professional audio workstation | Podcast, sound design, restoration |
+| [Reaper](https://www.reaper.fm/) | Full DAW, $60 personal license | Music production, sound design |
+| [Fairlight](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) | Professional audio (built into DaVinci Resolve) | Film audio post, Foley |
+
+---
+
+## Design Software
+
+| Software | Description | Best For |
+|----------|------------|----------|
+| [Figma](https://www.figma.com/) | Collaborative UI/UX design (free tier) | UI design, prototyping, design systems |
+| [Affinity Designer 2](https://affinity.serif.com/en-us/designer/) | Vector design ($69.99 perpetual) | Illustration, UI, print |
+| [Affinity Photo 2](https://affinity.serif.com/en-us/photo/) | Photo editing ($69.99 perpetual) | Photo retouching, texture editing |
+| [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/) | Page layout ($69.99 perpetual) | Print, editorial |
+| [Inkscape](https://inkscape.org/) | Free open-source vector editor | SVG editing, illustration |
+| [GIMP](https://www.gimp.org/) | Free open-source image editor | Texture editing, photo manipulation |
+| [Photopea](https://www.photopea.com/) | Free browser-based PSD editor | Quick texture edits, no install |
+
+**Content Libraries & Resources:**
+- [Figma Community](https://www.figma.com/community) - Free templates, plugins, UI kits
+- [Affinity Spotlight](https://affinity.serif.com/en-us/spotlight/) - Tutorials, tips, community showcase
+
+---
+
+## Viewers & File Utilities
+
+| Software | Description | Best For |
+|----------|------------|----------|
+| [XnView MP](https://www.xnview.com/en/xnviewmp/) | Free image viewer/converter (500+ formats) | Batch conversion, texture browsing |
+| [DJV](https://darbyjohnston.github.io/DJV/) | Free professional image sequence viewer | EXR/DPX playback, film pipeline |
+| [f3d](https://f3d.app/) | Fast 3D file viewer (glTF, STL, OBJ, USD, etc.) | Quick 3D file preview |
+| [mrViewer](https://mrviewer.sourceforge.io/) | Image sequence & EXR viewer | VFX pipeline review |
+| [OpenEXR Viewer](https://github.com/AcademySoftwareFoundation/openexr) | Official EXR tools | EXR inspection |
+
+---
+
+## USD (Universal Scene Description)
+
+- [OpenUSD](https://openusd.org/) - Official Pixar USD site (specification, tools, resources)
+- [USD Working Group (ASWF)](https://wiki.aswf.io/display/WGUSD/) - Alliance for Open Media USD resources
+- [NVIDIA USD Resources](https://developer.nvidia.com/usd) - Omniverse, tutorials, tools
+- [Apple USD Tools](https://developer.apple.com/augmented-reality/tools/) - usdz_converter, Reality Composer
+- [USD Survival Guide](https://lucascheller.github.io/VFX-UsdSurvivalGuide/) - Practical USD guide for VFX artists
+- [USD Cookbook (Colin Kennedy)](https://github.com/ColinKennedy/USD-Cookbook) - Code recipes & examples
+
+---
+
 ## 3D Assets
 
 ### Model Libraries
@@ -171,8 +325,15 @@
 **Content Libraries (Software-Specific):**
 - [SideFX Content Library](https://www.sidefx.com/contentlibrary/) - Houdini assets
 - [Blender Demo Files](https://www.blender.org/download/demo-files/) - Official demos
+- [Blender Extensions](https://extensions.blender.org/) - Official addons & themes repository
 - [Substance 3D Assets](https://substance3d.adobe.com/assets/) - Adobe materials
+- [Substance 3D Community Assets](https://substance3d.adobe.com/community-assets) - User-shared materials
 - [ZBrush Download Center](https://pixologic.com/zbrush/downloadcenter/alpha/) - Alphas & brushes
+- [Maxon Asset Browser](https://www.maxon.net/en/cinema-4d/features/asset-browser) - C4D built-in asset library
+- [Maya Content Browser](https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-14B1E820-24A5-41CF-B3A2-1BFED3464908) - Official example scenes & assets
+- [3DCoat Smart Materials](https://3dcoat.com/smart-materials/) - Official materials library
+- [SketchUp 3D Warehouse](https://3dwarehouse.sketchup.com/) - Community models
+- [Nomad Sculpt Resources](https://nomadsculpt.com/resources/) - Community brushes & matcaps
 
 ### HDRIs
 
@@ -558,7 +719,6 @@
 - [Flim AI](https://flim.ai/) - Film search engine for creatives
 - [Graphtoy](https://iquilezles.org/apps/graphtoy/) - Mathematical function grapher by Inigo Quilez
 - [Jsplacement](https://windmillart.net/?p=jsplacement) - Procedural displacement map generator
-- [mrViewer](https://mrviewer.sourceforge.io/) - Image sequence & EXR viewer
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Interactive math concepts for motion graphics
 - [City Roads](https://github.com/anvaka/city-roads) - Generate road maps of any city as vector art
 - [PureRef](https://pureref.com/) - Industry-standard reference board tool (pay what you want)
