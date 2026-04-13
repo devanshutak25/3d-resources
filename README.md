@@ -1,464 +1,822 @@
-# 🎨 3D Resources 
+# 3D Resources
 
-*A comprehensive collection of 3D design software, learning resources, tools, and community assets for creators at all skill levels*
+**The most comprehensive, community-driven collection of resources for 3D design, art, animation, VFX, game development, and digital creativity.**
 
-![3D Resources Banner](https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&h=400&fit=crop)
-
-## 📚 Table of Contents
-- [Free 3D Design Software](#-free-3d-design-software)
-- [Professional 3D Software](#-professional-3d-software)
-- [CAD Software & Resources](#-cad-software--resources)
-- [Learning Resources](#-learning-resources)
-- [3D Assets & Libraries](#-3d-assets--libraries)
-- [Textures & Materials](#-textures--materials)
-- [Lighting Resources](#-lighting-resources)
-- [Houdini Resources](#-houdini-resources)
-- [Community & Forums](#-community--forums)
-- [Workflow & Techniques](#-workflow--techniques)
+> 700+ curated links spanning modeling, texturing, lighting, rendering, motion graphics, game dev, design tools, and more. Free and paid. Beginner to advanced.
 
 ---
 
-## 🆓 Free 3D Design Software
+## Table of Contents
 
-### **[Blender](https://www.blender.org/)** - Industry Standard Open-Source Suite
-<img src="https://download.blender.org/branding/blender_logo_socket.png" alt="blender" width="200"/>
-
-
-- **Download:** [Official Downloads](https://www.blender.org/download/)
-- **Features:** Complete 3D pipeline - modeling, rigging, animation, simulation, rendering, compositing, motion tracking
-- **Best For:** Professional 3D animation, game development, VFX, architectural visualization
-- **Learning Curve:** Advanced - steep initial learning but extensive resources available
-- **Resources:** 
-  - [Official Manual](https://docs.blender.org/)
-  - [Blender Guru Donut Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw) (Famous beginner series)
-  - [Blender Studio Training](https://studio.blender.org/training/)
-
-### **[SculptGL](https://stephaneginier.com/sculptgl/)** - Browser Sculpting
-- **Access:** Direct browser access, no download required
-- **Features:** WebGL-powered sculpting with dynamic topology
-- **Best For:** Quick sculpting sketches, organic character modeling, 3D printing prep
-
-### **[Tinkercad](https://www.tinkercad.com/)** - Beginner-Friendly CAD
-- **Features:** Browser-based CSG modeling, 3D printing optimization, educational tools
-- **Best For:** STEM education, simple 3D printing projects, absolute beginners
-- **Learning:** [Tinkercad Learning Center](https://www.tinkercad.com/learn)
-
-### **[Vectary Free](https://www.vectary.com/)** - Limited Free Plan
-- **Features:** Real-time 3D modeling, AR support, photorealistic materials
-- **Limitations:** 5 projects max, basic materials only
-- **Best For:** Product visualization, AR experiences, web 3D content
-
-### **[Clara.io](https://clara.io/)** *(Note: Discontinued Dec 2022)*
-- **Status:** Service discontinued but included for reference
-
-### **[Wings 3D](https://www.wings3d.com/)** - Subdivision Modeling
-- **Download:** [SourceForge](https://sourceforge.net/projects/wings/)
-- **Features:** Advanced subdivision surface modeling, context-sensitive interface
-- **Best For:** Polygon modeling for games, character modeling
-
-### **[MagicaVoxel](https://ephtracy.github.io/)** - Voxel Art Editor
-- **Features:** GPU-based voxel editor with path tracing renderer, supports volumes up to 2048³
-- **Best For:** Voxel art, indie game assets, Minecraft content, retro 3D art
-- **Learning Curve:** Beginner to Intermediate
-- **Community:** [r/MagicaVoxel](https://reddit.com/r/MagicaVoxel)
-
-### **[MagicaCSG](https://ephtracy.github.io/index.html?page=magicacsg)** - CSG Modeling
-- **Platform:** Windows 64-bit only
-- **Features:** SDF-based modeling with real-time Boolean operations
-- **Best For:** Concept design, abstract geometric art, rapid prototyping
+- [3D Software](#3d-software)
+- [3D Assets](#3d-assets)
+- [3D Learning](#3d-learning)
+  - [YouTube Channels](#youtube-channels)
+  - [Paid Tutorial Platforms](#paid-tutorial-platforms)
+  - [Patreon Creators](#patreon-creators)
+  - [Blender](#blender)
+  - [Houdini](#houdini)
+  - [Cinema 4D](#cinema-4d)
+  - [Fusion 360](#fusion-360)
+  - [Renderers](#renderers)
+- [Concept Art & Illustration](#concept-art--illustration)
+- [2D Animation](#2d-animation)
+- [Motion Graphics](#motion-graphics)
+- [Lighting](#lighting)
+- [3D Tools & Utilities](#3d-tools--utilities)
+- [3D Communities & Forums](#3d-communities--forums)
+- [3D Inspiration & Showcase](#3d-inspiration--showcase)
+- [Architecture & Visualization](#architecture--visualization)
+- [Virtual Production](#virtual-production)
+- [Tech Art](#tech-art)
+- [2D Art & Design](#2d-art--design)
+- [Design Tools](#design-tools)
+- [Fonts](#fonts)
+- [Icons](#icons)
+- [Color Tools](#color-tools)
+- [General Inspiration](#general-inspiration)
+- [Photography](#photography)
+- [Video & Motion](#video--motion)
+- [Video Editing](#video-editing)
+- [Game Development](#game-development)
+- [Machine Learning for CG](#machine-learning-for-cg)
+- [Conversion Tools](#conversion-tools)
+- [Industry Insights](#industry-insights)
+- [Contributing](#contributing)
 
 ---
 
-## 💎 3D Software with Free Tiers
+## 3D Software
 
-### **[Spline](https://spline.design/)** - Real-Time Web 3D      
-<img src="https://framerusercontent.com/images/A9jkW9o1T9u3nsHHpidXujk8h8.png" alt="spline" width="20"/>
+### Free 3D Software
 
-- **Pricing:** Free tier available, Pro from $12/month
-- **Features:** Browser-based real-time 3D, parametric objects, AI tools, React export
-- **Best For:** Web designers, interactive presentations, marketing
+| Software | Description | Best For |
+|----------|------------|----------|
+| [Blender](https://www.blender.org/) | Industry-standard open-source suite. Full pipeline: modeling, rigging, animation, simulation, rendering, compositing | Professional 3D, VFX, game dev, arch-viz |
+| [SculptGL](https://stephaneginier.com/sculptgl/) | WebGL browser sculpting with dynamic topology | Quick sculpts, organic modeling |
+| [Tinkercad](https://www.tinkercad.com/) | Browser-based CSG modeling | STEM education, 3D printing beginners |
+| [Wings 3D](https://www.wings3d.com/) | Subdivision surface modeler | Polygon modeling for games |
+| [MagicaVoxel](https://ephtracy.github.io/) | GPU voxel editor with path tracing | Voxel art, indie game assets |
+| [MagicaCSG](https://ephtracy.github.io/index.html?page=magicacsg) | SDF modeling with real-time booleans (Win64) | Concept design, rapid prototyping |
+| [Moi3D](http://moi3d.com/download.htm) | NURBS-based modeler | Industrial design, CAD |
+| [VRoid Studio](https://vroid.com/en/studio/) | Anime-style 3D character creator | VTubers, anime characters |
 
-### **[Womp3D](https://www.womp.com/)** - Advanced Features
-<img src="https://webflow-prod.womp.com/images/womp-browser-based-3d-modeling-platform.avif" alt="womp" width="20"/>
+### 3D Software with Free Tiers
 
-- **Pricing:** $12.99/month (Pro), Team plans available
-- **Features:** 500+ Super Materials, unlimited 4K exports, advanced tools
-- **Best For:** Product design, 3D printing, concept art
+| Software | Pricing | Best For |
+|----------|---------|----------|
+| [Spline](https://spline.design/) | Free tier, Pro $12/mo | Web designers, interactive content |
+| [Womp3D](https://www.womp.com/) | Pro $12.99/mo | Product design, 3D printing |
+| [SketchUp](https://www.sketchup.com/) | Free web version | Architecture, interior design |
+| [Vectary](https://www.vectary.com/) | Studio $5/mo | Product viz, e-commerce |
 
-### **[SketchUp](https://www.sketchup.com/)** - Architectural Design
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Brand_Wordmark_for_SketchUp.png" alt="skp" width="100"/>
+### Paid 3D Software
 
-- **Access:** [Web Version](https://app.sketchup.com/app)
-- **Features:** Push/pull modeling, 3D Warehouse access, 10GB cloud storage
-- **Best For:** Architecture, interior design, woodworking
-- **Resources:** [SketchUp Campus](https://campus.sketchup.com/)
+| Software | Pricing | Best For |
+|----------|---------|----------|
+| [Cinema 4D](https://www.maxon.net/) | ~$70/mo annual | Motion graphics, VFX, advertising |
+| [Houdini](https://www.sidefx.com/) | Indie $269/yr, Free Apprentice | Film VFX, procedural modeling |
+| [Maya](https://www.autodesk.com/products/maya/) | $255/mo | Film VFX, CG animation |
+| [ZBrush](https://www.maxon.net/en/zbrush) | ~$27/mo annual | Sculpting, characters |
+| [3DCoat](https://3dcoat.com/) | EUR 299 perpetual | Voxel sculpting, retopology |
+| [Substance 3D Modeler](https://www.adobe.com/products/substance3d/apps/modeler.html) | $49.99/mo collection | VR/desktop sculpting |
+| [Nomad Sculpt](https://nomadsculpt.com/) | $19.99 one-time (mobile) | Mobile sculpting |
 
-### **[Vectary](https://www.vectary.com/)** - Professional Web 3D
-<img src="https://www.vectary.com/website_assets/636cc984003871e3cda597bb/6371fe97f2d5ecfa7551542e_navbar__logo.svg" alt="vec" width="20"/>
+### CAD Software
 
-- **Pricing:** Studio $5/month, Teams $25/month
-- **Features:** CAD import, AR capabilities, team collaboration
-- **Best For:** Product design, e-commerce, AR/VR development
+**Free:** [FreeCAD](https://www.freecad.org/) | [Onshape Free](https://www.onshape.com/en/products/free) | [Fusion 360 Personal](https://www.autodesk.com/products/fusion-360/personal) | [OpenSCAD](https://openscad.org/) | [LibreCAD](https://librecad.org/)
 
+**Paid:** [AutoCAD](https://www.autodesk.com/products/autocad) ($210/mo) | [SolidWorks](https://www.solidworks.com/) ($2,820/yr) | [CATIA](https://www.3ds.com/products/catia) | [Rhino](https://www.rhino3d.com/) ($995 perpetual)
 
----
-
-## 💎 Paid 3D Software
-
-
-### **[Cinema 4D](https://www.maxon.net/)** - Motion Graphics Powerhouse
-<img src="https://duckduckgo.com/i/bbccad7c208465d5.png" alt="c4d" width="50"/>
-
-- **Pricing:** $69.91/month (annual) 
-- **Features:** MoGraph tools, character animation, Redshift integration
-- **Best For:** Motion graphics, VFX, advertising
-- **Learning:** [Cineversity](https://www.cineversity.com/)
-
-### **[Houdini](https://www.sidefx.com/)** - Procedural Powerhouse
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="hou" width="50"/>
-
-
-- **Pricing:** Indie $269/year, FX $4,495/year, Free Apprentice version
-- **Features:** Node-based procedural workflows, advanced VFX simulations
-- **Best For:** Film VFX, procedural modeling, technical art
-- **Learning:** See [Houdini Resources](#-houdini-resources) section below
-
-
-### **[Maya](https://www.autodesk.com/products/maya/)** - Industry-Standard Animation
-
-<img src="https://forums.autodesk.com/html/assets/autodesk-maya-product-icon.svg" alt="maya" width="50"/>
-
-- **Pricing:** $255/month (monthly commitment)
-- **Features:** Complete 3D package
-- **Best For:** Film VFX, CG Animation
-- **Community:** [Maya Forums](https://forums.autodesk.com/t5/maya-forums/ct-p/maya-en)
-
-
-### **[3DCoat](https://3dcoat.com/)** - Sculpting & Texturing Suite
-- **Pricing:** €299 perpetual license
-- **Features:** Voxel sculpting, industry-standard retopology, PBR texturing
-- **Best For:** Game development, character design, 3D printing
-
-### **[Substance 3D Modeler](https://www.adobe.com/products/substance3d/apps/modeler.html)** - VR/Desktop Sculpting
-- **Pricing:** $49.99/month (Collection) or $19.99/month (Individual)
-- **Features:** VR and desktop sculpting, SDF modeling, Adobe integration
-- **Best For:** Concept art, VFX, game development
-
-### **[Modo](https://www.foundry.com/products/modo)** *(Note: Development discontinued 2024)*
-- **Pricing:** $599/year subscription
-- **Features:** Advanced polygon modeling, procedural workflows
-- **Status:** Final version 17.1, extended licensing available
-
-### **[ZBrush](https://www.maxon.net/en/zbrush)** - Industry-Standard Sculpting
-- **Pricing:** £26.90/month (annual commitment)
-- **Features:** 200+ brushes, DynaMesh, ZRemesher, PolyPaint
-- **Best For:** Film VFX, game characters, toy design
-- **Community:** [ZBrush Central](https://www.zbrushcentral.com/)
-
-### **[Nomad Sculpt](https://nomadsculpt.com/)** - Mobile 3D Sculpting
-- **Pricing:** $19.99 one-time (mobile), Desktop beta free
-- **Platform:** iOS/iPadOS, Android, Windows/macOS beta
-- **Features:** Full mobile sculpting, PBR materials, layer system
-
+**Resources:** [GrabCAD](https://grabcad.com) | [Thingiverse](https://thingiverse.com)
 
 ---
 
-## 📖 Learning Resources
+## 3D Assets
 
-### Video Tutorial Platforms
+### Model Libraries
 
-#### **Beginner-Friendly**
-- [Blender Guru](https://www.youtube.com/user/AndrewPPrice) - Famous donut tutorial series
-- [Grant Abbitt](https://www.youtube.com/user/mediagabbitt) - Low-poly modeling
-- [CG Cookie](https://cgcookie.com/) - Structured Blender courses
+**Free General:**
+- [Sketchfab](https://sketchfab.com/) - Massive downloadable library
+- [Poly Haven](https://polyhaven.com/) - CC0 models, textures, HDRIs
+- [TurboSquid](https://www.turbosquid.com/) - Professional models with free section
+- [CGTrader](https://www.cgtrader.com/) - Community marketplace
+- [3Dassets.one](https://3dassets.one/?q=&sort=popular) - Asset search engine
+- [CGHEVEN](https://cgheven.com/) - Free CC0 3D & VFX assets
+- [Poly Pizza](https://poly.pizza/) - Low-poly models (Google Poly archive)
+- [TheBaseMesh](https://www.thebasemesh.com/model-library) - Base meshes
+- [Open3DModel](https://open3dmodel.com/) - Free model archive
+- [Three D Scans](https://threedscans.com/) - Free 3D scan archive
+- [Free3D.io](https://free3d.io/) - Free models
+- [3Dzip](https://3dzip.org/) - Free downloads
+- [RigModels](https://rigmodels.com/) - Rigged models
+- [3DExport](https://3dexport.com/) - Marketplace
+- [3Dshaker](https://www.3dshaker.com/free3dmodels) - Free models
+- [Funes](https://funes.world/) - 3D cultural heritage
+- [Free3D](https://free3d.com/) - Large free collection
+- [3D MDB](https://3dmdb.com/) - Model database
+- [MyMiniFactory](https://www.myminifactory.com/scantheworld/) - Scan the World collection
 
-#### **Intermediate to Advanced**
-- [Ian Hubert](https://www.youtube.com/user/mrdodobird) - "Lazy Tutorials" series
-- [CGMatter](https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg) - Technical Blender tutorials
-- [Arrimus 3D](https://www.youtube.com/user/Arrimus3D) - Hard surface modeling
+**Specialized:**
+- [Mixamo](https://www.mixamo.com/) - Characters & animations (Adobe, free)
+- [Anatomy 360](https://anatomy360.info/) - Artist reference models
+- [Anatomy For Sculptors](https://www.artstation.com/anatomy4sculptors) - Anatomical references
+- [Insect 3D Models](https://zerokobo.web.fc2.com/) - Insect models
+- [Anything World Gallery](https://app.anything.world/gallery) - Animated models
+- [Models Resource](https://www.models-resource.com/) - Video game model rips
+- [Dimensions.com](https://www.dimensions.com/) - Dimensioned drawings database
+- [NASA 3D Resources](https://nasa3d.arc.nasa.gov/) - Space models
+- [Smithsonian 3D](https://3d.si.edu/) - Historical artifacts
+- [Quaternius](https://quaternius.com/) - Free low-poly game assets
+- [Kenney Assets](https://kenney.nl/assets/) - Free game assets
+- [Wire Wheels Club](https://wirewheelsclub.com/models/) - Vehicle models
 
-### Structured Learning Platforms
+**Architecture & Furniture:**
+- [3D Warehouse](https://3dwarehouse.sketchup.com/) - SketchUp library
+- [3ddd](https://3ddd.ru/) - Design & architecture models
+- [Design Connected](https://www.designconnected.com/) - Furniture
+- [Syncronia](https://www.syncronia.com/en) - CAD & BIM objects
+- [Evermotion](https://evermotion.org/) - Scenes & models
+- [BIMobject](https://www.bimobject.com/en-us) - BIM objects
+- [3asky](https://3asky.net/?lang=en) - 3DS Max & general library
+- [3DSky](https://3dsky.org) - Architecture models
+- [Dimensiva](https://dimensiva.com/) - Furniture models
+- [CG Mood](https://cgmood.com/) - CG assets
 
-| Platform | Type | Price | Best For |
-|----------|------|-------|----------|
-| **[CGCookie](https://cgcookie.com/)** | Blender-focused | $29/month | Comprehensive Blender learning |
-| **[Udemy](https://www.udemy.com/)** | Marketplace | Per course | Wide variety of software |
-| **[Pluralsight](https://www.pluralsight.com/)** | Professional | $29/month | Industry professionals |
-| **[LinkedIn Learning](https://www.linkedin.com/learning/)** | Professional | $26.99/month | Career development |
-| **[Domestika](https://www.domestika.org/)** | Creative focus | Per course | Artistic approach |
+**Asset Marketplaces:**
 
-### Free Learning Resources
-- **[Blender Manual](https://docs.blender.org/manual/en/latest/)** - Official comprehensive documentation
-- **[YouTube](https://youtube.com)** - Thousands of free tutorials
-- **[BlenderNation](https://www.blendernation.com/)** - News and tutorials
-- **[3D Total](https://www.3dtotal.com/)** - Tutorials and inspiration
+| Marketplace | Specialty |
+|------------|-----------|
+| [ArtStation Marketplace](https://www.artstation.com/marketplace) | Professional assets |
+| [Unity Asset Store](https://assetstore.unity.com/) | Game-ready assets |
+| [Unreal Marketplace](https://www.unrealengine.com/marketplace) | UE-optimized |
+| [Blender Market](https://blendermarket.com/) | Blender-specific |
+| [Cubebrush](https://cubebrush.co/) | Art & game assets |
+| [Fab (Epic)](https://www.fab.com/) | Unified marketplace |
 
----
+**Content Libraries (Software-Specific):**
+- [SideFX Content Library](https://www.sidefx.com/contentlibrary/) - Houdini assets
+- [Blender Demo Files](https://www.blender.org/download/demo-files/) - Official demos
+- [Substance 3D Assets](https://substance3d.adobe.com/assets/) - Adobe materials
+- [ZBrush Download Center](https://pixologic.com/zbrush/downloadcenter/alpha/) - Alphas & brushes
 
-## 🎨 3D Assets & Libraries
+### HDRIs
 
-### Free Model Resources
+- [Poly Haven HDRIs](https://polyhaven.com/hdris) - CC0, up to 16K
+- [Open HDRI](https://openhdri.org/) - 50 free CC0 HDRIs
+- [HDRI Skies](https://hdri-skies.com/) - Free sky HDRIs
+- [Noe Motion HDRI](http://noemotionhdrs.net/index.html) - Free HDRIs
+- [HDR Maps](https://hdrmaps.com/freebies/) - Free HDRI packs
+- [IHDRI](https://www.ihdri.com/hdri-skies-outdoor/) - Outdoor HDRIs
+- [Pingo VFX Tools](https://www.pingo.nu/vfxtools) - HDRI tools
+- [Adobe Stock HDRI](https://stock.adobe.com/search?k=hdri+studio) - Studio HDRIs
+- [sIBL Archive](http://www.hdrlabs.com/sibl/archive.html) - Classic collection
+- [Location Textures](https://locationtextures.com/panoramas/) - Location panoramas
 
-#### **General Libraries**
-- **[Sketchfab](https://sketchfab.com/)** - Massive 3D model library with downloadable content
-- **[Free3D](https://free3d.com/)** - Large collection of free models
-- **[TurboSquid](https://www.turbosquid.com/Search/3D-Models/free)** - Professional models with free section
-- **[CGTrader](https://www.cgtrader.com/free-3d-models)** - Community marketplace with free models
+### Textures & Materials
 
-#### **Specialized Collections**
-- **[NASA 3D Resources](https://nasa3d.arc.nasa.gov/)** - Space-related models, many 3D printable
-- **[Smithsonian 3D](https://3d.si.edu/)** - Historical artifacts and cultural objects
-- **[Google Poly Archive](https://poly.pizza/)** - Community preservation of Google Poly
-- **[Quaternius](https://quaternius.com/)** - Free low-poly game assets
+**Free PBR Libraries:**
+- [ambientCG](https://ambientcg.com/) - 2000+ CC0 PBR materials
+- [Poly Haven Textures](https://polyhaven.com/textures) - CC0, 8K+
+- [Free PBR](https://freepbr.com/) - Hundreds of free materials
+- [Share Textures](https://www.sharetextures.com/) - CC0 seamless textures
+- [CG Bookcase](https://www.cgbookcase.com/textures/) - Free PBR textures
+- [3D Textures](https://3dtextures.me/) - Free PBR library
+- [Texture Fabrik](https://texturefabrik.com/) - Textures & patterns
+- [TextureTown](https://textures.neocities.org/) - Free textures
+- [3D Jungle](https://3djungle.net/) - Models & textures
+- [Kaimoisch](https://kaimoisch.com/free-textures/) - 3D scanned textures
+- [Free Stock Textures](https://freestocktextures.com/) - Free textures
+- [Tileable](https://tileable.co/) - Tileable textures
+- [Texture Supply (Gumroad)](https://texturesupply.gumroad.com) - Free textures
+- [Resource Boy](https://resourceboy.com/) - Free graphic resources
+- [The Pixel Lab Freebies](https://www.thepixellab.net/freebies-2) - Free 3D models & textures
+- [Texture Labs](https://texturelabs.org/) - Free texture resources
+- [Texxary](https://texxary.com/) - 3D scans library
 
-### Asset Marketplaces
+**Specialized:**
+- [Texturing.xyz](https://texturing.xyz/) - MicroSkin displacement maps (paid)
+- [Shaded Relief](http://www.shadedrelief.com/natural3/pages/extra.html) - Natural Earth data
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Tileable web patterns
+- [Spriters Resource](https://www.spriters-resource.com/) - Game sprite textures
 
-| Marketplace | Specialty | Price Range | Quality |
-|------------|-----------|-------------|---------|
-| **[ArtStation Marketplace](https://www.artstation.com/marketplace)** | Professional assets | $$ - $$$ | High |
-| **[Unity Asset Store](https://assetstore.unity.com/)** | Game-ready assets | $ - $$$ | Varied |
-| **[Unreal Marketplace](https://www.unrealengine.com/marketplace)** | UE-optimized | $$ - $$$ | High |
-| **[Blender Market](https://blendermarket.com/)** | Blender-specific | $ - $$ | Good |
-
----
-
-## 🖼️ Textures & Materials
-
-### PBR Texture Libraries (Free)
-
-#### **[ambientCG](https://ambientcg.com/)**
-- 2000+ free PBR materials, HDRIs, and models
-- CC0 license (completely free use)
-- Categories: Ground, Wood, Metal, Fabric, Nature
-
-#### **[Polyhaven](https://polyhaven.com/)**
-- High-quality HDRIs, textures, and models
-- All assets CC0
-- 8K+ resolution available
-
-#### **[Free PBR](https://freepbr.com/)**
-- Hundreds of free PBR materials
-- Organized by category
-- Direct download, no registration
-
-#### **[Texture Haven](https://texturehaven.com/)** *(Now part of Polyhaven)*
-- Legacy site redirects to Polyhaven
-- Historical reference for tutorials
-
-### Premium Texture Resources
-
-| Resource | Type | Price | Best For |
-|----------|------|-------|----------|
-| **[Poliigon](https://www.poliigon.com/)** | PBR textures | Subscription | Architecture, VFX |
-| **[Quixel Megascans](https://quixel.com/)** | Scanned materials | Free with UE | Photorealism |
-| **[Substance Source](https://substance3d.adobe.com/assets)** | Procedural | Adobe subscription | Flexibility |
-| **[TextureBox](https://texturebox.com/)** | Mixed library | Free & Premium | Variety |
+**Premium:**
+- [Poliigon](https://www.poliigon.com/) - PBR textures (subscription)
+- [Quixel Megascans](https://quixel.com/) - Scanned materials (free with UE)
+- [Substance Source](https://substance3d.adobe.com/assets) - Procedural (Adobe sub)
+- [Texturing.xyz](https://texturing.xyz) - Skin & displacement maps
+- [Texture Box](https://texturebox.com/) - Mixed library
 
 ### Material Creation Tools
-- **[Materialize](http://www.boundingboxsoftware.com/materialize/)** - Free texture map generation
-- **[Substance Designer](https://www.adobe.com/products/substance3d-designer.html)** - Industry standard procedural texturing
-- **[ArmorPaint](https://armorpaint.org/)** - Open-source texture painting
+
+- [Materialize](http://www.boundingboxsoftware.com/materialize/) - Free texture map generation
+- [Substance Designer](https://www.adobe.com/products/substance3d-designer.html) - Procedural texturing
+- [ArmorPaint](https://armorpaint.org/) - Open-source texture painting
+- [SmartNormal 2.0](https://www.smart-page.net/smartnormal/) - Normal map generation
 
 ---
 
-## 💡 Lighting Resources
+## 3D Learning
 
-### HDRI Resources
-- **[HDRI Haven](https://hdri-haven.com/)** *(Now Polyhaven)* - Free HDRIs up to 16K
-- **[sIBL Archive](http://www.hdrlabs.com/sibl/archive.html)** - Classic HDRI collection
-- **[HDR Maps](https://hdrmaps.com/)** - Commercial HDRIs
-- **[Greg Zaal](https://blog.gregzaal.com/)** - HDRI creation tutorials
+### YouTube Channels
+
+**Motion Graphics & Cinema 4D:**
+[Eyedesyn](https://www.youtube.com/channel/UCjvsD9ZJRshsmhabFFUH7aA) | [Greyscalegorilla](https://www.youtube.com/channel/UC64Z_7asrekIkc5h2v5tnHw) | [Polygon Runway](https://www.youtube.com/channel/UCGSJevmBuDyxjLLOBNaYMGA) | [Vincent Schwenk](https://www.youtube.com/channel/UCyvvQJrfsoXdgasGuuXnYIg) | [Pwnisher](https://www.youtube.com/channel/UCWIfzAYHyNSyHmT2AO-54yg) | [New Plastic](https://www.youtube.com/channel/UCoOrpz46oBs2HJpLx7L1x6Q) | [Perry Cooper 3D](https://www.youtube.com/channel/UCY6Kqpw3gSc2DHtfsSGeYdQ) | [Roger Kilimanjaro](https://www.youtube.com/channel/UCDbxvz-8MrderjIOyQi14Uw) | [Ross Mason](https://www.youtube.com/channel/UCbxureadvFJVQJiqLDDFj_g) | [Minh Pham](https://www.youtube.com/channel/UCH3pHnzD1AiSbazIw1maVFg) | [Nidia Dias](https://www.youtube.com/channel/UCP6-jDB6Nb96eQbR5h24A9Q) | [Sketchy Visuals](https://www.youtube.com/channel/UCawhE5howK2EvvoE2KdqcJg) | [Stephy Fung](https://www.youtube.com/channel/UC_f2mc1UX2-rDoZ7JjNLgTw) | [Theo Kerr](https://www.youtube.com/channel/UCB4_J4bn8IZUFieormorBmg) | [Josh Pierce](https://www.youtube.com/channel/UC6_x3t9xt8w_BRssDV4pi6A) | [Nick Medukha](https://www.youtube.com/channel/UCnn58iVRyGLSQriCm0QOmaw) | [Polygonpen](https://www.youtube.com/c/polygonpen) | [Derek Elliott](https://www.youtube.com/channel/UCk7IufzS4r8v76NeWR6A3dg) | [John Dickinson](https://www.youtube.com/channel/UCHN22D0BxseUPc5yklSDeGw) | [The Rusted Pixel](https://www.youtube.com/channel/UCZDR4vfP841oQ7QLO_7pK0w) | [CG Shortcuts](https://www.youtube.com/channel/UCjsFn111Z8R4eKuRpPz4ZuA) | [MoGraph Mentor](https://www.youtube.com/channel/UC-rH7k9KoAMSHabvWnvxCXg) | [Motion Design School](https://www.youtube.com/channel/UC-L0yvYPpGQZD3PHDLKiUpg) | [Motion Designers Community](https://www.youtube.com/channel/UCBAc7qBoVh0rcDgSJ2thRog) | [Paul-Guilhem Repaux](https://www.youtube.com/channel/UCaRh6roTnE-ZU6CbIn253xg) | [Alexis Vilaca](https://www.youtube.com/channel/UCYtaJtRbQtpd1KEP_q0Pq9w) | [Andrey Lebrov](https://www.youtube.com/channel/UCZsHHoDLK0s6r44ifx0DnXQ) | [Arthur Whitehead](https://www.youtube.com/channel/UC57vAHlfNkcz8aIhRdZrVNQ)
+
+**Blender:**
+[Blender Guru](https://www.youtube.com/user/AndrewPPrice) | [Grant Abbitt](https://www.youtube.com/c/GrantAbbitt) | [Ian Hubert](https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA) | [Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) | [CG Geek](https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ) | [Royal Skies](https://www.youtube.com/channel/UC2U5mRfclG1Rrr1ztNkpGKA) | [Jayanam](https://www.youtube.com/channel/UCs5J4GVRB8s2P4hE-O0izrg) | [Blender Official](https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg) | [CGMatter](https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg) | [Arrimus 3D](https://www.youtube.com/user/Arrimus3D)
+
+**Houdini:**
+[Entagma](https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ) | [John Kunz](https://www.youtube.com/c/JohnKunz/) | [NineBetween](https://www.youtube.com/c/NineBetween/) | [Tim van Helsdingen](https://www.youtube.com/c/TimvanHelsdingen/) | [Junichiro Horikawa](https://www.youtube.com/c/JunichiroHorikawa) | [SideFX Official](https://www.youtube.com/channel/UCegWLyW4CYzph4dYW-gYy0g) | [Christopher Rutledge](https://www.youtube.com/christopherrutledge1) | [Mark Fancher](https://www.youtube.com/@MarkFancherFX) | [Simon Fiedler](https://simonfiedler.de/tutorials) | [Asis FX](https://www.youtube.com/c/AxisDesignerGFX/)
+
+**Sculpting & Characters:**
+[Travis Davids](https://www.youtube.com/channel/UCniZ7Qzbv17NvoCypCzB4Ow) | [Travis Ragsdale](https://www.youtube.com/channel/UCxOJdR3lmUf9XP_ME-C9jlg) | [FlippedNormals](https://flippednormals.com/)
+
+### Paid Tutorial Platforms
+
+| Platform | Focus | Pricing |
+|----------|-------|---------|
+| [3D for Designers](https://www.3dfordesigners.com/) | C4D & motion design | Course-based |
+| [Motion Design School](https://motiondesign.school/) | Motion graphics | Course-based |
+| [MoGraph Mentor](https://www.mographmentor.com/) | 3D motion design | Course-based |
+| [CG Shortcuts](https://cgshortcuts.com/) | C4D workflows | Course-based |
+| [Greyscalegorilla Plus](https://greyscalegorilla.com/) | C4D & Redshift | Subscription |
+| [CGCookie](https://cgcookie.com/) | Blender | $29/mo |
+| [Pluralsight](https://www.pluralsight.com/) | All software | $29/mo |
+| [LearnSquared](https://www.learnsquared.com/) | Professional CG | Course-based |
+| [FlippedNormals](https://flippednormals.com/) | Sculpting & characters | Course-based |
+| [Patata School](https://www.patataschool.com/) | C4D & Octane | Course-based |
+| [Applied Houdini](http://www.appliedhoudini.com/) | Houdini FX (by Stephen Knipping, ILM) | Course-based |
+| [Pragmatic VFX](https://pragmatic-vfx.com/) | Advanced Houdini (ILM FX TD) | Course-based |
+| [Stop Being Afraid of Houdini](http://www.mograph.com/stopbeingafraidofhoudini/) | Houdini for C4D artists | Course |
+| [Domestika](https://www.domestika.org/) | Creative arts | Per course |
+| [Wingfox](https://www.wingfox.com/) | CG tutorials | Per course |
+| [Jonathan Lindgren](https://jonathanlindgren.teachable.com/courses) | 3D design | Course-based |
+
+### Patreon Creators
+
+[Merk](https://www.patreon.com/merkvilson) | [msedov](https://www.patreon.com/msedov) | [The French Monkey](https://www.patreon.com/TFMStyle) | [Xuxoe](https://www.patreon.com/xuxoe) | [MotionPunk](https://www.patreon.com/motionpunk) | [Dusan Vukcevic](https://www.patreon.com/vudu) | [Vincent Schwenk](https://www.patreon.com/vincentschwenk) | [Entagma](https://www.patreon.com/entagma) | [Arthur Whitehead](https://www.patreon.com/arthurwhitehead) | [Philiplueck](https://www.patreon.com/philiplueck) | [Kaeptive](https://www.patreon.com/Kaeptive) | [Jesus Suarez](https://www.patreon.com/jssuarez) | [NewPlastic](https://www.patreon.com/NewPlastic) | [Max Salzborn](https://www.patreon.com/maxsalzborn) | [Gonzzzalo](https://www.patreon.com/gonzzzalo) | [Ross Mason](https://www.patreon.com/iamrossmason) | [John Kunz](https://patreon.com/johnkunz) | [Christopher Rutledge](https://www.patreon.com/tokyomegaplex)
+
+### Blender
+
+**Plugins & Addons:**
+- [Crowdrender](https://www.crowd-render.com/) - Distributed rendering
+- [Blender for Unreal Engine](https://github.com/xavier150/Blender-For-UnrealEngine-Addons/wiki) - UE export
+- [Modular Tree](https://github.com/MaximeHerpin/modular_tree/tree/blender_28) - Procedural trees
+- [Blender to Unity FBX](https://github.com/EdyJ/blender-to-unity-fbx-exporter) - Unity export
+- [MB Lab](https://mb-lab-community.github.io/MB-Lab.github.io/) - Character creation
+- [PSOFT Pencil+ 4](https://psoft.co.jp/en/product/pencil/blender/) - NPR line rendering
+- [Graswald](https://blendermarket.com/products/graswald) - Grass & plants
+- [Pro Lighting Studio](https://blendermarket.com/products/pro-lighting-studio) - Studio lighting
+- [Easy HDRI](https://codeofart.com/easy-hdri-2-8/) - HDRI management
+
+**Tutorials:**
+- [Blender Tutorial for Complete Beginners](https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) - Blender Guru full series
+- [Gemstone Shader Breakdown](https://www.blendernation.com/2017/03/25/gemstone-shader-breakdown/)
+- [Fundamentals of Drivers](https://www.youtube.com/watch?v=Pri4vLx42nA)
+- [Realistic Hair in Blender](https://www.wingfox.com/c/8319)
+- [Blender Checklist](https://docs.google.com/spreadsheets/d/1RCY6nTIVgl208ckadipBWVos8_kHOu3HFTQgapN59_U/)
+
+### Houdini
+
+> *"Houdini isn't scary. So much of learning Houdini is asking questions and talking to people about how they solve problems so you can gain your own intuition."* — Christopher Rutledge, [Houdini Nerd](https://discord.gg/E9zA9Ft)
+
+**Getting Started:**
+- [SideFX Learn](https://www.sidefx.com/learn/) - Official curated learning hub
+- [Houdini Apprentice](https://www.sidefx.com/products/houdini-apprentice/) - Free learning version
+- [Houdini Isn't Scary](https://www.youtube.com/watch?v=Tsv8UGqDibc) - Beginner series by NineBetween
+- [Houdini is Hip](https://youtu.be/9AHoNjjh-wQ) - Updated beginner series by NineBetween
+- [Houdini Donut in Any Shape](https://vimeo.com/492505292) - Procedural donut by Lewis Orton
+- [Houdini in Five Minutes](https://vimeo.com/384384552) - Quick intro by Entagma
+- [ITS JUST DATA](https://vimeo.com/352262681) - Core concepts by Michael Stark
+- [Easy Voxel Effect Tutorial](https://www.youtube.com/watch?v=EPfxBdxu1m0) - Beginner tutorial
+- [Voxels, Volumes, and VDBs](https://www.youtube.com/watch?v=UKED3rpvYEw) - Concept explanation
+- [Rohan Dalvi Intro Videos](https://www.youtube.com/watch?v=omQq03X5YZE) - Beginner series
+- [SideFX Character Course (FREE)](https://www.youtube.com/watch?v=2gBAPe4OsXA&list=PLXNFA1EysfYmpOEGcK1x_r6g_h2dOwAC4) - Comprehensive character course
+- [How to Learn Houdini](https://www.youtube.com/watch?v=Y22rYfJE64o) - Matt Estela talk
+
+**Essential Learning Resources:**
+- [CGWiki (tokeru.com)](http://www.tokeru.com/cgwiki/?title=Houdini) - **The best resource** by Matt Estela
+- [Entagma](http://www.entagma.com/) - Advanced design/mograph, also covers Unreal & Blender
+- [Applied Houdini](http://www.appliedhoudini.com/) - **Best for FX** by Stephen Knipping (ILM)
+- [SideFX Tutorials](https://www.sidefx.com/tutorials/) - Official tutorials
+- [Farmfield (Vimeo)](https://vimeo.com/farmfield) - Setups & hip files from Johnny Farmfield
+- [John Kunz](https://www.johnkunz.com/) - Weekly streams, FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/))
+
+**VEX & Coding:**
+- [Joy of Vex](https://www.tokeru.com/cgwiki/JoyOfVex.html) - **The definitive VEX course** from CGWiki
+- [1 Minute VEX](https://aaronsmith.tv/1-Minute-VEX) - Quick VEX lessons
+- [VEX Isn't Scary](https://www.youtube.com/watch?v=OeaqMWzkyiw) - NineBetween series
+- [VEX Wrangle Cheat Sheet](https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html) - Quick reference
+- [Python Snippets for Houdini](https://github.com/kiryha/houdini/wiki/python-snippets)
+- [Python Startup Scripts](https://houdinitricks.com/python-houdini-start-scripts-part-1/)
+- [VFXBrain VEX](https://vfxbrain.wordpress.com/category/vex/) - VEX tutorials
+- [OpenCL in Houdini](https://pepefx.blogspot.com/2019/03/opencl-notes.html)
+
+**FX & Simulations:**
+- [Intro to Vellum](https://www.youtube.com/watch?v=qAraO2E-v84) - Softbodies, cloth, character FX
+- [WhatIFound (Jason Harmon)](https://www.youtube.com/whatifound) - Liquid/fluid tutorials
+- [Vellum Cloth Updates Masterclass](https://www.youtube.com/watch?v=1ztATWCOwn) - Jeff Lait (H18.0)
+- [Vellum Rigid Bodies & Fluid](https://www.youtube.com/watch?v=5s8I2fs8kMs) - John Lynch (H19.5)
+- [Custom Smoke Solver](https://vimeo.com/278227586)
+- [Smart Crown Splash FLIP](https://vimeo.com/182010807)
+- [Pop Fluid Tutorial](https://vimeo.com/295491505)
+
+**Rigging & Animation (KineFX):**
+- [KineFX for Games](https://www.youtube.com/watch?v=mcDm_irEKb0) - Great overview by Luiz Kruel
+- [Procedural Rigging & Animation Tricks](https://www.youtube.com/watch?v=cxs7BTTHCH8) - KineFX workflows
+- [Crowds and KineFX](https://www.youtube.com/watch?v=1cLPYWj4Lqk) - IK-chains on the fly
+- [Secondary Motion in H19](https://vimeo.com/649244909) - Paul Esteves
+- [Animation Cleanup Tools](https://www.youtube.com/watch?v=cbhMQLUX9Pg) - Advanced KineFX
+- [KineFX Tips and Tricks (H19.5)](https://youtu.be/XRV-Bg0RlD0) - Mihnea at SideFX
+- [Space Girl Rigging](https://www.sidefx.com/learn/collections/space-girl-rigging/) - Legacy rigging series
+
+**Grooming:**
+- [Speed Grooming in H19](https://www.youtube.com/watch?v=qyDtZbgwlCM) - Hair & fur starting point
+
+**Lighting / Rendering / Solaris / USD:**
+- [USD Basics with Solaris](https://www.sidefx.com/tutorials/usd-basics-with-solaris/) - Official tutorial
+- [CGWiki LOPS](https://www.tokeru.com/cgwiki/HoudiniLops) - Solaris/LOPS guide
+
+**More Tutorials:**
+- [2D Cel Flames with Pyro](https://www.youtube.com/watch?v=jz244YLLqD0)
+- [Motion Blur Deformer (VEX)](https://vimeo.com/272301148) - Mark Fancher
+- [Infection/Growth System](https://vimeo.com/286576112)
+- [Writing Your Own Polywire](https://vimeo.com/336017942) - Jake Rice
+- [Procedural Modeling with VEX](https://vimeo.com/208215846) - Tighe Rzankowski
+- [Animated Recursive Subdivision](https://www.youtube.com/watch?v=GhquYJ9m1Oc)
+- [Extracting Transform Matrices](https://vimeo.com/284712920)
+- [Melty Voronoi Effect](https://www.youtube.com/watch?v=4YNl18E92bk)
+- [Voxel/Lego Pyro Explosion](https://www.youtube.com/watch?v=0zc0pdXbzHo)
+- [For Loops Tutorial](https://lesterbanks.com/2019/04/how-to-animate-subdivisions-in-houdini/)
+- [Art Directing Paint Splashes](https://whatifound.net/2020/06/13/houdini-paint-splashes/)
+- [Building Growth Animation](https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth)
+- [Recursive Growth](https://vimeo.com/154251482)
+- [Pops Split Avoid](https://www.tokeru.com/cgwiki/PopsSplitAvoid.html)
+- [Node Studies](https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/)
+- [Point Cloud to Mesh (Microsoft)](https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini-point-cloud)
+- [Cloner Object](https://www.sidefx.com/tutorials/part-1-cloner-object/) - MoGraph tutorial
+- [Muscles Masterclass](https://www.sidefx.com/tutorials/muscles-masterclass-advanced-special-topics/)
+- [AI For Artists](https://github.com/kiryha/Houdini/wiki/AI-For-Artists)
+- [Houdini for Astronomy](http://ytini.com/)
+- [MysteryPancake Houdini Fun](https://github.com/MysteryPancake/Houdini-Fun)
+- [Houdini Blueprint](https://hdbp.io/) - Visual node reference
+
+**Houdini Plugins & Tools:**
+- [MOPS](https://www.motionoperators.com/) - Motion graphics toolkit by Toadstorm
+- [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - Extended toolset
+- [qLib](https://github.com/qLab/qLib) - Open-source HDAs
+- [AElib](https://github.com/Aeoll/Aelib) - Free tools by Nick Taylor (ManVsMachine)
+- [ODTools](https://origamidigital.com/cart/index.php?route=product/product&path=59_63&product_id=64) - Pipeline tools by Oliver Hotz (paid)
+- [Houdini Engine for Unreal](https://github.com/AdrianPanGithub/HoudiniEngineForUnreal) - Rebuilt, 2x-15x faster
+- [EarthMesh Houdini](https://github.com/xjorma/EarthMeshHoudini) - Real-world meshes via Google API
+- [VFX-LYNX](https://github.com/LucaScheller/VFX-LYNX) - Open-source pipeline tools
+- [Axiom](https://www.mattpuchala.com/axiom) - Sparse fluid solver by Matthew Puchala
+- [Modeler](https://gumroad.com/l/KYCgR) - Modeling toolkit (paid)
+- [GroomBear](https://gumroad.com/kwac#yndnV) - Grooming toolkit (paid)
+- [Tighe Rzankowski's Tools](https://gumroad.com/trzanko) - Feather grooming & more
+- [Rich Lord's Tools](https://www.richlord.com/tools) - Tools from ex-Valve animator
+- [_.hips](https://github.com/lcrs/_.hips) - Various Houdini tools
+- [Ffmpeg](https://ffmpeg.org/) - Flipbook to MP4 ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM))
+
+**Rebelway (Free Houdini Tutorials & Courses):**
+- [Houdini Beginner Tutorial - Ultimate Starter Guide (3+ Hours)](https://www.youtube.com/watch?v=-0U9KYI1wKY)
+- [Houdini Fundamentals - Mastering the Basics](https://www.youtube.com/watch?v=flT0_8b8wAM&list=TLGGZZATs1zDpLgyMjExMjAyMw)
+- [Ultimate Houdini Tutorial Collection (Free Project Files)](https://www.youtube.com/watch?v=xsYdZ03mlRY)
+- [Intro to Procedural Modeling](https://www.rebelway.net/introduction-to-procedural-modeling-in-houdini)
+- [VEX for Houdini Artists](https://www.rebelway.net/vex-for-houdini-artists)
+- [VEX in Houdini by Aaron Smith](https://www.youtube.com/watch?v=fjAMevfPmmo)
+- [Action Movie FX - Pyro & Water (Godzilla Inspired)](https://www.youtube.com/watch?v=GI_4fYAIfV0)
+- [Fluid FX - Learn from Sony FX Supervisor](https://www.youtube.com/watch?v=IiLRf_uMBDE)
+- [Fantasy FX - Dragon Fire](https://www.youtube.com/watch?v=xu0zRT-L2aE)
+- [Fantasy FX - Week 1 from Pro FX Artist](https://www.youtube.com/watch?v=_naEsZEZkVs)
+- [Rise of Skywalker Lightning FX](https://www.youtube.com/watch?v=K_DEGS0GUWM)
+- [Procedural City Creation - Week 1](https://www.youtube.com/watch?v=97CJCbcE9cE)
+- [Exploding Hot Air Balloon](https://www.rebelway.net/exploding-hot-air-balloon-in-houdini-pro-houdini-tutorial)
+- [Magical Portal FX (Beginner)](https://www.rebelway.net/magical-portal-fx-beginner-houdini-tutorial)
+- [Realistic Tree and Soil Simulation](https://www.rebelway.net/realistic-tree-and-soil-simulation-pro-houdini-tutorial)
+- [Realistic Parking Lot Destruction (Beginner)](https://www.rebelway.net/realistic-destruction-houdini-beginner-tutorial)
+- [Abstract Fluid FX (Karma)](https://www.rebelway.net/abstract-fluid-fx-in-houdini)
+- [Tower Destruction FX (Free Project File)](https://www.rebelway.net/tower-destruction-fx-free-project-file)
+- [Fireball vs Coke Melting Simulation](https://www.rebelway.net/fireball-vs-coke-houdini-melting-simulation)
+- [Houdini Pyro - Car Dust Trail](https://www.rebelway.net/houdini-pyro-simulation-tutorial-car-dust-trail)
+- [Introduction to Fur and Hair Grooming](https://www.rebelway.net/introduction-to-fur-and-hair-grooming-in-houdini) - Linda Dussine
+- [Intro to Houdini Muscle](https://www.rebelway.net/muscle-simulation-in-houdini) - Carlos Puigdollers Zanon
+- [Cinematic Lighting in Houdini](https://www.youtube.com/watch?v=bDaD7OBfV7s)
+- [Realistic Lighting in Houdini & Karma XPU (Tokyo Street)](https://www.rebelway.net/realistic-lighting-in-houdini-tutorial) - Dmitry Gromov
+- [Realistic Tokyo Street - Scene Setup & Shading](https://www.rebelway.net/realistic-street-in-houdini-and-karma)
+- [Realtime FX in Houdini & Unreal Engine](https://www.youtube.com/watch?v=coJa70INzrs)
+- [Houdini for 3D Artists (H20.5, Modeling, Solaris, Karma)](https://www.youtube.com/watch?v=dlO3BCjahRw)
+- [Python for Nuke Artists](https://www.youtube.com/watch?v=87DkMDh27t0)
+
+**Houdini Communities:**
+- [OdForce](https://forums.odforce.net/) - Most active Houdini forum
+- [Houdini Nerd Discord](https://discord.gg/E9zA9Ft) - Christopher Rutledge's community
+- [Think Procedural Discord](https://discord.gg/thinkprocedural)
+- [r/Houdini](https://reddit.com/r/Houdini)
+- [SideFX Houdini on Bilibili](https://search.bilibili.com/all?keyword=sidefx%20houdini) - Chinese tutorials
+- [Daily Hip](https://dailyhip.wordpress.com/) - Tips from Eetu
+- [Houdini Tricks](https://houdinitricks.tumblr.com/archive) - Quick tips archive
+- [VFX Arabia Houdini Tools](https://www.vfxarabia.co/blog/categories/houdini-tools)
+
+### Cinema 4D
+
+- [C4D Center](https://www.c4dcenter.com/) - Tutorials and resources
+- [Cineversity](http://www.cineversity.com/) - Official Maxon tutorials
+- [Cinema 4D Basecamp](https://www.schoolofmotion.com/courses/cinema-4d-basecamp) - School of Motion
+- [Cinema 4D Ascent](https://www.schoolofmotion.com/courses/cinema-4d-ascent) - School of Motion
+- [Lights, Camera, Render Bundle](https://www.schoolofmotion.com/courses/lights-camera-render-bundle) - School of Motion
+- [How to Create Brilliant Shots](https://www.schoolofmotion.com/courses/how-to-create-brilliant-shots) - School of Motion
+- [A Wild, Bug-Filled World of 3D](https://www.schoolofmotion.com/courses/a-wild-bug-filled-world-of-3d) - School of Motion
+- [Essential Ingredients to Creating Stylized 3D](https://www.schoolofmotion.com/courses/the-essential-ingredients-to-creating-stylized-3d) - School of Motion
+- [Unreal Engine for 3D Artists](https://www.schoolofmotion.com/courses/unreal-engine-for-3d-artists) - School of Motion
+
+**Plugins:**
+- [QuadRemesher](https://exoside.com/quadremesher) - Automatic retopology
+- [Forester](https://www.3dquakers.com/) - Nature & vegetation
+- [Optical Flares](https://www.videocopilot.net/products/opticalflares) - Lens flares
+- [Element 3D](https://www.videocopilot.net/products/element2/) - 3D in After Effects
+- [AEC4D](https://aescripts.com/aec4d/) - AE-C4D bridge
+- [Polygon/Vertex Selector](https://code.vonc.fr/) - Selection tools
+- [TyFlow](https://docs.tyflow.com/download/) - Particle system (3ds Max)
+- [Substance Painter Live Link](https://xolotlstudio.gumroad.com/l/fTRFN) - SP integration
+
+### Fusion 360
+
+- [Fusion for Designers](https://academy.autodesk.com/node/125666/take?q-nr=2) - Autodesk Academy
+- [Prosthetic Design](https://academy.autodesk.com/node/119050/take?q-nr=1) - Medical design
+
+### Renderers
+
+**Arnold:**
+- [Polymesh to Volume](https://docs.arnoldrenderer.com/display/A5AFMUG/Polymesh+to+Volume)
+
+**Octane:**
+- [Ariev Visuals Resources](http://arievvisuals.com/resources) - Tutorials & assets
+
+**RenderMan / PBR Theory:**
+- [Veach Thesis (Stanford)](https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf) - Light transport theory
+- [Physically Based Rendering Book](http://www.pbr-book.org/3ed-2018/contents.html) - The PBR bible
 
 ---
 
-## 🔮 Houdini Resources
+## Concept Art & Illustration
 
-### Getting Started
-- **[Houdini Apprentice](https://www.sidefx.com/products/houdini-apprentice/)** - Free learning version
-- **"Houdini Isn't Scary"** by Nine Between - Beginner-friendly introduction
-- **[SideFX Tutorials](https://www.sidefx.com/tutorials/)** - Official learning path
+**YouTube Channels:**
+- [Proko](https://www.youtube.com/@ProkoTV) - Figure drawing & anatomy
+- [Marco Bucci](https://www.youtube.com/@marcobucci) - Painting & color theory
+- [Sinix Design](https://www.youtube.com/@sinixdesign) - Digital painting fundamentals
+- [Tyler Edlin](https://www.youtube.com/@TylerEdlin84) - Environment & concept art
+- [Grady Frederick](https://www.youtube.com/@gradyfrederickart) - Concept art process
+- [Michael Mattesi](https://www.instagram.com/michaelmattesi/) - Force drawing (Instagram)
 
-### Essential Learning Resources
-
-#### **Websites & Documentation**
-- **[CGWiki (tokeru.com)](https://www.tokeru.com/cgwiki/)** - Comprehensive VEX tutorials
-- **[Entagma](https://entagma.com/)** - Advanced procedural techniques
-- **[Applied Houdini](https://www.appliedhoudini.com/)** - Professional VFX workflows
-
-
-### Tools & Extensions
-- **[MOPS](https://github.com/toadstorm/MOPS)** - Motion graphics toolkit
-- **[SideFX Labs](https://github.com/sideeffects/SideFXLabs)** - Extended toolset
-- **[qLib](https://github.com/qLab/qLib)** - Open-source tools
-
-### Community & Support
-- **[OdForce](https://forums.odforce.net/)** - Most active Houdini forum
-- **[Think Procedural Discord](https://discord.gg/thinkprocedural)** - Real-time help
-- **[r/Houdini](https://reddit.com/r/Houdini)** - Reddit community
-- **[Houdini Artists Facebook](https://facebook.com/groups/HoudiniArtists)** - Social community
-
-### Learning Paths
-
-| Level | Timeline | Focus Areas | Resources |
-|-------|----------|-------------|-----------|
-| **Beginner** | 0-6 months | Interface, basic SOPs, simple VEX | Official tutorials, Houdini Isn't Scary |
-| **Intermediate** | 6-18 months | Complex VEX, simulations, HDAs | CGWiki, Applied Houdini |
-| **Advanced** | 18+ months | Custom solvers, pipeline tools | Entagma, production experience |
+**Courses (School of Motion):**
+- [Photoshop & Illustrator Unleashed](https://www.schoolofmotion.com/courses/photoshop-and-illustrator-unleashed)
+- [Design Bootcamp](https://www.schoolofmotion.com/courses/design-bootcamp)
+- [Design Kickstart](https://www.schoolofmotion.com/courses/design-kickstart)
+- [Explainer Camp](https://www.schoolofmotion.com/courses/explainer-camp)
+- [Character Design Fundamentals](https://www.schoolofmotion.com/courses/character-design-fundamentals)
 
 ---
 
-## 👥 Community & Forums
+## 2D Animation
 
-### General 3D Communities
-- **[ArtStation](https://www.artstation.com/)** - Professional portfolio platform
-- **[Polycount](https://polycount.com/)** - Game art community
-- **[CGSociety](https://cgsociety.org/)** - VFX and animation professionals
-- **[DeviantArt](https://www.deviantart.com/)** - Art community with 3D section
+**YouTube Channels:**
+- [School of Motion](https://www.youtube.com/@schoolofmotion) - Motion design education
+- [Toniko Pantoja](https://www.youtube.com/@TonikoPantoja) - Animation industry & technique
+- [Alex Kunchevsky](https://www.youtube.com/@kunchevsky) - Motion design
+- [Alan Becker Tutorials](https://www.youtube.com/@AlanBeckerTutorials) - Animation tutorials
+- [Olof Storm](https://www.youtube.com/@OlofStorm) - Animation & motion
+- [Alex Grigg](https://www.youtube.com/@alexgrigganimation) - Animation for Anyone
 
-### Software-Specific Forums
+**Key Resources:**
+- [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4) - Alan Becker tutorial
 
-| Software | Primary Forum | Secondary | Discord |
-|----------|--------------|-----------|---------|
-| **Blender** | [BlenderArtists](https://blenderartists.org/) | [r/blender](https://reddit.com/r/blender) | [Blender Discord](https://discord.gg/blender) |
-| **Maya** | [Autodesk Forums](https://forums.autodesk.com/t5/maya/ct-p/area-c14) | [SimplyMaya](https://simplymaya.com/) | Various servers |
-| **ZBrush** | [ZBrushCentral](https://www.zbrushcentral.com/) | [r/ZBrush](https://reddit.com/r/ZBrush) | [ZBrush Discord](https://discord.gg/zbrush) |
-| **Houdini** | [OdForce](https://forums.odforce.net/) | [SideFX Forums](https://www.sidefx.com/forum/) | Think Procedural |
-
-### Learning Communities
-- **[CG Cookie Community](https://cgcookie.com/community)** - Blender-focused learning
-- **[FlippedNormals](https://flippednormals.com/)** - Industry pros sharing knowledge
-- **[80 Level](https://80.lv/)** - Industry news and tutorials
-- **[3D Artist Magazine](https://www.3dartistonline.com/)** - Print and digital publication
-
-
-<details open>
-  <summary>🔧 CAD Software & Resources </summary>
-
-  ### Free CAD Software
-
-  #### **[FreeCAD](https://www.freecad.org/)**
-  - **Features:** Parametric 3D modeling, Python scripting, FEA/CAM capabilities
-  - **Best For:** Product design, mechanical engineering, architecture
-
-  #### **[Onshape Free](https://www.onshape.com/en/products/free)**
-  - **Features:** Cloud-based, real-time collaboration, professional-grade tools
-  - **Limitations:** All designs public, non-commercial only
-
-  #### **[Fusion 360 Personal](https://www.autodesk.com/products/fusion-360/personal)**
-  - **Features:** Integrated CAD/CAM/CAE, cloud-based, simulation tools
-  - **Best For:** Product design, 3D printing, hobbyist projects
-
-  #### **[OpenSCAD](https://openscad.org/)**
-  - **Features:** Script-based modeling, parametric design through code
-  - **Best For:** Programmers, technical parts, 3D printing
-
-  #### **[LibreCAD](https://librecad.org/)**
-  - **Features:** 2D CAD, DXF/DWG compatibility, AutoCAD-like interface
-  - **Best For:** 2D drafting, technical drawings
-
-  ### Professional CAD Software
-
-  | Software | Starting Price | Best For | Key Feature |
-  |----------|---------------|----------|-------------|
-  | **[AutoCAD](https://www.autodesk.com/products/autocad)** | $210/month | Architecture, Engineering | Industry standard, DWG format |
-  | **[SolidWorks](https://www.solidworks.com/)** | $2,820/year | Mechanical Engineering | Parametric modeling, simulation |
-  | **[CATIA](https://www.3ds.com/products/catia)** | Custom quote | Aerospace, Automotive | Advanced surface modeling |
-  | **[Inventor](https://www.autodesk.com/products/inventor)** | $2,085/year | Manufacturing | Assembly design, FEA |
-  | **[Rhino](https://www.rhino3d.com/)** | $995 perpetual | Industrial Design | NURBS modeling, Grasshopper |
-
-  ### CAD Learning Resources
-  - **YouTube Channels:** Lars Christensen, NYC CNC, CAD in Black
-  - **Forums:** [r/CAD](https://reddit.com/r/CAD), [Engineering.com](https://engineering.com)
-  - **File Libraries:** [GrabCAD](https://grabcad.com), [Thingiverse](https://thingiverse.com)
-
-  ---
-</details>
+**Courses (School of Motion):**
+- [Animation Bootcamp](https://www.schoolofmotion.com/courses/animation-bootcamp)
+- [Advanced Motion Methods](https://www.schoolofmotion.com/courses/advanced-motion-methods)
+- [Illustration for Motion](https://www.schoolofmotion.com/courses/illustration-for-motion)
+- [Character Animation Bootcamp](https://www.schoolofmotion.com/courses/character-animation-bootcamp)
+- [16-Bits of Character Animation](https://www.schoolofmotion.com/courses/16-bits-of-character-animation-action-and-nostalgia)
 
 ---
 
+## Motion Graphics
 
+**YouTube Channels:**
+- [Ben Marriott](https://www.youtube.com/@BenMarriott) - After Effects & motion design
+- [Andrew Kramer / Video Copilot](https://www.videocopilot.net/) - VFX & AE tutorials
 
-## 🎯 Workflow & Techniques
+**Courses (School of Motion):**
+- [After Effects Kickstart](https://www.schoolofmotion.com/courses/after-effects-kickstart)
+- [VFX for Motion](https://www.schoolofmotion.com/courses/vfx-for-motion)
+- [Expression Session](https://www.schoolofmotion.com/courses/expression-session)
+- [Mogrt Mania](https://www.schoolofmotion.com/courses/mogrt-mania)
+- [Beginner's Guide to Design & Motion](https://www.schoolofmotion.com/courses/beginners-guide-to-design-motion)
+- [The Path to MoGraph](https://www.schoolofmotion.com/courses/path-to-mograph)
 
-### 3D Pipeline Overview
+---
 
-<img src="https://i.pinimg.com/736x/ee/01/59/ee01594340b337152013cdc822083b9b.jpg" alt="pipeline" width=""/>
+## Lighting
 
+### 3D Lighting Tutorials
 
+**Fundamentals:**
+- [10 Tips for Better Lighting](https://helloluxx.com/tutorial/10-tips-for-better-lighting/) - helloluxx
+- [Lighting for BEGINNERS (C4D)](https://www.youtube.com/watch?v=Wpc8Nyr8Gzo)
+- [Get Better Lighting in C4D](https://www.youtube.com/watch?v=dcLT_1mskBU)
+- [Designing with Shadow in 3D](https://www.schoolofmotion.com/blog/designing-shadows) - School of Motion
+- [Creating Depth with Volumetrics](https://www.schoolofmotion.com/blog/create-depth-with-volumetrics)
+- [Lighting a Scene with HDRIs and Area Lights](https://www.schoolofmotion.com/blog/lighting-scene-with-hrdi-and-area-lights)
+- [Lighting with Only HDRIs? You're Doing it Wrong!](https://www.youtube.com/watch?v=KbuUzj0Yj4A)
+- [The Light Series (Playlist)](https://www.youtube.com/playlist?list=PLsuP4YwchAsz66cPok9hoAo6zaUtwkHhA)
 
-### Modeling Techniques
+**Redshift Specific:**
+- [Creative Product Lighting with Redshift & C4D](https://www.youtube.com/watch?v=O-UFZXSpv9o) - Jarred van de Voort, NAB 2023
+- [Redshift Lighting Techniques (Essential MoGraph)](https://www.youtube.com/watch?v=fXYaonYJ_PY)
+- [Redshift Light Groups](https://www.youtube.com/watch?v=sms_DSANx_s)
+- [Mesh Light in C4D with Redshift](https://www.youtube.com/watch?v=AO68QzMSedc)
+- [Redshift Interior Materials & Lighting](https://www.youtube.com/watch?v=-Y29-qi6wqo)
+- [How to Art Direct Lights in a Cloner](https://www.youtube.com/watch?v=hos1mDLqN4A)
+- [Fast Caustics & Comp Breakdown](https://www.youtube.com/watch?v=4dBHH4mZGcI)
+- [Vladislav Solovjov - Photo-realistic Boutique (Redshift)](https://www.youtube.com/watch?v=slrrHKYdnok) | [Part 2](https://www.youtube.com/watch?v=d6OPrmd_y78) | [IBC 2022](https://www.youtube.com/watch?v=tcHVoENlVhc)
 
-| Technique | Best For | Software | Difficulty |
-|-----------|----------|----------|------------|
-| **Box Modeling** | Hard surface | All | Beginner |
-| **Sculpting** | Organic forms | ZBrush, Blender | Intermediate |
-| **Procedural** | Parametric designs | Houdini, Grasshopper | Advanced |
-| **CAD Modeling** | Precision parts | Fusion 360, SolidWorks | Intermediate |
-| **Photogrammetry** | Real-world capture | Reality Capture, Meshroom | Intermediate |
+**Production Lighting:**
+- [Phil Roberts - Lighting for Production (NAB 2024)](https://www.youtube.com/watch?v=oANXbk9OUbI)
+- [UE5 Product Viz - iPhone Lighting Breakdown](https://www.youtube.com/watch?v=_FvCMxKaK7c)
 
-### Industry-Specific Workflows
+### Cinematography Lighting (Real-World Reference)
+
+- [Roger Deakins on "Learning to Light"](https://www.youtube.com/watch?v=K9w8I_YD29E) - Cinematography Techniques Ep. 1
+- [How to Create Stunning Cinematic Lighting](https://www.youtube.com/watch?v=eZ5hpcn6tIM)
+- [Basics of Film Lighting - 4 Qualities of Light](https://www.studiobinder.com/blog/basics-of-film-lighting-techniques) - StudioBinder
+- [Video Lighting Techniques - Cinematic Look](https://www.youtube.com/watch?v=n1EKLvdUSac)
+
+---
+
+## 3D Tools & Utilities
+
+**Scene & Pipeline:**
+- [Prism Pipeline](https://prism-pipeline.com/) - Animation & VFX pipeline
+- [OpenCue](https://docs.opencue.io/) - Open-source render management
+- [ftrack](https://www.ftrack.com/en/) - Production tracking
+- [Kitsu (CGWire)](https://www.cg-wire.com/kitsu) - Production tracker
+
+**Gaussian Splatting & NeRF:**
+- [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original implementation
+- [4D Gaussian Splatting](https://github.com/hustvl/4DGaussians) - Dynamic scenes (CVPR 2024)
+- [Brush](https://github.com/ArthurBrussee/brush) - 3D reconstruction for all
+- [HyRF](https://wzpscott.github.io/hyrf/) - Hybrid Radiance Fields
+- [MegaSaM](https://github.com/mega-sam/mega-sam) - Structure & motion from casual video
+- [Shape of Motion](https://github.com/vye16/shape-of-motion/)
+
+**Retopology & Mesh:**
+- [Instant Meshes](https://github.com/wjakob/instant-meshes) - Automatic retopology
+- [Topology Guides](http://topologyguides.com/) - Reference
+- [UV Checker Map Maker](https://uvchecker.atlux.one/) - Custom UV textures
+
+**Other:**
+- [Lightmap HDR Light Studio](https://www.lightmap.co.uk/) - Lighting software
+- [VFX Camera Database](https://vfxcamdb.com/) - Camera sensor data
+- [Video Magnification (MIT)](https://people.csail.mit.edu/mrub/vidmag/) - Eulerian magnification
+- [Massive Software](https://www.massivesoftware.com/massiveprime.html) - Crowd simulation
+- [DeepMotion](https://www.deepmotion.com/) - AI motion capture
+- [OpenVisualFX](https://openvisualfx.com/) - Free VFX assets & practice footage
+- [Storm HydroFX](https://storm-vfx.com/) - Fluid simulation
+- [Quixel Bridge](https://quixel.com/bridge) - Megascans import plugin
+- [Flim AI](https://flim.ai/) - Film search engine for creatives
+
+---
+
+## 3D Communities & Forums
+
+- [ArtStation](https://www.artstation.com/) - Professional portfolios
+- [Polycount](https://polycount.com/) - Game art
+- [CGSociety](https://cgsociety.org/) - VFX & animation pros
+- [CGPeers](https://www.cgpeers.com/) - CG community
+- [Agora Community](https://agora.community/) - 3D artists
+- [OdForce](https://forums.odforce.net/) - Houdini forum
+- [BlenderArtists](https://blenderartists.org/) - Blender forum
+- [ZBrushCentral](https://www.zbrushcentral.com/) - ZBrush forum
+- [80 Level](https://80.lv/) - Industry news & tutorials
+
+---
+
+## 3D Inspiration & Showcase
+
+- [Farmfield (Vimeo)](https://vimeo.com/farmfield) - VFX reels
+- [Toros Kose (Behance)](https://www.behance.net/toroskose) - 3D artist
+- [NeilBlevins](http://www.neilblevins.com/) - CG art & tutorials
+- [Strange Attractors](http://www.3d-meier.de/) - Mathematical 3D forms
+- [autodestruct.com](http://www.autodestruct.com/) - Concept art
+- [Disney Research](https://www.disneyresearch.com/) - Research publications
+- [Make 2 Digital](https://www.make2digital.com/) - FUI & sci-fi concepts
+- [Linkage Mechanisms](http://blog.rectorsquid.com/sample-linkage-mechanisms-2/) - Mechanical animations
+- [Level Sets in Production (Sony)](https://www.imageworks.com/sites/default/files/2023-10/levelsets-in-production-spider-man3.pdf) - Spider-Man 3 VFX
+- [cifraworld (Instagram)](https://www.instagram.com/cifraworld/) - 3D motion art
+- [Ben Watts (Vimeo)](https://vimeo.com/bwdesign) - Motion design
+- [Simon Fiedler (Vimeo)](https://vimeo.com/simonfiedler) - Mograph Houdini
+- [ShotDeck](https://shotdeck.com/) - Fully searchable movie stills
+- [The Blueprints](https://www.the-blueprints.com/) - Vehicle & object blueprints
+- [Nick Taylor (MVSM)](http://nicholas-taylor.com/) - Project breakdowns
+- [Cornelius Dammrich](https://corneliusdammrich.gumroad.com) - Sci-fi environments
+
+---
+
+## Architecture & Visualization
+
+- [Contemporist](http://www.contemporist.com/) - Contemporary architecture
+- [Modlar](https://www.modlar.com/) - Architecture inspiration
+- [BIMobject](https://www.bimobject.com/en-us) - Free BIM objects
+
+---
+
+## Virtual Production
+
+- [Zero Density](https://www.zerodensity.tv/) - Real-time VFX engine
+- [disguise](https://www.disguise.one/en/solutions/virtual-production/) - VP solutions
+- [NVIDIA Omniverse Blueprints](https://github.com/orgs/NVIDIA-Omniverse-blueprints/repositories)
+- [Vizrt](https://www.vizrt.com/) - Broadcast graphics
+- [Pixotope](https://www.pixotope.com/) - VP software
+- [Notch](https://www.notch.one/) - Real-time graphics
+
+---
+
+## Tech Art
+
+- [max rose](https://www.youtube.com/@maxrose8845/videos) - Tech art breakdowns
+- [Jam2go](https://www.youtube.com/@Jam2go/videos) - Procedural art
+- [Visual Tech Art](https://www.youtube.com/@VisualTechArt) - Tutorials
+
+---
+
+## 2D Art & Design
+
+### Stock Images & References
+[Unsplash](https://unsplash.com/) | [Pexels](https://www.pexels.com/) | [Pixabay](https://pixabay.com/) | [All Free Download](http://all-free-download.com/) | [Neurascapes](https://neurascapes.com/) | [PNG Images](https://pngimg.com/) | [Public Domain Review](https://publicdomainreview.org/collections/images) | [David Rumsey Maps](https://www.davidrumsey.com/view/past)
+
+### 2D Art References & Inspiration
+[The Blueprints](https://www.the-blueprints.com/) | [Sakugabooru](https://www.sakugabooru.com/) | [Art of Animation](http://theartofanimation.tumblr.com/) | [50 Watts](https://50watts.com/) | [Settei Dreams](https://setteidreams.net/) | [LACartoons](https://lacartoons.com/) | [Cloth Reference](https://imgur.com/a/btqNlL0)
+
+### 2D Tutorials
+[Draw a Box](https://drawabox.com/) - Free drawing fundamentals | [Saint11 Pixel Art](https://www.patreon.com/saint11) - Pixel art tutorials
+
+---
+
+## Design Tools
+
+**Editors:** [Graphite](https://editor.graphite.rs/) | [Adobe Express](https://new.express.adobe.com/) | [X-Design](https://www.x-design.com/) | [Modyfi](http://modyfi.com/) | [Eagle](https://en.eagle.cool/) (asset organizer)
+
+**Effects:** [Efecto](https://efecto.app/) (ASCII/dithering) | [BabyTrack](https://freedesigntool.online/baby-track) (blob tracking) | [Halftone Maker](https://halftonemaker.com/) | [Vector Halftone](https://halftone.xoihazard.com/) | [Space Type Generator](https://spacetypegenerator.com/) | [Tiled Art](https://tiled.art/en/home/) (tessellations)
+
+**Resources:** [The Toolbox](https://thetoolbox.art/) | [Undesign](https://undesign.learn.uno/) | [ContentCore](https://contentcore.xyz/) | [OS Design Directory](https://github.com/opensesh/OS_design-directory) | [Muzli](https://chromewebstore.google.com/detail/muzli-design-inspiration/glcipcfhmopcgidicgdociohdoicpdfc) | [Cosmos](https://www.cosmos.so/home) | [Are.na](https://www.are.na/) | [Mockup Photos](https://mockup.photos/)
+
+---
+
+## Fonts
+
+[Font Library](https://fontlibrary.org/) | [FontPair](https://fontpair.co/) | [Mixfont](https://www.mixfont.com/) | [Lilex](https://lilex.myrt.co/) | [Commissioner](https://github.com/kosbarts/Commissioner) | [Klim Type Foundry](https://klim.co.nz/) | [Usable Google Fonts (Figma)](https://www.figma.com/design/UXGdSzWDZTNEDrGnfz0Cxj/) | [How to Proof a Typeface](https://jonathanhoefler.com/articles/how-to-proof-a-typeface) | [FontLab 8](https://www.fontlab.com/font-editor/fontlab/)
+
+---
+
+## Icons
+
+[Flaticon](https://www.flaticon.com/) | [SVGL](https://svgl.app/) | [Icons8 Glyph](https://icons8.com/l/glyph/) | [Lucide](https://lucide.dev/) | [Lucide Animated](https://lucide-animated.com/) | [Tabler Icons](https://tablericons.com/) | [Font Awesome](https://fontawesome.com/) | [MDI Icons](https://pictogrammers.com/library/mdi/icon/) | [Game Icons](https://game-icons.net/) | [Use Animations](https://useanimations.com/) | [Handy Arrows](https://handyarrows.com/)
+
+---
+
+## Color Tools
+
+[Color Hunt](https://colorhunt.co/) | [Coolors](https://coolors.co/) | [Lospec Palette List](https://lospec.com/palette-list) | [WebGradients](https://webgradients.com/) | [Gradient Horse](https://gradient.horse/) | [Huemint](https://huemint.com/brand-intersection/)
+
+---
+
+## General Inspiration
+
+[H.R. Giger (Artnet)](http://www.artnet.com/artists/hans-rudolf-giger/) | [Janelle Loi Resources](https://janelloi.com/recommended-resources/) | [Geometric Design (Canva)](https://designschool.canva.com/blog/geometric-design/) | [Movie Scenes Inspired by Art](https://x.com/JamesLucasIT/status/1795507471693320546) | [Mech Blog](http://mechblog.tumblr.com/) | [The Black Workshop](http://theblackworkshop.tumblr.com/) | [Activation Ideas](https://activationideas.com/) | [OTAKU GANGSTA](http://otakugangsta.com/) | [Mr Cup](http://www.mr-cup.com/blog.html) | [DETHJUNKIE](http://www.dethjunkie.com/) | [Truchet's Tiles](https://arearugscarpet.blogspot.com/2014/04/the-curse-of-truchets-tiles.html)
+
+---
+
+## Photography
+
+- [Cambridge in Colour](http://www.cambridgeincolour.com/tutorials.htm) - Comprehensive photography tutorials
+
+---
+
+## Video & Motion
+
+### After Effects
+- [Top 5 Expressions](http://www.graymachine.com/top-5-effects-expressions/) - Essential expressions
+- [Jitter Templates](https://jitter.video/templates/) - Free motion graphics templates
+
+### Fusion (DaVinci Resolve)
+- [VFXPedia](https://www.steakunderwater.com/VFXPedia/96.0.243.189/index4875.html?title=Main_Page) - Reference wiki
+- [Multichannel EXR](https://forum.blackmagicdesign.com/viewtopic.php?f=22&t=39964) | [Split EXR](http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion)
+
+### Motion Graphics Inspiration
+[Motionographer](http://motionographer.com/) | [Eyecandy](https://eyecannndy.com/featured/) | [Ads of the World](https://www.adsoftheworld.com/) | [Film Grab](https://film-grab.com/) | [Opening Titles (Vimeo)](https://vimeo.com/theopeningtitles) | [Flim AI](https://flim.ai/) | [ShotDeck](https://shotdeck.com/) | [PlayPhrase.me](https://www.playphrase.me/) | [John Berube](https://johnberube.com/)
+
+### Motion Graphics Tools
+[Resolume](https://resolume.com/software) | [MadMapper](https://madmapper.com/) | [Notch](https://www.notch.one/) | [Motion Canvas](https://motioncanvas.io/) | [PixelCrash](https://www.pixelcrash.xyz/) | [Effekseer](https://effekseer.github.io/en/) | [Magic Animator](https://magicanimator.com/) | [nw_wrld](https://github.com/aagentah/nw_wrld) | [Nukepedia Lens Engine](https://www.nukepedia.com/gizmos/draw/lens-engine) | [CorridorKey](https://github.com/nikopueringer/CorridorKey) | [Sammie-Roto-2](https://github.com/Zarxrax/Sammie-Roto-2)
+
+### Stock Footage
+[Internet Archive](https://archive.org/) | [Prelinger Archives](https://archive.org/details/prelinger) | [ActionVFX Practice](https://www.actionvfx.com/practice-footage) | [OpenVisualFX](https://openvisualfx.com/)
+
+### Sound Effects & Music
+
+**Free:** [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) | [Free Music Archive](https://freemusicarchive.org/) | [ccMixter](http://ccmixter.org/) | [Incompetech](https://incompetech.com/) | [NCS](https://ncs.io/) | [Sonniss](https://sonniss.com/) | [Motion Array SFX](https://motionarray.com/browse/sound-effects/free/) | [Ende](https://ende.app/en) | [Moby Gratis](https://mobygratis.com/)
+
+**Paid:** [Uppbeat](https://uppbeat.io/) | [Artlist](https://artlist.io/)
+
+### Reel Music
+[Jake Chudnow](https://www.youtube.com/jakechudnow) | [Kurzgesagt Music](https://thomasveith.bandcamp.com/music) | [Nujabes - Luv(sic)](https://www.youtube.com/watch?v=2juNu52zNY0) | [Mr Oizo - Flat Beat](https://www.youtube.com/watch?v=qmsbP13xu6k) | [Lemaitre - Closer](https://www.youtube.com/watch?v=dSYu8FLVr_Y)
+
+---
+
+## Video Editing
+
+**Courses (School of Motion):**
+- [Editor's Essential After Effects Bundle](https://www.schoolofmotion.com/courses/editors-essential-after-effects-bundle)
+- [After Effects for Video Editors](https://www.schoolofmotion.com/courses/after-effects-for-video-editors)
+
+---
+
+## Game Development
+
+### Game Assets
+[OpenGameArt](https://opengameart.org/) | [Quaternius](https://quaternius.com/) | [Kenney](https://kenney.nl/) | [itch.io Assets](https://itch.io/game-assets) | [Game Icons](https://game-icons.net/) | [Spriters Resource](https://www.spriters-resource.com/)
+
+### Game Design
+- [Game UI Database](https://www.gameuidatabase.com/) - Interface reference
+- [How To Market A Game](https://howtomarketagame.com/) - Marketing strategies
+
+### Game Dev Tools
+[PlayCanvas](https://playcanvas.com/) | [Stencyl](http://www.stencyl.com/) | [SpriteMancer](https://codemanu.itch.io/spritemancer) | [Sprite DLight](http://www.2deegameart.com/p/sprite-dlight.html) | [Effekseer](https://effekseer.github.io/en/)
+
+### Unreal Engine
+- [blueprintUE](https://blueprintue.com/) - Blueprint sharing
+- [VS Code Setup for UE](https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-code-for-unreal-engine)
+- [Polygonflow Dash](https://www.polygonflow.io/) - World building plugin
+- Marketplace picks: [Medieval Houses](https://unrealengine.com/marketplace/en-US/product/modular-medieval-house-pack) | [Japanese Village](https://unrealengine.com/marketplace/en-US/product/japanese-medieval-village) | [Village Pack](https://unrealengine.com/marketplace/en-US/product/village-houses-pack)
+
+### Game Dev Communities
+- [Work With Indies](https://www.workwithindies.com/) - Find collaborators
+
+---
+
+## Machine Learning for CG
+
+- [Introduction to Machine Learning (Rebelway)](https://www.youtube.com/watch?v=tQGfTzgxQIc) - ML for VFX artists
+- [Introduction to Machine Learning (Course)](https://www.rebelway.net/introduction-to-machine-learning) - Full Rebelway course
+
+---
+
+## Conversion Tools
+
+[VERT.sh](https://vert.sh/) | [MAZANOKE](https://mazanoke.com/) | [123apps](https://123apps.com/)
+
+---
+
+## Industry Insights
+
+### Salary & Career Data
+- [SaltyAnimators Salary Collection](https://docs.google.com/spreadsheets/d/1hLki-RUHJXgYj_RJKWlwUXfrWUWEi9yIcyLzEifxYrY) - Industry salary data
+- [Animation Studio Reviews](https://docs.google.com/spreadsheets/d/1aJHCQSA2dFdu4Fy__T3yDyiNqO0jMUBcku0EjKX3SZI) - Studio review spreadsheet
+- [Job Openings Tracker](https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/) - Animation/VFX jobs
+
+### Industry Trends 2024-2025
+- AI-Assisted Modeling (text-to-3D)
+- Real-Time Ray Tracing & Gaussian Splatting
+- USD (Universal Scene Description) adoption
+- Virtual Production (LED volumes)
+- Cloud Rendering & WebGPU
+
+### Pipeline Overview
 
 | Industry | Primary Software | Key Considerations |
 |----------|-----------------|-------------------|
-| **Film VFX** | Maya, Houdini, Nuke | Pipeline integration, high detail |
-| **Games** | 3ds Max, Maya, Substance | Real-time constraints, optimization |
-| **Architecture** | 3ds Max, SketchUp, Revit | Accuracy, real-world scale |
-| **Product Design** | Fusion 360, SolidWorks, KeyShot | Manufacturing constraints |
-| **Motion Graphics** | Cinema 4D, After Effects | Stylized looks, fast iteration |
+| Film VFX | Maya, Houdini, Nuke | Pipeline integration, high detail |
+| Games | Maya, 3ds Max, Substance | Real-time constraints |
+| Architecture | 3ds Max, SketchUp, Revit | Accuracy, real-world scale |
+| Product Design | Fusion 360, SolidWorks, KeyShot | Manufacturing constraints |
+| Motion Graphics | Cinema 4D, After Effects | Stylized looks, fast iteration |
 
 ---
 
-
-## 📈 Industry Trends 2024-2025
-
-### Emerging Technologies
-- **AI-Assisted Modeling** - Text-to-3D generation
-- **Real-Time Ray Tracing** - Game and visualization
-- **USD (Universal Scene Description)** - Industry standard format
-- **Cloud Rendering** - Distributed computing power
-- **WebGPU** - Browser-based 3D acceleration
-
-### Growing Areas
-- **Virtual Production** - LED volumes, real-time VFX
-- **Digital Twins** - Industrial and architectural
-- **Metaverse Content** - Virtual worlds and NFTs
-- **3D Printing** - Consumer and industrial applications
-- **AR/VR/XR** - Immersive experiences
-
----
-
-## 🤝 Contributing
+## Contributing
 
 This resource collection is community-driven. To contribute:
 1. Fork this repository
-2. Add your resources with proper categorization
+2. Add resources with proper categorization
 3. Include descriptions and verify links
 4. Submit a pull request
 
-### Contribution Guidelines
-- Verify all links are working
-- Provide context for each resource
-- Maintain consistent formatting
-- Respect copyright and licenses
-- Keep descriptions concise but informative
-
 ---
 
-## 📜 License & Credits
+## License
 
-This compilation is released under MIT License. Individual resources retain their original licenses.
+Released under MIT License. Individual resources retain their original licenses.
 
-### Special Thanks
-- The Blender Foundation for pioneering open-source 3D
-- All tutorial creators sharing knowledge freely
-- The 3D community for continuous support and inspiration
+**Last Updated:** April 2026
 
----
-
-## 🔄 Last Updated
-
-**December 2024** - All links verified and information current
-
----
-
-**[Back to Top](#-ultimate-3d-resources-hub)**
+**Sources:** Original curation + [Houdini Nerd](https://discord.gg/E9zA9Ft) (Christopher Rutledge) + [Best 3D Resources](https://annethai.notion.site/) (Anne Thai) + community contributions.
