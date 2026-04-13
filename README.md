@@ -754,6 +754,7 @@
 [PlayCanvas](https://playcanvas.com/) | [Stencyl](http://www.stencyl.com/) | [SpriteMancer](https://codemanu.itch.io/spritemancer) | [Sprite DLight](http://www.2deegameart.com/p/sprite-dlight.html) | [Effekseer](https://effekseer.github.io/en/)
 
 ### Unreal Engine
+- [UnrealEngineAdvancedFunctions](https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions) - Handy Unreal Engine Functions By [Mridul Sharma](https://www.instagram.com/mridul_sarmah/)
 - [blueprintUE](https://blueprintue.com/) - Blueprint sharing
 - [VS Code Setup for UE](https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-code-for-unreal-engine)
 - [Polygonflow Dash](https://www.polygonflow.io/) - World building plugin
