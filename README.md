@@ -216,16 +216,14 @@
 | Software | Description | Best For |
 |----------|------------|----------|
 | [Figma](https://www.figma.com/) | Collaborative UI/UX design (free tier) | UI design, prototyping, design systems |
-| [Affinity Designer 2](https://affinity.serif.com/en-us/designer/) | Vector design ($69.99 perpetual) | Illustration, UI, print |
-| [Affinity Photo 2](https://affinity.serif.com/en-us/photo/) | Photo editing ($69.99 perpetual) | Photo retouching, texture editing |
-| [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/) | Page layout ($69.99 perpetual) | Print, editorial |
+| [Affinity](https://affinity.studio/) | Unified vector, photo & layout app (free, by Canva) | Illustration, photo editing, page layout |
 | [Inkscape](https://inkscape.org/) | Free open-source vector editor | SVG editing, illustration |
 | [GIMP](https://www.gimp.org/) | Free open-source image editor | Texture editing, photo manipulation |
 | [Photopea](https://www.photopea.com/) | Free browser-based PSD editor | Quick texture edits, no install |
 
 **Content Libraries & Resources:**
 - [Figma Community](https://www.figma.com/community) - Free templates, plugins, UI kits
-- [Affinity Spotlight](https://affinity.serif.com/en-us/spotlight/) - Tutorials, tips, community showcase
+- [Affinity Tutorials](https://affinity.studio/learn/) - Official tutorials, tips, community showcase
 
 ---
 
