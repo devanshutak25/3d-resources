@@ -1032,11 +1032,7 @@
 
 ## Contributing
 
-This resource collection is community-driven. To contribute:
-1. Fork this repository
-2. Add resources with proper categorization
-3. Include descriptions and verify links
-4. Submit a pull request
+This resource collection is community-driven. To contribute just reach out to me at [E-Mail](mailto:3dresources@devanshutak.xyz) or [Instagram](https://www.instagram.com/devanshutak25/) 
 
 ---
 
