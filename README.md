@@ -337,16 +337,10 @@
 
 - [Open HDRI](https://openhdri.org/) - 50 free CC0 HDRIs
 - [HDRI Skies](https://hdri-skies.com/) - Free sky HDRIs
-- [Noe Motion HDRI](http://noemotionhdrs.net/index.html) - Free HDRIs
 - [HDR Maps](https://hdrmaps.com/freebies/) - Free HDRI packs
-- [IHDRI](https://www.ihdri.com/hdri-skies-outdoor/) - Outdoor HDRIs
-- [Pingo VFX Tools](https://www.pingo.nu/vfxtools) - HDRI tools
 - [Adobe Stock HDRI](https://stock.adobe.com/search?k=hdri+studio) - Studio HDRIs
-- [sIBL Archive](http://www.hdrlabs.com/sibl/archive.html) - Classic collection
 - [Location Textures](https://locationtextures.com/panoramas/) - Location panoramas
-- [The Mari Channel HDR](https://themarichannel.com/all-hdr/) - HDR resources
 - [RenderMan HDRIs](https://renderman.pixar.com/category/111-hdri) - Pixar's HDRI collection
-- [Kungfujackrabbit](https://kungfujackrabbit.com/hdri/) - Free HDRIs
 - [OpenFootage](https://www.openfootage.net/) - Free HDRIs, VFX plates, and backplates
 - [Maxime Roz HDRI Pack](https://www.maximeroz.com/hdri-free-pack) - Free studio & outdoor HDRIs for product viz
 - [HDRI Hub](https://hdri-hub.com/) - High-quality HDRIs with backplates
