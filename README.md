@@ -104,7 +104,7 @@
 
 **Free General:**
 - [Sketchfab](https://sketchfab.com/) - Massive downloadable library
-- [Poly Haven](https://polyhaven.com/) - CC0 models, textures, HDRIs
+- [Poly Haven](https://polyhaven.com/) - CC0 models, textures up to 8K+, HDRIs up to 16K
 - [TurboSquid](https://www.turbosquid.com/) - Professional models with free section
 - [CGTrader](https://www.cgtrader.com/) - Community marketplace
 - [3Dassets.one](https://3dassets.one/?q=&sort=popular) - Asset search engine
@@ -143,7 +143,6 @@
 - [British Museum (Sketchfab)](https://sketchfab.com/britishmuseum) - Scanned artifacts
 - [Cleveland Museum of Art (Sketchfab)](https://sketchfab.com/clevelandart) - Museum 3D scans
 - [Quaternius](https://quaternius.com/) - Free low-poly game assets
-- [Kenney Assets](https://kenney.nl/assets/) - Free game assets
 - [Wire Wheels Club](https://wirewheelsclub.com/models/) - Vehicle models
 
 **Architecture & Furniture:**
@@ -177,7 +176,6 @@
 
 ### HDRIs
 
-- [Poly Haven HDRIs](https://polyhaven.com/hdris) - CC0, up to 16K
 - [Open HDRI](https://openhdri.org/) - 50 free CC0 HDRIs
 - [HDRI Skies](https://hdri-skies.com/) - Free sky HDRIs
 - [Noe Motion HDRI](http://noemotionhdrs.net/index.html) - Free HDRIs
@@ -198,7 +196,6 @@
 
 **Free PBR Libraries:**
 - [ambientCG](https://ambientcg.com/) - 2000+ CC0 PBR materials
-- [Poly Haven Textures](https://polyhaven.com/textures) - CC0, 8K+
 - [Free PBR](https://freepbr.com/) - Hundreds of free materials
 - [Share Textures](https://www.sharetextures.com/) - CC0 seamless textures
 - [CG Bookcase](https://www.cgbookcase.com/textures/) - Free PBR textures
@@ -229,9 +226,8 @@
 
 **Premium:**
 - [Poliigon](https://www.poliigon.com/) - PBR textures (subscription)
-- [Quixel Megascans](https://quixel.com/) - Scanned materials (free with UE)
+- [Quixel Megascans + Bridge](https://quixel.com/) - Scanned materials & import plugin (free with UE)
 - [Substance Source](https://substance3d.adobe.com/assets) - Procedural (Adobe sub)
-- [Texturing.xyz](https://texturing.xyz) - Skin & displacement maps
 - [Texture Box](https://texturebox.com/) - Mixed library
 
 ### Material Creation Tools
@@ -325,7 +321,7 @@
 - [How to Learn Houdini](https://www.youtube.com/watch?v=Y22rYfJE64o) - Matt Estela talk
 
 **Essential Learning Resources:**
-- [CGWiki (tokeru.com)](http://www.tokeru.com/cgwiki/?title=Houdini) - **The best resource** by Matt Estela
+- [CGWiki (tokeru.com)](http://www.tokeru.com/cgwiki/?title=Houdini) - **The best resource** by Matt Estela (Joy of VEX, LOPS, particles, everything)
 - [Entagma](http://www.entagma.com/) - Advanced design/mograph, also covers Unreal & Blender
 - [Applied Houdini](http://www.appliedhoudini.com/) - **Best for FX** by Stephen Knipping (ILM)
 - [SideFX Tutorials](https://www.sidefx.com/tutorials/) - Official tutorials
@@ -333,7 +329,6 @@
 - [John Kunz](https://www.johnkunz.com/) - Weekly streams, FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/))
 
 **VEX & Coding:**
-- [Joy of Vex](https://www.tokeru.com/cgwiki/JoyOfVex.html) - **The definitive VEX course** from CGWiki
 - [1 Minute VEX](https://aaronsmith.tv/1-Minute-VEX) - Quick VEX lessons
 - [VEX Isn't Scary](https://www.youtube.com/watch?v=OeaqMWzkyiw) - NineBetween series
 - [VEX Wrangle Cheat Sheet](https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html) - Quick reference
@@ -365,7 +360,6 @@
 
 **Lighting / Rendering / Solaris / USD:**
 - [USD Basics with Solaris](https://www.sidefx.com/tutorials/usd-basics-with-solaris/) - Official tutorial
-- [CGWiki LOPS](https://www.tokeru.com/cgwiki/HoudiniLops) - Solaris/LOPS guide
 
 **More Tutorials:**
 - [2D Cel Flames with Pyro](https://www.youtube.com/watch?v=jz244YLLqD0)
@@ -381,7 +375,6 @@
 - [Art Directing Paint Splashes](https://whatifound.net/2020/06/13/houdini-paint-splashes/)
 - [Building Growth Animation](https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth)
 - [Recursive Growth](https://vimeo.com/154251482)
-- [Pops Split Avoid](https://www.tokeru.com/cgwiki/PopsSplitAvoid.html)
 - [Node Studies](https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/)
 - [Point Cloud to Mesh (Microsoft)](https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini-point-cloud)
 - [Cloner Object](https://www.sidefx.com/tutorials/part-1-cloner-object/) - MoGraph tutorial
@@ -409,34 +402,7 @@
 - [Ffmpeg](https://ffmpeg.org/) - Flipbook to MP4 ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM))
 
 **Rebelway (Free Houdini Tutorials & Courses):**
-- [Houdini Beginner Tutorial - Ultimate Starter Guide (3+ Hours)](https://www.youtube.com/watch?v=-0U9KYI1wKY)
-- [Houdini Fundamentals - Mastering the Basics](https://www.youtube.com/watch?v=flT0_8b8wAM&list=TLGGZZATs1zDpLgyMjExMjAyMw)
-- [Ultimate Houdini Tutorial Collection (Free Project Files)](https://www.youtube.com/watch?v=xsYdZ03mlRY)
-- [Intro to Procedural Modeling](https://www.rebelway.net/introduction-to-procedural-modeling-in-houdini)
-- [VEX for Houdini Artists](https://www.rebelway.net/vex-for-houdini-artists)
-- [VEX in Houdini by Aaron Smith](https://www.youtube.com/watch?v=fjAMevfPmmo)
-- [Action Movie FX - Pyro & Water (Godzilla Inspired)](https://www.youtube.com/watch?v=GI_4fYAIfV0)
-- [Fluid FX - Learn from Sony FX Supervisor](https://www.youtube.com/watch?v=IiLRf_uMBDE)
-- [Fantasy FX - Dragon Fire](https://www.youtube.com/watch?v=xu0zRT-L2aE)
-- [Fantasy FX - Week 1 from Pro FX Artist](https://www.youtube.com/watch?v=_naEsZEZkVs)
-- [Rise of Skywalker Lightning FX](https://www.youtube.com/watch?v=K_DEGS0GUWM)
-- [Procedural City Creation - Week 1](https://www.youtube.com/watch?v=97CJCbcE9cE)
-- [Exploding Hot Air Balloon](https://www.rebelway.net/exploding-hot-air-balloon-in-houdini-pro-houdini-tutorial)
-- [Magical Portal FX (Beginner)](https://www.rebelway.net/magical-portal-fx-beginner-houdini-tutorial)
-- [Realistic Tree and Soil Simulation](https://www.rebelway.net/realistic-tree-and-soil-simulation-pro-houdini-tutorial)
-- [Realistic Parking Lot Destruction (Beginner)](https://www.rebelway.net/realistic-destruction-houdini-beginner-tutorial)
-- [Abstract Fluid FX (Karma)](https://www.rebelway.net/abstract-fluid-fx-in-houdini)
-- [Tower Destruction FX (Free Project File)](https://www.rebelway.net/tower-destruction-fx-free-project-file)
-- [Fireball vs Coke Melting Simulation](https://www.rebelway.net/fireball-vs-coke-houdini-melting-simulation)
-- [Houdini Pyro - Car Dust Trail](https://www.rebelway.net/houdini-pyro-simulation-tutorial-car-dust-trail)
-- [Introduction to Fur and Hair Grooming](https://www.rebelway.net/introduction-to-fur-and-hair-grooming-in-houdini) - Linda Dussine
-- [Intro to Houdini Muscle](https://www.rebelway.net/muscle-simulation-in-houdini) - Carlos Puigdollers Zanon
-- [Cinematic Lighting in Houdini](https://www.youtube.com/watch?v=bDaD7OBfV7s)
-- [Realistic Lighting in Houdini & Karma XPU (Tokyo Street)](https://www.rebelway.net/realistic-lighting-in-houdini-tutorial) - Dmitry Gromov
-- [Realistic Tokyo Street - Scene Setup & Shading](https://www.rebelway.net/realistic-street-in-houdini-and-karma)
-- [Realtime FX in Houdini & Unreal Engine](https://www.youtube.com/watch?v=coJa70INzrs)
-- [Houdini for 3D Artists (H20.5, Modeling, Solaris, Karma)](https://www.youtube.com/watch?v=dlO3BCjahRw)
-- [Python for Nuke Artists](https://www.youtube.com/watch?v=87DkMDh27t0)
+- [Rebelway](https://www.rebelway.net/) - Houdini FX, procedural modeling, VEX, pyro, destruction, fluid, fur, muscle, lighting, ML courses (many free tutorials + [YouTube](https://www.youtube.com/@Rebelway))
 
 **Houdini Communities:**
 - [OdForce](https://forums.odforce.net/) - Most active Houdini forum
@@ -452,19 +418,12 @@
 
 - [C4D Center](https://www.c4dcenter.com/) - Tutorials and resources
 - [Cineversity](http://www.cineversity.com/) - Official Maxon tutorials
-- [Cinema 4D Basecamp](https://www.schoolofmotion.com/courses/cinema-4d-basecamp) - School of Motion
-- [Cinema 4D Ascent](https://www.schoolofmotion.com/courses/cinema-4d-ascent) - School of Motion
-- [Lights, Camera, Render Bundle](https://www.schoolofmotion.com/courses/lights-camera-render-bundle) - School of Motion
-- [How to Create Brilliant Shots](https://www.schoolofmotion.com/courses/how-to-create-brilliant-shots) - School of Motion
-- [A Wild, Bug-Filled World of 3D](https://www.schoolofmotion.com/courses/a-wild-bug-filled-world-of-3d) - School of Motion
-- [Essential Ingredients to Creating Stylized 3D](https://www.schoolofmotion.com/courses/the-essential-ingredients-to-creating-stylized-3d) - School of Motion
-- [Unreal Engine for 3D Artists](https://www.schoolofmotion.com/courses/unreal-engine-for-3d-artists) - School of Motion
+- [School of Motion](https://www.schoolofmotion.com/) - Cinema 4D, motion graphics, animation, AE, design courses
 
 **Plugins:**
 - [QuadRemesher](https://exoside.com/quadremesher) - Automatic retopology
 - [Forester](https://www.3dquakers.com/) - Nature & vegetation
-- [Optical Flares](https://www.videocopilot.net/products/opticalflares) - Lens flares
-- [Element 3D](https://www.videocopilot.net/products/element2/) - 3D in After Effects
+- [Video Copilot](https://www.videocopilot.net/) - VFX tutorials, Element 3D, Optical Flares
 - [AEC4D](https://aescripts.com/aec4d/) - AE-C4D bridge
 - [Polygon/Vertex Selector](https://code.vonc.fr/) - Selection tools
 - [TyFlow](https://docs.tyflow.com/download/) - Particle system (3ds Max)
@@ -489,7 +448,6 @@
 
 **RenderMan / PBR Theory:**
 - [Veach Thesis (Stanford)](https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf) - Light transport theory
-- [Physically Based Rendering Book](http://www.pbr-book.org/3ed-2018/contents.html) - The PBR bible
 
 ---
 
@@ -503,12 +461,7 @@
 - [Grady Frederick](https://www.youtube.com/@gradyfrederickart) - Concept art process
 - [Michael Mattesi](https://www.instagram.com/michaelmattesi/) - Force drawing (Instagram)
 
-**Courses (School of Motion):**
-- [Photoshop & Illustrator Unleashed](https://www.schoolofmotion.com/courses/photoshop-and-illustrator-unleashed)
-- [Design Bootcamp](https://www.schoolofmotion.com/courses/design-bootcamp)
-- [Design Kickstart](https://www.schoolofmotion.com/courses/design-kickstart)
-- [Explainer Camp](https://www.schoolofmotion.com/courses/explainer-camp)
-- [Character Design Fundamentals](https://www.schoolofmotion.com/courses/character-design-fundamentals)
+**Courses:** [School of Motion](https://www.schoolofmotion.com/) (Design Bootcamp, Explainer Camp, Character Design, etc.)
 
 ---
 
@@ -525,12 +478,7 @@
 **Key Resources:**
 - [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4) - Alan Becker tutorial
 
-**Courses (School of Motion):**
-- [Animation Bootcamp](https://www.schoolofmotion.com/courses/animation-bootcamp)
-- [Advanced Motion Methods](https://www.schoolofmotion.com/courses/advanced-motion-methods)
-- [Illustration for Motion](https://www.schoolofmotion.com/courses/illustration-for-motion)
-- [Character Animation Bootcamp](https://www.schoolofmotion.com/courses/character-animation-bootcamp)
-- [16-Bits of Character Animation](https://www.schoolofmotion.com/courses/16-bits-of-character-animation-action-and-nostalgia)
+**Courses:** [School of Motion](https://www.schoolofmotion.com/) (Animation Bootcamp, Character Animation, Illustration for Motion, etc.)
 
 ---
 
@@ -538,15 +486,8 @@
 
 **YouTube Channels:**
 - [Ben Marriott](https://www.youtube.com/@BenMarriott) - After Effects & motion design
-- [Andrew Kramer / Video Copilot](https://www.videocopilot.net/) - VFX & AE tutorials
 
-**Courses (School of Motion):**
-- [After Effects Kickstart](https://www.schoolofmotion.com/courses/after-effects-kickstart)
-- [VFX for Motion](https://www.schoolofmotion.com/courses/vfx-for-motion)
-- [Expression Session](https://www.schoolofmotion.com/courses/expression-session)
-- [Mogrt Mania](https://www.schoolofmotion.com/courses/mogrt-mania)
-- [Beginner's Guide to Design & Motion](https://www.schoolofmotion.com/courses/beginners-guide-to-design-motion)
-- [The Path to MoGraph](https://www.schoolofmotion.com/courses/path-to-mograph)
+**Courses:** [School of Motion](https://www.schoolofmotion.com/) (AE Kickstart, VFX for Motion, Expression Session, Path to MoGraph, etc.)
 
 ---
 
@@ -558,9 +499,7 @@
 - [10 Tips for Better Lighting](https://helloluxx.com/tutorial/10-tips-for-better-lighting/) - helloluxx
 - [Lighting for BEGINNERS (C4D)](https://www.youtube.com/watch?v=Wpc8Nyr8Gzo)
 - [Get Better Lighting in C4D](https://www.youtube.com/watch?v=dcLT_1mskBU)
-- [Designing with Shadow in 3D](https://www.schoolofmotion.com/blog/designing-shadows) - School of Motion
-- [Creating Depth with Volumetrics](https://www.schoolofmotion.com/blog/create-depth-with-volumetrics)
-- [Lighting a Scene with HDRIs and Area Lights](https://www.schoolofmotion.com/blog/lighting-scene-with-hrdi-and-area-lights)
+- [School of Motion Lighting Blog](https://www.schoolofmotion.com/blog/) - Shadows, volumetrics, HDRI & area light techniques
 - [Lighting with Only HDRIs? You're Doing it Wrong!](https://www.youtube.com/watch?v=KbuUzj0Yj4A)
 - [The Light Series (Playlist)](https://www.youtube.com/playlist?list=PLsuP4YwchAsz66cPok9hoAo6zaUtwkHhA)
 
@@ -582,7 +521,7 @@
 
 - [Roger Deakins on "Learning to Light"](https://www.youtube.com/watch?v=K9w8I_YD29E) - Cinematography Techniques Ep. 1
 - [How to Create Stunning Cinematic Lighting](https://www.youtube.com/watch?v=eZ5hpcn6tIM)
-- [Basics of Film Lighting - 4 Qualities of Light](https://www.studiobinder.com/blog/basics-of-film-lighting-techniques) - StudioBinder
+- [StudioBinder Film Guides](https://www.studiobinder.com/blog/) - Lighting fundamentals, shot composition, camera movements
 - [Video Lighting Techniques - Cinematic Look](https://www.youtube.com/watch?v=n1EKLvdUSac)
 
 ---
@@ -616,7 +555,6 @@
 - [DeepMotion](https://www.deepmotion.com/) - AI motion capture
 - [OpenVisualFX](https://openvisualfx.com/) - Free VFX assets & practice footage
 - [Storm HydroFX](https://storm-vfx.com/) - Fluid simulation
-- [Quixel Bridge](https://quixel.com/bridge) - Megascans import plugin
 - [Flim AI](https://flim.ai/) - Film search engine for creatives
 - [Graphtoy](https://iquilezles.org/apps/graphtoy/) - Mathematical function grapher by Inigo Quilez
 - [Jsplacement](https://windmillart.net/?p=jsplacement) - Procedural displacement map generator
@@ -763,9 +701,7 @@
 ## Cinematography & Camera
 
 **Shot Composition & Camera:**
-- [StudioBinder Shot Composition Guide](https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/) - Comprehensive guide with film stills
-- [StudioBinder Camera Shots Encyclopedia](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/) - Every shot type, angle, and movement
-- [StudioBinder Camera Movements](https://www.studiobinder.com/blog/types-of-camera-movements-in-film/) - Dolly, track, crane, steadicam breakdowns
+- [StudioBinder Film Guides](https://www.studiobinder.com/blog/) - Shot composition, camera shots encyclopedia, camera movements, lighting
 - [CinematographyDB](https://cinematographydb.com/) - Database of DP filmographies, study any cinematographer's visual language
 - [No Film School - Cinematography](https://nofilmschool.com/cinematography) - Constant stream of technique articles
 
@@ -846,10 +782,10 @@
 [Motionographer](http://motionographer.com/) | [Eyecandy](https://eyecannndy.com/featured/) | [Ads of the World](https://www.adsoftheworld.com/) | [Film Grab](https://film-grab.com/) | [Opening Titles (Vimeo)](https://vimeo.com/theopeningtitles) | [Flim AI](https://flim.ai/) | [ShotDeck](https://shotdeck.com/) | [PlayPhrase.me](https://www.playphrase.me/) | [John Berube](https://johnberube.com/) | [Art of the Title](https://artofthetitle.com/) | [Stash Magazine](https://stashmedia.tv/) | [Behance Motion](https://www.behance.net/galleries/motion) | [Art of Style Frame](https://artofstyleframe.com/)
 
 ### Motion Graphics Tools
-[Resolume](https://resolume.com/software) | [MadMapper](https://madmapper.com/) | [Notch](https://www.notch.one/) | [Motion Canvas](https://motioncanvas.io/) | [PixelCrash](https://www.pixelcrash.xyz/) | [Effekseer](https://effekseer.github.io/en/) | [Magic Animator](https://magicanimator.com/) | [nw_wrld](https://github.com/aagentah/nw_wrld) | [Nukepedia Lens Engine](https://www.nukepedia.com/gizmos/draw/lens-engine) | [CorridorKey](https://github.com/nikopueringer/CorridorKey) | [Sammie-Roto-2](https://github.com/Zarxrax/Sammie-Roto-2) | [Dume](https://rainboxlab.org/tools/dume/) (media encoder)
+[Resolume](https://resolume.com/software) | [MadMapper](https://madmapper.com/) | [Motion Canvas](https://motioncanvas.io/) | [PixelCrash](https://www.pixelcrash.xyz/) | [Effekseer](https://effekseer.github.io/en/) | [Magic Animator](https://magicanimator.com/) | [nw_wrld](https://github.com/aagentah/nw_wrld) | [Nukepedia Lens Engine](https://www.nukepedia.com/gizmos/draw/lens-engine) | [CorridorKey](https://github.com/nikopueringer/CorridorKey) | [Sammie-Roto-2](https://github.com/Zarxrax/Sammie-Roto-2) | [Dume](https://rainboxlab.org/tools/dume/) (media encoder)
 
 ### Stock Footage
-[Internet Archive](https://archive.org/) | [Prelinger Archives](https://archive.org/details/prelinger) | [ActionVFX Practice](https://www.actionvfx.com/practice-footage) | [OpenVisualFX](https://openvisualfx.com/)
+[Internet Archive / Prelinger](https://archive.org/) | [ActionVFX Practice](https://www.actionvfx.com/practice-footage) | [OpenVisualFX](https://openvisualfx.com/)
 
 ### Sound Effects & Music
 
@@ -864,9 +800,7 @@
 
 ## Video Editing
 
-**Courses (School of Motion):**
-- [Editor's Essential After Effects Bundle](https://www.schoolofmotion.com/courses/editors-essential-after-effects-bundle)
-- [After Effects for Video Editors](https://www.schoolofmotion.com/courses/after-effects-for-video-editors)
+**Courses:** [School of Motion](https://www.schoolofmotion.com/) (Editor's Essential AE Bundle, AE for Video Editors)
 
 ---
 
