@@ -1,5 +1,7 @@
 # 3D Resources
 
+*Curated by [Devanshu Tak](https://devanshutak.xyz)*
+
 **The most comprehensive, community-driven collection of resources for 3D design, art, animation, VFX, game development, and digital creativity.**
 
 > 900+ curated links spanning modeling, texturing, lighting, rendering, compositing, cinematography, composition, animation, motion graphics, game dev, design tools, and more. Free and paid. Beginner to advanced.
@@ -53,6 +55,7 @@
 - [Video Editing](#video-editing)
 - [Game Development](#game-development)
 - [Machine Learning for CG](#machine-learning-for-cg)
+- [Generative AI for CG](#generative-ai-for-cg)
 - [Rendering & Shader Theory](#rendering--shader-theory)
 - [Conversion Tools](#conversion-tools)
 - [Industry Insights](#industry-insights)
@@ -733,6 +736,7 @@
 - [BlenderArtists](https://blenderartists.org/) - Blender forum
 - [ZBrushCentral](https://www.zbrushcentral.com/) - ZBrush forum
 - [80 Level](https://80.lv/) - Industry news & tutorials
+- [3D Artists India](https://3dartists.in/) - Indian 3D artist community
 
 ---
 
@@ -980,6 +984,76 @@
 
 - [Introduction to Machine Learning (Rebelway)](https://www.youtube.com/watch?v=tQGfTzgxQIc) - ML for VFX artists
 - [Introduction to Machine Learning (Course)](https://www.rebelway.net/introduction-to-machine-learning) - Full Rebelway course
+
+---
+
+## Generative AI for CG
+
+### Image Generation
+- [Midjourney v7](https://www.midjourney.com/) - Industry-leading artistic coherence & stylized output
+- [FLUX.2 (Black Forest Labs)](https://blackforestlabs.ai/) - Production-grade open model, excellent semantic accuracy
+- [Stable Diffusion 3.5](https://huggingface.co/stabilityai) - Open-source diffusion, widely adopted in CG workflows
+- [DALL-E 3 (OpenAI)](https://openai.com/dall-e-3) - Text-to-image w/ strong semantic accuracy
+- [Adobe Firefly 3](https://firefly.adobe.com/) - Commercial-safe, deep Creative Cloud integration
+- [Leonardo AI](https://leonardo.ai/) - Real-time generation w/ artistic control
+- [Ideogram](https://ideogram.ai/) - Best-in-class typography & text rendering
+- [Google Gemini Image Gen](https://gemini.google.com/) - High realism, fast, large-scale production
+
+### Video Generation
+- [Veo 3.1 (Google DeepMind)](https://deepmind.google/technologies/veo/) - Top leaderboard, native audio, 60s+ clips
+- [Runway Gen-3](https://runwayml.com/) - Most control for creators, flexible editing
+- [Kling 3.0](https://kling.kuaishou.com/) - Up to 5min clips, fast & affordable
+- [Pika 2.0](https://pika.art/) - Extended video generation w/ improved consistency
+- [HunyuanVideo 1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo) - Open-source 8.3B params, runs on 14GB VRAM
+- [Wan 2.2 (Alibaba)](https://huggingface.co/ali-vilab/Wan) - Cinematic MoE diffusion, 8GB+ VRAM
+- [LTX-Video](https://github.com/Lightricks/LTX-Video) - Open-source, runs on consumer hardware
+
+### 3D Generation
+- [Meshy](https://www.meshy.ai/) - Production-reliable, 97% slicer pass rate, Bambu integration
+- [Tripo v3.0](https://www.tripo3d.ai/) - Sculpture-level precision, clean quad topology
+- [Rodin Gen-2 (Hyper3D)](https://hyper3d.ai/) - 10B params, photorealistic, free generation tier
+- [TRELLIS.2 (Microsoft)](https://huggingface.co/microsoft/TRELLIS.2-4B) - Full PBR materials, complex topologies
+- [Unique3D](https://github.com/AiuniAI/Unique3D) - High-quality mesh from single image (NeurIPS 2024)
+- [Wonder3D++](https://github.com/xxlong0/Wonder3D) - Cross-domain diffusion, textured meshes in 2-3min
+- [InstantMesh](https://github.com/TencentARC/InstantMesh) - Fast single-image-to-3D reconstruction
+- [Stability SF3D](https://stability.ai/) - Sub-second 3D generation (0.5s)
+- [Sloyd](https://sloyd.ai/) - Procedural 3D generation w/ parametric control
+
+### Texture & Material Generation
+- [Poly](https://poly.cam/tools/material-generator) - Seamless PBR textures up to 8K, Blender/Unreal/Unity
+- [Scenario](https://www.scenario.com/) - Game-ready PBR materials, full map sets
+- [Meshy Textures](https://www.meshy.ai/features/ai-texture-generator) - Integrated w/ 3D pipeline
+- [Adobe Firefly Textures](https://www.adobe.com/products/firefly) - Prompt-to-edit texture workflows
+
+### ComfyUI Ecosystem
+- [ComfyUI](https://comfy.org/) - Node-based AI generator for image/video/3D/audio
+- [ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - Install/manage custom nodes & dependencies
+- [ComfyUI Registry](https://comfyui.org/) - Community workflow & subgraph sharing
+- [Awesome ComfyUI](https://github.com/ComfyUI-Workflow/awesome-comfyui) - Curated custom nodes collection
+- [Comflowy](https://www.comflowy.com/) - ComfyUI tutorials for ControlNet, SDXL, FLUX workflows
+- [ControlNet SD3.5](https://blog.comfy.org/p/sd3-5-large-controlnet) - Blur/Canny/Depth models, free commercial use
+
+### AI Motion Capture
+- [Move AI](https://www.moveai.com/) - Highest accuracy, multi-camera triangulation
+- [Rokoko Vision](https://www.rokoko.com/) - Free AI mocap from webcam/video
+- [DeepMotion](https://www.deepmotion.com/) - Game-ready character animation from video
+- [Plask](https://plask.ai/) - Browser-based mocap, affordable previs
+- [Cascadeur](https://cascadeur.com/) - Physics-based AI animation, AutoPosing, Unreal plugin
+
+### AI-Assisted CG Tools
+- [Autodesk Flow Studio (Wonder Dynamics)](https://wonderdynamics.com/) - AI VFX, auto CG characters in live footage, USD export
+- [ControlNet](https://stable-diffusion-art.com/controlnet/) - Depth/pose/edge control for precision CG workflows
+
+### AI Audio & Music
+- [Suno v5](https://suno.com/) - Full song generation, 100M+ users
+- [Udio](https://www.udio.com/) - Strong electronic/pop, licensed for commercial use
+- [ElevenLabs](https://elevenlabs.io/) - Voice cloning, narration, music generation (April 2026)
+
+### Open-Source Models (HuggingFace)
+- [TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B) - 3D generation w/ PBR
+- [SV3D (Stable Video 3D)](https://huggingface.co/stabilityai/sv3d) - Orbital video from single image
+- [HunyuanVideo-I2V](https://huggingface.co/tencent/HunyuanVideo-I2V) - Image-to-video, multilingual
+- [Wan 14B/1.3B](https://huggingface.co/ali-vilab/Wan) - Video gen + editing + T2I + audio
 
 ---
 
