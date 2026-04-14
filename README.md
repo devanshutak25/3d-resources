@@ -727,16 +727,17 @@
 
 ## 3D Communities & Forums
 
+- [**3D Artists India**](https://3dartists.in/) - India's 3D artist community — events, resources, networking
 - [ArtStation](https://www.artstation.com/) - Professional portfolios
 - [Polycount](https://polycount.com/) - Game art
 - [CGSociety](https://cgsociety.org/) - VFX & animation pros
 - [CGPeers](https://www.cgpeers.com/) - CG community
 - [Agora Community](https://agora.community/) - 3D artists
+- [The 3D Artist Community (Skool)](https://www.skool.com/the-3d-artist-community) - Community forum on Skool
 - [OdForce](https://forums.odforce.net/) - Houdini forum
 - [BlenderArtists](https://blenderartists.org/) - Blender forum
 - [ZBrushCentral](https://www.zbrushcentral.com/) - ZBrush forum
 - [80 Level](https://80.lv/) - Industry news & tutorials
-- [3D Artists India](https://3dartists.in/) - Indian 3D artist community
 
 ---
 
