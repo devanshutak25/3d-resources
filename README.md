@@ -84,6 +84,7 @@
 | [ZBrush](https://www.maxon.net/en/zbrush) | ~$27/mo annual | Sculpting, characters |
 | [3DCoat](https://3dcoat.com/) | EUR 299 perpetual | Voxel sculpting, retopology |
 | [Substance 3D Modeler](https://www.adobe.com/products/substance3d/apps/modeler.html) | $49.99/mo collection | VR/desktop sculpting |
+| [3ds Max](https://www.autodesk.com/products/3ds-max/) | $255/mo | Arch-viz, games, film VFX |
 | [Nomad Sculpt](https://nomadsculpt.com/) | $19.99 one-time (mobile) | Mobile sculpting |
 
 ### CAD Software
@@ -562,6 +563,11 @@
 **Tips & Workflows:**
 - [Rolando Barry Blog](https://rolandobarry.com/blog) - C4D tips, shader switch workflows, productivity tricks.
 - [Rolando Barry (Gumroad)](https://honear.gumroad.com/) - C4D assets & presets.
+
+### 3ds Max
+
+**Plugins:**
+- [TyFlow](https://docs.tyflow.com/download/) - Advanced particle/dynamics system, destruction, cloth, fluids.
 
 ### Fusion 360
 
