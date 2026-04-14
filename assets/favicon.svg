@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Default cube - isometric wireframe -->
+  <g fill="none" stroke="#e8e8e8" stroke-width="2.5" stroke-linejoin="round">
+    <!-- Front face -->
+    <polygon points="32,14 50,24 50,44 32,54 14,44 14,24" fill="#1a1a2e"/>
+    <!-- Top face edges -->
+    <line x1="32" y1="14" x2="50" y2="24"/>
+    <line x1="32" y1="14" x2="14" y2="24"/>
+    <!-- Middle horizontal -->
+    <line x1="32" y1="34" x2="50" y2="24"/>
+    <line x1="32" y1="34" x2="14" y2="24"/>
+    <line x1="32" y1="34" x2="32" y2="54"/>
+    <!-- Bottom edges -->
+    <line x1="14" y1="24" x2="14" y2="44"/>
+    <line x1="50" y1="24" x2="50" y2="44"/>
+    <line x1="14" y1="44" x2="32" y2="54"/>
+    <line x1="50" y1="44" x2="32" y2="54"/>
+    <!-- Top face fill -->
+    <polygon points="32,14 50,24 32,34 14,24" fill="#2a2a4a" stroke="none"/>
+    <!-- Left face fill -->
+    <polygon points="14,24 32,34 32,54 14,44" fill="#1a1a2e" stroke="none"/>
+    <!-- Right face fill -->
+    <polygon points="50,24 32,34 32,54 50,44" fill="#22223a" stroke="none"/>
+    <!-- Wireframe overlay -->
+    <polygon points="32,14 50,24 50,44 32,54 14,44 14,24" fill="none" stroke="#e8e8e8"/>
+    <line x1="32" y1="34" x2="50" y2="24"/>
+    <line x1="32" y1="34" x2="14" y2="24"/>
+    <line x1="32" y1="34" x2="32" y2="54"/>
+  </g>
+</svg>

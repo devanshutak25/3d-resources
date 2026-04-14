@@ -64,6 +64,7 @@ const page = \`<!DOCTYPE html>
   }
   </script>
 
+  <link rel=\"icon\" type=\"image/svg+xml\" href=\"/assets/favicon.svg\">
   <link rel=\"stylesheet\" href=\"/assets/css/style.css\">
 </head>
 <body>
