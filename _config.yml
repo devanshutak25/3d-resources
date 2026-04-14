@@ -1,0 +1,39 @@
+title: "3D Resources — Software, Assets, Tutorials & Tools for 3D Artists"
+description: >-
+  Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials,
+  plugins, and learning resources for Blender, Houdini, Cinema 4D, Maya, ZBrush,
+  Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game
+  development, motion graphics, and digital art.
+url: "https://devanshutak25.github.io"
+baseurl: "/3d-resources"
+author:
+  name: Devanshu Tak
+  url: https://devanshutak.xyz
+
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# SEO
+lang: en
+logo: null
+social:
+  name: Devanshu Tak
+  links:
+    - https://devanshutak.xyz
+    - https://github.com/devanshutak25
+
+# Open Graph
+og_image: null
+
+# Google verification (add your token after setting up Search Console)
+# google_site_verification: "your-token-here"
+
+# Exclude build artifacts
+exclude:
+  - graphify-out
+  - .claude
+  - .graphify_python
+  - "*.py"
