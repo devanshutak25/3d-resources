@@ -22,6 +22,7 @@
 - [Motion Graphics](#motion-graphics)
 - [Lighting](#lighting)
 - [3D Tools & Utilities](#3d-tools--utilities)
+- [Plugin & Addon Marketplaces](#plugin--addon-marketplaces)
 - [3D Communities & Forums](#3d-communities--forums)
 - [3D Inspiration & Showcase](#3d-inspiration--showcase)
 - [Architecture & Visualization](#architecture--visualization)
@@ -42,10 +43,20 @@
 - [Video & Motion](#video--motion)
 - [Video Editing](#video-editing)
 - [Game Development](#game-development)
+  - [Game Engines](#game-engines)
+  - [Godot Engine](#godot-engine)
+  - [Unreal Engine](#unreal-engine)
+  - [Game Dev Tools](#game-dev-tools)
+  - [Game Assets](#game-assets)
+  - [Game Design & Theory](#game-design--theory)
+  - [Game Dev Learning](#game-dev-learning)
+  - [Game Dev Communities](#game-dev-communities)
+  - [Game Jams](#game-jams)
 - [Machine Learning for CG](#machine-learning-for-cg)
 - [Generative AI for CG](#generative-ai-for-cg)
 - [Rendering & Shader Theory](#rendering--shader-theory)
 - [Conversion Tools](#conversion-tools)
+- [Pipeline Standards](#pipeline-standards)
 - [Industry Insights](#industry-insights)
 
 ---
@@ -677,10 +688,41 @@
 - [MegaSaM](https://github.com/mega-sam/mega-sam) - Structure & motion from casual video.
 - [Shape of Motion](https://github.com/vye16/shape-of-motion/)
 
+**Photogrammetry & 3D Scanning:**
+- [Meshroom (AliceVision)](https://alicevision.org/#meshroom) - Free, open-source photogrammetry. Node-based, GPU-accelerated.
+- [RealityCapture](https://www.capturingreality.com/) - Fast, high-quality (now Epic Games). PPI pricing.
+- [Agisoft Metashape](https://www.agisoft.com/) - Professional photogrammetry with GIS features.
+- [Polycam](https://poly.cam/) - Mobile photogrammetry (iOS LiDAR + photo, Android photo). Cloud processing.
+- [KIRI Engine](https://www.kiriengine.com/) - Cross-platform mobile photogrammetry.
+- [Luma AI](https://lumalabs.ai/) - NeRF/Gaussian Splat capture from phone video.
+- [3DF Zephyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/) - Free lite version (up to 50 photos).
+- [Scaniverse (Niantic)](https://scaniverse.com/) - Free mobile scanning, Gaussian splat support.
+- [Postshot](https://www.jawset.com/) - Desktop Gaussian Splatting tool. Train, clean, edit, export.
+
 **Retopology & Mesh:**
-- [Instant Meshes](https://github.com/wjakob/instant-meshes) - Automatic retopology.
+- [Instant Meshes](https://github.com/wjakob/instant-meshes) - Free, open-source auto-retopology.
+- [Quad Remesher](https://exoside.com/quadremesher/) - Plugin for Blender/Maya/3ds Max/C4D/Modo.
+- [RetopoFlow](https://blendermarket.com/products/retopoflow) - Blender addon for manual retopology.
+- [CozyBlanket](https://cozyblanket.com/) - Standalone manual retopology tool.
+- [Topogun](https://www.topogun.com/) - Standalone retopology & baking.
 - [Topology Guides](http://topologyguides.com/) - Reference.
+
+**UV Tools:**
+- [RizomUV](https://www.rizom-lab.com/) - Fast UV unwrapping, auto-seam, auto-pack. Standalone or bridge.
+- [UVPackmaster](https://uvpackmaster.com/) - Advanced UV packing, UDIM support. Blender addon + standalone.
+- [Headus UVLayout](https://www.uvlayout.com/) - Standalone UV editor, flatten-based.
 - [UV Checker Map Maker](https://uvchecker.atlux.one/) - Custom UV textures.
+
+**Rigging & Animation Tools:**
+- [Auto-Rig Pro (Blender)](https://blendermarket.com/products/auto-rig-pro) - Automatic rigging & retargeting.
+- [Akeytsu](https://www.akeytsu.com/) - Lightweight rigging & animation for game pipelines.
+- [APEX (Houdini)](https://www.sidefx.com/) - SideFX's procedural node-based rigging framework.
+
+**Matchmoving & Camera Tracking:**
+- [PFTrack](https://www.thepixelfarm.co.uk/pftrack/) - Professional matchmoving, object tracking, mesh generation.
+- [SynthEyes](https://www.ssontech.com/synovr.html) - Camera tracking with lens distortion solving.
+- [3DEqualizer](https://www.3dequalizer.com/) - High-end matchmoving (major VFX studios).
+- [fSpy](https://fspy.io/) - Free, open-source single-image camera matching → Blender.
 
 **Other:**
 - [Lightmap HDR Light Studio](https://www.lightmap.co.uk/) - Lighting software.
@@ -704,6 +746,35 @@
 - [Dust3D](https://dust3d.org/) - Open-source quick base mesh generation.
 - [darktable](https://www.darktable.org/) - Open-source RAW photo editor for reference/texture processing.
 - [SunCalc](https://www.suncalc.org/) - Sun position, golden hour & shadow visualization for any location and time.
+- [OBS Studio](https://obsproject.com/) - Free screen recording/streaming. Essential for tutorials.
+- [ShareX](https://getsharex.com/) - Free Windows screen capture with recording & annotation.
+- [InstaMAT](https://instamaterials.com/) - Material authoring platform, AI-powered (Substance alternative).
+
+---
+
+## Plugin & Addon Marketplaces
+
+| Software | Marketplace | Notes |
+|----------|-------------|-------|
+| Blender | [Blender Market](https://blendermarket.com/) | Curated addons, models, materials |
+| Blender | [Blender Extensions](https://extensions.blender.org/) | Official free/open-source (4.x+) |
+| Blender | [Blenderkit](https://www.blenderkit.com/) | In-app asset browser |
+| Houdini | [Orbolt](https://www.orbolt.com/) | Official HDA marketplace |
+| Houdini | [SideFX Labs](https://github.com/sideeffects/SideFXLabs) | Free open-source tools |
+| Cinema 4D | [Maxon Asset Browser](https://www.maxon.net/) | Built-in with Maxon One |
+| Cinema 4D | [Greyscalegorilla](https://greyscalegorilla.com/) | Plugins, materials, HDRIs |
+| Maya | [Autodesk App Store](https://apps.autodesk.com/MAYA/) | Official plugins & scripts |
+| Maya | [Highend3d](https://www.highend3d.com/) | Community scripts & plugins |
+| Unreal | [Fab (Epic)](https://www.fab.com/) | Unified UE + Sketchfab + ArtStation marketplace |
+| Unity | [Unity Asset Store](https://assetstore.unity.com/) | Largest game asset marketplace |
+| After Effects | [aescripts + aeplugins](https://aescripts.com/) | Primary AE/Premiere plugin marketplace |
+| After Effects | [VideoHive (Envato)](https://videohive.net/) | Templates & presets |
+| DaVinci Resolve | [Reactor](https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3067) | Community package manager, hundreds of free tools |
+| Figma | [Figma Community](https://www.figma.com/community/) | Plugins, templates, UI kits |
+| Substance | [Community Assets](https://substance3d.adobe.com/community-assets) | Free community materials & brushes |
+| Nuke | [Nukepedia](https://www.nukepedia.com/) | Free gizmos, tools, scripts |
+
+**Cross-Platform:** [Gumroad](https://gumroad.com/) | [ArtStation Marketplace](https://www.artstation.com/marketplace) | [FlippedNormals](https://flippednormals.com/) | [Kitbash3D](https://kitbash3d.com/) | [Cubebrush](https://cubebrush.co/) | [MotionArray](https://motionarray.com/)
 
 ---
 
@@ -941,24 +1012,176 @@
 
 ## Game Development
 
-### Game Assets
-[OpenGameArt](https://opengameart.org/) | [Quaternius](https://quaternius.com/) | [Kenney](https://kenney.nl/) | [itch.io Assets](https://itch.io/game-assets) | [Game Icons](https://game-icons.net/) | [Spriters Resource](https://www.spriters-resource.com/)
+### Game Engines
 
-### Game Design
-- [Game UI Database](https://www.gameuidatabase.com/) - Interface reference.
-- [How To Market A Game](https://howtomarketagame.com/) - Marketing strategies.
+**Free & Open-Source:**
 
-### Game Dev Tools
-[PlayCanvas](https://playcanvas.com/) | [Stencyl](https://www.stencyl.com/) | [SpriteMancer](https://codemanu.itch.io/spritemancer) | [Sprite DLight](http://www.2deegameart.com/p/sprite-dlight.html) | [Effekseer](https://effekseer.github.io/en/)
+| Engine | Language | Best For |
+|--------|----------|----------|
+| [Godot 4.4](https://godotengine.org/) | GDScript, C#, C++ | 2D/3D indie games, MIT-licensed |
+| [Bevy](https://bevyengine.org/) | Rust | ECS architecture, data-driven games |
+| [Defold](https://defold.com/) | Lua | 2D mobile games (by King) |
+| [Stride](https://www.stride3d.net/) | C# | 3D games (formerly Xenko) |
+| [Flax Engine](https://flaxengine.com/) | C#, C++ | High-fidelity 3D, free for small studios |
+| [O3DE](https://o3de.org/) | C++, Lua | AAA-grade, Linux Foundation |
+| [Fyrox](https://fyrox.rs/) | Rust | 3D games with scene editor |
+| [Cocos Creator](https://www.cocos.com/en/creator) | TypeScript | Mobile/web games (huge in China) |
+| [Raylib](https://www.raylib.com/) | C | Learning game programming, no engine overhead |
+| [MonoGame](https://monogame.net/) | C# | XNA successor (Celeste, Stardew Valley) |
+| [FNA](https://fna-xna.github.io/) | C# | XNA reimplementation for ports |
+| [Heaps.io](https://heaps.io/) | Haxe | Dead Cells, Northgard engine |
+| [Love2D](https://love2d.org/) | Lua | 2D prototyping, game jams |
+| [Solar2D](https://solar2d.com/) | Lua | 2D mobile (formerly Corona SDK) |
+| [Macroquad](https://macroquad.rs/) | Rust | Minimal 2D/3D, WASM support |
+| [Ebitengine](https://ebitengine.org/) | Go | Simple 2D games |
+| [Armory3D](https://armory3d.org/) | Haxe | Blender-integrated game engine |
+
+**Commercial (Free Tiers):**
+
+| Engine | Language | Best For |
+|--------|----------|----------|
+| [Unreal Engine 5](https://www.unrealengine.com/) | C++, Blueprints | AAA, film, virtual production (free until $1M) |
+| [Unity 6](https://unity.com/) | C# | Mobile, AR/VR, cross-platform |
+| [GameMaker](https://gamemaker.io/) | GML | 2D games (Undertale, Hotline Miami) |
+| [Construct 3](https://www.construct.net/) | Visual scripting | No-code 2D games, browser-based |
+| [GDevelop](https://gdevelop.io/) | Event-based | Open-source no-code 2D |
+| [RPG Maker MZ](https://www.rpgmakerweb.com/) | JavaScript | RPG creation |
+| [Ren'Py](https://www.renpy.org/) | Python | Visual novels (industry standard) |
+| [CryEngine](https://www.cryengine.com/) | C++, C# | High-fidelity 3D (pay what you want) |
+| [PlayCanvas](https://playcanvas.com/) | JavaScript | Browser-based 3D games |
+
+### Godot Engine
+
+**Official Resources:**
+- [Godot Documentation](https://docs.godotengine.org/) - Official docs (GDScript, C#, 2D/3D, shaders, physics, networking).
+- [Godot Asset Library](https://godotengine.org/asset-library/asset) - Official addon/plugin marketplace.
+- [Godot Shaders](https://godotshaders.com/) - Community shader library with visual previews.
+- [Godot Proposals](https://github.com/godotengine/godot-proposals) - Feature request tracker & roadmap.
+
+**Key Plugins & Addons:**
+- [Dialogic 2](https://github.com/dialogic-godot/dialogic) - Full-featured dialogue and timeline system.
+- [GodotSteam](https://github.com/GodotSteam/GodotSteam) - Steamworks SDK integration.
+- [Terrain3D](https://github.com/TokisanGames/Terrain3D) - High-performance terrain system.
+- [Phantom Camera](https://github.com/ramokz/phantom-camera) - Dynamic camera system (Cinemachine-inspired).
+- [Limbo AI](https://github.com/limbonaut/limboai) - Behavior trees and state machines.
+- [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - Intelligent 2D terrain/shape tool.
+- [Gut](https://github.com/bitwes/Gut) - Unit testing framework for GDScript.
+
+**Learning:**
+- [GDQuest](https://www.gdquest.com/) - Premium courses + free YouTube tutorials.
+- [Brackeys (Godot)](https://www.youtube.com/@Brackeys) - Returned in 2024 with Godot content.
+- [HeartBeast](https://www.youtube.com/@uloops) - RPG and action game tutorials.
+- [KidsCanCode Godot Recipes](https://kidscancode.org/godot_recipes/4.x/) - Clear beginner-friendly guides.
+- [GDScript.com](https://gdscript.com/) - Interactive GDScript learning.
+- [Miziziziz](https://www.youtube.com/@Miziziziz) - Tutorials and game dev challenges.
+- [DevDuck](https://www.youtube.com/@DevDuck) - Dev logs and tutorials.
+- [The Shaggy Dev](https://www.youtube.com/@TheShaggyDev) - Godot-focused tutorials.
+
+**Communities:**
+- [r/godot](https://www.reddit.com/r/godot/) - 350k+ members, very active.
+- [Godot Discord](https://discord.gg/4JBkykG) - Official Discord.
+- [Godot Forums](https://forum.godotengine.org/) - Official forum.
+- [Godot Cafe](https://godot.cafe/) - Community forum.
 
 ### Unreal Engine
-- [UnrealEngineAdvancedFunctions](https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions) - Handy Unreal Engine Functions By [Mridul Sharma](https://www.instagram.com/mridul_sarmah/)
+- [UnrealEngineAdvancedFunctions](https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions) - Handy Functions By [Mridul Sharma](https://www.instagram.com/mridul_sarmah/)
 - [blueprintUE](https://blueprintue.com/) - Blueprint sharing.
 - [VS Code Setup for UE](https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-code-for-unreal-engine)
 - Marketplace picks: [Medieval Houses](https://unrealengine.com/marketplace/en-US/product/modular-medieval-house-pack) | [Japanese Village](https://unrealengine.com/marketplace/en-US/product/japanese-medieval-village) | [Village Pack](https://unrealengine.com/marketplace/en-US/product/village-houses-pack)
 
+### Game Dev Tools
+
+**Level Design:**
+- [TrenchBroom](https://trenchbroom.github.io/) - Quake-style level editor, great for blockouts.
+- [LDtk](https://ldtk.io/) - Modern 2D level editor (by Dead Cells creator). Free, open source.
+- [Tiled](https://www.mapeditor.org/) - General-purpose tilemap editor. TMX format.
+- [Sprytile](https://chemikhazi.itch.io/sprytile) - Blender addon for tile-based 3D levels.
+
+**Dialogue & Narrative:**
+- [Yarn Spinner](https://yarnspinner.dev/) - Dialogue tool for Unity/Godot (Night in the Woods).
+- [Ink](https://www.inklestudios.com/ink/) - Narrative scripting by Inkle (Heaven's Vault, Sable).
+- [Twine](https://twinery.org/) - Free, open-source interactive fiction.
+- [Articy:draft](https://www.articy.com/) - Professional narrative design middleware.
+
+**Audio Middleware:**
+- [FMOD](https://www.fmod.com/) - Industry-standard adaptive audio (free for indie <$200k).
+- [Wwise](https://www.audiokinetic.com/en/wwise/overview/) - AAA audio middleware (free tier available).
+- [Steam Audio](https://valvesoftware.github.io/steam-audio/) - Physics-based spatial audio by Valve. Free.
+
+**Networking & Multiplayer:**
+- [Photon Engine](https://www.photonengine.com/) - Cloud multiplayer (PUN, Fusion, Quantum SDKs).
+- [Mirror](https://mirror-networking.com/) - Open-source Unity networking.
+- [Fish-Net](https://fish-networking.gitbook.io/) - High-performance Unity networking.
+- [Nakama](https://heroiclabs.com/) - Open-source game server (social, matchmaking, leaderboards).
+- [Colyseus](https://colyseus.io/) - Node.js multiplayer framework.
+- [Epic Online Services](https://dev.epicgames.com/en-US/services) - Free multiplayer, matchmaking, voice chat.
+
+**Sprite & VFX Tools:**
+- [Effekseer](https://effekseer.github.io/en/) - Free particle effects (exports to Unity/Unreal/Godot).
+- [SpriteMancer](https://codemanu.itch.io/spritemancer) - 2D VFX and sprite animation.
+- [Laigter](https://azagaya.itch.io/laigter) - Free normal/specular/AO map generator for 2D.
+- [TexturePacker](https://www.codeandweb.com/texturepacker) - Sprite sheet packing, multi-engine export.
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) - Free pixel art editor (made in Godot).
+
+**AI & Procedural Generation:**
+- [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse) - Procedural generation from example patterns.
+- [FastNoiseLite](https://github.com/Auburn/FastNoiseLite) - Fast noise generation (Perlin, Simplex, Cellular).
+- [Houdini Engine](https://www.sidefx.com/products/houdini-engine/) - Procedural generation pipeline for Unreal/Unity/Godot.
+- [Machinations](https://machinations.io/) - Visual tool for designing & simulating game economies.
+
+**Physics:**
+- [Jolt Physics](https://github.com/jrouwe/JoltPhysics) - Open-source 3D physics (used in Horizon Forbidden West).
+- [Box2D v3](https://box2d.org/) - 2D physics engine rewrite by Erin Catto.
+- [Rapier](https://rapier.rs/) - Rust physics engine (2D/3D, used with Bevy).
+
+**Version Control for Games:**
+- [Perforce Helix Core](https://www.perforce.com/products/helix-core) - Industry standard for large assets (free ≤5 users).
+- [Git LFS](https://git-lfs.com/) - Large file storage for Git.
+- [Plastic SCM / Unity Version Control](https://unity.com/solutions/version-control) - Artist-friendly binary version control.
+
+**Analytics:**
+- [GameAnalytics](https://gameanalytics.com/) - Free analytics (100k+ games use it).
+- [Steam Playtest](https://partner.steamgames.com/doc/features/playtest) - Free playtesting on Steam.
+
+### Game Assets
+
+**Free:**
+[OpenGameArt](https://opengameart.org/) | [Kenney](https://kenney.nl/) (CC0, "Asset Jesus") | [Quaternius](https://quaternius.com/) (CC0 low-poly) | [itch.io Assets](https://itch.io/game-assets) | [Kay Lousberg](https://kaylousberg.com/) (CC0 low-poly) | [Pixel Frog](https://pixelfrog-assets.itch.io/) (pixel art) | [Game Icons](https://game-icons.net/) (4000+ SVG) | [Spriters Resource](https://www.spriters-resource.com/) | [Craftpix](https://craftpix.net/freebies/) (2D game assets) | [Poly Pizza](https://poly.pizza/) (CC-BY low-poly) | [Mixamo](https://www.mixamo.com/) (characters & animations)
+
+**Paid/Mixed:**
+[Unity Asset Store](https://assetstore.unity.com/) | [Fab (Epic)](https://www.fab.com/) (unified UE/Sketchfab/ArtStation marketplace) | [Synty Studios](https://syntystore.com/) (stylized low-poly) | [GameDev Market](https://www.gamedevmarket.net/) | [Humble Bundle Game Dev](https://www.humblebundle.com/software) (periodic bundles)
+
+**Audio:**
+[Freesound](https://freesound.org/) | [Sonniss GDC Bundle](https://sonniss.com/gameaudiogdc) (annual free 30GB+) | [ZapSplat](https://www.zapsplat.com/)
+
+### Game Design & Theory
+
+- [Game UI Database](https://www.gameuidatabase.com/) - Interface reference.
+- [How To Market A Game](https://howtomarketagame.com/) - Marketing strategies.
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Free online book by Bob Nystrom.
+- [Red Blob Games](https://www.redblobgames.com/) - Interactive visual explanations (pathfinding, hex grids, noise).
+- [GDC Vault (Free)](https://gdcvault.com/free/) - Hundreds of free GDC talks.
+- [Deconstructor of Fun](https://www.deconstructoroffun.com/) - F2P game design & business.
+
+### Game Dev Learning
+
+**YouTube Channels:**
+[Brackeys](https://www.youtube.com/@Brackeys) (returned 2024, Godot) | [Game Maker's Toolkit](https://www.youtube.com/@GMTK) (game design analysis) | [Sebastian Lague](https://www.youtube.com/@SebastianLague) (procedural gen, simulations) | [Blackthornprod](https://www.youtube.com/@Blackthornprod) (2D art & design) | [Mix and Jam](https://www.youtube.com/@MixandJam) (recreating game mechanics) | [Masahiro Sakurai](https://www.youtube.com/@saboructrl) (game design philosophy, 250+ episodes) | [Jonas Tyroller](https://www.youtube.com/@jonastyroller) (indie dev logs) | [Thomas Brush](https://www.youtube.com/@thomasbrush) (indie biz & marketing) | [Aarthificial](https://www.youtube.com/@aarthificial) (pixel art devlogs) | [t3ssel8r](https://www.youtube.com/@t3ssel8r) (stylized rendering) | [Acerola](https://www.youtube.com/@Acerola_t) (graphics programming) | [Freya Holmer](https://www.youtube.com/@acegikmo) (math for game devs, shaders) | [SimonDev](https://www.youtube.com/@siabordev) (3D programming, WebGL) | [Pontypants](https://www.youtube.com/@Pontypants) (animation for games) | [GDQuest](https://www.youtube.com/@GDQuest) (Godot)
+
+**Courses:**
+- [CS50 Game Development (Harvard)](https://cs50.harvard.edu/games/) - Free, covers Love2D, Unity, and more.
+
 ### Game Dev Communities
-- [Work With Indies](https://www.workwithindies.com/) - Find collaborators.
+
+**Reddit:** [r/gamedev](https://www.reddit.com/r/gamedev/) (1.5M+) | [r/indiegaming](https://www.reddit.com/r/indiegaming/) | [r/godot](https://www.reddit.com/r/godot/) | [r/unrealengine](https://www.reddit.com/r/unrealengine/) | [r/IndieDev](https://www.reddit.com/r/IndieDev/) | [r/gamedesign](https://www.reddit.com/r/gamedesign/) | [r/pixelart](https://www.reddit.com/r/PixelArt/)
+
+**Discord:** [Game Dev League](https://discord.gg/gamedev) | [Unreal Slackers](https://unrealslackers.org/) | [Brackeys](https://discord.gg/brackeys)
+
+**Other:** [Work With Indies](https://www.workwithindies.com/) | [IndieDB](https://www.indiedb.com/) | [TIGSource Forums](https://forums.tigsource.com/)
+
+### Game Jams
+
+[Ludum Dare](https://ldjam.com/) (oldest, twice yearly) | [GMTK Game Jam](https://itch.io/jam/gmtk-2025) (largest by entries) | [itch.io Jams](https://itch.io/jams) (hundreds active) | [Global Game Jam](https://globalgamejam.org/) (annual, in-person worldwide) | [Brackeys Game Jam](https://itch.io/jam/brackeys) (beginner-friendly) | [Pirate Software Game Jam](https://itch.io/jam/piratesoftware) | [JS13KGames](https://js13kgames.com/) (13KB limit)
 
 ---
 
@@ -973,39 +1196,63 @@
 
 ### Image Generation
 - [Midjourney v7](https://www.midjourney.com/) - Industry-leading artistic coherence & stylized output.
-- [FLUX.2 (Black Forest Labs)](https://blackforestlabs.ai/) - Production-grade open model, excellent semantic accuracy.
-- [Stable Diffusion 3.5](https://huggingface.co/stabilityai) - Open-source diffusion, widely adopted in CG workflows.
+- [FLUX 1.1 Pro (Black Forest Labs)](https://blackforestlabs.ai/) - Production-grade open model + Fill/Canny/Depth tools.
+- [Stable Diffusion 3.5](https://huggingface.co/stabilityai) - Open-source diffusion (Large, Medium, Turbo sizes).
 - [DALL-E 3 (OpenAI)](https://openai.com/dall-e-3) - Text-to-image w/ strong semantic accuracy.
 - [Adobe Firefly 3](https://firefly.adobe.com/) - Commercial-safe, deep Creative Cloud integration.
 - [Leonardo AI](https://leonardo.ai/) - Real-time generation w/ artistic control.
-- [Ideogram](https://ideogram.ai/) - Best-in-class typography & text rendering.
+- [Ideogram 2.0](https://ideogram.ai/) - Best-in-class typography & text rendering, canvas mode.
 - [Google Gemini Image Gen](https://gemini.google.com/) - High realism, fast, large-scale production.
+- [Grok Aurora (xAI)](https://x.ai/) - Photorealistic image gen integrated into Grok.
+- [Recraft V3](https://www.recraft.ai/) - Design-oriented gen, excellent for vector, icons, brand assets.
+- [Krea AI](https://www.krea.ai/) - Real-time generation, upscaling, and style transfer platform.
+- [Playground v3](https://playground.com/) - Mixed-mode design canvas for graphic design.
+- [Kolors (Kuaishou)](https://github.com/Kwai-Kolors/Kolors) - Open-source, bilingual Chinese/English.
+- [HunyuanDiT (Tencent)](https://github.com/Tencent/HunyuanDiT) - Open-source DiT-based, strong Chinese text.
+- [Jimeng / Dreamina (ByteDance)](https://jimeng.jianying.com/) - High quality, integrated with video pipeline.
 
 ### Video Generation
 - [Veo 3.1 (Google DeepMind)](https://deepmind.google/technologies/veo/) - Top leaderboard, native audio, 60s+ clips.
-- [Runway Gen-3](https://runwayml.com/) - Most control for creators, flexible editing.
-- [Kling 3.0](https://kling.kuaishou.com/) - Up to 5min clips, fast & affordable.
+- [Runway Gen-4](https://runwayml.com/) - Character consistency across shots, controllable camera.
+- [Sora (OpenAI)](https://sora.com/) - Up to ~20s clips, strong temporal coherence.
+- [Kling 3.0](https://klingai.com/) - Up to 5min clips, strong human motion. Motion Brush for targeted control.
 - [Pika 2.0](https://pika.art/) - Extended video generation w/ improved consistency.
+- [Hailuo AI / MiniMax](https://hailuoai.video/) - "Director" model, strong motion & character consistency.
+- [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Fast generations, good camera motion.
 - [HunyuanVideo 1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo) - Open-source 8.3B params, runs on 14GB VRAM.
-- [Wan 2.2 (Alibaba)](https://huggingface.co/ali-vilab/Wan) - Cinematic MoE diffusion, 8GB+ VRAM.
-- [LTX-Video](https://github.com/Lightricks/LTX-Video) - Open-source, runs on consumer hardware.
+- [Wan 2.2 (Alibaba)](https://huggingface.co/ali-vilab/Wan) - Cinematic MoE diffusion, 8GB+ VRAM. Open source.
+- [LTX-Video](https://github.com/Lightricks/LTX-Video) - Open-source, real-time generation speeds.
+- [Vidu](https://www.vidu.com/) - 16s clips, strong human motion (Shengshu Technology).
+- [PixVerse](https://pixverse.ai/) - Style-specific modes (anime, 3D, realistic), character consistency.
+- [Haiper](https://haiper.ai/) - Ex-DeepMind team, animation & video-to-video modes.
+- [Genmo Mochi 1](https://www.genmo.ai/) - Open-source video gen model.
+- [CogVideoX](https://github.com/THUDM/CogVideo) - Tsinghua/Zhipu open-source, multiple sizes.
+- [Jimeng Video (ByteDance)](https://jimeng.jianying.com/) - Powers CapCut AI features.
 
 ### 3D Generation
-- [Meshy](https://www.meshy.ai/) - Production-reliable, 97% slicer pass rate, Bambu integration.
+- [Meshy v4](https://www.meshy.ai/) - Production-reliable, improved topology & PBR textures.
 - [Tripo v3.0](https://www.tripo3d.ai/) - Sculpture-level precision, clean quad topology.
 - [Rodin Gen-2 (Hyper3D)](https://hyper3d.ai/) - 10B params, photorealistic, free generation tier.
 - [TRELLIS.2 (Microsoft)](https://huggingface.co/microsoft/TRELLIS.2-4B) - Full PBR materials, complex topologies.
+- [CSM (Common Sense Machines)](https://www.csm.ai/) - Game-ready topology & textures from images/text.
+- [Luma Genie](https://lumalabs.ai/) - Text/image to 3D, integrated with Dream Machine.
+- [Kaedim](https://www.kaedim3d.com/) - Image-to-3D with hybrid AI + artist cleanup for production quality.
+- [Spline AI](https://spline.design/) - Generate 3D objects & textures from text prompts in-editor.
 - [Unique3D](https://github.com/AiuniAI/Unique3D) - High-quality mesh from single image (NeurIPS 2024)
 - [Wonder3D++](https://github.com/xxlong0/Wonder3D) - Cross-domain diffusion, textured meshes in 2-3min.
 - [InstantMesh](https://github.com/TencentARC/InstantMesh) - Fast single-image-to-3D reconstruction.
-- [Stability SF3D](https://stability.ai/) - Sub-second 3D generation (0.5s)
+- [TripoSR](https://github.com/VAST-AI-Research/TripoSR) - Tripo/Stability collab, fast open-source image-to-3D.
+- [Stability SPAR3D](https://stability.ai/) - Open-source single-image 3D reconstruction.
+- [3DTopia](https://github.com/3DTopia/3DTopia) - Open-source text-to-3D pipeline (coarse → refined).
 - [Sloyd](https://sloyd.ai/) - Procedural 3D generation w/ parametric control.
 
 ### Texture & Material Generation
-- [Poly](https://poly.cam/tools/material-generator) - Seamless PBR textures up to 8K, Blender/Unreal/Unity.
+- [Poly](https://withpoly.com/) - AI-generated PBR textures & materials, tileable with full map sets.
 - [Scenario](https://www.scenario.com/) - Game-ready PBR materials, full map sets.
 - [Meshy Textures](https://www.meshy.ai/features/ai-texture-generator) - Integrated w/ 3D pipeline.
 - [Adobe Firefly Textures](https://www.adobe.com/products/firefly) - Prompt-to-edit texture workflows.
+- [Ponzu](https://www.ponzu.gg/) - AI texture gen from text prompts for uploaded meshes.
+- [InstaMAT](https://instamaterials.com/) - Material authoring with AI workflows (Substance alternative).
 
 ### ComfyUI Ecosystem
 - [ComfyUI](https://comfy.org/) - Node-based AI generator for image/video/3D/audio.
@@ -1015,21 +1262,36 @@
 - [Comflowy](https://www.comflowy.com/) - ComfyUI tutorials for ControlNet, SDXL, FLUX workflows.
 - [ControlNet SD3.5](https://blog.comfy.org/p/sd3-5-large-controlnet) - Blur/Canny/Depth models, free commercial use.
 
-### AI Motion Capture
+### AI Motion Capture & Animation
 - [Move AI](https://www.moveai.com/) - Highest accuracy, multi-camera triangulation.
 - [Rokoko Vision](https://www.rokoko.com/) - Free AI mocap from webcam/video.
-- [DeepMotion](https://www.deepmotion.com/) - Game-ready character animation from video.
-- [Plask](https://plask.ai/) - Browser-based mocap, affordable previs.
+- [DeepMotion](https://www.deepmotion.com/) - Game-ready character animation from video, BVH/FBX export.
+- [Plask](https://plask.ai/) - Browser-based mocap, hand tracking, standard format export.
 - [Cascadeur](https://cascadeur.com/) - Physics-based AI animation, AutoPosing, Unreal plugin.
+- [RADiCAL](https://radical.tech/) - AI mocap from monocular video, real-time & offline.
+- [Live Link Face (Apple)](https://apps.apple.com/app/live-link-face/id1495370836) - Free facial mocap via iPhone → Unreal/Maya/Blender.
+- [Viggle AI](https://viggle.ai/) - Character animation from video/image input.
+- [AnimateDiff + ControlNet](https://github.com/guoyww/AnimateDiff) - Open-source controlled video animation from poses.
 
 ### AI-Assisted CG Tools
 - [Autodesk Flow Studio (Wonder Dynamics)](https://wonderdynamics.com/) - AI VFX, auto CG characters in live footage, USD export.
 - [ControlNet](https://stable-diffusion-art.com/controlnet/) - Depth/pose/edge control for precision CG workflows.
+- [Topaz Photo AI / Video AI](https://www.topazlabs.com/) - Best-in-class upscaling, denoising, sharpening.
+- [Magnific AI](https://magnific.ai/) - AI upscaler with "creativity" slider, reimagines/adds detail (2-16x).
+- [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) - Generate textures in Blender via Stable Diffusion, locally.
+- [ComfyUI-BlenderAI](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) - Run ComfyUI workflows inside Blender.
+- [Blockade Labs Skybox AI](https://www.blockadelabs.com/) - AI-generated 360° skyboxes/HDRIs from text.
 
 ### AI Audio & Music
 - [Suno v5](https://suno.com/) - Full song generation, 100M+ users.
 - [Udio](https://www.udio.com/) - Strong electronic/pop, licensed for commercial use.
-- [ElevenLabs](https://elevenlabs.io/) - Voice cloning, narration, music generation (April 2026)
+- [ElevenLabs](https://elevenlabs.io/) - Voice cloning, narration, music generation.
+- [Stable Audio 2.0](https://stableaudio.com/) - Up to 3min music/SFX, audio-to-audio mode. Open-source model.
+- [ACE Studio](https://www.acestudio.ai/) - AI singing voice synthesizer with expression control.
+- [AIVA](https://www.aiva.ai/) - AI composition, good for orchestral/cinematic scoring.
+- [Fish Audio](https://fish.audio/) - Open-source TTS with voice cloning, fast & multilingual.
+- [F5-TTS](https://github.com/SWivid/F5-TTS) - Open-source zero-shot voice cloning TTS.
+- [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) - Open-source full-song gen with vocals from lyrics.
 
 ### Open-Source Models (HuggingFace)
 - [TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B) - 3D generation w/ PBR.
@@ -1056,7 +1318,33 @@
 
 ## Conversion Tools
 
-[VERT.sh](https://vert.sh/) | [MAZANOKE](https://mazanoke.com/) | [123apps](https://123apps.com/)
+### General Converters
+[VERT.sh](https://vert.sh/) | [MAZANOKE](https://mazanoke.com/) | [123apps](https://123apps.com/) | [CloudConvert](https://cloudconvert.com/) (200+ formats, API) | [Convertio](https://convertio.co/) | [Online-Convert](https://www.online-convert.com/) | [FreeConvert](https://www.freeconvert.com/)
+
+### 3D Format Converters
+- [Assimp](https://github.com/assimp/assimp) - Open-source library, 40+ 3D format import (C/C++/Python).
+- [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - Meta's CLI for FBX → glTF 2.0.
+- [obj2gltf](https://github.com/CesiumGS/obj2gltf) - Cesium's OBJ → glTF with PBR mapping.
+- [glTF Transform](https://gltf-transform.dev/) - JS library/CLI for reading, editing, optimizing glTF (Draco, KTX2).
+- [gltfpack](https://github.com/zeux/meshoptimizer/tree/master/gltf) - Aggressive glTF mesh/texture optimization.
+- [glTF Pipeline](https://github.com/CesiumGS/gltf-pipeline) - glTF ↔ GLB, Draco compress, texture resize.
+- [glTF Validator](https://github.com/KhronosGroup/glTF-Validator) - Official Khronos spec validation.
+- [glTF Viewer](https://gltf-viewer.donmccurdy.com/) - Web-based glTF/GLB viewer.
+- [Needle USD Converter](https://usd.needle.tools/) - Web-based USD/USDZ viewer and converter.
+- [Reality Converter (Apple)](https://developer.apple.com/augmented-reality/tools/) - OBJ/glTF/USD → USDZ for Apple AR.
+
+### Image Converters
+[ImageMagick](https://imagemagick.org/) (CLI, 200+ formats) | [Squoosh](https://squoosh.app/) (Google, AVIF/WebP/JPEG XL) | [TinyPNG](https://tinypng.com/) (lossy PNG/JPEG) | [XnConvert](https://www.xnview.com/en/xnconvert/) (batch, 80+ actions) | [PNGQuant](https://pngquant.org/) (CLI lossy PNG)
+
+### Video Converters
+[HandBrake](https://handbrake.fr/) (free, open-source, H.265/AV1) | [Shutter Encoder](https://www.shutterencoder.com/) (FFmpeg GUI, professional presets) | [FFmpeg](https://ffmpeg.org/) (CLI powerhouse, every codec)
+
+### Audio Converters
+[fre:ac](https://www.freac.org/) (free, open-source, batch) | [SoX](https://sourceforge.net/projects/sox/) (CLI audio processing)
+
+### EXR / HDR Tools
+- [OIIO (OpenImageIO)](https://github.com/AcademySoftwareFoundation/OpenImageIO) - ASWF CLI tools, 100+ formats. VFX pipeline standard.
+- [Luminance HDR](https://luminancehdr.sourceforge.net/) - HDR workflow: merge brackets, tonemap, convert EXR/HDR/RGBE.
 
 ---
 
@@ -1067,19 +1355,30 @@
 - [Animation Studio Reviews](https://docs.google.com/spreadsheets/d/1aJHCQSA2dFdu4Fy__T3yDyiNqO0jMUBcku0EjKX3SZI) - Studio review spreadsheet.
 - [Job Openings Tracker](https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/) - Animation/VFX jobs.
 
-### Industry Trends 2024-2025
-- AI-Assisted Modeling (text-to-3D)
-- Real-Time Ray Tracing & Gaussian Splatting
-- USD (Universal Scene Description) adoption
-- Virtual Production (LED volumes)
-- Cloud Rendering & WebGPU
+### Industry Trends 2025-2026
+- **AI in Production Pipelines** — AI handling roto, denoise, upres, texture drafts, matchmove cleanup. Studios (ILM, Weta, DNEG) deploying at scale. Not replacing artists, accelerating tedious work.
+- **Real-Time Path Tracing** — Shipping in games (Cyberpunk 2077, Alan Wake 2). NVIDIA RTX 50-series (Blackwell) + DLSS 4 with neural rendering. Real-time quality approaching offline.
+- **Gaussian Splatting Maturity** — Went from SIGGRAPH 2023 paper to practical tools (Polycam, Luma AI, Scaniverse). 4D Gaussian Splatting for dynamic scenes is active research.
+- **USD + MaterialX + OpenPBR** — The emerging "holy trinity" of interchange standards. OpenUSD Alliance (Apple, Pixar, Adobe, Autodesk, NVIDIA) driving standardization.
+- **ACES 2.0** — Major update to Academy Color Encoding System (2024). New output transforms, improved highlight rendering.
+- **WebGPU Adoption** — Shipped in Chrome, Firefox/Safari progressing. Enables compute shaders in browser. Three.js, Babylon.js, PlayCanvas adding WebGPU backends.
+- **Blender 4.x Rise** — EEVEE Next (GPU ray tracing), Vulkan backend, extensions platform. Genuinely production-viable.
+- **Virtual Production** — LED volumes maturing from bleeding-edge to standardized. Disguise, Brompton, Mo-Sys as infrastructure leaders.
+- **Neural Rendering** — NVIDIA Neural Texture Compression, Neural Radiance Cache (DLSS 4). Disney/Weta publishing on neural light transport.
+
+### Pipeline Standards
+- **[OpenUSD](https://openusd.org/)** — Scene interchange standard for film/TV VFX. Apple Vision Pro uses USDZ.
+- **[MaterialX](https://materialx.org/)** — Material interchange format (Lucasfilm). Supported by USD, Blender, Maya, Houdini, Arnold, RenderMan, Substance.
+- **[OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR)** — Standardized uber-shader for PBR (Autodesk + Adobe). Early adoption phase.
+- **[ACES 2.0](https://acescentral.com/)** — Academy Color Encoding System. Widely adopted in film/TV, growing in games.
+- **[OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)** — Editorial timeline interchange (Pixar).
 
 ### Pipeline Overview
 
 | Industry | Primary Software | Key Considerations |
 |----------|-----------------|-------------------|
-| Film VFX | Maya, Houdini, Nuke | Pipeline integration, high detail |
-| Games | Maya, 3ds Max, Substance | Real-time constraints |
+| Film VFX | Maya, Houdini, Nuke | USD pipeline, high detail |
+| Games | Maya, 3ds Max, Substance, Godot | Real-time constraints |
 | Architecture | 3ds Max, SketchUp, Revit | Accuracy, real-world scale |
 | Product Design | Fusion 360, SolidWorks, KeyShot | Manufacturing constraints |
 | Motion Graphics | Cinema 4D, After Effects | Stylized looks, fast iteration |
