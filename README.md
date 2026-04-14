@@ -1,4 +1,4 @@
-# 3D Resources
+# Awesome 3D Resources
 
 *Curated by [Devanshu Tak](https://devanshutak.xyz)*
 
