@@ -75,7 +75,7 @@ const page = \`<!DOCTYPE html>
       \${html}
     </main>
     <footer>
-      <p><small>Hosted on <a href=\"https://pages.cloudflare.com\">Cloudflare Pages</a></small></p>
+      <p><small><a href=\"https://devanshutak.xyz\">devanshutak.xyz</a></small></p>
     </footer>
   </div>
 </body>
