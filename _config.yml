@@ -10,11 +10,8 @@ author:
   name: Devanshu Tak
   url: https://devanshutak.xyz
 
-remote_theme: pages-themes/minimal@v0.2.0
-
 plugins:
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 # SEO
 lang: en

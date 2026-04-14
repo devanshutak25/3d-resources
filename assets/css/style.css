@@ -1,0 +1,211 @@
+/* Dark mode theme for 3D Resources */
+:root {
+  --bg: #0d1117;
+  --bg-secondary: #161b22;
+  --bg-tertiary: #21262d;
+  --text: #e6edf3;
+  --text-muted: #8b949e;
+  --text-subtle: #6e7681;
+  --link: #58a6ff;
+  --link-hover: #79c0ff;
+  --border: #30363d;
+  --accent: #388bfd;
+  --code-bg: #161b22;
+  --table-row-alt: #161b22;
+  --bold: #f0f6fc;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Noto Sans, Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrapper {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Header */
+header {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+header .view a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.875rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: color 0.15s;
+}
+
+header .view a:hover { color: var(--link); }
+header .view a svg { vertical-align: middle; }
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--bold);
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.25;
+}
+
+h1 { font-size: 2rem; margin-top: 0; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+h2 { font-size: 1.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.4rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1rem; }
+
+p { margin: 0.75rem 0; }
+
+strong, b { color: var(--bold); }
+
+blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 3px solid var(--accent);
+  background: var(--bg-secondary);
+  color: var(--text-muted);
+  border-radius: 0 6px 6px 0;
+}
+
+blockquote p { margin: 0.25rem 0; }
+
+/* Links */
+a {
+  color: var(--link);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+a:hover { color: var(--link-hover); text-decoration: underline; }
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 1.5rem;
+  margin: 0.5rem 0;
+}
+
+li { margin: 0.25rem 0; }
+li > ul, li > ol { margin: 0; }
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.875rem;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+thead {
+  background: var(--bg-tertiary);
+}
+
+th {
+  text-align: left;
+  font-weight: 600;
+  color: var(--bold);
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+td {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+}
+
+tr:nth-child(even) { background: var(--table-row-alt); }
+tr:hover { background: var(--bg-tertiary); }
+
+/* Code */
+code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.85em;
+  background: var(--bg-tertiary);
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+  color: var(--text);
+}
+
+pre {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* Footer */
+footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  color: var(--text-subtle);
+  font-size: 0.8rem;
+}
+
+footer a { color: var(--text-muted); }
+footer a:hover { color: var(--link); }
+
+/* Table of Contents (Contents section) */
+h2#contents + ul {
+  columns: 2;
+  column-gap: 2rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .wrapper { padding: 1rem; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.25rem; }
+  h2#contents + ul { columns: 1; }
+  table { font-size: 0.8rem; }
+  th, td { padding: 0.4rem 0.5rem; }
+}
+
+@media (max-width: 480px) {
+  html { font-size: 14px; }
+}
