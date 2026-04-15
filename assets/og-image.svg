@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="cubeTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a2a4a"/>
+      <stop offset="100%" stop-color="#1e1e3a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle grid pattern -->
+  <g stroke="#30363d" stroke-width="0.5" opacity="0.3">
+    <line x1="0" y1="157" x2="1200" y2="157"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+    <line x1="0" y1="473" x2="1200" y2="473"/>
+    <line x1="300" y1="0" x2="300" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="900" y1="0" x2="900" y2="630"/>
+  </g>
+
+  <!-- Glow behind cube -->
+  <ellipse cx="200" cy="315" rx="160" ry="180" fill="url(#glow)"/>
+
+  <!-- Isometric cube — scaled up from favicon -->
+  <g transform="translate(200, 315) scale(3.5)" fill="none" stroke="#e8e8e8" stroke-width="2" stroke-linejoin="round">
+    <!-- Face fills -->
+    <polygon points="0,-20 18,-10 0,0 -18,-10" fill="url(#cubeTop)" stroke="none"/>
+    <polygon points="-18,-10 0,0 0,20 -18,10" fill="#1a1a2e" stroke="none"/>
+    <polygon points="18,-10 0,0 0,20 18,10" fill="#22223a" stroke="none"/>
+    <!-- Wireframe -->
+    <polygon points="0,-20 18,-10 18,10 0,20 -18,10 -18,-10" stroke="#58a6ff" stroke-width="1.5"/>
+    <line x1="0" y1="0" x2="18" y2="-10" stroke="#58a6ff" stroke-width="1"/>
+    <line x1="0" y1="0" x2="-18" y2="-10" stroke="#58a6ff" stroke-width="1"/>
+    <line x1="0" y1="0" x2="0" y2="20" stroke="#58a6ff" stroke-width="1"/>
+  </g>
+
+  <!-- Small floating cubes -->
+  <g opacity="0.25">
+    <g transform="translate(120, 180) scale(1.2)" fill="none" stroke="#58a6ff" stroke-width="1" stroke-linejoin="round">
+      <polygon points="0,-12 11,-6 11,6 0,12 -11,6 -11,-6"/>
+      <line x1="0" y1="0" x2="11" y2="-6"/>
+      <line x1="0" y1="0" x2="-11" y2="-6"/>
+      <line x1="0" y1="0" x2="0" y2="12"/>
+    </g>
+    <g transform="translate(300, 430) scale(0.9)" fill="none" stroke="#58a6ff" stroke-width="1" stroke-linejoin="round">
+      <polygon points="0,-12 11,-6 11,6 0,12 -11,6 -11,-6"/>
+      <line x1="0" y1="0" x2="11" y2="-6"/>
+      <line x1="0" y1="0" x2="-11" y2="-6"/>
+      <line x1="0" y1="0" x2="0" y2="12"/>
+    </g>
+    <g transform="translate(80, 420) scale(0.7)" fill="none" stroke="#388bfd" stroke-width="1" stroke-linejoin="round">
+      <polygon points="0,-12 11,-6 11,6 0,12 -11,6 -11,-6"/>
+      <line x1="0" y1="0" x2="11" y2="-6"/>
+      <line x1="0" y1="0" x2="-11" y2="-6"/>
+      <line x1="0" y1="0" x2="0" y2="12"/>
+    </g>
+  </g>
+
+  <!-- Title text -->
+  <text x="420" y="240" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1">
+    3D Resources
+  </text>
+
+  <!-- Subtitle -->
+  <text x="420" y="300" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400">
+    Software, Assets, Tutorials &amp; Tools
+  </text>
+
+  <!-- Divider line -->
+  <line x1="420" y1="330" x2="720" y2="330" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Tags -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#58a6ff">
+    <text x="420" y="370">Blender</text>
+    <text x="420" y="370" dx="90" fill="#30363d">|</text>
+    <text x="420" y="370" dx="105">Houdini</text>
+    <text x="420" y="370" dx="200" fill="#30363d">|</text>
+    <text x="420" y="370" dx="215">Maya</text>
+    <text x="420" y="370" dx="275" fill="#30363d">|</text>
+    <text x="420" y="370" dx="290">Cinema 4D</text>
+    <text x="420" y="370" dx="405" fill="#30363d">|</text>
+    <text x="420" y="370" dx="420">ZBrush</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#58a6ff">
+    <text x="420" y="405">Unreal Engine</text>
+    <text x="420" y="405" dx="145" fill="#30363d">|</text>
+    <text x="420" y="405" dx="160">VFX</text>
+    <text x="420" y="405" dx="205" fill="#30363d">|</text>
+    <text x="420" y="405" dx="220">Game Dev</text>
+    <text x="420" y="405" dx="320" fill="#30363d">|</text>
+    <text x="420" y="405" dx="335">Motion Graphics</text>
+  </g>
+
+  <!-- Author -->
+  <text x="420" y="470" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">
+    Curated by Devanshu Tak
+  </text>
+
+  <!-- URL -->
+  <text x="420" y="505" fill="#388bfd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500">
+    3d.devanshutak.xyz
+  </text>
+
+  <!-- Border accent at bottom -->
+  <rect x="0" y="625" width="1200" height="5" fill="#58a6ff" opacity="0.6"/>
+</svg>

@@ -31,11 +31,15 @@ const page = \`<!DOCTYPE html>
   <meta property=\"og:type\" content=\"website\">
   <meta property=\"og:locale\" content=\"en_US\">
   <meta property=\"og:site_name\" content=\"3D Resources\">
+  <meta property=\"og:image\" content=\"https://3d.devanshutak.xyz/assets/og-image.png\">
+  <meta property=\"og:image:width\" content=\"1200\">
+  <meta property=\"og:image:height\" content=\"630\">
 
   <!-- Twitter -->
   <meta name=\"twitter:card\" content=\"summary_large_image\">
   <meta name=\"twitter:title\" content=\"3D Resources — Software, Assets, Tutorials & Tools for 3D Artists\">
   <meta name=\"twitter:description\" content=\"Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources.\">
+  <meta name=\"twitter:image\" content=\"https://3d.devanshutak.xyz/assets/og-image.png\">
 
   <!-- Schema.org -->
   <script type=\"application/ld+json\">
