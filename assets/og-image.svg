@@ -30,7 +30,7 @@
   <!-- Glow behind cube -->
   <ellipse cx="200" cy="315" rx="160" ry="180" fill="url(#glow)"/>
 
-  <!-- Isometric cube — scaled up from favicon -->
+  <!-- Isometric cube -->
   <g transform="translate(200, 315) scale(3.5)" fill="none" stroke="#e8e8e8" stroke-width="2" stroke-linejoin="round">
     <!-- Face fills -->
     <polygon points="0,-20 18,-10 0,0 -18,-10" fill="url(#cubeTop)" stroke="none"/>
@@ -72,7 +72,7 @@
 
   <!-- Subtitle -->
   <text x="420" y="300" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400">
-    Software, Assets, Tutorials &amp; Tools
+    Software, assets, tutorials &amp; tools for 3D artists
   </text>
 
   <!-- Divider line -->
@@ -103,7 +103,7 @@
 
   <!-- Author -->
   <text x="420" y="470" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">
-    Curated by Devanshu Tak
+    by Devanshu Tak
   </text>
 
   <!-- URL -->

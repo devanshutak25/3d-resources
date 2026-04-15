@@ -1,6 +1,6 @@
 #!/bin/bash
 # Build script: converts README.md to static HTML site
-# No Jekyll, no Ruby — just Node.js (available on all Cloudflare Pages builds)
+# No Jekyll, no Ruby - just Node.js (available on all Cloudflare Pages builds)
 
 npm install marked
 
@@ -16,7 +16,7 @@ const page = \`<!DOCTYPE html>
 <head>
   <meta charset=\"utf-8\">
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-  <title>3D Resources — Software, Assets, Tutorials &amp; Tools for 3D Artists</title>
+  <title>3D Resources: Software, Assets, Tutorials &amp; Tools for 3D Artists</title>
   <meta name=\"description\" content=\"Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more.\">
   <meta name=\"keywords\" content=\"3d resources, blender, houdini, cinema 4d, maya, zbrush, unreal engine, free 3d models, textures, hdri, pbr materials, vfx tutorials, 3d animation, game assets, render engines, motion graphics, digital art, 3d learning, substance painter, free assets, 3d software\">
   <meta name=\"robots\" content=\"index, follow\">
@@ -25,7 +25,7 @@ const page = \`<!DOCTYPE html>
   <meta name=\"google-site-verification\" content=\"he46sgCFXN80qPjWX_KNO2ZJ8aqhaysIvSu1TQhCj2U\">
 
   <!-- Open Graph -->
-  <meta property=\"og:title\" content=\"3D Resources — Software, Assets, Tutorials & Tools for 3D Artists\">
+  <meta property=\"og:title\" content=\"3D Resources: Software, Assets, Tutorials & Tools for 3D Artists\">
   <meta property=\"og:description\" content=\"Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more.\">
   <meta property=\"og:url\" content=\"https://3d.devanshutak.xyz/\">
   <meta property=\"og:type\" content=\"website\">
@@ -37,7 +37,7 @@ const page = \`<!DOCTYPE html>
 
   <!-- Twitter -->
   <meta name=\"twitter:card\" content=\"summary_large_image\">
-  <meta name=\"twitter:title\" content=\"3D Resources — Software, Assets, Tutorials & Tools for 3D Artists\">
+  <meta name=\"twitter:title\" content=\"3D Resources: Software, Assets, Tutorials & Tools for 3D Artists\">
   <meta name=\"twitter:description\" content=\"Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources.\">
   <meta name=\"twitter:image\" content=\"https://3d.devanshutak.xyz/assets/og-image.png\">
 
@@ -46,7 +46,7 @@ const page = \`<!DOCTYPE html>
   {
     \"@context\": \"https://schema.org\",
     \"@type\": \"CollectionPage\",
-    \"name\": \"3D Resources — Software, Assets, Tutorials & Tools for 3D Artists\",
+    \"name\": \"3D Resources: Software, Assets, Tutorials & Tools for 3D Artists\",
     \"description\": \"Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more.\",
     \"url\": \"https://3d.devanshutak.xyz/\",
     \"author\": {

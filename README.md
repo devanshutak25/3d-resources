@@ -1,4 +1,4 @@
-# [3D Resources — Software, Assets, Tutorials & Tools for 3D Artists](https://3d.devanshutak.xyz)
+# [3D Resources: Software, Assets, Tutorials & Tools for 3D Artists](https://3d.devanshutak.xyz)
 
 > A curated collection of **free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources** for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.
 
@@ -452,7 +452,7 @@
 
 ### Houdini
 
-> *"Houdini isn't scary. So much of learning Houdini is asking questions and talking to people about how they solve problems so you can gain your own intuition."* — Christopher Rutledge, [Houdini Nerd](https://discord.gg/E9zA9Ft)
+> *"Houdini isn't scary. So much of learning Houdini is asking questions and talking to people about how they solve problems so you can gain your own intuition."* - Christopher Rutledge, [Houdini Nerd](https://discord.gg/E9zA9Ft)
 
 **Getting Started:**
 - [SideFX Learn](https://www.sidefx.com/learn/) - Official curated learning hub.
@@ -780,7 +780,7 @@
 
 ## 3D Communities & Forums
 
-- [**3D Artists India**](https://3dartists.in/) - India's 3D artist community — events, resources, networking.
+- [**3D Artists India**](https://3dartists.in/) - India's 3D artist community - events, resources, networking.
 - [ArtStation](https://www.artstation.com/) - Professional portfolios.
 - [Polycount](https://polycount.com/) - Game art.
 - [CGSociety](https://cgsociety.org/) - VFX & animation pros.
@@ -1356,22 +1356,22 @@
 - [Job Openings Tracker](https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/) - Animation/VFX jobs.
 
 ### Industry Trends 2025-2026
-- **AI in Production Pipelines** — AI handling roto, denoise, upres, texture drafts, matchmove cleanup. Studios (ILM, Weta, DNEG) deploying at scale. Not replacing artists, accelerating tedious work.
-- **Real-Time Path Tracing** — Shipping in games (Cyberpunk 2077, Alan Wake 2). NVIDIA RTX 50-series (Blackwell) + DLSS 4 with neural rendering. Real-time quality approaching offline.
-- **Gaussian Splatting Maturity** — Went from SIGGRAPH 2023 paper to practical tools (Polycam, Luma AI, Scaniverse). 4D Gaussian Splatting for dynamic scenes is active research.
-- **USD + MaterialX + OpenPBR** — The emerging "holy trinity" of interchange standards. OpenUSD Alliance (Apple, Pixar, Adobe, Autodesk, NVIDIA) driving standardization.
-- **ACES 2.0** — Major update to Academy Color Encoding System (2024). New output transforms, improved highlight rendering.
-- **WebGPU Adoption** — Shipped in Chrome, Firefox/Safari progressing. Enables compute shaders in browser. Three.js, Babylon.js, PlayCanvas adding WebGPU backends.
-- **Blender 4.x Rise** — EEVEE Next (GPU ray tracing), Vulkan backend, extensions platform. Genuinely production-viable.
-- **Virtual Production** — LED volumes maturing from bleeding-edge to standardized. Disguise, Brompton, Mo-Sys as infrastructure leaders.
-- **Neural Rendering** — NVIDIA Neural Texture Compression, Neural Radiance Cache (DLSS 4). Disney/Weta publishing on neural light transport.
+- **AI in Production Pipelines** - AI handling roto, denoise, upres, texture drafts, matchmove cleanup. Studios (ILM, Weta, DNEG) deploying at scale. Not replacing artists, accelerating tedious work.
+- **Real-Time Path Tracing** - Shipping in games (Cyberpunk 2077, Alan Wake 2). NVIDIA RTX 50-series (Blackwell) + DLSS 4 with neural rendering. Real-time quality approaching offline.
+- **Gaussian Splatting Maturity** - Went from SIGGRAPH 2023 paper to practical tools (Polycam, Luma AI, Scaniverse). 4D Gaussian Splatting for dynamic scenes is active research.
+- **USD + MaterialX + OpenPBR** - The emerging "holy trinity" of interchange standards. OpenUSD Alliance (Apple, Pixar, Adobe, Autodesk, NVIDIA) driving standardization.
+- **ACES 2.0** - Major update to Academy Color Encoding System (2024). New output transforms, improved highlight rendering.
+- **WebGPU Adoption** - Shipped in Chrome, Firefox/Safari progressing. Enables compute shaders in browser. Three.js, Babylon.js, PlayCanvas adding WebGPU backends.
+- **Blender 4.x Rise** - EEVEE Next (GPU ray tracing), Vulkan backend, extensions platform. Genuinely production-viable.
+- **Virtual Production** - LED volumes maturing from bleeding-edge to standardized. Disguise, Brompton, Mo-Sys as infrastructure leaders.
+- **Neural Rendering** - NVIDIA Neural Texture Compression, Neural Radiance Cache (DLSS 4). Disney/Weta publishing on neural light transport.
 
 ### Pipeline Standards
-- **[OpenUSD](https://openusd.org/)** — Scene interchange standard for film/TV VFX. Apple Vision Pro uses USDZ.
-- **[MaterialX](https://materialx.org/)** — Material interchange format (Lucasfilm). Supported by USD, Blender, Maya, Houdini, Arnold, RenderMan, Substance.
-- **[OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR)** — Standardized uber-shader for PBR (Autodesk + Adobe). Early adoption phase.
-- **[ACES 2.0](https://acescentral.com/)** — Academy Color Encoding System. Widely adopted in film/TV, growing in games.
-- **[OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)** — Editorial timeline interchange (Pixar).
+- **[OpenUSD](https://openusd.org/)** - Scene interchange standard for film/TV VFX. Apple Vision Pro uses USDZ.
+- **[MaterialX](https://materialx.org/)** - Material interchange format (Lucasfilm). Supported by USD, Blender, Maya, Houdini, Arnold, RenderMan, Substance.
+- **[OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR)** - Standardized uber-shader for PBR (Autodesk + Adobe). Early adoption phase.
+- **[ACES 2.0](https://acescentral.com/)** - Academy Color Encoding System. Widely adopted in film/TV, growing in games.
+- **[OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)** - Editorial timeline interchange (Pixar).
 
 ### Pipeline Overview
 
