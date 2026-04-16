@@ -4,6 +4,8 @@
 
 *Curated by [Devanshu Tak](https://devanshutak.xyz)* compiled with the help of Claude Code.
 
+> **Looking for something specific?** Visit **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** for the interactive version with search and tag filtering (License · Platform · Workflow · Output).
+
 **Found something wrong or want to add a resource?** [Open an issue](https://github.com/devanshutak25/3d-resources/issues) to suggest changes, report broken links, or flag incorrect info. Want to contribute directly? [Read the guidelines](contributing.md) and submit a pull request.
 ## Contents
 
