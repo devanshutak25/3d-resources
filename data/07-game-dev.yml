@@ -98,6 +98,10 @@ subsections:
         readme_tags:
           - Testing
           - GDScript
+      - name: GdSpy
+        url: https://github.com/Alby90/GdSpy
+        description: Unofficial fSpy importer for Godot.
+        entry_type: tool
   - slug: godot-learning
     title: Godot — Learning
     description: Godot-focused learning channels and courses.
@@ -588,6 +592,85 @@ subsections:
         url: https://libresprite.github.io/
         description: LibreSprite is an open source fork of Aseprite.
         entry_type: software
+      - name: PyxelEdit
+        url: http://pyxeledit.com/
+        description: Pixel art editor for tilesets, levels, animations.
+        entry_type: software
+        best_for: Pixel art tilesets/levels
+        tags:
+          output:
+            - games
+          platform:
+            - win
+            - mac
+        readme_tags:
+          - Tilesets
+          - Pixel Art
+      - name: Pixelator
+        url: http://pixelatorapp.com
+        description: Turn any image into pixel art.
+        entry_type: software
+        best_for: Image→pixel art
+        tags:
+          output:
+            - games
+            - illustration
+        readme_tags:
+          - Image→Pixel
+          - Conversion
+      - name: Pixa.Pics
+        url: https://pixa.pics/
+        description: Browser pixel-art tool w/ vectorization.
+        entry_type: software
+        best_for: Browser pixel art
+        tags:
+          output:
+            - games
+          platform:
+            - web
+        readme_tags:
+          - Browser
+          - Vectorization
+      - name: Pickle
+        url: http://www.pickleeditor.com/
+        description: Pixel art editor.
+        entry_type: software
+        best_for: Pixel art editing
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Pixel Art
+          - Editor
+      - name: Lightcube
+        url: https://www.lightcube.art/
+        description: Pixel art editor for Windows w/ PSD, JPEG, PNG, BMP, GIF support.
+        entry_type: software
+        best_for: Windows pixel art w/ PSD
+        tags:
+          output:
+            - games
+          platform:
+            - win
+        readme_tags:
+          - Windows
+          - PSD Support
+      - name: Talos VFX
+        url: https://github.com/rockbite/talos
+        description: Node based, open source VFX Editor with powerful interface and a ready to use libGDX runtime.
+        entry_type: tool
+      - name: Pixen
+        url: https://github.com/Pixen/Pixen
+        description: Pixel Art Editor for OSX
+        entry_type: tool
+      - name: Voxelle Desktop
+        url: https://github.com/Velfi/Voxelle-Desktop
+        description: Voxelle Desktop.
+        entry_type: tool
+      - name: Kavex's Spritesheet Maker
+        url: https://github.com/Kavex/Spritesheet-Maker
+        description: Free spritesheet maker to replace GlueIT. Has much newer export formats.
+        entry_type: tool
   - slug: game-dev-ai-procedural
     title: Game Dev Tools — AI & Procedural Generation
     description: WFC, noise, procedural pipelines, economy design.
@@ -642,6 +725,10 @@ subsections:
       - name: Procedural GL JS
         url: https://github.com/felixpalmer/procedural-gl-js
         description: Based on Three.js, this framework is dedicated to generating a 3D Map experience on a web service.
+        entry_type: tool
+      - name: DotRecast
+        url: https://github.com/ikpil/DotRecast
+        description: A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
         entry_type: tool
   - slug: game-dev-physics
     title: Game Dev Tools — Physics Engines

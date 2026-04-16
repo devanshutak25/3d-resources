@@ -140,6 +140,18 @@ subsections:
         url: https://github.com/Antonioya/blender
         description: Helpers for Blender
         entry_type: plugin
+      - name: Tissue
+        url: https://github.com/alessandro-zomparelli/tissue
+        description: Blender's add-on for computational design.
+        entry_type: tool
+      - name: Sverchok
+        url: https://github.com/nortikin/sverchok/
+        description: A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
+        entry_type: tool
+      - name: Capsule
+        url: https://github.com/Takanu/Capsule
+        description: Blender addon to export, manage and automate to share between Blender and Unreal/Unity or other real-time engine.
+        entry_type: tool
   - slug: blender-tutorials
     title: Blender — Tutorials
     description: Blender learning resources, beginner to advanced.
@@ -818,6 +830,14 @@ subsections:
         readme_tags:
           - Flipbook→MP4
           - CLI
+      - name: VFX Fractal Toolkit
+        url: https://github.com/jtomori/vft
+        description: Set of tools for generating fractal and generative art.
+        entry_type: tool
+      - name: ZENO
+        url: https://github.com/zenustech/zeno
+        description: Node-based 3D system that can produce cinematic physics effects at high efficiency.
+        entry_type: tool
   - slug: houdini-courses-rebelway
     title: Houdini — Courses & Free Content
     description: Structured courses for Houdini.
@@ -1168,3 +1188,7 @@ subsections:
         readme_tags:
           - Baking
           - Free
+      - name: Materia
+        url: https://github.com/Metric/Materia
+        description: An open-source alternative to Substance Designer written in C#. *(The project was archived)*.
+        entry_type: tool

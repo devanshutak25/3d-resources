@@ -583,6 +583,14 @@ subsections:
         url: https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
         description: 'Learn OpenGL: Beginner''s guide to 3D rendering and game development with OpenGL and C++.'
         entry_type: tutorial
+      - name: Beginning Python For Maya (Zurbrigg)
+        url: https://zurbrigg.teachable.com/p/python-3-for-maya-vol-1
+        description: Structured Python course for Maya users.
+        entry_type: tutorial
+        license: Paid
+        readme_tags:
+          - Maya + Python
+          - Course
   - slug: patreon-creators
     title: Patreon Creators
     description: Creators on Patreon offering tutorials, files, and tips.
@@ -829,6 +837,20 @@ subsections:
         url: https://www.visualstudio.com/vs/community/
         description: A fully-featured, extensible, free IDE
         entry_type: community
+      - name: 3DVF
+        url: http://3dvf.com
+        description: French CG news and community.
+        entry_type: community
+        readme_tags:
+          - French
+          - CG News
+      - name: 3DPro
+        url: https://3dpro.org
+        description: 3D professionals community forum.
+        entry_type: community
+        readme_tags:
+          - Pro Community
+          - Forum
   - slug: inspiration-showcase
     title: 3D Inspiration & Showcase
     description: Showcases, portfolios, and visual reference hubs.

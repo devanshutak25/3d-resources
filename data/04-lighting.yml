@@ -392,6 +392,21 @@ subsections:
         url: https://unity3d.com/services/ads
         description: Unity3D Official Ads SDK.
         entry_type: reference
+      - name: Compact YCoCg Frame Buffer
+        url: http://jcgt.org/published/0001/01/02/
+        description: Paper on compact YCoCg frame buffer for small IBL buffers.
+        entry_type: reference
+        readme_tags:
+          - Paper
+          - Frame Buffer
+      - name: bgfx
+        url: https://github.com/bkaradzic/bgfx
+        description: Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+        entry_type: tool
+      - name: VFX good night reading
+        url: https://github.com/jtomori/vfx_good_night_reading/
+        description: Curated collection of good reading about VFX and CG.
+        entry_type: tool
   - slug: renderer-specific-learning
     title: Renderer-Specific Learning
     description: Deep-dives for specific render engines.

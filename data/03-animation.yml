@@ -220,3 +220,15 @@ subsections:
         readme_tags:
           - Open Source
           - Pose-controlled
+      - name: FreeMoCap
+        url: https://freemocap.org/
+        description: Free open-source motion capture system (traditional, not AI).
+        entry_type: software
+        license: Open Source
+        best_for: Open-source mocap
+        tags:
+          workflow:
+            - mocap
+        readme_tags:
+          - Open Source
+          - Mocap

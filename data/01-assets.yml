@@ -1834,3 +1834,57 @@ subsections:
         url: https://led.itch.io/tilemancer
         description: A quick procedural tile creator designed for pixel-art games.
         entry_type: asset-source
+      - name: GameArt2D
+        url: https://www.gameart2d.com/freebies.html
+        description: Free 2D game art pack collection.
+        entry_type: asset-source
+        license: Free
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Free
+          - 2D
+      - name: Oryx Design Lab
+        url: http://oryxdesignlab.com/
+        description: Cheap high-quality royalty-free sprite packs.
+        entry_type: marketplace
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Cheap
+          - Royalty-Free
+      - name: UnluckyStudio
+        url: https://unluckystudio.com/category/freegameart/
+        description: Free game art for 2D games.
+        entry_type: asset-source
+        license: Free
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Free
+          - 2D
+      - name: Reiner's Tilesets
+        url: http://www.reinerstilesets.de/
+        description: Free 2D and 3D graphics, classic game assets blog.
+        entry_type: asset-source
+        license: Free
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Classic
+          - 2D + 3D
+      - name: 420 Pixel Art Icons for RPGs
+        url: http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453
+        description: Set of 420 RPG icons, free for commercial use.
+        entry_type: asset-source
+        license: Free
+        tags:
+          output:
+            - games
+        readme_tags:
+          - RPG Icons
+          - Commercial-OK

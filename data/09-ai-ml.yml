@@ -595,6 +595,10 @@ subsections:
         readme_tags:
           - Procedural
           - Parametric
+      - name: Threestudio
+        url: https://github.com/threestudio-project/threestudio
+        description: A unified framework for 3D content generation.
+        entry_type: tool
   - slug: texture-material-generation
     title: Texture & Material Generation
     description: AI-generated PBR textures and materials.
@@ -867,6 +871,14 @@ subsections:
       - name: Rosebud AI
         url: https://rosebud.ai
         description: Vibe coding platform for creating 3D games and interactive web apps with AI.
+        entry_type: tool
+      - name: RIFE for Nuke
+        url: https://github.com/rafaelperez/RIFE-for-Nuke
+        description: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (ie machine learning for framerate upscaling) for Nuke.
+        entry_type: tool
+      - name: AI Game Developer
+        url: https://github.com/IvanMurzak/Unity-MCP
+        description: '`Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.'
         entry_type: tool
   - slug: ai-audio-music
     title: AI Audio & Music

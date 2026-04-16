@@ -134,3 +134,38 @@ subsections:
         url: https://nxt-dev.github.io/
         description: A layered code compositing application.
         entry_type: reference
+      - name: Nuke Tools (VS Code)
+        url: https://open-vsx.org/extension/virgilsisoe/nuke-tools
+        description: VS Code extension for Nuke Python/BlinkScript development.
+        entry_type: tool
+        license: Open Source
+        readme_tags:
+          - VS Code
+          - Nuke Dev
+      - name: NukeToolsST
+        url: https://packagecontrol.io/packages/NukeToolsST
+        description: Sublime Text package to send Python/BlinkScript code into Nuke.
+        entry_type: tool
+        readme_tags:
+          - Sublime Text
+          - Nuke Dev
+      - name: Bino
+        url: https://github.com/ThreeDeeJay/bino/tree/main
+        description: 3D video player with support for 180°/360° video and Virtual Reality.
+        entry_type: tool
+      - name: CasparCG
+        url: https://github.com/CasparCG
+        description: A Windows and Linux software used to play out professional graphics, audio, and video to multiple outputs as a layer-based real-time compositor.
+        entry_type: tool
+      - name: xComp
+        url: https://github.com/gugenstudio/xComp
+        description: Image Render comparing.
+        entry_type: tool
+      - name: Kiko
+        url: https://github.com/Toolchefs/kiko
+        description: DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come).
+        entry_type: tool
+      - name: OpenWalter
+        url: https://github.com/rodeofx/OpenWalter
+        description: USD Plugins Arnold, Houdini, Katana, Maya and USD.
+        entry_type: tool
