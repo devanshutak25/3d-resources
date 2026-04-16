@@ -71,8 +71,10 @@ function renderSection(section) {
       lines.push('');
     }
 
-    const software = (sub.entries || []).filter(e => e.entry_type === 'software');
-    const references = (sub.entries || []).filter(e => e.entry_type !== 'software');
+    // Skip deprecated entries from README (link checker auto-flags these).
+    const active = (sub.entries || []).filter(e => !e.deprecated);
+    const software = active.filter(e => e.entry_type === 'software');
+    const references = active.filter(e => e.entry_type !== 'software');
 
     if (software.length) {
       const hasPricing = software.some(e => e.pricing);

@@ -99,6 +99,25 @@
     "pricing_last_verified": {
       "type": "string",
       "format": "date"
+    },
+    "url_last_verified": {
+      "type": "string",
+      "format": "date",
+      "description": "Auto-updated by link-check workflow"
+    },
+    "url_status": {
+      "type": "string",
+      "enum": ["ok", "redirect", "broken", "unreachable"],
+      "description": "Auto-updated by link-check workflow"
+    },
+    "review_cadence": {
+      "type": "string",
+      "enum": ["monthly", "quarterly", "semi-annual", "annual"],
+      "description": "Override default per-type cadence"
+    },
+    "host_compat": {
+      "type": "string",
+      "description": "Host-version compatibility hint (e.g., 'blender:>=4.2', 'houdini:>=20')"
     }
   }
 }

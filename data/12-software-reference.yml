@@ -179,9 +179,10 @@ subsections:
 
       - name: "Houdini"
         url: "https://www.sidefx.com/"
-        description: "Procedural VFX DCC. Free Apprentice for learning, Indie tier available."
+        description: "Procedural VFX DCC. Free Apprentice (non-commercial) for learning, Indie tier available."
         pricing: "Indie $269/yr, Free Apprentice"
-        license: "Free NC / Paid"
+        license: "Paid"
+        notes: "Apprentice edition free for non-commercial use."
         entry_type: "software"
         best_for: "Film VFX, procedural modeling"
         tags:
@@ -653,7 +654,8 @@ subsections:
       - name: "Nuke (Foundry)"
         url: "https://www.foundry.com/products/nuke-family/nuke"
         description: "Industry-standard compositing. Non-Commercial free version available."
-        license: "Free NC / Paid"
+        license: "Paid"
+        notes: "Non-Commercial edition free for learning/non-commercial use."
         entry_type: "software"
         best_for: "Film VFX compositing"
         tags:

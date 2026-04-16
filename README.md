@@ -1841,7 +1841,7 @@ Professional paid 3D software.
 | Software | Description | Pricing | License | Tags | Best For |
 |---|---|---|---|---|---|
 | [Cinema 4D](https://www.maxon.net/) | Motion graphics and VFX DCC from Maxon. | ~$70/mo annual | Paid | Motion Graphics · Mograph Module | Motion graphics, VFX, advertising |
-| [Houdini](https://www.sidefx.com/) | Procedural VFX DCC. Free Apprentice for learning, Indie tier available. | Indie $269/yr, Free Apprentice | Free NC / Paid | Procedural · VFX | Film VFX, procedural modeling |
+| [Houdini](https://www.sidefx.com/) | Procedural VFX DCC. Free Apprentice (non-commercial) for learning, Indie tier available. | Indie $269/yr, Free Apprentice | Paid | Procedural · VFX | Film VFX, procedural modeling |
 | [Maya](https://www.autodesk.com/products/maya/) | Film-industry animation and VFX DCC. | $255/mo (Indie $330/yr) | Paid | Industry Standard · Film Animation | Film VFX, CG animation |
 | [ZBrush](https://www.maxon.net/en/zbrush) | Industry-standard digital sculpting from Maxon. | ~$27/mo annual | Paid | Industry Standard · iPad Version | Sculpting, characters |
 | [3DCoat](https://3dcoat.com/) | Voxel sculpting, retopology, and UV toolkit. | EUR 299 perpetual | Paid | Voxel Sculpt · Retopo | Voxel sculpting, retopology |
@@ -1906,7 +1906,7 @@ VFX, compositing, and real-time simulation tools.
 
 | Software | Description | License | Tags | Best For |
 |---|---|---|---|---|
-| [Nuke (Foundry)](https://www.foundry.com/products/nuke-family/nuke) | Industry-standard compositing. Non-Commercial free version available. | Free NC / Paid | Industry Standard · Node-based | Film VFX compositing |
+| [Nuke (Foundry)](https://www.foundry.com/products/nuke-family/nuke) | Industry-standard compositing. Non-Commercial free version available. | Paid | Industry Standard · Node-based | Film VFX compositing |
 | [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/products/davinciresolve/fusion) | Node-based compositing, free with Resolve. | Freemium | Node-based · Free with Resolve | Compositing, VFX |
 | [Natron](https://natrongithub.github.io/) | Free open-source node compositor, Nuke-like. | Open Source | Node-based · Nuke-like | Indie VFX compositing |
 | [EmberGen](https://jangafx.com/software/embergen/) | Real-time volumetric fluid sim (fire, smoke, explosions). | Paid | Real-time Sim · Fire/Smoke | Game VFX, real-time effects |

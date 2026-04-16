@@ -1,0 +1,45 @@
+name: Release watcher
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'   # Mondays 07:00 UTC (after link check)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Check watched releases
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/watch-releases.js
+      - name: Commit updated state
+        run: |
+          git config user.name "release-watch-bot"
+          git config user.email "release-watch-bot@users.noreply.github.com"
+          git add _maintenance/release-state.json
+          git diff --staged --quiet || git commit -m "chore(maintenance): release-watch state"
+          git push || true
+      - name: Check if any new releases
+        id: check
+        run: |
+          if [ -s _maintenance/release-report.md ]; then
+            echo "has_releases=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_releases=false" >> $GITHUB_OUTPUT
+          fi
+      - name: Open issue with release summary
+        if: steps.check.outputs.has_releases == 'true'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "New releases detected — review needed"
+          content-filepath: _maintenance/release-report.md
+          labels: maintenance,release-watch

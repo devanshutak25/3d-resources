@@ -1,27 +1,67 @@
 # Contributing
 
-Thank you for your interest in contributing to Awesome 3D Resources!
+Thanks for helping keep this list sharp.
 
-## Guidelines
+**Source of truth lives in `data/*.yml`.** The README and the [live site](https://3d.devanshutak.xyz) are generated from those files by `scripts/render.js` on every build. Do not edit `README.md` directly — changes will be overwritten.
 
-- Search existing entries before adding a new one to avoid duplicates.
-- Make an individual pull request for each suggestion.
-- Use the following format: `- [Name](URL) - Short description.`
-- Descriptions should be clear, concise, and end with a period.
-- New categories or improvements to existing ones are welcome.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
+## Two paths to contribute
 
-## Quality Standards
+### 1. Open a PR against `data/*.yml` (preferred)
 
-- The resource should be genuinely useful to 3D artists, animators, VFX professionals, or game developers.
-- Paid resources are welcome but must be clearly marked with pricing.
-- Prefer resources that are actively maintained.
+Find the right section file (`data/01-assets.yml` through `data/12-software-reference.yml` — see `TOC_FRAMEWORK.md` for what belongs where) and add an entry:
+
+```yaml
+- name: "Tool Name"
+  url: "https://example.com"
+  description: "One-line what it is and why it matters."
+  license: "Free"                 # Open Source | Free | Free NC | Freemium | Paid
+  entry_type: "software"          # see full list below
+  tags:
+    workflow: [modeling, texturing]
+    platform: [win, mac, linux]
+    output: [games]
+    tech: [pbr]
+  readme_tags: ["Key Feature", "Attribute"]
+  best_for: "Short use-case phrase"    # software only, optional
+```
+
+**Entry types:** `software` · `asset-source` · `marketplace` · `tool` · `plugin` · `tutorial` · `channel` · `community` · `reference` · `inspiration`.
+
+CI automatically validates schema + vocab on your PR. See `schema/vocab.yml` for controlled vocabulary values.
+
+### 2. Open a free-form issue (if GitHub editing is a barrier)
+
+Just tell us:
+- Resource name + URL
+- One-line description
+- Best-guess category
+- License tier (free / freemium / paid)
+
+A maintainer will add it to the right `data/` file.
+
+Or reach out via [email](mailto:3dresources@devanshutak.xyz) / [Instagram](https://www.instagram.com/devanshutak25/).
+
+## Quality bar
+
+- Genuinely useful to a 3D artist, animator, VFX professional, or game dev.
+- Paid resources welcome if clearly marked (`license: Paid` + `pricing` field).
+- Prefer actively maintained.
 - No affiliate links.
+- One resource per PR if possible.
+- Search existing entries first to avoid duplicates. Cross-section dual-listings are allowed — use `dual_listed_in: [section-slug]`.
 
-## Submitting
+## Reporting broken / outdated
 
-You can contribute by:
+- **Broken link:** our weekly link-checker workflow auto-flags these and opens an issue. You can also submit manually.
+- **Wrong pricing / license / description:** PR edit, or issue.
+- **Resource has moved:** PR to update `url`.
 
-1. Opening a [pull request](https://github.com/devanshutak25/3d-resources/pulls) with your addition.
-2. Reaching out via [email](mailto:3dresources@devanshutak.xyz) or [Instagram](https://www.instagram.com/devanshutak25/).
+## Local dev
+
+```bash
+bash build.sh                     # regenerates README.md + builds _site/
+node scripts/validate.js          # schema + vocab + duplicate check
+node scripts/check-links.js       # full link check (~3 min)
+```
+
+See `MAINTENANCE.md` for the full maintenance framework.

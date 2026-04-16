@@ -5,3 +5,5 @@ preview-*.md
 node_modules/
 package-lock.json
 _site/
+_maintenance/link-check-*.md
+_maintenance/release-report.md
