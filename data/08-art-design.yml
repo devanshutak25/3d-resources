@@ -1,0 +1,743 @@
+slug: art-design-visual-storytelling
+title: "Art, Design & Visual Storytelling"
+description: "Fundamentals — concept art, composition, color, typography, photography, cinematography, animation principles. The craft underpinning 3D work."
+
+subsections:
+  # ------------------------------------------------------------------
+  - slug: concept-art-channels
+    title: "Concept Art & Illustration — Channels"
+    description: "Channels on concept art, figure drawing, painting."
+    entries:
+      - name: "Proko"
+        url: "https://www.youtube.com/@ProkoTV"
+        description: "Figure drawing and anatomy."
+        entry_type: "channel"
+        readme_tags: ["Figure Drawing", "Anatomy"]
+
+      - name: "Marco Bucci"
+        url: "https://www.youtube.com/@marcobucci"
+        description: "Painting and color theory."
+        entry_type: "channel"
+        readme_tags: ["Painting", "Color Theory"]
+
+      - name: "Sinix Design"
+        url: "https://www.youtube.com/@sinixdesign"
+        description: "Digital painting fundamentals."
+        entry_type: "channel"
+        readme_tags: ["Digital Painting", "Fundamentals"]
+
+      - name: "Tyler Edlin"
+        url: "https://www.youtube.com/@TylerEdlin84"
+        description: "Environment and concept art."
+        entry_type: "channel"
+        readme_tags: ["Environment", "Concept"]
+
+      - name: "Grady Frederick"
+        url: "https://www.youtube.com/@gradyfrederickart"
+        description: "Concept art process."
+        entry_type: "channel"
+        readme_tags: ["Concept Process", "Art"]
+
+      - name: "Michael Mattesi"
+        url: "https://www.instagram.com/michaelmattesi/"
+        description: "Force drawing (Instagram)."
+        entry_type: "channel"
+        readme_tags: ["Force Drawing", "Instagram"]
+
+  # ------------------------------------------------------------------
+  - slug: concept-art-courses
+    title: "Concept Art & Illustration — Courses"
+    description: "Structured concept art and design courses."
+    entries:
+      - name: "School of Motion — Design Courses"
+        url: "https://www.schoolofmotion.com/"
+        description: "Design Bootcamp, Explainer Camp, Character Design."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Design Bootcamp", "Character Design"]
+
+  # ------------------------------------------------------------------
+  - slug: drawing-painting-3d
+    title: "Drawing & Painting for 3D Artists"
+    description: "Gesture, figure, digital painting fundamentals for 3D artists."
+    entries:
+      - name: "Line of Action"
+        url: "https://line-of-action.com/"
+        description: "Free timed gesture drawing (figures, animals, hands, faces)."
+        license: "Free"
+        entry_type: "tool"
+        readme_tags: ["Gesture Drawing", "Timed"]
+
+      - name: "QuickPoses"
+        url: "https://quickposes.com/en"
+        description: "Timed drawing practice with huge photo library."
+        license: "Free"
+        entry_type: "tool"
+        readme_tags: ["Timed Practice", "Photo Library"]
+
+      - name: "SketchDaily Reference"
+        url: "https://www.sketchdaily.net/"
+        description: "Timed drawing sessions across categories."
+        license: "Free"
+        entry_type: "tool"
+        readme_tags: ["Timed", "Reference"]
+
+      - name: "Posemaniacs"
+        url: "https://www.posemaniacs.com/"
+        description: "Rotatable 3D pose reference with muscle groups."
+        entry_type: "reference"
+        readme_tags: ["3D Poses", "Muscle Ref"]
+
+      - name: "Human Anatomy for Artists"
+        url: "https://human-anatomy-for-artist.com/"
+        description: "Massive free photo reference by body part and angle."
+        license: "Free"
+        entry_type: "reference"
+        readme_tags: ["Anatomy", "Free Photos"]
+
+      - name: "BodyVisualizer"
+        url: "https://bodyvisualizer.com/"
+        description: "3D body shape visualizer for proportion reference."
+        entry_type: "tool"
+        readme_tags: ["Body Proportions", "Interactive"]
+
+      - name: "Ctrl+Paint"
+        url: "https://www.ctrlpaint.com/library"
+        description: "Structured free video library — digital painting fundamentals, value studies, color."
+        license: "Free"
+        entry_type: "tutorial"
+        readme_tags: ["Free Library", "Structured"]
+
+      - name: "Proko Free Library"
+        url: "https://www.proko.com/library/"
+        description: "Anatomy, figure drawing, portrait (substantial free tier)."
+        license: "Freemium"
+        entry_type: "tutorial"
+        readme_tags: ["Anatomy", "Free Tier"]
+
+      - name: "ModernDayJames"
+        url: "https://www.youtube.com/c/moderndayjames"
+        description: "Rigorous perspective systems and construction drawing."
+        entry_type: "channel"
+        readme_tags: ["Perspective", "Construction"]
+
+      - name: "ArtStation Learning"
+        url: "https://www.artstation.com/learning"
+        description: "Free courses from Blizzard, Riot, Pixar pros."
+        license: "Free"
+        entry_type: "tutorial"
+        readme_tags: ["Pro Instructors", "Free"]
+
+      - name: "Trent Kaniuga"
+        url: "https://www.youtube.com/@trentkaneunga"
+        description: "Concept art workflow for game/film production."
+        entry_type: "channel"
+        readme_tags: ["Production Workflow", "Games/Film"]
+
+  # ------------------------------------------------------------------
+  - slug: photography
+    title: "Photography — Reference & Fundamentals"
+    description: "Photography knowledge directly applicable to 3D lighting and composition."
+    entries:
+      - name: "Cambridge in Colour"
+        url: "http://www.cambridgeincolour.com/tutorials.htm"
+        description: "Comprehensive photography tutorials."
+        entry_type: "reference"
+        readme_tags: ["Fundamentals", "Deep Dives"]
+
+      - name: "Strobist Lighting 101"
+        url: "https://strobist.blogspot.com/2006/03/lighting-101.html"
+        description: "Definitive free course on shaping light (directly applicable to 3D lighting)."
+        license: "Free"
+        entry_type: "tutorial"
+        readme_tags: ["Lighting 101", "Classic"]
+
+      - name: "Workphlo"
+        url: "https://www.youtube.com/c/WorkphloPhotography"
+        description: "Studio product photography lighting breakdowns with placement diagrams."
+        entry_type: "channel"
+        tags: { output: [product-viz] }
+        readme_tags: ["Studio", "Placement Diagrams"]
+
+      - name: "Fstoppers Education"
+        url: "https://fstoppers.com/education"
+        description: "Studio lighting, portrait ratios, product photography."
+        entry_type: "reference"
+        readme_tags: ["Studio Lighting", "Ratios"]
+
+      - name: "B&H Explora Photography"
+        url: "https://www.bhphotovideo.com/explora/photography"
+        description: "Deep technical articles on lighting modifiers and color temperature."
+        entry_type: "reference"
+        readme_tags: ["Technical", "Modifiers"]
+
+      - name: "Gavin Hoey (Adorama)"
+        url: "https://www.youtube.com/@GavinHoey"
+        description: "Studio lighting tutorials with setup diagrams."
+        entry_type: "channel"
+        readme_tags: ["Studio Diagrams", "Adorama"]
+
+  # ------------------------------------------------------------------
+  - slug: cinematography-camera
+    title: "Cinematography & Camera Work"
+    description: "Shot composition, camera techniques, lighting for film/CG."
+    entries:
+      - name: "StudioBinder Film Guides"
+        url: "https://www.studiobinder.com/blog/"
+        description: "Shot composition, camera shots encyclopedia, camera movements, lighting."
+        entry_type: "reference"
+        readme_tags: ["Film Guides", "Encyclopedia"]
+
+      - name: "CinematographyDB"
+        url: "https://cinematographydb.com/"
+        description: "Database of DP filmographies — study any cinematographer's visual language."
+        entry_type: "reference"
+        readme_tags: ["DP Database", "Study Tool"]
+
+      - name: "No Film School — Cinematography"
+        url: "https://nofilmschool.com/topics/cinematography-cameras"
+        description: "Constant stream of technique articles."
+        entry_type: "reference"
+        readme_tags: ["Technique Articles", "Ongoing"]
+
+      - name: "Every Frame a Painting"
+        url: "https://www.youtube.com/c/EveryFrameaPainting"
+        description: "Gold-standard video essays on composition, camera, editing rhythm."
+        entry_type: "channel"
+        readme_tags: ["Gold Standard", "Video Essays"]
+
+      - name: "CinemaTyler"
+        url: "https://www.youtube.com/c/CinemaTyler"
+        description: "Deep analysis of lens choice, color, blocking, lighting in film."
+        entry_type: "channel"
+        readme_tags: ["Deep Analysis", "Film"]
+
+      - name: "Wolfcrow"
+        url: "https://www.youtube.com/c/wolfcrow"
+        description: "Cinematography fundamentals, color science, exposure theory."
+        entry_type: "channel"
+        readme_tags: ["Fundamentals", "Color Science"]
+
+      - name: "In Depth Cine"
+        url: "https://www.youtube.com/c/InDepthCine"
+        description: "Practical lighting setups and narrative technique."
+        entry_type: "channel"
+        readme_tags: ["Practical", "Narrative"]
+
+      - name: "Shane Hurlbut ASC Blog"
+        url: "https://www.hurlbutvisuals.com/blog"
+        description: "Real DP knowledge on cinematography, lens choice, lighting setups."
+        entry_type: "channel"
+        readme_tags: ["DP Blog", "ASC"]
+
+      - name: "Roger Deakins on Learning to Light"
+        url: "https://www.youtube.com/watch?v=K9w8I_YD29E"
+        description: "Cinematography Techniques Ep. 1."
+        entry_type: "tutorial"
+        readme_tags: ["Roger Deakins", "Lighting"]
+
+      - name: "How to Create Stunning Cinematic Lighting"
+        url: "https://www.youtube.com/watch?v=eZ5hpcn6tIM"
+        description: "Cinematic lighting tutorial."
+        entry_type: "tutorial"
+        readme_tags: ["Cinematic Lighting", "Technique"]
+
+      - name: "Video Lighting Techniques — Cinematic Look"
+        url: "https://www.youtube.com/watch?v=n1EKLvdUSac"
+        description: "Achieving a cinematic look via lighting."
+        entry_type: "tutorial"
+        readme_tags: ["Cinematic Look", "Lighting"]
+
+  # ------------------------------------------------------------------
+  - slug: composition-visual-storytelling
+    title: "Composition & Visual Storytelling"
+    description: "Composition theory, color theory, visual hierarchy."
+    entries:
+      - name: "Neil Blevins Art Lessons"
+        url: "https://www.neilblevins.com/art_lessons/art_lessons.htm"
+        description: "Composition types, tangents, visual hierarchy by a Pixar artist."
+        entry_type: "reference"
+        readme_tags: ["Pixar Artist", "Composition"]
+
+      - name: "Can't Unsee"
+        url: "https://cantunsee.space/"
+        description: "Interactive game training visual alignment and spacing precision."
+        entry_type: "tool"
+        readme_tags: ["Interactive", "Visual Training"]
+
+      - name: "Laws of UX"
+        url: "https://lawsofux.com/"
+        description: "Gestalt principles, visual perception laws (directly applicable to 3D composition)."
+        entry_type: "reference"
+        readme_tags: ["Gestalt", "Perception"]
+
+      - name: "Handprint Color & Composition"
+        url: "https://www.handprint.com/HP/WCL/color18a.html"
+        description: "Deepest free color theory resource online — covers perception and harmony."
+        license: "Free"
+        entry_type: "reference"
+        readme_tags: ["Deep Color Theory", "Perception"]
+
+      - name: "Marco Bucci — Understanding Color"
+        url: "https://www.youtube.com/watch?v=Qj1FK8n7WgY"
+        description: "10-part color theory series for artists, applicable to 3D lighting/texturing."
+        entry_type: "tutorial"
+        readme_tags: ["Color Theory", "10-Part Series"]
+
+      - name: "PhotoPills Golden Ratio Guide"
+        url: "https://www.photopills.com/articles/golden-ratio-photography-composition-guide"
+        description: "Golden ratio, spirals, triangles with overlay diagrams."
+        entry_type: "reference"
+        readme_tags: ["Golden Ratio", "Overlays"]
+
+  # ------------------------------------------------------------------
+  - slug: animation-principles
+    title: "Animation Principles"
+    description: "The 12 principles of animation and related fundamentals."
+    entries:
+      - name: "The 12 Principles (Illustrated)"
+        url: "https://the12principles.tumblr.com/"
+        description: "GIF breakdowns of each principle."
+        entry_type: "reference"
+        readme_tags: ["12 Principles", "GIF Breakdown"]
+
+      - name: "12 Principles of Animation (Alan Becker)"
+        url: "https://www.youtube.com/watch?v=uDqjIdI4bF4"
+        description: "Alan Becker's accessible explainer of the 12 principles."
+        entry_type: "tutorial"
+        readme_tags: ["Alan Becker", "Accessible"]
+
+      - name: "Animator Island — 51 Exercises"
+        url: "https://www.animatorisland.com/51-great-animation-exercises-to-master/"
+        description: "Structured practice curriculum by difficulty."
+        entry_type: "reference"
+        readme_tags: ["Practice Curriculum", "51 Exercises"]
+
+      - name: "Endless Reference"
+        url: "https://www.endlessreference.com/"
+        description: "Video clips browsable by action type (walk, run, fight, etc.)."
+        entry_type: "reference"
+        readme_tags: ["Action Reference", "Browsable"]
+
+      - name: "Animation Resources"
+        url: "https://animationresources.org/"
+        description: "Archives of classic animation, frame-by-frame studies."
+        entry_type: "reference"
+        readme_tags: ["Classic Archive", "Frame Studies"]
+
+      - name: "New Frame Plus"
+        url: "https://www.youtube.com/c/NewFramePlus"
+        description: "Animation analysis in games (walk cycles, weight, timing)."
+        entry_type: "channel"
+        tags: { output: [games] }
+        readme_tags: ["Game Animation", "Analysis"]
+
+      - name: "iAnimate Free Resources"
+        url: "https://ianimate.net/free-resources"
+        description: "Webinars from Disney/Pixar/DreamWorks animators."
+        license: "Free"
+        entry_type: "tutorial"
+        readme_tags: ["Disney/Pixar", "Webinars"]
+
+      - name: "Hippydrome"
+        url: "https://www.hippydrome.com/"
+        description: "Richard Williams walk cycle and timing chart reference."
+        entry_type: "reference"
+        readme_tags: ["Richard Williams", "Timing Charts"]
+
+  # ------------------------------------------------------------------
+  - slug: design-principles-typography
+    title: "Design Principles & Typography"
+    description: "Typography, visual hierarchy, design fundamentals."
+    entries:
+      - name: "Practical Typography"
+        url: "https://practicaltypography.com/"
+        description: "Free online book on type fundamentals, hierarchy, spacing."
+        license: "Free"
+        entry_type: "reference"
+        readme_tags: ["Free Book", "Typography"]
+
+      - name: "Typewolf"
+        url: "https://typewolf.com/"
+        description: "Curated typography inspiration — fonts in real-world use."
+        entry_type: "inspiration"
+        readme_tags: ["Type Inspiration", "Real-world"]
+
+      - name: "The Futur"
+        url: "https://www.youtube.com/@TheFutur"
+        description: "Graphic design fundamentals, typography, grid systems."
+        entry_type: "channel"
+        readme_tags: ["Graphic Design", "Grids"]
+
+      - name: "Better Web Type"
+        url: "https://betterwebtype.com/web-typography-resources/"
+        description: "Free typography course on rhythm and hierarchy."
+        license: "Free"
+        entry_type: "tutorial"
+        readme_tags: ["Web Type", "Rhythm"]
+
+      - name: "NNGroup Visual Design"
+        url: "https://www.nngroup.com/topic/visual-design/"
+        description: "Research-backed principles on hierarchy, contrast, whitespace."
+        entry_type: "reference"
+        readme_tags: ["Research-backed", "Hierarchy"]
+
+  # ------------------------------------------------------------------
+  - slug: color-theory-tools
+    title: "Color Theory & Tools"
+    description: "Color palettes, generators, matching, and theory tools."
+    entries:
+      - name: "Color Hunt"
+        url: "https://colorhunt.co/"
+        description: "Curated color palette collection."
+        license: "Free"
+        entry_type: "tool"
+        readme_tags: ["Palettes", "Curated"]
+
+      - name: "Coolors"
+        url: "https://coolors.co/"
+        description: "Fast palette generator."
+        license: "Freemium"
+        entry_type: "tool"
+        readme_tags: ["Generator", "Fast"]
+
+      - name: "Lospec Palette List"
+        url: "https://lospec.com/palette-list"
+        description: "Pixel art palette repository."
+        license: "Free"
+        entry_type: "tool"
+        tags: { output: [games] }
+        readme_tags: ["Pixel Art", "Curated"]
+
+      - name: "WebGradients"
+        url: "https://webgradients.com/"
+        description: "Gradient library."
+        license: "Free"
+        entry_type: "asset-source"
+        readme_tags: ["Gradients", "Web"]
+
+      - name: "Gradient Horse"
+        url: "https://gradient.horse/"
+        description: "Experimental gradient generator."
+        entry_type: "tool"
+        readme_tags: ["Experimental", "Gradients"]
+
+      - name: "Huemint"
+        url: "https://huemint.com/brand-intersection/"
+        description: "AI-assisted brand color generation."
+        entry_type: "tool"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["AI Palettes", "Brand"]
+
+      - name: "Adobe Color"
+        url: "https://color.adobe.com/explore"
+        description: "Color wheel, harmony tool, palettes."
+        license: "Free"
+        entry_type: "tool"
+        readme_tags: ["Color Wheel", "Harmonies"]
+
+      - name: "Canva Color Palettes"
+        url: "https://www.canva.com/colors/color-palettes/"
+        description: "Pre-made palettes."
+        license: "Free"
+        entry_type: "asset-source"
+        readme_tags: ["Palettes", "Canva"]
+
+      - name: "Paletton"
+        url: "https://paletton.com/"
+        description: "Classic color scheme designer."
+        license: "Free"
+        entry_type: "tool"
+        readme_tags: ["Classic", "Schemes"]
+
+      - name: "ColorBox"
+        url: "https://colorbox.io/"
+        description: "Systematic color scale generator."
+        entry_type: "tool"
+        readme_tags: ["Scales", "Systematic"]
+
+      - name: "Color Method"
+        url: "https://color.method.ac/"
+        description: "Interactive color matching game."
+        entry_type: "tool"
+        readme_tags: ["Interactive", "Training"]
+
+      - name: "HueData"
+        url: "https://huedata.org/"
+        description: "Palettes extracted from famous paintings."
+        entry_type: "tool"
+        readme_tags: ["Painting Palettes", "Curated"]
+
+      - name: "poline"
+        url: "https://meodai.github.io/poline/"
+        description: "Esoteric palette generation via polar color interpolation."
+        license: "Open Source"
+        entry_type: "tool"
+        readme_tags: ["Polar Palettes", "Esoteric"]
+
+      - name: "Fast Palette Studio"
+        url: "https://fastpalette.studio/"
+        description: "Rapid palette creation for pixel art and game dev."
+        entry_type: "tool"
+        tags: { output: [games] }
+        readme_tags: ["Pixel Art", "Fast"]
+
+  # ------------------------------------------------------------------
+  - slug: design-tools
+    title: "Design Tools"
+    description: "Vector editors, creative effect tools, and design utilities."
+    entries:
+      - name: "Graphite"
+        url: "https://editor.graphite.rs/"
+        description: "Open-source procedural 2D/motion graphics editor."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Procedural design"
+        tags: { tech: [procedural, node-based] }
+        readme_tags: ["Procedural", "Open Source"]
+
+      - name: "Adobe Express"
+        url: "https://new.express.adobe.com/"
+        description: "Quick Adobe design tool."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Quick design"
+        tags: { platform: [web] }
+        readme_tags: ["Web", "Adobe"]
+
+      - name: "X-Design"
+        url: "https://www.x-design.com/"
+        description: "Design tool."
+        entry_type: "tool"
+        readme_tags: ["Design", "Web"]
+
+      - name: "Modyfi"
+        url: "https://www.modyfi.com/"
+        description: "Browser-based creative suite."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Creative suite in browser"
+        tags: { platform: [web] }
+        readme_tags: ["Browser Suite", "Creative"]
+
+      - name: "Eagle"
+        url: "https://en.eagle.cool/"
+        description: "Visual asset organizer."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Asset organization"
+        tags: { platform: [win, mac] }
+        readme_tags: ["Asset Organizer", "Visual"]
+
+      - name: "Carbon"
+        url: "https://carbon.now.sh/"
+        description: "Code snippet screenshot generator."
+        license: "Free"
+        entry_type: "tool"
+        readme_tags: ["Code Snippets", "Images"]
+
+      - name: "Efecto"
+        url: "https://efecto.app/"
+        description: "ASCII and dithering effects."
+        entry_type: "tool"
+        readme_tags: ["ASCII", "Dithering"]
+
+      - name: "BabyTrack"
+        url: "https://freedesigntool.online/baby-track"
+        description: "Blob tracking effect."
+        entry_type: "tool"
+        readme_tags: ["Blob Tracking", "Effect"]
+
+      - name: "Halftone Maker"
+        url: "https://halftonemaker.com/"
+        description: "Halftone generator."
+        entry_type: "tool"
+        readme_tags: ["Halftone", "Print Effect"]
+
+      - name: "Vector Halftone"
+        url: "https://halftone.xoihazard.com/"
+        description: "Vector halftone generator."
+        entry_type: "tool"
+        readme_tags: ["Vector", "Halftone"]
+
+      - name: "Space Type Generator"
+        url: "https://spacetypegenerator.com/"
+        description: "Experimental type generator."
+        entry_type: "tool"
+        readme_tags: ["Experimental", "Type"]
+
+      - name: "Tiled Art"
+        url: "https://tiled.art/en/home/"
+        description: "Tessellation creator."
+        entry_type: "tool"
+        readme_tags: ["Tessellations", "Patterns"]
+
+      - name: "The Toolbox"
+        url: "https://thetoolbox.art/"
+        description: "Curated creative tools directory."
+        entry_type: "reference"
+        readme_tags: ["Tools Directory", "Curated"]
+
+      - name: "Undesign"
+        url: "https://undesign.learn.uno/"
+        description: "Design learning resources."
+        entry_type: "reference"
+        readme_tags: ["Learning", "Resources"]
+
+      - name: "ContentCore"
+        url: "https://contentcore.xyz/"
+        description: "Curated creative content."
+        entry_type: "inspiration"
+        readme_tags: ["Curated", "Content"]
+
+      - name: "OS Design Directory"
+        url: "https://github.com/opensesh/OS_design-directory"
+        description: "Open-source design resources directory."
+        license: "Open Source"
+        entry_type: "reference"
+        readme_tags: ["Open Source", "Directory"]
+
+      - name: "Muzli"
+        url: "https://chromewebstore.google.com/detail/muzli-design-inspiration/glcipcfhmopcgidicgdociohdoicpdfc"
+        description: "Design inspiration Chrome extension."
+        entry_type: "inspiration"
+        readme_tags: ["Inspiration", "Browser Ext"]
+
+      - name: "Cosmos"
+        url: "https://www.cosmos.so/home"
+        description: "Visual content curation platform."
+        entry_type: "inspiration"
+        readme_tags: ["Curation", "Visual"]
+
+      - name: "Are.na"
+        url: "https://www.are.na/"
+        description: "Mood board and research tool for creatives."
+        entry_type: "tool"
+        readme_tags: ["Mood Boards", "Research"]
+
+      - name: "Mockup Photos"
+        url: "https://mockup.photos/"
+        description: "Device and print mockup library."
+        entry_type: "asset-source"
+        readme_tags: ["Mockups", "Devices"]
+
+  # ------------------------------------------------------------------
+  - slug: general-inspiration
+    title: "General Inspiration"
+    description: "Blogs, feeds, and curated inspiration sources."
+    entries:
+      - name: "H.R. Giger (Artnet)"
+        url: "http://www.artnet.com/artists/hans-rudolf-giger/"
+        description: "H.R. Giger gallery archive."
+        entry_type: "inspiration"
+        readme_tags: ["Giger", "Dark Sci-Fi"]
+
+      - name: "Janelle Loi Resources"
+        url: "https://janelloi.com/recommended-resources/"
+        description: "Curated creative resources."
+        entry_type: "reference"
+        readme_tags: ["Curated", "Creative"]
+
+      - name: "Geometric Design (Canva)"
+        url: "https://designschool.canva.com/blog/geometric-design/"
+        description: "Geometric design article."
+        entry_type: "reference"
+        readme_tags: ["Geometric", "Design Article"]
+
+      - name: "Movie Scenes Inspired by Art"
+        url: "https://x.com/JamesLucasIT/status/1795507471693320546"
+        description: "Thread on movie scenes mirroring paintings."
+        entry_type: "inspiration"
+        readme_tags: ["Film + Art", "Thread"]
+
+      - name: "Mech Blog"
+        url: "http://mechblog.tumblr.com/"
+        description: "Mecha design inspiration."
+        entry_type: "inspiration"
+        readme_tags: ["Mecha", "Tumblr"]
+
+      - name: "The Black Workshop"
+        url: "http://theblackworkshop.tumblr.com/"
+        description: "Design inspiration blog."
+        entry_type: "inspiration"
+        readme_tags: ["Design Blog", "Tumblr"]
+
+      - name: "Activation Ideas"
+        url: "https://activationideas.com/"
+        description: "Brand activation inspiration."
+        entry_type: "inspiration"
+        readme_tags: ["Brand Activations", "Ideas"]
+
+      - name: "OTAKU GANGSTA"
+        url: "http://otakugangsta.com/"
+        description: "Anime/otaku visual blog."
+        entry_type: "inspiration"
+        readme_tags: ["Anime", "Visual"]
+
+      - name: "Mr Cup"
+        url: "http://www.mr-cup.com/blog.html"
+        description: "Graphic design blog."
+        entry_type: "inspiration"
+        readme_tags: ["Graphic Design", "Blog"]
+
+      - name: "DETHJUNKIE"
+        url: "http://www.dethjunkie.com/"
+        description: "Dark creative blog."
+        entry_type: "inspiration"
+        readme_tags: ["Dark", "Creative"]
+
+      - name: "Truchet's Tiles"
+        url: "https://arearugscarpet.blogspot.com/2014/04/the-curse-of-truchets-tiles.html"
+        description: "On Truchet tiles and patterns."
+        entry_type: "reference"
+        readme_tags: ["Tiles", "Patterns"]
+
+      - name: "But Does It Float"
+        url: "https://butdoesitfloat.com/"
+        description: "Contemporary design and art feed."
+        entry_type: "inspiration"
+        readme_tags: ["Contemporary", "Design"]
+
+      - name: "Savee"
+        url: "https://savee.it/"
+        description: "Visual bookmarking tool."
+        entry_type: "tool"
+        readme_tags: ["Bookmarking", "Curation"]
+
+      - name: "Designspiration"
+        url: "https://designspiration.com/"
+        description: "Design inspiration feed."
+        entry_type: "inspiration"
+        readme_tags: ["Feed", "Curated"]
+
+      - name: "Muddycolors"
+        url: "https://www.muddycolors.com/"
+        description: "Pro illustrator blog."
+        entry_type: "channel"
+        readme_tags: ["Illustration", "Pro Blog"]
+
+      - name: "Sakuga Booru"
+        url: "https://sakugabooru.com/"
+        description: "Animation clip archive (non-www mirror)."
+        entry_type: "reference"
+        readme_tags: ["Animation Archive", "Mirror"]
+
+  # ------------------------------------------------------------------
+  - slug: 2d-art-references
+    title: "2D Art References & Inspiration"
+    description: "2D animation sheets, cloth, anime model sheets."
+    entries:
+      - name: "2D Tutorials — Draw a Box"
+        url: "https://drawabox.com/"
+        description: "Free drawing fundamentals course."
+        license: "Free"
+        entry_type: "tutorial"
+        tags: { skill: [beginner, intermediate] }
+        readme_tags: ["Fundamentals", "Free"]
+
+      - name: "Saint11 Pixel Art"
+        url: "https://www.patreon.com/saint11"
+        description: "Pixel art tutorials."
+        entry_type: "channel"
+        tags: { output: [games] }
+        readme_tags: ["Pixel Art", "Tutorials"]

@@ -1,0 +1,1643 @@
+slug: software-reference
+title: "Software Reference"
+description: "All software — full license, pricing, platform, and tag data. Canonical source."
+
+subsections:
+  # ------------------------------------------------------------------
+  - slug: 3d-software-free
+    title: "3D Software — Free"
+    description: "Free and open-source 3D software."
+    entries:
+      - name: "Blender"
+        url: "https://www.blender.org/"
+        description: "Industry-standard open-source suite. Modeling, sculpting, rigging, animation, simulation, rendering, compositing."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Professional 3D, VFX, game dev, arch-viz"
+        tags:
+          workflow: [modeling, sculpting, rigging, animation, simulation, fx, lighting, rendering, compositing]
+          output: [games, film-vfx, archviz, motion-graphics, generalist]
+          platform: [win, mac, linux]
+          skill: [beginner, intermediate, advanced]
+          tech: [path-tracing, real-time, opensource-alt, node-based]
+        readme_tags: ["Full Pipeline", "Cross-Platform"]
+
+      - name: "SculptGL"
+        url: "https://stephaneginier.com/sculptgl/"
+        description: "WebGL browser sculpting with dynamic topology."
+        license: "Free"
+        entry_type: "software"
+        best_for: "Quick sculpts, organic modeling"
+        tags:
+          workflow: [sculpting]
+          output: [generalist]
+          platform: [web]
+          tech: [real-time]
+        readme_tags: ["Browser", "Dynamic Topology"]
+
+      - name: "Tinkercad"
+        url: "https://www.tinkercad.com/"
+        description: "Browser-based CSG modeling."
+        license: "Free"
+        entry_type: "software"
+        best_for: "STEM education, 3D printing beginners"
+        tags:
+          workflow: [modeling]
+          output: [generalist, product-viz]
+          platform: [web]
+          skill: [beginner]
+        readme_tags: ["Browser", "Education"]
+
+      - name: "Wings 3D"
+        url: "https://www.wings3d.com/"
+        description: "Subdivision surface modeler."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Polygon modeling for games"
+        tags:
+          workflow: [modeling]
+          output: [games]
+          platform: [win, mac, linux]
+        readme_tags: ["Subdiv Modeling", "Lightweight"]
+
+      - name: "MagicaVoxel"
+        url: "https://ephtracy.github.io/"
+        description: "GPU voxel editor with path tracing."
+        license: "Free"
+        entry_type: "software"
+        best_for: "Voxel art, indie game assets"
+        tags:
+          workflow: [modeling, rendering]
+          output: [games, illustration]
+          platform: [win, mac]
+          tech: [path-tracing, gpu]
+        readme_tags: ["Voxel", "Path Tracing"]
+
+      - name: "MagicaCSG"
+        url: "https://ephtracy.github.io/index.html?page=magicacsg"
+        description: "SDF modeling with real-time booleans."
+        license: "Free"
+        entry_type: "software"
+        best_for: "Concept design, rapid prototyping"
+        tags:
+          workflow: [concept, modeling]
+          output: [generalist]
+          platform: [win]
+          tech: [real-time, procedural]
+        readme_tags: ["SDF", "Windows-only"]
+
+      - name: "VRoid Studio"
+        url: "https://vroid.com/en/studio/"
+        description: "Anime-style 3D character creator."
+        license: "Free"
+        entry_type: "software"
+        best_for: "VTubers, anime characters"
+        tags:
+          workflow: [modeling]
+          output: [games, illustration, broadcast]
+          platform: [win, mac]
+        readme_tags: ["Anime Characters", "VTuber"]
+
+  # ------------------------------------------------------------------
+  - slug: 3d-software-free-tier
+    title: "3D Software — Free Tier"
+    description: "Freemium 3D software with free tier available."
+    entries:
+      - name: "Spline"
+        url: "https://spline.design/"
+        description: "Browser-based 3D design for web and interactive content."
+        pricing: "Free tier, Starter $12/mo, Pro $20/mo"
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Web designers, interactive content"
+        tags:
+          workflow: [modeling, animation, rendering]
+          output: [product-viz, motion-graphics, generalist]
+          platform: [web, mac]
+          tech: [real-time, collaborative]
+        readme_tags: ["Browser", "Interactive"]
+
+      - name: "Womp3D"
+        url: "https://www.womp.com/"
+        description: "Playful browser-based 3D modeler for product design."
+        pricing: "Free tier, Pro $12.99/mo"
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Product design, 3D printing"
+        tags:
+          workflow: [modeling]
+          output: [product-viz]
+          platform: [web]
+          skill: [beginner, intermediate]
+        readme_tags: ["Browser", "Product Design"]
+
+      - name: "SketchUp"
+        url: "https://www.sketchup.com/"
+        description: "Architectural and interior-design-oriented 3D modeler."
+        pricing: "Free web version, paid desktop tiers"
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Architecture, interior design"
+        tags:
+          workflow: [modeling]
+          output: [archviz, product-viz]
+          platform: [win, mac, web]
+        readme_tags: ["Arch-Viz", "Easy Learning Curve"]
+
+      - name: "Vectary"
+        url: "https://www.vectary.com/"
+        description: "Browser-based 3D for e-commerce and product visualization."
+        pricing: "Pro AI $15/mo (annual)"
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Product viz, e-commerce"
+        tags:
+          workflow: [modeling, rendering]
+          output: [product-viz]
+          platform: [web]
+          tech: [ai-generative]
+        readme_tags: ["Browser", "E-commerce"]
+
+  # ------------------------------------------------------------------
+  - slug: 3d-software-paid
+    title: "3D Software — Paid"
+    description: "Professional paid 3D software."
+    entries:
+      - name: "Cinema 4D"
+        url: "https://www.maxon.net/"
+        description: "Motion graphics and VFX DCC from Maxon."
+        pricing: "~$70/mo annual"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Motion graphics, VFX, advertising"
+        tags:
+          workflow: [modeling, animation, lighting, rendering, simulation]
+          output: [motion-graphics, film-vfx, broadcast, product-viz]
+          platform: [win, mac]
+          tech: [node-based]
+        readme_tags: ["Motion Graphics", "Mograph Module"]
+
+      - name: "Houdini"
+        url: "https://www.sidefx.com/"
+        description: "Procedural VFX DCC. Free Apprentice for learning, Indie tier available."
+        pricing: "Indie $269/yr, Free Apprentice"
+        license: "Free NC / Paid"
+        entry_type: "software"
+        best_for: "Film VFX, procedural modeling"
+        tags:
+          workflow: [modeling, simulation, fx, animation, rendering, lighting]
+          output: [film-vfx, games, motion-graphics]
+          platform: [win, mac, linux]
+          skill: [intermediate, advanced]
+          tech: [procedural, node-based, usd]
+        readme_tags: ["Procedural", "VFX"]
+
+      - name: "Maya"
+        url: "https://www.autodesk.com/products/maya/"
+        description: "Film-industry animation and VFX DCC."
+        pricing: "$255/mo (Indie $330/yr)"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Film VFX, CG animation"
+        tags:
+          workflow: [modeling, rigging, animation, simulation, rendering, lighting]
+          output: [film-vfx, broadcast, games]
+          platform: [win, mac, linux]
+          tech: [indie-license]
+        readme_tags: ["Industry Standard", "Film Animation"]
+
+      - name: "ZBrush"
+        url: "https://www.maxon.net/en/zbrush"
+        description: "Industry-standard digital sculpting from Maxon."
+        pricing: "~$27/mo annual"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Sculpting, characters"
+        tags:
+          workflow: [sculpting, modeling, texturing]
+          output: [games, film-vfx, illustration]
+          platform: [win, mac, ipad]
+        readme_tags: ["Industry Standard", "iPad Version"]
+
+      - name: "3DCoat"
+        url: "https://3dcoat.com/"
+        description: "Voxel sculpting, retopology, and UV toolkit."
+        pricing: "EUR 299 perpetual"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Voxel sculpting, retopology"
+        tags:
+          workflow: [sculpting, retopo, uv, texturing]
+          output: [games, film-vfx]
+          platform: [win, mac, linux]
+          tech: [perpetual]
+        readme_tags: ["Voxel Sculpt", "Retopo"]
+
+      - name: "Marvelous Designer"
+        url: "https://www.marvelousdesigner.com/"
+        description: "Cloth simulation and garment design software."
+        pricing: "Subscription"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Cloth simulation, garment design"
+        tags:
+          workflow: [modeling, simulation]
+          output: [film-vfx, games, illustration]
+          platform: [win, mac]
+          tech: [physics]
+        readme_tags: ["Garment Sim", "Cloth"]
+
+      - name: "Clo3D"
+        url: "https://www.clo3d.com/"
+        description: "Fashion-focused garment design and cloth simulation."
+        pricing: "Subscription"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Fashion design, cloth simulation"
+        tags:
+          workflow: [modeling, simulation]
+          output: [product-viz, illustration]
+          platform: [win, mac]
+          tech: [physics]
+        readme_tags: ["Fashion", "Garment Sim"]
+
+      - name: "Substance 3D Modeler"
+        url: "https://www.adobe.com/products/substance3d/apps/modeler.html"
+        description: "Adobe's VR and desktop sculpting tool."
+        pricing: "$49.99/mo collection"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "VR/desktop sculpting"
+        tags:
+          workflow: [sculpting, modeling]
+          output: [generalist]
+          platform: [win]
+          tech: [xr, subscription]
+        readme_tags: ["VR Sculpt", "Adobe Suite"]
+
+      - name: "3ds Max"
+        url: "https://www.autodesk.com/products/3ds-max/"
+        description: "Autodesk DCC focused on arch-viz and games."
+        pricing: "$255/mo (Indie $330/yr)"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Arch-viz, games, film VFX"
+        tags:
+          workflow: [modeling, animation, rendering, lighting]
+          output: [archviz, games, film-vfx]
+          platform: [win]
+          tech: [indie-license]
+        readme_tags: ["Arch-Viz", "Windows-only"]
+
+      - name: "Moi3D"
+        url: "http://moi3d.com/"
+        description: "NURBS modeler for industrial and product design."
+        pricing: "$295 perpetual (90-day trial)"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "NURBS modeling, industrial design"
+        tags:
+          workflow: [modeling]
+          output: [product-viz, archviz]
+          platform: [win, mac]
+          tech: [perpetual]
+        readme_tags: ["NURBS", "Perpetual License"]
+
+      - name: "Nomad Sculpt"
+        url: "https://nomadsculpt.com/"
+        description: "Mobile digital sculpting for iPad and Android."
+        pricing: "$19.99 one-time (mobile)"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Mobile sculpting"
+        tags:
+          workflow: [sculpting, modeling]
+          output: [illustration, games]
+          platform: [ios, ipad, android]
+          tech: [perpetual, stylus-support, ipad-native]
+        readme_tags: ["iPad Sculpt", "One-time Purchase"]
+
+  # ------------------------------------------------------------------
+  - slug: cad-software
+    title: "CAD Software"
+    description: "Computer-aided design tools."
+    entries:
+      - name: "FreeCAD"
+        url: "https://www.freecad.org/"
+        description: "Free open-source parametric CAD."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Parametric CAD, engineering"
+        tags:
+          workflow: [modeling]
+          output: [product-viz, scientific-viz]
+          platform: [win, mac, linux]
+        readme_tags: ["Parametric", "Open Source"]
+
+      - name: "Onshape Free"
+        url: "https://www.onshape.com/en/products/free"
+        description: "Cloud-based CAD with free hobbyist tier (public projects)."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Collaborative CAD, hobbyists"
+        tags:
+          workflow: [modeling]
+          output: [product-viz]
+          platform: [web, cloud]
+          tech: [collaborative]
+        readme_tags: ["Cloud CAD", "Collaborative"]
+
+      - name: "Fusion 360 Personal"
+        url: "https://www.autodesk.com/products/fusion-360/personal"
+        description: "Autodesk's CAD/CAM free for personal hobbyist use."
+        license: "Free NC"
+        entry_type: "software"
+        best_for: "Hobbyist CAD, 3D printing"
+        tags:
+          workflow: [modeling]
+          output: [product-viz]
+          platform: [win, mac]
+        readme_tags: ["CAD/CAM", "Personal Free"]
+
+      - name: "OpenSCAD"
+        url: "https://openscad.org/"
+        description: "Code-based CAD for parametric design."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Script-based CAD"
+        tags:
+          workflow: [modeling]
+          output: [product-viz, scientific-viz]
+          platform: [win, mac, linux]
+          tech: [procedural]
+        readme_tags: ["Script-Based", "Parametric"]
+
+      - name: "LibreCAD"
+        url: "https://librecad.org/"
+        description: "Free open-source 2D CAD."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "2D drafting"
+        tags:
+          workflow: [modeling]
+          output: [archviz, product-viz]
+          platform: [win, mac, linux]
+        readme_tags: ["2D CAD", "Drafting"]
+
+      - name: "AutoCAD"
+        url: "https://www.autodesk.com/products/autocad"
+        description: "Industry-standard 2D/3D CAD."
+        pricing: "$210/mo"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Architecture, engineering, drafting"
+        tags:
+          workflow: [modeling]
+          output: [archviz, product-viz]
+          platform: [win, mac]
+        readme_tags: ["Industry Standard", "2D/3D Drafting"]
+
+      - name: "SolidWorks"
+        url: "https://www.solidworks.com/"
+        description: "Mechanical CAD for engineers."
+        pricing: "$2,820/yr"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Mechanical engineering"
+        tags:
+          workflow: [modeling, simulation]
+          output: [product-viz]
+          platform: [win]
+        readme_tags: ["Mechanical CAD", "Simulation"]
+
+      - name: "CATIA"
+        url: "https://www.3ds.com/products/catia"
+        description: "Dassault Systèmes CAD for aerospace and automotive."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Aerospace, automotive"
+        tags:
+          workflow: [modeling, simulation]
+          output: [product-viz]
+          platform: [win]
+        readme_tags: ["Aerospace", "Automotive"]
+
+      - name: "Rhino"
+        url: "https://www.rhino3d.com/"
+        description: "NURBS-focused 3D modeling for architecture and product design."
+        pricing: "$995 perpetual"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "NURBS modeling, architecture"
+        tags:
+          workflow: [modeling]
+          output: [archviz, product-viz]
+          platform: [win, mac]
+          tech: [perpetual]
+        readme_tags: ["NURBS", "Grasshopper"]
+
+      - name: "GrabCAD"
+        url: "https://grabcad.com"
+        description: "Community CAD model library."
+        entry_type: "reference"
+
+      - name: "Thingiverse"
+        url: "https://thingiverse.com"
+        description: "3D-printing model community."
+        entry_type: "reference"
+
+  # ------------------------------------------------------------------
+  - slug: 2d-animation-software
+    title: "2D & Animation Software"
+    description: "Digital painting, illustration, 2D animation."
+    entries:
+      - name: "Krita"
+        url: "https://krita.org/"
+        description: "Free open-source digital painting. Brush engine, animation, HDR."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Digital painting, concept art, 2D animation"
+        tags:
+          workflow: [concept, animation]
+          output: [illustration, motion-graphics]
+          platform: [win, mac, linux]
+          tech: [opensource-alt, stylus-support]
+        readme_tags: ["Digital Painting", "Animation"]
+
+      - name: "Clip Studio Paint"
+        url: "https://www.clipstudio.net/"
+        description: "Industry-standard illustration and comics with animation timeline."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Manga, illustration, frame-by-frame animation"
+        tags:
+          workflow: [concept, animation]
+          output: [illustration]
+          platform: [win, mac, ipad, android]
+          tech: [stylus-support]
+        readme_tags: ["Manga", "Frame-by-Frame"]
+
+      - name: "Procreate"
+        url: "https://procreate.com/"
+        description: "iPad painting app. Procreate Dreams for animation."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Mobile illustration, storyboards"
+        tags:
+          workflow: [concept, storyboard, animation]
+          output: [illustration]
+          platform: [ipad]
+          tech: [perpetual, ipad-native, stylus-support]
+        readme_tags: ["iPad-native", "Storyboarding"]
+
+      - name: "Aseprite"
+        url: "https://www.aseprite.org/"
+        description: "Pixel art editor with animation tools ([source on GitHub](https://github.com/aseprite/aseprite))."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Pixel art, sprite animation, game assets"
+        tags:
+          workflow: [concept, animation]
+          output: [games, illustration]
+          platform: [win, mac, linux]
+        readme_tags: ["Pixel Art", "Sprite Animation"]
+
+      - name: "Toon Boom Harmony"
+        url: "https://www.toonboom.com/products/harmony"
+        description: "Professional 2D animation (studio standard)."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "TV animation, feature film"
+        tags:
+          workflow: [animation]
+          output: [broadcast, film-vfx]
+          platform: [win, mac]
+        readme_tags: ["Studio Standard", "TV Animation"]
+
+      - name: "Toon Boom Storyboard Pro"
+        url: "https://www.toonboom.com/products/storyboard-pro"
+        description: "Industry-standard storyboarding software."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Pre-production, animatics"
+        tags:
+          workflow: [storyboard]
+          output: [film-vfx, broadcast]
+          platform: [win, mac]
+        readme_tags: ["Storyboarding", "Animatics"]
+
+      - name: "Moho (Smith Micro)"
+        url: "https://moho.lostmarble.com/"
+        description: "2D vector and bone-rigged animation."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Character animation, motion graphics"
+        tags:
+          workflow: [animation, rigging]
+          output: [broadcast, motion-graphics]
+          platform: [win, mac]
+        readme_tags: ["Bone Rigging", "Vector Animation"]
+
+      - name: "Pixel Composer"
+        url: "https://makham.itch.io/pixel-composer"
+        description: "Node-based 2D VFX and compositing for pixel art."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Pixel art effects, game VFX"
+        tags:
+          workflow: [fx, compositing]
+          output: [games]
+          platform: [win]
+          tech: [node-based]
+        readme_tags: ["Node-based", "Pixel VFX"]
+
+      - name: "OpenToonz"
+        url: "https://opentoonz.github.io/e/"
+        description: "Studio Ghibli's animation engine, open-sourced."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Traditional 2D animation"
+        tags:
+          workflow: [animation]
+          output: [film-vfx, broadcast]
+          platform: [win, mac, linux]
+        readme_tags: ["Ghibli Pipeline", "Traditional 2D"]
+
+      - name: "Pencil2D"
+        url: "https://www.pencil2d.org/"
+        description: "Free lightweight 2D animation."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Simple hand-drawn animation"
+        tags:
+          workflow: [animation]
+          output: [illustration, generalist]
+          platform: [win, mac, linux]
+          skill: [beginner]
+        readme_tags: ["Lightweight", "Hand-drawn"]
+
+      - name: "Synfig Studio"
+        url: "https://www.synfig.org/"
+        description: "Free open-source 2D vector animation."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Cutout/bone animation"
+        tags:
+          workflow: [animation, rigging]
+          output: [generalist, broadcast]
+          platform: [win, mac, linux]
+        readme_tags: ["Vector", "Cutout"]
+
+      - name: "Rive"
+        url: "https://rive.app/"
+        description: "Interactive animation for apps and web."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "UI animation, interactive graphics"
+        tags:
+          workflow: [animation, rigging]
+          output: [motion-graphics, xr]
+          platform: [web, mac, win]
+          tech: [real-time, collaborative]
+        readme_tags: ["Interactive", "UI Animation"]
+
+      - name: "Cavalry"
+        url: "https://cavalry.scenegroup.co/"
+        description: "Procedural 2D motion design (After Effects alternative)."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Data-driven motion graphics"
+        tags:
+          workflow: [animation, fx]
+          output: [motion-graphics]
+          platform: [win, mac]
+          tech: [procedural, node-based]
+        readme_tags: ["Procedural", "Data-Driven"]
+
+      # related references
+      - name: "Krita Resources"
+        url: "https://krita.org/en/resources/"
+        description: "Official brushes, textures, templates."
+        entry_type: "reference"
+
+      - name: "Clip Studio Assets"
+        url: "https://assets.clip-studio.com/en-us/"
+        description: "Brushes, materials, 3D models, auto-actions."
+        entry_type: "reference"
+
+      - name: "Procreate Handbook"
+        url: "https://procreate.com/handbook"
+        description: "Official guide and brush library."
+        entry_type: "reference"
+
+      - name: "Toon Boom Learn"
+        url: "https://learn.toonboom.com/"
+        description: "Official tutorials and documentation."
+        entry_type: "reference"
+
+      - name: "Aseprite Docs"
+        url: "https://www.aseprite.org/docs/"
+        description: "Official documentation and scripting API."
+        entry_type: "reference"
+
+      - name: "OpenToonz GitHub"
+        url: "https://github.com/opentoonz/opentoonz"
+        description: "Source, plugins, and documentation."
+        entry_type: "reference"
+
+  # ------------------------------------------------------------------
+  - slug: vfx-compositing-software
+    title: "VFX & Compositing Software"
+    description: "VFX, compositing, and real-time simulation tools."
+    entries:
+      - name: "Nuke (Foundry)"
+        url: "https://www.foundry.com/products/nuke-family/nuke"
+        description: "Industry-standard compositing. Non-Commercial free version available."
+        license: "Free NC / Paid"
+        entry_type: "software"
+        best_for: "Film VFX compositing"
+        tags:
+          workflow: [compositing]
+          output: [film-vfx, broadcast]
+          platform: [win, mac, linux]
+          tech: [node-based]
+        readme_tags: ["Industry Standard", "Node-based"]
+
+      - name: "DaVinci Resolve Fusion"
+        url: "https://www.blackmagicdesign.com/products/davinciresolve/fusion"
+        description: "Node-based compositing, free with Resolve."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Compositing, VFX"
+        tags:
+          workflow: [compositing, fx]
+          output: [film-vfx, broadcast, motion-graphics]
+          platform: [win, mac, linux]
+          tech: [node-based]
+        readme_tags: ["Node-based", "Free with Resolve"]
+
+      - name: "Natron"
+        url: "https://natrongithub.github.io/"
+        description: "Free open-source node compositor, Nuke-like."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Indie VFX compositing"
+        tags:
+          workflow: [compositing]
+          output: [film-vfx, generalist]
+          platform: [win, mac, linux]
+          tech: [node-based, opensource-alt]
+        readme_tags: ["Node-based", "Nuke-like"]
+
+      - name: "EmberGen"
+        url: "https://jangafx.com/software/embergen/"
+        description: "Real-time volumetric fluid sim (fire, smoke, explosions)."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Game VFX, real-time effects"
+        tags:
+          workflow: [fx, simulation]
+          output: [games, motion-graphics, film-vfx]
+          platform: [win]
+          tech: [real-time, gpu]
+        readme_tags: ["Real-time Sim", "Fire/Smoke"]
+
+      - name: "LiquiGen"
+        url: "https://jangafx.com/software/liquigen/"
+        description: "Real-time liquid simulation."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Game fluid effects"
+        tags:
+          workflow: [fx, simulation]
+          output: [games, film-vfx]
+          platform: [win]
+          tech: [real-time, gpu]
+        readme_tags: ["Real-time Sim", "Liquids"]
+
+      - name: "GeoGen (JangaFX)"
+        url: "https://jangafx.com/software/geogen/"
+        description: "Real-time terrain generation."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Game environments"
+        tags:
+          workflow: [modeling]
+          output: [games, film-vfx]
+          platform: [win]
+          tech: [real-time, procedural]
+        readme_tags: ["Terrain Gen", "Real-time"]
+
+      - name: "After Effects"
+        url: "https://www.adobe.com/products/aftereffects.html"
+        description: "Motion graphics and compositing."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Motion design, light VFX"
+        tags:
+          workflow: [compositing, animation, fx]
+          output: [motion-graphics, broadcast]
+          platform: [win, mac]
+          tech: [subscription]
+        readme_tags: ["Motion Graphics", "Adobe Suite"]
+
+      - name: "Nukepedia"
+        url: "https://www.nukepedia.com/"
+        description: "Free Nuke gizmos, tools, plugins, tutorials."
+        entry_type: "reference"
+
+      - name: "JangaFX Docs"
+        url: "https://docs.jangafx.com/"
+        description: "Official EmberGen/LiquiGen documentation and how-to guides."
+        entry_type: "reference"
+
+      - name: "ActionVFX"
+        url: "https://www.actionvfx.com/"
+        description: "VFX stock elements (explosions, fire, debris)."
+        entry_type: "reference"
+
+  # ------------------------------------------------------------------
+  - slug: render-engines
+    title: "Render Engines"
+    description: "Production render engines across CPU, GPU, biased, and unbiased path tracers."
+    entries:
+      - name: "Redshift (Maxon)"
+        url: "https://www.maxon.net/en/redshift"
+        description: "GPU-biased production renderer."
+        pricing: "Included with Maxon One"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Production rendering, motion graphics"
+        tags:
+          workflow: [rendering]
+          output: [motion-graphics, film-vfx, broadcast]
+          platform: [win, mac, linux]
+          tech: [gpu]
+        readme_tags: ["GPU-biased", "Production"]
+
+      - name: "Octane (OTOY)"
+        url: "https://home.otoy.com/render/octane-render/"
+        description: "GPU unbiased renderer with free tier."
+        pricing: "Free tier available"
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Photoreal, arch-viz"
+        tags:
+          workflow: [rendering]
+          output: [archviz, product-viz, film-vfx]
+          platform: [win, mac, linux]
+          tech: [gpu, path-tracing]
+        readme_tags: ["GPU Unbiased", "Photoreal"]
+
+      - name: "Arnold (Autodesk)"
+        url: "https://arnoldrenderer.com/"
+        description: "CPU/GPU hybrid production renderer, bundled with Maya/3ds Max."
+        pricing: "With Maya/3ds Max sub"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Film VFX, lighting"
+        tags:
+          workflow: [rendering, lighting]
+          output: [film-vfx]
+          platform: [win, mac, linux]
+          tech: [path-tracing, gpu]
+        readme_tags: ["Film-grade", "CPU/GPU Hybrid"]
+
+      - name: "V-Ray (Chaos)"
+        url: "https://www.chaos.com/vray"
+        description: "CPU/GPU hybrid renderer for arch-viz and product viz."
+        pricing: "~$60/mo"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Arch-viz, product viz"
+        tags:
+          workflow: [rendering]
+          output: [archviz, product-viz]
+          platform: [win, mac]
+          tech: [path-tracing, gpu]
+        readme_tags: ["Arch-Viz", "Industry Standard"]
+
+      - name: "Corona (Chaos)"
+        url: "https://www.chaos.com/corona"
+        description: "CPU renderer for arch-viz and interiors."
+        pricing: "~$30/mo"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Arch-viz, interiors"
+        tags:
+          workflow: [rendering]
+          output: [archviz]
+          platform: [win]
+          tech: [path-tracing]
+        readme_tags: ["CPU-only", "Interiors"]
+
+      - name: "Cycles"
+        url: "https://www.cycles-renderer.org/"
+        description: "CPU/GPU path tracer. Bundled free with Blender."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "General purpose"
+        tags:
+          workflow: [rendering]
+          output: [generalist, film-vfx, archviz]
+          platform: [win, mac, linux]
+          tech: [path-tracing, gpu, opensource-alt]
+        readme_tags: ["Open Source", "Path-tracing"]
+
+      - name: "Karma (SideFX)"
+        url: "https://www.sidefx.com/products/karma/"
+        description: "CPU/GPU USD-native renderer, bundled with Houdini."
+        pricing: "With Houdini license"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Film VFX, USD pipeline"
+        tags:
+          workflow: [rendering]
+          output: [film-vfx]
+          platform: [win, mac, linux]
+          tech: [path-tracing, usd, gpu]
+        readme_tags: ["USD-native", "Houdini"]
+
+      - name: "RenderMan (Pixar)"
+        url: "https://renderman.pixar.com/"
+        description: "Pixar's CPU/GPU hybrid production renderer. Free for non-commercial."
+        license: "Free NC"
+        entry_type: "software"
+        best_for: "Film production"
+        tags:
+          workflow: [rendering]
+          output: [film-vfx]
+          platform: [win, mac, linux]
+          tech: [path-tracing, gpu]
+        readme_tags: ["Free NC", "Pixar Pipeline"]
+
+      - name: "KeyShot (Luxion)"
+        url: "https://www.keyshot.com/"
+        description: "CPU real-time ray tracing for product visualization."
+        pricing: "$995+ perpetual"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Product viz, industrial design"
+        tags:
+          workflow: [rendering]
+          output: [product-viz]
+          platform: [win, mac]
+          tech: [real-time, ray-tracing, perpetual]
+        readme_tags: ["Product Viz", "Real-time"]
+
+      - name: "Marmoset Toolbag"
+        url: "https://marmoset.co/toolbag/"
+        description: "Real-time GPU renderer for game art and baking."
+        pricing: "$189 perpetual"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Game art baking, presentation"
+        tags:
+          workflow: [rendering, texturing]
+          output: [games]
+          platform: [win, mac]
+          tech: [real-time, gpu, perpetual]
+        readme_tags: ["Game Art", "Baking"]
+
+      - name: "LuxCore"
+        url: "https://luxcorerender.org/"
+        description: "Free open-source CPU/GPU unbiased renderer."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Physically accurate rendering"
+        tags:
+          workflow: [rendering]
+          output: [archviz, product-viz]
+          platform: [win, mac, linux]
+          tech: [path-tracing, opensource-alt]
+        readme_tags: ["Open Source", "Physically Accurate"]
+
+      - name: "Guerrilla Render"
+        url: "http://guerillarender.com/"
+        description: "Production renderer used on feature films."
+        license: "Free"
+        entry_type: "software"
+        best_for: "Film production"
+        tags:
+          workflow: [rendering, lighting]
+          output: [film-vfx]
+          platform: [win, linux]
+        readme_tags: ["Production", "Free"]
+
+      - name: "D5 Render"
+        url: "https://www.d5render.com/"
+        description: "Real-time GPU renderer for arch-viz."
+        pricing: "Free version available"
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Arch-viz"
+        tags:
+          workflow: [rendering]
+          output: [archviz]
+          platform: [win]
+          tech: [real-time, gpu]
+        readme_tags: ["Real-time", "Arch-Viz"]
+
+      - name: "Twinmotion (Epic)"
+        url: "https://www.twinmotion.com/"
+        description: "Real-time GPU renderer from Epic for arch-viz."
+        pricing: "Free version available"
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Arch-viz"
+        tags:
+          workflow: [rendering]
+          output: [archviz]
+          platform: [win, mac]
+          tech: [real-time, gpu]
+        readme_tags: ["Real-time", "Epic Games"]
+
+      - name: "Radeon ProRender (AMD)"
+        url: "https://www.amd.com/en/products/graphics/software/radeon-prorender.html"
+        description: "AMD's GPU path tracer, free and cross-vendor."
+        license: "Free"
+        entry_type: "software"
+        best_for: "Cross-platform, GPU-agnostic"
+        tags:
+          workflow: [rendering]
+          output: [generalist]
+          platform: [win, mac, linux]
+          tech: [path-tracing, gpu]
+        readme_tags: ["GPU-agnostic", "Free"]
+
+      # related references
+      - name: "RenderMan Community"
+        url: "https://renderman.pixar.com/community"
+        description: "Free RenderMan assets, shaders, HDRIs."
+        entry_type: "reference"
+
+      - name: "Chaos Cosmos"
+        url: "https://www.chaos.com/cosmos"
+        description: "Free V-Ray/Corona asset library (3D models, materials, HDRIs)."
+        entry_type: "reference"
+
+      - name: "Redshift Community"
+        url: "https://redshift.maxon.net/"
+        description: "Forums, shaders, resources."
+        entry_type: "reference"
+
+      - name: "Arnold Resources"
+        url: "https://arnoldrenderer.com/resources/"
+        description: "Official shaders, docs, tutorials."
+        entry_type: "reference"
+
+      - name: "OTOY Octane Render Cloud"
+        url: "https://render.otoy.com/"
+        description: "Free ORBX assets and cloud rendering."
+        entry_type: "reference"
+
+  # ------------------------------------------------------------------
+  - slug: video-editing-software
+    title: "Video Editing Software"
+    description: "NLEs and post-production software."
+    entries:
+      - name: "DaVinci Resolve"
+        url: "https://www.blackmagicdesign.com/products/davinciresolve/"
+        description: "Free professional editing, color grading, Fusion, Fairlight audio."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Color grading, editing, full post pipeline"
+        tags:
+          workflow: [editing, color-grading, compositing, audio-design]
+          output: [film-vfx, broadcast, motion-graphics]
+          platform: [win, mac, linux]
+        readme_tags: ["Free Pro", "Full Post Pipeline"]
+
+      - name: "Premiere Pro"
+        url: "https://www.adobe.com/products/premiere.html"
+        description: "Industry-standard NLE from Adobe."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Broadcast, film editing"
+        tags:
+          workflow: [editing]
+          output: [broadcast, film-vfx]
+          platform: [win, mac]
+          tech: [subscription]
+        readme_tags: ["Industry Standard", "Adobe Suite"]
+
+      - name: "Final Cut Pro"
+        url: "https://www.apple.com/final-cut-pro/"
+        description: "Apple-native NLE with magnetic timeline."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Mac-based editing"
+        tags:
+          workflow: [editing]
+          output: [broadcast, film-vfx]
+          platform: [mac]
+          tech: [perpetual]
+        readme_tags: ["Mac-only", "Magnetic Timeline"]
+
+      - name: "Kdenlive"
+        url: "https://kdenlive.org/"
+        description: "Free open-source NLE."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Linux/cross-platform editing"
+        tags:
+          workflow: [editing]
+          output: [generalist]
+          platform: [win, mac, linux]
+        readme_tags: ["Open Source", "Cross-Platform"]
+
+      - name: "Shotcut"
+        url: "https://shotcut.org/"
+        description: "Free open-source video editor."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Quick edits, beginners"
+        tags:
+          workflow: [editing]
+          output: [generalist]
+          platform: [win, mac, linux]
+          skill: [beginner]
+        readme_tags: ["Lightweight", "Beginner-Friendly"]
+
+      - name: "GoZen"
+        url: "https://gozen.voylin.com/"
+        description: "Free open-source video editor built with Godot (alpha)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Lightweight editing, Godot integration"
+        tags:
+          workflow: [editing]
+          output: [generalist, games]
+          platform: [win, mac, linux]
+        readme_tags: ["Godot-built", "Alpha"]
+
+      - name: "DaVinci Resolve Training"
+        url: "https://www.blackmagicdesign.com/products/davinciresolve/training"
+        description: "Official free training (hundreds of hours)."
+        entry_type: "reference"
+
+      - name: "Premiere Pro Learn"
+        url: "https://helpx.adobe.com/premiere-pro/tutorials.html"
+        description: "Official Adobe tutorials."
+        entry_type: "reference"
+
+  # ------------------------------------------------------------------
+  - slug: audio-software
+    title: "Audio Software"
+    description: "Audio editing, mixing, sound design, and SFX generation."
+    entries:
+      - name: "Audacity"
+        url: "https://www.audacityteam.org/"
+        description: "Free open-source audio editor and recorder."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Voice recording, SFX editing, podcast"
+        tags:
+          workflow: [audio-design, editing]
+          output: [generalist]
+          platform: [win, mac, linux]
+          skill: [beginner]
+        readme_tags: ["Open Source", "Recording"]
+
+      - name: "Adobe Audition"
+        url: "https://www.adobe.com/products/audition.html"
+        description: "Professional audio workstation."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Podcast, sound design, restoration"
+        tags:
+          workflow: [audio-design, editing]
+          output: [broadcast, film-vfx, generalist]
+          platform: [win, mac]
+          tech: [subscription]
+        readme_tags: ["Audio Restoration", "Adobe Suite"]
+
+      - name: "Reaper"
+        url: "https://www.reaper.fm/"
+        description: "Full DAW with $60 personal license."
+        pricing: "$60 personal license"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Music production, sound design"
+        tags:
+          workflow: [audio-design]
+          output: [film-vfx, broadcast, games, generalist]
+          platform: [win, mac, linux]
+          tech: [perpetual]
+        readme_tags: ["Full DAW", "Affordable"]
+
+      - name: "Fairlight"
+        url: "https://www.blackmagicdesign.com/products/davinciresolve/fairlight"
+        description: "Professional audio built into DaVinci Resolve."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Film audio post, Foley"
+        tags:
+          workflow: [audio-design, editing]
+          output: [film-vfx, broadcast]
+          platform: [win, mac, linux]
+        readme_tags: ["Film Post", "Free with Resolve"]
+
+      - name: "Soundly"
+        url: "https://getsoundly.com/"
+        description: "Desktop SFX platform with curated library and local library management."
+        pricing: "Free tier (3000+ sounds), Pro $14.99/mo"
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "SFX browsing, sound library management"
+        tags:
+          workflow: [audio-design]
+          output: [film-vfx, games, broadcast]
+          platform: [win, mac]
+        readme_tags: ["SFX Library", "Desktop"]
+
+      - name: "Bfxr"
+        url: "https://www.bfxr.net/"
+        description: "Retro and chiptune SFX generator (browser and desktop)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "8-bit game sound effects"
+        tags:
+          workflow: [audio-design]
+          output: [games]
+          platform: [web, win, mac, linux]
+        readme_tags: ["Retro/8-bit", "Generator"]
+
+      - name: "Wavewright"
+        url: "https://store.steampowered.com/app/4149720/Wavewright/"
+        description: "Modular music sandbox inspired by analog synthesizers (Early Access)."
+        license: "Free"
+        entry_type: "software"
+        best_for: "Sound design, music experimentation"
+        tags:
+          workflow: [audio-design]
+          output: [games, generalist]
+          platform: [win]
+        readme_tags: ["Modular Synth", "Early Access"]
+
+  # ------------------------------------------------------------------
+  - slug: design-software
+    title: "Design Software"
+    description: "UI/UX, vector, raster design apps."
+    entries:
+      - name: "Figma"
+        url: "https://www.figma.com/"
+        description: "Collaborative UI/UX design with free tier."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "UI design, prototyping, design systems"
+        tags:
+          workflow: [concept, reference]
+          output: [illustration, product-viz]
+          platform: [web, win, mac]
+          tech: [collaborative]
+        readme_tags: ["Collaborative", "UI/UX"]
+
+      - name: "Affinity"
+        url: "https://affinity.studio/"
+        description: "Unified vector, photo, and layout app. Free, by Canva."
+        license: "Free"
+        entry_type: "software"
+        best_for: "Illustration, photo editing, page layout"
+        tags:
+          workflow: [concept, texturing]
+          output: [illustration, generalist]
+          platform: [win, mac, ipad]
+        readme_tags: ["Free (Canva)", "Vector + Raster"]
+
+      - name: "Inkscape"
+        url: "https://inkscape.org/"
+        description: "Free open-source vector editor."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "SVG editing, illustration"
+        tags:
+          workflow: [concept]
+          output: [illustration, motion-graphics]
+          platform: [win, mac, linux]
+          tech: [opensource-alt]
+        readme_tags: ["Vector", "SVG"]
+
+      - name: "GIMP"
+        url: "https://www.gimp.org/"
+        description: "Free open-source image editor."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Texture editing, photo manipulation"
+        tags:
+          workflow: [texturing, concept]
+          output: [generalist, illustration]
+          platform: [win, mac, linux]
+          tech: [opensource-alt]
+        readme_tags: ["Open Source", "Photoshop-alt"]
+
+      - name: "Photopea"
+        url: "https://www.photopea.com/"
+        description: "Free browser-based PSD editor."
+        license: "Free"
+        entry_type: "software"
+        best_for: "Quick texture edits, no install"
+        tags:
+          workflow: [texturing]
+          output: [generalist]
+          platform: [web]
+        readme_tags: ["Browser", "PSD Support"]
+
+      - name: "Figma Community"
+        url: "https://www.figma.com/community/"
+        description: "Free templates, plugins, UI kits."
+        entry_type: "reference"
+
+      - name: "Affinity Help Center"
+        url: "https://www.affinity.studio/help/getting-started/"
+        description: "Official tutorials, guides, getting started."
+        entry_type: "reference"
+
+  # ------------------------------------------------------------------
+  - slug: viewers-file-utilities
+    title: "Viewers & File Utilities"
+    description: "Image, video, and 3D file viewers."
+    entries:
+      - name: "XnView MP"
+        url: "https://www.xnview.com/en/xnviewmp/"
+        description: "Free image viewer and converter (500+ formats)."
+        license: "Free"
+        entry_type: "software"
+        best_for: "Batch conversion, texture browsing"
+        tags:
+          workflow: [texturing, reference]
+          output: [generalist]
+          platform: [win, mac, linux]
+        readme_tags: ["Batch Convert", "500+ Formats"]
+
+      - name: "DJV"
+        url: "https://github.com/darbyjohnston/DJV"
+        description: "Free professional image sequence viewer."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "EXR/DPX playback, film pipeline"
+        tags:
+          workflow: [compositing, rendering]
+          output: [film-vfx]
+          platform: [win, mac, linux]
+        readme_tags: ["Image Sequences", "Film Pipeline"]
+
+      - name: "f3d"
+        url: "https://f3d.app/"
+        description: "Fast 3D file viewer (glTF, STL, OBJ, USD, etc.)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Quick 3D file preview"
+        tags:
+          workflow: [reference]
+          output: [generalist]
+          platform: [win, mac, linux]
+          tech: [usd]
+        readme_tags: ["3D Preview", "USD Support"]
+
+      - name: "mrViewer"
+        url: "https://mrviewer.sourceforge.io/"
+        description: "Image sequence and EXR viewer."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "VFX pipeline review"
+        tags:
+          workflow: [compositing, rendering]
+          output: [film-vfx]
+          platform: [win, mac, linux]
+        readme_tags: ["EXR Viewer", "VFX Pipeline"]
+
+      - name: "glb.gallery"
+        url: "https://glb.gallery"
+        description: "Interactive 3D model gallery builder from GLB files, embeddable."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "3D portfolio, model showcase"
+        tags:
+          workflow: [reference]
+          output: [generalist, xr]
+          platform: [web]
+        readme_tags: ["Embeddable", "GLB"]
+
+      - name: "OpenEXR Viewer"
+        url: "https://github.com/AcademySoftwareFoundation/openexr"
+        description: "Official EXR tools."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "EXR inspection"
+        tags:
+          workflow: [compositing, rendering]
+          output: [film-vfx]
+          platform: [win, mac, linux]
+        readme_tags: ["Official EXR", "ASWF"]
+
+  # ------------------------------------------------------------------
+  - slug: game-engines-free-oss
+    title: "Game Engines — Free & Open Source"
+    description: "Free and open-source game engines."
+    entries:
+      - name: "Godot 4"
+        url: "https://godotengine.org/"
+        description: "MIT-licensed 2D/3D engine. GDScript, C#, C++."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "2D/3D indie games, MIT-licensed"
+        tags:
+          workflow: [modeling, animation, rendering]
+          output: [games]
+          platform: [win, mac, linux]
+          tech: [opensource-alt, real-time, gpu]
+        readme_tags: ["MIT-licensed", "2D + 3D"]
+
+      - name: "Bevy"
+        url: "https://bevyengine.org/"
+        description: "Rust data-driven ECS game engine."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "ECS architecture, data-driven games"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+          tech: [opensource-alt, real-time]
+        readme_tags: ["Rust", "ECS"]
+
+      - name: "Defold"
+        url: "https://defold.com/"
+        description: "Lua-based 2D mobile game engine by King."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "2D mobile games"
+        tags:
+          output: [games]
+          platform: [win, mac, linux, ios, android]
+        readme_tags: ["2D Mobile", "King (Candy Crush)"]
+
+      - name: "Stride"
+        url: "https://www.stride3d.net/"
+        description: "C# 3D game engine (formerly Xenko)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "3D games"
+        tags:
+          output: [games]
+          platform: [win]
+          tech: [real-time]
+        readme_tags: ["C#", "3D"]
+
+      - name: "Flax Engine"
+        url: "https://flaxengine.com/"
+        description: "High-fidelity 3D engine. Free for small studios."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "High-fidelity 3D, free for small studios"
+        tags:
+          output: [games]
+          platform: [win, linux]
+          tech: [real-time, gpu]
+        readme_tags: ["High-Fidelity", "C# + C++"]
+
+      - name: "O3DE"
+        url: "https://o3de.org/"
+        description: "AAA-grade Linux Foundation open-source engine."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "AAA-grade, Linux Foundation"
+        tags:
+          output: [games]
+          platform: [win, linux]
+          tech: [real-time, gpu]
+        readme_tags: ["AAA-grade", "Linux Foundation"]
+
+      - name: "Fyrox"
+        url: "https://fyrox.rs/"
+        description: "Rust 3D engine with scene editor."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "3D games with scene editor"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+        readme_tags: ["Rust", "Scene Editor"]
+
+      - name: "Cocos Creator"
+        url: "https://www.cocos.com/en/creator"
+        description: "TypeScript mobile/web game engine."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Mobile/web games (huge in China)"
+        tags:
+          output: [games]
+          platform: [web, ios, android]
+        readme_tags: ["Mobile/Web", "TypeScript"]
+
+      - name: "Raylib"
+        url: "https://www.raylib.com/"
+        description: "Minimal C library for learning game programming."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Learning game programming, no engine overhead"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+          skill: [beginner, intermediate]
+        readme_tags: ["Library (not engine)", "C"]
+
+      - name: "MonoGame"
+        url: "https://monogame.net/"
+        description: "C# XNA successor (Celeste, Stardew Valley)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "XNA successor"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+        readme_tags: ["XNA Successor", "C#"]
+
+      - name: "FNA"
+        url: "https://fna-xna.github.io/"
+        description: "C# XNA reimplementation for ports."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "XNA reimplementation for ports"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+        readme_tags: ["XNA Port", "Shipping Games"]
+
+      - name: "Heaps.io"
+        url: "https://heaps.io/"
+        description: "Haxe engine. Dead Cells, Northgard."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Shipping 2D/3D indie games"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+        readme_tags: ["Haxe", "Dead Cells"]
+
+      - name: "Love2D"
+        url: "https://love2d.org/"
+        description: "Lua 2D game framework."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "2D prototyping, game jams"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+        readme_tags: ["Lua", "Jam-Friendly"]
+
+      - name: "Solar2D"
+        url: "https://solar2d.com/"
+        description: "Lua 2D mobile framework (formerly Corona SDK)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "2D mobile games"
+        tags:
+          output: [games]
+          platform: [win, mac, ios, android]
+        readme_tags: ["2D Mobile", "Lua"]
+
+      - name: "Macroquad"
+        url: "https://macroquad.rs/"
+        description: "Rust minimal 2D/3D with WASM support."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Minimal 2D/3D, WASM support"
+        tags:
+          output: [games]
+          platform: [win, mac, linux, web]
+        readme_tags: ["Rust", "WASM"]
+
+      - name: "Ebitengine"
+        url: "https://ebitengine.org/"
+        description: "Go 2D game engine."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Simple 2D games"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+        readme_tags: ["Go", "2D"]
+
+      - name: "Armory3D"
+        url: "https://armory3d.org/"
+        description: "Blender-integrated Haxe game engine."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Blender-integrated game engine"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+          tech: [blender-addon]
+        readme_tags: ["Blender-Integrated", "Haxe"]
+
+  # ------------------------------------------------------------------
+  - slug: game-engines-commercial
+    title: "Game Engines — Commercial Free Tiers"
+    description: "Commercial engines with generous free tiers."
+    entries:
+      - name: "Unreal Engine 5"
+        url: "https://www.unrealengine.com/"
+        description: "AAA engine from Epic. Free until $1M revenue, then royalty."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "AAA, film, virtual production"
+        tags:
+          workflow: [modeling, animation, rendering, fx]
+          output: [games, film-vfx]
+          platform: [win, mac, linux]
+          tech: [real-time, gpu, ray-tracing]
+        readme_tags: ["AAA", "Virtual Production"]
+
+      - name: "Unity 6"
+        url: "https://unity.com/"
+        description: "Cross-platform engine with massive asset store ecosystem."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Mobile, AR/VR, cross-platform"
+        tags:
+          output: [games, xr]
+          platform: [win, mac, linux, ios, android, web]
+          tech: [real-time, gpu]
+        readme_tags: ["Cross-Platform", "XR"]
+
+      - name: "GameMaker"
+        url: "https://gamemaker.io/"
+        description: "GML-based 2D engine (Undertale, Hotline Miami)."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "2D games"
+        tags:
+          output: [games]
+          platform: [win, mac]
+        readme_tags: ["2D Focus", "Indie Proven"]
+
+      - name: "Construct 3"
+        url: "https://www.construct.net/"
+        description: "Browser-based no-code 2D engine with visual scripting."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "No-code 2D games, browser-based"
+        tags:
+          output: [games]
+          platform: [web]
+          skill: [beginner]
+        readme_tags: ["No-code", "Browser"]
+
+      - name: "GDevelop"
+        url: "https://gdevelop.io/"
+        description: "Open-source event-based no-code 2D."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Open-source no-code 2D"
+        tags:
+          output: [games]
+          platform: [win, mac, linux, web]
+          skill: [beginner]
+        readme_tags: ["No-code", "Open Source"]
+
+      - name: "RPG Maker MZ"
+        url: "https://www.rpgmakerweb.com/"
+        description: "JavaScript-based RPG creation."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "RPG creation"
+        tags:
+          output: [games]
+          platform: [win, mac]
+        readme_tags: ["RPG Focus", "JavaScript"]
+
+      - name: "Ren'Py"
+        url: "https://www.renpy.org/"
+        description: "Python visual novel engine (industry standard)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Visual novels"
+        tags:
+          output: [games]
+          platform: [win, mac, linux]
+        readme_tags: ["Visual Novels", "Industry Standard"]
+
+      - name: "CryEngine"
+        url: "https://www.cryengine.com/"
+        description: "High-fidelity 3D engine, pay-what-you-want."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "High-fidelity 3D"
+        tags:
+          output: [games]
+          platform: [win]
+          tech: [real-time, gpu]
+        readme_tags: ["High-Fidelity", "PWYW"]
+
+      - name: "PlayCanvas"
+        url: "https://playcanvas.com/"
+        description: "JavaScript browser-based 3D engine."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Browser-based 3D games"
+        tags:
+          output: [games, xr]
+          platform: [web]
+          tech: [real-time, collaborative]
+        readme_tags: ["Browser-Based", "JavaScript"]

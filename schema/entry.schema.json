@@ -1,0 +1,104 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://3d.devanshutak.xyz/schema/entry.schema.json",
+  "title": "3d_resources entry",
+  "description": "Single resource entry (software, tool, tutorial, asset source, etc.)",
+  "type": "object",
+  "required": ["name", "url", "description"],
+  "additionalProperties": false,
+  "properties": {
+    "name": { "type": "string", "minLength": 1 },
+    "url": { "type": "string", "format": "uri" },
+    "description": { "type": "string", "minLength": 1, "maxLength": 300 },
+    "pricing": { "type": "string" },
+    "best_for": { "type": "string" },
+    "license": {
+      "type": ["string", "null"],
+      "enum": ["Open Source", "Free", "Free NC", "Freemium", "Paid", null]
+    },
+    "entry_type": {
+      "type": "string",
+      "enum": [
+        "software",
+        "asset-source",
+        "marketplace",
+        "tool",
+        "plugin",
+        "tutorial",
+        "channel",
+        "community",
+        "reference",
+        "inspiration"
+      ]
+    },
+    "tags": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "workflow": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "concept", "reference", "storyboard", "modeling", "sculpting",
+              "retopo", "uv", "texturing", "material-authoring", "rigging",
+              "skinning", "animation", "mocap", "simulation", "fx", "lighting",
+              "rendering", "compositing", "editing", "color-grading", "audio-design"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "output": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "games", "film-vfx", "broadcast", "archviz", "product-viz",
+              "motion-graphics", "illustration", "xr", "scientific-viz", "generalist"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "platform": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["win", "mac", "linux", "web", "ios", "ipad", "android", "cloud"]
+          },
+          "uniqueItems": true
+        },
+        "skill": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["beginner", "intermediate", "advanced"]
+          },
+          "uniqueItems": true
+        },
+        "tech": {
+          "type": "array",
+          "items": { "type": "string" },
+          "uniqueItems": true
+        }
+      }
+    },
+    "readme_tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "maxItems": 2
+    },
+    "notes": { "type": "string" },
+    "dual_listed_in": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "priority": { "type": "integer" },
+    "deprecated": { "type": "boolean" },
+    "version_sensitive": { "type": "boolean" },
+    "pricing_last_verified": {
+      "type": "string",
+      "format": "date"
+    }
+  }
+}

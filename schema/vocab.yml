@@ -1,0 +1,106 @@
+# Controlled vocabularies for 3d_resources entries
+# Source of truth. Keep in sync with entry.schema.json enum values.
+
+license:
+  - Open Source    # OSI-approved or similar (GPL, MIT, Apache, etc.)
+  - Free           # Free closed-source, no commercial restriction
+  - Free NC        # Free non-commercial only
+  - Freemium       # Free tier + paid upgrades
+  - Paid           # Paid-only (purchase or subscription)
+  # null allowed for tutorials/references where license is inapplicable
+
+entry_type:
+  - software         # DCC, engine, standalone app (in §12 table + possibly listed elsewhere)
+  - asset-source     # Site providing downloadable assets (Polyhaven, Quixel)
+  - marketplace      # Asset/plugin marketplace (Fab, Gumroad, Cubebrush)
+  - tool             # Small utility, CLI, or web tool
+  - plugin           # Addon/extension to a host DCC or engine
+  - tutorial         # Course / tutorial series / article
+  - channel          # YouTube, Patreon, creator hub
+  - community        # Forum, subreddit, Discord
+  - reference        # Documentation, spec, standard (USD docs, etc.)
+  - inspiration      # Showcase / portfolio hub
+
+workflow:
+  - concept
+  - reference
+  - storyboard
+  - modeling
+  - sculpting
+  - retopo
+  - uv
+  - texturing
+  - material-authoring
+  - rigging
+  - skinning
+  - animation
+  - mocap
+  - simulation
+  - fx
+  - lighting
+  - rendering
+  - compositing
+  - editing
+  - color-grading
+  - audio-design
+
+output:
+  - games
+  - film-vfx
+  - broadcast
+  - archviz
+  - product-viz
+  - motion-graphics
+  - illustration
+  - xr
+  - scientific-viz
+  - generalist
+
+platform:
+  - win
+  - mac
+  - linux
+  - web
+  - ios
+  - ipad
+  - android
+  - cloud
+
+skill:
+  - beginner
+  - intermediate
+  - advanced
+
+# tech — freeform but curated. Common values listed for consistency.
+# New values allowed; add to this list when stable.
+tech:
+  - pbr
+  - cc0
+  - node-based
+  - procedural
+  - usd
+  - gpu
+  - real-time
+  - offline
+  - ray-tracing
+  - path-tracing
+  - raster
+  - photogrammetry
+  - gaussian-splatting
+  - nerf
+  - ai-generative
+  - smart-materials
+  - physics
+  - subscription
+  - perpetual
+  - indie-license
+  - student-free
+  - houdini-addon
+  - blender-addon
+  - unreal-plugin
+  - unity-plugin
+  - ipad-native
+  - stylus-support
+  - collaborative
+  - cloud-render
+  - opensource-alt    # open-source alternative to a paid tool

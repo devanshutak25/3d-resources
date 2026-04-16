@@ -1,0 +1,256 @@
+slug: motion-graphics-video
+title: "Motion Graphics & Video"
+description: "Motion graphics tools, inspiration, AE / Fusion learning, and video editing. Stock footage and reel music live in §1 Assets."
+
+subsections:
+  # ------------------------------------------------------------------
+  - slug: motion-graphics-channels
+    title: "Motion Graphics — YouTube Channels"
+    description: "Motion design learning channels."
+    entries:
+      - name: "Ben Marriott"
+        url: "https://www.youtube.com/@BenMarriott"
+        description: "After Effects and motion design."
+        entry_type: "channel"
+        tags: { output: [motion-graphics] }
+        readme_tags: ["AE", "Motion Design"]
+
+  # ------------------------------------------------------------------
+  - slug: motion-graphics-courses
+    title: "Motion Graphics — Courses"
+    description: "Structured motion graphics courses."
+    entries:
+      - name: "School of Motion — MoGraph Courses"
+        url: "https://www.schoolofmotion.com/"
+        description: "AE Kickstart, VFX for Motion, Expression Session, Path to MoGraph, and more."
+        license: "Paid"
+        entry_type: "tutorial"
+        tags: { output: [motion-graphics] }
+        readme_tags: ["Structured", "Mograph Focus"]
+
+  # ------------------------------------------------------------------
+  - slug: after-effects-learning
+    title: "After Effects — Learning & Templates"
+    description: "AE expressions, templates, and workflow resources."
+    entries:
+      - name: "Top 5 Expressions (graymachine)"
+        url: "http://www.graymachine.com/top-5-effects-expressions/"
+        description: "Essential AE expressions."
+        entry_type: "reference"
+        readme_tags: ["Expressions", "Essentials"]
+
+      - name: "Jitter Templates"
+        url: "https://jitter.video/templates/"
+        description: "Free motion graphics templates."
+        license: "Free"
+        entry_type: "asset-source"
+        tags: { output: [motion-graphics] }
+        readme_tags: ["Templates", "Free"]
+
+  # ------------------------------------------------------------------
+  - slug: fusion-resolve
+    title: "Fusion (DaVinci Resolve) — Learning"
+    description: "Fusion references and EXR workflow."
+    entries:
+      - name: "VFXPedia"
+        url: "https://www.steakunderwater.com/VFXPedia/96.0.243.189/index4875.html?title=Main_Page"
+        description: "Reference wiki for Fusion."
+        entry_type: "reference"
+        readme_tags: ["Wiki", "Reference"]
+
+      - name: "Multichannel EXR (Fusion forum)"
+        url: "https://forum.blackmagicdesign.com/viewtopic.php?f=22&t=39964"
+        description: "Multichannel EXR workflow in Fusion."
+        entry_type: "reference"
+        readme_tags: ["EXR", "Multichannel"]
+
+      - name: "Split EXR in Fusion"
+        url: "http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion"
+        description: "Split EXR in Fusion guide."
+        entry_type: "tutorial"
+        readme_tags: ["EXR", "Split"]
+
+  # ------------------------------------------------------------------
+  - slug: motion-graphics-inspiration
+    title: "Motion Graphics — Inspiration"
+    description: "Showcases, style frames, title sequences, ad references."
+    entries:
+      - name: "Motionographer"
+        url: "http://motionographer.com/"
+        description: "Motion design showcase."
+        entry_type: "inspiration"
+        readme_tags: ["Showcase", "Classic"]
+
+      - name: "Eyecannndy"
+        url: "https://eyecannndy.com/featured/"
+        description: "Visual effects and motion inspiration."
+        entry_type: "inspiration"
+        readme_tags: ["Visual Effects", "Feed"]
+
+      - name: "Ads of the World"
+        url: "https://www.adsoftheworld.com/"
+        description: "Advertising reference."
+        entry_type: "inspiration"
+        readme_tags: ["Ads", "Campaign Reference"]
+
+      - name: "Film Grab"
+        url: "https://film-grab.com/"
+        description: "Film frame reference."
+        entry_type: "inspiration"
+        readme_tags: ["Film Stills", "Reference"]
+
+      - name: "Opening Titles (Vimeo)"
+        url: "https://vimeo.com/theopeningtitles"
+        description: "Title sequence collection."
+        entry_type: "inspiration"
+        readme_tags: ["Title Sequences", "Vimeo"]
+
+      - name: "Flim AI"
+        url: "https://flim.ai/"
+        description: "Film frame search engine."
+        entry_type: "tool"
+        readme_tags: ["Film Search", "AI"]
+
+      - name: "ShotDeck"
+        url: "https://shotdeck.com/"
+        description: "Film shot reference database."
+        entry_type: "reference"
+        readme_tags: ["Shot Database", "Reference"]
+
+      - name: "PlayPhrase.me"
+        url: "https://www.playphrase.me/"
+        description: "Phrase-based film clip search."
+        entry_type: "tool"
+        readme_tags: ["Phrase Search", "Film Clips"]
+
+      - name: "John Berube"
+        url: "https://johnberube.com/"
+        description: "Motion design portfolio and resources."
+        entry_type: "inspiration"
+        readme_tags: ["Portfolio", "Resources"]
+
+      - name: "Art of the Title"
+        url: "https://artofthetitle.com/"
+        description: "Title sequence deep dives."
+        entry_type: "reference"
+        readme_tags: ["Title Sequences", "Deep Dives"]
+
+      - name: "Stash Magazine"
+        url: "https://stashmedia.tv/"
+        description: "Motion design and animation showcase."
+        entry_type: "inspiration"
+        readme_tags: ["Showcase", "Motion"]
+
+      - name: "Behance Motion"
+        url: "https://www.behance.net/galleries/motion"
+        description: "Motion design gallery."
+        entry_type: "inspiration"
+        readme_tags: ["Gallery", "Behance"]
+
+      - name: "Art of Style Frame"
+        url: "https://artofstyleframe.com/"
+        description: "Style frame showcase."
+        entry_type: "inspiration"
+        readme_tags: ["Style Frames", "Showcase"]
+
+  # ------------------------------------------------------------------
+  - slug: motion-graphics-tools
+    title: "Motion Graphics — Tools & Utilities"
+    description: "MG-specific tools and utilities."
+    entries:
+      - name: "Resolume"
+        url: "https://resolume.com/software"
+        description: "Live visuals and VJ software."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "VJ, live visuals"
+        tags: { output: [motion-graphics, broadcast], tech: [real-time] }
+        readme_tags: ["VJ", "Live Visuals"]
+
+      - name: "MadMapper"
+        url: "https://madmapper.com/"
+        description: "Projection mapping software."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Projection mapping"
+        tags: { output: [motion-graphics], tech: [real-time] }
+        readme_tags: ["Projection Mapping", "Live"]
+
+      - name: "Motion Canvas"
+        url: "https://motioncanvas.io/"
+        description: "Code-driven motion graphics (TypeScript)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Programmatic motion graphics"
+        tags: { tech: [procedural] }
+        readme_tags: ["Code-driven", "TypeScript"]
+
+      - name: "PixelCrash"
+        url: "https://www.pixelcrash.xyz/"
+        description: "Creative motion and visual tools."
+        entry_type: "tool"
+        readme_tags: ["Creative", "Visual Tools"]
+
+      - name: "Effekseer"
+        url: "https://effekseer.github.io/en/"
+        description: "Real-time VFX editor and runtime."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Game VFX particles"
+        tags: { output: [games, motion-graphics], tech: [real-time] }
+        readme_tags: ["Real-time VFX", "Games"]
+
+      - name: "Magic Animator"
+        url: "https://magicanimator.com/"
+        description: "Web-based animation creator."
+        entry_type: "software"
+        best_for: "Quick animated graphics"
+        tags: { platform: [web] }
+        readme_tags: ["Web", "Quick Anim"]
+
+      - name: "nw_wrld"
+        url: "https://github.com/aagentah/nw_wrld"
+        description: "Experimental motion tool."
+        license: "Open Source"
+        entry_type: "tool"
+        readme_tags: ["Experimental", "Open Source"]
+
+      - name: "Nukepedia Lens Engine"
+        url: "https://www.nukepedia.com/gizmos/draw/lens-engine"
+        description: "Lens simulation gizmo for Nuke."
+        entry_type: "plugin"
+        readme_tags: ["Nuke", "Lens Sim"]
+
+      - name: "CorridorKey"
+        url: "https://github.com/nikopueringer/CorridorKey"
+        description: "Corridor's keying tool (open source)."
+        license: "Open Source"
+        entry_type: "tool"
+        readme_tags: ["Keying", "Corridor"]
+
+      - name: "Sammie-Roto-2"
+        url: "https://github.com/Zarxrax/Sammie-Roto-2"
+        description: "Rotoscope tool."
+        license: "Open Source"
+        entry_type: "tool"
+        readme_tags: ["Rotoscope", "Open Source"]
+
+      - name: "Dume"
+        url: "https://rainboxlab.org/tools/dume/"
+        description: "Media encoder."
+        license: "Free"
+        entry_type: "tool"
+        readme_tags: ["Encoder", "Free"]
+
+  # ------------------------------------------------------------------
+  - slug: video-editing-courses
+    title: "Video Editing — Courses"
+    description: "Editing-specific courses."
+    entries:
+      - name: "School of Motion — Editing Bundle"
+        url: "https://www.schoolofmotion.com/"
+        description: "Editor's Essential AE Bundle and AE for Video Editors."
+        license: "Paid"
+        entry_type: "tutorial"
+        tags: { workflow: [editing] }
+        readme_tags: ["Editing + AE", "Bundle"]

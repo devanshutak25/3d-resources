@@ -1,8 +1,14 @@
 #!/bin/bash
-# Build script: converts README.md to static HTML site
-# No Jekyll, no Ruby - just Node.js (available on all Cloudflare Pages builds)
+# Build script: regenerates README.md from data/*.yml, then converts to static HTML.
+# Hybrid (c): data/ is source of truth; README.md is derived.
+# No Jekyll, no Ruby - just Node.js (available on all Cloudflare Pages builds).
 
-npm install marked
+set -e
+
+npm install marked js-yaml
+
+# Step 1: regenerate README.md from data/*.yml
+node scripts/render.js > README.md
 
 node -e "
 const { marked } = require('marked');

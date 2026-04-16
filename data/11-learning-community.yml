@@ -1,0 +1,772 @@
+slug: learning-community-industry
+title: "Learning, Community & Industry"
+description: "Cross-cutting learning hubs, communities, inspiration showcases, industry context, career data, and arch-viz."
+
+subsections:
+  # ------------------------------------------------------------------
+  - slug: youtube-motion-c4d
+    title: "YouTube Channels — Motion Graphics & Cinema 4D"
+    description: "Motion design / C4D focused creators."
+    entries:
+      - name: "Eyedesyn"
+        url: "https://www.youtube.com/channel/UCjvsD9ZJRshsmhabFFUH7aA"
+        description: "C4D motion design tutorials."
+        entry_type: "channel"
+        readme_tags: ["C4D", "Mograph"]
+      - name: "Greyscalegorilla"
+        url: "https://www.youtube.com/channel/UC64Z_7asrekIkc5h2v5tnHw"
+        description: "C4D, Redshift, materials."
+        entry_type: "channel"
+        readme_tags: ["C4D", "Redshift"]
+      - name: "Polygon Runway"
+        url: "https://www.youtube.com/channel/UCGSJevmBuDyxjLLOBNaYMGA"
+        description: "Stylized C4D illustration."
+        entry_type: "channel"
+        readme_tags: ["Stylized", "Illustration"]
+      - name: "Vincent Schwenk"
+        url: "https://www.youtube.com/channel/UCyvvQJrfsoXdgasGuuXnYIg"
+        description: "Motion design."
+        entry_type: "channel"
+        readme_tags: ["Motion", "Designer"]
+      - name: "Pwnisher"
+        url: "https://www.youtube.com/channel/UCWIfzAYHyNSyHmT2AO-54yg"
+        description: "UE5 + creative challenges."
+        entry_type: "channel"
+        readme_tags: ["UE5", "Challenges"]
+      - name: "New Plastic"
+        url: "https://www.youtube.com/channel/UCoOrpz46oBs2HJpLx7L1x6Q"
+        description: "Stylized motion design."
+        entry_type: "channel"
+        readme_tags: ["Stylized", "Mograph"]
+      - name: "Perry Cooper 3D"
+        url: "https://www.youtube.com/channel/UCY6Kqpw3gSc2DHtfsSGeYdQ"
+        description: "3D motion design."
+        entry_type: "channel"
+        readme_tags: ["3D", "Mograph"]
+      - name: "Roger Kilimanjaro"
+        url: "https://www.youtube.com/channel/UCDbxvz-8MrderjIOyQi14Uw"
+        description: "Motion design."
+        entry_type: "channel"
+        readme_tags: ["Motion Design", "YouTube"]
+      - name: "Ross Mason"
+        url: "https://www.youtube.com/channel/UCbxureadvFJVQJiqLDDFj_g"
+        description: "Motion design."
+        entry_type: "channel"
+        readme_tags: ["Motion Design", "Designer"]
+      - name: "Minh Pham"
+        url: "https://www.youtube.com/channel/UCH3pHnzD1AiSbazIw1maVFg"
+        description: "Motion design tutorials."
+        entry_type: "channel"
+        readme_tags: ["Mograph", "Tutorials"]
+      - name: "Nidia Dias"
+        url: "https://www.youtube.com/channel/UCP6-jDB6Nb96eQbR5h24A9Q"
+        description: "Stylized illustration motion."
+        entry_type: "channel"
+        readme_tags: ["Illustration", "Motion"]
+      - name: "Sketchy Visuals"
+        url: "https://www.youtube.com/channel/UCawhE5howK2EvvoE2KdqcJg"
+        description: "Visual design tutorials."
+        entry_type: "channel"
+        readme_tags: ["Visual Design", "Tutorials"]
+      - name: "Stephy Fung"
+        url: "https://www.youtube.com/channel/UC_f2mc1UX2-rDoZ7JjNLgTw"
+        description: "Stylized 3D motion."
+        entry_type: "channel"
+        readme_tags: ["Stylized", "3D Motion"]
+      - name: "Theo Kerr"
+        url: "https://www.youtube.com/channel/UCB4_J4bn8IZUFieormorBmg"
+        description: "Motion design."
+        entry_type: "channel"
+        readme_tags: ["Motion", "Designer"]
+      - name: "Josh Pierce"
+        url: "https://www.youtube.com/channel/UC6_x3t9xt8w_BRssDV4pi6A"
+        description: "Motion design."
+        entry_type: "channel"
+        readme_tags: ["Motion", "YouTube"]
+      - name: "Nick Medukha"
+        url: "https://www.youtube.com/channel/UCnn58iVRyGLSQriCm0QOmaw"
+        description: "Motion design tutorials."
+        entry_type: "channel"
+        readme_tags: ["Motion", "Tutorials"]
+      - name: "Polygonpen"
+        url: "https://www.youtube.com/c/polygonpen"
+        description: "3D motion."
+        entry_type: "channel"
+        readme_tags: ["3D", "Motion"]
+      - name: "Derek Elliott"
+        url: "https://www.youtube.com/channel/UCk7IufzS4r8v76NeWR6A3dg"
+        description: "C4D motion design."
+        entry_type: "channel"
+        readme_tags: ["C4D", "Design"]
+      - name: "John Dickinson (Motionworks)"
+        url: "https://www.youtube.com/channel/UCHN22D0BxseUPc5yklSDeGw"
+        description: "Motion design resources."
+        entry_type: "channel"
+        readme_tags: ["Motionworks", "Resources"]
+      - name: "The Rusted Pixel"
+        url: "https://www.youtube.com/channel/UCZDR4vfP841oQ7QLO_7pK0w"
+        description: "Motion design tutorials."
+        entry_type: "channel"
+        readme_tags: ["Motion", "Tutorials"]
+      - name: "CG Shortcuts"
+        url: "https://www.youtube.com/channel/UCjsFn111Z8R4eKuRpPz4ZuA"
+        description: "C4D workflow shortcuts."
+        entry_type: "channel"
+        readme_tags: ["C4D", "Shortcuts"]
+      - name: "MoGraph Mentor"
+        url: "https://www.youtube.com/channel/UC-rH7k9KoAMSHabvWnvxCXg"
+        description: "Motion design mentorship."
+        entry_type: "channel"
+        readme_tags: ["Mentorship", "Mograph"]
+      - name: "Motion Design School"
+        url: "https://www.youtube.com/channel/UC-L0yvYPpGQZD3PHDLKiUpg"
+        description: "Motion graphics courses."
+        entry_type: "channel"
+        readme_tags: ["School", "Mograph"]
+      - name: "Motion Designers Community"
+        url: "https://www.youtube.com/channel/UCBAc7qBoVh0rcDgSJ2thRog"
+        description: "Motion designers community."
+        entry_type: "channel"
+        readme_tags: ["Community", "Mograph"]
+      - name: "Paul-Guilhem Repaux"
+        url: "https://www.youtube.com/channel/UCaRh6roTnE-ZU6CbIn253xg"
+        description: "Motion design tutorials."
+        entry_type: "channel"
+        readme_tags: ["Motion", "Tutorials"]
+      - name: "Alexis Vilaca"
+        url: "https://www.youtube.com/channel/UCYtaJtRbQtpd1KEP_q0Pq9w"
+        description: "Motion design."
+        entry_type: "channel"
+        readme_tags: ["Motion", "Designer"]
+      - name: "Andrey Lebrov"
+        url: "https://www.youtube.com/channel/UCZsHHoDLK0s6r44ifx0DnXQ"
+        description: "Sci-fi motion design."
+        entry_type: "channel"
+        readme_tags: ["Sci-Fi", "Motion"]
+      - name: "Arthur Whitehead"
+        url: "https://www.youtube.com/channel/UC57vAHlfNkcz8aIhRdZrVNQ"
+        description: "Motion design."
+        entry_type: "channel"
+        readme_tags: ["Motion", "Designer"]
+
+  # ------------------------------------------------------------------
+  - slug: youtube-blender
+    title: "YouTube Channels — Blender"
+    description: "Blender-focused creators."
+    entries:
+      - name: "Blender Guru"
+        url: "https://www.youtube.com/user/AndrewPPrice"
+        description: "Classic Blender beginner+ intermediate channel (Andrew Price)."
+        entry_type: "channel"
+        readme_tags: ["Classic", "Donut Man"]
+      - name: "Grant Abbitt"
+        url: "https://www.youtube.com/c/GrantAbbitt"
+        description: "Beginner-friendly Blender tutorials."
+        entry_type: "channel"
+        tags: { skill: [beginner] }
+        readme_tags: ["Beginner", "Approachable"]
+      - name: "Ian Hubert"
+        url: "https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA"
+        description: "Lazy tutorials and cinematic shorts."
+        entry_type: "channel"
+        readme_tags: ["Cinematic Shorts", "Lazy Tuts"]
+      - name: "Ducky 3D"
+        url: "https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ"
+        description: "Stylized Blender tutorials."
+        entry_type: "channel"
+        readme_tags: ["Stylized", "Shaders"]
+      - name: "CG Geek"
+        url: "https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ"
+        description: "Blender tutorials."
+        entry_type: "channel"
+        readme_tags: ["Blender", "Tutorials"]
+      - name: "Royal Skies"
+        url: "https://www.youtube.com/channel/UC2U5mRfclG1Rrr1ztNkpGKA"
+        description: "Quick Blender tutorials."
+        entry_type: "channel"
+        readme_tags: ["Quick Tuts", "Blender"]
+      - name: "Jayanam"
+        url: "https://www.youtube.com/channel/UCs5J4GVRB8s2P4hE-O0izrg"
+        description: "Blender game art."
+        entry_type: "channel"
+        tags: { output: [games] }
+        readme_tags: ["Game Art", "Blender"]
+      - name: "Blender Official"
+        url: "https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg"
+        description: "Official Blender Foundation channel."
+        entry_type: "channel"
+        readme_tags: ["Official", "Foundation"]
+      - name: "CGMatter"
+        url: "https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg"
+        description: "Technical Blender tips."
+        entry_type: "channel"
+        readme_tags: ["Technical", "Tips"]
+      - name: "Arrimus 3D"
+        url: "https://www.youtube.com/user/Arrimus3D"
+        description: "Hard-surface modeling tutorials."
+        entry_type: "channel"
+        tags: { workflow: [modeling] }
+        readme_tags: ["Hard Surface", "Modeling"]
+
+  # ------------------------------------------------------------------
+  - slug: youtube-houdini
+    title: "YouTube Channels — Houdini"
+    description: "Houdini-focused channels."
+    entries:
+      - name: "Entagma"
+        url: "https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ"
+        description: "Advanced design and mograph."
+        entry_type: "channel"
+        readme_tags: ["Advanced", "Mograph"]
+      - name: "John Kunz"
+        url: "https://www.youtube.com/c/JohnKunz/"
+        description: "FX, coding, Redshift."
+        entry_type: "channel"
+        readme_tags: ["FX", "Weekly Streams"]
+      - name: "NineBetween"
+        url: "https://www.youtube.com/c/NineBetween/"
+        description: "Houdini beginner series (Houdini Isn't Scary)."
+        entry_type: "channel"
+        tags: { skill: [beginner] }
+        readme_tags: ["Beginner", "Approachable"]
+      - name: "Tim van Helsdingen"
+        url: "https://www.youtube.com/c/TimvanHelsdingen/"
+        description: "FX and procedural tutorials."
+        entry_type: "channel"
+        readme_tags: ["FX", "Procedural"]
+      - name: "Junichiro Horikawa"
+        url: "https://www.youtube.com/c/JunichiroHorikawa"
+        description: "Procedural and generative Houdini."
+        entry_type: "channel"
+        tags: { tech: [procedural] }
+        readme_tags: ["Generative", "Procedural"]
+      - name: "SideFX Official"
+        url: "https://www.youtube.com/channel/UCegWLyW4CYzph4dYW-gYy0g"
+        description: "SideFX's official channel."
+        entry_type: "channel"
+        readme_tags: ["Official", "SideFX"]
+      - name: "Christopher Rutledge"
+        url: "https://www.youtube.com/christopherrutledge1"
+        description: "Houdini Nerd community creator."
+        entry_type: "channel"
+        readme_tags: ["Community", "FX"]
+      - name: "Mark Fancher"
+        url: "https://www.youtube.com/@MarkFancherFX"
+        description: "FX breakdowns."
+        entry_type: "channel"
+        readme_tags: ["FX", "Breakdowns"]
+      - name: "Simon Fiedler"
+        url: "https://vimeo.com/simonfiedler"
+        description: "Mograph and Houdini on Vimeo."
+        entry_type: "channel"
+        readme_tags: ["Mograph", "Vimeo"]
+      - name: "Asis FX"
+        url: "https://www.youtube.com/c/AxisDesignerGFX/"
+        description: "FX tutorials."
+        entry_type: "channel"
+        readme_tags: ["FX", "Tutorials"]
+
+  # ------------------------------------------------------------------
+  - slug: youtube-sculpting-characters
+    title: "YouTube Channels — Sculpting & Characters"
+    description: "Character and sculpting focused creators."
+    entries:
+      - name: "Travis Davids"
+        url: "https://www.youtube.com/channel/UCniZ7Qzbv17NvoCypCzB4Ow"
+        description: "Character workflow and industry breakdowns."
+        entry_type: "channel"
+        readme_tags: ["Characters", "Pro Workflow"]
+      - name: "Travis Ragsdale"
+        url: "https://www.youtube.com/channel/UCxOJdR3lmUf9XP_ME-C9jlg"
+        description: "Sculpting tutorials."
+        entry_type: "channel"
+        tags: { workflow: [sculpting] }
+        readme_tags: ["Sculpting", "Characters"]
+      - name: "FlippedNormals"
+        url: "https://flippednormals.com/"
+        description: "Character/sculpting course platform and YouTube channel."
+        entry_type: "channel"
+        readme_tags: ["Courses", "Sculpt/Char"]
+
+  # ------------------------------------------------------------------
+  - slug: paid-tutorial-platforms
+    title: "Paid Tutorial Platforms"
+    description: "Subscription and course-based learning platforms."
+    entries:
+      - name: "3D for Designers"
+        url: "https://www.3dfordesigners.com/"
+        description: "C4D and motion design courses."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["C4D", "Mograph"]
+      - name: "Motion Design School"
+        url: "https://motiondesign.school/"
+        description: "Motion graphics courses."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Motion Graphics", "Courses"]
+      - name: "MoGraph Mentor"
+        url: "https://www.mographmentor.com/"
+        description: "3D motion design courses."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["3D Motion", "Mentorship"]
+      - name: "CG Shortcuts"
+        url: "https://cgshortcuts.com/"
+        description: "C4D workflow courses."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["C4D", "Workflow"]
+      - name: "Greyscalegorilla Plus"
+        url: "https://greyscalegorilla.com/"
+        description: "C4D and Redshift subscription."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["C4D + Redshift", "Sub"]
+      - name: "CGCookie"
+        url: "https://cgcookie.com/"
+        description: "Blender courses. $29/mo."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Blender", "$29/mo"]
+      - name: "Pluralsight"
+        url: "https://www.pluralsight.com/"
+        description: "All software, $29/mo."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Broad", "$29/mo"]
+      - name: "LearnSquared"
+        url: "https://www.learnsquared.com/"
+        description: "Professional CG courses."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Pro CG", "Courses"]
+      - name: "FlippedNormals (Platform)"
+        url: "https://flippednormals.com/"
+        description: "Sculpting and character courses."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Sculpt/Char", "Courses"]
+      - name: "Patata School"
+        url: "https://www.patataschool.com/"
+        description: "C4D and Octane courses."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["C4D + Octane", "Courses"]
+      - name: "Applied Houdini"
+        url: "http://www.appliedhoudini.com/"
+        description: "Houdini FX courses by Stephen Knipping (ILM)."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Houdini FX", "ILM"]
+      - name: "Pragmatic VFX"
+        url: "https://pragmatic-vfx.com/"
+        description: "Advanced Houdini (ILM FX TD)."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Advanced Houdini", "ILM TD"]
+      - name: "Stop Being Afraid of Houdini"
+        url: "http://www.mograph.com/stopbeingafraidofhoudini/"
+        description: "Houdini course for C4D artists."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Houdini for C4D", "Crossover"]
+      - name: "Domestika"
+        url: "https://www.domestika.org/"
+        description: "Creative arts courses."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Creative Arts", "Per-course"]
+      - name: "Wingfox"
+        url: "https://www.wingfox.com/"
+        description: "CG tutorials per course."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["CG", "Per-course"]
+      - name: "Jonathan Lindgren"
+        url: "https://jonathanlindgren.teachable.com/"
+        description: "3D design courses."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["3D Design", "Teachable"]
+
+  # ------------------------------------------------------------------
+  - slug: patreon-creators
+    title: "Patreon Creators"
+    description: "Creators on Patreon offering tutorials, files, and tips."
+    entries:
+      - name: "Merk"
+        url: "https://www.patreon.com/merkvilson"
+        description: "Patreon — Merk."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "msedov"
+        url: "https://www.patreon.com/msedov"
+        description: "Patreon — msedov."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "The French Monkey"
+        url: "https://www.patreon.com/TFMStyle"
+        description: "Patreon — The French Monkey."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "Xuxoe"
+        url: "https://www.patreon.com/xuxoe"
+        description: "Patreon — Xuxoe."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "MotionPunk"
+        url: "https://www.patreon.com/motionpunk"
+        description: "Patreon — MotionPunk."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Motion"]
+      - name: "Dusan Vukcevic"
+        url: "https://www.patreon.com/vudu"
+        description: "Patreon — Dusan Vukcevic."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "Vincent Schwenk (Patreon)"
+        url: "https://www.patreon.com/vincentschwenk"
+        description: "Patreon — Vincent Schwenk."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Motion"]
+      - name: "Entagma (Patreon)"
+        url: "https://www.patreon.com/entagma"
+        description: "Patreon — Entagma."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Houdini"]
+      - name: "Arthur Whitehead (Patreon)"
+        url: "https://www.patreon.com/arthurwhitehead"
+        description: "Patreon — Arthur Whitehead."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Motion"]
+      - name: "Philiplueck"
+        url: "https://www.patreon.com/philiplueck"
+        description: "Patreon — Philiplueck."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "Kaeptive"
+        url: "https://www.patreon.com/Kaeptive"
+        description: "Patreon — Kaeptive."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "Jesus Suarez"
+        url: "https://www.patreon.com/jssuarez"
+        description: "Patreon — Jesus Suarez."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "NewPlastic"
+        url: "https://www.patreon.com/NewPlastic"
+        description: "Patreon — NewPlastic."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Stylized"]
+      - name: "Max Salzborn"
+        url: "https://www.patreon.com/maxsalzborn"
+        description: "Patreon — Max Salzborn."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "Gonzzzalo"
+        url: "https://www.patreon.com/gonzzzalo"
+        description: "Patreon — Gonzzzalo."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Creator"]
+      - name: "Ross Mason (Patreon)"
+        url: "https://www.patreon.com/iamrossmason"
+        description: "Patreon — Ross Mason."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Motion"]
+      - name: "John Kunz (Patreon)"
+        url: "https://patreon.com/johnkunz"
+        description: "Patreon — John Kunz."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Houdini"]
+      - name: "Christopher Rutledge (Patreon)"
+        url: "https://www.patreon.com/tokyomegaplex"
+        description: "Patreon — Christopher Rutledge."
+        entry_type: "channel"
+        readme_tags: ["Patreon", "Houdini"]
+
+  # ------------------------------------------------------------------
+  - slug: communities-forums
+    title: "3D Communities & Forums"
+    description: "Cross-DCC CG communities."
+    entries:
+      - name: "3D Artists India"
+        url: "https://3dartists.in/"
+        description: "India's 3D artist community — events, resources, networking."
+        entry_type: "community"
+        readme_tags: ["India Community", "Events"]
+      - name: "ArtStation"
+        url: "https://www.artstation.com/"
+        description: "Professional portfolios."
+        entry_type: "community"
+        readme_tags: ["Portfolios", "Pro"]
+      - name: "Polycount"
+        url: "https://polycount.com/"
+        description: "Game art community."
+        entry_type: "community"
+        tags: { output: [games] }
+        readme_tags: ["Game Art", "Forum"]
+      - name: "CGSociety"
+        url: "https://cgsociety.org/"
+        description: "VFX and animation pros."
+        entry_type: "community"
+        readme_tags: ["VFX/Animation", "Pros"]
+      - name: "CGPeers"
+        url: "https://www.cgpeers.com/"
+        description: "CG community."
+        entry_type: "community"
+        readme_tags: ["CG", "Community"]
+      - name: "Agora Community"
+        url: "https://agora.community/"
+        description: "3D artists community."
+        entry_type: "community"
+        readme_tags: ["3D Artists", "Community"]
+      - name: "The 3D Artist Community (Skool)"
+        url: "https://www.skool.com/the-3d-artist-community"
+        description: "Community forum on Skool."
+        entry_type: "community"
+        readme_tags: ["Skool", "Forum"]
+      - name: "OdForce"
+        url: "https://forums.odforce.net/"
+        description: "Houdini forum."
+        entry_type: "community"
+        readme_tags: ["Houdini", "Forum"]
+      - name: "BlenderArtists"
+        url: "https://blenderartists.org/"
+        description: "Blender forum."
+        entry_type: "community"
+        readme_tags: ["Blender", "Forum"]
+      - name: "ZBrushCentral"
+        url: "https://www.zbrushcentral.com/"
+        description: "ZBrush forum."
+        entry_type: "community"
+        readme_tags: ["ZBrush", "Forum"]
+      - name: "80 Level"
+        url: "https://80.lv/"
+        description: "Industry news and tutorials."
+        entry_type: "reference"
+        readme_tags: ["Industry News", "Tutorials"]
+
+  # ------------------------------------------------------------------
+  - slug: inspiration-showcase
+    title: "3D Inspiration & Showcase"
+    description: "Showcases, portfolios, and visual reference hubs."
+    entries:
+      - name: "Farmfield (Vimeo)"
+        url: "https://vimeo.com/farmfield"
+        description: "VFX reels."
+        entry_type: "inspiration"
+        readme_tags: ["VFX Reels", "Vimeo"]
+      - name: "Toros Kose (Behance)"
+        url: "https://www.behance.net/toroskose"
+        description: "3D artist portfolio."
+        entry_type: "inspiration"
+        readme_tags: ["Behance", "3D Artist"]
+      - name: "NeilBlevins"
+        url: "http://www.neilblevins.com/"
+        description: "CG art and tutorials."
+        entry_type: "channel"
+        readme_tags: ["Pixar Artist", "Tutorials"]
+      - name: "Strange Attractors"
+        url: "http://www.3d-meier.de/"
+        description: "Mathematical 3D forms."
+        entry_type: "inspiration"
+        readme_tags: ["Math 3D", "Forms"]
+      - name: "autodestruct.com"
+        url: "http://www.autodestruct.com/"
+        description: "Concept art."
+        entry_type: "inspiration"
+        readme_tags: ["Concept Art", "Portfolio"]
+      - name: "Disney Research"
+        url: "https://www.disneyresearch.com/"
+        description: "Research publications."
+        entry_type: "reference"
+        readme_tags: ["Research", "Disney"]
+      - name: "Make 2 Digital"
+        url: "https://www.make2digital.com/"
+        description: "FUI and sci-fi concepts."
+        entry_type: "inspiration"
+        readme_tags: ["FUI", "Sci-Fi"]
+      - name: "Linkage Mechanisms"
+        url: "http://blog.rectorsquid.com/sample-linkage-mechanisms-2/"
+        description: "Mechanical animations."
+        entry_type: "reference"
+        readme_tags: ["Mechanics", "Animation"]
+      - name: "Level Sets in Production (Sony)"
+        url: "https://www.imageworks.com/sites/default/files/2023-10/levelsets-in-production-spider-man3.pdf"
+        description: "Spider-Man 3 VFX paper."
+        entry_type: "reference"
+        readme_tags: ["Paper", "VFX Production"]
+      - name: "cifraworld (Instagram)"
+        url: "https://www.instagram.com/cifraworld/"
+        description: "3D motion art."
+        entry_type: "inspiration"
+        readme_tags: ["Instagram", "Motion Art"]
+      - name: "Ben Watts (Vimeo)"
+        url: "https://vimeo.com/bwdesign"
+        description: "Motion design."
+        entry_type: "inspiration"
+        readme_tags: ["Vimeo", "Motion Design"]
+      - name: "Simon Fiedler (Vimeo)"
+        url: "https://vimeo.com/simonfiedler"
+        description: "Mograph Houdini."
+        entry_type: "inspiration"
+        readme_tags: ["Houdini Mograph", "Vimeo"]
+      - name: "ShotDeck"
+        url: "https://shotdeck.com/"
+        description: "Fully searchable movie stills."
+        entry_type: "reference"
+        readme_tags: ["Movie Stills", "Searchable"]
+      - name: "The Blueprints"
+        url: "https://www.the-blueprints.com/"
+        description: "Vehicle and object blueprints."
+        entry_type: "reference"
+        readme_tags: ["Blueprints", "Reference"]
+      - name: "Nick Taylor (MVSM)"
+        url: "http://nicholas-taylor.com/"
+        description: "Project breakdowns."
+        entry_type: "channel"
+        readme_tags: ["Breakdowns", "ManVsMachine"]
+      - name: "Cornelius Dammrich"
+        url: "https://corneliusdammrich.gumroad.com"
+        description: "Sci-fi environments."
+        entry_type: "inspiration"
+        readme_tags: ["Sci-Fi Env", "Gumroad"]
+      - name: "FX References"
+        url: "https://ref-fx.com/"
+        description: "Visual effects reference library."
+        entry_type: "reference"
+        readme_tags: ["VFX", "Reference"]
+      - name: "Before & Afters"
+        url: "https://beforesandafters.com/"
+        description: "VFX breakdowns and behind-the-scenes."
+        entry_type: "reference"
+        readme_tags: ["VFX Breakdowns", "BTS"]
+      - name: "HUDs and GUIs"
+        url: "https://www.hudsandguis.com/"
+        description: "FUI/screen graphics reference for sci-fi 3D work."
+        entry_type: "reference"
+        readme_tags: ["FUI", "Screen Graphics"]
+      - name: "Character Design References"
+        url: "https://characterdesignreferences.com/"
+        description: "Shape language and character design studies."
+        entry_type: "reference"
+        readme_tags: ["Character Design", "Shape Language"]
+
+  # ------------------------------------------------------------------
+  - slug: architecture-viz
+    title: "Architecture & Visualization"
+    description: "Arch-viz inspiration and BIM."
+    entries:
+      - name: "Contemporist"
+        url: "http://www.contemporist.com/"
+        description: "Contemporary architecture."
+        entry_type: "inspiration"
+        tags: { output: [archviz] }
+        readme_tags: ["Contemporary Arch", "Inspiration"]
+
+      - name: "Modlar"
+        url: "https://www.modlar.com/"
+        description: "Architecture inspiration."
+        entry_type: "inspiration"
+        tags: { output: [archviz] }
+        readme_tags: ["Arch Inspiration", "Curated"]
+
+      - name: "BIMobject (Arch-Viz)"
+        url: "https://www.bimobject.com/en-us"
+        description: "Free BIM objects."
+        license: "Free"
+        entry_type: "asset-source"
+        tags: { output: [archviz] }
+        readme_tags: ["BIM", "Free"]
+
+  # ------------------------------------------------------------------
+  - slug: salary-career-data
+    title: "Salary & Career Data"
+    description: "Salary data and studio review spreadsheets."
+    entries:
+      - name: "SaltyAnimators Salary Collection"
+        url: "https://docs.google.com/spreadsheets/d/1hLki-RUHJXgYj_RJKWlwUXfrWUWEi9yIcyLzEifxYrY"
+        description: "Industry salary data."
+        entry_type: "reference"
+        readme_tags: ["Salary Data", "Animation"]
+
+      - name: "Animation Studio Reviews"
+        url: "https://docs.google.com/spreadsheets/d/1aJHCQSA2dFdu4Fy__T3yDyiNqO0jMUBcku0EjKX3SZI"
+        description: "Studio review spreadsheet."
+        entry_type: "reference"
+        readme_tags: ["Studio Reviews", "Sheet"]
+
+      - name: "Job Openings Tracker"
+        url: "https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/"
+        description: "Animation/VFX jobs tracker."
+        entry_type: "reference"
+        readme_tags: ["Jobs", "Animation/VFX"]
+
+  # ------------------------------------------------------------------
+  - slug: industry-trends
+    title: "Industry Trends 2025-2026"
+    description: "Current technology and market trends in CG."
+    entries:
+      - name: "AI in Production Pipelines"
+        url: "https://www.fxguide.com/"
+        description: "AI handling roto, denoise, upres, texture drafts, matchmove cleanup. Studios (ILM, Weta, DNEG) deploying at scale."
+        entry_type: "reference"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["AI Pipeline", "Industry-wide"]
+
+      - name: "Real-Time Path Tracing"
+        url: "https://developer.nvidia.com/rtx"
+        description: "Shipping in games (Cyberpunk 2077, Alan Wake 2). RTX 50-series + DLSS 4 with neural rendering."
+        entry_type: "reference"
+        tags: { tech: [real-time, ray-tracing] }
+        readme_tags: ["Real-time RT", "Neural"]
+
+      - name: "Gaussian Splatting Maturity"
+        url: "https://scaniverse.com/"
+        description: "From SIGGRAPH 2023 to practical tools (Polycam, Luma AI, Scaniverse). 4D Gaussian splatting is active research."
+        entry_type: "reference"
+        tags: { tech: [gaussian-splatting] }
+        readme_tags: ["Splatting", "Practical"]
+
+      - name: "USD + MaterialX + OpenPBR"
+        url: "https://openusd.org/"
+        description: "Emerging interchange trinity. OpenUSD Alliance (Apple, Pixar, Adobe, Autodesk, NVIDIA)."
+        entry_type: "reference"
+        tags: { tech: [usd, pbr] }
+        readme_tags: ["Interchange", "Standards"]
+
+      - name: "ACES 2.0"
+        url: "https://acescentral.com/"
+        description: "Major 2024 update to ACES. New output transforms, improved highlights."
+        entry_type: "reference"
+        tags: { workflow: [color-grading] }
+        readme_tags: ["Color Science", "2024 Update"]
+
+      - name: "WebGPU Adoption"
+        url: "https://www.w3.org/TR/webgpu/"
+        description: "Shipped in Chrome. Three.js, Babylon.js, PlayCanvas adding WebGPU backends."
+        entry_type: "reference"
+        tags: { tech: [real-time, gpu], platform: [web] }
+        readme_tags: ["WebGPU", "Browser Compute"]
+
+      - name: "Blender 4.x Rise"
+        url: "https://www.blender.org/"
+        description: "EEVEE Next (GPU ray tracing), Vulkan backend, extensions platform."
+        entry_type: "reference"
+        readme_tags: ["Blender", "Production-viable"]
+
+      - name: "Virtual Production"
+        url: "https://www.disguise.one/"
+        description: "LED volumes maturing from bleeding-edge to standardized."
+        entry_type: "reference"
+        tags: { output: [film-vfx, broadcast] }
+        readme_tags: ["LED Volumes", "Standardizing"]
+
+      - name: "Neural Rendering"
+        url: "https://developer.nvidia.com/rtx/neural-rendering"
+        description: "NVIDIA Neural Texture Compression, Neural Radiance Cache. Disney/Weta publishing on neural light transport."
+        entry_type: "reference"
+        tags: { tech: [real-time, gpu] }
+        readme_tags: ["Neural", "Research"]

@@ -1,0 +1,64 @@
+# Top-level section order and metadata.
+# Generator reads this to emit README.md and _site/index.html in this order.
+# See TOC_FRAMEWORK.md for full subsection details per section.
+
+sections:
+  - slug: assets-libraries
+    title: "Assets & Libraries"
+    file: "01-assets.yml"
+    description: "Models, textures, HDRIs, audio, stock — everything downloadable."
+
+  - slug: modeling-sculpting-texturing
+    title: "Modeling, Sculpting & Texturing"
+    file: "02-modeling.yml"
+    description: "Per-DCC learning plus texturing and material authoring toolchain."
+
+  - slug: animation-rigging
+    title: "Animation & Rigging"
+    file: "03-animation.yml"
+    description: "Technical animation, rigging, motion capture."
+
+  - slug: lighting-rendering-shaders
+    title: "Lighting, Rendering & Shaders"
+    file: "04-lighting.yml"
+    description: "3D lighting tutorials, rendering theory, shader theory, renderer-specific learning."
+
+  - slug: vfx-compositing-virtual-production
+    title: "VFX, Compositing & Virtual Production"
+    file: "05-vfx.yml"
+    description: "VFX tools, compositing, virtual production, tech art."
+
+  - slug: motion-graphics-video
+    title: "Motion Graphics & Video"
+    file: "06-motion-graphics.yml"
+    description: "Motion graphics tools and inspiration, video editing, reel music."
+
+  - slug: game-development
+    title: "Game Development"
+    file: "07-game-dev.yml"
+    description: "Engines, game assets, game design theory, jams, communities."
+
+  - slug: art-design-visual-storytelling
+    title: "Art, Design & Visual Storytelling"
+    file: "08-art-design.yml"
+    description: "Concept art, composition, color, typography, photography, cinematography, fundamentals."
+
+  - slug: ai-ml-for-cg
+    title: "AI & Machine Learning for CG"
+    file: "09-ai-ml.yml"
+    description: "Generative AI and ML tools across image, video, 3D, texture, audio."
+
+  - slug: tools-pipeline-utilities
+    title: "Tools, Pipeline & Utilities"
+    file: "10-tools-pipeline.yml"
+    description: "Viewers, converters, USD, plugin marketplaces, pipeline standards."
+
+  - slug: learning-community-industry
+    title: "Learning, Community & Industry"
+    file: "11-learning-community.yml"
+    description: "Cross-cutting learning, communities, inspiration, industry trends and career."
+
+  - slug: software-reference
+    title: "Software Reference"
+    file: "12-software-reference.yml"
+    description: "All software tables — full license, pricing, tagging."

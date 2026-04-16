@@ -1,0 +1,222 @@
+slug: lighting-rendering-shaders
+title: "Lighting, Rendering & Shaders"
+description: "3D lighting, rendering theory, shader theory, and renderer-specific learning. Render engine software lives in §12."
+
+subsections:
+  # ------------------------------------------------------------------
+  - slug: lighting-fundamentals
+    title: "3D Lighting — Fundamentals"
+    description: "Core lighting tutorials for beginners and generalists."
+    entries:
+      - name: "10 Tips for Better Lighting"
+        url: "https://helloluxx.com/tutorial/10-tips-for-better-lighting/"
+        description: "helloluxx lighting tips."
+        entry_type: "tutorial"
+        readme_tags: ["10 Tips", "helloluxx"]
+
+      - name: "Lighting for BEGINNERS (C4D)"
+        url: "https://www.youtube.com/watch?v=Wpc8Nyr8Gzo"
+        description: "Beginner C4D lighting."
+        entry_type: "tutorial"
+        tags: { skill: [beginner] }
+        readme_tags: ["Beginner", "C4D"]
+
+      - name: "Get Better Lighting in C4D"
+        url: "https://www.youtube.com/watch?v=dcLT_1mskBU"
+        description: "Improve C4D lighting."
+        entry_type: "tutorial"
+        readme_tags: ["C4D", "Lighting"]
+
+      - name: "School of Motion Lighting Blog"
+        url: "https://www.schoolofmotion.com/blog/"
+        description: "Shadows, volumetrics, HDRI, and area light techniques."
+        entry_type: "reference"
+        readme_tags: ["Techniques", "Blog"]
+
+      - name: "Lighting with Only HDRIs? You're Doing it Wrong!"
+        url: "https://www.youtube.com/watch?v=KbuUzj0Yj4A"
+        description: "HDRI lighting critique and technique."
+        entry_type: "tutorial"
+        readme_tags: ["HDRI", "Technique"]
+
+      - name: "The Light Series (Playlist)"
+        url: "https://www.youtube.com/playlist?list=PLsuP4YwchAsz66cPok9hoAo6zaUtwkHhA"
+        description: "Playlist of lighting tutorials."
+        entry_type: "tutorial"
+        readme_tags: ["Playlist", "Lighting Series"]
+
+  # ------------------------------------------------------------------
+  - slug: lighting-redshift
+    title: "3D Lighting — Redshift-Specific"
+    description: "Redshift lighting tutorials, primarily in C4D."
+    entries:
+      - name: "Creative Product Lighting with Redshift & C4D"
+        url: "https://www.youtube.com/watch?v=O-UFZXSpv9o"
+        description: "Jarred van de Voort, NAB 2023."
+        entry_type: "tutorial"
+        tags: { output: [product-viz] }
+        readme_tags: ["Product Lighting", "NAB 2023"]
+
+      - name: "Redshift Lighting Techniques (Essential MoGraph)"
+        url: "https://www.youtube.com/watch?v=fXYaonYJ_PY"
+        description: "Redshift lighting techniques."
+        entry_type: "tutorial"
+        readme_tags: ["Redshift", "MoGraph"]
+
+      - name: "Redshift Light Groups"
+        url: "https://www.youtube.com/watch?v=sms_DSANx_s"
+        description: "Light groups workflow."
+        entry_type: "tutorial"
+        readme_tags: ["Light Groups", "Workflow"]
+
+      - name: "Mesh Light in C4D with Redshift"
+        url: "https://www.youtube.com/watch?v=AO68QzMSedc"
+        description: "Mesh-based lighting in C4D."
+        entry_type: "tutorial"
+        readme_tags: ["Mesh Light", "C4D"]
+
+      - name: "Redshift Interior Materials & Lighting"
+        url: "https://www.youtube.com/watch?v=-Y29-qi6wqo"
+        description: "Interior materials and lighting."
+        entry_type: "tutorial"
+        tags: { output: [archviz] }
+        readme_tags: ["Interiors", "Materials"]
+
+      - name: "How to Art Direct Lights in a Cloner"
+        url: "https://www.youtube.com/watch?v=hos1mDLqN4A"
+        description: "Art-directing lights across cloners."
+        entry_type: "tutorial"
+        readme_tags: ["Cloner", "Art Direction"]
+
+      - name: "Fast Caustics & Comp Breakdown"
+        url: "https://www.youtube.com/watch?v=4dBHH4mZGcI"
+        description: "Fast caustics and compositing breakdown."
+        entry_type: "tutorial"
+        readme_tags: ["Caustics", "Comp"]
+
+      - name: "Photo-realistic Boutique (Redshift)"
+        url: "https://www.youtube.com/watch?v=slrrHKYdnok"
+        description: "Vladislav Solovjov photoreal boutique scene ([Part 2](https://www.youtube.com/watch?v=d6OPrmd_y78) | [IBC 2022](https://www.youtube.com/watch?v=tcHVoENlVhc))."
+        entry_type: "tutorial"
+        tags: { output: [archviz, product-viz] }
+        readme_tags: ["Photoreal", "Boutique"]
+
+  # ------------------------------------------------------------------
+  - slug: lighting-production
+    title: "3D Lighting — Production"
+    description: "Production-focused lighting talks."
+    entries:
+      - name: "Phil Roberts — Lighting for Production (NAB 2024)"
+        url: "https://www.youtube.com/watch?v=oANXbk9OUbI"
+        description: "Production lighting talk."
+        entry_type: "tutorial"
+        tags: { output: [film-vfx, broadcast] }
+        readme_tags: ["Production", "NAB 2024"]
+
+      - name: "UE5 Product Viz — iPhone Lighting Breakdown"
+        url: "https://www.youtube.com/watch?v=_FvCMxKaK7c"
+        description: "UE5 product viz iPhone lighting breakdown."
+        entry_type: "tutorial"
+        tags: { output: [product-viz] }
+        readme_tags: ["UE5", "Product Viz"]
+
+  # ------------------------------------------------------------------
+  - slug: rendering-shader-theory
+    title: "Rendering & Shader Theory"
+    description: "Foundational rendering and shader theory references."
+    entries:
+      - name: "Physically Based Rendering (PBR Book)"
+        url: "https://www.pbr-book.org/"
+        description: "Full book free online. Definitive PBR reference."
+        license: "Free"
+        entry_type: "reference"
+        tags: { tech: [pbr, path-tracing] }
+        readme_tags: ["PBR Bible", "Free Book"]
+
+      - name: "The Book of Shaders"
+        url: "https://thebookofshaders.com/"
+        description: "Interactive intro to GLSL fragment shaders."
+        license: "Free"
+        entry_type: "reference"
+        readme_tags: ["Interactive", "GLSL"]
+
+      - name: "LearnOpenGL"
+        url: "https://learnopengl.com/"
+        description: "Deep rendering concepts from scratch (lighting, shadows, PBR, SSAO)."
+        license: "Free"
+        entry_type: "reference"
+        readme_tags: ["OpenGL", "From Scratch"]
+
+      - name: "Scratchapixel"
+        url: "https://www.scratchapixel.com/"
+        description: "Ray tracing, rasterization, math foundations from first principles."
+        license: "Free"
+        entry_type: "reference"
+        tags: { tech: [ray-tracing, raster] }
+        readme_tags: ["First Principles", "Math"]
+
+      - name: "3D Game Shaders for Beginners"
+        url: "https://lettier.github.io/3d-game-shaders-for-beginners/"
+        description: "Clear breakdowns of SSAO, bloom, SSR, and more."
+        license: "Free"
+        entry_type: "reference"
+        tags: { skill: [beginner] }
+        readme_tags: ["Beginner", "Effects"]
+
+      - name: "Real-Time Rendering"
+        url: "https://www.realtimerendering.com/"
+        description: "Companion site to the book, massive curated link collection."
+        entry_type: "reference"
+        tags: { tech: [real-time] }
+        readme_tags: ["Real-time", "Curated Links"]
+
+      - name: "Marmoset Resources"
+        url: "https://marmoset.co/resources/"
+        description: "Baking guides, PBR theory, technical articles."
+        entry_type: "reference"
+        readme_tags: ["Baking", "PBR"]
+
+      - name: "Substance Academy"
+        url: "https://academy.substance3d.com/"
+        description: "Free official Substance Painter/Designer tutorials."
+        license: "Free"
+        entry_type: "tutorial"
+        tags: { workflow: [material-authoring, texturing] }
+        readme_tags: ["Official", "Free"]
+
+      - name: "Graphics Programming Resources"
+        url: "https://graphics-programming.org/"
+        description: "Papers, talks, implementations aggregated by community."
+        entry_type: "reference"
+        readme_tags: ["Papers + Talks", "Community"]
+
+      - name: "Catlike Coding"
+        url: "https://catlikecoding.com/unity/tutorials/"
+        description: "Shader and rendering tutorials (Unity-focused, concepts transfer)."
+        entry_type: "tutorial"
+        readme_tags: ["Unity Focus", "Shader Tutorials"]
+
+  # ------------------------------------------------------------------
+  - slug: renderer-specific-learning
+    title: "Renderer-Specific Learning"
+    description: "Deep-dives for specific render engines."
+    entries:
+      - name: "Polymesh to Volume (Arnold)"
+        url: "https://docs.arnoldrenderer.com/display/A5AFMUG/Polymesh+to+Volume"
+        description: "Arnold polymesh to volume conversion."
+        entry_type: "reference"
+        readme_tags: ["Arnold", "Volumes"]
+
+      - name: "Ariev Visuals Resources"
+        url: "http://arievvisuals.com/resources"
+        description: "Octane tutorials and assets."
+        entry_type: "reference"
+        readme_tags: ["Octane", "Tutorials + Assets"]
+
+      - name: "Veach Thesis (Stanford)"
+        url: "https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf"
+        description: "Light transport theory — foundational PBR thesis."
+        license: "Free"
+        entry_type: "reference"
+        tags: { tech: [path-tracing] }
+        readme_tags: ["Thesis", "Light Transport"]

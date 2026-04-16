@@ -1,3 +1,7 @@
 graphify-out/
 .claude/
 .graphify_python
+preview-*.md
+node_modules/
+package-lock.json
+_site/

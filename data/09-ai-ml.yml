@@ -1,0 +1,745 @@
+slug: ai-ml-for-cg
+title: "AI & Machine Learning for CG"
+description: "Generative AI and ML tools across image, video, 3D, texture, audio. AI mocap lives in §3 (dual-listed)."
+
+subsections:
+  # ------------------------------------------------------------------
+  - slug: ml-for-cg
+    title: "Machine Learning for CG"
+    description: "ML fundamentals and courses for CG artists."
+    entries:
+      - name: "Introduction to Machine Learning (Rebelway)"
+        url: "https://www.youtube.com/watch?v=tQGfTzgxQIc"
+        description: "ML for VFX artists."
+        entry_type: "tutorial"
+        readme_tags: ["VFX-focused", "Intro"]
+
+      - name: "Introduction to Machine Learning (Course)"
+        url: "https://www.rebelway.net/introduction-to-machine-learning"
+        description: "Full Rebelway ML course."
+        license: "Paid"
+        entry_type: "tutorial"
+        readme_tags: ["Rebelway", "Course"]
+
+  # ------------------------------------------------------------------
+  - slug: image-generation
+    title: "Image Generation"
+    description: "State-of-the-art text-to-image models and platforms."
+    entries:
+      - name: "Midjourney v7"
+        url: "https://www.midjourney.com/"
+        description: "Industry-leading artistic coherence and stylized output."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Artistic and stylized imagery"
+        tags: { tech: [ai-generative, subscription] }
+        readme_tags: ["Artistic", "Subscription"]
+
+      - name: "FLUX 1.1 Pro (Black Forest Labs)"
+        url: "https://blackforestlabs.ai/"
+        description: "Production-grade open model plus Fill/Canny/Depth tools."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Production-grade image gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Production-Grade", "Open Model"]
+
+      - name: "Stable Diffusion 3.5"
+        url: "https://huggingface.co/stabilityai"
+        description: "Open-source diffusion (Large, Medium, Turbo sizes)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Self-hosted image gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Open Source", "Self-Host"]
+
+      - name: "DALL-E 3 (OpenAI)"
+        url: "https://openai.com/dall-e-3"
+        description: "Text-to-image with strong semantic accuracy."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Semantic accuracy"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["OpenAI", "Semantic"]
+
+      - name: "Adobe Firefly 3"
+        url: "https://firefly.adobe.com/"
+        description: "Commercial-safe, deep Creative Cloud integration."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Commercial-safe Adobe workflows"
+        tags: { tech: [ai-generative, subscription] }
+        readme_tags: ["Commercial-Safe", "Adobe CC"]
+
+      - name: "Leonardo AI"
+        url: "https://leonardo.ai/"
+        description: "Real-time generation with artistic control."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Controlled artistic generation"
+        tags: { tech: [ai-generative, real-time] }
+        readme_tags: ["Real-time", "Controlled"]
+
+      - name: "Ideogram 2.0"
+        url: "https://ideogram.ai/"
+        description: "Best-in-class typography and text rendering, canvas mode."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Typography in images"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Typography", "Text Rendering"]
+
+      - name: "Google Gemini Image Gen"
+        url: "https://gemini.google.com/"
+        description: "High realism, fast, large-scale production."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Fast large-scale gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Google", "Realism"]
+
+      - name: "Grok Aurora (xAI)"
+        url: "https://x.ai/"
+        description: "Photorealistic image gen integrated into Grok."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Photorealism in Grok"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["xAI", "Photoreal"]
+
+      - name: "Recraft V3"
+        url: "https://www.recraft.ai/"
+        description: "Design-oriented gen — vector, icons, brand assets."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Design assets, vectors"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Design Focus", "Vector"]
+
+      - name: "Krea AI"
+        url: "https://www.krea.ai/"
+        description: "Real-time generation, upscaling, and style transfer platform."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Real-time + upscaling"
+        tags: { tech: [ai-generative, real-time] }
+        readme_tags: ["Real-time", "Upscaling"]
+
+      - name: "Playground v3"
+        url: "https://playground.com/"
+        description: "Mixed-mode design canvas for graphic design."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Graphic design canvas"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Design Canvas", "Mixed-mode"]
+
+      - name: "Kolors (Kuaishou)"
+        url: "https://github.com/Kwai-Kolors/Kolors"
+        description: "Open-source, bilingual Chinese/English."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Bilingual open model"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Open Source", "Bilingual"]
+
+      - name: "HunyuanDiT (Tencent)"
+        url: "https://github.com/Tencent/HunyuanDiT"
+        description: "Open-source DiT-based, strong Chinese text."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Chinese text rendering"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Tencent", "DiT"]
+
+      - name: "Jimeng / Dreamina (ByteDance)"
+        url: "https://jimeng.jianying.com/"
+        description: "High quality, integrated with video pipeline."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Integrated image + video pipeline"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["ByteDance", "Video Pipeline"]
+
+  # ------------------------------------------------------------------
+  - slug: video-generation
+    title: "Video Generation"
+    description: "AI video generation platforms and models."
+    entries:
+      - name: "Veo 3.1 (Google DeepMind)"
+        url: "https://deepmind.google/technologies/veo/"
+        description: "Top leaderboard, native audio, 60s+ clips."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Top-quality video gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Top Leaderboard", "Native Audio"]
+
+      - name: "Runway Gen-4"
+        url: "https://runwayml.com/"
+        description: "Character consistency across shots, controllable camera."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Character consistency"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Character Consistency", "Camera Control"]
+
+      - name: "Sora (OpenAI)"
+        url: "https://sora.com/"
+        description: "Up to ~20s clips with strong temporal coherence."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Coherent video clips"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["OpenAI", "20s Clips"]
+
+      - name: "Kling 3.0"
+        url: "https://klingai.com/"
+        description: "Up to 5min clips, strong human motion. Motion Brush control."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Long clips, human motion"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["5min Clips", "Motion Brush"]
+
+      - name: "Pika 2.0"
+        url: "https://pika.art/"
+        description: "Extended video gen with improved consistency."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Stylized video"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Extended Gen", "Stylized"]
+
+      - name: "Hailuo AI / MiniMax"
+        url: "https://hailuoai.video/"
+        description: "\"Director\" model — strong motion and character consistency."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Directed motion"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Director Model", "Character Consist"]
+
+      - name: "Luma Dream Machine"
+        url: "https://lumalabs.ai/dream-machine"
+        description: "Fast generations with good camera motion."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Fast video gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Fast", "Camera Motion"]
+
+      - name: "HunyuanVideo 1.5"
+        url: "https://github.com/Tencent-Hunyuan/HunyuanVideo"
+        description: "Open-source 8.3B params, runs on 14GB VRAM."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Self-hosted video gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Open Source", "14GB VRAM"]
+
+      - name: "Wan 2.2 (Alibaba)"
+        url: "https://huggingface.co/ali-vilab/Wan"
+        description: "Cinematic MoE diffusion, 8GB+ VRAM. Open source."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Cinematic open-source video gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Open Source", "MoE Diffusion"]
+
+      - name: "LTX-Video"
+        url: "https://github.com/Lightricks/LTX-Video"
+        description: "Open-source, real-time generation speeds."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Real-time open-source video gen"
+        tags: { tech: [ai-generative, real-time] }
+        readme_tags: ["Open Source", "Real-time"]
+
+      - name: "Vidu"
+        url: "https://www.vidu.com/"
+        description: "16s clips, strong human motion (Shengshu)."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Long human-motion clips"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["16s", "Human Motion"]
+
+      - name: "PixVerse"
+        url: "https://pixverse.ai/"
+        description: "Style-specific modes (anime, 3D, realistic), character consistency."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Style-specific video gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Style Modes", "Consistency"]
+
+      - name: "Haiper"
+        url: "https://haiper.ai/"
+        description: "Ex-DeepMind team, animation and video-to-video modes."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Video-to-video"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Ex-DeepMind", "V2V"]
+
+      - name: "Genmo Mochi 1"
+        url: "https://www.genmo.ai/"
+        description: "Open-source video gen model."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Open-source video gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Open Source", "Genmo"]
+
+      - name: "CogVideoX"
+        url: "https://github.com/THUDM/CogVideo"
+        description: "Tsinghua/Zhipu open-source, multiple sizes."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Research open-source video gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Open Source", "Tsinghua"]
+
+      - name: "Jimeng Video (ByteDance)"
+        url: "https://jimeng.jianying.com/"
+        description: "Powers CapCut AI features."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "CapCut-integrated video gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["CapCut AI", "ByteDance"]
+
+  # ------------------------------------------------------------------
+  - slug: 3d-generation
+    title: "3D Generation"
+    description: "AI tools for generating 3D models from text or images."
+    entries:
+      - name: "Meshy v4"
+        url: "https://www.meshy.ai/"
+        description: "Production-reliable, improved topology and PBR textures."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Production-ready AI 3D"
+        tags: { tech: [ai-generative, pbr] }
+        readme_tags: ["Production-Reliable", "PBR"]
+
+      - name: "Tripo v3.0"
+        url: "https://www.tripo3d.ai/"
+        description: "Sculpture-level precision, clean quad topology."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Clean topology AI 3D"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Clean Quads", "Sculpt-level"]
+
+      - name: "Rodin Gen-2 (Hyper3D)"
+        url: "https://hyper3d.ai/"
+        description: "10B params, photorealistic, free generation tier."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Photorealistic AI 3D"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["10B Params", "Free Tier"]
+
+      - name: "TRELLIS.2 (Microsoft)"
+        url: "https://huggingface.co/microsoft/TRELLIS.2-4B"
+        description: "Full PBR materials, complex topologies."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "PBR AI 3D (open source)"
+        tags: { tech: [ai-generative, pbr] }
+        readme_tags: ["Microsoft", "PBR + Open Source"]
+
+      - name: "CSM (Common Sense Machines)"
+        url: "https://www.csm.ai/"
+        description: "Game-ready topology and textures from images/text."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Game-ready AI 3D"
+        tags: { output: [games], tech: [ai-generative] }
+        readme_tags: ["Game-Ready", "Topology + Tex"]
+
+      - name: "Luma Genie"
+        url: "https://lumalabs.ai/"
+        description: "Text/image to 3D, integrated with Dream Machine."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Luma-integrated 3D gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Luma", "Integrated"]
+
+      - name: "Kaedim"
+        url: "https://www.kaedim3d.com/"
+        description: "Image-to-3D with hybrid AI plus artist cleanup for production quality."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Production-quality via hybrid AI+artist"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Hybrid AI+Artist", "Production"]
+
+      - name: "Spline AI"
+        url: "https://spline.design/"
+        description: "Generate 3D objects and textures from text prompts in-editor."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "In-editor AI 3D"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["In-Editor", "Text→3D"]
+
+      - name: "Unique3D"
+        url: "https://github.com/AiuniAI/Unique3D"
+        description: "High-quality mesh from single image (NeurIPS 2024)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Single-image open-source 3D"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Single-Image", "NeurIPS"]
+
+      - name: "Wonder3D++"
+        url: "https://github.com/xxlong0/Wonder3D"
+        description: "Cross-domain diffusion, textured meshes in 2-3min."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Fast textured mesh gen"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Fast", "Textured Mesh"]
+
+      - name: "InstantMesh"
+        url: "https://github.com/TencentARC/InstantMesh"
+        description: "Fast single-image-to-3D reconstruction."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Fast image→3D"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Fast", "Image→3D"]
+
+      - name: "TripoSR"
+        url: "https://github.com/VAST-AI-Research/TripoSR"
+        description: "Tripo/Stability collab — fast open-source image-to-3D."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Fast open-source image→3D"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Open Source", "Fast"]
+
+      - name: "Stability SPAR3D"
+        url: "https://stability.ai/"
+        description: "Open-source single-image 3D reconstruction."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Single-image open-source 3D"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Stability AI", "Open Source"]
+
+      - name: "3DTopia"
+        url: "https://github.com/3DTopia/3DTopia"
+        description: "Open-source text-to-3D pipeline (coarse → refined)."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Text-to-3D open-source"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Coarse→Refined", "Open Source"]
+
+      - name: "Sloyd"
+        url: "https://sloyd.ai/"
+        description: "Procedural 3D generation with parametric control."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Parametric procedural 3D"
+        tags: { tech: [ai-generative, procedural] }
+        readme_tags: ["Procedural", "Parametric"]
+
+  # ------------------------------------------------------------------
+  - slug: texture-material-generation
+    title: "Texture & Material Generation"
+    description: "AI-generated PBR textures and materials."
+    entries:
+      - name: "Poly"
+        url: "https://withpoly.com/"
+        description: "AI-generated PBR textures and materials, tileable with full map sets."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "AI PBR textures"
+        tags: { tech: [ai-generative, pbr], workflow: [texturing] }
+        readme_tags: ["AI PBR", "Tileable"]
+
+      - name: "Scenario"
+        url: "https://www.scenario.com/"
+        description: "Game-ready PBR materials, full map sets."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Game-ready AI materials"
+        tags: { output: [games], tech: [ai-generative, pbr] }
+        readme_tags: ["Game-Ready", "Full Maps"]
+
+      - name: "Meshy Textures"
+        url: "https://www.meshy.ai/features/ai-texture-generator"
+        description: "Integrated with 3D pipeline."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Textures tied to Meshy 3D"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Meshy Pipeline", "Integrated"]
+
+      - name: "Adobe Firefly Textures"
+        url: "https://www.adobe.com/products/firefly"
+        description: "Prompt-to-edit texture workflows."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Adobe-integrated AI textures"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Adobe", "Prompt-to-Edit"]
+
+      - name: "Ponzu"
+        url: "https://www.ponzu.gg/"
+        description: "AI texture gen from text prompts for uploaded meshes."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Mesh-aware AI textures"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Mesh-aware", "Text→Tex"]
+
+      - name: "InstaMAT"
+        url: "https://instamaterials.com/"
+        description: "Material authoring with AI workflows (Substance alternative)."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "AI-assisted material authoring"
+        tags: { workflow: [material-authoring], tech: [ai-generative] }
+        readme_tags: ["Substance-alt", "AI Workflows"]
+
+  # ------------------------------------------------------------------
+  - slug: comfyui-ecosystem
+    title: "ComfyUI Ecosystem"
+    description: "Node-based AI generation — ComfyUI and its ecosystem."
+    entries:
+      - name: "ComfyUI"
+        url: "https://comfy.org/"
+        description: "Node-based AI generator for image/video/3D/audio."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Node-based AI workflows"
+        tags: { tech: [node-based, ai-generative] }
+        readme_tags: ["Node-based", "Multi-modal"]
+
+      - name: "ComfyUI-Manager"
+        url: "https://github.com/Comfy-Org/ComfyUI-Manager"
+        description: "Install and manage custom nodes and dependencies."
+        license: "Open Source"
+        entry_type: "plugin"
+        readme_tags: ["Custom Nodes", "Mgmt"]
+
+      - name: "ComfyUI Registry"
+        url: "https://comfyui.org/"
+        description: "Community workflow and subgraph sharing."
+        entry_type: "marketplace"
+        readme_tags: ["Workflow Share", "Community"]
+
+      - name: "Awesome ComfyUI"
+        url: "https://github.com/ComfyUI-Workflow/awesome-comfyui"
+        description: "Curated custom nodes collection."
+        license: "Open Source"
+        entry_type: "reference"
+        readme_tags: ["Curated", "Awesome List"]
+
+      - name: "Comflowy"
+        url: "https://www.comflowy.com/"
+        description: "ComfyUI tutorials for ControlNet, SDXL, FLUX workflows."
+        entry_type: "tutorial"
+        readme_tags: ["Tutorials", "Workflows"]
+
+      - name: "ControlNet SD3.5"
+        url: "https://blog.comfy.org/p/sd3-5-large-controlnet"
+        description: "Blur/Canny/Depth models, free commercial use."
+        license: "Free"
+        entry_type: "plugin"
+        readme_tags: ["ControlNet", "Commercial-OK"]
+
+  # ------------------------------------------------------------------
+  - slug: ai-assisted-cg-tools
+    title: "AI-Assisted CG Tools"
+    description: "AI tools that augment traditional CG workflows."
+    entries:
+      - name: "Autodesk Flow Studio (Wonder Dynamics)"
+        url: "https://wonderdynamics.com/"
+        description: "AI VFX, auto CG characters in live footage, USD export."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "AI CG characters in live plates"
+        tags: { workflow: [compositing], output: [film-vfx], tech: [ai-generative, usd] }
+        readme_tags: ["Auto CG Chars", "USD Export"]
+
+      - name: "ControlNet"
+        url: "https://stable-diffusion-art.com/controlnet/"
+        description: "Depth/pose/edge control for precision CG workflows."
+        license: "Open Source"
+        entry_type: "tool"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Depth/Pose Control", "Precision"]
+
+      - name: "Topaz Photo AI / Video AI"
+        url: "https://www.topazlabs.com/"
+        description: "Best-in-class upscaling, denoising, sharpening."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Upscale/denoise"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Upscale", "Denoise"]
+
+      - name: "Magnific AI"
+        url: "https://magnific.ai/"
+        description: "AI upscaler with \"creativity\" slider — reimagines/adds detail (2-16x)."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Creative AI upscaling"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Creative Upscale", "2-16x"]
+
+      - name: "Dream Textures (Blender)"
+        url: "https://github.com/carson-katri/dream-textures"
+        description: "Generate textures in Blender via Stable Diffusion, locally."
+        license: "Open Source"
+        entry_type: "plugin"
+        tags: { tech: [blender-addon, ai-generative] }
+        readme_tags: ["Blender Addon", "Local SD"]
+
+      - name: "ComfyUI-BlenderAI"
+        url: "https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node"
+        description: "Run ComfyUI workflows inside Blender."
+        license: "Open Source"
+        entry_type: "plugin"
+        tags: { tech: [blender-addon, ai-generative] }
+        readme_tags: ["ComfyUI in Blender", "Addon"]
+
+      - name: "Blockade Labs Skybox AI"
+        url: "https://www.blockadelabs.com/"
+        description: "AI-generated 360° skyboxes/HDRIs from text."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "AI skyboxes/HDRIs"
+        tags: { workflow: [lighting], tech: [ai-generative] }
+        readme_tags: ["AI Skybox", "360°"]
+
+  # ------------------------------------------------------------------
+  - slug: ai-audio-music
+    title: "AI Audio & Music"
+    description: "AI music generation, voice, TTS, and SFX."
+    entries:
+      - name: "Suno v5"
+        url: "https://suno.com/"
+        description: "Full song generation, 100M+ users."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Full song generation"
+        tags: { workflow: [audio-design], tech: [ai-generative] }
+        readme_tags: ["Song Gen", "100M users"]
+
+      - name: "Udio"
+        url: "https://www.udio.com/"
+        description: "Strong electronic/pop, licensed for commercial use."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Commercial-licensed AI music"
+        tags: { workflow: [audio-design], tech: [ai-generative] }
+        readme_tags: ["Electronic/Pop", "Commercial"]
+
+      - name: "ElevenLabs"
+        url: "https://elevenlabs.io/"
+        description: "Voice cloning, narration, music generation."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Voice cloning, TTS"
+        tags: { workflow: [audio-design], tech: [ai-generative] }
+        readme_tags: ["Voice Cloning", "TTS"]
+
+      - name: "Stable Audio 2.0"
+        url: "https://stableaudio.com/"
+        description: "Up to 3min music/SFX, audio-to-audio mode. Open-source model."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Open-source music/SFX gen"
+        tags: { workflow: [audio-design], tech: [ai-generative] }
+        readme_tags: ["Open Model", "Music + SFX"]
+
+      - name: "ACE Studio"
+        url: "https://www.acestudio.ai/"
+        description: "AI singing voice synthesizer with expression control."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "AI singing synthesis"
+        tags: { workflow: [audio-design], tech: [ai-generative] }
+        readme_tags: ["Singing", "Expression"]
+
+      - name: "AIVA"
+        url: "https://www.aiva.ai/"
+        description: "AI composition, good for orchestral/cinematic scoring."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "Orchestral/cinematic scoring"
+        tags: { workflow: [audio-design], tech: [ai-generative] }
+        readme_tags: ["Orchestral", "Scoring"]
+
+      - name: "Fish Audio"
+        url: "https://fish.audio/"
+        description: "Open-source TTS with voice cloning, fast and multilingual."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Open-source TTS"
+        tags: { workflow: [audio-design], tech: [ai-generative] }
+        readme_tags: ["Open Source", "Multilingual"]
+
+      - name: "F5-TTS"
+        url: "https://github.com/SWivid/F5-TTS"
+        description: "Open-source zero-shot voice cloning TTS."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Zero-shot voice cloning"
+        tags: { workflow: [audio-design], tech: [ai-generative] }
+        readme_tags: ["Zero-Shot", "Voice Clone"]
+
+      - name: "DiffRhythm"
+        url: "https://github.com/ASLP-lab/DiffRhythm"
+        description: "Open-source full-song gen with vocals from lyrics."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Open-source song gen with vocals"
+        tags: { workflow: [audio-design], tech: [ai-generative] }
+        readme_tags: ["Open Source", "Lyrics→Song"]
+
+  # ------------------------------------------------------------------
+  - slug: open-source-models-hf
+    title: "Open-Source Models (HuggingFace)"
+    description: "Notable open-source generative models."
+    entries:
+      - name: "TRELLIS.2-4B"
+        url: "https://huggingface.co/microsoft/TRELLIS.2-4B"
+        description: "3D generation with PBR."
+        license: "Open Source"
+        entry_type: "reference"
+        tags: { tech: [ai-generative, pbr] }
+        readme_tags: ["3D + PBR", "Microsoft"]
+
+      - name: "SV3D (Stable Video 3D)"
+        url: "https://huggingface.co/stabilityai/sv3d"
+        description: "Orbital video from single image."
+        license: "Open Source"
+        entry_type: "reference"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Orbital Video", "Stability"]
+
+      - name: "HunyuanVideo-I2V"
+        url: "https://huggingface.co/tencent/HunyuanVideo-I2V"
+        description: "Image-to-video, multilingual."
+        license: "Open Source"
+        entry_type: "reference"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["I2V", "Multilingual"]
+
+      - name: "Wan 14B/1.3B"
+        url: "https://huggingface.co/ali-vilab/Wan"
+        description: "Video gen + editing + T2I + audio."
+        license: "Open Source"
+        entry_type: "reference"
+        tags: { tech: [ai-generative] }
+        readme_tags: ["Multi-modal", "Open Source"]
