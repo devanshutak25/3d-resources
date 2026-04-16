@@ -23,5 +23,5 @@ Thank you for your interest in contributing to Awesome 3D Resources!
 
 You can contribute by:
 
-1. Opening a [pull request](https://github.com/3d-resources/3d-resources/pulls) with your addition.
+1. Opening a [pull request](https://github.com/devanshutak25/3d-resources/pulls) with your addition.
 2. Reaching out via [email](mailto:3dresources@devanshutak.xyz) or [Instagram](https://www.instagram.com/devanshutak25/).
