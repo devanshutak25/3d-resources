@@ -149,6 +149,13 @@ subsections:
         entry_type: "channel"
         readme_tags: ["Motion", "Designer"]
 
+      - name: "Derek Kirk (Effectatron)"
+        url: "https://derekkirk.net/"
+        description: "Cinema 4D and Redshift tutorials, 200+ free YouTube videos, Gumroad assets, Discord."
+        entry_type: "channel"
+        tags: { output: [motion-graphics] }
+        readme_tags: ["C4D + Redshift", "Free + Paid"]
+
   # ------------------------------------------------------------------
   - slug: youtube-blender
     title: "YouTube Channels — Blender"
@@ -389,6 +396,15 @@ subsections:
         license: "Paid"
         entry_type: "tutorial"
         readme_tags: ["3D Design", "Teachable"]
+
+      - name: "Mind + Motion (Effectatron)"
+        url: "https://effectatron-c4d-redshift.teachable.com/"
+        description: "Derek Kirk's C4D + Redshift course. Covers imposter syndrome / mental health alongside technique. $10–$49.99 per course."
+        pricing: "$10–$49.99 per course"
+        license: "Paid"
+        entry_type: "tutorial"
+        tags: { output: [motion-graphics] }
+        readme_tags: ["C4D + Redshift", "100+ Lessons"]
 
   # ------------------------------------------------------------------
   - slug: patreon-creators

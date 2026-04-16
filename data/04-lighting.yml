@@ -196,6 +196,13 @@ subsections:
         entry_type: "tutorial"
         readme_tags: ["Unity Focus", "Shader Tutorials"]
 
+      - name: "Cyanilux"
+        url: "https://www.cyanilux.com/contents/"
+        description: "Unity shader tutorials (URP focus). Intro to Shader Graph, HLSL, depth, vertex displacement, dissolve, portals, water, fire. Beginner → advanced."
+        entry_type: "tutorial"
+        tags: { workflow: [material-authoring], output: [games] }
+        readme_tags: ["Unity Shaders", "URP"]
+
   # ------------------------------------------------------------------
   - slug: renderer-specific-learning
     title: "Renderer-Specific Learning"

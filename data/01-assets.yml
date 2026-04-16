@@ -756,6 +756,13 @@ subsections:
         tags: { output: [games] }
         readme_tags: ["Sprites", "Game Rips"]
 
+      - name: "Models Resource (3D)"
+        url: "https://models.spriters-resource.com/"
+        description: "3D model rips from games — sister site to Spriters Resource."
+        entry_type: "asset-source"
+        tags: { output: [games] }
+        readme_tags: ["3D Game Rips", "Reference"]
+
   # ------------------------------------------------------------------
   - slug: textures-premium
     title: "Textures — Premium"

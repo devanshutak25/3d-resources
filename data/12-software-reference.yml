@@ -98,6 +98,19 @@ subsections:
           platform: [win, mac]
         readme_tags: ["Anime Characters", "VTuber"]
 
+      - name: "SDF Modeler"
+        url: "https://sascha-rode.itch.io/sdf-modeler"
+        description: "Experimental SDF-based non-destructive procedural 3D modeler."
+        license: "Free"
+        entry_type: "software"
+        best_for: "SDF modeling, procedural boolean workflows"
+        tags:
+          workflow: [modeling]
+          output: [generalist]
+          platform: [win, mac, linux]
+          tech: [procedural, node-based]
+        readme_tags: ["SDF", "Non-destructive"]
+
   # ------------------------------------------------------------------
   - slug: 3d-software-free-tier
     title: "3D Software — Free Tier"
@@ -131,18 +144,6 @@ subsections:
           skill: [beginner, intermediate]
         readme_tags: ["Browser", "Product Design"]
 
-      - name: "SketchUp"
-        url: "https://www.sketchup.com/"
-        description: "Architectural and interior-design-oriented 3D modeler."
-        pricing: "Free web version, paid desktop tiers"
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Architecture, interior design"
-        tags:
-          workflow: [modeling]
-          output: [archviz, product-viz]
-          platform: [win, mac, web]
-        readme_tags: ["Arch-Viz", "Easy Learning Curve"]
 
       - name: "Vectary"
         url: "https://www.vectary.com/"
@@ -317,6 +318,20 @@ subsections:
           platform: [ios, ipad, android]
           tech: [perpetual, stylus-support, ipad-native]
         readme_tags: ["iPad Sculpt", "One-time Purchase"]
+
+      - name: "SketchUp"
+        url: "https://www.sketchup.com/"
+        description: "Architectural and interior-design-oriented 3D modeler."
+        pricing: "Go $10.75/mo, Pro $33.25/mo, Studio $68.25/mo (annual)"
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Architecture, interior design"
+        tags:
+          workflow: [modeling]
+          output: [archviz, product-viz]
+          platform: [win, mac, web, ipad]
+        readme_tags: ["Arch-Viz", "Easy Learning Curve"]
+        notes: "SketchUp for Schools free for K-12 students/educators. No general free tier as of 2026."
 
   # ------------------------------------------------------------------
   - slug: cad-software
@@ -614,6 +629,18 @@ subsections:
           platform: [win, mac]
           tech: [procedural, node-based]
         readme_tags: ["Procedural", "Data-Driven"]
+
+      - name: "Spine (Esoteric Software)"
+        url: "https://esotericsoftware.com/"
+        description: "2D skeletal animation w/ mesh deformation, IK, skins/attachments. Runtimes for Unity/Unreal/Godot/web. Used on Cult of the Lamb, Return to Monkey Island, Tinykin."
+        license: "Paid"
+        entry_type: "software"
+        best_for: "Skeletal 2D animation for games"
+        tags:
+          workflow: [rigging, animation]
+          output: [games]
+          platform: [win, mac, linux]
+        readme_tags: ["Skeletal", "Game Runtimes"]
 
       # related references
       - name: "Krita Resources"
@@ -1245,6 +1272,19 @@ subsections:
           platform: [web]
         readme_tags: ["Browser", "PSD Support"]
 
+      - name: "Penpot"
+        url: "https://penpot.app/"
+        description: "Open-source design platform. Native SVG/CSS/HTML output. Cloud-hosted or self-host. Figma alternative."
+        license: "Open Source"
+        entry_type: "software"
+        best_for: "Open-source collaborative UI/UX design"
+        tags:
+          workflow: [concept]
+          output: [illustration, product-viz]
+          platform: [web]
+          tech: [opensource-alt, collaborative]
+        readme_tags: ["Open Source", "Figma-alt"]
+
       - name: "Figma Community"
         url: "https://www.figma.com/community/"
         description: "Free templates, plugins, UI kits."
@@ -1643,3 +1683,15 @@ subsections:
           platform: [web]
           tech: [real-time, collaborative]
         readme_tags: ["Browser-Based", "JavaScript"]
+
+      - name: "Unbound"
+        url: "https://www.unbound.io/"
+        description: "SDF-based game development platform. Non-destructive real-time editing, Lua 5.3 scripting, FBX/glTF export. Early Access."
+        license: "Freemium"
+        entry_type: "software"
+        best_for: "SDF-native game creation"
+        tags:
+          output: [games]
+          platform: [win, mac]
+          tech: [real-time, procedural]
+        readme_tags: ["SDF-Native", "Early Access"]

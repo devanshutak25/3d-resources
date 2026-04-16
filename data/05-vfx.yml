@@ -84,3 +84,10 @@ subsections:
         description: "Tech art tutorials."
         entry_type: "channel"
         readme_tags: ["Tutorials", "Tech Art"]
+
+      - name: "Simon Schreibt"
+        url: "https://simonschreibt.de/"
+        description: "Game Art Tricks and Workflow Tricks — technical breakdowns of how games achieve effects (mirrors, fog, rendering tricks)."
+        entry_type: "channel"
+        tags: { output: [games, film-vfx] }
+        readme_tags: ["Game Art Tricks", "Breakdowns"]
