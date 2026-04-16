@@ -1,897 +1,1170 @@
 slug: modeling-sculpting-texturing
-title: "Modeling, Sculpting & Texturing"
-description: "Per-DCC learning plus texturing and material-authoring toolchain. Per-renderer learning lives in §4."
-
+title: Modeling, Sculpting & Texturing
+description: Per-DCC learning plus texturing and material-authoring toolchain. Per-renderer learning lives in §4.
 subsections:
-  # ------------------------------------------------------------------
   - slug: blender-plugins-addons
-    title: "Blender — Plugins & Addons"
-    description: "Notable addons extending Blender."
+    title: Blender — Plugins & Addons
+    description: Notable addons extending Blender.
     entries:
-      - name: "Crowdrender"
-        url: "https://www.crowd-render.com/"
-        description: "Distributed rendering across machines."
-        entry_type: "plugin"
-        tags: { tech: [blender-addon], workflow: [rendering] }
-        readme_tags: ["Distributed Render", "Blender"]
-
-      - name: "Blender for Unreal Engine"
-        url: "https://github.com/xavier150/Blender-For-UnrealEngine-Addons/wiki"
-        description: "UE export pipeline addon."
-        license: "Open Source"
-        entry_type: "plugin"
-        tags: { tech: [blender-addon, unreal-plugin] }
-        readme_tags: ["UE Export", "Pipeline"]
-
-      - name: "Modular Tree"
-        url: "https://github.com/MaximeHerpin/modular_tree/tree/blender_28"
-        description: "Procedural trees."
-        license: "Open Source"
-        entry_type: "plugin"
-        tags: { tech: [blender-addon, procedural] }
-        readme_tags: ["Procedural Trees", "Foliage"]
-
-      - name: "Blender to Unity FBX"
-        url: "https://github.com/EdyJ/blender-to-unity-fbx-exporter"
-        description: "Unity export addon."
-        license: "Open Source"
-        entry_type: "plugin"
-        tags: { tech: [blender-addon, unity-plugin] }
-        readme_tags: ["Unity Export", "FBX"]
-
-      - name: "MB Lab"
-        url: "https://github.com/animate1978/MB-Lab"
-        description: "Character creation (archived, succeeded by CharMorph)."
-        license: "Open Source"
-        entry_type: "plugin"
-        tags: { tech: [blender-addon], workflow: [modeling] }
-        readme_tags: ["Characters", "Archived"]
-
-      - name: "PSOFT Pencil+ 4"
-        url: "https://psoft.co.jp/en/product/pencil/blender/"
-        description: "NPR line rendering."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { tech: [blender-addon], workflow: [rendering] }
-        readme_tags: ["NPR", "Line Render"]
-
-      - name: "Graswald"
-        url: "https://blendermarket.com/products/graswald"
-        description: "Grass and plants library."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { tech: [blender-addon] }
-        readme_tags: ["Foliage", "Premium"]
-
-      - name: "Pro Lighting Studio"
-        url: "https://blendermarket.com/products/pro-lighting-studio"
-        description: "Studio lighting presets."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { tech: [blender-addon], workflow: [lighting] }
-        readme_tags: ["Studio Lighting", "Presets"]
-
-      - name: "Easy HDRI"
-        url: "https://codeofart.com/easy-hdri-2-8/"
-        description: "HDRI management addon."
-        entry_type: "plugin"
-        tags: { tech: [blender-addon], workflow: [lighting] }
-        readme_tags: ["HDRI Management", "Workflow"]
-
-  # ------------------------------------------------------------------
+      - name: Crowdrender
+        url: https://www.crowd-render.com/
+        description: Distributed rendering across machines.
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+          workflow:
+            - rendering
+        readme_tags:
+          - Distributed Render
+          - Blender
+      - name: Blender for Unreal Engine
+        url: https://github.com/xavier150/Blender-For-UnrealEngine-Addons/wiki
+        description: UE export pipeline addon.
+        license: Open Source
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+            - unreal-plugin
+        readme_tags:
+          - UE Export
+          - Pipeline
+      - name: Modular Tree
+        url: https://github.com/MaximeHerpin/modular_tree/tree/blender_28
+        description: Procedural trees.
+        license: Open Source
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+            - procedural
+        readme_tags:
+          - Procedural Trees
+          - Foliage
+      - name: Blender to Unity FBX
+        url: https://github.com/EdyJ/blender-to-unity-fbx-exporter
+        description: Unity export addon.
+        license: Open Source
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+            - unity-plugin
+        readme_tags:
+          - Unity Export
+          - FBX
+      - name: MB Lab
+        url: https://github.com/animate1978/MB-Lab
+        description: Character creation (archived, succeeded by CharMorph).
+        license: Open Source
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+          workflow:
+            - modeling
+        readme_tags:
+          - Characters
+          - Archived
+      - name: PSOFT Pencil+ 4
+        url: https://psoft.co.jp/en/product/pencil/blender/
+        description: NPR line rendering.
+        license: Paid
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+          workflow:
+            - rendering
+        readme_tags:
+          - NPR
+          - Line Render
+      - name: Graswald
+        url: https://blendermarket.com/products/graswald
+        description: Grass and plants library.
+        license: Paid
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+        readme_tags:
+          - Foliage
+          - Premium
+      - name: Pro Lighting Studio
+        url: https://blendermarket.com/products/pro-lighting-studio
+        description: Studio lighting presets.
+        license: Paid
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+          workflow:
+            - lighting
+        readme_tags:
+          - Studio Lighting
+          - Presets
+      - name: Easy HDRI
+        url: https://codeofart.com/easy-hdri-2-8/
+        description: HDRI management addon.
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+          workflow:
+            - lighting
+        readme_tags:
+          - HDRI Management
+          - Workflow
+      - name: Blender Awesome List
+        url: https://github.com/agmmnn/awesome-blender
+        description: More addons and resources around Blender in this awesome list.
+        entry_type: plugin
+      - name: fSpy-Blender
+        url: https://github.com/stuffmatic/fSpy-Blender
+        description: Official fSpy Blender importer.
+        entry_type: plugin
+      - name: BlenderGIS
+        url: https://github.com/domlysz/BlenderGIS
+        description: Geo data importer.
+        entry_type: plugin
+      - name: Blender Pyblish
+        url: https://github.com/jasperges/pyblish-blender
+        description: Blender Addon to integrate the Pyblish framework
+        entry_type: plugin
+      - name: blender_vscode
+        url: https://github.com/JacquesLucke/blender_vscode
+        description: Visual Studio Code extension for Blender development.
+        entry_type: plugin
+      - name: Blender Addons
+        url: https://github.com/Antonioya/blender
+        description: Helpers for Blender
+        entry_type: plugin
   - slug: blender-tutorials
-    title: "Blender — Tutorials"
-    description: "Blender learning resources, beginner to advanced."
+    title: Blender — Tutorials
+    description: Blender learning resources, beginner to advanced.
     entries:
-      - name: "Blender Tutorial for Complete Beginners"
-        url: "https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z"
-        description: "Blender Guru full beginner series."
-        entry_type: "tutorial"
-        tags: { skill: [beginner] }
-        readme_tags: ["Blender Guru", "Beginner"]
-
-      - name: "Gemstone Shader Breakdown"
-        url: "https://www.blendernation.com/2017/03/25/gemstone-shader-breakdown/"
-        description: "Gemstone shader breakdown article."
-        entry_type: "tutorial"
-        tags: { workflow: [material-authoring] }
-        readme_tags: ["Shader", "Breakdown"]
-
-      - name: "Fundamentals of Drivers"
-        url: "https://www.youtube.com/watch?v=Pri4vLx42nA"
-        description: "Blender drivers fundamentals."
-        entry_type: "tutorial"
-        readme_tags: ["Drivers", "Fundamentals"]
-
-      - name: "Realistic Hair in Blender"
-        url: "https://www.wingfox.com/c/8319"
-        description: "Hair creation course."
-        entry_type: "tutorial"
-        tags: { workflow: [modeling] }
-        readme_tags: ["Hair", "Course"]
-
-      - name: "Blender Checklist"
-        url: "https://docs.google.com/spreadsheets/d/1RCY6nTIVgl208ckadipBWVos8_kHOu3HFTQgapN59_U/"
-        description: "Checklist of Blender features and workflows."
-        entry_type: "reference"
-        readme_tags: ["Checklist", "Workflow"]
-
-  # ------------------------------------------------------------------
+      - name: Blender Tutorial for Complete Beginners
+        url: https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z
+        description: Blender Guru full beginner series.
+        entry_type: tutorial
+        tags:
+          skill:
+            - beginner
+        readme_tags:
+          - Blender Guru
+          - Beginner
+      - name: Gemstone Shader Breakdown
+        url: https://www.blendernation.com/2017/03/25/gemstone-shader-breakdown/
+        description: Gemstone shader breakdown article.
+        entry_type: tutorial
+        tags:
+          workflow:
+            - material-authoring
+        readme_tags:
+          - Shader
+          - Breakdown
+      - name: Fundamentals of Drivers
+        url: https://www.youtube.com/watch?v=Pri4vLx42nA
+        description: Blender drivers fundamentals.
+        entry_type: tutorial
+        readme_tags:
+          - Drivers
+          - Fundamentals
+      - name: Realistic Hair in Blender
+        url: https://www.wingfox.com/c/8319
+        description: Hair creation course.
+        entry_type: tutorial
+        tags:
+          workflow:
+            - modeling
+        readme_tags:
+          - Hair
+          - Course
+      - name: Blender Checklist
+        url: https://docs.google.com/spreadsheets/d/1RCY6nTIVgl208ckadipBWVos8_kHOu3HFTQgapN59_U/
+        description: Checklist of Blender features and workflows.
+        entry_type: reference
+        readme_tags:
+          - Checklist
+          - Workflow
   - slug: houdini-getting-started
-    title: "Houdini — Getting Started"
-    description: "Beginner-friendly Houdini intros."
+    title: Houdini — Getting Started
+    description: Beginner-friendly Houdini intros.
     entries:
-      - name: "SideFX Learn"
-        url: "https://www.sidefx.com/learn/"
-        description: "Official curated learning hub."
-        entry_type: "reference"
-        readme_tags: ["Official", "Curated Hub"]
-
-      - name: "Houdini Apprentice"
-        url: "https://www.sidefx.com/products/houdini-apprentice/"
-        description: "Free learning version of Houdini."
-        license: "Free NC"
-        entry_type: "software"
-        best_for: "Learning Houdini for free"
-        tags: { platform: [win, mac, linux] }
-        readme_tags: ["Free NC", "Learning Version"]
-
-      - name: "Houdini Isn't Scary"
-        url: "https://www.youtube.com/watch?v=Tsv8UGqDibc"
-        description: "Beginner series by NineBetween."
-        entry_type: "tutorial"
-        tags: { skill: [beginner] }
-        readme_tags: ["Beginner Series", "NineBetween"]
-
-      - name: "Houdini is Hip"
-        url: "https://youtu.be/9AHoNjjh-wQ"
-        description: "Updated beginner series by NineBetween."
-        entry_type: "tutorial"
-        tags: { skill: [beginner] }
-        readme_tags: ["Beginner Series", "NineBetween"]
-
-      - name: "Houdini Donut in Any Shape"
-        url: "https://vimeo.com/492505292"
-        description: "Procedural donut by Lewis Orton."
-        entry_type: "tutorial"
-        tags: { tech: [procedural] }
-        readme_tags: ["Procedural", "Classic Intro"]
-
-      - name: "Houdini in Five Minutes"
-        url: "https://vimeo.com/384384552"
-        description: "Quick intro by Entagma."
-        entry_type: "tutorial"
-        readme_tags: ["Quick Intro", "Entagma"]
-
-      - name: "Easy Voxel Effect Tutorial"
-        url: "https://www.youtube.com/watch?v=EPfxBdxu1m0"
-        description: "Beginner voxel tutorial."
-        entry_type: "tutorial"
-        tags: { skill: [beginner] }
-        readme_tags: ["Voxel", "Beginner"]
-
-      - name: "Voxels, Volumes, and VDBs"
-        url: "https://www.youtube.com/watch?v=UKED3rpvYEw"
-        description: "Concept explanation of voxels, volumes, and VDBs."
-        entry_type: "tutorial"
-        readme_tags: ["Concepts", "VDB"]
-
-      - name: "Rohan Dalvi Intro Videos"
-        url: "https://www.youtube.com/watch?v=omQq03X5YZE"
-        description: "Beginner series."
-        entry_type: "tutorial"
-        tags: { skill: [beginner] }
-        readme_tags: ["Beginner", "Rohan Dalvi"]
-
-      - name: "SideFX Character Course (FREE)"
-        url: "https://www.youtube.com/watch?v=2gBAPe4OsXA&list=PLXNFA1EysfYmpOEGcK1x_r6g_h2dOwAC4"
-        description: "Comprehensive free character course from SideFX."
-        license: "Free"
-        entry_type: "tutorial"
-        tags: { workflow: [modeling, rigging] }
-        readme_tags: ["Character Course", "Free"]
-
-      - name: "How to Learn Houdini"
-        url: "https://www.youtube.com/watch?v=Y22rYfJE64o"
-        description: "Matt Estela talk on learning Houdini."
-        entry_type: "tutorial"
-        readme_tags: ["Matt Estela", "Learning Advice"]
-
-  # ------------------------------------------------------------------
+      - name: SideFX Learn
+        url: https://www.sidefx.com/learn/
+        description: Official curated learning hub.
+        entry_type: reference
+        readme_tags:
+          - Official
+          - Curated Hub
+      - name: Houdini Apprentice
+        url: https://www.sidefx.com/products/houdini-apprentice/
+        description: Free learning version of Houdini.
+        license: Free NC
+        entry_type: software
+        best_for: Learning Houdini for free
+        tags:
+          platform:
+            - win
+            - mac
+            - linux
+        readme_tags:
+          - Free NC
+          - Learning Version
+      - name: Houdini Isn't Scary
+        url: https://www.youtube.com/watch?v=Tsv8UGqDibc
+        description: Beginner series by NineBetween.
+        entry_type: tutorial
+        tags:
+          skill:
+            - beginner
+        readme_tags:
+          - Beginner Series
+          - NineBetween
+      - name: Houdini is Hip
+        url: https://youtu.be/9AHoNjjh-wQ
+        description: Updated beginner series by NineBetween.
+        entry_type: tutorial
+        tags:
+          skill:
+            - beginner
+        readme_tags:
+          - Beginner Series
+          - NineBetween
+      - name: Houdini Donut in Any Shape
+        url: https://vimeo.com/492505292
+        description: Procedural donut by Lewis Orton.
+        entry_type: tutorial
+        tags:
+          tech:
+            - procedural
+        readme_tags:
+          - Procedural
+          - Classic Intro
+      - name: Houdini in Five Minutes
+        url: https://vimeo.com/384384552
+        description: Quick intro by Entagma.
+        entry_type: tutorial
+        readme_tags:
+          - Quick Intro
+          - Entagma
+      - name: Easy Voxel Effect Tutorial
+        url: https://www.youtube.com/watch?v=EPfxBdxu1m0
+        description: Beginner voxel tutorial.
+        entry_type: tutorial
+        tags:
+          skill:
+            - beginner
+        readme_tags:
+          - Voxel
+          - Beginner
+      - name: Voxels, Volumes, and VDBs
+        url: https://www.youtube.com/watch?v=UKED3rpvYEw
+        description: Concept explanation of voxels, volumes, and VDBs.
+        entry_type: tutorial
+        readme_tags:
+          - Concepts
+          - VDB
+      - name: Rohan Dalvi Intro Videos
+        url: https://www.youtube.com/watch?v=omQq03X5YZE
+        description: Beginner series.
+        entry_type: tutorial
+        tags:
+          skill:
+            - beginner
+        readme_tags:
+          - Beginner
+          - Rohan Dalvi
+      - name: SideFX Character Course (FREE)
+        url: https://www.youtube.com/watch?v=2gBAPe4OsXA&list=PLXNFA1EysfYmpOEGcK1x_r6g_h2dOwAC4
+        description: Comprehensive free character course from SideFX.
+        license: Free
+        entry_type: tutorial
+        tags:
+          workflow:
+            - modeling
+            - rigging
+        readme_tags:
+          - Character Course
+          - Free
+      - name: How to Learn Houdini
+        url: https://www.youtube.com/watch?v=Y22rYfJE64o
+        description: Matt Estela talk on learning Houdini.
+        entry_type: tutorial
+        readme_tags:
+          - Matt Estela
+          - Learning Advice
   - slug: houdini-essential-learning
-    title: "Houdini — Essential Learning Resources"
-    description: "Long-form Houdini learning hubs."
+    title: Houdini — Essential Learning Resources
+    description: Long-form Houdini learning hubs.
     entries:
-      - name: "CGWiki (tokeru.com)"
-        url: "http://www.tokeru.com/cgwiki/?title=Houdini"
-        description: "Matt Estela's CGWiki — the most comprehensive Houdini reference (Joy of VEX, LOPS, particles, everything)."
-        entry_type: "reference"
-        readme_tags: ["Essential Reference", "Matt Estela"]
-
-      - name: "Entagma"
-        url: "http://www.entagma.com/"
-        description: "Advanced design and mograph tutorials. Also Unreal and Blender."
-        entry_type: "channel"
-        readme_tags: ["Advanced", "Design/Mograph"]
-
-      - name: "Applied Houdini"
-        url: "http://www.appliedhoudini.com/"
-        description: "Stephen Knipping's FX-focused course series (ILM)."
-        license: "Paid"
-        entry_type: "tutorial"
-        tags: { workflow: [fx] }
-        readme_tags: ["FX Focus", "ILM Pro"]
-
-      - name: "SideFX Tutorials"
-        url: "https://www.sidefx.com/tutorials/"
-        description: "Official tutorials."
-        entry_type: "tutorial"
-        readme_tags: ["Official", "Comprehensive"]
-
-      - name: "Farmfield (Vimeo)"
-        url: "https://vimeo.com/farmfield"
-        description: "Setups and hip files from Johnny Farmfield."
-        entry_type: "channel"
-        readme_tags: ["Setups + Hips", "Farmfield"]
-
-      - name: "John Kunz"
-        url: "https://www.johnkunz.com/"
-        description: "Weekly streams — FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/))."
-        entry_type: "channel"
-        readme_tags: ["Weekly Streams", "FX + Code"]
-
-  # ------------------------------------------------------------------
+      - name: CGWiki (tokeru.com)
+        url: http://www.tokeru.com/cgwiki/?title=Houdini
+        description: Matt Estela's CGWiki — the most comprehensive Houdini reference (Joy of VEX, LOPS, particles, everything).
+        entry_type: reference
+        readme_tags:
+          - Essential Reference
+          - Matt Estela
+      - name: Entagma
+        url: http://www.entagma.com/
+        description: Advanced design and mograph tutorials. Also Unreal and Blender.
+        entry_type: channel
+        readme_tags:
+          - Advanced
+          - Design/Mograph
+      - name: Applied Houdini
+        url: http://www.appliedhoudini.com/
+        description: Stephen Knipping's FX-focused course series (ILM).
+        license: Paid
+        entry_type: tutorial
+        tags:
+          workflow:
+            - fx
+        readme_tags:
+          - FX Focus
+          - ILM Pro
+      - name: SideFX Tutorials
+        url: https://www.sidefx.com/tutorials/
+        description: Official tutorials.
+        entry_type: tutorial
+        readme_tags:
+          - Official
+          - Comprehensive
+      - name: Farmfield (Vimeo)
+        url: https://vimeo.com/farmfield
+        description: Setups and hip files from Johnny Farmfield.
+        entry_type: channel
+        readme_tags:
+          - Setups + Hips
+          - Farmfield
+      - name: John Kunz
+        url: https://www.johnkunz.com/
+        description: Weekly streams — FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/)).
+        entry_type: channel
+        readme_tags:
+          - Weekly Streams
+          - FX + Code
   - slug: houdini-vex-coding
-    title: "Houdini — VEX & Coding"
-    description: "VEX, Python, OpenCL, and scripting in Houdini."
+    title: Houdini — VEX & Coding
+    description: VEX, Python, OpenCL, and scripting in Houdini.
     entries:
-      - name: "1 Minute VEX"
-        url: "https://aaronsmith.tv/1-Minute-VEX"
-        description: "Bite-sized VEX lessons."
-        entry_type: "tutorial"
-        readme_tags: ["Bite-sized", "VEX"]
-
-      - name: "VEX Isn't Scary"
-        url: "https://www.youtube.com/watch?v=OeaqMWzkyiw"
-        description: "NineBetween VEX series."
-        entry_type: "tutorial"
-        tags: { skill: [beginner] }
-        readme_tags: ["VEX Intro", "NineBetween"]
-
-      - name: "VEX Wrangle Cheat Sheet"
-        url: "https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html"
-        description: "Quick VEX reference by Mr Kunz."
-        entry_type: "reference"
-        readme_tags: ["Cheat Sheet", "Reference"]
-
-      - name: "Python Snippets for Houdini"
-        url: "https://github.com/kiryha/houdini/wiki/python-snippets"
-        description: "Python snippets wiki."
-        entry_type: "reference"
-        readme_tags: ["Python", "Snippets"]
-
-      - name: "Python Startup Scripts"
-        url: "https://houdinitricks.com/python-houdini-start-scripts-part-1/"
-        description: "Python startup scripts guide."
-        entry_type: "tutorial"
-        readme_tags: ["Python", "Startup Scripts"]
-
-      - name: "VFXBrain VEX"
-        url: "https://vfxbrain.wordpress.com/category/vex/"
-        description: "VEX tutorials blog."
-        entry_type: "channel"
-        readme_tags: ["VEX", "Blog"]
-
-      - name: "HouPy Wiki"
-        url: "https://www.houpywiki.com/"
-        description: "Houdini Python wiki — packages, shelf scripts, menu customization, node graph hooks."
-        entry_type: "reference"
-        readme_tags: ["Python Wiki", "Deep Reference"]
-
-      - name: "OpenCL in Houdini"
-        url: "https://pepefx.blogspot.com/2019/03/opencl-notes.html"
-        description: "OpenCL notes for Houdini."
-        entry_type: "reference"
-        readme_tags: ["OpenCL", "Advanced"]
-
-  # ------------------------------------------------------------------
+      - name: 1 Minute VEX
+        url: https://aaronsmith.tv/1-Minute-VEX
+        description: Bite-sized VEX lessons.
+        entry_type: tutorial
+        readme_tags:
+          - Bite-sized
+          - VEX
+      - name: VEX Isn't Scary
+        url: https://www.youtube.com/watch?v=OeaqMWzkyiw
+        description: NineBetween VEX series.
+        entry_type: tutorial
+        tags:
+          skill:
+            - beginner
+        readme_tags:
+          - VEX Intro
+          - NineBetween
+      - name: VEX Wrangle Cheat Sheet
+        url: https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html
+        description: Quick VEX reference by Mr Kunz.
+        entry_type: reference
+        readme_tags:
+          - Cheat Sheet
+          - Reference
+      - name: Python Snippets for Houdini
+        url: https://github.com/kiryha/houdini/wiki/python-snippets
+        description: Python snippets wiki.
+        entry_type: reference
+        readme_tags:
+          - Python
+          - Snippets
+      - name: Python Startup Scripts
+        url: https://houdinitricks.com/python-houdini-start-scripts-part-1/
+        description: Python startup scripts guide.
+        entry_type: tutorial
+        readme_tags:
+          - Python
+          - Startup Scripts
+      - name: VFXBrain VEX
+        url: https://vfxbrain.wordpress.com/category/vex/
+        description: VEX tutorials blog.
+        entry_type: channel
+        readme_tags:
+          - VEX
+          - Blog
+      - name: HouPy Wiki
+        url: https://www.houpywiki.com/
+        description: Houdini Python wiki — packages, shelf scripts, menu customization, node graph hooks.
+        entry_type: reference
+        readme_tags:
+          - Python Wiki
+          - Deep Reference
+      - name: OpenCL in Houdini
+        url: https://pepefx.blogspot.com/2019/03/opencl-notes.html
+        description: OpenCL notes for Houdini.
+        entry_type: reference
+        readme_tags:
+          - OpenCL
+          - Advanced
   - slug: houdini-fx-simulations
-    title: "Houdini — FX & Simulations"
-    description: "Vellum, FLIP, Pyro, and other simulation workflows."
+    title: Houdini — FX & Simulations
+    description: Vellum, FLIP, Pyro, and other simulation workflows.
     entries:
-      - name: "Intro to Vellum"
-        url: "https://www.youtube.com/watch?v=qAraO2E-v84"
-        description: "Softbodies, cloth, character FX with Vellum."
-        entry_type: "tutorial"
-        tags: { workflow: [simulation, fx] }
-        readme_tags: ["Vellum", "Intro"]
-
-      - name: "WhatIFound (Jason Harmon)"
-        url: "https://www.youtube.com/whatifound"
-        description: "Liquid and fluid tutorials."
-        entry_type: "channel"
-        tags: { workflow: [simulation, fx] }
-        readme_tags: ["Fluids", "Jason Harmon"]
-
-      - name: "Vellum Rigid Bodies & Fluid"
-        url: "https://www.youtube.com/watch?v=5s8I2fs8kMs"
-        description: "John Lynch H19.5 Vellum tutorial."
-        entry_type: "tutorial"
-        readme_tags: ["Vellum", "H19.5"]
-
-      - name: "Custom Smoke Solver"
-        url: "https://vimeo.com/278227586"
-        description: "Custom smoke solver walkthrough."
-        entry_type: "tutorial"
-        readme_tags: ["Smoke", "Custom Solver"]
-
-      - name: "Smart Crown Splash FLIP"
-        url: "https://vimeo.com/182010807"
-        description: "FLIP splash technique."
-        entry_type: "tutorial"
-        readme_tags: ["FLIP", "Splash"]
-
-      - name: "Pop Fluid Tutorial"
-        url: "https://vimeo.com/295491505"
-        description: "POP fluid tutorial."
-        entry_type: "tutorial"
-        readme_tags: ["POP", "Fluids"]
-
-  # ------------------------------------------------------------------
+      - name: Intro to Vellum
+        url: https://www.youtube.com/watch?v=qAraO2E-v84
+        description: Softbodies, cloth, character FX with Vellum.
+        entry_type: tutorial
+        tags:
+          workflow:
+            - simulation
+            - fx
+        readme_tags:
+          - Vellum
+          - Intro
+      - name: WhatIFound (Jason Harmon)
+        url: https://www.youtube.com/whatifound
+        description: Liquid and fluid tutorials.
+        entry_type: channel
+        tags:
+          workflow:
+            - simulation
+            - fx
+        readme_tags:
+          - Fluids
+          - Jason Harmon
+      - name: Vellum Rigid Bodies & Fluid
+        url: https://www.youtube.com/watch?v=5s8I2fs8kMs
+        description: John Lynch H19.5 Vellum tutorial.
+        entry_type: tutorial
+        readme_tags:
+          - Vellum
+          - H19.5
+      - name: Custom Smoke Solver
+        url: https://vimeo.com/278227586
+        description: Custom smoke solver walkthrough.
+        entry_type: tutorial
+        readme_tags:
+          - Smoke
+          - Custom Solver
+      - name: Smart Crown Splash FLIP
+        url: https://vimeo.com/182010807
+        description: FLIP splash technique.
+        entry_type: tutorial
+        readme_tags:
+          - FLIP
+          - Splash
+      - name: Pop Fluid Tutorial
+        url: https://vimeo.com/295491505
+        description: POP fluid tutorial.
+        entry_type: tutorial
+        readme_tags:
+          - POP
+          - Fluids
   - slug: houdini-rigging-animation
-    title: "Houdini — Rigging & Animation (KineFX)"
-    description: "KineFX rigging, animation, and crowds."
+    title: Houdini — Rigging & Animation (KineFX)
+    description: KineFX rigging, animation, and crowds.
     entries:
-      - name: "KineFX for Games"
-        url: "https://www.youtube.com/watch?v=mcDm_irEKb0"
-        description: "Great KineFX overview by Luiz Kruel."
-        entry_type: "tutorial"
-        tags: { output: [games] }
-        readme_tags: ["KineFX", "Games Focus"]
-
-      - name: "Procedural Rigging & Animation Tricks"
-        url: "https://www.youtube.com/watch?v=cxs7BTTHCH8"
-        description: "KineFX workflows."
-        entry_type: "tutorial"
-        tags: { tech: [procedural] }
-        readme_tags: ["Procedural", "Tricks"]
-
-      - name: "Crowds and KineFX"
-        url: "https://www.youtube.com/watch?v=1cLPYWj4Lqk"
-        description: "IK-chains on the fly for crowds."
-        entry_type: "tutorial"
-        readme_tags: ["Crowds", "IK"]
-
-      - name: "Secondary Motion in H19"
-        url: "https://vimeo.com/649244909"
-        description: "Paul Esteves — secondary motion workflows."
-        entry_type: "tutorial"
-        readme_tags: ["Secondary Motion", "H19"]
-
-      - name: "Animation Cleanup Tools"
-        url: "https://www.youtube.com/watch?v=cbhMQLUX9Pg"
-        description: "Advanced KineFX animation cleanup."
-        entry_type: "tutorial"
-        readme_tags: ["Advanced", "Cleanup"]
-
-      - name: "KineFX Tips and Tricks (H19.5)"
-        url: "https://youtu.be/XRV-Bg0RlD0"
-        description: "Mihnea at SideFX — KineFX tips."
-        entry_type: "tutorial"
-        readme_tags: ["Tips", "Official"]
-
-      - name: "Space Girl Rigging"
-        url: "https://www.sidefx.com/learn/collections/space-girl-rigging/"
-        description: "Legacy rigging series."
-        entry_type: "tutorial"
-        readme_tags: ["Classic", "Legacy Rig"]
-
-  # ------------------------------------------------------------------
+      - name: KineFX for Games
+        url: https://www.youtube.com/watch?v=mcDm_irEKb0
+        description: Great KineFX overview by Luiz Kruel.
+        entry_type: tutorial
+        tags:
+          output:
+            - games
+        readme_tags:
+          - KineFX
+          - Games Focus
+      - name: Procedural Rigging & Animation Tricks
+        url: https://www.youtube.com/watch?v=cxs7BTTHCH8
+        description: KineFX workflows.
+        entry_type: tutorial
+        tags:
+          tech:
+            - procedural
+        readme_tags:
+          - Procedural
+          - Tricks
+      - name: Crowds and KineFX
+        url: https://www.youtube.com/watch?v=1cLPYWj4Lqk
+        description: IK-chains on the fly for crowds.
+        entry_type: tutorial
+        readme_tags:
+          - Crowds
+          - IK
+      - name: Secondary Motion in H19
+        url: https://vimeo.com/649244909
+        description: Paul Esteves — secondary motion workflows.
+        entry_type: tutorial
+        readme_tags:
+          - Secondary Motion
+          - H19
+      - name: Animation Cleanup Tools
+        url: https://www.youtube.com/watch?v=cbhMQLUX9Pg
+        description: Advanced KineFX animation cleanup.
+        entry_type: tutorial
+        readme_tags:
+          - Advanced
+          - Cleanup
+      - name: KineFX Tips and Tricks (H19.5)
+        url: https://youtu.be/XRV-Bg0RlD0
+        description: Mihnea at SideFX — KineFX tips.
+        entry_type: tutorial
+        readme_tags:
+          - Tips
+          - Official
+      - name: Space Girl Rigging
+        url: https://www.sidefx.com/learn/collections/space-girl-rigging/
+        description: Legacy rigging series.
+        entry_type: tutorial
+        readme_tags:
+          - Classic
+          - Legacy Rig
   - slug: houdini-grooming
-    title: "Houdini — Grooming"
-    description: "Hair and fur grooming workflows."
+    title: Houdini — Grooming
+    description: Hair and fur grooming workflows.
     entries:
-      - name: "Speed Grooming in H19"
-        url: "https://www.youtube.com/watch?v=qyDtZbgwlCM"
-        description: "Hair and fur starting point."
-        entry_type: "tutorial"
-        readme_tags: ["Hair/Fur", "H19"]
-
-  # ------------------------------------------------------------------
+      - name: Speed Grooming in H19
+        url: https://www.youtube.com/watch?v=qyDtZbgwlCM
+        description: Hair and fur starting point.
+        entry_type: tutorial
+        readme_tags:
+          - Hair/Fur
+          - H19
   - slug: houdini-more-tutorials
-    title: "Houdini — Miscellaneous Tutorials"
-    description: "Additional Houdini tutorials across topics."
+    title: Houdini — Miscellaneous Tutorials
+    description: Additional Houdini tutorials across topics.
     entries:
-      - name: "2D Cel Flames with Pyro"
-        url: "https://www.youtube.com/watch?v=jz244YLLqD0"
-        description: "Stylized 2D flame with pyro sim."
-        entry_type: "tutorial"
-        readme_tags: ["Stylized", "Pyro"]
-
-      - name: "Writing Your Own Polywire"
-        url: "https://vimeo.com/336017942"
-        description: "Jake Rice on custom polywire."
-        entry_type: "tutorial"
-        readme_tags: ["Polywire", "Custom"]
-
-      - name: "Procedural Modeling with VEX"
-        url: "https://www.cgcircuit.com/course/procedural-modeling-with-vex"
-        description: "Tighe Rzankowski procedural modeling course."
-        entry_type: "tutorial"
-        license: "Paid"
-        tags: { tech: [procedural] }
-        readme_tags: ["Procedural", "VEX Course"]
-
-      - name: "Animated Recursive Subdivision"
-        url: "https://www.youtube.com/watch?v=GhquYJ9m1Oc"
-        description: "Recursive subdivision animation."
-        entry_type: "tutorial"
-        readme_tags: ["Recursion", "Subdivision"]
-
-      - name: "Extracting Transform Matrices"
-        url: "https://vimeo.com/284712920"
-        description: "How to extract transform matrices."
-        entry_type: "tutorial"
-        readme_tags: ["Matrices", "Technique"]
-
-      - name: "Melty Voronoi Effect"
-        url: "https://www.youtube.com/watch?v=4YNl18E92bk"
-        description: "Voronoi-based melt effect."
-        entry_type: "tutorial"
-        readme_tags: ["Voronoi", "Effect"]
-
-      - name: "Voxel/Lego Pyro Explosion"
-        url: "https://www.youtube.com/watch?v=0zc0pdXbzHo"
-        description: "Stylized voxel explosion."
-        entry_type: "tutorial"
-        readme_tags: ["Voxel", "Stylized"]
-
-      - name: "For Loops Tutorial"
-        url: "https://lesterbanks.com/2019/04/how-to-animate-subdivisions-in-houdini/"
-        description: "For loops and animated subdivisions."
-        entry_type: "tutorial"
-        readme_tags: ["For Loops", "Animation"]
-
-      - name: "Art Directing Paint Splashes"
-        url: "https://whatifound.net/2020/06/13/houdini-paint-splashes/"
-        description: "Art-directed paint splashes."
-        entry_type: "tutorial"
-        readme_tags: ["Paint Splash", "Art Direction"]
-
-      - name: "Building Growth Animation"
-        url: "https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth"
-        description: "Building growth animation technique."
-        entry_type: "tutorial"
-        readme_tags: ["Growth", "Animation"]
-
-      - name: "Node Studies"
-        url: "https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/"
-        description: "Node study slide deck."
-        entry_type: "reference"
-        readme_tags: ["Node Study", "Deck"]
-
-      - name: "Point Cloud to Mesh (Microsoft)"
-        url: "https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini-point-cloud"
-        description: "Point cloud to mesh guide."
-        entry_type: "tutorial"
-        readme_tags: ["Point Cloud", "Mesh"]
-
-      - name: "Cloner Object"
-        url: "https://www.sidefx.com/tutorials/part-1-cloner-object/"
-        description: "MoGraph Cloner tutorial."
-        entry_type: "tutorial"
-        readme_tags: ["MoGraph", "Cloner"]
-
-      - name: "Muscles Masterclass"
-        url: "https://www.sidefx.com/tutorials/muscles-masterclass-advanced-special-topics/"
-        description: "Advanced muscles masterclass."
-        entry_type: "tutorial"
-        readme_tags: ["Muscles", "Advanced"]
-
-      - name: "AI For Artists"
-        url: "https://github.com/kiryha/Houdini/wiki/AI-For-Artists"
-        description: "AI techniques applied to Houdini."
-        entry_type: "reference"
-        tags: { tech: [ai-generative] }
-        readme_tags: ["AI", "Artist-Oriented"]
-
-      - name: "Houdini for Astronomy"
-        url: "http://ytini.com/"
-        description: "Astronomy and scientific viz in Houdini."
-        entry_type: "reference"
-        tags: { output: [scientific-viz] }
-        readme_tags: ["Astronomy", "Sci-Viz"]
-
-      - name: "MysteryPancake Houdini Fun"
-        url: "https://github.com/MysteryPancake/Houdini-Fun"
-        description: "Fun experimental Houdini repo."
-        entry_type: "reference"
-        readme_tags: ["Experiments", "Community"]
-
-      - name: "Houdini Blueprint"
-        url: "https://hdbp.io/"
-        description: "Visual node reference."
-        entry_type: "reference"
-        readme_tags: ["Node Reference", "Visual"]
-
-      - name: "USD Basics with Solaris"
-        url: "https://www.sidefx.com/tutorials/usd-basics-with-solaris/"
-        description: "Official tutorial on USD basics in Solaris."
-        entry_type: "tutorial"
-        tags: { tech: [usd] }
-        readme_tags: ["USD", "Solaris"]
-
-  # ------------------------------------------------------------------
+      - name: 2D Cel Flames with Pyro
+        url: https://www.youtube.com/watch?v=jz244YLLqD0
+        description: Stylized 2D flame with pyro sim.
+        entry_type: tutorial
+        readme_tags:
+          - Stylized
+          - Pyro
+      - name: Writing Your Own Polywire
+        url: https://vimeo.com/336017942
+        description: Jake Rice on custom polywire.
+        entry_type: tutorial
+        readme_tags:
+          - Polywire
+          - Custom
+      - name: Procedural Modeling with VEX
+        url: https://www.cgcircuit.com/course/procedural-modeling-with-vex
+        description: Tighe Rzankowski procedural modeling course.
+        entry_type: tutorial
+        license: Paid
+        tags:
+          tech:
+            - procedural
+        readme_tags:
+          - Procedural
+          - VEX Course
+      - name: Animated Recursive Subdivision
+        url: https://www.youtube.com/watch?v=GhquYJ9m1Oc
+        description: Recursive subdivision animation.
+        entry_type: tutorial
+        readme_tags:
+          - Recursion
+          - Subdivision
+      - name: Extracting Transform Matrices
+        url: https://vimeo.com/284712920
+        description: How to extract transform matrices.
+        entry_type: tutorial
+        readme_tags:
+          - Matrices
+          - Technique
+      - name: Melty Voronoi Effect
+        url: https://www.youtube.com/watch?v=4YNl18E92bk
+        description: Voronoi-based melt effect.
+        entry_type: tutorial
+        readme_tags:
+          - Voronoi
+          - Effect
+      - name: Voxel/Lego Pyro Explosion
+        url: https://www.youtube.com/watch?v=0zc0pdXbzHo
+        description: Stylized voxel explosion.
+        entry_type: tutorial
+        readme_tags:
+          - Voxel
+          - Stylized
+      - name: For Loops Tutorial
+        url: https://lesterbanks.com/2019/04/how-to-animate-subdivisions-in-houdini/
+        description: For loops and animated subdivisions.
+        entry_type: tutorial
+        readme_tags:
+          - For Loops
+          - Animation
+      - name: Art Directing Paint Splashes
+        url: https://whatifound.net/2020/06/13/houdini-paint-splashes/
+        description: Art-directed paint splashes.
+        entry_type: tutorial
+        readme_tags:
+          - Paint Splash
+          - Art Direction
+      - name: Building Growth Animation
+        url: https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth
+        description: Building growth animation technique.
+        entry_type: tutorial
+        readme_tags:
+          - Growth
+          - Animation
+      - name: Node Studies
+        url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/
+        description: Node study slide deck.
+        entry_type: reference
+        readme_tags:
+          - Node Study
+          - Deck
+      - name: Point Cloud to Mesh (Microsoft)
+        url: https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini-point-cloud
+        description: Point cloud to mesh guide.
+        entry_type: tutorial
+        readme_tags:
+          - Point Cloud
+          - Mesh
+      - name: Cloner Object
+        url: https://www.sidefx.com/tutorials/part-1-cloner-object/
+        description: MoGraph Cloner tutorial.
+        entry_type: tutorial
+        readme_tags:
+          - MoGraph
+          - Cloner
+      - name: Muscles Masterclass
+        url: https://www.sidefx.com/tutorials/muscles-masterclass-advanced-special-topics/
+        description: Advanced muscles masterclass.
+        entry_type: tutorial
+        readme_tags:
+          - Muscles
+          - Advanced
+      - name: AI For Artists
+        url: https://github.com/kiryha/Houdini/wiki/AI-For-Artists
+        description: AI techniques applied to Houdini.
+        entry_type: reference
+        tags:
+          tech:
+            - ai-generative
+        readme_tags:
+          - AI
+          - Artist-Oriented
+      - name: Houdini for Astronomy
+        url: http://ytini.com/
+        description: Astronomy and scientific viz in Houdini.
+        entry_type: reference
+        tags:
+          output:
+            - scientific-viz
+        readme_tags:
+          - Astronomy
+          - Sci-Viz
+      - name: MysteryPancake Houdini Fun
+        url: https://github.com/MysteryPancake/Houdini-Fun
+        description: Fun experimental Houdini repo.
+        entry_type: reference
+        readme_tags:
+          - Experiments
+          - Community
+      - name: Houdini Blueprint
+        url: https://hdbp.io/
+        description: Visual node reference.
+        entry_type: reference
+        readme_tags:
+          - Node Reference
+          - Visual
+      - name: USD Basics with Solaris
+        url: https://www.sidefx.com/tutorials/usd-basics-with-solaris/
+        description: Official tutorial on USD basics in Solaris.
+        entry_type: tutorial
+        tags:
+          tech:
+            - usd
+        readme_tags:
+          - USD
+          - Solaris
   - slug: houdini-plugins-tools
-    title: "Houdini — Plugins & Tools"
-    description: "Toolkits, pipeline tools, and HDAs."
+    title: Houdini — Plugins & Tools
+    description: Toolkits, pipeline tools, and HDAs.
     entries:
-      - name: "MOPS"
-        url: "https://www.motionoperators.com/"
-        description: "Motion graphics toolkit by Toadstorm."
-        license: "Free"
-        entry_type: "plugin"
-        tags: { output: [motion-graphics] }
-        readme_tags: ["Motion Graphics", "Toadstorm"]
-
-      - name: "SideFX Labs"
-        url: "https://github.com/sideeffects/SideFXLabs"
-        description: "Extended official toolset."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Official", "Extended Tools"]
-
-      - name: "qLib"
-        url: "https://github.com/qLab/qLib"
-        description: "Open-source HDA library."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Open Source", "HDAs"]
-
-      - name: "AElib"
-        url: "https://github.com/Aeoll/Aelib"
-        description: "Free tools by Nick Taylor (ManVsMachine)."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Free Tools", "MvM"]
-
-      - name: "ODTools"
-        url: "https://origamidigital.com/cart/index.php?route=product/product&path=59_63&product_id=64"
-        description: "Pipeline tools by Oliver Hotz."
-        license: "Paid"
-        entry_type: "plugin"
-        readme_tags: ["Pipeline", "Oliver Hotz"]
-
-      - name: "Houdini Engine for Unreal"
-        url: "https://github.com/AdrianPanGithub/HoudiniEngineForUnreal"
-        description: "Rebuilt Houdini Engine for UE, 2x-15x faster."
-        license: "Open Source"
-        entry_type: "plugin"
-        tags: { tech: [unreal-plugin] }
-        readme_tags: ["UE Bridge", "Performance"]
-
-      - name: "EarthMesh Houdini"
-        url: "https://github.com/xjorma/EarthMeshHoudini"
-        description: "Real-world meshes via Google API."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Google Earth", "Real-world"]
-
-      - name: "VFX-LYNX"
-        url: "https://github.com/LucaScheller/VFX-LYNX"
-        description: "Open-source pipeline tools."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Pipeline", "Open Source"]
-
-      - name: "Axiom"
-        url: "https://www.mattpuchala.com/axiom"
-        description: "Sparse fluid solver by Matthew Puchala."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { workflow: [simulation, fx] }
-        readme_tags: ["Sparse Fluids", "GPU"]
-
-      - name: "Modeler"
-        url: "https://alexeyvanzhula.gumroad.com/l/jaoest"
-        description: "Modeling toolkit."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { workflow: [modeling] }
-        readme_tags: ["Modeling Toolkit", "Paid"]
-
-      - name: "GroomBear"
-        url: "https://gumroad.com/kwac#yndnV"
-        description: "Grooming toolkit."
-        license: "Paid"
-        entry_type: "plugin"
-        readme_tags: ["Grooming", "Paid"]
-
-      - name: "Tighe Rzankowski's Tools"
-        url: "https://gumroad.com/trzanko"
-        description: "Feather grooming and more."
-        entry_type: "plugin"
-        readme_tags: ["Feathers", "Grooming"]
-
-      - name: "Rich Lord's Tools"
-        url: "https://www.richlord.com/tools"
-        description: "Tools from ex-Valve animator."
-        entry_type: "plugin"
-        readme_tags: ["Animation Tools", "Valve Alum"]
-
-      - name: "_.hips"
-        url: "https://github.com/lcrs/_.hips"
-        description: "Various Houdini tools."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Misc Tools", "Open Source"]
-
-      - name: "Ffmpeg"
-        url: "https://ffmpeg.org/"
-        description: "Flipbook to MP4 conversion tool ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM))."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["Flipbook→MP4", "CLI"]
-
-  # ------------------------------------------------------------------
+      - name: MOPS
+        url: https://www.motionoperators.com/
+        description: Motion graphics toolkit by Toadstorm.
+        license: Free
+        entry_type: plugin
+        tags:
+          output:
+            - motion-graphics
+        readme_tags:
+          - Motion Graphics
+          - Toadstorm
+      - name: SideFX Labs
+        url: https://github.com/sideeffects/SideFXLabs
+        description: Extended official toolset.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Official
+          - Extended Tools
+      - name: qLib
+        url: https://github.com/qLab/qLib
+        description: Open-source HDA library.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Open Source
+          - HDAs
+      - name: AElib
+        url: https://github.com/Aeoll/Aelib
+        description: Free tools by Nick Taylor (ManVsMachine).
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Free Tools
+          - MvM
+      - name: ODTools
+        url: https://origamidigital.com/cart/index.php?route=product/product&path=59_63&product_id=64
+        description: Pipeline tools by Oliver Hotz.
+        license: Paid
+        entry_type: plugin
+        readme_tags:
+          - Pipeline
+          - Oliver Hotz
+      - name: Houdini Engine for Unreal
+        url: https://github.com/AdrianPanGithub/HoudiniEngineForUnreal
+        description: Rebuilt Houdini Engine for UE, 2x-15x faster.
+        license: Open Source
+        entry_type: plugin
+        tags:
+          tech:
+            - unreal-plugin
+        readme_tags:
+          - UE Bridge
+          - Performance
+      - name: EarthMesh Houdini
+        url: https://github.com/xjorma/EarthMeshHoudini
+        description: Real-world meshes via Google API.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Google Earth
+          - Real-world
+      - name: VFX-LYNX
+        url: https://github.com/LucaScheller/VFX-LYNX
+        description: Open-source pipeline tools.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Pipeline
+          - Open Source
+      - name: Axiom
+        url: https://www.mattpuchala.com/axiom
+        description: Sparse fluid solver by Matthew Puchala.
+        license: Paid
+        entry_type: plugin
+        tags:
+          workflow:
+            - simulation
+            - fx
+        readme_tags:
+          - Sparse Fluids
+          - GPU
+      - name: Modeler
+        url: https://alexeyvanzhula.gumroad.com/l/jaoest
+        description: Modeling toolkit.
+        license: Paid
+        entry_type: plugin
+        tags:
+          workflow:
+            - modeling
+        readme_tags:
+          - Modeling Toolkit
+          - Paid
+      - name: GroomBear
+        url: https://gumroad.com/kwac#yndnV
+        description: Grooming toolkit.
+        license: Paid
+        entry_type: plugin
+        readme_tags:
+          - Grooming
+          - Paid
+      - name: Tighe Rzankowski's Tools
+        url: https://gumroad.com/trzanko
+        description: Feather grooming and more.
+        entry_type: plugin
+        readme_tags:
+          - Feathers
+          - Grooming
+      - name: Rich Lord's Tools
+        url: https://www.richlord.com/tools
+        description: Tools from ex-Valve animator.
+        entry_type: plugin
+        readme_tags:
+          - Animation Tools
+          - Valve Alum
+      - name: _.hips
+        url: https://github.com/lcrs/_.hips
+        description: Various Houdini tools.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Misc Tools
+          - Open Source
+      - name: Ffmpeg
+        url: https://ffmpeg.org/
+        description: Flipbook to MP4 conversion tool ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM)).
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - Flipbook→MP4
+          - CLI
   - slug: houdini-courses-rebelway
-    title: "Houdini — Courses & Free Content"
-    description: "Structured courses for Houdini."
+    title: Houdini — Courses & Free Content
+    description: Structured courses for Houdini.
     entries:
-      - name: "Rebelway"
-        url: "https://www.rebelway.net/"
-        description: "FX, procedural modeling, VEX, pyro, destruction, fluid, fur, muscle, lighting, ML courses. Many free tutorials."
-        license: "Freemium"
-        entry_type: "tutorial"
-        tags: { workflow: [fx, simulation] }
-        readme_tags: ["Course Hub", "Free + Paid"]
-
-      - name: "Rebelway YouTube"
-        url: "https://www.youtube.com/@Rebelway"
-        description: "Free Rebelway tutorials on YouTube."
-        license: "Free"
-        entry_type: "channel"
-        readme_tags: ["Free YouTube", "FX Focus"]
-
-  # ------------------------------------------------------------------
+      - name: Rebelway
+        url: https://www.rebelway.net/
+        description: FX, procedural modeling, VEX, pyro, destruction, fluid, fur, muscle, lighting, ML courses. Many free tutorials.
+        license: Freemium
+        entry_type: tutorial
+        tags:
+          workflow:
+            - fx
+            - simulation
+        readme_tags:
+          - Course Hub
+          - Free + Paid
+      - name: Rebelway YouTube
+        url: https://www.youtube.com/@Rebelway
+        description: Free Rebelway tutorials on YouTube.
+        license: Free
+        entry_type: channel
+        readme_tags:
+          - Free YouTube
+          - FX Focus
   - slug: houdini-communities
-    title: "Houdini — Communities"
-    description: "Forums, Discords, and tip archives."
-    dual_listed_in: ["learning-community-industry"]
+    title: Houdini — Communities
+    description: Forums, Discords, and tip archives.
+    dual_listed_in:
+      - learning-community-industry
     entries:
-      - name: "OdForce"
-        url: "https://forums.odforce.net/"
-        description: "Most active Houdini forum."
-        entry_type: "community"
-        readme_tags: ["Forum", "Very Active"]
-
-      - name: "Houdini Nerd Discord"
-        url: "https://discord.gg/E9zA9Ft"
-        description: "Christopher Rutledge's Houdini community."
-        entry_type: "community"
-        readme_tags: ["Discord", "Community"]
-
-      - name: "Think Procedural Discord"
-        url: "https://discord.gg/thinkprocedural"
-        description: "Procedural-focused Houdini Discord."
-        entry_type: "community"
-        readme_tags: ["Discord", "Procedural"]
-
-      - name: "r/Houdini"
-        url: "https://reddit.com/r/Houdini"
-        description: "Houdini subreddit."
-        entry_type: "community"
-        readme_tags: ["Reddit", "Community"]
-
-      - name: "SideFX Houdini on Bilibili"
-        url: "https://search.bilibili.com/all?keyword=sidefx%20houdini"
-        description: "Chinese Houdini tutorials."
-        entry_type: "community"
-        readme_tags: ["Chinese Content", "Bilibili"]
-
-      - name: "Daily Hip"
-        url: "https://dailyhip.wordpress.com/"
-        description: "Tips from Eetu."
-        entry_type: "channel"
-        readme_tags: ["Tips", "Archive"]
-
-      - name: "Houdini Tricks"
-        url: "https://houdinitricks.tumblr.com/archive"
-        description: "Quick tips archive."
-        entry_type: "reference"
-        readme_tags: ["Tips Archive", "Quick Reference"]
-
-      - name: "VFX Arabia Houdini Tools"
-        url: "https://www.vfxarabia.co/blog/categories/houdini-tools"
-        description: "Houdini tools blog."
-        entry_type: "channel"
-        readme_tags: ["Blog", "Tools"]
-
-  # ------------------------------------------------------------------
+      - name: OdForce
+        url: https://forums.odforce.net/
+        description: Most active Houdini forum.
+        entry_type: community
+        readme_tags:
+          - Forum
+          - Very Active
+      - name: Houdini Nerd Discord
+        url: https://discord.gg/E9zA9Ft
+        description: Christopher Rutledge's Houdini community.
+        entry_type: community
+        readme_tags:
+          - Discord
+          - Community
+      - name: Think Procedural Discord
+        url: https://discord.gg/thinkprocedural
+        description: Procedural-focused Houdini Discord.
+        entry_type: community
+        readme_tags:
+          - Discord
+          - Procedural
+      - name: r/Houdini
+        url: https://reddit.com/r/Houdini
+        description: Houdini subreddit.
+        entry_type: community
+        readme_tags:
+          - Reddit
+          - Community
+      - name: SideFX Houdini on Bilibili
+        url: https://search.bilibili.com/all?keyword=sidefx%20houdini
+        description: Chinese Houdini tutorials.
+        entry_type: community
+        readme_tags:
+          - Chinese Content
+          - Bilibili
+      - name: Daily Hip
+        url: https://dailyhip.wordpress.com/
+        description: Tips from Eetu.
+        entry_type: channel
+        readme_tags:
+          - Tips
+          - Archive
+      - name: Houdini Tricks
+        url: https://houdinitricks.tumblr.com/archive
+        description: Quick tips archive.
+        entry_type: reference
+        readme_tags:
+          - Tips Archive
+          - Quick Reference
+      - name: VFX Arabia Houdini Tools
+        url: https://www.vfxarabia.co/blog/categories/houdini-tools
+        description: Houdini tools blog.
+        entry_type: channel
+        readme_tags:
+          - Blog
+          - Tools
   - slug: cinema-4d-learning
-    title: "Cinema 4D — Learning"
-    description: "C4D tutorials and learning hubs."
+    title: Cinema 4D — Learning
+    description: C4D tutorials and learning hubs.
     entries:
-      - name: "C4D Center"
-        url: "https://www.c4dcenter.com/"
-        description: "Tutorials and resources."
-        entry_type: "channel"
-        readme_tags: ["Tutorials", "Community"]
-
-      - name: "Cineversity"
-        url: "http://www.cineversity.com/"
-        description: "Official Maxon tutorials."
-        entry_type: "tutorial"
-        readme_tags: ["Official", "Maxon"]
-
-      - name: "School of Motion"
-        url: "https://www.schoolofmotion.com/"
-        description: "C4D, motion graphics, animation, After Effects, design courses."
-        license: "Paid"
-        entry_type: "tutorial"
-        tags: { output: [motion-graphics] }
-        readme_tags: ["Mograph Focus", "Structured Courses"]
-
-  # ------------------------------------------------------------------
+      - name: C4D Center
+        url: https://www.c4dcenter.com/
+        description: Tutorials and resources.
+        entry_type: channel
+        readme_tags:
+          - Tutorials
+          - Community
+      - name: Cineversity
+        url: http://www.cineversity.com/
+        description: Official Maxon tutorials.
+        entry_type: tutorial
+        readme_tags:
+          - Official
+          - Maxon
+      - name: School of Motion
+        url: https://www.schoolofmotion.com/
+        description: C4D, motion graphics, animation, After Effects, design courses.
+        license: Paid
+        entry_type: tutorial
+        tags:
+          output:
+            - motion-graphics
+        readme_tags:
+          - Mograph Focus
+          - Structured Courses
   - slug: cinema-4d-plugins
-    title: "Cinema 4D — Plugins"
-    description: "C4D addons and bridges."
+    title: Cinema 4D — Plugins
+    description: C4D addons and bridges.
     entries:
-      - name: "QuadRemesher"
-        url: "https://exoside.com/quadremesher"
-        description: "Automatic retopology."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { workflow: [retopo] }
-        readme_tags: ["Auto Retopo", "Paid"]
-
-      - name: "Forester"
-        url: "https://www.3dquakers.com/"
-        description: "Nature and vegetation."
-        license: "Paid"
-        entry_type: "plugin"
-        readme_tags: ["Nature", "Vegetation"]
-
-      - name: "Video Copilot"
-        url: "https://www.videocopilot.net/"
-        description: "VFX tutorials, Element 3D, Optical Flares."
-        entry_type: "channel"
-        tags: { output: [motion-graphics] }
-        readme_tags: ["VFX Tutorials", "Andrew Kramer"]
-
-      - name: "AEC4D"
-        url: "https://aescripts.com/aec4d/"
-        description: "After Effects ↔ Cinema 4D bridge."
-        license: "Paid"
-        entry_type: "plugin"
-        readme_tags: ["AE Bridge", "Workflow"]
-
-      - name: "Polygon/Vertex Selector"
-        url: "https://code.vonc.fr/"
-        description: "Selection tools."
-        entry_type: "plugin"
-        readme_tags: ["Selection Tools", "Workflow"]
-
-  # ------------------------------------------------------------------
+      - name: QuadRemesher
+        url: https://exoside.com/quadremesher
+        description: Automatic retopology.
+        license: Paid
+        entry_type: plugin
+        tags:
+          workflow:
+            - retopo
+        readme_tags:
+          - Auto Retopo
+          - Paid
+      - name: Forester
+        url: https://www.3dquakers.com/
+        description: Nature and vegetation.
+        license: Paid
+        entry_type: plugin
+        readme_tags:
+          - Nature
+          - Vegetation
+      - name: Video Copilot
+        url: https://www.videocopilot.net/
+        description: VFX tutorials, Element 3D, Optical Flares.
+        entry_type: channel
+        tags:
+          output:
+            - motion-graphics
+        readme_tags:
+          - VFX Tutorials
+          - Andrew Kramer
+      - name: AEC4D
+        url: https://aescripts.com/aec4d/
+        description: After Effects ↔ Cinema 4D bridge.
+        license: Paid
+        entry_type: plugin
+        readme_tags:
+          - AE Bridge
+          - Workflow
+      - name: Polygon/Vertex Selector
+        url: https://code.vonc.fr/
+        description: Selection tools.
+        entry_type: plugin
+        readme_tags:
+          - Selection Tools
+          - Workflow
   - slug: cinema-4d-tips-workflows
-    title: "Cinema 4D — Tips & Workflows"
-    description: "Productivity blogs and shader workflow tricks."
+    title: Cinema 4D — Tips & Workflows
+    description: Productivity blogs and shader workflow tricks.
     entries:
-      - name: "Rolando Barry Blog"
-        url: "https://rolandobarry.com/blog"
-        description: "C4D tips, shader switch workflows, productivity tricks."
-        entry_type: "channel"
-        readme_tags: ["Tips Blog", "Workflows"]
-
-      - name: "Rolando Barry (Gumroad)"
-        url: "https://honear.gumroad.com/"
-        description: "C4D assets and presets."
-        entry_type: "asset-source"
-        readme_tags: ["Presets", "Assets"]
-
-  # ------------------------------------------------------------------
+      - name: Rolando Barry Blog
+        url: https://rolandobarry.com/blog
+        description: C4D tips, shader switch workflows, productivity tricks.
+        entry_type: channel
+        readme_tags:
+          - Tips Blog
+          - Workflows
+      - name: Rolando Barry (Gumroad)
+        url: https://honear.gumroad.com/
+        description: C4D assets and presets.
+        entry_type: asset-source
+        readme_tags:
+          - Presets
+          - Assets
   - slug: 3ds-max-plugins
-    title: "3ds Max — Plugins"
-    description: "3ds Max plugins."
+    title: 3ds Max — Plugins
+    description: 3ds Max plugins.
     entries:
-      - name: "TyFlow"
-        url: "https://docs.tyflow.com/download/"
-        description: "Advanced particle/dynamics system — destruction, cloth, fluids."
-        entry_type: "plugin"
-        tags: { workflow: [simulation, fx] }
-        readme_tags: ["Particles/Dynamics", "3ds Max"]
-
-  # ------------------------------------------------------------------
+      - name: TyFlow
+        url: https://docs.tyflow.com/download/
+        description: Advanced particle/dynamics system — destruction, cloth, fluids.
+        entry_type: plugin
+        tags:
+          workflow:
+            - simulation
+            - fx
+        readme_tags:
+          - Particles/Dynamics
+          - 3ds Max
   - slug: fusion-360-learning
-    title: "Fusion 360 — Learning"
-    description: "Fusion 360 courses."
+    title: Fusion 360 — Learning
+    description: Fusion 360 courses.
     entries:
-      - name: "Fusion for Designers"
-        url: "https://academy.autodesk.com/node/125666/take?q-nr=2"
-        description: "Autodesk Academy course for designers."
-        license: "Free"
-        entry_type: "tutorial"
-        readme_tags: ["Autodesk Academy", "Designers"]
-
-      - name: "Prosthetic Design"
-        url: "https://academy.autodesk.com/node/119050/take?q-nr=1"
-        description: "Medical design course."
-        license: "Free"
-        entry_type: "tutorial"
-        readme_tags: ["Medical Design", "Course"]
-
-  # ------------------------------------------------------------------
+      - name: Fusion for Designers
+        url: https://academy.autodesk.com/node/125666/take?q-nr=2
+        description: Autodesk Academy course for designers.
+        license: Free
+        entry_type: tutorial
+        readme_tags:
+          - Autodesk Academy
+          - Designers
+      - name: Prosthetic Design
+        url: https://academy.autodesk.com/node/119050/take?q-nr=1
+        description: Medical design course.
+        license: Free
+        entry_type: tutorial
+        readme_tags:
+          - Medical Design
+          - Course
   - slug: material-creation-tools
-    title: "Material Creation Tools"
-    description: "Texture authoring, procedural materials, and baking tools."
+    title: Material Creation Tools
+    description: Texture authoring, procedural materials, and baking tools.
     entries:
-      - name: "Materialize"
-        url: "http://www.boundingboxsoftware.com/materialize/"
-        description: "Free texture map generation from a single image."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Generating normal/height/AO maps"
-        tags: { workflow: [texturing, material-authoring], platform: [win] }
-        readme_tags: ["Free", "Map Generation"]
-
-      - name: "Substance Designer"
-        url: "https://www.adobe.com/products/substance3d-designer.html"
-        description: "Node-based procedural texturing."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Procedural PBR materials"
-        tags: { workflow: [material-authoring], tech: [procedural, node-based, pbr, subscription], platform: [win, mac] }
-        readme_tags: ["Procedural", "Industry Standard"]
-
-      - name: "Substance Painter"
-        url: "https://www.adobe.com/products/substance3d-painter.html"
-        description: "Industry-standard 3D texture painting with smart materials."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "3D texture painting"
-        tags: { workflow: [texturing], tech: [pbr, smart-materials, subscription], platform: [win, mac] }
-        readme_tags: ["Industry Standard", "PBR Painter"]
-
-      - name: "ArmorPaint"
-        url: "https://armorpaint.org/"
-        description: "Open-source texture painting."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "OSS texture painting"
-        tags: { workflow: [texturing], tech: [opensource-alt, gpu], platform: [win, mac, linux] }
-        readme_tags: ["Open Source", "Painter-alt"]
-
-      - name: "SmartNormal 2.0"
-        url: "https://www.smart-page.net/smartnormal/"
-        description: "Normal map generation from images."
-        license: "Free"
-        entry_type: "tool"
-        tags: { workflow: [texturing] }
-        readme_tags: ["Normal Maps", "Browser"]
-
-      - name: "Material Maker"
-        url: "https://www.materialmaker.org/"
-        description: "Open-source procedural texture generator (Substance Designer alternative)."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Procedural PBR materials, free"
-        tags: { workflow: [material-authoring], tech: [procedural, node-based, opensource-alt], platform: [win, mac, linux] }
-        readme_tags: ["Open Source", "SD Alternative"]
-
-      - name: "Texelpaint3D"
-        url: "https://texelpaint3d.com/"
-        description: "Paint directly on 3D model faces without UV unwrapping. 1-pixel-per-triangle workflow."
-        license: "Free"
-        entry_type: "software"
-        best_for: "UV-free 3D painting"
-        tags: { workflow: [texturing] }
-        readme_tags: ["No-UV", "Early Access"]
-
-      - name: "xNormal"
-        url: "https://xnormal.net/"
-        description: "Free high-poly to low-poly baking (normals, AO, cavity)."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Texture baking"
-        tags: { workflow: [texturing], platform: [win] }
-        readme_tags: ["Baking", "Free"]
+      - name: Materialize
+        url: http://www.boundingboxsoftware.com/materialize/
+        description: Free texture map generation from a single image.
+        license: Free
+        entry_type: software
+        best_for: Generating normal/height/AO maps
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          platform:
+            - win
+        readme_tags:
+          - Free
+          - Map Generation
+      - name: Substance Designer
+        url: https://www.adobe.com/products/substance3d-designer.html
+        description: Node-based procedural texturing.
+        license: Paid
+        entry_type: software
+        best_for: Procedural PBR materials
+        tags:
+          workflow:
+            - material-authoring
+          tech:
+            - procedural
+            - node-based
+            - pbr
+            - subscription
+          platform:
+            - win
+            - mac
+        readme_tags:
+          - Procedural
+          - Industry Standard
+      - name: Substance Painter
+        url: https://www.adobe.com/products/substance3d-painter.html
+        description: Industry-standard 3D texture painting with smart materials.
+        license: Paid
+        entry_type: software
+        best_for: 3D texture painting
+        tags:
+          workflow:
+            - texturing
+          tech:
+            - pbr
+            - smart-materials
+            - subscription
+          platform:
+            - win
+            - mac
+        readme_tags:
+          - Industry Standard
+          - PBR Painter
+      - name: ArmorPaint
+        url: https://armorpaint.org/
+        description: Open-source texture painting.
+        license: Open Source
+        entry_type: software
+        best_for: OSS texture painting
+        tags:
+          workflow:
+            - texturing
+          tech:
+            - opensource-alt
+            - gpu
+          platform:
+            - win
+            - mac
+            - linux
+        readme_tags:
+          - Open Source
+          - Painter-alt
+      - name: SmartNormal 2.0
+        url: https://www.smart-page.net/smartnormal/
+        description: Normal map generation from images.
+        license: Free
+        entry_type: tool
+        tags:
+          workflow:
+            - texturing
+        readme_tags:
+          - Normal Maps
+          - Browser
+      - name: Material Maker
+        url: https://www.materialmaker.org/
+        description: Open-source procedural texture generator (Substance Designer alternative).
+        license: Open Source
+        entry_type: software
+        best_for: Procedural PBR materials, free
+        tags:
+          workflow:
+            - material-authoring
+          tech:
+            - procedural
+            - node-based
+            - opensource-alt
+          platform:
+            - win
+            - mac
+            - linux
+        readme_tags:
+          - Open Source
+          - SD Alternative
+      - name: Texelpaint3D
+        url: https://texelpaint3d.com/
+        description: Paint directly on 3D model faces without UV unwrapping. 1-pixel-per-triangle workflow.
+        license: Free
+        entry_type: software
+        best_for: UV-free 3D painting
+        tags:
+          workflow:
+            - texturing
+        readme_tags:
+          - No-UV
+          - Early Access
+      - name: xNormal
+        url: https://xnormal.net/
+        description: Free high-poly to low-poly baking (normals, AO, cavity).
+        license: Free
+        entry_type: software
+        best_for: Texture baking
+        tags:
+          workflow:
+            - texturing
+          platform:
+            - win
+        readme_tags:
+          - Baking
+          - Free

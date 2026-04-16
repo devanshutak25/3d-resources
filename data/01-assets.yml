@@ -1,1296 +1,1836 @@
 slug: assets-libraries
-title: "Assets & Libraries"
-description: "Models, textures, HDRIs, audio, stock — everything downloadable. Asset-first lookup lives here."
-
+title: Assets & Libraries
+description: Models, textures, HDRIs, audio, stock — everything downloadable. Asset-first lookup lives here.
 subsections:
-  # ------------------------------------------------------------------
   - slug: model-libraries-free-general
-    title: "Model Libraries — Free & General"
-    description: "General-purpose 3D model libraries with free downloads."
+    title: Model Libraries — Free & General
+    description: General-purpose 3D model libraries with free downloads.
     entries:
-      - name: "Sketchfab"
-        url: "https://sketchfab.com/"
-        description: "Massive downloadable library."
-        entry_type: "asset-source"
-        tags: { output: [generalist], platform: [web] }
-        readme_tags: ["Massive", "Downloadable"]
-
-      - name: "Poly Haven"
-        url: "https://polyhaven.com/"
-        description: "CC0 models, textures up to 8K+, HDRIs up to 16K."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [generalist], tech: [cc0, pbr] }
-        readme_tags: ["CC0", "PBR"]
-
-      - name: "TurboSquid"
-        url: "https://www.turbosquid.com/"
-        description: "Professional models with free section."
-        entry_type: "marketplace"
-        tags: { output: [generalist] }
-        readme_tags: ["Marketplace", "Free Section"]
-
-      - name: "CGTrader"
-        url: "https://www.cgtrader.com/"
-        description: "Community marketplace."
-        entry_type: "marketplace"
-        readme_tags: ["Marketplace", "Community"]
-
-      - name: "3Dassets.one"
-        url: "https://3dassets.one/?q=&sort=popular"
-        description: "Asset search engine across multiple libraries."
-        entry_type: "tool"
-        readme_tags: ["Search Engine", "Aggregator"]
-
-      - name: "CGHEVEN"
-        url: "https://cgheven.com/"
-        description: "Free CC0 3D and VFX assets."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { tech: [cc0] }
-        readme_tags: ["CC0", "VFX Assets"]
-
-      - name: "Poly Pizza"
-        url: "https://poly.pizza/"
-        description: "Low-poly models (Google Poly archive)."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [games] }
-        readme_tags: ["Low-Poly", "CC-BY"]
-
-      - name: "TheBaseMesh"
-        url: "https://www.thebasemesh.com/model-library"
-        description: "Base meshes for sculpting and rigging."
-        entry_type: "asset-source"
-        tags: { workflow: [sculpting, modeling] }
-        readme_tags: ["Base Meshes", "Sculpting-Ready"]
-
-      - name: "Open3DModel"
-        url: "https://open3dmodel.com/"
-        description: "Free model archive."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Free", "Archive"]
-
-      - name: "Three D Scans"
-        url: "https://threedscans.com/"
-        description: "Free 3D scan archive."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["3D Scans", "Free"]
-
-      - name: "Free3D.io"
-        url: "https://free3d.io/"
-        description: "Free models."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Free Models"]
-
-      - name: "3Dzip"
-        url: "https://3dzip.org/"
-        description: "Free downloads."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Free Downloads"]
-
-      - name: "RigModels"
-        url: "https://rigmodels.com/"
-        description: "Rigged models."
-        entry_type: "asset-source"
-        tags: { workflow: [rigging, animation] }
-        readme_tags: ["Rigged", "Animation-Ready"]
-
-      - name: "3DExport"
-        url: "https://3dexport.com/"
-        description: "Marketplace."
-        entry_type: "marketplace"
-        readme_tags: ["Marketplace"]
-
-      - name: "3Dshaker"
-        url: "https://www.3dshaker.com/free3dmodels"
-        description: "Free models."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Free Models"]
-
-      - name: "Funes"
-        url: "https://funes.world/"
-        description: "3D cultural heritage."
-        entry_type: "asset-source"
-        tags: { output: [scientific-viz] }
-        readme_tags: ["Cultural Heritage", "Scanned"]
-
-      - name: "Free3D"
-        url: "https://free3d.com/"
-        description: "Large free collection."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Large Collection", "Free"]
-
-      - name: "3D MDB"
-        url: "https://3dmdb.com/"
-        description: "Model database."
-        entry_type: "tool"
-        readme_tags: ["Database", "Search"]
-
-      - name: "MyMiniFactory Scan the World"
-        url: "https://www.myminifactory.com/scantheworld/"
-        description: "Scan the World collection of scanned heritage objects."
-        entry_type: "asset-source"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["Heritage Scans", "Free"]
-
-      - name: "Stanford 3D Scanning Repository"
-        url: "https://graphics.stanford.edu/data/3Dscanrep/"
-        description: "Classic academic 3D scans (bunny, dragon, etc.)."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["Academic", "Test Meshes"]
-
-      - name: "Casual Effects Data"
-        url: "https://casual-effects.com/data/index.html"
-        description: "Graphics research datasets and test scenes."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Research", "Test Scenes"]
-
-      - name: "Keenan Crane's Model Repository"
-        url: "https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/"
-        description: "Clean test meshes for shader and subdivision work."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Clean Meshes", "Shader Testing"]
-
-      - name: "CadNav"
-        url: "https://www.cadnav.com/"
-        description: "Architecture, furniture, vehicle models."
-        entry_type: "asset-source"
-        tags: { output: [archviz, product-viz] }
-        readme_tags: ["Arch/Furniture", "Vehicles"]
-
-      - name: "Polycam Explore"
-        url: "https://polycam.ai/explore"
-        description: "User-uploaded photogrammetry scans."
-        entry_type: "asset-source"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["Photogrammetry", "User-Uploaded"]
-
-  # ------------------------------------------------------------------
+      - name: Sketchfab
+        url: https://sketchfab.com/
+        description: Massive downloadable library.
+        entry_type: asset-source
+        tags:
+          output:
+            - generalist
+          platform:
+            - web
+        readme_tags:
+          - Massive
+          - Downloadable
+      - name: Poly Haven
+        url: https://polyhaven.com/
+        description: CC0 models, textures up to 8K+, HDRIs up to 16K.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - generalist
+          tech:
+            - cc0
+            - pbr
+        readme_tags:
+          - CC0
+          - PBR
+      - name: TurboSquid
+        url: https://www.turbosquid.com/
+        description: Professional models with free section.
+        entry_type: marketplace
+        tags:
+          output:
+            - generalist
+        readme_tags:
+          - Marketplace
+          - Free Section
+      - name: CGTrader
+        url: https://www.cgtrader.com/
+        description: Community marketplace.
+        entry_type: marketplace
+        readme_tags:
+          - Marketplace
+          - Community
+      - name: 3Dassets.one
+        url: https://3dassets.one/?q=&sort=popular
+        description: Asset search engine across multiple libraries.
+        entry_type: tool
+        readme_tags:
+          - Search Engine
+          - Aggregator
+      - name: CGHEVEN
+        url: https://cgheven.com/
+        description: Free CC0 3D and VFX assets.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - cc0
+        readme_tags:
+          - CC0
+          - VFX Assets
+      - name: Poly Pizza
+        url: https://poly.pizza/
+        description: Low-poly models (Google Poly archive).
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Low-Poly
+          - CC-BY
+      - name: TheBaseMesh
+        url: https://www.thebasemesh.com/model-library
+        description: Base meshes for sculpting and rigging.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - sculpting
+            - modeling
+        readme_tags:
+          - Base Meshes
+          - Sculpting-Ready
+      - name: Open3DModel
+        url: https://open3dmodel.com/
+        description: Free model archive.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Free
+          - Archive
+      - name: Three D Scans
+        url: https://threedscans.com/
+        description: Free 3D scan archive.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - 3D Scans
+          - Free
+      - name: Free3D.io
+        url: https://free3d.io/
+        description: Free models.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Free Models
+      - name: 3Dzip
+        url: https://3dzip.org/
+        description: Free downloads.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Free Downloads
+      - name: RigModels
+        url: https://rigmodels.com/
+        description: Rigged models.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - rigging
+            - animation
+        readme_tags:
+          - Rigged
+          - Animation-Ready
+      - name: 3DExport
+        url: https://3dexport.com/
+        description: Marketplace.
+        entry_type: marketplace
+        readme_tags:
+          - Marketplace
+      - name: 3Dshaker
+        url: https://www.3dshaker.com/free3dmodels
+        description: Free models.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Free Models
+      - name: Funes
+        url: https://funes.world/
+        description: 3D cultural heritage.
+        entry_type: asset-source
+        tags:
+          output:
+            - scientific-viz
+        readme_tags:
+          - Cultural Heritage
+          - Scanned
+      - name: Free3D
+        url: https://free3d.com/
+        description: Large free collection.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Large Collection
+          - Free
+      - name: 3D MDB
+        url: https://3dmdb.com/
+        description: Model database.
+        entry_type: tool
+        readme_tags:
+          - Database
+          - Search
+      - name: MyMiniFactory Scan the World
+        url: https://www.myminifactory.com/scantheworld/
+        description: Scan the World collection of scanned heritage objects.
+        entry_type: asset-source
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Heritage Scans
+          - Free
+      - name: Stanford 3D Scanning Repository
+        url: https://graphics.stanford.edu/data/3Dscanrep/
+        description: Classic academic 3D scans (bunny, dragon, etc.).
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Academic
+          - Test Meshes
+      - name: Casual Effects Data
+        url: https://casual-effects.com/data/index.html
+        description: Graphics research datasets and test scenes.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Research
+          - Test Scenes
+      - name: Keenan Crane's Model Repository
+        url: https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/
+        description: Clean test meshes for shader and subdivision work.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Clean Meshes
+          - Shader Testing
+      - name: CadNav
+        url: https://www.cadnav.com/
+        description: Architecture, furniture, vehicle models.
+        entry_type: asset-source
+        tags:
+          output:
+            - archviz
+            - product-viz
+        readme_tags:
+          - Arch/Furniture
+          - Vehicles
+      - name: Polycam Explore
+        url: https://polycam.ai/explore
+        description: User-uploaded photogrammetry scans.
+        entry_type: asset-source
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Photogrammetry
+          - User-Uploaded
+      - name: Blender 3D models
+        url: https://www.blender-models.com/
+        description: 3D models, particle systems/effects
+        entry_type: asset-source
+      - name: CadNav
+        url: https://www.cadnav.com/3d-models/
+        description: Offers 3D models, likely with a focus on engineering and technical uses.
+        entry_type: asset-source
+      - name: Mesh2Motion
+        url: https://mesh2motion.org/
+        description: FREE & open-source web application to animate your 3D models. Supports humanoid, four-legged, and bird creatures.
+        entry_type: asset-source
+      - name: Oyonale
+        url: http://www.oyonale.com/modeles.php?lang=en
+        description: Sells 3D models for various industries.
+        entry_type: asset-source
+      - name: PBRPX
+        url: https://www.pbrpx.com
+        description: A huge library of free PBR materials, and some 3D models.
+        entry_type: asset-source
+      - name: Assimp
+        url: https://www.assimp.org/
+        description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
+        entry_type: asset-source
   - slug: model-libraries-specialized
-    title: "Model Libraries — Specialized"
-    description: "Specialty model sources: characters, scans, anatomy, museums."
+    title: Model Libraries — Specialized
+    description: 'Specialty model sources: characters, scans, anatomy, museums.'
     entries:
-      - name: "Mixamo"
-        url: "https://www.mixamo.com/"
-        description: "Characters and animations (Adobe, free)."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [rigging, animation], output: [games, film-vfx] }
-        readme_tags: ["Rigged Characters", "Free Animations"]
-
-      - name: "Anatomy 360"
-        url: "https://anatomy360.info/"
-        description: "Artist reference models."
-        entry_type: "asset-source"
-        tags: { workflow: [reference, sculpting] }
-        readme_tags: ["Anatomy", "Reference"]
-
-      - name: "Anatomy For Sculptors"
-        url: "https://www.artstation.com/anatomy4sculptors"
-        description: "Anatomical references."
-        entry_type: "asset-source"
-        tags: { workflow: [reference, sculpting] }
-        readme_tags: ["Anatomy", "Sculpt Ref"]
-
-      - name: "Insect 3D Models"
-        url: "https://zerokobo.web.fc2.com/"
-        description: "Insect models."
-        entry_type: "asset-source"
-        readme_tags: ["Insects", "Niche"]
-
-      - name: "Anything World Gallery"
-        url: "https://app.anything.world/gallery"
-        description: "Animated models."
-        entry_type: "asset-source"
-        tags: { workflow: [animation] }
-        readme_tags: ["Animated", "Game-Ready"]
-
-      - name: "Models Resource"
-        url: "https://www.models-resource.com/"
-        description: "Video game model rips."
-        entry_type: "asset-source"
-        tags: { output: [games] }
-        readme_tags: ["Game Rips", "Study/Reference"]
-
-      - name: "Dimensions.com"
-        url: "https://www.dimensions.com/"
-        description: "Dimensioned drawings database."
-        entry_type: "reference"
-        tags: { workflow: [reference] }
-        readme_tags: ["Dimensions", "Reference Data"]
-
-      - name: "NASA 3D Resources"
-        url: "https://science.nasa.gov/3d-resources/"
-        description: "Spacecraft, planets, terrain models (public domain, also on [GitHub](https://nasa3d.arc.nasa.gov/))."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [scientific-viz, film-vfx] }
-        readme_tags: ["Public Domain", "Space/Science"]
-
-      - name: "Smithsonian 3D"
-        url: "https://3d.si.edu/"
-        description: "Historical artifacts."
-        entry_type: "asset-source"
-        tags: { output: [scientific-viz] }
-        readme_tags: ["Museum Scans", "Historical"]
-
-      - name: "Smithsonian Open Access"
-        url: "https://www.si.edu/openaccess"
-        description: "Millions of 2D/3D museum assets, CC0."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { tech: [cc0] }
-        readme_tags: ["CC0", "Museum"]
-
-      - name: "British Museum (Sketchfab)"
-        url: "https://sketchfab.com/britishmuseum"
-        description: "Scanned artifacts."
-        entry_type: "asset-source"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["Museum", "Artifacts"]
-
-      - name: "Cleveland Museum of Art (Sketchfab)"
-        url: "https://sketchfab.com/clevelandart"
-        description: "Museum 3D scans."
-        entry_type: "asset-source"
-        readme_tags: ["Museum", "Scans"]
-
-      - name: "Quaternius"
-        url: "https://quaternius.com/"
-        description: "Free low-poly game assets."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [games], tech: [cc0] }
-        readme_tags: ["CC0 Low-Poly", "Game-Ready"]
-
-      - name: "Wire Wheels Club"
-        url: "https://wirewheelsclub.com/models/"
-        description: "Vehicle models."
-        entry_type: "asset-source"
-        readme_tags: ["Vehicles", "Cars"]
-
-  # ------------------------------------------------------------------
+      - name: Mixamo
+        url: https://www.mixamo.com/
+        description: Characters and animations (Adobe, free).
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - rigging
+            - animation
+          output:
+            - games
+            - film-vfx
+        readme_tags:
+          - Rigged Characters
+          - Free Animations
+      - name: Anatomy 360
+        url: https://anatomy360.info/
+        description: Artist reference models.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - reference
+            - sculpting
+        readme_tags:
+          - Anatomy
+          - Reference
+      - name: Anatomy For Sculptors
+        url: https://www.artstation.com/anatomy4sculptors
+        description: Anatomical references.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - reference
+            - sculpting
+        readme_tags:
+          - Anatomy
+          - Sculpt Ref
+      - name: Insect 3D Models
+        url: https://zerokobo.web.fc2.com/
+        description: Insect models.
+        entry_type: asset-source
+        readme_tags:
+          - Insects
+          - Niche
+      - name: Anything World Gallery
+        url: https://app.anything.world/gallery
+        description: Animated models.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - animation
+        readme_tags:
+          - Animated
+          - Game-Ready
+      - name: Models Resource
+        url: https://www.models-resource.com/
+        description: Video game model rips.
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Game Rips
+          - Study/Reference
+      - name: Dimensions.com
+        url: https://www.dimensions.com/
+        description: Dimensioned drawings database.
+        entry_type: reference
+        tags:
+          workflow:
+            - reference
+        readme_tags:
+          - Dimensions
+          - Reference Data
+      - name: NASA 3D Resources
+        url: https://science.nasa.gov/3d-resources/
+        description: Spacecraft, planets, terrain models (public domain, also on [GitHub](https://nasa3d.arc.nasa.gov/)).
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - scientific-viz
+            - film-vfx
+        readme_tags:
+          - Public Domain
+          - Space/Science
+      - name: Smithsonian 3D
+        url: https://3d.si.edu/
+        description: Historical artifacts.
+        entry_type: asset-source
+        tags:
+          output:
+            - scientific-viz
+        readme_tags:
+          - Museum Scans
+          - Historical
+      - name: Smithsonian Open Access
+        url: https://www.si.edu/openaccess
+        description: Millions of 2D/3D museum assets, CC0.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - cc0
+        readme_tags:
+          - CC0
+          - Museum
+      - name: British Museum (Sketchfab)
+        url: https://sketchfab.com/britishmuseum
+        description: Scanned artifacts.
+        entry_type: asset-source
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Museum
+          - Artifacts
+      - name: Cleveland Museum of Art (Sketchfab)
+        url: https://sketchfab.com/clevelandart
+        description: Museum 3D scans.
+        entry_type: asset-source
+        readme_tags:
+          - Museum
+          - Scans
+      - name: Quaternius
+        url: https://quaternius.com/
+        description: Free low-poly game assets.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+          tech:
+            - cc0
+        readme_tags:
+          - CC0 Low-Poly
+          - Game-Ready
+      - name: Wire Wheels Club
+        url: https://wirewheelsclub.com/models/
+        description: Vehicle models.
+        entry_type: asset-source
+        readme_tags:
+          - Vehicles
+          - Cars
+      - name: Fusion Character Animator
+        url: http://loopengo.free.fr/
+        description: small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
+        entry_type: asset-source
   - slug: model-libraries-arch-furniture
-    title: "Model Libraries — Architecture & Furniture"
-    description: "Arch-viz, furniture, and BIM asset libraries."
+    title: Model Libraries — Architecture & Furniture
+    description: Arch-viz, furniture, and BIM asset libraries.
     entries:
-      - name: "3D Warehouse"
-        url: "https://3dwarehouse.sketchup.com/"
-        description: "SketchUp library."
-        entry_type: "asset-source"
-        tags: { output: [archviz] }
-        readme_tags: ["SketchUp", "Community"]
-
-      - name: "3ddd"
-        url: "https://3ddd.ru/"
-        description: "Design and architecture models."
-        entry_type: "marketplace"
-        tags: { output: [archviz] }
-        readme_tags: ["Arch/Design", "Mixed Free/Paid"]
-
-      - name: "Design Connected"
-        url: "https://www.designconnected.com/"
-        description: "Furniture."
-        entry_type: "marketplace"
-        tags: { output: [archviz, product-viz] }
-        readme_tags: ["Furniture", "Premium"]
-
-      - name: "Syncronia"
-        url: "https://www.syncronia.com/en"
-        description: "CAD and BIM objects."
-        entry_type: "asset-source"
-        tags: { output: [archviz] }
-        readme_tags: ["BIM", "CAD"]
-
-      - name: "Evermotion"
-        url: "https://evermotion.org/"
-        description: "Scenes and models."
-        entry_type: "marketplace"
-        tags: { output: [archviz] }
-        readme_tags: ["Scenes", "Arch-Viz Classic"]
-
-      - name: "BIMobject"
-        url: "https://www.bimobject.com/en-us"
-        description: "BIM objects."
-        entry_type: "asset-source"
-        tags: { output: [archviz] }
-        readme_tags: ["BIM", "Manufacturer Data"]
-
-      - name: "3asky"
-        url: "https://3asky.net/?lang=en"
-        description: "3DS Max and general library."
-        entry_type: "asset-source"
-        readme_tags: ["3ds Max", "General"]
-
-      - name: "3DSky"
-        url: "https://3dsky.org"
-        description: "Architecture models."
-        entry_type: "marketplace"
-        tags: { output: [archviz] }
-        readme_tags: ["Arch-Viz", "Large Library"]
-
-      - name: "Dimensiva"
-        url: "https://dimensiva.com/"
-        description: "Furniture models."
-        entry_type: "marketplace"
-        tags: { output: [archviz, product-viz] }
-        readme_tags: ["Furniture", "Product Design"]
-
-      - name: "CG Mood"
-        url: "https://cgmood.com/"
-        description: "CG assets."
-        entry_type: "marketplace"
-        readme_tags: ["CG Assets", "Mixed"]
-
-  # ------------------------------------------------------------------
+      - name: 3D Warehouse
+        url: https://3dwarehouse.sketchup.com/
+        description: SketchUp library.
+        entry_type: asset-source
+        tags:
+          output:
+            - archviz
+        readme_tags:
+          - SketchUp
+          - Community
+      - name: 3ddd
+        url: https://3ddd.ru/
+        description: Design and architecture models.
+        entry_type: marketplace
+        tags:
+          output:
+            - archviz
+        readme_tags:
+          - Arch/Design
+          - Mixed Free/Paid
+      - name: Design Connected
+        url: https://www.designconnected.com/
+        description: Furniture.
+        entry_type: marketplace
+        tags:
+          output:
+            - archviz
+            - product-viz
+        readme_tags:
+          - Furniture
+          - Premium
+      - name: Syncronia
+        url: https://www.syncronia.com/en
+        description: CAD and BIM objects.
+        entry_type: asset-source
+        tags:
+          output:
+            - archviz
+        readme_tags:
+          - BIM
+          - CAD
+      - name: Evermotion
+        url: https://evermotion.org/
+        description: Scenes and models.
+        entry_type: marketplace
+        tags:
+          output:
+            - archviz
+        readme_tags:
+          - Scenes
+          - Arch-Viz Classic
+      - name: BIMobject
+        url: https://www.bimobject.com/en-us
+        description: BIM objects.
+        entry_type: asset-source
+        tags:
+          output:
+            - archviz
+        readme_tags:
+          - BIM
+          - Manufacturer Data
+      - name: 3asky
+        url: https://3asky.net/?lang=en
+        description: 3DS Max and general library.
+        entry_type: asset-source
+        readme_tags:
+          - 3ds Max
+          - General
+      - name: 3DSky
+        url: https://3dsky.org
+        description: Architecture models.
+        entry_type: marketplace
+        tags:
+          output:
+            - archviz
+        readme_tags:
+          - Arch-Viz
+          - Large Library
+      - name: Dimensiva
+        url: https://dimensiva.com/
+        description: Furniture models.
+        entry_type: marketplace
+        tags:
+          output:
+            - archviz
+            - product-viz
+        readme_tags:
+          - Furniture
+          - Product Design
+      - name: CG Mood
+        url: https://cgmood.com/
+        description: CG assets.
+        entry_type: marketplace
+        readme_tags:
+          - CG Assets
+          - Mixed
   - slug: asset-marketplaces
-    title: "Asset Marketplaces"
-    description: "General asset marketplaces across multiple engines and tools."
+    title: Asset Marketplaces
+    description: General asset marketplaces across multiple engines and tools.
     entries:
-      - name: "ArtStation Marketplace"
-        url: "https://www.artstation.com/marketplace"
-        description: "Professional assets."
-        entry_type: "marketplace"
-        readme_tags: ["Professional", "Creator-Direct"]
-
-      - name: "Unity Asset Store"
-        url: "https://assetstore.unity.com/"
-        description: "Game-ready assets."
-        entry_type: "marketplace"
-        tags: { output: [games] }
-        readme_tags: ["Unity-Ready", "Games"]
-
-      - name: "Unreal Marketplace"
-        url: "https://www.unrealengine.com/marketplace"
-        description: "UE-optimized assets."
-        entry_type: "marketplace"
-        tags: { output: [games, film-vfx] }
-        readme_tags: ["UE-Optimized", "Games"]
-
-      - name: "Blender Market"
-        url: "https://blendermarket.com/"
-        description: "Blender-specific assets and addons."
-        entry_type: "marketplace"
-        tags: { tech: [blender-addon] }
-        readme_tags: ["Blender-Specific", "Addons + Assets"]
-
-      - name: "Cubebrush"
-        url: "https://cubebrush.co/"
-        description: "Art and game assets."
-        entry_type: "marketplace"
-        tags: { output: [games] }
-        readme_tags: ["Art Assets", "Games"]
-
-      - name: "Fab (Epic)"
-        url: "https://www.fab.com/"
-        description: "Unified marketplace (UE, Sketchfab, ArtStation)."
-        entry_type: "marketplace"
-        readme_tags: ["Unified", "Epic-backed"]
-
-  # ------------------------------------------------------------------
+      - name: ArtStation Marketplace
+        url: https://www.artstation.com/marketplace
+        description: Professional assets.
+        entry_type: marketplace
+        readme_tags:
+          - Professional
+          - Creator-Direct
+      - name: Unity Asset Store
+        url: https://assetstore.unity.com/
+        description: Game-ready assets.
+        entry_type: marketplace
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Unity-Ready
+          - Games
+      - name: Unreal Marketplace
+        url: https://www.unrealengine.com/marketplace
+        description: UE-optimized assets.
+        entry_type: marketplace
+        tags:
+          output:
+            - games
+            - film-vfx
+        readme_tags:
+          - UE-Optimized
+          - Games
+      - name: Blender Market
+        url: https://blendermarket.com/
+        description: Blender-specific assets and addons.
+        entry_type: marketplace
+        tags:
+          tech:
+            - blender-addon
+        readme_tags:
+          - Blender-Specific
+          - Addons + Assets
+      - name: Cubebrush
+        url: https://cubebrush.co/
+        description: Art and game assets.
+        entry_type: marketplace
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Art Assets
+          - Games
+      - name: Fab (Epic)
+        url: https://www.fab.com/
+        description: Unified marketplace (UE, Sketchfab, ArtStation).
+        entry_type: marketplace
+        readme_tags:
+          - Unified
+          - Epic-backed
   - slug: free-asset-giveaways
-    title: "Free Asset Giveaways"
-    description: "Recurring free asset drops. Bookmark these."
+    title: Free Asset Giveaways
+    description: Recurring free asset drops. Bookmark these.
     entries:
-      - name: "Fab Free Assets"
-        url: "https://www.fab.com/"
-        description: "3 free assets every 2 weeks — check regularly."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Biweekly", "Epic Games"]
-
-      - name: "Unity Asset Store Free of the Week"
-        url: "https://assetstore.unity.com/"
-        description: "Free asset every week."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [games] }
-        readme_tags: ["Weekly", "Unity"]
-
-      - name: "Sonniss GDC Bundle"
-        url: "https://sonniss.com/gameaudiogdc"
-        description: "Massive free SFX bundles (~30GB+) annually around GDC and Christmas."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [audio-design], output: [games, film-vfx] }
-        readme_tags: ["Annual", "SFX Bundle"]
-
-  # ------------------------------------------------------------------
+      - name: Fab Free Assets
+        url: https://www.fab.com/
+        description: 3 free assets every 2 weeks — check regularly.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Biweekly
+          - Epic Games
+      - name: Unity Asset Store Free of the Week
+        url: https://assetstore.unity.com/
+        description: Free asset every week.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Weekly
+          - Unity
+      - name: Sonniss GDC Bundle
+        url: https://sonniss.com/gameaudiogdc
+        description: Massive free SFX bundles (~30GB+) annually around GDC and Christmas.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - audio-design
+          output:
+            - games
+            - film-vfx
+        readme_tags:
+          - Annual
+          - SFX Bundle
   - slug: software-specific-libraries
-    title: "Software-Specific Asset Libraries"
-    description: "Official asset libraries tied to specific DCCs."
+    title: Software-Specific Asset Libraries
+    description: Official asset libraries tied to specific DCCs.
     entries:
-      - name: "SideFX Content Library"
-        url: "https://www.sidefx.com/contentlibrary/"
-        description: "Official Houdini assets."
-        entry_type: "asset-source"
-        readme_tags: ["Houdini", "Official"]
-
-      - name: "Blender Demo Files"
-        url: "https://www.blender.org/download/demo-files/"
-        description: "Official demo scenes."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Blender", "Demo Scenes"]
-
-      - name: "Blender Extensions"
-        url: "https://extensions.blender.org/"
-        description: "Official addons and themes repository."
-        license: "Free"
-        entry_type: "marketplace"
-        tags: { tech: [blender-addon] }
-        readme_tags: ["Blender", "Addons"]
-
-      - name: "Substance 3D Assets"
-        url: "https://substance3d.adobe.com/assets/"
-        description: "Adobe materials library."
-        entry_type: "asset-source"
-        tags: { workflow: [texturing, material-authoring], tech: [pbr] }
-        readme_tags: ["Adobe", "Materials"]
-
-      - name: "Substance 3D Community Assets"
-        url: "https://substance3d.adobe.com/community-assets"
-        description: "User-shared materials."
-        entry_type: "asset-source"
-        tags: { workflow: [material-authoring] }
-        readme_tags: ["Community", "Substance"]
-
-      - name: "ZBrush Download Center"
-        url: "https://pixologic.com/zbrush/downloadcenter/alpha/"
-        description: "Alphas and brushes."
-        entry_type: "asset-source"
-        tags: { workflow: [sculpting] }
-        readme_tags: ["ZBrush", "Alphas/Brushes"]
-
-      - name: "Maxon Asset Browser"
-        url: "https://www.maxon.net/en/cinema-4d/features/asset-browser"
-        description: "Cinema 4D built-in asset library."
-        entry_type: "asset-source"
-        readme_tags: ["C4D", "Official"]
-
-      - name: "Maya Content Browser"
-        url: "https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-14B1E820-24A5-41CF-B3A2-1BFED3464908"
-        description: "Official example scenes and assets."
-        entry_type: "asset-source"
-        readme_tags: ["Maya", "Examples"]
-
-      - name: "3DCoat Smart Materials"
-        url: "https://3dcoat.com/documentation/manual/brush-components/smart-materials/"
-        description: "Official materials library."
-        entry_type: "asset-source"
-        tags: { workflow: [material-authoring], tech: [smart-materials] }
-        readme_tags: ["3DCoat", "Smart Materials"]
-
-      - name: "SketchUp 3D Warehouse"
-        url: "https://3dwarehouse.sketchup.com/"
-        description: "Community models for SketchUp."
-        entry_type: "asset-source"
-        tags: { output: [archviz] }
-        readme_tags: ["SketchUp", "Community"]
-
-      - name: "Nomad Sculpt Resources"
-        url: "https://nomadsculpt.com/resources/"
-        description: "Community brushes and matcaps."
-        entry_type: "asset-source"
-        tags: { workflow: [sculpting] }
-        readme_tags: ["Nomad", "Brushes/Matcaps"]
-
-  # ------------------------------------------------------------------
+      - name: SideFX Content Library
+        url: https://www.sidefx.com/contentlibrary/
+        description: Official Houdini assets.
+        entry_type: asset-source
+        readme_tags:
+          - Houdini
+          - Official
+      - name: Blender Demo Files
+        url: https://www.blender.org/download/demo-files/
+        description: Official demo scenes.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Blender
+          - Demo Scenes
+      - name: Blender Extensions
+        url: https://extensions.blender.org/
+        description: Official addons and themes repository.
+        license: Free
+        entry_type: marketplace
+        tags:
+          tech:
+            - blender-addon
+        readme_tags:
+          - Blender
+          - Addons
+      - name: Substance 3D Assets
+        url: https://substance3d.adobe.com/assets/
+        description: Adobe materials library.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - pbr
+        readme_tags:
+          - Adobe
+          - Materials
+      - name: Substance 3D Community Assets
+        url: https://substance3d.adobe.com/community-assets
+        description: User-shared materials.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - material-authoring
+        readme_tags:
+          - Community
+          - Substance
+      - name: ZBrush Download Center
+        url: https://pixologic.com/zbrush/downloadcenter/alpha/
+        description: Alphas and brushes.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - sculpting
+        readme_tags:
+          - ZBrush
+          - Alphas/Brushes
+      - name: Maxon Asset Browser
+        url: https://www.maxon.net/en/cinema-4d/features/asset-browser
+        description: Cinema 4D built-in asset library.
+        entry_type: asset-source
+        readme_tags:
+          - C4D
+          - Official
+      - name: Maya Content Browser
+        url: https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-14B1E820-24A5-41CF-B3A2-1BFED3464908
+        description: Official example scenes and assets.
+        entry_type: asset-source
+        readme_tags:
+          - Maya
+          - Examples
+      - name: 3DCoat Smart Materials
+        url: https://3dcoat.com/documentation/manual/brush-components/smart-materials/
+        description: Official materials library.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - material-authoring
+          tech:
+            - smart-materials
+        readme_tags:
+          - 3DCoat
+          - Smart Materials
+      - name: SketchUp 3D Warehouse
+        url: https://3dwarehouse.sketchup.com/
+        description: Community models for SketchUp.
+        entry_type: asset-source
+        tags:
+          output:
+            - archviz
+        readme_tags:
+          - SketchUp
+          - Community
+      - name: Nomad Sculpt Resources
+        url: https://nomadsculpt.com/resources/
+        description: Community brushes and matcaps.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - sculpting
+        readme_tags:
+          - Nomad
+          - Brushes/Matcaps
   - slug: hdris
-    title: "HDRIs"
-    description: "HDR environment maps for lighting and reflections."
+    title: HDRIs
+    description: HDR environment maps for lighting and reflections.
     entries:
-      - name: "Open HDRI"
-        url: "https://openhdri.org/"
-        description: "50 free CC0 HDRIs."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [lighting], tech: [cc0] }
-        readme_tags: ["CC0", "Free"]
-
-      - name: "Poly Haven HDRIs"
-        url: "https://polyhaven.com/hdris"
-        description: "CC0 HDRIs up to 16K."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [lighting], tech: [cc0] }
-        readme_tags: ["CC0", "16K"]
-
-      - name: "HDRI Skies"
-        url: "https://hdri-skies.com/"
-        description: "Free sky HDRIs."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [lighting] }
-        readme_tags: ["Sky HDRIs", "Free"]
-
-      - name: "HDR Maps"
-        url: "https://hdrmaps.com/freebies/"
-        description: "Free HDRI packs."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [lighting] }
-        readme_tags: ["Free Packs", "Studio/Outdoor"]
-
-      - name: "Adobe Stock HDRI"
-        url: "https://stock.adobe.com/search?k=hdri+studio"
-        description: "Studio HDRIs."
-        entry_type: "marketplace"
-        tags: { workflow: [lighting] }
-        readme_tags: ["Studio", "Adobe Stock"]
-
-      - name: "Location Textures"
-        url: "https://locationtextures.com/panoramas/"
-        description: "Location panoramas."
-        entry_type: "asset-source"
-        tags: { workflow: [lighting, reference] }
-        readme_tags: ["Location Panos", "Reference"]
-
-      - name: "RenderMan HDRIs"
-        url: "https://renderman.pixar.com/category/111-hdri"
-        description: "Pixar's HDRI collection."
-        entry_type: "asset-source"
-        tags: { workflow: [lighting] }
-        readme_tags: ["Pixar", "Pro-grade"]
-
-      - name: "OpenFootage"
-        url: "https://www.openfootage.net/"
-        description: "Free HDRIs, VFX plates, and backplates."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [lighting, compositing], output: [film-vfx] }
-        readme_tags: ["VFX Plates", "Backplates"]
-
-      - name: "Maxime Roz HDRI Pack"
-        url: "https://www.maximeroz.com/hdri-free-pack"
-        description: "Free studio and outdoor HDRIs for product viz."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [product-viz] }
-        readme_tags: ["Studio", "Product-Viz"]
-
-      - name: "HDRI Hub"
-        url: "https://hdri-hub.com/"
-        description: "High-quality HDRIs with backplates."
-        entry_type: "marketplace"
-        readme_tags: ["High-Quality", "Backplates"]
-
-  # ------------------------------------------------------------------
+      - name: Open HDRI
+        url: https://openhdri.org/
+        description: 50 free CC0 HDRIs.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - lighting
+          tech:
+            - cc0
+        readme_tags:
+          - CC0
+          - Free
+      - name: Poly Haven HDRIs
+        url: https://polyhaven.com/hdris
+        description: CC0 HDRIs up to 16K.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - lighting
+          tech:
+            - cc0
+        readme_tags:
+          - CC0
+          - 16K
+      - name: HDRI Skies
+        url: https://hdri-skies.com/
+        description: Free sky HDRIs.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - lighting
+        readme_tags:
+          - Sky HDRIs
+          - Free
+      - name: HDR Maps
+        url: https://hdrmaps.com/freebies/
+        description: Free HDRI packs.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - lighting
+        readme_tags:
+          - Free Packs
+          - Studio/Outdoor
+      - name: Adobe Stock HDRI
+        url: https://stock.adobe.com/search?k=hdri+studio
+        description: Studio HDRIs.
+        entry_type: marketplace
+        tags:
+          workflow:
+            - lighting
+        readme_tags:
+          - Studio
+          - Adobe Stock
+      - name: Location Textures
+        url: https://locationtextures.com/panoramas/
+        description: Location panoramas.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - lighting
+            - reference
+        readme_tags:
+          - Location Panos
+          - Reference
+      - name: RenderMan HDRIs
+        url: https://renderman.pixar.com/category/111-hdri
+        description: Pixar's HDRI collection.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - lighting
+        readme_tags:
+          - Pixar
+          - Pro-grade
+      - name: OpenFootage
+        url: https://www.openfootage.net/
+        description: Free HDRIs, VFX plates, and backplates.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - lighting
+            - compositing
+          output:
+            - film-vfx
+        readme_tags:
+          - VFX Plates
+          - Backplates
+      - name: Maxime Roz HDRI Pack
+        url: https://www.maximeroz.com/hdri-free-pack
+        description: Free studio and outdoor HDRIs for product viz.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - product-viz
+        readme_tags:
+          - Studio
+          - Product-Viz
+      - name: HDRI Hub
+        url: https://hdri-hub.com/
+        description: High-quality HDRIs with backplates.
+        entry_type: marketplace
+        readme_tags:
+          - High-Quality
+          - Backplates
+      - name: TextureHaven
+        url: https://texturehaven.com/
+        description: Free textures with additional maps like displacement and bump maps. Also HDRIs.
+        entry_type: asset-source
   - slug: textures-free-pbr
-    title: "Textures & Materials — Free PBR Libraries"
-    description: "Free PBR texture libraries for materials authoring."
+    title: Textures & Materials — Free PBR Libraries
+    description: Free PBR texture libraries for materials authoring.
     entries:
-      - name: "ambientCG"
-        url: "https://ambientcg.com/"
-        description: "2000+ CC0 PBR materials."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [texturing, material-authoring], tech: [cc0, pbr] }
-        readme_tags: ["CC0", "2000+ Materials"]
-
-      - name: "Free PBR"
-        url: "https://freepbr.com/"
-        description: "Hundreds of free materials."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [texturing], tech: [pbr] }
-        readme_tags: ["PBR", "Free"]
-
-      - name: "Share Textures"
-        url: "https://www.sharetextures.com/"
-        description: "CC0 seamless textures."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { tech: [cc0] }
-        readme_tags: ["CC0", "Seamless"]
-
-      - name: "CG Bookcase"
-        url: "https://www.cgbookcase.com/textures/"
-        description: "Free PBR textures."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { tech: [pbr] }
-        readme_tags: ["Free PBR", "Seamless"]
-
-      - name: "3D Textures"
-        url: "https://3dtextures.me/"
-        description: "Free PBR library."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { tech: [pbr] }
-        readme_tags: ["PBR", "Free"]
-
-      - name: "Texture Fabrik"
-        url: "https://texturefabrik.com/"
-        description: "Textures and patterns."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Patterns", "Textures"]
-
-      - name: "TextureTown"
-        url: "https://textures.neocities.org/"
-        description: "Free textures."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Free", "Varied"]
-
-      - name: "3D Jungle"
-        url: "https://3djungle.net/"
-        description: "Models and textures."
-        entry_type: "asset-source"
-        readme_tags: ["Models + Textures", "Mixed"]
-
-      - name: "Kaimoisch"
-        url: "https://kaimoisch.com/free-textures/"
-        description: "3D scanned textures."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["Scanned", "Free"]
-
-      - name: "Free Stock Textures"
-        url: "https://freestocktextures.com/"
-        description: "Free textures."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Stock", "Free"]
-
-      - name: "Texture Supply (Gumroad)"
-        url: "https://texturesupply.gumroad.com"
-        description: "Free textures."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Gumroad", "Free Packs"]
-
-      - name: "Resource Boy"
-        url: "https://resourceboy.com/"
-        description: "Free graphic resources."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Graphics", "Free"]
-
-      - name: "The Pixel Lab Freebies"
-        url: "https://www.thepixellab.net/freebies-2"
-        description: "Free 3D models and textures."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Models + Textures", "Free"]
-
-      - name: "Texture Labs"
-        url: "https://texturelabs.org/"
-        description: "Free texture resources."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Varied", "Free"]
-
-      - name: "Texxary"
-        url: "https://texxary.com/"
-        description: "3D scans library."
-        entry_type: "asset-source"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["Scans", "High-Quality"]
-
-      - name: "Textures.com"
-        url: "https://www.textures.com/"
-        description: "Massive professional texture library."
-        entry_type: "asset-source"
-        readme_tags: ["Massive", "Professional"]
-
-      - name: "Texturify"
-        url: "https://texturify.com/"
-        description: "Free texture collection."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Free", "Varied"]
-
-      - name: "TextureCan"
-        url: "https://www.texturecan.com/"
-        description: "Free PBR textures, high scan quality."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { tech: [pbr, photogrammetry] }
-        readme_tags: ["Free PBR", "High-Quality Scans"]
-
-  # ------------------------------------------------------------------
+      - name: ambientCG
+        url: https://ambientcg.com/
+        description: 2000+ CC0 PBR materials.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - cc0
+            - pbr
+        readme_tags:
+          - CC0
+          - 2000+ Materials
+      - name: Free PBR
+        url: https://freepbr.com/
+        description: Hundreds of free materials.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - texturing
+          tech:
+            - pbr
+        readme_tags:
+          - PBR
+          - Free
+      - name: Share Textures
+        url: https://www.sharetextures.com/
+        description: CC0 seamless textures.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - cc0
+        readme_tags:
+          - CC0
+          - Seamless
+      - name: CG Bookcase
+        url: https://www.cgbookcase.com/textures/
+        description: Free PBR textures.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - pbr
+        readme_tags:
+          - Free PBR
+          - Seamless
+      - name: 3D Textures
+        url: https://3dtextures.me/
+        description: Free PBR library.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - pbr
+        readme_tags:
+          - PBR
+          - Free
+      - name: Texture Fabrik
+        url: https://texturefabrik.com/
+        description: Textures and patterns.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Patterns
+          - Textures
+      - name: TextureTown
+        url: https://textures.neocities.org/
+        description: Free textures.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Free
+          - Varied
+      - name: 3D Jungle
+        url: https://3djungle.net/
+        description: Models and textures.
+        entry_type: asset-source
+        readme_tags:
+          - Models + Textures
+          - Mixed
+      - name: Kaimoisch
+        url: https://kaimoisch.com/free-textures/
+        description: 3D scanned textures.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Scanned
+          - Free
+      - name: Free Stock Textures
+        url: https://freestocktextures.com/
+        description: Free textures.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Stock
+          - Free
+      - name: Texture Supply (Gumroad)
+        url: https://texturesupply.gumroad.com
+        description: Free textures.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Gumroad
+          - Free Packs
+      - name: Resource Boy
+        url: https://resourceboy.com/
+        description: Free graphic resources.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Graphics
+          - Free
+      - name: The Pixel Lab Freebies
+        url: https://www.thepixellab.net/freebies-2
+        description: Free 3D models and textures.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Models + Textures
+          - Free
+      - name: Texture Labs
+        url: https://texturelabs.org/
+        description: Free texture resources.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Varied
+          - Free
+      - name: Texxary
+        url: https://texxary.com/
+        description: 3D scans library.
+        entry_type: asset-source
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Scans
+          - High-Quality
+      - name: Textures.com
+        url: https://www.textures.com/
+        description: Massive professional texture library.
+        entry_type: asset-source
+        readme_tags:
+          - Massive
+          - Professional
+      - name: Texturify
+        url: https://texturify.com/
+        description: Free texture collection.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Free
+          - Varied
+      - name: TextureCan
+        url: https://www.texturecan.com/
+        description: Free PBR textures, high scan quality.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - pbr
+            - photogrammetry
+        readme_tags:
+          - Free PBR
+          - High-Quality Scans
+      - name: Fast Filter-Width Estimates with Texture Maps
+        url: https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html
+        description: GPU Gems 1 - Chapter 25.
+        entry_type: asset-source
+      - name: DEM Net Elevation API
+        url: https://elevationapi.com
+        description: Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL
+        entry_type: asset-source
+      - name: TexGraph
+        url: https://galloscript.itch.io/texgraph
+        description: A procedural texture creation tool that lets you create textures by connecting nodes in a graph.
+        entry_type: asset-source
+      - name: Imogen
+        url: https://github.com/CedricGuillemet/Imogen
+        description: GPU Texture generator using dear imgui for UI.
+        entry_type: reference
+      - name: Glsl Texture
+        url: https://github.com/patriciogonzalezvivo/glslTexture
+        description: Create textures from Glsl fragment shaders on Blender (2.8)
+        entry_type: reference
+      - name: texture-synthesis
+        url: https://github.com/EmbarkStudios/texture-synthesis
+        description: Example-based texture synthesis written in Rust.
+        entry_type: reference
+      - name: Matcaps
+        url: https://github.com/nidorx/matcaps#matcaps
+        description: A Huge library of matcap textures in PNG and ZMT, organized by color.
+        entry_type: tool
+      - name: Cheetah-Texture-Packer
+        url: https://github.com/scriptum/Cheetah-Texture-Packer
+        description: High efficient and fast 2D bin packing tool
+        entry_type: tool
+      - name: Libgdx Texture Packer
+        url: https://github.com/libgdx/libgdx/wiki/Texture-packer
+        description: Texture Packer built into Libgdx
+        entry_type: reference
+      - name: Tilesplit
+        url: https://github.com/AlexPoulsen/tilesplit
+        description: CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size
+        entry_type: reference
+      - name: Material Maker
+        url: https://github.com/RodZill4/material-maker
+        description: procedural texture creator made in Godot
+        entry_type: reference
+      - name: axys
+        url: https://github.com/axys1/axys
+        description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+        entry_type: reference
+      - name: DEM Net Elevation API C#
+        url: https://github.com/dem-net/DEM.Net
+        description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
+        entry_type: reference
+      - name: Leshy SpriteSheet Tool
+        url: https://www.leshylabs.com/apps/sstool/
+        description: HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases
+        entry_type: asset-source
+      - name: Libgdx Texture Packer
+        url: https://libgdx.com/wiki/
+        description: Texture Packer built into Libgdx
+        entry_type: asset-source
+      - name: LotPixel
+        url: https://www.lotpixel.com/
+        description: A huge assets library. Photogrammetry and PBR Textures, 3D Models, Decals. 1500+ Free Texture Available.
+        entry_type: asset-source
+      - name: PixPlant
+        url: http://www.pixplant.com/
+        description: PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
+        entry_type: asset-source
+      - name: PlainTextures
+        url: http://www.plaintextures.com/
+        description: Free high resolution textures, brushes and photos
+        entry_type: asset-source
+      - name: Ptex
+        url: http://ptex.us/
+        description: A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering.
+        entry_type: asset-source
+      - name: 'Ray Tracing: The Next Week'
+        url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
+        description: ', by Peter Shirley, builds on top of the first books'' project, adding more effects, like textures and motion blur.'
+        entry_type: asset-source
+      - name: SpriteUV2
+        url: https://www.spriteuv.com/
+        description: tool for creating optimal meshes for textures/sprites and packing them into an atlas.
+        entry_type: asset-source
+      - name: Live Normal
+        url: https://tenebrislab.github.io/livenormal/
+        description: An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
+        entry_type: asset-source
+      - name: TextureKing
+        url: http://www.textureking.com/
+        description: Free material stock textures
+        entry_type: asset-source
   - slug: textures-specialized
-    title: "Textures — Specialized"
-    description: "Specialty texture sources: displacement, patterns, sprites, terrain."
+    title: Textures — Specialized
+    description: 'Specialty texture sources: displacement, patterns, sprites, terrain.'
     entries:
-      - name: "Texturing.xyz"
-        url: "https://texturing.xyz/"
-        description: "MicroSkin displacement maps."
-        license: "Paid"
-        entry_type: "asset-source"
-        tags: { workflow: [sculpting, texturing], output: [film-vfx] }
-        readme_tags: ["MicroSkin", "Displacement"]
-
-      - name: "Shaded Relief"
-        url: "http://www.shadedrelief.com/natural3/pages/extra.html"
-        description: "Natural Earth data and terrain reference."
-        entry_type: "asset-source"
-        tags: { workflow: [reference] }
-        readme_tags: ["Natural Earth", "Terrain"]
-
-      - name: "Subtle Patterns"
-        url: "https://www.toptal.com/designers/subtlepatterns/"
-        description: "Tileable web patterns."
-        entry_type: "asset-source"
-        readme_tags: ["Tileable", "Web Patterns"]
-
-      - name: "Spriters Resource"
-        url: "https://www.spriters-resource.com/"
-        description: "Game sprite textures."
-        entry_type: "asset-source"
-        tags: { output: [games] }
-        readme_tags: ["Sprites", "Game Rips"]
-
-      - name: "Models Resource (3D)"
-        url: "https://models.spriters-resource.com/"
-        description: "3D model rips from games — sister site to Spriters Resource."
-        entry_type: "asset-source"
-        tags: { output: [games] }
-        readme_tags: ["3D Game Rips", "Reference"]
-
-  # ------------------------------------------------------------------
+      - name: Texturing.xyz
+        url: https://texturing.xyz/
+        description: MicroSkin displacement maps.
+        license: Paid
+        entry_type: asset-source
+        tags:
+          workflow:
+            - sculpting
+            - texturing
+          output:
+            - film-vfx
+        readme_tags:
+          - MicroSkin
+          - Displacement
+      - name: Shaded Relief
+        url: http://www.shadedrelief.com/natural3/pages/extra.html
+        description: Natural Earth data and terrain reference.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - reference
+        readme_tags:
+          - Natural Earth
+          - Terrain
+      - name: Subtle Patterns
+        url: https://www.toptal.com/designers/subtlepatterns/
+        description: Tileable web patterns.
+        entry_type: asset-source
+        readme_tags:
+          - Tileable
+          - Web Patterns
+      - name: Spriters Resource
+        url: https://www.spriters-resource.com/
+        description: Game sprite textures.
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Sprites
+          - Game Rips
+      - name: Models Resource (3D)
+        url: https://models.spriters-resource.com/
+        description: 3D model rips from games — sister site to Spriters Resource.
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+        readme_tags:
+          - 3D Game Rips
+          - Reference
   - slug: textures-premium
-    title: "Textures — Premium"
-    description: "Professional paid texture libraries."
+    title: Textures — Premium
+    description: Professional paid texture libraries.
     entries:
-      - name: "Poliigon"
-        url: "https://www.poliigon.com/"
-        description: "PBR textures."
-        pricing: "Subscription"
-        license: "Paid"
-        entry_type: "asset-source"
-        tags: { tech: [pbr, subscription] }
-        readme_tags: ["PBR", "Subscription"]
-
-      - name: "Quixel Megascans + Bridge"
-        url: "https://quixel.com/"
-        description: "Scanned materials and import plugin. Free with Unreal Engine."
-        license: "Freemium"
-        entry_type: "asset-source"
-        tags: { tech: [photogrammetry, pbr], workflow: [texturing] }
-        readme_tags: ["Scanned", "Free with UE"]
-
-      - name: "Substance Source"
-        url: "https://substance3d.adobe.com/assets"
-        description: "Procedural materials (Adobe subscription)."
-        license: "Paid"
-        entry_type: "asset-source"
-        tags: { tech: [procedural], workflow: [material-authoring] }
-        readme_tags: ["Procedural", "Adobe"]
-
-      - name: "Texture Box"
-        url: "https://texturebox.com/"
-        description: "Mixed library."
-        entry_type: "marketplace"
-        readme_tags: ["Mixed", "Pro Textures"]
-
-  # ------------------------------------------------------------------
+      - name: Poliigon
+        url: https://www.poliigon.com/
+        description: PBR textures.
+        pricing: Subscription
+        license: Paid
+        entry_type: asset-source
+        tags:
+          tech:
+            - pbr
+            - subscription
+        readme_tags:
+          - PBR
+          - Subscription
+      - name: Quixel Megascans + Bridge
+        url: https://quixel.com/
+        description: Scanned materials and import plugin. Free with Unreal Engine.
+        license: Freemium
+        entry_type: asset-source
+        tags:
+          tech:
+            - photogrammetry
+            - pbr
+          workflow:
+            - texturing
+        readme_tags:
+          - Scanned
+          - Free with UE
+      - name: Substance Source
+        url: https://substance3d.adobe.com/assets
+        description: Procedural materials (Adobe subscription).
+        license: Paid
+        entry_type: asset-source
+        tags:
+          tech:
+            - procedural
+          workflow:
+            - material-authoring
+        readme_tags:
+          - Procedural
+          - Adobe
+      - name: Texture Box
+        url: https://texturebox.com/
+        description: Mixed library.
+        entry_type: marketplace
+        readme_tags:
+          - Mixed
+          - Pro Textures
+      - name: Quixel
+        url: https://quixel.com/megascans/home
+        description: Realistic 3D scans of materials and objects.
+        entry_type: asset-source
   - slug: stock-images
-    title: "Stock Images & References"
-    description: "Free and public-domain stock images, and 2D references."
+    title: Stock Images & References
+    description: Free and public-domain stock images, and 2D references.
     entries:
-      - name: "Unsplash"
-        url: "https://unsplash.com/"
-        description: "Free photography."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Photography", "Free"]
-
-      - name: "Pexels"
-        url: "https://www.pexels.com/"
-        description: "Free stock photos and video."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Photos + Video", "Free"]
-
-      - name: "Pixabay"
-        url: "https://pixabay.com/"
-        description: "Free stock media."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Mixed Media", "Free"]
-
-      - name: "All Free Download"
-        url: "http://all-free-download.com/"
-        description: "Free design downloads."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Design", "Free"]
-
-      - name: "Neurascapes"
-        url: "https://neurascapes.com/"
-        description: "Free surreal/AI-generated reference imagery."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Surreal", "Reference"]
-
-      - name: "PNG Images"
-        url: "https://pngimg.com/"
-        description: "Transparent PNG images."
-        entry_type: "asset-source"
-        readme_tags: ["Transparent PNG", "Cutouts"]
-
-      - name: "Public Domain Review"
-        url: "https://publicdomainreview.org/collections/images"
-        description: "Public-domain image collections."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Public Domain", "Historical"]
-
-      - name: "David Rumsey Maps"
-        url: "https://www.davidrumsey.com/view/past"
-        description: "Historical maps archive."
-        entry_type: "asset-source"
-        tags: { workflow: [reference] }
-        readme_tags: ["Maps", "Historical"]
-
-      - name: "The Blueprints"
-        url: "https://www.the-blueprints.com/"
-        description: "Vehicle, aircraft, ship blueprints."
-        entry_type: "asset-source"
-        tags: { workflow: [reference] }
-        readme_tags: ["Blueprints", "Vehicles"]
-
-      - name: "Sakugabooru"
-        url: "https://www.sakugabooru.com/"
-        description: "Animation clip archive."
-        entry_type: "reference"
-        tags: { workflow: [reference, animation] }
-        readme_tags: ["Animation", "Clip Archive"]
-
-      - name: "Art of Animation"
-        url: "http://theartofanimation.tumblr.com/"
-        description: "Curated animation art blog."
-        entry_type: "inspiration"
-        readme_tags: ["Animation Art", "Blog"]
-
-      - name: "50 Watts"
-        url: "https://50watts.com/"
-        description: "Illustration history archive."
-        entry_type: "inspiration"
-        readme_tags: ["Illustration", "Historical"]
-
-      - name: "Settei Dreams"
-        url: "https://setteidreams.net/"
-        description: "Anime model sheets and settei archive."
-        entry_type: "reference"
-        tags: { workflow: [reference, concept] }
-        readme_tags: ["Anime", "Model Sheets"]
-
-      - name: "LACartoons"
-        url: "https://lacartoons.com/"
-        description: "Animation cel and model sheet archive."
-        entry_type: "reference"
-        readme_tags: ["Cartoons", "Reference"]
-
-      - name: "Cloth Reference"
-        url: "https://imgur.com/a/btqNlL0"
-        description: "Cloth reference photos."
-        entry_type: "reference"
-        tags: { workflow: [reference] }
-        readme_tags: ["Cloth", "Reference"]
-
-  # ------------------------------------------------------------------
+      - name: Unsplash
+        url: https://unsplash.com/
+        description: Free photography.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Photography
+          - Free
+      - name: Pexels
+        url: https://www.pexels.com/
+        description: Free stock photos and video.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Photos + Video
+          - Free
+      - name: Pixabay
+        url: https://pixabay.com/
+        description: Free stock media.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Mixed Media
+          - Free
+      - name: All Free Download
+        url: http://all-free-download.com/
+        description: Free design downloads.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Design
+          - Free
+      - name: Neurascapes
+        url: https://neurascapes.com/
+        description: Free surreal/AI-generated reference imagery.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Surreal
+          - Reference
+      - name: PNG Images
+        url: https://pngimg.com/
+        description: Transparent PNG images.
+        entry_type: asset-source
+        readme_tags:
+          - Transparent PNG
+          - Cutouts
+      - name: Public Domain Review
+        url: https://publicdomainreview.org/collections/images
+        description: Public-domain image collections.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Public Domain
+          - Historical
+      - name: David Rumsey Maps
+        url: https://www.davidrumsey.com/view/past
+        description: Historical maps archive.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - reference
+        readme_tags:
+          - Maps
+          - Historical
+      - name: The Blueprints
+        url: https://www.the-blueprints.com/
+        description: Vehicle, aircraft, ship blueprints.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - reference
+        readme_tags:
+          - Blueprints
+          - Vehicles
+      - name: Sakugabooru
+        url: https://www.sakugabooru.com/
+        description: Animation clip archive.
+        entry_type: reference
+        tags:
+          workflow:
+            - reference
+            - animation
+        readme_tags:
+          - Animation
+          - Clip Archive
+      - name: Art of Animation
+        url: http://theartofanimation.tumblr.com/
+        description: Curated animation art blog.
+        entry_type: inspiration
+        readme_tags:
+          - Animation Art
+          - Blog
+      - name: 50 Watts
+        url: https://50watts.com/
+        description: Illustration history archive.
+        entry_type: inspiration
+        readme_tags:
+          - Illustration
+          - Historical
+      - name: Settei Dreams
+        url: https://setteidreams.net/
+        description: Anime model sheets and settei archive.
+        entry_type: reference
+        tags:
+          workflow:
+            - reference
+            - concept
+        readme_tags:
+          - Anime
+          - Model Sheets
+      - name: LACartoons
+        url: https://lacartoons.com/
+        description: Animation cel and model sheet archive.
+        entry_type: reference
+        readme_tags:
+          - Cartoons
+          - Reference
+      - name: Cloth Reference
+        url: https://imgur.com/a/btqNlL0
+        description: Cloth reference photos.
+        entry_type: reference
+        tags:
+          workflow:
+            - reference
+        readme_tags:
+          - Cloth
+          - Reference
   - slug: stock-footage
-    title: "Stock Footage"
-    description: "Free and archival video footage sources."
+    title: Stock Footage
+    description: Free and archival video footage sources.
     entries:
-      - name: "Internet Archive / Prelinger"
-        url: "https://archive.org/"
-        description: "Public-domain archival footage."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Archival", "Public Domain"]
-
-      - name: "ActionVFX Practice"
-        url: "https://www.actionvfx.com/practice-footage"
-        description: "Free practice VFX footage."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [film-vfx] }
-        readme_tags: ["VFX Practice", "Free"]
-
-      - name: "OpenVisualFX"
-        url: "https://openvisualfx.com/"
-        description: "Free VFX footage."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [film-vfx] }
-        readme_tags: ["VFX Footage", "Free"]
-
-  # ------------------------------------------------------------------
+      - name: Internet Archive / Prelinger
+        url: https://archive.org/
+        description: Public-domain archival footage.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Archival
+          - Public Domain
+      - name: ActionVFX Practice
+        url: https://www.actionvfx.com/practice-footage
+        description: Free practice VFX footage.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - film-vfx
+        readme_tags:
+          - VFX Practice
+          - Free
+      - name: OpenVisualFX
+        url: https://openvisualfx.com/
+        description: Free VFX footage.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - film-vfx
+        readme_tags:
+          - VFX Footage
+          - Free
   - slug: audio-sfx-music
-    title: "Audio — SFX & Music Libraries"
-    description: "Free and paid SFX and music libraries for games, reels, and film."
+    title: Audio — SFX & Music Libraries
+    description: Free and paid SFX and music libraries for games, reels, and film.
     entries:
-      - name: "Freesound"
-        url: "https://freesound.org/"
-        description: "Collaborative database of CC-licensed sounds."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [audio-design] }
-        readme_tags: ["CC-licensed", "Community"]
-
-      - name: "BBC Sound Effects"
-        url: "https://sound-effects.bbcrewind.co.uk/"
-        description: "BBC's archive of free SFX."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [audio-design] }
-        readme_tags: ["BBC Archive", "Free"]
-
-      - name: "Free Music Archive"
-        url: "https://freemusicarchive.org/"
-        description: "Free music, varied licenses."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Free Music", "CC-licensed"]
-
-      - name: "ccMixter"
-        url: "http://ccmixter.org/"
-        description: "Creative Commons remix community."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["CC Remixes", "Community"]
-
-      - name: "Incompetech"
-        url: "https://incompetech.com/"
-        description: "Kevin MacLeod's royalty-free music."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Royalty-free", "Kevin MacLeod"]
-
-      - name: "NCS"
-        url: "https://ncs.io/"
-        description: "NoCopyrightSounds, free for creator use."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Creator Music", "Free-to-Use"]
-
-      - name: "Sonniss"
-        url: "https://sonniss.com/"
-        description: "SFX library. Releases massive annual free bundles."
-        license: "Paid"
-        entry_type: "marketplace"
-        tags: { workflow: [audio-design] }
-        readme_tags: ["Pro SFX", "Annual Free Bundle"]
-
-      - name: "Motion Array SFX"
-        url: "https://motionarray.com/browse/sound-effects/free/"
-        description: "Free SFX collection."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Free SFX", "Motion Array"]
-
-      - name: "Ende"
-        url: "https://ende.app/en"
-        description: "Curated free audio library."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Curated", "Free"]
-
-      - name: "Moby Gratis"
-        url: "https://mobygratis.com/"
-        description: "Free Moby music for indie creators."
-        license: "Free NC"
-        entry_type: "asset-source"
-        readme_tags: ["Moby", "Indie Use"]
-
-      - name: "ZapSplat"
-        url: "https://www.zapsplat.com/"
-        description: "Large free SFX library."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { workflow: [audio-design], output: [games, film-vfx] }
-        readme_tags: ["Large SFX", "Free"]
-
-      - name: "Uppbeat"
-        url: "https://uppbeat.io/"
-        description: "Music for creators."
-        license: "Freemium"
-        entry_type: "marketplace"
-        readme_tags: ["Creator Music", "Freemium"]
-
-      - name: "Artlist"
-        url: "https://artlist.io/"
-        description: "Subscription music and SFX."
-        license: "Paid"
-        entry_type: "marketplace"
-        tags: { tech: [subscription] }
-        readme_tags: ["Subscription", "Music + SFX"]
-
-  # ------------------------------------------------------------------
+      - name: Freesound
+        url: https://freesound.org/
+        description: Collaborative database of CC-licensed sounds.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - audio-design
+        readme_tags:
+          - CC-licensed
+          - Community
+      - name: BBC Sound Effects
+        url: https://sound-effects.bbcrewind.co.uk/
+        description: BBC's archive of free SFX.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - audio-design
+        readme_tags:
+          - BBC Archive
+          - Free
+      - name: Free Music Archive
+        url: https://freemusicarchive.org/
+        description: Free music, varied licenses.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Free Music
+          - CC-licensed
+      - name: ccMixter
+        url: http://ccmixter.org/
+        description: Creative Commons remix community.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - CC Remixes
+          - Community
+      - name: Incompetech
+        url: https://incompetech.com/
+        description: Kevin MacLeod's royalty-free music.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Royalty-free
+          - Kevin MacLeod
+      - name: NCS
+        url: https://ncs.io/
+        description: NoCopyrightSounds, free for creator use.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Creator Music
+          - Free-to-Use
+      - name: Sonniss
+        url: https://sonniss.com/
+        description: SFX library. Releases massive annual free bundles.
+        license: Paid
+        entry_type: marketplace
+        tags:
+          workflow:
+            - audio-design
+        readme_tags:
+          - Pro SFX
+          - Annual Free Bundle
+      - name: Motion Array SFX
+        url: https://motionarray.com/browse/sound-effects/free/
+        description: Free SFX collection.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Free SFX
+          - Motion Array
+      - name: Ende
+        url: https://ende.app/en
+        description: Curated free audio library.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Curated
+          - Free
+      - name: Moby Gratis
+        url: https://mobygratis.com/
+        description: Free Moby music for indie creators.
+        license: Free NC
+        entry_type: asset-source
+        readme_tags:
+          - Moby
+          - Indie Use
+      - name: ZapSplat
+        url: https://www.zapsplat.com/
+        description: Large free SFX library.
+        license: Free
+        entry_type: asset-source
+        tags:
+          workflow:
+            - audio-design
+          output:
+            - games
+            - film-vfx
+        readme_tags:
+          - Large SFX
+          - Free
+      - name: Uppbeat
+        url: https://uppbeat.io/
+        description: Music for creators.
+        license: Freemium
+        entry_type: marketplace
+        readme_tags:
+          - Creator Music
+          - Freemium
+      - name: Artlist
+        url: https://artlist.io/
+        description: Subscription music and SFX.
+        license: Paid
+        entry_type: marketplace
+        tags:
+          tech:
+            - subscription
+        readme_tags:
+          - Subscription
+          - Music + SFX
   - slug: reel-music
-    title: "Reel Music"
-    description: "Music often used in demo reels and reference tracks."
+    title: Reel Music
+    description: Music often used in demo reels and reference tracks.
     entries:
-      - name: "Jake Chudnow"
-        url: "https://www.youtube.com/jakechudnow"
-        description: "Composer whose tracks are widely used in reels."
-        entry_type: "reference"
-        readme_tags: ["Composer", "Reel Favorite"]
-
-      - name: "Kurzgesagt Music"
-        url: "https://thomasveith.bandcamp.com/music"
-        description: "Thomas Veith's Kurzgesagt scores."
-        entry_type: "reference"
-        readme_tags: ["Kurzgesagt", "Atmospheric"]
-
-      - name: "Nujabes - Luv(sic)"
-        url: "https://www.youtube.com/watch?v=2juNu52zNY0"
-        description: "Classic lo-fi reel track."
-        entry_type: "reference"
-        readme_tags: ["Lo-fi", "Classic"]
-
-      - name: "Mr Oizo - Flat Beat"
-        url: "https://www.youtube.com/watch?v=qmsbP13xu6k"
-        description: "Electronic reel favorite."
-        entry_type: "reference"
-        readme_tags: ["Electronic", "Reel Favorite"]
-
-      - name: "Lemaitre - Closer"
-        url: "https://www.youtube.com/watch?v=dSYu8FLVr_Y"
-        description: "Popular reel music."
-        entry_type: "reference"
-        readme_tags: ["Electronic", "Vocal"]
-
-  # ------------------------------------------------------------------
+      - name: Jake Chudnow
+        url: https://www.youtube.com/jakechudnow
+        description: Composer whose tracks are widely used in reels.
+        entry_type: reference
+        readme_tags:
+          - Composer
+          - Reel Favorite
+      - name: Kurzgesagt Music
+        url: https://thomasveith.bandcamp.com/music
+        description: Thomas Veith's Kurzgesagt scores.
+        entry_type: reference
+        readme_tags:
+          - Kurzgesagt
+          - Atmospheric
+      - name: Nujabes - Luv(sic)
+        url: https://www.youtube.com/watch?v=2juNu52zNY0
+        description: Classic lo-fi reel track.
+        entry_type: reference
+        readme_tags:
+          - Lo-fi
+          - Classic
+      - name: Mr Oizo - Flat Beat
+        url: https://www.youtube.com/watch?v=qmsbP13xu6k
+        description: Electronic reel favorite.
+        entry_type: reference
+        readme_tags:
+          - Electronic
+          - Reel Favorite
+      - name: Lemaitre - Closer
+        url: https://www.youtube.com/watch?v=dSYu8FLVr_Y
+        description: Popular reel music.
+        entry_type: reference
+        readme_tags:
+          - Electronic
+          - Vocal
   - slug: fonts
-    title: "Fonts"
-    description: "Font libraries, pairing tools, and type references."
+    title: Fonts
+    description: Font libraries, pairing tools, and type references.
     entries:
-      - name: "Font Library"
-        url: "https://fontlibrary.org/"
-        description: "Open-source and free fonts."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Open Source", "Free"]
-
-      - name: "FontPair"
-        url: "https://fontpair.co/"
-        description: "Font pairing inspiration."
-        entry_type: "tool"
-        readme_tags: ["Pairing", "Inspiration"]
-
-      - name: "Mixfont"
-        url: "https://www.mixfont.com/"
-        description: "Pairing generator."
-        entry_type: "tool"
-        readme_tags: ["Pairing", "Generator"]
-
-      - name: "Lilex"
-        url: "https://lilex.myrt.co/"
-        description: "Programming font with ligatures."
-        license: "Open Source"
-        entry_type: "asset-source"
-        readme_tags: ["Code Font", "Ligatures"]
-
-      - name: "Commissioner"
-        url: "https://github.com/kosbarts/Commissioner"
-        description: "Open-source variable sans-serif."
-        license: "Open Source"
-        entry_type: "asset-source"
-        readme_tags: ["Variable", "Sans-Serif"]
-
-      - name: "Klim Type Foundry"
-        url: "https://klim.co.nz/"
-        description: "Professional type foundry."
-        entry_type: "marketplace"
-        readme_tags: ["Pro Foundry", "Paid"]
-
-      - name: "Usable Google Fonts (Figma)"
-        url: "https://www.figma.com/community/file/1535264485426732629/usable-google-fonts"
-        description: "Curated Figma set of usable Google Fonts."
-        license: "Free"
-        entry_type: "reference"
-        readme_tags: ["Figma", "Google Fonts"]
-
-      - name: "How to Proof a Typeface"
-        url: "https://jonathanhoefler.com/articles/how-to-proof-a-typeface"
-        description: "Jonathan Hoefler's proofing guide."
-        entry_type: "reference"
-        readme_tags: ["Proofing Guide", "Hoefler"]
-
-      - name: "FontLab 8"
-        url: "https://www.fontlab.com/font-editor/fontlab/"
-        description: "Professional font editor."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Type design, font editing"
-        tags: { platform: [win, mac] }
-        readme_tags: ["Font Editor", "Pro"]
-
-  # ------------------------------------------------------------------
+      - name: Font Library
+        url: https://fontlibrary.org/
+        description: Open-source and free fonts.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Open Source
+          - Free
+      - name: FontPair
+        url: https://fontpair.co/
+        description: Font pairing inspiration.
+        entry_type: tool
+        readme_tags:
+          - Pairing
+          - Inspiration
+      - name: Mixfont
+        url: https://www.mixfont.com/
+        description: Pairing generator.
+        entry_type: tool
+        readme_tags:
+          - Pairing
+          - Generator
+      - name: Lilex
+        url: https://lilex.myrt.co/
+        description: Programming font with ligatures.
+        license: Open Source
+        entry_type: asset-source
+        readme_tags:
+          - Code Font
+          - Ligatures
+      - name: Commissioner
+        url: https://github.com/kosbarts/Commissioner
+        description: Open-source variable sans-serif.
+        license: Open Source
+        entry_type: asset-source
+        readme_tags:
+          - Variable
+          - Sans-Serif
+      - name: Klim Type Foundry
+        url: https://klim.co.nz/
+        description: Professional type foundry.
+        entry_type: marketplace
+        readme_tags:
+          - Pro Foundry
+          - Paid
+      - name: Usable Google Fonts (Figma)
+        url: https://www.figma.com/community/file/1535264485426732629/usable-google-fonts
+        description: Curated Figma set of usable Google Fonts.
+        license: Free
+        entry_type: reference
+        readme_tags:
+          - Figma
+          - Google Fonts
+      - name: How to Proof a Typeface
+        url: https://jonathanhoefler.com/articles/how-to-proof-a-typeface
+        description: Jonathan Hoefler's proofing guide.
+        entry_type: reference
+        readme_tags:
+          - Proofing Guide
+          - Hoefler
+      - name: FontLab 8
+        url: https://www.fontlab.com/font-editor/fontlab/
+        description: Professional font editor.
+        license: Paid
+        entry_type: software
+        best_for: Type design, font editing
+        tags:
+          platform:
+            - win
+            - mac
+        readme_tags:
+          - Font Editor
+          - Pro
   - slug: icons
-    title: "Icons"
-    description: "Icon libraries and animation sets."
+    title: Icons
+    description: Icon libraries and animation sets.
     entries:
-      - name: "Flaticon"
-        url: "https://www.flaticon.com/"
-        description: "Massive icon library."
-        license: "Freemium"
-        entry_type: "asset-source"
-        readme_tags: ["Massive", "Freemium"]
-
-      - name: "SVGL"
-        url: "https://svgl.app/"
-        description: "Brand logos in SVG."
-        license: "Free"
-        entry_type: "asset-source"
-        readme_tags: ["Brand Logos", "SVG"]
-
-      - name: "Icons8 Glyph"
-        url: "https://icons8.com/l/glyph/"
-        description: "Glyph-style icon set."
-        entry_type: "asset-source"
-        readme_tags: ["Glyph Style", "Varied"]
-
-      - name: "Lucide"
-        url: "https://lucide.dev/"
-        description: "Open-source icon library."
-        license: "Open Source"
-        entry_type: "asset-source"
-        readme_tags: ["Open Source", "Modern"]
-
-      - name: "Lucide Animated"
-        url: "https://lucide-animated.com/"
-        description: "Animated version of Lucide icons."
-        entry_type: "asset-source"
-        readme_tags: ["Animated", "Lucide"]
-
-      - name: "Tabler Icons"
-        url: "https://tablericons.com/"
-        description: "Open-source SVG icons."
-        license: "Open Source"
-        entry_type: "asset-source"
-        readme_tags: ["Open Source", "SVG"]
-
-      - name: "Font Awesome"
-        url: "https://fontawesome.com/"
-        description: "Classic icon font library."
-        license: "Freemium"
-        entry_type: "asset-source"
-        readme_tags: ["Classic", "Icon Font"]
-
-      - name: "MDI Icons"
-        url: "https://pictogrammers.com/library/mdi/icon/"
-        description: "Material Design Icons, huge set."
-        license: "Open Source"
-        entry_type: "asset-source"
-        readme_tags: ["Material Design", "Huge Set"]
-
-      - name: "Game Icons"
-        url: "https://game-icons.net/"
-        description: "4000+ SVG game icons."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [games] }
-        readme_tags: ["Game-themed", "4000+"]
-
-      - name: "Use Animations"
-        url: "https://useanimations.com/"
-        description: "Animated icons for web UI."
-        entry_type: "asset-source"
-        readme_tags: ["Animated", "Web UI"]
-
-      - name: "Handy Arrows"
-        url: "https://handyarrows.com/"
-        description: "Hand-drawn arrow sets."
-        entry_type: "asset-source"
-        readme_tags: ["Hand-drawn", "Arrows"]
-
-  # ------------------------------------------------------------------
+      - name: Flaticon
+        url: https://www.flaticon.com/
+        description: Massive icon library.
+        license: Freemium
+        entry_type: asset-source
+        readme_tags:
+          - Massive
+          - Freemium
+      - name: SVGL
+        url: https://svgl.app/
+        description: Brand logos in SVG.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Brand Logos
+          - SVG
+      - name: Icons8 Glyph
+        url: https://icons8.com/l/glyph/
+        description: Glyph-style icon set.
+        entry_type: asset-source
+        readme_tags:
+          - Glyph Style
+          - Varied
+      - name: Lucide
+        url: https://lucide.dev/
+        description: Open-source icon library.
+        license: Open Source
+        entry_type: asset-source
+        readme_tags:
+          - Open Source
+          - Modern
+      - name: Lucide Animated
+        url: https://lucide-animated.com/
+        description: Animated version of Lucide icons.
+        entry_type: asset-source
+        readme_tags:
+          - Animated
+          - Lucide
+      - name: Tabler Icons
+        url: https://tablericons.com/
+        description: Open-source SVG icons.
+        license: Open Source
+        entry_type: asset-source
+        readme_tags:
+          - Open Source
+          - SVG
+      - name: Font Awesome
+        url: https://fontawesome.com/
+        description: Classic icon font library.
+        license: Freemium
+        entry_type: asset-source
+        readme_tags:
+          - Classic
+          - Icon Font
+      - name: MDI Icons
+        url: https://pictogrammers.com/library/mdi/icon/
+        description: Material Design Icons, huge set.
+        license: Open Source
+        entry_type: asset-source
+        readme_tags:
+          - Material Design
+          - Huge Set
+      - name: Game Icons
+        url: https://game-icons.net/
+        description: 4000+ SVG game icons.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Game-themed
+          - 4000+
+      - name: Use Animations
+        url: https://useanimations.com/
+        description: Animated icons for web UI.
+        entry_type: asset-source
+        readme_tags:
+          - Animated
+          - Web UI
+      - name: Handy Arrows
+        url: https://handyarrows.com/
+        description: Hand-drawn arrow sets.
+        entry_type: asset-source
+        readme_tags:
+          - Hand-drawn
+          - Arrows
   - slug: game-assets
-    title: "Game Assets"
-    description: "Free and paid game-ready asset sources. Cross-listed from §7."
-    dual_listed_from: "game-development"
+    title: Game Assets
+    description: Free and paid game-ready asset sources. Cross-listed from §7.
+    dual_listed_from: game-development
     entries:
-      - name: "OpenGameArt"
-        url: "https://opengameart.org/"
-        description: "Community hub for free game art."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [games] }
-        readme_tags: ["Community", "Free"]
-
-      - name: "Kenney"
-        url: "https://kenney.nl/"
-        description: "CC0 game assets (\"Asset Jesus\")."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [games], tech: [cc0] }
-        readme_tags: ["CC0", "Beloved"]
-
-      - name: "itch.io Assets"
-        url: "https://itch.io/game-assets"
-        description: "Indie game asset marketplace."
-        entry_type: "marketplace"
-        tags: { output: [games] }
-        readme_tags: ["Indie", "Mixed Free/Paid"]
-
-      - name: "Kay Lousberg"
-        url: "https://kaylousberg.com/"
-        description: "CC0 low-poly game assets."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [games], tech: [cc0] }
-        readme_tags: ["CC0", "Low-Poly"]
-
-      - name: "Pixel Frog"
-        url: "https://pixelfrog-assets.itch.io/"
-        description: "Pixel art assets."
-        entry_type: "asset-source"
-        tags: { output: [games] }
-        readme_tags: ["Pixel Art", "High-Quality"]
-
-      - name: "Craftpix"
-        url: "https://craftpix.net/freebies/"
-        description: "2D game assets, free and paid."
-        license: "Freemium"
-        entry_type: "marketplace"
-        tags: { output: [games] }
-        readme_tags: ["2D Assets", "Freemium"]
-
-      - name: "Synty Studios"
-        url: "https://syntystore.com/"
-        description: "Stylized low-poly asset packs."
-        license: "Paid"
-        entry_type: "marketplace"
-        tags: { output: [games] }
-        readme_tags: ["Stylized", "Low-Poly"]
-
-      - name: "GameDev Market"
-        url: "https://www.gamedevmarket.net/"
-        description: "Game dev asset marketplace."
-        entry_type: "marketplace"
-        tags: { output: [games] }
-        readme_tags: ["Marketplace", "Varied"]
-
-      - name: "Humble Bundle Game Dev"
-        url: "https://www.humblebundle.com/software"
-        description: "Periodic game dev bundles."
-        entry_type: "marketplace"
-        readme_tags: ["Bundles", "Periodic Deals"]
-
-      - name: "Free Game Assets"
-        url: "https://www.freegameassets.com/"
-        description: "Curated free 2D/3D/audio assets."
-        license: "Free"
-        entry_type: "asset-source"
-        tags: { output: [games] }
-        readme_tags: ["Curated", "2D/3D/Audio"]
+      - name: OpenGameArt
+        url: https://opengameart.org/
+        description: Community hub for free game art.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Community
+          - Free
+      - name: Kenney
+        url: https://kenney.nl/
+        description: CC0 game assets ("Asset Jesus").
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+          tech:
+            - cc0
+        readme_tags:
+          - CC0
+          - Beloved
+      - name: itch.io Assets
+        url: https://itch.io/game-assets
+        description: Indie game asset marketplace.
+        entry_type: marketplace
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Indie
+          - Mixed Free/Paid
+      - name: Kay Lousberg
+        url: https://kaylousberg.com/
+        description: CC0 low-poly game assets.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+          tech:
+            - cc0
+        readme_tags:
+          - CC0
+          - Low-Poly
+      - name: Pixel Frog
+        url: https://pixelfrog-assets.itch.io/
+        description: Pixel art assets.
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Pixel Art
+          - High-Quality
+      - name: Craftpix
+        url: https://craftpix.net/freebies/
+        description: 2D game assets, free and paid.
+        license: Freemium
+        entry_type: marketplace
+        tags:
+          output:
+            - games
+        readme_tags:
+          - 2D Assets
+          - Freemium
+      - name: Synty Studios
+        url: https://syntystore.com/
+        description: Stylized low-poly asset packs.
+        license: Paid
+        entry_type: marketplace
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Stylized
+          - Low-Poly
+      - name: GameDev Market
+        url: https://www.gamedevmarket.net/
+        description: Game dev asset marketplace.
+        entry_type: marketplace
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Marketplace
+          - Varied
+      - name: Humble Bundle Game Dev
+        url: https://www.humblebundle.com/software
+        description: Periodic game dev bundles.
+        entry_type: marketplace
+        readme_tags:
+          - Bundles
+          - Periodic Deals
+      - name: Free Game Assets
+        url: https://www.freegameassets.com/
+        description: Curated free 2D/3D/audio assets.
+        license: Free
+        entry_type: asset-source
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Curated
+          - 2D/3D/Audio
+      - name: NativeBlend CLI
+        url: https://github.com/addy999/nativeblend-cli
+        description: AI-powered CLI tool to generate and edit low-poly 3D game assets in Blender from natural language prompts
+        entry_type: tool
+      - name: Kenney
+        url: https://kenney.nl/assets
+        description: Free game art and assets.
+        entry_type: asset-source
+      - name: Liberated Pixel Cup assets
+        url: http://lpc.opengameart.org
+        description: Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
+        entry_type: asset-source
+      - name: Tilemancer
+        url: https://led.itch.io/tilemancer
+        description: A quick procedural tile creator designed for pixel-art games.
+        entry_type: asset-source

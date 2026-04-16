@@ -1,981 +1,1784 @@
 slug: tools-pipeline-utilities
-title: "Tools, Pipeline & Utilities"
-description: "Viewers, converters, USD, plugin marketplaces, pipeline standards, and miscellaneous CG utilities."
-
+title: Tools, Pipeline & Utilities
+description: Viewers, converters, USD, plugin marketplaces, pipeline standards, and miscellaneous CG utilities.
 subsections:
-  # ------------------------------------------------------------------
   - slug: usd
-    title: "USD (Universal Scene Description)"
-    description: "OpenUSD resources, specifications, and guides."
+    title: USD (Universal Scene Description)
+    description: OpenUSD resources, specifications, and guides.
     entries:
-      - name: "OpenUSD"
-        url: "https://openusd.org/"
-        description: "Official Pixar USD site — specification, tools, resources."
-        license: "Open Source"
-        entry_type: "reference"
-        tags: { tech: [usd] }
-        readme_tags: ["Official", "Pixar"]
-
-      - name: "USD Working Group (ASWF)"
-        url: "https://wiki.aswf.io/display/WGUSD/"
-        description: "Alliance for Open Media USD resources."
-        entry_type: "reference"
-        tags: { tech: [usd] }
-        readme_tags: ["ASWF", "Working Group"]
-
-      - name: "NVIDIA USD Resources"
-        url: "https://developer.nvidia.com/usd"
-        description: "Omniverse, tutorials, tools."
-        entry_type: "reference"
-        tags: { tech: [usd] }
-        readme_tags: ["NVIDIA", "Omniverse"]
-
-      - name: "Apple USD Tools"
-        url: "https://developer.apple.com/augmented-reality/tools/"
-        description: "usdz_converter, Reality Composer."
-        entry_type: "reference"
-        tags: { tech: [usd, xr] }
-        readme_tags: ["USDZ", "Apple AR"]
-
-      - name: "USD Survival Guide"
-        url: "https://lucascheller.github.io/VFX-UsdSurvivalGuide/"
-        description: "Practical USD guide for VFX artists."
-        entry_type: "reference"
-        tags: { tech: [usd] }
-        readme_tags: ["Practical Guide", "VFX"]
-
-      - name: "USD Cookbook (Colin Kennedy)"
-        url: "https://github.com/ColinKennedy/USD-Cookbook"
-        description: "Code recipes and examples."
-        license: "Open Source"
-        entry_type: "reference"
-        tags: { tech: [usd] }
-        readme_tags: ["Code Recipes", "Examples"]
-
-  # ------------------------------------------------------------------
+      - name: OpenUSD
+        url: https://openusd.org/
+        description: Official Pixar USD site — specification, tools, resources.
+        license: Open Source
+        entry_type: reference
+        tags:
+          tech:
+            - usd
+        readme_tags:
+          - Official
+          - Pixar
+      - name: USD Working Group (ASWF)
+        url: https://wiki.aswf.io/display/WGUSD/
+        description: Alliance for Open Media USD resources.
+        entry_type: reference
+        tags:
+          tech:
+            - usd
+        readme_tags:
+          - ASWF
+          - Working Group
+      - name: NVIDIA USD Resources
+        url: https://developer.nvidia.com/usd
+        description: Omniverse, tutorials, tools.
+        entry_type: reference
+        tags:
+          tech:
+            - usd
+        readme_tags:
+          - NVIDIA
+          - Omniverse
+      - name: Apple USD Tools
+        url: https://developer.apple.com/augmented-reality/tools/
+        description: usdz_converter, Reality Composer.
+        entry_type: reference
+        tags:
+          tech:
+            - usd
+            - xr
+        readme_tags:
+          - USDZ
+          - Apple AR
+      - name: USD Survival Guide
+        url: https://lucascheller.github.io/VFX-UsdSurvivalGuide/
+        description: Practical USD guide for VFX artists.
+        entry_type: reference
+        tags:
+          tech:
+            - usd
+        readme_tags:
+          - Practical Guide
+          - VFX
+      - name: USD Cookbook (Colin Kennedy)
+        url: https://github.com/ColinKennedy/USD-Cookbook
+        description: Code recipes and examples.
+        license: Open Source
+        entry_type: reference
+        tags:
+          tech:
+            - usd
+        readme_tags:
+          - Code Recipes
+          - Examples
+      - name: Animal Logic's USD Docker
+        url: https://github.com/AnimalLogic/docker-usd
+        description: A set of docker build scripts that will download all the Open Source packages required to build Pixar's Universal Scene Description, as well as USD itself
+        entry_type: reference
+      - name: USD Manager
+        url: http://www.usdmanager.org/
+        description: Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files.
+        entry_type: reference
+      - name: AL_USDMaya
+        url: https://github.com/AnimalLogic/AL_USDMaya
+        description: Represent Maya data in Maya and USD data in USD.
+        entry_type: reference
+      - name: luma_usd
+        url: https://github.com/LumaPictures/luma_usd
+        description: Plugins for USD.
+        entry_type: reference
+      - name: USD Shell Extension for Windows
+        url: https://github.com/Activision/USDShellExtension
+        description: a full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
+        entry_type: reference
+      - name: usd-noodle
+        url: https://github.com/chris-gardner/usd-noodle
+        description: Pretty node graph showing dependencies of a USD file.
+        entry_type: reference
+      - name: USD-URI-resolver
+        url: https://github.com/LumaPictures/usd-uri-resolver
+        description: A generic, URI based resolver for USD, support custom plugins.
+        entry_type: reference
+      - name: UsdQt
+        url: https://github.com/LumaPictures/usd-qt
+        description: Qt components for building custom USD tools.
+        entry_type: reference
+      - name: usd-qtpy
+        url: https://github.com/BigRoy/usd-qtpy
+        description: Python Qt components for building custom USD tools.
+        entry_type: reference
+      - name: USD
+        url: https://github.com/justint/usd-idea
+        description: Plug-in for USD
+        entry_type: reference
   - slug: scene-pipeline-tools
-    title: "Scene & Pipeline Tools"
-    description: "Production pipelines, render management, look dev."
+    title: Scene & Pipeline Tools
+    description: Production pipelines, render management, look dev.
     entries:
-      - name: "Prism Pipeline"
-        url: "https://prism-pipeline.com/"
-        description: "Animation and VFX pipeline."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Indie/small studio pipeline"
-        tags: { output: [film-vfx, broadcast] }
-        readme_tags: ["Pipeline", "Free Core"]
-
-      - name: "OpenCue"
-        url: "https://docs.opencue.io/"
-        description: "Open-source render management."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Render farm management"
-        tags: { workflow: [rendering] }
-        readme_tags: ["Render Farm", "Open Source"]
-
-      - name: "ftrack"
-        url: "https://www.ftrack.com/en/"
-        description: "Production tracking."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Production tracking"
-        tags: { output: [film-vfx] }
-        readme_tags: ["Production Tracking", "Pro"]
-
-      - name: "Kitsu (CGWire)"
-        url: "https://www.cg-wire.com/kitsu"
-        description: "Production tracker."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Open-source production tracking"
-        tags: { output: [film-vfx] }
-        readme_tags: ["Open Source", "Tracking"]
-
-      - name: "Gaffer"
-        url: "https://www.gafferhq.org/"
-        description: "Free open-source node-based look dev, lighting and compositing. Arnold, Cycles, 3Delight support."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Look dev + lighting pipeline"
-        tags: { workflow: [lighting, compositing, material-authoring], tech: [node-based] }
-        readme_tags: ["Look Dev", "Node-based"]
-
-  # ------------------------------------------------------------------
+      - name: Prism Pipeline
+        url: https://prism-pipeline.com/
+        description: Animation and VFX pipeline.
+        license: Freemium
+        entry_type: software
+        best_for: Indie/small studio pipeline
+        tags:
+          output:
+            - film-vfx
+            - broadcast
+        readme_tags:
+          - Pipeline
+          - Free Core
+      - name: OpenCue
+        url: https://docs.opencue.io/
+        description: Open-source render management.
+        license: Open Source
+        entry_type: software
+        best_for: Render farm management
+        tags:
+          workflow:
+            - rendering
+        readme_tags:
+          - Render Farm
+          - Open Source
+      - name: ftrack
+        url: https://www.ftrack.com/en/
+        description: Production tracking.
+        license: Paid
+        entry_type: software
+        best_for: Production tracking
+        tags:
+          output:
+            - film-vfx
+        readme_tags:
+          - Production Tracking
+          - Pro
+      - name: Kitsu (CGWire)
+        url: https://www.cg-wire.com/kitsu
+        description: Production tracker.
+        license: Open Source
+        entry_type: software
+        best_for: Open-source production tracking
+        tags:
+          output:
+            - film-vfx
+        readme_tags:
+          - Open Source
+          - Tracking
+      - name: Gaffer
+        url: https://www.gafferhq.org/
+        description: Free open-source node-based look dev, lighting and compositing. Arnold, Cycles, 3Delight support.
+        license: Open Source
+        entry_type: software
+        best_for: Look dev + lighting pipeline
+        tags:
+          workflow:
+            - lighting
+            - compositing
+            - material-authoring
+          tech:
+            - node-based
+        readme_tags:
+          - Look Dev
+          - Node-based
+      - name: COLMAP
+        url: https://colmap.github.io/
+        description: A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.
+        entry_type: software
+      - name: A-trip-through-the-graphics-pipeline
+        url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
+        description: A-trip-through-the-graphics-pipeline.
+        entry_type: reference
+      - name: Dailies
+        url: https://github.com/vfxpaco85/dailies/
+        description: Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
+        entry_type: reference
+      - name: Prisma
+        url: https://github.com/patriciogonzalezvivo/prisma
+        description: Computational photography pipeline tool that performs multiple inferences (masks, depth, motionvectors) from any image or video.
+        entry_type: tool
+      - name: Tik Manager
+        url: https://github.com/masqu3rad3/tik_manager4
+        description: Artist friendly asset and pipeline manager.
+        entry_type: reference
+      - name: GStreamer
+        url: https://gstreamer.freedesktop.org/
+        description: Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows.
+        entry_type: software
+      - name: Pipeline Developer Forum
+        url: https://pipedev.org
+        description: Pipeline Developer Forum.
+        entry_type: community
+      - name: Pipeline Patterns
+        url: http://www.pipelinepatterns.com/
+        description: Pipeline Patterns.
+        entry_type: software
+      - name: Pandora
+        url: https://prism-pipeline.com/pandora/
+        description: Open-Source Renderfarm-Manager.
+        entry_type: software
+      - name: The Pipeline Conference
+        url: https://thepipelineconference.com
+        description: The Pipeline Conference.
+        entry_type: software
+      - name: Tik Manager
+        url: https://tik-manager.com
+        description: Artist-friendly asset and pipeline manager.
+        entry_type: software
+      - name: CGRU
+        url: http://cgru.info/
+        description: is a CG tools pack that includes AFANASY, a free open-source render farm manager.
+        entry_type: software
   - slug: gaussian-splatting-nerf
-    title: "Gaussian Splatting & NeRF"
-    description: "Neural and splatting reconstruction."
+    title: Gaussian Splatting & NeRF
+    description: Neural and splatting reconstruction.
     entries:
-      - name: "3D Gaussian Splatting"
-        url: "https://github.com/graphdeco-inria/gaussian-splatting"
-        description: "Original implementation."
-        license: "Open Source"
-        entry_type: "reference"
-        tags: { tech: [gaussian-splatting] }
-        readme_tags: ["Original Impl", "INRIA"]
-
-      - name: "4D Gaussian Splatting"
-        url: "https://github.com/hustvl/4DGaussians"
-        description: "Dynamic scenes (CVPR 2024)."
-        license: "Open Source"
-        entry_type: "reference"
-        tags: { tech: [gaussian-splatting] }
-        readme_tags: ["Dynamic Scenes", "4D"]
-
-      - name: "Brush"
-        url: "https://github.com/ArthurBrussee/brush"
-        description: "3D reconstruction for all."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { tech: [gaussian-splatting] }
-        readme_tags: ["Open Source", "Reconstruction"]
-
-      - name: "MegaSaM"
-        url: "https://github.com/mega-sam/mega-sam"
-        description: "Structure and motion from casual video."
-        license: "Open Source"
-        entry_type: "reference"
-        readme_tags: ["SfM", "Casual Video"]
-
-      - name: "Shape of Motion"
-        url: "https://github.com/vye16/shape-of-motion/"
-        description: "Shape of motion reconstruction."
-        license: "Open Source"
-        entry_type: "reference"
-        readme_tags: ["Motion Recon", "Research"]
-
-  # ------------------------------------------------------------------
+      - name: 3D Gaussian Splatting
+        url: https://github.com/graphdeco-inria/gaussian-splatting
+        description: Original implementation.
+        license: Open Source
+        entry_type: reference
+        tags:
+          tech:
+            - gaussian-splatting
+        readme_tags:
+          - Original Impl
+          - INRIA
+      - name: 4D Gaussian Splatting
+        url: https://github.com/hustvl/4DGaussians
+        description: Dynamic scenes (CVPR 2024).
+        license: Open Source
+        entry_type: reference
+        tags:
+          tech:
+            - gaussian-splatting
+        readme_tags:
+          - Dynamic Scenes
+          - 4D
+      - name: Brush
+        url: https://github.com/ArthurBrussee/brush
+        description: 3D reconstruction for all.
+        license: Open Source
+        entry_type: tool
+        tags:
+          tech:
+            - gaussian-splatting
+        readme_tags:
+          - Open Source
+          - Reconstruction
+      - name: MegaSaM
+        url: https://github.com/mega-sam/mega-sam
+        description: Structure and motion from casual video.
+        license: Open Source
+        entry_type: reference
+        readme_tags:
+          - SfM
+          - Casual Video
+      - name: Shape of Motion
+        url: https://github.com/vye16/shape-of-motion/
+        description: Shape of motion reconstruction.
+        license: Open Source
+        entry_type: reference
+        readme_tags:
+          - Motion Recon
+          - Research
   - slug: photogrammetry-scanning
-    title: "Photogrammetry & 3D Scanning"
-    description: "Photogrammetry, LiDAR, and Gaussian splat capture."
+    title: Photogrammetry & 3D Scanning
+    description: Photogrammetry, LiDAR, and Gaussian splat capture.
     entries:
-      - name: "Meshroom (AliceVision)"
-        url: "https://alicevision.org/#meshroom"
-        description: "Free, open-source photogrammetry. Node-based, GPU-accelerated."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Open-source photogrammetry"
-        tags: { workflow: [modeling], tech: [photogrammetry, node-based, gpu] }
-        readme_tags: ["Open Source", "Node-based"]
-
-      - name: "RealityCapture"
-        url: "https://www.capturingreality.com/"
-        description: "Fast, high-quality photogrammetry (now Epic Games). PPI pricing."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Production photogrammetry"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["Epic Games", "High-Quality"]
-
-      - name: "Agisoft Metashape"
-        url: "https://www.agisoft.com/"
-        description: "Professional photogrammetry with GIS features."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Pro photogrammetry + GIS"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["GIS Features", "Pro"]
-
-      - name: "Polycam"
-        url: "https://poly.cam/"
-        description: "Mobile photogrammetry (iOS LiDAR + photo, Android photo). Cloud processing."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Mobile photogrammetry"
-        tags: { platform: [ios, android, cloud], tech: [photogrammetry] }
-        readme_tags: ["Mobile", "LiDAR"]
-
-      - name: "KIRI Engine"
-        url: "https://www.kiriengine.com/"
-        description: "Cross-platform mobile photogrammetry."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Cross-platform mobile photogrammetry"
-        tags: { platform: [ios, android], tech: [photogrammetry] }
-        readme_tags: ["Cross-platform", "Mobile"]
-
-      - name: "Luma AI"
-        url: "https://lumalabs.ai/"
-        description: "NeRF/Gaussian Splat capture from phone video."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "NeRF/splat from phone"
-        tags: { tech: [nerf, gaussian-splatting] }
-        readme_tags: ["NeRF/Splat", "Phone"]
-
-      - name: "3DF Zephyr"
-        url: "https://www.3dflow.net/3df-zephyr-photogrammetry-software/"
-        description: "Free lite version (up to 50 photos)."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Lite photogrammetry"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["Free Lite", "50 Photos"]
-
-      - name: "Scaniverse (Niantic)"
-        url: "https://scaniverse.com/"
-        description: "Free mobile scanning, Gaussian splat support."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Mobile scan, Gaussian splat"
-        tags: { platform: [ios, android], tech: [photogrammetry, gaussian-splatting] }
-        readme_tags: ["Free Mobile", "Gaussian Splat"]
-
-      - name: "Postshot"
-        url: "https://www.jawset.com/"
-        description: "Desktop Gaussian Splatting tool. Train, clean, edit, export."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Desktop Gaussian splat"
-        tags: { tech: [gaussian-splatting] }
-        readme_tags: ["Desktop", "Splat Editor"]
-
-  # ------------------------------------------------------------------
+      - name: Meshroom (AliceVision)
+        url: https://alicevision.org/#meshroom
+        description: Free, open-source photogrammetry. Node-based, GPU-accelerated.
+        license: Open Source
+        entry_type: software
+        best_for: Open-source photogrammetry
+        tags:
+          workflow:
+            - modeling
+          tech:
+            - photogrammetry
+            - node-based
+            - gpu
+        readme_tags:
+          - Open Source
+          - Node-based
+      - name: RealityCapture
+        url: https://www.capturingreality.com/
+        description: Fast, high-quality photogrammetry (now Epic Games). PPI pricing.
+        license: Freemium
+        entry_type: software
+        best_for: Production photogrammetry
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Epic Games
+          - High-Quality
+      - name: Agisoft Metashape
+        url: https://www.agisoft.com/
+        description: Professional photogrammetry with GIS features.
+        license: Paid
+        entry_type: software
+        best_for: Pro photogrammetry + GIS
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - GIS Features
+          - Pro
+      - name: Polycam
+        url: https://poly.cam/
+        description: Mobile photogrammetry (iOS LiDAR + photo, Android photo). Cloud processing.
+        license: Freemium
+        entry_type: software
+        best_for: Mobile photogrammetry
+        tags:
+          platform:
+            - ios
+            - android
+            - cloud
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Mobile
+          - LiDAR
+      - name: KIRI Engine
+        url: https://www.kiriengine.com/
+        description: Cross-platform mobile photogrammetry.
+        license: Freemium
+        entry_type: software
+        best_for: Cross-platform mobile photogrammetry
+        tags:
+          platform:
+            - ios
+            - android
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Cross-platform
+          - Mobile
+      - name: Luma AI
+        url: https://lumalabs.ai/
+        description: NeRF/Gaussian Splat capture from phone video.
+        license: Freemium
+        entry_type: software
+        best_for: NeRF/splat from phone
+        tags:
+          tech:
+            - nerf
+            - gaussian-splatting
+        readme_tags:
+          - NeRF/Splat
+          - Phone
+      - name: 3DF Zephyr
+        url: https://www.3dflow.net/3df-zephyr-photogrammetry-software/
+        description: Free lite version (up to 50 photos).
+        license: Freemium
+        entry_type: software
+        best_for: Lite photogrammetry
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Free Lite
+          - 50 Photos
+      - name: Scaniverse (Niantic)
+        url: https://scaniverse.com/
+        description: Free mobile scanning, Gaussian splat support.
+        license: Free
+        entry_type: software
+        best_for: Mobile scan, Gaussian splat
+        tags:
+          platform:
+            - ios
+            - android
+          tech:
+            - photogrammetry
+            - gaussian-splatting
+        readme_tags:
+          - Free Mobile
+          - Gaussian Splat
+      - name: Postshot
+        url: https://www.jawset.com/
+        description: Desktop Gaussian Splatting tool. Train, clean, edit, export.
+        license: Freemium
+        entry_type: software
+        best_for: Desktop Gaussian splat
+        tags:
+          tech:
+            - gaussian-splatting
+        readme_tags:
+          - Desktop
+          - Splat Editor
+      - name: CloudCompare
+        url: https://www.danielgm.net/cc/
+        description: A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a
+        entry_type: software
+      - name: SuperSplat
+        url: https://github.com/playcanvas/supersplat
+        description: A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
+        entry_type: tool
+      - name: OpenScanTools
+        url: https://openscantools.com/
+        description: A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.
+        entry_type: software
+      - name: Meshroom
+        url: https://github.com/alicevision/meshroom
+        description: 3D Reconstruction Software.
+        entry_type: reference
   - slug: retopology-mesh-tools
-    title: "Retopology & Mesh Tools"
-    description: "Retopology and mesh processing."
+    title: Retopology & Mesh Tools
+    description: Retopology and mesh processing.
     entries:
-      - name: "Instant Meshes"
-        url: "https://github.com/wjakob/instant-meshes"
-        description: "Free, open-source auto-retopology."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Auto-retopology"
-        tags: { workflow: [retopo] }
-        readme_tags: ["Free", "Auto Retopo"]
-
-      - name: "Quad Remesher"
-        url: "https://exoside.com/quadremesher/"
-        description: "Plugin for Blender/Maya/3ds Max/C4D/Modo."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { workflow: [retopo] }
-        readme_tags: ["Multi-DCC", "Auto Quads"]
-
-      - name: "RetopoFlow"
-        url: "https://blendermarket.com/products/retopoflow"
-        description: "Blender addon for manual retopology."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { workflow: [retopo], tech: [blender-addon] }
-        readme_tags: ["Blender", "Manual Retopo"]
-
-      - name: "CozyBlanket"
-        url: "https://cozyblanket.com/"
-        description: "Standalone manual retopology tool."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Standalone retopology"
-        tags: { workflow: [retopo] }
-        readme_tags: ["Standalone", "Manual"]
-
-      - name: "Topogun"
-        url: "https://www.topogun.com/"
-        description: "Standalone retopology and baking."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Retopo + baking"
-        tags: { workflow: [retopo, texturing] }
-        readme_tags: ["Retopo + Bake", "Classic"]
-
-      - name: "Topology Guides"
-        url: "http://topologyguides.com/"
-        description: "Topology reference."
-        entry_type: "reference"
-        readme_tags: ["Topology", "Reference"]
-
-  # ------------------------------------------------------------------
+      - name: Instant Meshes
+        url: https://github.com/wjakob/instant-meshes
+        description: Free, open-source auto-retopology.
+        license: Open Source
+        entry_type: software
+        best_for: Auto-retopology
+        tags:
+          workflow:
+            - retopo
+        readme_tags:
+          - Free
+          - Auto Retopo
+      - name: Quad Remesher
+        url: https://exoside.com/quadremesher/
+        description: Plugin for Blender/Maya/3ds Max/C4D/Modo.
+        license: Paid
+        entry_type: plugin
+        tags:
+          workflow:
+            - retopo
+        readme_tags:
+          - Multi-DCC
+          - Auto Quads
+      - name: RetopoFlow
+        url: https://blendermarket.com/products/retopoflow
+        description: Blender addon for manual retopology.
+        license: Paid
+        entry_type: plugin
+        tags:
+          workflow:
+            - retopo
+          tech:
+            - blender-addon
+        readme_tags:
+          - Blender
+          - Manual Retopo
+      - name: CozyBlanket
+        url: https://cozyblanket.com/
+        description: Standalone manual retopology tool.
+        license: Paid
+        entry_type: software
+        best_for: Standalone retopology
+        tags:
+          workflow:
+            - retopo
+        readme_tags:
+          - Standalone
+          - Manual
+      - name: Topogun
+        url: https://www.topogun.com/
+        description: Standalone retopology and baking.
+        license: Paid
+        entry_type: software
+        best_for: Retopo + baking
+        tags:
+          workflow:
+            - retopo
+            - texturing
+        readme_tags:
+          - Retopo + Bake
+          - Classic
+      - name: Topology Guides
+        url: http://topologyguides.com/
+        description: Topology reference.
+        entry_type: reference
+        readme_tags:
+          - Topology
+          - Reference
   - slug: uv-tools
-    title: "UV Tools"
-    description: "UV unwrapping, packing, and UDIM tools."
+    title: UV Tools
+    description: UV unwrapping, packing, and UDIM tools.
     entries:
-      - name: "RizomUV"
-        url: "https://www.rizom-lab.com/"
-        description: "Fast UV unwrapping, auto-seam, auto-pack. Standalone or bridge."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Fast pro UV unwrapping"
-        tags: { workflow: [uv] }
-        readme_tags: ["Industry Standard", "Standalone"]
-
-      - name: "UVPackmaster"
-        url: "https://uvpackmaster.com/"
-        description: "Advanced UV packing, UDIM support. Blender addon + standalone."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "UV packing + UDIM"
-        tags: { workflow: [uv], tech: [blender-addon] }
-        readme_tags: ["UDIM", "Packing"]
-
-      - name: "Headus UVLayout"
-        url: "https://www.uvlayout.com/"
-        description: "Standalone UV editor, flatten-based."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Flatten-based UV editor"
-        tags: { workflow: [uv] }
-        readme_tags: ["Flatten-based", "Classic"]
-
-      - name: "UV Checker Map Maker"
-        url: "https://uvchecker.atlux.one/"
-        description: "Custom UV checker textures."
-        license: "Free"
-        entry_type: "tool"
-        tags: { workflow: [uv] }
-        readme_tags: ["Checker Gen", "Free"]
-
-  # ------------------------------------------------------------------
+      - name: RizomUV
+        url: https://www.rizom-lab.com/
+        description: Fast UV unwrapping, auto-seam, auto-pack. Standalone or bridge.
+        license: Paid
+        entry_type: software
+        best_for: Fast pro UV unwrapping
+        tags:
+          workflow:
+            - uv
+        readme_tags:
+          - Industry Standard
+          - Standalone
+      - name: UVPackmaster
+        url: https://uvpackmaster.com/
+        description: Advanced UV packing, UDIM support. Blender addon + standalone.
+        license: Paid
+        entry_type: software
+        best_for: UV packing + UDIM
+        tags:
+          workflow:
+            - uv
+          tech:
+            - blender-addon
+        readme_tags:
+          - UDIM
+          - Packing
+      - name: Headus UVLayout
+        url: https://www.uvlayout.com/
+        description: Standalone UV editor, flatten-based.
+        license: Paid
+        entry_type: software
+        best_for: Flatten-based UV editor
+        tags:
+          workflow:
+            - uv
+        readme_tags:
+          - Flatten-based
+          - Classic
+      - name: UV Checker Map Maker
+        url: https://uvchecker.atlux.one/
+        description: Custom UV checker textures.
+        license: Free
+        entry_type: tool
+        tags:
+          workflow:
+            - uv
+        readme_tags:
+          - Checker Gen
+          - Free
   - slug: rigging-animation-tools
-    title: "Rigging & Animation Tools"
-    description: "Auto-rig, retargeting, and animation middleware."
+    title: Rigging & Animation Tools
+    description: Auto-rig, retargeting, and animation middleware.
     entries:
-      - name: "Auto-Rig Pro (Blender)"
-        url: "https://blendermarket.com/products/auto-rig-pro"
-        description: "Automatic rigging and retargeting."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { workflow: [rigging], tech: [blender-addon] }
-        readme_tags: ["Auto-Rig", "Retargeting"]
-
-      - name: "Akeytsu"
-        url: "https://www.akeytsu.com/"
-        description: "Lightweight rigging and animation for game pipelines."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Lightweight game rigging"
-        tags: { workflow: [rigging, animation], output: [games] }
-        readme_tags: ["Lightweight", "Games"]
-
-      - name: "APEX (Houdini)"
-        url: "https://www.sidefx.com/"
-        description: "SideFX's procedural node-based rigging framework."
-        license: "Paid"
-        entry_type: "plugin"
-        tags: { workflow: [rigging], tech: [node-based, procedural] }
-        readme_tags: ["Procedural Rig", "Houdini"]
-
-  # ------------------------------------------------------------------
+      - name: Auto-Rig Pro (Blender)
+        url: https://blendermarket.com/products/auto-rig-pro
+        description: Automatic rigging and retargeting.
+        license: Paid
+        entry_type: plugin
+        tags:
+          workflow:
+            - rigging
+          tech:
+            - blender-addon
+        readme_tags:
+          - Auto-Rig
+          - Retargeting
+      - name: Akeytsu
+        url: https://www.akeytsu.com/
+        description: Lightweight rigging and animation for game pipelines.
+        license: Paid
+        entry_type: software
+        best_for: Lightweight game rigging
+        tags:
+          workflow:
+            - rigging
+            - animation
+          output:
+            - games
+        readme_tags:
+          - Lightweight
+          - Games
+      - name: APEX (Houdini)
+        url: https://www.sidefx.com/
+        description: SideFX's procedural node-based rigging framework.
+        license: Paid
+        entry_type: plugin
+        tags:
+          workflow:
+            - rigging
+          tech:
+            - node-based
+            - procedural
+        readme_tags:
+          - Procedural Rig
+          - Houdini
+      - name: EasyMocap
+        url: https://github.com/zju3dv/EasyMocap?tab=readme-ov-file
+        description: is an open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
+        entry_type: tool
+      - name: Art and Animation
+        url: https://github.com/gravitygamesinc/gamedev-free-resources#-art-and-animation
+        description: Art and Animation.
+        entry_type: tool
   - slug: matchmoving-tracking
-    title: "Matchmoving & Camera Tracking"
-    description: "Camera tracking, object tracking, and camera matching tools."
+    title: Matchmoving & Camera Tracking
+    description: Camera tracking, object tracking, and camera matching tools.
     entries:
-      - name: "PFTrack"
-        url: "https://www.thepixelfarm.co.uk/pftrack/"
-        description: "Professional matchmoving, object tracking, mesh generation."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Pro matchmove"
-        tags: { output: [film-vfx] }
-        readme_tags: ["Matchmove", "Pro"]
-
-      - name: "SynthEyes"
-        url: "https://www.ssontech.com/synovr.html"
-        description: "Camera tracking with lens distortion solving."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Camera tracking + distortion"
-        tags: { output: [film-vfx] }
-        readme_tags: ["Lens Distortion", "Pro"]
-
-      - name: "3DEqualizer"
-        url: "https://www.3dequalizer.com/"
-        description: "High-end matchmoving (major VFX studios)."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "High-end matchmove"
-        tags: { output: [film-vfx] }
-        readme_tags: ["High-End", "Studio Standard"]
-
-      - name: "fSpy"
-        url: "https://fspy.io/"
-        description: "Free, open-source single-image camera matching → Blender."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Free single-image cam match"
-        tags: { tech: [blender-addon] }
-        readme_tags: ["Free", "Blender Bridge"]
-
-  # ------------------------------------------------------------------
+      - name: PFTrack
+        url: https://www.thepixelfarm.co.uk/pftrack/
+        description: Professional matchmoving, object tracking, mesh generation.
+        license: Paid
+        entry_type: software
+        best_for: Pro matchmove
+        tags:
+          output:
+            - film-vfx
+        readme_tags:
+          - Matchmove
+          - Pro
+      - name: SynthEyes
+        url: https://www.ssontech.com/synovr.html
+        description: Camera tracking with lens distortion solving.
+        license: Paid
+        entry_type: software
+        best_for: Camera tracking + distortion
+        tags:
+          output:
+            - film-vfx
+        readme_tags:
+          - Lens Distortion
+          - Pro
+      - name: 3DEqualizer
+        url: https://www.3dequalizer.com/
+        description: High-end matchmoving (major VFX studios).
+        license: Paid
+        entry_type: software
+        best_for: High-end matchmove
+        tags:
+          output:
+            - film-vfx
+        readme_tags:
+          - High-End
+          - Studio Standard
+      - name: fSpy
+        url: https://fspy.io/
+        description: Free, open-source single-image camera matching → Blender.
+        license: Open Source
+        entry_type: software
+        best_for: Free single-image cam match
+        tags:
+          tech:
+            - blender-addon
+        readme_tags:
+          - Free
+          - Blender Bridge
   - slug: misc-3d-utilities
-    title: "Miscellaneous 3D Tools & Utilities"
-    description: "Assorted CG utilities and specialty tools."
+    title: Miscellaneous 3D Tools & Utilities
+    description: Assorted CG utilities and specialty tools.
     entries:
-      - name: "Lightmap HDR Light Studio"
-        url: "https://www.lightmap.co.uk/"
-        description: "Lighting software."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Interactive HDR lighting"
-        tags: { workflow: [lighting] }
-        readme_tags: ["HDR Lighting", "Interactive"]
-
-      - name: "VFX Camera Database"
-        url: "https://vfxcamdb.com/"
-        description: "Camera sensor data."
-        entry_type: "reference"
-        readme_tags: ["Sensor Data", "Reference"]
-
-      - name: "Video Magnification (MIT)"
-        url: "https://people.csail.mit.edu/mrub/vidmag/"
-        description: "Eulerian video magnification."
-        entry_type: "reference"
-        readme_tags: ["MIT Research", "Magnification"]
-
-      - name: "Massive Software"
-        url: "https://www.massivesoftware.com/massiveprime.html"
-        description: "Crowd simulation."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Crowd simulation"
-        tags: { workflow: [simulation] }
-        readme_tags: ["Crowds", "Pro"]
-
-      - name: "Storm HydroFX"
-        url: "https://storm-vfx.com/"
-        description: "Fluid simulation."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Fluid simulation"
-        tags: { workflow: [simulation, fx] }
-        readme_tags: ["Fluids", "FX"]
-
-      - name: "Graphtoy"
-        url: "https://iquilezles.org/apps/graphtoy/"
-        description: "Mathematical function grapher by Inigo Quilez."
-        license: "Free"
-        entry_type: "tool"
-        readme_tags: ["Math Grapher", "iq"]
-
-      - name: "Jsplacement"
-        url: "https://windmillart.net/?p=jsplacement"
-        description: "Procedural displacement map generator."
-        entry_type: "tool"
-        tags: { tech: [procedural] }
-        readme_tags: ["Displacement", "Procedural"]
-
-      - name: "Math for Motion"
-        url: "https://soulwire.co.uk/math-for-motion/"
-        description: "Interactive math concepts for motion graphics."
-        entry_type: "reference"
-        tags: { output: [motion-graphics] }
-        readme_tags: ["Math", "Interactive"]
-
-      - name: "City Roads"
-        url: "https://github.com/anvaka/city-roads"
-        description: "Generate road maps of any city as vector art."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["City Maps", "Vector"]
-
-      - name: "PureRef"
-        url: "https://pureref.com/"
-        description: "Industry-standard reference board tool."
-        pricing: "Pay what you want"
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Reference board"
-        tags: { workflow: [reference] }
-        readme_tags: ["Industry Standard", "PWYW"]
-
-      - name: "Blockbench"
-        url: "https://www.blockbench.net/"
-        description: "Free low-poly/voxel 3D modeler."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Low-poly / voxel modeling"
-        tags: { output: [games] }
-        readme_tags: ["Low-poly", "Voxel"]
-
-      - name: "MeshLab"
-        url: "https://www.meshlab.net/"
-        description: "Open-source mesh processing, essential for photogrammetry cleanup."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Mesh processing"
-        tags: { tech: [photogrammetry] }
-        readme_tags: ["Mesh Processing", "Photogrammetry"]
-
-      - name: "Photopea"
-        url: "https://www.photopea.com/"
-        description: "Free browser-based Photoshop alternative with full PSD support."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Quick PSD editing"
-        tags: { platform: [web] }
-        readme_tags: ["PSD", "Browser"]
-
-      - name: "Gaea"
-        url: "https://quadspinner.com/"
-        description: "Terrain generation tool (free community edition)."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Terrain generation"
-        tags: { tech: [procedural] }
-        readme_tags: ["Terrain Gen", "Free Community"]
-
-      - name: "Plasticity"
-        url: "https://www.plasticity.xyz/"
-        description: "CAD-style modeling with artist-friendly UX."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "CAD-style modeling for artists"
-        tags: { workflow: [modeling] }
-        readme_tags: ["CAD-style", "Artist UX"]
-
-      - name: "Dust3D"
-        url: "https://dust3d.org/"
-        description: "Open-source quick base mesh generation."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Base mesh generation"
-        tags: { workflow: [modeling] }
-        readme_tags: ["Base Meshes", "Open Source"]
-
-      - name: "darktable"
-        url: "https://www.darktable.org/"
-        description: "Open-source RAW photo editor for reference/texture processing."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "RAW processing"
-        readme_tags: ["RAW Editor", "Open Source"]
-
-      - name: "SunCalc"
-        url: "https://www.suncalc.org/"
-        description: "Sun position, golden hour, and shadow visualization for any location and time."
-        entry_type: "tool"
-        tags: { workflow: [lighting, reference] }
-        readme_tags: ["Sun Position", "Golden Hour"]
-
-      - name: "OBS Studio"
-        url: "https://obsproject.com/"
-        description: "Free screen recording/streaming. Essential for tutorials."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Screen recording, streaming"
-        readme_tags: ["Recording", "Streaming"]
-
-      - name: "ShareX"
-        url: "https://getsharex.com/"
-        description: "Free Windows screen capture with recording and annotation."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Screen capture, annotation"
-        tags: { platform: [win] }
-        readme_tags: ["Screen Capture", "Windows"]
-
-      - name: "Spacescape"
-        url: "http://alexcpeterson.com/spacescape/"
-        description: "Free open-source space skybox generator (stars, nebulas, cubemaps)."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Space skyboxes"
-        readme_tags: ["Skybox", "Space"]
-
-      - name: "Hesiod"
-        url: "https://github.com/otto-link/Hesiod"
-        description: "Free open-source node-based procedural terrain/heightmap generator."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Procedural terrain"
-        tags: { tech: [procedural, node-based] }
-        readme_tags: ["Terrain Gen", "Node-based"]
-
-      - name: "IFS Renderer"
-        url: "https://ifsrenderer.z97.io/"
-        description: "Free GPU-accelerated fractal renderer with HDR/EXR export."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Fractal rendering"
-        tags: { workflow: [rendering], tech: [gpu] }
-        readme_tags: ["Fractals", "HDR/EXR"]
-
-      - name: "Texture Extractor"
-        url: "https://berlinnights.itch.io/texture-extractor"
-        description: "Extract textures and materials from photos (Godot-based, pre-1.0)."
-        entry_type: "tool"
-        tags: { workflow: [texturing] }
-        readme_tags: ["Pre-1.0", "Photo→Texture"]
-
-      - name: "Sprite Stacker"
-        url: "https://berlinnights.itch.io/sprite-stacker"
-        description: "Create pseudo-3D sprite stacks from pixel art with integrated voxel editor (Godot-based, pre-1.0)."
-        entry_type: "tool"
-        tags: { output: [games] }
-        readme_tags: ["Sprite Stacks", "Pre-1.0"]
-
-  # ------------------------------------------------------------------
+      - name: Lightmap HDR Light Studio
+        url: https://www.lightmap.co.uk/
+        description: Lighting software.
+        license: Paid
+        entry_type: software
+        best_for: Interactive HDR lighting
+        tags:
+          workflow:
+            - lighting
+        readme_tags:
+          - HDR Lighting
+          - Interactive
+      - name: VFX Camera Database
+        url: https://vfxcamdb.com/
+        description: Camera sensor data.
+        entry_type: reference
+        readme_tags:
+          - Sensor Data
+          - Reference
+      - name: Video Magnification (MIT)
+        url: https://people.csail.mit.edu/mrub/vidmag/
+        description: Eulerian video magnification.
+        entry_type: reference
+        readme_tags:
+          - MIT Research
+          - Magnification
+      - name: Massive Software
+        url: https://www.massivesoftware.com/massiveprime.html
+        description: Crowd simulation.
+        license: Paid
+        entry_type: software
+        best_for: Crowd simulation
+        tags:
+          workflow:
+            - simulation
+        readme_tags:
+          - Crowds
+          - Pro
+      - name: Storm HydroFX
+        url: https://storm-vfx.com/
+        description: Fluid simulation.
+        license: Paid
+        entry_type: software
+        best_for: Fluid simulation
+        tags:
+          workflow:
+            - simulation
+            - fx
+        readme_tags:
+          - Fluids
+          - FX
+      - name: Graphtoy
+        url: https://iquilezles.org/apps/graphtoy/
+        description: Mathematical function grapher by Inigo Quilez.
+        license: Free
+        entry_type: tool
+        readme_tags:
+          - Math Grapher
+          - iq
+      - name: Jsplacement
+        url: https://windmillart.net/?p=jsplacement
+        description: Procedural displacement map generator.
+        entry_type: tool
+        tags:
+          tech:
+            - procedural
+        readme_tags:
+          - Displacement
+          - Procedural
+      - name: Math for Motion
+        url: https://soulwire.co.uk/math-for-motion/
+        description: Interactive math concepts for motion graphics.
+        entry_type: reference
+        tags:
+          output:
+            - motion-graphics
+        readme_tags:
+          - Math
+          - Interactive
+      - name: City Roads
+        url: https://github.com/anvaka/city-roads
+        description: Generate road maps of any city as vector art.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - City Maps
+          - Vector
+      - name: PureRef
+        url: https://pureref.com/
+        description: Industry-standard reference board tool.
+        pricing: Pay what you want
+        license: Freemium
+        entry_type: software
+        best_for: Reference board
+        tags:
+          workflow:
+            - reference
+        readme_tags:
+          - Industry Standard
+          - PWYW
+      - name: Blockbench
+        url: https://www.blockbench.net/
+        description: Free low-poly/voxel 3D modeler.
+        license: Free
+        entry_type: software
+        best_for: Low-poly / voxel modeling
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Low-poly
+          - Voxel
+      - name: MeshLab
+        url: https://www.meshlab.net/
+        description: Open-source mesh processing, essential for photogrammetry cleanup.
+        license: Open Source
+        entry_type: software
+        best_for: Mesh processing
+        tags:
+          tech:
+            - photogrammetry
+        readme_tags:
+          - Mesh Processing
+          - Photogrammetry
+      - name: Photopea
+        url: https://www.photopea.com/
+        description: Free browser-based Photoshop alternative with full PSD support.
+        license: Free
+        entry_type: software
+        best_for: Quick PSD editing
+        tags:
+          platform:
+            - web
+        readme_tags:
+          - PSD
+          - Browser
+      - name: Gaea
+        url: https://quadspinner.com/
+        description: Terrain generation tool (free community edition).
+        license: Freemium
+        entry_type: software
+        best_for: Terrain generation
+        tags:
+          tech:
+            - procedural
+        readme_tags:
+          - Terrain Gen
+          - Free Community
+      - name: Plasticity
+        url: https://www.plasticity.xyz/
+        description: CAD-style modeling with artist-friendly UX.
+        license: Paid
+        entry_type: software
+        best_for: CAD-style modeling for artists
+        tags:
+          workflow:
+            - modeling
+        readme_tags:
+          - CAD-style
+          - Artist UX
+      - name: Dust3D
+        url: https://dust3d.org/
+        description: Open-source quick base mesh generation.
+        license: Open Source
+        entry_type: software
+        best_for: Base mesh generation
+        tags:
+          workflow:
+            - modeling
+        readme_tags:
+          - Base Meshes
+          - Open Source
+      - name: darktable
+        url: https://www.darktable.org/
+        description: Open-source RAW photo editor for reference/texture processing.
+        license: Open Source
+        entry_type: software
+        best_for: RAW processing
+        readme_tags:
+          - RAW Editor
+          - Open Source
+      - name: SunCalc
+        url: https://www.suncalc.org/
+        description: Sun position, golden hour, and shadow visualization for any location and time.
+        entry_type: tool
+        tags:
+          workflow:
+            - lighting
+            - reference
+        readme_tags:
+          - Sun Position
+          - Golden Hour
+      - name: OBS Studio
+        url: https://obsproject.com/
+        description: Free screen recording/streaming. Essential for tutorials.
+        license: Open Source
+        entry_type: software
+        best_for: Screen recording, streaming
+        readme_tags:
+          - Recording
+          - Streaming
+      - name: ShareX
+        url: https://getsharex.com/
+        description: Free Windows screen capture with recording and annotation.
+        license: Open Source
+        entry_type: software
+        best_for: Screen capture, annotation
+        tags:
+          platform:
+            - win
+        readme_tags:
+          - Screen Capture
+          - Windows
+      - name: Spacescape
+        url: http://alexcpeterson.com/spacescape/
+        description: Free open-source space skybox generator (stars, nebulas, cubemaps).
+        license: Open Source
+        entry_type: software
+        best_for: Space skyboxes
+        readme_tags:
+          - Skybox
+          - Space
+      - name: Hesiod
+        url: https://github.com/otto-link/Hesiod
+        description: Free open-source node-based procedural terrain/heightmap generator.
+        license: Open Source
+        entry_type: software
+        best_for: Procedural terrain
+        tags:
+          tech:
+            - procedural
+            - node-based
+        readme_tags:
+          - Terrain Gen
+          - Node-based
+      - name: IFS Renderer
+        url: https://ifsrenderer.z97.io/
+        description: Free GPU-accelerated fractal renderer with HDR/EXR export.
+        license: Free
+        entry_type: software
+        best_for: Fractal rendering
+        tags:
+          workflow:
+            - rendering
+          tech:
+            - gpu
+        readme_tags:
+          - Fractals
+          - HDR/EXR
+      - name: Texture Extractor
+        url: https://berlinnights.itch.io/texture-extractor
+        description: Extract textures and materials from photos (Godot-based, pre-1.0).
+        entry_type: tool
+        tags:
+          workflow:
+            - texturing
+        readme_tags:
+          - Pre-1.0
+          - Photo→Texture
+      - name: Sprite Stacker
+        url: https://berlinnights.itch.io/sprite-stacker
+        description: Create pseudo-3D sprite stacks from pixel art with integrated voxel editor (Godot-based, pre-1.0).
+        entry_type: tool
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Sprite Stacks
+          - Pre-1.0
+      - name: Sorcar
+        url: https://aachman98.itch.io/sorcar
+        description: A procedural modeling node-based system which utilizes Blender and its Python API to create a visual programming environment for artists and developers
+        entry_type: software
+      - name: SceneKit
+        url: https://developer.apple.com/documentation/scenekit
+        description: Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
+        entry_type: reference
+      - name: SpriteKit
+        url: https://developer.apple.com/documentation/spritekit
+        description: Apple proprietary 2D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
+        entry_type: reference
+      - name: SpriteKit
+        url: https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html
+        description: iOS/Mac 2D Game Engine.
+        entry_type: reference
+      - name: SpriteKit
+        url: https://developer.apple.com/spritekit/
+        description: SpriteKit code to make your game work on iOS, macOS, and tvOS without a hitch.
+        entry_type: reference
+      - name: Materia
+        url: https://github.com/Metric/Materia
+        description: An open-source alternative to Substance Designer written in C#. *(The project was archived)*.
+        entry_type: tool
+      - name: Tissue
+        url: https://github.com/alessandro-zomparelli/tissue
+        description: Blender's add-on for computational design.
+        entry_type: tool
+      - name: Sverchok
+        url: https://github.com/nortikin/sverchok/
+        description: A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
+        entry_type: tool
+      - name: Gaffer
+        url: https://github.com/GafferHQ/gaffer
+        description: Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.
+        entry_type: tool
+      - name: glChAoS.P
+        url: https://github.com/BrutPitt/glChAoS.P
+        description: RealTime 3D Strange Attractors scout on GPU.
+        entry_type: tool
+      - name: Mandelbulb3D
+        url: https://github.com/thargor6/mb3d
+        description: A program designed for the Windows platform for generating 3D views of different fractals.
+        entry_type: tool
+      - name: Talos VFX
+        url: https://github.com/rockbite/talos
+        description: Node based, open source VFX Editor with powerful interface and a ready to use libGDX runtime.
+        entry_type: tool
+      - name: Penzil
+        url: https://github.com/jacopocolo/Penzil
+        description: A web application to sketch in 3d made in three.js and Vue.
+        entry_type: tool
+      - name: VFX Fractal Toolkit
+        url: https://github.com/jtomori/vft
+        description: Set of tools for generating fractal and generative art.
+        entry_type: tool
+      - name: ZENO
+        url: https://github.com/zenustech/zeno
+        description: Node-based 3D system that can produce cinematic physics effects at high efficiency.
+        entry_type: tool
+      - name: Threestudio
+        url: https://github.com/threestudio-project/threestudio
+        description: A unified framework for 3D content generation.
+        entry_type: tool
+      - name: Falcor
+        url: https://github.com/NVIDIAGameWorks/Falcor
+        description: A real-time rendering framework supporting DirectX 12 aiming to improve the productivity of research and prototype projects.
+        entry_type: tool
+      - name: Fusee
+        url: https://github.com/FUSEEProjectTeam/Fusee/
+        description: A multiplatform 3D C# real-time engine with a strong emphasis on content transformation and manipulation.
+        entry_type: tool
+      - name: Harfang 3D
+        url: https://github.com/harfang3d/harfang3d
+        description: C++ 3D visualization library also usable in Python, Lua, and Go (Windows, Linux).
+        entry_type: tool
+      - name: Neo Axis Engine
+        url: https://github.com/NeoAxis/NeoAxisEngine
+        description: NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
+        entry_type: tool
+      - name: Overload
+        url: https://github.com/adriengivry/Overload
+        description: 3D Game engine with editor.
+        entry_type: tool
+      - name: UPBGE
+        url: https://github.com/UPBGE/upbge
+        description: Integrated game engine in Blender.
+        entry_type: tool
+      - name: StratusGFX
+        url: https://github.com/KTStephano/StratusGFX
+        description: Free and open source Realtime 3D rendering engine.
+        entry_type: tool
+      - name: Aurora
+        url: https://github.com/Autodesk/Aurora
+        description: A real-time path tracing renderer that enables fast product visualizations.
+        entry_type: tool
+      - name: bgfx
+        url: https://github.com/bkaradzic/bgfx
+        description: Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+        entry_type: tool
+      - name: kajiya
+        url: https://github.com/EmbarkStudios/kajiya
+        description: Experimental real-time global illumination renderer made with Rust and Vulkan.
+        entry_type: tool
+      - name: Pixie
+        url: https://github.com/blkdev2/pixie?tab=readme-ov-file
+        description: Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.
+        entry_type: tool
+      - name: Sunflow
+        url: https://github.com/fpsunflower/sunflow
+        description: Not maintained, Sunflow is an open source rendering system for photo-realistic image synthesis.
+        entry_type: tool
+      - name: Yafaray
+        url: https://github.com/YafaRay/libYafaRay
+        description: libYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license. Raytracing is a rendering technique for generating realistic images by tracing the path of light t
+        entry_type: tool
+      - name: GdSpy
+        url: https://github.com/Alby90/GdSpy
+        description: Unofficial fSpy importer for Godot.
+        entry_type: tool
+      - name: fSpy-Maya
+        url: https://github.com/Nathanieljla/fSpy-Maya
+        description: Unofficial fSpy Maya importer (one of several).
+        entry_type: tool
+      - name: Bino
+        url: https://github.com/ThreeDeeJay/bino/tree/main
+        description: 3D video player with support for 180°/360° video and Virtual Reality.
+        entry_type: tool
+      - name: CasparCG
+        url: https://github.com/CasparCG
+        description: A Windows and Linux software used to play out professional graphics, audio, and video to multiple outputs as a layer-based real-time compositor.
+        entry_type: tool
+      - name: OBS
+        url: https://github.com/obsproject/obs-studio
+        description: software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
+        entry_type: tool
+      - name: OpenShot
+        url: https://github.com/OpenShot/openshot-qt
+        description: Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
+        entry_type: tool
+      - name: tlRender
+        url: https://github.com/darbyjohnston/tlRender
+        description: timeline render, is an early stage project for rendering editorial timelines.
+        entry_type: tool
+      - name: Capsule
+        url: https://github.com/Takanu/Capsule
+        description: Blender addon to export, manage and automate to share between Blender and Unreal/Unity or other real-time engine.
+        entry_type: tool
+      - name: OD CopyPasteExternal
+        url: https://github.com/heimlich1024/OD_CopyPasteExternal
+        description: Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
+        entry_type: tool
+      - name: trigger
+        url: https://github.com/masqu3rad3/trigger
+        description: Operational code-driven rigging tool for Autodesk Maya.
+        entry_type: tool
+      - name: xComp
+        url: https://github.com/gugenstudio/xComp
+        description: Image Render comparing.
+        entry_type: tool
+      - name: QtWebengine
+        url: https://github.com/qt/qtwebengine
+        description: Render web content in Qt.
+        entry_type: tool
+      - name: CGCmake
+        url: https://github.com/chadmv/cgcmake
+        description: CMake modules for CG apps.
+        entry_type: tool
+      - name: Cortex
+        url: https://github.com/ImageEngine/cortex
+        description: Libraries for VFX software development.
+        entry_type: tool
+      - name: Cross3D
+        url: https://github.com/blurstudio/cross3d
+        description: Scene and node management abstraction.
+        entry_type: tool
+      - name: mGui
+        url: https://github.com/theodox/mGui
+        description: Portable pure-python GUI library for Maya.
+        entry_type: tool
+      - name: minq
+        url: https://github.com/theodox/minq
+        description: Maya query language for speeding up common scene operations.
+        entry_type: tool
+      - name: Py3dsMax
+        url: https://github.com/blurstudio/Py3dsMax
+        description: 3dsMax API in Python.
+        entry_type: tool
+      - name: PyMEL
+        url: https://github.com/LumaPictures/pymel
+        description: Python in Maya Done Right.
+        entry_type: tool
+      - name: CvWrap
+        url: https://github.com/chadmv/cvwrap
+        description: Fast Maya wrap deformer.
+        entry_type: tool
+      - name: Easy3D
+        url: https://github.com/LiangliangNan/Easy3D
+        description: A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data .
+        entry_type: tool
+      - name: Polyscope
+        url: https://github.com/nmwsharp/polyscope
+        description: A C++ & Python viewer for 3D data like meshes and point clouds.
+        entry_type: tool
+      - name: MDL
+        url: https://github.com/NVIDIA/MDL-SDK
+        description: Material Definition Language SDK.
+        entry_type: tool
+      - name: Kiko
+        url: https://github.com/Toolchefs/kiko
+        description: DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come).
+        entry_type: tool
+      - name: OpenWalter
+        url: https://github.com/rodeofx/OpenWalter
+        description: USD Plugins Arnold, Houdini, Katana, Maya and USD.
+        entry_type: tool
+      - name: Ramses
+        url: https://github.com/RxLaboratory/Ramses
+        description: Asset Management System for motion picture production (by [Rainbox Laboratory](https://rainboxlab.org)).
+        entry_type: tool
+      - name: Stalker
+        url: https://github.com/eoyilmaz/stalker
+        description: Open Source Production Asset Management (ProdAM) Library designed specifically for Animation and VFX Studios.
+        entry_type: tool
+      - name: Maya
+        url: https://github.com/mottosso/docker-maya
+        description: Maya.
+        entry_type: tool
+      - name: Cmt
+        url: https://github.com/chadmv/cmt
+        description: Various Maya tools
+        entry_type: tool
+      - name: OnionSkinRenderer
+        url: https://github.com/Viele/onionSkinRenderer
+        description: Onion Skin Renderer for Maya
+        entry_type: tool
+      - name: Palladio
+        url: https://github.com/Esri/palladio
+        description: CityEngine Plugin for Houdini
+        entry_type: tool
+      - name: RIFE for Nuke
+        url: https://github.com/rafaelperez/RIFE-for-Nuke
+        description: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (ie machine learning for framerate upscaling) for Nuke.
+        entry_type: tool
+      - name: MayaCharm
+        url: https://github.com/cmcpasserby/MayaCharm
+        description: Run and edit Maya scripts directly from PyCharm
+        entry_type: tool
+      - name: MayaSublime
+        url: https://github.com/justinfx/MayaSublime
+        description: Run and edit Maya scripts directly from SublimeText
+        entry_type: tool
+      - name: VEX
+        url: https://github.com/teared/VEX
+        description: Houdini add-on for Sublime Text
+        entry_type: tool
+      - name: nuke.vim
+        url: https://github.com/heavyimage/nuke.vim
+        description: Run and edit Nuke scripts directly from vim
+        entry_type: tool
+      - name: Example of Python scripts for 3D Studio Max, Maya and Blender
+        url: https://github.com/p4vv37/3D_Software_and_Python/
+        description: Example of Python scripts for 3D Studio Max, Maya and Blender.
+        entry_type: tool
+      - name: VFX good night reading
+        url: https://github.com/jtomori/vfx_good_night_reading/
+        description: Curated collection of good reading about VFX and CG.
+        entry_type: tool
+      - name: Pixel Composer
+        url: https://github.com/Ttanasart-pt/Pixel-Composer
+        description: Powerful node-based VFX editor for pixel art
+        entry_type: tool
+      - name: Pixen
+        url: https://github.com/Pixen/Pixen
+        description: Pixel Art Editor for OSX
+        entry_type: tool
+      - name: Voxelle Desktop
+        url: https://github.com/Velfi/Voxelle-Desktop
+        description: Voxelle Desktop.
+        entry_type: tool
+      - name: Blitz3D
+        url: https://github.com/blitz-research/blitz3d
+        description: 3D basic-like programming language for fast 3D desktop games.
+        entry_type: tool
+      - name: Dash
+        url: https://github.com/Circular-Studios/Dash
+        description: A free and open 3D game engine written in D.
+        entry_type: tool
+      - name: Diligent Engine
+        url: https://github.com/DiligentGraphics/DiligentEngine
+        description: A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
+        entry_type: tool
+      - name: DotRecast
+        url: https://github.com/ikpil/DotRecast
+        description: A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
+        entry_type: tool
+      - name: Folded Paper Engine
+        url: https://github.com/papercraftgames/folded-paper-engine
+        description: '– Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds'
+        entry_type: tool
+      - name: Juno
+        url: https://github.com/rxi/juno
+        description: Framework for making 2D games with chunky pixels in Lua
+        entry_type: tool
+      - name: LumixEngine
+        url: https://github.com/nem0/LumixEngine
+        description: 3D Game engine built on C++.
+        entry_type: tool
+      - name: Lums
+        url: https://github.com/lums-proj/Lums
+        description: A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
+        entry_type: tool
+      - name: Pixel Vision 8
+        url: https://github.com/PixelVision8/PixelVision8
+        description: Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-s
+        entry_type: tool
+      - name: RGFW
+        url: https://github.com/ColleagueRiley/RGFW
+        description: Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
+        entry_type: tool
+      - name: Screen 13
+        url: https://github.com/attackgoat/screen-13
+        description: An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
+        entry_type: tool
+      - name: WhiteStorm.js
+        url: https://github.com/WhitestormJS/whitestorm.js
+        description: 3d javacript framework for building apps and games
+        entry_type: tool
+      - name: AI Game Developer
+        url: https://github.com/IvanMurzak/Unity-MCP
+        description: '`Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.'
+        entry_type: tool
+      - name: Wolfenstein 3D
+        url: https://github.com/id-Software/wolf3d
+        description: Wolfenstein 3D.
+        entry_type: tool
+      - name: Open 3D Engine (O3ED)
+        url: https://github.com/o3de/o3de
+        description: Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games
+        entry_type: tool
+      - name: friflo ECS
+        url: https://github.com/friflo/Friflo.Engine.ECS
+        description: High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+        entry_type: tool
+      - name: Unity-Audio-Manager
+        url: https://github.com/MathewHDYT/Unity-Audio-Manager
+        description: Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
+        entry_type: tool
+      - name: GlueIT
+        url: https://github.com/Kavex/GlueIT
+        description: Free Simple Spritesheet Tool
+        entry_type: tool
+      - name: Kavex's Spritesheet Maker
+        url: https://github.com/Kavex/Spritesheet-Maker
+        description: Free spritesheet maker to replace GlueIT. Has much newer export formats.
+        entry_type: tool
+      - name: <img src="https://github.com/epicgames.png" title="Epic Games" height="50">
+        url: https://github.com/epicgames
+        description: '&nbsp;'
+        entry_type: tool
+      - name: <img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">
+        url: https://github.com/unity-technologies
+        description: '&nbsp;'
+        entry_type: tool
+      - name: Bgfx
+        url: https://github.com/bkaradzic/bgfx?tab=readme-ov-file
+        description: Open-source graphics library for rendering graphics in video games.
+        entry_type: tool
+      - name: Packyderm
+        url: https://isometric8.itch.io/packyderm-unitypackage-extractor
+        description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
+        entry_type: tool
+      - name: Superpowers
+        url: https://sparklinlabs.itch.io/superpowers
+        description: HTML5 Collaborative 2D/3D Game Maker
+        entry_type: software
   - slug: plugin-marketplaces
-    title: "Plugin & Addon Marketplaces"
-    description: "Per-software plugin marketplaces."
+    title: Plugin & Addon Marketplaces
+    description: Per-software plugin marketplaces.
     entries:
-      - name: "Blender Market (Plugins)"
-        url: "https://blendermarket.com/"
-        description: "Curated addons, models, materials."
-        entry_type: "marketplace"
-        tags: { tech: [blender-addon] }
-        readme_tags: ["Blender", "Curated"]
-
-      - name: "Blenderkit"
-        url: "https://www.blenderkit.com/"
-        description: "In-app asset browser."
-        entry_type: "marketplace"
-        tags: { tech: [blender-addon] }
-        readme_tags: ["Blender", "In-app"]
-
-      - name: "Orbolt"
-        url: "https://www.orbolt.com/"
-        description: "Official Houdini HDA marketplace."
-        entry_type: "marketplace"
-        readme_tags: ["Houdini", "HDAs"]
-
-      - name: "Greyscalegorilla"
-        url: "https://greyscalegorilla.com/"
-        description: "C4D plugins, materials, HDRIs."
-        entry_type: "marketplace"
-        readme_tags: ["C4D", "Materials + HDRIs"]
-
-      - name: "Autodesk App Store"
-        url: "https://apps.autodesk.com/MAYA/"
-        description: "Official Maya plugins and scripts."
-        entry_type: "marketplace"
-        readme_tags: ["Maya", "Official"]
-
-      - name: "Highend3d"
-        url: "https://www.highend3d.com/"
-        description: "Maya community scripts and plugins."
-        entry_type: "marketplace"
-        readme_tags: ["Maya", "Community"]
-
-      - name: "aescripts + aeplugins"
-        url: "https://aescripts.com/"
-        description: "Primary After Effects / Premiere plugin marketplace."
-        entry_type: "marketplace"
-        readme_tags: ["AE + Premiere", "Primary"]
-
-      - name: "VideoHive (Envato)"
-        url: "https://videohive.net/"
-        description: "Templates and presets."
-        entry_type: "marketplace"
-        readme_tags: ["Templates", "Envato"]
-
-      - name: "Reactor (DaVinci)"
-        url: "https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3067"
-        description: "Community package manager for DaVinci Resolve, hundreds of free tools."
-        entry_type: "marketplace"
-        readme_tags: ["Resolve", "Free Pkg Mgr"]
-
-      - name: "Gumroad"
-        url: "https://gumroad.com/"
-        description: "Creator-direct marketplace."
-        entry_type: "marketplace"
-        readme_tags: ["Cross-Platform", "Creator-direct"]
-
-      - name: "FlippedNormals"
-        url: "https://flippednormals.com/"
-        description: "Character, sculpting, and CG marketplace."
-        entry_type: "marketplace"
-        readme_tags: ["Sculpting", "Characters"]
-
-      - name: "Kitbash3D"
-        url: "https://kitbash3d.com/"
-        description: "High-end kitbash asset packs."
-        entry_type: "marketplace"
-        readme_tags: ["Kitbash Packs", "Premium"]
-
-      - name: "MotionArray"
-        url: "https://motionarray.com/"
-        description: "Motion graphics and video assets."
-        entry_type: "marketplace"
-        tags: { output: [motion-graphics] }
-        readme_tags: ["Motion Assets", "Templates"]
-
-  # ------------------------------------------------------------------
+      - name: Blender Market (Plugins)
+        url: https://blendermarket.com/
+        description: Curated addons, models, materials.
+        entry_type: marketplace
+        tags:
+          tech:
+            - blender-addon
+        readme_tags:
+          - Blender
+          - Curated
+      - name: Blenderkit
+        url: https://www.blenderkit.com/
+        description: In-app asset browser.
+        entry_type: marketplace
+        tags:
+          tech:
+            - blender-addon
+        readme_tags:
+          - Blender
+          - In-app
+      - name: Orbolt
+        url: https://www.orbolt.com/
+        description: Official Houdini HDA marketplace.
+        entry_type: marketplace
+        readme_tags:
+          - Houdini
+          - HDAs
+      - name: Greyscalegorilla
+        url: https://greyscalegorilla.com/
+        description: C4D plugins, materials, HDRIs.
+        entry_type: marketplace
+        readme_tags:
+          - C4D
+          - Materials + HDRIs
+      - name: Autodesk App Store
+        url: https://apps.autodesk.com/MAYA/
+        description: Official Maya plugins and scripts.
+        entry_type: marketplace
+        readme_tags:
+          - Maya
+          - Official
+      - name: Highend3d
+        url: https://www.highend3d.com/
+        description: Maya community scripts and plugins.
+        entry_type: marketplace
+        readme_tags:
+          - Maya
+          - Community
+      - name: aescripts + aeplugins
+        url: https://aescripts.com/
+        description: Primary After Effects / Premiere plugin marketplace.
+        entry_type: marketplace
+        readme_tags:
+          - AE + Premiere
+          - Primary
+      - name: VideoHive (Envato)
+        url: https://videohive.net/
+        description: Templates and presets.
+        entry_type: marketplace
+        readme_tags:
+          - Templates
+          - Envato
+      - name: Reactor (DaVinci)
+        url: https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3067
+        description: Community package manager for DaVinci Resolve, hundreds of free tools.
+        entry_type: marketplace
+        readme_tags:
+          - Resolve
+          - Free Pkg Mgr
+      - name: Gumroad
+        url: https://gumroad.com/
+        description: Creator-direct marketplace.
+        entry_type: marketplace
+        readme_tags:
+          - Cross-Platform
+          - Creator-direct
+      - name: FlippedNormals
+        url: https://flippednormals.com/
+        description: Character, sculpting, and CG marketplace.
+        entry_type: marketplace
+        readme_tags:
+          - Sculpting
+          - Characters
+      - name: Kitbash3D
+        url: https://kitbash3d.com/
+        description: High-end kitbash asset packs.
+        entry_type: marketplace
+        readme_tags:
+          - Kitbash Packs
+          - Premium
+      - name: MotionArray
+        url: https://motionarray.com/
+        description: Motion graphics and video assets.
+        entry_type: marketplace
+        tags:
+          output:
+            - motion-graphics
+        readme_tags:
+          - Motion Assets
+          - Templates
   - slug: conversion-tools
-    title: "Conversion Tools"
-    description: "Format conversion across image, video, audio, and 3D."
+    title: Conversion Tools
+    description: Format conversion across image, video, audio, and 3D.
     entries:
-      - name: "VERT.sh"
-        url: "https://vert.sh/"
-        description: "General-purpose online converter."
-        entry_type: "tool"
-        readme_tags: ["General", "Online"]
-
-      - name: "MAZANOKE"
-        url: "https://mazanoke.com/"
-        description: "Browser-based converter."
-        entry_type: "tool"
-        readme_tags: ["Browser", "Converter"]
-
-      - name: "123apps"
-        url: "https://123apps.com/"
-        description: "Free web tools for audio, video, image."
-        entry_type: "tool"
-        readme_tags: ["Free Web", "Multi-tool"]
-
-      - name: "CloudConvert"
-        url: "https://cloudconvert.com/"
-        description: "200+ formats with API."
-        entry_type: "tool"
-        readme_tags: ["200+ Formats", "API"]
-
-      - name: "Convertio"
-        url: "https://convertio.co/"
-        description: "Multi-format converter."
-        entry_type: "tool"
-        readme_tags: ["Multi-format", "Web"]
-
-      - name: "Online-Convert"
-        url: "https://www.online-convert.com/"
-        description: "Web-based format converter."
-        entry_type: "tool"
-        readme_tags: ["Web", "General"]
-
-      - name: "FreeConvert"
-        url: "https://www.freeconvert.com/"
-        description: "Free online file converter."
-        entry_type: "tool"
-        readme_tags: ["Free", "Web"]
-
-      - name: "Assimp"
-        url: "https://github.com/assimp/assimp"
-        description: "Open-source library, 40+ 3D format import (C/C++/Python)."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["3D Import Lib", "40+ Formats"]
-
-      - name: "FBX2glTF"
-        url: "https://github.com/facebookincubator/FBX2glTF"
-        description: "Meta's CLI for FBX → glTF 2.0."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["FBX→glTF", "CLI"]
-
-      - name: "obj2gltf"
-        url: "https://github.com/CesiumGS/obj2gltf"
-        description: "Cesium's OBJ → glTF with PBR mapping."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { tech: [pbr] }
-        readme_tags: ["OBJ→glTF", "PBR"]
-
-      - name: "glTF Transform"
-        url: "https://gltf-transform.dev/"
-        description: "JS library/CLI for reading, editing, optimizing glTF (Draco, KTX2)."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["glTF Tools", "Optimizer"]
-
-      - name: "gltfpack"
-        url: "https://github.com/zeux/meshoptimizer/tree/master/gltf"
-        description: "Aggressive glTF mesh/texture optimization."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["glTF", "Optimize"]
-
-      - name: "glTF Pipeline"
-        url: "https://github.com/CesiumGS/gltf-pipeline"
-        description: "glTF ↔ GLB, Draco compress, texture resize."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["glTF/GLB", "Pipeline"]
-
-      - name: "glTF Validator"
-        url: "https://github.com/KhronosGroup/glTF-Validator"
-        description: "Official Khronos spec validation."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["Validator", "Khronos"]
-
-      - name: "glTF Viewer"
-        url: "https://gltf-viewer.donmccurdy.com/"
-        description: "Web-based glTF/GLB viewer."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["glTF Viewer", "Web"]
-
-      - name: "Needle USD Converter"
-        url: "https://usd.needle.tools/"
-        description: "Web-based USD/USDZ viewer and converter."
-        entry_type: "tool"
-        tags: { tech: [usd] }
-        readme_tags: ["USD/USDZ", "Web"]
-
-      - name: "Reality Converter (Apple)"
-        url: "https://developer.apple.com/augmented-reality/tools/"
-        description: "OBJ/glTF/USD → USDZ for Apple AR."
-        entry_type: "tool"
-        tags: { tech: [usd, xr], platform: [mac] }
-        readme_tags: ["USDZ", "Apple AR"]
-
-      - name: "ImageMagick"
-        url: "https://imagemagick.org/"
-        description: "CLI, 200+ image formats."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["CLI", "200+ Formats"]
-
-      - name: "Squoosh"
-        url: "https://squoosh.app/"
-        description: "Google — AVIF/WebP/JPEG XL image compression."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["Google", "Modern Formats"]
-
-      - name: "TinyPNG"
-        url: "https://tinypng.com/"
-        description: "Lossy PNG/JPEG compression."
-        entry_type: "tool"
-        readme_tags: ["PNG/JPEG", "Lossy"]
-
-      - name: "XnConvert"
-        url: "https://www.xnview.com/en/xnconvert/"
-        description: "Batch image converter, 80+ actions."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Batch image conversion"
-        readme_tags: ["Batch", "80+ Actions"]
-
-      - name: "PNGQuant"
-        url: "https://pngquant.org/"
-        description: "CLI lossy PNG compression."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["CLI", "PNG"]
-
-      - name: "HandBrake"
-        url: "https://handbrake.fr/"
-        description: "Free, open-source H.265/AV1 video encoder."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Video encoding"
-        readme_tags: ["H.265/AV1", "Open Source"]
-
-      - name: "Shutter Encoder"
-        url: "https://www.shutterencoder.com/"
-        description: "FFmpeg GUI with professional presets."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Pro video encoding GUI"
-        readme_tags: ["FFmpeg GUI", "Pro Presets"]
-
-      - name: "FFmpeg"
-        url: "https://ffmpeg.org/"
-        description: "CLI powerhouse, every codec."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["CLI", "Every Codec"]
-
-      - name: "fre:ac"
-        url: "https://www.freac.org/"
-        description: "Free, open-source batch audio converter."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Batch audio conversion"
-        readme_tags: ["Audio Batch", "Open Source"]
-
-      - name: "SoX"
-        url: "https://sourceforge.net/projects/sox/"
-        description: "CLI audio processing."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["Audio CLI", "Swiss Army"]
-
-      - name: "OIIO (OpenImageIO)"
-        url: "https://github.com/AcademySoftwareFoundation/OpenImageIO"
-        description: "ASWF CLI tools, 100+ formats. VFX pipeline standard."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { output: [film-vfx] }
-        readme_tags: ["ASWF", "Pipeline Standard"]
-
-      - name: "Luminance HDR"
-        url: "https://luminancehdr.sourceforge.net/"
-        description: "HDR workflow — merge brackets, tonemap, convert EXR/HDR/RGBE."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "HDR workflow"
-        tags: { workflow: [lighting] }
-        readme_tags: ["HDR Workflow", "EXR"]
-
-  # ------------------------------------------------------------------
+      - name: VERT.sh
+        url: https://vert.sh/
+        description: General-purpose online converter.
+        entry_type: tool
+        readme_tags:
+          - General
+          - Online
+      - name: MAZANOKE
+        url: https://mazanoke.com/
+        description: Browser-based converter.
+        entry_type: tool
+        readme_tags:
+          - Browser
+          - Converter
+      - name: 123apps
+        url: https://123apps.com/
+        description: Free web tools for audio, video, image.
+        entry_type: tool
+        readme_tags:
+          - Free Web
+          - Multi-tool
+      - name: CloudConvert
+        url: https://cloudconvert.com/
+        description: 200+ formats with API.
+        entry_type: tool
+        readme_tags:
+          - 200+ Formats
+          - API
+      - name: Convertio
+        url: https://convertio.co/
+        description: Multi-format converter.
+        entry_type: tool
+        readme_tags:
+          - Multi-format
+          - Web
+      - name: Online-Convert
+        url: https://www.online-convert.com/
+        description: Web-based format converter.
+        entry_type: tool
+        readme_tags:
+          - Web
+          - General
+      - name: FreeConvert
+        url: https://www.freeconvert.com/
+        description: Free online file converter.
+        entry_type: tool
+        readme_tags:
+          - Free
+          - Web
+      - name: Assimp
+        url: https://github.com/assimp/assimp
+        description: Open-source library, 40+ 3D format import (C/C++/Python).
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - 3D Import Lib
+          - 40+ Formats
+      - name: FBX2glTF
+        url: https://github.com/facebookincubator/FBX2glTF
+        description: Meta's CLI for FBX → glTF 2.0.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - FBX→glTF
+          - CLI
+      - name: obj2gltf
+        url: https://github.com/CesiumGS/obj2gltf
+        description: Cesium's OBJ → glTF with PBR mapping.
+        license: Open Source
+        entry_type: tool
+        tags:
+          tech:
+            - pbr
+        readme_tags:
+          - OBJ→glTF
+          - PBR
+      - name: glTF Transform
+        url: https://gltf-transform.dev/
+        description: JS library/CLI for reading, editing, optimizing glTF (Draco, KTX2).
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - glTF Tools
+          - Optimizer
+      - name: gltfpack
+        url: https://github.com/zeux/meshoptimizer/tree/master/gltf
+        description: Aggressive glTF mesh/texture optimization.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - glTF
+          - Optimize
+      - name: glTF Pipeline
+        url: https://github.com/CesiumGS/gltf-pipeline
+        description: glTF ↔ GLB, Draco compress, texture resize.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - glTF/GLB
+          - Pipeline
+      - name: glTF Validator
+        url: https://github.com/KhronosGroup/glTF-Validator
+        description: Official Khronos spec validation.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - Validator
+          - Khronos
+      - name: glTF Viewer
+        url: https://gltf-viewer.donmccurdy.com/
+        description: Web-based glTF/GLB viewer.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - glTF Viewer
+          - Web
+      - name: Needle USD Converter
+        url: https://usd.needle.tools/
+        description: Web-based USD/USDZ viewer and converter.
+        entry_type: tool
+        tags:
+          tech:
+            - usd
+        readme_tags:
+          - USD/USDZ
+          - Web
+      - name: Reality Converter (Apple)
+        url: https://developer.apple.com/augmented-reality/tools/
+        description: OBJ/glTF/USD → USDZ for Apple AR.
+        entry_type: tool
+        tags:
+          tech:
+            - usd
+            - xr
+          platform:
+            - mac
+        readme_tags:
+          - USDZ
+          - Apple AR
+      - name: ImageMagick
+        url: https://imagemagick.org/
+        description: CLI, 200+ image formats.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - CLI
+          - 200+ Formats
+      - name: Squoosh
+        url: https://squoosh.app/
+        description: Google — AVIF/WebP/JPEG XL image compression.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - Google
+          - Modern Formats
+      - name: TinyPNG
+        url: https://tinypng.com/
+        description: Lossy PNG/JPEG compression.
+        entry_type: tool
+        readme_tags:
+          - PNG/JPEG
+          - Lossy
+      - name: XnConvert
+        url: https://www.xnview.com/en/xnconvert/
+        description: Batch image converter, 80+ actions.
+        license: Free
+        entry_type: software
+        best_for: Batch image conversion
+        readme_tags:
+          - Batch
+          - 80+ Actions
+      - name: PNGQuant
+        url: https://pngquant.org/
+        description: CLI lossy PNG compression.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - CLI
+          - PNG
+      - name: HandBrake
+        url: https://handbrake.fr/
+        description: Free, open-source H.265/AV1 video encoder.
+        license: Open Source
+        entry_type: software
+        best_for: Video encoding
+        readme_tags:
+          - H.265/AV1
+          - Open Source
+      - name: Shutter Encoder
+        url: https://www.shutterencoder.com/
+        description: FFmpeg GUI with professional presets.
+        license: Free
+        entry_type: software
+        best_for: Pro video encoding GUI
+        readme_tags:
+          - FFmpeg GUI
+          - Pro Presets
+      - name: FFmpeg
+        url: https://ffmpeg.org/
+        description: CLI powerhouse, every codec.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - CLI
+          - Every Codec
+      - name: fre:ac
+        url: https://www.freac.org/
+        description: Free, open-source batch audio converter.
+        license: Open Source
+        entry_type: software
+        best_for: Batch audio conversion
+        readme_tags:
+          - Audio Batch
+          - Open Source
+      - name: SoX
+        url: https://sourceforge.net/projects/sox/
+        description: CLI audio processing.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - Audio CLI
+          - Swiss Army
+      - name: OIIO (OpenImageIO)
+        url: https://github.com/AcademySoftwareFoundation/OpenImageIO
+        description: ASWF CLI tools, 100+ formats. VFX pipeline standard.
+        license: Open Source
+        entry_type: tool
+        tags:
+          output:
+            - film-vfx
+        readme_tags:
+          - ASWF
+          - Pipeline Standard
+      - name: Luminance HDR
+        url: https://luminancehdr.sourceforge.net/
+        description: HDR workflow — merge brackets, tonemap, convert EXR/HDR/RGBE.
+        license: Open Source
+        entry_type: software
+        best_for: HDR workflow
+        tags:
+          workflow:
+            - lighting
+        readme_tags:
+          - HDR Workflow
+          - EXR
+      - name: fSpy-USD
+        url: https://github.com/Vochsel/fspy-USD
+        description: Unofficial fSpy to USD converter.
+        entry_type: reference
+      - name: Pixelicious
+        url: https://www.pixelicious.xyz/
+        description: Image-to-Pixel Art converter.
+        entry_type: tool
   - slug: pipeline-standards
-    title: "Pipeline Standards"
-    description: "Interchange formats and standards."
+    title: Pipeline Standards
+    description: Interchange formats and standards.
     entries:
-      - name: "OpenUSD (Pipeline Standard)"
-        url: "https://openusd.org/"
-        description: "Scene interchange standard for film/TV VFX. Apple Vision Pro uses USDZ."
-        license: "Open Source"
-        entry_type: "reference"
-        tags: { tech: [usd] }
-        readme_tags: ["Scene Interchange", "Film Standard"]
-
-      - name: "MaterialX"
-        url: "https://materialx.org/"
-        description: "Material interchange format (Lucasfilm). Supported by USD, Blender, Maya, Houdini, Arnold, RenderMan, Substance."
-        license: "Open Source"
-        entry_type: "reference"
-        readme_tags: ["Material Interchange", "Lucasfilm"]
-
-      - name: "OpenPBR"
-        url: "https://github.com/AcademySoftwareFoundation/OpenPBR"
-        description: "Standardized uber-shader for PBR (Autodesk + Adobe)."
-        license: "Open Source"
-        entry_type: "reference"
-        tags: { tech: [pbr] }
-        readme_tags: ["PBR Standard", "Adobe + Autodesk"]
-
-      - name: "ACES 2.0"
-        url: "https://acescentral.com/"
-        description: "Academy Color Encoding System. Widely adopted in film/TV, growing in games."
-        entry_type: "reference"
-        tags: { workflow: [color-grading] }
-        readme_tags: ["Color Encoding", "Academy"]
-
-      - name: "OpenTimelineIO"
-        url: "https://github.com/AcademySoftwareFoundation/OpenTimelineIO"
-        description: "Editorial timeline interchange (Pixar)."
-        license: "Open Source"
-        entry_type: "reference"
-        readme_tags: ["Timeline Interchange", "Pixar"]
-
-  # ------------------------------------------------------------------
+      - name: OpenUSD (Pipeline Standard)
+        url: https://openusd.org/
+        description: Scene interchange standard for film/TV VFX. Apple Vision Pro uses USDZ.
+        license: Open Source
+        entry_type: reference
+        tags:
+          tech:
+            - usd
+        readme_tags:
+          - Scene Interchange
+          - Film Standard
+      - name: MaterialX
+        url: https://materialx.org/
+        description: Material interchange format (Lucasfilm). Supported by USD, Blender, Maya, Houdini, Arnold, RenderMan, Substance.
+        license: Open Source
+        entry_type: reference
+        readme_tags:
+          - Material Interchange
+          - Lucasfilm
+      - name: OpenPBR
+        url: https://github.com/AcademySoftwareFoundation/OpenPBR
+        description: Standardized uber-shader for PBR (Autodesk + Adobe).
+        license: Open Source
+        entry_type: reference
+        tags:
+          tech:
+            - pbr
+        readme_tags:
+          - PBR Standard
+          - Adobe + Autodesk
+      - name: ACES 2.0
+        url: https://acescentral.com/
+        description: Academy Color Encoding System. Widely adopted in film/TV, growing in games.
+        entry_type: reference
+        tags:
+          workflow:
+            - color-grading
+        readme_tags:
+          - Color Encoding
+          - Academy
+      - name: OpenTimelineIO
+        url: https://github.com/AcademySoftwareFoundation/OpenTimelineIO
+        description: Editorial timeline interchange (Pixar).
+        license: Open Source
+        entry_type: reference
+        readme_tags:
+          - Timeline Interchange
+          - Pixar
+      - name: Alembic
+        url: http://www.alembic.io/
+        description: Animations.
+        entry_type: reference
+      - name: MaterialX
+        url: https://github.com/materialx/MaterialX
+        description: Materials and look-dev.
+        entry_type: reference
+      - name: OpenImageIO
+        url: https://github.com/OpenImageIO/oiio
+        description: A library for reading and writing images in many common and VFX-related formats.
+        entry_type: reference
   - slug: pipeline-overview
-    title: "Pipeline Overview"
-    description: "Industry-to-software quick reference."
+    title: Pipeline Overview
+    description: Industry-to-software quick reference.
     entries:
-      - name: "Film VFX Pipeline"
-        url: "https://openusd.org/"
-        description: "Primary software — Maya, Houdini, Nuke. Key considerations — USD pipeline, high detail."
-        entry_type: "reference"
-        tags: { output: [film-vfx] }
-        readme_tags: ["Film VFX", "Maya/Houdini/Nuke"]
-
-      - name: "Games Pipeline"
-        url: "https://openusd.org/"
-        description: "Primary software — Maya, 3ds Max, Substance, Godot. Key considerations — real-time constraints."
-        entry_type: "reference"
-        tags: { output: [games] }
-        readme_tags: ["Games", "Real-time Constraints"]
-
-      - name: "Architecture Pipeline"
-        url: "https://www.autodesk.com/products/3ds-max/"
-        description: "Primary software — 3ds Max, SketchUp, Revit. Key considerations — accuracy, real-world scale."
-        entry_type: "reference"
-        tags: { output: [archviz] }
-        readme_tags: ["Arch-Viz", "Accuracy"]
-
-      - name: "Product Design Pipeline"
-        url: "https://www.autodesk.com/products/fusion-360/"
-        description: "Primary software — Fusion 360, SolidWorks, KeyShot. Key considerations — manufacturing."
-        entry_type: "reference"
-        tags: { output: [product-viz] }
-        readme_tags: ["Product Design", "Manufacturing"]
-
-      - name: "Motion Graphics Pipeline"
-        url: "https://www.maxon.net/"
-        description: "Primary software — Cinema 4D, After Effects. Key considerations — stylized looks, fast iteration."
-        entry_type: "reference"
-        tags: { output: [motion-graphics] }
-        readme_tags: ["Mograph", "C4D + AE"]
+      - name: Film VFX Pipeline
+        url: https://openusd.org/
+        description: Primary software — Maya, Houdini, Nuke. Key considerations — USD pipeline, high detail.
+        entry_type: reference
+        tags:
+          output:
+            - film-vfx
+        readme_tags:
+          - Film VFX
+          - Maya/Houdini/Nuke
+      - name: Games Pipeline
+        url: https://openusd.org/
+        description: Primary software — Maya, 3ds Max, Substance, Godot. Key considerations — real-time constraints.
+        entry_type: reference
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Games
+          - Real-time Constraints
+      - name: Architecture Pipeline
+        url: https://www.autodesk.com/products/3ds-max/
+        description: Primary software — 3ds Max, SketchUp, Revit. Key considerations — accuracy, real-world scale.
+        entry_type: reference
+        tags:
+          output:
+            - archviz
+        readme_tags:
+          - Arch-Viz
+          - Accuracy
+      - name: Product Design Pipeline
+        url: https://www.autodesk.com/products/fusion-360/
+        description: Primary software — Fusion 360, SolidWorks, KeyShot. Key considerations — manufacturing.
+        entry_type: reference
+        tags:
+          output:
+            - product-viz
+        readme_tags:
+          - Product Design
+          - Manufacturing
+      - name: Motion Graphics Pipeline
+        url: https://www.maxon.net/
+        description: Primary software — Cinema 4D, After Effects. Key considerations — stylized looks, fast iteration.
+        entry_type: reference
+        tags:
+          output:
+            - motion-graphics
+        readme_tags:
+          - Mograph
+          - C4D + AE

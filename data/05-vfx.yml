@@ -1,93 +1,136 @@
 slug: vfx-compositing-virtual-production
-title: "VFX, Compositing & Virtual Production"
-description: "VFX tools learning, compositing, virtual production stacks, and tech art channels. Software tables live in §12."
-
+title: VFX, Compositing & Virtual Production
+description: VFX tools learning, compositing, virtual production stacks, and tech art channels. Software tables live in §12.
 subsections:
-  # ------------------------------------------------------------------
   - slug: virtual-production
-    title: "Virtual Production"
-    description: "Real-time engines and hardware stacks for virtual production."
+    title: Virtual Production
+    description: Real-time engines and hardware stacks for virtual production.
     entries:
-      - name: "Zero Density"
-        url: "https://www.zerodensity.tv/"
-        description: "Real-time VFX engine for broadcast and virtual production."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Broadcast VP"
-        tags: { output: [broadcast, film-vfx], tech: [real-time] }
-        readme_tags: ["Real-time VFX", "Broadcast"]
-
-      - name: "disguise"
-        url: "https://www.disguise.one/en/solutions/virtual-production/"
-        description: "Virtual production solutions."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "LED wall virtual production"
-        tags: { output: [film-vfx, broadcast] }
-        readme_tags: ["LED Walls", "Workflow"]
-
-      - name: "NVIDIA Omniverse Blueprints"
-        url: "https://github.com/orgs/NVIDIA-Omniverse-blueprints/repositories"
-        description: "Omniverse blueprints and reference pipelines."
-        license: "Free"
-        entry_type: "reference"
-        tags: { tech: [usd] }
-        readme_tags: ["Omniverse", "USD-based"]
-
-      - name: "Vizrt"
-        url: "https://www.vizrt.com/"
-        description: "Broadcast graphics."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Broadcast graphics"
-        tags: { output: [broadcast] }
-        readme_tags: ["Broadcast", "Graphics"]
-
-      - name: "Pixotope"
-        url: "https://www.pixotope.com/"
-        description: "Virtual production software."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Virtual production"
-        tags: { output: [film-vfx, broadcast], tech: [real-time] }
-        readme_tags: ["VP Software", "Real-time"]
-
-      - name: "Notch"
-        url: "https://www.notch.one/"
-        description: "Real-time graphics for live events and virtual production."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Live events, real-time graphics"
-        tags: { output: [broadcast, motion-graphics], tech: [real-time] }
-        readme_tags: ["Live Events", "Real-time"]
-
-  # ------------------------------------------------------------------
+      - name: Zero Density
+        url: https://www.zerodensity.tv/
+        description: Real-time VFX engine for broadcast and virtual production.
+        license: Paid
+        entry_type: software
+        best_for: Broadcast VP
+        tags:
+          output:
+            - broadcast
+            - film-vfx
+          tech:
+            - real-time
+        readme_tags:
+          - Real-time VFX
+          - Broadcast
+      - name: disguise
+        url: https://www.disguise.one/en/solutions/virtual-production/
+        description: Virtual production solutions.
+        license: Paid
+        entry_type: software
+        best_for: LED wall virtual production
+        tags:
+          output:
+            - film-vfx
+            - broadcast
+        readme_tags:
+          - LED Walls
+          - Workflow
+      - name: NVIDIA Omniverse Blueprints
+        url: https://github.com/orgs/NVIDIA-Omniverse-blueprints/repositories
+        description: Omniverse blueprints and reference pipelines.
+        license: Free
+        entry_type: reference
+        tags:
+          tech:
+            - usd
+        readme_tags:
+          - Omniverse
+          - USD-based
+      - name: Vizrt
+        url: https://www.vizrt.com/
+        description: Broadcast graphics.
+        license: Paid
+        entry_type: software
+        best_for: Broadcast graphics
+        tags:
+          output:
+            - broadcast
+        readme_tags:
+          - Broadcast
+          - Graphics
+      - name: Pixotope
+        url: https://www.pixotope.com/
+        description: Virtual production software.
+        license: Paid
+        entry_type: software
+        best_for: Virtual production
+        tags:
+          output:
+            - film-vfx
+            - broadcast
+          tech:
+            - real-time
+        readme_tags:
+          - VP Software
+          - Real-time
+      - name: Notch
+        url: https://www.notch.one/
+        description: Real-time graphics for live events and virtual production.
+        license: Paid
+        entry_type: software
+        best_for: Live events, real-time graphics
+        tags:
+          output:
+            - broadcast
+            - motion-graphics
+          tech:
+            - real-time
+        readme_tags:
+          - Live Events
+          - Real-time
   - slug: tech-art
-    title: "Tech Art"
-    description: "Tech art breakdowns, procedural art, and tutorials."
+    title: Tech Art
+    description: Tech art breakdowns, procedural art, and tutorials.
     entries:
-      - name: "max rose"
-        url: "https://www.youtube.com/@maxrose8845/videos"
-        description: "Tech art breakdowns on YouTube."
-        entry_type: "channel"
-        readme_tags: ["Breakdowns", "YouTube"]
-
-      - name: "Jam2go"
-        url: "https://www.youtube.com/@Jam2go/videos"
-        description: "Procedural art and creative coding."
-        entry_type: "channel"
-        tags: { tech: [procedural] }
-        readme_tags: ["Procedural", "Creative Coding"]
-
-      - name: "Visual Tech Art"
-        url: "https://www.youtube.com/@VisualTechArt"
-        description: "Tech art tutorials."
-        entry_type: "channel"
-        readme_tags: ["Tutorials", "Tech Art"]
-
-      - name: "Simon Schreibt"
-        url: "https://simonschreibt.de/"
-        description: "Game Art Tricks and Workflow Tricks — technical breakdowns of how games achieve effects (mirrors, fog, rendering tricks)."
-        entry_type: "channel"
-        tags: { output: [games, film-vfx] }
-        readme_tags: ["Game Art Tricks", "Breakdowns"]
+      - name: max rose
+        url: https://www.youtube.com/@maxrose8845/videos
+        description: Tech art breakdowns on YouTube.
+        entry_type: channel
+        readme_tags:
+          - Breakdowns
+          - YouTube
+      - name: Jam2go
+        url: https://www.youtube.com/@Jam2go/videos
+        description: Procedural art and creative coding.
+        entry_type: channel
+        tags:
+          tech:
+            - procedural
+        readme_tags:
+          - Procedural
+          - Creative Coding
+      - name: Visual Tech Art
+        url: https://www.youtube.com/@VisualTechArt
+        description: Tech art tutorials.
+        entry_type: channel
+        readme_tags:
+          - Tutorials
+          - Tech Art
+      - name: Simon Schreibt
+        url: https://simonschreibt.de/
+        description: Game Art Tricks and Workflow Tricks — technical breakdowns of how games achieve effects (mirrors, fog, rendering tricks).
+        entry_type: channel
+        tags:
+          output:
+            - games
+            - film-vfx
+        readme_tags:
+          - Game Art Tricks
+          - Breakdowns
+      - name: AFX
+        url: https://github.com/AuthorityFX/afx-nuke-plugins
+        description: Everyday compositing for Nuke
+        entry_type: reference
+      - name: NXT
+        url: https://nxt-dev.github.io/
+        description: A layered code compositing application.
+        entry_type: reference

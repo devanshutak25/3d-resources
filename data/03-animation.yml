@@ -1,146 +1,222 @@
 slug: animation-rigging
-title: "Animation & Rigging"
-description: "Technical animation, rigging, motion capture. Animation principles/theory live in §8."
-
+title: Animation & Rigging
+description: Technical animation, rigging, motion capture. Animation principles/theory live in §8.
 subsections:
-  # ------------------------------------------------------------------
   - slug: animation-learning-channels
-    title: "Animation — YouTube Channels"
-    description: "Channels covering 2D/motion animation technique."
+    title: Animation — YouTube Channels
+    description: Channels covering 2D/motion animation technique.
     entries:
-      - name: "School of Motion"
-        url: "https://www.youtube.com/@schoolofmotion"
-        description: "Motion design education."
-        entry_type: "channel"
-        tags: { output: [motion-graphics] }
-        readme_tags: ["Mograph Education", "Courses"]
-
-      - name: "Toniko Pantoja"
-        url: "https://www.youtube.com/@TonikoPantoja"
-        description: "Animation industry and technique."
-        entry_type: "channel"
-        readme_tags: ["Industry Insight", "Technique"]
-
-      - name: "Alex Kunchevsky"
-        url: "https://www.youtube.com/@kunchevsky"
-        description: "Motion design."
-        entry_type: "channel"
-        tags: { output: [motion-graphics] }
-        readme_tags: ["Motion Design", "YouTube"]
-
-      - name: "Alan Becker Tutorials"
-        url: "https://www.youtube.com/@AlanBeckerTutorials"
-        description: "Animation tutorials by stick-figure animator."
-        entry_type: "channel"
-        readme_tags: ["Beginner Friendly", "Animation Tutorials"]
-
-      - name: "Olof Storm"
-        url: "https://www.youtube.com/@OlofStorm"
-        description: "Animation and motion."
-        entry_type: "channel"
-        readme_tags: ["Motion", "Animation"]
-
-      - name: "Alex Grigg"
-        url: "https://www.youtube.com/@alexgrigganimation"
-        description: "Animation for Anyone series."
-        entry_type: "channel"
-        readme_tags: ["Approachable", "Character Anim"]
-
-  # ------------------------------------------------------------------
+      - name: School of Motion
+        url: https://www.youtube.com/@schoolofmotion
+        description: Motion design education.
+        entry_type: channel
+        tags:
+          output:
+            - motion-graphics
+        readme_tags:
+          - Mograph Education
+          - Courses
+      - name: Toniko Pantoja
+        url: https://www.youtube.com/@TonikoPantoja
+        description: Animation industry and technique.
+        entry_type: channel
+        readme_tags:
+          - Industry Insight
+          - Technique
+      - name: Alex Kunchevsky
+        url: https://www.youtube.com/@kunchevsky
+        description: Motion design.
+        entry_type: channel
+        tags:
+          output:
+            - motion-graphics
+        readme_tags:
+          - Motion Design
+          - YouTube
+      - name: Alan Becker Tutorials
+        url: https://www.youtube.com/@AlanBeckerTutorials
+        description: Animation tutorials by stick-figure animator.
+        entry_type: channel
+        readme_tags:
+          - Beginner Friendly
+          - Animation Tutorials
+      - name: Olof Storm
+        url: https://www.youtube.com/@OlofStorm
+        description: Animation and motion.
+        entry_type: channel
+        readme_tags:
+          - Motion
+          - Animation
+      - name: Alex Grigg
+        url: https://www.youtube.com/@alexgrigganimation
+        description: Animation for Anyone series.
+        entry_type: channel
+        readme_tags:
+          - Approachable
+          - Character Anim
+      - name: PiskelApp
+        url: http://www.piskelapp.com/
+        description: Free Online Pixel Art and Animated Sprite Tool.
+        entry_type: channel
+      - name: SpriteLib
+        url: http://www.widgetworx.com/spritelib/
+        description: a collection of static and animated graphic objects (also commonly known as sprites).
+        entry_type: channel
   - slug: animation-courses
-    title: "Animation — Courses"
-    description: "Structured animation courses."
+    title: Animation — Courses
+    description: Structured animation courses.
     entries:
-      - name: "School of Motion — Animation Courses"
-        url: "https://www.schoolofmotion.com/"
-        description: "Animation Bootcamp, Character Animation, Illustration for Motion."
-        license: "Paid"
-        entry_type: "tutorial"
-        tags: { output: [motion-graphics] }
-        readme_tags: ["Structured Courses", "Mograph"]
-
-  # ------------------------------------------------------------------
+      - name: School of Motion — Animation Courses
+        url: https://www.schoolofmotion.com/
+        description: Animation Bootcamp, Character Animation, Illustration for Motion.
+        license: Paid
+        entry_type: tutorial
+        tags:
+          output:
+            - motion-graphics
+        readme_tags:
+          - Structured Courses
+          - Mograph
   - slug: ai-motion-capture
-    title: "AI Motion Capture & Animation"
-    description: "AI-powered mocap and character animation tools."
-    dual_listed_in: ["ai-ml-for-cg"]
+    title: AI Motion Capture & Animation
+    description: AI-powered mocap and character animation tools.
+    dual_listed_in:
+      - ai-ml-for-cg
     entries:
-      - name: "Move AI"
-        url: "https://www.moveai.com/"
-        description: "Highest-accuracy AI mocap with multi-camera triangulation."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Multi-camera AI mocap"
-        tags: { workflow: [mocap, animation], tech: [ai-generative] }
-        readme_tags: ["High Accuracy", "Multi-Camera"]
-
-      - name: "Rokoko Vision"
-        url: "https://www.rokoko.com/"
-        description: "Free AI mocap from webcam or video."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Free AI mocap"
-        tags: { workflow: [mocap], tech: [ai-generative] }
-        readme_tags: ["Free Tier", "Webcam/Video"]
-
-      - name: "DeepMotion"
-        url: "https://www.deepmotion.com/"
-        description: "Game-ready character animation from video. BVH/FBX export."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Game-ready AI mocap"
-        tags: { workflow: [mocap, animation], output: [games], tech: [ai-generative] }
-        readme_tags: ["Game-Ready", "BVH/FBX"]
-
-      - name: "Plask"
-        url: "https://plask.ai/"
-        description: "Browser-based mocap with hand tracking and standard format export."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Browser-based AI mocap"
-        tags: { workflow: [mocap], platform: [web], tech: [ai-generative] }
-        readme_tags: ["Browser", "Hand Tracking"]
-
-      - name: "Cascadeur"
-        url: "https://cascadeur.com/"
-        description: "Physics-based AI animation with AutoPosing. Unreal plugin."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Physics-based character animation"
-        tags: { workflow: [animation, rigging], tech: [physics, ai-generative, unreal-plugin] }
-        readme_tags: ["Physics-based", "AutoPosing"]
-
-      - name: "RADiCAL"
-        url: "https://radical.tech/"
-        description: "AI mocap from monocular video. Real-time and offline."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Monocular AI mocap"
-        tags: { workflow: [mocap], tech: [ai-generative, real-time] }
-        readme_tags: ["Monocular", "Real-time"]
-
-      - name: "Live Link Face (Apple)"
-        url: "https://apps.apple.com/app/live-link-face/id1495370836"
-        description: "Free facial mocap via iPhone into Unreal/Maya/Blender."
-        license: "Free"
-        entry_type: "software"
-        best_for: "iPhone facial mocap"
-        tags: { workflow: [mocap], platform: [ios], tech: [real-time] }
-        readme_tags: ["Free", "iPhone Face Capture"]
-
-      - name: "Viggle AI"
-        url: "https://viggle.ai/"
-        description: "Character animation from video or image input."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "AI character animation from input media"
-        tags: { workflow: [animation], tech: [ai-generative] }
-        readme_tags: ["Video→Animation", "AI"]
-
-      - name: "AnimateDiff + ControlNet"
-        url: "https://github.com/guoyww/AnimateDiff"
-        description: "Open-source controlled video animation from poses."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { workflow: [animation], tech: [ai-generative] }
-        readme_tags: ["Open Source", "Pose-controlled"]
+      - name: Move AI
+        url: https://www.moveai.com/
+        description: Highest-accuracy AI mocap with multi-camera triangulation.
+        license: Paid
+        entry_type: software
+        best_for: Multi-camera AI mocap
+        tags:
+          workflow:
+            - mocap
+            - animation
+          tech:
+            - ai-generative
+        readme_tags:
+          - High Accuracy
+          - Multi-Camera
+      - name: Rokoko Vision
+        url: https://www.rokoko.com/
+        description: Free AI mocap from webcam or video.
+        license: Freemium
+        entry_type: software
+        best_for: Free AI mocap
+        tags:
+          workflow:
+            - mocap
+          tech:
+            - ai-generative
+        readme_tags:
+          - Free Tier
+          - Webcam/Video
+      - name: DeepMotion
+        url: https://www.deepmotion.com/
+        description: Game-ready character animation from video. BVH/FBX export.
+        license: Freemium
+        entry_type: software
+        best_for: Game-ready AI mocap
+        tags:
+          workflow:
+            - mocap
+            - animation
+          output:
+            - games
+          tech:
+            - ai-generative
+        readme_tags:
+          - Game-Ready
+          - BVH/FBX
+      - name: Plask
+        url: https://plask.ai/
+        description: Browser-based mocap with hand tracking and standard format export.
+        license: Freemium
+        entry_type: software
+        best_for: Browser-based AI mocap
+        tags:
+          workflow:
+            - mocap
+          platform:
+            - web
+          tech:
+            - ai-generative
+        readme_tags:
+          - Browser
+          - Hand Tracking
+      - name: Cascadeur
+        url: https://cascadeur.com/
+        description: Physics-based AI animation with AutoPosing. Unreal plugin.
+        license: Freemium
+        entry_type: software
+        best_for: Physics-based character animation
+        tags:
+          workflow:
+            - animation
+            - rigging
+          tech:
+            - physics
+            - ai-generative
+            - unreal-plugin
+        readme_tags:
+          - Physics-based
+          - AutoPosing
+      - name: RADiCAL
+        url: https://radical.tech/
+        description: AI mocap from monocular video. Real-time and offline.
+        license: Freemium
+        entry_type: software
+        best_for: Monocular AI mocap
+        tags:
+          workflow:
+            - mocap
+          tech:
+            - ai-generative
+            - real-time
+        readme_tags:
+          - Monocular
+          - Real-time
+      - name: Live Link Face (Apple)
+        url: https://apps.apple.com/app/live-link-face/id1495370836
+        description: Free facial mocap via iPhone into Unreal/Maya/Blender.
+        license: Free
+        entry_type: software
+        best_for: iPhone facial mocap
+        tags:
+          workflow:
+            - mocap
+          platform:
+            - ios
+          tech:
+            - real-time
+        readme_tags:
+          - Free
+          - iPhone Face Capture
+      - name: Viggle AI
+        url: https://viggle.ai/
+        description: Character animation from video or image input.
+        license: Freemium
+        entry_type: software
+        best_for: AI character animation from input media
+        tags:
+          workflow:
+            - animation
+          tech:
+            - ai-generative
+        readme_tags:
+          - Video→Animation
+          - AI
+      - name: AnimateDiff + ControlNet
+        url: https://github.com/guoyww/AnimateDiff
+        description: Open-source controlled video animation from poses.
+        license: Open Source
+        entry_type: tool
+        tags:
+          workflow:
+            - animation
+          tech:
+            - ai-generative
+        readme_tags:
+          - Open Source
+          - Pose-controlled

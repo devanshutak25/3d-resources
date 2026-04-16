@@ -1,840 +1,1080 @@
 slug: game-development
-title: "Game Development"
-description: "Engines, per-engine resources, game dev tools, game assets (dual-listed from §1), design theory, learning, communities, and jams. Engine software tables live in §12."
-
+title: Game Development
+description: Engines, per-engine resources, game dev tools, game assets (dual-listed from §1), design theory, learning, communities, and jams. Engine software tables live in §12.
 subsections:
-  # ------------------------------------------------------------------
   - slug: godot-official
-    title: "Godot — Official Resources"
-    description: "Official documentation and asset libraries."
+    title: Godot — Official Resources
+    description: Official documentation and asset libraries.
     entries:
-      - name: "Godot Documentation"
-        url: "https://docs.godotengine.org/"
-        description: "Official docs — GDScript, C#, 2D/3D, shaders, physics, networking."
-        license: "Free"
-        entry_type: "reference"
-        readme_tags: ["Official Docs", "Comprehensive"]
-
-      - name: "Godot Asset Library"
-        url: "https://godotengine.org/asset-library/asset"
-        description: "Official addon and plugin marketplace."
-        entry_type: "marketplace"
-        readme_tags: ["Official", "Addons"]
-
-      - name: "Godot Shaders"
-        url: "https://godotshaders.com/"
-        description: "Community shader library with visual previews."
-        entry_type: "asset-source"
-        tags: { workflow: [material-authoring] }
-        readme_tags: ["Shaders", "Community"]
-
-      - name: "Godot Proposals"
-        url: "https://github.com/godotengine/godot-proposals"
-        description: "Feature request tracker and roadmap."
-        entry_type: "reference"
-        readme_tags: ["Roadmap", "Proposals"]
-
-  # ------------------------------------------------------------------
+      - name: Godot Documentation
+        url: https://docs.godotengine.org/
+        description: Official docs — GDScript, C#, 2D/3D, shaders, physics, networking.
+        license: Free
+        entry_type: reference
+        readme_tags:
+          - Official Docs
+          - Comprehensive
+      - name: Godot Asset Library
+        url: https://godotengine.org/asset-library/asset
+        description: Official addon and plugin marketplace.
+        entry_type: marketplace
+        readme_tags:
+          - Official
+          - Addons
+      - name: Godot Shaders
+        url: https://godotshaders.com/
+        description: Community shader library with visual previews.
+        entry_type: asset-source
+        tags:
+          workflow:
+            - material-authoring
+        readme_tags:
+          - Shaders
+          - Community
+      - name: Godot Proposals
+        url: https://github.com/godotengine/godot-proposals
+        description: Feature request tracker and roadmap.
+        entry_type: reference
+        readme_tags:
+          - Roadmap
+          - Proposals
   - slug: godot-plugins
-    title: "Godot — Key Plugins & Addons"
-    description: "Essential Godot addons."
+    title: Godot — Key Plugins & Addons
+    description: Essential Godot addons.
     entries:
-      - name: "Dialogic 2"
-        url: "https://github.com/dialogic-godot/dialogic"
-        description: "Full-featured dialogue and timeline system."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Dialogue System", "Timeline"]
-
-      - name: "GodotSteam"
-        url: "https://github.com/GodotSteam/GodotSteam"
-        description: "Steamworks SDK integration."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Steamworks", "SDK"]
-
-      - name: "Terrain3D"
-        url: "https://github.com/TokisanGames/Terrain3D"
-        description: "High-performance terrain system."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Terrain", "Performance"]
-
-      - name: "Phantom Camera"
-        url: "https://github.com/ramokz/phantom-camera"
-        description: "Dynamic camera system (Cinemachine-inspired)."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Camera System", "Cinemachine-like"]
-
-      - name: "Limbo AI"
-        url: "https://github.com/limbonaut/limboai"
-        description: "Behavior trees and state machines."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["AI", "Behavior Trees"]
-
-      - name: "SmartShape2D"
-        url: "https://github.com/SirRamEsq/SmartShape2D"
-        description: "Intelligent 2D terrain/shape tool."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["2D Terrain", "Shape Tool"]
-
-      - name: "Gut"
-        url: "https://github.com/bitwes/Gut"
-        description: "Unit testing framework for GDScript."
-        license: "Open Source"
-        entry_type: "plugin"
-        readme_tags: ["Testing", "GDScript"]
-
-  # ------------------------------------------------------------------
+      - name: Dialogic 2
+        url: https://github.com/dialogic-godot/dialogic
+        description: Full-featured dialogue and timeline system.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Dialogue System
+          - Timeline
+      - name: GodotSteam
+        url: https://github.com/GodotSteam/GodotSteam
+        description: Steamworks SDK integration.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Steamworks
+          - SDK
+      - name: Terrain3D
+        url: https://github.com/TokisanGames/Terrain3D
+        description: High-performance terrain system.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Terrain
+          - Performance
+      - name: Phantom Camera
+        url: https://github.com/ramokz/phantom-camera
+        description: Dynamic camera system (Cinemachine-inspired).
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Camera System
+          - Cinemachine-like
+      - name: Limbo AI
+        url: https://github.com/limbonaut/limboai
+        description: Behavior trees and state machines.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - AI
+          - Behavior Trees
+      - name: SmartShape2D
+        url: https://github.com/SirRamEsq/SmartShape2D
+        description: Intelligent 2D terrain/shape tool.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - 2D Terrain
+          - Shape Tool
+      - name: Gut
+        url: https://github.com/bitwes/Gut
+        description: Unit testing framework for GDScript.
+        license: Open Source
+        entry_type: plugin
+        readme_tags:
+          - Testing
+          - GDScript
   - slug: godot-learning
-    title: "Godot — Learning"
-    description: "Godot-focused learning channels and courses."
+    title: Godot — Learning
+    description: Godot-focused learning channels and courses.
     entries:
-      - name: "GDQuest"
-        url: "https://www.gdquest.com/"
-        description: "Premium courses plus free YouTube tutorials."
-        license: "Freemium"
-        entry_type: "tutorial"
-        readme_tags: ["Courses", "YouTube"]
-
-      - name: "Brackeys (Godot)"
-        url: "https://www.youtube.com/@Brackeys"
-        description: "Returned in 2024 with Godot content."
-        entry_type: "channel"
-        readme_tags: ["Returned 2024", "Godot Focus"]
-
-      - name: "HeartBeast"
-        url: "https://www.youtube.com/@uloops"
-        description: "RPG and action game tutorials."
-        entry_type: "channel"
-        readme_tags: ["RPG/Action", "Tutorials"]
-
-      - name: "KidsCanCode Godot Recipes"
-        url: "https://kidscancode.org/godot_recipes/4.x/"
-        description: "Clear beginner-friendly guides."
-        entry_type: "reference"
-        tags: { skill: [beginner] }
-        readme_tags: ["Beginner", "Recipes"]
-
-      - name: "GDScript.com"
-        url: "https://gdscript.com/"
-        description: "Interactive GDScript learning."
-        entry_type: "tutorial"
-        readme_tags: ["Interactive", "GDScript"]
-
-      - name: "Miziziziz"
-        url: "https://www.youtube.com/@Miziziziz"
-        description: "Tutorials and game dev challenges."
-        entry_type: "channel"
-        readme_tags: ["Challenges", "Tutorials"]
-
-      - name: "DevDuck"
-        url: "https://www.youtube.com/@DevDuck"
-        description: "Dev logs and tutorials."
-        entry_type: "channel"
-        readme_tags: ["Devlogs", "Tutorials"]
-
-      - name: "The Shaggy Dev"
-        url: "https://www.youtube.com/@TheShaggyDev"
-        description: "Godot-focused tutorials."
-        entry_type: "channel"
-        readme_tags: ["Godot Focus", "Tutorials"]
-
-  # ------------------------------------------------------------------
+      - name: GDQuest
+        url: https://www.gdquest.com/
+        description: Premium courses plus free YouTube tutorials.
+        license: Freemium
+        entry_type: tutorial
+        readme_tags:
+          - Courses
+          - YouTube
+      - name: Brackeys (Godot)
+        url: https://www.youtube.com/@Brackeys
+        description: Returned in 2024 with Godot content.
+        entry_type: channel
+        readme_tags:
+          - Returned 2024
+          - Godot Focus
+      - name: HeartBeast
+        url: https://www.youtube.com/@uloops
+        description: RPG and action game tutorials.
+        entry_type: channel
+        readme_tags:
+          - RPG/Action
+          - Tutorials
+      - name: KidsCanCode Godot Recipes
+        url: https://kidscancode.org/godot_recipes/4.x/
+        description: Clear beginner-friendly guides.
+        entry_type: reference
+        tags:
+          skill:
+            - beginner
+        readme_tags:
+          - Beginner
+          - Recipes
+      - name: GDScript.com
+        url: https://gdscript.com/
+        description: Interactive GDScript learning.
+        entry_type: tutorial
+        readme_tags:
+          - Interactive
+          - GDScript
+      - name: Miziziziz
+        url: https://www.youtube.com/@Miziziziz
+        description: Tutorials and game dev challenges.
+        entry_type: channel
+        readme_tags:
+          - Challenges
+          - Tutorials
+      - name: DevDuck
+        url: https://www.youtube.com/@DevDuck
+        description: Dev logs and tutorials.
+        entry_type: channel
+        readme_tags:
+          - Devlogs
+          - Tutorials
+      - name: The Shaggy Dev
+        url: https://www.youtube.com/@TheShaggyDev
+        description: Godot-focused tutorials.
+        entry_type: channel
+        readme_tags:
+          - Godot Focus
+          - Tutorials
   - slug: godot-communities
-    title: "Godot — Communities"
-    description: "Godot forums and chat."
+    title: Godot — Communities
+    description: Godot forums and chat.
     entries:
-      - name: "r/godot"
-        url: "https://www.reddit.com/r/godot/"
-        description: "350k+ members, very active."
-        entry_type: "community"
-        readme_tags: ["Reddit", "Very Active"]
-
-      - name: "Godot Discord"
-        url: "https://discord.gg/4JBkykG"
-        description: "Official Discord."
-        entry_type: "community"
-        readme_tags: ["Discord", "Official"]
-
-      - name: "Godot Forums"
-        url: "https://forum.godotengine.org/"
-        description: "Official forum."
-        entry_type: "community"
-        readme_tags: ["Forum", "Official"]
-
-      - name: "Godot Cafe"
-        url: "https://godot.cafe/"
-        description: "Community forum."
-        entry_type: "community"
-        readme_tags: ["Forum", "Community"]
-
-  # ------------------------------------------------------------------
+      - name: r/godot
+        url: https://www.reddit.com/r/godot/
+        description: 350k+ members, very active.
+        entry_type: community
+        readme_tags:
+          - Reddit
+          - Very Active
+      - name: Godot Discord
+        url: https://discord.gg/4JBkykG
+        description: Official Discord.
+        entry_type: community
+        readme_tags:
+          - Discord
+          - Official
+      - name: Godot Forums
+        url: https://forum.godotengine.org/
+        description: Official forum.
+        entry_type: community
+        readme_tags:
+          - Forum
+          - Official
+      - name: Godot Cafe
+        url: https://godot.cafe/
+        description: Community forum.
+        entry_type: community
+        readme_tags:
+          - Forum
+          - Community
   - slug: unreal-engine-resources
-    title: "Unreal Engine — Resources"
-    description: "Unreal Engine resources and marketplace picks."
+    title: Unreal Engine — Resources
+    description: Unreal Engine resources and marketplace picks.
     entries:
-      - name: "UnrealEngineAdvancedFunctions"
-        url: "https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions"
-        description: "Handy functions by [Mridul Sharma](https://www.instagram.com/mridul_sarmah/)."
-        license: "Open Source"
-        entry_type: "reference"
-        readme_tags: ["Blueprints", "Functions"]
-
-      - name: "blueprintUE"
-        url: "https://blueprintue.com/"
-        description: "Blueprint sharing."
-        entry_type: "reference"
-        readme_tags: ["Blueprint Share", "Community"]
-
-      - name: "VS Code Setup for UE"
-        url: "https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-code-for-unreal-engine"
-        description: "Official VS Code setup guide."
-        entry_type: "reference"
-        readme_tags: ["VS Code", "Setup"]
-
-      - name: "Medieval Houses (Marketplace)"
-        url: "https://unrealengine.com/marketplace/en-US/product/modular-medieval-house-pack"
-        description: "Modular medieval house pack."
-        entry_type: "asset-source"
-        readme_tags: ["Marketplace Pick", "Medieval"]
-
-      - name: "Japanese Village (Marketplace)"
-        url: "https://unrealengine.com/marketplace/en-US/product/japanese-medieval-village"
-        description: "Japanese medieval village pack."
-        entry_type: "asset-source"
-        readme_tags: ["Marketplace Pick", "Japanese"]
-
-      - name: "Village Pack (Marketplace)"
-        url: "https://unrealengine.com/marketplace/en-US/product/village-houses-pack"
-        description: "Village houses pack."
-        entry_type: "asset-source"
-        readme_tags: ["Marketplace Pick", "Village"]
-
-  # ------------------------------------------------------------------
+      - name: UnrealEngineAdvancedFunctions
+        url: https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions
+        description: Handy functions by [Mridul Sharma](https://www.instagram.com/mridul_sarmah/).
+        license: Open Source
+        entry_type: reference
+        readme_tags:
+          - Blueprints
+          - Functions
+      - name: blueprintUE
+        url: https://blueprintue.com/
+        description: Blueprint sharing.
+        entry_type: reference
+        readme_tags:
+          - Blueprint Share
+          - Community
+      - name: VS Code Setup for UE
+        url: https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-code-for-unreal-engine
+        description: Official VS Code setup guide.
+        entry_type: reference
+        readme_tags:
+          - VS Code
+          - Setup
+      - name: Medieval Houses (Marketplace)
+        url: https://unrealengine.com/marketplace/en-US/product/modular-medieval-house-pack
+        description: Modular medieval house pack.
+        entry_type: asset-source
+        readme_tags:
+          - Marketplace Pick
+          - Medieval
+      - name: Japanese Village (Marketplace)
+        url: https://unrealengine.com/marketplace/en-US/product/japanese-medieval-village
+        description: Japanese medieval village pack.
+        entry_type: asset-source
+        readme_tags:
+          - Marketplace Pick
+          - Japanese
+      - name: Village Pack (Marketplace)
+        url: https://unrealengine.com/marketplace/en-US/product/village-houses-pack
+        description: Village houses pack.
+        entry_type: asset-source
+        readme_tags:
+          - Marketplace Pick
+          - Village
+      - name: UE4 Env. project
+        url: https://github.com/UE4-OceanProject/Environment-Project
+        description: An Environment Simulation project for Unreal Engine 4.
+        entry_type: reference
   - slug: game-dev-level-design
-    title: "Game Dev Tools — Level Design"
-    description: "Level editors and blockout tools."
+    title: Game Dev Tools — Level Design
+    description: Level editors and blockout tools.
     entries:
-      - name: "TrenchBroom"
-        url: "https://trenchbroom.github.io/"
-        description: "Quake-style level editor, great for blockouts."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Blockouts, Quake-style levels"
-        tags: { output: [games] }
-        readme_tags: ["Blockouts", "Quake-style"]
-
-      - name: "LDtk"
-        url: "https://ldtk.io/"
-        description: "Modern 2D level editor by Dead Cells creator."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "2D level design"
-        tags: { output: [games] }
-        readme_tags: ["2D Levels", "Dead Cells Creator"]
-
-      - name: "Tiled"
-        url: "https://www.mapeditor.org/"
-        description: "General-purpose tilemap editor. TMX format."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Tilemap editing"
-        tags: { output: [games] }
-        readme_tags: ["Tilemap Editor", "TMX"]
-
-      - name: "Sprytile"
-        url: "https://chemikhazi.itch.io/sprytile"
-        description: "Blender addon for tile-based 3D levels."
-        entry_type: "plugin"
-        tags: { tech: [blender-addon], output: [games] }
-        readme_tags: ["Blender Addon", "Tile-based 3D"]
-
-  # ------------------------------------------------------------------
+      - name: TrenchBroom
+        url: https://trenchbroom.github.io/
+        description: Quake-style level editor, great for blockouts.
+        license: Open Source
+        entry_type: software
+        best_for: Blockouts, Quake-style levels
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Blockouts
+          - Quake-style
+      - name: LDtk
+        url: https://ldtk.io/
+        description: Modern 2D level editor by Dead Cells creator.
+        license: Open Source
+        entry_type: software
+        best_for: 2D level design
+        tags:
+          output:
+            - games
+        readme_tags:
+          - 2D Levels
+          - Dead Cells Creator
+      - name: Tiled
+        url: https://www.mapeditor.org/
+        description: General-purpose tilemap editor. TMX format.
+        license: Open Source
+        entry_type: software
+        best_for: Tilemap editing
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Tilemap Editor
+          - TMX
+      - name: Sprytile
+        url: https://chemikhazi.itch.io/sprytile
+        description: Blender addon for tile-based 3D levels.
+        entry_type: plugin
+        tags:
+          tech:
+            - blender-addon
+          output:
+            - games
+        readme_tags:
+          - Blender Addon
+          - Tile-based 3D
+      - name: LDtk
+        url: https://deepnight.net/tools/ldtk-2d-level-editor/
+        description: LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness.
+        entry_type: software
+      - name: OGMO Editor
+        url: https://ogmo-editor-3.github.io/
+        description: generic level editor.
+        entry_type: software
+      - name: OGMO Editor
+        url: http://www.ogmoeditor.com/
+        description: generic level editor. ![open soucce](/img/opensource.png)
+        entry_type: software
+      - name: Sprite Fusion
+        url: https://spritefusion.com/
+        description: A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
+        entry_type: software
+      - name: Mappy
+        url: http://tilemap.co.uk/mappy.php
+        description: Free tilemap editor.
+        entry_type: software
   - slug: game-dev-dialogue-narrative
-    title: "Game Dev Tools — Dialogue & Narrative"
-    description: "Dialogue, narrative scripting, and IF tools."
+    title: Game Dev Tools — Dialogue & Narrative
+    description: Dialogue, narrative scripting, and IF tools.
     entries:
-      - name: "Yarn Spinner"
-        url: "https://yarnspinner.dev/"
-        description: "Dialogue tool for Unity/Godot (Night in the Woods)."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { output: [games] }
-        readme_tags: ["Dialogue", "Unity/Godot"]
-
-      - name: "Ink"
-        url: "https://www.inklestudios.com/ink/"
-        description: "Narrative scripting by Inkle (Heaven's Vault, Sable)."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { output: [games] }
-        readme_tags: ["Narrative Script", "Inkle"]
-
-      - name: "Twine"
-        url: "https://twinery.org/"
-        description: "Free, open-source interactive fiction."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["Interactive Fiction", "Free"]
-
-      - name: "Articy:draft"
-        url: "https://www.articy.com/"
-        description: "Professional narrative design middleware."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Professional narrative middleware"
-        tags: { output: [games] }
-        readme_tags: ["Middleware", "Pro"]
-
-  # ------------------------------------------------------------------
+      - name: Yarn Spinner
+        url: https://yarnspinner.dev/
+        description: Dialogue tool for Unity/Godot (Night in the Woods).
+        license: Open Source
+        entry_type: tool
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Dialogue
+          - Unity/Godot
+      - name: Ink
+        url: https://www.inklestudios.com/ink/
+        description: Narrative scripting by Inkle (Heaven's Vault, Sable).
+        license: Open Source
+        entry_type: tool
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Narrative Script
+          - Inkle
+      - name: Twine
+        url: https://twinery.org/
+        description: Free, open-source interactive fiction.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - Interactive Fiction
+          - Free
+      - name: Articy:draft
+        url: https://www.articy.com/
+        description: Professional narrative design middleware.
+        license: Paid
+        entry_type: software
+        best_for: Professional narrative middleware
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Middleware
+          - Pro
   - slug: game-dev-audio-middleware
-    title: "Game Dev Tools — Audio Middleware"
-    description: "Adaptive audio and spatial audio middleware."
+    title: Game Dev Tools — Audio Middleware
+    description: Adaptive audio and spatial audio middleware.
     entries:
-      - name: "FMOD"
-        url: "https://www.fmod.com/"
-        description: "Industry-standard adaptive audio. Free for indie <$200k."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Adaptive game audio"
-        tags: { workflow: [audio-design], output: [games] }
-        readme_tags: ["Industry Standard", "Indie-Free"]
-
-      - name: "Wwise"
-        url: "https://www.audiokinetic.com/en/wwise/overview/"
-        description: "AAA audio middleware with free tier."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "AAA game audio"
-        tags: { workflow: [audio-design], output: [games] }
-        readme_tags: ["AAA", "Free Tier"]
-
-      - name: "Steam Audio"
-        url: "https://valvesoftware.github.io/steam-audio/"
-        description: "Physics-based spatial audio by Valve. Free."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Spatial game audio"
-        tags: { workflow: [audio-design], output: [games], tech: [physics] }
-        readme_tags: ["Spatial Audio", "Valve Free"]
-
-  # ------------------------------------------------------------------
+      - name: FMOD
+        url: https://www.fmod.com/
+        description: Industry-standard adaptive audio. Free for indie <$200k.
+        license: Freemium
+        entry_type: software
+        best_for: Adaptive game audio
+        tags:
+          workflow:
+            - audio-design
+          output:
+            - games
+        readme_tags:
+          - Industry Standard
+          - Indie-Free
+      - name: Wwise
+        url: https://www.audiokinetic.com/en/wwise/overview/
+        description: AAA audio middleware with free tier.
+        license: Freemium
+        entry_type: software
+        best_for: AAA game audio
+        tags:
+          workflow:
+            - audio-design
+          output:
+            - games
+        readme_tags:
+          - AAA
+          - Free Tier
+      - name: Steam Audio
+        url: https://valvesoftware.github.io/steam-audio/
+        description: Physics-based spatial audio by Valve. Free.
+        license: Free
+        entry_type: software
+        best_for: Spatial game audio
+        tags:
+          workflow:
+            - audio-design
+          output:
+            - games
+          tech:
+            - physics
+        readme_tags:
+          - Spatial Audio
+          - Valve Free
   - slug: game-dev-networking
-    title: "Game Dev Tools — Networking & Multiplayer"
-    description: "Multiplayer frameworks and game servers."
+    title: Game Dev Tools — Networking & Multiplayer
+    description: Multiplayer frameworks and game servers.
     entries:
-      - name: "Photon Engine"
-        url: "https://www.photonengine.com/"
-        description: "Cloud multiplayer (PUN, Fusion, Quantum SDKs)."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Cloud multiplayer"
-        tags: { output: [games], tech: [cloud] }
-        readme_tags: ["Cloud Multiplayer", "Unity/Unreal"]
-
-      - name: "Mirror"
-        url: "https://mirror-networking.com/"
-        description: "Open-source Unity networking."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { output: [games] }
-        readme_tags: ["Unity", "Open Source"]
-
-      - name: "Fish-Net"
-        url: "https://fish-networking.gitbook.io/"
-        description: "High-performance Unity networking."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { output: [games] }
-        readme_tags: ["Unity", "High-Perf"]
-
-      - name: "Nakama"
-        url: "https://heroiclabs.com/"
-        description: "Open-source game server (social, matchmaking, leaderboards)."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Social game server"
-        tags: { output: [games] }
-        readme_tags: ["Social Server", "Matchmaking"]
-
-      - name: "Colyseus"
-        url: "https://colyseus.io/"
-        description: "Node.js multiplayer framework."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { output: [games] }
-        readme_tags: ["Node.js", "Multiplayer"]
-
-      - name: "Epic Online Services"
-        url: "https://dev.epicgames.com/en-US/services"
-        description: "Free multiplayer, matchmaking, voice chat."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Free multiplayer services"
-        tags: { output: [games] }
-        readme_tags: ["Free EOS", "Matchmaking/Voice"]
-
-  # ------------------------------------------------------------------
+      - name: Photon Engine
+        url: https://www.photonengine.com/
+        description: Cloud multiplayer (PUN, Fusion, Quantum SDKs).
+        license: Freemium
+        entry_type: software
+        best_for: Cloud multiplayer
+        tags:
+          output:
+            - games
+          tech:
+            - cloud
+        readme_tags:
+          - Cloud Multiplayer
+          - Unity/Unreal
+      - name: Mirror
+        url: https://mirror-networking.com/
+        description: Open-source Unity networking.
+        license: Open Source
+        entry_type: tool
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Unity
+          - Open Source
+      - name: Fish-Net
+        url: https://fish-networking.gitbook.io/
+        description: High-performance Unity networking.
+        license: Open Source
+        entry_type: tool
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Unity
+          - High-Perf
+      - name: Nakama
+        url: https://heroiclabs.com/
+        description: Open-source game server (social, matchmaking, leaderboards).
+        license: Open Source
+        entry_type: software
+        best_for: Social game server
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Social Server
+          - Matchmaking
+      - name: Colyseus
+        url: https://colyseus.io/
+        description: Node.js multiplayer framework.
+        license: Open Source
+        entry_type: tool
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Node.js
+          - Multiplayer
+      - name: Epic Online Services
+        url: https://dev.epicgames.com/en-US/services
+        description: Free multiplayer, matchmaking, voice chat.
+        license: Free
+        entry_type: software
+        best_for: Free multiplayer services
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Free EOS
+          - Matchmaking/Voice
   - slug: game-dev-sprite-vfx
-    title: "Game Dev Tools — Sprite & VFX"
-    description: "Sprite animation, 2D VFX, texture packers."
+    title: Game Dev Tools — Sprite & VFX
+    description: Sprite animation, 2D VFX, texture packers.
     entries:
-      - name: "Effekseer"
-        url: "https://effekseer.github.io/en/"
-        description: "Free particle effects (exports to Unity/Unreal/Godot)."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Game particle VFX"
-        tags: { workflow: [fx], output: [games] }
-        readme_tags: ["Particles", "Multi-Engine"]
-
-      - name: "SpriteMancer"
-        url: "https://codemanu.itch.io/spritemancer"
-        description: "2D VFX and sprite animation."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "2D game VFX"
-        tags: { output: [games] }
-        readme_tags: ["2D VFX", "Sprites"]
-
-      - name: "Laigter"
-        url: "https://azagaya.itch.io/laigter"
-        description: "Free normal/specular/AO map generator for 2D."
-        license: "Free"
-        entry_type: "tool"
-        tags: { workflow: [texturing], output: [games] }
-        readme_tags: ["2D Normals", "Free"]
-
-      - name: "TexturePacker"
-        url: "https://www.codeandweb.com/texturepacker"
-        description: "Sprite sheet packing, multi-engine export."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Sprite sheet packing"
-        tags: { output: [games] }
-        readme_tags: ["Sprite Sheets", "Multi-Engine"]
-
-      - name: "Pixelorama"
-        url: "https://orama-interactive.itch.io/pixelorama"
-        description: "Free pixel art editor (made in Godot)."
-        license: "Open Source"
-        entry_type: "software"
-        best_for: "Pixel art for games"
-        tags: { output: [games, illustration] }
-        readme_tags: ["Pixel Art", "Godot-built"]
-
-      - name: "PixelOver"
-        url: "https://pixelover.io/"
-        description: "Convert artwork to pixel art with animation, bone rigging, and pixel-perfect transforms."
-        pricing: "~$20 (free demo)"
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Artwork → pixel art conversion"
-        tags: { output: [games, illustration] }
-        readme_tags: ["Artwork→Pixel", "Rigging"]
-
-  # ------------------------------------------------------------------
+      - name: Effekseer
+        url: https://effekseer.github.io/en/
+        description: Free particle effects (exports to Unity/Unreal/Godot).
+        license: Open Source
+        entry_type: software
+        best_for: Game particle VFX
+        tags:
+          workflow:
+            - fx
+          output:
+            - games
+        readme_tags:
+          - Particles
+          - Multi-Engine
+      - name: SpriteMancer
+        url: https://codemanu.itch.io/spritemancer
+        description: 2D VFX and sprite animation.
+        license: Paid
+        entry_type: software
+        best_for: 2D game VFX
+        tags:
+          output:
+            - games
+        readme_tags:
+          - 2D VFX
+          - Sprites
+      - name: Laigter
+        url: https://azagaya.itch.io/laigter
+        description: Free normal/specular/AO map generator for 2D.
+        license: Free
+        entry_type: tool
+        tags:
+          workflow:
+            - texturing
+          output:
+            - games
+        readme_tags:
+          - 2D Normals
+          - Free
+      - name: TexturePacker
+        url: https://www.codeandweb.com/texturepacker
+        description: Sprite sheet packing, multi-engine export.
+        license: Paid
+        entry_type: software
+        best_for: Sprite sheet packing
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Sprite Sheets
+          - Multi-Engine
+      - name: Pixelorama
+        url: https://orama-interactive.itch.io/pixelorama
+        description: Free pixel art editor (made in Godot).
+        license: Open Source
+        entry_type: software
+        best_for: Pixel art for games
+        tags:
+          output:
+            - games
+            - illustration
+        readme_tags:
+          - Pixel Art
+          - Godot-built
+      - name: PixelOver
+        url: https://pixelover.io/
+        description: Convert artwork to pixel art with animation, bone rigging, and pixel-perfect transforms.
+        pricing: ~$20 (free demo)
+        license: Paid
+        entry_type: software
+        best_for: Artwork → pixel art conversion
+        tags:
+          output:
+            - games
+            - illustration
+        readme_tags:
+          - Artwork→Pixel
+          - Rigging
+      - name: Stitches
+        url: https://draeton.github.io/stitches/
+        description: An HTML5 sprite sheet generator
+        entry_type: software
+      - name: EzSpriteSheet
+        url: https://github.com/z64me/EzSpriteSheet
+        description: Creates sprite sheets from animated GIFs and more
+        entry_type: reference
+      - name: Sprite Sheet Maker
+        url: https://isometric8.itch.io/sprite-sheet-maker
+        description: Sprite Sheet Maker is a handy no fuss utility to pack sprites
+        entry_type: software
+      - name: Sprite Sheet Slicer
+        url: https://isometric8.itch.io/sprite-sheet-slicer
+        description: Sprite Sheet Slicer is a handy no fuss utility to slice sprites
+        entry_type: software
+      - name: LibreSprite
+        url: https://libresprite.github.io/
+        description: LibreSprite is an open source fork of Aseprite.
+        entry_type: software
   - slug: game-dev-ai-procedural
-    title: "Game Dev Tools — AI & Procedural Generation"
-    description: "WFC, noise, procedural pipelines, economy design."
+    title: Game Dev Tools — AI & Procedural Generation
+    description: WFC, noise, procedural pipelines, economy design.
     entries:
-      - name: "Wave Function Collapse"
-        url: "https://github.com/mxgmn/WaveFunctionCollapse"
-        description: "Procedural generation from example patterns."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { tech: [procedural], output: [games] }
-        readme_tags: ["Procedural", "WFC"]
-
-      - name: "FastNoiseLite"
-        url: "https://github.com/Auburn/FastNoiseLite"
-        description: "Fast noise generation (Perlin, Simplex, Cellular)."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { tech: [procedural] }
-        readme_tags: ["Noise", "Fast"]
-
-      - name: "Houdini Engine"
-        url: "https://www.sidefx.com/products/houdini-engine/"
-        description: "Procedural generation pipeline for Unreal/Unity/Godot."
-        license: "Paid"
-        entry_type: "software"
-        best_for: "Procedural pipeline in-engine"
-        tags: { tech: [procedural] }
-        readme_tags: ["Procedural Pipeline", "Multi-Engine"]
-
-      - name: "Machinations"
-        url: "https://machinations.io/"
-        description: "Visual tool for designing and simulating game economies."
-        license: "Paid"
-        entry_type: "tool"
-        tags: { output: [games] }
-        readme_tags: ["Economy Sim", "Design Tool"]
-
-  # ------------------------------------------------------------------
+      - name: Wave Function Collapse
+        url: https://github.com/mxgmn/WaveFunctionCollapse
+        description: Procedural generation from example patterns.
+        license: Open Source
+        entry_type: tool
+        tags:
+          tech:
+            - procedural
+          output:
+            - games
+        readme_tags:
+          - Procedural
+          - WFC
+      - name: FastNoiseLite
+        url: https://github.com/Auburn/FastNoiseLite
+        description: Fast noise generation (Perlin, Simplex, Cellular).
+        license: Open Source
+        entry_type: tool
+        tags:
+          tech:
+            - procedural
+        readme_tags:
+          - Noise
+          - Fast
+      - name: Houdini Engine
+        url: https://www.sidefx.com/products/houdini-engine/
+        description: Procedural generation pipeline for Unreal/Unity/Godot.
+        license: Paid
+        entry_type: software
+        best_for: Procedural pipeline in-engine
+        tags:
+          tech:
+            - procedural
+        readme_tags:
+          - Procedural Pipeline
+          - Multi-Engine
+      - name: Machinations
+        url: https://machinations.io/
+        description: Visual tool for designing and simulating game economies.
+        license: Paid
+        entry_type: tool
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Economy Sim
+          - Design Tool
+      - name: Procedural GL JS
+        url: https://github.com/felixpalmer/procedural-gl-js
+        description: Based on Three.js, this framework is dedicated to generating a 3D Map experience on a web service.
+        entry_type: tool
   - slug: game-dev-physics
-    title: "Game Dev Tools — Physics Engines"
-    description: "Open-source physics engines."
+    title: Game Dev Tools — Physics Engines
+    description: Open-source physics engines.
     entries:
-      - name: "Jolt Physics"
-        url: "https://github.com/jrouwe/JoltPhysics"
-        description: "Open-source 3D physics (used in Horizon Forbidden West)."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { tech: [physics], output: [games] }
-        readme_tags: ["3D Physics", "AAA-proven"]
-
-      - name: "Box2D v3"
-        url: "https://box2d.org/"
-        description: "2D physics engine rewrite by Erin Catto."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { tech: [physics], output: [games] }
-        readme_tags: ["2D Physics", "Erin Catto"]
-
-      - name: "Rapier"
-        url: "https://rapier.rs/"
-        description: "Rust physics engine (2D/3D, used with Bevy)."
-        license: "Open Source"
-        entry_type: "tool"
-        tags: { tech: [physics], output: [games] }
-        readme_tags: ["Rust", "2D/3D"]
-
-  # ------------------------------------------------------------------
+      - name: Jolt Physics
+        url: https://github.com/jrouwe/JoltPhysics
+        description: Open-source 3D physics (used in Horizon Forbidden West).
+        license: Open Source
+        entry_type: tool
+        tags:
+          tech:
+            - physics
+          output:
+            - games
+        readme_tags:
+          - 3D Physics
+          - AAA-proven
+      - name: Box2D v3
+        url: https://box2d.org/
+        description: 2D physics engine rewrite by Erin Catto.
+        license: Open Source
+        entry_type: tool
+        tags:
+          tech:
+            - physics
+          output:
+            - games
+        readme_tags:
+          - 2D Physics
+          - Erin Catto
+      - name: Rapier
+        url: https://rapier.rs/
+        description: Rust physics engine (2D/3D, used with Bevy).
+        license: Open Source
+        entry_type: tool
+        tags:
+          tech:
+            - physics
+          output:
+            - games
+        readme_tags:
+          - Rust
+          - 2D/3D
+      - name: Box2D.NET
+        url: https://github.com/ikpil/Box2D.NET
+        description: A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
+        entry_type: reference
   - slug: game-dev-version-control
-    title: "Game Dev Tools — Version Control"
-    description: "Version control for binary-heavy game projects."
+    title: Game Dev Tools — Version Control
+    description: Version control for binary-heavy game projects.
     entries:
-      - name: "Perforce Helix Core"
-        url: "https://www.perforce.com/products/helix-core"
-        description: "Industry standard for large assets (free ≤5 users)."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Large-asset VCS"
-        tags: { output: [games, film-vfx] }
-        readme_tags: ["Industry Standard", "Free ≤5 users"]
-
-      - name: "Git LFS"
-        url: "https://git-lfs.com/"
-        description: "Large file storage for Git."
-        license: "Open Source"
-        entry_type: "tool"
-        readme_tags: ["Git LFS", "Binary Files"]
-
-      - name: "Plastic SCM / Unity Version Control"
-        url: "https://unity.com/solutions/version-control"
-        description: "Artist-friendly binary version control."
-        license: "Freemium"
-        entry_type: "software"
-        best_for: "Artist-friendly VCS"
-        tags: { output: [games] }
-        readme_tags: ["Artist-Friendly", "Unity-Integrated"]
-
-  # ------------------------------------------------------------------
+      - name: Perforce Helix Core
+        url: https://www.perforce.com/products/helix-core
+        description: Industry standard for large assets (free ≤5 users).
+        license: Freemium
+        entry_type: software
+        best_for: Large-asset VCS
+        tags:
+          output:
+            - games
+            - film-vfx
+        readme_tags:
+          - Industry Standard
+          - Free ≤5 users
+      - name: Git LFS
+        url: https://git-lfs.com/
+        description: Large file storage for Git.
+        license: Open Source
+        entry_type: tool
+        readme_tags:
+          - Git LFS
+          - Binary Files
+      - name: Plastic SCM / Unity Version Control
+        url: https://unity.com/solutions/version-control
+        description: Artist-friendly binary version control.
+        license: Freemium
+        entry_type: software
+        best_for: Artist-friendly VCS
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Artist-Friendly
+          - Unity-Integrated
   - slug: game-dev-analytics
-    title: "Game Dev Tools — Analytics & Playtesting"
-    description: "Analytics and playtesting services."
+    title: Game Dev Tools — Analytics & Playtesting
+    description: Analytics and playtesting services.
     entries:
-      - name: "GameAnalytics"
-        url: "https://gameanalytics.com/"
-        description: "Free analytics (100k+ games use it)."
-        license: "Free"
-        entry_type: "software"
-        best_for: "Free game analytics"
-        tags: { output: [games] }
-        readme_tags: ["Analytics", "Free"]
-
-      - name: "Steam Playtest"
-        url: "https://partner.steamgames.com/doc/features/playtest"
-        description: "Free playtesting on Steam."
-        license: "Free"
-        entry_type: "reference"
-        readme_tags: ["Playtest", "Steam"]
-
-  # ------------------------------------------------------------------
+      - name: GameAnalytics
+        url: https://gameanalytics.com/
+        description: Free analytics (100k+ games use it).
+        license: Free
+        entry_type: software
+        best_for: Free game analytics
+        tags:
+          output:
+            - games
+        readme_tags:
+          - Analytics
+          - Free
+      - name: Steam Playtest
+        url: https://partner.steamgames.com/doc/features/playtest
+        description: Free playtesting on Steam.
+        license: Free
+        entry_type: reference
+        readme_tags:
+          - Playtest
+          - Steam
   - slug: game-design-theory
-    title: "Game Design & Theory"
-    description: "Design fundamentals, patterns, and references."
+    title: Game Design & Theory
+    description: Design fundamentals, patterns, and references.
     entries:
-      - name: "Game UI Database"
-        url: "https://www.gameuidatabase.com/"
-        description: "Interface reference."
-        entry_type: "reference"
-        readme_tags: ["UI Reference", "Database"]
-
-      - name: "How To Market A Game"
-        url: "https://howtomarketagame.com/"
-        description: "Marketing strategies for indie games."
-        entry_type: "reference"
-        readme_tags: ["Marketing", "Indie"]
-
-      - name: "Game Programming Patterns"
-        url: "https://gameprogrammingpatterns.com/"
-        description: "Free online book by Bob Nystrom."
-        license: "Free"
-        entry_type: "reference"
-        readme_tags: ["Free Book", "Patterns"]
-
-      - name: "Red Blob Games"
-        url: "https://www.redblobgames.com/"
-        description: "Interactive visual explanations (pathfinding, hex grids, noise)."
-        license: "Free"
-        entry_type: "reference"
-        readme_tags: ["Interactive", "Algorithms"]
-
-      - name: "GDC Vault (Free)"
-        url: "https://gdcvault.com/free/"
-        description: "Hundreds of free GDC talks."
-        license: "Free"
-        entry_type: "reference"
-        readme_tags: ["Free Talks", "GDC"]
-
-      - name: "Deconstructor of Fun"
-        url: "https://www.deconstructoroffun.com/"
-        description: "F2P game design and business."
-        entry_type: "reference"
-        readme_tags: ["F2P Design", "Business"]
-
-  # ------------------------------------------------------------------
+      - name: Game UI Database
+        url: https://www.gameuidatabase.com/
+        description: Interface reference.
+        entry_type: reference
+        readme_tags:
+          - UI Reference
+          - Database
+      - name: How To Market A Game
+        url: https://howtomarketagame.com/
+        description: Marketing strategies for indie games.
+        entry_type: reference
+        readme_tags:
+          - Marketing
+          - Indie
+      - name: Game Programming Patterns
+        url: https://gameprogrammingpatterns.com/
+        description: Free online book by Bob Nystrom.
+        license: Free
+        entry_type: reference
+        readme_tags:
+          - Free Book
+          - Patterns
+      - name: Red Blob Games
+        url: https://www.redblobgames.com/
+        description: Interactive visual explanations (pathfinding, hex grids, noise).
+        license: Free
+        entry_type: reference
+        readme_tags:
+          - Interactive
+          - Algorithms
+      - name: GDC Vault (Free)
+        url: https://gdcvault.com/free/
+        description: Hundreds of free GDC talks.
+        license: Free
+        entry_type: reference
+        readme_tags:
+          - Free Talks
+          - GDC
+      - name: Deconstructor of Fun
+        url: https://www.deconstructoroffun.com/
+        description: F2P game design and business.
+        entry_type: reference
+        readme_tags:
+          - F2P Design
+          - Business
   - slug: game-dev-learning-channels
-    title: "Game Dev — YouTube Channels"
-    description: "Channels covering game dev technique, design, and industry."
+    title: Game Dev — YouTube Channels
+    description: Channels covering game dev technique, design, and industry.
     entries:
-      - name: "Brackeys"
-        url: "https://www.youtube.com/@Brackeys"
-        description: "Returned 2024 with Godot content."
-        entry_type: "channel"
-        readme_tags: ["Returned 2024", "Godot"]
-
-      - name: "Cain On Games"
-        url: "https://www.youtube.com/@CainOnGames"
-        description: "Tim Cain (Fallout creator) on game design philosophy and war stories."
-        entry_type: "channel"
-        readme_tags: ["Tim Cain", "Fallout Creator"]
-
-      - name: "Game Maker's Toolkit"
-        url: "https://www.youtube.com/@GMTK"
-        description: "Game design analysis."
-        entry_type: "channel"
-        readme_tags: ["Design Analysis", "GMTK"]
-
-      - name: "Sebastian Lague"
-        url: "https://www.youtube.com/@SebastianLague"
-        description: "Procedural generation and simulations."
-        entry_type: "channel"
-        tags: { tech: [procedural] }
-        readme_tags: ["Procedural", "Simulations"]
-
-      - name: "Blackthornprod"
-        url: "https://www.youtube.com/@Blackthornprod"
-        description: "2D art and design."
-        entry_type: "channel"
-        readme_tags: ["2D Art", "Indie"]
-
-      - name: "Mix and Jam"
-        url: "https://www.youtube.com/@MixandJam"
-        description: "Recreating game mechanics."
-        entry_type: "channel"
-        readme_tags: ["Mechanics", "Recreation"]
-
-      - name: "Masahiro Sakurai"
-        url: "https://www.youtube.com/@sora_sakurai_en"
-        description: "Game design philosophy, 250+ episodes."
-        entry_type: "channel"
-        readme_tags: ["Sakurai", "Design Philosophy"]
-
-      - name: "Jonas Tyroller"
-        url: "https://www.youtube.com/@jonastyroller"
-        description: "Indie dev logs."
-        entry_type: "channel"
-        readme_tags: ["Indie Devlogs", "Thinking"]
-
-      - name: "Thomas Brush"
-        url: "https://www.youtube.com/@thomasbrush"
-        description: "Indie business and marketing."
-        entry_type: "channel"
-        readme_tags: ["Indie Business", "Marketing"]
-
-      - name: "Aarthificial"
-        url: "https://www.youtube.com/@aarthificial"
-        description: "Pixel art devlogs."
-        entry_type: "channel"
-        readme_tags: ["Pixel Art", "Devlogs"]
-
-      - name: "t3ssel8r"
-        url: "https://www.youtube.com/@t3ssel8r"
-        description: "Stylized rendering."
-        entry_type: "channel"
-        readme_tags: ["Stylized Render", "Breakdowns"]
-
-      - name: "Acerola"
-        url: "https://www.youtube.com/@Acerola_t"
-        description: "Graphics programming."
-        entry_type: "channel"
-        readme_tags: ["Graphics Programming", "Shaders"]
-
-      - name: "Freya Holmer"
-        url: "https://www.youtube.com/@acegikmo"
-        description: "Math for game devs, shaders."
-        entry_type: "channel"
-        readme_tags: ["Math", "Shaders"]
-
-      - name: "SimonDev"
-        url: "https://www.youtube.com/@siabordev"
-        description: "3D programming, WebGL."
-        entry_type: "channel"
-        readme_tags: ["3D Programming", "WebGL"]
-
-      - name: "Pontypants"
-        url: "https://www.youtube.com/@Pontypants"
-        description: "Animation for games."
-        entry_type: "channel"
-        tags: { workflow: [animation] }
-        readme_tags: ["Animation", "Games"]
-
-      - name: "GDQuest (YouTube)"
-        url: "https://www.youtube.com/@GDQuest"
-        description: "Godot tutorials."
-        entry_type: "channel"
-        readme_tags: ["Godot", "Tutorials"]
-
-  # ------------------------------------------------------------------
+      - name: Brackeys
+        url: https://www.youtube.com/@Brackeys
+        description: Returned 2024 with Godot content.
+        entry_type: channel
+        readme_tags:
+          - Returned 2024
+          - Godot
+      - name: Cain On Games
+        url: https://www.youtube.com/@CainOnGames
+        description: Tim Cain (Fallout creator) on game design philosophy and war stories.
+        entry_type: channel
+        readme_tags:
+          - Tim Cain
+          - Fallout Creator
+      - name: Game Maker's Toolkit
+        url: https://www.youtube.com/@GMTK
+        description: Game design analysis.
+        entry_type: channel
+        readme_tags:
+          - Design Analysis
+          - GMTK
+      - name: Sebastian Lague
+        url: https://www.youtube.com/@SebastianLague
+        description: Procedural generation and simulations.
+        entry_type: channel
+        tags:
+          tech:
+            - procedural
+        readme_tags:
+          - Procedural
+          - Simulations
+      - name: Blackthornprod
+        url: https://www.youtube.com/@Blackthornprod
+        description: 2D art and design.
+        entry_type: channel
+        readme_tags:
+          - 2D Art
+          - Indie
+      - name: Mix and Jam
+        url: https://www.youtube.com/@MixandJam
+        description: Recreating game mechanics.
+        entry_type: channel
+        readme_tags:
+          - Mechanics
+          - Recreation
+      - name: Masahiro Sakurai
+        url: https://www.youtube.com/@sora_sakurai_en
+        description: Game design philosophy, 250+ episodes.
+        entry_type: channel
+        readme_tags:
+          - Sakurai
+          - Design Philosophy
+      - name: Jonas Tyroller
+        url: https://www.youtube.com/@jonastyroller
+        description: Indie dev logs.
+        entry_type: channel
+        readme_tags:
+          - Indie Devlogs
+          - Thinking
+      - name: Thomas Brush
+        url: https://www.youtube.com/@thomasbrush
+        description: Indie business and marketing.
+        entry_type: channel
+        readme_tags:
+          - Indie Business
+          - Marketing
+      - name: Aarthificial
+        url: https://www.youtube.com/@aarthificial
+        description: Pixel art devlogs.
+        entry_type: channel
+        readme_tags:
+          - Pixel Art
+          - Devlogs
+      - name: t3ssel8r
+        url: https://www.youtube.com/@t3ssel8r
+        description: Stylized rendering.
+        entry_type: channel
+        readme_tags:
+          - Stylized Render
+          - Breakdowns
+      - name: Acerola
+        url: https://www.youtube.com/@Acerola_t
+        description: Graphics programming.
+        entry_type: channel
+        readme_tags:
+          - Graphics Programming
+          - Shaders
+      - name: Freya Holmer
+        url: https://www.youtube.com/@acegikmo
+        description: Math for game devs, shaders.
+        entry_type: channel
+        readme_tags:
+          - Math
+          - Shaders
+      - name: SimonDev
+        url: https://www.youtube.com/@siabordev
+        description: 3D programming, WebGL.
+        entry_type: channel
+        readme_tags:
+          - 3D Programming
+          - WebGL
+      - name: Pontypants
+        url: https://www.youtube.com/@Pontypants
+        description: Animation for games.
+        entry_type: channel
+        tags:
+          workflow:
+            - animation
+        readme_tags:
+          - Animation
+          - Games
+      - name: GDQuest (YouTube)
+        url: https://www.youtube.com/@GDQuest
+        description: Godot tutorials.
+        entry_type: channel
+        readme_tags:
+          - Godot
+          - Tutorials
   - slug: game-dev-courses
-    title: "Game Dev — Courses"
-    description: "Structured game dev courses."
+    title: Game Dev — Courses
+    description: Structured game dev courses.
     entries:
-      - name: "CS50 Game Development (Harvard)"
-        url: "https://cs50.harvard.edu/games/"
-        description: "Free, covers Love2D, Unity, and more."
-        license: "Free"
-        entry_type: "tutorial"
-        readme_tags: ["Harvard CS50", "Free"]
-
-  # ------------------------------------------------------------------
+      - name: CS50 Game Development (Harvard)
+        url: https://cs50.harvard.edu/games/
+        description: Free, covers Love2D, Unity, and more.
+        license: Free
+        entry_type: tutorial
+        readme_tags:
+          - Harvard CS50
+          - Free
   - slug: game-dev-communities
-    title: "Game Dev — Communities"
-    description: "Reddit, Discord, forums, indie job boards."
+    title: Game Dev — Communities
+    description: Reddit, Discord, forums, indie job boards.
     entries:
-      - name: "r/gamedev"
-        url: "https://www.reddit.com/r/gamedev/"
-        description: "1.5M+ game dev subreddit."
-        entry_type: "community"
-        readme_tags: ["Reddit", "Very Active"]
-
-      - name: "r/indiegaming"
-        url: "https://www.reddit.com/r/indiegaming/"
-        description: "Indie gaming subreddit."
-        entry_type: "community"
-        readme_tags: ["Reddit", "Indie"]
-
-      - name: "r/unrealengine"
-        url: "https://www.reddit.com/r/unrealengine/"
-        description: "Unreal Engine subreddit."
-        entry_type: "community"
-        readme_tags: ["Reddit", "Unreal"]
-
-      - name: "r/IndieDev"
-        url: "https://www.reddit.com/r/IndieDev/"
-        description: "Indie developer subreddit."
-        entry_type: "community"
-        readme_tags: ["Reddit", "Indie Dev"]
-
-      - name: "r/gamedesign"
-        url: "https://www.reddit.com/r/gamedesign/"
-        description: "Game design subreddit."
-        entry_type: "community"
-        readme_tags: ["Reddit", "Design"]
-
-      - name: "r/pixelart"
-        url: "https://www.reddit.com/r/PixelArt/"
-        description: "Pixel art subreddit."
-        entry_type: "community"
-        readme_tags: ["Reddit", "Pixel Art"]
-
-      - name: "Game Dev League"
-        url: "https://discord.gg/gamedev"
-        description: "Game dev Discord."
-        entry_type: "community"
-        readme_tags: ["Discord", "Large Community"]
-
-      - name: "Unreal Slackers"
-        url: "https://unrealslackers.org/"
-        description: "Unreal Engine Discord community."
-        entry_type: "community"
-        readme_tags: ["Discord", "Unreal"]
-
-      - name: "Brackeys Discord"
-        url: "https://discord.gg/brackeys"
-        description: "Brackeys Discord community."
-        entry_type: "community"
-        readme_tags: ["Discord", "Brackeys"]
-
-      - name: "Work With Indies"
-        url: "https://www.workwithindies.com/"
-        description: "Indie game job board."
-        entry_type: "community"
-        readme_tags: ["Job Board", "Indie"]
-
-      - name: "IndieDB"
-        url: "https://www.indiedb.com/"
-        description: "Indie game database and promotion."
-        entry_type: "community"
-        readme_tags: ["Indie DB", "Promo"]
-
-      - name: "TIGSource Forums"
-        url: "https://forums.tigsource.com/"
-        description: "Long-running indie forum."
-        entry_type: "community"
-        readme_tags: ["Forum", "Indie Classic"]
-
-  # ------------------------------------------------------------------
+      - name: r/gamedev
+        url: https://www.reddit.com/r/gamedev/
+        description: 1.5M+ game dev subreddit.
+        entry_type: community
+        readme_tags:
+          - Reddit
+          - Very Active
+      - name: r/indiegaming
+        url: https://www.reddit.com/r/indiegaming/
+        description: Indie gaming subreddit.
+        entry_type: community
+        readme_tags:
+          - Reddit
+          - Indie
+      - name: r/unrealengine
+        url: https://www.reddit.com/r/unrealengine/
+        description: Unreal Engine subreddit.
+        entry_type: community
+        readme_tags:
+          - Reddit
+          - Unreal
+      - name: r/IndieDev
+        url: https://www.reddit.com/r/IndieDev/
+        description: Indie developer subreddit.
+        entry_type: community
+        readme_tags:
+          - Reddit
+          - Indie Dev
+      - name: r/gamedesign
+        url: https://www.reddit.com/r/gamedesign/
+        description: Game design subreddit.
+        entry_type: community
+        readme_tags:
+          - Reddit
+          - Design
+      - name: r/pixelart
+        url: https://www.reddit.com/r/PixelArt/
+        description: Pixel art subreddit.
+        entry_type: community
+        readme_tags:
+          - Reddit
+          - Pixel Art
+      - name: Game Dev League
+        url: https://discord.gg/gamedev
+        description: Game dev Discord.
+        entry_type: community
+        readme_tags:
+          - Discord
+          - Large Community
+      - name: Unreal Slackers
+        url: https://unrealslackers.org/
+        description: Unreal Engine Discord community.
+        entry_type: community
+        readme_tags:
+          - Discord
+          - Unreal
+      - name: Brackeys Discord
+        url: https://discord.gg/brackeys
+        description: Brackeys Discord community.
+        entry_type: community
+        readme_tags:
+          - Discord
+          - Brackeys
+      - name: Work With Indies
+        url: https://www.workwithindies.com/
+        description: Indie game job board.
+        entry_type: community
+        readme_tags:
+          - Job Board
+          - Indie
+      - name: IndieDB
+        url: https://www.indiedb.com/
+        description: Indie game database and promotion.
+        entry_type: community
+        readme_tags:
+          - Indie DB
+          - Promo
+      - name: TIGSource Forums
+        url: https://forums.tigsource.com/
+        description: Long-running indie forum.
+        entry_type: community
+        readme_tags:
+          - Forum
+          - Indie Classic
   - slug: game-jams
-    title: "Game Jams"
-    description: "Recurring game jams."
+    title: Game Jams
+    description: Recurring game jams.
     entries:
-      - name: "Ludum Dare"
-        url: "https://ldjam.com/"
-        description: "Oldest jam, twice yearly."
-        entry_type: "community"
-        readme_tags: ["Oldest Jam", "Biannual"]
-
-      - name: "GMTK Game Jam"
-        url: "https://itch.io/jam/gmtk-2025"
-        description: "Largest jam by entries."
-        entry_type: "community"
-        readme_tags: ["Largest", "GMTK"]
-
-      - name: "itch.io Jams"
-        url: "https://itch.io/jams"
-        description: "Hundreds of active jams."
-        entry_type: "community"
-        readme_tags: ["Hub", "Ongoing"]
-
-      - name: "Global Game Jam"
-        url: "https://globalgamejam.org/"
-        description: "Annual, in-person worldwide."
-        entry_type: "community"
-        readme_tags: ["In-Person", "Global"]
-
-      - name: "Brackeys Game Jam"
-        url: "https://itch.io/jam/brackeys"
-        description: "Beginner-friendly jam."
-        entry_type: "community"
-        tags: { skill: [beginner] }
-        readme_tags: ["Beginner-Friendly", "Brackeys"]
-
-      - name: "Pirate Software Game Jam"
-        url: "https://itch.io/jam/piratesoftware"
-        description: "Pirate Software game jam."
-        entry_type: "community"
-        readme_tags: ["Pirate Software", "Community"]
-
-      - name: "JS13KGames"
-        url: "https://js13kgames.com/"
-        description: "13KB size limit JavaScript jam."
-        entry_type: "community"
-        readme_tags: ["13KB Limit", "JS"]
+      - name: Ludum Dare
+        url: https://ldjam.com/
+        description: Oldest jam, twice yearly.
+        entry_type: community
+        readme_tags:
+          - Oldest Jam
+          - Biannual
+      - name: GMTK Game Jam
+        url: https://itch.io/jam/gmtk-2025
+        description: Largest jam by entries.
+        entry_type: community
+        readme_tags:
+          - Largest
+          - GMTK
+      - name: itch.io Jams
+        url: https://itch.io/jams
+        description: Hundreds of active jams.
+        entry_type: community
+        readme_tags:
+          - Hub
+          - Ongoing
+      - name: Global Game Jam
+        url: https://globalgamejam.org/
+        description: Annual, in-person worldwide.
+        entry_type: community
+        readme_tags:
+          - In-Person
+          - Global
+      - name: Brackeys Game Jam
+        url: https://itch.io/jam/brackeys
+        description: Beginner-friendly jam.
+        entry_type: community
+        tags:
+          skill:
+            - beginner
+        readme_tags:
+          - Beginner-Friendly
+          - Brackeys
+      - name: Pirate Software Game Jam
+        url: https://itch.io/jam/piratesoftware
+        description: Pirate Software game jam.
+        entry_type: community
+        readme_tags:
+          - Pirate Software
+          - Community
+      - name: JS13KGames
+        url: https://js13kgames.com/
+        description: 13KB size limit JavaScript jam.
+        entry_type: community
+        readme_tags:
+          - 13KB Limit
+          - JS
