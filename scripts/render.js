@@ -25,7 +25,7 @@ function header() {
     '',
     '*Curated by [Devanshu Tak](https://devanshutak.xyz)* compiled with the help of Claude Code.',
     '',
-    '> **Heads up:** One more accuracy pass is pending — expect occasional mislabelled licenses, stale prices, or sparse descriptions. Flag issues via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
+    '> ⚠️ **Heads up:** One more accuracy pass is pending — expect occasional mislabelled licenses, stale prices, or sparse descriptions. Flag issues via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
     '',
     '> **Looking for something specific?** Visit **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** for the interactive version with search and tag filtering (License · Platform · Workflow · Output).',
     '',
@@ -45,12 +45,18 @@ function buildToC(sections) {
     const full = path.join(DATA_DIR, meta.file);
     if (!fs.existsSync(full)) continue;
     const section = yaml.load(fs.readFileSync(full, 'utf8'));
-    lines.push(tocEntry(section.title, 0));
+    const sectionId = githubAnchor(section.title);
+    // Use <details> for collapsible ToC. Blank lines inside let marked parse the bullets.
+    lines.push('<details>');
+    lines.push(`<summary><a href="#${sectionId}">${section.title}</a></summary>`);
+    lines.push('');
     for (const sub of section.subsections || []) {
-      lines.push(tocEntry(sub.title, 1));
+      lines.push(tocEntry(sub.title, 0));
     }
+    lines.push('');
+    lines.push('</details>');
+    lines.push('');
   }
-  lines.push('');
   lines.push('---');
   lines.push('');
   return lines.join('\n');

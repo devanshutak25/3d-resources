@@ -4,154 +4,213 @@
 
 *Curated by [Devanshu Tak](https://devanshutak.xyz)* compiled with the help of Claude Code.
 
-> **Heads up:** One more accuracy pass is pending — expect occasional mislabelled licenses, stale prices, or sparse descriptions. Flag issues via [GitHub](https://github.com/devanshutak25/3d-resources/issues).
+> ⚠️ **Heads up:** One more accuracy pass is pending — expect occasional mislabelled licenses, stale prices, or sparse descriptions. Flag issues via [GitHub](https://github.com/devanshutak25/3d-resources/issues).
 
 > **Looking for something specific?** Visit **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** for the interactive version with search and tag filtering (License · Platform · Workflow · Output).
 
 **Found something wrong or want to add a resource?** [Open an issue](https://github.com/devanshutak25/3d-resources/issues) to suggest changes, report broken links, or flag incorrect info. Want to contribute directly? [Read the guidelines](contributing.md) and submit a pull request.
 ## Contents
 
-- [Assets & Libraries](#assets-libraries)
-  - [Model Libraries — Free & General](#model-libraries-free-general)
-  - [Model Libraries — Specialized](#model-libraries-specialized)
-  - [Model Libraries — Architecture & Furniture](#model-libraries-architecture-furniture)
-  - [Asset Marketplaces](#asset-marketplaces)
-  - [Free Asset Giveaways](#free-asset-giveaways)
-  - [Software-Specific Asset Libraries](#software-specific-asset-libraries)
-  - [HDRIs](#hdris)
-  - [Textures & Materials — Free PBR Libraries](#textures-materials-free-pbr-libraries)
-  - [Textures — Specialized](#textures-specialized)
-  - [Textures — Premium](#textures-premium)
-  - [Stock Images & References](#stock-images-references)
-  - [Stock Footage](#stock-footage)
-  - [Audio — SFX & Music Libraries](#audio-sfx-music-libraries)
-  - [Reel Music](#reel-music)
-  - [Fonts](#fonts)
-  - [Icons](#icons)
-  - [Game Assets](#game-assets)
-- [Modeling, Sculpting & Texturing](#modeling-sculpting-texturing)
-  - [Blender — Plugins & Addons](#blender-plugins-addons)
-  - [Blender — Tutorials](#blender-tutorials)
-  - [Houdini — Getting Started](#houdini-getting-started)
-  - [Houdini — Essential Learning Resources](#houdini-essential-learning-resources)
-  - [Houdini — VEX & Coding](#houdini-vex-coding)
-  - [Houdini — FX & Simulations](#houdini-fx-simulations)
-  - [Houdini — Rigging & Animation (KineFX)](#houdini-rigging-animation-kinefx)
-  - [Houdini — Grooming](#houdini-grooming)
-  - [Houdini — Miscellaneous Tutorials](#houdini-miscellaneous-tutorials)
-  - [Houdini — Plugins & Tools](#houdini-plugins-tools)
-  - [Houdini — Courses & Free Content](#houdini-courses-free-content)
-  - [Houdini — Communities](#houdini-communities)
-  - [Cinema 4D — Learning](#cinema-4d-learning)
-  - [Cinema 4D — Plugins](#cinema-4d-plugins)
-  - [Cinema 4D — Tips & Workflows](#cinema-4d-tips-workflows)
-  - [3ds Max — Plugins](#3ds-max-plugins)
-  - [Fusion 360 — Learning](#fusion-360-learning)
-  - [Material Creation Tools](#material-creation-tools)
-- [Animation & Rigging](#animation-rigging)
-  - [Animation — YouTube Channels](#animation-youtube-channels)
-  - [Animation — Courses](#animation-courses)
-  - [AI Motion Capture & Animation](#ai-motion-capture-animation)
-- [Lighting, Rendering & Shaders](#lighting-rendering-shaders)
-  - [3D Lighting — Fundamentals](#3d-lighting-fundamentals)
-  - [3D Lighting — Redshift-Specific](#3d-lighting-redshift-specific)
-  - [3D Lighting — Production](#3d-lighting-production)
-  - [Rendering & Shader Theory](#rendering-shader-theory)
-  - [Renderer-Specific Learning](#renderer-specific-learning)
-- [VFX, Compositing & Virtual Production](#vfx-compositing-virtual-production)
-  - [Virtual Production](#virtual-production)
-  - [Tech Art](#tech-art)
-- [Motion Graphics & Video](#motion-graphics-video)
-  - [Motion Graphics — YouTube Channels](#motion-graphics-youtube-channels)
-  - [Motion Graphics — Courses](#motion-graphics-courses)
-  - [After Effects — Learning & Templates](#after-effects-learning-templates)
-  - [Fusion (DaVinci Resolve) — Learning](#fusion-davinci-resolve-learning)
-  - [Motion Graphics — Inspiration](#motion-graphics-inspiration)
-  - [Motion Graphics — Tools & Utilities](#motion-graphics-tools-utilities)
-  - [Video Editing — Courses](#video-editing-courses)
-- [Game Development](#game-development)
-  - [Godot — Official Resources](#godot-official-resources)
-  - [Godot — Key Plugins & Addons](#godot-key-plugins-addons)
-  - [Godot — Learning](#godot-learning)
-  - [Godot — Communities](#godot-communities)
-  - [Unreal Engine — Resources](#unreal-engine-resources)
-  - [Game Dev Tools — Level Design](#game-dev-tools-level-design)
-  - [Game Dev Tools — Dialogue & Narrative](#game-dev-tools-dialogue-narrative)
-  - [Game Dev Tools — Audio Middleware](#game-dev-tools-audio-middleware)
-  - [Game Dev Tools — Networking & Multiplayer](#game-dev-tools-networking-multiplayer)
-  - [Game Dev Tools — Sprite & VFX](#game-dev-tools-sprite-vfx)
-  - [Game Dev Tools — AI & Procedural Generation](#game-dev-tools-ai-procedural-generation)
-  - [Game Dev Tools — Physics Engines](#game-dev-tools-physics-engines)
-  - [Game Dev Tools — Version Control](#game-dev-tools-version-control)
-  - [Game Dev Tools — Analytics & Playtesting](#game-dev-tools-analytics-playtesting)
-  - [Game Design & Theory](#game-design-theory)
-  - [Game Dev — YouTube Channels](#game-dev-youtube-channels)
-  - [Game Dev — Courses](#game-dev-courses)
-  - [Game Dev — Communities](#game-dev-communities)
-  - [Game Jams](#game-jams)
-- [Art, Design & Visual Storytelling](#art-design-visual-storytelling)
-  - [Concept Art & Illustration — Channels](#concept-art-illustration-channels)
-  - [Concept Art & Illustration — Courses](#concept-art-illustration-courses)
-  - [Drawing & Painting for 3D Artists](#drawing-painting-for-3d-artists)
-  - [Photography — Reference & Fundamentals](#photography-reference-fundamentals)
-  - [Cinematography & Camera Work](#cinematography-camera-work)
-  - [Composition & Visual Storytelling](#composition-visual-storytelling)
-  - [Animation Principles](#animation-principles)
-  - [Design Principles & Typography](#design-principles-typography)
-  - [Color Theory & Tools](#color-theory-tools)
-  - [Design Tools](#design-tools)
-  - [General Inspiration](#general-inspiration)
-  - [2D Art References & Inspiration](#2d-art-references-inspiration)
-- [AI & Machine Learning for CG](#ai-machine-learning-for-cg)
-  - [Machine Learning for CG](#machine-learning-for-cg)
-  - [Image Generation](#image-generation)
-  - [Video Generation](#video-generation)
-  - [3D Generation](#3d-generation)
-  - [Texture & Material Generation](#texture-material-generation)
-  - [ComfyUI Ecosystem](#comfyui-ecosystem)
-  - [AI-Assisted CG Tools](#ai-assisted-cg-tools)
-  - [AI Audio & Music](#ai-audio-music)
-  - [Open-Source Models (HuggingFace)](#open-source-models-huggingface)
-- [Tools, Pipeline & Utilities](#tools-pipeline-utilities)
-  - [USD (Universal Scene Description)](#usd-universal-scene-description)
-  - [Scene & Pipeline Tools](#scene-pipeline-tools)
-  - [Gaussian Splatting & NeRF](#gaussian-splatting-nerf)
-  - [Photogrammetry & 3D Scanning](#photogrammetry-3d-scanning)
-  - [Retopology & Mesh Tools](#retopology-mesh-tools)
-  - [UV Tools](#uv-tools)
-  - [Rigging & Animation Tools](#rigging-animation-tools)
-  - [Matchmoving & Camera Tracking](#matchmoving-camera-tracking)
-  - [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools-utilities)
-  - [Plugin & Addon Marketplaces](#plugin-addon-marketplaces)
-  - [Conversion Tools](#conversion-tools)
-  - [Pipeline Standards](#pipeline-standards)
-  - [Pipeline Overview](#pipeline-overview)
-- [Learning, Community & Industry](#learning-community-industry)
-  - [YouTube Channels — Motion Graphics & Cinema 4D](#youtube-channels-motion-graphics-cinema-4d)
-  - [YouTube Channels — Blender](#youtube-channels-blender)
-  - [YouTube Channels — Houdini](#youtube-channels-houdini)
-  - [YouTube Channels — Sculpting & Characters](#youtube-channels-sculpting-characters)
-  - [Paid Tutorial Platforms](#paid-tutorial-platforms)
-  - [Patreon Creators](#patreon-creators)
-  - [3D Communities & Forums](#3d-communities-forums)
-  - [3D Inspiration & Showcase](#3d-inspiration-showcase)
-  - [Architecture & Visualization](#architecture-visualization)
-  - [Salary & Career Data](#salary-career-data)
-  - [Industry Trends 2025-2026](#industry-trends-2025-2026)
-- [Software Reference](#software-reference)
-  - [3D Software — Free](#3d-software-free)
-  - [3D Software — Free Tier](#3d-software-free-tier)
-  - [3D Software — Paid](#3d-software-paid)
-  - [CAD Software](#cad-software)
-  - [2D & Animation Software](#2d-animation-software)
-  - [VFX & Compositing Software](#vfx-compositing-software)
-  - [Render Engines](#render-engines)
-  - [Video Editing Software](#video-editing-software)
-  - [Audio Software](#audio-software)
-  - [Design Software](#design-software)
-  - [Viewers & File Utilities](#viewers-file-utilities)
-  - [Game Engines — Free & Open Source](#game-engines-free-open-source)
-  - [Game Engines — Commercial Free Tiers](#game-engines-commercial-free-tiers)
+<details>
+<summary><a href="#assets-libraries">Assets & Libraries</a></summary>
+
+- [Model Libraries — Free & General](#model-libraries-free-general)
+- [Model Libraries — Specialized](#model-libraries-specialized)
+- [Model Libraries — Architecture & Furniture](#model-libraries-architecture-furniture)
+- [Asset Marketplaces](#asset-marketplaces)
+- [Free Asset Giveaways](#free-asset-giveaways)
+- [Software-Specific Asset Libraries](#software-specific-asset-libraries)
+- [HDRIs](#hdris)
+- [Textures & Materials — Free PBR Libraries](#textures-materials-free-pbr-libraries)
+- [Textures — Specialized](#textures-specialized)
+- [Textures — Premium](#textures-premium)
+- [Stock Images & References](#stock-images-references)
+- [Stock Footage](#stock-footage)
+- [Audio — SFX & Music Libraries](#audio-sfx-music-libraries)
+- [Reel Music](#reel-music)
+- [Fonts](#fonts)
+- [Icons](#icons)
+- [Game Assets](#game-assets)
+
+</details>
+
+<details>
+<summary><a href="#modeling-sculpting-texturing">Modeling, Sculpting & Texturing</a></summary>
+
+- [Blender — Plugins & Addons](#blender-plugins-addons)
+- [Blender — Tutorials](#blender-tutorials)
+- [Houdini — Getting Started](#houdini-getting-started)
+- [Houdini — Essential Learning Resources](#houdini-essential-learning-resources)
+- [Houdini — VEX & Coding](#houdini-vex-coding)
+- [Houdini — FX & Simulations](#houdini-fx-simulations)
+- [Houdini — Rigging & Animation (KineFX)](#houdini-rigging-animation-kinefx)
+- [Houdini — Grooming](#houdini-grooming)
+- [Houdini — Miscellaneous Tutorials](#houdini-miscellaneous-tutorials)
+- [Houdini — Plugins & Tools](#houdini-plugins-tools)
+- [Houdini — Courses & Free Content](#houdini-courses-free-content)
+- [Houdini — Communities](#houdini-communities)
+- [Cinema 4D — Learning](#cinema-4d-learning)
+- [Cinema 4D — Plugins](#cinema-4d-plugins)
+- [Cinema 4D — Tips & Workflows](#cinema-4d-tips-workflows)
+- [3ds Max — Plugins](#3ds-max-plugins)
+- [Fusion 360 — Learning](#fusion-360-learning)
+- [Material Creation Tools](#material-creation-tools)
+
+</details>
+
+<details>
+<summary><a href="#animation-rigging">Animation & Rigging</a></summary>
+
+- [Animation — YouTube Channels](#animation-youtube-channels)
+- [Animation — Courses](#animation-courses)
+- [AI Motion Capture & Animation](#ai-motion-capture-animation)
+
+</details>
+
+<details>
+<summary><a href="#lighting-rendering-shaders">Lighting, Rendering & Shaders</a></summary>
+
+- [3D Lighting — Fundamentals](#3d-lighting-fundamentals)
+- [3D Lighting — Redshift-Specific](#3d-lighting-redshift-specific)
+- [3D Lighting — Production](#3d-lighting-production)
+- [Rendering & Shader Theory](#rendering-shader-theory)
+- [Renderer-Specific Learning](#renderer-specific-learning)
+
+</details>
+
+<details>
+<summary><a href="#vfx-compositing-virtual-production">VFX, Compositing & Virtual Production</a></summary>
+
+- [Virtual Production](#virtual-production)
+- [Tech Art](#tech-art)
+
+</details>
+
+<details>
+<summary><a href="#motion-graphics-video">Motion Graphics & Video</a></summary>
+
+- [Motion Graphics — YouTube Channels](#motion-graphics-youtube-channels)
+- [Motion Graphics — Courses](#motion-graphics-courses)
+- [After Effects — Learning & Templates](#after-effects-learning-templates)
+- [Fusion (DaVinci Resolve) — Learning](#fusion-davinci-resolve-learning)
+- [Motion Graphics — Inspiration](#motion-graphics-inspiration)
+- [Motion Graphics — Tools & Utilities](#motion-graphics-tools-utilities)
+- [Video Editing — Courses](#video-editing-courses)
+
+</details>
+
+<details>
+<summary><a href="#game-development">Game Development</a></summary>
+
+- [Godot — Official Resources](#godot-official-resources)
+- [Godot — Key Plugins & Addons](#godot-key-plugins-addons)
+- [Godot — Learning](#godot-learning)
+- [Godot — Communities](#godot-communities)
+- [Unreal Engine — Resources](#unreal-engine-resources)
+- [Game Dev Tools — Level Design](#game-dev-tools-level-design)
+- [Game Dev Tools — Dialogue & Narrative](#game-dev-tools-dialogue-narrative)
+- [Game Dev Tools — Audio Middleware](#game-dev-tools-audio-middleware)
+- [Game Dev Tools — Networking & Multiplayer](#game-dev-tools-networking-multiplayer)
+- [Game Dev Tools — Sprite & VFX](#game-dev-tools-sprite-vfx)
+- [Game Dev Tools — AI & Procedural Generation](#game-dev-tools-ai-procedural-generation)
+- [Game Dev Tools — Physics Engines](#game-dev-tools-physics-engines)
+- [Game Dev Tools — Version Control](#game-dev-tools-version-control)
+- [Game Dev Tools — Analytics & Playtesting](#game-dev-tools-analytics-playtesting)
+- [Game Design & Theory](#game-design-theory)
+- [Game Dev — YouTube Channels](#game-dev-youtube-channels)
+- [Game Dev — Courses](#game-dev-courses)
+- [Game Dev — Communities](#game-dev-communities)
+- [Game Jams](#game-jams)
+
+</details>
+
+<details>
+<summary><a href="#art-design-visual-storytelling">Art, Design & Visual Storytelling</a></summary>
+
+- [Concept Art & Illustration — Channels](#concept-art-illustration-channels)
+- [Concept Art & Illustration — Courses](#concept-art-illustration-courses)
+- [Drawing & Painting for 3D Artists](#drawing-painting-for-3d-artists)
+- [Photography — Reference & Fundamentals](#photography-reference-fundamentals)
+- [Cinematography & Camera Work](#cinematography-camera-work)
+- [Composition & Visual Storytelling](#composition-visual-storytelling)
+- [Animation Principles](#animation-principles)
+- [Design Principles & Typography](#design-principles-typography)
+- [Color Theory & Tools](#color-theory-tools)
+- [Design Tools](#design-tools)
+- [General Inspiration](#general-inspiration)
+- [2D Art References & Inspiration](#2d-art-references-inspiration)
+
+</details>
+
+<details>
+<summary><a href="#ai-machine-learning-for-cg">AI & Machine Learning for CG</a></summary>
+
+- [Machine Learning for CG](#machine-learning-for-cg)
+- [Image Generation](#image-generation)
+- [Video Generation](#video-generation)
+- [3D Generation](#3d-generation)
+- [Texture & Material Generation](#texture-material-generation)
+- [ComfyUI Ecosystem](#comfyui-ecosystem)
+- [AI-Assisted CG Tools](#ai-assisted-cg-tools)
+- [AI Audio & Music](#ai-audio-music)
+- [Open-Source Models (HuggingFace)](#open-source-models-huggingface)
+
+</details>
+
+<details>
+<summary><a href="#tools-pipeline-utilities">Tools, Pipeline & Utilities</a></summary>
+
+- [USD (Universal Scene Description)](#usd-universal-scene-description)
+- [Scene & Pipeline Tools](#scene-pipeline-tools)
+- [Gaussian Splatting & NeRF](#gaussian-splatting-nerf)
+- [Photogrammetry & 3D Scanning](#photogrammetry-3d-scanning)
+- [Retopology & Mesh Tools](#retopology-mesh-tools)
+- [UV Tools](#uv-tools)
+- [Rigging & Animation Tools](#rigging-animation-tools)
+- [Matchmoving & Camera Tracking](#matchmoving-camera-tracking)
+- [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools-utilities)
+- [Plugin & Addon Marketplaces](#plugin-addon-marketplaces)
+- [Conversion Tools](#conversion-tools)
+- [Pipeline Standards](#pipeline-standards)
+- [Pipeline Overview](#pipeline-overview)
+
+</details>
+
+<details>
+<summary><a href="#learning-community-industry">Learning, Community & Industry</a></summary>
+
+- [YouTube Channels — Motion Graphics & Cinema 4D](#youtube-channels-motion-graphics-cinema-4d)
+- [YouTube Channels — Blender](#youtube-channels-blender)
+- [YouTube Channels — Houdini](#youtube-channels-houdini)
+- [YouTube Channels — Sculpting & Characters](#youtube-channels-sculpting-characters)
+- [Paid Tutorial Platforms](#paid-tutorial-platforms)
+- [Patreon Creators](#patreon-creators)
+- [3D Communities & Forums](#3d-communities-forums)
+- [3D Inspiration & Showcase](#3d-inspiration-showcase)
+- [Architecture & Visualization](#architecture-visualization)
+- [Salary & Career Data](#salary-career-data)
+- [Industry Trends 2025-2026](#industry-trends-2025-2026)
+
+</details>
+
+<details>
+<summary><a href="#software-reference">Software Reference</a></summary>
+
+- [3D Software — Free](#3d-software-free)
+- [3D Software — Free Tier](#3d-software-free-tier)
+- [3D Software — Paid](#3d-software-paid)
+- [CAD Software](#cad-software)
+- [2D & Animation Software](#2d-animation-software)
+- [VFX & Compositing Software](#vfx-compositing-software)
+- [Render Engines](#render-engines)
+- [Video Editing Software](#video-editing-software)
+- [Audio Software](#audio-software)
+- [Design Software](#design-software)
+- [Viewers & File Utilities](#viewers-file-utilities)
+- [Game Engines — Free & Open Source](#game-engines-free-open-source)
+- [Game Engines — Commercial Free Tiers](#game-engines-commercial-free-tiers)
+
+</details>
 
 ---
 ## Assets & Libraries

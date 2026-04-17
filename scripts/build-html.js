@@ -1,9 +1,15 @@
 #!/usr/bin/env node
-// Build: README.md → _site/index.html with heading IDs for anchor nav and filter UI.
+// Build: README.md → _site/index.html with heading IDs + SEO enhancements.
+// Also emits _site/sitemap.xml and _site/robots.txt.
 
 const { marked } = require('marked');
+const yaml = require('js-yaml');
 const fs = require('fs');
 const path = require('path');
+
+const SITE_URL = 'https://3d.devanshutak.xyz';
+const TITLE = '3D Resources: Software, Assets, Tutorials & Tools for 3D Artists';
+const DESCRIPTION = 'Curated hub of 1,300+ free and paid 3D resources — PBR textures, HDRIs, models, Blender / Houdini / Cinema 4D / Maya / ZBrush tutorials, render engines, USD pipeline tools, game development, VFX, motion graphics, AI/ML, and more. Interactive filtering by license, platform, and workflow.';
 
 function slugify(text) {
   return text
@@ -14,71 +20,149 @@ function slugify(text) {
     .replace(/\s+/g, '-');
 }
 
+// --- Load section structure for SEO enumeration ---
+function loadSections() {
+  const sectionsFile = yaml.load(fs.readFileSync('data/sections.yml', 'utf8'));
+  const out = [];
+  for (const meta of sectionsFile.sections) {
+    const fp = path.join('data', meta.file);
+    if (!fs.existsSync(fp)) continue;
+    const doc = yaml.load(fs.readFileSync(fp, 'utf8'));
+    out.push({
+      slug: doc.slug,
+      title: doc.title,
+      description: doc.description,
+      anchor: slugify(doc.title),
+      subsections: (doc.subsections || []).map(s => ({
+        slug: s.slug,
+        title: s.title,
+        description: s.description,
+        anchor: slugify(s.title),
+        entryCount: (s.entries || []).length
+      }))
+    });
+  }
+  return out;
+}
+
+const sections = loadSections();
+const totalEntries = sections.reduce((s, sec) => s + sec.subsections.reduce((t, ss) => t + ss.entryCount, 0), 0);
+
+// --- Structured data (@graph) ---
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE_URL}/#website`,
+      url: `${SITE_URL}/`,
+      name: '3D Resources',
+      description: DESCRIPTION,
+      inLanguage: 'en',
+      publisher: { '@id': `${SITE_URL}/#person` }
+    },
+    {
+      '@type': 'Person',
+      '@id': `${SITE_URL}/#person`,
+      name: 'Devanshu Tak',
+      url: 'https://devanshutak.xyz'
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${SITE_URL}/#collectionpage`,
+      url: `${SITE_URL}/`,
+      name: TITLE,
+      description: DESCRIPTION,
+      isPartOf: { '@id': `${SITE_URL}/#website` },
+      author: { '@id': `${SITE_URL}/#person` },
+      inLanguage: 'en',
+      isAccessibleForFree: true,
+      numberOfItems: totalEntries,
+      about: [
+        '3D Modeling', 'Sculpting', 'Texturing', 'Rendering', 'Animation', 'Rigging',
+        'Visual Effects', 'Compositing', 'Motion Graphics', 'Game Development',
+        'Digital Art', 'Lighting', 'Shaders', 'USD Pipeline', 'Generative AI for CG'
+      ].map(name => ({ '@type': 'Thing', name })),
+      keywords: [
+        'free pbr textures', 'hdri library', 'usd pipeline tools',
+        '3d modeling software', 'vfx tutorials', 'game asset marketplace',
+        'blender addons', 'houdini tutorials', 'motion graphics tools',
+        'render engines', 'open source 3d software', 'ai 3d generation'
+      ].join(', ')
+    },
+    {
+      '@type': 'ItemList',
+      '@id': `${SITE_URL}/#sections`,
+      name: 'Sections',
+      numberOfItems: sections.length,
+      itemListElement: sections.map((s, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: s.title,
+        url: `${SITE_URL}/#${s.anchor}`,
+        description: s.description
+      }))
+    }
+  ]
+};
+
+// --- Render HTML ---
 const md = fs.readFileSync('README.md', 'utf8');
 let html = marked.parse(md);
 
-// Post-process: inject id= on h1-h6 based on slugified text content.
+// Inject IDs on headings
 html = html.replace(/<(h[1-6])>(.*?)<\/\1>/g, (m, tag, inner) => {
   const textOnly = inner.replace(/<[^>]+>/g, '');
   const id = slugify(textOnly);
   return `<${tag} id="${id}">${inner}</${tag}>`;
 });
 
+// Tag the "Heads up" blockquote with a class for yellow styling
+html = html.replace(/<blockquote>\s*<p>(⚠️?\s*<strong>Heads up:<\/strong>[\s\S]*?)<\/p>\s*<\/blockquote>/,
+  '<blockquote class="callout-warning"><p>$1</p></blockquote>');
+
+// Remove the "Looking for something specific?" callout from the deployed site.
+// (Filter bar at top is the equivalent on the site.)
+html = html.replace(/<blockquote>\s*<p><strong>Looking for something specific\?<\/strong>[\s\S]*?<\/p>\s*<\/blockquote>\s*/,
+  '');
+
 const page = `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>3D Resources: Software, Assets, Tutorials &amp; Tools for 3D Artists</title>
-  <meta name="description" content="Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more.">
-  <meta name="keywords" content="3d resources, blender, houdini, cinema 4d, maya, zbrush, unreal engine, free 3d models, textures, hdri, pbr materials, vfx tutorials, 3d animation, game assets, render engines, motion graphics, digital art, 3d learning, substance painter, free assets, 3d software">
-  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#0d1117">
+  <title>${TITLE}</title>
+  <meta name="description" content="${DESCRIPTION}">
+  <meta name="keywords" content="3d resources, free pbr textures, hdri library, usd pipeline tools, blender, houdini, cinema 4d, maya, zbrush, unreal engine, free 3d models, textures, hdri, pbr materials, vfx tutorials, 3d animation, game assets, render engines, motion graphics, digital art, 3d learning, substance painter, free assets, 3d software, ai 3d generation, photogrammetry, gaussian splatting, nerf">
+  <meta name="robots" content="index, follow, max-image-preview:large">
   <meta name="author" content="Devanshu Tak">
-  <link rel="canonical" href="https://3d.devanshutak.xyz/">
+  <link rel="canonical" href="${SITE_URL}/">
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
   <meta name="google-site-verification" content="he46sgCFXN80qPjWX_KNO2ZJ8aqhaysIvSu1TQhCj2U">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="3D Resources: Software, Assets, Tutorials & Tools for 3D Artists">
-  <meta property="og:description" content="Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more.">
-  <meta property="og:url" content="https://3d.devanshutak.xyz/">
+  <meta property="og:title" content="${TITLE}">
+  <meta property="og:description" content="${DESCRIPTION}">
+  <meta property="og:url" content="${SITE_URL}/">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="en_US">
   <meta property="og:site_name" content="3D Resources">
-  <meta property="og:image" content="https://3d.devanshutak.xyz/assets/og-image.png">
+  <meta property="og:image" content="${SITE_URL}/assets/og-image.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="3D Resources — curated hub of 3D software, assets, tutorials, and tools">
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="3D Resources: Software, Assets, Tutorials & Tools for 3D Artists">
-  <meta name="twitter:description" content="Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources.">
-  <meta name="twitter:image" content="https://3d.devanshutak.xyz/assets/og-image.png">
+  <meta name="twitter:title" content="${TITLE}">
+  <meta name="twitter:description" content="${DESCRIPTION}">
+  <meta name="twitter:image" content="${SITE_URL}/assets/og-image.png">
+  <meta name="twitter:image:alt" content="3D Resources — curated hub of 3D software, assets, tutorials, and tools">
 
-  <!-- Schema.org -->
+  <!-- Schema.org / structured data -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "3D Resources: Software, Assets, Tutorials & Tools for 3D Artists",
-    "description": "Curated list of free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more.",
-    "url": "https://3d.devanshutak.xyz/",
-    "author": {
-      "@type": "Person",
-      "name": "Devanshu Tak",
-      "url": "https://devanshutak.xyz"
-    },
-    "about": [
-      {"@type": "Thing", "name": "3D Modeling"},
-      {"@type": "Thing", "name": "Visual Effects"},
-      {"@type": "Thing", "name": "Animation"},
-      {"@type": "Thing", "name": "Game Development"},
-      {"@type": "Thing", "name": "Digital Art"},
-      {"@type": "Thing", "name": "Rendering"},
-      {"@type": "Thing", "name": "Motion Graphics"}
-    ],
-    "inLanguage": "en",
-    "isAccessibleForFree": true
-  }
+${JSON.stringify(jsonLd, null, 2)}
   </script>
 
   <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
@@ -100,7 +184,41 @@ const page = `<!DOCTYPE html>
 </body>
 </html>`;
 
+// --- Sitemap ---
+const today = new Date().toISOString().slice(0, 10);
+const sitemapUrls = [
+  { loc: `${SITE_URL}/`, priority: '1.0', changefreq: 'weekly' },
+  ...sections.map(s => ({ loc: `${SITE_URL}/#${s.anchor}`, priority: '0.8', changefreq: 'weekly' })),
+  ...sections.flatMap(s => s.subsections.map(ss => ({
+    loc: `${SITE_URL}/#${ss.anchor}`,
+    priority: '0.6',
+    changefreq: 'weekly'
+  })))
+];
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapUrls.map(u => `  <url>
+    <loc>${u.loc}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>${u.changefreq}</changefreq>
+    <priority>${u.priority}</priority>
+  </url>`).join('\n')}
+</urlset>
+`;
+
+// --- robots.txt ---
+const robots = `User-agent: *
+Allow: /
+
+Sitemap: ${SITE_URL}/sitemap.xml
+`;
+
+// --- Emit all artifacts ---
 fs.mkdirSync('_site', { recursive: true });
 fs.cpSync('assets', '_site/assets', { recursive: true });
 fs.writeFileSync('_site/index.html', page);
+fs.writeFileSync('_site/sitemap.xml', sitemap);
+fs.writeFileSync('_site/robots.txt', robots);
 console.log('Built _site/index.html');
+console.log(`Wrote sitemap.xml (${sitemapUrls.length} URLs)`);
+console.log('Wrote robots.txt');

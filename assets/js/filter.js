@@ -7,6 +7,26 @@
   const DATA_URL = '/data.json';
   const EXCLUDED_H2_IDS = new Set(['contents', 'contributing', 'footnotes']);
 
+  const CATEGORY_OPTIONS = [
+    'assets-libraries', 'modeling-sculpting-texturing', 'animation-rigging',
+    'lighting-rendering-shaders', 'vfx-compositing-virtual-production', 'motion-graphics-video',
+    'game-development', 'art-design-visual-storytelling', 'ai-ml-for-cg',
+    'tools-pipeline-utilities', 'learning-community-industry', 'software-reference'
+  ];
+  const CATEGORY_LABELS = {
+    'assets-libraries': 'Assets',
+    'modeling-sculpting-texturing': 'Modeling',
+    'animation-rigging': 'Animation',
+    'lighting-rendering-shaders': 'Lighting & Render',
+    'vfx-compositing-virtual-production': 'VFX',
+    'motion-graphics-video': 'Motion Graphics',
+    'game-development': 'Game Dev',
+    'art-design-visual-storytelling': 'Art & Design',
+    'ai-ml-for-cg': 'AI/ML',
+    'tools-pipeline-utilities': 'Tools & Pipeline',
+    'learning-community-industry': 'Learning',
+    'software-reference': 'Software Reference'
+  };
   const LICENSE_OPTIONS = ['Open Source', 'Free', 'Free NC', 'Freemium', 'Paid'];
   const PLATFORM_OPTIONS = ['win', 'mac', 'linux', 'web', 'ios', 'ipad', 'android', 'cloud'];
   const PLATFORM_LABELS = { win: 'Windows', mac: 'macOS', linux: 'Linux', web: 'Web', ios: 'iOS', ipad: 'iPad', android: 'Android', cloud: 'Cloud' };
@@ -15,6 +35,7 @@
 
   const active = {
     search: '',
+    category: new Set(),
     license: new Set(),
     platform: new Set(),
     workflow: new Set(),
@@ -23,7 +44,6 @@
 
   let itemIndex = []; // [{ el, entry, text }]
   let mainEl = null;
-  let tocUl = null;
 
   function normalizeUrl(u) {
     try {
@@ -62,6 +82,8 @@
 
   function matches(item) {
     if (active.search && !item.text.includes(active.search)) return false;
+    // Category: section slug. Strict — entry must be in one of the active categories.
+    if (active.category.size && !active.category.has(item.entry.section)) return false;
     // License: only filter entries that have a license value. Tutorials/channels
     // without license are treated as "does not apply" and shown.
     if (active.license.size && item.entry.license && !active.license.has(item.entry.license)) return false;
@@ -80,7 +102,7 @@
   }
 
   function anyFilterActive() {
-    return active.search || active.license.size || active.platform.size || active.workflow.size || active.output.size;
+    return active.search || active.category.size || active.license.size || active.platform.size || active.workflow.size || active.output.size;
   }
 
   function rangeFromHeading(heading, level) {
@@ -157,15 +179,30 @@
   }
 
   function syncToC() {
-    if (!tocUl) return;
-    const lis = tocUl.querySelectorAll('li');
-    for (const li of lis) {
-      const a = li.querySelector('a[href^="#"]');
-      if (!a) continue;
-      const targetId = decodeURIComponent(a.getAttribute('href').slice(1));
-      const target = document.getElementById(targetId);
-      if (!target) continue;
-      li.style.display = (target.style.display === 'none') ? 'none' : '';
+    const contents = document.getElementById('contents');
+    if (!contents) return;
+    // ToC is now a series of <details> blocks between Contents H2 and next H2.
+    let n = contents.nextElementSibling;
+    while (n && n.tagName !== 'H2') {
+      if (n.tagName === 'DETAILS') {
+        // Top-level section <details>
+        const sumA = n.querySelector(':scope > summary a[href^="#"]');
+        if (sumA) {
+          const targetId = decodeURIComponent(sumA.getAttribute('href').slice(1));
+          const target = document.getElementById(targetId);
+          if (target) n.style.display = (target.style.display === 'none') ? 'none' : '';
+        }
+        // Inner <li> subsection entries
+        const lis = n.querySelectorAll('li');
+        for (const li of lis) {
+          const a = li.querySelector('a[href^="#"]');
+          if (!a) continue;
+          const tid = decodeURIComponent(a.getAttribute('href').slice(1));
+          const target = document.getElementById(tid);
+          if (target) li.style.display = (target.style.display === 'none') ? 'none' : '';
+        }
+      }
+      n = n.nextElementSibling;
     }
   }
 
@@ -241,6 +278,7 @@
     clear.textContent = 'Clear';
     clear.addEventListener('click', () => {
       active.search = '';
+      active.category.clear();
       active.license.clear();
       active.platform.clear();
       active.workflow.clear();
@@ -253,16 +291,19 @@
 
     bar.appendChild(top);
 
-    makeGroup(bar, 'License', 'license', LICENSE_OPTIONS);
-    makeGroup(bar, 'Platform', 'platform', PLATFORM_OPTIONS, PLATFORM_LABELS);
+    // Category chips — front and center
+    makeGroup(bar, 'Category', 'category', CATEGORY_OPTIONS, CATEGORY_LABELS);
 
+    // Collapsible: license, platform, workflow, output
     const more = document.createElement('details');
     more.className = 'filter-more';
     const summary = document.createElement('summary');
-    summary.textContent = 'More filters (workflow, output)';
+    summary.textContent = 'More filters (license, platform, workflow, output)';
     more.appendChild(summary);
     const moreBody = document.createElement('div');
     more.appendChild(moreBody);
+    makeGroup(moreBody, 'License', 'license', LICENSE_OPTIONS);
+    makeGroup(moreBody, 'Platform', 'platform', PLATFORM_OPTIONS, PLATFORM_LABELS);
     makeGroup(moreBody, 'Workflow', 'workflow', WORKFLOW_OPTIONS);
     makeGroup(moreBody, 'Output', 'output', OUTPUT_OPTIONS);
     bar.appendChild(more);
@@ -275,13 +316,6 @@
 
   function init(data) {
     mainEl = document.querySelector('main') || document.body;
-    // Find ToC <ul> — the first <ul> after the "Contents" H2.
-    const contents = document.getElementById('contents');
-    if (contents) {
-      let n = contents.nextElementSibling;
-      while (n && n.tagName !== 'UL') n = n.nextElementSibling;
-      if (n) tocUl = n;
-    }
     decorate(data);
     buildUI();
   }

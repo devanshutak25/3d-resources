@@ -104,6 +104,62 @@
 .filter-more[open] summary::before { transform: rotate(90deg); }
 .filter-more summary:hover { color: var(--text); }
 
+/* ---------- Collapsible ToC ---------- */
+main > details {
+  margin: 0.25rem 0;
+  border-bottom: 1px solid var(--border);
+}
+main > details:last-of-type { border-bottom: none; }
+main > details > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 0.4rem 0.25rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text);
+  user-select: none;
+}
+main > details > summary::-webkit-details-marker { display: none; }
+main > details > summary::before {
+  content: '▸';
+  display: inline-block;
+  width: 1em;
+  color: var(--text-muted);
+  transition: transform 0.15s ease;
+}
+main > details[open] > summary::before { transform: rotate(90deg); }
+main > details > summary:hover { background: var(--bg-secondary); border-radius: 4px; }
+main > details > summary > a {
+  color: var(--link);
+  text-decoration: none;
+}
+main > details > summary > a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+main > details > ul {
+  margin: 0.2rem 0 0.6rem 2rem;
+  padding-left: 0.5rem;
+  border-left: 2px solid var(--border);
+}
+main > details > ul > li {
+  padding: 0.15rem 0;
+  list-style: disc;
+}
+
+/* ---------- Warning callout ---------- */
+.callout-warning {
+  background: #3a2f0a;
+  border-left: 4px solid #d4a017;
+  color: #f5e6a8;
+  padding: 0.6rem 1rem;
+  border-radius: 4px;
+  margin: 1rem 0;
+}
+.callout-warning p { margin: 0; }
+.callout-warning a { color: #ffd866; text-decoration: underline; }
+.callout-warning a:hover { color: #fff2b3; }
+
 /* Dark mode theme for 3D Resources */
 :root {
   --bg: #0d1117;
