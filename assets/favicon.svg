@@ -1,30 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <!-- Default cube - isometric wireframe -->
-  <g fill="none" stroke="#e8e8e8" stroke-width="2.5" stroke-linejoin="round">
-    <!-- Front face -->
-    <polygon points="32,14 50,24 50,44 32,54 14,44 14,24" fill="#1a1a2e"/>
-    <!-- Top face edges -->
-    <line x1="32" y1="14" x2="50" y2="24"/>
-    <line x1="32" y1="14" x2="14" y2="24"/>
-    <!-- Middle horizontal -->
-    <line x1="32" y1="34" x2="50" y2="24"/>
-    <line x1="32" y1="34" x2="14" y2="24"/>
-    <line x1="32" y1="34" x2="32" y2="54"/>
-    <!-- Bottom edges -->
-    <line x1="14" y1="24" x2="14" y2="44"/>
-    <line x1="50" y1="24" x2="50" y2="44"/>
-    <line x1="14" y1="44" x2="32" y2="54"/>
-    <line x1="50" y1="44" x2="32" y2="54"/>
-    <!-- Top face fill -->
-    <polygon points="32,14 50,24 32,34 14,24" fill="#2a2a4a" stroke="none"/>
-    <!-- Left face fill -->
-    <polygon points="14,24 32,34 32,54 14,44" fill="#1a1a2e" stroke="none"/>
-    <!-- Right face fill -->
-    <polygon points="50,24 32,34 32,54 50,44" fill="#22223a" stroke="none"/>
-    <!-- Wireframe overlay -->
-    <polygon points="32,14 50,24 50,44 32,54 14,44 14,24" fill="none" stroke="#e8e8e8"/>
-    <line x1="32" y1="34" x2="50" y2="24"/>
-    <line x1="32" y1="34" x2="14" y2="24"/>
-    <line x1="32" y1="34" x2="32" y2="54"/>
-  </g>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 28.25V35.75C2 41.9632 7.03685 47 13.25 47C13.25 51.1421 16.6079 54.5 20.75 54.5H24.5C28.6421 54.5 32 57.8579 32 62C32 57.8579 35.3579 54.5 39.5 54.5H43.25C47.3921 54.5 50.75 51.1421 50.75 47C56.9632 47 62 41.9632 62 35.75V28.25C62 22.0369 56.9632 17 50.75 17C50.75 12.8579 47.3921 9.5 43.25 9.5H39.5C35.3579 9.5 32 6.1421 32 2C32 6.1421 28.6421 9.5 24.5 9.5H20.75C16.6079 9.5 13.25 12.8579 13.25 17C7.03685 17 2 22.0369 2 28.25Z" fill="#EB4336"/>
+<path d="M32.0641 32.0339L45.0019 24.5153L44.9593 39.4775L32.0215 46.9961L32.0641 32.0339Z" fill="white"/>
+<path d="M19.0394 24.5183L31.9772 16.9997L45.0008 24.5188L32.063 32.0374L19.0394 24.5183Z" fill="#F8D04D"/>
+<path d="M32.0625 32.0639L32.0201 47.026L18.9966 39.5071L19.0391 24.5449L32.0625 32.0639Z" fill="#1C1C1C"/>
 </svg>
