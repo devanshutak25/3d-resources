@@ -296,6 +296,19 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+      - name: rileyb3d Library
+        url: https://rileyb3d.com/library
+        description: Free packed .blend files ready to use.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - blender
+        readme_tags:
+          - Blender
+          - .blend Packs
+        url_last_verified: '2026-04-20'
+        url_status: ok
       - name: CadNav
         url: https://www.cadnav.com/3d-models/
         description: Offers 3D models, likely with a focus on engineering and technical uses.

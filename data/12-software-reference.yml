@@ -990,10 +990,36 @@ subsections:
           - UI Animation
         url_last_verified: '2026-04-19'
         url_status: ok
+      - name: Autograph
+        url: https://www.maxon.net/en/autograph
+        description: USD-based motion graphics, compositing, and VFX (After Effects alternative). Free for individuals incl. commercial use. Originally Left Angle, now Maxon.
+        license: Free
+        entry_type: software
+        best_for: 2D/3D motion design and compositing
+        tags:
+          workflow:
+            - animation
+            - compositing
+            - fx
+          output:
+            - motion-graphics
+            - vfx
+          platform:
+            - win
+            - mac
+          tech:
+            - usd
+            - node-based
+        readme_tags:
+          - Maxon
+          - USD
+          - Free Commercial
+        url_last_verified: '2026-04-20'
+        url_status: ok
       - name: Cavalry
         url: https://cavalry.scenegroup.co/
-        description: Procedural 2D motion design (After Effects alternative).
-        license: Paid
+        description: Procedural 2D motion design (After Effects alternative). Free tier available.
+        license: Freemium
         entry_type: software
         best_for: Data-driven motion graphics
         tags:
