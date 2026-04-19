@@ -811,6 +811,26 @@ subsections:
         url: https://www.youtube.com/watch?v=J0MNbCf_4Tc
         description: Dan Cortes VFX.
         entry_type: channel
+      - name: Halo 5
+        url: https://www.youtube.com/watch?v=b7itmX6WlI4
+        description: and admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of CG today.
+        entry_type: channel
+      - name: 'SIGGRAPH 2021 REAC: Unity Rendering Architecture'
+        url: https://www.youtube.com/watch?v=6LzcXPIWUbc
+        description: 'SIGGRAPH 2021 REAC: Unity Rendering Architecture.'
+        entry_type: channel
+      - name: Next-Generation 3D Graphics on the Web
+        url: https://www.youtube.com/watch?v=K2JzIUIHIhc
+        description: Talk at Google I/O 19 from Ricardo Cabello (MrDoob).
+        entry_type: channel
+      - name: Formula Animations
+        url: https://www.youtube.com/watch?v=0ifChJ0nJfM
+        description: The principles of painting with maths.
+        entry_type: channel
+      - name: Steven Wittens
+        url: https://www.youtube.com/watch?v=4NkjLWAkYZ8
+        description: 'Full Stack Fest 2015: The Pixel Factory (Great visuals to gain insights into what''s going on with concepts such as UV''s, and Rastering)'
+        entry_type: channel
   - slug: youtube-sculpting-characters
     title: YouTube Channels — Sculpting & Characters
     description: Character and sculpting focused creators.
@@ -1375,6 +1395,82 @@ subsections:
         url: https://youtu.be/LDhN-JK3U9g
         description: '[demo] - not Unreal specific, more about maths.'
         entry_type: channel
+      - name: Tutorial from the authors of 3DGS
+        url: https://3dgstutorial.github.io/
+        description: Tutorial from the authors of 3DGS.
+        entry_type: tutorial
+      - name: Interactive 3D Graphics
+        url: https://classroom.udacity.com/courses/cs291
+        description: Udacity course that teach you the principles of 3D computer graphics.
+        entry_type: tutorial
+      - name: Create 3D Graphics in JS Using WebGL
+        url: https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl
+        description: Get started creating content with WebGL without any frameworks.
+        entry_type: tutorial
+      - name: Character Customization Tutorial
+        url: https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial
+        description: This is the finished project of part 4 of the tutorial series for using blendshapes for character customization in Unity3D.
+        entry_type: reference
+      - name: Roll A-Ball ECS Style
+        url: https://github.com/KptEmreU/Roll-A-Ball-ECS-style
+        description: Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
+        entry_type: reference
+      - name: Github
+        url: https://github.com/mixandjam
+        description: Unity video tutorials on Youtube.
+        entry_type: reference
+      - name: Computer Graphics
+        url: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/
+        description: ray tracing, animation, and so on at MIT in fall 2012
+        entry_type: tutorial
+      - name: 3D Computer Graphics Programming
+        url: https://pikuma.com/courses/learn-3d-computer-graphics-programming
+        description: Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language
+        entry_type: tutorial
+      - name: Vector Math for 3D Computer Graphics
+        url: http://programmedlessons.org/VectorLessons/
+        description: Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
+        entry_type: tutorial
+      - name: MIT Inverse Rendering Lectures (Module 2)
+        url: https://www.scenerepresentations.org/courses/inverse-graphics-23/
+        description: Academic deep dive into inverse rendering
+        entry_type: tutorial
+      - name: WebGL Academy
+        url: https://www.webglacademy.com/
+        description: Learn WebGL and 3D algorithmic in a progressive and interactive way.
+        entry_type: tutorial
+      - name: Getting Started with 3DGS for Windows
+        url: https://youtu.be/UXtuigy_wYc?si=j1vfORNspcocSH-b
+        description: Getting Started with 3DGS for Windows.
+        entry_type: channel
+      - name: How to view 3DGS Scenes in Unity
+        url: https://youtu.be/5_GaPYBHqOo?si=6u9j1HqXwF_5WSUL
+        description: How to view 3DGS Scenes in Unity.
+        entry_type: channel
+      - name: Two-minute explanation of 3DGS
+        url: https://youtu.be/HVv_IQKlafQ?si=w5c9XKHfKIBuXDLW
+        description: Two-minute explanation of 3DGS.
+        entry_type: channel
+      - name: Computerphile 3DGS explanation
+        url: https://youtu.be/VkIJbpdTujE?si=1GLjzBfF9LCuT22o
+        description: Computerphile 3DGS explanation.
+        entry_type: channel
+      - name: 'Lecture 18: Monte Carlo Rendering (CMU 15-462/662)'
+        url: https://youtu.be/FUZJNlRqrAc
+        description: Including a very good introduction of importance sampling.
+        entry_type: channel
+      - name: Animation Programming Basics
+        url: https://youtu.be/Jkv0pbp0ckQ
+        description: Animation Programming Basics.
+        entry_type: channel
+      - name: Animation Graphs
+        url: https://youtu.be/R-T3Mk5oDHI
+        description: Animation Graphs.
+        entry_type: channel
+      - name: OpenGL 3D Game Tutorials
+        url: https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
+        description: Beginners tutorial series about creating 3D games OpenG.
+        entry_type: channel
   - slug: patreon-creators
     title: Patreon Creators
     description: Creators on Patreon offering tutorials, files, and tips.
@@ -1891,6 +1987,74 @@ subsections:
         url: https://docs.blender.org/api/current/
         description: Official Blender Python API Documentation.
         entry_type: community
+      - name: Casual GAN Papers Reading Club
+        url: https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8
+        description: Community knowledge base for Casual GAN Papers
+        entry_type: community
+      - name: Chrome Experiments
+        url: https://www.chromeexperiments.com/
+        description: Showcase of web experiments written by the creative coding community.
+        entry_type: community
+      - name: Poly Expand 3D
+        url: https://forums.odforce.net/topic/50955-polyexpand3d/
+        description: Poly Expand 3D.
+        entry_type: community
+      - name: ALS-Community
+        url: https://github.com/dyanikoglu/ALS-Community
+        description: Replicated and optimized community version of Advanced Locomotion System V4
+        entry_type: reference
+      - name: 'ViroCore: A cross-platform AR/VR renderer'
+        url: https://github.com/ViroCommunity/virocore
+        description: 'and [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)'
+        entry_type: tool
+      - name: microsoft/JARVIS
+        url: https://github.com/microsoft/JARVIS
+        description: JARVIS, a system to connect LLMs with ML community
+        entry_type: reference
+      - name: UE4-Plugin-Resources
+        url: https://github.com/Sythenz/UE4-Plugin-Resources
+        description: A list of community resources for Slate, Graphs, and UE4 Plugin Development.
+        entry_type: reference
+      - name: MassSample
+        url: https://github.com/Megafunk/MassSample
+        description: Community Mass Sample
+        entry_type: reference
+      - name: github/awesome-copilot
+        url: https://github.com/github/awesome-copilot
+        description: Community instructions and prompts for GitHub Copilot.
+        entry_type: reference
+      - name: Harmonai
+        url: https://www.harmonai.org/
+        description: We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
+        entry_type: community
+      - name: ofBook
+        url: https://openframeworks.cc/ofBook/chapters/foreword.html
+        description: Community-written book/guide on openFrameworks.
+        entry_type: community
+      - name: promptoMANIA
+        url: https://promptomania.com/
+        description: AI art community with prompt generator
+        entry_type: community
+      - name: Promptstacks
+        url: https://www.promptstacks.com/
+        description: a prompt engineering community
+        entry_type: community
+      - name: realtimevfx.com
+        url: https://realtimevfx.com/
+        description: Real Time VFX Community.
+        entry_type: community
+      - name: PromptDesign | Reddit
+        url: https://www.reddit.com/r/PromptDesign/
+        description: Reddit community for "the art of communicating with natural language models"
+        entry_type: community
+      - name: WebVR Community Group
+        url: https://www.w3.org/community/immersive-web/
+        description: Group who's goal is to help bring high-performance Virtual Reality to the open Web.
+        entry_type: community
+      - name: Unity Integration Guide
+        url: https://www.youtube.com/watch?v=pM_HV2TU4rU&t=5298s
+        description: Metaverse Standards Forum 5/6/2025
+        entry_type: channel
   - slug: inspiration-showcase
     title: 3D Inspiration & Showcase
     description: Showcases, portfolios, and visual reference hubs.
@@ -2051,6 +2215,78 @@ subsections:
         url: https://vimeo.com/amovfx
         description: Amovfx.
         entry_type: inspiration
+      - name: The Pixel Factory
+        url: http://acko.net/files/gltalks/pixelfactory/online.html
+        description: Talk about WebGL, GPUs and Math by Steven Wittens.
+        entry_type: reference
+      - name: 3D Maths Cheat Sheet
+        url: http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf
+        description: Math cheatsheet by Anton Gerdelan, from his OpenGL book.
+        entry_type: reference
+      - name: Writing a small software renderer
+        url: http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html
+        description: Really good introduction to how basic software rendering works.
+        entry_type: reference
+      - name: Quartz Composer
+        url: https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html
+        description: '[Mac] - Development tool for processing and rendering graphical data.'
+        entry_type: reference
+      - name: 'Gene Kogan: Perlin Noise'
+        url: http://genekogan.com/code/p5js-perlin-noise/
+        description: introduction to 2D and 3D perlin noise.
+        entry_type: reference
+      - name: Maths & trigonometry cheat sheet for 2D & 3D games
+        url: https://gist.github.com/xem/99930986c5333125a13b0ea50600391f
+        description: Maths cheat-sheet for 2D and 3D game-makers.
+        entry_type: reference
+      - name: Leaf Pic
+        url: https://github.com/HoraApps/LeafPic/
+        description: Material-designed android gallery alternative.
+        entry_type: reference
+      - name: Graphics Programming Projects
+        url: https://graphicscodex.com/projects/projects/index.html
+        description: Book about 3D computational graphics by Morgan McGuire.
+        entry_type: reference
+      - name: Introduction to Ray Tracing
+        url: http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
+        description: A simple method for creating 3D images.
+        entry_type: reference
+      - name: Foundation HTML5 Animation with JavaScript
+        url: https://link.springer.com/book/10.1007/978-1-4302-3666-5
+        description: Everything you need to know to create animation using the HTML5 canvas.
+        entry_type: reference
+      - name: Physics for JavaScript Games, Animation, and Simulations
+        url: https://link.springer.com/book/10.1007/978-1-4302-6338-8
+        description: Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
+        entry_type: reference
+      - name: NAP
+        url: https://nap-framework.tech/
+        description: '[Cross-platform] - Open source data-driven real-time control & visualization platform suited for professional installations in C++, incl. Vulkan renderer.'
+        entry_type: reference
+      - name: Three.js Basics
+        url: https://www.realtimerendering.com/basics3js/#1
+        description: Introduction to Three.js by Eric Haines.
+        entry_type: reference
+      - name: shoebot
+        url: https://shoebot.github.io/
+        description: '[Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.'
+        entry_type: reference
+      - name: Smode
+        url: https://smode.fr/
+        description: '[Win] - A real-time 2D/3D creation, compositing and video-mapping engine.'
+        entry_type: reference
+      - name: Structure Synth
+        url: http://structuresynth.sourceforge.net/
+        description: '[Cross-platform] - Application for generating 3D structures by specifying a design grammar.'
+        entry_type: reference
+      - name: Mathematics of Animation
+        url: https://winkervsbecks.github.io/mathematics-of-animation/#/
+        description: Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
+        entry_type: reference
+      - name: Zdog
+        url: https://zzz.dog/
+        description: A pseudo-3D engine for canvas & SVG.
+        entry_type: reference
   - slug: architecture-viz
     title: Architecture & Visualization
     description: Arch-viz inspiration and BIM.

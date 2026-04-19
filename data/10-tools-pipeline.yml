@@ -359,6 +359,54 @@ subsections:
         url: http://www.tokeru.com/cgwiki/
         description: cgwiki.
         entry_type: tool
+      - name: (2011) A trip through the graphics pipeline
+        url: https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index
+        description: by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
+        entry_type: software
+      - name: BoatAttack
+        url: https://github.com/Verasl/BoatAttack
+        description: Demo Project using the Lightweight Render Pipeline from Unity3D.
+        entry_type: reference
+      - name: BlenderProc
+        url: https://github.com/DLR-RM/BlenderProc
+        description: A procedural Blender pipeline for photorealistic training image generation.
+        entry_type: reference
+      - name: Gaffer
+        url: https://github.com/GafferHQ/gaffer
+        description: Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.
+        entry_type: reference
+      - name: OBS
+        url: https://github.com/obsproject/obs-studio
+        description: software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
+        entry_type: reference
+      - name: QtWebengine
+        url: https://github.com/qt/qtwebengine
+        description: Render web content in Qt.
+        entry_type: reference
+      - name: MayaCharm
+        url: https://github.com/cmcpasserby/MayaCharm
+        description: Run and edit Maya scripts directly from PyCharm
+        entry_type: reference
+      - name: MayaSublime
+        url: https://github.com/justinfx/MayaSublime
+        description: Run and edit Maya scripts directly from SublimeText
+        entry_type: reference
+      - name: VEX
+        url: https://github.com/teared/VEX
+        description: Houdini add-on for Sublime Text
+        entry_type: reference
+      - name: nuke.vim
+        url: https://github.com/heavyimage/nuke.vim
+        description: Run and edit Nuke scripts directly from vim
+        entry_type: reference
+      - name: LLM App
+        url: https://github.com/pathwaycom/llm-app
+        description: LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+        entry_type: tool
+      - name: shashikg/WhisperS2T
+        url: https://github.com/shashikg/WhisperS2T
+        description: An Optimized Speech-to-Text Pipeline for the Whisper Model
+        entry_type: reference
   - slug: gaussian-splatting-nerf
     title: Gaussian Splatting & NeRF
     description: Neural and splatting reconstruction.
@@ -412,6 +460,170 @@ subsections:
         readme_tags:
           - Motion Recon
           - Research
+      - name: 'Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion'
+        url: https://3d-avatar-diffusion.microsoft.com/
+        description: ', Wang et al., CVPR 2023 | [github](https://3d-avatar-diffusion.microsoft.com/) | [bibtex](./citations/rodin.txt)'
+        entry_type: reference
+      - name: PlenOctrees for Real-time Rendering of Neural Radiance Fields
+        url: https://alexyu.net/plenoctrees/
+        description: ', Yu et al., Arxiv 2021 | [github](https://github.com/sxyu/volrend) | [bibtex](./citations/plenoctrees.txt) <!---yu2021plenoctrees-->'
+        entry_type: reference
+      - name: 'BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects'
+        url: https://bundlesdf.github.io/
+        description: ', Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF) | [bibtex](./citations/bundlesdf.txt)'
+        entry_type: reference
+      - name: Learning Neural Transmittance for Efficient Rendering of Reflectance Fields
+        url: https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html
+        description: ', Mohammad Shafiei et al., BMVC 2021 | [bibtex](./citations/NeuralTransmittance.txt)'
+        entry_type: reference
+      - name: 'DyLiN: Making Light Field Networks Dynamic'
+        url: https://dylin2023.github.io/
+        description: ', Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN) | [bibtext](./citations/dylin.txt) <!---yu2023dylin-->'
+        entry_type: reference
+      - name: 'DynIBaR: Neural Dynamic Image-Based Rendering'
+        url: https://dynibar.github.io/
+        description: ', Li et al., CVPR 2023 | [bibtex](./citations/DynIBaR.txt)'
+        entry_type: reference
+      - name: UV Volumes for Real-time Rendering of Editable Free-view Human Performance
+        url: https://fanegg.github.io/UV-Volumes/
+        description: ', Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes) | [bibtex](citations/UV-Volumes.txt) <!---Chen22arxiv_uvvolumes-->'
+        entry_type: reference
+      - name: Visu3d
+        url: https://github.com/google-research/visu3d
+        description: ', [@google](https://github.com/google-research), 2022'
+        entry_type: reference
+      - name: Taichi 3D GS
+        url: https://github.com/wanmeihuali/taichi_3d_gaussian_splatting
+        description: Taichi      | Apache-2.0 | Taichi-based implementation     |
+        entry_type: reference
+      - name: Warp 3DGS
+        url: https://github.com/guoriyue/3dgs-warp-scratch
+        description: Warp/Python | AGPL-3.0   | Warp-based implementation       |
+        entry_type: reference
+      - name: Pointrix
+        url: https://github.com/pointrix-project/pointrix
+        description: Differentiable point-based rendering
+        entry_type: reference
+      - name: Unity Plugin
+        url: https://github.com/aras-p/UnityGaussianSplatting
+        description: Unity Plugin.
+        entry_type: reference
+      - name: Unity Plugin (gsplat-unity)
+        url: https://github.com/wuyize25/gsplat-unity
+        description: Unity Plugin (gsplat-unity).
+        entry_type: reference
+      - name: Unity Plugin (DynGsplat-unity)
+        url: https://github.com/HiFi-Human/DynGsplat-unity
+        description: For dynamic splattings
+        entry_type: reference
+      - name: Unreal Plugin (MLSLabsGaussianSplattingRenderer-UE)
+        url: https://github.com/mlslabs/MLSLabsGaussianSplattingRenderer-UE
+        description: Unreal Plugin (MLSLabsGaussianSplattingRenderer-UE).
+        entry_type: reference
+      - name: Unreal Plugin (XV3DGS-UEPlugin)
+        url: https://github.com/xverse-engine/XV3DGS-UEPlugin
+        description: Unreal Plugin (XV3DGS-UEPlugin).
+        entry_type: reference
+      - name: DearGaussianGUI
+        url: https://github.com/leviome/DearGaussianGUI
+        description: DearGaussianGUI.
+        entry_type: reference
+      - name: Blender Add-on
+        url: https://github.com/ReshotAI/gaussian-splatting-blender-addon
+        description: Blender Add-on.
+        entry_type: reference
+      - name: Blender Add-on (KIRI)
+        url: https://github.com/Kiri-Innovation/3dgs-render-blender-addon
+        description: Blender Add-on (KIRI).
+        entry_type: reference
+      - name: Blender Add-on (404—GEN)
+        url: https://github.com/404-Repo/three-gen-blender-plugin
+        description: Blender Add-on (404—GEN).
+        entry_type: reference
+      - name: GSOPs for Houdini
+        url: https://github.com/david-rhodes/GSOPs
+        description: Houdini integration tools
+        entry_type: reference
+      - name: Blender (Editor)
+        url: https://github.com/ReshotAI/gaussian-splatting-blender-addon/tree/master
+        description: Blender (Editor).
+        entry_type: reference
+      - name: 3DGS.cpp
+        url: https://github.com/shg8/3DGS.cpp
+        description: cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS
+        entry_type: reference
+      - name: vkgs
+        url: https://github.com/jaesung-cs/vkgs
+        description: cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics
+        entry_type: reference
+      - name: spaTV
+        url: https://github.com/antimatter15/splaTV
+        description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo [here](http://antimatter15.com/splaTV/)
+        entry_type: reference
+      - name: splatviz
+        url: https://github.com/Florian-Barthel/splatviz
+        description: Viewer that allows you to edit the rendering code during runtime or to display multiple scenes at once.
+        entry_type: reference
+      - name: SpectacularAI
+        url: https://github.com/SpectacularAI/point-cloud-tools
+        description: Conversion scripts for different 3DGS conventions
+        entry_type: reference
+      - name: msplat
+        url: https://github.com/pointrix-project/msplat
+        description: A modular differential gaussian rasterization library.
+        entry_type: tool
+      - name: 3DGS Introduction
+        url: https://huggingface.co/blog/gaussian-splatting
+        description: HuggingFace guide
+        entry_type: reference
+      - name: 'IBRNet: Learning Multi-View Image-Based Rendering'
+        url: https://ibrnet.github.io/static/paper.pdf
+        description: ', Wang et al., CVPR 2021 | [github](https://github.com/googleinterns/IBRNet) | [bibtex](./citations/ibr.txt)'
+        entry_type: reference
+      - name: 'TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels'
+        url: https://jaminfong.cn/tineuvox/
+        description: ', Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) | [bibtex](./citations/TiNeuVox.txt)'
+        entry_type: reference
+      - name: Neural Rays for Occlusion-aware Image-based Rendering
+        url: https://liuyuan-pal.github.io/NeuRay/
+        description: ', Liu et al., Arxiv 2021 | [bibtex](./citations/neuray.txt)'
+        entry_type: reference
+      - name: PyTorch Implementation
+        url: https://myasincifci.github.io/
+        description: Curated implementation of Vanilla 3DGS in PyTorch
+        entry_type: reference
+      - name: Neural 3D Video Synthesis from Multi-view Video
+        url: https://neural-3d-video.github.io/
+        description: ', Li et al., CVPR 2022 | [bibtex](./citations/3d-video.txt)'
+        entry_type: reference
+      - name: 'Ponder: Point Cloud Pre-training via Neural Rendering'
+        url: https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Ponder_Point_Cloud_Pre-training_via_Neural_Rendering_ICCV_2023_paper.html
+        description: ', Huang et al., ICCV 2023 | [bibtex](./citations/ponder.txt)'
+        entry_type: reference
+      - name: 'Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion'
+        url: https://www.robots.ox.ac.uk/~vgg/research/contrastive-lift/
+        description: ', Bhalgat et al., NeurIPS 2023 (**Spotlight**) | [bibtex](./citations/contrastive-lift.txt)'
+        entry_type: reference
+      - name: Generative Occupancy Fields for 3D Surface-Aware Image Synthesis
+        url: https://sheldontsui.github.io/projects/GOF
+        description: ', Xu et al., NeurIPS 2021 | [github](https://github.com/SheldonTsui/GOF_NeurIPS2021) | [bibtex](./citations/gof.txt)'
+        entry_type: reference
+      - name: 'Gaussian Head Avatars: A Summary'
+        url: https://towardsdatascience.com/gaussian-head-avatars-a-summary-2bd17bd48500
+        description: 'Gaussian Head Avatars: A Summary.'
+        entry_type: reference
+      - name: 'PVA: Pixel-aligned Volumetric Avatars'
+        url: https://volumetric-avatars.github.io/
+        description: ', Raj et al., CVPR 2021 | [bibtex](./citations/pva.txt)'
+        entry_type: reference
+      - name: A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis
+        url: https://xingangpan.github.io/projects/ShadeGAN.html
+        description: ', Pan et al., NeurIPS 2021 | [github](https://github.com/XingangPan/ShadeGAN) | [bibtex](./citations/shadegan.txt)'
+        entry_type: reference
+      - name: 'Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans'
+        url: https://zju3dv.github.io/neuralbody/
+        description: ', Peng et al., CVPR 2021 | [github](https://github.com/zju3dv/neuralbody) | [bibtex](citations/neuralbody.txt) <!---Peng20arxiv_neuralbody-->'
+        entry_type: reference
   - slug: photogrammetry-scanning
     title: Photogrammetry & 3D Scanning
     description: Photogrammetry, LiDAR, and Gaussian splat capture.
@@ -580,6 +792,490 @@ subsections:
         url: https://www.3dflow.net/3df-zephyr-free/
         description: is free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations.
         entry_type: software
+      - name: 3D Neural Scene Representations for Visuomotor Control
+        url: https://3d-representation-learning.github.io/nerf-dy/
+        description: ', Li et al., CoRL 2021 Oral | [bibtex](./citations/nerf-dy.txt)'
+        entry_type: software
+      - name: 'Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis'
+        url: https://www.ajayj.com/dietnerf
+        description: ', Matthew Tancik et al., Arxiv 2021 | [bibtex](./citations/DietNeRF.txt)'
+        entry_type: software
+      - name: 'D-NeRF: Neural Radiance Fields for Dynamic Scenes'
+        url: https://www.albertpumarola.com/research/D-NeRF/index.html
+        description: ', Pumarola et al., CVPR 2021 | [github](https://github.com/albertpumarola/D-NeRF) | [bibtex](./NeRF-and-Beyond.bib#L214-L220) <!---Pumarola20arxiv_D_NeRF-->'
+        entry_type: software
+      - name: 'MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo'
+        url: https://apchenstu.github.io/mvsnerf/
+        description: ', Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf) | [bibtex](./citations/mvsnerf.txt)'
+        entry_type: software
+      - name: Gaussian Splatting is pretty cool
+        url: https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/
+        description: Gaussian Splatting is pretty cool.
+        entry_type: software
+      - name: Making Gaussian Splats smaller
+        url: https://aras-p.info/blog/2023/09/13/Making-Gaussian-Splats-smaller/
+        description: Making Gaussian Splats smaller.
+        entry_type: software
+      - name: Making Gaussian Splats more smaller
+        url: https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/
+        description: Making Gaussian Splats more smaller.
+        entry_type: software
+      - name: 'Neural Volume Rendering: NeRF And Beyond'
+        url: https://arxiv.org/abs/2101.05204
+        description: ', Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/) | [github](https://raw.githubusercontent.com/yenchenlin/awesome-NeRF/main/NeRF-and-Beyond.bib) | [bibtex](https://github.'
+        entry_type: reference
+      - name: 'NeRF: Neural Radiance Field in 3D Vision, Introduction and Review'
+        url: https://arxiv.org/abs/2210.00379
+        description: ', Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li'
+        entry_type: software
+      - name: 'DeRF: Decomposed Radiance Fields'
+        url: https://arxiv.org/abs/2011.12490
+        description: ', Rebain et al. Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L222-L228) <!---Rebain20arxiv_derf-->'
+        entry_type: software
+      - name: 'FastNeRF: High-Fidelity Neural Rendering at 200FPS'
+        url: https://arxiv.org/abs/2103.10380
+        description: ', Garbin et al., Arxiv 2021 | [bibtex](./citations/fastnerf.txt) <!---Garbin21arxiv_FastNeRF-->'
+        entry_type: software
+      - name: 'KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs'
+        url: https://arxiv.org/abs/2103.13744
+        description: ', Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf) | [bibtex](./citations/kilonerf.txt) <!---reiser2021kilonerf-->'
+        entry_type: software
+      - name: 'RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering'
+        url: https://arxiv.org/abs/2212.01120
+        description: ', Li et al., ICCAD 2022 | [bibtex](./citations/rt-nerf.txt)'
+        entry_type: software
+      - name: 'Depth-supervised NeRF: Fewer Views and Faster Training for Free'
+        url: https://arxiv.org/pdf/2107.02791.pdf
+        description: ', Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF) | [bibtex](./citations/dsnerf.txt)'
+        entry_type: software
+      - name: 'Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving'
+        url: https://arxiv.org/pdf/2403.05907v1.pdf
+        description: ', Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF) | [bibtex](./citations/lightning-nerf.txt)'
+        entry_type: software
+      - name: 'CLA-NeRF: Category-Level Articulated Neural Radiance Field'
+        url: https://arxiv.org/abs/2202.00181
+        description: ', Tseng et al., ICRA 2022 | [bibtex](./citations/cla-nerf.txt)'
+        entry_type: software
+      - name: Animatable Neural Radiance Fields from Monocular RGB Videos
+        url: https://arxiv.org/abs/2106.13629
+        description: ', Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF) | [bibtex](citations/anim_nerf.txt)'
+        entry_type: software
+      - name: 'GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis'
+        url: https://arxiv.org/abs/2007.02442
+        description: ', Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf)  | [bibtex](./NeRF-and-Beyond.bib#L237-L243) <!---Schwarz20neurips_graf-->'
+        entry_type: software
+      - name: 'GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering'
+        url: https://arxiv.org/abs/2010.04595
+        description: ', Trevithick and Yang, Arxiv 2020 | [github](https://github.com/alextrevithick/GRF) | [bibtex](./NeRF-and-Beyond.bib#L291-L297) <!---Trevithick20arxiv_GRF-->'
+        entry_type: software
+      - name: 'pixelNeRF: Neural Radiance Fields from One or Few Images'
+        url: https://arxiv.org/abs/2012.02190
+        description: ', Yu et al., CVPR 2021 | [github](https://github.com/sxyu/pixel-nerf) | [bibtex](./NeRF-and-Beyond.bib#L329-L335) <!---Yu20arxiv_pixelNeRF-->'
+        entry_type: software
+      - name: Learned Initializations for Optimizing Coordinate-Based Neural Representations
+        url: https://arxiv.org/abs/2012.02189
+        description: ', Tancik et al., CVPR 2021 | [github](https://github.com/tancik/learnit) | [bibtex](./NeRF-and-Beyond.bib#L268-L274) <!---Tancik20arxiv_meta-->'
+        entry_type: software
+      - name: 'NeRF-VAE: A Geometry Aware 3D Scene Generative Model'
+        url: https://arxiv.org/pdf/2104.00587.pdf
+        description: ', Kosiorek et al., Arxiv 2021 | [bibtex](./citations/nerf-vae.txt)'
+        entry_type: software
+      - name: 'SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes'
+        url: https://arxiv.org/abs/2304.08971
+        description: ', Gao et al., CVPR 2023 | [github](https://gymat.github.io/SurfelNeRF-web/) | [bibtex](./citations/SurfelNeRF.txt)'
+        entry_type: software
+      - name: 'NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes'
+        url: https://arxiv.org/abs/2308.12967
+        description: ', Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360) | [bibtex](./citations/SurfelNeRF.txt)'
+        entry_type: software
+      - name: 'X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360° Insufficient RGB-D Views'
+        url: https://arxiv.org/abs/2210.05135
+        description: ', Zhu et al., WACV 2023 | [github](https://github.com/HaoyiZhu/XNeRF) | [bibtex](./citations/x-nerf.txt)'
+        entry_type: software
+      - name: 'GNeRF: GAN-based Neural Radiance Field without Posed Camera'
+        url: https://arxiv.org/abs/2103.15606
+        description: ', Meng et al., Arxiv 2021 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/gnerf.txt)'
+        entry_type: software
+      - name: 'GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation'
+        url: https://arxiv.org/abs/2204.05735
+        description: ', Chng et al., ECCV 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/garf.txt)'
+        entry_type: software
+      - name: 'Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields'
+        url: https://arxiv.org/abs/2209.09050
+        description: ', Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF) | [bibtex](./citations/locnerf.txt)'
+        entry_type: software
+      - name: 'CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation'
+        url: https://arxiv.org/abs/2303.04869
+        description: ', Moreau et al., ICCV 2023 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/crossfire.txt)'
+        entry_type: software
+      - name: 'KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination'
+        url: https://arxiv.org/abs/2206.10885
+        description: ', Esposito et al., Arxiv 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/kiloneus.txt)'
+        entry_type: software
+      - name: 'NeRF++: Analyzing and Improving Neural Radiance Fields'
+        url: https://arxiv.org/abs/2010.07492
+        description: ', Zhang et al., Arxiv 2020 | [github](https://github.com/Kai-46/nerfplusplus) | [bibtex](./NeRF-and-Beyond.bib#L345-L351) <!---Zhang20arxiv_nerf++-->'
+        entry_type: software
+      - name: 'GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields'
+        url: https://arxiv.org/abs/2011.12100
+        description: ', Niemeyer et al., CVPR 2021, [bibtex](./NeRF-and-Beyond.bib#L175-L181) <!---Niemeyer20arxiv_GIRAFFE-->'
+        entry_type: software
+      - name: Local 3D Editing via 3D Distillation of CLIP Knowledge
+        url: https://arxiv.org/abs/2306.12570
+        description: ', Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io)  | [bibtex](./citations/lenerf.txt)'
+        entry_type: software
+      - name: 'NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields'
+        url: https://arxiv.org/pdf/2404.01300
+        description: ', Irshad et al., ECCV 2024 | [bibtex](./citations/nerf-mae.txt)'
+        entry_type: software
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2208.07227
+        description: '[💻 Code](https://github.com/vLAR-group/DM-NeRF)'
+        entry_type: software
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2401.01647
+        description: '[🌐 Project Page](https://signerf.jdihlmann.com/) | [💻 Code](https://github.com/cgtuebingen/SIGNeRF)'
+        entry_type: software
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2401.05750
+        description: '[🌐 Project Page](https://daipengwa.github.io/GO-NeRF/)'
+        entry_type: software
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2402.00864v1
+        description: '[💻 Code](https://github.com/Dongjiahua/VICA-NeRF)'
+        entry_type: software
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2402.14792
+        description: '[🌐 Project Page](https://qnerf-consolidation.github.io/qnerf-consolidation/)'
+        entry_type: software
+      - name: Compressing Gaussian Splats
+        url: https://blog.playcanvas.com/compressing-gaussian-splats/
+        description: Compressing Gaussian Splats.
+        entry_type: software
+      - name: 'NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images'
+        url: https://bmild.github.io/rawnerf/
+        description: ', Ben Mildenhall et al, arXiv 2021 | [bibtex](./citations/rawnerf.txt)'
+        entry_type: software
+      - name: 'CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields'
+        url: https://cassiepython.github.io/clipnerf/
+        description: ', Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF)  | [bibtex](./citations/clipnerf.txt)'
+        entry_type: software
+      - name: '3D in Geospatial: NeRFs, Gaussian Splatting, and Spatial Computing'
+        url: https://ckoziol.com/blog/2024/radiance_methods/
+        description: '3D in Geospatial: NeRFs, Gaussian Splatting, and Spatial Computing.'
+        entry_type: software
+      - name: 'AutoInt: Automatic Integration for Fast Neural Volume Rendering'
+        url: http://www.computationalimaging.org/publications/automatic-integration/
+        description: ', Lindell et al., CVPR 2021 | [github](https://github.com/computational-imaging/automatic-integration) | [bibtex](./NeRF-and-Beyond.bib#L127-L133) <!---Lindell20arxiv_AutoInt-->'
+        entry_type: software
+      - name: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes
+        url: http://www.cs.cornell.edu/~zl548/NSFF/
+        description: ', Li et al., CVPR 2021 | [github](https://github.com/zhengqili/Neural-Scene-Flow-Fields) | [bibtex](./NeRF-and-Beyond.bib#L119-L125) <!---Li20arxiv_nsff-->'
+        entry_type: software
+      - name: 'DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks'
+        url: https://depthoraclenerf.github.io/
+        description: ', Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF) | [bibtex](./citations/donerf.txt) <!---neff2021donerf-->'
+        entry_type: software
+      - name: 'DFNet: Enhance Absolute Pose Regression with Direct Feature Matching'
+        url: https://dfnet.active.vision/
+        description: ', Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/dfnet.txt)'
+        entry_type: software
+      - name: Editing Conditional Radiance Fields
+        url: http://editnerf.csail.mit.edu/
+        description: ', Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf) | [bibtex](./citations/editnerf.txt)'
+        entry_type: software
+      - name: NeRFs vs. 3DGS
+        url: https://edwardahn.me/writing/NeRFvs3DGS/
+        description: NeRFs vs. 3DGS.
+        entry_type: software
+      - name: 'FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling'
+        url: https://fig-nerf.github.io/
+        description: ', Xie et al., Arxiv 2021 | [bibtex](./citations/fig-nerf.txt)'
+        entry_type: software
+      - name: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction
+        url: https://gafniguy.github.io/4D-Facial-Avatars/
+        description: ', Gafni et al., CVPR 2021 | [github](https://github.com/gafniguy/4D-Facial-Avatars) | [bibtex](./NeRF-and-Beyond.bib#L87-L93) <!---Gafni20arxiv_DNRF-->'
+        entry_type: software
+      - name: Photogrammetry Importer
+        url: https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer
+        description: Addon to import different photogrammetry formats into Blender.
+        entry_type: reference
+      - name: Photogrammetry Guide
+        url: https://github.com/mikeroyal/Photogrammetry-Guide
+        description: A guide covering Photogrammetry including the applications, libraries and tools that will make you a better and more efficient Photogrammetry development.
+        entry_type: reference
+      - name: NeRF
+        url: https://github.com/bmild/nerf
+        description: ', Mildenhall et al., 2020 | [bibtex](./NeRF-and-Beyond.bib#L168-L173)'
+        entry_type: reference
+      - name: NeRF-PyTorch
+        url: https://github.com/yenchenlin/nerf-pytorch
+        description: ', Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)'
+        entry_type: reference
+      - name: NeRF-PyTorch-Lighting
+        url: https://github.com/kwea123/nerf_pl
+        description: ', [@kwea123](https://github.com/kwea123), 2020'
+        entry_type: reference
+      - name: NeRF-W
+        url: https://github.com/kwea123/nerf_pl/tree/nerfw
+        description: ', [@kwea123](https://github.com/kwea123), 2021'
+        entry_type: reference
+      - name: NeRF-PyTorch3D
+        url: https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf
+        description: ', [@facebookresearch](https://github.com/facebookresearch), 2020'
+        entry_type: reference
+      - name: JaxNeRF
+        url: https://github.com/google-research/google-research/tree/master/jaxnerf
+        description: ', Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60)'
+        entry_type: reference
+      - name: Mip-NeRF
+        url: https://github.com/google/mipnerf
+        description: ', [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)'
+        entry_type: reference
+      - name: MrNeRF
+        url: https://github.com/MrNeRF/awesome-3D-gaussian-splatting
+        description: for inspiring me to construct this repo.
+        entry_type: reference
+      - name: Nerfstudio gsplat
+        url: https://github.com/nerfstudio-project/gsplat
+        description: Python/CUDA | Apache-2.0 | Integration with Nerfstudio     |
+        entry_type: reference
+      - name: Gaussian Splatting 3D
+        url: https://github.com/heheyas/gaussian_splatting_3d
+        description: Python/CUDA    |            |
+        entry_type: reference
+      - name: 3D Gaussian Splatting
+        url: https://github.com/WangFeng18/3d-gaussian-splatting
+        description: Python/CUDA    | MIT        |
+        entry_type: reference
+      - name: 3D Gaussian Splatting
+        url: https://github.com/joeyan/gaussian_splatting
+        description: Python/CUDA    | MIT        |
+        entry_type: reference
+      - name: 'Direct Gaussian Style Optimization (DGSO): Stylizing 3D Gaussian Splats'
+        url: https://github.com/An-u-rag/stylized-gaussian-splatting
+        description: Applying style transfer during gaussian optimization to produce stylized gaussian splats of a scene.
+        entry_type: reference
+      - name: Nerfstudio Unofficial
+        url: https://github.com/yzslab/nerfstudio/tree/gaussian_splatting
+        description: Nerfstudio Unofficial.
+        entry_type: reference
+      - name: Nerfstudio Viser
+        url: https://github.com/nerfstudio-project/viser
+        description: Nerfstudio Viser.
+        entry_type: reference
+      - name: gaussian-splatting-lightning
+        url: https://github.com/yzslab/gaussian-splatting-lightning
+        description: A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
+        entry_type: tool
+      - name: 360-gaussian-splatting
+        url: https://github.com/inuex35/360-gaussian-splatting
+        description: Generate gaussian splatting directly from 360 images
+        entry_type: reference
+      - name: Leonid Keselman
+        url: https://github.com/leonidk
+        description: for informing me about the release of the paper "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting".
+        entry_type: reference
+      - name: 'HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video'
+        url: https://grail.cs.washington.edu/projects/humannerf/
+        description: ', Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf) | [bibtex](./citations/humannerf.txt)'
+        entry_type: software
+      - name: 'Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video'
+        url: https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/
+        description: ', Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf) | [bibtex](./NeRF-and-Beyond.bib#L283-L289) <!---Tretschk20arxiv_NR-NeRF-->'
+        entry_type: software
+      - name: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields
+        url: https://hypernerf.github.io/
+        description: ', Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf) | [bibtex](./citations/hypernerf.txt)'
+        entry_type: software
+      - name: 'NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors'
+        url: https://jdily.github.io/proj_site/nerfin_proj.html
+        description: ', Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt)'
+        entry_type: software
+      - name: 'InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity'
+        url: https://jiabinliang.github.io/InfNeRF.io/
+        description: ', Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF) | [bibtex](./citations/InfNeRF.txt)'
+        entry_type: software
+      - name: Editable Free-viewpoint Video Using a Layered Neural Representation
+        url: https://jiakai-zhang.github.io/st-nerf/
+        description: ', Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) | [bibtex](./citations/st-nerf.txt)'
+        entry_type: software
+      - name: 'StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis'
+        url: http://jiataogu.me/style_nerf/
+        description: ', Gu et al., Arxiv 2021 | [bibtex](./citations/stylenerf.txt)'
+        entry_type: software
+      - name: 'Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields'
+        url: https://jonbarron.info/mipnerf/
+        description: ', Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf) | [bibtex](./citations/mipnerf.txt)'
+        entry_type: software
+      - name: 'Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields'
+        url: https://jonbarron.info/mipnerf360/
+        description: ', Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)'
+        entry_type: software
+      - name: Neural Scene Graphs for Dynamic Scenes
+        url: https://light.princeton.edu/neural-scene-graphs/
+        description: ', Ost et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L353-L358) <!---Ost20arxiv_NeuralSceneGraphs-->'
+        entry_type: software
+      - name: Neural Sparse Voxel Fields
+        url: https://lingjie0206.github.io/papers/NSVF/
+        description: ', Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF) | [bibtex](./NeRF-and-Beyond.bib#L135-L141) <!---Liu20neurips_sparse_nerf-->'
+        entry_type: software
+      - name: 📄 Paper
+        url: https://liquidammonia.github.io/color-nerf/assets/paper.pdf
+        description: '[🌐 Project Page](https://liquidammonia.github.io/color-nerf/)'
+        entry_type: software
+      - name: 'pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis'
+        url: https://marcoamonteiro.github.io/pi-GAN-website/
+        description: ', Chan et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L24-L30) <!---Chan20arxiv_piGAN-->'
+        entry_type: software
+      - name: 'NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis'
+        url: https://www.matthewtancik.com/nerf
+        description: ', Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)  | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->'
+        entry_type: software
+      - name: 'Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields'
+        url: https://mizhenxing.github.io/switchnerf
+        description: ', Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF) | [bibtex](./citations/Switch-NeRF.txt)'
+        entry_type: software
+      - name: '**Browse the Paper List**'
+        url: https://mrnerf.github.io/awesome-3D-gaussian-splatting/
+        description: '[**Contribute**](CONTRIBUTING.md) | [**MrNeRF**](https://www.mrnerf.com)'
+        entry_type: software
+      - name: Neural Refinement for Absolute Pose Regression with Feature Synthesis
+        url: https://nefes.active.vision/
+        description: ', Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nefes.txt)'
+        entry_type: software
+      - name: 'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections'
+        url: https://nerf-w.github.io/
+        description: ', Martin-Brualla et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L152-L158) <!---MartinBrualla20arxiv_nerfw-->'
+        entry_type: software
+      - name: Deformable Neural Radiance Fields
+        url: https://nerfies.github.io/
+        description: ', Park et al., Arxiv 2020 | [github](https://github.com/google/nerfies) | [bibtex](./NeRF-and-Beyond.bib#L206-L212) <!---Park20arxiv_nerfies-->'
+        entry_type: software
+      - name: 'NeRF--: Neural Radiance Fields Without Known Camera Parameters'
+        url: http://nerfmm.active.vision/
+        description: ', Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm) | [bibtex](./citations/nerf--.txt) <!---Wang21arxiv_nerfmm-->'
+        entry_type: software
+      - name: 'NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior'
+        url: https://nope-nerf.active.vision/
+        description: ', Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nope-nerf.txt)'
+        entry_type: software
+      - name: 'NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination'
+        url: http://people.csail.mit.edu/xiuming/projects/nerfactor/
+        description: ', Zhang et al. Arxiv 2021 | [github](https://github.com/google/nerfactor) | [bibtex](./citations/nerfactor.txt)'
+        entry_type: software
+      - name: 'NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis'
+        url: https://people.eecs.berkeley.edu/~pratul/nerv/
+        description: ', Srinivasan et al. CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L260-L266) <!---Srinivasan20arxiv_NeRV-->'
+        entry_type: software
+      - name: 'PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction'
+        url: https://porf.active.vision/
+        description: ', Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/porf.txt)'
+        entry_type: software
+      - name: Portrait Neural Radiance Fields from a Single Image
+        url: https://portrait-nerf.github.io/
+        description: ', Gao et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L95-L101) <!---Gao20arxiv_pNeRF-->'
+        entry_type: software
+      - name: Self-Calibrating Neural Radiance Fields
+        url: https://postech-cvlab.github.io/SCNeRF/
+        description: ', Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/SCNeRF.txt)'
+        entry_type: software
+      - name: 'Ha-NeRF:laughing:: Hallucinated Neural Radiance Fields in the Wild'
+        url: https://rover-xingyu.github.io/Ha-NeRF/
+        description: ', Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF) | [bibtex](./citations/Ha-NeRF.txt) <!---chen2021hallucinated-->'
+        entry_type: software
+      - name: 'L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields'
+        url: https://rover-xingyu.github.io/L2G-NeRF/
+        description: ', Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/L2G-NeRF.txt)'
+        entry_type: software
+      - name: In-Place Scene Labelling and Understanding with Implicit Scene Representation
+        url: https://shuaifengzhi.com/Semantic-NeRF/
+        description: ', Zhi et al., Arxiv 2021 | [bibtex](./citations/semantic-nerf.txt)'
+        entry_type: software
+      - name: 'CodeNeRF: Disentangled Neural Radiance Fields for Object Categories'
+        url: https://sites.google.com/view/wbjang/home/codenerf
+        description: ', Jang et al., ICCV 2021 | [bibtex](./citations/CodeNeRF.txt)'
+        entry_type: software
+      - name: Comprehensive overview of Gaussian Splatting
+        url: https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362
+        description: Comprehensive overview of Gaussian Splatting.
+        entry_type: software
+      - name: Space-time Neural Irradiance Fields for Free-Viewpoint Video
+        url: https://video-nerf.github.io/
+        description: ', Xian et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L299-L305) <!---Xian20arxiv_stnif-->'
+        entry_type: software
+      - name: 'MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis'
+        url: https://vincentfung13.github.io/projects/mine/
+        description: ', Jiaxin Li et al., ICCV 2021 | [github](https://github.com/vincentfung13/MINE) | [bibtex](./citations/MINE.txt)'
+        entry_type: software
+      - name: 'SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image'
+        url: https://vita-group.github.io/SinNeRF/
+        description: ', Xu et al., ECCV 2022 | [github](https://github.com/VITA-Group/SinNeRF) | [bibtex](./citations/SinNeRF.txt)'
+        entry_type: software
+      - name: 'Block-NeRF: Scalable Large Scene Neural View Synthesis'
+        url: https://waymo.com/research/block-nerf/
+        description: ', Tancik et al., Arxiv 2022 | [bibtex](./citations/Block-NeRF.txt)'
+        entry_type: software
+      - name: 'NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo'
+        url: https://weiyithu.github.io/NerfingMVS/
+        description: ', Wei et al., ICCV 2021 | [bibtex](./citations/NerfingMVS.txt)'
+        entry_type: software
+      - name: 'Point-NeRF: Point-based Neural Radiance Fields'
+        url: https://xharlie.github.io/projects/project_sites/pointnerf/index.html
+        description: ', Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf) | [bibtex](./citations/Point-NeRF.txt)'
+        entry_type: software
+      - name: Intro to gaussian splatting (and Unity plugin)
+        url: https://www.xuanprada.com/blog/2023/10/22/intro-to-gaussian-splatting
+        description: Intro to gaussian splatting (and Unity plugin).
+        entry_type: software
+      - name: 'iNeRF: Inverting Neural Radiance Fields for Pose Estimation'
+        url: http://yenchenlin.me/inerf/
+        description: ', Yen-Chen et al. IROS 2021 | [bibtex](./NeRF-and-Beyond.bib#L321-L327) <!---YenChen20arxiv_iNeRF-->'
+        entry_type: software
+      - name: 'AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training'
+        url: https://yifanjiang19.github.io/alignerf
+        description: ', Jiang et al., CVPR 2023 | [bibtex](./citations/AligNeRF.txt)'
+        entry_type: software
+      - name: Neural Radiance Flow for 4D View Synthesis and Video Processing
+        url: https://yilundu.github.io/nerflow/
+        description: ', Du et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L79-L85) <!---Du20arxiv_nerflow-->'
+        entry_type: software
+      - name: Gaussian Splats Town Hall - Part 2
+        url: https://youtu.be/5_GaPYBHqOo
+        description: Gaussian Splats Town Hall - Part 2.
+        entry_type: software
+      - name: 'NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis'
+        url: https://www.youtube.com/watch?v=LCTYRqW-ne8&t=10190s
+        description: ', Ben Mildenhall'
+        entry_type: channel
+      - name: 'Gaussian Splats: Ready for Standardization?'
+        url: https://www.youtube.com/watch?v=0xdPpKSkO3I
+        description: Metaverse Standards Forum 1/28/2025
+        entry_type: channel
+      - name: 'NeRF-SOS: Any-view Self-supervised Object Segmentation on Complex Real-world Scenes'
+        url: https://zhiwenfan.github.io/NeRF-SOS/
+        description: ', Fan et al., ICLR 2023 | [bibtex](./citations/NeRF-SOS.txt)'
+        entry_type: software
+      - name: Learning Compositional Radiance Fields of Dynamic Human Heads
+        url: https://ziyanw1.github.io/hybrid_nerf/
+        description: ', Wang et al., Arxiv 2020 | [bibtex](./citations/hybrid-nerf.txt) <!---Wang20arxiv_hybrid_NeRF-->'
+        entry_type: software
+      - name: 'ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video'
+        url: https://zju3dv.github.io/enerf/
+        description: ', Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF) | [bibtex](./citations/enerf.txt)'
+        entry_type: software
+      - name: Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies
+        url: https://zju3dv.github.io/animatable_nerf/
+        description: ', Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf) | [bibtex](citations/animatable_nerf.txt) <!---Peng21arxiv_animatable_nerf-->'
+        entry_type: software
+      - name: Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering
+        url: https://zju3dv.github.io/object_nerf/
+        description: ', Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) | [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf-->'
+        entry_type: software
+      - name: 'SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field'
+        url: https://zju3dv.github.io/sine/
+        description: ', Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE)  | [bibtex](./citations/sine.txt)'
+        entry_type: software
   - slug: retopology-mesh-tools
     title: Retopology & Mesh Tools
     description: Retopology and mesh processing.
@@ -672,6 +1368,10 @@ subsections:
         url: https://www.youtube.com/user/djmccabie/videos
         description: character modeling, posing, rigging, retopology, sculpting.
         entry_type: channel
+      - name: AutoRemesher
+        url: https://github.com/huxingyi/autoremesher
+        description: Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.
+        entry_type: tool
   - slug: uv-tools
     title: UV Tools
     description: UV unwrapping, packing, and UDIM tools.
@@ -1684,6 +2384,18 @@ subsections:
       - name: Retargeting Mixamo Animation Tool
         url: http://terribilisstudio.fr/converter
         description: Retargeting Mixamo Animation Tool.
+        entry_type: tool
+      - name: Mixamo Converter
+        url: https://github.com/enziop/mixamo_converter
+        description: is a Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
+        entry_type: reference
+      - name: USDZ
+        url: https://github.com/robmcrosby/BlenderUSDZ
+        description: ', [glTF MultiExport](https://github.com/MozillaReality/blender-gltf-multiexport-addon), [ZBrush](https://blenderartists.org/t/goz-for-blender-2-8/1138418), [.VTK](https://github.com/tkeskita/io_mesh_v'
+        entry_type: reference
+      - name: 3DGS Converter
+        url: https://github.com/francescofugazzi/3dgsconverter
+        description: Format conversion tool
         entry_type: tool
   - slug: pipeline-standards
     title: Pipeline Standards

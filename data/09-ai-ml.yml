@@ -73,6 +73,182 @@ subsections:
         url: https://www.promptingguide.ai/models/gpt-4
         description: Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
         entry_type: reference
+      - name: 'BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields'
+        url: https://arxiv.org/abs/2306.03000
+        description: ', AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023 | [bibtex](citations/BeyondPixels.txt)'
+        entry_type: reference
+      - name: Mixture of Volumetric Primitives for Efficient Neural Rendering
+        url: https://arxiv.org/abs/2103.01954
+        description: ', Lombardi et al., SIGGRAPH 2021 | [bibtex](./citations/mixture.txt)'
+        entry_type: reference
+      - name: 'Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction'
+        url: https://arxiv.org/abs/2111.11215.pdf
+        description: ', Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO) | [bibtex](./citations/DirectVoxGO.txt) <!---sun2021direct-->'
+        entry_type: reference
+      - name: Streaming Radiance Fields for 3D Video Synthesis
+        url: https://arxiv.org/abs/2210.14831
+        description: Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF) | [bibtex](./citations/StreamRF.txt)
+        entry_type: reference
+      - name: 'NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction'
+        url: https://arxiv.org/abs/2106.10689
+        description: ', Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS) | [bibtex](./citations/neus.txt)'
+        entry_type: reference
+      - name: Volume Rendering of Neural Implicit Surfaces
+        url: https://arxiv.org/abs/2106.12052
+        description: ', Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon) | [bibtex](./citations/volsdf.txt)'
+        entry_type: reference
+      - name: 'PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm'
+        url: https://arxiv.org/abs/2310.08586
+        description: ', Zhu et al., Arxiv 2023 | [github](https://github.com/OpenGVLab/PonderV2) | [bibtex](./citations/ponderv2.txt)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2210.15663.pdf
+        description: '[🌐 Project Page](https://github.com/justimyhxu/awesome-3D-generation/)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2209.14988
+        description: '[🌐 Project Page](https://dreamfusion3d.github.io) | [💻 Code](https://github.com/ashawkey/stable-dreamfusion)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2211.10440.pdf
+        description: '[🌐 Project Page](https://research.nvidia.com/labs/dir/magic3d)  | [💻 Code][Coming soon.]'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2212.14704.pdf
+        description: '[🌐 Project Page](https://bluestyle97.github.io/dream3d/) | [💻 Code][Coming soon.]'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2311.16918
+        description: '[🌐 Project Page](https://aigc3d.github.io/richdreamer/) | [💻 Code](https://github.com/modelscope/richdreamer)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2401.00909
+        description: '[🌐 Project Page](https://vita-group.github.io/3D-Mode-Collapse/) | [💻 Code](https://github.com/VITA-Group/3D-Mode-Collapse)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2309.16653
+        description: '[🌐 Project Page](https://dreamgaussian.github.io/) | [💻 Code](https://github.com/dreamgaussian/dreamgaussian)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2312.09147
+        description: '[🌐 Project Page](https://zouzx.github.io/TriplaneGaussian/)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2311.09217
+        description: '[🌐 Project Page](https://justimyhxu.github.io/projects/dmv3d/)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2311.08403.pdf
+        description: '[🌐 Project Page](https://ming1993li.github.io/Instant3DProj/) | [💻 Code](https://github.com/ming1993li/Instant3DCodes)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2310.11784.pdf
+        description: '[🌐 Project Page](https://cxh0519.github.io/projects/Progressive3D/) | [💻 Code](https://github.com/cxh0519/Progressive3D)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2309.17175
+        description: '[🌐 Project Page](https://tyhuang0428.github.io/textfield3d.html)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2402.07207
+        description: '[🌐 Project Page](https://gala3d.github.io) | [💻 Code](https://github.com/VDIGPKU/GALA3D)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2310.15110
+        description: '[🌐 Project Page](https://zero123.cs.columbia.edu/) | [💻 Code](https://github.com/SUDO-AI-3D/zero123plus) | [🤗 Hugging Face](https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2311.07885.pdf
+        description: '[🌐 Project Page](https://sudo-ai-3d.github.io/One2345plus_page/) | [💻 Code](https://github.com/SUDO-AI-3D/One2345plus)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2310.15008.pdf
+        description: '[🌐 Project Page](https://www.xxlong.site/Wonder3D/) | [💻 Code](https://github.com/xxlong0/Wonder3D)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2310.16818
+        description: '[🌐 Project Page](https://mrtornado24.github.io/DreamCraft3D/) | [💻 Code](https://github.com/deepseek-ai/DreamCraft3D)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2310.10644
+        description: '[🌐 Project Page](https://toss3d.github.io/)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2303.14184.pdf
+        description: '[🌐 Project Page](https://make-it-3d.github.io) | [💻 Code](https://github.com/junshutang/Make-It-3D)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2402.10259
+        description: '[🌐 Project Page](https://gaussianobject.github.io) | [💻 Code](https://github.com/GaussianObject/GaussianObject)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2205.15517
+        description: '[🌐 Project Page](https://mrtornado24.github.io/IDE-3D/) | [💻 Code](https://github.com/MrTornado24/IDE-3D)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2401.01702
+        description: '[🌐 Project Page](https://image-sculpting.github.io/) | [💻 Code](https://github.com/vision-x-nyu/image-sculpting)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2312.08889.pdf
+        description: '[🌐 Project Page](https://seeavatar3d.github.io/)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: http://arxiv.org/abs/2401.01173
+        description: '[🌐 Project Page](https://menyifang.github.io/projects/En3D/index.html) | [💻 Code](https://github.com/menyifang/En3D)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/pdf/2312.15430.pdf
+        description: '[🌐 Project Page](https://human3daigc.github.io/MACH/) | [💻 Code](https://github.com/Human3DAIGC/Make-A-Character)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: http://arxiv.org/abs/2312.02069
+        description: '[🌐 Project Page](https://shenhanqian.github.io/gaussian-avatars)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2305.12529
+        description: '[🌐 Project Page](https://dreamwaltz3d.github.io/) | [💻 Code](https://github.com/IDEA-Research/DreamWaltz)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2401.12900
+        description: '[💻 Code](https://github.com/pcl3dv/PSAvatar)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2402.03723
+        description: '[🌐 Project Page](http://shahrukhathar.github.io/2024/02/05/Rig3DGS.html)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2401.01339
+        description: '[🌐 Project Page](https://zju3dv.github.io/street_gaussians/) | [💻 Code](https://github.com/zju3dv/street_gaussians)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2312.07485
+        description: '[🌐 Project Page](https://jianxgao.github.io/MinD-3D/) | [💻 Code](https://github.com/JianxGao/MinD-3D)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2401.12561
+        description: '[🌐 Project Page](https://yifliu3.github.io/EndoGaussian/) | [💻 Code](https://github.com/yifliu3/EndoGaussian)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2312.17142
+        description: '[🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/) | [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2301.11280
+        description: '[🌐 Project Page](https://make-a-video3d.github.io)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2312.13763
+        description: '[🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2401.02400
+        description: '[🌐 Project Page](https://kyleleey.github.io/3DFauna/) | [💻 Code]()'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2312.10763
+        description: '[🌐 Project Page](https://m3dbench.github.io/) | [💻 Code](https://github.com/OpenM3D/M3DBench)'
+        entry_type: reference
   - slug: image-generation
     title: Image Generation
     description: State-of-the-art text-to-image models and platforms.
@@ -277,6 +453,86 @@ subsections:
         url: https://www.sybill.ai/
         description: Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
         entry_type: reference
+      - name: COVAL
+        url: https://app.coval.dev/the-ultimate-voice-ai-stack
+        description: architecture of voice AI, from speech recognition to emotional intelligence, and learn how to build, scale, and evaluate them
+        entry_type: tutorial
+      - name: Generative AI in a nutshell
+        url: https://blog.crisp.se/wp-content/uploads/2024/01/generative-AI-in-a-nutshell.png
+        description: a map with the most common Generative AI' concepts by Henrik Kniberg [Youtube Video explaining the map](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+        entry_type: software
+      - name: CLIPIT PixelDraw - Colaboratory
+        url: https://colab.research.google.com/github/dribnet/clipit/blob/master/demos/PixelDrawer.ipynb
+        description: CLIPIT PixelDraw - Colaboratory.
+        entry_type: reference
+      - name: Stable Diffusion KLMC2 Animation.ipynb forked
+        url: https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb
+        description: fork by [@DigThatData](https://twitter.com/DigThatData)
+        entry_type: software
+      - name: Stable Diffusion KLMC2 Animation.ipynb
+        url: https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G
+        description: notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
+        entry_type: software
+      - name: UneeQ Digital Humans
+        url: https://www.digitalhumans.com/
+        description: 3D character lib synced
+        entry_type: reference
+      - name: AI Render
+        url: https://github.com/benrugg/AI-Render
+        description: Stable Diffusion in Blender. This add-on renders an AI generated image based on a text prompt and your scene.
+        entry_type: reference
+      - name: Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material
+        url: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/generative_ai_genius/README.md
+        description: Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material.
+        entry_type: reference
+      - name: openai/point-e
+        url: https://github.com/openai/point-e
+        description: OpenAI's point cloud diffusion for 3D model synthesis
+        entry_type: reference
+      - name: ashawkey/stable-dreamfusion
+        url: https://github.com/ashawkey/stable-dreamfusion
+        description: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+        entry_type: reference
+      - name: AgaMiko/pixel_character_generator
+        url: https://github.com/AgaMiko/pixel_character_generator
+        description: Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+        entry_type: reference
+      - name: sd-concepts-library (Stable Diffusion concepts library)
+        url: https://huggingface.co/sd-concepts-library
+        description: Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
+        entry_type: community
+      - name: MusicGen
+        url: https://huggingface.co/spaces/facebook/MusicGen
+        description: Meta's tool for generating music
+        entry_type: reference
+      - name: Transforming 2D Images into 3D with the AdaMPI AI Model
+        url: https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/
+        description: guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
+        entry_type: reference
+      - name: Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel
+        url: https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/
+        description: Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel.
+        entry_type: software
+      - name: '(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion'
+        url: https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/
+        description: '(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion.'
+        entry_type: community
+      - name: Snowpixel
+        url: https://snowpixel.app
+        description: Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
+        entry_type: reference
+      - name: Stable Animation SDK
+        url: https://stability.ai/blog/stable-animation-sdk
+        description: a text-to-animation tool for developers by Stability AI [[dev platform]](https://platform.stability.ai/docs/features/animation)
+        entry_type: reference
+      - name: "Stable Diffusion Frivolous ·\_Because lawsuits based on ignorance deserve a response."
+        url: http://www.stablediffusionfrivolous.com/
+        description: a community response for the "Stable Diffusion litigation"
+        entry_type: community
+      - name: Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube
+        url: https://www.youtube.com/watch?v=6snk7gw898g
+        description: Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube.
+        entry_type: channel
   - slug: video-generation
     title: Video Generation
     description: AI video generation platforms and models.
@@ -667,6 +923,14 @@ subsections:
         url: https://github.com/threestudio-project/threestudio
         description: A unified framework for 3D content generation.
         entry_type: tool
+      - name: 📄 Paper
+        url: https://openaccess.thecvf.com/content/WACV2023/papers/Canfes_Text_and_Image_Guided_3D_Avatar_Generation_and_Manipulation_WACV_2023_paper.pdf
+        description: '[🌐 Project Page](https://catlab-team.github.io/latent3D/) | [💻 Code](https://github.com/catlab-team/latent3D_code)'
+        entry_type: reference
+      - name: 📄 Paper
+        url: https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/static/CCA.pdf
+        description: '[🌐 Project Page](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/) | [💻 Code]([https://github.com/deepseek-ai/DreamCraft3D](https://github.com/facebookresearch/audio2photorea'
+        entry_type: reference
   - slug: texture-material-generation
     title: Texture & Material Generation
     description: AI-generated PBR textures and materials.

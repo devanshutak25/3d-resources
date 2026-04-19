@@ -162,6 +162,18 @@ subsections:
         url: https://www.viget.com/articles/create-rive-animations/
         description: '"Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."'
         entry_type: reference
+      - name: Animated AI
+        url: https://animatedai.github.io/
+        description: animations and instructional videos about neural networks
+        entry_type: channel
+      - name: AnimatedCrosshairsUE4
+        url: https://github.com/BitReign/AnimatedCrosshairsUE4
+        description: Animated Crosshairs for Unreal Engine 4 provides 17 ready to use animated UMG widgets including demo scene to test their combination
+        entry_type: reference
+      - name: img2img animation with hands | Reddit
+        url: https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/
+        description: img2img animation with hands | Reddit.
+        entry_type: community
   - slug: animation-courses
     title: Animation — Courses
     description: Structured animation courses.

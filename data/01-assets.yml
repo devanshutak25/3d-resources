@@ -308,6 +308,14 @@ subsections:
         url: https://www.videocopilot.net/products/element2/
         description: A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
         entry_type: asset-source
+      - name: Sketchfab Blender Addon
+        url: https://github.com/sketchfab/blender-plugin
+        description: Directly import and export models from and to Sketchfab in Blender.
+        entry_type: reference
+      - name: SolidUI
+        url: https://github.com/CloudOrc/SolidUI
+        description: AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
+        entry_type: reference
   - slug: model-libraries-specialized
     title: Model Libraries — Specialized
     description: 'Specialty model sources: characters, scans, anatomy, museums.'
@@ -464,6 +472,10 @@ subsections:
         url: https://actorcore.reallusion.com/auto-rig
         description: is a free application designed for fast and easy character rigging.
         entry_type: asset-source
+      - name: ossos
+        url: https://github.com/sketchpunklabs/ossos
+        description: A complete character skinning & animation library for the web
+        entry_type: tool
   - slug: model-libraries-arch-furniture
     title: Model Libraries — Architecture & Furniture
     description: Arch-viz, furniture, and BIM asset libraries.
@@ -892,6 +904,14 @@ subsections:
         url: https://m.youtube.com/watch?v=HAWRBdkl1w4
         description: Create/edit HDRIs
         entry_type: channel
+      - name: HDRI Sun Aligner
+        url: https://github.com/akej74/hdri-sun-aligner
+        description: HDRI Sun Aligner is a Blender addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
+        entry_type: reference
+      - name: HDRI-to-CubeMap
+        url: https://matheowis.github.io/HDRI-to-CubeMap/
+        description: A tool to convert your HDRI file into a Cube map that
+        entry_type: asset-source
   - slug: textures-free-pbr
     title: Textures & Materials — Free PBR Libraries
     description: Free PBR texture libraries for materials authoring.
@@ -1364,6 +1384,66 @@ subsections:
         url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuvyEDCMOIjWMsl8ASiZgeCg
         description: Blender Texture Painting (Speed Tutorials) by Royal Skies LLC..
         entry_type: channel
+      - name: ShaderExpo
+        url: https://anuraghazra.github.io/ShaderExpo/
+        description: Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
+        entry_type: asset-source
+      - name: Arroway Textures
+        url: https://www.arroway-textures.ch/
+        description: Digital textures for 3D rendering and real-time use.
+        entry_type: asset-source
+      - name: 📄 Paper
+        url: https://arxiv.org/abs/2401.09416
+        description: '[🌐 Project Page](https://texturedreamer.github.io/)'
+        entry_type: asset-source
+      - name: Multitexturing using a Blendmap
+        url: http://chinedufn.com/webgl-multitexture-blend-map-tutorial/
+        description: How to use a blendmap to multitexture a terrain.
+        entry_type: asset-source
+      - name: Custom shaders with Three.JS
+        url: https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/
+        description: Introduction to custom shaders, uniforms, textures and lighting in three.js.
+        entry_type: asset-source
+      - name: 'NeRF-Tex: Neural Reflectance Field Textures'
+        url: https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/
+        description: ', Baatz et al., EGSR 2021 | [bibtex](./citations/nerf-tex.txt)'
+        entry_type: asset-source
+      - name: Texture3DPreview for Unity
+        url: https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity
+        description: This package enables interactive previews of Texture3D assets in Unity's Inspector window.
+        entry_type: reference
+      - name: EasyBake
+        url: https://github.com/leukbaars/EasyBake
+        description: Texture baking UI for Blender that lives in the 3D Viewport. Small but powerful! Fast one-click baking and iteration.
+        entry_type: reference
+      - name: PBR Texture Mapper
+        url: https://github.com/jayanam/pbr_texture_mapper
+        description: Create PBR node setup with one click.
+        entry_type: reference
+      - name: Principled-Baker
+        url: https://github.com/danielenger/Principled-Baker
+        description: Bake PBR textures with a few clicks.
+        entry_type: reference
+      - name: UcuPaint
+        url: https://github.com/ucupumar/ucupaint
+        description: A addon to manage texture layers for EEVEE and Cycles renderer.
+        entry_type: reference
+      - name: AwesomeBump
+        url: https://github.com/kmkolasinski/AwesomeBump
+        description: Generate normal, height, specular or ambient occlusion textures from a single image.
+        entry_type: reference
+      - name: VaTexAtlas
+        url: https://github.com/ufna/VaTexAtlas
+        description: Simple way to use texture atlases for Unreal Engine 4 UMG
+        entry_type: reference
+      - name: GLTF Report
+        url: https://gltf.report
+        description: Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
+        entry_type: asset-source
+      - name: WebGL Texture Tester
+        url: http://toji.github.io/texture-tester/
+        description: Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
+        entry_type: asset-source
   - slug: textures-specialized
     title: Textures — Specialized
     description: 'Specialty texture sources: displacement, patterns, sprites, terrain.'
@@ -1789,6 +1869,10 @@ subsections:
         url: https://github.com/zeh/usfxr
         description: A C# library used to generate and play game-like procedural audio effects inside Unity.
         entry_type: tool
+      - name: Freesound Add-on
+        url: https://github.com/iwkse/freesound/tree/freesound-2.0
+        description: is an addon for Blender that allows users to create and edit subtitles for movies or music.
+        entry_type: reference
   - slug: reel-music
     title: Reel Music
     description: Music often used in demo reels and reference tracks.
@@ -1920,6 +2004,34 @@ subsections:
       - name: typicons.font
         url: http://s-ings.com/typicons/
         description: 336 pixel perfect, all-purpose vector icons in a web-font kit
+        entry_type: asset-source
+      - name: Typewriter
+        url: https://github.com/doakey3/blender-typewriter-addon
+        description: Typewriter text animation for font objects.
+        entry_type: reference
+      - name: FontSelector
+        url: https://github.com/samytichadou/FontSelector_blender_addon/
+        description: Easy font management inside Blender.
+        entry_type: reference
+      - name: Roboto
+        url: https://github.com/google/roboto
+        description: Default font on Android & ChromeOS, and the recommended typeface for Material Design
+        entry_type: reference
+      - name: emojillate
+        url: https://github.com/notwaldorf/emojillate
+        description: Pixellate an image into emoji
+        entry_type: reference
+      - name: Material design icons
+        url: https://github.com/google/material-design-icons
+        description: Official icon set from Google
+        entry_type: reference
+      - name: bitmap font renderer
+        url: https://jmickle66666666.github.io/blog/techart/2019/12/18/bitmap-font-renderer.html
+        description: bitmap font renderer.
+        entry_type: asset-source
+      - name: Word-As-Image for Semantic Typography
+        url: https://wordasimage.github.io/Word-As-Image-Page/
+        description: semantically transforming fonts into illustrations
         entry_type: asset-source
   - slug: icons
     title: Icons
@@ -2202,3 +2314,7 @@ subsections:
         url: https://www.youtube.com/user/mediagabbitt/videos
         description: modeling, animation, sculpting, low-poly, game assets.
         entry_type: channel
+      - name: UAssetAPI
+        url: https://github.com/atenfyr/UAssetAPI
+        description: A low-level .NET library for reading and writing Unreal Engine 4 game assets.
+        entry_type: tool

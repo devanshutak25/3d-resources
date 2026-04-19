@@ -102,6 +102,22 @@ subsections:
         url: https://github.com/Alby90/GdSpy
         description: Unofficial fSpy importer for Godot.
         entry_type: tool
+      - name: Godot 4 glTF runtime import
+        url: https://github.com/godotengine/godot-docs/issues/6385
+        description: Godot 4 glTF runtime import.
+        entry_type: reference
+      - name: Simple Explosion VFX
+        url: https://github.com/drcd1/GodotSimpleExplosionVFX
+        description: Simple Explosion VFX.
+        entry_type: reference
+      - name: godot_voxel
+        url: https://github.com/Zylann/godot_voxel
+        description: godot_voxel.
+        entry_type: reference
+      - name: Godot Package Manager
+        url: https://github.com/you-win/godot-package-manager
+        description: Package manager for Godot using npm.
+        entry_type: reference
   - slug: godot-learning
     title: Godot — Learning
     description: Godot-focused learning channels and courses.
@@ -166,6 +182,10 @@ subsections:
         readme_tags:
           - Godot Focus
           - Tutorials
+      - name: CurveMesh3D
+        url: https://godotengine.org/asset-library/asset/1579
+        description: CurveMesh3D.
+        entry_type: reference
   - slug: godot-communities
     title: Godot — Communities
     description: Godot forums and chat.
@@ -1806,6 +1826,186 @@ subsections:
         url: https://wakatime.com/
         description: plugin for Unity.
         entry_type: tool
+      - name: OpenEd
+        url: https://github.com/mrzapp/opened
+        description: Open source runtime editor for Unity.
+        entry_type: reference
+      - name: Charon Unity3D
+        url: https://github.com/deniszykov/charon-unity3d
+        description: Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
+        entry_type: reference
+      - name: WebViewHook
+        url: https://github.com/willnode/WebViewHook
+        description: Exposed UnityEditor WebView API.
+        entry_type: reference
+      - name: UnityMeshCounter
+        url: https://github.com/raimis001/unityMeshCounter
+        description: Shows counters for mesh data.
+        entry_type: reference
+      - name: Unity Editor Icons
+        url: https://github.com/halak/unity-editor-icons
+        description: 'Unity version: 2018.3.0f2 Icons what can load using EditorGUIUtility.IconContent.'
+        entry_type: reference
+      - name: Unity Editor Spotlight
+        url: https://github.com/marijnz/unity-editor-spotlight
+        description: MacOS-like Spotlight file search in Unity.
+        entry_type: reference
+      - name: Selection History Navigator
+        url: https://github.com/mminer/selection-history-navigator
+        description: Unity editor extension to navigate between object selections.
+        entry_type: reference
+      - name: UnityExtensions.SelectionHistory
+        url: https://github.com/garettbass/UnityExtensions.SelectionHistory
+        description: 'Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".'
+        entry_type: reference
+      - name: Shortcuter
+        url: https://github.com/intentor/shortcuter
+        description: Shortcut utility for Unity. (#SHORTCUTS)
+        entry_type: reference
+      - name: SearchTools
+        url: https://github.com/eral/SearchTools
+        description: Search Tools In Unity.
+        entry_type: reference
+      - name: Unity Events
+        url: https://github.com/GalvanicGames/unity-events
+        description: A code focused strongly typed event system with global system and per GameObject system.
+        entry_type: reference
+      - name: Vexe Framework (VFW)
+        url: https://github.com/vexe/VFW
+        description: An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
+        entry_type: tool
+      - name: NGTools
+        url: https://github.com/naphier/ngtools
+        description: Unity Editor Extensions and Tools by Napland Games.
+        entry_type: reference
+      - name: Unity Asset Usage Detector
+        url: https://github.com/yasirkula/UnityAssetUsageDetector
+        description: Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
+        entry_type: reference
+      - name: Missing References Unity
+        url: https://github.com/liortal53/MissingReferencesUnity
+        description: A Unity editor extension for finding missing object references.
+        entry_type: reference
+      - name: DT Compile Time Tracker
+        url: https://github.com/DarrenTsung/DTCompileTimeTracker
+        description: Unity editor extension which tracks compile time.
+        entry_type: reference
+      - name: Unity3D Automatron
+        url: https://github.com/Thundernerd/Unity3D-Automatron
+        description: An automation tool for Unity3D.
+        entry_type: tool
+      - name: Unity Editor Junkie
+        url: https://github.com/roboryantron/UnityEditorJunkie
+        description: Editor scripts to make working with the Unity Editor better
+        entry_type: reference
+      - name: Unity Editor Snippets
+        url: https://github.com/pointcache/UnityEditorSnippets
+        description: Collection of different editor things that help with productivity.
+        entry_type: reference
+      - name: Unity Editor Helper
+        url: https://github.com/JefferiesTube/UnityEditorHelper
+        description: An organized bunch of scripts to make editor scripting in Unity easier.
+        entry_type: reference
+      - name: UnityExtensions MeshIntersection
+        url: https://github.com/garettbass/UnityExtensions.MeshIntersection
+        description: Perform a raycast against one or more meshes.
+        entry_type: reference
+      - name: KEngine
+        url: https://github.com/mr-kelly/KEngine
+        description: A Unity3D asset bundle framework with LGPL license.
+        entry_type: tool
+      - name: Asset Auditing Tools
+        url: https://github.com/Unity-Technologies/asset-auditing-tools
+        description: A set of Editor tools to audit project assets and correct errors. ![Official](UnityResource16x16.png)
+        entry_type: reference
+      - name: ThreeDScans
+        url: https://github.com/keijiro/ThreeDScans
+        description: Scanned statue models from the Three D Scans project, optimized for real-time rendering use.
+        entry_type: reference
+      - name: 50 Unity Tips
+        url: https://github.com/defuncart/50-unity-tips
+        description: A collection of 50 tips for Unity (focusing on Mobile) ranging from editor tools to serialization to UI shortcuts.
+        entry_type: reference
+      - name: UnityGraphicsProgramming
+        url: https://github.com/IndieVisualLab/UnityGraphicsProgramming
+        description: UnityGraphicsProgramming vol.1.
+        entry_type: reference
+      - name: Learning-Unity-ECS
+        url: https://github.com/starikcetin/Learning-Unity-ECS
+        description: Learning-Unity-ECS.
+        entry_type: reference
+      - name: UnityGraphicsProgramming Vol.2
+        url: https://github.com/IndieVisualLab/UnityGraphicsProgramming2
+        description: Unity Graphics Programming vol.2
+        entry_type: reference
+      - name: Unity Character Customization
+        url: https://github.com/eriseven/UnityCharacterCustomization
+        description: A character customization demo for Unity.
+        entry_type: reference
+      - name: Complete Unity 2018 Game Development
+        url: https://github.com/PacktPublishing/Complete-Unity-2018-Game-Development
+        description: Explore techniques to build 2D/3D applications using real-world examples.
+        entry_type: reference
+      - name: Simple ECS
+        url: https://github.com/AkanshDivker/Simple-ECS
+        description: An example using the core features of the Entity Component System (ECS) for Unity, inspired by Roll-a-ball.
+        entry_type: reference
+      - name: Unity Good Practices
+        url: https://github.com/futurice/unity-good-practices
+        description: Github repository with Unity best practices.
+        entry_type: reference
+      - name: UniteBerlin
+        url: https://github.com/VoxelBoy/UniteBerlin
+        description: 'Repository for my Unite Berlin talk - Become a Speed Demon: Being faster at everything you do in Unity.'
+        entry_type: reference
+      - name: AngryBots2
+        url: https://github.com/UnityTechnologies/AngryBots2
+        description: An example Unity Project, developed by Unity Technologies, used to demonstrate several features.
+        entry_type: reference
+      - name: Hogwarts
+        url: https://github.com/OpenHogwarts/hogwarts
+        description: Hogwarts (Harry Potter) open sandbox game made in Unity.
+        entry_type: reference
+      - name: Unitystation
+        url: https://github.com/unitystation/unitystation
+        description: Remake of the simulator Space Station 13.
+        entry_type: reference
+      - name: SanAndreasUnity
+        url: https://github.com/GTA-ASM/SanAndreasUnity
+        description: 'We''re porting GTA: San Andreas to Unity!'
+        entry_type: reference
+      - name: MafiaUnity
+        url: https://github.com/OpenMafia/MafiaUnity
+        description: Open-source Mafia game framework.
+        entry_type: tool
+      - name: GuitarHeroUnity
+        url: https://github.com/caffeine239/GuitarHeroUnity
+        description: Guitar Hero fan game made in Unity.
+        entry_type: reference
+      - name: UnityTetris
+        url: https://github.com/Mukarillo/UnityTetris
+        description: Tetris clone written in C# and using Unity engine to render.
+        entry_type: reference
+      - name: Pacman
+        url: https://github.com/vilbeyli/Pacman
+        description: A Pacman clone with original AI made using Unity.
+        entry_type: reference
+      - name: Minesweeper
+        url: https://github.com/vilbeyli/Minesweeper
+        description: Tile based Minesweeper game with highschores made in Unity.
+        entry_type: reference
+      - name: Colorus
+        url: https://github.com/nicloay/colorus
+        description: Coloring book game for Web/iOS made with Unity.
+        entry_type: reference
+      - name: Github
+        url: https://github.com/mrzapp
+        description: Unity tools and utilities.
+        entry_type: reference
+      - name: Github
+        url: https://github.com/mob-sakai
+        description: Unity tools and effects.
+        entry_type: reference
   - slug: xr-ar-vr
     title: XR, AR & VR — Resources
     description: AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, and VR platforms.
@@ -1953,6 +2153,30 @@ subsections:
       - name: 📺 Learning All IN ORDER ~ Game Dev Cave
         url: https://youtu.be/jp_6azlr9Hg?list=PLoReGgpfex3zW6C35lY3Tkcv0ks_i0_wB
         description: '[animation,character,GAS] - 160 vids: newbie, blueprints, quests, C++.'
+        entry_type: tool
+      - name: Oliver Kreylos's blog
+        url: http://doc-ok.org/
+        description: is a good resource to get started learning about VR / stereo rendering.
+        entry_type: reference
+      - name: Game View Maximizer
+        url: https://github.com/tomori-hikage/game-view-maximizer
+        description: Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
+        entry_type: reference
+      - name: A-Frame VR
+        url: https://github.com/silverslade/aframe_blender_exporter
+        description: Blender add-on allows you to model your scene in Blender and export it to an A-Frame VR project with a single click.
+        entry_type: reference
+      - name: Quests
+        url: https://github.com/angelhodar/OpenRPG_Quest
+        description: Efficient and rich featured quests system for Unreal Engine 4
+        entry_type: reference
+      - name: tensorflow2-ue4-ar
+        url: https://github.com/Allysony/tensorflow2-ue4-ar
+        description: Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
+        entry_type: reference
+      - name: Sceneform Android SDK Maintained
+        url: https://github.com/SceneView/sceneform-android
+        description: ARCore Android SDK with Google Filament 3D engine. Continuation of Google Sceneform
         entry_type: tool
   - slug: unreal-engine-resources
     title: Unreal Engine — Resources
@@ -2117,6 +2341,566 @@ subsections:
         url: https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter
         description: A tool to export vector fields out of Houdini.
         entry_type: tool
+      - name: PBCharacterMovement
+        url: https://github.com/ProjectBorealis/PBCharacterMovement
+        description: HL2-style, classic FPS movement for Unreal Engine implemented in C++.
+        entry_type: reference
+      - name: VaFogOfWar
+        url: https://github.com/ufna/VaFogOfWar
+        description: A clear and simple solution of Fog of War for Unreal Engine.
+        entry_type: reference
+      - name: ObjectDeliverer
+        url: https://github.com/ayumax/ObjectDeliverer
+        description: Data transmission and reception library for Unreal Engine.
+        entry_type: tool
+      - name: SocketIOClient-Unreal
+        url: https://github.com/getnamo/SocketIOClient-Unreal
+        description: Socket.IO client plugin for Unreal Engine.
+        entry_type: reference
+      - name: Socketer
+        url: https://github.com/How2Compute/Socketer
+        description: A TCP socket blueprint library for Unreal Engine.
+        entry_type: tool
+      - name: TCP-Unreal
+        url: https://github.com/getnamo/TCP-Unreal
+        description: Convenience TCP wrapper for Unreal Engine.
+        entry_type: reference
+      - name: UDP-Unreal
+        url: https://github.com/getnamo/UDP-Unreal
+        description: Convenience UDP wrapper for Unreal Engine.
+        entry_type: reference
+      - name: Unreal Fetch
+        url: https://github.com/GDi4K/unreal-fetch
+        description: Fetch API-inspired HTTP client for Unreal Engine.
+        entry_type: reference
+      - name: VaRest
+        url: https://github.com/ufna/VaRest
+        description: REST API plugin for Unreal Engine.
+        entry_type: reference
+      - name: Unreal.js
+        url: https://github.com/ncsoft/Unreal.js
+        description: Javascript runtime built for Unreal Engine.
+        entry_type: reference
+      - name: UnrealCLR
+        url: https://github.com/nxrighthere/UnrealCLR
+        description: Unreal Engine .NET 6 Integration.
+        entry_type: reference
+      - name: Unreal Rust
+        url: https://github.com/MaikKlein/unreal-rust
+        description: Opinionated Rust integration for Unreal Engine.
+        entry_type: reference
+      - name: Houdini Engine
+        url: https://github.com/sideeffects/HoudiniEngineForUnreal
+        description: A plugin to allow integration with Houdini Digital Assets workflows.
+        entry_type: reference
+      - name: Ultraleap SDK
+        url: https://github.com/ultraleap/UnrealPlugin
+        description: Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
+        entry_type: tool
+      - name: Street Map
+        url: https://github.com/ue4plugins/StreetMap
+        description: Import OpenStreetMap XML data into your Unreal Engine project.
+        entry_type: reference
+      - name: UnrealSandboxTerrain
+        url: https://github.com/bw2012/UnrealSandboxTerrain
+        description: Smooth voxel terrain plugin.
+        entry_type: reference
+      - name: Voxel Plugin
+        url: https://github.com/Phyronnaz/VoxelPlugin
+        description: Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
+        entry_type: reference
+      - name: UE5 Styleguide
+        url: https://github.com/Allar/ue5-style-guide
+        description: Guidelines for making Unreal Engine projects more consistent.
+        entry_type: reference
+      - name: SCUE5-Plugin
+        url: https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
+        description: SCUE updated to Unreal 5.
+        entry_type: reference
+      - name: ALS-Refactored
+        url: https://github.com/Sixze/ALS-Refactored
+        description: Completely reworked and improved C++ version of Advanced Locomotion System V4.
+        entry_type: reference
+      - name: GASP-ALS
+        url: https://github.com/PolygonHive/GASP-ALS
+        description: Game Animation Sample with ALS Layering
+        entry_type: reference
+      - name: LeapUnreal
+        url: https://github.com/leapmotion/leapunreal
+        description: Leap Motion SDK for the Unreal Engine
+        entry_type: tool
+      - name: myo-ue4
+        url: https://github.com/getnamo/myo-ue4
+        description: Myo Plugin for Unreal Engine 4
+        entry_type: reference
+      - name: Swipe
+        url: https://github.com/getsetgames/Swipe
+        description: A plugin for Unreal Engine 4 that exposes swipes on mobile devices as events in blueprint
+        entry_type: reference
+      - name: Morphs Player
+        url: https://github.com/JanSeliv/MorphsPlayer
+        description: A plugin that allows to play Morph Targets directly on the animation track of your skeletal mesh.
+        entry_type: reference
+      - name: PsWebServer
+        url: https://github.com/PushkinStudio/PsWebServer
+        description: Civet web server integration plugin for Unreal Engine 4
+        entry_type: reference
+      - name: PsReplayKit
+        url: https://github.com/PushkinStudio/PsReplayKit
+        description: Unreal Engine 4 plugin for iOS to record or stream video from the screen, and audio from the app and microphone
+        entry_type: reference
+      - name: PsFacebookMobile
+        url: https://github.com/PushkinStudio/PsFacebookMobile
+        description: Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
+        entry_type: reference
+      - name: UE4GameLiftClientSDK
+        url: https://github.com/YetiTech-Studios/UE4GameLiftClientSDK
+        description: Gamelift Client SDK for Unreal Engine 4
+        entry_type: tool
+      - name: acl-ue4-plugin
+        url: https://github.com/nfrechette/acl-ue4-plugin
+        description: The official Animation Compression Library Unreal Engine 4 plugin
+        entry_type: tool
+      - name: KawaiiPhysics
+        url: https://github.com/pafuhana1213/KawaiiPhysics
+        description: Simple fake Physics for UnrealEngine4
+        entry_type: reference
+      - name: UnrealLive2D
+        url: https://github.com/Arisego/UnrealLive2D
+        description: UE4 plugin for live2d model
+        entry_type: reference
+      - name: ArticyImporterForUnreal
+        url: https://github.com/ArticySoftware/ArticyImporterForUnreal
+        description: Articy Importer plugin for the Unreal Engine 4.
+        entry_type: reference
+      - name: Cesium for Unreal
+        url: https://github.com/CesiumGS/cesium-unreal
+        description: Bringing the 3D geospatial ecosystem to Unreal Engine
+        entry_type: reference
+      - name: RealtimeMeshComponent
+        url: https://github.com/TriAxis-Games/RealtimeMeshComponent
+        description: Unreal Engine 5 plugin component for rendering runtime generated content.
+        entry_type: reference
+      - name: PluginTemplate
+        url: https://github.com/Sythenz/PluginTemplate
+        description: A basic Unreal Template with Editor and Runtime Module.
+        entry_type: reference
+      - name: MySQLConnectorUE4Plugin
+        url: https://github.com/KhArtNJava/MySQLConnectorUE4Plugin
+        description: MySQL Database Connector Plugin for Unreal Engine 4
+        entry_type: reference
+      - name: SQLite3UE4
+        url: https://github.com/KhArtNJava/SQLite3UE4
+        description: SQLite3 Database Plugin for Unreal Engine 4
+        entry_type: reference
+      - name: UE4-AuroraEffect
+        url: https://github.com/Hideous/UE4-AuroraEffect
+        description: A raymarched aurora borealis effect for Unreal 4
+        entry_type: reference
+      - name: NiagaraUIRenderer
+        url: https://github.com/SourySK/NiagaraUIRenderer
+        description: Niagara UI Renderer | Free Plugin for Unreal Engine
+        entry_type: reference
+      - name: UE5-StylizedPostProcess
+        url: https://github.com/ymt3d/UE5-StylizedPostProcess
+        description: Stylized Post Process for Unreal Engine 5
+        entry_type: reference
+      - name: OceanProject
+        url: https://github.com/UE4-OceanProject/OceanProject
+        description: An Ocean Simulation project for Unreal Engine 4
+        entry_type: reference
+      - name: RuntimeMeshComponent
+        url: https://github.com/Koderz/RuntimeMeshComponent
+        description: Unreal Engine 4 plugin component for rendering runtime generated content
+        entry_type: reference
+      - name: Greebler
+        url: https://github.com/alexismorin/Greebler
+        description: UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
+        entry_type: reference
+      - name: cashgenUE
+        url: https://github.com/midgen/cashgenUE
+        description: Runtime Procedural Terrain Generator for UnrealEngine
+        entry_type: reference
+      - name: OpenLand
+        url: https://github.com/GameDev4K/unreal-open-land
+        description: An OpenSource Landscape Auto Material
+        entry_type: reference
+      - name: DungeonGenerator
+        url: https://github.com/orfeasel/DungeonGenerator
+        description: An Unreal Engine 4 Dungeon Generator
+        entry_type: reference
+      - name: UE4-CustomGravityPlugin
+        url: https://github.com/mhousse1247/UE4-CustomGravityPlugin
+        description: 'Unreal Engine 4 : Custom Gravity Plugin'
+        entry_type: reference
+      - name: GASShooter
+        url: https://github.com/tranek/GASShooter
+        description: Advanced FPS/TPS Sample Project for Unreal Engine 4's GameplayAbilitySystem plugin
+        entry_type: reference
+      - name: Inventory + Equipment System
+        url: https://github.com/angelhodar/OpenRPG_Inventory
+        description: Generic and fully featured multipurpose inventory container and equipment system for Unreal Engine 4
+        entry_type: reference
+      - name: Horizontal 360 Radar
+        url: https://github.com/angelhodar/OpenRPG_RadarSystem
+        description: Horizontal 360º rich featured radar system, typically seen in games like Skyrim, for Unreal Engine 4
+        entry_type: reference
+      - name: Stats + Attributes
+        url: https://github.com/angelhodar/OpenRPG_Stats
+        description: A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
+        entry_type: reference
+      - name: PsRealVehicle
+        url: https://github.com/PushkinStudio/PsRealVehicle
+        description: PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
+        entry_type: reference
+      - name: WeaponTrace-Unreal
+        url: https://github.com/getnamo/WeaponTrace-Unreal
+        description: WeaponTracing plugin for reliable melee combat.
+        entry_type: reference
+      - name: GhostMeshPlugin
+        url: https://github.com/NoahZuo/GhostMeshPlugin
+        description: This is a UE4 plugin that can create ghost mesh in Unreal Engine 4
+        entry_type: reference
+      - name: CensoredUE4
+        url: https://github.com/BitReign/CensoredUE4
+        description: World space area censoring solution for Unreal Engine 4. It is using blueprint actor for censoring and can be attached to any other blueprint actor like characters
+        entry_type: reference
+      - name: unrealcv
+        url: https://github.com/unrealcv/unrealcv
+        description: 'UnrealCV: Connecting Computer Vision to Unreal Engine'
+        entry_type: reference
+      - name: OpenCL.uplugin
+        url: https://github.com/kwonoh/OpenCL.uplugin
+        description: OpenCL Plugin for Unreal Engine 4
+        entry_type: reference
+      - name: RuntimeFilesDownloader
+        url: https://github.com/gtreshchev/RuntimeFilesDownloader
+        description: Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
+        entry_type: reference
+      - name: RuntimeAudioImporter
+        url: https://github.com/gtreshchev/RuntimeAudioImporter
+        description: Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
+        entry_type: reference
+      - name: RuntimeMeshLoader
+        url: https://github.com/Chrizey91/RuntimeMeshLoader
+        description: A pluging for Unreal Engine 4, which allows to import meshes during runtime.
+        entry_type: reference
+      - name: UE4-BYGLocalization
+        url: https://github.com/BraceYourselfGames/UE4-BYGLocalization
+        description: Simple CSV localization system for Unreal Engine 4
+        entry_type: reference
+      - name: tensorflow-ue4
+        url: https://github.com/getnamo/tensorflow-ue4
+        description: TensorFlow plugin for Unreal Engine 4
+        entry_type: reference
+      - name: UELlama
+        url: https://github.com/mika314/UELlama
+        description: Llama plugin for Unreal Engine 5
+        entry_type: reference
+      - name: MobileUtils
+        url: https://github.com/gameDNAstudio/MobileUtils
+        description: A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
+        entry_type: reference
+      - name: AndroidNative
+        url: https://github.com/gtreshchev/AndroidNative
+        description: Android Native plugin for Unreal Engine that makes it easy to call Java functions via JNI.
+        entry_type: reference
+      - name: mod.io
+        url: https://github.com/modio/modio-ue
+        description: Unreal Engine Plugin for easily integrating mod.io into your game - the UGC management service for game developers.
+        entry_type: reference
+      - name: socketio-client-ue4
+        url: https://github.com/getnamo/socketio-client-ue4
+        description: socket.io client plugin for Unreal Engine 4
+        entry_type: reference
+      - name: InfraworldRuntime
+        url: https://github.com/vizor-games/InfraworldRuntime
+        description: A solution that enables Unreal Engine 4 to work with Google gRPC services from either C++ or Blueprints.
+        entry_type: reference
+      - name: udp-ue4
+        url: https://github.com/getnamo/udp-ue4
+        description: Convenience UDP wrapper for Unreal Engine 4
+        entry_type: reference
+      - name: tcp-ue4
+        url: https://github.com/getnamo/tcp-ue4
+        description: Convenience TCP wrapper for Unreal Engine 4
+        entry_type: reference
+      - name: UE4MasterServer
+        url: https://github.com/RyroNZ/UE4MasterServer
+        description: This is a plugin for Unreal Engine 4 that adds server registration, deregistration etc with a master server.
+        entry_type: reference
+      - name: UEWebsocket
+        url: https://github.com/kristjanvalur/UEWebsocket
+        description: unreal engine 4 websocket plugin for both c++ and blueprint developer
+        entry_type: reference
+      - name: mqtt-utilities-unreal
+        url: https://github.com/NinevaStudios/mqtt-utilities-unreal
+        description: MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
+        entry_type: reference
+      - name: ble-utilities-unreal
+        url: https://github.com/NinevaStudios/ble-utilities-unreal
+        description: This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
+        entry_type: reference
+      - name: GGPOUE4
+        url: https://github.com/BwdYeti/GGPOUE4
+        description: Unreal Engine 4 plugin port of GGPO
+        entry_type: reference
+      - name: UE-DSSPlugin
+        url: https://github.com/sha3sha3/UE-DSSPlugin
+        description: Scalable MMO servers instantiation, dungeon instantiation and player balancing subsystem for unreal engine
+        entry_type: reference
+      - name: UE-EasyKafka
+        url: https://github.com/sha3sha3/UE-EasyKafka
+        description: EasyKafka is a Kafka/Redpanda client sub-system for unreal engine. It supports producing and consuming records through blueprint and C++.
+        entry_type: reference
+      - name: Unreal-SignalR
+        url: https://github.com/FrozenStormInteractive/Unreal-SignalR
+        description: SignalR client for Unreal Engine.
+        entry_type: reference
+      - name: LocusReplicationGraph
+        url: https://github.com/locus84/LocusReplicationGraph
+        description: Simple Unity Addressables Alternative That Supports Synchronized API And Memory Management.
+        entry_type: reference
+      - name: Unreal-Magic-Nodes
+        url: https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes
+        description: Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
+        entry_type: reference
+      - name: UE4_EOS_Plugin
+        url: https://github.com/gaslightgames/UE4_EOS_Plugin
+        description: A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
+        entry_type: tool
+      - name: Nano
+        url: https://github.com/pfist/Nano
+        description: A tiny template for tiny Unreal games.
+        entry_type: reference
+      - name: UnrealEnginePython
+        url: https://github.com/20tab/UnrealEnginePython
+        description: Embed Python in Unreal Engine 4
+        entry_type: reference
+      - name: sluaunreal
+        url: https://github.com/Tencent/sluaunreal
+        description: lua dev plugin for unreal engine 4
+        entry_type: reference
+      - name: USharp
+        url: https://github.com/pixeltris/USharp
+        description: C# plugin for Unreal Engine 4
+        entry_type: reference
+      - name: LuaMachine
+        url: https://github.com/rdeioris/LuaMachine
+        description: Unreal Engine 4 Plugin for Lua APIs implementation
+        entry_type: reference
+      - name: puerts
+        url: https://github.com/Tencent/puerts
+        description: Write your game with TypeScript in the ue4 or unity
+        entry_type: reference
+      - name: nimue4
+        url: https://github.com/pragmagic/nimue4
+        description: Nim language integration for Unreal Engine 4
+        entry_type: reference
+      - name: kotlin-unreal
+        url: https://github.com/hiperbou/kotlin-unreal
+        description: 'kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4'
+        entry_type: reference
+      - name: Unreal.hx
+        url: https://github.com/proletariatgames/unreal.hx
+        description: 'Unreal.hx: Haxe Integration for Unreal'
+        entry_type: reference
+      - name: SilvervineUE4Lua
+        url: https://github.com/devcat-studio/SilvervineUE4Lua
+        description: A Lua Scripting Plugin for Unreal Engine 4
+        entry_type: reference
+      - name: ue4-protobuf
+        url: https://github.com/hxhb/ue4-protobuf
+        description: This is an Unreal Engine 4 plugin that integrates Protobuf into the project without requiring you to add system PATH or anything else.
+        entry_type: reference
+      - name: DataConfig
+        url: https://github.com/slowburn-dev/DataConfig
+        description: Serialization framework for Unreal Engine Property System that just works!
+        entry_type: tool
+      - name: AudioAnalysisTools
+        url: https://github.com/gtreshchev/AudioAnalysisTools
+        description: Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
+        entry_type: reference
+      - name: XJ music
+        url: https://github.com/xjmusic/UnrealPlugin/
+        description: XJ music plugin for Unreal Engine. XJ is the first end-to-end solution for adaptive music in video games built specifically and only for music, enabling composers to realize new possibilities.
+        entry_type: reference
+      - name: RuntimeSpeechRecognizer
+        url: https://github.com/gtreshchev/RuntimeSpeechRecognizer
+        description: Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
+        entry_type: reference
+      - name: OSVR-Unreal
+        url: https://github.com/OSVR/OSVR-Unreal
+        description: OSVR plugin for Unreal Engine
+        entry_type: reference
+      - name: MixedReality-UXTools-Unreal
+        url: https://github.com/microsoft/MixedReality-UXTools-Unreal
+        description: UX tools and components for developing Mixed Reality applications in UE4.
+        entry_type: reference
+      - name: UMG-ResizableWidget
+        url: https://github.com/MWadstein/UMG-ResizableWidget
+        description: Resizable Widget for UMG for Unreal Engine 4
+        entry_type: reference
+      - name: FastSwitcher
+        url: https://github.com/gameDNAstudio/FastSwitcher
+        description: Fast Switcher UMG for Unreal Engine 4 loads only the needed widget
+        entry_type: reference
+      - name: Unreal-UMG-3DObjectInWidget
+        url: https://github.com/Tolc/Unreal-UMG-3DObjectInWidget
+        description: A simple Unreal Engine 4 project (precisely 4.7.4) showing how to render a 3D object/mesh in a UMG widget
+        entry_type: reference
+      - name: UE4GamepadUMG
+        url: https://github.com/EverNewJoy/UE4GamepadUMG
+        description: Unreal Engine 4 gamepad plugin so you can use a gamepad like a mouse in UMG
+        entry_type: reference
+      - name: UnrealImGui
+        url: https://github.com/segross/UnrealImGui
+        description: Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.
+        entry_type: tool
+      - name: ue4-uitween
+        url: https://github.com/benui-dev/ue4-uitween
+        description: Unreal 4 UMG UI tweening library in C++
+        entry_type: tool
+      - name: ue4-canvas-gui
+        url: https://github.com/MaddyOff/ue4-canvas-gui
+        description: It's a simple Canvas GUI for Unreal Engine 4 with mouse operation
+        entry_type: reference
+      - name: FairyGUI-unreal
+        url: https://github.com/fairygui/FairyGUI-unreal
+        description: A flexible UI framework for Unreal Engine
+        entry_type: tool
+      - name: ZipUtility Plugin
+        url: https://github.com/getnamo/ZipUtility-ue4
+        description: Event driven 7zip utility plugin for Unreal Engine 4
+        entry_type: reference
+      - name: Unreal-Library
+        url: https://github.com/EliotVU/Unreal-Library
+        description: UE Explorer's library for parsing data from games built with the Unreal Engine.
+        entry_type: tool
+      - name: ProjectExodus
+        url: https://github.com/NegInfinity/ProjectExodus
+        description: Project Exodus - Unity to Unreal scene/project transfer tool.
+        entry_type: tool
+      - name: UE4-Binary-Builder
+        url: https://github.com/ryanjon2040/UE4-Binary-Builder
+        description: An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
+        entry_type: reference
+      - name: prefabricator-ue4
+        url: https://github.com/coderespawn/prefabricator-ue4
+        description: Prefabricator - Prefab plugin for Unreal Engine 4
+        entry_type: reference
+      - name: WindowCapture2D
+        url: https://github.com/ayumax/WindowCapture2D
+        description: Library for capturing and displaying windows in real time with UnrealEngine
+        entry_type: tool
+      - name: UnrealFastNoise
+        url: https://github.com/midgen/UnrealFastNoise
+        description: Modular, Blueprint-friendly noise generation for UE4
+        entry_type: reference
+      - name: UnrealFastNoise2
+        url: https://github.com/DoubleDeez/UnrealFastNoise2
+        description: A plugin that wraps [FastNoise2](https://github.com/Auburn/FastNoise2), allowing you to use the FastNoise2 library in blueprints.
+        entry_type: tool
+      - name: AsyncLoadingScreen
+        url: https://github.com/truong-bui/AsyncLoadingScreen
+        description: Async Loading Screen is a free and open-source plugin for Unreal Engine. Async Loading Screen allows you to easily configure a Loading Screen System in the project settings, and automatically add a
+        entry_type: reference
+      - name: global-event-system-ue4
+        url: https://github.com/getnamo/global-event-system-ue4
+        description: A loosely coupled internal global event system (GES) plugin for the Unreal Engine. Aims to solve cross-map and cross-blueprint communication for reliable and inferable event flow.
+        entry_type: reference
+      - name: Ue4MarchingCubes
+        url: https://github.com/mikhomak/Ue4MarchingCubes
+        description: 3D Perlin Noise using Marching cubes algorithm for Unreal Engine 4
+        entry_type: reference
+      - name: UE4-Node-Graph-Assistant
+        url: https://github.com/pdlogingithub/UE4-Node-Graph-Assistant
+        description: A plugin to help you to create node graph faster and easier in unreal engine 4.
+        entry_type: reference
+      - name: Hermes
+        url: https://github.com/jorgenpt/Hermes
+        description: An Unreal Engine plugin that allows direct (deep) links into the UE4 editor
+        entry_type: reference
+      - name: RedTalaria
+        url: https://github.com/cdpred/RedTalaria
+        description: an Unreal Engine plugin providing a set of Hermes endpoints
+        entry_type: reference
+      - name: unreal-bp-csv-parsing
+        url: https://github.com/IncantaGames/unreal-bp-csv-parsing
+        description: Unreal Engine plugin that adds CSV parsing blueprint nodes
+        entry_type: reference
+      - name: MDMetaDataEditor
+        url: https://github.com/DoubleDeez/MDMetaDataEditor
+        description: Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
+        entry_type: reference
+      - name: UE-EasyJWT
+        url: https://github.com/sha3sha3/UE-EasyJWT
+        description: JWT wrapper (Engine Sub-system) for Unreal Engine.
+        entry_type: reference
+      - name: ue5coro
+        url: https://github.com/landelare/ue5coro
+        description: A C++20 coroutine plugin, offering seamless integration with Unreal Engine 5.
+        entry_type: reference
+      - name: RemCommon
+        url: https://github.com/RemRemRemRe/RemCommon
+        description: Common utilities for gameplay in UnrealEngine
+        entry_type: reference
+      - name: RemRanges
+        url: https://github.com/RemRemRemRe/RemRanges
+        description: Combination of IGRanges and ranges-v3 for Unreal
+        entry_type: reference
+      - name: ViewportManager
+        url: https://github.com/jackcayc924/ViewportManager
+        description: A C++ based plugin for Unreal Engine that allows for multiple customizable viewports
+        entry_type: reference
+      - name: sublime-unreal-snippets
+        url: https://github.com/awforsythe/sublime-unreal-snippets
+        description: A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
+        entry_type: reference
+      - name: vscode-unreal-snippets
+        url: https://github.com/pseuplex/vscode-unreal-snippets
+        description: Unreal Engine snippets based on https://github.com/awforsythe/sublime-unreal-snippets.
+        entry_type: reference
+      - name: EasyJsonParser
+        url: https://github.com/ayumax/EasyJsonParser
+        description: json parse library for unreal engine
+        entry_type: tool
+      - name: EasyXMLParser
+        url: https://github.com/ayumax/EasyXMLParser
+        description: xml parse library for unreal engine
+        entry_type: tool
+      - name: ue4-docker
+        url: https://github.com/adamrehn/ue4-docker
+        description: Windows and Linux containers for Unreal Engine 4
+        entry_type: reference
+      - name: LocalizationUE4
+        url: https://github.com/rionix/LocalizationUE4
+        description: Translation Editor for Unreal Engine 4
+        entry_type: reference
+      - name: UnrealVersionChanger
+        url: https://github.com/Gradess2019/UnrealVersionChanger
+        description: Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
+        entry_type: tool
+      - name: Nuke.Unreal
+        url: https://github.com/microdee/Nuke.Unreal
+        description: C# scriptable workflow for automating Unreal Engine project tasks embracing the [Nuke](https://nuke.build) target graph and fluent API tool bindings.
+        entry_type: tool
+      - name: Fresh Cooked Tweens
+        url: https://github.com/jdcook/fresh_cooked_tweens
+        description: A tweening library for Unreal Engine that provide convenient curve equations to ease a value between a start and end, like a position, scale, color, anything you want to smoothly change.
+        entry_type: tool
+      - name: UE-BUITween
+        url: https://github.com/benui-dev/UE-BUITween
+        description: UI Tweening Libary for Unreal Engine UMG UI. Create simple tweens for UMG widgets from C++.
+        entry_type: reference
+      - name: Game Development & Unreal Engine Programming Guide
+        url: https://github.com/ikrima/gamedevguide
+        description: Game Development & Unreal Engine Programming Guide https://ikrima.dev
+        entry_type: reference
+      - name: unrealcpp
+        url: https://github.com/Harrison1/unrealcpp
+        description: Unreal Engine 4 C++ examples
+        entry_type: reference
   - slug: game-dev-level-design
     title: Game Dev Tools — Level Design
     description: Level editors and blockout tools.
@@ -2204,6 +2988,14 @@ subsections:
       - name: GILES
         url: https://github.com/Unity-Technologies/giles
         description: A Runtime Level Editor for Unity3D. ![Official](UnityResource16x16.png)
+        entry_type: reference
+      - name: Editor2D
+        url: https://github.com/stillwwater/editor2d
+        description: Tile based level editor for Unity
+        entry_type: reference
+      - name: Sprytile
+        url: https://github.com/Sprytile/Sprytile
+        description: a blender add-on for building tile based low-poly scenes with paint/map editor like tools. [[more info]](https://chemikhazi.itch.io/sprytile)
         entry_type: reference
   - slug: game-dev-dialogue-narrative
     title: Game Dev Tools — Dialogue & Narrative
@@ -2418,6 +3210,14 @@ subsections:
         url: https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services
         description: '[multiplayer].'
         entry_type: software
+      - name: Bomber
+        url: https://github.com/JanSeliv/Bomber
+        description: Open-source Bomberman multiplayer game made in Unreal Engine 5.
+        entry_type: reference
+      - name: colyseus-unreal
+        url: https://github.com/charisma-ai/colyseus-unreal
+        description: Colyseus Multiplayer SDK for Unreal Engine
+        entry_type: tool
   - slug: game-dev-sprite-vfx
     title: Game Dev Tools — Sprite & VFX
     description: Sprite animation, 2D VFX, texture packers.
@@ -2745,6 +3545,14 @@ subsections:
         url: https://github.com/SnpM/LockstepFramework
         description: A framework designed for games that need lockstep simulations. It includes a deterministic 2D physics engine, pathfinding, behavior system, and more. LSF is integrated with Unity.
         entry_type: tool
+      - name: UnrealJolt
+        url: https://github.com/Yadhu-S/UnrealJolt
+        description: Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
+        entry_type: reference
+      - name: Cannon.js
+        url: http://schteppe.github.io/cannon.js/
+        description: Lightweight and simple 3D physics engine for the web.
+        entry_type: tool
   - slug: game-dev-version-control
     title: Game Dev Tools — Version Control
     description: Version control for binary-heavy game projects.
@@ -2943,6 +3751,42 @@ subsections:
         url: https://watabou.itch.io/medieval-fantasy-city-generator
         description: 'This application generates a random medieval city layout of a requested size. [City Viewer](https://watabou.itch.io/city-viewer) : is a 3d-visualizer for MFCD. See other generators from [watabou.it'
         entry_type: software
+      - name: Pixel Composer
+        url: https://github.com/Ttanasart-pt/Pixel-Composer
+        description: Powerful node-based VFX editor for pixel art
+        entry_type: reference
+      - name: RGFW
+        url: https://github.com/ColleagueRiley/RGFW
+        description: Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
+        entry_type: tool
+      - name: Wolfenstein 3D
+        url: https://github.com/id-Software/wolf3d
+        description: Wolfenstein 3D.
+        entry_type: reference
+      - name: Open 3D Engine (O3ED)
+        url: https://github.com/o3de/o3de
+        description: Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games
+        entry_type: reference
+      - name: friflo ECS
+        url: https://github.com/friflo/Friflo.Engine.ECS
+        description: High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+        entry_type: reference
+      - name: Unity-Audio-Manager
+        url: https://github.com/MathewHDYT/Unity-Audio-Manager
+        description: Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
+        entry_type: reference
+      - name: GlueIT
+        url: https://github.com/Kavex/GlueIT
+        description: Free Simple Spritesheet Tool
+        entry_type: tool
+      - name: <img src="https://github.com/epicgames.png" title="Epic Games" height="50">
+        url: https://github.com/epicgames
+        description: <img src="https://github.com/epicgames.png" title="Epic Games" height="50">.
+        entry_type: reference
+      - name: <img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">
+        url: https://github.com/unity-technologies
+        description: <img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">.
+        entry_type: reference
   - slug: game-dev-learning-channels
     title: Game Dev — YouTube Channels
     description: Channels covering game dev technique, design, and industry.

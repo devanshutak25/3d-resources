@@ -237,6 +237,14 @@ subsections:
         url: https://battleaxe.co/rubberhose
         description: Shape-layer-based IK limb rigging system for fast character animation with one-click rig creation.
         entry_type: tool
+      - name: Commotion
+        url: https://github.com/mrachinskiy/commotion
+        description: Blender add-on for motion graphics.
+        entry_type: reference
+      - name: React-UMG
+        url: https://github.com/ncsoft/React-UMG
+        description: A React renderer for Unreal Motion Graphics With Unreal.js
+        entry_type: reference
   - slug: motion-graphics-tools
     title: Motion Graphics — Tools & Utilities
     description: MG-specific tools and utilities.

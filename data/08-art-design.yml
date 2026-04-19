@@ -144,6 +144,10 @@ subsections:
         url: https://usesmash.com
         description: An list of illustrations over 250+ items
         entry_type: channel
+      - name: Awesome Stock Resources
+        url: https://github.com/neutraltone/awesome-stock-resources
+        description: A collection of links for free stock photography, video and Illustration websites.
+        entry_type: reference
   - slug: concept-art-courses
     title: Concept Art & Illustration — Courses
     description: Structured concept art and design courses.
@@ -268,6 +272,22 @@ subsections:
         url: https://pixenapp.com/
         description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
         entry_type: tutorial
+      - name: Learn HTML5 Graphics and Animation
+        url: https://egghead.io/courses/learn-html5-graphics-and-animation
+        description: Introduction to the canvas 2D drawing API.
+        entry_type: tutorial
+      - name: 'Intro to JS: Drawing & Animation'
+        url: https://www.khanacademy.org/computing/computer-programming/programming
+        description: Use JavaScript and the ProcessingJS library to create drawings and animations.
+        entry_type: tutorial
+      - name: Animation with Dall-e + AE | Reddit
+        url: https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/
+        description: Patent drawing of an electronic device that ...
+        entry_type: community
+      - name: Instanced Line Rendering Part I
+        url: https://wwwtyro.net/2019/11/18/instanced-lines.html
+        description: Builds on the foundation from "Drawing Lines is Hard" and uses instance rendering to draw lines.
+        entry_type: tutorial
   - slug: photography
     title: Photography — Reference & Fundamentals
     description: Photography knowledge directly applicable to 3D lighting and composition.
@@ -330,6 +350,16 @@ subsections:
         url: http://reddit.com/r/fossphotography
         description: Community about Free open source software for Photography on reddit.
         entry_type: community
+      - name: ButtleOFX
+        url: https://github.com/buttleofx/ButtleOFX
+        description: A simple, user-friendly and open source compositing software.
+        entry_type: reference
+      - name: |-
+          Femto-Photography: Visualizing Photons in Motion at a
+          Trillion Frames Per Second
+        url: http://web.media.mit.edu/~raskar//trillionfps/
+        description: . Raskar et al.
+        entry_type: reference
   - slug: cinematography-camera
     title: Cinematography & Camera Work
     description: Shot composition, camera techniques, lighting for film/CG.
@@ -575,6 +605,10 @@ subsections:
         readme_tags:
           - Research-backed
           - Hierarchy
+      - name: Kerning Tool
+        url: https://forums.odforce.net/topic/42827-kerning-tool/
+        description: Kerning typography in Houdini.
+        entry_type: reference
   - slug: color-theory-tools
     title: Color Theory & Tools
     description: Color palettes, generators, matching, and theory tools.

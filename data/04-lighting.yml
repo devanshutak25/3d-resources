@@ -627,6 +627,698 @@ subsections:
         url: https://www.youtube.com/user/bcloward
         description: Focused primarily on shader creation tutorials.
         entry_type: channel
+      - name: Houdini
+        url: https://www.sidefx.com/products/houdini/
+        description: To create procedural 3D assets. The free licence "Houdini
+        entry_type: reference
+      - name: Learning DirectX 12
+        url: https://www.3dgep.com/learning-directx-12-1/
+        description: Learning DirectX 12.
+        entry_type: reference
+      - name: 3D Programming Weekly Articles
+        url: https://www.3dkingdoms.com/weekly/weekly.php
+        description: Great collection of shader and math related resources.
+        entry_type: reference
+      - name: Shader Derivative Functions
+        url: http://www.aclockworkberry.com/shader-derivative-functions/
+        description: Useful for normals.
+        entry_type: reference
+      - name: Anatole Drupat (XT95)
+        url: http://www.aduprat.com/
+        description: Recognized shader artist with a big trajectory [ST Profile](https://www.shadertoy.com/user/XT95)
+        entry_type: reference
+      - name: GPU Driven Rendering - Siggraph 2015
+        url: http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf
+        description: GPU Driven Rendering - Siggraph 2015.
+        entry_type: reference
+      - name: Introduction to shaders
+        url: https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/
+        description: Part 1 of an introduction to shaders using threejs.
+        entry_type: reference
+      - name: Efficient Gradient-Domain Compositing Using Quadtrees
+        url: http://www.agarwala.org/efficient_gdc/preprint.pdf
+        description: . ACM Trans. Graph. 2007
+        entry_type: reference
+      - name: Intro Three.js
+        url: https://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/
+        description: Introduction to Shaders in Three.js
+        entry_type: reference
+      - name: A Pixel is not a Little Square!
+        url: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
+        description: Classic paper on misconception of "a pixel is a little square." It also serves as an introduction to sampling.
+        entry_type: reference
+      - name: CopperLicht
+        url: https://www.ambiera.com/copperlicht/index.html
+        description: JavaScript library and WebGL 3D engine for creating games and 3D applications.
+        entry_type: reference
+      - name: Introduction to Compute Shaders
+        url: https://anteru.net/blog/2018/intro-to-compute-shaders/
+        description: Introduction to Compute Shaders.
+        entry_type: reference
+      - name: More Compute Shaders
+        url: https://anteru.net/blog/2018/more-compute-shaders/
+        description: More Compute Shaders.
+        entry_type: reference
+      - name: Even more Compute Shaders
+        url: https://anteru.net/blog/2018/even-more-compute-shaders/
+        description: Even more Compute Shaders.
+        entry_type: reference
+      - name: OpenGL 4 Shaders
+        url: https://antongerdelan.net/opengl/shaders.html
+        description: Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
+        entry_type: reference
+      - name: apitrace
+        url: http://apitrace.github.io
+        description: Tools for tracing OpenGL, Direct3D, and other graphics APIs.
+        entry_type: reference
+      - name: NodeToy
+        url: https://app.nodetoy.co/
+        description: The shader tool for the web. NodeToy provides creators a powerful editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking [react-nodetoy](h
+        entry_type: reference
+      - name: How does a GPU Shader work?
+        url: https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf
+        description: How does a GPU Shader work?.
+        entry_type: reference
+      - name: Bart Wronski's blog
+        url: https://bartwronski.com/
+        description: . Bart Wronski shares insights into real-time rendering, post-processing effects, and advanced graphics techniques.
+        entry_type: reference
+      - name: Rendering Resources - Benedikt Bitterli
+        url: https://benedikt-bitterli.me/resources/
+        description: Scenes in Tungsten, Mitsuba and pbrt-v3 formats.
+        entry_type: reference
+      - name: Blend4Web
+        url: https://www.blend4web.com/en/
+        description: Tool for interactive 3D visualization on the Internet.
+        entry_type: reference
+      - name: Path tracing fractals
+        url: http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/
+        description: by Mikael Hvidtfeldt Christensen|[Arlo ... in a fragment shader](https://t.co/jJeGzTGmNC) by Inigo Quilez|
+        entry_type: reference
+      - name: Casual effects by Morgan McGuire
+        url: https://casual-effects.com/
+        description: . Morgan McGuire's site is a great resource for those interested in learning about real-time rendering techniques. It provides a wealth of information on various rendering techniques, making it an exc
+        entry_type: reference
+      - name: Catlike Coding
+        url: https://catlikecoding.com/
+        description: Focuses on C# and shaders in Unity.
+        entry_type: reference
+      - name: Cesium
+        url: https://cesiumjs.org/
+        description: Open-source library for world-class 3D globes and maps.
+        entry_type: reference
+      - name: Virtual ray lights for rendering scenes with participating media
+        url: http://cg.ivd.kit.edu/publications/p2012/VRL/VRL.pdf
+        description: . Novak et al. 2012 SIGGRAPH 2012.
+        entry_type: reference
+      - name: ComputeToys
+        url: https://compute.toys/
+        description: is an innovative and experimental WebGPU compute shader editor designed to help developers explore the capabilities of the WebGPU API for creating high-performance graphics applications in the browse
+        entry_type: reference
+      - name: A Radiative Transfer Framework for Rendering Materials with Anisotropic Structure
+        url: http://www.cs.cornell.edu/projects/diffusion-sg10/
+        description: A Radiative Transfer Framework for Rendering Materials with Anisotropic Structure.
+        entry_type: reference
+      - name: Microfacet Models for Refraction through Rough Surfaces
+        url: https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf
+        description: . Walter et al. Eurographics Symposium on Rendering 2007.
+        entry_type: reference
+      - name: Optimally Combining Sampling Techniques for Monte Carlo Rendering
+        url: http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf
+        description: Veach & Guibas. SIGGRAPH 1995.
+        entry_type: reference
+      - name: Practical Rendering of Multiple Scattering Effects in Participating Media
+        url: https://cseweb.ucsd.edu/~ravir/HRPIEG.pdf
+        description: '. Premoze et al. Rendering Techniques 2004: 15th Eurographics Workshop on Rendering.'
+        entry_type: marketplace
+      - name: Cyos
+        url: https://cyos.babylonjs.com/
+        description: Online shader editor.
+        entry_type: reference
+      - name: Everything (or most things) wrong with learnopengl.com/PBR/Theory
+        url: https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit
+        description: Everything (or most things) wrong with learnopengl.com/PBR/Theory.
+        entry_type: reference
+      - name: Direct3D 12 programming guide
+        url: https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide
+        description: Direct3D 12 programming guide.
+        entry_type: reference
+      - name: Resource Binding - Direct3D 12 Programming Guide
+        url: https://docs.microsoft.com/en-us/windows/win32/direct3d12/resource-binding
+        description: Resource Binding - Direct3D 12 Programming Guide.
+        entry_type: reference
+      - name: Shadowing by Non-Gaussian Random Surfaces
+        url: http://dx.doi.org/10.1109/TAP.1980.1142437
+        description: . Garry S. Brown, IEEE Transactions on Antennas and Propagaion (1980).
+        entry_type: reference
+      - name: The Interactive Shader Format (ISF) Editor
+        url: https://editor.isf.video/
+        description: is an online tool for creating and editing GLSL shaders in the ISF format, which is commonly used in VJ software, live performance applications, and interactive installations.
+        entry_type: reference
+      - name: GlslEditor
+        url: https://editor.thebookofshaders.com/
+        description: Simple WebGL Fragment Shader Editor.
+        entry_type: reference
+      - name: Fabian 'ryg' Giesen's Blog
+        url: https://fgiesen.wordpress.com/
+        description: . Fabian Giesen's blog covers topics like rendering, optimization, and low-level programming, with a focus on practical techniques.
+        entry_type: reference
+      - name: Shaping functions
+        url: http://www.flong.com/archive/texts/code/
+        description: Awesome set of shaping functions for shaders
+        entry_type: reference
+      - name: framer-motion
+        url: https://www.framer.com/motion/
+        description: A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for bindin
+        entry_type: reference
+      - name: Creative Coding with Canvas & WebGL
+        url: https://frontendmasters.com/courses/canvas-webgl/
+        description: Workshop by Matt DesLauriers that teaches you about generative art, interactive animations, 3D graphics, and shaders.
+        entry_type: marketplace
+      - name: Advanced Creative Coding with WebGL & Shaders
+        url: https://frontendmasters.com/courses/webgl-shaders/
+        description: Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
+        entry_type: marketplace
+      - name: 3D Math Primer for Graphics and Game Development
+        url: https://gamemath.com/book/intro.html
+        description: A must-read book to be
+        entry_type: reference
+      - name: Unity Shader Tutorials
+        url: https://github.com/lindenreid/Unity-Shader-Tutorials
+        description: Full project and code for all of my shader tutorials.
+        entry_type: reference
+      - name: Unity3D Shaders Learning
+        url: https://github.com/TarasOsiris/unity3d-shaders-learning
+        description: ust learning Unity3D shaders here.
+        entry_type: reference
+      - name: Shader Graph Tutorials
+        url: https://github.com/Brackeys/Shader-Graph-Tutorials
+        description: Project files for our tutorials on using Shader Graph in Unity.
+        entry_type: reference
+      - name: UnityVJShaderSlide20181108
+        url: https://github.com/kaiware007/UnityVJShaderSlide20181108
+        description: UnityVJShaderSlide20181108.
+        entry_type: reference
+      - name: ShaderGraphExample
+        url: https://github.com/rngtm/ShaderGraphExample
+        description: ShaderGraphExample.
+        entry_type: reference
+      - name: Resources for Writing Shaders in Unity
+        url: https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity
+        description: 'For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!'
+        entry_type: reference
+      - name: UnityShaderCheatsheet
+        url: https://github.com/nothke/UnityShaderCheatsheet
+        description: Collection of Unity shader copypastas and gotchas.
+        entry_type: reference
+      - name: Blender Addon PBR
+        url: https://github.com/DigiKrafting/blender_addon_pbr
+        description: Provides a material panel that creates Metallic/Roughness or Specular/Gloss Nodes using the Principled BSDF shader.
+        entry_type: reference
+      - name: Lily Surface Scrapper
+        url: https://github.com/eliemichel/LilySurfaceScrapper
+        description: Import shaders in Blender from a single URL.
+        entry_type: reference
+      - name: Extra Lights
+        url: https://github.com/jlampel/bl_extra_lights
+        description: is a plugin for Blender that adds physically based, photometric lighting presets to the Add menu. [![market]](https://blendermarket.com/products/extra-lights)
+        entry_type: reference
+      - name: NodeToPython
+        url: https://github.com/BrendanParmer/NodeToPython
+        description: Convert Geometry, Shader, and Compositing nodes to legible Python scripts and add-ons. [![][mit]](https://github.com/BrendanParmer/NodeToPython/blob/main/LICENSE)
+        entry_type: reference
+      - name: SHADERed
+        url: https://github.com/dfranx/SHADERed
+        description: is a lightweight tool for creating and testing HLSL and GLSL shaders.
+        entry_type: tool
+      - name: Realistic water shader
+        url: https://github.com/jbouny/ocean
+        description: There are also some links with explanation of the approach
+        entry_type: reference
+      - name: PixelSpirit GitHub
+        url: https://github.com/patriciogonzalezvivo/PixelSpiritDeck
+        description: Library associated with the PixelSpirit Elemens Deck by [@patriciogv](https://twitter.com/patriciogv)
+        entry_type: tool
+      - name: Three-Blender
+        url: https://github.com/ppmpreetham/three-blender
+        description: Blender based tool, to convert your Blender files directly to threeJS.
+        entry_type: tool
+      - name: glslViewer
+        url: https://github.com/patriciogonzalezvivo/glslViewer
+        description: Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform a
+        entry_type: reference
+      - name: lygia
+        url: https://github.com/patriciogonzalezvivo/lygia
+        description: a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your s
+        entry_type: tool
+      - name: fft-ocean
+        url: https://github.com/jbouny/fft-ocean
+        description: Fast Fourier Transform ocean rendering for Three.js
+        entry_type: reference
+      - name: (2014) Ray tracing with OpenGL Compute Shaders
+        url: https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29
+        description: by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
+        entry_type: reference
+      - name: CodeXL
+        url: https://github.com/GPUOpen-Tools/CodeXL
+        description: AMD's tool suite that includes debugger, profiler and frame/shader analysis.
+        entry_type: tool
+      - name: RenderDoc
+        url: https://github.com/baldurk/renderdoc
+        description: RenderDoc is a stand-alone graphics debugging tool.
+        entry_type: tool
+      - name: Magnum
+        url: https://github.com/mosra/magnum
+        description: It is a 2D/3D graphics engine for modern OpenGL.
+        entry_type: reference
+      - name: CelShader
+        url: https://github.com/antidamage/CelShader
+        description: Advanced CelShader project for Unreal Engine 4
+        entry_type: reference
+      - name: Houdini Gaussian Splatting Viewport Renderer
+        url: https://github.com/rubendhz/houdini-gsplat-renderer
+        description: A HDK/GLSL implementation of Gaussian Splatting in Houdini
+        entry_type: reference
+      - name: GLSL Sandbox
+        url: http://glslsandbox.com
+        description: Online live editor for fragment shaders.
+        entry_type: reference
+      - name: Physically Based Rendering in Filament
+        url: https://google.github.io/filament/Filament.html
+        description: Physically Based Rendering in Filament.
+        entry_type: reference
+      - name: GPU Zen Blog
+        url: https://gpuzen.blogspot.com/
+        description: . A blog dedicated to GPU programming and advanced rendering techniques, often featuring excerpts from the GPU Zen book series.
+        entry_type: reference
+      - name: Semi-Automatic Generation of Transfer Functions for Direct Volume Rendering
+        url: http://www.graphics.cornell.edu/pubs/1999/Kin99.pdf
+        description: . Kindlmann & Durkin. IEEE Symposium on Volume Visualization 1998.
+        entry_type: reference
+      - name: Coherent Noise for Non-Photorealistic Rendering
+        url: http://graphics.pixar.com/library/NPRNoise/paper.pdf
+        description: Coherent Noise for Non-Photorealistic Rendering.
+        entry_type: reference
+      - name: Fast Volume Rendering Using a Shear-Warp Factorization of the Viewing Transformation
+        url: https://graphics.stanford.edu/papers/shear/shearwarp.pdf
+        description: . Lacroute & Levoy. SIGGRAPH 1994.
+        entry_type: reference
+      - name: Light field rendering
+        url: https://graphics.stanford.edu/papers/light/
+        description: . Levoy & Hanrahan. Siggraph 1996.
+        entry_type: reference
+      - name: A Rapid Hierarchical Rendering Technique for Translucent Materials
+        url: http://graphics.ucsd.edu/~henrik/papers/fast_bssrdf/fast_bssrdf.pdf
+        description: . Jensen & Buhler. SIGGRAPH 2002.
+        entry_type: reference
+      - name: gsap
+        url: https://greensock.com/gsap/
+        description: A mastodon for animations in CSS and for three.js too, backed up by awesome plugins like ScrollTrigger, Flip,... and mostly framework agnostic.
+        entry_type: reference
+      - name: Temporal light field reconstruction for rendering distribution effects
+        url: http://groups.csail.mit.edu/graphics/tlfr/
+        description: . Lehtinen et al. SIGGRAPH 2011.
+        entry_type: reference
+      - name: Canvas Debugger
+        url: https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/
+        description: Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
+        entry_type: tutorial
+      - name: Shader Editor
+        url: https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/
+        description: Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
+        entry_type: tutorial
+      - name: Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames
+        url: https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf
+        description: Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames.
+        entry_type: reference
+      - name: KodeLife
+        url: https://hexler.net/products/kodelife
+        description: is a real-time shader editor that supports GLSL, HLSL, and Metal, with a user-friendly interface for creating and testing shaders.
+        entry_type: reference
+      - name: KodeLife
+        url: https://hexler.net/software/kodelife
+        description: Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
+        entry_type: reference
+      - name: Fragment-foundry
+        url: http://hughsk.io/fragment-foundry
+        description: Interactive fragment shader tutorial.
+        entry_type: tutorial
+      - name: Humus-3D
+        url: http://www.humus.name/index.php?page=3D&start=16
+        description: Humus-3D.
+        entry_type: reference
+      - name: Site
+        url: https://i3dsymposium.org/2026/
+        description: Site.
+        entry_type: reference
+      - name: ibreakdownshaders
+        url: http://ibreakdownshaders.blogspot.com.au/
+        description: Explore the math behind shaders.
+        entry_type: reference
+      - name: ISF
+        url: https://www.interactiveshaderformat.com/
+        description: GLSL shaders for use in interactive applications.
+        entry_type: reference
+      - name: How to read shader assembly
+        url: https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/
+        description: How to read shader assembly.
+        entry_type: reference
+      - name: Íñigo Quílez
+        url: http://iquilezles.org/index.html
+        description: Hardcore math applied to computer graphics, one of the best shader makers out there. [ST Profile](https://www.shadertoy.com/user/iq)
+        entry_type: reference
+      - name: JanusVR
+        url: https://janusvr.com/
+        description: Webpages as collaborative 3D webspaces interconnected by portals.
+        entry_type: reference
+      - name: WebGl Playground
+        url: http://jessevdk.github.io/webgl-play/
+        description: The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted prope
+        entry_type: reference
+      - name: Symposium on Interactive 3D Graphics and Games
+        url: http://kesen.realtimerendering.com/
+        description: Symposium on Interactive 3D Graphics and Games.
+        entry_type: reference
+      - name: 'Khrnos: Streamlining Render Passes'
+        url: https://www.khronos.org/blog/streamlining-render-passes
+        description: Introduces the [VK_KHR_dynamic_rendering](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VK_KHR_dynamic_rendering.html) extension.
+        entry_type: reference
+      - name: Kick.js Shader Editor
+        url: http://www.kickjs.org/tool/shader_editor/shader_editor.html
+        description: Formal Tool the WebGL engine Kick.js
+        entry_type: reference
+      - name: 'Learn OpenGL: Text Rendering'
+        url: https://learnopengl.com/In-Practice/Text-Rendering
+        description: 'Learn OpenGL: Text Rendering.'
+        entry_type: tutorial
+      - name: PBR - Learn OpenGL
+        url: https://learnopengl.com/PBR/Theory
+        description: PBR - Learn OpenGL.
+        entry_type: tutorial
+      - name: 'Learn OpenGL: Skeletal Animation'
+        url: https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation
+        description: 'Learn OpenGL: Skeletal Animation.'
+        entry_type: tutorial
+      - name: Light House 3D
+        url: http://www.lighthouse3d.com/tutorials/glsl-core-tutorial
+        description: by **Light House 3D**
+        entry_type: reference
+      - name: Let's remove Quaternions from every 3D Engine
+        url: https://marctenbosch.com/quaternions/
+        description: Introduces *Rotors* in Geometric Algebra.
+        entry_type: reference
+      - name: A Survey on Participating Media Rendering Techniques
+        url: http://maverick.inria.fr/Publications/2005/CPPSS05/cerezo.pdf
+        description: . Cerezo et al. Visual Computer, 2005
+        entry_type: reference
+      - name: Bindless Texturing for Deferred Rendering and Decals
+        url: https://mynameismjp.wordpress.com/2016/03/25/bindless-texturing-for-deferred-rendering-and-decals/
+        description: Bindless Texturing for Deferred Rendering and Decals.
+        entry_type: reference
+      - name: NEORT
+        url: https://neort.io/popular
+        description: Digital art platform for creative coders (Fragment Shader, JavaScript Canvas).
+        entry_type: reference
+      - name: Implementing Stereoscopic 3D in your applications
+        url: http://www.nvidia.com/content/gtc-2010/pdfs/2010_gtc2010.pdf
+        description: Implementing Stereoscopic 3D in your applications.
+        entry_type: reference
+      - name: Shader Designer
+        url: https://www.opengl.org/sdk/tools/ShaderDesigner/
+        description: TyphoonLabs' OpenGL Shader Designer
+        entry_type: reference
+      - name: glslViewer
+        url: http://patriciogonzalezvivo.com/2015/glslViewer/
+        description: Live-coding console tool that renders GLSL Shaders.
+        entry_type: reference
+      - name: Patricio Gonzales Vivo
+        url: http://patriciogonzalezvivo.com/
+        description: Main contributor for the magnificent learning site "The book of shaders"
+        entry_type: reference
+      - name: Memory Management section on Pbrt
+        url: https://www.pbr-book.org/3ed-2018/Utilities/Memory_Management
+        description: Memory Management section on Pbrt.
+        entry_type: reference
+      - name: 'Physically Based Rendering: From Theory to Implementation, 2nd Edition (Pharr 2010)'
+        url: http://www.pbrt.org/
+        description: 'Physically Based Rendering: From Theory to Implementation, 2nd Edition (Pharr 2010).'
+        entry_type: reference
+      - name: 'Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL, 6/E'
+        url: http://www.pearsonhighered.com/educator/product/Interactive-Computer-Graphics-A-TopDown-Approach-with-ShaderBased-OpenGL/9780132545235.page
+        description: '[Currently can be bought here] (https://www.amazon.co.uk/Interactive-Computer-Graphics-Top-Down-Shader-Based/dp/0132545233)'
+        entry_type: reference
+      - name: Experimental analysis of BRDF models
+        url: http://people.csail.mit.edu/addy/research/brdf/
+        description: . Ngan et al. Proceedings of the 2005 Eurographics Symposium on Rendering.
+        entry_type: reference
+      - name: 'Photo tourism: Exploring photo collections in 3D'
+        url: http://phototour.cs.washington.edu/
+        description: . Snavely, Seitz, Szzeliski. Siggraph 2006.
+        entry_type: reference
+      - name: Physics-Based Animation
+        url: http://www.physicsbasedanimation.com/
+        description: Contains learning resources and papers.
+        entry_type: reference
+      - name: Pixel Shaders
+        url: http://pixelshaders.com/
+        description: Interactive Introduction to Graphics Programming.
+        entry_type: reference
+      - name: PixelSpirit Elements Deck
+        url: https://pixelspiritdeck.com/
+        description: This is a tarot deck for learning GLSL shaders. Each PixelSpirit card has a visual element and its GLSL shader code. The cards are ordered from simplest to most complex, building a library of code f
+        entry_type: reference
+      - name: Polygonjs
+        url: https://polygonjs.com
+        description: Node-based WebGL design tool, used for procedural geometry, particles, materials
+        entry_type: reference
+      - name: Ray Tracing in One Weekend series
+        url: https://raytracing.github.io/
+        description: Those three short books explain basic concepts of path tracing and implement a software renderer from scratch.
+        entry_type: reference
+      - name: react-spring
+        url: https://www.react-spring.dev/
+        description: An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fibe
+        entry_type: reference
+      - name: Principles of Digital Image Synthesis
+        url: http://www.realtimerendering.com/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf
+        description: Principles of Digital Image Synthesis.
+        entry_type: reference
+      - name: Real-Time Rendering Blog
+        url: https://www.realtimerendering.com/blog/
+        description: . A blog associated with the "Real-Time Rendering" book series, featuring updates on rendering techniques, industry news, and research papers.
+        entry_type: reference
+      - name: Ray Tracing Gems
+        url: https://www.realtimerendering.com/raytracinggems/rtg/index.html
+        description: Like other "gems" book, it contains standalone chapters on various ray tracing topics.
+        entry_type: reference
+      - name: Ray Tracing Gems II
+        url: https://www.realtimerendering.com/raytracinggems/rtg2/index.html
+        description: Ray Tracing Gems II.
+        entry_type: reference
+      - name: Static Object Intersections - Real Time Rendering Resource Page
+        url: https://www.realtimerendering.com/intersections.html
+        description: A collection of intersection algorithms.
+        entry_type: reference
+      - name: Real-Time Rendering
+        url: http://www.realtimerendering.com/blog/tag/webgl/
+        description: This is the blog for the book _Real-Time Rendering_.
+        entry_type: reference
+      - name: WebGL 2 Basics
+        url: http://www.realtimerendering.com/blog/webgl-2-basics/
+        description: Blog post about getting started with WebGL 2.
+        entry_type: reference
+      - name: WebGL 2 New Features
+        url: http://www.realtimerendering.com/blog/webgl-2-new-features/
+        description: Blog post about whats new and cool in WebGl 2.
+        entry_type: reference
+      - name: r/shaders
+        url: https://www.reddit.com/r/shaders/
+        description: Subreddit on shaders.
+        entry_type: community
+      - name: Reddit Two Triangles
+        url: https://www.reddit.com/r/twotriangles/
+        description: General discussion and showcase for shaders.
+        entry_type: community
+      - name: RenderDoc
+        url: https://renderdoc.org
+        description: is a free and open-source graphics debugging tool that allows developers to capture and analyze frames from DirectX, Vulkan, and OpenGL applications. It provides a user-friendly interface to inspect
+        entry_type: reference
+      - name: RenderDoc
+        url: https://renderdoc.org/builds
+        description: Stand-alone graphics debugger.
+        entry_type: reference
+      - name: Graphics for Games
+        url: https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/
+        description: Introduction to 3D graphics programming including shaders, math post-processing etc. from Newcastle University.
+        entry_type: reference
+      - name: Scene.js
+        url: http://scenejs.org/
+        description: Extensible WebGL-based engine for high-detail 3D visualisation.
+        entry_type: reference
+      - name: 'Scratchapixel: Rasterization Stage'
+        url: https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/rasterization-stage
+        description: 'Scratchapixel: Rasterization Stage.'
+        entry_type: reference
+      - name: ShaderFrog
+        url: http://shaderfrog.com/
+        description: WebGL Shader Editor and Composer
+        entry_type: reference
+      - name: ShaderFrog
+        url: https://shaderfrog.com/2/
+        description: is an online shader editor and asset manager that allows users to create, edit, and export shaders for use in Three.js, Unity, and other game engines. It supports visual shader editing and also offer
+        entry_type: reference
+      - name: ShaderGif
+        url: https://shadergif.com/
+        description: Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
+        entry_type: reference
+      - name: Shaderific for OpenGL
+        url: https://shaderific.com/index.html
+        description: Documentation on GLSL
+        entry_type: reference
+      - name: Shaderific GLSL
+        url: https://shaderific.com/glsl.html
+        description: OpenGL ES shading language reference.
+        entry_type: reference
+      - name: Shader Park
+        url: https://shaderpark.com/
+        description: A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already avail
+        entry_type: reference
+      - name: ShaderToy Advanced Tricks
+        url: https://shadertoyunofficial.wordpress.com/2021/03/09/advanced-tricks/
+        description: ShaderToy Advanced Tricks.
+        entry_type: reference
+      - name: SHDR Editor
+        url: http://shdr.bkcore.com
+        description: Live GLSL shader editor, viewer and validator.
+        entry_type: reference
+      - name: Global illumination using photon maps
+        url: https://sites.fas.harvard.edu/~cs278/papers/pmap.pdf
+        description: . Jensen, H. W. Rendering Techniques 1996.
+        entry_type: reference
+      - name: Verge3D
+        url: https://www.soft8soft.com/verge3d/
+        description: an artist-friendly toolkit for creating 3D web experiences.
+        entry_type: reference
+      - name: Stack.gl
+        url: http://stack.gl/
+        description: Site that approaches Shaders from WebGL
+        entry_type: reference
+      - name: ShaderTool
+        url: http://store.steampowered.com/app/314720/
+        description: '[Win] - Modern shader IDE for programmers and FX artists.'
+        entry_type: reference
+      - name: Synthclipse
+        url: http://synthclipse.sourceforge.net/index.html
+        description: Synthclipse is a GLSL shader prototyping tool.
+        entry_type: reference
+      - name: The Book of Shaders Glossary
+        url: https://thebookofshaders.com/glossary/
+        description: Shader glossary by theme.
+        entry_type: reference
+      - name: 'The Shader Permutation Problem - Part 1: How Did We Get Here?'
+        url: https://therealmjp.github.io/posts/shader-permutations-part1/
+        description: 'The Shader Permutation Problem - Part 1: How Did We Get Here?.'
+        entry_type: reference
+      - name: 'The Shader Permutation Problem - Part 2: How Do We Fix It?'
+        url: https://therealmjp.github.io/posts/shader-permutations-part2/
+        description: 'The Shader Permutation Problem - Part 2: How Do We Fix It?.'
+        entry_type: reference
+      - name: ShaderShop videos
+        url: http://tobyschachman.com/Shadershop/
+        description: Some awesome videos about ShaderShop and more.
+        entry_type: marketplace
+      - name: ShaderShop editor
+        url: http://tobyschachman.com/Shadershop/editor/
+        description: Visually impactful editor to work on shaping
+        entry_type: marketplace
+      - name: The Transvoxel Algorithm
+        url: https://transvoxel.org/
+        description: The Transvoxel Algorithm.
+        entry_type: reference
+      - name: PicoGL.js
+        url: https://tsherif.github.io/picogl.js/
+        description: Minimal WebGL 2-only rendering library.
+        entry_type: reference
+      - name: How to Create a Fake 3D Image Effect with WebGL
+        url: https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/
+        description: How to Create a Fake 3D Image Effect with WebGL.
+        entry_type: reference
+      - name: VertexShaderArt
+        url: https://vertexshaderart.com/
+        description: is a platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
+        entry_type: reference
+      - name: Virtual Terrain Project
+        url: http://vterrain.org/
+        description: the creation of tools for easily constructing any part of the real part of the real world in interactive, 3D digital form.
+        entry_type: reference
+      - name: OpenGL/GLSL Shader Programming
+        url: http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf
+        description: Deck on OpenGL/GLSL shader programming.
+        entry_type: reference
+      - name: WebGL Fundamentals
+        url: https://webglfundamentals.org/
+        description: . This resource provides a thorough understanding of WebGL and its underlying principles, ensuring that you grasp the latest techniques and approaches such as 3D rendering, lighting, 2D transformation
+        entry_type: reference
+      - name: Whitestorm.js
+        url: https://whs.io/
+        description: Framework for developing 3D web apps with physics.
+        entry_type: reference
+      - name: 'Instanced Line Rendering Part II: Alpha blending'
+        url: https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html
+        description: Continue of the above article, and introduces a way to do alpha-blending with triangulated lines.
+        entry_type: reference
+      - name: Brandon Fogerty's blog
+        url: https://xdpixel.com/about-me/
+        description: . A blog focused on real-time rendering, shader programming, and game engine development.
+        entry_type: reference
+      - name: xeokit
+        url: https://xeokit.io/
+        description: Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
+        entry_type: reference
+      - name: Takua Renderer
+        url: http://www.yiningkarlli.com/projects/takuarender/
+        description: by Karl Li| [The Pianist](http://lelatr.cgsociety.org/art/disney-zbrush-cartoon-maya-modeling-photoshop-texturing-mudbox-roger-3d-1191193), by Leticia Reinaldo|[Classroom Scene](http://staiko.cgsocie
+        entry_type: marketplace
+      - name: An introduction to Shader Art Coding
+        url: https://youtu.be/f4s1h2YETNY
+        description: Video tutuorial showing the basics of creating art with shaders.
+        entry_type: reference
+      - name: 'CppCon 2018: Valentin Galea “Rapid Prototyping of Graphics Shaders in Modern C++”'
+        url: https://www.youtube.com/watch?v=8FoAxasNssA
+        description: Also implemented swizzling with similar techniques.
+        entry_type: channel
+      - name: 'Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD'
+        url: https://www.youtube.com/watch?v=0DLOJPSxJEg
+        description: 'Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD.'
+        entry_type: channel
+      - name: MFGD - Fragment Shaders
+        url: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWMpFSRpeMmSBGDShbkiV1Cq
+        description: YouTube playlist about fragment shaders.
+        entry_type: channel
+      - name: Shaders Laboratory
+        url: https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w
+        description: YouTube channel about shaders.
+        entry_type: channel
+      - name: Makin' Stuff Look Good
+        url: https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg
+        description: YouTube channel about shaders case studies.
+        entry_type: channel
+      - name: Shader Tutorial Series
+        url: https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7
+        description: YouTube playlist about Shaders, using Visual Studio Code.
+        entry_type: channel
+      - name: Vertexshaderart
+        url: https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw
+        description: YouTube playlist about vertex shaders.
+        entry_type: channel
+      - name: Shadertoy Tutorials
+        url: https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5
+        description: YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
+        entry_type: channel
+      - name: Writing an efficient Vulkan renderer
+        url: https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/
+        description: Writing an efficient Vulkan renderer.
+        entry_type: reference
   - slug: renderer-specific-learning
     title: Renderer-Specific Learning
     description: Deep-dives for specific render engines.
