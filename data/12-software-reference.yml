@@ -2837,6 +2837,10 @@ subsections:
         url: https://sparklinlabs.itch.io/superpowers
         description: HTML5 Collaborative 2D/3D Game Maker
         entry_type: software
+      - name: Godot Engine
+        url: https://godotengine.org/article/godot-3-vr-and-ar-support
+        description: Godot Engine.
+        entry_type: software
   - slug: game-engines-commercial
     title: Game Engines — Commercial Free Tiers
     description: Commercial engines with generous free tiers.

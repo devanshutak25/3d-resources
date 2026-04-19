@@ -21,6 +21,58 @@ subsections:
         readme_tags:
           - Rebelway
           - Course
+      - name: 'CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations'
+        url: https://arxiv.org/abs/2208.10555
+        description: 3DV 2022 | [[project](https://cvi2.uni.lu/cc3d-ops/)] |
+        entry_type: reference
+      - name: 'PVDeconv: Point-voxel deconvolution for autoencoding cad construction in 3D'
+        url: https://arxiv.org/abs/2101.04493
+        description: ICIP 2020 | [[project](https://cvi2.uni.lu/cc3d-dataset/)] |
+        entry_type: reference
+      - name: 'PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs'
+        url: https://arxiv.org/abs/2308.05744
+        description: ICCV 2023 | [[project](https://manycore-research.github.io/PlankAssembly/)] [[code](https://github.com/manycore-research/PlankAssembly/)] |
+        entry_type: reference
+      - name: Reconstructing Editable Prismatic CAD from Rounded Voxel Models
+        url: https://arxiv.org/abs/2209.01161
+        description: SIGGRAPH Asia 2022 | |
+        entry_type: reference
+      - name: 'Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders'
+        url: https://arxiv.org/abs/2112.09329
+        description: CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)] |
+        entry_type: reference
+      - name: 'PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds'
+        url: https://arxiv.org/abs/2103.02766
+        description: ICLR 2021 | [[code](https://github.com/YujiaLiu76/PC2WF)] |
+        entry_type: reference
+      - name: 'ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds'
+        url: https://arxiv.org/abs/2003.12181
+        description: ECCV 2020 | [[project](https://hippogriff.github.io/parsenet/)] [[code](https://github.com/Hippogriff/parsenet-codebase)] |
+        entry_type: reference
+      - name: Supervised Fitting of Geometric Primitives to 3D Point Clouds
+        url: https://arxiv.org/abs/1811.08988
+        description: CVPR 2019 | [[code](https://github.com/lingxiaoli94/SPFN)] |
+        entry_type: reference
+      - name: 'DeepCAD: A Deep Generative Network for Computer-Aided Design Models'
+        url: https://arxiv.org/abs/2105.09492
+        description: ICCV 2021 | [[project](http://www.cs.columbia.edu/cg/deepcad/)] [[code](https://github.com/ChrisWu1997/DeepCAD)] |
+        entry_type: reference
+      - name: 'PolyGen: An Autoregressive Generative Model of 3D Meshes'
+        url: https://arxiv.org/abs/2002.10880
+        description: ICML 2020 | [[code](https://github.com/deepmind/deepmind-research/blob/master/polygen/)] |
+        entry_type: reference
+      - name: Gemini Robotics 1.5
+        url: https://arxiv.org/abs/2510.03342
+        description: Embodied reasoning, thinking, and motion transfer.
+        entry_type: reference
+      - name: IEEE Transactions on Neural Networks and Learning Systems
+        url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+        description: Publishes technical articles on the theory, design, and applications of neural networks and related learning systems.
+        entry_type: reference
+      - name: GPT-4
+        url: https://www.promptingguide.ai/models/gpt-4
+        description: Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
+        entry_type: reference
   - slug: image-generation
     title: Image Generation
     description: State-of-the-art text-to-image models and platforms.
@@ -209,6 +261,22 @@ subsections:
         readme_tags:
           - ByteDance
           - Video Pipeline
+      - name: '3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows'
+        url: https://arxiv.org/abs/2210.11603
+        description: arXiv 2022 | |
+        entry_type: software
+      - name: Introduction to Generative AI Community Course
+        url: https://www.youtube.com/watch?v=ajWheP8ZD70&list=PLmQAMKHKeLZ-iTT-E2kK9uePrJ1Xua9VL
+        description: by ineuron
+        entry_type: channel
+      - name: AudioCraft
+        url: https://audiocraft.metademolab.com/
+        description: 'A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource'
+        entry_type: reference
+      - name: Sybill
+        url: https://www.sybill.ai/
+        description: Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
+        entry_type: reference
   - slug: video-generation
     title: Video Generation
     description: AI video generation platforms and models.

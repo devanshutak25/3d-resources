@@ -189,6 +189,54 @@ subsections:
         url: https://tooll.io/
         description: Graph-based procedural real-time motion graphics for live performance or rendering.
         entry_type: inspiration
+      - name: AEJuice
+        url: https://aejuice.com/
+        description: Free and premium motion presets, transitions, and effects packs installable directly via a panel inside After Effects.
+        entry_type: inspiration
+      - name: Animation Nodes
+        url: https://animation-nodes.com/
+        description: A node based visual scripting system designed for motion graphics in Blender. [![][repo]](https://github.com/JacquesLucke/animation_nodes)
+        entry_type: inspiration
+      - name: After Effects Facebook Group
+        url: https://www.facebook.com/groups/aftereffectscommunity
+        description: Join the After Effects community on Facebook.
+        entry_type: community
+      - name: RailCut
+        url: https://www.jakeinmotion.com/railcut
+        description: Multi-track clip editing directly in After Effects with NLE-style tools like ripple edit, rolling edit, slip, and slide.
+        entry_type: inspiration
+      - name: Mobox Graphics
+        url: https://www.moboxgraphics.com/
+        description: Offers in-depth After Effects tutorials, especially in the field of motion design.
+        entry_type: tutorial
+      - name: nexrender
+        url: https://www.nexrender.com
+        description: 📹 Data-driven render automation for After Effects
+        entry_type: inspiration
+      - name: Reddit - r/AfterEffects
+        url: https://www.reddit.com/r/AfterEffects/
+        description: The After Effects subreddit for community discussions and sharing.
+        entry_type: community
+      - name: Trapcode Suite
+        url: https://www.redgiant.com/products/trapcode-suite/
+        description: A set of 3D motion graphics and visual effects plugins for After Effects.
+        entry_type: inspiration
+      - name: School of Motion
+        url: https://www.schoolofmotion.com/tutorials
+        description: Provides a wide range of motion graphics and animation tutorials and courses.
+        entry_type: tutorial
+      - name: Houdini 2 AE
+        url: https://vimeo.com/186204479
+        description: Tool for exporting camera and locators fromH oudini to after effects
+        entry_type: inspiration
+      - name: CL Mograph
+        url: https://www.youtube.com/@CLMograph
+        description: CL Mograph.
+        entry_type: channel
+      - name: Rubberhose 2
+        url: https://battleaxe.co/rubberhose
+        description: Shape-layer-based IK limb rigging system for fast character animation with one-click rig creation.
+        entry_type: tool
   - slug: motion-graphics-tools
     title: Motion Graphics — Tools & Utilities
     description: MG-specific tools and utilities.

@@ -323,6 +323,42 @@ subsections:
         url: https://github.com/p4vv37/3D_Software_and_Python/
         description: Example of Python scripts for 3D Studio Max, Maya and Blender.
         entry_type: tool
+      - name: AMD Blender USD Hydra
+        url: https://gpuopen.com/learn/amd-usd-hydra-blender/
+        description: With Pixar's USD system emerging as a powerful tool for 3D graphics pipelines and interchange, this addon is meant to add first class support for USD and the USD Hydra rendering system to Blender.
+        entry_type: software
+      - name: Haystack
+        url: https://haystack.deepset.ai/
+        description: End-to-end NLP framework | Pipelines, document stores |
+        entry_type: marketplace
+      - name: Hugging Face Transformers
+        url: https://huggingface.co/transformers
+        description: State-of-the-art NLP models and pipelines.
+        entry_type: software
+      - name: Radeon ProRender
+        url: https://www.amd.com/en/technologies/radeon-prorender
+        description: Physically-based engine, product by AMD.
+        entry_type: tool
+      - name: CGAL
+        url: https://www.cgal.org/
+        description: A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
+        entry_type: tool
+      - name: Flamenco
+        url: https://www.flamenco.io/
+        description: from the Blender Foundation
+        entry_type: tool
+      - name: OpenTimelineIO
+        url: http://opentimeline.io
+        description: ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
+        entry_type: tool
+      - name: Opentoonz
+        url: https://opentoonz.github.io/
+        description: Animation production software.
+        entry_type: tool
+      - name: cgwiki
+        url: http://www.tokeru.com/cgwiki/
+        description: cgwiki.
+        entry_type: tool
   - slug: gaussian-splatting-nerf
     title: Gaussian Splatting & NeRF
     description: Neural and splatting reconstruction.
@@ -536,6 +572,14 @@ subsections:
         url: https://github.com/nmwsharp/polyscope
         description: A C++ & Python viewer for 3D data like meshes and point clouds.
         entry_type: tool
+      - name: Quixel Megascans
+        url: https://quixel.com/megascans/library/
+        description: World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects).
+        entry_type: software
+      - name: 3DF Zephyr Free
+        url: https://www.3dflow.net/3df-zephyr-free/
+        description: is free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations.
+        entry_type: software
   - slug: retopology-mesh-tools
     title: Retopology & Mesh Tools
     description: Retopology and mesh processing.
@@ -608,6 +652,26 @@ subsections:
         readme_tags:
           - Topology
           - Reference
+      - name: SpeedRetopo
+        url: https://gumroad.com/l/speedretopo
+        description: is a free add-on for Blender to make fast and easy retopology using Bsurface.
+        entry_type: software
+      - name: Retopo MT
+        url: https://gumroad.com/l/cNGNb
+        description: is a tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
+        entry_type: software
+      - name: InstantMeshesRemesh
+        url: https://blenderartists.org/t/instant-meshes-remesh/1114982
+        description: A suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
+        entry_type: software
+      - name: UV Unwrapping - Blender Fundamentals.
+        url: https://www.youtube.com/watch?v=Y7M-B6xnaEM
+        description: UV Unwrapping - Blender Fundamentals..
+        entry_type: channel
+      - name: Danny Mac 3D
+        url: https://www.youtube.com/user/djmccabie/videos
+        description: character modeling, posing, rigging, retopology, sculpting.
+        entry_type: channel
   - slug: uv-tools
     title: UV Tools
     description: UV unwrapping, packing, and UDIM tools.
@@ -1188,6 +1252,174 @@ subsections:
         readme_tags:
           - Motion Assets
           - Templates
+      - name: MACHIN3tools
+        url: https://gumroad.com/l/MACHIN3tools
+        description: is a free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [![market]](https://blendermarket
+        entry_type: marketplace
+      - name: Maxivz’s Interactive Tools
+        url: https://gumroad.com/l/ynJmIV
+        description: Collection of intuitive, context sensitive tools for Blender.
+        entry_type: marketplace
+      - name: Archipack
+        url: https://gumroad.com/l/ZRMyP
+        description: '[$] : The Archipack addon for Blender contains a collection of parametric primitives for ArchViz. You can manipulate these primitives with a realtime on-screen editing interface.'
+        entry_type: marketplace
+      - name: KIT OPS
+        url: https://gumroad.com/l/kitops
+        description: Can create objects and scenes with extreme efficiency and speed. Complex industrial designs can be generated in a single sitting.
+        entry_type: marketplace
+      - name: Speedflow
+        url: https://gumroad.com/l/speedflow
+        description: '[$] : Addon for non-destructive workflow.'
+        entry_type: marketplace
+      - name: Poly Source
+        url: https://gumroad.com/l/polysource
+        description: is designed to simplify the control of the number of different types of polygons. You can see how many Gone, Quad and Tris are on the active object.
+        entry_type: marketplace
+      - name: Speedsculpt
+        url: https://gumroad.com/l/SpeedSculpt
+        description: '[$] : The addon allows you to create very fast characters, to manage Dyntopo Sculpting with booleans, cut curves, skin modifier, decimate, mask etc.'
+        entry_type: marketplace
+      - name: Brush Manager for Blender
+        url: https://gumroad.com/l/zLBPz
+        description: is an add-on for Blender that helps you to create custom brushes, store them in a file and organize the library of various categories of brushes.
+        entry_type: marketplace
+      - name: Mech/Fy
+        url: https://gumroad.com/l/KZllV
+        description: A procedural workflow that automates the process of hard surfaces modelling.
+        entry_type: marketplace
+      - name: BY-GEN
+        url: https://gumroad.com/l/BY-GEN
+        description: is an addon designed to simplify the process of creating non-destructive, generative modeling styles in Blender. [![][repo]](https://github.com/curtisjamesholt/BY-GEN-public)
+        entry_type: marketplace
+      - name: Universal Human Rigged Base Mesh
+        url: https://gumroad.com/l/EqNTn
+        description: '[$] : Rigged human base mesh.'
+        entry_type: marketplace
+      - name: Texel Density Checker
+        url: https://gumroad.com/l/CEIOR
+        description: Tools for calculate, set and copy texel density. [![][repo]](https://github.com/mrven/Blender-Texel-Density-Checker)
+        entry_type: marketplace
+      - name: UV Toolkit
+        url: https://gumroad.com/alexbel#NbMya
+        description: Tools collection for UV editing in blender.
+        entry_type: software
+      - name: Free Sky Environment Shading
+        url: https://gumroad.com/l/JUyxL
+        description: free custom procedural environment shading.
+        entry_type: marketplace
+      - name: blender-osm
+        url: https://gumroad.com/l/blender-osm
+        description: One click download and import of OpenStreetMap and terrain for Blender.
+        entry_type: marketplace
+      - name: Photographer 2
+        url: https://gumroad.com/chafouin#FWQf
+        description: Camera Exposure, White balance and Autofocus. Photographer 2 was made completely free for all.
+        entry_type: marketplace
+      - name: ExtraInfo
+        url: https://gumroad.com/l/UznDL
+        description: Show more info in the viewport.
+        entry_type: marketplace
+      - name: SSGI for EEVEE
+        url: https://gumroad.com/l/PgyXc
+        description: Converts Diffuse and Principled BSDFs to nodegroups that give representation of diffuse component to SSR for SSGI effect.
+        entry_type: marketplace
+      - name: PowerSave
+        url: https://gumroad.com/l/powersave
+        description: is a tool intended to streamline saving and make saving itself more accessible, friendly and more artist streamlined.
+        entry_type: marketplace
+      - name: Free Hard Surface KitBash Models
+        url: https://gumroad.com/olegushenok?sort=page_layout&tags=free
+        description: ', [Free sci-fi kitbash set](https://cubebrush.co/polyworkshop/products/audboa/free-sci-fi-kitbash-set-fusion-360-zbrush), [3D Kitbashing library](https://gumroad.com/adrianrutkowski), [Kitbash Sci-fi'
+        entry_type: marketplace
+      - name: gumroad/simonthommes
+        url: https://gumroad.com/simonthommes
+        description: ', [Meta''s Massivest Materials](https://www.blendswap.com/blend/16480), [Abstract Materials](https://gumroad.com/l/CCIEF).'
+        entry_type: marketplace
+      - name: gumroad/bluefoxcreation
+        url: https://gumroad.com/bluefoxcreation
+        description: ', [gumroad/curtisjamesholt](https://gumroad.com/curtisjamesholt).'
+        entry_type: marketplace
+      - name: jamajurabaev
+        url: https://gumroad.com/jamajurabaev
+        description: ', [janurschel](https://gumroad.com/janurschel), [yansculpts](https://gumroad.com/yansculpts),'
+        entry_type: marketplace
+      - name: EasyBPY
+        url: https://gumroad.com/l/easybpy
+        description: This purpose of this module is to simplify the use of the Blender API (bpy) by creating an extra layer of abstraction that is more human-readable, memorable and reduces the user's exposure to compl
+        entry_type: marketplace
+      - name: 30 Free PBR materials by Artem Lebedev
+        url: https://gumroad.com/l/ekRhc
+        description: 30 Free PBR materials by Artem Lebedev.
+        entry_type: marketplace
+      - name: Free VDB Clouds
+        url: https://assetsvfx.gumroad.com/l/RcgNe?recommended_by=search
+        description: Pack of 3 cloud VDBs for large Ariel views.
+        entry_type: marketplace
+      - name: Blenderesse's Generators
+        url: https://blenderesse.gumroad.com
+        description: Blenderesse offers a few geometry nodes generators for free. Including; [Electric Power Line](https://blenderesse.gumroad.com/l/electriclinegenerator), [Melt](https://blenderesse.gumroad.com/l/melt
+        entry_type: marketplace
+      - name: Flow Map Painter
+        url: https://clemensbeute.gumroad.com/l/heZDT
+        description: This blender add-on provides a brush tool for flow map painting. [![][repo]](https://github.com/ClemensBeute/flow_map_painter)
+        entry_type: marketplace
+      - name: City Scatter
+        url: https://curtisjamesholt.gumroad.com/l/city_scatter_free
+        description: Generate cityscape concepts, powered by Blender's collection system.
+        entry_type: marketplace
+      - name: E-Cycles
+        url: https://ecycles.gumroad.com/l/E-Cycles
+        description: '[$] : is a fork of Cycles which renders up to 2.5x faster out of the box when using CUDA GPUs, up to 15x using new options.'
+        entry_type: marketplace
+      - name: Higgsas Blender
+        url: https://higgsas.gumroad.com/l/wrusot
+        description: ', [Mesh Tension Map](https://higgsas.gumroad.com/l/tnqal), [Droplet Generator](https://ibotpl.gumroad.com/l/alvgr), [BackdropGen](https://yamato3d.gumroad.com/l/BackdropGen).'
+        entry_type: marketplace
+      - name: Point Based Growth HDA
+        url: https://itj.gumroad.com/l/pbg
+        description: Houdini point based growth Asset.
+        entry_type: marketplace
+      - name: Layer Painter
+        url: https://joshuaknauber.gumroad.com/l/layerpainter
+        description: allows you to use a Layer-System for creating materials with painting and procedurals. The layers include masks, filters and much more. Even though the addon is designed with a PBR workflow in mind
+        entry_type: marketplace
+      - name: Path Solver HDA
+        url: https://lavrenovlad.gumroad.com/l/fkQSl
+        description: Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other.
+        entry_type: marketplace
+      - name: Pixel Art Rendering
+        url: https://lucasroedel.gumroad.com/l/pixel_art
+        description: This is a free addon to make pixel art like renders in blender. It works with EEVEE, Bayer dithering and multiple light sources.
+        entry_type: marketplace
+      - name: Wrap Defromer
+        url: https://momme.gumroad.com/l/cfxwrap?recommended_by=search
+        description: The wrap deformer provides an alternative approach to Houdinis point deform. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolate
+        entry_type: marketplace
+      - name: Parallax UV Mapping
+        url: https://neveselov.gumroad.com/l/btnpx
+        description: This is Parallax Mapping material and node setup. Created in Blender 2.8 for EEVEE renderer, it works well in cycles too. [[more info]](https://www.youtube.com/watch?v=ZL695WnJvmU)
+        entry_type: marketplace
+      - name: Super Res Render
+        url: https://pidgeontools.gumroad.com/l/SuperResRender
+        description: Plugin that splits renders up into several chunks to make rendering at super high resolutions possible.
+        entry_type: marketplace
+      - name: Super Fast Render
+        url: https://pidgeontools.gumroad.com/l/SuperFastRender
+        description: Either uses preset render settings optimised to speed up render times or Uses a benchmark to detect the fastest settings for the same render quality
+        entry_type: marketplace
+      - name: Geometry Nodes Pipes
+        url: https://raywakui.gumroad.com/l/pcxni
+        description: is an addon for blender which helps generating complex pipe layouts.
+        entry_type: marketplace
+      - name: Auto-Terrainer
+        url: https://unicornhunter.gumroad.com/l/AutoTerrainer
+        description: Automatic Blender Terrain Generator is a powerful and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
+        entry_type: marketplace
+      - name: Womrhole Content Browser
+        url: https://wormholetools.gumroad.com/l/whbrowser
+        description: The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
+        entry_type: marketplace
   - slug: conversion-tools
     title: Conversion Tools
     description: Format conversion across image, video, audio, and 3D.
@@ -1448,6 +1680,10 @@ subsections:
       - name: Packyderm
         url: https://isometric8.itch.io/packyderm-unitypackage-extractor
         description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
+        entry_type: tool
+      - name: Retargeting Mixamo Animation Tool
+        url: http://terribilisstudio.fr/converter
+        description: Retargeting Mixamo Animation Tool.
         entry_type: tool
   - slug: pipeline-standards
     title: Pipeline Standards

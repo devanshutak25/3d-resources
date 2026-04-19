@@ -264,6 +264,50 @@ subsections:
         url: https://www.assimp.org/
         description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
         entry_type: asset-source
+      - name: CGTrader
+        url: https://www.cgtrader.com/free-3d-models
+        description: Free 3D models from CGTrader.
+        entry_type: asset-source
+      - name: Engraver
+        url: https://gumroad.com/l/qOyVO
+        description: is an Blender addon with set of few tools designed to help carving decals in 3D models.
+        entry_type: asset-source
+      - name: Sketchfab
+        url: https://sketchfab.com/search?features=downloadable&sort_by=-pertinence&type=models
+        description: Free downloadable models from Sketchfab.
+        entry_type: asset-source
+      - name: Sketchfab/lidar
+        url: https://sketchfab.com/tags/lidar
+        description: ', [Sketchfab/point-cloud](https://sketchfab.com/tags/point-cloud).'
+        entry_type: asset-source
+      - name: WoT Tank Viewer
+        url: https://bitbucket.org/SkepticalFox/bigworld-blender-tools-wot-wowp-wows
+        description: is a package of plugins for Blender, which allows you view 3D models from World of Tanks.
+        entry_type: asset-source
+      - name: Free3DBase
+        url: https://free3dbase.com/
+        description: Download high quality free 3d models.
+        entry_type: asset-source
+      - name: FaceBuilder
+        url: https://www.keentools.io/download/facebuilder-for-blender
+        description: '[$] : A Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuild'
+        entry_type: asset-source
+      - name: What is Generative AI? - Nvidia
+        url: https://www.nvidia.com/en-us/glossary/generative-ai/
+        description: Generative AI enables users to quickly generate new content based on a variety of inputs. Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types o
+        entry_type: asset-source
+      - name: Quaternius's Ultimate Low-Poly Models
+        url: http://quaternius.com/index.html
+        description: ', [The Art of 3D Insects by Natural History Museum](https://stock.adobe.com/collections/rTMsIExGHtyXsAv8NL8RfOxokqALHQhy), [First Animals by Oxford University](https://sketchfab.com/morethanadodo/coll'
+        entry_type: asset-source
+      - name: Chocofur/Free
+        url: https://store.chocofur.com/search/free
+        description: Premium quality 3D models & scenes. [(blender addon)](https://store.chocofur.com/model-manager-blender-2-80-course/blender_model/) [![][zero]](https://chocofur.com/page/license-cc0)
+        entry_type: tutorial
+      - name: Element 3D
+        url: https://www.videocopilot.net/products/element2/
+        description: A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
+        entry_type: asset-source
   - slug: model-libraries-specialized
     title: Model Libraries — Specialized
     description: 'Specialty model sources: characters, scans, anatomy, museums.'
@@ -415,6 +459,10 @@ subsections:
       - name: Fusion Character Animator
         url: http://loopengo.free.fr/
         description: small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
+        entry_type: asset-source
+      - name: AccuRIG
+        url: https://actorcore.reallusion.com/auto-rig
+        description: is a free application designed for fast and easy character rigging.
         entry_type: asset-source
   - slug: model-libraries-arch-furniture
     title: Model Libraries — Architecture & Furniture
@@ -840,6 +888,10 @@ subsections:
         url: https://texturehaven.com/
         description: Free textures with additional maps like displacement and bump maps. Also HDRIs.
         entry_type: asset-source
+      - name: Redshift HDRI Creator
+        url: https://m.youtube.com/watch?v=HAWRBdkl1w4
+        description: Create/edit HDRIs
+        entry_type: channel
   - slug: textures-free-pbr
     title: Textures & Materials — Free PBR Libraries
     description: Free PBR texture libraries for materials authoring.
@@ -1108,6 +1160,210 @@ subsections:
         url: http://www.textureking.com/
         description: Free material stock textures
         entry_type: asset-source
+      - name: SCATTr
+        url: https://gumroad.com/l/scattr
+        description: Procedural texture placement.
+        entry_type: asset-source
+      - name: gumroad/juliosillet
+        url: https://gumroad.com/juliosillet
+        description: ', [Pixar/CommunityResources](https://renderman.pixar.com/community_resources), [Nikola Damjanov''s 100 PBR Texture Sets](https://www.artstation.com/artwork/0XEN4V), [Texture Hunt Collection](https://gu'
+        entry_type: asset-source
+      - name: Poly Haven/Textures
+        url: https://polyhaven.com/textures
+        description: Poly Haven/Textures is a website where you can find high quality scanned textures for free. [![][zero]](https://polyhaven.com/license)
+        entry_type: asset-source
+      - name: 3DAssets.one
+        url: https://www.3dassets.one/
+        description: is a search-engine which allows you to explore the largest free texture sites all at once.
+        entry_type: asset-source
+      - name: Bystedts Blender Baker
+        url: https://3dbystedt.gumroad.com/l/JAqLT
+        description: This addon streamlines the texture baking process in Blender.
+        entry_type: asset-source
+      - name: 3DXO
+        url: https://www.3dxo.com
+        description: Free 3D Models, seamless Textures, Backgrounds, Photos & Graphics.
+        entry_type: asset-source
+      - name: Agama Materials
+        url: https://agama.itch.io/agama-materials
+        description: is software for creating PBR materials and painting 3d models. You can create materials and use them for painting models, or you can use pre-made textures.
+        entry_type: software
+      - name: Agisoft De-Lighter
+        url: https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow
+        description: is a free stand-alone tool designed to remove shadows from model textures. [!download](https://www.agisoft.com/downloads/installer/)
+        entry_type: asset-source
+      - name: Architextures - Create
+        url: https://architextures.org/create
+        description: web app allows you to create seamless textures, bump maps and CAD hatches. Select any of the parameters to get started.
+        entry_type: asset-source
+      - name: Sculpt Alphas Manager
+        url: https://blenderartists.org/t/sculpt-alphas-manager/1200725
+        description: This addon provides a simple solution to be able to quickly switch alpha textures for the sculpt brushes.
+        entry_type: asset-source
+      - name: C4DCenter
+        url: https://c4dcenter.com/material-library/
+        description: Free C4D Materials created with High Quality Texture Maps for instant download and no limits, Free for Personal and Commercial Use.
+        entry_type: asset-source
+      - name: CC0 Textures
+        url: https://cc0textures.com/
+        description: Free PBR textures.
+        entry_type: asset-source
+      - name: Celestia Motherlode
+        url: http://www.celestiamotherlode.net/
+        description: is a repository for various addons like textures, models or celestial objects.
+        entry_type: asset-source
+      - name: Unreal Engine Documentation
+        url: https://dev.epicgames.com/documentation/en-us/unreal-engine/getting-started-with-texture-graph-in-unreal-engine
+        description: Unreal Engine Documentation.
+        entry_type: asset-source
+      - name: Unreal Engine Learning
+        url: https://dev.epicgames.com/community/learning/tutorials/z0VJ/unreal-engine-getting-started-with-texture-graph
+        description: Unreal Engine Learning.
+        entry_type: asset-source
+      - name: NVIDIA Texture Tools Exporter
+        url: https://developer.nvidia.com/nvidia-texture-tools-exporter
+        description: Allows users to create highly compressed texture files (that stay small both on disk and in memory) directly from image sources using NVIDIA’s CUDA-accelerated Texture Tools compressor technology.
+        entry_type: asset-source
+      - name: Texture Paint Manual.
+        url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
+        description: Texture Paint Manual..
+        entry_type: asset-source
+      - name: EveryTexture.com
+        url: https://everytexture.com/latest
+        description: ', [3DJungle.net](https://3djungle.net/textures/), [Architecture Inspirations](https://www.archinspirations.com/materials), [Sketchup Texture Club](https://www.sketchuptextureclub.com/textures), [Textu'
+        entry_type: asset-source
+      - name: SpriteDicing
+        url: https://github.com/Elringus/SpriteDicing
+        description: Unity extension for reusing sprite texture areas.
+        entry_type: reference
+      - name: UnityBitmapDrawing
+        url: https://github.com/ProtoTurtle/UnityBitmapDrawing
+        description: Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
+        entry_type: reference
+      - name: uTextureSendReceive
+        url: https://github.com/BarakChamo/uTextureSendReceive
+        description: Unity network texture sender and receiver for video and frame streaming.
+        entry_type: reference
+      - name: Unity Resource Checker
+        url: https://github.com/handcircus/Unity-Resource-Checker
+        description: Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
+        entry_type: reference
+      - name: CropTexture
+        url: https://github.com/natsupy/CropTexture
+        description: Crop and resize texture in Unity editor!
+        entry_type: reference
+      - name: UnityPreviewGenerator
+        url: https://github.com/klhurley/UnityPreviewGenerator
+        description: Generates preview textures for sprites, icons of Unity models.
+        entry_type: reference
+      - name: TexturePanner
+        url: https://github.com/AdultLink/TexturePanner
+        description: This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
+        entry_type: reference
+      - name: CurveTexture
+        url: https://github.com/slipster216/CurveTexture
+        description: Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
+        entry_type: reference
+      - name: Unity Texture Packer
+        url: https://github.com/andydbc/unity-texture-packer
+        description: Utility to combine color channels from different textures into a single output.
+        entry_type: reference
+      - name: WaveformProvider
+        url: https://github.com/EsProgram/WaveformProvider
+        description: Provide a texture to simulate waves with Unity.
+        entry_type: reference
+      - name: Animation Texture Baker
+        url: https://github.com/zulfajuniadi/Animation-Texture-Baker
+        description: Bake Legacy Animations into Textures. Targeting ECS. (#ANIMATION)
+        entry_type: reference
+      - name: AudioTexture
+        url: https://github.com/TyounanMOTI/AudioTexture
+        description: Generate Unity Texture2D from AudioClip. (#AUDIO)
+        entry_type: reference
+      - name: UVPreview
+        url: https://github.com/AsehesL/UVPreview
+        description: Preview your UV islands in inspector window for your textures.
+        entry_type: reference
+      - name: Poliigon Blender Addon
+        url: https://help.poliigon.com/en/articles/6342599
+        description: this addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating blender fi
+        entry_type: asset-source
+      - name: GameTextureViewer
+        url: https://jangafx.com/software/gametextureviewer/
+        description: is a fast, reliable, and simple tool for
+        entry_type: asset-source
+      - name: LotPixel
+        url: https://www.lotpixel.com/texture-library?credit=free
+        description: Free scan-based textures of interior and exterior materials at up to 8K resolution. For commercial use.
+        entry_type: asset-source
+      - name: MaterialX Library
+        url: https://matlib.gpuopen.com/main/materials/all
+        description: AMD launched a free MaterialX-based Material Library. It allows users to download the materials and encourages them to upload their own.
+        entry_type: asset-source
+      - name: NASA-3D-Resources
+        url: https://nasa3d.arc.nasa.gov/
+        description: Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources
+        entry_type: asset-source
+      - name: TextureLab
+        url: https://njbrown.itch.io/texturelab
+        description: is a tool designed to make procedural texture generation.
+        entry_type: asset-source
+      - name: Poliigon/freebies
+        url: https://www.poliigon.com/search?credit=0
+        description: '[$] : A library of materials, and HDR''s for artists including free textures that want photorealism.'
+        entry_type: asset-source
+      - name: Animated textures
+        url: https://www.premiumbeat.com/blog/free-animated-textures/
+        description: Animated textures.
+        entry_type: asset-source
+      - name: RenderHub/free
+        url: https://www.renderhub.com/free-3d-models
+        description: Daz Content, 3D models, textures and materials.
+        entry_type: asset-source
+      - name: 📺 Textures for VFX Database ~ simonschreibt
+        url: https://simonschreibt.notion.site/Textures-for-VFX-Database-2c72eccccfa84a0eae927d778ad746cc
+        description: well tagged.
+        entry_type: asset-source
+      - name: Solar Textures
+        url: https://www.solarsystemscope.com/textures/
+        description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. ![by]
+        entry_type: asset-source
+      - name: CGI Moon Kit
+        url: https://svs.gsfc.nasa.gov/4720
+        description: ', [Moon 64k](https://gumroad.com/l/MOON_46K), [Earth 42k](https://gumroad.com/l/uHyhPT), [Natural Earth III](http://www.shadedrelief.com/natural3/pages/textures.html), [Planets Pack](https://gumroad.c'
+        entry_type: asset-source
+      - name: Texture.Ninja
+        url: https://texture.ninja/
+        description: Public domain photographic textures, reference images, cutouts. ![][zero]
+        entry_type: asset-source
+      - name: Texture Fun
+        url: https://texturefun.com/
+        description: Free PBR texture sets of common architectural materials, including some nice tile textures.
+        entry_type: asset-source
+      - name: World Machine
+        url: https://www.world-machine.com/
+        description: Command powerful tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
+        entry_type: asset-source
+      - name: 📺 Turn ANY rock into STYLIZED ~ GraphicLine Games
+        url: https://youtu.be/VlQ4Tq_fouQ
+        description: '[asset,Lumin,shader] ([Ghibli Shader Texture Generator](https://graphicline.gumroad.com/l/dcqlie)).'
+        entry_type: asset-source
+      - name: 📺 Cartoon Cel Shader 2.0 ~ Sandvector Studios
+        url: https://youtu.be/kKhTLnQW-p0
+        description: '[material] ([Face Shadow Texture Generator file](https://www.artstation.com/marketplace/p/Vmvmm/face-shadow-texture-generator)).'
+        entry_type: marketplace
+      - name: 📺 Not the usual Fire Torch - w/ Tristan ~ Visual Tech Art
+        url: https://youtu.be/wEwq2UNkdDI
+        description: '[texture].'
+        entry_type: asset-source
+      - name: Blender Texture Painting- Quick Start.
+        url: https://www.youtube.com/watch?v=u9nE2Xg6Jgk
+        description: Blender Texture Painting- Quick Start..
+        entry_type: channel
+      - name: Blender Texture Painting (Speed Tutorials) by Royal Skies LLC.
+        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuvyEDCMOIjWMsl8ASiZgeCg
+        description: Blender Texture Painting (Speed Tutorials) by Royal Skies LLC..
+        entry_type: channel
   - slug: textures-specialized
     title: Textures — Specialized
     description: 'Specialty texture sources: displacement, patterns, sprites, terrain.'
@@ -1525,6 +1781,14 @@ subsections:
         readme_tags:
           - SFX Synth
           - Procedural
+      - name: Sapphire
+        url: https://borisfx.com/products/sapphire/
+        description: Suite of 270+ GPU-accelerated VFX effects with integrated Mocha tracking and a custom effect and transition builder.
+        entry_type: asset-source
+      - name: USFXR
+        url: https://github.com/zeh/usfxr
+        description: A C# library used to generate and play game-like procedural audio effects inside Unity.
+        entry_type: tool
   - slug: reel-music
     title: Reel Music
     description: Music often used in demo reels and reference tracks.
@@ -1641,6 +1905,22 @@ subsections:
         readme_tags:
           - Font Editor
           - Pro
+      - name: Fontz
+        url: https://fontz.design
+        description: Free and premium 3D fonts with Blender source files
+        entry_type: asset-source
+      - name: Unity BitmapFontImporter
+        url: https://github.com/litefeel/Unity-BitmapFontImporter
+        description: An Unity editor extension for bitmap font.
+        entry_type: reference
+      - name: UnityStbEasyFont
+        url: https://github.com/aras-p/UnityStbEasyFont
+        description: A port of stb_easy_font.h to Unity/C#.
+        entry_type: reference
+      - name: typicons.font
+        url: http://s-ings.com/typicons/
+        description: 336 pixel perfect, all-purpose vector icons in a web-font kit
+        entry_type: asset-source
   - slug: icons
     title: Icons
     description: Icon libraries and animation sets.
@@ -1914,3 +2194,11 @@ subsections:
         readme_tags:
           - RPG Icons
           - Commercial-OK
+      - name: Asset Creation Toolset
+        url: https://gumroad.com/l/hPXIh
+        description: Asset Creation Toolset is many tools for game asset creation.
+        entry_type: asset-source
+      - name: Grant Abbitt
+        url: https://www.youtube.com/user/mediagabbitt/videos
+        description: modeling, animation, sculpting, low-poly, game assets.
+        entry_type: channel

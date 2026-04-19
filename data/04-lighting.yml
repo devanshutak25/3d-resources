@@ -51,6 +51,10 @@ subsections:
         readme_tags:
           - Playlist
           - Lighting Series
+      - name: Creative Shrimp
+        url: https://www.creativeshrimp.com/
+        description: High quality CG tutorials and Blender tutorials, digital art and lighting tutorials with Gleb and Aidy.
+        entry_type: tutorial
   - slug: lighting-redshift
     title: 3D Lighting — Redshift-Specific
     description: Redshift lighting tutorials, primarily in C4D.
@@ -407,6 +411,222 @@ subsections:
         url: https://github.com/jtomori/vfx_good_night_reading/
         description: Curated collection of good reading about VFX and CG.
         entry_type: tool
+      - name: Shader Displacement for EEVEE
+        url: https://gumroad.com/l/WDCRp
+        description: Using a few modifiers and a nodegroup, realtime shader displacement in EEVEE is now possible.
+        entry_type: reference
+      - name: Cracked Ice Shader
+        url: https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/
+        description: Cracked Ice material tutorial. (#TUTORIALS)
+        entry_type: tutorial
+      - name: Alan Zucconi's Blog
+        url: https://www.alanzucconi.com/
+        description: Shaders and maths. Well explained and very interesting.
+        entry_type: reference
+      - name: A Gentle Introduction to Shaders in Unity3D
+        url: http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d
+        description: This series of posts will  introduce you to shader coding, and is oriented to developers with little to no knowledge about shaders.
+        entry_type: reference
+      - name: Blender Interplanety Storage
+        url: https://blenderartists.org/t/bis-online-material-storage/689728
+        description: The online material (shader) storage add-on for Blender 3D creation. With the BIS add-on, you can save materials (groups of nodes) to the online personal library and then convenient search and uplo
+        entry_type: reference
+      - name: Car Paint Shader
+        url: https://blenderesse.gumroad.com/l/carpaintshader
+        description: Simple shader setup that lets you easily create variety of different car paint finishes.
+        entry_type: reference
+      - name: BNPR' Shaders
+        url: https://blendernpr.org/downloads/
+        description: ', [EEVEE Comics Shader v3.0](https://gumroad.com/l/JWdjJ), [Erisdraw3D''s](https://twitter.com/Erisdraw3D/status/1216755574735503361), [EEVEEToon](https://github.com/kanzwataru/EEVEEToon), [Komikaze[\$'
+        entry_type: reference
+      - name: Glass for EEVEE
+        url: https://www.blendswap.com/blend/25759
+        description: This shader allows you to make realistic glass with EEVEE.
+        entry_type: reference
+      - name: CineShader
+        url: https://cineshader.com/editor
+        description: CineShader is a real-time 3D shader visualiser. It leverages the _Shadertoy_ API to bring thousands of existing shader artworks into a cinematic 3D environment.
+        entry_type: reference
+      - name: Shader Nodes List.
+        url: https://docs.blender.org/manual/en/latest/render/shader_nodes/index.html
+        description: Shader Nodes List..
+        entry_type: reference
+      - name: 📄 Anime/Toon/Cel Shading Model ~ Envieous
+        url: https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226
+        description: '[asset,game,shader] - custom shader, works with launcher.'
+        entry_type: reference
+      - name: Flow Map Shader
+        url: https://gist.github.com/TarasOsiris/e0e6e6c3b8fdb0d8074b
+        description: Flow Map Shader for Unity3D. Used with Sprites.
+        entry_type: reference
+      - name: FogSprites
+        url: https://github.com/bricevdm/FogSprites
+        description: Modification of Unity's sprite shaders supporting Fog.
+        entry_type: reference
+      - name: Unity Fluid Simulation 2D
+        url: https://github.com/giangchau92/Unity-Fluid-Simulation-2D
+        description: Using extended camera to render particles then metalball processing with shader.
+        entry_type: reference
+      - name: CircularColorPickerUnity
+        url: https://github.com/mathiassiig/CircularColorPickerUnity
+        description: Just a shader and a script for a circular color picker.
+        entry_type: reference
+      - name: GSLS Optimizer
+        url: https://github.com/aras-p/glsl-optimizer
+        description: GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization. (#SHADERS)
+        entry_type: reference
+      - name: ShaderForge
+        url: https://github.com/FreyaHolmer/ShaderForge
+        description: 'A node-based shader editor giving you the artistic freedom of shader creation, with no need to code. (Was :moneybag: but now is open source and not maintained). [Asset Store Link](https://www.asset'
+        entry_type: reference
+      - name: ShaderLabLab
+        url: https://github.com/rambutan2000/ShaderLabLab
+        description: A system using T4 Templates to generate Unity ShaderLab code in the Editor.
+        entry_type: reference
+      - name: GrassBending
+        url: https://github.com/Elringus/GrassBending
+        description: A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect. (#TERRAIN)
+        entry_type: reference
+      - name: Wind Waker Shader
+        url: https://github.com/albertomelladoc/Wind-Waker-Shader
+        description: Cel Shading of two thresholds with a blur/gradient between them for Unity.
+        entry_type: reference
+      - name: UnityOutlineShader
+        url: https://github.com/IronWarrior/UnityOutlineShader
+        description: Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
+        entry_type: reference
+      - name: VerticalDissolve
+        url: https://github.com/AdultLink/VerticalDissolve
+        description: Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
+        entry_type: reference
+      - name: Kamakura Shaders
+        url: https://github.com/kayac/kamakura-shaders
+        description: Kamakura Shaders is a collection of shaders and components focusing on Non-Photorealistic Rendering for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
+        entry_type: reference
+      - name: Stanford Bunny Fur With Unity
+        url: https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity
+        description: Using the Geometry Shader to generate fur on GPU.
+        entry_type: reference
+      - name: Procedural Stochastic Texturing
+        url: https://github.com/UnityLabs/procedural-stochastic-texturing
+        description: Modified Unity Standard shader implementing Procedural Stochastic Texturing.
+        entry_type: reference
+      - name: VilarVRC
+        url: https://github.com/Vilar24/VilarVRC
+        description: Vilar's Shaders for VRChat.
+        entry_type: reference
+      - name: UnityGPUNoise
+        url: https://github.com/GlitchEnzo/UnityGPUNoise
+        description: A set of shaders to help perform various Noise functions on the GPU.
+        entry_type: reference
+      - name: ShadowDrawer
+        url: https://github.com/keijiro/ShadowDrawer
+        description: Shadow matte shader for Unity.
+        entry_type: reference
+      - name: Unity Shaders
+        url: https://github.com/igradeca/Unity-Shaders
+        description: Unity project about reseach on shaders and particle system.
+        entry_type: reference
+      - name: Unity Shader Sketches
+        url: https://github.com/setchi/Unity-ShaderSketches
+        description: Sketches made with ShaderLab in Unity.
+        entry_type: reference
+      - name: ShaderProject
+        url: https://github.com/ellioman/ShaderProject
+        description: A container for all sorts of handy shaders.
+        entry_type: reference
+      - name: Shader Effects
+        url: https://github.com/NoxWings/Shader-Effects
+        description: Unity shader effects.
+        entry_type: reference
+      - name: Glow
+        url: https://github.com/rakkarage/Glow
+        description: Unity ShaderGraph effect test.
+        entry_type: reference
+      - name: Unity Raymarching Collision
+        url: https://github.com/hecomi/UnityRaymarchingCollision
+        description: Raymarching x Rigidbody interaction example.
+        entry_type: reference
+      - name: Unity Compute Shader Ray Tracing Practice
+        url: https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice
+        description: Raytracing shader tutorial for Unity.
+        entry_type: reference
+      - name: Raymarching On Unity 5
+        url: https://github.com/i-saint/RaymarchingOnUnity5
+        description: Raymarcher in Unity 5.
+        entry_type: reference
+      - name: SDFs by Inigo Quilez
+        url: https://iquilezles.org/
+        description: All you need to know about SDFs and other shader magic.
+        entry_type: reference
+      - name: lygia
+        url: https://www.lygia.xyz/
+        description: Shader library of reusable functions.
+        entry_type: reference
+      - name: DreamWork's MoonRay
+        url: https://openmoonray.org/
+        description: MoonRay is a physically based path-tracing renderer; it includes a USD Hydra render delegate, multi-machine and cloud rendering via the Arras distributed computation framework. [![][repo]](https://
+        entry_type: reference
+      - name: https://www.reddit.com/r/gamedev/comments/1nxcxs/how_do_i_approach_learning_to_write_shaders/
+        url: https://www.reddit.com/r/gamedev/comments/1nxcxs/how_do_i_approach_learning_to_write_shaders/
+        description: https://www.reddit.com/r/gamedev/comments/1nxcxs/how_do_i_approach_learning_to_write_shaders/.
+        entry_type: community
+      - name: Pyro Shader for Redshit, ARnold, Renderman
+        url: https://sadjad.gumroad.com/l/PvjRz?recommended_by=search
+        description: Pyro Shader for Redshit, ARnold, Renderman.
+        entry_type: reference
+      - name: http://shaderslab.com/demo-82---extrude-faces.html
+        url: http://shaderslab.com/demo-82---extrude-faces.html
+        description: http://shaderslab.com/demo-82---extrude-faces.html.
+        entry_type: reference
+      - name: Twigl
+        url: https://twigl.app/
+        description: Free online shader editor.
+        entry_type: reference
+      - name: Curtis Holt's Results
+        url: https://youtu.be/JhLVzcCl1ug
+        description: ', [Neoyume’s Nodeshaders](https://neoyume.com/en/neoyumes-nodevember-nodeshaders/), [Kyle Hamm](https://gumroad.com/l/kylenodevember2020), [erindale](https://gumroad.com/l/node2020).'
+        entry_type: reference
+      - name: 📺 Physically Based Cel Shading ~ Visual Tech Art
+        url: https://youtu.be/eBS3BOI5KnM
+        description: '[pre-process,blueprint] - Physically Based pipeline.'
+        entry_type: reference
+      - name: 📺 stylized comic book shader ~ Chris Folea Makes Things
+        url: https://youtu.be/Ctx1TP0XDUM
+        description: '[pre-process,blueprint] - WITHOUT post processing.'
+        entry_type: reference
+      - name: 📺 Cel-Shader playlist ~ many
+        url: https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f
+        description: '[post-process,Lumin,msc-ue] - 17 videos.'
+        entry_type: reference
+      - name: 📺 Moebius-style 3D Rendering ~ Useless Game Dev
+        url: https://youtu.be/jlKNOirh66E
+        description: '[pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.'
+        entry_type: reference
+      - name: 📺 Manga/outline Shader playlist ~ many
+        url: https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w
+        description: '[post-process,shader] - 18 videos, outlines, toon shaders.'
+        entry_type: reference
+      - name: 📺 Advanced Cel Shader ~ Pitchfork Academy
+        url: https://youtu.be/HDyswSWIdY0
+        description: '[material].'
+        entry_type: reference
+      - name: Shaders Laboratory
+        url: https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w/videos
+        description: Shaders Laboratory.
+        entry_type: channel
+      - name: Advanced Materials in Blender - Shader Editor Tutorial.
+        url: https://www.youtube.com/watch?v=iVjnS5Z77Ww
+        description: Advanced Materials in Blender - Shader Editor Tutorial..
+        entry_type: channel
+      - name: Lightning Boy Studio
+        url: https://www.youtube.com/channel/UCd9i2MKimSaKezat1xkn8-A/videos
+        description: toon shader, npr.
+        entry_type: channel
+      - name: Ben Cloward
+        url: https://www.youtube.com/user/bcloward
+        description: Focused primarily on shader creation tutorials.
+        entry_type: channel
   - slug: renderer-specific-learning
     title: Renderer-Specific Learning
     description: Deep-dives for specific render engines.

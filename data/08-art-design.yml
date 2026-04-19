@@ -52,6 +52,98 @@ subsections:
         url: https://github.com/nkallen/plasticity
         description: A 3d modelling software for concept artists.
         entry_type: reference
+      - name: Absurd Design
+        url: https://absurd.design
+        description: Surrealist illustrations for your next amazing thing
+        entry_type: channel
+      - name: Neural Network-Generated Illustrations
+        url: https://ai.googleblog.com/2017/05/neural-network-generated-illustrations.html
+        description: AI generated illustrations for Allo from Google
+        entry_type: channel
+      - name: https://awesome-illustrations.now.sh
+        url: https://awesome-illustrations.now.sh
+        description: https://awesome-illustrations.now.sh.
+        entry_type: channel
+      - name: Black Illustrations
+        url: https://blackillustrations.com
+        description: Beautiful illustrations of black people for your next project
+        entry_type: channel
+      - name: Blush
+        url: https://blush.design
+        description: Create, mix, and customize illustrations made by artists around the world.
+        entry_type: channel
+      - name: Characterz
+        url: https://characterz.design
+        description: 9,000+ customizable diverse 3D character illustrations with Blender source files
+        entry_type: channel
+      - name: Control Illustrations
+        url: https://control.rocks
+        description: Combo set of 108 customizable illustrations
+        entry_type: channel
+      - name: Biodiversity Heritage Library
+        url: https://www.flickr.com/photos/biodivlibrary/
+        description: 300,000+ Botanical and Animal Illustrations available for free download. ![zero]
+        entry_type: channel
+      - name: Flowbite Illustrations
+        url: https://flowbite.com/illustrations/
+        description: Open-source collection of 3D styles SVG illustrations available in dark and light mode
+        entry_type: channel
+      - name: Get Illustrations Bundle
+        url: https://getillustrations.com
+        description: A bundle of over 34 vector illustration packs and 2800+ items
+        entry_type: channel
+      - name: Handz
+        url: https://handz.design
+        description: Free library of 320+ diverse 3D hand illustrations with Blender source files
+        entry_type: channel
+      - name: Humaaans
+        url: https://www.humaaans.com
+        description: Mix-&-match illustrations of people with a design library
+        entry_type: channel
+      - name: Ouch! Illustrations
+        url: https://icons8.com/ouch
+        description: Stylish illustrations for better UX
+        entry_type: channel
+      - name: illlustrations
+        url: https://illlustrations.co
+        description: 100 awesome open-source illustrations also including COVID & WFH for your next project
+        entry_type: channel
+      - name: Illustration Tools
+        url: https://illustration.tools
+        description: Directory of tools and resources for illustrators, creatives and artists.
+        entry_type: channel
+      - name: Illustrationz
+        url: https://illustrationz.design
+        description: 100+ 3D character illustration packs with 167M+ combinations
+        entry_type: channel
+      - name: Malt
+        url: https://malt3d.com/
+        description: Malt is a non photorealistic rendering (NPR) framework. It offers fully customizable real-time rendering framework for animation and illustration. [![][repo]](https://github.com/bnpr/Malt) ![][mit]
+        entry_type: channel
+      - name: Illustration Gallery
+        url: https://www.manypixels.co/gallery
+        description: A huge collection of royalty-free illustrations to power up your projects
+        entry_type: inspiration
+      - name: Shape.so
+        url: https://shape.so
+        description: 4300+ icons, illustrations exportable to SVG, React & Lottie
+        entry_type: channel
+      - name: Storytale
+        url: https://storytale.io/
+        description: Hundreds of illustrations for web and app projects
+        entry_type: channel
+      - name: Stubborn Generator
+        url: https://stubborn.fun
+        description: An awesome character generator for your next illustrations
+        entry_type: channel
+      - name: unDraw Illustrations
+        url: https://undraw.co/illustrations
+        description: MIT licensed constantly updated collection of beautiful svg illustrations
+        entry_type: channel
+      - name: Smash Illustrations
+        url: https://usesmash.com
+        description: An list of illustrations over 250+ items
+        entry_type: channel
   - slug: concept-art-courses
     title: Concept Art & Illustration — Courses
     description: Structured concept art and design courses.
@@ -156,6 +248,26 @@ subsections:
         url: https://github.com/anopara/genetic-drawing
         description: Python library to generate a stylized rendering from an image.
         entry_type: tool
+      - name: Graphite 3D
+        url: https://apps.apple.com/us/app/graphite-3d/id1523391511
+        description: A collaborative drawing tool for modeling precise shapes in real spaces.
+        entry_type: tutorial
+      - name: 'From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach'
+        url: https://arxiv.org/abs/2412.11892
+        description: AAAI 2025 | [[project](https://manycore-research.github.io/CAD2Program/)] |
+        entry_type: tutorial
+      - name: 'Text2CAD: Text to 3D CAD Generation via Technical Drawings'
+        url: https://arxiv.org/abs/2411.06206
+        description: NeurIPS 2024 | [[project](https://sadilkhan.github.io/text2cad-project/)] |
+        entry_type: tutorial
+      - name: Gizmos
+        url: https://github.com/popcron/gizmos
+        description: Used for drawing runtime gizmos in builds and editor (Unity3D).
+        entry_type: reference
+      - name: Pixen
+        url: https://pixenapp.com/
+        description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
+        entry_type: tutorial
   - slug: photography
     title: Photography — Reference & Fundamentals
     description: Photography knowledge directly applicable to 3D lighting and composition.
@@ -206,6 +318,18 @@ subsections:
         readme_tags:
           - Studio Diagrams
           - Adorama
+      - name: PIXLS.US
+        url: https://pixls.us
+        description: Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools
+        entry_type: community
+      - name: Open Source Photography Community on Google+
+        url: https://plus.google.com/u/0/communities/110647644928874455108
+        description: Open Source Photography Community on Google+.
+        entry_type: community
+      - name: /r/FOSSPhotography
+        url: http://reddit.com/r/fossphotography
+        description: Community about Free open source software for Photography on reddit.
+        entry_type: community
   - slug: cinematography-camera
     title: Cinematography & Camera Work
     description: Shot composition, camera techniques, lighting for film/CG.
@@ -287,6 +411,14 @@ subsections:
         readme_tags:
           - Cinematic Look
           - Lighting
+      - name: Nuke
+        url: https://www.foundry.com/products/nuke
+        description: Industry standard node-based compositing software by The Foundry, has a free version for non-commercial use.
+        entry_type: reference
+      - name: Fusion
+        url: https://www.blackmagicdesign.com/de/products/fusion
+        description: Free node-based compositing software from Blackmagic Design.
+        entry_type: reference
   - slug: composition-visual-storytelling
     title: Composition & Visual Storytelling
     description: Composition theory, color theory, visual hierarchy.
@@ -334,6 +466,10 @@ subsections:
         readme_tags:
           - Golden Ratio
           - Overlays
+      - name: RenderNet
+        url: https://rendernet.ai/
+        description: RenderNet AI is a tool for generating images and videos, providing control over character design, composition, and style.
+        entry_type: reference
   - slug: animation-principles
     title: Animation Principles
     description: The 12 principles of animation and related fundamentals.
@@ -558,6 +694,10 @@ subsections:
         readme_tags:
           - Pixel Art
           - Fast
+      - name: Swatchr
+        url: https://github.com/jknightdoeswork/swatchr
+        description: A color palette management system for Unity.
+        entry_type: reference
   - slug: design-tools
     title: Design Tools
     description: Vector editors, creative effect tools, and design utilities.
@@ -842,6 +982,18 @@ subsections:
         readme_tags:
           - Animation Archive
           - Mirror
+      - name: Iconz
+        url: https://iconz.design
+        description: 460+ 3D icons in multiple angles and materials
+        entry_type: inspiration
+      - name: Mockupz
+        url: https://mockupz.design
+        description: Free 3D mockup scenes for showcasing your design work
+        entry_type: inspiration
+      - name: Robotz
+        url: https://threedee.design/cartoon-robot
+        description: Free modular 3D cartoon robot with customizable heads, bodies and hands
+        entry_type: inspiration
   - slug: 2d-art-references
     title: 2D Art References & Inspiration
     description: 2D animation sheets, cloth, anime model sheets.

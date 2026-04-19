@@ -375,6 +375,442 @@ subsections:
         readme_tags:
           - FX
           - Tutorials
+      - name: Unity3D
+        url: https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg
+        description: Unity3D.
+        entry_type: channel
+      - name: Unity3D LatAm
+        url: https://www.youtube.com/channel/UCfw-8uwWw5U942pccws0duA
+        description: Unity3D LatAm.
+        entry_type: channel
+      - name: 3D-Coat Applink
+        url: https://www.youtube.com/watch?v=2bo2XGUPwIU
+        description: 3DCoat now has native support of Blender via built-in AppLink.
+        entry_type: channel
+      - name: Blender Fundamentals by Blender.
+        url: https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6
+        description: Blender Fundamentals by Blender..
+        entry_type: channel
+      - name: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts.
+        url: https://www.youtube.com/playlist?list=PLvPwLecDlWRD_VK_2INC1VQ18dZdpDwLi
+        description: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts..
+        entry_type: channel
+      - name: Recording Studio in Blender- 3D Isometric Modeling Process.
+        url: https://www.youtube.com/watch?v=QkCrhycrJi8
+        description: Recording Studio in Blender- 3D Isometric Modeling Process..
+        entry_type: channel
+      - name: All 50+ Modifiers in Blender Explained in 30 Minutes.
+        url: https://www.youtube.com/watch?v=8BQYAwDW6IE
+        description: All 50+ Modifiers in Blender Explained in 30 Minutes..
+        entry_type: channel
+      - name: YanSculpts' Channel
+        url: https://www.youtube.com/channel/UCfjswDVU0XHyBN7UFG0Mi5Q/videos
+        description: YanSculpts' Channel.
+        entry_type: channel
+      - name: Introduction to Sculpting in Blender - Sculpting Essentials.
+        url: https://www.youtube.com/watch?v=A-Wq8K8icpQ
+        description: Introduction to Sculpting in Blender - Sculpting Essentials..
+        entry_type: channel
+      - name: The Speed Sculpting Guide - Learn from Limitation.
+        url: https://www.youtube.com/watch?v=qnYA9kbPeLs
+        description: The Speed Sculpting Guide - Learn from Limitation..
+        entry_type: channel
+      - name: Sculpting in Blender - Beginners Detailed Guide - Every Brush.
+        url: https://www.youtube.com/watch?v=L3XtAFUWNuk
+        description: Sculpting in Blender - Beginners Detailed Guide - Every Brush..
+        entry_type: channel
+      - name: Stylized Character Workflow with Blender.
+        url: https://www.youtube.com/watch?v=f-mx-Jfx9lA
+        description: Stylized Character Workflow with Blender..
+        entry_type: channel
+      - name: Modeling a character BaseMesh in Blender.
+        url: https://www.youtube.com/watch?v=WlaMfIgS2ns
+        description: Modeling a character BaseMesh in Blender..
+        entry_type: channel
+      - name: Hard-surface Modeling in Blender by Gleb Alexandrov.
+        url: https://www.youtube.com/playlist?list=PL2aDImegRwZHQsA5_N4DpaOQmUXaIsBdN
+        description: Hard-surface Modeling in Blender by Gleb Alexandrov..
+        entry_type: channel
+      - name: Blender Hardsurface Sculpting Tips.
+        url: https://www.youtube.com/watch?v=qbC2iX4SATc
+        description: Blender Hardsurface Sculpting Tips..
+        entry_type: channel
+      - name: Geometry Nodes Basics for Beginners by Bradley Animation
+        url: https://www.youtube.com/playlist?list=PLhQ290f8z8FMzVZAZGyL8CnwOnitw2VdG
+        description: Geometry Nodes Basics for Beginners by Bradley Animation.
+        entry_type: channel
+      - name: Shading Editor Basics by Blender.
+        url: https://www.youtube.com/watch?v=0zrd37k2tJM
+        description: Shading Editor Basics by Blender..
+        entry_type: channel
+      - name: Blender - Everything About The Principled BSDF (In 3 Minutes).
+        url: https://www.youtube.com/watch?v=_IjSYLt9k2A
+        description: Blender - Everything About The Principled BSDF (In 3 Minutes)..
+        entry_type: channel
+      - name: Blender Procedural Nodes Playlist by Default Cube.
+        url: https://www.youtube.com/playlist?list=PLFaEpHfMsQ2uvtFjBDGwFlTm_QrnOzslc
+        description: Blender Procedural Nodes Playlist by Default Cube..
+        entry_type: channel
+      - name: All 80+ Blender material nodes explained in under 30 minutes.
+        url: https://www.youtube.com/watch?v=cQ0qtcSymDI
+        description: All 80+ Blender material nodes explained in under 30 minutes..
+        entry_type: channel
+      - name: Rig any Character for Animation in 10 Minutes!
+        url: https://www.youtube.com/watch?v=SBYb1YmaOMY
+        description: Rig any Character for Animation in 10 Minutes!.
+        entry_type: channel
+      - name: 'Blender Character Animation: Shape Keys.'
+        url: https://www.youtube.com/watch?v=YDu6y_2jFg0
+        description: 'Blender Character Animation: Shape Keys..'
+        entry_type: channel
+      - name: Create Loop Animations.
+        url: https://www.youtube.com/watch?v=Uq4OLSRgSQE
+        description: Create Loop Animations..
+        entry_type: channel
+      - name: How to composite renders in Blender.
+        url: https://www.youtube.com/watch?v=Eka75kHHBrA
+        description: How to composite renders in Blender..
+        entry_type: channel
+      - name: Blender Render Passes and Very Basic Compositing.
+        url: https://www.youtube.com/watch?v=Sdaj9Y_1mOY
+        description: Blender Render Passes and Very Basic Compositing..
+        entry_type: channel
+      - name: Render Passes in Blender - What are they and why even use them?
+        url: https://www.youtube.com/watch?v=9p_iwjU5_Bg
+        description: Render Passes in Blender - What are they and why even use them?.
+        entry_type: channel
+      - name: How to use blender's compositor to improve a rendered frame sequence.
+        url: https://www.youtube.com/watch?v=T57tbazDZEA
+        description: How to use blender's compositor to improve a rendered frame sequence..
+        entry_type: channel
+      - name: Blender Compositor for Post Processing.
+        url: https://www.youtube.com/watch?v=W5KqXPCKBuI
+        description: Blender Compositor for Post Processing..
+        entry_type: channel
+      - name: Blender Motion Tracking Series by CGmatter.
+        url: https://www.youtube.com/playlist?list=PL4EqKJjrgoVTCrjTOBHePGXHqFdqaPYyR
+        description: Blender Motion Tracking Series by CGmatter..
+        entry_type: channel
+      - name: Add CGI Characters to Live Footage by CG Geek.
+        url: https://www.youtube.com/watch?v=hymtATx1QXw
+        description: Add CGI Characters to Live Footage by CG Geek..
+        entry_type: channel
+      - name: How to 3D Motion Capture Easy and Free with a Phone!
+        url: https://www.youtube.com/watch?v=fwc9vTCLYCc
+        description: How to 3D Motion Capture Easy and Free with a Phone!.
+        entry_type: channel
+      - name: Scripting for Artists by Blender.
+        url: https://www.youtube.com/playlist?list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd6BW
+        description: Scripting for Artists by Blender..
+        entry_type: channel
+      - name: Blender Scripting by Darkfall
+        url: https://www.youtube.com/playlist?list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-
+        description: Blender Scripting by Darkfall.
+        entry_type: channel
+      - name: Creating a Blender 2.8 Voxelize Python Script
+        url: https://www.youtube.com/watch?v=l9wSDtqThmQ
+        description: ', [[part2]](https://www.youtube.com/watch?v=Fr1HN0XgB58)'
+        entry_type: channel
+      - name: SouthernShotty
+        url: https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg/videos
+        description: stylized modeling, character creation, sculpting.
+        entry_type: channel
+      - name: Blender Guru
+        url: https://www.youtube.com/user/AndrewPPrice/videos
+        description: Most popular blender channel on youtube.
+        entry_type: channel
+      - name: CG Geek
+        url: https://www.youtube.com/user/Blenderfan93/videos
+        description: second most popular blender channel on youtube.
+        entry_type: channel
+      - name: Gleb Alexandrov
+        url: https://www.youtube.com/user/GlebAlexandrov/videos
+        description: one of the best-known blender channel on youtube.
+        entry_type: channel
+      - name: Ducky 3D
+        url: https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos
+        description: abstract designs, modifiers.
+        entry_type: channel
+      - name: Chris Prenninger
+        url: https://www.youtube.com/user/chrisprenn/videos
+        description: animation nodes, particle systems, shading.
+        entry_type: channel
+      - name: CG Boost
+        url: https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA/videos
+        description: modeling, sculpting.
+        entry_type: channel
+      - name: FlippedNormals
+        url: https://www.youtube.com/user/FlippedNormalsTuts/videos
+        description: sculpting, modeling.
+        entry_type: channel
+      - name: Blender NPR
+        url: https://www.youtube.com/user/blendernpr/videos
+        description: non-Photorealistic and expressive rendering.
+        entry_type: channel
+      - name: Daniel Krafft - DSO
+        url: https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw/videos
+        description: blender tips, add-ons.
+        entry_type: channel
+      - name: Imphenzia
+        url: https://www.youtube.com/user/ImphenziaMusic/videos
+        description: low poly modeling, rigging.
+        entry_type: channel
+      - name: CBaileyFilm
+        url: https://www.youtube.com/channel/UCXguhzOm29mBTYDuxKjxn5A/videos
+        description: blender animation projects.
+        entry_type: channel
+      - name: CG Masters
+        url: https://www.youtube.com/user/blengine/videos
+        description: modeling, texturing, shading.
+        entry_type: channel
+      - name: Peter France
+        url: https://www.youtube.com/c/PeterFrance/videos
+        description: modeling, texturing, shading, vfx.
+        entry_type: channel
+      - name: Polyfjord
+        url: https://www.youtube.com/c/Polyfjord/videos
+        description: Polyfjord.
+        entry_type: channel
+      - name: Stylized Station
+        url: https://www.youtube.com/c/StylizedStation/videos
+        description: Stylized Station.
+        entry_type: channel
+      - name: Iridesium
+        url: https://www.youtube.com/c/Iridesium/videos
+        description: simulation, vfx.
+        entry_type: channel
+      - name: Giulia Marchetti
+        url: https://www.youtube.com/c/GiuliaMarchetti3d/videos
+        description: sculpting, character modeling.
+        entry_type: channel
+      - name: CG Fast Track
+        url: https://www.youtube.com/c/CGFastTrack/videos
+        description: modeling, animation.
+        entry_type: channel
+      - name: 3DGreenhorn
+        url: https://www.youtube.com/c/3DGreenhorn/videos
+        description: isometric modeling.
+        entry_type: channel
+      - name: Bad Normals
+        url: https://www.youtube.com/c/BadNormals/videos
+        description: modeling, animation.
+        entry_type: channel
+      - name: Noggi
+        url: https://www.youtube.com/c/Noggi_Video/videos
+        description: Noggi.
+        entry_type: channel
+      - name: DerekElliott
+        url: https://www.youtube.com/c/DerekElliott/videos
+        description: modeling, animation.
+        entry_type: channel
+      - name: Samuel Sullins
+        url: https://www.youtube.com/@samuelsullins
+        description: Geometry Nodes, vfx, lowpoly, general.
+        entry_type: channel
+      - name: CG Python
+        url: https://www.youtube.com/@CGPython
+        description: blender Python scripting tips and tricks.
+        entry_type: channel
+      - name: pwnisher
+        url: https://www.youtube.com/c/pwnisher/videos
+        description: Clinton Jones' Youtube channel regularly organizes 3D Challanges.
+        entry_type: channel
+      - name: Unreal Engine Youtube
+        url: https://www.youtube.com/watch?v=P4IKS5k47Wg
+        description: Unreal Engine Youtube.
+        entry_type: channel
+      - name: The Cherno Project
+        url: https://www.youtube.com/user/TheChernoProject
+        description: While not specific to Unreal Engine, Cherno has tons of great C++ and general game engine content.
+        entry_type: channel
+      - name: Unreal Engine
+        url: https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ
+        description: The official Unreal Engine YouTube channel with weekly live streams.
+        entry_type: channel
+      - name: Holoportation
+        url: https://www.youtube.com/watch?v=7d59O6cfaM0
+        description: virtual 3D teleportation in real-time by Microsoft Research
+        entry_type: channel
+      - name: Super Mario Bros AR Game
+        url: https://www.youtube.com/watch?v=QN95nNDtxjo
+        description: AR game built with Microsoft HoloLens and Unity3D
+        entry_type: channel
+      - name: PortalAR
+        url: https://www.youtube.com/watch?time_continue=22&v=-7NutV8kHLQ
+        description: An immersive way to explore 360 photos, videos and 3D environment
+        entry_type: channel
+      - name: Hamburger Menu
+        url: https://www.youtube.com/watch?v=6zsh1musFuE
+        description: Use simple motion to create icon animations.
+        entry_type: channel
+      - name: Syncing Scroll Position with Rive
+        url: https://www.youtube.com/watch?v=iNEqhyEzAKs&list=PLujDTZWVDSsFR582ypXnrbpH8_3S9a-RF&index=15
+        description: Scroll position influencing Rive animations/state machines.
+        entry_type: channel
+      - name: Glassmorphism card
+        url: https://www.youtube.com/watch?v=AiPq5u5UEwM
+        description: Complex background animations using SwiftUI & Rive.App
+        entry_type: channel
+      - name: Building a Weather App
+        url: https://www.youtube.com/watch?v=nut38kjyUqs&t=0s
+        description: Series on building Rive animations in a React Native app with weather API data.
+        entry_type: channel
+      - name: Plant Growing Animation with Rive and Flutter
+        url: https://www.youtube.com/watch?v=fn-0bIsf43w
+        description: Implement the animation in Flutter
+        entry_type: channel
+      - name: Add Rive to your Flutter Flame game
+        url: https://www.youtube.com/watch?v=0FDHpOpfX_U
+        description: Learn how to add interactive Rive animations to a Flutter Flame game.
+        entry_type: channel
+      - name: Add interactivity to your Webflow sites with Rive
+        url: https://www.youtube.com/watch?v=s_kCrN6_ugA
+        description: Use Rive share links to quickly add animations and interactivity to WebFlow websites.
+        entry_type: channel
+      - name: Pointer Tracking Animation Implemented in Webflow
+        url: https://www.youtube.com/watch?v=MCJ7D9we-aY
+        description: How to set up a Rive file with pointer tracking for Webflow implementation.
+        entry_type: channel
+      - name: 📺 Trees – Blender to UE5 Workflow ~ selsner
+        url: https://www.youtube.com/shorts/yWyc14-6sog?feature=share
+        description: '[asset] - blob-less, recomputed, short.'
+        entry_type: channel
+      - name: 📺 NTRCT | Characters for Dummies ~ Yu Fujishiro
+        url: https://www.youtube.com/playlist?list=PLvSZaVrgRBTp4mo_XUiE66Tqk7qsokoXm
+        description: '[animation] - ''interactive art''.'
+        entry_type: channel
+      - name: 📺📜 Control Rig ~ Ask A Dev
+        url: https://www.youtube.com/playlist?list=PL2A3wMhmbeArc-d471A4cku1pYA31X-ir
+        description: '[character,animation] - 22 vids.'
+        entry_type: channel
+      - name: Unreal Engine Official YouTube
+        url: https://www.youtube.com/c/UnrealEngine
+        description: Unreal Engine Official YouTube.
+        entry_type: channel
+      - name: MR3D-Dev
+        url: https://www.youtube.com/c/MR3DDev
+        description: MR3D-Dev.
+        entry_type: channel
+      - name: Unreal Sensei
+        url: https://www.youtube.com/c/UnrealSensei
+        description: Unreal Sensei.
+        entry_type: channel
+      - name: Introduction into the new Godot OpenVR Asset
+        url: https://www.youtube.com/watch?v=267dRjEYliU
+        description: Introduction into the new Godot OpenVR Asset.
+        entry_type: channel
+      - name: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !
+        url: https://www.youtube.com/watch?v=vAxPoVmhvaw
+        description: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !.
+        entry_type: channel
+      - name: 'Unity VR: EditorVR Quick Look'
+        url: https://www.youtube.com/watch?v=5-NAjKPsx4A
+        description: 'Unity VR: EditorVR Quick Look.'
+        entry_type: channel
+      - name: Unity Mecanim VR IK vs Final IK
+        url: https://www.youtube.com/watch?v=7y9GAVpCW_c
+        description: '[VR IK using native Unity Mecanim IK](https://github.com/createthis/unity_vr_ik_mecanim)'
+        entry_type: channel
+      - name: Auto Cache Out Tool
+        url: https://www.youtube.com/watch?v=euTth1NNrYc
+        description: Auto Cache Out tool is for managing caches and .hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically ve
+        entry_type: channel
+      - name: Houdini Atmopshereic Tookit
+        url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWFneFUtek92S3R4di1meGgyU2dvcXhId1h3QXxBQ3Jtc0trTklobzZhSm4yZFliWGtwSHlhZ2pnUE85a1g2YnBWc3RxeUw5U3g2SU9kWjBON1Nuc2xxSEZqenFIeElEaVFScVBSZU5OMmE1YkVwY3dDU0JuR3Jsc2tpRktyVDc2LVhrYzNoVndTNHVJUHFYWmFmWQ&q=https%3A%2F%2Fc474ea1c-22c8-4619-911e-0560ab902acd.usrfiles.com%2Farchives%2Fc474ea_31281e4b75f647a29361f9951d89b2d6.zip&v=EbVt0qU-P9c
+        description: Toolkit by Kate Xagoraris for everday cloud / volume operations
+        entry_type: channel
+      - name: VFX Magic
+        url: https://www.youtube.com/c/VFXMagics
+        description: VFX Magic.
+        entry_type: channel
+      - name: Simon Houdini
+        url: https://www.youtube.com/channel/UCvuT2bzBB0kzne16DBAtmLQ
+        description: Simon Houdini.
+        entry_type: channel
+      - name: Houdini Official
+        url: https://www.youtube.com/c/houdini3d
+        description: Houdini Official.
+        entry_type: channel
+      - name: Indie Pixel
+        url: https://www.youtube.com/c/IndiePixel3D
+        description: Indie Pixel.
+        entry_type: channel
+      - name: Pixel Fondue
+        url: https://www.youtube.com/watch?v=Gz9bUR0Vbe8&list=PLv8HciXoFYX8xGBC8ufmNamFdUMT0fhHf
+        description: Pixel Fondue.
+        entry_type: channel
+      - name: Houdini Elements
+        url: https://www.youtube.com/user/vik546
+        description: Houdini Elements.
+        entry_type: channel
+      - name: CGCircuit
+        url: https://www.youtube.com/user/cgcircuitLLC
+        description: CGCircuit.
+        entry_type: channel
+      - name: CG Katana
+        url: https://www.youtube.com/c/CGKATANA/videos
+        description: CG Katana.
+        entry_type: channel
+      - name: ChetalGazdarVFX
+        url: https://www.youtube.com/c/ChetalGazdarVFX
+        description: ChetalGazdarVFX.
+        entry_type: channel
+      - name: Marc Dom VFX
+        url: https://www.youtube.com/channel/UCu6DoH72NQSTz0Drf1QeYdQ
+        description: Marc Dom VFX.
+        entry_type: channel
+      - name: Short & Sweet 3D
+        url: https://www.youtube.com/watch?v=hBOCowLO9uw
+        description: Short & Sweet 3D.
+        entry_type: channel
+      - name: Houdini Kitchen
+        url: https://www.youtube.com/c/houdinikitchen
+        description: Houdini Kitchen.
+        entry_type: channel
+      - name: CGPedia
+        url: https://www.youtube.com/c/Cgpedia3d
+        description: CGPedia.
+        entry_type: channel
+      - name: Houdini Vex
+        url: https://www.youtube.com/@houdinivex3897
+        description: Houdini Vex.
+        entry_type: channel
+      - name: VFxGrace
+        url: https://www.youtube.com/@VFXGrace
+        description: VFxGrace.
+        entry_type: channel
+      - name: CGI Nerd
+        url: https://www.youtube.com/@CGINerd
+        description: CGI Nerd.
+        entry_type: channel
+      - name: IDA VFX
+        url: https://www.youtube.com/IDAVFX
+        description: IDA VFX.
+        entry_type: channel
+      - name: VFXCentral
+        url: https://www.youtube.com/@VFXCentral
+        description: VFXCentral.
+        entry_type: channel
+      - name: Houdini Hangout
+        url: https://www.youtube.com/@HoudiniHangout
+        description: Houdini Hangout.
+        entry_type: channel
+      - name: Mad Dog VFX
+        url: https://www.youtube.com/@MadDogVFX
+        description: Mad Dog VFX.
+        entry_type: channel
+      - name: MadlabVFX
+        url: https://www.youtube.com/watch?v=V2uLyNZtnaw
+        description: MadlabVFX.
+        entry_type: channel
+      - name: Wuramakesvfx
+        url: https://www.youtube.com/@wuramkesvfx
+        description: Wuramakesvfx.
+        entry_type: channel
+      - name: Dan Cortes VFX
+        url: https://www.youtube.com/watch?v=J0MNbCf_4Tc
+        description: Dan Cortes VFX.
+        entry_type: channel
   - slug: youtube-sculpting-characters
     title: YouTube Channels — Sculpting & Characters
     description: Character and sculpting focused creators.
@@ -591,6 +1027,354 @@ subsections:
         readme_tags:
           - Maya + Python
           - Course
+      - name: gumroad/blender
+        url: https://gumroad.com/discover?query=blender%20tutorial
+        description: gumroad/blender.
+        entry_type: tutorial
+      - name: Pixel logic
+        url: https://gumroad.com/l/pixel-logic
+        description: Pixel Logic is an in-depth pixel art tutorial book.
+        entry_type: tutorial
+      - name: Tech Gear HDA
+        url: https://www.sidefx.com/tutorials/tech-gear-generator/
+        description: Generate detailed cylindrical pieces. Can be useful to generate gears , bolts or details for sci-fi assets.
+        entry_type: tutorial
+      - name: Artisticrender
+        url: https://artisticrender.com/
+        description: Tutorials, tips, resources about Blender and 3D.
+        entry_type: tutorial
+      - name: Interplanety
+        url: https://b3d.interplanety.org/en/
+        description: Blender tutorials, articles, tips, notes.
+        entry_type: tutorial
+      - name: Blender 3D Architect
+        url: https://www.blender3darchitect.com/
+        description: is the place to find news, tutorials, resources and training related to architectural visualization using Blender.
+        entry_type: tutorial
+      - name: 📰BlenderNation
+        url: https://www.blendernation.com/
+        description: daily news, art and tutorials for Blender, the open source 3D content creation suite.
+        entry_type: tutorial
+      - name: Blender Secrets
+        url: https://www.blendersecrets.org/secrets
+        description: is home to hundreds of one-minute or less video tutorials that teach you specific topics.
+        entry_type: tutorial
+      - name: Darkfall
+        url: https://darkfallblender.blogspot.com/
+        description: Blender python tutorials, nodes.
+        entry_type: tutorial
+      - name: Unity in HoloLens
+        url: https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview
+        description: Official tutorials from Microsoft for creating Microsoft HoloLens applications.
+        entry_type: tutorial
+      - name: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
+        url: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
+        description: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity.
+        entry_type: tutorial
+      - name: 'Blender 3D: Noob to Pro/Python Scripting'
+        url: https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Python_Scripting/Introduction
+        description: 'Python Scripting from [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro) book.'
+        entry_type: tutorial
+      - name: GameDev.tv Unreal Engine Blueprint Game Developer Online Course
+        url: https://www.gamedev.tv/p/unreal-blueprint/
+        description: GameDev.tv Unreal Engine Blueprint Game Developer Online Course.
+        entry_type: tutorial
+      - name: Design Patterns in Unity Example
+        url: https://github.com/marwie/Design-Patterns-in-Unity-Example
+        description: Most of Derek Banas Video Tutorial Series on Design Patterns to C# in Unity translated.
+        entry_type: reference
+      - name: Unity Readme
+        url: https://github.com/JohnAlbin/UnityReadme
+        description: Add a Readme / tutorial to the inspector tab of your Unity project.
+        entry_type: reference
+      - name: Houdini Tricks Tumblr
+        url: https://houdinitricks.tumblr.com/
+        description: Assorted Houdini tips and quick tutorials
+        entry_type: tutorial
+      - name: Unity tutorials in AR
+        url: https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D
+        description: '``Unity``  tutorials in AR                                   |'
+        entry_type: tutorial
+      - name: Motion Design School
+        url: https://motiondesign.school/collections/after-effects
+        description: Offers a variety of courses and tutorials on motion design and animation.
+        entry_type: tutorial
+      - name: Ray Wenderlich's Tutorials
+        url: http://www.raywenderlich.com/category/unity
+        description: Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
+        entry_type: tutorial
+      - name: 'Tutorial: Controlling Objects with Vive Trackers in Unity'
+        url: https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/
+        description: '[Mirror 1](https://archive.is/Il17G) - [Mirror 2](https://web.archive.org/web/20170713091924/https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/)'
+        entry_type: tutorial
+      - name: The CG Essentials
+        url: https://thecgessentials.com/
+        description: 3D modeling, rendering, animation, particle simulation, and more, this is the place to be for Blender Tutorials.
+        entry_type: tutorial
+      - name: Learn ARKit using Unity - Udacity
+        url: https://www.udacity.com/course/learn-arkit-using-unity--ud114
+        description: '``Udacity`` course about ARKit development using Unity       |'
+        entry_type: tutorial
+      - name: Unity Gems Wordpress
+        url: https://unitygem.wordpress.com/
+        description: Unity3D tutorials.
+        entry_type: tutorial
+      - name: Unreal C++
+        url: https://unrealcpp.com/
+        description: A large collection of tutorials covering common features implemented in C++
+        entry_type: tutorial
+      - name: World of Level Design
+        url: https://worldofleveldesign.com/
+        description: A whole host of tutorials dedicated to designing levels.
+        entry_type: tutorial
+      - name: 📺 Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts
+        url: https://youtu.be/ElpH2AA4Nzc
+        description: '[environment] - Zelda-inspired landscape using Procedural Content Generation.'
+        entry_type: tutorial
+      - name: 📺 MEGA TUTORIAL ~ Unreal Sensei
+        url: https://youtu.be/k-zMkzmduqI?list=PLKPWwh_viQMGQkQfKKD5lF96efA3_RWt-
+        description: '[animation] ([5.6 update](https://youtu.be/GWremmdhmdg)) - 10 vids, ~30 hours, v5.5 nanite & lumen.'
+        entry_type: tutorial
+      - name: 📺 Custom Character Skeletons and Animations ~ Upside Tutorials
+        url: https://youtu.be/BLVWvxFi9vg
+        description: '[animation,character].'
+        entry_type: tutorial
+      - name: 📺 What Studio Ghibli Does That Disney Doesn’t ~ omeroy Art Academy
+        url: https://youtu.be/UXAM9v32Q-g
+        description: '[animation,character] - stylistic differences.'
+        entry_type: tutorial
+      - name: Modern GUI Development in Unity 4.6
+        url: https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c
+        description: A video tutorial providing an in-depth explanation of Unity's new UI system.
+        entry_type: channel
+      - name: 🍩Blender 3.0 Beginner Donut Tutorial by Blender Guru.
+        url: https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U
+        description: 🍩Blender 3.0 Beginner Donut Tutorial by Blender Guru..
+        entry_type: channel
+      - name: 🍦Blender Complete Beginner Tutorial Course by CG Geek.
+        url: https://www.youtube.com/playlist?list=PLrjIgEdKLivgpCMmFC0_sV60Y_Ftp-WLD
+        description: 🍦Blender Complete Beginner Tutorial Course by CG Geek..
+        entry_type: channel
+      - name: 🍏Blender Beginner Tutorial Series by CG Boost.
+        url: https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0
+        description: 🍏Blender Beginner Tutorial Series by CG Boost..
+        entry_type: channel
+      - name: Beginner Modelling Chair Tutorial by Blender Guru.
+        url: https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR
+        description: Beginner Modelling Chair Tutorial by Blender Guru..
+        entry_type: channel
+      - name: Blender Beginner 3D Modeling Tutorial.
+        url: https://www.youtube.com/watch?v=elUJCEC06r8
+        description: Blender Beginner 3D Modeling Tutorial..
+        entry_type: channel
+      - name: Blender Principled BSDF (Speed Tutorials) by Royal Skies LLC.
+        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiut8p1fyrNbzQRNkfKHtUy5e
+        description: Blender Principled BSDF (Speed Tutorials) by Royal Skies LLC..
+        entry_type: channel
+      - name: Blender Procedural Texturing (Speed Tutorials) by Royal Skies LLC.
+        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuv18KFBVniU2Yi-eI0Jrwo1
+        description: Blender Procedural Texturing (Speed Tutorials) by Royal Skies LLC..
+        entry_type: channel
+      - name: Blender Animation (Speed Tutorials) by Royal Skies LLC.
+        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuu7XqpZ8_rXJG9x26JK7UCr
+        description: Blender Animation (Speed Tutorials) by Royal Skies LLC..
+        entry_type: channel
+      - name: Blender Rigging (Speed Tutorials) by Royal Skies LLC.
+        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuuc3QpFeHxGqNpVf5couDeI
+        description: Blender Rigging (Speed Tutorials) by Royal Skies LLC..
+        entry_type: channel
+      - name: Blender UV Mapping (Speed Tutorials) by Royal Skies LLC.
+        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuuwWbyUAWSllrhtZ9KfU3B_
+        description: Blender UV Mapping (Speed Tutorials) by Royal Skies LLC..
+        entry_type: channel
+      - name: Blender Beginner Texturing Painting Tutorial.
+        url: https://www.youtube.com/watch?v=vTYustK-XBk
+        description: Blender Beginner Texturing Painting Tutorial..
+        entry_type: channel
+      - name: Blender Facial motion capture tutorial.
+        url: https://www.youtube.com/watch?v=uNK8S19OSmA
+        description: Blender Facial motion capture tutorial..
+        entry_type: channel
+      - name: Blender Programming Tutorials by Olav3D.
+        url: https://www.youtube.com/playlist?list=PLunr0YiKm4r4OqzEfMrGSPYS1WuvaSRu5
+        description: Blender Programming Tutorials by Olav3D..
+        entry_type: channel
+      - name: Blender 2.8 Addon Development Tutorial for Beginners by jayanam.
+        url: https://www.youtube.com/watch?v=uahfuypQQ04
+        description: Blender 2.8 Addon Development Tutorial for Beginners by jayanam..
+        entry_type: channel
+      - name: IanHubert
+        url: https://www.youtube.com/user/mrdodobird/videos
+        description: _Lazy tutorials_, modeling, animating, vfx, cinematic.
+        entry_type: channel
+      - name: CGMatter
+        url: https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg/videos
+        description: short tutorials.
+        entry_type: channel
+      - name: Default Cube
+        url: https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ/videos
+        description: CGMatter's second channel used for longer tutorials and other kinds of videos.
+        entry_type: channel
+      - name: Royal Skies LLC
+        url: https://www.youtube.com/channel/UC2U5mRfclG1Rrr1ztNkpGKA/videos
+        description: _Speed tutorials_, texturing, mapping, nodes, animation.
+        entry_type: channel
+      - name: CG Cookie
+        url: https://www.youtube.com/user/blendercookie/videos
+        description: free tutorials from [CG Cookie](https://cgcookie.com/).
+        entry_type: channel
+      - name: Technical Art & Materials
+        url: https://www.youtube.com/@BenCloward/videos
+        description: Tutorials by Ben Cloward** (🆓 🥇)
+        entry_type: channel
+      - name: Intro to Interactive Animation in Rive
+        url: https://www.youtube.com/watch?v=yaP07L5J50E
+        description: UI Animation Tool (School of Motion)
+        entry_type: channel
+      - name: Create the Most AMAZING Animations with Rive
+        url: https://www.youtube.com/watch?v=9_Gz-fFfFek
+        description: Crash Course (DesignCourse)
+        entry_type: channel
+      - name: Integrating your RIVE Animations on the Web!
+        url: https://www.youtube.com/watch?v=WOOtILLrb0Q
+        description: DesignCourse
+        entry_type: channel
+      - name: Build iOS app with Rive Animations
+        url: https://www.youtube.com/watch?v=h4vyOz4Tztg
+        description: A full 3-hour course showcasing how to build a SwiftUI app with Rive animations.
+        entry_type: channel
+      - name: Unreal tutorial for Rive + Noesis
+        url: https://www.youtube.com/watch?v=WuMHGPOINSo
+        description: Tutorial on how to add Rive to your Unreal games using Noesis.
+        entry_type: channel
+      - name: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus
+        url: https://www.youtube.com/watch?v=U0gBRIY3TpE&t=210s
+        description: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus.
+        entry_type: channel
+      - name: Unity 3D Steam VR Video Tutorial Series
+        url: https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q
+        description: Unity 3D Steam VR Video Tutorial Series.
+        entry_type: channel
+      - name: DebugLog HTC Vive Unity 3D Steam VR Video Tutorial
+        url: https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g
+        description: DebugLog HTC Vive Unity 3D Steam VR Video Tutorial.
+        entry_type: channel
+      - name: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render
+        url: https://www.youtube.com/watch?v=uDwAIveGDU0
+        description: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render.
+        entry_type: channel
+      - name: 'Unity + Vive Tutorial: Beginners'
+        url: https://www.youtube.com/watch?v=q86rb1Eq-bA&list=PLmc6GPFDyfw_4kx-LhJyBOoCIukH5orQ9
+        description: 'Unity + Vive Tutorial: Beginners.'
+        entry_type: channel
+      - name: How to make games for the HTC Vive with Unity and C#
+        url: https://www.youtube.com/playlist?list=PLEjAIFnF0Q_asf8ZIjTM4ijT89gB6M5r1
+        description: '[GitHub repo](https://github.com/LochieWestfallGames/VR-Tutorial)'
+        entry_type: channel
+      - name: Vive Tutorial - Intro / UI | Unity VR (VRTK)
+        url: https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ
+        description: '[GitHub Repo](https://github.com/SyntonicApps/unity-vrtk-examples)'
+        entry_type: channel
+      - name: RMA Houdini Tutorials
+        url: https://www.youtube.com/c/RMAFIRE
+        description: RMA Houdini Tutorials.
+        entry_type: channel
+      - name: EHoudini Academy
+        url: https://www.youtube.com/c/EHoudiniAcademy
+        description: EHoudini Academy.
+        entry_type: channel
+      - name: CGI Artist Academy
+        url: https://www.youtube.com/@CGArtistAcademy
+        description: CGI Artist Academy.
+        entry_type: channel
+      - name: Add VFX to Cinematic RAW and LOG Footage
+        url: https://youtu.be/LssHxDCM7H4
+        description: Add VFX to Cinematic RAW and LOG Footage.
+        entry_type: channel
+      - name: 📺🏪 AAA Ghibli Forest in Blender & Unreal ~ ShinGidora
+        url: https://youtu.be/2Lu2VBG1JE0
+        description: '[demo,Blender,asset] - good tips, though is promotion for his TREEBOX commercial script.'
+        entry_type: channel
+      - name: 📺 BEST 3D TREE in anime STYLE ~ GraphicLine Games
+        url: https://youtu.be/kI8pSj-9Xxw
+        description: 📺 BEST 3D TREE in anime STYLE ~ GraphicLine Games.
+        entry_type: channel
+      - name: 📺 UNDERSTAND and RECREATE a Fortnite-like Landscape Material ~ Imphenzia
+        url: https://youtu.be/W6VZcyKU_Nk
+        description: '[asset,Blender,optimize,environment].'
+        entry_type: channel
+      - name: 📺 I Nailed the Anime Look ~ SILKROAD Project
+        url: https://youtu.be/nyRcPMOpxcI
+        description: '[optimize,Houdini ,character,asset] - outline & shadows part of UV, not filter.'
+        entry_type: channel
+      - name: 📺 many techniques available for Stylized Grass ~ Ghislain Girardot
+        url: https://youtu.be/pVKDfZMffpc
+        description: '[Blender,asset,environment].'
+        entry_type: channel
+      - name: 📺 Materials for Linear Content ~ Unreal Engine
+        url: https://youtu.be/C-27tmCzXsE
+        description: '[livestream,analysis] - various material creation techniques.'
+        entry_type: channel
+      - name: 📺 Environment Art Breakdown ~ Stylized Station
+        url: https://youtu.be/SonheTAwcUI
+        description: '[Blender,environment] - by Melissa Perl.'
+        entry_type: channel
+      - name: 📺 Witcher 4 Baked Water Simulation ~ Aziel Arts
+        url: https://youtu.be/akHCbIECFX8
+        description: '[animation,physics] - easy realistic looking river.'
+        entry_type: channel
+      - name: 📺 Material Ambient Occlusion ~ William Faucher
+        url: https://youtu.be/65cgc3jbNlg
+        description: '[msc-ue] - bake Ambient Occlusion maps onto models.'
+        entry_type: channel
+      - name: 📺 BOOST Foliage Performance ~ Joshua M Kerr
+        url: https://youtu.be/fjuLE3Artic
+        description: '[optimize,material] - world offset in material.'
+        entry_type: channel
+      - name: 📺 Animators React to KPop Demon Hunters - ft. THE DIRECTORS ~ Corridor Crew
+        url: https://youtu.be/e7L-ka-MsEE
+        description: '[animation,other].'
+        entry_type: channel
+      - name: 📺 How this UE5 film won an Oscar ~ Josh Toonen
+        url: https://youtu.be/eOQM1Tbyw0Y
+        description: '[animation,character,msc-ue].'
+        entry_type: channel
+      - name: 📺 Green Screen VFX ~ Dean Yurke
+        url: https://youtu.be/rzMRSDxg33Q
+        description: '[video,camera] - Pro movie VFX artist explains his process.'
+        entry_type: channel
+      - name: '📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte'
+        url: https://youtu.be/mNr5K2tIAg8
+        description: '[post-process,pre-process,environment] - custom look, LUTs, etc.'
+        entry_type: channel
+      - name: 📺 5 Features you Didn't know Unreal Already has ~ Game Dev Cave
+        url: https://youtu.be/M5bg1SBBRs0
+        description: '[tool,GAS] - 3d text, paper2D, gameplay ability system, scriptable tools, actor pallette .'
+        entry_type: channel
+      - name: 📺 25 Tips and Tricks  ~ Unreal University
+        url: https://youtu.be/ocKFXjut6ls
+        description: '[optimize] - mostly shortcuts.'
+        entry_type: channel
+      - name: 📺 UE5.7 AI Assistant ~ Tony Munoz
+        url: https://youtu.be/FH1IjxOFQnQ
+        description: '[tool] - Unreal Engine 5.7 Preview.'
+        entry_type: channel
+      - name: 📺 Hunyuan 2.1 Install Guide ~ Stefan 3D AI Lab
+        url: https://youtu.be/yDWj3UJY0RA
+        description: '[asset] ([text guide](https://digital-tails.notion.site/Hunyuan3D-2-1-Installation-Guide-2372bcde81ff80438d0efc90fc59ddb7)) - ComfyUI.'
+        entry_type: channel
+      - name: 📺 CHEAPEST Motion Capture Setup for Metahumans ~ Charlie Driscoll
+        url: https://youtu.be/M799eoMK4tw
+        description: '[animation,rig] - for filmmaking.'
+        entry_type: channel
+      - name: 📺 Materials in 6 Levels of Complexity ~ pwnisher
+        url: https://youtu.be/iZgbzwBQTPY
+        description: '[tool] ([Master Material FAB](https://www.fab.com/listings/95f437fe-024e-455e-ad8e-a14bb1128131)) - fast.'
+        entry_type: channel
+      - name: 📺 This is the Kuwahara Filter ~ Acerola
+        url: https://youtu.be/LDhN-JK3U9g
+        description: '[demo] - not Unreal specific, more about maths.'
+        entry_type: channel
   - slug: patreon-creators
     title: Patreon Creators
     description: Creators on Patreon offering tutorials, files, and tips.
@@ -851,6 +1635,262 @@ subsections:
         readme_tags:
           - Pro Community
           - Forum
+      - name: Houdini Utility Thread
+        url: https://www.sidefx.com/forum/topic/80497/?page=1#post-348642
+        description: Houdini Utility Thread.
+        entry_type: community
+      - name: Robotic Arm Kinefx Demo
+        url: https://www.sidefx.com/forum/topic/77562/?page=1#post-369057
+        description: Robotic Arm Kinefx Demo.
+        entry_type: community
+      - name: Armedunity
+        url: https://armedunity.com/
+        description: Shooter focused forum.
+        entry_type: community
+      - name: 👨🏽‍🚀Blender.Community
+        url: https://blender.community/c/
+        description: 👨🏽‍🚀Blender.Community.
+        entry_type: community
+      - name: ☕Blender.Today
+        url: https://blender.community/c/today/
+        description: Community-driven Blender news, chat, and live streams! Stream [playlist](https://www.youtube.com/playlist?list=PLa1F2ddGya_87HJ72v_IgKUTNLIXSMfvB).
+        entry_type: community
+      - name: 🖱️Right-Click Select
+        url: https://blender.community/c/rightclickselect/
+        description: Got an idea for a feature that you think Blender absolutely must have?
+        entry_type: community
+      - name: Civitai
+        url: https://civitai.com/
+        description: Community driven AI model sharing tool.
+        entry_type: community
+      - name: Learning
+        url: https://dev.epicgames.com/community/unreal-engine/learning?source=epic_games
+        description: ', [Documentation](https://dev.epicgames.com/documentation/unreal-engine), [Livesteams](https://www.youtube.com/@UnrealEngine)** (🆓 🥇)'
+        entry_type: community
+      - name: DEV Community
+        url: https://dev.to/
+        description: It covers setting up the environment, understanding generative models, and building a simple Generative Adversarial Network (GAN) with a focus on image datasets.
+        entry_type: community
+      - name: Slide Puzzle (Community Choice)
+        url: https://devpost.com/software/slidy-fuzzle
+        description: Slide Puzzle (Community Choice).
+        entry_type: community
+      - name: Way For Ball (Community Choice)
+        url: https://devpost.com/software/way-for-ball
+        description: Way For Ball (Community Choice).
+        entry_type: community
+      - name: Hash (Community Choice)
+        url: https://devpost.com/software/flutter-puzzle-hack-3sdug9
+        description: Hash (Community Choice).
+        entry_type: community
+      - name: ccMixter.org
+        url: http://dig.ccmixter.org/
+        description: is a community remix site operated by ArtisTech Media, created by Creative Commons. [![cc]](http://dig.ccmixter.org/licenses)
+        entry_type: community
+      - name: Unreal Source Discord
+        url: https://discord.com/invite/unrealsource
+        description: Community** (🆓 🥇)
+        entry_type: community
+      - name: GameDev.tv Discord
+        url: https://discord.com/invite/eUSFZdJ
+        description: A community focused on the GameDev.tv courses.
+        entry_type: community
+      - name: 🗨️discord/blender
+        url: https://discord.gg/blender
+        description: community-managed Discord server.
+        entry_type: community
+      - name: Nexrender Discord
+        url: https://discord.gg/S2JtRcB
+        description: Community of people specializing in scripting and video generation automation.
+        entry_type: community
+      - name: Hugging Face Forums
+        url: https://discuss.huggingface.co/
+        description: '** – Community for open LLMs and model development.'
+        entry_type: community
+      - name: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template
+        url: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template
+        description: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template.
+        entry_type: community
+      - name: Unity Community
+        url: https://github.com/UnityCommunity
+        description: and to begin Awesome Unity (this repository) will be merged into Unity Community organization from now. This repository will be used to merge new contents into the [Unity Community fork](https://gith
+        entry_type: reference
+      - name: Mirror
+        url: https://github.com/vis2k/Mirror
+        description: A community replacement for Unity's abandoned UNET Networking System.
+        entry_type: reference
+      - name: UnitySingleton
+        url: https://github.com/UnityCommunity/UnitySingleton
+        description: The best way to implement singleton pattern in Unity.
+        entry_type: reference
+      - name: HuggingFace AI Community
+        url: https://huggingface.co/
+        description: Host and collaborate on unlimited models, datasets and applications. |
+        entry_type: community
+      - name: Make Human
+        url: http://www.makehumancommunity.org/
+        description: Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender)) [![][repo]](https://github.com/makehumancommunity/makehuman)
+        entry_type: community
+      - name: Introduction to pixel art
+        url: http://pixeljoint.com/forum/forum_posts.asp?TID=11299
+        description: Introduction to pixel art.
+        entry_type: community
+      - name: Google Community for “Cardboard and VR Developers”
+        url: https://plus.google.com/communities/111524380182206513071
+        description: Google Community for “Cardboard and VR Developers”.
+        entry_type: community
+      - name: OpenTopography/datasets
+        url: https://portal.opentopography.org/datasets
+        description: Facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources. _Registration required_.
+        entry_type: community
+      - name: Reddit's Unity Best Practices
+        url: https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/
+        description: Reddit's thread with best practices collected by Unity developers.
+        entry_type: community
+      - name: '/r/blender: contest'
+        url: https://www.reddit.com/r/blender/
+        description: ', [blenderartists.org/contest](https://blenderartists.org/c/contests).'
+        entry_type: community
+      - name: r/GenerativeAI
+        url: https://www.reddit.com/r/GenerativeAI/
+        description: '** – Reddit community on generative models and applications.'
+        entry_type: community
+      - name: 🌐 Visual Production ~ reddit
+        url: https://www.reddit.com/r/virtualproduction/
+        description: '[community] - production for movies & live events.'
+        entry_type: community
+      - name: 🌐 UnrealEngine5 ~ reddit
+        url: https://www.reddit.com/r/UnrealEngine5/
+        description: UE5 technical posts, rarely showcase.
+        entry_type: community
+      - name: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
+        url: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
+        description: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/.
+        entry_type: community
+      - name: Sculptron
+        url: https://render.otoy.com/forum/viewtopic.php?f=7&t=73665
+        description: GPU-based tool for sculpting animation caches and for converting mesh sequences to volumes. The software is currently available free during early development.
+        entry_type: community
+      - name: Substance Share
+        url: https://share.substance3d.com/
+        description: The free exchange platform for the Substance community.
+        entry_type: community
+      - name: MPFB
+        url: http://static.makehumancommunity.org/mpfb.html
+        description: MPFB2 is an open source human generator for Blender. It's complete rewrite of MakeHuman as a Blender addon. [![][repo]](https://github.com/makehumancommunity/mpfb2)
+        entry_type: community
+      - name: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559
+        url: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559
+        description: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559.
+        entry_type: community
+      - name: Unreal Source
+        url: https://unrealsource.com/
+        description: The largest Discord community focused on Unreal Engine.
+        entry_type: community
+      - name: Community Wiki
+        url: https://wiki.unrealengine.com
+        description: Community Wiki.
+        entry_type: community
+      - name: Women in AI Ethics
+        url: https://womeninaiethics.org/about-us/
+        description: Community of women who are leaders in the AI ethics industry.
+        entry_type: community
+      - name: 📺 Simple Stylization Techniques | GDC 2024 ~  Chris Murphy
+        url: https://youtu.be/exMzwH7EJUY
+        description: '[blueprint] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized ''fog of war''.'
+        entry_type: community
+      - name: 📺 "Step by step" Procedural Animation ~ Lincoln Margison
+        url: https://youtu.be/E23zeX0Mttc
+        description: '[animation,character,asset] ([reddit](https://www.reddit.com/r/UnrealEngine5/comments/1qggyzu/a_few_days_ago_i_posted_a_clip_of_this_procedural/)) - spider.'
+        entry_type: community
+      - name: PuzzleHack
+        url: https://www.youtube.com/watch?v=9F6dxDDh9yk&t=452s
+        description: Demonstrating Rive on the Flutter Community live stream for the 2022 Flutter Puzzle Hack.
+        entry_type: channel
+      - name: Motion Designers Community
+        url: https://www.youtube.com/c/MotionDesignersCommunityTV
+        description: Motion Designers Community.
+        entry_type: channel
+      - name: Welder
+        url: https://blenderartists.org/t/welder/672478
+        description: welds generator for Blender.
+        entry_type: community
+      - name: Array Tools
+        url: https://blenderartists.org/t/array-tools-all-in-one-for-translation-scale-and-rotation-array/1170295?u=peetie
+        description: is an addon for Blender to create translation, scale, rotation array with offset or global parameters in any direction and mix them. [![][repo]](https://github.com/Elreenys/array_tools)
+        entry_type: community
+      - name: Mesh Heal
+        url: https://blenderartists.org/t/mesh-heal/1117095
+        description: is an add-on for Blender, it includes additional Blender operators for healing surface meshes.
+        entry_type: community
+      - name: Drop It
+        url: https://blenderartists.org/t/drop-it-free-addon/1244259/
+        description: Designed to drop fast and simply Objects to Ground or Surface. [![][repo]](https://github.com/maxivz/interactivetoolsblender)
+        entry_type: community
+      - name: JARCH-Vis
+        url: https://blenderartists.org/t/addon-jarch-vis/642607
+        description: is add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
+        entry_type: community
+      - name: Wiggle Bones
+        url: https://blenderartists.org/t/wiggle-2/1454788
+        description: Jiggle bone implementation for Blender with realistic physics. [![][repo]](https://github.com/shteeve3d/blender-wiggle-2) ![][gpl]
+        entry_type: community
+      - name: TexTools
+        url: https://blenderartists.org/t/textools-for-blender/700811
+        description: TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/SavMartin/TexTools-Blender)
+        entry_type: community
+      - name: EZ Baker
+        url: https://blenderartists.org/t/ez-baker/1245869
+        description: An easier alternative to blender's default bake system. [![][repo]](https://gitlab.com/AquaticNightmare/ez_baker)
+        entry_type: community
+      - name: V-HACD
+        url: https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822
+        description: Library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
+        entry_type: community
+      - name: Multi-user
+        url: https://blenderartists.org/t/multi-user/1187118
+        description: Enable real-time collaborative workflows inside blender. [![][repo]](https://gitlab.com/slumber/multi-user)
+        entry_type: community
+      - name: Theme Switcher
+        url: https://blenderartists.org/t/theme-switcher/1211787
+        description: Addon to quickly change active theme not leaving 3D View.
+        entry_type: community
+      - name: The Code Editor
+        url: https://blenderartists.org/t/how-would-you-show-some-love-for-the-blender-text-editor/1163857
+        description: This thread is for discussing how the Text Editor can be improved and sharing add-ons which will modernize, expand and ease coding in Blender.
+        entry_type: community
+      - name: blenderartists/python-support
+        url: https://blenderartists.org/c/coding/python-support/19
+        description: ', [stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)'
+        entry_type: community
+      - name: Lodify
+        url: https://devtalk.blender.org/t/level-of-detail-addon/12840
+        description: LOD(Level of Detail) and Proxy system for blender. [![][repo]](https://github.com/DB3D/Lodify)
+        entry_type: community
+      - name: devtalk/python
+        url: https://devtalk.blender.org/c/python/6
+        description: Questions about using and developing the [Blender Python API](https://developer.blender.org/project/view/24/), both for Blender itself and add-ons.
+        entry_type: community
+      - name: 📖 User Manual
+        url: https://docs.blender.org/manual/en/latest/
+        description: '[🔗 Python API](https://docs.blender.org/api/current/) | [⚙️ Developer Wiki](https://wiki.blender.org/wiki/Main_Page)'
+        entry_type: community
+      - name: Animation & Rigging Manual.
+        url: https://docs.blender.org/manual/en/latest/physics/index.html
+        description: Animation & Rigging Manual..
+        entry_type: community
+      - name: Compositing Nodes List.
+        url: https://docs.blender.org/manual/en/latest/compositing/index.html#node-types
+        description: Compositing Nodes List..
+        entry_type: community
+      - name: Motion Tracking Manual.
+        url: https://docs.blender.org/manual/en/latest/movie_clip/tracking/introduction.html
+        description: Motion Tracking Manual..
+        entry_type: community
+      - name: Blender Python API Documentation
+        url: https://docs.blender.org/api/current/
+        description: Official Blender Python API Documentation.
+        entry_type: community
   - slug: inspiration-showcase
     title: 3D Inspiration & Showcase
     description: Showcases, portfolios, and visual reference hubs.
@@ -995,6 +2035,22 @@ subsections:
         readme_tags:
           - Character Design
           - Shape Language
+      - name: GPT-3 Demo
+        url: https://gpt3demo.com/
+        description: Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
+        entry_type: inspiration
+      - name: Sean Browning - Pixel Art Animation Reel 2018
+        url: https://vimeo.com/250991452
+        description: A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
+        entry_type: inspiration
+      - name: PQHoudini
+        url: https://vimeo.com/channels/pqhoudini
+        description: PQHoudini.
+        entry_type: inspiration
+      - name: Amovfx
+        url: https://vimeo.com/amovfx
+        description: Amovfx.
+        entry_type: inspiration
   - slug: architecture-viz
     title: Architecture & Visualization
     description: Arch-viz inspiration and BIM.

@@ -62,6 +62,106 @@ subsections:
         url: http://www.widgetworx.com/spritelib/
         description: a collection of static and animated graphic objects (also commonly known as sprites).
         entry_type: channel
+      - name: CharMorph
+        url: https://blenderartists.org/t/charmorph-character-creation-tool-mb-lab-based/1252543
+        description: An open source character creation tool for Blender. It's a rewrite of [MB-Lab](https://github.com/animate1978/MB-Lab), which is now unmaintained. [![][repo]](https://github.com/Upliner/CharMorph)
+        entry_type: channel
+      - name: Build an animated app
+        url: https://designcode.io/swiftui-rive
+        description: Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions. [Flutter](https://github.com/Aashu-Dubey/flutter
+        entry_type: tutorial
+      - name: Flutter Web and Rive Animation Tutorial
+        url: https://dev.to/suhavi/flutter-web-and-rive-animation-tutorial-5f5k
+        description: Beginner to intermediate tutorial for setting up a Flutter web app with Rive animations.
+        entry_type: tutorial
+      - name: Emojiz
+        url: https://emojiz.design
+        description: 77+ animated 3D emoji illustrations with Blender source files
+        entry_type: channel
+      - name: Plant Blog
+        url: https://plant-blog-rive.vercel.app/
+        description: NextJS blog template with Rive to show animated blog thumbnails and syncing scroll to Rive animations deployed on Vercel. [Code](https://github.com/zplata/plant-blog-rive)
+        entry_type: reference
+      - name: Story Set
+        url: https://storyset.com/
+        description: Edit and animate customizable illustrations to enhance your projects totally free.
+        entry_type: channel
+      - name: 📺 Make Films 10x Faster in UE ~ Josh Toonen
+        url: https://youtu.be/RBtlrRP2fvs
+        description: '[video,animation,post-process,blueprint] - cinematic environments, animated decals.'
+        entry_type: channel
+      - name: Blender Animate Running In 2 Minutes!
+        url: https://www.youtube.com/watch?v=qxoo_bcUZos
+        description: Blender Animate Running In 2 Minutes!.
+        entry_type: channel
+      - name: SwiftUI Animated Login Screen using Rive
+        url: https://www.youtube.com/watch?v=xKNHzWCl6Bc
+        description: Teddy Bear Animation, create an animated and interactive Login screen.
+        entry_type: channel
+      - name: FlutterFlow Rive Animation Tutorial
+        url: https://www.youtube.com/watch?v=5kzut4NOMA8
+        description: Add Rive animations to your FlutterFlow app.
+        entry_type: channel
+      - name: Create animated UI in Unity using Rive and Noesis
+        url: https://www.youtube.com/watch?v=F6Q4pfnBhbI
+        description: Tutorial on how to add Rive to your Unity games using Noesis.
+        entry_type: channel
+      - name: Adding Animation to Buttons in Flutter using Rive
+        url: https://www.youtube.com/watch?v=6BtdCOZALeA
+        description: Simple Animated Menu Toggle Button in Rive
+        entry_type: channel
+      - name: Swipe to delete animation
+        url: https://www.youtube.com/watch?v=_GU342Yb4vQ
+        description: A video tutorial on how to attach an animation to a drag gesture to delete todo items ([code](https://github.com/HayesGordon/swiftui-animated-swipe-to-delete/tree/main)).
+        entry_type: channel
+      - name: Retro Slide Puzzle (Winner - Animation/Design)
+        url: https://devpost.com/software/retro-slide-puzzle
+        description: Retro Slide Puzzle (Winner - Animation/Design).
+        entry_type: reference
+      - name: Dash Slide Puzzle (Runner Up - Animation/Design)
+        url: https://devpost.com/software/dash-slide-puzzle
+        description: Dash Slide Puzzle (Runner Up - Animation/Design).
+        entry_type: reference
+      - name: Island Slide Puzzle (Third Place - Animation/Design)
+        url: https://devpost.com/software/beautiful-puzzle
+        description: Island Slide Puzzle (Third Place - Animation/Design).
+        entry_type: reference
+      - name: Sliding Puzzle 3D (Honorable Mention)
+        url: https://devpost.com/software/sliding-puzzle-3d
+        description: Sliding Puzzle 3D (Honorable Mention).
+        entry_type: reference
+      - name: Rive Flutter Animation
+        url: https://flutterservice.com/rive-flutter-animation/
+        description: Best approach for animation in 2023.
+        entry_type: reference
+      - name: Wordpress Addon
+        url: https://greenshiftwp.com/rive-app-wordpress-addon/
+        description: Greenshift animation addon allows you to use and configure Rive files directly in the WordPress editor.
+        entry_type: reference
+      - name: Optimization techniques
+        url: https://pixelpoint.io/blog/rive-react-optimizations/
+        description: Techniques to optimize Rive animations in React apps.
+        entry_type: reference
+      - name: 'The Principles of Animation: Interactive Edition'
+        url: https://plumcatstudio.com/blog/principles-of-animation
+        description: '"We''ve had a ton of fun experimenting with an animation of a cat in a washing machine."'
+        entry_type: reference
+      - name: 'The Power of Rive: A New Standard for Interactive Animations'
+        url: https://plumcatstudio.com/blog/the-power-of-rive-a-new-standard-for-interactive-animations
+        description: '"We''ve been playing around with this awesome interactive animation tool called Rive, and it''s blown us away!".'
+        entry_type: reference
+      - name: Flutter SVG Animations with Rive (Reso Coder
+        url: https://resocoder.com/2021/08/27/flutter-svg-animations-with-rive/
+        description: ) - Sprinkling some beautiful animations across your app.
+        entry_type: reference
+      - name: Riveflow
+        url: https://riveflow.webflow.io/
+        description: Learn how to create next-level interactive animations for Webflow websites with Rive.
+        entry_type: tutorial
+      - name: Create Rive-ting Animations
+        url: https://www.viget.com/articles/create-rive-animations/
+        description: '"Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."'
+        entry_type: reference
   - slug: animation-courses
     title: Animation — Courses
     description: Structured animation courses.
