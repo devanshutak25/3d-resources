@@ -4173,7 +4173,7 @@ subsections:
         url_status: ok
       - name: OGMO Editor
         url: http://www.ogmoeditor.com/
-        description: generic level editor. ![open soucce](/img/opensource.png)
+        description: generic level editor (open source).
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -5154,15 +5154,15 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: <img src="https://github.com/epicgames.png" title="Epic Games" height="50">
+      - name: Epic Games
         url: https://github.com/epicgames
-        description: <img src="https://github.com/epicgames.png" title="Epic Games" height="50">.
+        description: Epic Games on GitHub — official Unreal Engine and related repos.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: <img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">
+      - name: Unity Technologies
         url: https://github.com/unity-technologies
-        description: <img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">.
+        description: Unity Technologies on GitHub — official Unity repos and samples.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok

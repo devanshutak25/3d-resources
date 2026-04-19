@@ -65,7 +65,7 @@ subsections:
         url_status: ok
       - name: Biodiversity Heritage Library
         url: https://www.flickr.com/photos/biodivlibrary/
-        description: 300,000+ Botanical and Animal Illustrations available for free download. ![zero]
+        description: 300,000+ Botanical and Animal Illustrations available for free download. (CC0)
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok

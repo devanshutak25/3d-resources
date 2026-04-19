@@ -395,7 +395,7 @@ subsections:
         url_status: ok
       - name: Chocofur/Free
         url: https://store.chocofur.com/search/free
-        description: Premium quality 3D models & scenes. [(blender addon)](https://store.chocofur.com/model-manager-blender-2-80-course/blender_model/) [![][zero]](https://chocofur.com/page/license-cc0)
+        description: Premium quality 3D models & scenes. [(blender addon)](https://store.chocofur.com/model-manager-blender-2-80-course/blender_model/) [CC0](https://chocofur.com/page/license-cc0)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1599,7 +1599,7 @@ subsections:
         url_status: ok
       - name: Solar Textures
         url: https://www.solarsystemscope.com/textures/
-        description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. ![by]
+        description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1611,7 +1611,7 @@ subsections:
         url_status: ok
       - name: Texture.Ninja
         url: https://texture.ninja/
-        description: Public domain photographic textures, reference images, cutouts. ![][zero]
+        description: Public domain photographic textures, reference images, cutouts. (CC0)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok

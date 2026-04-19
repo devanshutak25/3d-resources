@@ -155,7 +155,7 @@ subsections:
         url_status: ok
       - name: Poly Haven/Models
         url: https://polyhaven.com/models
-        description: is a resource of free high quality 3D assets for everyone. All models here are CC0. [![][zero]](https://polyhaven.com/license)
+        description: is a resource of free high quality 3D assets for everyone. All models here are CC0. [(license)](https://polyhaven.com/license)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -215,7 +215,7 @@ subsections:
         url_status: ok
       - name: Artec 3D
         url: https://www.artec3d.com/3d-models
-        description: Download high resolution 3D scans for free. ![][by]
+        description: Download high resolution 3D scans for free. (CC-BY)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1067,7 +1067,7 @@ subsections:
         url_status: ok
       - name: Geometry Script
         url: https://github.com/carson-katri/geometry-script
-        description: is a scripting API for Blender's Geometry Nodes. It makes complicated node trees more managable and easy to share.
+        description: is a scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1100,6 +1100,22 @@ subsections:
         description: Curated list of resources about the usage of Blender in Science, Academia, and Industry.
         entry_type: reference
         url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: HiPhyEngine
+        url: https://hiphyengine.github.io/
+        description: Fully-coupled high-fidelity physics engine addon — unified solver for rigid body, cloth, hair, soft body, and MPM snow/sand with intersection-free continuous collision detection.
+        license: Paid
+        entry_type: plugin
+        best_for: Accurate cloth/hair/soft-body sim in Blender
+        tags:
+          tech:
+            - blender-addon
+          workflow:
+            - simulation
+        readme_tags:
+          - Physics Sim
+          - Cloth/Hair/Soft Body
+        url_last_verified: '2026-04-20'
         url_status: ok
   - slug: blender-tutorials
     title: Blender — Tutorials

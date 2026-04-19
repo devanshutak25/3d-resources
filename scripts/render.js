@@ -21,7 +21,7 @@ function header() {
   return [
     '# [3D Resources: Software, Assets, Tutorials & Tools for 3D Artists](https://3d.devanshutak.xyz)',
     '',
-    '> A curated collection of **free and paid 3D software, assets, textures, HDRIs, tutorials, plugins, and learning resources** for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
+    '> A curated collection of **free and paid 3D resources** — software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
     '',
     '*Curated by [Devanshu Tak](https://devanshutak.xyz)* compiled with the help of Claude Code.',
     '',

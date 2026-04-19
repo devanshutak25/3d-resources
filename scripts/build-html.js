@@ -9,7 +9,7 @@ const path = require('path');
 
 const SITE_URL = 'https://3d.devanshutak.xyz';
 const TITLE = '3D Resources: Software, Assets, Tutorials & Tools for 3D Artists';
-const DESCRIPTION = 'Curated hub of 1,300+ free and paid 3D resources — PBR textures, HDRIs, models, Blender / Houdini / Cinema 4D / Maya / ZBrush tutorials, render engines, USD pipeline tools, game development, VFX, motion graphics, AI/ML, and more. Interactive filtering by license, platform, and workflow.';
+const DESCRIPTION = 'Curated hub of 1,300+ free and paid 3D resources — textures, HDRIs, models, tutorials, render engines, USD, VFX, and AI/ML. Filter by license and workflow.';
 
 function slugify(text) {
   return text
@@ -166,6 +166,7 @@ ${JSON.stringify(jsonLd, null, 2)}
   </script>
 
   <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
   <link rel="stylesheet" href="/assets/css/style.css">
   <script defer src="/assets/js/filter.js"></script>
 </head>
