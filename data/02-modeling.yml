@@ -1105,27 +1105,6 @@ subsections:
     title: Blender — Tutorials
     description: Blender learning resources, beginner to advanced.
     entries:
-      - name: Blender Tutorial for Complete Beginners
-        url: https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z
-        description: Blender Guru full beginner series.
-        entry_type: tutorial
-        tags:
-          skill:
-            - beginner
-        readme_tags:
-          - Blender Guru
-          - Beginner
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Fundamentals of Drivers
-        url: https://www.youtube.com/watch?v=Pri4vLx42nA
-        description: Blender drivers fundamentals.
-        entry_type: tutorial
-        readme_tags:
-          - Drivers
-          - Fundamentals
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Realistic Hair in Blender
         url: https://www.wingfox.com/c/8319
         description: Hair creation course.
@@ -1145,18 +1124,6 @@ subsections:
         readme_tags:
           - Checklist
           - Workflow
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Texture Painting- Quick Start.
-        url: https://www.youtube.com/watch?v=u9nE2Xg6Jgk
-        description: Blender Texture Painting- Quick Start..
-        entry_type: tutorial
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Texture Painting (Speed Tutorials) by Royal Skies LLC.
-        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuvyEDCMOIjWMsl8ASiZgeCg
-        description: Blender Texture Painting (Speed Tutorials) by Royal Skies LLC..
-        entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: houdini-getting-started
@@ -1188,30 +1155,6 @@ subsections:
           - Learning Version
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Houdini Isn't Scary
-        url: https://www.youtube.com/watch?v=Tsv8UGqDibc
-        description: Beginner series by NineBetween.
-        entry_type: tutorial
-        tags:
-          skill:
-            - beginner
-        readme_tags:
-          - Beginner Series
-          - NineBetween
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Houdini is Hip
-        url: https://youtu.be/9AHoNjjh-wQ
-        description: Updated beginner series by NineBetween.
-        entry_type: tutorial
-        tags:
-          skill:
-            - beginner
-        readme_tags:
-          - Beginner Series
-          - NineBetween
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Houdini Donut in Any Shape
         url: https://vimeo.com/492505292
         description: Procedural donut by Lewis Orton.
@@ -1231,62 +1174,6 @@ subsections:
         readme_tags:
           - Quick Intro
           - Entagma
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Easy Voxel Effect Tutorial
-        url: https://www.youtube.com/watch?v=EPfxBdxu1m0
-        description: Beginner voxel tutorial.
-        entry_type: tutorial
-        tags:
-          skill:
-            - beginner
-        readme_tags:
-          - Voxel
-          - Beginner
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Voxels, Volumes, and VDBs
-        url: https://www.youtube.com/watch?v=UKED3rpvYEw
-        description: Concept explanation of voxels, volumes, and VDBs.
-        entry_type: tutorial
-        readme_tags:
-          - Concepts
-          - VDB
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Rohan Dalvi Intro Videos
-        url: https://www.youtube.com/watch?v=omQq03X5YZE
-        description: Beginner series.
-        entry_type: tutorial
-        tags:
-          skill:
-            - beginner
-        readme_tags:
-          - Beginner
-          - Rohan Dalvi
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: SideFX Character Course (FREE)
-        url: https://www.youtube.com/watch?v=2gBAPe4OsXA&list=PLXNFA1EysfYmpOEGcK1x_r6g_h2dOwAC4
-        description: Comprehensive free character course from SideFX.
-        license: Free
-        entry_type: tutorial
-        tags:
-          workflow:
-            - modeling
-            - rigging
-        readme_tags:
-          - Character Course
-          - Free
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: How to Learn Houdini
-        url: https://www.youtube.com/watch?v=Y22rYfJE64o
-        description: Matt Estela talk on learning Houdini.
-        entry_type: tutorial
-        readme_tags:
-          - Matt Estela
-          - Learning Advice
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: houdini-essential-learning
@@ -1364,18 +1251,6 @@ subsections:
           - VEX
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: VEX Isn't Scary
-        url: https://www.youtube.com/watch?v=OeaqMWzkyiw
-        description: NineBetween VEX series.
-        entry_type: tutorial
-        tags:
-          skill:
-            - beginner
-        readme_tags:
-          - VEX Intro
-          - NineBetween
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: VEX Wrangle Cheat Sheet
         url: https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html
         description: Quick VEX reference by Mr Kunz.
@@ -1434,41 +1309,6 @@ subsections:
     title: Houdini — FX & Simulations
     description: Vellum, FLIP, Pyro, and other simulation workflows.
     entries:
-      - name: Intro to Vellum
-        url: https://www.youtube.com/watch?v=qAraO2E-v84
-        description: Softbodies, cloth, character FX with Vellum.
-        entry_type: tutorial
-        tags:
-          workflow:
-            - simulation
-            - fx
-        readme_tags:
-          - Vellum
-          - Intro
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: WhatIFound (Jason Harmon)
-        url: https://www.youtube.com/whatifound
-        description: Liquid and fluid tutorials.
-        entry_type: channel
-        tags:
-          workflow:
-            - simulation
-            - fx
-        readme_tags:
-          - Fluids
-          - Jason Harmon
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Vellum Rigid Bodies & Fluid
-        url: https://www.youtube.com/watch?v=5s8I2fs8kMs
-        description: John Lynch H19.5 Vellum tutorial.
-        entry_type: tutorial
-        readme_tags:
-          - Vellum
-          - H19.5
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Custom Smoke Solver
         url: https://vimeo.com/278227586
         description: Custom smoke solver walkthrough.
@@ -1491,39 +1331,6 @@ subsections:
     title: Houdini — Rigging & Animation (KineFX)
     description: KineFX rigging, animation, and crowds.
     entries:
-      - name: KineFX for Games
-        url: https://www.youtube.com/watch?v=mcDm_irEKb0
-        description: Great KineFX overview by Luiz Kruel.
-        entry_type: tutorial
-        tags:
-          output:
-            - games
-        readme_tags:
-          - KineFX
-          - Games Focus
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Procedural Rigging & Animation Tricks
-        url: https://www.youtube.com/watch?v=cxs7BTTHCH8
-        description: KineFX workflows.
-        entry_type: tutorial
-        tags:
-          tech:
-            - procedural
-        readme_tags:
-          - Procedural
-          - Tricks
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Crowds and KineFX
-        url: https://www.youtube.com/watch?v=1cLPYWj4Lqk
-        description: IK-chains on the fly for crowds.
-        entry_type: tutorial
-        readme_tags:
-          - Crowds
-          - IK
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Secondary Motion in H19
         url: https://vimeo.com/649244909
         description: Paul Esteves — secondary motion workflows.
@@ -1531,24 +1338,6 @@ subsections:
         readme_tags:
           - Secondary Motion
           - H19
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Animation Cleanup Tools
-        url: https://www.youtube.com/watch?v=cbhMQLUX9Pg
-        description: Advanced KineFX animation cleanup.
-        entry_type: tutorial
-        readme_tags:
-          - Advanced
-          - Cleanup
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: KineFX Tips and Tricks (H19.5)
-        url: https://youtu.be/XRV-Bg0RlD0
-        description: Mihnea at SideFX — KineFX tips.
-        entry_type: tutorial
-        readme_tags:
-          - Tips
-          - Official
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Space Girl Rigging
@@ -1563,29 +1352,11 @@ subsections:
   - slug: houdini-grooming
     title: Houdini — Grooming
     description: Hair and fur grooming workflows.
-    entries:
-      - name: Speed Grooming in H19
-        url: https://www.youtube.com/watch?v=qyDtZbgwlCM
-        description: Hair and fur starting point.
-        entry_type: tutorial
-        readme_tags:
-          - Hair/Fur
-          - H19
-        url_last_verified: '2026-04-19'
-        url_status: ok
+    entries: []
   - slug: houdini-more-tutorials
     title: Houdini — Miscellaneous Tutorials
     description: Additional Houdini tutorials across topics.
     entries:
-      - name: 2D Cel Flames with Pyro
-        url: https://www.youtube.com/watch?v=jz244YLLqD0
-        description: Stylized 2D flame with pyro sim.
-        entry_type: tutorial
-        readme_tags:
-          - Stylized
-          - Pyro
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Writing Your Own Polywire
         url: https://vimeo.com/336017942
         description: Jake Rice on custom polywire.
@@ -1608,15 +1379,6 @@ subsections:
           - VEX Course
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Animated Recursive Subdivision
-        url: https://www.youtube.com/watch?v=GhquYJ9m1Oc
-        description: Recursive subdivision animation.
-        entry_type: tutorial
-        readme_tags:
-          - Recursion
-          - Subdivision
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Extracting Transform Matrices
         url: https://vimeo.com/284712920
         description: How to extract transform matrices.
@@ -1624,24 +1386,6 @@ subsections:
         readme_tags:
           - Matrices
           - Technique
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Melty Voronoi Effect
-        url: https://www.youtube.com/watch?v=4YNl18E92bk
-        description: Voronoi-based melt effect.
-        entry_type: tutorial
-        readme_tags:
-          - Voronoi
-          - Effect
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Voxel/Lego Pyro Explosion
-        url: https://www.youtube.com/watch?v=0zc0pdXbzHo
-        description: Stylized voxel explosion.
-        entry_type: tutorial
-        readme_tags:
-          - Voxel
-          - Stylized
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: For Loops Tutorial
@@ -1936,16 +1680,6 @@ subsections:
         readme_tags:
           - Course Hub
           - Free + Paid
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Rebelway YouTube
-        url: https://www.youtube.com/@Rebelway
-        description: Free Rebelway tutorials on YouTube.
-        license: Free
-        entry_type: channel
-        readme_tags:
-          - Free YouTube
-          - FX Focus
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: houdini-communities

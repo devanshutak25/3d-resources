@@ -2863,10 +2863,22 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unity Integration Guide
-        url: https://www.youtube.com/watch?v=pM_HV2TU4rU&t=5298s
+      - name: Metaverse Standards Forum
+        url: https://www.youtube.com/@metaversestandardsforum
         description: Metaverse Standards Forum 5/6/2025
-        entry_type: reference
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: 3DBuzz
+        url: https://www.youtube.com/@3dbuzz
+        description: A video tutorial providing an in-depth explanation of Unity's new UI system.
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Lochie Westfall
+        url: https://www.youtube.com/@LochieWestfall
+        description: '[GitHub repo](https://github.com/LochieWestfallGames/VR-Tutorial)'
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: xr-ar-vr
@@ -2982,9 +2994,9 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Learning All IN ORDER ~ Game Dev Cave
-        url: https://youtu.be/jp_6azlr9Hg?list=PLoReGgpfex3zW6C35lY3Tkcv0ks_i0_wB
+        url: https://www.youtube.com/@thegamedevcave
         description: '[animation,character,GAS] - 160 vids: newbie, blueprints, quests, C++.'
-        entry_type: tool
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Oliver Kreylos's blog
@@ -3091,20 +3103,14 @@ subsections:
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unreal Engine Tutorial
-        url: https://www.youtube.com/watch?v=j3ke6MmcaeY
-        description: '& [Indoor Environment](https://www.youtube.com/watch?v=FW5U_IsV3Pw)'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Unreal Engine
-        url: https://www.youtube.com/watch?v=VMZftEVDuCE
+      - name: Alex Forsythe
+        url: https://www.youtube.com/@AlexForsythe
         description: '[Game Framework](https://www.youtube.com/watch?v=IaU2Hue-ApI), [Replication](https://www.youtube.com/watch?v=JOJP0CvpB8w)  Tutorials by Alex Forsythe** (🆓 🥇)'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: CodeLikeMe
-        url: https://www.youtube.com/c/CodeLikeMe
+        url: https://www.youtube.com/@CodeLikeMe
         description: A wide variety of Unreal Engine-focused tutorials.
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -3122,7 +3128,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Ryan Laley
-        url: https://www.youtube.com/c/RyanLaley
+        url: https://www.youtube.com/@RyanLaley
         description: Primarily Blueprint-based Unreal Engine tutorials.
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -4087,6 +4093,12 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+      - name: 📺📜 Control Rig ~ Ask A Dev
+        url: https://www.youtube.com/@livinfreestyle6727
+        description: '[character,animation] - 22 vids.'
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: game-dev-level-design
     title: Game Dev Tools — Level Design
     description: Level editors and blockout tools.
@@ -4277,12 +4289,6 @@ subsections:
         url: https://github.com/inkle/ink-unity-integration
         description: Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.
         entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 Long-Form Narrative Workflow ~ Unreal Engine
-        url: https://youtu.be/UVRlNFFBa1o
-        description: '[msc-ue] - Steamroller Animation 2D cartoon.'
-        entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: game-dev-audio-middleware
@@ -5203,15 +5209,6 @@ subsections:
           - Indie
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Mix and Jam
-        url: https://www.youtube.com/@MixandJam
-        description: Recreating game mechanics.
-        entry_type: channel
-        readme_tags:
-          - Mechanics
-          - Recreation
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Masahiro Sakurai
         url: https://www.youtube.com/@sora_sakurai_en
         description: Game design philosophy, 250+ episodes.
@@ -5303,6 +5300,16 @@ subsections:
         readme_tags:
           - Godot
           - Tutorials
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Lincoln Margison
+        url: https://www.youtube.com/@LincolnMargison
+        description: Procedural animation tutorials — step by step walkthroughs for game dev rigging and motion.
+        entry_type: channel
+      - name: MFGD - Fragment Shaders
+        url: https://www.youtube.com/@JorgeVinoRodriguez
+        description: YouTube playlist about fragment shaders.
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: game-dev-courses

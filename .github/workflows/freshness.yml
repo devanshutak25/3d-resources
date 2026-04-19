@@ -1,0 +1,66 @@
+name: Freshness
+
+on:
+  schedule:
+    - cron: '0 8 1 * *'   # 1st of month 08:00 UTC (after link-check + release-watch)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  freshness:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install js-yaml
+
+      # --- Staleness + pricing (operate on catalog, no external watchlists) ---
+      - name: Check GitHub repo staleness
+        run: node scripts/check-repo-staleness.js
+        continue-on-error: true
+      - name: Check pricing freshness
+        run: node scripts/check-pricing-freshness.js
+        continue-on-error: true
+
+      # --- Ingestion (each source isolated so one failure doesn't break the job) ---
+      - name: Ingest itch.io
+        run: node scripts/ingest-itch.js
+        continue-on-error: true
+      - name: Ingest 80 Level
+        run: node scripts/ingest-80lvl.js
+        continue-on-error: true
+      - name: Ingest YouTube channels
+        run: node scripts/ingest-youtube.js
+        continue-on-error: true
+      - name: Ingest Gumroad creators
+        run: node scripts/ingest-gumroad.js
+        continue-on-error: true
+
+      # --- Digest ---
+      - name: Build freshness digest
+        id: digest
+        run: |
+          node scripts/freshness-digest.js
+          echo "month=$(date -u +%Y-%m)" >> $GITHUB_OUTPUT
+
+      - name: Commit state + stale flags
+        run: |
+          git config user.name "freshness-bot"
+          git config user.email "freshness-bot@users.noreply.github.com"
+          git add data/ _maintenance/freshness/ _maintenance/freshness-*.md _maintenance/freshness-*.json || true
+          git diff --staged --quiet || git commit -m "chore(maintenance): freshness $(date +%Y-%m-%d)"
+          git push || true
+
+      - name: Open digest issue
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Freshness digest — ${{ steps.digest.outputs.month }}"
+          content-filepath: _maintenance/freshness-${{ steps.digest.outputs.month }}.md
+          labels: maintenance,freshness

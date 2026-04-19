@@ -115,44 +115,26 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Make Films 10x Faster in UE ~ Josh Toonen
-        url: https://youtu.be/RBtlrRP2fvs
+        url: https://www.youtube.com/@JoshToonen
         description: '[video,animation,post-process,blueprint] - cinematic environments, animated decals.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Blender Animate Running In 2 Minutes!
-        url: https://www.youtube.com/watch?v=qxoo_bcUZos
-        description: Blender Animate Running In 2 Minutes!.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: SwiftUI Animated Login Screen using Rive
-        url: https://www.youtube.com/watch?v=xKNHzWCl6Bc
+        url: https://www.youtube.com/@HarsivoCareerStack
         description: Teddy Bear Animation, create an animated and interactive Login screen.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: FlutterFlow Rive Animation Tutorial
-        url: https://www.youtube.com/watch?v=5kzut4NOMA8
-        description: Add Rive animations to your FlutterFlow app.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Create animated UI in Unity using Rive and Noesis
-        url: https://www.youtube.com/watch?v=F6Q4pfnBhbI
+        url: https://www.youtube.com/@Rive_app
         description: Tutorial on how to add Rive to your Unity games using Noesis.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Adding Animation to Buttons in Flutter using Rive
-        url: https://www.youtube.com/watch?v=6BtdCOZALeA
+        url: https://www.youtube.com/@anantpro
         description: Simple Animated Menu Toggle Button in Rive
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Swipe to delete animation
-        url: https://www.youtube.com/watch?v=_GU342Yb4vQ
-        description: A video tutorial on how to attach an animation to a drag gesture to delete todo items ([code](https://github.com/HayesGordon/swiftui-animated-swipe-to-delete/tree/main)).
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -246,10 +228,10 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: PuzzleHack
-        url: https://www.youtube.com/watch?v=9F6dxDDh9yk&t=452s
+      - name: Flutter Community
+        url: https://www.youtube.com/@FlutterCommunity
         description: Demonstrating Rive on the Flutter Community live stream for the 2022 Flutter Puzzle Hack.
-        entry_type: reference
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: animation-courses

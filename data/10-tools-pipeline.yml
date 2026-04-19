@@ -1404,20 +1404,14 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Gaussian Splats Town Hall - Part 2
-        url: https://youtu.be/5_GaPYBHqOo
+        url: https://www.youtube.com/@pixelreconstruct
         description: Gaussian Splats Town Hall - Part 2.
-        entry_type: software
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 'NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis'
-        url: https://www.youtube.com/watch?v=LCTYRqW-ne8&t=10190s
-        description: ', Ben Mildenhall'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 'Gaussian Splats: Ready for Standardization?'
-        url: https://www.youtube.com/watch?v=0xdPpKSkO3I
-        description: Metaverse Standards Forum 1/28/2025
+      - name: 'NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis'
+        url: https://www.youtube.com/@NeuralRendering
+        description: ', Ben Mildenhall'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1532,14 +1526,8 @@ subsections:
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UV Unwrapping - Blender Fundamentals.
-        url: https://www.youtube.com/watch?v=Y7M-B6xnaEM
-        description: UV Unwrapping - Blender Fundamentals..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Danny Mac 3D
-        url: https://www.youtube.com/user/djmccabie/videos
+        url: https://www.youtube.com/@DannyMac3d
         description: character modeling, posing, rigging, retopology, sculpting.
         entry_type: channel
         url_last_verified: '2026-04-19'

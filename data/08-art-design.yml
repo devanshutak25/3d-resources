@@ -6,51 +6,6 @@ subsections:
     title: Concept Art & Illustration — Channels
     description: Channels on concept art, figure drawing, painting.
     entries:
-      - name: Proko
-        url: https://www.youtube.com/@ProkoTV
-        description: Figure drawing and anatomy.
-        entry_type: channel
-        readme_tags:
-          - Figure Drawing
-          - Anatomy
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Marco Bucci
-        url: https://www.youtube.com/@marcobucci
-        description: Painting and color theory.
-        entry_type: channel
-        readme_tags:
-          - Painting
-          - Color Theory
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Sinix Design
-        url: https://www.youtube.com/@sinixdesign
-        description: Digital painting fundamentals.
-        entry_type: channel
-        readme_tags:
-          - Digital Painting
-          - Fundamentals
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Tyler Edlin
-        url: https://www.youtube.com/@TylerEdlin84
-        description: Environment and concept art.
-        entry_type: channel
-        readme_tags:
-          - Environment
-          - Concept
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Grady Frederick
-        url: https://www.youtube.com/@gradyfrederickart
-        description: Concept art process.
-        entry_type: channel
-        readme_tags:
-          - Concept Process
-          - Art
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Michael Mattesi
         url: https://www.instagram.com/michaelmattesi/
         description: Force drawing (Instagram).
@@ -296,15 +251,6 @@ subsections:
           - Free Tier
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ModernDayJames
-        url: https://www.youtube.com/c/moderndayjames
-        description: Rigorous perspective systems and construction drawing.
-        entry_type: channel
-        readme_tags:
-          - Perspective
-          - Construction
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: ArtStation Learning
         url: https://www.artstation.com/learning
         description: Free courses from Blizzard, Riot, Pixar pros.
@@ -313,15 +259,6 @@ subsections:
         readme_tags:
           - Pro Instructors
           - Free
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Trent Kaniuga
-        url: https://www.youtube.com/@trentkaniuga
-        description: Concept art workflow for game/film production.
-        entry_type: channel
-        readme_tags:
-          - Production Workflow
-          - Games/Film
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Genetic Drawing
@@ -499,7 +436,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Every Frame a Painting
-        url: https://www.youtube.com/c/EveryFrameaPainting
+        url: https://www.youtube.com/@everyframeapainting
         description: Gold-standard video essays on composition, camera, editing rhythm.
         entry_type: channel
         readme_tags:
@@ -508,7 +445,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: CinemaTyler
-        url: https://www.youtube.com/c/CinemaTyler
+        url: https://www.youtube.com/@CinemaTyler
         description: Deep analysis of lens choice, color, blocking, lighting in film.
         entry_type: channel
         readme_tags:
@@ -517,7 +454,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Wolfcrow
-        url: https://www.youtube.com/c/wolfcrow
+        url: https://www.youtube.com/@wolfcrow
         description: Cinematography fundamentals, color science, exposure theory.
         entry_type: channel
         readme_tags:
@@ -526,7 +463,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: In Depth Cine
-        url: https://www.youtube.com/c/InDepthCine
+        url: https://www.youtube.com/@InDepthCine
         description: Practical lighting setups and narrative technique.
         entry_type: channel
         readme_tags:
@@ -544,30 +481,21 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Roger Deakins on Learning to Light
-        url: https://www.youtube.com/watch?v=K9w8I_YD29E
+        url: https://www.youtube.com/@StudioBinder
         description: Cinematography Techniques Ep. 1.
-        entry_type: tutorial
+        entry_type: channel
         readme_tags:
           - Roger Deakins
           - Lighting
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: How to Create Stunning Cinematic Lighting
-        url: https://www.youtube.com/watch?v=eZ5hpcn6tIM
+        url: https://www.youtube.com/@fulltimefilmmaker
         description: Cinematic lighting tutorial.
-        entry_type: tutorial
+        entry_type: channel
         readme_tags:
           - Cinematic Lighting
           - Technique
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Video Lighting Techniques — Cinematic Look
-        url: https://www.youtube.com/watch?v=n1EKLvdUSac
-        description: Achieving a cinematic look via lighting.
-        entry_type: tutorial
-        readme_tags:
-          - Cinematic Look
-          - Lighting
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Nuke
@@ -624,15 +552,6 @@ subsections:
           - Perception
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Marco Bucci — Understanding Color
-        url: https://www.youtube.com/watch?v=Qj1FK8n7WgY
-        description: 10-part color theory series for artists, applicable to 3D lighting/texturing.
-        entry_type: tutorial
-        readme_tags:
-          - Color Theory
-          - 10-Part Series
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: PhotoPills Golden Ratio Guide
         url: https://www.photopills.com/articles/golden-ratio-photography-composition-guide
         description: Golden ratio, spirals, triangles with overlay diagrams.
@@ -659,15 +578,6 @@ subsections:
         readme_tags:
           - 12 Principles
           - GIF Breakdown
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 12 Principles of Animation (Alan Becker)
-        url: https://www.youtube.com/watch?v=uDqjIdI4bF4
-        description: Alan Becker's accessible explainer of the 12 principles.
-        entry_type: tutorial
-        readme_tags:
-          - Alan Becker
-          - Accessible
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Animator Island — 51 Exercises
@@ -698,7 +608,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: New Frame Plus
-        url: https://www.youtube.com/c/NewFramePlus
+        url: https://www.youtube.com/@NewFramePlus
         description: Animation analysis in games (walk cycles, weight, timing).
         entry_type: channel
         tags:

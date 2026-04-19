@@ -151,7 +151,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Polygonpen
-        url: https://www.youtube.com/c/polygonpen
+        url: https://www.youtube.com/@polygonpen
         description: 3D motion.
         entry_type: channel
         readme_tags:
@@ -261,10 +261,13 @@ subsections:
           - Free + Paid
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Motion Designers Community
-        url: https://www.youtube.com/c/MotionDesignersCommunityTV
-        description: Motion Designers Community.
+      - name: New Plastic
+        url: https://www.youtube.com/@NewPlastic
+        description: Cinema 4D tutorials — lighting, motion design, rendering.
         entry_type: channel
+        readme_tags:
+          - Playlist
+          - Lighting Series
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: youtube-blender
@@ -272,7 +275,7 @@ subsections:
     description: Blender-focused creators.
     entries:
       - name: Blender Guru
-        url: https://www.youtube.com/user/AndrewPPrice
+        url: https://www.youtube.com/@blenderguru
         description: Classic Blender beginner+ intermediate channel (Andrew Price).
         entry_type: channel
         readme_tags:
@@ -281,7 +284,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Grant Abbitt
-        url: https://www.youtube.com/c/GrantAbbitt
+        url: https://www.youtube.com/@grabbitt
         description: Beginner-friendly Blender tutorials.
         entry_type: channel
         tags:
@@ -370,6 +373,72 @@ subsections:
           - Modeling
         url_last_verified: '2026-04-19'
         url_status: ok
+      - name: 📺 Turn ANY rock into STYLIZED ~ GraphicLine Games
+        url: https://www.youtube.com/@graphiclinegames4843
+        description: '[asset,Lumin,shader] ([Ghibli Shader Texture Generator](https://graphicline.gumroad.com/l/dcqlie)).'
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: 📺 Cartoon Cel Shader 2.0 ~ Sandvector Studios
+        url: https://www.youtube.com/@sandvectorstudios
+        description: '[material] ([Face Shadow Texture Generator file](https://www.artstation.com/marketplace/p/Vmvmm/face-shadow-texture-generator)).'
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Royal Skies
+        url: https://www.youtube.com/@TheRoyalSkies
+        description: 3D technical artist — Blender, Unreal, games. Speed tutorials across rigging, shaders, animation.
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: 🍦Blender Complete Beginner Tutorial Course by CG Geek.
+        url: https://www.youtube.com/@CGGeek
+        description: 🍦Blender Complete Beginner Tutorial Course by CG Geek..
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: 🍏Blender Beginner Tutorial Series by CG Boost.
+        url: https://www.youtube.com/@cgboost
+        description: 🍏Blender Beginner Tutorial Series by CG Boost..
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Blender Programming Tutorials by Olav3D.
+        url: https://www.youtube.com/@Olav3D
+        description: Blender Programming Tutorials by Olav3D..
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Blender Fundamentals by Blender.
+        url: https://www.youtube.com/@BlenderOfficial
+        description: Blender Fundamentals by Blender..
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Geometry Nodes Basics for Beginners by Bradley Animation
+        url: https://www.youtube.com/@bradleyanimation120
+        description: Geometry Nodes Basics for Beginners by Bradley Animation.
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Blender Procedural Nodes Playlist by Default Cube.
+        url: https://www.youtube.com/@DefaultCube
+        description: Blender Procedural Nodes Playlist by Default Cube..
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Blender Motion Tracking Series by CGmatter.
+        url: https://www.youtube.com/@CGMatter
+        description: Blender Motion Tracking Series by CGmatter..
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Darkfall
+        url: https://www.youtube.com/@DarkfallBlender
+        description: Blender Scripting by Darkfall.
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: youtube-houdini
     title: YouTube Channels — Houdini
     description: Houdini-focused channels.
@@ -384,7 +453,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: John Kunz
-        url: https://www.youtube.com/c/JohnKunz/
+        url: https://www.youtube.com/@JohnKunz
         description: FX, coding, Redshift.
         entry_type: channel
         readme_tags:
@@ -393,7 +462,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: NineBetween
-        url: https://www.youtube.com/c/NineBetween/
+        url: https://www.youtube.com/@NineBetween
         description: Houdini beginner series (Houdini Isn't Scary).
         entry_type: channel
         tags:
@@ -405,7 +474,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Tim van Helsdingen
-        url: https://www.youtube.com/c/TimvanHelsdingen/
+        url: https://www.youtube.com/@TimvanHelsdingen3D
         description: FX and procedural tutorials.
         entry_type: channel
         readme_tags:
@@ -414,7 +483,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Junichiro Horikawa
-        url: https://www.youtube.com/c/JunichiroHorikawa
+        url: https://www.youtube.com/@JunichiroHorikawa
         description: Procedural and generative Houdini.
         entry_type: channel
         tags:
@@ -435,7 +504,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Christopher Rutledge
-        url: https://www.youtube.com/christopherrutledge1
+        url: https://www.youtube.com/@chr1st0pher
         description: Houdini Nerd community creator.
         entry_type: channel
         readme_tags:
@@ -462,7 +531,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Asis FX
-        url: https://www.youtube.com/c/AxisDesignerGFX/
+        url: https://www.youtube.com/@AxisDesignerGFX
         description: FX tutorials.
         entry_type: channel
         readme_tags:
@@ -470,33 +539,9 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 3D-Coat Applink
-        url: https://www.youtube.com/watch?v=2bo2XGUPwIU
+      - name: 3DCoat Training Channel
+        url: https://www.youtube.com/@3DCoatTrainingChannel
         description: 3DCoat now has native support of Blender via built-in AppLink.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Fundamentals by Blender.
-        url: https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6
-        description: Blender Fundamentals by Blender..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts.
-        url: https://www.youtube.com/playlist?list=PLvPwLecDlWRD_VK_2INC1VQ18dZdpDwLi
-        description: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Recording Studio in Blender- 3D Isometric Modeling Process.
-        url: https://www.youtube.com/watch?v=QkCrhycrJi8
-        description: Recording Studio in Blender- 3D Isometric Modeling Process..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: All 50+ Modifiers in Blender Explained in 30 Minutes.
-        url: https://www.youtube.com/watch?v=8BQYAwDW6IE
-        description: All 50+ Modifiers in Blender Explained in 30 Minutes..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -506,159 +551,39 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Introduction to Sculpting in Blender - Sculpting Essentials.
-        url: https://www.youtube.com/watch?v=A-Wq8K8icpQ
-        description: Introduction to Sculpting in Blender - Sculpting Essentials..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: The Speed Sculpting Guide - Learn from Limitation.
-        url: https://www.youtube.com/watch?v=qnYA9kbPeLs
-        description: The Speed Sculpting Guide - Learn from Limitation..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Sculpting in Blender - Beginners Detailed Guide - Every Brush.
-        url: https://www.youtube.com/watch?v=L3XtAFUWNuk
-        description: Sculpting in Blender - Beginners Detailed Guide - Every Brush..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Stylized Character Workflow with Blender.
-        url: https://www.youtube.com/watch?v=f-mx-Jfx9lA
-        description: Stylized Character Workflow with Blender..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Modeling a character BaseMesh in Blender.
-        url: https://www.youtube.com/watch?v=WlaMfIgS2ns
+        url: https://www.youtube.com/@sociamix
         description: Modeling a character BaseMesh in Blender..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Hard-surface Modeling in Blender by Gleb Alexandrov.
-        url: https://www.youtube.com/playlist?list=PL2aDImegRwZHQsA5_N4DpaOQmUXaIsBdN
-        description: Hard-surface Modeling in Blender by Gleb Alexandrov..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Hardsurface Sculpting Tips.
-        url: https://www.youtube.com/watch?v=qbC2iX4SATc
-        description: Blender Hardsurface Sculpting Tips..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Geometry Nodes Basics for Beginners by Bradley Animation
-        url: https://www.youtube.com/playlist?list=PLhQ290f8z8FMzVZAZGyL8CnwOnitw2VdG
-        description: Geometry Nodes Basics for Beginners by Bradley Animation.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Shading Editor Basics by Blender.
-        url: https://www.youtube.com/watch?v=0zrd37k2tJM
-        description: Shading Editor Basics by Blender..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender - Everything About The Principled BSDF (In 3 Minutes).
-        url: https://www.youtube.com/watch?v=_IjSYLt9k2A
-        description: Blender - Everything About The Principled BSDF (In 3 Minutes)..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Procedural Nodes Playlist by Default Cube.
-        url: https://www.youtube.com/playlist?list=PLFaEpHfMsQ2uvtFjBDGwFlTm_QrnOzslc
-        description: Blender Procedural Nodes Playlist by Default Cube..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: All 80+ Blender material nodes explained in under 30 minutes.
-        url: https://www.youtube.com/watch?v=cQ0qtcSymDI
-        description: All 80+ Blender material nodes explained in under 30 minutes..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Rig any Character for Animation in 10 Minutes!
-        url: https://www.youtube.com/watch?v=SBYb1YmaOMY
-        description: Rig any Character for Animation in 10 Minutes!.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 'Blender Character Animation: Shape Keys.'
-        url: https://www.youtube.com/watch?v=YDu6y_2jFg0
-        description: 'Blender Character Animation: Shape Keys..'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Create Loop Animations.
-        url: https://www.youtube.com/watch?v=Uq4OLSRgSQE
-        description: Create Loop Animations..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: How to composite renders in Blender.
-        url: https://www.youtube.com/watch?v=Eka75kHHBrA
+        url: https://www.youtube.com/@BlenderBrit
         description: How to composite renders in Blender..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Blender Render Passes and Very Basic Compositing.
-        url: https://www.youtube.com/watch?v=Sdaj9Y_1mOY
+        url: https://www.youtube.com/@KevBinge
         description: Blender Render Passes and Very Basic Compositing..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Render Passes in Blender - What are they and why even use them?
-        url: https://www.youtube.com/watch?v=9p_iwjU5_Bg
+        url: https://www.youtube.com/@DylanNeill3D
         description: Render Passes in Blender - What are they and why even use them?.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: How to use blender's compositor to improve a rendered frame sequence.
-        url: https://www.youtube.com/watch?v=T57tbazDZEA
+        url: https://www.youtube.com/@garagefarmacademy
         description: How to use blender's compositor to improve a rendered frame sequence..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Blender Compositor for Post Processing.
-        url: https://www.youtube.com/watch?v=W5KqXPCKBuI
+        url: https://www.youtube.com/@RenderRides
         description: Blender Compositor for Post Processing..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Motion Tracking Series by CGmatter.
-        url: https://www.youtube.com/playlist?list=PL4EqKJjrgoVTCrjTOBHePGXHqFdqaPYyR
-        description: Blender Motion Tracking Series by CGmatter..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Add CGI Characters to Live Footage by CG Geek.
-        url: https://www.youtube.com/watch?v=hymtATx1QXw
-        description: Add CGI Characters to Live Footage by CG Geek..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: How to 3D Motion Capture Easy and Free with a Phone!
-        url: https://www.youtube.com/watch?v=fwc9vTCLYCc
-        description: How to 3D Motion Capture Easy and Free with a Phone!.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Scripting for Artists by Blender.
-        url: https://www.youtube.com/playlist?list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd6BW
-        description: Scripting for Artists by Blender..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Scripting by Darkfall
-        url: https://www.youtube.com/playlist?list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-
-        description: Blender Scripting by Darkfall.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Creating a Blender 2.8 Voxelize Python Script
-        url: https://www.youtube.com/watch?v=l9wSDtqThmQ
-        description: ', [[part2]](https://www.youtube.com/watch?v=Fr1HN0XgB58)'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -668,32 +593,14 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Blender Guru
-        url: https://www.youtube.com/user/AndrewPPrice/videos
-        description: Most popular blender channel on youtube.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: CG Geek
-        url: https://www.youtube.com/user/Blenderfan93/videos
-        description: second most popular blender channel on youtube.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Gleb Alexandrov
-        url: https://www.youtube.com/user/GlebAlexandrov/videos
+        url: https://www.youtube.com/@GlebAlexandrov
         description: one of the best-known blender channel on youtube.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Ducky 3D
-        url: https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos
-        description: abstract designs, modifiers.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Chris Prenninger
-        url: https://www.youtube.com/user/chrisprenn/videos
+        url: https://www.youtube.com/@chrisprenn
         description: animation nodes, particle systems, shading.
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -705,13 +612,13 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: FlippedNormals
-        url: https://www.youtube.com/user/FlippedNormalsTuts/videos
+        url: https://www.youtube.com/@FlippedNormals
         description: sculpting, modeling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Blender NPR
-        url: https://www.youtube.com/user/blendernpr/videos
+        url: https://www.youtube.com/@super-bnpr
         description: non-Photorealistic and expressive rendering.
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -723,7 +630,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Imphenzia
-        url: https://www.youtube.com/user/ImphenziaMusic/videos
+        url: https://www.youtube.com/@Imphenzia
         description: low poly modeling, rigging.
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -735,49 +642,43 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: CG Masters
-        url: https://www.youtube.com/user/blengine/videos
+        url: https://www.youtube.com/@blengine
         description: modeling, texturing, shading.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Peter France
-        url: https://www.youtube.com/c/PeterFrance/videos
+        url: https://www.youtube.com/@PeterFrance
         description: modeling, texturing, shading, vfx.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Iridesium
-        url: https://www.youtube.com/c/Iridesium/videos
+        url: https://www.youtube.com/@Iridesium
         description: simulation, vfx.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Giulia Marchetti
-        url: https://www.youtube.com/c/GiuliaMarchetti3d/videos
+        url: https://www.youtube.com/@giulia.delasestrellas
         description: sculpting, character modeling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: CG Fast Track
-        url: https://www.youtube.com/c/CGFastTrack/videos
+        url: https://www.youtube.com/@CGFastTrack
         description: modeling, animation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 3DGreenhorn
-        url: https://www.youtube.com/c/3DGreenhorn/videos
+        url: https://www.youtube.com/@3dgreenhorn
         description: isometric modeling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Bad Normals
-        url: https://www.youtube.com/c/BadNormals/videos
-        description: modeling, animation.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: DerekElliott
-        url: https://www.youtube.com/c/DerekElliott/videos
+        url: https://www.youtube.com/@BadNormals
         description: modeling, animation.
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -794,20 +695,8 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: pwnisher
-        url: https://www.youtube.com/c/pwnisher/videos
-        description: Clinton Jones' Youtube channel regularly organizes 3D Challanges.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Unreal Engine Youtube
-        url: https://www.youtube.com/watch?v=P4IKS5k47Wg
-        description: Unreal Engine Youtube.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: The Cherno Project
-        url: https://www.youtube.com/user/TheChernoProject
+        url: https://www.youtube.com/@TheCherno
         description: While not specific to Unreal Engine, Cherno has tons of great C++ and general game engine content.
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -818,160 +707,159 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Holoportation
-        url: https://www.youtube.com/watch?v=7d59O6cfaM0
+      - name: I3D Past Projects
+        url: https://www.youtube.com/@i3dpastprojects778
         description: virtual 3D teleportation in real-time by Microsoft Research
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Super Mario Bros AR Game
-        url: https://www.youtube.com/watch?v=QN95nNDtxjo
+        url: https://www.youtube.com/@shekitup
         description: AR game built with Microsoft HoloLens and Unity3D
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: PortalAR
-        url: https://www.youtube.com/watch?time_continue=22&v=-7NutV8kHLQ
-        description: An immersive way to explore 360 photos, videos and 3D environment
+      - name: Parker Coleman
+        url: https://www.youtube.com/@parkercoleman8078
+        description: Houdini tutorial channel — procedural workflows, sim setups, tools.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Hamburger Menu
-        url: https://www.youtube.com/watch?v=6zsh1musFuE
-        description: Use simple motion to create icon animations.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Syncing Scroll Position with Rive
-        url: https://www.youtube.com/watch?v=iNEqhyEzAKs&list=PLujDTZWVDSsFR582ypXnrbpH8_3S9a-RF&index=15
-        description: Scroll position influencing Rive animations/state machines.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Glassmorphism card
-        url: https://www.youtube.com/watch?v=AiPq5u5UEwM
+      - name: AJ Picard
+        url: https://www.youtube.com/@ajpicard.design
         description: Complex background animations using SwiftUI & Rive.App
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Building a Weather App
-        url: https://www.youtube.com/watch?v=nut38kjyUqs&t=0s
-        description: Series on building Rive animations in a React Native app with weather API data.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Plant Growing Animation with Rive and Flutter
-        url: https://www.youtube.com/watch?v=fn-0bIsf43w
-        description: Implement the animation in Flutter
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Add Rive to your Flutter Flame game
-        url: https://www.youtube.com/watch?v=0FDHpOpfX_U
-        description: Learn how to add interactive Rive animations to a Flutter Flame game.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Add interactivity to your Webflow sites with Rive
-        url: https://www.youtube.com/watch?v=s_kCrN6_ugA
-        description: Use Rive share links to quickly add animations and interactivity to WebFlow websites.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Pointer Tracking Animation Implemented in Webflow
-        url: https://www.youtube.com/watch?v=MCJ7D9we-aY
+        url: https://www.youtube.com/@jeffamcavoy
         description: How to set up a Rive file with pointer tracking for Webflow implementation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 📺 Trees – Blender to UE5 Workflow ~ selsner
-        url: https://www.youtube.com/shorts/yWyc14-6sog?feature=share
-        description: '[asset] - blob-less, recomputed, short.'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 NTRCT | Characters for Dummies ~ Yu Fujishiro
-        url: https://www.youtube.com/playlist?list=PLvSZaVrgRBTp4mo_XUiE66Tqk7qsokoXm
-        description: '[animation] - ''interactive art''.'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺📜 Control Rig ~ Ask A Dev
-        url: https://www.youtube.com/playlist?list=PL2A3wMhmbeArc-d471A4cku1pYA31X-ir
-        description: '[character,animation] - 22 vids.'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Unreal Engine Official YouTube
-        url: https://www.youtube.com/c/UnrealEngine
+        url: https://www.youtube.com/@UnrealEngine
         description: Unreal Engine Official YouTube.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Introduction into the new Godot OpenVR Asset
-        url: https://www.youtube.com/watch?v=267dRjEYliU
+        url: https://www.youtube.com/@BastiaanOlij
         description: Introduction into the new Godot OpenVR Asset.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !
-        url: https://www.youtube.com/watch?v=vAxPoVmhvaw
+        url: https://www.youtube.com/@cooleobrad
         description: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 'Unity VR: EditorVR Quick Look'
-        url: https://www.youtube.com/watch?v=5-NAjKPsx4A
+      - name: Leading Ones (LeadingOnesVR)
+        url: https://www.youtube.com/@LeadingOnesVR
         description: 'Unity VR: EditorVR Quick Look.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Unity Mecanim VR IK vs Final IK
-        url: https://www.youtube.com/watch?v=7y9GAVpCW_c
+        url: https://www.youtube.com/@createthisdotcom
         description: '[VR IK using native Unity Mecanim IK](https://github.com/createthis/unity_vr_ik_mecanim)'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Auto Cache Out Tool
-        url: https://www.youtube.com/watch?v=euTth1NNrYc
+        url: https://www.youtube.com/@ron4431
         description: Auto Cache Out tool is for managing caches and .hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically ve
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Houdini Atmopshereic Tookit
-        url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWFneFUtek92S3R4di1meGgyU2dvcXhId1h3QXxBQ3Jtc0trTklobzZhSm4yZFliWGtwSHlhZ2pnUE85a1g2YnBWc3RxeUw5U3g2SU9kWjBON1Nuc2xxSEZqenFIeElEaVFScVBSZU5OMmE1YkVwY3dDU0JuR3Jsc2tpRktyVDc2LVhrYzNoVndTNHVJUHFYWmFmWQ&q=https%3A%2F%2Fc474ea1c-22c8-4619-911e-0560ab902acd.usrfiles.com%2Farchives%2Fc474ea_31281e4b75f647a29361f9951d89b2d6.zip&v=EbVt0qU-P9c
-        description: Toolkit by Kate Xagoraris for everday cloud / volume operations
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Halo 5
-        url: https://www.youtube.com/watch?v=b7itmX6WlI4
+      - name: The Gaming Library
+        url: https://www.youtube.com/@TheGamingLibraryYT
         description: and admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of CG today.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 'SIGGRAPH 2021 REAC: Unity Rendering Architecture'
-        url: https://www.youtube.com/watch?v=6LzcXPIWUbc
+      - name: Rendering Engine Architecture Conference
+        url: https://www.youtube.com/@renderingenginearchitectur3543
         description: 'SIGGRAPH 2021 REAC: Unity Rendering Architecture.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Next-Generation 3D Graphics on the Web
-        url: https://www.youtube.com/watch?v=K2JzIUIHIhc
+        url: https://www.youtube.com/@ChromeDevs
         description: Talk at Google I/O 19 from Ricardo Cabello (MrDoob).
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Formula Animations
-        url: https://www.youtube.com/watch?v=0ifChJ0nJfM
+      - name: Inigo Quilez
+        url: https://www.youtube.com/@InigoQuilez
         description: The principles of painting with maths.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Steven Wittens
-        url: https://www.youtube.com/watch?v=4NkjLWAkYZ8
+      - name: Codegram
+        url: https://www.youtube.com/@Codegram
         description: 'Full Stack Fest 2015: The Pixel Factory (Great visuals to gain insights into what''s going on with concepts such as UV''s, and Rastering)'
         entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: WhatIFound (Jason Harmon)
+        url: https://www.youtube.com/@WhatIFound
+        description: Liquid and fluid tutorials.
+        entry_type: channel
+        tags:
+          workflow:
+            - simulation
+            - fx
+        readme_tags:
+          - Fluids
+          - Jason Harmon
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: NotVeryDarkMagic
+        url: https://www.youtube.com/@notverydarkmagic
+        description: Hair and fur starting point.
+        entry_type: channel
+        readme_tags:
+          - Hair/Fur
+          - H19
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: 2D Cel Flames with Pyro
+        url: https://www.youtube.com/@MichaelStarkTV
+        description: Stylized 2D flame with pyro sim.
+        entry_type: channel
+        readme_tags:
+          - Stylized
+          - Pyro
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Matt Taylor Motion (Emty01)
+        url: https://www.youtube.com/@MattTaylorMotion
+        description: Recursive subdivision animation.
+        entry_type: channel
+        readme_tags:
+          - Recursion
+          - Subdivision
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Voxel/Lego Pyro Explosion
+        url: https://www.youtube.com/@kevfx
+        description: Stylized voxel explosion.
+        entry_type: channel
+        readme_tags:
+          - Voxel
+          - Stylized
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Rebelway YouTube
+        url: https://www.youtube.com/@Rebelway
+        description: Free Rebelway tutorials on YouTube.
+        license: Free
+        entry_type: channel
+        readme_tags:
+          - Free YouTube
+          - FX Focus
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: youtube-sculpting-characters
@@ -997,6 +885,81 @@ subsections:
         readme_tags:
           - Sculpting
           - Characters
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Proko
+        url: https://www.youtube.com/@ProkoTV
+        description: Figure drawing and anatomy.
+        entry_type: channel
+        readme_tags:
+          - Figure Drawing
+          - Anatomy
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Marco Bucci
+        url: https://www.youtube.com/@marcobucci
+        description: Painting and color theory.
+        entry_type: channel
+        readme_tags:
+          - Painting
+          - Color Theory
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Sinix Design
+        url: https://www.youtube.com/@sinixdesign
+        description: Digital painting fundamentals.
+        entry_type: channel
+        readme_tags:
+          - Digital Painting
+          - Fundamentals
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Tyler Edlin
+        url: https://www.youtube.com/@TylerEdlin84
+        description: Environment and concept art.
+        entry_type: channel
+        readme_tags:
+          - Environment
+          - Concept
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Grady Frederick
+        url: https://www.youtube.com/@gradyfrederickart
+        description: Concept art process.
+        entry_type: channel
+        readme_tags:
+          - Concept Process
+          - Art
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: ModernDayJames
+        url: https://www.youtube.com/@moderndayjames
+        description: Rigorous perspective systems and construction drawing.
+        entry_type: channel
+        readme_tags:
+          - Perspective
+          - Construction
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: Trent Kaniuga
+        url: https://www.youtube.com/@TrentKaniuga
+        description: Concept art workflow for game/film production.
+        entry_type: channel
+        readme_tags:
+          - Production Workflow
+          - Games/Film
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts.
+        url: https://www.youtube.com/@yansculpts
+        description: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts..
+        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: 📺 NTRCT | Characters for Dummies ~ Yu Fujishiro
+        url: https://www.youtube.com/@YFJSR
+        description: '[animation] - ''interactive art''.'
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: paid-tutorial-platforms
@@ -1357,128 +1320,32 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts
-        url: https://youtu.be/ElpH2AA4Nzc
+        url: https://www.youtube.com/@azielarts
         description: '[environment] - Zelda-inspired landscape using Procedural Content Generation.'
-        entry_type: tutorial
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 MEGA TUTORIAL ~ Unreal Sensei
-        url: https://youtu.be/k-zMkzmduqI?list=PLKPWwh_viQMGQkQfKKD5lF96efA3_RWt-
+        url: https://www.youtube.com/@UnrealSensei
         description: '[animation] ([5.6 update](https://youtu.be/GWremmdhmdg)) - 10 vids, ~30 hours, v5.5 nanite & lumen.'
-        entry_type: tutorial
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Custom Character Skeletons and Animations ~ Upside Tutorials
-        url: https://youtu.be/BLVWvxFi9vg
+        url: https://www.youtube.com/@UpsideTutorials
         description: '[animation,character].'
-        entry_type: tutorial
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 What Studio Ghibli Does That Disney Doesn’t ~ omeroy Art Academy
-        url: https://youtu.be/UXAM9v32Q-g
+        url: https://www.youtube.com/@pomeroyartacademy
         description: '[animation,character] - stylistic differences.'
-        entry_type: tutorial
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Modern GUI Development in Unity 4.6
-        url: https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c
-        description: A video tutorial providing an in-depth explanation of Unity's new UI system.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 🍩Blender 3.0 Beginner Donut Tutorial by Blender Guru.
-        url: https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U
-        description: 🍩Blender 3.0 Beginner Donut Tutorial by Blender Guru..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 🍦Blender Complete Beginner Tutorial Course by CG Geek.
-        url: https://www.youtube.com/playlist?list=PLrjIgEdKLivgpCMmFC0_sV60Y_Ftp-WLD
-        description: 🍦Blender Complete Beginner Tutorial Course by CG Geek..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 🍏Blender Beginner Tutorial Series by CG Boost.
-        url: https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0
-        description: 🍏Blender Beginner Tutorial Series by CG Boost..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Beginner Modelling Chair Tutorial by Blender Guru.
-        url: https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR
-        description: Beginner Modelling Chair Tutorial by Blender Guru..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Blender Beginner 3D Modeling Tutorial.
-        url: https://www.youtube.com/watch?v=elUJCEC06r8
+        url: https://www.youtube.com/@tutor4u
         description: Blender Beginner 3D Modeling Tutorial..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Principled BSDF (Speed Tutorials) by Royal Skies LLC.
-        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiut8p1fyrNbzQRNkfKHtUy5e
-        description: Blender Principled BSDF (Speed Tutorials) by Royal Skies LLC..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Procedural Texturing (Speed Tutorials) by Royal Skies LLC.
-        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuv18KFBVniU2Yi-eI0Jrwo1
-        description: Blender Procedural Texturing (Speed Tutorials) by Royal Skies LLC..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Animation (Speed Tutorials) by Royal Skies LLC.
-        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuu7XqpZ8_rXJG9x26JK7UCr
-        description: Blender Animation (Speed Tutorials) by Royal Skies LLC..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Rigging (Speed Tutorials) by Royal Skies LLC.
-        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuuc3QpFeHxGqNpVf5couDeI
-        description: Blender Rigging (Speed Tutorials) by Royal Skies LLC..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender UV Mapping (Speed Tutorials) by Royal Skies LLC.
-        url: https://www.youtube.com/playlist?list=PLZpDYt0cyiuuwWbyUAWSllrhtZ9KfU3B_
-        description: Blender UV Mapping (Speed Tutorials) by Royal Skies LLC..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Beginner Texturing Painting Tutorial.
-        url: https://www.youtube.com/watch?v=vTYustK-XBk
-        description: Blender Beginner Texturing Painting Tutorial..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Facial motion capture tutorial.
-        url: https://www.youtube.com/watch?v=uNK8S19OSmA
-        description: Blender Facial motion capture tutorial..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender Programming Tutorials by Olav3D.
-        url: https://www.youtube.com/playlist?list=PLunr0YiKm4r4OqzEfMrGSPYS1WuvaSRu5
-        description: Blender Programming Tutorials by Olav3D..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender 2.8 Addon Development Tutorial for Beginners by jayanam.
-        url: https://www.youtube.com/watch?v=uahfuypQQ04
-        description: Blender 2.8 Addon Development Tutorial for Beginners by jayanam..
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: IanHubert
-        url: https://www.youtube.com/user/mrdodobird/videos
-        description: _Lazy tutorials_, modeling, animating, vfx, cinematic.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: CGMatter
-        url: https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg/videos
-        description: short tutorials.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1488,14 +1355,8 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Royal Skies LLC
-        url: https://www.youtube.com/channel/UC2U5mRfclG1Rrr1ztNkpGKA/videos
-        description: _Speed tutorials_, texturing, mapping, nodes, animation.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: CG Cookie
-        url: https://www.youtube.com/user/blendercookie/videos
+        url: https://www.youtube.com/@cg_cookie
         description: free tutorials from [CG Cookie](https://cgcookie.com/).
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -1506,38 +1367,26 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Intro to Interactive Animation in Rive
-        url: https://www.youtube.com/watch?v=yaP07L5J50E
-        description: UI Animation Tool (School of Motion)
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Create the Most AMAZING Animations with Rive
-        url: https://www.youtube.com/watch?v=9_Gz-fFfFek
+        url: https://www.youtube.com/@DesignCourse
         description: Crash Course (DesignCourse)
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Integrating your RIVE Animations on the Web!
-        url: https://www.youtube.com/watch?v=WOOtILLrb0Q
-        description: DesignCourse
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Build iOS app with Rive Animations
-        url: https://www.youtube.com/watch?v=h4vyOz4Tztg
+        url: https://www.youtube.com/@DesignCodeTeam
         description: A full 3-hour course showcasing how to build a SwiftUI app with Rive animations.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Unreal tutorial for Rive + Noesis
-        url: https://www.youtube.com/watch?v=WuMHGPOINSo
+        url: https://www.youtube.com/@NoesisTechnologies
         description: Tutorial on how to add Rive to your Unreal games using Noesis.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus
-        url: https://www.youtube.com/watch?v=U0gBRIY3TpE&t=210s
+        url: https://www.youtube.com/@BunnyGunGames
         description: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus.
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -1555,20 +1404,14 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render
-        url: https://www.youtube.com/watch?v=uDwAIveGDU0
+        url: https://www.youtube.com/@TaylorShockey
         description: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 'Unity + Vive Tutorial: Beginners'
-        url: https://www.youtube.com/watch?v=q86rb1Eq-bA&list=PLmc6GPFDyfw_4kx-LhJyBOoCIukH5orQ9
+        url: https://www.youtube.com/@VRwithAndrew
         description: 'Unity + Vive Tutorial: Beginners.'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: How to make games for the HTC Vive with Unity and C#
-        url: https://www.youtube.com/playlist?list=PLEjAIFnF0Q_asf8ZIjTM4ijT89gB6M5r1
-        description: '[GitHub repo](https://github.com/LochieWestfallGames/VR-Tutorial)'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1579,140 +1422,92 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: RMA Houdini Tutorials
-        url: https://www.youtube.com/c/RMAFIRE
+        url: https://www.youtube.com/@RMAFIRE
         description: RMA Houdini Tutorials.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Add VFX to Cinematic RAW and LOG Footage
-        url: https://youtu.be/LssHxDCM7H4
+        url: https://www.youtube.com/@InLightVFX
         description: Add VFX to Cinematic RAW and LOG Footage.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺🏪 AAA Ghibli Forest in Blender & Unreal ~ ShinGidora
-        url: https://youtu.be/2Lu2VBG1JE0
+        url: https://www.youtube.com/@ShinGidora
         description: '[demo,Blender,asset] - good tips, though is promotion for his TREEBOX commercial script.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 📺 BEST 3D TREE in anime STYLE ~ GraphicLine Games
-        url: https://youtu.be/kI8pSj-9Xxw
-        description: 📺 BEST 3D TREE in anime STYLE ~ GraphicLine Games.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 UNDERSTAND and RECREATE a Fortnite-like Landscape Material ~ Imphenzia
-        url: https://youtu.be/W6VZcyKU_Nk
-        description: '[asset,Blender,optimize,environment].'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: 📺 I Nailed the Anime Look ~ SILKROAD Project
-        url: https://youtu.be/nyRcPMOpxcI
+        url: https://www.youtube.com/@SilkroadProjectGame
         description: '[optimize,Houdini ,character,asset] - outline & shadows part of UV, not filter.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 many techniques available for Stylized Grass ~ Ghislain Girardot
-        url: https://youtu.be/pVKDfZMffpc
+        url: https://www.youtube.com/@ghislaingirardot
         description: '[Blender,asset,environment].'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 📺 Materials for Linear Content ~ Unreal Engine
-        url: https://youtu.be/C-27tmCzXsE
-        description: '[livestream,analysis] - various material creation techniques.'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: 📺 Environment Art Breakdown ~ Stylized Station
-        url: https://youtu.be/SonheTAwcUI
+        url: https://www.youtube.com/@StylizedStation
         description: '[Blender,environment] - by Melissa Perl.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 📺 Witcher 4 Baked Water Simulation ~ Aziel Arts
-        url: https://youtu.be/akHCbIECFX8
-        description: '[animation,physics] - easy realistic looking river.'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: 📺 Material Ambient Occlusion ~ William Faucher
-        url: https://youtu.be/65cgc3jbNlg
+        url: https://www.youtube.com/@WilliamFaucher
         description: '[msc-ue] - bake Ambient Occlusion maps onto models.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 BOOST Foliage Performance ~ Joshua M Kerr
-        url: https://youtu.be/fjuLE3Artic
+        url: https://www.youtube.com/@JoshuaMKerr
         description: '[optimize,material] - world offset in material.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Animators React to KPop Demon Hunters - ft. THE DIRECTORS ~ Corridor Crew
-        url: https://youtu.be/e7L-ka-MsEE
+        url: https://www.youtube.com/@CorridorCrew
         description: '[animation,other].'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 📺 How this UE5 film won an Oscar ~ Josh Toonen
-        url: https://youtu.be/eOQM1Tbyw0Y
-        description: '[animation,character,msc-ue].'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 Green Screen VFX ~ Dean Yurke
-        url: https://youtu.be/rzMRSDxg33Q
+      - name: Dean Yurke - Unreal Engine and VFX Filmmaking
+        url: https://www.youtube.com/@DeanYurke
         description: '[video,camera] - Pro movie VFX artist explains his process.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: '📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte'
-        url: https://youtu.be/mNr5K2tIAg8
+        url: https://www.youtube.com/@kibibytecompany
         description: '[post-process,pre-process,environment] - custom look, LUTs, etc.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 📺 5 Features you Didn't know Unreal Already has ~ Game Dev Cave
-        url: https://youtu.be/M5bg1SBBRs0
-        description: '[tool,GAS] - 3d text, paper2D, gameplay ability system, scriptable tools, actor pallette .'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: 📺 25 Tips and Tricks  ~ Unreal University
-        url: https://youtu.be/ocKFXjut6ls
+        url: https://www.youtube.com/@UnrealUniversity
         description: '[optimize] - mostly shortcuts.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 📺 UE5.7 AI Assistant ~ Tony Munoz
-        url: https://youtu.be/FH1IjxOFQnQ
+      - name: Tony Munoz | Game Creator Accelerator
+        url: https://www.youtube.com/@TonyMunozDev
         description: '[tool] - Unreal Engine 5.7 Preview.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Hunyuan 2.1 Install Guide ~ Stefan 3D AI Lab
-        url: https://youtu.be/yDWj3UJY0RA
+        url: https://www.youtube.com/@stefan_ai_3d
         description: '[asset] ([text guide](https://digital-tails.notion.site/Hunyuan3D-2-1-Installation-Guide-2372bcde81ff80438d0efc90fc59ddb7)) - ComfyUI.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 CHEAPEST Motion Capture Setup for Metahumans ~ Charlie Driscoll
-        url: https://youtu.be/M799eoMK4tw
+        url: https://www.youtube.com/@CharlieDriscollFilm
         description: '[animation,rig] - for filmmaking.'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 Materials in 6 Levels of Complexity ~ pwnisher
-        url: https://youtu.be/iZgbzwBQTPY
-        description: '[tool] ([Master Material FAB](https://www.fab.com/listings/95f437fe-024e-455e-ad8e-a14bb1128131)) - fast.'
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 This is the Kuwahara Filter ~ Acerola
-        url: https://youtu.be/LDhN-JK3U9g
-        description: '[demo] - not Unreal specific, more about maths.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1782,55 +1577,28 @@ subsections:
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Getting Started with 3DGS for Windows
-        url: https://youtu.be/UXtuigy_wYc?si=j1vfORNspcocSH-b
-        description: Getting Started with 3DGS for Windows.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: How to view 3DGS Scenes in Unity
-        url: https://youtu.be/5_GaPYBHqOo?si=6u9j1HqXwF_5WSUL
-        description: How to view 3DGS Scenes in Unity.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Two-minute explanation of 3DGS
-        url: https://youtu.be/HVv_IQKlafQ?si=w5c9XKHfKIBuXDLW
+        url: https://www.youtube.com/@IndividualKex
         description: Two-minute explanation of 3DGS.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Computerphile 3DGS explanation
-        url: https://youtu.be/VkIJbpdTujE?si=1GLjzBfF9LCuT22o
+        url: https://www.youtube.com/@Computerphile
         description: Computerphile 3DGS explanation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 'Lecture 18: Monte Carlo Rendering (CMU 15-462/662)'
-        url: https://youtu.be/FUZJNlRqrAc
+        url: https://www.youtube.com/@keenancrane
         description: Including a very good introduction of importance sampling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Animation Programming Basics
-        url: https://youtu.be/Jkv0pbp0ckQ
+        url: https://www.youtube.com/@BobbyAnguelov
         description: Animation Programming Basics.
         entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: OpenGL 3D Game Tutorials
-        url: https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
-        description: Beginners tutorial series about creating 3D games OpenG.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Introduction to Machine Learning (Rebelway)
-        url: https://www.youtube.com/watch?v=tQGfTzgxQIc
-        description: ML for VFX artists.
-        entry_type: tutorial
-        readme_tags:
-          - VFX-focused
-          - Intro
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Introduction to Machine Learning (Course)
@@ -2393,18 +2161,6 @@ subsections:
       - name: Women in AI Ethics
         url: https://womeninaiethics.org/about-us/
         description: Community of women who are leaders in the AI ethics industry.
-        entry_type: community
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 Simple Stylization Techniques | GDC 2024 ~  Chris Murphy
-        url: https://youtu.be/exMzwH7EJUY
-        description: '[blueprint] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized ''fog of war''.'
-        entry_type: community
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 "Step by step" Procedural Animation ~ Lincoln Margison
-        url: https://youtu.be/E23zeX0Mttc
-        description: '[animation,character,asset] ([reddit](https://www.reddit.com/r/UnrealEngine5/comments/1qggyzu/a_few_days_ago_i_posted_a_clip_of_this_procedural/)) - spider.'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok

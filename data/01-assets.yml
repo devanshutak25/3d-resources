@@ -1614,24 +1614,6 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 📺 Turn ANY rock into STYLIZED ~ GraphicLine Games
-        url: https://youtu.be/VlQ4Tq_fouQ
-        description: '[asset,Lumin,shader] ([Ghibli Shader Texture Generator](https://graphicline.gumroad.com/l/dcqlie)).'
-        entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 Cartoon Cel Shader 2.0 ~ Sandvector Studios
-        url: https://youtu.be/kKhTLnQW-p0
-        description: '[material] ([Face Shadow Texture Generator file](https://www.artstation.com/marketplace/p/Vmvmm/face-shadow-texture-generator)).'
-        entry_type: marketplace
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 📺 Not the usual Fire Torch - w/ Tristan ~ Visual Tech Art
-        url: https://youtu.be/wEwq2UNkdDI
-        description: '[texture].'
-        entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: ShaderExpo
         url: https://anuraghazra.github.io/ShaderExpo/
         description: Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
@@ -2203,9 +2185,9 @@ subsections:
     description: Music often used in demo reels and reference tracks.
     entries:
       - name: Jake Chudnow
-        url: https://www.youtube.com/jakechudnow
+        url: https://www.youtube.com/@jakechudnow
         description: Composer whose tracks are widely used in reels.
-        entry_type: reference
+        entry_type: channel
         readme_tags:
           - Composer
           - Reel Favorite
@@ -2220,28 +2202,28 @@ subsections:
           - Atmospheric
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Nujabes - Luv(sic)
-        url: https://www.youtube.com/watch?v=2juNu52zNY0
+      - name: C2Cdjsofficial
+        url: https://www.youtube.com/@C2Cdjsofficial
         description: Classic lo-fi reel track.
-        entry_type: reference
+        entry_type: channel
         readme_tags:
           - Lo-fi
           - Classic
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Mr Oizo - Flat Beat
-        url: https://www.youtube.com/watch?v=qmsbP13xu6k
+      - name: fcommunications
+        url: https://www.youtube.com/@fcommunications
         description: Electronic reel favorite.
-        entry_type: reference
+        entry_type: channel
         readme_tags:
           - Electronic
           - Reel Favorite
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Lemaitre - Closer
-        url: https://www.youtube.com/watch?v=dSYu8FLVr_Y
+      - name: Trap Nation
+        url: https://www.youtube.com/@TrapNation
         description: Popular reel music.
-        entry_type: reference
+        entry_type: channel
         readme_tags:
           - Electronic
           - Vocal
@@ -2717,12 +2699,6 @@ subsections:
         url: https://gumroad.com/l/hPXIh
         description: Asset Creation Toolset is many tools for game asset creation.
         entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Grant Abbitt
-        url: https://www.youtube.com/user/mediagabbitt/videos
-        description: modeling, animation, sculpting, low-poly, game assets.
-        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: UAssetAPI

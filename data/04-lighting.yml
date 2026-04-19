@@ -15,10 +15,10 @@ subsections:
           - helloluxx
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Lighting for BEGINNERS (C4D)
-        url: https://www.youtube.com/watch?v=Wpc8Nyr8Gzo
+      - name: The Digital Revolution
+        url: https://www.youtube.com/@TheDigitalRevolutionTV
         description: Beginner C4D lighting.
-        entry_type: tutorial
+        entry_type: channel
         tags:
           skill:
             - beginner
@@ -28,9 +28,9 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Get Better Lighting in C4D
-        url: https://www.youtube.com/watch?v=dcLT_1mskBU
+        url: https://www.youtube.com/@lukasthorup
         description: Improve C4D lighting.
-        entry_type: tutorial
+        entry_type: channel
         readme_tags:
           - C4D
           - Lighting
@@ -45,24 +45,6 @@ subsections:
           - Blog
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Lighting with Only HDRIs? You're Doing it Wrong!
-        url: https://www.youtube.com/watch?v=KbuUzj0Yj4A
-        description: HDRI lighting critique and technique.
-        entry_type: tutorial
-        readme_tags:
-          - HDRI
-          - Technique
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: The Light Series (Playlist)
-        url: https://www.youtube.com/playlist?list=PLsuP4YwchAsz66cPok9hoAo6zaUtwkHhA
-        description: Playlist of lighting tutorials.
-        entry_type: tutorial
-        readme_tags:
-          - Playlist
-          - Lighting Series
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Creative Shrimp
         url: https://www.creativeshrimp.com/
         description: High quality CG tutorials and Blender tutorials, digital art and lighting tutorials with Gleb and Aidy.
@@ -74,9 +56,9 @@ subsections:
     description: Redshift lighting tutorials, primarily in C4D.
     entries:
       - name: Creative Product Lighting with Redshift & C4D
-        url: https://www.youtube.com/watch?v=O-UFZXSpv9o
+        url: https://www.youtube.com/@MaxonVFX
         description: Jarred van de Voort, NAB 2023.
-        entry_type: tutorial
+        entry_type: channel
         tags:
           output:
             - product-viz
@@ -86,36 +68,27 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Redshift Lighting Techniques (Essential MoGraph)
-        url: https://www.youtube.com/watch?v=fXYaonYJ_PY
+        url: https://www.youtube.com/@MaxonTrainingTeam
         description: Redshift lighting techniques.
-        entry_type: tutorial
+        entry_type: channel
         readme_tags:
           - Redshift
           - MoGraph
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Redshift Light Groups
-        url: https://www.youtube.com/watch?v=sms_DSANx_s
+      - name: You And Me Academy
+        url: https://www.youtube.com/@YouAndMeAcademy
         description: Light groups workflow.
-        entry_type: tutorial
+        entry_type: channel
         readme_tags:
           - Light Groups
           - Workflow
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Mesh Light in C4D with Redshift
-        url: https://www.youtube.com/watch?v=AO68QzMSedc
-        description: Mesh-based lighting in C4D.
-        entry_type: tutorial
-        readme_tags:
-          - Mesh Light
-          - C4D
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Redshift Interior Materials & Lighting
-        url: https://www.youtube.com/watch?v=-Y29-qi6wqo
+        url: https://www.youtube.com/@Cinema4DTutorialsSV
         description: Interior materials and lighting.
-        entry_type: tutorial
+        entry_type: channel
         tags:
           output:
             - archviz
@@ -125,63 +98,22 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: How to Art Direct Lights in a Cloner
-        url: https://www.youtube.com/watch?v=hos1mDLqN4A
+        url: https://www.youtube.com/@MotionAndDesign
         description: Art-directing lights across cloners.
-        entry_type: tutorial
+        entry_type: channel
         readme_tags:
           - Cloner
           - Art Direction
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Fast Caustics & Comp Breakdown
-        url: https://www.youtube.com/watch?v=4dBHH4mZGcI
-        description: Fast caustics and compositing breakdown.
-        entry_type: tutorial
-        readme_tags:
-          - Caustics
-          - Comp
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Photo-realistic Boutique (Redshift)
-        url: https://www.youtube.com/watch?v=slrrHKYdnok
-        description: Vladislav Solovjov photoreal boutique scene ([Part 2](https://www.youtube.com/watch?v=d6OPrmd_y78) | [IBC 2022](https://www.youtube.com/watch?v=tcHVoENlVhc)).
-        entry_type: tutorial
-        tags:
-          output:
-            - archviz
-            - product-viz
-        readme_tags:
-          - Photoreal
-          - Boutique
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Redshift HDRI Creator
-        url: https://m.youtube.com/watch?v=HAWRBdkl1w4
-        description: Create/edit HDRIs
-        entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: lighting-production
     title: 3D Lighting — Production
     description: Production-focused lighting talks.
     entries:
-      - name: Phil Roberts — Lighting for Production (NAB 2024)
-        url: https://www.youtube.com/watch?v=oANXbk9OUbI
-        description: Production lighting talk.
-        entry_type: tutorial
-        tags:
-          output:
-            - film-vfx
-            - broadcast
-        readme_tags:
-          - Production
-          - NAB 2024
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: UE5 Product Viz — iPhone Lighting Breakdown
-        url: https://www.youtube.com/watch?v=_FvCMxKaK7c
+        url: https://www.youtube.com/@ali.3d
         description: UE5 product viz iPhone lighting breakdown.
-        entry_type: tutorial
+        entry_type: channel
         tags:
           output:
             - product-viz
@@ -739,44 +671,38 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 📺 Physically Based Cel Shading ~ Visual Tech Art
-        url: https://youtu.be/eBS3BOI5KnM
-        description: '[pre-process,blueprint] - Physically Based pipeline.'
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: 📺 stylized comic book shader ~ Chris Folea Makes Things
-        url: https://youtu.be/Ctx1TP0XDUM
+        url: https://www.youtube.com/@CFMakesThings
         description: '[pre-process,blueprint] - WITHOUT post processing.'
-        entry_type: reference
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Cel-Shader playlist ~ many
-        url: https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f
+        url: https://www.youtube.com/@YourSandbox
         description: '[post-process,Lumin,msc-ue] - 17 videos.'
-        entry_type: reference
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Moebius-style 3D Rendering ~ Useless Game Dev
-        url: https://youtu.be/jlKNOirh66E
+        url: https://www.youtube.com/@uselessgamedev
         description: '[pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.'
-        entry_type: reference
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Manga/outline Shader playlist ~ many
-        url: https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w
+        url: https://www.youtube.com/@HepnerKamil
         description: '[post-process,shader] - 18 videos, outlines, toon shaders.'
-        entry_type: reference
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: 📺 Advanced Cel Shader ~ Pitchfork Academy
-        url: https://youtu.be/HDyswSWIdY0
+        url: https://www.youtube.com/@PitchforkAcademy
         description: '[material].'
-        entry_type: reference
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Advanced Materials in Blender - Shader Editor Tutorial.
-        url: https://www.youtube.com/watch?v=iVjnS5Z77Ww
+        url: https://www.youtube.com/@SurfacedStudio
         description: Advanced Materials in Blender - Shader Editor Tutorial..
         entry_type: channel
         url_last_verified: '2026-04-19'
@@ -784,12 +710,6 @@ subsections:
       - name: Lightning Boy Studio
         url: https://www.youtube.com/channel/UCd9i2MKimSaKezat1xkn8-A/videos
         description: toon shader, npr.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Ben Cloward
-        url: https://www.youtube.com/user/bcloward
-        description: Focused primarily on shader creation tutorials.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1610,20 +1530,14 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: An introduction to Shader Art Coding
-        url: https://youtu.be/f4s1h2YETNY
+        url: https://www.youtube.com/@kishimisu
         description: Video tutuorial showing the basics of creating art with shaders.
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: 'CppCon 2018: Valentin Galea “Rapid Prototyping of Graphics Shaders in Modern C++”'
-        url: https://www.youtube.com/watch?v=8FoAxasNssA
-        description: Also implemented swizzling with similar techniques.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MFGD - Fragment Shaders
-        url: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWMpFSRpeMmSBGDShbkiV1Cq
-        description: YouTube playlist about fragment shaders.
+      - name: 'CppCon 2018: Valentin Galea “Rapid Prototyping of Graphics Shaders in Modern C++”'
+        url: https://www.youtube.com/@CppCon
+        description: Also implemented swizzling with similar techniques.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1639,21 +1553,9 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Shader Tutorial Series
-        url: https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7
-        description: YouTube playlist about Shaders, using Visual Studio Code.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Vertexshaderart
         url: https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw
         description: YouTube playlist about vertex shaders.
-        entry_type: channel
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Shadertoy Tutorials
-        url: https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5
-        description: YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1661,6 +1563,12 @@ subsections:
         url: https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/
         description: Writing an efficient Vulkan renderer.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
+      - name: OpenGL 3D Game Tutorials
+        url: https://www.youtube.com/@ThinMatrix
+        description: Beginners tutorial series about creating 3D games OpenG.
+        entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
   - slug: renderer-specific-learning

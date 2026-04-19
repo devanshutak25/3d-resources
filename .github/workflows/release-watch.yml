@@ -2,7 +2,7 @@ name: Release watcher
 
 on:
   schedule:
-    - cron: '0 7 * * 1'   # Mondays 07:00 UTC (after link check)
+    - cron: '0 7 1 * *'   # 1st of month 07:00 UTC (after link check)
   workflow_dispatch:
 
 permissions:
