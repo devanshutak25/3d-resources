@@ -6,45 +6,6 @@ subsections:
     title: 3D Software — Free
     description: Free and open-source 3D software.
     entries:
-      - name: Blender
-        url: https://www.blender.org/
-        description: Industry-standard open-source suite. Modeling, sculpting, rigging, animation, simulation, rendering, compositing.
-        license: Open Source
-        entry_type: software
-        best_for: Professional 3D, VFX, game dev, arch-viz
-        tags:
-          workflow:
-            - modeling
-            - sculpting
-            - rigging
-            - animation
-            - simulation
-            - fx
-            - lighting
-            - rendering
-            - compositing
-          output:
-            - games
-            - film-vfx
-            - archviz
-            - motion-graphics
-            - generalist
-          platform:
-            - win
-            - mac
-            - linux
-          skill:
-            - beginner
-            - intermediate
-            - advanced
-          tech:
-            - path-tracing
-            - real-time
-            - opensource-alt
-            - node-based
-        readme_tags:
-          - Full Pipeline
-          - Cross-Platform
       - name: SculptGL
         url: https://stephaneginier.com/sculptgl/
         description: WebGL browser sculpting with dynamic topology.
@@ -63,6 +24,8 @@ subsections:
         readme_tags:
           - Browser
           - Dynamic Topology
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Tinkercad
         url: https://www.tinkercad.com/
         description: Browser-based CSG modeling.
@@ -82,6 +45,8 @@ subsections:
         readme_tags:
           - Browser
           - Education
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Wings 3D
         url: https://www.wings3d.com/
         description: Subdivision surface modeler.
@@ -100,6 +65,8 @@ subsections:
         readme_tags:
           - Subdiv Modeling
           - Lightweight
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: MagicaVoxel
         url: https://ephtracy.github.io/
         description: GPU voxel editor with path tracing.
@@ -122,6 +89,8 @@ subsections:
         readme_tags:
           - Voxel
           - Path Tracing
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: MagicaCSG
         url: https://ephtracy.github.io/index.html?page=magicacsg
         description: SDF modeling with real-time booleans.
@@ -142,6 +111,8 @@ subsections:
         readme_tags:
           - SDF
           - Windows-only
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: VRoid Studio
         url: https://vroid.com/en/studio/
         description: Anime-style 3D character creator.
@@ -161,6 +132,8 @@ subsections:
         readme_tags:
           - Anime Characters
           - VTuber
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: SDF Modeler
         url: https://sascha-rode.itch.io/sdf-modeler
         description: Experimental SDF-based non-destructive procedural 3D modeler.
@@ -182,6 +155,8 @@ subsections:
         readme_tags:
           - SDF
           - Non-destructive
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Sculptris
         url: https://sculptris.br.uptodown.com/windows
         description: Original free digital sculpting from Pixologic (predecessor to ZBrush Core).
@@ -195,35 +170,12 @@ subsections:
         readme_tags:
           - Free
           - Introductory Sculpt
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: 3d-software-free-tier
     title: 3D Software — Free Tier
     description: Freemium 3D software with free tier available.
     entries:
-      - name: Spline
-        url: https://spline.design/
-        description: Browser-based 3D design for web and interactive content.
-        pricing: Free tier, Starter $12/mo, Pro $20/mo
-        license: Freemium
-        entry_type: software
-        best_for: Web designers, interactive content
-        tags:
-          workflow:
-            - modeling
-            - animation
-            - rendering
-          output:
-            - product-viz
-            - motion-graphics
-            - generalist
-          platform:
-            - web
-            - mac
-          tech:
-            - real-time
-            - collaborative
-        readme_tags:
-          - Browser
-          - Interactive
       - name: Womp3D
         url: https://www.womp.com/
         description: Playful browser-based 3D modeler for product design.
@@ -244,6 +196,8 @@ subsections:
         readme_tags:
           - Browser
           - Product Design
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Vectary
         url: https://www.vectary.com/
         description: Browser-based 3D for e-commerce and product visualization.
@@ -264,71 +218,12 @@ subsections:
         readme_tags:
           - Browser
           - E-commerce
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: 3d-software-paid
     title: 3D Software — Paid
     description: Professional paid 3D software.
     entries:
-      - name: Cinema 4D
-        url: https://www.maxon.net/
-        description: Motion graphics and VFX DCC from Maxon.
-        pricing: ~$70/mo annual
-        license: Paid
-        entry_type: software
-        best_for: Motion graphics, VFX, advertising
-        tags:
-          workflow:
-            - modeling
-            - animation
-            - lighting
-            - rendering
-            - simulation
-          output:
-            - motion-graphics
-            - film-vfx
-            - broadcast
-            - product-viz
-          platform:
-            - win
-            - mac
-          tech:
-            - node-based
-        readme_tags:
-          - Motion Graphics
-          - Mograph Module
-      - name: Houdini
-        url: https://www.sidefx.com/
-        description: Procedural VFX DCC. Free Apprentice (non-commercial) for learning, Indie tier available.
-        pricing: Indie $269/yr, Free Apprentice
-        license: Paid
-        notes: Apprentice edition free for non-commercial use.
-        entry_type: software
-        best_for: Film VFX, procedural modeling
-        tags:
-          workflow:
-            - modeling
-            - simulation
-            - fx
-            - animation
-            - rendering
-            - lighting
-          output:
-            - film-vfx
-            - games
-            - motion-graphics
-          platform:
-            - win
-            - mac
-            - linux
-          skill:
-            - intermediate
-            - advanced
-          tech:
-            - procedural
-            - node-based
-            - usd
-        readme_tags:
-          - Procedural
-          - VFX
       - name: Maya
         url: https://www.autodesk.com/products/maya/
         description: Film-industry animation and VFX DCC.
@@ -357,6 +252,8 @@ subsections:
         readme_tags:
           - Industry Standard
           - Film Animation
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: ZBrush
         url: https://www.maxon.net/en/zbrush
         description: Industry-standard digital sculpting from Maxon.
@@ -380,6 +277,8 @@ subsections:
         readme_tags:
           - Industry Standard
           - iPad Version
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: 3DCoat
         url: https://3dcoat.com/
         description: Voxel sculpting, retopology, and UV toolkit.
@@ -405,6 +304,8 @@ subsections:
         readme_tags:
           - Voxel Sculpt
           - Retopo
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Marvelous Designer
         url: https://www.marvelousdesigner.com/
         description: Cloth simulation and garment design software.
@@ -428,6 +329,8 @@ subsections:
         readme_tags:
           - Garment Sim
           - Cloth
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Clo3D
         url: https://www.clo3d.com/
         description: Fashion-focused garment design and cloth simulation.
@@ -450,6 +353,8 @@ subsections:
         readme_tags:
           - Fashion
           - Garment Sim
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Substance 3D Modeler
         url: https://www.adobe.com/products/substance3d/apps/modeler.html
         description: Adobe's VR and desktop sculpting tool.
@@ -471,30 +376,8 @@ subsections:
         readme_tags:
           - VR Sculpt
           - Adobe Suite
-      - name: 3ds Max
-        url: https://www.autodesk.com/products/3ds-max/
-        description: Autodesk DCC focused on arch-viz and games.
-        pricing: $255/mo (Indie $330/yr)
-        license: Paid
-        entry_type: software
-        best_for: Arch-viz, games, film VFX
-        tags:
-          workflow:
-            - modeling
-            - animation
-            - rendering
-            - lighting
-          output:
-            - archviz
-            - games
-            - film-vfx
-          platform:
-            - win
-          tech:
-            - indie-license
-        readme_tags:
-          - Arch-Viz
-          - Windows-only
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Moi3D
         url: http://moi3d.com/
         description: NURBS modeler for industrial and product design.
@@ -516,6 +399,8 @@ subsections:
         readme_tags:
           - NURBS
           - Perpetual License
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Nomad Sculpt
         url: https://nomadsculpt.com/
         description: Mobile digital sculpting for iPad and Android.
@@ -541,6 +426,8 @@ subsections:
         readme_tags:
           - iPad Sculpt
           - One-time Purchase
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: SketchUp
         url: https://www.sketchup.com/
         description: Architectural and interior-design-oriented 3D modeler.
@@ -563,6 +450,8 @@ subsections:
           - Arch-Viz
           - Easy Learning Curve
         notes: SketchUp for Schools free for K-12 students/educators. No general free tier as of 2026.
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Modo
         url: https://www.foundry.com/products/modo
         description: Foundry's 3D modeling, texturing, rendering package.
@@ -583,6 +472,8 @@ subsections:
         readme_tags:
           - Foundry
           - Modeling Focus
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Daz 3D
         url: https://www.daz3d.com/
         description: Character-focused 3D software w/ large marketplace of figures and morphs. Free core app.
@@ -601,6 +492,8 @@ subsections:
         readme_tags:
           - Characters
           - Huge Marketplace
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: cad-software
     title: CAD Software
     description: Computer-aided design tools.
@@ -624,6 +517,8 @@ subsections:
         readme_tags:
           - Parametric
           - Open Source
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Onshape Free
         url: https://www.onshape.com/en/products/free
         description: Cloud-based CAD with free hobbyist tier (public projects).
@@ -643,6 +538,8 @@ subsections:
         readme_tags:
           - Cloud CAD
           - Collaborative
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Fusion 360 Personal
         url: https://www.autodesk.com/products/fusion-360/personal
         description: Autodesk's CAD/CAM free for personal hobbyist use.
@@ -660,6 +557,8 @@ subsections:
         readme_tags:
           - CAD/CAM
           - Personal Free
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: OpenSCAD
         url: https://openscad.org/
         description: Code-based CAD for parametric design.
@@ -681,6 +580,8 @@ subsections:
         readme_tags:
           - Script-Based
           - Parametric
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: LibreCAD
         url: https://librecad.org/
         description: Free open-source 2D CAD.
@@ -700,6 +601,8 @@ subsections:
         readme_tags:
           - 2D CAD
           - Drafting
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: AutoCAD
         url: https://www.autodesk.com/products/autocad
         description: Industry-standard 2D/3D CAD.
@@ -719,6 +622,8 @@ subsections:
         readme_tags:
           - Industry Standard
           - 2D/3D Drafting
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: SolidWorks
         url: https://www.solidworks.com/
         description: Mechanical CAD for engineers.
@@ -737,6 +642,8 @@ subsections:
         readme_tags:
           - Mechanical CAD
           - Simulation
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: CATIA
         url: https://www.3ds.com/products/catia
         description: Dassault Systèmes CAD for aerospace and automotive.
@@ -754,6 +661,8 @@ subsections:
         readme_tags:
           - Aerospace
           - Automotive
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Rhino
         url: https://www.rhino3d.com/
         description: NURBS-focused 3D modeling for architecture and product design.
@@ -775,14 +684,20 @@ subsections:
         readme_tags:
           - NURBS
           - Grasshopper
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: GrabCAD
         url: https://grabcad.com
         description: Community CAD model library.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Thingiverse
         url: https://thingiverse.com
         description: 3D-printing model community.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Solvespace
         url: https://solvespace.com/index.pl
         description: Parametric 3D CAD modeling tool.
@@ -800,6 +715,8 @@ subsections:
         readme_tags:
           - Parametric
           - Lightweight
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: 2d-animation-software
     title: 2D & Animation Software
     description: Digital painting, illustration, 2D animation.
@@ -827,6 +744,8 @@ subsections:
         readme_tags:
           - Digital Painting
           - Animation
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Clip Studio Paint
         url: https://www.clipstudio.net/
         description: Industry-standard illustration and comics with animation timeline.
@@ -849,6 +768,8 @@ subsections:
         readme_tags:
           - Manga
           - Frame-by-Frame
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Procreate
         url: https://procreate.com/
         description: iPad painting app. Procreate Dreams for animation.
@@ -871,6 +792,8 @@ subsections:
         readme_tags:
           - iPad-native
           - Storyboarding
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Aseprite
         url: https://www.aseprite.org/
         description: Pixel art editor with animation tools ([source on GitHub](https://github.com/aseprite/aseprite)).
@@ -891,6 +814,8 @@ subsections:
         readme_tags:
           - Pixel Art
           - Sprite Animation
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Toon Boom Harmony
         url: https://www.toonboom.com/products/harmony
         description: Professional 2D animation (studio standard).
@@ -909,6 +834,8 @@ subsections:
         readme_tags:
           - Studio Standard
           - TV Animation
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Toon Boom Storyboard Pro
         url: https://www.toonboom.com/products/storyboard-pro
         description: Industry-standard storyboarding software.
@@ -927,6 +854,8 @@ subsections:
         readme_tags:
           - Storyboarding
           - Animatics
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Moho (Smith Micro)
         url: https://moho.lostmarble.com/
         description: 2D vector and bone-rigged animation.
@@ -946,6 +875,9 @@ subsections:
         readme_tags:
           - Bone Rigging
           - Vector Animation
+        url_last_verified: '2026-04-19'
+        url_status: broken
+        deprecated: true
       - name: Pixel Composer
         url: https://makham.itch.io/pixel-composer
         description: Node-based 2D VFX and compositing for pixel art.
@@ -965,6 +897,8 @@ subsections:
         readme_tags:
           - Node-based
           - Pixel VFX
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: OpenToonz
         url: https://opentoonz.github.io/e/
         description: Studio Ghibli's animation engine, open-sourced.
@@ -984,6 +918,8 @@ subsections:
         readme_tags:
           - Ghibli Pipeline
           - Traditional 2D
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Pencil2D
         url: https://www.pencil2d.org/
         description: Free lightweight 2D animation.
@@ -1005,6 +941,8 @@ subsections:
         readme_tags:
           - Lightweight
           - Hand-drawn
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Synfig Studio
         url: https://www.synfig.org/
         description: Free open-source 2D vector animation.
@@ -1025,6 +963,8 @@ subsections:
         readme_tags:
           - Vector
           - Cutout
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Rive
         url: https://rive.app/
         description: Interactive animation for apps and web.
@@ -1048,6 +988,8 @@ subsections:
         readme_tags:
           - Interactive
           - UI Animation
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Cavalry
         url: https://cavalry.scenegroup.co/
         description: Procedural 2D motion design (After Effects alternative).
@@ -1069,6 +1011,8 @@ subsections:
         readme_tags:
           - Procedural
           - Data-Driven
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Spine (Esoteric Software)
         url: https://esotericsoftware.com/
         description: 2D skeletal animation w/ mesh deformation, IK, skins/attachments. Runtimes for Unity/Unreal/Godot/web. Used on Cult of the Lamb, Return to Monkey Island, Tinykin.
@@ -1088,30 +1032,44 @@ subsections:
         readme_tags:
           - Skeletal
           - Game Runtimes
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Krita Resources
         url: https://krita.org/en/resources/
         description: Official brushes, textures, templates.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Clip Studio Assets
         url: https://assets.clip-studio.com/en-us/
         description: Brushes, materials, 3D models, auto-actions.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Procreate Handbook
         url: https://procreate.com/handbook
         description: Official guide and brush library.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Toon Boom Learn
-        url: https://learn.toonboom.com/
+        url: https://www.toonboom.com/community/learn
         description: Official tutorials and documentation.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Aseprite Docs
         url: https://www.aseprite.org/docs/
         description: Official documentation and scripting API.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: OpenToonz GitHub
         url: https://github.com/opentoonz/opentoonz
         description: Source, plugins, and documentation.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Tahoma2D
         url: https://tahoma2d.org/
         description: 2D and stop-motion animation (OpenToonz fork w/ modernized UI and features).
@@ -1132,6 +1090,8 @@ subsections:
         readme_tags:
           - OpenToonz Fork
           - Stop Motion
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: DragonBones
         url: http://dragonbones.effecthub.com
         description: Open source 2D skeletal animation — Flash-origin workflow, runtimes for multiple engines.
@@ -1146,6 +1106,8 @@ subsections:
         readme_tags:
           - Open Source
           - 2D Skeletal
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Spriter Pro
         url: https://brashmonkey.com/download-spriter-pro/
         description: Modern tool for sprite animation (2D bone rigging).
@@ -1162,6 +1124,8 @@ subsections:
         readme_tags:
           - Sprite Animation
           - Paid
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: GraphicsGale
         url: https://graphicsgale.com/us/
         description: Pixel art and sprite animation tool (free).
@@ -1177,6 +1141,8 @@ subsections:
         readme_tags:
           - Pixel Art
           - Free
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: vfx-compositing-software
     title: VFX & Compositing Software
     description: VFX, compositing, and real-time simulation tools.
@@ -1203,6 +1169,8 @@ subsections:
         readme_tags:
           - Industry Standard
           - Node-based
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: DaVinci Resolve Fusion
         url: https://www.blackmagicdesign.com/products/davinciresolve/fusion
         description: Node-based compositing, free with Resolve.
@@ -1226,6 +1194,8 @@ subsections:
         readme_tags:
           - Node-based
           - Free with Resolve
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Natron
         url: https://natrongithub.github.io/
         description: Free open-source node compositor, Nuke-like.
@@ -1248,6 +1218,8 @@ subsections:
         readme_tags:
           - Node-based
           - Nuke-like
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: EmberGen
         url: https://jangafx.com/software/embergen/
         description: Real-time volumetric fluid sim (fire, smoke, explosions).
@@ -1270,6 +1242,8 @@ subsections:
         readme_tags:
           - Real-time Sim
           - Fire/Smoke
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: LiquiGen
         url: https://jangafx.com/software/liquigen/
         description: Real-time liquid simulation.
@@ -1291,6 +1265,8 @@ subsections:
         readme_tags:
           - Real-time Sim
           - Liquids
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: GeoGen (JangaFX)
         url: https://jangafx.com/software/geogen/
         description: Real-time terrain generation.
@@ -1311,6 +1287,8 @@ subsections:
         readme_tags:
           - Terrain Gen
           - Real-time
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: After Effects
         url: https://www.adobe.com/products/aftereffects.html
         description: Motion graphics and compositing.
@@ -1333,18 +1311,26 @@ subsections:
         readme_tags:
           - Motion Graphics
           - Adobe Suite
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Nukepedia
         url: https://www.nukepedia.com/
         description: Free Nuke gizmos, tools, plugins, tutorials.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: JangaFX Docs
         url: https://docs.jangafx.com/
         description: Official EmberGen/LiquiGen documentation and how-to guides.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: ActionVFX
         url: https://www.actionvfx.com/
         description: VFX stock elements (explosions, fire, debris).
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: render-engines
     title: Render Engines
     description: Production render engines across CPU, GPU, biased, and unbiased path tracers.
@@ -1372,6 +1358,8 @@ subsections:
         readme_tags:
           - GPU-biased
           - Production
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Octane (OTOY)
         url: https://home.otoy.com/render/octane-render/
         description: GPU unbiased renderer with free tier.
@@ -1396,8 +1384,10 @@ subsections:
         readme_tags:
           - GPU Unbiased
           - Photoreal
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Arnold (Autodesk)
-        url: https://arnoldrenderer.com/
+        url: https://www.autodesk.com/products/arnold/overview
         description: CPU/GPU hybrid production renderer, bundled with Maya/3ds Max.
         pricing: With Maya/3ds Max sub
         license: Paid
@@ -1419,6 +1409,8 @@ subsections:
         readme_tags:
           - Film-grade
           - CPU/GPU Hybrid
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: V-Ray (Chaos)
         url: https://www.chaos.com/vray
         description: CPU/GPU hybrid renderer for arch-viz and product viz.
@@ -1441,6 +1433,8 @@ subsections:
         readme_tags:
           - Arch-Viz
           - Industry Standard
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Corona (Chaos)
         url: https://www.chaos.com/corona
         description: CPU renderer for arch-viz and interiors.
@@ -1460,6 +1454,8 @@ subsections:
         readme_tags:
           - CPU-only
           - Interiors
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Cycles
         url: https://www.cycles-renderer.org/
         description: CPU/GPU path tracer. Bundled free with Blender.
@@ -1484,6 +1480,8 @@ subsections:
         readme_tags:
           - Open Source
           - Path-tracing
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Karma (SideFX)
         url: https://www.sidefx.com/products/karma/
         description: CPU/GPU USD-native renderer, bundled with Houdini.
@@ -1507,6 +1505,8 @@ subsections:
         readme_tags:
           - USD-native
           - Houdini
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: RenderMan (Pixar)
         url: https://renderman.pixar.com/
         description: Pixar's CPU/GPU hybrid production renderer. Free for non-commercial.
@@ -1528,6 +1528,8 @@ subsections:
         readme_tags:
           - Free NC
           - Pixar Pipeline
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: KeyShot (Luxion)
         url: https://www.keyshot.com/
         description: CPU real-time ray tracing for product visualization.
@@ -1550,6 +1552,8 @@ subsections:
         readme_tags:
           - Product Viz
           - Real-time
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Marmoset Toolbag
         url: https://marmoset.co/toolbag/
         description: Real-time GPU renderer for game art and baking.
@@ -1573,6 +1577,8 @@ subsections:
         readme_tags:
           - Game Art
           - Baking
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: LuxCore
         url: https://luxcorerender.org/
         description: Free open-source CPU/GPU unbiased renderer.
@@ -1595,6 +1601,8 @@ subsections:
         readme_tags:
           - Open Source
           - Physically Accurate
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Guerrilla Render
         url: http://guerillarender.com/
         description: Production renderer used on feature films.
@@ -1613,6 +1621,8 @@ subsections:
         readme_tags:
           - Production
           - Free
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: D5 Render
         url: https://www.d5render.com/
         description: Real-time GPU renderer for arch-viz.
@@ -1633,6 +1643,8 @@ subsections:
         readme_tags:
           - Real-time
           - Arch-Viz
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Twinmotion (Epic)
         url: https://www.twinmotion.com/
         description: Real-time GPU renderer from Epic for arch-viz.
@@ -1654,6 +1666,8 @@ subsections:
         readme_tags:
           - Real-time
           - Epic Games
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Radeon ProRender (AMD)
         url: https://www.amd.com/en/products/graphics/software/radeon-prorender.html
         description: AMD's GPU path tracer, free and cross-vendor.
@@ -1675,30 +1689,44 @@ subsections:
         readme_tags:
           - GPU-agnostic
           - Free
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: RenderMan Community
         url: https://renderman.pixar.com/community
         description: Free RenderMan assets, shaders, HDRIs.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Chaos Cosmos
         url: https://www.chaos.com/cosmos
         description: Free V-Ray/Corona asset library (3D models, materials, HDRIs).
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Redshift Community
         url: https://redshift.maxon.net/
         description: Forums, shaders, resources.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Arnold Resources
-        url: https://arnoldrenderer.com/resources/
+        url: https://www.autodesk.com/products/arnold/resources
         description: Official shaders, docs, tutorials.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: OTOY Octane Render Cloud
         url: https://render.otoy.com/
         description: Free ORBX assets and cloud rendering.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Hexels
         url: https://www.marmoset.co/hexels/
         description: intuitive 2D, grid-based painting tool
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: MoonRay
         url: https://openmoonray.org/index
         description: DreamWorks' open-source MCRT production renderer used on feature films.
@@ -1715,30 +1743,44 @@ subsections:
         readme_tags:
           - DreamWorks
           - Open Source
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Falcor
         url: https://github.com/NVIDIAGameWorks/Falcor
         description: A real-time rendering framework supporting DirectX 12 aiming to improve the productivity of research and prototype projects.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: StratusGFX
         url: https://github.com/KTStephano/StratusGFX
         description: Free and open source Realtime 3D rendering engine.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Aurora
         url: https://github.com/Autodesk/Aurora
         description: A real-time path tracing renderer that enables fast product visualizations.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: kajiya
         url: https://github.com/EmbarkStudios/kajiya
         description: Experimental real-time global illumination renderer made with Rust and Vulkan.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Sunflow
         url: https://github.com/fpsunflower/sunflow
         description: Not maintained, Sunflow is an open source rendering system for photo-realistic image synthesis.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Yafaray
         url: https://github.com/YafaRay/libYafaRay
         description: libYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license. Raytracing is a rendering technique for generating realistic images by tracing the path of light t
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: video-editing-software
     title: Video Editing Software
     description: NLEs and post-production software.
@@ -1766,6 +1808,8 @@ subsections:
         readme_tags:
           - Free Pro
           - Full Post Pipeline
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Premiere Pro
         url: https://www.adobe.com/products/premiere.html
         description: Industry-standard NLE from Adobe.
@@ -1786,6 +1830,8 @@ subsections:
         readme_tags:
           - Industry Standard
           - Adobe Suite
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Final Cut Pro
         url: https://www.apple.com/final-cut-pro/
         description: Apple-native NLE with magnetic timeline.
@@ -1805,6 +1851,8 @@ subsections:
         readme_tags:
           - Mac-only
           - Magnetic Timeline
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Kdenlive
         url: https://kdenlive.org/
         description: Free open-source NLE.
@@ -1823,6 +1871,8 @@ subsections:
         readme_tags:
           - Open Source
           - Cross-Platform
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Shotcut
         url: https://shotcut.org/
         description: Free open-source video editor.
@@ -1843,6 +1893,8 @@ subsections:
         readme_tags:
           - Lightweight
           - Beginner-Friendly
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: GoZen
         url: https://gozen.voylin.com/
         description: Free open-source video editor built with Godot (alpha).
@@ -1862,18 +1914,26 @@ subsections:
         readme_tags:
           - Godot-built
           - Alpha
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: DaVinci Resolve Training
         url: https://www.blackmagicdesign.com/products/davinciresolve/training
         description: Official free training (hundreds of hours).
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Premiere Pro Learn
         url: https://helpx.adobe.com/premiere-pro/tutorials.html
         description: Official Adobe tutorials.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: OpenShot
         url: https://github.com/OpenShot/openshot-qt
         description: Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: audio-software
     title: Audio Software
     description: Audio editing, mixing, sound design, and SFX generation.
@@ -1899,6 +1959,8 @@ subsections:
         readme_tags:
           - Open Source
           - Recording
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Adobe Audition
         url: https://www.adobe.com/products/audition.html
         description: Professional audio workstation.
@@ -1921,6 +1983,8 @@ subsections:
         readme_tags:
           - Audio Restoration
           - Adobe Suite
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Reaper
         url: https://www.reaper.fm/
         description: Full DAW with $60 personal license.
@@ -1945,6 +2009,8 @@ subsections:
         readme_tags:
           - Full DAW
           - Affordable
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Fairlight
         url: https://www.blackmagicdesign.com/products/davinciresolve/fairlight
         description: Professional audio built into DaVinci Resolve.
@@ -1965,6 +2031,8 @@ subsections:
         readme_tags:
           - Film Post
           - Free with Resolve
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Soundly
         url: https://getsoundly.com/
         description: Desktop SFX platform with curated library and local library management.
@@ -1985,6 +2053,8 @@ subsections:
         readme_tags:
           - SFX Library
           - Desktop
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Bfxr
         url: https://www.bfxr.net/
         description: Retro and chiptune SFX generator (browser and desktop).
@@ -2004,6 +2074,8 @@ subsections:
         readme_tags:
           - Retro/8-bit
           - Generator
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Wavewright
         url: https://store.steampowered.com/app/4149720/Wavewright/
         description: Modular music sandbox inspired by analog synthesizers (Early Access).
@@ -2021,6 +2093,8 @@ subsections:
         readme_tags:
           - Modular Synth
           - Early Access
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: design-software
     title: Design Software
     description: UI/UX, vector, raster design apps.
@@ -2047,6 +2121,8 @@ subsections:
         readme_tags:
           - Collaborative
           - UI/UX
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Affinity
         url: https://affinity.studio/
         description: Unified vector, photo, and layout app. Free, by Canva.
@@ -2067,6 +2143,8 @@ subsections:
         readme_tags:
           - Free (Canva)
           - Vector + Raster
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Inkscape
         url: https://inkscape.org/
         description: Free open-source vector editor.
@@ -2088,6 +2166,8 @@ subsections:
         readme_tags:
           - Vector
           - SVG
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: GIMP
         url: https://www.gimp.org/
         description: Free open-source image editor.
@@ -2110,22 +2190,8 @@ subsections:
         readme_tags:
           - Open Source
           - Photoshop-alt
-      - name: Photopea
-        url: https://www.photopea.com/
-        description: Free browser-based PSD editor.
-        license: Free
-        entry_type: software
-        best_for: Quick texture edits, no install
-        tags:
-          workflow:
-            - texturing
-          output:
-            - generalist
-          platform:
-            - web
-        readme_tags:
-          - Browser
-          - PSD Support
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Penpot
         url: https://penpot.app/
         description: Open-source design platform. Native SVG/CSS/HTML output. Cloud-hosted or self-host. Figma alternative.
@@ -2146,14 +2212,20 @@ subsections:
         readme_tags:
           - Open Source
           - Figma-alt
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Figma Community
         url: https://www.figma.com/community/
         description: Free templates, plugins, UI kits.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Affinity Help Center
         url: https://www.affinity.studio/help/getting-started/
         description: Official tutorials, guides, getting started.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Pixelmator
         url: http://www.pixelmator.com
         description: Full-featured image editing app for the Mac.
@@ -2169,6 +2241,8 @@ subsections:
         readme_tags:
           - Mac-native
           - Image Editor
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: PixiEditor
         url: https://pixieditor.net/
         description: Universal 2D graphics editor — procedural graphics w/ node graph, image editing, vectors, pixel art, animations.
@@ -2187,6 +2261,8 @@ subsections:
         readme_tags:
           - Unified
           - Node-based
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: viewers-file-utilities
     title: Viewers & File Utilities
     description: Image, video, and 3D file viewers.
@@ -2210,6 +2286,8 @@ subsections:
         readme_tags:
           - Batch Convert
           - 500+ Formats
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: DJV
         url: https://github.com/darbyjohnston/DJV
         description: Free professional image sequence viewer.
@@ -2229,6 +2307,8 @@ subsections:
         readme_tags:
           - Image Sequences
           - Film Pipeline
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: f3d
         url: https://f3d.app/
         description: Fast 3D file viewer (glTF, STL, OBJ, USD, etc.).
@@ -2249,6 +2329,8 @@ subsections:
         readme_tags:
           - 3D Preview
           - USD Support
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: mrViewer
         url: https://mrviewer.sourceforge.io/
         description: Image sequence and EXR viewer.
@@ -2268,6 +2350,8 @@ subsections:
         readme_tags:
           - EXR Viewer
           - VFX Pipeline
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: glb.gallery
         url: https://glb.gallery
         description: Interactive 3D model gallery builder from GLB files, embeddable.
@@ -2285,6 +2369,8 @@ subsections:
         readme_tags:
           - Embeddable
           - GLB
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: OpenEXR Viewer
         url: https://github.com/AcademySoftwareFoundation/openexr
         description: Official EXR tools.
@@ -2304,6 +2390,8 @@ subsections:
         readme_tags:
           - Official EXR
           - ASWF
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: game-engines-free-oss
     title: Game Engines — Free & Open Source
     description: Free and open-source game engines.
@@ -2332,6 +2420,8 @@ subsections:
         readme_tags:
           - MIT-licensed
           - 2D + 3D
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Bevy
         url: https://bevyengine.org/
         description: Rust data-driven ECS game engine.
@@ -2351,6 +2441,8 @@ subsections:
         readme_tags:
           - Rust
           - ECS
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Defold
         url: https://defold.com/
         description: Lua-based 2D mobile game engine by King.
@@ -2369,6 +2461,8 @@ subsections:
         readme_tags:
           - 2D Mobile
           - King (Candy Crush)
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Stride
         url: https://www.stride3d.net/
         description: C# 3D game engine (formerly Xenko).
@@ -2385,6 +2479,8 @@ subsections:
         readme_tags:
           - C#
           - 3D
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Flax Engine
         url: https://flaxengine.com/
         description: High-fidelity 3D engine. Free for small studios.
@@ -2403,6 +2499,8 @@ subsections:
         readme_tags:
           - High-Fidelity
           - C# + C++
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: O3DE
         url: https://o3de.org/
         description: AAA-grade Linux Foundation open-source engine.
@@ -2421,6 +2519,8 @@ subsections:
         readme_tags:
           - AAA-grade
           - Linux Foundation
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Fyrox
         url: https://fyrox.rs/
         description: Rust 3D engine with scene editor.
@@ -2437,6 +2537,8 @@ subsections:
         readme_tags:
           - Rust
           - Scene Editor
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Cocos Creator
         url: https://www.cocos.com/en/creator
         description: TypeScript mobile/web game engine.
@@ -2453,6 +2555,8 @@ subsections:
         readme_tags:
           - Mobile/Web
           - TypeScript
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Raylib
         url: https://www.raylib.com/
         description: Minimal C library for learning game programming.
@@ -2472,6 +2576,8 @@ subsections:
         readme_tags:
           - Library (not engine)
           - C
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: MonoGame
         url: https://monogame.net/
         description: C# XNA successor (Celeste, Stardew Valley).
@@ -2488,6 +2594,8 @@ subsections:
         readme_tags:
           - XNA Successor
           - C#
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: FNA
         url: https://fna-xna.github.io/
         description: C# XNA reimplementation for ports.
@@ -2504,6 +2612,8 @@ subsections:
         readme_tags:
           - XNA Port
           - Shipping Games
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Heaps.io
         url: https://heaps.io/
         description: Haxe engine. Dead Cells, Northgard.
@@ -2520,6 +2630,8 @@ subsections:
         readme_tags:
           - Haxe
           - Dead Cells
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Love2D
         url: https://love2d.org/
         description: Lua 2D game framework.
@@ -2536,6 +2648,8 @@ subsections:
         readme_tags:
           - Lua
           - Jam-Friendly
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Solar2D
         url: https://solar2d.com/
         description: Lua 2D mobile framework (formerly Corona SDK).
@@ -2553,6 +2667,8 @@ subsections:
         readme_tags:
           - 2D Mobile
           - Lua
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Macroquad
         url: https://macroquad.rs/
         description: Rust minimal 2D/3D with WASM support.
@@ -2570,6 +2686,8 @@ subsections:
         readme_tags:
           - Rust
           - WASM
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Ebitengine
         url: https://ebitengine.org/
         description: Go 2D game engine.
@@ -2586,6 +2704,8 @@ subsections:
         readme_tags:
           - Go
           - 2D
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Armory3D
         url: https://armory3d.org/
         description: Blender-integrated Haxe game engine.
@@ -2604,54 +2724,80 @@ subsections:
         readme_tags:
           - Blender-Integrated
           - Haxe
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Material Maker
         url: https://rodzilla.itch.io/material-maker
         description: A procedural materials authoring tool based on the Godot Engine.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: A-Frame
         url: https://aframe.io/
         description: An easy web framework for building 3D/AR/VR experiences.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: CopperCube
         url: http://www.ambiera.com/coppercube/
         description: CopperCube is an all-in-one 3D game engine.Very easy to use.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Cocos2d-x
         url: http://cocos2d-x.org/
         description: a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Cocos Creator
         url: http://cocos2d-x.org/docs/editors_and_tools/creator/index.html
         description: Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: jMonkeyEngine 3
         url: http://jmonkeyengine.org/
         description: a 3D open-source game engine for adventurous Java developers.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: JPCT
         url: https://www.jpct.net/
         description: jPCT is a 3D engine for desktop Java and Google's Android.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Leadwerks
         url: https://www.leadwerks.com/
         description: Easy-to-learn game engine for 3D and VR.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Magnum
         url: http://magnum.graphics/
         description: a lightweight and modular 2D/3D graphics/game engine written in C++11
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Ogre
         url: https://www.ogre3d.org/
         description: Open source graphical rendering engine.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Urho3D
         url: http://urho3d.github.io/
         description: Cross-platform rendering and game engine.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: ursina
         url: https://www.ursinaengine.org/
         description: A game engine powered by python and panda3d.
         entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Babylon.js
         url: https://www.babylonjs.com/
         description: JavaScript 3D engine/framework for browser games and apps.
@@ -2668,6 +2814,8 @@ subsections:
         readme_tags:
           - Browser
           - JavaScript
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Blend4Web
         url: http://www.blend4web.com/
         description: JavaScript framework for interactive 3D in browsers. Blender integration.
@@ -2682,6 +2830,8 @@ subsections:
         readme_tags:
           - Browser
           - Blender Integration
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Three.js
         url: http://threejs.org/
         description: JavaScript 3D library — the standard for web 3D.
@@ -2697,6 +2847,8 @@ subsections:
         readme_tags:
           - Browser
           - Standard JS 3D
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Ceramic
         url: https://ceramic-engine.com/
         description: Haxe cross-platform 2D framework. Exports to Windows, Mac, Linux, iOS, Android, HTML5/WebGL, Unity.
@@ -2715,6 +2867,8 @@ subsections:
         readme_tags:
           - Haxe
           - Cross-Platform 2D
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Irrlicht
         url: http://irrlicht.sourceforge.net/
         description: Open source high-performance realtime 3D engine (C++).
@@ -2730,6 +2884,8 @@ subsections:
         readme_tags:
           - C++
           - Classic Engine
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Panda3D
         url: https://www.panda3d.org/
         description: Python-based 3D engine (originated at Disney VR Studio, now CMU ETC).
@@ -2745,6 +2901,8 @@ subsections:
         readme_tags:
           - Python
           - Disney Origin
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Torque3D
         url: https://torque3d.org/torque3d/
         description: C++ engine with decades of Torque technology lineage.
@@ -2760,6 +2918,8 @@ subsections:
         readme_tags:
           - C++
           - Legacy
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: SpriteBuilder
         url: http://www.spritebuilder.com/
         description: Open source game development suite for macOS.
@@ -2773,74 +2933,104 @@ subsections:
         readme_tags:
           - Mac-only
           - 2D
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Fusee
         url: https://github.com/FUSEEProjectTeam/Fusee/
         description: A multiplatform 3D C# real-time engine with a strong emphasis on content transformation and manipulation.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Harfang 3D
         url: https://github.com/harfang3d/harfang3d
         description: C++ 3D visualization library also usable in Python, Lua, and Go (Windows, Linux).
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Neo Axis Engine
         url: https://github.com/NeoAxis/NeoAxisEngine
         description: NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Overload
         url: https://github.com/adriengivry/Overload
         description: 3D Game engine with editor.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: UPBGE
         url: https://github.com/UPBGE/upbge
         description: Integrated game engine in Blender.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Blitz3D
         url: https://github.com/blitz-research/blitz3d
         description: 3D basic-like programming language for fast 3D desktop games.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Dash
         url: https://github.com/Circular-Studios/Dash
         description: A free and open 3D game engine written in D.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Diligent Engine
         url: https://github.com/DiligentGraphics/DiligentEngine
         description: A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Folded Paper Engine
         url: https://github.com/papercraftgames/folded-paper-engine
         description: '– Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds'
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Juno
         url: https://github.com/rxi/juno
         description: Framework for making 2D games with chunky pixels in Lua
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: LumixEngine
         url: https://github.com/nem0/LumixEngine
         description: 3D Game engine built on C++.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Lums
         url: https://github.com/lums-proj/Lums
         description: A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Pixel Vision 8
         url: https://github.com/PixelVision8/PixelVision8
         description: Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-s
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Screen 13
         url: https://github.com/attackgoat/screen-13
         description: An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: WhiteStorm.js
         url: https://github.com/WhitestormJS/whitestorm.js
         description: 3d javacript framework for building apps and games
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Superpowers
         url: https://sparklinlabs.itch.io/superpowers
         description: HTML5 Collaborative 2D/3D Game Maker
         entry_type: software
-      - name: Godot Engine
-        url: https://godotengine.org/article/godot-3-vr-and-ar-support
-        description: Godot Engine.
-        entry_type: software
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: game-engines-commercial
     title: Game Engines — Commercial Free Tiers
     description: Commercial engines with generous free tiers.
@@ -2871,6 +3061,8 @@ subsections:
         readme_tags:
           - AAA
           - Virtual Production
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Unity 6
         url: https://unity.com/
         description: Cross-platform engine with massive asset store ecosystem.
@@ -2894,6 +3086,8 @@ subsections:
         readme_tags:
           - Cross-Platform
           - XR
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: GameMaker
         url: https://gamemaker.io/
         description: GML-based 2D engine (Undertale, Hotline Miami).
@@ -2909,6 +3103,8 @@ subsections:
         readme_tags:
           - 2D Focus
           - Indie Proven
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Construct 3
         url: https://www.construct.net/
         description: Browser-based no-code 2D engine with visual scripting.
@@ -2925,6 +3121,8 @@ subsections:
         readme_tags:
           - No-code
           - Browser
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: GDevelop
         url: https://gdevelop.io/
         description: Open-source event-based no-code 2D.
@@ -2944,6 +3142,8 @@ subsections:
         readme_tags:
           - No-code
           - Open Source
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: RPG Maker MZ
         url: https://www.rpgmakerweb.com/
         description: JavaScript-based RPG creation.
@@ -2959,6 +3159,8 @@ subsections:
         readme_tags:
           - RPG Focus
           - JavaScript
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Ren'Py
         url: https://www.renpy.org/
         description: Python visual novel engine (industry standard).
@@ -2975,6 +3177,8 @@ subsections:
         readme_tags:
           - Visual Novels
           - Industry Standard
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: CryEngine
         url: https://www.cryengine.com/
         description: High-fidelity 3D engine, pay-what-you-want.
@@ -2992,6 +3196,8 @@ subsections:
         readme_tags:
           - High-Fidelity
           - PWYW
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: PlayCanvas
         url: https://playcanvas.com/
         description: JavaScript browser-based 3D engine.
@@ -3010,6 +3216,8 @@ subsections:
         readme_tags:
           - Browser-Based
           - JavaScript
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Unbound
         url: https://www.unbound.io/
         description: SDF-based game development platform. Non-destructive real-time editing, Lua 5.3 scripting, FBX/glTF export. Early Access.
@@ -3028,6 +3236,8 @@ subsections:
         readme_tags:
           - SDF-Native
           - Early Access
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Evergine
         url: https://evergine.com/
         description: Enterprise-focused graphics engine for 3D business and industry applications.
@@ -3043,11 +3253,17 @@ subsections:
         readme_tags:
           - Enterprise
           - Industrial
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: SceneKit
         url: https://developer.apple.com/documentation/scenekit
         description: Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: SpriteKit
         url: https://developer.apple.com/documentation/spritekit
         description: Apple proprietary 2D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok

@@ -24,6 +24,11 @@ async function check(url) {
     clearTimeout(timer);
     if (res.ok) return { status: 'ok', code: res.status, finalUrl: res.url };
     if (res.status >= 300 && res.status < 400) return { status: 'redirect', code: res.status, finalUrl: res.url };
+    // 401/403/405/429/451/999 = bot-block, auth wall, or rate-limit — URL is alive, just not HEAD-able.
+    // Treat as 'ok' to avoid auto-deprecating Cloudflare-protected asset sites.
+    if ([401, 403, 405, 429, 451, 999].includes(res.status)) {
+      return { status: 'ok', code: res.status, finalUrl: res.url, note: 'bot-blocked' };
+    }
     return { status: 'broken', code: res.status, finalUrl: res.url };
   } catch (e) {
     clearTimeout(timer);

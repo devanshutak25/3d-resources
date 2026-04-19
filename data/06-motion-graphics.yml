@@ -16,21 +16,12 @@ subsections:
         readme_tags:
           - AE
           - Motion Design
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: motion-graphics-courses
     title: Motion Graphics — Courses
     description: Structured motion graphics courses.
-    entries:
-      - name: School of Motion — MoGraph Courses
-        url: https://www.schoolofmotion.com/
-        description: AE Kickstart, VFX for Motion, Expression Session, Path to MoGraph, and more.
-        license: Paid
-        entry_type: tutorial
-        tags:
-          output:
-            - motion-graphics
-        readme_tags:
-          - Structured
-          - Mograph Focus
+    entries: []
   - slug: after-effects-learning
     title: After Effects — Learning & Templates
     description: AE expressions, templates, and workflow resources.
@@ -42,6 +33,8 @@ subsections:
         readme_tags:
           - Expressions
           - Essentials
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Jitter Templates
         url: https://jitter.video/templates/
         description: Free motion graphics templates.
@@ -53,6 +46,8 @@ subsections:
         readme_tags:
           - Templates
           - Free
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: fusion-resolve
     title: Fusion (DaVinci Resolve) — Learning
     description: Fusion references and EXR workflow.
@@ -64,6 +59,8 @@ subsections:
         readme_tags:
           - Wiki
           - Reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Multichannel EXR (Fusion forum)
         url: https://forum.blackmagicdesign.com/viewtopic.php?f=22&t=39964
         description: Multichannel EXR workflow in Fusion.
@@ -71,6 +68,8 @@ subsections:
         readme_tags:
           - EXR
           - Multichannel
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Split EXR in Fusion
         url: http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion
         description: Split EXR in Fusion guide.
@@ -78,6 +77,8 @@ subsections:
         readme_tags:
           - EXR
           - Split
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: motion-graphics-inspiration
     title: Motion Graphics — Inspiration
     description: Showcases, style frames, title sequences, ad references.
@@ -89,6 +90,8 @@ subsections:
         readme_tags:
           - Showcase
           - Classic
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Eyecannndy
         url: https://eyecannndy.com/featured/
         description: Visual effects and motion inspiration.
@@ -96,6 +99,8 @@ subsections:
         readme_tags:
           - Visual Effects
           - Feed
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Ads of the World
         url: https://www.adsoftheworld.com/
         description: Advertising reference.
@@ -103,6 +108,8 @@ subsections:
         readme_tags:
           - Ads
           - Campaign Reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Film Grab
         url: https://film-grab.com/
         description: Film frame reference.
@@ -110,6 +117,8 @@ subsections:
         readme_tags:
           - Film Stills
           - Reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Opening Titles (Vimeo)
         url: https://vimeo.com/theopeningtitles
         description: Title sequence collection.
@@ -117,6 +126,8 @@ subsections:
         readme_tags:
           - Title Sequences
           - Vimeo
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Flim AI
         url: https://flim.ai/
         description: Film frame search engine.
@@ -124,6 +135,8 @@ subsections:
         readme_tags:
           - Film Search
           - AI
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: ShotDeck
         url: https://shotdeck.com/
         description: Film shot reference database.
@@ -131,6 +144,8 @@ subsections:
         readme_tags:
           - Shot Database
           - Reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: PlayPhrase.me
         url: https://www.playphrase.me/
         description: Phrase-based film clip search.
@@ -138,6 +153,8 @@ subsections:
         readme_tags:
           - Phrase Search
           - Film Clips
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: John Berube
         url: https://johnberube.com/
         description: Motion design portfolio and resources.
@@ -145,6 +162,8 @@ subsections:
         readme_tags:
           - Portfolio
           - Resources
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Art of the Title
         url: https://artofthetitle.com/
         description: Title sequence deep dives.
@@ -152,6 +171,8 @@ subsections:
         readme_tags:
           - Title Sequences
           - Deep Dives
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Stash Magazine
         url: https://stashmedia.tv/
         description: Motion design and animation showcase.
@@ -159,6 +180,8 @@ subsections:
         readme_tags:
           - Showcase
           - Motion
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Behance Motion
         url: https://www.behance.net/galleries/motion
         description: Motion design gallery.
@@ -166,6 +189,8 @@ subsections:
         readme_tags:
           - Gallery
           - Behance
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Art of Style Frame
         url: https://artofstyleframe.com/
         description: Style frame showcase.
@@ -173,78 +198,110 @@ subsections:
         readme_tags:
           - Style Frames
           - Showcase
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Friction
         url: https://github.com/friction2d/friction
         description: Friction is a powerful and versatile motion graphics application that allows you to create vector and raster animations for web and video.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Animation Nodes
         url: https://github.com/JacquesLucke/animation_nodes
         description: A node-based visual scripting system designed for motion graphics in Blender.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Natron
         url: https://natron.fr
         description: Open Source Compositing Software For VFX and Motion Graphics.
         entry_type: inspiration
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: TOOLL3
         url: https://tooll.io/
         description: Graph-based procedural real-time motion graphics for live performance or rendering.
         entry_type: inspiration
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: AEJuice
         url: https://aejuice.com/
         description: Free and premium motion presets, transitions, and effects packs installable directly via a panel inside After Effects.
         entry_type: inspiration
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Animation Nodes
         url: https://animation-nodes.com/
         description: A node based visual scripting system designed for motion graphics in Blender. [![][repo]](https://github.com/JacquesLucke/animation_nodes)
         entry_type: inspiration
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: After Effects Facebook Group
         url: https://www.facebook.com/groups/aftereffectscommunity
         description: Join the After Effects community on Facebook.
         entry_type: community
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: RailCut
         url: https://www.jakeinmotion.com/railcut
         description: Multi-track clip editing directly in After Effects with NLE-style tools like ripple edit, rolling edit, slip, and slide.
         entry_type: inspiration
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Mobox Graphics
         url: https://www.moboxgraphics.com/
         description: Offers in-depth After Effects tutorials, especially in the field of motion design.
         entry_type: tutorial
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: nexrender
         url: https://www.nexrender.com
         description: 📹 Data-driven render automation for After Effects
         entry_type: inspiration
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Reddit - r/AfterEffects
         url: https://www.reddit.com/r/AfterEffects/
         description: The After Effects subreddit for community discussions and sharing.
         entry_type: community
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Trapcode Suite
         url: https://www.redgiant.com/products/trapcode-suite/
         description: A set of 3D motion graphics and visual effects plugins for After Effects.
         entry_type: inspiration
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: School of Motion
         url: https://www.schoolofmotion.com/tutorials
         description: Provides a wide range of motion graphics and animation tutorials and courses.
         entry_type: tutorial
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Houdini 2 AE
         url: https://vimeo.com/186204479
         description: Tool for exporting camera and locators fromH oudini to after effects
         entry_type: inspiration
-      - name: CL Mograph
-        url: https://www.youtube.com/@CLMograph
-        description: CL Mograph.
-        entry_type: channel
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Rubberhose 2
         url: https://battleaxe.co/rubberhose
         description: Shape-layer-based IK limb rigging system for fast character animation with one-click rig creation.
         entry_type: tool
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Commotion
         url: https://github.com/mrachinskiy/commotion
         description: Blender add-on for motion graphics.
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: React-UMG
         url: https://github.com/ncsoft/React-UMG
         description: A React renderer for Unreal Motion Graphics With Unreal.js
         entry_type: reference
+        url_last_verified: '2026-04-19'
+        url_status: ok
   - slug: motion-graphics-tools
     title: Motion Graphics — Tools & Utilities
     description: MG-specific tools and utilities.
@@ -264,6 +321,8 @@ subsections:
         readme_tags:
           - VJ
           - Live Visuals
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: MadMapper
         url: https://madmapper.com/
         description: Projection mapping software.
@@ -278,6 +337,8 @@ subsections:
         readme_tags:
           - Projection Mapping
           - Live
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Motion Canvas
         url: https://motioncanvas.io/
         description: Code-driven motion graphics (TypeScript).
@@ -290,6 +351,9 @@ subsections:
         readme_tags:
           - Code-driven
           - TypeScript
+        url_last_verified: '2026-04-19'
+        url_status: broken
+        deprecated: true
       - name: PixelCrash
         url: https://www.pixelcrash.xyz/
         description: Creative motion and visual tools.
@@ -297,6 +361,8 @@ subsections:
         readme_tags:
           - Creative
           - Visual Tools
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Effekseer
         url: https://effekseer.github.io/en/
         description: Real-time VFX editor and runtime.
@@ -312,6 +378,8 @@ subsections:
         readme_tags:
           - Real-time VFX
           - Games
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Magic Animator
         url: https://magicanimator.com/
         description: Web-based animation creator.
@@ -323,6 +391,8 @@ subsections:
         readme_tags:
           - Web
           - Quick Anim
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: nw_wrld
         url: https://github.com/aagentah/nw_wrld
         description: Experimental motion tool.
@@ -331,6 +401,8 @@ subsections:
         readme_tags:
           - Experimental
           - Open Source
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Nukepedia Lens Engine
         url: https://www.nukepedia.com/gizmos/draw/lens-engine
         description: Lens simulation gizmo for Nuke.
@@ -338,6 +410,8 @@ subsections:
         readme_tags:
           - Nuke
           - Lens Sim
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: CorridorKey
         url: https://github.com/nikopueringer/CorridorKey
         description: Corridor's keying tool (open source).
@@ -346,6 +420,8 @@ subsections:
         readme_tags:
           - Keying
           - Corridor
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Sammie-Roto-2
         url: https://github.com/Zarxrax/Sammie-Roto-2
         description: Rotoscope tool.
@@ -354,6 +430,8 @@ subsections:
         readme_tags:
           - Rotoscope
           - Open Source
+        url_last_verified: '2026-04-19'
+        url_status: ok
       - name: Dume
         url: https://rainboxlab.org/tools/dume/
         description: Media encoder.
@@ -362,18 +440,10 @@ subsections:
         readme_tags:
           - Encoder
           - Free
+        url_last_verified: '2026-04-19'
+        url_status: broken
+        deprecated: true
   - slug: video-editing-courses
     title: Video Editing — Courses
     description: Editing-specific courses.
-    entries:
-      - name: School of Motion — Editing Bundle
-        url: https://www.schoolofmotion.com/
-        description: Editor's Essential AE Bundle and AE for Video Editors.
-        license: Paid
-        entry_type: tutorial
-        tags:
-          workflow:
-            - editing
-        readme_tags:
-          - Editing + AE
-          - Bundle
+    entries: []
