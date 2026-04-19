@@ -67,6 +67,17 @@ subsections:
         readme_tags:
           - CC0
           - VFX Assets
+      - name: XYZed3D (Gumroad)
+        url: https://xyzed3d.gumroad.com/
+        description: CC0 (non-AI) asset packs — models, props, misc — by artyusufpatel.
+        license: Free
+        entry_type: asset-source
+        tags:
+          tech:
+            - cc0
+        readme_tags:
+          - CC0
+          - Gumroad
       - name: Poly Pizza
         url: https://poly.pizza/
         description: Low-poly models (Google Poly archive).
@@ -1499,6 +1510,21 @@ subsections:
         readme_tags:
           - Subscription
           - Music + SFX
+      - name: Knell
+        url: https://knell.medieval.software/
+        description: Free procedural sound effect synthesizer for games, UI, and prototypes.
+        license: Free
+        entry_type: tool
+        tags:
+          workflow:
+            - audio-design
+          output:
+            - games
+          platform:
+            - web
+        readme_tags:
+          - SFX Synth
+          - Procedural
   - slug: reel-music
     title: Reel Music
     description: Music often used in demo reels and reference tracks.
