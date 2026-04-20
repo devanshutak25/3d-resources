@@ -250,6 +250,22 @@
     const bar = document.createElement('div');
     bar.id = 'filter-bar';
 
+    const toggle = document.createElement('button');
+    toggle.id = 'filter-toggle';
+    toggle.type = 'button';
+    toggle.setAttribute('aria-label', 'Toggle filter bar');
+    toggle.setAttribute('title', 'Toggle filters');
+    const setToggleIcon = () => {
+      toggle.textContent = bar.classList.contains('collapsed') ? '⚲' : '×';
+    };
+    toggle.addEventListener('click', () => {
+      const collapsed = !bar.classList.contains('collapsed');
+      bar.classList.toggle('collapsed', collapsed);
+      try { localStorage.setItem('filter-collapsed', collapsed ? '1' : '0'); } catch (e) {}
+      setToggleIcon();
+    });
+    bar.appendChild(toggle);
+
     const title = document.createElement('div');
     title.className = 'filter-title';
     title.textContent = 'Filter';
@@ -313,6 +329,15 @@
     const contents = document.getElementById('contents');
     if (contents) contents.parentElement.insertBefore(bar, contents);
     else mainEl.insertBefore(bar, mainEl.firstChild);
+
+    // Default collapsed on deployed site; remember user preference.
+    let startCollapsed = true;
+    try {
+      const pref = localStorage.getItem('filter-collapsed');
+      if (pref === '0') startCollapsed = false;
+    } catch (e) {}
+    if (startCollapsed) bar.classList.add('collapsed');
+    setToggleIcon();
   }
 
   function setCollapsed(heading, collapsed) {
@@ -336,12 +361,21 @@
 
   function setupCollapsibleHeadings() {
     const headings = mainEl.querySelectorAll('h2, h3');
+    // Skip collapse-by-default if a hash is targeting a specific section.
+    const hashTarget = (location.hash && location.hash.length > 1)
+      ? decodeURIComponent(location.hash.slice(1)) : null;
     for (const h of headings) {
       if (h.tagName === 'H2' && EXCLUDED_H2_IDS.has(h.id)) continue;
       h.classList.add('collapsible-heading');
       h.setAttribute('role', 'button');
       h.setAttribute('tabindex', '0');
-      h.setAttribute('aria-expanded', 'true');
+      // Collapse by default, but leave the hash-targeted section open.
+      if (h.id !== hashTarget) {
+        setCollapsed(h, true);
+        h.setAttribute('aria-expanded', 'false');
+      } else {
+        h.setAttribute('aria-expanded', 'true');
+      }
       const toggle = (ev) => {
         // Don't swallow clicks on anchor links inside the heading.
         if (ev.target && ev.target.closest && ev.target.closest('a')) return;

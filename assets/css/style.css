@@ -9,6 +9,48 @@
   margin: 0 0 2rem 0;
   z-index: 100;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transition: padding 0.15s ease;
+}
+#filter-bar.collapsed {
+  padding: 0;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+  pointer-events: none;
+}
+#filter-bar.collapsed > :not(#filter-toggle) { display: none !important; }
+#filter-bar.collapsed #filter-toggle {
+  pointer-events: auto;
+  position: sticky;
+  top: 0.5rem;
+}
+#filter-toggle {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: var(--bg-tertiary);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  width: 2rem;
+  height: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 0;
+  z-index: 1;
+}
+#filter-toggle:hover { color: var(--text); border-color: var(--accent); }
+#filter-bar.collapsed #filter-toggle {
+  position: static;
+  background: var(--bg-secondary);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
 }
 .filter-title {
   font-size: 0.75rem;
@@ -162,9 +204,9 @@ main > details > ul > li {
 
 /* Dark mode theme for 3D Resources */
 :root {
-  --bg: #0d1117;
-  --bg-secondary: #161b22;
-  --bg-tertiary: #21262d;
+  --bg: #000000;
+  --bg-secondary: #0a0d12;
+  --bg-tertiary: #161b22;
   --text: #e6edf3;
   --text-muted: #8b949e;
   --text-subtle: #6e7681;
@@ -196,7 +238,7 @@ body {
 }
 
 .wrapper {
-  max-width: 980px;
+  max-width: 1280px;
   margin: 0 auto;
   padding: 2rem 1.5rem;
 }

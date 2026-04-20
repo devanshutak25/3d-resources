@@ -131,7 +131,7 @@ const page = `<!DOCTYPE html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#0d1117">
+  <meta name="theme-color" content="#000000">
   <title>${TITLE}</title>
   <meta name="description" content="${DESCRIPTION}">
   <meta name="keywords" content="3d resources, free pbr textures, hdri library, usd pipeline tools, blender, houdini, cinema 4d, maya, zbrush, unreal engine, free 3d models, textures, hdri, pbr materials, vfx tutorials, 3d animation, game assets, render engines, motion graphics, digital art, 3d learning, substance painter, free assets, 3d software, ai 3d generation, photogrammetry, gaussian splatting, nerf">

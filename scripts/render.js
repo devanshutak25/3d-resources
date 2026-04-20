@@ -25,7 +25,7 @@ function header() {
     '',
     '*Curated by [Devanshu Tak](https://devanshutak.xyz)* compiled with the help of Claude Code.',
     '',
-    '> ⚠️ **Heads up:** One more accuracy pass is pending — expect occasional mislabelled licenses, stale prices, or sparse descriptions. Flag issues via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
+    '> ⚠️ **Heads up:** There might be issues — broken links, mislabelled licenses, stale prices, or sparse descriptions. Flag anything you spot via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
     '',
     '> **Looking for something specific?** Visit **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** for the interactive version with search and tag filtering (License · Platform · Workflow · Output).',
     '',
