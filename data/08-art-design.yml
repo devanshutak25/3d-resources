@@ -594,19 +594,6 @@ subsections:
         tags:
           workflow:
             - reference
-      - name: CinematographyDB
-        url: https://cinematographydb.com/
-        description: Database of DP filmographies — study any cinematographer's visual language.
-        entry_type: reference
-        readme_tags:
-          - DP Database
-          - Study Tool
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
-        tags:
-          workflow:
-            - reference
       - name: No Film School — Cinematography
         url: https://nofilmschool.com/topics/cinematography-cameras
         description: Constant stream of technique articles.
@@ -737,20 +724,6 @@ subsections:
     title: Composition & Visual Storytelling
     description: Composition theory, color theory, visual hierarchy.
     entries:
-      - name: Neil Blevins Art Lessons
-        url: https://www.neilblevins.com/art_lessons/art_lessons.htm
-        description: Composition types, tangents, visual hierarchy by a Pixar artist.
-        entry_type: reference
-        readme_tags:
-          - Pixar Artist
-          - Composition
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
-        tags:
-          workflow:
-            - concept
-            - reference
       - name: Can't Unsee
         url: https://cantunsee.space/
         description: Interactive game training visual alignment and spacing precision.
@@ -814,6 +787,21 @@ subsections:
           workflow:
             - concept
             - reference
+      - name: Neil Blevins Art Lessons
+        url: http://www.neilblevins.com/
+        description: Composition types, tangents, visual hierarchy by a Pixar artist.
+        entry_type: reference
+        readme_tags:
+          - Pixar Artist
+          - Composition
+        tags:
+          workflow:
+            - concept
+            - reference
+          platform:
+            - web
+        dual_listed_in:
+          - learning-community-industry
   - slug: animation-principles
     title: Animation Principles
     description: The 12 principles of animation and related fundamentals.
@@ -1128,19 +1116,6 @@ subsections:
           - Training
         url_last_verified: '2026-04-19'
         url_status: ok
-        tags:
-          workflow:
-            - reference
-      - name: HueData
-        url: https://huedata.org/
-        description: Palettes extracted from famous paintings.
-        entry_type: tool
-        readme_tags:
-          - Painting Palettes
-          - Curated
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
         tags:
           workflow:
             - reference

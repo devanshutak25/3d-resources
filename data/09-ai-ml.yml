@@ -1789,25 +1789,6 @@ subsections:
           - PBR + Open Source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: CSM (Common Sense Machines)
-        url: https://www.csm.ai/
-        description: Game-ready topology and textures from images/text.
-        license: Freemium
-        entry_type: software
-        best_for: Game-ready AI 3D
-        tags:
-          output:
-            - games
-          tech:
-            - ai-generative
-          workflow:
-            - modeling
-        readme_tags:
-          - Game-Ready
-          - Topology + Tex
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
       - name: Luma Genie
         url: https://lumalabs.ai/
         description: Text/image to 3D, integrated with Dream Machine.
@@ -2081,7 +2062,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: InstaMAT
-        url: https://instamaterials.com/
+        url: https://instamaterial.com/
         description: Material authoring with AI workflows (Substance alternative).
         license: Paid
         entry_type: software
@@ -2095,9 +2076,6 @@ subsections:
         readme_tags:
           - Substance-alt
           - AI Workflows
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
   - slug: comfyui-ecosystem
     title: ComfyUI Ecosystem
     description: Node-based AI generation — ComfyUI and its ecosystem.

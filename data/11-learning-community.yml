@@ -1539,20 +1539,6 @@ subsections:
         tags:
           platform:
             - web
-      - name: Domestika
-        url: https://www.domestika.org/
-        description: Creative arts courses.
-        license: Paid
-        entry_type: tutorial
-        readme_tags:
-          - Creative Arts
-          - Per-course
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
-        tags:
-          platform:
-            - web
       - name: Wingfox
         url: https://www.wingfox.com/
         description: CG tutorials per course.
@@ -2312,6 +2298,17 @@ subsections:
         tags:
           platform:
             - web
+      - name: Domestika
+        url: https://www.domestika.org/
+        description: Creative arts courses.
+        license: Paid
+        entry_type: tutorial
+        readme_tags:
+          - Creative Arts
+          - Per-course
+        tags:
+          platform:
+            - web
   - slug: patreon-creators
     title: Patreon Creators
     description: Creators on Patreon offering tutorials, files, and tips.
@@ -2572,32 +2569,6 @@ subsections:
           - Forum
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: CGSociety
-        url: https://cgsociety.org/
-        description: VFX and animation pros.
-        entry_type: community
-        readme_tags:
-          - VFX/Animation
-          - Pros
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
-        tags:
-          platform:
-            - web
-      - name: CGPeers
-        url: https://www.cgpeers.com/
-        description: CG community.
-        entry_type: community
-        readme_tags:
-          - CG
-          - Community
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
-        tags:
-          platform:
-            - web
       - name: Agora Community
         url: https://agora.community/
         description: 3D artists community.
@@ -3430,6 +3401,8 @@ subsections:
         tags:
           platform:
             - web
+        dual_listed_in:
+          - art-design-visual-storytelling
       - name: Strange Attractors
         url: http://www.3d-meier.de/
         description: Mathematical 3D forms.
@@ -3463,19 +3436,6 @@ subsections:
           - Disney
         url_last_verified: '2026-04-19'
         url_status: ok
-        tags:
-          platform:
-            - web
-      - name: Make 2 Digital
-        url: https://www.make2digital.com/
-        description: FUI and sci-fi concepts.
-        entry_type: inspiration
-        readme_tags:
-          - FUI
-          - Sci-Fi
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
         tags:
           platform:
             - web

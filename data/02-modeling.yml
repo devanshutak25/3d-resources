@@ -367,16 +367,6 @@ subsections:
           tech:
             - blender
             - blender-addon
-      - name: Blender Secrets by Jan van den Hemel
-        url: https://www.blendersecrets.org/book
-        description: Blender Secrets by Jan van den Hemel.
-        entry_type: plugin
-        url_last_verified: '2026-04-19'
-        url_status: unreachable
-        tags:
-          tech:
-            - blender
-            - blender-addon
       - name: Blender Sushi
         url: https://blendersushi.blogspot.com/
         description: Collection of 3D ideas, poetries and experiments blended in Blender 3D.
@@ -2055,18 +2045,6 @@ subsections:
         tags:
           tech:
             - opensource-alt
-      - name: Python Startup Scripts
-        url: https://houdinitricks.com/python-houdini-start-scripts-part-1/
-        description: Python startup scripts guide.
-        entry_type: tutorial
-        readme_tags:
-          - Python
-          - Startup Scripts
-        url_last_verified: '2026-04-19'
-        url_status: unreachable
-        tags:
-          platform:
-            - web
       - name: VFXBrain VEX
         url: https://vfxbrain.wordpress.com/category/vex/
         description: VEX tutorials blog.
@@ -2100,6 +2078,16 @@ subsections:
           - Advanced
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
+      - name: Python Startup Scripts
+        url: https://houdinitricks.com/python-houdini-start-scripts-part-1/
+        description: Python startup scripts guide.
+        entry_type: tutorial
+        readme_tags:
+          - Python
+          - Startup Scripts
         tags:
           platform:
             - web

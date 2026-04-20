@@ -492,24 +492,6 @@ subsections:
           - AutoPosing
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: RADiCAL
-        url: https://radical.tech/
-        description: AI mocap from monocular video. Real-time and offline.
-        license: Freemium
-        entry_type: software
-        best_for: Monocular AI mocap
-        tags:
-          workflow:
-            - mocap
-          tech:
-            - ai-generative
-            - real-time
-        readme_tags:
-          - Monocular
-          - Real-time
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
       - name: Live Link Face (Apple)
         url: https://apps.apple.com/app/live-link-face/id1495370836
         description: Free facial mocap via iPhone into Unreal/Maya/Blender.

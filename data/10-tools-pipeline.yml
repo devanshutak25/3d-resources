@@ -2249,24 +2249,6 @@ subsections:
           - Retargeting
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Akeytsu
-        url: https://www.akeytsu.com/
-        description: Lightweight rigging and animation for game pipelines.
-        license: Paid
-        entry_type: software
-        best_for: Lightweight game rigging
-        tags:
-          workflow:
-            - rigging
-            - animation
-          output:
-            - games
-        readme_tags:
-          - Lightweight
-          - Games
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
       - name: APEX (Houdini)
         url: https://www.sidefx.com/
         description: SideFX's procedural node-based rigging framework.
@@ -2692,21 +2674,6 @@ subsections:
           - Windows
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Spacescape
-        url: http://alexcpeterson.com/spacescape/
-        description: Free open-source space skybox generator (stars, nebulas, cubemaps).
-        license: Open Source
-        entry_type: software
-        best_for: Space skyboxes
-        readme_tags:
-          - Skybox
-          - Space
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
-        tags:
-          tech:
-            - opensource-alt
       - name: Hesiod
         url: https://github.com/otto-link/Hesiod
         description: Free open-source node-based procedural terrain/heightmap generator.
@@ -3536,19 +3503,6 @@ subsections:
         tags:
           tech:
             - opensource-alt
-      - name: Needle USD Converter
-        url: https://usd.needle.tools/
-        description: Web-based USD/USDZ viewer and converter.
-        entry_type: tool
-        tags:
-          tech:
-            - usd
-        readme_tags:
-          - USD/USDZ
-          - Web
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
       - name: ImageMagick
         url: https://imagemagick.org/
         description: CLI, 200+ image formats.
@@ -3763,6 +3717,18 @@ subsections:
         tags:
           tech:
             - opensource-alt
+      - name: Needle USD Converter
+        url: https://usd.needle.tools/
+        description: Web-based USD/USDZ viewer and converter.
+        entry_type: tool
+        tags:
+          tech:
+            - usd
+          platform:
+            - web
+        readme_tags:
+          - USD/USDZ
+          - Web
   - slug: pipeline-standards
     title: Pipeline Standards
     description: Interchange formats and standards.

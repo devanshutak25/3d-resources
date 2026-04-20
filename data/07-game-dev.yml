@@ -367,21 +367,6 @@ subsections:
             - games
           tech:
             - opensource-alt
-      - name: Godot Cafe
-        url: https://godot.cafe/
-        description: Community forum.
-        entry_type: community
-        readme_tags:
-          - Forum
-          - Community
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
-        tags:
-          output:
-            - games
-          tech:
-            - opensource-alt
   - slug: unity-engine-resources
     title: Unity Engine — Resources
     description: Unity community add-ons, tools, and learning resources.
@@ -9110,21 +9095,6 @@ subsections:
     title: Game Dev Tools — Analytics & Playtesting
     description: Analytics and playtesting services.
     entries:
-      - name: GameAnalytics
-        url: https://gameanalytics.com/
-        description: Free analytics (100k+ games use it).
-        license: Free
-        entry_type: software
-        best_for: Free game analytics
-        tags:
-          output:
-            - games
-        readme_tags:
-          - Analytics
-          - Free
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
       - name: Steam Playtest
         url: https://partner.steamgames.com/doc/features/playtest
         description: Free playtesting on Steam.

@@ -1424,21 +1424,6 @@ subsections:
           workflow:
             - texturing
             - material-authoring
-      - name: Texturify
-        url: https://texturify.com/
-        description: Free texture collection.
-        license: Free
-        entry_type: asset-source
-        readme_tags:
-          - Free
-          - Varied
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
-        tags:
-          workflow:
-            - texturing
-            - material-authoring
       - name: TextureCan
         url: https://www.texturecan.com/
         description: Free PBR textures, high scan quality.
@@ -2264,6 +2249,20 @@ subsections:
           workflow:
             - texturing
             - material-authoring
+      - name: Texturify
+        url: https://texturify.com/
+        description: Free texture collection.
+        license: Free
+        entry_type: asset-source
+        readme_tags:
+          - Free
+          - Varied
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          platform:
+            - web
   - slug: textures-specialized
     title: Textures — Specialized
     description: 'Specialty texture sources: displacement, patterns, sprites, terrain.'
@@ -2671,19 +2670,6 @@ subsections:
           - Community
         url_last_verified: '2026-04-19'
         url_status: ok
-        tags:
-          workflow:
-            - audio-design
-      - name: Incompetech
-        url: https://incompetech.com/
-        description: Kevin MacLeod's royalty-free music.
-        license: Free
-        entry_type: asset-source
-        readme_tags:
-          - Royalty-free
-          - Kevin MacLeod
-        url_last_verified: '2026-04-19'
-        url_status: unreachable
         tags:
           workflow:
             - audio-design

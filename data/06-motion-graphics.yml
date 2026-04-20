@@ -445,24 +445,6 @@ subsections:
           - Live
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Motion Canvas
-        url: https://motioncanvas.io/
-        description: Code-driven motion graphics (TypeScript).
-        license: Open Source
-        entry_type: software
-        best_for: Programmatic motion graphics
-        tags:
-          tech:
-            - procedural
-            - opensource-alt
-          output:
-            - motion-graphics
-        readme_tags:
-          - Code-driven
-          - TypeScript
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
       - name: PixelCrash
         url: https://www.pixelcrash.xyz/
         description: Creative motion and visual tools.
@@ -565,20 +547,6 @@ subsections:
             - motion-graphics
           tech:
             - opensource-alt
-      - name: Dume
-        url: https://rainboxlab.org/tools/dume/
-        description: Media encoder.
-        license: Free
-        entry_type: tool
-        readme_tags:
-          - Encoder
-          - Free
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
-        tags:
-          output:
-            - motion-graphics
   - slug: video-editing-courses
     title: Video Editing — Courses
     description: Editing-specific courses.

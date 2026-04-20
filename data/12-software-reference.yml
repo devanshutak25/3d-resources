@@ -886,28 +886,6 @@ subsections:
           - Animatics
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Moho (Smith Micro)
-        url: https://moho.lostmarble.com/
-        description: 2D vector and bone-rigged animation.
-        license: Paid
-        entry_type: software
-        best_for: Character animation, motion graphics
-        tags:
-          workflow:
-            - animation
-            - rigging
-          output:
-            - broadcast
-            - motion-graphics
-          platform:
-            - win
-            - mac
-        readme_tags:
-          - Bone Rigging
-          - Vector Animation
-        url_last_verified: '2026-04-19'
-        url_status: broken
-        deprecated: true
       - name: Pixel Composer (itch.io)
         url: https://makham.itch.io/pixel-composer
         description: Node-based 2D VFX and compositing for pixel art.
@@ -1233,6 +1211,25 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+      - name: Moho (Smith Micro)
+        url: https://moho.lostmarble.com/
+        description: 2D vector and bone-rigged animation.
+        license: Paid
+        entry_type: software
+        best_for: Character animation, motion graphics
+        tags:
+          workflow:
+            - animation
+            - rigging
+          output:
+            - broadcast
+            - motion-graphics
+          platform:
+            - win
+            - mac
+        readme_tags:
+          - Bone Rigging
+          - Vector Animation
   - slug: vfx-compositing-software
     title: VFX & Compositing Software
     description: VFX, compositing, and real-time simulation tools.
