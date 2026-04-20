@@ -168,7 +168,7 @@ subsections:
           - Nuke Dev
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: NukeToolsST
+      - name: Nuke Tools ST
         url: https://packagecontrol.io/packages/NukeToolsST
         description: Sublime Text package to send Python/BlinkScript code into Nuke.
         entry_type: tool

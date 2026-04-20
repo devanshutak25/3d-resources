@@ -373,13 +373,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ShowToastUnityAndroid.cs
+      - name: Show Toast Unity Android.cs
         url: https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57
         description: Shows toast on Android.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: GetSocialDeepLinkingActivity.java
+      - name: Get Social Deep Linking Activity.java
         url: https://gist.github.com/TarasOsiris/1ab79165909ea01575a0
         description: This activity is created because we cannot get Activity.onNewIntent callback in Unity when the app is running in background.
         entry_type: reference
@@ -403,7 +403,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: PixelSpriteGenerator-Unity
+      - name: Pixel Sprite Generator Unity
         url: https://github.com/Shogan/PixelSpriteGenerator-Unity
         description: A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.
         entry_type: reference
@@ -421,7 +421,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unity2D-Components
+      - name: Unity2 D Components
         url: https://github.com/cmilr/Unity2D-Components
         description: A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
         entry_type: reference
@@ -457,7 +457,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: BulletPatternEditorUnity
+      - name: Bullet Pattern Editor Unity
         url: https://github.com/unitycoder/BulletPatternEditorUnity
         description: Easily create shoot em up bullet patterns.
         entry_type: reference
@@ -487,7 +487,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityAStarNavigation
+      - name: Unity A Star Navigation
         url: https://github.com/jeffvella/UnityAStarNavigation
         description: An A* navigation system for Unity using burst compiled jobs for performance.
         entry_type: reference
@@ -505,7 +505,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: EpPathFinding3D.cs
+      - name: Ep Path Finding3 D.cs
         url: https://github.com/juhgiyo/EpPathFinding3D.cs
         description: A 3D jump point search algorithm for cube based games in C#.
         entry_type: reference
@@ -607,7 +607,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: LibPdIntegration
+      - name: Lib Pd Integration
         url: https://github.com/LibPdIntegration/LibPdIntegration
         description: A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
         entry_type: reference
@@ -619,13 +619,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unity3D-SoundManager
+      - name: Unity3 D Sound Manager
         url: https://github.com/baratgabor/Unity3D-SoundManager
         description: Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UniIosAudioService
+      - name: Uni Ios Audio Service
         url: https://github.com/sanukin39/UniIosAudioService
         description: Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
         entry_type: reference
@@ -637,7 +637,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityAbletonLink
+      - name: Unity Ableton Link
         url: https://github.com/comoc/UnityAbletonLink
         description: An Ableton Link plugin for Unity. (#PLUGINS)
         entry_type: reference
@@ -649,13 +649,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ECS-Tween
+      - name: ECS Tween
         url: https://github.com/Xerios/ECS-Tween
         description: Simple Unity tweening system using ECS that works with GameObjects!
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: iOSUnityVuforiaGuide
+      - name: I OS Unity Vuforia Guide
         url: https://github.com/keyv/iOSUnityVuforiaGuide
         description: Integration of Unity + Vuforia into native iOS application.
         entry_type: reference
@@ -715,13 +715,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityCameraShake
+      - name: Unity Camera Shake
         url: https://github.com/IronWarrior/UnityCameraShake
         description: Generates pseudo-random camera shake using Perlin noise.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnitySceneCameraController
+      - name: Unity Scene Camera Controller
         url: https://github.com/XJINE/Unity_SceneCameraController
         description: Control a camera or any other object like SceneView camera.
         entry_type: reference
@@ -739,7 +739,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityMathReference
+      - name: Unity Math Reference
         url: https://github.com/zezba9000/UnityMathReference
         description: Math reference for games and more. All visualized in Unity3D.
         entry_type: reference
@@ -787,7 +787,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: SuperCharacterController
+      - name: Super Character Controller
         url: https://github.com/gucheng0712/SuperCharacterController
         description: Unity custom character controller. (#ARCHIVED)
         entry_type: reference
@@ -847,7 +847,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnitySocketIO
+      - name: Unity Socket IO
         url: https://github.com/NetEase/UnitySocketIO
         description: Socket.io client for Unity.
         entry_type: reference
@@ -919,13 +919,13 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityOpenApi
+      - name: Unity Open API
         url: https://github.com/kolodi/UnityOpenApi
         description: Unity friendly RESTful API client generator.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityWebSocket
+      - name: Unity Web Socket
         url: https://github.com/Unity3dAzure/UnityWebSocket
         description: Web Socket client for Unity.
         entry_type: reference
@@ -961,13 +961,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: uNetVoice
+      - name: U Net Voice
         url: https://github.com/hecomi/uNetVoice
         description: Tiny voice chat implementation for Unity.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityUnetMovement
+      - name: Unity Unet Movement
         url: https://github.com/GenaSG/UnityUnetMovement
         description: This repository contains Unity3D UNET based server-authoritative movement script with client-side prediction and reconciliation.
         entry_type: reference
@@ -991,7 +991,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: CppUnityTCPClientServer
+      - name: Cpp Unity TCP Client Server
         url: https://github.com/Willtl/CppUnityTCPClientServer
         description: Test project Unity client, C++ (with boost) server (TCP).
         entry_type: reference
@@ -1033,19 +1033,19 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: SerializedParameter_Unity
+      - name: Serialized Parameter Unity
         url: https://github.com/tsubaki/SerializedParameter_Unity
         description: Persist data between play mode sessions attribute.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityNonNull
+      - name: Unity Non Null
         url: https://github.com/ulrikdamm/UnityNonNull
         description: '[NonNull] attribute to fields and classes in Unity.'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityCompactFieldAttribute
+      - name: Unity Compact Field Attribute
         url: https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute
         description: Lets each property label have their own width, to prevent the labels from getting cut off.
         entry_type: reference
@@ -1171,7 +1171,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MOBA_CSharp_Unity
+      - name: MOBA C Sharp Unity
         url: https://github.com/yasgamesdev/MOBA_CSharp_Unity
         description: Framework for MOBA games. The server does not depend on Unity. Run on Linux.
         entry_type: tool
@@ -1189,7 +1189,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UniversalUnityHooks
+      - name: Universal Unity Hooks
         url: https://github.com/UserR00T/UniversalUnityHooks
         description: A framework designed to hook into and modify methods in unity games via dlls.
         entry_type: tool
@@ -1267,7 +1267,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityObjectPooler
+      - name: Unity Object Pooler
         url: https://github.com/imxzjv/UnityObjectPooler
         description: Simple object pool for Unity.
         entry_type: reference
@@ -1285,7 +1285,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MessagePackGridView
+      - name: Message Pack Grid View
         url: https://github.com/E-K/MessagePackGridView
         description: MessagePack Data Viewer built on MessagePack Csharp and Unity TreeView.
         entry_type: reference
@@ -1381,7 +1381,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: RuntimeUnityEditor
+      - name: Runtime Unity Editor
         url: https://github.com/ManlyMarco/RuntimeUnityEditor
         description: In-game inspector and debugging tools for applications made with Unity3D game engine.
         entry_type: reference
@@ -1411,19 +1411,19 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityAsyncRoutines
+      - name: Unity Async Routines
         url: https://github.com/TorVestergaard/UnityAsyncRoutines
         description: An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityMainThreadDispatcher
+      - name: Unity Main Thread Dispatcher
         url: https://github.com/PimDeWitte/UnityMainThreadDispatcher
         description: A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityNativeScripting
+      - name: Unity Native Scripting
         url: https://github.com/jacksondunstan/UnityNativeScripting
         description: Unity Scripting in C++.
         entry_type: reference
@@ -1453,13 +1453,13 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityBezierSolution
+      - name: Unity Bezier Solution
         url: https://github.com/yasirkula/UnityBezierSolution
         description: A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time).
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityEngineAnalyzer
+      - name: Unity Engine Analyzer
         url: https://github.com/vad710/UnityEngineAnalyzer
         description: Roslyn Analyzer for Unity3D.
         entry_type: reference
@@ -1477,13 +1477,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityMeshSimplifier
+      - name: Unity Mesh Simplifier
         url: https://github.com/Whinarn/UnityMeshSimplifier
         description: Mesh simplification for Unity.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityMeshSimplifier
+      - name: Unity Mesh Simplifier
         url: https://github.com/Unity-Technologies/UnityMeshSimplifier
         description: Mesh simplification for Unity. ![Official](UnityResource16x16.png)
         entry_type: reference
@@ -1519,7 +1519,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: GreenMambaStealth
+      - name: Green Mamba Stealth
         url: https://github.com/DameonL/GreenMambaStealth
         description: An advanced stealth system for Unity that detects how well-lit a character is, allowing characters to hide in dynamic shadows.
         entry_type: reference
@@ -1585,13 +1585,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: SwissArmyLib
+      - name: Swiss Army Lib
         url: https://github.com/ArchonInteractive/SwissArmyLib
         description: Collection of helpful utilities we use in our Unity projects.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UniVersionManager
+      - name: Uni Version Manager
         url: https://github.com/sanukin39/UniVersionManager
         description: Simple Version Getter for Unity, it can be used for iOS, Android and unity editor platform. It can also get build version.
         entry_type: reference
@@ -1645,7 +1645,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: AutoSaveScene
+      - name: Auto Save Scene
         url: https://github.com/liortal53/AutoSaveScene
         description: Unity editor helper for auto saving scene & minimizing lost work.
         entry_type: reference
@@ -1699,7 +1699,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MasterUnityHandles
+      - name: Master Unity Handles
         url: https://github.com/alelievr/MasterUnityHandles
         description: Unity custom handles examples.
         entry_type: reference
@@ -1741,7 +1741,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityEveryplaySaveToLocal
+      - name: Unity Everyplay Save To Local
         url: https://github.com/yasirkula/UnityEveryplaySaveToLocal
         description: A helper script to save captured Everyplay videos to local file system on Android & iOS.
         entry_type: reference
@@ -1759,7 +1759,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityColorPicker
+      - name: Unity Color Picker
         url: https://github.com/jongallant/UnityColorPicker
         description: A standalone color picker asset for Unity.
         entry_type: reference
@@ -1771,7 +1771,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: GoogleSheetsUnity
+      - name: Google Sheets Unity
         url: https://github.com/5argon/GoogleSheetsUnity
         description: Get data from your private Google Sheets to Unity! (Read-only).
         entry_type: reference
@@ -1843,7 +1843,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityPSDLayoutTool
+      - name: Unity PSD Layout Tool
         url: https://github.com/GlitchEnzo/UnityPSDLayoutTool
         description: A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
         entry_type: tool
@@ -1855,7 +1855,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UniAndroidVibration
+      - name: Uni Android Vibration
         url: https://github.com/sanukin39/UniAndroidVibration
         description: Unity Android plugin JUST execute device vibration.
         entry_type: reference
@@ -1909,7 +1909,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityRustPlugin
+      - name: Unity Rust Plugin
         url: https://github.com/keijiro/UnityRustPlugin
         description: An example showing how to write a Unity native plugin in Rust.
         entry_type: reference
@@ -1957,25 +1957,25 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: BepInEx
+      - name: Bep In Ex
         url: https://github.com/BepInEx/BepInEx
         description: Unity game patcher and plugin framework.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityElevatorCompiler
+      - name: Unity Elevator Compiler
         url: https://github.com/m3rt32/UnityElevatorCompiler
         description: 'A plugin that plays elevator music while Unity compiles your code. :cool:'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: myS7ProSimLib
+      - name: My S7 Pro Sim Lib
         url: https://github.com/kodaman2/myS7ProSimLib
         description: Imported S7PROSimLib type library. To connect unity3D with Siemens PLCSim using COM Interop.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityOptixPlugin
+      - name: Unity Optix Plugin
         url: https://github.com/Alexander-Scott/UnityOptixPlugin
         description: An example of a Unity plugin that allows you to leverage the power of NVIDIA Optix.
         entry_type: reference
@@ -2065,7 +2065,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: NVIDIAHairWorksIntegration
+      - name: NVIDIA Hair Works Integration
         url: https://github.com/unity3d-jp/NVIDIAHairWorksIntegration
         description: NVIDIA Hair Works Integration for Unity.
         entry_type: reference
@@ -2161,7 +2161,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: EdgeDetect-PostProcessingUnity
+      - name: Edge Detect Post Processing Unity
         url: https://github.com/jean-moreno/EdgeDetect-PostProcessingUnity
         description: Unity legacy Edge Detect image effect ported to Post Processing Stack v2.
         entry_type: reference
@@ -2191,13 +2191,13 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: LightProbesPlacement
+      - name: Light Probes Placement
         url: https://github.com/laurenth-unity/LightProbesPlacement
         description: Unity project showing how to use the custom Package LightProbesVolumes for placing lightprobes automatically.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: VolumetricLinesUnity
+      - name: Volumetric Lines Unity
         url: https://github.com/johannesugb/VolumetricLinesUnity
         description: Source of the Volumetric Lines Asset from Unity's Asset Store.
         entry_type: reference
@@ -2227,7 +2227,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: VoxelMeshGenerator
+      - name: Voxel Mesh Generator
         url: https://github.com/chulini/VoxelMeshGenerator
         description: Unity3D C# project that generates a voxel 3D mesh using the greedy mesh technique.
         entry_type: reference
@@ -2275,7 +2275,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: EnhancedScrollView
+      - name: Enhanced Scroll View
         url: https://github.com/tinyantstudio/EnhancedScrollView
         description: Cool 3d scoll view for Unity(NGUI 3D UGUI support).
         entry_type: reference
@@ -2287,7 +2287,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityDynamicScrollView
+      - name: Unity Dynamic Scroll View
         url: https://github.com/aillieo/UnityDynamicScrollView
         description: Dynamic scrollView based on UGUI.
         entry_type: reference
@@ -2305,7 +2305,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnitySimpleFileBrowser
+      - name: Unity Simple File Browser
         url: https://github.com/yasirkula/UnitySimpleFileBrowser
         description: A uGUI based runtime file browser for Unity3D (draggable and resizable).
         entry_type: reference
@@ -2377,7 +2377,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: IcoSphereCreator
+      - name: Ico Sphere Creator
         url: https://github.com/kaiware007/IcoSphereCreator
         description: Create Ico Sphere Mesh Tool for Unity.
         entry_type: tool
@@ -2401,13 +2401,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: LSystemsInUnity
+      - name: L Systems In Unity
         url: https://github.com/pboechat/LSystemsInUnity
         description: L-System is a rewriting system used mainly to model the development of plants. L-Systems in Unity enables you to rapidly create plants in your Unity games.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: TerrainToolSamples
+      - name: Terrain Tool Samples
         url: https://github.com/Unity-Technologies/TerrainToolSamples
         description: New Terrain Tools and Brush Assets for the Unity Terrain system. ![Official](UnityResource16x16.png)
         entry_type: reference
@@ -2443,7 +2443,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityExtensions.InspectInline
+      - name: Unity Extensions.Inspect Inline
         url: https://github.com/garettbass/UnityExtensions.InspectInline
         description: Enables you to inspect and edit object references, and easily embed such objects as subassets.
         entry_type: reference
@@ -2461,25 +2461,25 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: TimeFlowShiki
+      - name: Time Flow Shiki
         url: https://github.com/sassembla/TimeFlowShiki
         description: Unity Editor Timeline GUI skeleton.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Animator_Timeline
+      - name: Animator Timeline
         url: https://github.com/absameen/Animator_Timeline
         description: Timeline Editor for Unity. (#ANIMATION)
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityTimelordBlender
+      - name: Unity Timelord Blender
         url: https://github.com/imxzjv/UnityTimelordBlender
         description: Timelord is a demo for custom blending of Unity3D Timelines.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityTimelineConditions
+      - name: Unity Timeline Conditions
         url: https://github.com/imxzjv/UnityTimelineConditions
         description: Experimental port of Animator conditions interface to Timeline events.
         entry_type: reference
@@ -2581,7 +2581,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: StrangeIoC
+      - name: Strange Io C
         url: http://strangeioc.github.io/strangeioc/
         description: Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
         entry_type: tool
@@ -2617,13 +2617,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: WebViewHook
+      - name: Web View Hook
         url: https://github.com/willnode/WebViewHook
         description: Exposed UnityEditor WebView API.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityMeshCounter
+      - name: Unity Mesh Counter
         url: https://github.com/raimis001/unityMeshCounter
         description: Shows counters for mesh data.
         entry_type: reference
@@ -2647,7 +2647,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityExtensions.SelectionHistory
+      - name: Unity Extensions.Selection History
         url: https://github.com/garettbass/UnityExtensions.SelectionHistory
         description: 'Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".'
         entry_type: reference
@@ -2809,7 +2809,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: SanAndreasUnity
+      - name: San Andreas Unity
         url: https://github.com/GTA-ASM/SanAndreasUnity
         description: 'We''re porting GTA: San Andreas to Unity!'
         entry_type: reference
@@ -2821,7 +2821,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: GuitarHeroUnity
+      - name: Guitar Hero Unity
         url: https://github.com/caffeine239/GuitarHeroUnity
         description: Guitar Hero fan game made in Unity.
         entry_type: reference
@@ -3023,7 +3023,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: tensorflow2-ue4-ar
+      - name: Tensorflow2 Ue4 AR
         url: https://github.com/Allysony/tensorflow2-ue4-ar
         description: Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
         entry_type: reference
@@ -3039,7 +3039,7 @@ subsections:
     title: Unreal Engine — Resources
     description: Unreal Engine resources and marketplace picks.
     entries:
-      - name: UnrealEngineAdvancedFunctions
+      - name: Unreal Engine Advanced Functions
         url: https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions
         description: Handy functions by [Mridul Sharma](https://www.instagram.com/mridul_sarmah/).
         license: Open Source
@@ -3109,7 +3109,7 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: CodeLikeMe
+      - name: Code Like Me
         url: https://www.youtube.com/@CodeLikeMe
         description: A wide variety of Unreal Engine-focused tutorials.
         entry_type: channel
@@ -3247,7 +3247,7 @@ subsections:
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: VelocityGridExport
+      - name: Velocity Grid Export
         url: https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter
         description: A tool to export vector fields out of Houdini.
         entry_type: tool
@@ -3259,7 +3259,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: VaFogOfWar
+      - name: Va Fog Of War
         url: https://github.com/ufna/VaFogOfWar
         description: A clear and simple solution of Fog of War for Unreal Engine.
         entry_type: reference
@@ -3271,7 +3271,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: SocketIOClient-Unreal
+      - name: Socket IO Client Unreal
         url: https://github.com/getnamo/SocketIOClient-Unreal
         description: Socket.IO client plugin for Unreal Engine.
         entry_type: reference
@@ -3283,13 +3283,13 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: TCP-Unreal
+      - name: TCP Unreal
         url: https://github.com/getnamo/TCP-Unreal
         description: Convenience TCP wrapper for Unreal Engine.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UDP-Unreal
+      - name: UDP Unreal
         url: https://github.com/getnamo/UDP-Unreal
         description: Convenience UDP wrapper for Unreal Engine.
         entry_type: reference
@@ -3343,7 +3343,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnrealSandboxTerrain
+      - name: Unreal Sandbox Terrain
         url: https://github.com/bw2012/UnrealSandboxTerrain
         description: Smooth voxel terrain plugin.
         entry_type: reference
@@ -3361,19 +3361,19 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: SCUE5-Plugin
+      - name: SCUE5 Plugin
         url: https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
         description: SCUE updated to Unreal 5.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ALS-Refactored
+      - name: ALS Refactored
         url: https://github.com/Sixze/ALS-Refactored
         description: Completely reworked and improved C++ version of Advanced Locomotion System V4.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: GASP-ALS
+      - name: GASP ALS
         url: https://github.com/PolygonHive/GASP-ALS
         description: Game Animation Sample with ALS Layering
         entry_type: reference
@@ -3385,7 +3385,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: myo-ue4
+      - name: Myo Ue4
         url: https://github.com/getnamo/myo-ue4
         description: Myo Plugin for Unreal Engine 4
         entry_type: reference
@@ -3403,31 +3403,31 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: PsWebServer
+      - name: Ps Web Server
         url: https://github.com/PushkinStudio/PsWebServer
         description: Civet web server integration plugin for Unreal Engine 4
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: PsReplayKit
+      - name: Ps Replay Kit
         url: https://github.com/PushkinStudio/PsReplayKit
         description: Unreal Engine 4 plugin for iOS to record or stream video from the screen, and audio from the app and microphone
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: PsFacebookMobile
+      - name: Ps Facebook Mobile
         url: https://github.com/PushkinStudio/PsFacebookMobile
         description: Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE4GameLiftClientSDK
+      - name: UE4 Game Lift Client SDK
         url: https://github.com/YetiTech-Studios/UE4GameLiftClientSDK
         description: Gamelift Client SDK for Unreal Engine 4
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: acl-ue4-plugin
+      - name: Acl Ue4 Plugin
         url: https://github.com/nfrechette/acl-ue4-plugin
         description: The official Animation Compression Library Unreal Engine 4 plugin
         entry_type: tool
@@ -3445,7 +3445,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ArticyImporterForUnreal
+      - name: Articy Importer For Unreal
         url: https://github.com/ArticySoftware/ArticyImporterForUnreal
         description: Articy Importer plugin for the Unreal Engine 4.
         entry_type: reference
@@ -3457,7 +3457,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: RealtimeMeshComponent
+      - name: Realtime Mesh Component
         url: https://github.com/TriAxis-Games/RealtimeMeshComponent
         description: Unreal Engine 5 plugin component for rendering runtime generated content.
         entry_type: reference
@@ -3469,7 +3469,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MySQLConnectorUE4Plugin
+      - name: My SQL Connector UE4 Plugin
         url: https://github.com/KhArtNJava/MySQLConnectorUE4Plugin
         description: MySQL Database Connector Plugin for Unreal Engine 4
         entry_type: reference
@@ -3481,7 +3481,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE4-AuroraEffect
+      - name: UE4 Aurora Effect
         url: https://github.com/Hideous/UE4-AuroraEffect
         description: A raymarched aurora borealis effect for Unreal 4
         entry_type: reference
@@ -3493,7 +3493,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE5-StylizedPostProcess
+      - name: UE5 Stylized Post Process
         url: https://github.com/ymt3d/UE5-StylizedPostProcess
         description: Stylized Post Process for Unreal Engine 5
         entry_type: reference
@@ -3505,7 +3505,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: RuntimeMeshComponent
+      - name: Runtime Mesh Component
         url: https://github.com/Koderz/RuntimeMeshComponent
         description: Unreal Engine 4 plugin component for rendering runtime generated content
         entry_type: reference
@@ -3535,7 +3535,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE4-CustomGravityPlugin
+      - name: UE4 Custom Gravity Plugin
         url: https://github.com/mhousse1247/UE4-CustomGravityPlugin
         description: 'Unreal Engine 4 : Custom Gravity Plugin'
         entry_type: reference
@@ -3565,19 +3565,19 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: PsRealVehicle
+      - name: Ps Real Vehicle
         url: https://github.com/PushkinStudio/PsRealVehicle
         description: PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: WeaponTrace-Unreal
+      - name: Weapon Trace Unreal
         url: https://github.com/getnamo/WeaponTrace-Unreal
         description: WeaponTracing plugin for reliable melee combat.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: GhostMeshPlugin
+      - name: Ghost Mesh Plugin
         url: https://github.com/NoahZuo/GhostMeshPlugin
         description: This is a UE4 plugin that can create ghost mesh in Unreal Engine 4
         entry_type: reference
@@ -3601,31 +3601,31 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: RuntimeFilesDownloader
+      - name: Runtime Files Downloader
         url: https://github.com/gtreshchev/RuntimeFilesDownloader
         description: Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: RuntimeAudioImporter
+      - name: Runtime Audio Importer
         url: https://github.com/gtreshchev/RuntimeAudioImporter
         description: Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: RuntimeMeshLoader
+      - name: Runtime Mesh Loader
         url: https://github.com/Chrizey91/RuntimeMeshLoader
         description: A pluging for Unreal Engine 4, which allows to import meshes during runtime.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE4-BYGLocalization
+      - name: UE4 BYG Localization
         url: https://github.com/BraceYourselfGames/UE4-BYGLocalization
         description: Simple CSV localization system for Unreal Engine 4
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: tensorflow-ue4
+      - name: Tensorflow Ue4
         url: https://github.com/getnamo/tensorflow-ue4
         description: TensorFlow plugin for Unreal Engine 4
         entry_type: reference
@@ -3655,7 +3655,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: socketio-client-ue4
+      - name: Socketio Client Ue4
         url: https://github.com/getnamo/socketio-client-ue4
         description: socket.io client plugin for Unreal Engine 4
         entry_type: reference
@@ -3667,13 +3667,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: udp-ue4
+      - name: Udp Ue4
         url: https://github.com/getnamo/udp-ue4
         description: Convenience UDP wrapper for Unreal Engine 4
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: tcp-ue4
+      - name: Tcp Ue4
         url: https://github.com/getnamo/tcp-ue4
         description: Convenience TCP wrapper for Unreal Engine 4
         entry_type: reference
@@ -3691,13 +3691,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: mqtt-utilities-unreal
+      - name: Mqtt Utilities Unreal
         url: https://github.com/NinevaStudios/mqtt-utilities-unreal
         description: MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ble-utilities-unreal
+      - name: Ble Utilities Unreal
         url: https://github.com/NinevaStudios/ble-utilities-unreal
         description: This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
         entry_type: reference
@@ -3709,37 +3709,37 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE-DSSPlugin
+      - name: UE DSS Plugin
         url: https://github.com/sha3sha3/UE-DSSPlugin
         description: Scalable MMO servers instantiation, dungeon instantiation and player balancing subsystem for unreal engine
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE-EasyKafka
+      - name: UE Easy Kafka
         url: https://github.com/sha3sha3/UE-EasyKafka
         description: EasyKafka is a Kafka/Redpanda client sub-system for unreal engine. It supports producing and consuming records through blueprint and C++.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unreal-SignalR
+      - name: Unreal Signal R
         url: https://github.com/FrozenStormInteractive/Unreal-SignalR
         description: SignalR client for Unreal Engine.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: LocusReplicationGraph
+      - name: Locus Replication Graph
         url: https://github.com/locus84/LocusReplicationGraph
         description: Simple Unity Addressables Alternative That Supports Synchronized API And Memory Management.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unreal-Magic-Nodes
+      - name: Unreal Magic Nodes
         url: https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes
         description: Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE4_EOS_Plugin
+      - name: UE4 EOS Plugin
         url: https://github.com/gaslightgames/UE4_EOS_Plugin
         description: A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
         entry_type: tool
@@ -3751,7 +3751,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnrealEnginePython
+      - name: Unreal Engine Python
         url: https://github.com/20tab/UnrealEnginePython
         description: Embed Python in Unreal Engine 4
         entry_type: reference
@@ -3787,7 +3787,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: kotlin-unreal
+      - name: Kotlin Unreal
         url: https://github.com/hiperbou/kotlin-unreal
         description: 'kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4'
         entry_type: reference
@@ -3805,7 +3805,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ue4-protobuf
+      - name: Ue4 Protobuf
         url: https://github.com/hxhb/ue4-protobuf
         description: This is an Unreal Engine 4 plugin that integrates Protobuf into the project without requiring you to add system PATH or anything else.
         entry_type: reference
@@ -3817,7 +3817,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: AudioAnalysisTools
+      - name: Audio Analysis Tools
         url: https://github.com/gtreshchev/AudioAnalysisTools
         description: Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
         entry_type: reference
@@ -3829,25 +3829,25 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: RuntimeSpeechRecognizer
+      - name: Runtime Speech Recognizer
         url: https://github.com/gtreshchev/RuntimeSpeechRecognizer
         description: Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: OSVR-Unreal
+      - name: OSVR Unreal
         url: https://github.com/OSVR/OSVR-Unreal
         description: OSVR plugin for Unreal Engine
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MixedReality-UXTools-Unreal
+      - name: Mixed Reality UX Tools Unreal
         url: https://github.com/microsoft/MixedReality-UXTools-Unreal
         description: UX tools and components for developing Mixed Reality applications in UE4.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UMG-ResizableWidget
+      - name: UMG Resizable Widget
         url: https://github.com/MWadstein/UMG-ResizableWidget
         description: Resizable Widget for UMG for Unreal Engine 4
         entry_type: reference
@@ -3859,7 +3859,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unreal-UMG-3DObjectInWidget
+      - name: Unreal UMG 3 D Object In Widget
         url: https://github.com/Tolc/Unreal-UMG-3DObjectInWidget
         description: A simple Unreal Engine 4 project (precisely 4.7.4) showing how to render a 3D object/mesh in a UMG widget
         entry_type: reference
@@ -3871,25 +3871,25 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnrealImGui
+      - name: Unreal Im GUI
         url: https://github.com/segross/UnrealImGui
         description: Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ue4-uitween
+      - name: Ue4 Uitween
         url: https://github.com/benui-dev/ue4-uitween
         description: Unreal 4 UMG UI tweening library in C++
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ue4-canvas-gui
+      - name: Ue4 Canvas GUI
         url: https://github.com/MaddyOff/ue4-canvas-gui
         description: It's a simple Canvas GUI for Unreal Engine 4 with mouse operation
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: FairyGUI-unreal
+      - name: Fairy GUI Unreal
         url: https://github.com/fairygui/FairyGUI-unreal
         description: A flexible UI framework for Unreal Engine
         entry_type: tool
@@ -3901,7 +3901,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unreal-Library
+      - name: Unreal Library
         url: https://github.com/EliotVU/Unreal-Library
         description: UE Explorer's library for parsing data from games built with the Unreal Engine.
         entry_type: tool
@@ -3913,13 +3913,13 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE4-Binary-Builder
+      - name: UE4 Binary Builder
         url: https://github.com/ryanjon2040/UE4-Binary-Builder
         description: An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: prefabricator-ue4
+      - name: Prefabricator Ue4
         url: https://github.com/coderespawn/prefabricator-ue4
         description: Prefabricator - Prefab plugin for Unreal Engine 4
         entry_type: reference
@@ -3931,25 +3931,25 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnrealFastNoise
+      - name: Unreal Fast Noise
         url: https://github.com/midgen/UnrealFastNoise
         description: Modular, Blueprint-friendly noise generation for UE4
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnrealFastNoise2
+      - name: Unreal Fast Noise2
         url: https://github.com/DoubleDeez/UnrealFastNoise2
         description: A plugin that wraps [FastNoise2](https://github.com/Auburn/FastNoise2), allowing you to use the FastNoise2 library in blueprints.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: AsyncLoadingScreen
+      - name: Async Loading Screen
         url: https://github.com/truong-bui/AsyncLoadingScreen
         description: Async Loading Screen is a free and open-source plugin for Unreal Engine. Async Loading Screen allows you to easily configure a Loading Screen System in the project settings, and automatically add a
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: global-event-system-ue4
+      - name: Global Event System Ue4
         url: https://github.com/getnamo/global-event-system-ue4
         description: A loosely coupled internal global event system (GES) plugin for the Unreal Engine. Aims to solve cross-map and cross-blueprint communication for reliable and inferable event flow.
         entry_type: reference
@@ -3961,7 +3961,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE4-Node-Graph-Assistant
+      - name: UE4 Node Graph Assistant
         url: https://github.com/pdlogingithub/UE4-Node-Graph-Assistant
         description: A plugin to help you to create node graph faster and easier in unreal engine 4.
         entry_type: reference
@@ -3979,19 +3979,19 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: unreal-bp-csv-parsing
+      - name: Unreal Bp Csv Parsing
         url: https://github.com/IncantaGames/unreal-bp-csv-parsing
         description: Unreal Engine plugin that adds CSV parsing blueprint nodes
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MDMetaDataEditor
+      - name: MD Meta Data Editor
         url: https://github.com/DoubleDeez/MDMetaDataEditor
         description: Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE-EasyJWT
+      - name: UE Easy JWT
         url: https://github.com/sha3sha3/UE-EasyJWT
         description: JWT wrapper (Engine Sub-system) for Unreal Engine.
         entry_type: reference
@@ -4021,19 +4021,19 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: sublime-unreal-snippets
+      - name: Sublime Unreal Snippets
         url: https://github.com/awforsythe/sublime-unreal-snippets
         description: A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: vscode-unreal-snippets
+      - name: Vscode Unreal Snippets
         url: https://github.com/pseuplex/vscode-unreal-snippets
         description: Unreal Engine snippets based on https://github.com/awforsythe/sublime-unreal-snippets.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: EasyJsonParser
+      - name: Easy Json Parser
         url: https://github.com/ayumax/EasyJsonParser
         description: json parse library for unreal engine
         entry_type: tool
@@ -4045,7 +4045,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ue4-docker
+      - name: Ue4 Docker
         url: https://github.com/adamrehn/ue4-docker
         description: Windows and Linux containers for Unreal Engine 4
         entry_type: reference
@@ -4057,7 +4057,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnrealVersionChanger
+      - name: Unreal Version Changer
         url: https://github.com/Gradess2019/UnrealVersionChanger
         description: Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
         entry_type: tool
@@ -4075,7 +4075,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE-BUITween
+      - name: UE BUI Tween
         url: https://github.com/benui-dev/UE-BUITween
         description: UI Tweening Libary for Unreal Engine UMG UI. Create simple tweens for UMG widgets from C++.
         entry_type: reference
@@ -4384,7 +4384,7 @@ subsections:
           - Open Source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Fish-Net
+      - name: Fish Net
         url: https://fish-networking.gitbook.io/
         description: High-performance Unity networking.
         license: Open Source
@@ -4486,7 +4486,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: colyseus-unreal
+      - name: Colyseus Unreal
         url: https://github.com/charisma-ai/colyseus-unreal
         description: Colyseus Multiplayer SDK for Unreal Engine
         entry_type: tool
@@ -4576,7 +4576,7 @@ subsections:
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: EzSpriteSheet
+      - name: Ez Sprite Sheet
         url: https://github.com/z64me/EzSpriteSheet
         description: Creates sprite sheets from animated GIFs and more
         entry_type: reference
@@ -4758,7 +4758,7 @@ subsections:
           - WFC
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: FastNoiseLite
+      - name: Fast Noise Lite
         url: https://github.com/Auburn/FastNoiseLite
         description: Fast noise generation (Perlin, Simplex, Cellular).
         license: Open Source
@@ -5142,7 +5142,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unity-Audio-Manager
+      - name: Unity Audio Manager
         url: https://github.com/MathewHDYT/Unity-Audio-Manager
         description: Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
         entry_type: reference

@@ -93,13 +93,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: AL_USDMaya
+      - name: AL USD Maya
         url: https://github.com/AnimalLogic/AL_USDMaya
         description: Represent Maya data in Maya and USD data in USD.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: luma_usd
+      - name: Luma USD
         url: https://github.com/LumaPictures/luma_usd
         description: Plugins for USD.
         entry_type: reference
@@ -111,13 +111,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: usd-noodle
+      - name: USD Noodle
         url: https://github.com/chris-gardner/usd-noodle
         description: Pretty node graph showing dependencies of a USD file.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: USD-URI-resolver
+      - name: USD URI Resolver
         url: https://github.com/LumaPictures/usd-uri-resolver
         description: A generic, URI based resolver for USD, support custom plugins.
         entry_type: reference
@@ -129,7 +129,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: usd-qtpy
+      - name: USD Qtpy
         url: https://github.com/BigRoy/usd-qtpy
         description: Python Qt components for building custom USD tools.
         entry_type: reference
@@ -220,7 +220,7 @@ subsections:
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: A-trip-through-the-graphics-pipeline
+      - name: A Trip Through The Graphics Pipeline
         url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
         description: A-trip-through-the-graphics-pipeline.
         entry_type: reference
@@ -437,7 +437,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: OpenTimelineIO
+      - name: Open Timeline IO
         url: http://opentimeline.io
         description: ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
         entry_type: tool
@@ -564,7 +564,7 @@ subsections:
           - Reconstruction
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MegaSaM
+      - name: Mega Sa M
         url: https://github.com/mega-sam/mega-sam
         description: Structure and motion from casual video.
         license: Open Source
@@ -891,7 +891,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: OpenScanTools
+      - name: Open Scan Tools
         url: https://openscantools.com/
         description: A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.
         entry_type: software
@@ -1061,43 +1061,43 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: NeRF-PyTorch
+      - name: Ne RF Py Torch
         url: https://github.com/yenchenlin/nerf-pytorch
         description: ', Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: NeRF-PyTorch-Lighting
+      - name: Ne RF Py Torch Lighting
         url: https://github.com/kwea123/nerf_pl
         description: ', [@kwea123](https://github.com/kwea123), 2020'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: NeRF-W
+      - name: Ne RF W
         url: https://github.com/kwea123/nerf_pl/tree/nerfw
         description: ', [@kwea123](https://github.com/kwea123), 2021'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: NeRF-PyTorch3D
+      - name: Ne RF Py Torch3 D
         url: https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf
         description: ', [@facebookresearch](https://github.com/facebookresearch), 2020'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: JaxNeRF
+      - name: Jax Ne RF
         url: https://github.com/google-research/google-research/tree/master/jaxnerf
         description: ', Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60)'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Mip-NeRF
+      - name: Mip Ne RF
         url: https://github.com/google/mipnerf
         description: ', [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MrNeRF
+      - name: Mr Ne RF
         url: https://github.com/MrNeRF/awesome-3D-gaussian-splatting
         description: for inspiring me to construct this repo.
         entry_type: reference
@@ -1139,13 +1139,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: gaussian-splatting-lightning
+      - name: Gaussian Splatting Lightning
         url: https://github.com/yzslab/gaussian-splatting-lightning
         description: A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 360-gaussian-splatting
+      - name: 360 Gaussian Splatting
         url: https://github.com/inuex35/360-gaussian-splatting
         description: Generate gaussian splatting directly from 360 images
         entry_type: reference
@@ -1520,7 +1520,7 @@ subsections:
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: InstantMeshesRemesh
+      - name: Instant Meshes Remesh
         url: https://blenderartists.org/t/instant-meshes-remesh/1114982
         description: A suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
         entry_type: software
@@ -1676,7 +1676,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: OnionSkinRenderer
+      - name: Onion Skin Renderer
         url: https://github.com/Viele/onionSkinRenderer
         description: Onion Skin Renderer for Maya
         entry_type: tool
@@ -1742,7 +1742,7 @@ subsections:
           - Blender Bridge
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: fSpy-Maya
+      - name: F Spy Maya
         url: https://github.com/Nathanieljla/fSpy-Maya
         description: Unofficial fSpy Maya importer (one of several).
         entry_type: tool
@@ -2078,7 +2078,7 @@ subsections:
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: glChAoS.P
+      - name: Gl Ch Ao S.P
         url: https://github.com/BrutPitt/glChAoS.P
         description: RealTime 3D Strange Attractors scout on GPU.
         entry_type: tool
@@ -2286,7 +2286,7 @@ subsections:
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: BY-GEN
+      - name: BY GEN
         url: https://gumroad.com/l/BY-GEN
         description: is an addon designed to simplify the process of creating non-destructive, generative modeling styles in Blender. [![][repo]](https://github.com/curtisjamesholt/BY-GEN-public)
         entry_type: marketplace
@@ -2310,7 +2310,7 @@ subsections:
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: blender-osm
+      - name: Blender Osm
         url: https://gumroad.com/l/blender-osm
         description: One click download and import of OpenStreetMap and terrain for Blender.
         entry_type: marketplace
@@ -2400,7 +2400,7 @@ subsections:
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: E-Cycles
+      - name: E Cycles
         url: https://ecycles.gumroad.com/l/E-Cycles
         description: '[$] : is a fork of Cycles which renders up to 2.5x faster out of the box when using CUDA GPUs, up to 15x using new options.'
         entry_type: marketplace
@@ -2466,7 +2466,7 @@ subsections:
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Auto-Terrainer
+      - name: Auto Terrainer
         url: https://unicornhunter.gumroad.com/l/AutoTerrainer
         description: Automatic Blender Terrain Generator is a powerful and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
         entry_type: marketplace
@@ -2527,7 +2527,7 @@ subsections:
           - Web
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Online-Convert
+      - name: Online Convert
         url: https://www.online-convert.com/
         description: Web-based format converter.
         entry_type: tool
@@ -2761,7 +2761,7 @@ subsections:
           - EXR
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: fSpy-USD
+      - name: F Spy USD
         url: https://github.com/Vochsel/fspy-USD
         description: Unofficial fSpy to USD converter.
         entry_type: reference
@@ -2842,7 +2842,7 @@ subsections:
           - Academy
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: OpenTimelineIO
+      - name: Open Timeline IO
         url: https://github.com/AcademySoftwareFoundation/OpenTimelineIO
         description: Editorial timeline interchange (Pixar).
         license: Open Source
@@ -2864,7 +2864,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: OpenImageIO
+      - name: Open Image IO
         url: https://github.com/OpenImageIO/oiio
         description: A library for reading and writing images in many common and VFX-related formats.
         entry_type: reference

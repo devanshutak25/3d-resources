@@ -111,7 +111,7 @@ subsections:
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: fSpy-Blender
+      - name: F Spy Blender
         url: https://github.com/stuffmatic/fSpy-Blender
         description: Official fSpy Blender importer.
         entry_type: plugin
@@ -123,7 +123,7 @@ subsections:
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: blender_vscode
+      - name: Blender Vscode
         url: https://github.com/JacquesLucke/blender_vscode
         description: Visual Studio Code extension for Blender development.
         entry_type: plugin
@@ -393,7 +393,7 @@ subsections:
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: render-useful
+      - name: Render Useful
         url: https://gitlab.com/ldo/render-useful
         description: Command-line tools for Blender renders.
         entry_type: plugin
@@ -531,7 +531,7 @@ subsections:
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UV-Packer
+      - name: UV Packer
         url: https://www.uv-packer.com/blender/
         description: Automatic and free UV-Packer Add-on for Blender.
         entry_type: plugin
@@ -561,7 +561,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Jet-Fluids
+      - name: Jet Fluids
         url: https://github.com/PavelBlend/blender_jet_fluids_addon
         description: '[Jet fluid](https://github.com/doyubkim/fluid-engine-dev) simulator integration in blender.'
         entry_type: reference
@@ -579,7 +579,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Data-FX
+      - name: Data FX
         url: https://github.com/LandonFerg/Data-FX
         description: Loads and visualizes different types of data within Blender from .csv files.
         entry_type: reference
@@ -597,7 +597,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: tree-gen
+      - name: Tree Gen
         url: https://github.com/friggog/tree-gen
         description: procedural generation of tree models in blender.
         entry_type: reference
@@ -627,7 +627,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Blender-Sculpt-Tools
+      - name: Blender Sculpt Tools
         url: https://github.com/anfeo/Blender-Sculpt-Tools
         description: Addon for help sculpting base mesh like Zbrush with Zsphere.
         entry_type: reference
@@ -795,13 +795,13 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: blender-xr
+      - name: Blender XR
         url: https://github.com/MARUI-PlugIn/BlenderXR
         description: A free virtual and mixed reality user interface for Blender that enables artists to edit scenes within the software using a suitable headset and controllers.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Blender-Metaverse-Addon
+      - name: Blender Metaverse Addon
         url: https://github.com/Menithal/Blender-Metaverse-Addon
         description: Blender toolset for creating content for Metaverses like High Fidelity.
         entry_type: reference
@@ -825,7 +825,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Screencast-Keys
+      - name: Screencast Keys
         url: https://github.com/nutti/Screencast-Keys
         description: Status Add-On for Blender.
         entry_type: reference
@@ -861,7 +861,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Parallel_Render
+      - name: Parallel Render
         url: https://github.com/elmopl/ktba/wiki/Addons
         description: Render the output from the Sequencer multithreaded through the Render sidebar.
         entry_type: reference
@@ -885,7 +885,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: blender_kitti
+      - name: Blender Kitti
         url: https://github.com/risteon/blender_kitti
         description: Render large point clouds and voxel grids with blender.
         entry_type: reference
@@ -957,7 +957,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: LibSM64-Blender
+      - name: Lib SM64 Blender
         url: https://github.com/libsm64/libsm64-blender
         description: This add-on integrates libsm64 into Blender and provides various additional integrations with Fast64.
         entry_type: reference
@@ -975,7 +975,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Blender-Colab
+      - name: Blender Colab
         url: https://github.com/syn73/blender-colab
         description: Render on **_Google Colab_**, this is a Python script that allows you to render Blender scene using Google Colaboratory. Only Cycles.
         entry_type: reference
@@ -993,7 +993,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: BlenderUpdaterCLI
+      - name: Blender Updater CLI
         url: https://github.com/overmindstudios/BlenderUpdaterCLI
         description: Command line version of BlenderUpdater.
         entry_type: reference
@@ -1023,31 +1023,31 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: blender-scripting
+      - name: Blender Scripting
         url: https://github.com/njanakiev/blender-scripting
         description: Introduction to blender scripting. This is a collection of simple to more involved examples to scripting in Blender with Python.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: fake-bpy-module
+      - name: Fake Bpy Module
         url: https://github.com/nutti/fake-bpy-module
         description: is the collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: blender-debugger-for-vscode
+      - name: Blender Debugger For Vscode
         url: https://github.com/AlansCodeLog/blender-debugger-for-vscode
         description: Blender addon for remote debugging Blender with VS Code (and Visual Studio).
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: blender-cli-rendering
+      - name: Blender CLI Rendering
         url: https://github.com/yuki-koyama/blender-cli-rendering
         description: Python scripts for rendering images using Blender from command-line interface.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: blender-addon-tester
+      - name: Blender Addon Tester
         url: https://github.com/nangtani/blender-addon-tester
         description: The blender addon tester is a test harness to enable pytest hook to allow addons to be tested inside a defined version of blender.
         entry_type: reference
@@ -1077,19 +1077,19 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: awesome-3d-human
+      - name: Awesome 3D Human
         url: https://github.com/lijiaman/awesome-3d-human
         description: A curated list of papers & resources linked to 3D Human research including face, body, hand and motion modeling.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: awesome-3d-printing
+      - name: Awesome 3D Printing
         url: https://github.com/ad-si/awesome-3d-printing
         description: A curated list of awesome 3D printing resources.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 3D-Machine-Learning
+      - name: 3 D Machine Learning
         url: https://github.com/timzhang642/3D-Machine-Learning
         description: A resource repository for 3D machine learning.
         entry_type: reference
@@ -1101,7 +1101,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: HiPhyEngine
+      - name: Hi Phy Engine
         url: https://hiphyengine.github.io/
         description: Fully-coupled high-fidelity physics engine addon — unified solver for rigid body, cloth, hair, soft body, and MPM snow/sand with intersection-free continuous collision detection.
         license: Paid
@@ -1624,7 +1624,7 @@ subsections:
           - Valve Alum
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: _.hips
+      - name:  .hips
         url: https://github.com/lcrs/_.hips
         description: Various Houdini tools.
         license: Open Source

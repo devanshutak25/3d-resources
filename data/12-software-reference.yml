@@ -1003,7 +1003,7 @@ subsections:
             - fx
           output:
             - motion-graphics
-            - vfx
+            - film-vfx
           platform:
             - win
             - mac
@@ -1011,7 +1011,6 @@ subsections:
             - usd
             - node-based
         readme_tags:
-          - Maxon
           - USD
           - Free Commercial
         url_last_verified: '2026-04-20'
@@ -2758,7 +2757,7 @@ subsections:
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: A-Frame
+      - name: A Frame
         url: https://aframe.io/
         description: An easy web framework for building 3D/AR/VR experiences.
         entry_type: software
@@ -2770,7 +2769,7 @@ subsections:
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Cocos2d-x
+      - name: Cocos2d X
         url: http://cocos2d-x.org/
         description: a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
         entry_type: software

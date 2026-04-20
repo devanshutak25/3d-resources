@@ -150,7 +150,7 @@ subsections:
           - GLSL
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: LearnOpenGL
+      - name: Learn Open GL
         url: https://learnopengl.com/
         description: Deep rendering concepts from scratch (lighting, shadows, PBR, SSAO).
         license: Free
@@ -278,7 +278,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: usd-arnold
+      - name: USD Arnold
         url: https://github.com/LumaPictures/usd-arnold
         description: USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages.
         entry_type: reference
@@ -515,7 +515,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: CircularColorPickerUnity
+      - name: Circular Color Picker Unity
         url: https://github.com/mathiassiig/CircularColorPickerUnity
         description: Just a shader and a script for a circular color picker.
         entry_type: reference
@@ -533,7 +533,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ShaderLabLab
+      - name: Shader Lab Lab
         url: https://github.com/rambutan2000/ShaderLabLab
         description: A system using T4 Templates to generate Unity ShaderLab code in the Editor.
         entry_type: reference
@@ -551,7 +551,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityOutlineShader
+      - name: Unity Outline Shader
         url: https://github.com/IronWarrior/UnityOutlineShader
         description: Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
         entry_type: reference
@@ -905,7 +905,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: framer-motion
+      - name: Framer Motion
         url: https://www.framer.com/motion/
         description: A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for bindin
         entry_type: reference
@@ -953,7 +953,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityShaderCheatsheet
+      - name: Unity Shader Cheatsheet
         url: https://github.com/nothke/UnityShaderCheatsheet
         description: Collection of Unity shader copypastas and gotchas.
         entry_type: reference
@@ -977,7 +977,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: NodeToPython
+      - name: Node To Python
         url: https://github.com/BrendanParmer/NodeToPython
         description: Convert Geometry, Shader, and Compositing nodes to legible Python scripts and add-ons. [![][mit]](https://github.com/BrendanParmer/NodeToPython/blob/main/LICENSE)
         entry_type: reference
@@ -1001,7 +1001,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Three-Blender
+      - name: Three Blender
         url: https://github.com/ppmpreetham/three-blender
         description: Blender based tool, to convert your Blender files directly to threeJS.
         entry_type: tool
@@ -1019,7 +1019,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: fft-ocean
+      - name: Fft Ocean
         url: https://github.com/jbouny/fft-ocean
         description: Fast Fourier Transform ocean rendering for Three.js
         entry_type: reference
@@ -1127,7 +1127,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Fragment-foundry
+      - name: Fragment Foundry
         url: http://hughsk.io/fragment-foundry
         description: Interactive fragment shader tutorial.
         entry_type: tutorial
@@ -1289,7 +1289,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: react-spring
+      - name: React Spring
         url: https://www.react-spring.dev/
         description: An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fibe
         entry_type: reference
@@ -1475,7 +1475,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: VertexShaderArt
+      - name: Vertex Shader Art
         url: https://vertexshaderart.com/
         description: is a platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
         entry_type: reference

@@ -33,9 +33,9 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: https://awesome-illustrations.now.sh
+      - name: Awesome Illustrations
         url: https://awesome-illustrations.now.sh
-        description: https://awesome-illustrations.now.sh.
+        description: Curated awesome-list of illustration resources, tools, and references.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -882,7 +882,7 @@ subsections:
           - Adobe
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: X-Design
+      - name: X Design
         url: https://www.x-design.com/
         description: Design tool.
         entry_type: tool

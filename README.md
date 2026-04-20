@@ -231,7 +231,7 @@ General-purpose 3D model libraries with free downloads.
 - [CGHEVEN](https://cgheven.com/) — Free CC0 3D and VFX assets.
 - [XYZed3D (Gumroad)](https://xyzed3d.gumroad.com/) — CC0 (non-AI) asset packs — models, props, misc — by artyusufpatel.
 - [Poly Pizza](https://poly.pizza/) — Low-poly models (Google Poly archive).
-- [TheBaseMesh](https://www.thebasemesh.com/model-library) — Base meshes for sculpting and rigging.
+- [The Base Mesh](https://www.thebasemesh.com/model-library) — Base meshes for sculpting and rigging.
 - [Open3DModel](https://open3dmodel.com/) — Free model archive.
 - [Three D Scans](https://threedscans.com/) — Free 3D scan archive.
 - [Free3D.io](https://free3d.io/) — Free models.
@@ -353,7 +353,7 @@ HDR environment maps for lighting and reflections.
 - [HDRI Hub](https://hdri-hub.com/) — High-quality HDRIs with backplates.
 - [TextureHaven](https://texturehaven.com/) — Free textures with additional maps like displacement and bump maps. Also HDRIs.
 - [HDRI Sun Aligner](https://github.com/akej74/hdri-sun-aligner) — HDRI Sun Aligner is a Blender addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
-- [HDRI-to-CubeMap](https://matheowis.github.io/HDRI-to-CubeMap/) — A tool to convert your HDRI file into a Cube map that
+- [HDRI To Cube Map](https://matheowis.github.io/HDRI-to-CubeMap/) — A tool to convert your HDRI file into a Cube map that
 
 ### Textures & Materials — Free PBR Libraries
 
@@ -376,9 +376,9 @@ Free PBR texture libraries for materials authoring.
 - [TexGraph](https://galloscript.itch.io/texgraph) — A procedural texture creation tool that lets you create textures by connecting nodes in a graph.
 - [Imogen](https://github.com/CedricGuillemet/Imogen) — GPU Texture generator using dear imgui for UI.
 - [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) — Create textures from Glsl fragment shaders on Blender (2.8)
-- [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) — Example-based texture synthesis written in Rust.
+- [Texture Synthesis](https://github.com/EmbarkStudios/texture-synthesis) — Example-based texture synthesis written in Rust.
 - [Matcaps](https://github.com/nidorx/matcaps#matcaps) — A Huge library of matcap textures in PNG and ZMT, organized by color.
-- [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) — High efficient and fast 2D bin packing tool
+- [Cheetah Texture Packer](https://github.com/scriptum/Cheetah-Texture-Packer) — High efficient and fast 2D bin packing tool
 - [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) — Texture Packer built into Libgdx
 - [Tilesplit](https://github.com/AlexPoulsen/tilesplit) — CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size
 - [Material Maker](https://github.com/RodZill4/material-maker) — procedural texture creator made in Godot
@@ -410,11 +410,11 @@ Free PBR texture libraries for materials authoring.
 - [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter) — Allows users to create highly compressed texture files (that stay small both on disk and in memory) directly from image sources using NVIDIA’s CUDA-accelerated Texture Tools compressor technology.
 - [Texture Paint Manual.](https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html) — Texture Paint Manual..
 - [SpriteDicing](https://github.com/Elringus/SpriteDicing) — Unity extension for reusing sprite texture areas.
-- [UnityBitmapDrawing](https://github.com/ProtoTurtle/UnityBitmapDrawing) — Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
-- [uTextureSendReceive](https://github.com/BarakChamo/uTextureSendReceive) — Unity network texture sender and receiver for video and frame streaming.
+- [Unity Bitmap Drawing](https://github.com/ProtoTurtle/UnityBitmapDrawing) — Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
+- [U Texture Send Receive](https://github.com/BarakChamo/uTextureSendReceive) — Unity network texture sender and receiver for video and frame streaming.
 - [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) — Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
 - [CropTexture](https://github.com/natsupy/CropTexture) — Crop and resize texture in Unity editor!
-- [UnityPreviewGenerator](https://github.com/klhurley/UnityPreviewGenerator) — Generates preview textures for sprites, icons of Unity models.
+- [Unity Preview Generator](https://github.com/klhurley/UnityPreviewGenerator) — Generates preview textures for sprites, icons of Unity models.
 - [TexturePanner](https://github.com/AdultLink/TexturePanner) — This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
 - [CurveTexture](https://github.com/slipster216/CurveTexture) — Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
 - [Unity Texture Packer](https://github.com/andydbc/unity-texture-packer) — Utility to combine color channels from different textures into a single output.
@@ -423,10 +423,10 @@ Free PBR texture libraries for materials authoring.
 - [AudioTexture](https://github.com/TyounanMOTI/AudioTexture) — Generate Unity Texture2D from AudioClip. (#AUDIO)
 - [UVPreview](https://github.com/AsehesL/UVPreview) — Preview your UV islands in inspector window for your textures.
 - [Poliigon Blender Addon](https://help.poliigon.com/en/articles/6342599) — this addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating blender fi
-- [GameTextureViewer](https://jangafx.com/software/gametextureviewer/) — is a fast, reliable, and simple tool for
+- [Game Texture Viewer](https://jangafx.com/software/gametextureviewer/) — is a fast, reliable, and simple tool for
 - [LotPixel](https://www.lotpixel.com/texture-library?credit=free) — Free scan-based textures of interior and exterior materials at up to 8K resolution. For commercial use.
 - [MaterialX Library](https://matlib.gpuopen.com/main/materials/all) — AMD launched a free MaterialX-based Material Library. It allows users to download the materials and encourages them to upload their own.
-- [NASA-3D-Resources](https://nasa3d.arc.nasa.gov/) — Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources
+- [NASA 3 D Resources](https://nasa3d.arc.nasa.gov/) — Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources
 - [TextureLab](https://njbrown.itch.io/texturelab) — is a tool designed to make procedural texture generation.
 - [Poliigon/freebies](https://www.poliigon.com/search?credit=0) — [$] : A library of materials, and HDR's for artists including free textures that want photorealism.
 - [RenderHub/free](https://www.renderhub.com/free-3d-models) — Daz Content, 3D models, textures and materials.
@@ -443,10 +443,10 @@ Free PBR texture libraries for materials authoring.
 - [Texture3DPreview for Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) — This package enables interactive previews of Texture3D assets in Unity's Inspector window.
 - [EasyBake](https://github.com/leukbaars/EasyBake) — Texture baking UI for Blender that lives in the 3D Viewport. Small but powerful! Fast one-click baking and iteration.
 - [PBR Texture Mapper](https://github.com/jayanam/pbr_texture_mapper) — Create PBR node setup with one click.
-- [Principled-Baker](https://github.com/danielenger/Principled-Baker) — Bake PBR textures with a few clicks.
+- [Principled Baker](https://github.com/danielenger/Principled-Baker) — Bake PBR textures with a few clicks.
 - [UcuPaint](https://github.com/ucupumar/ucupaint) — A addon to manage texture layers for EEVEE and Cycles renderer.
 - [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) — Generate normal, height, specular or ambient occlusion textures from a single image.
-- [VaTexAtlas](https://github.com/ufna/VaTexAtlas) — Simple way to use texture atlases for Unreal Engine 4 UMG
+- [Va Tex Atlas](https://github.com/ufna/VaTexAtlas) — Simple way to use texture atlases for Unreal Engine 4 UMG
 - [GLTF Report](https://gltf.report) — Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 - [WebGL Texture Tester](http://toji.github.io/texture-tester/) — Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
 
@@ -494,7 +494,7 @@ Free and archival video footage sources.
 
 - [Internet Archive / Prelinger](https://archive.org/) — Public-domain archival footage.
 - [ActionVFX Practice](https://www.actionvfx.com/practice-footage) — Free practice VFX footage.
-- [OpenVisualFX](https://openvisualfx.com/) — Free VFX footage.
+- [Open Visual FX](https://openvisualfx.com/) — Free VFX footage.
 
 ### Audio — SFX & Music Libraries
 
@@ -539,7 +539,7 @@ Font libraries, pairing tools, and type references.
 - [FontLab 8](https://www.fontlab.com/font-editor/fontlab/) — Professional font editor.
 - [Fontz](https://fontz.design) — Free and premium 3D fonts with Blender source files
 - [Unity BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter) — An Unity editor extension for bitmap font.
-- [UnityStbEasyFont](https://github.com/aras-p/UnityStbEasyFont) — A port of stb_easy_font.h to Unity/C#.
+- [Unity Stb Easy Font](https://github.com/aras-p/UnityStbEasyFont) — A port of stb_easy_font.h to Unity/C#.
 - [typicons.font](http://s-ings.com/typicons/) — 336 pixel perfect, all-purpose vector icons in a web-font kit
 - [Typewriter](https://github.com/doakey3/blender-typewriter-addon) — Typewriter text animation for font objects.
 - [FontSelector](https://github.com/samytichadou/FontSelector_blender_addon/) — Easy font management inside Blender.
@@ -569,7 +569,7 @@ Icon libraries and animation sets.
 
 Free and paid game-ready asset sources. Cross-listed from §7.
 
-- [OpenGameArt](https://opengameart.org/) — Community hub for free game art.
+- [Open Game Art](https://opengameart.org/) — Community hub for free game art.
 - [Kenney](https://kenney.nl/) — CC0 game assets ("Asset Jesus").
 - [itch.io Assets](https://itch.io/game-assets) — Indie game asset marketplace.
 - [Kay Lousberg](https://kaylousberg.com/) — CC0 low-poly game assets.
@@ -608,9 +608,9 @@ Notable addons extending Blender.
 - [Graswald](https://blendermarket.com/products/graswald) — Grass and plants library.
 - [Easy HDRI](https://codeofart.com/easy-hdri-2-8/) — HDRI management addon.
 - [Blender Awesome List](https://github.com/agmmnn/awesome-blender) — More addons and resources around Blender in this awesome list.
-- [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) — Official fSpy Blender importer.
+- [F Spy Blender](https://github.com/stuffmatic/fSpy-Blender) — Official fSpy Blender importer.
 - [Blender Pyblish](https://github.com/jasperges/pyblish-blender) — Blender Addon to integrate the Pyblish framework
-- [blender_vscode](https://github.com/JacquesLucke/blender_vscode) — Visual Studio Code extension for Blender development.
+- [Blender Vscode](https://github.com/JacquesLucke/blender_vscode) — Visual Studio Code extension for Blender development.
 - [Blender Addons](https://github.com/Antonioya/blender) — Helpers for Blender
 - [Tissue](https://github.com/alessandro-zomparelli/tissue) — Blender's add-on for computational design.
 - [Sverchok](https://github.com/nortikin/sverchok/) — A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
@@ -655,7 +655,7 @@ Notable addons extending Blender.
 - [reflow](https://gitlab.com/diegogangl/reflow) — Blender addon to change fps.
 - [Rig on the Fly](https://gitlab.com/dypsloom/rigonthefly) — Rig on the Fly is a Blender dynamic rigging tool used to simplify and speed up animation workflow.
 - [IOR Reference](https://gitlab.com/diegogangl/IOR_reference) — A blender addon that display IOR values in a list.
-- [render-useful](https://gitlab.com/ldo/render-useful) — Command-line tools for Blender renders.
+- [Render Useful](https://gitlab.com/ldo/render-useful) — Command-line tools for Blender renders.
 - [OctaneRender Prime for Blender](https://home.otoy.com/render/octane-render/demo/#prime) — Fully integrated Octane Render, free tier. [(blender plugin manual)](https://docs.otoy.com/BlenderH/BlenderPluginManual.htm)
 - [blender.daily](https://www.instagram.com/blender.daily/) — , [Blender Secrets](https://www.instagram.com/blendersecretsdotorg/).
 - [Blign](https://jack-cooke.github.io/blign/) — is an alignment and distribution tool for Blender. It allows users to align and distribute shapes with many different options.
@@ -678,23 +678,23 @@ Notable addons extending Blender.
 - [Blender & ACES](https://www.toodee.de/?page_id=1720) — Setup Blender to work with ACES using OpenColorIO.
 - [Gigapixel AI](https://topazlabs.com/gigapixel-ai/) — [$] : is the only photo enlargement product available that can actually add detail back to your upscaled photo.
 - [UPBGE](https://upbge.org/) — is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
-- [UV-Packer](https://www.uv-packer.com/blender/) — Automatic and free UV-Packer Add-on for Blender.
+- [UV Packer](https://www.uv-packer.com/blender/) — Automatic and free UV-Packer Add-on for Blender.
 - [videvo](https://www.videvo.net/) — , [actionvfx/free-vfx](https://www.actionvfx.com/collections/free-vfx/category), [videezy](https://www.videezy.com/), [pixabay](https://pixabay.com/videos/search/), [freemotionbacks](https://www.youtu
 - [Developer Documentation](https://wiki.blender.org/wiki/Main_Page) — Here you can find information about Blender's development process, design and architecture, as well as instructions for Building Blender.
 - [Blender2Godot](https://www.zammedev.com/home/wip_projects/blender2godot) — is a addon that exports a Blender scene to a Godot Engine project.
 - [FLIP Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) — is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://blendermar
-- [Jet-Fluids](https://github.com/PavelBlend/blender_jet_fluids_addon) — [Jet fluid](https://github.com/doyubkim/fluid-engine-dev) simulator integration in blender.
+- [Jet Fluids](https://github.com/PavelBlend/blender_jet_fluids_addon) — [Jet fluid](https://github.com/doyubkim/fluid-engine-dev) simulator integration in blender.
 - [Phobos](https://github.com/dfki-ric/phobos) — An add-on for Blender allowing to create URDF, SDF and SMURF robot models.
 - [Blender Data Visualisation](https://github.com/Griperis/BlenderDataVis) — Load data into Blender and create visualisations.
-- [Data-FX](https://github.com/LandonFerg/Data-FX) — Loads and visualizes different types of data within Blender from .csv files.
+- [Data FX](https://github.com/LandonFerg/Data-FX) — Loads and visualizes different types of data within Blender from .csv files.
 - [Mesh Maze](https://github.com/elfnor/mesh_maze) — Blender add-on to generate a maze on any mesh.
 - [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator) — procedurally generate 3D spaceships.
-- [tree-gen](https://github.com/friggog/tree-gen) — procedural generation of tree models in blender.
+- [Tree Gen](https://github.com/friggog/tree-gen) — procedural generation of tree models in blender.
 - [Modeling Cloth](https://github.com/the3dadvantage/Modeling-Cloth-2_8) — Create real-time cloth-like behavior in meshes in Blender.
 - [JewelCraft](https://github.com/mrachinskiy/jewelcraft) — jewelry design toolkit add-on for Blender.
 - [Building Tools](https://github.com/ranjian0/building_tools) — Building generation addon for blender.
 - [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow/tree/blender_28) — This addon adds two operators to blender which both work on edgeloop selections.
-- [Blender-Sculpt-Tools](https://github.com/anfeo/Blender-Sculpt-Tools) — Addon for help sculpting base mesh like Zbrush with Zsphere.
+- [Blender Sculpt Tools](https://github.com/anfeo/Blender-Sculpt-Tools) — Addon for help sculpting base mesh like Zbrush with Zsphere.
 - [GoB](https://github.com/JoseConseco/GoB) — GoZ-alike tools for simple ZBrush-Blender interchange.
 - [Mesh Align Plus](https://github.com/egtwobits/mesh_mesh_align_plus) — Precisely align, move, and measure+match objects and mesh parts in your 3D scenes.
 - [RandoMesh](https://github.com/mantissa-/RandoMesh) — A blender addon to add randomized geometry to any mesh.
@@ -722,22 +722,22 @@ Notable addons extending Blender.
 - [Gaffer](https://github.com/gregzaal/Gaffer) — is a Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [![market]](https://blendermarket.com/products/g
 - [Lumiere](https://github.com/clarkx/Lumiere-V0.4) — Interactive Lighting add-on for Blender.
 - [Maps Models Importer](https://github.com/eliemichel/MapsModelsImporter) — A Blender add-on to import models from _Google Maps_. [[more info]](https://blog.exppad.com/article/importing-actual-3d-models-from-google-maps)
-- [blender-xr](https://github.com/MARUI-PlugIn/BlenderXR) — A free virtual and mixed reality user interface for Blender that enables artists to edit scenes within the software using a suitable headset and controllers.
-- [Blender-Metaverse-Addon](https://github.com/Menithal/Blender-Metaverse-Addon) — Blender toolset for creating content for Metaverses like High Fidelity.
+- [Blender XR](https://github.com/MARUI-PlugIn/BlenderXR) — A free virtual and mixed reality user interface for Blender that enables artists to edit scenes within the software using a suitable headset and controllers.
+- [Blender Metaverse Addon](https://github.com/Menithal/Blender-Metaverse-Addon) — Blender toolset for creating content for Metaverses like High Fidelity.
 - [Loom](https://github.com/p2or/blender-loom) — Add-on to simplify the rendering process of image sequences and certain frames, allows batch rendering and comes with some handy utilities that help in production.
 - [MDSANIMA RenderTime](https://github.com/mdsanima-dev/mdsanima-render-time) — Blender add-on estimates and calculate how long your animation will take to render done based on the rendering time of the only one frame.
 - [Camera Shakify](https://github.com/EatTheFuture/camera_shakify) — An addon for Blender that lets you easily add realistic camera shake to your cameras.
-- [Screencast-Keys](https://github.com/nutti/Screencast-Keys) — Status Add-On for Blender.
+- [Screencast Keys](https://github.com/nutti/Screencast-Keys) — Status Add-On for Blender.
 - [Bangingcuts](https://github.com/OllyFunkster/bangingcuts) — Cut up audio and video clips based on peaks in the audio track removing silences. Last Blender versions: don't install the zip, install .py file instead.
 - [Power Sequencer](https://github.com/GDQuest/blender-power-sequencer) — Brings smart new editing features to edit faster with Blender's Video Sequence Editor. It is completely Free and Open Source.
 - [VSEQF](https://github.com/snuq/VSEQF) — is an overhaul for Blender's VSE that can completely change your workflow. Designed for quick, mouse and keyboard balanced editing with a focus on real-time feedback.
 - [Transform Tools](https://github.com/doakey3/VSE_Transform_Tools) — Quickly transform, crop and fade video strips in Blender's Video Sequence Editor.
 - [Easy Proxy](https://github.com/cgvirus/blender-vse-easy-proxy) — Blender addon to create proxy files for Video Sequence Editor (VSE) easily using FFMPEG.
-- [Parallel_Render](https://github.com/elmopl/ktba/wiki/Addons) — Render the output from the Sequencer multithreaded through the Render sidebar.
+- [Parallel Render](https://github.com/elmopl/ktba/wiki/Addons) — Render the output from the Sequencer multithreaded through the Render sidebar.
 - [Scene Strip Tools](https://github.com/tin2tin/scene_strip_tools) — Preview Scene Strips directly in the 3D View.
 - [Subsimport](https://github.com/doakey3/Subsimport) — is an addon for Blender that allows users to create and edit subtitles for movies or music.
 - [Search Online References](https://github.com/tin2tin/Search-API-Reference) — Search current text in API Reference, Python Reference, Blender Stack Exchange, Blender Source Code and Github.
-- [blender_kitti](https://github.com/risteon/blender_kitti) — Render large point clouds and voxel grids with blender.
+- [Blender Kitti](https://github.com/risteon/blender_kitti) — Render large point clouds and voxel grids with blender.
 - [Point Cloud Visualizer](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280) — Display, edit, filter, render, convert, generate and export colored point cloud PLY files.
 - [Projectors](https://github.com/Ocupe/Projectors) — A blender add-on for simple projector creation and modification.
 - [QuickSwitch](https://github.com/schroef/QuickSwitch) — A helper to quick switch workspaces and view render menu in viewport.
@@ -749,31 +749,31 @@ Notable addons extending Blender.
 - [Screenwriter](https://github.com/tin2tin/Blender_Screenwriter) — Write screenplays in Blender Text Editor in Fountain markup syntax view/export with correct screenplay formatting.
 - [Kaleidoscope](https://github.com/blenderskool/kaleidoscope) — The add-on adds two new nodes, Spectrum and Intensity, which essentially improves your workflow inside Blender when creating materials.
 - [Mixer by Ubisoft](https://github.com/ubisoft/mixer) — is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition.
-- [LibSM64-Blender](https://github.com/libsm64/libsm64-blender) — This add-on integrates libsm64 into Blender and provides various additional integrations with Fast64.
+- [Lib SM64 Blender](https://github.com/libsm64/libsm64-blender) — This add-on integrates libsm64 into Blender and provides various additional integrations with Fast64.
 - [BlenderSynth](https://github.com/OllieBoyne/BlenderSynth) — Blender scripting for generating synthetic datasets at scale.
 - [Bandai Namco Research Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) — the R&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
-- [Blender-Colab](https://github.com/syn73/blender-colab) — Render on **_Google Colab_**, this is a Python script that allows you to render Blender scene using Google Colaboratory. Only Cycles.
+- [Blender Colab](https://github.com/syn73/blender-colab) — Render on **_Google Colab_**, this is a Python script that allows you to render Blender scene using Google Colaboratory. Only Cycles.
 - [Goxel](https://github.com/guillaumechereau/goxel) — Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
 - [BlenderUpdater](https://github.com/overmindstudios/BlenderUpdater) — Download and install nightly builds with one click.
-- [BlenderUpdaterCLI](https://github.com/overmindstudios/BlenderUpdaterCLI) — Command line version of BlenderUpdater.
+- [Blender Updater CLI](https://github.com/overmindstudios/BlenderUpdaterCLI) — Command line version of BlenderUpdater.
 - [Blender Version Manager](https://github.com/DotBow/Blender-Version-Manager) — Minimalistic download manager for blender.
 - [Blender Launcher](https://github.com/DotBow/Blender-Launcher) — Standalone client for managing official builds of blender.
 - [Blender Manager](https://github.com/verlorengest/BlenderManager) — Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management, and More.
 - [MicMac](https://github.com/micmacIGN/micmac) — is a free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
-- [blender-scripting](https://github.com/njanakiev/blender-scripting) — Introduction to blender scripting. This is a collection of simple to more involved examples to scripting in Blender with Python.
-- [fake-bpy-module](https://github.com/nutti/fake-bpy-module) — is the collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
-- [blender-debugger-for-vscode](https://github.com/AlansCodeLog/blender-debugger-for-vscode) — Blender addon for remote debugging Blender with VS Code (and Visual Studio).
-- [blender-cli-rendering](https://github.com/yuki-koyama/blender-cli-rendering) — Python scripts for rendering images using Blender from command-line interface.
-- [blender-addon-tester](https://github.com/nangtani/blender-addon-tester) — The blender addon tester is a test harness to enable pytest hook to allow addons to be tested inside a defined version of blender.
+- [Blender Scripting](https://github.com/njanakiev/blender-scripting) — Introduction to blender scripting. This is a collection of simple to more involved examples to scripting in Blender with Python.
+- [Fake Bpy Module](https://github.com/nutti/fake-bpy-module) — is the collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
+- [Blender Debugger For Vscode](https://github.com/AlansCodeLog/blender-debugger-for-vscode) — Blender addon for remote debugging Blender with VS Code (and Visual Studio).
+- [Blender CLI Rendering](https://github.com/yuki-koyama/blender-cli-rendering) — Python scripts for rendering images using Blender from command-line interface.
+- [Blender Addon Tester](https://github.com/nangtani/blender-addon-tester) — The blender addon tester is a test harness to enable pytest hook to allow addons to be tested inside a defined version of blender.
 - [Advanced Blender Add-on](https://github.com/eliemichel/AdvancedBlenderAddon) — This repository intends to give a starter kit as well as to illustrate and intensively comment design patterns commonly used in advanced Blender add-ons.
 - [3DN BIP](https://github.com/3dninjas/3dn-bip) — A Python library for Blender. Blazingly fast preview loads in Blender. Images of arbitrary size. `bpy.utils.previews` drop-in replacement.
 - [Geometry Script](https://github.com/carson-katri/geometry-script) — is a scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki) — Tiny Renderer or how OpenGL works: software rendering in 500 lines of code.
-- [awesome-3d-human](https://github.com/lijiaman/awesome-3d-human) — A curated list of papers & resources linked to 3D Human research including face, body, hand and motion modeling.
-- [awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) — A curated list of awesome 3D printing resources.
-- [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) — A resource repository for 3D machine learning.
+- [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human) — A curated list of papers & resources linked to 3D Human research including face, body, hand and motion modeling.
+- [Awesome 3D Printing](https://github.com/ad-si/awesome-3d-printing) — A curated list of awesome 3D printing resources.
+- [3 D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) — A resource repository for 3D machine learning.
 - [Usage in Science, Academia, and Industry](https://github.com/ichlubna/blenderSurvey) — Curated list of resources about the usage of Blender in Science, Academia, and Industry.
-- [HiPhyEngine](https://hiphyengine.github.io/) — Fully-coupled high-fidelity physics engine addon — unified solver for rigid body, cloth, hair, soft body, and MPM snow/sand with intersection-free continuous collision detection.
+- [Hi Phy Engine](https://hiphyengine.github.io/) — Fully-coupled high-fidelity physics engine addon — unified solver for rigid body, cloth, hair, soft body, and MPM snow/sand with intersection-free continuous collision detection.
 
 ### Blender — Tutorials
 
@@ -869,7 +869,7 @@ Toolkits, pipeline tools, and HDAs.
 - [Axiom](https://www.mattpuchala.com/axiom) — Sparse fluid solver by Matthew Puchala.
 - [Tighe Rzankowski's Tools](https://gumroad.com/trzanko) — Feather grooming and more.
 - [Rich Lord's Tools](https://www.richlord.com/) — Tools from ex-Valve animator.
-- [_.hips](https://github.com/lcrs/_.hips) — Various Houdini tools.
+- [.hips](https://github.com/lcrs/_.hips) — Various Houdini tools.
 - [Ffmpeg](https://ffmpeg.org/) — Flipbook to MP4 conversion tool ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM)).
 - [VFX Fractal Toolkit](https://github.com/jtomori/vft) — Set of tools for generating fractal and generative art.
 - [ZENO](https://github.com/zenustech/zeno) — Node-based 3D system that can produce cinematic physics effects at high efficiency.
@@ -989,7 +989,7 @@ Channels covering 2D/motion animation technique.
 - [Riveflow](https://riveflow.webflow.io/) — Learn how to create next-level interactive animations for Webflow websites with Rive.
 - [Create Rive-ting Animations](https://www.viget.com/articles/create-rive-animations/) — "Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."
 - [Animated AI](https://animatedai.github.io/) — animations and instructional videos about neural networks
-- [AnimatedCrosshairsUE4](https://github.com/BitReign/AnimatedCrosshairsUE4) — Animated Crosshairs for Unreal Engine 4 provides 17 ready to use animated UMG widgets including demo scene to test their combination
+- [Animated Crosshairs UE4](https://github.com/BitReign/AnimatedCrosshairsUE4) — Animated Crosshairs for Unreal Engine 4 provides 17 ready to use animated UMG widgets including demo scene to test their combination
 - [img2img animation with hands | Reddit](https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/) — img2img animation with hands | Reddit.
 - [Flutter Community](https://www.youtube.com/@FlutterCommunity) — Demonstrating Rive on the Flutter Community live stream for the 2022 Flutter Puzzle Hack.
 
@@ -1010,7 +1010,7 @@ AI-powered mocap and character animation tools.
 | [Cascadeur](https://cascadeur.com/) | Physics-based AI animation with AutoPosing. Unreal plugin. | Freemium | Physics-based · AutoPosing | Physics-based character animation |
 | [Live Link Face (Apple)](https://apps.apple.com/app/live-link-face/id1495370836) | Free facial mocap via iPhone into Unreal/Maya/Blender. | Free | Free · iPhone Face Capture | iPhone facial mocap |
 | [Viggle AI](https://viggle.ai/) | Character animation from video or image input. | Freemium | Video→Animation · AI | AI character animation from input media |
-| [FreeMoCap](https://freemocap.org/) | Free open-source motion capture system (traditional, not AI). | Open Source | Open Source · Mocap | Open-source mocap |
+| [Free Mo Cap](https://freemocap.org/) | Free open-source motion capture system (traditional, not AI). | Open Source | Open Source · Mocap | Open-source mocap |
 
 **Related:**
 - [AnimateDiff + ControlNet](https://github.com/guoyww/AnimateDiff) — Open-source controlled video animation from poses.
@@ -1052,7 +1052,7 @@ Foundational rendering and shader theory references.
 
 - [Physically Based Rendering (PBR Book)](https://www.pbr-book.org/) — Full book free online. Definitive PBR reference.
 - [The Book of Shaders](https://thebookofshaders.com/) — Interactive intro to GLSL fragment shaders.
-- [LearnOpenGL](https://learnopengl.com/) — Deep rendering concepts from scratch (lighting, shadows, PBR, SSAO).
+- [Learn Open GL](https://learnopengl.com/) — Deep rendering concepts from scratch (lighting, shadows, PBR, SSAO).
 - [Scratchapixel](https://www.scratchapixel.com/) — Ray tracing, rasterization, math foundations from first principles.
 - [3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/) — Clear breakdowns of SSAO, bloom, SSR, and more.
 - [Real-Time Rendering](https://www.realtimerendering.com/) — Companion site to the book, massive curated link collection.
@@ -1065,7 +1065,7 @@ Foundational rendering and shader theory references.
 - [PBRT](https://github.com/mmp/pbrt-v4/) — Ray tracer from "Physically Based Rendering: From Theory to Implementation" book.
 - [Tungsten](https://github.com/tunabrain/tungsten) — High performance physically based renderer in C++11.
 - [fSync](https://github.com/MatsValgaeren/fSync) — Unofficial fSpy/Maya bridge which also creates projection shaders.
-- [usd-arnold](https://github.com/LumaPictures/usd-arnold) — USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages.
+- [USD Arnold](https://github.com/LumaPictures/usd-arnold) — USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages.
 - [Bonzomatic](https://github.com/Gargaj/Bonzomatic) — , live-coding editor for OpenGL pixel shaders, where the results appear on background as you edit the code.
 - [PBRT](https://github.com/mmp/pbrt-v3) — , source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation".
 - [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) — Open-source project with resources on learning 3D game shaders.
@@ -1104,13 +1104,13 @@ Foundational rendering and shader theory references.
 - [Flow Map Shader](https://gist.github.com/TarasOsiris/e0e6e6c3b8fdb0d8074b) — Flow Map Shader for Unity3D. Used with Sprites.
 - [FogSprites](https://github.com/bricevdm/FogSprites) — Modification of Unity's sprite shaders supporting Fog.
 - [Unity Fluid Simulation 2D](https://github.com/giangchau92/Unity-Fluid-Simulation-2D) — Using extended camera to render particles then metalball processing with shader.
-- [CircularColorPickerUnity](https://github.com/mathiassiig/CircularColorPickerUnity) — Just a shader and a script for a circular color picker.
+- [Circular Color Picker Unity](https://github.com/mathiassiig/CircularColorPickerUnity) — Just a shader and a script for a circular color picker.
 - [GSLS Optimizer](https://github.com/aras-p/glsl-optimizer) — GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization. (#SHADERS)
 - [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) — A node-based shader editor giving you the artistic freedom of shader creation, with no need to code. (Was :moneybag: but now is open source and not maintained). [Asset Store Link](https://www.asset
-- [ShaderLabLab](https://github.com/rambutan2000/ShaderLabLab) — A system using T4 Templates to generate Unity ShaderLab code in the Editor.
+- [Shader Lab Lab](https://github.com/rambutan2000/ShaderLabLab) — A system using T4 Templates to generate Unity ShaderLab code in the Editor.
 - [GrassBending](https://github.com/Elringus/GrassBending) — A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect. (#TERRAIN)
 - [Wind Waker Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) — Cel Shading of two thresholds with a blur/gradient between them for Unity.
-- [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) — Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
+- [Unity Outline Shader](https://github.com/IronWarrior/UnityOutlineShader) — Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
 - [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve) — Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
 - [Stanford Bunny Fur With Unity](https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity) — Using the Geometry Shader to generate fur on GPU.
 - [Procedural Stochastic Texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) — Modified Unity Standard shader implementing Procedural Stochastic Texturing.
@@ -1169,7 +1169,7 @@ Foundational rendering and shader theory references.
 - [GlslEditor](https://editor.thebookofshaders.com/) — Simple WebGL Fragment Shader Editor.
 - [Fabian 'ryg' Giesen's Blog](https://fgiesen.wordpress.com/) — . Fabian Giesen's blog covers topics like rendering, optimization, and low-level programming, with a focus on practical techniques.
 - [Shaping functions](http://www.flong.com/archive/texts/code/) — Awesome set of shaping functions for shaders
-- [framer-motion](https://www.framer.com/motion/) — A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for bindin
+- [Framer Motion](https://www.framer.com/motion/) — A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for bindin
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) — Workshop by Matt DesLauriers that teaches you about generative art, interactive animations, 3D graphics, and shaders.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) — Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) — A must-read book to be
@@ -1177,18 +1177,18 @@ Foundational rendering and shader theory references.
 - [Unity3D Shaders Learning](https://github.com/TarasOsiris/unity3d-shaders-learning) — ust learning Unity3D shaders here.
 - [Shader Graph Tutorials](https://github.com/Brackeys/Shader-Graph-Tutorials) — Project files for our tutorials on using Shader Graph in Unity.
 - [Resources for Writing Shaders in Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity) — For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
-- [UnityShaderCheatsheet](https://github.com/nothke/UnityShaderCheatsheet) — Collection of Unity shader copypastas and gotchas.
+- [Unity Shader Cheatsheet](https://github.com/nothke/UnityShaderCheatsheet) — Collection of Unity shader copypastas and gotchas.
 - [Blender Addon PBR](https://github.com/DigiKrafting/blender_addon_pbr) — Provides a material panel that creates Metallic/Roughness or Specular/Gloss Nodes using the Principled BSDF shader.
 - [Lily Surface Scrapper](https://github.com/eliemichel/LilySurfaceScrapper) — Import shaders in Blender from a single URL.
 - [Extra Lights](https://github.com/jlampel/bl_extra_lights) — is a plugin for Blender that adds physically based, photometric lighting presets to the Add menu. [![market]](https://blendermarket.com/products/extra-lights)
-- [NodeToPython](https://github.com/BrendanParmer/NodeToPython) — Convert Geometry, Shader, and Compositing nodes to legible Python scripts and add-ons. [![][mit]](https://github.com/BrendanParmer/NodeToPython/blob/main/LICENSE)
+- [Node To Python](https://github.com/BrendanParmer/NodeToPython) — Convert Geometry, Shader, and Compositing nodes to legible Python scripts and add-ons. [![][mit]](https://github.com/BrendanParmer/NodeToPython/blob/main/LICENSE)
 - [SHADERed](https://github.com/dfranx/SHADERed) — is a lightweight tool for creating and testing HLSL and GLSL shaders.
 - [Realistic water shader](https://github.com/jbouny/ocean) — There are also some links with explanation of the approach
 - [PixelSpirit GitHub](https://github.com/patriciogonzalezvivo/PixelSpiritDeck) — Library associated with the PixelSpirit Elemens Deck by [@patriciogv](https://twitter.com/patriciogv)
-- [Three-Blender](https://github.com/ppmpreetham/three-blender) — Blender based tool, to convert your Blender files directly to threeJS.
+- [Three Blender](https://github.com/ppmpreetham/three-blender) — Blender based tool, to convert your Blender files directly to threeJS.
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) — Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform a
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) — a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your s
-- [fft-ocean](https://github.com/jbouny/fft-ocean) — Fast Fourier Transform ocean rendering for Three.js
+- [Fft Ocean](https://github.com/jbouny/fft-ocean) — Fast Fourier Transform ocean rendering for Three.js
 - [(2014) Ray tracing with OpenGL Compute Shaders](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) — by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
 - [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) — AMD's tool suite that includes debugger, profiler and frame/shader analysis.
 - [Magnum](https://github.com/mosra/magnum) — It is a 2D/3D graphics engine for modern OpenGL.
@@ -1206,7 +1206,7 @@ Foundational rendering and shader theory references.
 - [Shader Editor](https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/) — Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
 - [KodeLife](https://hexler.net/products/kodelife) — is a real-time shader editor that supports GLSL, HLSL, and Metal, with a user-friendly interface for creating and testing shaders.
 - [KodeLife](https://hexler.net/software/kodelife) — Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
-- [Fragment-foundry](http://hughsk.io/fragment-foundry) — Interactive fragment shader tutorial.
+- [Fragment Foundry](http://hughsk.io/fragment-foundry) — Interactive fragment shader tutorial.
 - [ibreakdownshaders](http://ibreakdownshaders.blogspot.com.au/) — Explore the math behind shaders.
 - [ISF](https://www.interactiveshaderformat.com/) — GLSL shaders for use in interactive applications.
 - [How to read shader assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/) — How to read shader assembly.
@@ -1233,7 +1233,7 @@ Foundational rendering and shader theory references.
 - [PixelSpirit Elements Deck](https://pixelspiritdeck.com/) — This is a tarot deck for learning GLSL shaders. Each PixelSpirit card has a visual element and its GLSL shader code. The cards are ordered from simplest to most complex, building a library of code f
 - [Polygonjs](https://polygonjs.com) — Node-based WebGL design tool, used for procedural geometry, particles, materials
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/) — Those three short books explain basic concepts of path tracing and implement a software renderer from scratch.
-- [react-spring](https://www.react-spring.dev/) — An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fibe
+- [React Spring](https://www.react-spring.dev/) — An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fibe
 - [Real-Time Rendering Blog](https://www.realtimerendering.com/blog/) — . A blog associated with the "Real-Time Rendering" book series, featuring updates on rendering techniques, industry news, and research papers.
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) — Like other "gems" book, it contains standalone chapters on various ray tracing topics.
 - [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html) — Ray Tracing Gems II.
@@ -1264,7 +1264,7 @@ Foundational rendering and shader theory references.
 - [ShaderShop editor](http://tobyschachman.com/Shadershop/editor/) — Visually impactful editor to work on shaping
 - [PicoGL.js](https://tsherif.github.io/picogl.js/) — Minimal WebGL 2-only rendering library.
 - [How to Create a Fake 3D Image Effect with WebGL](https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/) — How to Create a Fake 3D Image Effect with WebGL.
-- [VertexShaderArt](https://vertexshaderart.com/) — is a platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
+- [Vertex Shader Art](https://vertexshaderart.com/) — is a platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
 - [Virtual Terrain Project](http://vterrain.org/) — the creation of tools for easily constructing any part of the real part of the real world in interactive, 3D digital form.
 - [OpenGL/GLSL Shader Programming](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) — Deck on OpenGL/GLSL shader programming.
 - [WebGL Fundamentals](https://webglfundamentals.org/) — . This resource provides a thorough understanding of WebGL and its underlying principles, ensuring that you grasp the latest techniques and approaches such as 3D rendering, lighting, 2D transformation
@@ -1320,7 +1320,7 @@ Tech art breakdowns, procedural art, and tutorials.
 - [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) — Everyday compositing for Nuke
 - [NXT](https://nxt-dev.github.io/) — A layered code compositing application.
 - [Nuke Tools (VS Code)](https://open-vsx.org/extension/virgilsisoe/nuke-tools) — VS Code extension for Nuke Python/BlinkScript development.
-- [NukeToolsST](https://packagecontrol.io/packages/NukeToolsST) — Sublime Text package to send Python/BlinkScript code into Nuke.
+- [Nuke Tools ST](https://packagecontrol.io/packages/NukeToolsST) — Sublime Text package to send Python/BlinkScript code into Nuke.
 - [Bino](https://github.com/ThreeDeeJay/bino/tree/main) — 3D video player with support for 180°/360° video and Virtual Reality.
 - [CasparCG](https://github.com/CasparCG) — A Windows and Linux software used to play out professional graphics, audio, and video to multiple outputs as a layer-based real-time compositor.
 - [xComp](https://github.com/gugenstudio/xComp) — Image Render comparing.
@@ -1390,7 +1390,7 @@ Showcases, style frames, title sequences, ad references.
 - [Houdini 2 AE](https://vimeo.com/186204479) — Tool for exporting camera and locators fromH oudini to after effects
 - [Rubberhose 2](https://battleaxe.co/rubberhose) — Shape-layer-based IK limb rigging system for fast character animation with one-click rig creation.
 - [Commotion](https://github.com/mrachinskiy/commotion) — Blender add-on for motion graphics.
-- [React-UMG](https://github.com/ncsoft/React-UMG) — A React renderer for Unreal Motion Graphics With Unreal.js
+- [React UMG](https://github.com/ncsoft/React-UMG) — A React renderer for Unreal Motion Graphics With Unreal.js
 
 ### Motion Graphics — Tools & Utilities
 
@@ -1405,10 +1405,10 @@ MG-specific tools and utilities.
 
 **Related:**
 - [PixelCrash](https://www.pixelcrash.xyz/) — Creative motion and visual tools.
-- [nw_wrld](https://github.com/aagentah/nw_wrld) — Experimental motion tool.
+- [Nw Wrld](https://github.com/aagentah/nw_wrld) — Experimental motion tool.
 - [Nukepedia Lens Engine](https://www.nukepedia.com/gizmos/draw/lens-engine) — Lens simulation gizmo for Nuke.
 - [CorridorKey](https://github.com/nikopueringer/CorridorKey) — Corridor's keying tool (open source).
-- [Sammie-Roto-2](https://github.com/Zarxrax/Sammie-Roto-2) — Rotoscope tool.
+- [Sammie Roto 2](https://github.com/Zarxrax/Sammie-Roto-2) — Rotoscope tool.
 
 ### Video Editing — Courses
 
@@ -1487,29 +1487,29 @@ Unity community add-ons, tools, and learning resources.
 - [Naphier Gists](https://gist.github.com/Naphier) — Useful gists for Unity3D.
 - [BetterDefines.cs](https://gist.github.com/TarasOsiris/343df8337fa2a7f80f59) — Better Defines for Unity3D.
 - [DownloadManager.cs](https://gist.github.com/asus4/2490117) — Download manager for Unity.
-- [ShowToastUnityAndroid.cs](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) — Shows toast on Android.
-- [GetSocialDeepLinkingActivity.java](https://gist.github.com/TarasOsiris/1ab79165909ea01575a0) — This activity is created because we cannot get Activity.onNewIntent callback in Unity when the app is running in background.
+- [Show Toast Unity Android.cs](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) — Shows toast on Android.
+- [Get Social Deep Linking Activity.java](https://gist.github.com/TarasOsiris/1ab79165909ea01575a0) — This activity is created because we cannot get Activity.onNewIntent callback in Unity when the app is running in background.
 - [foo.md](https://gist.github.com/aras-p/b2a0952161cb0c2b2cc0) — Controlling fixed function states from materials/scripts in Unity. By aras-p.
 - [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) — A simple pixel perfect camera with scaling options for 2D Games.
 - [2D Tech Demos](https://github.com/Unity-Technologies/2d-techdemos) — Tech Demos for Unity 2D Features. ![Official](UnityResource16x16.png)
-- [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity) — A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.
+- [Pixel Sprite Generator Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity) — A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.
 - [Unity ECS Instanced Sprite Renderer](https://github.com/paullj/unity-ecs-instanced-sprite-renderer) — An example of a simple performant sprite renderer using Unity's new ECS system.
 - [HermodToolkit](https://github.com/Sirithang/HermodToolkit) — A set of 2D tools for Unity.(#2D)
-- [Unity2D-Components](https://github.com/cmilr/Unity2D-Components) — A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
+- [Unity2 D Components](https://github.com/cmilr/Unity2D-Components) — A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
 - [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) — Make mesh like line, polygon, etc in Unity3D.
 - [Vector Graphics Samples](https://github.com/Unity-Technologies/vector-graphics-samples) — SVG and Vector Graphics Sample Project. ![Official](UnityResource16x16.png)
 - [Live2D with Unity](https://github.com/sera0506/Live-2D-with-Unity) — Import Live2D and read mtn file In Unity3D.
 - [Futile](https://github.com/MattRix/Futile) — A super simple Unity 2D framework.
 - [UnitySVG](https://github.com/MrJoy/UnitySVG) — SVG renderer for Unity3D.
-- [BulletPatternEditorUnity](https://github.com/unitycoder/BulletPatternEditorUnity) — Easily create shoot em up bullet patterns.
+- [Bullet Pattern Editor Unity](https://github.com/unitycoder/BulletPatternEditorUnity) — Easily create shoot em up bullet patterns.
 - [SpriteMaker](https://github.com/KPDwyer/SpriteMaker) — Tool for making sprites in Unity.
 - [Unity3DPolylineEditor](https://github.com/Dandarawy/Unity3DPolylineEditor) — 2D Polyline Editor for Unity3D.
 - [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) — A free 2D simple spline library for Unity. (UNMAINTAINED)
 - [Astar Pathfinding](https://github.com/wawethewaras/Astar-Pathfinding) — 2D pathfinding for Unity.
-- [UnityAStarNavigation](https://github.com/jeffvella/UnityAStarNavigation) — An A* navigation system for Unity using burst compiled jobs for performance.
+- [Unity A Star Navigation](https://github.com/jeffvella/UnityAStarNavigation) — An A* navigation system for Unity using burst compiled jobs for performance.
 - [Crystal AI](https://github.com/igiagkiozis/CrystalAI) — Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 - [TsiU AIToolkit CSharp](https://github.com/FinneyTang/TsiU_AIToolkit_CSharp) — AI Toolkit for Unity.
-- [EpPathFinding3D.cs](https://github.com/juhgiyo/EpPathFinding3D.cs) — A 3D jump point search algorithm for cube based games in C#.
+- [Ep Path Finding3 D.cs](https://github.com/juhgiyo/EpPathFinding3D.cs) — A 3D jump point search algorithm for cube based games in C#.
 - [GOAP](https://github.com/sploreg/goap) — Goal Oriented Action Planning AI in Unity.
 - [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) — A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
 - [Openpath](https://github.com/mrzapp/openpath) — Open source pathfinding for Unity.
@@ -1526,15 +1526,15 @@ Unity community add-ons, tools, and learning resources.
 - [Path](https://github.com/AngryAnt/Path) — Pathfinding library for the Unity engine.
 - [PPOL](https://github.com/A7ocin/PPOL) — A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
 - [Unity Beat Detection](https://github.com/allanpichardo/Unity-Beat-Detection) — Musical beat detection and audio spectrum analysis for use with the Unity game engine.
-- [LibPdIntegration](https://github.com/LibPdIntegration/LibPdIntegration) — A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
+- [Lib Pd Integration](https://github.com/LibPdIntegration/LibPdIntegration) — A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
 - [NAudio Unity](https://github.com/WulfMarius/NAudio-Unity) — Port of NAudio to the Mono subset used by Unity3D.
-- [Unity3D-SoundManager](https://github.com/baratgabor/Unity3D-SoundManager) — Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
-- [UniIosAudioService](https://github.com/sanukin39/UniIosAudioService) — Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
+- [Unity3 D Sound Manager](https://github.com/baratgabor/Unity3D-SoundManager) — Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
+- [Uni Ios Audio Service](https://github.com/sanukin39/UniIosAudioService) — Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
 - [AudioRecorder](https://github.com/alternator/AudioRecorder) — Audio recorder component for Unity.
-- [UnityAbletonLink](https://github.com/comoc/UnityAbletonLink) — An Ableton Link plugin for Unity. (#PLUGINS)
+- [Unity Ableton Link](https://github.com/comoc/UnityAbletonLink) — An Ableton Link plugin for Unity. (#PLUGINS)
 - [iTween Expansion](https://github.com/jtothebell/iTween) — An expansion of Bob Berkebile's Unity 3D tweening plugin.
-- [ECS-Tween](https://github.com/Xerios/ECS-Tween) — Simple Unity tweening system using ECS that works with GameObjects!
-- [iOSUnityVuforiaGuide](https://github.com/keyv/iOSUnityVuforiaGuide) — Integration of Unity + Vuforia into native iOS application.
+- [ECS Tween](https://github.com/Xerios/ECS-Tween) — Simple Unity tweening system using ECS that works with GameObjects!
+- [I OS Unity Vuforia Guide](https://github.com/keyv/iOSUnityVuforiaGuide) — Integration of Unity + Vuforia into native iOS application.
 - [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) — A resolution independent pixel perfect camera for Unity.
 - [DeadSimple Pixel-Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) — An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
 - [Physical Camera](https://github.com/Unity-Technologies/Physical-Camera) — Unity Component that can describes a physical camera's attributes. (#Physics) ![Official](UnityResource16x16.png)
@@ -1544,11 +1544,11 @@ Unity community add-ons, tools, and learning resources.
 - [Unity First Person View](https://github.com/TiagoF11/-Unity-First-Person-View) — An asset that allows you to have a First Person Perspective where first person objects do not clip through the environment, have a separate field of view from the environment and can receive shadow
 - [Unity3D PerlinCameraShake](https://github.com/baratgabor/Unity3D-PerlinCameraShake) — Perlin noise based camera shake MonoBehaviour script for Unity3D, ready to attach to a Camera. Uses a coroutine-based execution that exits after the job is done. Should be relatively performant.
 - [Unity Jobs View Frustum Culling](https://github.com/MPozek/Unity-Jobs-View-Frustum-Culling) — A simple collection of jobs used for view frustum culling
-- [UnityCameraShake](https://github.com/IronWarrior/UnityCameraShake) — Generates pseudo-random camera shake using Perlin noise.
-- [UnitySceneCameraController](https://github.com/XJINE/Unity_SceneCameraController) — Control a camera or any other object like SceneView camera.
+- [Unity Camera Shake](https://github.com/IronWarrior/UnityCameraShake) — Generates pseudo-random camera shake using Perlin noise.
+- [Unity Scene Camera Controller](https://github.com/XJINE/Unity_SceneCameraController) — Control a camera or any other object like SceneView camera.
 - [UnityPhysics2D](https://github.com/MelvynMay/UnityPhysics2D) — Examples of various Unity 2D Physics components and features.
 - [Jitter Physics](https://github.com/mattleibow/jitterphysics) — engine into Unity.
-- [UnityMathReference](https://github.com/zezba9000/UnityMathReference) — Math reference for games and more. All visualized in Unity3D.
+- [Unity Math Reference](https://github.com/zezba9000/UnityMathReference) — Math reference for games and more. All visualized in Unity3D.
 - [Custom 2D Colliders](https://github.com/GuyQuad/Custom-2D-Colliders) — A set of custom 2D colliders for Unity. (#2D)
 - [Quickfracture](https://github.com/OskarSigvardsson/quickfracture) — A unity destruction effect.
 - [PBD Fluid in Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) — A PBD fluid in unity running on the GPU.
@@ -1556,7 +1556,7 @@ Unity community add-ons, tools, and learning resources.
 - [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) — A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate su
 - [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) — Third Person Controller for Unity.
 - [UNet Controller](https://github.com/GreenByteSoftware/UNet-Controller) — A Character Controller based controller for Unity's new Networking system. (#NETWORKING)
-- [SuperCharacterController](https://github.com/gucheng0712/SuperCharacterController) — Unity custom character controller. (#ARCHIVED)
+- [Super Character Controller](https://github.com/gucheng0712/SuperCharacterController) — Unity custom character controller. (#ARCHIVED)
 - [AdMob Unity Plugin](https://github.com/OrigameStudio/admob-unity-plugin) — An extension for Unity3d to place AdMob banners in your Android games. (#PLUGINS)
 - [Google Mobile Ads Unity Plugin](https://github.com/googleads/googleads-mobile-unity) — Official Unity Plugin for the Google Mobile Ads SDK
 - [DeltaDNA Unity SDK](https://github.com/deltaDNA/unity-sdk) — Add support for deltaDNA's platform and smartads mediation to your Unity games.
@@ -1566,7 +1566,7 @@ Unity community add-ons, tools, and learning resources.
 - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) — Master Server framework for Unity.
 - [Nakama Unity](https://github.com/heroiclabs/nakama-unity) — Unity client for Nakama server.
 - [MassiveNet](https://github.com/jakevn/MassiveNet) — Unity3D UDP networking library focused on high-CCU, multi-server architecture.
-- [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) — Socket.io client for Unity.
+- [Unity Socket IO](https://github.com/NetEase/UnitySocketIO) — Socket.io client for Unity.
 - [UnityHTTP](https://github.com/andyburke/UnityHTTP) — A TCP client-based HTTP library for Unity.
 - [Pomelo Unity Client](https://github.com/NetEase/pomelo-unityclient-socket) — A client for Pomelo distributed game server in Node.js.
 - [HiSocket](https://github.com/hiramtan/HiSocket) — It is a lightweight socket solution, you can used it in Unity3D or C# project.
@@ -1578,28 +1578,28 @@ Unity community add-ons, tools, and learning resources.
 - [RestClient](https://github.com/proyecto26/RestClient) — Simple HTTP and REST client for Unity based on Promises, also supports Callbacks!
 - [RESTClient](https://github.com/Unity3dAzure/RESTClient) — REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types).
 - [Restifizer Unity3D](https://github.com/vedi/restifizer-unity3d) — Restifizer SDK for Unity3d. A way to significantly simplify creation of full-functional RESTful services, using MongoDB as a database.
-- [UnityOpenApi](https://github.com/kolodi/UnityOpenApi) — Unity friendly RESTful API client generator.
-- [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) — Web Socket client for Unity.
+- [Unity Open API](https://github.com/kolodi/UnityOpenApi) — Unity friendly RESTful API client generator.
+- [Unity Web Socket](https://github.com/Unity3dAzure/UnityWebSocket) — Web Socket client for Unity.
 - [AirPeer](https://github.com/adrenak/AirPeer) — A WebRTC based networking plugin for Unity.
 - [WebRTC Unity Plugin](https://github.com/bengreenier/webrtc-unity-plugin) — Cross-platform Webrtc support for Unity apps. (#PLUGINS)
 - [P2P.NET](https://github.com/Phylliida/P2P.NET) — (Formerly UnityP2P) Peer to peer networking in Unity using WebRTC and a free Heroku server for signaling.
 - [JWT for Unity](https://github.com/monry/JWT-for-Unity) — JWT (JSON Web Token) implementation for .NET 3.5+ (Public Domain).
 - [UniVoice](https://github.com/adrenak/UniVoice) — P2P VoIP in Unity.
-- [uNetVoice](https://github.com/hecomi/uNetVoice) — Tiny voice chat implementation for Unity.
-- [UnityUnetMovement](https://github.com/GenaSG/UnityUnetMovement) — This repository contains Unity3D UNET based server-authoritative movement script with client-side prediction and reconciliation.
+- [U Net Voice](https://github.com/hecomi/uNetVoice) — Tiny voice chat implementation for Unity.
+- [Unity Unet Movement](https://github.com/GenaSG/UnityUnetMovement) — This repository contains Unity3D UNET based server-authoritative movement script with client-side prediction and reconciliation.
 - [Unity UNET Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) — A simple implementation of authoritative movement on top of UNET. (#DEPRECATED)
 - [NATPunchthroughClient](https://github.com/noblewhale/NATPunchthroughClient) — An example implementation of NAT Punchthrough combined with Unity's UNet HLAPI.
 - [Unity Physics CSP](https://github.com/spectre1989/unity_physics_csp) — Basic implementation of client-side prediction in Unity, so real networking happens, all network traffic is simulated in a single Unity instance.
-- [CppUnityTCPClientServer](https://github.com/Willtl/CppUnityTCPClientServer) — Test project Unity client, C++ (with boost) server (TCP).
+- [Cpp Unity TCP Client Server](https://github.com/Willtl/CppUnityTCPClientServer) — Test project Unity client, C++ (with boost) server (TCP).
 - [Javascript Voronoi](https://github.com/gorhill/Javascript-Voronoi) — by Raymond Hill to Unity. Also, an attempt at dynamic mesh fractures.
 - [Unity Delaunay](https://github.com/OskarSigvardsson/unity-delaunay) — A Delaunay/Voronoi library for Unity, and a simple destruction effect. (#LIBRARIES)
 - [UnityOctree](https://github.com/Unity-Technologies/UnityOctree) — A dynamic, loose octree implementation for Unity written in C#. ![Official](UnityResource16x16.png)
 - [UnityOctree](https://github.com/Nition/UnityOctree) — Same as the previous resource.
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) — Attribute Extensions for Unity.
 - [Unity3D ComponentAttribute](https://github.com/Thundernerd/Unity3D-ComponentAttribute) — An attribute that let's you auto-load components.
-- [SerializedParameter_Unity](https://github.com/tsubaki/SerializedParameter_Unity) — Persist data between play mode sessions attribute.
-- [UnityNonNull](https://github.com/ulrikdamm/UnityNonNull) — [NonNull] attribute to fields and classes in Unity.
-- [UnityCompactFieldAttribute](https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute) — Lets each property label have their own width, to prevent the labels from getting cut off.
+- [Serialized Parameter Unity](https://github.com/tsubaki/SerializedParameter_Unity) — Persist data between play mode sessions attribute.
+- [Unity Non Null](https://github.com/ulrikdamm/UnityNonNull) — [NonNull] attribute to fields and classes in Unity.
+- [Unity Compact Field Attribute](https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute) — Lets each property label have their own width, to prevent the labels from getting cut off.
 - [SetProperty](https://github.com/gucheng0712/SetProperty) — A PropertyAttribute/PropertyDrawer combination that allows for properties in Unity.
 - [OpenFramework](https://github.com/omid3098/OpenFramework) — A Lightweight framework for unity with dependency injection.
 - [Unity Container](https://github.com/unitycontainer/unity) — A full featured, extensible dependency injection container.
@@ -1620,10 +1620,10 @@ Unity community add-ons, tools, and learning resources.
 - [Actors Unity3d Framework](https://github.com/dimmpixeye/Actors-Unity3d-Framework) — Ease the pain of decoupling data from behaviors in Unity.
 - [UXF](https://github.com/immersivecognition/unity-experiment-framework) — Framework for human behaviour experiments in Unity.
 - [Weaver](https://github.com/ByronMayne/Weaver) — Weaver is a code weaving framework built right into Unity Engine. Based heavily off of Fody.
-- [MOBA_CSharp_Unity](https://github.com/yasgamesdev/MOBA_CSharp_Unity) — Framework for MOBA games. The server does not depend on Unity. Run on Linux.
+- [MOBA C Sharp Unity](https://github.com/yasgamesdev/MOBA_CSharp_Unity) — Framework for MOBA games. The server does not depend on Unity. Run on Linux.
 - [EasyMOBA](https://github.com/nidaynere/easymoba) — MOBA game template for Unity.
 - [RPGCore](https://github.com/Fydar/RPGCore) — RPGCore is a framework for producing RPG games and mechanics in Unity.
-- [UniversalUnityHooks](https://github.com/UserR00T/UniversalUnityHooks) — A framework designed to hook into and modify methods in unity games via dlls.
+- [Universal Unity Hooks](https://github.com/UserR00T/UniversalUnityHooks) — A framework designed to hook into and modify methods in unity games via dlls.
 - [ScriptableObject Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) — Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy. (#PATTERNS)
 - [UDBase](https://github.com/KonH/UDBase) — Module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code.
 - [Akka.Unity.Sample](https://github.com/Arkatufus/Akka.Unity.Sample) — Akka.Net 1.3.0 Running in Unity3D.
@@ -1636,10 +1636,10 @@ Unity community add-ons, tools, and learning resources.
 - [Unity Object Pool](https://github.com/thefuntastic/unity-object-pool) — An elegant object pool and manager implementation for Unity.
 - [UnityPooling](https://github.com/Mukarillo/UnityPooling) — An optimized approach object pooling.
 - [Unity3D Prefab Pool](https://github.com/TarasOsiris/unity3d-prefab-pool) — Simple Prefab Pool for Unity3D.
-- [UnityObjectPooler](https://github.com/imxzjv/UnityObjectPooler) — Simple object pool for Unity.
+- [Unity Object Pooler](https://github.com/imxzjv/UnityObjectPooler) — Simple object pool for Unity.
 - [Msgpack Unity3D](https://github.com/deniszykov/msgpack-unity3d) — MessagePack and JSON serializer for Unity3D.
 - [MessagePack CSharp](https://github.com/neuecc/MessagePack-CSharp) — Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
-- [MessagePackGridView](https://github.com/E-K/MessagePackGridView) — MessagePack Data Viewer built on MessagePack Csharp and Unity TreeView.
+- [Message Pack Grid View](https://github.com/E-K/MessagePackGridView) — MessagePack Data Viewer built on MessagePack Csharp and Unity TreeView.
 - [Protobuf3 for Unity](https://github.com/bitcraftCoLtd/protobuf3-for-unity) — Google Protocol Buffers runtime library version 3 for Unity (targeting .NET 3.5).
 - [Sproto Unity](https://github.com/m2q1n9/sproto-Unity) — A demo show how to use sproto-Csharp in Unity.
 - [Unity Serializer NG](https://github.com/TheSniperFan/unityserializer-ng) — Resurrection of the discontinued Unity Serializer by Mike Talbot from WhyDoIDoIt.com (Unity 5).
@@ -1655,30 +1655,30 @@ Unity community add-ons, tools, and learning resources.
 - [TTConsole](https://github.com/chiuan/TTConsole) — The Best Debuger & Runtime Console For Unity3D.
 - [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) — Enhanced debug logging for Unity, with JSON/CSV export and HTML viewer.
 - [Unity Logs Viewer](https://github.com/aliessmael/Unity-Logs-Viewer) — Using this tool you can easily check your editor console logs inside the game itself! No need to go back to the project and do any tests to track the problems!
-- [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) — In-game inspector and debugging tools for applications made with Unity3D game engine.
+- [Runtime Unity Editor](https://github.com/ManlyMarco/RuntimeUnityEditor) — In-game inspector and debugging tools for applications made with Unity3D game engine.
 - [Unity RuntimeCodeExecuter](https://github.com/flamacore/Unity-RuntimeCodeExecuter) — A simple program that uses NET 2.0 library to execute any code in runtime. Specifically oriented for usage in Unity.
 - [Gendarme](https://github.com/spouliot/gendarme) — from inside the Unity editor.
 - [CoroutineChain](https://github.com/geniikw/CoroutineChain) — Unity3D, Coroutine, scripting.
 - [Unity Routines](https://github.com/tomblind/unity-routines) — Replacement for Unity coroutines that supports hierarchical routines and pooling.
-- [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) — An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism.
-- [UnityMainThreadDispatcher](https://github.com/PimDeWitte/UnityMainThreadDispatcher) — A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
-- [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) — Unity Scripting in C++.
+- [Unity Async Routines](https://github.com/TorVestergaard/UnityAsyncRoutines) — An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism.
+- [Unity Main Thread Dispatcher](https://github.com/PimDeWitte/UnityMainThreadDispatcher) — A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
+- [Unity Native Scripting](https://github.com/jacksondunstan/UnityNativeScripting) — Unity Scripting in C++.
 - [LINQ to GameObject for Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) — Traverse GameObject Hierarchy by LINQ.
 - [Unity3D Async Await Util](https://github.com/svermeulen/Unity3dAsyncAwaitUtil) — A bunch of code to make using async-await easier in Unity3D.
 - [UnityComponent](https://github.com/GameBuildingBlocks/UnityComponent) — Unity Resource Component.
 - [Unity.Library.eppz](https://github.com/eppz/Unity.Library.eppz) — Collection of libraries for Unity.
-- [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) — A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time).
-- [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) — Roslyn Analyzer for Unity3D.
+- [Unity Bezier Solution](https://github.com/yasirkula/UnityBezierSolution) — A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time).
+- [Unity Engine Analyzer](https://github.com/vad710/UnityEngineAnalyzer) — Roslyn Analyzer for Unity3D.
 - [UnityTimer](https://github.com/akbiggs/UnityTimer) — Powerful and convenient library for running actions after a delay in Unity3D.
 - [UniGif](https://github.com/WestHillApps/UniGif) — GIF image decoder for Unity.
-- [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) — Mesh simplification for Unity.
-- [UnityMeshSimplifier](https://github.com/Unity-Technologies/UnityMeshSimplifier) — Mesh simplification for Unity. ![Official](UnityResource16x16.png)
+- [Unity Mesh Simplifier](https://github.com/Whinarn/UnityMeshSimplifier) — Mesh simplification for Unity.
+- [Unity Mesh Simplifier](https://github.com/Unity-Technologies/UnityMeshSimplifier) — Mesh simplification for Unity. ![Official](UnityResource16x16.png)
 - [EzySlice](https://github.com/DavidArayan/EzySlice) — An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 - [MeshDecimator](https://github.com/Whinarn/MeshDecimator) — A mesh decimation library for .NET and Unity.
 - [CosineGradient](https://github.com/keijiro/CosineGradient) — Cosine gradient generator for Unity.
 - [PerfAssist](https://github.com/GameBuildingBlocks/PerfAssist) — Various performance-related components for Unity development.
 - [Unity Wave Function Collapse](https://github.com/selfsame/unity-wave-function-collapse) — Fork of WaveFunctionCollapse.
-- [GreenMambaStealth](https://github.com/DameonL/GreenMambaStealth) — An advanced stealth system for Unity that detects how well-lit a character is, allowing characters to hide in dynamic shadows.
+- [Green Mamba Stealth](https://github.com/DameonL/GreenMambaStealth) — An advanced stealth system for Unity that detects how well-lit a character is, allowing characters to hide in dynamic shadows.
 - [Pedometer API](https://github.com/olokobayusuf/Pedometer-API) — Pedometer is a native pedometer API for Unity Engine.
 - [Signals](https://github.com/yankooliveira/signals) — A typesafe, lightweight messaging lib for Unity.
 - [Coop Design](https://github.com/simeonradivoev/Coop-Design) — A prototype for runtime cooperative level designing in Unity 3D.
@@ -1689,8 +1689,8 @@ Unity community add-ons, tools, and learning resources.
 - [UnityRandom](https://github.com/tucano/UnityRandom) — Random library in C# for Unity3D.
 - [Unity Atoms](https://github.com/AdamRamberg/unity-atoms) — Tiny modular pieces utilizing the power of Scriptable Objects.
 - [ScriptFinder](https://github.com/JoebRogers/ScriptFinder) — A Unity editor extension to find script references within your project in seconds.
-- [SwissArmyLib](https://github.com/ArchonInteractive/SwissArmyLib) — Collection of helpful utilities we use in our Unity projects.
-- [UniVersionManager](https://github.com/sanukin39/UniVersionManager) — Simple Version Getter for Unity, it can be used for iOS, Android and unity editor platform. It can also get build version.
+- [Swiss Army Lib](https://github.com/ArchonInteractive/SwissArmyLib) — Collection of helpful utilities we use in our Unity projects.
+- [Uni Version Manager](https://github.com/sanukin39/UniVersionManager) — Simple Version Getter for Unity, it can be used for iOS, Android and unity editor platform. It can also get build version.
 - [UniClipboard](https://github.com/sanukin39/UniClipboard) — Simple clipboard plugin for Unity.
 - [SceneHistory Unity](https://github.com/takupisu/SceneHistory-Unity) — Open scenes quickly from a custom history of scenes. Supports scene addition.
 - [NDocumentation](https://github.com/vertxxyz/NDocumentation) — A documentation window for Unity Editor that displays rich text pages.
@@ -1699,7 +1699,7 @@ Unity community add-ons, tools, and learning resources.
 - [PNGCS](https://github.com/andrew-raphael-lukasik/pngcs) — Complete PNG encoding and decoding for Unity.
 - [UnityIO](https://github.com/ByronMayne/UnityIO) — An easy to use API that allows you to manipulate files inside of Unity without the headache of using AssetDatabase.
 - [VariableAssets](https://github.com/ZeroSleepGames/VariableAssets) — Variable assets for Unity3D.
-- [AutoSaveScene](https://github.com/liortal53/AutoSaveScene) — Unity editor helper for auto saving scene & minimizing lost work.
+- [Auto Save Scene](https://github.com/liortal53/AutoSaveScene) — Unity editor helper for auto saving scene & minimizing lost work.
 - [EnumDispatcher](https://github.com/5argon/EnumDispatcher) — ECS backed C# enums as Flux/Redux action in Unity.
 - [UnityHelpers](https://github.com/jeffvella/UnityHelpers) — A collection of random scripts related to Unity.
 - [UndoPro](https://github.com/Seneral/UndoPro) — UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
@@ -1708,19 +1708,19 @@ Unity community add-ons, tools, and learning resources.
 - [Gamekit3D](https://github.com/Unity-Technologies/Gamekit3D) — ![Official](UnityResource16x16.png)
 - [EasingCore](https://github.com/setchi/EasingCore) — Simple easing implementation for Unity.
 - [Unity SemVer](https://github.com/jeffcampbellmakesgames/unity-semver) — A SemVer 2.0.0 implementation for Unity.
-- [MasterUnityHandles](https://github.com/alelievr/MasterUnityHandles) — Unity custom handles examples.
+- [Master Unity Handles](https://github.com/alelievr/MasterUnityHandles) — Unity custom handles examples.
 - [Unity Mesh Triangulator](https://github.com/joshcamas/unity-mesh-triangulator) — A modified version of alexmuab's unity-mesh-triangulator.
 - [Unity Rulers](https://github.com/geekrelief/unityrulers) — A ruler editor to measure distances between game objects in the Scene view.
 - [Unity SimpleUsefulGizmos](https://github.com/flamacore/Unity-SimpleUsefulGizmos) — Additional Gizmos showing information on your scene view like colored colliders, rotation indicator lines.
 - [Better Defines](https://github.com/TarasOsiris/Better-Defines) — An easy and elegant way to manage your preprocessor directives in Unity3D.
 - [DTCommandPalette](https://github.com/DarrenTsung/DTCommandPalette) — Command palette for Unity - run methods, open scenes, and more!
 - [Unity3D Quick Search](https://github.com/appetizermonster/Unity3D-QuickSearch) — A Command Palette for Unity.
-- [UnityEveryplaySaveToLocal](https://github.com/yasirkula/UnityEveryplaySaveToLocal) — A helper script to save captured Everyplay videos to local file system on Android & iOS.
+- [Unity Everyplay Save To Local](https://github.com/yasirkula/UnityEveryplaySaveToLocal) — A helper script to save captured Everyplay videos to local file system on Android & iOS.
 - [FrameDump](https://github.com/keijiro/FrameDump) — A small utility for exporting image sequence from Unity.
 - [Unity Inmediate Color Picker](https://github.com/mattatz/unity-immediate-color-picker) — Color picker for Unity in immediate GUI mode.
-- [UnityColorPicker](https://github.com/jongallant/UnityColorPicker) — A standalone color picker asset for Unity.
+- [Unity Color Picker](https://github.com/jongallant/UnityColorPicker) — A standalone color picker asset for Unity.
 - [Unity Color Wheel](https://github.com/fkate/Unity_ColorWheel) — Color Picker Element for the newer Unity GUI System.
-- [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) — Get data from your private Google Sheets to Unity! (Read-only).
+- [Google Sheets Unity](https://github.com/5argon/GoogleSheetsUnity) — Get data from your private Google Sheets to Unity! (Read-only).
 - [Unity EventBinder](https://github.com/GeorgeDascalu/Unity-EventBinder) — User Interface Event decoupler.
 - [xNode BehaviourTree](https://github.com/jnhtt/xNode-BehaviourTree) — Some log4net helper classes and UnityEngine.Debug appender for Unity.
 - [MVPScriptGenerator4Unity](https://github.com/MasaKoha/MVPScriptGenerator4Unity) — MVP Script Generator for Unity Editor.
@@ -1732,9 +1732,9 @@ Unity community add-ons, tools, and learning resources.
 - [Unity Plane Mesh Splitter](https://github.com/artnas/Unity-Plane-Mesh-Splitter) — A simple script which let's you split any mesh into smaller chunks.
 - [UnityStudio](https://github.com/RaduMC/UnityStudio) — Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps. (#ASSET-STORE)
 - [Bitstrap](https://github.com/bitcake/bitstrap) — BitStrap is BitCake's collection of Unity tools that improve our workflow.
-- [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) — A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
+- [Unity PSD Layout Tool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) — A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 - [Psd2UnityImporter](https://github.com/SubjectNerd-Unity/Psd2UnityImporter) — An advanced PSD importer tool for Unity.
-- [UniAndroidVibration](https://github.com/sanukin39/UniAndroidVibration) — Unity Android plugin JUST execute device vibration.
+- [Uni Android Vibration](https://github.com/sanukin39/UniAndroidVibration) — Unity Android plugin JUST execute device vibration.
 - [CO2](https://github.com/sassembla/CO2) — Android plugin generator for Unity.
 - [Unity Webview](https://github.com/gree/unity-webview) — A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
 - [Unity Flurry SDK](https://github.com/flurry/unity-flurry-sdk) — Unity plugin for Flurry SDK.
@@ -1743,7 +1743,7 @@ Unity community add-ons, tools, and learning resources.
 - [GetSocial Unity SDK](https://github.com/getsocial-im/getsocial-unity-sdk) — This is the demo application for GetSocial SDK.
 - [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) — This Reign API is a cross-platform, unified API for the Unity game engine.
 - [Reign Unity Plugin v4](https://github.com/reignstudios/Reign-Unity-Plugin) — Unity 4.x version of the Reign plugins.
-- [UnityRustPlugin](https://github.com/keijiro/UnityRustPlugin) — An example showing how to write a Unity native plugin in Rust.
+- [Unity Rust Plugin](https://github.com/keijiro/UnityRustPlugin) — An example showing how to write a Unity native plugin in Rust.
 - [UniLua](https://github.com/xebecnan/UniLua) — A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
 - [LuaProfiler For Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) — Profiler for Lua inside of Unity.
 - [MobileLegend](https://github.com/Preston-Chen/MobileLegend) — Use toLua Framework to create client on Unity.
@@ -1751,10 +1751,10 @@ Unity community add-ons, tools, and learning resources.
 - [KlakHap](https://github.com/keijiro/KlakHap) — HAP video player plugin for Unity.
 - [KlakSyphon](https://github.com/keijiro/KlakSyphon) — Syphon plugin for Unity.
 - [VoxBlend](https://github.com/hiroki-o/VoxBlend) — BlendShape Controller Plugin for Unity.
-- [BepInEx](https://github.com/BepInEx/BepInEx) — Unity game patcher and plugin framework.
-- [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) — A plugin that plays elevator music while Unity compiles your code. :cool:
-- [myS7ProSimLib](https://github.com/kodaman2/myS7ProSimLib) — Imported S7PROSimLib type library. To connect unity3D with Siemens PLCSim using COM Interop.
-- [UnityOptixPlugin](https://github.com/Alexander-Scott/UnityOptixPlugin) — An example of a Unity plugin that allows you to leverage the power of NVIDIA Optix.
+- [Bep In Ex](https://github.com/BepInEx/BepInEx) — Unity game patcher and plugin framework.
+- [Unity Elevator Compiler](https://github.com/m3rt32/UnityElevatorCompiler) — A plugin that plays elevator music while Unity compiles your code. :cool:
+- [My S7 Pro Sim Lib](https://github.com/kodaman2/myS7ProSimLib) — Imported S7PROSimLib type library. To connect unity3D with Siemens PLCSim using COM Interop.
+- [Unity Optix Plugin](https://github.com/Alexander-Scott/UnityOptixPlugin) — An example of a Unity plugin that allows you to leverage the power of NVIDIA Optix.
 - [Constellation](https://github.com/ConstellationLanguage/Constellation) — Constellation is a visual scripting language for unity that gives you the tools of a programmer without having to write a single line of code.
 - [Artimech](https://github.com/Scramasax/Artimech) — Open source visual scripting system for Unity.
 - [VSCode Unity Code Snippets](https://github.com/kleber-swf/vscode-unity-code-snippets) — All snippets for Unity3D development.
@@ -1769,7 +1769,7 @@ Unity community add-ons, tools, and learning resources.
 - [Unity3DVim](https://github.com/NOSDuco/Unity3dVim) — Unity Vim Editor Integration for Linux.
 - [Unity Frosted Glass](https://github.com/andydbc/unity-frosted-glass) — Frosted glass material made in Unity.
 - [JourneySand](https://github.com/AtwoodDeng/JourneySand) — An Unity project to reproduce the sand rendering in Journey's style.
-- [NVIDIAHairWorksIntegration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) — NVIDIA Hair Works Integration for Unity.
+- [NVIDIA Hair Works Integration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) — NVIDIA Hair Works Integration for Unity.
 - [Marschner Hair Unity](https://github.com/maajor/Marschner-Hair-Unity) — Implement Marschner Shading Model In Unity.
 - [CarPaint](https://github.com/Roland09/CarPaint) — Material for the Unity Standard Assets Car.
 - [Dual Quaternion Skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity) — Dual Quaternion Skinning for Unity.
@@ -1785,18 +1785,18 @@ Unity community add-ons, tools, and learning resources.
 - [SonarFx](https://github.com/keijiro/SonarFx) — Sonar effect for Unity.
 - [kode80SSR](https://github.com/kode80/kode80SSR) — An open source screen space reflections implementation for Unity3D 5.
 - [Volumetric Clouds](https://github.com/jaagupku/volumetric-clouds) — Volumetric clouds in Unity.
-- [EdgeDetect-PostProcessingUnity](https://github.com/jean-moreno/EdgeDetect-PostProcessingUnity) — Unity legacy Edge Detect image effect ported to Post Processing Stack v2.
+- [Edge Detect Post Processing Unity](https://github.com/jean-moreno/EdgeDetect-PostProcessingUnity) — Unity legacy Edge Detect image effect ported to Post Processing Stack v2.
 - [Koch's Fractals](https://github.com/hww/koch_fractals) — Koch Fractals Demo for Unity.
 - [SDF Gen Unity](https://github.com/mmerchante/sdf-gen-unity) — A signed distance function generator running inside Unity.
 - [Smrvfx](https://github.com/keijiro/Smrvfx) — An example that shows how to pass data from a skinned mesh renderer to a visual effect graph.
 - [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) — It is simple tool for Unity3d and it help you easily place Light Probes in your scene.
-- [LightProbesPlacement](https://github.com/laurenth-unity/LightProbesPlacement) — Unity project showing how to use the custom Package LightProbesVolumes for placing lightprobes automatically.
-- [VolumetricLinesUnity](https://github.com/johannesugb/VolumetricLinesUnity) — Source of the Volumetric Lines Asset from Unity's Asset Store.
+- [Light Probes Placement](https://github.com/laurenth-unity/LightProbesPlacement) — Unity project showing how to use the custom Package LightProbesVolumes for placing lightprobes automatically.
+- [Volumetric Lines Unity](https://github.com/johannesugb/VolumetricLinesUnity) — Source of the Volumetric Lines Asset from Unity's Asset Store.
 - [ProbePolisher](https://github.com/keijiro/ProbePolisher) — Light probe editor for Unity.
 - [Unity Raytracer](https://github.com/SIZMW/unity-raytracer) — This project demonstrates ray tracing in Unity, which is a real time rendering engine.
 - [Ray Marching](https://github.com/SebLague/Ray-Marching) — Experimenting with using ray marching to render signed distance functions in Unity.
 - [VoxelWorld](https://github.com/SidiaDevelopment/VoxelWorld) — Training Unity on a Voxel World.
-- [VoxelMeshGenerator](https://github.com/chulini/VoxelMeshGenerator) — Unity3D C# project that generates a voxel 3D mesh using the greedy mesh technique.
+- [Voxel Mesh Generator](https://github.com/chulini/VoxelMeshGenerator) — Unity3D C# project that generates a voxel 3D mesh using the greedy mesh technique.
 - [Warfest Voxel Unity](https://github.com/ArnaudValensi/warfest-voxel-unity) — A voxel game prototype made with Unity.
 - [Unity Voxel Tools](https://github.com/meniku/UnityVoxelTools) — A collection of Voxel utilities for Unity. (EXPERIMENTAL)
 - [Voxelmetric](https://github.com/richardbiely/Voxelmetric) — An efficient voxel framework for Unity3D. Legacy code is [here](https://github.com/Voxelmetric/Voxelmetric1).
@@ -1804,12 +1804,12 @@ Unity community add-ons, tools, and learning resources.
 - [uGUI LinkImageText](https://github.com/akof1314/uGUI_LinkImageText) — Unity uGUI Text support insert link and image.
 - [Typogenic](https://github.com/Chman/Typogenic) — Signed-distance field text rendering for Unity.
 - [Unity UI Polygon](https://github.com/CiaccoDavide/Unity-UI-Polygon) — Polygon renderer for the new Unity UI.
-- [EnhancedScrollView](https://github.com/tinyantstudio/EnhancedScrollView) — Cool 3d scoll view for Unity(NGUI 3D UGUI support).
+- [Enhanced Scroll View](https://github.com/tinyantstudio/EnhancedScrollView) — Cool 3d scoll view for Unity(NGUI 3D UGUI support).
 - [InfinityScroll](https://github.com/ivomarel/InfinityScroll) — These scripts will make your UnityGUI ScrollRects scroll infinitely.
-- [UnityDynamicScrollView](https://github.com/aillieo/UnityDynamicScrollView) — Dynamic scrollView based on UGUI.
+- [Unity Dynamic Scroll View](https://github.com/aillieo/UnityDynamicScrollView) — Dynamic scrollView based on UGUI.
 - [Unity Scrolly](https://github.com/alhaddado/unity-scrolly) — A Touch/Drag scroll list implementation using Unity GUI (4.6+).
 - [Variable Infinite Scroll](https://github.com/ToshikiImagawa/Variable-infinite-scroll) — Variable infinite scroll in Unity UI.
-- [UnitySimpleFileBrowser](https://github.com/yasirkula/UnitySimpleFileBrowser) — A uGUI based runtime file browser for Unity3D (draggable and resizable).
+- [Unity Simple File Browser](https://github.com/yasirkula/UnitySimpleFileBrowser) — A uGUI based runtime file browser for Unity3D (draggable and resizable).
 - [Unity VariableTileLayout](https://github.com/kiepng/Unity-VariableTileLayout) — UI Extensions for tile layout like Pinterest.
 - [Unity Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) — This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lackin
 - [Beautiful Text Outline for Unity UI](https://github.com/n-yoda/unity-vertex-effects) — Beautiful Text Outline for Unity UI.
@@ -1821,24 +1821,24 @@ Unity community add-ons, tools, and learning resources.
 - [Unity Procedural Flower](https://github.com/mattatz/unity-procedural-flower) — Procedural flower generator for Unity.
 - [Graphmesh](https://github.com/Siccity/Graphmesh) — A graph-based solution for procedural mesh inside the Unity editor.
 - [ProceduralMesh](https://github.com/mortennobel/ProceduralMesh) — Simple procedural mesh generation for the Unity game engine.
-- [IcoSphereCreator](https://github.com/kaiware007/IcoSphereCreator) — Create Ico Sphere Mesh Tool for Unity.
+- [Ico Sphere Creator](https://github.com/kaiware007/IcoSphereCreator) — Create Ico Sphere Mesh Tool for Unity.
 - [Shapes](https://github.com/olange/shapes) — Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpicked colors.
 - [Unity.ProceduralContentGeneration Terrain](https://github.com/ErikMoczi/Unity.ProceduralContentGeneration-Terrain) — (#TERRAIN)
 - [Procedural Level Generator Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) — Unity plugin from procedural dungeon generation.
-- [LSystemsInUnity](https://github.com/pboechat/LSystemsInUnity) — L-System is a rewriting system used mainly to model the development of plants. L-Systems in Unity enables you to rapidly create plants in your Unity games.
-- [TerrainToolSamples](https://github.com/Unity-Technologies/TerrainToolSamples) — New Terrain Tools and Brush Assets for the Unity Terrain system. ![Official](UnityResource16x16.png)
+- [L Systems In Unity](https://github.com/pboechat/LSystemsInUnity) — L-System is a rewriting system used mainly to model the development of plants. L-Systems in Unity enables you to rapidly create plants in your Unity games.
+- [Terrain Tool Samples](https://github.com/Unity-Technologies/TerrainToolSamples) — New Terrain Tools and Brush Assets for the Unity Terrain system. ![Official](UnityResource16x16.png)
 - [Unity PSD Importer](https://github.com/ChemiKhazi/UnityPsdImporter) — Advanced PSD importer for Unity3D. (#DEPRECATED)
 - [Node Inspector](https://github.com/nicloay/Node-Inspector) — Unity graph editor extension.
 - [Reorderable Inspector](https://github.com/ChemiKhazi/ReorderableInspector) — Automatic reorderable lists for Unity game engine components.
 - [Chest Of Property Drawers](https://github.com/tenpn/ChestOfPropertyDrawers) — A collection of small reusable Unity3D property drawers.
 - [Reflected Inspector](https://github.com/ByronMayne/Reflected-Inspector) — Reflected Inspector is a system for Unity that works very much like Serialized Properties but works with non-Unity types and can serialize the values.
-- [UnityExtensions.InspectInline](https://github.com/garettbass/UnityExtensions.InspectInline) — Enables you to inspect and edit object references, and easily embed such objects as subassets.
+- [Unity Extensions.Inspect Inline](https://github.com/garettbass/UnityExtensions.InspectInline) — Enables you to inspect and edit object references, and easily embed such objects as subassets.
 - [Unity ColourLovers Importer](https://github.com/shelleylowe/unity-colourlovers-importer) — Unity editor tool to load colours and palettes directly from COLOURlovers.com.
 - [Render Queue](https://github.com/FreyaHolmer/Render-Queue) — Render Queue Unity Extension.
-- [TimeFlowShiki](https://github.com/sassembla/TimeFlowShiki) — Unity Editor Timeline GUI skeleton.
-- [Animator_Timeline](https://github.com/absameen/Animator_Timeline) — Timeline Editor for Unity. (#ANIMATION)
-- [UnityTimelordBlender](https://github.com/imxzjv/UnityTimelordBlender) — Timelord is a demo for custom blending of Unity3D Timelines.
-- [UnityTimelineConditions](https://github.com/imxzjv/UnityTimelineConditions) — Experimental port of Animator conditions interface to Timeline events.
+- [Time Flow Shiki](https://github.com/sassembla/TimeFlowShiki) — Unity Editor Timeline GUI skeleton.
+- [Animator Timeline](https://github.com/absameen/Animator_Timeline) — Timeline Editor for Unity. (#ANIMATION)
+- [Unity Timelord Blender](https://github.com/imxzjv/UnityTimelordBlender) — Timelord is a demo for custom blending of Unity3D Timelines.
+- [Unity Timeline Conditions](https://github.com/imxzjv/UnityTimelineConditions) — Experimental port of Animator conditions interface to Timeline events.
 - [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) — Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
 - [Unity File Extension](https://github.com/pointcache/unity-file-extension) — Shows file extension in 1 column project window.
 - [Unity Symlink Utility](https://github.com/karl-/unity-symlink-utility) — A small extension that adds a menu item to add folders as symlinks in Unity.
@@ -1855,18 +1855,18 @@ Unity community add-ons, tools, and learning resources.
 - [Raywenderlich.com Unity Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2017/12/UnityCheatSheet.pdf) — Cheatsheet with some common problems when developing with Unity.
 - [Bolt](https://ludiq.io/bolt) — Brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code. (:moneybag: with
 - [MonoDevelop](https://www.monodevelop.com/) — MonoDevelop editor. Initially the default editor for Unity. Now is deprecated.
-- [StrangeIoC](http://strangeioc.github.io/strangeioc/) — Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
+- [Strange Io C](http://strangeioc.github.io/strangeioc/) — Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 - [Good Coding Practices in Unity](https://trello.com/b/Z6cDRyis/good-coding-practices-in-unity) — Trello board with good coding practices in Unity.
 - [Visual Studio (Windows)](https://visualstudio.microsoft.com/es/) — Official supported IDE for Unity in Windows platform. Mac version [here](https://visualstudio.microsoft.com/es/vs/mac/).
 - [WakaTime](https://wakatime.com/) — plugin for Unity.
 - [OpenEd](https://github.com/mrzapp/opened) — Open source runtime editor for Unity.
 - [Charon Unity3D](https://github.com/deniszykov/charon-unity3d) — Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
-- [WebViewHook](https://github.com/willnode/WebViewHook) — Exposed UnityEditor WebView API.
-- [UnityMeshCounter](https://github.com/raimis001/unityMeshCounter) — Shows counters for mesh data.
+- [Web View Hook](https://github.com/willnode/WebViewHook) — Exposed UnityEditor WebView API.
+- [Unity Mesh Counter](https://github.com/raimis001/unityMeshCounter) — Shows counters for mesh data.
 - [Unity Editor Icons](https://github.com/halak/unity-editor-icons) — Unity version: 2018.3.0f2 Icons what can load using EditorGUIUtility.IconContent.
 - [Unity Editor Spotlight](https://github.com/marijnz/unity-editor-spotlight) — MacOS-like Spotlight file search in Unity.
 - [Selection History Navigator](https://github.com/mminer/selection-history-navigator) — Unity editor extension to navigate between object selections.
-- [UnityExtensions.SelectionHistory](https://github.com/garettbass/UnityExtensions.SelectionHistory) — Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
+- [Unity Extensions.Selection History](https://github.com/garettbass/UnityExtensions.SelectionHistory) — Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
 - [Shortcuter](https://github.com/intentor/shortcuter) — Shortcut utility for Unity. (#SHORTCUTS)
 - [SearchTools](https://github.com/eral/SearchTools) — Search Tools In Unity.
 - [Unity Events](https://github.com/GalvanicGames/unity-events) — A code focused strongly typed event system with global system and per GameObject system.
@@ -1893,9 +1893,9 @@ Unity community add-ons, tools, and learning resources.
 - [AngryBots2](https://github.com/UnityTechnologies/AngryBots2) — An example Unity Project, developed by Unity Technologies, used to demonstrate several features.
 - [Hogwarts](https://github.com/OpenHogwarts/hogwarts) — Hogwarts (Harry Potter) open sandbox game made in Unity.
 - [Unitystation](https://github.com/unitystation/unitystation) — Remake of the simulator Space Station 13.
-- [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) — We're porting GTA: San Andreas to Unity!
+- [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) — We're porting GTA: San Andreas to Unity!
 - [MafiaUnity](https://github.com/OpenMafia/MafiaUnity) — Open-source Mafia game framework.
-- [GuitarHeroUnity](https://github.com/caffeine239/GuitarHeroUnity) — Guitar Hero fan game made in Unity.
+- [Guitar Hero Unity](https://github.com/caffeine239/GuitarHeroUnity) — Guitar Hero fan game made in Unity.
 - [UnityTetris](https://github.com/Mukarillo/UnityTetris) — Tetris clone written in C# and using Unity engine to render.
 - [Pacman](https://github.com/vilbeyli/Pacman) — A Pacman clone with original AI made using Unity.
 - [Minesweeper](https://github.com/vilbeyli/Minesweeper) — Tile based Minesweeper game with highschores made in Unity.
@@ -1933,14 +1933,14 @@ AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, an
 - [Game View Maximizer](https://github.com/tomori-hikage/game-view-maximizer) — Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
 - [A-Frame VR](https://github.com/silverslade/aframe_blender_exporter) — Blender add-on allows you to model your scene in Blender and export it to an A-Frame VR project with a single click.
 - [Quests](https://github.com/angelhodar/OpenRPG_Quest) — Efficient and rich featured quests system for Unreal Engine 4
-- [tensorflow2-ue4-ar](https://github.com/Allysony/tensorflow2-ue4-ar) — Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
+- [Tensorflow2 Ue4 AR](https://github.com/Allysony/tensorflow2-ue4-ar) — Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
 - [Sceneform Android SDK Maintained](https://github.com/SceneView/sceneform-android) — ARCore Android SDK with Google Filament 3D engine. Continuation of Google Sceneform
 
 ### Unreal Engine — Resources
 
 Unreal Engine resources and marketplace picks.
 
-- [UnrealEngineAdvancedFunctions](https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions) — Handy functions by [Mridul Sharma](https://www.instagram.com/mridul_sarmah/).
+- [Unreal Engine Advanced Functions](https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions) — Handy functions by [Mridul Sharma](https://www.instagram.com/mridul_sarmah/).
 - [blueprintUE](https://blueprintue.com/) — Blueprint sharing.
 - [VS Code Setup for UE](https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-code-for-unreal-engine) — Official VS Code setup guide.
 - [Medieval Houses (Marketplace)](https://unrealengine.com/marketplace/en-US/product/modular-medieval-house-pack) — Modular medieval house pack.
@@ -1949,7 +1949,7 @@ Unreal Engine resources and marketplace picks.
 - [Working with Data (Unreal Engine Learning)](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more#howtomakeinstanceobjects) — Working with Data (Unreal Engine Learning).
 - [Tom Looman UE5 Tutorials](https://www.tomlooman.com/) — Various Unreal Engine focused tutorials.
 - [Alex Forsythe](https://www.youtube.com/@AlexForsythe) — [Game Framework](https://www.youtube.com/watch?v=IaU2Hue-ApI), [Replication](https://www.youtube.com/watch?v=JOJP0CvpB8w)  Tutorials by Alex Forsythe** (🆓 🥇)
-- [CodeLikeMe](https://www.youtube.com/@CodeLikeMe) — A wide variety of Unreal Engine-focused tutorials.
+- [Code Like Me](https://www.youtube.com/@CodeLikeMe) — A wide variety of Unreal Engine-focused tutorials.
 - [Gorka Games](https://www.youtube.com/@GorkaGames) — Tons of great content Gorka creates lengthy tutorial series, short tutorials and covers Unreal Engine news.
 - [Mathew Wadstein](https://www.youtube.com/@MathewWadsteinTutorials) — Easily one of the most useful channels for Unreal Engine. Videos going over just about every major class and Blueprint node.
 - [Ryan Laley](https://www.youtube.com/@RyanLaley) — Primarily Blueprint-based Unreal Engine tutorials.
@@ -1972,14 +1972,14 @@ Unreal Engine resources and marketplace picks.
 - [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-viewmodel-for-unreal-engine) — Unreal Engine Documentation.
 - [📄 Recommended Asset Naming Conventions ~ epicgames](https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects) — naming folders & files.
 - [GameDev.tv Unreal 5.0 C++ Developer: Learn C++ and Make Video Games](https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games) — GameDev.tv Unreal 5.0 C++ Developer: Learn C++ and Make Video Games.
-- [VelocityGridExport](https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter) — A tool to export vector fields out of Houdini.
+- [Velocity Grid Export](https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter) — A tool to export vector fields out of Houdini.
 - [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) — HL2-style, classic FPS movement for Unreal Engine implemented in C++.
-- [VaFogOfWar](https://github.com/ufna/VaFogOfWar) — A clear and simple solution of Fog of War for Unreal Engine.
+- [Va Fog Of War](https://github.com/ufna/VaFogOfWar) — A clear and simple solution of Fog of War for Unreal Engine.
 - [ObjectDeliverer](https://github.com/ayumax/ObjectDeliverer) — Data transmission and reception library for Unreal Engine.
-- [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) — Socket.IO client plugin for Unreal Engine.
+- [Socket IO Client Unreal](https://github.com/getnamo/SocketIOClient-Unreal) — Socket.IO client plugin for Unreal Engine.
 - [Socketer](https://github.com/How2Compute/Socketer) — A TCP socket blueprint library for Unreal Engine.
-- [TCP-Unreal](https://github.com/getnamo/TCP-Unreal) — Convenience TCP wrapper for Unreal Engine.
-- [UDP-Unreal](https://github.com/getnamo/UDP-Unreal) — Convenience UDP wrapper for Unreal Engine.
+- [TCP Unreal](https://github.com/getnamo/TCP-Unreal) — Convenience TCP wrapper for Unreal Engine.
+- [UDP Unreal](https://github.com/getnamo/UDP-Unreal) — Convenience UDP wrapper for Unreal Engine.
 - [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) — Fetch API-inspired HTTP client for Unreal Engine.
 - [VaRest](https://github.com/ufna/VaRest) — REST API plugin for Unreal Engine.
 - [Unreal.js](https://github.com/ncsoft/Unreal.js) — Javascript runtime built for Unreal Engine.
@@ -1988,129 +1988,129 @@ Unreal Engine resources and marketplace picks.
 - [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) — A plugin to allow integration with Houdini Digital Assets workflows.
 - [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) — Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
 - [Street Map](https://github.com/ue4plugins/StreetMap) — Import OpenStreetMap XML data into your Unreal Engine project.
-- [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) — Smooth voxel terrain plugin.
+- [Unreal Sandbox Terrain](https://github.com/bw2012/UnrealSandboxTerrain) — Smooth voxel terrain plugin.
 - [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) — Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
 - [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) — Guidelines for making Unreal Engine projects more consistent.
-- [SCUE5-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin) — SCUE updated to Unreal 5.
-- [ALS-Refactored](https://github.com/Sixze/ALS-Refactored) — Completely reworked and improved C++ version of Advanced Locomotion System V4.
-- [GASP-ALS](https://github.com/PolygonHive/GASP-ALS) — Game Animation Sample with ALS Layering
+- [SCUE5 Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin) — SCUE updated to Unreal 5.
+- [ALS Refactored](https://github.com/Sixze/ALS-Refactored) — Completely reworked and improved C++ version of Advanced Locomotion System V4.
+- [GASP ALS](https://github.com/PolygonHive/GASP-ALS) — Game Animation Sample with ALS Layering
 - [LeapUnreal](https://github.com/leapmotion/leapunreal) — Leap Motion SDK for the Unreal Engine
-- [myo-ue4](https://github.com/getnamo/myo-ue4) — Myo Plugin for Unreal Engine 4
+- [Myo Ue4](https://github.com/getnamo/myo-ue4) — Myo Plugin for Unreal Engine 4
 - [Swipe](https://github.com/getsetgames/Swipe) — A plugin for Unreal Engine 4 that exposes swipes on mobile devices as events in blueprint
 - [Morphs Player](https://github.com/JanSeliv/MorphsPlayer) — A plugin that allows to play Morph Targets directly on the animation track of your skeletal mesh.
-- [PsWebServer](https://github.com/PushkinStudio/PsWebServer) — Civet web server integration plugin for Unreal Engine 4
-- [PsReplayKit](https://github.com/PushkinStudio/PsReplayKit) — Unreal Engine 4 plugin for iOS to record or stream video from the screen, and audio from the app and microphone
-- [PsFacebookMobile](https://github.com/PushkinStudio/PsFacebookMobile) — Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
-- [UE4GameLiftClientSDK](https://github.com/YetiTech-Studios/UE4GameLiftClientSDK) — Gamelift Client SDK for Unreal Engine 4
-- [acl-ue4-plugin](https://github.com/nfrechette/acl-ue4-plugin) — The official Animation Compression Library Unreal Engine 4 plugin
+- [Ps Web Server](https://github.com/PushkinStudio/PsWebServer) — Civet web server integration plugin for Unreal Engine 4
+- [Ps Replay Kit](https://github.com/PushkinStudio/PsReplayKit) — Unreal Engine 4 plugin for iOS to record or stream video from the screen, and audio from the app and microphone
+- [Ps Facebook Mobile](https://github.com/PushkinStudio/PsFacebookMobile) — Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
+- [UE4 Game Lift Client SDK](https://github.com/YetiTech-Studios/UE4GameLiftClientSDK) — Gamelift Client SDK for Unreal Engine 4
+- [Acl Ue4 Plugin](https://github.com/nfrechette/acl-ue4-plugin) — The official Animation Compression Library Unreal Engine 4 plugin
 - [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) — Simple fake Physics for UnrealEngine4
 - [UnrealLive2D](https://github.com/Arisego/UnrealLive2D) — UE4 plugin for live2d model
-- [ArticyImporterForUnreal](https://github.com/ArticySoftware/ArticyImporterForUnreal) — Articy Importer plugin for the Unreal Engine 4.
+- [Articy Importer For Unreal](https://github.com/ArticySoftware/ArticyImporterForUnreal) — Articy Importer plugin for the Unreal Engine 4.
 - [Cesium for Unreal](https://github.com/CesiumGS/cesium-unreal) — Bringing the 3D geospatial ecosystem to Unreal Engine
-- [RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent) — Unreal Engine 5 plugin component for rendering runtime generated content.
+- [Realtime Mesh Component](https://github.com/TriAxis-Games/RealtimeMeshComponent) — Unreal Engine 5 plugin component for rendering runtime generated content.
 - [PluginTemplate](https://github.com/Sythenz/PluginTemplate) — A basic Unreal Template with Editor and Runtime Module.
-- [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) — MySQL Database Connector Plugin for Unreal Engine 4
+- [My SQL Connector UE4 Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) — MySQL Database Connector Plugin for Unreal Engine 4
 - [SQLite3UE4](https://github.com/KhArtNJava/SQLite3UE4) — SQLite3 Database Plugin for Unreal Engine 4
-- [UE4-AuroraEffect](https://github.com/Hideous/UE4-AuroraEffect) — A raymarched aurora borealis effect for Unreal 4
+- [UE4 Aurora Effect](https://github.com/Hideous/UE4-AuroraEffect) — A raymarched aurora borealis effect for Unreal 4
 - [NiagaraUIRenderer](https://github.com/SourySK/NiagaraUIRenderer) — Niagara UI Renderer | Free Plugin for Unreal Engine
-- [UE5-StylizedPostProcess](https://github.com/ymt3d/UE5-StylizedPostProcess) — Stylized Post Process for Unreal Engine 5
+- [UE5 Stylized Post Process](https://github.com/ymt3d/UE5-StylizedPostProcess) — Stylized Post Process for Unreal Engine 5
 - [OceanProject](https://github.com/UE4-OceanProject/OceanProject) — An Ocean Simulation project for Unreal Engine 4
-- [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) — Unreal Engine 4 plugin component for rendering runtime generated content
+- [Runtime Mesh Component](https://github.com/Koderz/RuntimeMeshComponent) — Unreal Engine 4 plugin component for rendering runtime generated content
 - [Greebler](https://github.com/alexismorin/Greebler) — UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
 - [cashgenUE](https://github.com/midgen/cashgenUE) — Runtime Procedural Terrain Generator for UnrealEngine
 - [OpenLand](https://github.com/GameDev4K/unreal-open-land) — An OpenSource Landscape Auto Material
 - [DungeonGenerator](https://github.com/orfeasel/DungeonGenerator) — An Unreal Engine 4 Dungeon Generator
-- [UE4-CustomGravityPlugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin) — Unreal Engine 4 : Custom Gravity Plugin
+- [UE4 Custom Gravity Plugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin) — Unreal Engine 4 : Custom Gravity Plugin
 - [GASShooter](https://github.com/tranek/GASShooter) — Advanced FPS/TPS Sample Project for Unreal Engine 4's GameplayAbilitySystem plugin
 - [Inventory + Equipment System](https://github.com/angelhodar/OpenRPG_Inventory) — Generic and fully featured multipurpose inventory container and equipment system for Unreal Engine 4
 - [Horizontal 360 Radar](https://github.com/angelhodar/OpenRPG_RadarSystem) — Horizontal 360º rich featured radar system, typically seen in games like Skyrim, for Unreal Engine 4
 - [Stats + Attributes](https://github.com/angelhodar/OpenRPG_Stats) — A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
-- [PsRealVehicle](https://github.com/PushkinStudio/PsRealVehicle) — PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
-- [WeaponTrace-Unreal](https://github.com/getnamo/WeaponTrace-Unreal) — WeaponTracing plugin for reliable melee combat.
-- [GhostMeshPlugin](https://github.com/NoahZuo/GhostMeshPlugin) — This is a UE4 plugin that can create ghost mesh in Unreal Engine 4
+- [Ps Real Vehicle](https://github.com/PushkinStudio/PsRealVehicle) — PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
+- [Weapon Trace Unreal](https://github.com/getnamo/WeaponTrace-Unreal) — WeaponTracing plugin for reliable melee combat.
+- [Ghost Mesh Plugin](https://github.com/NoahZuo/GhostMeshPlugin) — This is a UE4 plugin that can create ghost mesh in Unreal Engine 4
 - [CensoredUE4](https://github.com/BitReign/CensoredUE4) — World space area censoring solution for Unreal Engine 4. It is using blueprint actor for censoring and can be attached to any other blueprint actor like characters
 - [unrealcv](https://github.com/unrealcv/unrealcv) — UnrealCV: Connecting Computer Vision to Unreal Engine
 - [OpenCL.uplugin](https://github.com/kwonoh/OpenCL.uplugin) — OpenCL Plugin for Unreal Engine 4
-- [RuntimeFilesDownloader](https://github.com/gtreshchev/RuntimeFilesDownloader) — Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
-- [RuntimeAudioImporter](https://github.com/gtreshchev/RuntimeAudioImporter) — Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
-- [RuntimeMeshLoader](https://github.com/Chrizey91/RuntimeMeshLoader) — A pluging for Unreal Engine 4, which allows to import meshes during runtime.
-- [UE4-BYGLocalization](https://github.com/BraceYourselfGames/UE4-BYGLocalization) — Simple CSV localization system for Unreal Engine 4
-- [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) — TensorFlow plugin for Unreal Engine 4
+- [Runtime Files Downloader](https://github.com/gtreshchev/RuntimeFilesDownloader) — Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
+- [Runtime Audio Importer](https://github.com/gtreshchev/RuntimeAudioImporter) — Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
+- [Runtime Mesh Loader](https://github.com/Chrizey91/RuntimeMeshLoader) — A pluging for Unreal Engine 4, which allows to import meshes during runtime.
+- [UE4 BYG Localization](https://github.com/BraceYourselfGames/UE4-BYGLocalization) — Simple CSV localization system for Unreal Engine 4
+- [Tensorflow Ue4](https://github.com/getnamo/tensorflow-ue4) — TensorFlow plugin for Unreal Engine 4
 - [UELlama](https://github.com/mika314/UELlama) — Llama plugin for Unreal Engine 5
 - [MobileUtils](https://github.com/gameDNAstudio/MobileUtils) — A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
 - [AndroidNative](https://github.com/gtreshchev/AndroidNative) — Android Native plugin for Unreal Engine that makes it easy to call Java functions via JNI.
 - [mod.io](https://github.com/modio/modio-ue) — Unreal Engine Plugin for easily integrating mod.io into your game - the UGC management service for game developers.
-- [socketio-client-ue4](https://github.com/getnamo/socketio-client-ue4) — socket.io client plugin for Unreal Engine 4
+- [Socketio Client Ue4](https://github.com/getnamo/socketio-client-ue4) — socket.io client plugin for Unreal Engine 4
 - [InfraworldRuntime](https://github.com/vizor-games/InfraworldRuntime) — A solution that enables Unreal Engine 4 to work with Google gRPC services from either C++ or Blueprints.
-- [udp-ue4](https://github.com/getnamo/udp-ue4) — Convenience UDP wrapper for Unreal Engine 4
-- [tcp-ue4](https://github.com/getnamo/tcp-ue4) — Convenience TCP wrapper for Unreal Engine 4
+- [Udp Ue4](https://github.com/getnamo/udp-ue4) — Convenience UDP wrapper for Unreal Engine 4
+- [Tcp Ue4](https://github.com/getnamo/tcp-ue4) — Convenience TCP wrapper for Unreal Engine 4
 - [UE4MasterServer](https://github.com/RyroNZ/UE4MasterServer) — This is a plugin for Unreal Engine 4 that adds server registration, deregistration etc with a master server.
 - [UEWebsocket](https://github.com/kristjanvalur/UEWebsocket) — unreal engine 4 websocket plugin for both c++ and blueprint developer
-- [mqtt-utilities-unreal](https://github.com/NinevaStudios/mqtt-utilities-unreal) — MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
-- [ble-utilities-unreal](https://github.com/NinevaStudios/ble-utilities-unreal) — This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
+- [Mqtt Utilities Unreal](https://github.com/NinevaStudios/mqtt-utilities-unreal) — MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
+- [Ble Utilities Unreal](https://github.com/NinevaStudios/ble-utilities-unreal) — This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
 - [GGPOUE4](https://github.com/BwdYeti/GGPOUE4) — Unreal Engine 4 plugin port of GGPO
-- [UE-DSSPlugin](https://github.com/sha3sha3/UE-DSSPlugin) — Scalable MMO servers instantiation, dungeon instantiation and player balancing subsystem for unreal engine
-- [UE-EasyKafka](https://github.com/sha3sha3/UE-EasyKafka) — EasyKafka is a Kafka/Redpanda client sub-system for unreal engine. It supports producing and consuming records through blueprint and C++.
-- [Unreal-SignalR](https://github.com/FrozenStormInteractive/Unreal-SignalR) — SignalR client for Unreal Engine.
-- [LocusReplicationGraph](https://github.com/locus84/LocusReplicationGraph) — Simple Unity Addressables Alternative That Supports Synchronized API And Memory Management.
-- [Unreal-Magic-Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes) — Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
-- [UE4_EOS_Plugin](https://github.com/gaslightgames/UE4_EOS_Plugin) — A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
+- [UE DSS Plugin](https://github.com/sha3sha3/UE-DSSPlugin) — Scalable MMO servers instantiation, dungeon instantiation and player balancing subsystem for unreal engine
+- [UE Easy Kafka](https://github.com/sha3sha3/UE-EasyKafka) — EasyKafka is a Kafka/Redpanda client sub-system for unreal engine. It supports producing and consuming records through blueprint and C++.
+- [Unreal Signal R](https://github.com/FrozenStormInteractive/Unreal-SignalR) — SignalR client for Unreal Engine.
+- [Locus Replication Graph](https://github.com/locus84/LocusReplicationGraph) — Simple Unity Addressables Alternative That Supports Synchronized API And Memory Management.
+- [Unreal Magic Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes) — Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
+- [UE4 EOS Plugin](https://github.com/gaslightgames/UE4_EOS_Plugin) — A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
 - [Nano](https://github.com/pfist/Nano) — A tiny template for tiny Unreal games.
-- [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) — Embed Python in Unreal Engine 4
+- [Unreal Engine Python](https://github.com/20tab/UnrealEnginePython) — Embed Python in Unreal Engine 4
 - [sluaunreal](https://github.com/Tencent/sluaunreal) — lua dev plugin for unreal engine 4
 - [USharp](https://github.com/pixeltris/USharp) — C# plugin for Unreal Engine 4
 - [LuaMachine](https://github.com/rdeioris/LuaMachine) — Unreal Engine 4 Plugin for Lua APIs implementation
 - [puerts](https://github.com/Tencent/puerts) — Write your game with TypeScript in the ue4 or unity
 - [nimue4](https://github.com/pragmagic/nimue4) — Nim language integration for Unreal Engine 4
-- [kotlin-unreal](https://github.com/hiperbou/kotlin-unreal) — kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4
+- [Kotlin Unreal](https://github.com/hiperbou/kotlin-unreal) — kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4
 - [Unreal.hx](https://github.com/proletariatgames/unreal.hx) — Unreal.hx: Haxe Integration for Unreal
 - [SilvervineUE4Lua](https://github.com/devcat-studio/SilvervineUE4Lua) — A Lua Scripting Plugin for Unreal Engine 4
-- [ue4-protobuf](https://github.com/hxhb/ue4-protobuf) — This is an Unreal Engine 4 plugin that integrates Protobuf into the project without requiring you to add system PATH or anything else.
+- [Ue4 Protobuf](https://github.com/hxhb/ue4-protobuf) — This is an Unreal Engine 4 plugin that integrates Protobuf into the project without requiring you to add system PATH or anything else.
 - [DataConfig](https://github.com/slowburn-dev/DataConfig) — Serialization framework for Unreal Engine Property System that just works!
-- [AudioAnalysisTools](https://github.com/gtreshchev/AudioAnalysisTools) — Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
+- [Audio Analysis Tools](https://github.com/gtreshchev/AudioAnalysisTools) — Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
 - [XJ music](https://github.com/xjmusic/UnrealPlugin/) — XJ music plugin for Unreal Engine. XJ is the first end-to-end solution for adaptive music in video games built specifically and only for music, enabling composers to realize new possibilities.
-- [RuntimeSpeechRecognizer](https://github.com/gtreshchev/RuntimeSpeechRecognizer) — Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
-- [OSVR-Unreal](https://github.com/OSVR/OSVR-Unreal) — OSVR plugin for Unreal Engine
-- [MixedReality-UXTools-Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal) — UX tools and components for developing Mixed Reality applications in UE4.
-- [UMG-ResizableWidget](https://github.com/MWadstein/UMG-ResizableWidget) — Resizable Widget for UMG for Unreal Engine 4
+- [Runtime Speech Recognizer](https://github.com/gtreshchev/RuntimeSpeechRecognizer) — Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
+- [OSVR Unreal](https://github.com/OSVR/OSVR-Unreal) — OSVR plugin for Unreal Engine
+- [Mixed Reality UX Tools Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal) — UX tools and components for developing Mixed Reality applications in UE4.
+- [UMG Resizable Widget](https://github.com/MWadstein/UMG-ResizableWidget) — Resizable Widget for UMG for Unreal Engine 4
 - [FastSwitcher](https://github.com/gameDNAstudio/FastSwitcher) — Fast Switcher UMG for Unreal Engine 4 loads only the needed widget
-- [Unreal-UMG-3DObjectInWidget](https://github.com/Tolc/Unreal-UMG-3DObjectInWidget) — A simple Unreal Engine 4 project (precisely 4.7.4) showing how to render a 3D object/mesh in a UMG widget
+- [Unreal UMG 3 D Object In Widget](https://github.com/Tolc/Unreal-UMG-3DObjectInWidget) — A simple Unreal Engine 4 project (precisely 4.7.4) showing how to render a 3D object/mesh in a UMG widget
 - [UE4GamepadUMG](https://github.com/EverNewJoy/UE4GamepadUMG) — Unreal Engine 4 gamepad plugin so you can use a gamepad like a mouse in UMG
-- [UnrealImGui](https://github.com/segross/UnrealImGui) — Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.
-- [ue4-uitween](https://github.com/benui-dev/ue4-uitween) — Unreal 4 UMG UI tweening library in C++
-- [ue4-canvas-gui](https://github.com/MaddyOff/ue4-canvas-gui) — It's a simple Canvas GUI for Unreal Engine 4 with mouse operation
-- [FairyGUI-unreal](https://github.com/fairygui/FairyGUI-unreal) — A flexible UI framework for Unreal Engine
+- [Unreal Im GUI](https://github.com/segross/UnrealImGui) — Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.
+- [Ue4 Uitween](https://github.com/benui-dev/ue4-uitween) — Unreal 4 UMG UI tweening library in C++
+- [Ue4 Canvas GUI](https://github.com/MaddyOff/ue4-canvas-gui) — It's a simple Canvas GUI for Unreal Engine 4 with mouse operation
+- [Fairy GUI Unreal](https://github.com/fairygui/FairyGUI-unreal) — A flexible UI framework for Unreal Engine
 - [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) — Event driven 7zip utility plugin for Unreal Engine 4
-- [Unreal-Library](https://github.com/EliotVU/Unreal-Library) — UE Explorer's library for parsing data from games built with the Unreal Engine.
+- [Unreal Library](https://github.com/EliotVU/Unreal-Library) — UE Explorer's library for parsing data from games built with the Unreal Engine.
 - [ProjectExodus](https://github.com/NegInfinity/ProjectExodus) — Project Exodus - Unity to Unreal scene/project transfer tool.
-- [UE4-Binary-Builder](https://github.com/ryanjon2040/UE4-Binary-Builder) — An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
-- [prefabricator-ue4](https://github.com/coderespawn/prefabricator-ue4) — Prefabricator - Prefab plugin for Unreal Engine 4
+- [UE4 Binary Builder](https://github.com/ryanjon2040/UE4-Binary-Builder) — An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
+- [Prefabricator Ue4](https://github.com/coderespawn/prefabricator-ue4) — Prefabricator - Prefab plugin for Unreal Engine 4
 - [WindowCapture2D](https://github.com/ayumax/WindowCapture2D) — Library for capturing and displaying windows in real time with UnrealEngine
-- [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) — Modular, Blueprint-friendly noise generation for UE4
-- [UnrealFastNoise2](https://github.com/DoubleDeez/UnrealFastNoise2) — A plugin that wraps [FastNoise2](https://github.com/Auburn/FastNoise2), allowing you to use the FastNoise2 library in blueprints.
-- [AsyncLoadingScreen](https://github.com/truong-bui/AsyncLoadingScreen) — Async Loading Screen is a free and open-source plugin for Unreal Engine. Async Loading Screen allows you to easily configure a Loading Screen System in the project settings, and automatically add a
-- [global-event-system-ue4](https://github.com/getnamo/global-event-system-ue4) — A loosely coupled internal global event system (GES) plugin for the Unreal Engine. Aims to solve cross-map and cross-blueprint communication for reliable and inferable event flow.
+- [Unreal Fast Noise](https://github.com/midgen/UnrealFastNoise) — Modular, Blueprint-friendly noise generation for UE4
+- [Unreal Fast Noise2](https://github.com/DoubleDeez/UnrealFastNoise2) — A plugin that wraps [FastNoise2](https://github.com/Auburn/FastNoise2), allowing you to use the FastNoise2 library in blueprints.
+- [Async Loading Screen](https://github.com/truong-bui/AsyncLoadingScreen) — Async Loading Screen is a free and open-source plugin for Unreal Engine. Async Loading Screen allows you to easily configure a Loading Screen System in the project settings, and automatically add a
+- [Global Event System Ue4](https://github.com/getnamo/global-event-system-ue4) — A loosely coupled internal global event system (GES) plugin for the Unreal Engine. Aims to solve cross-map and cross-blueprint communication for reliable and inferable event flow.
 - [Ue4MarchingCubes](https://github.com/mikhomak/Ue4MarchingCubes) — 3D Perlin Noise using Marching cubes algorithm for Unreal Engine 4
-- [UE4-Node-Graph-Assistant](https://github.com/pdlogingithub/UE4-Node-Graph-Assistant) — A plugin to help you to create node graph faster and easier in unreal engine 4.
+- [UE4 Node Graph Assistant](https://github.com/pdlogingithub/UE4-Node-Graph-Assistant) — A plugin to help you to create node graph faster and easier in unreal engine 4.
 - [Hermes](https://github.com/jorgenpt/Hermes) — An Unreal Engine plugin that allows direct (deep) links into the UE4 editor
 - [RedTalaria](https://github.com/cdpred/RedTalaria) — an Unreal Engine plugin providing a set of Hermes endpoints
-- [unreal-bp-csv-parsing](https://github.com/IncantaGames/unreal-bp-csv-parsing) — Unreal Engine plugin that adds CSV parsing blueprint nodes
-- [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor) — Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
-- [UE-EasyJWT](https://github.com/sha3sha3/UE-EasyJWT) — JWT wrapper (Engine Sub-system) for Unreal Engine.
+- [Unreal Bp Csv Parsing](https://github.com/IncantaGames/unreal-bp-csv-parsing) — Unreal Engine plugin that adds CSV parsing blueprint nodes
+- [MD Meta Data Editor](https://github.com/DoubleDeez/MDMetaDataEditor) — Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
+- [UE Easy JWT](https://github.com/sha3sha3/UE-EasyJWT) — JWT wrapper (Engine Sub-system) for Unreal Engine.
 - [ue5coro](https://github.com/landelare/ue5coro) — A C++20 coroutine plugin, offering seamless integration with Unreal Engine 5.
 - [RemCommon](https://github.com/RemRemRemRe/RemCommon) — Common utilities for gameplay in UnrealEngine
 - [RemRanges](https://github.com/RemRemRemRe/RemRanges) — Combination of IGRanges and ranges-v3 for Unreal
 - [ViewportManager](https://github.com/jackcayc924/ViewportManager) — A C++ based plugin for Unreal Engine that allows for multiple customizable viewports
-- [sublime-unreal-snippets](https://github.com/awforsythe/sublime-unreal-snippets) — A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
-- [vscode-unreal-snippets](https://github.com/pseuplex/vscode-unreal-snippets) — Unreal Engine snippets based on https://github.com/awforsythe/sublime-unreal-snippets.
-- [EasyJsonParser](https://github.com/ayumax/EasyJsonParser) — json parse library for unreal engine
+- [Sublime Unreal Snippets](https://github.com/awforsythe/sublime-unreal-snippets) — A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
+- [Vscode Unreal Snippets](https://github.com/pseuplex/vscode-unreal-snippets) — Unreal Engine snippets based on https://github.com/awforsythe/sublime-unreal-snippets.
+- [Easy Json Parser](https://github.com/ayumax/EasyJsonParser) — json parse library for unreal engine
 - [EasyXMLParser](https://github.com/ayumax/EasyXMLParser) — xml parse library for unreal engine
-- [ue4-docker](https://github.com/adamrehn/ue4-docker) — Windows and Linux containers for Unreal Engine 4
+- [Ue4 Docker](https://github.com/adamrehn/ue4-docker) — Windows and Linux containers for Unreal Engine 4
 - [LocalizationUE4](https://github.com/rionix/LocalizationUE4) — Translation Editor for Unreal Engine 4
-- [UnrealVersionChanger](https://github.com/Gradess2019/UnrealVersionChanger) — Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
+- [Unreal Version Changer](https://github.com/Gradess2019/UnrealVersionChanger) — Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
 - [Nuke.Unreal](https://github.com/microdee/Nuke.Unreal) — C# scriptable workflow for automating Unreal Engine project tasks embracing the [Nuke](https://nuke.build) target graph and fluent API tool bindings.
 - [Fresh Cooked Tweens](https://github.com/jdcook/fresh_cooked_tweens) — A tweening library for Unreal Engine that provide convenient curve equations to ease a value between a start and end, like a position, scale, color, anything you want to smoothly change.
-- [UE-BUITween](https://github.com/benui-dev/UE-BUITween) — UI Tweening Libary for Unreal Engine UMG UI. Create simple tweens for UMG widgets from C++.
+- [UE BUI Tween](https://github.com/benui-dev/UE-BUITween) — UI Tweening Libary for Unreal Engine UMG UI. Create simple tweens for UMG widgets from C++.
 - [Game Development & Unreal Engine Programming Guide](https://github.com/ikrima/gamedevguide) — Game Development & Unreal Engine Programming Guide https://ikrima.dev
 - [unrealcpp](https://github.com/Harrison1/unrealcpp) — Unreal Engine 4 C++ examples
 - [📺📜 Control Rig ~ Ask A Dev](https://www.youtube.com/@livinfreestyle6727) — [character,animation] - 22 vids.
@@ -2179,7 +2179,7 @@ Multiplayer frameworks and game servers.
 
 **Related:**
 - [Mirror](https://mirror-networking.com/) — Open-source Unity networking.
-- [Fish-Net](https://fish-networking.gitbook.io/) — High-performance Unity networking.
+- [Fish Net](https://fish-networking.gitbook.io/) — High-performance Unity networking.
 - [Colyseus](https://colyseus.io/) — Node.js multiplayer framework.
 - [GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course](https://www.gamedev.tv/p/unrealmultiplayer) — GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course.
 - [Forge Networking Remastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) — In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine.
@@ -2187,7 +2187,7 @@ Multiplayer frameworks and game servers.
 - [Basic Multiplayer Unity](https://github.com/manlaig/basic_multiplayer_unity) — Fast-Paced UDP Client-Server implementation.
 - [Gambetta_Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) — Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta's Multiplayer Network Demo in Unity C# as Networked using Lidgren Network.
 - [Bomber](https://github.com/JanSeliv/Bomber) — Open-source Bomberman multiplayer game made in Unreal Engine 5.
-- [colyseus-unreal](https://github.com/charisma-ai/colyseus-unreal) — Colyseus Multiplayer SDK for Unreal Engine
+- [Colyseus Unreal](https://github.com/charisma-ai/colyseus-unreal) — Colyseus Multiplayer SDK for Unreal Engine
 
 ### Game Dev Tools — Sprite & VFX
 
@@ -2211,7 +2211,7 @@ Sprite animation, 2D VFX, texture packers.
 
 **Related:**
 - [Laigter](https://azagaya.itch.io/laigter) — Free normal/specular/AO map generator for 2D.
-- [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) — Creates sprite sheets from animated GIFs and more
+- [Ez Sprite Sheet](https://github.com/z64me/EzSpriteSheet) — Creates sprite sheets from animated GIFs and more
 - [Talos VFX](https://github.com/rockbite/talos) — Node based, open source VFX Editor with powerful interface and a ready to use libGDX runtime.
 - [Pixen](https://github.com/Pixen/Pixen) — Pixel Art Editor for OSX
 - [Kavex's Spritesheet Maker](https://github.com/Kavex/Spritesheet-Maker) — Free spritesheet maker to replace GlueIT. Has much newer export formats.
@@ -2234,7 +2234,7 @@ WFC, noise, procedural pipelines, economy design.
 
 **Related:**
 - [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse) — Procedural generation from example patterns.
-- [FastNoiseLite](https://github.com/Auburn/FastNoiseLite) — Fast noise generation (Perlin, Simplex, Cellular).
+- [Fast Noise Lite](https://github.com/Auburn/FastNoiseLite) — Fast noise generation (Perlin, Simplex, Cellular).
 - [Machinations](https://machinations.io/) — Visual tool for designing and simulating game economies.
 - [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) — Based on Three.js, this framework is dedicated to generating a 3D Map experience on a web service.
 - [DotRecast](https://github.com/ikpil/DotRecast) — A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
@@ -2304,7 +2304,7 @@ Design fundamentals, patterns, and references.
 - [RGFW](https://github.com/ColleagueRiley/RGFW) — Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
 - [Open 3D Engine (O3ED)](https://github.com/o3de/o3de) — Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games
 - [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) — High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
-- [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) — Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
+- [Unity Audio Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) — Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
 - [GlueIT](https://github.com/Kavex/GlueIT) — Free Simple Spritesheet Tool
 - [Epic Games](https://github.com/epicgames) — Epic Games on GitHub — official Unreal Engine and related repos.
 - [Unity Technologies](https://github.com/unity-technologies) — Unity Technologies on GitHub — official Unity repos and samples.
@@ -2377,7 +2377,7 @@ Channels on concept art, figure drawing, painting.
 - [Plasticity](https://github.com/nkallen/plasticity) — A 3d modelling software for concept artists.
 - [Absurd Design](https://absurd.design) — Surrealist illustrations for your next amazing thing
 - [Neural Network-Generated Illustrations](https://ai.googleblog.com/2017/05/neural-network-generated-illustrations.html) — AI generated illustrations for Allo from Google
-- [https://awesome-illustrations.now.sh](https://awesome-illustrations.now.sh) — https://awesome-illustrations.now.sh.
+- [Awesome Illustrations](https://awesome-illustrations.now.sh) — Curated awesome-list of illustration resources, tools, and references.
 - [Black Illustrations](https://blackillustrations.com) — Beautiful illustrations of black people for your next project
 - [Blush](https://blush.design) — Create, mix, and customize illustrations made by artists around the world.
 - [Characterz](https://characterz.design) — 9,000+ customizable diverse 3D character illustrations with Blender source files
@@ -2523,7 +2523,7 @@ Vector editors, creative effect tools, and design utilities.
 | [Eagle](https://en.eagle.cool/) | Visual asset organizer. | Paid | Asset Organizer · Visual | Asset organization |
 
 **Related:**
-- [X-Design](https://www.x-design.com/) — Design tool.
+- [X Design](https://www.x-design.com/) — Design tool.
 - [Carbon](https://carbon.now.sh/) — Code snippet screenshot generator.
 - [Efecto](https://efecto.app/) — ASCII and dithering effects.
 - [BabyTrack](https://freedesigntool.online/baby-track) — Blob tracking effect.
@@ -2708,9 +2708,9 @@ State-of-the-art text-to-image models and platforms.
 - [UneeQ Digital Humans](https://www.digitalhumans.com/) — 3D character lib synced
 - [AI Render](https://github.com/benrugg/AI-Render) — Stable Diffusion in Blender. This add-on renders an AI generated image based on a text prompt and your scene.
 - [Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/generative_ai_genius/README.md) — Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material.
-- [openai/point-e](https://github.com/openai/point-e) — OpenAI's point cloud diffusion for 3D model synthesis
-- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) — A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
-- [AgaMiko/pixel_character_generator](https://github.com/AgaMiko/pixel_character_generator) — Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+- [Openai/point E](https://github.com/openai/point-e) — OpenAI's point cloud diffusion for 3D model synthesis
+- [Ashawkey/stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) — A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+- [Aga Miko/pixel Character Generator](https://github.com/AgaMiko/pixel_character_generator) — Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 - [sd-concepts-library (Stable Diffusion concepts library)](https://huggingface.co/sd-concepts-library) — Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
 - [MusicGen](https://huggingface.co/spaces/facebook/MusicGen) — Meta's tool for generating music
 - [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/) — guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
@@ -2735,12 +2735,12 @@ AI video generation platforms and models.
 | [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Fast generations with good camera motion. | Freemium | Fast · Camera Motion | Fast video gen |
 | [HunyuanVideo 1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo) | Open-source 8.3B params, runs on 14GB VRAM. | Open Source | Open Source · 14GB VRAM | Self-hosted video gen |
 | [Wan 2.2 (Alibaba)](https://huggingface.co/ali-vilab/Wan) | Cinematic MoE diffusion, 8GB+ VRAM. Open source. | Open Source | Open Source · MoE Diffusion | Cinematic open-source video gen |
-| [LTX-Video](https://github.com/Lightricks/LTX-Video) | Open-source, real-time generation speeds. | Open Source | Open Source · Real-time | Real-time open-source video gen |
+| [LTX Video](https://github.com/Lightricks/LTX-Video) | Open-source, real-time generation speeds. | Open Source | Open Source · Real-time | Real-time open-source video gen |
 | [Vidu](https://www.vidu.com/) | 16s clips, strong human motion (Shengshu). | Freemium | 16s · Human Motion | Long human-motion clips |
 | [PixVerse](https://pixverse.ai/) | Style-specific modes (anime, 3D, realistic), character consistency. | Freemium | Style Modes · Consistency | Style-specific video gen |
 | [Haiper](https://haiper.ai/) | Ex-DeepMind team, animation and video-to-video modes. | Freemium | Ex-DeepMind · V2V | Video-to-video |
 | [Genmo Mochi 1](https://www.genmo.ai/) | Open-source video gen model. | Open Source | Open Source · Genmo | Open-source video gen |
-| [CogVideoX](https://github.com/THUDM/CogVideo) | Tsinghua/Zhipu open-source, multiple sizes. | Open Source | Open Source · Tsinghua | Research open-source video gen |
+| [Cog Video X](https://github.com/THUDM/CogVideo) | Tsinghua/Zhipu open-source, multiple sizes. | Open Source | Open Source · Tsinghua | Research open-source video gen |
 
 ### 3D Generation
 
@@ -2787,7 +2787,7 @@ Node-based AI generation — ComfyUI and its ecosystem.
 | [ComfyUI](https://comfy.org/) | Node-based AI generator for image/video/3D/audio. | Open Source | Node-based · Multi-modal | Node-based AI workflows |
 
 **Related:**
-- [ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) — Install and manage custom nodes and dependencies.
+- [Comfy UI Manager](https://github.com/Comfy-Org/ComfyUI-Manager) — Install and manage custom nodes and dependencies.
 - [ComfyUI Registry](https://comfyui.org/) — Community workflow and subgraph sharing.
 - [Awesome ComfyUI](https://github.com/ComfyUI-Workflow/awesome-comfyui) — Curated custom nodes collection.
 - [Comflowy](https://www.comflowy.com/) — ComfyUI tutorials for ControlNet, SDXL, FLUX workflows.
@@ -2807,7 +2807,7 @@ AI tools that augment traditional CG workflows.
 **Related:**
 - [ControlNet](https://stable-diffusion-art.com/controlnet/) — Depth/pose/edge control for precision CG workflows.
 - [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) — Generate textures in Blender via Stable Diffusion, locally.
-- [ComfyUI-BlenderAI](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) — Run ComfyUI workflows inside Blender.
+- [Comfy UI Blender AI](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) — Run ComfyUI workflows inside Blender.
 - [Unity Muse](https://unity.com/products/muse) — Unity's suite of AI products
 - [Coplay](https://coplay.dev?ref=github&utm_source=magictools) — AI Copilot for Unity
 - [Terrain Rendering Using GPU-Based Geometry Clipmaps](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter02.html) — GPU Gems 2 - Chapter 02.
@@ -2820,7 +2820,7 @@ AI tools that augment traditional CG workflows.
 - [Rosebud AI](https://rosebud.ai) — Vibe coding platform for creating 3D games and interactive web apps with AI.
 - [RIFE for Nuke](https://github.com/rafaelperez/RIFE-for-Nuke) — Real-Time Intermediate Flow Estimation for Video Frame Interpolation (ie machine learning for framerate upscaling) for Nuke.
 - [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) — `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
-- [GPT-4](https://www.promptingguide.ai/models/gpt-4) — Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
+- [GPT 4](https://www.promptingguide.ai/models/gpt-4) — Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
 
 ### AI Audio & Music
 
@@ -2835,7 +2835,7 @@ AI music generation, voice, TTS, and SFX.
 | [ACE Studio](https://www.acestudio.ai/) | AI singing voice synthesizer with expression control. | Freemium | Singing · Expression | AI singing synthesis |
 | [AIVA](https://www.aiva.ai/) | AI composition, good for orchestral/cinematic scoring. | Freemium | Orchestral · Scoring | Orchestral/cinematic scoring |
 | [Fish Audio](https://fish.audio/) | Open-source TTS with voice cloning, fast and multilingual. | Open Source | Open Source · Multilingual | Open-source TTS |
-| [F5-TTS](https://github.com/SWivid/F5-TTS) | Open-source zero-shot voice cloning TTS. | Open Source | Zero-Shot · Voice Clone | Zero-shot voice cloning |
+| [F5 TTS](https://github.com/SWivid/F5-TTS) | Open-source zero-shot voice cloning TTS. | Open Source | Zero-Shot · Voice Clone | Zero-shot voice cloning |
 | [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) | Open-source full-song gen with vocals from lyrics. | Open Source | Open Source · Lyrics→Song | Open-source song gen with vocals |
 
 ### Open-Source Models (HuggingFace)
@@ -2843,7 +2843,7 @@ AI music generation, voice, TTS, and SFX.
 Notable open-source generative models.
 
 - [SV3D (Stable Video 3D)](https://huggingface.co/stabilityai/sv3d) — Orbital video from single image.
-- [HunyuanVideo-I2V](https://huggingface.co/tencent/HunyuanVideo-I2V) — Image-to-video, multilingual.
+- [Hunyuan Video I2 V](https://huggingface.co/tencent/HunyuanVideo-I2V) — Image-to-video, multilingual.
 
 ---
 ## Tools, Pipeline & Utilities
@@ -2862,13 +2862,13 @@ OpenUSD resources, specifications, and guides.
 - [USD Cookbook (Colin Kennedy)](https://github.com/ColinKennedy/USD-Cookbook) — Code recipes and examples.
 - [Animal Logic's USD Docker](https://github.com/AnimalLogic/docker-usd) — A set of docker build scripts that will download all the Open Source packages required to build Pixar's Universal Scene Description, as well as USD itself
 - [USD Manager](http://www.usdmanager.org/) — Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files.
-- [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) — Represent Maya data in Maya and USD data in USD.
-- [luma_usd](https://github.com/LumaPictures/luma_usd) — Plugins for USD.
+- [AL USD Maya](https://github.com/AnimalLogic/AL_USDMaya) — Represent Maya data in Maya and USD data in USD.
+- [Luma USD](https://github.com/LumaPictures/luma_usd) — Plugins for USD.
 - [USD Shell Extension for Windows](https://github.com/Activision/USDShellExtension) — a full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
-- [usd-noodle](https://github.com/chris-gardner/usd-noodle) — Pretty node graph showing dependencies of a USD file.
-- [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) — A generic, URI based resolver for USD, support custom plugins.
+- [USD Noodle](https://github.com/chris-gardner/usd-noodle) — Pretty node graph showing dependencies of a USD file.
+- [USD URI Resolver](https://github.com/LumaPictures/usd-uri-resolver) — A generic, URI based resolver for USD, support custom plugins.
 - [UsdQt](https://github.com/LumaPictures/usd-qt) — Qt components for building custom USD tools.
-- [usd-qtpy](https://github.com/BigRoy/usd-qtpy) — Python Qt components for building custom USD tools.
+- [USD Qtpy](https://github.com/BigRoy/usd-qtpy) — Python Qt components for building custom USD tools.
 
 ### Scene & Pipeline Tools
 
@@ -2895,7 +2895,7 @@ Production pipelines, render management, look dev.
 | [(2011) A trip through the graphics pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) | by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline. |  |  |  |
 
 **Related:**
-- [A-trip-through-the-graphics-pipeline](https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book) — A-trip-through-the-graphics-pipeline.
+- [A Trip Through The Graphics Pipeline](https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book) — A-trip-through-the-graphics-pipeline.
 - [Dailies](https://github.com/vfxpaco85/dailies/) — Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
 - [Prisma](https://github.com/patriciogonzalezvivo/prisma) — Computational photography pipeline tool that performs multiple inferences (masks, depth, motionvectors) from any image or video.
 - [Tik Manager](https://github.com/masqu3rad3/tik_manager4) — Artist friendly asset and pipeline manager.
@@ -2917,7 +2917,7 @@ Production pipelines, render management, look dev.
 - [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) — Physically-based engine, product by AMD.
 - [CGAL](https://www.cgal.org/) — A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
 - [Flamenco](https://www.flamenco.io/) — from the Blender Foundation
-- [OpenTimelineIO](http://opentimeline.io) — ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
+- [Open Timeline IO](http://opentimeline.io) — ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
 - [Opentoonz](https://opentoonz.github.io/) — Animation production software.
 - [BoatAttack](https://github.com/Verasl/BoatAttack) — Demo Project using the Lightweight Render Pipeline from Unity3D.
 - [BlenderProc](https://github.com/DLR-RM/BlenderProc) — A procedural Blender pipeline for photorealistic training image generation.
@@ -2938,7 +2938,7 @@ Neural and splatting reconstruction.
 - [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) — Original implementation.
 - [4D Gaussian Splatting](https://github.com/hustvl/4DGaussians) — Dynamic scenes (CVPR 2024).
 - [Brush](https://github.com/ArthurBrussee/brush) — 3D reconstruction for all.
-- [MegaSaM](https://github.com/mega-sam/mega-sam) — Structure and motion from casual video.
+- [Mega Sa M](https://github.com/mega-sam/mega-sam) — Structure and motion from casual video.
 - [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://3d-avatar-diffusion.microsoft.com/) — , Wang et al., CVPR 2023 | [github](https://3d-avatar-diffusion.microsoft.com/) | [bibtex](./citations/rodin.txt)
 - [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/) — , Yu et al., Arxiv 2021 | [github](https://github.com/sxyu/volrend) | [bibtex](./citations/plenoctrees.txt) <!---yu2021plenoctrees-->
 - [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/) — , Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF) | [bibtex](./citations/bundlesdf.txt)
@@ -2984,7 +2984,7 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 | [Scaniverse (Niantic)](https://scaniverse.com/) | Free mobile scanning, Gaussian splat support. | Free | Free Mobile · Gaussian Splat | Mobile scan, Gaussian splat |
 | [Postshot](https://www.jawset.com/) | Desktop Gaussian Splatting tool. Train, clean, edit, export. | Freemium | Desktop · Splat Editor | Desktop Gaussian splat |
 | [CloudCompare](https://www.danielgm.net/cc/) | A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a |  |  |  |
-| [OpenScanTools](https://openscantools.com/) | A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style. |  |  |  |
+| [Open Scan Tools](https://openscantools.com/) | A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style. |  |  |  |
 | [PCL (Point Cloud Library)](https://pointclouds.org/) | Large-scale open project for 2D/3D image and point cloud processing. | Open Source | Point Clouds · Open Source | Point cloud processing |
 | [Quixel Megascans](https://quixel.com/megascans/library/) | World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects). |  |  |  |
 | [3DF Zephyr Free](https://www.3dflow.net/3df-zephyr-free/) | is free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations. |  |  |  |
@@ -3061,21 +3061,21 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 - [Photogrammetry Importer](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) — Addon to import different photogrammetry formats into Blender.
 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide) — A guide covering Photogrammetry including the applications, libraries and tools that will make you a better and more efficient Photogrammetry development.
 - [NeRF](https://github.com/bmild/nerf) — , Mildenhall et al., 2020 | [bibtex](./NeRF-and-Beyond.bib#L168-L173)
-- [NeRF-PyTorch](https://github.com/yenchenlin/nerf-pytorch) — , Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)
-- [NeRF-PyTorch-Lighting](https://github.com/kwea123/nerf_pl) — , [@kwea123](https://github.com/kwea123), 2020
-- [NeRF-W](https://github.com/kwea123/nerf_pl/tree/nerfw) — , [@kwea123](https://github.com/kwea123), 2021
-- [NeRF-PyTorch3D](https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf) — , [@facebookresearch](https://github.com/facebookresearch), 2020
-- [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) — , Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60)
-- [Mip-NeRF](https://github.com/google/mipnerf) — , [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)
-- [MrNeRF](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) — for inspiring me to construct this repo.
+- [Ne RF Py Torch](https://github.com/yenchenlin/nerf-pytorch) — , Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)
+- [Ne RF Py Torch Lighting](https://github.com/kwea123/nerf_pl) — , [@kwea123](https://github.com/kwea123), 2020
+- [Ne RF W](https://github.com/kwea123/nerf_pl/tree/nerfw) — , [@kwea123](https://github.com/kwea123), 2021
+- [Ne RF Py Torch3 D](https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf) — , [@facebookresearch](https://github.com/facebookresearch), 2020
+- [Jax Ne RF](https://github.com/google-research/google-research/tree/master/jaxnerf) — , Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60)
+- [Mip Ne RF](https://github.com/google/mipnerf) — , [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)
+- [Mr Ne RF](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) — for inspiring me to construct this repo.
 - [Nerfstudio gsplat](https://github.com/nerfstudio-project/gsplat) — Python/CUDA | Apache-2.0 | Integration with Nerfstudio     |
 - [Gaussian Splatting 3D](https://github.com/heheyas/gaussian_splatting_3d) — Python/CUDA    |            |
 - [3D Gaussian Splatting](https://github.com/WangFeng18/3d-gaussian-splatting) — Python/CUDA    | MIT        |
 - [3D Gaussian Splatting](https://github.com/joeyan/gaussian_splatting) — Python/CUDA    | MIT        |
 - [Direct Gaussian Style Optimization (DGSO): Stylizing 3D Gaussian Splats](https://github.com/An-u-rag/stylized-gaussian-splatting) — Applying style transfer during gaussian optimization to produce stylized gaussian splats of a scene.
 - [Nerfstudio Unofficial](https://github.com/yzslab/nerfstudio/tree/gaussian_splatting) — Nerfstudio Unofficial.
-- [gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) — A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
-- [360-gaussian-splatting](https://github.com/inuex35/360-gaussian-splatting) — Generate gaussian splatting directly from 360 images
+- [Gaussian Splatting Lightning](https://github.com/yzslab/gaussian-splatting-lightning) — A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
+- [360 Gaussian Splatting](https://github.com/inuex35/360-gaussian-splatting) — Generate gaussian splatting directly from 360 images
 - [Leonid Keselman](https://github.com/leonidk) — for informing me about the release of the paper "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting".
 - [Gaussian Splats Town Hall - Part 2](https://www.youtube.com/@pixelreconstruct) — Gaussian Splats Town Hall - Part 2.
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.youtube.com/@NeuralRendering) — , Ben Mildenhall
@@ -3090,7 +3090,7 @@ Retopology and mesh processing.
 | [Topogun](https://www.topogun.com/) | Standalone retopology and baking. | Paid | Retopo + Bake · Classic | Retopo + baking |
 | [SpeedRetopo](https://gumroad.com/l/speedretopo) | is a free add-on for Blender to make fast and easy retopology using Bsurface. |  |  |  |
 | [Retopo MT](https://gumroad.com/l/cNGNb) | is a tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode. |  |  |  |
-| [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) | A suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh) |  |  |  |
+| [Instant Meshes Remesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) | A suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh) |  |  |  |
 
 **Related:**
 - [RetopoFlow](https://blendermarket.com/products/retopoflow) — Blender addon for manual retopology.
@@ -3121,7 +3121,7 @@ Auto-rig, retargeting, and animation middleware.
 - [EasyMocap](https://github.com/zju3dv/EasyMocap?tab=readme-ov-file) — is an open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
 - [trigger](https://github.com/masqu3rad3/trigger) — Operational code-driven rigging tool for Autodesk Maya.
 - [CvWrap](https://github.com/chadmv/cvwrap) — Fast Maya wrap deformer.
-- [OnionSkinRenderer](https://github.com/Viele/onionSkinRenderer) — Onion Skin Renderer for Maya
+- [Onion Skin Renderer](https://github.com/Viele/onionSkinRenderer) — Onion Skin Renderer for Maya
 
 ### Matchmoving & Camera Tracking
 
@@ -3135,7 +3135,7 @@ Camera tracking, object tracking, and camera matching tools.
 | [fSpy](https://fspy.io/) | Free, open-source single-image camera matching → Blender. | Open Source | Free · Blender Bridge | Free single-image cam match |
 
 **Related:**
-- [fSpy-Maya](https://github.com/Nathanieljla/fSpy-Maya) — Unofficial fSpy Maya importer (one of several).
+- [F Spy Maya](https://github.com/Nathanieljla/fSpy-Maya) — Unofficial fSpy Maya importer (one of several).
 
 ### Miscellaneous 3D Tools & Utilities
 
@@ -3170,7 +3170,7 @@ Assorted CG utilities and specialty tools.
 - [SunCalc](https://www.suncalc.org/) — Sun position, golden hour, and shadow visualization for any location and time.
 - [Texture Extractor](https://berlinnights.itch.io/texture-extractor) — Extract textures and materials from photos (Godot-based, pre-1.0).
 - [Sprite Stacker](https://berlinnights.itch.io/sprite-stacker) — Create pseudo-3D sprite stacks from pixel art with integrated voxel editor (Godot-based, pre-1.0).
-- [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) — RealTime 3D Strange Attractors scout on GPU.
+- [Gl Ch Ao S.P](https://github.com/BrutPitt/glChAoS.P) — RealTime 3D Strange Attractors scout on GPU.
 - [Mandelbulb3D](https://github.com/thargor6/mb3d) — A program designed for the Windows platform for generating 3D views of different fractals.
 - [Penzil](https://github.com/jacopocolo/Penzil) — A web application to sketch in 3d made in three.js and Vue.
 - [Pixie](https://github.com/blkdev2/pixie?tab=readme-ov-file) — Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.
@@ -3202,11 +3202,11 @@ Per-software plugin marketplaces.
 - [Speedsculpt](https://gumroad.com/l/SpeedSculpt) — [$] : The addon allows you to create very fast characters, to manage Dyntopo Sculpting with booleans, cut curves, skin modifier, decimate, mask etc.
 - [Brush Manager for Blender](https://gumroad.com/l/zLBPz) — is an add-on for Blender that helps you to create custom brushes, store them in a file and organize the library of various categories of brushes.
 - [Mech/Fy](https://gumroad.com/l/KZllV) — A procedural workflow that automates the process of hard surfaces modelling.
-- [BY-GEN](https://gumroad.com/l/BY-GEN) — is an addon designed to simplify the process of creating non-destructive, generative modeling styles in Blender. [![][repo]](https://github.com/curtisjamesholt/BY-GEN-public)
+- [BY GEN](https://gumroad.com/l/BY-GEN) — is an addon designed to simplify the process of creating non-destructive, generative modeling styles in Blender. [![][repo]](https://github.com/curtisjamesholt/BY-GEN-public)
 - [Universal Human Rigged Base Mesh](https://gumroad.com/l/EqNTn) — [$] : Rigged human base mesh.
 - [Texel Density Checker](https://gumroad.com/l/CEIOR) — Tools for calculate, set and copy texel density. [![][repo]](https://github.com/mrven/Blender-Texel-Density-Checker)
 - [Free Sky Environment Shading](https://gumroad.com/l/JUyxL) — free custom procedural environment shading.
-- [blender-osm](https://gumroad.com/l/blender-osm) — One click download and import of OpenStreetMap and terrain for Blender.
+- [Blender Osm](https://gumroad.com/l/blender-osm) — One click download and import of OpenStreetMap and terrain for Blender.
 - [Photographer 2](https://gumroad.com/chafouin#FWQf) — Camera Exposure, White balance and Autofocus. Photographer 2 was made completely free for all.
 - [ExtraInfo](https://gumroad.com/l/UznDL) — Show more info in the viewport.
 - [SSGI for EEVEE](https://gumroad.com/l/PgyXc) — Converts Diffuse and Principled BSDFs to nodegroups that give representation of diffuse component to SSR for SSGI effect.
@@ -3221,7 +3221,7 @@ Per-software plugin marketplaces.
 - [Blenderesse's Generators](https://blenderesse.gumroad.com) — Blenderesse offers a few geometry nodes generators for free. Including; [Electric Power Line](https://blenderesse.gumroad.com/l/electriclinegenerator), [Melt](https://blenderesse.gumroad.com/l/melt
 - [Flow Map Painter](https://clemensbeute.gumroad.com/l/heZDT) — This blender add-on provides a brush tool for flow map painting. [![][repo]](https://github.com/ClemensBeute/flow_map_painter)
 - [City Scatter](https://curtisjamesholt.gumroad.com/l/city_scatter_free) — Generate cityscape concepts, powered by Blender's collection system.
-- [E-Cycles](https://ecycles.gumroad.com/l/E-Cycles) — [$] : is a fork of Cycles which renders up to 2.5x faster out of the box when using CUDA GPUs, up to 15x using new options.
+- [E Cycles](https://ecycles.gumroad.com/l/E-Cycles) — [$] : is a fork of Cycles which renders up to 2.5x faster out of the box when using CUDA GPUs, up to 15x using new options.
 - [Higgsas Blender](https://higgsas.gumroad.com/l/wrusot) — , [Mesh Tension Map](https://higgsas.gumroad.com/l/tnqal), [Droplet Generator](https://ibotpl.gumroad.com/l/alvgr), [BackdropGen](https://yamato3d.gumroad.com/l/BackdropGen).
 - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) — Houdini point based growth Asset.
 - [Layer Painter](https://joshuaknauber.gumroad.com/l/layerpainter) — allows you to use a Layer-System for creating materials with painting and procedurals. The layers include masks, filters and much more. Even though the addon is designed with a PBR workflow in mind
@@ -3232,7 +3232,7 @@ Per-software plugin marketplaces.
 - [Super Res Render](https://pidgeontools.gumroad.com/l/SuperResRender) — Plugin that splits renders up into several chunks to make rendering at super high resolutions possible.
 - [Super Fast Render](https://pidgeontools.gumroad.com/l/SuperFastRender) — Either uses preset render settings optimised to speed up render times or Uses a benchmark to detect the fastest settings for the same render quality
 - [Geometry Nodes Pipes](https://raywakui.gumroad.com/l/pcxni) — is an addon for blender which helps generating complex pipe layouts.
-- [Auto-Terrainer](https://unicornhunter.gumroad.com/l/AutoTerrainer) — Automatic Blender Terrain Generator is a powerful and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
+- [Auto Terrainer](https://unicornhunter.gumroad.com/l/AutoTerrainer) — Automatic Blender Terrain Generator is a powerful and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
 - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) — The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
 
 ### Conversion Tools
@@ -3253,7 +3253,7 @@ Format conversion across image, video, audio, and 3D.
 - [123apps](https://123apps.com/) — Free web tools for audio, video, image.
 - [CloudConvert](https://cloudconvert.com/) — 200+ formats with API.
 - [Convertio](https://convertio.co/) — Multi-format converter.
-- [Online-Convert](https://www.online-convert.com/) — Web-based format converter.
+- [Online Convert](https://www.online-convert.com/) — Web-based format converter.
 - [FreeConvert](https://www.freeconvert.com/) — Free online file converter.
 - [Assimp](https://github.com/assimp/assimp) — Open-source library, 40+ 3D format import (C/C++/Python).
 - [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) — Meta's CLI for FBX → glTF 2.0.
@@ -3269,7 +3269,7 @@ Format conversion across image, video, audio, and 3D.
 - [PNGQuant](https://pngquant.org/) — CLI lossy PNG compression.
 - [SoX](https://sourceforge.net/projects/sox/) — CLI audio processing.
 - [OIIO (OpenImageIO)](https://github.com/AcademySoftwareFoundation/OpenImageIO) — ASWF CLI tools, 100+ formats. VFX pipeline standard.
-- [fSpy-USD](https://github.com/Vochsel/fspy-USD) — Unofficial fSpy to USD converter.
+- [F Spy USD](https://github.com/Vochsel/fspy-USD) — Unofficial fSpy to USD converter.
 - [Pixelicious](https://www.pixelicious.xyz/) — Image-to-Pixel Art converter.
 - [Packyderm](https://isometric8.itch.io/packyderm-unitypackage-extractor) — A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
 - [Retargeting Mixamo Animation Tool](http://terribilisstudio.fr/converter) — Retargeting Mixamo Animation Tool.
@@ -3284,10 +3284,10 @@ Interchange formats and standards.
 - [MaterialX](https://materialx.org/) — Material interchange format (Lucasfilm). Supported by USD, Blender, Maya, Houdini, Arnold, RenderMan, Substance.
 - [OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) — Standardized uber-shader for PBR (Autodesk + Adobe).
 - [ACES 2.0](https://acescentral.com/) — Academy Color Encoding System. Widely adopted in film/TV, growing in games.
-- [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) — Editorial timeline interchange (Pixar).
+- [Open Timeline IO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) — Editorial timeline interchange (Pixar).
 - [Alembic](http://www.alembic.io/) — Animations.
 - [MaterialX](https://github.com/materialx/MaterialX) — Materials and look-dev.
-- [OpenImageIO](https://github.com/OpenImageIO/oiio) — A library for reading and writing images in many common and VFX-related formats.
+- [Open Image IO](https://github.com/OpenImageIO/oiio) — A library for reading and writing images in many common and VFX-related formats.
 - [OpenDCX](http://www.opendcx.org/) — C++ extensions for OpenEXR's "deep" file format (DreamWorks).
 - [MDL](https://github.com/NVIDIA/MDL-SDK) — Material Definition Language SDK.
 
@@ -3423,7 +3423,7 @@ Houdini-focused channels.
 - [Inigo Quilez](https://www.youtube.com/@InigoQuilez) — The principles of painting with maths.
 - [Codegram](https://www.youtube.com/@Codegram) — Full Stack Fest 2015: The Pixel Factory (Great visuals to gain insights into what's going on with concepts such as UV's, and Rastering)
 - [WhatIFound (Jason Harmon)](https://www.youtube.com/@WhatIFound) — Liquid and fluid tutorials.
-- [NotVeryDarkMagic](https://www.youtube.com/@notverydarkmagic) — Hair and fur starting point.
+- [Not Very Dark Magic](https://www.youtube.com/@notverydarkmagic) — Hair and fur starting point.
 - [2D Cel Flames with Pyro](https://www.youtube.com/@MichaelStarkTV) — Stylized 2D flame with pyro sim.
 - [Matt Taylor Motion (Emty01)](https://www.youtube.com/@MattTaylorMotion) — Recursive subdivision animation.
 - [Voxel/Lego Pyro Explosion](https://www.youtube.com/@kevfx) — Stylized voxel explosion.
@@ -3440,7 +3440,7 @@ Character and sculpting focused creators.
 - [Sinix Design](https://www.youtube.com/@sinixdesign) — Digital painting fundamentals.
 - [Tyler Edlin](https://www.youtube.com/@TylerEdlin84) — Environment and concept art.
 - [Grady Frederick](https://www.youtube.com/@gradyfrederickart) — Concept art process.
-- [ModernDayJames](https://www.youtube.com/@moderndayjames) — Rigorous perspective systems and construction drawing.
+- [Modern Day James](https://www.youtube.com/@moderndayjames) — Rigorous perspective systems and construction drawing.
 - [Trent Kaniuga](https://www.youtube.com/@TrentKaniuga) — Concept art workflow for game/film production.
 - [⚔️3D Modeling a Sword for Complete Beginners by YanSculpts.](https://www.youtube.com/@yansculpts) — ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts..
 - [📺 NTRCT | Characters for Dummies ~ Yu Fujishiro](https://www.youtube.com/@YFJSR) — [animation] - 'interactive art'.
@@ -3467,7 +3467,7 @@ Subscription and course-based learning platforms.
 - [Pixel Art Tutorial Basics for Beginners](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783) — Pixel Art Tutorial Basics for Beginners.
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) — , course of computer graphics teaching how Opengl and rendering works, teaching how to build a simpler version of OpenGL.
 - [Importance Sampling for Production Rendering](http://www.igorsklyar.com/system/documents/papers/4/fiscourse.comp.pdf) — Importance Sampling for Production Rendering.
-- [OpenColorIO](https://opencolorio.org/) — ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment, a complete color management solution geared towards motion picture production with an emphasis on visua
+- [Open Color IO](https://opencolorio.org/) — ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment, a complete color management solution geared towards motion picture production with an emphasis on visua
 - [OpenCue](https://opencue.io) — ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) An open-source render management system from Sony Imageworks.
 - [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) — Interactive 3D Graphics.
 - [Learn OpenGL: Beginner's guide to 3D rendering and game development with OpenGL and C++](https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) — Learn OpenGL: Beginner's guide to 3D rendering and game development with OpenGL and C++.
@@ -3481,7 +3481,7 @@ Subscription and course-based learning platforms.
 - [Blender Secrets](https://www.blendersecrets.org/secrets) — is home to hundreds of one-minute or less video tutorials that teach you specific topics.
 - [Darkfall](https://darkfallblender.blogspot.com/) — Blender python tutorials, nodes.
 - [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) — Official tutorials from Microsoft for creating Microsoft HoloLens applications.
-- [http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity) — http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity.
+- [Getting Started with VR in Unity (DigitalTutors)](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity) — Introductory DigitalTutors tutorial for building VR experiences in Unity.
 - [Blender 3D: Noob to Pro/Python Scripting](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Python_Scripting/Introduction) — Python Scripting from [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro) book.
 - [GameDev.tv Unreal Engine Blueprint Game Developer Online Course](https://www.gamedev.tv/p/unreal-blueprint/) — GameDev.tv Unreal Engine Blueprint Game Developer Online Course.
 - [Design Patterns in Unity Example](https://github.com/marwie/Design-Patterns-in-Unity-Example) — Most of Derek Banas Video Tutorial Series on Design Patterns to C# in Unity translated.
@@ -3584,7 +3584,7 @@ Cross-DCC CG communities.
 - [OpenXRay](https://github.com/OpenXRay/xray-16) — a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 - [Cinder](https://libcinder.org/) — Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 - [openMVG](https://openmvg.readthedocs.io/en/latest/) — A library for computer-vision scientists targeted for the Multiple View Geometry community.
-- [PyGame-CE](https://pyga.me/docs/index.html) — Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
+- [Py Game CE](https://pyga.me/docs/index.html) — Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
 - [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) — A fully-featured, extensible, free IDE
 - [3DVF](http://3dvf.com) — French CG news and community.
 - [3DPro](https://3dpro.org) — 3D professionals community forum.
@@ -3606,7 +3606,7 @@ Cross-DCC CG communities.
 - [🗨️discord/blender](https://discord.gg/blender) — community-managed Discord server.
 - [Nexrender Discord](https://discord.gg/S2JtRcB) — Community of people specializing in scripting and video generation automation.
 - [Hugging Face Forums](https://discuss.huggingface.co/) — ** – Community for open LLMs and model development.
-- [https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template](https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template) — https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template.
+- [Steam VR Template (Unreal Engine Forum)](https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template) — Community thread sharing a Steam VR project template for Unreal Engine.
 - [Unity Community](https://github.com/UnityCommunity) — and to begin Awesome Unity (this repository) will be merged into Unity Community organization from now. This repository will be used to merge new contents into the [Unity Community fork](https://gith
 - [Mirror](https://github.com/vis2k/Mirror) — A community replacement for Unity's abandoned UNET Networking System.
 - [UnitySingleton](https://github.com/UnityCommunity/UnitySingleton) — The best way to implement singleton pattern in Unity.
@@ -3620,26 +3620,26 @@ Cross-DCC CG communities.
 - [r/GenerativeAI](https://www.reddit.com/r/GenerativeAI/) — ** – Reddit community on generative models and applications.
 - [🌐 Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/) — [community] - production for movies & live events.
 - [🌐 UnrealEngine5 ~ reddit](https://www.reddit.com/r/UnrealEngine5/) — UE5 technical posts, rarely showcase.
-- [https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/](https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/) — https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/.
+- [Free Low-Poly Nature Assets Thread (r/gamedev)](https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/) — Reddit thread sharing free low-poly trees, plants, and rocks for game development.
 - [Sculptron](https://render.otoy.com/forum/viewtopic.php?f=7&t=73665) — GPU-based tool for sculpting animation caches and for converting mesh sequences to volumes. The software is currently available free during early development.
 - [Substance Share](https://share.substance3d.com/) — The free exchange platform for the Substance community.
 - [MPFB](http://static.makehumancommunity.org/mpfb.html) — MPFB2 is an open source human generator for Blender. It's complete rewrite of MakeHuman as a Blender addon. [![][repo]](https://github.com/makehumancommunity/mpfb2)
-- [http://steamcommunity.com/sharedfiles/filedetails/?id=687365559](http://steamcommunity.com/sharedfiles/filedetails/?id=687365559) — http://steamcommunity.com/sharedfiles/filedetails/?id=687365559.
+- [Steam Community VR Workshop Item](http://steamcommunity.com/sharedfiles/filedetails/?id=687365559) — Steam Community Workshop submission referenced by the VR/game-dev forum discussions.
 - [Unreal Source](https://unrealsource.com/) — The largest Discord community focused on Unreal Engine.
 - [Women in AI Ethics](https://womeninaiethics.org/about-us/) — Community of women who are leaders in the AI ethics industry.
 - [Welder](https://blenderartists.org/t/welder/672478) — welds generator for Blender.
 - [Array Tools](https://blenderartists.org/t/array-tools-all-in-one-for-translation-scale-and-rotation-array/1170295?u=peetie) — is an addon for Blender to create translation, scale, rotation array with offset or global parameters in any direction and mix them. [![][repo]](https://github.com/Elreenys/array_tools)
 - [Mesh Heal](https://blenderartists.org/t/mesh-heal/1117095) — is an add-on for Blender, it includes additional Blender operators for healing surface meshes.
 - [Drop It](https://blenderartists.org/t/drop-it-free-addon/1244259/) — Designed to drop fast and simply Objects to Ground or Surface. [![][repo]](https://github.com/maxivz/interactivetoolsblender)
-- [JARCH-Vis](https://blenderartists.org/t/addon-jarch-vis/642607) — is add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
+- [JARCH Vis](https://blenderartists.org/t/addon-jarch-vis/642607) — is add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
 - [Wiggle Bones](https://blenderartists.org/t/wiggle-2/1454788) — Jiggle bone implementation for Blender with realistic physics. [![][repo]](https://github.com/shteeve3d/blender-wiggle-2) ![][gpl]
 - [TexTools](https://blenderartists.org/t/textools-for-blender/700811) — TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/SavMartin/TexTools-Blender)
 - [EZ Baker](https://blenderartists.org/t/ez-baker/1245869) — An easier alternative to blender's default bake system. [![][repo]](https://gitlab.com/AquaticNightmare/ez_baker)
-- [V-HACD](https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822) — Library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
-- [Multi-user](https://blenderartists.org/t/multi-user/1187118) — Enable real-time collaborative workflows inside blender. [![][repo]](https://gitlab.com/slumber/multi-user)
+- [V HACD](https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822) — Library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
+- [Multi User](https://blenderartists.org/t/multi-user/1187118) — Enable real-time collaborative workflows inside blender. [![][repo]](https://gitlab.com/slumber/multi-user)
 - [Theme Switcher](https://blenderartists.org/t/theme-switcher/1211787) — Addon to quickly change active theme not leaving 3D View.
 - [The Code Editor](https://blenderartists.org/t/how-would-you-show-some-love-for-the-blender-text-editor/1163857) — This thread is for discussing how the Text Editor can be improved and sharing add-ons which will modernize, expand and ease coding in Blender.
-- [blenderartists/python-support](https://blenderartists.org/c/coding/python-support/19) — , [stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)
+- [Blenderartists/python Support](https://blenderartists.org/c/coding/python-support/19) — , [stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)
 - [Lodify](https://devtalk.blender.org/t/level-of-detail-addon/12840) — LOD(Level of Detail) and Proxy system for blender. [![][repo]](https://github.com/DB3D/Lodify)
 - [devtalk/python](https://devtalk.blender.org/c/python/6) — Questions about using and developing the [Blender Python API](https://developer.blender.org/project/view/24/), both for Blender itself and add-ons.
 - [📖 User Manual](https://docs.blender.org/manual/en/latest/) — [🔗 Python API](https://docs.blender.org/api/current/) | [⚙️ Developer Wiki](https://wiki.blender.org/wiki/Main_Page)
@@ -3649,12 +3649,12 @@ Cross-DCC CG communities.
 - [Blender Python API Documentation](https://docs.blender.org/api/current/) — Official Blender Python API Documentation.
 - [Casual GAN Papers Reading Club](https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8) — Community knowledge base for Casual GAN Papers
 - [Chrome Experiments](https://www.chromeexperiments.com/) — Showcase of web experiments written by the creative coding community.
-- [ALS-Community](https://github.com/dyanikoglu/ALS-Community) — Replicated and optimized community version of Advanced Locomotion System V4
+- [ALS Community](https://github.com/dyanikoglu/ALS-Community) — Replicated and optimized community version of Advanced Locomotion System V4
 - [ViroCore: A cross-platform AR/VR renderer](https://github.com/ViroCommunity/virocore) — and [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) — JARVIS, a system to connect LLMs with ML community
-- [UE4-Plugin-Resources](https://github.com/Sythenz/UE4-Plugin-Resources) — A list of community resources for Slate, Graphs, and UE4 Plugin Development.
+- [UE4 Plugin Resources](https://github.com/Sythenz/UE4-Plugin-Resources) — A list of community resources for Slate, Graphs, and UE4 Plugin Development.
 - [MassSample](https://github.com/Megafunk/MassSample) — Community Mass Sample
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) — Community instructions and prompts for GitHub Copilot.
+- [Github/awesome Copilot](https://github.com/github/awesome-copilot) — Community instructions and prompts for GitHub Copilot.
 - [Harmonai](https://www.harmonai.org/) — We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
 - [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html) — Community-written book/guide on openFrameworks.
 - [promptoMANIA](https://promptomania.com/) — AI art community with prompt generator
@@ -3973,9 +3973,9 @@ Free and open-source game engines.
 | [Ebitengine](https://ebitengine.org/) | Go 2D game engine. | Open Source | Go · 2D | Simple 2D games |
 | [Armory3D](https://armory3d.org/) | Blender-integrated Haxe game engine. | Open Source | Blender-Integrated · Haxe | Blender-integrated game engine |
 | [Material Maker](https://rodzilla.itch.io/material-maker) | A procedural materials authoring tool based on the Godot Engine. |  |  |  |
-| [A-Frame](https://aframe.io/) | An easy web framework for building 3D/AR/VR experiences. |  |  |  |
+| [A Frame](https://aframe.io/) | An easy web framework for building 3D/AR/VR experiences. |  |  |  |
 | [CopperCube](http://www.ambiera.com/coppercube/) | CopperCube is an all-in-one 3D game engine.Very easy to use. |  |  |  |
-| [Cocos2d-x](http://cocos2d-x.org/) | a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE. |  |  |  |
+| [Cocos2d X](http://cocos2d-x.org/) | a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE. |  |  |  |
 | [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) | Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency. |  |  |  |
 | [jMonkeyEngine 3](http://jmonkeyengine.org/) | a 3D open-source game engine for adventurous Java developers. |  |  |  |
 | [JPCT](https://www.jpct.net/) | jPCT is a 3D engine for desktop Java and Google's Android. |  |  |  |

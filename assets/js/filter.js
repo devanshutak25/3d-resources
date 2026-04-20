@@ -140,8 +140,9 @@
   function resetSectionHiding() {
     const hidden = mainEl.querySelectorAll('[data-hidden-by-filter]');
     for (const el of hidden) {
-      el.style.display = '';
       el.removeAttribute('data-hidden-by-filter');
+      // Preserve user-initiated collapse; only clear filter-driven hiding.
+      if (!el.hasAttribute('data-user-collapsed')) el.style.display = '';
     }
   }
 
@@ -314,10 +315,52 @@
     else mainEl.insertBefore(bar, mainEl.firstChild);
   }
 
+  function setCollapsed(heading, collapsed) {
+    const level = heading.tagName; // H2 or H3
+    const range = rangeFromHeading(heading, level);
+    if (collapsed) {
+      heading.setAttribute('data-collapsed', 'true');
+      for (const el of range) {
+        el.setAttribute('data-user-collapsed', '1');
+        // Don't stomp on filter-driven hiding — only set display when visible.
+        if (!el.hasAttribute('data-hidden-by-filter')) el.style.display = 'none';
+      }
+    } else {
+      heading.removeAttribute('data-collapsed');
+      for (const el of range) {
+        el.removeAttribute('data-user-collapsed');
+        if (!el.hasAttribute('data-hidden-by-filter')) el.style.display = '';
+      }
+    }
+  }
+
+  function setupCollapsibleHeadings() {
+    const headings = mainEl.querySelectorAll('h2, h3');
+    for (const h of headings) {
+      if (h.tagName === 'H2' && EXCLUDED_H2_IDS.has(h.id)) continue;
+      h.classList.add('collapsible-heading');
+      h.setAttribute('role', 'button');
+      h.setAttribute('tabindex', '0');
+      h.setAttribute('aria-expanded', 'true');
+      const toggle = (ev) => {
+        // Don't swallow clicks on anchor links inside the heading.
+        if (ev.target && ev.target.closest && ev.target.closest('a')) return;
+        const nowCollapsed = !h.hasAttribute('data-collapsed');
+        setCollapsed(h, nowCollapsed);
+        h.setAttribute('aria-expanded', nowCollapsed ? 'false' : 'true');
+      };
+      h.addEventListener('click', toggle);
+      h.addEventListener('keydown', (ev) => {
+        if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); toggle(ev); }
+      });
+    }
+  }
+
   function init(data) {
     mainEl = document.querySelector('main') || document.body;
     decorate(data);
     buildUI();
+    setupCollapsibleHeadings();
   }
 
   if (document.readyState === 'loading') {

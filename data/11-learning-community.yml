@@ -816,7 +816,7 @@ subsections:
           - Jason Harmon
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: NotVeryDarkMagic
+      - name: Not Very Dark Magic
         url: https://www.youtube.com/@notverydarkmagic
         description: Hair and fur starting point.
         entry_type: channel
@@ -932,7 +932,7 @@ subsections:
           - Art
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ModernDayJames
+      - name: Modern Day James
         url: https://www.youtube.com/@moderndayjames
         description: Rigorous perspective systems and construction drawing.
         entry_type: channel
@@ -1141,7 +1141,7 @@ subsections:
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: OpenColorIO
+      - name: Open Color IO
         url: https://opencolorio.org/
         description: ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment, a complete color management solution geared towards motion picture production with an emphasis on visua
         entry_type: tutorial
@@ -1229,9 +1229,9 @@ subsections:
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
+      - name: Getting Started with VR in Unity (DigitalTutors)
         url: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
-        description: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity.
+        description: Introductory DigitalTutors tutorial for building VR experiences in Unity.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1900,7 +1900,7 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: PyGame-CE
+      - name: Py Game CE
         url: https://pyga.me/docs/index.html
         description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
         entry_type: community
@@ -2038,9 +2038,9 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template
+      - name: Steam VR Template (Unreal Engine Forum)
         url: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template
-        description: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template.
+        description: Community thread sharing a Steam VR project template for Unreal Engine.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2122,9 +2122,9 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
+      - name: Free Low-Poly Nature Assets Thread (r/gamedev)
         url: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
-        description: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/.
+        description: Reddit thread sharing free low-poly trees, plants, and rocks for game development.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2146,9 +2146,9 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559
+      - name: Steam Community VR Workshop Item
         url: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559
-        description: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559.
+        description: Steam Community Workshop submission referenced by the VR/game-dev forum discussions.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2188,7 +2188,7 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: JARCH-Vis
+      - name: JARCH Vis
         url: https://blenderartists.org/t/addon-jarch-vis/642607
         description: is add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
         entry_type: community
@@ -2212,13 +2212,13 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: V-HACD
+      - name: V HACD
         url: https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822
         description: Library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Multi-user
+      - name: Multi User
         url: https://blenderartists.org/t/multi-user/1187118
         description: Enable real-time collaborative workflows inside blender. [![][repo]](https://gitlab.com/slumber/multi-user)
         entry_type: community
@@ -2236,7 +2236,7 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: blenderartists/python-support
+      - name: Blenderartists/python Support
         url: https://blenderartists.org/c/coding/python-support/19
         description: ', [stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)'
         entry_type: community
@@ -2296,7 +2296,7 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ALS-Community
+      - name: ALS Community
         url: https://github.com/dyanikoglu/ALS-Community
         description: Replicated and optimized community version of Advanced Locomotion System V4
         entry_type: community
@@ -2314,7 +2314,7 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UE4-Plugin-Resources
+      - name: UE4 Plugin Resources
         url: https://github.com/Sythenz/UE4-Plugin-Resources
         description: A list of community resources for Slate, Graphs, and UE4 Plugin Development.
         entry_type: community
@@ -2326,7 +2326,7 @@ subsections:
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: github/awesome-copilot
+      - name: Github/awesome Copilot
         url: https://github.com/github/awesome-copilot
         description: Community instructions and prompts for GitHub Copilot.
         entry_type: community

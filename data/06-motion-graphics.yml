@@ -296,7 +296,7 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: React-UMG
+      - name: React UMG
         url: https://github.com/ncsoft/React-UMG
         description: A React renderer for Unreal Motion Graphics With Unreal.js
         entry_type: reference
@@ -393,7 +393,7 @@ subsections:
           - Quick Anim
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: nw_wrld
+      - name: Nw Wrld
         url: https://github.com/aagentah/nw_wrld
         description: Experimental motion tool.
         license: Open Source
@@ -422,7 +422,7 @@ subsections:
           - Corridor
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Sammie-Roto-2
+      - name: Sammie Roto 2
         url: https://github.com/Zarxrax/Sammie-Roto-2
         description: Rotoscope tool.
         license: Open Source

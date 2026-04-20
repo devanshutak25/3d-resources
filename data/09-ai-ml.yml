@@ -824,19 +824,19 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: openai/point-e
+      - name: Openai/point E
         url: https://github.com/openai/point-e
         description: OpenAI's point cloud diffusion for 3D model synthesis
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ashawkey/stable-dreamfusion
+      - name: Ashawkey/stable Dreamfusion
         url: https://github.com/ashawkey/stable-dreamfusion
         description: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: AgaMiko/pixel_character_generator
+      - name: Aga Miko/pixel Character Generator
         url: https://github.com/AgaMiko/pixel_character_generator
         description: Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
         entry_type: reference
@@ -1026,7 +1026,7 @@ subsections:
           - MoE Diffusion
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: LTX-Video
+      - name: LTX Video
         url: https://github.com/Lightricks/LTX-Video
         description: Open-source, real-time generation speeds.
         license: Open Source
@@ -1097,7 +1097,7 @@ subsections:
           - Genmo
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: CogVideoX
+      - name: Cog Video X
         url: https://github.com/THUDM/CogVideo
         description: Tsinghua/Zhipu open-source, multiple sizes.
         license: Open Source
@@ -1453,7 +1453,7 @@ subsections:
           - Multi-modal
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ComfyUI-Manager
+      - name: Comfy UI Manager
         url: https://github.com/Comfy-Org/ComfyUI-Manager
         description: Install and manage custom nodes and dependencies.
         license: Open Source
@@ -1579,7 +1579,7 @@ subsections:
           - Local SD
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: ComfyUI-BlenderAI
+      - name: Comfy UI Blender AI
         url: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
         description: Run ComfyUI workflows inside Blender.
         license: Open Source
@@ -1681,7 +1681,7 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: GPT-4
+      - name: GPT 4
         url: https://www.promptingguide.ai/models/gpt-4
         description: Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
         entry_type: reference
@@ -1803,7 +1803,7 @@ subsections:
           - Multilingual
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: F5-TTS
+      - name: F5 TTS
         url: https://github.com/SWivid/F5-TTS
         description: Open-source zero-shot voice cloning TTS.
         license: Open Source
@@ -1852,7 +1852,7 @@ subsections:
           - Stability
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: HunyuanVideo-I2V
+      - name: Hunyuan Video I2 V
         url: https://huggingface.co/tencent/HunyuanVideo-I2V
         description: Image-to-video, multilingual.
         license: Open Source

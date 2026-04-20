@@ -352,6 +352,27 @@ footer {
 footer a { color: var(--text-muted); }
 footer a:hover { color: var(--link); }
 
+/* Collapsible section headings (H2/H3 in main content) */
+.collapsible-heading {
+  cursor: pointer;
+  position: relative;
+  padding-left: 1.2rem;
+  user-select: none;
+}
+.collapsible-heading::before {
+  content: '▾';
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 0.85em;
+  color: var(--text-muted);
+  transition: transform 0.15s;
+  transform-origin: 0.4em 0.6em;
+}
+.collapsible-heading[data-collapsed]::before { transform: rotate(-90deg); }
+.collapsible-heading:hover::before { color: var(--text); }
+.collapsible-heading:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+
 /* Table of Contents (Contents section) */
 h2#contents + ul {
   columns: 2;

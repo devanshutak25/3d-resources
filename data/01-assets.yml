@@ -105,7 +105,7 @@ subsections:
           - CC-BY
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: TheBaseMesh
+      - name: The Base Mesh
         url: https://www.thebasemesh.com/model-library
         description: Base meshes for sculpting and rigging.
         entry_type: asset-source
@@ -1075,7 +1075,7 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: HDRI-to-CubeMap
+      - name: HDRI To Cube Map
         url: https://matheowis.github.io/HDRI-to-CubeMap/
         description: A tool to convert your HDRI file into a Cube map that
         entry_type: asset-source
@@ -1273,7 +1273,7 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: texture-synthesis
+      - name: Texture Synthesis
         url: https://github.com/EmbarkStudios/texture-synthesis
         description: Example-based texture synthesis written in Rust.
         entry_type: asset-source
@@ -1285,7 +1285,7 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Cheetah-Texture-Packer
+      - name: Cheetah Texture Packer
         url: https://github.com/scriptum/Cheetah-Texture-Packer
         description: High efficient and fast 2D bin packing tool
         entry_type: asset-source
@@ -1477,13 +1477,13 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityBitmapDrawing
+      - name: Unity Bitmap Drawing
         url: https://github.com/ProtoTurtle/UnityBitmapDrawing
         description: Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: uTextureSendReceive
+      - name: U Texture Send Receive
         url: https://github.com/BarakChamo/uTextureSendReceive
         description: Unity network texture sender and receiver for video and frame streaming.
         entry_type: asset-source
@@ -1501,7 +1501,7 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityPreviewGenerator
+      - name: Unity Preview Generator
         url: https://github.com/klhurley/UnityPreviewGenerator
         description: Generates preview textures for sprites, icons of Unity models.
         entry_type: asset-source
@@ -1555,7 +1555,7 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: GameTextureViewer
+      - name: Game Texture Viewer
         url: https://jangafx.com/software/gametextureviewer/
         description: is a fast, reliable, and simple tool for
         entry_type: asset-source
@@ -1573,7 +1573,7 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: NASA-3D-Resources
+      - name: NASA 3 D Resources
         url: https://nasa3d.arc.nasa.gov/
         description: Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources
         entry_type: asset-source
@@ -1675,7 +1675,7 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Principled-Baker
+      - name: Principled Baker
         url: https://github.com/danielenger/Principled-Baker
         description: Bake PBR textures with a few clicks.
         entry_type: asset-source
@@ -1693,7 +1693,7 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: VaTexAtlas
+      - name: Va Tex Atlas
         url: https://github.com/ufna/VaTexAtlas
         description: Simple way to use texture atlases for Unreal Engine 4 UMG
         entry_type: asset-source
@@ -2003,7 +2003,7 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: OpenVisualFX
+      - name: Open Visual FX
         url: https://openvisualfx.com/
         description: Free VFX footage.
         license: Free
@@ -2321,7 +2321,7 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UnityStbEasyFont
+      - name: Unity Stb Easy Font
         url: https://github.com/aras-p/UnityStbEasyFont
         description: A port of stb_easy_font.h to Unity/C#.
         entry_type: asset-source
@@ -2493,7 +2493,7 @@ subsections:
     description: Free and paid game-ready asset sources. Cross-listed from §7.
     dual_listed_from: game-development
     entries:
-      - name: OpenGameArt
+      - name: Open Game Art
         url: https://opengameart.org/
         description: Community hub for free game art.
         license: Free
