@@ -57,15 +57,6 @@ subsections:
           - Community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: 3Dassets.one
-        url: https://3dassets.one/?q=&sort=popular
-        description: Asset search engine across multiple libraries.
-        entry_type: tool
-        readme_tags:
-          - Search Engine
-          - Aggregator
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: CGHEVEN
         url: https://cgheven.com/
         description: Free CC0 3D and VFX assets.
@@ -309,12 +300,6 @@ subsections:
           - .blend Packs
         url_last_verified: '2026-04-20'
         url_status: ok
-      - name: CadNav
-        url: https://www.cadnav.com/3d-models/
-        description: Offers 3D models, likely with a focus on engineering and technical uses.
-        entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Mesh2Motion
         url: https://mesh2motion.org/
         description: FREE & open-source web application to animate your 3D models. Supports humanoid, four-legged, and bird creatures.
@@ -339,27 +324,9 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: CGTrader
-        url: https://www.cgtrader.com/free-3d-models
-        description: Free 3D models from CGTrader.
-        entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Engraver
         url: https://gumroad.com/l/qOyVO
         description: is an Blender addon with set of few tools designed to help carving decals in 3D models.
-        entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Sketchfab
-        url: https://sketchfab.com/search?features=downloadable&sort_by=-pertinence&type=models
-        description: Free downloadable models from Sketchfab.
-        entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Sketchfab/lidar
-        url: https://sketchfab.com/tags/lidar
-        description: ', [Sketchfab/point-cloud](https://sketchfab.com/tags/point-cloud).'
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1561,12 +1528,6 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: LotPixel
-        url: https://www.lotpixel.com/texture-library?credit=free
-        description: Free scan-based textures of interior and exterior materials at up to 8K resolution. For commercial use.
-        entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: MaterialX Library
         url: https://matlib.gpuopen.com/main/materials/all
         description: AMD launched a free MaterialX-based Material Library. It allows users to download the materials and encourages them to upload their own.
@@ -1582,12 +1543,6 @@ subsections:
       - name: TextureLab
         url: https://njbrown.itch.io/texturelab
         description: is a tool designed to make procedural texture generation.
-        entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Poliigon/freebies
-        url: https://www.poliigon.com/search?credit=0
-        description: '[$] : A library of materials, and HDR''s for artists including free textures that want photorealism.'
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1921,19 +1876,6 @@ subsections:
         readme_tags:
           - Blueprints
           - Vehicles
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Sakugabooru
-        url: https://www.sakugabooru.com/
-        description: Animation clip archive.
-        entry_type: reference
-        tags:
-          workflow:
-            - reference
-            - animation
-        readme_tags:
-          - Animation
-          - Clip Archive
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Art of Animation
@@ -2624,12 +2566,6 @@ subsections:
         url: https://github.com/addy999/nativeblend-cli
         description: AI-powered CLI tool to generate and edit low-poly 3D game assets in Blender from natural language prompts
         entry_type: tool
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Kenney
-        url: https://kenney.nl/assets
-        description: Free game art and assets.
-        entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Liberated Pixel Cup assets

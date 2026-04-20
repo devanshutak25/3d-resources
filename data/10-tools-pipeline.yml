@@ -443,12 +443,6 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Opentoonz
-        url: https://opentoonz.github.io/
-        description: Animation production software.
-        entry_type: tool
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: (2011) A trip through the graphics pipeline
         url: https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index
         description: by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.

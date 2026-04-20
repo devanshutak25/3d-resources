@@ -153,12 +153,6 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Poly Haven/Models
-        url: https://polyhaven.com/models
-        description: is a resource of free high quality 3D assets for everyone. All models here are CC0. [(license)](https://polyhaven.com/license)
-        entry_type: plugin
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Quixel Bridge
         url: https://quixel.com/bridge
         description: Connects Megascans to all your favorite tools including Blender.
@@ -1624,7 +1618,7 @@ subsections:
           - Valve Alum
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name:  .hips
+      - name: .hips
         url: https://github.com/lcrs/_.hips
         description: Various Houdini tools.
         license: Open Source

@@ -4977,16 +4977,6 @@ subsections:
           - Indie
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Game Programming Patterns
-        url: https://gameprogrammingpatterns.com/
-        description: Free online book by Bob Nystrom.
-        license: Free
-        entry_type: reference
-        readme_tags:
-          - Free Book
-          - Patterns
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Red Blob Games
         url: https://www.redblobgames.com/
         description: Interactive visual explanations (pathfinding, hex grids, noise).
@@ -5049,12 +5039,6 @@ subsections:
       - name: Timanthes
         url: http://csdb.dk/release/?id=75871
         description: A pixel art editor for the Commodore 64 computer running on Windows
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: SpriteKit
-        url: https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html
-        description: iOS/Mac 2D Game Engine.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok

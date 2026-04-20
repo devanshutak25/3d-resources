@@ -272,12 +272,6 @@ subsections:
         entry_type: inspiration
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: School of Motion
-        url: https://www.schoolofmotion.com/tutorials
-        description: Provides a wide range of motion graphics and animation tutorials and courses.
-        entry_type: tutorial
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Houdini 2 AE
         url: https://vimeo.com/186204479
         description: Tool for exporting camera and locators fromH oudini to after effects

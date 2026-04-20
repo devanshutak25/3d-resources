@@ -51,15 +51,6 @@ subsections:
           - Challenges
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: New Plastic
-        url: https://www.youtube.com/channel/UCoOrpz46oBs2HJpLx7L1x6Q
-        description: Stylized motion design.
-        entry_type: channel
-        readme_tags:
-          - Stylized
-          - Mograph
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Perry Cooper 3D
         url: https://www.youtube.com/channel/UCY6Kqpw3gSc2DHtfsSGeYdQ
         description: 3D motion design.
@@ -320,15 +311,6 @@ subsections:
         readme_tags:
           - Blender
           - Tutorials
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Royal Skies
-        url: https://www.youtube.com/channel/UC2U5mRfclG1Rrr1ztNkpGKA
-        description: Quick Blender tutorials.
-        entry_type: channel
-        readme_tags:
-          - Quick Tuts
-          - Blender
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Jayanam
@@ -1268,12 +1250,6 @@ subsections:
       - name: Unity tutorials in AR
         url: https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D
         description: '``Unity``  tutorials in AR                                   |'
-        entry_type: tutorial
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Motion Design School
-        url: https://motiondesign.school/collections/after-effects
-        description: Offers a variety of courses and tutorials on motion design and animation.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok

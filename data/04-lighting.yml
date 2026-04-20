@@ -231,15 +231,6 @@ subsections:
           - Community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Catlike Coding
-        url: https://catlikecoding.com/unity/tutorials/
-        description: Shader and rendering tutorials (Unity-focused, concepts transfer).
-        entry_type: tutorial
-        readme_tags:
-          - Unity Focus
-          - Shader Tutorials
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Cyanilux
         url: https://www.cyanilux.com/contents/
         description: Unity shader tutorials (URP focus). Intro to Shader Graph, HLSL, depth, vertex displacement, dissolve, portals, water, fire. Beginner → advanced.
@@ -401,12 +392,6 @@ subsections:
       - name: Unity 3D
         url: http://unity3d.com/
         description: A development engine for the creation of 2D and 3D games and interactive content.
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Unity Ads
-        url: https://unity3d.com/pt/services/ads
-        description: Unity3D Official Ads SDK.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -803,12 +788,6 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Blend4Web
-        url: https://www.blend4web.com/en/
-        description: Tool for interactive 3D visualization on the Internet.
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Path tracing fractals
         url: http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/
         description: by Mikael Hvidtfeldt Christensen|[Arlo ... in a fragment shader](https://t.co/jJeGzTGmNC) by Inigo Quilez|
@@ -1121,12 +1100,6 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: KodeLife
-        url: https://hexler.net/software/kodelife
-        description: Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Fragment Foundry
         url: http://hughsk.io/fragment-foundry
         description: Interactive fragment shader tutorial.
@@ -1319,12 +1292,6 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Real-Time Rendering
-        url: http://www.realtimerendering.com/blog/tag/webgl/
-        description: This is the blog for the book _Real-Time Rendering_.
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: WebGL 2 Basics
         url: http://www.realtimerendering.com/blog/webgl-2-basics/
         description: Blog post about getting started with WebGL 2.
@@ -1358,12 +1325,6 @@ subsections:
       - name: Scene.js
         url: http://scenejs.org/
         description: Extensible WebGL-based engine for high-detail 3D visualisation.
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: ShaderFrog
-        url: http://shaderfrog.com/
-        description: WebGL Shader Editor and Composer
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1406,12 +1367,6 @@ subsections:
       - name: Global illumination using photon maps
         url: https://sites.fas.harvard.edu/~cs278/papers/pmap.pdf
         description: . Jensen, H. W. Rendering Techniques 1996.
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Verge3D
-        url: https://www.soft8soft.com/verge3d/
-        description: an artist-friendly toolkit for creating 3D web experiences.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok

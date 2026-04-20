@@ -3286,9 +3286,3 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: SpriteKit
-        url: https://developer.apple.com/documentation/spritekit
-        description: Apple proprietary 2D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
