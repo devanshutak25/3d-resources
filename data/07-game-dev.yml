@@ -1325,7 +1325,7 @@ subsections:
             - opensource-alt
       - name: Jitter Physics
         url: https://github.com/mattleibow/jitterphysics
-        description: engine into Unity.
+        description: Engine into Unity.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1853,7 +1853,7 @@ subsections:
             - opensource-alt
       - name: Javascript Voronoi
         url: https://github.com/gorhill/Javascript-Voronoi
-        description: by Raymond Hill to Unity. Also, an attempt at dynamic mesh fractures.
+        description: By Raymond Hill to Unity. Also, an attempt at dynamic mesh fractures.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2645,7 +2645,7 @@ subsections:
             - opensource-alt
       - name: Gendarme
         url: https://github.com/spouliot/gendarme
-        description: from inside the Unity editor.
+        description: From inside the Unity editor.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -4961,7 +4961,7 @@ subsections:
             - opensource-alt
       - name: IndoorAtlas
         url: https://www.indooratlas.com/
-        description: plugin for Unity.
+        description: Plugin for Unity.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -5049,7 +5049,7 @@ subsections:
             - unity-plugin
       - name: WakaTime
         url: https://wakatime.com/
-        description: plugin for Unity.
+        description: Plugin for Unity.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -5617,10 +5617,10 @@ subsections:
     title: XR, AR & VR — Resources
     description: AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, and VR platforms.
     entries:
-      - name: blender.stackexchange.com
+      - name: Blender Stack Exchange
         url: https://blender.stackexchange.com/
-        description: questions and answers.
-        entry_type: tool
+        description: Blender Q&A community on Stack Exchange.
+        entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
         tags:
@@ -5850,7 +5850,7 @@ subsections:
             - web
       - name: Oliver Kreylos's blog
         url: http://doc-ok.org/
-        description: is a good resource to get started learning about VR / stereo rendering.
+        description: Good resource to get started learning about VR / stereo rendering.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -6181,7 +6181,7 @@ subsections:
             - unreal-plugin
       - name: 'Unreal Docs: InstancedStruct'
         url: https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Utilities/InstancedStruct
-        description: isn't available yet!
+        description: Isn't available yet!
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -6291,7 +6291,7 @@ subsections:
             - unreal-plugin
       - name: 📄 Recommended Asset Naming Conventions ~ epicgames
         url: https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects
-        description: naming folders & files.
+        description: Naming folders & files.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -7128,7 +7128,7 @@ subsections:
             - opensource-alt
       - name: Socketio Client Ue4
         url: https://github.com/getnamo/socketio-client-ue4
-        description: socket.io client plugin for Unreal Engine 4
+        description: Socket.io client plugin for Unreal Engine 4
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -7188,7 +7188,7 @@ subsections:
             - opensource-alt
       - name: UEWebsocket
         url: https://github.com/kristjanvalur/UEWebsocket
-        description: unreal engine 4 websocket plugin for both c++ and blueprint developer
+        description: Unreal engine 4 websocket plugin for both c++ and blueprint developer
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -7332,7 +7332,7 @@ subsections:
             - opensource-alt
       - name: sluaunreal
         url: https://github.com/Tencent/sluaunreal
-        description: lua dev plugin for unreal engine 4
+        description: Lua dev plugin for unreal engine 4
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -7392,7 +7392,7 @@ subsections:
             - opensource-alt
       - name: Kotlin Unreal
         url: https://github.com/hiperbou/kotlin-unreal
-        description: 'kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4'
+        description: 'Kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -7764,7 +7764,7 @@ subsections:
             - opensource-alt
       - name: RedTalaria
         url: https://github.com/cdpred/RedTalaria
-        description: an Unreal Engine plugin providing a set of Hermes endpoints
+        description: Unreal Engine plugin providing a set of Hermes endpoints
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -7884,7 +7884,7 @@ subsections:
             - opensource-alt
       - name: Easy Json Parser
         url: https://github.com/ayumax/EasyJsonParser
-        description: json parse library for unreal engine
+        description: Json parse library for unreal engine
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -7896,7 +7896,7 @@ subsections:
             - opensource-alt
       - name: EasyXMLParser
         url: https://github.com/ayumax/EasyXMLParser
-        description: xml parse library for unreal engine
+        description: Xml parse library for unreal engine
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -8083,7 +8083,7 @@ subsections:
         url_status: ok
       - name: OGMO Editor 3
         url: https://ogmo-editor-3.github.io/
-        description: generic level editor.
+        description: Generic level editor.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -8165,7 +8165,7 @@ subsections:
             - opensource-alt
       - name: Sprytile (GitHub)
         url: https://github.com/Sprytile/Sprytile
-        description: a blender add-on for building tile based low-poly scenes with paint/map editor like tools. [[more info]](https://chemikhazi.itch.io/sprytile)
+        description: Blender add-on for building tile based low-poly scenes with paint/map editor like tools. [[more info]](https://chemikhazi.itch.io/sprytile)
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -9298,7 +9298,7 @@ subsections:
             - games
       - name: Phototiler
         url: https://halfmaps.itch.io/phototiler
-        description: is a lightweight photorealistic map renderer that allows quick rendering of 3D maps for creative cartography.
+        description: Lightweight photorealistic map renderer that allows quick rendering of 3D maps for creative cartography.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok

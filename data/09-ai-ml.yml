@@ -1258,7 +1258,7 @@ subsections:
         url_status: ok
       - name: '3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows'
         url: https://arxiv.org/abs/2210.11603
-        description: arXiv 2022 | |
+        description: ArXiv 2022 | |
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1271,7 +1271,7 @@ subsections:
             - web
       - name: Introduction to Generative AI Community Course
         url: https://www.youtube.com/@iNeuroniNtelligence
-        description: by ineuron
+        description: By ineuron
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1295,7 +1295,7 @@ subsections:
             - concept
       - name: COVAL
         url: https://app.coval.dev/the-ultimate-voice-ai-stack
-        description: architecture of voice AI, from speech recognition to emotional intelligence, and learn how to build, scale, and evaluate them
+        description: Architecture of voice AI, from speech recognition to emotional intelligence, and learn how to build, scale, and evaluate them
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1306,7 +1306,7 @@ subsections:
             - concept
       - name: Stable Diffusion KLMC2 Animation.ipynb forked
         url: https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb
-        description: fork by [@DigThatData](https://twitter.com/DigThatData)
+        description: Fork by [@DigThatData](https://twitter.com/DigThatData)
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1317,7 +1317,7 @@ subsections:
             - concept
       - name: Stable Diffusion KLMC2 Animation.ipynb
         url: https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G
-        description: notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
+        description: Notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1421,7 +1421,7 @@ subsections:
             - concept
       - name: Transforming 2D Images into 3D with the AdaMPI AI Model
         url: https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/
-        description: guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
+        description: Guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1465,7 +1465,7 @@ subsections:
             - concept
       - name: Stable Animation SDK
         url: https://stability.ai/blog/stable-animation-sdk
-        description: a text-to-animation tool for developers by Stability AI [[dev platform]](https://platform.stability.ai/docs/features/animation)
+        description: Text-to-animation tool for developers by Stability AI [[dev platform]](https://platform.stability.ai/docs/features/animation)
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1474,9 +1474,9 @@ subsections:
             - ai-generative
           workflow:
             - concept
-      - name: "Stable Diffusion Frivolous ·\_Because lawsuits based on ignorance deserve a response."
+      - name: "Stable Diffusion Frivolous ·\_Because lawsuits based on ignorance deserve a response"
         url: http://www.stablediffusionfrivolous.com/
-        description: a community response for the "Stable Diffusion litigation"
+        description: Community response for the "Stable Diffusion litigation"
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2304,7 +2304,7 @@ subsections:
           tech:
             - ai-generative
       - name: Coplay
-        url: https://coplay.dev?ref=github&utm_source=magictools
+        url: https://coplay.dev
         description: AI Copilot for Unity
         entry_type: tool
         url_last_verified: '2026-04-19'
@@ -2350,7 +2350,7 @@ subsections:
             - ai-generative
       - name: PixiJS
         url: http://www.pixijs.com/
-        description: is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
+        description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok

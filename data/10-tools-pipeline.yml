@@ -46,7 +46,7 @@ subsections:
         url_status: ok
       - name: Apple USD Tools
         url: https://developer.apple.com/augmented-reality/tools/
-        description: usdz_converter, Reality Composer.
+        description: Usdz_converter, Reality Composer.
         entry_type: reference
         tags:
           tech:
@@ -124,7 +124,7 @@ subsections:
             - opensource-alt
       - name: USD Shell Extension for Windows
         url: https://github.com/Activision/USDShellExtension
-        description: a full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
+        description: Full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -329,7 +329,7 @@ subsections:
             - web
       - name: CGRU
         url: http://cgru.info/
-        description: is a CG tools pack that includes AFANASY, a free open-source render farm manager.
+        description: CG tools pack that includes AFANASY, a free open-source render farm manager.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -550,7 +550,7 @@ subsections:
             - web
       - name: Flamenco (flamenco.io)
         url: https://www.flamenco.io/
-        description: from the Blender Foundation
+        description: From the Blender Foundation
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -568,7 +568,7 @@ subsections:
             - web
       - name: (2011) A trip through the graphics pipeline
         url: https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index
-        description: by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
+        description: By **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -604,7 +604,7 @@ subsections:
             - opensource-alt
       - name: OBS
         url: https://github.com/obsproject/obs-studio
-        description: software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
+        description: Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -843,7 +843,7 @@ subsections:
             - opensource-alt
       - name: 3DGS.cpp
         url: https://github.com/shg8/3DGS.cpp
-        description: cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS
+        description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -854,7 +854,7 @@ subsections:
             - opensource-alt
       - name: vkgs
         url: https://github.com/jaesung-cs/vkgs
-        description: cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics
+        description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1244,7 +1244,7 @@ subsections:
             - photogrammetry
       - name: 3DF Zephyr Free
         url: https://www.3dflow.net/3df-zephyr-free/
-        description: is free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations.
+        description: Free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1505,7 +1505,7 @@ subsections:
             - opensource-alt
       - name: Mr Ne RF
         url: https://github.com/MrNeRF/awesome-3D-gaussian-splatting
-        description: for inspiring me to construct this repo.
+        description: For inspiring me to construct this repo.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1595,7 +1595,7 @@ subsections:
             - opensource-alt
       - name: Leonid Keselman
         url: https://github.com/leonidk
-        description: for informing me about the release of the paper "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting".
+        description: For informing me about the release of the paper "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting".
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2112,7 +2112,7 @@ subsections:
             - retopo
       - name: SpeedRetopo
         url: https://gumroad.com/l/speedretopo
-        description: is a free add-on for Blender to make fast and easy retopology using Bsurface.
+        description: Free add-on for Blender to make fast and easy retopology using Bsurface.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2121,7 +2121,7 @@ subsections:
             - retopo
       - name: Retopo MT
         url: https://gumroad.com/l/cNGNb
-        description: is a tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
+        description: Tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2139,7 +2139,7 @@ subsections:
             - retopo
       - name: Danny Mac 3D
         url: https://www.youtube.com/@DannyMac3d
-        description: character modeling, posing, rigging, retopology, sculpting.
+        description: Character modeling, posing, rigging, retopology, sculpting.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2286,7 +2286,7 @@ subsections:
         url_status: ok
       - name: EasyMocap
         url: https://github.com/zju3dv/EasyMocap?tab=readme-ov-file
-        description: is an open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
+        description: Open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2810,7 +2810,7 @@ subsections:
             - opensource-alt
       - name: tlRender
         url: https://github.com/darbyjohnston/tlRender
-        description: timeline render, is an early stage project for rendering editorial timelines.
+        description: Timeline render, is an early stage project for rendering editorial timelines.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2976,7 +2976,7 @@ subsections:
         url_status: ok
       - name: MACHIN3tools
         url: https://gumroad.com/l/MACHIN3tools
-        description: is a free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [![market]](https://blendermarket
+        description: Free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [![market]](https://blendermarket
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3021,7 +3021,7 @@ subsections:
             - web
       - name: Poly Source
         url: https://gumroad.com/l/polysource
-        description: is designed to simplify the control of the number of different types of polygons. You can see how many Gone, Quad and Tris are on the active object.
+        description: Designed to simplify the control of the number of different types of polygons. You can see how many Gone, Quad and Tris are on the active object.
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3039,7 +3039,7 @@ subsections:
             - web
       - name: Brush Manager for Blender
         url: https://gumroad.com/l/zLBPz
-        description: is an add-on for Blender that helps you to create custom brushes, store them in a file and organize the library of various categories of brushes.
+        description: Add-on for Blender that helps you to create custom brushes, store them in a file and organize the library of various categories of brushes.
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3057,7 +3057,7 @@ subsections:
             - web
       - name: BY GEN
         url: https://gumroad.com/l/BY-GEN
-        description: is an addon designed to simplify the process of creating non-destructive, generative modeling styles in Blender. [![][repo]](https://github.com/curtisjamesholt/BY-GEN-public)
+        description: Addon designed to simplify the process of creating non-destructive, generative modeling styles in Blender. [![][repo]](https://github.com/curtisjamesholt/BY-GEN-public)
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3084,7 +3084,7 @@ subsections:
             - web
       - name: Free Sky Environment Shading
         url: https://gumroad.com/l/JUyxL
-        description: free custom procedural environment shading.
+        description: Free custom procedural environment shading.
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3129,7 +3129,7 @@ subsections:
             - web
       - name: PowerSave
         url: https://gumroad.com/l/powersave
-        description: is a tool intended to streamline saving and make saving itself more accessible, friendly and more artist streamlined.
+        description: Tool intended to streamline saving and make saving itself more accessible, friendly and more artist streamlined.
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3255,7 +3255,7 @@ subsections:
             - web
       - name: Layer Painter
         url: https://joshuaknauber.gumroad.com/l/layerpainter
-        description: allows you to use a Layer-System for creating materials with painting and procedurals. The layers include masks, filters and much more. Even though the addon is designed with a PBR workflow in mind
+        description: Allows you to use a Layer-System for creating materials with painting and procedurals. The layers include masks, filters and much more. Even though the addon is designed with a PBR workflow in mind
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3318,7 +3318,7 @@ subsections:
             - web
       - name: Geometry Nodes Pipes
         url: https://raywakui.gumroad.com/l/pcxni
-        description: is an addon for blender which helps generating complex pipe layouts.
+        description: Addon for blender which helps generating complex pipe layouts.
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3499,7 +3499,7 @@ subsections:
             - opensource-alt
       - name: glTF Pipeline
         url: https://github.com/CesiumGS/gltf-pipeline
-        description: glTF ↔ GLB, Draco compress, texture resize.
+        description: GlTF ↔ GLB, Draco compress, texture resize.
         license: Open Source
         entry_type: tool
         readme_tags:
@@ -3738,7 +3738,7 @@ subsections:
             - web
       - name: Mixamo Converter
         url: https://github.com/enziop/mixamo_converter
-        description: is a Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
+        description: Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok

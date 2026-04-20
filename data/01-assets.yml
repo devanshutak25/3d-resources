@@ -398,7 +398,7 @@ subsections:
             - modeling
       - name: Engraver
         url: https://gumroad.com/l/qOyVO
-        description: is an Blender addon with set of few tools designed to help carving decals in 3D models.
+        description: Blender addon with set of few tools designed to help carving decals in 3D models.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -407,7 +407,7 @@ subsections:
             - modeling
       - name: WoT Tank Viewer
         url: https://bitbucket.org/SkepticalFox/bigworld-blender-tools-wot-wowp-wows
-        description: is a package of plugins for Blender, which allows you view 3D models from World of Tanks.
+        description: Package of plugins for Blender, which allows you view 3D models from World of Tanks.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -694,7 +694,7 @@ subsections:
             - modeling
       - name: Fusion Character Animator
         url: http://loopengo.free.fr/
-        description: small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
+        description: Small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -703,7 +703,7 @@ subsections:
             - modeling
       - name: AccuRIG
         url: https://actorcore.reallusion.com/auto-rig
-        description: is a free application designed for fast and easy character rigging.
+        description: Free application designed for fast and easy character rigging.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1646,7 +1646,7 @@ subsections:
             - material-authoring
       - name: 'Ray Tracing: The Next Week'
         url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
-        description: by Peter Shirley, builds on top of the first books' project, adding more effects, like textures and motion blur
+        description: By Peter Shirley, builds on top of the first books' project, adding more effects, like textures and motion blur
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1656,7 +1656,7 @@ subsections:
             - material-authoring
       - name: SpriteUV2
         url: https://www.spriteuv.com/
-        description: tool for creating optimal meshes for textures/sprites and packing them into an atlas.
+        description: Tool for creating optimal meshes for textures/sprites and packing them into an atlas.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1706,7 +1706,7 @@ subsections:
             - material-authoring
       - name: 3DAssets.one
         url: https://www.3dassets.one/
-        description: is a search-engine which allows you to explore the largest free texture sites all at once.
+        description: Search-engine which allows you to explore the largest free texture sites all at once.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1736,7 +1736,7 @@ subsections:
             - material-authoring
       - name: Agama Materials
         url: https://agama.itch.io/agama-materials
-        description: is software for creating PBR materials and painting 3d models. You can create materials and use them for painting models, or you can use pre-made textures.
+        description: Software for creating PBR materials and painting 3d models. You can create materials and use them for painting models, or you can use pre-made textures.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1746,7 +1746,7 @@ subsections:
             - material-authoring
       - name: Agisoft De-Lighter
         url: https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow
-        description: is a free stand-alone tool designed to remove shadows from model textures. [!download](https://www.agisoft.com/downloads/installer/)
+        description: Free stand-alone tool designed to remove shadows from model textures. [!download](https://www.agisoft.com/downloads/installer/)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1756,7 +1756,7 @@ subsections:
             - material-authoring
       - name: Architextures - Create
         url: https://architextures.org/create
-        description: web app allows you to create seamless textures, bump maps and CAD hatches. Select any of the parameters to get started.
+        description: Web app allows you to create seamless textures, bump maps and CAD hatches. Select any of the parameters to get started.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1796,7 +1796,7 @@ subsections:
             - material-authoring
       - name: Celestia Motherlode
         url: http://www.celestiamotherlode.net/
-        description: is a repository for various addons like textures, models or celestial objects.
+        description: Repository for various addons like textures, models or celestial objects.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1834,7 +1834,7 @@ subsections:
           workflow:
             - texturing
             - material-authoring
-      - name: Texture Paint Manual.
+      - name: Texture Paint Manual
         url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
         description: Texture Paint Manual..
         entry_type: asset-source
@@ -2002,7 +2002,7 @@ subsections:
             - opensource-alt
       - name: Poliigon Blender Addon
         url: https://help.poliigon.com/en/articles/6342599
-        description: this addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating blender fi
+        description: This addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating blender fi
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2012,7 +2012,7 @@ subsections:
             - material-authoring
       - name: Game Texture Viewer
         url: https://jangafx.com/software/gametextureviewer/
-        description: is a fast, reliable, and simple tool for
+        description: Fast, reliable, and simple tool for
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2042,7 +2042,7 @@ subsections:
             - material-authoring
       - name: TextureLab
         url: https://njbrown.itch.io/texturelab
-        description: is a tool designed to make procedural texture generation.
+        description: Tool designed to make procedural texture generation.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2822,7 +2822,7 @@ subsections:
             - opensource-alt
       - name: Freesound Add-on
         url: https://github.com/iwkse/freesound/tree/freesound-2.0
-        description: is an addon for Blender that allows users to create and edit subtitles for movies or music.
+        description: Addon for Blender that allows users to create and edit subtitles for movies or music.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3101,7 +3101,7 @@ subsections:
             - opensource-alt
       - name: bitmap font renderer
         url: https://jmickle66666666.github.io/blog/techart/2019/12/18/bitmap-font-renderer.html
-        description: bitmap font renderer.
+        description: Bitmap font renderer.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3111,7 +3111,7 @@ subsections:
             - illustration
       - name: Word-As-Image for Semantic Typography
         url: https://wordasimage.github.io/Word-As-Image-Page/
-        description: semantically transforming fonts into illustrations
+        description: Semantically transforming fonts into illustrations
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok

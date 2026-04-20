@@ -796,7 +796,7 @@ subsections:
         url_status: ok
       - name: Procreate
         url: https://procreate.com/
-        description: iPad painting app. Procreate Dreams for animation.
+        description: IPad painting app. Procreate Dreams for animation.
         license: Paid
         entry_type: software
         best_for: Mobile illustration, storyboards
@@ -1847,7 +1847,7 @@ subsections:
             - rendering
       - name: Hexels
         url: https://www.marmoset.co/hexels/
-        description: intuitive 2D, grid-based painting tool
+        description: Intuitive 2D, grid-based painting tool
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1929,7 +1929,7 @@ subsections:
             - opensource-alt
       - name: Yafaray
         url: https://github.com/YafaRay/libYafaRay
-        description: libYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license. Raytracing is a rendering technique for generating realistic images by tracing the path of light t
+        description: LibYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license. Raytracing is a rendering technique for generating realistic images by tracing the path of light t
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2967,7 +2967,7 @@ subsections:
             - opensource-alt
       - name: Cocos2d X
         url: http://cocos2d-x.org/
-        description: a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
+        description: C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2978,7 +2978,7 @@ subsections:
             - opensource-alt
       - name: jMonkeyEngine 3
         url: http://jmonkeyengine.org/
-        description: a 3D open-source game engine for adventurous Java developers.
+        description: 3D open-source game engine for adventurous Java developers.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2989,7 +2989,7 @@ subsections:
             - opensource-alt
       - name: JPCT
         url: https://www.jpct.net/
-        description: jPCT is a 3D engine for desktop Java and Google's Android.
+        description: JPCT is a 3D engine for desktop Java and Google's Android.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3011,7 +3011,7 @@ subsections:
             - opensource-alt
       - name: Magnum (site)
         url: http://magnum.graphics/
-        description: a lightweight and modular 2D/3D graphics/game engine written in C++11
+        description: Lightweight and modular 2D/3D graphics/game engine written in C++11
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok

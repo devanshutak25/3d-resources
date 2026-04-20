@@ -8,7 +8,7 @@ subsections:
     entries:
       - name: 10 Tips for Better Lighting
         url: https://helloluxx.com/tutorial/10-tips-for-better-lighting/
-        description: helloluxx lighting tips.
+        description: Helloluxx lighting tips.
         entry_type: tutorial
         readme_tags:
           - 10 Tips
@@ -382,7 +382,7 @@ subsections:
             - opensource-alt
       - name: Bonzomatic
         url: https://github.com/Gargaj/Bonzomatic
-        description: live-coding editor for OpenGL pixel shaders, where the results appear on background as you edit the code
+        description: Live-coding editor for OpenGL pixel shaders, where the results appear on background as you edit the code
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -393,7 +393,7 @@ subsections:
             - opensource-alt
       - name: PBRT v3
         url: https://github.com/mmp/pbrt-v3
-        description: 'source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation"'
+        description: 'Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation"'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -424,7 +424,7 @@ subsections:
             - rendering
       - name: Physically Based Rendering
         url: http://www.pbr-book.org/3ed-2018/contents.html
-        description: book, and the ray tracer with photon mapping, from the
+        description: Book, and the ray tracer with photon mapping, from the
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -433,7 +433,7 @@ subsections:
             - rendering
       - name: Fragmentarium
         url: http://syntopia.github.io/Fragmentarium/
-        description: program to edit and visualize GLSL shaders, mainly focused on fractals and generative systems
+        description: Program to edit and visualize GLSL shaders, mainly focused on fractals and generative systems
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -442,7 +442,7 @@ subsections:
             - rendering
       - name: The Art of Code channel
         url: https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg
-        description: tutorials on shaders using ShaderToy, mostly videos on procedural generation.
+        description: Tutorials on shaders using ShaderToy, mostly videos on procedural generation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -491,7 +491,7 @@ subsections:
             - opensource-alt
       - name: Horde3D
         url: http://www.horde3d.org/
-        description: small open source 3D rendering engine.
+        description: Small open source 3D rendering engine.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -527,7 +527,7 @@ subsections:
             - rendering
       - name: Ray Tracing in One Weekend
         url: http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf
-        description: 'by Peter Shirley, a free book to get you implementing a basic ray tracer in C++, the catch is: this one is very short (about 40 pages), you''ll learn the minimum to create a ray tracer to generate am'
+        description: 'By Peter Shirley, a free book to get you implementing a basic ray tracer in C++, the catch is: this one is very short (about 40 pages), you''ll learn the minimum to create a ray tracer to generate am'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -536,7 +536,7 @@ subsections:
             - rendering
       - name: 'Ray Tracing: The Rest of Your Life'
         url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf
-        description: by Peter Shirley, last book of the series, exposes more mathematical themes necessary to build more complex and complete renderers
+        description: By Peter Shirley, last book of the series, exposes more mathematical themes necessary to build more complex and complete renderers
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -545,7 +545,7 @@ subsections:
             - rendering
       - name: Real-Time Rendering recommended books
         url: http://www.realtimerendering.com/books.html
-        description: list of recommended books on the Real-Time Rendering's site
+        description: List of recommended books on the Real-Time Rendering's site
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1056,7 +1056,7 @@ subsections:
             - rendering
           platform:
             - web
-      - name: Advanced Materials in Blender - Shader Editor Tutorial.
+      - name: Advanced Materials in Blender - Shader Editor Tutorial
         url: https://www.youtube.com/@SurfacedStudio
         description: Advanced Materials in Blender - Shader Editor Tutorial..
         entry_type: channel
@@ -1069,7 +1069,7 @@ subsections:
             - web
       - name: Lightning Boy Studio
         url: https://www.youtube.com/channel/UCd9i2MKimSaKezat1xkn8-A/videos
-        description: toon shader, npr.
+        description: Toon shader, npr.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1215,7 +1215,7 @@ subsections:
             - rendering
       - name: Path tracing fractals
         url: http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/
-        description: by Mikael Hvidtfeldt Christensen|[Arlo ... in a fragment shader](https://t.co/jJeGzTGmNC) by Inigo Quilez|
+        description: By Mikael Hvidtfeldt Christensen|[Arlo ... in a fragment shader](https://t.co/jJeGzTGmNC) by Inigo Quilez|
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1260,7 +1260,7 @@ subsections:
             - rendering
       - name: ComputeToys
         url: https://compute.toys/
-        description: is an innovative and experimental WebGPU compute shader editor designed to help developers explore the capabilities of the WebGPU API for creating high-performance graphics applications in the browse
+        description: Innovative and experimental WebGPU compute shader editor designed to help developers explore the capabilities of the WebGPU API for creating high-performance graphics applications in the browse
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1323,7 +1323,7 @@ subsections:
             - rendering
       - name: The Interactive Shader Format (ISF) Editor
         url: https://editor.isf.video/
-        description: is an online tool for creating and editing GLSL shaders in the ISF format, which is commonly used in VJ software, live performance applications, and interactive installations.
+        description: Online tool for creating and editing GLSL shaders in the ISF format, which is commonly used in VJ software, live performance applications, and interactive installations.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1406,7 +1406,7 @@ subsections:
             - opensource-alt
       - name: Unity3D Shaders Learning
         url: https://github.com/TarasOsiris/unity3d-shaders-learning
-        description: ust learning Unity3D shaders here.
+        description: Ust learning Unity3D shaders here.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1472,7 +1472,7 @@ subsections:
             - opensource-alt
       - name: Extra Lights
         url: https://github.com/jlampel/bl_extra_lights
-        description: is a plugin for Blender that adds physically based, photometric lighting presets to the Add menu. [![market]](https://blendermarket.com/products/extra-lights)
+        description: Plugin for Blender that adds physically based, photometric lighting presets to the Add menu. [![market]](https://blendermarket.com/products/extra-lights)
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1494,7 +1494,7 @@ subsections:
             - opensource-alt
       - name: SHADERed
         url: https://github.com/dfranx/SHADERed
-        description: is a lightweight tool for creating and testing HLSL and GLSL shaders.
+        description: Lightweight tool for creating and testing HLSL and GLSL shaders.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1549,7 +1549,7 @@ subsections:
             - opensource-alt
       - name: Lygia (GitHub)
         url: https://github.com/patriciogonzalezvivo/lygia
-        description: a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your s
+        description: Granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your s
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1571,7 +1571,7 @@ subsections:
             - opensource-alt
       - name: (2014) Ray tracing with OpenGL Compute Shaders
         url: https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29
-        description: by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
+        description: By **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1716,7 +1716,7 @@ subsections:
             - rendering
       - name: KodeLife
         url: https://hexler.net/products/kodelife
-        description: is a real-time shader editor that supports GLSL, HLSL, and Metal, with a user-friendly interface for creating and testing shaders.
+        description: Real-time shader editor that supports GLSL, HLSL, and Metal, with a user-friendly interface for creating and testing shaders.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1824,7 +1824,7 @@ subsections:
             - rendering
       - name: Light House 3D
         url: http://www.lighthouse3d.com/tutorials/glsl-core-tutorial
-        description: by **Light House 3D**
+        description: By **Light House 3D**
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2040,7 +2040,7 @@ subsections:
             - rendering
       - name: RenderDoc
         url: https://renderdoc.org
-        description: is a free and open-source graphics debugging tool that allows developers to capture and analyze frames from DirectX, Vulkan, and OpenGL applications. It provides a user-friendly interface to inspect
+        description: Free and open-source graphics debugging tool that allows developers to capture and analyze frames from DirectX, Vulkan, and OpenGL applications. It provides a user-friendly interface to inspect
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2067,7 +2067,7 @@ subsections:
             - rendering
       - name: ShaderFrog
         url: https://shaderfrog.com/2/
-        description: is an online shader editor and asset manager that allows users to create, edit, and export shaders for use in Three.js, Unity, and other game engines. It supports visual shader editing and also offer
+        description: Online shader editor and asset manager that allows users to create, edit, and export shaders for use in Three.js, Unity, and other game engines. It supports visual shader editing and also offer
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2220,7 +2220,7 @@ subsections:
             - rendering
       - name: Vertex Shader Art
         url: https://vertexshaderart.com/
-        description: is a platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
+        description: Platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2229,7 +2229,7 @@ subsections:
             - rendering
       - name: Virtual Terrain Project
         url: http://vterrain.org/
-        description: the creation of tools for easily constructing any part of the real part of the real world in interactive, 3D digital form.
+        description: Creation of tools for easily constructing any part of the real part of the real world in interactive, 3D digital form.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2292,7 +2292,7 @@ subsections:
             - rendering
       - name: Takua Renderer
         url: http://www.yiningkarlli.com/projects/takuarender/
-        description: by Karl Li| [The Pianist](http://lelatr.cgsociety.org/art/disney-zbrush-cartoon-maya-modeling-photoshop-texturing-mudbox-roger-3d-1191193), by Leticia Reinaldo|
+        description: By Karl Li| [The Pianist](http://lelatr.cgsociety.org/art/disney-zbrush-cartoon-maya-modeling-photoshop-texturing-mudbox-roger-3d-1191193), by Leticia Reinaldo|
         entry_type: marketplace
         url_last_verified: '2026-04-19'
         url_status: ok

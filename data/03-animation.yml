@@ -112,7 +112,7 @@ subsections:
             - rigging
       - name: SpriteLib
         url: http://www.widgetworx.com/spritelib/
-        description: a collection of static and animated graphic objects (also commonly known as sprites).
+        description: Collection of static and animated graphic objects (also commonly known as sprites).
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -350,7 +350,7 @@ subsections:
             - rigging
       - name: Animated AI
         url: https://animatedai.github.io/
-        description: animations and instructional videos about neural networks
+        description: Animations and instructional videos about neural networks
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -372,7 +372,7 @@ subsections:
             - opensource-alt
       - name: img2img animation with hands | Reddit
         url: https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/
-        description: img2img animation with hands | Reddit.
+        description: Img2img animation with hands | Reddit.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok

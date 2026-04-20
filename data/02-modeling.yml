@@ -209,7 +209,7 @@ subsections:
             - blender-addon
       - name: 3D House Planner
         url: https://www.3dhouseplanner.com/
-        description: is a professional home design web application that allows users to design houses and apartments.
+        description: Professional home design web application that allows users to design houses and apartments.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -249,7 +249,7 @@ subsections:
             - blender-addon
       - name: AMD Radeon ProRender
         url: https://www.amd.com/en/technologies/radeon-prorender-blender
-        description: is AMD’s powerful physically-based rendering engine that lets creative professionals use open industry standards to leverage GPU and CPU performance to produce stunningly photorealistic images in B
+        description: AMD’s powerful physically-based rendering engine that lets creative professionals use open industry standards to leverage GPU and CPU performance to produce stunningly photorealistic images in B
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -269,7 +269,7 @@ subsections:
             - blender-addon
       - name: Mandelbulb3D (original)
         url: http://www.andreas-maschke.com/?page_id=4607
-        description: is a free software application created for 3D fractal imaging. [![][repo]](https://github.com/thargor6/mb3d)
+        description: Free software application created for 3D fractal imaging. [![][repo]](https://github.com/thargor6/mb3d)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -299,7 +299,7 @@ subsections:
             - blender-addon
       - name: BlenderAddons.org
         url: https://blender-addons.org/
-        description: provides a list of free and paid Blender addons. Find the addon you need under categories or tags.
+        description: Provides a list of free and paid Blender addons. Find the addon you need under categories or tags.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -309,7 +309,7 @@ subsections:
             - blender-addon
       - name: 💬blender.chat
         url: https://blender.chat/
-        description: official chat server for artists and developers.
+        description: Official chat server for artists and developers.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -359,7 +359,7 @@ subsections:
             - blender-addon
       - name: blenderscripting
         url: https://blenderscripting.blogspot.com/
-        description: blender related python snippets to get you started.
+        description: Blender related python snippets to get you started.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -459,7 +459,7 @@ subsections:
             - blender-addon
       - name: TerreSculptor
         url: http://www.demenzunmedia.com/home/terresculptor/
-        description: is a terrain creation and editing software. It is freeware.
+        description: Terrain creation and editing software. It is freeware.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -489,7 +489,7 @@ subsections:
             - blender-addon
       - name: Needle Engine
         url: http://docs.needle.tools/blender
-        description: allows you to create highly interactive, flexible and lightweight web applications right inside Blender.
+        description: Allows you to create highly interactive, flexible and lightweight web applications right inside Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -519,7 +519,7 @@ subsections:
             - blender-addon
       - name: TreeIt
         url: https://www.evolved-software.com/treeit/treeit
-        description: is an easy to use real time 3D tree generator for the simple creation.
+        description: Easy to use real time 3D tree generator for the simple creation.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -603,7 +603,7 @@ subsections:
             - blender-addon
       - name: Blign
         url: https://jack-cooke.github.io/blign/
-        description: is an alignment and distribution tool for Blender. It allows users to align and distribute shapes with many different options.
+        description: Alignment and distribution tool for Blender. It allows users to align and distribute shapes with many different options.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -613,7 +613,7 @@ subsections:
             - blender-addon
       - name: Arsenal
         url: https://katharostech.github.io/arsenal
-        description: is a Blender integrated game engine written in Rust. [![][repo]](https://github.com/katharostech/arsenal)
+        description: Blender integrated game engine written in Rust. [![][repo]](https://github.com/katharostech/arsenal)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -673,7 +673,7 @@ subsections:
             - blender-addon
       - name: BookGen
         url: https://oweissbarth.de/software/book-gen-blender-addon/
-        description: is a free book-generation addon for Blender.
+        description: Free book-generation addon for Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -693,7 +693,7 @@ subsections:
             - blender-addon
       - name: QBlocker
         url: https://qblockerdocs.readthedocs.io/
-        description: is an interactive object creation tool for Blender.
+        description: Interactive object creation tool for Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -703,7 +703,7 @@ subsections:
             - blender-addon
       - name: RockThe3D
         url: http://www.rockthe3d.com/
-        description: is a blog site to provide and sharing the best 3D related knowledge and resources around.
+        description: Blog site to provide and sharing the best 3D related knowledge and resources around.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -713,7 +713,7 @@ subsections:
             - blender-addon
       - name: Sheep it Render Farm
         url: https://www.sheepit-renderfarm.com/
-        description: is a free distributed renderfarm for Blender.
+        description: Free distributed renderfarm for Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -733,7 +733,7 @@ subsections:
             - blender-addon
       - name: Verge3D
         url: https://www.soft8soft.com/get-verge3d/
-        description: is a powerful yet cost-efficient solution for creating interactive 3D web experiences.
+        description: Powerful yet cost-efficient solution for creating interactive 3D web experiences.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -753,7 +753,7 @@ subsections:
             - blender-addon
       - name: Tangram Heightmapper
         url: https://tangrams.github.io/heightmapper/
-        description: is an interactive grayscale heightmap browser, which can generate heightmaps for use in 3D applications.
+        description: Interactive grayscale heightmap browser, which can generate heightmaps for use in 3D applications.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -793,7 +793,7 @@ subsections:
             - blender-addon
       - name: UPBGE (site)
         url: https://upbge.org/
-        description: is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
+        description: Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -833,7 +833,7 @@ subsections:
             - blender-addon
       - name: Blender2Godot
         url: https://www.zammedev.com/home/wip_projects/blender2godot
-        description: is a addon that exports a Blender scene to a Godot Engine project.
+        description: Addon that exports a Blender scene to a Godot Engine project.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -843,7 +843,7 @@ subsections:
             - blender-addon
       - name: FLIP Fluids
         url: https://github.com/rlguy/Blender-FLIP-Fluids
-        description: is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://blendermar
+        description: Powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://blendermar
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -909,7 +909,7 @@ subsections:
             - opensource-alt
       - name: Spaceship Generator
         url: https://github.com/a1studmuffin/SpaceshipGenerator
-        description: procedurally generate 3D spaceships.
+        description: Procedurally generate 3D spaceships.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -920,7 +920,7 @@ subsections:
             - opensource-alt
       - name: Tree Gen
         url: https://github.com/friggog/tree-gen
-        description: procedural generation of tree models in blender.
+        description: Procedural generation of tree models in blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -942,7 +942,7 @@ subsections:
             - opensource-alt
       - name: JewelCraft
         url: https://github.com/mrachinskiy/jewelcraft
-        description: jewelry design toolkit add-on for Blender.
+        description: Jewelry design toolkit add-on for Blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1052,7 +1052,7 @@ subsections:
             - opensource-alt
       - name: AnimAide
         url: https://github.com/aresdevo/animaide
-        description: is a free add-on for Blender that has some helpful tools for animation.
+        description: Free add-on for Blender that has some helpful tools for animation.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1074,7 +1074,7 @@ subsections:
             - opensource-alt
       - name: COA Tools
         url: https://github.com/ndee85/coa_tools
-        description: is a 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.
+        description: 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1173,7 +1173,7 @@ subsections:
             - opensource-alt
       - name: DreamUV
         url: https://github.com/leukbaars/DreamUV
-        description: is a collection of tools that allow you to manipulate UVs in the 3D viewport.
+        description: Collection of tools that allow you to manipulate UVs in the 3D viewport.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1195,7 +1195,7 @@ subsections:
             - opensource-alt
       - name: Mr Mannequins Tools
         url: https://github.com/Jim-Kroovy/Mr-Mannequins-Tools
-        description: is a Blender add-on that gives the ability to export animations and weighted meshes that are directly compatible with the third person mannequin without re-targeting anything in Unreal Engine!
+        description: Blender add-on that gives the ability to export animations and weighted meshes that are directly compatible with the third person mannequin without re-targeting anything in Unreal Engine!
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1239,7 +1239,7 @@ subsections:
             - opensource-alt
       - name: Shot Manager by Ubisoft
         url: https://github.com/ubisoft/shotmanager
-        description: is a add-on that introduces a true shot entity in Blender scenes.
+        description: Add-on that introduces a true shot entity in Blender scenes.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1250,7 +1250,7 @@ subsections:
             - opensource-alt
       - name: Gaffer (Blender addon)
         url: https://github.com/gregzaal/Gaffer
-        description: is a Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [![market]](https://blendermarket.com/products/g
+        description: Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [![market]](https://blendermarket.com/products/g
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1371,7 +1371,7 @@ subsections:
             - opensource-alt
       - name: VSEQF
         url: https://github.com/snuq/VSEQF
-        description: is an overhaul for Blender's VSE that can completely change your workflow. Designed for quick, mouse and keyboard balanced editing with a focus on real-time feedback.
+        description: Overhaul for Blender's VSE that can completely change your workflow. Designed for quick, mouse and keyboard balanced editing with a focus on real-time feedback.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1426,7 +1426,7 @@ subsections:
             - opensource-alt
       - name: Subsimport
         url: https://github.com/doakey3/Subsimport
-        description: is an addon for Blender that allows users to create and edit subtitles for movies or music.
+        description: Addon for Blender that allows users to create and edit subtitles for movies or music.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1569,7 +1569,7 @@ subsections:
             - opensource-alt
       - name: Mixer by Ubisoft
         url: https://github.com/ubisoft/mixer
-        description: is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition.
+        description: Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1602,7 +1602,7 @@ subsections:
             - opensource-alt
       - name: Bandai Namco Research Motiondataset
         url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
-        description: the R&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
+        description: R&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1690,7 +1690,7 @@ subsections:
             - opensource-alt
       - name: MicMac
         url: https://github.com/micmacIGN/micmac
-        description: is a free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
+        description: Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1712,7 +1712,7 @@ subsections:
             - opensource-alt
       - name: Fake Bpy Module
         url: https://github.com/nutti/fake-bpy-module
-        description: is the collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
+        description: Collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1778,7 +1778,7 @@ subsections:
             - opensource-alt
       - name: Geometry Script
         url: https://github.com/carson-katri/geometry-script
-        description: is a scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
+        description: Scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2561,7 +2561,7 @@ subsections:
             - houdini-addon
       - name: Microbot VDB Painter
         url: https://microbot.ch/new/vdb-painter/
-        description: mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes.
+        description: MbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok

@@ -565,7 +565,7 @@ subsections:
             - blender
           platform:
             - web
-      - name: 🍦Blender Complete Beginner Tutorial Course by CG Geek.
+      - name: 🍦Blender Complete Beginner Tutorial Course by CG Geek
         url: https://www.youtube.com/@CGGeek
         description: 🍦Blender Complete Beginner Tutorial Course by CG Geek..
         entry_type: channel
@@ -576,7 +576,7 @@ subsections:
             - blender
           platform:
             - web
-      - name: 🍏Blender Beginner Tutorial Series by CG Boost.
+      - name: 🍏Blender Beginner Tutorial Series by CG Boost
         url: https://www.youtube.com/@cgboost
         description: 🍏Blender Beginner Tutorial Series by CG Boost..
         entry_type: channel
@@ -587,7 +587,7 @@ subsections:
             - blender
           platform:
             - web
-      - name: Blender Programming Tutorials by Olav3D.
+      - name: Blender Programming Tutorials by Olav3D
         url: https://www.youtube.com/@Olav3D
         description: Blender Programming Tutorials by Olav3D..
         entry_type: channel
@@ -598,7 +598,7 @@ subsections:
             - blender
           platform:
             - web
-      - name: Blender Fundamentals by Blender.
+      - name: Blender Fundamentals by Blender
         url: https://www.youtube.com/@BlenderOfficial
         description: Blender Fundamentals by Blender..
         entry_type: channel
@@ -620,7 +620,7 @@ subsections:
             - blender
           platform:
             - web
-      - name: Blender Procedural Nodes Playlist by Default Cube.
+      - name: Blender Procedural Nodes Playlist by Default Cube
         url: https://www.youtube.com/@DefaultCube
         description: Blender Procedural Nodes Playlist by Default Cube..
         entry_type: channel
@@ -631,7 +631,7 @@ subsections:
             - blender
           platform:
             - web
-      - name: Blender Motion Tracking Series by CGmatter.
+      - name: Blender Motion Tracking Series by CGmatter
         url: https://www.youtube.com/@CGMatter
         description: Blender Motion Tracking Series by CGmatter..
         entry_type: channel
@@ -799,7 +799,7 @@ subsections:
         tags:
           platform:
             - web
-      - name: Modeling a character BaseMesh in Blender.
+      - name: Modeling a character BaseMesh in Blender
         url: https://www.youtube.com/@sociamix
         description: Modeling a character BaseMesh in Blender..
         entry_type: channel
@@ -808,7 +808,7 @@ subsections:
         tags:
           platform:
             - web
-      - name: How to composite renders in Blender.
+      - name: How to composite renders in Blender
         url: https://www.youtube.com/@BlenderBrit
         description: How to composite renders in Blender..
         entry_type: channel
@@ -817,7 +817,7 @@ subsections:
         tags:
           platform:
             - web
-      - name: Blender Render Passes and Very Basic Compositing.
+      - name: Blender Render Passes and Very Basic Compositing
         url: https://www.youtube.com/@KevBinge
         description: Blender Render Passes and Very Basic Compositing..
         entry_type: channel
@@ -835,7 +835,7 @@ subsections:
         tags:
           platform:
             - web
-      - name: How to use blender's compositor to improve a rendered frame sequence.
+      - name: How to use blender's compositor to improve a rendered frame sequence
         url: https://www.youtube.com/@garagefarmacademy
         description: How to use blender's compositor to improve a rendered frame sequence..
         entry_type: channel
@@ -844,7 +844,7 @@ subsections:
         tags:
           platform:
             - web
-      - name: Blender Compositor for Post Processing.
+      - name: Blender Compositor for Post Processing
         url: https://www.youtube.com/@RenderRides
         description: Blender Compositor for Post Processing..
         entry_type: channel
@@ -855,7 +855,7 @@ subsections:
             - web
       - name: SouthernShotty
         url: https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg/videos
-        description: stylized modeling, character creation, sculpting.
+        description: Stylized modeling, character creation, sculpting.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -864,7 +864,7 @@ subsections:
             - web
       - name: Gleb Alexandrov
         url: https://www.youtube.com/@GlebAlexandrov
-        description: one of the best-known blender channel on youtube.
+        description: One of the best-known blender channel on youtube.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -873,7 +873,7 @@ subsections:
             - web
       - name: Chris Prenninger
         url: https://www.youtube.com/@chrisprenn
-        description: animation nodes, particle systems, shading.
+        description: Animation nodes, particle systems, shading.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -882,7 +882,7 @@ subsections:
             - web
       - name: CG Boost
         url: https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA/videos
-        description: modeling, sculpting.
+        description: Modeling, sculpting.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -891,7 +891,7 @@ subsections:
             - web
       - name: FlippedNormals (YouTube)
         url: https://www.youtube.com/@FlippedNormals
-        description: sculpting, modeling.
+        description: Sculpting, modeling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -900,7 +900,7 @@ subsections:
             - web
       - name: Blender NPR
         url: https://www.youtube.com/@super-bnpr
-        description: non-Photorealistic and expressive rendering.
+        description: Non-Photorealistic and expressive rendering.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -909,7 +909,7 @@ subsections:
             - web
       - name: Daniel Krafft - DSO
         url: https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw/videos
-        description: blender tips, add-ons.
+        description: Blender tips, add-ons.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -918,7 +918,7 @@ subsections:
             - web
       - name: Imphenzia
         url: https://www.youtube.com/@Imphenzia
-        description: low poly modeling, rigging.
+        description: Low poly modeling, rigging.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -927,7 +927,7 @@ subsections:
             - web
       - name: CBaileyFilm
         url: https://www.youtube.com/channel/UCXguhzOm29mBTYDuxKjxn5A/videos
-        description: blender animation projects.
+        description: Blender animation projects.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -936,7 +936,7 @@ subsections:
             - web
       - name: CG Masters
         url: https://www.youtube.com/@blengine
-        description: modeling, texturing, shading.
+        description: Modeling, texturing, shading.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -945,7 +945,7 @@ subsections:
             - web
       - name: Peter France
         url: https://www.youtube.com/@PeterFrance
-        description: modeling, texturing, shading, vfx.
+        description: Modeling, texturing, shading, vfx.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -954,7 +954,7 @@ subsections:
             - web
       - name: Iridesium
         url: https://www.youtube.com/@Iridesium
-        description: simulation, vfx.
+        description: Simulation, vfx.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -963,7 +963,7 @@ subsections:
             - web
       - name: Giulia Marchetti
         url: https://www.youtube.com/@giulia.delasestrellas
-        description: sculpting, character modeling.
+        description: Sculpting, character modeling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -972,7 +972,7 @@ subsections:
             - web
       - name: CG Fast Track
         url: https://www.youtube.com/@CGFastTrack
-        description: modeling, animation.
+        description: Modeling, animation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -981,7 +981,7 @@ subsections:
             - web
       - name: 3DGreenhorn
         url: https://www.youtube.com/@3dgreenhorn
-        description: isometric modeling.
+        description: Isometric modeling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -990,7 +990,7 @@ subsections:
             - web
       - name: Bad Normals
         url: https://www.youtube.com/@BadNormals
-        description: modeling, animation.
+        description: Modeling, animation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1008,7 +1008,7 @@ subsections:
             - web
       - name: CG Python
         url: https://www.youtube.com/@CGPython
-        description: blender Python scripting tips and tricks.
+        description: Blender Python scripting tips and tricks.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1035,7 +1035,7 @@ subsections:
             - web
       - name: I3D Past Projects
         url: https://www.youtube.com/@i3dpastprojects778
-        description: virtual 3D teleportation in real-time by Microsoft Research
+        description: Virtual 3D teleportation in real-time by Microsoft Research
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1134,7 +1134,7 @@ subsections:
             - web
       - name: The Gaming Library
         url: https://www.youtube.com/@TheGamingLibraryYT
-        description: and admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of CG today.
+        description: And admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of CG today.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1383,7 +1383,7 @@ subsections:
             - sculpting
           platform:
             - web
-      - name: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts.
+      - name: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts
         url: https://www.youtube.com/@yansculpts
         description: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts..
         entry_type: channel
@@ -1613,7 +1613,7 @@ subsections:
             - web
       - name: tinyrenderer
         url: https://github.com/ssloy/tinyrenderer
-        description: course of computer graphics teaching how Opengl and rendering works, teaching how to build a simpler version of OpenGL
+        description: Course of computer graphics teaching how Opengl and rendering works, teaching how to build a simpler version of OpenGL
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1716,7 +1716,7 @@ subsections:
             - web
       - name: Blender 3D Architect
         url: https://www.blender3darchitect.com/
-        description: is the place to find news, tutorials, resources and training related to architectural visualization using Blender.
+        description: Place to find news, tutorials, resources and training related to architectural visualization using Blender.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1725,7 +1725,7 @@ subsections:
             - web
       - name: 📰BlenderNation
         url: https://www.blendernation.com/
-        description: daily news, art and tutorials for Blender, the open source 3D content creation suite.
+        description: Daily news, art and tutorials for Blender, the open source 3D content creation suite.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1734,7 +1734,7 @@ subsections:
             - web
       - name: Blender Secrets
         url: https://www.blendersecrets.org/secrets
-        description: is home to hundreds of one-minute or less video tutorials that teach you specific topics.
+        description: Home to hundreds of one-minute or less video tutorials that teach you specific topics.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -1921,7 +1921,7 @@ subsections:
         tags:
           platform:
             - web
-      - name: Blender Beginner 3D Modeling Tutorial.
+      - name: Blender Beginner 3D Modeling Tutorial
         url: https://www.youtube.com/@tutor4u
         description: Blender Beginner 3D Modeling Tutorial..
         entry_type: channel
@@ -1941,7 +1941,7 @@ subsections:
             - web
       - name: CG Cookie
         url: https://www.youtube.com/@cg_cookie
-        description: free tutorials from [CG Cookie](https://cgcookie.com/).
+        description: Free tutorials from [CG Cookie](https://cgcookie.com/).
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2220,7 +2220,7 @@ subsections:
             - opensource-alt
       - name: Computer Graphics
         url: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/
-        description: ray tracing, animation, and so on at MIT in fall 2012
+        description: Ray tracing, animation, and so on at MIT in fall 2012
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2669,7 +2669,7 @@ subsections:
             - web
       - name: OpenXRay
         url: https://github.com/OpenXRay/xray-16
-        description: a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+        description: Community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2846,7 +2846,7 @@ subsections:
             - web
       - name: ccMixter.org
         url: http://dig.ccmixter.org/
-        description: is a community remix site operated by ArtisTech Media, created by Creative Commons. [![cc]](http://dig.ccmixter.org/licenses)
+        description: Community remix site operated by ArtisTech Media, created by Creative Commons. [![cc]](http://dig.ccmixter.org/licenses)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2873,7 +2873,7 @@ subsections:
             - web
       - name: 🗨️discord/blender
         url: https://discord.gg/blender
-        description: community-managed Discord server.
+        description: Community-managed Discord server.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -2909,7 +2909,7 @@ subsections:
             - web
       - name: Unity Community
         url: https://github.com/UnityCommunity
-        description: and to begin Awesome Unity (this repository) will be merged into Unity Community organization from now. This repository will be used to merge new contents into the
+        description: And to begin Awesome Unity (this repository) will be merged into Unity Community organization from now. This repository will be used to merge new contents into the
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3089,7 +3089,7 @@ subsections:
             - web
       - name: Welder
         url: https://blenderartists.org/t/welder/672478
-        description: welds generator for Blender.
+        description: Welds generator for Blender.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3098,7 +3098,7 @@ subsections:
             - web
       - name: Array Tools
         url: https://blenderartists.org/t/array-tools-all-in-one-for-translation-scale-and-rotation-array/1170295?u=peetie
-        description: is an addon for Blender to create translation, scale, rotation array with offset or global parameters in any direction and mix them. [![][repo]](https://github.com/Elreenys/array_tools)
+        description: Addon for Blender to create translation, scale, rotation array with offset or global parameters in any direction and mix them. [![][repo]](https://github.com/Elreenys/array_tools)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3107,7 +3107,7 @@ subsections:
             - web
       - name: Mesh Heal
         url: https://blenderartists.org/t/mesh-heal/1117095
-        description: is an add-on for Blender, it includes additional Blender operators for healing surface meshes.
+        description: Add-on for Blender, it includes additional Blender operators for healing surface meshes.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3125,7 +3125,7 @@ subsections:
             - web
       - name: JARCH Vis
         url: https://blenderartists.org/t/addon-jarch-vis/642607
-        description: is add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
+        description: Add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3231,7 +3231,7 @@ subsections:
         tags:
           platform:
             - web
-      - name: Animation & Rigging Manual.
+      - name: Animation & Rigging Manual
         url: https://docs.blender.org/manual/en/latest/physics/index.html
         description: Animation & Rigging Manual..
         entry_type: community
@@ -3240,7 +3240,7 @@ subsections:
         tags:
           platform:
             - web
-      - name: Compositing Nodes List.
+      - name: Compositing Nodes List
         url: https://docs.blender.org/manual/en/latest/compositing/index.html#node-types
         description: Compositing Nodes List..
         entry_type: community
@@ -3249,7 +3249,7 @@ subsections:
         tags:
           platform:
             - web
-      - name: Motion Tracking Manual.
+      - name: Motion Tracking Manual
         url: https://docs.blender.org/manual/en/latest/movie_clip/tracking/introduction.html
         description: Motion Tracking Manual..
         entry_type: community
@@ -3296,7 +3296,7 @@ subsections:
             - opensource-alt
       - name: 'ViroCore: A cross-platform AR/VR renderer'
         url: https://github.com/ViroCommunity/virocore
-        description: 'and [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)'
+        description: 'And [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3368,7 +3368,7 @@ subsections:
             - web
       - name: Promptstacks
         url: https://www.promptstacks.com/
-        description: a prompt engineering community
+        description: Prompt engineering community
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
@@ -3655,7 +3655,7 @@ subsections:
             - web
       - name: 'Gene Kogan: Perlin Noise'
         url: http://genekogan.com/code/p5js-perlin-noise/
-        description: introduction to 2D and 3D perlin noise.
+        description: Introduction to 2D and 3D perlin noise.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
