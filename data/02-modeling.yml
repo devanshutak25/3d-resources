@@ -13,25 +13,12 @@ subsections:
         tags:
           tech:
             - blender-addon
+            - blender
           workflow:
             - rendering
         readme_tags:
           - Distributed Render
           - Blender
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Blender for Unreal Engine
-        url: https://github.com/xavier150/Blender-For-UnrealEngine-Addons/wiki
-        description: UE export pipeline addon.
-        license: Open Source
-        entry_type: plugin
-        tags:
-          tech:
-            - blender-addon
-            - unreal-plugin
-        readme_tags:
-          - UE Export
-          - Pipeline
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: Blender to Unity FBX
@@ -43,6 +30,8 @@ subsections:
           tech:
             - blender-addon
             - unity-plugin
+            - blender
+            - opensource-alt
         readme_tags:
           - Unity Export
           - FBX
@@ -56,6 +45,8 @@ subsections:
         tags:
           tech:
             - blender-addon
+            - blender
+            - opensource-alt
           workflow:
             - modeling
         readme_tags:
@@ -71,6 +62,7 @@ subsections:
         tags:
           tech:
             - blender-addon
+            - blender
           workflow:
             - rendering
         readme_tags:
@@ -86,6 +78,7 @@ subsections:
         tags:
           tech:
             - blender-addon
+            - blender
         readme_tags:
           - Foliage
           - Premium
@@ -98,6 +91,7 @@ subsections:
         tags:
           tech:
             - blender-addon
+            - blender
           workflow:
             - lighting
         readme_tags:
@@ -111,990 +105,1732 @@ subsections:
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: F Spy Blender
         url: https://github.com/stuffmatic/fSpy-Blender
         description: Official fSpy Blender importer.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Pyblish
         url: https://github.com/jasperges/pyblish-blender
         description: Blender Addon to integrate the Pyblish framework
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Vscode
         url: https://github.com/JacquesLucke/blender_vscode
         description: Visual Studio Code extension for Blender development.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Addons
         url: https://github.com/Antonioya/blender
         description: Helpers for Blender
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Tissue
         url: https://github.com/alessandro-zomparelli/tissue
         description: Blender's add-on for computational design.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Sverchok
         url: https://github.com/nortikin/sverchok/
         description: A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Capsule
         url: https://github.com/Takanu/Capsule
         description: Blender addon to export, manage and automate to share between Blender and Unreal/Unity or other real-time engine.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Quixel Bridge
         url: https://quixel.com/bridge
         description: Connects Megascans to all your favorite tools including Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Quixel Mixer
         url: https://quixel.com/mixer
         description: Create photorealistic, tileable, materials in seconds with powerful mixing and painting.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: 3D House Planner
         url: https://www.3dhouseplanner.com/
         description: is a professional home design web application that allows users to design houses and apartments.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: ActorCore
         url: https://actorcore.reallusion.com/free
         description: Motion-capture library from Reallusion.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Export Paper Model from Blender
         url: https://addam.github.io/Export-Paper-Model-from-Blender/
         description: Add-on for creating paper models. [![][repo]](https://github.com/addam/Export-Paper-Model-from-Blender)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Programming Add-ons for Blender 2.8
         url: http://airplanes3d.net/pydev-000_e.xml
         description: It shows how to set up a professional IDE for writing Python programs for Blender, on the example of a simple plugin. It is an ebook, published freely on Creative Commons license.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: AMD Radeon ProRender
         url: https://www.amd.com/en/technologies/radeon-prorender-blender
         description: is AMD’s powerful physically-based rendering engine that lets creative professionals use open industry standards to leverage GPU and CPU performance to produce stunningly photorealistic images in B
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Anatomy 360, Free Reference
         url: https://anatomy360.info/anatomy-scan-reference-dump/
         description: 3D scanned human reference images.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Mandelbulb3D
+        tags:
+          tech:
+            - blender
+            - blender-addon
+      - name: Mandelbulb3D (original)
         url: http://www.andreas-maschke.com/?page_id=4607
         description: is a free software application created for 3D fractal imaging. [![][repo]](https://github.com/thargor6/mb3d)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Artec 3D
         url: https://www.artec3d.com/3d-models
         description: Download high resolution 3D scans for free. (CC-BY)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: The Blend
         url: https://blend.beehiiv.com
         description: Weekly articles & lessons on Blender & 3D
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: BlenderAddons.org
         url: https://blender-addons.org/
         description: provides a list of free and paid Blender addons. Find the addon you need under categories or tags.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: 💬blender.chat
         url: https://blender.chat/
         description: official chat server for artists and developers.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Blender 3D Architect by Allan Brito
         url: https://www.blender3darchitect.com/blender-books/
         description: Blender 3D Architect by Allan Brito.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: BlenderBIM
         url: https://blenderbim.org
         description: An add-on for beautiful, detailed, and data-rich OpenBIM with Blender. [![][repo]](https://github.com/ifcopenshell/ifcopenshell) ![][gpl]
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: BlenderCAM
         url: https://blendercam.com
         description: An Open Source solution for CAM with Blender 3D. [![][repo]](https://github.com/vilemduha/blendercam) ![][gpl]
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: The Blendersauce Vault Materials
         url: http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
         description: Abstract, Bricks and Walls, Concrete, Fabric, Fluids, Food, Manmade, Metal, Metal painted Materials, Nature, Plaster, Rocks/Stones, Tiles, Wood.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: blenderscripting
         url: https://blenderscripting.blogspot.com/
         description: blender related python snippets to get you started.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Blender Secrets by Jan van den Hemel
         url: https://www.blendersecrets.org/book
         description: Blender Secrets by Jan van den Hemel.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: unreachable
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Blender Sushi
         url: https://blendersushi.blogspot.com/
         description: Collection of 3D ideas, poetries and experiments blended in Blender 3D.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Blend Swap
         url: https://www.blendswap.com/blends
         description: The one place for Open Source Blender files.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: CAD Sketcher
         url: https://www.cadsketcher.com
         description: CAD Sketcher is a free and open-source project looking to enhance precision workflows in blender by bringing CAD like tools, features and usability. [![][repo]](https://github.com/hlorus/CAD_Sketch
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: SculptJanuary
         url: https://www.cgboost.com/challenges
         description: Challenge yourself over 31 days with a set of 31 topics.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Clavicula
         url: https://clavicula.link/
         description: Intuitive and free 3D modeling software for everyone.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: CNDL
         url: https://cndl.io/
         description: An IES lighting creation toolset. Improve your renders with custom IES lighting.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Blender Conference
         url: https://conference.blender.org/
-        description: 'The yearly Blender Conference in Amsterdam. (Playlists: [Bcon25](https://www.youtube.com/playlist?list=PLa1F2ddGya_8u-HEvmfCVuS_OImW8HaLd), [Bcon24](https://www.youtube.com/playlist?list=PLa1F2ddGy'
+        description: 'The yearly Blender Conference in Amsterdam. (Playlists: [Bcon25](https://www.youtube.com/playlist?list=PLa1F2ddGya_8u-HEvmfCVuS_OImW8HaLd)'
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Daz to Blender Bridge
         url: https://www.daz3d.com/daz-to-blender-bridge
         description: This easy-to-use Bridge transfers your Genesis 8 and 3 characters from Daz directly to Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: TerreSculptor
         url: http://www.demenzunmedia.com/home/terresculptor/
         description: is a terrain creation and editing software. It is freeware.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Connecter
         url: https://www.designconnected.com/connecter
         description: Free and visual creative assets management for 3d, AEC and design professionals.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: 🔌 Developer Portal
         url: https://developer.blender.org/
         description: '[💭 DevTalk](https://devtalk.blender.org/) | [💻 Developers Blog](https://code.blender.org/)'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Needle Engine
         url: http://docs.needle.tools/blender
         description: allows you to create highly interactive, flexible and lightweight web applications right inside Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Scanned Female Head Model by EISKO
         url: https://eisko.com/louise/
-        description: ', [Scanned 3D People from Renderpeople](https://renderpeople.com/free-3d-people/), [Scans from Louvre Museum](https://gumroad.com/l/xAQxj), [Free 3D Head Model](https://www.3dscanstore.com/blog/Free-3'
+        description: '[Scanned 3D People from Renderpeople](https://renderpeople.com/free-3d-people/), [Scans from Louvre Museum](https://gumroad.com/l/xAQxj)'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Magica Voxel
-        url: https://ephtracy.github.io/index.html?page=mv_main
-        description: A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.
-        entry_type: plugin
-        url_last_verified: '2026-04-19'
-        url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: aerialod
         url: https://ephtracy.github.io/index.html?page=aerialod
         description: A free interactive path tracing renderer for height maps.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: TreeIt
         url: https://www.evolved-software.com/treeit/treeit
         description: is an easy to use real time 3D tree generator for the simple creation.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: fb/blender
         url: https://fb.com/groups/2207257375/
         description: Blender Facebook group.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: reflow
         url: https://gitlab.com/diegogangl/reflow
         description: Blender addon to change fps.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Rig on the Fly
         url: https://gitlab.com/dypsloom/rigonthefly
         description: Rig on the Fly is a Blender dynamic rigging tool used to simplify and speed up animation workflow.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: IOR Reference
         url: https://gitlab.com/diegogangl/IOR_reference
         description: A blender addon that display IOR values in a list.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Render Useful
         url: https://gitlab.com/ldo/render-useful
         description: Command-line tools for Blender renders.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: OctaneRender Prime for Blender
         url: https://home.otoy.com/render/octane-render/demo/#prime
         description: Fully integrated Octane Render, free tier. [(blender plugin manual)](https://docs.otoy.com/BlenderH/BlenderPluginManual.htm)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: blender.daily
         url: https://www.instagram.com/blender.daily/
-        description: ', [Blender Secrets](https://www.instagram.com/blendersecretsdotorg/).'
+        description: '[Blender Secrets](https://www.instagram.com/blendersecretsdotorg/)'
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Blign
         url: https://jack-cooke.github.io/blign/
         description: is an alignment and distribution tool for Blender. It allows users to align and distribute shapes with many different options.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Arsenal
         url: https://katharostech.github.io/arsenal
         description: is a Blender integrated game engine written in Rust. [![][repo]](https://github.com/katharostech/arsenal)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: KeKit
         url: https://ke-code.xyz/scripts/kekit.html
         description: Brings some much needed functionality to Blender, with a whole array of production tools.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: LeoMoon LightStudio
         url: https://leomoon.com/downloads/plugins/leomoon-lightstudio/
         description: Lighting system for Blender. [![market]](https://blendermarket.com/products/leomoon-lightstudio)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Light Tracer Render
         url: https://lighttracer.org/
         description: Provides you with everything you need to create photorealistic renderings interactively, in both desktop Web browsers and Windows application.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Mantissa/resources
         url: https://mantissa.xyz/free.html
         description: Free Blender files, resources.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Magic UV
         url: https://nutti.github.io/Magic-UV/
         description: This is a blender add-on Magic UV consisted of many UV manipulation features which Blender lack of. [![][repo]](https://github.com/nutti/Magic-UV)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: BookGen
         url: https://oweissbarth.de/software/book-gen-blender-addon/
         description: is a free book-generation addon for Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: IOR List
         url: https://pixelandpoly.com/ior.html
         description: Index of Refraction values list for use with 3D applications.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: QBlocker
         url: https://qblockerdocs.readthedocs.io/
         description: is an interactive object creation tool for Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: RockThe3D
         url: http://www.rockthe3d.com/
         description: is a blog site to provide and sharing the best 3D related knowledge and resources around.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Sheep it Render Farm
         url: https://www.sheepit-renderfarm.com/
         description: is a free distributed renderfarm for Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Carnegie-Mellon University Graphics Lab Motion Capture Database BVH conversions
         url: https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture
         description: Contains 2500 free human motion captures.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Verge3D
         url: https://www.soft8soft.com/get-verge3d/
         description: is a powerful yet cost-efficient solution for creating interactive 3D web experiences.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Substance Source/freebies
         url: https://source.substance3d.com/allassets?free=true
         description: '[$] : Hundreds of high quality PBR materials.'
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Tangram Heightmapper
         url: https://tangrams.github.io/heightmapper/
         description: is an interactive grayscale heightmap browser, which can generate heightmaps for use in 3D applications.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: The Grove 3D
         url: https://www.thegrove3d.com/
         description: '[$] : Grow natural 3D trees for visualisation and film. Grow, bend, prune, interactively simulate the seasons year by year.'
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Blender & ACES
         url: https://www.toodee.de/?page_id=1720
         description: Setup Blender to work with ACES using OpenColorIO.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Gigapixel AI
         url: https://topazlabs.com/gigapixel-ai/
         description: '[$] : is the only photo enlargement product available that can actually add detail back to your upscaled photo.'
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UPBGE
+        tags:
+          tech:
+            - blender
+            - blender-addon
+      - name: UPBGE (site)
         url: https://upbge.org/
         description: is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: UV Packer
         url: https://www.uv-packer.com/blender/
         description: Automatic and free UV-Packer Add-on for Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: videvo
         url: https://www.videvo.net/
-        description: ', [actionvfx/free-vfx](https://www.actionvfx.com/collections/free-vfx/category), [videezy](https://www.videezy.com/), [pixabay](https://pixabay.com/videos/search/), [freemotionbacks](https://www.youtu'
+        description: '[actionvfx/free-vfx](https://www.actionvfx.com/collections/free-vfx/category), [videezy](https://www.videezy.com/), [pixabay](https://pixabay.com/videos/search/)'
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Developer Documentation
         url: https://wiki.blender.org/wiki/Main_Page
         description: Here you can find information about Blender's development process, design and architecture, as well as instructions for Building Blender.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: Blender2Godot
         url: https://www.zammedev.com/home/wip_projects/blender2godot
         description: is a addon that exports a Blender scene to a Godot Engine project.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
       - name: FLIP Fluids
         url: https://github.com/rlguy/Blender-FLIP-Fluids
         description: is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://blendermar
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Jet Fluids
         url: https://github.com/PavelBlend/blender_jet_fluids_addon
         description: '[Jet fluid](https://github.com/doyubkim/fluid-engine-dev) simulator integration in blender.'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Phobos
         url: https://github.com/dfki-ric/phobos
         description: An add-on for Blender allowing to create URDF, SDF and SMURF robot models.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Data Visualisation
         url: https://github.com/Griperis/BlenderDataVis
         description: Load data into Blender and create visualisations.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Data FX
         url: https://github.com/LandonFerg/Data-FX
         description: Loads and visualizes different types of data within Blender from .csv files.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Mesh Maze
         url: https://github.com/elfnor/mesh_maze
         description: Blender add-on to generate a maze on any mesh.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Spaceship Generator
         url: https://github.com/a1studmuffin/SpaceshipGenerator
         description: procedurally generate 3D spaceships.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Tree Gen
         url: https://github.com/friggog/tree-gen
         description: procedural generation of tree models in blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Modeling Cloth
         url: https://github.com/the3dadvantage/Modeling-Cloth-2_8
         description: Create real-time cloth-like behavior in meshes in Blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: JewelCraft
         url: https://github.com/mrachinskiy/jewelcraft
         description: jewelry design toolkit add-on for Blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Building Tools
         url: https://github.com/ranjian0/building_tools
         description: Building generation addon for blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: EdgeFlow
         url: https://github.com/BenjaminSauder/EdgeFlow/tree/blender_28
         description: This addon adds two operators to blender which both work on edgeloop selections.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Sculpt Tools
         url: https://github.com/anfeo/Blender-Sculpt-Tools
         description: Addon for help sculpting base mesh like Zbrush with Zsphere.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: GoB
         url: https://github.com/JoseConseco/GoB
         description: GoZ-alike tools for simple ZBrush-Blender interchange.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Mesh Align Plus
         url: https://github.com/egtwobits/mesh_mesh_align_plus
         description: Precisely align, move, and measure+match objects and mesh parts in your 3D scenes.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: RandoMesh
         url: https://github.com/mantissa-/RandoMesh
         description: A blender addon to add randomized geometry to any mesh.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: SliceMesh
         url: https://github.com/mantissa-/SliceMesh
         description: Simple script for Blender to automate mesh slicing.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: SuperPoke
         url: https://github.com/mantissa-/SuperPoke
         description: Iterative poking tool for Blender.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Laser Slicer
         url: https://github.com/rgsouthall/laser_slicer
         description: Cuts up a Blender object and exports the slices to SVG files for cutting on a laser cutter or other post-processing.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: AnimAide
         url: https://github.com/aresdevo/animaide
         description: is a free add-on for Blender that has some helpful tools for animation.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: AutoMask
         url: https://github.com/lukas-blecher/AutoMask
         description: A Blender Add-on for automatic rotoscoping with the help of Machine Learning.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: COA Tools
         url: https://github.com/ndee85/coa_tools
         description: is a 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender NLA Midi Copier
         url: https://github.com/Cornerback24/Blender-NLA-Midi-Copier
         description: Blender add-on for creating midi-driven animations from the Nonlinear Animation view.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: BlendyPose
         url: https://github.com/zonkosoft/BlendyPose
         description: Blender Motion Capture using your camera.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Spring Bones
         url: https://github.com/artellblender/springbones
         description: Blender addon to add spring/bouncy dynamic effect to bones.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Rigid Body Bones
         url: https://github.com/Pauan/blender-rigid-body-bones
         description: Blender addon which adds rigid body / spring physics to bones.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Bone Widget
         url: https://github.com/BlenderDefender/boneWidget
         description: Blender addon to assist with making custom bone shapes.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: WritingAnimation
         url: https://github.com/Shriinivas/writinganimation
         description: This add-on generates writing animation for the selected Bezier curves in blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: TextCounter
         url: https://github.com/leomoon-studios/leomoon-textcounter/
         description: LeoMoon TextCounter is an easy to use text animation plugin for Blender that can be used to make GUI simulations.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: GreaseWriter
         url: https://github.com/doakey3/GreaseWriter
         description: A Blender Add-on for auto-animating grease pencil strokes and emulating hand-drawn text.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: DreamUV
         url: https://github.com/leukbaars/DreamUV
         description: is a collection of tools that allow you to manipulate UVs in the 3D viewport.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: MeshSync
         url: https://github.com/unity3d-jp/MeshSync
         description: Live link plugin for Unity. supported blender and other 3D software.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Mr Mannequins Tools
         url: https://github.com/Jim-Kroovy/Mr-Mannequins-Tools
         description: is a Blender add-on that gives the ability to export animations and weighted meshes that are directly compatible with the third person mannequin without re-targeting anything in Unreal Engine!
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender For Unreal Engine
         url: https://github.com/xavier150/Blender-For-UnrealEngine-Addons
         description: This Add-on allows you to export content created with Blender to Unreal Engine 4.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Embark Blender Tools
         url: https://github.com/EmbarkStudios/blender-tools
         description: A Blender add-on containing workflow tools for game development. Includes tools for standardized import/export workflow, 3D modelling and new object types. [[medium]](https://medium.com/embarkstudi
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: INOX
         url: https://github.com/gents83/INOX
         description: Rust Game engine integrated in Blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Shot Manager by Ubisoft
         url: https://github.com/ubisoft/shotmanager
         description: is a add-on that introduces a true shot entity in Blender scenes.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Gaffer
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
+      - name: Gaffer (Blender addon)
         url: https://github.com/gregzaal/Gaffer
         description: is a Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [![market]](https://blendermarket.com/products/g
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Lumiere
         url: https://github.com/clarkx/Lumiere-V0.4
         description: Interactive Lighting add-on for Blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Maps Models Importer
         url: https://github.com/eliemichel/MapsModelsImporter
         description: A Blender add-on to import models from _Google Maps_. [[more info]](https://blog.exppad.com/article/importing-actual-3d-models-from-google-maps)
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender XR
         url: https://github.com/MARUI-PlugIn/BlenderXR
         description: A free virtual and mixed reality user interface for Blender that enables artists to edit scenes within the software using a suitable headset and controllers.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Metaverse Addon
         url: https://github.com/Menithal/Blender-Metaverse-Addon
         description: Blender toolset for creating content for Metaverses like High Fidelity.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Loom
         url: https://github.com/p2or/blender-loom
         description: Add-on to simplify the rendering process of image sequences and certain frames, allows batch rendering and comes with some handy utilities that help in production.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: MDSANIMA RenderTime
         url: https://github.com/mdsanima-dev/mdsanima-render-time
         description: Blender add-on estimates and calculate how long your animation will take to render done based on the rendering time of the only one frame.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Camera Shakify
         url: https://github.com/EatTheFuture/camera_shakify
         description: An addon for Blender that lets you easily add realistic camera shake to your cameras.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Screencast Keys
         url: https://github.com/nutti/Screencast-Keys
         description: Status Add-On for Blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Bangingcuts
         url: https://github.com/OllyFunkster/bangingcuts
         description: 'Cut up audio and video clips based on peaks in the audio track removing silences. Last Blender versions: don''t install the zip, install .py file instead.'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Power Sequencer
         url: https://github.com/GDQuest/blender-power-sequencer
         description: Brings smart new editing features to edit faster with Blender's Video Sequence Editor. It is completely Free and Open Source.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: VSEQF
         url: https://github.com/snuq/VSEQF
         description: is an overhaul for Blender's VSE that can completely change your workflow. Designed for quick, mouse and keyboard balanced editing with a focus on real-time feedback.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Transform Tools
         url: https://github.com/doakey3/VSE_Transform_Tools
         description: Quickly transform, crop and fade video strips in Blender's Video Sequence Editor.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Easy Proxy
         url: https://github.com/cgvirus/blender-vse-easy-proxy
         description: Blender addon to create proxy files for Video Sequence Editor (VSE) easily using FFMPEG.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Parallel Render
         url: https://github.com/elmopl/ktba/wiki/Addons
         description: Render the output from the Sequencer multithreaded through the Render sidebar.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Scene Strip Tools
         url: https://github.com/tin2tin/scene_strip_tools
         description: Preview Scene Strips directly in the 3D View.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Subsimport
         url: https://github.com/doakey3/Subsimport
         description: is an addon for Blender that allows users to create and edit subtitles for movies or music.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Search Online References
         url: https://github.com/tin2tin/Search-API-Reference
         description: Search current text in API Reference, Python Reference, Blender Stack Exchange, Blender Source Code and Github.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Kitti
         url: https://github.com/risteon/blender_kitti
         description: Render large point clouds and voxel grids with blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Point Cloud Visualizer
         url: https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280
         description: Display, edit, filter, render, convert, generate and export colored point cloud PLY files.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Projectors
         url: https://github.com/Ocupe/Projectors
         description: A blender add-on for simple projector creation and modification.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: QuickSwitch
         url: https://github.com/schroef/QuickSwitch
         description: A helper to quick switch workspaces and view render menu in viewport.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: MifthTools
         url: https://github.com/mifth/mifthtools
         description: 3Dcoat, Houdini, Modo mesh exchange tools and more.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Modifier List
         url: https://github.com/Symstract/modifier_list
         description: Blender add-on with enhanced UI layout for modifiers with handy features. Replaces the regular modifier UI and adds a tab in the Sidebar and a popup.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: ProSidebar
         url: https://github.com/CreativeDesigner3D/ProSidebar
         description: Add additional properties and operators to the 3D View Sidebar.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Tilecam
         url: https://github.com/stuffmatic/tilecam
         description: Render seamlessly repeatable images.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: PresetterProfessional
         url: https://github.com/dpdpforlife/PresetterProfessional
         description: View and visibility presets, 3d cursor presets, snap presets, etc. presets.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Screenwriter
         url: https://github.com/tin2tin/Blender_Screenwriter
         description: Write screenplays in Blender Text Editor in Fountain markup syntax view/export with correct screenplay formatting.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Kaleidoscope
         url: https://github.com/blenderskool/kaleidoscope
         description: The add-on adds two new nodes, Spectrum and Intensity, which essentially improves your workflow inside Blender when creating materials.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Mixer by Ubisoft
         url: https://github.com/ubisoft/mixer
         description: is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Lib SM64 Blender
         url: https://github.com/libsm64/libsm64-blender
         description: This add-on integrates libsm64 into Blender and provides various additional integrations with Fast64.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: BlenderSynth
         url: https://github.com/OllieBoyne/BlenderSynth
         description: Blender scripting for generating synthetic datasets at scale.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Bandai Namco Research Motiondataset
         url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
         description: the R&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Colab
         url: https://github.com/syn73/blender-colab
         description: Render on **_Google Colab_**, this is a Python script that allows you to render Blender scene using Google Colaboratory. Only Cycles.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Goxel
         url: https://github.com/guillaumechereau/goxel
         description: Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: BlenderUpdater
         url: https://github.com/overmindstudios/BlenderUpdater
         description: Download and install nightly builds with one click.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Updater CLI
         url: https://github.com/overmindstudios/BlenderUpdaterCLI
         description: Command line version of BlenderUpdater.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Version Manager
         url: https://github.com/DotBow/Blender-Version-Manager
         description: Minimalistic download manager for blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Launcher
         url: https://github.com/DotBow/Blender-Launcher
         description: Standalone client for managing official builds of blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Manager
         url: https://github.com/verlorengest/BlenderManager
         description: Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management, and More.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: MicMac
         url: https://github.com/micmacIGN/micmac
         description: is a free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Scripting
         url: https://github.com/njanakiev/blender-scripting
         description: Introduction to blender scripting. This is a collection of simple to more involved examples to scripting in Blender with Python.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Fake Bpy Module
         url: https://github.com/nutti/fake-bpy-module
         description: is the collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Debugger For Vscode
         url: https://github.com/AlansCodeLog/blender-debugger-for-vscode
         description: Blender addon for remote debugging Blender with VS Code (and Visual Studio).
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender CLI Rendering
         url: https://github.com/yuki-koyama/blender-cli-rendering
         description: Python scripts for rendering images using Blender from command-line interface.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Blender Addon Tester
         url: https://github.com/nangtani/blender-addon-tester
         description: The blender addon tester is a test harness to enable pytest hook to allow addons to be tested inside a defined version of blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Advanced Blender Add-on
         url: https://github.com/eliemichel/AdvancedBlenderAddon
         description: This repository intends to give a starter kit as well as to illustrate and intensively comment design patterns commonly used in advanced Blender add-ons.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: 3DN BIP
         url: https://github.com/3dninjas/3dn-bip
         description: A Python library for Blender. Blazingly fast preview loads in Blender. Images of arbitrary size. `bpy.utils.previews` drop-in replacement.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Geometry Script
         url: https://github.com/carson-katri/geometry-script
         description: is a scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: tinyrenderer
-        url: https://github.com/ssloy/tinyrenderer/wiki
-        description: 'Tiny Renderer or how OpenGL works: software rendering in 500 lines of code.'
-        entry_type: reference
-        url_last_verified: '2026-04-19'
-        url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Awesome 3D Human
         url: https://github.com/lijiaman/awesome-3d-human
         description: A curated list of papers & resources linked to 3D Human research including face, body, hand and motion modeling.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Awesome 3D Printing
         url: https://github.com/ad-si/awesome-3d-printing
         description: A curated list of awesome 3D printing resources.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: 3 D Machine Learning
         url: https://github.com/timzhang642/3D-Machine-Learning
         description: A resource repository for 3D machine learning.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Usage in Science, Academia, and Industry
         url: https://github.com/ichlubna/blenderSurvey
         description: Curated list of resources about the usage of Blender in Science, Academia, and Industry.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+            - blender-addon
+            - opensource-alt
       - name: Hi Phy Engine
         url: https://hiphyengine.github.io/
         description: Fully-coupled high-fidelity physics engine addon — unified solver for rigid body, cloth, hair, soft body, and MPM snow/sand with intersection-free continuous collision detection.
@@ -1104,6 +1840,7 @@ subsections:
         tags:
           tech:
             - blender-addon
+            - blender
           workflow:
             - simulation
         readme_tags:
@@ -1122,6 +1859,8 @@ subsections:
         tags:
           workflow:
             - modeling
+          tech:
+            - blender
         readme_tags:
           - Hair
           - Course
@@ -1136,6 +1875,9 @@ subsections:
           - Workflow
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
   - slug: houdini-getting-started
     title: Houdini — Getting Started
     description: Beginner-friendly Houdini intros.
@@ -1149,6 +1891,9 @@ subsections:
           - Curated Hub
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          skill:
+            - beginner
       - name: Houdini Apprentice
         url: https://www.sidefx.com/products/houdini-apprentice/
         description: Free learning version of Houdini.
@@ -1160,6 +1905,8 @@ subsections:
             - win
             - mac
             - linux
+          skill:
+            - beginner
         readme_tags:
           - Free NC
           - Learning Version
@@ -1172,6 +1919,8 @@ subsections:
         tags:
           tech:
             - procedural
+          skill:
+            - beginner
         readme_tags:
           - Procedural
           - Classic Intro
@@ -1186,6 +1935,9 @@ subsections:
           - Entagma
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          skill:
+            - beginner
   - slug: houdini-essential-learning
     title: Houdini — Essential Learning Resources
     description: Long-form Houdini learning hubs.
@@ -1199,7 +1951,10 @@ subsections:
           - Matt Estela
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Entagma
+        tags:
+          platform:
+            - web
+      - name: Entagma (site)
         url: http://www.entagma.com/
         description: Advanced design and mograph tutorials. Also Unreal and Blender.
         entry_type: channel
@@ -1208,6 +1963,9 @@ subsections:
           - Design/Mograph
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Applied Houdini
         url: http://www.appliedhoudini.com/
         description: Stephen Knipping's FX-focused course series (ILM).
@@ -1230,6 +1988,9 @@ subsections:
           - Comprehensive
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Farmfield (Vimeo)
         url: https://vimeo.com/farmfield
         description: Setups and hip files from Johnny Farmfield.
@@ -1239,7 +2000,10 @@ subsections:
           - Farmfield
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: John Kunz
+        tags:
+          platform:
+            - web
+      - name: John Kunz (site)
         url: https://www.johnkunz.com/
         description: Weekly streams — FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/)).
         entry_type: channel
@@ -1248,6 +2012,9 @@ subsections:
           - FX + Code
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: houdini-vex-coding
     title: Houdini — VEX & Coding
     description: VEX, Python, OpenCL, and scripting in Houdini.
@@ -1261,6 +2028,9 @@ subsections:
           - VEX
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: VEX Wrangle Cheat Sheet
         url: https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html
         description: Quick VEX reference by Mr Kunz.
@@ -1270,6 +2040,9 @@ subsections:
           - Reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Python Snippets for Houdini
         url: https://github.com/kiryha/houdini/wiki/python-snippets
         description: Python snippets wiki.
@@ -1279,6 +2052,9 @@ subsections:
           - Snippets
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Python Startup Scripts
         url: https://houdinitricks.com/python-houdini-start-scripts-part-1/
         description: Python startup scripts guide.
@@ -1288,6 +2064,9 @@ subsections:
           - Startup Scripts
         url_last_verified: '2026-04-19'
         url_status: unreachable
+        tags:
+          platform:
+            - web
       - name: VFXBrain VEX
         url: https://vfxbrain.wordpress.com/category/vex/
         description: VEX tutorials blog.
@@ -1297,6 +2076,9 @@ subsections:
           - Blog
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: HouPy Wiki
         url: https://www.houpywiki.com/
         description: Houdini Python wiki — packages, shelf scripts, menu customization, node graph hooks.
@@ -1306,6 +2088,9 @@ subsections:
           - Deep Reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: OpenCL in Houdini
         url: https://pepefx.blogspot.com/2019/03/opencl-notes.html
         description: OpenCL notes for Houdini.
@@ -1315,6 +2100,9 @@ subsections:
           - Advanced
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: houdini-fx-simulations
     title: Houdini — FX & Simulations
     description: Vellum, FLIP, Pyro, and other simulation workflows.
@@ -1328,6 +2116,10 @@ subsections:
           - Custom Solver
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - simulation
       - name: Smart Crown Splash FLIP
         url: https://vimeo.com/182010807
         description: FLIP splash technique.
@@ -1337,6 +2129,10 @@ subsections:
           - Splash
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - simulation
   - slug: houdini-rigging-animation
     title: Houdini — Rigging & Animation (KineFX)
     description: KineFX rigging, animation, and crowds.
@@ -1350,6 +2146,10 @@ subsections:
           - H19
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rigging
+            - animation
       - name: Space Girl Rigging
         url: https://www.sidefx.com/learn/collections/space-girl-rigging/
         description: Legacy rigging series.
@@ -1359,6 +2159,10 @@ subsections:
           - Legacy Rig
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rigging
+            - animation
   - slug: houdini-grooming
     title: Houdini — Grooming
     description: Hair and fur grooming workflows.
@@ -1376,6 +2180,9 @@ subsections:
           - Custom
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Procedural Modeling with VEX
         url: https://www.cgcircuit.com/course/procedural-modeling-with-vex
         description: Tighe Rzankowski procedural modeling course.
@@ -1398,6 +2205,9 @@ subsections:
           - Technique
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: For Loops Tutorial
         url: https://lesterbanks.com/2019/04/how-to-animate-subdivisions-in-houdini/
         description: For loops and animated subdivisions.
@@ -1407,6 +2217,9 @@ subsections:
           - Animation
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Art Directing Paint Splashes
         url: https://whatifound.net/2020/06/13/houdini-paint-splashes/
         description: Art-directed paint splashes.
@@ -1416,6 +2229,9 @@ subsections:
           - Art Direction
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Building Growth Animation
         url: https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth
         description: Building growth animation technique.
@@ -1425,6 +2241,9 @@ subsections:
           - Animation
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Node Studies
         url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/
         description: Node study slide deck.
@@ -1434,6 +2253,9 @@ subsections:
           - Deck
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Point Cloud to Mesh (Microsoft)
         url: https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini-point-cloud
         description: Point cloud to mesh guide.
@@ -1443,6 +2265,9 @@ subsections:
           - Mesh
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Cloner Object
         url: https://www.sidefx.com/tutorials/part-1-cloner-object/
         description: MoGraph Cloner tutorial.
@@ -1452,6 +2277,9 @@ subsections:
           - Cloner
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Muscles Masterclass
         url: https://www.sidefx.com/tutorials/muscles-masterclass-advanced-special-topics/
         description: Advanced muscles masterclass.
@@ -1461,6 +2289,9 @@ subsections:
           - Advanced
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: AI For Artists
         url: https://github.com/kiryha/Houdini/wiki/AI-For-Artists
         description: AI techniques applied to Houdini.
@@ -1468,6 +2299,7 @@ subsections:
         tags:
           tech:
             - ai-generative
+            - opensource-alt
         readme_tags:
           - AI
           - Artist-Oriented
@@ -1494,6 +2326,9 @@ subsections:
           - Community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: USD Basics with Solaris
         url: https://www.sidefx.com/tutorials/usd-basics-with-solaris/
         description: Official tutorial on USD basics in Solaris.
@@ -1518,6 +2353,8 @@ subsections:
         tags:
           output:
             - motion-graphics
+          tech:
+            - houdini-addon
         readme_tags:
           - Motion Graphics
           - Toadstorm
@@ -1533,6 +2370,10 @@ subsections:
           - Extended Tools
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
+            - opensource-alt
       - name: qLib
         url: https://github.com/qLab/qLib
         description: Open-source HDA library.
@@ -1543,6 +2384,10 @@ subsections:
           - HDAs
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
+            - opensource-alt
       - name: AElib
         url: https://github.com/Aeoll/Aelib
         description: Free tools by Nick Taylor (ManVsMachine).
@@ -1553,6 +2398,10 @@ subsections:
           - MvM
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
+            - opensource-alt
       - name: ODTools
         url: https://origamidigital.com/cart/index.php?route=product/product&path=59_63&product_id=64
         description: Pipeline tools by Oliver Hotz.
@@ -1563,7 +2412,10 @@ subsections:
           - Oliver Hotz
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Houdini Engine for Unreal
+        tags:
+          tech:
+            - houdini-addon
+      - name: Houdini Engine for Unreal (AdrianPan optimized fork)
         url: https://github.com/AdrianPanGithub/HoudiniEngineForUnreal
         description: Rebuilt Houdini Engine for UE, 2x-15x faster.
         license: Open Source
@@ -1571,6 +2423,8 @@ subsections:
         tags:
           tech:
             - unreal-plugin
+            - houdini-addon
+            - opensource-alt
         readme_tags:
           - UE Bridge
           - Performance
@@ -1586,6 +2440,10 @@ subsections:
           - Real-world
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
+            - opensource-alt
       - name: Axiom
         url: https://www.mattpuchala.com/axiom
         description: Sparse fluid solver by Matthew Puchala.
@@ -1595,6 +2453,8 @@ subsections:
           workflow:
             - simulation
             - fx
+          tech:
+            - houdini-addon
         readme_tags:
           - Sparse Fluids
           - GPU
@@ -1609,6 +2469,9 @@ subsections:
           - Grooming
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
       - name: Rich Lord's Tools
         url: https://www.richlord.com/
         description: Tools from ex-Valve animator.
@@ -1618,6 +2481,9 @@ subsections:
           - Valve Alum
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
       - name: .hips
         url: https://github.com/lcrs/_.hips
         description: Various Houdini tools.
@@ -1628,6 +2494,10 @@ subsections:
           - Open Source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
+            - opensource-alt
       - name: Ffmpeg
         url: https://ffmpeg.org/
         description: Flipbook to MP4 conversion tool ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM)).
@@ -1638,42 +2508,66 @@ subsections:
           - CLI
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
+            - opensource-alt
       - name: VFX Fractal Toolkit
         url: https://github.com/jtomori/vft
         description: Set of tools for generating fractal and generative art.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
+            - opensource-alt
       - name: ZENO
         url: https://github.com/zenustech/zeno
         description: Node-based 3D system that can produce cinematic physics effects at high efficiency.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
+            - opensource-alt
       - name: Houdini Tech Art Challenge Winners 2021
         url: https://www.sidefx.com/tech-art-challenge-2021/
         description: HPaint, Polyline Creator, Poly Slice Tool, and more
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
       - name: JDB Houdini Toolkit
         url: https://bitbucket.org/jcdeblok/workspace/projects/PROJ
         description: JDB Houdini Toolkit.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
       - name: Houdini Attributes Cheatsheet
         url: https://gist.github.com/iinfin/2caf4e2ccb2545477670e88ddacee1e2
         description: Houdini Attributes Cheatsheet.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
       - name: Microbot VDB Painter
         url: https://microbot.ch/new/vdb-painter/
         description: mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes.
         entry_type: plugin
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - houdini-addon
   - slug: houdini-courses-rebelway
     title: Houdini — Courses & Free Content
     description: Structured courses for Houdini.
@@ -1707,6 +2601,9 @@ subsections:
           - Very Active
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Houdini Nerd Discord
         url: https://discord.gg/E9zA9Ft
         description: Christopher Rutledge's Houdini community.
@@ -1716,6 +2613,9 @@ subsections:
           - Community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Think Procedural Discord
         url: https://discord.gg/thinkprocedural
         description: Procedural-focused Houdini Discord.
@@ -1725,6 +2625,9 @@ subsections:
           - Procedural
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: r/Houdini
         url: https://reddit.com/r/Houdini
         description: Houdini subreddit.
@@ -1734,6 +2637,9 @@ subsections:
           - Community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: SideFX Houdini on Bilibili
         url: https://search.bilibili.com/all?keyword=sidefx%20houdini
         description: Chinese Houdini tutorials.
@@ -1743,6 +2649,9 @@ subsections:
           - Bilibili
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Daily Hip
         url: https://dailyhip.wordpress.com/
         description: Tips from Eetu.
@@ -1752,6 +2661,9 @@ subsections:
           - Archive
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Houdini Tricks
         url: https://houdinitricks.tumblr.com/archive
         description: Quick tips archive.
@@ -1761,6 +2673,9 @@ subsections:
           - Quick Reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: VFX Arabia Houdini Tools
         url: https://www.vfxarabia.co/blog/categories/houdini-tools
         description: Houdini tools blog.
@@ -1770,19 +2685,13 @@ subsections:
           - Tools
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: cinema-4d-learning
     title: Cinema 4D — Learning
     description: C4D tutorials and learning hubs.
     entries:
-      - name: C4D Center
-        url: https://www.c4dcenter.com/
-        description: Tutorials and resources.
-        entry_type: channel
-        readme_tags:
-          - Tutorials
-          - Community
-        url_last_verified: '2026-04-19'
-        url_status: ok
       - name: Cineversity
         url: http://www.cineversity.com/
         description: Official Maxon tutorials.
@@ -1792,7 +2701,10 @@ subsections:
           - Maxon
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: School of Motion
+        tags:
+          output:
+            - motion-graphics
+      - name: School of Motion (site)
         url: https://www.schoolofmotion.com/
         description: C4D, motion graphics, animation, After Effects, design courses.
         license: Paid
@@ -1831,6 +2743,9 @@ subsections:
           - Workflow
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
   - slug: cinema-4d-tips-workflows
     title: Cinema 4D — Tips & Workflows
     description: Productivity blogs and shader workflow tricks.
@@ -1844,6 +2759,9 @@ subsections:
           - Workflows
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
       - name: Rolando Barry (Gumroad)
         url: https://honear.gumroad.com/
         description: C4D assets and presets.
@@ -1853,6 +2771,9 @@ subsections:
           - Assets
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
   - slug: 3ds-max-plugins
     title: 3ds Max — Plugins
     description: 3ds Max plugins.
@@ -1884,6 +2805,9 @@ subsections:
           - Designers
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - product-viz
   - slug: material-creation-tools
     title: Material Creation Tools
     description: Texture authoring, procedural materials, and baking tools.
@@ -1914,6 +2838,7 @@ subsections:
         tags:
           workflow:
             - material-authoring
+            - texturing
           tech:
             - procedural
             - node-based
@@ -1936,6 +2861,7 @@ subsections:
         tags:
           workflow:
             - texturing
+            - material-authoring
           tech:
             - pbr
             - smart-materials
@@ -1957,6 +2883,7 @@ subsections:
         tags:
           workflow:
             - texturing
+            - material-authoring
           tech:
             - opensource-alt
             - gpu
@@ -1977,6 +2904,7 @@ subsections:
         tags:
           workflow:
             - texturing
+            - material-authoring
         readme_tags:
           - Normal Maps
           - Browser
@@ -1991,6 +2919,7 @@ subsections:
         tags:
           workflow:
             - material-authoring
+            - texturing
           tech:
             - procedural
             - node-based
@@ -2013,6 +2942,7 @@ subsections:
         tags:
           workflow:
             - texturing
+            - material-authoring
         readme_tags:
           - No-UV
           - Early Access
@@ -2027,6 +2957,7 @@ subsections:
         tags:
           workflow:
             - texturing
+            - material-authoring
           platform:
             - win
         readme_tags:
@@ -2040,3 +2971,9 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - material-authoring
+            - texturing
+          tech:
+            - opensource-alt

@@ -46,6 +46,10 @@ subsections:
         tags:
           tech:
             - usd
+            - opensource-alt
+          output:
+            - film-vfx
+            - broadcast
         readme_tags:
           - Omniverse
           - USD-based
@@ -60,6 +64,7 @@ subsections:
         tags:
           output:
             - broadcast
+            - film-vfx
         readme_tags:
           - Broadcast
           - Graphics
@@ -92,6 +97,7 @@ subsections:
           output:
             - broadcast
             - motion-graphics
+            - film-vfx
           tech:
             - real-time
         readme_tags:
@@ -112,6 +118,12 @@ subsections:
           - YouTube
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
+          platform:
+            - web
       - name: Jam2go
         url: https://www.youtube.com/@Jam2go/videos
         description: Procedural art and creative coding.
@@ -119,6 +131,11 @@ subsections:
         tags:
           tech:
             - procedural
+          workflow:
+            - fx
+            - rendering
+          platform:
+            - web
         readme_tags:
           - Procedural
           - Creative Coding
@@ -133,6 +150,12 @@ subsections:
           - Tech Art
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
+          platform:
+            - web
       - name: Simon Schreibt
         url: https://simonschreibt.de/
         description: Game Art Tricks and Workflow Tricks — technical breakdowns of how games achieve effects (mirrors, fog, rendering tricks).
@@ -141,6 +164,9 @@ subsections:
           output:
             - games
             - film-vfx
+          workflow:
+            - fx
+            - rendering
         readme_tags:
           - Game Art Tricks
           - Breakdowns
@@ -152,12 +178,22 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
+          tech:
+            - opensource-alt
       - name: NXT
         url: https://nxt-dev.github.io/
         description: A layered code compositing application.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
       - name: Nuke Tools (VS Code)
         url: https://open-vsx.org/extension/virgilsisoe/nuke-tools
         description: VS Code extension for Nuke Python/BlinkScript development.
@@ -168,6 +204,12 @@ subsections:
           - Nuke Dev
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
+          tech:
+            - opensource-alt
       - name: Nuke Tools ST
         url: https://packagecontrol.io/packages/NukeToolsST
         description: Sublime Text package to send Python/BlinkScript code into Nuke.
@@ -177,33 +219,67 @@ subsections:
           - Nuke Dev
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
       - name: Bino
         url: https://github.com/ThreeDeeJay/bino/tree/main
         description: 3D video player with support for 180°/360° video and Virtual Reality.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
+          tech:
+            - opensource-alt
       - name: CasparCG
         url: https://github.com/CasparCG
         description: A Windows and Linux software used to play out professional graphics, audio, and video to multiple outputs as a layer-based real-time compositor.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
+          tech:
+            - opensource-alt
       - name: xComp
         url: https://github.com/gugenstudio/xComp
         description: Image Render comparing.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
+          tech:
+            - opensource-alt
       - name: Kiko
         url: https://github.com/Toolchefs/kiko
         description: DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come).
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
+          tech:
+            - opensource-alt
       - name: OpenWalter
         url: https://github.com/rodeofx/OpenWalter
         description: USD Plugins Arnold, Houdini, Katana, Maya and USD.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - fx
+            - rendering
+          tech:
+            - opensource-alt

@@ -21,6 +21,7 @@ subsections:
             - web
           tech:
             - real-time
+            - opensource-alt
         readme_tags:
           - Browser
           - Dynamic Topology
@@ -42,6 +43,8 @@ subsections:
             - web
           skill:
             - beginner
+          tech:
+            - opensource-alt
         readme_tags:
           - Browser
           - Education
@@ -62,6 +65,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Subdiv Modeling
           - Lightweight
@@ -86,6 +91,7 @@ subsections:
           tech:
             - path-tracing
             - gpu
+            - opensource-alt
         readme_tags:
           - Voxel
           - Path Tracing
@@ -108,6 +114,7 @@ subsections:
           tech:
             - real-time
             - procedural
+            - opensource-alt
         readme_tags:
           - SDF
           - Windows-only
@@ -129,6 +136,8 @@ subsections:
           platform:
             - win
             - mac
+          tech:
+            - opensource-alt
         readme_tags:
           - Anime Characters
           - VTuber
@@ -152,6 +161,7 @@ subsections:
           tech:
             - procedural
             - node-based
+            - opensource-alt
         readme_tags:
           - SDF
           - Non-destructive
@@ -167,6 +177,8 @@ subsections:
             - sculpting
           platform:
             - win
+          tech:
+            - opensource-alt
         readme_tags:
           - Free
           - Introductory Sculpt
@@ -514,6 +526,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Parametric
           - Open Source
@@ -577,6 +591,7 @@ subsections:
             - linux
           tech:
             - procedural
+            - opensource-alt
         readme_tags:
           - Script-Based
           - Parametric
@@ -598,6 +613,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - 2D CAD
           - Drafting
@@ -692,12 +709,18 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - product-viz
       - name: Thingiverse
         url: https://thingiverse.com
         description: 3D-printing model community.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - product-viz
       - name: Solvespace
         url: https://solvespace.com/index.pl
         description: Parametric 3D CAD modeling tool.
@@ -758,6 +781,7 @@ subsections:
             - animation
           output:
             - illustration
+            - motion-graphics
           platform:
             - win
             - mac
@@ -783,6 +807,7 @@ subsections:
             - animation
           output:
             - illustration
+            - motion-graphics
           platform:
             - ipad
           tech:
@@ -807,10 +832,13 @@ subsections:
           output:
             - games
             - illustration
+            - motion-graphics
           platform:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Pixel Art
           - Sprite Animation
@@ -828,6 +856,7 @@ subsections:
           output:
             - broadcast
             - film-vfx
+            - motion-graphics
           platform:
             - win
             - mac
@@ -848,6 +877,7 @@ subsections:
           output:
             - film-vfx
             - broadcast
+            - motion-graphics
           platform:
             - win
             - mac
@@ -878,7 +908,7 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: broken
         deprecated: true
-      - name: Pixel Composer
+      - name: Pixel Composer (itch.io)
         url: https://makham.itch.io/pixel-composer
         description: Node-based 2D VFX and compositing for pixel art.
         license: Paid
@@ -890,6 +920,7 @@ subsections:
             - compositing
           output:
             - games
+            - motion-graphics
           platform:
             - win
           tech:
@@ -911,10 +942,13 @@ subsections:
           output:
             - film-vfx
             - broadcast
+            - motion-graphics
           platform:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Ghibli Pipeline
           - Traditional 2D
@@ -932,12 +966,15 @@ subsections:
           output:
             - illustration
             - generalist
+            - motion-graphics
           platform:
             - win
             - mac
             - linux
           skill:
             - beginner
+          tech:
+            - opensource-alt
         readme_tags:
           - Lightweight
           - Hand-drawn
@@ -956,10 +993,13 @@ subsections:
           output:
             - generalist
             - broadcast
+            - motion-graphics
           platform:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Vector
           - Cutout
@@ -1050,6 +1090,7 @@ subsections:
             - animation
           output:
             - games
+            - motion-graphics
           platform:
             - win
             - mac
@@ -1065,36 +1106,56 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
       - name: Clip Studio Assets
         url: https://assets.clip-studio.com/en-us/
         description: Brushes, materials, 3D models, auto-actions.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
       - name: Procreate Handbook
         url: https://procreate.com/handbook
         description: Official guide and brush library.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
       - name: Toon Boom Learn
         url: https://www.toonboom.com/community/learn
         description: Official tutorials and documentation.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
       - name: Aseprite Docs
         url: https://www.aseprite.org/docs/
         description: Official documentation and scripting API.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
       - name: OpenToonz GitHub
         url: https://github.com/opentoonz/opentoonz
         description: Source, plugins, and documentation.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          tech:
+            - opensource-alt
       - name: Tahoma2D
         url: https://tahoma2d.org/
         description: 2D and stop-motion animation (OpenToonz fork w/ modernized UI and features).
@@ -1106,6 +1167,7 @@ subsections:
           output:
             - broadcast
             - illustration
+            - motion-graphics
           platform:
             - win
             - mac
@@ -1128,6 +1190,7 @@ subsections:
             - animation
           output:
             - games
+            - motion-graphics
         readme_tags:
           - Open Source
           - 2D Skeletal
@@ -1143,6 +1206,7 @@ subsections:
             - animation
           output:
             - games
+            - motion-graphics
           platform:
             - win
             - mac
@@ -1161,6 +1225,7 @@ subsections:
             - animation
           output:
             - games
+            - motion-graphics
           platform:
             - win
         readme_tags:
@@ -1221,7 +1286,7 @@ subsections:
           - Free with Resolve
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Natron
+      - name: Natron (community fork)
         url: https://natrongithub.github.io/
         description: Free open-source node compositor, Nuke-like.
         license: Open Source
@@ -1255,6 +1320,7 @@ subsections:
           workflow:
             - fx
             - simulation
+            - compositing
           output:
             - games
             - motion-graphics
@@ -1279,6 +1345,7 @@ subsections:
           workflow:
             - fx
             - simulation
+            - compositing
           output:
             - games
             - film-vfx
@@ -1301,6 +1368,7 @@ subsections:
         tags:
           workflow:
             - modeling
+            - compositing
           output:
             - games
             - film-vfx
@@ -1328,6 +1396,7 @@ subsections:
           output:
             - motion-graphics
             - broadcast
+            - film-vfx
           platform:
             - win
             - mac
@@ -1344,18 +1413,33 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - compositing
+          output:
+            - film-vfx
       - name: JangaFX Docs
         url: https://docs.jangafx.com/
         description: Official EmberGen/LiquiGen documentation and how-to guides.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - compositing
+          output:
+            - film-vfx
       - name: ActionVFX
         url: https://www.actionvfx.com/
         description: VFX stock elements (explosions, fire, debris).
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - compositing
+          output:
+            - film-vfx
   - slug: render-engines
     title: Render Engines
     description: Production render engines across CPU, GPU, biased, and unbiased path tracers.
@@ -1722,36 +1806,54 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
       - name: Chaos Cosmos
         url: https://www.chaos.com/cosmos
         description: Free V-Ray/Corona asset library (3D models, materials, HDRIs).
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
       - name: Redshift Community
         url: https://redshift.maxon.net/
         description: Forums, shaders, resources.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
       - name: Arnold Resources
         url: https://www.autodesk.com/products/arnold/resources
         description: Official shaders, docs, tutorials.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
       - name: OTOY Octane Render Cloud
         url: https://render.otoy.com/
         description: Free ORBX assets and cloud rendering.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
       - name: Hexels
         url: https://www.marmoset.co/hexels/
         description: intuitive 2D, grid-based painting tool
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
       - name: MoonRay
         url: https://openmoonray.org/index
         description: DreamWorks' open-source MCRT production renderer used on feature films.
@@ -1776,36 +1878,66 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
+          tech:
+            - opensource-alt
       - name: StratusGFX
         url: https://github.com/KTStephano/StratusGFX
         description: Free and open source Realtime 3D rendering engine.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
+          tech:
+            - opensource-alt
       - name: Aurora
         url: https://github.com/Autodesk/Aurora
         description: A real-time path tracing renderer that enables fast product visualizations.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
+          tech:
+            - opensource-alt
       - name: kajiya
         url: https://github.com/EmbarkStudios/kajiya
         description: Experimental real-time global illumination renderer made with Rust and Vulkan.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
+          tech:
+            - opensource-alt
       - name: Sunflow
         url: https://github.com/fpsunflower/sunflow
         description: Not maintained, Sunflow is an open source rendering system for photo-realistic image synthesis.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
+          tech:
+            - opensource-alt
       - name: Yafaray
         url: https://github.com/YafaRay/libYafaRay
         description: libYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license. Raytracing is a rendering technique for generating realistic images by tracing the path of light t
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - rendering
+          tech:
+            - opensource-alt
   - slug: video-editing-software
     title: Video Editing Software
     description: NLEs and post-production software.
@@ -1893,6 +2025,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Open Source
           - Cross-Platform
@@ -1915,6 +2049,8 @@ subsections:
             - linux
           skill:
             - beginner
+          tech:
+            - opensource-alt
         readme_tags:
           - Lightweight
           - Beginner-Friendly
@@ -1936,6 +2072,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Godot-built
           - Alpha
@@ -1947,18 +2085,29 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - editing
       - name: Premiere Pro Learn
         url: https://helpx.adobe.com/premiere-pro/tutorials.html
         description: Official Adobe tutorials.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - editing
       - name: OpenShot
         url: https://github.com/OpenShot/openshot-qt
         description: Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - editing
+          tech:
+            - opensource-alt
   - slug: audio-software
     title: Audio Software
     description: Audio editing, mixing, sound design, and SFX generation.
@@ -1981,6 +2130,8 @@ subsections:
             - linux
           skill:
             - beginner
+          tech:
+            - opensource-alt
         readme_tags:
           - Open Source
           - Recording
@@ -2096,6 +2247,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Retro/8-bit
           - Generator
@@ -2245,12 +2398,18 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Affinity Help Center
         url: https://www.affinity.studio/help/getting-started/
         description: Official tutorials, guides, getting started.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Pixelmator
         url: http://www.pixelmator.com
         description: Full-featured image editing app for the Mac.
@@ -2329,6 +2488,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Image Sequences
           - Film Pipeline
@@ -2351,6 +2512,7 @@ subsections:
             - linux
           tech:
             - usd
+            - opensource-alt
         readme_tags:
           - 3D Preview
           - USD Support
@@ -2372,6 +2534,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - EXR Viewer
           - VFX Pipeline
@@ -2412,6 +2576,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Official EXR
           - ASWF
@@ -2483,6 +2649,8 @@ subsections:
             - linux
             - ios
             - android
+          tech:
+            - opensource-alt
         readme_tags:
           - 2D Mobile
           - King (Candy Crush)
@@ -2501,6 +2669,7 @@ subsections:
             - win
           tech:
             - real-time
+            - opensource-alt
         readme_tags:
           - C#
           - 3D
@@ -2521,6 +2690,7 @@ subsections:
           tech:
             - real-time
             - gpu
+            - opensource-alt
         readme_tags:
           - High-Fidelity
           - C# + C++
@@ -2541,6 +2711,7 @@ subsections:
           tech:
             - real-time
             - gpu
+            - opensource-alt
         readme_tags:
           - AAA-grade
           - Linux Foundation
@@ -2559,6 +2730,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Rust
           - Scene Editor
@@ -2577,6 +2750,8 @@ subsections:
             - web
             - ios
             - android
+          tech:
+            - opensource-alt
         readme_tags:
           - Mobile/Web
           - TypeScript
@@ -2598,6 +2773,8 @@ subsections:
           skill:
             - beginner
             - intermediate
+          tech:
+            - opensource-alt
         readme_tags:
           - Library (not engine)
           - C
@@ -2616,6 +2793,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - XNA Successor
           - C#
@@ -2634,6 +2813,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - XNA Port
           - Shipping Games
@@ -2652,6 +2833,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Haxe
           - Dead Cells
@@ -2670,6 +2853,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Lua
           - Jam-Friendly
@@ -2689,6 +2874,8 @@ subsections:
             - mac
             - ios
             - android
+          tech:
+            - opensource-alt
         readme_tags:
           - 2D Mobile
           - Lua
@@ -2708,6 +2895,8 @@ subsections:
             - mac
             - linux
             - web
+          tech:
+            - opensource-alt
         readme_tags:
           - Rust
           - WASM
@@ -2726,6 +2915,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Go
           - 2D
@@ -2746,15 +2937,10 @@ subsections:
             - linux
           tech:
             - blender-addon
+            - opensource-alt
         readme_tags:
           - Blender-Integrated
           - Haxe
-        url_last_verified: '2026-04-19'
-        url_status: ok
-      - name: Material Maker
-        url: https://rodzilla.itch.io/material-maker
-        description: A procedural materials authoring tool based on the Godot Engine.
-        entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
       - name: A Frame
@@ -2763,66 +2949,110 @@ subsections:
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: CopperCube
         url: http://www.ambiera.com/coppercube/
         description: CopperCube is an all-in-one 3D game engine.Very easy to use.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Cocos2d X
         url: http://cocos2d-x.org/
         description: a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Cocos Creator
-        url: http://cocos2d-x.org/docs/editors_and_tools/creator/index.html
-        description: Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
-        entry_type: software
-        url_last_verified: '2026-04-19'
-        url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: jMonkeyEngine 3
         url: http://jmonkeyengine.org/
         description: a 3D open-source game engine for adventurous Java developers.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: JPCT
         url: https://www.jpct.net/
         description: jPCT is a 3D engine for desktop Java and Google's Android.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Leadwerks
         url: https://www.leadwerks.com/
         description: Easy-to-learn game engine for 3D and VR.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Magnum
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
+      - name: Magnum (site)
         url: http://magnum.graphics/
         description: a lightweight and modular 2D/3D graphics/game engine written in C++11
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Ogre
         url: https://www.ogre3d.org/
         description: Open source graphical rendering engine.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Urho3D
         url: http://urho3d.github.io/
         description: Cross-platform rendering and game engine.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: ursina
         url: https://www.ursinaengine.org/
         description: A game engine powered by python and panda3d.
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Babylon.js
         url: https://www.babylonjs.com/
         description: JavaScript 3D engine/framework for browser games and apps.
@@ -2836,6 +3066,7 @@ subsections:
             - web
           tech:
             - real-time
+            - opensource-alt
         readme_tags:
           - Browser
           - JavaScript
@@ -2852,6 +3083,8 @@ subsections:
             - xr
           platform:
             - web
+          tech:
+            - opensource-alt
         readme_tags:
           - Browser
           - Blender Integration
@@ -2869,6 +3102,8 @@ subsections:
             - generalist
           platform:
             - web
+          tech:
+            - opensource-alt
         readme_tags:
           - Browser
           - Standard JS 3D
@@ -2889,6 +3124,8 @@ subsections:
             - ios
             - android
             - web
+          tech:
+            - opensource-alt
         readme_tags:
           - Haxe
           - Cross-Platform 2D
@@ -2906,6 +3143,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - C++
           - Classic Engine
@@ -2923,6 +3162,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Python
           - Disney Origin
@@ -2940,6 +3181,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - C++
           - Legacy
@@ -2955,6 +3198,8 @@ subsections:
             - games
           platform:
             - mac
+          tech:
+            - opensource-alt
         readme_tags:
           - Mac-only
           - 2D
@@ -2966,96 +3211,176 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Harfang 3D
         url: https://github.com/harfang3d/harfang3d
         description: C++ 3D visualization library also usable in Python, Lua, and Go (Windows, Linux).
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Neo Axis Engine
         url: https://github.com/NeoAxis/NeoAxisEngine
         description: NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Overload
         url: https://github.com/adriengivry/Overload
         description: 3D Game engine with editor.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: UPBGE
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
+      - name: UPBGE (GitHub)
         url: https://github.com/UPBGE/upbge
         description: Integrated game engine in Blender.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Blitz3D
         url: https://github.com/blitz-research/blitz3d
         description: 3D basic-like programming language for fast 3D desktop games.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Dash
         url: https://github.com/Circular-Studios/Dash
         description: A free and open 3D game engine written in D.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Diligent Engine
         url: https://github.com/DiligentGraphics/DiligentEngine
         description: A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Folded Paper Engine
         url: https://github.com/papercraftgames/folded-paper-engine
         description: '– Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds'
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Juno
         url: https://github.com/rxi/juno
         description: Framework for making 2D games with chunky pixels in Lua
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: LumixEngine
         url: https://github.com/nem0/LumixEngine
         description: 3D Game engine built on C++.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Lums
         url: https://github.com/lums-proj/Lums
         description: A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Pixel Vision 8
         url: https://github.com/PixelVision8/PixelVision8
         description: Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-s
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Screen 13
         url: https://github.com/attackgoat/screen-13
         description: An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: WhiteStorm.js
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
+      - name: Whitestorm.js (GitHub)
         url: https://github.com/WhitestormJS/whitestorm.js
         description: 3d javacript framework for building apps and games
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Superpowers
         url: https://sparklinlabs.itch.io/superpowers
         description: HTML5 Collaborative 2D/3D Game Maker
         entry_type: software
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
   - slug: game-engines-commercial
     title: Game Engines — Commercial Free Tiers
     description: Commercial engines with generous free tiers.
@@ -3164,6 +3489,8 @@ subsections:
             - web
           skill:
             - beginner
+          tech:
+            - opensource-alt
         readme_tags:
           - No-code
           - Open Source
@@ -3199,6 +3526,8 @@ subsections:
             - win
             - mac
             - linux
+          tech:
+            - opensource-alt
         readme_tags:
           - Visual Novels
           - Industry Standard
@@ -3286,3 +3615,6 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games

@@ -15,156 +15,238 @@ subsections:
           - Instagram
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Plasticity
+        tags:
+          workflow:
+            - concept
+      - name: Plasticity (GitHub)
         url: https://github.com/nkallen/plasticity
         description: A 3d modelling software for concept artists.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
+          tech:
+            - opensource-alt
       - name: Absurd Design
         url: https://absurd.design
         description: Surrealist illustrations for your next amazing thing
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Neural Network-Generated Illustrations
         url: https://ai.googleblog.com/2017/05/neural-network-generated-illustrations.html
         description: AI generated illustrations for Allo from Google
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Awesome Illustrations
         url: https://awesome-illustrations.now.sh
         description: Curated awesome-list of illustration resources, tools, and references.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Black Illustrations
         url: https://blackillustrations.com
         description: Beautiful illustrations of black people for your next project
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Blush
         url: https://blush.design
         description: Create, mix, and customize illustrations made by artists around the world.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Characterz
         url: https://characterz.design
         description: 9,000+ customizable diverse 3D character illustrations with Blender source files
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Control Illustrations
         url: https://control.rocks
         description: Combo set of 108 customizable illustrations
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Biodiversity Heritage Library
         url: https://www.flickr.com/photos/biodivlibrary/
         description: 300,000+ Botanical and Animal Illustrations available for free download. (CC0)
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Flowbite Illustrations
         url: https://flowbite.com/illustrations/
         description: Open-source collection of 3D styles SVG illustrations available in dark and light mode
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Get Illustrations Bundle
         url: https://getillustrations.com
         description: A bundle of over 34 vector illustration packs and 2800+ items
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Handz
         url: https://handz.design
         description: Free library of 320+ diverse 3D hand illustrations with Blender source files
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Humaaans
         url: https://www.humaaans.com
         description: Mix-&-match illustrations of people with a design library
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Ouch! Illustrations
         url: https://icons8.com/ouch
         description: Stylish illustrations for better UX
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: illlustrations
         url: https://illlustrations.co
         description: 100 awesome open-source illustrations also including COVID & WFH for your next project
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Illustration Tools
         url: https://illustration.tools
         description: Directory of tools and resources for illustrators, creatives and artists.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Illustrationz
         url: https://illustrationz.design
         description: 100+ 3D character illustration packs with 167M+ combinations
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Malt
         url: https://malt3d.com/
         description: Malt is a non photorealistic rendering (NPR) framework. It offers fully customizable real-time rendering framework for animation and illustration. [![][repo]](https://github.com/bnpr/Malt) ![][mit]
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Illustration Gallery
         url: https://www.manypixels.co/gallery
         description: A huge collection of royalty-free illustrations to power up your projects
         entry_type: inspiration
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Shape.so
         url: https://shape.so
         description: 4300+ icons, illustrations exportable to SVG, React & Lottie
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Storytale
         url: https://storytale.io/
         description: Hundreds of illustrations for web and app projects
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Stubborn Generator
         url: https://stubborn.fun
         description: An awesome character generator for your next illustrations
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: unDraw Illustrations
         url: https://undraw.co/illustrations
         description: MIT licensed constantly updated collection of beautiful svg illustrations
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Smash Illustrations
         url: https://usesmash.com
         description: An list of illustrations over 250+ items
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Awesome Stock Resources
         url: https://github.com/neutraltone/awesome-stock-resources
         description: A collection of links for free stock photography, video and Illustration websites.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
+          tech:
+            - opensource-alt
   - slug: concept-art-courses
     title: Concept Art & Illustration — Courses
     description: Structured concept art and design courses.
@@ -183,6 +265,9 @@ subsections:
           - Timed
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: QuickPoses
         url: https://quickposes.com/en
         description: Timed drawing practice with huge photo library.
@@ -193,6 +278,9 @@ subsections:
           - Photo Library
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: SketchDaily Reference
         url: https://www.sketchdaily.net/
         description: Timed drawing sessions across categories.
@@ -203,6 +291,9 @@ subsections:
           - Reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Posemaniacs
         url: https://www.posemaniacs.com/
         description: Rotatable 3D pose reference with muscle groups.
@@ -212,6 +303,9 @@ subsections:
           - Muscle Ref
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Human Anatomy for Artists
         url: https://human-anatomy-for-artist.com/
         description: Massive free photo reference by body part and angle.
@@ -222,6 +316,9 @@ subsections:
           - Free Photos
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: BodyVisualizer
         url: https://bodyvisualizer.com/
         description: 3D body shape visualizer for proportion reference.
@@ -231,6 +328,9 @@ subsections:
           - Interactive
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Ctrl+Paint
         url: https://www.ctrlpaint.com/library
         description: Structured free video library — digital painting fundamentals, value studies, color.
@@ -241,6 +341,9 @@ subsections:
           - Structured
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Proko Free Library
         url: https://www.proko.com/library/
         description: Anatomy, figure drawing, portrait (substantial free tier).
@@ -251,6 +354,9 @@ subsections:
           - Free Tier
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: ArtStation Learning
         url: https://www.artstation.com/learning
         description: Free courses from Blizzard, Riot, Pixar pros.
@@ -261,54 +367,85 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Genetic Drawing
         url: https://github.com/anopara/genetic-drawing
         description: Python library to generate a stylized rendering from an image.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
+          tech:
+            - opensource-alt
       - name: Graphite 3D
         url: https://apps.apple.com/us/app/graphite-3d/id1523391511
         description: A collaborative drawing tool for modeling precise shapes in real spaces.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Gizmos
         url: https://github.com/popcron/gizmos
         description: Used for drawing runtime gizmos in builds and editor (Unity3D).
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Pixen
+        tags:
+          workflow:
+            - concept
+          tech:
+            - opensource-alt
+      - name: Pixen (site)
         url: https://pixenapp.com/
         description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Learn HTML5 Graphics and Animation
         url: https://egghead.io/courses/learn-html5-graphics-and-animation
         description: Introduction to the canvas 2D drawing API.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: 'Intro to JS: Drawing & Animation'
         url: https://www.khanacademy.org/computing/computer-programming/programming
         description: Use JavaScript and the ProcessingJS library to create drawings and animations.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Animation with Dall-e + AE | Reddit
         url: https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/
         description: Patent drawing of an electronic device that ...
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
       - name: Instanced Line Rendering Part I
         url: https://wwwtyro.net/2019/11/18/instanced-lines.html
         description: Builds on the foundation from "Drawing Lines is Hard" and uses instance rendering to draw lines.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
   - slug: photography
     title: Photography — Reference & Fundamentals
     description: Photography knowledge directly applicable to 3D lighting and composition.
@@ -322,6 +459,9 @@ subsections:
           - Deep Dives
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Strobist Lighting 101
         url: https://strobist.blogspot.com/2006/03/lighting-101.html
         description: Definitive free course on shaping light (directly applicable to 3D lighting).
@@ -332,6 +472,9 @@ subsections:
           - Classic
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Workphlo
         url: https://www.youtube.com/@workphlo
         description: Studio product photography lighting breakdowns with placement diagrams.
@@ -339,6 +482,10 @@ subsections:
         tags:
           output:
             - product-viz
+          workflow:
+            - reference
+          platform:
+            - web
         readme_tags:
           - Studio
           - Placement Diagrams
@@ -353,6 +500,9 @@ subsections:
           - Ratios
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: B&H Explora Photography
         url: https://www.bhphotovideo.com/explora/photography
         description: Deep technical articles on lighting modifiers and color temperature.
@@ -362,6 +512,9 @@ subsections:
           - Modifiers
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Gavin Hoey (Adorama)
         url: https://www.youtube.com/@GavinHoey
         description: Studio lighting tutorials with setup diagrams.
@@ -371,38 +524,60 @@ subsections:
           - Adorama
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          platform:
+            - web
       - name: PIXLS.US
         url: https://pixls.us
         description: Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Open Source Photography Community on Google+
         url: https://plus.google.com/u/0/communities/110647644928874455108
         description: Open Source Photography Community on Google+.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: /r/FOSSPhotography
         url: http://reddit.com/r/fossphotography
         description: Community about Free open source software for Photography on reddit.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: ButtleOFX
         url: https://github.com/buttleofx/ButtleOFX
         description: A simple, user-friendly and open source compositing software.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          tech:
+            - opensource-alt
       - name: |-
           Femto-Photography: Visualizing Photons in Motion at a
           Trillion Frames Per Second
         url: http://web.media.mit.edu/~raskar//trillionfps/
-        description: . Raskar et al.
+        description: Raskar et al
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
   - slug: cinematography-camera
     title: Cinematography & Camera Work
     description: Shot composition, camera techniques, lighting for film/CG.
@@ -416,6 +591,9 @@ subsections:
           - Encyclopedia
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: CinematographyDB
         url: https://cinematographydb.com/
         description: Database of DP filmographies — study any cinematographer's visual language.
@@ -426,6 +604,9 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: broken
         deprecated: true
+        tags:
+          workflow:
+            - reference
       - name: No Film School — Cinematography
         url: https://nofilmschool.com/topics/cinematography-cameras
         description: Constant stream of technique articles.
@@ -435,6 +616,9 @@ subsections:
           - Ongoing
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Every Frame a Painting
         url: https://www.youtube.com/@everyframeapainting
         description: Gold-standard video essays on composition, camera, editing rhythm.
@@ -444,6 +628,11 @@ subsections:
           - Video Essays
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          platform:
+            - web
       - name: CinemaTyler
         url: https://www.youtube.com/@CinemaTyler
         description: Deep analysis of lens choice, color, blocking, lighting in film.
@@ -453,6 +642,11 @@ subsections:
           - Film
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          platform:
+            - web
       - name: Wolfcrow
         url: https://www.youtube.com/@wolfcrow
         description: Cinematography fundamentals, color science, exposure theory.
@@ -462,6 +656,11 @@ subsections:
           - Color Science
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          platform:
+            - web
       - name: In Depth Cine
         url: https://www.youtube.com/@InDepthCine
         description: Practical lighting setups and narrative technique.
@@ -471,6 +670,11 @@ subsections:
           - Narrative
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          platform:
+            - web
       - name: Shane Hurlbut ASC Blog
         url: https://www.hurlbutvisuals.com/blog
         description: Real DP knowledge on cinematography, lens choice, lighting setups.
@@ -480,6 +684,9 @@ subsections:
           - ASC
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Roger Deakins on Learning to Light
         url: https://www.youtube.com/@StudioBinder
         description: Cinematography Techniques Ep. 1.
@@ -489,6 +696,11 @@ subsections:
           - Lighting
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          platform:
+            - web
       - name: How to Create Stunning Cinematic Lighting
         url: https://www.youtube.com/@fulltimefilmmaker
         description: Cinematic lighting tutorial.
@@ -498,18 +710,29 @@ subsections:
           - Technique
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          platform:
+            - web
       - name: Nuke
         url: https://www.foundry.com/products/nuke
         description: Industry standard node-based compositing software by The Foundry, has a free version for non-commercial use.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Fusion
         url: https://www.blackmagicdesign.com/de/products/fusion
         description: Free node-based compositing software from Blackmagic Design.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
   - slug: composition-visual-storytelling
     title: Composition & Visual Storytelling
     description: Composition theory, color theory, visual hierarchy.
@@ -524,6 +747,10 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: broken
         deprecated: true
+        tags:
+          workflow:
+            - concept
+            - reference
       - name: Can't Unsee
         url: https://cantunsee.space/
         description: Interactive game training visual alignment and spacing precision.
@@ -533,6 +760,10 @@ subsections:
           - Visual Training
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
+            - reference
       - name: Laws of UX
         url: https://lawsofux.com/
         description: Gestalt principles, visual perception laws (directly applicable to 3D composition).
@@ -542,6 +773,10 @@ subsections:
           - Perception
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
+            - reference
       - name: Handprint Color & Composition
         url: https://www.handprint.com/HP/WCL/color18a.html
         description: Deepest free color theory resource online — covers perception and harmony.
@@ -552,6 +787,10 @@ subsections:
           - Perception
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
+            - reference
       - name: PhotoPills Golden Ratio Guide
         url: https://www.photopills.com/articles/golden-ratio-photography-composition-guide
         description: Golden ratio, spirals, triangles with overlay diagrams.
@@ -561,12 +800,20 @@ subsections:
           - Overlays
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
+            - reference
       - name: RenderNet
         url: https://rendernet.ai/
         description: RenderNet AI is a tool for generating images and videos, providing control over character design, composition, and style.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - concept
+            - reference
   - slug: animation-principles
     title: Animation Principles
     description: The 12 principles of animation and related fundamentals.
@@ -580,6 +827,9 @@ subsections:
           - GIF Breakdown
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - animation
       - name: Animator Island — 51 Exercises
         url: https://www.animatorisland.com/51-great-animation-exercises-to-master/
         description: Structured practice curriculum by difficulty.
@@ -589,6 +839,9 @@ subsections:
           - 51 Exercises
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - animation
       - name: Endless Reference
         url: https://www.endlessreference.com/
         description: Video clips browsable by action type (walk, run, fight, etc.).
@@ -598,6 +851,9 @@ subsections:
           - Browsable
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - animation
       - name: Animation Resources
         url: https://animationresources.org/
         description: Archives of classic animation, frame-by-frame studies.
@@ -607,6 +863,9 @@ subsections:
           - Frame Studies
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - animation
       - name: New Frame Plus
         url: https://www.youtube.com/@NewFramePlus
         description: Animation analysis in games (walk cycles, weight, timing).
@@ -614,6 +873,10 @@ subsections:
         tags:
           output:
             - games
+          workflow:
+            - animation
+          platform:
+            - web
         readme_tags:
           - Game Animation
           - Analysis
@@ -629,6 +892,9 @@ subsections:
           - Webinars
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - animation
       - name: Hippydrome
         url: https://www.hippydrome.com/
         description: Richard Williams walk cycle and timing chart reference.
@@ -638,6 +904,9 @@ subsections:
           - Timing Charts
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - animation
   - slug: design-principles-typography
     title: Design Principles & Typography
     description: Typography, visual hierarchy, design fundamentals.
@@ -652,6 +921,9 @@ subsections:
           - Typography
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Typewolf
         url: https://typewolf.com/
         description: Curated typography inspiration — fonts in real-world use.
@@ -661,6 +933,9 @@ subsections:
           - Real-world
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: The Futur
         url: https://www.youtube.com/@TheFutur
         description: Graphic design fundamentals, typography, grid systems.
@@ -670,6 +945,11 @@ subsections:
           - Grids
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          platform:
+            - web
       - name: Better Web Type
         url: https://betterwebtype.com/web-typography-resources/
         description: Free typography course on rhythm and hierarchy.
@@ -680,6 +960,9 @@ subsections:
           - Rhythm
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: NNGroup Visual Design
         url: https://www.nngroup.com/topic/visual-design/
         description: Research-backed principles on hierarchy, contrast, whitespace.
@@ -689,12 +972,18 @@ subsections:
           - Hierarchy
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Kerning Tool
         url: https://forums.odforce.net/topic/42827-kerning-tool/
         description: Kerning typography in Houdini.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
   - slug: color-theory-tools
     title: Color Theory & Tools
     description: Color palettes, generators, matching, and theory tools.
@@ -709,6 +998,9 @@ subsections:
           - Curated
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Coolors
         url: https://coolors.co/
         description: Fast palette generator.
@@ -719,6 +1011,9 @@ subsections:
           - Fast
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Lospec Palette List
         url: https://lospec.com/palette-list
         description: Pixel art palette repository.
@@ -727,6 +1022,8 @@ subsections:
         tags:
           output:
             - games
+          workflow:
+            - reference
         readme_tags:
           - Pixel Art
           - Curated
@@ -742,6 +1039,9 @@ subsections:
           - Web
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Gradient Horse
         url: https://gradient.horse/
         description: Experimental gradient generator.
@@ -751,6 +1051,9 @@ subsections:
           - Gradients
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Huemint
         url: https://huemint.com/brand-intersection/
         description: AI-assisted brand color generation.
@@ -758,6 +1061,8 @@ subsections:
         tags:
           tech:
             - ai-generative
+          workflow:
+            - reference
         readme_tags:
           - AI Palettes
           - Brand
@@ -773,6 +1078,9 @@ subsections:
           - Harmonies
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Canva Color Palettes
         url: https://www.canva.com/colors/color-palettes/
         description: Pre-made palettes.
@@ -783,6 +1091,9 @@ subsections:
           - Canva
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Paletton
         url: https://paletton.com/
         description: Classic color scheme designer.
@@ -793,6 +1104,9 @@ subsections:
           - Schemes
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: ColorBox
         url: https://colorbox.io/
         description: Systematic color scale generator.
@@ -802,6 +1116,9 @@ subsections:
           - Systematic
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Color Method
         url: https://color.method.ac/
         description: Interactive color matching game.
@@ -811,6 +1128,9 @@ subsections:
           - Training
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: HueData
         url: https://huedata.org/
         description: Palettes extracted from famous paintings.
@@ -821,6 +1141,9 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: broken
         deprecated: true
+        tags:
+          workflow:
+            - reference
       - name: poline
         url: https://meodai.github.io/poline/
         description: Esoteric palette generation via polar color interpolation.
@@ -831,6 +1154,11 @@ subsections:
           - Esoteric
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          tech:
+            - opensource-alt
       - name: Fast Palette Studio
         url: https://fastpalette.studio/
         description: Rapid palette creation for pixel art and game dev.
@@ -838,6 +1166,8 @@ subsections:
         tags:
           output:
             - games
+          workflow:
+            - reference
         readme_tags:
           - Pixel Art
           - Fast
@@ -849,6 +1179,11 @@ subsections:
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
+          tech:
+            - opensource-alt
   - slug: design-tools
     title: Design Tools
     description: Vector editors, creative effect tools, and design utilities.
@@ -863,6 +1198,7 @@ subsections:
           tech:
             - procedural
             - node-based
+            - opensource-alt
         readme_tags:
           - Procedural
           - Open Source
@@ -891,6 +1227,9 @@ subsections:
           - Web
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Modyfi
         url: https://www.modyfi.com/
         description: Browser-based creative suite.
@@ -930,6 +1269,9 @@ subsections:
           - Images
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Efecto
         url: https://efecto.app/
         description: ASCII and dithering effects.
@@ -939,6 +1281,9 @@ subsections:
           - Dithering
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: BabyTrack
         url: https://freedesigntool.online/baby-track
         description: Blob tracking effect.
@@ -948,6 +1293,9 @@ subsections:
           - Effect
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Halftone Maker
         url: https://halftonemaker.com/
         description: Halftone generator.
@@ -957,6 +1305,9 @@ subsections:
           - Print Effect
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Space Type Generator
         url: https://spacetypegenerator.com/
         description: Experimental type generator.
@@ -966,6 +1317,9 @@ subsections:
           - Type
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Tiled Art
         url: https://tiled.art/en/home/
         description: Tessellation creator.
@@ -975,6 +1329,9 @@ subsections:
           - Patterns
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: The Toolbox
         url: https://thetoolbox.art/
         description: Curated creative tools directory.
@@ -984,6 +1341,9 @@ subsections:
           - Curated
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Undesign
         url: https://undesign.learn.uno/
         description: Design learning resources.
@@ -993,6 +1353,9 @@ subsections:
           - Resources
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: ContentCore
         url: https://contentcore.xyz/
         description: Curated creative content.
@@ -1002,6 +1365,9 @@ subsections:
           - Content
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: OS Design Directory
         url: https://github.com/opensesh/OS_design-directory
         description: Open-source design resources directory.
@@ -1012,6 +1378,9 @@ subsections:
           - Directory
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Muzli
         url: https://chromewebstore.google.com/detail/muzli-design-inspiration/glcipcfhmopcgidicgdociohdoicpdfc
         description: Design inspiration Chrome extension.
@@ -1021,6 +1390,9 @@ subsections:
           - Browser Ext
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Cosmos
         url: https://www.cosmos.so/home
         description: Visual content curation platform.
@@ -1030,6 +1402,9 @@ subsections:
           - Visual
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Are.na
         url: https://www.are.na/
         description: Mood board and research tool for creatives.
@@ -1039,6 +1414,9 @@ subsections:
           - Research
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Mockup Photos
         url: https://mockup.photos/
         description: Device and print mockup library.
@@ -1048,6 +1426,9 @@ subsections:
           - Devices
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: general-inspiration
     title: General Inspiration
     description: Blogs, feeds, and curated inspiration sources.
@@ -1061,6 +1442,9 @@ subsections:
           - Dark Sci-Fi
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Janelle Loi Resources
         url: https://janelloi.com/resources/
         description: Curated creative resources.
@@ -1070,6 +1454,9 @@ subsections:
           - Creative
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Geometric Design (Canva)
         url: https://designschool.canva.com/blog/geometric-design/
         description: Geometric design article.
@@ -1079,6 +1466,9 @@ subsections:
           - Design Article
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Movie Scenes Inspired by Art
         url: https://x.com/JamesLucasIT/status/1795507471693320546
         description: Thread on movie scenes mirroring paintings.
@@ -1088,6 +1478,9 @@ subsections:
           - Thread
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Mech Blog
         url: http://mechblog.tumblr.com/
         description: Mecha design inspiration.
@@ -1097,6 +1490,9 @@ subsections:
           - Tumblr
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: The Black Workshop
         url: http://theblackworkshop.tumblr.com/
         description: Design inspiration blog.
@@ -1106,6 +1502,9 @@ subsections:
           - Tumblr
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Activation Ideas
         url: https://activationideas.com/
         description: Brand activation inspiration.
@@ -1115,6 +1514,9 @@ subsections:
           - Ideas
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: OTAKU GANGSTA
         url: http://otakugangsta.com/
         description: Anime/otaku visual blog.
@@ -1124,6 +1526,9 @@ subsections:
           - Visual
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Mr Cup
         url: http://www.mr-cup.com/blog.html
         description: Graphic design blog.
@@ -1133,6 +1538,9 @@ subsections:
           - Blog
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: DETHJUNKIE
         url: http://www.dethjunkie.com/
         description: Dark creative blog.
@@ -1142,6 +1550,9 @@ subsections:
           - Creative
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Truchet's Tiles
         url: https://arearugscarpet.blogspot.com/2014/04/the-curse-of-truchets-tiles.html
         description: On Truchet tiles and patterns.
@@ -1151,6 +1562,9 @@ subsections:
           - Patterns
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: But Does It Float
         url: https://butdoesitfloat.com/
         description: Contemporary design and art feed.
@@ -1160,6 +1574,9 @@ subsections:
           - Design
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Savee
         url: https://savee.it/
         description: Visual bookmarking tool.
@@ -1169,6 +1586,9 @@ subsections:
           - Curation
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Designspiration
         url: https://designspiration.com/
         description: Design inspiration feed.
@@ -1178,6 +1598,9 @@ subsections:
           - Curated
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Muddycolors
         url: https://www.muddycolors.com/
         description: Pro illustrator blog.
@@ -1187,6 +1610,9 @@ subsections:
           - Pro Blog
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Sakuga Booru
         url: https://sakugabooru.com/
         description: Animation clip archive (non-www mirror).
@@ -1196,24 +1622,36 @@ subsections:
           - Mirror
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Iconz
         url: https://iconz.design
         description: 460+ 3D icons in multiple angles and materials
         entry_type: inspiration
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Mockupz
         url: https://mockupz.design
         description: Free 3D mockup scenes for showcasing your design work
         entry_type: inspiration
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Robotz
         url: https://threedee.design/cartoon-robot
         description: Free modular 3D cartoon robot with customizable heads, bodies and hands
         entry_type: inspiration
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: 2d-art-references
     title: 2D Art References & Inspiration
     description: 2D animation sheets, cloth, anime model sheets.
@@ -1227,6 +1665,8 @@ subsections:
           skill:
             - beginner
             - intermediate
+          workflow:
+            - reference
         readme_tags:
           - Fundamentals
           - Free
@@ -1239,6 +1679,8 @@ subsections:
         tags:
           output:
             - games
+          workflow:
+            - reference
         readme_tags:
           - Pixel Art
           - Tutorials

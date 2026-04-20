@@ -15,7 +15,12 @@ subsections:
           - Mograph
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Greyscalegorilla
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
+      - name: Greyscalegorilla (YouTube)
         url: https://www.youtube.com/channel/UC64Z_7asrekIkc5h2v5tnHw
         description: C4D, Redshift, materials.
         entry_type: channel
@@ -24,6 +29,11 @@ subsections:
           - Redshift
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Polygon Runway
         url: https://www.youtube.com/channel/UCGSJevmBuDyxjLLOBNaYMGA
         description: Stylized C4D illustration.
@@ -33,6 +43,11 @@ subsections:
           - Illustration
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Vincent Schwenk
         url: https://www.youtube.com/channel/UCyvvQJrfsoXdgasGuuXnYIg
         description: Motion design.
@@ -42,6 +57,11 @@ subsections:
           - Designer
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Pwnisher
         url: https://www.youtube.com/channel/UCWIfzAYHyNSyHmT2AO-54yg
         description: UE5 + creative challenges.
@@ -51,6 +71,11 @@ subsections:
           - Challenges
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Perry Cooper 3D
         url: https://www.youtube.com/channel/UCY6Kqpw3gSc2DHtfsSGeYdQ
         description: 3D motion design.
@@ -60,6 +85,11 @@ subsections:
           - Mograph
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Roger Kilimanjaro
         url: https://www.youtube.com/channel/UCDbxvz-8MrderjIOyQi14Uw
         description: Motion design.
@@ -69,6 +99,11 @@ subsections:
           - YouTube
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Ross Mason
         url: https://www.youtube.com/channel/UCbxureadvFJVQJiqLDDFj_g
         description: Motion design.
@@ -78,6 +113,11 @@ subsections:
           - Designer
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Minh Pham
         url: https://www.youtube.com/channel/UCH3pHnzD1AiSbazIw1maVFg
         description: Motion design tutorials.
@@ -87,6 +127,11 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Nidia Dias
         url: https://www.youtube.com/channel/UCP6-jDB6Nb96eQbR5h24A9Q
         description: Stylized illustration motion.
@@ -96,6 +141,11 @@ subsections:
           - Motion
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Sketchy Visuals
         url: https://www.youtube.com/channel/UCawhE5howK2EvvoE2KdqcJg
         description: Visual design tutorials.
@@ -105,6 +155,11 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Stephy Fung
         url: https://www.youtube.com/channel/UC_f2mc1UX2-rDoZ7JjNLgTw
         description: Stylized 3D motion.
@@ -114,6 +169,11 @@ subsections:
           - 3D Motion
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Theo Kerr
         url: https://www.youtube.com/channel/UCB4_J4bn8IZUFieormorBmg
         description: Motion design.
@@ -123,6 +183,11 @@ subsections:
           - Designer
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Josh Pierce
         url: https://www.youtube.com/channel/UC6_x3t9xt8w_BRssDV4pi6A
         description: Motion design.
@@ -132,6 +197,11 @@ subsections:
           - YouTube
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Nick Medukha
         url: https://www.youtube.com/channel/UCnn58iVRyGLSQriCm0QOmaw
         description: Motion design tutorials.
@@ -141,6 +211,11 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Polygonpen
         url: https://www.youtube.com/@polygonpen
         description: 3D motion.
@@ -150,6 +225,11 @@ subsections:
           - Motion
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Derek Elliott
         url: https://www.youtube.com/channel/UCk7IufzS4r8v76NeWR6A3dg
         description: C4D motion design.
@@ -159,6 +239,11 @@ subsections:
           - Design
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: John Dickinson (Motionworks)
         url: https://www.youtube.com/channel/UCHN22D0BxseUPc5yklSDeGw
         description: Motion design resources.
@@ -168,6 +253,11 @@ subsections:
           - Resources
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: The Rusted Pixel
         url: https://www.youtube.com/channel/UCZDR4vfP841oQ7QLO_7pK0w
         description: Motion design tutorials.
@@ -177,7 +267,12 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: CG Shortcuts
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
+      - name: CG Shortcuts (YouTube)
         url: https://www.youtube.com/channel/UCjsFn111Z8R4eKuRpPz4ZuA
         description: C4D workflow shortcuts.
         entry_type: channel
@@ -186,7 +281,12 @@ subsections:
           - Shortcuts
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MoGraph Mentor
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
+      - name: MoGraph Mentor (YouTube)
         url: https://www.youtube.com/channel/UC-rH7k9KoAMSHabvWnvxCXg
         description: Motion design mentorship.
         entry_type: channel
@@ -195,7 +295,12 @@ subsections:
           - Mograph
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Motion Design School
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
+      - name: Motion Design School (YouTube)
         url: https://www.youtube.com/channel/UC-L0yvYPpGQZD3PHDLKiUpg
         description: Motion graphics courses.
         entry_type: channel
@@ -204,6 +309,11 @@ subsections:
           - Mograph
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Paul-Guilhem Repaux
         url: https://www.youtube.com/channel/UCaRh6roTnE-ZU6CbIn253xg
         description: Motion design tutorials.
@@ -213,6 +323,11 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Alexis Vilaca
         url: https://www.youtube.com/channel/UCYtaJtRbQtpd1KEP_q0Pq9w
         description: Motion design.
@@ -222,6 +337,11 @@ subsections:
           - Designer
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Andrey Lebrov
         url: https://www.youtube.com/channel/UCZsHHoDLK0s6r44ifx0DnXQ
         description: Sci-fi motion design.
@@ -231,6 +351,11 @@ subsections:
           - Motion
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Arthur Whitehead
         url: https://www.youtube.com/channel/UC57vAHlfNkcz8aIhRdZrVNQ
         description: Motion design.
@@ -240,6 +365,11 @@ subsections:
           - Designer
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
       - name: Derek Kirk (Effectatron)
         url: https://derekkirk.net/
         description: Cinema 4D and Redshift tutorials, 200+ free YouTube videos, Gumroad assets, Discord.
@@ -261,6 +391,11 @@ subsections:
           - Lighting Series
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+          platform:
+            - web
   - slug: youtube-blender
     title: YouTube Channels — Blender
     description: Blender-focused creators.
@@ -274,6 +409,11 @@ subsections:
           - Donut Man
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Grant Abbitt
         url: https://www.youtube.com/@grabbitt
         description: Beginner-friendly Blender tutorials.
@@ -281,6 +421,10 @@ subsections:
         tags:
           skill:
             - beginner
+          tech:
+            - blender
+          platform:
+            - web
         readme_tags:
           - Beginner
           - Approachable
@@ -295,6 +439,11 @@ subsections:
           - Lazy Tuts
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Ducky 3D
         url: https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ
         description: Stylized Blender tutorials.
@@ -304,6 +453,11 @@ subsections:
           - Shaders
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: CG Geek
         url: https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ
         description: Blender tutorials.
@@ -313,6 +467,11 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Jayanam
         url: https://www.youtube.com/channel/UCs5J4GVRB8s2P4hE-O0izrg
         description: Blender game art.
@@ -320,6 +479,10 @@ subsections:
         tags:
           output:
             - games
+          tech:
+            - blender
+          platform:
+            - web
         readme_tags:
           - Game Art
           - Blender
@@ -334,6 +497,11 @@ subsections:
           - Foundation
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: CGMatter
         url: https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg
         description: Technical Blender tips.
@@ -343,6 +511,11 @@ subsections:
           - Tips
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Arrimus 3D
         url: https://www.youtube.com/@Arrimus3D
         description: Hard-surface modeling tutorials.
@@ -350,6 +523,10 @@ subsections:
         tags:
           workflow:
             - modeling
+          tech:
+            - blender
+          platform:
+            - web
         readme_tags:
           - Hard Surface
           - Modeling
@@ -361,71 +538,126 @@ subsections:
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: 📺 Cartoon Cel Shader 2.0 ~ Sandvector Studios
         url: https://www.youtube.com/@sandvectorstudios
         description: '[material] ([Face Shadow Texture Generator file](https://www.artstation.com/marketplace/p/Vmvmm/face-shadow-texture-generator)).'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Royal Skies
         url: https://www.youtube.com/@TheRoyalSkies
         description: 3D technical artist — Blender, Unreal, games. Speed tutorials across rigging, shaders, animation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: 🍦Blender Complete Beginner Tutorial Course by CG Geek.
         url: https://www.youtube.com/@CGGeek
         description: 🍦Blender Complete Beginner Tutorial Course by CG Geek..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: 🍏Blender Beginner Tutorial Series by CG Boost.
         url: https://www.youtube.com/@cgboost
         description: 🍏Blender Beginner Tutorial Series by CG Boost..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Blender Programming Tutorials by Olav3D.
         url: https://www.youtube.com/@Olav3D
         description: Blender Programming Tutorials by Olav3D..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Blender Fundamentals by Blender.
         url: https://www.youtube.com/@BlenderOfficial
         description: Blender Fundamentals by Blender..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Geometry Nodes Basics for Beginners by Bradley Animation
         url: https://www.youtube.com/@bradleyanimation120
         description: Geometry Nodes Basics for Beginners by Bradley Animation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Blender Procedural Nodes Playlist by Default Cube.
         url: https://www.youtube.com/@DefaultCube
         description: Blender Procedural Nodes Playlist by Default Cube..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
       - name: Blender Motion Tracking Series by CGmatter.
         url: https://www.youtube.com/@CGMatter
         description: Blender Motion Tracking Series by CGmatter..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Darkfall
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
+      - name: Darkfall (YouTube)
         url: https://www.youtube.com/@DarkfallBlender
         description: Blender Scripting by Darkfall.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - blender
+          platform:
+            - web
   - slug: youtube-houdini
     title: YouTube Channels — Houdini
     description: Houdini-focused channels.
     entries:
-      - name: Entagma
+      - name: Entagma (YouTube)
         url: https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ
         description: Advanced design and mograph.
         entry_type: channel
@@ -434,7 +666,10 @@ subsections:
           - Mograph
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: John Kunz
+        tags:
+          platform:
+            - web
+      - name: John Kunz (YouTube)
         url: https://www.youtube.com/@JohnKunz
         description: FX, coding, Redshift.
         entry_type: channel
@@ -443,6 +678,9 @@ subsections:
           - Weekly Streams
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: NineBetween
         url: https://www.youtube.com/@NineBetween
         description: Houdini beginner series (Houdini Isn't Scary).
@@ -450,6 +688,8 @@ subsections:
         tags:
           skill:
             - beginner
+          platform:
+            - web
         readme_tags:
           - Beginner
           - Approachable
@@ -464,6 +704,9 @@ subsections:
           - Procedural
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Junichiro Horikawa
         url: https://www.youtube.com/@JunichiroHorikawa
         description: Procedural and generative Houdini.
@@ -471,6 +714,8 @@ subsections:
         tags:
           tech:
             - procedural
+          platform:
+            - web
         readme_tags:
           - Generative
           - Procedural
@@ -485,6 +730,9 @@ subsections:
           - SideFX
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Christopher Rutledge
         url: https://www.youtube.com/@chr1st0pher
         description: Houdini Nerd community creator.
@@ -494,6 +742,9 @@ subsections:
           - FX
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Mark Fancher
         url: https://www.youtube.com/@MarkFancherFX
         description: FX breakdowns.
@@ -503,6 +754,9 @@ subsections:
           - Breakdowns
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Simon Fiedler
         url: https://vimeo.com/simonfiedler
         description: Mograph and Houdini on Vimeo.
@@ -512,6 +766,9 @@ subsections:
           - Vimeo
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Asis FX
         url: https://www.youtube.com/@AxisDesignerGFX
         description: FX tutorials.
@@ -521,270 +778,405 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 3DCoat Training Channel
         url: https://www.youtube.com/@3DCoatTrainingChannel
         description: 3DCoat now has native support of Blender via built-in AppLink.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: YanSculpts' Channel
         url: https://www.youtube.com/channel/UCfjswDVU0XHyBN7UFG0Mi5Q/videos
         description: YanSculpts' Channel.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Modeling a character BaseMesh in Blender.
         url: https://www.youtube.com/@sociamix
         description: Modeling a character BaseMesh in Blender..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: How to composite renders in Blender.
         url: https://www.youtube.com/@BlenderBrit
         description: How to composite renders in Blender..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Blender Render Passes and Very Basic Compositing.
         url: https://www.youtube.com/@KevBinge
         description: Blender Render Passes and Very Basic Compositing..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Render Passes in Blender - What are they and why even use them?
         url: https://www.youtube.com/@DylanNeill3D
         description: Render Passes in Blender - What are they and why even use them?.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: How to use blender's compositor to improve a rendered frame sequence.
         url: https://www.youtube.com/@garagefarmacademy
         description: How to use blender's compositor to improve a rendered frame sequence..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Blender Compositor for Post Processing.
         url: https://www.youtube.com/@RenderRides
         description: Blender Compositor for Post Processing..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: SouthernShotty
         url: https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg/videos
         description: stylized modeling, character creation, sculpting.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Gleb Alexandrov
         url: https://www.youtube.com/@GlebAlexandrov
         description: one of the best-known blender channel on youtube.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Chris Prenninger
         url: https://www.youtube.com/@chrisprenn
         description: animation nodes, particle systems, shading.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: CG Boost
         url: https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA/videos
         description: modeling, sculpting.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: FlippedNormals
+        tags:
+          platform:
+            - web
+      - name: FlippedNormals (YouTube)
         url: https://www.youtube.com/@FlippedNormals
         description: sculpting, modeling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Blender NPR
         url: https://www.youtube.com/@super-bnpr
         description: non-Photorealistic and expressive rendering.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Daniel Krafft - DSO
         url: https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw/videos
         description: blender tips, add-ons.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Imphenzia
         url: https://www.youtube.com/@Imphenzia
         description: low poly modeling, rigging.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: CBaileyFilm
         url: https://www.youtube.com/channel/UCXguhzOm29mBTYDuxKjxn5A/videos
         description: blender animation projects.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: CG Masters
         url: https://www.youtube.com/@blengine
         description: modeling, texturing, shading.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Peter France
         url: https://www.youtube.com/@PeterFrance
         description: modeling, texturing, shading, vfx.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Iridesium
         url: https://www.youtube.com/@Iridesium
         description: simulation, vfx.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Giulia Marchetti
         url: https://www.youtube.com/@giulia.delasestrellas
         description: sculpting, character modeling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: CG Fast Track
         url: https://www.youtube.com/@CGFastTrack
         description: modeling, animation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 3DGreenhorn
         url: https://www.youtube.com/@3dgreenhorn
         description: isometric modeling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Bad Normals
         url: https://www.youtube.com/@BadNormals
         description: modeling, animation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Samuel Sullins
         url: https://www.youtube.com/@samuelsullins
         description: Geometry Nodes, vfx, lowpoly, general.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: CG Python
         url: https://www.youtube.com/@CGPython
         description: blender Python scripting tips and tricks.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: The Cherno Project
         url: https://www.youtube.com/@TheCherno
         description: While not specific to Unreal Engine, Cherno has tons of great C++ and general game engine content.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unreal Engine
         url: https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ
         description: The official Unreal Engine YouTube channel with weekly live streams.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: I3D Past Projects
         url: https://www.youtube.com/@i3dpastprojects778
         description: virtual 3D teleportation in real-time by Microsoft Research
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Super Mario Bros AR Game
         url: https://www.youtube.com/@shekitup
         description: AR game built with Microsoft HoloLens and Unity3D
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Parker Coleman
         url: https://www.youtube.com/@parkercoleman8078
         description: Houdini tutorial channel — procedural workflows, sim setups, tools.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: AJ Picard
         url: https://www.youtube.com/@ajpicard.design
         description: Complex background animations using SwiftUI & Rive.App
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Pointer Tracking Animation Implemented in Webflow
         url: https://www.youtube.com/@jeffamcavoy
         description: How to set up a Rive file with pointer tracking for Webflow implementation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unreal Engine Official YouTube
         url: https://www.youtube.com/@UnrealEngine
         description: Unreal Engine Official YouTube.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Introduction into the new Godot OpenVR Asset
         url: https://www.youtube.com/@BastiaanOlij
         description: Introduction into the new Godot OpenVR Asset.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !
         url: https://www.youtube.com/@cooleobrad
         description: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Leading Ones (LeadingOnesVR)
         url: https://www.youtube.com/@LeadingOnesVR
         description: 'Unity VR: EditorVR Quick Look.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unity Mecanim VR IK vs Final IK
         url: https://www.youtube.com/@createthisdotcom
         description: '[VR IK using native Unity Mecanim IK](https://github.com/createthis/unity_vr_ik_mecanim)'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Auto Cache Out Tool
         url: https://www.youtube.com/@ron4431
         description: Auto Cache Out tool is for managing caches and .hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically ve
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: The Gaming Library
         url: https://www.youtube.com/@TheGamingLibraryYT
         description: and admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of CG today.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Rendering Engine Architecture Conference
         url: https://www.youtube.com/@renderingenginearchitectur3543
         description: 'SIGGRAPH 2021 REAC: Unity Rendering Architecture.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Next-Generation 3D Graphics on the Web
         url: https://www.youtube.com/@ChromeDevs
         description: Talk at Google I/O 19 from Ricardo Cabello (MrDoob).
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Inigo Quilez
         url: https://www.youtube.com/@InigoQuilez
         description: The principles of painting with maths.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Codegram
         url: https://www.youtube.com/@Codegram
         description: 'Full Stack Fest 2015: The Pixel Factory (Great visuals to gain insights into what''s going on with concepts such as UV''s, and Rastering)'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: WhatIFound (Jason Harmon)
         url: https://www.youtube.com/@WhatIFound
         description: Liquid and fluid tutorials.
@@ -793,6 +1185,8 @@ subsections:
           workflow:
             - simulation
             - fx
+          platform:
+            - web
         readme_tags:
           - Fluids
           - Jason Harmon
@@ -807,6 +1201,9 @@ subsections:
           - H19
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 2D Cel Flames with Pyro
         url: https://www.youtube.com/@MichaelStarkTV
         description: Stylized 2D flame with pyro sim.
@@ -816,6 +1213,9 @@ subsections:
           - Pyro
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Matt Taylor Motion (Emty01)
         url: https://www.youtube.com/@MattTaylorMotion
         description: Recursive subdivision animation.
@@ -825,6 +1225,9 @@ subsections:
           - Subdivision
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Voxel/Lego Pyro Explosion
         url: https://www.youtube.com/@kevfx
         description: Stylized voxel explosion.
@@ -834,6 +1237,9 @@ subsections:
           - Stylized
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Rebelway YouTube
         url: https://www.youtube.com/@Rebelway
         description: Free Rebelway tutorials on YouTube.
@@ -844,6 +1250,9 @@ subsections:
           - FX Focus
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: youtube-sculpting-characters
     title: YouTube Channels — Sculpting & Characters
     description: Character and sculpting focused creators.
@@ -857,6 +1266,11 @@ subsections:
           - Pro Workflow
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
       - name: Travis Ragsdale
         url: https://www.youtube.com/channel/UCxOJdR3lmUf9XP_ME-C9jlg
         description: Sculpting tutorials.
@@ -864,6 +1278,8 @@ subsections:
         tags:
           workflow:
             - sculpting
+          platform:
+            - web
         readme_tags:
           - Sculpting
           - Characters
@@ -878,6 +1294,11 @@ subsections:
           - Anatomy
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
       - name: Marco Bucci
         url: https://www.youtube.com/@marcobucci
         description: Painting and color theory.
@@ -887,6 +1308,11 @@ subsections:
           - Color Theory
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
       - name: Sinix Design
         url: https://www.youtube.com/@sinixdesign
         description: Digital painting fundamentals.
@@ -896,6 +1322,11 @@ subsections:
           - Fundamentals
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
       - name: Tyler Edlin
         url: https://www.youtube.com/@TylerEdlin84
         description: Environment and concept art.
@@ -905,6 +1336,11 @@ subsections:
           - Concept
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
       - name: Grady Frederick
         url: https://www.youtube.com/@gradyfrederickart
         description: Concept art process.
@@ -914,6 +1350,11 @@ subsections:
           - Art
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
       - name: Modern Day James
         url: https://www.youtube.com/@moderndayjames
         description: Rigorous perspective systems and construction drawing.
@@ -923,6 +1364,11 @@ subsections:
           - Construction
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
       - name: Trent Kaniuga
         url: https://www.youtube.com/@TrentKaniuga
         description: Concept art workflow for game/film production.
@@ -932,18 +1378,33 @@ subsections:
           - Games/Film
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
       - name: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts.
         url: https://www.youtube.com/@yansculpts
         description: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
       - name: 📺 NTRCT | Characters for Dummies ~ Yu Fujishiro
         url: https://www.youtube.com/@YFJSR
         description: '[animation] - ''interactive art''.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - sculpting
+          platform:
+            - web
   - slug: paid-tutorial-platforms
     title: Paid Tutorial Platforms
     description: Subscription and course-based learning platforms.
@@ -958,7 +1419,10 @@ subsections:
           - Mograph
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Motion Design School
+        tags:
+          platform:
+            - web
+      - name: Motion Design School (site)
         url: https://motiondesign.school/
         description: Motion graphics courses.
         license: Paid
@@ -968,7 +1432,10 @@ subsections:
           - Courses
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: MoGraph Mentor
+        tags:
+          platform:
+            - web
+      - name: MoGraph Mentor (site)
         url: https://www.mographmentor.com/
         description: 3D motion design courses.
         license: Paid
@@ -978,7 +1445,10 @@ subsections:
           - Mentorship
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: CG Shortcuts
+        tags:
+          platform:
+            - web
+      - name: CG Shortcuts (site)
         url: https://cgshortcuts.com/
         description: C4D workflow courses.
         license: Paid
@@ -988,6 +1458,9 @@ subsections:
           - Workflow
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: CGCookie
         url: https://cgcookie.com/
         description: Blender courses. $29/mo.
@@ -998,6 +1471,9 @@ subsections:
           - $29/mo
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Pluralsight
         url: https://www.pluralsight.com/
         description: All software, $29/mo.
@@ -1008,6 +1484,9 @@ subsections:
           - $29/mo
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: LearnSquared
         url: https://www.learnsquared.com/
         description: Professional CG courses.
@@ -1018,6 +1497,9 @@ subsections:
           - Courses
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Patata School
         url: https://www.patataschool.com/
         description: C4D and Octane courses.
@@ -1028,6 +1510,9 @@ subsections:
           - Courses
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Pragmatic VFX
         url: https://pragmatic-vfx.com/
         description: Advanced Houdini (ILM FX TD).
@@ -1038,6 +1523,9 @@ subsections:
           - ILM TD
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Stop Being Afraid of Houdini
         url: http://www.mograph.com/stopbeingafraidofhoudini/
         description: Houdini course for C4D artists.
@@ -1048,6 +1536,9 @@ subsections:
           - Crossover
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Domestika
         url: https://www.domestika.org/
         description: Creative arts courses.
@@ -1059,6 +1550,9 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: broken
         deprecated: true
+        tags:
+          platform:
+            - web
       - name: Wingfox
         url: https://www.wingfox.com/
         description: CG tutorials per course.
@@ -1069,6 +1563,9 @@ subsections:
           - Per-course
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Jonathan Lindgren
         url: https://jonathanlindgren.teachable.com/
         description: 3D design courses.
@@ -1079,6 +1576,9 @@ subsections:
           - Teachable
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Mind + Motion (Effectatron)
         url: https://effectatron-c4d-redshift.teachable.com/
         description: Derek Kirk's C4D + Redshift course. Covers imposter syndrome / mental health alongside technique. $10–$49.99 per course.
@@ -1099,54 +1599,72 @@ subsections:
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: BlenderNation
-        url: https://www.blendernation.com/category/art/free-blender-models/
-        description: Website offers tutorials and resources for using Blender.
-        entry_type: tutorial
-        url_last_verified: '2026-04-19'
-        url_status: ok
+        tags:
+          platform:
+            - web
       - name: Pixel Art Tutorial Basics for Beginners
         url: http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783
         description: Pixel Art Tutorial Basics for Beginners.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: tinyrenderer
         url: https://github.com/ssloy/tinyrenderer
-        description: ', course of computer graphics teaching how Opengl and rendering works, teaching how to build a simpler version of OpenGL.'
+        description: course of computer graphics teaching how Opengl and rendering works, teaching how to build a simpler version of OpenGL
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Importance Sampling for Production Rendering
         url: http://www.igorsklyar.com/system/documents/papers/4/fiscourse.comp.pdf
         description: Importance Sampling for Production Rendering.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Open Color IO
         url: https://opencolorio.org/
         description: ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment, a complete color management solution geared towards motion picture production with an emphasis on visua
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: OpenCue
+        tags:
+          platform:
+            - web
+      - name: OpenCue (site)
         url: https://opencue.io
         description: ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) An open-source render management system from Sony Imageworks.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Interactive 3D Graphics
         url: https://www.udacity.com/course/interactive-3d-graphics--cs291
         description: Interactive 3D Graphics.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 'Learn OpenGL: Beginner''s guide to 3D rendering and game development with OpenGL and C++'
         url: https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
         description: 'Learn OpenGL: Beginner''s guide to 3D rendering and game development with OpenGL and C++.'
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Beginning Python For Maya (Zurbrigg)
         url: https://zurbrigg.teachable.com/p/python-3-for-maya-vol-1
         description: Structured Python course for Maya users.
@@ -1157,426 +1675,630 @@ subsections:
           - Course
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Pixel logic
         url: https://gumroad.com/l/pixel-logic
         description: Pixel Logic is an in-depth pixel art tutorial book.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Tech Gear HDA
         url: https://www.sidefx.com/tutorials/tech-gear-generator/
         description: Generate detailed cylindrical pieces. Can be useful to generate gears , bolts or details for sci-fi assets.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Artisticrender
         url: https://artisticrender.com/
         description: Tutorials, tips, resources about Blender and 3D.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Interplanety
         url: https://b3d.interplanety.org/en/
         description: Blender tutorials, articles, tips, notes.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Blender 3D Architect
         url: https://www.blender3darchitect.com/
         description: is the place to find news, tutorials, resources and training related to architectural visualization using Blender.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📰BlenderNation
         url: https://www.blendernation.com/
         description: daily news, art and tutorials for Blender, the open source 3D content creation suite.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Blender Secrets
         url: https://www.blendersecrets.org/secrets
         description: is home to hundreds of one-minute or less video tutorials that teach you specific topics.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Darkfall
+        tags:
+          platform:
+            - web
+      - name: Darkfall (blog)
         url: https://darkfallblender.blogspot.com/
         description: Blender python tutorials, nodes.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unity in HoloLens
         url: https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview
         description: Official tutorials from Microsoft for creating Microsoft HoloLens applications.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Getting Started with VR in Unity (DigitalTutors)
         url: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
         description: Introductory DigitalTutors tutorial for building VR experiences in Unity.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 'Blender 3D: Noob to Pro/Python Scripting'
         url: https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Python_Scripting/Introduction
         description: 'Python Scripting from [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro) book.'
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: GameDev.tv Unreal Engine Blueprint Game Developer Online Course
         url: https://www.gamedev.tv/p/unreal-blueprint/
         description: GameDev.tv Unreal Engine Blueprint Game Developer Online Course.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Design Patterns in Unity Example
         url: https://github.com/marwie/Design-Patterns-in-Unity-Example
         description: Most of Derek Banas Video Tutorial Series on Design Patterns to C# in Unity translated.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Unity Readme
         url: https://github.com/JohnAlbin/UnityReadme
         description: Add a Readme / tutorial to the inspector tab of your Unity project.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Houdini Tricks Tumblr
         url: https://houdinitricks.tumblr.com/
         description: Assorted Houdini tips and quick tutorials
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unity tutorials in AR
         url: https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D
         description: '``Unity``  tutorials in AR                                   |'
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Ray Wenderlich's Tutorials
         url: http://www.raywenderlich.com/category/unity
         description: Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 'Tutorial: Controlling Objects with Vive Trackers in Unity'
         url: https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/
         description: '[Mirror 1](https://archive.is/Il17G) - [Mirror 2](https://web.archive.org/web/20170713091924/https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/)'
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: The CG Essentials
         url: https://thecgessentials.com/
         description: 3D modeling, rendering, animation, particle simulation, and more, this is the place to be for Blender Tutorials.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Learn ARKit using Unity - Udacity
         url: https://www.udacity.com/course/learn-arkit-using-unity--ud114
         description: '``Udacity`` course about ARKit development using Unity       |'
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unity Gems Wordpress
         url: https://unitygem.wordpress.com/
         description: Unity3D tutorials.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unreal C++
         url: https://unrealcpp.com/
         description: A large collection of tutorials covering common features implemented in C++
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: World of Level Design
         url: https://worldofleveldesign.com/
         description: A whole host of tutorials dedicated to designing levels.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts
         url: https://www.youtube.com/@azielarts
         description: '[environment] - Zelda-inspired landscape using Procedural Content Generation.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 MEGA TUTORIAL ~ Unreal Sensei
         url: https://www.youtube.com/@UnrealSensei
         description: '[animation] ([5.6 update](https://youtu.be/GWremmdhmdg)) - 10 vids, ~30 hours, v5.5 nanite & lumen.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 Custom Character Skeletons and Animations ~ Upside Tutorials
         url: https://www.youtube.com/@UpsideTutorials
         description: '[animation,character].'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 What Studio Ghibli Does That Disney Doesn’t ~ omeroy Art Academy
         url: https://www.youtube.com/@pomeroyartacademy
         description: '[animation,character] - stylistic differences.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Blender Beginner 3D Modeling Tutorial.
         url: https://www.youtube.com/@tutor4u
         description: Blender Beginner 3D Modeling Tutorial..
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Default Cube
         url: https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ/videos
         description: CGMatter's second channel used for longer tutorials and other kinds of videos.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: CG Cookie
         url: https://www.youtube.com/@cg_cookie
         description: free tutorials from [CG Cookie](https://cgcookie.com/).
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Technical Art & Materials
         url: https://www.youtube.com/@BenCloward/videos
         description: Tutorials by Ben Cloward** (🆓 🥇)
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Create the Most AMAZING Animations with Rive
         url: https://www.youtube.com/@DesignCourse
         description: Crash Course (DesignCourse)
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Build iOS app with Rive Animations
         url: https://www.youtube.com/@DesignCodeTeam
         description: A full 3-hour course showcasing how to build a SwiftUI app with Rive animations.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unreal tutorial for Rive + Noesis
         url: https://www.youtube.com/@NoesisTechnologies
         description: Tutorial on how to add Rive to your Unreal games using Noesis.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus
         url: https://www.youtube.com/@BunnyGunGames
         description: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unity 3D Steam VR Video Tutorial Series
         url: https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q
         description: Unity 3D Steam VR Video Tutorial Series.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: DebugLog HTC Vive Unity 3D Steam VR Video Tutorial
         url: https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g
         description: DebugLog HTC Vive Unity 3D Steam VR Video Tutorial.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render
         url: https://www.youtube.com/@TaylorShockey
         description: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 'Unity + Vive Tutorial: Beginners'
         url: https://www.youtube.com/@VRwithAndrew
         description: 'Unity + Vive Tutorial: Beginners.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Vive Tutorial - Intro / UI | Unity VR (VRTK)
         url: https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ
         description: '[GitHub Repo](https://github.com/SyntonicApps/unity-vrtk-examples)'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: RMA Houdini Tutorials
         url: https://www.youtube.com/@RMAFIRE
         description: RMA Houdini Tutorials.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Add VFX to Cinematic RAW and LOG Footage
         url: https://www.youtube.com/@InLightVFX
         description: Add VFX to Cinematic RAW and LOG Footage.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺🏪 AAA Ghibli Forest in Blender & Unreal ~ ShinGidora
         url: https://www.youtube.com/@ShinGidora
         description: '[demo,Blender,asset] - good tips, though is promotion for his TREEBOX commercial script.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 I Nailed the Anime Look ~ SILKROAD Project
         url: https://www.youtube.com/@SilkroadProjectGame
         description: '[optimize,Houdini ,character,asset] - outline & shadows part of UV, not filter.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 many techniques available for Stylized Grass ~ Ghislain Girardot
         url: https://www.youtube.com/@ghislaingirardot
         description: '[Blender,asset,environment].'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 Environment Art Breakdown ~ Stylized Station
         url: https://www.youtube.com/@StylizedStation
         description: '[Blender,environment] - by Melissa Perl.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 Material Ambient Occlusion ~ William Faucher
         url: https://www.youtube.com/@WilliamFaucher
         description: '[msc-ue] - bake Ambient Occlusion maps onto models.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 BOOST Foliage Performance ~ Joshua M Kerr
         url: https://www.youtube.com/@JoshuaMKerr
         description: '[optimize,material] - world offset in material.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 Animators React to KPop Demon Hunters - ft. THE DIRECTORS ~ Corridor Crew
         url: https://www.youtube.com/@CorridorCrew
         description: '[animation,other].'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Dean Yurke - Unreal Engine and VFX Filmmaking
         url: https://www.youtube.com/@DeanYurke
         description: '[video,camera] - Pro movie VFX artist explains his process.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: '📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte'
         url: https://www.youtube.com/@kibibytecompany
         description: '[post-process,pre-process,environment] - custom look, LUTs, etc.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 25 Tips and Tricks  ~ Unreal University
         url: https://www.youtube.com/@UnrealUniversity
         description: '[optimize] - mostly shortcuts.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Tony Munoz | Game Creator Accelerator
         url: https://www.youtube.com/@TonyMunozDev
         description: '[tool] - Unreal Engine 5.7 Preview.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 Hunyuan 2.1 Install Guide ~ Stefan 3D AI Lab
         url: https://www.youtube.com/@stefan_ai_3d
         description: '[asset] ([text guide](https://digital-tails.notion.site/Hunyuan3D-2-1-Installation-Guide-2372bcde81ff80438d0efc90fc59ddb7)) - ComfyUI.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📺 CHEAPEST Motion Capture Setup for Metahumans ~ Charlie Driscoll
         url: https://www.youtube.com/@CharlieDriscollFilm
         description: '[animation,rig] - for filmmaking.'
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Tutorial from the authors of 3DGS
         url: https://3dgstutorial.github.io/
         description: Tutorial from the authors of 3DGS.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Interactive 3D Graphics
-        url: https://classroom.udacity.com/courses/cs291
-        description: Udacity course that teach you the principles of 3D computer graphics.
-        entry_type: tutorial
-        url_last_verified: '2026-04-19'
-        url_status: ok
+        tags:
+          platform:
+            - web
       - name: Create 3D Graphics in JS Using WebGL
         url: https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl
         description: Get started creating content with WebGL without any frameworks.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Character Customization Tutorial
         url: https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial
         description: This is the finished project of part 4 of the tutorial series for using blendshapes for character customization in Unity3D.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Roll A-Ball ECS Style
         url: https://github.com/KptEmreU/Roll-A-Ball-ECS-style
         description: Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Github
+        tags:
+          tech:
+            - opensource-alt
+      - name: 'GitHub: mixandjam'
         url: https://github.com/mixandjam
         description: Unity video tutorials on Youtube.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Computer Graphics
         url: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/
         description: ray tracing, animation, and so on at MIT in fall 2012
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 3D Computer Graphics Programming
         url: https://pikuma.com/courses/learn-3d-computer-graphics-programming
         description: Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Vector Math for 3D Computer Graphics
         url: http://programmedlessons.org/VectorLessons/
         description: Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: MIT Inverse Rendering Lectures (Module 2)
         url: https://www.scenerepresentations.org/courses/inverse-graphics-23/
         description: Academic deep dive into inverse rendering
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: WebGL Academy
         url: https://www.webglacademy.com/
         description: Learn WebGL and 3D algorithmic in a progressive and interactive way.
         entry_type: tutorial
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Two-minute explanation of 3DGS
         url: https://www.youtube.com/@IndividualKex
         description: Two-minute explanation of 3DGS.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Computerphile 3DGS explanation
         url: https://www.youtube.com/@Computerphile
         description: Computerphile 3DGS explanation.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 'Lecture 18: Monte Carlo Rendering (CMU 15-462/662)'
         url: https://www.youtube.com/@keenancrane
         description: Including a very good introduction of importance sampling.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Animation Programming Basics
         url: https://www.youtube.com/@BobbyAnguelov
         description: Animation Programming Basics.
         entry_type: channel
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Introduction to Machine Learning (Course)
         url: https://www.rebelway.net/introduction-to-machine-learning
         description: Full Rebelway ML course.
@@ -1587,6 +2309,9 @@ subsections:
           - Course
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: patreon-creators
     title: Patreon Creators
     description: Creators on Patreon offering tutorials, files, and tips.
@@ -1600,6 +2325,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: msedov
         url: https://www.patreon.com/msedov
         description: Patreon — msedov.
@@ -1609,6 +2337,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: The French Monkey
         url: https://www.patreon.com/TFMStyle
         description: Patreon — The French Monkey.
@@ -1618,6 +2349,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Xuxoe
         url: https://www.patreon.com/xuxoe
         description: Patreon — Xuxoe.
@@ -1627,6 +2361,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: MotionPunk
         url: https://www.patreon.com/motionpunk
         description: Patreon — MotionPunk.
@@ -1636,6 +2373,9 @@ subsections:
           - Motion
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Dusan Vukcevic
         url: https://www.patreon.com/vudu
         description: Patreon — Dusan Vukcevic.
@@ -1645,6 +2385,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Vincent Schwenk (Patreon)
         url: https://www.patreon.com/vincentschwenk
         description: Patreon — Vincent Schwenk.
@@ -1654,6 +2397,9 @@ subsections:
           - Motion
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Entagma (Patreon)
         url: https://www.patreon.com/entagma
         description: Patreon — Entagma.
@@ -1663,6 +2409,9 @@ subsections:
           - Houdini
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Arthur Whitehead (Patreon)
         url: https://www.patreon.com/arthurwhitehead
         description: Patreon — Arthur Whitehead.
@@ -1672,6 +2421,9 @@ subsections:
           - Motion
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Philiplueck
         url: https://www.patreon.com/philiplueck
         description: Patreon — Philiplueck.
@@ -1681,6 +2433,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Kaeptive
         url: https://www.patreon.com/Kaeptive
         description: Patreon — Kaeptive.
@@ -1690,6 +2445,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Jesus Suarez
         url: https://www.patreon.com/jssuarez
         description: Patreon — Jesus Suarez.
@@ -1699,6 +2457,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: NewPlastic
         url: https://www.patreon.com/NewPlastic
         description: Patreon — NewPlastic.
@@ -1708,6 +2469,9 @@ subsections:
           - Stylized
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Max Salzborn
         url: https://www.patreon.com/maxsalzborn
         description: Patreon — Max Salzborn.
@@ -1717,6 +2481,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Gonzzzalo
         url: https://www.patreon.com/gonzzzalo
         description: Patreon — Gonzzzalo.
@@ -1726,6 +2493,9 @@ subsections:
           - Creator
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Ross Mason (Patreon)
         url: https://www.patreon.com/iamrossmason
         description: Patreon — Ross Mason.
@@ -1735,6 +2505,9 @@ subsections:
           - Motion
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: John Kunz (Patreon)
         url: https://patreon.com/johnkunz
         description: Patreon — John Kunz.
@@ -1744,6 +2517,9 @@ subsections:
           - Houdini
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Christopher Rutledge (Patreon)
         url: https://www.patreon.com/tokyomegaplex
         description: Patreon — Christopher Rutledge.
@@ -1753,6 +2529,9 @@ subsections:
           - Houdini
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: communities-forums
     title: 3D Communities & Forums
     description: Cross-DCC CG communities.
@@ -1766,6 +2545,9 @@ subsections:
           - Events
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: ArtStation
         url: https://www.artstation.com/
         description: Professional portfolios.
@@ -1775,6 +2557,9 @@ subsections:
           - Pro
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Polycount
         url: https://polycount.com/
         description: Game art community.
@@ -1797,6 +2582,9 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: broken
         deprecated: true
+        tags:
+          platform:
+            - web
       - name: CGPeers
         url: https://www.cgpeers.com/
         description: CG community.
@@ -1807,6 +2595,9 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: broken
         deprecated: true
+        tags:
+          platform:
+            - web
       - name: Agora Community
         url: https://agora.community/
         description: 3D artists community.
@@ -1816,6 +2607,9 @@ subsections:
           - Community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: The 3D Artist Community (Skool)
         url: https://www.skool.com/the-3d-artist-community
         description: Community forum on Skool.
@@ -1825,6 +2619,9 @@ subsections:
           - Forum
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: BlenderArtists
         url: https://blenderartists.org/
         description: Blender forum.
@@ -1834,6 +2631,9 @@ subsections:
           - Forum
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: ZBrushCentral
         url: https://www.zbrushcentral.com/
         description: ZBrush forum.
@@ -1843,6 +2643,9 @@ subsections:
           - Forum
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 80 Level
         url: https://80.lv/
         description: Industry news and tutorials.
@@ -1852,42 +2655,63 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Blender Discord (French)
         url: https://discordapp.com/channels/168826665307209728/168826665307209728
         description: Blender Discord (French).
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: OpenXRay
         url: https://github.com/OpenXRay/xray-16
         description: a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Cinder
         url: https://libcinder.org/
         description: Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: openMVG
         url: https://openmvg.readthedocs.io/en/latest/
         description: A library for computer-vision scientists targeted for the Multiple View Geometry community.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Py Game CE
         url: https://pyga.me/docs/index.html
         description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Visual Studio Community Edition
         url: https://www.visualstudio.com/vs/community/
         description: A fully-featured, extensible, free IDE
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 3DVF
         url: http://3dvf.com
         description: French CG news and community.
@@ -1897,6 +2721,9 @@ subsections:
           - CG News
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 3DPro
         url: https://3dpro.org
         description: 3D professionals community forum.
@@ -1906,450 +2733,675 @@ subsections:
           - Forum
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Houdini Utility Thread
         url: https://www.sidefx.com/forum/topic/80497/?page=1#post-348642
         description: Houdini Utility Thread.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Robotic Arm Kinefx Demo
         url: https://www.sidefx.com/forum/topic/77562/?page=1#post-369057
         description: Robotic Arm Kinefx Demo.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Armedunity
         url: https://armedunity.com/
         description: Shooter focused forum.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 👨🏽‍🚀Blender.Community
         url: https://blender.community/c/
         description: 👨🏽‍🚀Blender.Community.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: ☕Blender.Today
         url: https://blender.community/c/today/
         description: Community-driven Blender news, chat, and live streams! Stream [playlist](https://www.youtube.com/playlist?list=PLa1F2ddGya_87HJ72v_IgKUTNLIXSMfvB).
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 🖱️Right-Click Select
         url: https://blender.community/c/rightclickselect/
         description: Got an idea for a feature that you think Blender absolutely must have?
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Civitai
         url: https://civitai.com/
         description: Community driven AI model sharing tool.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Learning
         url: https://dev.epicgames.com/community/unreal-engine/learning?source=epic_games
-        description: ', [Documentation](https://dev.epicgames.com/documentation/unreal-engine), [Livesteams](https://www.youtube.com/@UnrealEngine)** (🆓 🥇)'
+        description: '[Documentation](https://dev.epicgames.com/documentation/unreal-engine), [Livesteams](https://www.youtube.com/@UnrealEngine)** (🆓 🥇)'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: DEV Community
         url: https://dev.to/
         description: It covers setting up the environment, understanding generative models, and building a simple Generative Adversarial Network (GAN) with a focus on image datasets.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Slide Puzzle (Community Choice)
         url: https://devpost.com/software/slidy-fuzzle
         description: Slide Puzzle (Community Choice).
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Way For Ball (Community Choice)
         url: https://devpost.com/software/way-for-ball
         description: Way For Ball (Community Choice).
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Hash (Community Choice)
         url: https://devpost.com/software/flutter-puzzle-hack-3sdug9
         description: Hash (Community Choice).
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: ccMixter.org
         url: http://dig.ccmixter.org/
         description: is a community remix site operated by ArtisTech Media, created by Creative Commons. [![cc]](http://dig.ccmixter.org/licenses)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unreal Source Discord
         url: https://discord.com/invite/unrealsource
         description: Community** (🆓 🥇)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: GameDev.tv Discord
         url: https://discord.com/invite/eUSFZdJ
         description: A community focused on the GameDev.tv courses.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 🗨️discord/blender
         url: https://discord.gg/blender
         description: community-managed Discord server.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Nexrender Discord
         url: https://discord.gg/S2JtRcB
         description: Community of people specializing in scripting and video generation automation.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Hugging Face Forums
         url: https://discuss.huggingface.co/
         description: '** – Community for open LLMs and model development.'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Steam VR Template (Unreal Engine Forum)
         url: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template
         description: Community thread sharing a Steam VR project template for Unreal Engine.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unity Community
         url: https://github.com/UnityCommunity
-        description: and to begin Awesome Unity (this repository) will be merged into Unity Community organization from now. This repository will be used to merge new contents into the [Unity Community fork](https://gith
+        description: and to begin Awesome Unity (this repository) will be merged into Unity Community organization from now. This repository will be used to merge new contents into the
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Mirror
+        tags:
+          tech:
+            - opensource-alt
+      - name: Mirror (GitHub)
         url: https://github.com/vis2k/Mirror
         description: A community replacement for Unity's abandoned UNET Networking System.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: UnitySingleton
         url: https://github.com/UnityCommunity/UnitySingleton
         description: The best way to implement singleton pattern in Unity.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: HuggingFace AI Community
         url: https://huggingface.co/
         description: Host and collaborate on unlimited models, datasets and applications. |
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Make Human
         url: http://www.makehumancommunity.org/
         description: Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender)) [![][repo]](https://github.com/makehumancommunity/makehuman)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Introduction to pixel art
         url: http://pixeljoint.com/forum/forum_posts.asp?TID=11299
         description: Introduction to pixel art.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Google Community for “Cardboard and VR Developers”
         url: https://plus.google.com/communities/111524380182206513071
         description: Google Community for “Cardboard and VR Developers”.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: OpenTopography/datasets
         url: https://portal.opentopography.org/datasets
         description: Facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources. _Registration required_.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Reddit's Unity Best Practices
         url: https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/
         description: Reddit's thread with best practices collected by Unity developers.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: '/r/blender: contest'
         url: https://www.reddit.com/r/blender/
-        description: ', [blenderartists.org/contest](https://blenderartists.org/c/contests).'
+        description: '[blenderartists.org/contest](https://blenderartists.org/c/contests)'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: r/GenerativeAI
         url: https://www.reddit.com/r/GenerativeAI/
         description: '** – Reddit community on generative models and applications.'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 🌐 Visual Production ~ reddit
         url: https://www.reddit.com/r/virtualproduction/
         description: '[community] - production for movies & live events.'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 🌐 UnrealEngine5 ~ reddit
         url: https://www.reddit.com/r/UnrealEngine5/
         description: UE5 technical posts, rarely showcase.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Free Low-Poly Nature Assets Thread (r/gamedev)
         url: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
         description: Reddit thread sharing free low-poly trees, plants, and rocks for game development.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Sculptron
         url: https://render.otoy.com/forum/viewtopic.php?f=7&t=73665
         description: GPU-based tool for sculpting animation caches and for converting mesh sequences to volumes. The software is currently available free during early development.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Substance Share
         url: https://share.substance3d.com/
         description: The free exchange platform for the Substance community.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: MPFB
         url: http://static.makehumancommunity.org/mpfb.html
         description: MPFB2 is an open source human generator for Blender. It's complete rewrite of MakeHuman as a Blender addon. [![][repo]](https://github.com/makehumancommunity/mpfb2)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Steam Community VR Workshop Item
         url: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559
         description: Steam Community Workshop submission referenced by the VR/game-dev forum discussions.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unreal Source
         url: https://unrealsource.com/
         description: The largest Discord community focused on Unreal Engine.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Women in AI Ethics
         url: https://womeninaiethics.org/about-us/
         description: Community of women who are leaders in the AI ethics industry.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Welder
         url: https://blenderartists.org/t/welder/672478
         description: welds generator for Blender.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Array Tools
         url: https://blenderartists.org/t/array-tools-all-in-one-for-translation-scale-and-rotation-array/1170295?u=peetie
         description: is an addon for Blender to create translation, scale, rotation array with offset or global parameters in any direction and mix them. [![][repo]](https://github.com/Elreenys/array_tools)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Mesh Heal
         url: https://blenderartists.org/t/mesh-heal/1117095
         description: is an add-on for Blender, it includes additional Blender operators for healing surface meshes.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Drop It
         url: https://blenderartists.org/t/drop-it-free-addon/1244259/
         description: Designed to drop fast and simply Objects to Ground or Surface. [![][repo]](https://github.com/maxivz/interactivetoolsblender)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: JARCH Vis
         url: https://blenderartists.org/t/addon-jarch-vis/642607
         description: is add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Wiggle Bones
         url: https://blenderartists.org/t/wiggle-2/1454788
         description: Jiggle bone implementation for Blender with realistic physics. [![][repo]](https://github.com/shteeve3d/blender-wiggle-2) ![][gpl]
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: TexTools
         url: https://blenderartists.org/t/textools-for-blender/700811
         description: TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/SavMartin/TexTools-Blender)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: EZ Baker
         url: https://blenderartists.org/t/ez-baker/1245869
         description: An easier alternative to blender's default bake system. [![][repo]](https://gitlab.com/AquaticNightmare/ez_baker)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: V HACD
         url: https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822
         description: Library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Multi User
         url: https://blenderartists.org/t/multi-user/1187118
         description: Enable real-time collaborative workflows inside blender. [![][repo]](https://gitlab.com/slumber/multi-user)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Theme Switcher
         url: https://blenderartists.org/t/theme-switcher/1211787
         description: Addon to quickly change active theme not leaving 3D View.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: The Code Editor
         url: https://blenderartists.org/t/how-would-you-show-some-love-for-the-blender-text-editor/1163857
         description: This thread is for discussing how the Text Editor can be improved and sharing add-ons which will modernize, expand and ease coding in Blender.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Blenderartists/python Support
         url: https://blenderartists.org/c/coding/python-support/19
-        description: ', [stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)'
+        description: '[stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Lodify
         url: https://devtalk.blender.org/t/level-of-detail-addon/12840
         description: LOD(Level of Detail) and Proxy system for blender. [![][repo]](https://github.com/DB3D/Lodify)
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: devtalk/python
         url: https://devtalk.blender.org/c/python/6
         description: Questions about using and developing the [Blender Python API](https://developer.blender.org/project/view/24/), both for Blender itself and add-ons.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 📖 User Manual
         url: https://docs.blender.org/manual/en/latest/
         description: '[🔗 Python API](https://docs.blender.org/api/current/) | [⚙️ Developer Wiki](https://wiki.blender.org/wiki/Main_Page)'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Animation & Rigging Manual.
         url: https://docs.blender.org/manual/en/latest/physics/index.html
         description: Animation & Rigging Manual..
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Compositing Nodes List.
         url: https://docs.blender.org/manual/en/latest/compositing/index.html#node-types
         description: Compositing Nodes List..
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Motion Tracking Manual.
         url: https://docs.blender.org/manual/en/latest/movie_clip/tracking/introduction.html
         description: Motion Tracking Manual..
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Blender Python API Documentation
         url: https://docs.blender.org/api/current/
         description: Official Blender Python API Documentation.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Casual GAN Papers Reading Club
         url: https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8
         description: Community knowledge base for Casual GAN Papers
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Chrome Experiments
         url: https://www.chromeexperiments.com/
         description: Showcase of web experiments written by the creative coding community.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: ALS Community
         url: https://github.com/dyanikoglu/ALS-Community
         description: Replicated and optimized community version of Advanced Locomotion System V4
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: 'ViroCore: A cross-platform AR/VR renderer'
         url: https://github.com/ViroCommunity/virocore
         description: 'and [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)'
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: microsoft/JARVIS
         url: https://github.com/microsoft/JARVIS
         description: JARVIS, a system to connect LLMs with ML community
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: UE4 Plugin Resources
         url: https://github.com/Sythenz/UE4-Plugin-Resources
         description: A list of community resources for Slate, Graphs, and UE4 Plugin Development.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: MassSample
         url: https://github.com/Megafunk/MassSample
         description: Community Mass Sample
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Github/awesome Copilot
         url: https://github.com/github/awesome-copilot
         description: Community instructions and prompts for GitHub Copilot.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Harmonai
         url: https://www.harmonai.org/
         description: We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: ofBook
         url: https://openframeworks.cc/ofBook/chapters/foreword.html
         description: Community-written book/guide on openFrameworks.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: promptoMANIA
         url: https://promptomania.com/
         description: AI art community with prompt generator
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Promptstacks
         url: https://www.promptstacks.com/
         description: a prompt engineering community
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: realtimevfx.com
         url: https://realtimevfx.com/
         description: Real Time VFX Community.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: PromptDesign | Reddit
         url: https://www.reddit.com/r/PromptDesign/
         description: Reddit community for "the art of communicating with natural language models"
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: WebVR Community Group
         url: https://www.w3.org/community/immersive-web/
         description: Group who's goal is to help bring high-performance Virtual Reality to the open Web.
         entry_type: community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: inspiration-showcase
     title: 3D Inspiration & Showcase
     description: Showcases, portfolios, and visual reference hubs.
@@ -2363,6 +3415,9 @@ subsections:
           - 3D Artist
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: NeilBlevins
         url: http://www.neilblevins.com/
         description: CG art and tutorials.
@@ -2372,6 +3427,9 @@ subsections:
           - Tutorials
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Strange Attractors
         url: http://www.3d-meier.de/
         description: Mathematical 3D forms.
@@ -2381,6 +3439,9 @@ subsections:
           - Forms
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: autodestruct.com
         url: http://www.autodestruct.com/
         description: Concept art.
@@ -2390,6 +3451,9 @@ subsections:
           - Portfolio
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Disney Research
         url: https://www.disneyresearch.com/
         description: Research publications.
@@ -2399,6 +3463,9 @@ subsections:
           - Disney
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Make 2 Digital
         url: https://www.make2digital.com/
         description: FUI and sci-fi concepts.
@@ -2409,6 +3476,9 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: broken
         deprecated: true
+        tags:
+          platform:
+            - web
       - name: Linkage Mechanisms
         url: http://blog.rectorsquid.com/sample-linkage-mechanisms-2/
         description: Mechanical animations.
@@ -2418,6 +3488,9 @@ subsections:
           - Animation
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Level Sets in Production (Sony)
         url: https://www.imageworks.com/sites/default/files/2023-10/levelsets-in-production-spider-man3.pdf
         description: Spider-Man 3 VFX paper.
@@ -2427,6 +3500,9 @@ subsections:
           - VFX Production
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: cifraworld (Instagram)
         url: https://www.instagram.com/cifraworld/
         description: 3D motion art.
@@ -2436,6 +3512,9 @@ subsections:
           - Motion Art
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Ben Watts (Vimeo)
         url: https://vimeo.com/bwdesign
         description: Motion design.
@@ -2445,6 +3524,9 @@ subsections:
           - Motion Design
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Nick Taylor (MVSM)
         url: http://nicholas-taylor.com/
         description: Project breakdowns.
@@ -2454,6 +3536,9 @@ subsections:
           - ManVsMachine
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Cornelius Dammrich
         url: https://corneliusdammrich.gumroad.com
         description: Sci-fi environments.
@@ -2463,6 +3548,9 @@ subsections:
           - Gumroad
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: FX References
         url: https://ref-fx.com/
         description: Visual effects reference library.
@@ -2472,6 +3560,9 @@ subsections:
           - Reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Before & Afters
         url: https://beforesandafters.com/
         description: VFX breakdowns and behind-the-scenes.
@@ -2481,6 +3572,9 @@ subsections:
           - BTS
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: HUDs and GUIs
         url: https://www.hudsandguis.com/
         description: FUI/screen graphics reference for sci-fi 3D work.
@@ -2490,6 +3584,9 @@ subsections:
           - Screen Graphics
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Character Design References
         url: https://characterdesignreferences.com/
         description: Shape language and character design studies.
@@ -2499,126 +3596,189 @@ subsections:
           - Shape Language
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: GPT-3 Demo
         url: https://gpt3demo.com/
         description: Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
         entry_type: inspiration
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Sean Browning - Pixel Art Animation Reel 2018
         url: https://vimeo.com/250991452
         description: A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
         entry_type: inspiration
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: The Pixel Factory
         url: http://acko.net/files/gltalks/pixelfactory/online.html
         description: Talk about WebGL, GPUs and Math by Steven Wittens.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 3D Maths Cheat Sheet
         url: http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf
         description: Math cheatsheet by Anton Gerdelan, from his OpenGL book.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Writing a small software renderer
         url: http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html
         description: Really good introduction to how basic software rendering works.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Quartz Composer
         url: https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html
         description: '[Mac] - Development tool for processing and rendering graphical data.'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: 'Gene Kogan: Perlin Noise'
         url: http://genekogan.com/code/p5js-perlin-noise/
         description: introduction to 2D and 3D perlin noise.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Maths & trigonometry cheat sheet for 2D & 3D games
         url: https://gist.github.com/xem/99930986c5333125a13b0ea50600391f
         description: Maths cheat-sheet for 2D and 3D game-makers.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Leaf Pic
         url: https://github.com/HoraApps/LeafPic/
         description: Material-designed android gallery alternative.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          tech:
+            - opensource-alt
       - name: Graphics Programming Projects
         url: https://graphicscodex.com/projects/projects/index.html
         description: Book about 3D computational graphics by Morgan McGuire.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Introduction to Ray Tracing
         url: http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
         description: A simple method for creating 3D images.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Foundation HTML5 Animation with JavaScript
         url: https://link.springer.com/book/10.1007/978-1-4302-3666-5
         description: Everything you need to know to create animation using the HTML5 canvas.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Physics for JavaScript Games, Animation, and Simulations
         url: https://link.springer.com/book/10.1007/978-1-4302-6338-8
         description: Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: NAP
         url: https://nap-framework.tech/
         description: '[Cross-platform] - Open source data-driven real-time control & visualization platform suited for professional installations in C++, incl. Vulkan renderer.'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Three.js Basics
         url: https://www.realtimerendering.com/basics3js/#1
         description: Introduction to Three.js by Eric Haines.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: shoebot
         url: https://shoebot.github.io/
         description: '[Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Smode
         url: https://smode.fr/
         description: '[Win] - A real-time 2D/3D creation, compositing and video-mapping engine.'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Structure Synth
         url: http://structuresynth.sourceforge.net/
         description: '[Cross-platform] - Application for generating 3D structures by specifying a design grammar.'
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Mathematics of Animation
         url: https://winkervsbecks.github.io/mathematics-of-animation/#/
         description: Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Zdog
         url: https://zzz.dog/
         description: A pseudo-3D engine for canvas & SVG.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: architecture-viz
     title: Architecture & Visualization
     description: Arch-viz inspiration and BIM.
@@ -2660,6 +3820,9 @@ subsections:
           - Animation
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Animation Studio Reviews
         url: https://docs.google.com/spreadsheets/d/1aJHCQSA2dFdu4Fy__T3yDyiNqO0jMUBcku0EjKX3SZI
         description: Studio review spreadsheet.
@@ -2669,6 +3832,9 @@ subsections:
           - Sheet
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Job Openings Tracker
         url: https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/
         description: Animation/VFX jobs tracker.
@@ -2678,6 +3844,9 @@ subsections:
           - Animation/VFX
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: industry-trends
     title: Industry Trends 2025-2026
     description: Current technology and market trends in CG.
@@ -2731,6 +3900,9 @@ subsections:
           - Production-viable
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Virtual Production
         url: https://www.disguise.one/
         description: LED volumes maturing from bleeding-edge to standardized.

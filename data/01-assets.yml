@@ -15,6 +15,8 @@ subsections:
             - generalist
           platform:
             - web
+          workflow:
+            - modeling
         readme_tags:
           - Massive
           - Downloadable
@@ -31,6 +33,8 @@ subsections:
           tech:
             - cc0
             - pbr
+          workflow:
+            - modeling
         readme_tags:
           - CC0
           - PBR
@@ -43,6 +47,8 @@ subsections:
         tags:
           output:
             - generalist
+          workflow:
+            - modeling
         readme_tags:
           - Marketplace
           - Free Section
@@ -57,6 +63,9 @@ subsections:
           - Community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: CGHEVEN
         url: https://cgheven.com/
         description: Free CC0 3D and VFX assets.
@@ -65,6 +74,8 @@ subsections:
         tags:
           tech:
             - cc0
+          workflow:
+            - modeling
         readme_tags:
           - CC0
           - VFX Assets
@@ -78,6 +89,8 @@ subsections:
         tags:
           tech:
             - cc0
+          workflow:
+            - modeling
         readme_tags:
           - CC0
           - Gumroad
@@ -91,6 +104,8 @@ subsections:
         tags:
           output:
             - games
+          workflow:
+            - modeling
         readme_tags:
           - Low-Poly
           - CC-BY
@@ -119,6 +134,9 @@ subsections:
           - Archive
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Three D Scans
         url: https://threedscans.com/
         description: Free 3D scan archive.
@@ -127,6 +145,8 @@ subsections:
         tags:
           tech:
             - photogrammetry
+          workflow:
+            - modeling
         readme_tags:
           - 3D Scans
           - Free
@@ -141,6 +161,9 @@ subsections:
           - Free Models
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: 3Dzip
         url: https://3dzip.org/
         description: Free downloads.
@@ -150,6 +173,9 @@ subsections:
           - Free Downloads
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: RigModels
         url: https://rigmodels.com/
         description: Rigged models.
@@ -158,6 +184,7 @@ subsections:
           workflow:
             - rigging
             - animation
+            - modeling
         readme_tags:
           - Rigged
           - Animation-Ready
@@ -171,6 +198,9 @@ subsections:
           - Marketplace
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: 3Dshaker
         url: https://www.3dshaker.com/free3dmodels
         description: Free models.
@@ -180,6 +210,9 @@ subsections:
           - Free Models
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Funes
         url: https://funes.world/
         description: 3D cultural heritage.
@@ -187,6 +220,8 @@ subsections:
         tags:
           output:
             - scientific-viz
+          workflow:
+            - modeling
         readme_tags:
           - Cultural Heritage
           - Scanned
@@ -202,6 +237,9 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: 3D MDB
         url: https://3dmdb.com/
         description: Model database.
@@ -211,6 +249,9 @@ subsections:
           - Search
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: MyMiniFactory Scan the World
         url: https://www.myminifactory.com/scantheworld/
         description: Scan the World collection of scanned heritage objects.
@@ -218,6 +259,8 @@ subsections:
         tags:
           tech:
             - photogrammetry
+          workflow:
+            - modeling
         readme_tags:
           - Heritage Scans
           - Free
@@ -231,6 +274,8 @@ subsections:
         tags:
           tech:
             - photogrammetry
+          workflow:
+            - modeling
         readme_tags:
           - Academic
           - Test Meshes
@@ -246,6 +291,9 @@ subsections:
           - Test Scenes
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Keenan Crane's Model Repository
         url: https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/
         description: Clean test meshes for shader and subdivision work.
@@ -256,6 +304,9 @@ subsections:
           - Shader Testing
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: CadNav
         url: https://www.cadnav.com/
         description: Architecture, furniture, vehicle models.
@@ -264,6 +315,8 @@ subsections:
           output:
             - archviz
             - product-viz
+          workflow:
+            - modeling
         readme_tags:
           - Arch/Furniture
           - Vehicles
@@ -276,6 +329,8 @@ subsections:
         tags:
           tech:
             - photogrammetry
+          workflow:
+            - modeling
         readme_tags:
           - Photogrammetry
           - User-Uploaded
@@ -287,6 +342,9 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: rileyb3d Library
         url: https://rileyb3d.com/library
         description: Free packed .blend files ready to use.
@@ -295,6 +353,8 @@ subsections:
         tags:
           tech:
             - blender
+          workflow:
+            - modeling
         readme_tags:
           - Blender
           - .blend Packs
@@ -306,84 +366,130 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Oyonale
         url: http://www.oyonale.com/modeles.php?lang=en
         description: Sells 3D models for various industries.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: PBRPX
         url: https://www.pbrpx.com
         description: A huge library of free PBR materials, and some 3D models.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Assimp
+        tags:
+          workflow:
+            - modeling
+      - name: Assimp (site)
         url: https://www.assimp.org/
         description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Engraver
         url: https://gumroad.com/l/qOyVO
         description: is an Blender addon with set of few tools designed to help carving decals in 3D models.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: WoT Tank Viewer
         url: https://bitbucket.org/SkepticalFox/bigworld-blender-tools-wot-wowp-wows
         description: is a package of plugins for Blender, which allows you view 3D models from World of Tanks.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Free3DBase
         url: https://free3dbase.com/
         description: Download high quality free 3d models.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: FaceBuilder
         url: https://www.keentools.io/download/facebuilder-for-blender
         description: '[$] : A Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuild'
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: What is Generative AI? - Nvidia
         url: https://www.nvidia.com/en-us/glossary/generative-ai/
         description: Generative AI enables users to quickly generate new content based on a variety of inputs. Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types o
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Quaternius's Ultimate Low-Poly Models
         url: http://quaternius.com/index.html
-        description: ', [The Art of 3D Insects by Natural History Museum](https://stock.adobe.com/collections/rTMsIExGHtyXsAv8NL8RfOxokqALHQhy), [First Animals by Oxford University](https://sketchfab.com/morethanadodo/coll'
+        description: '[The Art of 3D Insects by Natural History Museum](https://stock.adobe.com/collections/rTMsIExGHtyXsAv8NL8RfOxokqALHQhy)'
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Chocofur/Free
         url: https://store.chocofur.com/search/free
         description: Premium quality 3D models & scenes. [(blender addon)](https://store.chocofur.com/model-manager-blender-2-80-course/blender_model/) [CC0](https://chocofur.com/page/license-cc0)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Element 3D
         url: https://www.videocopilot.net/products/element2/
         description: A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Sketchfab Blender Addon
         url: https://github.com/sketchfab/blender-plugin
         description: Directly import and export models from and to Sketchfab in Blender.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
+          tech:
+            - opensource-alt
       - name: SolidUI
         url: https://github.com/CloudOrc/SolidUI
         description: AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
         entry_type: reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
+          tech:
+            - opensource-alt
   - slug: model-libraries-specialized
     title: Model Libraries — Specialized
     description: 'Specialty model sources: characters, scans, anatomy, museums.'
@@ -397,6 +503,7 @@ subsections:
           workflow:
             - rigging
             - animation
+            - modeling
           output:
             - games
             - film-vfx
@@ -413,6 +520,7 @@ subsections:
           workflow:
             - reference
             - sculpting
+            - modeling
         readme_tags:
           - Anatomy
           - Reference
@@ -426,6 +534,7 @@ subsections:
           workflow:
             - reference
             - sculpting
+            - modeling
         readme_tags:
           - Anatomy
           - Sculpt Ref
@@ -440,6 +549,9 @@ subsections:
           - Niche
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Anything World Gallery
         url: https://app.anything.world/gallery
         description: Animated models.
@@ -447,6 +559,7 @@ subsections:
         tags:
           workflow:
             - animation
+            - modeling
         readme_tags:
           - Animated
           - Game-Ready
@@ -459,6 +572,8 @@ subsections:
         tags:
           output:
             - games
+          workflow:
+            - modeling
         readme_tags:
           - Game Rips
           - Study/Reference
@@ -471,6 +586,7 @@ subsections:
         tags:
           workflow:
             - reference
+            - modeling
         readme_tags:
           - Dimensions
           - Reference Data
@@ -485,6 +601,8 @@ subsections:
           output:
             - scientific-viz
             - film-vfx
+          workflow:
+            - modeling
         readme_tags:
           - Public Domain
           - Space/Science
@@ -497,6 +615,8 @@ subsections:
         tags:
           output:
             - scientific-viz
+          workflow:
+            - modeling
         readme_tags:
           - Museum Scans
           - Historical
@@ -510,6 +630,8 @@ subsections:
         tags:
           tech:
             - cc0
+          workflow:
+            - modeling
         readme_tags:
           - CC0
           - Museum
@@ -522,6 +644,8 @@ subsections:
         tags:
           tech:
             - photogrammetry
+          workflow:
+            - modeling
         readme_tags:
           - Museum
           - Artifacts
@@ -536,6 +660,9 @@ subsections:
           - Scans
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Quaternius
         url: https://quaternius.com/
         description: Free low-poly game assets.
@@ -546,6 +673,8 @@ subsections:
             - games
           tech:
             - cc0
+          workflow:
+            - modeling
         readme_tags:
           - CC0 Low-Poly
           - Game-Ready
@@ -560,24 +689,38 @@ subsections:
           - Cars
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Fusion Character Animator
         url: http://loopengo.free.fr/
         description: small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: AccuRIG
         url: https://actorcore.reallusion.com/auto-rig
         description: is a free application designed for fast and easy character rigging.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: ossos
         url: https://github.com/sketchpunklabs/ossos
         description: A complete character skinning & animation library for the web
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
+          tech:
+            - opensource-alt
   - slug: model-libraries-arch-furniture
     title: Model Libraries — Architecture & Furniture
     description: Arch-viz, furniture, and BIM asset libraries.
@@ -589,6 +732,8 @@ subsections:
         tags:
           output:
             - archviz
+          workflow:
+            - modeling
         readme_tags:
           - SketchUp
           - Community
@@ -601,6 +746,8 @@ subsections:
         tags:
           output:
             - archviz
+          workflow:
+            - modeling
         readme_tags:
           - Arch/Design
           - Mixed Free/Paid
@@ -614,6 +761,8 @@ subsections:
           output:
             - archviz
             - product-viz
+          workflow:
+            - modeling
         readme_tags:
           - Furniture
           - Premium
@@ -626,6 +775,8 @@ subsections:
         tags:
           output:
             - archviz
+          workflow:
+            - modeling
         readme_tags:
           - BIM
           - CAD
@@ -638,6 +789,8 @@ subsections:
         tags:
           output:
             - archviz
+          workflow:
+            - modeling
         readme_tags:
           - Scenes
           - Arch-Viz Classic
@@ -650,6 +803,8 @@ subsections:
         tags:
           output:
             - archviz
+          workflow:
+            - modeling
         readme_tags:
           - BIM
           - Manufacturer Data
@@ -664,6 +819,9 @@ subsections:
           - General
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: 3DSky
         url: https://3dsky.org
         description: Architecture models.
@@ -671,6 +829,8 @@ subsections:
         tags:
           output:
             - archviz
+          workflow:
+            - modeling
         readme_tags:
           - Arch-Viz
           - Large Library
@@ -684,6 +844,8 @@ subsections:
           output:
             - archviz
             - product-viz
+          workflow:
+            - modeling
         readme_tags:
           - Furniture
           - Product Design
@@ -698,6 +860,9 @@ subsections:
           - Mixed
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
   - slug: asset-marketplaces
     title: Asset Marketplaces
     description: General asset marketplaces across multiple engines and tools.
@@ -711,6 +876,9 @@ subsections:
           - Creator-Direct
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
       - name: Unity Asset Store
         url: https://assetstore.unity.com/
         description: Game-ready assets.
@@ -769,6 +937,9 @@ subsections:
           - Epic-backed
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          platform:
+            - web
   - slug: free-asset-giveaways
     title: Free Asset Giveaways
     description: Recurring free asset drops. Bookmark these.
@@ -802,6 +973,9 @@ subsections:
           - Official
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Blender Demo Files
         url: https://www.blender.org/download/demo-files/
         description: Official demo scenes.
@@ -812,6 +986,9 @@ subsections:
           - Demo Scenes
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Blender Extensions
         url: https://extensions.blender.org/
         description: Official addons and themes repository.
@@ -820,6 +997,8 @@ subsections:
         tags:
           tech:
             - blender-addon
+          workflow:
+            - modeling
         readme_tags:
           - Blender
           - Addons
@@ -833,6 +1012,7 @@ subsections:
           workflow:
             - texturing
             - material-authoring
+            - modeling
           tech:
             - pbr
         readme_tags:
@@ -847,6 +1027,7 @@ subsections:
         tags:
           workflow:
             - material-authoring
+            - modeling
         readme_tags:
           - Community
           - Substance
@@ -859,6 +1040,7 @@ subsections:
         tags:
           workflow:
             - sculpting
+            - modeling
         readme_tags:
           - ZBrush
           - Alphas/Brushes
@@ -873,6 +1055,9 @@ subsections:
           - Official
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: Maya Content Browser
         url: https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-14B1E820-24A5-41CF-B3A2-1BFED3464908
         description: Official example scenes and assets.
@@ -882,6 +1067,9 @@ subsections:
           - Examples
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - modeling
       - name: 3DCoat Smart Materials
         url: https://3dcoat.com/documentation/manual/brush-components/smart-materials/
         description: Official materials library.
@@ -889,6 +1077,7 @@ subsections:
         tags:
           workflow:
             - material-authoring
+            - modeling
           tech:
             - smart-materials
         readme_tags:
@@ -903,6 +1092,7 @@ subsections:
         tags:
           workflow:
             - sculpting
+            - modeling
         readme_tags:
           - Nomad
           - Brushes/Matcaps
@@ -1016,6 +1206,8 @@ subsections:
         tags:
           output:
             - product-viz
+          workflow:
+            - lighting
         readme_tags:
           - Studio
           - Product-Viz
@@ -1030,24 +1222,38 @@ subsections:
           - Backplates
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - lighting
       - name: TextureHaven
         url: https://texturehaven.com/
         description: Free textures with additional maps like displacement and bump maps. Also HDRIs.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - lighting
       - name: HDRI Sun Aligner
         url: https://github.com/akej74/hdri-sun-aligner
         description: HDRI Sun Aligner is a Blender addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - lighting
+          tech:
+            - opensource-alt
       - name: HDRI To Cube Map
         url: https://matheowis.github.io/HDRI-to-CubeMap/
         description: A tool to convert your HDRI file into a Cube map that
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - lighting
   - slug: textures-free-pbr
     title: Textures & Materials — Free PBR Libraries
     description: Free PBR texture libraries for materials authoring.
@@ -1077,6 +1283,7 @@ subsections:
         tags:
           workflow:
             - texturing
+            - material-authoring
           tech:
             - pbr
         readme_tags:
@@ -1092,6 +1299,9 @@ subsections:
         tags:
           tech:
             - cc0
+          workflow:
+            - texturing
+            - material-authoring
         readme_tags:
           - CC0
           - Seamless
@@ -1105,6 +1315,9 @@ subsections:
         tags:
           tech:
             - pbr
+          workflow:
+            - texturing
+            - material-authoring
         readme_tags:
           - Free PBR
           - Seamless
@@ -1118,6 +1331,9 @@ subsections:
         tags:
           tech:
             - pbr
+          workflow:
+            - texturing
+            - material-authoring
         readme_tags:
           - PBR
           - Free
@@ -1133,6 +1349,10 @@ subsections:
           - Textures
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Kaimoisch
         url: https://kaimoisch.com/free-textures/
         description: 3D scanned textures.
@@ -1141,6 +1361,9 @@ subsections:
         tags:
           tech:
             - photogrammetry
+          workflow:
+            - texturing
+            - material-authoring
         readme_tags:
           - Scanned
           - Free
@@ -1156,6 +1379,10 @@ subsections:
           - Free Packs
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: The Pixel Lab Freebies
         url: https://www.thepixellab.net/freebies-2
         description: Free 3D models and textures.
@@ -1166,6 +1393,10 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Texture Labs
         url: https://texturelabs.org/
         description: Free texture resources.
@@ -1176,6 +1407,10 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Textures.com
         url: https://www.textures.com/
         description: Massive professional texture library.
@@ -1185,6 +1420,10 @@ subsections:
           - Professional
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Texturify
         url: https://texturify.com/
         description: Free texture collection.
@@ -1196,6 +1435,10 @@ subsections:
         url_last_verified: '2026-04-19'
         url_status: broken
         deprecated: true
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: TextureCan
         url: https://www.texturecan.com/
         description: Free PBR textures, high scan quality.
@@ -1205,6 +1448,9 @@ subsections:
           tech:
             - pbr
             - photogrammetry
+          workflow:
+            - texturing
+            - material-authoring
         readme_tags:
           - Free PBR
           - High-Quality Scans
@@ -1216,456 +1462,808 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: DEM Net Elevation API
         url: https://elevationapi.com
         description: Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: TexGraph
         url: https://galloscript.itch.io/texgraph
         description: A procedural texture creation tool that lets you create textures by connecting nodes in a graph.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Imogen
         url: https://github.com/CedricGuillemet/Imogen
         description: GPU Texture generator using dear imgui for UI.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Glsl Texture
         url: https://github.com/patriciogonzalezvivo/glslTexture
         description: Create textures from Glsl fragment shaders on Blender (2.8)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Texture Synthesis
         url: https://github.com/EmbarkStudios/texture-synthesis
         description: Example-based texture synthesis written in Rust.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Matcaps
         url: https://github.com/nidorx/matcaps#matcaps
         description: A Huge library of matcap textures in PNG and ZMT, organized by color.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Cheetah Texture Packer
         url: https://github.com/scriptum/Cheetah-Texture-Packer
         description: High efficient and fast 2D bin packing tool
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Libgdx Texture Packer
         url: https://github.com/libgdx/libgdx/wiki/Texture-packer
         description: Texture Packer built into Libgdx
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Tilesplit
         url: https://github.com/AlexPoulsen/tilesplit
         description: CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Material Maker
-        url: https://github.com/RodZill4/material-maker
-        description: procedural texture creator made in Godot
-        entry_type: asset-source
-        url_last_verified: '2026-04-19'
-        url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: axys
         url: https://github.com/axys1/axys
         description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: DEM Net Elevation API C#
         url: https://github.com/dem-net/DEM.Net
         description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Leshy SpriteSheet Tool
         url: https://www.leshylabs.com/apps/sstool/
         description: HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Libgdx Texture Packer
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+      - name: Libgdx Wiki
         url: https://libgdx.com/wiki/
-        description: Texture Packer built into Libgdx
+        description: Libgdx documentation wiki (includes Texture Packer page).
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: LotPixel
         url: https://www.lotpixel.com/
         description: A huge assets library. Photogrammetry and PBR Textures, 3D Models, Decals. 1500+ Free Texture Available.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: PlainTextures
         url: http://www.plaintextures.com/
         description: Free high resolution textures, brushes and photos
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Ptex
         url: http://ptex.us/
         description: A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: 'Ray Tracing: The Next Week'
         url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
-        description: ', by Peter Shirley, builds on top of the first books'' project, adding more effects, like textures and motion blur.'
+        description: by Peter Shirley, builds on top of the first books' project, adding more effects, like textures and motion blur
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: SpriteUV2
         url: https://www.spriteuv.com/
         description: tool for creating optimal meshes for textures/sprites and packing them into an atlas.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Live Normal
         url: https://tenebrislab.github.io/livenormal/
         description: An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: TextureKing
         url: http://www.textureking.com/
         description: Free material stock textures
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: SCATTr
         url: https://gumroad.com/l/scattr
         description: Procedural texture placement.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: gumroad/juliosillet
         url: https://gumroad.com/juliosillet
-        description: ', [Pixar/CommunityResources](https://renderman.pixar.com/community_resources), [Nikola Damjanov''s 100 PBR Texture Sets](https://www.artstation.com/artwork/0XEN4V), [Texture Hunt Collection](https://gu'
+        description: '[Pixar/CommunityResources](https://renderman.pixar.com/community_resources), [Nikola Damjanov''s 100 PBR Texture Sets](https://www.artstation.com/artwork/0XEN4V)'
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: 3DAssets.one
         url: https://www.3dassets.one/
         description: is a search-engine which allows you to explore the largest free texture sites all at once.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Bystedts Blender Baker
         url: https://3dbystedt.gumroad.com/l/JAqLT
         description: This addon streamlines the texture baking process in Blender.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: 3DXO
         url: https://www.3dxo.com
         description: Free 3D Models, seamless Textures, Backgrounds, Photos & Graphics.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Agama Materials
         url: https://agama.itch.io/agama-materials
         description: is software for creating PBR materials and painting 3d models. You can create materials and use them for painting models, or you can use pre-made textures.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Agisoft De-Lighter
         url: https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow
         description: is a free stand-alone tool designed to remove shadows from model textures. [!download](https://www.agisoft.com/downloads/installer/)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Architextures - Create
         url: https://architextures.org/create
         description: web app allows you to create seamless textures, bump maps and CAD hatches. Select any of the parameters to get started.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Sculpt Alphas Manager
         url: https://blenderartists.org/t/sculpt-alphas-manager/1200725
         description: This addon provides a simple solution to be able to quickly switch alpha textures for the sculpt brushes.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: C4DCenter
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+      - name: C4DCenter Material Library
         url: https://c4dcenter.com/material-library/
         description: Free C4D Materials created with High Quality Texture Maps for instant download and no limits, Free for Personal and Commercial Use.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: CC0 Textures
         url: https://cc0textures.com/
         description: Free PBR textures.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Celestia Motherlode
         url: http://www.celestiamotherlode.net/
         description: is a repository for various addons like textures, models or celestial objects.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
-      - name: Unreal Engine Documentation
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+      - name: 'Unreal Docs: Getting Started With Texture Graph'
         url: https://dev.epicgames.com/documentation/en-us/unreal-engine/getting-started-with-texture-graph-in-unreal-engine
         description: Unreal Engine Documentation.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Unreal Engine Learning
         url: https://dev.epicgames.com/community/learning/tutorials/z0VJ/unreal-engine-getting-started-with-texture-graph
         description: Unreal Engine Learning.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: NVIDIA Texture Tools Exporter
         url: https://developer.nvidia.com/nvidia-texture-tools-exporter
         description: Allows users to create highly compressed texture files (that stay small both on disk and in memory) directly from image sources using NVIDIA’s CUDA-accelerated Texture Tools compressor technology.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Texture Paint Manual.
         url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
         description: Texture Paint Manual..
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: SpriteDicing
         url: https://github.com/Elringus/SpriteDicing
         description: Unity extension for reusing sprite texture areas.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Unity Bitmap Drawing
         url: https://github.com/ProtoTurtle/UnityBitmapDrawing
         description: Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: U Texture Send Receive
         url: https://github.com/BarakChamo/uTextureSendReceive
         description: Unity network texture sender and receiver for video and frame streaming.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Unity Resource Checker
         url: https://github.com/handcircus/Unity-Resource-Checker
         description: Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: CropTexture
         url: https://github.com/natsupy/CropTexture
         description: Crop and resize texture in Unity editor!
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Unity Preview Generator
         url: https://github.com/klhurley/UnityPreviewGenerator
         description: Generates preview textures for sprites, icons of Unity models.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: TexturePanner
         url: https://github.com/AdultLink/TexturePanner
         description: This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: CurveTexture
         url: https://github.com/slipster216/CurveTexture
         description: Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Unity Texture Packer
         url: https://github.com/andydbc/unity-texture-packer
         description: Utility to combine color channels from different textures into a single output.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: WaveformProvider
         url: https://github.com/EsProgram/WaveformProvider
         description: Provide a texture to simulate waves with Unity.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Animation Texture Baker
         url: https://github.com/zulfajuniadi/Animation-Texture-Baker
         description: Bake Legacy Animations into Textures. Targeting ECS. (#ANIMATION)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: AudioTexture
         url: https://github.com/TyounanMOTI/AudioTexture
         description: Generate Unity Texture2D from AudioClip. (#AUDIO)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: UVPreview
         url: https://github.com/AsehesL/UVPreview
         description: Preview your UV islands in inspector window for your textures.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Poliigon Blender Addon
         url: https://help.poliigon.com/en/articles/6342599
         description: this addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating blender fi
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Game Texture Viewer
         url: https://jangafx.com/software/gametextureviewer/
         description: is a fast, reliable, and simple tool for
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: MaterialX Library
         url: https://matlib.gpuopen.com/main/materials/all
         description: AMD launched a free MaterialX-based Material Library. It allows users to download the materials and encourages them to upload their own.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: NASA 3 D Resources
         url: https://nasa3d.arc.nasa.gov/
         description: Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: TextureLab
         url: https://njbrown.itch.io/texturelab
         description: is a tool designed to make procedural texture generation.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: RenderHub/free
         url: https://www.renderhub.com/free-3d-models
         description: Daz Content, 3D models, textures and materials.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Solar Textures
         url: https://www.solarsystemscope.com/textures/
         description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: CGI Moon Kit
         url: https://svs.gsfc.nasa.gov/4720
-        description: ', [Moon 64k](https://gumroad.com/l/MOON_46K), [Earth 42k](https://gumroad.com/l/uHyhPT), [Natural Earth III](http://www.shadedrelief.com/natural3/pages/textures.html), [Planets Pack](https://gumroad.c'
+        description: '[Moon 64k](https://gumroad.com/l/MOON_46K), [Earth 42k](https://gumroad.com/l/uHyhPT), [Natural Earth III](http://www.shadedrelief.com/natural3/pages/textures.html)'
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Texture.Ninja
         url: https://texture.ninja/
         description: Public domain photographic textures, reference images, cutouts. (CC0)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Texture Fun
         url: https://texturefun.com/
         description: Free PBR texture sets of common architectural materials, including some nice tile textures.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: World Machine
         url: https://www.world-machine.com/
         description: Command powerful tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: ShaderExpo
         url: https://anuraghazra.github.io/ShaderExpo/
         description: Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Arroway Textures
         url: https://www.arroway-textures.ch/
         description: Digital textures for 3D rendering and real-time use.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Multitexturing using a Blendmap
         url: http://chinedufn.com/webgl-multitexture-blend-map-tutorial/
         description: How to use a blendmap to multitexture a terrain.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Custom shaders with Three.JS
         url: https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/
         description: Introduction to custom shaders, uniforms, textures and lighting in three.js.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: 'NeRF-Tex: Neural Reflectance Field Textures'
         url: https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/
-        description: ', Baatz et al., EGSR 2021 | [bibtex](./citations/nerf-tex.txt)'
+        description: Baatz et al., EGSR 2021 | [bibtex](./citations/nerf-tex.txt)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Texture3DPreview for Unity
         url: https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity
         description: This package enables interactive previews of Texture3D assets in Unity's Inspector window.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: EasyBake
         url: https://github.com/leukbaars/EasyBake
         description: Texture baking UI for Blender that lives in the 3D Viewport. Small but powerful! Fast one-click baking and iteration.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: PBR Texture Mapper
         url: https://github.com/jayanam/pbr_texture_mapper
         description: Create PBR node setup with one click.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Principled Baker
         url: https://github.com/danielenger/Principled-Baker
         description: Bake PBR textures with a few clicks.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: UcuPaint
         url: https://github.com/ucupumar/ucupaint
         description: A addon to manage texture layers for EEVEE and Cycles renderer.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: AwesomeBump
         url: https://github.com/kmkolasinski/AwesomeBump
         description: Generate normal, height, specular or ambient occlusion textures from a single image.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: Va Tex Atlas
         url: https://github.com/ufna/VaTexAtlas
         description: Simple way to use texture atlases for Unreal Engine 4 UMG
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
+          tech:
+            - opensource-alt
       - name: GLTF Report
         url: https://gltf.report
         description: Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: WebGL Texture Tester
         url: http://toji.github.io/texture-tester/
         description: Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
   - slug: textures-specialized
     title: Textures — Specialized
     description: 'Specialty texture sources: displacement, patterns, sprites, terrain.'
@@ -1679,6 +2277,7 @@ subsections:
           workflow:
             - sculpting
             - texturing
+            - material-authoring
           output:
             - film-vfx
         readme_tags:
@@ -1693,6 +2292,8 @@ subsections:
         tags:
           workflow:
             - reference
+            - texturing
+            - material-authoring
         readme_tags:
           - Natural Earth
           - Terrain
@@ -1707,6 +2308,10 @@ subsections:
           - Web Patterns
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Spriters Resource
         url: https://www.spriters-resource.com/
         description: Game sprite textures.
@@ -1714,6 +2319,9 @@ subsections:
         tags:
           output:
             - games
+          workflow:
+            - texturing
+            - material-authoring
         readme_tags:
           - Sprites
           - Game Rips
@@ -1726,6 +2334,9 @@ subsections:
         tags:
           output:
             - games
+          workflow:
+            - texturing
+            - material-authoring
         readme_tags:
           - 3D Game Rips
           - Reference
@@ -1745,6 +2356,9 @@ subsections:
           tech:
             - pbr
             - subscription
+          workflow:
+            - texturing
+            - material-authoring
         readme_tags:
           - PBR
           - Subscription
@@ -1761,6 +2375,7 @@ subsections:
             - pbr
           workflow:
             - texturing
+            - material-authoring
         readme_tags:
           - Scanned
           - Free with UE
@@ -1775,12 +2390,20 @@ subsections:
           - Pro Textures
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
       - name: Quixel
         url: https://quixel.com/megascans/home
         description: Realistic 3D scans of materials and objects.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - texturing
+            - material-authoring
   - slug: stock-images
     title: Stock Images & References
     description: Free and public-domain stock images, and 2D references.
@@ -1795,6 +2418,9 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Pexels
         url: https://www.pexels.com/
         description: Free stock photos and video.
@@ -1805,6 +2431,9 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Pixabay
         url: https://pixabay.com/
         description: Free stock media.
@@ -1815,6 +2444,9 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: All Free Download
         url: http://all-free-download.com/
         description: Free design downloads.
@@ -1825,6 +2457,9 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Neurascapes
         url: https://neurascapes.com/
         description: Free surreal/AI-generated reference imagery.
@@ -1835,6 +2470,9 @@ subsections:
           - Reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: PNG Images
         url: https://pngimg.com/
         description: Transparent PNG images.
@@ -1844,6 +2482,9 @@ subsections:
           - Cutouts
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Public Domain Review
         url: https://publicdomainreview.org/collections/images
         description: Public-domain image collections.
@@ -1854,6 +2495,9 @@ subsections:
           - Historical
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: David Rumsey Maps
         url: https://www.davidrumsey.com/view/past
         description: Historical maps archive.
@@ -1887,6 +2531,9 @@ subsections:
           - Blog
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: 50 Watts
         url: https://50watts.com/
         description: Illustration history archive.
@@ -1896,6 +2543,9 @@ subsections:
           - Historical
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: Settei Dreams
         url: https://setteidreams.net/
         description: Anime model sheets and settei archive.
@@ -1918,6 +2568,9 @@ subsections:
           - Reference
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
   - slug: stock-footage
     title: Stock Footage
     description: Free and archival video footage sources.
@@ -1932,6 +2585,9 @@ subsections:
           - Public Domain
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - reference
       - name: ActionVFX Practice
         url: https://www.actionvfx.com/practice-footage
         description: Free practice VFX footage.
@@ -1940,6 +2596,8 @@ subsections:
         tags:
           output:
             - film-vfx
+          workflow:
+            - reference
         readme_tags:
           - VFX Practice
           - Free
@@ -1953,6 +2611,8 @@ subsections:
         tags:
           output:
             - film-vfx
+          workflow:
+            - reference
         readme_tags:
           - VFX Footage
           - Free
@@ -1998,6 +2658,9 @@ subsections:
           - CC-licensed
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
       - name: ccMixter
         url: http://ccmixter.org/
         description: Creative Commons remix community.
@@ -2008,6 +2671,9 @@ subsections:
           - Community
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
       - name: Incompetech
         url: https://incompetech.com/
         description: Kevin MacLeod's royalty-free music.
@@ -2018,6 +2684,9 @@ subsections:
           - Kevin MacLeod
         url_last_verified: '2026-04-19'
         url_status: unreachable
+        tags:
+          workflow:
+            - audio-design
       - name: Sonniss
         url: https://sonniss.com/
         description: SFX library. Releases massive annual free bundles.
@@ -2041,6 +2710,9 @@ subsections:
           - Motion Array
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
       - name: Ende
         url: https://ende.app/en
         description: Curated free audio library.
@@ -2051,6 +2723,9 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
       - name: Moby Gratis
         url: https://mobygratis.com/
         description: Free Moby music for indie creators.
@@ -2061,6 +2736,9 @@ subsections:
           - Indie Use
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
       - name: ZapSplat
         url: https://www.zapsplat.com/
         description: Large free SFX library.
@@ -2087,6 +2765,9 @@ subsections:
           - Freemium
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
       - name: Artlist
         url: https://artlist.io/
         description: Subscription music and SFX.
@@ -2095,6 +2776,8 @@ subsections:
         tags:
           tech:
             - subscription
+          workflow:
+            - audio-design
         readme_tags:
           - Subscription
           - Music + SFX
@@ -2123,18 +2806,31 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
       - name: USFXR
         url: https://github.com/zeh/usfxr
         description: A C# library used to generate and play game-like procedural audio effects inside Unity.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
+          tech:
+            - opensource-alt
       - name: Freesound Add-on
         url: https://github.com/iwkse/freesound/tree/freesound-2.0
         description: is an addon for Blender that allows users to create and edit subtitles for movies or music.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
+          tech:
+            - opensource-alt
   - slug: reel-music
     title: Reel Music
     description: Music often used in demo reels and reference tracks.
@@ -2148,6 +2844,11 @@ subsections:
           - Reel Favorite
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
+          platform:
+            - web
       - name: Kurzgesagt Music
         url: https://thomasveith.bandcamp.com/music
         description: Thomas Veith's Kurzgesagt scores.
@@ -2157,6 +2858,9 @@ subsections:
           - Atmospheric
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
       - name: C2Cdjsofficial
         url: https://www.youtube.com/@C2Cdjsofficial
         description: Classic lo-fi reel track.
@@ -2166,6 +2870,11 @@ subsections:
           - Classic
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
+          platform:
+            - web
       - name: fcommunications
         url: https://www.youtube.com/@fcommunications
         description: Electronic reel favorite.
@@ -2175,6 +2884,11 @@ subsections:
           - Reel Favorite
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
+          platform:
+            - web
       - name: Trap Nation
         url: https://www.youtube.com/@TrapNation
         description: Popular reel music.
@@ -2184,6 +2898,11 @@ subsections:
           - Vocal
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          workflow:
+            - audio-design
+          platform:
+            - web
   - slug: fonts
     title: Fonts
     description: Font libraries, pairing tools, and type references.
@@ -2198,6 +2917,10 @@ subsections:
           - Free
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: FontPair
         url: https://fontpair.co/
         description: Font pairing inspiration.
@@ -2207,6 +2930,10 @@ subsections:
           - Inspiration
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: Lilex
         url: https://lilex.myrt.co/
         description: Programming font with ligatures.
@@ -2217,6 +2944,12 @@ subsections:
           - Ligatures
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: Usable Google Fonts (Figma)
         url: https://www.figma.com/community/file/1535264485426732629/usable-google-fonts
         description: Curated Figma set of usable Google Fonts.
@@ -2227,6 +2960,10 @@ subsections:
           - Google Fonts
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: How to Proof a Typeface
         url: https://jonathanhoefler.com/articles/how-to-proof-a-typeface
         description: Jonathan Hoefler's proofing guide.
@@ -2236,6 +2973,10 @@ subsections:
           - Hoefler
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: FontLab 8
         url: https://www.fontlab.com/font-editor/fontlab/
         description: Professional font editor.
@@ -2246,6 +2987,9 @@ subsections:
           platform:
             - win
             - mac
+          output:
+            - motion-graphics
+            - illustration
         readme_tags:
           - Font Editor
           - Pro
@@ -2257,66 +3001,124 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: Unity BitmapFontImporter
         url: https://github.com/litefeel/Unity-BitmapFontImporter
         description: An Unity editor extension for bitmap font.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: Unity Stb Easy Font
         url: https://github.com/aras-p/UnityStbEasyFont
         description: A port of stb_easy_font.h to Unity/C#.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: typicons.font
         url: http://s-ings.com/typicons/
         description: 336 pixel perfect, all-purpose vector icons in a web-font kit
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: Typewriter
         url: https://github.com/doakey3/blender-typewriter-addon
         description: Typewriter text animation for font objects.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: FontSelector
         url: https://github.com/samytichadou/FontSelector_blender_addon/
         description: Easy font management inside Blender.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: Roboto
         url: https://github.com/google/roboto
         description: Default font on Android & ChromeOS, and the recommended typeface for Material Design
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: emojillate
         url: https://github.com/notwaldorf/emojillate
         description: Pixellate an image into emoji
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: Material design icons
         url: https://github.com/google/material-design-icons
         description: Official icon set from Google
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: bitmap font renderer
         url: https://jmickle66666666.github.io/blog/techart/2019/12/18/bitmap-font-renderer.html
         description: bitmap font renderer.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: Word-As-Image for Semantic Typography
         url: https://wordasimage.github.io/Word-As-Image-Page/
         description: semantically transforming fonts into illustrations
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
   - slug: icons
     title: Icons
     description: Icon libraries and animation sets.
@@ -2331,6 +3133,10 @@ subsections:
           - Freemium
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: SVGL
         url: https://svgl.app/
         description: Brand logos in SVG.
@@ -2341,6 +3147,10 @@ subsections:
           - SVG
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: Icons8 Glyph
         url: https://icons8.com/l/glyph/
         description: Glyph-style icon set.
@@ -2350,6 +3160,10 @@ subsections:
           - Varied
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: Lucide
         url: https://lucide.dev/
         description: Open-source icon library.
@@ -2360,6 +3174,12 @@ subsections:
           - Modern
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: Lucide Animated
         url: https://lucide-animated.com/
         description: Animated version of Lucide icons.
@@ -2369,6 +3189,10 @@ subsections:
           - Lucide
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: Tabler Icons
         url: https://tablericons.com/
         description: Open-source SVG icons.
@@ -2379,6 +3203,12 @@ subsections:
           - SVG
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: Font Awesome
         url: https://fontawesome.com/
         description: Classic icon font library.
@@ -2389,6 +3219,10 @@ subsections:
           - Icon Font
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: MDI Icons
         url: https://pictogrammers.com/library/mdi/icon/
         description: Material Design Icons, huge set.
@@ -2399,6 +3233,12 @@ subsections:
           - Huge Set
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
+          tech:
+            - opensource-alt
       - name: Game Icons
         url: https://game-icons.net/
         description: 4000+ SVG game icons.
@@ -2407,6 +3247,8 @@ subsections:
         tags:
           output:
             - games
+            - motion-graphics
+            - illustration
         readme_tags:
           - Game-themed
           - 4000+
@@ -2421,6 +3263,10 @@ subsections:
           - Web UI
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
       - name: Handy Arrows
         url: https://handyarrows.com/
         description: Hand-drawn arrow sets.
@@ -2430,6 +3276,10 @@ subsections:
           - Arrows
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - motion-graphics
+            - illustration
   - slug: game-assets
     title: Game Assets
     description: Free and paid game-ready asset sources. Cross-listed from §7.
@@ -2549,6 +3399,9 @@ subsections:
           - Periodic Deals
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
       - name: Free Game Assets
         url: https://www.freegameassets.com/
         description: Curated free 2D/3D/audio assets.
@@ -2568,18 +3421,29 @@ subsections:
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
       - name: Liberated Pixel Cup assets
         url: http://lpc.opengameart.org
         description: Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
       - name: Tilemancer
         url: https://led.itch.io/tilemancer
         description: A quick procedural tile creator designed for pixel-art games.
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
       - name: GameArt2D
         url: https://www.gameart2d.com/freebies.html
         description: Free 2D game art pack collection.
@@ -2650,9 +3514,17 @@ subsections:
         entry_type: asset-source
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
       - name: UAssetAPI
         url: https://github.com/atenfyr/UAssetAPI
         description: A low-level .NET library for reading and writing Unreal Engine 4 game assets.
         entry_type: tool
         url_last_verified: '2026-04-19'
         url_status: ok
+        tags:
+          output:
+            - games
+          tech:
+            - opensource-alt
