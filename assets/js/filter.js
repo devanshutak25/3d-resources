@@ -217,6 +217,8 @@
     hideEmptySections();
     const counter = document.getElementById('filter-count');
     if (counter) counter.textContent = `${visibleCount} / ${itemIndex.length}`;
+    const toggle = document.getElementById('filter-toggle');
+    if (toggle && toggle._setIcon) toggle._setIcon();
   }
 
   function makeChip(group, value, label) {
@@ -256,8 +258,14 @@
     toggle.setAttribute('aria-label', 'Toggle filter bar');
     toggle.setAttribute('title', 'Toggle filters');
     const setToggleIcon = () => {
-      toggle.textContent = bar.classList.contains('collapsed') ? '⚲' : '×';
+      const collapsed = bar.classList.contains('collapsed');
+      const hasFilters = anyFilterActive();
+      let name;
+      if (collapsed) name = hasFilters ? 'filter-menu' : 'filter-menu-outline';
+      else name = hasFilters ? 'filter' : 'filter-outline';
+      toggle.innerHTML = `<i class="mdi mdi-${name}" aria-hidden="true"></i>`;
     };
+    toggle._setIcon = setToggleIcon;
     toggle.addEventListener('click', () => {
       const collapsed = !bar.classList.contains('collapsed');
       bar.classList.toggle('collapsed', collapsed);
@@ -390,11 +398,54 @@
     }
   }
 
+  function findPrevH2(el) {
+    let p = el.previousElementSibling;
+    while (p) {
+      if (p.tagName === 'H2') return p;
+      p = p.previousElementSibling;
+    }
+    return null;
+  }
+
+  function expandHeading(h) {
+    if (!h) return;
+    if (h.hasAttribute('data-collapsed')) {
+      setCollapsed(h, false);
+      h.setAttribute('aria-expanded', 'true');
+    }
+  }
+
+  function setupTocClickHandler() {
+    const contents = document.getElementById('contents');
+    if (!contents) return;
+    let n = contents.nextElementSibling;
+    while (n && n.tagName !== 'H2') {
+      if (n.tagName === 'DETAILS') {
+        n.addEventListener('click', (ev) => {
+          const a = ev.target.closest && ev.target.closest('a[href^="#"]');
+          if (!a || !n.contains(a)) return;
+          const id = decodeURIComponent(a.getAttribute('href').slice(1));
+          const target = document.getElementById(id);
+          if (!target) return;
+          ev.preventDefault();
+          if (target.tagName === 'H3') expandHeading(findPrevH2(target));
+          expandHeading(target);
+          history.pushState(null, '', '#' + id);
+          requestAnimationFrame(() => {
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
+        });
+      }
+      n = n.nextElementSibling;
+    }
+  }
+
   function init(data) {
     mainEl = document.querySelector('main') || document.body;
     decorate(data);
     buildUI();
     setupCollapsibleHeadings();
+    setupTocClickHandler();
   }
 
   if (document.readyState === 'loading') {
