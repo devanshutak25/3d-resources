@@ -435,28 +435,57 @@
     }
   }
 
+  function smoothScrollTo(targetY, duration) {
+    const startY = window.pageYOffset;
+    const delta = targetY - startY;
+    if (Math.abs(delta) < 2) { window.scrollTo(0, targetY); return; }
+    const d = duration || Math.min(800, 250 + Math.abs(delta) * 0.4);
+    const t0 = performance.now();
+    const ease = (t) => 1 - Math.pow(1 - t, 3); // easeOutCubic
+    let cancelled = false;
+    const onWheel = () => { cancelled = true; };
+    window.addEventListener('wheel', onWheel, { passive: true, once: true });
+    window.addEventListener('touchstart', onWheel, { passive: true, once: true });
+    function step(now) {
+      if (cancelled) {
+        window.removeEventListener('wheel', onWheel);
+        window.removeEventListener('touchstart', onWheel);
+        return;
+      }
+      const t = Math.min(1, (now - t0) / d);
+      window.scrollTo(0, startY + delta * ease(t));
+      if (t < 1) requestAnimationFrame(step);
+      else {
+        window.removeEventListener('wheel', onWheel);
+        window.removeEventListener('touchstart', onWheel);
+      }
+    }
+    requestAnimationFrame(step);
+  }
+
   function setupTocClickHandler() {
     const contents = document.getElementById('contents');
     if (!contents) return;
-    let n = contents.nextElementSibling;
-    while (n && n.tagName !== 'H2') {
-      if (n.tagName === 'DETAILS') {
-        n.addEventListener('click', (ev) => {
-          const a = ev.target.closest && ev.target.closest('a[href^="#"]');
-          if (!a || !n.contains(a)) return;
-          const id = decodeURIComponent(a.getAttribute('href').slice(1));
-          const target = document.getElementById(id);
-          if (!target) return;
-          ev.preventDefault();
-          if (target.tagName === 'H3') expandHeading(findPrevH2(target));
-          expandHeading(target);
-          history.pushState(null, '', '#' + id);
+    for (let n = contents.nextElementSibling; n && n.tagName !== 'H2'; n = n.nextElementSibling) {
+      if (n.tagName !== 'DETAILS') continue;
+      const details = n;
+      details.addEventListener('click', (ev) => {
+        const a = ev.target.closest && ev.target.closest('a[href^="#"]');
+        if (!a || !details.contains(a)) return;
+        const id = decodeURIComponent(a.getAttribute('href').slice(1));
+        const target = document.getElementById(id);
+        if (!target) return;
+        ev.preventDefault();
+        if (target.tagName === 'H3') expandHeading(findPrevH2(target));
+        expandHeading(target);
+        history.pushState(null, '', '#' + id);
+        requestAnimationFrame(() => {
           requestAnimationFrame(() => {
-            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            const top = target.getBoundingClientRect().top + window.pageYOffset - 8;
+            smoothScrollTo(top);
           });
         });
-      }
-      n = n.nextElementSibling;
+      });
     }
   }
 
