@@ -5,7 +5,7 @@
   background: var(--bg-secondary);
   border: 1px solid var(--border);
   border-radius: 8px;
-  padding: 0.75rem 1rem;
+  padding: 0.75rem 1rem 0.85rem;
   margin: 0 0 2rem 0;
   z-index: 100;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
@@ -21,16 +21,22 @@
   justify-content: flex-end;
   pointer-events: none;
 }
-#filter-bar.collapsed > :not(#filter-toggle) { display: none !important; }
-#filter-bar.collapsed #filter-toggle {
+#filter-bar.collapsed > :not(.filter-header) { display: none !important; }
+#filter-bar.collapsed .filter-header > .filter-title { display: none; }
+#filter-bar.collapsed .filter-header {
+  margin: 0;
   pointer-events: auto;
   position: sticky;
   top: 0.5rem;
 }
+.filter-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.6rem;
+}
 #filter-toggle {
-  position: absolute;
-  top: 0.5rem;
-  right: 0.5rem;
   background: var(--bg-tertiary);
   color: var(--text-muted);
   border: 1px solid var(--border);
@@ -41,14 +47,13 @@
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1;
   padding: 0;
-  z-index: 1;
+  flex-shrink: 0;
 }
 #filter-toggle:hover { color: var(--text); border-color: var(--accent); }
 #filter-bar.collapsed #filter-toggle {
-  position: static;
   background: var(--bg-secondary);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
 }
@@ -58,13 +63,12 @@
   color: var(--text);
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  margin-bottom: 0.5rem;
 }
 .filter-top {
   display: flex;
   gap: 0.75rem;
   align-items: center;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
 }
 #filter-search {
   flex: 1;
@@ -94,18 +98,28 @@
 }
 #filter-clear:hover { color: var(--text); border-color: var(--accent); }
 .filter-row {
+  display: grid;
+  grid-template-columns: 6.5rem 1fr;
+  align-items: start;
+  gap: 0.5rem 0.75rem;
+  margin: 0.5rem 0;
+}
+.filter-row > .filter-chip {
+  /* chips live in the second column — wrap them in an inline group */
+}
+.filter-row .filter-chips {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   gap: 0.35rem;
-  margin: 0.4rem 0;
 }
 .filter-label {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   color: var(--text-subtle);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
-  min-width: 5.5rem;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  padding-top: 0.25rem;
+  line-height: 1.4;
 }
 .filter-chip {
   background: var(--bg-tertiary);
@@ -127,10 +141,11 @@
   border-color: var(--accent);
 }
 .filter-more {
-  margin-top: 0.5rem;
+  margin-top: 0.75rem;
   border-top: 1px solid var(--border);
-  padding-top: 0.5rem;
+  padding-top: 0.6rem;
 }
+.filter-more[open] { padding-bottom: 0.25rem; }
 .filter-more summary {
   color: var(--text-muted);
   font-size: 0.85rem;

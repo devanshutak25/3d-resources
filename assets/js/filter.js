@@ -5,7 +5,7 @@
   'use strict';
 
   const DATA_URL = '/data.json';
-  const EXCLUDED_H2_IDS = new Set(['contents', 'contributing', 'footnotes']);
+  const EXCLUDED_H2_IDS = new Set(['contents', 'contributing', 'footnotes', 'attribution']);
 
   const CATEGORY_OPTIONS = [
     'assets-libraries', 'modeling-sculpting-texturing', 'animation-rigging',
@@ -31,7 +31,20 @@
   const PLATFORM_OPTIONS = ['win', 'mac', 'linux', 'web', 'ios', 'ipad', 'android', 'cloud'];
   const PLATFORM_LABELS = { win: 'Windows', mac: 'macOS', linux: 'Linux', web: 'Web', ios: 'iOS', ipad: 'iPad', android: 'Android', cloud: 'Cloud' };
   const WORKFLOW_OPTIONS = ['modeling', 'sculpting', 'retopo', 'uv', 'texturing', 'material-authoring', 'rigging', 'animation', 'mocap', 'simulation', 'fx', 'lighting', 'rendering', 'compositing', 'editing', 'audio-design'];
+  const WORKFLOW_LABELS = {
+    'modeling': 'Modeling', 'sculpting': 'Sculpting', 'retopo': 'Retopo', 'uv': 'UV',
+    'texturing': 'Texturing', 'material-authoring': 'Material Authoring',
+    'rigging': 'Rigging', 'animation': 'Animation', 'mocap': 'MoCap',
+    'simulation': 'Simulation', 'fx': 'FX', 'lighting': 'Lighting',
+    'rendering': 'Rendering', 'compositing': 'Compositing',
+    'editing': 'Editing', 'audio-design': 'Audio Design'
+  };
   const OUTPUT_OPTIONS = ['games', 'film-vfx', 'broadcast', 'archviz', 'product-viz', 'motion-graphics', 'illustration', 'xr'];
+  const OUTPUT_LABELS = {
+    'games': 'Games', 'film-vfx': 'Film & VFX', 'broadcast': 'Broadcast',
+    'archviz': 'ArchViz', 'product-viz': 'Product Viz',
+    'motion-graphics': 'Motion Graphics', 'illustration': 'Illustration', 'xr': 'XR'
+  };
 
   const active = {
     search: '',
@@ -244,13 +257,24 @@
     lab.className = 'filter-label';
     lab.textContent = label;
     row.appendChild(lab);
-    for (const v of options) row.appendChild(makeChip(group, v, labelMap ? labelMap[v] : v));
+    const chips = document.createElement('div');
+    chips.className = 'filter-chips';
+    for (const v of options) chips.appendChild(makeChip(group, v, labelMap ? labelMap[v] : v));
+    row.appendChild(chips);
     bar.appendChild(row);
   }
 
   function buildUI() {
     const bar = document.createElement('div');
     bar.id = 'filter-bar';
+
+    const header = document.createElement('div');
+    header.className = 'filter-header';
+
+    const title = document.createElement('div');
+    title.className = 'filter-title';
+    title.textContent = 'Filter';
+    header.appendChild(title);
 
     const toggle = document.createElement('button');
     toggle.id = 'filter-toggle';
@@ -272,12 +296,8 @@
       try { localStorage.setItem('filter-collapsed', collapsed ? '1' : '0'); } catch (e) {}
       setToggleIcon();
     });
-    bar.appendChild(toggle);
-
-    const title = document.createElement('div');
-    title.className = 'filter-title';
-    title.textContent = 'Filter';
-    bar.appendChild(title);
+    header.appendChild(toggle);
+    bar.appendChild(header);
 
     const top = document.createElement('div');
     top.className = 'filter-top';
@@ -323,14 +343,14 @@
     const more = document.createElement('details');
     more.className = 'filter-more';
     const summary = document.createElement('summary');
-    summary.textContent = 'More filters (license, platform, workflow, output)';
+    summary.textContent = 'More filters';
     more.appendChild(summary);
     const moreBody = document.createElement('div');
     more.appendChild(moreBody);
     makeGroup(moreBody, 'License', 'license', LICENSE_OPTIONS);
     makeGroup(moreBody, 'Platform', 'platform', PLATFORM_OPTIONS, PLATFORM_LABELS);
-    makeGroup(moreBody, 'Workflow', 'workflow', WORKFLOW_OPTIONS);
-    makeGroup(moreBody, 'Output', 'output', OUTPUT_OPTIONS);
+    makeGroup(moreBody, 'Workflow', 'workflow', WORKFLOW_OPTIONS, WORKFLOW_LABELS);
+    makeGroup(moreBody, 'Output', 'output', OUTPUT_OPTIONS, OUTPUT_LABELS);
     bar.appendChild(more);
 
     // Insert right before the "Contents" heading (so at rest, bar sits above ToC, below intro).

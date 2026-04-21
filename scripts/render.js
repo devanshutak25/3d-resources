@@ -127,15 +127,52 @@ function renderSection(section) {
   return lines.join('\n');
 }
 
+function buildAwesomeList() {
+  const dir = path.join(__dirname, '..', '_maintenance', 'awesome-mining');
+  if (!fs.existsSync(dir)) return [];
+  const files = fs.readdirSync(dir).filter(f => f.endsWith('.md')).sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
+  return files.map(f => {
+    const name = f.replace(/\.md$/, '');
+    const i = name.indexOf('_');
+    const owner = name.slice(0, i);
+    const repo = name.slice(i + 1);
+    return `- [${owner}/${repo}](https://github.com/${owner}/${repo})`;
+  });
+}
+
 function footer() {
+  const awesome = buildAwesomeList();
   return [
     '## Contributing',
     '',
     '[Contributions welcome!](contributing.md) Please read the guidelines before submitting a pull request.',
     '',
-    '## Footnotes',
+    '## Attribution',
     '',
-    'Original curation + [Houdini Nerd](https://discord.gg/E9zA9Ft) (Christopher Rutledge) + [Best 3D Resources](https://annethai.notion.site/) (Anne Thai) + community contributions.',
+    '<details>',
+    '<summary>Sources & contributors</summary>',
+    '',
+    'Curated by [Devanshu Tak](https://devanshutak.xyz).',
+    '',
+    'Built with help from:',
+    '',
+    '- [Houdini Nerd](https://discord.gg/E9zA9Ft) — Christopher Rutledge',
+    '- [Best 3D Resources](https://annethai.notion.site/) — Anne Thai',
+    '- Community contributions via [GitHub](https://github.com/devanshutak25/3d-resources)',
+    '- Compiled with the help of [Claude Code](https://claude.com/claude-code)',
+    '',
+    '**Automated ingest sources:**',
+    '',
+    '- [80 Level](https://80.lv)',
+    '- [Gumroad](https://gumroad.com)',
+    '- [itch.io](https://itch.io)',
+    '- YouTube channels & playlists',
+    '',
+    `**GitHub awesome-lists mined (${awesome.length}):**`,
+    '',
+    ...awesome,
+    '',
+    '</details>',
     ''
   ].join('\n');
 }
