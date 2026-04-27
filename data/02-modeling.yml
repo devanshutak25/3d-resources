@@ -2091,6 +2091,21 @@ subsections:
         tags:
           platform:
             - web
+      - name: VEX Manager
+        url: https://shirmanor.gumroad.com/l/vex_manager_v1
+        description: VEX snippet/code manager HDA by Shir Manor. Also listed under Houdini — Plugins & Tools.
+        license: Paid
+        entry_type: plugin
+        readme_tags:
+          - VEX
+          - Snippets
+          - Shir Manor
+        tags:
+          tech:
+            - houdini-addon
+          workflow:
+            - vex
+            - coding
   - slug: houdini-fx-simulations
     title: Houdini — FX & Simulations
     description: Vellum, FLIP, Pyro, and other simulation workflows.
@@ -2556,6 +2571,50 @@ subsections:
         tags:
           tech:
             - houdini-addon
+      - name: TrembleFX
+        url: https://shirmanor.gumroad.com/l/TrembleFX
+        description: Procedural noise generator HDA by Shir Manor.
+        license: Paid
+        entry_type: plugin
+        readme_tags:
+          - Noise
+          - FX
+          - Shir Manor
+        tags:
+          tech:
+            - houdini-addon
+          workflow:
+            - fx
+      - name: CamRig Pro
+        url: https://shirmanor.gumroad.com/l/camrigpro
+        description: Camera rigging tool HDA by Shir Manor.
+        license: Paid
+        entry_type: plugin
+        readme_tags:
+          - Camera Rig
+          - Animation
+          - Shir Manor
+        tags:
+          tech:
+            - houdini-addon
+          workflow:
+            - animation
+            - camera
+      - name: VEX Manager
+        url: https://shirmanor.gumroad.com/l/vex_manager_v1
+        description: VEX snippet/code manager HDA by Shir Manor. Also listed under Houdini — VEX & Coding.
+        license: Paid
+        entry_type: plugin
+        readme_tags:
+          - VEX
+          - Snippets
+          - Shir Manor
+        tags:
+          tech:
+            - houdini-addon
+          workflow:
+            - vex
+            - coding
   - slug: houdini-courses-rebelway
     title: Houdini — Courses & Free Content
     description: Structured courses for Houdini.
