@@ -2098,14 +2098,10 @@ subsections:
         entry_type: plugin
         readme_tags:
           - VEX
-          - Snippets
           - Shir Manor
         tags:
           tech:
             - houdini-addon
-          workflow:
-            - vex
-            - coding
   - slug: houdini-fx-simulations
     title: Houdini — FX & Simulations
     description: Vellum, FLIP, Pyro, and other simulation workflows.
@@ -2577,7 +2573,6 @@ subsections:
         license: Paid
         entry_type: plugin
         readme_tags:
-          - Noise
           - FX
           - Shir Manor
         tags:
@@ -2592,14 +2587,12 @@ subsections:
         entry_type: plugin
         readme_tags:
           - Camera Rig
-          - Animation
           - Shir Manor
         tags:
           tech:
             - houdini-addon
           workflow:
             - animation
-            - camera
       - name: VEX Manager
         url: https://shirmanor.gumroad.com/l/vex_manager_v1
         description: VEX snippet/code manager HDA by Shir Manor. Also listed under Houdini — VEX & Coding.
@@ -2607,14 +2600,10 @@ subsections:
         entry_type: plugin
         readme_tags:
           - VEX
-          - Snippets
           - Shir Manor
         tags:
           tech:
             - houdini-addon
-          workflow:
-            - vex
-            - coding
   - slug: houdini-courses-rebelway
     title: Houdini — Courses & Free Content
     description: Structured courses for Houdini.
