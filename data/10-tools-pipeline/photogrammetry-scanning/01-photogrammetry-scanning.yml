@@ -1,0 +1,741 @@
+entries:
+  - name: Meshroom (AliceVision)
+    url: https://alicevision.org/#meshroom
+    description: Free, open-source photogrammetry. Node-based, GPU-accelerated.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source photogrammetry
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - photogrammetry
+        - node-based
+        - gpu
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Node-based
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: RealityCapture
+    url: https://www.capturingreality.com/
+    description: Fast, high-quality photogrammetry (now Epic Games). PPI pricing.
+    license: Freemium
+    entry_type: software
+    best_for: Production photogrammetry
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Epic Games
+      - High-Quality
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Agisoft Metashape
+    url: https://www.agisoft.com/
+    description: Professional photogrammetry with GIS features.
+    license: Paid
+    entry_type: software
+    best_for: Pro photogrammetry + GIS
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - GIS Features
+      - Pro
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Polycam
+    url: https://poly.cam/
+    description: Mobile photogrammetry (iOS LiDAR + photo, Android photo). Cloud processing.
+    license: Freemium
+    entry_type: software
+    best_for: Mobile photogrammetry
+    tags:
+      platform:
+        - ios
+        - android
+        - cloud
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Mobile
+      - LiDAR
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: KIRI Engine
+    url: https://www.kiriengine.com/
+    description: Cross-platform mobile photogrammetry.
+    license: Freemium
+    entry_type: software
+    best_for: Cross-platform mobile photogrammetry
+    tags:
+      platform:
+        - ios
+        - android
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Cross-platform
+      - Mobile
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: 3DF Zephyr
+    url: https://www.3dflow.net/3df-zephyr-photogrammetry-software/
+    description: Free lite version (up to 50 photos).
+    license: Freemium
+    entry_type: software
+    best_for: Lite photogrammetry
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Free Lite
+      - 50 Photos
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Scaniverse (Niantic)
+    url: https://scaniverse.com/
+    description: Free mobile scanning, Gaussian splat support.
+    license: Free
+    entry_type: software
+    best_for: Mobile scan, Gaussian splat
+    tags:
+      platform:
+        - ios
+        - android
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    readme_tags:
+      - Free Mobile
+      - Gaussian Splat
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Postshot
+    url: https://www.jawset.com/
+    description: Desktop Gaussian Splatting tool. Train, clean, edit, export.
+    license: Freemium
+    entry_type: software
+    best_for: Desktop Gaussian splat
+    tags:
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+    readme_tags:
+      - Desktop
+      - Splat Editor
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: CloudCompare
+    url: https://www.danielgm.net/cc/
+    description: A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a
+    license: Open Source
+    entry_type: software
+    best_for: Point cloud and mesh processing
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Point Cloud
+  - name: SuperSplat
+    url: https://github.com/playcanvas/supersplat
+    description: A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
+    license: Open Source
+    entry_type: tool
+    best_for: Browser splat editor
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - opensource-alt
+    readme_tags:
+      - Browser
+      - Splat Editor
+  - name: Open Scan Tools
+    url: https://openscantools.com/
+    description: A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source scan toolkit
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Toolkit
+  - name: Meshroom
+    url: https://github.com/alicevision/meshroom
+    description: 3D Reconstruction Software.
+    license: Open Source
+    entry_type: reference
+    best_for: Meshroom source repo
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - GitHub
+      - Open Source
+  - name: PCL (Point Cloud Library)
+    url: https://pointclouds.org/
+    description: Large-scale open project for 2D/3D image and point cloud processing.
+    entry_type: software
+    license: Open Source
+    best_for: Point cloud processing
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Point Clouds
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Polyscope
+    url: https://github.com/nmwsharp/polyscope
+    description: A C++ & Python viewer for 3D data like meshes and point clouds.
+    license: Open Source
+    entry_type: tool
+    best_for: Mesh/point cloud viewer
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Viewer
+      - Open Source
+  - name: Quixel Megascans
+    url: https://quixel.com/megascans/library/
+    description: World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects).
+    license: Free
+    entry_type: software
+    best_for: Photogrammetry asset library
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Asset Library
+      - Epic Games
+  - name: 3DF Zephyr Free
+    url: https://www.3dflow.net/3df-zephyr-free/
+    description: Free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations.
+    license: Free
+    entry_type: software
+    best_for: Free photogrammetry
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Free
+      - Personal Use
+  - name: 3D Neural Scene Representations for Visuomotor Control
+    url: https://3d-representation-learning.github.io/nerf-dy/
+    description: Li et al., CoRL 2021 Oral | [bibtex](./citations/nerf-dy.txt)
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - NeRF
+  - name: 'Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis'
+    url: https://www.ajayj.com/dietnerf
+    description: Matthew Tancik et al., Arxiv 2021 | [bibtex](./citations/DietNeRF.txt)
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - NeRF
+  - name: 'D-NeRF: Neural Radiance Fields for Dynamic Scenes'
+    url: https://www.albertpumarola.com/research/D-NeRF/index.html
+    description: Pumarola et al., CVPR 2021 | [github](https://github.com/albertpumarola/D-NeRF) | [bibtex](./NeRF-and-Beyond.bib#L214-L220) <!---Pumarola20arxiv_D_NeRF-->
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - NeRF
+  - name: 'MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo'
+    url: https://apchenstu.github.io/mvsnerf/
+    description: Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf) | [bibtex](./citations/mvsnerf.txt)
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - NeRF
+  - name: Gaussian Splatting is pretty cool
+    url: https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/
+    description: Gaussian Splatting is pretty cool.
+    license: Free
+    entry_type: reference
+    best_for: Gaussian splat blog post
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Blog
+      - Gaussian Splat
+  - name: Making Gaussian Splats smaller
+    url: https://aras-p.info/blog/2023/09/13/Making-Gaussian-Splats-smaller/
+    description: Making Gaussian Splats smaller.
+    license: Free
+    entry_type: reference
+    best_for: Gaussian splat blog post
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Blog
+      - Optimization
+  - name: Making Gaussian Splats more smaller
+    url: https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/
+    description: Making Gaussian Splats more smaller.
+    license: Free
+    entry_type: reference
+    best_for: Gaussian splat blog post
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Blog
+      - Optimization
+  - name: Compressing Gaussian Splats
+    url: https://blog.playcanvas.com/compressing-gaussian-splats/
+    description: Compressing Gaussian Splats.
+    license: Free
+    entry_type: reference
+    best_for: Gaussian splat blog post
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Blog
+      - Compression
+  - name: 'NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images'
+    url: https://bmild.github.io/rawnerf/
+    description: Ben Mildenhall et al, arXiv 2021 | [bibtex](./citations/rawnerf.txt)
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - HDR
+  - name: 'CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields'
+    url: https://cassiepython.github.io/clipnerf/
+    description: Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF)  | [bibtex](./citations/clipnerf.txt)
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - NeRF
+  - name: '3D in Geospatial: NeRFs, Gaussian Splatting, and Spatial Computing'
+    url: https://ckoziol.com/blog/2024/radiance_methods/
+    description: '3D in Geospatial: NeRFs, Gaussian Splatting, and Spatial Computing.'
+    license: Free
+    entry_type: reference
+    best_for: Geospatial radiance methods overview
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - gaussian-splatting
+    readme_tags:
+      - Blog
+      - Geospatial
+  - name: 'AutoInt: Automatic Integration for Fast Neural Volume Rendering'
+    url: http://www.computationalimaging.org/publications/automatic-integration/
+    description: Lindell et al., CVPR 2021 | [github](https://github.com/computational-imaging/automatic-integration) | [bibtex](./NeRF-and-Beyond.bib#L127-L133) <!---Lindell20arxiv_AutoInt-->
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - NeRF
+  - name: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes
+    url: http://www.cs.cornell.edu/~zl548/NSFF/
+    description: Li et al., CVPR 2021 | [github](https://github.com/zhengqili/Neural-Scene-Flow-Fields) | [bibtex](./NeRF-and-Beyond.bib#L119-L125) <!---Li20arxiv_nsff-->
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - NeRF
+  - name: 'DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks'
+    url: https://depthoraclenerf.github.io/
+    description: Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF) | [bibtex](./citations/donerf.txt) <!---neff2021donerf-->
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - NeRF
+  - name: 'DFNet: Enhance Absolute Pose Regression with Direct Feature Matching'
+    url: https://dfnet.active.vision/
+    description: Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/dfnet.txt)
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - Pose
+  - name: Editing Conditional Radiance Fields
+    url: http://editnerf.csail.mit.edu/
+    description: Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf) | [bibtex](./citations/editnerf.txt)
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - Editing
+  - name: 'FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling'
+    url: https://fig-nerf.github.io/
+    description: Xie et al., Arxiv 2021 | [bibtex](./citations/fig-nerf.txt)
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - NeRF
+  - name: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction
+    url: https://gafniguy.github.io/4D-Facial-Avatars/
+    description: Gafni et al., CVPR 2021 | [github](https://github.com/gafniguy/4D-Facial-Avatars) | [bibtex](./NeRF-and-Beyond.bib#L87-L93) <!---Gafni20arxiv_DNRF-->
+    license: Free
+    entry_type: reference
+    best_for: NeRF research paper
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+    readme_tags:
+      - Paper
+      - Avatar
+  - name: Photogrammetry Importer
+    url: https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer
+    description: Addon to import different photogrammetry formats into Blender.
+    license: Open Source
+    entry_type: reference
+    best_for: Blender photogrammetry import
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Blender Addon
+      - Open Source
+  - name: Photogrammetry Guide
+    url: https://github.com/mikeroyal/Photogrammetry-Guide
+    description: A guide covering Photogrammetry including the applications, libraries and tools that will make you a better and more efficient Photogrammetry development.
+    license: Free
+    entry_type: reference
+    best_for: Photogrammetry learning guide
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Guide
+      - Awesome List
+  - name: NeRF
+    url: https://github.com/bmild/nerf
+    description: Mildenhall et al., 2020 | [bibtex](./NeRF-and-Beyond.bib#L168-L173)
+    license: Open Source
+    entry_type: reference
+    best_for: Original NeRF source repo
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - opensource-alt
+    readme_tags:
+      - GitHub
+      - Original
+  - name: Ne RF Py Torch
+    url: https://github.com/yenchenlin/nerf-pytorch
+    description: Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)
+    license: Open Source
+    entry_type: reference
+    best_for: PyTorch NeRF impl
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - opensource-alt
+    readme_tags:
+      - PyTorch
+      - GitHub
+  - name: Ne RF Py Torch Lighting
+    url: https://github.com/kwea123/nerf_pl
+    description: '[@kwea123](https://github.com/kwea123), 2020'
+    license: Open Source
+    entry_type: reference
+    best_for: PyTorch Lightning NeRF
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - opensource-alt
+    readme_tags:
+      - PyTorch Lightning
+      - GitHub
+  - name: Ne RF W
+    url: https://github.com/kwea123/nerf_pl/tree/nerfw
+    description: '[@kwea123](https://github.com/kwea123), 2021'
+    license: Open Source
+    entry_type: reference
+    best_for: NeRF-W impl
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - opensource-alt
+    readme_tags:
+      - NeRF-W
+      - GitHub
+  - name: Ne RF Py Torch3 D
+    url: https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf
+    description: '[@facebookresearch](https://github.com/facebookresearch), 2020'
+    license: Open Source
+    entry_type: reference
+    best_for: PyTorch3D NeRF
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - opensource-alt
+    readme_tags:
+      - PyTorch3D
+      - GitHub
+  - name: Jax Ne RF
+    url: https://github.com/google-research/google-research/tree/master/jaxnerf
+    description: Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60)
+    license: Open Source
+    entry_type: reference
+    best_for: JAX NeRF impl
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - opensource-alt
+    readme_tags:
+      - JAX
+      - GitHub
+  - name: Mip Ne RF
+    url: https://github.com/google/mipnerf
+    description: '[@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)'
+    license: Open Source
+    entry_type: reference
+    best_for: Mip-NeRF impl
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - opensource-alt
+    readme_tags:
+      - Mip-NeRF
+      - GitHub
+  - name: Mr Ne RF
+    url: https://github.com/MrNeRF/awesome-3D-gaussian-splatting
+    description: For inspiring me to construct this repo.
+    license: Free
+    entry_type: reference
+    best_for: Awesome list for Gaussian splatting
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - opensource-alt
+    readme_tags:
+      - Awesome List
+      - GitHub
+  - name: Nerfstudio gsplat
+    url: https://github.com/nerfstudio-project/gsplat
+    description: Python/CUDA | Apache-2.0 | Integration with Nerfstudio     |
+    license: Open Source
+    entry_type: reference
+    best_for: Nerfstudio gsplat lib
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - opensource-alt
+    readme_tags:
+      - Nerfstudio
+      - Apache-2.0
+  - name: Gaussian Splatting 3D
+    url: https://github.com/heheyas/gaussian_splatting_3d
+    description: Python/CUDA    |            |
+    license: Open Source
+    entry_type: reference
+    best_for: Gaussian splat impl
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - opensource-alt
+    readme_tags:
+      - Python
+      - CUDA
+  - name: 3D Gaussian Splatting (WangFeng18 reimpl)
+    url: https://github.com/WangFeng18/3d-gaussian-splatting
+    description: Python/CUDA    | MIT        |
+    license: Open Source
+    entry_type: reference
+    best_for: Gaussian splat reimpl
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - opensource-alt
+    readme_tags:
+      - MIT
+      - Reimpl
+  - name: 3D Gaussian Splatting (joeyan reimpl)
+    url: https://github.com/joeyan/gaussian_splatting
+    description: Python/CUDA    | MIT        |
+    license: Open Source
+    entry_type: reference
+    best_for: Gaussian splat reimpl
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - opensource-alt
+    readme_tags:
+      - MIT
+      - Reimpl
+  - name: 'Direct Gaussian Style Optimization (DGSO): Stylizing 3D Gaussian Splats'
+    url: https://github.com/An-u-rag/stylized-gaussian-splatting
+    description: Applying style transfer during gaussian optimization to produce stylized gaussian splats of a scene.
+    license: Open Source
+    entry_type: reference
+    best_for: Stylized splat research
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - opensource-alt
+    readme_tags:
+      - Style Transfer
+      - GitHub
+  - name: Nerfstudio Unofficial
+    url: https://github.com/yzslab/nerfstudio/tree/gaussian_splatting
+    description: Nerfstudio Unofficial.
+    license: Open Source
+    entry_type: reference
+    best_for: Nerfstudio gsplat fork
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - opensource-alt
+    readme_tags:
+      - Nerfstudio
+      - Fork

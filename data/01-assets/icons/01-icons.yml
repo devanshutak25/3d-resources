@@ -1,0 +1,184 @@
+entries:
+  - name: Flaticon
+    url: https://www.flaticon.com/
+    description: Massive icon library.
+    license: Freemium
+    entry_type: asset-source
+    readme_tags:
+      - Massive
+      - Freemium
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: SVGL
+    url: https://svgl.app/
+    description: Brand logos in SVG.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Brand Logos
+      - SVG
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: Icons8 Glyph
+    url: https://icons8.com/l/glyph/
+    description: Glyph-style icon set.
+    license: Freemium
+    entry_type: asset-source
+    readme_tags:
+      - Glyph Style
+      - Varied
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: Lucide
+    url: https://lucide.dev/
+    description: Open-source icon library.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Open Source
+      - Modern
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: Lucide Animated
+    url: https://lucide-animated.com/
+    description: Animated version of Lucide icons.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Animated
+      - Lucide
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: Tabler Icons
+    url: https://tablericons.com/
+    description: Open-source SVG icons.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Open Source
+      - SVG
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: Font Awesome
+    url: https://fontawesome.com/
+    description: Classic icon font library.
+    license: Freemium
+    entry_type: asset-source
+    readme_tags:
+      - Classic
+      - Icon Font
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: MDI Icons
+    url: https://pictogrammers.com/library/mdi/icon/
+    description: Material Design Icons, huge set.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Material Design
+      - Huge Set
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: Game Icons
+    url: https://game-icons.net/
+    description: 4000+ SVG game icons.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - games
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+    readme_tags:
+      - Game-themed
+      - 4000+
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Use Animations
+    url: https://useanimations.com/
+    description: Animated icons for web UI.
+    license: Freemium
+    entry_type: asset-source
+    readme_tags:
+      - Animated
+      - Web UI
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: Handy Arrows
+    url: https://handyarrows.com/
+    description: Hand-drawn arrow sets.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Hand-drawn
+      - Arrows
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web

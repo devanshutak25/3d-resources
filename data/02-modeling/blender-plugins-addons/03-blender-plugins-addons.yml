@@ -1,0 +1,599 @@
+entries:
+  - name: Blender NLA Midi Copier
+    url: https://github.com/Cornerback24/Blender-NLA-Midi-Copier
+    description: Blender add-on for creating midi-driven animations from the Nonlinear Animation view.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: BlendyPose
+    url: https://github.com/zonkosoft/BlendyPose
+    description: Blender Motion Capture using your camera.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Spring Bones
+    url: https://github.com/artellblender/springbones
+    description: Blender addon to add spring/bouncy dynamic effect to bones.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Rigid Body Bones
+    url: https://github.com/Pauan/blender-rigid-body-bones
+    description: Blender addon which adds rigid body / spring physics to bones.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Bone Widget
+    url: https://github.com/BlenderDefender/boneWidget
+    description: Blender addon to assist with making custom bone shapes.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: WritingAnimation
+    url: https://github.com/Shriinivas/writinganimation
+    description: This add-on generates writing animation for the selected Bezier curves in blender.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: TextCounter
+    url: https://github.com/leomoon-studios/leomoon-textcounter/
+    description: LeoMoon TextCounter is an easy to use text animation plugin for Blender that can be used to make GUI simulations.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: GreaseWriter
+    url: https://github.com/doakey3/GreaseWriter
+    description: A Blender Add-on for auto-animating grease pencil strokes and emulating hand-drawn text.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: DreamUV
+    url: https://github.com/leukbaars/DreamUV
+    description: Collection of tools that allow you to manipulate UVs in the 3D viewport.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: MeshSync
+    url: https://github.com/unity3d-jp/MeshSync
+    description: Live link plugin for Unity. supported blender and other 3D software.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Mr Mannequins Tools
+    url: https://github.com/Jim-Kroovy/Mr-Mannequins-Tools
+    description: Blender add-on that gives the ability to export animations and weighted meshes that are directly compatible with the third person mannequin without re-targeting anything in Unreal Engine!
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender For Unreal Engine
+    url: https://github.com/xavier150/Blender-For-UnrealEngine-Addons
+    description: This Add-on allows you to export content created with Blender to Unreal Engine 4.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Embark Blender Tools
+    url: https://github.com/EmbarkStudios/blender-tools
+    description: A Blender add-on containing workflow tools for game development. Includes tools for standardized import/export workflow, 3D modelling and new object types. [[medium]](https://medium.com/embarkstudi
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: INOX
+    url: https://github.com/gents83/INOX
+    description: Rust Game engine integrated in Blender.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Shot Manager by Ubisoft
+    url: https://github.com/ubisoft/shotmanager
+    description: Add-on that introduces a true shot entity in Blender scenes.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Gaffer (Blender addon)
+    url: https://github.com/gregzaal/Gaffer
+    description: Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [![market]](https://blendermarket.com/products/g
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Lumiere
+    url: https://github.com/clarkx/Lumiere-V0.4
+    description: Interactive Lighting add-on for Blender.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Maps Models Importer
+    url: https://github.com/eliemichel/MapsModelsImporter
+    description: A Blender add-on to import models from _Google Maps_. [[more info]](https://blog.exppad.com/article/importing-actual-3d-models-from-google-maps)
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender XR
+    url: https://github.com/MARUI-PlugIn/BlenderXR
+    description: A free virtual and mixed reality user interface for Blender that enables artists to edit scenes within the software using a suitable headset and controllers.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Metaverse Addon
+    url: https://github.com/Menithal/Blender-Metaverse-Addon
+    description: Blender toolset for creating content for Metaverses like High Fidelity.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Loom
+    url: https://github.com/p2or/blender-loom
+    description: Add-on to simplify the rendering process of image sequences and certain frames, allows batch rendering and comes with some handy utilities that help in production.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: MDSANIMA RenderTime
+    url: https://github.com/mdsanima-dev/mdsanima-render-time
+    description: Blender add-on estimates and calculate how long your animation will take to render done based on the rendering time of the only one frame.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Camera Shakify
+    url: https://github.com/EatTheFuture/camera_shakify
+    description: An addon for Blender that lets you easily add realistic camera shake to your cameras.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Screencast Keys
+    url: https://github.com/nutti/Screencast-Keys
+    description: Status Add-On for Blender.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Bangingcuts
+    url: https://github.com/OllyFunkster/bangingcuts
+    description: 'Cut up audio and video clips based on peaks in the audio track removing silences. Last Blender versions: don''t install the zip, install .py file instead.'
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Power Sequencer
+    url: https://github.com/GDQuest/blender-power-sequencer
+    description: Brings smart new editing features to edit faster with Blender's Video Sequence Editor. It is completely Free and Open Source.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: VSEQF
+    url: https://github.com/snuq/VSEQF
+    description: Overhaul for Blender's VSE that can completely change your workflow. Designed for quick, mouse and keyboard balanced editing with a focus on real-time feedback.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Transform Tools
+    url: https://github.com/doakey3/VSE_Transform_Tools
+    description: Quickly transform, crop and fade video strips in Blender's Video Sequence Editor.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Easy Proxy
+    url: https://github.com/cgvirus/blender-vse-easy-proxy
+    description: Blender addon to create proxy files for Video Sequence Editor (VSE) easily using FFMPEG.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Parallel Render
+    url: https://github.com/elmopl/ktba/wiki/Addons
+    description: Render the output from the Sequencer multithreaded through the Render sidebar.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Scene Strip Tools
+    url: https://github.com/tin2tin/scene_strip_tools
+    description: Preview Scene Strips directly in the 3D View.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Subsimport
+    url: https://github.com/doakey3/Subsimport
+    description: Addon for Blender that allows users to create and edit subtitles for movies or music.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Search Online References
+    url: https://github.com/tin2tin/Search-API-Reference
+    description: Search current text in API Reference, Python Reference, Blender Stack Exchange, Blender Source Code and Github.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Kitti
+    url: https://github.com/risteon/blender_kitti
+    description: Render large point clouds and voxel grids with blender.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Point Cloud Visualizer
+    url: https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280
+    description: Display, edit, filter, render, convert, generate and export colored point cloud PLY files.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Projectors
+    url: https://github.com/Ocupe/Projectors
+    description: A blender add-on for simple projector creation and modification.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: QuickSwitch
+    url: https://github.com/schroef/QuickSwitch
+    description: A helper to quick switch workspaces and view render menu in viewport.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: MifthTools
+    url: https://github.com/mifth/mifthtools
+    description: 3Dcoat, Houdini, Modo mesh exchange tools and more.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Modifier List
+    url: https://github.com/Symstract/modifier_list
+    description: Blender add-on with enhanced UI layout for modifiers with handy features. Replaces the regular modifier UI and adds a tab in the Sidebar and a popup.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: ProSidebar
+    url: https://github.com/CreativeDesigner3D/ProSidebar
+    description: Add additional properties and operators to the 3D View Sidebar.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Tilecam
+    url: https://github.com/stuffmatic/tilecam
+    description: Render seamlessly repeatable images.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: PresetterProfessional
+    url: https://github.com/dpdpforlife/PresetterProfessional
+    description: View and visibility presets, 3d cursor presets, snap presets, etc. presets.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Screenwriter
+    url: https://github.com/tin2tin/Blender_Screenwriter
+    description: Write screenplays in Blender Text Editor in Fountain markup syntax view/export with correct screenplay formatting.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Kaleidoscope
+    url: https://github.com/blenderskool/kaleidoscope
+    description: The add-on adds two new nodes, Spectrum and Intensity, which essentially improves your workflow inside Blender when creating materials.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Mixer by Ubisoft
+    url: https://github.com/ubisoft/mixer
+    description: Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Lib SM64 Blender
+    url: https://github.com/libsm64/libsm64-blender
+    description: This add-on integrates libsm64 into Blender and provides various additional integrations with Fast64.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: BlenderSynth
+    url: https://github.com/OllieBoyne/BlenderSynth
+    description: Blender scripting for generating synthetic datasets at scale.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Bandai Namco Research Motiondataset
+    url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
+    description: R&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+    notes: 'RELOCATE: motion capture dataset, not a Blender addon.'
+  - name: Blender Colab
+    url: https://github.com/syn73/blender-colab
+    description: Render on **_Google Colab_**, this is a Python script that allows you to render Blender scene using Google Colaboratory. Only Cycles.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Goxel
+    url: https://github.com/guillaumechereau/goxel
+    description: Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
+    entry_type: software
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+    notes: 'RELOCATE: standalone voxel editor, not a Blender addon.'

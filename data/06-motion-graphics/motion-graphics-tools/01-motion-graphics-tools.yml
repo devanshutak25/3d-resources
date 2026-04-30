@@ -1,0 +1,139 @@
+entries:
+  - name: Resolume
+    url: https://resolume.com/software
+    description: Live visuals and VJ software.
+    license: Paid
+    entry_type: software
+    best_for: VJ, live visuals
+    tags:
+      output:
+        - motion-graphics
+        - broadcast
+      tech:
+        - real-time
+    readme_tags:
+      - VJ
+      - Live Visuals
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: MadMapper
+    url: https://madmapper.com/
+    description: Projection mapping software.
+    license: Paid
+    entry_type: software
+    best_for: Projection mapping
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - real-time
+    readme_tags:
+      - Projection Mapping
+      - Live
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: PixelCrash
+    url: https://www.pixelcrash.xyz/
+    description: Creative motion and visual tools.
+    license: Paid
+    entry_type: tool
+    readme_tags:
+      - Creative
+      - Visual Tools
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Effekseer
+    url: https://effekseer.github.io/en/
+    description: Real-time VFX editor and runtime.
+    license: Open Source
+    entry_type: software
+    best_for: Game VFX particles
+    tags:
+      output:
+        - games
+        - motion-graphics
+      tech:
+        - real-time
+        - opensource-alt
+    readme_tags:
+      - Real-time VFX
+      - Games
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Magic Animator
+    url: https://magicanimator.com/
+    description: Web-based animation creator.
+    license: Freemium
+    entry_type: software
+    best_for: Quick animated graphics
+    tags:
+      platform:
+        - web
+      output:
+        - motion-graphics
+    readme_tags:
+      - Web
+      - Quick Anim
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Nw Wrld
+    url: https://github.com/aagentah/nw_wrld
+    description: Experimental motion tool.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Experimental
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - opensource-alt
+  - name: Nukepedia Lens Engine
+    url: https://www.nukepedia.com/gizmos/draw/lens-engine
+    description: Lens simulation gizmo for Nuke.
+    license: Free
+    entry_type: plugin
+    readme_tags:
+      - Nuke
+      - Lens Sim
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: CorridorKey
+    url: https://github.com/nikopueringer/CorridorKey
+    description: Corridor's keying tool (open source).
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Keying
+      - Corridor
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - opensource-alt
+  - name: Sammie Roto 2
+    url: https://github.com/Zarxrax/Sammie-Roto-2
+    description: Rotoscope tool.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Rotoscope
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - opensource-alt

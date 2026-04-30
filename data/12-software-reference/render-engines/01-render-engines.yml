@@ -1,0 +1,502 @@
+entries:
+  - name: Redshift (Maxon)
+    url: https://www.maxon.net/en/redshift
+    description: GPU-biased production renderer.
+    pricing: Included with Maxon One
+    license: Paid
+    entry_type: software
+    best_for: Production rendering, motion graphics
+    tags:
+      workflow:
+        - rendering
+      output:
+        - motion-graphics
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gpu
+    readme_tags:
+      - GPU-biased
+      - Production
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Octane (OTOY)
+    url: https://home.otoy.com/render/octane-render/
+    description: GPU unbiased renderer with free tier.
+    pricing: Free tier available
+    license: Freemium
+    entry_type: software
+    best_for: Photoreal, arch-viz
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - product-viz
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gpu
+        - path-tracing
+    readme_tags:
+      - GPU Unbiased
+      - Photoreal
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Arnold (Autodesk)
+    url: https://www.autodesk.com/products/arnold/overview
+    description: CPU/GPU hybrid production renderer, bundled with Maya/3ds Max.
+    pricing: With Maya/3ds Max sub
+    license: Paid
+    entry_type: software
+    best_for: Film VFX, lighting
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+        - gpu
+    readme_tags:
+      - Film-grade
+      - CPU/GPU Hybrid
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: V-Ray (Chaos)
+    url: https://www.chaos.com/vray
+    description: CPU/GPU hybrid renderer for arch-viz and product viz.
+    pricing: ~$60/mo
+    license: Paid
+    entry_type: software
+    best_for: Arch-viz, product viz
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - win
+        - mac
+      tech:
+        - path-tracing
+        - gpu
+    readme_tags:
+      - Arch-Viz
+      - Industry Standard
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Corona (Chaos)
+    url: https://www.chaos.com/corona
+    description: CPU renderer for arch-viz and interiors.
+    pricing: ~$30/mo
+    license: Paid
+    entry_type: software
+    best_for: Arch-viz, interiors
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+      platform:
+        - win
+      tech:
+        - path-tracing
+    readme_tags:
+      - CPU-only
+      - Interiors
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Cycles
+    url: https://www.cycles-renderer.org/
+    description: CPU/GPU path tracer. Bundled free with Blender.
+    license: Open Source
+    entry_type: software
+    best_for: General purpose
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+        - film-vfx
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+        - gpu
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Path-tracing
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Karma (SideFX)
+    url: https://www.sidefx.com/products/karma/
+    description: CPU/GPU USD-native renderer, bundled with Houdini.
+    pricing: With Houdini license
+    license: Paid
+    entry_type: software
+    best_for: Film VFX, USD pipeline
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+        - usd
+        - gpu
+    readme_tags:
+      - USD-native
+      - Houdini
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: RenderMan (Pixar)
+    url: https://renderman.pixar.com/
+    description: Pixar's CPU/GPU hybrid production renderer. Free for non-commercial.
+    license: Free NC
+    entry_type: software
+    best_for: Film production
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+        - gpu
+    readme_tags:
+      - Free NC
+      - Pixar Pipeline
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: KeyShot (Luxion)
+    url: https://www.keyshot.com/
+    description: CPU real-time ray tracing for product visualization.
+    pricing: $995+ perpetual
+    license: Paid
+    entry_type: software
+    best_for: Product viz, industrial design
+    tags:
+      workflow:
+        - rendering
+      output:
+        - product-viz
+      platform:
+        - win
+        - mac
+      tech:
+        - real-time
+        - ray-tracing
+        - perpetual
+    readme_tags:
+      - Product Viz
+      - Real-time
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Marmoset Toolbag
+    url: https://marmoset.co/toolbag/
+    description: Real-time GPU renderer for game art and baking.
+    pricing: $189 perpetual
+    license: Paid
+    entry_type: software
+    best_for: Game art baking, presentation
+    tags:
+      workflow:
+        - rendering
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - mac
+      tech:
+        - real-time
+        - gpu
+        - perpetual
+    readme_tags:
+      - Game Art
+      - Baking
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: LuxCore
+    url: https://luxcorerender.org/
+    description: Free open-source CPU/GPU unbiased renderer.
+    license: Open Source
+    entry_type: software
+    best_for: Physically accurate rendering
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Physically Accurate
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Guerrilla Render
+    url: http://guerillarender.com/
+    description: Production renderer used on feature films.
+    license: Free
+    entry_type: software
+    best_for: Film production
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Production
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: D5 Render
+    url: https://www.d5render.com/
+    description: Real-time GPU renderer for arch-viz.
+    pricing: Free version available
+    license: Freemium
+    entry_type: software
+    best_for: Arch-viz
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+      platform:
+        - win
+      tech:
+        - real-time
+        - gpu
+    readme_tags:
+      - Real-time
+      - Arch-Viz
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Twinmotion (Epic)
+    url: https://www.twinmotion.com/
+    description: Real-time GPU renderer from Epic for arch-viz.
+    pricing: Free version available
+    license: Freemium
+    entry_type: software
+    best_for: Arch-viz
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+      tech:
+        - real-time
+        - gpu
+    readme_tags:
+      - Real-time
+      - Epic Games
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Radeon ProRender (AMD)
+    url: https://www.amd.com/en/products/graphics/software/radeon-prorender.html
+    description: AMD's GPU path tracer, free and cross-vendor.
+    license: Free
+    entry_type: software
+    best_for: Cross-platform, GPU-agnostic
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+        - gpu
+    readme_tags:
+      - GPU-agnostic
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: RenderMan Community
+    url: https://renderman.pixar.com/community
+    description: Free RenderMan assets, shaders, HDRIs.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Chaos Cosmos
+    url: https://www.chaos.com/cosmos
+    description: Free V-Ray/Corona asset library (3D models, materials, HDRIs).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Redshift Community
+    url: https://redshift.maxon.net/
+    description: Forums, shaders, resources.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Arnold Resources
+    url: https://www.autodesk.com/products/arnold/resources
+    description: Official shaders, docs, tutorials.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: OTOY Octane Render Cloud
+    url: https://render.otoy.com/
+    description: Free ORBX assets and cloud rendering.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Hexels
+    url: https://www.marmoset.co/hexels/
+    description: Intuitive 2D, grid-based painting tool
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: MoonRay
+    url: https://openmoonray.org/index
+    description: DreamWorks' open-source MCRT production renderer used on feature films.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source film production renderer
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+      tech:
+        - path-tracing
+        - opensource-alt
+    readme_tags:
+      - DreamWorks
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Falcor
+    url: https://github.com/NVIDIAGameWorks/Falcor
+    description: A real-time rendering framework supporting DirectX 12 aiming to improve the productivity of research and prototype projects.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: StratusGFX
+    url: https://github.com/KTStephano/StratusGFX
+    description: Free and open source Realtime 3D rendering engine.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: Aurora
+    url: https://github.com/Autodesk/Aurora
+    description: A real-time path tracing renderer that enables fast product visualizations.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: kajiya
+    url: https://github.com/EmbarkStudios/kajiya
+    description: Experimental real-time global illumination renderer made with Rust and Vulkan.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: Sunflow
+    url: https://github.com/fpsunflower/sunflow
+    description: Not maintained, Sunflow is an open source rendering system for photo-realistic image synthesis.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: Yafaray
+    url: https://github.com/YafaRay/libYafaRay
+    description: LibYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt

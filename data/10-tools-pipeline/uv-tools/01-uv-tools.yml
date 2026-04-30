@@ -1,0 +1,74 @@
+entries:
+  - name: RizomUV
+    url: https://www.rizom-lab.com/
+    description: Fast UV unwrapping, auto-seam, auto-pack. Standalone or bridge.
+    license: Paid
+    entry_type: software
+    best_for: Fast pro UV unwrapping
+    tags:
+      workflow:
+        - uv
+    readme_tags:
+      - Industry Standard
+      - Standalone
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: UVPackmaster
+    url: https://uvpackmaster.com/
+    description: Advanced UV packing, UDIM support. Blender addon + standalone.
+    license: Paid
+    entry_type: software
+    best_for: UV packing + UDIM
+    tags:
+      workflow:
+        - uv
+      tech:
+        - blender-addon
+    readme_tags:
+      - UDIM
+      - Packing
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Headus UVLayout
+    url: https://www.uvlayout.com/
+    description: Standalone UV editor, flatten-based.
+    license: Paid
+    entry_type: software
+    best_for: Flatten-based UV editor
+    tags:
+      workflow:
+        - uv
+    readme_tags:
+      - Flatten-based
+      - Classic
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: UV Checker Map Maker
+    url: https://uvchecker.atlux.one/
+    description: Custom UV checker textures.
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - uv
+    readme_tags:
+      - Checker Gen
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: UV Toolkit
+    url: https://gumroad.com/alexbel#NbMya
+    description: Tools collection for UV editing in blender.
+    license: Paid
+    entry_type: plugin
+    best_for: Blender UV editing toolkit
+    tags:
+      workflow:
+        - uv
+      tech:
+        - blender-addon
+    readme_tags:
+      - Blender
+      - Toolkit
+    url_last_verified: '2026-04-19'
+    url_status: ok

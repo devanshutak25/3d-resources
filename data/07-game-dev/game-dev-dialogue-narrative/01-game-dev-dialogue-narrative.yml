@@ -1,0 +1,84 @@
+entries:
+  - name: Yarn Spinner
+    url: https://yarnspinner.dev/
+    description: Dialogue tool for Unity/Godot (Night in the Woods).
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Dialogue
+      - Unity/Godot
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Ink
+    url: https://www.inklestudios.com/ink/
+    description: Narrative scripting by Inkle (Heaven's Vault, Sable).
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Narrative Script
+      - Inkle
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Twine
+    url: https://twinery.org/
+    description: Free, open-source interactive fiction.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Interactive Fiction
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Articy:draft
+    url: https://www.articy.com/
+    description: Professional narrative design middleware.
+    license: Paid
+    entry_type: software
+    best_for: Professional narrative middleware
+    tags:
+      output:
+        - games
+    readme_tags:
+      - Middleware
+      - Pro
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Prototype
+    url: https://github.com/inkle/prototype
+    description: Prototype component pattern for Unity.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Ink Unity Integration
+    url: https://github.com/inkle/ink-unity-integration
+    description: Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt

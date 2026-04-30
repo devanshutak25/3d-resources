@@ -1,0 +1,207 @@
+entries:
+  - name: Nuke (Foundry)
+    url: https://www.foundry.com/products/nuke-family/nuke
+    description: Industry-standard compositing. Non-Commercial free version available.
+    license: Paid
+    notes: Non-Commercial edition free for learning/non-commercial use.
+    entry_type: software
+    best_for: Film VFX compositing
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - node-based
+    readme_tags:
+      - Industry Standard
+      - Node-based
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: DaVinci Resolve Fusion
+    url: https://www.blackmagicdesign.com/products/davinciresolve/fusion
+    description: Node-based compositing, free with Resolve.
+    license: Freemium
+    entry_type: software
+    best_for: Compositing, VFX
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - film-vfx
+        - broadcast
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - node-based
+    readme_tags:
+      - Node-based
+      - Free with Resolve
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Natron (community fork)
+    url: https://natrongithub.github.io/
+    description: Free open-source node compositor, Nuke-like.
+    license: Open Source
+    entry_type: software
+    best_for: Indie VFX compositing
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - node-based
+        - opensource-alt
+    readme_tags:
+      - Node-based
+      - Nuke-like
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: EmberGen
+    url: https://jangafx.com/software/embergen/
+    description: Real-time volumetric fluid sim (fire, smoke, explosions).
+    license: Paid
+    entry_type: software
+    best_for: Game VFX, real-time effects
+    tags:
+      workflow:
+        - fx
+        - simulation
+        - compositing
+      output:
+        - games
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - real-time
+        - gpu
+    readme_tags:
+      - Real-time Sim
+      - Fire/Smoke
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: LiquiGen
+    url: https://jangafx.com/software/liquigen/
+    description: Real-time liquid simulation.
+    license: Paid
+    entry_type: software
+    best_for: Game fluid effects
+    tags:
+      workflow:
+        - fx
+        - simulation
+        - compositing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - real-time
+        - gpu
+    readme_tags:
+      - Real-time Sim
+      - Liquids
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: GeoGen (JangaFX)
+    url: https://jangafx.com/software/geogen/
+    description: Real-time terrain generation.
+    license: Paid
+    entry_type: software
+    best_for: Game environments
+    tags:
+      workflow:
+        - modeling
+        - compositing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - real-time
+        - procedural
+    readme_tags:
+      - Terrain Gen
+      - Real-time
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: After Effects
+    url: https://www.adobe.com/products/aftereffects.html
+    description: Motion graphics and compositing.
+    license: Paid
+    entry_type: software
+    best_for: Motion design, light VFX
+    tags:
+      workflow:
+        - compositing
+        - animation
+        - fx
+      output:
+        - motion-graphics
+        - broadcast
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - subscription
+    readme_tags:
+      - Motion Graphics
+      - Adobe Suite
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Nukepedia
+    url: https://www.nukepedia.com/
+    description: Free Nuke gizmos, tools, plugins, tutorials.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+  - name: JangaFX Docs
+    url: https://docs.jangafx.com/
+    description: Official EmberGen/LiquiGen documentation and how-to guides.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - fx
+        - simulation
+      output:
+        - film-vfx
+        - games
+  - name: ActionVFX
+    url: https://www.actionvfx.com/
+    description: VFX stock elements (explosions, fire, debris).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - film-vfx

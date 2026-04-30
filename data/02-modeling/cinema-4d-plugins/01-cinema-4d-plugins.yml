@@ -1,0 +1,28 @@
+entries:
+  - name: Video Copilot
+    url: https://www.videocopilot.net/
+    description: VFX tutorials, Element 3D, Optical Flares.
+    entry_type: channel
+    tags:
+      output:
+        - motion-graphics
+    readme_tags:
+      - VFX Tutorials
+      - Andrew Kramer
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: AEC4D
+    url: https://aescripts.com/aec4d/
+    description: After Effects ↔ Cinema 4D bridge.
+    license: Paid
+    entry_type: plugin
+    readme_tags:
+      - AE Bridge
+      - Workflow
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - c4d-plugin

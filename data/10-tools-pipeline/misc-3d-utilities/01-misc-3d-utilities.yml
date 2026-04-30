@@ -1,0 +1,438 @@
+entries:
+  - name: Lightmap HDR Light Studio
+    url: https://www.lightmap.co.uk/
+    description: Lighting software.
+    license: Paid
+    entry_type: software
+    best_for: Interactive HDR lighting
+    tags:
+      workflow:
+        - lighting
+    readme_tags:
+      - HDR Lighting
+      - Interactive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: VFX Camera Database
+    url: https://vfxcamdb.com/
+    description: Camera sensor data.
+    entry_type: reference
+    readme_tags:
+      - Sensor Data
+      - Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Video Magnification (MIT)
+    url: https://people.csail.mit.edu/mrub/vidmag/
+    description: Eulerian video magnification.
+    entry_type: reference
+    readme_tags:
+      - MIT Research
+      - Magnification
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Massive Software
+    url: https://www.massivesoftware.com/massiveprime.html
+    description: Crowd simulation.
+    license: Paid
+    entry_type: software
+    best_for: Crowd simulation
+    tags:
+      workflow:
+        - simulation
+    readme_tags:
+      - Crowds
+      - Pro
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Storm HydroFX
+    url: https://storm-vfx.com/
+    description: Fluid simulation.
+    license: Paid
+    entry_type: software
+    best_for: Fluid simulation
+    tags:
+      workflow:
+        - simulation
+        - fx
+    readme_tags:
+      - Fluids
+      - FX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Graphtoy
+    url: https://iquilezles.org/apps/graphtoy/
+    description: Mathematical function grapher by Inigo Quilez.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Math Grapher
+      - iq
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Jsplacement
+    url: https://windmillart.net/?p=jsplacement
+    description: Procedural displacement map generator.
+    entry_type: tool
+    tags:
+      tech:
+        - procedural
+    readme_tags:
+      - Displacement
+      - Procedural
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Math for Motion
+    url: https://soulwire.co.uk/math-for-motion/
+    description: Interactive math concepts for motion graphics.
+    entry_type: reference
+    tags:
+      output:
+        - motion-graphics
+    readme_tags:
+      - Math
+      - Interactive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: City Roads
+    url: https://github.com/anvaka/city-roads
+    description: Generate road maps of any city as vector art.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - City Maps
+      - Vector
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: PureRef
+    url: https://pureref.com/
+    description: Industry-standard reference board tool.
+    pricing: Pay what you want
+    license: Freemium
+    entry_type: software
+    best_for: Reference board
+    tags:
+      workflow:
+        - reference
+    readme_tags:
+      - Industry Standard
+      - PWYW
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blockbench
+    url: https://www.blockbench.net/
+    description: Free low-poly/voxel 3D modeler.
+    license: Free
+    entry_type: software
+    best_for: Low-poly / voxel modeling
+    tags:
+      output:
+        - games
+    readme_tags:
+      - Low-poly
+      - Voxel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: MeshLab
+    url: https://www.meshlab.net/
+    description: Open-source mesh processing, essential for photogrammetry cleanup.
+    license: Open Source
+    entry_type: software
+    best_for: Mesh processing
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Mesh Processing
+      - Photogrammetry
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Photopea
+    url: https://www.photopea.com/
+    description: Free browser-based Photoshop alternative with full PSD support.
+    license: Free
+    entry_type: software
+    best_for: Quick PSD editing
+    tags:
+      platform:
+        - web
+    readme_tags:
+      - PSD
+      - Browser
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Gaea
+    url: https://quadspinner.com/
+    description: Terrain generation tool (free community edition).
+    license: Freemium
+    entry_type: software
+    best_for: Terrain generation
+    tags:
+      tech:
+        - procedural
+    readme_tags:
+      - Terrain Gen
+      - Free Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Plasticity (site)
+    url: https://www.plasticity.xyz/
+    description: CAD-style modeling with artist-friendly UX.
+    license: Paid
+    entry_type: software
+    best_for: CAD-style modeling for artists
+    tags:
+      workflow:
+        - modeling
+    readme_tags:
+      - CAD-style
+      - Artist UX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Dust3D
+    url: https://dust3d.org/
+    description: Open-source quick base mesh generation.
+    license: Open Source
+    entry_type: software
+    best_for: Base mesh generation
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Base Meshes
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: darktable
+    url: https://www.darktable.org/
+    description: Open-source RAW photo editor for reference/texture processing.
+    license: Open Source
+    entry_type: software
+    best_for: RAW processing
+    readme_tags:
+      - RAW Editor
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: SunCalc
+    url: https://www.suncalc.org/
+    description: Sun position, golden hour, and shadow visualization for any location and time.
+    entry_type: tool
+    tags:
+      workflow:
+        - lighting
+        - reference
+    readme_tags:
+      - Sun Position
+      - Golden Hour
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: OBS Studio
+    url: https://obsproject.com/
+    description: Free screen recording/streaming. Essential for tutorials.
+    license: Open Source
+    entry_type: software
+    best_for: Screen recording, streaming
+    readme_tags:
+      - Recording
+      - Streaming
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: ShareX
+    url: https://getsharex.com/
+    description: Free Windows screen capture with recording and annotation.
+    license: Open Source
+    entry_type: software
+    best_for: Screen capture, annotation
+    tags:
+      platform:
+        - win
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Screen Capture
+      - Windows
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Hesiod
+    url: https://github.com/otto-link/Hesiod
+    description: Free open-source node-based procedural terrain/heightmap generator.
+    license: Open Source
+    entry_type: software
+    best_for: Procedural terrain
+    tags:
+      tech:
+        - procedural
+        - node-based
+        - opensource-alt
+    readme_tags:
+      - Terrain Gen
+      - Node-based
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: IFS Renderer
+    url: https://ifsrenderer.z97.io/
+    description: Free GPU-accelerated fractal renderer with HDR/EXR export.
+    license: Free
+    entry_type: software
+    best_for: Fractal rendering
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - gpu
+    readme_tags:
+      - Fractals
+      - HDR/EXR
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Texture Extractor
+    url: https://berlinnights.itch.io/texture-extractor
+    description: Extract textures and materials from photos (Godot-based, pre-1.0).
+    entry_type: tool
+    tags:
+      workflow:
+        - texturing
+    readme_tags:
+      - Pre-1.0
+      - Photo→Texture
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Sprite Stacker
+    url: https://berlinnights.itch.io/sprite-stacker
+    description: Create pseudo-3D sprite stacks from pixel art with integrated voxel editor (Godot-based, pre-1.0).
+    entry_type: tool
+    tags:
+      output:
+        - games
+    readme_tags:
+      - Sprite Stacks
+      - Pre-1.0
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Sorcar
+    url: https://aachman98.itch.io/sorcar
+    description: A procedural modeling node-based system which utilizes Blender and its Python API to create a visual programming environment for artists and developers
+    license: Open Source
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+        - node-based
+        - procedural
+        - opensource-alt
+    readme_tags:
+      - Blender
+      - Procedural
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Gl Ch Ao S.P
+    url: https://github.com/BrutPitt/glChAoS.P
+    description: RealTime 3D Strange Attractors scout on GPU.
+    license: Open Source
+    entry_type: software
+    tags:
+      tech:
+        - gpu
+        - real-time
+        - opensource-alt
+    readme_tags:
+      - Strange Attractors
+      - GPU
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Mandelbulb3D (thargor6 fork)
+    url: https://github.com/thargor6/mb3d
+    description: A program designed for the Windows platform for generating 3D views of different fractals.
+    license: Open Source
+    entry_type: software
+    tags:
+      platform:
+        - win
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Fractals
+      - Windows
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Penzil
+    url: https://github.com/jacopocolo/Penzil
+    description: A web application to sketch in 3d made in three.js and Vue.
+    license: Open Source
+    entry_type: tool
+    tags:
+      platform:
+        - web
+      tech:
+        - opensource-alt
+    readme_tags:
+      - 3D Sketch
+      - Web
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Pixie
+    url: https://github.com/blkdev2/pixie?tab=readme-ov-file
+    description: Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+    readme_tags:
+      - RenderMan-like
+      - Renderer
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: tlRender
+    url: https://github.com/darbyjohnston/tlRender
+    description: Timeline render, is an early stage project for rendering editorial timelines.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - editing
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Timeline
+      - Editorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Palladio
+    url: https://github.com/Esri/palladio
+    description: CityEngine Plugin for Houdini
+    license: Open Source
+    entry_type: plugin
+    tags:
+      tech:
+        - houdini-addon
+        - opensource-alt
+    readme_tags:
+      - Houdini
+      - CityEngine
+    url_last_verified: '2026-04-19'
+    url_status: ok

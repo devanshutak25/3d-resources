@@ -1,0 +1,269 @@
+entries:
+  - name: Blender Guru
+    url: https://www.youtube.com/@blenderguru
+    description: Classic Blender beginner+ intermediate channel (Andrew Price).
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Classic
+      - Donut Man
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Grant Abbitt
+    url: https://www.youtube.com/@grabbitt
+    description: Beginner-friendly Blender tutorials.
+    entry_type: channel
+    license: Free
+    tags:
+      skill:
+        - beginner
+      tech:
+        - blender
+      platform:
+        - web
+    readme_tags:
+      - Beginner
+      - Approachable
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Ian Hubert
+    url: https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA
+    description: Lazy tutorials and cinematic shorts.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Cinematic Shorts
+      - Lazy Tuts
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Ducky 3D
+    url: https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ
+    description: Stylized Blender tutorials.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Stylized
+      - Shaders
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: CG Geek
+    url: https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ
+    description: Blender tutorials.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Blender
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Jayanam
+    url: https://www.youtube.com/channel/UCs5J4GVRB8s2P4hE-O0izrg
+    description: Blender game art.
+    entry_type: channel
+    license: Free
+    tags:
+      output:
+        - games
+      tech:
+        - blender
+      platform:
+        - web
+    readme_tags:
+      - Game Art
+      - Blender
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blender Official
+    url: https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg
+    description: Official Blender Foundation channel.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Official
+      - Foundation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: CGMatter
+    url: https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg
+    description: Technical Blender tips.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Technical
+      - Tips
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Arrimus 3D
+    url: https://www.youtube.com/@Arrimus3D
+    description: Hard-surface modeling tutorials.
+    entry_type: channel
+    license: Free
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - blender
+      platform:
+        - web
+    readme_tags:
+      - Hard Surface
+      - Modeling
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: GraphicLine Games
+    url: https://www.youtube.com/@graphiclinegames4843
+    description: Stylized shader and asset tutorials (Ghibli Shader Texture Generator).
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Stylized
+      - Shaders
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Sandvector Studios
+    url: https://www.youtube.com/@sandvectorstudios
+    description: Cartoon cel shader and material tutorials (Face Shadow Texture Generator).
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Cel Shader
+      - Materials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Royal Skies
+    url: https://www.youtube.com/@TheRoyalSkies
+    description: 3D technical artist — Blender, Unreal, games. Speed tutorials across rigging, shaders, animation.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Speed Tuts
+      - Tech Art
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: CG Boost
+    url: https://www.youtube.com/@cgboost
+    description: Blender beginner tutorial series and courses.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Beginner
+      - Courses
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      skill:
+        - beginner
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Olav3D
+    url: https://www.youtube.com/@Olav3D
+    description: Blender programming and scripting tutorials.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Scripting
+      - Python
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Bradley Animation
+    url: https://www.youtube.com/@bradleyanimation120
+    description: Geometry Nodes basics for beginners.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Geo Nodes
+      - Beginner
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      skill:
+        - beginner
+      tech:
+        - blender
+        - node-based
+      platform:
+        - web
+  - name: Default Cube
+    url: https://www.youtube.com/@DefaultCube
+    description: Blender procedural and geometry nodes playlists.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Procedural
+      - Geo Nodes
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - node-based
+        - procedural
+      platform:
+        - web
+  - name: Darkfall
+    url: https://www.youtube.com/@DarkfallBlender
+    description: Blender scripting tutorials.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Scripting
+      - Python
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web

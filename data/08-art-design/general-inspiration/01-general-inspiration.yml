@@ -1,0 +1,244 @@
+entries:
+  - name: H.R. Giger (Artnet)
+    url: http://www.artnet.com/artists/hans-rudolf-giger/
+    description: H.R. Giger gallery archive.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Giger
+      - Dark Sci-Fi
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Janelle Loi Resources
+    url: https://janelloi.com/resources/
+    description: Curated creative resources.
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - Curated
+      - Creative
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Geometric Design (Canva)
+    url: https://designschool.canva.com/blog/geometric-design/
+    description: Geometric design article.
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - Geometric
+      - Design Article
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Movie Scenes Inspired by Art
+    url: https://x.com/JamesLucasIT/status/1795507471693320546
+    description: Thread on movie scenes mirroring paintings.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Film + Art
+      - Thread
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Mech Blog
+    url: http://mechblog.tumblr.com/
+    description: Mecha design inspiration.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Mecha
+      - Tumblr
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: The Black Workshop
+    url: http://theblackworkshop.tumblr.com/
+    description: Design inspiration blog.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Design Blog
+      - Tumblr
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Activation Ideas
+    url: https://activationideas.com/
+    description: Brand activation inspiration.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Brand Activations
+      - Ideas
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: OTAKU GANGSTA
+    url: http://otakugangsta.com/
+    description: Anime/otaku visual blog.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Anime
+      - Visual
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Mr Cup
+    url: http://www.mr-cup.com/blog.html
+    description: Graphic design blog.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Graphic Design
+      - Blog
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: DETHJUNKIE
+    url: http://www.dethjunkie.com/
+    description: Dark creative blog.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Dark
+      - Creative
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Truchet's Tiles
+    url: https://arearugscarpet.blogspot.com/2014/04/the-curse-of-truchets-tiles.html
+    description: On Truchet tiles and patterns.
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - Tiles
+      - Patterns
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: But Does It Float
+    url: https://butdoesitfloat.com/
+    description: Contemporary design and art feed.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Contemporary
+      - Design
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Savee
+    url: https://savee.it/
+    description: Visual bookmarking tool.
+    entry_type: tool
+    license: Freemium
+    readme_tags:
+      - Bookmarking
+      - Curation
+    notes: entry_type=tool (bookmarking utility) — sits in inspiration subsection; consider relocate to design-tools.
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Designspiration
+    url: https://designspiration.com/
+    description: Design inspiration feed.
+    entry_type: inspiration
+    license: Freemium
+    readme_tags:
+      - Feed
+      - Curated
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Muddycolors
+    url: https://www.muddycolors.com/
+    description: Pro illustrator blog.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Illustration
+      - Pro Blog
+    notes: entry_type=channel (creator hub blog) in inspiration subsection — fits as illustration channel; consider concept-art-channels.
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Sakuga Booru
+    url: https://sakugabooru.com/
+    description: Animation clip archive (non-www mirror).
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - Animation Archive
+      - Mirror
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Iconz
+    url: https://iconz.design
+    description: 460+ 3D icons in multiple angles and materials
+    entry_type: inspiration
+    license: Freemium
+    notes: Likely asset-source (downloadable 3D icons) rather than inspiration.
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Mockupz
+    url: https://mockupz.design
+    description: Free 3D mockup scenes for showcasing your design work
+    entry_type: inspiration
+    license: Free
+    notes: Likely asset-source (downloadable mockup scenes) rather than inspiration.
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Robotz
+    url: https://threedee.design/cartoon-robot
+    description: Free modular 3D cartoon robot with customizable heads, bodies and hands
+    entry_type: inspiration
+    license: Free
+    notes: Likely asset-source (downloadable modular 3D model) rather than inspiration.
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

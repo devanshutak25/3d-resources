@@ -1,0 +1,449 @@
+entries:
+  - name: VERT.sh
+    url: https://vert.sh/
+    description: General-purpose online converter.
+    entry_type: tool
+    license: Free
+    readme_tags:
+      - General
+      - Online
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: MAZANOKE
+    url: https://mazanoke.com/
+    description: Browser-based converter.
+    entry_type: tool
+    license: Free
+    readme_tags:
+      - Browser
+      - Converter
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 123apps
+    url: https://123apps.com/
+    description: Free web tools for audio, video, image.
+    entry_type: tool
+    license: Freemium
+    readme_tags:
+      - Free Web
+      - Multi-tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: CloudConvert
+    url: https://cloudconvert.com/
+    description: 200+ formats with API.
+    entry_type: tool
+    license: Freemium
+    readme_tags:
+      - 200+ Formats
+      - API
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Convertio
+    url: https://convertio.co/
+    description: Multi-format converter.
+    entry_type: tool
+    license: Freemium
+    readme_tags:
+      - Multi-format
+      - Web
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Online Convert
+    url: https://www.online-convert.com/
+    description: Web-based format converter.
+    entry_type: tool
+    license: Freemium
+    readme_tags:
+      - Web
+      - General
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: FreeConvert
+    url: https://www.freeconvert.com/
+    description: Free online file converter.
+    entry_type: tool
+    license: Freemium
+    readme_tags:
+      - Free
+      - Web
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Assimp (GitHub)
+    url: https://github.com/assimp/assimp
+    description: Open-source library, 40+ 3D format import (C/C++/Python).
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - 3D Import Lib
+      - 40+ Formats
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: FBX2glTF
+    url: https://github.com/facebookincubator/FBX2glTF
+    description: Meta's CLI for FBX → glTF 2.0.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - FBX→glTF
+      - CLI
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: obj2gltf
+    url: https://github.com/CesiumGS/obj2gltf
+    description: Cesium's OBJ → glTF with PBR mapping.
+    license: Open Source
+    entry_type: tool
+    tags:
+      tech:
+        - pbr
+        - opensource-alt
+    readme_tags:
+      - OBJ→glTF
+      - PBR
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: glTF Transform
+    url: https://gltf-transform.dev/
+    description: JS library/CLI for reading, editing, optimizing glTF (Draco, KTX2).
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - glTF Tools
+      - Optimizer
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: gltfpack
+    url: https://github.com/zeux/meshoptimizer/tree/master/gltf
+    description: Aggressive glTF mesh/texture optimization.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - glTF
+      - Optimize
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: glTF Pipeline
+    url: https://github.com/CesiumGS/gltf-pipeline
+    description: GlTF ↔ GLB, Draco compress, texture resize.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - glTF/GLB
+      - Pipeline
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: glTF Validator
+    url: https://github.com/KhronosGroup/glTF-Validator
+    description: Official Khronos spec validation.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Validator
+      - Khronos
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: glTF Viewer
+    url: https://gltf-viewer.donmccurdy.com/
+    description: Web-based glTF/GLB viewer.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - glTF Viewer
+      - Web
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: ImageMagick
+    url: https://imagemagick.org/
+    description: CLI, 200+ image formats.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - CLI
+      - 200+ Formats
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Squoosh
+    url: https://squoosh.app/
+    description: Google — AVIF/WebP/JPEG XL image compression.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Google
+      - Modern Formats
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: TinyPNG
+    url: https://tinypng.com/
+    description: Lossy PNG/JPEG compression.
+    entry_type: tool
+    license: Freemium
+    readme_tags:
+      - PNG/JPEG
+      - Lossy
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: XnConvert
+    url: https://www.xnview.com/en/xnconvert/
+    description: Batch image converter, 80+ actions.
+    license: Free
+    entry_type: software
+    best_for: Batch image conversion
+    notes: RELOCATE — entry_type software belongs in §12 software table, not tools
+    readme_tags:
+      - Batch
+      - 80+ Actions
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - win
+        - mac
+        - linux
+  - name: PNGQuant
+    url: https://pngquant.org/
+    description: CLI lossy PNG compression.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - CLI
+      - PNG
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: HandBrake
+    url: https://handbrake.fr/
+    description: Free, open-source H.265/AV1 video encoder.
+    license: Open Source
+    entry_type: software
+    best_for: Video encoding
+    notes: RELOCATE — entry_type software belongs in §12 software table
+    readme_tags:
+      - H.265/AV1
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Shutter Encoder
+    url: https://www.shutterencoder.com/
+    description: FFmpeg GUI with professional presets.
+    license: Free
+    entry_type: software
+    best_for: Pro video encoding GUI
+    notes: RELOCATE — entry_type software belongs in §12 software table
+    readme_tags:
+      - FFmpeg GUI
+      - Pro Presets
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - win
+        - mac
+        - linux
+  - name: fre:ac
+    url: https://www.freac.org/
+    description: Free, open-source batch audio converter.
+    license: Open Source
+    entry_type: software
+    best_for: Batch audio conversion
+    notes: RELOCATE — entry_type software belongs in §12 software table
+    readme_tags:
+      - Audio Batch
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: SoX
+    url: https://sourceforge.net/projects/sox/
+    description: CLI audio processing.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Audio CLI
+      - Swiss Army
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: OIIO (OpenImageIO)
+    url: https://github.com/AcademySoftwareFoundation/OpenImageIO
+    description: ASWF CLI tools, 100+ formats. VFX pipeline standard.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - opensource-alt
+    readme_tags:
+      - ASWF
+      - Pipeline Standard
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Luminance HDR
+    url: https://qtpfsgui.sourceforge.net/
+    description: HDR workflow — merge brackets, tonemap, convert EXR/HDR/RGBE.
+    license: Open Source
+    entry_type: software
+    best_for: HDR workflow
+    notes: RELOCATE — entry_type software belongs in §12 software table
+    tags:
+      workflow:
+        - lighting
+      tech:
+        - opensource-alt
+    readme_tags:
+      - HDR Workflow
+      - EXR
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: F Spy USD
+    url: https://github.com/Vochsel/fspy-USD
+    description: Unofficial fSpy to USD converter.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - usd
+  - name: Pixelicious
+    url: https://www.pixelicious.xyz/
+    description: Image-to-Pixel Art converter.
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Packyderm
+    url: https://isometric8.itch.io/packyderm-unitypackage-extractor
+    description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Retargeting Mixamo Animation Tool
+    url: http://terribilisstudio.fr/converter
+    description: Retargeting Mixamo Animation Tool.
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Mixamo Converter
+    url: https://github.com/enziop/mixamo_converter
+    description: Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
+    entry_type: plugin
+    license: Open Source
+    notes: RELOCATE — Blender plugin, belongs under plugins/blender section
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - blender-addon
+        - unreal-plugin
+  - name: USDZ
+    url: https://github.com/robmcrosby/BlenderUSDZ
+    description: '[glTF MultiExport](https://github.com/MozillaReality/blender-gltf-multiexport-addon), [ZBrush](https://blenderartists.org/t/goz-for-blender-2-8/1138418)'
+    entry_type: plugin
+    license: Open Source
+    notes: RELOCATE — Blender USDZ exporter plugin, belongs under plugins/blender
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - blender-addon
+        - usd
+  - name: 3DGS Converter
+    url: https://github.com/francescofugazzi/3dgsconverter
+    description: Format conversion tool for 3D Gaussian Splatting data.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - gaussian-splatting
+  - name: Needle USD Converter
+    url: https://usd.needle.tools/
+    description: Web-based USD/USDZ viewer and converter.
+    entry_type: tool
+    license: Free
+    tags:
+      tech:
+        - usd
+      platform:
+        - web
+    readme_tags:
+      - USD/USDZ
+      - Web

@@ -1,0 +1,166 @@
+entries:
+  - name: Travis Davids
+    url: https://www.youtube.com/channel/UCniZ7Qzbv17NvoCypCzB4Ow
+    description: Character workflow and industry breakdowns.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Characters
+      - Pro Workflow
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+  - name: Travis Ragsdale
+    url: https://www.youtube.com/channel/UCxOJdR3lmUf9XP_ME-C9jlg
+    description: Sculpting tutorials.
+    entry_type: channel
+    license: Free
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+    readme_tags:
+      - Sculpting
+      - Characters
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Proko
+    url: https://www.youtube.com/@ProkoTV
+    description: Figure drawing and anatomy.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Figure Drawing
+      - Anatomy
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+  - name: Marco Bucci
+    url: https://www.youtube.com/@marcobucci
+    description: Painting and color theory.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Painting
+      - Color Theory
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+  - name: Sinix Design
+    url: https://www.youtube.com/@sinixdesign
+    description: Digital painting fundamentals.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Digital Painting
+      - Fundamentals
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+  - name: Tyler Edlin
+    url: https://www.youtube.com/@TylerEdlin84
+    description: Environment and concept art.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Environment
+      - Concept
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+  - name: Grady Frederick
+    url: https://www.youtube.com/@gradyfrederickart
+    description: Concept art process.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Concept Process
+      - Art
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+  - name: Modern Day James
+    url: https://www.youtube.com/@moderndayjames
+    description: Rigorous perspective systems and construction drawing.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Perspective
+      - Construction
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+  - name: Trent Kaniuga
+    url: https://www.youtube.com/@TrentKaniuga
+    description: Concept art workflow for game/film production.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Production Workflow
+      - Games/Film
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+  - name: YanSculpts
+    url: https://www.youtube.com/@yansculpts
+    description: Blender sculpting tutorials, including beginner sword modeling.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Sculpting
+      - Blender
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+  - name: Yu Fujishiro (NTRCT)
+    url: https://www.youtube.com/@YFJSR
+    description: Stylized character creation and interactive animation art.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Characters
+      - Stylized
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web

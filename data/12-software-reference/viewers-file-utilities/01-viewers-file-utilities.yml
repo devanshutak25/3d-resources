@@ -1,0 +1,133 @@
+entries:
+  - name: XnView MP
+    url: https://www.xnview.com/en/xnviewmp/
+    description: Free image viewer and converter (500+ formats).
+    license: Free
+    entry_type: software
+    best_for: Batch conversion, texture browsing
+    tags:
+      workflow:
+        - texturing
+        - reference
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Batch Convert
+      - 500+ Formats
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: DJV
+    url: https://github.com/darbyjohnston/DJV
+    description: Free professional image sequence viewer.
+    license: Open Source
+    entry_type: software
+    best_for: EXR/DPX playback, film pipeline
+    tags:
+      workflow:
+        - compositing
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Image Sequences
+      - Film Pipeline
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: f3d
+    url: https://f3d.app/
+    description: Fast 3D file viewer (glTF, STL, OBJ, USD, etc.).
+    license: Open Source
+    entry_type: software
+    best_for: Quick 3D file preview
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - usd
+        - opensource-alt
+    readme_tags:
+      - 3D Preview
+      - USD Support
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: mrViewer
+    url: https://mrviewer.sourceforge.io/
+    description: Image sequence and EXR viewer.
+    license: Open Source
+    entry_type: software
+    best_for: VFX pipeline review
+    tags:
+      workflow:
+        - compositing
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - EXR Viewer
+      - VFX Pipeline
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: glb.gallery
+    url: https://glb.gallery
+    description: Interactive 3D model gallery builder from GLB files, embeddable.
+    license: Freemium
+    entry_type: software
+    best_for: 3D portfolio, model showcase
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+        - xr
+      platform:
+        - web
+    readme_tags:
+      - Embeddable
+      - GLB
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: OpenEXR Viewer
+    url: https://github.com/AcademySoftwareFoundation/openexr
+    description: Official EXR tools.
+    license: Open Source
+    entry_type: software
+    best_for: EXR inspection
+    tags:
+      workflow:
+        - compositing
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Official EXR
+      - ASWF
+    url_last_verified: '2026-04-19'
+    url_status: ok

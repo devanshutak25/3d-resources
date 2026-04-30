@@ -1,0 +1,93 @@
+entries:
+  - name: ArtStation Marketplace
+    url: https://www.artstation.com/marketplace
+    description: Professional assets.
+    entry_type: marketplace
+    license: Paid
+    readme_tags:
+      - Professional
+      - Creator-Direct
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Unity Asset Store
+    url: https://assetstore.unity.com/
+    description: Game-ready assets.
+    entry_type: marketplace
+    license: Freemium
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unity-plugin
+    readme_tags:
+      - Unity-Ready
+      - Games
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Unreal Marketplace
+    url: https://www.unrealengine.com/marketplace
+    description: UE-optimized assets.
+    entry_type: marketplace
+    license: Freemium
+    tags:
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - unreal-plugin
+    readme_tags:
+      - UE-Optimized
+      - Games
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blender Market
+    url: https://blendermarket.com/
+    description: Blender-specific assets and addons.
+    entry_type: marketplace
+    license: Paid
+    tags:
+      tech:
+        - blender-addon
+        - blender
+      platform:
+        - web
+    readme_tags:
+      - Blender-Specific
+      - Addons + Assets
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Cubebrush
+    url: https://cubebrush.co/
+    description: Art and game assets.
+    entry_type: marketplace
+    license: Paid
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Art Assets
+      - Games
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Fab (Epic)
+    url: https://www.fab.com/
+    description: Unified marketplace (UE, Sketchfab, ArtStation).
+    entry_type: marketplace
+    license: Freemium
+    readme_tags:
+      - Unified
+      - Epic-backed
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

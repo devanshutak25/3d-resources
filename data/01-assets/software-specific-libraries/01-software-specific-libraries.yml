@@ -1,0 +1,162 @@
+entries:
+  - name: SideFX Content Library
+    url: https://www.sidefx.com/contentlibrary/
+    description: Official Houdini assets.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Houdini
+      - Official
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - houdini-addon
+  - name: Blender Demo Files
+    url: https://www.blender.org/download/demo-files/
+    description: Official demo scenes.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Blender
+      - Demo Scenes
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - blender
+  - name: Blender Extensions
+    url: https://extensions.blender.org/
+    description: Official addons and themes repository.
+    license: Free
+    entry_type: marketplace
+    tags:
+      tech:
+        - blender
+        - blender-addon
+      workflow:
+        - modeling
+    readme_tags:
+      - Blender
+      - Addons
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Substance 3D Assets
+    url: https://substance3d.adobe.com/assets/
+    description: Adobe materials library.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+        - modeling
+      tech:
+        - pbr
+        - smart-materials
+    readme_tags:
+      - Adobe
+      - Materials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Substance 3D Community Assets
+    url: https://substance3d.adobe.com/community-assets
+    description: User-shared materials.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - material-authoring
+        - modeling
+        - texturing
+      tech:
+        - pbr
+    readme_tags:
+      - Community
+      - Substance
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: ZBrush Download Center
+    url: https://pixologic.com/zbrush/downloadcenter/alpha/
+    description: Alphas and brushes.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - sculpting
+        - modeling
+      tech:
+        - zbrush
+    readme_tags:
+      - ZBrush
+      - Alphas/Brushes
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Maxon Asset Browser
+    url: https://www.maxon.net/en/cinema-4d/features/asset-browser
+    description: Cinema 4D built-in asset library.
+    license: Paid
+    entry_type: asset-source
+    readme_tags:
+      - C4D
+      - Official
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - c4d
+  - name: Maya Content Browser
+    url: https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-14B1E820-24A5-41CF-B3A2-1BFED3464908
+    description: Official example scenes and assets.
+    license: Paid
+    entry_type: asset-source
+    readme_tags:
+      - Maya
+      - Examples
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - maya
+  - name: 3DCoat Smart Materials
+    url: https://3dcoat.com/documentation/manual/brush-components/smart-materials/
+    description: Official materials library.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - material-authoring
+        - modeling
+      tech:
+        - smart-materials
+        - 3dcoat
+    readme_tags:
+      - 3DCoat
+      - Smart Materials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Nomad Sculpt Resources
+    url: https://nomadsculpt.com/resources/
+    description: Community brushes and matcaps.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - sculpting
+        - modeling
+      tech:
+        - nomad-sculpt
+        - ipad-native
+    readme_tags:
+      - Nomad
+      - Brushes/Matcaps
+    url_last_verified: '2026-04-19'
+    url_status: ok

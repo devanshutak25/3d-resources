@@ -1,0 +1,21 @@
+entries:
+  - name: Rebelway
+    url: https://www.rebelway.net/
+    description: FX, procedural modeling, VEX, pyro, destruction, fluid, fur, muscle, lighting, ML courses. Many free tutorials.
+    license: Freemium
+    entry_type: tutorial
+    tags:
+      workflow:
+        - fx
+        - simulation
+        - rendering
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - houdini
+    readme_tags:
+      - Course Hub
+      - Free + Paid
+    url_last_verified: '2026-04-19'
+    url_status: ok

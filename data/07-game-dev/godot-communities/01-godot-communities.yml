@@ -1,0 +1,43 @@
+entries:
+  - name: r/godot
+    url: https://www.reddit.com/r/godot/
+    description: 350k+ members, very active.
+    entry_type: community
+    readme_tags:
+      - Reddit
+      - Very Active
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - godot
+  - name: Godot Discord
+    url: https://discord.gg/4JBkykG
+    description: Official Discord.
+    entry_type: community
+    readme_tags:
+      - Discord
+      - Official
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - godot
+  - name: Godot Forums
+    url: https://forum.godotengine.org/
+    description: Official forum.
+    entry_type: community
+    readme_tags:
+      - Forum
+      - Official
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - godot

@@ -1,0 +1,590 @@
+entries:
+  - name: Crowdrender
+    url: https://www.crowd-render.com/
+    description: Distributed rendering across machines.
+    license: Freemium
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+        - blender
+      workflow:
+        - rendering
+    readme_tags:
+      - Distributed Render
+      - Blender
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blender to Unity FBX
+    url: https://github.com/EdyJ/blender-to-unity-fbx-exporter
+    description: Unity export addon.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+        - unity-plugin
+        - blender
+        - opensource-alt
+    readme_tags:
+      - Unity Export
+      - FBX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: MB Lab
+    url: https://github.com/animate1978/MB-Lab
+    description: Character creation (archived, succeeded by CharMorph).
+    license: Open Source
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+        - blender
+        - opensource-alt
+      workflow:
+        - modeling
+    readme_tags:
+      - Characters
+      - Archived
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: PSOFT Pencil+ 4
+    url: https://psoft.co.jp/en/product/pencil/blender/
+    description: NPR line rendering.
+    license: Paid
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+        - blender
+      workflow:
+        - rendering
+    readme_tags:
+      - NPR
+      - Line Render
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Graswald
+    url: https://blendermarket.com/products/graswald
+    description: Grass and plants library.
+    license: Paid
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Foliage
+      - Premium
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Easy HDRI
+    url: https://codeofart.com/easy-hdri-2-8/
+    description: HDRI management addon.
+    license: Free
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+        - blender
+      workflow:
+        - lighting
+    readme_tags:
+      - HDRI Management
+      - Workflow
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blender Awesome List
+    url: https://github.com/agmmnn/awesome-blender
+    description: 'RELOCATE: awesome-list, not an addon. More addons and resources around Blender in this awesome list.'
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: F Spy Blender
+    url: https://github.com/stuffmatic/fSpy-Blender
+    description: Official fSpy Blender importer.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Pyblish
+    url: https://github.com/jasperges/pyblish-blender
+    description: Blender Addon to integrate the Pyblish framework
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Vscode
+    url: https://github.com/JacquesLucke/blender_vscode
+    description: Visual Studio Code extension for Blender development.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Addons
+    url: https://github.com/Antonioya/blender
+    description: Helpers for Blender
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Tissue
+    url: https://github.com/alessandro-zomparelli/tissue
+    description: Blender's add-on for computational design.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Sverchok
+    url: https://github.com/nortikin/sverchok/
+    description: A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Capsule
+    url: https://github.com/Takanu/Capsule
+    description: Blender addon to export, manage and automate to share between Blender and Unreal/Unity or other real-time engine.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Quixel Bridge
+    url: https://quixel.com/bridge
+    description: 'RELOCATE: standalone bridge tool/asset-source, not a Blender addon. Connects Megascans to all your favorite tools including Blender.'
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Quixel Mixer
+    url: https://quixel.com/mixer
+    description: 'RELOCATE: standalone material authoring app, not a Blender addon. Create photorealistic, tileable, materials in seconds with powerful mixing and painting.'
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: 3D House Planner
+    url: https://www.3dhouseplanner.com/
+    description: 'RELOCATE: standalone web app, not a Blender addon. Professional home design web application that allows users to design houses and apartments.'
+    license: Freemium
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: ActorCore
+    url: https://actorcore.reallusion.com/free
+    description: 'RELOCATE: mocap asset library, not a Blender addon. Motion-capture library from Reallusion.'
+    license: Freemium
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Export Paper Model from Blender
+    url: https://addam.github.io/Export-Paper-Model-from-Blender/
+    description: Add-on for creating paper models. [![][repo]](https://github.com/addam/Export-Paper-Model-from-Blender)
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Programming Add-ons for Blender 2.8
+    url: http://airplanes3d.net/pydev-000_e.xml
+    description: 'RELOCATE: ebook/tutorial, not an addon. It shows how to set up a professional IDE for writing Python programs for Blender, on the example of a simple plugin. It is an ebook, published freely on Creative Commons license.'
+    license: Free
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: AMD Radeon ProRender
+    url: https://www.amd.com/en/technologies/radeon-prorender-blender
+    description: AMD’s powerful physically-based rendering engine that lets creative professionals use open industry standards to leverage GPU and CPU performance to produce stunningly photorealistic images in B
+    license: Free
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Anatomy 360, Free Reference
+    url: https://anatomy360.info/anatomy-scan-reference-dump/
+    description: 'RELOCATE: reference asset library, not a Blender addon. 3D scanned human reference images.'
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Mandelbulb3D (original)
+    url: http://www.andreas-maschke.com/?page_id=4607
+    description: 'RELOCATE: standalone fractal app, not a Blender addon. Free software application created for 3D fractal imaging. [![][repo]](https://github.com/thargor6/mb3d)'
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Artec 3D
+    url: https://www.artec3d.com/3d-models
+    description: 'RELOCATE: 3D scan asset source, not a Blender addon. Download high resolution 3D scans for free. (CC-BY)'
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: The Blend
+    url: https://blend.beehiiv.com
+    description: 'RELOCATE: newsletter/channel, not a Blender addon. Weekly articles & lessons on Blender & 3D'
+    license: Free
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: BlenderAddons.org
+    url: https://blender-addons.org/
+    description: 'RELOCATE: addon directory/marketplace, not an addon itself. Provides a list of free and paid Blender addons. Find the addon you need under categories or tags.'
+    license: Free
+    entry_type: marketplace
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: 💬blender.chat
+    url: https://blender.chat/
+    description: 'RELOCATE: community chat, not an addon. Official chat server for artists and developers.'
+    license: Free
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Blender 3D Architect by Allan Brito
+    url: https://www.blender3darchitect.com/blender-books/
+    description: 'RELOCATE: book/tutorial, not an addon. Blender 3D Architect by Allan Brito.'
+    license: Paid
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: BlenderBIM
+    url: https://blenderbim.org
+    description: An add-on for beautiful, detailed, and data-rich OpenBIM with Blender. [![][repo]](https://github.com/ifcopenshell/ifcopenshell) ![][gpl]
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: BlenderCAM
+    url: https://blendercam.com
+    description: An Open Source solution for CAM with Blender 3D. [![][repo]](https://github.com/vilemduha/blendercam) ![][gpl]
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: The Blendersauce Vault Materials
+    url: http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
+    description: 'RELOCATE: material asset library, not a Blender addon. Abstract, Bricks and Walls, Concrete, Fabric, Fluids, Food, Manmade, Metal, Metal painted Materials, Nature, Plaster, Rocks/Stones, Tiles, Wood.'
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: blenderscripting
+    url: https://blenderscripting.blogspot.com/
+    description: 'RELOCATE: blog/tutorial, not an addon. Blender related python snippets to get you started.'
+    license: Free
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Blender Sushi
+    url: https://blendersushi.blogspot.com/
+    description: 'RELOCATE: blog/channel, not an addon. Collection of 3D ideas, poetries and experiments blended in Blender 3D.'
+    license: Free
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Blend Swap
+    url: https://www.blendswap.com/blends
+    description: 'RELOCATE: .blend file asset source, not an addon. The one place for Open Source Blender files.'
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: CAD Sketcher
+    url: https://www.cadsketcher.com
+    description: CAD Sketcher is a free and open-source project looking to enhance precision workflows in blender by bringing CAD like tools, features and usability. [![][repo]](https://github.com/hlorus/CAD_Sketch
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: SculptJanuary
+    url: https://www.cgboost.com/challenges
+    description: 'RELOCATE: community challenge, not an addon. Challenge yourself over 31 days with a set of 31 topics.'
+    license: Free
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Clavicula
+    url: https://clavicula.link/
+    description: 'RELOCATE: standalone modeling software, not a Blender addon. Intuitive and free 3D modeling software for everyone.'
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: CNDL
+    url: https://cndl.io/
+    description: 'RELOCATE: standalone IES toolset, not a Blender addon. An IES lighting creation toolset. Improve your renders with custom IES lighting.'
+    license: Freemium
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Blender Conference
+    url: https://conference.blender.org/
+    description: 'RELOCATE: community event, not an addon. The yearly Blender Conference in Amsterdam. (Playlists: [Bcon25](https://www.youtube.com/playlist?list=PLa1F2ddGya_8u-HEvmfCVuS_OImW8HaLd)'
+    license: Free
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Daz to Blender Bridge
+    url: https://www.daz3d.com/daz-to-blender-bridge
+    description: This easy-to-use Bridge transfers your Genesis 8 and 3 characters from Daz directly to Blender.
+    license: Free
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: TerreSculptor
+    url: http://www.demenzunmedia.com/home/terresculptor/
+    description: 'RELOCATE: standalone terrain software, not a Blender addon. Terrain creation and editing software. It is freeware.'
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Connecter
+    url: https://www.designconnected.com/connecter
+    description: 'RELOCATE: standalone asset management app, not a Blender addon. Free and visual creative assets management for 3d, AEC and design professionals.'
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: 🔌 Developer Portal
+    url: https://developer.blender.org/
+    description: 'RELOCATE: developer reference portal, not an addon. [💭 DevTalk](https://devtalk.blender.org/) | [💻 Developers Blog](https://code.blender.org/)'
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Needle Engine
+    url: http://docs.needle.tools/blender
+    description: Allows you to create highly interactive, flexible and lightweight web applications right inside Blender.
+    license: Freemium
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Scanned Female Head Model by EISKO
+    url: https://eisko.com/louise/
+    description: 'RELOCATE: scan asset, not an addon. [Scanned 3D People from Renderpeople](https://renderpeople.com/free-3d-people/), [Scans from Louvre Museum](https://gumroad.com/l/xAQxj)'
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: aerialod
+    url: https://ephtracy.github.io/index.html?page=aerialod
+    description: 'RELOCATE: standalone renderer, not a Blender addon. A free interactive path tracing renderer for height maps.'
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: TreeIt
+    url: https://www.evolved-software.com/treeit/treeit
+    description: 'RELOCATE: standalone tree generator, not a Blender addon. Easy to use real time 3D tree generator for the simple creation.'
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: fb/blender
+    url: https://fb.com/groups/2207257375/
+    description: 'RELOCATE: community group, not an addon. Blender Facebook group.'
+    license: Free
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: reflow
+    url: https://gitlab.com/diegogangl/reflow
+    description: Blender addon to change fps.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Rig on the Fly
+    url: https://gitlab.com/dypsloom/rigonthefly
+    description: Rig on the Fly is a Blender dynamic rigging tool used to simplify and speed up animation workflow.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt

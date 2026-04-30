@@ -1,0 +1,174 @@
+entries:
+  - name: Materialize
+    url: http://www.boundingboxsoftware.com/materialize/
+    description: Free texture map generation from a single image.
+    license: Free
+    entry_type: software
+    best_for: Generating normal/height/AO maps
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      platform:
+        - win
+    readme_tags:
+      - Free
+      - Map Generation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Substance Designer
+    url: https://www.adobe.com/products/substance3d-designer.html
+    description: Node-based procedural texturing.
+    license: Paid
+    entry_type: software
+    best_for: Procedural PBR materials
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      tech:
+        - procedural
+        - node-based
+        - pbr
+        - subscription
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Procedural
+      - Industry Standard
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Substance Painter
+    url: https://www.adobe.com/products/substance3d-painter.html
+    description: Industry-standard 3D texture painting with smart materials.
+    license: Paid
+    entry_type: software
+    best_for: 3D texture painting
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - pbr
+        - smart-materials
+        - subscription
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Industry Standard
+      - PBR Painter
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: ArmorPaint
+    url: https://armorpaint.org/
+    description: Open-source texture painting.
+    license: Open Source
+    entry_type: software
+    best_for: OSS texture painting
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - gpu
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Open Source
+      - Painter-alt
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: SmartNormal 2.0
+    url: https://www.smart-page.net/smartnormal/
+    description: Normal map generation from images.
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Normal Maps
+      - Browser
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Material Maker
+    url: https://www.materialmaker.org/
+    description: Open-source procedural texture generator (Substance Designer alternative).
+    license: Open Source
+    entry_type: software
+    best_for: Procedural PBR materials, free
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      tech:
+        - procedural
+        - node-based
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Open Source
+      - SD Alternative
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Texelpaint3D
+    url: https://texelpaint3d.com/
+    description: Paint directly on 3D model faces without UV unwrapping. 1-pixel-per-triangle workflow.
+    license: Free
+    entry_type: software
+    best_for: UV-free 3D painting
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - No-UV
+      - Early Access
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: xNormal
+    url: https://xnormal.net/
+    description: Free high-poly to low-poly baking (normals, AO, cavity).
+    license: Free
+    entry_type: software
+    best_for: Texture baking
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      platform:
+        - win
+    readme_tags:
+      - Baking
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Materia
+    url: https://github.com/Metric/Materia
+    description: An open-source alternative to Substance Designer written in C#. *(The project was archived)*.
+    license: Open Source
+    entry_type: tool
+    deprecated: true
+    best_for: SD-alternative (archived)
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      tech:
+        - opensource-alt
+        - node-based
+        - procedural
+    readme_tags:
+      - Open Source
+      - Archived
+    url_last_verified: '2026-04-19'
+    url_status: ok

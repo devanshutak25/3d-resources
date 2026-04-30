@@ -1,0 +1,32 @@
+entries:
+  - name: 2D Tutorials — Draw a Box
+    url: https://drawabox.com/
+    description: Free drawing fundamentals course.
+    license: Free
+    entry_type: tutorial
+    tags:
+      skill:
+        - beginner
+        - intermediate
+      workflow:
+        - reference
+    readme_tags:
+      - Fundamentals
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Saint11 Pixel Art
+    url: https://www.patreon.com/saint11
+    description: Pixel art tutorials.
+    license: Paid
+    entry_type: channel
+    tags:
+      output:
+        - games
+      workflow:
+        - reference
+    readme_tags:
+      - Pixel Art
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok

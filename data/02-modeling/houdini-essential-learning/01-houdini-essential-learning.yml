@@ -1,0 +1,101 @@
+entries:
+  - name: CGWiki (tokeru.com)
+    url: http://www.tokeru.com/cgwiki/?title=Houdini
+    description: Matt Estela's CGWiki — the most comprehensive Houdini reference (Joy of VEX, LOPS, particles, everything).
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Essential Reference
+      - Matt Estela
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: Entagma (site)
+    url: http://www.entagma.com/
+    description: Advanced design and mograph tutorials. Also Unreal and Blender.
+    license: Freemium
+    entry_type: channel
+    readme_tags:
+      - Advanced
+      - Design/Mograph
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      skill:
+        - advanced
+      output:
+        - motion-graphics
+      tech:
+        - houdini
+  - name: Applied Houdini
+    url: http://www.appliedhoudini.com/
+    description: Stephen Knipping's FX-focused course series (ILM).
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - houdini
+    readme_tags:
+      - FX Focus
+      - ILM Pro
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: SideFX Tutorials
+    url: https://www.sidefx.com/tutorials/
+    description: Official tutorials.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Official
+      - Comprehensive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: Farmfield (Vimeo)
+    url: https://vimeo.com/farmfield
+    description: Setups and hip files from Johnny Farmfield.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Setups + Hips
+      - Farmfield
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: John Kunz (site)
+    url: https://www.johnkunz.com/
+    description: Weekly streams — FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/)).
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Weekly Streams
+      - FX + Code
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      workflow:
+        - fx
+      tech:
+        - houdini

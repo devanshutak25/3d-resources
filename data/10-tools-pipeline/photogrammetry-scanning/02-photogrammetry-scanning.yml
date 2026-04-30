@@ -1,0 +1,686 @@
+entries:
+  - name: Gaussian Splatting Lightning
+    url: https://github.com/yzslab/gaussian-splatting-lightning
+    description: A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+        - gaussian-splatting
+    readme_tags:
+      - gaussian-splatting
+      - opensource
+  - name: 360 Gaussian Splatting
+    url: https://github.com/inuex35/360-gaussian-splatting
+    description: Generate gaussian splatting directly from 360 images
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+        - gaussian-splatting
+    readme_tags:
+      - gaussian-splatting
+      - '360'
+  - name: Leonid Keselman
+    url: https://github.com/leonidk
+    description: For informing me about the release of the paper "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting".
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    notes: 'MISFIT: GitHub user profile, not a resource. Candidate for removal/relocation.'
+    tags:
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    readme_tags:
+      - researcher
+  - name: 'HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video'
+    url: https://grail.cs.washington.edu/projects/humannerf/
+    description: Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf) | [bibtex](./citations/humannerf.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - human
+  - name: 'Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video'
+    url: https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/
+    description: Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf) | [bibtex](./NeRF-and-Beyond.bib#L283-L289) <!---Tretschk20arxiv_NR-NeRF-->
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - dynamic
+  - name: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields
+    url: https://hypernerf.github.io/
+    description: Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf) | [bibtex](./citations/hypernerf.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - hypernerf
+  - name: 'NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors'
+    url: https://jdily.github.io/proj_site/nerfin_proj.html
+    description: Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - inpainting
+  - name: 'InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity'
+    url: https://jiabinliang.github.io/InfNeRF.io/
+    description: Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF) | [bibtex](./citations/InfNeRF.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - large-scale
+  - name: Editable Free-viewpoint Video Using a Layered Neural Representation
+    url: https://jiakai-zhang.github.io/st-nerf/
+    description: Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) | [bibtex](./citations/st-nerf.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - free-viewpoint
+  - name: 'StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis'
+    url: http://jiataogu.me/style_nerf/
+    description: Gu et al., Arxiv 2021 | [bibtex](./citations/stylenerf.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - generative
+  - name: 'Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields'
+    url: https://jonbarron.info/mipnerf/
+    description: Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf) | [bibtex](./citations/mipnerf.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - mipnerf
+  - name: 'Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields'
+    url: https://jonbarron.info/mipnerf360/
+    description: Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - unbounded
+  - name: Neural Scene Graphs for Dynamic Scenes
+    url: https://light.princeton.edu/neural-scene-graphs/
+    description: Ost et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L353-L358) <!---Ost20arxiv_NeuralSceneGraphs-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - scene-graph
+  - name: Neural Sparse Voxel Fields
+    url: https://lingjie0206.github.io/papers/NSVF/
+    description: Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF) | [bibtex](./NeRF-and-Beyond.bib#L135-L141) <!---Liu20neurips_sparse_nerf-->
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - voxel
+  - name: Paper.Pdf
+    url: https://liquidammonia.github.io/color-nerf/assets/paper.pdf
+    description: '[🌐 Project Page](https://liquidammonia.github.io/color-nerf/)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    notes: 'MISFIT: name is generic ("Paper.Pdf"), needs rename. Color-NeRF paper PDF.'
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - paper
+  - name: 'pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis'
+    url: https://marcoamonteiro.github.io/pi-GAN-website/
+    description: Chan et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L24-L30) <!---Chan20arxiv_piGAN-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - gan
+  - name: NeRF (paper site)
+    url: https://www.matthewtancik.com/nerf
+    description: Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)  | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - foundational
+  - name: 'Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields'
+    url: https://mizhenxing.github.io/switchnerf
+    description: Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF) | [bibtex](./citations/Switch-NeRF.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - large-scale
+  - name: '**Browse the Paper List**'
+    url: https://mrnerf.github.io/awesome-3D-gaussian-splatting/
+    description: '[**Contribute**](CONTRIBUTING.md) | [**MrNeRF**](https://www.mrnerf.com)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    notes: 'MISFIT: name has markdown formatting and is non-descriptive. Awesome-3DGS paper list.'
+    tags:
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    readme_tags:
+      - gaussian-splatting
+      - awesome-list
+  - name: Neural Refinement for Absolute Pose Regression with Feature Synthesis
+    url: https://nefes.active.vision/
+    description: Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nefes.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - pose
+  - name: 'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections'
+    url: https://nerf-w.github.io/
+    description: Martin-Brualla et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L152-L158) <!---MartinBrualla20arxiv_nerfw-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - in-the-wild
+  - name: Deformable Neural Radiance Fields
+    url: https://nerfies.github.io/
+    description: Park et al., Arxiv 2020 | [github](https://github.com/google/nerfies) | [bibtex](./NeRF-and-Beyond.bib#L206-L212) <!---Park20arxiv_nerfies-->
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - deformable
+  - name: 'NeRF--: Neural Radiance Fields Without Known Camera Parameters'
+    url: http://nerfmm.active.vision/
+    description: Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm) | [bibtex](./citations/nerf--.txt) <!---Wang21arxiv_nerfmm-->
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - no-pose
+  - name: 'NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior'
+    url: https://nope-nerf.active.vision/
+    description: Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nope-nerf.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - no-pose
+  - name: 'NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination'
+    url: http://people.csail.mit.edu/xiuming/projects/nerfactor/
+    description: Zhang et al. Arxiv 2021 | [github](https://github.com/google/nerfactor) | [bibtex](./citations/nerfactor.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - relighting
+  - name: 'NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis'
+    url: https://people.eecs.berkeley.edu/~pratul/nerv/
+    description: Srinivasan et al. CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L260-L266) <!---Srinivasan20arxiv_NeRV-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - relighting
+  - name: 'PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction'
+    url: https://porf.active.vision/
+    description: Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/porf.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - pose
+  - name: Portrait Neural Radiance Fields from a Single Image
+    url: https://portrait-nerf.github.io/
+    description: Gao et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L95-L101) <!---Gao20arxiv_pNeRF-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - portrait
+  - name: Self-Calibrating Neural Radiance Fields
+    url: https://postech-cvlab.github.io/SCNeRF/
+    description: Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/SCNeRF.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - calibration
+  - name: 'Ha-NeRF:laughing:: Hallucinated Neural Radiance Fields in the Wild'
+    url: https://rover-xingyu.github.io/Ha-NeRF/
+    description: Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF) | [bibtex](./citations/Ha-NeRF.txt) <!---chen2021hallucinated-->
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    notes: 'MISFIT: name contains emoji shortcode ":laughing:" — clean before publishing.'
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - in-the-wild
+  - name: 'L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields'
+    url: https://rover-xingyu.github.io/L2G-NeRF/
+    description: Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/L2G-NeRF.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - registration
+  - name: In-Place Scene Labelling and Understanding with Implicit Scene Representation
+    url: https://shuaifengzhi.com/Semantic-NeRF/
+    description: Zhi et al., Arxiv 2021 | [bibtex](./citations/semantic-nerf.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - semantic
+  - name: 'CodeNeRF: Disentangled Neural Radiance Fields for Object Categories'
+    url: https://sites.google.com/view/wbjang/home/codenerf
+    description: Jang et al., ICCV 2021 | [bibtex](./citations/CodeNeRF.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - disentangled
+  - name: Comprehensive overview of Gaussian Splatting
+    url: https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362
+    description: Comprehensive overview of Gaussian Splatting.
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    readme_tags:
+      - gaussian-splatting
+      - article
+  - name: Space-time Neural Irradiance Fields for Free-Viewpoint Video
+    url: https://video-nerf.github.io/
+    description: Xian et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L299-L305) <!---Xian20arxiv_stnif-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - video
+  - name: 'MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis'
+    url: https://vincentfung13.github.io/projects/mine/
+    description: Jiaxin Li et al., ICCV 2021 | [github](https://github.com/vincentfung13/MINE) | [bibtex](./citations/MINE.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - depth
+  - name: 'SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image'
+    url: https://vita-group.github.io/SinNeRF/
+    description: Xu et al., ECCV 2022 | [github](https://github.com/VITA-Group/SinNeRF) | [bibtex](./citations/SinNeRF.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - single-image
+  - name: 'Block-NeRF: Scalable Large Scene Neural View Synthesis'
+    url: https://waymo.com/research/block-nerf/
+    description: Tancik et al., Arxiv 2022 | [bibtex](./citations/Block-NeRF.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - large-scale
+  - name: 'NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo'
+    url: https://weiyithu.github.io/NerfingMVS/
+    description: Wei et al., ICCV 2021 | [bibtex](./citations/NerfingMVS.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - mvs
+  - name: 'Point-NeRF: Point-based Neural Radiance Fields'
+    url: https://xharlie.github.io/projects/project_sites/pointnerf/index.html
+    description: Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf) | [bibtex](./citations/Point-NeRF.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - point-based
+  - name: Intro to gaussian splatting (and Unity plugin)
+    url: https://www.xuanprada.com/blog/2023/10/22/intro-to-gaussian-splatting
+    description: Intro to gaussian splatting (and Unity plugin).
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+        - unity-plugin
+    readme_tags:
+      - gaussian-splatting
+      - unity
+  - name: 'iNeRF: Inverting Neural Radiance Fields for Pose Estimation'
+    url: http://yenchenlin.me/inerf/
+    description: Yen-Chen et al. IROS 2021 | [bibtex](./NeRF-and-Beyond.bib#L321-L327) <!---YenChen20arxiv_iNeRF-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - pose
+  - name: 'AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training'
+    url: https://yifanjiang19.github.io/alignerf
+    description: Jiang et al., CVPR 2023 | [bibtex](./citations/AligNeRF.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - alignment
+  - name: Neural Radiance Flow for 4D View Synthesis and Video Processing
+    url: https://yilundu.github.io/nerflow/
+    description: Du et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L79-L85) <!---Du20arxiv_nerflow-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - 4d
+  - name: Gaussian Splats Town Hall - Part 2
+    url: https://www.youtube.com/@pixelreconstruct
+    description: Gaussian Splats Town Hall - Part 2.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+      platform:
+        - web
+    readme_tags:
+      - gaussian-splatting
+      - youtube
+  - name: Neural Rendering (YouTube)
+    url: https://www.youtube.com/@NeuralRendering
+    description: Ben Mildenhall
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+      platform:
+        - web
+    readme_tags:
+      - nerf
+      - youtube
+  - name: 'NeRF-SOS: Any-view Self-supervised Object Segmentation on Complex Real-world Scenes'
+    url: https://zhiwenfan.github.io/NeRF-SOS/
+    description: Fan et al., ICLR 2023 | [bibtex](./citations/NeRF-SOS.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - segmentation
+  - name: Learning Compositional Radiance Fields of Dynamic Human Heads
+    url: https://ziyanw1.github.io/hybrid_nerf/
+    description: Wang et al., Arxiv 2020 | [bibtex](./citations/hybrid-nerf.txt) <!---Wang20arxiv_hybrid_NeRF-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - human
+  - name: 'ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video'
+    url: https://zju3dv.github.io/enerf/
+    description: Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF) | [bibtex](./citations/enerf.txt)
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - free-viewpoint
+  - name: Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies
+    url: https://zju3dv.github.io/animatable_nerf/
+    description: Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf) | [bibtex](citations/animatable_nerf.txt) <!---Peng21arxiv_animatable_nerf-->
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - human

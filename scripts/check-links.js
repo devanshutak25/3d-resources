@@ -3,11 +3,10 @@
 // Updates url_last_verified + url_status. Auto-marks broken links deprecated.
 // Writes a summary report to _maintenance/link-check-YYYY-MM-DD.md for the CI workflow to use as issue body.
 
-const yaml = require('js-yaml');
 const fs = require('fs');
 const path = require('path');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const CONCURRENCY = 16;
 const TIMEOUT_MS = 15000;
 const TODAY = new Date().toISOString().slice(0, 10);
@@ -53,17 +52,20 @@ async function main() {
   const dryRun = process.argv.includes('--dry-run');
   const updateFiles = !dryRun;
 
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
-  const allEntries = [];
-  for (const meta of sections.sections) {
-    const file = path.join(DATA_DIR, meta.file);
-    if (!fs.existsSync(file)) continue;
-    const doc = yaml.load(fs.readFileSync(file, 'utf8'));
-    for (const sub of doc.subsections || []) {
-      for (const entry of sub.entries || []) {
-        allEntries.push({ entry, sub, doc, metaFile: meta.file });
-      }
+  const subTitle = new Map();
+  for (const meta of catalog.loadSections().sections) {
+    for (const s of catalog.loadSection(meta.file).subsections || []) {
+      subTitle.set(`${meta.file}::${s.slug}`, s);
     }
+  }
+  const allEntries = [];
+  for (const ie of catalog.iterEntries()) {
+    allEntries.push({
+      entry: ie.entry,
+      sub: subTitle.get(`${ie.sectionFile}::${ie.subSlug}`) || { slug: ie.subSlug },
+      chunk: ie.chunk,
+      metaFile: ie.sectionFile
+    });
   }
 
   console.log(`Checking ${allEntries.length} URLs (concurrency ${CONCURRENCY}, timeout ${TIMEOUT_MS}ms)...`);
@@ -98,32 +100,10 @@ async function main() {
   }
 
   if (updateFiles) {
-    // Rewrite each affected data file.
-    const filesTouched = new Set(allEntries.map(i => i.metaFile));
-    for (const mf of filesTouched) {
-      const file = path.join(DATA_DIR, mf);
-      const doc = yaml.load(fs.readFileSync(file, 'utf8'));
-      // Merge updated fields back by URL match
-      const updates = new Map();
-      for (const item of allEntries) {
-        if (item.metaFile !== mf) continue;
-        updates.set(item.entry.url, {
-          url_last_verified: item.entry.url_last_verified,
-          url_status: item.entry.url_status,
-          deprecated: item.entry.deprecated
-        });
-      }
-      for (const sub of doc.subsections || []) {
-        for (const entry of sub.entries || []) {
-          const u = updates.get(entry.url);
-          if (!u) continue;
-          entry.url_last_verified = u.url_last_verified;
-          entry.url_status = u.url_status;
-          if (u.deprecated) entry.deprecated = true;
-        }
-      }
-      fs.writeFileSync(file, yaml.dump(doc, { lineWidth: -1, noRefs: true }));
-    }
+    // Mutations were done in-place on entry refs into each chunk; save touched chunks.
+    const touched = new Map(); // chunk._path → chunk
+    for (const item of allEntries) touched.set(item.chunk._path, item.chunk);
+    for (const chunk of touched.values()) catalog.saveChunk(chunk);
   }
 
   // Write report

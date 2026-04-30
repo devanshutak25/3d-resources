@@ -1,0 +1,560 @@
+entries:
+  - name: Default Cube
+    url: https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ/videos
+    description: CGMatter's second channel used for longer tutorials and other kinds of videos.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Blender
+      - YouTube
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: CG Cookie
+    url: https://www.youtube.com/@cg_cookie
+    description: Free tutorials from [CG Cookie](https://cgcookie.com/).
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Blender
+      - YouTube
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Technical Art & Materials
+    url: https://www.youtube.com/@BenCloward/videos
+    description: Tutorials by Ben Cloward.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Shaders
+      - YouTube
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Create the Most AMAZING Animations with Rive
+    url: https://www.youtube.com/@DesignCourse
+    description: Crash Course (DesignCourse).
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Rive
+      - YouTube
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Build iOS app with Rive Animations
+    url: https://www.youtube.com/@DesignCodeTeam
+    description: A full 3-hour course showcasing how to build a SwiftUI app with Rive animations.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Rive
+      - SwiftUI
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Unreal tutorial for Rive + Noesis
+    url: https://www.youtube.com/@NoesisTechnologies
+    description: Tutorial on how to add Rive to your Unreal games using Noesis.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unreal
+      - Rive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus
+    url: https://www.youtube.com/@BunnyGunGames
+    description: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unity
+      - VR
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Unity 3D Steam VR Video Tutorial Series
+    url: https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q
+    description: Unity 3D Steam VR Video Tutorial Series.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unity
+      - SteamVR
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: DebugLog HTC Vive Unity 3D Steam VR Video Tutorial
+    url: https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g
+    description: DebugLog HTC Vive Unity 3D Steam VR Video Tutorial.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unity
+      - Vive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render
+    url: https://www.youtube.com/@TaylorShockey
+    description: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unity
+      - Vive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 'Unity + Vive Tutorial: Beginners'
+    url: https://www.youtube.com/@VRwithAndrew
+    description: 'Unity + Vive Tutorial: Beginners.'
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unity
+      - Vive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Vive Tutorial - Intro / UI | Unity VR (VRTK)
+    url: https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ
+    description: '[GitHub Repo](https://github.com/SyntonicApps/unity-vrtk-examples).'
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unity
+      - VRTK
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: RMA Houdini Tutorials
+    url: https://www.youtube.com/@RMAFIRE
+    description: RMA Houdini Tutorials.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Houdini
+      - YouTube
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Add VFX to Cinematic RAW and LOG Footage
+    url: https://www.youtube.com/@InLightVFX
+    description: Add VFX to Cinematic RAW and LOG Footage.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - VFX
+      - YouTube
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: AAA Ghibli Forest in Blender & Unreal ~ ShinGidora
+    url: https://www.youtube.com/@ShinGidora
+    description: Good tips, though is promotion for his TREEBOX commercial script.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Blender
+      - Unreal
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: I Nailed the Anime Look ~ SILKROAD Project
+    url: https://www.youtube.com/@SilkroadProjectGame
+    description: Outline & shadows part of UV, not filter.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Houdini
+      - Stylized
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Many techniques available for Stylized Grass ~ Ghislain Girardot
+    url: https://www.youtube.com/@ghislaingirardot
+    description: Stylized grass techniques in Blender.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Blender
+      - Environment
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Environment Art Breakdown ~ Stylized Station
+    url: https://www.youtube.com/@StylizedStation
+    description: By Melissa Perl.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Blender
+      - Environment
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Material Ambient Occlusion ~ William Faucher
+    url: https://www.youtube.com/@WilliamFaucher
+    description: Bake Ambient Occlusion maps onto models.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unreal
+      - Materials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: BOOST Foliage Performance ~ Joshua M Kerr
+    url: https://www.youtube.com/@JoshuaMKerr
+    description: World offset in material.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unreal
+      - Optimization
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Animators React to KPop Demon Hunters - ft. THE DIRECTORS ~ Corridor Crew
+    url: https://www.youtube.com/@CorridorCrew
+    description: Animation reactions and breakdowns.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Animation
+      - VFX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Dean Yurke - Unreal Engine and VFX Filmmaking
+    url: https://www.youtube.com/@DeanYurke
+    description: Pro movie VFX artist explains his process.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unreal
+      - VFX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 'Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte'
+    url: https://www.youtube.com/@kibibytecompany
+    description: Custom look, LUTs, etc.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unreal
+      - Color
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 25 Tips and Tricks ~ Unreal University
+    url: https://www.youtube.com/@UnrealUniversity
+    description: Mostly shortcuts.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unreal
+      - Tips
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Tony Munoz | Game Creator Accelerator
+    url: https://www.youtube.com/@TonyMunozDev
+    description: Unreal Engine 5.7 Preview.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Unreal
+      - Gamedev
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Hunyuan 2.1 Install Guide ~ Stefan 3D AI Lab
+    url: https://www.youtube.com/@stefan_ai_3d
+    description: ComfyUI install guide ([text guide](https://digital-tails.notion.site/Hunyuan3D-2-1-Installation-Guide-2372bcde81ff80438d0efc90fc59ddb7)).
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - AI
+      - ComfyUI
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: CHEAPEST Motion Capture Setup for Metahumans ~ Charlie Driscoll
+    url: https://www.youtube.com/@CharlieDriscollFilm
+    description: For filmmaking.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - MoCap
+      - Metahuman
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Tutorial from the authors of 3DGS
+    url: https://3dgstutorial.github.io/
+    description: Tutorial from the authors of 3DGS.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - 3DGS
+      - Tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Create 3D Graphics in JS Using WebGL
+    url: https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl
+    description: Get started creating content with WebGL without any frameworks.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - WebGL
+      - JavaScript
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Character Customization Tutorial
+    url: https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial
+    description: This is the finished project of part 4 of the tutorial series for using blendshapes for character customization in Unity3D.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Unity
+      - Character
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Roll A-Ball ECS Style
+    url: https://github.com/KptEmreU/Roll-A-Ball-ECS-style
+    description: Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Unity
+      - ECS
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: 'GitHub: mixandjam'
+    url: https://github.com/mixandjam
+    description: Unity video tutorials on Youtube.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Unity
+      - GitHub
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Computer Graphics
+    url: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/
+    description: Ray tracing, animation, and so on at MIT in fall 2012.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - MIT
+      - CG Theory
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 3D Computer Graphics Programming
+    url: https://pikuma.com/courses/learn-3d-computer-graphics-programming
+    description: Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language.
+    license: Paid
+    entry_type: tutorial
+    readme_tags:
+      - C
+      - Renderer
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Vector Math for 3D Computer Graphics
+    url: http://programmedlessons.org/VectorLessons/
+    description: Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Math
+      - Vectors
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: MIT Inverse Rendering Lectures (Module 2)
+    url: https://www.scenerepresentations.org/courses/inverse-graphics-23/
+    description: Academic deep dive into inverse rendering.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - MIT
+      - Rendering
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: WebGL Academy
+    url: https://www.webglacademy.com/
+    description: Learn WebGL and 3D algorithmic in a progressive and interactive way.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - WebGL
+      - Interactive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Two-minute explanation of 3DGS
+    url: https://www.youtube.com/@IndividualKex
+    description: Two-minute explanation of 3DGS.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - 3DGS
+      - YouTube
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Computerphile 3DGS explanation
+    url: https://www.youtube.com/@Computerphile
+    description: Computerphile 3DGS explanation.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - 3DGS
+      - YouTube
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 'Lecture 18: Monte Carlo Rendering (CMU 15-462/662)'
+    url: https://www.youtube.com/@keenancrane
+    description: Including a very good introduction of importance sampling.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - CMU
+      - Rendering
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Animation Programming Basics
+    url: https://www.youtube.com/@BobbyAnguelov
+    description: Animation Programming Basics.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Animation
+      - Programming
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Introduction to Machine Learning (Course)
+    url: https://www.rebelway.net/introduction-to-machine-learning
+    description: Full Rebelway ML course.
+    license: Paid
+    entry_type: tutorial
+    readme_tags:
+      - Rebelway
+      - ML
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Domestika
+    url: https://www.domestika.org/
+    description: Creative arts courses.
+    license: Paid
+    entry_type: tutorial
+    readme_tags:
+      - Creative Arts
+      - Courses
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

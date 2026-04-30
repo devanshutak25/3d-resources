@@ -1,0 +1,81 @@
+entries:
+  - name: Ludum Dare
+    url: https://ldjam.com/
+    description: Oldest jam, twice yearly.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Oldest Jam
+      - Biannual
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: GMTK Game Jam
+    url: https://itch.io/jam/gmtk-2025
+    description: Largest jam by entries.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Largest
+      - GMTK
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: itch.io Jams
+    url: https://itch.io/jams
+    description: Hundreds of active jams.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Hub
+      - Ongoing
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: Global Game Jam
+    url: https://globalgamejam.org/
+    description: Annual, in-person worldwide.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - In-Person
+      - Global
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: Brackeys Game Jam
+    url: https://itch.io/jam/brackeys
+    description: Beginner-friendly jam.
+    entry_type: community
+    license: Free
+    tags:
+      skill:
+        - beginner
+      output:
+        - games
+    readme_tags:
+      - Beginner-Friendly
+      - Brackeys
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: JS13KGames
+    url: https://js13kgames.com/
+    description: 13KB size limit JavaScript jam.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - 13KB Limit
+      - JS
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games

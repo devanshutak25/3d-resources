@@ -2,11 +2,8 @@
 // Re-check 'unreachable' entries with longer timeout + browser UA.
 // Many unreachables are slow CDNs (Adobe, Creative Cloud) not dead URLs.
 
-const fs = require('fs');
-const path = require('path');
-const yaml = require('js-yaml');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36';
 const TIMEOUT = 30000;
 const CONCURRENCY = 6;
@@ -35,14 +32,10 @@ async function pool(items, worker) {
 }
 
 async function main() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
   const targets = [];
-  for (const m of sections.sections) {
-    const doc = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
-    for (const s of doc.subsections || []) {
-      for (const e of s.entries || []) {
-        if (e.url_status === 'unreachable') targets.push({ file: m.file, sub: s.slug, entry: e });
-      }
+  for (const ie of catalog.iterEntries()) {
+    if (ie.entry.url_status === 'unreachable') {
+      targets.push({ file: ie.sectionFile, sub: ie.subSlug, entry: ie.entry, chunk: ie.chunk });
     }
   }
   console.log(`Re-checking ${targets.length} unreachable URLs…`);
@@ -56,20 +49,13 @@ async function main() {
   console.log(`Revived: ${revived.length}`);
   console.log(`Still dead: ${stillDead.length}`);
 
-  // Update YMLs
-  const byFile = {};
-  for (const r of revived) (byFile[r.file] = byFile[r.file] || []).push(r);
-  for (const [file, list] of Object.entries(byFile)) {
-    const full = path.join(DATA_DIR, file);
-    const doc = yaml.load(fs.readFileSync(full, 'utf8'));
-    const urls = new Set(list.map(r => r.entry.url));
-    for (const s of doc.subsections || []) {
-      for (const e of s.entries || []) {
-        if (urls.has(e.url)) e.url_status = 'ok';
-      }
-    }
-    fs.writeFileSync(full, yaml.dump(doc, { lineWidth: -1, noRefs: true }));
+  // Update entries in place + save touched chunks
+  const touched = new Map();
+  for (const r of revived) {
+    r.entry.url_status = 'ok';
+    touched.set(r.chunk._path, r.chunk);
   }
+  for (const chunk of touched.values()) catalog.saveChunk(chunk);
 
   console.log('\nStill-dead after retry:');
   for (const r of stillDead) console.log(`  - ${r.entry.name} | ${r.entry.url} | ${r.code || r.err}`);

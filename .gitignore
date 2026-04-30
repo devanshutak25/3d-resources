@@ -11,11 +11,7 @@ temp_session_plan.md
 TOC_FRAMEWORK.md
 _maintenance/
 
-# One-shot migration / data-processing scripts (kept on disk as audit trail)
+# One-shot migration / data-processing scripts (kept on disk as audit trail).
+# Archived copies under scripts/_archive/ are tracked; see scripts/_archive/README.md.
 scripts/mine-awesome.js
 scripts/triage-candidates.js
-scripts/add-candidates.js
-scripts/categorize-unclassified.js
-scripts/process-residual.js
-scripts/split-misc.js
-scripts/cleanup-adds.js

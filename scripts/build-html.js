@@ -3,9 +3,9 @@
 // Also emits _site/sitemap.xml and _site/robots.txt.
 
 const { marked } = require('marked');
-const yaml = require('js-yaml');
 const fs = require('fs');
 const path = require('path');
+const catalog = require('./lib/catalog');
 
 const SITE_URL = 'https://3d.devanshutak.xyz';
 const TITLE = '3D Resources: Software, Assets, Tutorials & Tools for 3D Artists';
@@ -22,12 +22,14 @@ function slugify(text) {
 
 // --- Load section structure for SEO enumeration ---
 function loadSections() {
-  const sectionsFile = yaml.load(fs.readFileSync('data/sections.yml', 'utf8'));
+  const counts = new Map(); // `${sectionFile}::${subSlug}` → count
+  for (const { sectionFile, subSlug } of catalog.iterEntries()) {
+    const k = `${sectionFile}::${subSlug}`;
+    counts.set(k, (counts.get(k) || 0) + 1);
+  }
   const out = [];
-  for (const meta of sectionsFile.sections) {
-    const fp = path.join('data', meta.file);
-    if (!fs.existsSync(fp)) continue;
-    const doc = yaml.load(fs.readFileSync(fp, 'utf8'));
+  for (const meta of catalog.loadSections().sections) {
+    const doc = catalog.loadSection(meta.file);
     out.push({
       slug: doc.slug,
       title: doc.title,
@@ -38,7 +40,7 @@ function loadSections() {
         title: s.title,
         description: s.description,
         anchor: slugify(s.title),
-        entryCount: (s.entries || []).length
+        entryCount: counts.get(`${meta.file}::${s.slug}`) || 0
       }))
     });
   }

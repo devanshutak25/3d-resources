@@ -1,0 +1,31 @@
+entries:
+  - name: SV3D (Stable Video 3D)
+    url: https://huggingface.co/stabilityai/sv3d
+    description: Orbital video from single image.
+    license: Open Source
+    entry_type: reference
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Orbital Video
+      - Stability
+    notes: entry_type 'reference' used for HF model card; could be 'tool' if treated as runnable model.
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Hunyuan Video I2V
+    url: https://huggingface.co/tencent/HunyuanVideo-I2V
+    description: Image-to-video, multilingual.
+    license: Open Source
+    entry_type: reference
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - I2V
+      - Multilingual
+    notes: entry_type 'reference' used for HF model card; could be 'tool' if treated as runnable model.
+    url_last_verified: '2026-04-19'
+    url_status: ok

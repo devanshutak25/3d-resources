@@ -1,0 +1,111 @@
+entries:
+  - name: Poly
+    url: https://withpoly.com/
+    description: AI-generated PBR textures and materials, tileable with full map sets.
+    license: Freemium
+    entry_type: software
+    best_for: AI PBR textures
+    notes: entry_type=software but lives under AI/ML section; AI texture platform, not a DCC.
+    tags:
+      tech:
+        - ai-generative
+        - pbr
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - AI PBR
+      - Tileable
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Scenario
+    url: https://www.scenario.com/
+    description: Game-ready PBR materials, full map sets.
+    license: Paid
+    entry_type: software
+    best_for: Game-ready AI materials
+    notes: entry_type=software but is an AI material generation platform under §9.
+    tags:
+      output:
+        - games
+      tech:
+        - ai-generative
+        - pbr
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Game-Ready
+      - Full Maps
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Meshy Textures
+    url: https://www.meshy.ai/features/ai-texture-generator
+    description: Integrated with 3D pipeline.
+    license: Freemium
+    entry_type: software
+    best_for: Textures tied to Meshy 3D
+    notes: entry_type=software but is AI texture feature of Meshy; consider tool reclassification later.
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Meshy Pipeline
+      - Integrated
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Adobe Firefly Textures
+    url: https://www.adobe.com/products/firefly
+    description: Prompt-to-edit texture workflows.
+    license: Paid
+    entry_type: software
+    best_for: Adobe-integrated AI textures
+    notes: entry_type=software; Firefly is an AI service, not standalone DCC.
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Adobe
+      - Prompt-to-Edit
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Ponzu
+    url: https://www.ponzu.gg/
+    description: AI texture gen from text prompts for uploaded meshes.
+    license: Freemium
+    entry_type: software
+    best_for: Mesh-aware AI textures
+    notes: entry_type=software but is AI text-to-texture tool; possible tool reclass.
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Mesh-aware
+      - Text→Tex
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: InstaMAT
+    url: https://instamaterial.com/
+    description: Material authoring with AI workflows (Substance alternative).
+    license: Paid
+    entry_type: software
+    best_for: AI-assisted material authoring
+    notes: entry_type=software fits (Substance-alt DCC) but dual-listed candidate with §5 material authoring.
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      tech:
+        - ai-generative
+    readme_tags:
+      - Substance-alt
+      - AI Workflows

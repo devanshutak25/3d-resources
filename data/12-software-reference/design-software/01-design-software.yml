@@ -1,0 +1,374 @@
+entries:
+  - name: Figma
+    url: https://www.figma.com/
+    description: Collaborative UI/UX design with free tier.
+    license: Freemium
+    entry_type: software
+    best_for: UI design, prototyping, design systems
+    tags:
+      workflow:
+        - concept
+        - reference
+      output:
+        - illustration
+        - product-viz
+      platform:
+        - web
+        - win
+        - mac
+      tech:
+        - collaborative
+    readme_tags:
+      - Collaborative
+      - UI/UX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Affinity
+    url: https://affinity.studio/
+    description: Unified vector, photo, and layout app. Free, by Canva.
+    license: Free
+    entry_type: software
+    best_for: Illustration, photo editing, page layout
+    tags:
+      workflow:
+        - concept
+        - texturing
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - mac
+        - ipad
+    readme_tags:
+      - Free (Canva)
+      - Vector + Raster
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Inkscape
+    url: https://inkscape.org/
+    description: Free open-source vector editor.
+    license: Open Source
+    entry_type: software
+    best_for: SVG editing, illustration
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Vector
+      - SVG
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: GIMP
+    url: https://www.gimp.org/
+    description: Free open-source image editor.
+    license: Open Source
+    entry_type: software
+    best_for: Texture editing, photo manipulation
+    tags:
+      workflow:
+        - texturing
+        - concept
+      output:
+        - generalist
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Photoshop-alt
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Penpot
+    url: https://penpot.app/
+    description: Open-source design platform. Native SVG/CSS/HTML output. Cloud-hosted or self-host. Figma alternative.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source collaborative UI/UX design
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - product-viz
+      platform:
+        - web
+      tech:
+        - opensource-alt
+        - collaborative
+    readme_tags:
+      - Open Source
+      - Figma-alt
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Figma Community
+    url: https://www.figma.com/community/
+    description: Free templates, plugins, UI kits.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Affinity Help Center
+    url: https://www.affinity.studio/help/getting-started/
+    description: Official tutorials, guides, getting started.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Pixelmator
+    url: http://www.pixelmator.com
+    description: Full-featured image editing app for the Mac.
+    license: Paid
+    entry_type: software
+    best_for: Mac image editing
+    tags:
+      workflow:
+        - texturing
+      output:
+        - generalist
+      platform:
+        - mac
+    readme_tags:
+      - Mac-native
+      - Image Editor
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: PixiEditor
+    url: https://pixieditor.net/
+    description: Universal 2D graphics editor — procedural graphics w/ node graph, image editing, vectors, pixel art, animations.
+    license: Open Source
+    entry_type: software
+    best_for: Unified 2D editor
+    tags:
+      workflow:
+        - texturing
+        - animation
+      output:
+        - games
+        - illustration
+      platform:
+        - win
+      tech:
+        - opensource-alt
+        - node-based
+        - procedural
+    readme_tags:
+      - Unified
+      - Node-based
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Lunacy
+    url: https://icons8.com/lunacy
+    description: Free graphic design app from Icons8. Native Sketch file support, built-in icons/illustrations/photos, AI tools.
+    license: Free
+    entry_type: software
+    best_for: UI design, Sketch file editing on Win/Linux
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Sketch-alt
+      - Free
+    url_last_verified: '2026-04-28'
+    url_status: ok
+  - name: Origami Studio
+    url: https://origami.design/
+    description: Free interaction design and prototyping tool by Meta. Patch-based logic, Figma import.
+    license: Free
+    entry_type: software
+    best_for: Interaction prototyping, motion specs
+    tags:
+      workflow:
+        - concept
+        - animation
+      output:
+        - product-viz
+        - motion-graphics
+      platform:
+        - mac
+      tech:
+        - node-based
+    readme_tags:
+      - Prototyping
+      - Meta
+    url_last_verified: '2026-04-28'
+    url_status: ok
+  - name: Unicorn Studio
+    url: https://www.unicorn.studio/
+    description: Browser-based interactive scene and motion design for the web. No-code, exports to embed.
+    license: Freemium
+    entry_type: software
+    best_for: Interactive web hero scenes, motion-driven landing pages
+    tags:
+      workflow:
+        - animation
+        - concept
+      output:
+        - motion-graphics
+        - product-viz
+      platform:
+        - web
+      tech:
+        - real-time
+        - collaborative
+    readme_tags:
+      - Web Motion
+      - No-code
+    url_last_verified: '2026-04-28'
+    url_status: ok
+  - name: Vectorpea
+    url: https://www.vectorpea.com/
+    description: Free browser-based vector editor by Photopea team. Opens AI/SVG/PDF/EPS/CDR.
+    license: Free
+    entry_type: software
+    best_for: Quick vector editing in-browser
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Browser
+      - Illustrator-alt
+    url_last_verified: '2026-04-28'
+    url_status: ok
+  - name: Graphite
+    url: https://graphite.rs/
+    description: Open-source 2D vector and raster graphics editor with procedural node-based workflow. In active development.
+    license: Open Source
+    entry_type: software
+    best_for: Procedural design, non-destructive vector
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - web
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - node-based
+        - procedural
+    readme_tags:
+      - Procedural
+      - Open Source
+    url_last_verified: '2026-04-28'
+    url_status: ok
+  - name: Picsart
+    url: https://picsart.com/
+    description: Photo and video editor with AI tools. Web, mobile, and desktop.
+    license: Freemium
+    entry_type: software
+    best_for: Quick edits, social content, AI photo tools
+    tags:
+      workflow:
+        - texturing
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - web
+        - win
+        - mac
+        - ios
+        - android
+    readme_tags:
+      - AI Tools
+      - Mobile
+    url_last_verified: '2026-04-28'
+    url_status: ok
+  - name: PowerPoint
+    url: https://www.microsoft.com/microsoft-365/powerpoint
+    description: Microsoft presentation app. Used as a quick-draft motion/layout tool for storyboards and diagrams.
+    license: Paid
+    entry_type: software
+    best_for: Presentations, quick layout/storyboards
+    tags:
+      workflow:
+        - concept
+        - storyboard
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - web
+    readme_tags:
+      - Presentations
+      - Microsoft
+    url_last_verified: '2026-04-28'
+    url_status: ok
+  - name: Google Drawings
+    url: https://docs.google.com/drawings
+    description: Free browser-based diagramming and simple vector tool. Collaborative.
+    license: Free
+    entry_type: software
+    best_for: Quick diagrams, collaborative sketches
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      tech:
+        - collaborative
+    readme_tags:
+      - Browser
+      - Collaborative
+    url_last_verified: '2026-04-28'
+    url_status: ok
+  - name: Microsoft Paint
+    url: https://apps.microsoft.com/detail/9PCFS5B6T72H
+    description: Built-in Windows raster editor. Now ships with layers, transparency, and Cocreator AI.
+    license: Free
+    entry_type: software
+    best_for: Quick raster edits, mockups
+    tags:
+      workflow:
+        - concept
+        - texturing
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+    readme_tags:
+      - Windows-native
+      - Lightweight
+    url_last_verified: '2026-04-28'
+    url_status: ok

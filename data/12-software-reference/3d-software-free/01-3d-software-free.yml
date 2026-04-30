@@ -1,0 +1,212 @@
+entries:
+  - name: SculptGL
+    url: https://stephaneginier.com/sculptgl/
+    description: WebGL browser sculpting with dynamic topology.
+    license: Free
+    entry_type: software
+    best_for: Quick sculpts, organic modeling
+    tags:
+      workflow:
+        - sculpting
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - real-time
+        - opensource-alt
+    readme_tags:
+      - Browser
+      - Dynamic Topology
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Tinkercad
+    url: https://www.tinkercad.com/
+    description: Browser-based CSG modeling.
+    license: Free
+    entry_type: software
+    best_for: STEM education, 3D printing beginners
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+        - product-viz
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Browser
+      - Education
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Wings 3D
+    url: https://www.wings3d.com/
+    description: Subdivision surface modeler.
+    license: Open Source
+    entry_type: software
+    best_for: Polygon modeling for games
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Subdiv Modeling
+      - Lightweight
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: MagicaVoxel
+    url: https://ephtracy.github.io/
+    description: GPU voxel editor with path tracing.
+    license: Free
+    entry_type: software
+    best_for: Voxel art, indie game assets
+    tags:
+      workflow:
+        - modeling
+        - rendering
+      output:
+        - games
+        - illustration
+      platform:
+        - win
+        - mac
+      tech:
+        - path-tracing
+        - gpu
+        - opensource-alt
+    readme_tags:
+      - Voxel
+      - Path Tracing
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: MagicaCSG
+    url: https://ephtracy.github.io/index.html?page=magicacsg
+    description: SDF modeling with real-time booleans.
+    license: Free
+    entry_type: software
+    best_for: Concept design, rapid prototyping
+    tags:
+      workflow:
+        - concept
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+      tech:
+        - real-time
+        - procedural
+        - opensource-alt
+    readme_tags:
+      - SDF
+      - Windows-only
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: VRoid Studio
+    url: https://vroid.com/en/studio/
+    description: Anime-style 3D character creator.
+    license: Free
+    entry_type: software
+    best_for: VTubers, anime characters
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - illustration
+        - broadcast
+      platform:
+        - win
+        - mac
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Anime Characters
+      - VTuber
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: SDF Modeler
+    url: https://sascha-rode.itch.io/sdf-modeler
+    description: Experimental SDF-based non-destructive procedural 3D modeler.
+    license: Free
+    entry_type: software
+    best_for: SDF modeling, procedural boolean workflows
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - procedural
+        - node-based
+        - opensource-alt
+    readme_tags:
+      - SDF
+      - Non-destructive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Sculptris
+    url: https://sculptris.br.uptodown.com/windows
+    description: Original free digital sculpting from Pixologic (predecessor to ZBrush Core).
+    license: Free
+    entry_type: software
+    best_for: Free introductory sculpting
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - win
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Free
+      - Introductory Sculpt
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blender
+    url: https://www.blender.org/
+    description: Free open-source 3D creation suite. Modeling, sculpting, animation, rendering, compositing, VFX.
+    license: Open Source
+    entry_type: software
+    best_for: Full 3D pipeline, indie production
+    tags:
+      workflow:
+        - modeling
+        - sculpting
+        - animation
+        - rigging
+        - rendering
+        - fx
+        - compositing
+      output:
+        - generalist
+        - games
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - gpu
+    readme_tags:
+      - Open Source
+      - Full Pipeline
+    url_last_verified: '2026-04-28'
+    url_status: ok

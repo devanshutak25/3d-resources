@@ -1,0 +1,47 @@
+entries:
+  - name: Perforce Helix Core
+    url: https://www.perforce.com/products/helix-core
+    description: Industry standard for large assets (free ≤5 users).
+    license: Freemium
+    entry_type: software
+    best_for: Large-asset VCS
+    notes: 'FLAG: entry_type=software but project demotes software; candidate for §12 software table relocation.'
+    tags:
+      output:
+        - games
+        - film-vfx
+    readme_tags:
+      - Industry Standard
+      - Free ≤5 users
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Git LFS
+    url: https://git-lfs.com/
+    description: Large file storage for Git.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Git LFS
+      - Binary Files
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Plastic SCM / Unity Version Control
+    url: https://unity.com/solutions/version-control
+    description: Artist-friendly binary version control.
+    license: Freemium
+    entry_type: software
+    best_for: Artist-friendly VCS
+    notes: 'FLAG: entry_type=software but project demotes software; candidate for §12 software table relocation.'
+    tags:
+      output:
+        - games
+    readme_tags:
+      - Artist-Friendly
+      - Unity-Integrated
+    url_last_verified: '2026-04-19'
+    url_status: ok

@@ -1,11 +1,8 @@
 #!/usr/bin/env node
 // Rule-based auto-tagger. Only adds tags to entries missing them; never overwrites.
 // Inference: subsection slug → default tags, URL host hints, license → tech.
-const fs = require('fs'), path = require('path'), yaml = require('js-yaml');
-const DATA = path.join(__dirname,'..','data');
-const files = fs.readdirSync(DATA).filter(f => /^\d+-.*\.yml$/.test(f));
-const docs = {};
-for(const f of files) docs[f] = yaml.load(fs.readFileSync(path.join(DATA,f),'utf8'));
+const catalog = require('./lib/catalog');
+const allChunks = [...catalog.iterChunks()];
 
 // Subsection slug → default tags (additive). Each rule returns {tags, entry_type?}.
 const SUB_RULES = [
@@ -171,37 +168,30 @@ function mergeTags(existing, add){
 }
 
 let tagged = 0, typed = 0;
-for(const f of files){
-  const d = docs[f];
-  for(const s of (d.subsections||[])){
-    let rule = null;
-    for(const [rx, r] of SUB_RULES){ if(rx.test(s.slug)){ rule = r; break; } }
-    if(!rule) continue;
-    for(const e of (s.entries||[])){
-      const hadTags = e.tags && Object.keys(e.tags).length > 0;
-      // URL-based hints
-      const h = host(e.url);
-      const extra = {};
-      if(h === 'youtube.com') extra.platform = ['web'];
-      if(h === 'github.com' || h === 'gitlab.com') extra.tech = ['opensource-alt'];
-      if(h === 'arxiv.org') extra.platform = ['web'];
-      // License → tech hint
-      if(e.license === 'Open Source') extra.tech = [...(extra.tech||[]),'opensource-alt'];
-      const combinedTags = mergeTags(mergeTags({}, rule.tags), extra);
-      if(!hadTags && Object.keys(combinedTags).length > 0){
-        e.tags = combinedTags;
-        tagged++;
-      }else if(hadTags){
-        // merge additions in, don't overwrite
-        const merged = mergeTags(e.tags, combinedTags);
-        if(JSON.stringify(merged) !== JSON.stringify(e.tags)){
-          e.tags = merged;
-        }
+const touched = new Set();
+for (const c of allChunks) {
+  let rule = null;
+  for (const [rx, r] of SUB_RULES) { if (rx.test(c.subSlug)) { rule = r; break; } }
+  if (!rule) continue;
+  for (const e of c.entries) {
+    const hadTags = e.tags && Object.keys(e.tags).length > 0;
+    const h = host(e.url);
+    const extra = {};
+    if (h === 'youtube.com') extra.platform = ['web'];
+    if (h === 'github.com' || h === 'gitlab.com') extra.tech = ['opensource-alt'];
+    if (h === 'arxiv.org') extra.platform = ['web'];
+    if (e.license === 'Open Source') extra.tech = [...(extra.tech||[]),'opensource-alt'];
+    const combinedTags = mergeTags(mergeTags({}, rule.tags), extra);
+    if (!hadTags && Object.keys(combinedTags).length > 0) {
+      e.tags = combinedTags; tagged++; touched.add(c._path);
+    } else if (hadTags) {
+      const merged = mergeTags(e.tags, combinedTags);
+      if (JSON.stringify(merged) !== JSON.stringify(e.tags)) {
+        e.tags = merged; touched.add(c._path);
       }
-      if(!e.entry_type && rule.entry_type){
-        e.entry_type = rule.entry_type;
-        typed++;
-      }
+    }
+    if (!e.entry_type && rule.entry_type) {
+      e.entry_type = rule.entry_type; typed++; touched.add(c._path);
     }
   }
 }
@@ -209,9 +199,10 @@ for(const f of files){
 console.log(`tagged (added tags to entries with none): ${tagged}`);
 console.log(`entry_type filled: ${typed}`);
 const mode = process.argv[2] || 'plan';
-if(mode === 'apply'){
-  for(const f of files) fs.writeFileSync(path.join(DATA,f), yaml.dump(docs[f],{lineWidth:-1,noRefs:true}));
+if (mode === 'apply') {
+  const chunkByPath = new Map(allChunks.map(c => [c._path, c]));
+  for (const p of touched) catalog.saveChunk(chunkByPath.get(p));
   console.log('✓ applied');
-}else{
+} else {
   console.log('(pass "apply" to write)');
 }

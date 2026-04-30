@@ -1,0 +1,237 @@
+entries:
+  - name: Cain On Games
+    url: https://www.youtube.com/@CainOnGames
+    description: Tim Cain (Fallout creator) on game design philosophy and war stories.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Tim Cain
+      - Fallout Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Game Maker's Toolkit
+    url: https://www.youtube.com/@GMTK
+    description: Game design analysis.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Design Analysis
+      - GMTK
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Sebastian Lague
+    url: https://www.youtube.com/@SebastianLague
+    description: Procedural generation and simulations.
+    entry_type: channel
+    license: Free
+    tags:
+      tech:
+        - procedural
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Procedural
+      - Simulations
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blackthornprod
+    url: https://www.youtube.com/@Blackthornprod
+    description: 2D art and design.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - 2D Art
+      - Indie
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Masahiro Sakurai
+    url: https://www.youtube.com/@sora_sakurai_en
+    description: Game design philosophy, 250+ episodes.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Sakurai
+      - Design Philosophy
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Jonas Tyroller
+    url: https://www.youtube.com/@jonastyroller
+    description: Indie dev logs.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Indie Devlogs
+      - Thinking
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Thomas Brush
+    url: https://www.youtube.com/@thomasbrush
+    description: Indie business and marketing.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Indie Business
+      - Marketing
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Aarthificial
+    url: https://www.youtube.com/@aarthificial
+    description: Pixel art devlogs.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Pixel Art
+      - Devlogs
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: t3ssel8r
+    url: https://www.youtube.com/@t3ssel8r
+    description: Stylized rendering.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Stylized Render
+      - Breakdowns
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Acerola
+    url: https://www.youtube.com/@Acerola_t
+    description: Graphics programming.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Graphics Programming
+      - Shaders
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Freya Holmer
+    url: https://www.youtube.com/@acegikmo
+    description: Math for game devs, shaders.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Math
+      - Shaders
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: SimonDev
+    url: https://www.youtube.com/@simondevyt
+    description: 3D programming, WebGL.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - 3D Programming
+      - WebGL
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Pontypants
+    url: https://www.youtube.com/@Pontypants
+    description: Animation for games.
+    entry_type: channel
+    license: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Animation
+      - Games
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: GDQuest (YouTube)
+    url: https://www.youtube.com/@GDQuest
+    description: Godot tutorials.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Godot
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Lincoln Margison
+    url: https://www.youtube.com/@LincolnMargison
+    description: Procedural animation tutorials — step by step walkthroughs for game dev rigging and motion.
+    entry_type: channel
+    license: Free
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: MFGD - Fragment Shaders
+    url: https://www.youtube.com/@JorgeVinoRodriguez
+    description: YouTube playlist about fragment shaders.
+    entry_type: channel
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web

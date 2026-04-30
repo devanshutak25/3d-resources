@@ -1,0 +1,81 @@
+entries:
+  - name: Jake Chudnow
+    url: https://www.youtube.com/@jakechudnow
+    description: Composer whose tracks are widely used in reels.
+    entry_type: channel
+    readme_tags:
+      - Composer
+      - Reel Favorite
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - web
+      output:
+        - motion-graphics
+  - name: Kurzgesagt Music
+    url: https://thomasveith.bandcamp.com/music
+    description: Thomas Veith's Kurzgesagt scores.
+    entry_type: channel
+    readme_tags:
+      - Kurzgesagt
+      - Atmospheric
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - web
+      output:
+        - motion-graphics
+  - name: C2Cdjsofficial
+    url: https://www.youtube.com/@C2Cdjsofficial
+    description: Classic lo-fi reel track.
+    entry_type: channel
+    readme_tags:
+      - Lo-fi
+      - Classic
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - web
+      output:
+        - motion-graphics
+  - name: fcommunications
+    url: https://www.youtube.com/@fcommunications
+    description: Electronic reel favorite.
+    entry_type: channel
+    readme_tags:
+      - Electronic
+      - Reel Favorite
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - web
+      output:
+        - motion-graphics
+  - name: Trap Nation
+    url: https://www.youtube.com/@TrapNation
+    description: Popular reel music.
+    entry_type: channel
+    readme_tags:
+      - Electronic
+      - Vocal
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - web
+      output:
+        - motion-graphics

@@ -1,0 +1,166 @@
+entries:
+  - name: TrenchBroom
+    url: https://trenchbroom.github.io/
+    description: Quake-style level editor, great for blockouts.
+    license: Open Source
+    entry_type: software
+    best_for: Blockouts, Quake-style levels
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Blockouts
+      - Quake-style
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: LDtk
+    url: https://ldtk.io/
+    description: Modern 2D level editor by Dead Cells creator.
+    license: Open Source
+    entry_type: software
+    best_for: 2D level design
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+    readme_tags:
+      - 2D Levels
+      - Dead Cells Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Tiled
+    url: https://www.mapeditor.org/
+    description: General-purpose tilemap editor. TMX format.
+    license: Open Source
+    entry_type: software
+    best_for: Tilemap editing
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Tilemap Editor
+      - TMX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Sprytile (itch.io)
+    url: https://chemikhazi.itch.io/sprytile
+    description: Blender addon for tile-based 3D levels.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+      output:
+        - games
+    readme_tags:
+      - Blender Addon
+      - Tile-based 3D
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: OGMO Editor 3
+    url: https://ogmo-editor-3.github.io/
+    description: Generic level editor.
+    license: Open Source
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: Sprite Fusion
+    url: https://spritefusion.com/
+    description: A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: Mappy
+    url: http://tilemap.co.uk/mappy.php
+    description: Free tilemap editor.
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: Tiled2Unity
+    url: https://github.com/Seanba/Tiled2Unity
+    description: Export [Tiled](http://www.mapeditor.org) Map Editor (TMX) files into Unity.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Unity2D TMX
+    url: https://github.com/suppayami/unity2d-tmx
+    description: A small library to import and render tilemap in Unity2D, only support TMX file format.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Chisel.Prototype
+    url: https://github.com/RadicalCSG/Chisel.Prototype
+    description: Work in progress prototype for the Chisel Level Editor, for Unity.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: GILES
+    url: https://github.com/Unity-Technologies/giles
+    description: A Runtime Level Editor for Unity3D. ![Official](UnityResource16x16.png)
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Editor2D
+    url: https://github.com/stillwwater/editor2d
+    description: Tile based level editor for Unity
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Sprytile (GitHub)
+    url: https://github.com/Sprytile/Sprytile
+    description: Blender add-on for building tile based low-poly scenes with paint/map editor like tools. [[more info]](https://chemikhazi.itch.io/sprytile)
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt

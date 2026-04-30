@@ -1,0 +1,180 @@
+entries:
+  - name: OpenUSD
+    url: https://openusd.org/
+    description: Official Pixar USD site — specification, tools, resources.
+    license: Open Source
+    entry_type: reference
+    tags:
+      tech:
+        - usd
+        - opensource-alt
+    readme_tags:
+      - Official
+      - Pixar
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: USD Working Group (ASWF)
+    url: https://wiki.aswf.io/display/WGUSD/
+    description: Alliance for Open Media USD resources.
+    license: Open Source
+    entry_type: reference
+    tags:
+      tech:
+        - usd
+    readme_tags:
+      - ASWF
+      - Working Group
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: NVIDIA USD Resources
+    url: https://developer.nvidia.com/usd
+    description: Omniverse, tutorials, tools.
+    license: Free
+    entry_type: reference
+    tags:
+      tech:
+        - usd
+    readme_tags:
+      - NVIDIA
+      - Omniverse
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Apple USD Tools
+    url: https://developer.apple.com/augmented-reality/tools/
+    description: Usdz_converter, Reality Composer.
+    license: Free
+    entry_type: reference
+    tags:
+      tech:
+        - usd
+        - xr
+    readme_tags:
+      - USDZ
+      - Apple AR
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: USD Survival Guide
+    url: https://lucascheller.github.io/VFX-UsdSurvivalGuide/
+    description: Practical USD guide for VFX artists.
+    license: Free
+    entry_type: reference
+    tags:
+      tech:
+        - usd
+    readme_tags:
+      - Practical Guide
+      - VFX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: USD Cookbook (Colin Kennedy)
+    url: https://github.com/ColinKennedy/USD-Cookbook
+    description: Code recipes and examples.
+    license: Open Source
+    entry_type: reference
+    tags:
+      tech:
+        - usd
+        - opensource-alt
+    readme_tags:
+      - Code Recipes
+      - Examples
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Animal Logic's USD Docker
+    url: https://github.com/AnimalLogic/docker-usd
+    description: A set of docker build scripts that will download all the Open Source packages required to build Pixar's Universal Scene Description, as well as USD itself
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - usd
+        - opensource-alt
+  - name: USD Manager
+    url: http://www.usdmanager.org/
+    description: Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - usd
+  - name: AL USD Maya
+    url: https://github.com/AnimalLogic/AL_USDMaya
+    description: Represent Maya data in Maya and USD data in USD.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - usd
+        - opensource-alt
+  - name: Luma USD
+    url: https://github.com/LumaPictures/luma_usd
+    description: Plugins for USD.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - usd
+        - opensource-alt
+  - name: USD Shell Extension for Windows
+    url: https://github.com/Activision/USDShellExtension
+    description: Full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - usd
+        - opensource-alt
+  - name: USD Noodle
+    url: https://github.com/chris-gardner/usd-noodle
+    description: Pretty node graph showing dependencies of a USD file.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - usd
+        - opensource-alt
+  - name: USD URI Resolver
+    url: https://github.com/LumaPictures/usd-uri-resolver
+    description: A generic, URI based resolver for USD, support custom plugins.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - usd
+        - opensource-alt
+  - name: UsdQt
+    url: https://github.com/LumaPictures/usd-qt
+    description: Qt components for building custom USD tools.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - usd
+        - opensource-alt
+  - name: USD Qtpy
+    url: https://github.com/BigRoy/usd-qtpy
+    description: Python Qt components for building custom USD tools.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - usd
+        - opensource-alt

@@ -1,0 +1,27 @@
+entries:
+  - name: Rolando Barry Blog
+    url: https://rolandobarry.com/blog
+    description: C4D tips, shader switch workflows, productivity tricks.
+    entry_type: tutorial
+    license: Free
+    readme_tags:
+      - Tips Blog
+      - Workflows
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Rolando Barry (Gumroad)
+    url: https://honear.gumroad.com/
+    description: C4D assets and presets.
+    entry_type: marketplace
+    license: Freemium
+    readme_tags:
+      - Presets
+      - Assets
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics

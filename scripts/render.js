@@ -2,11 +2,25 @@
 // Generator: reads data/*.yml → emits README.md.
 // Hybrid (c) — data files are source of truth; README is derived.
 
-const yaml = require('js-yaml');
 const fs = require('fs');
 const path = require('path');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
+function loadSubEntries(sectionFile, subSlug) {
+  const entries = [];
+  for (const ref of catalog.listChunks()) {
+    if (ref.sectionFile !== sectionFile || ref.subSlug !== subSlug) continue;
+    const chunk = catalog.loadChunk(ref.id);
+    entries.push(...chunk.entries);
+  }
+  return entries;
+}
+
+function alphaSort(entries) {
+  return [...entries].sort((a, b) =>
+    (a.name || '').localeCompare(b.name || '', 'en', { sensitivity: 'base' })
+  );
+}
 
 function githubAnchor(title) {
   // GitHub markdown anchor rules: lowercase, spaces → dashes, strip most punctuation.
@@ -42,9 +56,9 @@ function tocEntry(title, depth = 0) {
 function buildToC(sections) {
   const lines = ['## Contents', ''];
   for (const meta of sections.sections) {
-    const full = path.join(DATA_DIR, meta.file);
+    const full = path.join(catalog.DATA_DIR, meta.file);
     if (!fs.existsSync(full)) continue;
-    const section = yaml.load(fs.readFileSync(full, 'utf8'));
+    const section = catalog.loadSection(meta.file);
     const sectionId = githubAnchor(section.title);
     // Use <details> for collapsible ToC. Blank lines inside let marked parse the bullets.
     lines.push('<details>');
@@ -62,7 +76,7 @@ function buildToC(sections) {
   return lines.join('\n');
 }
 
-function renderSection(section) {
+function renderSection(section, sectionFile) {
   const lines = [];
   lines.push(`## ${section.title}`);
   lines.push('');
@@ -80,7 +94,8 @@ function renderSection(section) {
     }
 
     // Skip deprecated entries from README (link checker auto-flags these).
-    const active = (sub.entries || []).filter(e => !e.deprecated);
+    const rawEntries = loadSubEntries(sectionFile, sub.slug);
+    const active = alphaSort(rawEntries.filter(e => !e.deprecated));
     const software = active.filter(e => e.entry_type === 'software');
     const references = active.filter(e => e.entry_type !== 'software');
 
@@ -179,7 +194,7 @@ function footer() {
 
 function main() {
   const onlyFile = process.argv[2];
-  const sectionsFile = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
+  const sectionsFile = catalog.loadSections();
 
   let out = '';
   if (!onlyFile) {
@@ -188,10 +203,10 @@ function main() {
   }
   for (const meta of sectionsFile.sections) {
     if (onlyFile && meta.file !== onlyFile) continue;
-    const full = path.join(DATA_DIR, meta.file);
+    const full = path.join(catalog.DATA_DIR, meta.file);
     if (!fs.existsSync(full)) continue;
-    const section = yaml.load(fs.readFileSync(full, 'utf8'));
-    out += renderSection(section);
+    const section = catalog.loadSection(meta.file);
+    out += renderSection(section, meta.file);
   }
   if (!onlyFile) {
     out += footer();

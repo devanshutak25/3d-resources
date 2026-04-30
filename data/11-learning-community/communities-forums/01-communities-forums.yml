@@ -1,0 +1,735 @@
+entries:
+  - name: 3D Artists India
+    url: https://3dartists.in/
+    description: India's 3D artist community — events, resources, networking.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - India Community
+      - Events
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: ArtStation
+    url: https://www.artstation.com/
+    description: Professional portfolios.
+    entry_type: community
+    license: Freemium
+    readme_tags:
+      - Portfolios
+      - Pro
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Polycount
+    url: https://polycount.com/
+    description: Game art community.
+    entry_type: community
+    license: Free
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Game Art
+      - Forum
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Agora Community
+    url: https://agora.community/
+    description: 3D artists community.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - 3D Artists
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: The 3D Artist Community (Skool)
+    url: https://www.skool.com/the-3d-artist-community
+    description: Community forum on Skool.
+    entry_type: community
+    license: Freemium
+    readme_tags:
+      - Skool
+      - Forum
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: BlenderArtists
+    url: https://blenderartists.org/
+    description: Blender forum.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender
+      - Forum
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender
+  - name: ZBrushCentral
+    url: https://www.zbrushcentral.com/
+    description: ZBrush forum.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - ZBrush
+      - Forum
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 80 Level
+    url: https://80.lv/
+    description: Industry news and tutorials.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Industry News
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Blender Discord (French)
+    url: https://discordapp.com/channels/168826665307209728/168826665307209728
+    description: Blender Discord (French).
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender
+      - Discord
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender
+  - name: OpenXRay
+    url: https://github.com/OpenXRay/xray-16
+    description: Community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Game Engine
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+      output:
+        - games
+    notes: 'RELOCATE: Game engine project, not a community/forum.'
+  - name: Cinder
+    url: https://libcinder.org/
+    description: Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Creative Coding
+      - C++
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - opensource-alt
+    notes: 'RELOCATE: C++ creative coding library, not a community/forum.'
+  - name: openMVG
+    url: https://openmvg.readthedocs.io/en/latest/
+    description: A library for computer-vision scientists targeted for the Multiple View Geometry community.
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Computer Vision
+      - Library
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - photogrammetry
+    notes: 'RELOCATE: Library docs, not a community/forum.'
+  - name: Py Game CE
+    url: https://pyga.me/docs/index.html
+    description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Python
+      - Game Library
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+    notes: 'RELOCATE: Python game library docs, not a community/forum.'
+  - name: Visual Studio Community Edition
+    url: https://www.visualstudio.com/vs/community/
+    description: A fully-featured, extensible, free IDE
+    entry_type: community
+    license: Free
+    readme_tags:
+      - IDE
+      - Microsoft
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - win
+        - mac
+    notes: 'RELOCATE: IDE software, not a community/forum.'
+  - name: 3DVF
+    url: http://3dvf.com
+    description: French CG news and community.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - French
+      - CG News
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 3DPro
+    url: https://3dpro.org
+    description: 3D professionals community forum.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Pro Community
+      - Forum
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Houdini Utility Thread
+    url: https://www.sidefx.com/forum/topic/80497/?page=1#post-348642
+    description: Houdini Utility Thread.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Houdini
+      - Forum Thread
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Robotic Arm Kinefx Demo
+    url: https://www.sidefx.com/forum/topic/77562/?page=1#post-369057
+    description: Robotic Arm Kinefx Demo.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Houdini
+      - KineFX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Armedunity
+    url: https://armedunity.com/
+    description: Shooter focused forum.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Unity
+      - Shooter Forum
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+  - name: 👨🏽‍🚀Blender.Community
+    url: https://blender.community/c/
+    description: 👨🏽‍🚀Blender.Community.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender
+  - name: ☕Blender.Today
+    url: https://blender.community/c/today/
+    description: Community-driven Blender news, chat, and live streams! Stream [playlist](https://www.youtube.com/playlist?list=PLa1F2ddGya_87HJ72v_IgKUTNLIXSMfvB).
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender
+      - News
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender
+  - name: 🖱️Right-Click Select
+    url: https://blender.community/c/rightclickselect/
+    description: Got an idea for a feature that you think Blender absolutely must have?
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender
+      - Feature Requests
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender
+  - name: Civitai
+    url: https://civitai.com/
+    description: Community driven AI model sharing tool.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - AI Models
+      - Sharing
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - ai-generative
+  - name: Learning
+    url: https://dev.epicgames.com/community/unreal-engine/learning?source=epic_games
+    description: '[Documentation](https://dev.epicgames.com/documentation/unreal-engine), [Livesteams](https://www.youtube.com/@UnrealEngine)** (🆓 🥇)'
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Unreal
+      - Learning
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - unreal-plugin
+  - name: DEV Community
+    url: https://dev.to/
+    description: It covers setting up the environment, understanding generative models, and building a simple Generative Adversarial Network (GAN) with a focus on image datasets.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Dev Blog
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Slide Puzzle (Community Choice)
+    url: https://devpost.com/software/slidy-fuzzle
+    description: Slide Puzzle (Community Choice).
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Devpost
+      - Showcase
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+    notes: 'RELOCATE: Single Devpost project entry, not a community.'
+  - name: Way For Ball (Community Choice)
+    url: https://devpost.com/software/way-for-ball
+    description: Way For Ball (Community Choice).
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Devpost
+      - Showcase
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+    notes: 'RELOCATE: Single Devpost project entry, not a community.'
+  - name: Hash (Community Choice)
+    url: https://devpost.com/software/flutter-puzzle-hack-3sdug9
+    description: Hash (Community Choice).
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Devpost
+      - Showcase
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+    notes: 'RELOCATE: Single Devpost project entry, not a community.'
+  - name: ccMixter.org
+    url: http://dig.ccmixter.org/
+    description: Community remix site operated by ArtisTech Media, created by Creative Commons. [![cc]](http://dig.ccmixter.org/licenses)
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Creative Commons
+      - Audio
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - cc0
+  - name: Unreal Source Discord
+    url: https://discord.com/invite/unrealsource
+    description: Community** (🆓 🥇)
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Unreal
+      - Discord
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - unreal-plugin
+  - name: GameDev.tv Discord
+    url: https://discord.com/invite/eUSFZdJ
+    description: A community focused on the GameDev.tv courses.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - GameDev
+      - Discord
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+  - name: 🗨️discord/blender
+    url: https://discord.gg/blender
+    description: Community-managed Discord server.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender
+      - Discord
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender
+  - name: Nexrender Discord
+    url: https://discord.gg/S2JtRcB
+    description: Community of people specializing in scripting and video generation automation.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Discord
+      - Automation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Hugging Face Forums
+    url: https://discuss.huggingface.co/
+    description: '** – Community for open LLMs and model development.'
+    entry_type: community
+    license: Free
+    readme_tags:
+      - HuggingFace
+      - LLMs
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - ai-generative
+  - name: Steam VR Template (Unreal Engine Forum)
+    url: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template
+    description: Community thread sharing a Steam VR project template for Unreal Engine.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Unreal
+      - VR Template
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - xr
+  - name: Unity Community
+    url: https://github.com/UnityCommunity
+    description: And to begin Awesome Unity (this repository) will be merged into Unity Community organization from now. This repository will be used to merge new contents into the
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Unity
+      - GitHub Org
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - unity-plugin
+      output:
+        - games
+  - name: Mirror (GitHub)
+    url: https://github.com/vis2k/Mirror
+    description: A community replacement for Unity's abandoned UNET Networking System.
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Unity
+      - Networking
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - unity-plugin
+      output:
+        - games
+    notes: 'RELOCATE: GitHub repo/library, not a community/forum.'
+  - name: UnitySingleton
+    url: https://github.com/UnityCommunity/UnitySingleton
+    description: The best way to implement singleton pattern in Unity.
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Unity
+      - Code Pattern
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - unity-plugin
+      output:
+        - games
+    notes: 'RELOCATE: Single GitHub code sample, not a community.'
+  - name: HuggingFace AI Community
+    url: https://huggingface.co/
+    description: Host and collaborate on unlimited models, datasets and applications. |
+    entry_type: community
+    license: Freemium
+    readme_tags:
+      - AI Models
+      - Hub
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - ai-generative
+  - name: Make Human
+    url: http://www.makehumancommunity.org/
+    description: Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender)) [![][repo]](https://github.com/makehumancommunity/makehuman)
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Character Creation
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - opensource-alt
+        - blender-addon
+    notes: 'RELOCATE: Tool/software project, not primarily a community/forum.'
+  - name: Introduction to pixel art
+    url: http://pixeljoint.com/forum/forum_posts.asp?TID=11299
+    description: Introduction to pixel art.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Pixel Art
+      - Forum Thread
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Google Community for “Cardboard and VR Developers”
+    url: https://plus.google.com/communities/111524380182206513071
+    description: Google Community for “Cardboard and VR Developers”.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - VR
+      - Cardboard
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - xr
+  - name: OpenTopography/datasets
+    url: https://portal.opentopography.org/datasets
+    description: Facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources. _Registration required_.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Topography
+      - Datasets
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - scientific-viz
+    notes: 'RELOCATE: Dataset portal, not a community/forum.'
+  - name: Reddit's Unity Best Practices
+    url: https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/
+    description: Reddit's thread with best practices collected by Unity developers.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Unity
+      - Reddit
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+  - name: '/r/blender: contest'
+    url: https://www.reddit.com/r/blender/
+    description: '[blenderartists.org/contest](https://blenderartists.org/c/contests)'
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender
+      - Reddit
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender
+  - name: r/GenerativeAI
+    url: https://www.reddit.com/r/GenerativeAI/
+    description: '** – Reddit community on generative models and applications.'
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Generative AI
+      - Reddit
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - ai-generative
+  - name: 🌐 Visual Production ~ reddit
+    url: https://www.reddit.com/r/virtualproduction/
+    description: '[community] - production for movies & live events.'
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Virtual Production
+      - Reddit
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - film-vfx
+  - name: 🌐 UnrealEngine5 ~ reddit
+    url: https://www.reddit.com/r/UnrealEngine5/
+    description: UE5 technical posts, rarely showcase.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Unreal
+      - Reddit
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - unreal-plugin
+  - name: Free Low-Poly Nature Assets Thread (r/gamedev)
+    url: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
+    description: Reddit thread sharing free low-poly trees, plants, and rocks for game development.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Reddit
+      - Low-Poly
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+  - name: Sculptron
+    url: https://render.otoy.com/forum/viewtopic.php?f=7&t=73665
+    description: GPU-based tool for sculpting animation caches and for converting mesh sequences to volumes. The software is currently available free during early development.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Sculpting
+      - Otoy Forum
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - gpu
+    notes: 'RELOCATE: Software tool announcement, not a community/forum.'

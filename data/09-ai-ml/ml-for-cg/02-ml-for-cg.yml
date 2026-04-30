@@ -1,0 +1,527 @@
+entries:
+  - name: Arxiv Paper 2401.12561
+    url: https://arxiv.org/abs/2401.12561
+    description: '[🌐 Project Page](https://yifliu3.github.io/EndoGaussian/) | [💻 Code](https://github.com/yifliu3/EndoGaussian)'
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2312.17142
+    url: https://arxiv.org/abs/2312.17142
+    description: '[🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/) | [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d)'
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2301.11280
+    url: https://arxiv.org/abs/2301.11280
+    description: '[🌐 Project Page](https://make-a-video3d.github.io)'
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2312.13763
+    url: https://arxiv.org/abs/2312.13763
+    description: '[🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)'
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2401.02400
+    url: https://arxiv.org/abs/2401.02400
+    description: '[🌐 Project Page](https://kyleleey.github.io/3DFauna/) | [💻 Code]()'
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2312.10763
+    url: https://arxiv.org/abs/2312.10763
+    description: '[🌐 Project Page](https://m3dbench.github.io/) | [💻 Code](https://github.com/OpenM3D/M3DBench)'
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2401.09416
+    url: https://arxiv.org/abs/2401.09416
+    description: '[🌐 Project Page](https://texturedreamer.github.io/)'
+    entry_type: asset-source
+    license: Free
+    notes: misfit — arxiv paper, not asset-source; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach'
+    url: https://arxiv.org/abs/2412.11892
+    description: AAAI 2025 | [[project](https://manycore-research.github.io/CAD2Program/)] |
+    entry_type: tutorial
+    license: Free
+    notes: misfit — research paper, not tutorial; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'Text2CAD: Text to 3D CAD Generation via Technical Drawings'
+    url: https://arxiv.org/abs/2411.06206
+    description: NeurIPS 2024 | [[project](https://sadilkhan.github.io/text2cad-project/)] |
+    entry_type: tutorial
+    license: Free
+    notes: misfit — research paper, not tutorial; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'Neural Volume Rendering: NeRF And Beyond'
+    url: https://arxiv.org/abs/2101.05204
+    description: Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/) | [github](https://raw.githubusercontent.com/yenchenlin/awesome-NeRF/main/NeRF-and-Beyond.bib) |
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'NeRF: Neural Radiance Field in 3D Vision, Introduction and Review'
+    url: https://arxiv.org/abs/2210.00379
+    description: Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv survey paper, not software; bulk NeRF-paper entries below share same issue, consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'DeRF: Decomposed Radiance Fields'
+    url: https://arxiv.org/abs/2011.12490
+    description: Rebain et al. Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L222-L228) <!---Rebain20arxiv_derf-->
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'FastNeRF: High-Fidelity Neural Rendering at 200FPS'
+    url: https://arxiv.org/abs/2103.10380
+    description: Garbin et al., Arxiv 2021 | [bibtex](./citations/fastnerf.txt) <!---Garbin21arxiv_FastNeRF-->
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs'
+    url: https://arxiv.org/abs/2103.13744
+    description: Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf) | [bibtex](./citations/kilonerf.txt) <!---reiser2021kilonerf-->
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering'
+    url: https://arxiv.org/abs/2212.01120
+    description: Li et al., ICCAD 2022 | [bibtex](./citations/rt-nerf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'Depth-supervised NeRF: Fewer Views and Faster Training for Free'
+    url: https://arxiv.org/pdf/2107.02791.pdf
+    description: Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF) | [bibtex](./citations/dsnerf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving'
+    url: https://arxiv.org/pdf/2403.05907v1.pdf
+    description: Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF) | [bibtex](./citations/lightning-nerf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'CLA-NeRF: Category-Level Articulated Neural Radiance Field'
+    url: https://arxiv.org/abs/2202.00181
+    description: Tseng et al., ICRA 2022 | [bibtex](./citations/cla-nerf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Animatable Neural Radiance Fields from Monocular RGB Videos
+    url: https://arxiv.org/abs/2106.13629
+    description: Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF) | [bibtex](citations/anim_nerf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis'
+    url: https://arxiv.org/abs/2007.02442
+    description: Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf)  | [bibtex](./NeRF-and-Beyond.bib#L237-L243) <!---Schwarz20neurips_graf-->
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering'
+    url: https://arxiv.org/abs/2010.04595
+    description: Trevithick and Yang, Arxiv 2020 | [github](https://github.com/alextrevithick/GRF) | [bibtex](./NeRF-and-Beyond.bib#L291-L297) <!---Trevithick20arxiv_GRF-->
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'pixelNeRF: Neural Radiance Fields from One or Few Images'
+    url: https://arxiv.org/abs/2012.02190
+    description: Yu et al., CVPR 2021 | [github](https://github.com/sxyu/pixel-nerf) | [bibtex](./NeRF-and-Beyond.bib#L329-L335) <!---Yu20arxiv_pixelNeRF-->
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Learned Initializations for Optimizing Coordinate-Based Neural Representations
+    url: https://arxiv.org/abs/2012.02189
+    description: Tancik et al., CVPR 2021 | [github](https://github.com/tancik/learnit) | [bibtex](./NeRF-and-Beyond.bib#L268-L274) <!---Tancik20arxiv_meta-->
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'NeRF-VAE: A Geometry Aware 3D Scene Generative Model'
+    url: https://arxiv.org/pdf/2104.00587.pdf
+    description: Kosiorek et al., Arxiv 2021 | [bibtex](./citations/nerf-vae.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes'
+    url: https://arxiv.org/abs/2304.08971
+    description: Gao et al., CVPR 2023 | [github](https://gymat.github.io/SurfelNeRF-web/) | [bibtex](./citations/SurfelNeRF.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes'
+    url: https://arxiv.org/abs/2308.12967
+    description: Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360) | [bibtex](./citations/SurfelNeRF.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360° Insufficient RGB-D Views'
+    url: https://arxiv.org/abs/2210.05135
+    description: Zhu et al., WACV 2023 | [github](https://github.com/HaoyiZhu/XNeRF) | [bibtex](./citations/x-nerf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'GNeRF: GAN-based Neural Radiance Field without Posed Camera'
+    url: https://arxiv.org/abs/2103.15606
+    description: Meng et al., Arxiv 2021 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/gnerf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation'
+    url: https://arxiv.org/abs/2204.05735
+    description: Chng et al., ECCV 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/garf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields'
+    url: https://arxiv.org/abs/2209.09050
+    description: Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF) | [bibtex](./citations/locnerf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation'
+    url: https://arxiv.org/abs/2303.04869
+    description: Moreau et al., ICCV 2023 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/crossfire.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination'
+    url: https://arxiv.org/abs/2206.10885
+    description: Esposito et al., Arxiv 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/kiloneus.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'NeRF++: Analyzing and Improving Neural Radiance Fields'
+    url: https://arxiv.org/abs/2010.07492
+    description: Zhang et al., Arxiv 2020 | [github](https://github.com/Kai-46/nerfplusplus) | [bibtex](./NeRF-and-Beyond.bib#L345-L351) <!---Zhang20arxiv_nerf++-->
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields'
+    url: https://arxiv.org/abs/2011.12100
+    description: Niemeyer et al., CVPR 2021, [bibtex](./NeRF-and-Beyond.bib#L175-L181) <!---Niemeyer20arxiv_GIRAFFE-->
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Local 3D Editing via 3D Distillation of CLIP Knowledge
+    url: https://arxiv.org/abs/2306.12570
+    description: Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io)  | [bibtex](./citations/lenerf.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields'
+    url: https://arxiv.org/pdf/2404.01300
+    description: Irshad et al., ECCV 2024 | [bibtex](./citations/nerf-mae.txt)
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2208.07227
+    url: https://arxiv.org/abs/2208.07227
+    description: '[💻 Code](https://github.com/vLAR-group/DM-NeRF)'
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2401.01647
+    url: https://arxiv.org/abs/2401.01647
+    description: '[🌐 Project Page](https://signerf.jdihlmann.com/) | [💻 Code](https://github.com/cgtuebingen/SIGNeRF)'
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2401.05750
+    url: https://arxiv.org/abs/2401.05750
+    description: '[🌐 Project Page](https://daipengwa.github.io/GO-NeRF/)'
+    entry_type: software
+    license: Free
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2402.00864
+    url: https://arxiv.org/abs/2402.00864v1
+    description: '[💻 Code](https://github.com/Dongjiahua/VICA-NeRF)'
+    entry_type: software
+    license: Open Source
+    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2402.14792
+    url: https://arxiv.org/abs/2402.14792
+    description: '[🌐 Project Page](https://qnerf-consolidation.github.io/qnerf-consolidation/)'
+    entry_type: software
+    license: Free
+    notes: misfit — arxiv paper, not software; consider reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web

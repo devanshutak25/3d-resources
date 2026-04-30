@@ -1,0 +1,162 @@
+entries:
+  - name: Audacity
+    url: https://www.audacityteam.org/
+    description: Free open-source audio editor and recorder.
+    license: Open Source
+    entry_type: software
+    best_for: Voice recording, SFX editing, podcast
+    tags:
+      workflow:
+        - audio-design
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Recording
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Adobe Audition
+    url: https://www.adobe.com/products/audition.html
+    description: Professional audio workstation.
+    license: Paid
+    entry_type: software
+    best_for: Podcast, sound design, restoration
+    tags:
+      workflow:
+        - audio-design
+        - editing
+      output:
+        - broadcast
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+      tech:
+        - subscription
+    readme_tags:
+      - Audio Restoration
+      - Adobe Suite
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Reaper
+    url: https://www.reaper.fm/
+    description: Full DAW with $60 personal license.
+    pricing: $60 personal license
+    license: Paid
+    entry_type: software
+    best_for: Music production, sound design
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - broadcast
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - perpetual
+    readme_tags:
+      - Full DAW
+      - Affordable
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Fairlight
+    url: https://www.blackmagicdesign.com/products/davinciresolve/fairlight
+    description: Professional audio built into DaVinci Resolve.
+    license: Freemium
+    entry_type: software
+    best_for: Film audio post, Foley
+    tags:
+      workflow:
+        - audio-design
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Film Post
+      - Free with Resolve
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Soundly
+    url: https://getsoundly.com/
+    description: Desktop SFX platform with curated library and local library management.
+    pricing: Free tier (3000+ sounds), Pro $14.99/mo
+    license: Freemium
+    entry_type: software
+    best_for: SFX browsing, sound library management
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - games
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - SFX Library
+      - Desktop
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Bfxr
+    url: https://www.bfxr.net/
+    description: Retro and chiptune SFX generator (browser and desktop).
+    license: Open Source
+    entry_type: software
+    best_for: 8-bit game sound effects
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - web
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Retro/8-bit
+      - Generator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Wavewright
+    url: https://store.steampowered.com/app/4149720/Wavewright/
+    description: Modular music sandbox inspired by analog synthesizers (Early Access).
+    license: Free
+    entry_type: software
+    best_for: Sound design, music experimentation
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+    readme_tags:
+      - Modular Synth
+      - Early Access
+    url_last_verified: '2026-04-19'
+    url_status: ok

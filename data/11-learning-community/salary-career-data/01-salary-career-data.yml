@@ -1,0 +1,37 @@
+entries:
+  - name: SaltyAnimators Salary Collection
+    url: https://docs.google.com/spreadsheets/d/1hLki-RUHJXgYj_RJKWlwUXfrWUWEi9yIcyLzEifxYrY
+    description: Industry salary data.
+    entry_type: reference
+    readme_tags:
+      - Salary Data
+      - Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Animation Studio Reviews
+    url: https://docs.google.com/spreadsheets/d/1aJHCQSA2dFdu4Fy__T3yDyiNqO0jMUBcku0EjKX3SZI
+    description: Studio review spreadsheet.
+    entry_type: reference
+    readme_tags:
+      - Studio Reviews
+      - Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Job Openings Tracker
+    url: https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/
+    description: Animation/VFX jobs tracker.
+    entry_type: reference
+    readme_tags:
+      - Jobs
+      - Animation/VFX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

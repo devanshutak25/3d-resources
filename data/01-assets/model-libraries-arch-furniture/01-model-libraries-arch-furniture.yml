@@ -1,0 +1,167 @@
+entries:
+  - name: 3D Warehouse
+    url: https://3dwarehouse.sketchup.com/
+    description: SketchUp library.
+    entry_type: asset-source
+    tags:
+      output:
+        - archviz
+      workflow:
+        - modeling
+      platform:
+        - web
+    readme_tags:
+      - SketchUp
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: 3ddd
+    url: https://3ddd.ru/
+    description: Design and architecture models.
+    entry_type: marketplace
+    tags:
+      output:
+        - archviz
+        - product-viz
+      workflow:
+        - modeling
+      platform:
+        - web
+    readme_tags:
+      - Arch/Design
+      - Mixed Free/Paid
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Design Connected
+    url: https://www.designconnected.com/
+    description: Furniture.
+    entry_type: marketplace
+    tags:
+      output:
+        - archviz
+        - product-viz
+      workflow:
+        - modeling
+      platform:
+        - web
+    readme_tags:
+      - Furniture
+      - Premium
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Syncronia
+    url: https://www.syncronia.com/en
+    description: CAD and BIM objects.
+    entry_type: asset-source
+    tags:
+      output:
+        - archviz
+      workflow:
+        - modeling
+      platform:
+        - web
+    readme_tags:
+      - BIM
+      - CAD
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Evermotion
+    url: https://evermotion.org/
+    description: Scenes and models.
+    entry_type: marketplace
+    tags:
+      output:
+        - archviz
+        - product-viz
+      workflow:
+        - modeling
+      platform:
+        - web
+    readme_tags:
+      - Scenes
+      - Arch-Viz Classic
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: BIMobject
+    url: https://www.bimobject.com/en-us
+    description: BIM objects.
+    entry_type: asset-source
+    tags:
+      output:
+        - archviz
+      workflow:
+        - modeling
+      platform:
+        - web
+    readme_tags:
+      - BIM
+      - Manufacturer Data
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: 3asky
+    url: https://3asky.net/?lang=en
+    description: 3DS Max and general library.
+    entry_type: asset-source
+    readme_tags:
+      - 3ds Max
+      - General
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - archviz
+      workflow:
+        - modeling
+      platform:
+        - web
+  - name: 3DSky
+    url: https://3dsky.org
+    description: Architecture models.
+    entry_type: marketplace
+    tags:
+      output:
+        - archviz
+        - product-viz
+      workflow:
+        - modeling
+      platform:
+        - web
+    readme_tags:
+      - Arch-Viz
+      - Large Library
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Dimensiva
+    url: https://dimensiva.com/
+    description: Furniture models.
+    entry_type: marketplace
+    tags:
+      output:
+        - archviz
+        - product-viz
+      workflow:
+        - modeling
+      platform:
+        - web
+    readme_tags:
+      - Furniture
+      - Product Design
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: CG Mood
+    url: https://cgmood.com/
+    description: CG assets.
+    entry_type: marketplace
+    readme_tags:
+      - CG Assets
+      - Mixed
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - archviz
+        - product-viz
+      workflow:
+        - modeling
+      platform:
+        - web

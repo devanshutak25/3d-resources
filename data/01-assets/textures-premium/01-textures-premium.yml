@@ -1,0 +1,52 @@
+entries:
+  - name: Poliigon
+    url: https://www.poliigon.com/
+    description: PBR textures.
+    pricing: Subscription
+    license: Paid
+    entry_type: asset-source
+    tags:
+      tech:
+        - pbr
+        - subscription
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - PBR
+      - Subscription
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Quixel Megascans + Bridge
+    url: https://quixel.com/
+    description: Scanned materials and import plugin. Free with Unreal Engine.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      tech:
+        - photogrammetry
+        - pbr
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Scanned
+      - Free with UE
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Texture Box
+    url: https://texturebox.com/
+    description: Mixed library.
+    license: Paid
+    entry_type: marketplace
+    readme_tags:
+      - Mixed
+      - Pro Textures
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - pbr
+      workflow:
+        - texturing
+        - material-authoring

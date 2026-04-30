@@ -5,9 +5,8 @@
 
 const fs = require('fs');
 const path = require('path');
-const yaml = require('js-yaml');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const CACHE = path.join(__dirname, '..', '_maintenance', 'freshness', 'yt-resolve-cache.json');
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36';
@@ -98,17 +97,19 @@ function qualityScore(entry) {
 }
 
 async function main() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
-  const files = {};
-  for (const m of sections.sections) files[m.file] = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
+  // Map sectionFile → section slug for catalog.appendEntry routing
+  const fileToSlug = new Map();
+  for (const meta of catalog.loadSections().sections) {
+    fileToSlug.set(meta.file, catalog.loadSection(meta.file).slug);
+  }
 
-  // Collect every YouTube entry with its location
+  // Collect every chunk + every YouTube entry with its location
+  const allChunks = [...catalog.iterChunks()];
+  const chunkByPath = new Map(allChunks.map(c => [c._path, c]));
   const targets = [];
-  for (const [file, doc] of Object.entries(files)) {
-    for (const sub of doc.subsections || []) {
-      for (const e of sub.entries || []) {
-        if (isYtUrl(e.url) && !e.deprecated) targets.push({ file, sub: sub.slug, entry: e });
-      }
+  for (const c of allChunks) {
+    for (const e of c.entries) {
+      if (isYtUrl(e.url) && !e.deprecated) targets.push({ file: c.sectionFile, sub: c.subSlug, entry: e, chunk: c });
     }
   }
   console.log(`Found ${targets.length} YouTube entries`);
@@ -167,53 +168,70 @@ async function main() {
     }
   }
 
-  // Apply deletions + rewrites
-  for (const [file, doc] of Object.entries(files)) {
-    for (const sub of doc.subsections || []) {
-      sub.entries = (sub.entries || []).filter(e => {
-        return !toDelete.has(`${file}||${sub.slug}||${e.url}`);
-      });
-    }
+  // Apply deletions across all chunks
+  const touched = new Set();
+  for (const c of allChunks) {
+    const before = c.entries.length;
+    c.entries = c.entries.filter(e => !toDelete.has(`${c.sectionFile}||${c.subSlug}||${e.url}`));
+    if (c.entries.length !== before) touched.add(c._path);
   }
 
+  // Apply rewrites + reroutes
+  const moved = []; // {entry, newFile, newSub} — append after splice from sources
   for (const rw of rewrites) {
-    const doc = files[rw.oldFile];
-    const srcSub = (doc.subsections || []).find(s => s.slug === rw.oldSub);
-    if (!srcSub) continue;
-    const idx = srcSub.entries.findIndex(e => e.url === rw.oldUrl);
-    if (idx < 0) continue;
-    const entry = srcSub.entries[idx];
-    // Build new entry
+    // Find current chunk holding the entry
+    let srcChunk = null, idx = -1;
+    for (const c of allChunks) {
+      if (c.sectionFile !== rw.oldFile || c.subSlug !== rw.oldSub) continue;
+      idx = c.entries.findIndex(e => e.url === rw.oldUrl);
+      if (idx >= 0) { srcChunk = c; break; }
+    }
+    if (!srcChunk) continue;
+    const entry = srcChunk.entries[idx];
     entry.url = rw.newUrl;
     entry.entry_type = 'channel';
     if (rw.name && entry.name.length < rw.name.length + 10) entry.name = rw.name;
-    // If rerouting, move the entry to target sub
+
     if (rw.oldFile !== rw.newFile || rw.oldSub !== rw.newSub) {
-      srcSub.entries.splice(idx, 1);
-      const dstDoc = files[rw.newFile];
-      const dstSub = (dstDoc.subsections || []).find(s => s.slug === rw.newSub);
-      if (!dstSub) continue;
-      dstSub.entries = dstSub.entries || [];
-      // Dedup against dest on the final URL
-      if (!dstSub.entries.some(e => e.url === entry.url)) dstSub.entries.push(entry);
+      srcChunk.entries.splice(idx, 1);
+      touched.add(srcChunk._path);
+      moved.push({ entry, newFile: rw.newFile, newSub: rw.newSub });
+    } else {
+      touched.add(srcChunk._path);
     }
   }
 
-  // After rewrites, second dedupe pass by exact URL across whole catalog (rewrites may have collided)
+  // Save chunks first so appendEntry sees up-to-date files
+  for (const p of touched) catalog.saveChunk(chunkByPath.get(p));
+
+  // Append moved entries (with destination dedupe)
+  const destExisting = new Set();
+  for (const c of catalog.iterChunks()) {
+    for (const e of c.entries) destExisting.add(`${c.sectionFile}||${c.subSlug}||${e.url.toLowerCase().replace(/\/$/, '')}`);
+  }
+  for (const mv of moved) {
+    const k = `${mv.newFile}||${mv.newSub}||${mv.entry.url.toLowerCase().replace(/\/$/, '')}`;
+    if (destExisting.has(k)) continue;
+    destExisting.add(k);
+    const targetSlug = fileToSlug.get(mv.newFile);
+    if (!targetSlug) continue;
+    catalog.appendEntry(targetSlug, mv.newSub, mv.entry);
+  }
+
+  // Final dedupe pass by exact URL across whole catalog
   const seen = new Set();
   let postDup = 0;
-  for (const [file, doc] of Object.entries(files)) {
-    for (const sub of doc.subsections || []) {
-      sub.entries = (sub.entries || []).filter(e => {
-        const k = e.url.toLowerCase().replace(/\/$/, '');
-        if (seen.has(k)) { postDup++; return false; }
-        seen.add(k); return true;
-      });
-    }
+  const postTouched = new Set();
+  for (const c of catalog.iterChunks()) {
+    const before = c.entries.length;
+    c.entries = c.entries.filter(e => {
+      const k = e.url.toLowerCase().replace(/\/$/, '');
+      if (seen.has(k)) { postDup++; return false; }
+      seen.add(k); return true;
+    });
+    if (c.entries.length !== before) postTouched.add(c);
   }
-
-  // Save
-  for (const [f, doc] of Object.entries(files)) fs.writeFileSync(path.join(DATA_DIR, f), yaml.dump(doc, { lineWidth: -1, noRefs: true }));
+  for (const c of postTouched) catalog.saveChunk(c);
 
   console.log(`\nGroups processed:        ${groups.size}`);
   console.log(`Deleted as dup:          ${deletedAsDup}`);

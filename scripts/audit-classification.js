@@ -5,9 +5,8 @@
 
 const fs = require('fs');
 const path = require('path');
-const yaml = require('js-yaml');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const OUT = path.join(__dirname, '..', '_maintenance', 'audit-report.md');
 
 function domain(u) { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return ''; } }
@@ -73,15 +72,15 @@ const EXPECTED_TYPES = {
 };
 
 function load() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
-  const all = [];
-  for (const m of sections.sections) {
-    const doc = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
-    for (const sub of doc.subsections || []) {
-      for (const e of sub.entries || []) {
-        all.push({ entry: e, sub: sub.slug, subTitle: sub.title, file: m.file });
-      }
+  const subTitle = new Map();
+  for (const meta of catalog.loadSections().sections) {
+    for (const s of catalog.loadSection(meta.file).subsections || []) {
+      subTitle.set(`${meta.file}::${s.slug}`, s.title);
     }
+  }
+  const all = [];
+  for (const { sectionFile, subSlug, entry } of catalog.iterEntries()) {
+    all.push({ entry, sub: subSlug, subTitle: subTitle.get(`${sectionFile}::${subSlug}`), file: sectionFile });
   }
   return all;
 }

@@ -1,0 +1,155 @@
+entries:
+  - name: StudioBinder Film Guides
+    url: https://www.studiobinder.com/blog/
+    description: Shot composition, camera shots encyclopedia, camera movements, lighting.
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - Film Guides
+      - Encyclopedia
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: No Film School — Cinematography
+    url: https://nofilmschool.com/topics/cinematography-cameras
+    description: Constant stream of technique articles.
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - Technique Articles
+      - Ongoing
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Every Frame a Painting
+    url: https://www.youtube.com/@everyframeapainting
+    description: Gold-standard video essays on composition, camera, editing rhythm.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Gold Standard
+      - Video Essays
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+  - name: CinemaTyler
+    url: https://www.youtube.com/@CinemaTyler
+    description: Deep analysis of lens choice, color, blocking, lighting in film.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Deep Analysis
+      - Film
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+  - name: Wolfcrow
+    url: https://www.youtube.com/@wolfcrow
+    description: Cinematography fundamentals, color science, exposure theory.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Fundamentals
+      - Color Science
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+  - name: In Depth Cine
+    url: https://www.youtube.com/@InDepthCine
+    description: Practical lighting setups and narrative technique.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Practical
+      - Narrative
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+  - name: Shane Hurlbut ASC Blog
+    url: https://www.hurlbutvisuals.com/blog
+    description: Real DP knowledge on cinematography, lens choice, lighting setups.
+    entry_type: channel
+    license: Free
+    notes: Blog format — entry_type 'channel' kept; could also fit 'reference'.
+    readme_tags:
+      - DP Blog
+      - ASC
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Roger Deakins on Learning to Light
+    url: https://www.youtube.com/@StudioBinder
+    description: Cinematography Techniques Ep. 1.
+    entry_type: channel
+    license: Free
+    notes: URL points to StudioBinder channel root, not the specific Deakins episode — verify/replace with episode link.
+    readme_tags:
+      - Roger Deakins
+      - Lighting
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+  - name: How to Create Stunning Cinematic Lighting
+    url: https://www.youtube.com/@fulltimefilmmaker
+    description: Cinematic lighting tutorial.
+    entry_type: channel
+    license: Free
+    notes: URL is creator channel root, not the specific tutorial video.
+    readme_tags:
+      - Cinematic Lighting
+      - Technique
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+  - name: Nuke
+    url: https://www.foundry.com/products/nuke
+    description: Industry standard node-based compositing software by The Foundry, has a free version for non-commercial use.
+    entry_type: reference
+    license: Freemium
+    notes: Misfit — this is compositing software (entry_type should be 'software', workflow 'compositing'), and belongs in software/compositing section, not cinematography-camera.
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Fusion
+    url: https://www.blackmagicdesign.com/de/products/fusion
+    description: Free node-based compositing software from Blackmagic Design.
+    entry_type: reference
+    license: Free
+    notes: Misfit — compositing software (entry_type should be 'software', workflow 'compositing'); belongs in software/compositing section, not cinematography-camera.
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
