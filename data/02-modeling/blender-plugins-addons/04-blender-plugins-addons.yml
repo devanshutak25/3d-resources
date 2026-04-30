@@ -1,0 +1,216 @@
+entries:
+  - name: BlenderUpdater
+    url: https://github.com/overmindstudios/BlenderUpdater
+    description: Download and install nightly builds with one click.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Updater CLI
+    url: https://github.com/overmindstudios/BlenderUpdaterCLI
+    description: Command line version of BlenderUpdater.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Version Manager
+    url: https://github.com/DotBow/Blender-Version-Manager
+    description: Minimalistic download manager for blender.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Launcher
+    url: https://github.com/DotBow/Blender-Launcher
+    description: Standalone client for managing official builds of blender.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Manager
+    url: https://github.com/verlorengest/BlenderManager
+    description: Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management, and More.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: MicMac
+    url: https://github.com/micmacIGN/micmac
+    description: Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Scripting
+    url: https://github.com/njanakiev/blender-scripting
+    description: Introduction to blender scripting. This is a collection of simple to more involved examples to scripting in Blender with Python.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Fake Bpy Module
+    url: https://github.com/nutti/fake-bpy-module
+    description: Collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Debugger For Vscode
+    url: https://github.com/AlansCodeLog/blender-debugger-for-vscode
+    description: Blender addon for remote debugging Blender with VS Code (and Visual Studio).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender CLI Rendering
+    url: https://github.com/yuki-koyama/blender-cli-rendering
+    description: Python scripts for rendering images using Blender from command-line interface.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Blender Addon Tester
+    url: https://github.com/nangtani/blender-addon-tester
+    description: The blender addon tester is a test harness to enable pytest hook to allow addons to be tested inside a defined version of blender.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Advanced Blender Add-on
+    url: https://github.com/eliemichel/AdvancedBlenderAddon
+    description: This repository intends to give a starter kit as well as to illustrate and intensively comment design patterns commonly used in advanced Blender add-ons.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: 3DN BIP
+    url: https://github.com/3dninjas/3dn-bip
+    description: A Python library for Blender. Blazingly fast preview loads in Blender. Images of arbitrary size. `bpy.utils.previews` drop-in replacement.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Geometry Script
+    url: https://github.com/carson-katri/geometry-script
+    description: Scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Awesome 3D Human
+    url: https://github.com/lijiaman/awesome-3d-human
+    description: A curated list of papers & resources linked to 3D Human research including face, body, hand and motion modeling.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Awesome 3D Printing
+    url: https://github.com/ad-si/awesome-3d-printing
+    description: A curated list of awesome 3D printing resources.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: 3 D Machine Learning
+    url: https://github.com/timzhang642/3D-Machine-Learning
+    description: A resource repository for 3D machine learning.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Usage in Science, Academia, and Industry
+    url: https://github.com/ichlubna/blenderSurvey
+    description: Curated list of resources about the usage of Blender in Science, Academia, and Industry.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+        - opensource-alt
+  - name: Hi Phy Engine
+    url: https://hiphyengine.github.io/
+    description: Fully-coupled high-fidelity physics engine addon — unified solver for rigid body, cloth, hair, soft body, and MPM snow/sand with intersection-free continuous collision detection.
+    license: Paid
+    entry_type: plugin
+    best_for: Accurate cloth/hair/soft-body sim in Blender
+    tags:
+      tech:
+        - blender-addon
+        - blender
+      workflow:
+        - simulation
+    readme_tags:
+      - Physics Sim
+      - Cloth/Hair/Soft Body
+    url_last_verified: '2026-04-20'
+    url_status: ok

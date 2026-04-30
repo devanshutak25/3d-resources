@@ -1,0 +1,234 @@
+entries:
+  - name: Unreal Engine 5
+    url: https://www.unrealengine.com/
+    description: AAA engine from Epic. Free until $1M revenue, then royalty.
+    license: Freemium
+    entry_type: software
+    best_for: AAA, film, virtual production
+    tags:
+      workflow:
+        - modeling
+        - animation
+        - rendering
+        - fx
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - real-time
+        - gpu
+        - ray-tracing
+    readme_tags:
+      - AAA
+      - Virtual Production
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Unity 6
+    url: https://unity.com/
+    description: Cross-platform engine with massive asset store ecosystem.
+    license: Freemium
+    entry_type: software
+    best_for: Mobile, AR/VR, cross-platform
+    tags:
+      output:
+        - games
+        - xr
+      platform:
+        - win
+        - mac
+        - linux
+        - ios
+        - android
+        - web
+      tech:
+        - real-time
+        - gpu
+    readme_tags:
+      - Cross-Platform
+      - XR
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: GameMaker
+    url: https://gamemaker.io/
+    description: GML-based 2D engine (Undertale, Hotline Miami).
+    license: Freemium
+    entry_type: software
+    best_for: 2D games
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - 2D Focus
+      - Indie Proven
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Construct 3
+    url: https://www.construct.net/
+    description: Browser-based no-code 2D engine with visual scripting.
+    license: Freemium
+    entry_type: software
+    best_for: No-code 2D games, browser-based
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - No-code
+      - Browser
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: GDevelop
+    url: https://gdevelop.io/
+    description: Open-source event-based no-code 2D.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source no-code 2D
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+      skill:
+        - beginner
+      tech:
+        - opensource-alt
+    readme_tags:
+      - No-code
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: RPG Maker MZ
+    url: https://www.rpgmakerweb.com/
+    description: JavaScript-based RPG creation.
+    license: Paid
+    entry_type: software
+    best_for: RPG creation
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - RPG Focus
+      - JavaScript
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Ren'Py
+    url: https://www.renpy.org/
+    description: Python visual novel engine (industry standard).
+    license: Open Source
+    entry_type: software
+    best_for: Visual novels
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Visual Novels
+      - Industry Standard
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: CryEngine
+    url: https://www.cryengine.com/
+    description: High-fidelity 3D engine, pay-what-you-want.
+    license: Freemium
+    entry_type: software
+    best_for: High-fidelity 3D
+    tags:
+      output:
+        - games
+      platform:
+        - win
+      tech:
+        - real-time
+        - gpu
+    readme_tags:
+      - High-Fidelity
+      - PWYW
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: PlayCanvas
+    url: https://playcanvas.com/
+    description: JavaScript browser-based 3D engine.
+    license: Freemium
+    entry_type: software
+    best_for: Browser-based 3D games
+    tags:
+      output:
+        - games
+        - xr
+      platform:
+        - web
+      tech:
+        - real-time
+        - collaborative
+    readme_tags:
+      - Browser-Based
+      - JavaScript
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Unbound
+    url: https://www.unbound.io/
+    description: SDF-based game development platform. Non-destructive real-time editing, Lua 5.3 scripting, FBX/glTF export. Early Access.
+    license: Freemium
+    entry_type: software
+    best_for: SDF-native game creation
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+      tech:
+        - real-time
+        - procedural
+    readme_tags:
+      - SDF-Native
+      - Early Access
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Evergine
+    url: https://evergine.com/
+    description: Enterprise-focused graphics engine for 3D business and industry applications.
+    entry_type: software
+    best_for: Enterprise 3D apps
+    tags:
+      output:
+        - product-viz
+        - games
+        - xr
+      platform:
+        - win
+    readme_tags:
+      - Enterprise
+      - Industrial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: SceneKit
+    url: https://developer.apple.com/documentation/scenekit
+    description: Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games

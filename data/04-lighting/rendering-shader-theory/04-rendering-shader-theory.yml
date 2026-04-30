@@ -1,0 +1,451 @@
+entries:
+  - name: KodeLife
+    url: https://hexler.net/products/kodelife
+    description: Real-time shader editor that supports GLSL, HLSL, and Metal, with a user-friendly interface for creating and testing shaders.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Fragment Foundry
+    url: http://hughsk.io/fragment-foundry
+    description: Interactive fragment shader tutorial.
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: ibreakdownshaders
+    url: http://ibreakdownshaders.blogspot.com.au/
+    description: Explore the math behind shaders.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: ISF
+    url: https://www.interactiveshaderformat.com/
+    description: GLSL shaders for use in interactive applications.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: How to read shader assembly
+    url: https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/
+    description: How to read shader assembly.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Íñigo Quílez
+    url: http://iquilezles.org/index.html
+    description: Hardcore math applied to computer graphics, one of the best shader makers out there. [ST Profile](https://www.shadertoy.com/user/iq)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: JanusVR
+    url: https://janusvr.com/
+    description: Webpages as collaborative 3D webspaces interconnected by portals.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: WebGl Playground
+    url: http://jessevdk.github.io/webgl-play/
+    description: The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted prope
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: 'Khrnos: Streamlining Render Passes'
+    url: https://www.khronos.org/blog/streamlining-render-passes
+    description: Introduces the [VK_KHR_dynamic_rendering](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VK_KHR_dynamic_rendering.html) extension.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Kick.js Shader Editor
+    url: http://www.kickjs.org/tool/shader_editor/shader_editor.html
+    description: Formal Tool the WebGL engine Kick.js
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: 'Learn OpenGL: Text Rendering'
+    url: https://learnopengl.com/In-Practice/Text-Rendering
+    description: 'Learn OpenGL: Text Rendering.'
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: 'Learn OpenGL: Skeletal Animation'
+    url: https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation
+    description: 'Learn OpenGL: Skeletal Animation.'
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Light House 3D
+    url: http://www.lighthouse3d.com/tutorials/glsl-core-tutorial
+    description: By **Light House 3D**
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Let's remove Quaternions from every 3D Engine
+    url: https://marctenbosch.com/quaternions/
+    description: Introduces *Rotors* in Geometric Algebra.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: A Survey on Participating Media Rendering Techniques
+    url: http://maverick.inria.fr/Publications/2005/CPPSS05/cerezo.pdf
+    description: Cerezo et al. Visual Computer, 2005
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: NEORT
+    url: https://neort.io/popular
+    description: Digital art platform for creative coders (Fragment Shader, JavaScript Canvas).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Shader Designer
+    url: https://www.opengl.org/sdk/tools/ShaderDesigner/
+    description: TyphoonLabs' OpenGL Shader Designer
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: glslViewer (write-up)
+    url: http://patriciogonzalezvivo.com/2015/glslViewer/
+    description: Live-coding console tool that renders GLSL Shaders.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Patricio Gonzales Vivo
+    url: http://patriciogonzalezvivo.com/
+    description: Main contributor for the magnificent learning site "The book of shaders"
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Memory Management section on Pbrt
+    url: https://www.pbr-book.org/3ed-2018/Utilities/Memory_Management
+    description: Memory Management section on Pbrt.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: 'Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL, 6/E'
+    url: http://www.pearsonhighered.com/educator/product/Interactive-Computer-Graphics-A-TopDown-Approach-with-ShaderBased-OpenGL/9780132545235.page
+    description: '[Currently can be bought here] (https://www.amazon.co.uk/Interactive-Computer-Graphics-Top-Down-Shader-Based/dp/0132545233)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Experimental analysis of BRDF models
+    url: http://people.csail.mit.edu/addy/research/brdf/
+    description: Ngan et al. Proceedings of the 2005 Eurographics Symposium on Rendering
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: 'Photo tourism: Exploring photo collections in 3D'
+    url: http://phototour.cs.washington.edu/
+    description: Snavely, Seitz, Szzeliski. Siggraph 2006
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Physics-Based Animation
+    url: http://www.physicsbasedanimation.com/
+    description: Contains learning resources and papers.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Pixel Shaders
+    url: http://pixelshaders.com/
+    description: Interactive Introduction to Graphics Programming.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: PixelSpirit Elements Deck
+    url: https://pixelspiritdeck.com/
+    description: This is a tarot deck for learning GLSL shaders. Each PixelSpirit card has a visual element and its GLSL shader code. The cards are ordered from simplest to most complex, building a library of code f
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Polygonjs
+    url: https://polygonjs.com
+    description: Node-based WebGL design tool, used for procedural geometry, particles, materials
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Ray Tracing in One Weekend series
+    url: https://raytracing.github.io/
+    description: Those three short books explain basic concepts of path tracing and implement a software renderer from scratch.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: React Spring
+    url: https://www.react-spring.dev/
+    description: An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Real-Time Rendering Blog
+    url: https://www.realtimerendering.com/blog/
+    description: A blog associated with the "Real-Time Rendering" book series, featuring updates on rendering techniques, industry news, and research papers
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Ray Tracing Gems
+    url: https://www.realtimerendering.com/raytracinggems/rtg/index.html
+    description: Like other "gems" book, it contains standalone chapters on various ray tracing topics.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Ray Tracing Gems II
+    url: https://www.realtimerendering.com/raytracinggems/rtg2/index.html
+    description: Ray Tracing Gems II.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Static Object Intersections - Real Time Rendering Resource Page
+    url: https://www.realtimerendering.com/intersections.html
+    description: A collection of intersection algorithms.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: WebGL 2 Basics
+    url: http://www.realtimerendering.com/blog/webgl-2-basics/
+    description: Blog post about getting started with WebGL 2.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: WebGL 2 New Features
+    url: http://www.realtimerendering.com/blog/webgl-2-new-features/
+    description: Blog post about whats new and cool in WebGl 2.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Reddit Two Triangles
+    url: https://www.reddit.com/r/twotriangles/
+    description: General discussion and showcase for shaders.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: RenderDoc
+    url: https://renderdoc.org
+    description: Free and open-source graphics debugging tool that allows developers to capture and analyze frames from DirectX, Vulkan, and OpenGL applications. It provides a user-friendly interface to inspect
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Graphics for Games
+    url: https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/
+    description: Introduction to 3D graphics programming including shaders, math post-processing etc. from Newcastle University.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Scene.js
+    url: http://scenejs.org/
+    description: Extensible WebGL-based engine for high-detail 3D visualisation.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: ShaderFrog
+    url: https://shaderfrog.com/2/
+    description: Online shader editor and asset manager that allows users to create, edit, and export shaders for use in Three.js, Unity, and other game engines. It supports visual shader editing and also offer
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: ShaderGif
+    url: https://shadergif.com/
+    description: Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Shaderific for OpenGL
+    url: https://shaderific.com/index.html
+    description: Documentation on GLSL
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Shaderific GLSL
+    url: https://shaderific.com/glsl.html
+    description: OpenGL ES shading language reference.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Shader Park
+    url: https://shaderpark.com/
+    description: A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already avail
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: SHDR Editor
+    url: http://shdr.bkcore.com
+    description: Live GLSL shader editor, viewer and validator.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Global illumination using photon maps
+    url: https://sites.fas.harvard.edu/~cs278/papers/pmap.pdf
+    description: Jensen, H. W. Rendering Techniques 1996
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Stack.gl
+    url: http://stack.gl/
+    description: Site that approaches Shaders from WebGL
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: ShaderTool
+    url: http://store.steampowered.com/app/314720/
+    description: '[Win] - Modern shader IDE for programmers and FX artists.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Synthclipse
+    url: http://synthclipse.sourceforge.net/index.html
+    description: Synthclipse is a GLSL shader prototyping tool.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: The Book of Shaders Glossary
+    url: https://thebookofshaders.com/glossary/
+    description: Shader glossary by theme.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering

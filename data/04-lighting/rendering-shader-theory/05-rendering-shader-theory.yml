@@ -1,0 +1,211 @@
+entries:
+  - name: 'The Shader Permutation Problem - Part 1: How Did We Get Here?'
+    url: https://therealmjp.github.io/posts/shader-permutations-part1/
+    description: 'The Shader Permutation Problem - Part 1: How Did We Get Here?.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: 'The Shader Permutation Problem - Part 2: How Do We Fix It?'
+    url: https://therealmjp.github.io/posts/shader-permutations-part2/
+    description: 'The Shader Permutation Problem - Part 2: How Do We Fix It?.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: ShaderShop videos
+    url: http://tobyschachman.com/Shadershop/
+    description: Some awesome videos about ShaderShop and more.
+    entry_type: marketplace
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: ShaderShop editor
+    url: http://tobyschachman.com/Shadershop/editor/
+    description: Visually impactful editor to work on shaping
+    entry_type: marketplace
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: PicoGL.js
+    url: https://tsherif.github.io/picogl.js/
+    description: Minimal WebGL 2-only rendering library.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: How to Create a Fake 3D Image Effect with WebGL
+    url: https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/
+    description: How to Create a Fake 3D Image Effect with WebGL.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Vertex Shader Art
+    url: https://vertexshaderart.com/
+    description: Platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Virtual Terrain Project
+    url: http://vterrain.org/
+    description: Creation of tools for easily constructing any part of the real part of the real world in interactive, 3D digital form.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: OpenGL/GLSL Shader Programming
+    url: http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf
+    description: Deck on OpenGL/GLSL shader programming.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: WebGL Fundamentals
+    url: https://webglfundamentals.org/
+    description: This resource provides a thorough understanding of WebGL and its underlying principles, ensuring that you grasp the latest techniques and approaches such as 3D rendering, lighting, 2D transformation
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Whitestorm.js (site)
+    url: https://whs.io/
+    description: Framework for developing 3D web apps with physics.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: 'Instanced Line Rendering Part II: Alpha blending'
+    url: https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html
+    description: Continue of the above article, and introduces a way to do alpha-blending with triangulated lines.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Brandon Fogerty's blog
+    url: https://xdpixel.com/about-me/
+    description: A blog focused on real-time rendering, shader programming, and game engine development
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: xeokit
+    url: https://xeokit.io/
+    description: Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Takua Renderer
+    url: http://www.yiningkarlli.com/projects/takuarender/
+    description: By Karl Li| [The Pianist](http://lelatr.cgsociety.org/art/disney-zbrush-cartoon-maya-modeling-photoshop-texturing-mudbox-roger-3d-1191193), by Leticia Reinaldo|
+    entry_type: marketplace
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: An introduction to Shader Art Coding
+    url: https://www.youtube.com/@kishimisu
+    description: Video tutuorial showing the basics of creating art with shaders.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: 'CppCon 2018: Valentin Galea “Rapid Prototyping of Graphics Shaders in Modern C++”'
+    url: https://www.youtube.com/@CppCon
+    description: Also implemented swizzling with similar techniques.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Shaders Laboratory
+    url: https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w
+    description: YouTube channel about shaders.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Makin' Stuff Look Good
+    url: https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg
+    description: YouTube channel about shaders case studies.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Vertexshaderart
+    url: https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw
+    description: YouTube playlist about vertex shaders.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Writing an efficient Vulkan renderer
+    url: https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/
+    description: Writing an efficient Vulkan renderer.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: OpenGL 3D Game Tutorials
+    url: https://www.youtube.com/@ThinMatrix
+    description: Beginners tutorial series about creating 3D games OpenG.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web

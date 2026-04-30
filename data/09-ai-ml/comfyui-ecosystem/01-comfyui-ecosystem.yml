@@ -1,0 +1,82 @@
+entries:
+  - name: ComfyUI
+    url: https://comfy.org/
+    description: Node-based AI generator for image/video/3D/audio.
+    license: Open Source
+    entry_type: software
+    best_for: Node-based AI workflows
+    tags:
+      tech:
+        - node-based
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Node-based
+      - Multi-modal
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Comfy UI Manager
+    url: https://github.com/Comfy-Org/ComfyUI-Manager
+    description: Install and manage custom nodes and dependencies.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Custom Nodes
+      - Mgmt
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+  - name: ComfyUI Registry
+    url: https://comfyui.org/
+    description: Community workflow and subgraph sharing.
+    entry_type: marketplace
+    readme_tags:
+      - Workflow Share
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: Awesome ComfyUI
+    url: https://github.com/ComfyUI-Workflow/awesome-comfyui
+    description: Curated custom nodes collection.
+    license: Open Source
+    entry_type: reference
+    readme_tags:
+      - Curated
+      - Awesome List
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+  - name: Comflowy
+    url: https://www.comflowy.com/
+    description: ComfyUI tutorials for ControlNet, SDXL, FLUX workflows.
+    entry_type: tutorial
+    readme_tags:
+      - Tutorials
+      - Workflows
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: ControlNet SD3.5
+    url: https://blog.comfy.org/p/sd3-5-large-controlnet
+    description: Blur/Canny/Depth models, free commercial use.
+    license: Free
+    entry_type: plugin
+    readme_tags:
+      - ControlNet
+      - Commercial-OK
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative

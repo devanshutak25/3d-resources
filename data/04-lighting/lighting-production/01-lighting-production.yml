@@ -1,0 +1,19 @@
+entries:
+  - name: UE5 Product Viz — iPhone Lighting Breakdown
+    url: https://www.youtube.com/@ali.3d
+    description: UE5 product viz iPhone lighting breakdown.
+    entry_type: channel
+    tags:
+      output:
+        - product-viz
+      workflow:
+        - lighting
+      skill:
+        - advanced
+      platform:
+        - web
+    readme_tags:
+      - UE5
+      - Product Viz
+    url_last_verified: '2026-04-19'
+    url_status: ok

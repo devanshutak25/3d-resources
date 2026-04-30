@@ -19,6 +19,18 @@ function loadYaml(p) {
   return yaml.load(fs.readFileSync(p, 'utf8'));
 }
 
+function loadSubEntries(sectionFile, subSlug) {
+  const subDir = path.join(DATA_DIR, sectionFile.replace(/\.yml$/, ''), subSlug);
+  if (!fs.existsSync(subDir)) return [];
+  const files = fs.readdirSync(subDir).filter(f => f.endsWith('.yml')).sort();
+  const entries = [];
+  for (const f of files) {
+    const c = loadYaml(path.join(subDir, f));
+    if (c && c.entries) entries.push(...c.entries);
+  }
+  return entries;
+}
+
 function validateSchema() {
   const ajv = new Ajv({ allErrors: true, strict: false });
   addFormats(ajv);
@@ -34,7 +46,7 @@ function validateSchema() {
     }
     const section = loadYaml(file);
     for (const sub of section.subsections || []) {
-      for (const entry of sub.entries || []) {
+      for (const entry of loadSubEntries(meta.file, sub.slug)) {
         if (!validate(entry)) {
           for (const err of validate.errors) {
             errors.push(`${meta.file} :: ${sub.slug} :: ${entry.name || entry.url}: ${err.instancePath} ${err.message}`);
@@ -64,7 +76,7 @@ function validateVocab() {
     if (!fs.existsSync(file)) continue;
     const section = loadYaml(file);
     for (const sub of section.subsections || []) {
-      for (const entry of sub.entries || []) {
+      for (const entry of loadSubEntries(meta.file, sub.slug)) {
         const loc = `${meta.file} :: ${sub.slug} :: ${entry.name}`;
         if (entry.license !== undefined && !controlled.license.has(entry.license)) {
           errors.push(`${loc}: unknown license "${entry.license}"`);
@@ -101,7 +113,7 @@ function validateDuplicates() {
     if (!fs.existsSync(file)) continue;
     const section = loadYaml(file);
     for (const sub of section.subsections || []) {
-      for (const entry of sub.entries || []) {
+      for (const entry of loadSubEntries(meta.file, sub.slug)) {
         const url = normalizeUrl(entry.url);
         if (!urlMap.has(url)) urlMap.set(url, []);
         urlMap.get(url).push({

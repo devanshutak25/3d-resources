@@ -1,0 +1,15 @@
+entries:
+  - name: Ben Marriott
+    url: https://www.youtube.com/@BenMarriott
+    description: After Effects and motion design.
+    entry_type: channel
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - AE
+      - Motion Design
+    url_last_verified: '2026-04-19'
+    url_status: ok

@@ -1,0 +1,153 @@
+entries:
+  - name: Open HDRI
+    url: https://openhdri.org/
+    description: 50 free CC0 HDRIs.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - lighting
+      tech:
+        - cc0
+    readme_tags:
+      - CC0
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Poly Haven HDRIs
+    url: https://polyhaven.com/hdris
+    description: CC0 HDRIs up to 16K.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - lighting
+      tech:
+        - cc0
+    readme_tags:
+      - CC0
+      - 16K
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: HDRI Skies
+    url: https://hdri-skies.com/
+    description: Free sky HDRIs.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - lighting
+    readme_tags:
+      - Sky HDRIs
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: HDR Maps
+    url: https://hdrmaps.com/freebies/
+    description: Free HDRI packs.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - lighting
+    readme_tags:
+      - Free Packs
+      - Studio/Outdoor
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Adobe Stock HDRI
+    url: https://stock.adobe.com/search?k=hdri+studio
+    description: Studio HDRIs.
+    entry_type: marketplace
+    tags:
+      workflow:
+        - lighting
+    readme_tags:
+      - Studio
+      - Adobe Stock
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: RenderMan HDRIs
+    url: https://renderman.pixar.com/category/111-hdri
+    description: Pixar's HDRI collection.
+    entry_type: asset-source
+    tags:
+      workflow:
+        - lighting
+    readme_tags:
+      - Pixar
+      - Pro-grade
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: OpenFootage
+    url: https://www.openfootage.net/
+    description: Free HDRIs, VFX plates, and backplates.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - lighting
+        - compositing
+      output:
+        - film-vfx
+    readme_tags:
+      - VFX Plates
+      - Backplates
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Maxime Roz HDRI Pack
+    url: https://www.maximeroz.com/hdri-free-pack
+    description: Free studio and outdoor HDRIs for product viz.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - product-viz
+      workflow:
+        - lighting
+    readme_tags:
+      - Studio
+      - Product-Viz
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: HDRI Hub
+    url: https://hdri-hub.com/
+    description: High-quality HDRIs with backplates.
+    entry_type: marketplace
+    readme_tags:
+      - High-Quality
+      - Backplates
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+  - name: TextureHaven
+    url: https://texturehaven.com/
+    description: Free textures with additional maps like displacement and bump maps. Also HDRIs.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+  - name: HDRI Sun Aligner
+    url: https://github.com/akej74/hdri-sun-aligner
+    description: HDRI Sun Aligner is a Blender addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+      tech:
+        - opensource-alt
+  - name: HDRI To Cube Map
+    url: https://matheowis.github.io/HDRI-to-CubeMap/
+    description: A tool to convert your HDRI file into a Cube map that
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting

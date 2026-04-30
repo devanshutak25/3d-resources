@@ -1,0 +1,37 @@
+entries:
+  - name: Architecture Pipeline
+    url: https://www.autodesk.com/products/3ds-max/
+    description: Primary software — 3ds Max, SketchUp, Revit. Key considerations — accuracy, real-world scale.
+    entry_type: reference
+    tags:
+      output:
+        - archviz
+    readme_tags:
+      - Arch-Viz
+      - Accuracy
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Product Design Pipeline
+    url: https://www.autodesk.com/products/fusion-360/
+    description: Primary software — Fusion 360, SolidWorks, KeyShot. Key considerations — manufacturing.
+    entry_type: reference
+    tags:
+      output:
+        - product-viz
+    readme_tags:
+      - Product Design
+      - Manufacturing
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Motion Graphics Pipeline
+    url: https://www.maxon.net/
+    description: Primary software — Cinema 4D, After Effects. Key considerations — stylized looks, fast iteration.
+    entry_type: reference
+    tags:
+      output:
+        - motion-graphics
+    readme_tags:
+      - Mograph
+      - C4D + AE
+    url_last_verified: '2026-04-19'
+    url_status: ok

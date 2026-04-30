@@ -1,0 +1,145 @@
+entries:
+  - name: r/gamedev
+    url: https://www.reddit.com/r/gamedev/
+    description: 1.5M+ game dev subreddit.
+    entry_type: community
+    readme_tags:
+      - Reddit
+      - Very Active
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: r/indiegaming
+    url: https://www.reddit.com/r/indiegaming/
+    description: Indie gaming subreddit.
+    entry_type: community
+    readme_tags:
+      - Reddit
+      - Indie
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: r/unrealengine
+    url: https://www.reddit.com/r/unrealengine/
+    description: Unreal Engine subreddit.
+    entry_type: community
+    readme_tags:
+      - Reddit
+      - Unreal
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: r/IndieDev
+    url: https://www.reddit.com/r/IndieDev/
+    description: Indie developer subreddit.
+    entry_type: community
+    readme_tags:
+      - Reddit
+      - Indie Dev
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: r/gamedesign
+    url: https://www.reddit.com/r/gamedesign/
+    description: Game design subreddit.
+    entry_type: community
+    readme_tags:
+      - Reddit
+      - Design
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: r/pixelart
+    url: https://www.reddit.com/r/PixelArt/
+    description: Pixel art subreddit.
+    entry_type: community
+    readme_tags:
+      - Reddit
+      - Pixel Art
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: Game Dev League
+    url: https://discord.gg/gamedev
+    description: Game dev Discord.
+    entry_type: community
+    readme_tags:
+      - Discord
+      - Large Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: Unreal Slackers
+    url: https://unrealslackers.org/
+    description: Unreal Engine Discord community.
+    entry_type: community
+    readme_tags:
+      - Discord
+      - Unreal
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: Brackeys Discord
+    url: https://discord.gg/brackeys
+    description: Brackeys Discord community.
+    entry_type: community
+    readme_tags:
+      - Discord
+      - Brackeys
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: Work With Indies
+    url: https://www.workwithindies.com/
+    description: Indie game job board.
+    entry_type: community
+    readme_tags:
+      - Job Board
+      - Indie
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: IndieDB
+    url: https://www.indiedb.com/
+    description: Indie game database and promotion.
+    entry_type: community
+    readme_tags:
+      - Indie DB
+      - Promo
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+  - name: TIGSource Forums
+    url: https://forums.tigsource.com/
+    description: Long-running indie forum.
+    entry_type: community
+    readme_tags:
+      - Forum
+      - Indie Classic
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games

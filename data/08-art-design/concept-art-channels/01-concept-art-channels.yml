@@ -1,0 +1,242 @@
+entries:
+  - name: Michael Mattesi
+    url: https://www.instagram.com/michaelmattesi/
+    description: Force drawing (Instagram).
+    entry_type: channel
+    readme_tags:
+      - Force Drawing
+      - Instagram
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Plasticity (GitHub)
+    url: https://github.com/nkallen/plasticity
+    description: A 3d modelling software for concept artists.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      tech:
+        - opensource-alt
+  - name: Absurd Design
+    url: https://absurd.design
+    description: Surrealist illustrations for your next amazing thing
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Neural Network-Generated Illustrations
+    url: https://ai.googleblog.com/2017/05/neural-network-generated-illustrations.html
+    description: AI generated illustrations for Allo from Google
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Awesome Illustrations
+    url: https://awesome-illustrations.now.sh
+    description: Curated awesome-list of illustration resources, tools, and references.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Black Illustrations
+    url: https://blackillustrations.com
+    description: Beautiful illustrations of black people for your next project
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Blush
+    url: https://blush.design
+    description: Create, mix, and customize illustrations made by artists around the world.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Characterz
+    url: https://characterz.design
+    description: 9,000+ customizable diverse 3D character illustrations with Blender source files
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Control Illustrations
+    url: https://control.rocks
+    description: Combo set of 108 customizable illustrations
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Biodiversity Heritage Library
+    url: https://www.flickr.com/photos/biodivlibrary/
+    description: 300,000+ Botanical and Animal Illustrations available for free download. (CC0)
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Flowbite Illustrations
+    url: https://flowbite.com/illustrations/
+    description: Open-source collection of 3D styles SVG illustrations available in dark and light mode
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Get Illustrations Bundle
+    url: https://getillustrations.com
+    description: A bundle of over 34 vector illustration packs and 2800+ items
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Handz
+    url: https://handz.design
+    description: Free library of 320+ diverse 3D hand illustrations with Blender source files
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Humaaans
+    url: https://www.humaaans.com
+    description: Mix-&-match illustrations of people with a design library
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Ouch! Illustrations
+    url: https://icons8.com/ouch
+    description: Stylish illustrations for better UX
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: illlustrations
+    url: https://illlustrations.co
+    description: 100 awesome open-source illustrations also including COVID & WFH for your next project
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Illustration Tools
+    url: https://illustration.tools
+    description: Directory of tools and resources for illustrators, creatives and artists.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Illustrationz
+    url: https://illustrationz.design
+    description: 100+ 3D character illustration packs with 167M+ combinations
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Malt
+    url: https://malt3d.com/
+    description: Malt is a non photorealistic rendering (NPR) framework. It offers fully customizable real-time rendering framework for animation and illustration. [![][repo]](https://github.com/bnpr/Malt) ![][mit]
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Illustration Gallery
+    url: https://www.manypixels.co/gallery
+    description: A huge collection of royalty-free illustrations to power up your projects
+    entry_type: inspiration
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Shape.so
+    url: https://shape.so
+    description: 4300+ icons, illustrations exportable to SVG, React & Lottie
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Storytale
+    url: https://storytale.io/
+    description: Hundreds of illustrations for web and app projects
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Stubborn Generator
+    url: https://stubborn.fun
+    description: An awesome character generator for your next illustrations
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: unDraw Illustrations
+    url: https://undraw.co/illustrations
+    description: MIT licensed constantly updated collection of beautiful svg illustrations
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Smash Illustrations
+    url: https://usesmash.com
+    description: An list of illustrations over 250+ items
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Awesome Stock Resources
+    url: https://github.com/neutraltone/awesome-stock-resources
+    description: A collection of links for free stock photography, video and Illustration websites.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      tech:
+        - opensource-alt

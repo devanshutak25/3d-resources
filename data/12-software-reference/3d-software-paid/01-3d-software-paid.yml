@@ -1,0 +1,271 @@
+entries:
+  - name: Maya
+    url: https://www.autodesk.com/products/maya/
+    description: Film-industry animation and VFX DCC.
+    pricing: $255/mo (Indie $330/yr)
+    license: Paid
+    entry_type: software
+    best_for: Film VFX, CG animation
+    tags:
+      workflow:
+        - modeling
+        - rigging
+        - animation
+        - simulation
+        - rendering
+        - lighting
+      output:
+        - film-vfx
+        - broadcast
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - indie-license
+    readme_tags:
+      - Industry Standard
+      - Film Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: ZBrush
+    url: https://www.maxon.net/en/zbrush
+    description: Industry-standard digital sculpting from Maxon.
+    pricing: ~$27/mo annual
+    license: Paid
+    entry_type: software
+    best_for: Sculpting, characters
+    tags:
+      workflow:
+        - sculpting
+        - modeling
+        - texturing
+      output:
+        - games
+        - film-vfx
+        - illustration
+      platform:
+        - win
+        - mac
+        - ipad
+    readme_tags:
+      - Industry Standard
+      - iPad Version
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: 3DCoat
+    url: https://3dcoat.com/
+    description: Voxel sculpting, retopology, and UV toolkit.
+    pricing: EUR 299 perpetual
+    license: Paid
+    entry_type: software
+    best_for: Voxel sculpting, retopology
+    tags:
+      workflow:
+        - sculpting
+        - retopo
+        - uv
+        - texturing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - perpetual
+    readme_tags:
+      - Voxel Sculpt
+      - Retopo
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Marvelous Designer
+    url: https://www.marvelousdesigner.com/
+    description: Cloth simulation and garment design software.
+    pricing: Subscription
+    license: Paid
+    entry_type: software
+    best_for: Cloth simulation, garment design
+    tags:
+      workflow:
+        - modeling
+        - simulation
+      output:
+        - film-vfx
+        - games
+        - illustration
+      platform:
+        - win
+        - mac
+      tech:
+        - physics
+    readme_tags:
+      - Garment Sim
+      - Cloth
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Clo3D
+    url: https://www.clo3d.com/
+    description: Fashion-focused garment design and cloth simulation.
+    pricing: Subscription
+    license: Paid
+    entry_type: software
+    best_for: Fashion design, cloth simulation
+    tags:
+      workflow:
+        - modeling
+        - simulation
+      output:
+        - product-viz
+        - illustration
+      platform:
+        - win
+        - mac
+      tech:
+        - physics
+    readme_tags:
+      - Fashion
+      - Garment Sim
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Substance 3D Modeler
+    url: https://www.adobe.com/products/substance3d/apps/modeler.html
+    description: Adobe's VR and desktop sculpting tool.
+    pricing: $49.99/mo collection
+    license: Paid
+    entry_type: software
+    best_for: VR/desktop sculpting
+    tags:
+      workflow:
+        - sculpting
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+      tech:
+        - xr
+        - subscription
+    readme_tags:
+      - VR Sculpt
+      - Adobe Suite
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Moi3D
+    url: http://moi3d.com/
+    description: NURBS modeler for industrial and product design.
+    pricing: $295 perpetual (90-day trial)
+    license: Paid
+    entry_type: software
+    best_for: NURBS modeling, industrial design
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+        - archviz
+      platform:
+        - win
+        - mac
+      tech:
+        - perpetual
+    readme_tags:
+      - NURBS
+      - Perpetual License
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Nomad Sculpt
+    url: https://nomadsculpt.com/
+    description: Mobile digital sculpting for iPad and Android.
+    pricing: $19.99 one-time (mobile)
+    license: Paid
+    entry_type: software
+    best_for: Mobile sculpting
+    tags:
+      workflow:
+        - sculpting
+        - modeling
+      output:
+        - illustration
+        - games
+      platform:
+        - ios
+        - ipad
+        - android
+      tech:
+        - perpetual
+        - stylus-support
+        - ipad-native
+    readme_tags:
+      - iPad Sculpt
+      - One-time Purchase
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: SketchUp
+    url: https://www.sketchup.com/
+    description: Architectural and interior-design-oriented 3D modeler.
+    pricing: Go $10.75/mo, Pro $33.25/mo, Studio $68.25/mo (annual)
+    license: Paid
+    entry_type: software
+    best_for: Architecture, interior design
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - win
+        - mac
+        - web
+        - ipad
+    readme_tags:
+      - Arch-Viz
+      - Easy Learning Curve
+    notes: SketchUp for Schools free for K-12 students/educators. No general free tier as of 2026.
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Modo
+    url: https://www.foundry.com/products/modo
+    description: Foundry's 3D modeling, texturing, rendering package.
+    entry_type: software
+    best_for: Modeling, product viz
+    tags:
+      workflow:
+        - modeling
+        - texturing
+        - rendering
+      output:
+        - product-viz
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Foundry
+      - Modeling Focus
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Daz 3D
+    url: https://www.daz3d.com/
+    description: Character-focused 3D software w/ large marketplace of figures and morphs. Free core app.
+    entry_type: software
+    best_for: Character-centric scenes
+    tags:
+      workflow:
+        - modeling
+        - animation
+      output:
+        - illustration
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Characters
+      - Huge Marketplace
+    url_last_verified: '2026-04-19'
+    url_status: ok

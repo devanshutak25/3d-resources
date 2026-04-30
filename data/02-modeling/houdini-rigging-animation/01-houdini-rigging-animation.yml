@@ -1,0 +1,27 @@
+entries:
+  - name: Secondary Motion in H19
+    url: https://vimeo.com/649244909
+    description: Paul Esteves — secondary motion workflows.
+    entry_type: tutorial
+    readme_tags:
+      - Secondary Motion
+      - H19
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rigging
+        - animation
+  - name: Space Girl Rigging
+    url: https://www.sidefx.com/learn/collections/space-girl-rigging/
+    description: Legacy rigging series.
+    entry_type: tutorial
+    readme_tags:
+      - Classic
+      - Legacy Rig
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rigging
+        - animation

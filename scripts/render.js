@@ -8,6 +8,24 @@ const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 
+function loadSubEntries(sectionFile, subSlug) {
+  const subDir = path.join(DATA_DIR, sectionFile.replace(/\.yml$/, ''), subSlug);
+  if (!fs.existsSync(subDir)) return [];
+  const files = fs.readdirSync(subDir).filter(f => f.endsWith('.yml')).sort();
+  const entries = [];
+  for (const f of files) {
+    const c = yaml.load(fs.readFileSync(path.join(subDir, f), 'utf8'));
+    if (c && c.entries) entries.push(...c.entries);
+  }
+  return entries;
+}
+
+function alphaSort(entries) {
+  return [...entries].sort((a, b) =>
+    (a.name || '').localeCompare(b.name || '', 'en', { sensitivity: 'base' })
+  );
+}
+
 function githubAnchor(title) {
   // GitHub markdown anchor rules: lowercase, spaces → dashes, strip most punctuation.
   return title
@@ -62,7 +80,7 @@ function buildToC(sections) {
   return lines.join('\n');
 }
 
-function renderSection(section) {
+function renderSection(section, sectionFile) {
   const lines = [];
   lines.push(`## ${section.title}`);
   lines.push('');
@@ -80,7 +98,8 @@ function renderSection(section) {
     }
 
     // Skip deprecated entries from README (link checker auto-flags these).
-    const active = (sub.entries || []).filter(e => !e.deprecated);
+    const rawEntries = loadSubEntries(sectionFile, sub.slug);
+    const active = alphaSort(rawEntries.filter(e => !e.deprecated));
     const software = active.filter(e => e.entry_type === 'software');
     const references = active.filter(e => e.entry_type !== 'software');
 
@@ -191,7 +210,7 @@ function main() {
     const full = path.join(DATA_DIR, meta.file);
     if (!fs.existsSync(full)) continue;
     const section = yaml.load(fs.readFileSync(full, 'utf8'));
-    out += renderSection(section);
+    out += renderSection(section, meta.file);
   }
   if (!onlyFile) {
     out += footer();

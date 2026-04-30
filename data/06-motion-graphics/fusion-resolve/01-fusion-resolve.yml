@@ -1,0 +1,40 @@
+entries:
+  - name: VFXPedia
+    url: https://www.steakunderwater.com/VFXPedia/96.0.243.189/index4875.html?title=Main_Page
+    description: Reference wiki for Fusion.
+    entry_type: reference
+    readme_tags:
+      - Wiki
+      - Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+        - color-grading
+  - name: Multichannel EXR (Fusion forum)
+    url: https://forum.blackmagicdesign.com/viewtopic.php?f=22&t=39964
+    description: Multichannel EXR workflow in Fusion.
+    entry_type: reference
+    readme_tags:
+      - EXR
+      - Multichannel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+        - color-grading
+  - name: Split EXR in Fusion
+    url: http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion
+    description: Split EXR in Fusion guide.
+    entry_type: tutorial
+    readme_tags:
+      - EXR
+      - Split
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+        - color-grading

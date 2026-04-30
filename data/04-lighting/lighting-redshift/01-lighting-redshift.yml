@@ -1,0 +1,80 @@
+entries:
+  - name: Creative Product Lighting with Redshift & C4D
+    url: https://www.youtube.com/@MaxonVFX
+    description: Jarred van de Voort, NAB 2023.
+    entry_type: channel
+    tags:
+      output:
+        - product-viz
+      workflow:
+        - lighting
+        - rendering
+      platform:
+        - web
+    readme_tags:
+      - Product Lighting
+      - NAB 2023
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Redshift Lighting Techniques (Essential MoGraph)
+    url: https://www.youtube.com/@MaxonTrainingTeam
+    description: Redshift lighting techniques.
+    entry_type: channel
+    readme_tags:
+      - Redshift
+      - MoGraph
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+        - rendering
+      platform:
+        - web
+  - name: You And Me Academy
+    url: https://www.youtube.com/@YouAndMeAcademy
+    description: Light groups workflow.
+    entry_type: channel
+    readme_tags:
+      - Light Groups
+      - Workflow
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+        - rendering
+      platform:
+        - web
+  - name: Redshift Interior Materials & Lighting
+    url: https://www.youtube.com/@Cinema4DTutorialsSV
+    description: Interior materials and lighting.
+    entry_type: channel
+    tags:
+      output:
+        - archviz
+      workflow:
+        - lighting
+        - rendering
+      platform:
+        - web
+    readme_tags:
+      - Interiors
+      - Materials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: How to Art Direct Lights in a Cloner
+    url: https://www.youtube.com/@MotionAndDesign
+    description: Art-directing lights across cloners.
+    entry_type: channel
+    readme_tags:
+      - Cloner
+      - Art Direction
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+        - rendering
+      platform:
+        - web

@@ -1,0 +1,217 @@
+entries:
+  - name: Merk
+    url: https://www.patreon.com/merkvilson
+    description: Patreon — Merk.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: msedov
+    url: https://www.patreon.com/msedov
+    description: Patreon — msedov.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: The French Monkey
+    url: https://www.patreon.com/TFMStyle
+    description: Patreon — The French Monkey.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Xuxoe
+    url: https://www.patreon.com/xuxoe
+    description: Patreon — Xuxoe.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: MotionPunk
+    url: https://www.patreon.com/motionpunk
+    description: Patreon — MotionPunk.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Motion
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Dusan Vukcevic
+    url: https://www.patreon.com/vudu
+    description: Patreon — Dusan Vukcevic.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Vincent Schwenk (Patreon)
+    url: https://www.patreon.com/vincentschwenk
+    description: Patreon — Vincent Schwenk.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Motion
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Entagma (Patreon)
+    url: https://www.patreon.com/entagma
+    description: Patreon — Entagma.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Houdini
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Arthur Whitehead (Patreon)
+    url: https://www.patreon.com/arthurwhitehead
+    description: Patreon — Arthur Whitehead.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Motion
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Philiplueck
+    url: https://www.patreon.com/philiplueck
+    description: Patreon — Philiplueck.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Kaeptive
+    url: https://www.patreon.com/Kaeptive
+    description: Patreon — Kaeptive.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Jesus Suarez
+    url: https://www.patreon.com/jssuarez
+    description: Patreon — Jesus Suarez.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: NewPlastic
+    url: https://www.patreon.com/NewPlastic
+    description: Patreon — NewPlastic.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Stylized
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Max Salzborn
+    url: https://www.patreon.com/maxsalzborn
+    description: Patreon — Max Salzborn.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Gonzzzalo
+    url: https://www.patreon.com/gonzzzalo
+    description: Patreon — Gonzzzalo.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Creator
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Ross Mason (Patreon)
+    url: https://www.patreon.com/iamrossmason
+    description: Patreon — Ross Mason.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Motion
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: John Kunz (Patreon)
+    url: https://patreon.com/johnkunz
+    description: Patreon — John Kunz.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Houdini
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Christopher Rutledge (Patreon)
+    url: https://www.patreon.com/tokyomegaplex
+    description: Patreon — Christopher Rutledge.
+    entry_type: channel
+    readme_tags:
+      - Patreon
+      - Houdini
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

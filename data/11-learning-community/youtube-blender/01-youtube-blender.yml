@@ -1,0 +1,254 @@
+entries:
+  - name: Blender Guru
+    url: https://www.youtube.com/@blenderguru
+    description: Classic Blender beginner+ intermediate channel (Andrew Price).
+    entry_type: channel
+    readme_tags:
+      - Classic
+      - Donut Man
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Grant Abbitt
+    url: https://www.youtube.com/@grabbitt
+    description: Beginner-friendly Blender tutorials.
+    entry_type: channel
+    tags:
+      skill:
+        - beginner
+      tech:
+        - blender
+      platform:
+        - web
+    readme_tags:
+      - Beginner
+      - Approachable
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Ian Hubert
+    url: https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA
+    description: Lazy tutorials and cinematic shorts.
+    entry_type: channel
+    readme_tags:
+      - Cinematic Shorts
+      - Lazy Tuts
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Ducky 3D
+    url: https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ
+    description: Stylized Blender tutorials.
+    entry_type: channel
+    readme_tags:
+      - Stylized
+      - Shaders
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: CG Geek
+    url: https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ
+    description: Blender tutorials.
+    entry_type: channel
+    readme_tags:
+      - Blender
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Jayanam
+    url: https://www.youtube.com/channel/UCs5J4GVRB8s2P4hE-O0izrg
+    description: Blender game art.
+    entry_type: channel
+    tags:
+      output:
+        - games
+      tech:
+        - blender
+      platform:
+        - web
+    readme_tags:
+      - Game Art
+      - Blender
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blender Official
+    url: https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg
+    description: Official Blender Foundation channel.
+    entry_type: channel
+    readme_tags:
+      - Official
+      - Foundation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: CGMatter
+    url: https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg
+    description: Technical Blender tips.
+    entry_type: channel
+    readme_tags:
+      - Technical
+      - Tips
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Arrimus 3D
+    url: https://www.youtube.com/@Arrimus3D
+    description: Hard-surface modeling tutorials.
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - blender
+      platform:
+        - web
+    readme_tags:
+      - Hard Surface
+      - Modeling
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: 📺 Turn ANY rock into STYLIZED ~ GraphicLine Games
+    url: https://www.youtube.com/@graphiclinegames4843
+    description: '[asset,Lumin,shader] ([Ghibli Shader Texture Generator](https://graphicline.gumroad.com/l/dcqlie)).'
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: 📺 Cartoon Cel Shader 2.0 ~ Sandvector Studios
+    url: https://www.youtube.com/@sandvectorstudios
+    description: '[material] ([Face Shadow Texture Generator file](https://www.artstation.com/marketplace/p/Vmvmm/face-shadow-texture-generator)).'
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Royal Skies
+    url: https://www.youtube.com/@TheRoyalSkies
+    description: 3D technical artist — Blender, Unreal, games. Speed tutorials across rigging, shaders, animation.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: 🍦Blender Complete Beginner Tutorial Course by CG Geek
+    url: https://www.youtube.com/@CGGeek
+    description: 🍦Blender Complete Beginner Tutorial Course by CG Geek..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: 🍏Blender Beginner Tutorial Series by CG Boost
+    url: https://www.youtube.com/@cgboost
+    description: 🍏Blender Beginner Tutorial Series by CG Boost..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Blender Programming Tutorials by Olav3D
+    url: https://www.youtube.com/@Olav3D
+    description: Blender Programming Tutorials by Olav3D..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Blender Fundamentals by Blender
+    url: https://www.youtube.com/@BlenderOfficial
+    description: Blender Fundamentals by Blender..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Geometry Nodes Basics for Beginners by Bradley Animation
+    url: https://www.youtube.com/@bradleyanimation120
+    description: Geometry Nodes Basics for Beginners by Bradley Animation.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Blender Procedural Nodes Playlist by Default Cube
+    url: https://www.youtube.com/@DefaultCube
+    description: Blender Procedural Nodes Playlist by Default Cube..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Blender Motion Tracking Series by CGmatter
+    url: https://www.youtube.com/@CGMatter
+    description: Blender Motion Tracking Series by CGmatter..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web
+  - name: Darkfall (YouTube)
+    url: https://www.youtube.com/@DarkfallBlender
+    description: Blender Scripting by Darkfall.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      platform:
+        - web

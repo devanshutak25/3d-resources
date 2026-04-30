@@ -1,0 +1,25 @@
+entries:
+  - name: Contemporist
+    url: http://www.contemporist.com/
+    description: Contemporary architecture.
+    entry_type: inspiration
+    tags:
+      output:
+        - archviz
+    readme_tags:
+      - Contemporary Arch
+      - Inspiration
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Modlar
+    url: https://www.modlar.com/
+    description: Architecture inspiration.
+    entry_type: inspiration
+    tags:
+      output:
+        - archviz
+    readme_tags:
+      - Arch Inspiration
+      - Curated
+    url_last_verified: '2026-04-19'
+    url_status: ok

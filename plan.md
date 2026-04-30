@@ -45,9 +45,11 @@ Deliverable: `scripts/` shrinks to live tools only.
 
 ---
 
-## Step 3 — Migrate to chunked layout
+## Step 3 — Migrate to chunked layout ✅ done 2026-04-30
 
 One-shot disruptive PR. Atomic, reversible.
+
+Shipped: 2940 entries across 12 sections split into 158 chunk files (cap 50/chunk) under `data/NN-section/<sub>/NN-<sub>.yml`. Section files rewritten as metadata-only with `chunks` count per subsection. `render.js` reads chunks + alpha-sorts within subsection (one-time order shift folded in). `validate.js` patched minimally to read chunks (full Catalog rewire is Step 4). Verification: alpha-sorted render against pre-migration tree byte-equal to render against post-migration tree (empty diff). `migrate-to-chunks.js` archived.
 
 Write `scripts/migrate-to-chunks.js` (then archive after run):
 

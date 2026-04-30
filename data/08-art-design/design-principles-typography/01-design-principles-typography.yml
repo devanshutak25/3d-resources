@@ -1,0 +1,74 @@
+entries:
+  - name: Practical Typography
+    url: https://practicaltypography.com/
+    description: Free online book on type fundamentals, hierarchy, spacing.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Free Book
+      - Typography
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Typewolf
+    url: https://typewolf.com/
+    description: Curated typography inspiration — fonts in real-world use.
+    entry_type: inspiration
+    readme_tags:
+      - Type Inspiration
+      - Real-world
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: The Futur
+    url: https://www.youtube.com/@TheFutur
+    description: Graphic design fundamentals, typography, grid systems.
+    entry_type: channel
+    readme_tags:
+      - Graphic Design
+      - Grids
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+  - name: Better Web Type
+    url: https://betterwebtype.com/web-typography-resources/
+    description: Free typography course on rhythm and hierarchy.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Web Type
+      - Rhythm
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: NNGroup Visual Design
+    url: https://www.nngroup.com/topic/visual-design/
+    description: Research-backed principles on hierarchy, contrast, whitespace.
+    entry_type: reference
+    readme_tags:
+      - Research-backed
+      - Hierarchy
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Kerning Tool
+    url: https://forums.odforce.net/topic/42827-kerning-tool/
+    description: Kerning typography in Houdini.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference

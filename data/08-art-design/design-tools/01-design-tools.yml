@@ -1,0 +1,242 @@
+entries:
+  - name: Graphite
+    url: https://editor.graphite.rs/
+    description: Open-source procedural 2D/motion graphics editor.
+    license: Open Source
+    entry_type: software
+    best_for: Procedural design
+    tags:
+      tech:
+        - procedural
+        - node-based
+        - opensource-alt
+    readme_tags:
+      - Procedural
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Adobe Express
+    url: https://new.express.adobe.com/
+    description: Quick Adobe design tool.
+    license: Freemium
+    entry_type: software
+    best_for: Quick design
+    tags:
+      platform:
+        - web
+    readme_tags:
+      - Web
+      - Adobe
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: X Design
+    url: https://www.x-design.com/
+    description: Design tool.
+    entry_type: tool
+    readme_tags:
+      - Design
+      - Web
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Modyfi
+    url: https://www.modyfi.com/
+    description: Browser-based creative suite.
+    license: Freemium
+    entry_type: software
+    best_for: Creative suite in browser
+    tags:
+      platform:
+        - web
+    readme_tags:
+      - Browser Suite
+      - Creative
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Eagle
+    url: https://en.eagle.cool/
+    description: Visual asset organizer.
+    license: Paid
+    entry_type: software
+    best_for: Asset organization
+    tags:
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Asset Organizer
+      - Visual
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Carbon
+    url: https://carbon.now.sh/
+    description: Code snippet screenshot generator.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Code Snippets
+      - Images
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Efecto
+    url: https://efecto.app/
+    description: ASCII and dithering effects.
+    entry_type: tool
+    readme_tags:
+      - ASCII
+      - Dithering
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: BabyTrack
+    url: https://freedesigntool.online/baby-track
+    description: Blob tracking effect.
+    entry_type: tool
+    readme_tags:
+      - Blob Tracking
+      - Effect
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Halftone Maker
+    url: https://halftonemaker.com/
+    description: Halftone generator.
+    entry_type: tool
+    readme_tags:
+      - Halftone
+      - Print Effect
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Space Type Generator
+    url: https://spacetypegenerator.com/
+    description: Experimental type generator.
+    entry_type: tool
+    readme_tags:
+      - Experimental
+      - Type
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Tiled Art
+    url: https://tiled.art/en/home/
+    description: Tessellation creator.
+    entry_type: tool
+    readme_tags:
+      - Tessellations
+      - Patterns
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: The Toolbox
+    url: https://thetoolbox.art/
+    description: Curated creative tools directory.
+    entry_type: reference
+    readme_tags:
+      - Tools Directory
+      - Curated
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Undesign
+    url: https://undesign.learn.uno/
+    description: Design learning resources.
+    entry_type: reference
+    readme_tags:
+      - Learning
+      - Resources
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: ContentCore
+    url: https://contentcore.xyz/
+    description: Curated creative content.
+    entry_type: inspiration
+    readme_tags:
+      - Curated
+      - Content
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: OS Design Directory
+    url: https://github.com/opensesh/OS_design-directory
+    description: Open-source design resources directory.
+    license: Open Source
+    entry_type: reference
+    readme_tags:
+      - Open Source
+      - Directory
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Muzli
+    url: https://chromewebstore.google.com/detail/muzli-design-inspiration/glcipcfhmopcgidicgdociohdoicpdfc
+    description: Design inspiration Chrome extension.
+    entry_type: inspiration
+    readme_tags:
+      - Inspiration
+      - Browser Ext
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Cosmos
+    url: https://www.cosmos.so/home
+    description: Visual content curation platform.
+    entry_type: inspiration
+    readme_tags:
+      - Curation
+      - Visual
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Are.na
+    url: https://www.are.na/
+    description: Mood board and research tool for creatives.
+    entry_type: tool
+    readme_tags:
+      - Mood Boards
+      - Research
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Mockup Photos
+    url: https://mockup.photos/
+    description: Device and print mockup library.
+    entry_type: asset-source
+    readme_tags:
+      - Mockups
+      - Devices
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

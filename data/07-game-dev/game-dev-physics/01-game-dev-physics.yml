@@ -1,0 +1,96 @@
+entries:
+  - name: Jolt Physics
+    url: https://github.com/jrouwe/JoltPhysics
+    description: Open-source 3D physics (used in Horizon Forbidden West).
+    license: Open Source
+    entry_type: tool
+    tags:
+      tech:
+        - physics
+        - opensource-alt
+      output:
+        - games
+    readme_tags:
+      - 3D Physics
+      - AAA-proven
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Box2D v3
+    url: https://box2d.org/
+    description: 2D physics engine rewrite by Erin Catto.
+    license: Open Source
+    entry_type: tool
+    tags:
+      tech:
+        - physics
+        - opensource-alt
+      output:
+        - games
+    readme_tags:
+      - 2D Physics
+      - Erin Catto
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Rapier
+    url: https://rapier.rs/
+    description: Rust physics engine (2D/3D, used with Bevy).
+    license: Open Source
+    entry_type: tool
+    tags:
+      tech:
+        - physics
+        - opensource-alt
+      output:
+        - games
+    readme_tags:
+      - Rust
+      - 2D/3D
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Box2D.NET
+    url: https://github.com/ikpil/Box2D.NET
+    description: A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - physics
+        - opensource-alt
+  - name: Lockstep Framework
+    url: https://github.com/SnpM/LockstepFramework
+    description: A framework designed for games that need lockstep simulations. It includes a deterministic 2D physics engine, pathfinding, behavior system, and more. LSF is integrated with Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - physics
+        - opensource-alt
+  - name: UnrealJolt
+    url: https://github.com/Yadhu-S/UnrealJolt
+    description: Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - physics
+        - opensource-alt
+  - name: Cannon.js
+    url: http://schteppe.github.io/cannon.js/
+    description: Lightweight and simple 3D physics engine for the web.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - physics

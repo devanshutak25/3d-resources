@@ -1,0 +1,197 @@
+entries:
+  - name: Freesound
+    url: https://freesound.org/
+    description: Collaborative database of CC-licensed sounds.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+    readme_tags:
+      - CC-licensed
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: BBC Sound Effects
+    url: https://sound-effects.bbcrewind.co.uk/
+    description: BBC's archive of free SFX.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+    readme_tags:
+      - BBC Archive
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Free Music Archive
+    url: https://freemusicarchive.org/
+    description: Free music, varied licenses.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Free Music
+      - CC-licensed
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+  - name: ccMixter
+    url: http://ccmixter.org/
+    description: Creative Commons remix community.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - CC Remixes
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+  - name: Sonniss
+    url: https://sonniss.com/
+    description: SFX library. Releases massive annual free bundles.
+    license: Paid
+    entry_type: marketplace
+    tags:
+      workflow:
+        - audio-design
+    readme_tags:
+      - Pro SFX
+      - Annual Free Bundle
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Motion Array SFX
+    url: https://motionarray.com/browse/sound-effects/free/
+    description: Free SFX collection.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Free SFX
+      - Motion Array
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+  - name: Ende
+    url: https://ende.app/en
+    description: Curated free audio library.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Curated
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+  - name: Moby Gratis
+    url: https://mobygratis.com/
+    description: Free Moby music for indie creators.
+    license: Free NC
+    entry_type: asset-source
+    readme_tags:
+      - Moby
+      - Indie Use
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+  - name: ZapSplat
+    url: https://www.zapsplat.com/
+    description: Large free SFX library.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+    readme_tags:
+      - Large SFX
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Uppbeat
+    url: https://uppbeat.io/
+    description: Music for creators.
+    license: Freemium
+    entry_type: marketplace
+    readme_tags:
+      - Creator Music
+      - Freemium
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+  - name: Artlist
+    url: https://artlist.io/
+    description: Subscription music and SFX.
+    license: Paid
+    entry_type: marketplace
+    tags:
+      tech:
+        - subscription
+      workflow:
+        - audio-design
+    readme_tags:
+      - Subscription
+      - Music + SFX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Knell
+    url: https://knell.medieval.software/
+    description: Free procedural sound effect synthesizer for games, UI, and prototypes.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - SFX Synth
+      - Procedural
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Sapphire
+    url: https://borisfx.com/products/sapphire/
+    description: Suite of 270+ GPU-accelerated VFX effects with integrated Mocha tracking and a custom effect and transition builder.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+  - name: USFXR
+    url: https://github.com/zeh/usfxr
+    description: A C# library used to generate and play game-like procedural audio effects inside Unity.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+      tech:
+        - opensource-alt
+  - name: Freesound Add-on
+    url: https://github.com/iwkse/freesound/tree/freesound-2.0
+    description: Addon for Blender that allows users to create and edit subtitles for movies or music.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+      tech:
+        - opensource-alt

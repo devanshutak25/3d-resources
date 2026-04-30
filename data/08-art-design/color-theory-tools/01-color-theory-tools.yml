@@ -1,0 +1,184 @@
+entries:
+  - name: Color Hunt
+    url: https://colorhunt.co/
+    description: Curated color palette collection.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Palettes
+      - Curated
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Coolors
+    url: https://coolors.co/
+    description: Fast palette generator.
+    license: Freemium
+    entry_type: tool
+    readme_tags:
+      - Generator
+      - Fast
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Lospec Palette List
+    url: https://lospec.com/palette-list
+    description: Pixel art palette repository.
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - games
+      workflow:
+        - reference
+    readme_tags:
+      - Pixel Art
+      - Curated
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: WebGradients
+    url: https://webgradients.com/
+    description: Gradient library.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Gradients
+      - Web
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Gradient Horse
+    url: https://gradient.horse/
+    description: Experimental gradient generator.
+    entry_type: tool
+    readme_tags:
+      - Experimental
+      - Gradients
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Huemint
+    url: https://huemint.com/brand-intersection/
+    description: AI-assisted brand color generation.
+    entry_type: tool
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - reference
+    readme_tags:
+      - AI Palettes
+      - Brand
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Adobe Color
+    url: https://color.adobe.com/explore
+    description: Color wheel, harmony tool, palettes.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Color Wheel
+      - Harmonies
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Canva Color Palettes
+    url: https://www.canva.com/colors/color-palettes/
+    description: Pre-made palettes.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Palettes
+      - Canva
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Paletton
+    url: https://paletton.com/
+    description: Classic color scheme designer.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Classic
+      - Schemes
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: ColorBox
+    url: https://colorbox.io/
+    description: Systematic color scale generator.
+    entry_type: tool
+    readme_tags:
+      - Scales
+      - Systematic
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Color Method
+    url: https://color.method.ac/
+    description: Interactive color matching game.
+    entry_type: tool
+    readme_tags:
+      - Interactive
+      - Training
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: poline
+    url: https://meodai.github.io/poline/
+    description: Esoteric palette generation via polar color interpolation.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Polar Palettes
+      - Esoteric
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      tech:
+        - opensource-alt
+  - name: Fast Palette Studio
+    url: https://fastpalette.studio/
+    description: Rapid palette creation for pixel art and game dev.
+    entry_type: tool
+    tags:
+      output:
+        - games
+      workflow:
+        - reference
+    readme_tags:
+      - Pixel Art
+      - Fast
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Swatchr
+    url: https://github.com/jknightdoeswork/swatchr
+    description: A color palette management system for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      tech:
+        - opensource-alt

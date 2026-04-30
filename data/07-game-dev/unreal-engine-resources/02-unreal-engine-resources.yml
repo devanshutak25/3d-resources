@@ -1,0 +1,601 @@
+entries:
+  - name: UE5 Styleguide
+    url: https://github.com/Allar/ue5-style-guide
+    description: Guidelines for making Unreal Engine projects more consistent.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: SCUE5 Plugin
+    url: https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
+    description: SCUE updated to Unreal 5.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: ALS Refactored
+    url: https://github.com/Sixze/ALS-Refactored
+    description: Completely reworked and improved C++ version of Advanced Locomotion System V4.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: GASP ALS
+    url: https://github.com/PolygonHive/GASP-ALS
+    description: Game Animation Sample with ALS Layering
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: LeapUnreal
+    url: https://github.com/leapmotion/leapunreal
+    description: Leap Motion SDK for the Unreal Engine
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Myo Ue4
+    url: https://github.com/getnamo/myo-ue4
+    description: Myo Plugin for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Swipe
+    url: https://github.com/getsetgames/Swipe
+    description: A plugin for Unreal Engine 4 that exposes swipes on mobile devices as events in blueprint
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Morphs Player
+    url: https://github.com/JanSeliv/MorphsPlayer
+    description: A plugin that allows to play Morph Targets directly on the animation track of your skeletal mesh.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Ps Web Server
+    url: https://github.com/PushkinStudio/PsWebServer
+    description: Civet web server integration plugin for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Ps Replay Kit
+    url: https://github.com/PushkinStudio/PsReplayKit
+    description: Unreal Engine 4 plugin for iOS to record or stream video from the screen, and audio from the app and microphone
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Ps Facebook Mobile
+    url: https://github.com/PushkinStudio/PsFacebookMobile
+    description: Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: UE4 Game Lift Client SDK
+    url: https://github.com/YetiTech-Studios/UE4GameLiftClientSDK
+    description: Gamelift Client SDK for Unreal Engine 4
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Acl Ue4 Plugin
+    url: https://github.com/nfrechette/acl-ue4-plugin
+    description: The official Animation Compression Library Unreal Engine 4 plugin
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: KawaiiPhysics
+    url: https://github.com/pafuhana1213/KawaiiPhysics
+    description: Simple fake Physics for UnrealEngine4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: UnrealLive2D
+    url: https://github.com/Arisego/UnrealLive2D
+    description: UE4 plugin for live2d model
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Articy Importer For Unreal
+    url: https://github.com/ArticySoftware/ArticyImporterForUnreal
+    description: Articy Importer plugin for the Unreal Engine 4.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Cesium for Unreal
+    url: https://github.com/CesiumGS/cesium-unreal
+    description: Bringing the 3D geospatial ecosystem to Unreal Engine
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Realtime Mesh Component
+    url: https://github.com/TriAxis-Games/RealtimeMeshComponent
+    description: Unreal Engine 5 plugin component for rendering runtime generated content.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: PluginTemplate
+    url: https://github.com/Sythenz/PluginTemplate
+    description: A basic Unreal Template with Editor and Runtime Module.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: My SQL Connector UE4 Plugin
+    url: https://github.com/KhArtNJava/MySQLConnectorUE4Plugin
+    description: MySQL Database Connector Plugin for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: SQLite3UE4
+    url: https://github.com/KhArtNJava/SQLite3UE4
+    description: SQLite3 Database Plugin for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: UE4 Aurora Effect
+    url: https://github.com/Hideous/UE4-AuroraEffect
+    description: A raymarched aurora borealis effect for Unreal 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: NiagaraUIRenderer
+    url: https://github.com/SourySK/NiagaraUIRenderer
+    description: Niagara UI Renderer | Free Plugin for Unreal Engine
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: UE5 Stylized Post Process
+    url: https://github.com/ymt3d/UE5-StylizedPostProcess
+    description: Stylized Post Process for Unreal Engine 5
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: OceanProject
+    url: https://github.com/UE4-OceanProject/OceanProject
+    description: An Ocean Simulation project for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Runtime Mesh Component
+    url: https://github.com/Koderz/RuntimeMeshComponent
+    description: Unreal Engine 4 plugin component for rendering runtime generated content
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Greebler
+    url: https://github.com/alexismorin/Greebler
+    description: UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: cashgenUE
+    url: https://github.com/midgen/cashgenUE
+    description: Runtime Procedural Terrain Generator for UnrealEngine
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: OpenLand
+    url: https://github.com/GameDev4K/unreal-open-land
+    description: An OpenSource Landscape Auto Material
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: DungeonGenerator
+    url: https://github.com/orfeasel/DungeonGenerator
+    description: An Unreal Engine 4 Dungeon Generator
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: UE4 Custom Gravity Plugin
+    url: https://github.com/mhousse1247/UE4-CustomGravityPlugin
+    description: 'Unreal Engine 4 : Custom Gravity Plugin'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: GASShooter
+    url: https://github.com/tranek/GASShooter
+    description: Advanced FPS/TPS Sample Project for Unreal Engine 4's GameplayAbilitySystem plugin
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Inventory + Equipment System
+    url: https://github.com/angelhodar/OpenRPG_Inventory
+    description: Generic and fully featured multipurpose inventory container and equipment system for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Horizontal 360 Radar
+    url: https://github.com/angelhodar/OpenRPG_RadarSystem
+    description: Horizontal 360º rich featured radar system, typically seen in games like Skyrim, for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Stats + Attributes
+    url: https://github.com/angelhodar/OpenRPG_Stats
+    description: A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Ps Real Vehicle
+    url: https://github.com/PushkinStudio/PsRealVehicle
+    description: PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Weapon Trace Unreal
+    url: https://github.com/getnamo/WeaponTrace-Unreal
+    description: WeaponTracing plugin for reliable melee combat.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Ghost Mesh Plugin
+    url: https://github.com/NoahZuo/GhostMeshPlugin
+    description: This is a UE4 plugin that can create ghost mesh in Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: CensoredUE4
+    url: https://github.com/BitReign/CensoredUE4
+    description: World space area censoring solution for Unreal Engine 4. It is using blueprint actor for censoring and can be attached to any other blueprint actor like characters
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: unrealcv
+    url: https://github.com/unrealcv/unrealcv
+    description: 'UnrealCV: Connecting Computer Vision to Unreal Engine'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: OpenCL.uplugin
+    url: https://github.com/kwonoh/OpenCL.uplugin
+    description: OpenCL Plugin for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Runtime Files Downloader
+    url: https://github.com/gtreshchev/RuntimeFilesDownloader
+    description: Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Runtime Audio Importer
+    url: https://github.com/gtreshchev/RuntimeAudioImporter
+    description: Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Runtime Mesh Loader
+    url: https://github.com/Chrizey91/RuntimeMeshLoader
+    description: A pluging for Unreal Engine 4, which allows to import meshes during runtime.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: UE4 BYG Localization
+    url: https://github.com/BraceYourselfGames/UE4-BYGLocalization
+    description: Simple CSV localization system for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: Tensorflow Ue4
+    url: https://github.com/getnamo/tensorflow-ue4
+    description: TensorFlow plugin for Unreal Engine 4
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: UELlama
+    url: https://github.com/mika314/UELlama
+    description: Llama plugin for Unreal Engine 5
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: MobileUtils
+    url: https://github.com/gameDNAstudio/MobileUtils
+    description: A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: AndroidNative
+    url: https://github.com/gtreshchev/AndroidNative
+    description: Android Native plugin for Unreal Engine that makes it easy to call Java functions via JNI.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt
+  - name: mod.io
+    url: https://github.com/modio/modio-ue
+    description: Unreal Engine Plugin for easily integrating mod.io into your game - the UGC management service for game developers.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - opensource-alt

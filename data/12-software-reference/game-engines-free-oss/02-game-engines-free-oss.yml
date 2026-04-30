@@ -1,0 +1,12 @@
+entries:
+  - name: Superpowers
+    url: https://sparklinlabs.itch.io/superpowers
+    description: HTML5 Collaborative 2D/3D Game Maker
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt

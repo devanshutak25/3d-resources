@@ -1,0 +1,529 @@
+entries:
+  - name: Physically Based Rendering (PBR Book)
+    url: https://www.pbr-book.org/
+    description: Full book free online. Definitive PBR reference.
+    license: Free
+    entry_type: reference
+    tags:
+      tech:
+        - pbr
+        - path-tracing
+      workflow:
+        - rendering
+    readme_tags:
+      - PBR Bible
+      - Free Book
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: The Book of Shaders
+    url: https://thebookofshaders.com/
+    description: Interactive intro to GLSL fragment shaders.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Interactive
+      - GLSL
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Learn Open GL
+    url: https://learnopengl.com/
+    description: Deep rendering concepts from scratch (lighting, shadows, PBR, SSAO).
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - OpenGL
+      - From Scratch
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Scratchapixel
+    url: https://www.scratchapixel.com/
+    description: Ray tracing, rasterization, math foundations from first principles.
+    license: Free
+    entry_type: reference
+    tags:
+      tech:
+        - ray-tracing
+        - raster
+      workflow:
+        - rendering
+    readme_tags:
+      - First Principles
+      - Math
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: 3D Game Shaders for Beginners
+    url: https://lettier.github.io/3d-game-shaders-for-beginners/
+    description: Clear breakdowns of SSAO, bloom, SSR, and more.
+    license: Free
+    entry_type: reference
+    tags:
+      skill:
+        - beginner
+      workflow:
+        - rendering
+    readme_tags:
+      - Beginner
+      - Effects
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Real-Time Rendering
+    url: https://www.realtimerendering.com/
+    description: Companion site to the book, massive curated link collection.
+    entry_type: reference
+    tags:
+      tech:
+        - real-time
+      workflow:
+        - rendering
+    readme_tags:
+      - Real-time
+      - Curated Links
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Marmoset Resources
+    url: https://marmoset.co/resources/
+    description: Baking guides, PBR theory, technical articles.
+    entry_type: reference
+    readme_tags:
+      - Baking
+      - PBR
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Substance Academy
+    url: https://academy.substance3d.com/
+    description: Free official Substance Painter/Designer tutorials.
+    license: Free
+    entry_type: tutorial
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+        - rendering
+    readme_tags:
+      - Official
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Graphics Programming Resources
+    url: https://graphics-programming.org/
+    description: Papers, talks, implementations aggregated by community.
+    entry_type: reference
+    readme_tags:
+      - Papers + Talks
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Cyanilux
+    url: https://www.cyanilux.com/contents/
+    description: Unity shader tutorials (URP focus). Intro to Shader Graph, HLSL, depth, vertex displacement, dissolve, portals, water, fire. Beginner → advanced.
+    entry_type: tutorial
+    tags:
+      workflow:
+        - material-authoring
+        - rendering
+      output:
+        - games
+    readme_tags:
+      - Unity Shaders
+      - URP
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Matcap - Creating a Spherical Reflection/Environment Mapping shader
+    url: https://www.clicktorelease.com/blog/creating-spherical-environment-mapping-shader/
+    description: Matcap - Creating a Spherical Reflection/Environment Mapping shader.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: PBRT v4
+    url: https://github.com/mmp/pbrt-v4/
+    description: 'Ray tracer from "Physically Based Rendering: From Theory to Implementation" book.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: Tungsten
+    url: https://github.com/tunabrain/tungsten
+    description: High performance physically based renderer in C++11.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: fSync
+    url: https://github.com/MatsValgaeren/fSync
+    description: Unofficial fSpy/Maya bridge which also creates projection shaders.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: USD Arnold
+    url: https://github.com/LumaPictures/usd-arnold
+    description: USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: Bonzomatic
+    url: https://github.com/Gargaj/Bonzomatic
+    description: Live-coding editor for OpenGL pixel shaders, where the results appear on background as you edit the code
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: PBRT v3
+    url: https://github.com/mmp/pbrt-v3
+    description: 'Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation"'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: 3D Game Shaders
+    url: https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file
+    description: Open-source project with resources on learning 3D game shaders.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: Jendrik Illner's blog
+    url: https://www.jendrikillner.com/tags/weekly/
+    description: Illner works for Ubisoft as a 3D programmer, every week he posts a summary of articles about 3D graphics, like shader tutorials, real-time rendering papers, etc
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Physically Based Rendering
+    url: http://www.pbr-book.org/3ed-2018/contents.html
+    description: Book, and the ray tracer with photon mapping, from the
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Fragmentarium
+    url: http://syntopia.github.io/Fragmentarium/
+    description: Program to edit and visualize GLSL shaders, mainly focused on fractals and generative systems
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: The Art of Code channel
+    url: https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg
+    description: Tutorials on shaders using ShaderToy, mostly videos on procedural generation.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: AppleSeed
+    url: https://appleseedhq.net/
+    description: Physically-based global illumination rendering engine.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Coquette
+    url: http://coquette.maryrosecook.com/
+    description: A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Embree
+    url: https://www.embree.org/
+    description: A collection of high-performance ray tracing kernels that help graphics application engineers improve the performance of their photorealistic rendering application.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Filament
+    url: https://github.com/google/filament
+    description: PBR engine, available with all platforms (desktop, mobile).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: Horde3D
+    url: http://www.horde3d.org/
+    description: Small open source 3D rendering engine.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Mitsuba
+    url: https://www.mitsuba-renderer.org/
+    description: A research-oriented retargetable rendering system, written in portable C++17 on top of the Enoki library.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Intel Open Image Denoise
+    url: https://www.openimagedenoise.org/
+    description: An open-source library of high-performance, high-quality denoising filters for images rendered with ray tracing.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Stage.js
+    url: http://piqnt.com/stage.js/
+    description: Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Ray Tracing in One Weekend
+    url: http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf
+    description: 'By Peter Shirley, a free book to get you implementing a basic ray tracer in C++, the catch is: this one is very short (about 40 pages), you''ll learn the minimum to create a ray tracer to generate am'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: 'Ray Tracing: The Rest of Your Life'
+    url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf
+    description: By Peter Shirley, last book of the series, exposes more mathematical themes necessary to build more complex and complete renderers
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Real-Time Rendering recommended books
+    url: http://www.realtimerendering.com/books.html
+    description: List of recommended books on the Real-Time Rendering's site
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Gorgon
+    url: https://www.tape-worm.net/
+    description: A 2D rendering API for .NET, written in C#.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Unity 3D
+    url: http://unity3d.com/
+    description: A development engine for the creation of 2D and 3D games and interactive content.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Compact YCoCg Frame Buffer
+    url: http://jcgt.org/published/0001/01/02/
+    description: Paper on compact YCoCg frame buffer for small IBL buffers.
+    entry_type: reference
+    readme_tags:
+      - Paper
+      - Frame Buffer
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: bgfx
+    url: https://github.com/bkaradzic/bgfx
+    description: Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: VFX good night reading
+    url: https://github.com/jtomori/vfx_good_night_reading/
+    description: Curated collection of good reading about VFX and CG.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+  - name: Shader Displacement for EEVEE
+    url: https://gumroad.com/l/WDCRp
+    description: Using a few modifiers and a nodegroup, realtime shader displacement in EEVEE is now possible.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Cracked Ice Shader
+    url: https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/
+    description: Cracked Ice material tutorial. (#TUTORIALS)
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Alan Zucconi's Blog
+    url: https://www.alanzucconi.com/
+    description: Shaders and maths. Well explained and very interesting.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: A Gentle Introduction to Shaders in Unity3D
+    url: http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d
+    description: This series of posts will  introduce you to shader coding, and is oriented to developers with little to no knowledge about shaders.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Blender Interplanety Storage
+    url: https://blenderartists.org/t/bis-online-material-storage/689728
+    description: The online material (shader) storage add-on for Blender 3D creation. With the BIS add-on, you can save materials (groups of nodes) to the online personal library and then convenient search and uplo
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Car Paint Shader
+    url: https://blenderesse.gumroad.com/l/carpaintshader
+    description: Simple shader setup that lets you easily create variety of different car paint finishes.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: BNPR' Shaders
+    url: https://blendernpr.org/downloads/
+    description: '[EEVEE Comics Shader v3.0](https://gumroad.com/l/JWdjJ), [Erisdraw3D''s](https://twitter.com/Erisdraw3D/status/1216755574735503361), [EEVEEToon](https://github.com/kanzwataru/EEVEEToon)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Glass for EEVEE
+    url: https://www.blendswap.com/blend/25759
+    description: This shader allows you to make realistic glass with EEVEE.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: CineShader
+    url: https://cineshader.com/editor
+    description: CineShader is a real-time 3D shader visualiser. It leverages the _Shadertoy_ API to bring thousands of existing shader artworks into a cinematic 3D environment.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: 📄 Anime/Toon/Cel Shading Model ~ Envieous
+    url: https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226
+    description: '[asset,game,shader] - custom shader, works with launcher.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: Flow Map Shader
+    url: https://gist.github.com/TarasOsiris/e0e6e6c3b8fdb0d8074b
+    description: Flow Map Shader for Unity3D. Used with Sprites.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: FogSprites
+    url: https://github.com/bricevdm/FogSprites
+    description: Modification of Unity's sprite shaders supporting Fog.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt

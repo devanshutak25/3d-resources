@@ -1,0 +1,102 @@
+entries:
+  - name: MaterialX (site)
+    url: https://materialx.org/
+    description: Material interchange format (Lucasfilm). Supported by USD, Blender, Maya, Houdini, Arnold, RenderMan, Substance.
+    license: Open Source
+    entry_type: reference
+    readme_tags:
+      - Material Interchange
+      - Lucasfilm
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: OpenPBR
+    url: https://github.com/AcademySoftwareFoundation/OpenPBR
+    description: Standardized uber-shader for PBR (Autodesk + Adobe).
+    license: Open Source
+    entry_type: reference
+    tags:
+      tech:
+        - pbr
+        - opensource-alt
+    readme_tags:
+      - PBR Standard
+      - Adobe + Autodesk
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: ACES 2.0
+    url: https://acescentral.com/
+    description: Academy Color Encoding System. Widely adopted in film/TV, growing in games.
+    entry_type: reference
+    tags:
+      workflow:
+        - color-grading
+    readme_tags:
+      - Color Encoding
+      - Academy
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: OpenTimelineIO (GitHub)
+    url: https://github.com/AcademySoftwareFoundation/OpenTimelineIO
+    description: Editorial timeline interchange (Pixar).
+    license: Open Source
+    entry_type: reference
+    readme_tags:
+      - Timeline Interchange
+      - Pixar
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Alembic
+    url: http://www.alembic.io/
+    description: Animations.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: MaterialX (GitHub)
+    url: https://github.com/materialx/MaterialX
+    description: Materials and look-dev.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Open Image IO
+    url: https://github.com/OpenImageIO/oiio
+    description: A library for reading and writing images in many common and VFX-related formats.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: OpenDCX
+    url: http://www.opendcx.org/
+    description: C++ extensions for OpenEXR's "deep" file format (DreamWorks).
+    entry_type: reference
+    license: Open Source
+    readme_tags:
+      - EXR Deep
+      - DreamWorks
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: MDL
+    url: https://github.com/NVIDIA/MDL-SDK
+    description: Material Definition Language SDK.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt

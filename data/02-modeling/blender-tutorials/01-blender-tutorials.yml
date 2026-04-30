@@ -1,0 +1,27 @@
+entries:
+  - name: Realistic Hair in Blender
+    url: https://www.wingfox.com/c/8319
+    description: Hair creation course.
+    entry_type: tutorial
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - blender
+    readme_tags:
+      - Hair
+      - Course
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blender Checklist
+    url: https://docs.google.com/spreadsheets/d/1RCY6nTIVgl208ckadipBWVos8_kHOu3HFTQgapN59_U/
+    description: Checklist of Blender features and workflows.
+    entry_type: reference
+    readme_tags:
+      - Checklist
+      - Workflow
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - blender

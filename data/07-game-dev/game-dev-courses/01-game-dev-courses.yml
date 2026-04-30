@@ -1,0 +1,14 @@
+entries:
+  - name: CS50 Game Development (Harvard)
+    url: https://cs50.harvard.edu/games/
+    description: Free, covers Love2D, Unity, and more.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Harvard CS50
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games

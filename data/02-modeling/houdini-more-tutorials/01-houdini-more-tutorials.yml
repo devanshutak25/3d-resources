@@ -1,0 +1,171 @@
+entries:
+  - name: Writing Your Own Polywire
+    url: https://vimeo.com/336017942
+    description: Jake Rice on custom polywire.
+    entry_type: tutorial
+    readme_tags:
+      - Polywire
+      - Custom
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Procedural Modeling with VEX
+    url: https://www.cgcircuit.com/course/procedural-modeling-with-vex
+    description: Tighe Rzankowski procedural modeling course.
+    entry_type: tutorial
+    license: Paid
+    tags:
+      tech:
+        - procedural
+    readme_tags:
+      - Procedural
+      - VEX Course
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Extracting Transform Matrices
+    url: https://vimeo.com/284712920
+    description: How to extract transform matrices.
+    entry_type: tutorial
+    readme_tags:
+      - Matrices
+      - Technique
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: For Loops Tutorial
+    url: https://lesterbanks.com/2019/04/how-to-animate-subdivisions-in-houdini/
+    description: For loops and animated subdivisions.
+    entry_type: tutorial
+    readme_tags:
+      - For Loops
+      - Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Art Directing Paint Splashes
+    url: https://whatifound.net/2020/06/13/houdini-paint-splashes/
+    description: Art-directed paint splashes.
+    entry_type: tutorial
+    readme_tags:
+      - Paint Splash
+      - Art Direction
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Building Growth Animation
+    url: https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth
+    description: Building growth animation technique.
+    entry_type: tutorial
+    readme_tags:
+      - Growth
+      - Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Node Studies
+    url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/
+    description: Node study slide deck.
+    entry_type: reference
+    readme_tags:
+      - Node Study
+      - Deck
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Point Cloud to Mesh (Microsoft)
+    url: https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini-point-cloud
+    description: Point cloud to mesh guide.
+    entry_type: tutorial
+    readme_tags:
+      - Point Cloud
+      - Mesh
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Cloner Object
+    url: https://www.sidefx.com/tutorials/part-1-cloner-object/
+    description: MoGraph Cloner tutorial.
+    entry_type: tutorial
+    readme_tags:
+      - MoGraph
+      - Cloner
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Muscles Masterclass
+    url: https://www.sidefx.com/tutorials/muscles-masterclass-advanced-special-topics/
+    description: Advanced muscles masterclass.
+    entry_type: tutorial
+    readme_tags:
+      - Muscles
+      - Advanced
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: AI For Artists
+    url: https://github.com/kiryha/Houdini/wiki/AI-For-Artists
+    description: AI techniques applied to Houdini.
+    entry_type: reference
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - AI
+      - Artist-Oriented
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Houdini for Astronomy
+    url: http://ytini.com/
+    description: Astronomy and scientific viz in Houdini.
+    entry_type: reference
+    tags:
+      output:
+        - scientific-viz
+    readme_tags:
+      - Astronomy
+      - Sci-Viz
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: MysteryPancake Houdini Fun
+    url: https://github.com/MysteryPancake/Houdini-Fun
+    description: Fun experimental Houdini repo.
+    entry_type: reference
+    readme_tags:
+      - Experiments
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: USD Basics with Solaris
+    url: https://www.sidefx.com/tutorials/usd-basics-with-solaris/
+    description: Official tutorial on USD basics in Solaris.
+    entry_type: tutorial
+    tags:
+      tech:
+        - usd
+    readme_tags:
+      - USD
+      - Solaris
+    url_last_verified: '2026-04-19'
+    url_status: ok

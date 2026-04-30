@@ -1,0 +1,601 @@
+entries:
+  - name: Unity Neural Network
+    url: https://github.com/Blueteak/Unity-Neural-Network
+    description: Simple neural network implemented in C# for Unity3D.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: GameAI Movement
+    url: https://github.com/Kyntaz/gameai-movement
+    description: Movement Algorithms for NPCs developed with the Unity Engine for the Artificial Intelligence for Games class @ IST.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Knowledge Representation
+    url: https://github.com/chris-gong/knowledge-representation
+    description: Small Unity project showcasing AI responding to changes in the game world.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity AI
+    url: https://github.com/lcremer/Unity_AI
+    description: AI Behavior Tree Framework.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: AI Companion
+    url: https://github.com/Ell223/AI-Companion
+    description: Created in Unity 5 for the purposes of learning AI techniques. Features behaviour trees and A* pathfinding.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: OSMTrafficSim
+    url: https://github.com/maajor/OSMTrafficSim
+    description: TrafficSim using Unity ECS.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Path
+    url: https://github.com/AngryAnt/Path
+    description: Pathfinding library for the Unity engine.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: PPOL
+    url: https://github.com/A7ocin/PPOL
+    description: A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Beat Detection
+    url: https://github.com/allanpichardo/Unity-Beat-Detection
+    description: Musical beat detection and audio spectrum analysis for use with the Unity game engine.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Lib Pd Integration
+    url: https://github.com/LibPdIntegration/LibPdIntegration
+    description: A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: NAudio Unity
+    url: https://github.com/WulfMarius/NAudio-Unity
+    description: Port of NAudio to the Mono subset used by Unity3D.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity3 D Sound Manager
+    url: https://github.com/baratgabor/Unity3D-SoundManager
+    description: Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Uni Ios Audio Service
+    url: https://github.com/sanukin39/UniIosAudioService
+    description: Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: AudioRecorder
+    url: https://github.com/alternator/AudioRecorder
+    description: Audio recorder component for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Ableton Link
+    url: https://github.com/comoc/UnityAbletonLink
+    description: An Ableton Link plugin for Unity. (#PLUGINS)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: iTween Expansion
+    url: https://github.com/jtothebell/iTween
+    description: An expansion of Bob Berkebile's Unity 3D tweening plugin.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: ECS Tween
+    url: https://github.com/Xerios/ECS-Tween
+    description: Simple Unity tweening system using ECS that works with GameObjects!
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: I OS Unity Vuforia Guide
+    url: https://github.com/keyv/iOSUnityVuforiaGuide
+    description: Integration of Unity + Vuforia into native iOS application.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Pixel Camera
+    url: https://github.com/ChemiKhazi/UnityPixelCamera
+    description: A resolution independent pixel perfect camera for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: DeadSimple Pixel-Perfect Camera
+    url: https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera
+    description: An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Physical Camera
+    url: https://github.com/Unity-Technologies/Physical-Camera
+    description: Unity Component that can describes a physical camera's attributes. (#Physics) ![Official](UnityResource16x16.png)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Camera Follow 2D
+    url: https://github.com/minhhh/unity-camera-follow-2d
+    description: Script to make 2d camera follow players in an interesting way.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity CameraSizeToVelocity2D
+    url: https://github.com/tonisuo/Unity-CameraSizeToVelocity2D
+    description: Simple script to change the cameras size depending on the velocity of the target.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: CameraLib4U
+    url: https://github.com/mortennobel/CameraLib4U
+    description: A third person camera system for Unity using Chase Camera.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity First Person View
+    url: https://github.com/TiagoF11/-Unity-First-Person-View
+    description: An asset that allows you to have a First Person Perspective where first person objects do not clip through the environment, have a separate field of view from the environment and can receive shadow
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity3D PerlinCameraShake
+    url: https://github.com/baratgabor/Unity3D-PerlinCameraShake
+    description: Perlin noise based camera shake MonoBehaviour script for Unity3D, ready to attach to a Camera. Uses a coroutine-based execution that exits after the job is done. Should be relatively performant.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Jobs View Frustum Culling
+    url: https://github.com/MPozek/Unity-Jobs-View-Frustum-Culling
+    description: A simple collection of jobs used for view frustum culling
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Camera Shake
+    url: https://github.com/IronWarrior/UnityCameraShake
+    description: Generates pseudo-random camera shake using Perlin noise.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Scene Camera Controller
+    url: https://github.com/XJINE/Unity_SceneCameraController
+    description: Control a camera or any other object like SceneView camera.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UnityPhysics2D
+    url: https://github.com/MelvynMay/UnityPhysics2D
+    description: Examples of various Unity 2D Physics components and features.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Jitter Physics
+    url: https://github.com/mattleibow/jitterphysics
+    description: Engine into Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Math Reference
+    url: https://github.com/zezba9000/UnityMathReference
+    description: Math reference for games and more. All visualized in Unity3D.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Custom 2D Colliders
+    url: https://github.com/GuyQuad/Custom-2D-Colliders
+    description: A set of custom 2D colliders for Unity. (#2D)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Quickfracture
+    url: https://github.com/OskarSigvardsson/quickfracture
+    description: A unity destruction effect.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: PBD Fluid in Unity
+    url: https://github.com/Scrawk/PBD-Fluid-in-Unity
+    description: A PBD fluid in unity running on the GPU.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: CharacterController2D
+    url: https://github.com/prime31/CharacterController2D
+    description: A 2D controller that behaves very similarly to Unity's CharacterController component.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity 2D Platformer Controller
+    url: https://github.com/cjddmut/Unity-2D-Platformer-Controller
+    description: A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate su
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: NaughtyCharacter
+    url: https://github.com/dbrizov/NaughtyCharacter
+    description: Third Person Controller for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UNet Controller
+    url: https://github.com/GreenByteSoftware/UNet-Controller
+    description: A Character Controller based controller for Unity's new Networking system. (#NETWORKING)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Super Character Controller
+    url: https://github.com/gucheng0712/SuperCharacterController
+    description: Unity custom character controller. (#ARCHIVED)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: AdMob Unity Plugin
+    url: https://github.com/OrigameStudio/admob-unity-plugin
+    description: An extension for Unity3d to place AdMob banners in your Android games. (#PLUGINS)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Google Mobile Ads Unity Plugin
+    url: https://github.com/googleads/googleads-mobile-unity
+    description: Official Unity Plugin for the Google Mobile Ads SDK
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: DeltaDNA Unity SDK
+    url: https://github.com/deltaDNA/unity-sdk
+    description: Add support for deltaDNA's platform and smartads mediation to your Unity games.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: SpatialOS GDK for Unity
+    url: https://github.com/spatialos/gdk-for-unity
+    description: Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. (Terms of Service discussion alert!)
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Pitaya
+    url: https://github.com/topfreegames/pitaya
+    description: Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: MLAPI
+    url: https://github.com/MidLevel/MLAPI
+    description: A game networking framework built for the Unity Engine to abstract game networking concepts.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Barebones Master Server
+    url: https://github.com/alvyxaz/barebones-masterserver
+    description: Master Server framework for Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Nakama Unity
+    url: https://github.com/heroiclabs/nakama-unity
+    description: Unity client for Nakama server.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: MassiveNet
+    url: https://github.com/jakevn/MassiveNet
+    description: Unity3D UDP networking library focused on high-CCU, multi-server architecture.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Socket IO
+    url: https://github.com/NetEase/UnitySocketIO
+    description: Socket.io client for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt

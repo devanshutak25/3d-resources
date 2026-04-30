@@ -1,0 +1,529 @@
+entries:
+  - name: Krita
+    url: https://krita.org/
+    description: Free open-source digital painting. Brush engine, animation, HDR.
+    license: Open Source
+    entry_type: software
+    best_for: Digital painting, concept art, 2D animation
+    tags:
+      workflow:
+        - concept
+        - animation
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - stylus-support
+    readme_tags:
+      - Digital Painting
+      - Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Clip Studio Paint
+    url: https://www.clipstudio.net/
+    description: Industry-standard illustration and comics with animation timeline.
+    license: Paid
+    entry_type: software
+    best_for: Manga, illustration, frame-by-frame animation
+    tags:
+      workflow:
+        - concept
+        - animation
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - ipad
+        - android
+      tech:
+        - stylus-support
+    readme_tags:
+      - Manga
+      - Frame-by-Frame
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Procreate
+    url: https://procreate.com/
+    description: IPad painting app. Procreate Dreams for animation.
+    license: Paid
+    entry_type: software
+    best_for: Mobile illustration, storyboards
+    tags:
+      workflow:
+        - concept
+        - storyboard
+        - animation
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - ipad
+      tech:
+        - perpetual
+        - ipad-native
+        - stylus-support
+    readme_tags:
+      - iPad-native
+      - Storyboarding
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Aseprite
+    url: https://www.aseprite.org/
+    description: Pixel art editor with animation tools ([source on GitHub](https://github.com/aseprite/aseprite)).
+    license: Open Source
+    entry_type: software
+    best_for: Pixel art, sprite animation, game assets
+    tags:
+      workflow:
+        - concept
+        - animation
+      output:
+        - games
+        - illustration
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Pixel Art
+      - Sprite Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Toon Boom Harmony
+    url: https://www.toonboom.com/products/harmony
+    description: Professional 2D animation (studio standard).
+    license: Paid
+    entry_type: software
+    best_for: TV animation, feature film
+    tags:
+      workflow:
+        - animation
+      output:
+        - broadcast
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Studio Standard
+      - TV Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Toon Boom Storyboard Pro
+    url: https://www.toonboom.com/products/storyboard-pro
+    description: Industry-standard storyboarding software.
+    license: Paid
+    entry_type: software
+    best_for: Pre-production, animatics
+    tags:
+      workflow:
+        - storyboard
+      output:
+        - film-vfx
+        - broadcast
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Storyboarding
+      - Animatics
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Pixel Composer (itch.io)
+    url: https://makham.itch.io/pixel-composer
+    description: Node-based 2D VFX and compositing for pixel art.
+    license: Paid
+    entry_type: software
+    best_for: Pixel art effects, game VFX
+    tags:
+      workflow:
+        - fx
+        - compositing
+      output:
+        - games
+        - motion-graphics
+      platform:
+        - win
+      tech:
+        - node-based
+    readme_tags:
+      - Node-based
+      - Pixel VFX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: OpenToonz
+    url: https://opentoonz.github.io/e/
+    description: Studio Ghibli's animation engine, open-sourced.
+    license: Open Source
+    entry_type: software
+    best_for: Traditional 2D animation
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - broadcast
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Ghibli Pipeline
+      - Traditional 2D
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Pencil2D
+    url: https://www.pencil2d.org/
+    description: Free lightweight 2D animation.
+    license: Open Source
+    entry_type: software
+    best_for: Simple hand-drawn animation
+    tags:
+      workflow:
+        - animation
+      output:
+        - illustration
+        - generalist
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Lightweight
+      - Hand-drawn
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Synfig Studio
+    url: https://www.synfig.org/
+    description: Free open-source 2D vector animation.
+    license: Open Source
+    entry_type: software
+    best_for: Cutout/bone animation
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - generalist
+        - broadcast
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Vector
+      - Cutout
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Rive
+    url: https://rive.app/
+    description: Interactive animation for apps and web.
+    license: Freemium
+    entry_type: software
+    best_for: UI animation, interactive graphics
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - motion-graphics
+        - xr
+      platform:
+        - web
+        - mac
+        - win
+      tech:
+        - real-time
+        - collaborative
+    readme_tags:
+      - Interactive
+      - UI Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Autograph
+    url: https://www.maxon.net/en/autograph
+    description: USD-based motion graphics, compositing, and VFX (After Effects alternative). Free for individuals incl. commercial use. Originally Left Angle, now Maxon.
+    license: Free
+    entry_type: software
+    best_for: 2D/3D motion design and compositing
+    tags:
+      workflow:
+        - animation
+        - compositing
+        - fx
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - usd
+        - node-based
+    readme_tags:
+      - USD
+      - Free Commercial
+    url_last_verified: '2026-04-20'
+    url_status: ok
+  - name: Cavalry
+    url: https://cavalry.scenegroup.co/
+    description: Procedural 2D motion design (After Effects alternative). Free tier available.
+    license: Freemium
+    entry_type: software
+    best_for: Data-driven motion graphics
+    tags:
+      workflow:
+        - animation
+        - fx
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - procedural
+        - node-based
+    readme_tags:
+      - Procedural
+      - Data-Driven
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Spine (Esoteric Software)
+    url: https://esotericsoftware.com/
+    description: 2D skeletal animation w/ mesh deformation, IK, skins/attachments. Runtimes for Unity/Unreal/Godot/web. Used on Cult of the Lamb, Return to Monkey Island, Tinykin.
+    license: Paid
+    entry_type: software
+    best_for: Skeletal 2D animation for games
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Skeletal
+      - Game Runtimes
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Krita Resources
+    url: https://krita.org/en/resources/
+    description: Official brushes, textures, templates.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Clip Studio Assets
+    url: https://assets.clip-studio.com/en-us/
+    description: Brushes, materials, 3D models, auto-actions.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Procreate Handbook
+    url: https://procreate.com/handbook
+    description: Official guide and brush library.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Toon Boom Learn
+    url: https://www.toonboom.com/community/learn
+    description: Official tutorials and documentation.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Aseprite Docs
+    url: https://www.aseprite.org/docs/
+    description: Official documentation and scripting API.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: OpenToonz GitHub
+    url: https://github.com/opentoonz/opentoonz
+    description: Source, plugins, and documentation.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - opensource-alt
+  - name: Tahoma2D
+    url: https://tahoma2d.org/
+    description: 2D and stop-motion animation (OpenToonz fork w/ modernized UI and features).
+    entry_type: software
+    best_for: 2D / stop motion
+    tags:
+      workflow:
+        - animation
+      output:
+        - broadcast
+        - illustration
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - OpenToonz Fork
+      - Stop Motion
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: DragonBones
+    url: http://dragonbones.effecthub.com
+    description: Open source 2D skeletal animation — Flash-origin workflow, runtimes for multiple engines.
+    entry_type: software
+    best_for: 2D skeletal animation (OSS)
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+        - motion-graphics
+    readme_tags:
+      - Open Source
+      - 2D Skeletal
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Spriter Pro
+    url: https://brashmonkey.com/download-spriter-pro/
+    description: Modern tool for sprite animation (2D bone rigging).
+    entry_type: software
+    best_for: 2D sprite animation
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Sprite Animation
+      - Paid
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: GraphicsGale
+    url: https://graphicsgale.com/us/
+    description: Pixel art and sprite animation tool (free).
+    entry_type: software
+    best_for: Pixel art/sprite animation
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+        - motion-graphics
+      platform:
+        - win
+    readme_tags:
+      - Pixel Art
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Moho (Smith Micro)
+    url: https://moho.lostmarble.com/
+    description: 2D vector and bone-rigged animation.
+    license: Paid
+    entry_type: software
+    best_for: Character animation, motion graphics
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - broadcast
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Bone Rigging
+      - Vector Animation
+  - name: Friction
+    url: https://friction.graphics/
+    description: Free open-source motion graphics and 2D vector animation. After Effects-style workflow.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source motion graphics
+    tags:
+      workflow:
+        - animation
+        - fx
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - AE-alt
+    url_last_verified: '2026-04-28'
+    url_status: ok
+  - name: REXPaint
+    url: https://www.gridsagegames.com/rexpaint/
+    description: Free ASCII art editor with layers, animation, and palette tools. Built for roguelike and terminal art.
+    license: Free
+    entry_type: software
+    best_for: ASCII art, roguelike mockups
+    tags:
+      workflow:
+        - concept
+      output:
+        - games
+        - illustration
+      platform:
+        - win
+    readme_tags:
+      - ASCII Art
+      - Roguelike
+    url_last_verified: '2026-04-28'
+    url_status: ok

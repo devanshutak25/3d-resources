@@ -1,0 +1,227 @@
+entries:
+  - name: Autodesk Flow Studio (Wonder Dynamics)
+    url: https://www.autodesk.com/products/flow-studio/overview
+    description: AI VFX, auto CG characters in live footage, USD export.
+    license: Paid
+    entry_type: software
+    best_for: AI CG characters in live plates
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - usd
+    readme_tags:
+      - Auto CG Chars
+      - USD Export
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: ControlNet
+    url: https://stable-diffusion-art.com/controlnet/
+    description: Depth/pose/edge control for precision CG workflows.
+    license: Open Source
+    entry_type: tool
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Depth/Pose Control
+      - Precision
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Topaz Photo AI / Video AI
+    url: https://www.topazlabs.com/
+    description: Best-in-class upscaling, denoising, sharpening.
+    license: Paid
+    entry_type: software
+    best_for: Upscale/denoise
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Upscale
+      - Denoise
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Magnific AI
+    url: https://magnific.ai/
+    description: AI upscaler with "creativity" slider — reimagines/adds detail (2-16x).
+    license: Paid
+    entry_type: software
+    best_for: Creative AI upscaling
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Creative Upscale
+      - 2-16x
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Dream Textures (Blender)
+    url: https://github.com/carson-katri/dream-textures
+    description: Generate textures in Blender via Stable Diffusion, locally.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Blender Addon
+      - Local SD
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Comfy UI Blender AI
+    url: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
+    description: Run ComfyUI workflows inside Blender.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      tech:
+        - blender-addon
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - ComfyUI in Blender
+      - Addon
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Blockade Labs Skybox AI
+    url: https://www.blockadelabs.com/
+    description: AI-generated 360° skyboxes/HDRIs from text.
+    license: Freemium
+    entry_type: software
+    best_for: AI skyboxes/HDRIs
+    tags:
+      workflow:
+        - lighting
+      tech:
+        - ai-generative
+    readme_tags:
+      - AI Skybox
+      - 360°
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Unity Muse
+    url: https://unity.com/products/muse
+    description: Unity's suite of AI products
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: Coplay
+    url: https://coplay.dev
+    description: AI Copilot for Unity
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: Terrain Rendering Using GPU-Based Geometry Clipmaps
+    url: https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter02.html
+    description: GPU Gems 2 - Chapter 02.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: Fast Terrain Rendering Using Geometrical MipMapping
+    url: https://www.flipcode.com/archives/article_geomipmaps.pdf
+    description: Fast Terrain Rendering Using Geometrical MipMapping.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: gameplay
+    url: http://gameplay3d.io/
+    description: A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: TerraForge3D
+    url: https://jaysmito101.github.io/TerraForge3D/
+    description: A procedural terrain generation and procedural modeling toolkit.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: PixiJS
+    url: http://www.pixijs.com/
+    description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: Ray Tracey's blog
+    url: http://raytracey.blogspot.com/
+    description: Sam Lapere's blog, leads the scientific team at EPFL Blue Brain Project. Lots of post about real time rendering
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: ShoeBox
+    url: http://renderhjs.net/shoebox/
+    description: Adobe Air based app with game and ui related tools.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: Rosebud AI
+    url: https://rosebud.ai
+    description: Vibe coding platform for creating 3D games and interactive web apps with AI.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: RIFE for Nuke
+    url: https://github.com/rafaelperez/RIFE-for-Nuke
+    description: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (ie machine learning for framerate upscaling) for Nuke.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+  - name: AI Game Developer
+    url: https://github.com/IvanMurzak/Unity-MCP
+    description: '`Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.'
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+  - name: GPT 4
+    url: https://www.promptingguide.ai/models/gpt-4
+    description: Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative

@@ -1,0 +1,108 @@
+entries:
+  - name: Instant Meshes
+    url: https://github.com/wjakob/instant-meshes
+    description: Free, open-source auto-retopology.
+    license: Open Source
+    entry_type: software
+    best_for: Auto-retopology
+    tags:
+      workflow:
+        - retopo
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Free
+      - Auto Retopo
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: RetopoFlow
+    url: https://blendermarket.com/products/retopoflow
+    description: Blender addon for manual retopology.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - retopo
+      tech:
+        - blender-addon
+    readme_tags:
+      - Blender
+      - Manual Retopo
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Topogun
+    url: https://www.topogun.com/
+    description: Standalone retopology and baking.
+    license: Paid
+    entry_type: software
+    best_for: Retopo + baking
+    tags:
+      workflow:
+        - retopo
+        - texturing
+    readme_tags:
+      - Retopo + Bake
+      - Classic
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Topology Guides
+    url: http://topologyguides.com/
+    description: Topology reference.
+    entry_type: reference
+    readme_tags:
+      - Topology
+      - Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - retopo
+  - name: SpeedRetopo
+    url: https://gumroad.com/l/speedretopo
+    description: Free add-on for Blender to make fast and easy retopology using Bsurface.
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - retopo
+  - name: Retopo MT
+    url: https://gumroad.com/l/cNGNb
+    description: Tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - retopo
+  - name: Instant Meshes Remesh
+    url: https://blenderartists.org/t/instant-meshes-remesh/1114982
+    description: A suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
+    entry_type: software
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - retopo
+  - name: Danny Mac 3D
+    url: https://www.youtube.com/@DannyMac3d
+    description: Character modeling, posing, rigging, retopology, sculpting.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - retopo
+      platform:
+        - web
+  - name: AutoRemesher
+    url: https://github.com/huxingyi/autoremesher
+    description: Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - retopo
+      tech:
+        - opensource-alt

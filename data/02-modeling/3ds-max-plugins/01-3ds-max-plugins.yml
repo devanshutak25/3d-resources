@@ -1,0 +1,14 @@
+entries:
+  - name: TyFlow
+    url: https://docs.tyflow.com/download/
+    description: Advanced particle/dynamics system — destruction, cloth, fluids.
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+    readme_tags:
+      - Particles/Dynamics
+      - 3ds Max
+    url_last_verified: '2026-04-19'
+    url_status: ok

@@ -1,0 +1,45 @@
+entries:
+  - name: Womp3D
+    url: https://www.womp.com/
+    description: Playful browser-based 3D modeler for product design.
+    pricing: Free tier, Pro $12.99/mo
+    license: Freemium
+    entry_type: software
+    best_for: Product design, 3D printing
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Browser
+      - Product Design
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Vectary
+    url: https://www.vectary.com/
+    description: Browser-based 3D for e-commerce and product visualization.
+    pricing: Pro AI $15/mo (annual)
+    license: Freemium
+    entry_type: software
+    best_for: Product viz, e-commerce
+    tags:
+      workflow:
+        - modeling
+        - rendering
+      output:
+        - product-viz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Browser
+      - E-commerce
+    url_last_verified: '2026-04-19'
+    url_status: ok

@@ -1,0 +1,72 @@
+entries:
+  - name: 10 Tips for Better Lighting
+    url: https://helloluxx.com/tutorial/10-tips-for-better-lighting/
+    description: Helloluxx lighting tips.
+    entry_type: tutorial
+    readme_tags:
+      - 10 Tips
+      - helloluxx
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+      skill:
+        - beginner
+  - name: The Digital Revolution
+    url: https://www.youtube.com/@TheDigitalRevolutionTV
+    description: Beginner C4D lighting.
+    entry_type: channel
+    tags:
+      skill:
+        - beginner
+      workflow:
+        - lighting
+      platform:
+        - web
+    readme_tags:
+      - Beginner
+      - C4D
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Get Better Lighting in C4D
+    url: https://www.youtube.com/@lukasthorup
+    description: Improve C4D lighting.
+    entry_type: channel
+    readme_tags:
+      - C4D
+      - Lighting
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+      skill:
+        - beginner
+      platform:
+        - web
+  - name: School of Motion Lighting Blog
+    url: https://www.schoolofmotion.com/blog/
+    description: Shadows, volumetrics, HDRI, and area light techniques.
+    entry_type: reference
+    readme_tags:
+      - Techniques
+      - Blog
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+      skill:
+        - beginner
+  - name: Creative Shrimp
+    url: https://www.creativeshrimp.com/
+    description: High quality CG tutorials and Blender tutorials, digital art and lighting tutorials with Gleb and Aidy.
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+      skill:
+        - beginner

@@ -1,0 +1,363 @@
+entries:
+  - name: Toros Kose (Behance)
+    url: https://www.behance.net/toroskose
+    description: 3D artist portfolio.
+    entry_type: inspiration
+    readme_tags:
+      - Behance
+      - 3D Artist
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: NeilBlevins
+    url: http://www.neilblevins.com/
+    description: CG art and tutorials.
+    entry_type: channel
+    readme_tags:
+      - Pixar Artist
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+    dual_listed_in:
+      - art-design-visual-storytelling
+  - name: Strange Attractors
+    url: http://www.3d-meier.de/
+    description: Mathematical 3D forms.
+    entry_type: inspiration
+    readme_tags:
+      - Math 3D
+      - Forms
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: autodestruct.com
+    url: http://www.autodestruct.com/
+    description: Concept art.
+    entry_type: inspiration
+    readme_tags:
+      - Concept Art
+      - Portfolio
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Disney Research
+    url: https://www.disneyresearch.com/
+    description: Research publications.
+    entry_type: reference
+    readme_tags:
+      - Research
+      - Disney
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Linkage Mechanisms
+    url: http://blog.rectorsquid.com/sample-linkage-mechanisms-2/
+    description: Mechanical animations.
+    entry_type: reference
+    readme_tags:
+      - Mechanics
+      - Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Level Sets in Production (Sony)
+    url: https://www.imageworks.com/sites/default/files/2023-10/levelsets-in-production-spider-man3.pdf
+    description: Spider-Man 3 VFX paper.
+    entry_type: reference
+    readme_tags:
+      - Paper
+      - VFX Production
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: cifraworld (Instagram)
+    url: https://www.instagram.com/cifraworld/
+    description: 3D motion art.
+    entry_type: inspiration
+    readme_tags:
+      - Instagram
+      - Motion Art
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Ben Watts (Vimeo)
+    url: https://vimeo.com/bwdesign
+    description: Motion design.
+    entry_type: inspiration
+    readme_tags:
+      - Vimeo
+      - Motion Design
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Nick Taylor (MVSM)
+    url: http://nicholas-taylor.com/
+    description: Project breakdowns.
+    entry_type: channel
+    readme_tags:
+      - Breakdowns
+      - ManVsMachine
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Cornelius Dammrich
+    url: https://corneliusdammrich.gumroad.com
+    description: Sci-fi environments.
+    entry_type: inspiration
+    readme_tags:
+      - Sci-Fi Env
+      - Gumroad
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: FX References
+    url: https://ref-fx.com/
+    description: Visual effects reference library.
+    entry_type: reference
+    readme_tags:
+      - VFX
+      - Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Before & Afters
+    url: https://beforesandafters.com/
+    description: VFX breakdowns and behind-the-scenes.
+    entry_type: reference
+    readme_tags:
+      - VFX Breakdowns
+      - BTS
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: HUDs and GUIs
+    url: https://www.hudsandguis.com/
+    description: FUI/screen graphics reference for sci-fi 3D work.
+    entry_type: reference
+    readme_tags:
+      - FUI
+      - Screen Graphics
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Character Design References
+    url: https://characterdesignreferences.com/
+    description: Shape language and character design studies.
+    entry_type: reference
+    readme_tags:
+      - Character Design
+      - Shape Language
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: GPT-3 Demo
+    url: https://gpt3demo.com/
+    description: Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
+    entry_type: inspiration
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Sean Browning - Pixel Art Animation Reel 2018
+    url: https://vimeo.com/250991452
+    description: A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
+    entry_type: inspiration
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: The Pixel Factory
+    url: http://acko.net/files/gltalks/pixelfactory/online.html
+    description: Talk about WebGL, GPUs and Math by Steven Wittens.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 3D Maths Cheat Sheet
+    url: http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf
+    description: Math cheatsheet by Anton Gerdelan, from his OpenGL book.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Writing a small software renderer
+    url: http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html
+    description: Really good introduction to how basic software rendering works.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Quartz Composer
+    url: https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html
+    description: '[Mac] - Development tool for processing and rendering graphical data.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 'Gene Kogan: Perlin Noise'
+    url: http://genekogan.com/code/p5js-perlin-noise/
+    description: Introduction to 2D and 3D perlin noise.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Maths & trigonometry cheat sheet for 2D & 3D games
+    url: https://gist.github.com/xem/99930986c5333125a13b0ea50600391f
+    description: Maths cheat-sheet for 2D and 3D game-makers.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Leaf Pic
+    url: https://github.com/HoraApps/LeafPic/
+    description: Material-designed android gallery alternative.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Graphics Programming Projects
+    url: https://graphicscodex.com/projects/projects/index.html
+    description: Book about 3D computational graphics by Morgan McGuire.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Introduction to Ray Tracing
+    url: http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
+    description: A simple method for creating 3D images.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Foundation HTML5 Animation with JavaScript
+    url: https://link.springer.com/book/10.1007/978-1-4302-3666-5
+    description: Everything you need to know to create animation using the HTML5 canvas.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Physics for JavaScript Games, Animation, and Simulations
+    url: https://link.springer.com/book/10.1007/978-1-4302-6338-8
+    description: Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: NAP
+    url: https://nap-framework.tech/
+    description: '[Cross-platform] - Open source data-driven real-time control & visualization platform suited for professional installations in C++, incl. Vulkan renderer.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Three.js Basics
+    url: https://www.realtimerendering.com/basics3js/#1
+    description: Introduction to Three.js by Eric Haines.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: shoebot
+    url: https://shoebot.github.io/
+    description: '[Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Smode
+    url: https://smode.fr/
+    description: '[Win] - A real-time 2D/3D creation, compositing and video-mapping engine.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Structure Synth
+    url: http://structuresynth.sourceforge.net/
+    description: '[Cross-platform] - Application for generating 3D structures by specifying a design grammar.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Mathematics of Animation
+    url: https://winkervsbecks.github.io/mathematics-of-animation/#/
+    description: Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Zdog
+    url: https://zzz.dog/
+    description: A pseudo-3D engine for canvas & SVG.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

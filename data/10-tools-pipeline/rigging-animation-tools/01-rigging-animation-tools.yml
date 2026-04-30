@@ -1,0 +1,82 @@
+entries:
+  - name: Auto-Rig Pro (Blender)
+    url: https://blendermarket.com/products/auto-rig-pro
+    description: Automatic rigging and retargeting.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+        - animation
+      tech:
+        - blender-addon
+    readme_tags:
+      - Auto-Rig
+      - Retargeting
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: APEX (Houdini)
+    url: https://www.sidefx.com/
+    description: SideFX's procedural node-based rigging framework.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+        - animation
+      tech:
+        - node-based
+        - procedural
+    readme_tags:
+      - Procedural Rig
+      - Houdini
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: EasyMocap
+    url: https://github.com/zju3dv/EasyMocap?tab=readme-ov-file
+    description: Open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rigging
+        - animation
+      tech:
+        - opensource-alt
+  - name: trigger
+    url: https://github.com/masqu3rad3/trigger
+    description: Operational code-driven rigging tool for Autodesk Maya.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rigging
+        - animation
+      tech:
+        - opensource-alt
+  - name: CvWrap
+    url: https://github.com/chadmv/cvwrap
+    description: Fast Maya wrap deformer.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rigging
+        - animation
+      tech:
+        - opensource-alt
+  - name: Onion Skin Renderer
+    url: https://github.com/Viele/onionSkinRenderer
+    description: Onion Skin Renderer for Maya
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - rigging
+        - animation
+      tech:
+        - opensource-alt

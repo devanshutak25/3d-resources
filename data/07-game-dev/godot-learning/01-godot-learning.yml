@@ -1,0 +1,126 @@
+entries:
+  - name: GDQuest
+    url: https://www.gdquest.com/
+    description: Premium courses plus free YouTube tutorials.
+    license: Freemium
+    entry_type: tutorial
+    readme_tags:
+      - Courses
+      - YouTube
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Brackeys (Godot)
+    url: https://www.youtube.com/@Brackeys
+    description: Returned in 2024 with Godot content.
+    entry_type: channel
+    readme_tags:
+      - Returned 2024
+      - Godot Focus
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: HeartBeast
+    url: https://www.youtube.com/@uloops
+    description: RPG and action game tutorials.
+    entry_type: channel
+    readme_tags:
+      - RPG/Action
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: KidsCanCode Godot Recipes
+    url: https://kidscancode.org/godot_recipes/4.x/
+    description: Clear beginner-friendly guides.
+    entry_type: reference
+    tags:
+      skill:
+        - beginner
+      output:
+        - games
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Beginner
+      - Recipes
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: GDScript.com
+    url: https://gdscript.com/
+    description: Interactive GDScript learning.
+    entry_type: tutorial
+    readme_tags:
+      - Interactive
+      - GDScript
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Miziziziz
+    url: https://www.youtube.com/@Miziziziz
+    description: Tutorials and game dev challenges.
+    entry_type: channel
+    readme_tags:
+      - Challenges
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: DevDuck
+    url: https://www.youtube.com/@DevDuck
+    description: Dev logs and tutorials.
+    entry_type: channel
+    readme_tags:
+      - Devlogs
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: The Shaggy Dev
+    url: https://www.youtube.com/@TheShaggyDev
+    description: Godot-focused tutorials.
+    entry_type: channel
+    readme_tags:
+      - Godot Focus
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+      platform:
+        - web

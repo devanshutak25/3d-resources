@@ -1,0 +1,549 @@
+entries:
+  - name: 'CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations'
+    url: https://arxiv.org/abs/2208.10555
+    description: 3DV 2022 | [[project](https://cvi2.uni.lu/cc3d-ops/)] |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'PVDeconv: Point-voxel deconvolution for autoencoding cad construction in 3D'
+    url: https://arxiv.org/abs/2101.04493
+    description: ICIP 2020 | [[project](https://cvi2.uni.lu/cc3d-dataset/)] |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs'
+    url: https://arxiv.org/abs/2308.05744
+    description: ICCV 2023 | [[project](https://manycore-research.github.io/PlankAssembly/)] [[code](https://github.com/manycore-research/PlankAssembly/)] |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Reconstructing Editable Prismatic CAD from Rounded Voxel Models
+    url: https://arxiv.org/abs/2209.01161
+    description: SIGGRAPH Asia 2022 | |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders'
+    url: https://arxiv.org/abs/2112.09329
+    description: CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)] |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds'
+    url: https://arxiv.org/abs/2103.02766
+    description: ICLR 2021 | [[code](https://github.com/YujiaLiu76/PC2WF)] |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds'
+    url: https://arxiv.org/abs/2003.12181
+    description: ECCV 2020 | [[project](https://hippogriff.github.io/parsenet/)] [[code](https://github.com/Hippogriff/parsenet-codebase)] |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Supervised Fitting of Geometric Primitives to 3D Point Clouds
+    url: https://arxiv.org/abs/1811.08988
+    description: CVPR 2019 | [[code](https://github.com/lingxiaoli94/SPFN)] |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'DeepCAD: A Deep Generative Network for Computer-Aided Design Models'
+    url: https://arxiv.org/abs/2105.09492
+    description: ICCV 2021 | [[project](http://www.cs.columbia.edu/cg/deepcad/)] [[code](https://github.com/ChrisWu1997/DeepCAD)] |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'PolyGen: An Autoregressive Generative Model of 3D Meshes'
+    url: https://arxiv.org/abs/2002.10880
+    description: ICML 2020 | [[code](https://github.com/deepmind/deepmind-research/blob/master/polygen/)] |
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Gemini Robotics 1.5
+    url: https://arxiv.org/abs/2510.03342
+    description: Embodied reasoning, thinking, and motion transfer.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: IEEE Transactions on Neural Networks and Learning Systems
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+    description: Publishes technical articles on the theory, design, and applications of neural networks and related learning systems.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+  - name: 'BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields'
+    url: https://arxiv.org/abs/2306.03000
+    description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023 | [bibtex](citations/BeyondPixels.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Mixture of Volumetric Primitives for Efficient Neural Rendering
+    url: https://arxiv.org/abs/2103.01954
+    description: Lombardi et al., SIGGRAPH 2021 | [bibtex](./citations/mixture.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction'
+    url: https://arxiv.org/abs/2111.11215.pdf
+    description: Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO) | [bibtex](./citations/DirectVoxGO.txt) <!---sun2021direct-->
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Streaming Radiance Fields for 3D Video Synthesis
+    url: https://arxiv.org/abs/2210.14831
+    description: Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF) | [bibtex](./citations/StreamRF.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction'
+    url: https://arxiv.org/abs/2106.10689
+    description: Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS) | [bibtex](./citations/neus.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Volume Rendering of Neural Implicit Surfaces
+    url: https://arxiv.org/abs/2106.12052
+    description: Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon) | [bibtex](./citations/volsdf.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: 'PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm'
+    url: https://arxiv.org/abs/2310.08586
+    description: Zhu et al., Arxiv 2023 | [github](https://github.com/OpenGVLab/PonderV2) | [bibtex](./citations/ponderv2.txt)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2210.15663
+    url: https://arxiv.org/pdf/2210.15663.pdf
+    description: '[🌐 Project Page](https://github.com/justimyhxu/awesome-3D-generation/)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2209.14988
+    url: https://arxiv.org/abs/2209.14988
+    description: '[🌐 Project Page](https://dreamfusion3d.github.io) | [💻 Code](https://github.com/ashawkey/stable-dreamfusion)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2211.10440
+    url: https://arxiv.org/pdf/2211.10440.pdf
+    description: '[🌐 Project Page](https://research.nvidia.com/labs/dir/magic3d)  | [💻 Code][Coming soon.]'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2212.14704
+    url: https://arxiv.org/pdf/2212.14704.pdf
+    description: '[🌐 Project Page](https://bluestyle97.github.io/dream3d/) | [💻 Code][Coming soon.]'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2311.16918
+    url: https://arxiv.org/abs/2311.16918
+    description: '[🌐 Project Page](https://aigc3d.github.io/richdreamer/) | [💻 Code](https://github.com/modelscope/richdreamer)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2401.00909
+    url: https://arxiv.org/abs/2401.00909
+    description: '[🌐 Project Page](https://vita-group.github.io/3D-Mode-Collapse/) | [💻 Code](https://github.com/VITA-Group/3D-Mode-Collapse)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2309.16653
+    url: https://arxiv.org/abs/2309.16653
+    description: '[🌐 Project Page](https://dreamgaussian.github.io/) | [💻 Code](https://github.com/dreamgaussian/dreamgaussian)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2312.09147
+    url: https://arxiv.org/abs/2312.09147
+    description: '[🌐 Project Page](https://zouzx.github.io/TriplaneGaussian/)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2311.09217
+    url: https://arxiv.org/abs/2311.09217
+    description: '[🌐 Project Page](https://justimyhxu.github.io/projects/dmv3d/)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2311.08403
+    url: https://arxiv.org/pdf/2311.08403.pdf
+    description: '[🌐 Project Page](https://ming1993li.github.io/Instant3DProj/) | [💻 Code](https://github.com/ming1993li/Instant3DCodes)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2310.11784
+    url: https://arxiv.org/pdf/2310.11784.pdf
+    description: '[🌐 Project Page](https://cxh0519.github.io/projects/Progressive3D/) | [💻 Code](https://github.com/cxh0519/Progressive3D)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2309.17175
+    url: https://arxiv.org/abs/2309.17175
+    description: '[🌐 Project Page](https://tyhuang0428.github.io/textfield3d.html)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2402.07207
+    url: https://arxiv.org/abs/2402.07207
+    description: '[🌐 Project Page](https://gala3d.github.io) | [💻 Code](https://github.com/VDIGPKU/GALA3D)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2310.15110
+    url: https://arxiv.org/abs/2310.15110
+    description: '[🌐 Project Page](https://zero123.cs.columbia.edu/) | [💻 Code](https://github.com/SUDO-AI-3D/zero123plus) | [🤗 Hugging Face](https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2311.07885
+    url: https://arxiv.org/pdf/2311.07885.pdf
+    description: '[🌐 Project Page](https://sudo-ai-3d.github.io/One2345plus_page/) | [💻 Code](https://github.com/SUDO-AI-3D/One2345plus)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2310.15008
+    url: https://arxiv.org/pdf/2310.15008.pdf
+    description: '[🌐 Project Page](https://www.xxlong.site/Wonder3D/) | [💻 Code](https://github.com/xxlong0/Wonder3D)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2310.16818
+    url: https://arxiv.org/abs/2310.16818
+    description: '[🌐 Project Page](https://mrtornado24.github.io/DreamCraft3D/) | [💻 Code](https://github.com/deepseek-ai/DreamCraft3D)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2310.10644
+    url: https://arxiv.org/abs/2310.10644
+    description: '[🌐 Project Page](https://toss3d.github.io/)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2303.14184
+    url: https://arxiv.org/pdf/2303.14184.pdf
+    description: '[🌐 Project Page](https://make-it-3d.github.io) | [💻 Code](https://github.com/junshutang/Make-It-3D)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2402.10259
+    url: https://arxiv.org/abs/2402.10259
+    description: '[🌐 Project Page](https://gaussianobject.github.io) | [💻 Code](https://github.com/GaussianObject/GaussianObject)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2205.15517
+    url: https://arxiv.org/abs/2205.15517
+    description: '[🌐 Project Page](https://mrtornado24.github.io/IDE-3D/) | [💻 Code](https://github.com/MrTornado24/IDE-3D)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2401.01702
+    url: https://arxiv.org/abs/2401.01702
+    description: '[🌐 Project Page](https://image-sculpting.github.io/) | [💻 Code](https://github.com/vision-x-nyu/image-sculpting)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2312.08889
+    url: https://arxiv.org/pdf/2312.08889.pdf
+    description: '[🌐 Project Page](https://seeavatar3d.github.io/)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2401.01173
+    url: http://arxiv.org/abs/2401.01173
+    description: '[🌐 Project Page](https://menyifang.github.io/projects/En3D/index.html) | [💻 Code](https://github.com/menyifang/En3D)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2312.15430
+    url: https://arxiv.org/pdf/2312.15430.pdf
+    description: '[🌐 Project Page](https://human3daigc.github.io/MACH/) | [💻 Code](https://github.com/Human3DAIGC/Make-A-Character)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2312.02069
+    url: http://arxiv.org/abs/2312.02069
+    description: '[🌐 Project Page](https://shenhanqian.github.io/gaussian-avatars)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2305.12529
+    url: https://arxiv.org/abs/2305.12529
+    description: '[🌐 Project Page](https://dreamwaltz3d.github.io/) | [💻 Code](https://github.com/IDEA-Research/DreamWaltz)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2401.12900
+    url: https://arxiv.org/abs/2401.12900
+    description: '[💻 Code](https://github.com/pcl3dv/PSAvatar)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2402.03723
+    url: https://arxiv.org/abs/2402.03723
+    description: '[🌐 Project Page](http://shahrukhathar.github.io/2024/02/05/Rig3DGS.html)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2401.01339
+    url: https://arxiv.org/abs/2401.01339
+    description: '[🌐 Project Page](https://zju3dv.github.io/street_gaussians/) | [💻 Code](https://github.com/zju3dv/street_gaussians)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Arxiv Paper 2312.07485
+    url: https://arxiv.org/abs/2312.07485
+    description: '[🌐 Project Page](https://jianxgao.github.io/MinD-3D/) | [💻 Code](https://github.com/JianxGao/MinD-3D)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web

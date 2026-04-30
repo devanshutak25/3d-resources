@@ -1,0 +1,14 @@
+entries:
+  - name: Steam Playtest
+    url: https://partner.steamgames.com/doc/features/playtest
+    description: Free playtesting on Steam.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Playtest
+      - Steam
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games

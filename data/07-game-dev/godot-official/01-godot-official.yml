@@ -1,0 +1,60 @@
+entries:
+  - name: Godot Documentation
+    url: https://docs.godotengine.org/
+    description: Official docs — GDScript, C#, 2D/3D, shaders, physics, networking.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Official Docs
+      - Comprehensive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Godot Asset Library
+    url: https://godotengine.org/asset-library/asset
+    description: Official addon and plugin marketplace.
+    entry_type: marketplace
+    readme_tags:
+      - Official
+      - Addons
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Godot Shaders
+    url: https://godotshaders.com/
+    description: Community shader library with visual previews.
+    entry_type: asset-source
+    tags:
+      workflow:
+        - material-authoring
+      output:
+        - games
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Shaders
+      - Community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Godot Proposals
+    url: https://github.com/godotengine/godot-proposals
+    description: Feature request tracker and roadmap.
+    entry_type: reference
+    readme_tags:
+      - Roadmap
+      - Proposals
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt

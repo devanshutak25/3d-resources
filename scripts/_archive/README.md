@@ -18,3 +18,4 @@ Archived 2026-04-30 as part of plan.md Step 2.
 | `recategorize.js` | Reclassified unclassified alive candidates by source-file + keyword routing; rewrote `awesome-alive.json` for `add-candidates.js`. |
 | `restore-entries.js` | Re-added entries lost in a prior cleanup pass. |
 | `split-misc.js` | Split `10-tools-pipeline.yml :: misc-3d-utilities` by URL-based mapping into proper subsections. |
+| `migrate-to-chunks.js` | Step 3 one-shot migration: flat `data/NN-section.yml` → chunked `data/NN-section/<sub>/NN-<sub>.yml`. Cap 50 entries/chunk. Archived 2026-04-30. |

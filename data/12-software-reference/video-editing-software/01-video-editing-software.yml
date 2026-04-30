@@ -1,0 +1,167 @@
+entries:
+  - name: DaVinci Resolve
+    url: https://www.blackmagicdesign.com/products/davinciresolve/
+    description: Free professional editing, color grading, Fusion, Fairlight audio.
+    license: Freemium
+    entry_type: software
+    best_for: Color grading, editing, full post pipeline
+    tags:
+      workflow:
+        - editing
+        - color-grading
+        - compositing
+        - audio-design
+      output:
+        - film-vfx
+        - broadcast
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Free Pro
+      - Full Post Pipeline
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Premiere Pro
+    url: https://www.adobe.com/products/premiere.html
+    description: Industry-standard NLE from Adobe.
+    license: Paid
+    entry_type: software
+    best_for: Broadcast, film editing
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - subscription
+    readme_tags:
+      - Industry Standard
+      - Adobe Suite
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Final Cut Pro
+    url: https://www.apple.com/final-cut-pro/
+    description: Apple-native NLE with magnetic timeline.
+    license: Paid
+    entry_type: software
+    best_for: Mac-based editing
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+        - film-vfx
+      platform:
+        - mac
+      tech:
+        - perpetual
+    readme_tags:
+      - Mac-only
+      - Magnetic Timeline
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Kdenlive
+    url: https://kdenlive.org/
+    description: Free open-source NLE.
+    license: Open Source
+    entry_type: software
+    best_for: Linux/cross-platform editing
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Cross-Platform
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Shotcut
+    url: https://shotcut.org/
+    description: Free open-source video editor.
+    license: Open Source
+    entry_type: software
+    best_for: Quick edits, beginners
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Lightweight
+      - Beginner-Friendly
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: GoZen
+    url: https://gozen.voylin.com/
+    description: Free open-source video editor built with Godot (alpha).
+    license: Open Source
+    entry_type: software
+    best_for: Lightweight editing, Godot integration
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Godot-built
+      - Alpha
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: DaVinci Resolve Training
+    url: https://www.blackmagicdesign.com/products/davinciresolve/training
+    description: Official free training (hundreds of hours).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - editing
+  - name: Premiere Pro Learn
+    url: https://helpx.adobe.com/premiere-pro/tutorials.html
+    description: Official Adobe tutorials.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - editing
+  - name: OpenShot
+    url: https://github.com/OpenShot/openshot-qt
+    description: Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - editing
+      tech:
+        - opensource-alt

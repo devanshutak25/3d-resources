@@ -1,0 +1,28 @@
+entries:
+  - name: Geometry Nodes Pipes
+    url: https://raywakui.gumroad.com/l/pcxni
+    description: Addon for blender which helps generating complex pipe layouts.
+    entry_type: marketplace
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Auto Terrainer
+    url: https://unicornhunter.gumroad.com/l/AutoTerrainer
+    description: Automatic Blender Terrain Generator is a powerful and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
+    entry_type: marketplace
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Womrhole Content Browser
+    url: https://wormholetools.gumroad.com/l/whbrowser
+    description: The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
+    entry_type: marketplace
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

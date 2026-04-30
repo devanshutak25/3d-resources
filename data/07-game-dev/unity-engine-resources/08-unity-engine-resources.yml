@@ -1,0 +1,592 @@
+entries:
+  - name: Imgui Unity
+    url: https://github.com/ProgC/imgui_unity
+    description: Integration dear imgui to Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Procedural Flower
+    url: https://github.com/mattatz/unity-procedural-flower
+    description: Procedural flower generator for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Graphmesh
+    url: https://github.com/Siccity/Graphmesh
+    description: A graph-based solution for procedural mesh inside the Unity editor.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: ProceduralMesh
+    url: https://github.com/mortennobel/ProceduralMesh
+    description: Simple procedural mesh generation for the Unity game engine.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Ico Sphere Creator
+    url: https://github.com/kaiware007/IcoSphereCreator
+    description: Create Ico Sphere Mesh Tool for Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Shapes
+    url: https://github.com/olange/shapes
+    description: Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpicked colors.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity.ProceduralContentGeneration Terrain
+    url: https://github.com/ErikMoczi/Unity.ProceduralContentGeneration-Terrain
+    description: (#TERRAIN)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Procedural Level Generator Unity
+    url: https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity
+    description: Unity plugin from procedural dungeon generation.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: L Systems In Unity
+    url: https://github.com/pboechat/LSystemsInUnity
+    description: L-System is a rewriting system used mainly to model the development of plants. L-Systems in Unity enables you to rapidly create plants in your Unity games.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Terrain Tool Samples
+    url: https://github.com/Unity-Technologies/TerrainToolSamples
+    description: New Terrain Tools and Brush Assets for the Unity Terrain system. ![Official](UnityResource16x16.png)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity PSD Importer
+    url: https://github.com/ChemiKhazi/UnityPsdImporter
+    description: Advanced PSD importer for Unity3D. (#DEPRECATED)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Node Inspector
+    url: https://github.com/nicloay/Node-Inspector
+    description: Unity graph editor extension.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Reorderable Inspector
+    url: https://github.com/ChemiKhazi/ReorderableInspector
+    description: Automatic reorderable lists for Unity game engine components.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Chest Of Property Drawers
+    url: https://github.com/tenpn/ChestOfPropertyDrawers
+    description: A collection of small reusable Unity3D property drawers.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Reflected Inspector
+    url: https://github.com/ByronMayne/Reflected-Inspector
+    description: Reflected Inspector is a system for Unity that works very much like Serialized Properties but works with non-Unity types and can serialize the values.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Extensions.Inspect Inline
+    url: https://github.com/garettbass/UnityExtensions.InspectInline
+    description: Enables you to inspect and edit object references, and easily embed such objects as subassets.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity ColourLovers Importer
+    url: https://github.com/shelleylowe/unity-colourlovers-importer
+    description: Unity editor tool to load colours and palettes directly from COLOURlovers.com.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Render Queue
+    url: https://github.com/FreyaHolmer/Render-Queue
+    description: Render Queue Unity Extension.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Time Flow Shiki
+    url: https://github.com/sassembla/TimeFlowShiki
+    description: Unity Editor Timeline GUI skeleton.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Animator Timeline
+    url: https://github.com/absameen/Animator_Timeline
+    description: Timeline Editor for Unity. (#ANIMATION)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Timelord Blender
+    url: https://github.com/imxzjv/UnityTimelordBlender
+    description: Timelord is a demo for custom blending of Unity3D Timelines.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Timeline Conditions
+    url: https://github.com/imxzjv/UnityTimelineConditions
+    description: Experimental port of Animator conditions interface to Timeline events.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Tidy Up
+    url: https://github.com/Nutshell-Hack/Tidy-Up
+    description: Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity File Extension
+    url: https://github.com/pointcache/unity-file-extension
+    description: Shows file extension in 1 column project window.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Symlink Utility
+    url: https://github.com/karl-/unity-symlink-utility
+    description: A small extension that adds a menu item to add folders as symlinks in Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: BezierCanvas
+    url: https://github.com/setchi/BezierCanvas
+    description: Adobe Illustrator's pen tool style bezier editor on Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UnityTile3D
+    url: https://github.com/NoelFB/UnityTile3D
+    description: Simple 3D Tile Editor.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: HexTiles
+    url: https://github.com/RoryDungan/HexTiles
+    description: Unity Hex Tile Editor.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: In-Game Editor UI
+    url: https://github.com/Coac/ingame-editor-ui
+    description: Unity3D in-game UI, which shows at runtime a Hierarchy and an Inspector like the built-in Editor.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Visual Behavior Tree
+    url: https://github.com/MystikalPooka/Unity-Visual-Behavior-Tree
+    description: Reactive Visual Scripting Behavior Tree Tool for Unity 2018.x+.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Editor Texel Density
+    url: https://github.com/bandures/Unity-Editor-Texel-Density
+    description: Texel density editor for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: StyleBrowser
+    url: https://github.com/ByronMayne/StyleBrowser
+    description: A browser editor window to view all Unity built in styles.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Bona Data Editor
+    url: https://github.com/bonahona/BonaDataEditor
+    description: Unity plugin editor for easier manipulation of assets of certain types. (#ATTRIBUTES)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: IndoorAtlas
+    url: https://www.indooratlas.com/
+    description: Plugin for Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+  - name: iOS and tvOS
+    url: https://itunes.apple.com/us/app/unity-remote-4/id871767552
+    description: View playmode on final devices. See [more](https://docs.unity3d.com/Manual/UnityRemote5.html).
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+  - name: Raywenderlich.com Unity Cheatsheet
+    url: https://koenig-media.raywenderlich.com/uploads/2017/12/UnityCheatSheet.pdf
+    description: Cheatsheet with some common problems when developing with Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+  - name: Bolt
+    url: https://ludiq.io/bolt
+    description: 'Brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code. (:moneybag: with'
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+  - name: MonoDevelop
+    url: https://www.monodevelop.com/
+    description: MonoDevelop editor. Initially the default editor for Unity. Now is deprecated.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+  - name: Strange Io C
+    url: http://strangeioc.github.io/strangeioc/
+    description: Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+  - name: Good Coding Practices in Unity
+    url: https://trello.com/b/Z6cDRyis/good-coding-practices-in-unity
+    description: Trello board with good coding practices in Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+  - name: Visual Studio (Windows)
+    url: https://visualstudio.microsoft.com/es/
+    description: Official supported IDE for Unity in Windows platform. Mac version [here](https://visualstudio.microsoft.com/es/vs/mac/).
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+  - name: WakaTime
+    url: https://wakatime.com/
+    description: Plugin for Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+  - name: OpenEd
+    url: https://github.com/mrzapp/opened
+    description: Open source runtime editor for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Charon Unity3D
+    url: https://github.com/deniszykov/charon-unity3d
+    description: Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Web View Hook
+    url: https://github.com/willnode/WebViewHook
+    description: Exposed UnityEditor WebView API.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Mesh Counter
+    url: https://github.com/raimis001/unityMeshCounter
+    description: Shows counters for mesh data.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Editor Icons
+    url: https://github.com/halak/unity-editor-icons
+    description: 'Unity version: 2018.3.0f2 Icons what can load using EditorGUIUtility.IconContent.'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Editor Spotlight
+    url: https://github.com/marijnz/unity-editor-spotlight
+    description: MacOS-like Spotlight file search in Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Selection History Navigator
+    url: https://github.com/mminer/selection-history-navigator
+    description: Unity editor extension to navigate between object selections.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Extensions.Selection History
+    url: https://github.com/garettbass/UnityExtensions.SelectionHistory
+    description: 'Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt

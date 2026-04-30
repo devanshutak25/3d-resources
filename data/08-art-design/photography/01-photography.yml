@@ -1,0 +1,129 @@
+entries:
+  - name: Cambridge in Colour
+    url: http://www.cambridgeincolour.com/tutorials.htm
+    description: Comprehensive photography tutorials.
+    entry_type: reference
+    readme_tags:
+      - Fundamentals
+      - Deep Dives
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Strobist Lighting 101
+    url: https://strobist.blogspot.com/2006/03/lighting-101.html
+    description: Definitive free course on shaping light (directly applicable to 3D lighting).
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Lighting 101
+      - Classic
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Workphlo
+    url: https://www.youtube.com/@workphlo
+    description: Studio product photography lighting breakdowns with placement diagrams.
+    entry_type: channel
+    tags:
+      output:
+        - product-viz
+      workflow:
+        - reference
+      platform:
+        - web
+    readme_tags:
+      - Studio
+      - Placement Diagrams
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Fstoppers Education
+    url: https://fstoppers.com/education
+    description: Studio lighting, portrait ratios, product photography.
+    entry_type: reference
+    readme_tags:
+      - Studio Lighting
+      - Ratios
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: B&H Explora Photography
+    url: https://www.bhphotovideo.com/explora/photography
+    description: Deep technical articles on lighting modifiers and color temperature.
+    entry_type: reference
+    readme_tags:
+      - Technical
+      - Modifiers
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Gavin Hoey (Adorama)
+    url: https://www.youtube.com/@GavinHoey
+    description: Studio lighting tutorials with setup diagrams.
+    entry_type: channel
+    readme_tags:
+      - Studio Diagrams
+      - Adorama
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+  - name: PIXLS.US
+    url: https://pixls.us
+    description: Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Open Source Photography Community on Google+
+    url: https://plus.google.com/u/0/communities/110647644928874455108
+    description: Open Source Photography Community on Google+.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: /r/FOSSPhotography
+    url: http://reddit.com/r/fossphotography
+    description: Community about Free open source software for Photography on reddit.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: ButtleOFX
+    url: https://github.com/buttleofx/ButtleOFX
+    description: A simple, user-friendly and open source compositing software.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      tech:
+        - opensource-alt
+  - name: |-
+      Femto-Photography: Visualizing Photons in Motion at a
+      Trillion Frames Per Second
+    url: http://web.media.mit.edu/~raskar//trillionfps/
+    description: Raskar et al
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference

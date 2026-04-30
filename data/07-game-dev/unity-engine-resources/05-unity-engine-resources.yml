@@ -1,0 +1,601 @@
+entries:
+  - name: Unity Bezier Solution
+    url: https://github.com/yasirkula/UnityBezierSolution
+    description: A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Engine Analyzer
+    url: https://github.com/vad710/UnityEngineAnalyzer
+    description: Roslyn Analyzer for Unity3D.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UnityTimer
+    url: https://github.com/akbiggs/UnityTimer
+    description: Powerful and convenient library for running actions after a delay in Unity3D.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UniGif
+    url: https://github.com/WestHillApps/UniGif
+    description: GIF image decoder for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Mesh Simplifier (Whinarn)
+    url: https://github.com/Whinarn/UnityMeshSimplifier
+    description: Mesh simplification for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Mesh Simplifier (Unity-Technologies)
+    url: https://github.com/Unity-Technologies/UnityMeshSimplifier
+    description: Mesh simplification for Unity. ![Official](UnityResource16x16.png)
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: EzySlice
+    url: https://github.com/DavidArayan/EzySlice
+    description: An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: MeshDecimator
+    url: https://github.com/Whinarn/MeshDecimator
+    description: A mesh decimation library for .NET and Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: CosineGradient
+    url: https://github.com/keijiro/CosineGradient
+    description: Cosine gradient generator for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: PerfAssist
+    url: https://github.com/GameBuildingBlocks/PerfAssist
+    description: Various performance-related components for Unity development.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Wave Function Collapse
+    url: https://github.com/selfsame/unity-wave-function-collapse
+    description: Fork of WaveFunctionCollapse.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Green Mamba Stealth
+    url: https://github.com/DameonL/GreenMambaStealth
+    description: An advanced stealth system for Unity that detects how well-lit a character is, allowing characters to hide in dynamic shadows.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Pedometer API
+    url: https://github.com/olokobayusuf/Pedometer-API
+    description: Pedometer is a native pedometer API for Unity Engine.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Signals (yankooliveira)
+    url: https://github.com/yankooliveira/signals
+    description: A typesafe, lightweight messaging lib for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Coop Design
+    url: https://github.com/simeonradivoev/Coop-Design
+    description: A prototype for runtime cooperative level designing in Unity 3D.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Hydrogen CSharp
+    url: https://github.com/nxrighthere/Hydrogen-CSharp
+    description: A prototype for runtime cooperative level designing in Unity 3D.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity3D Script Library
+    url: https://github.com/QianMo/Unity3D-Script-Library
+    description: A Script Library of Unity3D.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: OpenStash
+    url: https://github.com/mrzapp/openstash
+    description: Open source inventory framework for Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: OpenConvo
+    url: https://github.com/mrzapp/openconvo
+    description: Open source conversation framework for Unity.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UnityRandom
+    url: https://github.com/tucano/UnityRandom
+    description: Random library in C# for Unity3D.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Atoms
+    url: https://github.com/AdamRamberg/unity-atoms
+    description: Tiny modular pieces utilizing the power of Scriptable Objects.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: ScriptFinder
+    url: https://github.com/JoebRogers/ScriptFinder
+    description: A Unity editor extension to find script references within your project in seconds.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Swiss Army Lib
+    url: https://github.com/ArchonInteractive/SwissArmyLib
+    description: Collection of helpful utilities we use in our Unity projects.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Uni Version Manager
+    url: https://github.com/sanukin39/UniVersionManager
+    description: Simple Version Getter for Unity, it can be used for iOS, Android and unity editor platform. It can also get build version.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UniClipboard
+    url: https://github.com/sanukin39/UniClipboard
+    description: Simple clipboard plugin for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: SceneHistory Unity
+    url: https://github.com/takupisu/SceneHistory-Unity
+    description: Open scenes quickly from a custom history of scenes. Supports scene addition.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: NDocumentation
+    url: https://github.com/vertxxyz/NDocumentation
+    description: A documentation window for Unity Editor that displays rich text pages.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: ColorPalette
+    url: https://github.com/DomDomHaas/ColorPalette
+    description: Light version of the ColorPalettes Asset for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Settings Unity
+    url: https://github.com/LightBuzz/Settings-Unity
+    description: Settings utility for Unity3D.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: PNGCS
+    url: https://github.com/andrew-raphael-lukasik/pngcs
+    description: Complete PNG encoding and decoding for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UnityIO
+    url: https://github.com/ByronMayne/UnityIO
+    description: An easy to use API that allows you to manipulate files inside of Unity without the headache of using AssetDatabase.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: VariableAssets
+    url: https://github.com/ZeroSleepGames/VariableAssets
+    description: Variable assets for Unity3D.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Auto Save Scene
+    url: https://github.com/liortal53/AutoSaveScene
+    description: Unity editor helper for auto saving scene & minimizing lost work.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: EnumDispatcher
+    url: https://github.com/5argon/EnumDispatcher
+    description: ECS backed C# enums as Flux/Redux action in Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UnityHelpers
+    url: https://github.com/jeffvella/UnityHelpers
+    description: A collection of random scripts related to Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: UndoPro
+    url: https://github.com/Seneral/UndoPro
+    description: UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Auth Manager
+    url: https://github.com/zklinger2000/unity-auth-manager
+    description: An example of using a Javascript Web Token (JWT) based authentication system for an app built with Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Deform
+    url: https://github.com/keenanwoodall/Deform
+    description: A fully-featured deformer system for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Gamekit3D
+    url: https://github.com/Unity-Technologies/Gamekit3D
+    description: '![Official](UnityResource16x16.png)'
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: EasingCore
+    url: https://github.com/setchi/EasingCore
+    description: Simple easing implementation for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity SemVer
+    url: https://github.com/jeffcampbellmakesgames/unity-semver
+    description: A SemVer 2.0.0 implementation for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Master Unity Handles
+    url: https://github.com/alelievr/MasterUnityHandles
+    description: Unity custom handles examples.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Mesh Triangulator
+    url: https://github.com/joshcamas/unity-mesh-triangulator
+    description: A modified version of alexmuab's unity-mesh-triangulator.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Rulers
+    url: https://github.com/geekrelief/unityrulers
+    description: A ruler editor to measure distances between game objects in the Scene view.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity SimpleUsefulGizmos
+    url: https://github.com/flamacore/Unity-SimpleUsefulGizmos
+    description: Additional Gizmos showing information on your scene view like colored colliders, rotation indicator lines.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Better Defines
+    url: https://github.com/TarasOsiris/Better-Defines
+    description: An easy and elegant way to manage your preprocessor directives in Unity3D.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: DTCommandPalette
+    url: https://github.com/DarrenTsung/DTCommandPalette
+    description: Command palette for Unity - run methods, open scenes, and more!
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity3D Quick Search
+    url: https://github.com/appetizermonster/Unity3D-QuickSearch
+    description: A Command Palette for Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Everyplay Save To Local
+    url: https://github.com/yasirkula/UnityEveryplaySaveToLocal
+    description: A helper script to save captured Everyplay videos to local file system on Android & iOS.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: FrameDump
+    url: https://github.com/keijiro/FrameDump
+    description: A small utility for exporting image sequence from Unity.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt

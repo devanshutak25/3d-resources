@@ -1,0 +1,124 @@
+entries:
+  - name: Dialogic 2
+    url: https://github.com/dialogic-godot/dialogic
+    description: Full-featured dialogue and timeline system.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Dialogue System
+      - Timeline
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: GodotSteam
+    url: https://github.com/GodotSteam/GodotSteam
+    description: Steamworks SDK integration.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Steamworks
+      - SDK
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Phantom Camera
+    url: https://github.com/ramokz/phantom-camera
+    description: Dynamic camera system (Cinemachine-inspired).
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Camera System
+      - Cinemachine-like
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Limbo AI
+    url: https://github.com/limbonaut/limboai
+    description: Behavior trees and state machines.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - AI
+      - Behavior Trees
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: SmartShape2D
+    url: https://github.com/SirRamEsq/SmartShape2D
+    description: Intelligent 2D terrain/shape tool.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - 2D Terrain
+      - Shape Tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Gut
+    url: https://github.com/bitwes/Gut
+    description: Unit testing framework for GDScript.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Testing
+      - GDScript
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: GdSpy
+    url: https://github.com/Alby90/GdSpy
+    description: Unofficial fSpy importer for Godot.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Godot 4 glTF runtime import
+    url: https://github.com/godotengine/godot-docs/issues/6385
+    description: Godot 4 glTF runtime import.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+  - name: Godot Package Manager
+    url: https://github.com/you-win/godot-package-manager
+    description: Package manager for Godot using npm.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt

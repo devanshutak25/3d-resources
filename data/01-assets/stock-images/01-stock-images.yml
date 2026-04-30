@@ -1,0 +1,164 @@
+entries:
+  - name: Unsplash
+    url: https://unsplash.com/
+    description: Free photography.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Photography
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Pexels
+    url: https://www.pexels.com/
+    description: Free stock photos and video.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Photos + Video
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Pixabay
+    url: https://pixabay.com/
+    description: Free stock media.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Mixed Media
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: All Free Download
+    url: http://all-free-download.com/
+    description: Free design downloads.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Design
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Neurascapes
+    url: https://neurascapes.com/
+    description: Free surreal/AI-generated reference imagery.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Surreal
+      - Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: PNG Images
+    url: https://pngimg.com/
+    description: Transparent PNG images.
+    entry_type: asset-source
+    readme_tags:
+      - Transparent PNG
+      - Cutouts
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Public Domain Review
+    url: https://publicdomainreview.org/collections/images
+    description: Public-domain image collections.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Public Domain
+      - Historical
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: David Rumsey Maps
+    url: https://www.davidrumsey.com/view/past
+    description: Historical maps archive.
+    entry_type: asset-source
+    tags:
+      workflow:
+        - reference
+    readme_tags:
+      - Maps
+      - Historical
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: The Blueprints
+    url: https://www.the-blueprints.com/
+    description: Vehicle, aircraft, ship blueprints.
+    entry_type: asset-source
+    tags:
+      workflow:
+        - reference
+    readme_tags:
+      - Blueprints
+      - Vehicles
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Art of Animation
+    url: http://theartofanimation.tumblr.com/
+    description: Curated animation art blog.
+    entry_type: inspiration
+    readme_tags:
+      - Animation Art
+      - Blog
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: 50 Watts
+    url: https://50watts.com/
+    description: Illustration history archive.
+    entry_type: inspiration
+    readme_tags:
+      - Illustration
+      - Historical
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: Settei Dreams
+    url: https://setteidreams.net/
+    description: Anime model sheets and settei archive.
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+        - concept
+    readme_tags:
+      - Anime
+      - Model Sheets
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: LACartoons
+    url: https://lacartoons.com/
+    description: Animation cel and model sheet archive.
+    entry_type: reference
+    readme_tags:
+      - Cartoons
+      - Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference

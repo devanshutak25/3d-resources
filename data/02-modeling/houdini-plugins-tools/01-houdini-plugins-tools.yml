@@ -1,0 +1,261 @@
+entries:
+  - name: MOPS
+    url: https://www.motionoperators.com/
+    description: Motion graphics toolkit by Toadstorm.
+    license: Free
+    entry_type: plugin
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - houdini-addon
+    readme_tags:
+      - Motion Graphics
+      - Toadstorm
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: SideFX Labs
+    url: https://github.com/sideeffects/SideFXLabs
+    description: Extended official toolset.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Official
+      - Extended Tools
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+        - opensource-alt
+  - name: qLib
+    url: https://github.com/qLab/qLib
+    description: Open-source HDA library.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Open Source
+      - HDAs
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+        - opensource-alt
+  - name: AElib
+    url: https://github.com/Aeoll/Aelib
+    description: Free tools by Nick Taylor (ManVsMachine).
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Free Tools
+      - MvM
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+        - opensource-alt
+  - name: ODTools
+    url: https://origamidigital.com/cart/index.php?route=product/product&path=59_63&product_id=64
+    description: Pipeline tools by Oliver Hotz.
+    license: Paid
+    entry_type: plugin
+    readme_tags:
+      - Pipeline
+      - Oliver Hotz
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+  - name: Houdini Engine for Unreal (AdrianPan optimized fork)
+    url: https://github.com/AdrianPanGithub/HoudiniEngineForUnreal
+    description: Rebuilt Houdini Engine for UE, 2x-15x faster.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      tech:
+        - unreal-plugin
+        - houdini-addon
+        - opensource-alt
+    readme_tags:
+      - UE Bridge
+      - Performance
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: EarthMesh Houdini
+    url: https://github.com/xjorma/EarthMeshHoudini
+    description: Real-world meshes via Google API.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Google Earth
+      - Real-world
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+        - opensource-alt
+  - name: Axiom
+    url: https://www.mattpuchala.com/axiom
+    description: Sparse fluid solver by Matthew Puchala.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      tech:
+        - houdini-addon
+    readme_tags:
+      - Sparse Fluids
+      - GPU
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Tighe Rzankowski's Tools
+    url: https://gumroad.com/trzanko
+    description: Feather grooming and more.
+    entry_type: plugin
+    readme_tags:
+      - Feathers
+      - Grooming
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+  - name: Rich Lord's Tools
+    url: https://www.richlord.com/
+    description: Tools from ex-Valve animator.
+    entry_type: plugin
+    readme_tags:
+      - Animation Tools
+      - Valve Alum
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+  - name: .hips
+    url: https://github.com/lcrs/_.hips
+    description: Various Houdini tools.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Misc Tools
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+        - opensource-alt
+  - name: Ffmpeg
+    url: https://ffmpeg.org/
+    description: Flipbook to MP4 conversion tool ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM)).
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Flipbook→MP4
+      - CLI
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+        - opensource-alt
+  - name: VFX Fractal Toolkit
+    url: https://github.com/jtomori/vft
+    description: Set of tools for generating fractal and generative art.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+        - opensource-alt
+  - name: ZENO
+    url: https://github.com/zenustech/zeno
+    description: Node-based 3D system that can produce cinematic physics effects at high efficiency.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+        - opensource-alt
+  - name: Houdini Tech Art Challenge Winners 2021
+    url: https://www.sidefx.com/tech-art-challenge-2021/
+    description: HPaint, Polyline Creator, Poly Slice Tool, and more
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+  - name: JDB Houdini Toolkit
+    url: https://bitbucket.org/jcdeblok/workspace/projects/PROJ
+    description: JDB Houdini Toolkit.
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+  - name: Houdini Attributes Cheatsheet
+    url: https://gist.github.com/iinfin/2caf4e2ccb2545477670e88ddacee1e2
+    description: Houdini Attributes Cheatsheet.
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+  - name: Microbot VDB Painter
+    url: https://microbot.ch/new/vdb-painter/
+    description: MbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes.
+    entry_type: plugin
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - houdini-addon
+  - name: TrembleFX
+    url: https://shirmanor.gumroad.com/l/TrembleFX
+    description: Procedural noise generator HDA by Shir Manor.
+    license: Paid
+    entry_type: plugin
+    readme_tags:
+      - FX
+      - Shir Manor
+    tags:
+      tech:
+        - houdini-addon
+      workflow:
+        - fx
+  - name: CamRig Pro
+    url: https://shirmanor.gumroad.com/l/camrigpro
+    description: Camera rigging tool HDA by Shir Manor.
+    license: Paid
+    entry_type: plugin
+    readme_tags:
+      - Camera Rig
+      - Shir Manor
+    tags:
+      tech:
+        - houdini-addon
+      workflow:
+        - animation
+  - name: VEX Manager
+    url: https://shirmanor.gumroad.com/l/vex_manager_v1
+    description: VEX snippet/code manager HDA by Shir Manor. Also listed under Houdini — VEX & Coding.
+    license: Paid
+    entry_type: plugin
+    readme_tags:
+      - VEX
+      - Shir Manor
+    tags:
+      tech:
+        - houdini-addon

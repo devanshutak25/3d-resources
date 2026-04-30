@@ -1,0 +1,75 @@
+entries:
+  - name: Texturing.xyz
+    url: https://texturing.xyz/
+    description: MicroSkin displacement maps.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - sculpting
+        - texturing
+        - material-authoring
+      output:
+        - film-vfx
+    readme_tags:
+      - MicroSkin
+      - Displacement
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Shaded Relief
+    url: http://www.shadedrelief.com/natural3/pages/extra.html
+    description: Natural Earth data and terrain reference.
+    entry_type: asset-source
+    tags:
+      workflow:
+        - reference
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Natural Earth
+      - Terrain
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Subtle Patterns
+    url: https://www.toptal.com/designers/subtlepatterns/
+    description: Tileable web patterns.
+    entry_type: asset-source
+    readme_tags:
+      - Tileable
+      - Web Patterns
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Spriters Resource
+    url: https://www.spriters-resource.com/
+    description: Game sprite textures.
+    entry_type: asset-source
+    tags:
+      output:
+        - games
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Sprites
+      - Game Rips
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Models Resource (3D)
+    url: https://models.spriters-resource.com/
+    description: 3D model rips from games — sister site to Spriters Resource.
+    entry_type: asset-source
+    tags:
+      output:
+        - games
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - 3D Game Rips
+      - Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok

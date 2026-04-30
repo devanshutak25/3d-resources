@@ -1,0 +1,192 @@
+entries:
+  - name: Line of Action
+    url: https://line-of-action.com/
+    description: Free timed gesture drawing (figures, animals, hands, faces).
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Gesture Drawing
+      - Timed
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: QuickPoses
+    url: https://quickposes.com/en
+    description: Timed drawing practice with huge photo library.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Timed Practice
+      - Photo Library
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: SketchDaily Reference
+    url: https://www.sketchdaily.net/
+    description: Timed drawing sessions across categories.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Timed
+      - Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Posemaniacs
+    url: https://www.posemaniacs.com/
+    description: Rotatable 3D pose reference with muscle groups.
+    entry_type: reference
+    readme_tags:
+      - 3D Poses
+      - Muscle Ref
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Human Anatomy for Artists
+    url: https://human-anatomy-for-artist.com/
+    description: Massive free photo reference by body part and angle.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Anatomy
+      - Free Photos
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: BodyVisualizer
+    url: https://bodyvisualizer.com/
+    description: 3D body shape visualizer for proportion reference.
+    entry_type: tool
+    readme_tags:
+      - Body Proportions
+      - Interactive
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Ctrl+Paint
+    url: https://www.ctrlpaint.com/library
+    description: Structured free video library — digital painting fundamentals, value studies, color.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Free Library
+      - Structured
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Proko Free Library
+    url: https://www.proko.com/library/
+    description: Anatomy, figure drawing, portrait (substantial free tier).
+    license: Freemium
+    entry_type: tutorial
+    readme_tags:
+      - Anatomy
+      - Free Tier
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: ArtStation Learning
+    url: https://www.artstation.com/learning
+    description: Free courses from Blizzard, Riot, Pixar pros.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Pro Instructors
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Genetic Drawing
+    url: https://github.com/anopara/genetic-drawing
+    description: Python library to generate a stylized rendering from an image.
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      tech:
+        - opensource-alt
+  - name: Graphite 3D
+    url: https://apps.apple.com/us/app/graphite-3d/id1523391511
+    description: A collaborative drawing tool for modeling precise shapes in real spaces.
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Gizmos
+    url: https://github.com/popcron/gizmos
+    description: Used for drawing runtime gizmos in builds and editor (Unity3D).
+    entry_type: reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      tech:
+        - opensource-alt
+  - name: Pixen (site)
+    url: https://pixenapp.com/
+    description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Learn HTML5 Graphics and Animation
+    url: https://egghead.io/courses/learn-html5-graphics-and-animation
+    description: Introduction to the canvas 2D drawing API.
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: 'Intro to JS: Drawing & Animation'
+    url: https://www.khanacademy.org/computing/computer-programming/programming
+    description: Use JavaScript and the ProcessingJS library to create drawings and animations.
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Animation with Dall-e + AE | Reddit
+    url: https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/
+    description: Patent drawing of an electronic device that ...
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+  - name: Instanced Line Rendering Part I
+    url: https://wwwtyro.net/2019/11/18/instanced-lines.html
+    description: Builds on the foundation from "Drawing Lines is Hard" and uses instance rendering to draw lines.
+    entry_type: tutorial
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - concept

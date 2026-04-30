@@ -1,0 +1,361 @@
+entries:
+  - name: Substance Share
+    url: https://share.substance3d.com/
+    description: The free exchange platform for the Substance community.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: MPFB
+    url: http://static.makehumancommunity.org/mpfb.html
+    description: MPFB2 is an open source human generator for Blender. It's complete rewrite of MakeHuman as a Blender addon. [![][repo]](https://github.com/makehumancommunity/mpfb2)
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Steam Community VR Workshop Item
+    url: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559
+    description: Steam Community Workshop submission referenced by the VR/game-dev forum discussions.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Unreal Source
+    url: https://unrealsource.com/
+    description: The largest Discord community focused on Unreal Engine.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Women in AI Ethics
+    url: https://womeninaiethics.org/about-us/
+    description: Community of women who are leaders in the AI ethics industry.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Welder
+    url: https://blenderartists.org/t/welder/672478
+    description: Welds generator for Blender.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Array Tools
+    url: https://blenderartists.org/t/array-tools-all-in-one-for-translation-scale-and-rotation-array/1170295?u=peetie
+    description: Addon for Blender to create translation, scale, rotation array with offset or global parameters in any direction and mix them. [![][repo]](https://github.com/Elreenys/array_tools)
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Mesh Heal
+    url: https://blenderartists.org/t/mesh-heal/1117095
+    description: Add-on for Blender, it includes additional Blender operators for healing surface meshes.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Drop It
+    url: https://blenderartists.org/t/drop-it-free-addon/1244259/
+    description: Designed to drop fast and simply Objects to Ground or Surface. [![][repo]](https://github.com/maxivz/interactivetoolsblender)
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: JARCH Vis
+    url: https://blenderartists.org/t/addon-jarch-vis/642607
+    description: Add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Wiggle Bones
+    url: https://blenderartists.org/t/wiggle-2/1454788
+    description: Jiggle bone implementation for Blender with realistic physics. [![][repo]](https://github.com/shteeve3d/blender-wiggle-2) ![][gpl]
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: TexTools
+    url: https://blenderartists.org/t/textools-for-blender/700811
+    description: TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/SavMartin/TexTools-Blender)
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: EZ Baker
+    url: https://blenderartists.org/t/ez-baker/1245869
+    description: An easier alternative to blender's default bake system. [![][repo]](https://gitlab.com/AquaticNightmare/ez_baker)
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: V HACD
+    url: https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822
+    description: Library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Multi User
+    url: https://blenderartists.org/t/multi-user/1187118
+    description: Enable real-time collaborative workflows inside blender. [![][repo]](https://gitlab.com/slumber/multi-user)
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Theme Switcher
+    url: https://blenderartists.org/t/theme-switcher/1211787
+    description: Addon to quickly change active theme not leaving 3D View.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: The Code Editor
+    url: https://blenderartists.org/t/how-would-you-show-some-love-for-the-blender-text-editor/1163857
+    description: This thread is for discussing how the Text Editor can be improved and sharing add-ons which will modernize, expand and ease coding in Blender.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Blenderartists/python Support
+    url: https://blenderartists.org/c/coding/python-support/19
+    description: '[stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)'
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Lodify
+    url: https://devtalk.blender.org/t/level-of-detail-addon/12840
+    description: LOD(Level of Detail) and Proxy system for blender. [![][repo]](https://github.com/DB3D/Lodify)
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: devtalk/python
+    url: https://devtalk.blender.org/c/python/6
+    description: Questions about using and developing the [Blender Python API](https://developer.blender.org/project/view/24/), both for Blender itself and add-ons.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 📖 User Manual
+    url: https://docs.blender.org/manual/en/latest/
+    description: '[🔗 Python API](https://docs.blender.org/api/current/) | [⚙️ Developer Wiki](https://wiki.blender.org/wiki/Main_Page)'
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Animation & Rigging Manual
+    url: https://docs.blender.org/manual/en/latest/physics/index.html
+    description: Animation & Rigging Manual..
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Compositing Nodes List
+    url: https://docs.blender.org/manual/en/latest/compositing/index.html#node-types
+    description: Compositing Nodes List..
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Motion Tracking Manual
+    url: https://docs.blender.org/manual/en/latest/movie_clip/tracking/introduction.html
+    description: Motion Tracking Manual..
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Blender Python API Documentation
+    url: https://docs.blender.org/api/current/
+    description: Official Blender Python API Documentation.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Casual GAN Papers Reading Club
+    url: https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8
+    description: Community knowledge base for Casual GAN Papers
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Chrome Experiments
+    url: https://www.chromeexperiments.com/
+    description: Showcase of web experiments written by the creative coding community.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: ALS Community
+    url: https://github.com/dyanikoglu/ALS-Community
+    description: Replicated and optimized community version of Advanced Locomotion System V4
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: 'ViroCore: A cross-platform AR/VR renderer'
+    url: https://github.com/ViroCommunity/virocore
+    description: 'And [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)'
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: microsoft/JARVIS
+    url: https://github.com/microsoft/JARVIS
+    description: JARVIS, a system to connect LLMs with ML community
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: UE4 Plugin Resources
+    url: https://github.com/Sythenz/UE4-Plugin-Resources
+    description: A list of community resources for Slate, Graphs, and UE4 Plugin Development.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: MassSample
+    url: https://github.com/Megafunk/MassSample
+    description: Community Mass Sample
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Github/awesome Copilot
+    url: https://github.com/github/awesome-copilot
+    description: Community instructions and prompts for GitHub Copilot.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: Harmonai
+    url: https://www.harmonai.org/
+    description: We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: ofBook
+    url: https://openframeworks.cc/ofBook/chapters/foreword.html
+    description: Community-written book/guide on openFrameworks.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: promptoMANIA
+    url: https://promptomania.com/
+    description: AI art community with prompt generator
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Promptstacks
+    url: https://www.promptstacks.com/
+    description: Prompt engineering community
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: realtimevfx.com
+    url: https://realtimevfx.com/
+    description: Real Time VFX Community.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: PromptDesign | Reddit
+    url: https://www.reddit.com/r/PromptDesign/
+    description: Reddit community for "the art of communicating with natural language models"
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: WebVR Community Group
+    url: https://www.w3.org/community/immersive-web/
+    description: Group who's goal is to help bring high-performance Virtual Reality to the open Web.
+    entry_type: community
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

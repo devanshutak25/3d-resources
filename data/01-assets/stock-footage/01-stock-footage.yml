@@ -1,0 +1,44 @@
+entries:
+  - name: Internet Archive / Prelinger
+    url: https://archive.org/
+    description: Public-domain archival footage.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Archival
+      - Public Domain
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+  - name: ActionVFX Practice
+    url: https://www.actionvfx.com/practice-footage
+    description: Free practice VFX footage.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - film-vfx
+      workflow:
+        - reference
+    readme_tags:
+      - VFX Practice
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Open Visual FX
+    url: https://openvisualfx.com/
+    description: Free VFX footage.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - film-vfx
+      workflow:
+        - reference
+    readme_tags:
+      - VFX Footage
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok

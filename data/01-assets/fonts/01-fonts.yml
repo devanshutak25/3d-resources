@@ -1,0 +1,213 @@
+entries:
+  - name: Font Library
+    url: https://fontlibrary.org/
+    description: Open-source and free fonts.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Open Source
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+  - name: FontPair
+    url: https://fontpair.co/
+    description: Font pairing inspiration.
+    entry_type: asset-source
+    readme_tags:
+      - Pairing
+      - Inspiration
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+  - name: Lilex
+    url: https://lilex.myrt.co/
+    description: Programming font with ligatures.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Code Font
+      - Ligatures
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+  - name: Usable Google Fonts (Figma)
+    url: https://www.figma.com/community/file/1535264485426732629/usable-google-fonts
+    description: Curated Figma set of usable Google Fonts.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Figma
+      - Google Fonts
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+  - name: How to Proof a Typeface
+    url: https://jonathanhoefler.com/articles/how-to-proof-a-typeface
+    description: Jonathan Hoefler's proofing guide.
+    entry_type: asset-source
+    readme_tags:
+      - Proofing Guide
+      - Hoefler
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+  - name: FontLab 8
+    url: https://www.fontlab.com/font-editor/fontlab/
+    description: Professional font editor.
+    license: Paid
+    entry_type: asset-source
+    best_for: Type design, font editing
+    tags:
+      platform:
+        - win
+        - mac
+      output:
+        - motion-graphics
+        - illustration
+    readme_tags:
+      - Font Editor
+      - Pro
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Fontz
+    url: https://fontz.design
+    description: Free and premium 3D fonts with Blender source files
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+  - name: Unity BitmapFontImporter
+    url: https://github.com/litefeel/Unity-BitmapFontImporter
+    description: An Unity editor extension for bitmap font.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+  - name: Unity Stb Easy Font
+    url: https://github.com/aras-p/UnityStbEasyFont
+    description: A port of stb_easy_font.h to Unity/C#.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+  - name: typicons.font
+    url: http://s-ings.com/typicons/
+    description: 336 pixel perfect, all-purpose vector icons in a web-font kit
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+  - name: Typewriter
+    url: https://github.com/doakey3/blender-typewriter-addon
+    description: Typewriter text animation for font objects.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+  - name: FontSelector
+    url: https://github.com/samytichadou/FontSelector_blender_addon/
+    description: Easy font management inside Blender.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+  - name: Roboto
+    url: https://github.com/google/roboto
+    description: Default font on Android & ChromeOS, and the recommended typeface for Material Design
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+  - name: emojillate
+    url: https://github.com/notwaldorf/emojillate
+    description: Pixellate an image into emoji
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+  - name: Material design icons
+    url: https://github.com/google/material-design-icons
+    description: Official icon set from Google
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+  - name: bitmap font renderer
+    url: https://jmickle66666666.github.io/blog/techart/2019/12/18/bitmap-font-renderer.html
+    description: Bitmap font renderer.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+  - name: Word-As-Image for Semantic Typography
+    url: https://wordasimage.github.io/Word-As-Image-Page/
+    description: Semantically transforming fonts into illustrations
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration

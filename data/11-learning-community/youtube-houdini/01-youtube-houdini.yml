@@ -1,0 +1,485 @@
+entries:
+  - name: Entagma (YouTube)
+    url: https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ
+    description: Advanced design and mograph.
+    entry_type: channel
+    readme_tags:
+      - Advanced
+      - Mograph
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: John Kunz (YouTube)
+    url: https://www.youtube.com/@JohnKunz
+    description: FX, coding, Redshift.
+    entry_type: channel
+    readme_tags:
+      - FX
+      - Weekly Streams
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: NineBetween
+    url: https://www.youtube.com/@NineBetween
+    description: Houdini beginner series (Houdini Isn't Scary).
+    entry_type: channel
+    tags:
+      skill:
+        - beginner
+      platform:
+        - web
+    readme_tags:
+      - Beginner
+      - Approachable
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Tim van Helsdingen
+    url: https://www.youtube.com/@TimvanHelsdingen3D
+    description: FX and procedural tutorials.
+    entry_type: channel
+    readme_tags:
+      - FX
+      - Procedural
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Junichiro Horikawa
+    url: https://www.youtube.com/@JunichiroHorikawa
+    description: Procedural and generative Houdini.
+    entry_type: channel
+    tags:
+      tech:
+        - procedural
+      platform:
+        - web
+    readme_tags:
+      - Generative
+      - Procedural
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: SideFX Official
+    url: https://www.youtube.com/channel/UCegWLyW4CYzph4dYW-gYy0g
+    description: SideFX's official channel.
+    entry_type: channel
+    readme_tags:
+      - Official
+      - SideFX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Christopher Rutledge
+    url: https://www.youtube.com/@chr1st0pher
+    description: Houdini Nerd community creator.
+    entry_type: channel
+    readme_tags:
+      - Community
+      - FX
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Mark Fancher
+    url: https://www.youtube.com/@MarkFancherFX
+    description: FX breakdowns.
+    entry_type: channel
+    readme_tags:
+      - FX
+      - Breakdowns
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Simon Fiedler
+    url: https://vimeo.com/simonfiedler
+    description: Mograph and Houdini on Vimeo.
+    entry_type: channel
+    readme_tags:
+      - Mograph
+      - Vimeo
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Asis FX
+    url: https://www.youtube.com/@AxisDesignerGFX
+    description: FX tutorials.
+    entry_type: channel
+    readme_tags:
+      - FX
+      - Tutorials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 3DCoat Training Channel
+    url: https://www.youtube.com/@3DCoatTrainingChannel
+    description: 3DCoat now has native support of Blender via built-in AppLink.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: YanSculpts' Channel
+    url: https://www.youtube.com/channel/UCfjswDVU0XHyBN7UFG0Mi5Q/videos
+    description: YanSculpts' Channel.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Modeling a character BaseMesh in Blender
+    url: https://www.youtube.com/@sociamix
+    description: Modeling a character BaseMesh in Blender..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: How to composite renders in Blender
+    url: https://www.youtube.com/@BlenderBrit
+    description: How to composite renders in Blender..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Blender Render Passes and Very Basic Compositing
+    url: https://www.youtube.com/@KevBinge
+    description: Blender Render Passes and Very Basic Compositing..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Render Passes in Blender - What are they and why even use them?
+    url: https://www.youtube.com/@DylanNeill3D
+    description: Render Passes in Blender - What are they and why even use them?.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: How to use blender's compositor to improve a rendered frame sequence
+    url: https://www.youtube.com/@garagefarmacademy
+    description: How to use blender's compositor to improve a rendered frame sequence..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Blender Compositor for Post Processing
+    url: https://www.youtube.com/@RenderRides
+    description: Blender Compositor for Post Processing..
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: SouthernShotty
+    url: https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg/videos
+    description: Stylized modeling, character creation, sculpting.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Gleb Alexandrov
+    url: https://www.youtube.com/@GlebAlexandrov
+    description: One of the best-known blender channel on youtube.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Chris Prenninger
+    url: https://www.youtube.com/@chrisprenn
+    description: Animation nodes, particle systems, shading.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: CG Boost
+    url: https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA/videos
+    description: Modeling, sculpting.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: FlippedNormals (YouTube)
+    url: https://www.youtube.com/@FlippedNormals
+    description: Sculpting, modeling.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Blender NPR
+    url: https://www.youtube.com/@super-bnpr
+    description: Non-Photorealistic and expressive rendering.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Daniel Krafft - DSO
+    url: https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw/videos
+    description: Blender tips, add-ons.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Imphenzia
+    url: https://www.youtube.com/@Imphenzia
+    description: Low poly modeling, rigging.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: CBaileyFilm
+    url: https://www.youtube.com/channel/UCXguhzOm29mBTYDuxKjxn5A/videos
+    description: Blender animation projects.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: CG Masters
+    url: https://www.youtube.com/@blengine
+    description: Modeling, texturing, shading.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Peter France
+    url: https://www.youtube.com/@PeterFrance
+    description: Modeling, texturing, shading, vfx.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Iridesium
+    url: https://www.youtube.com/@Iridesium
+    description: Simulation, vfx.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Giulia Marchetti
+    url: https://www.youtube.com/@giulia.delasestrellas
+    description: Sculpting, character modeling.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: CG Fast Track
+    url: https://www.youtube.com/@CGFastTrack
+    description: Modeling, animation.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: 3DGreenhorn
+    url: https://www.youtube.com/@3dgreenhorn
+    description: Isometric modeling.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Bad Normals
+    url: https://www.youtube.com/@BadNormals
+    description: Modeling, animation.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Samuel Sullins
+    url: https://www.youtube.com/@samuelsullins
+    description: Geometry Nodes, vfx, lowpoly, general.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: CG Python
+    url: https://www.youtube.com/@CGPython
+    description: Blender Python scripting tips and tricks.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: The Cherno Project
+    url: https://www.youtube.com/@TheCherno
+    description: While not specific to Unreal Engine, Cherno has tons of great C++ and general game engine content.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Unreal Engine
+    url: https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ
+    description: The official Unreal Engine YouTube channel with weekly live streams.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: I3D Past Projects
+    url: https://www.youtube.com/@i3dpastprojects778
+    description: Virtual 3D teleportation in real-time by Microsoft Research
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Super Mario Bros AR Game
+    url: https://www.youtube.com/@shekitup
+    description: AR game built with Microsoft HoloLens and Unity3D
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Parker Coleman
+    url: https://www.youtube.com/@parkercoleman8078
+    description: Houdini tutorial channel — procedural workflows, sim setups, tools.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: AJ Picard
+    url: https://www.youtube.com/@ajpicard.design
+    description: Complex background animations using SwiftUI & Rive.App
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Pointer Tracking Animation Implemented in Webflow
+    url: https://www.youtube.com/@jeffamcavoy
+    description: How to set up a Rive file with pointer tracking for Webflow implementation.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Unreal Engine Official YouTube
+    url: https://www.youtube.com/@UnrealEngine
+    description: Unreal Engine Official YouTube.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Introduction into the new Godot OpenVR Asset
+    url: https://www.youtube.com/@BastiaanOlij
+    description: Introduction into the new Godot OpenVR Asset.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !
+    url: https://www.youtube.com/@cooleobrad
+    description: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Leading Ones (LeadingOnesVR)
+    url: https://www.youtube.com/@LeadingOnesVR
+    description: 'Unity VR: EditorVR Quick Look.'
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Unity Mecanim VR IK vs Final IK
+    url: https://www.youtube.com/@createthisdotcom
+    description: '[VR IK using native Unity Mecanim IK](https://github.com/createthis/unity_vr_ik_mecanim)'
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Auto Cache Out Tool
+    url: https://www.youtube.com/@ron4431
+    description: Auto Cache Out tool is for managing caches and .hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically ve
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: The Gaming Library
+    url: https://www.youtube.com/@TheGamingLibraryYT
+    description: And admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of CG today.
+    entry_type: channel
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      platform:
+        - web

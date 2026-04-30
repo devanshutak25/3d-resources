@@ -1,0 +1,26 @@
+entries:
+  - name: Top 5 Expressions (graymachine)
+    url: http://www.graymachine.com/top-5-effects-expressions/
+    description: Essential AE expressions.
+    entry_type: reference
+    readme_tags:
+      - Expressions
+      - Essentials
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Jitter Templates
+    url: https://jitter.video/templates/
+    description: Free motion graphics templates.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - motion-graphics
+    readme_tags:
+      - Templates
+      - Free
+    url_last_verified: '2026-04-19'
+    url_status: ok

@@ -1,0 +1,228 @@
+entries:
+  - name: Mixamo
+    url: https://www.mixamo.com/
+    description: Characters and animations (Adobe, free).
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - rigging
+        - animation
+        - modeling
+      output:
+        - games
+        - film-vfx
+    readme_tags:
+      - Rigged Characters
+      - Free Animations
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Anatomy 360
+    url: https://anatomy360.info/
+    description: Artist reference models.
+    entry_type: asset-source
+    tags:
+      workflow:
+        - reference
+        - sculpting
+        - modeling
+    readme_tags:
+      - Anatomy
+      - Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Anatomy For Sculptors
+    url: https://www.artstation.com/anatomy4sculptors
+    description: Anatomical references.
+    entry_type: asset-source
+    tags:
+      workflow:
+        - reference
+        - sculpting
+        - modeling
+    readme_tags:
+      - Anatomy
+      - Sculpt Ref
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Insect 3D Models
+    url: https://zerokobo.web.fc2.com/
+    description: Insect models.
+    entry_type: asset-source
+    readme_tags:
+      - Insects
+      - Niche
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+  - name: Anything World Gallery
+    url: https://app.anything.world/gallery
+    description: Animated models.
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+        - modeling
+    readme_tags:
+      - Animated
+      - Game-Ready
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Models Resource
+    url: https://www.models-resource.com/
+    description: Video game model rips.
+    entry_type: asset-source
+    tags:
+      output:
+        - games
+      workflow:
+        - modeling
+    readme_tags:
+      - Game Rips
+      - Study/Reference
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Dimensions.com
+    url: https://www.dimensions.com/
+    description: Dimensioned drawings database.
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+        - modeling
+    readme_tags:
+      - Dimensions
+      - Reference Data
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: NASA 3D Resources
+    url: https://science.nasa.gov/3d-resources/
+    description: Spacecraft, planets, terrain models (public domain, also on [GitHub](https://nasa3d.arc.nasa.gov/)).
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - scientific-viz
+        - film-vfx
+      workflow:
+        - modeling
+    readme_tags:
+      - Public Domain
+      - Space/Science
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Smithsonian 3D
+    url: https://3d.si.edu/
+    description: Historical artifacts.
+    entry_type: asset-source
+    tags:
+      output:
+        - scientific-viz
+      workflow:
+        - modeling
+    readme_tags:
+      - Museum Scans
+      - Historical
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Smithsonian Open Access
+    url: https://www.si.edu/openaccess
+    description: Millions of 2D/3D museum assets, CC0.
+    license: Free
+    entry_type: asset-source
+    tags:
+      tech:
+        - cc0
+      workflow:
+        - modeling
+    readme_tags:
+      - CC0
+      - Museum
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: British Museum (Sketchfab)
+    url: https://sketchfab.com/britishmuseum
+    description: Scanned artifacts.
+    entry_type: asset-source
+    tags:
+      tech:
+        - photogrammetry
+      workflow:
+        - modeling
+    readme_tags:
+      - Museum
+      - Artifacts
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Cleveland Museum of Art (Sketchfab)
+    url: https://sketchfab.com/clevelandart
+    description: Museum 3D scans.
+    entry_type: asset-source
+    readme_tags:
+      - Museum
+      - Scans
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+  - name: Quaternius
+    url: https://quaternius.com/
+    description: Free low-poly game assets.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - games
+      tech:
+        - cc0
+      workflow:
+        - modeling
+    readme_tags:
+      - CC0 Low-Poly
+      - Game-Ready
+    url_last_verified: '2026-04-19'
+    url_status: ok
+  - name: Wire Wheels Club
+    url: https://wirewheelsclub.com/models/
+    description: Vehicle models.
+    entry_type: asset-source
+    readme_tags:
+      - Vehicles
+      - Cars
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+  - name: Fusion Character Animator
+    url: http://loopengo.free.fr/
+    description: Small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+  - name: AccuRIG
+    url: https://actorcore.reallusion.com/auto-rig
+    description: Free application designed for fast and easy character rigging.
+    entry_type: asset-source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+  - name: ossos
+    url: https://github.com/sketchpunklabs/ossos
+    description: A complete character skinning & animation library for the web
+    entry_type: tool
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - opensource-alt
