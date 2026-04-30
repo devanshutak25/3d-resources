@@ -35,7 +35,7 @@ entries:
   - name: EasyMocap
     url: https://github.com/zju3dv/EasyMocap?tab=readme-ov-file
     description: Open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
-    license: Opensource
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -51,7 +51,7 @@ entries:
   - name: trigger
     url: https://github.com/masqu3rad3/trigger
     description: Operational code-driven rigging tool for Autodesk Maya.
-    license: Opensource
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -67,7 +67,7 @@ entries:
   - name: CvWrap
     url: https://github.com/chadmv/cvwrap
     description: Fast Maya wrap deformer.
-    license: Opensource
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -83,7 +83,7 @@ entries:
   - name: Onion Skin Renderer
     url: https://github.com/Viele/onionSkinRenderer
     description: Onion Skin Renderer for Maya.
-    license: Opensource
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok

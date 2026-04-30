@@ -28,12 +28,11 @@ entries:
         - gaussian-splatting
     readme_tags:
       - gaussian-splatting
-      - 360
+      - '360'
   - name: Leonid Keselman
     url: https://github.com/leonidk
     description: For informing me about the release of the paper "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting".
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     notes: 'MISFIT: GitHub user profile, not a resource. Candidate for removal/relocation.'
@@ -89,7 +88,6 @@ entries:
     url: https://jdily.github.io/proj_site/nerfin_proj.html
     description: Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt)
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -131,7 +129,6 @@ entries:
     url: http://jiataogu.me/style_nerf/
     description: Gu et al., Arxiv 2021 | [bibtex](./citations/stylenerf.txt)
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -159,7 +156,6 @@ entries:
     url: https://jonbarron.info/mipnerf360/
     description: Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -173,7 +169,6 @@ entries:
     url: https://light.princeton.edu/neural-scene-graphs/
     description: Ost et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L353-L358) <!---Ost20arxiv_NeuralSceneGraphs-->
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -201,7 +196,6 @@ entries:
     url: https://liquidammonia.github.io/color-nerf/assets/paper.pdf
     description: '[🌐 Project Page](https://liquidammonia.github.io/color-nerf/)'
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     notes: 'MISFIT: name is generic ("Paper.Pdf"), needs rename. Color-NeRF paper PDF.'
@@ -216,7 +210,6 @@ entries:
     url: https://marcoamonteiro.github.io/pi-GAN-website/
     description: Chan et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L24-L30) <!---Chan20arxiv_piGAN-->
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -258,7 +251,6 @@ entries:
     url: https://mrnerf.github.io/awesome-3D-gaussian-splatting/
     description: '[**Contribute**](CONTRIBUTING.md) | [**MrNeRF**](https://www.mrnerf.com)'
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     notes: 'MISFIT: name has markdown formatting and is non-descriptive. Awesome-3DGS paper list.'
@@ -287,7 +279,6 @@ entries:
     url: https://nerf-w.github.io/
     description: Martin-Brualla et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L152-L158) <!---MartinBrualla20arxiv_nerfw-->
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -357,7 +348,6 @@ entries:
     url: https://people.eecs.berkeley.edu/~pratul/nerv/
     description: Srinivasan et al. CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L260-L266) <!---Srinivasan20arxiv_NeRV-->
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -385,7 +375,6 @@ entries:
     url: https://portrait-nerf.github.io/
     description: Gao et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L95-L101) <!---Gao20arxiv_pNeRF-->
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -442,7 +431,6 @@ entries:
     url: https://shuaifengzhi.com/Semantic-NeRF/
     description: Zhi et al., Arxiv 2021 | [bibtex](./citations/semantic-nerf.txt)
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -456,7 +444,6 @@ entries:
     url: https://sites.google.com/view/wbjang/home/codenerf
     description: Jang et al., ICCV 2021 | [bibtex](./citations/CodeNeRF.txt)
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -470,7 +457,6 @@ entries:
     url: https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362
     description: Comprehensive overview of Gaussian Splatting.
     entry_type: tutorial
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -484,7 +470,6 @@ entries:
     url: https://video-nerf.github.io/
     description: Xian et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L299-L305) <!---Xian20arxiv_stnif-->
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -526,7 +511,6 @@ entries:
     url: https://waymo.com/research/block-nerf/
     description: Tancik et al., Arxiv 2022 | [bibtex](./citations/Block-NeRF.txt)
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -540,7 +524,6 @@ entries:
     url: https://weiyithu.github.io/NerfingMVS/
     description: Wei et al., ICCV 2021 | [bibtex](./citations/NerfingMVS.txt)
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -568,7 +551,6 @@ entries:
     url: https://www.xuanprada.com/blog/2023/10/22/intro-to-gaussian-splatting
     description: Intro to gaussian splatting (and Unity plugin).
     entry_type: tutorial
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -583,7 +565,6 @@ entries:
     url: http://yenchenlin.me/inerf/
     description: Yen-Chen et al. IROS 2021 | [bibtex](./NeRF-and-Beyond.bib#L321-L327) <!---YenChen20arxiv_iNeRF-->
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -597,7 +578,6 @@ entries:
     url: https://yifanjiang19.github.io/alignerf
     description: Jiang et al., CVPR 2023 | [bibtex](./citations/AligNeRF.txt)
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -611,7 +591,6 @@ entries:
     url: https://yilundu.github.io/nerflow/
     description: Du et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L79-L85) <!---Du20arxiv_nerflow-->
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -625,7 +604,6 @@ entries:
     url: https://www.youtube.com/@pixelreconstruct
     description: Gaussian Splats Town Hall - Part 2.
     entry_type: channel
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -641,7 +619,6 @@ entries:
     url: https://www.youtube.com/@NeuralRendering
     description: Ben Mildenhall
     entry_type: channel
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -657,7 +634,6 @@ entries:
     url: https://zhiwenfan.github.io/NeRF-SOS/
     description: Fan et al., ICLR 2023 | [bibtex](./citations/NeRF-SOS.txt)
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -671,7 +647,6 @@ entries:
     url: https://ziyanw1.github.io/hybrid_nerf/
     description: Wang et al., Arxiv 2020 | [bibtex](./citations/hybrid-nerf.txt) <!---Wang20arxiv_hybrid_NeRF-->
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

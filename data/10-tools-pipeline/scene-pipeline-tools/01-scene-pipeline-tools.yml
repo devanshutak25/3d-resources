@@ -74,7 +74,7 @@ entries:
       - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Belongs in photogrammetry-scanning subsection
+    notes: 'RELOCATE: misfit flagged'
   - name: A Trip Through The Graphics Pipeline
     url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
     description: A-trip-through-the-graphics-pipeline.
@@ -89,7 +89,7 @@ entries:
       - Graphics
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Reference book, not a pipeline tool
+    notes: 'RELOCATE: misfit flagged'
   - name: Dailies
     url: https://github.com/vfxpaco85/dailies/
     description: Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
@@ -149,14 +149,13 @@ entries:
       - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: General multimedia framework, not 3D-specific
+    notes: 'RELOCATE: misfit flagged'
   - name: Pipeline Developer Forum
     url: https://pipedev.org
     description: Pipeline Developer Forum.
     license: Free
     entry_type: community
     best_for: Pipeline TD community
-    tags: {}
     readme_tags:
       - Community
       - Pipeline
@@ -184,20 +183,18 @@ entries:
     license: Paid
     entry_type: community
     best_for: Pipeline TD conference
-    tags: {}
     readme_tags:
       - Conference
       - Pipeline
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Conference, was tagged as software
+    notes: 'RELOCATE: misfit flagged'
   - name: Tik Manager (site)
     url: https://tik-manager.com
     description: Artist-friendly asset and pipeline manager.
     license: Freemium
     entry_type: software
     best_for: Asset/pipeline management
-    tags: {}
     readme_tags:
       - Pipeline
       - Asset Mgmt
@@ -346,8 +343,6 @@ entries:
     tags:
       tech:
         - opensource-alt
-      software:
-        - maya
     readme_tags:
       - Maya
       - Open Source
@@ -362,8 +357,6 @@ entries:
     tags:
       tech:
         - opensource-alt
-      software:
-        - maya
     readme_tags:
       - Maya
       - Open Source
@@ -378,8 +371,6 @@ entries:
     tags:
       tech:
         - opensource-alt
-      software:
-        - 3dsmax
     readme_tags:
       - 3ds Max
       - Open Source
@@ -394,8 +385,6 @@ entries:
     tags:
       tech:
         - opensource-alt
-      software:
-        - maya
     readme_tags:
       - Maya
       - Open Source
@@ -467,15 +456,12 @@ entries:
     license: Free
     entry_type: software
     best_for: USD Hydra in Blender
-    tags:
-      software:
-        - blender
     readme_tags:
       - USD
       - Blender
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Better fit in usd subsection
+    notes: 'RELOCATE: misfit flagged'
   - name: Haystack
     url: https://haystack.deepset.ai/
     description: End-to-end NLP framework | Pipelines, document stores |
@@ -491,7 +477,7 @@ entries:
       - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: NLP framework, not a CG pipeline tool
+    notes: 'RELOCATE: misfit flagged'
   - name: Hugging Face Transformers
     url: https://huggingface.co/transformers
     description: State-of-the-art NLP models and pipelines.
@@ -507,7 +493,7 @@ entries:
       - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: NLP library, not a CG pipeline tool
+    notes: 'RELOCATE: misfit flagged'
   - name: Radeon ProRender
     url: https://www.amd.com/en/technologies/radeon-prorender
     description: Physically-based engine, product by AMD.
@@ -522,7 +508,7 @@ entries:
       - Free
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Renderer, not a pipeline tool
+    notes: 'RELOCATE: misfit flagged'
   - name: CGAL
     url: https://www.cgal.org/
     description: A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
@@ -548,8 +534,6 @@ entries:
         - rendering
       tech:
         - opensource-alt
-      software:
-        - blender
     readme_tags:
       - Render Farm
       - Blender
@@ -577,13 +561,12 @@ entries:
     license: Free
     entry_type: reference
     best_for: GPU pipeline deep dive
-    tags: {}
     readme_tags:
       - Graphics
       - Reference
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Article series, not a pipeline tool
+    notes: 'RELOCATE: misfit flagged'
   - name: BoatAttack
     url: https://github.com/Verasl/BoatAttack
     description: Demo Project using the Lightweight Render Pipeline from Unity3D.
@@ -593,14 +576,12 @@ entries:
     tags:
       tech:
         - opensource-alt
-      software:
-        - unity
     readme_tags:
       - Unity
       - Demo
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Unity demo, not a CG pipeline tool
+    notes: 'RELOCATE: misfit flagged'
   - name: BlenderProc
     url: https://github.com/DLR-RM/BlenderProc
     description: A procedural Blender pipeline for photorealistic training image generation.
@@ -611,8 +592,6 @@ entries:
       tech:
         - opensource-alt
         - ai-ml
-      software:
-        - blender
     readme_tags:
       - Blender
       - Synthetic Data
@@ -648,7 +627,7 @@ entries:
       - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Streaming software, not a CG pipeline tool
+    notes: 'RELOCATE: misfit flagged'
   - name: QtWebengine
     url: https://github.com/qt/qtwebengine
     description: Render web content in Qt.
@@ -663,7 +642,7 @@ entries:
       - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Generic Qt module, not a CG pipeline tool
+    notes: 'RELOCATE: misfit flagged'
   - name: MayaCharm
     url: https://github.com/cmcpasserby/MayaCharm
     description: Run and edit Maya scripts directly from PyCharm
@@ -673,8 +652,6 @@ entries:
     tags:
       tech:
         - opensource-alt
-      software:
-        - maya
     readme_tags:
       - Maya
       - IDE
@@ -689,8 +666,6 @@ entries:
     tags:
       tech:
         - opensource-alt
-      software:
-        - maya
     readme_tags:
       - Maya
       - IDE
@@ -705,8 +680,6 @@ entries:
     tags:
       tech:
         - opensource-alt
-      software:
-        - houdini
     readme_tags:
       - Houdini
       - IDE
@@ -721,8 +694,6 @@ entries:
     tags:
       tech:
         - opensource-alt
-      software:
-        - nuke
     readme_tags:
       - Nuke
       - IDE
@@ -743,7 +714,7 @@ entries:
       - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: LLM data pipeline, not a CG pipeline tool
+    notes: 'RELOCATE: misfit flagged'
   - name: shashikg/WhisperS2T
     url: https://github.com/shashikg/WhisperS2T
     description: An Optimized Speech-to-Text Pipeline for the Whisper Model
@@ -759,4 +730,4 @@ entries:
       - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    misfit: Speech-to-text, not a CG pipeline tool
+    notes: 'RELOCATE: misfit flagged'

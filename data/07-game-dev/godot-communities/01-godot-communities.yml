@@ -3,7 +3,6 @@ entries:
     url: https://www.reddit.com/r/godot/
     description: 350k+ members, very active.
     entry_type: community
-    license: null
     readme_tags:
       - Reddit
       - Very Active
@@ -18,7 +17,6 @@ entries:
     url: https://discord.gg/4JBkykG
     description: Official Discord.
     entry_type: community
-    license: null
     readme_tags:
       - Discord
       - Official
@@ -33,7 +31,6 @@ entries:
     url: https://forum.godotengine.org/
     description: Official forum.
     entry_type: community
-    license: null
     readme_tags:
       - Forum
       - Official

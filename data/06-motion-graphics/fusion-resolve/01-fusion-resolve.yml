@@ -3,7 +3,6 @@ entries:
     url: https://www.steakunderwater.com/VFXPedia/96.0.243.189/index4875.html?title=Main_Page
     description: Reference wiki for Fusion.
     entry_type: reference
-    license: null
     readme_tags:
       - Wiki
       - Reference
@@ -19,7 +18,6 @@ entries:
     url: https://forum.blackmagicdesign.com/viewtopic.php?f=22&t=39964
     description: Multichannel EXR workflow in Fusion.
     entry_type: reference
-    license: null
     readme_tags:
       - EXR
       - Multichannel
@@ -35,7 +33,6 @@ entries:
     url: http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion
     description: Split EXR in Fusion guide.
     entry_type: tutorial
-    license: null
     readme_tags:
       - EXR
       - Fusion

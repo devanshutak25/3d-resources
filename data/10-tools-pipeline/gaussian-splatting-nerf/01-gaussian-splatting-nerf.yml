@@ -62,7 +62,6 @@ entries:
   - name: 'Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion'
     url: https://3d-avatar-diffusion.microsoft.com/
     description: Wang et al., CVPR 2023 | [github](https://3d-avatar-diffusion.microsoft.com/) | [bibtex](./citations/rodin.txt)
-    license: null
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok

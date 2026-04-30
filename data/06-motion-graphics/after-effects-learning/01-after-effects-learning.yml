@@ -2,7 +2,6 @@ entries:
   - name: Top 5 Expressions (graymachine)
     url: http://www.graymachine.com/top-5-effects-expressions/
     description: Essential AE expressions.
-    license: null
     entry_type: reference
     readme_tags:
       - Expressions

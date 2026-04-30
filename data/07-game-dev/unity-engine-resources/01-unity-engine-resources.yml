@@ -15,7 +15,6 @@ entries:
     url: https://unity.com/unity/features/ar
     description: '[Unity’s AR Foundation Framework](https://unity.com/unity/features/arfoundation)  ,   [Unity MARS](https://unity.com/products/unity-mars)'
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -103,7 +102,6 @@ entries:
     url: https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/
     description: Unity Package Manager 2018.3+.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -115,7 +113,6 @@ entries:
     url: https://blogs.unity3d.com/es/
     description: News and deep insights involving Unity development.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -127,7 +124,6 @@ entries:
     url: https://blogs.unity3d.com/2016/12/15/editorvr-experimental-build-available-today/
     description: EDITORVR EXPERIMENTAL BUILD BLOG Unity.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -139,7 +135,6 @@ entries:
     url: https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/
     description: Hotkeys for Unity editor.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -151,7 +146,6 @@ entries:
     url: https://devdog.io/blog/?tag=UnityTips
     description: Tweets gathered by Devdog with tips and tricks posted by developers.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -163,7 +157,6 @@ entries:
     url: https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html
     description: '![Official](UnityResource16x16.png)'
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -176,7 +169,6 @@ entries:
     url: http://docs.unity3d.com/Manual/VROverview.html
     description: Unity's official documentation on developing virtual reality applications.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -189,7 +181,6 @@ entries:
     url: https://docs.unity3d.com/Manual/UnityHotkeys.html
     description: Unity manual's page with editor hotkeys.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -201,7 +192,6 @@ entries:
     url: http://docs.unity3d.com/Manual/VirtualReality.html
     description: Unity Documentation for VR.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

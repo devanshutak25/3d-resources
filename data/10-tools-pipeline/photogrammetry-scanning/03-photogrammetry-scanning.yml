@@ -2,34 +2,26 @@ entries:
   - name: Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering
     url: https://zju3dv.github.io/object_nerf/
     description: Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) | [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf-->
-    entry_type: software  # MISFIT: research paper with code release; consider entry_type: paper
-    license: unknown
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - photogrammetry
         - nerf
-      topic:
-        - scene-editing
-        - neural-rendering
     readme_tags:
       - nerf
       - scene-editing
   - name: 'SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field'
     url: https://zju3dv.github.io/sine/
     description: Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE)  | [bibtex](./citations/sine.txt)
-    entry_type: software  # MISFIT: research paper with code release; consider entry_type: paper
-    license: unknown
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - photogrammetry
         - nerf
-      topic:
-        - scene-editing
-        - neural-rendering
     readme_tags:
       - nerf
       - scene-editing

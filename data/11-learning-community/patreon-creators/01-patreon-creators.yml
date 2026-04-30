@@ -3,7 +3,7 @@ entries:
     url: https://www.patreon.com/merkvilson
     description: Patreon — Merk.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -12,14 +12,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
   - name: msedov
     url: https://www.patreon.com/msedov
     description: Patreon — msedov.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -28,14 +25,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
   - name: The French Monkey
     url: https://www.patreon.com/TFMStyle
     description: Patreon — The French Monkey.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -44,16 +38,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
-      software:
-        - cinema-4d
   - name: Xuxoe
     url: https://www.patreon.com/xuxoe
     description: Patreon — Xuxoe.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -62,14 +51,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
   - name: MotionPunk
     url: https://www.patreon.com/motionpunk
     description: Patreon — MotionPunk.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Motion
@@ -78,16 +64,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
-      topic:
-        - motion-graphics
   - name: Dusan Vukcevic
     url: https://www.patreon.com/vudu
     description: Patreon — Dusan Vukcevic.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -96,14 +77,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
   - name: Vincent Schwenk (Patreon)
     url: https://www.patreon.com/vincentschwenk
     description: Patreon — Vincent Schwenk.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Motion
@@ -112,16 +90,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
-      topic:
-        - motion-graphics
   - name: Entagma (Patreon)
     url: https://www.patreon.com/entagma
     description: Patreon — Entagma.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Houdini
@@ -130,16 +103,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
-      software:
-        - houdini
   - name: Arthur Whitehead (Patreon)
     url: https://www.patreon.com/arthurwhitehead
     description: Patreon — Arthur Whitehead.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Motion
@@ -148,16 +116,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
-      topic:
-        - motion-graphics
   - name: Philiplueck
     url: https://www.patreon.com/philiplueck
     description: Patreon — Philiplueck.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -166,14 +129,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
   - name: Kaeptive
     url: https://www.patreon.com/Kaeptive
     description: Patreon — Kaeptive.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -182,14 +142,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
   - name: Jesus Suarez
     url: https://www.patreon.com/jssuarez
     description: Patreon — Jesus Suarez.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -198,14 +155,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
   - name: NewPlastic
     url: https://www.patreon.com/NewPlastic
     description: Patreon — NewPlastic.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Stylized
@@ -214,16 +168,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
-      style:
-        - stylized
   - name: Max Salzborn
     url: https://www.patreon.com/maxsalzborn
     description: Patreon — Max Salzborn.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -232,14 +181,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
   - name: Gonzzzalo
     url: https://www.patreon.com/gonzzzalo
     description: Patreon — Gonzzzalo.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Creator
@@ -248,14 +194,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
   - name: Ross Mason (Patreon)
     url: https://www.patreon.com/iamrossmason
     description: Patreon — Ross Mason.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Motion
@@ -264,16 +207,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
-      topic:
-        - motion-graphics
   - name: John Kunz (Patreon)
     url: https://patreon.com/johnkunz
     description: Patreon — John Kunz.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Houdini
@@ -282,16 +220,11 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
-      software:
-        - houdini
   - name: Christopher Rutledge (Patreon)
     url: https://www.patreon.com/tokyomegaplex
     description: Patreon — Christopher Rutledge.
     entry_type: channel
-    license: proprietary
+    license: Paid
     readme_tags:
       - Patreon
       - Houdini
@@ -300,8 +233,3 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - patreon
-        - tutorials
-      software:
-        - houdini

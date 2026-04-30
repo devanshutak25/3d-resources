@@ -208,7 +208,6 @@ entries:
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags: {}
     notes: 'MISFIT: not AI — sprite/UI utility. Belongs under game-dev tools.'
   - name: Rosebud AI
     url: https://rosebud.ai

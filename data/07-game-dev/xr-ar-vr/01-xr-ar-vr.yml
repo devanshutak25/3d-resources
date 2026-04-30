@@ -3,7 +3,6 @@ entries:
     url: https://blender.stackexchange.com/
     description: Blender Q&A community on Stack Exchange.
     entry_type: community
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -17,7 +16,6 @@ entries:
     url: https://blog.pusher.com/building-ar-game-arkit-spritekit/
     description: Building an AR game with ARKit and Spritekit.
     entry_type: tutorial
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -43,7 +41,6 @@ entries:
     url: https://developer.apple.com/documentation/arkit/content_anchors/capturing_body_motion_in_3d
     description: Capturing Body Motion in 3D | Apple Developer Documentation.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -56,7 +53,6 @@ entries:
     url: https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture
     description: Rigging a Model for Motion Capture | Apple Developer Documentation.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -69,7 +65,6 @@ entries:
     url: https://developer.oculus.com/resources/bp-rendering/
     description: Rendering | Oculus Developers.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -135,7 +130,6 @@ entries:
     url: http://ralphbarbagallo.com/2015/05/26/how-to-support-gear-vr-and-google-cardboard-in-one-unity3d-project/
     description: How to support GearVR and Google Cardboard in one Unity3D project.
     entry_type: tutorial
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -148,7 +142,6 @@ entries:
     url: https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1
     description: '[Mirror](https://archive.is/qHQXY) - [Mirror 2](https://web.archive.org/web/20170515082222/https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1)'
     entry_type: tutorial
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -161,7 +154,6 @@ entries:
     url: https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2
     description: '[Mirror](https://archive.is/9IyFG) - [Mirror 2](https://web.archive.org/web/20170609191610/https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2)'
     entry_type: tutorial
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -187,7 +179,6 @@ entries:
     url: https://somedudes.ch/2017/02/21/how-to-create-a-minimap-for-vr-in-unity/
     description: '[Mirror](https://archive.is/Sy5NG)'
     entry_type: tutorial
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -226,7 +217,6 @@ entries:
     url: http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/
     description: '[Mirror](https://archive.is/qCMTY) - [Mirror 2](https://web.archive.org/web/20170201100941/http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/)'
     entry_type: tutorial
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -255,7 +245,6 @@ entries:
     url: http://doc-ok.org/
     description: Good resource to get started learning about VR / stereo rendering.
     entry_type: reference
-    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

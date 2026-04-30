@@ -3,7 +3,6 @@ entries:
     url: https://docs.google.com/spreadsheets/d/1hLki-RUHJXgYj_RJKWlwUXfrWUWEi9yIcyLzEifxYrY
     description: Industry salary data.
     entry_type: reference
-    license: user-content
     readme_tags:
       - Salary Data
       - Animation
@@ -12,15 +11,10 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - salary-data
-      domain:
-        - animation
   - name: Animation Studio Reviews
     url: https://docs.google.com/spreadsheets/d/1aJHCQSA2dFdu4Fy__T3yDyiNqO0jMUBcku0EjKX3SZI
     description: Studio review spreadsheet.
     entry_type: reference
-    license: user-content
     readme_tags:
       - Studio Reviews
       - Animation
@@ -29,15 +23,10 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - studio-reviews
-      domain:
-        - animation
   - name: Job Openings Tracker
     url: https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/
     description: Animation/VFX jobs tracker.
     entry_type: reference
-    license: user-content
     readme_tags:
       - Jobs
       - Animation/VFX
@@ -46,8 +35,3 @@ entries:
     tags:
       platform:
         - web
-      content_type:
-        - jobs
-      domain:
-        - animation
-        - vfx

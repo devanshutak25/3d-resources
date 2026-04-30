@@ -177,7 +177,6 @@ entries:
     notes: RELOCATE - Awesome list on 3D human research, unrelated to Blender addons. Move to research/reference section.
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags: {}
   - name: Awesome 3D Printing
     url: https://github.com/ad-si/awesome-3d-printing
     description: A curated list of awesome 3D printing resources.
@@ -186,7 +185,6 @@ entries:
     notes: RELOCATE - 3D printing awesome list, unrelated to Blender addons. Move to 3D printing section.
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags: {}
   - name: 3 D Machine Learning
     url: https://github.com/timzhang642/3D-Machine-Learning
     description: A resource repository for 3D machine learning.

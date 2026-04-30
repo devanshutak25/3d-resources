@@ -3,7 +3,6 @@ entries:
     url: https://www.youtube.com/@MaxonVFX
     description: Jarred van de Voort, NAB 2023.
     entry_type: channel
-    license: null
     tags:
       output:
         - product-viz
@@ -24,7 +23,6 @@ entries:
     url: https://www.youtube.com/@MaxonTrainingTeam
     description: Redshift lighting techniques.
     entry_type: channel
-    license: null
     readme_tags:
       - Redshift
       - MoGraph
@@ -45,7 +43,6 @@ entries:
     url: https://www.youtube.com/@YouAndMeAcademy
     description: Light groups workflow.
     entry_type: channel
-    license: null
     readme_tags:
       - Light Groups
       - Workflow
@@ -64,7 +61,6 @@ entries:
     url: https://www.youtube.com/@Cinema4DTutorialsSV
     description: Interior materials and lighting.
     entry_type: channel
-    license: null
     tags:
       output:
         - archviz
@@ -86,7 +82,6 @@ entries:
     url: https://www.youtube.com/@MotionAndDesign
     description: Art-directing lights across cloners.
     entry_type: channel
-    license: null
     readme_tags:
       - Cloner
       - Art Direction

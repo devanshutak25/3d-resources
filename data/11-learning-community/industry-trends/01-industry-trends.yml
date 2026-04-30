@@ -3,7 +3,6 @@ entries:
     url: https://www.fxguide.com/
     description: AI handling roto, denoise, upres, texture drafts, matchmove cleanup. Studios (ILM, Weta, DNEG) deploying at scale.
     entry_type: reference
-    license: editorial
     tags:
       tech:
         - ai-generative
@@ -16,7 +15,6 @@ entries:
     url: https://developer.nvidia.com/rtx
     description: Shipping in games (Cyberpunk 2077, Alan Wake 2). RTX 50-series + DLSS 4 with neural rendering.
     entry_type: reference
-    license: editorial
     tags:
       tech:
         - real-time
@@ -30,7 +28,6 @@ entries:
     url: https://www.w3.org/TR/webgpu/
     description: Shipped in Chrome. Three.js, Babylon.js, PlayCanvas adding WebGPU backends.
     entry_type: reference
-    license: editorial
     tags:
       tech:
         - real-time
@@ -46,10 +43,11 @@ entries:
     url: https://www.blender.org/
     description: EEVEE Next (GPU ray tracing), Vulkan backend, extensions platform.
     entry_type: reference
-    license: editorial
     tags:
       platform:
-        - desktop
+        - win
+        - mac
+        - linux
     readme_tags:
       - Blender
       - Production-viable
@@ -59,7 +57,6 @@ entries:
     url: https://www.disguise.one/
     description: LED volumes maturing from bleeding-edge to standardized.
     entry_type: reference
-    license: editorial
     tags:
       output:
         - film-vfx
@@ -73,7 +70,6 @@ entries:
     url: https://developer.nvidia.com/rtx/ray-tracing/neural-rendering
     description: NVIDIA Neural Texture Compression, Neural Radiance Cache. Disney/Weta publishing on neural light transport.
     entry_type: reference
-    license: editorial
     tags:
       tech:
         - real-time

@@ -158,11 +158,11 @@ entries:
     description: A tool to convert your HDRI file into a Cube map.
     license: Free
     entry_type: tool
-    platform:
-      - web
     notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - lighting
+      platform:
+        - web

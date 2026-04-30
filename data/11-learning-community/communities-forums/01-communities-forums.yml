@@ -137,8 +137,7 @@ entries:
         - opensource-alt
       output:
         - games
-    misfit: true
-    misfit_reason: Game engine project, not a community/forum.
+    notes: 'RELOCATE: Game engine project, not a community/forum.'
   - name: Cinder
     url: https://libcinder.org/
     description: Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
@@ -154,8 +153,7 @@ entries:
         - web
       tech:
         - opensource-alt
-    misfit: true
-    misfit_reason: C++ creative coding library, not a community/forum.
+    notes: 'RELOCATE: C++ creative coding library, not a community/forum.'
   - name: openMVG
     url: https://openmvg.readthedocs.io/en/latest/
     description: A library for computer-vision scientists targeted for the Multiple View Geometry community.
@@ -171,8 +169,7 @@ entries:
         - web
       tech:
         - photogrammetry
-    misfit: true
-    misfit_reason: Library docs, not a community/forum.
+    notes: 'RELOCATE: Library docs, not a community/forum.'
   - name: Py Game CE
     url: https://pyga.me/docs/index.html
     description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
@@ -188,8 +185,7 @@ entries:
         - web
       output:
         - games
-    misfit: true
-    misfit_reason: Python game library docs, not a community/forum.
+    notes: 'RELOCATE: Python game library docs, not a community/forum.'
   - name: Visual Studio Community Edition
     url: https://www.visualstudio.com/vs/community/
     description: A fully-featured, extensible, free IDE
@@ -204,8 +200,7 @@ entries:
       platform:
         - win
         - mac
-    misfit: true
-    misfit_reason: IDE software, not a community/forum.
+    notes: 'RELOCATE: IDE software, not a community/forum.'
   - name: 3DVF
     url: http://3dvf.com
     description: French CG news and community.
@@ -374,8 +369,7 @@ entries:
     tags:
       platform:
         - web
-    misfit: true
-    misfit_reason: Single Devpost project entry, not a community.
+    notes: 'RELOCATE: Single Devpost project entry, not a community.'
   - name: Way For Ball (Community Choice)
     url: https://devpost.com/software/way-for-ball
     description: Way For Ball (Community Choice).
@@ -389,8 +383,7 @@ entries:
     tags:
       platform:
         - web
-    misfit: true
-    misfit_reason: Single Devpost project entry, not a community.
+    notes: 'RELOCATE: Single Devpost project entry, not a community.'
   - name: Hash (Community Choice)
     url: https://devpost.com/software/flutter-puzzle-hack-3sdug9
     description: Hash (Community Choice).
@@ -404,8 +397,7 @@ entries:
     tags:
       platform:
         - web
-    misfit: true
-    misfit_reason: Single Devpost project entry, not a community.
+    notes: 'RELOCATE: Single Devpost project entry, not a community.'
   - name: ccMixter.org
     url: http://dig.ccmixter.org/
     description: Community remix site operated by ArtisTech Media, created by Creative Commons. [![cc]](http://dig.ccmixter.org/licenses)
@@ -541,8 +533,7 @@ entries:
         - unity-plugin
       output:
         - games
-    misfit: true
-    misfit_reason: GitHub repo/library, not a community/forum.
+    notes: 'RELOCATE: GitHub repo/library, not a community/forum.'
   - name: UnitySingleton
     url: https://github.com/UnityCommunity/UnitySingleton
     description: The best way to implement singleton pattern in Unity.
@@ -559,8 +550,7 @@ entries:
         - unity-plugin
       output:
         - games
-    misfit: true
-    misfit_reason: Single GitHub code sample, not a community.
+    notes: 'RELOCATE: Single GitHub code sample, not a community.'
   - name: HuggingFace AI Community
     url: https://huggingface.co/
     description: Host and collaborate on unlimited models, datasets and applications. |
@@ -592,8 +582,7 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
-    misfit: true
-    misfit_reason: Tool/software project, not primarily a community/forum.
+    notes: 'RELOCATE: Tool/software project, not primarily a community/forum.'
   - name: Introduction to pixel art
     url: http://pixeljoint.com/forum/forum_posts.asp?TID=11299
     description: Introduction to pixel art.
@@ -637,8 +626,7 @@ entries:
         - web
       output:
         - scientific-viz
-    misfit: true
-    misfit_reason: Dataset portal, not a community/forum.
+    notes: 'RELOCATE: Dataset portal, not a community/forum.'
   - name: Reddit's Unity Best Practices
     url: https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/
     description: Reddit's thread with best practices collected by Unity developers.
@@ -744,5 +732,4 @@ entries:
         - web
       tech:
         - gpu
-    misfit: true
-    misfit_reason: Software tool announcement, not a community/forum.
+    notes: 'RELOCATE: Software tool announcement, not a community/forum.'
