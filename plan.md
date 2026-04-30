@@ -157,7 +157,11 @@ Deliverable: pass-driven editing is a routine workflow, not a one-off script.
 
 ---
 
-## Step 7 — qualityScore consolidation
+## Step 7 — qualityScore consolidation ✅ done 2026-04-30
+
+Shipped: `scripts/lib/quality-score.js` exporting `qualityScore(entry) → {score, factors}`. Table-driven tests in `scripts/lib/quality-score.test.js` (13 cases, all green) lock the seven factors below. Replaced the duplicated numeric `score` impls in `scripts/dedupe-entries.js` and `scripts/quality-scan.js` (dedupe-fuzzy mode). Output of `dedupe-entries.js`, `quality-scan.js scan`, and `quality-scan.js dedupe-fuzzy` byte-identical pre/post on real data.
+
+Skipped (no overlapping numeric score to consolidate): `quarantine-low.js` uses categorical signals (thin-description, short-name, missing-hint-keyword, etc.) keyed for human-review explanations — different concern; `triage-candidates.js` operates on external candidates with relevance/category logic, no per-entry score. Both retain their existing logic.
 
 `scripts/lib/quality-score.js`:
 

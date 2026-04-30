@@ -8,6 +8,7 @@
 
 const catalog = require('./lib/catalog');
 const { canonicalUrl } = require('./lib/canonical-url');
+const { qualityScore } = require('./lib/quality-score');
 
 const normUrl = canonicalUrl;
 function host(u){ try{ return new URL(u).hostname.replace(/^www\./,'').toLowerCase(); }catch(e){ return ''; } }
@@ -15,18 +16,7 @@ function host(u){ try{ return new URL(u).hostname.replace(/^www\./,'').toLowerCa
 const EXCLUDE_HOSTS_R2 = new Set([
   'github.com','gitlab.com','bitbucket.org','arxiv.org','itch.io','youtube.com'
 ]);
-function pathDepth(u){ try{ const p = new URL(u).pathname.replace(/\/+$/,''); return p === '' ? 0 : p.split('/').length - 1; }catch(e){ return 99; } }
-function score(e){
-  let s = 0;
-  if(e.url_status === 'ok') s += 50;
-  s += Math.max(0, 20 - pathDepth(e.url) * 5);
-  try{ if(!new URL(e.url).search) s += 5; }catch(e){}
-  s += Math.min(30, (e.description||'').length / 4);
-  s += Object.keys(e.tags||{}).length * 3;
-  s += (e.readme_tags||[]).length;
-  if(e.license) s += 2;
-  return s;
-}
+const score = (e) => qualityScore(e).score;
 
 // Index every entry with a stable address: chunk._path + index in chunk.entries
 const all = []; // {chunk, idx, sub, entry, key}

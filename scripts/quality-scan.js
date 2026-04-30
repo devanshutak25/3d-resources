@@ -4,6 +4,7 @@
 // Modes: scan (report only), fix-desc, fix-names, dedupe-fuzzy.
 
 const catalog = require('./lib/catalog');
+const { qualityScore } = require('./lib/quality-score');
 const mode = process.argv[2] || 'scan';
 
 function host(u){ try{ return new URL(u).hostname.replace(/^www\./,'').toLowerCase(); }catch(e){ return ''; } }
@@ -149,16 +150,7 @@ if (mode === 'fix-names') {
 }
 
 if (mode === 'dedupe-fuzzy') {
-  function score(e) {
-    let s = 0;
-    if (e.url_status === 'ok') s += 50;
-    s += (e.description||'').length / 4;
-    s += Object.keys(e.tags||{}).length * 3;
-    s += (e.readme_tags||[]).length;
-    if (e.license) s += 2;
-    try { const p = new URL(e.url).pathname.replace(/\/+$/,''); s += Math.max(0, 20 - (p === '' ? 0 : p.split('/').length-1) * 5); } catch (e) {}
-    return s;
-  }
+  const score = (e) => qualityScore(e).score;
   const removals = [];
   for (const arr of fuzzyDupes) {
     arr.sort((a, b) => score(b.entry) - score(a.entry));
