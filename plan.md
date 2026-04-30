@@ -122,9 +122,15 @@ Deliverable: one function, one test file, N call sites.
 
 ---
 
-## Step 6 — Pass driver + first pass
+## Step 6 — Pass driver + first pass ✅ done 2026-04-30
 
-The new capability the chunking enabled.
+Shipped: `scripts/pass.js` driver + `scripts/passes/verify-tags.js` first pass. Driver loads `passes/<task>.js` (must export `{ describe, runOnChunk(chunk, ctx) }`), iterates chunks via Catalog, injects ctx (section/sub slugs + descriptions from section file), saves+commits per chunk on `--apply`, writes resumable state to `_maintenance/passes/<task>-<date>.json`. Default is dry-run; `--apply` required for writes. Auto-creates `pass/<task>-<date>` branch (overridable with `--branch=`, skippable with `--no-branch --no-commit`). Refuses to run if working tree dirty in apply+branch+commit mode. Supports `--chunk=<id>`, `--resume`, `PASS_VERBOSE=1`.
+
+Verified:
+- Dry-run over all 158 chunks: 0 changes (catalog clean — validate already enforces vocab end-to-end).
+- Single-chunk filter works (`--chunk=01-assets/asset-marketplaces/01-asset-marketplaces`).
+- Synthetic fixture: drops unknown closed-enum values (`workflow:[BAD]`, `output:[WAT]`, `platform:[WIN]`), dedupes within groups (incl. open `tech`), drops bogus `entry_type`/`license`, prunes empty tag groups + empty `tags` objects. Idempotent.
+- Argument errors exit 2 with clear messages.
 
 `scripts/pass.js`:
 
