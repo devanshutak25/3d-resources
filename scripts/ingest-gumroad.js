@@ -7,9 +7,9 @@
 
 const fs = require('fs');
 const path = require('path');
-const yaml = require('js-yaml');
 
 const { loadCatalogUrls, loadSeen, saveSeen, writeReport, FRESH_DIR, normalize } = require('./lib/ingest-core');
+const catalogLib = require('./lib/catalog');
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0 Safari/537.36';
 
@@ -42,19 +42,14 @@ async function fetchProducts(subdomain) {
   return out;
 }
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const WATCH_PATH = path.join(FRESH_DIR, 'watchlist-gumroad.json');
 
 async function seed() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
   const creators = new Set();
-  for (const m of sections.sections) {
-    const doc = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
-    for (const sub of doc.subsections || []) for (const e of sub.entries || []) {
-      if (e.deprecated) continue;
-      const m2 = e.url.match(/^https?:\/\/([^\/]+)\.gumroad\.com/i);
-      if (m2) creators.add(m2[1].toLowerCase());
-    }
+  for (const { entry: e } of catalogLib.iterEntries()) {
+    if (e.deprecated) continue;
+    const m2 = e.url.match(/^https?:\/\/([^\/]+)\.gumroad\.com/i);
+    if (m2) creators.add(m2[1].toLowerCase());
   }
   const existing = fs.existsSync(WATCH_PATH) ? JSON.parse(fs.readFileSync(WATCH_PATH, 'utf8')) : { creators: [] };
   const have = new Set(existing.creators.map(c => c.subdomain));

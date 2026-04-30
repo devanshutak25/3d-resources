@@ -1,11 +1,9 @@
 #!/usr/bin/env node
 // Exports every entry in data/*.yml to a single CSV.
 
-const yaml = require('js-yaml');
 const fs = require('fs');
-const path = require('path');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const OUT = process.argv[2];
 if (!OUT) { console.error('Usage: node export-csv.js <path.csv>'); process.exit(1); }
 
@@ -31,46 +29,29 @@ function join(v) {
 }
 
 function main() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
+  const fileToSlug = new Map();
+  for (const meta of catalog.loadSections().sections) {
+    fileToSlug.set(meta.file, catalog.loadSection(meta.file).slug);
+  }
   const rows = [COLUMNS.join(',')];
   let count = 0;
-  for (const meta of sections.sections) {
-    const fp = path.join(DATA_DIR, meta.file);
-    if (!fs.existsSync(fp)) continue;
-    const doc = yaml.load(fs.readFileSync(fp, 'utf8'));
-    for (const sub of doc.subsections || []) {
-      for (const e of sub.entries || []) {
-        const tags = e.tags || {};
-        const row = [
-          doc.slug,
-          sub.slug,
-          e.name,
-          e.url,
-          e.description,
-          e.entry_type,
-          e.license,
-          e.pricing,
-          e.best_for,
-          join(e.readme_tags),
-          join(tags.workflow),
-          join(tags.output),
-          join(tags.platform),
-          join(tags.skill),
-          join(tags.tech),
-          e.deprecated ? 'true' : '',
-          e.url_status,
-          e.url_last_verified,
-          e.pricing_last_verified,
-          e.host_compat,
-          e.notes,
-          join(e.dual_listed_in)
-        ].map(escCsv).join(',');
-        rows.push(row);
-        count++;
-      }
-    }
+  for (const { sectionFile, subSlug, entry: e } of catalog.iterEntries()) {
+    const tags = e.tags || {};
+    const row = [
+      fileToSlug.get(sectionFile),
+      subSlug,
+      e.name, e.url, e.description,
+      e.entry_type, e.license, e.pricing, e.best_for,
+      join(e.readme_tags),
+      join(tags.workflow), join(tags.output), join(tags.platform), join(tags.skill), join(tags.tech),
+      e.deprecated ? 'true' : '',
+      e.url_status, e.url_last_verified, e.pricing_last_verified,
+      e.host_compat, e.notes,
+      join(e.dual_listed_in)
+    ].map(escCsv).join(',');
+    rows.push(row);
+    count++;
   }
-  // Write with UTF-8 BOM so Excel opens it correctly
   fs.writeFileSync(OUT, '\ufeff' + rows.join('\n') + '\n');
   console.log(`Wrote ${count} rows → ${OUT}`);
 }

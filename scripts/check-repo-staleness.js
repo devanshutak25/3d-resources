@@ -5,9 +5,8 @@
 
 const fs = require('fs');
 const path = require('path');
-const yaml = require('js-yaml');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const OUT_DIR  = path.join(__dirname, '..', '_maintenance', 'freshness');
 if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });
 const OUT = path.join(OUT_DIR, 'staleness.json');
@@ -58,17 +57,11 @@ function monthsBetween(a, b) {
 }
 
 async function main() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
   const targets = [];
-  for (const m of sections.sections) {
-    const doc = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
-    for (const sub of doc.subsections || []) {
-      for (const e of sub.entries || []) {
-        if (e.deprecated) continue;
-        const repo = extractRepo(e.url);
-        if (repo) targets.push({ file: m.file, sub: sub.slug, entry: e, repo });
-      }
-    }
+  for (const ie of catalog.iterEntries()) {
+    if (ie.entry.deprecated) continue;
+    const repo = extractRepo(ie.entry.url);
+    if (repo) targets.push({ file: ie.sectionFile, sub: ie.subSlug, entry: ie.entry, chunk: ie.chunk, repo });
   }
   console.log(`Checking ${targets.length} github.com entries…`);
 
@@ -81,9 +74,7 @@ async function main() {
 
   const now = new Date();
   const stale = [], archived = [], missing = [], errors = [];
-  // Map file→yml doc once so we can persist stale flag in one pass
-  const files = {};
-  for (const m of sections.sections) files[m.file] = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
+  const touched = new Map(); // chunk._path → chunk
 
   for (let i = 0; i < targets.length; i++) {
     const t = targets[i], r = results[i];
@@ -91,30 +82,25 @@ async function main() {
     if (r.rateLimited || r.error) { errors.push({ ...t, err: r.error || 'rate-limited' }); continue; }
     const pushed = new Date(r.pushed_at);
     const months = monthsBetween(pushed, now);
-    // Mutate cached doc so we can write once
-    const doc = files[t.file];
-    for (const sub of doc.subsections || []) {
-      if (sub.slug !== t.sub) continue;
-      const ent = (sub.entries || []).find(x => x.url === t.entry.url);
-      if (!ent) break;
-      if (r.archived) ent.archived = true;
-      else if (ent.archived) delete ent.archived;
-      if (months >= STALE_MONTHS) {
-        ent.stale = true;
-        ent.last_pushed = r.pushed_at.slice(0, 10);
-      } else if (ent.stale) {
-        // Reactivated — clear stale flag
-        delete ent.stale;
-        delete ent.last_pushed;
-      }
+
+    // Mutate the entry ref in its chunk; chunk is shared by reference.
+    const ent = t.entry;
+    if (r.archived) ent.archived = true;
+    else if (ent.archived) delete ent.archived;
+    if (months >= STALE_MONTHS) {
+      ent.stale = true;
+      ent.last_pushed = r.pushed_at.slice(0, 10);
+    } else if (ent.stale) {
+      delete ent.stale;
+      delete ent.last_pushed;
     }
+    touched.set(t.chunk._path, t.chunk);
 
     if (r.archived) archived.push({ file: t.file, sub: t.sub, name: t.entry.name, url: t.entry.url, repo: t.repo });
     if (months >= STALE_MONTHS) stale.push({ file: t.file, sub: t.sub, name: t.entry.name, url: t.entry.url, repo: t.repo, pushed: r.pushed_at.slice(0, 10), months, stars: r.stars });
   }
 
-  // Persist
-  for (const [f, doc] of Object.entries(files)) fs.writeFileSync(path.join(DATA_DIR, f), yaml.dump(doc, { lineWidth: -1, noRefs: true }));
+  for (const chunk of touched.values()) catalog.saveChunk(chunk);
 
   const summary = {
     generated_at: new Date().toISOString().slice(0, 10),

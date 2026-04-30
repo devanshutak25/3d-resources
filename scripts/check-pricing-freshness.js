@@ -4,9 +4,8 @@
 
 const fs = require('fs');
 const path = require('path');
-const yaml = require('js-yaml');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const OUT_DIR  = path.join(__dirname, '..', '_maintenance', 'freshness');
 if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });
 const OUT = path.join(OUT_DIR, 'pricing.json');
@@ -21,28 +20,22 @@ function daysBetween(a, b) {
 }
 
 function main() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
   const now = new Date();
   const stale = [];
   const missing = [];
   let totalPaid = 0;
 
-  for (const m of sections.sections) {
-    const doc = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
-    for (const sub of doc.subsections || []) {
-      for (const e of sub.entries || []) {
-        if (e.deprecated) continue;
-        if (!e.license || !PAID_LIKE.has(e.license)) continue;
-        totalPaid++;
-        const item = { file: m.file, sub: sub.slug, name: e.name, url: e.url, license: e.license, pricing: e.pricing };
-        if (!e.pricing_last_verified) {
-          missing.push(item);
-        } else {
-          const last = new Date(e.pricing_last_verified);
-          const days = daysBetween(last, now);
-          if (days > STALE_DAYS) stale.push({ ...item, last_verified: e.pricing_last_verified, days_old: days });
-        }
-      }
+  for (const { sectionFile, subSlug, entry: e } of catalog.iterEntries()) {
+    if (e.deprecated) continue;
+    if (!e.license || !PAID_LIKE.has(e.license)) continue;
+    totalPaid++;
+    const item = { file: sectionFile, sub: subSlug, name: e.name, url: e.url, license: e.license, pricing: e.pricing };
+    if (!e.pricing_last_verified) {
+      missing.push(item);
+    } else {
+      const last = new Date(e.pricing_last_verified);
+      const days = daysBetween(last, now);
+      if (days > STALE_DAYS) stale.push({ ...item, last_verified: e.pricing_last_verified, days_old: days });
     }
   }
 

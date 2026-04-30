@@ -68,11 +68,13 @@ Deliverable: every entry now lives in a ≤50-entry file. README byte-stable.
 
 ---
 
-## Step 4 — Catalog module + rewire active scripts
+## Step 4 — Catalog module + rewire active scripts ✅ done 2026-04-30
 
-Build the seam, migrate consumers one at a time.
+Built the seam, migrated every active consumer.
 
-Progress 2026-04-30: `scripts/lib/catalog.js` shipped with full surface (`loadSections`, `loadSection`, `listChunks`, `loadChunk`, `saveChunk`, `iterChunks`, `iterEntries`, `appendEntry`, `CHUNK_CAP`). Smoke test in `scripts/lib/catalog.test.js`. `render.js` and `validate.js` rewired through Catalog — render output byte-stable vs pre-rewire; validate runs clean (2 pre-existing dual_listed_in warnings unchanged).
+Shipped: `scripts/lib/catalog.js` (full surface: `loadSections`, `loadSection`, `listChunks`, `loadChunk`, `saveChunk`, `iterChunks`, `iterEntries`, `appendEntry`, `CHUNK_CAP=50`, atomic tmp+rename writes). Smoke test in `scripts/lib/catalog.test.js`. Every script in `scripts/` now reads/writes via Catalog; zero direct `data/*.yml` access remains outside archive.
+
+Rewired: `render.js`, `validate.js`, `export-data.js`, `build-html.js`, `audit-classification.js`, `check-pricing-freshness.js`, `check-links.js`, `dedupe-entries.js`, `quality-scan.js`, `quarantine-low.js`, `check-repo-staleness.js`, `dedupe-youtube.js`, `auto-tag.js`, `recheck-unreachable.js`, `mine-awesome.js`, `export-csv.js`, `lib/ingest-core.js`, `ingest-gumroad.js`, `ingest-youtube.js`. Render output byte-stable vs pre-rewire baseline. Scripts with no `data/` access (`triage-candidates.js`, `freshness-digest.js`, `watch-releases.js`, `ingest-80lvl.js`, `ingest-itch.js`) untouched.
 
 `scripts/lib/catalog.js`:
 
@@ -90,9 +92,9 @@ Migration order (one PR each, with tests):
 
 1. `render.js` — exercises `iterEntries` + alphabetical render sort. Highest leverage. ✅ done 2026-04-30
 2. `validate.js` — schema/vocab/duplicates over `iterEntries`. ✅ done 2026-04-30
-3. `export-data.js` — JSON export for site filter UI.
-4. `dedupe-entries.js` — cross-chunk read, mutating writes via `saveChunk`.
-5. `audit-classification.js`, `auto-tag.js`, `quality-scan.js`, `quarantine-low.js`, `freshness-digest.js`, `triage-candidates.js`, `check-links.js`, `check-pricing-freshness.js`, `check-repo-staleness.js`, `recheck-unreachable.js`, `dedupe-youtube.js`, `watch-releases.js`, `mine-awesome.js`, `ingest-*.js` — convert as needed.
+3. `export-data.js` — JSON export for site filter UI. ✅ done 2026-04-30
+4. `dedupe-entries.js` — cross-chunk read, mutating writes via `saveChunk`. ✅ done 2026-04-30
+5. `audit-classification.js`, `auto-tag.js`, `quality-scan.js`, `quarantine-low.js`, `check-links.js`, `check-pricing-freshness.js`, `check-repo-staleness.js`, `recheck-unreachable.js`, `dedupe-youtube.js`, `mine-awesome.js`, `export-csv.js`, `build-html.js`, `lib/ingest-core.js`, `ingest-gumroad.js`, `ingest-youtube.js` — ✅ done 2026-04-30. (`triage-candidates.js`, `freshness-digest.js`, `watch-releases.js`, `ingest-80lvl.js`, `ingest-itch.js` had no data/ access — untouched.)
 
 Each script PR: replace ad-hoc YAML walks with Catalog calls; add fixture-based test for the script's core behavior (the Catalog interface is the test surface).
 

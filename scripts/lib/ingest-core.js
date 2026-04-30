@@ -1,10 +1,9 @@
 // Shared helpers for ingestion adapters.
 const fs = require('fs');
 const path = require('path');
-const yaml = require('js-yaml');
+const catalog = require('./catalog');
 
 const ROOT = path.join(__dirname, '..', '..');
-const DATA_DIR = path.join(ROOT, 'data');
 const FRESH_DIR = path.join(ROOT, '_maintenance', 'freshness');
 if (!fs.existsSync(FRESH_DIR)) fs.mkdirSync(FRESH_DIR, { recursive: true });
 
@@ -22,12 +21,8 @@ function normalize(u) {
 }
 
 function loadCatalogUrls() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
   const set = new Set();
-  for (const m of sections.sections) {
-    const doc = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
-    for (const sub of doc.subsections || []) for (const e of sub.entries || []) set.add(normalize(e.url));
-  }
+  for (const { entry } of catalog.iterEntries()) set.add(normalize(entry.url));
   return set;
 }
 

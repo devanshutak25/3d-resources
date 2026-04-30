@@ -6,8 +6,8 @@
 const fs = require('fs');
 const path = require('path');
 const yaml = require('js-yaml');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const Q_PATH = path.join(__dirname, '..', '_maintenance', 'quarantine.yml');
 
 // Re-use the same subsection rules as audit (duplicated for standalone run).
@@ -69,26 +69,37 @@ function signals(e, subSlug) {
 }
 
 function main() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
-  const files = {};
-  for (const m of sections.sections) files[m.file] = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
+  const subTitle = new Map();
+  for (const meta of catalog.loadSections().sections) {
+    for (const s of catalog.loadSection(meta.file).subsections || []) {
+      subTitle.set(`${meta.file}::${s.slug}`, s.title);
+    }
+  }
 
   const quarantined = []; // { entry, file, sub, signals }
   const byFileRemoved = {};
+  const touched = new Map(); // chunk._path → chunk
 
-  for (const [file, doc] of Object.entries(files)) {
-    for (const sub of doc.subsections || []) {
-      const kept = [];
-      for (const e of sub.entries || []) {
-        const sigs = signals(e, sub.slug);
-        if (sigs.length >= 2) {
-          quarantined.push({ entry: e, file, sub: sub.slug, subTitle: sub.title, signals: sigs });
-          byFileRemoved[file] = (byFileRemoved[file] || 0) + 1;
-          continue;
-        }
-        kept.push(e);
+  for (const chunk of catalog.iterChunks()) {
+    const kept = [];
+    let dropped = false;
+    for (const e of chunk.entries) {
+      const sigs = signals(e, chunk.subSlug);
+      if (sigs.length >= 2) {
+        quarantined.push({
+          entry: e, file: chunk.sectionFile, sub: chunk.subSlug,
+          subTitle: subTitle.get(`${chunk.sectionFile}::${chunk.subSlug}`),
+          signals: sigs
+        });
+        byFileRemoved[chunk.sectionFile] = (byFileRemoved[chunk.sectionFile] || 0) + 1;
+        dropped = true;
+        continue;
       }
-      sub.entries = kept;
+      kept.push(e);
+    }
+    if (dropped) {
+      chunk.entries = kept;
+      touched.set(chunk._path, chunk);
     }
   }
 
@@ -113,10 +124,8 @@ function main() {
   };
   fs.writeFileSync(Q_PATH, yaml.dump(qDoc, { lineWidth: -1, noRefs: true }));
 
-  // Save touched data files
-  for (const [file, doc] of Object.entries(files)) {
-    if (byFileRemoved[file]) fs.writeFileSync(path.join(DATA_DIR, file), yaml.dump(doc, { lineWidth: -1, noRefs: true }));
-  }
+  // Save touched chunks
+  for (const chunk of touched.values()) catalog.saveChunk(chunk);
 
   console.log(`Quarantined: ${quarantined.length}`);
   for (const [f, n] of Object.entries(byFileRemoved).sort()) console.log(`  ${f}: -${n}`);

@@ -7,12 +7,11 @@
 
 const fs = require('fs');
 const path = require('path');
-const yaml = require('js-yaml');
 
 const { fetchFeed } = require('./lib/rss');
 const { loadCatalogUrls, loadSeen, saveSeen, writeReport, FRESH_DIR, normalize } = require('./lib/ingest-core');
+const catalogLib = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const WATCH_PATH = path.join(FRESH_DIR, 'watchlist-youtube.json');
 const STALE_MONTHS = 12;
 const MAX_CHANNELS_PER_RUN = 500; // cap to be kind
@@ -32,13 +31,9 @@ async function resolveChannelId(url) {
 }
 
 async function seedWatchlist() {
-  const sections = yaml.load(fs.readFileSync(path.join(DATA_DIR, 'sections.yml'), 'utf8'));
   const urls = new Set();
-  for (const m of sections.sections) {
-    const doc = yaml.load(fs.readFileSync(path.join(DATA_DIR, m.file), 'utf8'));
-    for (const sub of doc.subsections || []) for (const e of sub.entries || []) {
-      if (/youtube\.com/.test(e.url) && !e.deprecated) urls.add(e.url);
-    }
+  for (const { entry: e } of catalogLib.iterEntries()) {
+    if (/youtube\.com/.test(e.url) && !e.deprecated) urls.add(e.url);
   }
   console.log(`Found ${urls.size} youtube.com URLs in catalog. Resolving channel_ids…`);
   const existing = fs.existsSync(WATCH_PATH) ? JSON.parse(fs.readFileSync(WATCH_PATH, 'utf8')) : { channels: [] };
