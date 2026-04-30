@@ -3,6 +3,7 @@ entries:
     url: https://forums.odforce.net/
     description: Most active Houdini forum.
     entry_type: community
+    license: Free
     readme_tags:
       - Forum
       - Very Active
@@ -11,10 +12,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: Houdini Nerd Discord
     url: https://discord.gg/E9zA9Ft
     description: Christopher Rutledge's Houdini community.
     entry_type: community
+    license: Free
     readme_tags:
       - Discord
       - Community
@@ -23,10 +27,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: Think Procedural Discord
     url: https://discord.gg/thinkprocedural
     description: Procedural-focused Houdini Discord.
     entry_type: community
+    license: Free
     readme_tags:
       - Discord
       - Procedural
@@ -35,10 +42,14 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
+        - procedural
   - name: r/Houdini
     url: https://reddit.com/r/Houdini
     description: Houdini subreddit.
     entry_type: community
+    license: Free
     readme_tags:
       - Reddit
       - Community
@@ -47,10 +58,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: SideFX Houdini on Bilibili
     url: https://search.bilibili.com/all?keyword=sidefx%20houdini
     description: Chinese Houdini tutorials.
     entry_type: community
+    license: Free
     readme_tags:
       - Chinese Content
       - Bilibili
@@ -59,10 +73,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: Daily Hip
     url: https://dailyhip.wordpress.com/
     description: Tips from Eetu.
-    entry_type: channel
+    entry_type: reference
+    license: Free
     readme_tags:
       - Tips
       - Archive
@@ -71,10 +88,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: Houdini Tricks
     url: https://houdinitricks.tumblr.com/archive
     description: Quick tips archive.
     entry_type: reference
+    license: Free
     readme_tags:
       - Tips Archive
       - Quick Reference
@@ -83,10 +103,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: VFX Arabia Houdini Tools
     url: https://www.vfxarabia.co/blog/categories/houdini-tools
     description: Houdini tools blog.
     entry_type: channel
+    license: Free
     readme_tags:
       - Blog
       - Tools
@@ -95,3 +118,5 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini

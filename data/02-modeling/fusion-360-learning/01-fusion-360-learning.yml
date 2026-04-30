@@ -10,5 +10,11 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      workflow:
+        - modeling
       output:
         - product-viz
+      skill:
+        - beginner
+      tech:
+        - fusion-360

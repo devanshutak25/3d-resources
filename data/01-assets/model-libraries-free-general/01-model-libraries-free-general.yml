@@ -2,6 +2,7 @@ entries:
   - name: Sketchfab
     url: https://sketchfab.com/
     description: Massive downloadable library.
+    license: Freemium
     entry_type: asset-source
     tags:
       output:
@@ -23,6 +24,8 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
       tech:
         - cc0
         - pbr
@@ -36,10 +39,13 @@ entries:
   - name: TurboSquid
     url: https://www.turbosquid.com/
     description: Professional models with free section.
+    license: Freemium
     entry_type: marketplace
     tags:
       output:
         - generalist
+      platform:
+        - web
       workflow:
         - modeling
     readme_tags:
@@ -50,6 +56,7 @@ entries:
   - name: CGTrader
     url: https://www.cgtrader.com/
     description: Community marketplace.
+    license: Freemium
     entry_type: marketplace
     readme_tags:
       - Marketplace
@@ -57,6 +64,8 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: CGHEVEN
@@ -65,6 +74,8 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      platform:
+        - web
       tech:
         - cc0
       workflow:
@@ -80,6 +91,8 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      platform:
+        - web
       tech:
         - cc0
       workflow:
@@ -97,6 +110,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       workflow:
         - modeling
     readme_tags:
@@ -109,6 +124,8 @@ entries:
     description: Base meshes for sculpting and rigging.
     entry_type: asset-source
     tags:
+      platform:
+        - web
       workflow:
         - sculpting
         - modeling
@@ -128,6 +145,8 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: Three D Scans
@@ -136,6 +155,8 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      platform:
+        - web
       tech:
         - photogrammetry
       workflow:
@@ -155,6 +176,8 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: 3Dzip
@@ -167,13 +190,18 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: RigModels
     url: https://rigmodels.com/
     description: Rigged models.
+    license: Freemium
     entry_type: asset-source
     tags:
+      platform:
+        - web
       workflow:
         - rigging
         - animation
@@ -186,12 +214,15 @@ entries:
   - name: 3DExport
     url: https://3dexport.com/
     description: Marketplace.
+    license: Freemium
     entry_type: marketplace
     readme_tags:
       - Marketplace
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: 3Dshaker
@@ -204,6 +235,8 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: Funes
@@ -213,6 +246,8 @@ entries:
     tags:
       output:
         - scientific-viz
+      platform:
+        - web
       workflow:
         - modeling
     readme_tags:
@@ -231,18 +266,23 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: 3D MDB
     url: https://3dmdb.com/
     description: Model database.
     entry_type: tool
+    notes: 'RELOCATE: tools/databases'
     readme_tags:
       - Database
       - Search
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: MyMiniFactory Scan the World
@@ -250,6 +290,8 @@ entries:
     description: Scan the World collection of scanned heritage objects.
     entry_type: asset-source
     tags:
+      platform:
+        - web
       tech:
         - photogrammetry
       workflow:
@@ -265,6 +307,8 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      platform:
+        - web
       tech:
         - photogrammetry
       workflow:
@@ -285,6 +329,8 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: Keenan Crane's Model Repository
@@ -298,6 +344,8 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: CadNav
@@ -308,6 +356,8 @@ entries:
       output:
         - archviz
         - product-viz
+      platform:
+        - web
       workflow:
         - modeling
     readme_tags:
@@ -320,6 +370,8 @@ entries:
     description: User-uploaded photogrammetry scans.
     entry_type: asset-source
     tags:
+      platform:
+        - web
       tech:
         - photogrammetry
       workflow:
@@ -336,6 +388,8 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: rileyb3d Library
@@ -344,6 +398,8 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      platform:
+        - web
       tech:
         - blender
       workflow:
@@ -356,19 +412,28 @@ entries:
   - name: Mesh2Motion
     url: https://mesh2motion.org/
     description: FREE & open-source web application to animate your 3D models. Supports humanoid, four-legged, and bird creatures.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: tool
+    notes: 'RELOCATE: tools/rigging'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
+        - rigging
+        - animation
         - modeling
   - name: Oyonale
     url: http://www.oyonale.com/modeles.php?lang=en
     description: Sells 3D models for various industries.
-    entry_type: asset-source
+    license: Paid
+    entry_type: marketplace
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: PBRPX
@@ -378,12 +443,16 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: Assimp (site)
     url: https://www.assimp.org/
     description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: tool
+    notes: 'RELOCATE: tools/format-io'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -392,19 +461,27 @@ entries:
   - name: Engraver
     url: https://gumroad.com/l/qOyVO
     description: Blender addon with set of few tools designed to help carving decals in 3D models.
-    entry_type: asset-source
+    license: Paid
+    entry_type: plugin
+    notes: 'RELOCATE: blender-plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      tech:
+        - blender-addon
       workflow:
         - modeling
   - name: WoT Tank Viewer
     url: https://bitbucket.org/SkepticalFox/bigworld-blender-tools-wot-wowp-wows
     description: Package of plugins for Blender, which allows you view 3D models from World of Tanks.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: plugin
+    notes: 'RELOCATE: blender-plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      tech:
+        - blender-addon
       workflow:
         - modeling
   - name: Free3DBase
@@ -414,48 +491,71 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: FaceBuilder
     url: https://www.keentools.io/download/facebuilder-for-blender
     description: '[$] : A Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuild'
-    entry_type: asset-source
+    license: Paid
+    entry_type: plugin
+    notes: 'RELOCATE: blender-plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      tech:
+        - blender-addon
       workflow:
         - modeling
   - name: What is Generative AI? - Nvidia
     url: https://www.nvidia.com/en-us/glossary/generative-ai/
     description: Generative AI enables users to quickly generate new content based on a variety of inputs. Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types o
-    entry_type: asset-source
+    entry_type: reference
+    notes: 'RELOCATE: reference/glossary'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
+      tech:
+        - ai-generative
       workflow:
         - modeling
   - name: Quaternius's Ultimate Low-Poly Models
     url: http://quaternius.com/index.html
-    description: '[The Art of 3D Insects by Natural History Museum](https://stock.adobe.com/collections/rTMsIExGHtyXsAv8NL8RfOxokqALHQhy)'
+    description: Ultimate low-poly model packs (CC0).
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - cc0
       workflow:
         - modeling
-  - name: Chocofur/Free
+  - name: Chocofur Free
     url: https://store.chocofur.com/search/free
-    description: Premium quality 3D models & scenes. [(blender addon)](https://store.chocofur.com/model-manager-blender-2-80-course/blender_model/) [CC0](https://chocofur.com/page/license-cc0)
+    description: Free section of Chocofur premium 3D model store.
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
   - name: Element 3D
     url: https://www.videocopilot.net/products/element2/
     description: A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
-    entry_type: asset-source
+    license: Paid
+    entry_type: plugin
+    notes: 'RELOCATE: motion-graphics/after-effects-plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -464,22 +564,30 @@ entries:
   - name: Sketchfab Blender Addon
     url: https://github.com/sketchfab/blender-plugin
     description: Directly import and export models from and to Sketchfab in Blender.
-    entry_type: reference
+    license: Open Source
+    entry_type: plugin
+    notes: 'RELOCATE: blender-plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - modeling
       tech:
+        - blender-addon
         - opensource-alt
   - name: SolidUI
     url: https://github.com/CloudOrc/SolidUI
     description: AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
-    entry_type: reference
+    license: Open Source
+    entry_type: tool
+    notes: 'RELOCATE: ai-ml/tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       workflow:
         - modeling
       tech:
+        - ai-generative
         - opensource-alt

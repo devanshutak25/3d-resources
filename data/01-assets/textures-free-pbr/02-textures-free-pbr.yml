@@ -2,163 +2,205 @@ entries:
   - name: Unity Bitmap Drawing
     url: https://github.com/ProtoTurtle/UnityBitmapDrawing
     description: Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: U Texture Send Receive
     url: https://github.com/BarakChamo/uTextureSendReceive
     description: Unity network texture sender and receiver for video and frame streaming.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: Unity Resource Checker
     url: https://github.com/handcircus/Unity-Resource-Checker
     description: Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: CropTexture
     url: https://github.com/natsupy/CropTexture
     description: Crop and resize texture in Unity editor!
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: Unity Preview Generator
     url: https://github.com/klhurley/UnityPreviewGenerator
     description: Generates preview textures for sprites, icons of Unity models.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: TexturePanner
     url: https://github.com/AdultLink/TexturePanner
     description: This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: CurveTexture
     url: https://github.com/slipster216/CurveTexture
     description: Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: Unity Texture Packer
     url: https://github.com/andydbc/unity-texture-packer
     description: Utility to combine color channels from different textures into a single output.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: WaveformProvider
     url: https://github.com/EsProgram/WaveformProvider
     description: Provide a texture to simulate waves with Unity.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: Animation Texture Baker
     url: https://github.com/zulfajuniadi/Animation-Texture-Baker
     description: Bake Legacy Animations into Textures. Targeting ECS. (#ANIMATION)
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: AudioTexture
     url: https://github.com/TyounanMOTI/AudioTexture
     description: Generate Unity Texture2D from AudioClip. (#AUDIO)
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: UVPreview
     url: https://github.com/AsehesL/UVPreview
     description: Preview your UV islands in inspector window for your textures.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: Poliigon Blender Addon
     url: https://help.poliigon.com/en/articles/6342599
-    description: This addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating blender fi
-    entry_type: asset-source
+    description: This addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating Blender materials from Poliigon texture sets.
+    entry_type: plugin
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: blender-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - blender-addon
   - name: Game Texture Viewer
     url: https://jangafx.com/software/gametextureviewer/
-    description: Fast, reliable, and simple tool for
-    entry_type: asset-source
+    description: Fast, reliable, and simple tool for viewing PBR texture sets.
+    entry_type: software
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: software'
     tags:
       workflow:
         - texturing
@@ -167,38 +209,49 @@ entries:
     url: https://matlib.gpuopen.com/main/materials/all
     description: AMD launched a free MaterialX-based Material Library. It allows users to download the materials and encourages them to upload their own.
     entry_type: asset-source
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
-  - name: NASA 3 D Resources
+      tech:
+        - pbr
+  - name: NASA 3D Resources
     url: https://nasa3d.arc.nasa.gov/
     description: Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources
     entry_type: asset-source
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: textures-specialized'
     tags:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - cc0
   - name: TextureLab
     url: https://njbrown.itch.io/texturelab
     description: Tool designed to make procedural texture generation.
-    entry_type: asset-source
+    entry_type: software
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: software'
     tags:
       workflow:
         - texturing
         - material-authoring
-  - name: RenderHub/free
+  - name: RenderHub Free
     url: https://www.renderhub.com/free-3d-models
     description: Daz Content, 3D models, textures and materials.
-    entry_type: asset-source
+    entry_type: marketplace
+    license: Freemium
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: asset-marketplaces'
     tags:
       workflow:
         - texturing
@@ -207,18 +260,22 @@ entries:
     url: https://www.solarsystemscope.com/textures/
     description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)
     entry_type: asset-source
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: textures-specialized'
     tags:
       workflow:
         - texturing
         - material-authoring
   - name: CGI Moon Kit
     url: https://svs.gsfc.nasa.gov/4720
-    description: '[Moon 64k](https://gumroad.com/l/MOON_46K), [Earth 42k](https://gumroad.com/l/uHyhPT), [Natural Earth III](http://www.shadedrelief.com/natural3/pages/textures.html)'
+    description: NASA Scientific Visualization Studio CGI Moon Kit providing high-resolution moon textures and elevation data for rendering and visualization.
     entry_type: asset-source
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: textures-specialized'
     tags:
       workflow:
         - texturing
@@ -227,28 +284,36 @@ entries:
     url: https://texture.ninja/
     description: Public domain photographic textures, reference images, cutouts. (CC0)
     entry_type: asset-source
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - cc0
   - name: Texture Fun
     url: https://texturefun.com/
     description: Free PBR texture sets of common architectural materials, including some nice tile textures.
     entry_type: asset-source
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
   - name: World Machine
     url: https://www.world-machine.com/
     description: Command powerful tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
-    entry_type: asset-source
+    entry_type: software
+    license: Freemium
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: software'
     tags:
       workflow:
         - texturing
@@ -256,9 +321,11 @@ entries:
   - name: ShaderExpo
     url: https://anuraghazra.github.io/ShaderExpo/
     description: Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
-    entry_type: asset-source
+    entry_type: tool
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: tools'
     tags:
       workflow:
         - texturing
@@ -267,18 +334,23 @@ entries:
     url: https://www.arroway-textures.ch/
     description: Digital textures for 3D rendering and real-time use.
     entry_type: asset-source
+    license: Freemium
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
   - name: Multitexturing using a Blendmap
     url: http://chinedufn.com/webgl-multitexture-blend-map-tutorial/
     description: How to use a blendmap to multitexture a terrain.
-    entry_type: asset-source
+    entry_type: tutorial
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: tutorials'
     tags:
       workflow:
         - texturing
@@ -286,9 +358,11 @@ entries:
   - name: Custom shaders with Three.JS
     url: https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/
     description: Introduction to custom shaders, uniforms, textures and lighting in three.js.
-    entry_type: asset-source
+    entry_type: tutorial
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: tutorials'
     tags:
       workflow:
         - texturing
@@ -296,9 +370,11 @@ entries:
   - name: 'NeRF-Tex: Neural Reflectance Field Textures'
     url: https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/
     description: Baatz et al., EGSR 2021 | [bibtex](./citations/nerf-tex.txt)
-    entry_type: asset-source
+    entry_type: reference
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: reference'
     tags:
       workflow:
         - texturing
@@ -306,69 +382,86 @@ entries:
   - name: Texture3DPreview for Unity
     url: https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity
     description: This package enables interactive previews of Texture3D assets in Unity's Inspector window.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unity-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin
   - name: EasyBake
     url: https://github.com/leukbaars/EasyBake
     description: Texture baking UI for Blender that lives in the 3D Viewport. Small but powerful! Fast one-click baking and iteration.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: blender-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - blender-addon
   - name: PBR Texture Mapper
     url: https://github.com/jayanam/pbr_texture_mapper
     description: Create PBR node setup with one click.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: blender-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - blender-addon
   - name: Principled Baker
     url: https://github.com/danielenger/Principled-Baker
     description: Bake PBR textures with a few clicks.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: blender-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - blender-addon
   - name: UcuPaint
     url: https://github.com/ucupumar/ucupaint
     description: A addon to manage texture layers for EEVEE and Cycles renderer.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: blender-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - blender-addon
   - name: AwesomeBump
     url: https://github.com/kmkolasinski/AwesomeBump
     description: Generate normal, height, specular or ambient occlusion textures from a single image.
-    entry_type: asset-source
+    entry_type: software
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: software'
     tags:
       workflow:
         - texturing
@@ -378,21 +471,26 @@ entries:
   - name: Va Tex Atlas
     url: https://github.com/ufna/VaTexAtlas
     description: Simple way to use texture atlases for Unreal Engine 4 UMG
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: unreal-plugins'
     tags:
       workflow:
         - texturing
         - material-authoring
       tech:
         - opensource-alt
+        - unreal-plugin
   - name: GLTF Report
     url: https://gltf.report
     description: Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
-    entry_type: asset-source
+    entry_type: tool
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: tools'
     tags:
       workflow:
         - texturing
@@ -400,9 +498,11 @@ entries:
   - name: WebGL Texture Tester
     url: http://toji.github.io/texture-tester/
     description: Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
-    entry_type: asset-source
+    entry_type: tool
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: tools'
     tags:
       workflow:
         - texturing
@@ -419,5 +519,7 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
       platform:
         - web

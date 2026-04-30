@@ -8,6 +8,12 @@ entries:
       workflow:
         - fx
         - simulation
+        - rendering
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - houdini
     readme_tags:
       - Course Hub
       - Free + Paid

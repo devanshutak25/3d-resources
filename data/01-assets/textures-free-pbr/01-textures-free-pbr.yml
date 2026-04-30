@@ -155,6 +155,7 @@ entries:
   - name: Textures.com
     url: https://www.textures.com/
     description: Massive professional texture library.
+    license: Freemium
     entry_type: asset-source
     readme_tags:
       - Massive
@@ -185,7 +186,9 @@ entries:
   - name: Fast Filter-Width Estimates with Texture Maps
     url: https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html
     description: GPU Gems 1 - Chapter 25.
-    entry_type: asset-source
+    license: Free
+    entry_type: reference
+    notes: 'RELOCATE: reference'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -195,7 +198,9 @@ entries:
   - name: DEM Net Elevation API
     url: https://elevationapi.com
     description: Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL
-    entry_type: asset-source
+    license: Freemium
+    entry_type: tool
+    notes: 'RELOCATE: tools/terrain'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -205,17 +210,24 @@ entries:
   - name: TexGraph
     url: https://galloscript.itch.io/texgraph
     description: A procedural texture creation tool that lets you create textures by connecting nodes in a graph.
-    entry_type: asset-source
+    license: Free
+    entry_type: tool
+    notes: 'RELOCATE: tools/texturing'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - procedural
+        - node-based
   - name: Imogen
     url: https://github.com/CedricGuillemet/Imogen
     description: GPU Texture generator using dear imgui for UI.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: tool
+    notes: 'RELOCATE: tools/texturing'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -224,10 +236,14 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+        - procedural
+        - node-based
   - name: Glsl Texture
     url: https://github.com/patriciogonzalezvivo/glslTexture
     description: Create textures from Glsl fragment shaders on Blender (2.8)
-    entry_type: asset-source
+    license: Open Source
+    entry_type: plugin
+    notes: 'RELOCATE: blender-plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -236,10 +252,14 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+        - blender-addon
   - name: Texture Synthesis
     url: https://github.com/EmbarkStudios/texture-synthesis
     description: Example-based texture synthesis written in Rust.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: tool
+    deprecated: true
+    notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -251,6 +271,7 @@ entries:
   - name: Matcaps
     url: https://github.com/nidorx/matcaps#matcaps
     description: A Huge library of matcap textures in PNG and ZMT, organized by color.
+    license: Open Source
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -263,7 +284,9 @@ entries:
   - name: Cheetah Texture Packer
     url: https://github.com/scriptum/Cheetah-Texture-Packer
     description: High efficient and fast 2D bin packing tool
-    entry_type: asset-source
+    license: Open Source
+    entry_type: tool
+    notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -275,7 +298,9 @@ entries:
   - name: Libgdx Texture Packer
     url: https://github.com/libgdx/libgdx/wiki/Texture-packer
     description: Texture Packer built into Libgdx
-    entry_type: asset-source
+    license: Open Source
+    entry_type: tool
+    notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -287,7 +312,9 @@ entries:
   - name: Tilesplit
     url: https://github.com/AlexPoulsen/tilesplit
     description: CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size
-    entry_type: asset-source
+    license: Open Source
+    entry_type: tool
+    notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -299,7 +326,9 @@ entries:
   - name: axys
     url: https://github.com/axys1/axys
     description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: software
+    notes: 'RELOCATE: game-engines'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -311,7 +340,9 @@ entries:
   - name: DEM Net Elevation API C#
     url: https://github.com/dem-net/DEM.Net
     description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
-    entry_type: asset-source
+    license: Open Source
+    entry_type: tool
+    notes: 'RELOCATE: tools/terrain'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -323,7 +354,9 @@ entries:
   - name: Leshy SpriteSheet Tool
     url: https://www.leshylabs.com/apps/sstool/
     description: HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases
-    entry_type: asset-source
+    license: Free
+    entry_type: tool
+    notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -333,7 +366,9 @@ entries:
   - name: Libgdx Wiki
     url: https://libgdx.com/wiki/
     description: Libgdx documentation wiki (includes Texture Packer page).
-    entry_type: asset-source
+    license: Free
+    entry_type: reference
+    notes: 'RELOCATE: reference'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -343,6 +378,7 @@ entries:
   - name: LotPixel
     url: https://www.lotpixel.com/
     description: A huge assets library. Photogrammetry and PBR Textures, 3D Models, Decals. 1500+ Free Texture Available.
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -350,9 +386,13 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
+        - photogrammetry
   - name: PlainTextures
     url: http://www.plaintextures.com/
     description: Free high resolution textures, brushes and photos
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -360,10 +400,14 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
   - name: Ptex
     url: http://ptex.us/
     description: A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: reference
+    notes: 'RELOCATE: reference'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -373,7 +417,9 @@ entries:
   - name: 'Ray Tracing: The Next Week'
     url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
     description: By Peter Shirley, builds on top of the first books' project, adding more effects, like textures and motion blur
-    entry_type: asset-source
+    license: Free
+    entry_type: reference
+    notes: 'RELOCATE: reference'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -383,7 +429,9 @@ entries:
   - name: SpriteUV2
     url: https://www.spriteuv.com/
     description: Tool for creating optimal meshes for textures/sprites and packing them into an atlas.
-    entry_type: asset-source
+    license: Paid
+    entry_type: tool
+    notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -393,7 +441,9 @@ entries:
   - name: Live Normal
     url: https://tenebrislab.github.io/livenormal/
     description: An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
-    entry_type: asset-source
+    license: Freemium
+    entry_type: software
+    notes: 'RELOCATE: software'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -403,6 +453,7 @@ entries:
   - name: TextureKing
     url: http://www.textureking.com/
     description: Free material stock textures
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -410,10 +461,14 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
   - name: SCATTr
     url: https://gumroad.com/l/scattr
     description: Procedural texture placement.
-    entry_type: asset-source
+    license: Paid
+    entry_type: plugin
+    notes: 'RELOCATE: plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -423,16 +478,21 @@ entries:
   - name: gumroad/juliosillet
     url: https://gumroad.com/juliosillet
     description: '[Pixar/CommunityResources](https://renderman.pixar.com/community_resources), [Nikola Damjanov''s 100 PBR Texture Sets](https://www.artstation.com/artwork/0XEN4V)'
-    entry_type: asset-source
+    license: Freemium
+    entry_type: marketplace
+    notes: 'RELOCATE: asset-marketplaces'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
   - name: 3DAssets.one
     url: https://www.3dassets.one/
     description: Search-engine which allows you to explore the largest free texture sites all at once.
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -440,19 +500,26 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
   - name: Bystedts Blender Baker
     url: https://3dbystedt.gumroad.com/l/JAqLT
     description: This addon streamlines the texture baking process in Blender.
-    entry_type: asset-source
+    license: Paid
+    entry_type: plugin
+    notes: 'RELOCATE: blender-plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - blender-addon
   - name: 3DXO
     url: https://www.3dxo.com
     description: Free 3D Models, seamless Textures, Backgrounds, Photos & Graphics.
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -460,10 +527,14 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
   - name: Agama Materials
     url: https://agama.itch.io/agama-materials
     description: Software for creating PBR materials and painting 3d models. You can create materials and use them for painting models, or you can use pre-made textures.
-    entry_type: asset-source
+    license: Paid
+    entry_type: software
+    notes: 'RELOCATE: software'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -473,7 +544,9 @@ entries:
   - name: Agisoft De-Lighter
     url: https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow
     description: Free stand-alone tool designed to remove shadows from model textures. [!download](https://www.agisoft.com/downloads/installer/)
-    entry_type: asset-source
+    license: Free
+    entry_type: tool
+    notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -483,7 +556,9 @@ entries:
   - name: Architextures - Create
     url: https://architextures.org/create
     description: Web app allows you to create seamless textures, bump maps and CAD hatches. Select any of the parameters to get started.
-    entry_type: asset-source
+    license: Freemium
+    entry_type: tool
+    notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -493,16 +568,21 @@ entries:
   - name: Sculpt Alphas Manager
     url: https://blenderartists.org/t/sculpt-alphas-manager/1200725
     description: This addon provides a simple solution to be able to quickly switch alpha textures for the sculpt brushes.
-    entry_type: asset-source
+    license: Free
+    entry_type: plugin
+    notes: 'RELOCATE: blender-plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - blender-addon
   - name: C4DCenter Material Library
     url: https://c4dcenter.com/material-library/
     description: Free C4D Materials created with High Quality Texture Maps for instant download and no limits, Free for Personal and Commercial Use.
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -510,9 +590,12 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - pbr
   - name: CC0 Textures
     url: https://cc0textures.com/
     description: Free PBR textures.
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -520,9 +603,13 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      tech:
+        - cc0
+        - pbr
   - name: Celestia Motherlode
     url: http://www.celestiamotherlode.net/
     description: Repository for various addons like textures, models or celestial objects.
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -533,7 +620,9 @@ entries:
   - name: 'Unreal Docs: Getting Started With Texture Graph'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/getting-started-with-texture-graph-in-unreal-engine
     description: Unreal Engine Documentation.
-    entry_type: asset-source
+    license: Free
+    entry_type: reference
+    notes: 'RELOCATE: reference/unreal-docs'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -543,7 +632,9 @@ entries:
   - name: Unreal Engine Learning
     url: https://dev.epicgames.com/community/learning/tutorials/z0VJ/unreal-engine-getting-started-with-texture-graph
     description: Unreal Engine Learning.
-    entry_type: asset-source
+    license: Free
+    entry_type: tutorial
+    notes: 'RELOCATE: tutorials/unreal'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -553,7 +644,9 @@ entries:
   - name: NVIDIA Texture Tools Exporter
     url: https://developer.nvidia.com/nvidia-texture-tools-exporter
     description: Allows users to create highly compressed texture files (that stay small both on disk and in memory) directly from image sources using NVIDIA’s CUDA-accelerated Texture Tools compressor technology.
-    entry_type: asset-source
+    license: Free
+    entry_type: tool
+    notes: 'RELOCATE: tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -563,7 +656,9 @@ entries:
   - name: Texture Paint Manual
     url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
     description: Texture Paint Manual..
-    entry_type: asset-source
+    license: Free
+    entry_type: reference
+    notes: 'RELOCATE: reference'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -573,7 +668,9 @@ entries:
   - name: SpriteDicing
     url: https://github.com/Elringus/SpriteDicing
     description: Unity extension for reusing sprite texture areas.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: plugin
+    notes: 'RELOCATE: unity-plugins'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -582,3 +679,4 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+        - unity-plugin

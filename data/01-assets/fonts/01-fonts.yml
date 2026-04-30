@@ -11,12 +11,12 @@ entries:
     url_status: ok
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
   - name: FontPair
     url: https://fontpair.co/
     description: Font pairing inspiration.
-    entry_type: asset-source
+    license: Free
+    entry_type: reference
     readme_tags:
       - Pairing
       - Inspiration
@@ -24,8 +24,7 @@ entries:
     url_status: ok
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
   - name: Lilex
     url: https://lilex.myrt.co/
     description: Programming font with ligatures.
@@ -38,8 +37,7 @@ entries:
     url_status: ok
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
       tech:
         - opensource-alt
   - name: Usable Google Fonts (Figma)
@@ -54,160 +52,175 @@ entries:
     url_status: ok
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
   - name: How to Proof a Typeface
     url: https://jonathanhoefler.com/articles/how-to-proof-a-typeface
     description: Jonathan Hoefler's proofing guide.
-    entry_type: asset-source
+    license: Free
+    entry_type: reference
     readme_tags:
       - Proofing Guide
       - Hoefler
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: reference (article)'
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
   - name: FontLab 8
     url: https://www.fontlab.com/font-editor/fontlab/
     description: Professional font editor.
     license: Paid
-    entry_type: asset-source
+    entry_type: software
     best_for: Type design, font editing
     tags:
       platform:
         - win
         - mac
       output:
-        - motion-graphics
-        - illustration
+        - generalist
     readme_tags:
       - Font Editor
       - Pro
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: software-reference'
   - name: Fontz
     url: https://fontz.design
     description: Free and premium 3D fonts with Blender source files
+    license: Freemium
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
   - name: Unity BitmapFontImporter
     url: https://github.com/litefeel/Unity-BitmapFontImporter
     description: An Unity editor extension for bitmap font.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: game-dev/unity-plugins'
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - games
       tech:
+        - unity-plugin
         - opensource-alt
   - name: Unity Stb Easy Font
     url: https://github.com/aras-p/UnityStbEasyFont
     description: A port of stb_easy_font.h to Unity/C#.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: game-dev/unity-plugins'
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - games
       tech:
+        - unity-plugin
         - opensource-alt
   - name: typicons.font
     url: http://s-ings.com/typicons/
     description: 336 pixel perfect, all-purpose vector icons in a web-font kit
+    license: Open Source
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: icons (icon set, not font)'
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
   - name: Typewriter
     url: https://github.com/doakey3/blender-typewriter-addon
     description: Typewriter text animation for font objects.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: blender-plugins'
     tags:
       output:
         - motion-graphics
-        - illustration
       tech:
+        - blender-addon
         - opensource-alt
   - name: FontSelector
     url: https://github.com/samytichadou/FontSelector_blender_addon/
     description: Easy font management inside Blender.
-    entry_type: asset-source
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: blender-plugins'
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
       tech:
+        - blender-addon
         - opensource-alt
   - name: Roboto
     url: https://github.com/google/roboto
     description: Default font on Android & ChromeOS, and the recommended typeface for Material Design
+    license: Open Source
     entry_type: asset-source
+    deprecated: true
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
       tech:
         - opensource-alt
   - name: emojillate
     url: https://github.com/notwaldorf/emojillate
     description: Pixellate an image into emoji
-    entry_type: asset-source
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: tools (image tool, not font)'
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
       tech:
         - opensource-alt
   - name: Material design icons
     url: https://github.com/google/material-design-icons
     description: Official icon set from Google
+    license: Open Source
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: icons'
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - generalist
       tech:
         - opensource-alt
   - name: bitmap font renderer
     url: https://jmickle66666666.github.io/blog/techart/2019/12/18/bitmap-font-renderer.html
     description: Bitmap font renderer.
-    entry_type: asset-source
+    entry_type: tutorial
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: tutorials'
     tags:
       output:
-        - motion-graphics
-        - illustration
+        - games
   - name: Word-As-Image for Semantic Typography
     url: https://wordasimage.github.io/Word-As-Image-Page/
     description: Semantically transforming fonts into illustrations
-    entry_type: asset-source
+    license: Free
+    entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: 'RELOCATE: ai-ml or reference'
     tags:
       output:
-        - motion-graphics
         - illustration
+      tech:
+        - ai-generative

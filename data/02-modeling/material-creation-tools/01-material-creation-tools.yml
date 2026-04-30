@@ -155,12 +155,20 @@ entries:
   - name: Materia
     url: https://github.com/Metric/Materia
     description: An open-source alternative to Substance Designer written in C#. *(The project was archived)*.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    deprecated: true
+    best_for: SD-alternative (archived)
     tags:
       workflow:
         - material-authoring
         - texturing
       tech:
         - opensource-alt
+        - node-based
+        - procedural
+    readme_tags:
+      - Open Source
+      - Archived
+    url_last_verified: '2026-04-19'
+    url_status: ok

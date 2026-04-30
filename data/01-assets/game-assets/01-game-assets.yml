@@ -30,6 +30,7 @@ entries:
   - name: itch.io Assets
     url: https://itch.io/game-assets
     description: Indie game asset marketplace.
+    license: Freemium
     entry_type: marketplace
     tags:
       output:
@@ -57,6 +58,7 @@ entries:
   - name: Pixel Frog
     url: https://pixelfrog-assets.itch.io/
     description: Pixel art assets.
+    license: Freemium
     entry_type: asset-source
     tags:
       output:
@@ -95,6 +97,7 @@ entries:
   - name: GameDev Market
     url: https://www.gamedevmarket.net/
     description: Game dev asset marketplace.
+    license: Freemium
     entry_type: marketplace
     tags:
       output:
@@ -107,6 +110,7 @@ entries:
   - name: Humble Bundle Game Dev
     url: https://www.humblebundle.com/software
     description: Periodic game dev bundles.
+    license: Paid
     entry_type: marketplace
     readme_tags:
       - Bundles
@@ -132,6 +136,7 @@ entries:
   - name: NativeBlend CLI
     url: https://github.com/addy999/nativeblend-cli
     description: AI-powered CLI tool to generate and edit low-poly 3D game assets in Blender from natural language prompts
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -139,10 +144,12 @@ entries:
       output:
         - games
       tech:
-        - opensource-alt
+        - ai-generative
+        - blender-addon
   - name: Liberated Pixel Cup assets
     url: http://lpc.opengameart.org
     description: Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
+    license: Free
     entry_type: asset-source
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -152,12 +159,15 @@ entries:
   - name: Tilemancer
     url: https://led.itch.io/tilemancer
     description: A quick procedural tile creator designed for pixel-art games.
-    entry_type: asset-source
+    license: Free
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - games
+      tech:
+        - procedural
   - name: GameArt2D
     url: https://www.gameart2d.com/freebies.html
     description: Free 2D game art pack collection.
@@ -174,6 +184,7 @@ entries:
   - name: Oryx Design Lab
     url: http://oryxdesignlab.com/
     description: Cheap high-quality royalty-free sprite packs.
+    license: Paid
     entry_type: marketplace
     tags:
       output:
@@ -225,7 +236,7 @@ entries:
   - name: Asset Creation Toolset
     url: https://gumroad.com/l/hPXIh
     description: Asset Creation Toolset is many tools for game asset creation.
-    entry_type: asset-source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -234,6 +245,7 @@ entries:
   - name: UAssetAPI
     url: https://github.com/atenfyr/UAssetAPI
     description: A low-level .NET library for reading and writing Unreal Engine 4 game assets.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -241,4 +253,4 @@ entries:
       output:
         - games
       tech:
-        - opensource-alt
+        - unreal-plugin

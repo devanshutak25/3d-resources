@@ -37,6 +37,7 @@ entries:
   - name: Texture Box
     url: https://texturebox.com/
     description: Mixed library.
+    license: Paid
     entry_type: marketplace
     readme_tags:
       - Mixed
@@ -44,16 +45,8 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
-      workflow:
-        - texturing
-        - material-authoring
-  - name: Quixel
-    url: https://quixel.com/megascans/home
-    description: Realistic 3D scans of materials and objects.
-    entry_type: asset-source
-    url_last_verified: '2026-04-19'
-    url_status: ok
-    tags:
+      tech:
+        - pbr
       workflow:
         - texturing
         - material-authoring

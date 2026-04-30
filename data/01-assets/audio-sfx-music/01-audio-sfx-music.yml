@@ -7,6 +7,8 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
     readme_tags:
       - CC-licensed
       - Community
@@ -20,6 +22,8 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
     readme_tags:
       - BBC Archive
       - Free
@@ -38,6 +42,8 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
   - name: ccMixter
     url: http://ccmixter.org/
     description: Creative Commons remix community.
@@ -51,6 +57,8 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
   - name: Sonniss
     url: https://sonniss.com/
     description: SFX library. Releases massive annual free bundles.
@@ -59,6 +67,8 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
     readme_tags:
       - Pro SFX
       - Annual Free Bundle
@@ -77,6 +87,8 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
   - name: Ende
     url: https://ende.app/en
     description: Curated free audio library.
@@ -90,6 +102,8 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
   - name: Moby Gratis
     url: https://mobygratis.com/
     description: Free Moby music for indie creators.
@@ -103,6 +117,8 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
   - name: ZapSplat
     url: https://www.zapsplat.com/
     description: Large free SFX library.
@@ -114,6 +130,8 @@ entries:
       output:
         - games
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Large SFX
       - Free
@@ -132,6 +150,8 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
   - name: Artlist
     url: https://artlist.io/
     description: Subscription music and SFX.
@@ -142,6 +162,8 @@ entries:
         - subscription
       workflow:
         - audio-design
+      platform:
+        - web
     readme_tags:
       - Subscription
       - Music + SFX
@@ -151,7 +173,7 @@ entries:
     url: https://knell.medieval.software/
     description: Free procedural sound effect synthesizer for games, UI, and prototypes.
     license: Free
-    entry_type: asset-source
+    entry_type: tool
     tags:
       workflow:
         - audio-design
@@ -159,6 +181,8 @@ entries:
         - games
       platform:
         - web
+      tech:
+        - procedural
     readme_tags:
       - SFX Synth
       - Procedural
@@ -167,31 +191,44 @@ entries:
   - name: Sapphire
     url: https://borisfx.com/products/sapphire/
     description: Suite of 270+ GPU-accelerated VFX effects with integrated Mocha tracking and a custom effect and transition builder.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Paid
+    notes: 'RELOCATE: vfx/compositing-plugins (this is a video VFX plugin, not audio)'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - audio-design
+        - fx
+        - compositing
+      tech:
+        - gpu
   - name: USFXR
     url: https://github.com/zeh/usfxr
     description: A C# library used to generate and play game-like procedural audio effects inside Unity.
-    entry_type: asset-source
+    entry_type: plugin
+    license: Open Source
+    deprecated: true
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - audio-design
       tech:
+        - unity-plugin
+        - procedural
         - opensource-alt
+      output:
+        - games
   - name: Freesound Add-on
     url: https://github.com/iwkse/freesound/tree/freesound-2.0
-    description: Addon for Blender that allows users to create and edit subtitles for movies or music.
-    entry_type: asset-source
+    description: Blender VSE addon to browse, preview, and insert sounds from freesound.org.
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - audio-design
       tech:
+        - blender-addon
         - opensource-alt

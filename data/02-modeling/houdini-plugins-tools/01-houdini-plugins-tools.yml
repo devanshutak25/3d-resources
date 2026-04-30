@@ -117,6 +117,7 @@ entries:
   - name: Tighe Rzankowski's Tools
     url: https://gumroad.com/trzanko
     description: Feather grooming and more.
+    license: Paid
     entry_type: plugin
     readme_tags:
       - Feathers
@@ -129,6 +130,7 @@ entries:
   - name: Rich Lord's Tools
     url: https://www.richlord.com/
     description: Tools from ex-Valve animator.
+    license: Free
     entry_type: plugin
     readme_tags:
       - Animation Tools
@@ -169,7 +171,11 @@ entries:
   - name: VFX Fractal Toolkit
     url: https://github.com/jtomori/vft
     description: Set of tools for generating fractal and generative art.
+    license: Open Source
     entry_type: tool
+    readme_tags:
+      - Fractals
+      - Generative
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -179,7 +185,11 @@ entries:
   - name: ZENO
     url: https://github.com/zenustech/zeno
     description: Node-based 3D system that can produce cinematic physics effects at high efficiency.
+    license: Open Source
     entry_type: tool
+    readme_tags:
+      - Node-based
+      - Physics
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -189,7 +199,11 @@ entries:
   - name: Houdini Tech Art Challenge Winners 2021
     url: https://www.sidefx.com/tech-art-challenge-2021/
     description: HPaint, Polyline Creator, Poly Slice Tool, and more
+    license: Free
     entry_type: plugin
+    readme_tags:
+      - Tech Art
+      - SideFX
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -198,16 +212,25 @@ entries:
   - name: JDB Houdini Toolkit
     url: https://bitbucket.org/jcdeblok/workspace/projects/PROJ
     description: JDB Houdini Toolkit.
+    license: Open Source
     entry_type: plugin
+    readme_tags:
+      - Toolkit
+      - JDB
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - houdini-addon
+        - opensource-alt
   - name: Houdini Attributes Cheatsheet
     url: https://gist.github.com/iinfin/2caf4e2ccb2545477670e88ddacee1e2
     description: Houdini Attributes Cheatsheet.
+    license: Free
     entry_type: reference
+    readme_tags:
+      - Cheatsheet
+      - Attributes
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -216,7 +239,11 @@ entries:
   - name: Microbot VDB Painter
     url: https://microbot.ch/new/vdb-painter/
     description: MbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes.
+    license: Paid
     entry_type: plugin
+    readme_tags:
+      - VDB
+      - Painter
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

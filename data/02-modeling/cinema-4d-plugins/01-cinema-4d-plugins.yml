@@ -24,3 +24,5 @@ entries:
     tags:
       output:
         - motion-graphics
+      tech:
+        - c4d-plugin

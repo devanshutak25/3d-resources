@@ -2,7 +2,8 @@ entries:
   - name: Rolando Barry Blog
     url: https://rolandobarry.com/blog
     description: C4D tips, shader switch workflows, productivity tricks.
-    entry_type: channel
+    entry_type: tutorial
+    license: Free
     readme_tags:
       - Tips Blog
       - Workflows
@@ -14,7 +15,8 @@ entries:
   - name: Rolando Barry (Gumroad)
     url: https://honear.gumroad.com/
     description: C4D assets and presets.
-    entry_type: asset-source
+    entry_type: marketplace
+    license: Freemium
     readme_tags:
       - Presets
       - Assets

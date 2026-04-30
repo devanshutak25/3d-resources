@@ -4,6 +4,7 @@ entries:
     description: Free photography.
     license: Free
     entry_type: asset-source
+    platform: [web]
     readme_tags:
       - Photography
       - Free
@@ -12,11 +13,14 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - generalist
   - name: Pexels
     url: https://www.pexels.com/
     description: Free stock photos and video.
     license: Free
     entry_type: asset-source
+    platform: [web]
     readme_tags:
       - Photos + Video
       - Free
@@ -25,11 +29,14 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - generalist
   - name: Pixabay
     url: https://pixabay.com/
     description: Free stock media.
     license: Free
     entry_type: asset-source
+    platform: [web]
     readme_tags:
       - Mixed Media
       - Free
@@ -38,11 +45,14 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - generalist
   - name: All Free Download
     url: http://all-free-download.com/
     description: Free design downloads.
     license: Free
     entry_type: asset-source
+    platform: [web]
     readme_tags:
       - Design
       - Free
@@ -51,11 +61,14 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - generalist
   - name: Neurascapes
     url: https://neurascapes.com/
     description: Free surreal/AI-generated reference imagery.
     license: Free
     entry_type: asset-source
+    platform: [web]
     readme_tags:
       - Surreal
       - Reference
@@ -64,10 +77,14 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - illustration
   - name: PNG Images
     url: https://pngimg.com/
     description: Transparent PNG images.
+    license: Free NC
     entry_type: asset-source
+    platform: [web]
     readme_tags:
       - Transparent PNG
       - Cutouts
@@ -76,11 +93,14 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - generalist
   - name: Public Domain Review
     url: https://publicdomainreview.org/collections/images
     description: Public-domain image collections.
     license: Free
     entry_type: asset-source
+    platform: [web]
     readme_tags:
       - Public Domain
       - Historical
@@ -89,13 +109,19 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - illustration
   - name: David Rumsey Maps
     url: https://www.davidrumsey.com/view/past
     description: Historical maps archive.
+    license: Free NC
     entry_type: asset-source
+    platform: [web]
     tags:
       workflow:
         - reference
+      output:
+        - illustration
     readme_tags:
       - Maps
       - Historical
@@ -104,10 +130,14 @@ entries:
   - name: The Blueprints
     url: https://www.the-blueprints.com/
     description: Vehicle, aircraft, ship blueprints.
+    license: Free
     entry_type: asset-source
+    platform: [web]
     tags:
       workflow:
         - reference
+      output:
+        - generalist
     readme_tags:
       - Blueprints
       - Vehicles
@@ -117,6 +147,8 @@ entries:
     url: http://theartofanimation.tumblr.com/
     description: Curated animation art blog.
     entry_type: inspiration
+    platform: [web]
+    notes: 'RELOCATE: inspiration-showcase'
     readme_tags:
       - Animation Art
       - Blog
@@ -125,10 +157,14 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - illustration
   - name: 50 Watts
     url: https://50watts.com/
     description: Illustration history archive.
     entry_type: inspiration
+    platform: [web]
+    notes: 'RELOCATE: inspiration-showcase'
     readme_tags:
       - Illustration
       - Historical
@@ -137,14 +173,19 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - illustration
   - name: Settei Dreams
     url: https://setteidreams.net/
     description: Anime model sheets and settei archive.
-    entry_type: reference
+    entry_type: asset-source
+    platform: [web]
     tags:
       workflow:
         - reference
         - concept
+      output:
+        - illustration
     readme_tags:
       - Anime
       - Model Sheets
@@ -153,7 +194,8 @@ entries:
   - name: LACartoons
     url: https://lacartoons.com/
     description: Animation cel and model sheet archive.
-    entry_type: reference
+    entry_type: asset-source
+    platform: [web]
     readme_tags:
       - Cartoons
       - Reference
@@ -162,3 +204,6 @@ entries:
     tags:
       workflow:
         - reference
+        - concept
+      output:
+        - illustration

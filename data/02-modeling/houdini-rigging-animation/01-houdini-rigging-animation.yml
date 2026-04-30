@@ -3,6 +3,7 @@ entries:
     url: https://vimeo.com/649244909
     description: Paul Esteves — secondary motion workflows.
     entry_type: tutorial
+    license: null
     readme_tags:
       - Secondary Motion
       - H19
@@ -12,10 +13,13 @@ entries:
       workflow:
         - rigging
         - animation
+      tech:
+        - houdini
   - name: Space Girl Rigging
     url: https://www.sidefx.com/learn/collections/space-girl-rigging/
     description: Legacy rigging series.
     entry_type: tutorial
+    license: null
     readme_tags:
       - Classic
       - Legacy Rig
@@ -25,3 +29,5 @@ entries:
       workflow:
         - rigging
         - animation
+      tech:
+        - houdini

@@ -10,6 +10,10 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - web
       workflow:
         - reference
   - name: ActionVFX Practice
@@ -20,6 +24,8 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
       workflow:
         - reference
     readme_tags:
@@ -35,6 +41,8 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
       workflow:
         - reference
     readme_tags:

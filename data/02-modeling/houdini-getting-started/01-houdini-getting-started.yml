@@ -32,6 +32,7 @@ entries:
   - name: Houdini Donut in Any Shape
     url: https://vimeo.com/492505292
     description: Procedural donut by Lewis Orton.
+    license: Free
     entry_type: tutorial
     tags:
       tech:
@@ -46,6 +47,7 @@ entries:
   - name: Houdini in Five Minutes
     url: https://vimeo.com/384384552
     description: Quick intro by Entagma.
+    license: Free
     entry_type: tutorial
     readme_tags:
       - Quick Intro

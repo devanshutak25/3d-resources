@@ -2,6 +2,7 @@ entries:
   - name: Cineversity
     url: http://www.cineversity.com/
     description: Official Maxon tutorials.
+    license: Free
     entry_type: tutorial
     readme_tags:
       - Official
@@ -11,6 +12,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      tech:
+        - c4d
   - name: School of Motion (site)
     url: https://www.schoolofmotion.com/
     description: C4D, motion graphics, animation, After Effects, design courses.
@@ -19,6 +22,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      tech:
+        - c4d
     readme_tags:
       - Mograph Focus
       - Structured Courses

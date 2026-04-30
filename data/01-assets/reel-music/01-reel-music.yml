@@ -13,10 +13,12 @@ entries:
         - audio-design
       platform:
         - web
+      output:
+        - motion-graphics
   - name: Kurzgesagt Music
     url: https://thomasveith.bandcamp.com/music
     description: Thomas Veith's Kurzgesagt scores.
-    entry_type: reference
+    entry_type: channel
     readme_tags:
       - Kurzgesagt
       - Atmospheric
@@ -25,6 +27,10 @@ entries:
     tags:
       workflow:
         - audio-design
+      platform:
+        - web
+      output:
+        - motion-graphics
   - name: C2Cdjsofficial
     url: https://www.youtube.com/@C2Cdjsofficial
     description: Classic lo-fi reel track.
@@ -39,6 +45,8 @@ entries:
         - audio-design
       platform:
         - web
+      output:
+        - motion-graphics
   - name: fcommunications
     url: https://www.youtube.com/@fcommunications
     description: Electronic reel favorite.
@@ -53,6 +61,8 @@ entries:
         - audio-design
       platform:
         - web
+      output:
+        - motion-graphics
   - name: Trap Nation
     url: https://www.youtube.com/@TrapNation
     description: Popular reel music.
@@ -67,3 +77,5 @@ entries:
         - audio-design
       platform:
         - web
+      output:
+        - motion-graphics

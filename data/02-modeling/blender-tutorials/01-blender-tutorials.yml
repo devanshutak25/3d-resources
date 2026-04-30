@@ -3,6 +3,7 @@ entries:
     url: https://www.wingfox.com/c/8319
     description: Hair creation course.
     entry_type: tutorial
+    license: Paid
     tags:
       workflow:
         - modeling
@@ -17,6 +18,8 @@ entries:
     url: https://docs.google.com/spreadsheets/d/1RCY6nTIVgl208ckadipBWVos8_kHOu3HFTQgapN59_U/
     description: Checklist of Blender features and workflows.
     entry_type: reference
+    license: Free
+    notes: RELOCATE — entry_type 'reference' misfits blender-tutorials subsection (expects tutorial/channel/community). Consider moving to a references subsection.
     readme_tags:
       - Checklist
       - Workflow

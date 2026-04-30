@@ -3,6 +3,7 @@ entries:
     url: https://aaronsmith.tv/1-Minute-VEX
     description: Bite-sized VEX lessons.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - Bite-sized
       - VEX
@@ -11,34 +12,46 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - vex
+      skill:
+        - beginner
   - name: VEX Wrangle Cheat Sheet
     url: https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html
     description: Quick VEX reference by Mr Kunz.
     entry_type: reference
+    license: Free
     readme_tags:
       - Cheat Sheet
-      - Reference
+      - VEX
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - vex
   - name: Python Snippets for Houdini
     url: https://github.com/kiryha/houdini/wiki/python-snippets
     description: Python snippets wiki.
     entry_type: reference
+    license: Open Source
     readme_tags:
       - Python
       - Snippets
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      platform:
+        - web
       tech:
-        - opensource-alt
+        - houdini
+        - python
   - name: VFXBrain VEX
     url: https://vfxbrain.wordpress.com/category/vex/
     description: VEX tutorials blog.
     entry_type: channel
+    license: Free
     readme_tags:
       - VEX
       - Blog
@@ -47,10 +60,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - vex
   - name: HouPy Wiki
     url: https://www.houpywiki.com/
     description: Houdini Python wiki — packages, shelf scripts, menu customization, node graph hooks.
     entry_type: reference
+    license: Free
     readme_tags:
       - Python Wiki
       - Deep Reference
@@ -59,10 +75,14 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
+        - python
   - name: OpenCL in Houdini
     url: https://pepefx.blogspot.com/2019/03/opencl-notes.html
     description: OpenCL notes for Houdini.
     entry_type: reference
+    license: Free
     readme_tags:
       - OpenCL
       - Advanced
@@ -71,16 +91,25 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
+        - opencl
+      skill:
+        - advanced
   - name: Python Startup Scripts
     url: https://houdinitricks.com/python-houdini-start-scripts-part-1/
     description: Python startup scripts guide.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - Python
       - Startup Scripts
     tags:
       platform:
         - web
+      tech:
+        - houdini
+        - python
   - name: VEX Manager
     url: https://shirmanor.gumroad.com/l/vex_manager_v1
     description: VEX snippet/code manager HDA by Shir Manor. Also listed under Houdini — Plugins & Tools.
@@ -89,6 +118,9 @@ entries:
     readme_tags:
       - VEX
       - Shir Manor
+    dual_listed_in:
+      - houdini-plugins-tools
     tags:
       tech:
         - houdini-addon
+        - vex

@@ -3,6 +3,7 @@ entries:
     url: https://vimeo.com/336017942
     description: Jake Rice on custom polywire.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - Polywire
       - Custom
@@ -19,6 +20,8 @@ entries:
     tags:
       tech:
         - procedural
+      platform:
+        - web
     readme_tags:
       - Procedural
       - VEX Course
@@ -28,6 +31,7 @@ entries:
     url: https://vimeo.com/284712920
     description: How to extract transform matrices.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - Matrices
       - Technique
@@ -40,6 +44,7 @@ entries:
     url: https://lesterbanks.com/2019/04/how-to-animate-subdivisions-in-houdini/
     description: For loops and animated subdivisions.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - For Loops
       - Animation
@@ -52,6 +57,7 @@ entries:
     url: https://whatifound.net/2020/06/13/houdini-paint-splashes/
     description: Art-directed paint splashes.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - Paint Splash
       - Art Direction
@@ -64,6 +70,7 @@ entries:
     url: https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth
     description: Building growth animation technique.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - Growth
       - Animation
@@ -76,6 +83,7 @@ entries:
     url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/
     description: Node study slide deck.
     entry_type: reference
+    license: Free
     readme_tags:
       - Node Study
       - Deck
@@ -88,6 +96,7 @@ entries:
     url: https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini-point-cloud
     description: Point cloud to mesh guide.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - Point Cloud
       - Mesh
@@ -100,6 +109,7 @@ entries:
     url: https://www.sidefx.com/tutorials/part-1-cloner-object/
     description: MoGraph Cloner tutorial.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - MoGraph
       - Cloner
@@ -112,6 +122,7 @@ entries:
     url: https://www.sidefx.com/tutorials/muscles-masterclass-advanced-special-topics/
     description: Advanced muscles masterclass.
     entry_type: tutorial
+    license: Free
     readme_tags:
       - Muscles
       - Advanced
@@ -120,14 +131,19 @@ entries:
     tags:
       platform:
         - web
+      skill:
+        - advanced
   - name: AI For Artists
     url: https://github.com/kiryha/Houdini/wiki/AI-For-Artists
     description: AI techniques applied to Houdini.
     entry_type: reference
+    license: Free
     tags:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - web
     readme_tags:
       - AI
       - Artist-Oriented
@@ -137,9 +153,12 @@ entries:
     url: http://ytini.com/
     description: Astronomy and scientific viz in Houdini.
     entry_type: reference
+    license: Free
     tags:
       output:
         - scientific-viz
+      platform:
+        - web
     readme_tags:
       - Astronomy
       - Sci-Viz
@@ -149,6 +168,7 @@ entries:
     url: https://github.com/MysteryPancake/Houdini-Fun
     description: Fun experimental Houdini repo.
     entry_type: reference
+    license: Open Source
     readme_tags:
       - Experiments
       - Community
@@ -157,13 +177,18 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - web
   - name: USD Basics with Solaris
     url: https://www.sidefx.com/tutorials/usd-basics-with-solaris/
     description: Official tutorial on USD basics in Solaris.
     entry_type: tutorial
+    license: Free
     tags:
       tech:
         - usd
+      platform:
+        - web
     readme_tags:
       - USD
       - Solaris

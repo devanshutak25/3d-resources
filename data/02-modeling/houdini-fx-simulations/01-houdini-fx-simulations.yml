@@ -3,6 +3,7 @@ entries:
     url: https://vimeo.com/278227586
     description: Custom smoke solver walkthrough.
     entry_type: tutorial
+    license: null
     readme_tags:
       - Smoke
       - Custom Solver
@@ -12,10 +13,13 @@ entries:
       workflow:
         - fx
         - simulation
+      tech:
+        - houdini
   - name: Smart Crown Splash FLIP
     url: https://vimeo.com/182010807
     description: FLIP splash technique.
     entry_type: tutorial
+    license: null
     readme_tags:
       - FLIP
       - Splash
@@ -25,3 +29,5 @@ entries:
       workflow:
         - fx
         - simulation
+      tech:
+        - houdini

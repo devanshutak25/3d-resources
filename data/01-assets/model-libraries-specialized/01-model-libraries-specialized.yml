@@ -20,6 +20,7 @@ entries:
   - name: Anatomy 360
     url: https://anatomy360.info/
     description: Artist reference models.
+    license: Paid
     entry_type: asset-source
     tags:
       workflow:
@@ -34,6 +35,7 @@ entries:
   - name: Anatomy For Sculptors
     url: https://www.artstation.com/anatomy4sculptors
     description: Anatomical references.
+    license: Paid
     entry_type: asset-source
     tags:
       workflow:
@@ -48,6 +50,7 @@ entries:
   - name: Insect 3D Models
     url: https://zerokobo.web.fc2.com/
     description: Insect models.
+    license: Free
     entry_type: asset-source
     readme_tags:
       - Insects
@@ -57,14 +60,18 @@ entries:
     tags:
       workflow:
         - modeling
+        - reference
   - name: Anything World Gallery
     url: https://app.anything.world/gallery
     description: Animated models.
+    license: Freemium
     entry_type: asset-source
     tags:
       workflow:
         - animation
         - modeling
+      tech:
+        - ai-generative
     readme_tags:
       - Animated
       - Game-Ready
@@ -73,12 +80,14 @@ entries:
   - name: Models Resource
     url: https://www.models-resource.com/
     description: Video game model rips.
+    license: Free
     entry_type: asset-source
     tags:
       output:
         - games
       workflow:
         - modeling
+        - reference
     readme_tags:
       - Game Rips
       - Study/Reference
@@ -87,14 +96,19 @@ entries:
   - name: Dimensions.com
     url: https://www.dimensions.com/
     description: Dimensioned drawings database.
+    license: Free
     entry_type: reference
     tags:
       workflow:
         - reference
         - modeling
+      output:
+        - archviz
+        - product-viz
     readme_tags:
       - Dimensions
       - Reference Data
+    notes: 'RELOCATE: reference'
     url_last_verified: '2026-04-19'
     url_status: ok
   - name: NASA 3D Resources
@@ -108,6 +122,8 @@ entries:
         - film-vfx
       workflow:
         - modeling
+      tech:
+        - cc0
     readme_tags:
       - Public Domain
       - Space/Science
@@ -116,12 +132,16 @@ entries:
   - name: Smithsonian 3D
     url: https://3d.si.edu/
     description: Historical artifacts.
+    license: Free
     entry_type: asset-source
     tags:
       output:
         - scientific-viz
       workflow:
         - modeling
+        - reference
+      tech:
+        - photogrammetry
     readme_tags:
       - Museum Scans
       - Historical
@@ -137,6 +157,7 @@ entries:
         - cc0
       workflow:
         - modeling
+        - reference
     readme_tags:
       - CC0
       - Museum
@@ -145,12 +166,14 @@ entries:
   - name: British Museum (Sketchfab)
     url: https://sketchfab.com/britishmuseum
     description: Scanned artifacts.
+    license: Free
     entry_type: asset-source
     tags:
       tech:
         - photogrammetry
       workflow:
         - modeling
+        - reference
     readme_tags:
       - Museum
       - Artifacts
@@ -159,6 +182,7 @@ entries:
   - name: Cleveland Museum of Art (Sketchfab)
     url: https://sketchfab.com/clevelandart
     description: Museum 3D scans.
+    license: Free
     entry_type: asset-source
     readme_tags:
       - Museum
@@ -168,6 +192,9 @@ entries:
     tags:
       workflow:
         - modeling
+        - reference
+      tech:
+        - photogrammetry
   - name: Quaternius
     url: https://quaternius.com/
     description: Free low-poly game assets.
@@ -188,6 +215,7 @@ entries:
   - name: Wire Wheels Club
     url: https://wirewheelsclub.com/models/
     description: Vehicle models.
+    license: Free
     entry_type: asset-source
     readme_tags:
       - Vehicles
@@ -200,25 +228,37 @@ entries:
   - name: Fusion Character Animator
     url: http://loopengo.free.fr/
     description: Small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
-    entry_type: asset-source
+    license: Free
+    entry_type: tool
+    notes: 'RELOCATE: tools (2D sprite tool, not 3D model)'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - modeling
+        - animation
+      output:
+        - games
   - name: AccuRIG
     url: https://actorcore.reallusion.com/auto-rig
     description: Free application designed for fast and easy character rigging.
-    entry_type: asset-source
+    license: Free
+    entry_type: tool
+    notes: 'RELOCATE: tools/rigging'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - modeling
+        - rigging
+        - skinning
+      output:
+        - games
+        - film-vfx
   - name: ossos
     url: https://github.com/sketchpunklabs/ossos
     description: A complete character skinning & animation library for the web
+    license: Open Source
     entry_type: tool
+    notes: 'RELOCATE: tools/dev-libraries'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -226,3 +266,5 @@ entries:
         - modeling
       tech:
         - opensource-alt
+      platform:
+        - web

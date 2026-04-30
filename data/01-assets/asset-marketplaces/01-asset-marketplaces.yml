@@ -3,6 +3,7 @@ entries:
     url: https://www.artstation.com/marketplace
     description: Professional assets.
     entry_type: marketplace
+    license: Paid
     readme_tags:
       - Professional
       - Creator-Direct
@@ -15,9 +16,14 @@ entries:
     url: https://assetstore.unity.com/
     description: Game-ready assets.
     entry_type: marketplace
+    license: Freemium
     tags:
       output:
         - games
+      platform:
+        - web
+      tech:
+        - unity-plugin
     readme_tags:
       - Unity-Ready
       - Games
@@ -27,10 +33,15 @@ entries:
     url: https://www.unrealengine.com/marketplace
     description: UE-optimized assets.
     entry_type: marketplace
+    license: Freemium
     tags:
       output:
         - games
         - film-vfx
+      platform:
+        - web
+      tech:
+        - unreal-plugin
     readme_tags:
       - UE-Optimized
       - Games
@@ -40,9 +51,13 @@ entries:
     url: https://blendermarket.com/
     description: Blender-specific assets and addons.
     entry_type: marketplace
+    license: Paid
     tags:
       tech:
         - blender-addon
+        - blender
+      platform:
+        - web
     readme_tags:
       - Blender-Specific
       - Addons + Assets
@@ -52,9 +67,12 @@ entries:
     url: https://cubebrush.co/
     description: Art and game assets.
     entry_type: marketplace
+    license: Paid
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Art Assets
       - Games
@@ -64,6 +82,7 @@ entries:
     url: https://www.fab.com/
     description: Unified marketplace (UE, Sketchfab, ArtStation).
     entry_type: marketplace
+    license: Freemium
     readme_tags:
       - Unified
       - Epic-backed

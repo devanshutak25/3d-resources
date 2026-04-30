@@ -8,6 +8,8 @@ entries:
         - archviz
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - SketchUp
       - Community
@@ -20,8 +22,11 @@ entries:
     tags:
       output:
         - archviz
+        - product-viz
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Arch/Design
       - Mixed Free/Paid
@@ -37,6 +42,8 @@ entries:
         - product-viz
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Furniture
       - Premium
@@ -51,6 +58,8 @@ entries:
         - archviz
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - BIM
       - CAD
@@ -63,8 +72,11 @@ entries:
     tags:
       output:
         - archviz
+        - product-viz
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Scenes
       - Arch-Viz Classic
@@ -79,6 +91,8 @@ entries:
         - archviz
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - BIM
       - Manufacturer Data
@@ -94,8 +108,12 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      output:
+        - archviz
       workflow:
         - modeling
+      platform:
+        - web
   - name: 3DSky
     url: https://3dsky.org
     description: Architecture models.
@@ -103,8 +121,11 @@ entries:
     tags:
       output:
         - archviz
+        - product-viz
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Arch-Viz
       - Large Library
@@ -120,6 +141,8 @@ entries:
         - product-viz
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Furniture
       - Product Design
@@ -135,5 +158,10 @@ entries:
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      output:
+        - archviz
+        - product-viz
       workflow:
         - modeling
+      platform:
+        - web
