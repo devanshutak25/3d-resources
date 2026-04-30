@@ -7,8 +7,8 @@ const fs = require('fs');
 const path = require('path');
 const Ajv = require('ajv/dist/2020');
 const addFormats = require('ajv-formats');
+const catalog = require('./lib/catalog');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
 const SCHEMA_PATH = path.join(__dirname, '..', 'schema', 'entry.schema.json');
 const VOCAB_PATH = path.join(__dirname, '..', 'schema', 'vocab.yml');
 
@@ -19,39 +19,16 @@ function loadYaml(p) {
   return yaml.load(fs.readFileSync(p, 'utf8'));
 }
 
-function loadSubEntries(sectionFile, subSlug) {
-  const subDir = path.join(DATA_DIR, sectionFile.replace(/\.yml$/, ''), subSlug);
-  if (!fs.existsSync(subDir)) return [];
-  const files = fs.readdirSync(subDir).filter(f => f.endsWith('.yml')).sort();
-  const entries = [];
-  for (const f of files) {
-    const c = loadYaml(path.join(subDir, f));
-    if (c && c.entries) entries.push(...c.entries);
-  }
-  return entries;
-}
-
 function validateSchema() {
   const ajv = new Ajv({ allErrors: true, strict: false });
   addFormats(ajv);
   const schema = JSON.parse(fs.readFileSync(SCHEMA_PATH, 'utf8'));
   const validate = ajv.compile(schema);
 
-  const sections = loadYaml(path.join(DATA_DIR, 'sections.yml'));
-  for (const meta of sections.sections) {
-    const file = path.join(DATA_DIR, meta.file);
-    if (!fs.existsSync(file)) {
-      errors.push(`Missing data file: ${meta.file}`);
-      continue;
-    }
-    const section = loadYaml(file);
-    for (const sub of section.subsections || []) {
-      for (const entry of loadSubEntries(meta.file, sub.slug)) {
-        if (!validate(entry)) {
-          for (const err of validate.errors) {
-            errors.push(`${meta.file} :: ${sub.slug} :: ${entry.name || entry.url}: ${err.instancePath} ${err.message}`);
-          }
-        }
+  for (const { sectionFile, subSlug, entry } of catalog.iterEntries()) {
+    if (!validate(entry)) {
+      for (const err of validate.errors) {
+        errors.push(`${sectionFile} :: ${subSlug} :: ${entry.name || entry.url}: ${err.instancePath} ${err.message}`);
       }
     }
   }
@@ -69,35 +46,27 @@ function validateVocab() {
   };
   const techVocab = new Set(vocab.tech);
 
-  const sections = loadYaml(path.join(DATA_DIR, 'sections.yml'));
   const techSeen = new Set();
-  for (const meta of sections.sections) {
-    const file = path.join(DATA_DIR, meta.file);
-    if (!fs.existsSync(file)) continue;
-    const section = loadYaml(file);
-    for (const sub of section.subsections || []) {
-      for (const entry of loadSubEntries(meta.file, sub.slug)) {
-        const loc = `${meta.file} :: ${sub.slug} :: ${entry.name}`;
-        if (entry.license !== undefined && !controlled.license.has(entry.license)) {
-          errors.push(`${loc}: unknown license "${entry.license}"`);
-        }
-        if (entry.entry_type && !controlled.entry_type.has(entry.entry_type)) {
-          errors.push(`${loc}: unknown entry_type "${entry.entry_type}"`);
-        }
-        if (entry.tags) {
-          for (const group of ['workflow', 'output', 'platform', 'skill']) {
-            for (const v of entry.tags[group] || []) {
-              if (!controlled[group].has(v)) {
-                errors.push(`${loc}: unknown ${group} tag "${v}"`);
-              }
-            }
+  for (const { sectionFile, subSlug, entry } of catalog.iterEntries()) {
+    const loc = `${sectionFile} :: ${subSlug} :: ${entry.name}`;
+    if (entry.license !== undefined && !controlled.license.has(entry.license)) {
+      errors.push(`${loc}: unknown license "${entry.license}"`);
+    }
+    if (entry.entry_type && !controlled.entry_type.has(entry.entry_type)) {
+      errors.push(`${loc}: unknown entry_type "${entry.entry_type}"`);
+    }
+    if (entry.tags) {
+      for (const group of ['workflow', 'output', 'platform', 'skill']) {
+        for (const v of entry.tags[group] || []) {
+          if (!controlled[group].has(v)) {
+            errors.push(`${loc}: unknown ${group} tag "${v}"`);
           }
-          for (const v of entry.tags.tech || []) {
-            techSeen.add(v);
-            if (!techVocab.has(v)) {
-              warnings.push(`${loc}: tech tag "${v}" not in vocab.yml (freeform allowed but consider adding)`);
-            }
-          }
+        }
+      }
+      for (const v of entry.tags.tech || []) {
+        techSeen.add(v);
+        if (!techVocab.has(v)) {
+          warnings.push(`${loc}: tech tag "${v}" not in vocab.yml (freeform allowed but consider adding)`);
         }
       }
     }
@@ -107,24 +76,20 @@ function validateVocab() {
 function validateDuplicates() {
   // Entries with same URL across sections should be explicitly dual-listed.
   const urlMap = new Map(); // normalized url → [{section, subsection, name, dual_listed_in}]
-  const sections = loadYaml(path.join(DATA_DIR, 'sections.yml'));
-  for (const meta of sections.sections) {
-    const file = path.join(DATA_DIR, meta.file);
-    if (!fs.existsSync(file)) continue;
-    const section = loadYaml(file);
-    for (const sub of section.subsections || []) {
-      for (const entry of loadSubEntries(meta.file, sub.slug)) {
-        const url = normalizeUrl(entry.url);
-        if (!urlMap.has(url)) urlMap.set(url, []);
-        urlMap.get(url).push({
-          section: section.slug,
-          subsection: sub.slug,
-          name: entry.name,
-          dual_listed_in: entry.dual_listed_in || [],
-          file: meta.file
-        });
-      }
-    }
+  const fileToSlug = new Map();
+  for (const meta of catalog.loadSections().sections) {
+    fileToSlug.set(meta.file, catalog.loadSection(meta.file).slug);
+  }
+  for (const { sectionFile, subSlug, entry } of catalog.iterEntries()) {
+    const url = normalizeUrl(entry.url);
+    if (!urlMap.has(url)) urlMap.set(url, []);
+    urlMap.get(url).push({
+      section: fileToSlug.get(sectionFile),
+      subsection: subSlug,
+      name: entry.name,
+      dual_listed_in: entry.dual_listed_in || [],
+      file: sectionFile
+    });
   }
   for (const [url, places] of urlMap) {
     if (places.length < 2) continue;

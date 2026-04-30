@@ -72,6 +72,8 @@ Deliverable: every entry now lives in a ≤50-entry file. README byte-stable.
 
 Build the seam, migrate consumers one at a time.
 
+Progress 2026-04-30: `scripts/lib/catalog.js` shipped with full surface (`loadSections`, `loadSection`, `listChunks`, `loadChunk`, `saveChunk`, `iterChunks`, `iterEntries`, `appendEntry`, `CHUNK_CAP`). Smoke test in `scripts/lib/catalog.test.js`. `render.js` and `validate.js` rewired through Catalog — render output byte-stable vs pre-rewire; validate runs clean (2 pre-existing dual_listed_in warnings unchanged).
+
 `scripts/lib/catalog.js`:
 
 ```js
@@ -86,8 +88,8 @@ catalog.appendEntry(section, sub, entry) // handles cap + new-chunk creation
 
 Migration order (one PR each, with tests):
 
-1. `render.js` — exercises `iterEntries` + alphabetical render sort. Highest leverage.
-2. `validate.js` — schema/vocab/duplicates over `iterEntries`.
+1. `render.js` — exercises `iterEntries` + alphabetical render sort. Highest leverage. ✅ done 2026-04-30
+2. `validate.js` — schema/vocab/duplicates over `iterEntries`. ✅ done 2026-04-30
 3. `export-data.js` — JSON export for site filter UI.
 4. `dedupe-entries.js` — cross-chunk read, mutating writes via `saveChunk`.
 5. `audit-classification.js`, `auto-tag.js`, `quality-scan.js`, `quarantine-low.js`, `freshness-digest.js`, `triage-candidates.js`, `check-links.js`, `check-pricing-freshness.js`, `check-repo-staleness.js`, `recheck-unreachable.js`, `dedupe-youtube.js`, `watch-releases.js`, `mine-awesome.js`, `ingest-*.js` — convert as needed.
