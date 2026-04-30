@@ -102,7 +102,9 @@ Deliverable: zero scripts read `data/` directly. All go through Catalog.
 
 ---
 
-## Step 5 — canonicalUrl consolidation
+## Step 5 — canonicalUrl consolidation ✅ done 2026-04-30
+
+Shipped: `scripts/lib/canonical-url.js` (single `canonicalUrl(input)` + exported `TRACKING_PARAMS`). Table-driven tests in `scripts/lib/canonical-url.test.js` (16 cases, all green) lock the 7 rules below. Replaced inline copies in `scripts/validate.js` (`normalizeUrl`), `scripts/lib/ingest-core.js` (`normalize`, re-exported as alias to preserve adapter API), `scripts/dedupe-entries.js` (`normUrl`). `validate.js` and `dedupe-entries.js plan` smoke-tested clean. New canonical (force-https + strip-www) surfaced one previously-masked exact-URL duplicate (`neilblevins.com` http vs https) — real find, expected.
 
 `scripts/lib/canonical-url.js`. Single function, table-driven tests.
 

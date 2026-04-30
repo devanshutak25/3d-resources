@@ -107,15 +107,7 @@ function validateDuplicates() {
   }
 }
 
-function normalizeUrl(u) {
-  try {
-    const url = new URL(u);
-    url.hash = '';
-    let s = url.toString();
-    if (s.endsWith('/') && url.pathname !== '/') s = s.slice(0, -1);
-    return s;
-  } catch (e) { return u; }
-}
+const { canonicalUrl: normalizeUrl } = require('./lib/canonical-url');
 
 function main() {
   validateSchema();

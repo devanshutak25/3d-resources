@@ -2,23 +2,13 @@
 const fs = require('fs');
 const path = require('path');
 const catalog = require('./catalog');
+const { canonicalUrl } = require('./canonical-url');
 
 const ROOT = path.join(__dirname, '..', '..');
 const FRESH_DIR = path.join(ROOT, '_maintenance', 'freshness');
 if (!fs.existsSync(FRESH_DIR)) fs.mkdirSync(FRESH_DIR, { recursive: true });
 
-function normalize(u) {
-  try {
-    const url = new URL(u);
-    url.hash = '';
-    url.protocol = 'https:';
-    url.hostname = url.hostname.replace(/^www\./, '');
-    for (const p of ['utm_source', 'utm_medium', 'utm_campaign', 'ref', 'source']) url.searchParams.delete(p);
-    let s = url.toString();
-    if (s.endsWith('/') && url.pathname !== '/') s = s.slice(0, -1);
-    return s.toLowerCase();
-  } catch { return (u || '').toLowerCase(); }
-}
+const normalize = canonicalUrl;
 
 function loadCatalogUrls() {
   const set = new Set();

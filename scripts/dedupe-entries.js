@@ -7,17 +7,9 @@
 // Anything ambiguous: report, do not touch.
 
 const catalog = require('./lib/catalog');
+const { canonicalUrl } = require('./lib/canonical-url');
 
-function normUrl(u){
-  if(!u) return '';
-  try{
-    const x = new URL(u);
-    let h = x.hostname.replace(/^www\./,'').toLowerCase();
-    let p = x.pathname.replace(/\/+$/,'').toLowerCase();
-    let q = x.search.toLowerCase();
-    return h + p + q;
-  }catch(e){ return u.toLowerCase().replace(/\/+$/,''); }
-}
+const normUrl = canonicalUrl;
 function host(u){ try{ return new URL(u).hostname.replace(/^www\./,'').toLowerCase(); }catch(e){ return ''; } }
 
 const EXCLUDE_HOSTS_R2 = new Set([
