@@ -2,6 +2,7 @@ entries:
   - name: Polymesh to Volume (Arnold)
     url: https://docs.arnoldrenderer.com/display/A5AFMUG/Polymesh+to+Volume
     description: Arnold polymesh to volume conversion.
+    license: Free
     entry_type: reference
     readme_tags:
       - Arnold
@@ -11,18 +12,26 @@ entries:
     tags:
       workflow:
         - rendering
+        - lighting
+      tech:
+        - path-tracing
   - name: Ariev Visuals Resources
     url: http://arievvisuals.com/resources
     description: Octane tutorials and assets.
+    license: Free
     entry_type: reference
     readme_tags:
       - Octane
-      - Tutorials + Assets
+      - Tutorials
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - rendering
+        - lighting
+      tech:
+        - gpu
+        - path-tracing
   - name: Veach Thesis (Stanford)
     url: https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf
     description: Light transport theory — foundational PBR thesis.
@@ -33,6 +42,7 @@ entries:
         - path-tracing
       workflow:
         - rendering
+        - lighting
     readme_tags:
       - Thesis
       - Light Transport

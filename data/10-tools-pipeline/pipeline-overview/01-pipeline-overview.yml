@@ -3,6 +3,7 @@ entries:
     url: https://www.autodesk.com/products/3ds-max/
     description: Primary software — 3ds Max, SketchUp, Revit. Key considerations — accuracy, real-world scale.
     entry_type: reference
+    license: proprietary
     tags:
       output:
         - archviz
@@ -15,6 +16,7 @@ entries:
     url: https://www.autodesk.com/products/fusion-360/
     description: Primary software — Fusion 360, SolidWorks, KeyShot. Key considerations — manufacturing.
     entry_type: reference
+    license: proprietary
     tags:
       output:
         - product-viz
@@ -27,6 +29,7 @@ entries:
     url: https://www.maxon.net/
     description: Primary software — Cinema 4D, After Effects. Key considerations — stylized looks, fast iteration.
     entry_type: reference
+    license: proprietary
     tags:
       output:
         - motion-graphics

@@ -135,6 +135,7 @@ entries:
   - name: Pixelmator
     url: http://www.pixelmator.com
     description: Full-featured image editing app for the Mac.
+    license: Paid
     entry_type: software
     best_for: Mac image editing
     tags:
@@ -152,6 +153,7 @@ entries:
   - name: PixiEditor
     url: https://pixieditor.net/
     description: Universal 2D graphics editor — procedural graphics w/ node graph, image editing, vectors, pixel art, animations.
+    license: Open Source
     entry_type: software
     best_for: Unified 2D editor
     tags:
@@ -161,7 +163,10 @@ entries:
       output:
         - games
         - illustration
+      platform:
+        - win
       tech:
+        - opensource-alt
         - node-based
         - procedural
     readme_tags:

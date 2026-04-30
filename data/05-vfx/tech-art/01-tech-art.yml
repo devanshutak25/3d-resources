@@ -65,7 +65,21 @@ entries:
   - name: AFX
     url: https://github.com/AuthorityFX/afx-nuke-plugins
     description: Everyday compositing for Nuke
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    tags:
+      workflow:
+        - fx
+        - compositing
+      tech:
+        - opensource-alt
+  - name: NXT
+    url: https://nxt-dev.github.io/
+    description: A layered code compositing application.
+    entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -74,20 +88,10 @@ entries:
         - rendering
       tech:
         - opensource-alt
-  - name: NXT
-    url: https://nxt-dev.github.io/
-    description: A layered code compositing application.
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
-    tags:
-      workflow:
-        - fx
-        - rendering
   - name: Nuke Tools (VS Code)
     url: https://open-vsx.org/extension/virgilsisoe/nuke-tools
     description: VS Code extension for Nuke Python/BlinkScript development.
-    entry_type: tool
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - VS Code
@@ -97,13 +101,14 @@ entries:
     tags:
       workflow:
         - fx
-        - rendering
+        - compositing
       tech:
         - opensource-alt
   - name: Nuke Tools ST
     url: https://packagecontrol.io/packages/NukeToolsST
     description: Sublime Text package to send Python/BlinkScript code into Nuke.
-    entry_type: tool
+    entry_type: plugin
+    license: Open Source
     readme_tags:
       - Sublime Text
       - Nuke Dev
@@ -112,11 +117,15 @@ entries:
     tags:
       workflow:
         - fx
-        - rendering
+        - compositing
+      tech:
+        - opensource-alt
   - name: Bino
     url: https://github.com/ThreeDeeJay/bino/tree/main
     description: 3D video player with support for 180°/360° video and Virtual Reality.
     entry_type: tool
+    license: Open Source
+    notes: RELOCATE — VR/360 video player, not tech-art specific. Consider XR or media tools section.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -125,46 +134,56 @@ entries:
         - rendering
       tech:
         - opensource-alt
+        - xr
   - name: CasparCG
     url: https://github.com/CasparCG
     description: A Windows and Linux software used to play out professional graphics, audio, and video to multiple outputs as a layer-based real-time compositor.
     entry_type: tool
+    license: Open Source
+    notes: RELOCATE — broadcast playout/compositor, fits broadcast/virtual-production better than tech-art.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - fx
-        - rendering
+        - compositing
+      output:
+        - broadcast
       tech:
         - opensource-alt
+        - real-time
   - name: xComp
     url: https://github.com/gugenstudio/xComp
     description: Image Render comparing.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - fx
         - rendering
+        - compositing
       tech:
         - opensource-alt
   - name: Kiko
     url: https://github.com/Toolchefs/kiko
     description: DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come).
     entry_type: tool
+    license: Open Source
+    notes: RELOCATE — animation curves interchange tool, fits animation pipeline better than tech-art.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - fx
-        - rendering
+        - animation
+        - compositing
       tech:
         - opensource-alt
   - name: OpenWalter
     url: https://github.com/rodeofx/OpenWalter
     description: USD Plugins Arnold, Houdini, Katana, Maya and USD.
-    entry_type: tool
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -173,3 +192,4 @@ entries:
         - rendering
       tech:
         - opensource-alt
+        - usd

@@ -3,6 +3,7 @@ entries:
     url: https://www.reddit.com/r/gamedev/
     description: 1.5M+ game dev subreddit.
     entry_type: community
+    license: Free
     readme_tags:
       - Reddit
       - Very Active
@@ -15,6 +16,7 @@ entries:
     url: https://www.reddit.com/r/indiegaming/
     description: Indie gaming subreddit.
     entry_type: community
+    license: Free
     readme_tags:
       - Reddit
       - Indie
@@ -27,6 +29,7 @@ entries:
     url: https://www.reddit.com/r/unrealengine/
     description: Unreal Engine subreddit.
     entry_type: community
+    license: Free
     readme_tags:
       - Reddit
       - Unreal
@@ -39,6 +42,7 @@ entries:
     url: https://www.reddit.com/r/IndieDev/
     description: Indie developer subreddit.
     entry_type: community
+    license: Free
     readme_tags:
       - Reddit
       - Indie Dev
@@ -51,6 +55,7 @@ entries:
     url: https://www.reddit.com/r/gamedesign/
     description: Game design subreddit.
     entry_type: community
+    license: Free
     readme_tags:
       - Reddit
       - Design
@@ -63,6 +68,7 @@ entries:
     url: https://www.reddit.com/r/PixelArt/
     description: Pixel art subreddit.
     entry_type: community
+    license: Free
     readme_tags:
       - Reddit
       - Pixel Art
@@ -75,6 +81,7 @@ entries:
     url: https://discord.gg/gamedev
     description: Game dev Discord.
     entry_type: community
+    license: Free
     readme_tags:
       - Discord
       - Large Community
@@ -87,6 +94,7 @@ entries:
     url: https://unrealslackers.org/
     description: Unreal Engine Discord community.
     entry_type: community
+    license: Free
     readme_tags:
       - Discord
       - Unreal
@@ -99,6 +107,7 @@ entries:
     url: https://discord.gg/brackeys
     description: Brackeys Discord community.
     entry_type: community
+    license: Free
     readme_tags:
       - Discord
       - Brackeys
@@ -111,6 +120,7 @@ entries:
     url: https://www.workwithindies.com/
     description: Indie game job board.
     entry_type: community
+    license: Free
     readme_tags:
       - Job Board
       - Indie
@@ -123,6 +133,7 @@ entries:
     url: https://www.indiedb.com/
     description: Indie game database and promotion.
     entry_type: community
+    license: Free
     readme_tags:
       - Indie DB
       - Promo
@@ -135,6 +146,7 @@ entries:
     url: https://forums.tigsource.com/
     description: Long-running indie forum.
     entry_type: community
+    license: Free
     readme_tags:
       - Forum
       - Indie Classic

@@ -57,6 +57,8 @@ entries:
       platform:
         - win
         - mac
+      tech:
+        - cloud
     readme_tags:
       - CAD/CAM
       - Personal Free
@@ -213,6 +215,7 @@ entries:
   - name: Solvespace
     url: https://solvespace.com/index.pl
     description: Parametric 3D CAD modeling tool.
+    license: Open Source
     entry_type: software
     best_for: Lightweight parametric CAD
     tags:
@@ -224,6 +227,8 @@ entries:
         - win
         - mac
         - linux
+      tech:
+        - opensource-alt
     readme_tags:
       - Parametric
       - Lightweight

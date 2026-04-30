@@ -230,6 +230,7 @@ entries:
   - name: Modo
     url: https://www.foundry.com/products/modo
     description: Foundry's 3D modeling, texturing, rendering package.
+    license: Paid
     entry_type: software
     best_for: Modeling, product viz
     tags:
@@ -252,6 +253,7 @@ entries:
   - name: Daz 3D
     url: https://www.daz3d.com/
     description: Character-focused 3D software w/ large marketplace of figures and morphs. Free core app.
+    license: Paid
     entry_type: software
     best_for: Character-centric scenes
     tags:

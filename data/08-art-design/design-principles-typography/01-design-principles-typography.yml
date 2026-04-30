@@ -66,9 +66,16 @@ entries:
   - name: Kerning Tool
     url: https://forums.odforce.net/topic/42827-kerning-tool/
     description: Kerning typography in Houdini.
-    entry_type: reference
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Houdini
+      - Kerning
+    notes: Forum thread about a Houdini kerning utility — fits typography only tangentially (Houdini-specific tool); subsection misfit candidate.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - reference
+      tech:
+        - houdini-addon

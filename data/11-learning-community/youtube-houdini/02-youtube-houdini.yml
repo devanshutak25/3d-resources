@@ -2,7 +2,11 @@ entries:
   - name: Rendering Engine Architecture Conference
     url: https://www.youtube.com/@renderingenginearchitectur3543
     description: 'SIGGRAPH 2021 REAC: Unity Rendering Architecture.'
+    license: Free
     entry_type: channel
+    readme_tags:
+      - Rendering
+      - SIGGRAPH
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -11,7 +15,11 @@ entries:
   - name: Next-Generation 3D Graphics on the Web
     url: https://www.youtube.com/@ChromeDevs
     description: Talk at Google I/O 19 from Ricardo Cabello (MrDoob).
+    license: Free
     entry_type: channel
+    readme_tags:
+      - WebGL
+      - Talk
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -20,7 +28,11 @@ entries:
   - name: Inigo Quilez
     url: https://www.youtube.com/@InigoQuilez
     description: The principles of painting with maths.
+    license: Free
     entry_type: channel
+    readme_tags:
+      - Shaders
+      - Math
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -29,7 +41,11 @@ entries:
   - name: Codegram
     url: https://www.youtube.com/@Codegram
     description: 'Full Stack Fest 2015: The Pixel Factory (Great visuals to gain insights into what''s going on with concepts such as UV''s, and Rastering)'
+    license: Free
     entry_type: channel
+    readme_tags:
+      - Fundamentals
+      - Talk
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -38,6 +54,7 @@ entries:
   - name: WhatIFound (Jason Harmon)
     url: https://www.youtube.com/@WhatIFound
     description: Liquid and fluid tutorials.
+    license: Free
     entry_type: channel
     tags:
       workflow:
@@ -53,6 +70,7 @@ entries:
   - name: Not Very Dark Magic
     url: https://www.youtube.com/@notverydarkmagic
     description: Hair and fur starting point.
+    license: Free
     entry_type: channel
     readme_tags:
       - Hair/Fur
@@ -65,6 +83,7 @@ entries:
   - name: 2D Cel Flames with Pyro
     url: https://www.youtube.com/@MichaelStarkTV
     description: Stylized 2D flame with pyro sim.
+    license: Free
     entry_type: channel
     readme_tags:
       - Stylized
@@ -77,6 +96,7 @@ entries:
   - name: Matt Taylor Motion (Emty01)
     url: https://www.youtube.com/@MattTaylorMotion
     description: Recursive subdivision animation.
+    license: Free
     entry_type: channel
     readme_tags:
       - Recursion
@@ -89,6 +109,7 @@ entries:
   - name: Voxel/Lego Pyro Explosion
     url: https://www.youtube.com/@kevfx
     description: Stylized voxel explosion.
+    license: Free
     entry_type: channel
     readme_tags:
       - Voxel

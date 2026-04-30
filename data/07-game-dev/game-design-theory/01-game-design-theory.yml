@@ -193,6 +193,7 @@ entries:
     url: https://viniguerrero.itch.io/godot-game-tools
     description: Made easy importing mixamo animations. tools to ease the creation/import process of assets into Godot Game Engine and others.
     entry_type: software
+    notes: 'RELOCATE: 07-game-dev/engines-tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -202,6 +203,7 @@ entries:
     url: https://watabou.itch.io/medieval-fantasy-city-generator
     description: 'This application generates a random medieval city layout of a requested size. [City Viewer](https://watabou.itch.io/city-viewer) : is a 3d-visualizer for MFCD. See other generators from'
     entry_type: software
+    notes: 'RELOCATE: 07-game-dev/engines-tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -222,6 +224,7 @@ entries:
     url: https://github.com/ColleagueRiley/RGFW
     description: Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
     entry_type: tool
+    notes: 'RELOCATE: 07-game-dev/engines-tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -266,6 +269,7 @@ entries:
     url: https://github.com/Kavex/GlueIT
     description: Free Simple Spritesheet Tool
     entry_type: tool
+    notes: 'RELOCATE: 07-game-dev/engines-tools'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

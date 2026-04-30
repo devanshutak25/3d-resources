@@ -5,6 +5,7 @@ entries:
     license: Freemium
     entry_type: software
     best_for: AI PBR textures
+    notes: entry_type=software but lives under AI/ML section; AI texture platform, not a DCC.
     tags:
       tech:
         - ai-generative
@@ -23,6 +24,7 @@ entries:
     license: Paid
     entry_type: software
     best_for: Game-ready AI materials
+    notes: entry_type=software but is an AI material generation platform under §9.
     tags:
       output:
         - games
@@ -43,6 +45,7 @@ entries:
     license: Freemium
     entry_type: software
     best_for: Textures tied to Meshy 3D
+    notes: entry_type=software but is AI texture feature of Meshy; consider tool reclassification later.
     tags:
       tech:
         - ai-generative
@@ -60,6 +63,7 @@ entries:
     license: Paid
     entry_type: software
     best_for: Adobe-integrated AI textures
+    notes: entry_type=software; Firefly is an AI service, not standalone DCC.
     tags:
       tech:
         - ai-generative
@@ -77,6 +81,7 @@ entries:
     license: Freemium
     entry_type: software
     best_for: Mesh-aware AI textures
+    notes: entry_type=software but is AI text-to-texture tool; possible tool reclass.
     tags:
       tech:
         - ai-generative
@@ -94,6 +99,7 @@ entries:
     license: Paid
     entry_type: software
     best_for: AI-assisted material authoring
+    notes: entry_type=software fits (Substance-alt DCC) but dual-listed candidate with §5 material authoring.
     tags:
       workflow:
         - material-authoring

@@ -17,6 +17,7 @@ entries:
   - name: Godot Asset Library
     url: https://godotengine.org/asset-library/asset
     description: Official addon and plugin marketplace.
+    license: Free
     entry_type: marketplace
     readme_tags:
       - Official
@@ -31,6 +32,7 @@ entries:
   - name: Godot Shaders
     url: https://godotshaders.com/
     description: Community shader library with visual previews.
+    license: Free
     entry_type: asset-source
     tags:
       workflow:
@@ -47,6 +49,7 @@ entries:
   - name: Godot Proposals
     url: https://github.com/godotengine/godot-proposals
     description: Feature request tracker and roadmap.
+    license: Free
     entry_type: reference
     readme_tags:
       - Roadmap

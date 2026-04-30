@@ -3,6 +3,7 @@ entries:
     url: https://www.youtube.com/@MaxonVFX
     description: Jarred van de Voort, NAB 2023.
     entry_type: channel
+    license: null
     tags:
       output:
         - product-viz
@@ -11,6 +12,9 @@ entries:
         - rendering
       platform:
         - web
+      tech:
+        - redshift
+        - gpu
     readme_tags:
       - Product Lighting
       - NAB 2023
@@ -20,21 +24,28 @@ entries:
     url: https://www.youtube.com/@MaxonTrainingTeam
     description: Redshift lighting techniques.
     entry_type: channel
+    license: null
     readme_tags:
       - Redshift
       - MoGraph
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       workflow:
         - lighting
         - rendering
       platform:
         - web
+      tech:
+        - redshift
+        - gpu
   - name: You And Me Academy
     url: https://www.youtube.com/@YouAndMeAcademy
     description: Light groups workflow.
     entry_type: channel
+    license: null
     readme_tags:
       - Light Groups
       - Workflow
@@ -46,18 +57,26 @@ entries:
         - rendering
       platform:
         - web
+      tech:
+        - redshift
+        - gpu
   - name: Redshift Interior Materials & Lighting
     url: https://www.youtube.com/@Cinema4DTutorialsSV
     description: Interior materials and lighting.
     entry_type: channel
+    license: null
     tags:
       output:
         - archviz
       workflow:
         - lighting
         - rendering
+        - material-authoring
       platform:
         - web
+      tech:
+        - redshift
+        - gpu
     readme_tags:
       - Interiors
       - Materials
@@ -67,14 +86,20 @@ entries:
     url: https://www.youtube.com/@MotionAndDesign
     description: Art-directing lights across cloners.
     entry_type: channel
+    license: null
     readme_tags:
       - Cloner
       - Art Direction
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       workflow:
         - lighting
         - rendering
       platform:
         - web
+      tech:
+        - redshift
+        - gpu

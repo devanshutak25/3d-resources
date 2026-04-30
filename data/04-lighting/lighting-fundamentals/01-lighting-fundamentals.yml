@@ -3,6 +3,7 @@ entries:
     url: https://helloluxx.com/tutorial/10-tips-for-better-lighting/
     description: Helloluxx lighting tips.
     entry_type: tutorial
+    license: null
     readme_tags:
       - 10 Tips
       - helloluxx
@@ -17,6 +18,7 @@ entries:
     url: https://www.youtube.com/@TheDigitalRevolutionTV
     description: Beginner C4D lighting.
     entry_type: channel
+    license: null
     tags:
       skill:
         - beginner
@@ -33,6 +35,7 @@ entries:
     url: https://www.youtube.com/@lukasthorup
     description: Improve C4D lighting.
     entry_type: channel
+    license: null
     readme_tags:
       - C4D
       - Lighting
@@ -49,6 +52,7 @@ entries:
     url: https://www.schoolofmotion.com/blog/
     description: Shadows, volumetrics, HDRI, and area light techniques.
     entry_type: reference
+    license: null
     readme_tags:
       - Techniques
       - Blog
@@ -63,6 +67,10 @@ entries:
     url: https://www.creativeshrimp.com/
     description: High quality CG tutorials and Blender tutorials, digital art and lighting tutorials with Gleb and Aidy.
     entry_type: tutorial
+    license: Free
+    readme_tags:
+      - Blender
+      - Lighting
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -70,3 +78,5 @@ entries:
         - lighting
       skill:
         - beginner
+      tech:
+        - blender

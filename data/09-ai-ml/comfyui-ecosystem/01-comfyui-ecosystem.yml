@@ -32,6 +32,7 @@ entries:
   - name: ComfyUI Registry
     url: https://comfyui.org/
     description: Community workflow and subgraph sharing.
+    license: Free
     entry_type: marketplace
     readme_tags:
       - Workflow Share
@@ -58,6 +59,7 @@ entries:
   - name: Comflowy
     url: https://www.comflowy.com/
     description: ComfyUI tutorials for ControlNet, SDXL, FLUX workflows.
+    license: Free
     entry_type: tutorial
     readme_tags:
       - Tutorials

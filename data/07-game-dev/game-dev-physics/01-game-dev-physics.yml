@@ -50,6 +50,7 @@ entries:
   - name: Box2D.NET
     url: https://github.com/ikpil/Box2D.NET
     description: A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -62,6 +63,7 @@ entries:
   - name: Lockstep Framework
     url: https://github.com/SnpM/LockstepFramework
     description: A framework designed for games that need lockstep simulations. It includes a deterministic 2D physics engine, pathfinding, behavior system, and more. LSF is integrated with Unity.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -74,6 +76,7 @@ entries:
   - name: UnrealJolt
     url: https://github.com/Yadhu-S/UnrealJolt
     description: Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -86,6 +89,7 @@ entries:
   - name: Cannon.js
     url: http://schteppe.github.io/cannon.js/
     description: Lightweight and simple 3D physics engine for the web.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok

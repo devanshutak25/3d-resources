@@ -87,18 +87,24 @@ entries:
   - name: Stitches
     url: https://draeton.github.io/stitches/
     description: An HTML5 sprite sheet generator
-    entry_type: software
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - web
       workflow:
         - fx
+      tech:
+        - opensource-alt
   - name: Ez Sprite Sheet
     url: https://github.com/z64me/EzSpriteSheet
     description: Creates sprite sheets from animated GIFs and more
-    entry_type: reference
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -111,7 +117,8 @@ entries:
   - name: Sprite Sheet Maker
     url: https://isometric8.itch.io/sprite-sheet-maker
     description: Sprite Sheet Maker is a handy no fuss utility to pack sprites
-    entry_type: software
+    license: Free
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -122,7 +129,8 @@ entries:
   - name: Sprite Sheet Slicer
     url: https://isometric8.itch.io/sprite-sheet-slicer
     description: Sprite Sheet Slicer is a handy no fuss utility to slice sprites
-    entry_type: software
+    license: Free
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -133,6 +141,7 @@ entries:
   - name: LibreSprite
     url: https://libresprite.github.io/
     description: LibreSprite is an open source fork of Aseprite.
+    license: Open Source
     entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -141,9 +150,12 @@ entries:
         - games
       workflow:
         - fx
+      tech:
+        - opensource-alt
   - name: PyxelEdit
     url: http://pyxeledit.com/
     description: Pixel art editor for tilesets, levels, animations.
+    license: Paid
     entry_type: software
     best_for: Pixel art tilesets/levels
     tags:
@@ -162,6 +174,7 @@ entries:
   - name: Pixelator
     url: http://pixelatorapp.com
     description: Turn any image into pixel art.
+    license: Paid
     entry_type: software
     best_for: Image→pixel art
     tags:
@@ -178,6 +191,7 @@ entries:
   - name: Pixa.Pics
     url: https://pixa.pics/
     description: Browser pixel-art tool w/ vectorization.
+    license: Freemium
     entry_type: software
     best_for: Browser pixel art
     tags:
@@ -195,6 +209,7 @@ entries:
   - name: Pickle
     url: http://www.pickleeditor.com/
     description: Pixel art editor.
+    license: Paid
     entry_type: software
     best_for: Pixel art editing
     tags:
@@ -210,6 +225,7 @@ entries:
   - name: Lightcube
     url: https://www.lightcube.art/
     description: Pixel art editor for Windows w/ PSD, JPEG, PNG, BMP, GIF support.
+    license: Paid
     entry_type: software
     best_for: Windows pixel art w/ PSD
     tags:
@@ -227,6 +243,7 @@ entries:
   - name: Talos VFX
     url: https://github.com/rockbite/talos
     description: Node based, open source VFX Editor with powerful interface and a ready to use libGDX runtime.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -240,7 +257,8 @@ entries:
   - name: Pixen (GitHub)
     url: https://github.com/Pixen/Pixen
     description: Pixel Art Editor for OSX
-    entry_type: tool
+    license: Open Source
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -253,6 +271,7 @@ entries:
   - name: Kavex's Spritesheet Maker
     url: https://github.com/Kavex/Spritesheet-Maker
     description: Free spritesheet maker to replace GlueIT. Has much newer export formats.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -266,18 +285,21 @@ entries:
   - name: Pro Motion
     url: http://www.cosmigo.com/pixel_animation_software
     description: Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
-    entry_type: tool
+    license: Paid
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
       workflow:
         - fx
   - name: Walking animation cycle in games
     url: https://finalbossblues.com/walk-cycles-p1/
     description: Walking animation cycle in games.
-    entry_type: tool
+    entry_type: tutorial
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -288,6 +310,7 @@ entries:
   - name: Wobblepaint
     url: https://www.lexaloffle.com/bbs/?tid=40058
     description: Pico8 editor that give life to pixel art with a little wobble.
+    license: Free
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -299,7 +322,8 @@ entries:
   - name: Make Your Own Pixel Art
     url: https://nostarch.com/pixelart
     description: Walks you step-by-step through the available tools, pixel art techniques, the importance of shapes, colors, shading, and how to turn your art into animation.
-    entry_type: tool
+    license: Paid
+    entry_type: tutorial
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -310,7 +334,7 @@ entries:
   - name: Owlboy
     url: http://www.owlboygame.com/
     description: Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
-    entry_type: tool
+    entry_type: inspiration
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -321,7 +345,7 @@ entries:
   - name: Starbound
     url: https://playstarbound.com/
     description: Travel across vibrant, colorful and expansive galaxies, including creative dynamic animations.
-    entry_type: tool
+    entry_type: inspiration
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -332,7 +356,7 @@ entries:
   - name: Paul Robertson
     url: http://probertson.tumblr.com/
     description: Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
-    entry_type: tool
+    entry_type: inspiration
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -343,11 +367,16 @@ entries:
   - name: PixelCraft
     url: https://rgab1508.github.io/PixelCraft/
     description: Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - web
       workflow:
         - fx
+      tech:
+        - opensource-alt

@@ -3,6 +3,7 @@ entries:
     url: https://blender.stackexchange.com/
     description: Blender Q&A community on Stack Exchange.
     entry_type: community
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -11,10 +12,12 @@ entries:
         - xr
       tech:
         - xr
+    notes: MISFIT — generic Blender community, not XR-specific.
   - name: Building an AR game with ARKit and Spritekit
     url: https://blog.pusher.com/building-ar-game-arkit-spritekit/
     description: Building an AR game with ARKit and Spritekit.
-    entry_type: tool
+    entry_type: tutorial
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -27,6 +30,7 @@ entries:
     url: https://developer.apple.com/augmented-reality/reality-composer
     description: High-level AR framework by Apple. Comparable to Unity and Unreal Engine but specific for AR solutions.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -38,7 +42,8 @@ entries:
   - name: Capturing Body Motion in 3D | Apple Developer Documentation
     url: https://developer.apple.com/documentation/arkit/content_anchors/capturing_body_motion_in_3d
     description: Capturing Body Motion in 3D | Apple Developer Documentation.
-    entry_type: tool
+    entry_type: reference
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -50,7 +55,8 @@ entries:
   - name: Rigging a Model for Motion Capture | Apple Developer Documentation
     url: https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture
     description: Rigging a Model for Motion Capture | Apple Developer Documentation.
-    entry_type: tool
+    entry_type: reference
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -62,7 +68,8 @@ entries:
   - name: Rendering | Oculus Developers
     url: https://developer.oculus.com/resources/bp-rendering/
     description: Rendering | Oculus Developers.
-    entry_type: tool
+    entry_type: reference
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -75,6 +82,7 @@ entries:
     url: https://developer.vuforia.com/
     description: AR SDK that is directly integrated in the Unity Editor. Proprietary license, [free to develop with](https://developer.vuforia.com/vui/pricing)
     entry_type: tool
+    license: Freemium
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -87,6 +95,7 @@ entries:
     url: https://github.com/aosoft/UnityVRVideoRecordingTest
     description: Test project to record VR sessions. (#VIRTUAL-REALITY)
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -100,6 +109,7 @@ entries:
     url: https://learn.unity.com/pathway/vr-development
     description: '``Unity`` guided learning Pathway will prepare you for a job in the VR industry |'
     entry_type: tutorial
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -112,6 +122,7 @@ entries:
     url: https://www.oculus.com/experiences/rift/3257686387611106/
     description: Medium is a dedicated VR sculpting and painting package for users of Oculus headsets, capable of exporting models to DCC applications in OBJ or FBX format.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -123,7 +134,8 @@ entries:
   - name: How to support GearVR and Google Cardboard in one Unity3D project
     url: http://ralphbarbagallo.com/2015/05/26/how-to-support-gear-vr-and-google-cardboard-in-one-unity3d-project/
     description: How to support GearVR and Google Cardboard in one Unity3D project.
-    entry_type: tool
+    entry_type: tutorial
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -135,7 +147,8 @@ entries:
   - name: Advanced VR Mechanics With Unity and the HTC Vive Part 1
     url: https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1
     description: '[Mirror](https://archive.is/qHQXY) - [Mirror 2](https://web.archive.org/web/20170515082222/https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1)'
-    entry_type: tool
+    entry_type: tutorial
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -147,7 +160,8 @@ entries:
   - name: Advanced VR Mechanics With Unity and the HTC Vive Part 2
     url: https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2
     description: '[Mirror](https://archive.is/9IyFG) - [Mirror 2](https://web.archive.org/web/20170609191610/https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2)'
-    entry_type: tool
+    entry_type: tutorial
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -160,6 +174,7 @@ entries:
     url: https://www.smart-prototyping.com/Project-North-Star-Kit
     description: The device is an implementation of Leap Motion's [Norh Star]() reference design - an open source specification for an AR headset with two 1600x1440 displays with 120 FPS, a visual field of 100 degr
     entry_type: tool
+    license: Paid
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -171,7 +186,8 @@ entries:
   - name: HOW TO CREATE A MINIMAP FOR VR IN UNITY
     url: https://somedudes.ch/2017/02/21/how-to-create-a-minimap-for-vr-in-unity/
     description: '[Mirror](https://archive.is/Sy5NG)'
-    entry_type: tool
+    entry_type: tutorial
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -184,6 +200,7 @@ entries:
     url: https://threejs.org/editor/
     description: Online 3D editor with AR export capabilities.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -196,6 +213,7 @@ entries:
     url: https://www.ultraleap.com/
     description: Former Ultralhaptics & Leap Motion
     entry_type: tool
+    license: Paid
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -207,7 +225,8 @@ entries:
   - name: HTC Vive VR Input
     url: http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/
     description: '[Mirror](https://archive.is/qCMTY) - [Mirror 2](https://web.archive.org/web/20170201100941/http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/)'
-    entry_type: reference
+    entry_type: tutorial
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -220,6 +239,7 @@ entries:
     url: https://www.youtube.com/@thegamedevcave
     description: '[animation,character,GAS] - 160 vids: newbie, blueprints, quests, C++.'
     entry_type: channel
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -230,10 +250,12 @@ entries:
         - xr
       platform:
         - web
+    notes: MISFIT — general Unreal gamedev channel, not XR-specific.
   - name: Oliver Kreylos's blog
     url: http://doc-ok.org/
     description: Good resource to get started learning about VR / stereo rendering.
     entry_type: reference
+    license: null
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -245,7 +267,8 @@ entries:
   - name: Game View Maximizer
     url: https://github.com/tomori-hikage/game-view-maximizer
     description: Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
-    entry_type: reference
+    entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -255,10 +278,12 @@ entries:
       tech:
         - xr
         - opensource-alt
+    notes: MISFIT — general Unity viewport utility, not XR-specific.
   - name: A-Frame VR
     url: https://github.com/silverslade/aframe_blender_exporter
     description: Blender add-on allows you to model your scene in Blender and export it to an A-Frame VR project with a single click.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -268,10 +293,12 @@ entries:
       tech:
         - xr
         - opensource-alt
+        - blender-addon
   - name: Quests
     url: https://github.com/angelhodar/OpenRPG_Quest
     description: Efficient and rich featured quests system for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -281,10 +308,13 @@ entries:
       tech:
         - xr
         - opensource-alt
+        - unreal-plugin
+    notes: MISFIT — generic UE4 quest system, not XR-specific.
   - name: Tensorflow2 Ue4 AR
     url: https://github.com/Allysony/tensorflow2-ue4-ar
     description: Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -298,6 +328,7 @@ entries:
     url: https://github.com/SceneView/sceneform-android
     description: ARCore Android SDK with Google Filament 3D engine. Continuation of Google Sceneform
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

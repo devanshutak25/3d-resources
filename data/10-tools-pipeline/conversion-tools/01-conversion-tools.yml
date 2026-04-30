@@ -3,6 +3,7 @@ entries:
     url: https://vert.sh/
     description: General-purpose online converter.
     entry_type: tool
+    license: Free
     readme_tags:
       - General
       - Online
@@ -15,6 +16,7 @@ entries:
     url: https://mazanoke.com/
     description: Browser-based converter.
     entry_type: tool
+    license: Free
     readme_tags:
       - Browser
       - Converter
@@ -27,6 +29,7 @@ entries:
     url: https://123apps.com/
     description: Free web tools for audio, video, image.
     entry_type: tool
+    license: Freemium
     readme_tags:
       - Free Web
       - Multi-tool
@@ -39,6 +42,7 @@ entries:
     url: https://cloudconvert.com/
     description: 200+ formats with API.
     entry_type: tool
+    license: Freemium
     readme_tags:
       - 200+ Formats
       - API
@@ -51,6 +55,7 @@ entries:
     url: https://convertio.co/
     description: Multi-format converter.
     entry_type: tool
+    license: Freemium
     readme_tags:
       - Multi-format
       - Web
@@ -63,6 +68,7 @@ entries:
     url: https://www.online-convert.com/
     description: Web-based format converter.
     entry_type: tool
+    license: Freemium
     readme_tags:
       - Web
       - General
@@ -75,6 +81,7 @@ entries:
     url: https://www.freeconvert.com/
     description: Free online file converter.
     entry_type: tool
+    license: Freemium
     readme_tags:
       - Free
       - Web
@@ -218,6 +225,7 @@ entries:
     url: https://tinypng.com/
     description: Lossy PNG/JPEG compression.
     entry_type: tool
+    license: Freemium
     readme_tags:
       - PNG/JPEG
       - Lossy
@@ -232,6 +240,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Batch image conversion
+    notes: RELOCATE — entry_type software belongs in §12 software table, not tools
     readme_tags:
       - Batch
       - 80+ Actions
@@ -239,7 +248,9 @@ entries:
     url_status: ok
     tags:
       platform:
-        - web
+        - win
+        - mac
+        - linux
   - name: PNGQuant
     url: https://pngquant.org/
     description: CLI lossy PNG compression.
@@ -259,6 +270,7 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Video encoding
+    notes: RELOCATE — entry_type software belongs in §12 software table
     readme_tags:
       - H.265/AV1
       - Open Source
@@ -273,6 +285,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Pro video encoding GUI
+    notes: RELOCATE — entry_type software belongs in §12 software table
     readme_tags:
       - FFmpeg GUI
       - Pro Presets
@@ -280,13 +293,16 @@ entries:
     url_status: ok
     tags:
       platform:
-        - web
+        - win
+        - mac
+        - linux
   - name: fre:ac
     url: https://www.freac.org/
     description: Free, open-source batch audio converter.
     license: Open Source
     entry_type: software
     best_for: Batch audio conversion
+    notes: RELOCATE — entry_type software belongs in §12 software table
     readme_tags:
       - Audio Batch
       - Open Source
@@ -329,6 +345,7 @@ entries:
     license: Open Source
     entry_type: software
     best_for: HDR workflow
+    notes: RELOCATE — entry_type software belongs in §12 software table
     tags:
       workflow:
         - lighting
@@ -342,16 +359,19 @@ entries:
   - name: F Spy USD
     url: https://github.com/Vochsel/fspy-USD
     description: Unofficial fSpy to USD converter.
-    entry_type: reference
+    entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - opensource-alt
+        - usd
   - name: Pixelicious
     url: https://www.pixelicious.xyz/
     description: Image-to-Pixel Art converter.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -361,6 +381,7 @@ entries:
     url: https://isometric8.itch.io/packyderm-unitypackage-extractor
     description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
     entry_type: tool
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -370,6 +391,7 @@ entries:
     url: http://terribilisstudio.fr/converter
     description: Retargeting Mixamo Animation Tool.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -378,34 +400,45 @@ entries:
   - name: Mixamo Converter
     url: https://github.com/enziop/mixamo_converter
     description: Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
+    notes: RELOCATE — Blender plugin, belongs under plugins/blender section
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - opensource-alt
+        - blender-addon
+        - unreal-plugin
   - name: USDZ
     url: https://github.com/robmcrosby/BlenderUSDZ
     description: '[glTF MultiExport](https://github.com/MozillaReality/blender-gltf-multiexport-addon), [ZBrush](https://blenderartists.org/t/goz-for-blender-2-8/1138418)'
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
+    notes: RELOCATE — Blender USDZ exporter plugin, belongs under plugins/blender
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - opensource-alt
+        - blender-addon
+        - usd
   - name: 3DGS Converter
     url: https://github.com/francescofugazzi/3dgsconverter
-    description: Format conversion tool
+    description: Format conversion tool for 3D Gaussian Splatting data.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - opensource-alt
+        - gaussian-splatting
   - name: Needle USD Converter
     url: https://usd.needle.tools/
     description: Web-based USD/USDZ viewer and converter.
     entry_type: tool
+    license: Free
     tags:
       tech:
         - usd

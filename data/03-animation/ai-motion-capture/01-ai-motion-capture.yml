@@ -148,11 +148,11 @@ entries:
     entry_type: software
     license: Open Source
     best_for: Open-source mocap
+    notes: RELOCATE - traditional CV-based mocap, not AI-generative; better fit in a general mocap subsection.
     tags:
       workflow:
         - mocap
       tech:
-        - ai-generative
         - opensource-alt
     readme_tags:
       - Open Source

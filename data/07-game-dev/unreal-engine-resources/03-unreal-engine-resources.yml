@@ -2,7 +2,8 @@ entries:
   - name: Socketio Client Ue4
     url: https://github.com/getnamo/socketio-client-ue4
     description: Socket.io client plugin for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -11,10 +12,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - networking
+      - socket.io
   - name: InfraworldRuntime
     url: https://github.com/vizor-games/InfraworldRuntime
     description: A solution that enables Unreal Engine 4 to work with Google gRPC services from either C++ or Blueprints.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -23,10 +28,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - grpc
+      - networking
   - name: Udp Ue4
     url: https://github.com/getnamo/udp-ue4
     description: Convenience UDP wrapper for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -35,10 +44,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - udp
+      - networking
   - name: Tcp Ue4
     url: https://github.com/getnamo/tcp-ue4
     description: Convenience TCP wrapper for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -47,10 +60,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - tcp
+      - networking
   - name: UE4MasterServer
     url: https://github.com/RyroNZ/UE4MasterServer
     description: This is a plugin for Unreal Engine 4 that adds server registration, deregistration etc with a master server.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -59,10 +76,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - multiplayer
+      - server
   - name: UEWebsocket
     url: https://github.com/kristjanvalur/UEWebsocket
     description: Unreal engine 4 websocket plugin for both c++ and blueprint developer
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -71,10 +92,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - websocket
+      - networking
   - name: Mqtt Utilities Unreal
     url: https://github.com/NinevaStudios/mqtt-utilities-unreal
     description: MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -83,10 +108,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - mqtt
+      - iot
   - name: Ble Utilities Unreal
     url: https://github.com/NinevaStudios/ble-utilities-unreal
     description: This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -95,10 +124,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - bluetooth
+      - iot
   - name: GGPOUE4
     url: https://github.com/BwdYeti/GGPOUE4
     description: Unreal Engine 4 plugin port of GGPO
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -107,10 +140,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - rollback-netcode
+      - multiplayer
   - name: UE DSS Plugin
     url: https://github.com/sha3sha3/UE-DSSPlugin
     description: Scalable MMO servers instantiation, dungeon instantiation and player balancing subsystem for unreal engine
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -119,10 +156,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - mmo
+      - server
   - name: UE Easy Kafka
     url: https://github.com/sha3sha3/UE-EasyKafka
     description: EasyKafka is a Kafka/Redpanda client sub-system for unreal engine. It supports producing and consuming records through blueprint and C++.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -131,10 +172,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - kafka
+      - messaging
   - name: Unreal Signal R
     url: https://github.com/FrozenStormInteractive/Unreal-SignalR
     description: SignalR client for Unreal Engine.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -143,10 +188,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - signalr
+      - networking
   - name: Locus Replication Graph
     url: https://github.com/locus84/LocusReplicationGraph
     description: Simple Unity Addressables Alternative That Supports Synchronized API And Memory Management.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -155,10 +204,15 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - replication
+      - multiplayer
+    notes: 'MISFIT: description references Unity Addressables but repo is Unreal replication graph; verify upstream description.'
   - name: Unreal Magic Nodes
     url: https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes
     description: Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -167,10 +221,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - blueprint
+      - cpp
   - name: UE4 EOS Plugin
     url: https://github.com/gaslightgames/UE4_EOS_Plugin
     description: A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
-    entry_type: tool
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -179,10 +237,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - eos
+      - online-services
   - name: Nano
     url: https://github.com/pfist/Nano
     description: A tiny template for tiny Unreal games.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -191,10 +253,15 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - template
+      - starter
+    notes: 'MISFIT: project template, not a plugin; tech tag unreal-plugin imprecise.'
   - name: Unreal Engine Python
     url: https://github.com/20tab/UnrealEnginePython
     description: Embed Python in Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -203,10 +270,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - python
+      - scripting
   - name: sluaunreal
     url: https://github.com/Tencent/sluaunreal
     description: Lua dev plugin for unreal engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -215,10 +286,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - lua
+      - scripting
   - name: USharp
     url: https://github.com/pixeltris/USharp
     description: C# plugin for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -227,10 +302,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - csharp
+      - scripting
   - name: LuaMachine
     url: https://github.com/rdeioris/LuaMachine
     description: Unreal Engine 4 Plugin for Lua APIs implementation
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -239,10 +318,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - lua
+      - scripting
   - name: puerts
     url: https://github.com/Tencent/puerts
     description: Write your game with TypeScript in the ue4 or unity
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -251,10 +334,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - typescript
+      - scripting
   - name: nimue4
     url: https://github.com/pragmagic/nimue4
     description: Nim language integration for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -263,10 +350,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - nim
+      - scripting
   - name: Kotlin Unreal
     url: https://github.com/hiperbou/kotlin-unreal
     description: 'Kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4'
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -275,10 +366,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - kotlin
+      - scripting
   - name: Unreal.hx
     url: https://github.com/proletariatgames/unreal.hx
     description: 'Unreal.hx: Haxe Integration for Unreal'
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -287,10 +382,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - haxe
+      - scripting
   - name: SilvervineUE4Lua
     url: https://github.com/devcat-studio/SilvervineUE4Lua
     description: A Lua Scripting Plugin for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -299,10 +398,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - lua
+      - scripting
   - name: Ue4 Protobuf
     url: https://github.com/hxhb/ue4-protobuf
     description: This is an Unreal Engine 4 plugin that integrates Protobuf into the project without requiring you to add system PATH or anything else.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -311,10 +414,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - protobuf
+      - serialization
   - name: DataConfig
     url: https://github.com/slowburn-dev/DataConfig
     description: Serialization framework for Unreal Engine Property System that just works!
-    entry_type: tool
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -323,10 +430,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - serialization
+      - json
   - name: Audio Analysis Tools
     url: https://github.com/gtreshchev/AudioAnalysisTools
     description: Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -335,10 +446,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - audio
+      - analysis
   - name: XJ music
     url: https://github.com/xjmusic/UnrealPlugin/
     description: XJ music plugin for Unreal Engine. XJ is the first end-to-end solution for adaptive music in video games built specifically and only for music, enabling composers to realize new possibilities.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -347,10 +462,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - adaptive-music
+      - audio
   - name: Runtime Speech Recognizer
     url: https://github.com/gtreshchev/RuntimeSpeechRecognizer
     description: Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -359,34 +478,48 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - speech
+      - whisper
   - name: OSVR Unreal
     url: https://github.com/OSVR/OSVR-Unreal
     description: OSVR plugin for Unreal Engine
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - games
+        - xr
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - vr
+      - osvr
   - name: Mixed Reality UX Tools Unreal
     url: https://github.com/microsoft/MixedReality-UXTools-Unreal
     description: UX tools and components for developing Mixed Reality applications in UE4.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - games
+        - xr
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - mixed-reality
+      - ux
   - name: UMG Resizable Widget
     url: https://github.com/MWadstein/UMG-ResizableWidget
     description: Resizable Widget for UMG for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -395,10 +528,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - umg
+      - ui
   - name: FastSwitcher
     url: https://github.com/gameDNAstudio/FastSwitcher
     description: Fast Switcher UMG for Unreal Engine 4 loads only the needed widget
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -407,10 +544,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - umg
+      - ui
   - name: Unreal UMG 3 D Object In Widget
     url: https://github.com/Tolc/Unreal-UMG-3DObjectInWidget
     description: A simple Unreal Engine 4 project (precisely 4.7.4) showing how to render a 3D object/mesh in a UMG widget
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -419,10 +560,15 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - umg
+      - sample
+    notes: 'MISFIT: sample project, not plugin; tech tag unreal-plugin imprecise.'
   - name: UE4GamepadUMG
     url: https://github.com/EverNewJoy/UE4GamepadUMG
     description: Unreal Engine 4 gamepad plugin so you can use a gamepad like a mouse in UMG
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -431,10 +577,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - gamepad
+      - umg
   - name: Unreal Im GUI
     url: https://github.com/segross/UnrealImGui
     description: Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.
-    entry_type: tool
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -443,10 +593,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - imgui
+      - debug-ui
   - name: Ue4 Uitween
     url: https://github.com/benui-dev/ue4-uitween
     description: Unreal 4 UMG UI tweening library in C++
-    entry_type: tool
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -455,10 +609,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - tween
+      - umg
   - name: Ue4 Canvas GUI
     url: https://github.com/MaddyOff/ue4-canvas-gui
     description: It's a simple Canvas GUI for Unreal Engine 4 with mouse operation
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -467,10 +625,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - canvas
+      - ui
   - name: Fairy GUI Unreal
     url: https://github.com/fairygui/FairyGUI-unreal
     description: A flexible UI framework for Unreal Engine
-    entry_type: tool
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -479,10 +641,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - ui-framework
+      - fairygui
   - name: ZipUtility Plugin
     url: https://github.com/getnamo/ZipUtility-ue4
     description: Event driven 7zip utility plugin for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -491,22 +657,30 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - zip
+      - compression
   - name: Unreal Library
     url: https://github.com/EliotVU/Unreal-Library
     description: UE Explorer's library for parsing data from games built with the Unreal Engine.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - games
       tech:
-        - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - parser
+      - reverse-engineering
+    notes: 'MISFIT: standalone library, not in-engine plugin; removed unreal-plugin tech tag.'
   - name: ProjectExodus
     url: https://github.com/NegInfinity/ProjectExodus
     description: Project Exodus - Unity to Unreal scene/project transfer tool.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -515,22 +689,30 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - migration
+      - unity
   - name: UE4 Binary Builder
     url: https://github.com/ryanjon2040/UE4-Binary-Builder
     description: An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
-    entry_type: reference
+    entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - games
       tech:
-        - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - build-tool
+      - rocket-build
+    notes: 'MISFIT: external builder app, not plugin; removed unreal-plugin tech tag.'
   - name: Prefabricator Ue4
     url: https://github.com/coderespawn/prefabricator-ue4
     description: Prefabricator - Prefab plugin for Unreal Engine 4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -539,10 +721,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - prefab
+      - workflow
   - name: WindowCapture2D
     url: https://github.com/ayumax/WindowCapture2D
     description: Library for capturing and displaying windows in real time with UnrealEngine
-    entry_type: tool
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -551,10 +737,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - window-capture
+      - realtime
   - name: Unreal Fast Noise
     url: https://github.com/midgen/UnrealFastNoise
     description: Modular, Blueprint-friendly noise generation for UE4
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -563,10 +753,15 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+        - procedural
+    readme_tags:
+      - noise
+      - procedural
   - name: Unreal Fast Noise2
     url: https://github.com/DoubleDeez/UnrealFastNoise2
     description: A plugin that wraps [FastNoise2](https://github.com/Auburn/FastNoise2), allowing you to use the FastNoise2 library in blueprints.
-    entry_type: tool
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -575,10 +770,15 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+        - procedural
+    readme_tags:
+      - noise
+      - procedural
   - name: Async Loading Screen
     url: https://github.com/truong-bui/AsyncLoadingScreen
     description: Async Loading Screen is a free and open-source plugin for Unreal Engine. Async Loading Screen allows you to easily configure a Loading Screen System in the project settings, and automatically add a
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -587,10 +787,14 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - loading-screen
+      - ui
   - name: Global Event System Ue4
     url: https://github.com/getnamo/global-event-system-ue4
     description: A loosely coupled internal global event system (GES) plugin for the Unreal Engine. Aims to solve cross-map and cross-blueprint communication for reliable and inferable event flow.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -599,3 +803,6 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    readme_tags:
+      - events
+      - architecture

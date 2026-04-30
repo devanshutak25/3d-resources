@@ -2,6 +2,7 @@ entries:
   - name: Can't Unsee
     url: https://cantunsee.space/
     description: Interactive game training visual alignment and spacing precision.
+    license: Free
     entry_type: tool
     readme_tags:
       - Interactive
@@ -12,9 +13,12 @@ entries:
       workflow:
         - concept
         - reference
+      platform:
+        - web
   - name: Laws of UX
     url: https://lawsofux.com/
     description: Gestalt principles, visual perception laws (directly applicable to 3D composition).
+    license: Free
     entry_type: reference
     readme_tags:
       - Gestalt
@@ -42,6 +46,7 @@ entries:
   - name: PhotoPills Golden Ratio Guide
     url: https://www.photopills.com/articles/golden-ratio-photography-composition-guide
     description: Golden ratio, spirals, triangles with overlay diagrams.
+    license: Free
     entry_type: reference
     readme_tags:
       - Golden Ratio
@@ -55,16 +60,23 @@ entries:
   - name: RenderNet
     url: https://rendernet.ai/
     description: RenderNet AI is a tool for generating images and videos, providing control over character design, composition, and style.
-    entry_type: reference
+    license: Freemium
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: Misfit in composition subsection — AI image/video generator, not composition theory. Consider relocation.
     tags:
       workflow:
         - concept
         - reference
+      platform:
+        - web
+      tech:
+        - ai-generative
   - name: Neil Blevins Art Lessons
     url: http://www.neilblevins.com/
     description: Composition types, tangents, visual hierarchy by a Pixar artist.
+    license: Free
     entry_type: reference
     readme_tags:
       - Pixar Artist

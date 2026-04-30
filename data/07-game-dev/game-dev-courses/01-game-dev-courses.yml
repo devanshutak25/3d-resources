@@ -12,3 +12,5 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - beginner

@@ -109,119 +109,159 @@ entries:
   - name: Unity Muse
     url: https://unity.com/products/muse
     description: Unity's suite of AI products
-    entry_type: tool
+    license: Paid
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - ai-generative
+        - unity-plugin
+    readme_tags:
+      - Unity AI Suite
   - name: Coplay
     url: https://coplay.dev
     description: AI Copilot for Unity
-    entry_type: tool
+    license: Freemium
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - ai-generative
+        - unity-plugin
+    readme_tags:
+      - Unity Copilot
   - name: Terrain Rendering Using GPU-Based Geometry Clipmaps
     url: https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter02.html
     description: GPU Gems 2 - Chapter 02.
-    entry_type: tool
+    license: Free
+    entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
-        - ai-generative
+        - gpu
+    notes: 'MISFIT: not AI/ML — GPU terrain rendering technique article. Belongs under graphics/rendering reference, not AI-assisted CG.'
   - name: Fast Terrain Rendering Using Geometrical MipMapping
     url: https://www.flipcode.com/archives/article_geomipmaps.pdf
     description: Fast Terrain Rendering Using Geometrical MipMapping.
-    entry_type: tool
+    license: Free
+    entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
-        - ai-generative
+        - gpu
+    notes: 'MISFIT: not AI/ML — terrain LOD paper. Belongs under graphics/rendering reference.'
   - name: gameplay
     url: http://gameplay3d.io/
     description: A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
-    entry_type: tool
+    license: Open Source
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
-        - ai-generative
+        - opensource-alt
+    notes: 'MISFIT: not AI — open-source C++ game framework. Belongs under game engines/frameworks.'
   - name: TerraForge3D
     url: https://jaysmito101.github.io/TerraForge3D/
     description: A procedural terrain generation and procedural modeling toolkit.
-    entry_type: tool
+    license: Open Source
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
-        - ai-generative
+        - procedural
+        - opensource-alt
+    notes: 'MISFIT: procedural (not AI-generative) terrain tool. Belongs under modeling/procedural tools.'
   - name: PixiJS
     url: http://www.pixijs.com/
     description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
-    entry_type: tool
+    license: Open Source
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
-        - ai-generative
+        - real-time
+        - opensource-alt
+    notes: 'MISFIT: not AI — WebGL 2D renderer. Belongs under web/realtime engines.'
   - name: Ray Tracey's blog
     url: http://raytracey.blogspot.com/
     description: Sam Lapere's blog, leads the scientific team at EPFL Blue Brain Project. Lots of post about real time rendering
-    entry_type: tool
+    license: Free
+    entry_type: channel
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
-        - ai-generative
+        - ray-tracing
+        - real-time
+    notes: 'MISFIT: not AI — ray tracing/realtime rendering blog. Belongs under rendering channels/inspiration.'
   - name: ShoeBox
     url: http://renderhjs.net/shoebox/
     description: Adobe Air based app with game and ui related tools.
+    license: Free
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      tech:
-        - ai-generative
+    tags: {}
+    notes: 'MISFIT: not AI — sprite/UI utility. Belongs under game-dev tools.'
   - name: Rosebud AI
     url: https://rosebud.ai
     description: Vibe coding platform for creating 3D games and interactive web apps with AI.
-    entry_type: tool
+    license: Freemium
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - ai-generative
+    readme_tags:
+      - AI Game Builder
+      - Vibe Coding
   - name: RIFE for Nuke
     url: https://github.com/rafaelperez/RIFE-for-Nuke
     description: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (ie machine learning for framerate upscaling) for Nuke.
-    entry_type: tool
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - ai-generative
         - opensource-alt
+    readme_tags:
+      - Nuke Plugin
+      - Frame Interp
   - name: AI Game Developer
     url: https://github.com/IvanMurzak/Unity-MCP
     description: '`Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.'
-    entry_type: tool
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - ai-generative
         - opensource-alt
+        - unity-plugin
+    readme_tags:
+      - Unity MCP
+      - AI Integration
   - name: GPT 4
     url: https://www.promptingguide.ai/models/gpt-4
     description: Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
+    license: Free
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - ai-generative
+    readme_tags:
+      - Prompt Guide
+      - GPT-4

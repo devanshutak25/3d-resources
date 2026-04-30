@@ -2,12 +2,13 @@ entries:
   - name: KodeLife
     url: https://hexler.net/products/kodelife
     description: Real-time shader editor that supports GLSL, HLSL, and Metal, with a user-friendly interface for creating and testing shaders.
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - rendering
+    notes: RELOCATE — shader editor tool, not theory reference; consider §12 software or a shader-tools subsection.
   - name: Fragment Foundry
     url: http://hughsk.io/fragment-foundry
     description: Interactive fragment shader tutorial.
@@ -56,16 +57,19 @@ entries:
   - name: JanusVR
     url: https://janusvr.com/
     description: Webpages as collaborative 3D webspaces interconnected by portals.
-    entry_type: reference
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - xr
+    notes: RELOCATE — VR webspace platform, not rendering/shader theory.
   - name: WebGl Playground
     url: http://jessevdk.github.io/webgl-play/
     description: The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted prope
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -83,7 +87,7 @@ entries:
   - name: Kick.js Shader Editor
     url: http://www.kickjs.org/tool/shader_editor/shader_editor.html
     description: Formal Tool the WebGL engine Kick.js
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -125,6 +129,7 @@ entries:
     tags:
       workflow:
         - rendering
+    notes: RELOCATE — math/rotation theory, not rendering or shaders.
   - name: A Survey on Participating Media Rendering Techniques
     url: http://maverick.inria.fr/Publications/2005/CPPSS05/cerezo.pdf
     description: Cerezo et al. Visual Computer, 2005
@@ -137,7 +142,7 @@ entries:
   - name: NEORT
     url: https://neort.io/popular
     description: Digital art platform for creative coders (Fragment Shader, JavaScript Canvas).
-    entry_type: reference
+    entry_type: inspiration
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -146,7 +151,7 @@ entries:
   - name: Shader Designer
     url: https://www.opengl.org/sdk/tools/ShaderDesigner/
     description: TyphoonLabs' OpenGL Shader Designer
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -155,7 +160,7 @@ entries:
   - name: glslViewer (write-up)
     url: http://patriciogonzalezvivo.com/2015/glslViewer/
     description: Live-coding console tool that renders GLSL Shaders.
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -206,6 +211,9 @@ entries:
     tags:
       workflow:
         - rendering
+      tech:
+        - photogrammetry
+    notes: RELOCATE — photogrammetry paper, not shader/rendering theory.
   - name: Physics-Based Animation
     url: http://www.physicsbasedanimation.com/
     description: Contains learning resources and papers.
@@ -214,7 +222,9 @@ entries:
     url_status: ok
     tags:
       workflow:
-        - rendering
+        - animation
+        - simulation
+    notes: RELOCATE — physics/animation resources, not rendering theory.
   - name: Pixel Shaders
     url: http://pixelshaders.com/
     description: Interactive Introduction to Graphics Programming.
@@ -236,12 +246,14 @@ entries:
   - name: Polygonjs
     url: https://polygonjs.com
     description: Node-based WebGL design tool, used for procedural geometry, particles, materials
-    entry_type: reference
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - rendering
+        - material-authoring
+    notes: RELOCATE — node-based WebGL DCC, belongs in §12 software.
   - name: Ray Tracing in One Weekend series
     url: https://raytracing.github.io/
     description: Those three short books explain basic concepts of path tracing and implement a software renderer from scratch.
@@ -254,12 +266,13 @@ entries:
   - name: React Spring
     url: https://www.react-spring.dev/
     description: An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - rendering
+        - animation
+    notes: RELOCATE — animation library, not rendering/shader theory.
   - name: Real-Time Rendering Blog
     url: https://www.realtimerendering.com/blog/
     description: A blog associated with the "Real-Time Rendering" book series, featuring updates on rendering techniques, industry news, and research papers
@@ -353,7 +366,7 @@ entries:
   - name: ShaderFrog
     url: https://shaderfrog.com/2/
     description: Online shader editor and asset manager that allows users to create, edit, and export shaders for use in Three.js, Unity, and other game engines. It supports visual shader editing and also offer
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -362,7 +375,7 @@ entries:
   - name: ShaderGif
     url: https://shadergif.com/
     description: Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
-    entry_type: reference
+    entry_type: inspiration
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -389,7 +402,7 @@ entries:
   - name: Shader Park
     url: https://shaderpark.com/
     description: A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already avail
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -398,7 +411,7 @@ entries:
   - name: SHDR Editor
     url: http://shdr.bkcore.com
     description: Live GLSL shader editor, viewer and validator.
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -416,7 +429,7 @@ entries:
   - name: Stack.gl
     url: http://stack.gl/
     description: Site that approaches Shaders from WebGL
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -425,7 +438,7 @@ entries:
   - name: ShaderTool
     url: http://store.steampowered.com/app/314720/
     description: '[Win] - Modern shader IDE for programmers and FX artists.'
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -434,7 +447,7 @@ entries:
   - name: Synthclipse
     url: http://synthclipse.sourceforge.net/index.html
     description: Synthclipse is a GLSL shader prototyping tool.
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

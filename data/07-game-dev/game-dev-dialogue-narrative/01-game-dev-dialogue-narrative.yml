@@ -61,6 +61,7 @@ entries:
   - name: Prototype
     url: https://github.com/inkle/prototype
     description: Prototype component pattern for Unity.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -72,6 +73,7 @@ entries:
   - name: Ink Unity Integration
     url: https://github.com/inkle/ink-unity-integration
     description: Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok

@@ -50,6 +50,7 @@ entries:
   - name: Sprytile (itch.io)
     url: https://chemikhazi.itch.io/sprytile
     description: Blender addon for tile-based 3D levels.
+    license: Open Source
     entry_type: plugin
     tags:
       tech:
@@ -64,6 +65,7 @@ entries:
   - name: OGMO Editor 3
     url: https://ogmo-editor-3.github.io/
     description: Generic level editor.
+    license: Open Source
     entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -73,6 +75,7 @@ entries:
   - name: Sprite Fusion
     url: https://spritefusion.com/
     description: A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
+    license: Free
     entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -82,6 +85,7 @@ entries:
   - name: Mappy
     url: http://tilemap.co.uk/mappy.php
     description: Free tilemap editor.
+    license: Free
     entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -91,7 +95,8 @@ entries:
   - name: Tiled2Unity
     url: https://github.com/Seanba/Tiled2Unity
     description: Export [Tiled](http://www.mapeditor.org) Map Editor (TMX) files into Unity.
-    entry_type: reference
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -102,6 +107,7 @@ entries:
   - name: Unity2D TMX
     url: https://github.com/suppayami/unity2d-tmx
     description: A small library to import and render tilemap in Unity2D, only support TMX file format.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -113,7 +119,8 @@ entries:
   - name: Chisel.Prototype
     url: https://github.com/RadicalCSG/Chisel.Prototype
     description: Work in progress prototype for the Chisel Level Editor, for Unity.
-    entry_type: reference
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -124,7 +131,8 @@ entries:
   - name: GILES
     url: https://github.com/Unity-Technologies/giles
     description: A Runtime Level Editor for Unity3D. ![Official](UnityResource16x16.png)
-    entry_type: reference
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -135,7 +143,8 @@ entries:
   - name: Editor2D
     url: https://github.com/stillwwater/editor2d
     description: Tile based level editor for Unity
-    entry_type: reference
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -146,7 +155,8 @@ entries:
   - name: Sprytile (GitHub)
     url: https://github.com/Sprytile/Sprytile
     description: Blender add-on for building tile based low-poly scenes with paint/map editor like tools. [[more info]](https://chemikhazi.itch.io/sprytile)
-    entry_type: reference
+    license: Open Source
+    entry_type: plugin
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

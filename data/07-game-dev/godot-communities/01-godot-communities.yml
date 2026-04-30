@@ -3,6 +3,7 @@ entries:
     url: https://www.reddit.com/r/godot/
     description: 350k+ members, very active.
     entry_type: community
+    license: null
     readme_tags:
       - Reddit
       - Very Active
@@ -12,11 +13,12 @@ entries:
       output:
         - games
       tech:
-        - opensource-alt
+        - godot
   - name: Godot Discord
     url: https://discord.gg/4JBkykG
     description: Official Discord.
     entry_type: community
+    license: null
     readme_tags:
       - Discord
       - Official
@@ -26,11 +28,12 @@ entries:
       output:
         - games
       tech:
-        - opensource-alt
+        - godot
   - name: Godot Forums
     url: https://forum.godotengine.org/
     description: Official forum.
     entry_type: community
+    license: null
     readme_tags:
       - Forum
       - Official
@@ -40,4 +43,4 @@ entries:
       output:
         - games
       tech:
-        - opensource-alt
+        - godot

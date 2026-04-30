@@ -62,6 +62,7 @@ entries:
   - name: 'Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion'
     url: https://3d-avatar-diffusion.microsoft.com/
     description: Wang et al., CVPR 2023 | [github](https://3d-avatar-diffusion.microsoft.com/) | [bibtex](./citations/rodin.txt)
+    license: null
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -131,8 +132,9 @@ entries:
         - nerf
   - name: Taichi 3D GS
     url: https://github.com/wanmeihuali/taichi_3d_gaussian_splatting
-    description: Taichi      | Apache-2.0 | Taichi-based implementation     |
-    entry_type: reference
+    description: Taichi-based implementation (Apache-2.0).
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -142,8 +144,9 @@ entries:
         - opensource-alt
   - name: Warp 3DGS
     url: https://github.com/guoriyue/3dgs-warp-scratch
-    description: Warp/Python | AGPL-3.0   | Warp-based implementation       |
-    entry_type: reference
+    description: Warp/Python-based implementation (AGPL-3.0).
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -153,8 +156,9 @@ entries:
         - opensource-alt
   - name: Pointrix
     url: https://github.com/pointrix-project/pointrix
-    description: Differentiable point-based rendering
-    entry_type: reference
+    description: Differentiable point-based rendering.
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -164,8 +168,9 @@ entries:
         - opensource-alt
   - name: 3DGS.cpp
     url: https://github.com/shg8/3DGS.cpp
-    description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS
-    entry_type: reference
+    description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS.
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -175,8 +180,9 @@ entries:
         - opensource-alt
   - name: vkgs
     url: https://github.com/jaesung-cs/vkgs
-    description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics
-    entry_type: reference
+    description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics.
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -186,8 +192,9 @@ entries:
         - opensource-alt
   - name: spaTV
     url: https://github.com/antimatter15/splaTV
-    description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo [here](http://antimatter15.com/splaTV/)
-    entry_type: reference
+    description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo [here](http://antimatter15.com/splaTV/).
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -198,7 +205,8 @@ entries:
   - name: splatviz
     url: https://github.com/Florian-Barthel/splatviz
     description: Viewer that allows you to edit the rendering code during runtime or to display multiple scenes at once.
-    entry_type: reference
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -208,8 +216,9 @@ entries:
         - opensource-alt
   - name: SpectacularAI
     url: https://github.com/SpectacularAI/point-cloud-tools
-    description: Conversion scripts for different 3DGS conventions
-    entry_type: reference
+    description: Conversion scripts for different 3DGS conventions.
+    license: Open Source
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -220,6 +229,7 @@ entries:
   - name: msplat
     url: https://github.com/pointrix-project/msplat
     description: A modular differential gaussian rasterization library.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok

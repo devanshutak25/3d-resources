@@ -3,6 +3,7 @@ entries:
     url: http://motionographer.com/
     description: Motion design showcase.
     entry_type: inspiration
+    license: Free
     readme_tags:
       - Showcase
       - Classic
@@ -15,6 +16,7 @@ entries:
     url: https://eyecannndy.com/featured/
     description: Visual effects and motion inspiration.
     entry_type: inspiration
+    license: Free
     readme_tags:
       - Visual Effects
       - Feed
@@ -27,6 +29,7 @@ entries:
     url: https://www.adsoftheworld.com/
     description: Advertising reference.
     entry_type: inspiration
+    license: Free
     readme_tags:
       - Ads
       - Campaign Reference
@@ -39,6 +42,7 @@ entries:
     url: https://film-grab.com/
     description: Film frame reference.
     entry_type: inspiration
+    license: Free
     readme_tags:
       - Film Stills
       - Reference
@@ -51,6 +55,7 @@ entries:
     url: https://vimeo.com/theopeningtitles
     description: Title sequence collection.
     entry_type: inspiration
+    license: Free
     readme_tags:
       - Title Sequences
       - Vimeo
@@ -63,6 +68,7 @@ entries:
     url: https://flim.ai/
     description: Film frame search engine.
     entry_type: tool
+    license: Freemium
     readme_tags:
       - Film Search
       - AI
@@ -71,10 +77,13 @@ entries:
     tags:
       output:
         - motion-graphics
+      tech:
+        - ai-generative
   - name: ShotDeck
     url: https://shotdeck.com/
     description: Film shot reference database.
     entry_type: reference
+    license: Paid
     readme_tags:
       - Shot Database
       - Reference
@@ -87,6 +96,7 @@ entries:
     url: https://www.playphrase.me/
     description: Phrase-based film clip search.
     entry_type: tool
+    license: Freemium
     readme_tags:
       - Phrase Search
       - Film Clips
@@ -99,6 +109,7 @@ entries:
     url: https://johnberube.com/
     description: Motion design portfolio and resources.
     entry_type: inspiration
+    license: Free
     readme_tags:
       - Portfolio
       - Resources
@@ -111,6 +122,7 @@ entries:
     url: https://artofthetitle.com/
     description: Title sequence deep dives.
     entry_type: reference
+    license: Free
     readme_tags:
       - Title Sequences
       - Deep Dives
@@ -123,6 +135,7 @@ entries:
     url: https://stashmedia.tv/
     description: Motion design and animation showcase.
     entry_type: inspiration
+    license: Freemium
     readme_tags:
       - Showcase
       - Motion
@@ -135,6 +148,7 @@ entries:
     url: https://www.behance.net/galleries/motion
     description: Motion design gallery.
     entry_type: inspiration
+    license: Free
     readme_tags:
       - Gallery
       - Behance
@@ -147,6 +161,7 @@ entries:
     url: https://artofstyleframe.com/
     description: Style frame showcase.
     entry_type: inspiration
+    license: Free
     readme_tags:
       - Style Frames
       - Showcase
@@ -158,7 +173,11 @@ entries:
   - name: Friction
     url: https://github.com/friction2d/friction
     description: Friction is a powerful and versatile motion graphics application that allows you to create vector and raster animations for web and video.
-    entry_type: reference
+    entry_type: software
+    license: Open Source
+    readme_tags:
+      - Vector Animation
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -169,7 +188,11 @@ entries:
   - name: Animation Nodes (GitHub)
     url: https://github.com/JacquesLucke/animation_nodes
     description: A node-based visual scripting system designed for motion graphics in Blender.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - Node-Based
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -177,10 +200,16 @@ entries:
         - motion-graphics
       tech:
         - opensource-alt
+        - blender-addon
+        - node-based
   - name: Natron (legacy site)
     url: https://natron.fr
     description: Open Source Compositing Software For VFX and Motion Graphics.
-    entry_type: inspiration
+    entry_type: software
+    license: Open Source
+    readme_tags:
+      - Compositing
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -189,16 +218,28 @@ entries:
   - name: TOOLL3
     url: https://tooll.io/
     description: Graph-based procedural real-time motion graphics for live performance or rendering.
-    entry_type: inspiration
+    entry_type: software
+    license: Open Source
+    readme_tags:
+      - Real-Time
+      - Procedural
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - motion-graphics
+      tech:
+        - real-time
+        - procedural
+        - node-based
   - name: AEJuice
     url: https://aejuice.com/
     description: Free and premium motion presets, transitions, and effects packs installable directly via a panel inside After Effects.
-    entry_type: inspiration
+    entry_type: marketplace
+    license: Freemium
+    readme_tags:
+      - AE Presets
+      - Transitions
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -206,17 +247,29 @@ entries:
         - motion-graphics
   - name: Animation Nodes (site)
     url: https://animation-nodes.com/
-    description: A node based visual scripting system designed for motion graphics in Blender. [![][repo]](https://github.com/JacquesLucke/animation_nodes)
-    entry_type: inspiration
+    description: A node based visual scripting system designed for motion graphics in Blender.
+    entry_type: plugin
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - Node-Based
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - motion-graphics
+      tech:
+        - opensource-alt
+        - blender-addon
+        - node-based
   - name: After Effects Facebook Group
     url: https://www.facebook.com/groups/aftereffectscommunity
     description: Join the After Effects community on Facebook.
     entry_type: community
+    license: Free
+    readme_tags:
+      - AE Community
+      - Facebook
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -225,7 +278,11 @@ entries:
   - name: RailCut
     url: https://www.jakeinmotion.com/railcut
     description: Multi-track clip editing directly in After Effects with NLE-style tools like ripple edit, rolling edit, slip, and slide.
-    entry_type: inspiration
+    entry_type: plugin
+    license: Paid
+    readme_tags:
+      - AE Plugin
+      - Editing
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -235,6 +292,9 @@ entries:
     url: https://www.moboxgraphics.com/
     description: Offers in-depth After Effects tutorials, especially in the field of motion design.
     entry_type: tutorial
+    readme_tags:
+      - AE Tutorials
+      - Motion Design
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -242,17 +302,27 @@ entries:
         - motion-graphics
   - name: nexrender
     url: https://www.nexrender.com
-    description: 📹 Data-driven render automation for After Effects
-    entry_type: inspiration
+    description: Data-driven render automation for After Effects.
+    entry_type: tool
+    license: Open Source
+    readme_tags:
+      - Render Automation
+      - AE
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       output:
         - motion-graphics
+      tech:
+        - opensource-alt
   - name: Reddit - r/AfterEffects
     url: https://www.reddit.com/r/AfterEffects/
     description: The After Effects subreddit for community discussions and sharing.
     entry_type: community
+    license: Free
+    readme_tags:
+      - AE Community
+      - Reddit
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -261,7 +331,11 @@ entries:
   - name: Trapcode Suite
     url: https://www.redgiant.com/products/trapcode-suite/
     description: A set of 3D motion graphics and visual effects plugins for After Effects.
-    entry_type: inspiration
+    entry_type: plugin
+    license: Paid
+    readme_tags:
+      - AE Plugin
+      - 3D Motion
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -269,8 +343,12 @@ entries:
         - motion-graphics
   - name: Houdini 2 AE
     url: https://vimeo.com/186204479
-    description: Tool for exporting camera and locators fromH oudini to after effects
-    entry_type: inspiration
+    description: Tool for exporting camera and locators from Houdini to After Effects.
+    entry_type: tool
+    license: Free
+    readme_tags:
+      - Houdini to AE
+      - Camera Export
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -279,7 +357,11 @@ entries:
   - name: Rubberhose 2
     url: https://battleaxe.co/rubberhose
     description: Shape-layer-based IK limb rigging system for fast character animation with one-click rig creation.
-    entry_type: tool
+    entry_type: plugin
+    license: Paid
+    readme_tags:
+      - AE Rigging
+      - Character
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -288,7 +370,11 @@ entries:
   - name: Commotion
     url: https://github.com/mrachinskiy/commotion
     description: Blender add-on for motion graphics.
-    entry_type: reference
+    entry_type: plugin
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - MoGraph
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -296,10 +382,15 @@ entries:
         - motion-graphics
       tech:
         - opensource-alt
+        - blender-addon
   - name: React UMG
     url: https://github.com/ncsoft/React-UMG
-    description: A React renderer for Unreal Motion Graphics With Unreal.js
+    description: A React renderer for Unreal Motion Graphics with Unreal.js.
     entry_type: reference
+    license: Open Source
+    readme_tags:
+      - Unreal UMG
+      - React
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -307,3 +398,4 @@ entries:
         - motion-graphics
       tech:
         - opensource-alt
+        - unreal-plugin

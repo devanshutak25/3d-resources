@@ -3,6 +3,7 @@ entries:
     url: https://www.studiobinder.com/blog/
     description: Shot composition, camera shots encyclopedia, camera movements, lighting.
     entry_type: reference
+    license: Free
     readme_tags:
       - Film Guides
       - Encyclopedia
@@ -15,6 +16,7 @@ entries:
     url: https://nofilmschool.com/topics/cinematography-cameras
     description: Constant stream of technique articles.
     entry_type: reference
+    license: Free
     readme_tags:
       - Technique Articles
       - Ongoing
@@ -27,6 +29,7 @@ entries:
     url: https://www.youtube.com/@everyframeapainting
     description: Gold-standard video essays on composition, camera, editing rhythm.
     entry_type: channel
+    license: Free
     readme_tags:
       - Gold Standard
       - Video Essays
@@ -41,6 +44,7 @@ entries:
     url: https://www.youtube.com/@CinemaTyler
     description: Deep analysis of lens choice, color, blocking, lighting in film.
     entry_type: channel
+    license: Free
     readme_tags:
       - Deep Analysis
       - Film
@@ -55,6 +59,7 @@ entries:
     url: https://www.youtube.com/@wolfcrow
     description: Cinematography fundamentals, color science, exposure theory.
     entry_type: channel
+    license: Free
     readme_tags:
       - Fundamentals
       - Color Science
@@ -69,6 +74,7 @@ entries:
     url: https://www.youtube.com/@InDepthCine
     description: Practical lighting setups and narrative technique.
     entry_type: channel
+    license: Free
     readme_tags:
       - Practical
       - Narrative
@@ -83,6 +89,8 @@ entries:
     url: https://www.hurlbutvisuals.com/blog
     description: Real DP knowledge on cinematography, lens choice, lighting setups.
     entry_type: channel
+    license: Free
+    notes: Blog format — entry_type 'channel' kept; could also fit 'reference'.
     readme_tags:
       - DP Blog
       - ASC
@@ -95,6 +103,8 @@ entries:
     url: https://www.youtube.com/@StudioBinder
     description: Cinematography Techniques Ep. 1.
     entry_type: channel
+    license: Free
+    notes: URL points to StudioBinder channel root, not the specific Deakins episode — verify/replace with episode link.
     readme_tags:
       - Roger Deakins
       - Lighting
@@ -109,6 +119,8 @@ entries:
     url: https://www.youtube.com/@fulltimefilmmaker
     description: Cinematic lighting tutorial.
     entry_type: channel
+    license: Free
+    notes: URL is creator channel root, not the specific tutorial video.
     readme_tags:
       - Cinematic Lighting
       - Technique
@@ -123,6 +135,8 @@ entries:
     url: https://www.foundry.com/products/nuke
     description: Industry standard node-based compositing software by The Foundry, has a free version for non-commercial use.
     entry_type: reference
+    license: Freemium
+    notes: Misfit — this is compositing software (entry_type should be 'software', workflow 'compositing'), and belongs in software/compositing section, not cinematography-camera.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -132,6 +146,8 @@ entries:
     url: https://www.blackmagicdesign.com/de/products/fusion
     description: Free node-based compositing software from Blackmagic Design.
     entry_type: reference
+    license: Free
+    notes: Misfit — compositing software (entry_type should be 'software', workflow 'compositing'); belongs in software/compositing section, not cinematography-camera.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

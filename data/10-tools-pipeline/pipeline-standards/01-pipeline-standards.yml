@@ -29,6 +29,7 @@ entries:
   - name: ACES 2.0
     url: https://acescentral.com/
     description: Academy Color Encoding System. Widely adopted in film/TV, growing in games.
+    license: Open Source
     entry_type: reference
     tags:
       workflow:
@@ -53,17 +54,24 @@ entries:
         - opensource-alt
   - name: Alembic
     url: http://www.alembic.io/
-    description: Animations.
+    description: Geometry/animation interchange format (Sony + ILM).
+    license: Open Source
     entry_type: reference
+    readme_tags:
+      - Geo/Anim Cache
+      - Sony + ILM
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
-      platform:
-        - web
+      tech:
+        - opensource-alt
   - name: MaterialX (GitHub)
     url: https://github.com/materialx/MaterialX
     description: Materials and look-dev.
+    license: Open Source
     entry_type: reference
+    readme_tags:
+      - Material Interchange
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -72,7 +80,11 @@ entries:
   - name: Open Image IO
     url: https://github.com/OpenImageIO/oiio
     description: A library for reading and writing images in many common and VFX-related formats.
+    license: Open Source
     entry_type: reference
+    readme_tags:
+      - Image I/O
+      - VFX Standard
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -81,8 +93,8 @@ entries:
   - name: OpenDCX
     url: http://www.opendcx.org/
     description: C++ extensions for OpenEXR's "deep" file format (DreamWorks).
-    entry_type: reference
     license: Open Source
+    entry_type: reference
     readme_tags:
       - EXR Deep
       - DreamWorks
@@ -93,8 +105,12 @@ entries:
         - opensource-alt
   - name: MDL
     url: https://github.com/NVIDIA/MDL-SDK
-    description: Material Definition Language SDK.
-    entry_type: tool
+    description: Material Definition Language SDK (NVIDIA).
+    license: Open Source
+    entry_type: reference
+    readme_tags:
+      - Material Standard
+      - NVIDIA
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

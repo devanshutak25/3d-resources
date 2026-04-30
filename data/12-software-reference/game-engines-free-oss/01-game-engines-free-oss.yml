@@ -358,113 +358,212 @@ entries:
   - name: A Frame
     url: https://aframe.io/
     description: An easy web framework for building 3D/AR/VR experiences.
+    license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Web AR/VR experiences
     tags:
       output:
         - games
+        - xr
+      platform:
+        - web
       tech:
         - opensource-alt
+        - real-time
+    readme_tags:
+      - WebXR
+      - JavaScript
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: CopperCube
     url: http://www.ambiera.com/coppercube/
-    description: CopperCube is an all-in-one 3D game engine.Very easy to use.
+    description: CopperCube is an all-in-one 3D game engine. Very easy to use.
+    license: Free
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: No-code 3D games
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
       tech:
         - opensource-alt
+    readme_tags:
+      - No-Code
+      - All-in-One
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Cocos2d X
     url: http://cocos2d-x.org/
-    description: C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
+    description: C++ OpenGL 2D/3D engine with JS and Lua bindings. Targets all major mobile and desktop platforms.
+    license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Cross-platform 2D/3D mobile games
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+        - ios
+        - android
       tech:
         - opensource-alt
+    readme_tags:
+      - C++
+      - Mobile
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: jMonkeyEngine 3
     url: http://jmonkeyengine.org/
-    description: 3D open-source game engine for adventurous Java developers.
+    description: 3D open-source game engine for Java developers.
+    license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Java 3D games
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+    readme_tags:
+      - Java
+      - 3D
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: JPCT
     url: https://www.jpct.net/
-    description: JPCT is a 3D engine for desktop Java and Google's Android.
+    description: 3D engine for desktop Java and Android.
+    license: Free
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Java/Android 3D
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+        - android
       tech:
         - opensource-alt
+    readme_tags:
+      - Java
+      - Android
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Leadwerks
     url: https://www.leadwerks.com/
     description: Easy-to-learn game engine for 3D and VR.
+    license: Free
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Beginner 3D/VR
     tags:
       output:
         - games
+        - xr
+      platform:
+        - win
+        - linux
+      skill:
+        - beginner
       tech:
+        - real-time
         - opensource-alt
+    readme_tags:
+      - Beginner-Friendly
+      - VR
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Magnum (site)
     url: http://magnum.graphics/
-    description: Lightweight and modular 2D/3D graphics/game engine written in C++11
+    description: Lightweight modular 2D/3D graphics/game engine written in C++11.
+    license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Lightweight modular C++ graphics
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+    readme_tags:
+      - C++11
+      - Modular
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Ogre
     url: https://www.ogre3d.org/
-    description: Open source graphical rendering engine.
+    description: Open source graphical rendering engine (C++).
+    license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: C++ rendering engine
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+    readme_tags:
+      - C++
+      - Rendering Engine
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Urho3D
     url: http://urho3d.github.io/
     description: Cross-platform rendering and game engine.
+    license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Cross-platform 2D/3D
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+    readme_tags:
+      - C++
+      - Cross-Platform
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: ursina
     url: https://www.ursinaengine.org/
-    description: A game engine powered by python and panda3d.
+    description: A game engine powered by Python and Panda3D.
+    license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Easy Python game prototyping
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
       tech:
         - opensource-alt
+    readme_tags:
+      - Python
+      - Prototyping
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Babylon.js
     url: https://www.babylonjs.com/
     description: JavaScript 3D engine/framework for browser games and apps.
@@ -619,166 +718,300 @@ entries:
     url_status: ok
   - name: Fusee
     url: https://github.com/FUSEEProjectTeam/Fusee/
-    description: A multiplatform 3D C# real-time engine with a strong emphasis on content transformation and manipulation.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: A multiplatform 3D C# real-time engine with strong emphasis on content transformation.
+    license: Open Source
+    entry_type: software
+    best_for: C# multiplatform 3D
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
+        - real-time
         - opensource-alt
+    readme_tags:
+      - C#
+      - Multiplatform
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Harfang 3D
     url: https://github.com/harfang3d/harfang3d
-    description: C++ 3D visualization library also usable in Python, Lua, and Go (Windows, Linux).
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: C++ 3D visualization library usable in Python, Lua, and Go.
+    license: Open Source
+    entry_type: software
+    best_for: 3D visualization
     tags:
       output:
         - games
+      platform:
+        - win
+        - linux
       tech:
         - opensource-alt
+    readme_tags:
+      - C++
+      - Visualization
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Neo Axis Engine
     url: https://github.com/NeoAxis/NeoAxisEngine
-    description: NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: Integrated development environment with built-in 3D and 2D game engine.
+    license: Open Source
+    entry_type: software
+    best_for: Integrated 2D/3D IDE
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
+        - real-time
         - opensource-alt
+    readme_tags:
+      - IDE-Integrated
+      - C#
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Overload
     url: https://github.com/adriengivry/Overload
-    description: 3D Game engine with editor.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: 3D game engine with editor.
+    license: Open Source
+    entry_type: software
+    best_for: 3D engine with editor
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
         - opensource-alt
+    readme_tags:
+      - C++
+      - Editor
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: UPBGE (GitHub)
     url: https://github.com/UPBGE/upbge
     description: Integrated game engine in Blender.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: software
+    best_for: Blender-integrated game engine
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
+        - blender-addon
         - opensource-alt
+    readme_tags:
+      - Blender-Integrated
+      - Python
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Blitz3D
     url: https://github.com/blitz-research/blitz3d
-    description: 3D basic-like programming language for fast 3D desktop games.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: 3D BASIC-like programming language for fast 3D desktop games.
+    license: Open Source
+    entry_type: software
+    best_for: BASIC 3D desktop games
     tags:
       output:
         - games
+      platform:
+        - win
+      skill:
+        - beginner
       tech:
         - opensource-alt
+    readme_tags:
+      - BASIC
+      - Legacy
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Dash
     url: https://github.com/Circular-Studios/Dash
     description: A free and open 3D game engine written in D.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: software
+    best_for: D-language 3D
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+    readme_tags:
+      - D Language
+      - Niche
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Diligent Engine
     url: https://github.com/DiligentGraphics/DiligentEngine
-    description: A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: Modern cross-platform low-level graphics library supporting D3D11/12, OpenGL/GLES, and Vulkan.
+    license: Open Source
+    entry_type: software
+    best_for: Low-level cross-API graphics
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
+        - gpu
         - opensource-alt
+    readme_tags:
+      - Low-Level
+      - Multi-API
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Folded Paper Engine
     url: https://github.com/papercraftgames/folded-paper-engine
-    description: '– Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds'
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: 'Blender-to-Godot game mechanics engine/plugins. 2.5D/FPS/TPS controls, triggers, inventory, holdable items.'
+    license: Open Source
+    entry_type: software
+    best_for: Blender-Godot mechanics
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
+        - blender-addon
         - opensource-alt
+    readme_tags:
+      - Blender-to-Godot
+      - No-Code
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Juno
     url: https://github.com/rxi/juno
-    description: Framework for making 2D games with chunky pixels in Lua
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: Framework for making 2D games with chunky pixels in Lua.
+    license: Open Source
+    entry_type: software
+    best_for: Pixel-art 2D in Lua
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+    readme_tags:
+      - Lua
+      - Pixel Art
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: LumixEngine
     url: https://github.com/nem0/LumixEngine
-    description: 3D Game engine built on C++.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: 3D game engine built on C++.
+    license: Open Source
+    entry_type: software
+    best_for: C++ 3D engine
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
+        - real-time
         - opensource-alt
+    readme_tags:
+      - C++
+      - Lightweight
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Lums
     url: https://github.com/lums-proj/Lums
-    description: A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: 2D/3D framework written in C++11. Efficient and modern. Heavy development.
+    license: Open Source
+    entry_type: software
+    best_for: Modern C++11 framework
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+    readme_tags:
+      - C++11
+      - WIP
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Pixel Vision 8
     url: https://github.com/PixelVision8/PixelVision8
-    description: Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-s
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: Teaches retro game development with streamlined workflows. 8-bit fantasy console.
+    license: Open Source
+    entry_type: software
+    best_for: 8-bit fantasy console
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
       tech:
         - opensource-alt
+    readme_tags:
+      - Fantasy Console
+      - 8-bit
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Screen 13
     url: https://github.com/attackgoat/screen-13
-    description: An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: Easy-to-use Vulkan rendering engine with render graph for Rust.
+    license: Open Source
+    entry_type: software
+    best_for: Rust Vulkan rendering
     tags:
       output:
         - games
+      platform:
+        - win
+        - linux
       tech:
+        - gpu
         - opensource-alt
+    readme_tags:
+      - Rust
+      - Vulkan
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Whitestorm.js (GitHub)
     url: https://github.com/WhitestormJS/whitestorm.js
-    description: 3d javacript framework for building apps and games
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: 3D JavaScript framework for building apps and games.
+    license: Open Source
+    entry_type: software
+    best_for: Browser 3D apps
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+    readme_tags:
+      - JavaScript
+      - Browser
+    url_last_verified: '2026-04-19'
+    url_status: ok

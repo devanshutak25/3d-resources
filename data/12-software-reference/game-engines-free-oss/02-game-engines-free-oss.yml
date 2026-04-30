@@ -3,6 +3,7 @@ entries:
     url: https://sparklinlabs.itch.io/superpowers
     description: HTML5 Collaborative 2D/3D Game Maker
     entry_type: software
+    license: open-source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -10,3 +11,6 @@ entries:
         - games
       tech:
         - opensource-alt
+    readme_tags:
+      - games
+      - opensource-alt

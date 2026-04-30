@@ -35,6 +35,7 @@ entries:
   - name: PixelCrash
     url: https://www.pixelcrash.xyz/
     description: Creative motion and visual tools.
+    license: Paid
     entry_type: tool
     readme_tags:
       - Creative
@@ -65,6 +66,7 @@ entries:
   - name: Magic Animator
     url: https://magicanimator.com/
     description: Web-based animation creator.
+    license: Freemium
     entry_type: software
     best_for: Quick animated graphics
     tags:
@@ -95,6 +97,7 @@ entries:
   - name: Nukepedia Lens Engine
     url: https://www.nukepedia.com/gizmos/draw/lens-engine
     description: Lens simulation gizmo for Nuke.
+    license: Free
     entry_type: plugin
     readme_tags:
       - Nuke

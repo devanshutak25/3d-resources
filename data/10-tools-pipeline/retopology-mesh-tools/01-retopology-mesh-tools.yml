@@ -48,10 +48,10 @@ entries:
   - name: Topology Guides
     url: http://topologyguides.com/
     description: Topology reference.
+    license: Free
     entry_type: reference
     readme_tags:
       - Topology
-      - Reference
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -60,34 +60,57 @@ entries:
   - name: SpeedRetopo
     url: https://gumroad.com/l/speedretopo
     description: Free add-on for Blender to make fast and easy retopology using Bsurface.
-    entry_type: software
+    license: Free
+    entry_type: plugin
+    readme_tags:
+      - Blender
+      - Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - retopo
+      tech:
+        - blender-addon
   - name: Retopo MT
     url: https://gumroad.com/l/cNGNb
     description: Tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
-    entry_type: software
+    license: Paid
+    entry_type: plugin
+    readme_tags:
+      - Blender
+      - Retopo
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - retopo
+      tech:
+        - blender-addon
   - name: Instant Meshes Remesh
     url: https://blenderartists.org/t/instant-meshes-remesh/1114982
     description: A suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
-    entry_type: software
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Blender
+      - Auto Retopo
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - retopo
+      tech:
+        - blender-addon
+        - opensource-alt
   - name: Danny Mac 3D
     url: https://www.youtube.com/@DannyMac3d
     description: Character modeling, posing, rigging, retopology, sculpting.
+    license: Free
     entry_type: channel
+    readme_tags:
+      - YouTube
+      - Tutorial
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -98,7 +121,12 @@ entries:
   - name: AutoRemesher
     url: https://github.com/huxingyi/autoremesher
     description: Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.
-    entry_type: tool
+    license: Open Source
+    entry_type: software
+    best_for: Auto-retopology
+    readme_tags:
+      - Free
+      - Auto Retopo
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

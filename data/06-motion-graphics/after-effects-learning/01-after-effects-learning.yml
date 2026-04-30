@@ -2,6 +2,7 @@ entries:
   - name: Top 5 Expressions (graymachine)
     url: http://www.graymachine.com/top-5-effects-expressions/
     description: Essential AE expressions.
+    license: null
     entry_type: reference
     readme_tags:
       - Expressions
@@ -11,6 +12,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      tech:
+        - after-effects
   - name: Jitter Templates
     url: https://jitter.video/templates/
     description: Free motion graphics templates.
@@ -19,6 +22,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
     readme_tags:
       - Templates
       - Free

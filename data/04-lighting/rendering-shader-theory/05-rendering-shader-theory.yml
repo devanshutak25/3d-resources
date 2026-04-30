@@ -20,7 +20,7 @@ entries:
   - name: ShaderShop videos
     url: http://tobyschachman.com/Shadershop/
     description: Some awesome videos about ShaderShop and more.
-    entry_type: marketplace
+    entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -28,8 +28,8 @@ entries:
         - rendering
   - name: ShaderShop editor
     url: http://tobyschachman.com/Shadershop/editor/
-    description: Visually impactful editor to work on shaping
-    entry_type: marketplace
+    description: Visually impactful editor to work on shaping.
+    entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -127,8 +127,9 @@ entries:
         - rendering
   - name: Takua Renderer
     url: http://www.yiningkarlli.com/projects/takuarender/
-    description: By Karl Li| [The Pianist](http://lelatr.cgsociety.org/art/disney-zbrush-cartoon-maya-modeling-photoshop-texturing-mudbox-roger-3d-1191193), by Leticia Reinaldo|
-    entry_type: marketplace
+    description: Karl Li's hobbyist physically-based renderer project page with technical write-ups.
+    entry_type: reference
+    notes: RELOCATE? Could fit renderer-specific-learning if treated as renderer deep-dive.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

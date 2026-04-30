@@ -412,6 +412,7 @@ entries:
   - name: MoonRay
     url: https://openmoonray.org/index
     description: DreamWorks' open-source MCRT production renderer used on feature films.
+    license: Open Source
     entry_type: software
     best_for: Open-source film production renderer
     tags:
@@ -430,6 +431,7 @@ entries:
   - name: Falcor
     url: https://github.com/NVIDIAGameWorks/Falcor
     description: A real-time rendering framework supporting DirectX 12 aiming to improve the productivity of research and prototype projects.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -441,6 +443,7 @@ entries:
   - name: StratusGFX
     url: https://github.com/KTStephano/StratusGFX
     description: Free and open source Realtime 3D rendering engine.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -452,6 +455,7 @@ entries:
   - name: Aurora
     url: https://github.com/Autodesk/Aurora
     description: A real-time path tracing renderer that enables fast product visualizations.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -463,6 +467,7 @@ entries:
   - name: kajiya
     url: https://github.com/EmbarkStudios/kajiya
     description: Experimental real-time global illumination renderer made with Rust and Vulkan.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -474,6 +479,7 @@ entries:
   - name: Sunflow
     url: https://github.com/fpsunflower/sunflow
     description: Not maintained, Sunflow is an open source rendering system for photo-realistic image synthesis.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -484,7 +490,8 @@ entries:
         - opensource-alt
   - name: Yafaray
     url: https://github.com/YafaRay/libYafaRay
-    description: LibYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license. Raytracing is a rendering technique for generating realistic images by tracing the path of light t
+    description: LibYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok

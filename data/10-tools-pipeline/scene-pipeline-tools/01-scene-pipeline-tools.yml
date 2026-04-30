@@ -63,102 +63,162 @@ entries:
   - name: COLMAP
     url: https://colmap.github.io/
     description: A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.
+    license: Open Source
     entry_type: software
+    best_for: Photogrammetry SfM/MVS reconstruction
+    tags:
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Photogrammetry
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
+    misfit: Belongs in photogrammetry-scanning subsection
   - name: A Trip Through The Graphics Pipeline
     url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
     description: A-trip-through-the-graphics-pipeline.
+    license: Open Source
     entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Graphics pipeline learning
     tags:
       tech:
         - opensource-alt
+    readme_tags:
+      - Reference
+      - Graphics
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    misfit: Reference book, not a pipeline tool
   - name: Dailies
     url: https://github.com/vfxpaco85/dailies/
     description: Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: tool
+    best_for: Dailies processing automation
     tags:
       tech:
         - opensource-alt
+      workflow:
+        - rendering
+    readme_tags:
+      - Dailies
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Prisma
     url: https://github.com/patriciogonzalezvivo/prisma
     description: Computational photography pipeline tool that performs multiple inferences (masks, depth, motionvectors) from any image or video.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: AI image/video inference (depth, masks)
     tags:
       tech:
         - opensource-alt
+        - ai-ml
+    readme_tags:
+      - Computational Photo
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Tik Manager (GitHub)
     url: https://github.com/masqu3rad3/tik_manager4
     description: Artist friendly asset and pipeline manager.
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: software
+    best_for: Asset/pipeline management for small teams
     tags:
       tech:
         - opensource-alt
+    readme_tags:
+      - Pipeline
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: GStreamer
     url: https://gstreamer.freedesktop.org/
     description: Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows.
+    license: Open Source
     entry_type: software
+    best_for: Multimedia pipeline framework
+    tags:
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Multimedia
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
+    misfit: General multimedia framework, not 3D-specific
   - name: Pipeline Developer Forum
     url: https://pipedev.org
     description: Pipeline Developer Forum.
+    license: Free
     entry_type: community
+    best_for: Pipeline TD community
+    tags: {}
+    readme_tags:
+      - Community
+      - Pipeline
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
   - name: Pandora
     url: https://prism-pipeline.com/pandora/
     description: Open-Source Renderfarm-Manager.
+    license: Open Source
     entry_type: software
+    best_for: Indie render farm management
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Render Farm
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
   - name: The Pipeline Conference
     url: https://thepipelineconference.com
     description: The Pipeline Conference.
-    entry_type: software
+    license: Paid
+    entry_type: community
+    best_for: Pipeline TD conference
+    tags: {}
+    readme_tags:
+      - Conference
+      - Pipeline
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
+    misfit: Conference, was tagged as software
   - name: Tik Manager (site)
     url: https://tik-manager.com
     description: Artist-friendly asset and pipeline manager.
+    license: Freemium
     entry_type: software
+    best_for: Asset/pipeline management
+    tags: {}
+    readme_tags:
+      - Pipeline
+      - Asset Mgmt
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
   - name: CGRU
     url: http://cgru.info/
     description: CG tools pack that includes AFANASY, a free open-source render farm manager.
+    license: Open Source
     entry_type: software
+    best_for: Open-source render farm
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Render Farm
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
   - name: Flamenco (Blender render farm)
     url: https://flamenco.blender.org/
     description: Blender Foundation's free render-farm manager.
@@ -196,6 +256,7 @@ entries:
     description: Open-source library for storing voxel data.
     entry_type: reference
     license: Open Source
+    best_for: Voxel data storage
     readme_tags:
       - Voxel Lib
       - Open Source
@@ -221,279 +282,481 @@ entries:
   - name: OD CopyPasteExternal
     url: https://github.com/heimlich1024/OD_CopyPasteExternal
     description: Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Cross-DCC geometry transfer
     tags:
       tech:
         - opensource-alt
+    readme_tags:
+      - DCC Bridge
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: CGCmake
     url: https://github.com/chadmv/cgcmake
     description: CMake modules for CG apps.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: CG plugin build systems
     tags:
       tech:
         - opensource-alt
+    readme_tags:
+      - Build
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Cortex
     url: https://github.com/ImageEngine/cortex
     description: Libraries for VFX software development.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: VFX dev libraries
     tags:
       tech:
         - opensource-alt
+      output:
+        - film-vfx
+    readme_tags:
+      - VFX Libs
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Cross3D
     url: https://github.com/blurstudio/cross3d
     description: Scene and node management abstraction.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Cross-DCC scene abstraction
     tags:
       tech:
         - opensource-alt
+    readme_tags:
+      - DCC Bridge
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: mGui
     url: https://github.com/theodox/mGui
     description: Portable pure-python GUI library for Maya.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Maya Python UI dev
     tags:
       tech:
         - opensource-alt
+      software:
+        - maya
+    readme_tags:
+      - Maya
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: minq
     url: https://github.com/theodox/minq
     description: Maya query language for speeding up common scene operations.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Maya scene queries
     tags:
       tech:
         - opensource-alt
+      software:
+        - maya
+    readme_tags:
+      - Maya
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Py3dsMax
     url: https://github.com/blurstudio/Py3dsMax
     description: 3dsMax API in Python.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: 3ds Max Python bindings
     tags:
       tech:
         - opensource-alt
+      software:
+        - 3dsmax
+    readme_tags:
+      - 3ds Max
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: PyMEL
     url: https://github.com/LumaPictures/pymel
     description: Python in Maya Done Right.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Maya Python wrapper
     tags:
       tech:
         - opensource-alt
+      software:
+        - maya
+    readme_tags:
+      - Maya
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Easy3D
     url: https://github.com/LiangliangNan/Easy3D
     description: A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data .
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: 3D data processing C++ lib
     tags:
       tech:
         - opensource-alt
+    readme_tags:
+      - 3D Lib
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Ramses
     url: https://github.com/RxLaboratory/Ramses
     description: Asset Management System for motion picture production (by [Rainbox Laboratory](https://rainboxlab.org)).
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Studio asset management
     tags:
       tech:
         - opensource-alt
+      output:
+        - film-vfx
+    readme_tags:
+      - Asset Mgmt
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Stalker
     url: https://github.com/eoyilmaz/stalker
     description: Open Source Production Asset Management (ProdAM) Library designed specifically for Animation and VFX Studios.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Studio production asset mgmt
     tags:
       tech:
         - opensource-alt
+      output:
+        - film-vfx
+    readme_tags:
+      - Asset Mgmt
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Example of Python scripts for 3D Studio Max, Maya and Blender
     url: https://github.com/p4vv37/3D_Software_and_Python/
     description: Example of Python scripts for 3D Studio Max, Maya and Blender.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: reference
+    best_for: DCC Python script examples
     tags:
       tech:
         - opensource-alt
+    readme_tags:
+      - Examples
+      - Python
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: AMD Blender USD Hydra
     url: https://gpuopen.com/learn/amd-usd-hydra-blender/
     description: With Pixar's USD system emerging as a powerful tool for 3D graphics pipelines and interchange, this addon is meant to add first class support for USD and the USD Hydra rendering system to Blender.
+    license: Free
     entry_type: software
+    best_for: USD Hydra in Blender
+    tags:
+      software:
+        - blender
+    readme_tags:
+      - USD
+      - Blender
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
+    misfit: Better fit in usd subsection
   - name: Haystack
     url: https://haystack.deepset.ai/
     description: End-to-end NLP framework | Pipelines, document stores |
-    entry_type: marketplace
+    license: Open Source
+    entry_type: software
+    best_for: NLP pipeline framework
+    tags:
+      tech:
+        - opensource-alt
+        - ai-ml
+    readme_tags:
+      - NLP
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
+    misfit: NLP framework, not a CG pipeline tool
   - name: Hugging Face Transformers
     url: https://huggingface.co/transformers
     description: State-of-the-art NLP models and pipelines.
+    license: Open Source
     entry_type: software
+    best_for: NLP model pipelines
+    tags:
+      tech:
+        - opensource-alt
+        - ai-ml
+    readme_tags:
+      - NLP
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
+    misfit: NLP library, not a CG pipeline tool
   - name: Radeon ProRender
     url: https://www.amd.com/en/technologies/radeon-prorender
     description: Physically-based engine, product by AMD.
-    entry_type: tool
+    license: Free
+    entry_type: software
+    best_for: AMD-backed PBR renderer
+    tags:
+      workflow:
+        - rendering
+    readme_tags:
+      - Renderer
+      - Free
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
+    misfit: Renderer, not a pipeline tool
   - name: CGAL
     url: https://www.cgal.org/
     description: A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
-    entry_type: tool
+    license: Open Source
+    entry_type: software
+    best_for: Computational geometry algorithms
+    tags:
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Geometry Lib
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
   - name: Flamenco (flamenco.io)
     url: https://www.flamenco.io/
     description: From the Blender Foundation
-    entry_type: tool
+    license: Open Source
+    entry_type: software
+    best_for: Blender render farm
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+      software:
+        - blender
+    readme_tags:
+      - Render Farm
+      - Blender
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
   - name: OpenTimelineIO (site)
     url: http://opentimeline.io
     description: ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
-    entry_type: tool
+    license: Open Source
+    entry_type: software
+    best_for: Editorial timeline interchange
+    tags:
+      tech:
+        - opensource-alt
+      output:
+        - film-vfx
+    readme_tags:
+      - Editorial
+      - Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
   - name: (2011) A trip through the graphics pipeline
     url: https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index
     description: By **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
-    entry_type: software
+    license: Free
+    entry_type: reference
+    best_for: GPU pipeline deep dive
+    tags: {}
+    readme_tags:
+      - Graphics
+      - Reference
     url_last_verified: '2026-04-19'
     url_status: ok
-    tags:
-      platform:
-        - web
+    misfit: Article series, not a pipeline tool
   - name: BoatAttack
     url: https://github.com/Verasl/BoatAttack
     description: Demo Project using the Lightweight Render Pipeline from Unity3D.
+    license: Open Source
     entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Unity LWRP demo project
     tags:
       tech:
         - opensource-alt
+      software:
+        - unity
+    readme_tags:
+      - Unity
+      - Demo
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    misfit: Unity demo, not a CG pipeline tool
   - name: BlenderProc
     url: https://github.com/DLR-RM/BlenderProc
     description: A procedural Blender pipeline for photorealistic training image generation.
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: tool
+    best_for: Synthetic training data via Blender
     tags:
       tech:
         - opensource-alt
+        - ai-ml
+      software:
+        - blender
+    readme_tags:
+      - Blender
+      - Synthetic Data
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Gaffer (GafferHQ compositing)
     url: https://github.com/GafferHQ/gaffer
     description: Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: software
+    best_for: Look dev / lighting / compositing
     tags:
       tech:
         - opensource-alt
+      output:
+        - film-vfx
+    readme_tags:
+      - Look Dev
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: OBS
     url: https://github.com/obsproject/obs-studio
     description: Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: software
+    best_for: Screen capture and streaming
     tags:
       tech:
         - opensource-alt
+    readme_tags:
+      - Capture
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    misfit: Streaming software, not a CG pipeline tool
   - name: QtWebengine
     url: https://github.com/qt/qtwebengine
     description: Render web content in Qt.
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: tool
+    best_for: Embedded web view in Qt apps
     tags:
       tech:
         - opensource-alt
+    readme_tags:
+      - Qt
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    misfit: Generic Qt module, not a CG pipeline tool
   - name: MayaCharm
     url: https://github.com/cmcpasserby/MayaCharm
     description: Run and edit Maya scripts directly from PyCharm
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: tool
+    best_for: Maya scripting in PyCharm
     tags:
       tech:
         - opensource-alt
+      software:
+        - maya
+    readme_tags:
+      - Maya
+      - IDE
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: MayaSublime
     url: https://github.com/justinfx/MayaSublime
     description: Run and edit Maya scripts directly from SublimeText
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: tool
+    best_for: Maya scripting in Sublime
     tags:
       tech:
         - opensource-alt
+      software:
+        - maya
+    readme_tags:
+      - Maya
+      - IDE
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: VEX
     url: https://github.com/teared/VEX
     description: Houdini add-on for Sublime Text
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: tool
+    best_for: Houdini VEX in Sublime
     tags:
       tech:
         - opensource-alt
+      software:
+        - houdini
+    readme_tags:
+      - Houdini
+      - IDE
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: nuke.vim
     url: https://github.com/heavyimage/nuke.vim
     description: Run and edit Nuke scripts directly from vim
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: tool
+    best_for: Nuke scripting in vim
     tags:
       tech:
         - opensource-alt
+      software:
+        - nuke
+    readme_tags:
+      - Nuke
+      - IDE
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: LLM App
     url: https://github.com/pathwaycom/llm-app
     description: LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Real-time LLM data pipelines
     tags:
       tech:
         - opensource-alt
+        - ai-ml
+    readme_tags:
+      - LLM
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    misfit: LLM data pipeline, not a CG pipeline tool
   - name: shashikg/WhisperS2T
     url: https://github.com/shashikg/WhisperS2T
     description: An Optimized Speech-to-Text Pipeline for the Whisper Model
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Open Source
+    entry_type: tool
+    best_for: Optimized Whisper STT
     tags:
       tech:
         - opensource-alt
+        - ai-ml
+    readme_tags:
+      - Speech-to-Text
+      - Open Source
+    url_last_verified: '2026-04-19'
+    url_status: ok
+    misfit: Speech-to-text, not a CG pipeline tool

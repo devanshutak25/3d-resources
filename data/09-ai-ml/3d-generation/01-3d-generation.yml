@@ -236,6 +236,7 @@ entries:
   - name: Threestudio
     url: https://github.com/threestudio-project/threestudio
     description: A unified framework for 3D content generation.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok

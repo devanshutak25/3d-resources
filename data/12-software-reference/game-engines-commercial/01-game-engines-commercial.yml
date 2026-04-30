@@ -209,6 +209,7 @@ entries:
   - name: Evergine
     url: https://evergine.com/
     description: Enterprise-focused graphics engine for 3D business and industry applications.
+    license: Open Source
     entry_type: software
     best_for: Enterprise 3D apps
     tags:
@@ -226,9 +227,17 @@ entries:
   - name: SceneKit
     url: https://developer.apple.com/documentation/scenekit
     description: Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
-    entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    license: Free
+    entry_type: software
+    best_for: Apple ecosystem 3D games
     tags:
       output:
         - games
+      platform:
+        - mac
+        - ios
+    readme_tags:
+      - Apple-Native
+      - Proprietary
+    url_last_verified: '2026-04-19'
+    url_status: ok

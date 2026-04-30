@@ -156,12 +156,25 @@ entries:
         - editing
   - name: OpenShot
     url: https://github.com/OpenShot/openshot-qt
-    description: Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
-    entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    description: Award-winning free and open-source video editor for Linux, Mac, and Windows.
+    license: Open Source
+    entry_type: software
+    best_for: Cross-platform beginner editing
     tags:
       workflow:
         - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
       tech:
         - opensource-alt
+    readme_tags:
+      - Open Source
+      - Beginner-Friendly
+    url_last_verified: '2026-04-19'
+    url_status: ok

@@ -67,11 +67,17 @@ entries:
   - name: F Spy Maya
     url: https://github.com/Nathanieljla/fSpy-Maya
     description: Unofficial fSpy Maya importer (one of several).
+    license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: fSpy → Maya import
     tags:
       workflow:
         - fx
       tech:
+        - maya-plugin
         - opensource-alt
+    readme_tags:
+      - Free
+      - Maya Bridge
+    url_last_verified: '2026-04-19'
+    url_status: ok

@@ -188,9 +188,11 @@ entries:
     url_status: ok
     tags:
       workflow:
-        - compositing
+        - fx
+        - simulation
       output:
         - film-vfx
+        - games
   - name: ActionVFX
     url: https://www.actionvfx.com/
     description: VFX stock elements (explosions, fire, debris).
@@ -200,5 +202,6 @@ entries:
     tags:
       workflow:
         - compositing
+        - fx
       output:
         - film-vfx

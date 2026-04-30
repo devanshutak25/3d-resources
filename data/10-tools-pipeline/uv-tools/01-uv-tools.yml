@@ -59,9 +59,16 @@ entries:
   - name: UV Toolkit
     url: https://gumroad.com/alexbel#NbMya
     description: Tools collection for UV editing in blender.
+    license: Paid
     entry_type: plugin
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    best_for: Blender UV editing toolkit
     tags:
       workflow:
         - uv
+      tech:
+        - blender-addon
+    readme_tags:
+      - Blender
+      - Toolkit
+    url_last_verified: '2026-04-19'
+    url_status: ok

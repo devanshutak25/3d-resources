@@ -3,6 +3,7 @@ entries:
     url: https://www.youtube.com/channel/UCniZ7Qzbv17NvoCypCzB4Ow
     description: Character workflow and industry breakdowns.
     entry_type: channel
+    license: Free
     readme_tags:
       - Characters
       - Pro Workflow
@@ -17,6 +18,7 @@ entries:
     url: https://www.youtube.com/channel/UCxOJdR3lmUf9XP_ME-C9jlg
     description: Sculpting tutorials.
     entry_type: channel
+    license: Free
     tags:
       workflow:
         - sculpting
@@ -31,6 +33,7 @@ entries:
     url: https://www.youtube.com/@ProkoTV
     description: Figure drawing and anatomy.
     entry_type: channel
+    license: Free
     readme_tags:
       - Figure Drawing
       - Anatomy
@@ -45,6 +48,7 @@ entries:
     url: https://www.youtube.com/@marcobucci
     description: Painting and color theory.
     entry_type: channel
+    license: Free
     readme_tags:
       - Painting
       - Color Theory
@@ -59,6 +63,7 @@ entries:
     url: https://www.youtube.com/@sinixdesign
     description: Digital painting fundamentals.
     entry_type: channel
+    license: Free
     readme_tags:
       - Digital Painting
       - Fundamentals
@@ -73,6 +78,7 @@ entries:
     url: https://www.youtube.com/@TylerEdlin84
     description: Environment and concept art.
     entry_type: channel
+    license: Free
     readme_tags:
       - Environment
       - Concept
@@ -87,6 +93,7 @@ entries:
     url: https://www.youtube.com/@gradyfrederickart
     description: Concept art process.
     entry_type: channel
+    license: Free
     readme_tags:
       - Concept Process
       - Art
@@ -101,6 +108,7 @@ entries:
     url: https://www.youtube.com/@moderndayjames
     description: Rigorous perspective systems and construction drawing.
     entry_type: channel
+    license: Free
     readme_tags:
       - Perspective
       - Construction
@@ -115,6 +123,7 @@ entries:
     url: https://www.youtube.com/@TrentKaniuga
     description: Concept art workflow for game/film production.
     entry_type: channel
+    license: Free
     readme_tags:
       - Production Workflow
       - Games/Film
@@ -125,10 +134,14 @@ entries:
         - sculpting
       platform:
         - web
-  - name: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts
+  - name: YanSculpts
     url: https://www.youtube.com/@yansculpts
-    description: ⚔️3D Modeling a Sword for Complete Beginners by YanSculpts..
+    description: Blender sculpting tutorials, including beginner sword modeling.
     entry_type: channel
+    license: Free
+    readme_tags:
+      - Sculpting
+      - Blender
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -136,10 +149,14 @@ entries:
         - sculpting
       platform:
         - web
-  - name: 📺 NTRCT | Characters for Dummies ~ Yu Fujishiro
+  - name: Yu Fujishiro (NTRCT)
     url: https://www.youtube.com/@YFJSR
-    description: '[animation] - ''interactive art''.'
+    description: Stylized character creation and interactive animation art.
     entry_type: channel
+    license: Free
+    readme_tags:
+      - Characters
+      - Stylized
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

@@ -26,6 +26,8 @@ entries:
       output:
         - film-vfx
         - broadcast
+      tech:
+        - real-time
     readme_tags:
       - LED Walls
       - Workflow
@@ -58,6 +60,8 @@ entries:
       output:
         - broadcast
         - film-vfx
+      tech:
+        - real-time
     readme_tags:
       - Broadcast
       - Graphics

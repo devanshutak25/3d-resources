@@ -3,6 +3,7 @@ entries:
     url: https://www.youtube.com/@BenMarriott
     description: After Effects and motion design.
     entry_type: channel
+    license: Free
     tags:
       output:
         - motion-graphics

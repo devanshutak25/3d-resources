@@ -5,6 +5,7 @@ entries:
     license: Freemium
     entry_type: software
     best_for: Large-asset VCS
+    notes: 'FLAG: entry_type=software but project demotes software; candidate for §12 software table relocation.'
     tags:
       output:
         - games
@@ -35,6 +36,7 @@ entries:
     license: Freemium
     entry_type: software
     best_for: Artist-friendly VCS
+    notes: 'FLAG: entry_type=software but project demotes software; candidate for §12 software table relocation.'
     tags:
       output:
         - games

@@ -93,6 +93,7 @@ entries:
   - name: SmartFoxServer 2X
     url: http://docs2x.smartfoxserver.com/ExamplesUnity/introduction
     description: A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more.
+    license: Freemium
     entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -102,6 +103,7 @@ entries:
   - name: 'GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course'
     url: https://www.gamedev.tv/p/unrealmultiplayer
     description: 'GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course.'
+    license: Paid
     entry_type: tutorial
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -111,7 +113,9 @@ entries:
   - name: Forge Networking Remastered
     url: https://github.com/BeardedManStudios/ForgeNetworkingRemastered
     description: In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine.
+    license: Open Source
     entry_type: reference
+    notes: 'FLAG: entry_type may better fit tool (GitHub source SDK).'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -122,7 +126,9 @@ entries:
   - name: Unity Multiplayer Packages
     url: https://github.com/Unity-Technologies/multiplayer
     description: Unity multiplayer packages and samples. ![Official](UnityResource16x16.png)
+    license: Open Source
     entry_type: reference
+    notes: 'FLAG: entry_type may better fit tool (packages/samples repo).'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -133,7 +139,9 @@ entries:
   - name: Basic Multiplayer Unity
     url: https://github.com/manlaig/basic_multiplayer_unity
     description: Fast-Paced UDP Client-Server implementation.
+    license: Open Source
     entry_type: reference
+    notes: 'FLAG: sample/demo repo — could be tutorial.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -144,7 +152,9 @@ entries:
   - name: Gambetta_Networked Demo
     url: https://github.com/RamiAhmed/Gambetta_NetworkedDemo
     description: 'Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta''s Multiplayer Network Demo in Unity C# as Networked using Lidgren Network.'
+    license: Open Source
     entry_type: reference
+    notes: 'FLAG: sample/demo repo — could be tutorial.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -155,7 +165,9 @@ entries:
   - name: 📄 build dynamic matchmaking with PubNub ~ epicgames
     url: https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services
     description: '[multiplayer].'
+    license: Free
     entry_type: software
+    notes: 'FLAG: entry_type misfit — this is a tutorial/article, not software.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -164,7 +176,9 @@ entries:
   - name: Bomber
     url: https://github.com/JanSeliv/Bomber
     description: Open-source Bomberman multiplayer game made in Unreal Engine 5.
+    license: Open Source
     entry_type: reference
+    notes: 'FLAG: open-source sample game — could be inspiration.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -175,6 +189,7 @@ entries:
   - name: Colyseus Unreal
     url: https://github.com/charisma-ai/colyseus-unreal
     description: Colyseus Multiplayer SDK for Unreal Engine
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok

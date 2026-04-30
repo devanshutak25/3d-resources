@@ -92,6 +92,7 @@ entries:
   - name: GdSpy
     url: https://github.com/Alby90/GdSpy
     description: Unofficial fSpy importer for Godot.
+    license: Open Source
     entry_type: tool
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -103,6 +104,7 @@ entries:
   - name: Godot 4 glTF runtime import
     url: https://github.com/godotengine/godot-docs/issues/6385
     description: Godot 4 glTF runtime import.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -114,6 +116,7 @@ entries:
   - name: Godot Package Manager
     url: https://github.com/you-win/godot-package-manager
     description: Package manager for Godot using npm.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok

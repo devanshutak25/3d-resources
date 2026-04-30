@@ -3,9 +3,12 @@ entries:
     url: https://www.blenderkit.com/
     description: In-app asset browser.
     entry_type: marketplace
+    license: proprietary
     tags:
       tech:
         - blender-addon
+      platform:
+        - web
     readme_tags:
       - Blender
       - In-app
@@ -15,6 +18,7 @@ entries:
     url: https://www.orbolt.com/
     description: Official Houdini HDA marketplace.
     entry_type: marketplace
+    license: proprietary
     readme_tags:
       - Houdini
       - HDAs
@@ -23,22 +27,28 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: Greyscalegorilla (site)
     url: https://greyscalegorilla.com/
     description: C4D plugins, materials, HDRIs.
     entry_type: marketplace
+    license: proprietary
     readme_tags:
       - C4D
-      - Materials + HDRIs
+      - Materials
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - c4d
   - name: Autodesk App Store
     url: https://apps.autodesk.com/en/Home/Index
     description: Official Maya plugins and scripts.
     entry_type: marketplace
+    license: proprietary
     readme_tags:
       - Maya
       - Official
@@ -47,10 +57,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - maya
   - name: Highend3d
     url: https://www.highend3d.com/
     description: Maya community scripts and plugins.
     entry_type: marketplace
+    license: proprietary
     readme_tags:
       - Maya
       - Community
@@ -59,10 +72,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - maya
   - name: aescripts + aeplugins
     url: https://aescripts.com/
     description: Primary After Effects / Premiere plugin marketplace.
     entry_type: marketplace
+    license: proprietary
     readme_tags:
       - AE + Premiere
       - Primary
@@ -71,10 +87,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - after-effects
   - name: VideoHive (Envato)
     url: https://videohive.net/
     description: Templates and presets.
     entry_type: marketplace
+    license: proprietary
     readme_tags:
       - Templates
       - Envato
@@ -87,6 +106,7 @@ entries:
     url: https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3067
     description: Community package manager for DaVinci Resolve, hundreds of free tools.
     entry_type: marketplace
+    license: free
     readme_tags:
       - Resolve
       - Free Pkg Mgr
@@ -95,10 +115,13 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - davinci-resolve
   - name: Gumroad
     url: https://gumroad.com/
     description: Creator-direct marketplace.
     entry_type: marketplace
+    license: proprietary
     readme_tags:
       - Cross-Platform
       - Creator-direct
@@ -111,6 +134,7 @@ entries:
     url: https://flippednormals.com/
     description: Character, sculpting, and CG marketplace.
     entry_type: marketplace
+    license: proprietary
     readme_tags:
       - Sculpting
       - Characters
@@ -123,6 +147,7 @@ entries:
     url: https://kitbash3d.com/
     description: High-end kitbash asset packs.
     entry_type: marketplace
+    license: proprietary
     readme_tags:
       - Kitbash Packs
       - Premium
@@ -135,108 +160,176 @@ entries:
     url: https://motionarray.com/
     description: Motion graphics and video assets.
     entry_type: marketplace
+    license: proprietary
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
     readme_tags:
       - Motion Assets
       - Templates
     url_last_verified: '2026-04-19'
     url_status: ok
+  # MISFIT: individual addons below — entry_type=marketplace likely wrong (should be 'tool'/'addon'). Flagged, not relocated.
   - name: MACHIN3tools
     url: https://gumroad.com/l/MACHIN3tools
     description: Free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [![market]](https://blendermarket
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon, not a marketplace
+    license: free
+    readme_tags:
+      - Blender
+      - Pie Menus
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Maxivz’s Interactive Tools
     url: https://gumroad.com/l/ynJmIV
     description: Collection of intuitive, context sensitive tools for Blender.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: unknown
+    readme_tags:
+      - Blender
+      - Modeling
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Archipack
     url: https://gumroad.com/l/ZRMyP
     description: '[$] : The Archipack addon for Blender contains a collection of parametric primitives for ArchViz. You can manipulate these primitives with a realtime on-screen editing interface.'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: paid
+    readme_tags:
+      - Blender
+      - ArchViz
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: KIT OPS
     url: https://gumroad.com/l/kitops
     description: Can create objects and scenes with extreme efficiency and speed. Complex industrial designs can be generated in a single sitting.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: freemium
+    readme_tags:
+      - Blender
+      - Kitbash
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Speedflow
     url: https://gumroad.com/l/speedflow
     description: '[$] : Addon for non-destructive workflow.'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: paid
+    readme_tags:
+      - Blender
+      - Non-destructive
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Poly Source
     url: https://gumroad.com/l/polysource
     description: Designed to simplify the control of the number of different types of polygons. You can see how many Gone, Quad and Tris are on the active object.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: unknown
+    readme_tags:
+      - Blender
+      - Topology
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Speedsculpt
     url: https://gumroad.com/l/SpeedSculpt
     description: '[$] : The addon allows you to create very fast characters, to manage Dyntopo Sculpting with booleans, cut curves, skin modifier, decimate, mask etc.'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: paid
+    readme_tags:
+      - Blender
+      - Sculpting
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Brush Manager for Blender
     url: https://gumroad.com/l/zLBPz
     description: Add-on for Blender that helps you to create custom brushes, store them in a file and organize the library of various categories of brushes.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: unknown
+    readme_tags:
+      - Blender
+      - Brushes
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Mech/Fy
     url: https://gumroad.com/l/KZllV
     description: A procedural workflow that automates the process of hard surfaces modelling.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: unknown
+    readme_tags:
+      - Blender
+      - Hard Surface
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: BY GEN
     url: https://gumroad.com/l/BY-GEN
     description: Addon designed to simplify the process of creating non-destructive, generative modeling styles in Blender. [![][repo]](https://github.com/curtisjamesholt/BY-GEN-public)
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: free
+    readme_tags:
+      - Blender
+      - Generative
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Universal Human Rigged Base Mesh
     url: https://gumroad.com/l/EqNTn
     description: '[$] : Rigged human base mesh.'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: this is an asset, not a marketplace or tool
+    license: paid
+    readme_tags:
+      - Base Mesh
+      - Rigged
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -245,70 +338,116 @@ entries:
   - name: Texel Density Checker
     url: https://gumroad.com/l/CEIOR
     description: Tools for calculate, set and copy texel density. [![][repo]](https://github.com/mrven/Blender-Texel-Density-Checker)
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: free
+    readme_tags:
+      - Blender
+      - Texel Density
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Free Sky Environment Shading
     url: https://gumroad.com/l/JUyxL
     description: Free custom procedural environment shading.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: shader asset, not a marketplace
+    license: free
+    readme_tags:
+      - Blender
+      - Environment
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Blender Osm
     url: https://gumroad.com/l/blender-osm
     description: One click download and import of OpenStreetMap and terrain for Blender.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: freemium
+    readme_tags:
+      - Blender
+      - OSM
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Photographer 2
     url: https://gumroad.com/chafouin#FWQf
     description: Camera Exposure, White balance and Autofocus. Photographer 2 was made completely free for all.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: free
+    readme_tags:
+      - Blender
+      - Camera
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: ExtraInfo
     url: https://gumroad.com/l/UznDL
     description: Show more info in the viewport.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: unknown
+    readme_tags:
+      - Blender
+      - Viewport
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: SSGI for EEVEE
     url: https://gumroad.com/l/PgyXc
     description: Converts Diffuse and Principled BSDFs to nodegroups that give representation of diffuse component to SSR for SSGI effect.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon/shader
+    license: unknown
+    readme_tags:
+      - Blender
+      - EEVEE
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: PowerSave
     url: https://gumroad.com/l/powersave
     description: Tool intended to streamline saving and make saving itself more accessible, friendly and more artist streamlined.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: unknown
+    readme_tags:
+      - Blender
+      - Workflow
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Free Hard Surface KitBash Models
     url: https://gumroad.com/olegushenok?sort=page_layout&tags=free
     description: '[Free sci-fi kitbash set](https://cubebrush.co/polyworkshop/products/audboa/free-sci-fi-kitbash-set-fusion-360-zbrush), [3D Kitbashing library](https://gumroad.com/adrianrutkowski)'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: creator profile/asset link, not a marketplace
+    license: free
+    readme_tags:
+      - Kitbash
+      - Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -317,7 +456,11 @@ entries:
   - name: gumroad/simonthommes
     url: https://gumroad.com/simonthommes
     description: '[Meta''s Massivest Materials](https://www.blendswap.com/blend/16480), [Abstract Materials](https://gumroad.com/l/CCIEF)'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: creator profile, not a marketplace
+    license: mixed
+    readme_tags:
+      - Blender
+      - Materials
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -326,7 +469,11 @@ entries:
   - name: gumroad/bluefoxcreation
     url: https://gumroad.com/bluefoxcreation
     description: '[gumroad/curtisjamesholt](https://gumroad.com/curtisjamesholt)'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: creator profile, not a marketplace
+    license: mixed
+    readme_tags:
+      - Creator
+      - Profile
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -335,7 +482,11 @@ entries:
   - name: jamajurabaev
     url: https://gumroad.com/jamajurabaev
     description: '[janurschel](https://gumroad.com/janurschel), [yansculpts](https://gumroad.com/yansculpts),'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: creator profile, not a marketplace
+    license: mixed
+    readme_tags:
+      - Creator
+      - Profile
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -344,16 +495,26 @@ entries:
   - name: EasyBPY
     url: https://gumroad.com/l/easybpy
     description: This purpose of this module is to simplify the use of the Blender API (bpy) by creating an extra layer of abstraction that is more human-readable, memorable and reduces the user's exposure to compl
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: Python module, not a marketplace
+    license: free
+    readme_tags:
+      - Blender
+      - Python API
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: 30 Free PBR materials by Artem Lebedev
     url: https://gumroad.com/l/ekRhc
     description: 30 Free PBR materials by Artem Lebedev.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: asset pack, not a marketplace
+    license: free
+    readme_tags:
+      - PBR
+      - Materials
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -362,7 +523,11 @@ entries:
   - name: Free VDB Clouds
     url: https://assetsvfx.gumroad.com/l/RcgNe?recommended_by=search
     description: Pack of 3 cloud VDBs for large Ariel views.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: asset pack, not a marketplace
+    license: free
+    readme_tags:
+      - VDB
+      - Clouds
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -371,117 +536,195 @@ entries:
   - name: Blenderesse's Generators
     url: https://blenderesse.gumroad.com
     description: Blenderesse offers a few geometry nodes generators for free. Including; [Electric Power Line](https://blenderesse.gumroad.com/l/electriclinegenerator)
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: creator profile / Blender addon
+    license: free
+    readme_tags:
+      - Blender
+      - Geo Nodes
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Flow Map Painter
     url: https://clemensbeute.gumroad.com/l/heZDT
     description: This blender add-on provides a brush tool for flow map painting. [![][repo]](https://github.com/ClemensBeute/flow_map_painter)
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: free
+    readme_tags:
+      - Blender
+      - Flow Maps
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: City Scatter
     url: https://curtisjamesholt.gumroad.com/l/city_scatter_free
     description: Generate cityscape concepts, powered by Blender's collection system.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: free
+    readme_tags:
+      - Blender
+      - Cityscape
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: E Cycles
     url: https://ecycles.gumroad.com/l/E-Cycles
     description: '[$] : is a fork of Cycles which renders up to 2.5x faster out of the box when using CUDA GPUs, up to 15x using new options.'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: render engine fork, not a marketplace
+    license: paid
+    readme_tags:
+      - Blender
+      - Render
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Higgsas Blender
     url: https://higgsas.gumroad.com/l/wrusot
     description: '[Mesh Tension Map](https://higgsas.gumroad.com/l/tnqal), [Droplet Generator](https://ibotpl.gumroad.com/l/alvgr), [BackdropGen](https://yamato3d.gumroad.com/l/BackdropGen)'
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: creator profile / link list
+    license: mixed
+    readme_tags:
+      - Blender
+      - Geo Nodes
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Point Based Growth HDA
     url: https://itj.gumroad.com/l/pbg
     description: Houdini point based growth Asset.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Houdini HDA
+    license: unknown
+    readme_tags:
+      - Houdini
+      - HDA
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: Layer Painter
     url: https://joshuaknauber.gumroad.com/l/layerpainter
     description: Allows you to use a Layer-System for creating materials with painting and procedurals. The layers include masks, filters and much more. Even though the addon is designed with a PBR workflow in mind
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: paid
+    readme_tags:
+      - Blender
+      - Texturing
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Path Solver HDA
     url: https://lavrenovlad.gumroad.com/l/fkQSl
     description: Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Houdini HDA
+    license: unknown
+    readme_tags:
+      - Houdini
+      - HDA
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: Pixel Art Rendering
     url: https://lucasroedel.gumroad.com/l/pixel_art
     description: This is a free addon to make pixel art like renders in blender. It works with EEVEE, Bayer dithering and multiple light sources.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: free
+    readme_tags:
+      - Blender
+      - Pixel Art
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Wrap Defromer
     url: https://momme.gumroad.com/l/cfxwrap?recommended_by=search
     description: The wrap deformer provides an alternative approach to Houdinis point deform. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolate
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Houdini HDA
+    license: unknown
+    readme_tags:
+      - Houdini
+      - Deformer
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - houdini
   - name: Parallax UV Mapping
     url: https://neveselov.gumroad.com/l/btnpx
     description: This is Parallax Mapping material and node setup. Created in Blender 2.8 for EEVEE renderer, it works well in cycles too. [[more info]](https://www.youtube.com/watch?v=ZL695WnJvmU)
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: shader asset, not a marketplace
+    license: unknown
+    readme_tags:
+      - Blender
+      - Parallax
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Super Res Render
     url: https://pidgeontools.gumroad.com/l/SuperResRender
     description: Plugin that splits renders up into several chunks to make rendering at super high resolutions possible.
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: paid
+    readme_tags:
+      - Blender
+      - Render
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon
   - name: Super Fast Render
     url: https://pidgeontools.gumroad.com/l/SuperFastRender
     description: Either uses preset render settings optimised to speed up render times or Uses a benchmark to detect the fastest settings for the same render quality
-    entry_type: marketplace
+    entry_type: marketplace  # MISFIT: individual Blender addon
+    license: paid
+    readme_tags:
+      - Blender
+      - Render
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       platform:
         - web
+      tech:
+        - blender-addon

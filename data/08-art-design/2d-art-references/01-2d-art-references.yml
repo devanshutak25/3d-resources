@@ -18,6 +18,7 @@ entries:
   - name: Saint11 Pixel Art
     url: https://www.patreon.com/saint11
     description: Pixel art tutorials.
+    license: Paid
     entry_type: channel
     tags:
       output:

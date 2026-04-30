@@ -65,7 +65,7 @@ entries:
   - name: Practical Rendering of Multiple Scattering Effects in Participating Media
     url: https://cseweb.ucsd.edu/~ravir/HRPIEG.pdf
     description: 'Premoze et al. Rendering Techniques 2004: 15th Eurographics Workshop on Rendering'
-    entry_type: marketplace
+    entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -146,7 +146,7 @@ entries:
   - name: Creative Coding with Canvas & WebGL
     url: https://frontendmasters.com/courses/canvas-webgl/
     description: Workshop by Matt DesLauriers that teaches you about generative art, interactive animations, 3D graphics, and shaders.
-    entry_type: marketplace
+    entry_type: tutorial
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -155,7 +155,7 @@ entries:
   - name: Advanced Creative Coding with WebGL & Shaders
     url: https://frontendmasters.com/courses/webgl-shaders/
     description: Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
-    entry_type: marketplace
+    entry_type: tutorial
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

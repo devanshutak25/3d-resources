@@ -392,6 +392,7 @@ entries:
   - name: Tahoma2D
     url: https://tahoma2d.org/
     description: 2D and stop-motion animation (OpenToonz fork w/ modernized UI and features).
+    license: Open Source
     entry_type: software
     best_for: 2D / stop motion
     tags:
@@ -415,6 +416,7 @@ entries:
   - name: DragonBones
     url: http://dragonbones.effecthub.com
     description: Open source 2D skeletal animation — Flash-origin workflow, runtimes for multiple engines.
+    license: Open Source
     entry_type: software
     best_for: 2D skeletal animation (OSS)
     tags:
@@ -432,6 +434,7 @@ entries:
   - name: Spriter Pro
     url: https://brashmonkey.com/download-spriter-pro/
     description: Modern tool for sprite animation (2D bone rigging).
+    license: Paid
     entry_type: software
     best_for: 2D sprite animation
     tags:
@@ -451,6 +454,7 @@ entries:
   - name: GraphicsGale
     url: https://graphicsgale.com/us/
     description: Pixel art and sprite animation tool (free).
+    license: Free
     entry_type: software
     best_for: Pixel art/sprite animation
     tags:
@@ -485,6 +489,8 @@ entries:
     readme_tags:
       - Bone Rigging
       - Vector Animation
+    url_last_verified: '2026-04-19'
+    url_status: ok
   - name: Friction
     url: https://friction.graphics/
     description: Free open-source motion graphics and 2D vector animation. After Effects-style workflow.

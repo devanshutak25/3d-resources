@@ -3,6 +3,7 @@ entries:
     url: https://ldjam.com/
     description: Oldest jam, twice yearly.
     entry_type: community
+    license: Free
     readme_tags:
       - Oldest Jam
       - Biannual
@@ -15,6 +16,7 @@ entries:
     url: https://itch.io/jam/gmtk-2025
     description: Largest jam by entries.
     entry_type: community
+    license: Free
     readme_tags:
       - Largest
       - GMTK
@@ -27,6 +29,7 @@ entries:
     url: https://itch.io/jams
     description: Hundreds of active jams.
     entry_type: community
+    license: Free
     readme_tags:
       - Hub
       - Ongoing
@@ -39,6 +42,7 @@ entries:
     url: https://globalgamejam.org/
     description: Annual, in-person worldwide.
     entry_type: community
+    license: Free
     readme_tags:
       - In-Person
       - Global
@@ -51,6 +55,7 @@ entries:
     url: https://itch.io/jam/brackeys
     description: Beginner-friendly jam.
     entry_type: community
+    license: Free
     tags:
       skill:
         - beginner
@@ -65,6 +70,7 @@ entries:
     url: https://js13kgames.com/
     description: 13KB size limit JavaScript jam.
     entry_type: community
+    license: Free
     readme_tags:
       - 13KB Limit
       - JS

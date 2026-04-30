@@ -3,6 +3,7 @@ entries:
     url: http://www.contemporist.com/
     description: Contemporary architecture.
     entry_type: inspiration
+    license: unknown
     tags:
       output:
         - archviz
@@ -15,6 +16,7 @@ entries:
     url: https://www.modlar.com/
     description: Architecture inspiration.
     entry_type: inspiration
+    license: unknown
     tags:
       output:
         - archviz

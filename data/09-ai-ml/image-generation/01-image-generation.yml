@@ -248,8 +248,10 @@ entries:
     url_status: ok
   - name: '3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows'
     url: https://arxiv.org/abs/2210.11603
-    description: ArXiv 2022 | |
-    entry_type: software
+    description: ArXiv 2022 paper on integrating text-to-image AI in 3D design workflows.
+    entry_type: reference
+    license: Free
+    notes: RELOCATE — academic paper (ArXiv), better suited under a research/reference subsection.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -262,7 +264,9 @@ entries:
   - name: Introduction to Generative AI Community Course
     url: https://www.youtube.com/@iNeuroniNtelligence
     description: By ineuron
+    license: Free
     entry_type: channel
+    notes: RELOCATE — general genAI course; better under §09 ML for CG.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -275,7 +279,9 @@ entries:
   - name: AudioCraft
     url: https://audiocraft.metademolab.com/
     description: 'A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource'
-    entry_type: reference
+    license: Open Source
+    entry_type: software
+    notes: RELOCATE — audio gen, belongs under §09 AI Audio & Music.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -286,7 +292,9 @@ entries:
   - name: COVAL
     url: https://app.coval.dev/the-ultimate-voice-ai-stack
     description: Architecture of voice AI, from speech recognition to emotional intelligence, and learn how to build, scale, and evaluate them
+    license: Free
     entry_type: tutorial
+    notes: RELOCATE — voice AI stack, belongs under §09 AI Audio & Music.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -297,7 +305,9 @@ entries:
   - name: Stable Diffusion KLMC2 Animation.ipynb forked
     url: https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb
     description: Fork by [@DigThatData](https://twitter.com/DigThatData)
-    entry_type: software
+    license: Open Source
+    entry_type: tool
+    notes: RELOCATE — animation notebook; could move under §09 Video Generation.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -308,7 +318,9 @@ entries:
   - name: Stable Diffusion KLMC2 Animation.ipynb
     url: https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G
     description: Notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
-    entry_type: software
+    license: Open Source
+    entry_type: tool
+    notes: RELOCATE — animation notebook; could move under §09 Video Generation.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -319,7 +331,9 @@ entries:
   - name: UneeQ Digital Humans
     url: https://www.digitalhumans.com/
     description: 3D character lib synced
-    entry_type: reference
+    license: Paid
+    entry_type: software
+    notes: RELOCATE — digital humans platform; not image gen. Move to §03 or §09 AI-Assisted CG Tools.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -330,19 +344,24 @@ entries:
   - name: AI Render
     url: https://github.com/benrugg/AI-Render
     description: Stable Diffusion in Blender. This add-on renders an AI generated image based on a text prompt and your scene.
-    entry_type: reference
+    license: Open Source
+    entry_type: plugin
+    notes: RELOCATE — Blender addon; could move under §Plugins or AI-Assisted CG Tools.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       tech:
         - ai-generative
         - opensource-alt
+        - blender-addon
       workflow:
         - concept
   - name: Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material
     url: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/generative_ai_genius/README.md
     description: Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material.
-    entry_type: reference
+    license: Free
+    entry_type: tutorial
+    notes: RELOCATE — general genAI course; move to §09 ML for CG.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -354,7 +373,9 @@ entries:
   - name: Openai/point E
     url: https://github.com/openai/point-e
     description: OpenAI's point cloud diffusion for 3D model synthesis
+    license: Open Source
     entry_type: reference
+    notes: RELOCATE — belongs under §09 3D Generation, not Image Generation.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -366,7 +387,9 @@ entries:
   - name: Ashawkey/stable Dreamfusion
     url: https://github.com/ashawkey/stable-dreamfusion
     description: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
-    entry_type: reference
+    license: Open Source
+    entry_type: software
+    notes: RELOCATE — text-to-3D, belongs under §09 3D Generation.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -378,7 +401,8 @@ entries:
   - name: Aga Miko/pixel Character Generator
     url: https://github.com/AgaMiko/pixel_character_generator
     description: Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
-    entry_type: reference
+    license: Open Source
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -390,7 +414,9 @@ entries:
   - name: sd-concepts-library (Stable Diffusion concepts library)
     url: https://huggingface.co/sd-concepts-library
     description: Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
+    license: Open Source
     entry_type: community
+    notes: RELOCATE — could fit better under §09 Open-Source Models (HuggingFace).
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -401,7 +427,9 @@ entries:
   - name: MusicGen
     url: https://huggingface.co/spaces/facebook/MusicGen
     description: Meta's tool for generating music
-    entry_type: reference
+    license: Open Source
+    entry_type: software
+    notes: RELOCATE — music gen, belongs under §09 AI Audio & Music.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -412,7 +440,9 @@ entries:
   - name: Transforming 2D Images into 3D with the AdaMPI AI Model
     url: https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/
     description: Guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
-    entry_type: reference
+    license: Free
+    entry_type: tutorial
+    notes: RELOCATE — 2D-to-3D guide; better under §09 3D Generation.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -423,7 +453,9 @@ entries:
   - name: Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel
     url: https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/
     description: Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel.
-    entry_type: software
+    license: Free
+    entry_type: reference
+    notes: News article, not software.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -434,7 +466,9 @@ entries:
   - name: '(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion'
     url: https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/
     description: '(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion.'
+    license: Free
     entry_type: community
+    notes: RELOCATE — Deforum animation, better under §09 Video Generation.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -445,7 +479,8 @@ entries:
   - name: Snowpixel
     url: https://snowpixel.app
     description: Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
-    entry_type: reference
+    license: Freemium
+    entry_type: software
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -456,7 +491,9 @@ entries:
   - name: Stable Animation SDK
     url: https://stability.ai/blog/stable-animation-sdk
     description: Text-to-animation tool for developers by Stability AI [[dev platform]](https://platform.stability.ai/docs/features/animation)
-    entry_type: reference
+    license: Paid
+    entry_type: software
+    notes: RELOCATE — text-to-animation, belongs under §09 Video Generation.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -467,6 +504,7 @@ entries:
   - name: "Stable Diffusion Frivolous ·\_Because lawsuits based on ignorance deserve a response"
     url: http://www.stablediffusionfrivolous.com/
     description: Community response for the "Stable Diffusion litigation"
+    license: Free
     entry_type: community
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -478,7 +516,9 @@ entries:
   - name: Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube
     url: https://www.youtube.com/@ArtificialSelections
     description: Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube.
+    license: Free
     entry_type: channel
+    notes: RELOCATE — Deforum animation channel, better under §09 Video Generation.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:

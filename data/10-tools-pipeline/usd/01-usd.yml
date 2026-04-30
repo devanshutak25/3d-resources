@@ -16,6 +16,7 @@ entries:
   - name: USD Working Group (ASWF)
     url: https://wiki.aswf.io/display/WGUSD/
     description: Alliance for Open Media USD resources.
+    license: Open Source
     entry_type: reference
     tags:
       tech:
@@ -28,6 +29,7 @@ entries:
   - name: NVIDIA USD Resources
     url: https://developer.nvidia.com/usd
     description: Omniverse, tutorials, tools.
+    license: Free
     entry_type: reference
     tags:
       tech:
@@ -40,6 +42,7 @@ entries:
   - name: Apple USD Tools
     url: https://developer.apple.com/augmented-reality/tools/
     description: Usdz_converter, Reality Composer.
+    license: Free
     entry_type: reference
     tags:
       tech:
@@ -53,6 +56,7 @@ entries:
   - name: USD Survival Guide
     url: https://lucascheller.github.io/VFX-UsdSurvivalGuide/
     description: Practical USD guide for VFX artists.
+    license: Free
     entry_type: reference
     tags:
       tech:
@@ -79,6 +83,7 @@ entries:
   - name: Animal Logic's USD Docker
     url: https://github.com/AnimalLogic/docker-usd
     description: A set of docker build scripts that will download all the Open Source packages required to build Pixar's Universal Scene Description, as well as USD itself
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -89,6 +94,7 @@ entries:
   - name: USD Manager
     url: http://www.usdmanager.org/
     description: Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -98,6 +104,7 @@ entries:
   - name: AL USD Maya
     url: https://github.com/AnimalLogic/AL_USDMaya
     description: Represent Maya data in Maya and USD data in USD.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -108,6 +115,7 @@ entries:
   - name: Luma USD
     url: https://github.com/LumaPictures/luma_usd
     description: Plugins for USD.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -118,6 +126,7 @@ entries:
   - name: USD Shell Extension for Windows
     url: https://github.com/Activision/USDShellExtension
     description: Full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -128,6 +137,7 @@ entries:
   - name: USD Noodle
     url: https://github.com/chris-gardner/usd-noodle
     description: Pretty node graph showing dependencies of a USD file.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -138,6 +148,7 @@ entries:
   - name: USD URI Resolver
     url: https://github.com/LumaPictures/usd-uri-resolver
     description: A generic, URI based resolver for USD, support custom plugins.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -148,6 +159,7 @@ entries:
   - name: UsdQt
     url: https://github.com/LumaPictures/usd-qt
     description: Qt components for building custom USD tools.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
@@ -158,6 +170,7 @@ entries:
   - name: USD Qtpy
     url: https://github.com/BigRoy/usd-qtpy
     description: Python Qt components for building custom USD tools.
+    license: Open Source
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok

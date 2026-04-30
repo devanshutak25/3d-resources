@@ -56,6 +56,7 @@ entries:
   - name: Gradient Horse
     url: https://gradient.horse/
     description: Experimental gradient generator.
+    license: Free
     entry_type: tool
     readme_tags:
       - Experimental
@@ -68,6 +69,7 @@ entries:
   - name: Huemint
     url: https://huemint.com/brand-intersection/
     description: AI-assisted brand color generation.
+    license: Freemium
     entry_type: tool
     tags:
       tech:
@@ -121,6 +123,7 @@ entries:
   - name: ColorBox
     url: https://colorbox.io/
     description: Systematic color scale generator.
+    license: Free
     entry_type: tool
     readme_tags:
       - Scales
@@ -133,6 +136,7 @@ entries:
   - name: Color Method
     url: https://color.method.ac/
     description: Interactive color matching game.
+    license: Free
     entry_type: tool
     readme_tags:
       - Interactive
@@ -160,6 +164,7 @@ entries:
   - name: Fast Palette Studio
     url: https://fastpalette.studio/
     description: Rapid palette creation for pixel art and game dev.
+    license: Free
     entry_type: tool
     tags:
       output:
@@ -174,7 +179,9 @@ entries:
   - name: Swatchr
     url: https://github.com/jknightdoeswork/swatchr
     description: A color palette management system for Unity.
+    license: Open Source
     entry_type: reference
+    notes: Misfit — functionally a Unity plugin/tool; kept as reference per no-relocate rule.
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -182,3 +189,4 @@ entries:
         - reference
       tech:
         - opensource-alt
+        - unity-plugin

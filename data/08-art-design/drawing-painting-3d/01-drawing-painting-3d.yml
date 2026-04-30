@@ -12,6 +12,7 @@ entries:
     tags:
       workflow:
         - concept
+        - reference
   - name: QuickPoses
     url: https://quickposes.com/en
     description: Timed drawing practice with huge photo library.
@@ -25,6 +26,7 @@ entries:
     tags:
       workflow:
         - concept
+        - reference
   - name: SketchDaily Reference
     url: https://www.sketchdaily.net/
     description: Timed drawing sessions across categories.
@@ -38,9 +40,11 @@ entries:
     tags:
       workflow:
         - concept
+        - reference
   - name: Posemaniacs
     url: https://www.posemaniacs.com/
     description: Rotatable 3D pose reference with muscle groups.
+    license: Free
     entry_type: reference
     readme_tags:
       - 3D Poses
@@ -49,7 +53,7 @@ entries:
     url_status: ok
     tags:
       workflow:
-        - concept
+        - reference
   - name: Human Anatomy for Artists
     url: https://human-anatomy-for-artist.com/
     description: Massive free photo reference by body part and angle.
@@ -62,10 +66,11 @@ entries:
     url_status: ok
     tags:
       workflow:
-        - concept
+        - reference
   - name: BodyVisualizer
     url: https://bodyvisualizer.com/
     description: 3D body shape visualizer for proportion reference.
+    license: Free
     entry_type: tool
     readme_tags:
       - Body Proportions
@@ -74,7 +79,7 @@ entries:
     url_status: ok
     tags:
       workflow:
-        - concept
+        - reference
   - name: Ctrl+Paint
     url: https://www.ctrlpaint.com/library
     description: Structured free video library — digital painting fundamentals, value studies, color.
@@ -117,7 +122,9 @@ entries:
   - name: Genetic Drawing
     url: https://github.com/anopara/genetic-drawing
     description: Python library to generate a stylized rendering from an image.
+    license: Open Source
     entry_type: tool
+    notes: 'Misfit: image-to-stylized-render Python lib, not drawing/painting practice for 3D artists. Consider relocating to generative/AI or stylization section.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -125,39 +132,56 @@ entries:
         - concept
       tech:
         - opensource-alt
+        - ai-generative
   - name: Graphite 3D
     url: https://apps.apple.com/us/app/graphite-3d/id1523391511
     description: A collaborative drawing tool for modeling precise shapes in real spaces.
-    entry_type: tutorial
+    license: Paid
+    entry_type: tool
+    notes: 'entry_type corrected from tutorial to tool. Misfit: AR/iOS collaborative shape-modeling app, not 2D drawing/painting for 3D artists.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - concept
+        - modeling
+      platform:
+        - ios
+        - ipad
+      tech:
+        - collaborative
+        - xr
   - name: Gizmos
     url: https://github.com/popcron/gizmos
     description: Used for drawing runtime gizmos in builds and editor (Unity3D).
-    entry_type: reference
+    license: Open Source
+    entry_type: plugin
+    notes: 'entry_type corrected from reference to plugin. Misfit: Unity runtime-gizmo dev plugin, not art/drawing reference. Belongs in a Unity/engine-tools section.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
-      workflow:
-        - concept
       tech:
         - opensource-alt
+        - unity-plugin
   - name: Pixen (site)
     url: https://pixenapp.com/
     description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
-    entry_type: tutorial
+    license: Paid
+    entry_type: software
+    notes: 'entry_type corrected from tutorial to software. Misfit: pixel-art editor app, not painting fundamentals for 3D artists. Consider 2D-art tools section.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
-      workflow:
-        - concept
+      platform:
+        - mac
+        - ios
+      tech:
+        - stylus-support
   - name: Learn HTML5 Graphics and Animation
     url: https://egghead.io/courses/learn-html5-graphics-and-animation
     description: Introduction to the canvas 2D drawing API.
+    license: Freemium
     entry_type: tutorial
+    notes: 'Misfit: canvas 2D API web-dev course, not drawing/painting craft for 3D artists. Belongs in web/dev tutorials.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -166,7 +190,9 @@ entries:
   - name: 'Intro to JS: Drawing & Animation'
     url: https://www.khanacademy.org/computing/computer-programming/programming
     description: Use JavaScript and the ProcessingJS library to create drawings and animations.
+    license: Free
     entry_type: tutorial
+    notes: 'Misfit: JS/ProcessingJS programming course, not art-side drawing for 3D artists. Belongs in coding/creative-coding section.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
@@ -176,17 +202,25 @@ entries:
     url: https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/
     description: Patent drawing of an electronic device that ...
     entry_type: community
+    notes: 'Misfit: single Reddit thread on AI animation, not drawing/painting reference. Description is truncated/low-value. Consider relocating to AI/generative or removing.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - concept
+        - animation
+      tech:
+        - ai-generative
   - name: Instanced Line Rendering Part I
     url: https://wwwtyro.net/2019/11/18/instanced-lines.html
     description: Builds on the foundation from "Drawing Lines is Hard" and uses instance rendering to draw lines.
+    license: Free
     entry_type: tutorial
+    notes: 'Misfit: WebGL instanced line-rendering article, graphics-programming topic, not drawing/painting for 3D artists. Belongs in graphics-programming section.'
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - concept
+        - rendering
+      tech:
+        - gpu
+        - real-time

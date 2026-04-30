@@ -12,3 +12,4 @@ entries:
     tags:
       output:
         - games
+    notes: 'RELOCATE: Steam Playtest is a distribution/playtesting feature, not an analytics tool; consider moving to a playtesting/distribution subsection.'

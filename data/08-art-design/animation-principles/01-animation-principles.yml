@@ -2,6 +2,7 @@ entries:
   - name: The 12 Principles (Illustrated)
     url: https://the12principles.tumblr.com/
     description: GIF breakdowns of each principle.
+    license: Free
     entry_type: reference
     readme_tags:
       - 12 Principles
@@ -14,6 +15,7 @@ entries:
   - name: Animator Island — 51 Exercises
     url: https://www.animatorisland.com/51-great-animation-exercises-to-master/
     description: Structured practice curriculum by difficulty.
+    license: Free
     entry_type: reference
     readme_tags:
       - Practice Curriculum
@@ -26,6 +28,7 @@ entries:
   - name: Endless Reference
     url: https://www.endlessreference.com/
     description: Video clips browsable by action type (walk, run, fight, etc.).
+    license: Free
     entry_type: reference
     readme_tags:
       - Action Reference
@@ -38,6 +41,7 @@ entries:
   - name: Animation Resources
     url: https://animationresources.org/
     description: Archives of classic animation, frame-by-frame studies.
+    license: Free
     entry_type: reference
     readme_tags:
       - Classic Archive
@@ -50,6 +54,7 @@ entries:
   - name: New Frame Plus
     url: https://www.youtube.com/@NewFramePlus
     description: Animation analysis in games (walk cycles, weight, timing).
+    license: Free
     entry_type: channel
     tags:
       output:
@@ -79,6 +84,7 @@ entries:
   - name: Hippydrome
     url: https://www.hippydrome.com/
     description: Richard Williams walk cycle and timing chart reference.
+    license: Free
     entry_type: reference
     readme_tags:
       - Richard Williams

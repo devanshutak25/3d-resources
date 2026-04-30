@@ -27,6 +27,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE candidate; entry_type may be 'tool' (GLSL compiler tool).
     tags:
       workflow:
         - rendering
@@ -38,6 +39,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE candidate; entry_type may be 'plugin' (Unity shader editor).
     tags:
       workflow:
         - rendering
@@ -256,6 +258,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE candidate; entry_type may be 'tool' (shader library).
     tags:
       workflow:
         - rendering
@@ -265,6 +268,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE to §12 software table; entry is a render engine.
     tags:
       workflow:
         - rendering
@@ -274,6 +278,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE candidate; entry_type may be 'plugin' (Gumroad asset/shader pack).
     tags:
       workflow:
         - rendering
@@ -283,6 +288,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE candidate; entry_type should be 'tool' (web shader editor).
     tags:
       workflow:
         - rendering
@@ -369,6 +375,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE to §12 software table; entry is a DCC, not shader theory.
     tags:
       workflow:
         - rendering
@@ -441,6 +448,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE candidate; entry_type may be 'software' (WebGL engine), better fit in §12 or web-tech section.
     tags:
       workflow:
         - rendering
@@ -459,6 +467,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE candidate; entry_type may be 'tool' (graphics API tracer).
     tags:
       workflow:
         - rendering
@@ -468,6 +477,7 @@ entries:
     entry_type: reference
     url_last_verified: '2026-04-19'
     url_status: ok
+    notes: RELOCATE candidate; entry_type should be 'tool' (web shader editor).
     tags:
       workflow:
         - rendering

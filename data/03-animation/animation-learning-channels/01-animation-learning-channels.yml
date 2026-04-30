@@ -3,12 +3,12 @@ entries:
     url: https://www.youtube.com/@schoolofmotion
     description: Motion design education.
     entry_type: channel
+    license: Free
     tags:
       output:
         - motion-graphics
       workflow:
         - animation
-        - rigging
       platform:
         - web
     readme_tags:
@@ -20,6 +20,7 @@ entries:
     url: https://www.youtube.com/@TonikoPantoja
     description: Animation industry and technique.
     entry_type: channel
+    license: Free
     readme_tags:
       - Industry Insight
       - Technique
@@ -28,19 +29,18 @@ entries:
     tags:
       workflow:
         - animation
-        - rigging
       platform:
         - web
   - name: Alex Kunchevsky
     url: https://www.youtube.com/@kunchevsky
     description: Motion design.
     entry_type: channel
+    license: Free
     tags:
       output:
         - motion-graphics
       workflow:
         - animation
-        - rigging
       platform:
         - web
     readme_tags:
@@ -52,6 +52,7 @@ entries:
     url: https://www.youtube.com/@AlanBeckerTutorials
     description: Animation tutorials by stick-figure animator.
     entry_type: channel
+    license: Free
     readme_tags:
       - Beginner Friendly
       - Animation Tutorials
@@ -60,28 +61,32 @@ entries:
     tags:
       workflow:
         - animation
-        - rigging
       platform:
         - web
+      skill:
+        - beginner
   - name: Olof Storm
     url: https://www.youtube.com/@OlofStorm
     description: Animation and motion.
     entry_type: channel
+    license: Free
     readme_tags:
       - Motion
       - Animation
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       workflow:
         - animation
-        - rigging
       platform:
         - web
   - name: Alex Grigg
     url: https://www.youtube.com/@alexgrigganimation
     description: Animation for Anyone series.
     entry_type: channel
+    license: Free
     readme_tags:
       - Approachable
       - Character Anim
@@ -90,298 +95,387 @@ entries:
     tags:
       workflow:
         - animation
-        - rigging
       platform:
         - web
   - name: PiskelApp
     url: http://www.piskelapp.com/
     description: Free Online Pixel Art and Animated Sprite Tool.
-    entry_type: channel
+    entry_type: tool
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — pixel-art sprite tool, not a learning channel.
   - name: SpriteLib
     url: http://www.widgetworx.com/spritelib/
     description: Collection of static and animated graphic objects (also commonly known as sprites).
-    entry_type: channel
+    entry_type: asset-source
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — sprite asset library, not a learning channel.
   - name: CharMorph
     url: https://blenderartists.org/t/charmorph-character-creation-tool-mb-lab-based/1252543
     description: An open source character creation tool for Blender. It's a rewrite of [MB-Lab](https://github.com/animate1978/MB-Lab), which is now unmaintained. [![][repo]](https://github.com/Upliner/CharMorph)
-    entry_type: channel
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
-        - animation
         - rigging
+        - modeling
+      tech:
+        - blender-addon
+        - opensource-alt
+    notes: MISFIT — Blender character-creation plugin, not a learning channel.
   - name: Build an animated app
     url: https://designcode.io/swiftui-rive
     description: Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions.
     entry_type: tutorial
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - ios
+        - web
+    notes: MISFIT — Rive/SwiftUI app dev course, not a 3D animation channel.
   - name: Flutter Web and Rive Animation Tutorial
     url: https://dev.to/suhavi/flutter-web-and-rive-animation-tutorial-5f5k
     description: Beginner to intermediate tutorial for setting up a Flutter web app with Rive animations.
     entry_type: tutorial
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    notes: MISFIT — Flutter/Rive web dev tutorial, not a 3D animation channel.
   - name: Emojiz
     url: https://emojiz.design
     description: 77+ animated 3D emoji illustrations with Blender source files
-    entry_type: channel
+    entry_type: asset-source
+    license: Paid
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      output:
+        - illustration
+      platform:
+        - web
+    notes: MISFIT — animated emoji asset pack, not a learning channel.
   - name: Plant Blog
     url: https://plant-blog-rive.vercel.app/
     description: NextJS blog template with Rive to show animated blog thumbnails and syncing scroll to Rive animations deployed on Vercel. [Code](https://github.com/zplata/plant-blog-rive)
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Rive/NextJS demo, not a learning channel.
   - name: Story Set
     url: https://storyset.com/
     description: Edit and animate customizable illustrations to enhance your projects totally free.
-    entry_type: channel
+    entry_type: asset-source
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      output:
+        - illustration
+      platform:
+        - web
+    notes: MISFIT — illustration/animation asset site, not a learning channel.
   - name: 📺 Make Films 10x Faster in UE ~ Josh Toonen
     url: https://www.youtube.com/@JoshToonen
     description: '[video,animation,post-process,blueprint] - cinematic environments, animated decals.'
     entry_type: channel
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+        - rendering
+      output:
+        - film-vfx
       platform:
         - web
   - name: SwiftUI Animated Login Screen using Rive
     url: https://www.youtube.com/@HarsivoCareerStack
     description: Teddy Bear Animation, create an animated and interactive Login screen.
     entry_type: channel
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
       platform:
         - web
+    notes: MISFIT — SwiftUI/Rive UI tutorial channel, not 3D animation.
   - name: Create animated UI in Unity using Rive and Noesis
     url: https://www.youtube.com/@Rive_app
     description: Tutorial on how to add Rive to your Unity games using Noesis.
     entry_type: channel
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
       platform:
         - web
+    notes: MISFIT — Rive product channel, not a 3D animation learning channel.
   - name: Adding Animation to Buttons in Flutter using Rive
     url: https://www.youtube.com/@anantpro
     description: Simple Animated Menu Toggle Button in Rive
     entry_type: channel
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
       platform:
         - web
+    notes: MISFIT — Flutter/Rive UI tutorial, not 3D animation.
   - name: Retro Slide Puzzle (Winner - Animation/Design)
     url: https://devpost.com/software/retro-slide-puzzle
     description: Retro Slide Puzzle (Winner - Animation/Design).
-    entry_type: reference
+    entry_type: inspiration
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Devpost project showcase, not a learning channel.
   - name: Dash Slide Puzzle (Runner Up - Animation/Design)
     url: https://devpost.com/software/dash-slide-puzzle
     description: Dash Slide Puzzle (Runner Up - Animation/Design).
-    entry_type: reference
+    entry_type: inspiration
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Devpost project showcase, not a learning channel.
   - name: Island Slide Puzzle (Third Place - Animation/Design)
     url: https://devpost.com/software/beautiful-puzzle
     description: Island Slide Puzzle (Third Place - Animation/Design).
-    entry_type: reference
+    entry_type: inspiration
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Devpost project showcase, not a learning channel.
   - name: Sliding Puzzle 3D (Honorable Mention)
     url: https://devpost.com/software/sliding-puzzle-3d
     description: Sliding Puzzle 3D (Honorable Mention).
-    entry_type: reference
+    entry_type: inspiration
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Devpost project showcase, not a learning channel.
   - name: Rive Flutter Animation
     url: https://flutterservice.com/rive-flutter-animation/
     description: Best approach for animation in 2023.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Flutter/Rive article, not 3D animation.
   - name: Wordpress Addon
     url: https://greenshiftwp.com/rive-app-wordpress-addon/
     description: Greenshift animation addon allows you to use and configure Rive files directly in the WordPress editor.
     entry_type: reference
+    license: Freemium
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — WordPress plugin doc, not 3D animation.
   - name: Optimization techniques
     url: https://pixelpoint.io/blog/rive-react-optimizations/
     description: Techniques to optimize Rive animations in React apps.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Rive/React perf article, not 3D animation.
   - name: 'The Principles of Animation: Interactive Edition'
     url: https://plumcatstudio.com/blog/principles-of-animation
     description: '"We''ve had a ton of fun experimenting with an animation of a cat in a washing machine."'
     entry_type: reference
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
   - name: 'The Power of Rive: A New Standard for Interactive Animations'
     url: https://plumcatstudio.com/blog/the-power-of-rive-a-new-standard-for-interactive-animations
     description: '"We''ve been playing around with this awesome interactive animation tool called Rive, and it''s blown us away!".'
     entry_type: reference
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
-  - name: Flutter SVG Animations with Rive (Reso Coder
+      platform:
+        - web
+    notes: MISFIT — Rive marketing article, not 3D animation.
+  - name: Flutter SVG Animations with Rive (Reso Coder)
     url: https://resocoder.com/2021/08/27/flutter-svg-animations-with-rive/
     description: '- Sprinkling some beautiful animations across your app'
     entry_type: reference
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Flutter/Rive SVG article, not 3D animation.
   - name: Riveflow
     url: https://riveflow.webflow.io/
     description: Learn how to create next-level interactive animations for Webflow websites with Rive.
     entry_type: tutorial
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Webflow/Rive tutorial, not 3D animation.
   - name: Create Rive-ting Animations
     url: https://www.viget.com/articles/create-rive-animations/
     description: '"Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."'
     entry_type: reference
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+    notes: MISFIT — Rive marketing article, not 3D animation.
   - name: Animated AI
     url: https://animatedai.github.io/
     description: Animations and instructional videos about neural networks
     entry_type: channel
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      output:
+        - scientific-viz
+      platform:
+        - web
+    notes: MISFIT — neural-net explainers, not 3D animation training.
   - name: Animated Crosshairs UE4
     url: https://github.com/BitReign/AnimatedCrosshairsUE4
     description: Animated Crosshairs for Unreal Engine 4 provides 17 ready to use animated UMG widgets including demo scene to test their combination
-    entry_type: reference
+    entry_type: asset-source
+    license: Open Source
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      output:
+        - games
       tech:
         - opensource-alt
+        - unreal-plugin
+    notes: MISFIT — UE4 UMG widget pack, not a learning channel.
   - name: img2img animation with hands | Reddit
     url: https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/
     description: Img2img animation with hands | Reddit.
     entry_type: community
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
+      platform:
+        - web
+      tech:
+        - ai-generative
+    notes: MISFIT — single Reddit thread on AI img2img, not a channel.
   - name: Flutter Community
     url: https://www.youtube.com/@FlutterCommunity
     description: Demonstrating Rive on the Flutter Community live stream for the 2022 Flutter Puzzle Hack.
     entry_type: channel
+    license: Free
     url_last_verified: '2026-04-19'
     url_status: ok
     tags:
       workflow:
         - animation
-        - rigging
       platform:
         - web
+    notes: MISFIT — Flutter dev community channel, not 3D animation.

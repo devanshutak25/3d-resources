@@ -163,6 +163,7 @@ entries:
   - name: Sculptris
     url: https://sculptris.br.uptodown.com/windows
     description: Original free digital sculpting from Pixologic (predecessor to ZBrush Core).
+    license: Free
     entry_type: software
     best_for: Free introductory sculpting
     tags:
