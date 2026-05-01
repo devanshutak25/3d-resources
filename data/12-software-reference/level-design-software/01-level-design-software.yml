@@ -89,3 +89,45 @@ entries:
         - games
     dual_listed_in:
       - game-development/game-dev-level-design
+  - name: Perilous Shores
+    url: https://watabou.itch.io/perilous-shores
+    description: Fantasy region generator
+    license: Free
+    entry_type: tool
+    best_for: Procedural fantasy region maps
+    tags:
+      output:
+        - games
+    readme_tags:
+      - Procedural
+      - Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+  - name: Village Generator
+    url: https://watabou.itch.io/village-generator
+    description: Randomly generated village maps
+    license: Free
+    entry_type: tool
+    best_for: Procedural village maps
+    tags:
+      output:
+        - games
+    readme_tags:
+      - Procedural
+      - Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+  - name: One Page Dungeon
+    url: https://watabou.itch.io/one-page-dungeon
+    description: One page dungeon generator
+    license: Free
+    entry_type: tool
+    best_for: Procedural one-page dungeons
+    tags:
+      output:
+        - games
+    readme_tags:
+      - Procedural
+      - Free
+    url_last_verified: '2026-05-01'
+    url_status: ok

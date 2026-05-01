@@ -330,3 +330,17 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
+  - name: VNyan
+    url: https://suvidriel.itch.io/vnyan
+    description: Take your 3d VTubing to the next level
+    license: Free
+    entry_type: software
+    best_for: 3D VTubing
+    tags:
+      platform:
+        - win
+    readme_tags:
+      - VTubing
+      - Free
+    url_last_verified: '2026-05-01'
+    url_status: ok

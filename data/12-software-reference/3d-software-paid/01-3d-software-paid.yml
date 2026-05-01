@@ -271,3 +271,21 @@ entries:
       - Huge Marketplace
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Crocotile 3D
+    url: https://prominent.itch.io/crocotile3d
+    description: Use 2d tiles to create 3d models!
+    license: Paid
+    entry_type: software
+    best_for: 2D-tile to 3D modeling
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Pixel/Tile 3D
+      - Indie
+    url_last_verified: '2026-05-01'
+    url_status: ok

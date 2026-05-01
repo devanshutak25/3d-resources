@@ -497,25 +497,49 @@ Icon libraries and animation sets.
 
 Free and paid game-ready asset sources. Cross-listed from §7.
 
+- [2D Pixel Art Character Template Asset Pack](https://zegley.itch.io/2d-platformermetroidvania-asset-pack) — 2D character Art Assets to start your game off the right way. Perfect for sidescrollers, platformers, or metroidvania.
+- [2D Pixel Dungeon Asset Pack](https://pixel-poem.itch.io/dungeon-assetpuck) — 16x16 pixel character and tileset
 - [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) — Set of 420 RPG icons, free for commercial use.
+- [8000+ Raven Fantasy Icons - RPG Icons, Pixel Art Icons, Textures and Sprites](https://clockworkraven.itch.io/raven-fantasy-icons) — 8000+ colorful pixel art icons for your fantasy and RPG game
+- [Ansimuz Legacy Collection](https://ansimuz.itch.io/gothicvania-patreon-collection) — Free 16-bit Pixel-Art Assets
 - [Asset Creation Toolset](https://gumroad.com/l/hPXIh) — Asset Creation Toolset is many tools for game asset creation.
+- [Brackeys' Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) — Make your first game using this small collection of pixel-art characters, tiles, sounds and music.
 - [Craftpix](https://craftpix.net/freebies/) — 2D game assets, free and paid.
+- [Cute Fantasy RPG - 16x16 top down pixel art asset pack](https://kenmi-art.itch.io/cute-fantasy-rpg) — 16x16 assets for your top-down game.
+- [Free - Pixel Art Asset Pack - Topdown Tileset - 16x16 Sprites](https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites) — 500 Sprites, 3 Heroes, 8 enemies, 50 Weapons
 - [Free Game Assets](https://www.freegameassets.com/) — Curated free 2D/3D/audio assets.
+- [Fx Effects Pixel Art #91 - 64x64 | 32x32](https://fx-express.itch.io/fx-effects-pixel-art-91-64x64-32x32) — RPG FX Effects Asset Pack — 64×64 & 32×32
 - [GameArt2D](https://www.gameart2d.com/freebies.html) — Free 2D game art pack collection.
 - [GameDev Market](https://www.gamedevmarket.net/) — Game dev asset marketplace.
 - [Humble Bundle Game Dev](https://www.humblebundle.com/software) — Periodic game dev bundles.
 - [itch.io Assets](https://itch.io/game-assets) — Indie game asset marketplace.
 - [Kay Lousberg](https://kaylousberg.com/) — CC0 low-poly game assets.
+- [KayKit - Character Pack : Adventurers](https://kaylousberg.itch.io/kaykit-adventurers) — 3D lowpoly rigged and animated character model game assets
+- [KayKit - Forest Nature Pack](https://kaylousberg.itch.io/kaykit-forest) — 3D stylised low poly trees, rocks, grass, and more.
 - [Kenney](https://kenney.nl/) — CC0 game assets ("Asset Jesus").
+- [Kenney Game Assets All-in-1](https://kenney.itch.io/kenney-game-assets) — Includes 60,000+ game assets including 2D sprites, 3D models and more!
 - [Liberated Pixel Cup assets](http://lpc.opengameart.org) — Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
+- [Modern Farm - RPG Tileset](https://limezu.itch.io/modernfarm) — Tons of props, animals and a character generator tool
+- [Mystic Woods - 16x16 Pixel Art Asset Pack](https://game-endeavor.itch.io/mystic-woods) — Create the cutest game with this playful asset pack!
 - [NativeBlend CLI](https://github.com/addy999/nativeblend-cli) — AI-powered CLI tool to generate and edit low-poly 3D game assets in Blender from natural language prompts
+- [Ninja Adventure - Asset Pack](https://pixel-boy.itch.io/ninja-adventure-asset-pack) — Assets for topdown game with ninja theme
 - [Open Game Art](https://opengameart.org/) — Community hub for free game art.
 - [Oryx Design Lab](http://oryxdesignlab.com/) — Cheap high-quality royalty-free sprite packs.
+- [Pixel Adventure](https://pixelfrog-assets.itch.io/pixel-adventure-1) — Assets for a fun Platform Adventure
+- [Pixel Art Top Down - Basic](https://cainos.itch.io/pixel-art-top-down-basic) — 32x32 sprites and tilesets for top down games
 - [Pixel Frog](https://pixelfrog-assets.itch.io/) — Pixel art assets.
+- [Pixel Planet Generator](https://deep-fold.itch.io/pixel-planet-generator) — Showcase of shader code for Godot game engine
 - [Reiner's Tilesets](http://www.reinerstilesets.de/) — Free 2D and 3D graphics, classic game assets blog.
+- [Sprout Lands - Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) — cute pixel pastel farming asset pack
+- [Sprout Lands - UI Pack](https://cupnooble.itch.io/sprout-lands-ui-pack) — cute pixel pastel UI pack
+- [Stylized Nature MegaKit](https://quaternius.itch.io/stylized-nature-megakit) — 110+ Unique nature models. Ideal for creating enchanting, Ghibli-inspired scenes. With projects in UE, Godot and Unity.
 - [Synty Studios](https://syntystore.com/) — Stylized low-poly asset packs.
+- [Tech Dungeon: Roguelite - Asset Pack](https://trevor-pupkin.itch.io/tech-dungeon-roguelite) — Animated top-down assets for your futuristic project
 - [Tilemancer](https://led.itch.io/tilemancer) — A quick procedural tile creator designed for pixel-art games.
+- [Tiny Farm RPG - Asset Pack](https://emanuelledev.itch.io/farm-rpg) — Itch.io listing: Tiny Farm RPG - Asset Pack.
+- [Tiny RPG Character Asset Pack v1.03](https://zerie.itch.io/tiny-rpg-character-asset-pack) — 20 Animated Characters for you game.
 - [UAssetAPI](https://github.com/atenfyr/UAssetAPI) — A low-level .NET library for reading and writing Unreal Engine 4 game assets.
+- [Universal Animation Library](https://quaternius.itch.io/universal-animation-library) — More than 120 animations, ready to retarget in any engine
 - [UnluckyStudio](https://unluckystudio.com/category/freegameart/) — Free game art for 2D games.
 
 ---
@@ -3679,6 +3703,7 @@ Professional paid 3D software.
 |---|---|---|---|---|---|
 | [3DCoat](https://3dcoat.com/) | Voxel sculpting, retopology, and UV toolkit. | EUR 299 perpetual | Paid | Voxel Sculpt · Retopo | Voxel sculpting, retopology |
 | [Clo3D](https://www.clo3d.com/) | Fashion-focused garment design and cloth simulation. | Subscription | Paid | Fashion · Garment Sim | Fashion design, cloth simulation |
+| [Crocotile 3D](https://prominent.itch.io/crocotile3d) | Use 2d tiles to create 3d models! |  | Paid | Pixel/Tile 3D · Indie | 2D-tile to 3D modeling |
 | [Daz 3D](https://www.daz3d.com/) | Character-focused 3D software w/ large marketplace of figures and morphs. Free core app. |  | Paid | Characters · Huge Marketplace | Character-centric scenes |
 | [Marvelous Designer](https://www.marvelousdesigner.com/) | Cloth simulation and garment design software. | Subscription | Paid | Garment Sim · Cloth | Cloth simulation, garment design |
 | [Maya](https://www.autodesk.com/products/maya/) | Film-industry animation and VFX DCC. | $255/mo (Indie $330/yr) | Paid | Industry Standard · Film Animation | Film VFX, CG animation |
@@ -3720,12 +3745,14 @@ Digital painting, illustration, 2D animation.
 | [Autograph](https://www.maxon.net/en/autograph) | USD-based motion graphics, compositing, and VFX (After Effects alternative). Free for individuals incl. commercial use. Originally Left Angle, now Maxon. |  | Free | USD · Free Commercial | 2D/3D motion design and compositing |
 | [Cavalry](https://cavalry.scenegroup.co/) | Procedural 2D motion design (After Effects alternative). Free tier available. |  | Freemium | Procedural · Data-Driven | Data-driven motion graphics |
 | [Clip Studio Paint](https://www.clipstudio.net/) | Industry-standard illustration and comics with animation timeline. |  | Paid | Manga · Frame-by-Frame | Manga, illustration, frame-by-frame animation |
+| [Clipnote Studio](https://calcium-chan.itch.io/clipnote) | Simple animation software! |  | Free | 2D Anim · Free | Frame-by-frame 2D animation |
 | [DragonBones](http://dragonbones.effecthub.com) | Open source 2D skeletal animation — Flash-origin workflow, runtimes for multiple engines. |  | Open Source | Open Source · 2D Skeletal | 2D skeletal animation (OSS) |
 | [Friction](https://friction.graphics/) | Free open-source motion graphics and 2D vector animation. After Effects-style workflow. |  | Open Source | Open Source · AE-alt | Open-source motion graphics |
 | [GraphicsGale](https://graphicsgale.com/us/) | Pixel art and sprite animation tool (free). |  | Free | Pixel Art · Free | Pixel art/sprite animation |
 | [Krita](https://krita.org/) | Free open-source digital painting. Brush engine, animation, HDR. |  | Open Source | Digital Painting · Animation | Digital painting, concept art, 2D animation |
 | [LibreSprite](https://libresprite.github.io/) | LibreSprite is an open source fork of Aseprite. |  | Open Source |  |  |
 | [Lightcube](https://www.lightcube.art/) | Pixel art editor for Windows w/ PSD, JPEG, PNG, BMP, GIF support. |  | Paid | Windows · PSD Support | Windows pixel art w/ PSD |
+| [Memao Sprite Sheet Creator](https://sleeping-robot-games.itch.io/sprite-sheet-creator) | Build your own pixel characters using ready-made art. Customize and export in seconds for any project. |  | Paid | Pixel Art · Sprites | Pixel character sprite sheets |
 | [Moho (Smith Micro)](https://moho.lostmarble.com/) | 2D vector and bone-rigged animation. |  | Paid | Bone Rigging · Vector Animation | Character animation, motion graphics |
 | [OpenToonz](https://opentoonz.github.io/e/) | Studio Ghibli's animation engine, open-sourced. |  | Open Source | Ghibli Pipeline · Traditional 2D | Traditional 2D animation |
 | [Pencil2D](https://www.pencil2d.org/) | Free lightweight 2D animation. |  | Open Source | Lightweight · Hand-drawn | Simple hand-drawn animation |
@@ -4113,6 +4140,11 @@ Standalone level editors and tile/grid map authoring tools.
 | [Tiled](https://www.mapeditor.org/) | General-purpose tilemap editor. TMX format. | Open Source | Tilemap Editor · TMX | Tilemap editing |
 | [TrenchBroom](https://trenchbroom.github.io/) | Quake-style level editor, great for blockouts. | Open Source | Blockouts · Quake-style | Blockouts, Quake-style levels |
 
+**Related:**
+- [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) — One page dungeon generator
+- [Perilous Shores](https://watabou.itch.io/perilous-shores) — Fantasy region generator
+- [Village Generator](https://watabou.itch.io/village-generator) — Randomly generated village maps
+
 ### Pipeline & Production Management Software
 
 Production tracking, render farm management, asset pipeline orchestration.
@@ -4174,6 +4206,7 @@ Reference, scattering, simulation, and specialty 3D utilities.
 | [ShareX](https://getsharex.com/) | Free Windows screen capture with recording and annotation. |  | Open Source | Screen Capture · Windows | Screen capture, annotation |
 | [Storm HydroFX](https://storm-vfx.com/) | Fluid simulation. |  | Paid | Fluids · FX | Fluid simulation |
 | [tlRender](https://github.com/darbyjohnston/tlRender) | Timeline render, is an early stage project for rendering editorial timelines. |  | Open Source | Timeline · Editorial |  |
+| [VNyan](https://suvidriel.itch.io/vnyan) | Take your 3d VTubing to the next level |  | Free | VTubing · Free | 3D VTubing |
 
 ### AI Image & Texture Generation Software
 
@@ -4210,6 +4243,9 @@ AI image generation and AI texture/material generation tools.
 | [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk) | Text-to-animation tool for developers by Stability AI [[dev platform]](https://platform.stability.ai/docs/features/animation) | Paid |  |  |
 | [Stable Diffusion 3.5](https://huggingface.co/stabilityai) | Open-source diffusion (Large, Medium, Turbo sizes). | Open Source | Open Source · Self-Host | Self-hosted image gen |
 | [UneeQ Digital Humans](https://www.digitalhumans.com/) | 3D character lib synced | Paid |  |  |
+
+**Related:**
+- [SLK_img2pixel](https://captain4lk.itch.io/slk-img2pixel) — Convert images/textures to pixel art
 
 ### AI Video Generation Software
 

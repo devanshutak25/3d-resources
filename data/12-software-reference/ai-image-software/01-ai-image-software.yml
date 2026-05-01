@@ -527,3 +527,20 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
+  - name: SLK_img2pixel
+    url: https://captain4lk.itch.io/slk-img2pixel
+    description: Convert images/textures to pixel art
+    license: Free
+    entry_type: tool
+    best_for: Image-to-pixel-art conversion
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Pixel Art
+      - Free
+    url_last_verified: '2026-05-01'
+    url_status: ok

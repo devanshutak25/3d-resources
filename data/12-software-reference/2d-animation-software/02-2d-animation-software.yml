@@ -1,0 +1,33 @@
+entries:
+  - name: Memao Sprite Sheet Creator
+    url: https://sleeping-robot-games.itch.io/sprite-sheet-creator
+    description: Build your own pixel characters using ready-made art. Customize and export in seconds for any project.
+    license: Paid
+    entry_type: software
+    best_for: Pixel character sprite sheets
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Pixel Art
+      - Sprites
+    url_last_verified: '2026-05-01'
+    url_status: ok
+  - name: Clipnote Studio
+    url: https://calcium-chan.itch.io/clipnote
+    description: Simple animation software!
+    license: Free
+    entry_type: software
+    best_for: Frame-by-frame 2D animation
+    tags:
+      platform:
+        - win
+    readme_tags:
+      - 2D Anim
+      - Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
