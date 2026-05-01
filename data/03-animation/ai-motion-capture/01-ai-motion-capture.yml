@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - High Accuracy
       - Multi-Camera
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Rokoko Vision
     url: https://www.rokoko.com/
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Free Tier
       - Webcam/Video
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: DeepMotion
     url: https://www.deepmotion.com/
@@ -49,7 +49,7 @@ entries:
     readme_tags:
       - Game-Ready
       - BVH/FBX
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Plask
     url: https://plask.ai/
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Browser
       - Hand Tracking
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Cascadeur
     url: https://cascadeur.com/
@@ -87,7 +87,7 @@ entries:
     readme_tags:
       - Physics-based
       - AutoPosing
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Live Link Face (Apple)
     url: https://apps.apple.com/app/live-link-face/id1495370836
@@ -106,7 +106,7 @@ entries:
     readme_tags:
       - Free
       - iPhone Face Capture
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Viggle AI
     url: https://viggle.ai/
@@ -123,7 +123,7 @@ entries:
     readme_tags:
       - Video→Animation
       - AI
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: AnimateDiff + ControlNet
     url: https://github.com/guoyww/AnimateDiff
@@ -140,7 +140,7 @@ entries:
     readme_tags:
       - Open Source
       - Pose-controlled
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Free Mo Cap
     url: https://freemocap.org/
@@ -157,5 +157,5 @@ entries:
     readme_tags:
       - Open Source
       - Mocap
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

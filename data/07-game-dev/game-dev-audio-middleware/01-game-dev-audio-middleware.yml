@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Indie-Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Wwise
     url: https://www.audiokinetic.com/en/wwise/overview/
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - AAA
       - Free Tier
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Steam Audio
     url: https://valvesoftware.github.io/steam-audio/
@@ -47,14 +47,14 @@ entries:
     readme_tags:
       - Spatial Audio
       - Valve Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Wwise Unreal Plug-in
     url: https://www.audiokinetic.com/library/edge/?source=UE4&id=index.html
     description: Plugin for integrating Wwise assets for realtime playback in-engine.
     license: Freemium
     entry_type: plugin
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:

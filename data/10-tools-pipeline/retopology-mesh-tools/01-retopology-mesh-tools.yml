@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Free
       - Auto Retopo
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: RetopoFlow
     url: https://blendermarket.com/products/retopoflow
@@ -28,7 +28,7 @@ entries:
     readme_tags:
       - Blender
       - Manual Retopo
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Topogun
     url: https://www.topogun.com/
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Retopo + Bake
       - Classic
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Topology Guides
     url: http://topologyguides.com/
@@ -52,7 +52,7 @@ entries:
     entry_type: reference
     readme_tags:
       - Topology
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -65,7 +65,7 @@ entries:
     readme_tags:
       - Blender
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -80,7 +80,7 @@ entries:
     readme_tags:
       - Blender
       - Retopo
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -95,7 +95,7 @@ entries:
     readme_tags:
       - Blender
       - Auto Retopo
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - YouTube
       - Tutorial
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -127,7 +127,7 @@ entries:
     readme_tags:
       - Free
       - Auto Retopo
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

@@ -10,7 +10,7 @@ entries:
     readme_tags:
       - Community
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Kenney
     url: https://kenney.nl/
@@ -25,7 +25,7 @@ entries:
     readme_tags:
       - CC0
       - Beloved
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: itch.io Assets
     url: https://itch.io/game-assets
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - Indie
       - Mixed Free/Paid
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Kay Lousberg
     url: https://kaylousberg.com/
@@ -53,7 +53,7 @@ entries:
     readme_tags:
       - CC0
       - Low-Poly
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Pixel Frog
     url: https://pixelfrog-assets.itch.io/
@@ -66,7 +66,7 @@ entries:
     readme_tags:
       - Pixel Art
       - High-Quality
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Craftpix
     url: https://craftpix.net/freebies/
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - 2D Assets
       - Freemium
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Synty Studios
     url: https://syntystore.com/
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Stylized
       - Low-Poly
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: GameDev Market
     url: https://www.gamedevmarket.net/
@@ -105,7 +105,7 @@ entries:
     readme_tags:
       - Marketplace
       - Varied
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Humble Bundle Game Dev
     url: https://www.humblebundle.com/software
@@ -115,7 +115,7 @@ entries:
     readme_tags:
       - Bundles
       - Periodic Deals
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -131,14 +131,14 @@ entries:
     readme_tags:
       - Curated
       - 2D/3D/Audio
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: NativeBlend CLI
     url: https://github.com/addy999/nativeblend-cli
     description: AI-powered CLI tool to generate and edit low-poly 3D game assets in Blender from natural language prompts
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -151,7 +151,7 @@ entries:
     description: Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -161,7 +161,7 @@ entries:
     description: A quick procedural tile creator designed for pixel-art games.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -179,7 +179,7 @@ entries:
     readme_tags:
       - Free
       - 2D
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Oryx Design Lab
     url: http://oryxdesignlab.com/
@@ -192,7 +192,7 @@ entries:
     readme_tags:
       - Cheap
       - Royalty-Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: UnluckyStudio
     url: https://unluckystudio.com/category/freegameart/
@@ -205,7 +205,7 @@ entries:
     readme_tags:
       - Free
       - 2D
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Reiner's Tilesets
     url: http://www.reinerstilesets.de/
@@ -218,7 +218,7 @@ entries:
     readme_tags:
       - Classic
       - 2D + 3D
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: 420 Pixel Art Icons for RPGs
     url: http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453
@@ -231,13 +231,13 @@ entries:
     readme_tags:
       - RPG Icons
       - Commercial-OK
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Asset Creation Toolset
     url: https://gumroad.com/l/hPXIh
     description: Asset Creation Toolset is many tools for game asset creation.
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -247,7 +247,7 @@ entries:
     description: A low-level .NET library for reading and writing Unreal Engine 4 game assets.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:

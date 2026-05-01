@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Classic
       - Donut Man
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - Beginner
       - Approachable
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Ian Hubert
     url: https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA
@@ -39,7 +39,7 @@ entries:
     readme_tags:
       - Cinematic Shorts
       - Lazy Tuts
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -54,7 +54,7 @@ entries:
     readme_tags:
       - Stylized
       - Shaders
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - Blender
       - Tutorials
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - Game Art
       - Blender
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Blender Official
     url: https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Official
       - Foundation
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -116,7 +116,7 @@ entries:
     readme_tags:
       - Technical
       - Tips
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -138,8 +138,9 @@ entries:
     readme_tags:
       - Hard Surface
       - Modeling
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: broken
+    deprecated: true
   - name: GraphicLine Games
     url: https://www.youtube.com/@graphiclinegames4843
     description: Stylized shader and asset tutorials (Ghibli Shader Texture Generator).
@@ -148,7 +149,7 @@ entries:
     readme_tags:
       - Stylized
       - Shaders
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -163,7 +164,7 @@ entries:
     readme_tags:
       - Cel Shader
       - Materials
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -178,7 +179,7 @@ entries:
     readme_tags:
       - Speed Tuts
       - Tech Art
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -193,7 +194,7 @@ entries:
     readme_tags:
       - Beginner
       - Courses
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       skill:
@@ -210,7 +211,7 @@ entries:
     readme_tags:
       - Scripting
       - Python
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -225,7 +226,7 @@ entries:
     readme_tags:
       - Geo Nodes
       - Beginner
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       skill:
@@ -243,7 +244,7 @@ entries:
     readme_tags:
       - Procedural
       - Geo Nodes
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -260,7 +261,7 @@ entries:
     readme_tags:
       - Scripting
       - Python
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:

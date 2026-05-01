@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Film Guides
       - Encyclopedia
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Technique Articles
       - Ongoing
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - Gold Standard
       - Video Essays
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - Deep Analysis
       - Film
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - Fundamentals
       - Color Science
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -78,7 +78,7 @@ entries:
     readme_tags:
       - Practical
       - Narrative
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - DP Blog
       - ASC
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -108,7 +108,7 @@ entries:
     readme_tags:
       - Roger Deakins
       - Lighting
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -124,7 +124,7 @@ entries:
     readme_tags:
       - Cinematic Lighting
       - Technique
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -137,7 +137,7 @@ entries:
     entry_type: reference
     license: Freemium
     notes: Misfit — this is compositing software (entry_type should be 'software', workflow 'compositing'), and belongs in software/compositing section, not cinematography-camera.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -148,7 +148,7 @@ entries:
     entry_type: reference
     license: Free
     notes: Misfit — compositing software (entry_type should be 'software', workflow 'compositing'); belongs in software/compositing section, not cinematography-camera.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

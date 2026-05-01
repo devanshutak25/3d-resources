@@ -4,7 +4,7 @@ entries:
     description: Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -19,7 +19,7 @@ entries:
     description: Unity network texture sender and receiver for video and frame streaming.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -34,7 +34,7 @@ entries:
     description: Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -49,7 +49,7 @@ entries:
     description: Crop and resize texture in Unity editor!
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -64,7 +64,7 @@ entries:
     description: Generates preview textures for sprites, icons of Unity models.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -79,7 +79,7 @@ entries:
     description: This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -94,7 +94,7 @@ entries:
     description: Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -109,7 +109,7 @@ entries:
     description: Utility to combine color channels from different textures into a single output.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -124,7 +124,7 @@ entries:
     description: Provide a texture to simulate waves with Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -139,7 +139,7 @@ entries:
     description: Bake Legacy Animations into Textures. Targeting ECS. (#ANIMATION)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -154,7 +154,7 @@ entries:
     description: Generate Unity Texture2D from AudioClip. (#AUDIO)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -169,7 +169,7 @@ entries:
     description: Preview your UV islands in inspector window for your textures.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -184,7 +184,7 @@ entries:
     description: This addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating Blender materials from Poliigon texture sets.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: blender-plugins'
     tags:
@@ -198,7 +198,7 @@ entries:
     description: Fast, reliable, and simple tool for viewing PBR texture sets.
     entry_type: software
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: software'
     tags:
@@ -210,7 +210,7 @@ entries:
     description: AMD launched a free MaterialX-based Material Library. It allows users to download the materials and encourages them to upload their own.
     entry_type: asset-source
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -223,7 +223,7 @@ entries:
     description: Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: textures-specialized'
     tags:
@@ -237,7 +237,7 @@ entries:
     description: Tool designed to make procedural texture generation.
     entry_type: software
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: software'
     tags:
@@ -249,7 +249,7 @@ entries:
     description: Daz Content, 3D models, textures and materials.
     entry_type: marketplace
     license: Freemium
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: asset-marketplaces'
     tags:
@@ -261,7 +261,7 @@ entries:
     description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: textures-specialized'
     tags:
@@ -273,7 +273,7 @@ entries:
     description: NASA Scientific Visualization Studio CGI Moon Kit providing high-resolution moon textures and elevation data for rendering and visualization.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: textures-specialized'
     tags:
@@ -285,7 +285,7 @@ entries:
     description: Public domain photographic textures, reference images, cutouts. (CC0)
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -298,7 +298,7 @@ entries:
     description: Free PBR texture sets of common architectural materials, including some nice tile textures.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -311,7 +311,7 @@ entries:
     description: Command powerful tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
     entry_type: software
     license: Freemium
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: software'
     tags:
@@ -323,7 +323,7 @@ entries:
     description: Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: tools'
     tags:
@@ -335,7 +335,7 @@ entries:
     description: Digital textures for 3D rendering and real-time use.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -348,7 +348,7 @@ entries:
     description: How to use a blendmap to multitexture a terrain.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: tutorials'
     tags:
@@ -360,7 +360,7 @@ entries:
     description: Introduction to custom shaders, uniforms, textures and lighting in three.js.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: tutorials'
     tags:
@@ -372,7 +372,7 @@ entries:
     description: Baatz et al., EGSR 2021 | [bibtex](./citations/nerf-tex.txt)
     entry_type: reference
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: reference'
     tags:
@@ -384,7 +384,7 @@ entries:
     description: This package enables interactive previews of Texture3D assets in Unity's Inspector window.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unity-plugins'
     tags:
@@ -399,7 +399,7 @@ entries:
     description: Texture baking UI for Blender that lives in the 3D Viewport. Small but powerful! Fast one-click baking and iteration.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: blender-plugins'
     tags:
@@ -414,7 +414,7 @@ entries:
     description: Create PBR node setup with one click.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: blender-plugins'
     tags:
@@ -429,7 +429,7 @@ entries:
     description: Bake PBR textures with a few clicks.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: blender-plugins'
     tags:
@@ -444,7 +444,7 @@ entries:
     description: A addon to manage texture layers for EEVEE and Cycles renderer.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: blender-plugins'
     tags:
@@ -459,7 +459,7 @@ entries:
     description: Generate normal, height, specular or ambient occlusion textures from a single image.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: software'
     tags:
@@ -473,7 +473,7 @@ entries:
     description: Simple way to use texture atlases for Unreal Engine 4 UMG
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: unreal-plugins'
     tags:
@@ -488,7 +488,7 @@ entries:
     description: Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
     entry_type: tool
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: tools'
     tags:
@@ -500,7 +500,7 @@ entries:
     description: Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: tools'
     tags:
@@ -523,3 +523,5 @@ entries:
         - pbr
       platform:
         - web
+    url_last_verified: '2026-05-01'
+    url_status: ok

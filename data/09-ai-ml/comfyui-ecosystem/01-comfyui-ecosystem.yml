@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Node-based
       - Multi-modal
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Comfy UI Manager
     url: https://github.com/Comfy-Org/ComfyUI-Manager
@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Custom Nodes
       - Mgmt
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Workflow Share
       - Community
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - Curated
       - Awesome List
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - Tutorials
       - Workflows
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -77,7 +77,7 @@ entries:
     readme_tags:
       - ControlNet
       - Commercial-OK
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:

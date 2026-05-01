@@ -11,7 +11,7 @@ entries:
     readme_tags:
       - HDR Lighting
       - Interactive
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: VFX Camera Database
     url: https://vfxcamdb.com/
@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Sensor Data
       - Reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -32,11 +32,12 @@ entries:
     readme_tags:
       - MIT Research
       - Magnification
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: broken
     tags:
       platform:
         - web
+    deprecated: true
   - name: Massive Software
     url: https://www.massivesoftware.com/massiveprime.html
     description: Crowd simulation.
@@ -49,7 +50,7 @@ entries:
     readme_tags:
       - Crowds
       - Pro
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Storm HydroFX
     url: https://storm-vfx.com/
@@ -64,7 +65,7 @@ entries:
     readme_tags:
       - Fluids
       - FX
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Graphtoy
     url: https://iquilezles.org/apps/graphtoy/
@@ -74,7 +75,7 @@ entries:
     readme_tags:
       - Math Grapher
       - iq
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -89,7 +90,7 @@ entries:
     readme_tags:
       - Displacement
       - Procedural
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Math for Motion
     url: https://soulwire.co.uk/math-for-motion/
@@ -101,7 +102,7 @@ entries:
     readme_tags:
       - Math
       - Interactive
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: City Roads
     url: https://github.com/anvaka/city-roads
@@ -111,7 +112,7 @@ entries:
     readme_tags:
       - City Maps
       - Vector
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -129,7 +130,7 @@ entries:
     readme_tags:
       - Industry Standard
       - PWYW
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Blockbench
     url: https://www.blockbench.net/
@@ -143,7 +144,7 @@ entries:
     readme_tags:
       - Low-poly
       - Voxel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: MeshLab
     url: https://www.meshlab.net/
@@ -158,7 +159,7 @@ entries:
     readme_tags:
       - Mesh Processing
       - Photogrammetry
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Photopea
     url: https://www.photopea.com/
@@ -172,7 +173,7 @@ entries:
     readme_tags:
       - PSD
       - Browser
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Gaea
     url: https://quadspinner.com/
@@ -186,7 +187,7 @@ entries:
     readme_tags:
       - Terrain Gen
       - Free Community
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Plasticity (site)
     url: https://www.plasticity.xyz/
@@ -200,7 +201,7 @@ entries:
     readme_tags:
       - CAD-style
       - Artist UX
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Dust3D
     url: https://dust3d.org/
@@ -216,7 +217,7 @@ entries:
     readme_tags:
       - Base Meshes
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: darktable
     url: https://www.darktable.org/
@@ -227,7 +228,7 @@ entries:
     readme_tags:
       - RAW Editor
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -243,7 +244,7 @@ entries:
     readme_tags:
       - Sun Position
       - Golden Hour
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: OBS Studio
     url: https://obsproject.com/
@@ -254,7 +255,7 @@ entries:
     readme_tags:
       - Recording
       - Streaming
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -273,7 +274,7 @@ entries:
     readme_tags:
       - Screen Capture
       - Windows
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Hesiod
     url: https://github.com/otto-link/Hesiod
@@ -289,7 +290,7 @@ entries:
     readme_tags:
       - Terrain Gen
       - Node-based
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: IFS Renderer
     url: https://ifsrenderer.z97.io/
@@ -305,7 +306,7 @@ entries:
     readme_tags:
       - Fractals
       - HDR/EXR
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Texture Extractor
     url: https://berlinnights.itch.io/texture-extractor
@@ -317,7 +318,7 @@ entries:
     readme_tags:
       - Pre-1.0
       - Photo→Texture
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Sprite Stacker
     url: https://berlinnights.itch.io/sprite-stacker
@@ -329,7 +330,7 @@ entries:
     readme_tags:
       - Sprite Stacks
       - Pre-1.0
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Sorcar
     url: https://aachman98.itch.io/sorcar
@@ -345,7 +346,7 @@ entries:
     readme_tags:
       - Blender
       - Procedural
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Gl Ch Ao S.P
     url: https://github.com/BrutPitt/glChAoS.P
@@ -360,7 +361,7 @@ entries:
     readme_tags:
       - Strange Attractors
       - GPU
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Mandelbulb3D (thargor6 fork)
     url: https://github.com/thargor6/mb3d
@@ -375,7 +376,7 @@ entries:
     readme_tags:
       - Fractals
       - Windows
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Penzil
     url: https://github.com/jacopocolo/Penzil
@@ -390,7 +391,7 @@ entries:
     readme_tags:
       - 3D Sketch
       - Web
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Pixie
     url: https://github.com/blkdev2/pixie?tab=readme-ov-file
@@ -405,7 +406,7 @@ entries:
     readme_tags:
       - RenderMan-like
       - Renderer
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: tlRender
     url: https://github.com/darbyjohnston/tlRender
@@ -420,7 +421,7 @@ entries:
     readme_tags:
       - Timeline
       - Editorial
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Palladio
     url: https://github.com/Esri/palladio
@@ -434,5 +435,5 @@ entries:
     readme_tags:
       - Houdini
       - CityEngine
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

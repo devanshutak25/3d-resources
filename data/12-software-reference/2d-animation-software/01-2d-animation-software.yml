@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Digital Painting
       - Animation
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Clip Studio Paint
     url: https://www.clipstudio.net/
@@ -47,7 +47,7 @@ entries:
     readme_tags:
       - Manga
       - Frame-by-Frame
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Procreate
     url: https://procreate.com/
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - iPad-native
       - Storyboarding
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Aseprite
     url: https://www.aseprite.org/
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Sprite Animation
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Toon Boom Harmony
     url: https://www.toonboom.com/products/harmony
@@ -118,7 +118,7 @@ entries:
     readme_tags:
       - Studio Standard
       - TV Animation
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Toon Boom Storyboard Pro
     url: https://www.toonboom.com/products/storyboard-pro
@@ -139,7 +139,7 @@ entries:
     readme_tags:
       - Storyboarding
       - Animatics
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Pixel Composer (itch.io)
     url: https://makham.itch.io/pixel-composer
@@ -161,7 +161,7 @@ entries:
     readme_tags:
       - Node-based
       - Pixel VFX
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: OpenToonz
     url: https://opentoonz.github.io/e/
@@ -185,7 +185,7 @@ entries:
     readme_tags:
       - Ghibli Pipeline
       - Traditional 2D
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Pencil2D
     url: https://www.pencil2d.org/
@@ -211,7 +211,7 @@ entries:
     readme_tags:
       - Lightweight
       - Hand-drawn
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Synfig Studio
     url: https://www.synfig.org/
@@ -236,7 +236,7 @@ entries:
     readme_tags:
       - Vector
       - Cutout
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Rive
     url: https://rive.app/
@@ -261,7 +261,7 @@ entries:
     readme_tags:
       - Interactive
       - UI Animation
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Autograph
     url: https://www.maxon.net/en/autograph
@@ -286,7 +286,7 @@ entries:
     readme_tags:
       - USD
       - Free Commercial
-    url_last_verified: '2026-04-20'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Cavalry
     url: https://cavalry.scenegroup.co/
@@ -309,7 +309,7 @@ entries:
     readme_tags:
       - Procedural
       - Data-Driven
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Spine (Esoteric Software)
     url: https://esotericsoftware.com/
@@ -331,13 +331,13 @@ entries:
     readme_tags:
       - Skeletal
       - Game Runtimes
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Krita Resources
     url: https://krita.org/en/resources/
     description: Official brushes, textures, templates.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -346,7 +346,7 @@ entries:
     url: https://assets.clip-studio.com/en-us/
     description: Brushes, materials, 3D models, auto-actions.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -355,7 +355,7 @@ entries:
     url: https://procreate.com/handbook
     description: Official guide and brush library.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -364,7 +364,7 @@ entries:
     url: https://www.toonboom.com/community/learn
     description: Official tutorials and documentation.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -373,7 +373,7 @@ entries:
     url: https://www.aseprite.org/docs/
     description: Official documentation and scripting API.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -382,7 +382,7 @@ entries:
     url: https://github.com/opentoonz/opentoonz
     description: Source, plugins, and documentation.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -411,7 +411,7 @@ entries:
     readme_tags:
       - OpenToonz Fork
       - Stop Motion
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: DragonBones
     url: http://dragonbones.effecthub.com
@@ -429,7 +429,7 @@ entries:
     readme_tags:
       - Open Source
       - 2D Skeletal
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Spriter Pro
     url: https://brashmonkey.com/download-spriter-pro/
@@ -449,7 +449,7 @@ entries:
     readme_tags:
       - Sprite Animation
       - Paid
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: GraphicsGale
     url: https://graphicsgale.com/us/
@@ -468,7 +468,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Moho (Smith Micro)
     url: https://moho.lostmarble.com/
@@ -489,7 +489,7 @@ entries:
     readme_tags:
       - Bone Rigging
       - Vector Animation
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Friction
     url: https://friction.graphics/
@@ -512,7 +512,7 @@ entries:
     readme_tags:
       - Open Source
       - AE-alt
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: REXPaint
     url: https://www.gridsagegames.com/rexpaint/
@@ -531,5 +531,5 @@ entries:
     readme_tags:
       - ASCII Art
       - Roguelike
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok

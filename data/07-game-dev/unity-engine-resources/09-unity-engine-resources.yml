@@ -4,7 +4,7 @@ entries:
     description: Shortcut utility for Unity. (#SHORTCUTS)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -20,7 +20,7 @@ entries:
     description: Search Tools In Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -36,7 +36,7 @@ entries:
     description: A code focused strongly typed event system with global system and per GameObject system.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -52,7 +52,7 @@ entries:
     description: An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -68,7 +68,7 @@ entries:
     description: Unity Editor Extensions and Tools by Napland Games.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -84,7 +84,7 @@ entries:
     description: Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -100,7 +100,7 @@ entries:
     description: A Unity editor extension for finding missing object references.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -116,7 +116,7 @@ entries:
     description: Unity editor extension which tracks compile time.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -132,7 +132,7 @@ entries:
     description: An automation tool for Unity3D.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -148,7 +148,7 @@ entries:
     description: Editor scripts to make working with the Unity Editor better
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -164,7 +164,7 @@ entries:
     description: Collection of different editor things that help with productivity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -180,7 +180,7 @@ entries:
     description: An organized bunch of scripts to make editor scripting in Unity easier.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -196,7 +196,7 @@ entries:
     description: Perform a raycast against one or more meshes.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -212,7 +212,7 @@ entries:
     description: A Unity3D asset bundle framework with LGPL license.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -228,7 +228,7 @@ entries:
     description: A set of Editor tools to audit project assets and correct errors. ![Official](UnityResource16x16.png)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -239,13 +239,12 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
-  # MISFIT: 3D scan asset pack, not a Unity plugin. Belongs in asset-source section.
   - name: ThreeDScans
     url: https://github.com/keijiro/ThreeDScans
     description: Scanned statue models from the Three D Scans project, optimized for real-time rendering use.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -254,13 +253,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: tip collection / repo, not a plugin
   - name: 50 Unity Tips
     url: https://github.com/defuncart/50-unity-tips
     description: A collection of 50 tips for Unity (focusing on Mobile) ranging from editor tools to serialization to UI shortcuts.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -269,13 +267,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: book/code companion, not a plugin
   - name: UnityGraphicsProgramming Vol.2
     url: https://github.com/IndieVisualLab/UnityGraphicsProgramming2
     description: Unity Graphics Programming vol.2
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -284,13 +281,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: demo project, not a plugin
   - name: Unity Character Customization
     url: https://github.com/eriseven/UnityCharacterCustomization
     description: A character customization demo for Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -299,13 +295,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: book companion code, belongs in tutorials
   - name: Complete Unity 2018 Game Development
     url: https://github.com/PacktPublishing/Complete-Unity-2018-Game-Development
     description: Explore techniques to build 2D/3D applications using real-world examples.
     entry_type: tutorial
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -314,13 +309,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: ECS demo project, not a plugin
   - name: Simple ECS
     url: https://github.com/AkanshDivker/Simple-ECS
     description: An example using the core features of the Entity Component System (ECS) for Unity, inspired by Roll-a-ball.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -329,13 +323,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: best practices doc repo
   - name: Unity Good Practices
     url: https://github.com/futurice/unity-good-practices
     description: Github repository with Unity best practices.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -344,13 +337,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: talk repo, not a plugin
   - name: UniteBerlin
     url: https://github.com/VoxelBoy/UniteBerlin
     description: 'Repository for my Unite Berlin talk - Become a Speed Demon: Being faster at everything you do in Unity.'
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -359,13 +351,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: example project from Unity Tech
   - name: AngryBots2
     url: https://github.com/UnityTechnologies/AngryBots2
     description: An example Unity Project, developed by Unity Technologies, used to demonstrate several features.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -374,13 +365,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: full game project, not a plugin
   - name: Hogwarts
     url: https://github.com/OpenHogwarts/hogwarts
     description: Hogwarts (Harry Potter) open sandbox game made in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -389,13 +379,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: full game project
   - name: Unitystation
     url: https://github.com/unitystation/unitystation
     description: Remake of the simulator Space Station 13.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -404,13 +393,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: full game port project
   - name: San Andreas Unity
     url: https://github.com/GTA-ASM/SanAndreasUnity
     description: 'We''re porting GTA: San Andreas to Unity!'
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -419,13 +407,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: game framework, borderline plugin
   - name: MafiaUnity
     url: https://github.com/OpenMafia/MafiaUnity
     description: Open-source Mafia game framework.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -434,13 +421,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: fan game project
   - name: Guitar Hero Unity
     url: https://github.com/caffeine239/GuitarHeroUnity
     description: Guitar Hero fan game made in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -449,13 +435,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: clone game project
   - name: UnityTetris
     url: https://github.com/Mukarillo/UnityTetris
     description: Tetris clone written in C# and using Unity engine to render.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -464,13 +449,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: clone game project
   - name: Pacman
     url: https://github.com/vilbeyli/Pacman
     description: A Pacman clone with original AI made using Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -479,13 +463,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: clone game project
   - name: Minesweeper
     url: https://github.com/vilbeyli/Minesweeper
     description: Tile based Minesweeper game with highschores made in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -494,13 +477,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: full game project
   - name: Colorus
     url: https://github.com/nicloay/colorus
     description: Coloring book game for Web/iOS made with Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -509,13 +491,12 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
-  # MISFIT: GitHub user profile, not a single tool
   - name: 'GitHub: mrzapp'
     url: https://github.com/mrzapp
     description: Unity tools and utilities.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -526,13 +507,12 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
-  # MISFIT: GitHub user profile, not a single tool
   - name: 'GitHub: mob-sakai'
     url: https://github.com/mob-sakai
     description: Unity tools and effects.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -543,13 +523,12 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
-  # MISFIT: standards forum channel, weak Unity tie
   - name: Metaverse Standards Forum
     url: https://www.youtube.com/@metaversestandardsforum
     description: Metaverse Standards Forum 5/6/2025
     entry_type: channel
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -565,7 +544,7 @@ entries:
     description: A video tutorial providing an in-depth explanation of Unity's new UI system.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -581,7 +560,7 @@ entries:
     description: '[GitHub repo](https://github.com/LochieWestfallGames/VR-Tutorial)'
     entry_type: channel
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:

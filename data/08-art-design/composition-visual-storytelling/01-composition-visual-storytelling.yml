@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Interactive
       - Visual Training
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Gestalt
       - Perception
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Deep Color Theory
       - Perception
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -51,7 +51,7 @@ entries:
     readme_tags:
       - Golden Ratio
       - Overlays
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -62,7 +62,7 @@ entries:
     description: RenderNet AI is a tool for generating images and videos, providing control over character design, composition, and style.
     license: Freemium
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: Misfit in composition subsection — AI image/video generator, not composition theory. Consider relocation.
     tags:
@@ -89,3 +89,5 @@ entries:
         - web
     dual_listed_in:
       - learning-community-industry
+    url_last_verified: '2026-05-01'
+    url_status: ok

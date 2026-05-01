@@ -18,7 +18,7 @@ entries:
     readme_tags:
       - Batch Convert
       - 500+ Formats
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: DJV
     url: https://github.com/darbyjohnston/DJV
@@ -41,7 +41,7 @@ entries:
     readme_tags:
       - Image Sequences
       - Film Pipeline
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: f3d
     url: https://f3d.app/
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - 3D Preview
       - USD Support
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: mrViewer
     url: https://mrviewer.sourceforge.io/
@@ -87,7 +87,7 @@ entries:
     readme_tags:
       - EXR Viewer
       - VFX Pipeline
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: glb.gallery
     url: https://glb.gallery
@@ -106,7 +106,7 @@ entries:
     readme_tags:
       - Embeddable
       - GLB
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: OpenEXR Viewer
     url: https://github.com/AcademySoftwareFoundation/openexr
@@ -129,5 +129,5 @@ entries:
     readme_tags:
       - Official EXR
       - ASWF
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

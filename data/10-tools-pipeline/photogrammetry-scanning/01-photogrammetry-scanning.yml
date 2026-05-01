@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - Open Source
       - Node-based
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: RealityCapture
     url: https://www.capturingreality.com/
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Epic Games
       - High-Quality
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Agisoft Metashape
     url: https://www.agisoft.com/
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - GIS Features
       - Pro
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Polycam
     url: https://poly.cam/
@@ -62,7 +62,7 @@ entries:
     readme_tags:
       - Mobile
       - LiDAR
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: KIRI Engine
     url: https://www.kiriengine.com/
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - Cross-platform
       - Mobile
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: 3DF Zephyr
     url: https://www.3dflow.net/3df-zephyr-photogrammetry-software/
@@ -93,7 +93,7 @@ entries:
     readme_tags:
       - Free Lite
       - 50 Photos
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Scaniverse (Niantic)
     url: https://scaniverse.com/
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - Free Mobile
       - Gaussian Splat
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Postshot
     url: https://www.jawset.com/
@@ -126,7 +126,7 @@ entries:
     readme_tags:
       - Desktop
       - Splat Editor
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: CloudCompare
     url: https://www.danielgm.net/cc/
@@ -134,7 +134,7 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Point cloud and mesh processing
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -149,7 +149,7 @@ entries:
     license: Open Source
     entry_type: tool
     best_for: Browser splat editor
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -164,7 +164,7 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Open-source scan toolkit
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -179,7 +179,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Meshroom source repo
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -201,7 +201,7 @@ entries:
     readme_tags:
       - Point Clouds
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Polyscope
     url: https://github.com/nmwsharp/polyscope
@@ -209,7 +209,7 @@ entries:
     license: Open Source
     entry_type: tool
     best_for: Mesh/point cloud viewer
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -224,7 +224,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Photogrammetry asset library
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -238,7 +238,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Free photogrammetry
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -252,7 +252,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -266,7 +266,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -280,7 +280,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -294,7 +294,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -308,7 +308,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Gaussian splat blog post
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -322,7 +322,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Gaussian splat blog post
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -336,7 +336,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Gaussian splat blog post
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -350,7 +350,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Gaussian splat blog post
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -364,7 +364,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -378,7 +378,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -392,7 +392,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Geospatial radiance methods overview
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -407,7 +407,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -421,7 +421,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -435,7 +435,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -449,7 +449,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -463,7 +463,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -477,7 +477,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -491,7 +491,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: NeRF research paper
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -505,7 +505,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Blender photogrammetry import
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -520,7 +520,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Photogrammetry learning guide
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -535,7 +535,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Original NeRF source repo
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -550,7 +550,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: PyTorch NeRF impl
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -565,7 +565,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: PyTorch Lightning NeRF
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -580,7 +580,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: NeRF-W impl
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -595,7 +595,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: PyTorch3D NeRF
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -610,7 +610,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: JAX NeRF impl
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -625,7 +625,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Mip-NeRF impl
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -640,7 +640,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Awesome list for Gaussian splatting
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -655,7 +655,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Nerfstudio gsplat lib
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -670,7 +670,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Gaussian splat impl
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -685,7 +685,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Gaussian splat reimpl
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -700,7 +700,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Gaussian splat reimpl
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -715,7 +715,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Stylized splat research
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -730,7 +730,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Nerfstudio gsplat fork
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:

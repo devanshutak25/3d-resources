@@ -6,7 +6,7 @@ entries:
     readme_tags:
       - Wiki
       - Reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - EXR
       - Multichannel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -36,7 +36,7 @@ entries:
     readme_tags:
       - EXR
       - Fusion
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

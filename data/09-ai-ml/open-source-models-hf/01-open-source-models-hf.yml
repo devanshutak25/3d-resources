@@ -12,7 +12,7 @@ entries:
       - Orbital Video
       - Stability
     notes: entry_type 'reference' used for HF model card; could be 'tool' if treated as runnable model.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Hunyuan Video I2V
     url: https://huggingface.co/tencent/HunyuanVideo-I2V
@@ -27,5 +27,5 @@ entries:
       - I2V
       - Multilingual
     notes: entry_type 'reference' used for HF model card; could be 'tool' if treated as runnable model.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

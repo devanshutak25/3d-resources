@@ -11,7 +11,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Standalone
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: UVPackmaster
     url: https://uvpackmaster.com/
@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - UDIM
       - Packing
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Headus UVLayout
     url: https://www.uvlayout.com/
@@ -41,7 +41,7 @@ entries:
     readme_tags:
       - Flatten-based
       - Classic
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: UV Checker Map Maker
     url: https://uvchecker.atlux.one/
@@ -54,7 +54,7 @@ entries:
     readme_tags:
       - Checker Gen
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: UV Toolkit
     url: https://gumroad.com/alexbel#NbMya
@@ -70,5 +70,5 @@ entries:
     readme_tags:
       - Blender
       - Toolkit
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

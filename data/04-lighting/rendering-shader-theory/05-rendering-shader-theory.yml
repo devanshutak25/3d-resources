@@ -3,7 +3,7 @@ entries:
     url: https://therealmjp.github.io/posts/shader-permutations-part1/
     description: 'The Shader Permutation Problem - Part 1: How Did We Get Here?.'
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -12,7 +12,7 @@ entries:
     url: https://therealmjp.github.io/posts/shader-permutations-part2/
     description: 'The Shader Permutation Problem - Part 2: How Do We Fix It?.'
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -21,7 +21,7 @@ entries:
     url: http://tobyschachman.com/Shadershop/
     description: Some awesome videos about ShaderShop and more.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -30,7 +30,7 @@ entries:
     url: http://tobyschachman.com/Shadershop/editor/
     description: Visually impactful editor to work on shaping.
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -39,7 +39,7 @@ entries:
     url: https://tsherif.github.io/picogl.js/
     description: Minimal WebGL 2-only rendering library.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -48,7 +48,7 @@ entries:
     url: https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/
     description: How to Create a Fake 3D Image Effect with WebGL.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -57,7 +57,7 @@ entries:
     url: https://vertexshaderart.com/
     description: Platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -66,7 +66,7 @@ entries:
     url: http://vterrain.org/
     description: Creation of tools for easily constructing any part of the real part of the real world in interactive, 3D digital form.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -75,7 +75,7 @@ entries:
     url: http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf
     description: Deck on OpenGL/GLSL shader programming.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -84,7 +84,7 @@ entries:
     url: https://webglfundamentals.org/
     description: This resource provides a thorough understanding of WebGL and its underlying principles, ensuring that you grasp the latest techniques and approaches such as 3D rendering, lighting, 2D transformation
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -93,7 +93,7 @@ entries:
     url: https://whs.io/
     description: Framework for developing 3D web apps with physics.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -102,7 +102,7 @@ entries:
     url: https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html
     description: Continue of the above article, and introduces a way to do alpha-blending with triangulated lines.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -111,7 +111,7 @@ entries:
     url: https://xdpixel.com/about-me/
     description: A blog focused on real-time rendering, shader programming, and game engine development
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -120,7 +120,7 @@ entries:
     url: https://xeokit.io/
     description: Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -130,7 +130,7 @@ entries:
     description: Karl Li's hobbyist physically-based renderer project page with technical write-ups.
     entry_type: reference
     notes: RELOCATE? Could fit renderer-specific-learning if treated as renderer deep-dive.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -139,7 +139,7 @@ entries:
     url: https://www.youtube.com/@kishimisu
     description: Video tutuorial showing the basics of creating art with shaders.
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -150,7 +150,7 @@ entries:
     url: https://www.youtube.com/@CppCon
     description: Also implemented swizzling with similar techniques.
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -161,7 +161,7 @@ entries:
     url: https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w
     description: YouTube channel about shaders.
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -172,7 +172,7 @@ entries:
     url: https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg
     description: YouTube channel about shaders case studies.
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -183,7 +183,7 @@ entries:
     url: https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw
     description: YouTube playlist about vertex shaders.
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -194,7 +194,7 @@ entries:
     url: https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/
     description: Writing an efficient Vulkan renderer.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -203,7 +203,7 @@ entries:
     url: https://www.youtube.com/@ThinMatrix
     description: Beginners tutorial series about creating 3D games OpenG.
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

@@ -3,7 +3,7 @@ entries:
     url: https://github.com/giangchau92/Unity-Fluid-Simulation-2D
     description: Using extended camera to render particles then metalball processing with shader.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -14,7 +14,7 @@ entries:
     url: https://github.com/mathiassiig/CircularColorPickerUnity
     description: Just a shader and a script for a circular color picker.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -25,7 +25,7 @@ entries:
     url: https://github.com/aras-p/glsl-optimizer
     description: GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization. (#SHADERS)
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE candidate; entry_type may be 'tool' (GLSL compiler tool).
     tags:
@@ -37,7 +37,7 @@ entries:
     url: https://github.com/FreyaHolmer/ShaderForge
     description: 'A node-based shader editor giving you the artistic freedom of shader creation, with no need to code. (Was :moneybag: but now is open source and not maintained).'
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE candidate; entry_type may be 'plugin' (Unity shader editor).
     tags:
@@ -49,7 +49,7 @@ entries:
     url: https://github.com/rambutan2000/ShaderLabLab
     description: A system using T4 Templates to generate Unity ShaderLab code in the Editor.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -60,7 +60,7 @@ entries:
     url: https://github.com/Elringus/GrassBending
     description: A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect. (#TERRAIN)
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -71,7 +71,7 @@ entries:
     url: https://github.com/albertomelladoc/Wind-Waker-Shader
     description: Cel Shading of two thresholds with a blur/gradient between them for Unity.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -82,7 +82,7 @@ entries:
     url: https://github.com/IronWarrior/UnityOutlineShader
     description: Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -93,7 +93,7 @@ entries:
     url: https://github.com/AdultLink/VerticalDissolve
     description: Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -104,7 +104,7 @@ entries:
     url: https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity
     description: Using the Geometry Shader to generate fur on GPU.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -115,7 +115,7 @@ entries:
     url: https://github.com/UnityLabs/procedural-stochastic-texturing
     description: Modified Unity Standard shader implementing Procedural Stochastic Texturing.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -126,7 +126,7 @@ entries:
     url: https://github.com/Vilar24/VilarVRC
     description: Vilar's Shaders for VRChat.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -137,7 +137,7 @@ entries:
     url: https://github.com/GlitchEnzo/UnityGPUNoise
     description: A set of shaders to help perform various Noise functions on the GPU.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -148,7 +148,7 @@ entries:
     url: https://github.com/keijiro/ShadowDrawer
     description: Shadow matte shader for Unity.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -159,7 +159,7 @@ entries:
     url: https://github.com/igradeca/Unity-Shaders
     description: Unity project about reseach on shaders and particle system.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -170,7 +170,7 @@ entries:
     url: https://github.com/setchi/Unity-ShaderSketches
     description: Sketches made with ShaderLab in Unity.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -181,7 +181,7 @@ entries:
     url: https://github.com/ellioman/ShaderProject
     description: A container for all sorts of handy shaders.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -192,7 +192,7 @@ entries:
     url: https://github.com/NoxWings/Shader-Effects
     description: Unity shader effects.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -203,7 +203,7 @@ entries:
     url: https://github.com/rakkarage/Glow
     description: Unity ShaderGraph effect test.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -214,7 +214,7 @@ entries:
     url: https://github.com/hecomi/UnityRaymarchingCollision
     description: Raymarching x Rigidbody interaction example.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -225,7 +225,7 @@ entries:
     url: https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice
     description: Raytracing shader tutorial for Unity.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -236,7 +236,7 @@ entries:
     url: https://github.com/i-saint/RaymarchingOnUnity5
     description: Raymarcher in Unity 5.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -247,7 +247,7 @@ entries:
     url: https://iquilezles.org/
     description: All you need to know about SDFs and other shader magic.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -256,7 +256,7 @@ entries:
     url: https://www.lygia.xyz/
     description: Shader library of reusable functions.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE candidate; entry_type may be 'tool' (shader library).
     tags:
@@ -266,7 +266,7 @@ entries:
     url: https://openmoonray.org/
     description: MoonRay is a physically based path-tracing renderer; it includes a USD Hydra render delegate, multi-machine and cloud rendering via the Arras distributed computation framework. [![][repo]](https://
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE to §12 software table; entry is a render engine.
     tags:
@@ -276,7 +276,7 @@ entries:
     url: https://sadjad.gumroad.com/l/PvjRz?recommended_by=search
     description: Pyro Shader for Redshit, ARnold, Renderman.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE candidate; entry_type may be 'plugin' (Gumroad asset/shader pack).
     tags:
@@ -286,7 +286,7 @@ entries:
     url: https://twigl.app/
     description: Free online shader editor.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE candidate; entry_type should be 'tool' (web shader editor).
     tags:
@@ -296,7 +296,7 @@ entries:
     url: https://www.youtube.com/@CFMakesThings
     description: '[pre-process,blueprint] - WITHOUT post processing.'
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -307,7 +307,7 @@ entries:
     url: https://www.youtube.com/@YourSandbox
     description: '[post-process,Lumin,msc-ue] - 17 videos.'
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -318,7 +318,7 @@ entries:
     url: https://www.youtube.com/@uselessgamedev
     description: '[pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.'
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -329,7 +329,7 @@ entries:
     url: https://www.youtube.com/@HepnerKamil
     description: '[post-process,shader] - 18 videos, outlines, toon shaders.'
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -340,7 +340,7 @@ entries:
     url: https://www.youtube.com/@PitchforkAcademy
     description: '[material].'
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -351,7 +351,7 @@ entries:
     url: https://www.youtube.com/@SurfacedStudio
     description: Advanced Materials in Blender - Shader Editor Tutorial..
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -362,7 +362,7 @@ entries:
     url: https://www.youtube.com/channel/UCd9i2MKimSaKezat1xkn8-A/videos
     description: Toon shader, npr.
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -373,7 +373,7 @@ entries:
     url: https://www.sidefx.com/products/houdini/
     description: To create procedural 3D assets. The free licence "Houdini
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE to §12 software table; entry is a DCC, not shader theory.
     tags:
@@ -383,7 +383,7 @@ entries:
     url: https://www.3dkingdoms.com/weekly/weekly.php
     description: Great collection of shader and math related resources.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -392,7 +392,7 @@ entries:
     url: http://www.aclockworkberry.com/shader-derivative-functions/
     description: Useful for normals.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -401,7 +401,7 @@ entries:
     url: http://www.aduprat.com/
     description: Recognized shader artist with a big trajectory [ST Profile](https://www.shadertoy.com/user/XT95)
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -410,7 +410,7 @@ entries:
     url: https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/
     description: Part 1 of an introduction to shaders using threejs.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -419,7 +419,7 @@ entries:
     url: http://www.agarwala.org/efficient_gdc/preprint.pdf
     description: ACM Trans. Graph. 2007
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -428,7 +428,7 @@ entries:
     url: https://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/
     description: Introduction to Shaders in Three.js
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -437,7 +437,7 @@ entries:
     url: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
     description: Classic paper on misconception of "a pixel is a little square." It also serves as an introduction to sampling.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -446,7 +446,7 @@ entries:
     url: https://www.ambiera.com/copperlicht/index.html
     description: JavaScript library and WebGL 3D engine for creating games and 3D applications.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE candidate; entry_type may be 'software' (WebGL engine), better fit in §12 or web-tech section.
     tags:
@@ -456,7 +456,7 @@ entries:
     url: https://antongerdelan.net/opengl/shaders.html
     description: Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -465,7 +465,7 @@ entries:
     url: http://apitrace.github.io
     description: Tools for tracing OpenGL, Direct3D, and other graphics APIs.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE candidate; entry_type may be 'tool' (graphics API tracer).
     tags:
@@ -475,7 +475,7 @@ entries:
     url: https://app.nodetoy.co/
     description: The shader tool for the web. NodeToy provides creators a powerful editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE candidate; entry_type should be 'tool' (web shader editor).
     tags:
@@ -485,7 +485,7 @@ entries:
     url: https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf
     description: How does a GPU Shader work?.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -494,7 +494,7 @@ entries:
     url: https://bartwronski.com/
     description: Bart Wronski shares insights into real-time rendering, post-processing effects, and advanced graphics techniques
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -503,7 +503,7 @@ entries:
     url: https://benedikt-bitterli.me/resources/
     description: Scenes in Tungsten, Mitsuba and pbrt-v3 formats.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -512,7 +512,7 @@ entries:
     url: http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/
     description: By Mikael Hvidtfeldt Christensen|[Arlo ... in a fragment shader](https://t.co/jJeGzTGmNC) by Inigo Quilez|
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

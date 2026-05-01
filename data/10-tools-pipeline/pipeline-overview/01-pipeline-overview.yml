@@ -10,7 +10,7 @@ entries:
     readme_tags:
       - Arch-Viz
       - Accuracy
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Product Design Pipeline
     url: https://www.autodesk.com/products/fusion-360/
@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Product Design
       - Manufacturing
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Motion Graphics Pipeline
     url: https://www.maxon.net/
@@ -36,5 +36,5 @@ entries:
     readme_tags:
       - Mograph
       - C4D + AE
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

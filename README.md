@@ -295,7 +295,6 @@ Arch-viz, furniture, and BIM asset libraries.
 - [3ddd](https://3ddd.ru/) — Design and architecture models.
 - [3DSky](https://3dsky.org) — Architecture models.
 - [BIMobject](https://www.bimobject.com/en-us) — BIM objects.
-- [CG Mood](https://cgmood.com/) — CG assets.
 - [Design Connected](https://www.designconnected.com/) — Furniture.
 - [Dimensiva](https://dimensiva.com/) — Furniture models.
 - [Evermotion](https://evermotion.org/) — Scenes and models.
@@ -924,8 +923,6 @@ Productivity blogs and shader workflow tricks.
 ### Fusion 360 — Learning
 
 Fusion 360 courses.
-
-- [Fusion for Designers](https://www.autodesk.com/certification/learn/course/fusion-design-for-industry) — Autodesk Academy course for designers.
 
 ### Material Creation Tools
 
@@ -2286,7 +2283,6 @@ Design fundamentals, patterns, and references.
 - [Pixel Composer (GitHub)](https://github.com/Ttanasart-pt/Pixel-Composer) — Powerful node-based VFX editor for pixel art
 - [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) — Small character generator, including basic animation.
 - [Red Blob Games](https://www.redblobgames.com/) — Interactive visual explanations (pathfinding, hex grids, noise).
-- [Resemble](https://www.resemble.ai/unity) — Resemble's voice cloning engine within Unity
 - [RGFW](https://github.com/ColleagueRiley/RGFW) — Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
 - [Slynyrd](https://www.patreon.com/slynyrd) — American, game designer with tons of material, game specific knowledge and mini-tutorials.
 - [SpriteKit](https://developer.apple.com/spritekit/) — SpriteKit code to make your game work on iOS, macOS, and tvOS without a hitch.
@@ -2315,7 +2311,6 @@ Channels covering game dev technique, design, and industry.
 - [MFGD - Fragment Shaders](https://www.youtube.com/@JorgeVinoRodriguez) — YouTube playlist about fragment shaders.
 - [Pontypants](https://www.youtube.com/@Pontypants) — Animation for games.
 - [Sebastian Lague](https://www.youtube.com/@SebastianLague) — Procedural generation and simulations.
-- [SimonDev](https://www.youtube.com/@simondevyt) — 3D programming, WebGL.
 - [t3ssel8r](https://www.youtube.com/@t3ssel8r) — Stylized rendering.
 - [Thomas Brush](https://www.youtube.com/@thomasbrush) — Indie business and marketing.
 
@@ -2544,7 +2539,6 @@ Blogs, feeds, and curated inspiration sources.
 - [Geometric Design (Canva)](https://designschool.canva.com/blog/geometric-design/) — Geometric design article.
 - [H.R. Giger (Artnet)](http://www.artnet.com/artists/hans-rudolf-giger/) — H.R. Giger gallery archive.
 - [Iconz](https://iconz.design) — 460+ 3D icons in multiple angles and materials
-- [Janelle Loi Resources](https://janelloi.com/resources/) — Curated creative resources.
 - [Mech Blog](http://mechblog.tumblr.com/) — Mecha design inspiration.
 - [Mockupz](https://mockupz.design) — Free 3D mockup scenes for showcasing your design work
 - [Movie Scenes Inspired by Art](https://x.com/JamesLucasIT/status/1795507471693320546) — Thread on movie scenes mirroring paintings.
@@ -2829,7 +2823,6 @@ AI music generation, voice, TTS, and SFX.
 | [ElevenLabs](https://elevenlabs.io/) | Voice cloning, narration, music generation. | Freemium | Voice Cloning · TTS | Voice cloning, TTS |
 | [F5 TTS](https://github.com/SWivid/F5-TTS) | Open-source zero-shot voice cloning TTS. | Open Source | Zero-Shot · Voice Clone | Zero-shot voice cloning |
 | [Fish Audio](https://fish.audio/) | Open-source TTS with voice cloning, fast and multilingual. | Open Source | Open Source · Multilingual | Open-source TTS |
-| [Stable Audio 2.0](https://www.stableaudio.com/) | Up to 3min music/SFX, audio-to-audio mode. Open-source model. | Freemium | Open Model · Music + SFX | Open-source music/SFX gen |
 | [Suno v5](https://suno.com/) | Full song generation, 100M+ users. | Freemium | Song Gen · 100M users | Full song generation |
 | [Udio](https://www.udio.com/) | Strong electronic/pop, licensed for commercial use. | Freemium | Electronic/Pop · Commercial | Commercial-licensed AI music |
 
@@ -3044,7 +3037,6 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 - [NeRF--: Neural Radiance Fields Without Known Camera Parameters](http://nerfmm.active.vision/) — Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm) | [bibtex](./citations/nerf--.txt) <!---Wang21arxiv_nerfmm-->
 - [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://jdily.github.io/proj_site/nerfin_proj.html) — Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt)
 - [NeRF-SOS: Any-view Self-supervised Object Segmentation on Complex Real-world Scenes](https://zhiwenfan.github.io/NeRF-SOS/) — Fan et al., ICLR 2023 | [bibtex](./citations/NeRF-SOS.txt)
-- [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](http://people.csail.mit.edu/xiuming/projects/nerfactor/) — Zhang et al. Arxiv 2021 | [github](https://github.com/google/nerfactor) | [bibtex](./citations/nerfactor.txt)
 - [NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://weiyithu.github.io/NerfingMVS/) — Wei et al., ICCV 2021 | [bibtex](./citations/NerfingMVS.txt)
 - [Nerfstudio gsplat](https://github.com/nerfstudio-project/gsplat) — Python/CUDA | Apache-2.0 | Integration with Nerfstudio     |
 - [Nerfstudio Unofficial](https://github.com/yzslab/nerfstudio/tree/gaussian_splatting) — Nerfstudio Unofficial.
@@ -3168,7 +3160,6 @@ Assorted CG utilities and specialty tools.
 - [SunCalc](https://www.suncalc.org/) — Sun position, golden hour, and shadow visualization for any location and time.
 - [Texture Extractor](https://berlinnights.itch.io/texture-extractor) — Extract textures and materials from photos (Godot-based, pre-1.0).
 - [VFX Camera Database](https://vfxcamdb.com/) — Camera sensor data.
-- [Video Magnification (MIT)](https://people.csail.mit.edu/mrub/vidmag/) — Eulerian video magnification.
 
 ### Plugin & Addon Marketplaces
 
@@ -3335,7 +3326,6 @@ Motion design / C4D focused creators.
 
 Blender-focused creators.
 
-- [Arrimus 3D](https://www.youtube.com/@Arrimus3D) — Hard-surface modeling tutorials.
 - [Blender Guru](https://www.youtube.com/@blenderguru) — Classic Blender beginner+ intermediate channel (Andrew Price).
 - [Blender Official](https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg) — Official Blender Foundation channel.
 - [Bradley Animation](https://www.youtube.com/@bradleyanimation120) — Geometry Nodes basics for beginners.
@@ -3711,7 +3701,6 @@ Current technology and market trends in CG.
 
 - [AI in Production Pipelines](https://www.fxguide.com/) — AI handling roto, denoise, upres, texture drafts, matchmove cleanup. Studios (ILM, Weta, DNEG) deploying at scale.
 - [Blender 4.x Rise](https://www.blender.org/) — EEVEE Next (GPU ray tracing), Vulkan backend, extensions platform.
-- [Neural Rendering](https://developer.nvidia.com/rtx/ray-tracing/neural-rendering) — NVIDIA Neural Texture Compression, Neural Radiance Cache. Disney/Weta publishing on neural light transport.
 - [Real-Time Path Tracing](https://developer.nvidia.com/rtx) — Shipping in games (Cyberpunk 2077, Alan Wake 2). RTX 50-series + DLSS 4 with neural rendering.
 - [Virtual Production](https://www.disguise.one/) — LED volumes maturing from bleeding-edge to standardized.
 - [WebGPU Adoption](https://www.w3.org/TR/webgpu/) — Shipped in Chrome. Three.js, Babylon.js, PlayCanvas adding WebGPU backends.
@@ -3864,7 +3853,6 @@ Production render engines across CPU, GPU, biased, and unbiased path tracers.
 | [V-Ray (Chaos)](https://www.chaos.com/vray) | CPU/GPU hybrid renderer for arch-viz and product viz. | ~$60/mo | Paid | Arch-Viz · Industry Standard | Arch-viz, product viz |
 
 **Related:**
-- [Arnold Resources](https://www.autodesk.com/products/arnold/resources) — Official shaders, docs, tutorials.
 - [Aurora](https://github.com/Autodesk/Aurora) — A real-time path tracing renderer that enables fast product visualizations.
 - [Chaos Cosmos](https://www.chaos.com/cosmos) — Free V-Ray/Corona asset library (3D models, materials, HDRIs).
 - [Falcor](https://github.com/NVIDIAGameWorks/Falcor) — A real-time rendering framework supporting DirectX 12 aiming to improve the productivity of research and prototype projects.
@@ -4052,77 +4040,7 @@ Built with help from:
 - [itch.io](https://itch.io)
 - YouTube channels & playlists
 
-**GitHub awesome-lists mined (70):**
+**GitHub awesome-lists mined (0):**
 
-- [agarcialeon/awesome-unity](https://github.com/agarcialeon/awesome-unity)
-- [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender)
-- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-- [Alinshans/awesome-cg](https://github.com/Alinshans/awesome-cg)
-- [AtakanFire/Awesome-Unreal-Engine](https://github.com/AtakanFire/Awesome-Unreal-Engine)
-- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
-- [AxiomeCG/awesome-threejs](https://github.com/AxiomeCG/awesome-threejs)
-- [bcmi/Awesome-Generative-Image-Composition](https://github.com/bcmi/Awesome-Generative-Image-Composition)
-- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
-- [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD)
-- [bluesfdw/awesome-CAD](https://github.com/bluesfdw/awesome-CAD)
-- [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts)
-- [brandonhimpfen/awesome-generative-ai](https://github.com/brandonhimpfen/awesome-generative-ai)
-- [calinou/awesome-gamedev](https://github.com/calinou/awesome-gamedev)
-- [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art)
-- [cgwire/awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline)
-- [cjroth/awesome-vr](https://github.com/cjroth/awesome-vr)
-- [Coop56/awesome-unreal](https://github.com/Coop56/awesome-unreal)
-- [cutbypham/awesome-davinci-resolve](https://github.com/cutbypham/awesome-davinci-resolve)
-- [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)
-- [Domeee/awesome-augmented-reality](https://github.com/Domeee/awesome-augmented-reality)
-- [drwpow/awesome-oss-fonts](https://github.com/drwpow/awesome-oss-fonts)
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools)
-- [ericjang/awesome-graphics](https://github.com/ericjang/awesome-graphics)
-- [eug/awesome-opengl](https://github.com/eug/awesome-opengl)
-- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai)
-- [fire/awesome-godot-procedural-manual-generation](https://github.com/fire/awesome-godot-procedural-manual-generation)
-- [FronkonGames/Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)
-- [haxiomic/awesome-gamedev](https://github.com/haxiomic/awesome-gamedev)
-- [iamtpb/awesome-photography](https://github.com/iamtpb/awesome-photography)
-- [ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
-- [inlife/awesome-ae](https://github.com/inlife/awesome-ae)
-- [insthync/awesome-unreal](https://github.com/insthync/awesome-unreal)
-- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
-- [KelvinAnymoree/awesome-cg-pipeline](https://github.com/KelvinAnymoree/awesome-cg-pipeline)
-- [kidult00/awesome-AR](https://github.com/kidult00/awesome-AR)
-- [loonghao/awesome-cg-pipeline](https://github.com/loonghao/awesome-cg-pipeline)
-- [luisdnsantos/awesome-computer-graphics](https://github.com/luisdnsantos/awesome-computer-graphics)
-- [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev)
-- [mdyao/Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC)
-- [melbvr/awesome-VR](https://github.com/melbvr/awesome-VR)
-- [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality)
-- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
-- [MrPeker/awesome-illustrations](https://github.com/MrPeker/awesome-illustrations)
-- [nathakits/awesome-cinema4d](https://github.com/nathakits/awesome-cinema4d)
-- [natnew/Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI)
-- [oli-z/awesome-filmmaking](https://github.com/oli-z/awesome-filmmaking)
-- [olucurious/Awesome-ARCore](https://github.com/olucurious/Awesome-ARCore)
-- [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)
-- [querielo/awesome-computer-graphics](https://github.com/querielo/awesome-computer-graphics)
-- [rive-app/awesome-rive](https://github.com/rive-app/awesome-rive)
-- [rng70/Awesome-Fonts](https://github.com/rng70/Awesome-Fonts)
-- [shlomif/awesome-graphics-programming](https://github.com/shlomif/awesome-graphics-programming)
-- [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
-- [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl)
-- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
-- [teamgravitydev/gamedev-free-resources](https://github.com/teamgravitydev/gamedev-free-resources)
-- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
-- [terrehbyte/awesome-ue4](https://github.com/terrehbyte/awesome-ue4)
-- [TheFrenchGhosty/awesome-art](https://github.com/TheFrenchGhosty/awesome-art)
-- [tobiasbueschel/awesome-WebAR](https://github.com/tobiasbueschel/awesome-WebAR)
-- [tom-choi/awesome-cg-pipeline](https://github.com/tom-choi/awesome-cg-pipeline)
-- [tomByrer/awesome-unreal-engine](https://github.com/tomByrer/awesome-unreal-engine)
-- [UEProjectXmples/awesome-ue5](https://github.com/UEProjectXmples/awesome-ue5)
-- [unclamped/awesome-vr](https://github.com/unclamped/awesome-vr)
-- [UnityCommunity/AwesomeUnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity)
-- [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl)
-- [waitin2010/awesome-computer-graphics](https://github.com/waitin2010/awesome-computer-graphics)
-- [wentianli/awesome-video-editing](https://github.com/wentianli/awesome-video-editing)
-- [wyhinton/AwesomeHoudini](https://github.com/wyhinton/AwesomeHoudini)
 
 </details>

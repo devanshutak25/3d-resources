@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Cloud Multiplayer
       - Unity/Unreal
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Mirror (site)
     url: https://mirror-networking.com/
@@ -28,7 +28,7 @@ entries:
     readme_tags:
       - Unity
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Fish Net
     url: https://fish-networking.gitbook.io/
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Unity
       - High-Perf
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Nakama
     url: https://heroiclabs.com/
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Social Server
       - Matchmaking
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Colyseus
     url: https://colyseus.io/
@@ -74,7 +74,7 @@ entries:
     readme_tags:
       - Node.js
       - Multiplayer
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Epic Online Services
     url: https://dev.epicgames.com/en-US/services
@@ -88,14 +88,14 @@ entries:
     readme_tags:
       - Free EOS
       - Matchmaking/Voice
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: SmartFoxServer 2X
     url: http://docs2x.smartfoxserver.com/ExamplesUnity/introduction
     description: A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -105,7 +105,7 @@ entries:
     description: 'GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course.'
     license: Paid
     entry_type: tutorial
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -116,7 +116,7 @@ entries:
     license: Open Source
     entry_type: reference
     notes: 'FLAG: entry_type may better fit tool (GitHub source SDK).'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -129,7 +129,7 @@ entries:
     license: Open Source
     entry_type: reference
     notes: 'FLAG: entry_type may better fit tool (packages/samples repo).'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -142,7 +142,7 @@ entries:
     license: Open Source
     entry_type: reference
     notes: 'FLAG: sample/demo repo — could be tutorial.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -155,7 +155,7 @@ entries:
     license: Open Source
     entry_type: reference
     notes: 'FLAG: sample/demo repo — could be tutorial.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -168,7 +168,7 @@ entries:
     license: Free
     entry_type: software
     notes: 'FLAG: entry_type misfit — this is a tutorial/article, not software.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -179,7 +179,7 @@ entries:
     license: Open Source
     entry_type: reference
     notes: 'FLAG: open-source sample game — could be inspiration.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -191,7 +191,7 @@ entries:
     description: Colyseus Multiplayer SDK for Unreal Engine
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:

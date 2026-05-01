@@ -3,7 +3,7 @@ entries:
     url: https://casual-effects.com/
     description: Morgan McGuire's site is a great resource for those interested in learning about real-time rendering techniques. It provides a wealth of information on various rendering techniques, making it an exc
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -12,7 +12,7 @@ entries:
     url: https://catlikecoding.com/
     description: Focuses on C# and shaders in Unity.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -21,7 +21,7 @@ entries:
     url: https://cesiumjs.org/
     description: Open-source library for world-class 3D globes and maps.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -30,7 +30,7 @@ entries:
     url: http://cg.ivd.kit.edu/publications/p2012/VRL/VRL.pdf
     description: Novak et al. 2012 SIGGRAPH 2012
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -39,7 +39,7 @@ entries:
     url: https://compute.toys/
     description: Innovative and experimental WebGPU compute shader editor designed to help developers explore the capabilities of the WebGPU API for creating high-performance graphics applications in the browse
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -48,7 +48,7 @@ entries:
     url: https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf
     description: Walter et al. Eurographics Symposium on Rendering 2007
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -57,7 +57,7 @@ entries:
     url: http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf
     description: Veach & Guibas. SIGGRAPH 1995.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -66,7 +66,7 @@ entries:
     url: https://cseweb.ucsd.edu/~ravir/HRPIEG.pdf
     description: 'Premoze et al. Rendering Techniques 2004: 15th Eurographics Workshop on Rendering'
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -75,7 +75,7 @@ entries:
     url: https://cyos.babylonjs.com/
     description: Online shader editor.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -84,7 +84,7 @@ entries:
     url: https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit
     description: Everything (or most things) wrong with learnopengl.com/PBR/Theory.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -93,7 +93,7 @@ entries:
     url: http://dx.doi.org/10.1109/TAP.1980.1142437
     description: Garry S. Brown, IEEE Transactions on Antennas and Propagaion (1980)
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -102,7 +102,7 @@ entries:
     url: https://editor.isf.video/
     description: Online tool for creating and editing GLSL shaders in the ISF format, which is commonly used in VJ software, live performance applications, and interactive installations.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -111,7 +111,7 @@ entries:
     url: https://editor.thebookofshaders.com/
     description: Simple WebGL Fragment Shader Editor.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -120,7 +120,7 @@ entries:
     url: https://fgiesen.wordpress.com/
     description: Fabian Giesen's blog covers topics like rendering, optimization, and low-level programming, with a focus on practical techniques
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -129,7 +129,7 @@ entries:
     url: http://www.flong.com/archive/texts/code/
     description: Awesome set of shaping functions for shaders
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -138,7 +138,7 @@ entries:
     url: https://www.framer.com/motion/
     description: A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for bindin
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -147,7 +147,7 @@ entries:
     url: https://frontendmasters.com/courses/canvas-webgl/
     description: Workshop by Matt DesLauriers that teaches you about generative art, interactive animations, 3D graphics, and shaders.
     entry_type: tutorial
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -156,7 +156,7 @@ entries:
     url: https://frontendmasters.com/courses/webgl-shaders/
     description: Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
     entry_type: tutorial
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -165,7 +165,7 @@ entries:
     url: https://gamemath.com/book/intro.html
     description: A must-read book to be
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -174,7 +174,7 @@ entries:
     url: https://github.com/lindenreid/Unity-Shader-Tutorials
     description: Full project and code for all of my shader tutorials.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -185,7 +185,7 @@ entries:
     url: https://github.com/TarasOsiris/unity3d-shaders-learning
     description: Ust learning Unity3D shaders here.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -196,7 +196,7 @@ entries:
     url: https://github.com/Brackeys/Shader-Graph-Tutorials
     description: Project files for our tutorials on using Shader Graph in Unity.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -207,7 +207,7 @@ entries:
     url: https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity
     description: 'For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!'
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -218,7 +218,7 @@ entries:
     url: https://github.com/nothke/UnityShaderCheatsheet
     description: Collection of Unity shader copypastas and gotchas.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -229,7 +229,7 @@ entries:
     url: https://github.com/DigiKrafting/blender_addon_pbr
     description: Provides a material panel that creates Metallic/Roughness or Specular/Gloss Nodes using the Principled BSDF shader.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -240,7 +240,7 @@ entries:
     url: https://github.com/eliemichel/LilySurfaceScrapper
     description: Import shaders in Blender from a single URL.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -251,7 +251,7 @@ entries:
     url: https://github.com/jlampel/bl_extra_lights
     description: Plugin for Blender that adds physically based, photometric lighting presets to the Add menu. [![market]](https://blendermarket.com/products/extra-lights)
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -262,7 +262,7 @@ entries:
     url: https://github.com/BrendanParmer/NodeToPython
     description: Convert Geometry, Shader, and Compositing nodes to legible Python scripts and add-ons. [![][mit]](https://github.com/BrendanParmer/NodeToPython/blob/main/LICENSE)
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -273,7 +273,7 @@ entries:
     url: https://github.com/dfranx/SHADERed
     description: Lightweight tool for creating and testing HLSL and GLSL shaders.
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -284,7 +284,7 @@ entries:
     url: https://github.com/jbouny/ocean
     description: There are also some links with explanation of the approach
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -295,7 +295,7 @@ entries:
     url: https://github.com/patriciogonzalezvivo/PixelSpiritDeck
     description: Library associated with the PixelSpirit Elemens Deck by [@patriciogv](https://twitter.com/patriciogv)
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -306,7 +306,7 @@ entries:
     url: https://github.com/ppmpreetham/three-blender
     description: Blender based tool, to convert your Blender files directly to threeJS.
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -317,7 +317,7 @@ entries:
     url: https://github.com/patriciogonzalezvivo/glslViewer
     description: Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform a
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -328,7 +328,7 @@ entries:
     url: https://github.com/patriciogonzalezvivo/lygia
     description: Granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your s
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -339,7 +339,7 @@ entries:
     url: https://github.com/jbouny/fft-ocean
     description: Fast Fourier Transform ocean rendering for Three.js
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -350,7 +350,7 @@ entries:
     url: https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29
     description: By **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -361,7 +361,7 @@ entries:
     url: https://github.com/GPUOpen-Tools/CodeXL
     description: AMD's tool suite that includes debugger, profiler and frame/shader analysis.
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -372,7 +372,7 @@ entries:
     url: https://github.com/mosra/magnum
     description: It is a 2D/3D graphics engine for modern OpenGL.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -383,7 +383,7 @@ entries:
     url: https://github.com/antidamage/CelShader
     description: Advanced CelShader project for Unreal Engine 4
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -394,7 +394,7 @@ entries:
     url: https://github.com/rubendhz/houdini-gsplat-renderer
     description: A HDK/GLSL implementation of Gaussian Splatting in Houdini
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -405,7 +405,7 @@ entries:
     url: http://glslsandbox.com
     description: Online live editor for fragment shaders.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -414,7 +414,7 @@ entries:
     url: https://gpuzen.blogspot.com/
     description: A blog dedicated to GPU programming and advanced rendering techniques, often featuring excerpts from the GPU Zen book series
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -423,7 +423,7 @@ entries:
     url: http://www.graphics.cornell.edu/pubs/1999/Kin99.pdf
     description: Kindlmann & Durkin. IEEE Symposium on Volume Visualization 1998
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -432,7 +432,7 @@ entries:
     url: https://graphics.stanford.edu/papers/shear/shearwarp.pdf
     description: Lacroute & Levoy. SIGGRAPH 1994
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -441,7 +441,7 @@ entries:
     url: https://graphics.stanford.edu/papers/light/
     description: Levoy & Hanrahan. Siggraph 1996
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -450,7 +450,7 @@ entries:
     url: http://graphics.ucsd.edu/~henrik/papers/fast_bssrdf/fast_bssrdf.pdf
     description: Jensen & Buhler. SIGGRAPH 2002
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -459,7 +459,7 @@ entries:
     url: https://greensock.com/gsap/
     description: A mastodon for animations in CSS and for three.js too, backed up by awesome plugins like ScrollTrigger, Flip,... and mostly framework agnostic.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -468,8 +468,8 @@ entries:
     url: http://groups.csail.mit.edu/graphics/tlfr/
     description: Lehtinen et al. SIGGRAPH 2011
     entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
     tags:
       workflow:
         - rendering
@@ -477,7 +477,7 @@ entries:
     url: https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/
     description: Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
     entry_type: tutorial
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -486,7 +486,7 @@ entries:
     url: https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/
     description: Quick tutorial how to use Firefox's developer tools to debug WebGL Shaders.
     entry_type: tutorial
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

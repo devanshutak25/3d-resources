@@ -9,7 +9,7 @@ entries:
     readme_tags:
       - AI Pipeline
       - Industry-wide
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Real-Time Path Tracing
     url: https://developer.nvidia.com/rtx
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Real-time RT
       - Neural
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: WebGPU Adoption
     url: https://www.w3.org/TR/webgpu/
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - WebGPU
       - Browser Compute
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Blender 4.x Rise
     url: https://www.blender.org/
@@ -51,7 +51,7 @@ entries:
     readme_tags:
       - Blender
       - Production-viable
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Virtual Production
     url: https://www.disguise.one/
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - LED Volumes
       - Standardizing
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Neural Rendering
     url: https://developer.nvidia.com/rtx/ray-tracing/neural-rendering
@@ -77,5 +77,6 @@ entries:
     readme_tags:
       - Neural
       - Research
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: broken
+    deprecated: true

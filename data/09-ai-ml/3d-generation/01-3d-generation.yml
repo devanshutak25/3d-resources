@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - Production-Reliable
       - PBR
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Tripo v3.0
     url: https://www.tripo3d.ai/
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Clean Quads
       - Sculpt-level
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Rodin Gen-2 (Hyper3D)
     url: https://hyper3d.ai/
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - 10B Params
       - Free Tier
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: TRELLIS.2 (Microsoft)
     url: https://huggingface.co/microsoft/TRELLIS.2-4B
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - Microsoft
       - PBR + Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Luma Genie
     url: https://lumalabs.ai/
@@ -80,7 +80,7 @@ entries:
     readme_tags:
       - Luma
       - Integrated
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Kaedim
     url: https://www.kaedim3d.com/
@@ -96,7 +96,7 @@ entries:
     readme_tags:
       - Hybrid AI+Artist
       - Production
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Spline AI
     url: https://spline.design/
@@ -112,7 +112,7 @@ entries:
     readme_tags:
       - In-Editor
       - Text→3D
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Unique3D
     url: https://github.com/AiuniAI/Unique3D
@@ -129,7 +129,7 @@ entries:
     readme_tags:
       - Single-Image
       - NeurIPS
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Wonder3D++
     url: https://github.com/xxlong0/Wonder3D
@@ -146,7 +146,7 @@ entries:
     readme_tags:
       - Fast
       - Textured Mesh
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: InstantMesh
     url: https://github.com/TencentARC/InstantMesh
@@ -163,7 +163,7 @@ entries:
     readme_tags:
       - Fast
       - Image→3D
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: TripoSR
     url: https://github.com/VAST-AI-Research/TripoSR
@@ -180,7 +180,7 @@ entries:
     readme_tags:
       - Open Source
       - Fast
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Stability SPAR3D
     url: https://stability.ai/
@@ -197,7 +197,7 @@ entries:
     readme_tags:
       - Stability AI
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: 3DTopia
     url: https://github.com/3DTopia/3DTopia
@@ -214,7 +214,7 @@ entries:
     readme_tags:
       - Coarse→Refined
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Sloyd
     url: https://sloyd.ai/
@@ -231,14 +231,14 @@ entries:
     readme_tags:
       - Procedural
       - Parametric
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Threestudio
     url: https://github.com/threestudio-project/threestudio
     description: A unified framework for 3D content generation.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:

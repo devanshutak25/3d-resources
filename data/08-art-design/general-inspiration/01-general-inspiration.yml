@@ -7,8 +7,8 @@ entries:
     readme_tags:
       - Giger
       - Dark Sci-Fi
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
     tags:
       platform:
         - web
@@ -20,11 +20,12 @@ entries:
     readme_tags:
       - Curated
       - Creative
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: broken
     tags:
       platform:
         - web
+    deprecated: true
   - name: Geometric Design (Canva)
     url: https://designschool.canva.com/blog/geometric-design/
     description: Geometric design article.
@@ -33,7 +34,7 @@ entries:
     readme_tags:
       - Geometric
       - Design Article
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -46,7 +47,7 @@ entries:
     readme_tags:
       - Film + Art
       - Thread
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -59,7 +60,7 @@ entries:
     readme_tags:
       - Mecha
       - Tumblr
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -72,7 +73,7 @@ entries:
     readme_tags:
       - Design Blog
       - Tumblr
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -85,7 +86,7 @@ entries:
     readme_tags:
       - Brand Activations
       - Ideas
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -98,7 +99,7 @@ entries:
     readme_tags:
       - Anime
       - Visual
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -111,7 +112,7 @@ entries:
     readme_tags:
       - Graphic Design
       - Blog
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -124,7 +125,7 @@ entries:
     readme_tags:
       - Dark
       - Creative
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -137,7 +138,7 @@ entries:
     readme_tags:
       - Tiles
       - Patterns
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -150,7 +151,7 @@ entries:
     readme_tags:
       - Contemporary
       - Design
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -164,7 +165,7 @@ entries:
       - Bookmarking
       - Curation
     notes: entry_type=tool (bookmarking utility) — sits in inspiration subsection; consider relocate to design-tools.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -177,7 +178,7 @@ entries:
     readme_tags:
       - Feed
       - Curated
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -191,7 +192,7 @@ entries:
       - Illustration
       - Pro Blog
     notes: entry_type=channel (creator hub blog) in inspiration subsection — fits as illustration channel; consider concept-art-channels.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -204,7 +205,7 @@ entries:
     readme_tags:
       - Animation Archive
       - Mirror
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -215,7 +216,7 @@ entries:
     entry_type: inspiration
     license: Freemium
     notes: Likely asset-source (downloadable 3D icons) rather than inspiration.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -226,7 +227,7 @@ entries:
     entry_type: inspiration
     license: Free
     notes: Likely asset-source (downloadable mockup scenes) rather than inspiration.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -237,7 +238,7 @@ entries:
     entry_type: inspiration
     license: Free
     notes: Likely asset-source (downloadable modular 3D model) rather than inspiration.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:

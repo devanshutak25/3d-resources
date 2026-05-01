@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - AI PBR
       - Tileable
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Scenario
     url: https://www.scenario.com/
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Game-Ready
       - Full Maps
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Meshy Textures
     url: https://www.meshy.ai/features/ai-texture-generator
@@ -55,7 +55,7 @@ entries:
     readme_tags:
       - Meshy Pipeline
       - Integrated
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Adobe Firefly Textures
     url: https://www.adobe.com/products/firefly
@@ -73,8 +73,8 @@ entries:
     readme_tags:
       - Adobe
       - Prompt-to-Edit
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
   - name: Ponzu
     url: https://www.ponzu.gg/
     description: AI texture gen from text prompts for uploaded meshes.
@@ -91,8 +91,8 @@ entries:
     readme_tags:
       - Mesh-aware
       - Text→Tex
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
   - name: InstaMAT
     url: https://instamaterial.com/
     description: Material authoring with AI workflows (Substance alternative).
@@ -109,3 +109,5 @@ entries:
     readme_tags:
       - Substance-alt
       - AI Workflows
+    url_last_verified: '2026-05-01'
+    url_status: ok

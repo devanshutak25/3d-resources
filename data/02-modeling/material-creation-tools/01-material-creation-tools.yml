@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - Free
       - Map Generation
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Substance Designer
     url: https://www.adobe.com/products/substance3d-designer.html
@@ -37,8 +37,8 @@ entries:
     readme_tags:
       - Procedural
       - Industry Standard
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
   - name: Substance Painter
     url: https://www.adobe.com/products/substance3d-painter.html
     description: Industry-standard 3D texture painting with smart materials.
@@ -59,8 +59,8 @@ entries:
     readme_tags:
       - Industry Standard
       - PBR Painter
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
   - name: ArmorPaint
     url: https://armorpaint.org/
     description: Open-source texture painting.
@@ -81,7 +81,7 @@ entries:
     readme_tags:
       - Open Source
       - Painter-alt
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: SmartNormal 2.0
     url: https://www.smart-page.net/smartnormal/
@@ -95,7 +95,7 @@ entries:
     readme_tags:
       - Normal Maps
       - Browser
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Material Maker
     url: https://www.materialmaker.org/
@@ -118,7 +118,7 @@ entries:
     readme_tags:
       - Open Source
       - SD Alternative
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Texelpaint3D
     url: https://texelpaint3d.com/
@@ -133,7 +133,7 @@ entries:
     readme_tags:
       - No-UV
       - Early Access
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: xNormal
     url: https://xnormal.net/
@@ -150,7 +150,7 @@ entries:
     readme_tags:
       - Baking
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Materia
     url: https://github.com/Metric/Materia
@@ -170,5 +170,5 @@ entries:
     readme_tags:
       - Open Source
       - Archived
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

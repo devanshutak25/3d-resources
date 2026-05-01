@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Open Source
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Pairing
       - Inspiration
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - Code Font
       - Ligatures
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - Figma
       - Google Fonts
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Proofing Guide
       - Hoefler
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: reference (article)'
     tags:
@@ -82,7 +82,7 @@ entries:
     readme_tags:
       - Font Editor
       - Pro
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: software-reference'
   - name: Fontz
@@ -90,7 +90,7 @@ entries:
     description: Free and premium 3D fonts with Blender source files
     license: Freemium
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -100,7 +100,7 @@ entries:
     description: An Unity editor extension for bitmap font.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: game-dev/unity-plugins'
     tags:
@@ -114,7 +114,7 @@ entries:
     description: A port of stb_easy_font.h to Unity/C#.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: game-dev/unity-plugins'
     tags:
@@ -128,7 +128,7 @@ entries:
     description: 336 pixel perfect, all-purpose vector icons in a web-font kit
     license: Open Source
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: icons (icon set, not font)'
     tags:
@@ -139,7 +139,7 @@ entries:
     description: Typewriter text animation for font objects.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: blender-plugins'
     tags:
@@ -153,7 +153,7 @@ entries:
     description: Easy font management inside Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: blender-plugins'
     tags:
@@ -168,7 +168,7 @@ entries:
     license: Open Source
     entry_type: asset-source
     deprecated: true
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -180,7 +180,7 @@ entries:
     description: Pixellate an image into emoji
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: tools (image tool, not font)'
     tags:
@@ -193,7 +193,7 @@ entries:
     description: Official icon set from Google
     license: Open Source
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: icons'
     tags:
@@ -205,7 +205,7 @@ entries:
     url: https://jmickle66666666.github.io/blog/techart/2019/12/18/bitmap-font-renderer.html
     description: Bitmap font renderer.
     entry_type: tutorial
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: tutorials'
     tags:
@@ -216,7 +216,7 @@ entries:
     description: Semantically transforming fonts into illustrations
     license: Free
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: ai-ml or reference'
     tags:

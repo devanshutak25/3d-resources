@@ -12,7 +12,7 @@ entries:
     readme_tags:
       - CC-licensed
       - Community
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: BBC Sound Effects
     url: https://sound-effects.bbcrewind.co.uk/
@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - BBC Archive
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Free Music Archive
     url: https://freemusicarchive.org/
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Free Music
       - CC-licensed
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - CC Remixes
       - Community
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Pro SFX
       - Annual Free Bundle
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Motion Array SFX
     url: https://motionarray.com/browse/sound-effects/free/
@@ -82,7 +82,7 @@ entries:
     readme_tags:
       - Free SFX
       - Motion Array
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - Curated
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -112,7 +112,7 @@ entries:
     readme_tags:
       - Moby
       - Indie Use
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -135,7 +135,7 @@ entries:
     readme_tags:
       - Large SFX
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Uppbeat
     url: https://uppbeat.io/
@@ -145,7 +145,7 @@ entries:
     readme_tags:
       - Creator Music
       - Freemium
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -167,7 +167,7 @@ entries:
     readme_tags:
       - Subscription
       - Music + SFX
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Knell
     url: https://knell.medieval.software/
@@ -186,7 +186,7 @@ entries:
     readme_tags:
       - SFX Synth
       - Procedural
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Sapphire
     url: https://borisfx.com/products/sapphire/
@@ -194,7 +194,7 @@ entries:
     entry_type: plugin
     license: Paid
     notes: 'RELOCATE: vfx/compositing-plugins (this is a video VFX plugin, not audio)'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -208,7 +208,7 @@ entries:
     entry_type: plugin
     license: Open Source
     deprecated: true
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -224,7 +224,7 @@ entries:
     description: Blender VSE addon to browse, preview, and insert sounds from freesound.org.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

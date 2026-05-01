@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Free Pro
       - Full Post Pipeline
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Premiere Pro
     url: https://www.adobe.com/products/premiere.html
@@ -44,8 +44,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Adobe Suite
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
   - name: Final Cut Pro
     url: https://www.apple.com/final-cut-pro/
     description: Apple-native NLE with magnetic timeline.
@@ -65,7 +65,7 @@ entries:
     readme_tags:
       - Mac-only
       - Magnetic Timeline
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Kdenlive
     url: https://kdenlive.org/
@@ -87,7 +87,7 @@ entries:
     readme_tags:
       - Open Source
       - Cross-Platform
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Shotcut
     url: https://shotcut.org/
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - Lightweight
       - Beginner-Friendly
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: GoZen
     url: https://gozen.voylin.com/
@@ -134,13 +134,13 @@ entries:
     readme_tags:
       - Godot-built
       - Alpha
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: DaVinci Resolve Training
     url: https://www.blackmagicdesign.com/products/davinciresolve/training
     description: Official free training (hundreds of hours).
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -149,8 +149,8 @@ entries:
     url: https://helpx.adobe.com/premiere-pro/tutorials.html
     description: Official Adobe tutorials.
     entry_type: reference
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
     tags:
       workflow:
         - editing
@@ -176,5 +176,5 @@ entries:
     readme_tags:
       - Open Source
       - Beginner-Friendly
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - Real-time VFX
       - Broadcast
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: disguise
     url: https://www.disguise.one/en/solutions/virtual-production/
@@ -31,7 +31,7 @@ entries:
     readme_tags:
       - LED Walls
       - Workflow
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: NVIDIA Omniverse Blueprints
     url: https://github.com/orgs/NVIDIA-Omniverse-blueprints/repositories
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - Omniverse
       - USD-based
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Vizrt
     url: https://www.vizrt.com/
@@ -65,7 +65,7 @@ entries:
     readme_tags:
       - Broadcast
       - Graphics
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Pixotope
     url: https://www.pixotope.com/
@@ -82,7 +82,7 @@ entries:
     readme_tags:
       - VP Software
       - Real-time
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Notch
     url: https://www.notch.one/
@@ -100,5 +100,5 @@ entries:
     readme_tags:
       - Live Events
       - Real-time
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

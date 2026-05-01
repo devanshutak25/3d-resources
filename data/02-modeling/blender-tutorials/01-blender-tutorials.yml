@@ -12,7 +12,7 @@ entries:
     readme_tags:
       - Hair
       - Course
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Blender Checklist
     url: https://docs.google.com/spreadsheets/d/1RCY6nTIVgl208ckadipBWVos8_kHOu3HFTQgapN59_U/
@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Checklist
       - Workflow
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
