@@ -282,3 +282,21 @@ entries:
         - illustration
       platform:
         - web
+  - name: Models Resource (3D)
+    url: https://models.spriters-resource.com/
+    description: 3D model rips from games — sister site to Spriters Resource.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - games
+      workflow:
+        - modeling
+        - reference
+      platform:
+        - web
+    readme_tags:
+      - 3D Game Rips
+      - Reference
+    url_last_verified: '2026-05-01'
+    url_status: ok

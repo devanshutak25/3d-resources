@@ -193,7 +193,6 @@ entries:
     description: Suite of 270+ GPU-accelerated VFX effects with integrated Mocha tracking and a custom effect and transition builder.
     entry_type: plugin
     license: Paid
-    notes: 'RELOCATE: vfx/compositing-plugins (this is a video VFX plugin, not audio)'
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
