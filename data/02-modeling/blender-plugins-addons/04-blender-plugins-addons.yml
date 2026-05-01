@@ -611,3 +611,80 @@ entries:
         - web
       tech:
         - blender-addon
+  - name: Typewriter
+    url: https://github.com/doakey3/blender-typewriter-addon
+    description: Typewriter text animation for font objects.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - blender-addon
+        - opensource-alt
+    stale: true
+    last_pushed: '2024-02-05'
+  - name: FontSelector
+    url: https://github.com/samytichadou/FontSelector_blender_addon/
+    description: Easy font management inside Blender.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - blender-addon
+        - opensource-alt
+  - name: Engraver
+    url: https://gumroad.com/l/qOyVO
+    description: Blender addon with set of few tools designed to help carving decals in 3D models.
+    license: Paid
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender-addon
+      workflow:
+        - modeling
+  - name: WoT Tank Viewer
+    url: https://bitbucket.org/SkepticalFox/bigworld-blender-tools-wot-wowp-wows
+    description: Package of plugins for Blender, which allows you view 3D models from World of Tanks.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender-addon
+      workflow:
+        - modeling
+  - name: FaceBuilder
+    url: https://www.keentools.io/download/facebuilder-for-blender
+    description: '[$] : A Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuild'
+    license: Paid
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender-addon
+      workflow:
+        - modeling
+  - name: Sketchfab Blender Addon
+    url: https://github.com/sketchfab/blender-plugin
+    description: Directly import and export models from and to Sketchfab in Blender.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - blender-addon
+        - opensource-alt

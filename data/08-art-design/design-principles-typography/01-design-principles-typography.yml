@@ -79,3 +79,16 @@ entries:
         - reference
       tech:
         - houdini-addon
+  - name: How to Proof a Typeface
+    url: https://jonathanhoefler.com/articles/how-to-proof-a-typeface
+    description: Jonathan Hoefler's proofing guide.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Proofing Guide
+      - Hoefler
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - generalist

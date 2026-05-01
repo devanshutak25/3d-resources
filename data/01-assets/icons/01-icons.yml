@@ -182,3 +182,25 @@ entries:
         - illustration
       platform:
         - web
+  - name: typicons.font
+    url: http://s-ings.com/typicons/
+    description: 336 pixel perfect, all-purpose vector icons in a web-font kit
+    license: Open Source
+    entry_type: asset-source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+  - name: Material design icons
+    url: https://github.com/google/material-design-icons
+    description: Official icon set from Google
+    license: Open Source
+    entry_type: asset-source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - opensource-alt

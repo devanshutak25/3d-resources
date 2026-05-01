@@ -200,3 +200,20 @@ entries:
       tech:
         - blender
         - blender-addon
+  - name: SolidUI
+    url: https://github.com/CloudOrc/SolidUI
+    description: AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      workflow:
+        - modeling
+      tech:
+        - ai-generative
+        - opensource-alt
+    stale: true
+    last_pushed: '2024-01-27'

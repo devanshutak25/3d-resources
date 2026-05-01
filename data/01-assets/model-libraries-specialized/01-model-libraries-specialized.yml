@@ -255,3 +255,17 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     tags: {}
+  - name: 3D MDB
+    url: https://3dmdb.com/
+    description: Model database.
+    entry_type: tool
+    readme_tags:
+      - Database
+      - Search
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      workflow:
+        - modeling

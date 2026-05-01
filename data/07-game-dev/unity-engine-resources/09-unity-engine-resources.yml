@@ -938,3 +938,31 @@ entries:
         - unity-plugin
     stale: true
     last_pushed: '2017-10-30'
+  - name: Unity BitmapFontImporter
+    url: https://github.com/litefeel/Unity-BitmapFontImporter
+    description: An Unity editor extension for bitmap font.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+  - name: Unity Stb Easy Font
+    url: https://github.com/aras-p/UnityStbEasyFont
+    description: A port of stb_easy_font.h to Unity/C#.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - opensource-alt
+    stale: true
+    last_pushed: '2015-11-07'

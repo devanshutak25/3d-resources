@@ -532,3 +532,15 @@ entries:
         - concept
       platform:
         - web
+  - name: Word-As-Image for Semantic Typography
+    url: https://wordasimage.github.io/Word-As-Image-Page/
+    description: Semantically transforming fonts into illustrations
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      tech:
+        - ai-generative

@@ -270,21 +270,6 @@ entries:
         - web
       workflow:
         - modeling
-  - name: 3D MDB
-    url: https://3dmdb.com/
-    description: Model database.
-    entry_type: tool
-    notes: 'RELOCATE: tools/databases'
-    readme_tags:
-      - Database
-      - Search
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      workflow:
-        - modeling
   - name: MyMiniFactory Scan the World
     url: https://www.myminifactory.com/scantheworld/
     description: Scan the World collection of scanned heritage objects.
@@ -409,21 +394,6 @@ entries:
       - .blend Packs
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: Mesh2Motion
-    url: https://mesh2motion.org/
-    description: FREE & open-source web application to animate your 3D models. Supports humanoid, four-legged, and bird creatures.
-    license: Open Source
-    entry_type: tool
-    notes: 'RELOCATE: tools/rigging'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      workflow:
-        - rigging
-        - animation
-        - modeling
   - name: Oyonale
     url: http://www.oyonale.com/modeles.php?lang=en
     description: Sells 3D models for various industries.
@@ -447,43 +417,6 @@ entries:
         - web
       workflow:
         - modeling
-  - name: Assimp (site)
-    url: https://www.assimp.org/
-    description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
-    license: Open Source
-    entry_type: tool
-    notes: 'RELOCATE: tools/format-io'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      workflow:
-        - modeling
-  - name: Engraver
-    url: https://gumroad.com/l/qOyVO
-    description: Blender addon with set of few tools designed to help carving decals in 3D models.
-    license: Paid
-    entry_type: plugin
-    notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - blender-addon
-      workflow:
-        - modeling
-  - name: WoT Tank Viewer
-    url: https://bitbucket.org/SkepticalFox/bigworld-blender-tools-wot-wowp-wows
-    description: Package of plugins for Blender, which allows you view 3D models from World of Tanks.
-    license: Open Source
-    entry_type: plugin
-    notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - blender-addon
-      workflow:
-        - modeling
   - name: Free3DBase
     url: https://free3dbase.com/
     description: Download high quality free 3d models.
@@ -493,33 +426,6 @@ entries:
     tags:
       platform:
         - web
-      workflow:
-        - modeling
-  - name: FaceBuilder
-    url: https://www.keentools.io/download/facebuilder-for-blender
-    description: '[$] : A Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuild'
-    license: Paid
-    entry_type: plugin
-    notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - blender-addon
-      workflow:
-        - modeling
-  - name: What is Generative AI? - Nvidia
-    url: https://www.nvidia.com/en-us/glossary/generative-ai/
-    description: Generative AI enables users to quickly generate new content based on a variety of inputs. Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types o
-    entry_type: reference
-    notes: 'RELOCATE: reference/glossary'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      tech:
-        - ai-generative
       workflow:
         - modeling
   - name: Quaternius's Ultimate Low-Poly Models
@@ -550,49 +456,6 @@ entries:
         - web
       workflow:
         - modeling
-  - name: Element 3D
-    url: https://www.videocopilot.net/products/element2/
-    description: A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
-    license: Paid
-    entry_type: plugin
-    notes: 'RELOCATE: motion-graphics/after-effects-plugins'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      workflow:
-        - modeling
-  - name: Sketchfab Blender Addon
-    url: https://github.com/sketchfab/blender-plugin
-    description: Directly import and export models from and to Sketchfab in Blender.
-    license: Open Source
-    entry_type: plugin
-    notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      workflow:
-        - modeling
-      tech:
-        - blender-addon
-        - opensource-alt
-  - name: SolidUI
-    url: https://github.com/CloudOrc/SolidUI
-    description: AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
-    license: Open Source
-    entry_type: tool
-    notes: 'RELOCATE: ai-ml/tools'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      workflow:
-        - modeling
-      tech:
-        - ai-generative
-        - opensource-alt
-    stale: true
-    last_pushed: '2024-01-27'
   - name: Blend Swap
     url: https://www.blendswap.com/blends
     description: blend file asset source, not an addon. The one place for Open Source Blender files.

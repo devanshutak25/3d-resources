@@ -137,3 +137,13 @@ entries:
         - motion-graphics
       tech:
         - opensource-alt
+  - name: Element 3D
+    url: https://www.videocopilot.net/products/element2/
+    description: A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
+    license: Paid
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling

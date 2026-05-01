@@ -501,3 +501,17 @@ entries:
       tech:
         - blender
         - blender-addon
+  - name: emojillate
+    url: https://github.com/notwaldorf/emojillate
+    description: Pixellate an image into emoji
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - opensource-alt
+    stale: true
+    last_pushed: '2021-11-30'

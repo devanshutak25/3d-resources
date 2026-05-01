@@ -464,3 +464,13 @@ entries:
       workflow:
         - texturing
         - material-authoring
+  - name: Assimp (site)
+    url: https://www.assimp.org/
+    description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling

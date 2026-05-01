@@ -372,3 +372,20 @@ entries:
       - Lightweight
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: FontLab 8
+    url: https://www.fontlab.com/font-editor/fontlab/
+    description: Professional font editor.
+    license: Paid
+    entry_type: software
+    best_for: Type design, font editing
+    tags:
+      platform:
+        - win
+        - mac
+      output:
+        - generalist
+    readme_tags:
+      - Font Editor
+      - Pro
+    url_last_verified: '2026-05-01'
+    url_status: ok

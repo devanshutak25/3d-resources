@@ -128,3 +128,17 @@ entries:
         - opensource-alt
       platform:
         - web
+  - name: Mesh2Motion
+    url: https://mesh2motion.org/
+    description: FREE & open-source web application to animate your 3D models. Supports humanoid, four-legged, and bird creatures.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      workflow:
+        - rigging
+        - animation
+        - modeling
