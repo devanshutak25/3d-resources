@@ -455,3 +455,38 @@ entries:
         - lighting
       platform:
         - web
+  - name: DEM Net Elevation API
+    url: https://elevationapi.com
+    description: Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL
+    license: Freemium
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: DEM Net Elevation API C#
+    url: https://github.com/dem-net/DEM.Net
+    description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+  - name: WebGL Texture Tester
+    url: http://toji.github.io/texture-tester/
+    description: Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring

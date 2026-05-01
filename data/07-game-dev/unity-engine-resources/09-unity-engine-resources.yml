@@ -718,3 +718,223 @@ entries:
         - xr
       tech:
         - opensource-alt
+  - name: SpriteDicing
+    url: https://github.com/Elringus/SpriteDicing
+    description: Unity extension for reusing sprite texture areas.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+  - name: Unity Bitmap Drawing
+    url: https://github.com/ProtoTurtle/UnityBitmapDrawing
+    description: Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2014-06-12'
+  - name: U Texture Send Receive
+    url: https://github.com/BarakChamo/uTextureSendReceive
+    description: Unity network texture sender and receiver for video and frame streaming.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2018-07-30'
+  - name: Unity Resource Checker
+    url: https://github.com/handcircus/Unity-Resource-Checker
+    description: Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2022-02-20'
+  - name: CropTexture
+    url: https://github.com/natsupy/CropTexture
+    description: Crop and resize texture in Unity editor!
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2017-09-01'
+  - name: Unity Preview Generator
+    url: https://github.com/klhurley/UnityPreviewGenerator
+    description: Generates preview textures for sprites, icons of Unity models.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2019-02-03'
+  - name: TexturePanner
+    url: https://github.com/AdultLink/TexturePanner
+    description: This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2022-03-09'
+  - name: CurveTexture
+    url: https://github.com/slipster216/CurveTexture
+    description: Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2017-07-05'
+  - name: Unity Texture Packer
+    url: https://github.com/andydbc/unity-texture-packer
+    description: Utility to combine color channels from different textures into a single output.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+  - name: WaveformProvider
+    url: https://github.com/EsProgram/WaveformProvider
+    description: Provide a texture to simulate waves with Unity.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2018-05-12'
+  - name: Animation Texture Baker
+    url: https://github.com/zulfajuniadi/Animation-Texture-Baker
+    description: Bake Legacy Animations into Textures. Targeting ECS. (#ANIMATION)
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2018-07-18'
+  - name: AudioTexture
+    url: https://github.com/TyounanMOTI/AudioTexture
+    description: Generate Unity Texture2D from AudioClip. (#AUDIO)
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2019-03-09'
+  - name: UVPreview
+    url: https://github.com/AsehesL/UVPreview
+    description: Preview your UV islands in inspector window for your textures.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2019-07-21'
+  - name: Texture3DPreview for Unity
+    url: https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity
+    description: This package enables interactive previews of Texture3D assets in Unity's Inspector window.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unity-plugin
+    stale: true
+    last_pushed: '2017-10-30'

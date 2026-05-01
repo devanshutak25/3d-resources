@@ -193,3 +193,151 @@ entries:
       - Archived
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: TexGraph
+    url: https://galloscript.itch.io/texgraph
+    description: A procedural texture creation tool that lets you create textures by connecting nodes in a graph.
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - procedural
+        - node-based
+  - name: Imogen
+    url: https://github.com/CedricGuillemet/Imogen
+    description: GPU Texture generator using dear imgui for UI.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - procedural
+        - node-based
+    stale: true
+    last_pushed: '2020-06-27'
+  - name: Texture Synthesis
+    url: https://github.com/EmbarkStudios/texture-synthesis
+    description: Example-based texture synthesis written in Rust.
+    license: Open Source
+    entry_type: tool
+    deprecated: true
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+  - name: Live Normal
+    url: https://tenebrislab.github.io/livenormal/
+    description: An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
+    license: Freemium
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Agama Materials
+    url: https://agama.itch.io/agama-materials
+    description: Software for creating PBR materials and painting 3d models. You can create materials and use them for painting models, or you can use pre-made textures.
+    license: Paid
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Agisoft De-Lighter
+    url: https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow
+    description: Free stand-alone tool designed to remove shadows from model textures. [!download](https://www.agisoft.com/downloads/installer/)
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Architextures - Create
+    url: https://architextures.org/create
+    description: Web app allows you to create seamless textures, bump maps and CAD hatches. Select any of the parameters to get started.
+    license: Freemium
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: NVIDIA Texture Tools Exporter
+    url: https://developer.nvidia.com/nvidia-texture-tools-exporter
+    description: Allows users to create highly compressed texture files (that stay small both on disk and in memory) directly from image sources using NVIDIA’s CUDA-accelerated Texture Tools compressor technology.
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Game Texture Viewer
+    url: https://jangafx.com/software/gametextureviewer/
+    description: Fast, reliable, and simple tool for viewing PBR texture sets.
+    entry_type: software
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: TextureLab
+    url: https://njbrown.itch.io/texturelab
+    description: Tool designed to make procedural texture generation.
+    entry_type: software
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: ShaderExpo
+    url: https://anuraghazra.github.io/ShaderExpo/
+    description: Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: AwesomeBump
+    url: https://github.com/kmkolasinski/AwesomeBump
+    description: Generate normal, height, specular or ambient occlusion textures from a single image.
+    entry_type: software
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+    stale: true
+    last_pushed: '2023-01-11'

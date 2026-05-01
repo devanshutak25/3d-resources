@@ -427,3 +427,68 @@ entries:
         - animation
       output:
         - games
+  - name: Cheetah Texture Packer
+    url: https://github.com/scriptum/Cheetah-Texture-Packer
+    description: High efficient and fast 2D bin packing tool
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+    stale: true
+    last_pushed: '2016-11-05'
+  - name: Libgdx Texture Packer
+    url: https://github.com/libgdx/libgdx/wiki/Texture-packer
+    description: Texture Packer built into Libgdx
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+  - name: Tilesplit
+    url: https://github.com/AlexPoulsen/tilesplit
+    description: CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+    stale: true
+    last_pushed: '2022-02-27'
+  - name: Leshy SpriteSheet Tool
+    url: https://www.leshylabs.com/apps/sstool/
+    description: HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: SpriteUV2
+    url: https://www.spriteuv.com/
+    description: Tool for creating optimal meshes for textures/sprites and packing them into an atlas.
+    license: Paid
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring

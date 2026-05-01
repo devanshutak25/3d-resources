@@ -453,3 +453,14 @@ entries:
       - Web
     url_last_verified: '2026-05-01'
     url_status: unreachable
+  - name: GLTF Report
+    url: https://gltf.report
+    description: Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring

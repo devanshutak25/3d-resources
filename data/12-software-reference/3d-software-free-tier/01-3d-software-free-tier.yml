@@ -43,3 +43,14 @@ entries:
       - E-commerce
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: World Machine
+    url: https://www.world-machine.com/
+    description: Command powerful tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
+    entry_type: software
+    license: Freemium
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring

@@ -91,3 +91,27 @@ entries:
     tags:
       platform:
         - web
+  - name: gumroad/juliosillet
+    url: https://gumroad.com/juliosillet
+    description: '[Pixar/CommunityResources](https://renderman.pixar.com/community_resources), [Nikola Damjanov''s 100 PBR Texture Sets](https://www.artstation.com/artwork/0XEN4V)'
+    license: Freemium
+    entry_type: marketplace
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - pbr
+  - name: RenderHub Free
+    url: https://www.renderhub.com/free-3d-models
+    description: Daz Content, 3D models, textures and materials.
+    entry_type: marketplace
+    license: Freemium
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring

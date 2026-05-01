@@ -298,3 +298,120 @@ entries:
     readme_tags:
       - blender-addon
       - terrain
+  - name: Glsl Texture
+    url: https://github.com/patriciogonzalezvivo/glslTexture
+    description: Create textures from Glsl fragment shaders on Blender (2.8)
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - blender-addon
+    stale: true
+    last_pushed: '2023-02-11'
+  - name: Bystedts Blender Baker
+    url: https://3dbystedt.gumroad.com/l/JAqLT
+    description: This addon streamlines the texture baking process in Blender.
+    license: Paid
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - blender-addon
+  - name: Sculpt Alphas Manager
+    url: https://blenderartists.org/t/sculpt-alphas-manager/1200725
+    description: This addon provides a simple solution to be able to quickly switch alpha textures for the sculpt brushes.
+    license: Free
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - blender-addon
+  - name: Poliigon Blender Addon
+    url: https://help.poliigon.com/en/articles/6342599
+    description: This addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating Blender materials from Poliigon texture sets.
+    entry_type: plugin
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - blender-addon
+  - name: EasyBake
+    url: https://github.com/leukbaars/EasyBake
+    description: Texture baking UI for Blender that lives in the 3D Viewport. Small but powerful! Fast one-click baking and iteration.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - blender-addon
+    stale: true
+    last_pushed: '2022-10-26'
+  - name: PBR Texture Mapper
+    url: https://github.com/jayanam/pbr_texture_mapper
+    description: Create PBR node setup with one click.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - blender-addon
+    stale: true
+    last_pushed: '2019-01-06'
+  - name: Principled Baker
+    url: https://github.com/danielenger/Principled-Baker
+    description: Bake PBR textures with a few clicks.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - blender-addon
+    stale: true
+    last_pushed: '2023-09-27'
+  - name: UcuPaint
+    url: https://github.com/ucupumar/ucupaint
+    description: A addon to manage texture layers for EEVEE and Cycles renderer.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - blender-addon

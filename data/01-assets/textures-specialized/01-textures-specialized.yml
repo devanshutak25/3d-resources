@@ -82,3 +82,38 @@ entries:
       - Game Rips
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: NASA 3D Resources
+    url: https://nasa3d.arc.nasa.gov/
+    description: Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - cc0
+  - name: Solar Textures
+    url: https://www.solarsystemscope.com/textures/
+    description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: CGI Moon Kit
+    url: https://svs.gsfc.nasa.gov/4720
+    description: NASA Scientific Visualization Studio CGI Moon Kit providing high-resolution moon textures and elevation data for rendering and visualization.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring

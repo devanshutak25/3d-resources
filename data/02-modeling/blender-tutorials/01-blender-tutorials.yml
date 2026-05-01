@@ -28,3 +28,14 @@ entries:
     tags:
       tech:
         - blender
+  - name: Texture Paint Manual
+    url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
+    description: Texture Paint Manual..
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring

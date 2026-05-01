@@ -389,3 +389,42 @@ entries:
         - unreal-plugin
     stale: true
     last_pushed: '2023-11-12'
+  - name: 'Unreal Docs: Getting Started With Texture Graph'
+    url: https://dev.epicgames.com/documentation/en-us/unreal-engine/getting-started-with-texture-graph-in-unreal-engine
+    description: Unreal Engine Documentation.
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Unreal Engine Learning
+    url: https://dev.epicgames.com/community/learning/tutorials/z0VJ/unreal-engine-getting-started-with-texture-graph
+    description: Unreal Engine Learning.
+    license: Free
+    entry_type: tutorial
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Va Tex Atlas
+    url: https://github.com/ufna/VaTexAtlas
+    description: Simple way to use texture atlases for Unreal Engine 4 UMG
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt
+        - unreal-plugin
+    archived: true
+    stale: true
+    last_pushed: '2021-01-21'

@@ -69,3 +69,16 @@ entries:
       tech:
         - real-time
         - opensource-alt
+  - name: axys
+    url: https://github.com/axys1/axys
+    description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+    license: Open Source
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - opensource-alt

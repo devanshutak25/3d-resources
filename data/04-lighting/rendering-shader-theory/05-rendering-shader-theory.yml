@@ -210,3 +210,69 @@ entries:
         - rendering
       platform:
         - web
+  - name: Fast Filter-Width Estimates with Texture Maps
+    url: https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html
+    description: GPU Gems 1 - Chapter 25.
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Ptex
+    url: http://ptex.us/
+    description: A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: 'Ray Tracing: The Next Week'
+    url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
+    description: By Peter Shirley, builds on top of the first books' project, adding more effects, like textures and motion blur
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Multitexturing using a Blendmap
+    url: http://chinedufn.com/webgl-multitexture-blend-map-tutorial/
+    description: How to use a blendmap to multitexture a terrain.
+    entry_type: tutorial
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: Custom shaders with Three.JS
+    url: https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/
+    description: Introduction to custom shaders, uniforms, textures and lighting in three.js.
+    entry_type: tutorial
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+  - name: 'NeRF-Tex: Neural Reflectance Field Textures'
+    url: https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/
+    description: Baatz et al., EGSR 2021 | [bibtex](./citations/nerf-tex.txt)
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring

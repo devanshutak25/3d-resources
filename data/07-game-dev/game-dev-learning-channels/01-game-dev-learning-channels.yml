@@ -266,3 +266,14 @@ entries:
         - xr
       platform:
         - web
+  - name: Libgdx Wiki
+    url: https://libgdx.com/wiki/
+    description: Libgdx documentation wiki (includes Texture Packer page).
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
