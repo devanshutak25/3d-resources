@@ -42,8 +42,9 @@ Both indicate the same thing: entry sits in the wrong section. Cleanup = move + 
 | Singletons (audio-sfx-music, textures-specialized, game-dev-analytics, unreal/04) | 4 | R3 |
 | `unity-engine-resources/03/06/08` + `unreal-engine-resources/03` + `xr-ar-vr/01` | 17 | R3 |
 | `rendering-shader-theory/01` + `ai-assisted-cg-tools/01` + `photogrammetry-scanning/02` + `game-design-theory/01` + `model-libraries-specialized/01` | 25 | R3 |
+| Tail: `hdris/01` + `stock-images/01` + `plugin-marketplaces/02` + `blender-plugins-addons/03` | 10 | R4 |
 
-**Total: ~110 cleaned. 13 files (~193 markers) remaining.**
+**Total: ~120 cleaned. 9 files (~183 markers) remaining.**
 
 Three new entries also added in earlier sessions (Rebelle 8 Pro → drawing-painting-3d, ArcBrush → design-tools, Filter Forge → material-creation-tools).
 
@@ -73,16 +74,11 @@ All remaining 13 files use **RELOCATE:** notation (no `# MISFIT:` comments left)
 - [ ] `01-assets/fonts/01` — 11
 - [ ] `01-assets/model-libraries-free-general/01` — 10
 
-### Tail RELOCATEs
-
-- [ ] `01-assets/hdris/01` — 3
-- [ ] `10-tools-pipeline/plugin-marketplaces/02` — 3
-- [ ] `01-assets/stock-images/01` — 2
-- [ ] `02-modeling/blender-plugins-addons/03` — 2
+### Tail RELOCATEs (DONE in R4)
 
 ### Suggested order
 
-1. Tail (4 files, 10 markers) — cheap warmup.
+1. ~~Tail (4 files, 10 markers)~~ — done R4 2026-05-01.
 2. `textures-free-pbr` 01+02 (62 combined) — likely all PBR misclass moves to other texture/material sections.
 3. `blender-plugins-addons` 01+02+03 (44) — split between `02-modeling/blender-plugins-addons/<latest>` consolidation and category moves.
 4. `communities-forums` 01+02 (44) — moves to specific community/inspiration subsections.

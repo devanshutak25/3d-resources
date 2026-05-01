@@ -210,3 +210,13 @@ entries:
       - Full Pipeline
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Goxel
+    url: https://github.com/guillaumechereau/goxel
+    description: Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
+    entry_type: software
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt

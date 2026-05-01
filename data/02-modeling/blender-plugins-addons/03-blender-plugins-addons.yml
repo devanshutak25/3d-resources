@@ -615,19 +615,6 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
-  - name: Bandai Namco Research Motiondataset
-    url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
-    description: R&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
-    entry_type: tool
-    license: Free
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - blender
-    notes: 'RELOCATE: motion capture dataset, not a Blender addon.'
-    stale: true
-    last_pushed: '2023-07-04'
   - name: Blender Colab
     url: https://github.com/syn73/blender-colab
     description: Render on **_Google Colab_**, this is a Python script that allows you to render Blender scene using Google Colaboratory. Only Cycles.
@@ -640,14 +627,3 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
-  - name: Goxel
-    url: https://github.com/guillaumechereau/goxel
-    description: Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
-    entry_type: software
-    license: Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - opensource-alt
-    notes: 'RELOCATE: standalone voxel editor, not a Blender addon.'

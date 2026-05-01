@@ -295,3 +295,16 @@ entries:
         - houdini-addon
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Wormhole Content Browser
+    url: https://wormholetools.gumroad.com/l/whbrowser
+    description: The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
+    entry_type: tool
+    license: Paid
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+    readme_tags:
+      - houdini-tool
+      - asset-browser

@@ -159,3 +159,15 @@ entries:
       - Mocap
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Bandai Namco Research Motiondataset
+    url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
+    description: R&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+    stale: true
+    last_pushed: '2023-07-04'

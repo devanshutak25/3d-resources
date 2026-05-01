@@ -443,3 +443,15 @@ entries:
       - CityEngine
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: HDRI To Cube Map
+    url: https://matheowis.github.io/HDRI-to-CubeMap/
+    description: A tool to convert your HDRI file into a Cube map.
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+      platform:
+        - web

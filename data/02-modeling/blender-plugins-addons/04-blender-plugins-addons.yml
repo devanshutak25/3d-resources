@@ -257,3 +257,44 @@ entries:
       tech:
         - blender-addon
         - opensource-alt
+  - name: HDRI Sun Aligner
+    url: https://github.com/akej74/hdri-sun-aligner
+    description: HDRI Sun Aligner is a Blender addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - lighting
+      tech:
+        - opensource-alt
+        - blender-addon
+    stale: true
+    last_pushed: '2024-03-11'
+  - name: Geometry Nodes Pipes
+    url: https://raywakui.gumroad.com/l/pcxni
+    description: Addon for blender which helps generating complex pipe layouts.
+    entry_type: tool
+    license: Paid
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+    readme_tags:
+      - blender-addon
+      - geometry-nodes
+  - name: Auto Terrainer
+    url: https://unicornhunter.gumroad.com/l/AutoTerrainer
+    description: Automatic Blender Terrain Generator is a powerful and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
+    entry_type: tool
+    license: Paid
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+    readme_tags:
+      - blender-addon
+      - terrain
