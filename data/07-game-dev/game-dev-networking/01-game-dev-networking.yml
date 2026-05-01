@@ -207,3 +207,19 @@ entries:
         - games
       tech:
         - opensource-alt
+  - name: Mirror (GitHub)
+    url: https://github.com/vis2k/Mirror
+    description: A community replacement for Unity's abandoned UNET Networking System.
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Unity
+      - Networking
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - unity-plugin
+      output:
+        - games

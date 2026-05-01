@@ -25,3 +25,32 @@ entries:
     readme_tags:
       - nerf
       - scene-editing
+  - name: COLMAP
+    url: https://colmap.github.io/
+    description: A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.
+    license: Open Source
+    entry_type: software
+    best_for: Photogrammetry SfM/MVS reconstruction
+    tags:
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Photogrammetry
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+  - name: openMVG
+    url: https://openmvg.readthedocs.io/en/latest/
+    description: A library for computer-vision scientists targeted for the Multiple View Geometry community.
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Computer Vision
+      - Library
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - photogrammetry

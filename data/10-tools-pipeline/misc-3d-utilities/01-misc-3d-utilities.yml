@@ -490,3 +490,14 @@ entries:
       workflow:
         - texturing
         - material-authoring
+  - name: Tangram Heightmapper
+    url: https://tangrams.github.io/heightmapper/
+    description: Interactive grayscale heightmap browser, which can generate heightmaps for use in 3D applications.
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon

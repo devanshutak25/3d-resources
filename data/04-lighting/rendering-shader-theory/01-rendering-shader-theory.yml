@@ -695,3 +695,41 @@ entries:
       tech:
         - ray-tracing
         - real-time
+  - name: IOR List
+    url: https://pixelandpoly.com/ior.html
+    description: Index of Refraction values list for use with 3D applications.
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Blender & ACES
+    url: https://www.toodee.de/?page_id=1720
+    description: Setup Blender to work with ACES using OpenColorIO.
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: A Trip Through The Graphics Pipeline
+    url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
+    description: A-trip-through-the-graphics-pipeline.
+    license: Open Source
+    entry_type: reference
+    best_for: Graphics pipeline learning
+    tags:
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Reference
+      - Graphics
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    stale: true
+    last_pushed: '2021-03-07'

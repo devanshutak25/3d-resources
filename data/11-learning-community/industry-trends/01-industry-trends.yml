@@ -80,3 +80,14 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: broken
     deprecated: true
+  - name: The Pipeline Conference
+    url: https://thepipelineconference.com
+    description: The Pipeline Conference.
+    license: Paid
+    entry_type: community
+    best_for: Pipeline TD conference
+    readme_tags:
+      - Conference
+      - Pipeline
+    url_last_verified: '2026-05-01'
+    url_status: ok

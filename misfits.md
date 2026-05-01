@@ -46,8 +46,11 @@ Both indicate the same thing: entry sits in the wrong section. Cleanup = move + 
 | `textures-free-pbr/01` + `textures-free-pbr/02` | 62 | R4 |
 | `blender-plugins-addons/01` | 28 | R4 |
 | `communities-forums/02` | 31 | R4 |
+| `blender-plugins-addons/02` | 14 | R5 |
+| `scene-pipeline-tools/01` | 14 | R5 |
+| `communities-forums/01` | 13 | R5 |
 
-**Total: ~241 cleaned. 5 files (~62 markers) remaining.**
+**Total: ~282 cleaned. 2 files (~21 markers) remaining.**
 
 Three new entries also added in earlier sessions (Rebelle 8 Pro → drawing-painting-3d, ArcBrush → design-tools, Filter Forge → material-creation-tools).
 
@@ -71,9 +74,9 @@ All remaining 13 files use **RELOCATE:** notation (no `# MISFIT:` comments left)
 - [x] ~~`11-learning-community/communities-forums/02` — 31~~ (R4)
 - [x] ~~`01-assets/textures-free-pbr/01` — 29~~ (R4)
 - [x] ~~`02-modeling/blender-plugins-addons/01` — 28~~ (R4)
-- [ ] `02-modeling/blender-plugins-addons/02` — 14
-- [ ] `10-tools-pipeline/scene-pipeline-tools/01` — 14
-- [ ] `11-learning-community/communities-forums/01` — 13
+- [x] ~~`02-modeling/blender-plugins-addons/02` — 14~~ (R5)
+- [x] ~~`10-tools-pipeline/scene-pipeline-tools/01` — 14~~ (R5)
+- [x] ~~`11-learning-community/communities-forums/01` — 13~~ (R5)
 - [ ] `01-assets/fonts/01` — 11
 - [ ] `01-assets/model-libraries-free-general/01` — 10
 

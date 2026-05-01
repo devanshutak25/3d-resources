@@ -601,3 +601,29 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: unreachable
     tags: {}
+  - name: Mantissa/resources
+    url: https://mantissa.xyz/free.html
+    description: Free Blender files, resources.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: OpenTopography/datasets
+    url: https://portal.opentopography.org/datasets
+    description: Facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources. _Registration required_.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Topography
+      - Datasets
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - scientific-viz

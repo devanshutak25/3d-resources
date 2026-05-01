@@ -592,3 +592,14 @@ entries:
     tags:
       platform:
         - web
+  - name: blender.daily
+    url: https://www.instagram.com/blender.daily/
+    description: '[Blender Secrets](https://www.instagram.com/blendersecretsdotorg/)'
+    entry_type: channel
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon

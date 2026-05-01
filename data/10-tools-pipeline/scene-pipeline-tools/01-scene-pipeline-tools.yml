@@ -60,38 +60,6 @@ entries:
       - Tracking
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: COLMAP
-    url: https://colmap.github.io/
-    description: A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.
-    license: Open Source
-    entry_type: software
-    best_for: Photogrammetry SfM/MVS reconstruction
-    tags:
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Photogrammetry
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
-  - name: A Trip Through The Graphics Pipeline
-    url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
-    description: A-trip-through-the-graphics-pipeline.
-    license: Open Source
-    entry_type: reference
-    best_for: Graphics pipeline learning
-    tags:
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Reference
-      - Graphics
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
-    stale: true
-    last_pushed: '2021-03-07'
   - name: Dailies
     url: https://github.com/vfxpaco85/dailies/
     description: Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
@@ -139,21 +107,6 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: GStreamer
-    url: https://gstreamer.freedesktop.org/
-    description: Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows.
-    license: Open Source
-    entry_type: software
-    best_for: Multimedia pipeline framework
-    tags:
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Multimedia
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
   - name: Pipeline Developer Forum
     url: https://pipedev.org
     description: Pipeline Developer Forum.
@@ -181,18 +134,6 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: The Pipeline Conference
-    url: https://thepipelineconference.com
-    description: The Pipeline Conference.
-    license: Paid
-    entry_type: community
-    best_for: Pipeline TD conference
-    readme_tags:
-      - Conference
-      - Pipeline
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
   - name: Tik Manager (site)
     url: https://tik-manager.com
     description: Artist-friendly asset and pipeline manager.
@@ -469,65 +410,6 @@ entries:
     url_status: ok
     stale: true
     last_pushed: '2018-07-02'
-  - name: AMD Blender USD Hydra
-    url: https://gpuopen.com/learn/amd-usd-hydra-blender/
-    description: With Pixar's USD system emerging as a powerful tool for 3D graphics pipelines and interchange, this addon is meant to add first class support for USD and the USD Hydra rendering system to Blender.
-    license: Free
-    entry_type: software
-    best_for: USD Hydra in Blender
-    readme_tags:
-      - USD
-      - Blender
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
-  - name: Haystack
-    url: https://haystack.deepset.ai/
-    description: End-to-end NLP framework | Pipelines, document stores |
-    license: Open Source
-    entry_type: software
-    best_for: NLP pipeline framework
-    tags:
-      tech:
-        - opensource-alt
-        - ai-ml
-    readme_tags:
-      - NLP
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
-  - name: Hugging Face Transformers
-    url: https://huggingface.co/transformers
-    description: State-of-the-art NLP models and pipelines.
-    license: Open Source
-    entry_type: software
-    best_for: NLP model pipelines
-    tags:
-      tech:
-        - opensource-alt
-        - ai-ml
-    readme_tags:
-      - NLP
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
-  - name: Radeon ProRender
-    url: https://www.amd.com/en/technologies/radeon-prorender
-    description: Physically-based engine, product by AMD.
-    license: Free
-    entry_type: software
-    best_for: AMD-backed PBR renderer
-    tags:
-      workflow:
-        - rendering
-    readme_tags:
-      - Renderer
-      - Free
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
   - name: CGAL
     url: https://www.cgal.org/
     description: A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
@@ -574,35 +456,6 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: (2011) A trip through the graphics pipeline
-    url: https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index
-    description: By **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
-    license: Free
-    entry_type: reference
-    best_for: GPU pipeline deep dive
-    readme_tags:
-      - Graphics
-      - Reference
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
-  - name: BoatAttack
-    url: https://github.com/Verasl/BoatAttack
-    description: Demo Project using the Lightweight Render Pipeline from Unity3D.
-    license: Open Source
-    entry_type: reference
-    best_for: Unity LWRP demo project
-    tags:
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Unity
-      - Demo
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
-    stale: true
-    last_pushed: '2020-11-09'
   - name: BlenderProc
     url: https://github.com/DLR-RM/BlenderProc
     description: A procedural Blender pipeline for photorealistic training image generation.
@@ -634,36 +487,6 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: OBS
-    url: https://github.com/obsproject/obs-studio
-    description: Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
-    license: Open Source
-    entry_type: software
-    best_for: Screen capture and streaming
-    tags:
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Capture
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
-  - name: QtWebengine
-    url: https://github.com/qt/qtwebengine
-    description: Render web content in Qt.
-    license: Open Source
-    entry_type: tool
-    best_for: Embedded web view in Qt apps
-    tags:
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Qt
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
   - name: MayaCharm
     url: https://github.com/cmcpasserby/MayaCharm
     description: Run and edit Maya scripts directly from PyCharm
@@ -726,38 +549,6 @@ entries:
     url_status: ok
     stale: true
     last_pushed: '2018-10-29'
-  - name: LLM App
-    url: https://github.com/pathwaycom/llm-app
-    description: LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
-    license: Open Source
-    entry_type: tool
-    best_for: Real-time LLM data pipelines
-    tags:
-      tech:
-        - opensource-alt
-        - ai-ml
-    readme_tags:
-      - LLM
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
-  - name: shashikg/WhisperS2T
-    url: https://github.com/shashikg/WhisperS2T
-    description: An Optimized Speech-to-Text Pipeline for the Whisper Model
-    license: Open Source
-    entry_type: tool
-    best_for: Optimized Whisper STT
-    tags:
-      tech:
-        - opensource-alt
-        - ai-ml
-    readme_tags:
-      - Speech-to-Text
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: misfit flagged'
   - name: TerraForge3D
     url: https://jaysmito101.github.io/TerraForge3D/
     description: A procedural terrain generation and procedural modeling toolkit.

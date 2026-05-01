@@ -82,3 +82,44 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+  - name: UPBGE (site)
+    url: https://upbge.org/
+    description: Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
+    entry_type: software
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: OpenXRay
+    url: https://github.com/OpenXRay/xray-16
+    description: Community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Game Engine
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+      output:
+        - games
+  - name: Py Game CE
+    url: https://pyga.me/docs/index.html
+    description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Python
+      - Game Library
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games

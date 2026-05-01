@@ -252,3 +252,34 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     tags: {}
+  - name: Make Human
+    url: http://www.makehumancommunity.org/
+    description: Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender)) [![][repo]](https://github.com/makehumancommunity/makehuman)
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Character Creation
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - opensource-alt
+        - blender-addon
+  - name: Sculptron
+    url: https://render.otoy.com/forum/viewtopic.php?f=7&t=73665
+    description: GPU-based tool for sculpting animation caches and for converting mesh sequences to volumes. The software is currently available free during early development.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Sculpting
+      - Otoy Forum
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - gpu

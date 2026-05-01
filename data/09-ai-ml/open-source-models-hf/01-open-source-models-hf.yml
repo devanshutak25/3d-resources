@@ -29,3 +29,18 @@ entries:
     notes: entry_type 'reference' used for HF model card; could be 'tool' if treated as runnable model.
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Hugging Face Transformers
+    url: https://huggingface.co/transformers
+    description: State-of-the-art NLP models and pipelines.
+    license: Open Source
+    entry_type: software
+    best_for: NLP model pipelines
+    tags:
+      tech:
+        - opensource-alt
+        - ai-ml
+    readme_tags:
+      - NLP
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok

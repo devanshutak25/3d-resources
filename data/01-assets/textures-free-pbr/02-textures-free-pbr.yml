@@ -77,3 +77,14 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     tags: {}
+  - name: Substance Source/freebies
+    url: https://source.substance3d.com/allassets?free=true
+    description: '[$] : Hundreds of high quality PBR materials.'
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon

@@ -189,3 +189,14 @@ entries:
     readme_tags:
       - Prompt Guide
       - GPT-4
+  - name: Gigapixel AI
+    url: https://topazlabs.com/gigapixel-ai/
+    description: '[$] : is the only photo enlargement product available that can actually add detail back to your upscaled photo.'
+    entry_type: software
+    license: Paid
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon

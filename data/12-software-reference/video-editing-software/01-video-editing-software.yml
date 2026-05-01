@@ -178,3 +178,17 @@ entries:
       - Beginner-Friendly
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: OBS
+    url: https://github.com/obsproject/obs-studio
+    description: Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
+    license: Open Source
+    entry_type: software
+    best_for: Screen capture and streaming
+    tags:
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Capture
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok

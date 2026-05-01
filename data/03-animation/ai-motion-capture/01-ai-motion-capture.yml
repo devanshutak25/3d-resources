@@ -179,3 +179,14 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     tags: {}
+  - name: Carnegie-Mellon University Graphics Lab Motion Capture Database BVH conversions
+    url: https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture
+    description: Contains 2500 free human motion captures.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon

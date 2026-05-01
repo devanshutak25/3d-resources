@@ -120,3 +120,14 @@ entries:
     tags:
       platform:
         - web
+  - name: Developer Documentation
+    url: https://wiki.blender.org/wiki/Main_Page
+    description: Here you can find information about Blender's development process, design and architecture, as well as instructions for Building Blender.
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon

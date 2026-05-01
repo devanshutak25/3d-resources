@@ -523,3 +523,50 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     tags: {}
+  - name: Light Tracer Render
+    url: https://lighttracer.org/
+    description: Provides you with everything you need to create photorealistic renderings interactively, in both desktop Web browsers and Windows application.
+    entry_type: software
+    license: Freemium
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: Sheep it Render Farm
+    url: https://www.sheepit-renderfarm.com/
+    description: Free distributed renderfarm for Blender.
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
+  - name: AMD Blender USD Hydra
+    url: https://gpuopen.com/learn/amd-usd-hydra-blender/
+    description: With Pixar's USD system emerging as a powerful tool for 3D graphics pipelines and interchange, this addon is meant to add first class support for USD and the USD Hydra rendering system to Blender.
+    license: Free
+    entry_type: software
+    best_for: USD Hydra in Blender
+    readme_tags:
+      - USD
+      - Blender
+    url_last_verified: '2026-05-01'
+    url_status: ok
+  - name: Radeon ProRender
+    url: https://www.amd.com/en/technologies/radeon-prorender
+    description: Physically-based engine, product by AMD.
+    license: Free
+    entry_type: software
+    best_for: AMD-backed PBR renderer
+    tags:
+      workflow:
+        - rendering
+    readme_tags:
+      - Renderer
+      - Free
+    url_last_verified: '2026-05-01'
+    url_status: ok

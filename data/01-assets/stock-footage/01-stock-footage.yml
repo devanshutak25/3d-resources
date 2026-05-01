@@ -50,3 +50,14 @@ entries:
       - Free
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: videvo
+    url: https://www.videvo.net/
+    description: '[actionvfx/free-vfx](https://www.actionvfx.com/collections/free-vfx/category), [videezy](https://www.videezy.com/), [pixabay](https://pixabay.com/videos/search/)'
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - blender-addon
