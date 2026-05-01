@@ -220,3 +220,17 @@ entries:
         - illustration
       platform:
         - web
+  - name: Story Set
+    url: https://storyset.com/
+    description: Edit and animate customizable illustrations to enhance your projects totally free.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      output:
+        - illustration
+      platform:
+        - web

@@ -243,3 +243,17 @@ entries:
       - Cloth/Hair/Soft Body
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: CharMorph
+    url: https://blenderartists.org/t/charmorph-character-creation-tool-mb-lab-based/1252543
+    description: An open source character creation tool for Blender. It's a rewrite of [MB-Lab](https://github.com/animate1978/MB-Lab), which is now unmaintained. [![][repo]](https://github.com/Upliner/CharMorph)
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rigging
+        - modeling
+      tech:
+        - blender-addon
+        - opensource-alt

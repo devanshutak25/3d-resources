@@ -384,3 +384,15 @@ entries:
         - fx
       tech:
         - opensource-alt
+  - name: SpriteLib
+    url: http://www.widgetworx.com/spritelib/
+    description: Collection of static and animated graphic objects (also commonly known as sprites).
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web

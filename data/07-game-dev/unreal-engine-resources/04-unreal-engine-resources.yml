@@ -357,3 +357,20 @@ entries:
         - web
       output:
         - games
+  - name: Animated Crosshairs UE4
+    url: https://github.com/BitReign/AnimatedCrosshairsUE4
+    description: Animated Crosshairs for Unreal Engine 4 provides 17 ready to use animated UMG widgets including demo scene to test their combination
+    entry_type: asset-source
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      tech:
+        - opensource-alt
+        - unreal-plugin
+    stale: true
+    last_pushed: '2020-11-26'

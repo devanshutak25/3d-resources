@@ -485,3 +485,65 @@ entries:
     tags:
       platform:
         - web
+  - name: Retro Slide Puzzle (Winner - Animation/Design)
+    url: https://devpost.com/software/retro-slide-puzzle
+    description: Retro Slide Puzzle (Winner - Animation/Design).
+    entry_type: inspiration
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Dash Slide Puzzle (Runner Up - Animation/Design)
+    url: https://devpost.com/software/dash-slide-puzzle
+    description: Dash Slide Puzzle (Runner Up - Animation/Design).
+    entry_type: inspiration
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Island Slide Puzzle (Third Place - Animation/Design)
+    url: https://devpost.com/software/beautiful-puzzle
+    description: Island Slide Puzzle (Third Place - Animation/Design).
+    entry_type: inspiration
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Sliding Puzzle 3D (Honorable Mention)
+    url: https://devpost.com/software/sliding-puzzle-3d
+    description: Sliding Puzzle 3D (Honorable Mention).
+    entry_type: inspiration
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Animated AI
+    url: https://animatedai.github.io/
+    description: Animations and instructional videos about neural networks
+    entry_type: channel
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      output:
+        - scientific-viz
+      platform:
+        - web

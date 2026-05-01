@@ -268,3 +268,17 @@ entries:
         - opensource-alt
       platform:
         - web
+  - name: Emojiz
+    url: https://emojiz.design
+    description: 77+ animated 3D emoji illustrations with Blender source files
+    entry_type: asset-source
+    license: Paid
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      output:
+        - illustration
+      platform:
+        - web
