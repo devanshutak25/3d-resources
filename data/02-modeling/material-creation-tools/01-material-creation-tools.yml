@@ -152,6 +152,27 @@ entries:
       - Free
     url_last_verified: '2026-04-19'
     url_status: ok
+  - name: Filter Forge
+    url: https://filterforge.com/
+    description: Node-based filter editor with library of thousands of seamless textures and photo effects; standalone or Photoshop/Affinity plugin.
+    license: Paid
+    entry_type: software
+    best_for: Procedural textures and photo filters
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - procedural
+        - node-based
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Procedural
+      - PS Plugin
+    url_last_verified: '2026-05-01'
+    url_status: ok
   - name: Materia
     url: https://github.com/Metric/Materia
     description: An open-source alternative to Substance Designer written in C#. *(The project was archived)*.

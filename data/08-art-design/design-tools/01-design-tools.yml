@@ -245,6 +245,24 @@ entries:
     tags:
       platform:
         - web
+  - name: ArcBrush
+    url: https://arcbrush.com/
+    description: Node-based non-destructive image editor for generating asset variants and export formats; optional credit-based AI features.
+    license: Freemium
+    entry_type: software
+    best_for: Node-based batch image editing
+    tags:
+      tech:
+        - node-based
+        - ai-generative
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Node-based
+      - Non-destructive
+    url_last_verified: '2026-05-01'
+    url_status: ok
   - name: Mockup Photos
     url: https://mockup.photos/
     description: Device and print mockup library.
