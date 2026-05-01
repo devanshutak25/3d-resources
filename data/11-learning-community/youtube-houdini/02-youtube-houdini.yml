@@ -132,3 +132,18 @@ entries:
     tags:
       platform:
         - web
+  - name: Chris Brejon
+    url: https://chrisbrejon.com/
+    description: CG cinematography guide and Solaris/USD reference.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Solaris
+      - Lookdev
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - houdini
+      platform:
+        - web
