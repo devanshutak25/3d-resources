@@ -327,3 +327,33 @@ entries:
       platform:
         - web
     notes: 'MISFIT FLAG: was tagged tech:unreal-plugin but is a YouTube channel; tech tag removed.'
+  - name: Unreal Engine
+    url: https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ
+    description: The official Unreal Engine YouTube channel with weekly live streams.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Unreal
+      - Official
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+  - name: Unreal Engine Official YouTube
+    url: https://www.youtube.com/@UnrealEngine
+    description: Unreal Engine Official YouTube.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Unreal
+      - Official
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games

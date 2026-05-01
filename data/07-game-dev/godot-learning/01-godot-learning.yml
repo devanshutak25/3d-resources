@@ -124,3 +124,20 @@ entries:
         - opensource-alt
       platform:
         - web
+  - name: Introduction into the new Godot OpenVR Asset
+    url: https://www.youtube.com/@BastiaanOlij
+    description: Introduction into the new Godot OpenVR Asset.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Godot
+      - VR
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+      tech:
+        - xr

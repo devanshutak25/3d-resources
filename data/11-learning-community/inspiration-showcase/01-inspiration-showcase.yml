@@ -472,3 +472,16 @@ entries:
         - web
       tech:
         - opensource-alt
+  - name: The Gaming Library
+    url: https://www.youtube.com/@TheGamingLibraryYT
+    description: And admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of CG today.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Showcase
+      - Games
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web

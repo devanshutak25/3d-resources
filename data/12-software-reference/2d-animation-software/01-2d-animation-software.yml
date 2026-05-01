@@ -533,3 +533,29 @@ entries:
       - Roguelike
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: AJ Picard
+    url: https://www.youtube.com/@ajpicard.design
+    description: Complex background animations using SwiftUI & Rive.App
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - SwiftUI
+      - Rive
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Pointer Tracking Animation Implemented in Webflow
+    url: https://www.youtube.com/@jeffamcavoy
+    description: How to set up a Rive file with pointer tracking for Webflow implementation.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Rive
+      - Webflow
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web

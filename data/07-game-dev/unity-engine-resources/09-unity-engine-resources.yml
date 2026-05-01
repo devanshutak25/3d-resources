@@ -637,3 +637,71 @@ entries:
         - web
     readme_tags:
       - unity-plugin
+  - name: Super Mario Bros AR Game
+    url: https://www.youtube.com/@shekitup
+    description: AR game built with Microsoft HoloLens and Unity3D
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - AR
+      - HoloLens
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+      tech:
+        - xr
+  - name: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !
+    url: https://www.youtube.com/@cooleobrad
+    description: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Unity
+      - VR
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+      tech:
+        - xr
+  - name: Leading Ones (LeadingOnesVR)
+    url: https://www.youtube.com/@LeadingOnesVR
+    description: 'Unity VR: EditorVR Quick Look.'
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Unity
+      - VR
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+      tech:
+        - xr
+  - name: Unity Mecanim VR IK vs Final IK
+    url: https://www.youtube.com/@createthisdotcom
+    description: '[VR IK using native Unity Mecanim IK](https://github.com/createthis/unity_vr_ik_mecanim)'
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Unity
+      - IK
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
+      tech:
+        - xr

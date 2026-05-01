@@ -238,3 +238,18 @@ entries:
         - games
       platform:
         - web
+  - name: The Cherno Project
+    url: https://www.youtube.com/@TheCherno
+    description: While not specific to Unreal Engine, Cherno has tons of great C++ and general game engine content.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - C++
+      - Engines
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - games
