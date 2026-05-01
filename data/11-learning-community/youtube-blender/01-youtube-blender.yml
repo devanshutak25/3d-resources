@@ -654,3 +654,11 @@ entries:
         - blender
       platform:
         - web
+  - name: Blender Sushi
+    url: https://blendersushi.blogspot.com/
+    description: Collection of 3D ideas, poetries and experiments blended in Blender 3D.
+    license: Free
+    entry_type: channel
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

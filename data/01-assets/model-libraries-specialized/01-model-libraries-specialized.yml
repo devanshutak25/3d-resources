@@ -239,3 +239,19 @@ entries:
       - Reference
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Artec 3D
+    url: https://www.artec3d.com/3d-models
+    description: Download high resolution 3D scans for free. (CC-BY)
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: Scanned Female Head Model by EISKO
+    url: https://eisko.com/louise/
+    description: '[Scanned 3D People from Renderpeople](https://renderpeople.com/free-3d-people/), [Scans from Louvre Museum](https://gumroad.com/l/xAQxj)'
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

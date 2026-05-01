@@ -593,3 +593,11 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2024-01-27'
+  - name: Blend Swap
+    url: https://www.blendswap.com/blends
+    description: blend file asset source, not an addon. The one place for Open Source Blender files.
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
+    tags: {}

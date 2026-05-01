@@ -341,3 +341,11 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2023-01-11'
+  - name: Quixel Mixer
+    url: https://quixel.com/mixer
+    description: Create photorealistic, tileable, materials in seconds with powerful mixing and painting.
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

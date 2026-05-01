@@ -39,3 +39,19 @@ entries:
       workflow:
         - texturing
         - material-authoring
+  - name: Programming Add-ons for Blender 2.8
+    url: http://airplanes3d.net/pydev-000_e.xml
+    description: It shows how to set up a professional IDE for writing Python programs for Blender, on the example of a simple plugin. It is an ebook, published freely on Creative Commons license.
+    license: Free
+    entry_type: tutorial
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: blenderscripting
+    url: https://blenderscripting.blogspot.com/
+    description: Blender related python snippets to get you started.
+    license: Free
+    entry_type: tutorial
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

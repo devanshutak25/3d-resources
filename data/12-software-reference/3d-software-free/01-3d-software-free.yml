@@ -220,3 +220,35 @@ entries:
     tags:
       tech:
         - opensource-alt
+  - name: Mandelbulb3D (original)
+    url: http://www.andreas-maschke.com/?page_id=4607
+    description: Free software application created for 3D fractal imaging. [![][repo]](https://github.com/thargor6/mb3d)
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: Clavicula
+    url: https://clavicula.link/
+    description: Intuitive and free 3D modeling software for everyone.
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: TerreSculptor
+    url: http://www.demenzunmedia.com/home/terresculptor/
+    description: Terrain creation and editing software. It is freeware.
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: TreeIt
+    url: https://www.evolved-software.com/treeit/treeit
+    description: Easy to use real time 3D tree generator for the simple creation.
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

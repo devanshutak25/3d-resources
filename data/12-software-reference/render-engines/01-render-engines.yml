@@ -515,3 +515,11 @@ entries:
     tags:
       workflow:
         - rendering
+  - name: aerialod
+    url: https://ephtracy.github.io/index.html?page=aerialod
+    description: A free interactive path tracing renderer for height maps.
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

@@ -611,3 +611,61 @@ entries:
       output:
         - games
         - xr
+  - name: Blender Awesome List
+    url: https://github.com/agmmnn/awesome-blender
+    description: More addons and resources around Blender in this awesome list.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: The Blend
+    url: https://blend.beehiiv.com
+    description: Weekly articles & lessons on Blender & 3D
+    license: Free
+    entry_type: channel
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: 💬blender.chat
+    url: https://blender.chat/
+    description: Official chat server for artists and developers.
+    license: Free
+    entry_type: community
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: SculptJanuary
+    url: https://www.cgboost.com/challenges
+    description: Challenge yourself over 31 days with a set of 31 topics.
+    license: Free
+    entry_type: community
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: Blender Conference
+    url: https://conference.blender.org/
+    description: 'The yearly Blender Conference in Amsterdam. (Playlists: [Bcon25](https://www.youtube.com/playlist?list=PLa1F2ddGya_8u-HEvmfCVuS_OImW8HaLd)'
+    license: Free
+    entry_type: community
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: 🔌 Developer Portal
+    url: https://developer.blender.org/
+    description: '[💭 DevTalk](https://devtalk.blender.org/) | [💻 Developers Blog](https://code.blender.org/)'
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
+  - name: fb/blender
+    url: https://fb.com/groups/2207257375/
+    description: Blender Facebook group.
+    license: Free
+    entry_type: community
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

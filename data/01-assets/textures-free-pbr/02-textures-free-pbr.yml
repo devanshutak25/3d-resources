@@ -69,3 +69,11 @@ entries:
         - web
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: The Blendersauce Vault Materials
+    url: http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
+    description: Abstract, Bricks and Walls, Concrete, Fabric, Fluids, Food, Manmade, Metal, Metal painted Materials, Nature, Plaster, Rocks/Stones, Tiles, Wood.
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

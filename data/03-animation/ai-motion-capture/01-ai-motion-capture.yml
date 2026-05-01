@@ -171,3 +171,11 @@ entries:
         - blender
     stale: true
     last_pushed: '2023-07-04'
+  - name: ActorCore
+    url: https://actorcore.reallusion.com/free
+    description: Motion-capture library from Reallusion.
+    license: Freemium
+    entry_type: asset-source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

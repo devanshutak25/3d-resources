@@ -716,3 +716,11 @@ entries:
         - web
       tech:
         - blender-addon
+  - name: BlenderAddons.org
+    url: https://blender-addons.org/
+    description: Provides a list of free and paid Blender addons. Find the addon you need under categories or tags.
+    license: Free
+    entry_type: marketplace
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

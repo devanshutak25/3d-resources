@@ -47,3 +47,11 @@ entries:
       - Reference Data
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Anatomy 360, Free Reference
+    url: https://anatomy360.info/anatomy-scan-reference-dump/
+    description: 3D scanned human reference images.
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

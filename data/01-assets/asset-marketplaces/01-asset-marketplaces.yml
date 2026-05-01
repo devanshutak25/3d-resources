@@ -115,3 +115,11 @@ entries:
       workflow:
         - texturing
         - material-authoring
+  - name: Quixel Bridge
+    url: https://quixel.com/bridge
+    description: Connects Megascans to all your favorite tools including Blender.
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}

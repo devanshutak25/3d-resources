@@ -131,3 +131,11 @@ entries:
       - ASWF
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Connecter
+    url: https://www.designconnected.com/connecter
+    description: Free and visual creative assets management for 3d, AEC and design professionals.
+    license: Free
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags: {}
