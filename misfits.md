@@ -35,64 +35,58 @@ Both indicate the same thing: entry sits in the wrong section. Cleanup = move + 
 
 ## What's done
 
-| Section | Misfits cleared |
-|---|---|
-| `11-learning-community/youtube-houdini/01` | 38 |
-| `03-animation/animation-learning-channels/01` | 26 |
+| Section | Misfits cleared | Round |
+|---|---|---|
+| `11-learning-community/youtube-houdini/01` | 38 | R1 |
+| `03-animation/animation-learning-channels/01` | 26 | R2 |
+| Singletons (audio-sfx-music, textures-specialized, game-dev-analytics, unreal/04) | 4 | R3 |
+| `unity-engine-resources/03/06/08` + `unreal-engine-resources/03` + `xr-ar-vr/01` | 17 | R3 |
+| `rendering-shader-theory/01` + `ai-assisted-cg-tools/01` + `photogrammetry-scanning/02` + `game-design-theory/01` + `model-libraries-specialized/01` | 25 | R3 |
 
-**Total: 64 of ~266 cleaned.**
+**Total: ~110 cleaned. 13 files (~193 markers) remaining.**
 
-Three new entries also added during this session (Rebelle 8 Pro → drawing-painting-3d, ArcBrush → design-tools, Filter Forge → material-creation-tools).
+Three new entries also added in earlier sessions (Rebelle 8 Pro → drawing-painting-3d, ArcBrush → design-tools, Filter Forge → material-creation-tools).
+
+## R3 session decisions log (2026-05-01)
+
+User-confirmed deletes (low-value / off-topic): `Javascript Voronoi`, `Unity Container`, `MobileLegend`, `IndoorAtlas`, `MonoDevelop`, `WakaTime`, `RGFW`, `Leonid Keselman` (GitHub user profile).
+
+User-confirmed in-place strip (note removed, entry kept where it was — Sapphire is a video VFX plugin but lives in audio-sfx-music per user; Steam Playtest stays in game-dev-analytics; entries in unreal/03 already had tag-fixes applied, just stale notes).
+
+Photogrammetry renames: `Paper.Pdf` → `Color-NeRF`, `**Browse the Paper List**` → `Awesome-3DGS Paper List`, `Ha-NeRF:laughing::...` → `Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild`.
+
+XR-AR-VR moves: `Blender Stack Exchange` → communities-forums/02; `Game Dev Cave` → game-dev-learning-channels/01; `Game View Maximizer` → unity-engine-resources/09; `OpenRPG Quest` → unreal-engine-resources/04.
 
 ## What's next — task list (priority order)
 
-### MISFIT files (31 remaining)
+All remaining 13 files use **RELOCATE:** notation (no `# MISFIT:` comments left).
 
-- [ ] `11-learning-community/communities-forums/02` — note: this file uses **RELOCATE:** notation, not `# MISFIT:` comments. 31 entries flagged. Big job.
-- [ ] `11-learning-community/communities-forums/01` — 13 RELOCATE entries.
-- [ ] `07-game-dev/unity-engine-resources/08` — 6 MISFITs.
-- [ ] `07-game-dev/unreal-engine-resources/03` — 5 MISFITs.
-- [ ] `04-lighting/rendering-shader-theory/01` — 5 RELOCATE.
-- [ ] `09-ai-ml/ai-assisted-cg-tools/01` — 7 RELOCATE.
-- [ ] `07-game-dev/xr-ar-vr/01` — 4 MISFITs.
-- [ ] `10-tools-pipeline/photogrammetry-scanning/02` — 4 RELOCATE.
-- [ ] `07-game-dev/game-design-theory/01` — 4 RELOCATE.
-- [ ] `01-assets/model-libraries-specialized/01` — 4 RELOCATE.
-- [ ] `07-game-dev/unity-engine-resources/03` — 2 MISFITs.
-- [ ] `07-game-dev/unity-engine-resources/06` — 2 MISFITs.
-- [ ] `02-modeling/blender-plugins-addons/03` — 2 RELOCATE.
-- [ ] `01-assets/stock-images/01` — 2 RELOCATE.
-- [ ] singletons: `audio-sfx-music`, `textures-specialized`, `game-dev-analytics`, `unreal-engine-resources/04` — 1 each.
-
-### RELOCATE-heavy files
+### Big RELOCATE batches
 
 - [ ] `01-assets/textures-free-pbr/02` — 33
-- [ ] `11-learning-community/communities-forums/02` — 31 (also listed above)
+- [ ] `11-learning-community/communities-forums/02` — 31
 - [ ] `01-assets/textures-free-pbr/01` — 29
 - [ ] `02-modeling/blender-plugins-addons/01` — 28
 - [ ] `02-modeling/blender-plugins-addons/02` — 14
 - [ ] `10-tools-pipeline/scene-pipeline-tools/01` — 14
+- [ ] `11-learning-community/communities-forums/01` — 13
 - [ ] `01-assets/fonts/01` — 11
 - [ ] `01-assets/model-libraries-free-general/01` — 10
-- [ ] `09-ai-ml/ai-assisted-cg-tools/01` — 7 (also above)
-- [ ] `07-game-dev/unreal-engine-resources/03` — 5 (also above)
-- [ ] `04-lighting/rendering-shader-theory/01` — 5 (also above)
-- [ ] `07-game-dev/game-design-theory/01` — 4 (also above)
-- [ ] `10-tools-pipeline/photogrammetry-scanning/02` — 4 (also above)
-- [ ] `01-assets/model-libraries-specialized/01` — 4 (also above)
-- [ ] `10-tools-pipeline/plugin-marketplaces/02` — 3
+
+### Tail RELOCATEs
+
 - [ ] `01-assets/hdris/01` — 3
-- [ ] `01-assets/stock-images/01` — 2 (also above)
-- [ ] `02-modeling/blender-plugins-addons/03` — 2 (also above)
-- [ ] singletons across 4 files — 1 each
+- [ ] `10-tools-pipeline/plugin-marketplaces/02` — 3
+- [ ] `01-assets/stock-images/01` — 2
+- [ ] `02-modeling/blender-plugins-addons/03` — 2
 
 ### Suggested order
 
-1. Knock out 1-MISFIT singletons first (cheap wins, ~30 min).
-2. `unity-engine-resources/03/06/08` and `unreal-engine-resources/03/04` — same pattern as Round 1, fast.
-3. `xr-ar-vr/01` (4 MISFITs).
-4. Then the big RELOCATE batches: `textures-free-pbr` 01+02 (62 combined), `blender-plugins-addons` 01+02+03 (44), `communities-forums` 01+02 (44).
-5. Remaining RELOCATEs by impact.
+1. Tail (4 files, 10 markers) — cheap warmup.
+2. `textures-free-pbr` 01+02 (62 combined) — likely all PBR misclass moves to other texture/material sections.
+3. `blender-plugins-addons` 01+02+03 (44) — split between `02-modeling/blender-plugins-addons/<latest>` consolidation and category moves.
+4. `communities-forums` 01+02 (44) — moves to specific community/inspiration subsections.
+5. `scene-pipeline-tools/01`, `fonts/01`, `model-libraries-free-general/01` — remaining moderate batches.
 
 ## Standing decisions from user
 

@@ -396,3 +396,34 @@ entries:
         - animation
       platform:
         - web
+  - name: ShoeBox
+    url: http://renderhjs.net/shoebox/
+    description: Adobe Air based app with game and ui related tools.
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+  - name: GlueIT
+    url: https://github.com/Kavex/GlueIT
+    description: Free Simple Spritesheet Tool
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - opensource-alt
+    archived: true
+  - name: Fusion Character Animator
+    url: http://loopengo.free.fr/
+    description: Small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      output:
+        - games

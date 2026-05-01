@@ -505,3 +505,13 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2024-01-28'
+  - name: Horde3D
+    url: http://www.horde3d.org/
+    description: Small open source 3D rendering engine.
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering

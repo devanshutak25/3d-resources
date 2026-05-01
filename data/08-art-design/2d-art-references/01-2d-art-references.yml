@@ -30,3 +30,20 @@ entries:
       - Tutorials
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Dimensions.com
+    url: https://www.dimensions.com/
+    description: Dimensioned drawings database.
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+        - modeling
+      output:
+        - archviz
+        - product-viz
+    readme_tags:
+      - Dimensions
+      - Reference Data
+    url_last_verified: '2026-05-01'
+    url_status: ok

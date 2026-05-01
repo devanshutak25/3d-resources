@@ -241,3 +241,13 @@ entries:
       - Proprietary
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Unity 3D
+    url: http://unity3d.com/
+    description: A development engine for the creation of 2D and 3D games and interactive content.
+    entry_type: software
+    license: Freemium
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - games

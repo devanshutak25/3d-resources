@@ -100,3 +100,31 @@ entries:
       - Maya
     stale: true
     last_pushed: '2022-11-16'
+  - name: AccuRIG
+    url: https://actorcore.reallusion.com/auto-rig
+    description: Free application designed for fast and easy character rigging.
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rigging
+        - skinning
+      output:
+        - games
+        - film-vfx
+  - name: ossos
+    url: https://github.com/sketchpunklabs/ossos
+    description: A complete character skinning & animation library for the web
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - opensource-alt
+      platform:
+        - web

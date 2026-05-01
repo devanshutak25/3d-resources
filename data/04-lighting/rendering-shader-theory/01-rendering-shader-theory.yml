@@ -664,62 +664,34 @@ entries:
         - unity-plugin
     stale: true
     last_pushed: '2017-08-07'
-  - name: Coquette
-    url: http://coquette.maryrosecook.com/
-    description: A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
+  - name: Terrain Rendering Using GPU-Based Geometry Clipmaps
+    url: https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter02.html
+    description: GPU Gems 2 - Chapter 02.
+    license: Free
     entry_type: reference
-    license: Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
-    notes: 'RELOCATE: 07-game-dev (JS game framework, not shader/rendering theory)'
     tags:
-      workflow:
-        - rendering
-      output:
-        - games
-  - name: Stage.js
-    url: http://piqnt.com/stage.js/
-    description: Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
+      tech:
+        - gpu
+  - name: Fast Terrain Rendering Using Geometrical MipMapping
+    url: https://www.flipcode.com/archives/article_geomipmaps.pdf
+    description: Fast Terrain Rendering Using Geometrical MipMapping.
+    license: Free
     entry_type: reference
-    license: Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
-    notes: 'RELOCATE: 07-game-dev (2D HTML5 layout, not shader theory)'
     tags:
-      workflow:
-        - rendering
-      output:
-        - games
-  - name: Horde3D
-    url: http://www.horde3d.org/
-    description: Small open source 3D rendering engine.
-    entry_type: reference
-    license: Open Source
+      tech:
+        - gpu
+  - name: Ray Tracey's blog
+    url: http://raytracey.blogspot.com/
+    description: Sam Lapere's blog, leads the scientific team at EPFL Blue Brain Project. Lots of post about real time rendering
+    license: Free
+    entry_type: channel
     url_last_verified: '2026-05-01'
     url_status: ok
-    notes: 'RELOCATE: 12-software-reference/render-engines (engine, not theory reference)'
     tags:
-      workflow:
-        - rendering
-  - name: Gorgon
-    url: https://www.tape-worm.net/
-    description: A 2D rendering API for .NET, written in C#.
-    entry_type: reference
-    license: Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: tools (2D .NET API, not shader theory)'
-    tags:
-      workflow:
-        - rendering
-  - name: Unity 3D
-    url: http://unity3d.com/
-    description: A development engine for the creation of 2D and 3D games and interactive content.
-    entry_type: software
-    license: Freemium
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'RELOCATE: 12-software-reference/game-engines-commercial (engine, not theory)'
-    tags:
-      output:
-        - games
+      tech:
+        - ray-tracing
+        - real-time

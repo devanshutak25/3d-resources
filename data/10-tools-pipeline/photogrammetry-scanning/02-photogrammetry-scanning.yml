@@ -29,19 +29,6 @@ entries:
     readme_tags:
       - gaussian-splatting
       - '360'
-  - name: Leonid Keselman
-    url: https://github.com/leonidk
-    description: For informing me about the release of the paper "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting".
-    entry_type: reference
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: 'MISFIT: GitHub user profile, not a resource. Candidate for removal/relocation.'
-    tags:
-      tech:
-        - photogrammetry
-        - gaussian-splatting
-    readme_tags:
-      - researcher
   - name: 'HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video'
     url: https://grail.cs.washington.edu/projects/humannerf/
     description: Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf) | [bibtex](./citations/humannerf.txt)
@@ -192,13 +179,12 @@ entries:
     readme_tags:
       - nerf
       - voxel
-  - name: Paper.Pdf
+  - name: Color-NeRF
     url: https://liquidammonia.github.io/color-nerf/assets/paper.pdf
     description: '[🌐 Project Page](https://liquidammonia.github.io/color-nerf/)'
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
-    notes: 'MISFIT: name is generic ("Paper.Pdf"), needs rename. Color-NeRF paper PDF.'
     tags:
       tech:
         - photogrammetry
@@ -247,13 +233,12 @@ entries:
     readme_tags:
       - nerf
       - large-scale
-  - name: '**Browse the Paper List**'
+  - name: Awesome-3DGS Paper List
     url: https://mrnerf.github.io/awesome-3D-gaussian-splatting/
     description: '[**Contribute**](CONTRIBUTING.md) | [**MrNeRF**](https://www.mrnerf.com)'
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
-    notes: 'MISFIT: name has markdown formatting and is non-descriptive. Awesome-3DGS paper list.'
     tags:
       tech:
         - photogrammetry
@@ -399,14 +384,13 @@ entries:
     readme_tags:
       - nerf
       - calibration
-  - name: 'Ha-NeRF:laughing:: Hallucinated Neural Radiance Fields in the Wild'
+  - name: 'Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild'
     url: https://rover-xingyu.github.io/Ha-NeRF/
     description: Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF) | [bibtex](./citations/Ha-NeRF.txt) <!---chen2021hallucinated-->
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
-    notes: 'MISFIT: name contains emoji shortcode ":laughing:" — clean before publishing.'
     tags:
       tech:
         - photogrammetry

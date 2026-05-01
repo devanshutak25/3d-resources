@@ -14,3 +14,58 @@ entries:
     readme_tags:
       - games
       - opensource-alt
+  - name: Coquette
+    url: http://coquette.maryrosecook.com/
+    description: A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+  - name: Stage.js
+    url: http://piqnt.com/stage.js/
+    description: Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+  - name: Gorgon
+    url: https://www.tape-worm.net/
+    description: A 2D rendering API for .NET, written in C#.
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+  - name: gameplay
+    url: http://gameplay3d.io/
+    description: A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
+    license: Open Source
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+  - name: PixiJS
+    url: http://www.pixijs.com/
+    description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
+    license: Open Source
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - real-time
+        - opensource-alt
