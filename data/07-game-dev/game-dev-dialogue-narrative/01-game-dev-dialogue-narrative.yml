@@ -70,6 +70,8 @@ entries:
         - games
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-10-17'
   - name: Ink Unity Integration
     url: https://github.com/inkle/ink-unity-integration
     description: Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.

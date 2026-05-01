@@ -398,6 +398,8 @@ entries:
         - opensource-alt
       workflow:
         - concept
+    stale: true
+    last_pushed: '2023-12-10'
   - name: Aga Miko/pixel Character Generator
     url: https://github.com/AgaMiko/pixel_character_generator
     description: Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
@@ -411,6 +413,8 @@ entries:
         - opensource-alt
       workflow:
         - concept
+    stale: true
+    last_pushed: '2020-05-24'
   - name: sd-concepts-library (Stable Diffusion concepts library)
     url: https://huggingface.co/sd-concepts-library
     description: Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!

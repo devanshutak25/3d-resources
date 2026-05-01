@@ -48,6 +48,7 @@ entries:
       - Archived
     url_last_verified: '2026-05-01'
     url_status: ok
+    archived: true
   - name: PSOFT Pencil+ 4
     url: https://psoft.co.jp/en/product/pencil/blender/
     description: NPR line rendering.
@@ -118,6 +119,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2022-05-04'
   - name: Blender Pyblish
     url: https://github.com/jasperges/pyblish-blender
     description: Blender Addon to integrate the Pyblish framework
@@ -130,6 +133,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2022-01-22'
   - name: Blender Vscode
     url: https://github.com/JacquesLucke/blender_vscode
     description: Visual Studio Code extension for Blender development.
@@ -154,6 +159,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-10-25'
   - name: Tissue
     url: https://github.com/alessandro-zomparelli/tissue
     description: Blender's add-on for computational design.
@@ -190,6 +197,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2024-04-14'
   - name: Quixel Bridge
     url: https://quixel.com/bridge
     description: 'RELOCATE: standalone bridge tool/asset-source, not a Blender addon. Connects Megascans to all your favorite tools including Blender.'

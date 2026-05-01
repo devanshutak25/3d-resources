@@ -100,6 +100,8 @@ entries:
       tech:
         - xr
         - opensource-alt
+    stale: true
+    last_pushed: '2019-06-21'
   - name: VR Development - Unity Learn
     url: https://learn.unity.com/pathway/vr-development
     description: '``Unity`` guided learning Pathway will prepare you for a job in the VR industry |'
@@ -283,6 +285,8 @@ entries:
         - xr
         - opensource-alt
         - blender-addon
+    stale: true
+    last_pushed: '2023-05-07'
   - name: Quests
     url: https://github.com/angelhodar/OpenRPG_Quest
     description: Efficient and rich featured quests system for Unreal Engine 4
@@ -299,6 +303,8 @@ entries:
         - opensource-alt
         - unreal-plugin
     notes: MISFIT — generic UE4 quest system, not XR-specific.
+    stale: true
+    last_pushed: '2023-11-12'
   - name: Tensorflow2 Ue4 AR
     url: https://github.com/Allysony/tensorflow2-ue4-ar
     description: Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
@@ -313,6 +319,8 @@ entries:
       tech:
         - xr
         - opensource-alt
+    stale: true
+    last_pushed: '2021-06-09'
   - name: Sceneform Android SDK Maintained
     url: https://github.com/SceneView/sceneform-android
     description: ARCore Android SDK with Google Filament 3D engine. Continuation of Google Sceneform
@@ -327,3 +335,4 @@ entries:
       tech:
         - xr
         - opensource-alt
+    archived: true

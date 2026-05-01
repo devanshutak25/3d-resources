@@ -81,6 +81,8 @@ entries:
         - games
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2015-05-07'
   - name: Slynyrd
     url: https://www.patreon.com/slynyrd
     description: American, game designer with tons of material, game specific knowledge and mini-tutorials.
@@ -278,6 +280,7 @@ entries:
         - games
       tech:
         - opensource-alt
+    archived: true
   - name: Epic Games
     url: https://github.com/epicgames
     description: Epic Games on GitHub — official Unreal Engine and related repos.

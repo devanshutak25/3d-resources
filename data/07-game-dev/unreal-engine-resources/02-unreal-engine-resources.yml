@@ -15,6 +15,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-10-05'
   - name: SCUE5 Plugin
     url: https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
     description: SCUE updated to Unreal 5.
@@ -31,6 +33,7 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
   - name: ALS Refactored
     url: https://github.com/Sixze/ALS-Refactored
     description: Completely reworked and improved C++ version of Advanced Locomotion System V4.
@@ -95,6 +98,9 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2021-05-26'
   - name: Swipe
     url: https://github.com/getsetgames/Swipe
     description: A plugin for Unreal Engine 4 that exposes swipes on mobile devices as events in blueprint
@@ -111,6 +117,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-03-20'
   - name: Morphs Player
     url: https://github.com/JanSeliv/MorphsPlayer
     description: A plugin that allows to play Morph Targets directly on the animation track of your skeletal mesh.
@@ -159,6 +167,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-11-28'
   - name: Ps Facebook Mobile
     url: https://github.com/PushkinStudio/PsFacebookMobile
     description: Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
@@ -191,6 +201,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-01-25'
   - name: Acl Ue4 Plugin
     url: https://github.com/nfrechette/acl-ue4-plugin
     description: The official Animation Compression Library Unreal Engine 4 plugin
@@ -207,6 +219,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-12-09'
   - name: KawaiiPhysics
     url: https://github.com/pafuhana1213/KawaiiPhysics
     description: Simple fake Physics for UnrealEngine4
@@ -239,6 +253,7 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
   - name: Articy Importer For Unreal
     url: https://github.com/ArticySoftware/ArticyImporterForUnreal
     description: Articy Importer plugin for the Unreal Engine 4.
@@ -303,6 +318,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-05-16'
   - name: My SQL Connector UE4 Plugin
     url: https://github.com/KhArtNJava/MySQLConnectorUE4Plugin
     description: MySQL Database Connector Plugin for Unreal Engine 4
@@ -319,6 +336,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-12-28'
   - name: SQLite3UE4
     url: https://github.com/KhArtNJava/SQLite3UE4
     description: SQLite3 Database Plugin for Unreal Engine 4
@@ -335,6 +354,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-06-18'
   - name: UE4 Aurora Effect
     url: https://github.com/Hideous/UE4-AuroraEffect
     description: A raymarched aurora borealis effect for Unreal 4
@@ -351,6 +372,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-12-16'
   - name: NiagaraUIRenderer
     url: https://github.com/SourySK/NiagaraUIRenderer
     description: Niagara UI Renderer | Free Plugin for Unreal Engine
@@ -399,6 +422,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-05-26'
   - name: Runtime Mesh Component
     url: https://github.com/Koderz/RuntimeMeshComponent
     description: Unreal Engine 4 plugin component for rendering runtime generated content
@@ -431,6 +456,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-05-13'
   - name: cashgenUE
     url: https://github.com/midgen/cashgenUE
     description: Runtime Procedural Terrain Generator for UnrealEngine
@@ -527,6 +554,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-03-04'
   - name: Horizontal 360 Radar
     url: https://github.com/angelhodar/OpenRPG_RadarSystem
     description: Horizontal 360º rich featured radar system, typically seen in games like Skyrim, for Unreal Engine 4
@@ -543,6 +572,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-11-12'
   - name: Stats + Attributes
     url: https://github.com/angelhodar/OpenRPG_Stats
     description: A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
@@ -559,6 +590,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-03-04'
   - name: Ps Real Vehicle
     url: https://github.com/PushkinStudio/PsRealVehicle
     description: PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
@@ -575,6 +608,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-02-26'
   - name: Weapon Trace Unreal
     url: https://github.com/getnamo/WeaponTrace-Unreal
     description: WeaponTracing plugin for reliable melee combat.
@@ -607,6 +642,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-03-11'
   - name: CensoredUE4
     url: https://github.com/BitReign/CensoredUE4
     description: World space area censoring solution for Unreal Engine 4. It is using blueprint actor for censoring and can be attached to any other blueprint actor like characters
@@ -623,6 +660,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-11-26'
   - name: unrealcv
     url: https://github.com/unrealcv/unrealcv
     description: 'UnrealCV: Connecting Computer Vision to Unreal Engine'
@@ -655,6 +694,9 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2015-05-28'
   - name: Runtime Files Downloader
     url: https://github.com/gtreshchev/RuntimeFilesDownloader
     description: Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
@@ -671,6 +713,7 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
   - name: Runtime Audio Importer
     url: https://github.com/gtreshchev/RuntimeAudioImporter
     description: Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
@@ -687,6 +730,7 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
   - name: Runtime Mesh Loader
     url: https://github.com/Chrizey91/RuntimeMeshLoader
     description: A pluging for Unreal Engine 4, which allows to import meshes during runtime.
@@ -703,6 +747,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-08-31'
   - name: UE4 BYG Localization
     url: https://github.com/BraceYourselfGames/UE4-BYGLocalization
     description: Simple CSV localization system for Unreal Engine 4
@@ -719,6 +765,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-03-26'
   - name: Tensorflow Ue4
     url: https://github.com/getnamo/tensorflow-ue4
     description: TensorFlow plugin for Unreal Engine 4
@@ -767,6 +815,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-12-26'
   - name: AndroidNative
     url: https://github.com/gtreshchev/AndroidNative
     description: Android Native plugin for Unreal Engine that makes it easy to call Java functions via JNI.
@@ -783,6 +833,7 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
   - name: mod.io
     url: https://github.com/modio/modio-ue
     description: Unreal Engine Plugin for easily integrating mod.io into your game - the UGC management service for game developers.

@@ -193,6 +193,8 @@ entries:
       tech:
         - opensource-alt
         - pbr
+    stale: true
+    last_pushed: '2022-03-10'
   - name: fSync
     url: https://github.com/MatsValgaeren/fSync
     description: Unofficial fSpy/Maya bridge which also creates projection shaders.
@@ -220,6 +222,8 @@ entries:
       tech:
         - opensource-alt
         - usd
+    stale: true
+    last_pushed: '2020-09-22'
   - name: Bonzomatic
     url: https://github.com/Gargaj/Bonzomatic
     description: Live-coding editor for OpenGL pixel shaders, where the results appear on background as you edit the code.
@@ -247,6 +251,8 @@ entries:
         - opensource-alt
         - ray-tracing
         - pbr
+    stale: true
+    last_pushed: '2023-09-03'
   - name: 3D Game Shaders (source)
     url: https://github.com/lettier/3d-game-shaders-for-beginners
     description: Open-source project with resources on learning 3D game shaders.
@@ -260,6 +266,8 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2023-06-25'
   - name: Jendrik Illner's blog
     url: https://www.jendrikillner.com/tags/weekly/
     description: Ubisoft 3D programmer posts a weekly summary of articles on 3D graphics — shader tutorials, real-time rendering papers, etc.
@@ -471,6 +479,8 @@ entries:
     readme_tags:
       - Curated
       - VFX Reading
+    stale: true
+    last_pushed: '2022-10-24'
   - name: Shader Displacement for EEVEE
     url: https://gumroad.com/l/WDCRp
     description: Using a few modifiers and a nodegroup, realtime shader displacement in EEVEE is now possible.
@@ -652,6 +662,8 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+    stale: true
+    last_pushed: '2017-08-07'
   - name: Coquette
     url: http://coquette.maryrosecook.com/
     description: A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.

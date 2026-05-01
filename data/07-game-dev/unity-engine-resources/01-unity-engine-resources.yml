@@ -285,6 +285,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-10-01'
   - name: 2D Tech Demos
     url: https://github.com/Unity-Technologies/2d-techdemos
     description: Tech Demos for Unity 2D Features. ![Official](UnityResource16x16.png)
@@ -311,6 +313,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-01-01'
   - name: Unity ECS Instanced Sprite Renderer
     url: https://github.com/paullj/unity-ecs-instanced-sprite-renderer
     description: An example of a simple performant sprite renderer using Unity's new ECS system.
@@ -324,6 +328,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-06-21'
   - name: HermodToolkit
     url: https://github.com/Sirithang/HermodToolkit
     description: A set of 2D tools for Unity.(#2D)
@@ -337,6 +343,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2014-12-17'
   - name: Unity2 D Components
     url: https://github.com/cmilr/Unity2D-Components
     description: A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
@@ -350,6 +358,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-01-23'
   - name: DataRenderer2D
     url: https://github.com/geniikw/DataRenderer2D
     description: Make mesh like line, polygon, etc in Unity3D.
@@ -376,6 +386,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-04-20'
   - name: Live2D with Unity
     url: https://github.com/sera0506/Live-2D-with-Unity
     description: Import Live2D and read mtn file In Unity3D.
@@ -389,6 +401,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-09-07'
   - name: Futile
     url: https://github.com/MattRix/Futile
     description: A super simple Unity 2D framework.
@@ -402,6 +416,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-07-17'
   - name: UnitySVG
     url: https://github.com/MrJoy/UnitySVG
     description: SVG renderer for Unity3D.
@@ -415,6 +431,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2020-10-02'
   - name: Bullet Pattern Editor Unity
     url: https://github.com/unitycoder/BulletPatternEditorUnity
     description: Easily create shoot em up bullet patterns.
@@ -428,6 +447,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-05-08'
   - name: SpriteMaker
     url: https://github.com/KPDwyer/SpriteMaker
     description: Tool for making sprites in Unity.
@@ -441,6 +462,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-06-15'
   - name: Unity3DPolylineEditor
     url: https://github.com/Dandarawy/Unity3DPolylineEditor
     description: 2D Polyline Editor for Unity3D.
@@ -454,6 +477,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-04-07'
   - name: UnitySpline2D
     url: https://github.com/sinbad/UnitySpline2D
     description: A free 2D simple spline library for Unity. (UNMAINTAINED)
@@ -467,6 +492,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2021-04-12'
   - name: Astar Pathfinding
     url: https://github.com/wawethewaras/Astar-Pathfinding
     description: 2D pathfinding for Unity.
@@ -480,6 +508,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2023-11-10'
   - name: Unity A Star Navigation
     url: https://github.com/jeffvella/UnityAStarNavigation
     description: An A* navigation system for Unity using burst compiled jobs for performance.
@@ -493,6 +524,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-12-23'
   - name: Crystal AI
     url: https://github.com/igiagkiozis/CrystalAI
     description: Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
@@ -506,6 +539,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-07-15'
   - name: TsiU AIToolkit CSharp
     url: https://github.com/FinneyTang/TsiU_AIToolkit_CSharp
     description: AI Toolkit for Unity.
@@ -519,6 +554,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-10-27'
   - name: Ep Path Finding3 D.cs
     url: https://github.com/juhgiyo/EpPathFinding3D.cs
     description: A 3D jump point search algorithm for cube based games in C#.
@@ -532,6 +569,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-04-24'
   - name: GOAP
     url: https://github.com/sploreg/goap
     description: Goal Oriented Action Planning AI in Unity.
@@ -545,6 +584,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-01-02'
   - name: Unity Movement AI
     url: https://github.com/antonpantev/unity-movement-ai
     description: A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
@@ -558,6 +599,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-05-20'
   - name: Openpath
     url: https://github.com/mrzapp/openpath
     description: Open source pathfinding for Unity.
@@ -571,6 +614,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-11-29'
   - name: Unity Path Finding
     url: https://github.com/mattatz/unity-path-finding
     description: Shortest path finding with Dijkstra's algorithm for Unity.
@@ -584,6 +629,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-04-16'
   - name: NPBehave
     url: https://github.com/meniku/NPBehave
     description: Event Driven Behavior Trees for Unity 3D.
@@ -623,3 +670,5 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-04-29'

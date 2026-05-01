@@ -313,6 +313,8 @@ entries:
     tags:
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2024-02-14'
   - name: Graphics Programming Projects
     url: https://graphicscodex.com/projects/projects/index.html
     description: Book about 3D computational graphics by Morgan McGuire.

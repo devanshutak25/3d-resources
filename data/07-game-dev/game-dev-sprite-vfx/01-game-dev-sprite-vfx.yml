@@ -114,6 +114,8 @@ entries:
         - fx
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2022-02-16'
   - name: Sprite Sheet Maker
     url: https://isometric8.itch.io/sprite-sheet-maker
     description: Sprite Sheet Maker is a handy no fuss utility to pack sprites
@@ -268,6 +270,8 @@ entries:
         - fx
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2016-09-18'
   - name: Kavex's Spritesheet Maker
     url: https://github.com/Kavex/Spritesheet-Maker
     description: Free spritesheet maker to replace GlueIT. Has much newer export formats.

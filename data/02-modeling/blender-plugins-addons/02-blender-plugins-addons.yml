@@ -347,6 +347,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-12-09'
   - name: Phobos
     url: https://github.com/dfki-ric/phobos
     description: An add-on for Blender allowing to create URDF, SDF and SMURF robot models.
@@ -407,6 +409,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2024-05-25'
   - name: Tree Gen
     url: https://github.com/friggog/tree-gen
     description: Procedural generation of tree models in blender.
@@ -431,6 +435,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2019-09-05'
   - name: JewelCraft
     url: https://github.com/mrachinskiy/jewelcraft
     description: Jewelry design toolkit add-on for Blender.
@@ -479,6 +485,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2020-03-19'
   - name: GoB
     url: https://github.com/JoseConseco/GoB
     description: GoZ-alike tools for simple ZBrush-Blender interchange.
@@ -515,6 +523,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-01-27'
   - name: SliceMesh
     url: https://github.com/mantissa-/SliceMesh
     description: Simple script for Blender to automate mesh slicing.
@@ -527,6 +537,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2019-06-21'
   - name: SuperPoke
     url: https://github.com/mantissa-/SuperPoke
     description: Iterative poking tool for Blender.
@@ -539,6 +551,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2020-01-12'
   - name: Laser Slicer
     url: https://github.com/rgsouthall/laser_slicer
     description: Cuts up a Blender object and exports the slices to SVG files for cutting on a laser cutter or other post-processing.
@@ -551,6 +565,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2022-03-23'
   - name: AnimAide
     url: https://github.com/aresdevo/animaide
     description: Free add-on for Blender that has some helpful tools for animation.
@@ -575,6 +591,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2020-12-17'
   - name: COA Tools
     url: https://github.com/ndee85/coa_tools
     description: 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.
@@ -587,3 +605,5 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2024-05-02'

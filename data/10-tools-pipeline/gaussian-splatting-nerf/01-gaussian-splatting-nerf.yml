@@ -141,6 +141,8 @@ entries:
         - gaussian-splatting
         - nerf
         - opensource-alt
+    stale: true
+    last_pushed: '2024-03-12'
   - name: Warp 3DGS
     url: https://github.com/guoriyue/3dgs-warp-scratch
     description: Warp/Python-based implementation (AGPL-3.0).
@@ -201,6 +203,8 @@ entries:
         - gaussian-splatting
         - nerf
         - opensource-alt
+    stale: true
+    last_pushed: '2024-03-26'
   - name: splatviz
     url: https://github.com/Florian-Barthel/splatviz
     description: Viewer that allows you to edit the rendering code during runtime or to display multiple scenes at once.

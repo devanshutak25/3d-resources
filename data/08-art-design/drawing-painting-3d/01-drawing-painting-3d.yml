@@ -133,6 +133,8 @@ entries:
       tech:
         - opensource-alt
         - ai-generative
+    stale: true
+    last_pushed: '2020-06-26'
   - name: Graphite 3D
     url: https://apps.apple.com/us/app/graphite-3d/id1523391511
     description: A collaborative drawing tool for modeling precise shapes in real spaces.

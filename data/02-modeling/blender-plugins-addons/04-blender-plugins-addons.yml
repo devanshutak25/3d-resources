@@ -35,6 +35,9 @@ entries:
       tech:
         - blender
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2021-03-01'
   - name: Blender Launcher
     url: https://github.com/DotBow/Blender-Launcher
     description: Standalone client for managing official builds of blender.
@@ -47,6 +50,9 @@ entries:
       tech:
         - blender
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2023-11-28'
   - name: Blender Manager
     url: https://github.com/verlorengest/BlenderManager
     description: Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management, and More.
@@ -82,6 +88,8 @@ entries:
     tags:
       tech:
         - blender
+    stale: true
+    last_pushed: '2021-09-28'
   - name: Fake Bpy Module
     url: https://github.com/nutti/fake-bpy-module
     description: Collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
@@ -106,6 +114,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2022-12-20'
   - name: Blender CLI Rendering
     url: https://github.com/yuki-koyama/blender-cli-rendering
     description: Python scripts for rendering images using Blender from command-line interface.
@@ -120,6 +130,8 @@ entries:
         - opensource-alt
       workflow:
         - rendering
+    stale: true
+    last_pushed: '2023-11-29'
   - name: Blender Addon Tester
     url: https://github.com/nangtani/blender-addon-tester
     description: The blender addon tester is a test harness to enable pytest hook to allow addons to be tested inside a defined version of blender.
@@ -144,6 +156,8 @@ entries:
       tech:
         - blender
         - opensource-alt
+    stale: true
+    last_pushed: '2020-10-11'
   - name: 3DN BIP
     url: https://github.com/3dninjas/3dn-bip
     description: A Python library for Blender. Blazingly fast preview loads in Blender. Images of arbitrary size. `bpy.utils.previews` drop-in replacement.
@@ -156,6 +170,8 @@ entries:
       tech:
         - blender
         - opensource-alt
+    stale: true
+    last_pushed: '2023-07-26'
   - name: Geometry Script
     url: https://github.com/carson-katri/geometry-script
     description: Scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
@@ -177,6 +193,8 @@ entries:
     notes: RELOCATE - Awesome list on 3D human research, unrelated to Blender addons. Move to research/reference section.
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-10-30'
   - name: Awesome 3D Printing
     url: https://github.com/ad-si/awesome-3d-printing
     description: A curated list of awesome 3D printing resources.

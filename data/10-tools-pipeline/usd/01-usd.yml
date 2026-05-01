@@ -91,6 +91,8 @@ entries:
       tech:
         - usd
         - opensource-alt
+    stale: true
+    last_pushed: '2021-04-01'
   - name: USD Manager
     url: http://www.usdmanager.org/
     description: Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files.
@@ -112,6 +114,8 @@ entries:
       tech:
         - usd
         - opensource-alt
+    stale: true
+    last_pushed: '2019-11-04'
   - name: Luma USD
     url: https://github.com/LumaPictures/luma_usd
     description: Plugins for USD.
@@ -123,6 +127,8 @@ entries:
       tech:
         - usd
         - opensource-alt
+    stale: true
+    last_pushed: '2017-07-28'
   - name: USD Shell Extension for Windows
     url: https://github.com/Activision/USDShellExtension
     description: Full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
@@ -134,6 +140,8 @@ entries:
       tech:
         - usd
         - opensource-alt
+    stale: true
+    last_pushed: '2021-06-24'
   - name: USD Noodle
     url: https://github.com/chris-gardner/usd-noodle
     description: Pretty node graph showing dependencies of a USD file.
@@ -145,6 +153,8 @@ entries:
       tech:
         - usd
         - opensource-alt
+    stale: true
+    last_pushed: '2022-12-11'
   - name: USD URI Resolver
     url: https://github.com/LumaPictures/usd-uri-resolver
     description: A generic, URI based resolver for USD, support custom plugins.
@@ -156,6 +166,8 @@ entries:
       tech:
         - usd
         - opensource-alt
+    stale: true
+    last_pushed: '2023-08-24'
   - name: UsdQt
     url: https://github.com/LumaPictures/usd-qt
     description: Qt components for building custom USD tools.
@@ -167,6 +179,8 @@ entries:
       tech:
         - usd
         - opensource-alt
+    stale: true
+    last_pushed: '2023-10-10'
   - name: USD Qtpy
     url: https://github.com/BigRoy/usd-qtpy
     description: Python Qt components for building custom USD tools.
@@ -178,3 +192,5 @@ entries:
       tech:
         - usd
         - opensource-alt
+    stale: true
+    last_pushed: '2023-12-22'

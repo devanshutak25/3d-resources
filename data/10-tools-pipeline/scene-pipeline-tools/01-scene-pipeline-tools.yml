@@ -90,6 +90,8 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
+    stale: true
+    last_pushed: '2021-03-07'
   - name: Dailies
     url: https://github.com/vfxpaco85/dailies/
     description: Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
@@ -121,6 +123,8 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-02-04'
   - name: Tik Manager (GitHub)
     url: https://github.com/masqu3rad3/tik_manager4
     description: Artist friendly asset and pipeline manager.
@@ -290,6 +294,8 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2022-05-02'
   - name: CGCmake
     url: https://github.com/chadmv/cgcmake
     description: CMake modules for CG apps.
@@ -304,6 +310,8 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-06-08'
   - name: Cortex
     url: https://github.com/ImageEngine/cortex
     description: Libraries for VFX software development.
@@ -334,6 +342,8 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2017-10-28'
   - name: mGui
     url: https://github.com/theodox/mGui
     description: Portable pure-python GUI library for Maya.
@@ -348,6 +358,8 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-04-27'
   - name: minq
     url: https://github.com/theodox/minq
     description: Maya query language for speeding up common scene operations.
@@ -362,6 +374,8 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-05-20'
   - name: Py3dsMax
     url: https://github.com/blurstudio/Py3dsMax
     description: 3dsMax API in Python.
@@ -376,6 +390,8 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2018-10-27'
   - name: PyMEL
     url: https://github.com/LumaPictures/pymel
     description: Python in Maya Done Right.
@@ -420,6 +436,7 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+    archived: true
   - name: Stalker
     url: https://github.com/eoyilmaz/stalker
     description: Open Source Production Asset Management (ProdAM) Library designed specifically for Animation and VFX Studios.
@@ -450,6 +467,8 @@ entries:
       - Python
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2018-07-02'
   - name: AMD Blender USD Hydra
     url: https://gpuopen.com/learn/amd-usd-hydra-blender/
     description: With Pixar's USD system emerging as a powerful tool for 3D graphics pipelines and interchange, this addon is meant to add first class support for USD and the USD Hydra rendering system to Blender.
@@ -582,6 +601,8 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
+    stale: true
+    last_pushed: '2020-11-09'
   - name: BlenderProc
     url: https://github.com/DLR-RM/BlenderProc
     description: A procedural Blender pipeline for photorealistic training image generation.
@@ -657,6 +678,8 @@ entries:
       - IDE
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-09-22'
   - name: MayaSublime
     url: https://github.com/justinfx/MayaSublime
     description: Run and edit Maya scripts directly from SublimeText
@@ -671,6 +694,8 @@ entries:
       - IDE
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-09-30'
   - name: VEX
     url: https://github.com/teared/VEX
     description: Houdini add-on for Sublime Text
@@ -699,6 +724,8 @@ entries:
       - IDE
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2018-10-29'
   - name: LLM App
     url: https://github.com/pathwaycom/llm-app
     description: LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.

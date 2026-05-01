@@ -371,6 +371,8 @@ entries:
     tags:
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2015-07-19'
   - name: Unity Readme
     url: https://github.com/JohnAlbin/UnityReadme
     description: Add a Readme / tutorial to the inspector tab of your Unity project.
@@ -380,6 +382,8 @@ entries:
     tags:
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-03'
   - name: Houdini Tricks Tumblr
     url: https://houdinitricks.tumblr.com/
     description: Assorted Houdini tips and quick tutorials

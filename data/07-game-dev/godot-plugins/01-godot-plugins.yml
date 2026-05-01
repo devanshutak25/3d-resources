@@ -29,6 +29,7 @@ entries:
         - games
       tech:
         - opensource-alt
+    archived: true
   - name: Phantom Camera
     url: https://github.com/ramokz/phantom-camera
     description: Dynamic camera system (Cinemachine-inspired).
@@ -125,3 +126,5 @@ entries:
         - games
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2023-01-11'

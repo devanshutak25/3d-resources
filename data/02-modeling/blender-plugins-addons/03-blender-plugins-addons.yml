@@ -23,6 +23,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2022-06-19'
   - name: Spring Bones
     url: https://github.com/artellblender/springbones
     description: Blender addon to add spring/bouncy dynamic effect to bones.
@@ -47,6 +49,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-05-03'
   - name: Bone Widget
     url: https://github.com/BlenderDefender/boneWidget
     description: Blender addon to assist with making custom bone shapes.
@@ -83,6 +87,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-03-09'
   - name: GreaseWriter
     url: https://github.com/doakey3/GreaseWriter
     description: A Blender Add-on for auto-animating grease pencil strokes and emulating hand-drawn text.
@@ -95,6 +101,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2019-07-23'
   - name: DreamUV
     url: https://github.com/leukbaars/DreamUV
     description: Collection of tools that allow you to manipulate UVs in the 3D viewport.
@@ -131,6 +139,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2022-07-16'
   - name: Blender For Unreal Engine
     url: https://github.com/xavier150/Blender-For-UnrealEngine-Addons
     description: This Add-on allows you to export content created with Blender to Unreal Engine 4.
@@ -155,6 +165,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2021-01-27'
   - name: INOX
     url: https://github.com/gents83/INOX
     description: Rust Game engine integrated in Blender.
@@ -179,6 +191,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-08-23'
   - name: Gaffer (Blender addon)
     url: https://github.com/gregzaal/Gaffer
     description: Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [![market]](https://blendermarket.com/products/g
@@ -203,6 +217,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2020-08-04'
   - name: Maps Models Importer
     url: https://github.com/eliemichel/MapsModelsImporter
     description: A Blender add-on to import models from _Google Maps_. [[more info]](https://blog.exppad.com/article/importing-actual-3d-models-from-google-maps)
@@ -215,6 +231,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2024-04-21'
   - name: Blender XR
     url: https://github.com/MARUI-PlugIn/BlenderXR
     description: A free virtual and mixed reality user interface for Blender that enables artists to edit scenes within the software using a suitable headset and controllers.
@@ -227,6 +245,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2020-07-16'
   - name: Blender Metaverse Addon
     url: https://github.com/Menithal/Blender-Metaverse-Addon
     description: Blender toolset for creating content for Metaverses like High Fidelity.
@@ -239,6 +259,7 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    archived: true
   - name: Loom
     url: https://github.com/p2or/blender-loom
     description: Add-on to simplify the rendering process of image sequences and certain frames, allows batch rendering and comes with some handy utilities that help in production.
@@ -263,6 +284,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2022-05-16'
   - name: Camera Shakify
     url: https://github.com/EatTheFuture/camera_shakify
     description: An addon for Blender that lets you easily add realistic camera shake to your cameras.
@@ -299,6 +322,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-02-28'
   - name: Power Sequencer
     url: https://github.com/GDQuest/blender-power-sequencer
     description: Brings smart new editing features to edit faster with Blender's Video Sequence Editor. It is completely Free and Open Source.
@@ -335,6 +360,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2020-12-10'
   - name: Easy Proxy
     url: https://github.com/cgvirus/blender-vse-easy-proxy
     description: Blender addon to create proxy files for Video Sequence Editor (VSE) easily using FFMPEG.
@@ -347,6 +374,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2022-06-17'
   - name: Parallel Render
     url: https://github.com/elmopl/ktba/wiki/Addons
     description: Render the output from the Sequencer multithreaded through the Render sidebar.
@@ -359,6 +388,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2020-12-01'
   - name: Scene Strip Tools
     url: https://github.com/tin2tin/scene_strip_tools
     description: Preview Scene Strips directly in the 3D View.
@@ -371,6 +402,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-05-10'
   - name: Subsimport
     url: https://github.com/doakey3/Subsimport
     description: Addon for Blender that allows users to create and edit subtitles for movies or music.
@@ -383,6 +416,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-11-16'
   - name: Search Online References
     url: https://github.com/tin2tin/Search-API-Reference
     description: Search current text in API Reference, Python Reference, Blender Stack Exchange, Blender Source Code and Github.
@@ -395,6 +430,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2021-01-04'
   - name: Blender Kitti
     url: https://github.com/risteon/blender_kitti
     description: Render large point clouds and voxel grids with blender.
@@ -419,6 +456,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-07-04'
   - name: Projectors
     url: https://github.com/Ocupe/Projectors
     description: A blender add-on for simple projector creation and modification.
@@ -467,6 +506,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2023-06-07'
   - name: ProSidebar
     url: https://github.com/CreativeDesigner3D/ProSidebar
     description: Add additional properties and operators to the 3D View Sidebar.
@@ -479,6 +520,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2021-01-09'
   - name: Tilecam
     url: https://github.com/stuffmatic/tilecam
     description: Render seamlessly repeatable images.
@@ -491,6 +534,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2021-07-21'
   - name: PresetterProfessional
     url: https://github.com/dpdpforlife/PresetterProfessional
     description: View and visibility presets, 3d cursor presets, snap presets, etc. presets.
@@ -503,6 +548,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2020-03-31'
   - name: Screenwriter
     url: https://github.com/tin2tin/Blender_Screenwriter
     description: Write screenplays in Blender Text Editor in Fountain markup syntax view/export with correct screenplay formatting.
@@ -527,6 +574,8 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2020-04-26'
   - name: Mixer by Ubisoft
     url: https://github.com/ubisoft/mixer
     description: Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition.
@@ -539,6 +588,9 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2022-08-01'
   - name: Lib SM64 Blender
     url: https://github.com/libsm64/libsm64-blender
     description: This add-on integrates libsm64 into Blender and provides various additional integrations with Fast64.
@@ -574,6 +626,8 @@ entries:
       tech:
         - blender
     notes: 'RELOCATE: motion capture dataset, not a Blender addon.'
+    stale: true
+    last_pushed: '2023-07-04'
   - name: Blender Colab
     url: https://github.com/syn73/blender-colab
     description: Render on **_Google Colab_**, this is a Python script that allows you to render Blender scene using Google Colaboratory. Only Cycles.

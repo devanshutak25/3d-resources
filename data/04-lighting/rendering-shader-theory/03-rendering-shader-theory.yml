@@ -181,6 +181,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-07-27'
   - name: Unity3D Shaders Learning
     url: https://github.com/TarasOsiris/unity3d-shaders-learning
     description: Ust learning Unity3D shaders here.
@@ -192,6 +194,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-03-24'
   - name: Shader Graph Tutorials
     url: https://github.com/Brackeys/Shader-Graph-Tutorials
     description: Project files for our tutorials on using Shader Graph in Unity.
@@ -203,6 +207,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2018-06-04'
   - name: Resources for Writing Shaders in Unity
     url: https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity
     description: 'For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!'
@@ -214,6 +220,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-08-30'
   - name: Unity Shader Cheatsheet
     url: https://github.com/nothke/UnityShaderCheatsheet
     description: Collection of Unity shader copypastas and gotchas.
@@ -225,6 +233,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2022-01-16'
   - name: Blender Addon PBR
     url: https://github.com/DigiKrafting/blender_addon_pbr
     description: Provides a material panel that creates Metallic/Roughness or Specular/Gloss Nodes using the Principled BSDF shader.
@@ -236,6 +246,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-07-15'
   - name: Lily Surface Scrapper
     url: https://github.com/eliemichel/LilySurfaceScrapper
     description: Import shaders in Blender from a single URL.
@@ -280,6 +292,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2023-09-22'
   - name: Realistic water shader
     url: https://github.com/jbouny/ocean
     description: There are also some links with explanation of the approach
@@ -291,6 +305,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-10-18'
   - name: PixelSpirit GitHub
     url: https://github.com/patriciogonzalezvivo/PixelSpiritDeck
     description: Library associated with the PixelSpirit Elemens Deck by [@patriciogv](https://twitter.com/patriciogv)
@@ -302,6 +318,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2024-02-02'
   - name: Three Blender
     url: https://github.com/ppmpreetham/three-blender
     description: Blender based tool, to convert your Blender files directly to threeJS.
@@ -346,6 +364,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2015-11-12'
   - name: (2014) Ray tracing with OpenGL Compute Shaders
     url: https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29
     description: By **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
@@ -357,6 +377,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2023-08-30'
   - name: CodeXL
     url: https://github.com/GPUOpen-Tools/CodeXL
     description: AMD's tool suite that includes debugger, profiler and frame/shader analysis.
@@ -368,6 +390,9 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2020-04-29'
   - name: Magnum (GitHub)
     url: https://github.com/mosra/magnum
     description: It is a 2D/3D graphics engine for modern OpenGL.
@@ -390,6 +415,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-04-02'
   - name: Houdini Gaussian Splatting Viewport Renderer
     url: https://github.com/rubendhz/houdini-gsplat-renderer
     description: A HDK/GLSL implementation of Gaussian Splatting in Houdini

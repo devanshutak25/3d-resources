@@ -232,3 +232,5 @@ entries:
       tech:
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2021-12-22'

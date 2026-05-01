@@ -756,6 +756,8 @@ entries:
       - Visualization
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-09-08'
   - name: Neo Axis Engine
     url: https://github.com/NeoAxis/NeoAxisEngine
     description: Integrated development environment with built-in 3D and 2D game engine.
@@ -834,6 +836,9 @@ entries:
       - Legacy
     url_last_verified: '2026-05-01'
     url_status: ok
+    archived: true
+    stale: true
+    last_pushed: '2020-12-11'
   - name: Dash
     url: https://github.com/Circular-Studios/Dash
     description: A free and open 3D game engine written in D.
@@ -854,6 +859,8 @@ entries:
       - Niche
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2020-12-18'
   - name: Diligent Engine
     url: https://github.com/DiligentGraphics/DiligentEngine
     description: Modern cross-platform low-level graphics library supporting D3D11/12, OpenGL/GLES, and Vulkan.
@@ -916,6 +923,9 @@ entries:
       - Pixel Art
     url_last_verified: '2026-05-01'
     url_status: ok
+    archived: true
+    stale: true
+    last_pushed: '2016-05-12'
   - name: LumixEngine
     url: https://github.com/nem0/LumixEngine
     description: 3D game engine built on C++.
@@ -955,6 +965,8 @@ entries:
       - WIP
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2015-10-02'
   - name: Pixel Vision 8
     url: https://github.com/PixelVision8/PixelVision8
     description: Teaches retro game development with streamlined workflows. 8-bit fantasy console.
@@ -977,6 +989,9 @@ entries:
       - 8-bit
     url_last_verified: '2026-05-01'
     url_status: ok
+    archived: true
+    stale: true
+    last_pushed: '2023-01-04'
   - name: Screen 13
     url: https://github.com/attackgoat/screen-13
     description: Easy-to-use Vulkan rendering engine with render graph for Rust.

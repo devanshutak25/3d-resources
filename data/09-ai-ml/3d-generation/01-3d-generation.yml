@@ -216,6 +216,8 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-03-10'
   - name: Sloyd
     url: https://sloyd.ai/
     description: Procedural 3D generation with parametric control.

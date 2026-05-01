@@ -489,6 +489,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-04-16'
   - name: Yafaray
     url: https://github.com/YafaRay/libYafaRay
     description: LibYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license.
@@ -501,3 +503,5 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2024-01-28'

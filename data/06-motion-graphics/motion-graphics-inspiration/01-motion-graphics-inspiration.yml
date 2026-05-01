@@ -399,3 +399,5 @@ entries:
       tech:
         - opensource-alt
         - unreal-plugin
+    stale: true
+    last_pushed: '2022-12-20'

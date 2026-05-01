@@ -487,6 +487,7 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
   - name: ObjectDeliverer
     url: https://github.com/ayumax/ObjectDeliverer
     description: Data transmission and reception library for Unreal Engine.
@@ -503,6 +504,7 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
   - name: Socket IO Client Unreal
     url: https://github.com/getnamo/SocketIOClient-Unreal
     description: Socket.IO client plugin for Unreal Engine.
@@ -535,6 +537,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-04-24'
   - name: TCP Unreal
     url: https://github.com/getnamo/TCP-Unreal
     description: Convenience TCP wrapper for Unreal Engine.
@@ -599,6 +603,7 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
   - name: Unreal.js
     url: https://github.com/ncsoft/Unreal.js
     description: Javascript runtime built for Unreal Engine.
@@ -615,6 +620,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-07-20'
   - name: UnrealCLR
     url: https://github.com/nxrighthere/UnrealCLR
     description: Unreal Engine .NET 6 Integration.
@@ -631,6 +638,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-06-07'
   - name: Unreal Rust
     url: https://github.com/MaikKlein/unreal-rust
     description: Opinionated Rust integration for Unreal Engine.
@@ -697,6 +706,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-05-23'
   - name: Unreal Sandbox Terrain
     url: https://github.com/bw2012/UnrealSandboxTerrain
     description: Smooth voxel terrain plugin.

@@ -378,6 +378,8 @@ entries:
       - Windows
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-03-05'
   - name: Penzil
     url: https://github.com/jacopocolo/Penzil
     description: A web application to sketch in 3d made in three.js and Vue.
@@ -393,6 +395,8 @@ entries:
       - Web
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-04-17'
   - name: Pixie
     url: https://github.com/blkdev2/pixie?tab=readme-ov-file
     description: Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.
@@ -408,6 +412,8 @@ entries:
       - Renderer
     url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2014-05-04'
   - name: tlRender
     url: https://github.com/darbyjohnston/tlRender
     description: Timeline render, is an early stage project for rendering editorial timelines.

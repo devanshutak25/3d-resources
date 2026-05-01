@@ -236,6 +236,8 @@ entries:
     readme_tags:
       - Nuke Plugin
       - Frame Interp
+    stale: true
+    last_pushed: '2024-03-17'
   - name: AI Game Developer
     url: https://github.com/IvanMurzak/Unity-MCP
     description: '`Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.'

@@ -10,6 +10,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-07-31'
   - name: Circular Color Picker Unity
     url: https://github.com/mathiassiig/CircularColorPickerUnity
     description: Just a shader and a script for a circular color picker.
@@ -21,6 +23,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-01-28'
   - name: GSLS Optimizer
     url: https://github.com/aras-p/glsl-optimizer
     description: GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization. (#SHADERS)
@@ -33,6 +37,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2020-05-14'
   - name: ShaderForge
     url: https://github.com/FreyaHolmer/ShaderForge
     description: 'A node-based shader editor giving you the artistic freedom of shader creation, with no need to code. (Was :moneybag: but now is open source and not maintained).'
@@ -45,6 +51,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2023-01-03'
   - name: Shader Lab Lab
     url: https://github.com/rambutan2000/ShaderLabLab
     description: A system using T4 Templates to generate Unity ShaderLab code in the Editor.
@@ -56,6 +64,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2018-12-10'
   - name: GrassBending
     url: https://github.com/Elringus/GrassBending
     description: A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect. (#TERRAIN)
@@ -78,6 +88,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2018-02-22'
   - name: Unity Outline Shader
     url: https://github.com/IronWarrior/UnityOutlineShader
     description: Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
@@ -89,6 +101,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2021-01-03'
   - name: VerticalDissolve
     url: https://github.com/AdultLink/VerticalDissolve
     description: Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
@@ -100,6 +114,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2018-11-16'
   - name: Stanford Bunny Fur With Unity
     url: https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity
     description: Using the Geometry Shader to generate fur on GPU.
@@ -111,6 +127,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-11-23'
   - name: Procedural Stochastic Texturing
     url: https://github.com/UnityLabs/procedural-stochastic-texturing
     description: Modified Unity Standard shader implementing Procedural Stochastic Texturing.
@@ -122,6 +140,9 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2019-05-29'
   - name: VilarVRC
     url: https://github.com/Vilar24/VilarVRC
     description: Vilar's Shaders for VRChat.
@@ -144,6 +165,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2015-05-08'
   - name: ShadowDrawer
     url: https://github.com/keijiro/ShadowDrawer
     description: Shadow matte shader for Unity.
@@ -155,6 +178,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2018-07-26'
   - name: Unity Shaders
     url: https://github.com/igradeca/Unity-Shaders
     description: Unity project about reseach on shaders and particle system.
@@ -166,6 +191,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2018-12-13'
   - name: Unity Shader Sketches
     url: https://github.com/setchi/Unity-ShaderSketches
     description: Sketches made with ShaderLab in Unity.
@@ -177,6 +204,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-10-31'
   - name: ShaderProject
     url: https://github.com/ellioman/ShaderProject
     description: A container for all sorts of handy shaders.
@@ -188,6 +217,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-07-18'
   - name: Shader Effects
     url: https://github.com/NoxWings/Shader-Effects
     description: Unity shader effects.
@@ -199,6 +230,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-10-17'
   - name: Glow
     url: https://github.com/rakkarage/Glow
     description: Unity ShaderGraph effect test.
@@ -210,6 +243,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-24'
   - name: Unity Raymarching Collision
     url: https://github.com/hecomi/UnityRaymarchingCollision
     description: Raymarching x Rigidbody interaction example.
@@ -221,6 +256,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2016-03-20'
   - name: Unity Compute Shader Ray Tracing Practice
     url: https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice
     description: Raytracing shader tutorial for Unity.
@@ -232,6 +269,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-03'
   - name: Raymarching On Unity 5
     url: https://github.com/i-saint/RaymarchingOnUnity5
     description: Raymarcher in Unity 5.
@@ -243,6 +282,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2015-06-17'
   - name: SDFs by Inigo Quilez
     url: https://iquilezles.org/
     description: All you need to know about SDFs and other shader magic.

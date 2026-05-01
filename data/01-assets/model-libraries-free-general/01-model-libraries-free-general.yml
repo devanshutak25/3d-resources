@@ -591,3 +591,5 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+    stale: true
+    last_pushed: '2024-01-27'

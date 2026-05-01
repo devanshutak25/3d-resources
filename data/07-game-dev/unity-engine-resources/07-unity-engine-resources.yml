@@ -31,6 +31,8 @@ entries:
     readme_tags:
       - rendering
       - sand
+    stale: true
+    last_pushed: '2018-02-22'
   - name: NVIDIA Hair Works Integration
     url: https://github.com/unity3d-jp/NVIDIAHairWorksIntegration
     description: NVIDIA Hair Works Integration for Unity.
@@ -47,6 +49,9 @@ entries:
     readme_tags:
       - hair
       - nvidia
+    archived: true
+    stale: true
+    last_pushed: '2016-05-24'
   - name: Marschner Hair Unity
     url: https://github.com/maajor/Marschner-Hair-Unity
     description: Implement Marschner Shading Model In Unity.
@@ -63,6 +68,8 @@ entries:
     readme_tags:
       - hair
       - shader
+    stale: true
+    last_pushed: '2020-05-06'
   - name: CarPaint
     url: https://github.com/Roland09/CarPaint
     description: Material for the Unity Standard Assets Car.
@@ -79,6 +86,8 @@ entries:
     readme_tags:
       - shader
       - automotive
+    stale: true
+    last_pushed: '2018-11-25'
   - name: Dual Quaternion Skinning for Unity
     url: https://github.com/ConstantineRudenko/DQ-skinning-for-Unity
     description: Dual Quaternion Skinning for Unity.
@@ -95,6 +104,8 @@ entries:
     readme_tags:
       - skinning
       - rigging
+    stale: true
+    last_pushed: '2023-12-18'
   - name: Pixel Render Unity3D
     url: https://github.com/kode80/pixelrenderunity3d
     description: PixelRender is a complete system for realtime rendering of 3D scenes as 2D pixel art in Unity3D. (#2D) (#EFFECTS) (#UTILITIES)
@@ -111,6 +122,8 @@ entries:
     readme_tags:
       - pixel-art
       - rendering
+    stale: true
+    last_pushed: '2016-06-12'
   - name: QuadWarp
     url: https://github.com/fuqunaga/QuadWarp
     description: QuadWarp sample code for Unity.
@@ -127,6 +140,8 @@ entries:
     readme_tags:
       - projection
       - warp
+    stale: true
+    last_pushed: '2017-07-31'
   - name: Unity 5 Effects
     url: https://github.com/i-saint/Unity5Effects
     description: Effect storage space for Unity 5.
@@ -143,6 +158,8 @@ entries:
     readme_tags:
       - effects
       - postprocess
+    stale: true
+    last_pushed: '2020-10-08'
   - name: Static Blured Screen
     url: https://github.com/mob-sakai/StaticBluredScreen
     description: Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs. (#CAMERA)
@@ -159,6 +176,8 @@ entries:
     readme_tags:
       - blur
       - ui
+    stale: true
+    last_pushed: '2019-01-03'
   - name: KinoObscurance
     url: https://github.com/keijiro/KinoObscurance
     description: Screen Space Ambient Obscurance image effect for Unity.
@@ -175,6 +194,8 @@ entries:
     readme_tags:
       - ssao
       - postprocess
+    stale: true
+    last_pushed: '2017-10-30'
   - name: UnityEffects
     url: https://github.com/kode80/UnityEffects
     description: A collection of free to use effects for Unity3D.
@@ -191,6 +212,8 @@ entries:
     readme_tags:
       - effects
       - postprocess
+    stale: true
+    last_pushed: '2016-05-20'
   - name: KinoBloom
     url: https://github.com/keijiro/KinoBloom
     description: Bloom effect for Unity.
@@ -207,6 +230,8 @@ entries:
     readme_tags:
       - bloom
       - postprocess
+    stale: true
+    last_pushed: '2017-04-16'
   - name: Perfect Spheres
     url: https://github.com/gilescoope/perfect-spheres
     description: A system for rendering spheres cheaply and accurately.
@@ -223,6 +248,8 @@ entries:
     readme_tags:
       - rendering
       - spheres
+    stale: true
+    last_pushed: '2018-07-06'
   - name: A Crack In The Slab
     url: https://github.com/Broxxar/ACrackInTheSlab
     description: An exploration to recreate an effect from Dishonored 2 in Unity.
@@ -239,6 +266,8 @@ entries:
     readme_tags:
       - effects
       - dishonored
+    stale: true
+    last_pushed: '2017-07-17'
   - name: SonarFx
     url: https://github.com/keijiro/SonarFx
     description: Sonar effect for Unity.
@@ -255,6 +284,8 @@ entries:
     readme_tags:
       - effects
       - postprocess
+    stale: true
+    last_pushed: '2014-08-09'
   - name: kode80SSR
     url: https://github.com/kode80/kode80SSR
     description: An open source screen space reflections implementation for Unity3D 5.
@@ -271,6 +302,8 @@ entries:
     readme_tags:
       - ssr
       - reflections
+    stale: true
+    last_pushed: '2017-07-20'
   - name: Volumetric Clouds
     url: https://github.com/jaagupku/volumetric-clouds
     description: Volumetric clouds in Unity.
@@ -287,6 +320,8 @@ entries:
     readme_tags:
       - clouds
       - volumetric
+    stale: true
+    last_pushed: '2023-03-07'
   - name: Edge Detect Post Processing Unity
     url: https://github.com/jean-moreno/EdgeDetect-PostProcessingUnity
     description: Unity legacy Edge Detect image effect ported to Post Processing Stack v2.
@@ -303,6 +338,8 @@ entries:
     readme_tags:
       - edge-detect
       - postprocess
+    stale: true
+    last_pushed: '2019-10-27'
   - name: Koch's Fractals
     url: https://github.com/hww/koch_fractals
     description: Koch Fractals Demo for Unity.
@@ -319,6 +356,8 @@ entries:
     readme_tags:
       - fractals
       - demo
+    stale: true
+    last_pushed: '2019-02-25'
   - name: SDF Gen Unity
     url: https://github.com/mmerchante/sdf-gen-unity
     description: A signed distance function generator running inside Unity.
@@ -335,6 +374,8 @@ entries:
     readme_tags:
       - sdf
       - generator
+    stale: true
+    last_pushed: '2018-05-20'
   - name: Smrvfx
     url: https://github.com/keijiro/Smrvfx
     description: An example that shows how to pass data from a skinned mesh renderer to a visual effect graph.
@@ -351,6 +392,8 @@ entries:
     readme_tags:
       - vfx-graph
       - skinning
+    stale: true
+    last_pushed: '2022-10-12'
   - name: Simple Light Probe Placer
     url: https://github.com/AlexanderVorobyov/simple-light-probe-placer
     description: It is simple tool for Unity3d and it help you easily place Light Probes in your scene.
@@ -367,6 +410,9 @@ entries:
     readme_tags:
       - lighting
       - probes
+    archived: true
+    stale: true
+    last_pushed: '2019-01-08'
   - name: Light Probes Placement
     url: https://github.com/laurenth-unity/LightProbesPlacement
     description: Unity project showing how to use the custom Package LightProbesVolumes for placing lightprobes automatically.
@@ -383,6 +429,8 @@ entries:
     readme_tags:
       - lighting
       - probes
+    stale: true
+    last_pushed: '2019-01-03'
   - name: Volumetric Lines Unity
     url: https://github.com/johannesugb/VolumetricLinesUnity
     description: Source of the Volumetric Lines Asset from Unity's Asset Store.
@@ -399,6 +447,8 @@ entries:
     readme_tags:
       - lines
       - volumetric
+    stale: true
+    last_pushed: '2022-02-20'
   - name: ProbePolisher
     url: https://github.com/keijiro/ProbePolisher
     description: Light probe editor for Unity.
@@ -415,6 +465,8 @@ entries:
     readme_tags:
       - lighting
       - probes
+    stale: true
+    last_pushed: '2014-02-11'
   - name: Unity Raytracer
     url: https://github.com/SIZMW/unity-raytracer
     description: This project demonstrates ray tracing in Unity, which is a real time rendering engine.
@@ -431,6 +483,8 @@ entries:
     readme_tags:
       - raytracing
       - demo
+    stale: true
+    last_pushed: '2017-09-18'
   - name: Ray Marching
     url: https://github.com/SebLague/Ray-Marching
     description: Experimenting with using ray marching to render signed distance functions in Unity.
@@ -447,6 +501,8 @@ entries:
     readme_tags:
       - raymarching
       - sdf
+    stale: true
+    last_pushed: '2021-04-08'
   - name: VoxelWorld
     url: https://github.com/SidiaDevelopment/VoxelWorld
     description: Training Unity on a Voxel World.
@@ -463,6 +519,9 @@ entries:
     readme_tags:
       - voxel
       - world
+    archived: true
+    stale: true
+    last_pushed: '2022-04-21'
   - name: Voxel Mesh Generator
     url: https://github.com/chulini/VoxelMeshGenerator
     description: Unity3D C# project that generates a voxel 3D mesh using the greedy mesh technique.
@@ -479,6 +538,8 @@ entries:
     readme_tags:
       - voxel
       - mesh
+    stale: true
+    last_pushed: '2018-11-13'
   - name: Warfest Voxel Unity
     url: https://github.com/ArnaudValensi/warfest-voxel-unity
     description: A voxel game prototype made with Unity.
@@ -495,6 +556,8 @@ entries:
     readme_tags:
       - voxel
       - game
+    stale: true
+    last_pushed: '2018-09-19'
   - name: Unity Voxel Tools
     url: https://github.com/meniku/UnityVoxelTools
     description: A collection of Voxel utilities for Unity. (EXPERIMENTAL)
@@ -511,6 +574,8 @@ entries:
     readme_tags:
       - voxel
       - tools
+    stale: true
+    last_pushed: '2018-04-27'
   - name: Voxelmetric
     url: https://github.com/richardbiely/Voxelmetric
     description: An efficient voxel framework for Unity3D. Legacy code is [here](https://github.com/Voxelmetric/Voxelmetric1).
@@ -527,6 +592,8 @@ entries:
     readme_tags:
       - voxel
       - framework
+    stale: true
+    last_pushed: '2023-12-16'
   - name: MiniMap
     url: https://github.com/Area730/MiniMap
     description: Unity3D minimap (radar) system (Asset Store link - https://www.assetstore.unity3d.com/en/#!/content/33729).
@@ -543,6 +610,8 @@ entries:
     readme_tags:
       - ui
       - minimap
+    stale: true
+    last_pushed: '2016-04-18'
   - name: uGUI LinkImageText
     url: https://github.com/akof1314/uGUI_LinkImageText
     description: Unity uGUI Text support insert link and image.
@@ -559,6 +628,8 @@ entries:
     readme_tags:
       - ui
       - text
+    stale: true
+    last_pushed: '2019-05-21'
   - name: Typogenic
     url: https://github.com/Chman/Typogenic
     description: Signed-distance field text rendering for Unity.
@@ -575,6 +646,9 @@ entries:
     readme_tags:
       - text
       - sdf
+    archived: true
+    stale: true
+    last_pushed: '2017-07-11'
   - name: Unity UI Polygon
     url: https://github.com/CiaccoDavide/Unity-UI-Polygon
     description: Polygon renderer for the new Unity UI.
@@ -591,6 +665,8 @@ entries:
     readme_tags:
       - ui
       - polygon
+    stale: true
+    last_pushed: '2021-03-11'
   - name: Enhanced Scroll View
     url: https://github.com/tinyantstudio/EnhancedScrollView
     description: Cool 3d scoll view for Unity(NGUI 3D UGUI support).
@@ -607,6 +683,8 @@ entries:
     readme_tags:
       - ui
       - scroll
+    stale: true
+    last_pushed: '2021-11-23'
   - name: InfinityScroll
     url: https://github.com/ivomarel/InfinityScroll
     description: These scripts will make your UnityGUI ScrollRects scroll infinitely.
@@ -623,6 +701,8 @@ entries:
     readme_tags:
       - ui
       - scroll
+    stale: true
+    last_pushed: '2023-03-11'
   - name: Unity Dynamic Scroll View
     url: https://github.com/aillieo/UnityDynamicScrollView
     description: Dynamic scrollView based on UGUI.
@@ -655,6 +735,8 @@ entries:
     readme_tags:
       - ui
       - scroll
+    stale: true
+    last_pushed: '2015-02-20'
   - name: Variable Infinite Scroll
     url: https://github.com/ToshikiImagawa/Variable-infinite-scroll
     description: Variable infinite scroll in Unity UI.
@@ -671,6 +753,8 @@ entries:
     readme_tags:
       - ui
       - scroll
+    stale: true
+    last_pushed: '2024-03-11'
   - name: Unity Simple File Browser
     url: https://github.com/yasirkula/UnitySimpleFileBrowser
     description: A uGUI based runtime file browser for Unity3D (draggable and resizable).
@@ -703,6 +787,8 @@ entries:
     readme_tags:
       - ui
       - layout
+    stale: true
+    last_pushed: '2019-11-12'
   - name: Unity Pause Menu
     url: https://github.com/GreatArcStudios/unitypausemenu
     description: This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lackin
@@ -719,6 +805,8 @@ entries:
     readme_tags:
       - ui
       - menu
+    stale: true
+    last_pushed: '2019-07-30'
   - name: Beautiful Text Outline for Unity UI
     url: https://github.com/n-yoda/unity-vertex-effects
     description: Beautiful Text Outline for Unity UI.
@@ -735,6 +823,8 @@ entries:
     readme_tags:
       - ui
       - text
+    stale: true
+    last_pushed: '2016-08-17'
   - name: OpenGUI
     url: https://github.com/mrzapp/opengui
     description: Open source GUI framework for Unity.
@@ -751,6 +841,8 @@ entries:
     readme_tags:
       - ui
       - framework
+    stale: true
+    last_pushed: '2020-11-30'
   - name: Xamarin.Forms.Unity
     url: https://github.com/aosoft/Xamarin.Forms.Unity
     description: Xamarin.Forms for Unity (Platform implementation for Unity Game Engine).
@@ -767,6 +859,8 @@ entries:
     readme_tags:
       - ui
       - xamarin
+    stale: true
+    last_pushed: '2019-06-03'
   - name: FlexibleUI Unity
     url: https://github.com/rameshporeddy/FlexibleUI-Unity
     description: A Unity System to Implement Multiple GUI Themes.
@@ -783,6 +877,8 @@ entries:
     readme_tags:
       - ui
       - themes
+    stale: true
+    last_pushed: '2020-02-15'
   - name: Unity LoMenu
     url: https://github.com/paulgswanson/Unity_LoMenu
     description: Stylish UI package for Unity engine.
@@ -799,3 +895,5 @@ entries:
     readme_tags:
       - ui
       - menu
+    stale: true
+    last_pushed: '2019-01-29'

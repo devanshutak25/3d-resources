@@ -389,6 +389,8 @@ entries:
     tags:
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2020-07-20'
   - name: Roll A-Ball ECS Style
     url: https://github.com/KptEmreU/Roll-A-Ball-ECS-style
     description: Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
@@ -402,6 +404,8 @@ entries:
     tags:
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-06'
   - name: 'GitHub: mixandjam'
     url: https://github.com/mixandjam
     description: Unity video tutorials on Youtube.

@@ -15,6 +15,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2019-11-17'
   - name: SearchTools
     url: https://github.com/eral/SearchTools
     description: Search Tools In Unity.
@@ -31,6 +33,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2019-07-17'
   - name: Unity Events
     url: https://github.com/GalvanicGames/unity-events
     description: A code focused strongly typed event system with global system and per GameObject system.
@@ -47,6 +51,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2019-02-19'
   - name: Vexe Framework (VFW)
     url: https://github.com/vexe/VFW
     description: An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
@@ -63,6 +69,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2017-09-08'
   - name: NGTools
     url: https://github.com/naphier/ngtools
     description: Unity Editor Extensions and Tools by Napland Games.
@@ -79,6 +87,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2019-06-08'
   - name: Unity Asset Usage Detector
     url: https://github.com/yasirkula/UnityAssetUsageDetector
     description: Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
@@ -111,6 +121,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2020-10-23'
   - name: DT Compile Time Tracker
     url: https://github.com/DarrenTsung/DTCompileTimeTracker
     description: Unity editor extension which tracks compile time.
@@ -127,6 +139,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2019-10-01'
   - name: Unity3D Automatron
     url: https://github.com/Thundernerd/Unity3D-Automatron
     description: An automation tool for Unity3D.
@@ -143,6 +157,9 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2017-05-15'
   - name: Unity Editor Junkie
     url: https://github.com/roboryantron/UnityEditorJunkie
     description: Editor scripts to make working with the Unity Editor better
@@ -159,6 +176,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2022-02-11'
   - name: Unity Editor Snippets
     url: https://github.com/pointcache/UnityEditorSnippets
     description: Collection of different editor things that help with productivity.
@@ -175,6 +194,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2019-12-10'
   - name: Unity Editor Helper
     url: https://github.com/JefferiesTube/UnityEditorHelper
     description: An organized bunch of scripts to make editor scripting in Unity easier.
@@ -191,6 +212,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2018-03-01'
   - name: UnityExtensions MeshIntersection
     url: https://github.com/garettbass/UnityExtensions.MeshIntersection
     description: Perform a raycast against one or more meshes.
@@ -207,6 +230,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2018-08-29'
   - name: KEngine
     url: https://github.com/mr-kelly/KEngine
     description: A Unity3D asset bundle framework with LGPL license.
@@ -223,6 +248,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2022-12-28'
   - name: Asset Auditing Tools
     url: https://github.com/Unity-Technologies/asset-auditing-tools
     description: A set of Editor tools to audit project assets and correct errors. ![Official](UnityResource16x16.png)
@@ -239,6 +266,8 @@ entries:
     readme_tags:
       - unity-plugin
       - opensource-alt
+    stale: true
+    last_pushed: '2021-06-10'
   - name: ThreeDScans
     url: https://github.com/keijiro/ThreeDScans
     description: Scanned statue models from the Three D Scans project, optimized for real-time rendering use.
@@ -253,6 +282,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2018-03-28'
   - name: 50 Unity Tips
     url: https://github.com/defuncart/50-unity-tips
     description: A collection of 50 tips for Unity (focusing on Mobile) ranging from editor tools to serialization to UI shortcuts.
@@ -267,6 +298,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2018-06-20'
   - name: UnityGraphicsProgramming Vol.2
     url: https://github.com/IndieVisualLab/UnityGraphicsProgramming2
     description: Unity Graphics Programming vol.2
@@ -281,6 +314,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2020-04-26'
   - name: Unity Character Customization
     url: https://github.com/eriseven/UnityCharacterCustomization
     description: A character customization demo for Unity.
@@ -295,6 +330,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2019-01-30'
   - name: Complete Unity 2018 Game Development
     url: https://github.com/PacktPublishing/Complete-Unity-2018-Game-Development
     description: Explore techniques to build 2D/3D applications using real-world examples.
@@ -309,6 +346,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2021-01-18'
   - name: Simple ECS
     url: https://github.com/AkanshDivker/Simple-ECS
     description: An example using the core features of the Entity Component System (ECS) for Unity, inspired by Roll-a-ball.
@@ -323,6 +362,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2021-01-26'
   - name: Unity Good Practices
     url: https://github.com/futurice/unity-good-practices
     description: Github repository with Unity best practices.
@@ -337,6 +378,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2018-04-24'
   - name: UniteBerlin
     url: https://github.com/VoxelBoy/UniteBerlin
     description: 'Repository for my Unite Berlin talk - Become a Speed Demon: Being faster at everything you do in Unity.'
@@ -351,6 +394,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2019-01-15'
   - name: AngryBots2
     url: https://github.com/UnityTechnologies/AngryBots2
     description: An example Unity Project, developed by Unity Technologies, used to demonstrate several features.
@@ -365,6 +410,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2020-09-28'
   - name: Hogwarts
     url: https://github.com/OpenHogwarts/hogwarts
     description: Hogwarts (Harry Potter) open sandbox game made in Unity.
@@ -379,6 +426,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2023-11-23'
   - name: Unitystation
     url: https://github.com/unitystation/unitystation
     description: Remake of the simulator Space Station 13.
@@ -407,6 +456,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2023-06-16'
   - name: MafiaUnity
     url: https://github.com/OpenMafia/MafiaUnity
     description: Open-source Mafia game framework.
@@ -421,6 +472,9 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2020-06-11'
   - name: Guitar Hero Unity
     url: https://github.com/caffeine239/GuitarHeroUnity
     description: Guitar Hero fan game made in Unity.
@@ -435,6 +489,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2019-01-31'
   - name: UnityTetris
     url: https://github.com/Mukarillo/UnityTetris
     description: Tetris clone written in C# and using Unity engine to render.
@@ -449,6 +505,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2024-03-12'
   - name: Pacman
     url: https://github.com/vilbeyli/Pacman
     description: A Pacman clone with original AI made using Unity.
@@ -463,6 +521,9 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2018-10-27'
   - name: Minesweeper
     url: https://github.com/vilbeyli/Minesweeper
     description: Tile based Minesweeper game with highschores made in Unity.
@@ -477,6 +538,9 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2020-09-30'
   - name: Colorus
     url: https://github.com/nicloay/colorus
     description: Coloring book game for Web/iOS made with Unity.
@@ -491,6 +555,8 @@ entries:
         - opensource-alt
     readme_tags:
       - opensource-alt
+    stale: true
+    last_pushed: '2017-05-30'
   - name: 'GitHub: mrzapp'
     url: https://github.com/mrzapp
     description: Unity tools and utilities.

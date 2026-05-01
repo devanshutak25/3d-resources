@@ -153,6 +153,8 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+    stale: true
+    last_pushed: '2024-03-11'
   - name: HDRI To Cube Map
     url: https://matheowis.github.io/HDRI-to-CubeMap/
     description: A tool to convert your HDRI file into a Cube map.

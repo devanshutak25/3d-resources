@@ -12,6 +12,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-09-01'
   - name: GameAI Movement
     url: https://github.com/Kyntaz/gameai-movement
     description: Movement Algorithms for NPCs developed with the Unity Engine for the Artificial Intelligence for Games class @ IST.
@@ -25,6 +27,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-01-29'
   - name: Knowledge Representation
     url: https://github.com/chris-gong/knowledge-representation
     description: Small Unity project showcasing AI responding to changes in the game world.
@@ -38,6 +42,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-12-21'
   - name: Unity AI
     url: https://github.com/lcremer/Unity_AI
     description: AI Behavior Tree Framework.
@@ -51,6 +57,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-01-11'
   - name: AI Companion
     url: https://github.com/Ell223/AI-Companion
     description: Created in Unity 5 for the purposes of learning AI techniques. Features behaviour trees and A* pathfinding.
@@ -90,6 +98,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2012-05-17'
   - name: PPOL
     url: https://github.com/A7ocin/PPOL
     description: A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
@@ -103,6 +114,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-03-17'
   - name: Unity Beat Detection
     url: https://github.com/allanpichardo/Unity-Beat-Detection
     description: Musical beat detection and audio spectrum analysis for use with the Unity game engine.
@@ -116,6 +129,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-02-21'
   - name: Lib Pd Integration
     url: https://github.com/LibPdIntegration/LibPdIntegration
     description: A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
@@ -129,6 +144,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-04-14'
   - name: NAudio Unity
     url: https://github.com/WulfMarius/NAudio-Unity
     description: Port of NAudio to the Mono subset used by Unity3D.
@@ -142,6 +159,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-12-21'
   - name: Unity3 D Sound Manager
     url: https://github.com/baratgabor/Unity3D-SoundManager
     description: Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
@@ -155,6 +174,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-05-11'
   - name: Uni Ios Audio Service
     url: https://github.com/sanukin39/UniIosAudioService
     description: Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
@@ -168,6 +189,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-17'
   - name: AudioRecorder
     url: https://github.com/alternator/AudioRecorder
     description: Audio recorder component for Unity.
@@ -181,6 +204,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-19'
   - name: Unity Ableton Link
     url: https://github.com/comoc/UnityAbletonLink
     description: An Ableton Link plugin for Unity. (#PLUGINS)
@@ -194,6 +219,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-03-18'
   - name: iTween Expansion
     url: https://github.com/jtothebell/iTween
     description: An expansion of Bob Berkebile's Unity 3D tweening plugin.
@@ -207,6 +234,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2013-01-03'
   - name: ECS Tween
     url: https://github.com/Xerios/ECS-Tween
     description: Simple Unity tweening system using ECS that works with GameObjects!
@@ -220,6 +249,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-07-10'
   - name: I OS Unity Vuforia Guide
     url: https://github.com/keyv/iOSUnityVuforiaGuide
     description: Integration of Unity + Vuforia into native iOS application.
@@ -233,6 +264,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-06-29'
   - name: Unity Pixel Camera
     url: https://github.com/ChemiKhazi/UnityPixelCamera
     description: A resolution independent pixel perfect camera for Unity.
@@ -246,6 +279,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-03-03'
   - name: DeadSimple Pixel-Perfect Camera
     url: https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera
     description: An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
@@ -259,6 +294,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-01-23'
   - name: Physical Camera
     url: https://github.com/Unity-Technologies/Physical-Camera
     description: Unity Component that can describes a physical camera's attributes. (#Physics) ![Official](UnityResource16x16.png)
@@ -272,6 +309,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-05-24'
   - name: Unity Camera Follow 2D
     url: https://github.com/minhhh/unity-camera-follow-2d
     description: Script to make 2d camera follow players in an interesting way.
@@ -285,6 +324,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-02-02'
   - name: Unity CameraSizeToVelocity2D
     url: https://github.com/tonisuo/Unity-CameraSizeToVelocity2D
     description: Simple script to change the cameras size depending on the velocity of the target.
@@ -298,6 +339,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-08-10'
   - name: CameraLib4U
     url: https://github.com/mortennobel/CameraLib4U
     description: A third person camera system for Unity using Chase Camera.
@@ -311,6 +354,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2011-11-08'
   - name: Unity First Person View
     url: https://github.com/TiagoF11/-Unity-First-Person-View
     description: An asset that allows you to have a First Person Perspective where first person objects do not clip through the environment, have a separate field of view from the environment and can receive shadow
@@ -324,6 +369,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-07-15'
   - name: Unity3D PerlinCameraShake
     url: https://github.com/baratgabor/Unity3D-PerlinCameraShake
     description: Perlin noise based camera shake MonoBehaviour script for Unity3D, ready to attach to a Camera. Uses a coroutine-based execution that exits after the job is done. Should be relatively performant.
@@ -337,6 +384,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-05-11'
   - name: Unity Jobs View Frustum Culling
     url: https://github.com/MPozek/Unity-Jobs-View-Frustum-Culling
     description: A simple collection of jobs used for view frustum culling
@@ -350,6 +399,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-03-02'
   - name: Unity Camera Shake
     url: https://github.com/IronWarrior/UnityCameraShake
     description: Generates pseudo-random camera shake using Perlin noise.
@@ -363,6 +414,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-28'
   - name: Unity Scene Camera Controller
     url: https://github.com/XJINE/Unity_SceneCameraController
     description: Control a camera or any other object like SceneView camera.
@@ -376,6 +429,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-09-13'
   - name: UnityPhysics2D
     url: https://github.com/MelvynMay/UnityPhysics2D
     description: Examples of various Unity 2D Physics components and features.
@@ -402,6 +457,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-08-08'
   - name: Unity Math Reference
     url: https://github.com/zezba9000/UnityMathReference
     description: Math reference for games and more. All visualized in Unity3D.
@@ -428,6 +485,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-02-04'
   - name: Quickfracture
     url: https://github.com/OskarSigvardsson/quickfracture
     description: A unity destruction effect.
@@ -441,6 +500,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-03-29'
   - name: PBD Fluid in Unity
     url: https://github.com/Scrawk/PBD-Fluid-in-Unity
     description: A PBD fluid in unity running on the GPU.
@@ -454,6 +515,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-08-30'
   - name: CharacterController2D
     url: https://github.com/prime31/CharacterController2D
     description: A 2D controller that behaves very similarly to Unity's CharacterController component.
@@ -467,6 +530,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-09-21'
   - name: Unity 2D Platformer Controller
     url: https://github.com/cjddmut/Unity-2D-Platformer-Controller
     description: A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate su
@@ -480,6 +545,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-01-10'
   - name: NaughtyCharacter
     url: https://github.com/dbrizov/NaughtyCharacter
     description: Third Person Controller for Unity.
@@ -506,6 +573,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-10-26'
   - name: Super Character Controller
     url: https://github.com/gucheng0712/SuperCharacterController
     description: Unity custom character controller. (#ARCHIVED)
@@ -519,6 +588,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-02-12'
   - name: AdMob Unity Plugin
     url: https://github.com/OrigameStudio/admob-unity-plugin
     description: An extension for Unity3d to place AdMob banners in your Android games. (#PLUGINS)
@@ -532,6 +603,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2014-02-28'
   - name: Google Mobile Ads Unity Plugin
     url: https://github.com/googleads/googleads-mobile-unity
     description: Official Unity Plugin for the Google Mobile Ads SDK
@@ -558,6 +631,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-05-30'
   - name: SpatialOS GDK for Unity
     url: https://github.com/spatialos/gdk-for-unity
     description: Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. (Terms of Service discussion alert!)
@@ -571,6 +646,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2022-01-17'
   - name: Pitaya
     url: https://github.com/topfreegames/pitaya
     description: Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
@@ -610,6 +688,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-02-22'
   - name: Nakama Unity
     url: https://github.com/heroiclabs/nakama-unity
     description: Unity client for Nakama server.
@@ -636,6 +716,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2015-01-16'
   - name: Unity Socket IO
     url: https://github.com/NetEase/UnitySocketIO
     description: Socket.io client for Unity.
@@ -649,3 +731,5 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2014-05-04'

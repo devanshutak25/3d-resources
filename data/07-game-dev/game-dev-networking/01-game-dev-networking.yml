@@ -123,6 +123,9 @@ entries:
         - games
       tech:
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2022-08-15'
   - name: Unity Multiplayer Packages
     url: https://github.com/Unity-Technologies/multiplayer
     description: Unity multiplayer packages and samples. ![Official](UnityResource16x16.png)
@@ -136,6 +139,8 @@ entries:
         - games
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2022-12-20'
   - name: Basic Multiplayer Unity
     url: https://github.com/manlaig/basic_multiplayer_unity
     description: Fast-Paced UDP Client-Server implementation.
@@ -149,6 +154,8 @@ entries:
         - games
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2020-02-20'
   - name: Gambetta_Networked Demo
     url: https://github.com/RamiAhmed/Gambetta_NetworkedDemo
     description: 'Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta''s Multiplayer Network Demo in Unity C# as Networked using Lidgren Network.'
@@ -162,6 +169,8 @@ entries:
         - games
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2018-01-12'
   - name: 📄 build dynamic matchmaking with PubNub ~ epicgames
     url: https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services
     description: '[multiplayer].'

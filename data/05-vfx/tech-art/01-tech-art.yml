@@ -75,6 +75,8 @@ entries:
         - compositing
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-09-17'
   - name: NXT
     url: https://nxt-dev.github.io/
     description: A layered code compositing application.
@@ -193,3 +195,5 @@ entries:
       tech:
         - opensource-alt
         - usd
+    stale: true
+    last_pushed: '2019-04-13'

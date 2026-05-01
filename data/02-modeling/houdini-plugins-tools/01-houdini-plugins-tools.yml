@@ -182,6 +182,9 @@ entries:
       tech:
         - houdini-addon
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2019-08-23'
   - name: ZENO
     url: https://github.com/zenustech/zeno
     description: Node-based 3D system that can produce cinematic physics effects at high efficiency.

@@ -574,6 +574,8 @@ entries:
     readme_tags:
       - PyTorch Lightning
       - GitHub
+    stale: true
+    last_pushed: '2023-08-03'
   - name: Ne RF W
     url: https://github.com/kwea123/nerf_pl/tree/nerfw
     description: '[@kwea123](https://github.com/kwea123), 2021'
@@ -589,6 +591,8 @@ entries:
     readme_tags:
       - NeRF-W
       - GitHub
+    stale: true
+    last_pushed: '2023-08-03'
   - name: Ne RF Py Torch3 D
     url: https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf
     description: '[@facebookresearch](https://github.com/facebookresearch), 2020'
@@ -634,6 +638,9 @@ entries:
     readme_tags:
       - Mip-NeRF
       - GitHub
+    archived: true
+    stale: true
+    last_pushed: '2022-10-10'
   - name: Mr Ne RF
     url: https://github.com/MrNeRF/awesome-3D-gaussian-splatting
     description: For inspiring me to construct this repo.
@@ -679,6 +686,8 @@ entries:
     readme_tags:
       - Python
       - CUDA
+    stale: true
+    last_pushed: '2023-07-27'
   - name: 3D Gaussian Splatting (WangFeng18 reimpl)
     url: https://github.com/WangFeng18/3d-gaussian-splatting
     description: Python/CUDA    | MIT        |
@@ -724,6 +733,8 @@ entries:
     readme_tags:
       - Style Transfer
       - GitHub
+    stale: true
+    last_pushed: '2024-05-09'
   - name: Nerfstudio Unofficial
     url: https://github.com/yzslab/nerfstudio/tree/gaussian_splatting
     description: Nerfstudio Unofficial.

@@ -123,6 +123,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2015-11-07'
   - name: typicons.font
     url: http://s-ings.com/typicons/
     description: 336 pixel perfect, all-purpose vector icons in a web-font kit
@@ -148,6 +150,8 @@ entries:
       tech:
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2024-02-05'
   - name: FontSelector
     url: https://github.com/samytichadou/FontSelector_blender_addon/
     description: Easy font management inside Blender.
@@ -188,6 +192,8 @@ entries:
         - generalist
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2021-11-30'
   - name: Material design icons
     url: https://github.com/google/material-design-icons
     description: Official icon set from Google

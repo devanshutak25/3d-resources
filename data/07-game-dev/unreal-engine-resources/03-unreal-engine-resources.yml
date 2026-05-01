@@ -31,6 +31,8 @@ entries:
     readme_tags:
       - grpc
       - networking
+    stale: true
+    last_pushed: '2020-06-16'
   - name: Udp Ue4
     url: https://github.com/getnamo/udp-ue4
     description: Convenience UDP wrapper for Unreal Engine 4
@@ -79,6 +81,8 @@ entries:
     readme_tags:
       - multiplayer
       - server
+    stale: true
+    last_pushed: '2022-12-27'
   - name: UEWebsocket
     url: https://github.com/kristjanvalur/UEWebsocket
     description: Unreal engine 4 websocket plugin for both c++ and blueprint developer
@@ -95,6 +99,8 @@ entries:
     readme_tags:
       - websocket
       - networking
+    stale: true
+    last_pushed: '2022-01-07'
   - name: Mqtt Utilities Unreal
     url: https://github.com/NinevaStudios/mqtt-utilities-unreal
     description: MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
@@ -127,6 +133,8 @@ entries:
     readme_tags:
       - bluetooth
       - iot
+    stale: true
+    last_pushed: '2021-02-18'
   - name: GGPOUE4
     url: https://github.com/BwdYeti/GGPOUE4
     description: Unreal Engine 4 plugin port of GGPO
@@ -208,6 +216,8 @@ entries:
       - replication
       - multiplayer
     notes: 'MISFIT: description references Unity Addressables but repo is Unreal replication graph; verify upstream description.'
+    stale: true
+    last_pushed: '2022-11-11'
   - name: Unreal Magic Nodes
     url: https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes
     description: Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
@@ -224,6 +234,8 @@ entries:
     readme_tags:
       - blueprint
       - cpp
+    stale: true
+    last_pushed: '2022-11-12'
   - name: UE4 EOS Plugin
     url: https://github.com/gaslightgames/UE4_EOS_Plugin
     description: A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
@@ -240,6 +252,9 @@ entries:
     readme_tags:
       - eos
       - online-services
+    archived: true
+    stale: true
+    last_pushed: '2020-11-08'
   - name: Nano
     url: https://github.com/pfist/Nano
     description: A tiny template for tiny Unreal games.
@@ -257,6 +272,8 @@ entries:
       - template
       - starter
     notes: 'MISFIT: project template, not a plugin; tech tag unreal-plugin imprecise.'
+    stale: true
+    last_pushed: '2021-08-27'
   - name: Unreal Engine Python
     url: https://github.com/20tab/UnrealEnginePython
     description: Embed Python in Unreal Engine 4
@@ -273,6 +290,8 @@ entries:
     readme_tags:
       - python
       - scripting
+    stale: true
+    last_pushed: '2022-06-22'
   - name: sluaunreal
     url: https://github.com/Tencent/sluaunreal
     description: Lua dev plugin for unreal engine 4
@@ -305,6 +324,9 @@ entries:
     readme_tags:
       - csharp
       - scripting
+    archived: true
+    stale: true
+    last_pushed: '2020-05-16'
   - name: LuaMachine
     url: https://github.com/rdeioris/LuaMachine
     description: Unreal Engine 4 Plugin for Lua APIs implementation
@@ -353,6 +375,8 @@ entries:
     readme_tags:
       - nim
       - scripting
+    stale: true
+    last_pushed: '2017-07-05'
   - name: Kotlin Unreal
     url: https://github.com/hiperbou/kotlin-unreal
     description: 'Kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4'
@@ -369,6 +393,8 @@ entries:
     readme_tags:
       - kotlin
       - scripting
+    stale: true
+    last_pushed: '2024-01-03'
   - name: Unreal.hx
     url: https://github.com/proletariatgames/unreal.hx
     description: 'Unreal.hx: Haxe Integration for Unreal'
@@ -385,6 +411,8 @@ entries:
     readme_tags:
       - haxe
       - scripting
+    stale: true
+    last_pushed: '2023-01-10'
   - name: SilvervineUE4Lua
     url: https://github.com/devcat-studio/SilvervineUE4Lua
     description: A Lua Scripting Plugin for Unreal Engine 4
@@ -401,6 +429,8 @@ entries:
     readme_tags:
       - lua
       - scripting
+    stale: true
+    last_pushed: '2020-01-09'
   - name: Ue4 Protobuf
     url: https://github.com/hxhb/ue4-protobuf
     description: This is an Unreal Engine 4 plugin that integrates Protobuf into the project without requiring you to add system PATH or anything else.
@@ -417,6 +447,8 @@ entries:
     readme_tags:
       - protobuf
       - serialization
+    stale: true
+    last_pushed: '2020-05-10'
   - name: DataConfig
     url: https://github.com/slowburn-dev/DataConfig
     description: Serialization framework for Unreal Engine Property System that just works!
@@ -449,6 +481,7 @@ entries:
     readme_tags:
       - audio
       - analysis
+    archived: true
   - name: XJ music
     url: https://github.com/xjmusic/UnrealPlugin/
     description: XJ music plugin for Unreal Engine. XJ is the first end-to-end solution for adaptive music in video games built specifically and only for music, enabling composers to realize new possibilities.
@@ -481,6 +514,7 @@ entries:
     readme_tags:
       - speech
       - whisper
+    archived: true
   - name: OSVR Unreal
     url: https://github.com/OSVR/OSVR-Unreal
     description: OSVR plugin for Unreal Engine
@@ -498,6 +532,8 @@ entries:
     readme_tags:
       - vr
       - osvr
+    stale: true
+    last_pushed: '2017-12-01'
   - name: Mixed Reality UX Tools Unreal
     url: https://github.com/microsoft/MixedReality-UXTools-Unreal
     description: UX tools and components for developing Mixed Reality applications in UE4.
@@ -515,6 +551,9 @@ entries:
     readme_tags:
       - mixed-reality
       - ux
+    archived: true
+    stale: true
+    last_pushed: '2022-11-17'
   - name: UMG Resizable Widget
     url: https://github.com/MWadstein/UMG-ResizableWidget
     description: Resizable Widget for UMG for Unreal Engine 4
@@ -531,6 +570,8 @@ entries:
     readme_tags:
       - umg
       - ui
+    stale: true
+    last_pushed: '2015-11-06'
   - name: FastSwitcher
     url: https://github.com/gameDNAstudio/FastSwitcher
     description: Fast Switcher UMG for Unreal Engine 4 loads only the needed widget
@@ -547,6 +588,8 @@ entries:
     readme_tags:
       - umg
       - ui
+    stale: true
+    last_pushed: '2019-12-26'
   - name: Unreal UMG 3 D Object In Widget
     url: https://github.com/Tolc/Unreal-UMG-3DObjectInWidget
     description: A simple Unreal Engine 4 project (precisely 4.7.4) showing how to render a 3D object/mesh in a UMG widget
@@ -564,6 +607,8 @@ entries:
       - umg
       - sample
     notes: 'MISFIT: sample project, not plugin; tech tag unreal-plugin imprecise.'
+    stale: true
+    last_pushed: '2016-02-07'
   - name: UE4GamepadUMG
     url: https://github.com/EverNewJoy/UE4GamepadUMG
     description: Unreal Engine 4 gamepad plugin so you can use a gamepad like a mouse in UMG
@@ -580,6 +625,8 @@ entries:
     readme_tags:
       - gamepad
       - umg
+    stale: true
+    last_pushed: '2021-09-30'
   - name: Unreal Im GUI
     url: https://github.com/segross/UnrealImGui
     description: Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.
@@ -612,6 +659,8 @@ entries:
     readme_tags:
       - tween
       - umg
+    stale: true
+    last_pushed: '2023-08-05'
   - name: Ue4 Canvas GUI
     url: https://github.com/MaddyOff/ue4-canvas-gui
     description: It's a simple Canvas GUI for Unreal Engine 4 with mouse operation
@@ -644,6 +693,8 @@ entries:
     readme_tags:
       - ui-framework
       - fairygui
+    stale: true
+    last_pushed: '2023-07-29'
   - name: ZipUtility Plugin
     url: https://github.com/getnamo/ZipUtility-ue4
     description: Event driven 7zip utility plugin for Unreal Engine 4
@@ -692,6 +743,8 @@ entries:
     readme_tags:
       - migration
       - unity
+    stale: true
+    last_pushed: '2021-04-28'
   - name: UE4 Binary Builder
     url: https://github.com/ryanjon2040/UE4-Binary-Builder
     description: An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
@@ -708,6 +761,8 @@ entries:
       - build-tool
       - rocket-build
     notes: 'MISFIT: external builder app, not plugin; removed unreal-plugin tech tag.'
+    stale: true
+    last_pushed: '2024-04-03'
   - name: Prefabricator Ue4
     url: https://github.com/coderespawn/prefabricator-ue4
     description: Prefabricator - Prefab plugin for Unreal Engine 4
@@ -740,6 +795,7 @@ entries:
     readme_tags:
       - window-capture
       - realtime
+    archived: true
   - name: Unreal Fast Noise
     url: https://github.com/midgen/UnrealFastNoise
     description: Modular, Blueprint-friendly noise generation for UE4

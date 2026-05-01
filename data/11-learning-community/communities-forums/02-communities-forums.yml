@@ -460,6 +460,8 @@ entries:
         - opensource-alt
         - unreal-plugin
     notes: 'RELOCATE: Awesome-list/reference repo, not a community. entry_type should be reference.'
+    stale: true
+    last_pushed: '2021-11-18'
   - name: MassSample
     url: https://github.com/Megafunk/MassSample
     description: Community Mass Sample

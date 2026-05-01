@@ -80,6 +80,8 @@ entries:
     readme_tags:
       - Wrap Deformer
       - Maya
+    stale: true
+    last_pushed: '2022-12-15'
   - name: Onion Skin Renderer
     url: https://github.com/Viele/onionSkinRenderer
     description: Onion Skin Renderer for Maya.
@@ -96,3 +98,5 @@ entries:
     readme_tags:
       - Onion Skin
       - Maya
+    stale: true
+    last_pushed: '2022-11-16'

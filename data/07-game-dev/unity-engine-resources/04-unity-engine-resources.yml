@@ -15,6 +15,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-07-05'
   - name: UXF
     url: https://github.com/immersivecognition/unity-experiment-framework
     description: Framework for human behaviour experiments in Unity.
@@ -47,6 +49,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-08-08'
   - name: MOBA C Sharp Unity
     url: https://github.com/yasgamesdev/MOBA_CSharp_Unity
     description: Framework for MOBA games. The server does not depend on Unity. Run on Linux.
@@ -63,6 +67,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-12-08'
   - name: EasyMOBA
     url: https://github.com/nidaynere/easymoba
     description: MOBA game template for Unity.
@@ -79,6 +85,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-05'
   - name: RPGCore
     url: https://github.com/Fydar/RPGCore
     description: RPGCore is a framework for producing RPG games and mechanics in Unity.
@@ -111,6 +119,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-08-09'
   - name: ScriptableObject Architecture
     url: https://github.com/DanielEverland/ScriptableObject-Architecture
     description: Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy. (#PATTERNS)
@@ -127,6 +137,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2023-12-17'
   - name: UDBase
     url: https://github.com/KonH/UDBase
     description: Module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code.
@@ -143,6 +156,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2018-12-17'
   - name: Akka.Unity.Sample
     url: https://github.com/Arkatufus/Akka.Unity.Sample
     description: Akka.Net 1.3.0 Running in Unity3D.
@@ -159,6 +175,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-09-25'
   - name: SpacePuppy Unity Framework 3.0
     url: https://github.com/lordofduct/spacepuppy-unity-framework-3.0
     description: A framework of various tools to facilitate making games in Unity 2017.
@@ -175,6 +193,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-06-17'
   - name: yaSingleton
     url: https://github.com/jedybg/yaSingleton
     description: A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
@@ -191,6 +211,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-10-01'
   - name: Signals (UnityPatterns)
     url: https://github.com/UnityPatterns/Signals
     description: A simple, easy to implement, editor-driven signal/event system for Unity. See  author's [repositories](https://github.com/UnityPatterns).
@@ -207,6 +229,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2013-10-04'
   - name: Unity Singleton MonoBehavior
     url: https://github.com/kleber-swf/Unity-Singleton-MonoBehaviour
     description: An implementation of Singleton pattern for Unity MonoBehaviours.
@@ -223,6 +247,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-04-06'
   - name: Unity QuickPool
     url: https://github.com/densylkin/QuickPool
     description: Simple pooling toolkit for Unity game engine.
@@ -239,6 +265,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-03-30'
   - name: RecyclerKit
     url: https://github.com/prime31/RecyclerKit
     description: Object pool manager for Unity.
@@ -255,6 +283,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-01-22'
   - name: Unity Object Pool
     url: https://github.com/thefuntastic/unity-object-pool
     description: An elegant object pool and manager implementation for Unity.
@@ -271,6 +301,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-07-08'
   - name: UnityPooling
     url: https://github.com/Mukarillo/UnityPooling
     description: An optimized approach object pooling.
@@ -287,6 +319,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-09-26'
   - name: Unity3D Prefab Pool
     url: https://github.com/TarasOsiris/unity3d-prefab-pool
     description: Simple Prefab Pool for Unity3D.
@@ -303,6 +337,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2014-08-14'
   - name: Unity Object Pooler
     url: https://github.com/imxzjv/UnityObjectPooler
     description: Simple object pool for Unity.
@@ -319,6 +355,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-03-01'
   - name: Msgpack Unity3D
     url: https://github.com/deniszykov/msgpack-unity3d
     description: MessagePack and JSON serializer for Unity3D.
@@ -367,6 +405,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-12'
   - name: Protobuf3 for Unity
     url: https://github.com/bitcraftCoLtd/protobuf3-for-unity
     description: Google Protocol Buffers runtime library version 3 for Unity (targeting .NET 3.5).
@@ -383,6 +423,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-09-07'
   - name: Sproto Unity
     url: https://github.com/m2q1n9/sproto-Unity
     description: A demo show how to use sproto-Csharp in Unity.
@@ -399,6 +441,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-10-08'
   - name: Unity Serializer NG
     url: https://github.com/TheSniperFan/unityserializer-ng
     description: Resurrection of the discontinued Unity Serializer by Mike Talbot from WhyDoIDoIt.com (Unity 5).
@@ -415,6 +459,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-03-01'
   - name: OpenFile
     url: https://github.com/mrzapp/openfile
     description: Open source serialization for Unity.
@@ -431,6 +477,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-11-30'
   - name: JSONObject
     url: https://github.com/mtschoen/JSONObject
     description: The JSONObject class/library for Unity.
@@ -447,6 +495,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-12-27'
   - name: BitpackingTools
     url: https://github.com/emotitron/BitpackingTools
     description: Bitpacking/serialization libraries used interally for Unity Store NetworkSyncTransform and TransformCrusher Assets.
@@ -463,6 +513,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-05-10'
   - name: Knight Windjson
     url: https://github.com/winddyhe/knight-windjson
     description: A Json Parser used in Unity3D engine.
@@ -479,6 +531,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-11-06'
   - name: Unity Interface Reference
     url: https://github.com/Cippman/Unity-InterfaceReference
     description: A serializable class that holds the reference to an interface.
@@ -495,6 +549,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-04-15'
   - name: log4net.unity
     url: https://github.com/HolyShovelSoft/log4net.unity
     description: Some log4net helper classes and UnityEngine.Debug appender for Unity.
@@ -527,6 +583,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-01-08'
   - name: Net Peeweek Console
     url: https://github.com/peeweek/net.peeweek.console
     description: An interactive runtime console for unity available as package.
@@ -543,6 +601,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-06-13'
   - name: CUDLR
     url: https://github.com/proletariatgames/CUDLR
     description: Console for Unity Debugging and Logging Remotely. (#DEPRECATED)
@@ -559,6 +619,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-02-28'
   - name: TTConsole
     url: https://github.com/chiuan/TTConsole
     description: The Best Debuger & Runtime Console For Unity3D.
@@ -575,6 +637,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-11-15'
   - name: Unity File Debug
     url: https://github.com/Sacred-Seed-Studio/Unity-File-Debug
     description: Enhanced debug logging for Unity, with JSON/CSV export and HTML viewer.
@@ -591,6 +655,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-10-31'
   - name: Unity Logs Viewer
     url: https://github.com/aliessmael/Unity-Logs-Viewer
     description: Using this tool you can easily check your editor console logs inside the game itself! No need to go back to the project and do any tests to track the problems!
@@ -607,6 +673,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-12-09'
   - name: Runtime Unity Editor
     url: https://github.com/ManlyMarco/RuntimeUnityEditor
     description: In-game inspector and debugging tools for applications made with Unity3D game engine.
@@ -639,6 +707,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-07-29'
   - name: Gendarme
     url: https://github.com/spouliot/gendarme
     description: From inside the Unity editor.
@@ -655,6 +725,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2011-01-26'
   - name: CoroutineChain
     url: https://github.com/geniikw/CoroutineChain
     description: Unity3D, Coroutine, scripting.
@@ -671,6 +743,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-03-03'
   - name: Unity Routines
     url: https://github.com/tomblind/unity-routines
     description: Replacement for Unity coroutines that supports hierarchical routines and pooling.
@@ -687,6 +761,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-11-18'
   - name: Unity Async Routines
     url: https://github.com/TorVestergaard/UnityAsyncRoutines
     description: An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism.
@@ -703,6 +779,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-03-21'
   - name: Unity Main Thread Dispatcher
     url: https://github.com/PimDeWitte/UnityMainThreadDispatcher
     description: A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
@@ -719,6 +797,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-03-14'
   - name: Unity Native Scripting
     url: https://github.com/jacksondunstan/UnityNativeScripting
     description: Unity Scripting in C++.
@@ -735,6 +815,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-03-06'
   - name: LINQ to GameObject for Unity
     url: https://github.com/neuecc/LINQ-to-GameObject-for-Unity
     description: Traverse GameObject Hierarchy by LINQ.
@@ -767,6 +849,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-02-27'
   - name: UnityComponent
     url: https://github.com/GameBuildingBlocks/UnityComponent
     description: Unity Resource Component.
@@ -783,6 +867,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-04-10'
   - name: Unity.Library.eppz
     url: https://github.com/eppz/Unity.Library.eppz
     description: Collection of libraries for Unity.
@@ -799,3 +885,5 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-01-29'

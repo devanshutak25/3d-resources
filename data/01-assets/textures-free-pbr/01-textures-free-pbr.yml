@@ -238,6 +238,8 @@ entries:
         - opensource-alt
         - procedural
         - node-based
+    stale: true
+    last_pushed: '2020-06-27'
   - name: Glsl Texture
     url: https://github.com/patriciogonzalezvivo/glslTexture
     description: Create textures from Glsl fragment shaders on Blender (2.8)
@@ -253,6 +255,8 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+    stale: true
+    last_pushed: '2023-02-11'
   - name: Texture Synthesis
     url: https://github.com/EmbarkStudios/texture-synthesis
     description: Example-based texture synthesis written in Rust.
@@ -295,6 +299,8 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2016-11-05'
   - name: Libgdx Texture Packer
     url: https://github.com/libgdx/libgdx/wiki/Texture-packer
     description: Texture Packer built into Libgdx
@@ -323,6 +329,8 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2022-02-27'
   - name: axys
     url: https://github.com/axys1/axys
     description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.

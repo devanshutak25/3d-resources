@@ -451,6 +451,8 @@ entries:
         - opensource-alt
         - unreal-plugin
     notes: MISFIT — UE4 UMG widget pack, not a learning channel.
+    stale: true
+    last_pushed: '2020-11-26'
   - name: img2img animation with hands | Reddit
     url: https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/
     description: Img2img animation with hands | Reddit.

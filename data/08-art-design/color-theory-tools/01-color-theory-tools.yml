@@ -190,3 +190,5 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+    stale: true
+    last_pushed: '2019-03-30'

@@ -31,6 +31,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-10-22'
   - name: UnityTimer
     url: https://github.com/akbiggs/UnityTimer
     description: Powerful and convenient library for running actions after a delay in Unity3D.
@@ -47,6 +49,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-06-02'
   - name: UniGif
     url: https://github.com/WestHillApps/UniGif
     description: GIF image decoder for Unity.
@@ -95,6 +99,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-08-13'
   - name: EzySlice
     url: https://github.com/DavidArayan/EzySlice
     description: An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
@@ -111,6 +117,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-08-10'
   - name: MeshDecimator
     url: https://github.com/Whinarn/MeshDecimator
     description: A mesh decimation library for .NET and Unity.
@@ -127,6 +135,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2020-08-28'
   - name: CosineGradient
     url: https://github.com/keijiro/CosineGradient
     description: Cosine gradient generator for Unity.
@@ -143,6 +154,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2022-03-31'
   - name: PerfAssist
     url: https://github.com/GameBuildingBlocks/PerfAssist
     description: Various performance-related components for Unity development.
@@ -159,6 +172,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-06-14'
   - name: Unity Wave Function Collapse
     url: https://github.com/selfsame/unity-wave-function-collapse
     description: Fork of WaveFunctionCollapse.
@@ -176,6 +191,8 @@ entries:
         - unity-plugin
         - opensource-alt
         - procedural
+    stale: true
+    last_pushed: '2020-11-05'
   - name: Green Mamba Stealth
     url: https://github.com/DameonL/GreenMambaStealth
     description: An advanced stealth system for Unity that detects how well-lit a character is, allowing characters to hide in dynamic shadows.
@@ -192,6 +209,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2023-06-06'
   - name: Pedometer API
     url: https://github.com/olokobayusuf/Pedometer-API
     description: Pedometer is a native pedometer API for Unity Engine.
@@ -211,6 +230,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2021-01-14'
   - name: Signals (yankooliveira)
     url: https://github.com/yankooliveira/signals
     description: A typesafe, lightweight messaging lib for Unity.
@@ -227,6 +249,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-06-05'
   - name: Coop Design
     url: https://github.com/simeonradivoev/Coop-Design
     description: A prototype for runtime cooperative level designing in Unity 3D.
@@ -243,6 +267,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-10-19'
   - name: Hydrogen CSharp
     url: https://github.com/nxrighthere/Hydrogen-CSharp
     description: C# framework for Unity providing collections, utilities, and helpers.
@@ -260,6 +286,8 @@ entries:
         - unity-plugin
         - opensource-alt
     notes: Description corrected — original was duplicate of Coop-Design.
+    stale: true
+    last_pushed: '2022-03-13'
   - name: Unity3D Script Library
     url: https://github.com/QianMo/Unity3D-Script-Library
     description: A Script Library of Unity3D.
@@ -276,6 +304,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-03-21'
   - name: OpenStash
     url: https://github.com/mrzapp/openstash
     description: Open source inventory framework for Unity.
@@ -292,6 +322,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-11-30'
   - name: OpenConvo
     url: https://github.com/mrzapp/openconvo
     description: Open source conversation framework for Unity.
@@ -308,6 +340,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-11-30'
   - name: UnityRandom
     url: https://github.com/tucano/UnityRandom
     description: Random library in C# for Unity3D.
@@ -324,6 +358,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2012-04-24'
   - name: Unity Atoms
     url: https://github.com/AdamRamberg/unity-atoms
     description: Tiny modular pieces utilizing the power of Scriptable Objects.
@@ -356,6 +393,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-10-31'
   - name: Swiss Army Lib
     url: https://github.com/ArchonInteractive/SwissArmyLib
     description: Collection of helpful utilities we use in our Unity projects.
@@ -372,6 +411,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2019-10-20'
   - name: Uni Version Manager
     url: https://github.com/sanukin39/UniVersionManager
     description: Simple Version Getter for Unity, it can be used for iOS, Android and unity editor platform. It can also get build version.
@@ -391,6 +433,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-10-31'
   - name: UniClipboard
     url: https://github.com/sanukin39/UniClipboard
     description: Simple clipboard plugin for Unity.
@@ -406,6 +450,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-11-04'
   - name: SceneHistory Unity
     url: https://github.com/takupisu/SceneHistory-Unity
     description: Open scenes quickly from a custom history of scenes. Supports scene addition.
@@ -422,6 +468,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-06-10'
   - name: NDocumentation
     url: https://github.com/vertxxyz/NDocumentation
     description: A documentation window for Unity Editor that displays rich text pages.
@@ -438,6 +486,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2019-03-03'
   - name: ColorPalette
     url: https://github.com/DomDomHaas/ColorPalette
     description: Light version of the ColorPalettes Asset for Unity.
@@ -454,6 +505,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2014-10-07'
   - name: Settings Unity
     url: https://github.com/LightBuzz/Settings-Unity
     description: Settings utility for Unity3D.
@@ -470,6 +523,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-04-02'
   - name: PNGCS
     url: https://github.com/andrew-raphael-lukasik/pngcs
     description: Complete PNG encoding and decoding for Unity.
@@ -486,6 +541,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-04-24'
   - name: UnityIO
     url: https://github.com/ByronMayne/UnityIO
     description: An easy to use API that allows you to manipulate files inside of Unity without the headache of using AssetDatabase.
@@ -502,6 +559,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-06-13'
   - name: VariableAssets
     url: https://github.com/ZeroSleepGames/VariableAssets
     description: Variable assets for Unity3D.
@@ -518,6 +577,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-08-03'
   - name: Auto Save Scene
     url: https://github.com/liortal53/AutoSaveScene
     description: Unity editor helper for auto saving scene & minimizing lost work.
@@ -550,6 +611,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-11-29'
   - name: UnityHelpers
     url: https://github.com/jeffvella/UnityHelpers
     description: A collection of random scripts related to Unity.
@@ -566,6 +629,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-12-15'
   - name: UndoPro
     url: https://github.com/Seneral/UndoPro
     description: UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
@@ -582,6 +647,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2023-08-21'
   - name: Unity Auth Manager
     url: https://github.com/zklinger2000/unity-auth-manager
     description: An example of using a Javascript Web Token (JWT) based authentication system for an app built with Unity.
@@ -598,6 +666,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-03-30'
   - name: Deform
     url: https://github.com/keenanwoodall/Deform
     description: A fully-featured deformer system for Unity.
@@ -646,6 +716,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-01-11'
   - name: Unity SemVer
     url: https://github.com/jeffcampbellmakesgames/unity-semver
     description: A SemVer 2.0.0 implementation for Unity.
@@ -678,6 +750,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2021-01-20'
   - name: Unity Mesh Triangulator
     url: https://github.com/joshcamas/unity-mesh-triangulator
     description: A modified version of alexmuab's unity-mesh-triangulator.
@@ -694,6 +768,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2019-04-14'
   - name: Unity Rulers
     url: https://github.com/geekrelief/unityrulers
     description: A ruler editor to measure distances between game objects in the Scene view.
@@ -710,6 +786,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2020-09-07'
   - name: Unity SimpleUsefulGizmos
     url: https://github.com/flamacore/Unity-SimpleUsefulGizmos
     description: Additional Gizmos showing information on your scene view like colored colliders, rotation indicator lines.
@@ -726,6 +804,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2018-07-29'
   - name: Better Defines
     url: https://github.com/TarasOsiris/Better-Defines
     description: An easy and elegant way to manage your preprocessor directives in Unity3D.
@@ -742,6 +822,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-08-26'
   - name: DTCommandPalette
     url: https://github.com/DarrenTsung/DTCommandPalette
     description: Command palette for Unity - run methods, open scenes, and more!
@@ -758,6 +840,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2017-10-22'
   - name: Unity3D Quick Search
     url: https://github.com/appetizermonster/Unity3D-QuickSearch
     description: A Command Palette for Unity.
@@ -774,6 +858,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2017-07-31'
   - name: Unity Everyplay Save To Local
     url: https://github.com/yasirkula/UnityEveryplaySaveToLocal
     description: A helper script to save captured Everyplay videos to local file system on Android & iOS.
@@ -811,3 +898,5 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2016-04-19'

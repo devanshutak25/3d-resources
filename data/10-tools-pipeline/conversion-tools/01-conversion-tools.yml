@@ -367,6 +367,8 @@ entries:
       tech:
         - opensource-alt
         - usd
+    stale: true
+    last_pushed: '2021-02-03'
   - name: Pixelicious
     url: https://www.pixelicious.xyz/
     description: Image-to-Pixel Art converter.
@@ -410,6 +412,8 @@ entries:
         - opensource-alt
         - blender-addon
         - unreal-plugin
+    stale: true
+    last_pushed: '2024-03-01'
   - name: USDZ
     url: https://github.com/robmcrosby/BlenderUSDZ
     description: '[glTF MultiExport](https://github.com/MozillaReality/blender-gltf-multiexport-addon), [ZBrush](https://blenderartists.org/t/goz-for-blender-2-8/1138418)'
