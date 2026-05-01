@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - Artistic
       - Subscription
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: FLUX 1.1 Pro (Black Forest Labs)
     url: https://blackforestlabs.ai/
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Production-Grade
       - Open Model
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Stable Diffusion 3.5
     url: https://huggingface.co/stabilityai
@@ -47,7 +47,7 @@ entries:
     readme_tags:
       - Open Source
       - Self-Host
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: DALL-E 3 (OpenAI)
     url: https://openai.com/dall-e-3
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - OpenAI
       - Semantic
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Adobe Firefly 3
     url: https://firefly.adobe.com/
@@ -80,7 +80,7 @@ entries:
     readme_tags:
       - Commercial-Safe
       - Adobe CC
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Leonardo AI
     url: https://leonardo.ai/
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - Real-time
       - Controlled
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Ideogram 2.0
     url: https://ideogram.ai/
@@ -113,7 +113,7 @@ entries:
     readme_tags:
       - Typography
       - Text Rendering
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Google Gemini Image Gen
     url: https://gemini.google.com/
@@ -129,7 +129,7 @@ entries:
     readme_tags:
       - Google
       - Realism
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Grok Aurora (xAI)
     url: https://x.ai/
@@ -145,7 +145,7 @@ entries:
     readme_tags:
       - xAI
       - Photoreal
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Recraft V3
     url: https://www.recraft.ai/
@@ -161,7 +161,7 @@ entries:
     readme_tags:
       - Design Focus
       - Vector
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Krea AI
     url: https://www.krea.ai/
@@ -178,7 +178,7 @@ entries:
     readme_tags:
       - Real-time
       - Upscaling
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Playground v3
     url: https://playground.com/
@@ -194,7 +194,7 @@ entries:
     readme_tags:
       - Design Canvas
       - Mixed-mode
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Kolors (Kuaishou)
     url: https://github.com/Kwai-Kolors/Kolors
@@ -211,7 +211,7 @@ entries:
     readme_tags:
       - Open Source
       - Bilingual
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: HunyuanDiT (Tencent)
     url: https://github.com/Tencent/HunyuanDiT
@@ -228,7 +228,7 @@ entries:
     readme_tags:
       - Tencent
       - DiT
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Jimeng / Dreamina (ByteDance)
     url: https://jimeng.jianying.com/
@@ -244,7 +244,7 @@ entries:
     readme_tags:
       - ByteDance
       - Video Pipeline
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: '3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows'
     url: https://arxiv.org/abs/2210.11603
@@ -252,7 +252,7 @@ entries:
     entry_type: reference
     license: Free
     notes: RELOCATE — academic paper (ArXiv), better suited under a research/reference subsection.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -267,7 +267,7 @@ entries:
     license: Free
     entry_type: channel
     notes: RELOCATE — general genAI course; better under §09 ML for CG.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -282,7 +282,7 @@ entries:
     license: Open Source
     entry_type: software
     notes: RELOCATE — audio gen, belongs under §09 AI Audio & Music.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -295,7 +295,7 @@ entries:
     license: Free
     entry_type: tutorial
     notes: RELOCATE — voice AI stack, belongs under §09 AI Audio & Music.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -308,7 +308,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: RELOCATE — animation notebook; could move under §09 Video Generation.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -321,7 +321,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: RELOCATE — animation notebook; could move under §09 Video Generation.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -334,7 +334,7 @@ entries:
     license: Paid
     entry_type: software
     notes: RELOCATE — digital humans platform; not image gen. Move to §03 or §09 AI-Assisted CG Tools.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -347,7 +347,7 @@ entries:
     license: Open Source
     entry_type: plugin
     notes: RELOCATE — Blender addon; could move under §Plugins or AI-Assisted CG Tools.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -362,7 +362,7 @@ entries:
     license: Free
     entry_type: tutorial
     notes: RELOCATE — general genAI course; move to §09 ML for CG.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -376,7 +376,7 @@ entries:
     license: Open Source
     entry_type: reference
     notes: RELOCATE — belongs under §09 3D Generation, not Image Generation.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -390,7 +390,7 @@ entries:
     license: Open Source
     entry_type: software
     notes: RELOCATE — text-to-3D, belongs under §09 3D Generation.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -398,12 +398,14 @@ entries:
         - opensource-alt
       workflow:
         - concept
+    stale: true
+    last_pushed: '2023-12-10'
   - name: Aga Miko/pixel Character Generator
     url: https://github.com/AgaMiko/pixel_character_generator
     description: Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -411,13 +413,15 @@ entries:
         - opensource-alt
       workflow:
         - concept
+    stale: true
+    last_pushed: '2020-05-24'
   - name: sd-concepts-library (Stable Diffusion concepts library)
     url: https://huggingface.co/sd-concepts-library
     description: Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
     license: Open Source
     entry_type: community
     notes: RELOCATE — could fit better under §09 Open-Source Models (HuggingFace).
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -430,7 +434,7 @@ entries:
     license: Open Source
     entry_type: software
     notes: RELOCATE — music gen, belongs under §09 AI Audio & Music.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -443,7 +447,7 @@ entries:
     license: Free
     entry_type: tutorial
     notes: RELOCATE — 2D-to-3D guide; better under §09 3D Generation.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -456,7 +460,7 @@ entries:
     license: Free
     entry_type: reference
     notes: News article, not software.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -469,7 +473,7 @@ entries:
     license: Free
     entry_type: community
     notes: RELOCATE — Deforum animation, better under §09 Video Generation.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -481,7 +485,7 @@ entries:
     description: Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -494,7 +498,7 @@ entries:
     license: Paid
     entry_type: software
     notes: RELOCATE — text-to-animation, belongs under §09 Video Generation.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -506,7 +510,7 @@ entries:
     description: Community response for the "Stable Diffusion litigation"
     license: Free
     entry_type: community
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -519,7 +523,7 @@ entries:
     license: Free
     entry_type: channel
     notes: RELOCATE — Deforum animation channel, better under §09 Video Generation.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:

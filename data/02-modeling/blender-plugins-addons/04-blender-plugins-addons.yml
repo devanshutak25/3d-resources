@@ -5,7 +5,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Blender build/version manager utility, not an addon. Move to a Blender utilities/tools section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -17,7 +17,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - CLI build manager, not a Blender addon.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -29,31 +29,37 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone version manager, not an addon.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
         - blender
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2021-03-01'
   - name: Blender Launcher
     url: https://github.com/DotBow/Blender-Launcher
     description: Standalone client for managing official builds of blender.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone launcher, not an addon.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
         - blender
         - opensource-alt
+    archived: true
+    stale: true
+    last_pushed: '2023-11-28'
   - name: Blender Manager
     url: https://github.com/verlorengest/BlenderManager
     description: Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management, and More.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone manager app, not an addon.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -65,7 +71,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: RELOCATE - Photogrammetry suite, unrelated to Blender. Move to photogrammetry section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -77,18 +83,20 @@ entries:
     entry_type: tutorial
     license: Open Source
     notes: RELOCATE - Scripting examples/tutorial, not an addon. Move to Blender scripting/dev section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
         - blender
+    stale: true
+    last_pushed: '2021-09-28'
   - name: Fake Bpy Module
     url: https://github.com/nutti/fake-bpy-module
     description: Collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Dev tooling for IDE completion, not an addon. Move to Blender scripting/dev section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -99,20 +107,22 @@ entries:
     description: Blender addon for remote debugging Blender with VS Code (and Visual Studio).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
         - blender
         - blender-addon
         - opensource-alt
+    stale: true
+    last_pushed: '2022-12-20'
   - name: Blender CLI Rendering
     url: https://github.com/yuki-koyama/blender-cli-rendering
     description: Python scripts for rendering images using Blender from command-line interface.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - CLI rendering scripts, not an addon. Move to Blender scripting/rendering tools.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -120,13 +130,15 @@ entries:
         - opensource-alt
       workflow:
         - rendering
+    stale: true
+    last_pushed: '2023-11-29'
   - name: Blender Addon Tester
     url: https://github.com/nangtani/blender-addon-tester
     description: The blender addon tester is a test harness to enable pytest hook to allow addons to be tested inside a defined version of blender.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Test harness for addon devs, not an addon itself. Move to Blender scripting/dev section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -138,30 +150,34 @@ entries:
     entry_type: reference
     license: Open Source
     notes: RELOCATE - Addon dev starter kit/reference, not a usable addon. Move to Blender scripting/dev section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
         - blender
         - opensource-alt
+    stale: true
+    last_pushed: '2020-10-11'
   - name: 3DN BIP
     url: https://github.com/3dninjas/3dn-bip
     description: A Python library for Blender. Blazingly fast preview loads in Blender. Images of arbitrary size. `bpy.utils.previews` drop-in replacement.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Python library for addon devs, not a user-facing addon. Move to Blender scripting/dev section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
         - blender
         - opensource-alt
+    stale: true
+    last_pushed: '2023-07-26'
   - name: Geometry Script
     url: https://github.com/carson-katri/geometry-script
     description: Scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -175,15 +191,17 @@ entries:
     entry_type: reference
     license: Open Source
     notes: RELOCATE - Awesome list on 3D human research, unrelated to Blender addons. Move to research/reference section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-10-30'
   - name: Awesome 3D Printing
     url: https://github.com/ad-si/awesome-3d-printing
     description: A curated list of awesome 3D printing resources.
     entry_type: reference
     license: Open Source
     notes: RELOCATE - 3D printing awesome list, unrelated to Blender addons. Move to 3D printing section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: 3 D Machine Learning
     url: https://github.com/timzhang642/3D-Machine-Learning
@@ -191,7 +209,7 @@ entries:
     entry_type: reference
     license: Open Source
     notes: RELOCATE - 3D ML resource list, unrelated to Blender addons. Move to research/reference section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -202,7 +220,7 @@ entries:
     entry_type: reference
     license: Open Source
     notes: RELOCATE - Awesome list about Blender in research, not an addon. Move to Blender reference/community section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -223,5 +241,5 @@ entries:
     readme_tags:
       - Physics Sim
       - Cloth/Hair/Soft Body
-    url_last_verified: '2026-04-20'
+    url_last_verified: '2026-05-01'
     url_status: ok

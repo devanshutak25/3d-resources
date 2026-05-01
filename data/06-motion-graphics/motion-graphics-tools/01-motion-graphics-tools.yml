@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - VJ
       - Live Visuals
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: MadMapper
     url: https://madmapper.com/
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Projection Mapping
       - Live
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: PixelCrash
     url: https://www.pixelcrash.xyz/
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Creative
       - Visual Tools
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Real-time VFX
       - Games
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Magic Animator
     url: https://magicanimator.com/
@@ -77,7 +77,7 @@ entries:
     readme_tags:
       - Web
       - Quick Anim
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Nw Wrld
     url: https://github.com/aagentah/nw_wrld
@@ -87,7 +87,7 @@ entries:
     readme_tags:
       - Experimental
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -102,7 +102,7 @@ entries:
     readme_tags:
       - Nuke
       - Lens Sim
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -115,7 +115,7 @@ entries:
     readme_tags:
       - Keying
       - Corridor
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -130,7 +130,7 @@ entries:
     readme_tags:
       - Rotoscope
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:

@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - Collaborative
       - UI/UX
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Affinity
     url: https://affinity.studio/
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Free (Canva)
       - Vector + Raster
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Inkscape
     url: https://inkscape.org/
@@ -66,7 +66,7 @@ entries:
     readme_tags:
       - Vector
       - SVG
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: GIMP
     url: https://www.gimp.org/
@@ -90,7 +90,7 @@ entries:
     readme_tags:
       - Open Source
       - Photoshop-alt
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Penpot
     url: https://penpot.app/
@@ -112,13 +112,13 @@ entries:
     readme_tags:
       - Open Source
       - Figma-alt
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Figma Community
     url: https://www.figma.com/community/
     description: Free templates, plugins, UI kits.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -127,7 +127,7 @@ entries:
     url: https://www.affinity.studio/help/getting-started/
     description: Official tutorials, guides, getting started.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -148,7 +148,7 @@ entries:
     readme_tags:
       - Mac-native
       - Image Editor
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: PixiEditor
     url: https://pixieditor.net/
@@ -172,7 +172,7 @@ entries:
     readme_tags:
       - Unified
       - Node-based
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Lunacy
     url: https://icons8.com/lunacy
@@ -193,7 +193,7 @@ entries:
     readme_tags:
       - Sketch-alt
       - Free
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Origami Studio
     url: https://origami.design/
@@ -215,7 +215,7 @@ entries:
     readme_tags:
       - Prototyping
       - Meta
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Unicorn Studio
     url: https://www.unicorn.studio/
@@ -238,7 +238,7 @@ entries:
     readme_tags:
       - Web Motion
       - No-code
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Vectorpea
     url: https://www.vectorpea.com/
@@ -258,7 +258,7 @@ entries:
     readme_tags:
       - Browser
       - Illustrator-alt
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Graphite
     url: https://graphite.rs/
@@ -284,7 +284,7 @@ entries:
     readme_tags:
       - Procedural
       - Open Source
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Picsart
     url: https://picsart.com/
@@ -308,7 +308,7 @@ entries:
     readme_tags:
       - AI Tools
       - Mobile
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: PowerPoint
     url: https://www.microsoft.com/microsoft-365/powerpoint
@@ -330,7 +330,7 @@ entries:
     readme_tags:
       - Presentations
       - Microsoft
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Google Drawings
     url: https://docs.google.com/drawings
@@ -350,7 +350,7 @@ entries:
     readme_tags:
       - Browser
       - Collaborative
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Microsoft Paint
     url: https://apps.microsoft.com/detail/9PCFS5B6T72H
@@ -370,5 +370,5 @@ entries:
     readme_tags:
       - Windows-native
       - Lightweight
-    url_last_verified: '2026-04-28'
+    url_last_verified: '2026-05-01'
     url_status: ok

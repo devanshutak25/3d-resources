@@ -6,7 +6,7 @@ entries:
     readme_tags:
       - Fundamentals
       - Deep Dives
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Lighting 101
       - Classic
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - Studio
       - Placement Diagrams
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Fstoppers Education
     url: https://fstoppers.com/education
@@ -47,7 +47,7 @@ entries:
     readme_tags:
       - Studio Lighting
       - Ratios
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Technical
       - Modifiers
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -71,7 +71,7 @@ entries:
     readme_tags:
       - Studio Diagrams
       - Adorama
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -82,7 +82,7 @@ entries:
     url: https://pixls.us
     description: Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools
     entry_type: community
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -91,7 +91,7 @@ entries:
     url: https://plus.google.com/u/0/communities/110647644928874455108
     description: Open Source Photography Community on Google+.
     entry_type: community
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -101,7 +101,7 @@ entries:
     url: http://reddit.com/r/fossphotography
     description: Community about Free open source software for Photography on reddit.
     entry_type: community
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -111,7 +111,7 @@ entries:
     description: A simple, user-friendly and open source compositing software.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -119,13 +119,15 @@ entries:
       tech:
         - opensource-alt
     notes: Misfit in photography subsection — this is compositing software (entry_type should be 'software'); kept here per no-relocate rule.
+    stale: true
+    last_pushed: '2017-07-31'
   - name: |-
       Femto-Photography: Visualizing Photons in Motion at a
       Trillion Frames Per Second
     url: http://web.media.mit.edu/~raskar//trillionfps/
     description: Raskar et al
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

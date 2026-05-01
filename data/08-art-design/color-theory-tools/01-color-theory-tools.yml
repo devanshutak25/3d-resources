@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Palettes
       - Curated
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Generator
       - Fast
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Curated
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: WebGradients
     url: https://webgradients.com/
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - Gradients
       - Web
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Experimental
       - Gradients
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - AI Palettes
       - Brand
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Adobe Color
     url: https://color.adobe.com/explore
@@ -89,7 +89,7 @@ entries:
     readme_tags:
       - Color Wheel
       - Harmonies
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -102,7 +102,7 @@ entries:
     readme_tags:
       - Palettes
       - Canva
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -115,7 +115,7 @@ entries:
     readme_tags:
       - Classic
       - Schemes
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - Scales
       - Systematic
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -141,7 +141,7 @@ entries:
     readme_tags:
       - Interactive
       - Training
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -154,7 +154,7 @@ entries:
     readme_tags:
       - Polar Palettes
       - Esoteric
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -174,7 +174,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Fast
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Swatchr
     url: https://github.com/jknightdoeswork/swatchr
@@ -182,7 +182,7 @@ entries:
     license: Open Source
     entry_type: reference
     notes: Misfit — functionally a Unity plugin/tool; kept as reference per no-relocate rule.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -190,3 +190,5 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+    stale: true
+    last_pushed: '2019-03-30'

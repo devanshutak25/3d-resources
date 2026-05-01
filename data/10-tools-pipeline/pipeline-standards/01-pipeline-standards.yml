@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Material Interchange
       - Lucasfilm
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -24,7 +24,7 @@ entries:
     readme_tags:
       - PBR Standard
       - Adobe + Autodesk
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: ACES 2.0
     url: https://acescentral.com/
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Color Encoding
       - Academy
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: OpenTimelineIO (GitHub)
     url: https://github.com/AcademySoftwareFoundation/OpenTimelineIO
@@ -47,7 +47,7 @@ entries:
     readme_tags:
       - Timeline Interchange
       - Pixar
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -60,7 +60,7 @@ entries:
     readme_tags:
       - Geo/Anim Cache
       - Sony + ILM
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -72,7 +72,7 @@ entries:
     entry_type: reference
     readme_tags:
       - Material Interchange
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Image I/O
       - VFX Standard
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -98,7 +98,7 @@ entries:
     readme_tags:
       - EXR Deep
       - DreamWorks
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - Material Standard
       - NVIDIA
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:

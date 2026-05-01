@@ -6,7 +6,7 @@ entries:
     readme_tags:
       - Breakdowns
       - YouTube
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - Procedural
       - Creative Coding
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Visual Tech Art
     url: https://www.youtube.com/@VisualTechArt
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - Tutorials
       - Tech Art
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -60,14 +60,14 @@ entries:
     readme_tags:
       - Game Art Tricks
       - Breakdowns
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: AFX
     url: https://github.com/AuthorityFX/afx-nuke-plugins
     description: Everyday compositing for Nuke
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -75,12 +75,14 @@ entries:
         - compositing
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2017-09-17'
   - name: NXT
     url: https://nxt-dev.github.io/
     description: A layered code compositing application.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -96,7 +98,7 @@ entries:
     readme_tags:
       - VS Code
       - Nuke Dev
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -112,7 +114,7 @@ entries:
     readme_tags:
       - Sublime Text
       - Nuke Dev
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -126,7 +128,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE — VR/360 video player, not tech-art specific. Consider XR or media tools section.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -141,7 +143,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE — broadcast playout/compositor, fits broadcast/virtual-production better than tech-art.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -157,7 +159,7 @@ entries:
     description: Image Render comparing.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -171,7 +173,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE — animation curves interchange tool, fits animation pipeline better than tech-art.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -184,7 +186,7 @@ entries:
     description: USD Plugins Arnold, Houdini, Katana, Maya and USD.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -193,3 +195,5 @@ entries:
       tech:
         - opensource-alt
         - usd
+    stale: true
+    last_pushed: '2019-04-13'

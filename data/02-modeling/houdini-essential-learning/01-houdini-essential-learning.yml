@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Essential Reference
       - Matt Estela
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Advanced
       - Design/Mograph
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - FX Focus
       - ILM Pro
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: SideFX Tutorials
     url: https://www.sidefx.com/tutorials/
@@ -60,7 +60,7 @@ entries:
     readme_tags:
       - Official
       - Comprehensive
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -75,7 +75,7 @@ entries:
     readme_tags:
       - Setups + Hips
       - Farmfield
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -90,7 +90,7 @@ entries:
     readme_tags:
       - Weekly Streams
       - FX + Code
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:

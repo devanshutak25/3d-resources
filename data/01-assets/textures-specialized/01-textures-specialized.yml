@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - MicroSkin
       - Displacement
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Shaded Relief
     url: http://www.shadedrelief.com/natural3/pages/extra.html
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Natural Earth
       - Terrain
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Subtle Patterns
     url: https://www.toptal.com/designers/subtlepatterns/
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Tileable
       - Web Patterns
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -80,7 +80,7 @@ entries:
     readme_tags:
       - Sprites
       - Game Rips
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Models Resource (3D)
     url: https://models.spriters-resource.com/
@@ -99,5 +99,5 @@ entries:
       - 3D Game Rips
       - Reference
     notes: 'RELOCATE: model-libraries-specialized (3D models, not textures)'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

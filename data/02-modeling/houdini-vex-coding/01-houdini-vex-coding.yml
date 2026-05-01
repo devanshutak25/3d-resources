@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Bite-sized
       - VEX
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -24,7 +24,7 @@ entries:
     readme_tags:
       - Cheat Sheet
       - VEX
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -39,7 +39,7 @@ entries:
     readme_tags:
       - Python
       - Snippets
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -55,7 +55,7 @@ entries:
     readme_tags:
       - VEX
       - Blog
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -70,7 +70,7 @@ entries:
     readme_tags:
       - Python Wiki
       - Deep Reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -86,7 +86,7 @@ entries:
     readme_tags:
       - OpenCL
       - Advanced
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -110,6 +110,8 @@ entries:
       tech:
         - houdini
         - python
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
   - name: VEX Manager
     url: https://shirmanor.gumroad.com/l/vex_manager_v1
     description: VEX snippet/code manager HDA by Shir Manor. Also listed under Houdini — Plugins & Tools.
@@ -124,3 +126,5 @@ entries:
       tech:
         - houdini-addon
         - vex
+    url_last_verified: '2026-05-01'
+    url_status: ok

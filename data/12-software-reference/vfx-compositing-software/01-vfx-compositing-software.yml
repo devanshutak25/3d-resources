@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Node-based
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: DaVinci Resolve Fusion
     url: https://www.blackmagicdesign.com/products/davinciresolve/fusion
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Node-based
       - Free with Resolve
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Natron (community fork)
     url: https://natrongithub.github.io/
@@ -70,7 +70,7 @@ entries:
     readme_tags:
       - Node-based
       - Nuke-like
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: EmberGen
     url: https://jangafx.com/software/embergen/
@@ -95,7 +95,7 @@ entries:
     readme_tags:
       - Real-time Sim
       - Fire/Smoke
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: LiquiGen
     url: https://jangafx.com/software/liquigen/
@@ -119,7 +119,7 @@ entries:
     readme_tags:
       - Real-time Sim
       - Liquids
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: GeoGen (JangaFX)
     url: https://jangafx.com/software/geogen/
@@ -142,7 +142,7 @@ entries:
     readme_tags:
       - Terrain Gen
       - Real-time
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: After Effects
     url: https://www.adobe.com/products/aftereffects.html
@@ -167,13 +167,13 @@ entries:
     readme_tags:
       - Motion Graphics
       - Adobe Suite
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
   - name: Nukepedia
     url: https://www.nukepedia.com/
     description: Free Nuke gizmos, tools, plugins, tutorials.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -184,7 +184,7 @@ entries:
     url: https://docs.jangafx.com/
     description: Official EmberGen/LiquiGen documentation and how-to guides.
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -197,7 +197,7 @@ entries:
     url: https://www.actionvfx.com/
     description: VFX stock elements (explosions, fire, debris).
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

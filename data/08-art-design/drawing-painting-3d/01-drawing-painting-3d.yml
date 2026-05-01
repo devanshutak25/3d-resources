@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Gesture Drawing
       - Timed
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - Timed Practice
       - Photo Library
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -35,7 +35,7 @@ entries:
     readme_tags:
       - Timed
       - Reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -49,7 +49,7 @@ entries:
     readme_tags:
       - 3D Poses
       - Muscle Ref
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -62,7 +62,7 @@ entries:
     readme_tags:
       - Anatomy
       - Free Photos
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -75,7 +75,7 @@ entries:
     readme_tags:
       - Body Proportions
       - Interactive
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Free Library
       - Structured
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Anatomy
       - Free Tier
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -114,7 +114,7 @@ entries:
     readme_tags:
       - Pro Instructors
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -125,7 +125,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: 'Misfit: image-to-stylized-render Python lib, not drawing/painting practice for 3D artists. Consider relocating to generative/AI or stylization section.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -133,13 +133,15 @@ entries:
       tech:
         - opensource-alt
         - ai-generative
+    stale: true
+    last_pushed: '2020-06-26'
   - name: Graphite 3D
     url: https://apps.apple.com/us/app/graphite-3d/id1523391511
     description: A collaborative drawing tool for modeling precise shapes in real spaces.
     license: Paid
     entry_type: tool
     notes: 'entry_type corrected from tutorial to tool. Misfit: AR/iOS collaborative shape-modeling app, not 2D drawing/painting for 3D artists.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -156,7 +158,7 @@ entries:
     license: Open Source
     entry_type: plugin
     notes: 'entry_type corrected from reference to plugin. Misfit: Unity runtime-gizmo dev plugin, not art/drawing reference. Belongs in a Unity/engine-tools section.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -187,7 +189,7 @@ entries:
     license: Paid
     entry_type: software
     notes: 'entry_type corrected from tutorial to software. Misfit: pixel-art editor app, not painting fundamentals for 3D artists. Consider 2D-art tools section.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -201,7 +203,7 @@ entries:
     license: Freemium
     entry_type: tutorial
     notes: 'Misfit: canvas 2D API web-dev course, not drawing/painting craft for 3D artists. Belongs in web/dev tutorials.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -212,7 +214,7 @@ entries:
     license: Free
     entry_type: tutorial
     notes: 'Misfit: JS/ProcessingJS programming course, not art-side drawing for 3D artists. Belongs in coding/creative-coding section.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -222,7 +224,7 @@ entries:
     description: Patent drawing of an electronic device that ...
     entry_type: community
     notes: 'Misfit: single Reddit thread on AI animation, not drawing/painting reference. Description is truncated/low-value. Consider relocating to AI/generative or removing.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -235,7 +237,7 @@ entries:
     license: Free
     entry_type: tutorial
     notes: 'Misfit: WebGL instanced line-rendering article, graphics-programming topic, not drawing/painting for 3D artists. Belongs in graphics-programming section.'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

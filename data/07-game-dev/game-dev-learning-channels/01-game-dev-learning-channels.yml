@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Tim Cain
       - Fallout Creator
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Design Analysis
       - GMTK
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - Procedural
       - Simulations
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Blackthornprod
     url: https://www.youtube.com/@Blackthornprod
@@ -54,7 +54,7 @@ entries:
     readme_tags:
       - 2D Art
       - Indie
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - Sakurai
       - Design Philosophy
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -84,7 +84,7 @@ entries:
     readme_tags:
       - Indie Devlogs
       - Thinking
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -99,7 +99,7 @@ entries:
     readme_tags:
       - Indie Business
       - Marketing
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -114,7 +114,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Devlogs
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -129,7 +129,7 @@ entries:
     readme_tags:
       - Stylized Render
       - Breakdowns
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -144,7 +144,7 @@ entries:
     readme_tags:
       - Graphics Programming
       - Shaders
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -159,7 +159,7 @@ entries:
     readme_tags:
       - Math
       - Shaders
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -174,13 +174,14 @@ entries:
     readme_tags:
       - 3D Programming
       - WebGL
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: broken
     tags:
       output:
         - games
       platform:
         - web
+    deprecated: true
   - name: Pontypants
     url: https://www.youtube.com/@Pontypants
     description: Animation for games.
@@ -196,7 +197,7 @@ entries:
     readme_tags:
       - Animation
       - Games
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: GDQuest (YouTube)
     url: https://www.youtube.com/@GDQuest
@@ -206,7 +207,7 @@ entries:
     readme_tags:
       - Godot
       - Tutorials
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -223,12 +224,14 @@ entries:
         - games
       platform:
         - web
+    url_last_verified: '2026-05-01'
+    url_status: ok
   - name: MFGD - Fragment Shaders
     url: https://www.youtube.com/@JorgeVinoRodriguez
     description: YouTube playlist about fragment shaders.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:

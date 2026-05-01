@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Song Gen
       - 100M users
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Udio
     url: https://www.udio.com/
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - Electronic/Pop
       - Commercial
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: ElevenLabs
     url: https://elevenlabs.io/
@@ -45,7 +45,7 @@ entries:
     readme_tags:
       - Voice Cloning
       - TTS
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Stable Audio 2.0
     url: https://www.stableaudio.com/
@@ -61,8 +61,9 @@ entries:
     readme_tags:
       - Open Model
       - Music + SFX
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: broken
+    deprecated: true
   - name: ACE Studio
     url: https://www.acestudio.ai/
     description: AI singing voice synthesizer with expression control.
@@ -77,7 +78,7 @@ entries:
     readme_tags:
       - Singing
       - Expression
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: AIVA
     url: https://www.aiva.ai/
@@ -93,7 +94,7 @@ entries:
     readme_tags:
       - Orchestral
       - Scoring
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Fish Audio
     url: https://fish.audio/
@@ -110,7 +111,7 @@ entries:
     readme_tags:
       - Open Source
       - Multilingual
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: F5 TTS
     url: https://github.com/SWivid/F5-TTS
@@ -127,7 +128,7 @@ entries:
     readme_tags:
       - Zero-Shot
       - Voice Clone
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: DiffRhythm
     url: https://github.com/ASLP-lab/DiffRhythm
@@ -144,5 +145,5 @@ entries:
     readme_tags:
       - Open Source
       - Lyrics→Song
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

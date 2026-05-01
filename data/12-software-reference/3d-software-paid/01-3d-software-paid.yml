@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Film Animation
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: ZBrush
     url: https://www.maxon.net/en/zbrush
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Industry Standard
       - iPad Version
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: 3DCoat
     url: https://3dcoat.com/
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - Voxel Sculpt
       - Retopo
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Marvelous Designer
     url: https://www.marvelousdesigner.com/
@@ -104,7 +104,7 @@ entries:
     readme_tags:
       - Garment Sim
       - Cloth
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Clo3D
     url: https://www.clo3d.com/
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - Fashion
       - Garment Sim
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Substance 3D Modeler
     url: https://www.adobe.com/products/substance3d/apps/modeler.html
@@ -151,8 +151,8 @@ entries:
     readme_tags:
       - VR Sculpt
       - Adobe Suite
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
   - name: Moi3D
     url: http://moi3d.com/
     description: NURBS modeler for industrial and product design.
@@ -174,7 +174,7 @@ entries:
     readme_tags:
       - NURBS
       - Perpetual License
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Nomad Sculpt
     url: https://nomadsculpt.com/
@@ -201,7 +201,7 @@ entries:
     readme_tags:
       - iPad Sculpt
       - One-time Purchase
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: SketchUp
     url: https://www.sketchup.com/
@@ -225,7 +225,7 @@ entries:
       - Arch-Viz
       - Easy Learning Curve
     notes: SketchUp for Schools free for K-12 students/educators. No general free tier as of 2026.
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Modo
     url: https://www.foundry.com/products/modo
@@ -248,7 +248,7 @@ entries:
     readme_tags:
       - Foundry
       - Modeling Focus
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Daz 3D
     url: https://www.daz3d.com/
@@ -269,5 +269,5 @@ entries:
     readme_tags:
       - Characters
       - Huge Marketplace
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

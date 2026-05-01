@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - General
       - Online
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Browser
       - Converter
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - Free Web
       - Multi-tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - 200+ Formats
       - API
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Multi-format
       - Web
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Web
       - General
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Free
       - Web
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -98,7 +98,7 @@ entries:
     readme_tags:
       - 3D Import Lib
       - 40+ Formats
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - FBX→glTF
       - CLI
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - OBJ→glTF
       - PBR
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: glTF Transform
     url: https://gltf-transform.dev/
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - glTF Tools
       - Optimizer
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -151,7 +151,7 @@ entries:
     readme_tags:
       - glTF
       - Optimize
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -164,7 +164,7 @@ entries:
     readme_tags:
       - glTF/GLB
       - Pipeline
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -177,7 +177,7 @@ entries:
     readme_tags:
       - Validator
       - Khronos
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -190,7 +190,7 @@ entries:
     readme_tags:
       - glTF Viewer
       - Web
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -203,8 +203,8 @@ entries:
     readme_tags:
       - CLI
       - 200+ Formats
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
     tags:
       tech:
         - opensource-alt
@@ -216,7 +216,7 @@ entries:
     readme_tags:
       - Google
       - Modern Formats
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -229,7 +229,7 @@ entries:
     readme_tags:
       - PNG/JPEG
       - Lossy
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -244,7 +244,7 @@ entries:
     readme_tags:
       - Batch
       - 80+ Actions
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -259,7 +259,7 @@ entries:
     readme_tags:
       - CLI
       - PNG
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -274,7 +274,7 @@ entries:
     readme_tags:
       - H.265/AV1
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -289,7 +289,7 @@ entries:
     readme_tags:
       - FFmpeg GUI
       - Pro Presets
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -306,7 +306,7 @@ entries:
     readme_tags:
       - Audio Batch
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -319,7 +319,7 @@ entries:
     readme_tags:
       - Audio CLI
       - Swiss Army
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -337,7 +337,7 @@ entries:
     readme_tags:
       - ASWF
       - Pipeline Standard
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Luminance HDR
     url: https://qtpfsgui.sourceforge.net/
@@ -354,25 +354,27 @@ entries:
     readme_tags:
       - HDR Workflow
       - EXR
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: F Spy USD
     url: https://github.com/Vochsel/fspy-USD
     description: Unofficial fSpy to USD converter.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
         - opensource-alt
         - usd
+    stale: true
+    last_pushed: '2021-02-03'
   - name: Pixelicious
     url: https://www.pixelicious.xyz/
     description: Image-to-Pixel Art converter.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -382,7 +384,7 @@ entries:
     description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
     entry_type: tool
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -392,7 +394,7 @@ entries:
     description: Retargeting Mixamo Animation Tool.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -403,20 +405,22 @@ entries:
     entry_type: plugin
     license: Open Source
     notes: RELOCATE — Blender plugin, belongs under plugins/blender section
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
         - opensource-alt
         - blender-addon
         - unreal-plugin
+    stale: true
+    last_pushed: '2024-03-01'
   - name: USDZ
     url: https://github.com/robmcrosby/BlenderUSDZ
     description: '[glTF MultiExport](https://github.com/MozillaReality/blender-gltf-multiexport-addon), [ZBrush](https://blenderartists.org/t/goz-for-blender-2-8/1138418)'
     entry_type: plugin
     license: Open Source
     notes: RELOCATE — Blender USDZ exporter plugin, belongs under plugins/blender
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -428,7 +432,7 @@ entries:
     description: Format conversion tool for 3D Gaussian Splatting data.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -447,3 +451,5 @@ entries:
     readme_tags:
       - USD/USDZ
       - Web
+    url_last_verified: '2026-05-01'
+    url_status: unreachable

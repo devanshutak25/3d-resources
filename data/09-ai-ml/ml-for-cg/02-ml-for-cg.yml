@@ -4,7 +4,7 @@ entries:
     description: '[🌐 Project Page](https://yifliu3.github.io/EndoGaussian/) | [💻 Code](https://github.com/yifliu3/EndoGaussian)'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -16,7 +16,7 @@ entries:
     description: '[🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/) | [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d)'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -28,7 +28,7 @@ entries:
     description: '[🌐 Project Page](https://make-a-video3d.github.io)'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -40,7 +40,7 @@ entries:
     description: '[🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -52,7 +52,7 @@ entries:
     description: '[🌐 Project Page](https://kyleleey.github.io/3DFauna/) | [💻 Code]()'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -64,7 +64,7 @@ entries:
     description: '[🌐 Project Page](https://m3dbench.github.io/) | [💻 Code](https://github.com/OpenM3D/M3DBench)'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -77,7 +77,7 @@ entries:
     entry_type: asset-source
     license: Free
     notes: misfit — arxiv paper, not asset-source; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -90,7 +90,7 @@ entries:
     entry_type: tutorial
     license: Free
     notes: misfit — research paper, not tutorial; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -103,7 +103,7 @@ entries:
     entry_type: tutorial
     license: Free
     notes: misfit — research paper, not tutorial; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -115,7 +115,7 @@ entries:
     description: Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/) | [github](https://raw.githubusercontent.com/yenchenlin/awesome-NeRF/main/NeRF-and-Beyond.bib) |
     entry_type: reference
     license: Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -128,7 +128,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv survey paper, not software; bulk NeRF-paper entries below share same issue, consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -141,7 +141,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -154,7 +154,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -167,7 +167,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -180,7 +180,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -193,7 +193,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -206,7 +206,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -219,7 +219,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -232,7 +232,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -245,7 +245,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -258,7 +258,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -271,7 +271,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -284,7 +284,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -297,7 +297,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -310,7 +310,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -323,7 +323,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -336,7 +336,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -349,7 +349,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -362,7 +362,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -375,7 +375,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -388,7 +388,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -401,7 +401,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -414,7 +414,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -427,7 +427,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -440,7 +440,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -453,7 +453,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -466,7 +466,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -479,7 +479,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -492,7 +492,7 @@ entries:
     entry_type: software
     license: Free
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -505,7 +505,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: misfit — arxiv paper with code, not standalone software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -518,7 +518,7 @@ entries:
     entry_type: software
     license: Free
     notes: misfit — arxiv paper, not software; consider reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:

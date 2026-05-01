@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Archival
       - Public Domain
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -31,7 +31,7 @@ entries:
     readme_tags:
       - VFX Practice
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Open Visual FX
     url: https://openvisualfx.com/
@@ -48,5 +48,5 @@ entries:
     readme_tags:
       - VFX Footage
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

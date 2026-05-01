@@ -6,7 +6,7 @@ entries:
     readme_tags:
       - Official
       - Curated Hub
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       skill:
@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - Free NC
       - Learning Version
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Houdini Donut in Any Shape
     url: https://vimeo.com/492505292
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Procedural
       - Classic Intro
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Houdini in Five Minutes
     url: https://vimeo.com/384384552
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Quick Intro
       - Entagma
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       skill:

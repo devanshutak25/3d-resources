@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Houdini
       - Official
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Blender
       - Demo Scenes
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Blender
       - Addons
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Substance 3D Assets
     url: https://substance3d.adobe.com/assets/
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Adobe
       - Materials
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Substance 3D Community Assets
     url: https://substance3d.adobe.com/community-assets
@@ -78,7 +78,7 @@ entries:
     readme_tags:
       - Community
       - Substance
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: ZBrush Download Center
     url: https://pixologic.com/zbrush/downloadcenter/alpha/
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - ZBrush
       - Alphas/Brushes
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Maxon Asset Browser
     url: https://www.maxon.net/en/cinema-4d/features/asset-browser
@@ -104,7 +104,7 @@ entries:
     readme_tags:
       - C4D
       - Official
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -119,7 +119,7 @@ entries:
     readme_tags:
       - Maya
       - Examples
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -141,7 +141,7 @@ entries:
     readme_tags:
       - 3DCoat
       - Smart Materials
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Nomad Sculpt Resources
     url: https://nomadsculpt.com/resources/
@@ -158,5 +158,5 @@ entries:
     readme_tags:
       - Nomad
       - Brushes/Matcaps
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

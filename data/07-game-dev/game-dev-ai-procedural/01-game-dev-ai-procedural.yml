@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Procedural
       - WFC
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Fast Noise Lite
     url: https://github.com/Auburn/FastNoiseLite
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - Noise
       - Fast
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Houdini Engine (SideFX product)
     url: https://www.sidefx.com/products/houdini-engine/
@@ -45,7 +45,7 @@ entries:
     readme_tags:
       - Procedural Pipeline
       - Multi-Engine
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: RELOCATE — entry_type 'software' belongs in §12 software table.
   - name: Machinations
@@ -61,14 +61,14 @@ entries:
     readme_tags:
       - Economy Sim
       - Design Tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Procedural GL JS
     url: https://github.com/felixpalmer/procedural-gl-js
     description: Based on Three.js, this framework is dedicated to generating a 3D Map experience on a web service.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -76,12 +76,14 @@ entries:
       tech:
         - procedural
         - opensource-alt
+    stale: true
+    last_pushed: '2021-05-11'
   - name: DotRecast
     url: https://github.com/ikpil/DotRecast
     description: A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:

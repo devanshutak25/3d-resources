@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Open Source
       - Recording
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Adobe Audition
     url: https://www.adobe.com/products/audition.html
@@ -46,8 +46,8 @@ entries:
     readme_tags:
       - Audio Restoration
       - Adobe Suite
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
   - name: Reaper
     url: https://www.reaper.fm/
     description: Full DAW with $60 personal license.
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Full DAW
       - Affordable
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Fairlight
     url: https://www.blackmagicdesign.com/products/davinciresolve/fairlight
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - Film Post
       - Free with Resolve
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Soundly
     url: https://getsoundly.com/
@@ -116,7 +116,7 @@ entries:
     readme_tags:
       - SFX Library
       - Desktop
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Bfxr
     url: https://www.bfxr.net/
@@ -139,7 +139,7 @@ entries:
     readme_tags:
       - Retro/8-bit
       - Generator
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Wavewright
     url: https://store.steampowered.com/app/4149720/Wavewright/
@@ -158,5 +158,5 @@ entries:
     readme_tags:
       - Modular Synth
       - Early Access
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

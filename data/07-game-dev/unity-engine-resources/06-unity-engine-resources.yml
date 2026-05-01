@@ -4,7 +4,7 @@ entries:
     description: Color picker for Unity in immediate GUI mode.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -15,12 +15,14 @@ entries:
     readme_tags:
       - color-picker
       - imgui
+    stale: true
+    last_pushed: '2017-07-05'
   - name: Unity Color Picker
     url: https://github.com/jongallant/UnityColorPicker
     description: A standalone color picker asset for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -31,12 +33,14 @@ entries:
     readme_tags:
       - color-picker
       - ui
+    stale: true
+    last_pushed: '2019-06-18'
   - name: Unity Color Wheel
     url: https://github.com/fkate/Unity_ColorWheel
     description: Color Picker Element for the newer Unity GUI System.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -47,12 +51,15 @@ entries:
     readme_tags:
       - color-picker
       - ugui
+    archived: true
+    stale: true
+    last_pushed: '2024-03-11'
   - name: Google Sheets Unity
     url: https://github.com/5argon/GoogleSheetsUnity
     description: Get data from your private Google Sheets to Unity! (Read-only).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -63,12 +70,14 @@ entries:
     readme_tags:
       - data
       - google-sheets
+    stale: true
+    last_pushed: '2018-07-31'
   - name: Unity EventBinder
     url: https://github.com/GeorgeDascalu/Unity-EventBinder
     description: User Interface Event decoupler.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -79,12 +88,14 @@ entries:
     readme_tags:
       - ui
       - events
+    stale: true
+    last_pushed: '2018-03-07'
   - name: xNode BehaviourTree
     url: https://github.com/jnhtt/xNode-BehaviourTree
     description: Some log4net helper classes and UnityEngine.Debug appender for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -96,12 +107,14 @@ entries:
     readme_tags:
       - behaviour-tree
       - ai
+    stale: true
+    last_pushed: '2018-11-05'
   - name: MVPScriptGenerator4Unity
     url: https://github.com/MasaKoha/MVPScriptGenerator4Unity
     description: MVP Script Generator for Unity Editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -112,12 +125,14 @@ entries:
     readme_tags:
       - codegen
       - mvp
+    stale: true
+    last_pushed: '2024-04-08'
   - name: Spine Runtimes
     url: https://github.com/EsotericSoftware/spine-runtimes
     description: Collection of Spine runtimes including with Unity3d version.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -133,7 +148,7 @@ entries:
     description: MikuMikuDance for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -144,12 +159,14 @@ entries:
     readme_tags:
       - mmd
       - import
+    stale: true
+    last_pushed: '2018-10-26'
   - name: SerializableCallback
     url: https://github.com/Siccity/SerializableCallback
     description: UnityEvent and System.Func had a child.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -160,12 +177,14 @@ entries:
     readme_tags:
       - serialization
       - events
+    stale: true
+    last_pushed: '2024-04-03'
   - name: Unity3D Extensions
     url: https://github.com/jbruening/unity3d-extensions
     description: Extension and utility methods for the Unity game engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -176,12 +195,14 @@ entries:
     readme_tags:
       - utilities
       - extensions
+    stale: true
+    last_pushed: '2015-09-29'
   - name: EZ Item Editor
     url: https://github.com/anasiqbal/ez-item-editor
     description: A game data editor for unity that provides a simple solution to entering, maintaining, and consuming game data.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -192,12 +213,14 @@ entries:
     readme_tags:
       - data-editor
       - workflow
+    stale: true
+    last_pushed: '2014-06-25'
   - name: Unity Plane Mesh Splitter
     url: https://github.com/artnas/Unity-Plane-Mesh-Splitter
     description: A simple script which let's you split any mesh into smaller chunks.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -208,12 +231,14 @@ entries:
     readme_tags:
       - mesh
       - utility
+    stale: true
+    last_pushed: '2023-04-25'
   - name: UnityStudio
     url: https://github.com/RaduMC/UnityStudio
     description: Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps. (#ASSET-STORE)
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -224,12 +249,14 @@ entries:
     readme_tags:
       - asset-extraction
       - reverse-engineering
+    stale: true
+    last_pushed: '2020-10-20'
   - name: Bitstrap
     url: https://github.com/bitcake/bitstrap
     description: BitStrap is BitCake's collection of Unity tools that improve our workflow.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -245,7 +272,7 @@ entries:
     description: A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -261,7 +288,7 @@ entries:
     description: An advanced PSD importer tool for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -272,12 +299,14 @@ entries:
     readme_tags:
       - psd
       - importer
+    stale: true
+    last_pushed: '2019-06-14'
   - name: Uni Android Vibration
     url: https://github.com/sanukin39/UniAndroidVibration
     description: Unity Android plugin JUST execute device vibration.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -290,12 +319,14 @@ entries:
     readme_tags:
       - android
       - vibration
+    stale: true
+    last_pushed: '2020-11-24'
   - name: CO2
     url: https://github.com/sassembla/CO2
     description: Android plugin generator for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -308,12 +339,14 @@ entries:
     readme_tags:
       - android
       - codegen
+    stale: true
+    last_pushed: '2019-02-24'
   - name: Unity Webview
     url: https://github.com/gree/unity-webview
     description: A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -333,7 +366,7 @@ entries:
     description: Unity plugin for Flurry SDK.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -344,12 +377,15 @@ entries:
     readme_tags:
       - analytics
       - flurry
+    archived: true
+    stale: true
+    last_pushed: '2023-04-06'
   - name: Flurry Unity Plugin
     url: https://github.com/bearprada/flurry-unity-plugin
     description: The Flurry Library for Unity3D. support Android and iOS.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -363,12 +399,14 @@ entries:
     readme_tags:
       - analytics
       - flurry
+    stale: true
+    last_pushed: '2015-06-01'
   - name: Google Analytics Plugin for Unity
     url: https://github.com/googleanalytics/google-analytics-plugin-for-unity
     description: Google Analytics plugin for the Unity game creation system.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -379,12 +417,15 @@ entries:
     readme_tags:
       - analytics
       - google
+    archived: true
+    stale: true
+    last_pushed: '2024-03-14'
   - name: GetSocial Unity SDK
     url: https://github.com/getsocial-im/getsocial-unity-sdk
     description: This is the demo application for GetSocial SDK.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -395,12 +436,14 @@ entries:
     readme_tags:
       - social
       - sdk
+    stale: true
+    last_pushed: '2021-11-05'
   - name: Reign Unity Plugin
     url: https://github.com/reignstudios/Reign-Unity-Plugin5
     description: This Reign API is a cross-platform, unified API for the Unity game engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -411,12 +454,14 @@ entries:
     readme_tags:
       - cross-platform
       - api
+    stale: true
+    last_pushed: '2017-06-18'
   - name: Reign Unity Plugin v4
     url: https://github.com/reignstudios/Reign-Unity-Plugin
     description: Unity 4.x version of the Reign plugins.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -434,7 +479,7 @@ entries:
     description: An example showing how to write a Unity native plugin in Rust.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -446,12 +491,14 @@ entries:
     readme_tags:
       - rust
       - native-plugin
+    stale: true
+    last_pushed: '2022-01-26'
   - name: UniLua
     url: https://github.com/xebecnan/UniLua
     description: A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -467,7 +514,7 @@ entries:
     description: Profiler for Lua inside of Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -483,7 +530,7 @@ entries:
     description: Use toLua Framework to create client on Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -495,12 +542,14 @@ entries:
     readme_tags:
       - sample
       - tolua
+    stale: true
+    last_pushed: '2019-04-09'
   - name: Atlas Unity
     url: https://github.com/wooga/atlas-unity
     description: This plugin provides tasks to run unity batchmode commands in gradle. It runs and reports unity unit-tests and is able to export .unitypackage files.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -511,12 +560,13 @@ entries:
     readme_tags:
       - gradle
       - ci
+    archived: true
   - name: KlakHap
     url: https://github.com/keijiro/KlakHap
     description: HAP video player plugin for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -532,7 +582,7 @@ entries:
     description: Syphon plugin for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -550,7 +600,7 @@ entries:
     description: BlendShape Controller Plugin for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -561,12 +611,14 @@ entries:
     readme_tags:
       - blendshape
       - animation
+    stale: true
+    last_pushed: '2022-04-20'
   - name: Bep In Ex
     url: https://github.com/BepInEx/BepInEx
     description: Unity game patcher and plugin framework.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -582,7 +634,7 @@ entries:
     description: 'A plugin that plays elevator music while Unity compiles your code. :cool:'
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -593,12 +645,14 @@ entries:
     readme_tags:
       - novelty
       - editor
+    stale: true
+    last_pushed: '2019-07-19'
   - name: My S7 Pro Sim Lib
     url: https://github.com/kodaman2/myS7ProSimLib
     description: Imported S7PROSimLib type library. To connect unity3D with Siemens PLCSim using COM Interop.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -610,12 +664,14 @@ entries:
     readme_tags:
       - plc
       - industrial
+    stale: true
+    last_pushed: '2016-09-19'
   - name: Unity Optix Plugin
     url: https://github.com/Alexander-Scott/UnityOptixPlugin
     description: An example of a Unity plugin that allows you to leverage the power of NVIDIA Optix.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -627,12 +683,14 @@ entries:
     readme_tags:
       - optix
       - nvidia
+    stale: true
+    last_pushed: '2017-09-03'
   - name: Constellation
     url: https://github.com/ConstellationLanguage/Constellation
     description: Constellation is a visual scripting language for unity that gives you the tools of a programmer without having to write a single line of code.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -644,12 +702,15 @@ entries:
     readme_tags:
       - visual-scripting
       - node-based
+    archived: true
+    stale: true
+    last_pushed: '2020-08-30'
   - name: Artimech
     url: https://github.com/Scramasax/Artimech
     description: Open source visual scripting system for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -661,12 +722,14 @@ entries:
     readme_tags:
       - visual-scripting
       - state-machine
+    stale: true
+    last_pushed: '2021-06-24'
   - name: VSCode Unity Code Snippets
     url: https://github.com/kleber-swf/vscode-unity-code-snippets
     description: All snippets for Unity3D development.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -682,7 +745,7 @@ entries:
     description: Unity3D snippets for differents IDEs.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -693,12 +756,15 @@ entries:
     readme_tags:
       - snippets
       - ide
+    archived: true
+    stale: true
+    last_pushed: '2016-10-27'
   - name: Unity VS Toolbox
     url: https://github.com/Naphier/Unity-VS-Toolbox
     description: Included in this project is a VS toolbox for most of the Monobehaviour events listed in order of execution. You'll also find a bunch of templates that can be installed so they will show up in the A
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -709,12 +775,14 @@ entries:
     readme_tags:
       - visual-studio
       - templates
+    stale: true
+    last_pushed: '2015-12-07'
   - name: VSCode Unity Debug Support
     url: https://github.com/Unity-Technologies/vscode-unity-debug
     description: Unity debugging support for VS Code. ![Official](UnityResource16x16.png)
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -725,12 +793,15 @@ entries:
     readme_tags:
       - vscode
       - debugger
+    archived: true
+    stale: true
+    last_pushed: '2024-04-05'
   - name: VSCode Unity Integration
     url: https://github.com/dotBunny/VSCode
     description: Unity Visual Studio Code Integration.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -740,12 +811,14 @@ entries:
     readme_tags:
       - vscode
       - integration
+    stale: true
+    last_pushed: '2021-05-24'
   - name: Unity Tools
     url: https://github.com/TobiahZ/unity-tools
     description: A Visual Studio Code Extension to provide some tools for Unity development.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -760,7 +833,7 @@ entries:
     description: A proxy App to be able to open Unity 5 C# classes using the new Project Rider from Jetbrains, in Mac OS X.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -775,7 +848,7 @@ entries:
     description: IntelliJ Project Rider integration for Unity.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -785,12 +858,14 @@ entries:
     readme_tags:
       - rider
       - intellij
+    stale: true
+    last_pushed: '2016-03-18'
   - name: RiderProxy
     url: https://github.com/siliconcat/RiderProxy
     description: Unity support for both ReSharper and Rider.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -800,12 +875,14 @@ entries:
     readme_tags:
       - rider
       - proxy
+    stale: true
+    last_pushed: '2016-04-07'
   - name: Unity3DVim
     url: https://github.com/NOSDuco/Unity3dVim
     description: Unity Vim Editor Integration for Linux.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -817,3 +894,5 @@ entries:
     readme_tags:
       - vim
       - linux
+    stale: true
+    last_pushed: '2023-04-04'

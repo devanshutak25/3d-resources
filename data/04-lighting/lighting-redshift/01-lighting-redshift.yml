@@ -17,7 +17,7 @@ entries:
     readme_tags:
       - Product Lighting
       - NAB 2023
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Redshift Lighting Techniques (Essential MoGraph)
     url: https://www.youtube.com/@MaxonTrainingTeam
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Redshift
       - MoGraph
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Light Groups
       - Workflow
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -76,7 +76,7 @@ entries:
     readme_tags:
       - Interiors
       - Materials
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: How to Art Direct Lights in a Cloner
     url: https://www.youtube.com/@MotionAndDesign
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Cloner
       - Art Direction
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:

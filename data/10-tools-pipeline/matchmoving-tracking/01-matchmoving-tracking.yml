@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Matchmove
       - Pro
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: SynthEyes
     url: https://www.ssontech.com/synovr.html
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - Lens Distortion
       - Pro
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: 3DEqualizer
     url: https://www.3dequalizer.com/
@@ -45,7 +45,7 @@ entries:
     readme_tags:
       - High-End
       - Studio Standard
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: fSpy
     url: https://fspy.io/
@@ -62,7 +62,7 @@ entries:
     readme_tags:
       - Free
       - Blender Bridge
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: F Spy Maya
     url: https://github.com/Nathanieljla/fSpy-Maya
@@ -79,5 +79,5 @@ entries:
     readme_tags:
       - Free
       - Maya Bridge
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok

@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - Auto CG Chars
       - USD Export
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: ControlNet
     url: https://stable-diffusion-art.com/controlnet/
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Depth/Pose Control
       - Precision
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Topaz Photo AI / Video AI
     url: https://www.topazlabs.com/
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - Upscale
       - Denoise
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Magnific AI
     url: https://magnific.ai/
@@ -58,7 +58,7 @@ entries:
     readme_tags:
       - Creative Upscale
       - 2-16x
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Dream Textures (Blender)
     url: https://github.com/carson-katri/dream-textures
@@ -73,7 +73,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Local SD
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Comfy UI Blender AI
     url: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - ComfyUI in Blender
       - Addon
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Blockade Labs Skybox AI
     url: https://www.blockadelabs.com/
@@ -104,14 +104,14 @@ entries:
     readme_tags:
       - AI Skybox
       - 360°
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Unity Muse
     url: https://unity.com/products/muse
     description: Unity's suite of AI products
     license: Paid
     entry_type: software
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -124,7 +124,7 @@ entries:
     description: AI Copilot for Unity
     license: Freemium
     entry_type: plugin
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -137,7 +137,7 @@ entries:
     description: GPU Gems 2 - Chapter 02.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -148,7 +148,7 @@ entries:
     description: Fast Terrain Rendering Using Geometrical MipMapping.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -159,7 +159,7 @@ entries:
     description: A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -170,7 +170,7 @@ entries:
     description: A procedural terrain generation and procedural modeling toolkit.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -182,7 +182,7 @@ entries:
     description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -194,7 +194,7 @@ entries:
     description: Sam Lapere's blog, leads the scientific team at EPFL Blue Brain Project. Lots of post about real time rendering
     license: Free
     entry_type: channel
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -206,7 +206,7 @@ entries:
     description: Adobe Air based app with game and ui related tools.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'MISFIT: not AI — sprite/UI utility. Belongs under game-dev tools.'
   - name: Rosebud AI
@@ -214,7 +214,7 @@ entries:
     description: Vibe coding platform for creating 3D games and interactive web apps with AI.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -227,7 +227,7 @@ entries:
     description: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (ie machine learning for framerate upscaling) for Nuke.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -236,12 +236,14 @@ entries:
     readme_tags:
       - Nuke Plugin
       - Frame Interp
+    stale: true
+    last_pushed: '2024-03-17'
   - name: AI Game Developer
     url: https://github.com/IvanMurzak/Unity-MCP
     description: '`Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.'
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -256,7 +258,7 @@ entries:
     description: Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:

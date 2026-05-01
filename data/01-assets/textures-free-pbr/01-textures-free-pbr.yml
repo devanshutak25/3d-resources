@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - CC0
       - 2000+ Materials
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Free PBR
     url: https://freepbr.com/
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - PBR
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Share Textures
     url: https://www.sharetextures.com/
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - CC0
       - Seamless
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: CG Bookcase
     url: https://www.cgbookcase.com/textures/
@@ -62,7 +62,7 @@ entries:
     readme_tags:
       - Free PBR
       - Seamless
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: 3D Textures
     url: https://3dtextures.me/
@@ -78,7 +78,7 @@ entries:
     readme_tags:
       - PBR
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Texture Fabrik
     url: https://texturefabrik.com/
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Patterns
       - Textures
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -108,7 +108,7 @@ entries:
     readme_tags:
       - Scanned
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Texture Supply (Gumroad)
     url: https://texturesupply.gumroad.com
@@ -118,7 +118,7 @@ entries:
     readme_tags:
       - Gumroad
       - Free Packs
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -132,7 +132,7 @@ entries:
     readme_tags:
       - Models + Textures
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -146,7 +146,7 @@ entries:
     readme_tags:
       - Varied
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -160,7 +160,7 @@ entries:
     readme_tags:
       - Massive
       - Professional
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -181,7 +181,7 @@ entries:
     readme_tags:
       - Free PBR
       - High-Quality Scans
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Fast Filter-Width Estimates with Texture Maps
     url: https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html
@@ -189,7 +189,7 @@ entries:
     license: Free
     entry_type: reference
     notes: 'RELOCATE: reference'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -201,7 +201,7 @@ entries:
     license: Freemium
     entry_type: tool
     notes: 'RELOCATE: tools/terrain'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -213,7 +213,7 @@ entries:
     license: Free
     entry_type: tool
     notes: 'RELOCATE: tools/texturing'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -228,7 +228,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: 'RELOCATE: tools/texturing'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -238,13 +238,15 @@ entries:
         - opensource-alt
         - procedural
         - node-based
+    stale: true
+    last_pushed: '2020-06-27'
   - name: Glsl Texture
     url: https://github.com/patriciogonzalezvivo/glslTexture
     description: Create textures from Glsl fragment shaders on Blender (2.8)
     license: Open Source
     entry_type: plugin
     notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -253,6 +255,8 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+    stale: true
+    last_pushed: '2023-02-11'
   - name: Texture Synthesis
     url: https://github.com/EmbarkStudios/texture-synthesis
     description: Example-based texture synthesis written in Rust.
@@ -260,7 +264,7 @@ entries:
     entry_type: tool
     deprecated: true
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -273,7 +277,7 @@ entries:
     description: A Huge library of matcap textures in PNG and ZMT, organized by color.
     license: Open Source
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -287,7 +291,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -295,13 +299,15 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2016-11-05'
   - name: Libgdx Texture Packer
     url: https://github.com/libgdx/libgdx/wiki/Texture-packer
     description: Texture Packer built into Libgdx
     license: Open Source
     entry_type: tool
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -315,7 +321,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -323,13 +329,15 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2022-02-27'
   - name: axys
     url: https://github.com/axys1/axys
     description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
     license: Open Source
     entry_type: software
     notes: 'RELOCATE: game-engines'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -343,7 +351,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: 'RELOCATE: tools/terrain'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -357,7 +365,7 @@ entries:
     license: Free
     entry_type: tool
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -369,7 +377,7 @@ entries:
     license: Free
     entry_type: reference
     notes: 'RELOCATE: reference'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -380,7 +388,7 @@ entries:
     description: A huge assets library. Photogrammetry and PBR Textures, 3D Models, Decals. 1500+ Free Texture Available.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -394,7 +402,7 @@ entries:
     description: Free high resolution textures, brushes and photos
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -408,7 +416,7 @@ entries:
     license: Open Source
     entry_type: reference
     notes: 'RELOCATE: reference'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -420,7 +428,7 @@ entries:
     license: Free
     entry_type: reference
     notes: 'RELOCATE: reference'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -432,7 +440,7 @@ entries:
     license: Paid
     entry_type: tool
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -444,7 +452,7 @@ entries:
     license: Freemium
     entry_type: software
     notes: 'RELOCATE: software'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -455,7 +463,7 @@ entries:
     description: Free material stock textures
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -469,7 +477,7 @@ entries:
     license: Paid
     entry_type: plugin
     notes: 'RELOCATE: plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -481,7 +489,7 @@ entries:
     license: Freemium
     entry_type: marketplace
     notes: 'RELOCATE: asset-marketplaces'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -494,7 +502,7 @@ entries:
     description: Search-engine which allows you to explore the largest free texture sites all at once.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -508,7 +516,7 @@ entries:
     license: Paid
     entry_type: plugin
     notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -521,8 +529,8 @@ entries:
     description: Free 3D Models, seamless Textures, Backgrounds, Photos & Graphics.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
     tags:
       workflow:
         - texturing
@@ -535,7 +543,7 @@ entries:
     license: Paid
     entry_type: software
     notes: 'RELOCATE: software'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -547,7 +555,7 @@ entries:
     license: Free
     entry_type: tool
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -559,7 +567,7 @@ entries:
     license: Freemium
     entry_type: tool
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -571,7 +579,7 @@ entries:
     license: Free
     entry_type: plugin
     notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -584,7 +592,7 @@ entries:
     description: Free C4D Materials created with High Quality Texture Maps for instant download and no limits, Free for Personal and Commercial Use.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -597,7 +605,7 @@ entries:
     description: Free PBR textures.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -611,7 +619,7 @@ entries:
     description: Repository for various addons like textures, models or celestial objects.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -623,7 +631,7 @@ entries:
     license: Free
     entry_type: reference
     notes: 'RELOCATE: reference/unreal-docs'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -635,7 +643,7 @@ entries:
     license: Free
     entry_type: tutorial
     notes: 'RELOCATE: tutorials/unreal'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -647,7 +655,7 @@ entries:
     license: Free
     entry_type: tool
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -659,7 +667,7 @@ entries:
     license: Free
     entry_type: reference
     notes: 'RELOCATE: reference'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -671,7 +679,7 @@ entries:
     license: Open Source
     entry_type: plugin
     notes: 'RELOCATE: unity-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:

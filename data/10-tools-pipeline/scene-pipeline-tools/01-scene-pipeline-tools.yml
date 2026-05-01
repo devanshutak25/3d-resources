@@ -12,7 +12,7 @@ entries:
     readme_tags:
       - Pipeline
       - Free Core
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: OpenCue (docs)
     url: https://docs.opencue.io/
@@ -28,7 +28,7 @@ entries:
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: ftrack
     url: https://www.ftrack.com/en/
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Production Tracking
       - Pro
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Kitsu (CGWire)
     url: https://www.cg-wire.com/kitsu
@@ -58,7 +58,7 @@ entries:
     readme_tags:
       - Open Source
       - Tracking
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: COLMAP
     url: https://colmap.github.io/
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Photogrammetry
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: A Trip Through The Graphics Pipeline
@@ -87,9 +87,11 @@ entries:
     readme_tags:
       - Reference
       - Graphics
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
+    stale: true
+    last_pushed: '2021-03-07'
   - name: Dailies
     url: https://github.com/vfxpaco85/dailies/
     description: Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
@@ -104,7 +106,7 @@ entries:
     readme_tags:
       - Dailies
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Prisma
     url: https://github.com/patriciogonzalezvivo/prisma
@@ -119,8 +121,10 @@ entries:
     readme_tags:
       - Computational Photo
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-02-04'
   - name: Tik Manager (GitHub)
     url: https://github.com/masqu3rad3/tik_manager4
     description: Artist friendly asset and pipeline manager.
@@ -133,7 +137,7 @@ entries:
     readme_tags:
       - Pipeline
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: GStreamer
     url: https://gstreamer.freedesktop.org/
@@ -147,7 +151,7 @@ entries:
     readme_tags:
       - Multimedia
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: Pipeline Developer Forum
@@ -159,7 +163,7 @@ entries:
     readme_tags:
       - Community
       - Pipeline
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Pandora
     url: https://prism-pipeline.com/pandora/
@@ -175,7 +179,7 @@ entries:
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: The Pipeline Conference
     url: https://thepipelineconference.com
@@ -186,7 +190,7 @@ entries:
     readme_tags:
       - Conference
       - Pipeline
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: Tik Manager (site)
@@ -198,7 +202,7 @@ entries:
     readme_tags:
       - Pipeline
       - Asset Mgmt
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: CGRU
     url: http://cgru.info/
@@ -214,7 +218,7 @@ entries:
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Flamenco (Blender render farm)
     url: https://flamenco.blender.org/
@@ -230,7 +234,7 @@ entries:
     readme_tags:
       - Render Farm
       - Blender
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Coalition
     url: http://coalition.readthedocs.io/en/latest/
@@ -246,7 +250,7 @@ entries:
     readme_tags:
       - Render Farm
       - Guerilla-adjacent
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Field3D
     url: https://magnuswrenninge.com/field3d
@@ -257,8 +261,8 @@ entries:
     readme_tags:
       - Voxel Lib
       - Open Source
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
     tags:
       tech:
         - opensource-alt
@@ -271,7 +275,7 @@ entries:
     readme_tags:
       - 3D Data Processing
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -288,8 +292,10 @@ entries:
     readme_tags:
       - DCC Bridge
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2022-05-02'
   - name: CGCmake
     url: https://github.com/chadmv/cgcmake
     description: CMake modules for CG apps.
@@ -302,8 +308,10 @@ entries:
     readme_tags:
       - Build
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-06-08'
   - name: Cortex
     url: https://github.com/ImageEngine/cortex
     description: Libraries for VFX software development.
@@ -318,7 +326,7 @@ entries:
     readme_tags:
       - VFX Libs
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Cross3D
     url: https://github.com/blurstudio/cross3d
@@ -332,8 +340,10 @@ entries:
     readme_tags:
       - DCC Bridge
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2017-10-28'
   - name: mGui
     url: https://github.com/theodox/mGui
     description: Portable pure-python GUI library for Maya.
@@ -346,8 +356,10 @@ entries:
     readme_tags:
       - Maya
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-04-27'
   - name: minq
     url: https://github.com/theodox/minq
     description: Maya query language for speeding up common scene operations.
@@ -360,8 +372,10 @@ entries:
     readme_tags:
       - Maya
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-05-20'
   - name: Py3dsMax
     url: https://github.com/blurstudio/Py3dsMax
     description: 3dsMax API in Python.
@@ -374,8 +388,10 @@ entries:
     readme_tags:
       - 3ds Max
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2018-10-27'
   - name: PyMEL
     url: https://github.com/LumaPictures/pymel
     description: Python in Maya Done Right.
@@ -388,7 +404,7 @@ entries:
     readme_tags:
       - Maya
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Easy3D
     url: https://github.com/LiangliangNan/Easy3D
@@ -402,7 +418,7 @@ entries:
     readme_tags:
       - 3D Lib
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Ramses
     url: https://github.com/RxLaboratory/Ramses
@@ -418,8 +434,9 @@ entries:
     readme_tags:
       - Asset Mgmt
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    archived: true
   - name: Stalker
     url: https://github.com/eoyilmaz/stalker
     description: Open Source Production Asset Management (ProdAM) Library designed specifically for Animation and VFX Studios.
@@ -434,7 +451,7 @@ entries:
     readme_tags:
       - Asset Mgmt
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Example of Python scripts for 3D Studio Max, Maya and Blender
     url: https://github.com/p4vv37/3D_Software_and_Python/
@@ -448,8 +465,10 @@ entries:
     readme_tags:
       - Examples
       - Python
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2018-07-02'
   - name: AMD Blender USD Hydra
     url: https://gpuopen.com/learn/amd-usd-hydra-blender/
     description: With Pixar's USD system emerging as a powerful tool for 3D graphics pipelines and interchange, this addon is meant to add first class support for USD and the USD Hydra rendering system to Blender.
@@ -459,7 +478,7 @@ entries:
     readme_tags:
       - USD
       - Blender
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: Haystack
@@ -475,7 +494,7 @@ entries:
     readme_tags:
       - NLP
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: Hugging Face Transformers
@@ -491,7 +510,7 @@ entries:
     readme_tags:
       - NLP
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: Radeon ProRender
@@ -506,7 +525,7 @@ entries:
     readme_tags:
       - Renderer
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: CGAL
@@ -521,7 +540,7 @@ entries:
     readme_tags:
       - Geometry Lib
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Flamenco (flamenco.io)
     url: https://www.flamenco.io/
@@ -537,7 +556,7 @@ entries:
     readme_tags:
       - Render Farm
       - Blender
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: OpenTimelineIO (site)
     url: http://opentimeline.io
@@ -553,7 +572,7 @@ entries:
     readme_tags:
       - Editorial
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: (2011) A trip through the graphics pipeline
     url: https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index
@@ -564,7 +583,7 @@ entries:
     readme_tags:
       - Graphics
       - Reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: BoatAttack
@@ -579,9 +598,11 @@ entries:
     readme_tags:
       - Unity
       - Demo
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
+    stale: true
+    last_pushed: '2020-11-09'
   - name: BlenderProc
     url: https://github.com/DLR-RM/BlenderProc
     description: A procedural Blender pipeline for photorealistic training image generation.
@@ -595,7 +616,7 @@ entries:
     readme_tags:
       - Blender
       - Synthetic Data
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Gaffer (GafferHQ compositing)
     url: https://github.com/GafferHQ/gaffer
@@ -611,7 +632,7 @@ entries:
     readme_tags:
       - Look Dev
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: OBS
     url: https://github.com/obsproject/obs-studio
@@ -625,7 +646,7 @@ entries:
     readme_tags:
       - Capture
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: QtWebengine
@@ -640,7 +661,7 @@ entries:
     readme_tags:
       - Qt
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: MayaCharm
@@ -655,8 +676,10 @@ entries:
     readme_tags:
       - Maya
       - IDE
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-09-22'
   - name: MayaSublime
     url: https://github.com/justinfx/MayaSublime
     description: Run and edit Maya scripts directly from SublimeText
@@ -669,8 +692,10 @@ entries:
     readme_tags:
       - Maya
       - IDE
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-09-30'
   - name: VEX
     url: https://github.com/teared/VEX
     description: Houdini add-on for Sublime Text
@@ -683,7 +708,7 @@ entries:
     readme_tags:
       - Houdini
       - IDE
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: nuke.vim
     url: https://github.com/heavyimage/nuke.vim
@@ -697,8 +722,10 @@ entries:
     readme_tags:
       - Nuke
       - IDE
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
+    stale: true
+    last_pushed: '2018-10-29'
   - name: LLM App
     url: https://github.com/pathwaycom/llm-app
     description: LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
@@ -712,7 +739,7 @@ entries:
     readme_tags:
       - LLM
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'
   - name: shashikg/WhisperS2T
@@ -728,6 +755,6 @@ entries:
     readme_tags:
       - Speech-to-Text
       - Open Source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     notes: 'RELOCATE: misfit flagged'

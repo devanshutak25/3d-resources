@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Dialogue System
       - Timeline
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -22,13 +22,14 @@ entries:
     readme_tags:
       - Steamworks
       - SDK
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
         - games
       tech:
         - opensource-alt
+    archived: true
   - name: Phantom Camera
     url: https://github.com/ramokz/phantom-camera
     description: Dynamic camera system (Cinemachine-inspired).
@@ -37,7 +38,7 @@ entries:
     readme_tags:
       - Camera System
       - Cinemachine-like
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -52,7 +53,7 @@ entries:
     readme_tags:
       - AI
       - Behavior Trees
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -67,7 +68,7 @@ entries:
     readme_tags:
       - 2D Terrain
       - Shape Tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -82,7 +83,7 @@ entries:
     readme_tags:
       - Testing
       - GDScript
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -94,7 +95,7 @@ entries:
     description: Unofficial fSpy importer for Godot.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -106,7 +107,7 @@ entries:
     description: Godot 4 glTF runtime import.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -118,10 +119,12 @@ entries:
     description: Package manager for Godot using npm.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
         - games
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2023-01-11'

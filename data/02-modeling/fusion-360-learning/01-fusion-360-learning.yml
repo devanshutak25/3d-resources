@@ -7,8 +7,8 @@ entries:
     readme_tags:
       - Autodesk Academy
       - Designers
-    url_last_verified: '2026-04-19'
-    url_status: ok
+    url_last_verified: '2026-05-01'
+    url_status: broken
     tags:
       workflow:
         - modeling
@@ -18,3 +18,4 @@ entries:
         - beginner
       tech:
         - fusion-360
+    deprecated: true

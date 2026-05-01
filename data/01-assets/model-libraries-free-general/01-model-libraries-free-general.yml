@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - Massive
       - Downloadable
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Poly Haven
     url: https://polyhaven.com/
@@ -34,7 +34,7 @@ entries:
     readme_tags:
       - CC0
       - PBR
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: TurboSquid
     url: https://www.turbosquid.com/
@@ -51,7 +51,7 @@ entries:
     readme_tags:
       - Marketplace
       - Free Section
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: CGTrader
     url: https://www.cgtrader.com/
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Marketplace
       - Community
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -83,7 +83,7 @@ entries:
     readme_tags:
       - CC0
       - VFX Assets
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: XYZed3D (Gumroad)
     url: https://xyzed3d.gumroad.com/
@@ -100,7 +100,7 @@ entries:
     readme_tags:
       - CC0
       - Gumroad
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Poly Pizza
     url: https://poly.pizza/
@@ -117,7 +117,7 @@ entries:
     readme_tags:
       - Low-Poly
       - CC-BY
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: The Base Mesh
     url: https://www.thebasemesh.com/model-library
@@ -132,7 +132,7 @@ entries:
     readme_tags:
       - Base Meshes
       - Sculpting-Ready
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Open3DModel
     url: https://open3dmodel.com/
@@ -142,7 +142,7 @@ entries:
     readme_tags:
       - Free
       - Archive
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -164,7 +164,7 @@ entries:
     readme_tags:
       - 3D Scans
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Free3D.io
     url: https://free3d.io/
@@ -173,7 +173,7 @@ entries:
     entry_type: asset-source
     readme_tags:
       - Free Models
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -187,7 +187,7 @@ entries:
     entry_type: asset-source
     readme_tags:
       - Free Downloads
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -209,7 +209,7 @@ entries:
     readme_tags:
       - Rigged
       - Animation-Ready
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: 3DExport
     url: https://3dexport.com/
@@ -218,7 +218,7 @@ entries:
     entry_type: marketplace
     readme_tags:
       - Marketplace
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -232,7 +232,7 @@ entries:
     entry_type: asset-source
     readme_tags:
       - Free Models
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -253,7 +253,7 @@ entries:
     readme_tags:
       - Cultural Heritage
       - Scanned
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Free3D
     url: https://free3d.com/
@@ -263,7 +263,7 @@ entries:
     readme_tags:
       - Large Collection
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -278,7 +278,7 @@ entries:
     readme_tags:
       - Database
       - Search
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -299,7 +299,7 @@ entries:
     readme_tags:
       - Heritage Scans
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Stanford 3D Scanning Repository
     url: https://graphics.stanford.edu/data/3Dscanrep/
@@ -316,7 +316,7 @@ entries:
     readme_tags:
       - Academic
       - Test Meshes
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Casual Effects Data
     url: https://casual-effects.com/data/index.html
@@ -326,7 +326,7 @@ entries:
     readme_tags:
       - Research
       - Test Scenes
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -341,7 +341,7 @@ entries:
     readme_tags:
       - Clean Meshes
       - Shader Testing
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -363,7 +363,7 @@ entries:
     readme_tags:
       - Arch/Furniture
       - Vehicles
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Polycam Explore
     url: https://polycam.ai/explore
@@ -379,13 +379,13 @@ entries:
     readme_tags:
       - Photogrammetry
       - User-Uploaded
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Blender 3D models
     url: https://www.blender-models.com/
     description: 3D models, particle systems/effects
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -407,7 +407,7 @@ entries:
     readme_tags:
       - Blender
       - .blend Packs
-    url_last_verified: '2026-04-20'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Mesh2Motion
     url: https://mesh2motion.org/
@@ -415,7 +415,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: 'RELOCATE: tools/rigging'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -429,7 +429,7 @@ entries:
     description: Sells 3D models for various industries.
     license: Paid
     entry_type: marketplace
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -440,7 +440,7 @@ entries:
     url: https://www.pbrpx.com
     description: A huge library of free PBR materials, and some 3D models.
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -453,7 +453,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: 'RELOCATE: tools/format-io'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -464,7 +464,7 @@ entries:
     license: Paid
     entry_type: plugin
     notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -477,7 +477,7 @@ entries:
     license: Open Source
     entry_type: plugin
     notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -488,7 +488,7 @@ entries:
     url: https://free3dbase.com/
     description: Download high quality free 3d models.
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -501,7 +501,7 @@ entries:
     license: Paid
     entry_type: plugin
     notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       tech:
@@ -513,7 +513,7 @@ entries:
     description: Generative AI enables users to quickly generate new content based on a variety of inputs. Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types o
     entry_type: reference
     notes: 'RELOCATE: reference/glossary'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -527,7 +527,7 @@ entries:
     description: Ultimate low-poly model packs (CC0).
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       output:
@@ -543,7 +543,7 @@ entries:
     description: Free section of Chocofur premium 3D model store.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -556,7 +556,7 @@ entries:
     license: Paid
     entry_type: plugin
     notes: 'RELOCATE: motion-graphics/after-effects-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -567,7 +567,7 @@ entries:
     license: Open Source
     entry_type: plugin
     notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -581,7 +581,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: 'RELOCATE: ai-ml/tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       platform:
@@ -591,3 +591,5 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+    stale: true
+    last_pushed: '2024-01-27'

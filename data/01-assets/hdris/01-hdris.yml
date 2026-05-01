@@ -12,7 +12,7 @@ entries:
     readme_tags:
       - CC0
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Poly Haven HDRIs
     url: https://polyhaven.com/hdris
@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - CC0
       - 16K
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: HDRI Skies
     url: https://hdri-skies.com/
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Sky HDRIs
       - Free
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: HDR Maps
     url: https://hdrmaps.com/freebies/
@@ -53,7 +53,7 @@ entries:
     readme_tags:
       - Free Packs
       - Studio/Outdoor
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Adobe Stock HDRI
     url: https://stock.adobe.com/search?k=hdri+studio
@@ -66,7 +66,7 @@ entries:
     readme_tags:
       - Studio
       - Adobe Stock
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: RenderMan HDRIs
     url: https://renderman.pixar.com/category/111-hdri
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - Pixar
       - Pro-grade
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: OpenFootage
     url: https://www.openfootage.net/
@@ -95,7 +95,7 @@ entries:
     readme_tags:
       - VFX Plates
       - Backplates
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: Maxime Roz HDRI Pack
     url: https://www.maximeroz.com/hdri-free-pack
@@ -110,7 +110,7 @@ entries:
     readme_tags:
       - Studio
       - Product-Viz
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
   - name: HDRI Hub
     url: https://hdri-hub.com/
@@ -120,7 +120,7 @@ entries:
     readme_tags:
       - High-Quality
       - Backplates
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -131,7 +131,7 @@ entries:
     license: Free
     entry_type: asset-source
     notes: 'RELOCATE: textures-free-pbr (textures, not HDRIs); also redirects to polyhaven'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -145,7 +145,7 @@ entries:
     license: Open Source
     entry_type: plugin
     notes: 'RELOCATE: blender-plugins'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
@@ -153,13 +153,15 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+    stale: true
+    last_pushed: '2024-03-11'
   - name: HDRI To Cube Map
     url: https://matheowis.github.io/HDRI-to-CubeMap/
     description: A tool to convert your HDRI file into a Cube map.
     license: Free
     entry_type: tool
     notes: 'RELOCATE: tools'
-    url_last_verified: '2026-04-19'
+    url_last_verified: '2026-05-01'
     url_status: ok
     tags:
       workflow:
