@@ -118,6 +118,19 @@
     "host_compat": {
       "type": "string",
       "description": "Host-version compatibility hint (e.g., 'blender:>=4.2', 'houdini:>=20')"
+    },
+    "stale": {
+      "type": "boolean",
+      "description": "Auto-set by check-repo-staleness when repo has not been pushed within threshold"
+    },
+    "archived": {
+      "type": "boolean",
+      "description": "Auto-set by check-repo-staleness when GitHub repo is marked archived"
+    },
+    "last_pushed": {
+      "type": "string",
+      "format": "date",
+      "description": "Auto-updated by check-repo-staleness with last GitHub push date"
     }
   }
 }
