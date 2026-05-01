@@ -29,6 +29,36 @@ entries:
       - Film Animation
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Houdini
+    url: https://www.sidefx.com/products/houdini/
+    description: Procedural node-based DCC for VFX, simulation, and FX.
+    pricing: Indie $269/yr, Core $1995, FX $4495
+    license: Paid
+    entry_type: software
+    best_for: Procedural FX, simulation, VFX
+    tags:
+      workflow:
+        - modeling
+        - simulation
+        - rendering
+        - lighting
+        - animation
+      output:
+        - film-vfx
+        - broadcast
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - indie-license
+        - procedural
+    readme_tags:
+      - Industry Standard
+      - Procedural FX
+    url_last_verified: '2026-05-01'
+    url_status: ok
   - name: ZBrush
     url: https://www.maxon.net/en/zbrush
     description: Industry-standard digital sculpting from Maxon.
