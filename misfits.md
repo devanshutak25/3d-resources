@@ -45,8 +45,9 @@ Both indicate the same thing: entry sits in the wrong section. Cleanup = move + 
 | Tail: `hdris/01` + `stock-images/01` + `plugin-marketplaces/02` + `blender-plugins-addons/03` | 10 | R4 |
 | `textures-free-pbr/01` + `textures-free-pbr/02` | 62 | R4 |
 | `blender-plugins-addons/01` | 28 | R4 |
+| `communities-forums/02` | 31 | R4 |
 
-**Total: ~210 cleaned. 6 files (~93 markers) remaining.**
+**Total: ~241 cleaned. 5 files (~62 markers) remaining.**
 
 Three new entries also added in earlier sessions (Rebelle 8 Pro → drawing-painting-3d, ArcBrush → design-tools, Filter Forge → material-creation-tools).
 
@@ -67,7 +68,7 @@ All remaining 13 files use **RELOCATE:** notation (no `# MISFIT:` comments left)
 ### Big RELOCATE batches
 
 - [x] ~~`01-assets/textures-free-pbr/02` — 33~~ (R4)
-- [ ] `11-learning-community/communities-forums/02` — 31
+- [x] ~~`11-learning-community/communities-forums/02` — 31~~ (R4)
 - [x] ~~`01-assets/textures-free-pbr/01` — 29~~ (R4)
 - [x] ~~`02-modeling/blender-plugins-addons/01` — 28~~ (R4)
 - [ ] `02-modeling/blender-plugins-addons/02` — 14

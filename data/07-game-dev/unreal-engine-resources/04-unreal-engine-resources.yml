@@ -428,3 +428,47 @@ entries:
     archived: true
     stale: true
     last_pushed: '2021-01-21'
+  - name: ALS Community
+    url: https://github.com/dyanikoglu/ALS-Community
+    description: Replicated and optimized community version of Advanced Locomotion System V4
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Unreal
+      - Locomotion
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - unreal-plugin
+  - name: UE4 Plugin Resources
+    url: https://github.com/Sythenz/UE4-Plugin-Resources
+    description: A list of community resources for Slate, Graphs, and UE4 Plugin Development.
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Unreal
+      - Plugin Dev
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - unreal-plugin
+    stale: true
+    last_pushed: '2021-11-18'
+  - name: MassSample
+    url: https://github.com/Megafunk/MassSample
+    description: Community Mass Sample
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Unreal
+      - Mass Sample
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - unreal-plugin

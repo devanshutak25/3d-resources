@@ -292,3 +292,17 @@ entries:
         - xr
       tech:
         - xr
+  - name: 'ViroCore: A cross-platform AR/VR renderer'
+    url: https://github.com/ViroCommunity/virocore
+    description: 'And [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)'
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - AR/VR
+      - Renderer
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+        - xr

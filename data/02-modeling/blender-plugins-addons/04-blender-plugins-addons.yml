@@ -415,3 +415,199 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+  - name: MPFB
+    url: http://static.makehumancommunity.org/mpfb.html
+    description: MPFB2 is an open source human generator for Blender. It's complete rewrite of MakeHuman as a Blender addon. [![][repo]](https://github.com/makehumancommunity/mpfb2)
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - Human Gen
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: Welder
+    url: https://blenderartists.org/t/welder/672478
+    description: Welds generator for Blender.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender Addon
+      - Welds
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: Array Tools
+    url: https://blenderartists.org/t/array-tools-all-in-one-for-translation-scale-and-rotation-array/1170295?u=peetie
+    description: Addon for Blender to create translation, scale, rotation array with offset or global parameters in any direction and mix them. [![][repo]](https://github.com/Elreenys/array_tools)
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - Array
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: Mesh Heal
+    url: https://blenderartists.org/t/mesh-heal/1117095
+    description: Add-on for Blender, it includes additional Blender operators for healing surface meshes.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender Addon
+      - Mesh Repair
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: Drop It
+    url: https://blenderartists.org/t/drop-it-free-addon/1244259/
+    description: Designed to drop fast and simply Objects to Ground or Surface. [![][repo]](https://github.com/maxivz/interactivetoolsblender)
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender Addon
+      - Physics Drop
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: JARCH Vis
+    url: https://blenderartists.org/t/addon-jarch-vis/642607
+    description: Add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - Archviz
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: Wiggle Bones
+    url: https://blenderartists.org/t/wiggle-2/1454788
+    description: Jiggle bone implementation for Blender with realistic physics. [![][repo]](https://github.com/shteeve3d/blender-wiggle-2) ![][gpl]
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - Rigging
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: TexTools
+    url: https://blenderartists.org/t/textools-for-blender/700811
+    description: TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/SavMartin/TexTools-Blender)
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - UV Tools
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: EZ Baker
+    url: https://blenderartists.org/t/ez-baker/1245869
+    description: An easier alternative to blender's default bake system. [![][repo]](https://gitlab.com/AquaticNightmare/ez_baker)
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - Baking
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: V HACD
+    url: https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822
+    description: Library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - Collision
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: Multi User
+    url: https://blenderartists.org/t/multi-user/1187118
+    description: Enable real-time collaborative workflows inside blender. [![][repo]](https://gitlab.com/slumber/multi-user)
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - Collaboration
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+        - collaborative
+  - name: Theme Switcher
+    url: https://blenderartists.org/t/theme-switcher/1211787
+    description: Addon to quickly change active theme not leaving 3D View.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender Addon
+      - Theme
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon
+  - name: Lodify
+    url: https://devtalk.blender.org/t/level-of-detail-addon/12840
+    description: LOD(Level of Detail) and Proxy system for blender. [![][repo]](https://github.com/DB3D/Lodify)
+    entry_type: community
+    license: Open Source
+    readme_tags:
+      - Blender Addon
+      - LOD
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      tech:
+        - blender-addon

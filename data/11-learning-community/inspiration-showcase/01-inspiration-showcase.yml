@@ -579,3 +579,16 @@ entries:
         - illustration
       platform:
         - web
+  - name: Chrome Experiments
+    url: https://www.chromeexperiments.com/
+    description: Showcase of web experiments written by the creative coding community.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Creative Coding
+      - Showcase
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web

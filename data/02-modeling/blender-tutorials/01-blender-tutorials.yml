@@ -55,3 +55,68 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     tags: {}
+  - name: 📖 User Manual
+    url: https://docs.blender.org/manual/en/latest/
+    description: '[🔗 Python API](https://docs.blender.org/api/current/) | [⚙️ Developer Wiki](https://wiki.blender.org/wiki/Main_Page)'
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender Docs
+      - Manual
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Animation & Rigging Manual
+    url: https://docs.blender.org/manual/en/latest/physics/index.html
+    description: Animation & Rigging Manual..
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender Docs
+      - Rigging
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Compositing Nodes List
+    url: https://docs.blender.org/manual/en/latest/compositing/index.html#node-types
+    description: Compositing Nodes List..
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender Docs
+      - Compositing
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Motion Tracking Manual
+    url: https://docs.blender.org/manual/en/latest/movie_clip/tracking/introduction.html
+    description: Motion Tracking Manual..
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender Docs
+      - Tracking
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Blender Python API Documentation
+    url: https://docs.blender.org/api/current/
+    description: Official Blender Python API Documentation.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Blender Docs
+      - Python API
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
