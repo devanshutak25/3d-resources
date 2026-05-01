@@ -1,0 +1,265 @@
+entries:
+  - name: Meshy v4
+    url: https://www.meshy.ai/
+    description: Production-reliable, improved topology and PBR textures.
+    license: Freemium
+    entry_type: software
+    best_for: Production-ready AI 3D
+    tags:
+      tech:
+        - ai-generative
+        - pbr
+      workflow:
+        - modeling
+    readme_tags:
+      - Production-Reliable
+      - PBR
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: Tripo v3.0
+    url: https://www.tripo3d.ai/
+    description: Sculpture-level precision, clean quad topology.
+    license: Freemium
+    entry_type: software
+    best_for: Clean topology AI 3D
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - modeling
+    readme_tags:
+      - Clean Quads
+      - Sculpt-level
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: Rodin Gen-2 (Hyper3D)
+    url: https://hyper3d.ai/
+    description: 10B params, photorealistic, free generation tier.
+    license: Freemium
+    entry_type: software
+    best_for: Photorealistic AI 3D
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - modeling
+    readme_tags:
+      - 10B Params
+      - Free Tier
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: TRELLIS.2 (Microsoft)
+    url: https://huggingface.co/microsoft/TRELLIS.2-4B
+    description: Full PBR materials, complex topologies.
+    license: Open Source
+    entry_type: software
+    best_for: PBR AI 3D (open source)
+    tags:
+      tech:
+        - ai-generative
+        - pbr
+        - opensource-alt
+      workflow:
+        - modeling
+    readme_tags:
+      - Microsoft
+      - PBR + Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: Luma Genie
+    url: https://lumalabs.ai/
+    description: Text/image to 3D, integrated with Dream Machine.
+    license: Freemium
+    entry_type: software
+    best_for: Luma-integrated 3D gen
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - modeling
+    readme_tags:
+      - Luma
+      - Integrated
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: Kaedim
+    url: https://www.kaedim3d.com/
+    description: Image-to-3D with hybrid AI plus artist cleanup for production quality.
+    license: Paid
+    entry_type: software
+    best_for: Production-quality via hybrid AI+artist
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - modeling
+    readme_tags:
+      - Hybrid AI+Artist
+      - Production
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: Spline AI
+    url: https://spline.design/
+    description: Generate 3D objects and textures from text prompts in-editor.
+    license: Freemium
+    entry_type: software
+    best_for: In-editor AI 3D
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - modeling
+    readme_tags:
+      - In-Editor
+      - Text→3D
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: Unique3D
+    url: https://github.com/AiuniAI/Unique3D
+    description: High-quality mesh from single image (NeurIPS 2024).
+    license: Open Source
+    entry_type: software
+    best_for: Single-image open-source 3D
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - modeling
+    readme_tags:
+      - Single-Image
+      - NeurIPS
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: Wonder3D++
+    url: https://github.com/xxlong0/Wonder3D
+    description: Cross-domain diffusion, textured meshes in 2-3min.
+    license: Open Source
+    entry_type: software
+    best_for: Fast textured mesh gen
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - modeling
+    readme_tags:
+      - Fast
+      - Textured Mesh
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: InstantMesh
+    url: https://github.com/TencentARC/InstantMesh
+    description: Fast single-image-to-3D reconstruction.
+    license: Open Source
+    entry_type: software
+    best_for: Fast image→3D
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - modeling
+    readme_tags:
+      - Fast
+      - Image→3D
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: TripoSR
+    url: https://github.com/VAST-AI-Research/TripoSR
+    description: Tripo/Stability collab — fast open-source image-to-3D.
+    license: Open Source
+    entry_type: software
+    best_for: Fast open-source image→3D
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - modeling
+    readme_tags:
+      - Open Source
+      - Fast
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: Stability SPAR3D
+    url: https://stability.ai/
+    description: Open-source single-image 3D reconstruction.
+    license: Open Source
+    entry_type: software
+    best_for: Single-image open-source 3D
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - modeling
+    readme_tags:
+      - Stability AI
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: 3DTopia
+    url: https://github.com/3DTopia/3DTopia
+    description: Open-source text-to-3D pipeline (coarse → refined).
+    license: Open Source
+    entry_type: software
+    best_for: Text-to-3D open-source
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - modeling
+    readme_tags:
+      - Coarse→Refined
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    stale: true
+    last_pushed: '2024-03-10'
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+  - name: Sloyd
+    url: https://sloyd.ai/
+    description: Procedural 3D generation with parametric control.
+    license: Freemium
+    entry_type: software
+    best_for: Parametric procedural 3D
+    tags:
+      tech:
+        - ai-generative
+        - procedural
+      workflow:
+        - modeling
+    readme_tags:
+      - Procedural
+      - Parametric
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation

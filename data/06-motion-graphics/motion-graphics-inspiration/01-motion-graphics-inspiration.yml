@@ -170,21 +170,6 @@ entries:
     tags:
       output:
         - motion-graphics
-  - name: Friction
-    url: https://github.com/friction2d/friction
-    description: Friction is a powerful and versatile motion graphics application that allows you to create vector and raster animations for web and video.
-    entry_type: software
-    license: Open Source
-    readme_tags:
-      - Vector Animation
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
-      tech:
-        - opensource-alt
   - name: Animation Nodes (GitHub)
     url: https://github.com/JacquesLucke/animation_nodes
     description: A node-based visual scripting system designed for motion graphics in Blender.
@@ -201,36 +186,6 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
-        - node-based
-  - name: Natron (legacy site)
-    url: https://natron.fr
-    description: Open Source Compositing Software For VFX and Motion Graphics.
-    entry_type: software
-    license: Open Source
-    readme_tags:
-      - Compositing
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
-  - name: TOOLL3
-    url: https://tooll.io/
-    description: Graph-based procedural real-time motion graphics for live performance or rendering.
-    entry_type: software
-    license: Open Source
-    readme_tags:
-      - Real-Time
-      - Procedural
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
-      tech:
-        - real-time
-        - procedural
         - node-based
   - name: AEJuice
     url: https://aejuice.com/

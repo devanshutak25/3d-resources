@@ -1,20 +1,4 @@
 entries:
-  - name: Photon Engine
-    url: https://www.photonengine.com/
-    description: Cloud multiplayer (PUN, Fusion, Quantum SDKs).
-    license: Freemium
-    entry_type: software
-    best_for: Cloud multiplayer
-    tags:
-      output:
-        - games
-      tech:
-        - cloud
-    readme_tags:
-      - Cloud Multiplayer
-      - Unity/Unreal
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Mirror (site)
     url: https://mirror-networking.com/
     description: Open-source Unity networking.
@@ -45,22 +29,6 @@ entries:
       - High-Perf
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: Nakama
-    url: https://heroiclabs.com/
-    description: Open-source game server (social, matchmaking, leaderboards).
-    license: Open Source
-    entry_type: software
-    best_for: Social game server
-    tags:
-      output:
-        - games
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Social Server
-      - Matchmaking
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Colyseus
     url: https://colyseus.io/
     description: Node.js multiplayer framework.
@@ -76,30 +44,6 @@ entries:
       - Multiplayer
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: Epic Online Services
-    url: https://dev.epicgames.com/en-US/services
-    description: Free multiplayer, matchmaking, voice chat.
-    license: Free
-    entry_type: software
-    best_for: Free multiplayer services
-    tags:
-      output:
-        - games
-    readme_tags:
-      - Free EOS
-      - Matchmaking/Voice
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: SmartFoxServer 2X
-    url: http://docs2x.smartfoxserver.com/ExamplesUnity/introduction
-    description: A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more.
-    license: Freemium
-    entry_type: software
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
   - name: 'GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course'
     url: https://www.gamedev.tv/p/unrealmultiplayer
     description: 'GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course.'
@@ -171,17 +115,6 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2018-01-12'
-  - name: 📄 build dynamic matchmaking with PubNub ~ epicgames
-    url: https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services
-    description: '[multiplayer].'
-    license: Free
-    entry_type: software
-    notes: 'FLAG: entry_type misfit — this is a tutorial/article, not software.'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
   - name: Bomber
     url: https://github.com/JanSeliv/Bomber
     description: Open-source Bomberman multiplayer game made in Unreal Engine 5.

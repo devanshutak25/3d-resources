@@ -1,0 +1,97 @@
+entries:
+  - name: Zero Density
+    url: https://www.zerodensity.tv/
+    description: Real-time VFX engine for broadcast and virtual production.
+    license: Paid
+    entry_type: software
+    best_for: Broadcast VP
+    tags:
+      output:
+        - broadcast
+        - film-vfx
+      tech:
+        - real-time
+    readme_tags:
+      - Real-time VFX
+      - Broadcast
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production
+  - name: disguise
+    url: https://www.disguise.one/en/solutions/virtual-production/
+    description: Virtual production solutions.
+    license: Paid
+    entry_type: software
+    best_for: LED wall virtual production
+    tags:
+      output:
+        - film-vfx
+        - broadcast
+      tech:
+        - real-time
+    readme_tags:
+      - LED Walls
+      - Workflow
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production
+  - name: Vizrt
+    url: https://www.vizrt.com/
+    description: Broadcast graphics.
+    license: Paid
+    entry_type: software
+    best_for: Broadcast graphics
+    tags:
+      output:
+        - broadcast
+        - film-vfx
+      tech:
+        - real-time
+    readme_tags:
+      - Broadcast
+      - Graphics
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production
+  - name: Pixotope
+    url: https://www.pixotope.com/
+    description: Virtual production software.
+    license: Paid
+    entry_type: software
+    best_for: Virtual production
+    tags:
+      output:
+        - film-vfx
+        - broadcast
+      tech:
+        - real-time
+    readme_tags:
+      - VP Software
+      - Real-time
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production
+  - name: Notch
+    url: https://www.notch.one/
+    description: Real-time graphics for live events and virtual production.
+    license: Paid
+    entry_type: software
+    best_for: Live events, real-time graphics
+    tags:
+      output:
+        - broadcast
+        - motion-graphics
+        - film-vfx
+      tech:
+        - real-time
+    readme_tags:
+      - Live Events
+      - Real-time
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production

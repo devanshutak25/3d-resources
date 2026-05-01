@@ -31,23 +31,6 @@ entries:
       - Fast
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: Houdini Engine (SideFX product)
-    url: https://www.sidefx.com/products/houdini-engine/
-    description: Procedural generation pipeline for Unreal/Unity/Godot.
-    license: Paid
-    entry_type: software
-    best_for: Procedural pipeline in-engine
-    tags:
-      tech:
-        - procedural
-      output:
-        - games
-    readme_tags:
-      - Procedural Pipeline
-      - Multi-Engine
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: RELOCATE — entry_type 'software' belongs in §12 software table.
   - name: Machinations
     url: https://machinations.io/
     description: Visual tool for designing and simulating game economies.

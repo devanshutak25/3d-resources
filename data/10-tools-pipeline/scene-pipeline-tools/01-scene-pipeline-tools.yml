@@ -1,65 +1,4 @@
 entries:
-  - name: Prism Pipeline
-    url: https://prism-pipeline.com/
-    description: Animation and VFX pipeline.
-    license: Freemium
-    entry_type: software
-    best_for: Indie/small studio pipeline
-    tags:
-      output:
-        - film-vfx
-        - broadcast
-    readme_tags:
-      - Pipeline
-      - Free Core
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: OpenCue (docs)
-    url: https://docs.opencue.io/
-    description: Open-source render management.
-    license: Open Source
-    entry_type: software
-    best_for: Render farm management
-    tags:
-      workflow:
-        - rendering
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Render Farm
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: ftrack
-    url: https://www.ftrack.com/en/
-    description: Production tracking.
-    license: Paid
-    entry_type: software
-    best_for: Production tracking
-    tags:
-      output:
-        - film-vfx
-    readme_tags:
-      - Production Tracking
-      - Pro
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Kitsu (CGWire)
-    url: https://www.cg-wire.com/kitsu
-    description: Production tracker.
-    license: Open Source
-    entry_type: software
-    best_for: Open-source production tracking
-    tags:
-      output:
-        - film-vfx
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Open Source
-      - Tracking
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Dailies
     url: https://github.com/vfxpaco85/dailies/
     description: Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
@@ -93,20 +32,6 @@ entries:
     url_status: ok
     stale: true
     last_pushed: '2024-02-04'
-  - name: Tik Manager (GitHub)
-    url: https://github.com/masqu3rad3/tik_manager4
-    description: Artist friendly asset and pipeline manager.
-    license: Open Source
-    entry_type: software
-    best_for: Asset/pipeline management for small teams
-    tags:
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Pipeline
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Pipeline Developer Forum
     url: https://pipedev.org
     description: Pipeline Developer Forum.
@@ -116,81 +41,6 @@ entries:
     readme_tags:
       - Community
       - Pipeline
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Pandora
-    url: https://prism-pipeline.com/pandora/
-    description: Open-Source Renderfarm-Manager.
-    license: Open Source
-    entry_type: software
-    best_for: Indie render farm management
-    tags:
-      workflow:
-        - rendering
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Render Farm
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Tik Manager (site)
-    url: https://tik-manager.com
-    description: Artist-friendly asset and pipeline manager.
-    license: Freemium
-    entry_type: software
-    best_for: Asset/pipeline management
-    readme_tags:
-      - Pipeline
-      - Asset Mgmt
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: CGRU
-    url: http://cgru.info/
-    description: CG tools pack that includes AFANASY, a free open-source render farm manager.
-    license: Open Source
-    entry_type: software
-    best_for: Open-source render farm
-    tags:
-      workflow:
-        - rendering
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Render Farm
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Flamenco (Blender render farm)
-    url: https://flamenco.blender.org/
-    description: Blender Foundation's free render-farm manager.
-    entry_type: software
-    license: Open Source
-    best_for: Blender render farm
-    tags:
-      workflow:
-        - rendering
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Render Farm
-      - Blender
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Coalition
-    url: http://coalition.readthedocs.io/en/latest/
-    description: Render-farm manager from Mercenaries Engineering (makers of Guerilla Render).
-    entry_type: software
-    license: Open Source
-    best_for: Small-studio render farm
-    tags:
-      workflow:
-        - rendering
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Render Farm
-      - Guerilla-adjacent
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: Field3D
@@ -204,20 +54,6 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: unreachable
-    tags:
-      tech:
-        - opensource-alt
-  - name: Open3D
-    url: http://www.open3d.org/
-    description: Modern library for 3D data processing — point clouds, meshes, voxels, reconstruction.
-    entry_type: software
-    license: Open Source
-    best_for: 3D data processing (Python/C++)
-    readme_tags:
-      - 3D Data Processing
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
     tags:
       tech:
         - opensource-alt
@@ -410,52 +246,6 @@ entries:
     url_status: ok
     stale: true
     last_pushed: '2018-07-02'
-  - name: CGAL
-    url: https://www.cgal.org/
-    description: A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
-    license: Open Source
-    entry_type: software
-    best_for: Computational geometry algorithms
-    tags:
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Geometry Lib
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Flamenco (flamenco.io)
-    url: https://www.flamenco.io/
-    description: From the Blender Foundation
-    license: Open Source
-    entry_type: software
-    best_for: Blender render farm
-    tags:
-      workflow:
-        - rendering
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Render Farm
-      - Blender
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: OpenTimelineIO (site)
-    url: http://opentimeline.io
-    description: ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
-    license: Open Source
-    entry_type: software
-    best_for: Editorial timeline interchange
-    tags:
-      tech:
-        - opensource-alt
-      output:
-        - film-vfx
-    readme_tags:
-      - Editorial
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: BlenderProc
     url: https://github.com/DLR-RM/BlenderProc
     description: A procedural Blender pipeline for photorealistic training image generation.
@@ -469,22 +259,6 @@ entries:
     readme_tags:
       - Blender
       - Synthetic Data
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Gaffer (GafferHQ compositing)
-    url: https://github.com/GafferHQ/gaffer
-    description: Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.
-    license: Open Source
-    entry_type: software
-    best_for: Look dev / lighting / compositing
-    tags:
-      tech:
-        - opensource-alt
-      output:
-        - film-vfx
-    readme_tags:
-      - Look Dev
-      - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: MayaCharm
@@ -549,32 +323,3 @@ entries:
     url_status: ok
     stale: true
     last_pushed: '2018-10-29'
-  - name: TerraForge3D
-    url: https://jaysmito101.github.io/TerraForge3D/
-    description: A procedural terrain generation and procedural modeling toolkit.
-    license: Open Source
-    entry_type: software
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - procedural
-        - opensource-alt
-  - name: Godot Game Tools
-    url: https://viniguerrero.itch.io/godot-game-tools
-    description: Made easy importing mixamo animations. tools to ease the creation/import process of assets into Godot Game Engine and others.
-    entry_type: software
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-  - name: Medieval Fantasy City Generator
-    url: https://watabou.itch.io/medieval-fantasy-city-generator
-    description: 'This application generates a random medieval city layout of a requested size. [City Viewer](https://watabou.itch.io/city-viewer) : is a 3d-visualizer for MFCD. See other generators from'
-    entry_type: software
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games

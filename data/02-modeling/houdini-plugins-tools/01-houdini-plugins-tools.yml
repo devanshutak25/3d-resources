@@ -284,7 +284,7 @@ entries:
     url_status: ok
   - name: VEX Manager
     url: https://shirmanor.gumroad.com/l/vex_manager_v1
-    description: VEX snippet/code manager HDA by Shir Manor. Also listed under Houdini — VEX & Coding.
+    description: VEX snippet/code manager HDA by Shir Manor.
     license: Paid
     entry_type: plugin
     readme_tags:
@@ -293,6 +293,9 @@ entries:
     tags:
       tech:
         - houdini-addon
+        - vex
+    dual_listed_in:
+      - modeling-sculpting-texturing/houdini-vex-coding
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: Wormhole Content Browser

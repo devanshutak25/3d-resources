@@ -160,3 +160,59 @@ entries:
       - Early Access
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: FMOD
+    url: https://www.fmod.com/
+    description: Industry-standard adaptive audio. Free for indie <$200k.
+    license: Freemium
+    entry_type: software
+    best_for: Adaptive game audio
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+    readme_tags:
+      - Industry Standard
+      - Indie-Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - game-development/game-dev-audio-middleware
+  - name: Wwise
+    url: https://www.audiokinetic.com/en/wwise/overview/
+    description: AAA audio middleware with free tier.
+    license: Freemium
+    entry_type: software
+    best_for: AAA game audio
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+    readme_tags:
+      - AAA
+      - Free Tier
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - game-development/game-dev-audio-middleware
+  - name: Steam Audio
+    url: https://valvesoftware.github.io/steam-audio/
+    description: Physics-based spatial audio by Valve. Free.
+    license: Free
+    entry_type: software
+    best_for: Spatial game audio
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      tech:
+        - physics
+    readme_tags:
+      - Spatial Audio
+      - Valve Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - game-development/game-dev-audio-middleware

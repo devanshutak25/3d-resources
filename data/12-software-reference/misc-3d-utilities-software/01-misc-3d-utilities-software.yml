@@ -1,0 +1,332 @@
+entries:
+  - name: JanusVR
+    url: https://janusvr.com/
+    description: Webpages as collaborative 3D webspaces interconnected by portals.
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      output:
+        - xr
+    notes: RELOCATE — VR webspace platform, not rendering/shader theory.
+    dual_listed_in:
+      - lighting-rendering-shaders/rendering-shader-theory
+  - name: Polygonjs
+    url: https://polygonjs.com
+    description: Node-based WebGL design tool, used for procedural geometry, particles, materials
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+        - material-authoring
+    notes: RELOCATE — node-based WebGL DCC, belongs in §12 software.
+    dual_listed_in:
+      - lighting-rendering-shaders/rendering-shader-theory
+  - name: Lightmap HDR Light Studio
+    url: https://www.lightmap.co.uk/
+    description: Lighting software.
+    license: Paid
+    entry_type: software
+    best_for: Interactive HDR lighting
+    tags:
+      workflow:
+        - lighting
+    readme_tags:
+      - HDR Lighting
+      - Interactive
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Massive Software
+    url: https://www.massivesoftware.com/massiveprime.html
+    description: Crowd simulation.
+    license: Paid
+    entry_type: software
+    best_for: Crowd simulation
+    tags:
+      workflow:
+        - simulation
+    readme_tags:
+      - Crowds
+      - Pro
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Storm HydroFX
+    url: https://storm-vfx.com/
+    description: Fluid simulation.
+    license: Paid
+    entry_type: software
+    best_for: Fluid simulation
+    tags:
+      workflow:
+        - simulation
+        - fx
+    readme_tags:
+      - Fluids
+      - FX
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: PureRef
+    url: https://pureref.com/
+    description: Industry-standard reference board tool.
+    pricing: Pay what you want
+    license: Freemium
+    entry_type: software
+    best_for: Reference board
+    tags:
+      workflow:
+        - reference
+    readme_tags:
+      - Industry Standard
+      - PWYW
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Blockbench
+    url: https://www.blockbench.net/
+    description: Free low-poly/voxel 3D modeler.
+    license: Free
+    entry_type: software
+    best_for: Low-poly / voxel modeling
+    tags:
+      output:
+        - games
+    readme_tags:
+      - Low-poly
+      - Voxel
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: MeshLab
+    url: https://www.meshlab.net/
+    description: Open-source mesh processing, essential for photogrammetry cleanup.
+    license: Open Source
+    entry_type: software
+    best_for: Mesh processing
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Mesh Processing
+      - Photogrammetry
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Photopea
+    url: https://www.photopea.com/
+    description: Free browser-based Photoshop alternative with full PSD support.
+    license: Free
+    entry_type: software
+    best_for: Quick PSD editing
+    tags:
+      platform:
+        - web
+    readme_tags:
+      - PSD
+      - Browser
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Gaea
+    url: https://quadspinner.com/
+    description: Terrain generation tool (free community edition).
+    license: Freemium
+    entry_type: software
+    best_for: Terrain generation
+    tags:
+      tech:
+        - procedural
+    readme_tags:
+      - Terrain Gen
+      - Free Community
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Plasticity (site)
+    url: https://www.plasticity.xyz/
+    description: CAD-style modeling with artist-friendly UX.
+    license: Paid
+    entry_type: software
+    best_for: CAD-style modeling for artists
+    tags:
+      workflow:
+        - modeling
+    readme_tags:
+      - CAD-style
+      - Artist UX
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Dust3D
+    url: https://dust3d.org/
+    description: Open-source quick base mesh generation.
+    license: Open Source
+    entry_type: software
+    best_for: Base mesh generation
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Base Meshes
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: darktable
+    url: https://www.darktable.org/
+    description: Open-source RAW photo editor for reference/texture processing.
+    license: Open Source
+    entry_type: software
+    best_for: RAW processing
+    readme_tags:
+      - RAW Editor
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: OBS Studio
+    url: https://obsproject.com/
+    description: Free screen recording/streaming. Essential for tutorials.
+    license: Open Source
+    entry_type: software
+    best_for: Screen recording, streaming
+    readme_tags:
+      - Recording
+      - Streaming
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - opensource-alt
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: ShareX
+    url: https://getsharex.com/
+    description: Free Windows screen capture with recording and annotation.
+    license: Open Source
+    entry_type: software
+    best_for: Screen capture, annotation
+    tags:
+      platform:
+        - win
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Screen Capture
+      - Windows
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Hesiod
+    url: https://github.com/otto-link/Hesiod
+    description: Free open-source node-based procedural terrain/heightmap generator.
+    license: Open Source
+    entry_type: software
+    best_for: Procedural terrain
+    tags:
+      tech:
+        - procedural
+        - node-based
+        - opensource-alt
+    readme_tags:
+      - Terrain Gen
+      - Node-based
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: IFS Renderer
+    url: https://ifsrenderer.z97.io/
+    description: Free GPU-accelerated fractal renderer with HDR/EXR export.
+    license: Free
+    entry_type: software
+    best_for: Fractal rendering
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - gpu
+    readme_tags:
+      - Fractals
+      - HDR/EXR
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Gl Ch Ao S.P
+    url: https://github.com/BrutPitt/glChAoS.P
+    description: RealTime 3D Strange Attractors scout on GPU.
+    license: Open Source
+    entry_type: software
+    tags:
+      tech:
+        - gpu
+        - real-time
+        - opensource-alt
+    readme_tags:
+      - Strange Attractors
+      - GPU
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: Pixie
+    url: https://github.com/blkdev2/pixie?tab=readme-ov-file
+    description: Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - opensource-alt
+    readme_tags:
+      - RenderMan-like
+      - Renderer
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    stale: true
+    last_pushed: '2014-05-04'
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+  - name: tlRender
+    url: https://github.com/darbyjohnston/tlRender
+    description: Timeline render, is an early stage project for rendering editorial timelines.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - editing
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Timeline
+      - Editorial
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities

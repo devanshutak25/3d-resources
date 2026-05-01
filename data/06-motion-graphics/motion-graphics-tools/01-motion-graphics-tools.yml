@@ -1,37 +1,4 @@
 entries:
-  - name: Resolume
-    url: https://resolume.com/software
-    description: Live visuals and VJ software.
-    license: Paid
-    entry_type: software
-    best_for: VJ, live visuals
-    tags:
-      output:
-        - motion-graphics
-        - broadcast
-      tech:
-        - real-time
-    readme_tags:
-      - VJ
-      - Live Visuals
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: MadMapper
-    url: https://madmapper.com/
-    description: Projection mapping software.
-    license: Paid
-    entry_type: software
-    best_for: Projection mapping
-    tags:
-      output:
-        - motion-graphics
-      tech:
-        - real-time
-    readme_tags:
-      - Projection Mapping
-      - Live
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: PixelCrash
     url: https://www.pixelcrash.xyz/
     description: Creative motion and visual tools.
@@ -45,40 +12,6 @@ entries:
     tags:
       output:
         - motion-graphics
-  - name: Effekseer
-    url: https://effekseer.github.io/en/
-    description: Real-time VFX editor and runtime.
-    license: Open Source
-    entry_type: software
-    best_for: Game VFX particles
-    tags:
-      output:
-        - games
-        - motion-graphics
-      tech:
-        - real-time
-        - opensource-alt
-    readme_tags:
-      - Real-time VFX
-      - Games
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Magic Animator
-    url: https://magicanimator.com/
-    description: Web-based animation creator.
-    license: Freemium
-    entry_type: software
-    best_for: Quick animated graphics
-    tags:
-      platform:
-        - web
-      output:
-        - motion-graphics
-    readme_tags:
-      - Web
-      - Quick Anim
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Nw Wrld
     url: https://github.com/aagentah/nw_wrld
     description: Experimental motion tool.

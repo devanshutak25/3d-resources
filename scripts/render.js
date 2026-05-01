@@ -6,12 +6,28 @@ const fs = require('fs');
 const path = require('path');
 const catalog = require('./lib/catalog');
 
-function loadSubEntries(sectionFile, subSlug) {
+function loadSubEntries(sectionFile, subSlug, sectionSlug) {
   const entries = [];
+  const seenUrls = new Set();
+  const targetPath = `${sectionSlug}/${subSlug}`;
   for (const ref of catalog.listChunks()) {
-    if (ref.sectionFile !== sectionFile || ref.subSlug !== subSlug) continue;
+    const isPrimary = ref.sectionFile === sectionFile && ref.subSlug === subSlug;
     const chunk = catalog.loadChunk(ref.id);
-    entries.push(...chunk.entries);
+    for (const e of chunk.entries) {
+      if (isPrimary) {
+        const k = (e.url || '').toLowerCase();
+        if (k && seenUrls.has(k)) continue;
+        if (k) seenUrls.add(k);
+        entries.push(e);
+      } else {
+        const dual = e.dual_listed_in || [];
+        if (!dual.includes(targetPath)) continue;
+        const k = (e.url || '').toLowerCase();
+        if (k && seenUrls.has(k)) continue;
+        if (k) seenUrls.add(k);
+        entries.push(e);
+      }
+    }
   }
   return entries;
 }
@@ -94,7 +110,7 @@ function renderSection(section, sectionFile) {
     }
 
     // Skip deprecated entries from README (link checker auto-flags these).
-    const rawEntries = loadSubEntries(sectionFile, sub.slug);
+    const rawEntries = loadSubEntries(sectionFile, sub.slug, section.slug);
     const active = alphaSort(rawEntries.filter(e => !e.deprecated));
     const software = active.filter(e => e.entry_type === 'software');
     const references = active.filter(e => e.entry_type !== 'software');

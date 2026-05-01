@@ -1,23 +1,4 @@
 entries:
-  - name: Autodesk Flow Studio (Wonder Dynamics)
-    url: https://www.autodesk.com/products/flow-studio/overview
-    description: AI VFX, auto CG characters in live footage, USD export.
-    license: Paid
-    entry_type: software
-    best_for: AI CG characters in live plates
-    tags:
-      workflow:
-        - compositing
-      output:
-        - film-vfx
-      tech:
-        - ai-generative
-        - usd
-    readme_tags:
-      - Auto CG Chars
-      - USD Export
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: ControlNet
     url: https://stable-diffusion-art.com/controlnet/
     description: Depth/pose/edge control for precision CG workflows.
@@ -30,34 +11,6 @@ entries:
     readme_tags:
       - Depth/Pose Control
       - Precision
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Topaz Photo AI / Video AI
-    url: https://www.topazlabs.com/
-    description: Best-in-class upscaling, denoising, sharpening.
-    license: Paid
-    entry_type: software
-    best_for: Upscale/denoise
-    tags:
-      tech:
-        - ai-generative
-    readme_tags:
-      - Upscale
-      - Denoise
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Magnific AI
-    url: https://magnific.ai/
-    description: AI upscaler with "creativity" slider — reimagines/adds detail (2-16x).
-    license: Paid
-    entry_type: software
-    best_for: Creative AI upscaling
-    tags:
-      tech:
-        - ai-generative
-    readme_tags:
-      - Creative Upscale
-      - 2-16x
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: Dream Textures (Blender)
@@ -90,35 +43,6 @@ entries:
       - Addon
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: Blockade Labs Skybox AI
-    url: https://www.blockadelabs.com/
-    description: AI-generated 360° skyboxes/HDRIs from text.
-    license: Freemium
-    entry_type: software
-    best_for: AI skyboxes/HDRIs
-    tags:
-      workflow:
-        - lighting
-      tech:
-        - ai-generative
-    readme_tags:
-      - AI Skybox
-      - 360°
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Unity Muse
-    url: https://unity.com/products/muse
-    description: Unity's suite of AI products
-    license: Paid
-    entry_type: software
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - ai-generative
-        - unity-plugin
-    readme_tags:
-      - Unity AI Suite
   - name: Coplay
     url: https://coplay.dev
     description: AI Copilot for Unity
@@ -132,19 +56,6 @@ entries:
         - unity-plugin
     readme_tags:
       - Unity Copilot
-  - name: Rosebud AI
-    url: https://rosebud.ai
-    description: Vibe coding platform for creating 3D games and interactive web apps with AI.
-    license: Freemium
-    entry_type: software
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - ai-generative
-    readme_tags:
-      - AI Game Builder
-      - Vibe Coding
   - name: RIFE for Nuke
     url: https://github.com/rafaelperez/RIFE-for-Nuke
     description: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (ie machine learning for framerate upscaling) for Nuke.
@@ -189,17 +100,6 @@ entries:
     readme_tags:
       - Prompt Guide
       - GPT-4
-  - name: Gigapixel AI
-    url: https://topazlabs.com/gigapixel-ai/
-    description: '[$] : is the only photo enlargement product available that can actually add detail back to your upscaled photo.'
-    entry_type: software
-    license: Paid
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - blender
-        - blender-addon
   - name: SolidUI
     url: https://github.com/CloudOrc/SolidUI
     description: AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.

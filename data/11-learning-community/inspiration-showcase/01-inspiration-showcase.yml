@@ -12,21 +12,6 @@ entries:
     tags:
       platform:
         - web
-  - name: NeilBlevins
-    url: http://www.neilblevins.com/
-    description: CG art and tutorials.
-    entry_type: channel
-    license: Paid
-    readme_tags:
-      - Pixar Artist
-      - Tutorials
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-    dual_listed_in:
-      - art-design-visual-storytelling
   - name: Strange Attractors
     url: http://www.3d-meier.de/
     description: Mathematical 3D forms.

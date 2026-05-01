@@ -54,3 +54,59 @@ subsections:
     title: Game Engines — Commercial Free Tiers
     description: Commercial engines with generous free tiers.
     chunks: 1
+  - slug: material-creation-software
+    title: Material & Texture Creation Software
+    description: Material authoring, texture baking, and PBR painting tools.
+    chunks: 1
+  - slug: photogrammetry-software
+    title: Photogrammetry & Scanning Software
+    description: Photogrammetry, structure-from-motion, and 3D scanning apps.
+    chunks: 1
+  - slug: matchmoving-software
+    title: Matchmoving & Camera Tracking Software
+    description: 3D camera tracking, matchmove, and lens-distortion tools.
+    chunks: 1
+  - slug: retopo-uv-software
+    title: Retopology & UV Software
+    description: Standalone retopology, remeshing, and UV unwrapping/packing tools.
+    chunks: 1
+  - slug: virtual-production-software
+    title: Virtual Production Software
+    description: Virtual production, broadcast graphics, and real-time stage tooling.
+    chunks: 1
+  - slug: level-design-software
+    title: Level Design & Map Editing Software
+    description: Standalone level editors and tile/grid map authoring tools.
+    chunks: 1
+  - slug: pipeline-software
+    title: Pipeline & Production Management Software
+    description: Production tracking, render farm management, asset pipeline orchestration.
+    chunks: 1
+  - slug: misc-3d-utilities-software
+    title: Misc 3D Utilities Software
+    description: Reference, scattering, simulation, and specialty 3D utilities.
+    chunks: 1
+  - slug: ai-image-software
+    title: AI Image & Texture Generation Software
+    description: AI image generation and AI texture/material generation tools.
+    chunks: 1
+  - slug: ai-video-software
+    title: AI Video Generation Software
+    description: AI text-to-video and image-to-video generation tools.
+    chunks: 1
+  - slug: ai-3d-software
+    title: AI 3D Generation Software
+    description: AI text-to-3D, image-to-3D, and 3D-asset generation tools.
+    chunks: 1
+  - slug: ai-audio-software
+    title: AI Audio & Music Generation Software
+    description: AI music, voice, and SFX generation tools.
+    chunks: 1
+  - slug: ai-motion-capture-software
+    title: AI Motion Capture Software
+    description: Markerless and AI-driven motion capture and pose estimation tools.
+    chunks: 1
+  - slug: ai-assist-software
+    title: AI-Assisted CG Software
+    description: AI upscaling, cleanup, generative assist, and AI-powered DCC features.
+    chunks: 1

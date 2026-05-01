@@ -164,39 +164,6 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
-  - name: Rebelle 8 Pro
-    url: https://www.escapemotions.com/products/rebelle
-    description: Natural-media painting app simulating real watercolor, oil, acrylic, ink with fluid dynamics.
-    license: Paid
-    entry_type: software
-    best_for: Realistic traditional-media digital painting
-    tags:
-      workflow:
-        - concept
-      tech:
-        - stylus-support
-      platform:
-        - win
-        - mac
-    readme_tags:
-      - Natural Media
-      - Watercolor Sim
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Pixen (site)
-    url: https://pixenapp.com/
-    description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
-    license: Paid
-    entry_type: software
-    notes: 'entry_type corrected from tutorial to software. Misfit: pixel-art editor app, not painting fundamentals for 3D artists. Consider 2D-art tools section.'
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      platform:
-        - mac
-        - ios
-      tech:
-        - stylus-support
   - name: Learn HTML5 Graphics and Animation
     url: https://egghead.io/courses/learn-html5-graphics-and-animation
     description: Introduction to the canvas 2D drawing API.

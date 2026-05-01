@@ -54,3 +54,23 @@ entries:
       workflow:
         - texturing
         - material-authoring
+  - name: Houdini Apprentice
+    url: https://www.sidefx.com/products/houdini-apprentice/
+    description: Free learning version of Houdini.
+    license: Free NC
+    entry_type: software
+    best_for: Learning Houdini for free
+    tags:
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+    readme_tags:
+      - Free NC
+      - Learning Version
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - modeling-sculpting-texturing/houdini-getting-started

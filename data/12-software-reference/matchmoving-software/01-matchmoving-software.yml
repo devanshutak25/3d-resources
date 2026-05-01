@@ -1,0 +1,74 @@
+entries:
+  - name: PFTrack
+    url: https://www.thepixelfarm.co.uk/pftrack/
+    description: Professional matchmoving, object tracking, mesh generation.
+    license: Paid
+    entry_type: software
+    best_for: Pro matchmove
+    tags:
+      output:
+        - film-vfx
+      workflow:
+        - fx
+    readme_tags:
+      - Matchmove
+      - Pro
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking
+  - name: SynthEyes
+    url: https://www.ssontech.com/synovr.html
+    description: Camera tracking with lens distortion solving.
+    license: Paid
+    entry_type: software
+    best_for: Camera tracking + distortion
+    tags:
+      output:
+        - film-vfx
+      workflow:
+        - fx
+    readme_tags:
+      - Lens Distortion
+      - Pro
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking
+  - name: 3DEqualizer
+    url: https://www.3dequalizer.com/
+    description: High-end matchmoving (major VFX studios).
+    license: Paid
+    entry_type: software
+    best_for: High-end matchmove
+    tags:
+      output:
+        - film-vfx
+      workflow:
+        - fx
+    readme_tags:
+      - High-End
+      - Studio Standard
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking
+  - name: fSpy
+    url: https://fspy.io/
+    description: Free, open-source single-image camera matching → Blender.
+    license: Open Source
+    entry_type: software
+    best_for: Free single-image cam match
+    tags:
+      tech:
+        - blender-addon
+        - opensource-alt
+      workflow:
+        - fx
+    readme_tags:
+      - Free
+      - Blender Bridge
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking

@@ -707,23 +707,6 @@ entries:
         - unity-plugin
     readme_tags:
       - unity-plugin
-  - name: Visual Studio (Windows)
-    url: https://visualstudio.microsoft.com/es/
-    description: Official supported IDE for Unity in Windows platform. Mac version [here](https://visualstudio.microsoft.com/es/vs/mac/).
-    entry_type: software
-    license: Freemium
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      platform:
-        - win
-        - mac
-      tech:
-        - unity-plugin
-    readme_tags:
-      - unity-plugin
   - name: OpenEd
     url: https://github.com/mrzapp/opened
     description: Open source runtime editor for Unity.

@@ -74,11 +74,18 @@ function validateVocab() {
 }
 
 function validateDuplicates() {
-  // Entries with same URL across sections should be explicitly dual-listed.
-  const urlMap = new Map(); // normalized url → [{section, subsection, name, dual_listed_in}]
+  // Cross-section duplicates of the same URL are storage errors after the
+  // canonical+mirror migration. The canonical entry should live in one chunk
+  // and surface elsewhere via dual_listed_in: ["<section>/<sub>", ...].
+  const urlMap = new Map();
   const fileToSlug = new Map();
+  const slugToFile = new Map();
+  const validSubs = new Set(); // "<section-slug>/<sub-slug>"
   for (const meta of catalog.loadSections().sections) {
-    fileToSlug.set(meta.file, catalog.loadSection(meta.file).slug);
+    const sec = catalog.loadSection(meta.file);
+    fileToSlug.set(meta.file, sec.slug);
+    slugToFile.set(sec.slug, meta.file);
+    for (const sub of sec.subsections || []) validSubs.add(`${sec.slug}/${sub.slug}`);
   }
   for (const { sectionFile, subSlug, entry } of catalog.iterEntries()) {
     const url = normalizeUrl(entry.url);
@@ -90,20 +97,22 @@ function validateDuplicates() {
       dual_listed_in: entry.dual_listed_in || [],
       file: sectionFile
     });
+    // Validate dual_listed_in paths exist
+    for (const p of entry.dual_listed_in || []) {
+      if (!validSubs.has(p)) {
+        errors.push(`${sectionFile} :: ${subSlug} :: ${entry.name}: dual_listed_in "${p}" is not a valid <section-slug>/<sub-slug>`);
+      }
+      const [secSlug, subOnly] = String(p).split('/');
+      if (secSlug === fileToSlug.get(sectionFile) && subOnly === subSlug) {
+        warnings.push(`${sectionFile} :: ${subSlug} :: ${entry.name}: dual_listed_in references its own primary slot`);
+      }
+    }
   }
   for (const [url, places] of urlMap) {
     if (places.length < 2) continue;
     const sectionSlugs = new Set(places.map(p => p.section));
-    if (sectionSlugs.size < 2) continue; // same-section duplicates are intentional (e.g., pipeline overview)
-    // Check each occurrence is properly dual-listed
-    for (const p of places) {
-      const otherSections = new Set(places.filter(x => x.section !== p.section).map(x => x.section));
-      const declared = new Set(p.dual_listed_in);
-      const missing = [...otherSections].filter(s => !declared.has(s));
-      if (missing.length) {
-        warnings.push(`${p.file} :: ${p.subsection} :: ${p.name} (${url}): also in [${missing.join(', ')}] but dual_listed_in missing those`);
-      }
-    }
+    if (sectionSlugs.size < 2) continue; // same-section dupes are intentional
+    warnings.push(`${url}: stored in ${places.length} chunks across sections [${[...sectionSlugs].join(', ')}] — consolidate to one canonical + dual_listed_in mirrors`);
   }
 }
 

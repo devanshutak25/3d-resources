@@ -23,9 +23,22 @@ function slugify(text) {
 // --- Load section structure for SEO enumeration ---
 function loadSections() {
   const counts = new Map(); // `${sectionFile}::${subSlug}` → count
-  for (const { sectionFile, subSlug } of catalog.iterEntries()) {
-    const k = `${sectionFile}::${subSlug}`;
-    counts.set(k, (counts.get(k) || 0) + 1);
+  const slugToFile = new Map();
+  for (const meta of catalog.loadSections().sections) slugToFile.set(meta.slug, meta.file);
+  for (const { sectionFile, subSlug, entry } of catalog.iterEntries()) {
+    const seen = new Set();
+    const primary = `${sectionFile}::${subSlug}`;
+    counts.set(primary, (counts.get(primary) || 0) + 1);
+    seen.add(primary);
+    for (const p of entry.dual_listed_in || []) {
+      const [secSlug, subOnly] = String(p).split('/');
+      const file = slugToFile.get(secSlug);
+      if (!file || !subOnly) continue;
+      const k = `${file}::${subOnly}`;
+      if (seen.has(k)) continue;
+      seen.add(k);
+      counts.set(k, (counts.get(k) || 0) + 1);
+    }
   }
   const out = [];
   for (const meta of catalog.loadSections().sections) {

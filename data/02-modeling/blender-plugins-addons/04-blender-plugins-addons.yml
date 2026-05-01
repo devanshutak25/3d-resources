@@ -65,18 +65,6 @@ entries:
       tech:
         - blender
         - opensource-alt
-  - name: MicMac
-    url: https://github.com/micmacIGN/micmac
-    description: Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
-    entry_type: software
-    license: Open Source
-    notes: RELOCATE - Photogrammetry suite, unrelated to Blender. Move to photogrammetry section.
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - photogrammetry
-        - opensource-alt
   - name: Blender Scripting
     url: https://github.com/njanakiev/blender-scripting
     description: Introduction to blender scripting. This is a collection of simple to more involved examples to scripting in Blender with Python.

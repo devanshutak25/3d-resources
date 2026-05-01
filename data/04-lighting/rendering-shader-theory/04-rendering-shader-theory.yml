@@ -54,18 +54,6 @@ entries:
     tags:
       workflow:
         - rendering
-  - name: JanusVR
-    url: https://janusvr.com/
-    description: Webpages as collaborative 3D webspaces interconnected by portals.
-    entry_type: software
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-      output:
-        - xr
-    notes: RELOCATE — VR webspace platform, not rendering/shader theory.
   - name: WebGl Playground
     url: http://jessevdk.github.io/webgl-play/
     description: The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted prope
@@ -243,17 +231,6 @@ entries:
     tags:
       workflow:
         - rendering
-  - name: Polygonjs
-    url: https://polygonjs.com
-    description: Node-based WebGL design tool, used for procedural geometry, particles, materials
-    entry_type: software
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-        - material-authoring
-    notes: RELOCATE — node-based WebGL DCC, belongs in §12 software.
   - name: Ray Tracing in One Weekend series
     url: https://raytracing.github.io/
     description: Those three short books explain basic concepts of path tracing and implement a software renderer from scratch.

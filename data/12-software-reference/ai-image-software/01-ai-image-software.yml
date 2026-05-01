@@ -1,0 +1,529 @@
+entries:
+  - name: ComfyUI
+    url: https://comfy.org/
+    description: Node-based AI generator for image/video/3D/audio.
+    license: Open Source
+    entry_type: software
+    best_for: Node-based AI workflows
+    tags:
+      tech:
+        - node-based
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Node-based
+      - Multi-modal
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/comfyui-ecosystem
+  - name: Midjourney v7
+    url: https://www.midjourney.com/
+    description: Industry-leading artistic coherence and stylized output.
+    license: Paid
+    entry_type: software
+    best_for: Artistic and stylized imagery
+    tags:
+      tech:
+        - ai-generative
+        - subscription
+      workflow:
+        - concept
+    readme_tags:
+      - Artistic
+      - Subscription
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: FLUX 1.1 Pro (Black Forest Labs)
+    url: https://blackforestlabs.ai/
+    description: Production-grade open model plus Fill/Canny/Depth tools.
+    license: Freemium
+    entry_type: software
+    best_for: Production-grade image gen
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - Production-Grade
+      - Open Model
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Stable Diffusion 3.5
+    url: https://huggingface.co/stabilityai
+    description: Open-source diffusion (Large, Medium, Turbo sizes).
+    license: Open Source
+    entry_type: software
+    best_for: Self-hosted image gen
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - concept
+    readme_tags:
+      - Open Source
+      - Self-Host
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: DALL-E 3 (OpenAI)
+    url: https://openai.com/dall-e-3
+    description: Text-to-image with strong semantic accuracy.
+    license: Paid
+    entry_type: software
+    best_for: Semantic accuracy
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - OpenAI
+      - Semantic
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Adobe Firefly 3
+    url: https://firefly.adobe.com/
+    description: Commercial-safe, deep Creative Cloud integration.
+    license: Paid
+    entry_type: software
+    best_for: Commercial-safe Adobe workflows
+    tags:
+      tech:
+        - ai-generative
+        - subscription
+      workflow:
+        - concept
+    readme_tags:
+      - Commercial-Safe
+      - Adobe CC
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Leonardo AI
+    url: https://leonardo.ai/
+    description: Real-time generation with artistic control.
+    license: Freemium
+    entry_type: software
+    best_for: Controlled artistic generation
+    tags:
+      tech:
+        - ai-generative
+        - real-time
+      workflow:
+        - concept
+    readme_tags:
+      - Real-time
+      - Controlled
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Ideogram 2.0
+    url: https://ideogram.ai/
+    description: Best-in-class typography and text rendering, canvas mode.
+    license: Freemium
+    entry_type: software
+    best_for: Typography in images
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - Typography
+      - Text Rendering
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Google Gemini Image Gen
+    url: https://gemini.google.com/
+    description: High realism, fast, large-scale production.
+    license: Freemium
+    entry_type: software
+    best_for: Fast large-scale gen
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - Google
+      - Realism
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Grok Aurora (xAI)
+    url: https://x.ai/
+    description: Photorealistic image gen integrated into Grok.
+    license: Paid
+    entry_type: software
+    best_for: Photorealism in Grok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - xAI
+      - Photoreal
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Recraft V3
+    url: https://www.recraft.ai/
+    description: Design-oriented gen — vector, icons, brand assets.
+    license: Freemium
+    entry_type: software
+    best_for: Design assets, vectors
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - Design Focus
+      - Vector
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Krea AI
+    url: https://www.krea.ai/
+    description: Real-time generation, upscaling, and style transfer platform.
+    license: Freemium
+    entry_type: software
+    best_for: Real-time + upscaling
+    tags:
+      tech:
+        - ai-generative
+        - real-time
+      workflow:
+        - concept
+    readme_tags:
+      - Real-time
+      - Upscaling
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Playground v3
+    url: https://playground.com/
+    description: Mixed-mode design canvas for graphic design.
+    license: Freemium
+    entry_type: software
+    best_for: Graphic design canvas
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - Design Canvas
+      - Mixed-mode
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Kolors (Kuaishou)
+    url: https://github.com/Kwai-Kolors/Kolors
+    description: Open-source, bilingual Chinese/English.
+    license: Open Source
+    entry_type: software
+    best_for: Bilingual open model
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - concept
+    readme_tags:
+      - Open Source
+      - Bilingual
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: HunyuanDiT (Tencent)
+    url: https://github.com/Tencent/HunyuanDiT
+    description: Open-source DiT-based, strong Chinese text.
+    license: Open Source
+    entry_type: software
+    best_for: Chinese text rendering
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - concept
+    readme_tags:
+      - Tencent
+      - DiT
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Jimeng / Dreamina (ByteDance)
+    url: https://jimeng.jianying.com/
+    description: High quality, integrated with video pipeline.
+    license: Freemium
+    entry_type: software
+    best_for: Integrated image + video pipeline
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - ByteDance
+      - Video Pipeline
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: AudioCraft
+    url: https://audiocraft.metademolab.com/
+    description: 'A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource'
+    license: Open Source
+    entry_type: software
+    notes: RELOCATE — audio gen, belongs under §09 AI Audio & Music.
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: UneeQ Digital Humans
+    url: https://www.digitalhumans.com/
+    description: 3D character lib synced
+    license: Paid
+    entry_type: software
+    notes: RELOCATE — digital humans platform; not image gen. Move to §03 or §09 AI-Assisted CG Tools.
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Ashawkey/stable Dreamfusion
+    url: https://github.com/ashawkey/stable-dreamfusion
+    description: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+    license: Open Source
+    entry_type: software
+    notes: RELOCATE — text-to-3D, belongs under §09 3D Generation.
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - concept
+    stale: true
+    last_pushed: '2023-12-10'
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Aga Miko/pixel Character Generator
+    url: https://github.com/AgaMiko/pixel_character_generator
+    description: Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+    license: Open Source
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - concept
+    stale: true
+    last_pushed: '2020-05-24'
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: MusicGen
+    url: https://huggingface.co/spaces/facebook/MusicGen
+    description: Meta's tool for generating music
+    license: Open Source
+    entry_type: software
+    notes: RELOCATE — music gen, belongs under §09 AI Audio & Music.
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Snowpixel
+    url: https://snowpixel.app
+    description: Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
+    license: Freemium
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Stable Animation SDK
+    url: https://stability.ai/blog/stable-animation-sdk
+    description: Text-to-animation tool for developers by Stability AI [[dev platform]](https://platform.stability.ai/docs/features/animation)
+    license: Paid
+    entry_type: software
+    notes: RELOCATE — text-to-animation, belongs under §09 Video Generation.
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Poly
+    url: https://withpoly.com/
+    description: AI-generated PBR textures and materials, tileable with full map sets.
+    license: Freemium
+    entry_type: software
+    best_for: AI PBR textures
+    notes: entry_type=software but lives under AI/ML section; AI texture platform, not a DCC.
+    tags:
+      tech:
+        - ai-generative
+        - pbr
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - AI PBR
+      - Tileable
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+  - name: Scenario
+    url: https://www.scenario.com/
+    description: Game-ready PBR materials, full map sets.
+    license: Paid
+    entry_type: software
+    best_for: Game-ready AI materials
+    notes: entry_type=software but is an AI material generation platform under §9.
+    tags:
+      output:
+        - games
+      tech:
+        - ai-generative
+        - pbr
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Game-Ready
+      - Full Maps
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+  - name: Meshy Textures
+    url: https://www.meshy.ai/features/ai-texture-generator
+    description: Integrated with 3D pipeline.
+    license: Freemium
+    entry_type: software
+    best_for: Textures tied to Meshy 3D
+    notes: entry_type=software but is AI texture feature of Meshy; consider tool reclassification later.
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Meshy Pipeline
+      - Integrated
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+  - name: Adobe Firefly Textures
+    url: https://www.adobe.com/products/firefly
+    description: Prompt-to-edit texture workflows.
+    license: Paid
+    entry_type: software
+    best_for: Adobe-integrated AI textures
+    notes: entry_type=software; Firefly is an AI service, not standalone DCC.
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Adobe
+      - Prompt-to-Edit
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+  - name: Ponzu
+    url: https://www.ponzu.gg/
+    description: AI texture gen from text prompts for uploaded meshes.
+    license: Freemium
+    entry_type: software
+    best_for: Mesh-aware AI textures
+    notes: entry_type=software but is AI text-to-texture tool; possible tool reclass.
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - texturing
+        - material-authoring
+    readme_tags:
+      - Mesh-aware
+      - Text→Tex
+    url_last_verified: '2026-05-01'
+    url_status: unreachable
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+  - name: InstaMAT
+    url: https://instamaterial.com/
+    description: Material authoring with AI workflows (Substance alternative).
+    license: Paid
+    entry_type: software
+    best_for: AI-assisted material authoring
+    notes: entry_type=software fits (Substance-alt DCC) but dual-listed candidate with §5 material authoring.
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      tech:
+        - ai-generative
+    readme_tags:
+      - Substance-alt
+      - AI Workflows
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation

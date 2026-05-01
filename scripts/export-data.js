@@ -18,15 +18,14 @@ function main() {
     fileToSlug.set(meta.file, catalog.loadSection(meta.file).slug);
   }
 
-  const entries = [];
-  for (const { sectionFile, subSlug, entry: e } of catalog.iterEntries()) {
-    entries.push({
+  function row(e, section, subsection) {
+    return {
       url: e.url,
       name: e.name,
       license: e.license || null,
       entry_type: e.entry_type || null,
-      section: fileToSlug.get(sectionFile),
-      subsection: subSlug,
+      section,
+      subsection,
       tags: {
         workflow: (e.tags && e.tags.workflow) || [],
         output: (e.tags && e.tags.output) || [],
@@ -34,7 +33,18 @@ function main() {
         skill: (e.tags && e.tags.skill) || [],
         tech: (e.tags && e.tags.tech) || []
       }
-    });
+    };
+  }
+
+  const entries = [];
+  for (const { sectionFile, subSlug, entry: e } of catalog.iterEntries()) {
+    const primarySection = fileToSlug.get(sectionFile);
+    entries.push(row(e, primarySection, subSlug));
+    for (const path of e.dual_listed_in || []) {
+      const [secSlug, subOnly] = String(path).split('/');
+      if (!secSlug || !subOnly) continue;
+      entries.push(row(e, secSlug, subOnly));
+    }
   }
 
   fs.mkdirSync(path.dirname(outPath), { recursive: true });

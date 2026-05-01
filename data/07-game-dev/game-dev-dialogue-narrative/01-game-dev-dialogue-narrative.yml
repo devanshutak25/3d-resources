@@ -44,20 +44,6 @@ entries:
         - games
       tech:
         - opensource-alt
-  - name: Articy:draft
-    url: https://www.articy.com/
-    description: Professional narrative design middleware.
-    license: Paid
-    entry_type: software
-    best_for: Professional narrative middleware
-    tags:
-      output:
-        - games
-    readme_tags:
-      - Middleware
-      - Pro
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Prototype
     url: https://github.com/inkle/prototype
     description: Prototype component pattern for Unity.

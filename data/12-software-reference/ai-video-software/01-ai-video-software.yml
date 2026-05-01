@@ -1,0 +1,247 @@
+entries:
+  - name: Veo 3.1 (Google DeepMind)
+    url: https://deepmind.google/technologies/veo/
+    description: Top leaderboard, native audio, 60s+ clips.
+    license: Paid
+    entry_type: software
+    best_for: Top-quality video gen
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Top Leaderboard
+      - Native Audio
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Runway Gen-4
+    url: https://runwayml.com/
+    description: Character consistency across shots, controllable camera.
+    license: Freemium
+    entry_type: software
+    best_for: Character consistency
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Character Consistency
+      - Camera Control
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Sora (OpenAI)
+    url: https://sora.com/
+    description: Up to ~20s clips with strong temporal coherence.
+    license: Paid
+    entry_type: software
+    best_for: Coherent video clips
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - OpenAI
+      - 20s Clips
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Kling 3.0
+    url: https://klingai.com/
+    description: Up to 5min clips, strong human motion. Motion Brush control.
+    license: Freemium
+    entry_type: software
+    best_for: Long clips, human motion
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - 5min Clips
+      - Motion Brush
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Pika 2.0
+    url: https://pika.art/
+    description: Extended video gen with improved consistency.
+    license: Freemium
+    entry_type: software
+    best_for: Stylized video
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Extended Gen
+      - Stylized
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Hailuo AI / MiniMax
+    url: https://hailuoai.video/
+    description: '"Director" model — strong motion and character consistency.'
+    license: Freemium
+    entry_type: software
+    best_for: Directed motion
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Director Model
+      - Character Consist
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Luma Dream Machine
+    url: https://lumalabs.ai/dream-machine
+    description: Fast generations with good camera motion.
+    license: Freemium
+    entry_type: software
+    best_for: Fast video gen
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Fast
+      - Camera Motion
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: HunyuanVideo 1.5
+    url: https://github.com/Tencent-Hunyuan/HunyuanVideo
+    description: Open-source 8.3B params, runs on 14GB VRAM.
+    license: Open Source
+    entry_type: software
+    best_for: Self-hosted video gen
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - 14GB VRAM
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Wan 2.2 (Alibaba)
+    url: https://huggingface.co/ali-vilab/Wan
+    description: Cinematic MoE diffusion, 8GB+ VRAM. Open source.
+    license: Open Source
+    entry_type: software
+    best_for: Cinematic open-source video gen
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - MoE Diffusion
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: LTX Video
+    url: https://github.com/Lightricks/LTX-Video
+    description: Open-source, real-time generation speeds.
+    license: Open Source
+    entry_type: software
+    best_for: Real-time open-source video gen
+    tags:
+      tech:
+        - ai-generative
+        - real-time
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Real-time
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Vidu
+    url: https://www.vidu.com/
+    description: 16s clips, strong human motion (Shengshu).
+    license: Freemium
+    entry_type: software
+    best_for: Long human-motion clips
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - 16s
+      - Human Motion
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: PixVerse
+    url: https://pixverse.ai/
+    description: Style-specific modes (anime, 3D, realistic), character consistency.
+    license: Freemium
+    entry_type: software
+    best_for: Style-specific video gen
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Style Modes
+      - Consistency
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Haiper
+    url: https://haiper.ai/
+    description: Ex-DeepMind team, animation and video-to-video modes.
+    license: Freemium
+    entry_type: software
+    best_for: Video-to-video
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Ex-DeepMind
+      - V2V
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Genmo Mochi 1
+    url: https://www.genmo.ai/
+    description: Open-source video gen model.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source video gen
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Genmo
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Cog Video X
+    url: https://github.com/THUDM/CogVideo
+    description: Tsinghua/Zhipu open-source, multiple sizes.
+    license: Open Source
+    entry_type: software
+    best_for: Research open-source video gen
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Tsinghua
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation

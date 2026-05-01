@@ -1,0 +1,289 @@
+entries:
+  - name: MicMac
+    url: https://github.com/micmacIGN/micmac
+    description: Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
+    entry_type: software
+    license: Open Source
+    notes: RELOCATE - Photogrammetry suite, unrelated to Blender. Move to photogrammetry section.
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+  - name: Meshroom (AliceVision)
+    url: https://alicevision.org/#meshroom
+    description: Free, open-source photogrammetry. Node-based, GPU-accelerated.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source photogrammetry
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - photogrammetry
+        - node-based
+        - gpu
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Node-based
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: RealityCapture
+    url: https://www.capturingreality.com/
+    description: Fast, high-quality photogrammetry (now Epic Games). PPI pricing.
+    license: Freemium
+    entry_type: software
+    best_for: Production photogrammetry
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Epic Games
+      - High-Quality
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: Agisoft Metashape
+    url: https://www.agisoft.com/
+    description: Professional photogrammetry with GIS features.
+    license: Paid
+    entry_type: software
+    best_for: Pro photogrammetry + GIS
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - GIS Features
+      - Pro
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: Polycam
+    url: https://poly.cam/
+    description: Mobile photogrammetry (iOS LiDAR + photo, Android photo). Cloud processing.
+    license: Freemium
+    entry_type: software
+    best_for: Mobile photogrammetry
+    tags:
+      platform:
+        - ios
+        - android
+        - cloud
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Mobile
+      - LiDAR
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: KIRI Engine
+    url: https://www.kiriengine.com/
+    description: Cross-platform mobile photogrammetry.
+    license: Freemium
+    entry_type: software
+    best_for: Cross-platform mobile photogrammetry
+    tags:
+      platform:
+        - ios
+        - android
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Cross-platform
+      - Mobile
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: 3DF Zephyr
+    url: https://www.3dflow.net/3df-zephyr-photogrammetry-software/
+    description: Free lite version (up to 50 photos).
+    license: Freemium
+    entry_type: software
+    best_for: Lite photogrammetry
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Free Lite
+      - 50 Photos
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: Scaniverse (Niantic)
+    url: https://scaniverse.com/
+    description: Free mobile scanning, Gaussian splat support.
+    license: Free
+    entry_type: software
+    best_for: Mobile scan, Gaussian splat
+    tags:
+      platform:
+        - ios
+        - android
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    readme_tags:
+      - Free Mobile
+      - Gaussian Splat
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: Postshot
+    url: https://www.jawset.com/
+    description: Desktop Gaussian Splatting tool. Train, clean, edit, export.
+    license: Freemium
+    entry_type: software
+    best_for: Desktop Gaussian splat
+    tags:
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+    readme_tags:
+      - Desktop
+      - Splat Editor
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: CloudCompare
+    url: https://www.danielgm.net/cc/
+    description: A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a
+    license: Open Source
+    entry_type: software
+    best_for: Point cloud and mesh processing
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Point Cloud
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: Open Scan Tools
+    url: https://openscantools.com/
+    description: A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source scan toolkit
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Toolkit
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: PCL (Point Cloud Library)
+    url: https://pointclouds.org/
+    description: Large-scale open project for 2D/3D image and point cloud processing.
+    entry_type: software
+    license: Open Source
+    best_for: Point cloud processing
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+    readme_tags:
+      - Point Clouds
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: Quixel Megascans
+    url: https://quixel.com/megascans/library/
+    description: World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects).
+    license: Free
+    entry_type: software
+    best_for: Photogrammetry asset library
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Asset Library
+      - Epic Games
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: 3DF Zephyr Free
+    url: https://www.3dflow.net/3df-zephyr-free/
+    description: Free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations.
+    license: Free
+    entry_type: software
+    best_for: Free photogrammetry
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Free
+      - Personal Use
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering
+    url: https://zju3dv.github.io/object_nerf/
+    description: Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) | [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf-->
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - scene-editing
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: 'SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field'
+    url: https://zju3dv.github.io/sine/
+    description: Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE)  | [bibtex](./citations/sine.txt)
+    entry_type: software
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      tech:
+        - photogrammetry
+        - nerf
+    readme_tags:
+      - nerf
+      - scene-editing
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+  - name: COLMAP
+    url: https://colmap.github.io/
+    description: A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.
+    license: Open Source
+    entry_type: software
+    best_for: Photogrammetry SfM/MVS reconstruction
+    tags:
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Photogrammetry
+      - Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning

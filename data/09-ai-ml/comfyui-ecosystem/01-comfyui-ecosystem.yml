@@ -1,20 +1,4 @@
 entries:
-  - name: ComfyUI
-    url: https://comfy.org/
-    description: Node-based AI generator for image/video/3D/audio.
-    license: Open Source
-    entry_type: software
-    best_for: Node-based AI workflows
-    tags:
-      tech:
-        - node-based
-        - ai-generative
-        - opensource-alt
-    readme_tags:
-      - Node-based
-      - Multi-modal
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Comfy UI Manager
     url: https://github.com/Comfy-Org/ComfyUI-Manager
     description: Install and manage custom nodes and dependencies.

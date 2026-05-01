@@ -1,22 +1,4 @@
 entries:
-  - name: Instant Meshes
-    url: https://github.com/wjakob/instant-meshes
-    description: Free, open-source auto-retopology.
-    license: Open Source
-    entry_type: software
-    best_for: Auto-retopology
-    tags:
-      workflow:
-        - retopo
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Free
-      - Auto Retopo
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    stale: true
-    last_pushed: '2022-01-03'
   - name: RetopoFlow
     url: https://blendermarket.com/products/retopoflow
     description: Blender addon for manual retopology.
@@ -30,21 +12,6 @@ entries:
     readme_tags:
       - Blender
       - Manual Retopo
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Topogun
-    url: https://www.topogun.com/
-    description: Standalone retopology and baking.
-    license: Paid
-    entry_type: software
-    best_for: Retopo + baking
-    tags:
-      workflow:
-        - retopo
-        - texturing
-    readme_tags:
-      - Retopo + Bake
-      - Classic
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: Topology Guides
@@ -120,21 +87,3 @@ entries:
         - retopo
       platform:
         - web
-  - name: AutoRemesher
-    url: https://github.com/huxingyi/autoremesher
-    description: Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.
-    license: Open Source
-    entry_type: software
-    best_for: Auto-retopology
-    readme_tags:
-      - Free
-      - Auto Retopo
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      workflow:
-        - retopo
-      tech:
-        - opensource-alt
-    stale: true
-    last_pushed: '2022-02-04'

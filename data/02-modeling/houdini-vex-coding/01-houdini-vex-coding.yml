@@ -112,19 +112,3 @@ entries:
         - python
     url_last_verified: '2026-05-01'
     url_status: unreachable
-  - name: VEX Manager
-    url: https://shirmanor.gumroad.com/l/vex_manager_v1
-    description: VEX snippet/code manager HDA by Shir Manor. Also listed under Houdini — Plugins & Tools.
-    license: Paid
-    entry_type: plugin
-    readme_tags:
-      - VEX
-      - Shir Manor
-    dual_listed_in:
-      - houdini-plugins-tools
-    tags:
-      tech:
-        - houdini-addon
-        - vex
-    url_last_verified: '2026-05-01'
-    url_status: ok

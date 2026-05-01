@@ -1,36 +1,4 @@
 entries:
-  - name: Graphite
-    url: https://editor.graphite.rs/
-    description: Open-source procedural 2D/motion graphics editor.
-    license: Open Source
-    entry_type: software
-    best_for: Procedural design
-    tags:
-      platform:
-        - web
-      tech:
-        - procedural
-        - node-based
-        - opensource-alt
-    readme_tags:
-      - Procedural
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Adobe Express
-    url: https://new.express.adobe.com/
-    description: Quick Adobe design tool.
-    license: Freemium
-    entry_type: software
-    best_for: Quick design
-    tags:
-      platform:
-        - web
-    readme_tags:
-      - Web
-      - Adobe
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: X Design
     url: https://www.x-design.com/
     description: Design tool.
@@ -45,35 +13,6 @@ entries:
       platform:
         - web
     notes: License assumed Freemium; verify on next pricing pass.
-  - name: Modyfi
-    url: https://www.modyfi.com/
-    description: Browser-based creative suite.
-    license: Freemium
-    entry_type: software
-    best_for: Creative suite in browser
-    tags:
-      platform:
-        - web
-    readme_tags:
-      - Browser Suite
-      - Creative
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Eagle
-    url: https://en.eagle.cool/
-    description: Visual asset organizer.
-    license: Paid
-    entry_type: software
-    best_for: Asset organization
-    tags:
-      platform:
-        - win
-        - mac
-    readme_tags:
-      - Asset Organizer
-      - Visual
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Carbon
     url: https://carbon.now.sh/
     description: Code snippet screenshot generator.
@@ -245,24 +184,6 @@ entries:
     tags:
       platform:
         - web
-  - name: ArcBrush
-    url: https://arcbrush.com/
-    description: Node-based non-destructive image editor for generating asset variants and export formats; optional credit-based AI features.
-    license: Freemium
-    entry_type: software
-    best_for: Node-based batch image editing
-    tags:
-      tech:
-        - node-based
-        - ai-generative
-      platform:
-        - win
-        - mac
-    readme_tags:
-      - Node-based
-      - Non-destructive
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Mockup Photos
     url: https://mockup.photos/
     description: Device and print mockup library.

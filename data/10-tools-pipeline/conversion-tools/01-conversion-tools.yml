@@ -234,23 +234,6 @@ entries:
     tags:
       platform:
         - web
-  - name: XnConvert
-    url: https://www.xnview.com/en/xnconvert/
-    description: Batch image converter, 80+ actions.
-    license: Free
-    entry_type: software
-    best_for: Batch image conversion
-    notes: RELOCATE — entry_type software belongs in §12 software table, not tools
-    readme_tags:
-      - Batch
-      - 80+ Actions
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      platform:
-        - win
-        - mac
-        - linux
   - name: PNGQuant
     url: https://pngquant.org/
     description: CLI lossy PNG compression.
@@ -259,53 +242,6 @@ entries:
     readme_tags:
       - CLI
       - PNG
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - opensource-alt
-  - name: HandBrake
-    url: https://handbrake.fr/
-    description: Free, open-source H.265/AV1 video encoder.
-    license: Open Source
-    entry_type: software
-    best_for: Video encoding
-    notes: RELOCATE — entry_type software belongs in §12 software table
-    readme_tags:
-      - H.265/AV1
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - opensource-alt
-  - name: Shutter Encoder
-    url: https://www.shutterencoder.com/
-    description: FFmpeg GUI with professional presets.
-    license: Free
-    entry_type: software
-    best_for: Pro video encoding GUI
-    notes: RELOCATE — entry_type software belongs in §12 software table
-    readme_tags:
-      - FFmpeg GUI
-      - Pro Presets
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      platform:
-        - win
-        - mac
-        - linux
-  - name: fre:ac
-    url: https://www.freac.org/
-    description: Free, open-source batch audio converter.
-    license: Open Source
-    entry_type: software
-    best_for: Batch audio conversion
-    notes: RELOCATE — entry_type software belongs in §12 software table
-    readme_tags:
-      - Audio Batch
-      - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -337,23 +273,6 @@ entries:
     readme_tags:
       - ASWF
       - Pipeline Standard
-    url_last_verified: '2026-05-01'
-    url_status: ok
-  - name: Luminance HDR
-    url: https://qtpfsgui.sourceforge.net/
-    description: HDR workflow — merge brackets, tonemap, convert EXR/HDR/RGBE.
-    license: Open Source
-    entry_type: software
-    best_for: HDR workflow
-    notes: RELOCATE — entry_type software belongs in §12 software table
-    tags:
-      workflow:
-        - lighting
-      tech:
-        - opensource-alt
-    readme_tags:
-      - HDR Workflow
-      - EXR
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: F Spy USD

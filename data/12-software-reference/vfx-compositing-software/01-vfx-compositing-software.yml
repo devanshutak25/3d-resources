@@ -70,6 +70,8 @@ entries:
     readme_tags:
       - Node-based
       - Nuke-like
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-inspiration
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: EmberGen
@@ -205,3 +207,97 @@ entries:
         - fx
       output:
         - film-vfx
+  - name: TOOLL3
+    url: https://tooll.io/
+    description: Graph-based procedural real-time motion graphics for live performance or rendering.
+    entry_type: software
+    license: Open Source
+    readme_tags:
+      - Real-Time
+      - Procedural
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - real-time
+        - procedural
+        - node-based
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-inspiration
+  - name: Resolume
+    url: https://resolume.com/software
+    description: Live visuals and VJ software.
+    license: Paid
+    entry_type: software
+    best_for: VJ, live visuals
+    tags:
+      output:
+        - motion-graphics
+        - broadcast
+      tech:
+        - real-time
+    readme_tags:
+      - VJ
+      - Live Visuals
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-tools
+  - name: MadMapper
+    url: https://madmapper.com/
+    description: Projection mapping software.
+    license: Paid
+    entry_type: software
+    best_for: Projection mapping
+    tags:
+      output:
+        - motion-graphics
+      tech:
+        - real-time
+    readme_tags:
+      - Projection Mapping
+      - Live
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-tools
+  - name: Effekseer
+    url: https://effekseer.github.io/en/
+    description: Real-time VFX editor and runtime.
+    license: Open Source
+    entry_type: software
+    best_for: Game VFX particles
+    tags:
+      output:
+        - games
+        - motion-graphics
+      tech:
+        - real-time
+        - opensource-alt
+    readme_tags:
+      - Real-time VFX
+      - Games
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-tools
+  - name: Magic Animator
+    url: https://magicanimator.com/
+    description: Web-based animation creator.
+    license: Freemium
+    entry_type: software
+    best_for: Quick animated graphics
+    tags:
+      platform:
+        - web
+      output:
+        - motion-graphics
+    readme_tags:
+      - Web
+      - Quick Anim
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-tools

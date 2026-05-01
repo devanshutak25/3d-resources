@@ -228,6 +228,25 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     tags: {}
+  - name: Mandelbulb3D (thargor6 fork)
+    url: https://github.com/thargor6/mb3d
+    description: A program designed for the Windows platform for generating 3D views of different fractals.
+    license: Open Source
+    entry_type: software
+    tags:
+      platform:
+        - win
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Fractals
+      - Windows
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    stale: true
+    last_pushed: '2023-03-05'
   - name: Clavicula
     url: https://clavicula.link/
     description: Intuitive and free 3D modeling software for everyone.

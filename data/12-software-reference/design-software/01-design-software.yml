@@ -284,6 +284,8 @@ entries:
     readme_tags:
       - Procedural
       - Open Source
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: Picsart
@@ -389,3 +391,72 @@ entries:
       - Pro
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Adobe Express
+    url: https://new.express.adobe.com/
+    description: Quick Adobe design tool.
+    license: Freemium
+    entry_type: software
+    best_for: Quick design
+    tags:
+      platform:
+        - web
+    readme_tags:
+      - Web
+      - Adobe
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+  - name: Modyfi
+    url: https://www.modyfi.com/
+    description: Browser-based creative suite.
+    license: Freemium
+    entry_type: software
+    best_for: Creative suite in browser
+    tags:
+      platform:
+        - web
+    readme_tags:
+      - Browser Suite
+      - Creative
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+  - name: Eagle
+    url: https://en.eagle.cool/
+    description: Visual asset organizer.
+    license: Paid
+    entry_type: software
+    best_for: Asset organization
+    tags:
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Asset Organizer
+      - Visual
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+  - name: ArcBrush
+    url: https://arcbrush.com/
+    description: Node-based non-destructive image editor for generating asset variants and export formats; optional credit-based AI features.
+    license: Freemium
+    entry_type: software
+    best_for: Node-based batch image editing
+    tags:
+      tech:
+        - node-based
+        - ai-generative
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Node-based
+      - Non-destructive
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
