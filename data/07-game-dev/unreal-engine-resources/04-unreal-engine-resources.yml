@@ -373,3 +373,19 @@ entries:
         - unreal-plugin
     stale: true
     last_pushed: '2020-11-26'
+  - name: Quests
+    url: https://github.com/angelhodar/OpenRPG_Quest
+    description: Efficient and rich featured quests system for Unreal Engine 4
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+        - xr
+      tech:
+        - opensource-alt
+        - unreal-plugin
+    stale: true
+    last_pushed: '2023-11-12'

@@ -630,22 +630,6 @@ entries:
     archived: true
     stale: true
     last_pushed: '2023-03-05'
-  - name: IndoorAtlas
-    url: https://www.indooratlas.com/
-    description: Plugin for Unity.
-    entry_type: plugin
-    license: Freemium
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-        - xr
-      tech:
-        - unity-plugin
-    readme_tags:
-      - unity-plugin
-    notes: MISFIT — primary product is indoor positioning SaaS, not a 3d/game-dev resource per se.
   - name: iOS and tvOS
     url: https://itunes.apple.com/us/app/unity-remote-4/id871767552
     description: View playmode on final devices. See [more](https://docs.unity3d.com/Manual/UnityRemote5.html).
@@ -676,7 +660,6 @@ entries:
         - unity-plugin
     readme_tags:
       - unity-plugin
-    notes: MISFIT — entry_type tool was wrong; this is a reference PDF.
   - name: Bolt
     url: https://ludiq.io/bolt
     description: 'Brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code. (:moneybag: with'
@@ -694,24 +677,6 @@ entries:
       - unity-plugin
       - node-based
     notes: Bolt was acquired by Unity and integrated as Visual Scripting; legacy URL.
-  - name: MonoDevelop
-    url: https://www.monodevelop.com/
-    description: MonoDevelop editor. Initially the default editor for Unity. Now is deprecated.
-    entry_type: software
-    license: Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    deprecated: true
-    tags:
-      output:
-        - games
-      tech:
-        - unity-plugin
-        - opensource-alt
-    readme_tags:
-      - unity-plugin
-      - opensource-alt
-    notes: MISFIT — IDE software, not a Unity plugin per se.
   - name: Strange Io C
     url: http://strangeioc.github.io/strangeioc/
     description: Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
@@ -742,7 +707,6 @@ entries:
         - unity-plugin
     readme_tags:
       - unity-plugin
-    notes: MISFIT — Trello board, not a plugin; entry_type tool corrected to reference.
   - name: Visual Studio (Windows)
     url: https://visualstudio.microsoft.com/es/
     description: Official supported IDE for Unity in Windows platform. Mac version [here](https://visualstudio.microsoft.com/es/vs/mac/).
@@ -760,22 +724,6 @@ entries:
         - unity-plugin
     readme_tags:
       - unity-plugin
-    notes: MISFIT — IDE software, not a Unity plugin.
-  - name: WakaTime
-    url: https://wakatime.com/
-    description: Plugin for Unity.
-    entry_type: plugin
-    license: Freemium
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      tech:
-        - unity-plugin
-    readme_tags:
-      - unity-plugin
-    notes: MISFIT — primarily a coding-time tracker SaaS; Unity plugin is one of many integrations.
   - name: OpenEd
     url: https://github.com/mrzapp/opened
     description: Open source runtime editor for Unity.

@@ -1,17 +1,4 @@
 entries:
-  - name: Blender Stack Exchange
-    url: https://blender.stackexchange.com/
-    description: Blender Q&A community on Stack Exchange.
-    entry_type: community
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-        - xr
-      tech:
-        - xr
-    notes: MISFIT — generic Blender community, not XR-specific.
   - name: Building an AR game with ARKit and Spritekit
     url: https://blog.pusher.com/building-ar-game-arkit-spritekit/
     description: Building an AR game with ARKit and Spritekit.
@@ -227,22 +214,6 @@ entries:
         - xr
       tech:
         - xr
-  - name: 📺 Learning All IN ORDER ~ Game Dev Cave
-    url: https://www.youtube.com/@thegamedevcave
-    description: '[animation,character,GAS] - 160 vids: newbie, blueprints, quests, C++.'
-    entry_type: channel
-    license: Free
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-        - xr
-      tech:
-        - xr
-      platform:
-        - web
-    notes: MISFIT — general Unreal gamedev channel, not XR-specific.
   - name: Oliver Kreylos's blog
     url: http://doc-ok.org/
     description: Good resource to get started learning about VR / stereo rendering.
@@ -255,21 +226,6 @@ entries:
         - xr
       tech:
         - xr
-  - name: Game View Maximizer
-    url: https://github.com/tomori-hikage/game-view-maximizer
-    description: Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
-    entry_type: tool
-    license: Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-        - xr
-      tech:
-        - xr
-        - opensource-alt
-    notes: MISFIT — general Unity viewport utility, not XR-specific.
   - name: A-Frame VR
     url: https://github.com/silverslade/aframe_blender_exporter
     description: Blender add-on allows you to model your scene in Blender and export it to an A-Frame VR project with a single click.
@@ -287,24 +243,6 @@ entries:
         - blender-addon
     stale: true
     last_pushed: '2023-05-07'
-  - name: Quests
-    url: https://github.com/angelhodar/OpenRPG_Quest
-    description: Efficient and rich featured quests system for Unreal Engine 4
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-        - xr
-      tech:
-        - xr
-        - opensource-alt
-        - unreal-plugin
-    notes: MISFIT — generic UE4 quest system, not XR-specific.
-    stale: true
-    last_pushed: '2023-11-12'
   - name: Tensorflow2 Ue4 AR
     url: https://github.com/Allysony/tensorflow2-ue4-ar
     description: Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23

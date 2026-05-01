@@ -705,3 +705,16 @@ entries:
         - games
       tech:
         - xr
+  - name: Game View Maximizer
+    url: https://github.com/tomori-hikage/game-view-maximizer
+    description: Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+        - xr
+      tech:
+        - opensource-alt

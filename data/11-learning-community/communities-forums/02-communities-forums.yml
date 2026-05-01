@@ -601,3 +601,13 @@ entries:
         - web
       tech:
         - xr
+  - name: Blender Stack Exchange
+    url: https://blender.stackexchange.com/
+    description: Blender Q&A community on Stack Exchange.
+    entry_type: community
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+        - xr

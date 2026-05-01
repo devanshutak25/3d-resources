@@ -215,7 +215,6 @@ entries:
     readme_tags:
       - replication
       - multiplayer
-    notes: 'MISFIT: description references Unity Addressables but repo is Unreal replication graph; verify upstream description.'
     stale: true
     last_pushed: '2022-11-11'
   - name: Unreal Magic Nodes
@@ -271,7 +270,6 @@ entries:
     readme_tags:
       - template
       - starter
-    notes: 'MISFIT: project template, not a plugin; tech tag unreal-plugin imprecise.'
     stale: true
     last_pushed: '2021-08-27'
   - name: Unreal Engine Python
@@ -606,7 +604,6 @@ entries:
     readme_tags:
       - umg
       - sample
-    notes: 'MISFIT: sample project, not plugin; tech tag unreal-plugin imprecise.'
     stale: true
     last_pushed: '2016-02-07'
   - name: UE4GamepadUMG
@@ -726,7 +723,6 @@ entries:
     readme_tags:
       - parser
       - reverse-engineering
-    notes: 'MISFIT: standalone library, not in-engine plugin; removed unreal-plugin tech tag.'
   - name: ProjectExodus
     url: https://github.com/NegInfinity/ProjectExodus
     description: Project Exodus - Unity to Unreal scene/project transfer tool.
@@ -760,7 +756,6 @@ entries:
     readme_tags:
       - build-tool
       - rocket-build
-    notes: 'MISFIT: external builder app, not plugin; removed unreal-plugin tech tag.'
     stale: true
     last_pushed: '2024-04-03'
   - name: Prefabricator Ue4

@@ -253,3 +253,16 @@ entries:
         - web
       output:
         - games
+  - name: 📺 Learning All IN ORDER ~ Game Dev Cave
+    url: https://www.youtube.com/@thegamedevcave
+    description: '[animation,character,GAS] - 160 vids: newbie, blueprints, quests, C++.'
+    entry_type: channel
+    license: Free
+    url_last_verified: '2026-05-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+        - xr
+      platform:
+        - web

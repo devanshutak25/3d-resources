@@ -103,7 +103,6 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
-    notes: MISFIT — description says log4net helper, name says BehaviourTree; verify intent.
     readme_tags:
       - behaviour-tree
       - ai
@@ -525,25 +524,6 @@ entries:
     readme_tags:
       - lua
       - profiler
-  - name: MobileLegend
-    url: https://github.com/Preston-Chen/MobileLegend
-    description: Use toLua Framework to create client on Unity.
-    entry_type: reference
-    license: Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      tech:
-        - unity-plugin
-        - opensource-alt
-    notes: MISFIT — sample/demo project, not a plugin.
-    readme_tags:
-      - sample
-      - tolua
-    stale: true
-    last_pushed: '2019-04-09'
   - name: Atlas Unity
     url: https://github.com/wooga/atlas-unity
     description: This plugin provides tasks to run unity batchmode commands in gradle. It runs and reports unity unit-tests and is able to export .unitypackage files.

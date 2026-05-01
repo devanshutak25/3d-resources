@@ -398,26 +398,6 @@ entries:
       - tcp
     stale: true
     last_pushed: '2021-06-02'
-  - name: Javascript Voronoi
-    url: https://github.com/gorhill/Javascript-Voronoi
-    description: By Raymond Hill to Unity. Also, an attempt at dynamic mesh fractures.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      tech:
-        - opensource-alt
-        - procedural
-    readme_tags:
-      - voronoi
-      - destruction
-    notes: MISFIT — repo is JS Voronoi library, not Unity-specific. Verify relevance.
-    archived: true
-    stale: true
-    last_pushed: '2023-08-25'
   - name: Unity Delaunay
     url: https://github.com/OskarSigvardsson/unity-delaunay
     description: A Delaunay/Voronoi library for Unity, and a simple destruction effect.
@@ -588,24 +568,6 @@ entries:
       - di
     stale: true
     last_pushed: '2021-04-24'
-  - name: Unity Container
-    url: https://github.com/unitycontainer/unity
-    description: A full featured, extensible dependency injection container.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      tech:
-        - opensource-alt
-    readme_tags:
-      - di
-      - container
-    notes: MISFIT — Unity Container is a .NET DI container unrelated to Unity engine. Verify relevance.
-    stale: true
-    last_pushed: '2024-01-21'
   - name: Adic
     url: https://github.com/intentor/adic
     description: Lightweight dependency injection container for Unity.
