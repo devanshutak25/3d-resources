@@ -319,6 +319,7 @@ button {
 .g-panel .legend-row .glyph.glyph-square-outline {
   background: transparent;
   border: 1.5px solid currentColor;
+  border-radius: 50%;
   box-sizing: border-box;
 }
 .g-panel .legend-row .glyph.glyph-circle-fill {

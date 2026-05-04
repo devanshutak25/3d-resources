@@ -39,11 +39,7 @@
     } catch { return false; }
   })();
 
-  // Mobile defaults to a much smaller graph (sections + subsections, ~158 nodes).
-  // Desktop still defaults to entries on so the graph reads dense.
-  const DEFAULT_KINDS = isLowEnd
-    ? new Set(['section', 'subsection'])
-    : new Set(['section', 'subsection', 'entry']);
+  const DEFAULT_KINDS = new Set(['section', 'subsection', 'entry']);
 
   const SPHERE_SEG = isLowEnd ? [8, 6] : [16, 12];
 
@@ -267,7 +263,7 @@
     // .material we can dim directly. Skip the full raw.nodes scan.
     for (const n of data.nodes) {
       const isHi = state.highlightNodes.has(n.id);
-      const op = anyHi ? (isHi ? 0.95 : 0.22) : 0.92;
+      const op = anyHi ? (isHi ? 0.95 : 0.28) : 0.95;
       if (n.__mat) {
         n.__mat.opacity = op;
       } else if (n.__threeObj && n.__threeObj.material) {
@@ -796,32 +792,28 @@
       .nodeRelSize(NODE_REL_SIZE)
       // val^(1/3) * nodeRelSize = library sphere radius; we want it == radiusOf(n).
       .nodeVal(n => Math.pow(radiusOf(n) / NODE_REL_SIZE, 3))
-      .nodeResolution(isLowEnd ? 6 : 10)
+      .nodeResolution(isLowEnd ? 8 : 16)
       .nodeColor(nodeColorFn)
       .nodeLabel(tooltipHtml)
-      .nodeOpacity(0.92)
+      .nodeOpacity(0.95)
       .nodeThreeObject(makeNodeObject)
       .nodeThreeObjectExtend(false)
-      .linkOpacity(isLowEnd ? 0.55 : 0.7)
+      .linkOpacity(0.99)
       .linkColor(linkColor)
       .linkWidth(linkWidth)
       .linkDirectionalParticles(0)
       .cooldownTicks(isLowEnd ? 120 : 200)
       .cooldownTime(isLowEnd ? 6000 : 10000)
       .warmupTicks(isLowEnd ? 30 : 60)
-      .enableNodeDrag(!isLowEnd)
+      .enableNodeDrag(true)
       .onNodeHover(node => {
         container.style.cursor = node ? 'pointer' : '';
         setHovered(node);
       })
       .onNodeClick(node => {
         if (node.kind === 'subsection') toggleExpandSub(node.id);
-        const isReselect = state.selectedNode && state.selectedNode.id === node.id;
         focusNode(node.id);
-        // On touch, the first tap selects + shows the info card. Tapping the
-        // already-selected entry (or any tap on desktop) opens the URL — keeps
-        // accidental taps from yanking the user out of the graph.
-        if (node.kind === 'entry' && node.url && (!isLowEnd || isReselect)) {
+        if (node.kind === 'entry' && node.url) {
           window.open(node.url, '_blank', 'noopener,noreferrer');
           announce(`Opened ${node.label} in new tab`);
         }
@@ -850,7 +842,7 @@
     const controls = Graph.controls();
     if (controls) {
       controls.minDistance = isLowEnd ? 30 : 80;
-      controls.maxDistance = 1500;
+      controls.maxDistance = 4000;
       // Touch devices benefit from slightly damped rotation for stability.
       if (isLowEnd && 'enableDamping' in controls) {
         controls.enableDamping = true;
