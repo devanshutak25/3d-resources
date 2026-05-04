@@ -155,6 +155,13 @@ html = html.replace(/<(h[1-6])>(.*?)<\/\1>/g, (m, tag, inner) => {
   return `<${tag} id="${id}"${extra}>${body}</${tag}>`;
 });
 
+// C1 (ToC): mirror discipline icon onto top-level ToC summary entries.
+html = html.replace(/<summary>(\s*)<a href="#([^"]+)">/g, (m, ws, id) => {
+  const icon = SECTION_ICONS[id];
+  if (!icon) return m;
+  return `<summary>${ws}<i class="mdi mdi-${icon} section-icon" aria-hidden="true"></i><a href="#${id}">`;
+});
+
 // A5: heading hierarchy assertion — fail build if h4/h5/h6 appears as a
 // direct sibling of h2 without an intervening h3 (i.e. skipping a level).
 (() => {

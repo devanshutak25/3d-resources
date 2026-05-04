@@ -684,23 +684,26 @@
     title.textContent = 'Filter';
     header.appendChild(title);
 
-    // §6 Trigger button + visible "Filters" text label
-    const toggleWrap = document.createElement('div');
-    toggleWrap.style.display = 'inline-flex';
-    toggleWrap.style.alignItems = 'center';
-
+    // §6 Trigger button with inline "Filters" text label
     const toggle = document.createElement('button');
     toggle.id = 'filter-toggle';
     toggle.type = 'button';
     toggle.setAttribute('aria-label', 'Toggle filters');
     toggle.setAttribute('title', 'Toggle filters');
+    const toggleIcon = document.createElement('i');
+    toggleIcon.setAttribute('aria-hidden', 'true');
+    const toggleLabel = document.createElement('span');
+    toggleLabel.id = 'filter-toggle-label';
+    toggleLabel.textContent = 'Filters';
+    toggle.appendChild(toggleIcon);
+    toggle.appendChild(toggleLabel);
     const setToggleIcon = () => {
       const collapsed = bar.classList.contains('collapsed');
       const hasFilters = anyFilterActive();
       let name;
       if (collapsed) name = hasFilters ? 'filter-menu' : 'filter-menu-outline';
       else name = hasFilters ? 'filter' : 'filter-outline';
-      toggle.innerHTML = `<i class="mdi mdi-${name}" aria-hidden="true"></i>`;
+      toggleIcon.className = `mdi mdi-${name}`;
     };
     toggle._setIcon = setToggleIcon;
     toggle.addEventListener('click', () => {
@@ -708,14 +711,8 @@
       bar.classList.toggle('collapsed', collapsed);
       setToggleIcon();
     });
-    toggleWrap.appendChild(toggle);
 
-    const toggleLabel = document.createElement('span');
-    toggleLabel.id = 'filter-toggle-label';
-    toggleLabel.textContent = 'Filters';
-    toggleWrap.appendChild(toggleLabel);
-
-    header.appendChild(toggleWrap);
+    header.appendChild(toggle);
     bar.appendChild(header);
 
     const top = document.createElement('div');

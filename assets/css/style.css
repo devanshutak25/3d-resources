@@ -65,7 +65,8 @@ main:focus { outline: none; }
   margin: 0;
   pointer-events: auto;
   position: sticky;
-  top: 0.5rem;
+  top: 1.5rem;
+  padding-top: 0.75rem;
 }
 .filter-header {
   display: flex;
@@ -79,15 +80,15 @@ main:focus { outline: none; }
   color: var(--text-muted);
   border: 1px solid var(--border);
   border-radius: 6px;
-  width: 2rem;
   height: 2rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  gap: 0.4rem;
   cursor: pointer;
   font-size: 1.1rem;
   line-height: 1;
-  padding: 0;
+  padding: 0 0.7rem;
   flex-shrink: 0;
 }
 #filter-toggle:hover { color: var(--text); border-color: var(--accent); }
@@ -507,10 +508,9 @@ mark.hl {
 
 /* ---------- §6 Filters label + hit count badge ---------- */
 #filter-toggle-label {
-  margin-left: 0.4rem;
   font-size: 0.85rem;
   font-weight: 600;
-  color: var(--text-muted);
+  color: inherit;
   letter-spacing: 0.02em;
 }
 .hit-count {
