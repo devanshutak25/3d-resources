@@ -165,6 +165,12 @@ html = html.replace(/<summary>(\s*)<a href="#([^"]+)">/g, (m, ws, id) => {
   return `<summary>${ws}<i class="mdi mdi-${icon} section-icon" aria-hidden="true"></i><a href="#${id}">`;
 });
 
+// Inject "Expand all" button inline on the Contents heading (right-aligned).
+html = html.replace(
+  /<h2 id="contents"([^>]*)>([\s\S]*?)<\/h2>/,
+  '<h2 id="contents"$1><span class="contents-label">$2</span><button type="button" id="expand-all-btn" class="expand-all-btn" aria-pressed="false">Expand all</button></h2>'
+);
+
 // A5: heading hierarchy assertion — fail build if h4/h5/h6 appears as a
 // direct sibling of h2 without an intervening h3 (i.e. skipping a level).
 (() => {

@@ -1095,6 +1095,40 @@
     }
   }
 
+  function setupExpandAllButton() {
+    const btn = document.getElementById('expand-all-btn');
+    if (!btn) return;
+    let expanded = false;
+    btn.addEventListener('click', (ev) => {
+      ev.stopPropagation();
+      expanded = !expanded;
+      const headings = mainEl.querySelectorAll('h2, h3');
+      for (const h of headings) {
+        if (h.tagName === 'H2' && EXCLUDED_H2_IDS.has(h.id)) continue;
+        if (!h.classList.contains('collapsible-heading')) continue;
+        if (expanded) {
+          if (h.hasAttribute('data-collapsed')) {
+            setCollapsed(h, false);
+            h.setAttribute('aria-expanded', 'true');
+          }
+        } else if (h.tagName === 'H3') {
+          if (!h.hasAttribute('data-collapsed')) {
+            setCollapsed(h, true);
+            h.setAttribute('aria-expanded', 'false');
+          }
+        }
+      }
+      const contents = document.getElementById('contents');
+      if (contents) {
+        for (let n = contents.nextElementSibling; n && n.tagName !== 'H2'; n = n.nextElementSibling) {
+          if (n.tagName === 'DETAILS') n.open = expanded;
+        }
+      }
+      btn.textContent = expanded ? 'Collapse all' : 'Expand all';
+      btn.setAttribute('aria-pressed', expanded ? 'true' : 'false');
+    });
+  }
+
   // ---------- §15 Keyboard navigation ----------
 
   function isVisibleNow(el) {
@@ -1298,6 +1332,7 @@
     setupCollapsibleHeadings();
     setupTocAnimation();
     setupTocClickHandler();
+    setupExpandAllButton();
     setupSeeAlsoClickHandler();
     setupScrollToTop();
     setupKeyboardNav();

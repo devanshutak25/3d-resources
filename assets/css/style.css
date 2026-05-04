@@ -276,6 +276,9 @@ main > details > ul > li {
 
 * { box-sizing: border-box; }
 
+/* Form controls inherit body font (Inter) instead of UA system default */
+button, input, select, textarea { font-family: inherit; }
+
 html {
   font-size: 16px;
   scroll-behavior: smooth;
@@ -479,6 +482,33 @@ footer a:hover { color: var(--link); }
 .collapsible-heading:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 
 /* Table of Contents (Contents section) */
+h2#contents {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+h2#contents .contents-label { flex: 1 1 auto; }
+.expand-all-btn {
+  font-family: inherit;
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1;
+  padding: 0.45rem 0.85rem;
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border, #2a2a2a);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+  white-space: nowrap;
+  margin-left: auto;
+}
+.expand-all-btn:hover { border-color: var(--link); color: var(--link); }
+.expand-all-btn:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+.expand-all-btn[aria-pressed="true"] { background: var(--link); color: var(--bg); border-color: var(--link); }
 h2#contents + ul {
   columns: 2;
   column-gap: 2rem;
