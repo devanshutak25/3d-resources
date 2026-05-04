@@ -425,7 +425,7 @@ footer a:hover { color: var(--link); }
   top: 0;
   font-size: 0.85em;
   color: var(--text-muted);
-  transition: transform 0.15s;
+  transition: transform 0.18s ease;
   transform-origin: 0.4em 0.6em;
 }
 .collapsible-heading[data-collapsed]::before { transform: rotate(-90deg); }
@@ -450,4 +450,139 @@ h2#contents + ul {
 
 @media (max-width: 480px) {
   html { font-size: 14px; }
+}
+
+/* ---------- §5 Match highlight ---------- */
+mark.hl {
+  background: #fff3a3;
+  color: #1a1a1a;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+/* ---------- §6 Filters label + hit count badge ---------- */
+#filter-toggle-label {
+  margin-left: 0.4rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+.hit-count {
+  display: inline-block;
+  margin-left: 0.5em;
+  padding: 0 0.5em;
+  font-size: 0.7em;
+  font-weight: 600;
+  color: var(--bg);
+  background: var(--accent);
+  border-radius: 999px;
+  vertical-align: middle;
+  line-height: 1.6;
+}
+
+/* ---------- §2 Clear search ---------- */
+#filter-search-clear {
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+#filter-search-clear:hover { color: var(--text); border-color: var(--accent); }
+
+/* ---------- §7/§13 Empty state ---------- */
+#filter-empty-state {
+  margin: 1rem 0;
+  padding: 0.85rem 1rem;
+  background: var(--bg-secondary);
+  border: 1px dashed var(--border);
+  border-radius: 6px;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+#filter-empty-state strong { color: var(--text); }
+#filter-empty-state a { color: var(--link); }
+
+/* ---------- §8 GitHub repo pill ---------- */
+.repo-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  padding: 0.05em 0.55em;
+  font-size: 0.75em;
+  font-weight: 600;
+  color: var(--text);
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  text-decoration: none;
+  vertical-align: middle;
+  line-height: 1.6;
+}
+.repo-pill:hover {
+  border-color: var(--accent);
+  color: var(--text);
+  text-decoration: none;
+}
+.repo-pill svg { width: 0.95em; height: 0.95em; flex-shrink: 0; }
+
+/* ---------- §17 ToC dimming during search/filter ---------- */
+main > details[data-dim] > summary,
+main > details > ul > li[data-dim] {
+  opacity: 0.4;
+}
+main > details[data-dim] > summary:hover,
+main > details > ul > li[data-dim]:hover {
+  opacity: 1;
+}
+
+/* ---------- §10 Section animation: height tween ---------- */
+.section-range-anim {
+  overflow: hidden;
+  transition: max-height 0.18s ease;
+}
+
+/* ---------- §12 Mobile filter overlay + ToC dropdown ---------- */
+#mobile-toc-jump {
+  display: none;
+  width: 100%;
+  margin: 0 0 1rem;
+  padding: 0.5rem 0.6rem;
+  background: var(--bg-tertiary);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 768px) {
+  #mobile-toc-jump { display: block; }
+
+  /* Hide desktop ToC <details> on mobile (replaced by dropdown). */
+  h2#contents,
+  h2#contents ~ details {
+    display: none;
+  }
+
+  /* Filter panel as fullscreen overlay when open on mobile */
+  #filter-bar:not(.collapsed) {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    overflow-y: auto;
+    margin: 0;
+    border-radius: 0;
+    padding: 1rem;
+  }
+  #filter-bar:not(.collapsed) .filter-header {
+    position: sticky;
+    top: 0;
+    background: var(--bg-secondary);
+    margin: -1rem -1rem 0.6rem;
+    padding: 0.75rem 1rem;
+    z-index: 1;
+  }
 }

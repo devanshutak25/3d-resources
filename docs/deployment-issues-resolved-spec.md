@@ -3,15 +3,21 @@
 Companion to `deployment-issues.md`. Captures decisions from grill session 2026-05-04.
 Implementation-agnostic. Source of truth for behavior.
 
+## Status
+
+- **Round 1 (§1–§17):** ✅ implemented 2026-05-04 — see `_site/`, `assets/js/filter.js`, `assets/css/style.css`, `scripts/render.js`, `data/09-ai-ml.yml`.
+- **Round 2 (A/B/C):** pending.
+- **Round 3 (§D):** pending.
+
 ---
 
-## 1. Default Section State
+## 1. Default Section State ✅
 
 - **Top-level categories:** open by default.
 - **Subcategories:** closed by default.
 - Chevron indicator must match actual collapse state at all times.
 
-## 2. Search Behavior — Focus Mode
+## 2. Search Behavior — Focus Mode ✅
 
 When a search query is active:
 - Non-matching subcategories are **hidden/dimmed**.
@@ -19,13 +25,13 @@ When a search query is active:
 - Each matching subcategory shows a **hit count badge** (e.g. `Rigging (3)`).
 - A **"Clear search"** affordance is always visible while query is active.
 
-## 3. State Restoration After Clearing
+## 3. State Restoration After Clearing ✅
 
 - When search/filters are cleared, **subcategories that auto-expanded during search remain expanded**.
 - User can manually collapse if desired.
 - Fixes ToC-breaks-and-doesn't-recover bug by defining "recovered" state explicitly.
 
-## 4. Search Ranking & Fuzziness
+## 4. Search Ranking & Fuzziness ✅
 
 - Search corpus: title, description/caption, tags. All links.
 - **Ranking:** weighted + grouped.
@@ -34,12 +40,12 @@ When a search query is active:
   - Field weights: title > tags > description.
 - **Fuzziness:** loose. Partial-token matching (`rig` matches `rigging`, `auto-rigger`, `Rigify`). Typo tolerance included.
 
-## 5. Match Highlighting
+## 5. Match Highlighting ✅
 
 - **Scope:** every occurrence of the matched term in the row, across all fields (not just the field that triggered the match).
 - **Style:** yellow background highlight (Cmd-F muscle memory).
 
-## 6. Filter Panel
+## 6. Filter Panel ✅
 
 - **Trigger button:** stays in current location. Add **"Filters" text label** next to icon.
 - Active-filter count indicator: already handled by existing code, no change.
@@ -51,18 +57,18 @@ When a search query is active:
   - Workflow
   - Output
 
-## 7. Filter Combination Logic
+## 7. Filter Combination Logic ✅
 
 - **Within a group:** OR (e.g. Platform = Windows + Linux → matches either).
 - **Across groups:** AND.
 - **Empty state when filters return zero results:** suggest dropping the most restrictive filter (e.g. "Try removing 'Linux'").
 
-## 8. GitHub Repo Indicator (`![][repo]` fix)
+## 8. GitHub Repo Indicator (`![][repo]` fix) ✅
 
 - Replace broken `![][repo]` markup with a **"GitHub" pill** (text + icon).
 - No live star count for now. Upgrade path open.
 
-## 9. Machine Learning for CG — Paper Cleanup
+## 9. Machine Learning for CG — Paper Cleanup ✅
 
 - Move all research papers to a **dedicated subsection at the bottom** of ML for CG.
 - Each paper entry must include:
@@ -70,34 +76,34 @@ When a search query is active:
   - Year.
   - `paper` tag.
 
-## 10. Section Expand/Collapse Animation
+## 10. Section Expand/Collapse Animation ✅
 
 - **Duration:** 180ms.
 - **Animates:** height + chevron rotation tween.
 - **No opacity fade.**
 
-## 11. Attribution
+## 11. Attribution ✅
 
 - All historically-mined GitHub awesome-lists remain listed by name in the attribution section, regardless of current active-mining status.
 - No "stale" or "last mined" marking.
 
-## 12. Mobile Behavior
+## 12. Mobile Behavior ✅
 
 - **Filter panel:** full-screen overlay (not inline).
 - **Table of Contents:** "Jump to section" dropdown at top of page.
 - **Search focus mode:** identical to desktop.
 
-## 13. Empty State — Search With No Results
+## 13. Empty State — Search With No Results ✅
 
 - Show: "No results for '<query>'".
 - Plus a contribute prompt linking to a GitHub issue: "Know a resource? Suggest it →".
 
-## 14. Tags
+## 14. Tags ✅
 
 - **Decorative only.** Not clickable.
 - Searchable via the main search box (covered in §4).
 
-## 15. Keyboard Navigation
+## 15. Keyboard Navigation ✅
 
 - `/` or `Cmd-K` → focus search box.
 - `Esc` → clear search.
@@ -106,12 +112,12 @@ When a search query is active:
 - `Left` → collapse an expanded category/subcategory.
 - `Enter` → open focused link in new tab.
 
-## 16. Session Persistence
+## 16. Session Persistence ✅
 
 - **None.** Every visit starts fresh with defaults from §1.
 - No localStorage of expand state, filters, or last query.
 
-## 17. Table of Contents During Search/Filter
+## 17. Table of Contents During Search/Filter ✅
 
 - ToC entries for non-matching sections are **dimmed but remain clickable**.
 - Clicking a dimmed ToC entry **clears active filters/search** and jumps to that section.
