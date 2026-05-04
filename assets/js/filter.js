@@ -1149,6 +1149,56 @@
     });
   }
 
+  // Floating "Scroll to Top" button — appears after the user scrolls past
+  // ~1 viewport. Click smooth-scrolls to top.
+  function setupScrollToTop() {
+    const btn = document.createElement('button');
+    btn.id = 'scroll-top';
+    btn.type = 'button';
+    btn.setAttribute('aria-label', 'Scroll to top');
+    btn.setAttribute('title', 'Scroll to top');
+    btn.innerHTML = '<i class="mdi mdi-arrow-up" aria-hidden="true"></i>';
+    btn.addEventListener('click', () => {
+      smoothScrollTo(0);
+      const skip = document.querySelector('.skip-link');
+      if (skip) try { skip.focus({ preventScroll: true }); } catch (e) { skip.focus(); }
+    });
+    document.body.appendChild(btn);
+
+    let ticking = false;
+    const update = () => {
+      ticking = false;
+      btn.classList.toggle('visible', window.pageYOffset > window.innerHeight * 0.6);
+    };
+    window.addEventListener('scroll', () => {
+      if (!ticking) { requestAnimationFrame(update); ticking = true; }
+    }, { passive: true });
+    update();
+  }
+
+  // B5: "See also" cross-links must expand the target subsection (and its
+  // parent H2 if collapsed) before smooth-scrolling to it.
+  function setupSeeAlsoClickHandler() {
+    mainEl.addEventListener('click', (ev) => {
+      const a = ev.target.closest && ev.target.closest('.see-also a[href^="#"]');
+      if (!a || !mainEl.contains(a)) return;
+      const id = decodeURIComponent(a.getAttribute('href').slice(1));
+      const target = document.getElementById(id);
+      if (!target) return;
+      ev.preventDefault();
+      if (target.tagName === 'H3') expandHeading(findPrevH2(target));
+      expandHeading(target);
+      history.pushState(null, '', '#' + id);
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          const top = target.getBoundingClientRect().top + window.pageYOffset - 8;
+          smoothScrollTo(top);
+          try { target.focus({ preventScroll: true }); } catch (e) { target.focus(); }
+        });
+      });
+    });
+  }
+
   // ---------- Init ----------
 
   function init(data) {
@@ -1158,6 +1208,8 @@
     setupCollapsibleHeadings();
     setupTocAnimation();
     setupTocClickHandler();
+    setupSeeAlsoClickHandler();
+    setupScrollToTop();
     setupKeyboardNav();
 
     // B1: restore filter/search state from URL hash

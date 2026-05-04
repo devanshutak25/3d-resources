@@ -712,6 +712,47 @@ main > details > ul > li .toc-desc { margin-left: 0; }
 }
 .see-also a:hover { color: var(--link-hover); }
 
+/* ---------- Scroll-to-top button ---------- */
+#scroll-top {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-secondary);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
+  opacity: 0;
+  transform: translateY(8px);
+  pointer-events: none;
+  transition: opacity 0.18s ease, transform 0.18s ease, color 0.15s, border-color 0.15s;
+  z-index: 999;
+}
+#scroll-top.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+#scroll-top:hover {
+  color: var(--link);
+  border-color: var(--accent);
+}
+#scroll-top:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+@media (max-width: 768px) {
+  #scroll-top { right: 0.85rem; bottom: 0.85rem; width: 2.4rem; height: 2.4rem; }
+}
+
 /* ---------- Reduced-motion override ---------- */
 /* Per project decision: deliberately disregard the OS prefers-reduced-motion
    setting. The site's animations (180ms chevron tween, smooth scroll) are
