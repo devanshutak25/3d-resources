@@ -575,14 +575,54 @@ main > details > ul > li[data-dim]:hover {
     overflow-y: auto;
     margin: 0;
     border-radius: 0;
-    padding: 1rem;
+    padding: 1rem 1rem 4rem;
   }
   #filter-bar:not(.collapsed) .filter-header {
     position: sticky;
     top: 0;
     background: var(--bg-secondary);
-    margin: -1rem -1rem 0.6rem;
+    margin: -1rem -1rem 0.75rem;
     padding: 0.75rem 1rem;
     z-index: 1;
+    border-bottom: 1px solid var(--border);
   }
+  #filter-bar:not(.collapsed) .filter-top {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  #filter-bar:not(.collapsed) #filter-search {
+    flex: 1 1 100%;
+    font-size: 1rem;
+    padding: 0.6rem 0.75rem;
+  }
+  #filter-bar:not(.collapsed) .filter-row {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+    margin: 0.85rem 0;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--border);
+  }
+  #filter-bar:not(.collapsed) .filter-row:last-of-type { border-bottom: none; }
+  #filter-bar:not(.collapsed) .filter-label { padding-top: 0; }
+  #filter-bar:not(.collapsed) .filter-chip {
+    padding: 0.4rem 0.85rem;
+    font-size: 0.9rem;
+  }
+  #filter-bar:not(.collapsed) #filter-toggle-label::after {
+    content: ' (tap to close)';
+    font-weight: 400;
+    color: var(--text-subtle);
+  }
+}
+
+/* ---------- Reduced-motion override ---------- */
+/* Per project decision: deliberately disregard the OS prefers-reduced-motion
+   setting. The site's animations (180ms chevron tween, smooth scroll) are
+   essential to the lookup UX and do not cause motion sickness. */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: smooth !important; }
+  .collapsible-heading::before { transition: transform 0.18s ease !important; }
+  .filter-more summary::before { transition: transform 0.18s ease !important; }
+  main > details > summary::before { transition: transform 0.18s ease !important; }
+  a, .filter-chip { transition: background 0.1s, color 0.1s, border-color 0.1s !important; }
 }

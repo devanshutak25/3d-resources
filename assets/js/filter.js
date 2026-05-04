@@ -637,9 +637,15 @@
     search.placeholder = 'Search resources…';
     search.id = 'filter-search';
     search.setAttribute('aria-label', 'Search resources');
+    let searchDebounce = 0;
     search.addEventListener('input', () => {
-      active.search = search.value.trim().toLowerCase();
-      applyFilters();
+      const v = search.value.trim().toLowerCase();
+      clearTimeout(searchDebounce);
+      const delay = v.length >= 4 ? 180 : 80;
+      searchDebounce = setTimeout(() => {
+        active.search = v;
+        applyFilters();
+      }, delay);
     });
     top.appendChild(search);
 
@@ -876,15 +882,23 @@
 
   // ---------- §15 Keyboard navigation ----------
 
+  function isVisibleNow(el) {
+    // Walk up: collapsed parent (e.g. UL inside collapsed H2/H3 range) hides children.
+    let n = el;
+    while (n && n !== mainEl) {
+      if (n.style && n.style.display === 'none') return false;
+      n = n.parentElement;
+    }
+    return el.offsetParent !== null || el.tagName === 'H2' || el.tagName === 'H3';
+  }
+
   function getNavList() {
     const list = [];
     const all = mainEl.querySelectorAll('h2, h3, [data-decorated]');
     for (const el of all) {
-      if (el.style.display === 'none') continue;
-      // Hidden via filter or ancestor collapse?
-      if (el.hasAttribute('data-hidden-by-filter')) continue;
-      if (el.hasAttribute('data-user-collapsed')) continue;
       if (el.tagName === 'H2' && EXCLUDED_H2_IDS.has(el.id)) continue;
+      if (el.hasAttribute('data-hidden-by-filter')) continue;
+      if (!isVisibleNow(el)) continue;
       list.push(el);
     }
     return list;

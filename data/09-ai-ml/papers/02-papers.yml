@@ -1,5 +1,5 @@
 entries:
-  - name: Arxiv Paper 2205.15517
+  - name: 'IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis'
     url: https://arxiv.org/abs/2205.15517
     description: '[🌐 Project Page](https://mrtornado24.github.io/IDE-3D/) | [💻 Code](https://github.com/MrTornado24/IDE-3D)'
     entry_type: reference
@@ -12,7 +12,7 @@ entries:
       platform:
         - web
     year: 2022
-  - name: Arxiv Paper 2208.07227
+  - name: 'DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images'
     url: https://arxiv.org/abs/2208.07227
     description: '[💻 Code](https://github.com/vLAR-group/DM-NeRF)'
     entry_type: reference
@@ -27,7 +27,7 @@ entries:
       platform:
         - web
     year: 2022
-  - name: Arxiv Paper 2209.14988
+  - name: 'DreamFusion: Text-to-3D using 2D Diffusion'
     url: https://arxiv.org/abs/2209.14988
     description: '[🌐 Project Page](https://dreamfusion3d.github.io) | [💻 Code](https://github.com/ashawkey/stable-dreamfusion)'
     entry_type: reference
@@ -40,7 +40,7 @@ entries:
       platform:
         - web
     year: 2022
-  - name: Arxiv Paper 2210.15663
+  - name: 'Deep Generative Models on 3D Representations: A Survey'
     url: https://arxiv.org/pdf/2210.15663.pdf
     description: '[🌐 Project Page](https://github.com/justimyhxu/awesome-3D-generation/)'
     entry_type: reference
@@ -53,7 +53,7 @@ entries:
       platform:
         - web
     year: 2022
-  - name: Arxiv Paper 2211.10440
+  - name: 'Magic3D: High-Resolution Text-to-3D Content Creation'
     url: https://arxiv.org/pdf/2211.10440.pdf
     description: '[🌐 Project Page](https://research.nvidia.com/labs/dir/magic3d)  | [💻 Code][Coming soon.]'
     entry_type: reference
@@ -66,7 +66,7 @@ entries:
       platform:
         - web
     year: 2022
-  - name: Arxiv Paper 2212.14704
+  - name: 'Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models'
     url: https://arxiv.org/pdf/2212.14704.pdf
     description: '[🌐 Project Page](https://bluestyle97.github.io/dream3d/) | [💻 Code][Coming soon.]'
     entry_type: reference

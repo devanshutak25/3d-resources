@@ -48,11 +48,15 @@ function repoPill(href) {
 }
 function processDescription(desc) {
   if (!desc) return desc;
-  // [![][repo]](URL) → linked pill
-  desc = desc.replace(/\[!\[\]\[repo\]\]\(([^)]+)\)/g, (_, url) => repoPill(url.trim()));
+  // [![][repo]](URL) — closed paren
+  desc = desc.replace(/\[!\[\]\[repo\]\]\(([^)\s]+)\)/g, (_, url) => repoPill(url.trim()));
+  // [![][repo]](URL — unclosed paren (malformed YAML in some entries)
+  desc = desc.replace(/\[!\[\]\[repo\]\]\(([^)\s]+)\)?/g, (_, url) => repoPill(url.trim()));
   // standalone ![][repo] → pill, no link
   desc = desc.replace(/!\[\]\[repo\]/g, () => repoPill(null));
-  return desc;
+  // Strip every other broken image-ref like ![][gpl], ![][mit], ![][win] etc.
+  desc = desc.replace(/!\[\]\[[\w-]+\]/g, '');
+  return desc.trim();
 }
 
 function githubAnchor(title) {
@@ -216,9 +220,12 @@ function footer() {
     '- [itch.io](https://itch.io)',
     '- YouTube channels & playlists',
     '',
-    `**GitHub awesome-lists mined (${awesome.length}):**`,
+    '<details>',
+    `<summary><strong>GitHub awesome-lists mined (${awesome.length})</strong></summary>`,
     '',
     ...awesome,
+    '',
+    '</details>',
     '',
     '</details>',
     ''
