@@ -27,7 +27,7 @@
   const KIND_LABELS  = { section: 'Sections', subsection: 'Subsections', entry: 'Entries', tag: 'Tags' };
   const KIND_LABELS_S = { section: 'section', subsection: 'subsection', entry: 'entry', tag: 'tag' };
 
-  const DEFAULT_KINDS = new Set(['section', 'subsection', 'tag']);
+  const DEFAULT_KINDS = new Set(['section', 'subsection', 'entry']);
 
   const LINK_BASE_RGB       = '180,190,210';
   const LINK_BASE_ALPHA     = 0.5;
@@ -67,10 +67,10 @@
   }
 
   function sizeOf(n) {
-    if (n.kind === 'section') return 30;
-    if (n.kind === 'subsection') return Math.max(8, 8 + Math.min(36, Math.sqrt(n.entryCount || 0) * 3.2));
-    if (n.kind === 'tag') return 5;
-    return 4; // entry — bumped from 2.5 for visibility
+    if (n.kind === 'section') return 190;
+    if (n.kind === 'subsection') return Math.max(60, 60 + Math.min(200, Math.sqrt(n.entryCount || 0) * 14));
+    if (n.kind === 'tag') return 8;
+    return 4; // entry
   }
 
   function buildVisibleData() {
@@ -116,7 +116,23 @@
     if (hasHi) return rgba(LINK_BASE_RGB, LINK_DIM_ALPHA);
     return rgba(LINK_BASE_RGB, LINK_BASE_ALPHA);
   }
-  function linkWidth(link) { return state.highlightLinks.has(link) ? 2.6 : 1.2; }
+  function linkWidth(link) { return state.highlightLinks.has(link) ? 0.65 : 0.3; }
+
+  // Tags rendered as octahedrons (other kinds use default sphere by returning null).
+  function makeTagOctahedron(n) {
+    if (n.kind !== 'tag' || !window.THREE) return null;
+    const radius = sizeOf(n) * 0.5;
+    const geom = new window.THREE.OctahedronGeometry(radius, 0);
+    const mat = new window.THREE.MeshLambertMaterial({
+      color: TAG_COLOR,
+      transparent: true,
+      opacity: 0.95,
+      flatShading: true
+    });
+    const mesh = new window.THREE.Mesh(geom, mat);
+    n.__mat = mat;
+    return mesh;
+  }
 
   function nodeColorFn(n) {
     // Selected: full color. Hovered: full color. Others under highlight: dim via rgba.
@@ -135,27 +151,40 @@
     return `rgba(${r},${g},${b},${a})`;
   }
 
-  function updateHighlights(node) {
+  function recomputeHighlights() {
     state.highlightLinks.clear();
     state.highlightNodes.clear();
-    state.hoveredNode = node;
-    if (node) {
-      state.highlightNodes.add(node.id);
+    // Hover takes priority but selected always contributes too — both stay lit.
+    const targets = [];
+    if (state.selectedNode) targets.push(state.selectedNode);
+    if (state.hoveredNode && state.hoveredNode !== state.selectedNode) targets.push(state.hoveredNode);
+    if (targets.length) {
       const data = state.Graph.graphData();
+      const ids = new Set(targets.map(t => t.id));
+      for (const id of ids) state.highlightNodes.add(id);
       for (const l of data.links) {
         const s = typeof l.source === 'object' ? l.source.id : l.source;
         const t = typeof l.target === 'object' ? l.target.id : l.target;
-        if (s === node.id || t === node.id) {
+        if (ids.has(s) || ids.has(t)) {
           state.highlightLinks.add(l);
           state.highlightNodes.add(s); state.highlightNodes.add(t);
         }
       }
     }
+    if (!state.Graph) return;
     state.Graph
       .linkColor(state.Graph.linkColor())
       .linkWidth(state.Graph.linkWidth())
       .nodeColor(state.Graph.nodeColor());
+    const dim = state.highlightNodes.size > 0;
+    for (const n of state.raw.nodes) {
+      if (n.kind !== 'tag' || !n.__mat) continue;
+      n.__mat.opacity = dim ? (state.highlightNodes.has(n.id) ? 0.95 : 0.3) : 0.95;
+    }
   }
+
+  function setHovered(node) { state.hoveredNode = node; recomputeHighlights(); }
+  function setSelected(node) { state.selectedNode = node; recomputeHighlights(); }
 
   function tooltipHtml(n) {
     const swatch = `<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${colorOf(n)};margin-right:6px;vertical-align:middle"></span>`;
@@ -270,7 +299,7 @@
       { x: node.x, y: node.y, z: node.z },
       900
     );
-    state.selectedNode = node;
+    setSelected(node);
     showInfo(node);
     updateBreadcrumb();
     history.replaceState(null, '', '#' + encodeURIComponent(nodeId));
@@ -559,7 +588,7 @@
         input.select();
       } else if (ev.key === 'Escape' && document.activeElement !== input) {
         if (state.selectedNode) {
-          state.selectedNode = null;
+          setSelected(null);
           showInfo(null);
           updateBreadcrumb();
           history.replaceState(null, '', location.pathname);
@@ -571,7 +600,7 @@
   function setupControls() {
     document.getElementById('btn-fit').addEventListener('click', () => {
       state.Graph.zoomToFit(800, 60);
-      state.selectedNode = null;
+      setSelected(null);
       showInfo(null);
       updateBreadcrumb();
       history.replaceState(null, '', location.pathname);
@@ -657,6 +686,8 @@
       .nodeColor(nodeColorFn)
       .nodeLabel(tooltipHtml)
       .nodeOpacity(0.95)
+      .nodeThreeObject(makeTagOctahedron)
+      .nodeThreeObjectExtend(false)
       .linkOpacity(0.99)
       .linkColor(linkColor)
       .linkWidth(linkWidth)
@@ -664,27 +695,18 @@
       .enableNodeDrag(true)
       .onNodeHover(node => {
         container.style.cursor = node ? 'pointer' : '';
-        updateHighlights(node);
-        // Hover does NOT update info card (that would spam SR via aria-live).
-        // Tooltip already shows what we'd announce.
+        setHovered(node);
       })
       .onNodeClick(node => {
+        if (node.kind === 'subsection') toggleExpandSub(node.id);
+        focusNode(node.id);
         if (node.kind === 'entry' && node.url) {
           window.open(node.url, '_blank', 'noopener,noreferrer');
           announce(`Opened ${node.label} in new tab`);
-          return;
         }
-        if (node.kind === 'subsection') {
-          toggleExpandSub(node.id);
-          state.selectedNode = node;
-          showInfo(node);
-          updateBreadcrumb();
-          return;
-        }
-        focusNode(node.id);
       })
       .onBackgroundClick(() => {
-        state.selectedNode = null;
+        setSelected(null);
         showInfo(null);
         updateBreadcrumb();
         history.replaceState(null, '', location.pathname);
@@ -692,6 +714,13 @@
 
     Graph.d3Force('charge').strength(-40).distanceMax(180);
     Graph.d3Force('link').distance(l => l.kind === 'tag' ? 40 : 22);
+
+    // Clamp orbit zoom distance so users can't pan to infinity
+    const controls = Graph.controls();
+    if (controls) {
+      controls.minDistance = 80;
+      controls.maxDistance = 4000;
+    }
 
     state.Graph = Graph;
     refreshGraph();
@@ -708,11 +737,22 @@
     setTimeout(() => loading.remove(), 600);
   }
 
-  document.addEventListener('DOMContentLoaded', () => {
+  function start() {
     init().catch(err => {
       console.error(err);
       const loading = document.getElementById('loading');
       loading.querySelector('.label').textContent = 'Failed to load graph: ' + err.message;
     });
-  });
+  }
+
+  function ready() {
+    if (window.ForceGraph3D && window.THREE) start();
+    else window.addEventListener('graph-deps-ready', start, { once: true });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', ready);
+  } else {
+    ready();
+  }
 })();

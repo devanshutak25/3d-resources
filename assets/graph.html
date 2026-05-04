@@ -16,7 +16,15 @@
   <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=clash-grotesk@500,600&display=swap">
   <link rel="stylesheet" href="/assets/css/graph.css">
 
-  <script src="https://unpkg.com/3d-force-graph@1.80.0/dist/3d-force-graph.min.js"></script>
+  <script type="module">
+    // Use esm.sh so three is deduped between 3d-force-graph's internal copy
+    // and our octahedron geometry, avoiding instanceof mismatches.
+    import ForceGraph3D from 'https://esm.sh/3d-force-graph@1.80.0?deps=three@0.180.0';
+    import * as THREE from 'https://esm.sh/three@0.180.0';
+    window.THREE = THREE;
+    window.ForceGraph3D = ForceGraph3D;
+    window.dispatchEvent(new Event('graph-deps-ready'));
+  </script>
   <script defer src="/assets/js/graph.js"></script>
 </head>
 <body>
