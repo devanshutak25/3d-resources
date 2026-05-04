@@ -7,56 +7,67 @@ sections:
     title: "Assets & Libraries"
     file: "01-assets.yml"
     description: "Models, textures, HDRIs, audio, stock — everything downloadable."
+    featured: ["Poly Haven", "Quixel Megascans", "Sketchfab"]
 
   - slug: modeling-sculpting-texturing
     title: "Modeling, Sculpting & Texturing"
     file: "02-modeling.yml"
     description: "Per-DCC learning plus texturing and material authoring toolchain."
+    featured: ["Blender", "Houdini", "Cinema 4D"]
 
   - slug: animation-rigging
     title: "Animation & Rigging"
     file: "03-animation.yml"
     description: "Technical animation, rigging, motion capture."
+    featured: ["Mixamo", "Rokoko", "Cascadeur"]
 
   - slug: lighting-rendering-shaders
     title: "Lighting, Rendering & Shaders"
     file: "04-lighting.yml"
     description: "3D lighting tutorials, rendering theory, shader theory, renderer-specific learning."
+    featured: ["Redshift", "Arnold", "V-Ray"]
 
   - slug: vfx-compositing-virtual-production
     title: "VFX, Compositing & Virtual Production"
     file: "05-vfx.yml"
     description: "VFX tools, compositing, virtual production, tech art."
+    featured: ["Houdini", "Nuke", "EmberGen"]
 
   - slug: motion-graphics-video
     title: "Motion Graphics & Video"
     file: "06-motion-graphics.yml"
     description: "Motion graphics tools and inspiration, video editing, reel music."
+    featured: ["After Effects", "Cavalry", "DaVinci Resolve"]
 
   - slug: game-development
     title: "Game Development"
     file: "07-game-dev.yml"
     description: "Engines, game assets, game design theory, jams, communities."
+    featured: ["Unity", "Unreal Engine", "Godot"]
 
   - slug: art-design-visual-storytelling
     title: "Art, Design & Visual Storytelling"
     file: "08-art-design.yml"
     description: "Concept art, composition, color, typography, photography, cinematography, fundamentals."
+    featured: ["Photoshop", "Procreate", "Krita"]
 
   - slug: ai-ml-for-cg
     title: "AI & Machine Learning for CG"
     file: "09-ai-ml.yml"
     description: "Generative AI and ML tools across image, video, 3D, texture, audio."
+    featured: ["ComfyUI", "Stable Diffusion", "Runway"]
 
   - slug: tools-pipeline-utilities
     title: "Tools, Pipeline & Utilities"
     file: "10-tools-pipeline.yml"
     description: "Viewers, converters, USD, plugin marketplaces, pipeline standards."
+    featured: ["USD", "RealityCapture", "RizomUV"]
 
   - slug: learning-community-industry
     title: "Learning, Community & Industry"
     file: "11-learning-community.yml"
     description: "Cross-cutting learning, communities, inspiration, industry trends and career."
+    featured: ["ArtStation", "80 Level", "fxguide"]
 
   - slug: software-reference
     title: "Software Reference"

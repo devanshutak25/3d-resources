@@ -7,7 +7,7 @@ Implementation-agnostic. Source of truth for behavior.
 
 - **Round 1 (§1–§17):** ✅ implemented 2026-05-04 — see `_site/`, `assets/js/filter.js`, `assets/css/style.css`, `scripts/render.js`, `data/09-ai-ml.yml`.
 - **Round 2 P0 (A1, A2, A3, B1, B2, B3, B7):** ✅ implemented 2026-05-04 — see `assets/js/filter.js`, `scripts/build-html.js`, `scripts/render.js`, `assets/css/style.css`, `schema/entry.schema.json`, and data fixes in `data/01-assets/*`, `data/02-modeling/*`, `data/12-software-reference/*`.
-- **Round 2 P1 (A4, A5, A6, A9, B4, B5):** ✅ implemented 2026-05-04 — see `scripts/render.js`, `scripts/build-html.js`, `assets/js/filter.js`, `assets/css/style.css`.
+- **Round 2 P1 (A4, A5, A6, A9, B4, B5):** ✅ implemented 2026-05-04 — see `scripts/render.js`, `scripts/build-html.js`, `assets/js/filter.js`, `assets/css/style.css`. (B4 deferred sub-piece — featured tool names per top-level ToC entry — completed 2026-05-04 via `data/sections.yml` `featured:` field + `.toc-featured` rendering.)
 - **Round 2 P2 (A7, A8, B6, C1, C2, C3):** ✅ implemented 2026-05-04 — see `assets/css/style.css`, `assets/js/filter.js`, `scripts/build-html.js`.
 - **Round 3 (§D):** ✅ implemented 2026-05-04 — see `data/12-software-reference.yml`, `scripts/render.js`, `assets/css/style.css`.
 
@@ -216,9 +216,9 @@ Confirmed cases to fix:
 - **cineversity.com** → 301 to `cineversity.maxon.net`. Update to canonical URL.
 - (Run a broader scheduled link-check pass beyond just these three — see B7.)
 
-### B4. ToC information scent ✅ 2026-05-04
+### B4. ToC information scent ✅ 2026-05-04 (deferred piece completed 2026-05-04)
 - Each ToC entry shows: section/subcategory name + `(N items)` count + 6–10 word descriptor.
-- Optional: 1–3 representative tool logos or names per top-level entry. *(deferred — descriptor carries the scent)*
+- 1–3 representative tool names per top-level entry — rendered inline in `<summary>` via `.toc-featured` span; data declared in `data/sections.yml` `featured:` field. (Names only; no logo/sprite pipeline.)
 - User should be able to predict scope without clicking in.
 
 ### B5. Surface `dual_listed_in` mirrors as "See also" ✅ 2026-05-04

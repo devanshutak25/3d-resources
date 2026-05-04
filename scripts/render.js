@@ -229,7 +229,11 @@ function buildToC(sections) {
     const sectionId = githubAnchor(section.title);
     // Use <details> for collapsible ToC. Blank lines inside let marked parse the bullets.
     lines.push('<details>');
-    lines.push(`<summary><a href="#${sectionId}">${section.title}</a></summary>`);
+    const featured = Array.isArray(meta.featured) ? meta.featured.slice(0, 3) : [];
+    const featuredSpan = featured.length
+      ? ` <span class="toc-featured">${featured.map(escHtml).join(' · ')}</span>`
+      : '';
+    lines.push(`<summary><a href="#${sectionId}">${section.title}</a>${featuredSpan}</summary>`);
     lines.push('');
     for (const sub of section.subsections || []) {
       lines.push(tocEntryRich(sub, section.slug, 0));

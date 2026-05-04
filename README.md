@@ -12,7 +12,7 @@
 ## Contents
 
 <details>
-<summary><a href="#assets-libraries">Assets & Libraries</a></summary>
+<summary><a href="#assets-libraries">Assets & Libraries</a> <span class="toc-featured">Poly Haven · Quixel Megascans · Sketchfab</span></summary>
 
 - [Model Libraries — Free & General](#model-libraries-free-general) <span class="toc-count">(33 items)</span><br><small class="toc-desc">General-purpose 3D model libraries with free downloads.</small>
 - [Model Libraries — Specialized](#model-libraries-specialized) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Specialty model sources: characters, scans, anatomy, museums.</small>
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><a href="#modeling-sculpting-texturing">Modeling, Sculpting & Texturing</a></summary>
+<summary><a href="#modeling-sculpting-texturing">Modeling, Sculpting & Texturing</a> <span class="toc-featured">Blender · Houdini · Cinema 4D</span></summary>
 
 - [Blender — Plugins & Addons](#blender-plugins-addons) <span class="toc-count">(156 items)</span><br><small class="toc-desc">Notable addons extending Blender.</small>
 - [Blender — Tutorials](#blender-tutorials) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Blender learning resources, beginner to advanced.</small>
@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary><a href="#animation-rigging">Animation & Rigging</a></summary>
+<summary><a href="#animation-rigging">Animation & Rigging</a> <span class="toc-featured">Mixamo · Rokoko · Cascadeur</span></summary>
 
 - [Animation — YouTube Channels](#animation-youtube-channels) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Channels covering 2D/motion animation technique.</small>
 - [Animation — Courses](#animation-courses)<br><small class="toc-desc">Structured animation courses.</small>
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-<summary><a href="#lighting-rendering-shaders">Lighting, Rendering & Shaders</a></summary>
+<summary><a href="#lighting-rendering-shaders">Lighting, Rendering & Shaders</a> <span class="toc-featured">Redshift · Arnold · V-Ray</span></summary>
 
 - [3D Lighting — Fundamentals](#3d-lighting-fundamentals) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Core lighting tutorials for beginners and generalists.</small>
 - [3D Lighting — Redshift-Specific](#3d-lighting-redshift-specific) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Redshift lighting tutorials, primarily in C4D.</small>
@@ -79,7 +79,7 @@
 </details>
 
 <details>
-<summary><a href="#vfx-compositing-virtual-production">VFX, Compositing & Virtual Production</a></summary>
+<summary><a href="#vfx-compositing-virtual-production">VFX, Compositing & Virtual Production</a> <span class="toc-featured">Houdini · Nuke · EmberGen</span></summary>
 
 - [Virtual Production](#virtual-production) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Real-time engines and hardware stacks for virtual production.</small>
 - [Tech Art](#tech-art) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Tech art breakdowns, procedural art, and tutorials.</small>
@@ -87,7 +87,7 @@
 </details>
 
 <details>
-<summary><a href="#motion-graphics-video">Motion Graphics & Video</a></summary>
+<summary><a href="#motion-graphics-video">Motion Graphics & Video</a> <span class="toc-featured">After Effects · Cavalry · DaVinci Resolve</span></summary>
 
 - [Motion Graphics — YouTube Channels](#motion-graphics-youtube-channels) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Motion design learning channels.</small>
 - [Motion Graphics — Courses](#motion-graphics-courses)<br><small class="toc-desc">Structured motion graphics courses.</small>
@@ -100,7 +100,7 @@
 </details>
 
 <details>
-<summary><a href="#game-development">Game Development</a></summary>
+<summary><a href="#game-development">Game Development</a> <span class="toc-featured">Unity · Unreal Engine · Godot</span></summary>
 
 - [Godot — Official Resources](#godot-official-resources) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Official documentation and asset libraries.</small>
 - [Godot — Key Plugins & Addons](#godot-key-plugins-addons) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Essential Godot addons.</small>
@@ -127,7 +127,7 @@
 </details>
 
 <details>
-<summary><a href="#art-design-visual-storytelling">Art, Design & Visual Storytelling</a></summary>
+<summary><a href="#art-design-visual-storytelling">Art, Design & Visual Storytelling</a> <span class="toc-featured">Photoshop · Procreate · Krita</span></summary>
 
 - [Concept Art & Illustration — Channels](#concept-art-illustration-channels) <span class="toc-count">(26 items)</span><br><small class="toc-desc">Channels on concept art, figure drawing, painting.</small>
 - [Concept Art & Illustration — Courses](#concept-art-illustration-courses)<br><small class="toc-desc">Structured concept art and design courses.</small>
@@ -145,7 +145,7 @@
 </details>
 
 <details>
-<summary><a href="#ai-machine-learning-for-cg">AI & Machine Learning for CG</a></summary>
+<summary><a href="#ai-machine-learning-for-cg">AI & Machine Learning for CG</a> <span class="toc-featured">ComfyUI · Stable Diffusion · Runway</span></summary>
 
 - [Machine Learning for CG](#machine-learning-for-cg) <span class="toc-count">(1 item)</span><br><small class="toc-desc">ML fundamentals and courses for CG artists.</small>
 - [Image Generation](#image-generation) <span class="toc-count">(37 items)</span><br><small class="toc-desc">State-of-the-art text-to-image models and platforms.</small>
@@ -161,7 +161,7 @@
 </details>
 
 <details>
-<summary><a href="#tools-pipeline-utilities">Tools, Pipeline & Utilities</a></summary>
+<summary><a href="#tools-pipeline-utilities">Tools, Pipeline & Utilities</a> <span class="toc-featured">USD · RealityCapture · RizomUV</span></summary>
 
 - [USD (Universal Scene Description)](#usd-universal-scene-description) <span class="toc-count">(15 items)</span><br><small class="toc-desc">OpenUSD resources, specifications, and guides.</small>
 - [Scene & Pipeline Tools](#scene-pipeline-tools) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Production pipelines, render management, look dev.</small>
@@ -180,7 +180,7 @@
 </details>
 
 <details>
-<summary><a href="#learning-community-industry">Learning, Community & Industry</a></summary>
+<summary><a href="#learning-community-industry">Learning, Community & Industry</a> <span class="toc-featured">ArtStation · 80 Level · fxguide</span></summary>
 
 - [YouTube Channels — Motion Graphics & Cinema 4D](#youtube-channels-motion-graphics-cinema-4d) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Motion design / C4D focused creators.</small>
 - [YouTube Channels — Blender](#youtube-channels-blender) <span class="toc-count">(43 items)</span><br><small class="toc-desc">Blender-focused creators.</small>

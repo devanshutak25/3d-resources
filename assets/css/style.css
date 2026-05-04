@@ -697,6 +697,14 @@ a[target="_blank"]:not(.repo-pill):not(.skip-link):not(.no-ext-icon):hover::afte
   line-height: 1.35;
 }
 main > details > ul > li .toc-desc { margin-left: 0; }
+.toc-featured {
+  margin-left: 0.5em;
+  font-size: 0.78em;
+  color: var(--text-muted);
+  font-style: italic;
+  font-weight: 400;
+}
+.toc-featured::before { content: "— "; }
 
 /* ---------- B5: dual_listed_in "See also" ---------- */
 .see-also {
