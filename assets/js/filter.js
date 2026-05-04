@@ -79,10 +79,15 @@
     return String(s).replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
   }
 
+  function slugifyId(s) {
+    return String(s || '').toLowerCase().replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-').slice(0, 80);
+  }
+
   function decorate(data) {
     const byUrl = new Map();
     for (const e of data.entries) byUrl.set(normalizeUrl(e.url), e);
 
+    const usedIds = new Set();
     const anchors = mainEl.querySelectorAll('a[href]');
     let idx = 0;
     for (const a of anchors) {
@@ -100,6 +105,30 @@
       el.dataset.workflow = (entry.tags.workflow || []).join(' ');
       el.dataset.output = (entry.tags.output || []).join(' ');
       el.setAttribute('tabindex', '0');
+      // B6: stable id + hover anchor.
+      const base = 'r-' + slugifyId(entry.name || '');
+      let rid = base; let n = 2;
+      while (!base || usedIds.has(rid) || document.getElementById(rid)) { rid = base + '-' + n++; }
+      usedIds.add(rid);
+      el.id = rid;
+      const link = document.createElement('a');
+      link.className = 'row-anchor no-ext-icon';
+      link.href = '#' + rid;
+      link.setAttribute('aria-label', 'Link to this item');
+      link.textContent = '§';
+      link.addEventListener('click', (ev) => {
+        ev.stopPropagation();
+        try { navigator.clipboard && navigator.clipboard.writeText(location.origin + location.pathname + '#' + rid); } catch (e) { /* noop */ }
+      });
+      if (el.tagName === 'TR') {
+        const firstCell = el.querySelector('td');
+        if (firstCell) {
+          firstCell.style.position = firstCell.style.position || 'relative';
+          firstCell.insertBefore(link, firstCell.firstChild);
+        }
+      } else {
+        el.insertBefore(link, el.firstChild);
+      }
       const tagsAll = []
         .concat(entry.tags.platform || [])
         .concat(entry.tags.workflow || [])
@@ -1201,6 +1230,52 @@
 
   // ---------- Init ----------
 
+  // B6: flash a row when it matches the page hash on load or hashchange.
+  function flashHashRow() {
+    const h = (location.hash || '').slice(1);
+    if (!h) return;
+    const id = decodeURIComponent(h);
+    const el = document.getElementById(id);
+    if (!el || !el.dataset || !el.dataset.decorated) return;
+    // Expand parent H2/H3 so the row is actually visible.
+    let p = el.previousElementSibling;
+    let h3 = null, h2 = null;
+    let cur = el;
+    while (cur && cur !== mainEl) {
+      let s = cur.previousElementSibling;
+      while (s) {
+        if (!h3 && s.tagName === 'H3') h3 = s;
+        if (s.tagName === 'H2') { h2 = s; break; }
+        s = s.previousElementSibling;
+      }
+      if (h2) break;
+      cur = cur.parentElement;
+    }
+    if (h3) expandHeading(h3);
+    if (h2) expandHeading(h2);
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        const top = el.getBoundingClientRect().top + window.pageYOffset - 80;
+        smoothScrollTo(top);
+        el.classList.remove('row-flash');
+        void el.offsetWidth;
+        el.classList.add('row-flash');
+        setTimeout(() => el.classList.remove('row-flash'), 1700);
+      });
+    });
+  }
+
+  // C2: W key wireframe easter egg.
+  function setupWireframeEgg() {
+    document.addEventListener('keydown', (ev) => {
+      if (ev.key !== 'w' && ev.key !== 'W') return;
+      if (ev.metaKey || ev.ctrlKey || ev.altKey) return;
+      const t = ev.target;
+      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+      document.body.classList.toggle('wireframe');
+    });
+  }
+
   function init(data) {
     mainEl = document.querySelector('main') || document.body;
     decorate(data);
@@ -1211,6 +1286,7 @@
     setupSeeAlsoClickHandler();
     setupScrollToTop();
     setupKeyboardNav();
+    setupWireframeEgg();
 
     // B1: restore filter/search state from URL hash
     const restored = restoreStateFromHash();
@@ -1233,6 +1309,10 @@
       applyFilters();
       hashWriteSuspended = false;
     });
+
+    // B6: flash row matching hash on load + hashchange.
+    flashHashRow();
+    window.addEventListener('hashchange', flashHashRow);
   }
 
   if (document.readyState === 'loading') {

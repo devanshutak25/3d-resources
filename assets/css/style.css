@@ -263,7 +263,7 @@ main > details > ul > li {
   --bg-tertiary: #161b22;
   --text: #e6edf3;
   --text-muted: #8b949e;
-  --text-subtle: #6e7681;
+  --text-subtle: #8b929c;
   --link: #58a6ff;
   --link-hover: #79c0ff;
   --border: #30363d;
@@ -751,6 +751,61 @@ main > details > ul > li .toc-desc { margin-left: 0; }
 }
 @media (max-width: 768px) {
   #scroll-top { right: 0.85rem; bottom: 0.85rem; width: 2.4rem; height: 2.4rem; }
+}
+
+/* ---------- C1: section icons ---------- */
+.section-icon {
+  display: inline-block;
+  margin-right: 0.5rem;
+  font-size: 0.95em;
+  color: var(--text-muted);
+  vertical-align: -0.05em;
+}
+
+/* ---------- B6: item-level deep links ---------- */
+[data-decorated] {
+  position: relative;
+}
+.row-anchor {
+  position: absolute;
+  left: -1.1rem;
+  top: 0.15rem;
+  width: 1rem;
+  text-align: center;
+  color: var(--text-subtle);
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity 0.15s, color 0.15s;
+  font-weight: 700;
+  user-select: none;
+}
+li[data-decorated]:hover .row-anchor,
+tr[data-decorated]:hover .row-anchor,
+.row-anchor:focus-visible {
+  opacity: 1;
+}
+.row-anchor:hover { color: var(--link); }
+@media (max-width: 768px) {
+  .row-anchor { display: none; }
+}
+@keyframes row-flash {
+  0%   { background: rgba(255, 243, 163, 0.0); }
+  15%  { background: rgba(255, 243, 163, 0.55); }
+  100% { background: rgba(255, 243, 163, 0.0); }
+}
+[data-decorated].row-flash {
+  animation: row-flash 1.6s ease-out;
+}
+
+/* ---------- C2: wireframe easter egg ---------- */
+body.wireframe [data-decorated],
+body.wireframe h2,
+body.wireframe h3,
+body.wireframe table,
+body.wireframe #filter-bar,
+body.wireframe main > details {
+  outline: 1px dashed currentColor;
+  outline-offset: 1px;
 }
 
 /* ---------- Reduced-motion override ---------- */

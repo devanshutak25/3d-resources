@@ -125,13 +125,34 @@ const jsonLd = {
 const md = fs.readFileSync('README.md', 'utf8');
 let html = marked.parse(md);
 
+// C1: per-discipline icons keyed by section anchor (slugified section title).
+const SECTION_ICONS = {
+  'assets-libraries': 'package-variant',
+  'modeling-sculpting-texturing': 'cube-outline',
+  'animation-rigging': 'vector-curve',
+  'lighting-rendering-shaders': 'lightbulb-outline',
+  'vfx-compositing-virtual-production': 'creation',
+  'motion-graphics-video': 'play-box-outline',
+  'game-development': 'gamepad-variant-outline',
+  'art-design-visual-storytelling': 'palette-outline',
+  'ai-machine-learning-for-cg': 'brain',
+  'tools-pipeline-utilities': 'tools',
+  'learning-community-industry': 'school-outline',
+  'software-reference': 'application-outline'
+};
+
 // Inject IDs on headings. A4: H2/H3 also get tabindex="-1" so ToC links can
 // move keyboard focus to the heading without putting them in the tab order.
+// C1: prepend discipline icon on H2 section headings.
 html = html.replace(/<(h[1-6])>(.*?)<\/\1>/g, (m, tag, inner) => {
   const textOnly = inner.replace(/<[^>]+>/g, '');
   const id = slugify(textOnly);
   const extra = (tag === 'h2' || tag === 'h3') ? ' tabindex="-1"' : '';
-  return `<${tag} id="${id}"${extra}>${inner}</${tag}>`;
+  let body = inner;
+  if (tag === 'h2' && SECTION_ICONS[id]) {
+    body = `<i class="mdi mdi-${SECTION_ICONS[id]} section-icon" aria-hidden="true"></i>${inner}`;
+  }
+  return `<${tag} id="${id}"${extra}>${body}</${tag}>`;
 });
 
 // A5: heading hierarchy assertion — fail build if h4/h5/h6 appears as a

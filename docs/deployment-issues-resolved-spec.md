@@ -8,7 +8,7 @@ Implementation-agnostic. Source of truth for behavior.
 - **Round 1 (§1–§17):** ✅ implemented 2026-05-04 — see `_site/`, `assets/js/filter.js`, `assets/css/style.css`, `scripts/render.js`, `data/09-ai-ml.yml`.
 - **Round 2 P0 (A1, A2, A3, B1, B2, B3, B7):** ✅ implemented 2026-05-04 — see `assets/js/filter.js`, `scripts/build-html.js`, `scripts/render.js`, `assets/css/style.css`, `schema/entry.schema.json`, and data fixes in `data/01-assets/*`, `data/02-modeling/*`, `data/12-software-reference/*`.
 - **Round 2 P1 (A4, A5, A6, A9, B4, B5):** ✅ implemented 2026-05-04 — see `scripts/render.js`, `scripts/build-html.js`, `assets/js/filter.js`, `assets/css/style.css`.
-- **Round 2 P2 (A7, A8, B6, C1, C2, C3):** pending.
+- **Round 2 P2 (A7, A8, B6, C1, C2, C3):** ✅ implemented 2026-05-04 — see `assets/css/style.css`, `assets/js/filter.js`, `scripts/build-html.js`.
 - **Round 3 (§D):** pending.
 
 ---
@@ -181,14 +181,14 @@ Only accepted items below; rejected items omitted.
 - All emoji or decorative icons (📖, 🔗, ⚙️, etc.) wrapped with `aria-hidden="true"` so screen readers don't announce "open book emoji" before each entry.
 - WCAG 1.3.1.
 
-### A7. Color contrast verification pass
+### A7. Color contrast verification pass ✅ 2026-05-04
 - Verify all body text ≥ 4.5:1.
 - Verify large text ≥ 3:1.
 - Verify UI components and tag pills ≥ 3:1.
 - Particular suspicion: muted description text (often `#888`-on-white ≈ 3.5:1).
 - WCAG 1.4.3, 1.4.11.
 
-### A8. `lang="en"` on `<html>`
+### A8. `lang="en"` on `<html>` ✅ 2026-05-04
 - Verify `<html lang="en">` is present so screen readers select correct voice.
 - WCAG 3.1.1.
 
@@ -226,7 +226,7 @@ Confirmed cases to fix:
 - Render an inline "See also: [related entry]" link on every item that has `dual_listed_in` populated.
 - Example: Houdini course in Game Dev → links to Houdini software entry; Houdini plugin in Software Reference → links to Houdini courses.
 
-### B6. Item-level deep links
+### B6. Item-level deep links ✅ 2026-05-04
 - Every resource row gets a stable `id`.
 - Add a hover-anchor (GitHub-style `§`) so users can copy a link to that specific item.
 - Sharing in Discord/Slack lands on the exact item, ideally highlighted briefly on load.
@@ -239,7 +239,7 @@ Confirmed cases to fix:
 
 ## C. Delight (Accepted)
 
-### C1. Per-discipline section icons (monochrome SVG sprite)
+### C1. Per-discipline section icons (monochrome SVG sprite) ✅ 2026-05-04
 - Replace generic emoji glyphs with discipline-specific line icons:
   - Modeling → wireframe cube
   - Animation → bezier curve
@@ -251,14 +251,14 @@ Confirmed cases to fix:
 - Single inline SVG `<symbol>` sprite, < 2 KB, one request.
 - Place to the left of each H2 section heading.
 
-### C2. `W` key easter egg — wireframe mode
+### C2. `W` key easter egg — wireframe mode ✅ 2026-05-04
 - Pressing `W` toggles a `1px dashed` outline on every card across the page.
 - Press `W` again to exit.
 - No on-screen hint, no documentation — let people discover it.
 - Maya/Blender wireframe shortcut; pure insider joke for the CG audience.
 - Implementation: ~10 lines JS, no layout shift, no paint until triggered.
 
-### C3. Smarter no-results copy
+### C3. Smarter no-results copy ✅ 2026-05-04
 - When search returns zero matches, show one of (rotated):
   - *"No hits. Try a broader term — 'retopo' instead of 'quad-remesher'."*
   - *"Nothing yet. If it exists and it's good, [open an issue]."*
@@ -272,7 +272,7 @@ Confirmed cases to fix:
 
 - **P0 (correctness/trust):** A1, A2, A3, B1, B2, B3, B7 ✅
 - **P1 (a11y + scent):** A4, A5, A6, A9, B4, B5 ✅
-- **P2 (hygiene + delight):** A7, A8, B6, C1, C2, C3
+- **P2 (hygiene + delight):** A7, A8, B6, C1, C2, C3 ✅
 
 ---
 
