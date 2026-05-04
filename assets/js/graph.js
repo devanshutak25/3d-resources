@@ -68,7 +68,10 @@
 
   function actionVerb(n) {
     if (n.kind === 'entry') return n.url ? 'click to open ↗' : 'no link';
-    if (n.kind === 'subsection') return state.expandedSubs.has(n.id) ? 'click to collapse' : 'click to expand entries';
+    if (n.kind === 'subsection') {
+      if (state.enabledKinds.has('entry')) return 'click to focus camera';
+      return state.expandedSubs.has(n.id) ? 'click to collapse' : 'click to expand entries';
+    }
     if (n.kind === 'section') return 'click to focus camera';
     if (n.kind === 'tag') return 'click to focus camera';
     return '';
@@ -91,21 +94,18 @@
   function buildVisibleData() {
     const visible = new Set();
     for (const n of state.raw.nodes) {
-      if (!state.enabledKinds.has(n.kind)) continue;
       if (n.kind === 'entry') {
-        // Two paths: (a) Entries kind enabled = show all; (b) parent subsection expanded
-        if (state.enabledKinds.has('entry')) {
-          visible.add(n.id);
-          continue;
-        }
+        if (state.enabledKinds.has('entry')) { visible.add(n.id); continue; }
         const adj = state.nodeAdj.get(n.id) || new Set();
         let shown = false;
         for (const nb of adj) {
           const nbNode = state.nodesById.get(nb);
           if (nbNode && nbNode.kind === 'subsection' && state.expandedSubs.has(nb)) { shown = true; break; }
         }
-        if (!shown) continue;
+        if (shown) visible.add(n.id);
+        continue;
       }
+      if (!state.enabledKinds.has(n.kind)) continue;
       visible.add(n.id);
     }
     const nodes = state.raw.nodes.filter(n => visible.has(n.id));
@@ -379,15 +379,15 @@
     crumb.classList.add('visible');
   }
 
-  function focusNode(nodeId) {
+  function focusNode(nodeId, distance) {
     const node = state.nodesById.get(nodeId);
     if (!node) return;
     if (node.x == null) {
       // not in current layout (filtered out) — re-feed and try after a frame
-      requestAnimationFrame(() => focusNode(nodeId));
+      requestAnimationFrame(() => focusNode(nodeId, distance));
       return;
     }
-    const distance = 90;
+    if (distance == null) distance = 90;
     const distRatio = 1 + distance / Math.hypot(node.x || 1, node.y || 1, node.z || 1);
     state.Graph.cameraPosition(
       { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio },
@@ -811,8 +811,23 @@
         setHovered(node);
       })
       .onNodeClick(node => {
-        if (node.kind === 'subsection') toggleExpandSub(node.id);
-        focusNode(node.id);
+        const willExpand = node.kind === 'subsection'
+          && !state.enabledKinds.has('entry')
+          && !state.expandedSubs.has(node.id);
+        if (node.kind === 'subsection' && !state.enabledKinds.has('entry')) toggleExpandSub(node.id);
+        if (willExpand) {
+          // Let the force layout place the newly-added entries before we
+          // frame, and zoom out wide enough to fit the cloud.
+          const cnt = node.entryCount || 0;
+          const dist = Math.max(140, 80 + Math.sqrt(cnt) * 22);
+          setTimeout(() => focusNode(node.id, dist), 350);
+          setSelected(node);
+          showInfo(node);
+          updateBreadcrumb();
+          history.replaceState(null, '', '#' + encodeURIComponent(node.id));
+        } else {
+          focusNode(node.id);
+        }
         if (node.kind === 'entry' && node.url) {
           window.open(node.url, '_blank', 'noopener,noreferrer');
           announce(`Opened ${node.label} in new tab`);
