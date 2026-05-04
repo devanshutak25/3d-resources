@@ -182,7 +182,8 @@ main > details > summary::before {
   display: inline-block;
   width: 1em;
   color: var(--text-muted);
-  transition: transform 0.15s ease;
+  transition: transform 0.22s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform;
 }
 main > details[open] > summary::before { transform: rotate(90deg); }
 main > details > summary:hover { background: var(--bg-secondary); border-radius: 4px; }
@@ -420,13 +421,19 @@ footer a:hover { color: var(--link); }
 }
 .collapsible-heading::before {
   content: '▾';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  line-height: 1;
+  text-align: center;
   position: absolute;
   left: 0;
-  top: 0;
+  top: 0.35em;
   font-size: 0.85em;
   color: var(--text-muted);
-  transition: transform 0.18s ease;
-  transform-origin: 0.4em 0.6em;
+  transform-origin: 50% 50%;
+  transition: transform 0.22s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform;
 }
 .collapsible-heading[data-collapsed]::before { transform: rotate(-90deg); }
 .collapsible-heading:hover::before { color: var(--text); }

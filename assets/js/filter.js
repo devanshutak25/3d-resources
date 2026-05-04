@@ -739,20 +739,87 @@
 
   // ---------- §1/§10 Collapsible headings ----------
 
-  function setCollapsed(heading, collapsed) {
+  const ANIM_MS = 200;
+
+  function clearAnim(el) {
+    el.style.maxHeight = '';
+    el.style.overflow = '';
+    el.style.transition = '';
+    el.style.willChange = '';
+  }
+
+  function animateClose(range) {
+    const targets = range.filter(el => el.style.display !== 'none' && !el.hasAttribute('data-hidden-by-filter'));
+    if (!targets.length) return;
+    for (const el of targets) {
+      const h = el.scrollHeight;
+      el.style.maxHeight = h + 'px';
+      el.style.overflow = 'hidden';
+      el.style.willChange = 'max-height';
+    }
+    // Force reflow before transition starts.
+    void targets[0].offsetHeight;
+    for (const el of targets) {
+      el.style.transition = `max-height ${ANIM_MS}ms cubic-bezier(0.4, 0, 0.2, 1)`;
+      el.style.maxHeight = '0px';
+    }
+    setTimeout(() => {
+      for (const el of targets) {
+        el.style.display = 'none';
+        clearAnim(el);
+      }
+    }, ANIM_MS + 30);
+  }
+
+  function animateOpen(range) {
+    const targets = range.filter(el => !el.hasAttribute('data-hidden-by-filter'));
+    if (!targets.length) return;
+    // Make visible at 0 height, measure target, then transition to it.
+    const heights = [];
+    for (const el of targets) {
+      el.style.display = '';
+      el.style.maxHeight = 'none';
+      heights.push(el.scrollHeight);
+    }
+    for (let i = 0; i < targets.length; i++) {
+      const el = targets[i];
+      el.style.maxHeight = '0px';
+      el.style.overflow = 'hidden';
+      el.style.willChange = 'max-height';
+    }
+    void targets[0].offsetHeight;
+    for (let i = 0; i < targets.length; i++) {
+      const el = targets[i];
+      el.style.transition = `max-height ${ANIM_MS}ms cubic-bezier(0.4, 0, 0.2, 1)`;
+      el.style.maxHeight = heights[i] + 'px';
+    }
+    setTimeout(() => {
+      for (const el of targets) clearAnim(el);
+    }, ANIM_MS + 30);
+  }
+
+  function setCollapsed(heading, collapsed, animate) {
     const level = heading.tagName;
     const range = rangeFromHeading(heading, level);
     if (collapsed) {
       heading.setAttribute('data-collapsed', 'true');
-      for (const el of range) {
-        el.setAttribute('data-user-collapsed', '1');
-        if (!el.hasAttribute('data-hidden-by-filter')) el.style.display = 'none';
+      if (animate) {
+        animateClose(range);
+      } else {
+        for (const el of range) {
+          if (!el.hasAttribute('data-hidden-by-filter')) el.style.display = 'none';
+        }
       }
+      for (const el of range) el.setAttribute('data-user-collapsed', '1');
     } else {
       heading.removeAttribute('data-collapsed');
-      for (const el of range) {
-        el.removeAttribute('data-user-collapsed');
-        if (!el.hasAttribute('data-hidden-by-filter')) el.style.display = '';
+      for (const el of range) el.removeAttribute('data-user-collapsed');
+      if (animate) {
+        animateOpen(range);
+      } else {
+        for (const el of range) {
+          if (!el.hasAttribute('data-hidden-by-filter')) el.style.display = '';
+        }
       }
     }
   }
@@ -780,7 +847,7 @@
       const toggle = (ev) => {
         if (ev.target && ev.target.closest && ev.target.closest('a')) return;
         const nowCollapsed = !h.hasAttribute('data-collapsed');
-        setCollapsed(h, nowCollapsed);
+        setCollapsed(h, nowCollapsed, true);
         h.setAttribute('aria-expanded', nowCollapsed ? 'false' : 'true');
         // User manual toggle: clear from autoExpanded.
         autoExpanded.delete(h);
@@ -835,6 +902,49 @@
       }
     }
     requestAnimationFrame(step);
+  }
+
+  // ToC details open/close animation.
+  function setupTocAnimation() {
+    const contents = document.getElementById('contents');
+    if (!contents) return;
+    for (let n = contents.nextElementSibling; n && n.tagName !== 'H2'; n = n.nextElementSibling) {
+      if (n.tagName !== 'DETAILS') continue;
+      wireTocDetailsAnim(n);
+    }
+  }
+
+  function wireTocDetailsAnim(details) {
+    const summary = details.querySelector(':scope > summary');
+    const ul = details.querySelector(':scope > ul');
+    if (!summary || !ul) return;
+    summary.addEventListener('click', (ev) => {
+      // Anchor clicks are handled by setupTocClickHandler (smooth scroll + section open).
+      if (ev.target.closest && ev.target.closest('a')) return;
+      ev.preventDefault();
+      if (details.open) {
+        const h = ul.scrollHeight;
+        ul.style.maxHeight = h + 'px';
+        ul.style.overflow = 'hidden';
+        ul.style.willChange = 'max-height';
+        void ul.offsetHeight;
+        ul.style.transition = `max-height ${ANIM_MS}ms cubic-bezier(0.4, 0, 0.2, 1)`;
+        ul.style.maxHeight = '0px';
+        setTimeout(() => {
+          details.open = false;
+          clearAnim(ul);
+        }, ANIM_MS + 30);
+      } else {
+        details.open = true;
+        ul.style.maxHeight = '0px';
+        ul.style.overflow = 'hidden';
+        ul.style.willChange = 'max-height';
+        void ul.offsetHeight;
+        ul.style.transition = `max-height ${ANIM_MS}ms cubic-bezier(0.4, 0, 0.2, 1)`;
+        ul.style.maxHeight = ul.scrollHeight + 'px';
+        setTimeout(() => { clearAnim(ul); }, ANIM_MS + 30);
+      }
+    });
   }
 
   // §17 ToC click: clear filters + jump.
@@ -952,7 +1062,7 @@
       if (ev.key === 'ArrowRight' && focused && (focused.tagName === 'H2' || focused.tagName === 'H3')) {
         if (focused.hasAttribute('data-collapsed')) {
           ev.preventDefault();
-          setCollapsed(focused, false);
+          setCollapsed(focused, false, true);
           focused.setAttribute('aria-expanded', 'true');
         }
         return;
@@ -960,7 +1070,7 @@
       if (ev.key === 'ArrowLeft' && focused && (focused.tagName === 'H2' || focused.tagName === 'H3')) {
         if (!focused.hasAttribute('data-collapsed') && !EXCLUDED_H2_IDS.has(focused.id)) {
           ev.preventDefault();
-          setCollapsed(focused, true);
+          setCollapsed(focused, true, true);
           focused.setAttribute('aria-expanded', 'false');
         }
         return;
@@ -982,6 +1092,7 @@
     decorate(data);
     buildUI();
     setupCollapsibleHeadings();
+    setupTocAnimation();
     setupTocClickHandler();
     setupKeyboardNav();
   }
