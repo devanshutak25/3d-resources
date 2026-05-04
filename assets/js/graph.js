@@ -593,6 +593,13 @@
           updateBreadcrumb();
           history.replaceState(null, '', location.pathname);
         }
+      } else if ((ev.key === 'f' || ev.key === 'F') && document.activeElement !== input && !ev.metaKey && !ev.ctrlKey && !ev.altKey) {
+        const t = ev.target;
+        if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+        if (state.selectedNode) {
+          ev.preventDefault();
+          focusNode(state.selectedNode.id);
+        }
       }
     });
   }
