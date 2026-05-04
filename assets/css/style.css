@@ -840,6 +840,17 @@ tr[data-decorated]:hover .row-anchor,
 [data-decorated].row-flash {
   animation: row-flash 1.6s ease-out;
 }
+@keyframes header-flash {
+  0%   { background: rgba(255, 243, 163, 0.0); }
+  15%  { background: rgba(255, 243, 163, 0.75); }
+  100% { background: rgba(255, 243, 163, 0.0); }
+}
+h2.row-flash,
+h3.row-flash,
+.mirror-provenance.row-flash {
+  animation: header-flash 1.6s ease-out;
+  border-radius: 4px;
+}
 
 /* ---------- C2: wireframe easter egg ---------- */
 body.wireframe [data-decorated],

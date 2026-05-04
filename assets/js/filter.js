@@ -964,10 +964,15 @@
     }
   }
 
-  function smoothScrollTo(targetY, duration) {
+  function smoothScrollTo(targetY, duration, onDone) {
+    if (typeof duration === 'function') { onDone = duration; duration = undefined; }
     const startY = window.pageYOffset;
     const delta = targetY - startY;
-    if (Math.abs(delta) < 2) { window.scrollTo(0, targetY); return; }
+    if (Math.abs(delta) < 2) {
+      window.scrollTo(0, targetY);
+      if (onDone) onDone(false);
+      return;
+    }
     const d = duration || Math.min(800, 250 + Math.abs(delta) * 0.4);
     const t0 = performance.now();
     const ease = (t) => 1 - Math.pow(1 - t, 3);
@@ -979,6 +984,7 @@
       if (cancelled) {
         window.removeEventListener('wheel', onWheel);
         window.removeEventListener('touchstart', onWheel);
+        if (onDone) onDone(true);
         return;
       }
       const t = Math.min(1, (now - t0) / d);
@@ -987,9 +993,18 @@
       else {
         window.removeEventListener('wheel', onWheel);
         window.removeEventListener('touchstart', onWheel);
+        if (onDone) onDone(false);
       }
     }
     requestAnimationFrame(step);
+  }
+
+  function flashElement(el) {
+    if (!el) return;
+    el.classList.remove('row-flash');
+    void el.offsetWidth;
+    el.classList.add('row-flash');
+    setTimeout(() => el.classList.remove('row-flash'), 1700);
   }
 
   // ToC details open/close animation.
@@ -1202,11 +1217,14 @@
     update();
   }
 
-  // B5: "See also" cross-links must expand the target subsection (and its
-  // parent H2 if collapsed) before smooth-scrolling to it.
+  // B5: "See also" + mirror "Also in" cross-links must expand the target
+  // subsection (and its parent H2 if collapsed) before smooth-scrolling, then
+  // flash the destination so the eye lands on it.
   function setupSeeAlsoClickHandler() {
     mainEl.addEventListener('click', (ev) => {
-      const a = ev.target.closest && ev.target.closest('.see-also a[href^="#"]');
+      const a = ev.target.closest && ev.target.closest(
+        '.see-also a[href^="#"], .mirror-provenance a[href^="#"]'
+      );
       if (!a || !mainEl.contains(a)) return;
       const id = decodeURIComponent(a.getAttribute('href').slice(1));
       const target = document.getElementById(id);
@@ -1218,7 +1236,7 @@
       requestAnimationFrame(() => {
         requestAnimationFrame(() => {
           const top = target.getBoundingClientRect().top + window.pageYOffset - 8;
-          smoothScrollTo(top);
+          smoothScrollTo(top, undefined, () => flashElement(target));
           try { target.focus({ preventScroll: true }); } catch (e) { target.focus(); }
         });
       });
