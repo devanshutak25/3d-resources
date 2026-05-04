@@ -313,23 +313,23 @@ button {
   transition: color 0.15s ease;
 }
 .g-panel .legend-row[aria-pressed="true"] .glyph { color: var(--g-accent); }
-.g-panel .legend-row .glyph.glyph-square-fill {
+.g-panel .legend-row .glyph.glyph-hexagon,
+.g-panel .legend-row .glyph.glyph-square,
+.g-panel .legend-row .glyph.glyph-triangle,
+.g-panel .legend-row .glyph.glyph-pentagon {
   background: currentColor;
 }
-.g-panel .legend-row .glyph.glyph-square-outline {
-  background: transparent;
-  border: 1.5px solid currentColor;
-  border-radius: 50%;
-  box-sizing: border-box;
+.g-panel .legend-row .glyph.glyph-hexagon {
+  clip-path: polygon(25% 6.7%, 75% 6.7%, 100% 50%, 75% 93.3%, 25% 93.3%, 0% 50%);
 }
-.g-panel .legend-row .glyph.glyph-circle-fill {
-  background: currentColor;
-  border-radius: 50%;
+.g-panel .legend-row .glyph.glyph-square {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 }
-.g-panel .legend-row .glyph.glyph-hash::before {
-  content: '#';
-  color: currentColor;
-  font-weight: 600;
+.g-panel .legend-row .glyph.glyph-triangle {
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+}
+.g-panel .legend-row .glyph.glyph-pentagon {
+  clip-path: polygon(50% 0, 100% 38%, 82% 100%, 18% 100%, 0 38%);
 }
 .g-panel details.sections-block { margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.06); }
 .g-panel details.sections-block > summary {

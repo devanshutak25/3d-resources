@@ -83,8 +83,8 @@
   // Target render radius in graph-space units. Used directly for custom meshes
   // and cubed for 3d-force-graph's default-sphere nodeVal mapping.
   function radiusOf(n) {
-    if (n.kind === 'section') return 14;
-    if (n.kind === 'subsection') return Math.max(6, 6 + Math.min(10, Math.sqrt(n.entryCount || 0) * 1.2));
+    if (n.kind === 'section') return 10.5;
+    if (n.kind === 'subsection') return 0.75 * Math.max(6, 6 + Math.min(10, Math.sqrt(n.entryCount || 0) * 1.2));
     if (n.kind === 'tag') return 3;
     return 2; // entry
   }
@@ -441,10 +441,10 @@
   }
 
   const KIND_GLYPH = {
-    section: 'glyph-square-fill',
-    subsection: 'glyph-square-outline',
-    entry: 'glyph-circle-fill',
-    tag: 'glyph-hash'
+    section: 'glyph-hexagon',
+    subsection: 'glyph-square',
+    entry: 'glyph-triangle',
+    tag: 'glyph-pentagon'
   };
 
   function renderLegend() {
