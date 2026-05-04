@@ -14,3 +14,16 @@ entries:
         - games
       skill:
         - beginner
+  - name: Polyglot Gamedev Mastersheet
+    url: https://github.com/PolyglotGamedev/mastersheet
+    description: Massive community-curated master list of game dev resources across engines, art, audio, and design.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Mega-list
+      - Curated
+    url_last_verified: '2026-05-04'
+    url_status: ok
+    tags:
+      output:
+        - games

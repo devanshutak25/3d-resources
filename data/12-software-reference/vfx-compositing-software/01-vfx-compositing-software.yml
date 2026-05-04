@@ -283,6 +283,27 @@ entries:
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
+  - name: TouchDesigner
+    url: https://derivative.ca/
+    description: Node-based real-time visual programming for interactive media, installations, and live visuals.
+    license: Freemium
+    entry_type: software
+    best_for: Interactive installations, live visuals, projection mapping
+    tags:
+      output:
+        - motion-graphics
+        - broadcast
+      tech:
+        - real-time
+        - node-based
+        - procedural
+    readme_tags:
+      - Real-time
+      - Node-based
+    url_last_verified: '2026-05-04'
+    url_status: ok
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-tools
   - name: Magic Animator
     url: https://magicanimator.com/
     description: Web-based animation creator.

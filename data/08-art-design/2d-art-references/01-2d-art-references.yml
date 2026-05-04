@@ -55,3 +55,18 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     tags: {}
+  - name: National Gallery of Art (NGA)
+    url: https://www.nga.gov/
+    description: Open-access collection of historical paintings, drawings, and prints — high-res downloads for reference.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Open Access
+      - Art History
+    tags:
+      platform:
+        - web
+      workflow:
+        - reference
+    url_last_verified: '2026-05-04'
+    url_status: ok

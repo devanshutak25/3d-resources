@@ -95,3 +95,19 @@ entries:
     url_status: ok
     dual_listed_in:
       - vfx-compositing-virtual-production/virtual-production
+  - name: grandMA3
+    url: https://www.malighting.com/grandma3/
+    description: Industry-standard lighting control console and software for live shows, theatre, and broadcast.
+    license: Paid
+    entry_type: software
+    best_for: Stage lighting control, show programming
+    tags:
+      output:
+        - broadcast
+      tech:
+        - real-time
+    readme_tags:
+      - Lighting Console
+      - Show Control
+    url_last_verified: '2026-05-04'
+    url_status: ok
