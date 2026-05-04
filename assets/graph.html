@@ -21,8 +21,10 @@
     // and our octahedron geometry, avoiding instanceof mismatches.
     import ForceGraph3D from 'https://esm.sh/3d-force-graph@1.80.0?deps=three@0.180.0';
     import * as THREE from 'https://esm.sh/three@0.180.0';
+    import SpriteText from 'https://esm.sh/three-spritetext@1.10.0?deps=three@0.180.0';
     window.THREE = THREE;
     window.ForceGraph3D = ForceGraph3D;
+    window.SpriteText = SpriteText;
     window.dispatchEvent(new Event('graph-deps-ready'));
   </script>
   <script defer src="/assets/js/graph.js"></script>

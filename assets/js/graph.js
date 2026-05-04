@@ -66,12 +66,15 @@
     return SECTION_COLORS[n.section] || '#888';
   }
 
-  function sizeOf(n) {
-    if (n.kind === 'section') return 190;
-    if (n.kind === 'subsection') return Math.max(60, 60 + Math.min(200, Math.sqrt(n.entryCount || 0) * 14));
-    if (n.kind === 'tag') return 8;
-    return 4; // entry
+  // Target render radius in graph-space units. Used directly for custom meshes
+  // and cubed for 3d-force-graph's default-sphere nodeVal mapping.
+  function radiusOf(n) {
+    if (n.kind === 'section') return 14;
+    if (n.kind === 'subsection') return Math.max(6, 6 + Math.min(10, Math.sqrt(n.entryCount || 0) * 1.2));
+    if (n.kind === 'tag') return 3;
+    return 2; // entry
   }
+  function sizeOf(n) { return radiusOf(n); }
 
   function buildVisibleData() {
     const visible = new Set();
@@ -118,20 +121,72 @@
   }
   function linkWidth(link) { return state.highlightLinks.has(link) ? 0.65 : 0.3; }
 
-  // Tags rendered as octahedrons (other kinds use default sphere by returning null).
-  function makeTagOctahedron(n) {
-    if (n.kind !== 'tag' || !window.THREE) return null;
-    const radius = sizeOf(n) * 0.5;
-    const geom = new window.THREE.OctahedronGeometry(radius, 0);
-    const mat = new window.THREE.MeshLambertMaterial({
-      color: TAG_COLOR,
-      transparent: true,
-      opacity: 0.95,
-      flatShading: true
-    });
-    const mesh = new window.THREE.Mesh(geom, mat);
-    n.__mat = mat;
-    return mesh;
+  function makeLabelSprite(text, opts) {
+    if (!window.SpriteText) return null;
+    const sprite = new window.SpriteText(text);
+    sprite.color = '#ffffff';
+    sprite.backgroundColor = (opts && opts.bg) || 'rgba(0,0,0,0.72)';
+    sprite.padding = (opts && opts.padding) || 3;
+    sprite.borderRadius = 4;
+    sprite.fontFace = 'Inter, sans-serif';
+    sprite.fontWeight = (opts && opts.weight) || '600';
+    sprite.textHeight = (opts && opts.textHeight) || 22;
+    return sprite;
+  }
+
+  // All nodes get a custom Three object so we can compose sphere + label + custom shape.
+  function makeNodeObject(n) {
+    const T = window.THREE;
+    if (!T) return null;
+    const radius = radiusOf(n);
+
+    if (n.kind === 'tag') {
+      const geom = new T.OctahedronGeometry(radius, 0);
+      const mat = new T.MeshLambertMaterial({ color: TAG_COLOR, transparent: true, opacity: 0.95, flatShading: true });
+      const mesh = new T.Mesh(geom, mat);
+      n.__mat = mat; n.__obj = mesh; n.__radius = radius;
+      return mesh;
+    }
+
+    const sphereGeom = new T.SphereGeometry(radius, 16, 12);
+    const sphereMat = new T.MeshLambertMaterial({ color: colorOf(n), transparent: true, opacity: 0.95 });
+    const sphere = new T.Mesh(sphereGeom, sphereMat);
+    n.__mat = sphereMat; n.__radius = radius;
+
+    if (n.kind === 'section') {
+      const grp = new T.Group();
+      grp.add(sphere);
+      const sprite = makeLabelSprite(n.label, { textHeight: 6, weight: '600' });
+      if (sprite) {
+        sprite.position.set(0, radius + sprite.textHeight + 1, 0);
+        n.__sectionLabel = sprite;
+        grp.add(sprite);
+      }
+      n.__obj = grp;
+      return grp;
+    }
+
+    n.__obj = sphere;
+    return sphere;
+  }
+
+  function attachSelectionLabel(node) {
+    // Remove previous selection label
+    if (state._selLabel && state._selLabelHost) {
+      try { state._selLabelHost.remove(state._selLabel); } catch {}
+      state._selLabel = null;
+      state._selLabelHost = null;
+    }
+    if (!node || !node.__obj) return;
+    if (node.kind === 'section') return; // section already has a permanent label
+    const sprite = makeLabelSprite(node.label, { textHeight: 4, weight: '500', bg: 'rgba(125,211,252,0.92)' });
+    if (!sprite) return;
+    const r = node.__radius || 2;
+    sprite.position.set(0, r + sprite.textHeight + 0.8, 0);
+    sprite.color = '#0b0b0d';
+    state._selLabel = sprite;
+    state._selLabelHost = node.__obj;
+    node.__obj.add(sprite);
   }
 
   function nodeColorFn(n) {
@@ -174,17 +229,21 @@
     if (!state.Graph) return;
     state.Graph
       .linkColor(state.Graph.linkColor())
-      .linkWidth(state.Graph.linkWidth())
-      .nodeColor(state.Graph.nodeColor());
-    const dim = state.highlightNodes.size > 0;
+      .linkWidth(state.Graph.linkWidth());
+    const anyHi = state.highlightNodes.size > 0;
     for (const n of state.raw.nodes) {
-      if (n.kind !== 'tag' || !n.__mat) continue;
-      n.__mat.opacity = dim ? (state.highlightNodes.has(n.id) ? 0.95 : 0.3) : 0.95;
+      if (!n.__mat) continue;
+      const isHi = state.highlightNodes.has(n.id);
+      n.__mat.opacity = anyHi ? (isHi ? 0.95 : 0.28) : 0.95;
     }
   }
 
   function setHovered(node) { state.hoveredNode = node; recomputeHighlights(); }
-  function setSelected(node) { state.selectedNode = node; recomputeHighlights(); }
+  function setSelected(node) {
+    state.selectedNode = node;
+    attachSelectionLabel(node);
+    recomputeHighlights();
+  }
 
   function tooltipHtml(n) {
     const swatch = `<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${colorOf(n)};margin-right:6px;vertical-align:middle"></span>`;
@@ -693,7 +752,7 @@
       .nodeColor(nodeColorFn)
       .nodeLabel(tooltipHtml)
       .nodeOpacity(0.95)
-      .nodeThreeObject(makeTagOctahedron)
+      .nodeThreeObject(makeNodeObject)
       .nodeThreeObjectExtend(false)
       .linkOpacity(0.99)
       .linkColor(linkColor)
