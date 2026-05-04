@@ -14,3 +14,7 @@ node scripts/build-html.js
 
 # Step 3: export entries as JSON index for client-side filter UI
 node scripts/export-data.js _site/data.json
+
+# Step 4: build graph.json + place graph.html for the WebGL graph view
+node scripts/build-graph.js _site/graph.json
+cp assets/graph.html _site/graph.html
