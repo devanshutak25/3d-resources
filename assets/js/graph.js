@@ -27,7 +27,25 @@
   const KIND_LABELS  = { section: 'Sections', subsection: 'Subsections', entry: 'Entries', tag: 'Tags' };
   const KIND_LABELS_S = { section: 'section', subsection: 'subsection', entry: 'entry', tag: 'tag' };
 
-  const DEFAULT_KINDS = new Set(['section', 'subsection', 'entry']);
+  // Low-end / mobile detection. Drives default visible kinds, pixel ratio,
+  // antialiasing, sphere segment count, and tap behavior.
+  const isLowEnd = (() => {
+    try {
+      const coarse = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+      const small  = window.matchMedia && window.matchMedia('(max-width: 720px)').matches;
+      const cores  = navigator.hardwareConcurrency || 8;
+      const mem    = navigator.deviceMemory || 8;
+      return coarse || small || cores <= 4 || mem <= 4;
+    } catch { return false; }
+  })();
+
+  // Mobile defaults to a much smaller graph (sections + subsections, ~158 nodes).
+  // Desktop still defaults to entries on so the graph reads dense.
+  const DEFAULT_KINDS = isLowEnd
+    ? new Set(['section', 'subsection'])
+    : new Set(['section', 'subsection', 'entry']);
+
+  const SPHERE_SEG = isLowEnd ? [8, 6] : [16, 12];
 
   const LINK_BASE_RGB       = '180,190,210';
   const LINK_BASE_ALPHA     = 0.5;
@@ -74,8 +92,6 @@
     if (n.kind === 'tag') return 3;
     return 2; // entry
   }
-  function sizeOf(n) { return radiusOf(n); }
-
   function buildVisibleData() {
     const visible = new Set();
     for (const n of state.raw.nodes) {
@@ -134,46 +150,62 @@
     return sprite;
   }
 
-  // All nodes get a custom Three object so we can compose sphere + label + custom shape.
+  // Shared geometries/materials for the custom kinds. Sections (12) and tags
+  // (~92) are the only kinds with bespoke meshes — entries and subsections fall
+  // back to the library's instanced default sphere (one draw call vs ~3000).
+  const sharedGeom = {};
+  function getSectionGeom(radius) {
+    const key = 'sec:' + radius;
+    if (!sharedGeom[key]) sharedGeom[key] = new window.THREE.SphereGeometry(radius, SPHERE_SEG[0], SPHERE_SEG[1]);
+    return sharedGeom[key];
+  }
+  function getTagGeom(radius) {
+    const key = 'tag:' + radius;
+    if (!sharedGeom[key]) sharedGeom[key] = new window.THREE.OctahedronGeometry(radius, 0);
+    return sharedGeom[key];
+  }
+
   function makeNodeObject(n) {
     const T = window.THREE;
     if (!T) return null;
+    // Entry + subsection use the library's default instanced sphere via
+    // nodeVal/nodeColor — vastly cheaper on low-end GPUs.
+    if (n.kind !== 'section' && n.kind !== 'tag') return null;
+
     const radius = radiusOf(n);
 
     if (n.kind === 'tag') {
-      const geom = new T.OctahedronGeometry(radius, 0);
       const mat = new T.MeshLambertMaterial({ color: TAG_COLOR, transparent: true, opacity: 0.95, flatShading: true });
-      const mesh = new T.Mesh(geom, mat);
+      const mesh = new T.Mesh(getTagGeom(radius), mat);
       n.__mat = mat; n.__obj = mesh; n.__radius = radius;
       return mesh;
     }
 
-    const sphereGeom = new T.SphereGeometry(radius, 16, 12);
+    // section
     const sphereMat = new T.MeshLambertMaterial({ color: colorOf(n), transparent: true, opacity: 0.95 });
-    const sphere = new T.Mesh(sphereGeom, sphereMat);
+    const sphere = new T.Mesh(getSectionGeom(radius), sphereMat);
     n.__mat = sphereMat; n.__radius = radius;
-
-    if (n.kind === 'section') {
-      const grp = new T.Group();
-      grp.add(sphere);
-      const sprite = makeLabelSprite(n.label, { textHeight: 6, weight: '600' });
-      if (sprite) {
-        sprite.position.set(0, radius + sprite.textHeight + 1, 0);
-        n.__sectionLabel = sprite;
-        grp.add(sprite);
-      }
-      n.__obj = grp;
-      return grp;
+    const grp = new T.Group();
+    grp.add(sphere);
+    const sprite = makeLabelSprite(n.label, { textHeight: isLowEnd ? 8 : 6, weight: '600' });
+    if (sprite) {
+      sprite.position.set(0, radius + sprite.textHeight + 1, 0);
+      n.__sectionLabel = sprite;
+      grp.add(sprite);
     }
-
-    n.__obj = sphere;
-    return sphere;
+    n.__obj = grp;
+    return grp;
   }
 
   function attachSelectionLabel(node) {
     // Remove previous selection label
     if (state._selLabel && state._selLabelHost) {
-      try { state._selLabelHost.remove(state._selLabel); } catch {}
+      try {
+        state._selLabelHost.remove(state._selLabel);
+        // SpriteText keeps a canvas-backed CanvasTexture — dispose it.
+        const m = state._selLabel.material;
+        if (m) { if (m.map) m.map.dispose(); m.dispose(); }
+      } catch {}
       state._selLabel = null;
       state._selLabelHost = null;
     }
@@ -209,12 +241,12 @@
   function recomputeHighlights() {
     state.highlightLinks.clear();
     state.highlightNodes.clear();
-    // Hover takes priority but selected always contributes too — both stay lit.
+    if (!state.Graph) return;
+    const data = state.Graph.graphData();
     const targets = [];
     if (state.selectedNode) targets.push(state.selectedNode);
     if (state.hoveredNode && state.hoveredNode !== state.selectedNode) targets.push(state.hoveredNode);
     if (targets.length) {
-      const data = state.Graph.graphData();
       const ids = new Set(targets.map(t => t.id));
       for (const id of ids) state.highlightNodes.add(id);
       for (const l of data.links) {
@@ -226,15 +258,23 @@
         }
       }
     }
-    if (!state.Graph) return;
     state.Graph
       .linkColor(state.Graph.linkColor())
       .linkWidth(state.Graph.linkWidth());
     const anyHi = state.highlightNodes.size > 0;
-    for (const n of state.raw.nodes) {
-      if (!n.__mat) continue;
+    // Walk only currently rendered nodes. For custom-mesh kinds we have
+    // n.__mat; for default kinds the library exposes n.__threeObj whose
+    // .material we can dim directly. Skip the full raw.nodes scan.
+    for (const n of data.nodes) {
       const isHi = state.highlightNodes.has(n.id);
-      n.__mat.opacity = anyHi ? (isHi ? 0.95 : 0.28) : 0.95;
+      const op = anyHi ? (isHi ? 0.95 : 0.22) : 0.92;
+      if (n.__mat) {
+        n.__mat.opacity = op;
+      } else if (n.__threeObj && n.__threeObj.material) {
+        const m = n.__threeObj.material;
+        if (!m.transparent) m.transparent = true;
+        m.opacity = op;
+      }
     }
   }
 
@@ -744,29 +784,44 @@
     await new Promise(r => setTimeout(r, 16));
 
     const container = document.getElementById('graph-container');
-    const Graph = window.ForceGraph3D()(container)
+    // rendererConfig consumed once at construction.
+    const rendererConfig = isLowEnd
+      ? { antialias: false, powerPreference: 'high-performance', alpha: false, stencil: false }
+      : { antialias: true, powerPreference: 'high-performance', alpha: false, stencil: false };
+
+    const NODE_REL_SIZE = 2;
+    const Graph = window.ForceGraph3D({ rendererConfig })(container)
       .backgroundColor('#0b0b0d')
       .showNavInfo(false)
-      .nodeRelSize(1)
-      .nodeVal(n => Math.max(1, sizeOf(n) * 0.4))
+      .nodeRelSize(NODE_REL_SIZE)
+      // val^(1/3) * nodeRelSize = library sphere radius; we want it == radiusOf(n).
+      .nodeVal(n => Math.pow(radiusOf(n) / NODE_REL_SIZE, 3))
+      .nodeResolution(isLowEnd ? 6 : 10)
       .nodeColor(nodeColorFn)
       .nodeLabel(tooltipHtml)
-      .nodeOpacity(0.95)
+      .nodeOpacity(0.92)
       .nodeThreeObject(makeNodeObject)
       .nodeThreeObjectExtend(false)
-      .linkOpacity(0.99)
+      .linkOpacity(isLowEnd ? 0.55 : 0.7)
       .linkColor(linkColor)
       .linkWidth(linkWidth)
       .linkDirectionalParticles(0)
-      .enableNodeDrag(true)
+      .cooldownTicks(isLowEnd ? 120 : 200)
+      .cooldownTime(isLowEnd ? 6000 : 10000)
+      .warmupTicks(isLowEnd ? 30 : 60)
+      .enableNodeDrag(!isLowEnd)
       .onNodeHover(node => {
         container.style.cursor = node ? 'pointer' : '';
         setHovered(node);
       })
       .onNodeClick(node => {
         if (node.kind === 'subsection') toggleExpandSub(node.id);
+        const isReselect = state.selectedNode && state.selectedNode.id === node.id;
         focusNode(node.id);
-        if (node.kind === 'entry' && node.url) {
+        // On touch, the first tap selects + shows the info card. Tapping the
+        // already-selected entry (or any tap on desktop) opens the URL — keeps
+        // accidental taps from yanking the user out of the graph.
+        if (node.kind === 'entry' && node.url && (!isLowEnd || isReselect)) {
           window.open(node.url, '_blank', 'noopener,noreferrer');
           announce(`Opened ${node.label} in new tab`);
         }
@@ -778,14 +833,30 @@
         history.replaceState(null, '', location.pathname);
       });
 
-    Graph.d3Force('charge').strength(-40).distanceMax(180);
+    Graph.d3Force('charge').strength(isLowEnd ? -28 : -40).distanceMax(isLowEnd ? 140 : 180);
     Graph.d3Force('link').distance(l => l.kind === 'tag' ? 40 : 22);
+
+    // Cap render resolution. Mobile DPR can be 3x (e.g. 1080p phone reports 3.0)
+    // — clamping to 1.0/1.5 gives 4-9× fewer fragments without visible loss.
+    try {
+      const renderer = Graph.renderer();
+      if (renderer) {
+        const cap = isLowEnd ? 1 : 1.5;
+        renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, cap));
+      }
+    } catch {}
 
     // Clamp orbit zoom distance so users can't pan to infinity
     const controls = Graph.controls();
     if (controls) {
-      controls.minDistance = 80;
-      controls.maxDistance = 4000;
+      controls.minDistance = isLowEnd ? 30 : 80;
+      controls.maxDistance = 1500;
+      // Touch devices benefit from slightly damped rotation for stability.
+      if (isLowEnd && 'enableDamping' in controls) {
+        controls.enableDamping = true;
+        controls.dampingFactor = 0.12;
+        controls.rotateSpeed = 0.7;
+      }
     }
 
     state.Graph = Graph;
