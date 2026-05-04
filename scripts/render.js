@@ -31,6 +31,31 @@ function getSubMap() {
   return map;
 }
 
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// Round 3 §D: table-level mirroring. Map topical-section-slug → [sw-ref-sub-meta].
+// Source-side declaration: each sw-ref subsection optionally sets `mirror_into:`.
+let _mirrorMapCache = null;
+function getMirrorMap() {
+  if (_mirrorMapCache) return _mirrorMapCache;
+  const map = new Map();
+  const swRef = catalog.loadSection('12-software-reference.yml');
+  for (const sub of swRef.subsections || []) {
+    if (!sub.mirror_into) continue;
+    const target = String(sub.mirror_into).trim();
+    if (!map.has(target)) map.set(target, []);
+    map.get(target).push(sub);
+  }
+  _mirrorMapCache = map;
+  return map;
+}
+
 // B4: count entries (primary + mirrors) per "<sectionSlug>/<subSlug>".
 let _subCountCache = null;
 function getSubCounts() {
@@ -218,6 +243,69 @@ function buildToC(sections) {
   return lines.join('\n');
 }
 
+// Single-source-of-truth software table renderer. Used by both canonical
+// subsection rendering and Round 3 §D mirror blocks. Pass currentLoc=null in
+// mirror context to suppress per-row "See also" (the table-level provenance
+// subtitle covers that signal already).
+function renderSoftwareTable(entries, currentLoc) {
+  const lines = [];
+  if (!entries.length) return lines;
+  const hasPricing = entries.some(e => e.pricing);
+  const header = hasPricing
+    ? '| Software | Description | Pricing | License | Tags | Best For |'
+    : '| Software | Description | License | Tags | Best For |';
+  const sep = hasPricing
+    ? '|---|---|---|---|---|---|'
+    : '|---|---|---|---|---|';
+  lines.push(header);
+  lines.push(sep);
+  for (const e of entries) {
+    const name = `[${wrapEmoji(e.name)}](${e.url})`;
+    let descCore = processDescription(e.description || '');
+    if (currentLoc) {
+      const seeAlso = seeAlsoLinks(e, currentLoc);
+      if (seeAlso) descCore = descCore ? `${descCore}<br>${seeAlso}` : seeAlso;
+    }
+    const desc = descCore.replace(/\|/g, '\\|');
+    const license = e.license || '';
+    const tags = (e.readme_tags || []).join(' · ');
+    const bestFor = e.best_for || '';
+    if (hasPricing) {
+      const pricing = e.pricing || '';
+      lines.push(`| ${name} | ${desc} | ${pricing} | ${license} | ${tags} | ${bestFor} |`);
+    } else {
+      lines.push(`| ${name} | ${desc} | ${license} | ${tags} | ${bestFor} |`);
+    }
+  }
+  lines.push('');
+  return lines;
+}
+
+// Round 3 §D: append mirrored Software Reference tables into a topical section.
+// Renders a raw-HTML <h3> with data-mirror="1" so the front-end can style it
+// and the build-html.js id-injection regex (which only matches bare <h3>) skips
+// it — we set id + tabindex ourselves. Provenance subtitle links to canonical.
+function renderMirrorBlocks(sectionSlug) {
+  const mirrors = getMirrorMap().get(sectionSlug);
+  if (!mirrors || !mirrors.length) return [];
+  const lines = [];
+  for (const sub of mirrors) {
+    const raw = loadSubEntries('12-software-reference.yml', sub.slug, 'software-reference');
+    const active = alphaSort(raw.filter(e => !e.deprecated));
+    const software = active.filter(e => e.entry_type === 'software');
+    if (!software.length) continue;
+    const canonicalAnchor = githubAnchor(sub.title);
+    const mirrorId = `mirror-${sub.slug}`;
+    const titleHtml = escHtml(sub.title);
+    lines.push('');
+    lines.push(`<h3 id="${mirrorId}" data-mirror="1" tabindex="-1">${titleHtml}</h3>`);
+    lines.push(`<p class="mirror-provenance">Also in <a href="#${canonicalAnchor}">Software Reference → ${titleHtml}</a></p>`);
+    lines.push('');
+    lines.push(...renderSoftwareTable(software, null));
+  }
+  return lines;
+}
+
 function renderSection(section, sectionFile) {
   const lines = [];
   lines.push(`## ${section.title}`);
@@ -244,32 +332,7 @@ function renderSection(section, sectionFile) {
     const currentLoc = `${section.slug}/${sub.slug}`;
 
     if (software.length) {
-      const hasPricing = software.some(e => e.pricing);
-      const header = hasPricing
-        ? '| Software | Description | Pricing | License | Tags | Best For |'
-        : '| Software | Description | License | Tags | Best For |';
-      const sep = hasPricing
-        ? '|---|---|---|---|---|---|'
-        : '|---|---|---|---|---|';
-      lines.push(header);
-      lines.push(sep);
-      for (const e of software) {
-        const name = `[${wrapEmoji(e.name)}](${e.url})`;
-        let descCore = processDescription(e.description || '');
-        const seeAlso = seeAlsoLinks(e, currentLoc);
-        if (seeAlso) descCore = descCore ? `${descCore}<br>${seeAlso}` : seeAlso;
-        const desc = descCore.replace(/\|/g, '\\|');
-        const license = e.license || '';
-        const tags = (e.readme_tags || []).join(' · ');
-        const bestFor = e.best_for || '';
-        if (hasPricing) {
-          const pricing = e.pricing || '';
-          lines.push(`| ${name} | ${desc} | ${pricing} | ${license} | ${tags} | ${bestFor} |`);
-        } else {
-          lines.push(`| ${name} | ${desc} | ${license} | ${tags} | ${bestFor} |`);
-        }
-      }
-      lines.push('');
+      lines.push(...renderSoftwareTable(software, currentLoc));
     }
 
     if (references.length) {
@@ -285,6 +348,12 @@ function renderSection(section, sectionFile) {
       }
       lines.push('');
     }
+  }
+
+  // Round 3 §D: append mirrored Software Reference tables (collapsed by default).
+  // Skipped on the canonical Software Reference section itself.
+  if (section.slug !== 'software-reference') {
+    lines.push(...renderMirrorBlocks(section.slug));
   }
 
   lines.push('---');

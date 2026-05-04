@@ -712,6 +712,42 @@ main > details > ul > li .toc-desc { margin-left: 0; }
 }
 .see-also a:hover { color: var(--link-hover); }
 
+/* ---------- Round 3 §D: mirrored Software Reference tables ---------- */
+h3[data-mirror] {
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  margin-top: 1.4em;
+}
+h3[data-mirror]::after {
+  content: "mirror";
+  display: inline-block;
+  margin-left: 0.55em;
+  padding: 0.05em 0.5em;
+  font-size: 0.55em;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  vertical-align: 0.2em;
+  background: var(--bg-secondary);
+  color: var(--text-subtle);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+.mirror-provenance {
+  margin: -0.2em 0 0.6em 1.6em;
+  font-size: 0.82em;
+  color: var(--text-subtle);
+  font-style: italic;
+}
+.mirror-provenance a {
+  color: var(--text-muted);
+  text-decoration: underline dotted;
+  text-underline-offset: 2px;
+}
+.mirror-provenance a:hover { color: var(--link-hover); }
+/* Hide provenance line when its mirror H3 is collapsed (matches table). */
+h3[data-mirror][data-collapsed] + .mirror-provenance { display: none; }
+
 /* ---------- Scroll-to-top button ---------- */
 #scroll-top {
   position: fixed;

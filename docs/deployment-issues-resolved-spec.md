@@ -9,7 +9,7 @@ Implementation-agnostic. Source of truth for behavior.
 - **Round 2 P0 (A1, A2, A3, B1, B2, B3, B7):** ✅ implemented 2026-05-04 — see `assets/js/filter.js`, `scripts/build-html.js`, `scripts/render.js`, `assets/css/style.css`, `schema/entry.schema.json`, and data fixes in `data/01-assets/*`, `data/02-modeling/*`, `data/12-software-reference/*`.
 - **Round 2 P1 (A4, A5, A6, A9, B4, B5):** ✅ implemented 2026-05-04 — see `scripts/render.js`, `scripts/build-html.js`, `assets/js/filter.js`, `assets/css/style.css`.
 - **Round 2 P2 (A7, A8, B6, C1, C2, C3):** ✅ implemented 2026-05-04 — see `assets/css/style.css`, `assets/js/filter.js`, `scripts/build-html.js`.
-- **Round 3 (§D):** pending.
+- **Round 3 (§D):** ✅ implemented 2026-05-04 — see `data/12-software-reference.yml`, `scripts/render.js`, `assets/css/style.css`.
 
 ---
 
@@ -282,29 +282,29 @@ Confirmed cases to fix:
 
 Software Reference holds the canonical software tables (Compositing, Virtual Production, ML for CG, etc.). Mirror them into the matching topical sections elsewhere on the page so users browsing a topic see the relevant tools without leaving context.
 
-### D1. Render mechanism — collapsed-by-default inline
+### D1. Render mechanism — collapsed-by-default inline ✅ 2026-05-04
 - The mirrored table renders inline in the topical section, **collapsed by default**.
 - Header shows table name + item count; click to expand into full table.
 - **Same component, single source of truth.** No data fork. Mirror only differs in default expand state and provenance line.
 - Honors lookup-first: visible affordance, no jump-away, no page-weight cost on initial render.
 
-### D2. Mapping — 1:1 only
+### D2. Mapping — 1:1 only ✅ 2026-05-04
 - Each Software Reference table mirrors into **at most one** topical section (the most obvious match).
 - No fan-out into multiple sections.
 - Mapping is **manually declared** in data (extends the existing `dual_listed_in` convention to table-level).
 - Maintainer keeps editorial control over which table belongs where.
 
-### D3. Search & filter behavior — both render, dedupe
+### D3. Search & filter behavior — both render, dedupe ✅ 2026-05-04
 - Search hits and filters apply to **both renderings** of the table.
 - Hit-count badges count **items**, not renderings (no double-counting).
 - A user searching "nuke" sees both the Compositing section and the Software Reference Compositing table light up; the count reflects unique items found.
 
-### D4. Provenance signal — subtle subtitle
+### D4. Provenance signal — subtle subtitle ✅ 2026-05-04
 - Mirrored table shows a one-line subtitle directly under its header:
   *"Also in Software Reference → [Compositing]"* (link to canonical location).
 - Quiet enough for casual lookup, explicit enough that power users know there's a canonical home and can navigate cross-domain.
 
-### D5. Single source of truth
+### D5. Single source of truth ✅ 2026-05-04
 - Editing software entries happens **only** in Software Reference data.
 - Mirror locations never store their own copy — they reference the canonical table.
 - A bug fix or addition propagates to both renderings automatically.

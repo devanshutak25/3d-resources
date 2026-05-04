@@ -1,6 +1,9 @@
 slug: software-reference
 title: Software Reference
 description: All software — full license, pricing, platform, and tag data. Canonical source.
+# Round 3 §D — `mirror_into: <topical-section-slug>` mirrors this table into the
+# named topical section as a collapsed-by-default H3 with provenance subtitle.
+# Single source of truth: data lives only here; mirror is a rendering only.
 subsections:
   - slug: 3d-software-free
     title: 3D Software — Free
@@ -18,95 +21,119 @@ subsections:
     title: CAD Software
     description: Computer-aided design tools.
     chunks: 1
+    mirror_into: modeling-sculpting-texturing
   - slug: 2d-animation-software
     title: 2D & Animation Software
     description: Digital painting, illustration, 2D animation.
     chunks: 1
+    mirror_into: motion-graphics-video
   - slug: vfx-compositing-software
     title: VFX & Compositing Software
     description: VFX, compositing, and real-time simulation tools.
     chunks: 1
+    mirror_into: vfx-compositing-virtual-production
   - slug: render-engines
     title: Render Engines
     description: Production render engines across CPU, GPU, biased, and unbiased path tracers.
     chunks: 1
+    mirror_into: lighting-rendering-shaders
   - slug: video-editing-software
     title: Video Editing Software
     description: NLEs and post-production software.
     chunks: 1
+    mirror_into: motion-graphics-video
   - slug: audio-software
     title: Audio Software
     description: Audio editing, mixing, sound design, and SFX generation.
     chunks: 1
+    mirror_into: motion-graphics-video
   - slug: design-software
     title: Design Software
     description: UI/UX, vector, raster design apps.
     chunks: 1
+    mirror_into: art-design-visual-storytelling
   - slug: viewers-file-utilities
     title: Viewers & File Utilities
     description: Image, video, and 3D file viewers.
     chunks: 1
+    mirror_into: tools-pipeline-utilities
   - slug: game-engines-free-oss
     title: Game Engines — Free & Open Source
     description: Free and open-source game engines.
     chunks: 2
+    mirror_into: game-development
   - slug: game-engines-commercial
     title: Game Engines — Commercial Free Tiers
     description: Commercial engines with generous free tiers.
     chunks: 1
+    mirror_into: game-development
   - slug: material-creation-software
     title: Material & Texture Creation Software
     description: Material authoring, texture baking, and PBR painting tools.
     chunks: 1
+    mirror_into: modeling-sculpting-texturing
   - slug: photogrammetry-software
     title: Photogrammetry & Scanning Software
     description: Photogrammetry, structure-from-motion, and 3D scanning apps.
     chunks: 1
+    mirror_into: modeling-sculpting-texturing
   - slug: matchmoving-software
     title: Matchmoving & Camera Tracking Software
     description: 3D camera tracking, matchmove, and lens-distortion tools.
     chunks: 1
+    mirror_into: vfx-compositing-virtual-production
   - slug: retopo-uv-software
     title: Retopology & UV Software
     description: Standalone retopology, remeshing, and UV unwrapping/packing tools.
     chunks: 1
+    mirror_into: modeling-sculpting-texturing
   - slug: virtual-production-software
     title: Virtual Production Software
     description: Virtual production, broadcast graphics, and real-time stage tooling.
     chunks: 1
+    mirror_into: vfx-compositing-virtual-production
   - slug: level-design-software
     title: Level Design & Map Editing Software
     description: Standalone level editors and tile/grid map authoring tools.
     chunks: 1
+    mirror_into: game-development
   - slug: pipeline-software
     title: Pipeline & Production Management Software
     description: Production tracking, render farm management, asset pipeline orchestration.
     chunks: 1
+    mirror_into: tools-pipeline-utilities
   - slug: misc-3d-utilities-software
     title: Misc 3D Utilities Software
     description: Reference, scattering, simulation, and specialty 3D utilities.
     chunks: 1
+    mirror_into: tools-pipeline-utilities
   - slug: ai-image-software
     title: AI Image & Texture Generation Software
     description: AI image generation and AI texture/material generation tools.
     chunks: 1
+    mirror_into: ai-ml-for-cg
   - slug: ai-video-software
     title: AI Video Generation Software
     description: AI text-to-video and image-to-video generation tools.
     chunks: 1
+    mirror_into: ai-ml-for-cg
   - slug: ai-3d-software
     title: AI 3D Generation Software
     description: AI text-to-3D, image-to-3D, and 3D-asset generation tools.
     chunks: 1
+    mirror_into: ai-ml-for-cg
   - slug: ai-audio-software
     title: AI Audio & Music Generation Software
     description: AI music, voice, and SFX generation tools.
     chunks: 1
+    mirror_into: ai-ml-for-cg
   - slug: ai-motion-capture-software
     title: AI Motion Capture Software
     description: Markerless and AI-driven motion capture and pose estimation tools.
     chunks: 1
+    mirror_into: animation-rigging
   - slug: ai-assist-software
     title: AI-Assisted CG Software
     description: AI upscaling, cleanup, generative assist, and AI-powered DCC features.
     chunks: 1
+    mirror_into: ai-ml-for-cg
