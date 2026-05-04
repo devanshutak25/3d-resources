@@ -84,10 +84,10 @@ entries:
     url_status: ok
   - name: NASA 3D Resources
     url: https://nasa3d.arc.nasa.gov/
-    description: Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources
+    description: 3D models, textures, and images from NASA — mixed CC0 / CC-BY, check per-asset license. [![][repo]](https://github.com/nasa/NASA-3D-Resources)
     entry_type: asset-source
-    license: Free
-    url_last_verified: '2026-05-01'
+    license: Mixed
+    url_last_verified: '2026-05-04'
     url_status: ok
     tags:
       workflow:
@@ -95,6 +95,7 @@ entries:
         - material-authoring
       tech:
         - cc0
+        - cc-by
   - name: Solar Textures
     url: https://www.solarsystemscope.com/textures/
     description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)

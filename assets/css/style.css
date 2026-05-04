@@ -1,3 +1,41 @@
+/* ---------- Skip link (a11y) ---------- */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 9999;
+  background: var(--accent, #388bfd);
+  color: #fff;
+  padding: 0.5rem 0.85rem;
+  border-radius: 0 0 6px 0;
+  font-weight: 600;
+  text-decoration: none;
+}
+.skip-link:focus {
+  left: 0;
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+main:focus { outline: none; }
+
+/* ---------- License pills (B2) ---------- */
+.lic-pill {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 600;
+  padding: 1px 6px;
+  margin-left: 0.4em;
+  border-radius: 999px;
+  vertical-align: middle;
+  line-height: 1.4;
+  border: 1px solid currentColor;
+  letter-spacing: 0.02em;
+}
+.lic-pill.lic-paid { color: #f0a000; }
+.lic-pill.lic-freemium { color: #58a6ff; }
+.lic-pill.lic-subscription { color: #d68bff; }
+.lic-pill.lic-mixed { color: #8ddb8d; }
+
 /* ---------- Filter UI ---------- */
 #filter-bar {
   position: sticky;

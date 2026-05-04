@@ -1,13 +1,13 @@
 entries:
   - name: Cineversity
-    url: http://www.cineversity.com/
+    url: https://cineversity.maxon.net/
     description: Official Maxon tutorials.
     license: Free
     entry_type: tutorial
     readme_tags:
       - Official
       - Maxon
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-05-04'
     url_status: ok
     tags:
       output:

@@ -209,12 +209,12 @@ entries:
       tech:
         - blender
         - blender-addon
-  - name: BlenderBIM
-    url: https://blenderbim.org
-    description: An add-on for beautiful, detailed, and data-rich OpenBIM with Blender. [![][repo]](https://github.com/ifcopenshell/ifcopenshell) ![][gpl]
+  - name: Bonsai
+    url: https://bonsaibim.org/
+    description: Beautiful, detailed, data-rich OpenBIM add-on for Blender (formerly BlenderBIM). [![][repo]](https://github.com/ifcopenshell/ifcopenshell) ![][gpl]
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-05-04'
     url_status: ok
     tags:
       tech:

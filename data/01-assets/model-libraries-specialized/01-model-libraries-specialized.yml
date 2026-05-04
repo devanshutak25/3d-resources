@@ -1,7 +1,7 @@
 entries:
   - name: Mixamo
     url: https://www.mixamo.com/
-    description: Characters and animations (Adobe, free).
+    description: Rigged characters, auto-rigger, and free animation library (Adobe).
     license: Free
     entry_type: asset-source
     tags:
@@ -9,12 +9,15 @@ entries:
         - rigging
         - animation
         - modeling
+        - mocap
       output:
         - games
         - film-vfx
     readme_tags:
       - Rigged Characters
       - Free Animations
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: Anatomy 360
@@ -95,8 +98,8 @@ entries:
     url_status: ok
   - name: NASA 3D Resources
     url: https://science.nasa.gov/3d-resources/
-    description: Spacecraft, planets, terrain models (public domain, also on [GitHub](https://nasa3d.arc.nasa.gov/)).
-    license: Free
+    description: Spacecraft, planets, terrain models (mixed CC0 / CC-BY — check per-asset license; mirror at [GitHub](https://nasa3d.arc.nasa.gov/)).
+    license: Mixed
     entry_type: asset-source
     tags:
       output:
@@ -106,10 +109,11 @@ entries:
         - modeling
       tech:
         - cc0
+        - cc-by
     readme_tags:
-      - Public Domain
+      - Mixed CC0/CC-BY
       - Space/Science
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-05-04'
     url_status: ok
   - name: Smithsonian 3D
     url: https://3d.si.edu/

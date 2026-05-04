@@ -28,7 +28,7 @@
     'learning-community-industry': 'Learning',
     'software-reference': 'Software Reference'
   };
-  const LICENSE_OPTIONS = ['Open Source', 'Free', 'Free NC', 'Freemium', 'Paid'];
+  const LICENSE_OPTIONS = ['Open Source', 'Free', 'Free NC', 'Freemium', 'Paid', 'Mixed'];
   const PLATFORM_OPTIONS = ['win', 'mac', 'linux', 'web', 'ios', 'ipad', 'android', 'cloud'];
   const PLATFORM_LABELS = { win: 'Windows', mac: 'macOS', linux: 'Linux', web: 'Web', ios: 'iOS', ipad: 'iPad', android: 'Android', cloud: 'Cloud' };
   const WORKFLOW_OPTIONS = ['modeling', 'sculpting', 'retopo', 'uv', 'texturing', 'material-authoring', 'rigging', 'animation', 'mocap', 'simulation', 'fx', 'lighting', 'rendering', 'compositing', 'editing', 'audio-design'];
@@ -517,6 +517,62 @@
     return value;
   }
 
+  // ---------- URL hash state (B1) ----------
+
+  const HASH_GROUPS = ['category', 'license', 'platform', 'workflow', 'output'];
+  let hashWriteSuspended = false;
+
+  function serializeStateToHash(replace) {
+    if (hashWriteSuspended) return;
+    const parts = [];
+    if (active.search) parts.push('q=' + encodeURIComponent(active.search));
+    for (const g of HASH_GROUPS) {
+      const set = active[g];
+      if (set && set.size) {
+        const vals = [...set].map(encodeURIComponent).join(',');
+        parts.push(g + '=' + vals);
+      }
+    }
+    const newHash = parts.length ? '#' + parts.join('&') : '';
+    const url = location.pathname + location.search + newHash;
+    try {
+      if (replace) history.replaceState(null, '', url || location.pathname);
+      else history.pushState(null, '', url || location.pathname);
+    } catch (e) { /* noop */ }
+  }
+
+  function restoreStateFromHash() {
+    const h = location.hash || '';
+    if (!h.startsWith('#')) return false;
+    const body = h.slice(1);
+    if (!body || body.indexOf('=') === -1) return false; // anchor link, not state
+    const params = new URLSearchParams(body);
+    let any = false;
+    if (params.has('q')) { active.search = params.get('q') || ''; any = true; }
+    for (const g of HASH_GROUPS) {
+      if (!params.has(g)) continue;
+      const raw = params.get(g) || '';
+      const vals = raw.split(',').map(decodeURIComponent).filter(Boolean);
+      active[g] = new Set(vals);
+      any = true;
+    }
+    return any;
+  }
+
+  function reflectStateInUI() {
+    const search = document.getElementById('filter-search');
+    if (search) search.value = active.search || '';
+    const bar = document.getElementById('filter-bar');
+    if (!bar) return;
+    for (const chip of bar.querySelectorAll('.filter-chip')) {
+      const g = chip.dataset.group;
+      const v = chip.dataset.value;
+      const on = active[g] && active[g].has(v);
+      chip.classList.toggle('active', !!on);
+      chip.setAttribute('aria-pressed', on ? 'true' : 'false');
+    }
+  }
+
   // ---------- Apply ----------
 
   function applyFilters() {
@@ -543,6 +599,8 @@
     const toggle = document.getElementById('filter-toggle');
     if (toggle && toggle._setIcon) toggle._setIcon();
     syncSearchClearVisibility();
+    serializeStateToHash(applyFilters._replaceHash !== false);
+    applyFilters._replaceHash = true;
   }
 
   function syncSearchClearVisibility() {
@@ -559,10 +617,12 @@
     btn.textContent = label;
     btn.dataset.group = group;
     btn.dataset.value = value;
+    btn.setAttribute('aria-pressed', 'false');
     btn.addEventListener('click', () => {
       const set = active[group];
-      if (set.has(value)) { set.delete(value); btn.classList.remove('active'); }
-      else { set.add(value); btn.classList.add('active'); }
+      if (set.has(value)) { set.delete(value); btn.classList.remove('active'); btn.setAttribute('aria-pressed', 'false'); }
+      else { set.add(value); btn.classList.add('active'); btn.setAttribute('aria-pressed', 'true'); }
+      applyFilters._replaceHash = false;
       applyFilters();
     });
     return btn;
@@ -681,7 +741,7 @@
       active.workflow.clear();
       active.output.clear();
       search.value = '';
-      for (const c of bar.querySelectorAll('.filter-chip.active')) c.classList.remove('active');
+      for (const c of bar.querySelectorAll('.filter-chip.active')) { c.classList.remove('active'); c.setAttribute('aria-pressed', 'false'); }
       applyFilters();
     });
     top.appendChild(clear);
@@ -973,7 +1033,7 @@
           const search = document.getElementById('filter-search');
           if (search) search.value = '';
           const bar = document.getElementById('filter-bar');
-          if (bar) for (const c of bar.querySelectorAll('.filter-chip.active')) c.classList.remove('active');
+          if (bar) for (const c of bar.querySelectorAll('.filter-chip.active')) { c.classList.remove('active'); c.setAttribute('aria-pressed', 'false'); }
           applyFilters();
         }
 
@@ -1095,6 +1155,28 @@
     setupTocAnimation();
     setupTocClickHandler();
     setupKeyboardNav();
+
+    // B1: restore filter/search state from URL hash
+    const restored = restoreStateFromHash();
+    if (restored) {
+      reflectStateInUI();
+      hashWriteSuspended = true;
+      applyFilters();
+      hashWriteSuspended = false;
+      const bar = document.getElementById('filter-bar');
+      if (bar) bar.classList.remove('collapsed');
+    }
+
+    window.addEventListener('popstate', () => {
+      // Reset state, re-restore from hash, re-apply
+      active.search = '';
+      for (const g of HASH_GROUPS) active[g].clear();
+      restoreStateFromHash();
+      reflectStateInUI();
+      hashWriteSuspended = true;
+      applyFilters();
+      hashWriteSuspended = false;
+    });
   }
 
   if (document.readyState === 'loading') {

@@ -46,6 +46,19 @@ function repoPill(href) {
   }
   return `<span class="repo-pill">${GH_ICON}GitHub</span>`;
 }
+// B2: license pill for non-table bullet entries. Free/Open Source/Free NC = no pill (absence ≡ free).
+function licensePill(license) {
+  if (!license) return '';
+  const v = String(license).trim();
+  const lower = v.toLowerCase();
+  if (lower === 'free' || lower === 'open source' || lower === 'free nc' || lower === 'oss') return '';
+  let cls = 'lic-paid';
+  if (lower === 'freemium') cls = 'lic-freemium';
+  else if (lower === 'subscription') cls = 'lic-subscription';
+  else if (lower.startsWith('mixed')) cls = 'lic-mixed';
+  return ` <span class="lic-pill ${cls}">${v}</span>`;
+}
+
 function processDescription(desc) {
   if (!desc) return desc;
   // [![][repo]](URL) — closed paren
@@ -168,7 +181,8 @@ function renderSection(section, sectionFile) {
       }
       for (const e of references) {
         const desc = e.description ? ` — ${processDescription(e.description)}` : '';
-        lines.push(`- [${e.name}](${e.url})${desc}`);
+        const pill = licensePill(e.license);
+        lines.push(`- [${e.name}](${e.url})${pill}${desc}`);
       }
       lines.push('');
     }

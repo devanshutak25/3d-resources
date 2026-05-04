@@ -6,7 +6,8 @@ Implementation-agnostic. Source of truth for behavior.
 ## Status
 
 - **Round 1 (§1–§17):** ✅ implemented 2026-05-04 — see `_site/`, `assets/js/filter.js`, `assets/css/style.css`, `scripts/render.js`, `data/09-ai-ml.yml`.
-- **Round 2 (A/B/C):** pending.
+- **Round 2 P0 (A1, A2, A3, B1, B2, B3, B7):** ✅ implemented 2026-05-04 — see `assets/js/filter.js`, `scripts/build-html.js`, `scripts/render.js`, `assets/css/style.css`, `schema/entry.schema.json`, and data fixes in `data/01-assets/*`, `data/02-modeling/*`, `data/12-software-reference/*`.
+- **Round 2 P1/P2 (A4–A9, B4–B6, C1–C3):** pending.
 - **Round 3 (§D):** pending.
 
 ---
@@ -149,17 +150,17 @@ Only accepted items below; rejected items omitted.
 
 ## A. Accessibility & Semantics
 
-### A1. Search input accessible label
+### A1. Search input accessible label ✅ 2026-05-04
 - Add `<label for="search">` (visually hidden) or `aria-label="Search resources"`.
 - Wrap search in `role="search"` landmark.
 - WCAG 4.1.2, 3.3.2.
 
-### A2. Filter chips must be semantic buttons
+### A2. Filter chips must be semantic buttons ✅ 2026-05-04
 - All filter chips/pills must be `<button>` elements (or `role="button"` with full keyboard support: tab-reachable, Enter/Space activation, focus ring).
 - Required for keyboard reachability and screen-reader announcement.
 - WCAG 2.1.1, 4.1.2.
 
-### A3. `<main>` landmark + skip link
+### A3. `<main>` landmark + skip link ✅ 2026-05-04
 - Wrap primary content area in `<main>`.
 - Add "Skip to main content" link as first focusable element on page.
 - WCAG 1.3.1, 2.4.1.
@@ -196,17 +197,17 @@ Only accepted items below; rejected items omitted.
 
 ## B. UX & Information Architecture
 
-### B1. Deep-linkable filter & search state
+### B1. Deep-linkable filter & search state ✅ 2026-05-04
 - Serialize active filters and search query into the URL (query string or hash params).
 - Loading the URL must restore exact state.
 - Required for sharing curated views ("Houdini plugins, free, Windows") and bookmarking.
 
-### B2. Free vs paid consistency
+### B2. Free vs paid consistency ✅ 2026-05-04
 - Audit every item: where price/license is non-free, the marker must be present (currently `[$]` is uneven).
 - Either backfill `[$]` universally, or move to an explicit Free/Paid/Freemium pill driven by the License facet already in data.
 - Absence of a marker must be trustworthy as "free."
 
-### B3. Stale & renamed link cleanup
+### B3. Stale & renamed link cleanup ✅ 2026-05-04 (3 named items; broader sweep deferred to B7-followup)
 Confirmed cases to fix:
 - **BlenderBIM** → renamed to **Bonsai**, domain now `bonsaibim.org`. Update name + URL.
 - **cc0textures.com** → 301 to ambientCG. ambientCG already listed separately. Remove the duplicate entry.
@@ -228,7 +229,7 @@ Confirmed cases to fix:
 - Add a hover-anchor (GitHub-style `§`) so users can copy a link to that specific item.
 - Sharing in Discord/Slack lands on the exact item, ideally highlighted briefly on load.
 
-### B7. Content accuracy fixes (data layer)
+### B7. Content accuracy fixes (data layer) ✅ 2026-05-04
 - **Mixamo** is currently under "Specialized Models" — recategorize to Animation & Rigging, or dual-list via the existing mirror system.
 - **NASA 3D Resources** license tag — current tag treats everything as public domain; site mixes CC0 and CC-BY. Update to a per-item or "mixed (CC0/CC-BY)" tag.
 - **Substance Painter** license tag — verify it reflects Adobe subscription, not free.

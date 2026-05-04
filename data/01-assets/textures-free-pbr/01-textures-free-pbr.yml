@@ -275,20 +275,6 @@ entries:
         - material-authoring
       tech:
         - pbr
-  - name: CC0 Textures
-    url: https://cc0textures.com/
-    description: Free PBR textures.
-    license: Free
-    entry_type: asset-source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - cc0
-        - pbr
   - name: Celestia Motherlode
     url: http://www.celestiamotherlode.net/
     description: Repository for various addons like textures, models or celestial objects.

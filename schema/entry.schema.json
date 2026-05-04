@@ -14,7 +14,7 @@
     "best_for": { "type": "string" },
     "license": {
       "type": ["string", "null"],
-      "enum": ["Open Source", "Free", "Free NC", "Freemium", "Paid", null]
+      "enum": ["Open Source", "Free", "Free NC", "Freemium", "Paid", "Mixed", null]
     },
     "entry_type": {
       "type": "string",
