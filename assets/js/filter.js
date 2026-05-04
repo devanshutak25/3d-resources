@@ -791,6 +791,7 @@
       if (target) {
         target.scrollIntoView({ behavior: 'smooth', block: 'start' });
         history.pushState(null, '', v);
+        try { target.focus({ preventScroll: true }); } catch (e) { target.focus(); }
       }
       sel.value = '';
     });
@@ -892,7 +893,8 @@
       if (h.tagName === 'H2' && EXCLUDED_H2_IDS.has(h.id)) continue;
       h.classList.add('collapsible-heading');
       h.setAttribute('role', 'button');
-      h.setAttribute('tabindex', '0');
+      // A4: out of tab order; reachable via arrow nav + programmatic focus.
+      h.setAttribute('tabindex', '-1');
       // §1: H2 open by default; H3 closed by default.
       if (h.tagName === 'H2') {
         h.setAttribute('aria-expanded', 'true');
@@ -1044,6 +1046,8 @@
           requestAnimationFrame(() => {
             const top = target.getBoundingClientRect().top + window.pageYOffset - 8;
             smoothScrollTo(top);
+            // A4: move keyboard focus to the heading once it's in view.
+            try { target.focus({ preventScroll: true }); } catch (e) { target.focus(); }
           });
         });
       });

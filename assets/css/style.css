@@ -660,6 +660,58 @@ main > details > ul > li[data-dim]:hover {
   }
 }
 
+/* ---------- A4: heading focus ring (programmatic focus from ToC) ---------- */
+h2:focus-visible, h3:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+/* ---------- A9: external link indicator ---------- */
+a[target="_blank"]:not(.repo-pill):not(.skip-link):not(.no-ext-icon)::after {
+  content: '\2197';   /* ↗ */
+  display: inline-block;
+  margin-left: 0.15em;
+  font-size: 0.85em;
+  color: var(--text-subtle);
+  transition: color 0.15s;
+}
+a[target="_blank"]:not(.repo-pill):not(.skip-link):not(.no-ext-icon):hover::after {
+  color: var(--link-hover);
+}
+
+/* ---------- B4: ToC information scent ---------- */
+.toc-count {
+  margin-left: 0.4em;
+  font-size: 0.8em;
+  color: var(--text-subtle);
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+}
+.toc-desc {
+  display: inline-block;
+  margin-top: 0.05rem;
+  font-size: 0.78em;
+  color: var(--text-muted);
+  font-style: italic;
+  line-height: 1.35;
+}
+main > details > ul > li .toc-desc { margin-left: 0; }
+
+/* ---------- B5: dual_listed_in "See also" ---------- */
+.see-also {
+  display: inline-block;
+  margin-top: 0.1em;
+  font-size: 0.78em;
+  color: var(--text-subtle);
+}
+.see-also a {
+  color: var(--text-muted);
+  text-decoration: underline dotted;
+  text-underline-offset: 2px;
+}
+.see-also a:hover { color: var(--link-hover); }
+
 /* ---------- Reduced-motion override ---------- */
 /* Per project decision: deliberately disregard the OS prefers-reduced-motion
    setting. The site's animations (180ms chevron tween, smooth scroll) are

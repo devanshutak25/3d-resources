@@ -6,6 +6,55 @@ const fs = require('fs');
 const path = require('path');
 const catalog = require('./lib/catalog');
 
+// Build a map: "<sectionSlug>/<subSlug>" → { sectionTitle, subTitle, anchor }
+// for B4 ToC scent + B5 "See also" cross-links. Anchor = subsection slugified
+// title (must match the id injected by build-html.js).
+let _subMapCache = null;
+function getSubMap() {
+  if (_subMapCache) return _subMapCache;
+  const map = new Map();
+  for (const meta of catalog.loadSections().sections) {
+    const doc = catalog.loadSection(meta.file);
+    for (const sub of doc.subsections || []) {
+      const key = `${doc.slug}/${sub.slug}`;
+      map.set(key, {
+        sectionTitle: doc.title,
+        sectionSlug: doc.slug,
+        subSlug: sub.slug,
+        subTitle: sub.title,
+        subDescription: sub.description || '',
+        anchor: githubAnchor(sub.title)
+      });
+    }
+  }
+  _subMapCache = map;
+  return map;
+}
+
+// B4: count entries (primary + mirrors) per "<sectionSlug>/<subSlug>".
+let _subCountCache = null;
+function getSubCounts() {
+  if (_subCountCache) return _subCountCache;
+  const counts = new Map();
+  const slugByFile = new Map();
+  for (const meta of catalog.loadSections().sections) {
+    slugByFile.set(meta.file, catalog.loadSection(meta.file).slug);
+  }
+  for (const { sectionFile, subSlug, entry } of catalog.iterEntries()) {
+    if (entry.deprecated) continue;
+    const primary = `${slugByFile.get(sectionFile)}/${subSlug}`;
+    const seen = new Set([primary]);
+    counts.set(primary, (counts.get(primary) || 0) + 1);
+    for (const p of entry.dual_listed_in || []) {
+      if (seen.has(p)) continue;
+      seen.add(p);
+      counts.set(p, (counts.get(p) || 0) + 1);
+    }
+  }
+  _subCountCache = counts;
+  return counts;
+}
+
 function loadSubEntries(sectionFile, subSlug, sectionSlug) {
   const entries = [];
   const seenUrls = new Set();
@@ -13,23 +62,44 @@ function loadSubEntries(sectionFile, subSlug, sectionSlug) {
   for (const ref of catalog.listChunks()) {
     const isPrimary = ref.sectionFile === sectionFile && ref.subSlug === subSlug;
     const chunk = catalog.loadChunk(ref.id);
+    const chunkPrimary = `${ref.sectionSlug}/${ref.subSlug}`;
     for (const e of chunk.entries) {
       if (isPrimary) {
         const k = (e.url || '').toLowerCase();
         if (k && seenUrls.has(k)) continue;
         if (k) seenUrls.add(k);
-        entries.push(e);
+        // Tag with primary location for B5 "See also".
+        entries.push(Object.assign({}, e, { _primaryLoc: chunkPrimary }));
       } else {
         const dual = e.dual_listed_in || [];
         if (!dual.includes(targetPath)) continue;
         const k = (e.url || '').toLowerCase();
         if (k && seenUrls.has(k)) continue;
         if (k) seenUrls.add(k);
-        entries.push(e);
+        entries.push(Object.assign({}, e, { _primaryLoc: chunkPrimary }));
       }
     }
   }
   return entries;
+}
+
+// B5: build the "See also" inline string for an entry, given the location
+// where it's currently being rendered. Lists every other location it appears
+// in (primary or mirror) as anchor links.
+function seeAlsoLinks(entry, currentLoc) {
+  const dual = entry.dual_listed_in || [];
+  const all = new Set([entry._primaryLoc, ...dual].filter(Boolean));
+  all.delete(currentLoc);
+  if (!all.size) return '';
+  const map = getSubMap();
+  const parts = [];
+  for (const loc of all) {
+    const meta = map.get(loc);
+    if (!meta) continue;
+    parts.push(`<a href="#${meta.anchor}">${meta.sectionTitle} → ${meta.subTitle}</a>`);
+  }
+  if (!parts.length) return '';
+  return `<small class="see-also">See also: ${parts.join(', ')}</small>`;
 }
 
 function alphaSort(entries) {
@@ -59,6 +129,14 @@ function licensePill(license) {
   return ` <span class="lic-pill ${cls}">${v}</span>`;
 }
 
+// A6: wrap decorative pictographic emoji so screen readers don't announce
+// "open book emoji" before each entry. Skips the existing GH SVG (no emoji).
+const EMOJI_RE = /(\p{Extended_Pictographic}️?(?:‍\p{Extended_Pictographic}️?)*)/gu;
+function wrapEmoji(text) {
+  if (!text) return text;
+  return text.replace(EMOJI_RE, '<span aria-hidden="true">$1</span>');
+}
+
 function processDescription(desc) {
   if (!desc) return desc;
   // [![][repo]](URL) — closed paren
@@ -69,6 +147,8 @@ function processDescription(desc) {
   desc = desc.replace(/!\[\]\[repo\]/g, () => repoPill(null));
   // Strip every other broken image-ref like ![][gpl], ![][mit], ![][win] etc.
   desc = desc.replace(/!\[\]\[[\w-]+\]/g, '');
+  // A6: wrap decorative emoji last (after pill substitution, so SVG content is untouched).
+  desc = wrapEmoji(desc);
   return desc.trim();
 }
 
@@ -89,7 +169,7 @@ function header() {
     '',
     '*Curated by [Devanshu Tak](https://devanshutak.xyz)* compiled with the help of Claude Code.',
     '',
-    '> ⚠️ **Heads up:** There might be issues — broken links, mislabelled licenses, stale prices, or sparse descriptions. Flag anything you spot via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
+    '> <span aria-hidden="true">⚠️</span> **Heads up:** There might be issues — broken links, mislabelled licenses, stale prices, or sparse descriptions. Flag anything you spot via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
     '',
     '> **Looking for something specific?** Visit **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** for the interactive version with search and tag filtering (License · Platform · Workflow · Output).',
     '',
@@ -101,6 +181,18 @@ function header() {
 function tocEntry(title, depth = 0) {
   const indent = '  '.repeat(depth);
   return `${indent}- [${title}](#${githubAnchor(title)})`;
+}
+
+// B4: ToC entry with item count and descriptor for information scent.
+function tocEntryRich(sub, sectionSlug, depth = 0) {
+  const indent = '  '.repeat(depth);
+  const counts = getSubCounts();
+  const key = `${sectionSlug}/${sub.slug}`;
+  const n = counts.get(key) || 0;
+  const countSpan = n ? ` <span class="toc-count">(${n} item${n === 1 ? '' : 's'})</span>` : '';
+  const desc = (sub.description || '').trim();
+  const descSpan = desc ? `<br><small class="toc-desc">${desc}</small>` : '';
+  return `${indent}- [${sub.title}](#${githubAnchor(sub.title)})${countSpan}${descSpan}`;
 }
 
 function buildToC(sections) {
@@ -115,7 +207,7 @@ function buildToC(sections) {
     lines.push(`<summary><a href="#${sectionId}">${section.title}</a></summary>`);
     lines.push('');
     for (const sub of section.subsections || []) {
-      lines.push(tocEntry(sub.title, 0));
+      lines.push(tocEntryRich(sub, section.slug, 0));
     }
     lines.push('');
     lines.push('</details>');
@@ -149,6 +241,8 @@ function renderSection(section, sectionFile) {
     const software = active.filter(e => e.entry_type === 'software');
     const references = active.filter(e => e.entry_type !== 'software');
 
+    const currentLoc = `${section.slug}/${sub.slug}`;
+
     if (software.length) {
       const hasPricing = software.some(e => e.pricing);
       const header = hasPricing
@@ -160,8 +254,11 @@ function renderSection(section, sectionFile) {
       lines.push(header);
       lines.push(sep);
       for (const e of software) {
-        const name = `[${e.name}](${e.url})`;
-        const desc = processDescription(e.description || '').replace(/\|/g, '\\|');
+        const name = `[${wrapEmoji(e.name)}](${e.url})`;
+        let descCore = processDescription(e.description || '');
+        const seeAlso = seeAlsoLinks(e, currentLoc);
+        if (seeAlso) descCore = descCore ? `${descCore}<br>${seeAlso}` : seeAlso;
+        const desc = descCore.replace(/\|/g, '\\|');
         const license = e.license || '';
         const tags = (e.readme_tags || []).join(' · ');
         const bestFor = e.best_for || '';
@@ -182,7 +279,9 @@ function renderSection(section, sectionFile) {
       for (const e of references) {
         const desc = e.description ? ` — ${processDescription(e.description)}` : '';
         const pill = licensePill(e.license);
-        lines.push(`- [${e.name}](${e.url})${pill}${desc}`);
+        const seeAlso = seeAlsoLinks(e, currentLoc);
+        const seeAlsoSuffix = seeAlso ? `<br>${seeAlso}` : '';
+        lines.push(`- [${wrapEmoji(e.name)}](${e.url})${pill}${desc}${seeAlsoSuffix}`);
       }
       lines.push('');
     }

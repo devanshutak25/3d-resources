@@ -7,7 +7,8 @@ Implementation-agnostic. Source of truth for behavior.
 
 - **Round 1 (§1–§17):** ✅ implemented 2026-05-04 — see `_site/`, `assets/js/filter.js`, `assets/css/style.css`, `scripts/render.js`, `data/09-ai-ml.yml`.
 - **Round 2 P0 (A1, A2, A3, B1, B2, B3, B7):** ✅ implemented 2026-05-04 — see `assets/js/filter.js`, `scripts/build-html.js`, `scripts/render.js`, `assets/css/style.css`, `schema/entry.schema.json`, and data fixes in `data/01-assets/*`, `data/02-modeling/*`, `data/12-software-reference/*`.
-- **Round 2 P1/P2 (A4–A9, B4–B6, C1–C3):** pending.
+- **Round 2 P1 (A4, A5, A6, A9, B4, B5):** ✅ implemented 2026-05-04 — see `scripts/render.js`, `scripts/build-html.js`, `assets/js/filter.js`, `assets/css/style.css`.
+- **Round 2 P2 (A7, A8, B6, C1, C2, C3):** pending.
 - **Round 3 (§D):** pending.
 
 ---
@@ -165,17 +166,18 @@ Only accepted items below; rejected items omitted.
 - Add "Skip to main content" link as first focusable element on page.
 - WCAG 1.3.1, 2.4.1.
 
-### A4. Section anchor focus management
+### A4. Section anchor focus management ✅ 2026-05-04
 - When ToC link is clicked and target section scrolls into view, move keyboard focus to the section heading.
 - Add `tabindex="-1"` on section/subsection headings so they can receive programmatic focus without entering tab order.
 - WCAG 2.4.1, 2.4.3.
 
-### A5. Heading hierarchy
+### A5. Heading hierarchy ✅ 2026-05-04
 - Verify and fix any skipped levels (e.g. h2 → h4 directly).
 - Subcategories should be exactly one level deeper than their parent section.
+- Build now asserts no skipped levels (`scripts/build-html.js`).
 - WCAG 1.3.1.
 
-### A6. `aria-hidden` on decorative emoji/icons
+### A6. `aria-hidden` on decorative emoji/icons ✅ 2026-05-04
 - All emoji or decorative icons (📖, 🔗, ⚙️, etc.) wrapped with `aria-hidden="true"` so screen readers don't announce "open book emoji" before each entry.
 - WCAG 1.3.1.
 
@@ -190,7 +192,7 @@ Only accepted items below; rejected items omitted.
 - Verify `<html lang="en">` is present so screen readers select correct voice.
 - WCAG 3.1.1.
 
-### A9. External-link hygiene
+### A9. External-link hygiene ✅ 2026-05-04
 - Add a visual indicator (small icon or `↗` glyph) next to external links.
 - Audit every `target="_blank"` link to ensure `rel="noopener noreferrer"`.
 - WCAG 2.4.4.
@@ -214,12 +216,12 @@ Confirmed cases to fix:
 - **cineversity.com** → 301 to `cineversity.maxon.net`. Update to canonical URL.
 - (Run a broader scheduled link-check pass beyond just these three — see B7.)
 
-### B4. ToC information scent
+### B4. ToC information scent ✅ 2026-05-04
 - Each ToC entry shows: section/subcategory name + `(N items)` count + 6–10 word descriptor.
-- Optional: 1–3 representative tool logos or names per top-level entry.
+- Optional: 1–3 representative tool logos or names per top-level entry. *(deferred — descriptor carries the scent)*
 - User should be able to predict scope without clicking in.
 
-### B5. Surface `dual_listed_in` mirrors as "See also"
+### B5. Surface `dual_listed_in` mirrors as "See also" ✅ 2026-05-04
 - The mirror metadata in data files is currently invisible to users.
 - Render an inline "See also: [related entry]" link on every item that has `dual_listed_in` populated.
 - Example: Houdini course in Game Dev → links to Houdini software entry; Houdini plugin in Software Reference → links to Houdini courses.
@@ -268,8 +270,8 @@ Confirmed cases to fix:
 
 ## Round 2 — Priority Cuts
 
-- **P0 (correctness/trust):** A1, A2, A3, B1, B2, B3, B7
-- **P1 (a11y + scent):** A4, A5, A6, A9, B4, B5
+- **P0 (correctness/trust):** A1, A2, A3, B1, B2, B3, B7 ✅
+- **P1 (a11y + scent):** A4, A5, A6, A9, B4, B5 ✅
 - **P2 (hygiene + delight):** A7, A8, B6, C1, C2, C3
 
 ---

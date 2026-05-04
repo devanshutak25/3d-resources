@@ -125,15 +125,63 @@ const jsonLd = {
 const md = fs.readFileSync('README.md', 'utf8');
 let html = marked.parse(md);
 
-// Inject IDs on headings
+// Inject IDs on headings. A4: H2/H3 also get tabindex="-1" so ToC links can
+// move keyboard focus to the heading without putting them in the tab order.
 html = html.replace(/<(h[1-6])>(.*?)<\/\1>/g, (m, tag, inner) => {
   const textOnly = inner.replace(/<[^>]+>/g, '');
   const id = slugify(textOnly);
-  return `<${tag} id="${id}">${inner}</${tag}>`;
+  const extra = (tag === 'h2' || tag === 'h3') ? ' tabindex="-1"' : '';
+  return `<${tag} id="${id}"${extra}>${inner}</${tag}>`;
 });
 
+// A5: heading hierarchy assertion — fail build if h4/h5/h6 appears as a
+// direct sibling of h2 without an intervening h3 (i.e. skipping a level).
+(() => {
+  const re = /<(h[2-6])\s/g;
+  let lastH2Skipped = false;
+  let depth = 2;
+  let m;
+  const errors = [];
+  while ((m = re.exec(html))) {
+    const lvl = parseInt(m[1].slice(1), 10);
+    if (lvl === 2) { depth = 2; continue; }
+    if (lvl === 3) { depth = 3; continue; }
+    // h4+ — must be preceded by h3 in current section.
+    if (depth < lvl - 1) {
+      const ctxStart = Math.max(0, m.index - 60);
+      errors.push(`heading skip: ${m[1]} after depth ${depth} near "${html.slice(ctxStart, m.index + 30).replace(/\s+/g, ' ')}"`);
+    }
+    if (depth < lvl) depth = lvl;
+  }
+  if (errors.length) {
+    console.error('A5 heading hierarchy violations:');
+    for (const e of errors) console.error('  -', e);
+    process.exit(1);
+  }
+})();
+
+// A9: external link hygiene. Add target="_blank" + rel="noopener noreferrer"
+// to every external <a href="http..."> that doesn't already set them, so the
+// CSS [target="_blank"]::after glyph kicks in and security is consistent.
+(() => {
+  const SITE_HOST = new URL(SITE_URL).hostname;
+  html = html.replace(/<a\s+([^>]*?)href="(https?:\/\/[^"]+)"([^>]*)>/g, (full, pre, href, post) => {
+    let host;
+    try { host = new URL(href).hostname; } catch (_) { return full; }
+    if (host === SITE_HOST) return full;
+    const all = pre + ' ' + post;
+    const hasTarget = /\btarget\s*=/.test(all);
+    const hasRel = /\brel\s*=/.test(all);
+    let extra = '';
+    if (!hasTarget) extra += ' target="_blank"';
+    if (!hasRel) extra += ' rel="noopener noreferrer"';
+    if (!extra) return full;
+    return `<a ${pre}href="${href}"${post}${extra}>`;
+  });
+})();
+
 // Tag the "Heads up" blockquote with a class for yellow styling
-html = html.replace(/<blockquote>\s*<p>(⚠️?\s*<strong>Heads up:<\/strong>[\s\S]*?)<\/p>\s*<\/blockquote>/,
+html = html.replace(/<blockquote>\s*<p>((?:(?:<span[^>]*>⚠️<\/span>)|⚠️)?\s*<strong>Heads up:<\/strong>[\s\S]*?)<\/p>\s*<\/blockquote>/,
   '<blockquote class="callout-warning"><p>$1</p></blockquote>');
 
 // Remove the "Looking for something specific?" callout from the deployed site.
