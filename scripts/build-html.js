@@ -122,7 +122,10 @@ const jsonLd = {
 };
 
 // --- Render HTML ---
-const md = fs.readFileSync('README.md', 'utf8');
+let md = fs.readFileSync('README.md', 'utf8');
+// Strip GitHub-only blocks; uncomment site-only blocks.
+md = md.replace(/<!--\s*only:readme\s*-->[\s\S]*?<!--\s*\/only:readme\s*-->\n?/g, '');
+md = md.replace(/<!--\s*only:site\s*\n([\s\S]*?)\n\s*-->/g, '$1');
 let html = marked.parse(md);
 
 // C1: per-discipline icons keyed by section anchor (slugified section title).

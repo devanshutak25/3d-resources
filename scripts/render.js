@@ -192,13 +192,13 @@ function header() {
     '',
     '> A curated collection of **free and paid 3D resources** — software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
     '',
-    '*Curated by [Devanshu Tak](https://devanshutak.xyz)* compiled with the help of Claude Code.',
+    '<!-- only:readme -->',
+    '> 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** — search + filter by License · Platform · Workflow · Output.',
+    '<!-- /only:readme -->',
     '',
-    '> <span aria-hidden="true">⚠️</span> **Heads up:** There might be issues — broken links, mislabelled licenses, stale prices, or sparse descriptions. Flag anything you spot via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
+    'Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](contributing.md)',
     '',
-    '> **Looking for something specific?** Visit **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** for the interactive version with search and tag filtering (License · Platform · Workflow · Output).',
-    '',
-    '**Found something wrong or want to add a resource?** [Open an issue](https://github.com/devanshutak25/3d-resources/issues) to suggest changes, report broken links, or flag incorrect info. Want to contribute directly? [Read the guidelines](contributing.md) and submit a pull request.',
+    '> <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
     ''
   ].join('\n');
 }
