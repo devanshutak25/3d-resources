@@ -10,7 +10,7 @@ entries:
       output:
         - illustration
         - film-vfx
-        - product-design
+        - product-viz
       platform:
         - win
         - mac
@@ -32,7 +32,7 @@ entries:
     tags:
       output:
         - illustration
-        - product-design
+        - product-viz
       platform:
         - win
         - mac
@@ -53,7 +53,6 @@ entries:
     best_for: Editorial layout and publishing
     tags:
       output:
-        - print
         - illustration
       platform:
         - win
@@ -140,7 +139,7 @@ entries:
     best_for: UI/UX design on Mac
     tags:
       output:
-        - product-design
+        - product-viz
       platform:
         - mac
     readme_tags:

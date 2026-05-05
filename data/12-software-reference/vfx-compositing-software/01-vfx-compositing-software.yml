@@ -9,7 +9,6 @@ entries:
     tags:
       workflow:
         - compositing
-        - tracking
       output:
         - film-vfx
         - broadcast
@@ -34,7 +33,6 @@ entries:
     tags:
       workflow:
         - compositing
-        - rotoscoping
       output:
         - film-vfx
       platform:
@@ -124,7 +122,6 @@ entries:
     best_for: Face/geo tracking for VFX
     tags:
       workflow:
-        - tracking
         - compositing
       output:
         - film-vfx

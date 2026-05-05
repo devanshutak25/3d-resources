@@ -12,7 +12,7 @@ entries:
         - lighting
       output:
         - archviz
-        - product-design
+        - product-viz
         - film-vfx
       platform:
         - win
@@ -35,7 +35,7 @@ entries:
         - lighting
       output:
         - archviz
-        - product-design
+        - product-viz
       platform:
         - win
         - mac

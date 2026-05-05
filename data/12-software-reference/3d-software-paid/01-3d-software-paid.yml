@@ -454,7 +454,7 @@ entries:
         - modeling
       output:
         - games
-        - product-design
+        - product-viz
         - illustration
       platform:
         - win
