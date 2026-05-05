@@ -562,3 +562,26 @@ entries:
     tags:
       platform:
         - web
+  - name: Pablander Academy
+    url: https://www.pablander.academy/
+    description: Character sculpting and digital art courses, tutorials, and brush packs (ZBrush, Blender, Substance, Marmoset).
+    license: Freemium
+    entry_type: tutorial
+    readme_tags:
+      - Sculpting
+      - Characters
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+        - texturing
+        - lighting
+        - rendering
+      platform:
+        - web
+      tech:
+        - zbrush
+        - blender
+        - substance-painter
+        - marmoset
