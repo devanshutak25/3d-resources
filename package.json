@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
     "js-yaml": "^4.1.1",
-    "marked": "^18.0.3"
+    "marked": "^18.0.3",
+    "minisearch": "^7.2.0"
   }
 }

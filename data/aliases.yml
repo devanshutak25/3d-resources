@@ -1,0 +1,111 @@
+# Search alias map.
+#
+# Format: { alias: canonical_phrase }
+#   - "alias"            — short form / variant the user might type (lowercase)
+#   - "canonical_phrase" — substring that must appear (case-insensitively) in
+#                          an entry's name, tech tags, skill tags, or
+#                          subsection slug for the alias to apply to it.
+#
+# At search-index build time:
+#   for each entry, every canonical phrase that matches the entry adds its
+#   alias keys to the entry's searchable `aliases` field. This means typing
+#   "c4d" matches every Cinema 4D entry without per-entry maintenance.
+#
+# Add new aliases freely. Keep canonical phrases lowercase. If a canonical
+# never matches any entry, the alias is harmless dead weight — prune as needed.
+aliases:
+  # --- DCCs ---
+  c4d: cinema 4d
+  cinema4d: cinema 4d
+  cinema-4d: cinema 4d
+  zb: zbrush
+  hou: houdini
+  ma: maya
+  mb: maya
+  3dsmax: 3ds max
+  3ds-max: 3ds max
+  max: 3ds max
+  blender3d: blender
+  bl: blender
+
+  # --- Adobe ---
+  ae: after effects
+  aftereffects: after effects
+  ps: photoshop
+  illu: illustrator
+  pr: premiere
+  premiere: premiere pro
+  premiereproject: premiere pro
+  sd: substance designer
+  sp: substance painter
+
+  # --- Autodesk / Foundry / others ---
+  ad: autodesk
+  fbx: autodesk
+  nuke: nuke
+  mari: mari
+  modo: modo
+  katana: katana
+
+  # --- Game engines ---
+  ue: unreal engine
+  ue4: unreal engine
+  ue5: unreal engine
+  unreal: unreal engine
+  ureal: unreal engine
+  godot4: godot
+  unity3d: unity
+
+  # --- Render engines ---
+  rs: redshift
+  octane: octane
+  vray: v-ray
+  v-ray: v-ray
+  arnold: arnold
+  cycles: cycles
+  eevee: eevee
+  karma: karma
+  mantra: mantra
+
+  # --- Formats / pipeline ---
+  usd: openusd
+  hydra: openusd
+  alembic: alembic
+  fbx-format: fbx
+
+  # --- Workflow shorthand ---
+  retopo: retopology
+  uv: uv unwrapping
+  pbr: physically based rendering
+  ibl: image based lighting
+  hdri: high dynamic range
+  mocap: motion capture
+  comp: compositing
+  vp: virtual production
+  vfx: visual effects
+  mograph: motion graphics
+  motiongraphics: motion graphics
+  archviz: architectural visualization
+  productviz: product visualization
+
+  # --- AI / ML ---
+  sd-model: stable diffusion
+  stablediffusion: stable diffusion
+  ml: machine learning
+  nerf: neural radiance
+  gaussian: gaussian splatting
+  splat: gaussian splatting
+  3dgs: gaussian splatting
+
+  # --- Misc tools ---
+  marvelous: marvelous designer
+  md: marvelous designer
+  rizom: rizomuv
+  quad: quad remesher
+  quadremesher: quad remesher
+  speedtree: speedtree
+  worldcreator: world creator
+  gaea: gaea
+  qb: quixel
+  ms: megascans
+  sb: substance

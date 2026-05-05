@@ -5,6 +5,8 @@
   'use strict';
 
   const DATA_URL = '/data.json';
+  const SEARCH_INDEX_URL = '/search-index.json';
+  const HIGHLIGHT_CAP = 80; // only highlight top-N matching rows for perf
   const EXCLUDED_H2_IDS = new Set(['contents', 'contributing', 'footnotes', 'attribution']);
   const ISSUES_URL = 'https://github.com/devanshutak25/3d-resources/issues';
 
@@ -56,8 +58,10 @@
     output: new Set()
   };
 
-  let itemIndex = []; // [{ el, entry, title, desc, tagsText, score, origIndex }]
+  let itemIndex = []; // [{ el, entry, urlKey, score, origIndex }]
   let mainEl = null;
+  let miniSearch = null;          // loaded MiniSearch instance (null until ready)
+  let lastSearching = false;      // tracks searching↔idle transitions for reorder
   const autoExpanded = new Set();           // headings auto-opened during search (§3)
   const headingOrigOrder = new WeakMap();   // h3 -> int
 
@@ -129,18 +133,9 @@
       } else {
         el.insertBefore(link, el.firstChild);
       }
-      const tagsAll = []
-        .concat(entry.tags.platform || [])
-        .concat(entry.tags.workflow || [])
-        .concat(entry.tags.output || [])
-        .concat(entry.tags.tech || [])
-        .concat(entry.tags.skill || [])
-        .concat(entry.readme_tags || []);
       itemIndex.push({
         el, entry,
-        title: (entry.name || '').toLowerCase(),
-        desc: (entry.description || '').toLowerCase(),
-        tagsText: tagsAll.join(' ').toLowerCase(),
+        urlKey: normalizeUrl(entry.url),
         score: 0,
         origIndex: idx++
       });
@@ -151,55 +146,39 @@
     for (const h of mainEl.querySelectorAll('h3')) headingOrigOrder.set(h, hidx++);
   }
 
-  // ---------- §4 Search ranking & fuzziness ----------
+  // ---------- §4 Search via MiniSearch ----------
+  //
+  // Index is built server-side (scripts/build-search-index.js) and loaded
+  // once at start. Search options here MUST mirror the build options.
 
-  function tokenize(q) {
-    return q.toLowerCase().split(/\s+/).filter(Boolean);
+  const SEARCH_OPTS = {
+    boost: { name: 4, nameSquashed: 4, aliases: 4, tags: 2, subsection: 1.5, description: 1 },
+    prefix: true,
+    fuzzy: 0.2,
+    combineWith: 'AND'
+  };
+
+  function runSearch(query) {
+    if (!miniSearch || !query) return null;
+    // Defensive: MiniSearch tokenizes itself. Strip extra noise; keep alphanum
+    // and spaces so "cinema4d" stays one token (matches indexed nameSquashed).
+    const q = String(query).trim();
+    if (!q) return null;
+    const results = miniSearch.search(q, SEARCH_OPTS);
+    const map = new Map();
+    for (const r of results) map.set(r.id, r.score);
+    return map;
   }
 
-  function levCap1(a, b) {
-    if (a === b) return 0;
-    if (Math.abs(a.length - b.length) > 1) return 2;
-    if (a.length === b.length) {
-      let d = 0;
-      for (let i = 0; i < a.length; i++) {
-        if (a[i] !== b[i]) { d++; if (d > 1) return 2; }
-      }
-      return d;
+  // Tokens exposed to the highlighter — split on whitespace + punctuation,
+  // dedupe, lowercase. Order doesn't matter for highlighting.
+  function highlightTokens(query) {
+    if (!query) return [];
+    const set = new Set();
+    for (const t of String(query).toLowerCase().split(/[^a-z0-9]+/)) {
+      if (t && t.length >= 2) set.add(t);
     }
-    const [s, l] = a.length < b.length ? [a, b] : [b, a];
-    let i = 0, j = 0, d = 0;
-    while (i < s.length && j < l.length) {
-      if (s[i] === l[j]) { i++; j++; }
-      else { d++; if (d > 1) return 2; j++; }
-    }
-    return d + (l.length - j);
-  }
-
-  function fieldScore(field, tokens) {
-    if (!field || !tokens.length) return 0;
-    let total = 0;
-    const words = field.split(/[^a-z0-9]+/);
-    for (const tk of tokens) {
-      if (field.indexOf(tk) !== -1) { total += 1; continue; }
-      if (tk.length >= 4) {
-        let best = 99;
-        for (const w of words) {
-          if (!w || Math.abs(w.length - tk.length) > 1) continue;
-          const d = levCap1(w, tk);
-          if (d < best) { best = d; if (best === 0) break; }
-        }
-        if (best <= 1) total += 0.5;
-      }
-    }
-    return total;
-  }
-
-  function scoreItem(item, tokens) {
-    if (!tokens.length) return 1;
-    return fieldScore(item.title, tokens) * 3
-         + fieldScore(item.tagsText, tokens) * 2
-         + fieldScore(item.desc, tokens) * 1;
+    return [...set];
   }
 
   // ---------- Filter logic ----------
@@ -332,8 +311,14 @@
   function highlightInVisible(tokens) {
     if (!tokens.length) return;
     const re = new RegExp('(' + tokens.map(escapeRegExp).join('|') + ')', 'gi');
-    for (const item of itemIndex) {
-      if (item.el.style.display === 'none') continue;
+    // Highlight only the top-N visible items by score — the most relevant
+    // ones the user actually sees first. Bounds the worst case at ~80 tree
+    // walks even when 1000+ rows match.
+    const ordered = itemIndex
+      .filter(it => it.el.style.display !== 'none')
+      .sort((a, b) => b.score - a.score)
+      .slice(0, HIGHLIGHT_CAP);
+    for (const item of ordered) {
       const walker = document.createTreeWalker(item.el, NodeFilter.SHOW_TEXT, {
         acceptNode(n) {
           if (!n.nodeValue || !n.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
@@ -370,6 +355,13 @@
   // ---------- §4 Reorder by score ----------
 
   function reorderItems(searching) {
+    // Skip the heavy per-item DOM shuffle when nothing has changed.
+    //   - searching now, was idle:    sort by score, move
+    //   - searching, still searching: sort by score, move (scores changed)
+    //   - idle now, was searching:    restore original order
+    //   - idle, still idle:           no-op
+    if (!searching && !lastSearching) { lastSearching = false; return; }
+
     const groups = new Map();
     for (const item of itemIndex) {
       const p = item.el.parentElement;
@@ -378,13 +370,18 @@
       groups.get(p).push(item);
     }
     for (const [parent, items] of groups) {
-      const sorted = items.slice().sort((a, b) => {
+      items.sort((a, b) => {
         if (searching && b.score !== a.score) return b.score - a.score;
         return a.origIndex - b.origIndex;
       });
-      for (const it of sorted) parent.appendChild(it.el);
+      // Single batched insert via DocumentFragment — one reflow per parent
+      // instead of one per item (the previous loop was O(N) reflows).
+      const frag = document.createDocumentFragment();
+      for (const it of items) frag.appendChild(it.el);
+      parent.appendChild(frag);
     }
     reorderSubcats(searching);
+    lastSearching = searching;
   }
 
   function reorderSubcats(searching) {
@@ -606,8 +603,15 @@
 
   function applyFilters() {
     clearHighlights();
-    const tokens = tokenize(active.search);
-    for (const item of itemIndex) item.score = scoreItem(item, tokens);
+    // If the engine isn't ready yet (initial load with a hash query), treat
+    // search as inactive for now. loadSearchIndex() re-applies once ready.
+    const searching = !!active.search && !!miniSearch;
+    const scoreMap = searching ? runSearch(active.search) : null;
+    if (searching && scoreMap) {
+      for (const item of itemIndex) item.score = scoreMap.get(item.urlKey) || 0;
+    } else {
+      for (const item of itemIndex) item.score = 1;
+    }
 
     let visibleCount = 0;
     for (const item of itemIndex) {
@@ -616,11 +620,14 @@
       if (show) visibleCount++;
     }
 
-    reorderItems(tokens.length > 0);
+    reorderItems(searching);
     autoExpandMatchingSubcats();
     hideEmptySections();
     addOrUpdateHitBadges();
-    if (tokens.length) highlightInVisible(tokens);
+    if (searching) {
+      const tokens = highlightTokens(active.search);
+      if (tokens.length) highlightInVisible(tokens);
+    }
     updateEmptyState(visibleCount);
 
     const counter = document.getElementById('filter-count');
@@ -1372,9 +1379,49 @@
   }
 
   function start() {
+    // Load entries + search index in parallel. The page is usable as soon as
+    // entries arrive; search becomes available when the index finishes
+    // loading + parsing (typically <300ms after).
     fetch(DATA_URL)
       .then(r => r.json())
-      .then(init)
+      .then(data => {
+        init(data);
+        loadSearchIndex();
+      })
       .catch(err => console.error('Filter init failed:', err));
+  }
+
+  function loadSearchIndex() {
+    if (typeof MiniSearch === 'undefined') {
+      console.warn('MiniSearch library not loaded; search disabled.');
+      return;
+    }
+    const search = document.getElementById('filter-search');
+    if (search) {
+      search.placeholder = 'Loading search…';
+      search.disabled = true;
+    }
+    fetch(SEARCH_INDEX_URL)
+      .then(r => r.text())
+      .then(json => {
+        miniSearch = MiniSearch.loadJSON(json, {
+          fields: ['name', 'nameSquashed', 'aliases', 'tags', 'subsection', 'description'],
+          storeFields: ['id'],
+          searchOptions: SEARCH_OPTS
+        });
+        if (search) {
+          search.placeholder = 'Search resources…';
+          search.disabled = false;
+        }
+        // If the user already typed something while we were loading, run it now.
+        if (active.search) applyFilters();
+      })
+      .catch(err => {
+        console.error('Search index load failed:', err);
+        if (search) {
+          search.placeholder = 'Search resources…';
+          search.disabled = false;
+        }
+      });
   }
 })();
