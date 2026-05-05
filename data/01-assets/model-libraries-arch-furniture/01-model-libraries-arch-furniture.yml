@@ -33,7 +33,7 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
   - name: Design Connected
-    url: https://www.designconnected.com/
+    url: https://www.designconnected.com/catalog/3D-Models/all/
     description: Furniture.
     entry_type: marketplace
     tags:
@@ -147,6 +147,24 @@ entries:
       - Furniture
       - Product Design
     url_last_verified: '2026-05-01'
+    url_status: ok
+  - name: Viz-People
+    url: https://www.viz-people.com
+    description: Archviz scenes, 3D people, vegetation, HDRIs.
+    entry_type: asset-source
+    tags:
+      output:
+        - archviz
+      workflow:
+        - modeling
+        - lighting
+      platform:
+        - web
+    readme_tags:
+      - Arch-Viz
+      - 3D People
+      - HDRI
+    url_last_verified: '2026-05-05'
     url_status: ok
   - name: CG Mood
     url: https://cgmood.com/
