@@ -1,4 +1,143 @@
 entries:
+  - name: Mocha Pro
+    url: https://borisfx.com/products/mocha-pro/
+    description: Boris FX planar tracker for VFX — roto, object removal, screen replacement, lens distortion.
+    pricing: $48/mo or $325/yr; perpetual from $765
+    license: Paid
+    entry_type: software
+    best_for: Planar tracking, roto, screen replacement
+    tags:
+      workflow:
+        - compositing
+        - tracking
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Industry Standard
+      - Planar Tracking
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-tools
+  - name: Silhouette
+    url: https://borisfx.com/products/silhouette/
+    description: Boris FX node-based roto/paint compositor with AI-driven matte tools.
+    pricing: $165/mo or $875/yr; perpetual standalone $2,195
+    license: Paid
+    entry_type: software
+    best_for: Feature-film roto and paint
+    tags:
+      workflow:
+        - compositing
+        - rotoscoping
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Industry Standard
+      - Roto/Paint
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Sapphire
+    url: https://borisfx.com/products/sapphire/
+    description: Boris FX 270+ VFX/transition plugins for AE, Premiere, Resolve, Nuke, Flame, Avid, OFX hosts.
+    pricing: $80/mo or $545/yr; perpetual $1,865+
+    license: Paid
+    entry_type: software
+    best_for: VFX and transition plugins across hosts
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - broadcast
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Plugin Suite
+      - VFX
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Continuum
+    url: https://borisfx.com/products/continuum/
+    description: Boris FX broadcast/post effects collection — titles, particles, image restoration, color.
+    pricing: $32–$112/mo; perpetual $365–$2,195 by host
+    license: Paid
+    entry_type: software
+    best_for: Broadcast finishing and titling
+    tags:
+      workflow:
+        - compositing
+      output:
+        - broadcast
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Plugin Suite
+      - Broadcast
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Red Giant Complete
+    url: https://www.maxon.net/en/red-giant
+    description: Maxon-owned VFX/motion suite — Trapcode, Magic Bullet, VFX Suite, Universe.
+    pricing: $85/mo or $639/yr
+    license: Paid
+    entry_type: software
+    best_for: Motion graphics and VFX in AE/Premiere/Resolve
+    tags:
+      workflow:
+        - compositing
+      output:
+        - motion-graphics
+        - broadcast
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Plugin Suite
+      - Motion Graphics
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-tools
+  - name: KeenTools
+    url: https://keentools.io/
+    description: Face and geometry tracking plus FaceBuilder for Blender, Nuke, AE, Houdini.
+    pricing: $18/mo or $179/yr per plugin (Studio $499/yr floating)
+    license: Paid
+    entry_type: software
+    best_for: Face/geo tracking for VFX
+    tags:
+      workflow:
+        - tracking
+        - compositing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Face Tracking
+      - VFX
+    url_last_verified: '2026-05-05'
+    url_status: ok
   - name: Nuke (Foundry)
     url: https://www.foundry.com/products/nuke-family/nuke
     description: Industry-standard compositing. Non-Commercial free version available.

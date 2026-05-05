@@ -1,4 +1,30 @@
 entries:
+  - name: Mari
+    url: https://www.foundry.com/products/mari
+    description: Foundry's high-resolution 3D texture painting app, film-VFX standard for hero assets.
+    pricing: Indie perpetual $149; Individual $299/yr; Studio $1,289/yr
+    license: Paid
+    entry_type: software
+    best_for: Film-VFX texture painting at hero resolution
+    tags:
+      workflow:
+        - texturing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - udim
+    readme_tags:
+      - Industry Standard
+      - Hero Texturing
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - modeling-sculpting-texturing/material-creation-tools
   - name: Materialize
     url: http://www.boundingboxsoftware.com/materialize/
     description: Free texture map generation from a single image.

@@ -74,3 +74,27 @@ entries:
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/houdini-getting-started
+  - name: Cascadeur
+    url: https://cascadeur.com/
+    description: AI-assisted physics-based keyframe character animation; free for non-commercial use.
+    pricing: Indie $19/mo or $96/yr (rent-to-own perpetual)
+    license: Free NC
+    entry_type: software
+    best_for: Action/fight character animation
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-assisted
+    readme_tags:
+      - AI Anim
+      - Free NC
+    url_last_verified: '2026-05-05'
+    url_status: ok

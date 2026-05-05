@@ -1,4 +1,196 @@
 entries:
+  - name: Deadline (AWS Thinkbox)
+    url: https://aws.amazon.com/thinkbox-deadline/
+    description: Render farm manager. Free since v10.1.23. Deadline 10 in maintenance mode (Nov 2025); AWS pushing managed Deadline Cloud.
+    license: Free
+    entry_type: software
+    best_for: On-prem render farm management
+    tags:
+      tech:
+        - render-farm
+      output:
+        - film-vfx
+        - broadcast
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Render Farm
+      - Free
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    notes: Maintenance mode since 2025-11-07 — successor is AWS Deadline Cloud (usage-based).
+  - name: Flow Production Tracking (Autodesk)
+    url: https://www.autodesk.com/products/flow-production-tracking
+    description: Production tracking and review for film/TV/games. Renamed from ShotGrid in March 2024.
+    license: Paid
+    entry_type: software
+    best_for: Studio production tracking and review
+    tags:
+      tech:
+        - cloud
+      output:
+        - film-vfx
+        - broadcast
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Industry Standard
+      - Production Tracking
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    notes: Formerly ShotGrid (renamed 2024-03-26).
+  - name: AYON (Ynput)
+    url: https://ynput.io/ayon/
+    description: Open-source VFX/animation pipeline platform; successor to OpenPype (archived).
+    license: Open Source
+    entry_type: software
+    best_for: Open-source studio pipeline
+    tags:
+      tech:
+        - opensource-alt
+        - pipeline
+      output:
+        - film-vfx
+        - broadcast
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Open Pipeline
+      - VFX Studio
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    notes: OpenPype is EOL/archived; AYON is the active successor.
+  - name: Royal Render
+    url: https://royalrender.de/
+    description: Per-node render farm manager for VFX/animation pipelines.
+    license: Paid
+    entry_type: software
+    best_for: Studio render farm management
+    tags:
+      tech:
+        - render-farm
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Render Farm
+      - Studio
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Tractor (Pixar)
+    url: https://renderman.pixar.com/tractor
+    description: Pixar's render queue/dispatch system, bundled with RenderMan licensing.
+    license: Paid
+    entry_type: software
+    best_for: RenderMan-centric farm dispatch
+    tags:
+      tech:
+        - render-farm
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - RenderMan
+      - Render Farm
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Yeti (Peregrine Labs)
+    url: https://peregrinelabs.com/products/yeti
+    description: Maya plugin for fur, feathers, and procedural instancing.
+    license: Paid
+    entry_type: software
+    best_for: Hero grooms and procedural instancing in Maya
+    tags:
+      workflow:
+        - simulation
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Grooming
+      - Maya Plugin
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Ornatrix (Ephere)
+    url: https://ephere.com/
+    description: Hair, fur, and feather plugin for 3ds Max, Maya, C4D, and Unreal.
+    license: Paid
+    entry_type: software
+    best_for: Cross-host grooming
+    tags:
+      workflow:
+        - simulation
+      output:
+        - film-vfx
+        - games
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Grooming
+      - Multi-Host
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Massive
+    url: https://www.massivesoftware.com/
+    description: AI-driven crowd simulation pioneered on Lord of the Rings; Massive Prime + plugins for Maya/Max.
+    license: Paid
+    entry_type: software
+    best_for: Feature-film crowd simulation
+    tags:
+      workflow:
+        - simulation
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Industry Standard
+      - Crowd Sim
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Golaem (Autodesk)
+    url: https://www.autodesk.com/solutions/golaem
+    description: Crowd simulation for Maya. Now bundled into Autodesk Media & Entertainment Collection; built into Maya 2026.
+    pricing: Bundled in Autodesk M&E Collection ($335/mo or $2,700/yr)
+    license: Paid
+    entry_type: software
+    best_for: Maya crowd simulation
+    tags:
+      workflow:
+        - simulation
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Crowd Sim
+      - Maya
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    notes: Standalone purchase removed; only via Autodesk M&E Collection.
   - name: Houdini Engine (SideFX product)
     url: https://www.sidefx.com/products/houdini-engine/
     description: Procedural generation pipeline for Unreal/Unity/Godot.
@@ -445,6 +637,31 @@ entries:
         - games
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
+  - name: Foundry Katana
+    url: https://www.foundry.com/products/katana
+    description: Look-development and lighting orchestration tool for film/episodic VFX, scaling to massive scenes via deferred evaluation.
+    license: Paid
+    entry_type: software
+    best_for: Film lookdev and lighting at scale
+    tags:
+      workflow:
+        - lighting
+        - rendering
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - linux
+      tech:
+        - usd
+    readme_tags:
+      - Industry Standard
+      - Lookdev/Lighting
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - lighting-rendering-shaders/lighting-production
   - name: Medieval Fantasy City Generator
     url: https://watabou.itch.io/medieval-fantasy-city-generator
     description: 'This application generates a random medieval city layout of a requested size. [City Viewer](https://watabou.itch.io/city-viewer) : is a 3d-visualizer for MFCD. See other generators from'

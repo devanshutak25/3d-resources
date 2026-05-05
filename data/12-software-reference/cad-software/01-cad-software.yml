@@ -1,4 +1,96 @@
 entries:
+  - name: Autodesk Inventor
+    url: https://www.autodesk.com/products/inventor
+    description: Mechanical 3D CAD for product design, simulation, and tooling.
+    pricing: $310/mo or $2,500/yr
+    license: Paid
+    entry_type: software
+    best_for: Mechanical engineering and product design
+    tags:
+      output:
+        - product-design
+      platform:
+        - win
+    readme_tags:
+      - Mechanical CAD
+      - Industry Standard
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: PTC Creo
+    url: https://www.ptc.com/en/products/creo
+    description: Parametric mechanical CAD with simulation, generative design, and additive workflows.
+    pricing: Quote-based; perpetual ~$2,200–$16,000; subs $200–$1,500/mo
+    license: Paid
+    entry_type: software
+    best_for: High-end mechanical engineering
+    tags:
+      output:
+        - product-design
+      platform:
+        - win
+    readme_tags:
+      - Parametric CAD
+      - Industry Standard
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Siemens NX
+    url: https://plm.sw.siemens.com/en-US/nx/
+    description: High-end product engineering CAD/CAM/CAE; NX X is the cloud SaaS variant.
+    pricing: Quote-based (perpetual, subscription, or token)
+    license: Paid
+    entry_type: software
+    best_for: Enterprise PLM and engineering
+    tags:
+      output:
+        - product-design
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - PLM
+      - Industry Standard
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: BricsCAD
+    url: https://www.bricsys.com/bricscad
+    description: AutoCAD-compatible DWG CAD; offers both perpetual and subscription licensing.
+    pricing: Lite from €314; Pro $1,752 perpetual; Ultimate from €1,176/yr
+    license: Paid
+    entry_type: software
+    best_for: DWG-compatible CAD on Mac/Linux
+    tags:
+      output:
+        - product-design
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - DWG-Compatible
+      - Cross-Platform
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Shapr3D
+    url: https://www.shapr3d.com/
+    description: Touch-first parametric/direct CAD on iPad, Vision Pro, Mac, and Windows.
+    pricing: Pro $299/yr
+    license: Paid
+    entry_type: software
+    best_for: Tablet-first concept and product CAD
+    tags:
+      output:
+        - product-design
+      platform:
+        - win
+        - mac
+        - ios
+        - visionos
+    readme_tags:
+      - Touch-first
+      - Cross-Platform
+    url_last_verified: '2026-05-05'
+    url_status: ok
   - name: FreeCAD
     url: https://www.freecad.org/
     description: Free open-source parametric CAD.

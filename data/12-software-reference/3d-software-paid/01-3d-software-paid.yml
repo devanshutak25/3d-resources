@@ -321,3 +321,171 @@ entries:
       - Indie
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Cinema 4D
+    url: https://www.maxon.net/en/cinema-4d
+    description: Maxon's motion-graphics and procedural 3D DCC; ships with Redshift and 5 Team Render nodes.
+    pricing: $69.91/mo annual (Maxon One bundle $99.91/mo)
+    license: Paid
+    entry_type: software
+    best_for: Motion graphics, broadcast, design-led 3D
+    tags:
+      workflow:
+        - modeling
+        - animation
+        - rendering
+        - lighting
+        - simulation
+      output:
+        - motion-graphics
+        - broadcast
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Industry Standard
+      - Motion Graphics
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: 3ds Max
+    url: https://www.autodesk.com/products/3ds-max
+    description: Autodesk polygonal DCC widely used in archviz, games, and broadcast VFX.
+    pricing: $255/mo or $2,010/yr (Indie $330/yr)
+    license: Paid
+    entry_type: software
+    best_for: Archviz, games, broadcast VFX
+    tags:
+      workflow:
+        - modeling
+        - animation
+        - rendering
+        - lighting
+      output:
+        - archviz
+        - games
+        - broadcast
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - indie-license
+    readme_tags:
+      - Industry Standard
+      - Archviz/Games
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: MotionBuilder
+    url: https://www.autodesk.com/products/motionbuilder
+    description: Autodesk real-time character animation and mocap editing platform.
+    pricing: $2,225/yr
+    license: Paid
+    entry_type: software
+    best_for: Mocap cleanup, real-time character animation
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - film-vfx
+        - games
+        - broadcast
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Industry Standard
+      - Mocap
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Reallusion iClone
+    url: https://www.reallusion.com/iclone/
+    description: Real-time character animation and cinematic creation; pairs with Character Creator.
+    pricing: $59/mo or $199/yr (perpetual $599)
+    license: Paid
+    entry_type: software
+    best_for: Real-time previs, indie cinematics
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - film-vfx
+        - games
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Real-time
+      - Character Anim
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Reallusion Character Creator
+    url: https://www.reallusion.com/character-creator/
+    description: Character creation and auto-rigging pipeline feeding iClone, Unreal, Unity, Blender, Omniverse.
+    pricing: From $8.30/mo (3D Suite 365 $49.92/mo with iClone)
+    license: Paid
+    entry_type: software
+    best_for: Production-ready character pipelines
+    tags:
+      workflow:
+        - modeling
+        - rigging
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Character Pipeline
+      - Auto-Rig
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Plasticity
+    url: https://www.plasticity.xyz/
+    description: NURBS/CAD-style modeler tuned for artists and concept work; perpetual license w/ 12-month maintenance.
+    pricing: Indie/Studio perpetual; Indie→Studio upgrade $125
+    license: Paid
+    entry_type: software
+    best_for: Hard-surface concept, product design
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - product-design
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - NURBS
+      - Concept/Hard-Surface
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: LightWave 3D
+    url: https://lightwave3d.com/
+    description: Veteran modeling, animation, and rendering DCC with a long film/broadcast legacy.
+    license: Paid
+    entry_type: software
+    best_for: Broadcast, motion graphics, indie VFX
+    tags:
+      workflow:
+        - modeling
+        - animation
+        - rendering
+        - lighting
+      output:
+        - broadcast
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Veteran DCC
+      - Broadcast/VFX
+    url_last_verified: '2026-05-05'
+    url_status: ok

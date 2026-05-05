@@ -1,4 +1,114 @@
 entries:
+  - name: Maxwell Render
+    url: https://maxwellrender.com/
+    description: Next Limit unbiased physically-correct renderer; plugins for Studio, Rhino, SketchUp, C4D, Maya, 3ds Max, ArchiCAD, form·Z.
+    pricing: Paid perpetual + maintenance
+    license: Paid
+    entry_type: software
+    best_for: Photoreal archviz and product viz
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - archviz
+        - product-design
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Unbiased
+      - Photoreal
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Indigo Renderer
+    url: https://indigorenderer.com/
+    description: Glare Technologies unbiased GPU/CPU renderer with multi-GPU, denoising, and SSS.
+    pricing: ~$650 perpetual full license
+    license: Paid
+    entry_type: software
+    best_for: Photoreal stills, archviz
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - archviz
+        - product-design
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Unbiased
+      - GPU/CPU
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Lumion
+    url: https://lumion.com/
+    description: Real-time architectural visualization renderer with cloud rendering bundled.
+    pricing: View $229–$299/yr; Pro $1,149/yr; Studio $1,499/yr
+    license: Paid
+    entry_type: software
+    best_for: Real-time archviz
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - archviz
+      platform:
+        - win
+    readme_tags:
+      - Real-time
+      - Archviz
+    url_last_verified: '2026-05-05'
+    url_status: ok
+  - name: Enscape
+    url: https://www.chaos.com/enscape
+    description: Chaos real-time rendering plugin for Revit, SketchUp, Rhino, Archicad, Vectorworks. Subscription only since mid-2025.
+    pricing: Solo $574.80/yr; Premium $634.80/yr
+    license: Paid
+    entry_type: software
+    best_for: Real-time archviz inside CAD/BIM
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Real-time
+      - Archviz Plugin
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    notes: Perpetual licenses discontinued mid-2025; subscription only.
+  - name: Krakatoa
+    url: https://aws.amazon.com/thinkbox-krakatoa/
+    description: AWS Thinkbox volumetric particle renderer for 3ds Max and Maya; free + open source (Apache 2.0) since 2022.
+    license: Open Source
+    entry_type: software
+    best_for: Volumetric particle rendering
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Free OSS
+      - Particles
+    url_last_verified: '2026-05-05'
+    url_status: ok
   - name: Redshift (Maxon)
     url: https://www.maxon.net/en/redshift
     description: GPU-biased production renderer.

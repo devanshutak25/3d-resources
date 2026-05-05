@@ -1,4 +1,155 @@
 entries:
+  - name: Adobe Photoshop
+    url: https://www.adobe.com/products/photoshop.html
+    description: Industry-standard raster image editor and compositor; available on iPad.
+    pricing: Single App $22.99/mo; Photography Plan $19.99/mo
+    license: Paid
+    entry_type: software
+    best_for: Photo editing, matte painting, texture work
+    tags:
+      output:
+        - illustration
+        - film-vfx
+        - product-design
+      platform:
+        - win
+        - mac
+        - ios
+    readme_tags:
+      - Industry Standard
+      - Raster
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+  - name: Adobe Illustrator
+    url: https://www.adobe.com/products/illustrator.html
+    description: Industry-standard vector graphics editor; available on iPad.
+    pricing: $22.99/mo annual single-app
+    license: Paid
+    entry_type: software
+    best_for: Vector illustration, logos, layout
+    tags:
+      output:
+        - illustration
+        - product-design
+      platform:
+        - win
+        - mac
+        - ios
+    readme_tags:
+      - Industry Standard
+      - Vector
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+  - name: Adobe InDesign
+    url: https://www.adobe.com/products/indesign.html
+    description: Page layout and publishing for print and digital.
+    pricing: $20.99/mo annual single-app
+    license: Paid
+    entry_type: software
+    best_for: Editorial layout and publishing
+    tags:
+      output:
+        - print
+        - illustration
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Industry Standard
+      - Layout
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+  - name: Krita
+    url: https://krita.org/
+    description: Free open-source digital painting app from KDE; v5.3 and v6.0 shipped March 2026.
+    license: Open Source
+    entry_type: software
+    best_for: Digital painting, concept art
+    tags:
+      output:
+        - illustration
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+        - android
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Free OSS
+      - Painting
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+  - name: Clip Studio Paint
+    url: https://www.clipstudio.net/
+    description: Manga, comic, and illustration app with strong inking and animation toolset.
+    pricing: PRO from $0.99/mo or $26.99/yr; EX from $2.49/mo or $76.99/yr
+    license: Paid
+    entry_type: software
+    best_for: Manga, comics, illustration, 2D animation
+    tags:
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+        - ios
+        - android
+    readme_tags:
+      - Manga/Comics
+      - Illustration
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+  - name: Procreate
+    url: https://procreate.com/procreate
+    description: iPad-only digital painting app; one-time purchase, no subscription.
+    pricing: $12.99 one-time
+    license: Paid
+    entry_type: software
+    best_for: iPad illustration and painting
+    tags:
+      output:
+        - illustration
+      platform:
+        - ios
+    readme_tags:
+      - One-Time Purchase
+      - iPad
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+  - name: Sketch
+    url: https://www.sketch.com/
+    description: Mac-native UI/UX design tool with web previews and collaboration.
+    pricing: Standard $12/editor/mo; Mac one-time $120/seat
+    license: Paid
+    entry_type: software
+    best_for: UI/UX design on Mac
+    tags:
+      output:
+        - product-design
+      platform:
+        - mac
+    readme_tags:
+      - UI/UX
+      - Mac-native
+    url_last_verified: '2026-05-05'
+    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
   - name: Figma
     url: https://www.figma.com/
     description: Collaborative UI/UX design with free tier.
