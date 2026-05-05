@@ -410,16 +410,6 @@ entries:
         - rendering
       platform:
         - web
-  - name: Houdini
-    url: https://www.sidefx.com/products/houdini/
-    description: To create procedural 3D assets. The free licence "Houdini
-    entry_type: reference
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    notes: RELOCATE to §12 software table; entry is a DCC, not shader theory.
-    tags:
-      workflow:
-        - rendering
   - name: 3D Programming Weekly Articles
     url: https://www.3dkingdoms.com/weekly/weekly.php
     description: Great collection of shader and math related resources.

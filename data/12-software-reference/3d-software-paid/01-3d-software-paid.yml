@@ -36,6 +36,8 @@ entries:
     license: Paid
     entry_type: software
     best_for: Procedural FX, simulation, VFX
+    dual_listed_in:
+      - lighting-rendering-shaders/rendering-shader-theory
     tags:
       workflow:
         - modeling

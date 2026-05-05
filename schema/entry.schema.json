@@ -94,6 +94,7 @@
       "uniqueItems": true
     },
     "priority": { "type": "integer" },
+    "year": { "type": ["integer", "string"] },
     "deprecated": { "type": "boolean" },
     "version_sensitive": { "type": "boolean" },
     "pricing_last_verified": {

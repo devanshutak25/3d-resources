@@ -39,20 +39,6 @@ entries:
       - Browser Compute
     url_last_verified: '2026-05-01'
     url_status: ok
-  - name: Blender 4.x Rise
-    url: https://www.blender.org/
-    description: EEVEE Next (GPU ray tracing), Vulkan backend, extensions platform.
-    entry_type: reference
-    tags:
-      platform:
-        - win
-        - mac
-        - linux
-    readme_tags:
-      - Blender
-      - Production-viable
-    url_last_verified: '2026-05-01'
-    url_status: ok
   - name: Virtual Production
     url: https://www.disguise.one/
     description: LED volumes maturing from bleeding-edge to standardized.

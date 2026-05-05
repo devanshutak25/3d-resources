@@ -184,6 +184,8 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Full 3D pipeline, indie production
+    dual_listed_in:
+      - learning-community-industry/industry-trends
     tags:
       workflow:
         - modeling

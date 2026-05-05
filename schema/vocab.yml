@@ -7,6 +7,7 @@ license:
   - Free NC        # Free non-commercial only
   - Freemium       # Free tier + paid upgrades
   - Paid           # Paid-only (purchase or subscription)
+  - Mixed          # Aggregate sources with varying licenses
   # null allowed for tutorials/references where license is inapplicable
 
 entry_type:
