@@ -14,7 +14,7 @@ entries:
       tech:
         - godot
   - name: Godot Discord
-    url: https://discord.gg/4JBkykG
+    url: https://discord.gg/godotengine
     description: Official Discord.
     entry_type: community
     readme_tags:

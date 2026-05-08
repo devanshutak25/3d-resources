@@ -259,6 +259,33 @@ entries:
       - Liquids
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: IlluGen
+    url: https://jangafx.com/software/illugen/
+    description: Real-time procedural node-based generator for tiling noise, normal maps, flowmaps, 3D FX meshes, caustics, masks, distortions.
+    license: Paid
+    entry_type: software
+    best_for: Real-time VFX and tech-art asset/material generation
+    tags:
+      workflow:
+        - material-authoring
+        - fx
+        - texturing
+      output:
+        - games
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+      tech:
+        - real-time
+        - gpu
+        - procedural
+        - node-based
+    readme_tags:
+      - Real-time
+      - Procedural Materials
+    url_last_verified: '2026-05-08'
+    url_status: ok
   - name: GeoGen (JangaFX)
     url: https://jangafx.com/software/geogen/
     description: Real-time terrain generation.
