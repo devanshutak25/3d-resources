@@ -183,7 +183,7 @@ function githubAnchor(title) {
     .toLowerCase()
     .replace(/[^\w\s-]/g, '')
     .trim()
-    .replace(/\s+/g, '-');
+    .replace(/ /g, '-');
 }
 
 function header() {
