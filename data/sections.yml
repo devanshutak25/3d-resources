@@ -36,7 +36,7 @@ sections:
   - slug: motion-graphics-video
     title: "Motion Graphics & Video"
     file: "06-motion-graphics.yml"
-    description: "Motion graphics tools and inspiration, video editing, reel music."
+    description: "Motion graphics tools and inspiration, video editing."
     featured: ["After Effects", "Cavalry", "DaVinci Resolve"]
 
   - slug: game-development

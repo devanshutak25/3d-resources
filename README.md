@@ -27,7 +27,6 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Stock Images & References](#stock-images--references) <span class="toc-count">(12 items)</span><br><small class="toc-desc">Free and public-domain stock images, and 2D references.</small>
 - [Stock Footage](#stock-footage) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Free and archival video footage sources.</small>
 - [Audio — SFX & Music Libraries](#audio--sfx--music-libraries) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
-- [Reel Music](#reel-music) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Music often used in demo reels and reference tracks.</small>
 - [Fonts](#fonts) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
 - [Icons](#icons) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
 - [Game Assets](#game-assets) <span class="toc-count">(44 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Cross-listed from §7.</small>
@@ -455,16 +454,6 @@ Free and paid SFX and music libraries for games, reels, and film.
 - [Sonniss](https://sonniss.com/) <span class="lic-pill lic-paid">Paid</span> — SFX library. Releases massive annual free bundles.
 - [Uppbeat](https://uppbeat.io/) <span class="lic-pill lic-freemium">Freemium</span> — Music for creators.
 - [ZapSplat](https://www.zapsplat.com/) — Large free SFX library.
-
-### Reel Music
-
-Music often used in demo reels and reference tracks.
-
-- [C2Cdjsofficial](https://www.youtube.com/@C2Cdjsofficial) — Classic lo-fi reel track.
-- [fcommunications](https://www.youtube.com/@fcommunications) — Electronic reel favorite.
-- [Jake Chudnow](https://www.youtube.com/@jakechudnow) — Composer whose tracks are widely used in reels.
-- [Kurzgesagt Music](https://thomasveith.bandcamp.com/music) — Thomas Veith's Kurzgesagt scores.
-- [Trap Nation](https://www.youtube.com/@TrapNation) — Popular reel music.
 
 ### Fonts
 
@@ -1459,7 +1448,7 @@ Tech art breakdowns, procedural art, and tutorials.
 ---
 ## Motion Graphics & Video
 
-Motion graphics tools, inspiration, AE / Fusion learning, and video editing. Stock footage and reel music live in §1 Assets.
+Motion graphics tools, inspiration, AE / Fusion learning, and video editing. Stock footage lives in §1 Assets.
 
 ### Motion Graphics — YouTube Channels
 

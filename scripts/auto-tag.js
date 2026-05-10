@@ -15,7 +15,6 @@ const SUB_RULES = [
   [/^textures-/,                { tags: { workflow:['texturing','material-authoring'] }, entry_type:'asset-source' }],
   [/^stock-/,                   { tags: { workflow:['reference'] },                entry_type:'asset-source' }],
   [/^audio-sfx-music$/,         { tags: { workflow:['audio-design'] },             entry_type:'asset-source' }],
-  [/^reel-music$/,              { tags: { workflow:['audio-design'] },             entry_type:'asset-source' }],
   [/^fonts$/,                   { tags: { output:['motion-graphics','illustration'] }, entry_type:'asset-source' }],
   [/^icons$/,                   { tags: { output:['motion-graphics','illustration'] }, entry_type:'asset-source' }],
   [/^game-assets$/,             { tags: { output:['games'] },                      entry_type:'asset-source' }],

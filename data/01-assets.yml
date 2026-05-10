@@ -54,10 +54,6 @@ subsections:
     title: Audio — SFX & Music Libraries
     description: Free and paid SFX and music libraries for games, reels, and film.
     chunks: 1
-  - slug: reel-music
-    title: Reel Music
-    description: Music often used in demo reels and reference tracks.
-    chunks: 1
   - slug: fonts
     title: Fonts
     description: Font libraries, pairing tools, and type references.
