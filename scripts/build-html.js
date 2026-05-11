@@ -11,13 +11,22 @@ const SITE_URL = 'https://3d.devanshutak.xyz';
 const TITLE = '3D Resources: Software, Assets, Tutorials & Tools for 3D Artists';
 const DESCRIPTION = 'Curated hub of 1,300+ free and paid 3D resources — textures, HDRIs, models, tutorials, render engines, USD, VFX, and AI/ML. Filter by license and workflow.';
 
+// GitHub-flavored anchor slugify. Differs from a naive slug in two ways:
+//   1. `&amp;` (and bare `&`) is removed without inserting a dash, but the
+//      surrounding spaces are preserved — which means " & " collapses to "  "
+//      and then becomes "--" after the space→dash pass. This matches GitHub's
+//      auto-generated heading anchors (e.g. "Motion Graphics & Video" →
+//      "motion-graphics--video") so README ToC links and deployment H2/H3 IDs
+//      resolve to the same target.
+//   2. `\s` (not `\s+`) is used for the final replace so consecutive spaces
+//      become consecutive dashes — same reason.
 function slugify(text) {
   return text
     .toLowerCase()
     .replace(/&amp;/g, '')
     .replace(/[^\w\s-]/g, '')
     .trim()
-    .replace(/\s+/g, '-');
+    .replace(/\s/g, '-');
 }
 
 // --- Load section structure for SEO enumeration ---
@@ -129,18 +138,20 @@ md = md.replace(/<!--\s*only:site\s*\n([\s\S]*?)\n\s*-->/g, '$1');
 let html = marked.parse(md);
 
 // C1: per-discipline icons keyed by section anchor (slugified section title).
+// Keys match the GitHub-style anchor slugs (see slugify above). Headings with
+// `&` in their text produce double-dash anchors (e.g. "assets--libraries").
 const SECTION_ICONS = {
-  'assets-libraries': 'package-variant',
-  'modeling-sculpting-texturing': 'cube-outline',
-  'animation-rigging': 'vector-curve',
-  'lighting-rendering-shaders': 'lightbulb-outline',
-  'vfx-compositing-virtual-production': 'creation',
-  'motion-graphics-video': 'play-box-outline',
+  'assets--libraries': 'package-variant',
+  'modeling-sculpting--texturing': 'cube-outline',
+  'animation--rigging': 'vector-curve',
+  'lighting-rendering--shaders': 'lightbulb-outline',
+  'vfx-compositing--virtual-production': 'creation',
+  'motion-graphics--video': 'play-box-outline',
   'game-development': 'gamepad-variant-outline',
-  'art-design-visual-storytelling': 'palette-outline',
-  'ai-machine-learning-for-cg': 'brain',
-  'tools-pipeline-utilities': 'tools',
-  'learning-community-industry': 'school-outline',
+  'art-design--visual-storytelling': 'palette-outline',
+  'ai--machine-learning-for-cg': 'brain',
+  'tools-pipeline--utilities': 'tools',
+  'learning-community--industry': 'school-outline',
   'software-reference': 'application-outline'
 };
 

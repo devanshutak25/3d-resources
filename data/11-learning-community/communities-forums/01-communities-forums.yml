@@ -4,6 +4,7 @@ entries:
     description: India's 3D artist community — events, resources, networking.
     entry_type: community
     license: Free
+    priority: 100
     readme_tags:
       - India Community
       - Events
@@ -55,13 +56,13 @@ entries:
         - web
   - name: The 3D Artist Community (Skool)
     url: https://www.skool.com/the-3d-artist-community
-    description: Community forum on Skool.
+    description: Paid Skool community for pro 3D artists working beyond VFX/games (apparel, footwear, packaging) — AMAs, office hours, pooled software resources.
     entry_type: community
-    license: Freemium
+    license: Paid
     readme_tags:
       - Skool
-      - Forum
-    url_last_verified: '2026-05-01'
+      - Pro
+    url_last_verified: '2026-05-11'
     url_status: ok
     tags:
       platform:

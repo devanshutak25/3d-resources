@@ -207,19 +207,6 @@ entries:
     url_last_verified: '2026-05-01'
     url_status: ok
     tags: {}
-  - name: The 3D Artist Community
-    url: https://www.the3dartist.community/
-    description: Paid community for pro 3D artists working beyond VFX/games (apparel, footwear, packaging) — AMAs, office hours, pooled software resources.
-    entry_type: community
-    license: Paid
-    readme_tags:
-      - Pro
-      - Industry
-    url_last_verified: '2026-05-11'
-    url_status: ok
-    tags:
-      platform:
-        - web
   - name: Animators Guild
     url: https://animatorsguild.com/
     description: India-focused animation community — showcase, workshops, festival events, and AGI Bazaar for Indian animators and illustrators.

@@ -187,7 +187,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [YouTube Channels — Sculpting & Characters](#youtube-channels--sculpting--characters) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Character and sculpting focused creators.</small>
 - [Paid Tutorial Platforms](#paid-tutorial-platforms) <span class="toc-count">(94 items)</span><br><small class="toc-desc">Subscription and course-based learning platforms.</small>
 - [Patreon Creators](#patreon-creators) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Creators on Patreon offering tutorials, files, and tips.</small>
-- [3D Communities & Forums](#3d-communities--forums) <span class="toc-count">(55 items)</span><br><small class="toc-desc">Cross-DCC CG communities.</small>
+- [3D Communities & Forums](#3d-communities--forums) <span class="toc-count">(156 items)</span><br><small class="toc-desc">Cross-DCC CG communities.</small>
 - [3D Inspiration & Showcase](#3d-inspiration--showcase) <span class="toc-count">(45 items)</span><br><small class="toc-desc">Showcases, portfolios, and visual reference hubs.</small>
 - [Architecture & Visualization](#architecture--visualization) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Arch-viz inspiration and BIM.</small>
 - [Salary & Career Data](#salary--career-data) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Salary data and studio review spreadsheets.</small>
@@ -4120,7 +4120,9 @@ Creators on Patreon offering tutorials, files, and tips.
 
 Cross-DCC CG communities.
 
+- [3D Artists India](https://3dartists.in/) — India's 3D artist community — events, resources, networking.
 - [/r/blender: contest](https://www.reddit.com/r/blender/) — [blenderartists.org/contest](https://blenderartists.org/c/contests)
+- [#Blender52](https://discord.com/invite/hxdQ7pzKeK) — Blender Discord community (~1.8K) — smaller focused Blender hub.
 - [<span aria-hidden="true">☕</span>Blender.Today](https://blender.community/c/today/) — Community-driven Blender news, chat, and live streams! Stream [playlist](https://www.youtube.com/playlist?list=PLa1F2ddGya_87HJ72v_IgKUTNLIXSMfvB).
 - [<span aria-hidden="true">🌐</span> UnrealEngine5 ~ reddit](https://www.reddit.com/r/UnrealEngine5/) — UE5 technical posts, rarely showcase.
 - [<span aria-hidden="true">🌐</span> Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/) — [community] - production for movies & live events.
@@ -4129,51 +4131,149 @@ Cross-DCC CG communities.
 - [<span aria-hidden="true">🔌</span> Developer Portal](https://developer.blender.org/) — [<span aria-hidden="true">💭</span> DevTalk](https://devtalk.blender.org/) | [<span aria-hidden="true">💻</span> Developers Blog](https://code.blender.org/)
 - [<span aria-hidden="true">🖱️</span>Right-Click Select](https://blender.community/c/rightclickselect/) — Got an idea for a feature that you think Blender absolutely must have?
 - [<span aria-hidden="true">🗨️</span>discord/blender](https://discord.gg/blender) — Community-managed Discord server.
-- [3D Artists India](https://3dartists.in/) — India's 3D artist community — events, resources, networking.
+- [3D Art Discord](https://discord.com/invite/RCDfNWq) — General-purpose 3D art Discord with ~23K members — chat, feedback, and showcase across all DCCs.
+- [3D Character Workshop](https://www.3dcharacterworkshop.com/) <span class="lic-pill lic-freemium">Freemium</span> — Active community for stylized character sculpting — challenges, WIPs, tips at every level.
+- [3D FOUNDERS (Skool)](https://www.skool.com/3dfounders/about) <span class="lic-pill lic-freemium">Freemium</span> — Skool community for 3D freelancers scaling from low-price gigs to consistent $5K clients.
+- [3D Modeling Discord](https://discord.com/invite/Uy9frkU) — Large 3D Discord (~33K) for sculptors, VFX professionals, and students — all-DCC discussion and critique.
 - [3DPro](https://3dpro.org) — 3D professionals community forum.
 - [3DVF](http://3dvf.com) — French CG news and community.
+- [3DVF](https://3dvf.com/en/) — European daily CG/VFX news site covering cinema, TV, and tech.
 - [80 Level](https://80.lv/) — Industry news and tutorials.
 - [Agora Community](https://agora.community/) — 3D artists community.
+- [Animatable](https://www.animatable.co/blog/we-on-discord) — AE animation Discord — narrative, illustrative, character-based animation community.
+- [Animator Guild (Howard Wimshurst)](https://discord.gg/awRD6FT) — Howard Wimshurst's animator community Discord — supports up-and-coming animators with critique and contests.
+- [Animators — Animation Hub](https://discord.com/invite/animators-animation-hub-1027995624811012119) — 2D/3D/stop-motion animation community (~13K) — share work, get feedback, find jobs.
+- [Animators Guild](https://animatorsguild.com/) — India-focused animation community — showcase, workshops, festival events, and AGI Bazaar for Indian animators and illustrators.
+- [AnimStarter Communities](https://www.animstarter.com/communities) — Curated index of animation communities across Discord, Slack, and forums.
+- [Architectural Visualization Forum](https://archvizforum.com/) — ArchViz forum focused on rendering and CGI software — V-Ray, Corona, Lumion, technical Q&A.
 - [Armedunity](https://armedunity.com/) — Shooter focused forum.
 - [ArtStation](https://www.artstation.com/) <span class="lic-pill lic-freemium">Freemium</span> — Professional portfolios.
+- [Bad Decisions](https://discord.com/invite/zwycgqezfD) — Unreal Engine and virtual production training Discord (~4K) — Ultimate Unreal Engine Program community.
+- [Bforartists Discord](https://discord.com/invite/yKuR77v) — Discord for Bforartists — fork of Blender with refined GUI for hobbyists and indie devs.
+- [Bismuth Consultancy (MLOPs)](https://github.com/Bismuth-Consultancy-BV/MLOPs) — Discord for MLOPs (machine learning toolkit for Houdini) by Bismuth Consultancy + Entagma.
 - [Blender Awesome List](https://github.com/agmmnn/awesome-blender) — More addons and resources around Blender in this awesome list.
+- [Blender Community Discord](https://discord.com/invite/blender) — Largest Blender Discord (~203K) for artists, designers, game developers — not officially Blender Foundation.
 - [Blender Conference](https://conference.blender.org/) — The yearly Blender Conference in Amsterdam. (Playlists: [Bcon25](https://www.youtube.com/playlist?list=PLa1F2ddGya_8u-HEvmfCVuS_OImW8HaLd)
 - [Blender Discord (French)](https://discordapp.com/channels/168826665307209728/168826665307209728) — Blender Discord (French).
+- [Blender Professionals (Skool)](https://www.skool.com/blender-professionals/about) — Free Skool community where 3D artists share experience and grow in Blender.
 - [Blender Stack Exchange](https://blender.stackexchange.com/) — Blender Q&A community on Stack Exchange.
 - [BlenderArtists](https://blenderartists.org/) — Blender forum.
 - [Blenderartists/python Support](https://blenderartists.org/c/coding/python-support/19) — [stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)
+- [Blue Ocean Games](https://discord.com/invite/blue-ocean-games-1338557902130118756) — Indie game fund Discord — networking, feedback, and resources for indie developers seeking funding.
+- [BNPR (Blender NPR)](https://discord.com/invite/bnpr-335479185197891585) — Blender stylized/non-photoreal rendering community (~3.5K) — toon, anime, cel, abstract styles. BEER/Malt engine.
+- [bsky.art](https://bsky.app/profile/bsky.art) — Artist hub on Bluesky — feeds, starter packs, and community curation for visual artists.
+- [Cara](https://cara.app/) — Anti-AI portfolio and social platform built by and for artists.
 - [Casual GAN Papers Reading Club](https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8) — Community knowledge base for Casual GAN Papers
+- [Cavalry Community](https://cavalry.scenegroup.co/support/) — Official community Discord for Cavalry — procedural 2D motion design app — support and showcase.
 - [ccMixter.org](http://dig.ccmixter.org/) — Community remix site operated by ArtisTech Media, created by Creative Commons. [![cc]](http://dig.ccmixter.org/licenses)
+- [CG Channel](https://www.cgchannel.com/) — News, videos, training, and community hub for entertainment CG artists.
+- [CG Forge](https://www.cgforge.com/) <span class="lic-pill lic-paid">Paid</span> — Tyler Bay's Houdini education platform — premium Discord for art reviews and member feedback.
+- [CG Lounge](https://discord.com/invite/cg-lounge-631354077594386455) — Active CG Discord (~9.9K) with daily VFX discussions, render challenges, marketplace, and Hall of Fame.
+- [CG Pro Social](https://www.becomecgpro.com/social) — VFX and real-time artist community — virtual production, LED, greenscreen, mocap.
+- [CGCircuit](https://www.cgcircuit.com/) <span class="lic-pill lic-paid">Paid</span> — CG tutorial marketplace with per-creator Discord channels for direct instructor interaction.
+- [CGconnect (CGarchitect)](https://www.cgarchitect.com/) — ArchViz industry hub — community forums, news, and feedback for architectural visualization pros.
+- [cgwiki Discord](https://tokeru.com/cgwiki/Support.html) <span class="lic-pill lic-paid">Paid</span> — Matt Estela's Patreon-supporter Discord tied to cgwiki — beginner-to-expert Houdini chat, masterclasses, screen-shares.
+- [Chicago Virtual Production Group](https://www.chicagovirtualproduction.com/) — Volunteer association of film/VFX professionals connecting on Discord — regional but active VP discussion.
+- [Cinema 4D Discord](https://discord.com/invite/3skdKMU) — Community-run Cinema 4D Discord — motion design and 3D discussion around Maxon's C4D.
 - [Civitai](https://civitai.com/) — Community driven AI model sharing tool.
+- [Concept Art Association](https://www.conceptartassociation.com/) — Advocacy and mentorship org for concept artists — events, community-building, and industry support.
+- [Concept Art Forum](https://www.conceptartforum.com/) — Long-running forum for concept artists, professionals, and beginners.
+- [Concept Art World](https://conceptartworld.com/) — Showcase site for concept art, illustration, and visual development — artist spotlights, news, tutorials.
+- [Corridor Digital (Crew)](https://www.corridordigital.com/) <span class="lic-pill lic-paid">Paid</span> — VFX YouTube studio with paywalled Corridor Crew community — weekly challenges and behind-the-scenes.
+- [Create with Clint](https://discord.com/invite/createwithclint) — 3D/VFX community Discord (~77K) — weekly, technical, and community challenges. Strong Blender presence.
+- [Creative 3D Community (Skool)](https://www.skool.com/ultimate-3d-membership-7140) <span class="lic-pill lic-paid">Paid</span> — Skool community focused on professional 3D work in Plasticity and Blender.
+- [Curtis Holt](https://curtisholt.online/links) — Blender mixed-media creator — public BlenderNest art/tech-art community Discord and Community Material Pack.
+- [Design Buddies](https://designbuddies.community/) — Inclusive design community — workshops, mentor talks, portfolio reviews, and meetups for designers.
+- [Design Squad - UX Community](https://discord.com/invite/design-squad-ux-community-808005473290289172) — UX researchers, strategists, and product designers — community for UX/product practice.
 - [DEV Community](https://dev.to/) — It covers setting up the environment, understanding generative models, and building a simple Generative Adversarial Network (GAN) with a focus on image datasets.
 - [devtalk/python](https://devtalk.blender.org/c/python/6) — Questions about using and developing the [Blender Python API](https://developer.blender.org/project/view/24/), both for Blender itself and add-ons.
+- [Digital Art and Animation Discord](https://discord.me/digitalartandanimation) — Discord for animators, artists, and VFX people across 2D, 3D, modeling, CGI simulations.
+- [DigitalPainting.school Forum](https://digitalpainting.school/forum/) — French-language forum for concept art, illustration, 3D, and digital art — challenges and discussion.
+- [DoubleJump Academy Discord](https://discord.com/invite/exkwcT6jzU) — VFX/CGI academy Discord (~6K) — monthly hangouts, portfolio reviews, challenges. Niagara, Houdini, EmberGen focus.
+- [erindale.xyz](https://discord.com/invite/erindalexyz) — Erindale Woodford's procedural Discord (~8K) — Geometry Nodes, Sverchok, Houdini, Grasshopper, shaders.
+- [F9 Collective](https://f9collective.com/) — Free India-based motion design community — networking, industry talks, jobs, and collaboration for motion designers.
 - [fb/blender](https://fb.com/groups/2207257375/) — Blender Facebook group.
+- [FlippedNormals](https://flippednormals.com/) <span class="lic-pill lic-freemium">Freemium</span> — 3D education site by Henning Sanden and Morten Jaeger — Discord community for character artists and 3D learners.
 - [Free Low-Poly Nature Assets Thread (r/gamedev)](https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/) — Reddit thread sharing free low-poly trees, plants, and rocks for game development.
+- [Game Dev League](https://discord.com/invite/gamedev) — Large gamedev Discord (~133K) — community built by game developers for game developers.
+- [Game Dev Network](https://discord.com/invite/gdn) — Engine-agnostic gamedev Discord (~67K) — open to new and experienced devs.
+- [GameDev India](https://discord.com/invite/vcnygb2) — India gamedev Discord (~5.5K) — runs BYOG game jam, Coffee House, Campfire events for Indian creators.
 - [GameDev.tv Discord](https://discord.com/invite/eUSFZdJ) — A community focused on the GameDev.tv courses.
+- [Good Boy Ninja](https://www.goodboy.ninja/join) — Motion design and creative coding community by the maker of Noodle, Skew, and Colors for After Effects.
 - [Google Community for “Cardboard and VR Developers”](https://plus.google.com/communities/111524380182206513071) — Google Community for “Cardboard and VR Developers”.
+- [Graphic Design Discord](https://discord.com/invite/graphicdesign) — Discord's flagship design community — graphic, 3D, UI/UX, video, illustration. Daily marketplace and contests.
+- [Heavypoly](https://www.heavypoly.com/) <span class="lic-pill lic-freemium">Freemium</span> — Vaughan Ling's Blender concept design hub — courses, tools, and community forum.
+- [Hieu Vu - Art & Motion](https://hieuvudesign.com/) — Vietnam-based motion designer Hieu Vu's hub — tutorials, motion graphics work, and community Discord.
+- [Houdini Academy & Resources](https://houdini-resources.netlify.app/) — Curated Houdini resources hub — tutorials, tools, and community links.
 - [Houdini Utility Thread](https://www.sidefx.com/forum/topic/80497/?page=1#post-348642) — Houdini Utility Thread.
+- [Houdini.School](https://www.houdini.school/) <span class="lic-pill lic-paid">Paid</span> — Live Houdini courses across Film FX, Games, MoGraph, Character, Sci-Viz — Discord community for students.
+- [HoudiniNerd (Tokyo Megaplex)](https://www.patreon.com/c/tokyomegaplexhoudininerd.com) <span class="lic-pill lic-paid">Paid</span> — Christopher Rutledge's Houdini Patreon — free resources at houdininerd.com plus Patreon-tier community.
+- [HouPy Wiki](https://www.houpywiki.com/) — Community wiki for Houdini Python — HDAs, snippets, and Discord community around Houdini scripting.
 - [Hugging Face Forums](https://discuss.huggingface.co/) — ** – Community for open LLMs and model development.
 - [HuggingFace AI Community](https://huggingface.co/) <span class="lic-pill lic-freemium">Freemium</span> — Host and collaborate on unlimited models, datasets and applications. |
+- [IAMAG Community](https://iamagcommunity.iamag.co/) <span class="lic-pill lic-paid">Paid</span> — Paid NO-AI community for entertainment industry pros — concept artists, art directors, illustrators.
+- [Indian Design Community (Slack)](https://slofile.com/slack/indiandesigncommunity) — Slack community for India-based UI, UX, graphic, and product designers — portfolio shares, feedback, and industry discussion.
+- [Indie Games Community (IGC)](https://discord.me/indiegamescommunity) — Global indie gamedev Discord — devs, players, content creators sharing and discovering indie games.
+- [Indie Gaming Central (r/IndieGaming)](https://discord.com/invite/ex6YdRYKAG) — r/IndieGaming Discord (~5.6K) — devs share new games and discoveries.
+- [Indie-Pixel](https://www.patreon.com/indiepixel) <span class="lic-pill lic-paid">Paid</span> — Kenny Lammers' Patreon-tier community — Houdini Engine for Unreal/Unity, procedural pipelines.
+- [Inside the Mind](https://www.patreon.com/InsideTheMind) <span class="lic-pill lic-paid">Paid</span> — Patreon-tier Discord for Houdini training, project files, and tools.
 - [Introduction to pixel art](http://pixeljoint.com/forum/forum_posts.asp?TID=11299) — Introduction to pixel art.
+- [JangaFX Software Discord](https://discord.com/invite/jangafx) — Official Discord (~15K) for EmberGen, LiquiGen, GeoGen — real-time VFX simulation software users.
+- [Juniper Dev](https://www.youtube.com/@JuniperDev) — Game design and development YouTube creator — community Discord linked from her channels.
+- [Learn Arch Viz Forum](https://www.learnarchviz.com/learn-arch-viz-forum) <span class="lic-pill lic-freemium">Freemium</span> — Course-tied ArchViz forum organized by software with gallery and PRO course categories.
 - [Learning](https://dev.epicgames.com/community/unreal-engine/learning?source=epic_games) — [Documentation](https://dev.epicgames.com/documentation/unreal-engine), [Livesteams](https://www.youtube.com/@UnrealEngine)** (<span aria-hidden="true">🆓</span> <span aria-hidden="true">🥇</span>)
+- [Lebrov Motion Imagery](https://www.patreon.com/lebrov) <span class="lic-pill lic-paid">Paid</span> — Andrey Lebrov's Patreon-tier Discord for CG/VFX learning and behind-the-scenes from Lebrov Motion Imagery.
+- [lesterbanks](https://lesterbanks.com/) — Daily resource for 3D artists, motion designers, and VFX artists — tips, tricks, tutorials.
+- [LightBox Expo Discord](https://discord.gg/lightboxexpo) — Official LightBox Expo Discord (10K+) — 8 halls covering illustration, concept art, storyboarding, and more.
+- [Mental Checkpoint](https://discord.com/invite/TKGhG5n3HU) — Game design YouTube creator's Discord (~1.3K) — game design discussion and hot takes.
+- [Mograph](https://mograph.com/) <span class="lic-pill lic-freemium">Freemium</span> — Established motion design community — classes, livestreams, podcasts, and Slack hub.
+- [MOPs - Motion Operators for Houdini](https://www.motionoperators.com/) — Motion graphics toolkit Discord for Houdini — packed primitives, Mograph-style workflows for MoGraph artists.
+- [Motion Design School Discord](https://motiondesign.school/) <span class="lic-pill lic-freemium">Freemium</span> — 6K+ Discord tied to Motion Design School courses — animation, AE, C4D learners.
+- [Motion Designers Community (EN)](https://discord.com/invite/qfypq2t) — English-language Motion Designers Community Discord (~6.5K) — mdcommunity.net hub.
+- [Movies & Filmmaking Discord](https://discord.com/invite/movies) — Largest film/filmmaking Discord (~92K) — discussions, Letterboxd integration, filmmaker Q&As.
+- [Neuron](https://disboard.org/server/1257010490681327666) — Multi-DCC 3D Discord covering Unreal, Unity, Blender, Maya, 3ds Max, Houdini for artists and developers.
 - [Nexrender Discord](https://discord.gg/S2JtRcB) — Community of people specializing in scripting and video generation automation.
+- [Nice Moves Resources](https://nicemoves.org/resources/) — Curated animation resources, learning material, and community pointers.
+- [Nine Between](https://www.patreon.com/NineBetween) <span class="lic-pill lic-paid">Paid</span> — Patreon-tier Discord (~600) by Nine Between brothers — pro Houdini VFX education.
 - [Polycount](https://polycount.com/) — Game art community.
 - [promptoMANIA](https://promptomania.com/) — AI art community with prompt generator
 - [r/GenerativeAI](https://www.reddit.com/r/GenerativeAI/) — ** – Reddit community on generative models and applications.
+- [Ravie - Motion Design Community](https://discord.com/invite/Z2cbn4QcfE) — Thriving Discord community of top motion designers worldwide.
+- [RealTime Conference](https://realtime.community/) — Real-time CG conference and community hub — events, talks, networking for real-time creators.
 - [realtimevfx.com](https://realtimevfx.com/) — Real Time VFX Community.
 - [Reddit's Unity Best Practices](https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/) — Reddit's thread with best practices collected by Unity developers.
+- [RenderRides](https://discord.com/invite/XHAAbvm) — 3D mentorship Discord (~1.7K) — storytelling through audio-visual experiments, holistic 3D craft.
 - [Robotic Arm Kinefx Demo](https://www.sidefx.com/forum/topic/77562/?page=1#post-369057) — Robotic Arm Kinefx Demo.
+- [Rocket Lasso (Slack)](https://www.rocketlasso.com/community/) — Official Slack community for Cinema 4D artists, originally grown from Chris Schmidt's livestreams — tutorials, plugin chat, live Q&A.
+- [Ronen Bekerman ArchViz Hub](https://www.ronenbekerman.com/) — ArchViz blog and forum — tutorials, jobs, showcase, and 3D architectural visualization community.
 - [SculptJanuary](https://www.cgboost.com/challenges) — Challenge yourself over 31 days with a set of 31 topics.
+- [Server 4D](https://discord.com/invite/p4d) — 3D Discord (~5.7K) hosted by Patrick 4D — all things 3D with daily live-streams.
+- [Shaders Hub](https://discord.com/invite/shadershub) — Large (~72K) shader-focused Discord covering GLSL, HLSL, and engine shader languages.
+- [Sir Wade Animation](https://discord.com/invite/TBasBmhnDe) — Sir Wade Neistadt's animation Discord (~11K) — professional and aspiring animators and CG artists since 2019.
 - [Steam Community VR Workshop Item](http://steamcommunity.com/sharedfiles/filedetails/?id=687365559) — Steam Community Workshop submission referenced by the VR/game-dev forum discussions.
 - [Steam VR Template (Unreal Engine Forum)](https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template) — Community thread sharing a Steam VR project template for Unreal Engine.
+- [Stylized Station's World of ArtCraft](https://discord.com/invite/cHVVnr2) — Official Stylized Station Discord (~8K) — stylized and real-time 3D art with regular ArtCraft Arena challenges.
 - [Substance Share](https://share.substance3d.com/) — The free exchange platform for the Substance community.
-- [The 3D Artist Community (Skool)](https://www.skool.com/the-3d-artist-community) <span class="lic-pill lic-freemium">Freemium</span> — Community forum on Skool.
+- [Technically Speaking](https://discord.com/invite/e9XnPFv) — Tech art, VFX, programming, gamedev Discord (~3K) hosted by Harry Alisavakis — challenges and tutorials.
+- [The 3D Artist Community (Skool)](https://www.skool.com/the-3d-artist-community) <span class="lic-pill lic-paid">Paid</span> — Paid Skool community for pro 3D artists working beyond VFX/games (apparel, footwear, packaging) — AMAs, office hours, pooled software resources.
 - [The Blend](https://blend.beehiiv.com) — Weekly articles & lessons on Blender & 3D
 - [The Code Editor](https://blenderartists.org/t/how-would-you-show-some-love-for-the-blender-text-editor/1163857) — This thread is for discussing how the Text Editor can be improved and sharing add-ons which will modernize, expand and ease coding in Blender.
+- [The Dillcord (Dillon Goo)](https://discord.com/invite/dillongoo) — 2D animation Discord (~9K) by Dillon Goo — fight scene fan animations, self-taught animator hub.
+- [The DiNusty Empire](https://discord.com/invite/the-dinusty-empire-166144857503432704) — Game/film 3D art community Discord (~11.7K) — environment, prop, character, weapon artists.
+- [Think Procedural](https://discord.gg/b8U5Hdy) — Houdini community Discord (~9K) bringing Houdini closer to game developers — fractal challenges, procedural work.
+- [Tim van Helsdingen](https://www.patreon.com/timvanhelsdingen) <span class="lic-pill lic-paid">Paid</span> — Patreon-tier Discord by NL-based Houdini FX artist / CG generalist transitioning into indie gamedev.
 - [Unity Community](https://github.com/UnityCommunity) — And to begin Awesome Unity (this repository) will be merged into Unity Community organization from now. This repository will be used to merge new contents into the
+- [Unofficial Houdini Discord](https://forums.odforce.net/topic/28248-unofficial-houdini-discord-server/) — od|force-linked Houdini Discord — long-running unofficial community for Houdini artists.
 - [Unreal Source](https://unrealsource.com/) — The largest Discord community focused on Unreal Engine.
 - [Unreal Source Discord](https://discord.com/invite/unrealsource) — Community** (<span aria-hidden="true">🆓</span> <span aria-hidden="true">🥇</span>)
+- [VFX Apprentice Community](https://www.vfxapprentice.com/community) — Community Discord tied to VFX Apprentice school — student feedback, livestreams, and discussions for VFX artists.
+- [VFX Oasis](https://discord.com/invite/gQwSd82swS) — VFX artists, animators, and digital artists hub — discussion and knowledge sharing.
+- [VFX Squad](https://discord.do/vfx-squad/) — Beginner-friendly VFX/editing Discord — feedback, tutorials, and active 24/7 help.
+- [VFXTalk](https://discord.do/vfxtalk/) — Revived classic VFX forum as a Discord — destination for the global VFX community to learn and grow.
+- [Virtual Productions Discord](https://discord.me/virtualproductions) — General-purpose virtual production Discord — LED stages, real-time workflows, mocap.
 - [WebVR Community Group](https://www.w3.org/community/immersive-web/) — Group who's goal is to help bring high-performance Virtual Reality to the open Web.
+- [XR Creators (XR Bootcamp)](https://xrbootcamp.com/xr-creators-expert-group/) <span class="lic-pill lic-freemium">Freemium</span> — XR developer expert group — VR/AR events, networking, and advanced tech community.
+- [Young Designers India](https://discord.com/invite/young-designers-india-690519036169027636) — India Discord (~2.7K) for young design talent — career advice, job opportunities, weekly events across design fields.
 - [ZBrushCentral](https://www.zbrushcentral.com/) — ZBrush forum.
 
 ### 3D Inspiration & Showcase

@@ -127,10 +127,16 @@ function seeAlsoLinks(entry, currentLoc) {
   return `<small class="see-also">See also: ${parts.join(', ')}</small>`;
 }
 
+// Sort by `priority` desc (default 0), then alphabetically by name.
+// Higher priority pins entries to the top — used to override the default
+// alphabetical order when an entry should appear first regardless of name.
 function alphaSort(entries) {
-  return [...entries].sort((a, b) =>
-    (a.name || '').localeCompare(b.name || '', 'en', { sensitivity: 'base' })
-  );
+  return [...entries].sort((a, b) => {
+    const pa = Number(a.priority) || 0;
+    const pb = Number(b.priority) || 0;
+    if (pa !== pb) return pb - pa;
+    return (a.name || '').localeCompare(b.name || '', 'en', { sensitivity: 'base' });
+  });
 }
 
 // §8 GitHub repo pill — replace broken `![][repo]` markup with an inline pill.
