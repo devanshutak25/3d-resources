@@ -6,20 +6,36 @@ set -e
 
 npm install marked js-yaml minisearch
 
-# Step 1: regenerate README.md from data/*.yml
+# Step 1: render the FULL catalog into README.md — build-html.js reads it as input
+# to emit the site's index.html (single-page catalog with all entries).
 node scripts/render.js > README.md
 
-# Step 2: build HTML site from README.md
+# Step 2: build HTML site from README.md (consumes full README.md)
 node scripts/build-html.js
 
-# Step 3: export entries as JSON index for client-side filter UI
+# Step 2b: generate per-section OG PNGs (1200×630) used by section pages
+# and shared-link unfurls (Twitter, Reddit, Discord, Slack).
+node scripts/build-og-images.js
+
+# Step 2c: emit per-section HTML pages at /sections/<slug>/ for SEO.
+# These are independently indexable and what sitemap.xml points at.
+node scripts/build-section-pages.js
+
+# Step 4: export entries as JSON index for client-side filter UI
 node scripts/export-data.js _site/data.json
 
-# Step 4: vendor MiniSearch UMD + build serialized search index
+# Step 5: vendor MiniSearch UMD + build serialized search index
 mkdir -p _site/assets/js/vendor
 cp node_modules/minisearch/dist/umd/index.js _site/assets/js/vendor/minisearch.js
 node scripts/build-search-index.js _site/data.json _site/search-index.json
 
-# Step 5: build graph.json + place graph.html for the WebGL graph view
+# Step 6: build graph.json + place graph.html for the WebGL graph view
 node scripts/build-graph.js _site/graph.json
 cp assets/graph.html _site/graph.html
+
+# Step 7: emit llms.txt + llms-full.txt for AI/LLM crawlers (ChatGPT, Perplexity, Claude).
+# Spec: https://llmstxt.org
+node scripts/build-llms-txt.js
+
+# Step 8: emit Atom feed of the 50 most recently added entries.
+node scripts/build-feed.js

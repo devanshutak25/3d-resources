@@ -679,6 +679,12 @@
   }
 
   function buildUI() {
+    // Drop the SSR shell (rendered by build-html.js for SEO + no-JS) before
+    // building the live filter bar. The shell only exists to give crawlers
+    // a <search> landmark and a fallback notice in <noscript>.
+    const ssrShell = document.getElementById('filter-shell');
+    if (ssrShell) ssrShell.remove();
+
     const bar = document.createElement('div');
     bar.id = 'filter-bar';
     bar.setAttribute('role', 'search');

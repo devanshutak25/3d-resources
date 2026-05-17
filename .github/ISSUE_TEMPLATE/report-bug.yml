@@ -1,0 +1,34 @@
+name: Report a site or build bug
+description: Something wrong with the site (3d.devanshutak.xyz) or the build scripts.
+title: "[Bug] <short summary>"
+labels: ["bug", "needs-triage"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where is the bug?
+      options:
+        - Live site UI (filtering, search, layout)
+        - Live site content (rendering glitch, broken table, missing section)
+        - Build script (render.js / build-html.js / validate.js / etc.)
+        - GitHub Actions workflow
+        - README rendering on GitHub
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      placeholder: "Steps to reproduce + what you expected vs what you saw."
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Browser / OS (for site bugs) or Node version (for script bugs)
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / logs
+      placeholder: "Paste console errors, screenshots, or build output."

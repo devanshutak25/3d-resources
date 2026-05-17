@@ -893,6 +893,197 @@ body.wireframe main > details {
   outline-offset: 1px;
 }
 
+/* ---------- Edit-on-GitHub link in section H2s ---------- */
+h2 .edit-on-gh {
+  float: right;
+  font-size: 0.7em;
+  font-weight: 400;
+  text-decoration: none;
+  color: var(--muted, #6b7280);
+  padding: 0.25em 0.6em;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  margin-top: 0.4em;
+  opacity: 0.65;
+  transition: opacity 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+h2 .edit-on-gh:hover,
+h2 .edit-on-gh:focus-visible {
+  opacity: 1;
+  color: var(--accent, #388bfd);
+}
+h2 .edit-on-gh .mdi {
+  font-size: 0.95em;
+  margin-right: 0.3em;
+  vertical-align: -1px;
+}
+@media (max-width: 480px) {
+  h2 .edit-on-gh span { display: none; }
+  h2 .edit-on-gh { padding: 0.25em 0.5em; }
+}
+
+/* ---------- Back-to-top floating button ---------- */
+.back-to-top {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg, #0d1117);
+  color: var(--text, #e6edf3);
+  border: 1px solid var(--border, #30363d);
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 1.2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s, transform 0.2s;
+  z-index: 50;
+}
+.back-to-top.visible {
+  opacity: 0.9;
+  pointer-events: auto;
+}
+.back-to-top:hover,
+.back-to-top:focus-visible {
+  opacity: 1;
+  transform: translateY(-2px);
+}
+
+/* ---------- Site footer ---------- */
+.site-footer {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2.5rem;
+  border-top: 1px solid var(--border, #30363d);
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+.site-footer .footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem 2rem;
+}
+.site-footer .footer-col strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+.site-footer .footer-col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.site-footer .footer-col li {
+  margin: 0.2rem 0;
+}
+.site-footer .footer-col p {
+  margin: 0.25rem 0;
+}
+.site-footer .footer-col small {
+  color: var(--muted, #8b949e);
+}
+.site-footer .footer-badges {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.site-footer .footer-badges img {
+  height: 20px;
+  vertical-align: middle;
+}
+
+/* ---------- SSR filter shell (replaced by filter.js on hydration) ---------- */
+#filter-shell {
+  margin: 1rem 0 1.25rem;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--border, #30363d);
+  border-radius: 8px;
+  background: rgba(33, 38, 45, 0.5);
+}
+#filter-shell input[type="search"] {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  background: transparent;
+  border: 1px solid transparent;
+  color: var(--text, #e6edf3);
+  font-size: 0.95rem;
+}
+#filter-shell input[type="search"]:disabled { cursor: text; opacity: 0.85; }
+.filter-noscript-notice {
+  margin: 0.5rem 0 0;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.88rem;
+  color: var(--muted, #8b949e);
+  background: rgba(56, 139, 253, 0.06);
+  border-left: 3px solid var(--accent, #388bfd);
+  border-radius: 2px;
+}
+
+/* ---------- Section pages: breadcrumb + prev/next nav ---------- */
+.breadcrumb {
+  font-size: 0.88rem;
+  color: var(--muted, #8b949e);
+  margin: 0.5rem 0 1rem;
+}
+.breadcrumb a { color: var(--muted, #8b949e); }
+.breadcrumb a:hover { color: var(--accent, #58a6ff); }
+.section-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 3rem 0 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border, #30363d);
+}
+.section-nav a {
+  flex: 1;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--border, #30363d);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: border-color 0.15s, background 0.15s;
+}
+.section-nav .section-nav-prev { text-align: left; }
+.section-nav .section-nav-next { text-align: right; }
+.section-nav a:hover,
+.section-nav a:focus-visible {
+  border-color: var(--accent, #58a6ff);
+  background: rgba(56, 139, 253, 0.06);
+}
+
+/* ---------- 404 page ---------- */
+.not-found-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.6rem 1rem;
+  margin: 1rem 0 2rem;
+}
+.not-found-list a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border, #30363d);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s;
+}
+.not-found-list a:hover,
+.not-found-list a:focus-visible {
+  border-color: var(--accent, #388bfd);
+  background: rgba(56, 139, 253, 0.08);
+}
+.not-found-list .mdi { color: var(--accent, #388bfd); }
+
 /* ---------- Reduced-motion override ---------- */
 /* Per project decision: deliberately disregard the OS prefers-reduced-motion
    setting. The site's animations (180ms chevron tween, smooth scroll) are

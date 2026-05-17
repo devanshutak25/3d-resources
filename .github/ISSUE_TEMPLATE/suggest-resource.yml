@@ -1,0 +1,79 @@
+name: Suggest a resource
+description: Suggest a new tool, asset source, tutorial, channel, or community to add to the catalog.
+title: "[Suggest] <Resource name>"
+labels: ["suggestion", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a resource! Source of truth lives in `data/*.yml`. If you're comfortable with YAML, a pull request is fastest — see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md). Otherwise fill this out.
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      placeholder: "e.g. Poly Haven"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line description
+      placeholder: "What it is + why it matters to 3D artists. Keep it factual, ~125 chars."
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Best-fit section
+      description: Pick the section you'd expect to find it under.
+      options:
+        - Assets & Libraries
+        - Modeling, Sculpting & Texturing
+        - Animation & Rigging
+        - Lighting, Rendering & Shaders
+        - VFX, Compositing & Virtual Production
+        - Motion Graphics & Video
+        - Game Development
+        - Art, Design & Visual Storytelling
+        - AI & Machine Learning for CG
+        - Tools, Pipeline & Utilities
+        - Learning, Community & Industry
+        - Software Reference
+        - Not sure — maintainer should decide
+    validations:
+      required: true
+  - type: dropdown
+    id: license
+    attributes:
+      label: License / pricing tier
+      options:
+        - Open Source
+        - Free
+        - Free NC (non-commercial)
+        - Freemium
+        - Paid
+        - Mixed
+        - Unknown
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs
+      placeholder: "Specific use cases, what makes it stand out, any context maintainers should know."
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched the existing catalog and didn't find this resource.
+          required: true
+        - label: This is not an affiliate or sponsored submission.
+          required: true

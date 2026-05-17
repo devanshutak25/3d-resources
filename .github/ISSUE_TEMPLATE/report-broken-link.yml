@@ -1,0 +1,40 @@
+name: Report a broken or outdated entry
+description: Flag a dead link, moved URL, wrong license, or stale description.
+title: "[Broken] <Resource name>"
+labels: ["broken-link", "needs-triage"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Entry name
+      placeholder: "e.g. Poly Haven"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Current URL in the catalog
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What's wrong?
+      options:
+        - Link is dead (404 / timeout)
+        - Link redirects somewhere unrelated
+        - URL has moved (provide new URL below)
+        - Pricing or license has changed
+        - Description is misleading or outdated
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: newurl
+    attributes:
+      label: New URL (if moved)
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      placeholder: "What you saw, when, and any extra context."

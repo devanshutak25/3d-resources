@@ -1,12 +1,19 @@
 # [3D Resources: Software, Assets, Tutorials & Tools for 3D Artists](https://3d.devanshutak.xyz)
 
+<!-- only:readme -->
+[![Stars](https://img.shields.io/github/stars/devanshutak25/3d-resources?style=flat&logo=github&color=24292e)](https://github.com/devanshutak25/3d-resources/stargazers)
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Validate](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml/badge.svg)](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml)
+[![Live site](https://img.shields.io/badge/live%20site-3d.devanshutak.xyz-7c3aed)](https://3d.devanshutak.xyz)
+<!-- /only:readme -->
+
 > A curated collection of **free and paid 3D resources** — software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.
 
 <!-- only:readme -->
 > 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** — search + filter by License · Platform · Workflow · Output.
 <!-- /only:readme -->
 
-Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](contributing.md)
+Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md)
 
 > <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues).
 ## Contents
@@ -27,8 +34,8 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Stock Images & References](#stock-images--references) <span class="toc-count">(12 items)</span><br><small class="toc-desc">Free and public-domain stock images, and 2D references.</small>
 - [Stock Footage](#stock-footage) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Free and archival video footage sources.</small>
 - [Audio — SFX & Music Libraries](#audio--sfx--music-libraries) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
-- [Fonts](#fonts) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
-- [Icons](#icons) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
+- [Fonts](#fonts) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
+- [Icons](#icons) <span class="toc-count">(24 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
 - [Game Assets](#game-assets) <span class="toc-count">(44 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Cross-listed from §7.</small>
 
 </details>
@@ -459,25 +466,49 @@ Free and paid SFX and music libraries for games, reels, and film.
 
 Font libraries, pairing tools, and type references.
 
+- [Adobe Fonts](https://fonts.adobe.com/) <span class="lic-pill lic-paid">Paid</span> — Premium font library bundled with Creative Cloud subscription.
+- [Creative Market Fonts](https://creativemarket.com/fonts) <span class="lic-pill lic-paid">Paid</span> — 300k+ premium fonts with worry-free perpetual commercial licenses.
+- [Font Bundles](https://fontbundles.net/) <span class="lic-pill lic-freemium">Freemium</span> — Premium font marketplace with regular freebies; clear commercial license.
 - [Font Library](https://fontlibrary.org/) — Open-source and free fonts.
 - [FontPair](https://fontpair.co/) — Font pairing inspiration.
+- [Fontshare](https://www.fontshare.com/) — Free quality fonts from Indian Type Foundry; Satoshi, General Sans, Clash Display.
 - [Fontz](https://fontz.design) <span class="lic-pill lic-freemium">Freemium</span> — Free and premium 3D fonts with Blender source files
+- [Free Faces](https://www.freefaces.gallery/) — Curated directory of free fonts from independent foundries and designers.
+- [Future Fonts](https://www.futurefonts.xyz/) <span class="lic-pill lic-paid">Paid</span> — Buy in-progress fonts directly from indie designers at lower early-access prices.
+- [Google Fonts](https://fonts.google.com/) — Largest free open-source font library; SIL OFL / Apache licensed.
+- [Indestructible Type](https://indestructibletype.com/) — Open-source foundry by Owen Earl; variable font families like Jost, Besley, Bodoni.
 - [Lilex](https://lilex.myrt.co/) — Programming font with ligatures.
+- [MyFonts](https://www.myfonts.com/) <span class="lic-pill lic-paid">Paid</span> — Long-running premium font marketplace; perpetual desktop, web, app licenses.
+- [Pangram Pangram Foundry](https://pangrampangram.com/) <span class="lic-pill lic-freemium">Freemium</span> — Indie foundry with high-end typefaces; free personal-use trials available.
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) — Open-source foundry; well-curated bold typefaces, free for commercial use.
+- [UNCUT.wtf](https://uncut.wtf/) — 160+ contemporary open-source typefaces, all free for commercial use.
 - [Usable Google Fonts (Figma)](https://www.figma.com/community/file/1535264485426732629/usable-google-fonts) — Curated Figma set of usable Google Fonts.
+- [Velvetyne Type Foundry](https://velvetyne.fr/) — Paris-based non-profit foundry releasing open-source experimental typefaces.
 
 ### Icons
 
 Icon libraries and animation sets.
 
+- [Bootstrap Icons](https://icons.getbootstrap.com/) — 2000+ official open-source SVG icons from the Bootstrap team.
 - [Flaticon](https://www.flaticon.com/) <span class="lic-pill lic-freemium">Freemium</span> — Massive icon library.
 - [Font Awesome](https://fontawesome.com/) <span class="lic-pill lic-freemium">Freemium</span> — Classic icon font library.
 - [Game Icons](https://game-icons.net/) — 4000+ SVG game icons.
 - [Handy Arrows](https://handyarrows.com/) — Hand-drawn arrow sets.
+- [Heroicons](https://heroicons.com/) — Hand-crafted SVG icons by Tailwind CSS team; outline and solid.
+- [Hugeicons](https://hugeicons.com/) <span class="lic-pill lic-freemium">Freemium</span> — 36k+ icons in multiple styles; free tier plus premium plans.
+- [Iconify](https://iconify.design/) — Unified framework aggregating 200k+ open-source icons from 150+ icon sets.
+- [Iconoir](https://iconoir.com/) — 1600+ open-source SVG icons; React, React Native, Flutter, Vue, Figma support.
 - [Icons8 Glyph](https://icons8.com/l/glyph/) <span class="lic-pill lic-freemium">Freemium</span> — Glyph-style icon set.
+- [Lineicons](https://lineicons.com/) <span class="lic-pill lic-freemium">Freemium</span> — 30k icons (4k free); SVG, JSX, TSX, Figma, PNG; React/Vue/Svelte support.
 - [Lucide](https://lucide.dev/) — Open-source icon library.
 - [Lucide Animated](https://lucide-animated.com/) — Animated version of Lucide icons.
 - [Material design icons](https://github.com/google/material-design-icons) — Official icon set from Google
 - [MDI Icons](https://pictogrammers.com/library/mdi/icon/) — Material Design Icons, huge set.
+- [Noun Project](https://thenounproject.com/) <span class="lic-pill lic-freemium">Freemium</span> — 5M+ curated icons and photos; subscription unlocks royalty-free use.
+- [Phosphor Icons](https://phosphoricons.com/) — 9000+ flexible icons in thin, light, regular, bold, fill, duotone styles.
+- [Remix Icon](https://remixicon.com/) — 2800+ neutral-style open-source icons on 24x24 grid; line and fill.
+- [Streamline](https://www.streamlinehq.com/) <span class="lic-pill lic-paid">Paid</span> — Massive premium icon and illustration library; consistent design systems.
+- [SVG Repo](https://www.svgrepo.com/) <span class="lic-pill lic-mixed">Mixed</span> — 500k+ free SVG vectors and icons across many styles and packs.
 - [SVGL](https://svgl.app/) — Brand logos in SVG.
 - [Tabler Icons](https://tablericons.com/) — Open-source SVG icons.
 - [typicons.font](http://s-ings.com/typicons/) — 336 pixel perfect, all-purpose vector icons in a web-font kit
@@ -5086,7 +5117,7 @@ AI upscaling, cleanup, generative assist, and AI-powered DCC features.
 ---
 ## Contributing
 
-[Contributions welcome!](contributing.md) Please read the guidelines before submitting a pull request.
+[Contributions welcome!](CONTRIBUTING.md) Please read the guidelines before submitting a pull request.
 
 ## Attribution
 

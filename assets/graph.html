@@ -52,9 +52,67 @@
 
   <div id="crumb" class="g-crumb" aria-live="off"></div>
 
+  <button id="panel-toggle" class="g-panel-toggle" type="button"
+          aria-label="Show filters and legend" aria-controls="legend" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="4" y1="6" x2="20" y2="6"/><line x1="7" y1="12" x2="20" y2="12"/><line x1="10" y1="18" x2="20" y2="18"/></svg>
+    <span>Filters</span>
+  </button>
+
   <aside id="legend" class="g-panel" aria-label="Filters and section legend"></aside>
 
   <aside id="info" class="g-info" aria-label="Selected node details"></aside>
+
+  <script>
+    // Mobile collapsible legend + info panels.
+    (function () {
+      const panel = document.getElementById('legend');
+      const info = document.getElementById('info');
+      const toggle = document.getElementById('panel-toggle');
+      const mq = window.matchMedia('(max-width: 720px)');
+
+      function setOpen(open) {
+        panel.classList.toggle('open', open);
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (open) info.classList.remove('open');
+      }
+      toggle.addEventListener('click', () => setOpen(!panel.classList.contains('open')));
+
+      // Close panel on backdrop tap (outside panel + toggle)
+      document.addEventListener('click', (e) => {
+        if (!mq.matches) return;
+        if (panel.contains(e.target) || toggle.contains(e.target)) return;
+        if (panel.classList.contains('open')) setOpen(false);
+      });
+
+      // Auto-close legend when an info card opens (node selected) on mobile
+      const infoObs = new MutationObserver(() => {
+        if (!mq.matches) return;
+        if (info.classList.contains('visible')) {
+          info.classList.add('open');
+          setOpen(false);
+        }
+      });
+      infoObs.observe(info, { attributes: true, attributeFilter: ['class'] });
+
+      // Inject close (×) button into info card whenever it becomes visible
+      function ensureInfoClose() {
+        if (info.querySelector('.g-info-close')) return;
+        const x = document.createElement('button');
+        x.type = 'button';
+        x.className = 'g-info-close';
+        x.setAttribute('aria-label', 'Close details');
+        x.innerHTML = '&times;';
+        x.addEventListener('click', () => {
+          info.classList.remove('visible', 'open');
+        });
+        info.appendChild(x);
+      }
+      const infoObs2 = new MutationObserver(() => {
+        if (info.classList.contains('visible')) ensureInfoClose();
+      });
+      infoObs2.observe(info, { attributes: true, childList: true, attributeFilter: ['class'] });
+    })();
+  </script>
 
   <!-- Polite announcer for SR-only short messages -->
   <div id="announce" aria-live="polite" aria-atomic="true" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);"></div>
