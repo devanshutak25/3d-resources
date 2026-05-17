@@ -190,6 +190,8 @@ Ordered by impact × effort. Land top-down.
 
 ## Part 2 — NON-CODE CHANGES (cover after code lands)
 
+> **📂 See [`/handoff/`](./handoff/) for execution-ready operator docs.** Templates with `[BRACKETS]`, inline checklists, per-channel rules. The stub below is preserved for historical context — the handoff dir is the source of truth.
+
 Stubbed. We'll detail this after Part 1 is shipped.
 
 - GitHub "About" description + topics audit + social preview upload

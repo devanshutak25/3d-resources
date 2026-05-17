@@ -78,3 +78,27 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 **Answered:** Added mobile FAB toggle for legend panel (slides up as bottom sheet); info card gets close button + bottom-sheet positioning on ≤720px. Edited `assets/graph.html` + `assets/css/graph.css`, copied to `_site/`.
 
 ---
+
+### 2026-05-17
+**Prompt:**
+> ohkay, now on to the non-code things that can be done, please tell me what can be done to help increase the reach of this
+
+**Answered:** Outlined 9-phase growth plan (prelaunch hygiene → quiet launch → awesome lists → reddit → discord → HN → twitter/bluesky → newsletters → PH → ongoing). 4-week sequence. Offered to draft handoff docs.
+
+---
+
+### 2026-05-17
+**Prompt:**
+> Make plan to make detailed md files for all the steps going forward, something that can be handed off. We will do the code changes and the rest we will hand off. Forums, Social media, newsletters, everything
+
+**Answered:** Entered plan mode. Asked 3 clarifying Qs (location → /handoff/, copy → templates w/ brackets, tracking → inline checkboxes). Approved plan covered 13 files. Executed: created handoff/ dir + 13 markdown files (README, 00–10, copy-snippets). Updated pub_plan.md with redirect line. Total ~1,840 lines of operator playbook.
+
+---
+
+### 2026-05-17
+**Prompt:**
+> put handoff folder in gitignore
+
+**Answered:** Added `handoff/` to `.gitignore` line 13. Verified ignore takes effect. (Initially over-added changes.md/pub_plan.md/memory/; reverted to just handoff/ as requested.)
+
+---
