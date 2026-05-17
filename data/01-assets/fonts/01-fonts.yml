@@ -63,6 +63,191 @@ entries:
     tags:
       output:
         - generalist
+  - name: Fontshare
+    url: https://www.fontshare.com/
+    description: Free quality fonts from Indian Type Foundry; Satoshi, General Sans, Clash Display.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Quality
+      - Free Commercial
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+  - name: Velvetyne Type Foundry
+    url: https://velvetyne.fr/
+    description: Paris-based non-profit foundry releasing open-source experimental typefaces.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Open Source
+      - Experimental
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - opensource-alt
+  - name: The League of Moveable Type
+    url: https://www.theleagueofmoveabletype.com/
+    description: Open-source foundry; well-curated bold typefaces, free for commercial use.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Open Source
+      - Curated
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - opensource-alt
+  - name: UNCUT.wtf
+    url: https://uncut.wtf/
+    description: 160+ contemporary open-source typefaces, all free for commercial use.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Modern
+      - Open Source
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - opensource-alt
+  - name: Indestructible Type
+    url: https://indestructibletype.com/
+    description: Open-source foundry by Owen Earl; variable font families like Jost, Besley, Bodoni.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Variable Fonts
+      - Open Source
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - opensource-alt
+  - name: Free Faces
+    url: https://www.freefaces.gallery/
+    description: Curated directory of free fonts from independent foundries and designers.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Curated
+      - Indie
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+  - name: Google Fonts
+    url: https://fonts.google.com/
+    description: Largest free open-source font library; SIL OFL / Apache licensed.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Huge
+      - Free Commercial
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - opensource-alt
+  - name: Adobe Fonts
+    url: https://fonts.adobe.com/
+    description: Premium font library bundled with Creative Cloud subscription.
+    license: Paid
+    entry_type: asset-source
+    readme_tags:
+      - Subscription
+      - Premium
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - subscription
+  - name: MyFonts
+    url: https://www.myfonts.com/
+    description: Long-running premium font marketplace; perpetual desktop, web, app licenses.
+    license: Paid
+    entry_type: marketplace
+    readme_tags:
+      - Premium
+      - Perpetual
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - perpetual
+  - name: Creative Market Fonts
+    url: https://creativemarket.com/fonts
+    description: 300k+ premium fonts with worry-free perpetual commercial licenses.
+    license: Paid
+    entry_type: marketplace
+    readme_tags:
+      - Marketplace
+      - Perpetual
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      tech:
+        - perpetual
+  - name: Font Bundles
+    url: https://fontbundles.net/
+    description: Premium font marketplace with regular freebies; clear commercial license.
+    license: Freemium
+    entry_type: marketplace
+    readme_tags:
+      - Marketplace
+      - Freebies
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+  - name: Future Fonts
+    url: https://www.futurefonts.xyz/
+    description: Buy in-progress fonts directly from indie designers at lower early-access prices.
+    license: Paid
+    entry_type: marketplace
+    readme_tags:
+      - Indie
+      - Early Access
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+  - name: Pangram Pangram Foundry
+    url: https://pangrampangram.com/
+    description: Indie foundry with high-end typefaces; free personal-use trials available.
+    license: Freemium
+    entry_type: asset-source
+    readme_tags:
+      - Indie Foundry
+      - Premium
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - generalist
   - name: Roboto
     url: https://github.com/google/roboto
     description: Default font on Android & ChromeOS, and the recommended typeface for Material Design

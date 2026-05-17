@@ -192,6 +192,196 @@ entries:
     tags:
       output:
         - generalist
+  - name: Phosphor Icons
+    url: https://phosphoricons.com/
+    description: 9000+ flexible icons in thin, light, regular, bold, fill, duotone styles.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Multi-weight
+      - Open Source
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: Iconify
+    url: https://iconify.design/
+    description: Unified framework aggregating 200k+ open-source icons from 150+ icon sets.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Aggregator
+      - 200k+ Icons
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: Iconoir
+    url: https://iconoir.com/
+    description: 1600+ open-source SVG icons; React, React Native, Flutter, Vue, Figma support.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Open Source
+      - Cross-Platform
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: Heroicons
+    url: https://heroicons.com/
+    description: Hand-crafted SVG icons by Tailwind CSS team; outline and solid.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Tailwind
+      - Hand-crafted
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: Bootstrap Icons
+    url: https://icons.getbootstrap.com/
+    description: 2000+ official open-source SVG icons from the Bootstrap team.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Bootstrap
+      - 2000+
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: Remix Icon
+    url: https://remixicon.com/
+    description: 2800+ neutral-style open-source icons on 24x24 grid; line and fill.
+    license: Open Source
+    entry_type: asset-source
+    readme_tags:
+      - Neutral Style
+      - Open Source
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - opensource-alt
+      platform:
+        - web
+  - name: SVG Repo
+    url: https://www.svgrepo.com/
+    description: 500k+ free SVG vectors and icons across many styles and packs.
+    license: Mixed
+    entry_type: asset-source
+    readme_tags:
+      - Massive
+      - SVG
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: Lineicons
+    url: https://lineicons.com/
+    description: 30k icons (4k free); SVG, JSX, TSX, Figma, PNG; React/Vue/Svelte support.
+    license: Freemium
+    entry_type: asset-source
+    readme_tags:
+      - Large Set
+      - Multi-Framework
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: Hugeicons
+    url: https://hugeicons.com/
+    description: 36k+ icons in multiple styles; free tier plus premium plans.
+    license: Freemium
+    entry_type: asset-source
+    readme_tags:
+      - Multi-style
+      - Freemium
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: Streamline
+    url: https://www.streamlinehq.com/
+    description: Massive premium icon and illustration library; consistent design systems.
+    license: Paid
+    entry_type: marketplace
+    readme_tags:
+      - Premium
+      - Systems
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+  - name: Noun Project
+    url: https://thenounproject.com/
+    description: 5M+ curated icons and photos; subscription unlocks royalty-free use.
+    license: Freemium
+    entry_type: marketplace
+    readme_tags:
+      - Massive
+      - Subscription
+    url_last_verified: '2026-05-17'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      tech:
+        - subscription
+      platform:
+        - web
   - name: Material design icons
     url: https://github.com/google/material-design-icons
     description: Official icon set from Google
