@@ -21,12 +21,6 @@ node scripts/build-og-images.js
 # These are independently indexable and what sitemap.xml points at.
 node scripts/build-section-pages.js
 
-# Step 3: overwrite README.md with the LITE landing-page version. GitHub's
-# renderer chokes on the full README (>700KB → "Uh oh" banner). Lite mode
-# preserves a hero, badges, and per-section top picks. Full catalog stays on
-# the live site at https://3d.devanshutak.xyz.
-node scripts/render.js --mode=lite > README.md
-
 # Step 4: export entries as JSON index for client-side filter UI
 node scripts/export-data.js _site/data.json
 

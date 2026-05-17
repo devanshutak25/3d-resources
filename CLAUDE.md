@@ -25,3 +25,29 @@ CI runs `node scripts/validate.js` — closed-enum violations exit 1 and block m
 ## Validation
 
 Run `node scripts/validate.js` after any data edit. Must show `✓ Validation passed.` before commit.
+
+## Project memory system (`/memory`)
+
+Local, project-scoped memory lives in `./memory/`. Distinct from global `~/.claude` memory.
+
+Files:
+- `goals.md` — active + done goals
+- `tech_stack.md` — frameworks, langs, build tools in use
+- `decisions.md` — dated architectural/structural decisions w/ rationale
+- `preferences.md` — user collab style + project rules
+- `tools.md` — CLIs / utilities in active use
+- `agents.md` — sub-agents used + outcomes
+- `plugins.md` — skills + MCP extensions in use
+- `user-prompts.md` — verbatim log of every user prompt + 1-line answer
+
+### Protocol (MANDATORY)
+
+**Session start:** Read all 8 files in `./memory/` before responding to first prompt. Treat them as authoritative project context.
+
+**After every user prompt:**
+1. Append the verbatim prompt to `user-prompts.md` with timestamp + 1-line answer summary.
+2. Update any other file whose content changed (new decision → `decisions.md`; new tool used → `tools.md`; new preference learned → `preferences.md`; etc.).
+
+**Session end:** Final sweep — ensure all files reflect latest state. Add new decisions, move completed goals to Done, log any agents spawned.
+
+Rule: keep entries terse (caveman lite). No filler. Date everything (YYYY-MM-DD).

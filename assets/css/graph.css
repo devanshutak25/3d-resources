@@ -645,16 +645,89 @@ button {
 }
 .skip-link:focus { top: 12px; }
 
+/* Mobile FAB toggle — hidden on desktop */
+.g-panel-toggle {
+  display: none;
+  position: fixed;
+  bottom: 16px;
+  left: 16px;
+  z-index: 8;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  background: var(--g-panel-strong);
+  border: 1px solid var(--g-border);
+  backdrop-filter: blur(14px);
+  color: var(--g-text);
+  border-radius: 999px;
+  font-size: 13px;
+  font-family: inherit;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.05);
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.g-panel-toggle svg { width: 16px; height: 16px; }
+.g-panel-toggle:hover,
+.g-panel-toggle[aria-expanded="true"] {
+  background: rgba(125,211,252,0.14);
+  border-color: rgba(125,211,252,0.4);
+  color: var(--g-accent);
+}
+
+/* Info-card close button (mobile only — visible via media query) */
+.g-info-close {
+  display: none;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid var(--g-border);
+  color: var(--g-text);
+  font-size: 20px;
+  line-height: 1;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
 @media (max-width: 720px) {
+  .g-panel-toggle { display: inline-flex; }
+  .g-info-close { display: inline-flex; }
+
+  /* Legend panel: collapsed by default, slides up when .open */
   .g-panel {
     top: auto;
-    bottom: 100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    max-height: 70vh;
+    border-radius: 16px 16px 0 0;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    transform: translateY(100%);
+    transition: transform 0.25s ease;
+    z-index: 9;
+  }
+  .g-panel.open { transform: translateY(0); }
+
+  /* Info card: bottom sheet, hidden by default; .visible (set by graph.js) shows it */
+  .g-info {
+    width: auto;
     left: 12px;
     right: 12px;
-    width: auto;
-    max-height: 40vh;
+    bottom: 72px;
+    top: auto;
+    max-height: 50vh;
+    overflow-y: auto;
+    padding-right: 44px;
   }
-  .g-info { width: auto; left: 12px; right: 12px; bottom: auto; top: 70px; }
+
   .g-search { max-width: none; }
   .g-crumb { display: none !important; }
 }
