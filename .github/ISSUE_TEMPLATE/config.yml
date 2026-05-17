@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Live site
+    url: https://3d.devanshutak.xyz
+    about: Search and browse the full catalog.
+  - name: Email the maintainer
+    url: mailto:3dresources@devanshutak.xyz
+    about: Anything sensitive, partnership, or feedback that doesn't fit a template.

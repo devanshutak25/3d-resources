@@ -196,13 +196,20 @@ function header() {
   return [
     '# [3D Resources: Software, Assets, Tutorials & Tools for 3D Artists](https://3d.devanshutak.xyz)',
     '',
+    '<!-- only:readme -->',
+    '[![Stars](https://img.shields.io/github/stars/devanshutak25/3d-resources?style=flat&logo=github&color=24292e)](https://github.com/devanshutak25/3d-resources/stargazers)',
+    '[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)',
+    '[![Validate](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml/badge.svg)](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml)',
+    '[![Live site](https://img.shields.io/badge/live%20site-3d.devanshutak.xyz-7c3aed)](https://3d.devanshutak.xyz)',
+    '<!-- /only:readme -->',
+    '',
     '> A curated collection of **free and paid 3D resources** — software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
     '',
     '<!-- only:readme -->',
     '> 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** — search + filter by License · Platform · Workflow · Output.',
     '<!-- /only:readme -->',
     '',
-    'Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](contributing.md)',
+    'Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md)',
     '',
     '> <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
     ''
@@ -389,7 +396,7 @@ function footer() {
   return [
     '## Contributing',
     '',
-    '[Contributions welcome!](contributing.md) Please read the guidelines before submitting a pull request.',
+    '[Contributions welcome!](CONTRIBUTING.md) Please read the guidelines before submitting a pull request.',
     '',
     '## Attribution',
     '',
@@ -424,9 +431,134 @@ function footer() {
   ].join('\n');
 }
 
-function main() {
-  const onlyFile = process.argv[2];
+// ---- Lite mode --------------------------------------------------------------
+// Lite README: landing page only. Hero + badges + per-section top picks + footer.
+// Full catalog stays on the live site (3d.devanshutak.xyz/sections/<slug>/).
+// Goal: README < 80KB so github.com renders it without truncation.
+
+const SITE_BASE = 'https://3d.devanshutak.xyz';
+const LITE_PICKS_PER_SECTION = 5;
+
+// Flatten one section's non-deprecated entries across all subsections.
+// Dedupes by URL. Used by lite mode to pick top picks.
+function collectSectionEntries(sectionFile, sectionSlug) {
+  const out = [];
+  const seen = new Set();
+  const section = catalog.loadSection(sectionFile);
+  for (const sub of section.subsections || []) {
+    const entries = loadSubEntries(sectionFile, sub.slug, sectionSlug);
+    for (const e of entries) {
+      if (e.deprecated) continue;
+      const k = (e.url || e.name || '').toLowerCase();
+      if (!k || seen.has(k)) continue;
+      seen.add(k);
+      out.push(Object.assign({}, e, { _sub: sub.title, _subSlug: sub.slug }));
+    }
+  }
+  return out;
+}
+
+// Pick top N entries for a section. Prefer names that match meta.featured
+// (case-insensitive substring). Top up with alpha-sorted entries (software
+// first, then references) until N reached.
+function pickTopForSection(meta) {
+  const all = collectSectionEntries(meta.file, meta.slug);
+  const featured = (meta.featured || []).map(n => String(n).toLowerCase());
+  const picked = [];
+  const usedUrls = new Set();
+
+  // Pass 1: featured matches, in featured order.
+  for (const want of featured) {
+    const hit = all.find(e => {
+      const url = (e.url || '').toLowerCase();
+      if (usedUrls.has(url)) return false;
+      const name = String(e.name || '').toLowerCase();
+      return name === want || name.includes(want);
+    });
+    if (hit) {
+      picked.push(hit);
+      usedUrls.add((hit.url || '').toLowerCase());
+    }
+  }
+
+  // Pass 2: top up — software first, then references, both alpha.
+  const remaining = all.filter(e => !usedUrls.has((e.url || '').toLowerCase()));
+  const software = alphaSort(remaining.filter(e => e.entry_type === 'software'));
+  const refs = alphaSort(remaining.filter(e => e.entry_type !== 'software'));
+  for (const e of [...software, ...refs]) {
+    if (picked.length >= LITE_PICKS_PER_SECTION) break;
+    picked.push(e);
+  }
+
+  return { picks: picked.slice(0, LITE_PICKS_PER_SECTION), total: all.length };
+}
+
+// Strip HTML tags + collapse whitespace for clean bullet descriptions.
+function stripHtmlForLite(s) {
+  if (!s) return '';
+  return String(s)
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function renderLite() {
   const sectionsFile = catalog.loadSections();
+  let out = '';
+  out += header();
+
+  out += '## Browse the catalog\n\n';
+  out += `Full catalog lives on the [interactive site](${SITE_BASE}) — search, filter, and graph view. This README is a curated landing page; below is a hand-picked sample from each section.\n\n`;
+
+  for (const meta of sectionsFile.sections) {
+    const full = path.join(catalog.DATA_DIR, meta.file);
+    if (!fs.existsSync(full)) continue;
+    const { picks, total } = pickTopForSection(meta);
+    const sectionLink = `${SITE_BASE}/sections/${meta.slug}/`;
+
+    out += `### ${meta.title}\n\n`;
+    if (meta.description) {
+      out += `${meta.description}\n\n`;
+    }
+    if (picks.length) {
+      for (const e of picks) {
+        const name = wrapEmoji(e.name);
+        const pill = licensePill(e.license);
+        const desc = stripHtmlForLite(processDescription(e.description || ''));
+        const descTail = desc ? ` — ${desc}` : '';
+        out += `- [${name}](${e.url})${pill}${descTail}\n`;
+      }
+      out += '\n';
+    }
+    out += `→ **[Browse all ${total} entries in ${meta.title} →](${sectionLink})**\n\n`;
+  }
+
+  out += '---\n\n';
+  out += footer();
+  return out;
+}
+
+// ---- Arg parsing -----------------------------------------------------------
+
+function parseArgs(argv) {
+  const args = { mode: 'full', onlyFile: null };
+  for (const a of argv.slice(2)) {
+    if (a.startsWith('--mode=')) args.mode = a.slice('--mode='.length);
+    else if (!a.startsWith('--')) args.onlyFile = a;
+  }
+  return args;
+}
+
+function main() {
+  const args = parseArgs(process.argv);
+
+  if (args.mode === 'lite') {
+    process.stdout.write(renderLite());
+    return;
+  }
+
+  const sectionsFile = catalog.loadSections();
+  const onlyFile = args.onlyFile;
 
   let out = '';
   if (!onlyFile) {

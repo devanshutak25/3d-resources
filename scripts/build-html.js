@@ -5,9 +5,22 @@
 const { marked } = require('marked');
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 const catalog = require('./lib/catalog');
 
 const SITE_URL = 'https://3d.devanshutak.xyz';
+const REPO_URL = 'https://github.com/devanshutak25/3d-resources';
+
+// Last-updated date for the footer. Use the most recent commit date; fall
+// back to today if git isn't available (CI build, fresh checkout, etc.).
+function lastUpdatedDate() {
+  try {
+    return execSync('git log -1 --format=%cs HEAD', { encoding: 'utf8' }).trim()
+      || new Date().toISOString().slice(0, 10);
+  } catch (_) {
+    return new Date().toISOString().slice(0, 10);
+  }
+}
 const TITLE = '3D Resources: Software, Assets, Tutorials & Tools for 3D Artists';
 const DESCRIPTION = 'Curated hub of 1,300+ free and paid 3D resources — textures, HDRIs, models, tutorials, render engines, USD, VFX, and AI/ML. Filter by license and workflow.';
 
@@ -71,6 +84,7 @@ function loadSections() {
 
 const sections = loadSections();
 const totalEntries = sections.reduce((s, sec) => s + sec.subsections.reduce((t, ss) => t + ss.entryCount, 0), 0);
+const LAST_UPDATED = lastUpdatedDate();
 
 // --- Structured data (@graph) ---
 const jsonLd = {
@@ -176,6 +190,22 @@ html = html.replace(/<summary>(\s*)<a href="#([^"]+)">/g, (m, ws, id) => {
   return `<summary>${ws}<i class="mdi mdi-${icon} section-icon" aria-hidden="true"></i><a href="#${id}">`;
 });
 
+// "Edit on GitHub" link on each section H2 — sends users to the underlying
+// data/<section>.yml on GitHub. Anchor ID → section file mapping is built
+// from sections.yml so it stays in sync with the catalog.
+const SECTION_FILE_BY_ANCHOR = (() => {
+  const m = new Map();
+  for (const sec of sections) m.set(sec.anchor, catalog.loadSection(sec.slug)._file);
+  return m;
+})();
+html = html.replace(/<h2 id="([^"]+)"([^>]*)>([\s\S]*?)<\/h2>/g, (full, id, attrs, inner) => {
+  const file = SECTION_FILE_BY_ANCHOR.get(id);
+  if (!file) return full;
+  const ghUrl = `${REPO_URL}/blob/main/data/${file}`;
+  const editLink = `<a class="edit-on-gh" href="${ghUrl}" target="_blank" rel="noopener noreferrer" aria-label="Edit this section on GitHub"><i class="mdi mdi-pencil-outline" aria-hidden="true"></i><span>Edit</span></a>`;
+  return `<h2 id="${id}"${attrs}>${inner}${editLink}</h2>`;
+});
+
 // Inject "Expand all" button inline on the Contents heading (right-aligned).
 html = html.replace(
   /<h2 id="contents"([^>]*)>([\s\S]*?)<\/h2>/,
@@ -237,6 +267,17 @@ html = html.replace(/<blockquote>\s*<p>((?:(?:<span[^>]*>⚠️<\/span>)|⚠️)
 html = html.replace(/<blockquote>\s*<p><strong>Looking for something specific\?<\/strong>[\s\S]*?<\/p>\s*<\/blockquote>\s*/,
   '');
 
+// SSR shell for the filter bar — gives crawlers a <search> landmark and
+// no-JS users a visible affordance. filter.js removes this on init and
+// builds the real interactive bar in its place.
+const filterShell = `<div id="filter-shell" role="search">
+  <input type="search" placeholder="Search resources…" aria-label="Search resources" disabled>
+  <noscript>
+    <p class="filter-noscript-notice">Filtering and search need JavaScript. The full table of contents below works without it — pick a section and browse.</p>
+  </noscript>
+</div>`;
+html = html.replace(/(<h2 id="contents")/, `${filterShell}\n$1`);
+
 const page = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -250,6 +291,7 @@ const page = `<!DOCTYPE html>
   <meta name="author" content="Devanshu Tak">
   <link rel="canonical" href="${SITE_URL}/">
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+  <link rel="alternate" type="application/atom+xml" title="3D Resources — latest additions" href="/feed.xml">
   <meta name="google-site-verification" content="he46sgCFXN80qPjWX_KNO2ZJ8aqhaysIvSu1TQhCj2U">
 
   <!-- Open Graph -->
@@ -282,15 +324,33 @@ ${JSON.stringify(jsonLd, null, 2)}
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://api.fontshare.com" crossorigin>
   <link rel="preconnect" href="https://cdn.fontshare.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
-  <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=clash-grotesk@400,500,600,700&display=swap">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <!-- Critical CSS inlined so first paint doesn't wait on the full stylesheet. -->
+  <style>
+    body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; line-height: 1.55; background: #0d1117; color: #e6edf3; }
+    .wrapper { max-width: 1100px; margin: 0 auto; padding: 1.25rem 1.25rem 3rem; }
+    header { display: flex; justify-content: flex-end; padding-bottom: 0.5rem; }
+    h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); line-height: 1.2; margin: 0.8rem 0 0.6rem; }
+    h1 a { color: inherit; text-decoration: none; }
+    main details > summary { cursor: pointer; }
+    a { color: #58a6ff; }
+    .skip-link { position: absolute; left: -9999px; }
+    .skip-link:focus { left: 0; top: 0; padding: 0.5rem 0.8rem; background: #388bfd; color: #fff; }
+  </style>
+  <!-- Non-critical stylesheets — loaded via media="print" trick so they don't block first paint. -->
+  <link rel="preload" as="style" href="/assets/css/style.css" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="/assets/css/style.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=clash-grotesk@400,500,600,700&display=swap" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css" media="print" onload="this.media='all'">
+  <noscript>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=clash-grotesk@400,500,600,700&display=swap">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
+  </noscript>
   <script defer src="/assets/js/vendor/minisearch.js"></script>
   <script defer src="/assets/js/filter.js"></script>
-  <script type="text/javascript">var MIXPANEL_CUSTOM_LIB_URL='https://mp.devanshutak.xyz/lib/mixpanel-2-latest.min.js';(function(f,b){if(!b.__SV){var e,g,i,h;window.mixpanel=b;b._i=[];b.init=function(e,f,c){function g(a,d){var b=d.split(".");2==b.length&&(a=a[b[0]],d=b[1]);a[d]=function(){a.push([d].concat(Array.prototype.slice.call(arguments,0)))}}var a=b;"undefined"!==typeof c?a=b[c]=[]:c="mixpanel";a.people=a.people||[];a.toString=function(a){var d="mixpanel";"mixpanel"!==c&&(d+="."+c);a||(d+=" (stub)");return d};a.people.toString=function(){return a.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");
-for(h=0;h<i.length;h++)g(a,i[h]);var j="set set_once union unset remove delete".split(" ");a.get_group=function(){function b(c){d[c]=function(){call2_args=arguments;call2=[c].concat(Array.prototype.slice.call(call2_args,0));a.push([e,call2])}}for(var d={},e=["get_group"].concat(Array.prototype.slice.call(arguments,0)),c=0;c<j.length;c++)b(j[c]);return d};b._i.push([e,f,c])};b.__SV=1.2;e=f.createElement("script");e.type="text/javascript";e.async=!0;e.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===f.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\\/\\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";g=f.getElementsByTagName("script")[0];g.parentNode.insertBefore(e,g)}})(document,window.mixpanel||[]);
-mixpanel.init('3ec8187264dce16657f7d211c7926159', {autocapture: true, record_sessions_percent: 100, api_host: 'https://mp.devanshutak.xyz'});</script>
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -301,23 +361,81 @@ mixpanel.init('3ec8187264dce16657f7d211c7926159', {autocapture: true, record_ses
     <main id="main-content" tabindex="-1">
       ${html}
     </main>
-    <footer>
-      <p><small><a href="https://devanshutak.xyz">devanshutak.xyz</a></small></p>
+    <a href="#main-content" class="back-to-top" aria-label="Back to top">
+      <i class="mdi mdi-arrow-up" aria-hidden="true"></i>
+    </a>
+    <script>
+      (function(){
+        var btn = document.querySelector('.back-to-top');
+        if (!btn) return;
+        var threshold = 600;
+        function onScroll(){
+          if (window.scrollY > threshold) btn.classList.add('visible');
+          else btn.classList.remove('visible');
+        }
+        window.addEventListener('scroll', onScroll, { passive: true });
+        onScroll();
+      })();
+    </script>
+    <!-- Mixpanel — deferred to idle to keep TTI low. Init runs once the browser is idle. -->
+    <script>
+      (function loadMixpanel(){
+        function init(){
+          var MIXPANEL_CUSTOM_LIB_URL='https://mp.devanshutak.xyz/lib/mixpanel-2-latest.min.js';
+          (function(f,b){if(!b.__SV){var e,g,i,h;window.mixpanel=b;b._i=[];b.init=function(e,f,c){function g(a,d){var b=d.split(".");2==b.length&&(a=a[b[0]],d=b[1]);a[d]=function(){a.push([d].concat(Array.prototype.slice.call(arguments,0)))}}var a=b;"undefined"!==typeof c?a=b[c]=[]:c="mixpanel";a.people=a.people||[];a.toString=function(a){var d="mixpanel";"mixpanel"!==c&&(d+="."+c);a||(d+=" (stub)");return d};a.people.toString=function(){return a.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");
+for(h=0;h<i.length;h++)g(a,i[h]);var j="set set_once union unset remove delete".split(" ");a.get_group=function(){function b(c){d[c]=function(){call2_args=arguments;call2=[c].concat(Array.prototype.slice.call(call2_args,0));a.push([e,call2])}}for(var d={},e=["get_group"].concat(Array.prototype.slice.call(arguments,0)),c=0;c<j.length;c++)b(j[c]);return d};b._i.push([e,f,c])};b.__SV=1.2;e=f.createElement("script");e.type="text/javascript";e.async=!0;e.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===f.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\\/\\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";g=f.getElementsByTagName("script")[0];g.parentNode.insertBefore(e,g)}})(document,window.mixpanel||[]);
+          mixpanel.init('3ec8187264dce16657f7d211c7926159', {autocapture: true, record_sessions_percent: 100, api_host: 'https://mp.devanshutak.xyz'});
+        }
+        if ('requestIdleCallback' in window) requestIdleCallback(init, { timeout: 2500 });
+        else setTimeout(init, 1500);
+      })();
+    </script>
+    <footer class="site-footer">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <strong>3D Resources</strong>
+          <p>Curated by <a href="https://devanshutak.xyz">Devanshu Tak</a>.</p>
+          <p><small>Last updated ${LAST_UPDATED}</small></p>
+        </div>
+        <div class="footer-col">
+          <strong>Contribute</strong>
+          <ul>
+            <li><a href="${REPO_URL}/issues/new?template=suggest-resource.yml">Suggest a resource</a></li>
+            <li><a href="${REPO_URL}/issues/new?template=report-broken-link.yml">Report a broken link</a></li>
+            <li><a href="${REPO_URL}/blob/main/CONTRIBUTING.md">Contributing guide</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <strong>Project</strong>
+          <ul>
+            <li><a href="${REPO_URL}">GitHub repo</a></li>
+            <li><a href="/feed.xml">RSS feed</a></li>
+            <li><a href="/llms.txt">llms.txt</a></li>
+            <li><a href="https://creativecommons.org/publicdomain/zero/1.0/">License: CC0-1.0</a></li>
+          </ul>
+        </div>
+      </div>
+      <p class="footer-badges">
+        <a href="${REPO_URL}/stargazers"><img src="https://img.shields.io/github/stars/devanshutak25/3d-resources?style=flat&amp;logo=github&amp;color=24292e" alt="GitHub stars" loading="lazy"></a>
+        <a href="${REPO_URL}/actions/workflows/validate.yml"><img src="${REPO_URL}/actions/workflows/validate.yml/badge.svg" alt="Validate CI status" loading="lazy"></a>
+      </p>
     </footer>
   </div>
 </body>
 </html>`;
 
 // --- Sitemap ---
+// Real URLs only — root + 12 section pages. Anchor-fragment URLs (`/#section`)
+// were dropped because Google collapses them to the canonical root URL and
+// they dilute crawl budget without adding indexable surface.
 const today = new Date().toISOString().slice(0, 10);
 const sitemapUrls = [
   { loc: `${SITE_URL}/`, priority: '1.0', changefreq: 'weekly' },
-  ...sections.map(s => ({ loc: `${SITE_URL}/#${s.anchor}`, priority: '0.8', changefreq: 'weekly' })),
-  ...sections.flatMap(s => s.subsections.map(ss => ({
-    loc: `${SITE_URL}/#${ss.anchor}`,
-    priority: '0.6',
+  ...sections.map(s => ({
+    loc: `${SITE_URL}/sections/${s.slug}/`,
+    priority: '0.9',
     changefreq: 'weekly'
-  })))
+  }))
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -337,12 +455,55 @@ Allow: /
 Sitemap: ${SITE_URL}/sitemap.xml
 `;
 
+// --- 404 page ---
+const notFoundCards = sections
+  .map(s => `        <li><a href="/#${s.anchor}"><i class="mdi mdi-${SECTION_ICONS[s.anchor] || 'folder-outline'}" aria-hidden="true"></i> ${s.title}</a></li>`)
+  .join('\n');
+
+const notFoundPage = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#000000">
+  <title>404 — Not Found · 3D Resources</title>
+  <meta name="description" content="That page wasn't found. Browse the curated catalog of 3D resources instead.">
+  <meta name="robots" content="noindex, follow">
+  <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  <div class="wrapper">
+    <header>
+      <p class="view"><a href="/">← Home</a> · <a href="${REPO_URL}">View on GitHub</a></p>
+    </header>
+    <main id="main-content" tabindex="-1">
+      <h1>404 — Page not found</h1>
+      <p>That URL didn't resolve to anything in the catalog. Try one of the sections below, or head <a href="/">back home</a> to use the search and filters.</p>
+      <h2>Browse the catalog</h2>
+      <ul class="not-found-list">
+${notFoundCards}
+      </ul>
+      <p><small>Spotted a broken link inside the catalog? <a href="${REPO_URL}/issues/new?template=report-broken-link.yml">Report it on GitHub</a> — we'll fix it.</small></p>
+    </main>
+    <footer class="site-footer">
+      <p><a href="/">3d.devanshutak.xyz</a> · <a href="${REPO_URL}">GitHub</a></p>
+    </footer>
+  </div>
+</body>
+</html>`;
+
 // --- Emit all artifacts ---
 fs.mkdirSync('_site', { recursive: true });
 fs.cpSync('assets', '_site/assets', { recursive: true });
 fs.writeFileSync('_site/index.html', page);
+fs.writeFileSync('_site/404.html', notFoundPage);
 fs.writeFileSync('_site/sitemap.xml', sitemap);
 fs.writeFileSync('_site/robots.txt', robots);
 console.log('Built _site/index.html');
+console.log('Built _site/404.html');
 console.log(`Wrote sitemap.xml (${sitemapUrls.length} URLs)`);
 console.log('Wrote robots.txt');

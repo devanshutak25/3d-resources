@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#388bfd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="url(#accent)"/>
+  <rect x="0" y="622" width="1200" height="8" fill="url(#accent)"/>
+
+  <!-- Eyebrow -->
+  <text x="80" y="130" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, sans-serif" font-size="28" font-weight="500" fill="#8b949e" letter-spacing="3">3D RESOURCES</text>
+
+  <!-- Title -->
+  <text x="80" y="260" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, sans-serif" font-size="76" font-weight="700" fill="#e6edf3">{{TITLE_LINE_1}}</text>
+  <text x="80" y="350" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, sans-serif" font-size="76" font-weight="700" fill="#e6edf3">{{TITLE_LINE_2}}</text>
+
+  <!-- Tagline -->
+  <text x="80" y="440" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, sans-serif" font-size="30" font-weight="400" fill="#8b949e">{{TAGLINE}}</text>
+
+  <!-- Count chip -->
+  <rect x="80" y="490" width="{{COUNT_CHIP_WIDTH}}" height="56" rx="28" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="528" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, sans-serif" font-size="26" font-weight="600" fill="#e6edf3">{{COUNT_TEXT}}</text>
+
+  <!-- URL -->
+  <text x="80" y="585" font-family="ui-monospace, SF Mono, Menlo, Consolas, monospace" font-size="24" font-weight="500" fill="#58a6ff">3d.devanshutak.xyz/sections/{{SLUG}}</text>
+</svg>
