@@ -29,6 +29,21 @@ entries:
       - 4D
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: LichtFeld Studio
+    url: https://github.com/MrNeRF/LichtFeld-Studio
+    description: Native desktop app for training, inspecting, editing, and exporting 3D Gaussian Splatting scenes. Plugin extensible.
+    license: Open Source
+    entry_type: tool
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - opensource-alt
+    readme_tags:
+      - Desktop App
+      - GPL-3.0
+    url_last_verified: '2026-05-18'
+    url_status: ok
   - name: Brush
     url: https://github.com/ArthurBrussee/brush
     description: 3D reconstruction for all.
