@@ -155,3 +155,16 @@ entries:
     tags:
       output:
         - games
+  - name: Games Artist
+    url: https://gamesartist.co.uk/
+    description: Game art community with breakdowns, tutorials, and showcases.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Game Art
+      - Breakdowns
+    url_last_verified: '2026-05-18'
+    url_status: ok
+    tags:
+      output:
+        - games
