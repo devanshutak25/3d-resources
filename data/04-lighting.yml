@@ -3,15 +3,15 @@ title: Lighting, Rendering & Shaders
 description: 3D lighting, rendering theory, shader theory, and renderer-specific learning. Render engine software lives in §12.
 subsections:
   - slug: lighting-fundamentals
-    title: 3D Lighting — Fundamentals
+    title: "3D Lighting: Fundamentals"
     description: Core lighting tutorials for beginners and generalists.
     chunks: 1
   - slug: lighting-redshift
-    title: 3D Lighting — Redshift-Specific
+    title: "3D Lighting: Redshift-Specific"
     description: Redshift lighting tutorials, primarily in C4D.
     chunks: 1
   - slug: lighting-production
-    title: 3D Lighting — Production
+    title: "3D Lighting: Production"
     description: Production-focused lighting talks.
     chunks: 1
   - slug: rendering-shader-theory

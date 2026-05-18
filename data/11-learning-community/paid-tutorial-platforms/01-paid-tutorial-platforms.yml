@@ -395,7 +395,7 @@ entries:
         - web
   - name: Unity tutorials in AR
     url: https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D
-    description: '``Unity``  tutorials in AR                                   |'
+    description: '``Unity`` tutorials in AR |'
     entry_type: tutorial
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -422,7 +422,7 @@ entries:
         - web
   - name: The CG Essentials
     url: https://thecgessentials.com/
-    description: 3D modeling, rendering, animation, particle simulation, and more, this is the place to be for Blender Tutorials.
+    description: 3D modeling, rendering, animation, particle simulation, this is the place to be for Blender Tutorials.
     entry_type: tutorial
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -431,7 +431,7 @@ entries:
         - web
   - name: Learn ARKit using Unity - Udacity
     url: https://www.udacity.com/course/learn-arkit-using-unity--ud114
-    description: '``Udacity`` course about ARKit development using Unity       |'
+    description: '``Udacity`` course about ARKit development using Unity |'
     entry_type: tutorial
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -503,7 +503,7 @@ entries:
         - web
   - name: Blender Beginner 3D Modeling Tutorial
     url: https://www.youtube.com/@tutor4u
-    description: Blender Beginner 3D Modeling Tutorial..
+    description: Blender Beginner 3D Modeling Tutorial.
     entry_type: channel
     url_last_verified: '2026-05-01'
     url_status: ok

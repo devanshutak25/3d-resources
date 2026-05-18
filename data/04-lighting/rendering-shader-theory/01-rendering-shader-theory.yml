@@ -60,7 +60,7 @@ entries:
     url_status: ok
   - name: 3D Game Shaders for Beginners
     url: https://lettier.github.io/3d-game-shaders-for-beginners/
-    description: Clear breakdowns of SSAO, bloom, SSR, and more.
+    description: Clear breakdowns of SSAO, bloom, SSR.
     license: Free
     entry_type: reference
     tags:
@@ -270,7 +270,7 @@ entries:
     last_pushed: '2023-06-25'
   - name: Jendrik Illner's blog
     url: https://www.jendrikillner.com/tags/weekly/
-    description: Ubisoft 3D programmer posts a weekly summary of articles on 3D graphics — shader tutorials, real-time rendering papers, etc.
+    description: Ubisoft 3D programmer posts a weekly summary of articles on 3D graphics. Shader tutorials, real-time rendering papers, etc.
     license: Free
     entry_type: tutorial
     url_last_verified: '2026-05-01'
@@ -599,7 +599,7 @@ entries:
         - real-time
   - name: CineShader
     url: https://cineshader.com/editor
-    description: Real-time 3D shader visualiser. Leverages the Shadertoy API to bring thousands of existing shader artworks into a cinematic 3D environment.
+    description: Real-time 3D shader visualiser. Uses the Shadertoy API to bring thousands of existing shader artworks into a cinematic 3D environment.
     license: Free
     entry_type: tool
     url_last_verified: '2026-05-01'

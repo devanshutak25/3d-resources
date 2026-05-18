@@ -1,7 +1,7 @@
 entries:
   - name: Godot Documentation
     url: https://docs.godotengine.org/
-    description: Official docs — GDScript, C#, 2D/3D, shaders, physics, networking.
+    description: Official docs. GDScript, C#, 2D/3D, shaders, physics, networking.
     license: Free
     entry_type: reference
     readme_tags:
@@ -16,7 +16,7 @@ entries:
         - opensource-alt
   - name: Godot Asset Store
     url: https://store.godotengine.org/
-    description: Official addon, plugin, and asset marketplace (beta) — replaces the legacy Asset Library.
+    description: Official addon, plugin, and asset marketplace (beta). Replaces the legacy Asset Library.
     license: Free
     entry_type: marketplace
     readme_tags:

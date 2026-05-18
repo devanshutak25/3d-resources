@@ -187,7 +187,7 @@ entries:
       - ai-ml-for-cg/3d-generation
   - name: TripoSR
     url: https://github.com/VAST-AI-Research/TripoSR
-    description: Tripo/Stability collab — fast open-source image-to-3D.
+    description: Tripo/Stability collab. Fast open-source image-to-3D.
     license: Open Source
     entry_type: software
     best_for: Fast open-source image→3D

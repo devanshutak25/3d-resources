@@ -55,7 +55,7 @@ entries:
     last_pushed: '2023-11-28'
   - name: Blender Manager
     url: https://github.com/verlorengest/BlenderManager
-    description: Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management, and More.
+    description: Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone manager app, not an addon.
@@ -215,7 +215,7 @@ entries:
         - blender
   - name: Hi Phy Engine
     url: https://hiphyengine.github.io/
-    description: Fully-coupled high-fidelity physics engine addon — unified solver for rigid body, cloth, hair, soft body, and MPM snow/sand with intersection-free continuous collision detection.
+    description: Fully-coupled high-fidelity physics engine addon. Unified solver for rigid body, cloth, hair, soft body, and MPM snow/sand with intersection-free continuous collision detection.
     license: Paid
     entry_type: plugin
     best_for: Accurate cloth/hair/soft-body sim in Blender
@@ -275,7 +275,7 @@ entries:
       - geometry-nodes
   - name: Auto Terrainer
     url: https://unicornhunter.gumroad.com/l/AutoTerrainer
-    description: Automatic Blender Terrain Generator is a powerful and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
+    description: Automatic Blender Terrain Generator is a and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
     entry_type: tool
     license: Paid
     url_last_verified: '2026-05-01'
@@ -330,7 +330,7 @@ entries:
         - blender-addon
   - name: Poliigon Blender Addon
     url: https://help.poliigon.com/en/articles/6342599
-    description: This addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs, and more recently supports generating Blender materials from Poliigon texture sets.
+    description: This addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs recently supports generating Blender materials from Poliigon texture sets.
     entry_type: plugin
     license: Free
     url_last_verified: '2026-05-01'

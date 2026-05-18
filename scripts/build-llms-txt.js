@@ -94,7 +94,7 @@ function buildHeader() {
   return [
     '# 3D Resources',
     '',
-    '> Curated hub of 3,000+ free and paid 3D resources — textures, HDRIs, models, tutorials, render engines, USD, VFX, motion graphics, game development, and AI/ML for CG. Maintained by Devanshu Tak.',
+    '> Curated hub of 3,000+ free and paid 3D resources: textures, HDRIs, models, tutorials, render engines, USD, VFX, motion graphics, game development, and AI/ML for CG. Maintained by Devanshu Tak.',
     '',
     `Interactive site: ${SITE_URL}`,
     'Repo: https://github.com/devanshutak25/3d-resources',

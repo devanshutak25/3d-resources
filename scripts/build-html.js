@@ -22,7 +22,7 @@ function lastUpdatedDate() {
   }
 }
 const TITLE = '3D Resources: Software, Assets, Tutorials & Tools for 3D Artists';
-const DESCRIPTION = 'Curated hub of 1,300+ free and paid 3D resources — textures, HDRIs, models, tutorials, render engines, USD, VFX, and AI/ML. Filter by license and workflow.';
+const DESCRIPTION = 'Curated hub of 1,300+ free and paid 3D resources: textures, HDRIs, models, tutorials, render engines, USD, VFX, and AI/ML. Filter by license and workflow.';
 
 // GitHub-flavored anchor slugify. Differs from a naive slug in two ways:
 //   1. `&amp;` (and bare `&`) is removed without inserting a dash, but the
@@ -273,7 +273,7 @@ html = html.replace(/<blockquote>\s*<p><strong>Looking for something specific\?<
 const filterShell = `<div id="filter-shell" role="search">
   <input type="search" placeholder="Search resources…" aria-label="Search resources" disabled>
   <noscript>
-    <p class="filter-noscript-notice">Filtering and search need JavaScript. The full table of contents below works without it — pick a section and browse.</p>
+    <p class="filter-noscript-notice">Filtering and search need JavaScript. The full table of contents below works without it. Pick a section and browse.</p>
   </noscript>
 </div>`;
 html = html.replace(/(<h2 id="contents")/, `${filterShell}\n$1`);
@@ -291,7 +291,7 @@ const page = `<!DOCTYPE html>
   <meta name="author" content="Devanshu Tak">
   <link rel="canonical" href="${SITE_URL}/">
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
-  <link rel="alternate" type="application/atom+xml" title="3D Resources — latest additions" href="/feed.xml">
+  <link rel="alternate" type="application/atom+xml" title="3D Resources: latest additions" href="/feed.xml">
   <meta name="google-site-verification" content="he46sgCFXN80qPjWX_KNO2ZJ8aqhaysIvSu1TQhCj2U">
 
   <!-- Open Graph -->
@@ -304,14 +304,14 @@ const page = `<!DOCTYPE html>
   <meta property="og:image" content="${SITE_URL}/assets/og-image.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="3D Resources — curated hub of 3D software, assets, tutorials, and tools">
+  <meta property="og:image:alt" content="3D Resources: curated hub of 3D software, assets, tutorials, and tools">
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="${TITLE}">
   <meta name="twitter:description" content="${DESCRIPTION}">
   <meta name="twitter:image" content="${SITE_URL}/assets/og-image.png">
-  <meta name="twitter:image:alt" content="3D Resources — curated hub of 3D software, assets, tutorials, and tools">
+  <meta name="twitter:image:alt" content="3D Resources: curated hub of 3D software, assets, tutorials, and tools">
 
   <!-- Schema.org / structured data -->
   <script type="application/ld+json">
@@ -466,7 +466,7 @@ const notFoundPage = `<!DOCTYPE html>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#000000">
-  <title>404 — Not Found · 3D Resources</title>
+  <title>404 Not Found · 3D Resources</title>
   <meta name="description" content="That page wasn't found. Browse the curated catalog of 3D resources instead.">
   <meta name="robots" content="noindex, follow">
   <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
@@ -481,13 +481,13 @@ const notFoundPage = `<!DOCTYPE html>
       <p class="view"><a href="/">← Home</a> · <a href="${REPO_URL}">View on GitHub</a></p>
     </header>
     <main id="main-content" tabindex="-1">
-      <h1>404 — Page not found</h1>
+      <h1>404: Page not found</h1>
       <p>That URL didn't resolve to anything in the catalog. Try one of the sections below, or head <a href="/">back home</a> to use the search and filters.</p>
       <h2>Browse the catalog</h2>
       <ul class="not-found-list">
 ${notFoundCards}
       </ul>
-      <p><small>Spotted a broken link inside the catalog? <a href="${REPO_URL}/issues/new?template=report-broken-link.yml">Report it on GitHub</a> — we'll fix it.</small></p>
+      <p><small>Spotted a broken link inside the catalog? <a href="${REPO_URL}/issues/new?template=report-broken-link.yml">Report it on GitHub</a> and we'll fix it.</small></p>
     </main>
     <footer class="site-footer">
       <p><a href="/">3d.devanshutak.xyz</a> · <a href="${REPO_URL}">GitHub</a></p>

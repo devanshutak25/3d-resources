@@ -34,7 +34,7 @@ entries:
         - path-tracing
   - name: Veach Thesis (Stanford)
     url: https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf
-    description: Light transport theory — foundational PBR thesis.
+    description: Light transport theory. Foundational PBR thesis.
     license: Free
     entry_type: reference
     tags:

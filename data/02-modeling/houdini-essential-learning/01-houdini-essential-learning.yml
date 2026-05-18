@@ -1,7 +1,7 @@
 entries:
   - name: CGWiki (tokeru.com)
     url: http://www.tokeru.com/cgwiki/?title=Houdini
-    description: Matt Estela's CGWiki — the most comprehensive Houdini reference (Joy of VEX, LOPS, particles, everything).
+    description: Matt Estela's CGWiki. The most Houdini reference (Joy of VEX, LOPS, particles, everything).
     license: Free
     entry_type: reference
     readme_tags:
@@ -84,7 +84,7 @@ entries:
         - houdini
   - name: John Kunz (site)
     url: https://www.johnkunz.com/
-    description: Weekly streams — FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/)).
+    description: Weekly streams. FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/)).
     license: Free
     entry_type: channel
     readme_tags:

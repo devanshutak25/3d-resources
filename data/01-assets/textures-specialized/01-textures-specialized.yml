@@ -84,7 +84,7 @@ entries:
     url_status: ok
   - name: NASA 3D Resources
     url: https://nasa3d.arc.nasa.gov/
-    description: 3D models, textures, and images from NASA — mixed CC0 / CC-BY, check per-asset license. [![][repo]](https://github.com/nasa/NASA-3D-Resources)
+    description: 3D models, textures, and images from NASA. Mixed CC0 / CC-BY, check per-asset license. [![][repo]](https://github.com/nasa/NASA-3D-Resources)
     entry_type: asset-source
     license: Mixed
     url_last_verified: '2026-05-04'

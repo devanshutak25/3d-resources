@@ -177,7 +177,7 @@ function renderPage({ section, htmlBody, prev, next, jsonLd, lastUpdated }) {
   <meta name="robots" content="index, follow, max-image-preview:large">
   <meta name="author" content="Devanshu Tak">
   <link rel="canonical" href="${canonicalUrl}">
-  <link rel="alternate" type="application/atom+xml" title="3D Resources — latest additions" href="/feed.xml">
+  <link rel="alternate" type="application/atom+xml" title="3D Resources: latest additions" href="/feed.xml">
 
   <meta property="og:title" content="${pageTitle}">
   <meta property="og:description" content="${desc}">

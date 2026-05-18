@@ -244,7 +244,7 @@ entries:
         - games
   - name: UAssetAPI
     url: https://github.com/atenfyr/UAssetAPI
-    description: A low-level .NET library for reading and writing Unreal Engine 4 game assets.
+    description: A low-level.NET library for reading and writing Unreal Engine 4 game assets.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-05-01'
@@ -269,7 +269,7 @@ entries:
     url_status: ok
   - name: Kenney Game Assets All-in-1
     url: https://kenney.itch.io/kenney-game-assets
-    description: Includes 60,000+ game assets including 2D sprites, 3D models and more!
+    description: Includes 60,000+ game assets including 2D sprites, 3D models!
     license: Paid
     entry_type: asset-source
     tags:
@@ -376,7 +376,7 @@ entries:
     url_status: ok
   - name: 'Fx Effects Pixel Art #91 - 64x64 | 32x32'
     url: https://fx-express.itch.io/fx-effects-pixel-art-91-64x64-32x32
-    description: RPG FX Effects Asset Pack — 64×64 & 32×32
+    description: RPG FX Effects Asset Pack. 64×64 & 32×32
     license: Paid
     entry_type: asset-source
     tags:
@@ -513,7 +513,7 @@ entries:
     url_status: ok
   - name: KayKit - Forest Nature Pack
     url: https://kaylousberg.itch.io/kaykit-forest
-    description: 3D stylised low poly trees, rocks, grass, and more.
+    description: 3D stylised low poly trees, rocks, grass.
     license: Free
     entry_type: asset-source
     tags:

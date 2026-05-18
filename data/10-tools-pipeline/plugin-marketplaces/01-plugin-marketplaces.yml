@@ -420,7 +420,7 @@ entries:
         - blender-addon
   - name: PowerSave
     url: https://gumroad.com/l/powersave
-    description: Tool intended to streamline saving and make saving itself more accessible, friendly and more artist streamlined.
+    description: Tool intended to streamline saving and make saving itself more accessible, friendly artist streamlined.
     entry_type: marketplace
     readme_tags:
       - Blender

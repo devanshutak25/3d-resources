@@ -31,7 +31,7 @@ entries:
     url_status: ok
   - name: Hugging Face Transformers
     url: https://huggingface.co/transformers
-    description: State-of-the-art NLP models and pipelines.
+    description: NLP models and pipelines.
     license: Open Source
     entry_type: reference
     best_for: NLP model pipelines

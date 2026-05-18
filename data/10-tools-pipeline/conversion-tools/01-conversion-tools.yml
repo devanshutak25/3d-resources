@@ -210,7 +210,7 @@ entries:
         - opensource-alt
   - name: Squoosh
     url: https://squoosh.app/
-    description: Google — AVIF/WebP/JPEG XL image compression.
+    description: Google. AVIF/WebP/JPEG XL image compression.
     license: Open Source
     entry_type: tool
     readme_tags:
@@ -323,7 +323,7 @@ entries:
     description: Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
     entry_type: plugin
     license: Open Source
-    notes: RELOCATE — Blender plugin, belongs under plugins/blender section
+    notes: RELOCATE. Blender plugin, belongs under plugins/blender section
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -338,7 +338,7 @@ entries:
     description: '[glTF MultiExport](https://github.com/MozillaReality/blender-gltf-multiexport-addon), [ZBrush](https://blenderartists.org/t/goz-for-blender-2-8/1138418)'
     entry_type: plugin
     license: Open Source
-    notes: RELOCATE — Blender USDZ exporter plugin, belongs under plugins/blender
+    notes: RELOCATE. Blender USDZ exporter plugin, belongs under plugins/blender
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:

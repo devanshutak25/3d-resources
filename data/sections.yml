@@ -6,7 +6,7 @@ sections:
   - slug: assets-libraries
     title: "Assets & Libraries"
     file: "01-assets.yml"
-    description: "Models, textures, HDRIs, audio, stock — everything downloadable."
+    description: "Models, textures, HDRIs, audio, stock. Everything downloadable."
     featured: ["Poly Haven", "Quixel Megascans", "Sketchfab"]
 
   - slug: modeling-sculpting-texturing
@@ -72,4 +72,4 @@ sections:
   - slug: software-reference
     title: "Software Reference"
     file: "12-software-reference.yml"
-    description: "All software tables — full license, pricing, tagging."
+    description: "All software tables. Full license, pricing, tagging."

@@ -82,7 +82,7 @@ entries:
         - reference
   - name: Ctrl+Paint
     url: https://www.ctrlpaint.com/library
-    description: Structured free video library — digital painting fundamentals, value studies, color.
+    description: Structured free video library. Digital painting fundamentals, value studies, color.
     license: Free
     entry_type: tutorial
     readme_tags:
@@ -188,7 +188,7 @@ entries:
         - concept
   - name: Animation with Dall-e + AE | Reddit
     url: https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/
-    description: Patent drawing of an electronic device that ...
+    description: Patent drawing of an electronic device that..
     entry_type: community
     notes: 'Misfit: single Reddit thread on AI animation, not drawing/painting reference. Description is truncated/low-value. Consider relocating to AI/generative or removing.'
     url_last_verified: '2026-05-01'

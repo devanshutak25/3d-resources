@@ -40,7 +40,7 @@ entries:
         - games
   - name: Gorgon
     url: https://www.tape-worm.net/
-    description: A 2D rendering API for .NET, written in C#.
+    description: A 2D rendering API for.NET, written in C#.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-05-01'

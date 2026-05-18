@@ -215,7 +215,7 @@ entries:
     last_pushed: '2020-10-01'
   - name: Signals (UnityPatterns)
     url: https://github.com/UnityPatterns/Signals
-    description: A simple, easy to implement, editor-driven signal/event system for Unity. See  author's [repositories](https://github.com/UnityPatterns).
+    description: A simple, easy to implement, editor-driven signal/event system for Unity. See author's [repositories](https://github.com/UnityPatterns).
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -375,7 +375,7 @@ entries:
         - opensource-alt
   - name: MessagePack CSharp
     url: https://github.com/neuecc/MessagePack-CSharp
-    description: Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
+    description: Extremely Fast MessagePack Serializer for C#(.NET,.NET Core, Unity, Xamarin).
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -409,7 +409,7 @@ entries:
     last_pushed: '2019-02-12'
   - name: Protobuf3 for Unity
     url: https://github.com/bitcraftCoLtd/protobuf3-for-unity
-    description: Google Protocol Buffers runtime library version 3 for Unity (targeting .NET 3.5).
+    description: Google Protocol Buffers runtime library version 3 for Unity (targeting.NET 3.5).
     entry_type: tool
     url_last_verified: '2026-05-01'
     url_status: ok

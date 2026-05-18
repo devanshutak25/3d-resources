@@ -180,7 +180,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Filter Forge
     url: https://filterforge.com/
-    description: Node-based filter editor with library of thousands of seamless textures and photo effects; standalone or Photoshop/Affinity plugin.
+    description: Node-based filter editor with library of thousands of textures and photo effects; standalone or Photoshop/Affinity plugin.
     license: Paid
     entry_type: software
     best_for: Procedural textures and photo filters
@@ -203,7 +203,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Live Normal
     url: https://tenebrislab.github.io/livenormal/
-    description: An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
+    description: An Android and iOS app for generating materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
     license: Freemium
     entry_type: software
     url_last_verified: '2026-05-01'
@@ -272,7 +272,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Quixel Mixer
     url: https://quixel.com/mixer
-    description: Create photorealistic, tileable, materials in seconds with powerful mixing and painting.
+    description: Create photorealistic, tileable, materials in seconds with mixing and painting.
     license: Free
     entry_type: software
     url_last_verified: '2026-05-01'

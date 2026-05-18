@@ -13,7 +13,7 @@ entries:
         - unity-plugin
   - name: Augmented Reality
     url: https://unity.com/unity/features/ar
-    description: '[Unity’s AR Foundation Framework](https://unity.com/unity/features/arfoundation)  ,   [Unity MARS](https://unity.com/products/unity-mars)'
+    description: '[Unity’s AR Foundation Framework](https://unity.com/unity/features/arfoundation) , [Unity MARS](https://unity.com/products/unity-mars)'
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -347,7 +347,7 @@ entries:
     last_pushed: '2014-12-17'
   - name: Unity2 D Components
     url: https://github.com/cmilr/Unity2D-Components
-    description: A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
+    description: A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-05-01'

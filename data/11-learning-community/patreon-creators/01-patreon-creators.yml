@@ -1,7 +1,7 @@
 entries:
   - name: Merk
     url: https://www.patreon.com/merkvilson
-    description: Patreon — Merk.
+    description: Patreon. Merk.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -14,7 +14,7 @@ entries:
         - web
   - name: msedov
     url: https://www.patreon.com/msedov
-    description: Patreon — msedov.
+    description: Patreon. Msedov.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -27,7 +27,7 @@ entries:
         - web
   - name: The French Monkey
     url: https://www.patreon.com/TFMStyle
-    description: Patreon — The French Monkey.
+    description: Patreon. The French Monkey.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -40,7 +40,7 @@ entries:
         - web
   - name: Xuxoe
     url: https://www.patreon.com/xuxoe
-    description: Patreon — Xuxoe.
+    description: Patreon. Xuxoe.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -53,7 +53,7 @@ entries:
         - web
   - name: MotionPunk
     url: https://www.patreon.com/motionpunk
-    description: Patreon — MotionPunk.
+    description: Patreon. MotionPunk.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -66,7 +66,7 @@ entries:
         - web
   - name: Dusan Vukcevic
     url: https://www.patreon.com/vudu
-    description: Patreon — Dusan Vukcevic.
+    description: Patreon. Dusan Vukcevic.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -79,7 +79,7 @@ entries:
         - web
   - name: Vincent Schwenk (Patreon)
     url: https://www.patreon.com/vincentschwenk
-    description: Patreon — Vincent Schwenk.
+    description: Patreon. Vincent Schwenk.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -92,7 +92,7 @@ entries:
         - web
   - name: Entagma (Patreon)
     url: https://www.patreon.com/entagma
-    description: Patreon — Entagma.
+    description: Patreon. Entagma.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -105,7 +105,7 @@ entries:
         - web
   - name: Arthur Whitehead (Patreon)
     url: https://www.patreon.com/arthurwhitehead
-    description: Patreon — Arthur Whitehead.
+    description: Patreon. Arthur Whitehead.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -118,7 +118,7 @@ entries:
         - web
   - name: Philiplueck
     url: https://www.patreon.com/philiplueck
-    description: Patreon — Philiplueck.
+    description: Patreon. Philiplueck.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -131,7 +131,7 @@ entries:
         - web
   - name: Kaeptive
     url: https://www.patreon.com/Kaeptive
-    description: Patreon — Kaeptive.
+    description: Patreon. Kaeptive.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -144,7 +144,7 @@ entries:
         - web
   - name: Jesus Suarez
     url: https://www.patreon.com/jssuarez
-    description: Patreon — Jesus Suarez.
+    description: Patreon. Jesus Suarez.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -157,7 +157,7 @@ entries:
         - web
   - name: NewPlastic
     url: https://www.patreon.com/NewPlastic
-    description: Patreon — NewPlastic.
+    description: Patreon. NewPlastic.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -170,7 +170,7 @@ entries:
         - web
   - name: Max Salzborn
     url: https://www.patreon.com/maxsalzborn
-    description: Patreon — Max Salzborn.
+    description: Patreon. Max Salzborn.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -183,7 +183,7 @@ entries:
         - web
   - name: Gonzzzalo
     url: https://www.patreon.com/gonzzzalo
-    description: Patreon — Gonzzzalo.
+    description: Patreon. Gonzzzalo.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -196,7 +196,7 @@ entries:
         - web
   - name: Ross Mason (Patreon)
     url: https://www.patreon.com/iamrossmason
-    description: Patreon — Ross Mason.
+    description: Patreon. Ross Mason.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -209,7 +209,7 @@ entries:
         - web
   - name: John Kunz (Patreon)
     url: https://patreon.com/johnkunz
-    description: Patreon — John Kunz.
+    description: Patreon. John Kunz.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -222,7 +222,7 @@ entries:
         - web
   - name: Christopher Rutledge (Patreon)
     url: https://www.patreon.com/tokyomegaplex
-    description: Patreon — Christopher Rutledge.
+    description: Patreon. Christopher Rutledge.
     entry_type: channel
     license: Paid
     readme_tags:

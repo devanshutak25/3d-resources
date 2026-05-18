@@ -415,7 +415,7 @@ entries:
     url_status: ok
   - name: DragonBones
     url: http://dragonbones.effecthub.com
-    description: Open source 2D skeletal animation — Flash-origin workflow, runtimes for multiple engines.
+    description: Open source 2D skeletal animation. Flash-origin workflow, runtimes for multiple engines.
     license: Open Source
     entry_type: software
     best_for: 2D skeletal animation (OSS)

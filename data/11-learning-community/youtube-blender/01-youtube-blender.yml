@@ -173,7 +173,7 @@ entries:
         - web
   - name: Royal Skies
     url: https://www.youtube.com/@TheRoyalSkies
-    description: 3D technical artist — Blender, Unreal, games. Speed tutorials across rigging, shaders, animation.
+    description: 3D technical artist. Blender, Unreal, games. Speed tutorials across rigging, shaders, animation.
     entry_type: channel
     license: Free
     readme_tags:
@@ -298,7 +298,7 @@ entries:
         - web
   - name: Modeling a character BaseMesh in Blender
     url: https://www.youtube.com/@sociamix
-    description: Modeling a character BaseMesh in Blender..
+    description: Modeling a character BaseMesh in Blender.
     entry_type: channel
     license: Free
     readme_tags:
@@ -313,7 +313,7 @@ entries:
         - web
   - name: How to composite renders in Blender
     url: https://www.youtube.com/@BlenderBrit
-    description: How to composite renders in Blender..
+    description: How to composite renders in Blender.
     entry_type: channel
     license: Free
     readme_tags:
@@ -328,7 +328,7 @@ entries:
         - web
   - name: Blender Render Passes and Very Basic Compositing
     url: https://www.youtube.com/@KevBinge
-    description: Blender Render Passes and Very Basic Compositing..
+    description: Blender Render Passes and Very Basic Compositing.
     entry_type: channel
     license: Free
     readme_tags:
@@ -358,7 +358,7 @@ entries:
         - web
   - name: How to use blender's compositor to improve a rendered frame sequence
     url: https://www.youtube.com/@garagefarmacademy
-    description: How to use blender's compositor to improve a rendered frame sequence..
+    description: How to use blender's compositor to improve a rendered frame sequence.
     entry_type: channel
     license: Free
     readme_tags:
@@ -373,7 +373,7 @@ entries:
         - web
   - name: Blender Compositor for Post Processing
     url: https://www.youtube.com/@RenderRides
-    description: Blender Compositor for Post Processing..
+    description: Blender Compositor for Post Processing.
     entry_type: channel
     license: Free
     readme_tags:

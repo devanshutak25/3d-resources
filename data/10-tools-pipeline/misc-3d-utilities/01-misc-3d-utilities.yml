@@ -113,7 +113,7 @@ entries:
     url_status: ok
   - name: Sorcar
     url: https://aachman98.itch.io/sorcar
-    description: A procedural modeling node-based system which utilizes Blender and its Python API to create a visual programming environment for artists and developers
+    description: A procedural modeling node-based system which uses Blender and its Python API to create a visual programming environment for artists and developers
     license: Open Source
     entry_type: plugin
     tags:

@@ -1,7 +1,7 @@
 entries:
   - name: Mocha Pro
     url: https://borisfx.com/products/mocha-pro/
-    description: Boris FX planar tracker for VFX — roto, object removal, screen replacement, lens distortion.
+    description: Boris FX planar tracker for VFX. Roto, object removal, screen replacement, lens distortion.
     pricing: $48/mo or $325/yr; perpetual from $765
     license: Paid
     entry_type: software
@@ -69,7 +69,7 @@ entries:
     url_status: ok
   - name: Continuum
     url: https://borisfx.com/products/continuum/
-    description: Boris FX broadcast/post effects collection — titles, particles, image restoration, color.
+    description: Boris FX broadcast/post effects collection. Titles, particles, image restoration, color.
     pricing: $32–$112/mo; perpetual $365–$2,195 by host
     license: Paid
     entry_type: software
@@ -91,7 +91,7 @@ entries:
     url_status: ok
   - name: Red Giant Complete
     url: https://www.maxon.net/en/red-giant
-    description: Maxon-owned VFX/motion suite — Trapcode, Magic Bullet, VFX Suite, Universe.
+    description: Maxon-owned VFX/motion suite. Trapcode, Magic Bullet, VFX Suite, Universe.
     pricing: $85/mo or $639/yr
     license: Paid
     entry_type: software

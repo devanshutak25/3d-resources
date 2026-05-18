@@ -38,7 +38,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Magnific AI
     url: https://magnific.ai/
-    description: AI upscaler with "creativity" slider — reimagines/adds detail (2-16x).
+    description: AI upscaler with "creativity" slider. Reimagines/adds detail (2-16x).
     license: Paid
     entry_type: software
     best_for: Creative AI upscaling

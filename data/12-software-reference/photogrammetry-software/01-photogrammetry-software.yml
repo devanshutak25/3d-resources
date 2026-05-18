@@ -258,7 +258,7 @@ entries:
       - tools-pipeline-utilities/photogrammetry-scanning
   - name: 'SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field'
     url: https://zju3dv.github.io/sine/
-    description: Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE)  | [bibtex](./citations/sine.txt)
+    description: Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE) | [bibtex](./citations/sine.txt)
     entry_type: software
     url_last_verified: '2026-05-01'
     url_status: ok

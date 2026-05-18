@@ -113,7 +113,7 @@ entries:
         - blender-addon
   - name: Verge3D
     url: https://www.soft8soft.com/get-verge3d/
-    description: Powerful yet cost-efficient solution for creating interactive 3D web experiences.
+    description: yet cost-efficient solution for creating interactive 3D web experiences.
     entry_type: plugin
     license: Paid
     url_last_verified: '2026-05-01'
@@ -157,7 +157,7 @@ entries:
         - blender-addon
   - name: FLIP Fluids
     url: https://github.com/rlguy/Blender-FLIP-Fluids
-    description: Powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://blendermar
+    description: liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://blendermar
     entry_type: plugin
     license: Paid
     url_last_verified: '2026-05-01'
@@ -207,7 +207,7 @@ entries:
         - opensource-alt
   - name: Data FX
     url: https://github.com/LandonFerg/Data-FX
-    description: Loads and visualizes different types of data within Blender from .csv files.
+    description: Loads and visualizes different types of data within Blender from.csv files.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-05-01'

@@ -461,7 +461,7 @@ entries:
     last_pushed: '2021-08-08'
   - name: Unity Math Reference
     url: https://github.com/zezba9000/UnityMathReference
-    description: Math reference for games and more. All visualized in Unity3D.
+    description: Math reference for games. All visualized in Unity3D.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-05-01'

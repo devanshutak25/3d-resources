@@ -17,7 +17,7 @@ entries:
     description: '[💻 Code](https://github.com/vLAR-group/DM-NeRF)'
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -55,7 +55,7 @@ entries:
     year: 2022
   - name: 'Magic3D: High-Resolution Text-to-3D Content Creation'
     url: https://arxiv.org/pdf/2211.10440.pdf
-    description: '[🌐 Project Page](https://research.nvidia.com/labs/dir/magic3d)  | [💻 Code][Coming soon.]'
+    description: '[🌐 Project Page](https://research.nvidia.com/labs/dir/magic3d) | [💻 Code][Coming soon.]'
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -97,7 +97,7 @@ entries:
     description: Tseng et al., ICRA 2022 | [bibtex](./citations/cla-nerf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -125,7 +125,7 @@ entries:
     description: Chng et al., ECCV 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/garf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -140,7 +140,7 @@ entries:
     description: Esposito et al., Arxiv 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/kiloneus.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -155,7 +155,7 @@ entries:
     description: Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF) | [bibtex](./citations/locnerf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -170,7 +170,7 @@ entries:
     description: Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv survey paper, not software; bulk NeRF-paper entries below share same issue, consider reference
+    notes: misfit. Arxiv survey paper, not software; bulk NeRF-paper entries below share same issue, consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -211,7 +211,7 @@ entries:
     description: Li et al., ICCAD 2022 | [bibtex](./citations/rt-nerf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -239,7 +239,7 @@ entries:
     description: Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF) | [bibtex](citations/anim_nerf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -267,7 +267,7 @@ entries:
     description: Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF) | [bibtex](./citations/dsnerf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -282,7 +282,7 @@ entries:
     description: Garbin et al., Arxiv 2021 | [bibtex](./citations/fastnerf.txt) <!---Garbin21arxiv_FastNeRF-->
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -297,7 +297,7 @@ entries:
     description: Niemeyer et al., CVPR 2021, [bibtex](./NeRF-and-Beyond.bib#L175-L181) <!---Niemeyer20arxiv_GIRAFFE-->
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -312,7 +312,7 @@ entries:
     description: Meng et al., Arxiv 2021 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/gnerf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -327,7 +327,7 @@ entries:
     description: Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf) | [bibtex](./citations/kilonerf.txt) <!---reiser2021kilonerf-->
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -342,7 +342,7 @@ entries:
     description: Tancik et al., CVPR 2021 | [github](https://github.com/tancik/learnit) | [bibtex](./NeRF-and-Beyond.bib#L268-L274) <!---Tancik20arxiv_meta-->
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -370,7 +370,7 @@ entries:
     description: Kosiorek et al., Arxiv 2021 | [bibtex](./citations/nerf-vae.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -411,7 +411,7 @@ entries:
     description: Yu et al., CVPR 2021 | [github](https://github.com/sxyu/pixel-nerf) | [bibtex](./NeRF-and-Beyond.bib#L329-L335) <!---Yu20arxiv_pixelNeRF-->
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -439,7 +439,7 @@ entries:
     description: Rebain et al. Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L222-L228) <!---Rebain20arxiv_derf-->
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -451,10 +451,10 @@ entries:
     year: 2020
   - name: 'GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis'
     url: https://arxiv.org/abs/2007.02442
-    description: Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf)  | [bibtex](./NeRF-and-Beyond.bib#L237-L243) <!---Schwarz20neurips_graf-->
+    description: Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf) | [bibtex](./NeRF-and-Beyond.bib#L237-L243) <!---Schwarz20neurips_graf-->
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -469,7 +469,7 @@ entries:
     description: Trevithick and Yang, Arxiv 2020 | [github](https://github.com/alextrevithick/GRF) | [bibtex](./NeRF-and-Beyond.bib#L291-L297) <!---Trevithick20arxiv_GRF-->
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -484,7 +484,7 @@ entries:
     description: Zhang et al., Arxiv 2020 | [github](https://github.com/Kai-46/nerfplusplus) | [bibtex](./NeRF-and-Beyond.bib#L345-L351) <!---Zhang20arxiv_nerf++-->
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -494,7 +494,7 @@ entries:
       platform:
         - web
     year: 2020
-  - name: 'Neural Volume Rendering: NeRF And Beyond'
+  - name: 'Neural Volume Rendering: NeRF'
     url: https://arxiv.org/abs/2101.05204
     description: Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/) | [github](https://raw.githubusercontent.com/yenchenlin/awesome-NeRF/main/NeRF-and-Beyond.bib) |
     entry_type: reference

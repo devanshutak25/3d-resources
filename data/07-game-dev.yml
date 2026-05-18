@@ -3,67 +3,67 @@ title: Game Development
 description: Engines, per-engine resources, game dev tools, game assets (dual-listed from §1), design theory, learning, communities, and jams. Engine software tables live in §12.
 subsections:
   - slug: godot-official
-    title: Godot — Official Resources
+    title: "Godot: Official Resources"
     description: Official documentation and asset libraries.
     chunks: 1
   - slug: godot-plugins
-    title: Godot — Key Plugins & Addons
+    title: "Godot: Key Plugins & Addons"
     description: Essential Godot addons.
     chunks: 1
   - slug: godot-learning
-    title: Godot — Learning
+    title: "Godot: Learning"
     description: Godot-focused learning channels and courses.
     chunks: 1
   - slug: godot-communities
-    title: Godot — Communities
+    title: "Godot: Communities"
     description: Godot forums and chat.
     chunks: 1
   - slug: unity-engine-resources
-    title: Unity Engine — Resources
+    title: "Unity Engine: Resources"
     description: Unity community add-ons, tools, and learning resources.
     chunks: 9
   - slug: xr-ar-vr
-    title: XR, AR & VR — Resources
+    title: "XR, AR & VR: Resources"
     description: AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, and VR platforms.
     chunks: 1
   - slug: unreal-engine-resources
-    title: Unreal Engine — Resources
+    title: "Unreal Engine: Resources"
     description: Unreal Engine resources and marketplace picks.
     chunks: 4
   - slug: game-dev-level-design
-    title: Game Dev Tools — Level Design
+    title: "Game Dev Tools: Level Design"
     description: Level editors and blockout tools.
     chunks: 1
   - slug: game-dev-dialogue-narrative
-    title: Game Dev Tools — Dialogue & Narrative
+    title: "Game Dev Tools: Dialogue & Narrative"
     description: Dialogue, narrative scripting, and IF tools.
     chunks: 1
   - slug: game-dev-audio-middleware
-    title: Game Dev Tools — Audio Middleware
+    title: "Game Dev Tools: Audio Middleware"
     description: Adaptive audio and spatial audio middleware.
     chunks: 1
   - slug: game-dev-networking
-    title: Game Dev Tools — Networking & Multiplayer
+    title: "Game Dev Tools: Networking & Multiplayer"
     description: Multiplayer frameworks and game servers.
     chunks: 1
   - slug: game-dev-sprite-vfx
-    title: Game Dev Tools — Sprite & VFX
+    title: "Game Dev Tools: Sprite & VFX"
     description: Sprite animation, 2D VFX, texture packers.
     chunks: 1
   - slug: game-dev-ai-procedural
-    title: Game Dev Tools — AI & Procedural Generation
+    title: "Game Dev Tools: AI & Procedural Generation"
     description: WFC, noise, procedural pipelines, economy design.
     chunks: 1
   - slug: game-dev-physics
-    title: Game Dev Tools — Physics Engines
+    title: "Game Dev Tools: Physics Engines"
     description: Open-source physics engines.
     chunks: 1
   - slug: game-dev-version-control
-    title: Game Dev Tools — Version Control
+    title: "Game Dev Tools: Version Control"
     description: Version control for binary-heavy game projects.
     chunks: 1
   - slug: game-dev-analytics
-    title: Game Dev Tools — Analytics & Playtesting
+    title: "Game Dev Tools: Analytics & Playtesting"
     description: Analytics and playtesting services.
     chunks: 1
   - slug: game-design-theory
@@ -71,15 +71,15 @@ subsections:
     description: Design fundamentals, patterns, and references.
     chunks: 1
   - slug: game-dev-learning-channels
-    title: Game Dev — YouTube Channels
+    title: "Game Dev: YouTube Channels"
     description: Channels covering game dev technique, design, and industry.
     chunks: 1
   - slug: game-dev-courses
-    title: Game Dev — Courses
+    title: "Game Dev: Courses"
     description: Structured game dev courses.
     chunks: 1
   - slug: game-dev-communities
-    title: Game Dev — Communities
+    title: "Game Dev: Communities"
     description: Reddit, Discord, forums, indie job boards.
     chunks: 1
   - slug: game-jams

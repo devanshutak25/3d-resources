@@ -1,7 +1,7 @@
 entries:
   - name: TyFlow
     url: https://docs.tyflow.com/download/
-    description: Advanced particle/dynamics system — destruction, cloth, fluids.
+    description: Advanced particle/dynamics system. Destruction, cloth, fluids.
     entry_type: plugin
     license: Freemium
     tags:

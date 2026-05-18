@@ -33,7 +33,7 @@ entries:
         - opensource-alt
   - name: Ez Sprite Sheet
     url: https://github.com/z64me/EzSpriteSheet
-    description: Creates sprite sheets from animated GIFs and more
+    description: Creates sprite sheets from animated GIFs
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-05-01'
@@ -73,7 +73,7 @@ entries:
         - fx
   - name: Talos VFX
     url: https://github.com/rockbite/talos
-    description: Node based, open source VFX Editor with powerful interface and a ready to use libGDX runtime.
+    description: Node based, open source VFX Editor with interface and a ready to use libGDX runtime.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-05-01'

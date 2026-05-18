@@ -3,11 +3,11 @@ title: Animation & Rigging
 description: Technical animation, rigging, motion capture. Animation principles/theory live in §8.
 subsections:
   - slug: animation-learning-channels
-    title: Animation — YouTube Channels
+    title: "Animation: YouTube Channels"
     description: Channels covering 2D/motion animation technique.
     chunks: 1
   - slug: animation-courses
-    title: Animation — Courses
+    title: "Animation: Courses"
     description: Structured animation courses.
     chunks: 1
   - slug: ai-motion-capture

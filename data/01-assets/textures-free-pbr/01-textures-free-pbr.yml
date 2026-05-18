@@ -34,7 +34,7 @@ entries:
     url_status: ok
   - name: Share Textures
     url: https://www.sharetextures.com/
-    description: CC0 seamless textures.
+    description: CC0 textures.
     license: Free
     entry_type: asset-source
     tags:
@@ -251,7 +251,7 @@ entries:
         - pbr
   - name: 3DXO
     url: https://www.3dxo.com
-    description: Free 3D Models, seamless Textures, Backgrounds, Photos & Graphics.
+    description: Free 3D Models, Textures, Backgrounds, Photos & Graphics.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-05-01'

@@ -3,19 +3,19 @@ title: Learning, Community & Industry
 description: Cross-cutting learning hubs, communities, inspiration showcases, industry context, career data, and arch-viz.
 subsections:
   - slug: youtube-motion-c4d
-    title: YouTube Channels — Motion Graphics & Cinema 4D
+    title: "YouTube Channels: Motion Graphics & Cinema 4D"
     description: Motion design / C4D focused creators.
     chunks: 1
   - slug: youtube-blender
-    title: YouTube Channels — Blender
+    title: "YouTube Channels: Blender"
     description: Blender-focused creators.
     chunks: 1
   - slug: youtube-houdini
-    title: YouTube Channels — Houdini
+    title: "YouTube Channels: Houdini"
     description: Houdini-focused channels.
     chunks: 2
   - slug: youtube-sculpting-characters
-    title: YouTube Channels — Sculpting & Characters
+    title: "YouTube Channels: Sculpting & Characters"
     description: Character and sculpting focused creators.
     chunks: 1
   - slug: paid-tutorial-platforms

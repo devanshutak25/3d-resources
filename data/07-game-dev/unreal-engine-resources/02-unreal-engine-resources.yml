@@ -576,7 +576,7 @@ entries:
     last_pushed: '2023-11-12'
   - name: Stats + Attributes
     url: https://github.com/angelhodar/OpenRPG_Stats
-    description: A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
+    description: A stats, attributes, leveling system and much more for Unreal Engine 4!
     entry_type: plugin
     license: Open Source
     readme_tags:

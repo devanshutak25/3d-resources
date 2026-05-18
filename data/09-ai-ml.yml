@@ -8,7 +8,7 @@ subsections:
     chunks: 2
   - slug: image-generation
     title: Image Generation
-    description: State-of-the-art text-to-image models and platforms.
+    description: text-to-image models and platforms.
     chunks: 1
   - slug: video-generation
     title: Video Generation
@@ -24,7 +24,7 @@ subsections:
     chunks: 1
   - slug: comfyui-ecosystem
     title: ComfyUI Ecosystem
-    description: Node-based AI generation — ComfyUI and its ecosystem.
+    description: Node-based AI generation. ComfyUI and its ecosystem.
     chunks: 1
   - slug: ai-assisted-cg-tools
     title: AI-Assisted CG Tools

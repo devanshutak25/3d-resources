@@ -203,10 +203,10 @@ function header() {
     '[![Live site](https://img.shields.io/badge/live%20site-3d.devanshutak.xyz-7c3aed)](https://3d.devanshutak.xyz)',
     '<!-- /only:readme -->',
     '',
-    '> A curated collection of **free and paid 3D resources** — software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
+    '> A curated collection of **free and paid 3D resources**: software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
     '',
     '<!-- only:readme -->',
-    '> 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)** — search + filter by License · Platform · Workflow · Output.',
+    '> 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)**. Search and filter by License · Platform · Workflow · Output.',
     '<!-- /only:readme -->',
     '',
     'Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md)',
@@ -357,7 +357,7 @@ function renderSection(section, sectionFile) {
         lines.push('**Related:**');
       }
       for (const e of references) {
-        const desc = e.description ? ` — ${processDescription(e.description)}` : '';
+        const desc = e.description ? `. ${processDescription(e.description)}` : '';
         const pill = licensePill(e.license);
         const seeAlso = seeAlsoLinks(e, currentLoc);
         const seeAlsoSuffix = seeAlso ? `<br>${seeAlso}` : '';
@@ -407,8 +407,8 @@ function footer() {
     '',
     'Built with help from:',
     '',
-    '- [Houdini Nerd](https://discord.gg/E9zA9Ft) — Christopher Rutledge',
-    '- [Best 3D Resources](https://annethai.notion.site/) — Anne Thai',
+    '- [Houdini Nerd](https://discord.gg/E9zA9Ft) by Christopher Rutledge',
+    '- [Best 3D Resources](https://annethai.notion.site/) by Anne Thai',
     '- Community contributions via [GitHub](https://github.com/devanshutak25/3d-resources)',
     '- Compiled with the help of [Claude Code](https://claude.com/claude-code)',
     '',
@@ -508,7 +508,7 @@ function renderLite() {
   out += header();
 
   out += '## Browse the catalog\n\n';
-  out += `Full catalog lives on the [interactive site](${SITE_BASE}) — search, filter, and graph view. This README is a curated landing page; below is a hand-picked sample from each section.\n\n`;
+  out += `Full catalog lives on the [interactive site](${SITE_BASE}) with search, filter, and graph view. This README is a curated landing page; below is a hand-picked sample from each section.\n\n`;
 
   for (const meta of sectionsFile.sections) {
     const full = path.join(catalog.DATA_DIR, meta.file);
@@ -525,7 +525,7 @@ function renderLite() {
         const name = wrapEmoji(e.name);
         const pill = licensePill(e.license);
         const desc = stripHtmlForLite(processDescription(e.description || ''));
-        const descTail = desc ? ` — ${desc}` : '';
+        const descTail = desc ? `. ${desc}` : '';
         out += `- [${name}](${e.url})${pill}${descTail}\n`;
       }
       out += '\n';

@@ -31,7 +31,7 @@ entries:
         - reference
   - name: Handprint Color & Composition
     url: https://www.handprint.com/HP/WCL/color18a.html
-    description: Deepest free color theory resource online — covers perception and harmony.
+    description: Deepest free color theory resource online. Covers perception and harmony.
     license: Free
     entry_type: reference
     readme_tags:
@@ -64,7 +64,7 @@ entries:
     entry_type: tool
     url_last_verified: '2026-05-01'
     url_status: ok
-    notes: Misfit in composition subsection — AI image/video generator, not composition theory. Consider relocation.
+    notes: Misfit in composition subsection. AI image/video generator, not composition theory. Consider relocation.
     tags:
       workflow:
         - concept

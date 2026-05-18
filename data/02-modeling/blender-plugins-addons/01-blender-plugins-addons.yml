@@ -163,7 +163,7 @@ entries:
         - opensource-alt
   - name: Sverchok
     url: https://github.com/nortikin/sverchok/
-    description: A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
+    description: A parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-05-01'
@@ -200,7 +200,7 @@ entries:
         - blender-addon
   - name: AMD Radeon ProRender
     url: https://www.amd.com/en/technologies/radeon-prorender-blender
-    description: AMD’s powerful physically-based rendering engine that lets creative professionals use open industry standards to leverage GPU and CPU performance to produce stunningly photorealistic images in B
+    description: AMD’s physically-based rendering engine that lets creative professionals use open industry standards to use GPU and CPU performance to produce stunningly photorealistic images in B
     license: Free
     entry_type: plugin
     url_last_verified: '2026-05-01'

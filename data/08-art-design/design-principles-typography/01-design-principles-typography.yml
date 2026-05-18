@@ -14,7 +14,7 @@ entries:
         - reference
   - name: Typewolf
     url: https://typewolf.com/
-    description: Curated typography inspiration — fonts in real-world use.
+    description: Curated typography inspiration. Fonts in real-world use.
     entry_type: inspiration
     readme_tags:
       - Type Inspiration
@@ -71,7 +71,7 @@ entries:
     readme_tags:
       - Houdini
       - Kerning
-    notes: Forum thread about a Houdini kerning utility — fits typography only tangentially (Houdini-specific tool); subsection misfit candidate.
+    notes: Forum thread about a Houdini kerning utility. Fits typography only tangentially (Houdini-specific tool); subsection misfit candidate.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:

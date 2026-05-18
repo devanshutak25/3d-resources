@@ -98,7 +98,7 @@ entries:
     url_status: ok
   - name: NASA 3D Resources
     url: https://science.nasa.gov/3d-resources/
-    description: Spacecraft, planets, terrain models (mixed CC0 / CC-BY — check per-asset license; mirror at [GitHub](https://nasa3d.arc.nasa.gov/)).
+    description: Spacecraft, planets, terrain models (mixed CC0 / CC-BY. Check per-asset license; mirror at [GitHub](https://nasa3d.arc.nasa.gov/)).
     license: Mixed
     entry_type: asset-source
     tags:
@@ -227,7 +227,7 @@ entries:
         - web
   - name: Models Resource (3D)
     url: https://models.spriters-resource.com/
-    description: 3D model rips from games — sister site to Spriters Resource.
+    description: 3D model rips from games. Sister site to Spriters Resource.
     license: Free
     entry_type: asset-source
     tags:

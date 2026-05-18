@@ -406,7 +406,7 @@ entries:
         - web
   - name: New Plastic
     url: https://www.youtube.com/@NewPlastic
-    description: Cinema 4D tutorials — lighting, motion design, rendering.
+    description: Cinema 4D tutorials. Lighting, motion design, rendering.
     entry_type: channel
     license: Free
     readme_tags:

@@ -484,7 +484,7 @@ entries:
         - rendering
   - name: gsap
     url: https://greensock.com/gsap/
-    description: A mastodon for animations in CSS and for three.js too, backed up by awesome plugins like ScrollTrigger, Flip,... and mostly framework agnostic.
+    description: A mastodon for animations in CSS and for three.js too, backed up by awesome plugins like ScrollTrigger, Flip,.. and mostly framework agnostic.
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok

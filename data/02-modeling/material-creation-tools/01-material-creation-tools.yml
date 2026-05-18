@@ -91,7 +91,7 @@ entries:
         - material-authoring
   - name: Architextures - Create
     url: https://architextures.org/create
-    description: Web app allows you to create seamless textures, bump maps and CAD hatches. Select any of the parameters to get started.
+    description: Web app allows you to create textures, bump maps and CAD hatches. Select any of the parameters to get started.
     license: Freemium
     entry_type: tool
     url_last_verified: '2026-05-01'

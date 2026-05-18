@@ -10,7 +10,7 @@ entries:
         - rendering
       output:
         - xr
-    notes: RELOCATE — VR webspace platform, not rendering/shader theory.
+    notes: RELOCATE. VR webspace platform, not rendering/shader theory.
     dual_listed_in:
       - lighting-rendering-shaders/rendering-shader-theory
   - name: Polygonjs
@@ -23,7 +23,7 @@ entries:
       workflow:
         - rendering
         - material-authoring
-    notes: RELOCATE — node-based WebGL DCC, belongs in §12 software.
+    notes: RELOCATE. Node-based WebGL DCC, belongs in §12 software.
     dual_listed_in:
       - lighting-rendering-shaders/rendering-shader-theory
   - name: Lightmap HDR Light Studio

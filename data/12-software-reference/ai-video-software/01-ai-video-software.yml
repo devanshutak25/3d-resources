@@ -81,7 +81,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Hailuo AI / MiniMax
     url: https://hailuoai.video/
-    description: '"Director" model — strong motion and character consistency.'
+    description: '"Director" model. Strong motion and character consistency.'
     license: Freemium
     entry_type: software
     best_for: Directed motion

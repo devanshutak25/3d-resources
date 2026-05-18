@@ -105,7 +105,7 @@ entries:
     last_pushed: '2021-01-03'
   - name: VerticalDissolve
     url: https://github.com/AdultLink/VerticalDissolve
-    description: Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
+    description: Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling.
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -390,7 +390,7 @@ entries:
         - web
   - name: Advanced Materials in Blender - Shader Editor Tutorial
     url: https://www.youtube.com/@SurfacedStudio
-    description: Advanced Materials in Blender - Shader Editor Tutorial..
+    description: Advanced Materials in Blender - Shader Editor Tutorial.
     entry_type: channel
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -504,7 +504,7 @@ entries:
         - rendering
   - name: NodeToy
     url: https://app.nodetoy.co/
-    description: The shader tool for the web. NodeToy provides creators a powerful editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking
+    description: The shader tool for the web. NodeToy provides creators a editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -541,7 +541,7 @@ entries:
         - rendering
   - name: Path tracing fractals
     url: http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/
-    description: By Mikael Hvidtfeldt Christensen|[Arlo ... in a fragment shader](https://t.co/jJeGzTGmNC) by Inigo Quilez|
+    description: By Mikael Hvidtfeldt Christensen|[Arlo.. in a fragment shader](https://t.co/jJeGzTGmNC) by Inigo Quilez|
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok

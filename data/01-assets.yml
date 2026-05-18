@@ -1,17 +1,17 @@
 slug: assets-libraries
 title: Assets & Libraries
-description: Models, textures, HDRIs, audio, stock — everything downloadable. Asset-first lookup lives here.
+description: Models, textures, HDRIs, audio, stock. Everything downloadable. Asset-first lookup lives here.
 subsections:
   - slug: model-libraries-free-general
-    title: Model Libraries — Free & General
+    title: "Model Libraries: Free & General"
     description: General-purpose 3D model libraries with free downloads.
     chunks: 1
   - slug: model-libraries-specialized
-    title: Model Libraries — Specialized
+    title: "Model Libraries: Specialized"
     description: 'Specialty model sources: characters, scans, anatomy, museums.'
     chunks: 1
   - slug: model-libraries-arch-furniture
-    title: Model Libraries — Architecture & Furniture
+    title: "Model Libraries: Architecture & Furniture"
     description: Arch-viz, furniture, and BIM asset libraries.
     chunks: 1
   - slug: asset-marketplaces
@@ -31,15 +31,15 @@ subsections:
     description: HDR environment maps for lighting and reflections.
     chunks: 1
   - slug: textures-free-pbr
-    title: Textures & Materials — Free PBR Libraries
+    title: "Textures & Materials: Free PBR Libraries"
     description: Free PBR texture libraries for materials authoring.
     chunks: 2
   - slug: textures-specialized
-    title: Textures — Specialized
+    title: "Textures: Specialized"
     description: 'Specialty texture sources: displacement, patterns, sprites, terrain.'
     chunks: 1
   - slug: textures-premium
-    title: Textures — Premium
+    title: "Textures: Premium"
     description: Professional paid texture libraries.
     chunks: 1
   - slug: stock-images
@@ -51,7 +51,7 @@ subsections:
     description: Free and archival video footage sources.
     chunks: 1
   - slug: audio-sfx-music
-    title: Audio — SFX & Music Libraries
+    title: "Audio: SFX & Music Libraries"
     description: Free and paid SFX and music libraries for games, reels, and film.
     chunks: 1
   - slug: fonts

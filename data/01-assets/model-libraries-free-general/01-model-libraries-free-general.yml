@@ -87,7 +87,7 @@ entries:
     url_status: ok
   - name: XYZed3D (Gumroad)
     url: https://xyzed3d.gumroad.com/
-    description: CC0 (non-AI) asset packs — models, props, misc — by artyusufpatel.
+    description: CC0 (non-AI) asset packs. Models, props, misc. By artyusufpatel.
     license: Free
     entry_type: asset-source
     tags:
@@ -379,7 +379,7 @@ entries:
         - modeling
   - name: rileyb3d Library
     url: https://rileyb3d.com/library
-    description: Free packed .blend files ready to use.
+    description: Free packed.blend files ready to use.
     license: Free
     entry_type: asset-source
     tags:

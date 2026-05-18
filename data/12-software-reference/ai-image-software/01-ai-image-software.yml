@@ -185,7 +185,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Recraft V3
     url: https://www.recraft.ai/
-    description: Design-oriented gen — vector, icons, brand assets.
+    description: Design-oriented gen. Vector, icons, brand assets.
     license: Freemium
     entry_type: software
     best_for: Design assets, vectors
@@ -299,7 +299,7 @@ entries:
     description: 'A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource'
     license: Open Source
     entry_type: software
-    notes: RELOCATE — audio gen, belongs under §09 AI Audio & Music.
+    notes: RELOCATE. Audio gen, belongs under §09 AI Audio & Music.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -314,7 +314,7 @@ entries:
     description: 3D character lib synced
     license: Paid
     entry_type: software
-    notes: RELOCATE — digital humans platform; not image gen. Move to §03 or §09 AI-Assisted CG Tools.
+    notes: RELOCATE. Digital humans platform; not image gen. Move to §03 or §09 AI-Assisted CG Tools.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -329,7 +329,7 @@ entries:
     description: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
     license: Open Source
     entry_type: software
-    notes: RELOCATE — text-to-3D, belongs under §09 3D Generation.
+    notes: RELOCATE. Text-to-3D, belongs under §09 3D Generation.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -364,7 +364,7 @@ entries:
     description: Meta's tool for generating music
     license: Open Source
     entry_type: software
-    notes: RELOCATE — music gen, belongs under §09 AI Audio & Music.
+    notes: RELOCATE. Music gen, belongs under §09 AI Audio & Music.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -393,7 +393,7 @@ entries:
     description: Text-to-animation tool for developers by Stability AI [[dev platform]](https://platform.stability.ai/docs/features/animation)
     license: Paid
     entry_type: software
-    notes: RELOCATE — text-to-animation, belongs under §09 Video Generation.
+    notes: RELOCATE. Text-to-animation, belongs under §09 Video Generation.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:

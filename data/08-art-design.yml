@@ -1,13 +1,13 @@
 slug: art-design-visual-storytelling
 title: Art, Design & Visual Storytelling
-description: Fundamentals — concept art, composition, color, typography, photography, cinematography, animation principles. The craft underpinning 3D work.
+description: Fundamentals. Concept art, composition, color, typography, photography, cinematography, animation principles. The craft underpinning 3D work.
 subsections:
   - slug: concept-art-channels
-    title: Concept Art & Illustration — Channels
+    title: "Concept Art & Illustration: Channels"
     description: Channels on concept art, figure drawing, painting.
     chunks: 1
   - slug: concept-art-courses
-    title: Concept Art & Illustration — Courses
+    title: "Concept Art & Illustration: Courses"
     description: Structured concept art and design courses.
     chunks: 1
   - slug: drawing-painting-3d
@@ -15,7 +15,7 @@ subsections:
     description: Gesture, figure, digital painting fundamentals for 3D artists.
     chunks: 1
   - slug: photography
-    title: Photography — Reference & Fundamentals
+    title: "Photography: Reference & Fundamentals"
     description: Photography knowledge directly applicable to 3D lighting and composition.
     chunks: 1
   - slug: cinematography-camera

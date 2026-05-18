@@ -3,30 +3,30 @@ title: Motion Graphics & Video
 description: Motion graphics tools, inspiration, AE / Fusion learning, and video editing. Stock footage lives in §1 Assets.
 subsections:
   - slug: motion-graphics-channels
-    title: Motion Graphics — YouTube Channels
+    title: "Motion Graphics: YouTube Channels"
     description: Motion design learning channels.
     chunks: 1
   - slug: motion-graphics-courses
-    title: Motion Graphics — Courses
+    title: "Motion Graphics: Courses"
     description: Structured motion graphics courses.
     chunks: 1
   - slug: after-effects-learning
-    title: After Effects — Learning & Templates
+    title: "After Effects: Learning & Templates"
     description: AE expressions, templates, and workflow resources.
     chunks: 1
   - slug: fusion-resolve
-    title: Fusion (DaVinci Resolve) — Learning
+    title: "Fusion (DaVinci Resolve): Learning"
     description: Fusion references and EXR workflow.
     chunks: 1
   - slug: motion-graphics-inspiration
-    title: Motion Graphics — Inspiration
+    title: "Motion Graphics: Inspiration"
     description: Showcases, style frames, title sequences, ad references.
     chunks: 1
   - slug: motion-graphics-tools
-    title: Motion Graphics — Tools & Utilities
+    title: "Motion Graphics: Tools & Utilities"
     description: MG-specific tools and utilities.
     chunks: 1
   - slug: video-editing-courses
-    title: Video Editing — Courses
+    title: "Video Editing: Courses"
     description: Editing-specific courses.
     chunks: 1

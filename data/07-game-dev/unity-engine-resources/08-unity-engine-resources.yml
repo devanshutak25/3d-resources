@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - unity-plugin
       - procedural
-    notes: Description placeholder only — needs review.
+    notes: Description placeholder only. Needs review.
     stale: true
     last_pushed: '2019-04-12'
   - name: Procedural Level Generator Unity

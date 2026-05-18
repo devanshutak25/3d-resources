@@ -1,7 +1,7 @@
 entries:
   - name: OpenUSD
     url: https://openusd.org/
-    description: Official Pixar USD site — specification, tools, resources.
+    description: Official Pixar USD site. Specification, tools, resources.
     license: Open Source
     entry_type: reference
     tags:

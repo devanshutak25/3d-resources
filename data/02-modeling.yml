@@ -3,71 +3,71 @@ title: Modeling, Sculpting & Texturing
 description: Per-DCC learning plus texturing and material-authoring toolchain. Per-renderer learning lives in §4.
 subsections:
   - slug: blender-plugins-addons
-    title: Blender — Plugins & Addons
+    title: "Blender: Plugins & Addons"
     description: Notable addons extending Blender.
     chunks: 4
   - slug: blender-tutorials
-    title: Blender — Tutorials
+    title: "Blender: Tutorials"
     description: Blender learning resources, beginner to advanced.
     chunks: 1
   - slug: houdini-getting-started
-    title: Houdini — Getting Started
+    title: "Houdini: Getting Started"
     description: Beginner-friendly Houdini intros.
     chunks: 1
   - slug: houdini-essential-learning
-    title: Houdini — Essential Learning Resources
+    title: "Houdini: Essential Learning Resources"
     description: Long-form Houdini learning hubs.
     chunks: 1
   - slug: houdini-vex-coding
-    title: Houdini — VEX & Coding
+    title: "Houdini: VEX & Coding"
     description: VEX, Python, OpenCL, and scripting in Houdini.
     chunks: 1
   - slug: houdini-fx-simulations
-    title: Houdini — FX & Simulations
+    title: "Houdini: FX & Simulations"
     description: Vellum, FLIP, Pyro, and other simulation workflows.
     chunks: 1
   - slug: houdini-rigging-animation
-    title: Houdini — Rigging & Animation (KineFX)
+    title: "Houdini: Rigging & Animation (KineFX)"
     description: KineFX rigging, animation, and crowds.
     chunks: 1
   - slug: houdini-grooming
-    title: Houdini — Grooming
+    title: "Houdini: Grooming"
     description: Hair and fur grooming workflows.
     chunks: 1
   - slug: houdini-more-tutorials
-    title: Houdini — Miscellaneous Tutorials
+    title: "Houdini: Miscellaneous Tutorials"
     description: Additional Houdini tutorials across topics.
     chunks: 1
   - slug: houdini-plugins-tools
-    title: Houdini — Plugins & Tools
+    title: "Houdini: Plugins & Tools"
     description: Toolkits, pipeline tools, and HDAs.
     chunks: 1
   - slug: houdini-courses-rebelway
-    title: Houdini — Courses & Free Content
+    title: "Houdini: Courses & Free Content"
     description: Structured courses for Houdini.
     chunks: 1
   - slug: houdini-communities
-    title: Houdini — Communities
+    title: "Houdini: Communities"
     description: Forums, Discords, and tip archives.
     chunks: 1
   - slug: cinema-4d-learning
-    title: Cinema 4D — Learning
+    title: "Cinema 4D: Learning"
     description: C4D tutorials and learning hubs.
     chunks: 1
   - slug: cinema-4d-plugins
-    title: Cinema 4D — Plugins
+    title: "Cinema 4D: Plugins"
     description: C4D addons and bridges.
     chunks: 1
   - slug: cinema-4d-tips-workflows
-    title: Cinema 4D — Tips & Workflows
+    title: "Cinema 4D: Tips & Workflows"
     description: Productivity blogs and shader workflow tricks.
     chunks: 1
   - slug: 3ds-max-plugins
-    title: 3ds Max — Plugins
+    title: "3ds Max: Plugins"
     description: 3ds Max plugins.
     chunks: 1
   - slug: fusion-360-learning
-    title: Fusion 360 — Learning
+    title: "Fusion 360: Learning"
     description: Fusion 360 courses.
     chunks: 1
   - slug: material-creation-tools

@@ -35,7 +35,7 @@ entries:
     last_pushed: '2019-10-22'
   - name: UnityTimer
     url: https://github.com/akbiggs/UnityTimer
-    description: Powerful and convenient library for running actions after a delay in Unity3D.
+    description: and convenient library for running actions after a delay in Unity3D.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -121,7 +121,7 @@ entries:
     last_pushed: '2023-08-10'
   - name: MeshDecimator
     url: https://github.com/Whinarn/MeshDecimator
-    description: A mesh decimation library for .NET and Unity.
+    description: A mesh decimation library for.NET and Unity.
     entry_type: tool
     license: Open Source
     readme_tags:
@@ -285,7 +285,7 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
-    notes: Description corrected — original was duplicate of Coop-Design.
+    notes: Description corrected. Original was duplicate of Coop-Design.
     stale: true
     last_pushed: '2022-03-13'
   - name: Unity3D Script Library
@@ -363,7 +363,7 @@ entries:
     last_pushed: '2012-04-24'
   - name: Unity Atoms
     url: https://github.com/AdamRamberg/unity-atoms
-    description: Tiny modular pieces utilizing the power of Scriptable Objects.
+    description: Tiny modular pieces using the power of Scriptable Objects.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -826,7 +826,7 @@ entries:
     last_pushed: '2016-08-26'
   - name: DTCommandPalette
     url: https://github.com/DarrenTsung/DTCommandPalette
-    description: Command palette for Unity - run methods, open scenes, and more!
+    description: Command palette for Unity - run methods, open scenes!
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -880,7 +880,7 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
-    notes: Everyplay service is discontinued — likely deprecated.
+    notes: Everyplay service is discontinued. Likely deprecated.
     deprecated: true
   - name: FrameDump
     url: https://github.com/keijiro/FrameDump

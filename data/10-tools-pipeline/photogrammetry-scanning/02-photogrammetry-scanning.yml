@@ -207,7 +207,7 @@ entries:
       - gan
   - name: NeRF (paper site)
     url: https://www.matthewtancik.com/nerf
-    description: Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)  | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
+    description: Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-05-01'
@@ -438,9 +438,9 @@ entries:
     readme_tags:
       - nerf
       - disentangled
-  - name: Comprehensive overview of Gaussian Splatting
+  - name: overview of Gaussian Splatting
     url: https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362
-    description: Comprehensive overview of Gaussian Splatting.
+    description: overview of Gaussian Splatting.
     entry_type: tutorial
     url_last_verified: '2026-05-01'
     url_status: ok

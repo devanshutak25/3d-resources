@@ -1,20 +1,20 @@
 slug: software-reference
 title: Software Reference
-description: All software — full license, pricing, platform, and tag data. Canonical source.
+description: All software. Full license, pricing, platform, and tag data. Canonical source.
 # Round 3 §D — `mirror_into: <topical-section-slug>` mirrors this table into the
 # named topical section as a collapsed-by-default H3 with provenance subtitle.
 # Single source of truth: data lives only here; mirror is a rendering only.
 subsections:
   - slug: 3d-software-free
-    title: 3D Software — Free
+    title: "3D Software: Free"
     description: Free and open-source 3D software.
     chunks: 1
   - slug: 3d-software-free-tier
-    title: 3D Software — Free Tier
+    title: "3D Software: Free Tier"
     description: Freemium 3D software with free tier available.
     chunks: 1
   - slug: 3d-software-paid
-    title: 3D Software — Paid
+    title: "3D Software: Paid"
     description: Professional paid 3D software.
     chunks: 1
   - slug: cad-software
@@ -58,12 +58,12 @@ subsections:
     chunks: 1
     mirror_into: tools-pipeline-utilities
   - slug: game-engines-free-oss
-    title: Game Engines — Free & Open Source
+    title: "Game Engines: Free & Open Source"
     description: Free and open-source game engines.
     chunks: 2
     mirror_into: game-development
   - slug: game-engines-commercial
-    title: Game Engines — Commercial Free Tiers
+    title: "Game Engines: Commercial Free Tiers"
     description: Commercial engines with generous free tiers.
     chunks: 1
     mirror_into: game-development

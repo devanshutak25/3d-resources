@@ -216,7 +216,7 @@ entries:
         - web
   - name: Lincoln Margison
     url: https://www.youtube.com/@LincolnMargison
-    description: Procedural animation tutorials — step by step walkthroughs for game dev rigging and motion.
+    description: Procedural animation tutorials. Step by step walkthroughs for game dev rigging and motion.
     entry_type: channel
     license: Free
     tags:

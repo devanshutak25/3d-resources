@@ -98,7 +98,7 @@ entries:
         - opensource-alt
   - name: ue5coro
     url: https://github.com/landelare/ue5coro
-    description: A C++20 coroutine plugin, offering seamless integration with Unreal Engine 5.
+    description: A C++20 coroutine plugin, offering integration with Unreal Engine 5.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-05-01'

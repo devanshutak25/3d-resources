@@ -148,7 +148,7 @@ entries:
         - games
   - name: LWF
     url: http://gree.github.io/lwf/
-    description: Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
+    description: Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit.
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -194,7 +194,7 @@ entries:
         - games
   - name: Pixel Composer (GitHub)
     url: https://github.com/Ttanasart-pt/Pixel-Composer
-    description: Powerful node-based VFX editor for pixel art
+    description: node-based VFX editor for pixel art
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -216,7 +216,7 @@ entries:
         - opensource-alt
   - name: friflo ECS
     url: https://github.com/friflo/Friflo.Engine.ECS
-    description: High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+    description: High-performance C# ECS with simple API. Supports.NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame,..
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -227,7 +227,7 @@ entries:
         - opensource-alt
   - name: Unity Audio Manager
     url: https://github.com/MathewHDYT/Unity-Audio-Manager
-    description: Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
+    description: Plugin, that allows to easily play/change/stop/mute/.. sounds in 2D/3D
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -238,7 +238,7 @@ entries:
         - opensource-alt
   - name: Epic Games
     url: https://github.com/epicgames
-    description: Epic Games on GitHub — official Unreal Engine and related repos.
+    description: Epic Games on GitHub. Official Unreal Engine and related repos.
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok
@@ -249,7 +249,7 @@ entries:
         - opensource-alt
   - name: Unity Technologies
     url: https://github.com/unity-technologies
-    description: Unity Technologies on GitHub — official Unity repos and samples.
+    description: Unity Technologies on GitHub. Official Unity repos and samples.
     entry_type: reference
     url_last_verified: '2026-05-01'
     url_status: ok

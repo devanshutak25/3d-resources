@@ -12,15 +12,15 @@ const catalog = require('./lib/catalog');
 const TEMPLATE_PATH = path.join(__dirname, '..', 'assets', 'og-template.svg');
 const OUT_DIR = path.join(__dirname, '..', '_site', 'assets', 'og');
 
-// Naive title splitter: prefer to break on " & " or " — " or space near middle
+// Naive title splitter: prefer to break on " & " or ": " or space near middle
 // so long section names look balanced on two lines.
 function splitTitleForTwoLines(title) {
   const t = title.trim();
   if (t.length <= 18) return [t, ''];
   const ampIdx = t.indexOf(' & ');
   if (ampIdx > 0) return [t.slice(0, ampIdx), '& ' + t.slice(ampIdx + 3)];
-  const dashIdx = t.indexOf(' — ');
-  if (dashIdx > 0) return [t.slice(0, dashIdx), t.slice(dashIdx + 3)];
+  const colonIdx = t.indexOf(': ');
+  if (colonIdx > 0) return [t.slice(0, colonIdx + 1), t.slice(colonIdx + 2)];
   // Fallback: split on last space before the middle.
   const mid = Math.floor(t.length / 2);
   const left = t.slice(0, mid + 1).lastIndexOf(' ');

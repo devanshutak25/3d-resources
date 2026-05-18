@@ -157,7 +157,7 @@ entries:
         - web
   - name: Parker Coleman
     url: https://www.youtube.com/@parkercoleman8078
-    description: Houdini tutorial channel — procedural workflows, sim setups, tools.
+    description: Houdini tutorial channel. Procedural workflows, sim setups, tools.
     entry_type: channel
     license: Free
     readme_tags:
@@ -173,7 +173,7 @@ entries:
         - web
   - name: Auto Cache Out Tool
     url: https://www.youtube.com/@ron4431
-    description: Auto Cache Out tool is for managing caches and .hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically ve
+    description: Auto Cache Out tool is for managing caches and.hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically ve
     entry_type: channel
     license: Free
     readme_tags:

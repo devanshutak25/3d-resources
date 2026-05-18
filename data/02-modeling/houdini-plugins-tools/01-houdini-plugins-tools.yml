@@ -116,7 +116,7 @@ entries:
     url_status: ok
   - name: Tighe Rzankowski's Tools
     url: https://gumroad.com/trzanko
-    description: Feather grooming and more.
+    description: Feather grooming.
     license: Paid
     entry_type: plugin
     readme_tags:
@@ -201,7 +201,7 @@ entries:
         - opensource-alt
   - name: Houdini Tech Art Challenge Winners 2021
     url: https://www.sidefx.com/tech-art-challenge-2021/
-    description: HPaint, Polyline Creator, Poly Slice Tool, and more
+    description: HPaint, Polyline Creator, Poly Slice Tool
     license: Free
     entry_type: plugin
     readme_tags:

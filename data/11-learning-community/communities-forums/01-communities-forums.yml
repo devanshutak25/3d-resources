@@ -1,7 +1,7 @@
 entries:
   - name: 3D Artists India
     url: https://3dartists.in/
-    description: India's 3D artist community — events, resources, networking.
+    description: India's 3D artist community. Events, resources, networking.
     entry_type: community
     license: Free
     priority: 100
@@ -56,7 +56,7 @@ entries:
         - web
   - name: The 3D Artist Community (Skool)
     url: https://www.skool.com/the-3d-artist-community
-    description: Paid Skool community for pro 3D artists working beyond VFX/games (apparel, footwear, packaging) — AMAs, office hours, pooled software resources.
+    description: Paid Skool community for pro 3D artists working beyond VFX/games (apparel, footwear, packaging). AMAs, office hours, pooled software resources.
     entry_type: community
     license: Paid
     readme_tags:

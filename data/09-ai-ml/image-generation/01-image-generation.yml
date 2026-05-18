@@ -4,7 +4,7 @@ entries:
     description: ArXiv 2022 paper on integrating text-to-image AI in 3D design workflows.
     entry_type: reference
     license: Free
-    notes: RELOCATE — academic paper (ArXiv), better suited under a research/reference subsection.
+    notes: RELOCATE. Academic paper (ArXiv), better suited under a research/reference subsection.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -19,7 +19,7 @@ entries:
     description: By ineuron
     license: Free
     entry_type: channel
-    notes: RELOCATE — general genAI course; better under §09 ML for CG.
+    notes: RELOCATE. General genAI course; better under §09 ML for CG.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -34,7 +34,7 @@ entries:
     description: Architecture of voice AI, from speech recognition to emotional intelligence, and learn how to build, scale, and evaluate them
     license: Free
     entry_type: tutorial
-    notes: RELOCATE — voice AI stack, belongs under §09 AI Audio & Music.
+    notes: RELOCATE. Voice AI stack, belongs under §09 AI Audio & Music.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -47,7 +47,7 @@ entries:
     description: Fork by [@DigThatData](https://twitter.com/DigThatData)
     license: Open Source
     entry_type: tool
-    notes: RELOCATE — animation notebook; could move under §09 Video Generation.
+    notes: RELOCATE. Animation notebook; could move under §09 Video Generation.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -60,7 +60,7 @@ entries:
     description: Notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
     license: Open Source
     entry_type: tool
-    notes: RELOCATE — animation notebook; could move under §09 Video Generation.
+    notes: RELOCATE. Animation notebook; could move under §09 Video Generation.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -73,7 +73,7 @@ entries:
     description: Stable Diffusion in Blender. This add-on renders an AI generated image based on a text prompt and your scene.
     license: Open Source
     entry_type: plugin
-    notes: RELOCATE — Blender addon; could move under §Plugins or AI-Assisted CG Tools.
+    notes: RELOCATE. Blender addon; could move under §Plugins or AI-Assisted CG Tools.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -88,7 +88,7 @@ entries:
     description: Generative AI Genius 2024 (created by Aishwarya Naresh Reganti) course material.
     license: Free
     entry_type: tutorial
-    notes: RELOCATE — general genAI course; move to §09 ML for CG.
+    notes: RELOCATE. General genAI course; move to §09 ML for CG.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -102,7 +102,7 @@ entries:
     description: OpenAI's point cloud diffusion for 3D model synthesis
     license: Open Source
     entry_type: reference
-    notes: RELOCATE — belongs under §09 3D Generation, not Image Generation.
+    notes: RELOCATE. Belongs under §09 3D Generation, not Image Generation.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -116,7 +116,7 @@ entries:
     description: Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
     license: Open Source
     entry_type: community
-    notes: RELOCATE — could fit better under §09 Open-Source Models (HuggingFace).
+    notes: RELOCATE. Could fit better under §09 Open-Source Models (HuggingFace).
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -129,7 +129,7 @@ entries:
     description: Guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
     license: Free
     entry_type: tutorial
-    notes: RELOCATE — 2D-to-3D guide; better under §09 3D Generation.
+    notes: RELOCATE. 2D-to-3D guide; better under §09 3D Generation.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -155,7 +155,7 @@ entries:
     description: '(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion.'
     license: Free
     entry_type: community
-    notes: RELOCATE — Deforum animation, better under §09 Video Generation.
+    notes: RELOCATE. Deforum animation, better under §09 Video Generation.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -180,7 +180,7 @@ entries:
     description: Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube.
     license: Free
     entry_type: channel
-    notes: RELOCATE — Deforum animation channel, better under §09 Video Generation.
+    notes: RELOCATE. Deforum animation channel, better under §09 Video Generation.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:

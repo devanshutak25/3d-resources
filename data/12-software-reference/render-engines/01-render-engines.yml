@@ -657,7 +657,7 @@ entries:
         - blender-addon
   - name: AMD Blender USD Hydra
     url: https://gpuopen.com/learn/amd-usd-hydra-blender/
-    description: With Pixar's USD system emerging as a powerful tool for 3D graphics pipelines and interchange, this addon is meant to add first class support for USD and the USD Hydra rendering system to Blender.
+    description: With Pixar's USD system emerging as a tool for 3D graphics pipelines and interchange, this addon is meant to add first class support for USD and the USD Hydra rendering system to Blender.
     license: Free
     entry_type: software
     best_for: USD Hydra in Blender

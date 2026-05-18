@@ -172,7 +172,7 @@ entries:
       - HDR
   - name: 'CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields'
     url: https://cassiepython.github.io/clipnerf/
-    description: Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF)  | [bibtex](./citations/clipnerf.txt)
+    description: Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF) | [bibtex](./citations/clipnerf.txt)
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -314,7 +314,7 @@ entries:
       - Open Source
   - name: Photogrammetry Guide
     url: https://github.com/mikeroyal/Photogrammetry-Guide
-    description: A guide covering Photogrammetry including the applications, libraries and tools that will make you a better and more efficient Photogrammetry development.
+    description: A guide covering Photogrammetry including the applications, libraries and tools that will make you a better efficient Photogrammetry development.
     license: Free
     entry_type: reference
     best_for: Photogrammetry learning guide
@@ -456,7 +456,7 @@ entries:
       - GitHub
   - name: Nerfstudio gsplat
     url: https://github.com/nerfstudio-project/gsplat
-    description: Python/CUDA | Apache-2.0 | Integration with Nerfstudio     |
+    description: Python/CUDA | Apache-2.0 | Integration with Nerfstudio |
     license: Open Source
     entry_type: reference
     best_for: Nerfstudio gsplat lib
@@ -471,7 +471,7 @@ entries:
       - Apache-2.0
   - name: Gaussian Splatting 3D
     url: https://github.com/heheyas/gaussian_splatting_3d
-    description: Python/CUDA    |            |
+    description: Python/CUDA | |
     license: Open Source
     entry_type: reference
     best_for: Gaussian splat impl
@@ -488,7 +488,7 @@ entries:
     last_pushed: '2023-07-27'
   - name: 3D Gaussian Splatting (WangFeng18 reimpl)
     url: https://github.com/WangFeng18/3d-gaussian-splatting
-    description: Python/CUDA    | MIT        |
+    description: Python/CUDA | MIT |
     license: Open Source
     entry_type: reference
     best_for: Gaussian splat reimpl
@@ -503,7 +503,7 @@ entries:
       - Reimpl
   - name: 3D Gaussian Splatting (joeyan reimpl)
     url: https://github.com/joeyan/gaussian_splatting
-    description: Python/CUDA    | MIT        |
+    description: Python/CUDA | MIT |
     license: Open Source
     entry_type: reference
     best_for: Gaussian splat reimpl

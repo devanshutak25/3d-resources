@@ -19,7 +19,7 @@ entries:
     description: Checklist of Blender features and workflows.
     entry_type: reference
     license: Free
-    notes: RELOCATE — entry_type 'reference' misfits blender-tutorials subsection (expects tutorial/channel/community). Consider moving to a references subsection.
+    notes: RELOCATE. Entry_type 'reference' misfits blender-tutorials subsection (expects tutorial/channel/community). Consider moving to a references subsection.
     readme_tags:
       - Checklist
       - Workflow
@@ -30,7 +30,7 @@ entries:
         - blender
   - name: Texture Paint Manual
     url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
-    description: Texture Paint Manual..
+    description: Texture Paint Manual.
     license: Free
     entry_type: reference
     url_last_verified: '2026-05-01'
@@ -70,7 +70,7 @@ entries:
         - web
   - name: Animation & Rigging Manual
     url: https://docs.blender.org/manual/en/latest/physics/index.html
-    description: Animation & Rigging Manual..
+    description: Animation & Rigging Manual.
     entry_type: community
     license: Free
     readme_tags:
@@ -83,7 +83,7 @@ entries:
         - web
   - name: Compositing Nodes List
     url: https://docs.blender.org/manual/en/latest/compositing/index.html#node-types
-    description: Compositing Nodes List..
+    description: Compositing Nodes List.
     entry_type: community
     license: Free
     readme_tags:
@@ -96,7 +96,7 @@ entries:
         - web
   - name: Motion Tracking Manual
     url: https://docs.blender.org/manual/en/latest/movie_clip/tracking/introduction.html
-    description: Motion Tracking Manual..
+    description: Motion Tracking Manual.
     entry_type: community
     license: Free
     readme_tags:

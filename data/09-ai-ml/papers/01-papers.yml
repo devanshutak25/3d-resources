@@ -4,7 +4,7 @@ entries:
     description: AAAI 2025 | [[project](https://manycore-research.github.io/CAD2Program/)] |
     entry_type: tutorial
     license: Free
-    notes: misfit — research paper, not tutorial; consider reference
+    notes: misfit. Research paper, not tutorial; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -71,7 +71,7 @@ entries:
     description: '[🌐 Project Page](https://signerf.jdihlmann.com/) | [💻 Code](https://github.com/cgtuebingen/SIGNeRF)'
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -113,7 +113,7 @@ entries:
     description: '[🌐 Project Page](https://daipengwa.github.io/GO-NeRF/)'
     entry_type: reference
     license: Free
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -128,7 +128,7 @@ entries:
     description: '[🌐 Project Page](https://texturedreamer.github.io/)'
     entry_type: asset-source
     license: Free
-    notes: misfit — arxiv paper, not asset-source; consider reference
+    notes: misfit. Arxiv paper, not asset-source; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -170,7 +170,7 @@ entries:
     description: '[💻 Code](https://github.com/Dongjiahua/VICA-NeRF)'
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -224,7 +224,7 @@ entries:
     description: '[🌐 Project Page](https://qnerf-consolidation.github.io/qnerf-consolidation/)'
     entry_type: reference
     license: Free
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -239,7 +239,7 @@ entries:
     description: Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF) | [bibtex](./citations/lightning-nerf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -254,7 +254,7 @@ entries:
     description: Irshad et al., ECCV 2024 | [bibtex](./citations/nerf-mae.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -269,7 +269,7 @@ entries:
     description: NeurIPS 2024 | [[project](https://sadilkhan.github.io/text2cad-project/)] |
     entry_type: tutorial
     license: Free
-    notes: misfit — research paper, not tutorial; consider reference
+    notes: misfit. Research paper, not tutorial; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -569,7 +569,7 @@ entries:
       platform:
         - web
     year: 2023
-  - name: 'BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields'
+  - name: 'BeyondPixels: A Review of the Evolution of Neural Radiance Fields'
     url: https://arxiv.org/abs/2306.03000
     description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023 | [bibtex](citations/BeyondPixels.txt)
     entry_type: reference
@@ -587,7 +587,7 @@ entries:
     description: Moreau et al., ICCV 2023 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/crossfire.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -599,10 +599,10 @@ entries:
     year: 2023
   - name: Local 3D Editing via 3D Distillation of CLIP Knowledge
     url: https://arxiv.org/abs/2306.12570
-    description: Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io)  | [bibtex](./citations/lenerf.txt)
+    description: Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io) | [bibtex](./citations/lenerf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -617,7 +617,7 @@ entries:
     description: Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360) | [bibtex](./citations/SurfelNeRF.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -627,7 +627,7 @@ entries:
       platform:
         - web
     year: 2023
-  - name: 'PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs'
+  - name: 'PlankAssembly: 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs'
     url: https://arxiv.org/abs/2308.05744
     description: ICCV 2023 | [[project](https://manycore-research.github.io/PlankAssembly/)] [[code](https://github.com/manycore-research/PlankAssembly/)] |
     entry_type: reference
@@ -658,7 +658,7 @@ entries:
     description: Gao et al., CVPR 2023 | [github](https://gymat.github.io/SurfelNeRF-web/) | [bibtex](./citations/SurfelNeRF.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper, not software; consider reference
+    notes: misfit. Arxiv paper, not software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -673,7 +673,7 @@ entries:
     description: Zhu et al., WACV 2023 | [github](https://github.com/HaoyiZhu/XNeRF) | [bibtex](./citations/x-nerf.txt)
     entry_type: reference
     license: Open Source
-    notes: misfit — arxiv paper with code, not standalone software; consider reference
+    notes: misfit. Arxiv paper with code, not standalone software; consider reference
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:

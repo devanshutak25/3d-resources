@@ -1,5 +1,5 @@
 entries:
-  - name: 2D Tutorials — Draw a Box
+  - name: 2D Tutorials. Draw a Box
     url: https://drawabox.com/
     description: Free drawing fundamentals course.
     license: Free
@@ -57,7 +57,7 @@ entries:
     tags: {}
   - name: National Gallery of Art (NGA)
     url: https://www.nga.gov/
-    description: Open-access collection of historical paintings, drawings, and prints — high-res downloads for reference.
+    description: Open-access collection of historical paintings, drawings, and prints. High-res downloads for reference.
     license: Free
     entry_type: reference
     readme_tags:

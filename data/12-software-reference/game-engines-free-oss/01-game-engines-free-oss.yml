@@ -603,7 +603,7 @@ entries:
     url_status: ok
   - name: Three.js
     url: http://threejs.org/
-    description: JavaScript 3D library — the standard for web 3D.
+    description: JavaScript 3D library. The standard for web 3D.
     entry_type: software
     best_for: Web 3D graphics (broad)
     tags:

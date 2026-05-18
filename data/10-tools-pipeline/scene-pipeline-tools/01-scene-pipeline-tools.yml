@@ -59,7 +59,7 @@ entries:
         - opensource-alt
   - name: OD CopyPasteExternal
     url: https://github.com/heimlich1024/OD_CopyPasteExternal
-    description: Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
+    description: Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <>.. <>.
     license: Open Source
     entry_type: tool
     best_for: Cross-DCC geometry transfer
@@ -185,7 +185,7 @@ entries:
     url_status: ok
   - name: Easy3D
     url: https://github.com/LiangliangNan/Easy3D
-    description: A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data .
+    description: A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data.
     license: Open Source
     entry_type: tool
     best_for: 3D data processing C++ lib

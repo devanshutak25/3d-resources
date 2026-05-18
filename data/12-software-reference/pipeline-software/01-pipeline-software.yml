@@ -21,7 +21,7 @@ entries:
       - Free
     url_last_verified: '2026-05-05'
     url_status: ok
-    notes: Maintenance mode since 2025-11-07 — successor is AWS Deadline Cloud (usage-based).
+    notes: Maintenance mode since 2025-11-07. Successor is AWS Deadline Cloud (usage-based).
   - name: Flow Production Tracking (Autodesk)
     url: https://www.autodesk.com/products/flow-production-tracking
     description: Production tracking and review for film/TV/games. Renamed from ShotGrid in March 2024.
@@ -207,7 +207,7 @@ entries:
       - Multi-Engine
     url_last_verified: '2026-05-01'
     url_status: ok
-    notes: RELOCATE — entry_type 'software' belongs in §12 software table.
+    notes: RELOCATE. Entry_type 'software' belongs in §12 software table.
     dual_listed_in:
       - game-development/game-dev-ai-procedural
   - name: Articy:draft
@@ -280,7 +280,7 @@ entries:
       - game-development/game-dev-networking
   - name: SmartFoxServer 2X
     url: http://docs2x.smartfoxserver.com/ExamplesUnity/introduction
-    description: A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more.
+    description: A SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++.
     license: Freemium
     entry_type: software
     url_last_verified: '2026-05-01'
@@ -295,7 +295,7 @@ entries:
     description: '[multiplayer].'
     license: Free
     entry_type: software
-    notes: 'FLAG: entry_type misfit — this is a tutorial/article, not software.'
+    notes: 'FLAG: entry_type misfit. This is a tutorial/article, not software.'
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -529,7 +529,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Open3D
     url: http://www.open3d.org/
-    description: Modern library for 3D data processing — point clouds, meshes, voxels, reconstruction.
+    description: Modern library for 3D data processing. Point clouds, meshes, voxels, reconstruction.
     entry_type: software
     license: Open Source
     best_for: 3D data processing (Python/C++)

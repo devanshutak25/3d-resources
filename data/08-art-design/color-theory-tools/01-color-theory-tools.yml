@@ -181,7 +181,7 @@ entries:
     description: A color palette management system for Unity.
     license: Open Source
     entry_type: reference
-    notes: Misfit — functionally a Unity plugin/tool; kept as reference per no-relocate rule.
+    notes: Misfit. Functionally a Unity plugin/tool; kept as reference per no-relocate rule.
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:

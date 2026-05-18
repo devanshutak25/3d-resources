@@ -312,7 +312,7 @@ entries:
         - opensource-alt
   - name: Bangingcuts
     url: https://github.com/OllyFunkster/bangingcuts
-    description: 'Cut up audio and video clips based on peaks in the audio track removing silences. Last Blender versions: don''t install the zip, install .py file instead.'
+    description: 'Cut up audio and video clips based on peaks in the audio track removing silences. Last Blender versions: don''t install the zip, install.py file instead.'
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-05-01'
@@ -484,7 +484,7 @@ entries:
         - opensource-alt
   - name: MifthTools
     url: https://github.com/mifth/mifthtools
-    description: 3Dcoat, Houdini, Modo mesh exchange tools and more.
+    description: 3Dcoat, Houdini, Modo mesh exchange tools.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-05-01'
@@ -524,7 +524,7 @@ entries:
     last_pushed: '2021-01-09'
   - name: Tilecam
     url: https://github.com/stuffmatic/tilecam
-    description: Render seamlessly repeatable images.
+    description: Render repeatable images.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-05-01'

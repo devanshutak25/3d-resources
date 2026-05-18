@@ -266,7 +266,7 @@ entries:
     last_pushed: '2018-11-26'
   - name: JWT for Unity
     url: https://github.com/monry/JWT-for-Unity
-    description: JWT (JSON Web Token) implementation for .NET 3.5+ (Public Domain).
+    description: JWT (JSON Web Token) implementation for.NET 3.5+ (Public Domain).
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-05-01'

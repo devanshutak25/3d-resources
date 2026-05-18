@@ -115,7 +115,7 @@ entries:
         - web
   - name: Alex Forsythe
     url: https://www.youtube.com/@AlexForsythe
-    description: '[Game Framework](https://www.youtube.com/watch?v=IaU2Hue-ApI), [Replication](https://www.youtube.com/watch?v=JOJP0CvpB8w)  Tutorials by Alex Forsythe** (🆓 🥇)'
+    description: '[Game Framework](https://www.youtube.com/watch?v=IaU2Hue-ApI), [Replication](https://www.youtube.com/watch?v=JOJP0CvpB8w) Tutorials by Alex Forsythe** (🆓 🥇)'
     license: Free
     entry_type: channel
     readme_tags:
@@ -320,7 +320,7 @@ entries:
     tags:
       output:
         - games
-  - name: 'Unreal Docs: Procedural Content Generation  Framework'
+  - name: 'Unreal Docs: Procedural Content Generation Framework'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation--framework-in-unreal-engine
     description: '& [Electric Dream Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-in-electric-dreams) (🆓 🥇)'
     license: Free
@@ -624,7 +624,7 @@ entries:
     last_pushed: '2023-07-20'
   - name: UnrealCLR
     url: https://github.com/nxrighthere/UnrealCLR
-    description: Unreal Engine .NET 6 Integration.
+    description: Unreal Engine.NET 6 Integration.
     license: Open Source
     entry_type: plugin
     readme_tags:

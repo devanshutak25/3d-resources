@@ -90,7 +90,7 @@ entries:
     description: Fast-Paced UDP Client-Server implementation.
     license: Open Source
     entry_type: reference
-    notes: 'FLAG: sample/demo repo — could be tutorial.'
+    notes: 'FLAG: sample/demo repo. Could be tutorial.'
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -105,7 +105,7 @@ entries:
     description: 'Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta''s Multiplayer Network Demo in Unity C# as Networked using Lidgren Network.'
     license: Open Source
     entry_type: reference
-    notes: 'FLAG: sample/demo repo — could be tutorial.'
+    notes: 'FLAG: sample/demo repo. Could be tutorial.'
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:
@@ -120,7 +120,7 @@ entries:
     description: Open-source Bomberman multiplayer game made in Unreal Engine 5.
     license: Open Source
     entry_type: reference
-    notes: 'FLAG: open-source sample game — could be inspiration.'
+    notes: 'FLAG: open-source sample game. Could be inspiration.'
     url_last_verified: '2026-05-01'
     url_status: ok
     tags:

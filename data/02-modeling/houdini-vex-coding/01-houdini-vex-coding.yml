@@ -64,7 +64,7 @@ entries:
         - vex
   - name: HouPy Wiki
     url: https://www.houpywiki.com/
-    description: Houdini Python wiki — packages, shelf scripts, menu customization, node graph hooks.
+    description: Houdini Python wiki. Packages, shelf scripts, menu customization, node graph hooks.
     entry_type: reference
     license: Free
     readme_tags:
