@@ -25,7 +25,13 @@ Architectural / structural decisions w/ rationale + date.
   - Why: legend was eating ~40vh of phone viewport, blocking the 3D canvas.
   - Impact: `assets/graph.html` (toggle button + inline JS), `assets/css/graph.css` (FAB styles + media query rewrite). Copied to `_site/`. Desktop UX unchanged.
 
-- **2026-05-17 — Reverted README slim mode**
+- **2026-05-18: Humanized user-facing text, banned em-dashes and AI tells**
+  - Decision: Removed all em-dashes from `data/**/*.yml` and user-facing scripts (`render.js`, `build-html.js`, `build-section-pages.js`, `build-feed.js`, `build-llms-txt.js`, `build-og-images.js`). Titles use `: ` separator; descriptions use `. ` + capitalized next word. Stripped AI tells (`comprehensive/robust/powerful/seamless/leverage/utilize/cutting-edge/state-of-the-art/the ultimate/and more/and beyond`). OG image splitter switched from ` — ` to `: `.
+  - Why: Card copy read AI-generated. User wants human-sounding text. Em-dashes are the canonical AI tell.
+  - Impact: 104 files changed, 436 lines edited. README + `_site/` regenerated, 0 em-dashes remaining in user-facing output. Rule codified in `CLAUDE.md` § "Writing style" and `preferences.md`. Internal docs/comments exempt.
+  - Files: `CLAUDE.md`, `memory/preferences.md`, `scripts/_archive/humanize-once.js` (one-shot helper kept for reference).
+
+- **2026-05-17: Reverted README slim mode**
   - Decision: dropped Step 3 (`render.js --mode=lite`) from `build.sh`. README.md is the full catalog again (~734 KB).
   - Why: user confirmed full README renders fine on GitHub + mid-tier phones. "Uh oh" failure window in changes.md was likely intermittent/old. Quick-reference value > landing-page polish for this repo.
   - Impact: build.sh shorter. README grep-able again. Lite renderer code in render.js kept (dead but harmless) in case needed later.

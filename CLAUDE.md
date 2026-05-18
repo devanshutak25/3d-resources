@@ -26,6 +26,18 @@ CI runs `node scripts/validate.js` — closed-enum violations exit 1 and block m
 
 Run `node scripts/validate.js` after any data edit. Must show `✓ Validation passed.` before commit.
 
+## Writing style (user-facing text)
+
+Applies to: `data/**/*.yml` (descriptions, titles, readme_tags), template strings in `scripts/render.js`, `scripts/build-html.js`, `scripts/build-section-pages.js`, `scripts/build-feed.js`, `scripts/build-llms-txt.js`, `scripts/build-og-images.js`, and any other surface a site visitor reads.
+
+**Rules:**
+
+1. **No em-dashes (`—`).** Ever. In titles, use `: `. In prose, use `. ` (period + capitalize next word) or `, ` depending on context. The OG-image splitter (`build-og-images.js`) keys on `: ` for two-line layout — don't reintroduce em-dashes.
+2. **No AI tells.** Banned words/phrases: `comprehensive`, `robust`, `powerful`, `seamless(ly)`, `leverage(s/d)` (use "use"), `utilize(s/d/ing)` (use "use"), `cutting-edge`, `state-of-the-art`, `the ultimate`, `game-changing`, `unleash`. Banned trailing phrases: `and more`, `and beyond`, `and so much more`.
+3. **No marketing adjective stacks** ("fast, free, and powerful"). One concrete attribute beats three vague ones.
+4. **Caveman lite for descriptions.** Terse, factual, 1 sentence preferred. State what it *is* and what it *does*. Drop hype.
+5. **Internal docs/memory/CLAUDE.md/comments are exempt.** Em-dashes and informal hedging are fine there.
+
 ## Project memory system (`/memory`)
 
 Local, project-scoped memory lives in `./memory/`. Distinct from global `~/.claude` memory.
