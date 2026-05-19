@@ -179,6 +179,21 @@ entries:
         - opensource-alt
       platform:
         - web
+  - name: Procegen by Konstantin Magnus
+    url: https://procegen.konstantinmagnus.de/
+    description: Konstantin Magnus tutorials on procedural modeling, texturing, and tool building in Houdini.
+    entry_type: tutorial
+    license: Free
+    tags:
+      tech:
+        - procedural
+      platform:
+        - web
+    readme_tags:
+      - Procedural
+      - VEX
+    url_last_verified: '2026-05-19'
+    url_status: ok
   - name: USD Basics with Solaris
     url: https://www.sidefx.com/tutorials/usd-basics-with-solaris/
     description: Official tutorial on USD basics in Solaris.
