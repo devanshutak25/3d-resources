@@ -242,6 +242,30 @@ entries:
       - Photoshop-alt
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: PhotoGIMP
+    url: https://github.com/Diolinux/PhotoGIMP
+    description: Patch for GIMP that mimics Photoshop UI, shortcuts, and tool layout.
+    license: Open Source
+    entry_type: plugin
+    best_for: Photoshop users switching to GIMP
+    tags:
+      workflow:
+        - texturing
+        - concept
+      output:
+        - generalist
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Photoshop-like
+    url_last_verified: '2026-05-19'
+    url_status: ok
   - name: Penpot
     url: https://penpot.app/
     description: Open-source design platform. Native SVG/CSS/HTML output. Cloud-hosted or self-host. Figma alternative.
