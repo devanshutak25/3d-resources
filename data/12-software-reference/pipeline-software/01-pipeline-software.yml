@@ -108,6 +108,317 @@ entries:
       - Render Farm
     url_last_verified: '2026-05-05'
     url_status: ok
+  - name: Fox Renderfarm
+    url: https://www.foxrenderfarm.com/
+    description: 'TPN-accredited CPU + GPU cloud farm. Supports Blender, Maya, 3ds Max, C4D, Houdini with V-Ray, Arnold, Corona, Redshift, Octane, Karma. 24/7 support. $25 free trial.'
+    license: Paid
+    entry_type: tool
+    best_for: Multi-engine production rendering
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - film-vfx
+        - broadcast
+        - archviz
+        - generalist
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Cloud Render Farm
+      - TPN Certified
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: RebusFarm
+    url: https://rebusfarm.net/
+    description: 'German cloud farm supporting 20+ apps including Blender, 3ds Max, Maya, C4D, SketchUp. CPU 1.33 cents/GHz-hr, GPU 0.50 cents/OB-hr.'
+    license: Paid
+    entry_type: tool
+    best_for: Archviz and animation cloud rendering
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - archviz
+        - film-vfx
+        - broadcast
+        - product-viz
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Cloud Render Farm
+      - Multi-Host
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: GarageFarm.NET
+    url: https://garagefarm.net/
+    description: 'SaaS render farm with automated workflow. Supports Maya, 3ds Max, C4D, Blender, Houdini, Modo. Three pricing tiers based on speed vs budget.'
+    license: Paid
+    entry_type: tool
+    best_for: Automated SaaS cloud rendering
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - film-vfx
+        - broadcast
+        - archviz
+        - generalist
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Cloud Render Farm
+      - SaaS
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: Ranch Computing
+    url: https://www.ranchcomputing.com/
+    description: 'French managed farm focused on Blender, C4D, Maya, 3ds Max, Houdini including Karma XPU. Predictable per-frame pricing.'
+    license: Paid
+    entry_type: tool
+    best_for: European archviz and animation farm
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - archviz
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Cloud Render Farm
+      - Karma XPU
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: Super Renders Farm
+    url: https://superrendersfarm.com/
+    description: 'Multi-engine farm with 20k+ Xeon cores and RTX 5090 GPU nodes. Supports V-Ray, Corona, Arnold, Redshift, Octane, Cycles across Blender, Maya, 3ds Max, C4D, Houdini.'
+    license: Paid
+    entry_type: tool
+    best_for: GPU-heavy multi-engine rendering
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - film-vfx
+        - broadcast
+        - archviz
+        - generalist
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Cloud Render Farm
+      - RTX 5090
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: Pixel Plow
+    url: https://www.pixelplow.com/
+    description: '3ds Max, After Effects, Blender, and Cinema 4D render farm.'
+    license: Paid
+    entry_type: tool
+    best_for: Mograph and archviz rendering
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - motion-graphics
+        - archviz
+        - generalist
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Cloud Render Farm
+      - Mograph
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: GridMarkets
+    url: https://www.gridmarkets.com/
+    description: 'Houdini-first cloud farm with Mantra, Karma CPU/XPU, PDG/TOP support. Also Maya, C4D, Blender, 3ds Max, Nuke + Arnold, V-Ray, Redshift, RenderMan.'
+    license: Paid
+    entry_type: tool
+    best_for: Houdini VFX and PDG distributed jobs
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Houdini Farm
+      - PDG/TOP
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: Conductor Technologies
+    url: https://www.conductortech.com/
+    description: 'API-driven render orchestration. Supports 3ds Max, AE, Blender, C4D, Houdini, Maya, Nuke with Arnold, Corona, Cycles, Mantra, Redshift, RenderMan, V-Ray.'
+    license: Paid
+    entry_type: tool
+    best_for: API-driven studio render orchestration
+    tags:
+      tech:
+        - render-farm
+        - cloud
+        - pipeline
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Render Orchestration
+      - Studio Pipeline
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: iRender
+    url: https://irendering.net/
+    description: 'IaaS dedicated RTX 4090 nodes from ~$8.20/hr. Optimized for Redshift, Octane, Blender, V-Ray, Iray, Maxwell, Houdini, C4D, Maya via remote desktop.'
+    license: Paid
+    entry_type: tool
+    best_for: Dedicated GPU server rental
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - film-vfx
+        - archviz
+        - generalist
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - IaaS Render
+      - RTX 4090
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: Chaos Cloud
+    url: https://www.chaos.com/cloud
+    description: 'V-Ray native cloud rendering from 3ds Max, Maya, SketchUp, Rhino, C4D. Credits bundled with V-Ray subscription.'
+    license: Paid
+    entry_type: tool
+    best_for: V-Ray one-click cloud rendering
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - archviz
+        - product-viz
+        - film-vfx
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - V-Ray Native
+      - One-Click
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: Maxon One Cloud
+    url: https://www.maxon.net/en/cinema-4d/features/cloud-rendering
+    description: 'Integrated C4D cloud rendering for Standard, Physical, and Redshift engines. Bundled with Maxon One subscription.'
+    license: Paid
+    entry_type: tool
+    best_for: C4D-native cloud rendering
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - motion-graphics
+        - broadcast
+        - archviz
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - C4D Native
+      - Maxon One
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: AWS Deadline Cloud
+    url: https://aws.amazon.com/deadline-cloud/
+    description: 'Managed successor to on-prem Deadline. Usage-based pricing on AWS infrastructure with Deadline submitter compatibility.'
+    license: Paid
+    entry_type: tool
+    best_for: Managed cloud farm for Deadline shops
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - film-vfx
+        - broadcast
+        - generalist
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - AWS Managed
+      - Deadline Successor
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: Drop & Render
+    url: https://dropandrender.com/
+    description: 'Official Redshift and SideFX Karma partner farm. C4D and Blender focus with AOV, Cryptomatte, Redshift proxy, tiled renders.'
+    license: Paid
+    entry_type: tool
+    best_for: C4D Redshift and Houdini Karma rendering
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - motion-graphics
+        - broadcast
+        - film-vfx
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Redshift Partner
+      - Karma Partner
+    url_last_verified: '2026-05-20'
+    url_status: ok
+  - name: OTOY Render Cloud (ORC)
+    url: https://home.otoy.com/render/orc/
+    description: 'OTOY cloud rendering for Octane scenes. Pay-as-you-go GPU rendering with ORBX scene packaging.'
+    license: Paid
+    entry_type: tool
+    best_for: Octane GPU cloud rendering
+    tags:
+      tech:
+        - render-farm
+        - cloud
+      output:
+        - film-vfx
+        - motion-graphics
+        - archviz
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Octane Native
+      - GPU Cloud
+    url_last_verified: '2026-05-20'
+    url_status: ok
   - name: Yeti (Peregrine Labs)
     url: https://peregrinelabs.com/products/yeti
     description: Maya plugin for fur, feathers, and procedural instancing.

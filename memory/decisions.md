@@ -36,3 +36,9 @@ Architectural / structural decisions w/ rationale + date.
   - Why: user confirmed full README renders fine on GitHub + mid-tier phones. "Uh oh" failure window in changes.md was likely intermittent/old. Quick-reference value > landing-page polish for this repo.
   - Impact: build.sh shorter. README grep-able again. Lite renderer code in render.js kept (dead but harmless) in case needed later.
   - Files: `build.sh`, `README.md` regenerated.
+
+- **2026-05-20: Added 14 cloud render farm services to pipeline-software**
+  - Decision: Bundled commercial cloud render farm services into existing `pipeline-software` subsection alongside farm-manager software (Deadline, Royal Render, Tractor, Coalition) rather than spinning up a separate `render-farm-services` subsection.
+  - Why: `render-farm` tech tag already established here; one cluster easier to scan; avoids 12-software-reference.yml structural edits + mirror plumbing for ~14 entries.
+  - Entries: Fox Renderfarm, RebusFarm, GarageFarm.NET, Ranch Computing, Super Renders Farm, Pixel Plow, GridMarkets, Conductor Technologies, iRender, Chaos Cloud, Maxon One Cloud, AWS Deadline Cloud, Drop & Render, OTOY Render Cloud (ORC). All `entry_type: tool`, `license: Paid`, platforms `web`+`cloud`, tech tags `render-farm`+`cloud` (+`pipeline` for Conductor).
+  - Files: `data/12-software-reference/pipeline-software/01-pipeline-software.yml`.

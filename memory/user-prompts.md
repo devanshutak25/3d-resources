@@ -110,3 +110,27 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 **Answered:** Added `handoff/` to `.gitignore` line 13. Verified ignore takes effect. (Initially over-added changes.md/pub_plan.md/memory/; reverted to just handoff/ as requested.)
 
 ---
+
+### 2026-05-20
+**Prompt:**
+> look up and add the latest render farms (check the internet for latest news about which ones are available and support which software and render engines). Give me a list which I can approve items from
+
+**Answered:** Web-searched 2026 cloud render farm landscape. Presented 13 candidates grouped (multi-software SaaS, Houdini/pipeline-grade, IaaS, engine-native, engine-specific). Existing in repo: SheepIt, OTOY Octane Render Cloud, Deadline/Royal Render/Coalition/Tractor (managers).
+
+---
+
+### 2026-05-20
+**Prompt:**
+> add https://home.otoy.com/render/orc/ as well please and yes, add the rest too
+
+**Answered:** Added 14 render farm service entries to `data/12-software-reference/pipeline-software/01-pipeline-software.yml` (after Tractor): Fox Renderfarm, RebusFarm, GarageFarm.NET, Ranch Computing, Super Renders Farm, Pixel Plow, GridMarkets, Conductor Technologies, iRender, Chaos Cloud, Maxon One Cloud, AWS Deadline Cloud, Drop & Render, OTOY Render Cloud (ORC). All `entry_type: tool`, `license: Paid`, `cloud` + `render-farm` tech tags, `web`+`cloud` platforms. Validation passed (only freeform-tech warnings).
+
+---
+
+### 2026-05-20
+**Prompt:**
+> log it, I will commit
+
+**Answered:** Logged to memory/user-prompts.md + decisions.md. No commit (user will handle).
+
+---
