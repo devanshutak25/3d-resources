@@ -162,6 +162,30 @@ entries:
       - Garment Sim
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Style3D
+    url: https://atelier.style3d.com/en/home
+    description: 3D garment design and cloth simulation. Clo3D/Marvelous competitor with FBX/OBJ export to standard CG pipelines.
+    pricing: Subscription
+    license: Paid
+    entry_type: software
+    best_for: 3D garment design, cloth simulation, fashion-to-CG pipeline
+    tags:
+      workflow:
+        - modeling
+        - simulation
+      output:
+        - product-viz
+        - illustration
+      platform:
+        - win
+        - mac
+      tech:
+        - physics
+    readme_tags:
+      - Fashion
+      - Garment Sim
+    url_last_verified: '2026-05-21'
+    url_status: ok
   - name: Substance 3D Modeler
     url: https://www.adobe.com/products/substance3d/apps/modeler.html
     description: Adobe's VR and desktop sculpting tool.

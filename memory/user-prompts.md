@@ -134,3 +134,17 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 **Answered:** Logged to memory/user-prompts.md + decisions.md. No commit (user will handle).
 
 ---
+
+## 2026-05-21
+
+> You think these software fit our list? [browzwear, tailornova, style3d, lectra gerber, stylecad, clo3d, marvelousdesigner] - check and let me know
+
+**Answered:** Clo3D + Marvelous already in 3d-software-paid. Style3D fits (CLO competitor, exports to CG). Browzwear borderline (fashion-tech audience). Tailornova/Lectra Gerber/StyleCAD = 2D pattern CAD, skip.
+
+---
+
+> yes please [add Style3D]
+
+**Answered:** Added Style3D to data/12-software-reference/3d-software-paid/01-3d-software-paid.yml after Clo3D. Validation passed.
+
+---
