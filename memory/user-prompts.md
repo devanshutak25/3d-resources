@@ -168,3 +168,9 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 **Answered:** Moved CorridorKey + Sammie Roto 2 out of motion-graphics-tools → ai-assisted-cg-tools (workflow: compositing, output: film-vfx). Added Robust Video Matting, Track Anything, DEVA, and Rotobot. Validation passed.
 
 ---
+
+> any other roto, matchmove, tracking, keying tools that we don't have in our list?
+
+**Answered:** Added Lockdown, Primatte Studio to matchmoving-tracking; Wonder Studio (Autodesk Flow) to ai-assisted-cg-tools. Mocha Pro, Silhouette, KeenTools were already canonical in §12 — added matchmoving-tracking mirrors via dual_listed_in. Validation passed.
+
+---

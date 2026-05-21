@@ -23,6 +23,7 @@ entries:
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
+      - tools-pipeline-utilities/matchmoving-tracking
   - name: Silhouette
     url: https://borisfx.com/products/silhouette/
     description: Boris FX node-based roto/paint compositor with AI-driven matte tools.
@@ -44,6 +45,8 @@ entries:
       - Roto/Paint
     url_last_verified: '2026-05-05'
     url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking
   - name: Sapphire
     url: https://borisfx.com/products/sapphire/
     description: Boris FX 270+ VFX/transition plugins for AE, Premiere, Resolve, Nuke, Flame, Avid, OFX hosts.
@@ -135,6 +138,8 @@ entries:
       - VFX
     url_last_verified: '2026-05-05'
     url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking
   - name: Nuke (Foundry)
     url: https://www.foundry.com/products/nuke-family/nuke
     description: Industry-standard compositing. Non-Commercial free version available.

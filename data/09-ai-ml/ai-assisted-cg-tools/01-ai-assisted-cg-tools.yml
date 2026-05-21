@@ -208,6 +208,24 @@ entries:
     readme_tags:
       - Video Segmentation
       - Long-Form
+  - name: Wonder Studio (Autodesk Flow Studio)
+    url: https://wonderdynamics.com/
+    description: AI character replacement with auto roto, body tracking, and re-lighting from a single video. Now part of Autodesk Flow Studio.
+    license: Freemium
+    entry_type: tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+        - animation
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - Auto Roto
+      - Char Replace
   - name: Rotobot
     url: https://www.kognat.com/
     description: Paid AI roto plugin for Nuke and After Effects. Auto-mattes people and objects.

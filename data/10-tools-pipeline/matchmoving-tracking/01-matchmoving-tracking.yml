@@ -1,4 +1,36 @@
 entries:
+  - name: Lockdown
+    url: https://aescripts.com/lockdown/
+    description: After Effects plugin for tracking warped, deforming surfaces (faces, fabric, skin). Mesh-based.
+    license: Paid
+    entry_type: plugin
+    best_for: Warped surface track
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      workflow:
+        - compositing
+    readme_tags:
+      - AE Plugin
+      - Mesh Track
+  - name: Primatte Studio
+    url: https://borisfx.com/products/primatte-studio/
+    description: Primatte keyer in standalone form. Long-time pro chroma key tech, now under Boris FX.
+    license: Paid
+    entry_type: software
+    best_for: Chroma key
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      workflow:
+        - compositing
+    readme_tags:
+      - Keyer
+      - Chroma Key
   - name: F Spy Maya
     url: https://github.com/Nathanieljla/fSpy-Maya
     description: Unofficial fSpy Maya importer (one of several).
