@@ -70,6 +70,58 @@ entries:
         - motion-graphics
       tech:
         - opensource-alt
+  - name: Caddis
+    url: https://www.caddis.app/
+    description: Motion design app with layer timeline and node compositing.
+    license: Paid
+    entry_type: tool
+    readme_tags:
+      - Motion Design
+      - Node Compositing
+    url_last_verified: '2026-05-21'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Jitter
+    url: https://jitter.video/
+    description: Browser-based collaborative motion design tool.
+    license: Freemium
+    entry_type: tool
+    readme_tags:
+      - Motion Design
+      - Browser
+    url_last_verified: '2026-05-21'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Lottielab
+    url: https://www.lottielab.com/
+    description: Editor for Lottie animations targeting apps and websites.
+    license: Freemium
+    entry_type: tool
+    readme_tags:
+      - Lottie
+      - Motion Design
+    url_last_verified: '2026-05-21'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+  - name: Plate
+    url: https://plate.video/
+    description: WebGPU motion design tool running in the browser, with macOS and Windows builds.
+    license: Paid
+    entry_type: tool
+    readme_tags:
+      - Motion Design
+      - WebGPU
+    url_last_verified: '2026-05-21'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
   - name: Element 3D
     url: https://www.videocopilot.net/products/element2/
     description: A 3D plugin for After Effects that allows you to import and animate 3D models.
