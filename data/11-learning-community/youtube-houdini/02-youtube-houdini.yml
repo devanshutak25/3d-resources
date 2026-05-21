@@ -132,6 +132,30 @@ entries:
     tags:
       platform:
         - web
+  - name: regularmenthol
+    url: https://www.youtube.com/@regularmenthol
+    description: Houdini FX channel.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - FX
+    url_last_verified: '2026-05-21'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: WTTR Labs
+    url: https://www.youtube.com/@wttrlabs
+    description: Houdini FX channel.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - FX
+    url_last_verified: '2026-05-21'
+    url_status: ok
+    tags:
+      platform:
+        - web
   - name: Chris Brejon
     url: https://chrisbrejon.com/
     description: CG cinematography guide and Solaris/USD reference.

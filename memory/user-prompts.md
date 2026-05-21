@@ -148,3 +148,9 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 **Answered:** Added Style3D to data/12-software-reference/3d-software-paid/01-3d-software-paid.yml after Clo3D. Validation passed.
 
 ---
+
+> add https://www.youtube.com/@regularmenthol and https://www.youtube.com/@wttrlabs
+
+**Answered:** Both added to data/11-learning-community/youtube-houdini/02-youtube-houdini.yml as Houdini FX channels (confirmed via user). Validation passed.
+
+---
