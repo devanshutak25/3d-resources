@@ -40,36 +40,6 @@ entries:
     tags:
       output:
         - motion-graphics
-  - name: CorridorKey
-    url: https://github.com/nikopueringer/CorridorKey
-    description: Corridor's keying tool (open source).
-    license: Open Source
-    entry_type: tool
-    readme_tags:
-      - Keying
-      - Corridor
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
-      tech:
-        - opensource-alt
-  - name: Sammie Roto 2
-    url: https://github.com/Zarxrax/Sammie-Roto-2
-    description: Rotoscope tool.
-    license: Open Source
-    entry_type: tool
-    readme_tags:
-      - Rotoscope
-      - Open Source
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
-      tech:
-        - opensource-alt
   - name: Caddis
     url: https://www.caddis.app/
     description: Motion design app with layer timeline and node compositing.

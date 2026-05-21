@@ -1,1 +1,17 @@
-entries: []
+entries:
+  - name: AudioCraft (MusicGen / AudioGen / EnCodec)
+    url: https://audiocraft.metademolab.com/
+    description: Meta's open audio generation stack. MusicGen for music, AudioGen for SFX, EnCodec for neural audio compression.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - audio-design
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Music Gen
+      - SFX Gen

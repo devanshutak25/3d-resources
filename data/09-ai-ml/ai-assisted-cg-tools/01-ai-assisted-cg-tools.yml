@@ -100,6 +100,149 @@ entries:
     readme_tags:
       - Prompt Guide
       - GPT-4
+  - name: SAM 2 (Segment Anything Model 2)
+    url: https://ai.meta.com/research/sam2/
+    description: Meta's promptable segmentation for images and video. Masks objects across frames from a single click. Useful for rotoscope and matte work.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Segmentation
+      - Video Masks
+  - name: CorridorKey
+    url: https://github.com/nikopueringer/CorridorKey
+    description: Corridor Crew's open keying tool. AI-driven chroma key for VFX work.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Keying
+      - Corridor
+  - name: Sammie Roto 2
+    url: https://github.com/Zarxrax/Sammie-Roto-2
+    description: SAM-based rotoscope app. Click-to-mask, propagates across frames.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Rotoscope
+      - SAM
+  - name: Robust Video Matting (RVM)
+    url: https://github.com/PeterL1n/RobustVideoMatting
+    description: Real-time human video matting. Strong alpha mattes with no greenscreen.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Matting
+      - Real-Time
+  - name: Track Anything
+    url: https://github.com/gaomingqi/Track-Anything
+    description: SAM plus XMem for interactive video object tracking and segmentation. Useful for roto and matte propagation.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Tracking
+      - Segmentation
+  - name: DEVA (Tracking Anything)
+    url: https://github.com/hkchengrex/Tracking-Anything-with-DEVA
+    description: Decoupled video segmentation. Long-form, multi-object roto with text or click prompts.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Video Segmentation
+      - Long-Form
+  - name: Rotobot
+    url: https://www.kognat.com/
+    description: Paid AI roto plugin for Nuke and After Effects. Auto-mattes people and objects.
+    license: Paid
+    entry_type: plugin
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - Nuke Plugin
+      - AE Plugin
+  - name: CoTracker
+    url: https://co-tracker.github.io/
+    description: Meta FAIR point tracker for video. Tracks arbitrary points jointly across frames. Useful for matchmove and roto prep.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Point Tracking
+      - Video
   - name: SolidUI
     url: https://github.com/CloudOrc/SolidUI
     description: AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.

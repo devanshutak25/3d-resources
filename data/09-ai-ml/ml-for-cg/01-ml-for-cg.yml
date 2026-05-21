@@ -8,3 +8,44 @@ entries:
     tags:
       tech:
         - ai-generative
+  - name: PyTorch3D
+    url: https://pytorch3d.org/
+    description: Meta FAIR library for 3D deep learning. Differentiable rendering, mesh ops, point cloud utils on PyTorch.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - 3D Deep Learning
+      - PyTorch
+  - name: DINOv2
+    url: https://dinov2.metademolab.com/
+    description: Meta self-supervised vision features. Strong general-purpose image embeddings. Useful as backbone for CG ML tasks.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Vision Features
+      - Self-Supervised
+  - name: Meta 3D Gen
+    url: https://ai.meta.com/research/publications/meta-3d-gen/
+    description: Meta research pipeline for text-to-3D. Combines AssetGen geometry with TextureGen materials. Paper and results.
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-3D
+      - Research

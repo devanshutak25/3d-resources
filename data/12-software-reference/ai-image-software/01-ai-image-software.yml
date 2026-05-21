@@ -294,21 +294,6 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
-  - name: AudioCraft
-    url: https://audiocraft.metademolab.com/
-    description: 'A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource'
-    license: Open Source
-    entry_type: software
-    notes: RELOCATE. Audio gen, belongs under §09 AI Audio & Music.
-    url_last_verified: '2026-05-01'
-    url_status: ok
-    tags:
-      tech:
-        - ai-generative
-      workflow:
-        - concept
-    dual_listed_in:
-      - ai-ml-for-cg/image-generation
   - name: UneeQ Digital Humans
     url: https://www.digitalhumans.com/
     description: 3D character lib synced
