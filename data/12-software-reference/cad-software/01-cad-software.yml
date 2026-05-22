@@ -325,3 +325,26 @@ entries:
       - Lightweight
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Bitbybit
+    url: https://bitbybit.dev/
+    description: Browser parametric CAD via visual nodes (Rete, Blockly) or Monaco code editor. OCCT, JSCAD, Manifold backends.
+    license: Freemium
+    entry_type: software
+    best_for: Parametric web CAD, generative geometry, 3D printing
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+        - jewelry
+      platform:
+        - web
+      tech:
+        - node-based
+        - procedural
+        - opensource-alt
+    readme_tags:
+      - Browser
+      - Parametric
+    url_last_verified: '2026-05-22'
+    url_status: ok

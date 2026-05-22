@@ -98,3 +98,90 @@ entries:
       - Free NC
     url_last_verified: '2026-05-05'
     url_status: ok
+  - name: Spline
+    url: https://spline.design/
+    description: Browser-based 3D design with real-time collaboration. Exports to web, video, code. AI features for prompt-to-3D.
+    pricing: Free tier, Super $9/mo, Business $24/mo
+    license: Freemium
+    entry_type: software
+    best_for: Interactive web 3D, UI mockups, product viz
+    tags:
+      workflow:
+        - modeling
+        - animation
+        - rendering
+      output:
+        - product-viz
+        - motion-graphics
+      platform:
+        - web
+        - mac
+        - win
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - collaborative
+        - real-time
+        - ai-generative
+    readme_tags:
+      - Browser
+      - Collaborative
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Bezi
+    url: https://www.bezi.com/
+    description: Collaborative browser 3D design tool. Figma-style multiplayer editing for 3D scenes, prototypes, UI in 3D space.
+    pricing: Free tier, Pro $12/mo
+    license: Freemium
+    entry_type: software
+    best_for: Team 3D design, spatial UI mockups
+    tags:
+      workflow:
+        - modeling
+        - look-dev
+      output:
+        - product-viz
+        - xr
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - collaborative
+        - real-time
+    readme_tags:
+      - Browser
+      - Multiplayer
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Gravity Sketch
+    url: https://www.gravitysketch.com/
+    description: VR-first 3D design and modeling. Cloud sync via LandingPad; iPad companion.
+    pricing: Free personal use, Studio $35/user/mo
+    license: Freemium
+    entry_type: software
+    best_for: Concept design, automotive, footwear, industrial design in VR
+    tags:
+      workflow:
+        - modeling
+        - concept
+      output:
+        - automotive
+        - product-viz
+        - fashion
+      platform:
+        - vr
+        - ipad
+        - win
+        - mac
+      tech:
+        - collaborative
+        - cloud
+        - xr
+    readme_tags:
+      - VR
+      - Concept
+    url_last_verified: '2026-05-22'
+    url_status: ok

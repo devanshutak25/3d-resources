@@ -190,3 +190,9 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 **Answered:** Added Lockdown, Primatte Studio to matchmoving-tracking; Wonder Studio (Autodesk Flow) to ai-assisted-cg-tools. Mocha Pro, Silhouette, KeenTools were already canonical in §12 — added matchmoving-tracking mirrors via dual_listed_in. Validation passed.
 
 ---
+
+> 2026-05-22: add spline 3d (the web 3d thing), play canvas, and other web based tools you can find
+
+**Answered:** PlayCanvas, Spline AI, Babylon.js, Three.js, Needle, A-Frame, Verge3D, SculptGL, Tinkercad, Womp3D, Vectary already present. Added: Spline (core, 3d-software-free-tier), Bezi (3d-software-free-tier), Gravity Sketch (3d-software-free-tier), Cables.gl (3d-software-free), Wonderland Engine (game-engines-free-oss/02), 8th Wall + Mozilla Hubs (xr-ar-vr), Bitbybit (cad-software). Validation passed, 213 warnings (all pre-existing).
+
+---

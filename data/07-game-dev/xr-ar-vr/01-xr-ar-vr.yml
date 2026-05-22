@@ -306,3 +306,45 @@ entries:
       tech:
         - opensource-alt
         - xr
+  - name: 8th Wall
+    url: https://www.8thwall.com/
+    description: Niantic's WebAR platform. Markerless world tracking, image targets, face effects via the browser. No app required.
+    license: Paid
+    entry_type: software
+    best_for: Marketing WebAR, branded AR experiences
+    tags:
+      output:
+        - xr
+        - event-experiential
+      platform:
+        - web
+      tech:
+        - real-time
+        - xr
+    readme_tags:
+      - WebAR
+      - Niantic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Mozilla Hubs
+    url: https://hubs.mozilla.com/
+    description: Open-source social VR rooms in the browser. Forked and maintained by community after Mozilla sunset.
+    license: Open Source
+    entry_type: software
+    best_for: Social VR, virtual events, meetings
+    tags:
+      output:
+        - xr
+        - event-experiential
+      platform:
+        - web
+        - vr
+      tech:
+        - real-time
+        - xr
+        - opensource-alt
+    readme_tags:
+      - WebXR
+      - Social
+    url_last_verified: '2026-05-22'
+    url_status: ok

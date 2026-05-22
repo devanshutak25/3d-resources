@@ -304,3 +304,28 @@ entries:
         - web
       tech:
         - gpu
+  - name: Cables.gl
+    url: https://cables.gl/
+    description: Node-based visual programming for browser graphics and interactive WebGL. Patch editor exports to JS.
+    license: Freemium
+    entry_type: software
+    best_for: Creative coding, interactive web visuals, projection mapping
+    tags:
+      workflow:
+        - creative-coding
+        - rendering
+        - projection-mapping
+      output:
+        - motion-graphics
+        - event-experiential
+      platform:
+        - web
+      tech:
+        - node-based
+        - real-time
+        - gpu
+    readme_tags:
+      - Browser
+      - Node-Based
+    url_last_verified: '2026-05-22'
+    url_status: ok
