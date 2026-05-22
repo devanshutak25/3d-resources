@@ -192,3 +192,420 @@ entries:
       - Open Source
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Avid Media Composer
+    url: https://www.avid.com/media-composer
+    description: Long-standing film/TV finishing NLE. Standard for collaborative editorial in features and broadcast post.
+    pricing: From $23.99/mo (Ultimate $79.99/mo)
+    license: Paid
+    entry_type: software
+    best_for: Film and TV editorial
+    tags:
+      workflow:
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+      tech:
+        - subscription
+    readme_tags:
+      - Industry Standard
+      - Film/TV
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Vegas Pro
+    url: https://www.vegascreativesoftware.com/us/vegas-pro/
+    description: Magix Windows NLE with track-based timeline, HDR, and AI-assisted tools.
+    pricing: From $19.99/mo (perpetual $599)
+    license: Paid
+    entry_type: software
+    best_for: Windows-only pro editing
+    tags:
+      workflow:
+        - editing
+        - color-grading
+      output:
+        - broadcast
+        - generalist
+      platform:
+        - win
+    readme_tags:
+      - Windows Pro NLE
+      - Track-based
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Vegas Movie Studio
+    url: https://www.vegascreativesoftware.com/us/vegas-movie-studio/
+    description: Consumer/prosumer Vegas variant for hobbyist editing.
+    pricing: ~$79 perpetual
+    license: Paid
+    entry_type: software
+    best_for: Hobbyist Windows editing
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+    readme_tags:
+      - Consumer
+      - Windows
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: DaVinci Resolve Studio
+    url: https://www.blackmagicdesign.com/products/davinciresolve
+    description: Paid Resolve with neural engine, advanced noise reduction, HDR grading, and multi-user collaboration.
+    pricing: $295 perpetual
+    license: Paid
+    entry_type: software
+    best_for: Full pro post pipeline w/ collaboration
+    tags:
+      workflow:
+        - editing
+        - color-grading
+        - compositing
+        - audio-design
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - perpetual
+    readme_tags:
+      - Pro Tier
+      - One-time Buy
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Lightworks
+    url: https://lwks.com/
+    description: Pro NLE with free tier (1080p export) and paid Pro/Create tiers. Used on feature films historically.
+    pricing: Free / $9.99/mo Create / $23.99/mo Pro
+    license: Freemium
+    entry_type: software
+    best_for: Pro NLE on a budget
+    tags:
+      workflow:
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Free Tier
+      - Pro NLE
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: HitFilm
+    url: https://fxhome.com/product/hitfilm
+    description: Artlist-owned editor + VFX combo. Free tier plus Pro paid version.
+    pricing: Free / $7.99/mo Pro
+    license: Freemium
+    entry_type: software
+    best_for: Editor + VFX in one app
+    tags:
+      workflow:
+        - editing
+        - compositing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Editor + VFX
+      - Free Tier
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: iMovie
+    url: https://www.apple.com/imovie/
+    description: Apple's free consumer editor for macOS and iOS/iPadOS.
+    license: Free
+    entry_type: software
+    best_for: Consumer Mac/iOS editing
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - mac
+        - ios
+        - ipad
+      skill:
+        - beginner
+    readme_tags:
+      - Free
+      - Apple
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Apple Motion
+    url: https://www.apple.com/final-cut-pro/motion/
+    description: Motion graphics app and FCP template authoring tool from Apple.
+    pricing: $49.99 perpetual
+    license: Paid
+    entry_type: software
+    best_for: FCP motion graphics + titles
+    tags:
+      workflow:
+        - editing
+        - compositing
+      output:
+        - motion-graphics
+      platform:
+        - mac
+      tech:
+        - perpetual
+    readme_tags:
+      - FCP Companion
+      - Mac
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Apple Compressor
+    url: https://www.apple.com/final-cut-pro/compressor/
+    description: Encoding and delivery companion app for Final Cut Pro.
+    pricing: $49.99 perpetual
+    license: Paid
+    entry_type: software
+    best_for: FCP encode/deliver
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - mac
+    readme_tags:
+      - FCP Encode
+      - Mac
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Premiere Rush
+    url: https://www.adobe.com/products/premiere-rush.html
+    description: Simplified cross-device Premiere for social cuts. Adobe (sunset in progress).
+    license: Freemium
+    entry_type: software
+    best_for: Mobile/social quick edits
+    deprecated: true
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - ios
+        - android
+      skill:
+        - beginner
+    readme_tags:
+      - Mobile + Desktop
+      - Sunsetting
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Premiere Elements
+    url: https://www.adobe.com/products/premiere-elements.html
+    description: One-time-purchase consumer Premiere variant.
+    pricing: ~$99 perpetual
+    license: Paid
+    entry_type: software
+    best_for: Consumer Adobe editing without subscription
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+      tech:
+        - perpetual
+      skill:
+        - beginner
+    readme_tags:
+      - One-time Buy
+      - Consumer
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: CapCut Desktop
+    url: https://www.capcut.com/
+    description: ByteDance's free desktop/mobile editor, dominant in social workflows.
+    license: Freemium
+    entry_type: software
+    best_for: Social/short-form editing
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - win
+        - mac
+        - ios
+        - android
+    readme_tags:
+      - Free
+      - Social-first
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Descript
+    url: https://www.descript.com/
+    description: Transcript-driven video and podcast editor. Edits by editing the text.
+    pricing: Free / $15/mo Creator / $30/mo Pro
+    license: Freemium
+    entry_type: software
+    best_for: Podcast and talking-head editing
+    tags:
+      workflow:
+        - editing
+        - audio-design
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - cloud
+    readme_tags:
+      - Transcript Edit
+      - Podcast
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: VEED
+    url: https://www.veed.io/
+    description: Browser editor with auto-subtitles, AI tools, and screen recording.
+    pricing: Free / $12/mo Lite / $24/mo Pro
+    license: Freemium
+    entry_type: software
+    best_for: Browser-based quick edits + subtitles
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Browser
+      - Auto-Subs
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Clipchamp
+    url: https://clipchamp.com/
+    description: Microsoft's browser editor bundled with Windows 11.
+    license: Freemium
+    entry_type: software
+    best_for: Quick Windows editing
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Bundled w/ Windows
+      - Browser
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: VSDC Free Video Editor
+    url: https://www.videosoftdev.com/free-video-editor
+    description: Windows non-linear editor, free + Pro tier.
+    license: Freemium
+    entry_type: software
+    best_for: Free Windows editing
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+    readme_tags:
+      - Free
+      - Windows
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Filmora
+    url: https://filmora.wondershare.com/
+    description: Wondershare beginner-friendly editor; watermarked free tier.
+    pricing: ~$80/yr
+    license: Freemium
+    entry_type: software
+    best_for: Beginner editing
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+    readme_tags:
+      - Beginner
+      - Templates
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Olive
+    url: https://www.olivevideoeditor.org/
+    description: GPL NLE; 0.2 alpha, development stalled since 2022.
+    license: Open Source
+    entry_type: software
+    best_for: OSS NLE (alpha)
+    deprecated: true
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Alpha
+      - Stalled
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Avidemux
+    url: https://avidemux.sourceforge.net/
+    description: Simple OSS cut/filter/encode tool. Not a full NLE.
+    license: Open Source
+    entry_type: software
+    best_for: Quick cuts + reencodes
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Utility
+    url_last_verified: '2026-05-22'
+    url_status: ok

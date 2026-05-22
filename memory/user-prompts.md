@@ -11,6 +11,22 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-05-22
+**Prompt:**
+> add 3d coat, cozy blanker, retopology software; shotgrid and pm tools; defunct software section (XSI/Softimage); HDR/PTGUI/Debevec/photogrammetry tutorials; VCV Rack, FotoSketcher, laser scanning; full discipline taxonomy (pre-prod through R&D). Deep dive, use as many agents as needed.
+
+**Answered:** Dispatched 10 parallel research agents. Consolidated candidate list at `disregard/expansion-candidates-2026-05-22.md`. ~300 candidates grouped by topic, ★ priority marked, ⚠ existing flagged. Raised 7 structural decisions (legacy subsection, vocab gaps, studio/hardware/book entry types) — awaiting answers before yml writes.
+
+---
+
+### 2026-05-22
+**Prompt:**
+> 1. sub section 2. vocab additions 3. ok 4. yes; add editing tools (BorisFX/Vegas/Avid + more BorisFX); add Flamenco; add scientific viz (PyMOL/ChimeraX/etc).
+
+**Answered:** Approved all 4 structural decisions and added named items. Extended vocab + schema (workflow: previs, look-dev, face-capture, match-move, roto, projection-mapping, creative-coding; output: medical, jewelry, fashion, automotive, event-experiential; entry_type: service, book, hardware, paper; platform: vr). Created 4 new subsections: §12 legacy-defunct-software (~27 entries), §12 scientific-viz-software (~45 entries), §08 pre-production-tools (~30 entries), §05 compositing-learning (~12 entries). Added editing tools (Avid Media Composer, Vegas Pro, Resolve Studio, Lightworks, HitFilm, iMovie, Apple Motion, Compressor, Premiere Rush/Elements, CapCut, Descript, VEED, Clipchamp, VSDC, Filmora, Olive, Avidemux), BorisFX missing items (Mocha AE, Optics, Particle Illusion, Title Studio — note: Sapphire/Continuum/Mocha Pro/Silhouette already existed), Flamenco confirmed already present, 3D Coat suite (3D Coat, Textura, Print) + Cozy Blanket + Valence 3D + Quad Remesher + RetopoFlow + ZWrap + Meshmixer to retopo-uv-software, HDRI/Debevec/PTGui/Hugin/HDR Light Studio/sIBL/HDRI Handbook + laser scanning (Leica Cyclone, FARO SCENE, Trimble RealWorks, ReCap, Geomagic) + heritage (CyArk, Open Heritage 3D, Smithsonian, Stanford Digital Michelangelo) + volumetric services (Volucap, Metastage, 4DViews, Depthkit, Ten24, Eisko, Triple-I) to photogrammetry-scanning, pipeline gaps (Frame.io, SyncSketch, Cinesync, Filestage, RV, 5th Kind CORE, Cerebro, Flow Capture, Hansoft, Anchorpoint, Diversion, Snowtrack, Colorfront, FilmLight Daylight, Sohonet ClearView) to pipeline-software, VP/mocap additions (Aximmetry, Brainstorm InfinitySet, Vu Studios, ARwall, Mo-Sys/Stype/Ncam/ZEISS/Lightcraft, Brompton Tessera, Megapixel Helios, ROE Visual, Vicon, OptiTrack, Xsens, Rokoko, Sony Mocopi, Manus, StretchSense, Faceware, MRMC Bolt, MotionBuilder) to virtual-production-software, audio expansion (Ableton, FL Studio, Logic, Pro Tools, Studio One, Cubase, Bitwig, Ardour, LMMS, Cakewalk, VCV Rack, Pure Data, Max/MSP, SuperCollider, Sonic Pi, TidalCycles, Strudel, iZotope RX, FabFilter, Krotos, Sound Particles, GameSynth, Dolby Atmos Renderer, Flux Spat, Resonance, FotoSketcher) to audio-software, verticals (VRED, Alias, ICEM Surf, Lumiscaphe, MatrixGold, JewelCAD, 3Design, Firestorm, Clayoo, Marmoset, CLO 3D, Browzwear, Optitex, ChyronHego, Ross XPression, Avid Maestro, MetaHuman Animator, Faceware Studio) to 3d-software-paid. Total ~250 new entries. All 14 tasks completed. Validation: 213 warnings, 0 errors.
+
+---
+
 ### 2026-05-18
 **Prompt:**
 > add https://github.com/TencentARC/Pixal3D https://github.com/playcanvas/supersplat https://github.com/MrNeRF/LichtFeld-Studio

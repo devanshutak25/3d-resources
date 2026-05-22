@@ -92,6 +92,90 @@ entries:
       - Broadcast
     url_last_verified: '2026-05-05'
     url_status: ok
+  - name: Mocha AE
+    url: https://borisfx.com/products/mocha-ae/
+    description: Stripped Mocha planar tracker bundled inside After Effects. Free with AE.
+    license: Free
+    entry_type: plugin
+    best_for: Planar tracking inside AE
+    tags:
+      workflow:
+        - compositing
+        - match-move
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Free w/ AE
+      - Planar Tracking
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Boris FX Optics
+    url: https://borisfx.com/products/optics/
+    description: Photo and film stylization plugin and standalone. Filters, grain, lens FX, color.
+    pricing: $9.99/mo or $149/yr; perpetual $199
+    license: Paid
+    entry_type: software
+    best_for: Film/photo stylization
+    tags:
+      workflow:
+        - color-grading
+        - compositing
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Stylize
+      - Lens FX
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Boris FX Particle Illusion
+    url: https://borisfx.com/products/particle-illusion/
+    description: Standalone particle generator. Free version; Pro features available inside Continuum.
+    license: Freemium
+    entry_type: software
+    best_for: Quick particle FX library
+    tags:
+      workflow:
+        - fx
+        - compositing
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Free
+      - Particle Library
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Boris Title Studio
+    url: https://borisfx.com/products/continuum/title-studio/
+    description: 3D titler shipped inside Continuum (was a standalone product).
+    license: Paid
+    entry_type: plugin
+    best_for: 3D broadcast titles
+    tags:
+      workflow:
+        - compositing
+      output:
+        - broadcast
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - 3D Titles
+      - Broadcast
+    url_last_verified: '2026-05-22'
+    url_status: ok
   - name: Red Giant Complete
     url: https://www.maxon.net/en/red-giant
     description: Maxon-owned VFX/motion suite. Trapcode, Magic Bullet, VFX Suite, Universe.

@@ -21,11 +21,17 @@ entry_type:
   - community        # Forum, subreddit, Discord
   - reference        # Documentation, spec, standard (USD docs, etc.)
   - inspiration      # Showcase / portfolio hub
+  - service          # Studio / capture service / hosted service (Ten24, Volucap, Cubic Motion)
+  - book             # Print or digital book (Brinkmann, HDRI Handbook)
+  - hardware         # Hardware device (mocap suit, LED panel, MoCo rig, scanner)
+  - paper            # Academic / research paper (SIGGRAPH, Disney)
 
 workflow:
   - concept
   - reference
   - storyboard
+  - previs
+  - look-dev
   - modeling
   - sculpting
   - retopo
@@ -36,6 +42,9 @@ workflow:
   - skinning
   - animation
   - mocap
+  - face-capture
+  - match-move
+  - roto
   - simulation
   - fx
   - lighting
@@ -44,6 +53,8 @@ workflow:
   - editing
   - color-grading
   - audio-design
+  - projection-mapping
+  - creative-coding
 
 output:
   - games
@@ -55,6 +66,11 @@ output:
   - illustration
   - xr
   - scientific-viz
+  - medical
+  - jewelry
+  - fashion
+  - automotive
+  - event-experiential
   - generalist
 
 platform:
@@ -66,6 +82,7 @@ platform:
   - ipad
   - android
   - cloud
+  - vr
 
 skill:
   - beginner

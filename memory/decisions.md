@@ -9,6 +9,26 @@ Architectural / structural decisions w/ rationale + date.
   - Impact:
 
 ## Log
+- **2026-05-22 — Vocab expansion for disciplines + entry-type expansion**
+  - Decision: Extended closed enums. `workflow`: added previs, look-dev, face-capture, match-move, roto, projection-mapping, creative-coding. `output`: added medical, jewelry, fashion, automotive, event-experiential. `entry_type`: added service, book, hardware, paper. `platform`: added vr.
+  - Why: discipline taxonomy from user covers pre-prod through R&D; verticals (jewelry/fashion/auto/event), books (Brinkmann/Wright/HDRI Handbook), services (Ten24/Volucap), and hardware (Vicon/Bolt/LED panels) all needed first-class slots.
+  - Impact: schema/vocab.yml + schema/entry.schema.json both updated. Backwards-compatible (only additions).
+- **2026-05-22 — Legacy/Defunct subsection added to §12**
+  - Decision: New `legacy-defunct-software` subsection in software-reference. Contains XSI, Softimage|3D, PowerAnimator, 3D Studio DOS, Mental Ray, Shake, Combustion, Toxik, eyeon Fusion, Final Cut Pro 7, Stingray, Lumberyard, Toonz, Animo, Mudbox, Carrara, Bryce, Vue, BodyPaint, etc. Plus archive.org/WinWorldPC/Aminet reference entries. `deprecated: true` flag used where appropriate.
+  - Why: historical software lineage matters for pipeline understanding; user explicitly requested.
+  - Impact: new subdir + yml. Mirrors not used (no obvious topical home).
+- **2026-05-22 — Scientific viz subsection added to §12**
+  - Decision: New `scientific-viz-software` subsection. Molecular (PyMOL, ChimeraX, VMD, Molecular Nodes, mMaya), volumetric/medical (Slicer, ParaView, VTK, Horos, ImageJ/Fiji), astronomy (Celestia, Stellarium, SpaceEngine, NASA Eyes), CFD, GIS (QGIS, CesiumJS, BlenderGIS), dataviz, plus educators (Drew Berry, Janet Iwasa, Clarafi, Brady Johnston).
+  - Why: user explicitly requested PyMOL/ChimeraX and "others"; warrants own bucket.
+  - Impact: new subdir + yml.
+- **2026-05-22 — Pre-production tools subsection added to §08**
+  - Decision: `pre-production-tools` under art-design-visual-storytelling. Storyboard Pro, Storyboarder, FrameForge, Boords, StudioBinder, ShotPro, ShotDeck, Cinetracer, Cine Designer, MM Scheduling, Celtx, Final Draft, Fade In, Highland, WriterDuet, PureRef, Eagle, Milanote, Are.na, FilmGrab, plus channels (LFTScreenplay, Every Frame a Painting, VES, ASC).
+  - Why: discipline taxonomy mapping. No existing home for storyboard/script/previs.
+  - Impact: new subdir + yml.
+- **2026-05-22 — Compositing-learning subsection added to §05**
+  - Decision: `compositing-learning` under vfx-compositing-virtual-production. NukePedia, Hugo's Desk, CompositingMentor, Foundry Learn, Steve Wright, VFX Apprentice, plus canonical books (Wright, Brinkmann, Lanier) and breakdown sites (Befores & Afters, Art of VFX, Cinefex).
+  - Why: comp tutorials and books needed dedicated home.
+  - Impact: new subdir + yml.
 - **2026-05-17 — Local memory system created**
   - Decision: per-project /memory dir alongside global ~/.claude memory.
   - Why: project-scoped persistence, easier to commit/share if desired.

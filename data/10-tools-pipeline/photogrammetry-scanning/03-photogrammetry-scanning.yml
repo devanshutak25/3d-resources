@@ -14,3 +14,533 @@ entries:
         - web
       tech:
         - photogrammetry
+
+  # ---------- HDRI capture / Debevec / stitching ----------
+  - name: Paul Debevec
+    url: https://www.pauldebevec.com/
+    description: Site of the IBL and HDR-from-bracketed papers, Light Probe Image Gallery, Light Stage research history.
+    entry_type: reference
+    best_for: Foundational HDRI and light-stage research
+    readme_tags:
+      - Foundational
+      - HDR/IBL
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Rendering Synthetic Objects into Real Scenes (Debevec, 1998)
+    url: https://www.pauldebevec.com/Research/IBL/
+    description: SIGGRAPH 1998 paper founding image-based lighting.
+    entry_type: paper
+    year: 1998
+    best_for: IBL theory
+    readme_tags:
+      - SIGGRAPH 1998
+      - IBL
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Recovering HDR Radiance Maps (Debevec & Malik, 1997)
+    url: https://www.pauldebevec.com/Research/HDR/
+    description: SIGGRAPH 1997 paper. Original HDR-from-bracketed-exposures recovery method.
+    entry_type: paper
+    year: 1997
+    best_for: HDR merge theory
+    readme_tags:
+      - SIGGRAPH 1997
+      - HDR Merge
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Light Probe Image Gallery
+    url: https://www.pauldebevec.com/Probes/
+    description: Original mirror-ball HDR probes (Grace Cathedral, Uffizi, etc.). Still used in IBL teaching.
+    entry_type: asset-source
+    license: Free
+    best_for: Reference HDR probes
+    tags:
+      tech:
+        - cc0
+    readme_tags:
+      - Mirror-Ball HDRIs
+      - Reference
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: USC ICT Graphics Lab
+    url: https://vgl.ict.usc.edu/
+    description: Home of Light Stage research and digital-human capture papers.
+    entry_type: reference
+    best_for: Light Stage research
+    readme_tags:
+      - Light Stage
+      - Academic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: HDR Shop
+    url: https://www.hdrshop.com/
+    description: Debevec's HDR assembly and panoramic transform tool. Historical software, still downloadable.
+    license: Free
+    entry_type: software
+    best_for: Classic HDR assembly
+    deprecated: true
+    tags:
+      workflow:
+        - lighting
+      platform:
+        - win
+    readme_tags:
+      - Historical
+      - Free
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: PTGui Pro
+    url: https://ptgui.com/
+    description: Industry-standard panorama stitcher. Full HDR/bracketed support, mask painting, viewpoint correction.
+    pricing: ~€169 PTGui, ~€339 Pro
+    license: Paid
+    entry_type: software
+    best_for: Pro panorama stitching for HDRI
+    tags:
+      workflow:
+        - lighting
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Industry Standard
+      - HDR Stitcher
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Hugin
+    url: https://hugin.sourceforge.io/
+    description: Free OSS panorama stitcher built on Panorama Tools.
+    license: Open Source
+    entry_type: software
+    best_for: Free panorama stitching
+    tags:
+      workflow:
+        - lighting
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Free Stitcher
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Picturenaut
+    url: https://www.hdrlabs.com/picturenaut/
+    description: Lightweight free HDR merger by HDR Labs.
+    license: Free
+    entry_type: software
+    best_for: Free HDR merge
+    tags:
+      workflow:
+        - lighting
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Free
+      - HDR Merge
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Luminance HDR
+    url: https://qtpfsgui.sourceforge.net/
+    description: Cross-platform OSS HDR merge and tonemap.
+    license: Open Source
+    entry_type: software
+    best_for: Open-source HDR merge/tonemap
+    tags:
+      workflow:
+        - lighting
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Tonemap
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: HDR Light Studio
+    url: https://www.lightmap.co.uk/
+    description: Interactive HDRI editing and relighting tool for 3D. Bridges to Maya, 3ds Max, Houdini, Cinema 4D, Modo, Blender.
+    license: Paid
+    entry_type: software
+    best_for: HDRI relighting in 3D
+    tags:
+      workflow:
+        - lighting
+        - look-dev
+      output:
+        - film-vfx
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - HDRI Editor
+      - DCC Bridges
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: HDR Labs / sIBL
+    url: http://www.hdrlabs.com/sibl/
+    description: Bernhard Vogl's HDR Labs hub. sIBL spec, Smart IBL archive, capture tutorials.
+    license: Free
+    entry_type: reference
+    best_for: HDRI capture references + sIBL spec
+    readme_tags:
+      - sIBL Spec
+      - Capture Guides
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: "Greg Zaal: Shoot Your Own HDRI"
+    url: https://www.blenderguru.com/tutorials/shoot-your-own-hdri
+    description: End-to-end DSLR HDRI capture tutorial for Blender (Blender Guru).
+    entry_type: tutorial
+    best_for: DSLR HDRI capture
+    tags:
+      workflow:
+        - lighting
+    readme_tags:
+      - Capture
+      - Blender
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: "Book: High Dynamic Range Imaging (Reinhard et al.)"
+    url: https://shop.elsevier.com/books/high-dynamic-range-imaging/reinhard/978-0-12-374914-7
+    description: Reinhard, Heidrich, Debevec, Pattanaik, Ward, Myszkowski. The reference text on HDR imaging.
+    license: Paid
+    entry_type: book
+    best_for: HDR theory canon
+    readme_tags:
+      - Canon Book
+      - HDR Theory
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: "Book: The HDRI Handbook 2.0"
+    url: https://www.hdrlabs.com/book/
+    description: Christian Bloch. Practical HDRI for VFX/photo, paired with sIBL.
+    license: Paid
+    entry_type: book
+    best_for: Practical HDRI workflow
+    readme_tags:
+      - Practical
+      - HDR Labs
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Laser scanning + heritage ----------
+  - name: Leica Cyclone
+    url: https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone
+    description: Point cloud registration and processing for Leica scanners.
+    license: Paid
+    entry_type: software
+    best_for: Leica scan pipeline
+    tags:
+      output:
+        - archviz
+        - scientific-viz
+      platform:
+        - win
+    readme_tags:
+      - Leica
+      - Point Cloud
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: FARO SCENE
+    url: https://www.faro.com/en/Products/Software/SCENE-Software
+    description: Capture and process FARO Focus scan data.
+    license: Paid
+    entry_type: software
+    best_for: FARO Focus pipeline
+    tags:
+      output:
+        - archviz
+        - scientific-viz
+      platform:
+        - win
+    readme_tags:
+      - FARO
+      - Point Cloud
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Trimble RealWorks
+    url: https://geospatial.trimble.com/products/software/trimble-realworks
+    description: Survey-grade point cloud registration and modeling.
+    license: Paid
+    entry_type: software
+    best_for: Survey-grade scan processing
+    tags:
+      output:
+        - archviz
+        - scientific-viz
+      platform:
+        - win
+    readme_tags:
+      - Trimble
+      - Survey
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Autodesk ReCap Pro
+    url: https://www.autodesk.com/products/recap
+    description: Reality capture toolkit for point clouds and photogrammetry.
+    license: Paid
+    entry_type: software
+    best_for: Autodesk reality capture pipeline
+    tags:
+      output:
+        - archviz
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Autodesk
+      - Reality Capture
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Geomagic Wrap
+    url: https://www.oqton.com/geomagic-wrap/
+    description: Convert point clouds to polygon meshes (Oqton, formerly 3D Systems).
+    license: Paid
+    entry_type: software
+    best_for: Point cloud to mesh
+    tags:
+      workflow:
+        - retopo
+      output:
+        - scientific-viz
+      platform:
+        - win
+    readme_tags:
+      - Scan to Mesh
+      - Geomagic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Artec Studio
+    url: https://www.artec3d.com/3d-software/artec-studio
+    description: Capture and alignment software for Artec handheld scanners.
+    license: Paid
+    entry_type: software
+    best_for: Artec handheld scan workflow
+    tags:
+      tech:
+        - photogrammetry
+      platform:
+        - win
+    readme_tags:
+      - Handheld Scanners
+      - Artec
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Pix4D
+    url: https://www.pix4d.com/
+    description: Survey and mapping photogrammetry suite.
+    license: Paid
+    entry_type: software
+    best_for: Drone photogrammetry
+    tags:
+      tech:
+        - photogrammetry
+      output:
+        - archviz
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - cloud
+    readme_tags:
+      - Drone
+      - Mapping
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: OpenDroneMap / WebODM
+    url: https://www.opendronemap.org/
+    description: Open source drone photogrammetry stack.
+    license: Open Source
+    entry_type: software
+    best_for: Open drone photogrammetry
+    tags:
+      tech:
+        - photogrammetry
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Open Source
+      - Drone
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: CyArk
+    url: https://www.cyark.org/
+    description: Heritage site laser scanning archive. Free models for cultural sites worldwide.
+    license: Free
+    entry_type: asset-source
+    best_for: Heritage scan archive
+    tags:
+      output:
+        - scientific-viz
+        - archviz
+    readme_tags:
+      - Heritage Scans
+      - Open Access
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Open Heritage 3D
+    url: https://openheritage3d.org/
+    description: Open scan datasets for heritage sites.
+    license: Free
+    entry_type: asset-source
+    best_for: Heritage datasets
+    readme_tags:
+      - Heritage
+      - Datasets
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Smithsonian 3D
+    url: https://3d.si.edu/
+    description: Public Smithsonian 3D collection.
+    license: Free
+    entry_type: asset-source
+    best_for: Museum 3D scans
+    readme_tags:
+      - Museum
+      - Public
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Stanford Digital Michelangelo
+    url: http://graphics.stanford.edu/projects/mich/
+    description: Foundational large-statue laser scanning project (Marc Levoy).
+    license: Free
+    entry_type: reference
+    best_for: Foundational laser scanning paper
+    readme_tags:
+      - Stanford
+      - Foundational
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Volucap
+    url: https://volucap.com/
+    description: Babelsberg volumetric video studio.
+    license: Paid
+    entry_type: service
+    best_for: Volumetric performance capture (EU)
+    tags:
+      workflow:
+        - mocap
+      output:
+        - film-vfx
+        - xr
+    readme_tags:
+      - Volumetric Studio
+      - Berlin
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: 4DViews
+    url: https://www.4dviews.com/
+    description: Volumetric capture stages and HOLOSYS rigs.
+    license: Paid
+    entry_type: service
+    best_for: Volumetric capture systems + service
+    tags:
+      workflow:
+        - mocap
+      output:
+        - film-vfx
+        - xr
+    readme_tags:
+      - Volumetric Rigs
+      - HOLOSYS
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Metastage
+    url: https://metastage.com/
+    description: LA volumetric capture studio using Microsoft tech.
+    license: Paid
+    entry_type: service
+    best_for: Volumetric performance capture (US)
+    tags:
+      workflow:
+        - mocap
+      output:
+        - film-vfx
+        - xr
+    readme_tags:
+      - Volumetric Studio
+      - LA
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Depthkit
+    url: https://www.depthkit.tv/
+    description: Depth-sensor volumetric capture toolkit.
+    license: Paid
+    entry_type: software
+    best_for: Depth-sensor volumetric capture
+    tags:
+      workflow:
+        - mocap
+      output:
+        - xr
+        - film-vfx
+      platform:
+        - win
+    readme_tags:
+      - Depth Sensor
+      - Volumetric
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Ten24
+    url: https://ten24.info/
+    description: Full-body photogrammetry rig services for games and film.
+    license: Paid
+    entry_type: service
+    best_for: Full-body scan service
+    tags:
+      tech:
+        - photogrammetry
+      output:
+        - games
+        - film-vfx
+    readme_tags:
+      - Full-Body Scan
+      - Service
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Eisko
+    url: https://www.eisko.com/
+    description: Digital human scanning and asset service.
+    license: Paid
+    entry_type: service
+    best_for: Digital human scan + asset
+    tags:
+      output:
+        - film-vfx
+        - games
+    readme_tags:
+      - Digital Humans
+      - Service
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Infinite-Realities (Triple-I)
+    url: https://ir-ltd.net/
+    description: Photogrammetry and light-stage rentals for film and games.
+    license: Paid
+    entry_type: service
+    best_for: Scan + light stage rental
+    tags:
+      output:
+        - film-vfx
+        - games
+    readme_tags:
+      - Scan Service
+      - Light Stage
+    url_last_verified: '2026-05-22'
+    url_status: ok

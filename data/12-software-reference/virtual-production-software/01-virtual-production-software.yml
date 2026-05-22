@@ -111,3 +111,389 @@ entries:
       - Show Control
     url_last_verified: '2026-05-04'
     url_status: ok
+
+  # ---------- VP additions ----------
+  - name: Aximmetry
+    url: https://aximmetry.com/
+    description: Virtual production and broadcast compositor with Unreal integration. Free Community tier.
+    license: Freemium
+    entry_type: software
+    best_for: Indie/community VP compositor
+    tags:
+      output:
+        - broadcast
+        - event-experiential
+      platform:
+        - win
+      tech:
+        - real-time
+    readme_tags:
+      - Free Tier
+      - Unreal
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Brainstorm InfinitySet
+    url: https://www.brainstorm3d.com/products/infinityset/
+    description: Virtual set and AR for broadcast.
+    license: Paid
+    entry_type: software
+    best_for: Broadcast virtual sets
+    tags:
+      output:
+        - broadcast
+      platform:
+        - win
+      tech:
+        - real-time
+    readme_tags:
+      - Virtual Sets
+      - AR
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Vu Studios
+    url: https://www.vu.app/
+    description: Turnkey virtual production stages and tooling.
+    license: Paid
+    entry_type: service
+    best_for: VP stages and end-to-end service
+    tags:
+      output:
+        - film-vfx
+        - broadcast
+        - event-experiential
+    readme_tags:
+      - VP Stages
+      - Service
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ARwall
+    url: https://www.arwall.co/
+    description: LED virtual production stages and ARFX Pro plugin.
+    license: Paid
+    entry_type: software
+    best_for: Indie LED VP
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+    readme_tags:
+      - Indie VP
+      - LED Stages
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Camera tracking ----------
+  - name: Mo-Sys StarTracker
+    url: https://www.mo-sys.com/products/camera-tracking/startracker/
+    description: Ceiling-star optical camera tracking system for VP and broadcast.
+    license: Paid
+    entry_type: hardware
+    best_for: Ceiling-star camera tracking
+    tags:
+      workflow:
+        - match-move
+      output:
+        - film-vfx
+        - broadcast
+    readme_tags:
+      - Camera Tracking
+      - Mo-Sys
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Stype RedSpy / StypeKit
+    url: https://stype.tv/
+    description: Camera tracking system for VP and broadcast.
+    license: Paid
+    entry_type: hardware
+    best_for: Hybrid camera tracking
+    tags:
+      workflow:
+        - match-move
+      output:
+        - film-vfx
+        - broadcast
+    readme_tags:
+      - Camera Tracking
+      - Stype
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Ncam Reality
+    url: https://www.ncam-tech.com/
+    description: Markerless on-set camera tracking.
+    license: Paid
+    entry_type: hardware
+    best_for: Markerless camera tracking
+    tags:
+      workflow:
+        - match-move
+      output:
+        - film-vfx
+        - broadcast
+    readme_tags:
+      - Markerless
+      - On-Set
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ZEISS CinCraft Scenario
+    url: https://www.zeiss.com/consumer-products/us/cincraft/scenario.html
+    description: Lens-aware camera tracking system for VP.
+    license: Paid
+    entry_type: hardware
+    best_for: Lens-aware tracking
+    tags:
+      workflow:
+        - match-move
+      output:
+        - film-vfx
+    readme_tags:
+      - Lens-aware
+      - ZEISS
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Lightcraft Previzion / Jetset
+    url: https://lightcrafttech.com/
+    description: On-set camera tracking and previs platform.
+    license: Paid
+    entry_type: hardware
+    best_for: On-set tracking + previs
+    tags:
+      workflow:
+        - match-move
+        - previs
+      output:
+        - film-vfx
+    readme_tags:
+      - On-Set Previs
+      - Lightcraft
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- LED volume processors ----------
+  - name: Brompton Tessera
+    url: https://www.bromptontech.com/
+    description: Industry-standard LED processors (SX40, S8) for VP and concerts.
+    license: Paid
+    entry_type: hardware
+    best_for: LED wall image processing
+    tags:
+      output:
+        - film-vfx
+        - event-experiential
+    readme_tags:
+      - LED Processor
+      - Industry Std
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Megapixel Helios
+    url: https://megapixelvr.com/
+    description: HDR LED processing platform for virtual production.
+    license: Paid
+    entry_type: hardware
+    best_for: HDR LED processing
+    tags:
+      output:
+        - film-vfx
+    readme_tags:
+      - HDR LED
+      - Megapixel
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ROE Visual
+    url: https://roevisual.com/
+    description: Black Pearl / Ruby LED panels widely used in VP volumes.
+    license: Paid
+    entry_type: hardware
+    best_for: VP-grade LED panels
+    tags:
+      output:
+        - film-vfx
+        - event-experiential
+    readme_tags:
+      - LED Panels
+      - VP
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Mocap hardware ----------
+  - name: Vicon
+    url: https://www.vicon.com/
+    description: Optical motion capture systems. Industry standard.
+    license: Paid
+    entry_type: hardware
+    best_for: Pro optical mocap
+    tags:
+      workflow:
+        - mocap
+      output:
+        - film-vfx
+        - games
+    readme_tags:
+      - Optical Mocap
+      - Industry Std
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: OptiTrack
+    url: https://optitrack.com/
+    description: Motive software and optical mocap cameras.
+    license: Paid
+    entry_type: hardware
+    best_for: Optical mocap (mid-tier)
+    tags:
+      workflow:
+        - mocap
+        - match-move
+      output:
+        - film-vfx
+        - games
+        - xr
+    readme_tags:
+      - Optical Mocap
+      - Motive
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Xsens MVN (Movella)
+    url: https://www.movella.com/products/motion-capture
+    description: IMU-based inertial full-body motion capture suit.
+    license: Paid
+    entry_type: hardware
+    best_for: Inertial full-body mocap
+    tags:
+      workflow:
+        - mocap
+      output:
+        - film-vfx
+        - games
+    readme_tags:
+      - IMU Suit
+      - Movella
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Rokoko Smartsuit Pro
+    url: https://www.rokoko.com/
+    description: Affordable inertial mocap suit; face/gloves available.
+    license: Paid
+    entry_type: hardware
+    best_for: Indie/mid-tier mocap
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+    readme_tags:
+      - IMU Suit
+      - Affordable
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Sony Mocopi
+    url: https://www.sony.net/Products/mocopi-dev/en/
+    description: Six-sensor mobile mocap system.
+    license: Paid
+    entry_type: hardware
+    best_for: Mobile mocap
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - xr
+    readme_tags:
+      - Mobile Mocap
+      - 6-Sensor
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Manus
+    url: https://www.manus-meta.com/
+    description: Motion capture and VR finger tracking gloves.
+    license: Paid
+    entry_type: hardware
+    best_for: Finger/hand mocap
+    tags:
+      workflow:
+        - mocap
+      output:
+        - film-vfx
+        - xr
+    readme_tags:
+      - Mocap Gloves
+      - VR
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: StretchSense
+    url: https://stretchsense.com/
+    description: Soft-sensor mocap gloves for hands.
+    license: Paid
+    entry_type: hardware
+    best_for: Soft-sensor hand mocap
+    tags:
+      workflow:
+        - mocap
+      output:
+        - film-vfx
+    readme_tags:
+      - Soft Sensor
+      - Hands
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Faceware
+    url: https://facewaretech.com/
+    description: Head-mounted cameras plus Studio/Analyzer software for facial performance capture.
+    license: Paid
+    entry_type: hardware
+    best_for: Facial performance capture
+    tags:
+      workflow:
+        - face-capture
+      output:
+        - film-vfx
+        - games
+    readme_tags:
+      - Face Cap HW + SW
+      - Pro
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Motion control rigs ----------
+  - name: Mark Roberts Motion Control (Bolt / Milo / Cyclops)
+    url: https://www.mrmoco.com/
+    description: Bolt high-speed, Milo, Cyclops, and Kira MoCo arms; Unreal Engine integration for VP.
+    license: Paid
+    entry_type: hardware
+    best_for: High-speed motion control
+    tags:
+      workflow:
+        - previs
+        - match-move
+      output:
+        - film-vfx
+        - broadcast
+    readme_tags:
+      - Motion Control
+      - Bolt
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Mocap software gap ----------
+  - name: MotionBuilder
+    url: https://www.autodesk.com/products/motionbuilder
+    description: Autodesk real-time character animation and mocap editing platform.
+    license: Paid
+    entry_type: software
+    best_for: Mocap cleanup + retarget
+    tags:
+      workflow:
+        - mocap
+        - animation
+        - rigging
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Industry Std
+      - Mocap Cleanup
+    url_last_verified: '2026-05-22'
+    url_status: ok

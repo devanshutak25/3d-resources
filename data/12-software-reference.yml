@@ -107,6 +107,16 @@ subsections:
     description: Reference, scattering, simulation, and specialty 3D utilities.
     chunks: 1
     mirror_into: tools-pipeline-utilities
+
+  - slug: scientific-viz-software
+    title: Scientific & Medical Visualization Software
+    description: Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools — plus DCC bridges and educators.
+    chunks: 1
+
+  - slug: legacy-defunct-software
+    title: "Software Reference: Legacy & Defunct"
+    description: Historically significant 3D, VFX, rendering, and post software that is discontinued, sunset, or archival.
+    chunks: 1
   - slug: ai-image-software
     title: AI Image & Texture Generation Software
     description: AI image generation and AI texture/material generation tools.

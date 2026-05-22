@@ -216,3 +216,502 @@ entries:
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-audio-middleware
+
+  # ---------- DAWs ----------
+  - name: Ableton Live
+    url: https://www.ableton.com/
+    description: Session and arrangement DAW. Standard for electronic music and live performance.
+    pricing: Intro $99 / Standard $439 / Suite $749
+    license: Paid
+    entry_type: software
+    best_for: Electronic music + live
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Electronic Std
+      - Live
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: FL Studio
+    url: https://www.image-line.com/
+    description: Pattern-based DAW with lifetime free updates.
+    pricing: From $99
+    license: Paid
+    entry_type: software
+    best_for: Pattern-based production
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Lifetime Updates
+      - Pattern DAW
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Logic Pro
+    url: https://www.apple.com/logic-pro/
+    description: Apple pro DAW for macOS and iPad.
+    pricing: $199.99 perpetual (Mac) / $4.99/mo (iPad)
+    license: Paid
+    entry_type: software
+    best_for: macOS pro DAW
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - mac
+        - ipad
+    readme_tags:
+      - Apple
+      - macOS
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Pro Tools
+    url: https://www.avid.com/pro-tools
+    description: Industry standard for post-production audio mixing and finishing.
+    pricing: From $9.99/mo (Studio $34.99/mo, Ultimate $99/mo)
+    license: Paid
+    entry_type: software
+    best_for: Audio post mixing/finishing
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Industry Standard
+      - Post Mixing
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Studio One
+    url: https://www.presonus.com/products/Studio-One
+    description: PreSonus drag-flow DAW.
+    license: Paid
+    entry_type: software
+    best_for: Modern drag-flow DAW
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - PreSonus
+      - Drag Workflow
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Cubase
+    url: https://www.steinberg.net/cubase/
+    description: Steinberg DAW with strong MIDI and scoring.
+    license: Paid
+    entry_type: software
+    best_for: MIDI/scoring DAW
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Steinberg
+      - MIDI/Scoring
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Bitwig Studio
+    url: https://www.bitwig.com/
+    description: DAW with deep modular Grid synthesis engine.
+    license: Paid
+    entry_type: software
+    best_for: Modular DAW
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Modular Grid
+      - Cross-Platform
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Ardour
+    url: https://ardour.org/
+    description: OSS multitrack DAW.
+    license: Open Source
+    entry_type: software
+    best_for: Free multitrack DAW
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - GPL
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: LMMS
+    url: https://lmms.io/
+    description: Free FL-style DAW, cross-platform.
+    license: Open Source
+    entry_type: software
+    best_for: Free FL-style production
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - FL-style
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Cakewalk by BandLab
+    url: https://www.bandlab.com/products/cakewalk
+    description: Full Sonar successor, free on Windows.
+    license: Free
+    entry_type: software
+    best_for: Free Windows DAW
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+    readme_tags:
+      - Free
+      - Windows
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Modular / livecoding / creative ----------
+  - name: VCV Rack
+    url: https://vcvrack.com/
+    description: Open-source Eurorack modular synthesizer emulator. Free core; paid Pro and premium modules.
+    pricing: Free core / $149 Pro
+    license: Open Source
+    entry_type: software
+    best_for: Software modular synthesis
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Modular Synth
+      - Eurorack
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Pure Data (Pd)
+    url: https://puredata.info/
+    description: Open-source visual programming environment for audio, MIDI, and multimedia.
+    license: Open Source
+    entry_type: software
+    best_for: Visual DSP patching
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Visual DSP
+      - BSD
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Max/MSP (Cycling '74)
+    url: https://cycling74.com/products/max
+    description: Visual patcher for audio, MIDI, and video (Jitter).
+    license: Paid
+    entry_type: software
+    best_for: Pro visual DSP/multimedia
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Visual Patcher
+      - Cycling 74
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: SuperCollider
+    url: https://supercollider.github.io/
+    description: Server-based audio synthesis and livecoding language.
+    license: Open Source
+    entry_type: software
+    best_for: Algorithmic synthesis + livecoding
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Livecoding
+      - GPL
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Sonic Pi
+    url: https://sonic-pi.net/
+    description: Code-based music livecoding environment, education-friendly.
+    license: Open Source
+    entry_type: software
+    best_for: Livecoding music education
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+    readme_tags:
+      - Livecoding
+      - Education
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: TidalCycles
+    url: https://tidalcycles.org/
+    description: Haskell-based pattern livecoding for algoraves.
+    license: Open Source
+    entry_type: software
+    best_for: Pattern-based livecoding
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Algoraves
+      - Pattern
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Strudel
+    url: https://strudel.cc/
+    description: Browser TidalCycles port (JS).
+    license: Open Source
+    entry_type: software
+    best_for: Browser pattern livecoding
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - web
+    readme_tags:
+      - Browser
+      - Tidal Port
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Sound design / SFX / plugins ----------
+  - name: iZotope RX
+    url: https://www.izotope.com/en/products/rx.html
+    description: Industry-standard audio restoration suite.
+    pricing: From $399
+    license: Paid
+    entry_type: software
+    best_for: Audio repair/restoration
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Audio Repair
+      - Industry Std
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: FabFilter Pro Suite
+    url: https://www.fabfilter.com/
+    description: Pro EQ, compressor, reverb, and limiter plugins (Pro-Q, Pro-L).
+    license: Paid
+    entry_type: software
+    best_for: Pro mixing/mastering plugins
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Pro Plugins
+      - Mixing
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Krotos
+    url: https://www.krotosaudio.com/
+    description: Performance-driven foley and monster vox plugins (Reformer, Dehumaniser).
+    license: Paid
+    entry_type: software
+    best_for: Foley + creature sound
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Foley
+      - Creature Vox
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Sound Particles
+    url: https://soundparticles.com/
+    description: CGI-style 3D sound design with thousands of simultaneous sources. Big in immersive/film audio.
+    license: Paid
+    entry_type: software
+    best_for: 3D sound design
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - xr
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - 3D Sound
+      - Immersive
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: GameSynth (Tsugi)
+    url: https://tsugi-studio.com/web/en/products-gamesynth.html
+    description: Node-based procedural SFX generator for games.
+    license: Paid
+    entry_type: software
+    best_for: Procedural game SFX
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - win
+    readme_tags:
+      - Procedural SFX
+      - Games
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Spatial audio ----------
+  - name: Dolby Atmos Renderer
+    url: https://professional.dolby.com/
+    description: Reference Dolby Atmos production renderer.
+    license: Paid
+    entry_type: software
+    best_for: Reference Atmos production
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Atmos
+      - Reference
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Flux Spat Revolution
+    url: https://www.flux.audio/project/spat-revolution/
+    description: IRCAM-derived object-based spatializer for immersive mixing.
+    license: Paid
+    entry_type: software
+    best_for: Object-based spatial mixing
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - xr
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - IRCAM
+      - Spatial
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Resonance Audio
+    url: https://resonance-audio.github.io/
+    description: Google's open-source ambisonic spatial audio SDK.
+    license: Open Source
+    entry_type: reference
+    best_for: Ambisonic SDK
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - xr
+        - games
+    readme_tags:
+      - Google
+      - Apache 2.0
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Stylize / misc ----------
+  - name: FotoSketcher
+    url: https://fotosketcher.com/
+    description: Windows freeware that converts photos to sketch, painting, and pastel renders. Batchable.
+    license: Free
+    entry_type: software
+    best_for: Quick stylize batches
+    tags:
+      output:
+        - illustration
+      platform:
+        - win
+    readme_tags:
+      - Freeware
+      - Photo Stylize
+    url_last_verified: '2026-05-22'
+    url_status: ok

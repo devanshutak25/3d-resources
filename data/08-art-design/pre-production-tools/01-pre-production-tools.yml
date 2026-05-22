@@ -1,0 +1,502 @@
+entries:
+  # ---------- Storyboarding ----------
+  - name: Storyboard Pro (Toon Boom)
+    url: https://www.toonboom.com/products/storyboardpro
+    description: Industry-standard storyboarding with animatic, camera, and audio timeline.
+    license: Paid
+    entry_type: software
+    best_for: Pro storyboard + animatic
+    tags:
+      workflow:
+        - storyboard
+        - previs
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Industry Std
+      - Storyboard
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Storyboarder (Wonder Unit)
+    url: https://wonderunit.com/storyboarder/
+    description: Free, fast sketch-first boarding tool with Shot Generator.
+    license: Open Source
+    entry_type: software
+    best_for: Free sketch-first storyboarding
+    tags:
+      workflow:
+        - storyboard
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Free
+      - MIT
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: FrameForge Storyboard Studio
+    url: https://www.frameforge.com/
+    description: 3D previs/storyboard hybrid with accurate lens and camera simulation.
+    license: Paid
+    entry_type: software
+    best_for: 3D techvis-aware storyboarding
+    tags:
+      workflow:
+        - storyboard
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - 3D Storyboard
+      - Lens-Accurate
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Boords
+    url: https://boords.com/
+    description: Browser storyboard, animatic, and script sync for teams.
+    license: Paid
+    entry_type: software
+    best_for: Team browser storyboarding
+    tags:
+      workflow:
+        - storyboard
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Browser
+      - Team
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: StudioBinder
+    url: https://www.studiobinder.com/
+    description: Cloud production suite. Script breakdown, shotlists, storyboards, call sheets.
+    license: Paid
+    entry_type: software
+    best_for: Full pre-production suite
+    tags:
+      workflow:
+        - storyboard
+        - previs
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Pre-Prod Suite
+      - Cloud
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ShotPro
+    url: https://shotprofessional.com/
+    description: iOS and desktop 3D storyboard and previs.
+    license: Paid
+    entry_type: software
+    best_for: 3D iOS storyboarding
+    tags:
+      workflow:
+        - storyboard
+        - previs
+      platform:
+        - ios
+        - ipad
+        - mac
+        - win
+    readme_tags:
+      - iOS
+      - 3D Storyboard
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ShotDeck
+    url: https://shotdeck.com/
+    description: Searchable film still library for storyboards and references.
+    license: Paid
+    entry_type: reference
+    best_for: Film-still reference library
+    tags:
+      workflow:
+        - reference
+        - storyboard
+    readme_tags:
+      - Film Stills
+      - Subscription
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Previs / techvis ----------
+  - name: Cinetracer
+    url: https://www.cinetracer.com/
+    description: Real-time cinematography simulation on Unreal Engine. Lights, lenses, cameras.
+    license: Paid
+    entry_type: software
+    best_for: Pre-shoot lens/lighting blocking
+    tags:
+      workflow:
+        - previs
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - real-time
+    readme_tags:
+      - Cinematography Sim
+      - Unreal-based
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Cine Designer (C4D)
+    url: https://cinedesigner.tv/
+    description: Cinema 4D previs and techvis plugin for lights, lenses, set pieces.
+    license: Paid
+    entry_type: plugin
+    best_for: C4D previs/techvis
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - C4D Plugin
+      - Techvis
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: The Third Floor
+    url: https://thethirdfloorinc.com/
+    description: Previs and postvis studio blog with breakdowns from major features.
+    entry_type: channel
+    best_for: Previs case studies
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+    readme_tags:
+      - Previs Studio
+      - Case Studies
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Halon Entertainment
+    url: https://halon.com/
+    description: Previs, VP, and virtual scouting case studies and tooling writeups.
+    entry_type: channel
+    best_for: Previs/VP writeups
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+    readme_tags:
+      - Previs/VP
+      - Writeups
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Magnopus
+    url: https://www.magnopus.com/
+    description: VP and XR studio. Tooling and case studies.
+    entry_type: channel
+    best_for: VP/XR case studies
+    tags:
+      output:
+        - film-vfx
+        - xr
+    readme_tags:
+      - VP/XR
+      - Studio Blog
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Script / breakdown ----------
+  - name: Movie Magic Scheduling
+    url: https://www.ep.com/movie-magic-scheduling/
+    description: Industry-standard scheduling and stripboards.
+    license: Paid
+    entry_type: software
+    best_for: Film scheduling
+    tags:
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Industry Std
+      - Schedule
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Celtx
+    url: https://www.celtx.com/
+    description: Browser script + breakdown + pre-prod.
+    license: Paid
+    entry_type: software
+    best_for: Browser pre-prod
+    tags:
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Browser
+      - Pre-prod
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Final Draft
+    url: https://www.finaldraft.com/
+    description: Industry-standard screenwriting with breakdown tagging.
+    license: Paid
+    entry_type: software
+    best_for: Pro screenwriting
+    tags:
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Industry Std
+      - Screenwriting
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Fade In
+    url: https://www.fadeinpro.com/
+    description: Pro screenwriting at a lower price point.
+    license: Paid
+    entry_type: software
+    best_for: Affordable pro screenwriting
+    tags:
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Screenwriting
+      - Affordable
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Highland
+    url: https://highland2.app/
+    description: Fountain-native Mac screenwriter.
+    license: Paid
+    entry_type: software
+    best_for: Mac Fountain screenwriting
+    tags:
+      platform:
+        - mac
+    readme_tags:
+      - Fountain
+      - Mac
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: WriterDuet
+    url: https://writerduet.com/
+    description: Realtime collaborative screenwriting in the browser.
+    license: Freemium
+    entry_type: software
+    best_for: Collab screenwriting
+    tags:
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Collab
+      - Browser
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Reference / moodboard ----------
+  - name: PureRef
+    url: https://www.pureref.com/
+    description: Floating reference canvas. Standard for artists.
+    license: Freemium
+    entry_type: software
+    best_for: Reference canvas
+    tags:
+      workflow:
+        - reference
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Pay What You Want
+      - Std Artist Tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Eagle
+    url: https://eagle.cool/
+    description: Local image and video asset manager with tags.
+    license: Paid
+    entry_type: software
+    best_for: Local reference DAM
+    tags:
+      workflow:
+        - reference
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Local DAM
+      - Tags
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Kuadro
+    url: https://kruelgames.com/tools/kuadro/
+    description: Minimal floating image viewer for references.
+    license: Free
+    entry_type: software
+    best_for: Lightweight ref viewer
+    tags:
+      workflow:
+        - reference
+      platform:
+        - win
+    readme_tags:
+      - Free
+      - Lightweight
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Milanote
+    url: https://milanote.com/
+    description: Visual notes and moodboards for creative planning.
+    license: Freemium
+    entry_type: software
+    best_for: Visual moodboards
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Moodboards
+      - Cloud
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Are.na
+    url: https://www.are.na/
+    description: Collaborative visual research blocks and channels.
+    license: Freemium
+    entry_type: community
+    best_for: Visual research network
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+    readme_tags:
+      - Research
+      - Network
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: FilmGrab
+    url: https://film-grab.com/
+    description: Curated film stills archive. Free.
+    entry_type: inspiration
+    best_for: Free film-still reference
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+    readme_tags:
+      - Free
+      - Film Stills
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Shot.Cafe
+    url: https://shot.cafe/
+    description: Searchable film and TV frames.
+    entry_type: inspiration
+    best_for: Frame search
+    tags:
+      workflow:
+        - reference
+      platform:
+        - web
+    readme_tags:
+      - Free
+      - Search
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Direction theory channels ----------
+  - name: Lessons from the Screenplay
+    url: https://www.youtube.com/@LFTScreenplay
+    description: Story and screenplay analysis on YouTube.
+    entry_type: channel
+    best_for: Story analysis
+    tags:
+      output:
+        - film-vfx
+    readme_tags:
+      - YouTube
+      - Story Analysis
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Every Frame a Painting
+    url: https://www.youtube.com/@everyframeapainting
+    description: Visual-language essays (archive).
+    entry_type: channel
+    best_for: Visual language essays
+    tags:
+      output:
+        - film-vfx
+    readme_tags:
+      - Archive
+      - Visual Essays
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: StudioBinder Blog
+    url: https://www.studiobinder.com/blog/
+    description: Filmmaking craft articles and breakdowns.
+    entry_type: channel
+    best_for: Filmmaking craft articles
+    tags:
+      output:
+        - film-vfx
+    readme_tags:
+      - Free
+      - Filmmaking Craft
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- On-set VFX sup ----------
+  - name: VES (Visual Effects Society)
+    url: https://www.vesglobal.org/
+    description: VES handbook, talks, and methodology resources for on-set VFX.
+    entry_type: reference
+    best_for: On-set VFX methodology
+    tags:
+      output:
+        - film-vfx
+    readme_tags:
+      - Handbook
+      - On-Set
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ASC Magazine
+    url: https://theasc.com/magazine
+    description: American Society of Cinematographers magazine. Cinematography and on-set VFX features.
+    entry_type: reference
+    best_for: DP + VFX-sup features
+    tags:
+      output:
+        - film-vfx
+    readme_tags:
+      - Cinematography
+      - Industry
+    url_last_verified: '2026-05-22'
+    url_status: ok

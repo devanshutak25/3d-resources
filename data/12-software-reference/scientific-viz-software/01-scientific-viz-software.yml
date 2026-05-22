@@ -1,0 +1,875 @@
+entries:
+  # ---------- Molecular / Structural Biology ----------
+  - name: PyMOL
+    url: https://pymol.org/
+    description: Python-scriptable molecular viewer. Industry standard for protein figures and animations.
+    pricing: Open Source fork free / Schrödinger commercial license
+    license: Mixed
+    entry_type: software
+    best_for: Protein/molecule visualization
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+        - medical
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Molecular
+      - Python
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: UCSF ChimeraX
+    url: https://www.cgl.ucsf.edu/chimerax/
+    description: UCSF next-gen molecular visualization with VR support. Replaces Chimera.
+    license: Free
+    entry_type: software
+    best_for: Molecular viz + VR
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+        - medical
+      platform:
+        - win
+        - mac
+        - linux
+        - vr
+    readme_tags:
+      - Academic
+      - VR-ready
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: UCSF Chimera
+    url: https://www.cgl.ucsf.edu/chimera/
+    description: Legacy UCSF molecular viewer. Still used for some plugins; succeeded by ChimeraX.
+    license: Free
+    entry_type: software
+    best_for: Legacy molecular workflows
+    deprecated: true
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Legacy
+      - Academic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: VMD
+    url: https://www.ks.uiuc.edu/Research/vmd/
+    description: UIUC molecular dynamics trajectory visualizer.
+    license: Free
+    entry_type: software
+    best_for: MD trajectory visualization
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Molecular Dynamics
+      - Academic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Jmol / JSmol
+    url: https://jmol.sourceforge.net/
+    description: Java/JS molecular viewer suitable for web embedding.
+    license: Open Source
+    entry_type: software
+    best_for: Web-embeddable molecule viewer
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+    readme_tags:
+      - Web Embed
+      - Java
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Mol*
+    url: https://molstar.org/
+    description: RCSB PDB's WebGL molecular viewer, successor to NGL.
+    license: Open Source
+    entry_type: software
+    best_for: Web molecular viz
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - WebGL
+      - RCSB PDB
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: NGL Viewer
+    url: https://nglviewer.org/
+    description: WebGL molecular viewer, Jupyter-friendly.
+    license: Open Source
+    entry_type: software
+    best_for: Jupyter molecular viz
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - WebGL
+      - Jupyter
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Avogadro
+    url: https://avogadro.cc/
+    description: Cross-platform chemistry builder and editor.
+    license: Open Source
+    entry_type: software
+    best_for: Chemistry building
+    tags:
+      workflow:
+        - modeling
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Chemistry
+      - Educational
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Molecular Nodes
+    url: https://bradyajohnston.github.io/MolecularNodes/
+    description: Brady Johnston's Blender add-on for molecular visualization. Geometry-nodes driven; current go-to for Blender molecular work.
+    license: Open Source
+    entry_type: plugin
+    best_for: Molecular animation in Blender
+    tags:
+      workflow:
+        - rendering
+        - animation
+      output:
+        - scientific-viz
+      tech:
+        - blender-addon
+    readme_tags:
+      - Blender Molecular
+      - Geo Nodes
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Molecular Maya (mMaya)
+    url: https://clarafi.com/tools/mmaya/
+    description: Digizyme's Maya plugin for molecular modeling and animation.
+    license: Paid
+    entry_type: plugin
+    best_for: Molecular animation in Maya
+    tags:
+      workflow:
+        - rendering
+        - animation
+      output:
+        - scientific-viz
+    readme_tags:
+      - Maya Plugin
+      - Molecular
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ePMV
+    url: http://epmv.scripps.edu/
+    description: Embedded Python Molecular Viewer. Brings PyMOL/Chimera into Maya, Blender, and C4D.
+    license: Free
+    entry_type: plugin
+    best_for: PyMOL inside DCCs
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      tech:
+        - blender-addon
+    readme_tags:
+      - DCC Bridge
+      - Academic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: BioBlender
+    url: http://www.bioblender.org/
+    description: Blender add-on for biological molecule visualization.
+    license: Open Source
+    entry_type: plugin
+    best_for: Biology in Blender
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      tech:
+        - blender-addon
+    readme_tags:
+      - Blender Biology
+      - Open Source
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: YASARA
+    url: https://www.yasara.org/
+    description: Molecular modeling and simulation suite. Free view-only, paid full versions.
+    license: Freemium
+    entry_type: software
+    best_for: Molecular dynamics + viz
+    tags:
+      workflow:
+        - simulation
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - MD + Viz
+      - Commercial
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Discovery Studio Visualizer
+    url: https://discover.3ds.com/discovery-studio-visualizer-download
+    description: BIOVIA pharma-oriented molecular viewer. Free download.
+    license: Free
+    entry_type: software
+    best_for: Pharma molecular viewing
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Pharma
+      - Free
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: MolView
+    url: https://molview.org/
+    description: Web-based molecule sketcher and 3D viewer.
+    license: Open Source
+    entry_type: software
+    best_for: Browser molecule sketching
+    tags:
+      workflow:
+        - modeling
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Browser
+      - Educational
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Volumetric / Medical Imaging ----------
+  - name: 3D Slicer
+    url: https://www.slicer.org/
+    description: Medical image computing platform. Segmentation, 3D reconstruction, surgical planning.
+    license: Open Source
+    entry_type: software
+    best_for: Medical image segmentation
+    tags:
+      workflow:
+        - modeling
+        - rendering
+      output:
+        - medical
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Medical Imaging
+      - Open Source
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ITK-SNAP
+    url: http://www.itksnap.org/
+    description: Semi-automatic medical image segmentation.
+    license: Open Source
+    entry_type: software
+    best_for: Medical segmentation
+    tags:
+      workflow:
+        - modeling
+      output:
+        - medical
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Medical
+      - Segmentation
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ParaView
+    url: https://www.paraview.org/
+    description: Kitware large-scale scientific visualization, VTK frontend.
+    license: Open Source
+    entry_type: software
+    best_for: Large-scale scientific viz
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Kitware
+      - Large Data
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: VTK
+    url: https://vtk.org/
+    description: Visualization Toolkit. C++/Python library powering ParaView and Slicer.
+    license: Open Source
+    entry_type: reference
+    best_for: Scientific viz library
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+    readme_tags:
+      - Library
+      - C++/Python
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Horos
+    url: https://horosproject.org/
+    description: Open DICOM viewer for macOS. OsiriX fork.
+    license: Open Source
+    entry_type: software
+    best_for: Mac DICOM viewing
+    tags:
+      output:
+        - medical
+      platform:
+        - mac
+    readme_tags:
+      - DICOM
+      - Mac
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ImageJ / Fiji
+    url: https://fiji.sc/
+    description: Microscopy image analysis with 3D viewer plugins.
+    license: Open Source
+    entry_type: software
+    best_for: Microscopy + bioimage analysis
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+        - medical
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Microscopy
+      - Plugins
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Drishti
+    url: https://github.com/nci/drishti
+    description: ANU volume exploration and presentation tool.
+    license: Open Source
+    entry_type: software
+    best_for: Volume rendering / presentation
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+        - medical
+    readme_tags:
+      - Volume
+      - Academic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: VolView
+    url: https://volview.kitware.com/
+    description: Browser-based DICOM volume renderer (Kitware).
+    license: Open Source
+    entry_type: software
+    best_for: Browser DICOM volume
+    tags:
+      output:
+        - medical
+      platform:
+        - web
+    readme_tags:
+      - Browser
+      - DICOM
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Inviwo
+    url: https://inviwo.org/
+    description: Interactive Visualization Workshop. Node-graph scientific viz.
+    license: Open Source
+    entry_type: software
+    best_for: Node-based scientific viz
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Node Graph
+      - Academic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Astronomy / Space ----------
+  - name: Celestia
+    url: https://celestia.space/
+    description: Real-time 3D space simulator.
+    license: Open Source
+    entry_type: software
+    best_for: Educational space sim
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Space Sim
+      - Educational
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Stellarium
+    url: https://stellarium.org/
+    description: Planetarium for desktop and web.
+    license: Open Source
+    entry_type: software
+    best_for: Sky simulation
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+    readme_tags:
+      - Planetarium
+      - Free
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: SpaceEngine
+    url: https://spaceengine.org/
+    description: Procedural universe. Used by VFX teams for plates and reference.
+    pricing: ~$25 perpetual
+    license: Paid
+    entry_type: software
+    best_for: Procedural universe simulation
+    tags:
+      output:
+        - scientific-viz
+        - film-vfx
+      platform:
+        - win
+    readme_tags:
+      - Procedural Universe
+      - VFX Plates
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Universe Sandbox
+    url: https://universesandbox.com/
+    description: Physics-based space sandbox.
+    pricing: ~$30 perpetual
+    license: Paid
+    entry_type: software
+    best_for: Physics-based astrophysics demos
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Physics
+      - Education
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Gaia Sky
+    url: https://gaiasky.space/
+    description: ESA Gaia mission 3D star explorer.
+    license: Open Source
+    entry_type: software
+    best_for: Gaia star catalog exploration
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+        - vr
+    readme_tags:
+      - ESA Gaia
+      - VR
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: NASA Eyes
+    url: https://eyes.nasa.gov/
+    description: Browser 3D solar system and mission explorer.
+    license: Free
+    entry_type: software
+    best_for: NASA mission exploration
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - NASA
+      - Browser
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: WorldWide Telescope
+    url: https://worldwidetelescope.org/
+    description: Astronomy visualization with sky and 3D modes.
+    license: Open Source
+    entry_type: software
+    best_for: Astronomy education
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - web
+    readme_tags:
+      - Astronomy
+      - MIT
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: yt project
+    url: https://yt-project.org/
+    description: Python volumetric astrophysics analysis library.
+    license: Open Source
+    entry_type: reference
+    best_for: Astrophysics analysis in Python
+    tags:
+      output:
+        - scientific-viz
+    readme_tags:
+      - Python Library
+      - Astrophysics
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- CFD / Engineering ----------
+  - name: Tecplot 360
+    url: https://tecplot.com/
+    description: CFD post-processing standard.
+    license: Paid
+    entry_type: software
+    best_for: CFD post-processing
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - CFD
+      - Engineering
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Ansys EnSight
+    url: https://www.ansys.com/products/fluids/ansys-ensight
+    description: Large-dataset CFD/CAE visualization.
+    license: Paid
+    entry_type: software
+    best_for: Large CFD datasets
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Ansys
+      - Large Data
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: FieldView
+    url: https://www.ilight.com/
+    description: Intelligent Light CFD visualization.
+    license: Paid
+    entry_type: software
+    best_for: CFD visualization
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - CFD
+      - Aerospace
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- GIS / Geospatial ----------
+  - name: QGIS
+    url: https://qgis.org/
+    description: Open desktop GIS with 3D map view.
+    license: Open Source
+    entry_type: software
+    best_for: Open desktop GIS
+    tags:
+      output:
+        - scientific-viz
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - GIS
+      - Open Source
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: CesiumJS
+    url: https://cesium.com/platform/cesiumjs/
+    description: WebGL globe and 3D tiles library.
+    license: Open Source
+    entry_type: reference
+    best_for: Web globe + 3D tiles
+    tags:
+      output:
+        - scientific-viz
+        - archviz
+      platform:
+        - web
+    readme_tags:
+      - WebGL Globe
+      - 3D Tiles
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Google Earth Studio
+    url: https://earth.google.com/studio/
+    description: Browser animation tool over Google Earth imagery.
+    license: Free
+    entry_type: software
+    best_for: Earth-overlay animation
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Earth Animation
+      - Browser
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: kepler.gl
+    url: https://kepler.gl/
+    description: Uber's WebGL geospatial data visualization.
+    license: Open Source
+    entry_type: software
+    best_for: Geo dataviz
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - WebGL
+      - Geo Dataviz
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: BlenderGIS
+    url: https://github.com/domlysz/BlenderGIS
+    description: Blender add-on for georeferenced data, OSM imports, SRTM.
+    license: Open Source
+    entry_type: plugin
+    best_for: GIS data in Blender
+    tags:
+      output:
+        - scientific-viz
+        - archviz
+      tech:
+        - blender-addon
+    readme_tags:
+      - Blender GIS
+      - OSM/SRTM
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: TouchTerrain
+    url: https://touchterrain.geol.iastate.edu/
+    description: 3D-printable terrain model generator.
+    license: Open Source
+    entry_type: tool
+    best_for: 3D-print terrain
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Terrain
+      - 3D Print
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Data Viz (3D-leaning) ----------
+  - name: Plotly (3D)
+    url: https://plotly.com/python/3d-charts/
+    description: 3D charts in Python and JS.
+    license: Open Source
+    entry_type: reference
+    best_for: 3D data charts in Python/JS
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - 3D Charts
+      - Python/JS
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: deck.gl
+    url: https://deck.gl/
+    description: Uber WebGL framework for large geospatial and dataviz layers.
+    license: Open Source
+    entry_type: reference
+    best_for: Large WebGL dataviz
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Uber
+      - WebGL
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Globe.gl
+    url: https://globe.gl/
+    description: Three.js-based globe visualization wrapper.
+    license: Open Source
+    entry_type: reference
+    best_for: Three.js globe wrapper
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Three.js
+      - Globe
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Educators / Channels ----------
+  - name: Drew Berry (WEHI TV)
+    url: https://www.wehi.edu.au/wehi-tv
+    description: Drew Berry's reference biomedical animation work at the Walter and Eliza Hall Institute.
+    entry_type: channel
+    best_for: Reference molecular animation
+    tags:
+      output:
+        - scientific-viz
+        - medical
+    readme_tags:
+      - Molecular Anim
+      - Biomedical
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Janet Iwasa Animation Lab
+    url: https://animationlab.utah.edu/
+    description: Univ. of Utah molecular animation lab and outreach.
+    entry_type: channel
+    best_for: Molecular animation outreach
+    tags:
+      output:
+        - scientific-viz
+    readme_tags:
+      - Academic
+      - Outreach
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Clarafi (Gaël McGill / Digizyme)
+    url: https://clarafi.com/
+    description: 3D molecular animation courses, Maya focus.
+    license: Paid
+    entry_type: tutorial
+    best_for: Molecular animation training
+    tags:
+      workflow:
+        - animation
+      output:
+        - scientific-viz
+    readme_tags:
+      - Course
+      - Maya Molecular
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Brady Johnston
+    url: https://bradyajohnston.github.io/
+    description: Blender-for-science tutorials. Author of Molecular Nodes.
+    entry_type: channel
+    best_for: Blender scientific tutorials
+    tags:
+      output:
+        - scientific-viz
+    readme_tags:
+      - Blender Science
+      - Tutorials
+    url_last_verified: '2026-05-22'
+    url_status: ok

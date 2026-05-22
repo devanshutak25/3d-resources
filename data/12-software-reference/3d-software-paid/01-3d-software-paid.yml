@@ -513,3 +513,366 @@ entries:
       - Broadcast/VFX
     url_last_verified: '2026-05-05'
     url_status: ok
+
+  # ---------- Automotive viz ----------
+  - name: Autodesk VRED
+    url: https://www.autodesk.com/products/vred
+    description: OEM-standard automotive design review and photoreal viz.
+    license: Paid
+    entry_type: software
+    best_for: Automotive design review
+    tags:
+      workflow:
+        - lighting
+        - rendering
+        - look-dev
+      output:
+        - automotive
+        - product-viz
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Automotive Std
+      - OEM
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Autodesk Alias
+    url: https://www.autodesk.com/products/alias
+    description: Class-A surface modeling standard for automotive exterior design.
+    license: Paid
+    entry_type: software
+    best_for: Class-A surface modeling
+    tags:
+      workflow:
+        - modeling
+      output:
+        - automotive
+        - product-viz
+      platform:
+        - win
+    readme_tags:
+      - Class-A Surfacing
+      - Auto Std
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: ICEM Surf
+    url: https://plm.sw.siemens.com/en-US/nx/products/free-form-design/icem-surf/
+    description: Class-A surfacing for automotive exteriors (Siemens).
+    license: Paid
+    entry_type: software
+    best_for: Class-A automotive surfacing
+    tags:
+      workflow:
+        - modeling
+      output:
+        - automotive
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Class-A
+      - Siemens
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Lumiscaphe Patchwork 3D
+    url: https://www.lumiscaphe.com/
+    description: Real-time automotive configurator and viz, OEM clientele.
+    license: Paid
+    entry_type: software
+    best_for: Real-time auto config
+    tags:
+      workflow:
+        - rendering
+      output:
+        - automotive
+        - product-viz
+      platform:
+        - win
+      tech:
+        - real-time
+    readme_tags:
+      - Auto Config
+      - Real-time
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Jewelry CAD ----------
+  - name: MatrixGold (Gemvision)
+    url: https://gemvision.com/matrixgold/
+    description: Rhino-based parametric jewelry CAD. Successor to Matrix/RhinoGold.
+    license: Paid
+    entry_type: software
+    best_for: Parametric jewelry CAD
+    tags:
+      workflow:
+        - modeling
+      output:
+        - jewelry
+        - product-viz
+      platform:
+        - win
+    readme_tags:
+      - Jewelry CAD
+      - Rhino-based
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: JewelCAD
+    url: https://www.jcadcam.com/
+    description: Long-standing dedicated jewelry CAD package.
+    license: Paid
+    entry_type: software
+    best_for: Jewelry CAD
+    tags:
+      workflow:
+        - modeling
+      output:
+        - jewelry
+      platform:
+        - win
+    readme_tags:
+      - Jewelry CAD
+      - Classic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: 3Design
+    url: https://www.3design.com/
+    description: Parametric jewelry CAD with rendering.
+    license: Paid
+    entry_type: software
+    best_for: Parametric jewelry design + render
+    tags:
+      workflow:
+        - modeling
+        - rendering
+      output:
+        - jewelry
+      platform:
+        - win
+    readme_tags:
+      - Jewelry CAD
+      - Parametric
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Firestorm CAD
+    url: https://firestormcad.com/
+    description: Rhino plugin for parametric jewelry design.
+    license: Paid
+    entry_type: plugin
+    best_for: Rhino-based jewelry design
+    tags:
+      workflow:
+        - modeling
+      output:
+        - jewelry
+      platform:
+        - win
+    readme_tags:
+      - Rhino Plugin
+      - Jewelry
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Clayoo
+    url: https://www.clayoo.com/
+    description: SubD modeling plugin for Rhino. Common for jewelry organic forms.
+    license: Paid
+    entry_type: plugin
+    best_for: Rhino SubD for jewelry
+    tags:
+      workflow:
+        - modeling
+        - sculpting
+      output:
+        - jewelry
+        - product-viz
+      platform:
+        - win
+    readme_tags:
+      - Rhino SubD
+      - Organic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Marmoset Toolbag
+    url: https://marmoset.co/toolbag/
+    description: Real-time PBR viewer, baker, and renderer. Common in game/jewelry portfolios.
+    license: Paid
+    entry_type: software
+    best_for: PBR portfolio rendering + baking
+    tags:
+      workflow:
+        - rendering
+        - texturing
+      output:
+        - games
+        - product-viz
+        - jewelry
+      platform:
+        - win
+        - mac
+      tech:
+        - real-time
+        - pbr
+    readme_tags:
+      - PBR Viewer
+      - Baking
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Fashion / garment ----------
+  - name: CLO 3D
+    url: https://www.clo3d.com/
+    description: Garment design and simulation for the fashion industry. Pattern-based 3D.
+    license: Paid
+    entry_type: software
+    best_for: Fashion garment design + sim
+    tags:
+      workflow:
+        - modeling
+        - simulation
+      output:
+        - fashion
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Fashion Std
+      - Garment Sim
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Browzwear VStitcher
+    url: https://browzwear.com/
+    description: Enterprise 3D garment design and tech-pack pipeline.
+    license: Paid
+    entry_type: software
+    best_for: Enterprise fashion pipeline
+    tags:
+      workflow:
+        - modeling
+        - simulation
+      output:
+        - fashion
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Enterprise
+      - Tech Packs
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Optitex
+    url: https://www.optitex.com/
+    description: 2D/3D pattern-making and virtual fit.
+    license: Paid
+    entry_type: software
+    best_for: 2D/3D pattern + virtual fit
+    tags:
+      workflow:
+        - modeling
+      output:
+        - fashion
+      platform:
+        - win
+    readme_tags:
+      - Pattern + Fit
+      - Industrial
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Broadcast graphics ----------
+  - name: ChyronHego (Chyron)
+    url: https://chyron.com/
+    description: PRIME graphics engine. News and sports lower-thirds, AR/VR studio.
+    license: Paid
+    entry_type: software
+    best_for: Broadcast lower-thirds + AR studio
+    tags:
+      output:
+        - broadcast
+      platform:
+        - win
+      tech:
+        - real-time
+    readme_tags:
+      - Broadcast Graphics
+      - PRIME
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Ross XPression
+    url: https://www.rossvideo.com/products-services/acquisition-production/graphics/xpression-motion-graphics/
+    description: Real-time motion graphics and data-driven CG for live broadcast.
+    license: Paid
+    entry_type: software
+    best_for: Real-time broadcast CG
+    tags:
+      output:
+        - broadcast
+      platform:
+        - win
+      tech:
+        - real-time
+    readme_tags:
+      - Broadcast
+      - Data-Driven
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Avid Maestro
+    url: https://www.avid.com/maestro
+    description: Avid's virtual sets, AR, and data-driven graphics platform for live news and sports.
+    license: Paid
+    entry_type: software
+    best_for: Avid broadcast virtual sets
+    tags:
+      output:
+        - broadcast
+      platform:
+        - win
+      tech:
+        - real-time
+    readme_tags:
+      - Avid
+      - Virtual Sets
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Performance/face capture software ----------
+  - name: Unreal MetaHuman Animator
+    url: https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-animator-in-unreal-engine
+    description: iPhone/HMC-driven facial performance capture targeting MetaHuman characters. Free with Unreal.
+    license: Free
+    entry_type: software
+    best_for: MetaHuman facial performance
+    tags:
+      workflow:
+        - face-capture
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - ios
+    readme_tags:
+      - MetaHuman
+      - Free w/ Unreal
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Faceware Studio
+    url: https://facewaretech.com/software/studio/
+    description: Real-time face capture and streaming software.
+    license: Paid
+    entry_type: software
+    best_for: Real-time face capture
+    tags:
+      workflow:
+        - face-capture
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+    readme_tags:
+      - Face Cap
+      - Real-time
+    url_last_verified: '2026-05-22'
+    url_status: ok

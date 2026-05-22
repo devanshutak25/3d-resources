@@ -1,0 +1,450 @@
+entries:
+  # ---------- Modeling / DCC ----------
+  - name: Softimage XSI
+    url: https://en.wikipedia.org/wiki/Autodesk_Softimage
+    description: Autodesk's character/VFX DCC, discontinued April 2014. ICE node graph predated Bifrost. Used on Half-Life 2 and District 9.
+    license: Paid
+    entry_type: software
+    best_for: Historical reference; ICE workflow lineage
+    deprecated: true
+    year: 2014
+    tags:
+      workflow:
+        - modeling
+        - animation
+        - simulation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Discontinued
+      - ICE Graph
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Softimage|3D
+    url: https://en.wikipedia.org/wiki/Softimage_3D
+    description: Softimage Inc.'s 1988–2005 character animation DCC. Used on Jurassic Park and Titanic. Defined 90s character UX.
+    license: Paid
+    entry_type: software
+    best_for: Historical reference
+    deprecated: true
+    year: 2005
+    tags:
+      workflow:
+        - modeling
+        - animation
+      output:
+        - film-vfx
+    readme_tags:
+      - Historical
+      - 90s Character
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Alias PowerAnimator / Studio
+    url: https://en.wikipedia.org/wiki/PowerAnimator
+    description: Alias Research 1985–1998 DCC. Used on T2 and Jurassic Park morphs. Direct ancestor of Maya.
+    license: Paid
+    entry_type: software
+    best_for: Maya lineage reference
+    deprecated: true
+    year: 1998
+    tags:
+      output:
+        - film-vfx
+    readme_tags:
+      - Maya Ancestor
+      - Historical
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Wavefront Advanced Visualizer
+    url: https://en.wikipedia.org/wiki/Wavefront_Technologies
+    description: Wavefront Technologies 1984–1995 DCC. Source of the OBJ file format.
+    license: Paid
+    entry_type: software
+    best_for: OBJ format origin
+    deprecated: true
+    year: 1995
+    readme_tags:
+      - OBJ Origin
+      - Historical
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: 3D Studio (DOS)
+    url: https://en.wikipedia.org/wiki/3D_Studio
+    description: Yost Group / Autodesk DOS DCC, 1990–1996. Predecessor of 3D Studio MAX. Democratized 3D on PC.
+    license: Paid
+    entry_type: software
+    best_for: 3ds Max lineage
+    deprecated: true
+    year: 1996
+    tags:
+      platform:
+        - win
+    readme_tags:
+      - DOS-era
+      - 3ds Max Ancestor
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: trueSpace
+    url: https://en.wikipedia.org/wiki/TrueSpace
+    description: Caligari Corp DCC, 1994–2009. Acquired by Microsoft and killed. Early real-time viewport pioneer.
+    license: Free
+    entry_type: software
+    best_for: Free download (historical)
+    deprecated: true
+    year: 2009
+    tags:
+      platform:
+        - win
+    readme_tags:
+      - Microsoft Killed
+      - Free
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Mirai / N-World
+    url: https://en.wikipedia.org/wiki/Mirai_(software)
+    description: Nichimen Graphics / Izware polygon DCC, 1990s–early 2000s. Used on Gollum facial animation (LOTR).
+    license: Paid
+    entry_type: software
+    best_for: Polygon-modeling lineage
+    deprecated: true
+    readme_tags:
+      - Historical
+      - Gollum
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Carrara
+    url: https://www.daz3d.com/carrara-8-5-pro
+    description: Eovia/DAZ DCC. Last update 2017 (v8.5). Effectively dead.
+    license: Paid
+    entry_type: software
+    best_for: Legacy DAZ pipeline
+    deprecated: true
+    year: 2017
+    tags:
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - DAZ
+      - Stagnant
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Bryce
+    url: https://www.daz3d.com/bryce-7-pro
+    description: MetaCreations → Corel → DAZ fractal landscape DCC. Last release 2010. Pioneer of consumer ray-tracing.
+    license: Paid
+    entry_type: software
+    best_for: Fractal-landscape historical reference
+    deprecated: true
+    year: 2010
+    tags:
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Fractal Landscapes
+      - Consumer RT
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Vue (E-on)
+    url: https://info.e-onsoftware.com/
+    description: E-on environment/landscape DCC. Acquired by Bentley 2015, line discontinued 2023. Used on Avatar's Pandora.
+    license: Paid
+    entry_type: software
+    best_for: Environment-generation historical reference
+    deprecated: true
+    year: 2023
+    tags:
+      output:
+        - film-vfx
+        - archviz
+    readme_tags:
+      - Discontinued
+      - Avatar Pandora
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Mudbox
+    url: https://www.autodesk.com/products/mudbox
+    description: Skymatter → Autodesk sculptor. Maintenance only since 2018. Lost the sculpting war to ZBrush.
+    license: Paid
+    entry_type: software
+    best_for: Legacy sculpt workflows
+    deprecated: true
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Maintenance Only
+      - Autodesk
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: BodyPaint 3D
+    url: https://en.wikipedia.org/wiki/BodyPaint_3D
+    description: Maxon standalone 3D paint. Folded into Cinema 4D ~2018.
+    license: Paid
+    entry_type: software
+    best_for: Cinema 4D paint lineage
+    deprecated: true
+    readme_tags:
+      - Maxon
+      - Folded In
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Rendering ----------
+  - name: Mental Ray
+    url: https://en.wikipedia.org/wiki/Mental_Ray
+    description: Mental Images → Nvidia renderer. Killed Nov 2017. Default Maya/Max renderer through the 2000s.
+    license: Paid
+    entry_type: software
+    best_for: Historical GI/FG rendering reference
+    deprecated: true
+    year: 2017
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+    readme_tags:
+      - Killed by Nvidia
+      - GI/FG
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: BMRT (Blue Moon Rendering Tools)
+    url: https://en.wikipedia.org/wiki/Blue_Moon_Rendering_Tools
+    description: Larry Gritz's free RenderMan-compatible REYES/raytracer, 1990s. First widely available free RIB renderer.
+    license: Free
+    entry_type: software
+    best_for: Free RenderMan-compat lineage
+    deprecated: true
+    tags:
+      workflow:
+        - rendering
+    readme_tags:
+      - Historical
+      - Free RIB
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Gelato
+    url: https://en.wikipedia.org/wiki/Gelato_(software)
+    description: Nvidia GPU renderer, killed 2008. Larry Gritz lineage post-Exluna.
+    license: Free
+    entry_type: software
+    best_for: Early GPU renderer history
+    deprecated: true
+    year: 2008
+    readme_tags:
+      - Nvidia
+      - Early GPU
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Brazil r/s
+    url: https://en.wikipedia.org/wiki/Brazil_R/S
+    description: SplutterFish renderer for 3ds Max, ~2003.
+    license: Paid
+    entry_type: software
+    best_for: Early Max raytracer reference
+    deprecated: true
+    readme_tags:
+      - 3ds Max
+      - Historical
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Compositing / Finishing ----------
+  - name: Shake
+    url: https://en.wikipedia.org/wiki/Shake_(software)
+    description: Nothing Real → Apple compositor. Killed 2009. Standard film compositor early 2000s. Replaced by Nuke.
+    license: Paid
+    entry_type: software
+    best_for: Pre-Nuke compositor lineage
+    deprecated: true
+    year: 2009
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+    readme_tags:
+      - Apple Killed
+      - Film Compositor
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Combustion
+    url: https://en.wikipedia.org/wiki/Autodesk_Combustion
+    description: Discreet → Autodesk compositor, 1999–2008. After Effects competitor with paint, tracking, keyer.
+    license: Paid
+    entry_type: software
+    best_for: AE-era compositor history
+    deprecated: true
+    year: 2008
+    tags:
+      workflow:
+        - compositing
+    readme_tags:
+      - Autodesk
+      - AE Competitor
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Toxik
+    url: https://en.wikipedia.org/wiki/Autodesk_Toxik
+    description: Autodesk compositor, 2006–2009. Folded into Flame Composite/Smoke.
+    license: Paid
+    entry_type: software
+    best_for: Flame composite lineage
+    deprecated: true
+    year: 2009
+    tags:
+      workflow:
+        - compositing
+    readme_tags:
+      - Autodesk
+      - Folded Into Flame
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: eyeon Fusion (Digital Fusion)
+    url: https://www.blackmagicdesign.com/products/fusion
+    description: eyeon Software → Blackmagic compositor. Standalone discontinued; lives on as Fusion page inside DaVinci Resolve.
+    license: Free
+    entry_type: software
+    best_for: Resolve Fusion lineage
+    deprecated: true
+    tags:
+      workflow:
+        - compositing
+    readme_tags:
+      - Blackmagic
+      - Lineage Lives On
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Commotion
+    url: https://en.wikipedia.org/wiki/Commotion_(software)
+    description: Puffin Designs → Pinnacle paint/effects tool. Defunct mid-2000s. Stu Maschwitz toolset.
+    license: Paid
+    entry_type: software
+    best_for: Indie VFX history
+    deprecated: true
+    readme_tags:
+      - Puffin
+      - Discontinued
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Editing ----------
+  - name: Final Cut Pro 7 ("classic")
+    url: https://en.wikipedia.org/wiki/Final_Cut_Pro_7
+    description: Apple 1999–2011 NLE. Killed by FCPX rewrite, drove indies to Premiere and Avid.
+    license: Paid
+    entry_type: software
+    best_for: 2000s indie NLE history
+    deprecated: true
+    year: 2011
+    tags:
+      workflow:
+        - editing
+      platform:
+        - mac
+    readme_tags:
+      - Apple
+      - Pre-FCPX
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Game Engines / Real-time ----------
+  - name: Stingray
+    url: https://en.wikipedia.org/wiki/Autodesk_Stingray
+    description: Autodesk engine (acquired Bitsquid), 2015–2018. Discontinued.
+    license: Paid
+    entry_type: software
+    best_for: Autodesk engine history
+    deprecated: true
+    year: 2018
+    readme_tags:
+      - Autodesk
+      - Bitsquid
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Amazon Lumberyard
+    url: https://o3de.org/
+    description: Amazon engine forked from CryEngine 2015. Relaunched as Open 3D Engine (O3DE) under Linux Foundation 2021.
+    license: Free
+    entry_type: software
+    best_for: O3DE precursor
+    deprecated: true
+    year: 2021
+    readme_tags:
+      - Now O3DE
+      - Amazon
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Character / 2D ----------
+  - name: USAnimation / Toonz (legacy)
+    url: https://opentoonz.github.io/e/
+    description: Softimage → Digital Video → Dwango. Open-sourced as OpenToonz 2016. Ghibli's pipeline.
+    license: Open Source
+    entry_type: software
+    best_for: Ghibli pipeline lineage
+    tags:
+      workflow:
+        - animation
+    readme_tags:
+      - Now OpenToonz
+      - Ghibli
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Animo
+    url: https://en.wikipedia.org/wiki/Animo
+    description: Cambridge Animation Systems 2D ink-and-paint. Acquired by Toon Boom (2001). Discontinued.
+    license: Paid
+    entry_type: software
+    best_for: BBC/feature 2D pipeline history
+    deprecated: true
+    readme_tags:
+      - Toon Boom
+      - 2D Ink
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Archive references ----------
+  - name: archive.org Software Library
+    url: https://archive.org/details/software
+    description: Internet Archive software dumps. Includes 3D Studio, trueSpace, Bryce installers.
+    license: Free
+    entry_type: reference
+    best_for: Retrieving discontinued installers
+    readme_tags:
+      - Archive
+      - Software Dumps
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: WinWorldPC
+    url: https://winworldpc.com/
+    description: Vintage software archive. Hosts Softimage, LightWave, Alias installers.
+    license: Free
+    entry_type: reference
+    best_for: Pre-2010 software preservation
+    readme_tags:
+      - Vintage
+      - Installers
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Aminet
+    url: https://aminet.net/
+    description: Amiga software archive. Imagine, Real3D, Aladdin4D.
+    license: Free
+    entry_type: reference
+    best_for: Amiga-era 3D archives
+    readme_tags:
+      - Amiga
+      - Archive
+    url_last_verified: '2026-05-22'
+    url_status: ok

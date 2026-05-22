@@ -106,3 +106,196 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/uv-tools
+  - name: 3D Coat
+    url: https://3dcoat.com/
+    description: Sculpt, retopo, UV, and PBR paint suite from Pilgway. Voxel and surface sculpt, AUTOPO auto-retopo, manual quad retopo, UV unwrap, bake.
+    pricing: ~$379 perpetual (Educational $99)
+    license: Paid
+    entry_type: software
+    best_for: Sculpt + retopo + UV + PBR paint in one app
+    tags:
+      workflow:
+        - sculpting
+        - retopo
+        - uv
+        - texturing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Sculpt + Retopo
+      - PBR Paint
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools
+  - name: 3D Coat Textura
+    url: https://3dcoat.com/textura/
+    description: Texturing-only variant of 3D Coat. PBR paint and bake, no sculpt or retopo modules.
+    pricing: ~$199 perpetual
+    license: Paid
+    entry_type: software
+    best_for: Standalone PBR texture painting
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - PBR Paint Only
+      - Standalone
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: 3D Coat Print
+    url: https://3dcoat.com/3dcoatprint/
+    description: Voxel-sculpt build of 3D Coat aimed at 3D-print workflows.
+    pricing: ~$199 perpetual
+    license: Paid
+    entry_type: software
+    best_for: 3D-print sculpting
+    tags:
+      workflow:
+        - sculpting
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Voxel Sculpt
+      - 3D Print
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Cozy Blanket
+    url: https://cozyblanket.app/
+    description: iPad sculpt-to-retopo app. Clay sculpt plus auto-quad retopology for game/film topology, from Naam.
+    pricing: ~$80 perpetual
+    license: Paid
+    entry_type: software
+    best_for: iPad sculpt + auto-retopo
+    tags:
+      workflow:
+        - sculpting
+        - retopo
+      output:
+        - games
+        - film-vfx
+      platform:
+        - ipad
+      tech:
+        - ipad-native
+        - stylus-support
+    readme_tags:
+      - iPad Sculpt
+      - Auto Retopo
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools
+  - name: Valence 3D
+    url: https://valence3d.com/
+    description: iPad UV unwrap and texture paint app from Naam. Pairs with Cozy Blanket for full iPad asset workflow.
+    pricing: ~$30 perpetual
+    license: Paid
+    entry_type: software
+    best_for: iPad UV + texture paint
+    tags:
+      workflow:
+        - uv
+        - texturing
+      platform:
+        - ipad
+      tech:
+        - ipad-native
+        - stylus-support
+    readme_tags:
+      - iPad UV
+      - iPad Paint
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/uv-tools
+  - name: Quad Remesher
+    url: https://exoside.com/quadremesher/
+    description: Auto-quad retopology plugin (Exoside) for Maya, 3ds Max, Blender, C4D, Modo, Houdini, ZBrush. ZRemesher-style algorithm.
+    pricing: ~$110 indie, $200 studio
+    license: Paid
+    entry_type: plugin
+    best_for: Cross-DCC auto-retopo
+    tags:
+      workflow:
+        - retopo
+      tech:
+        - blender-addon
+        - houdini-addon
+    readme_tags:
+      - Cross-DCC
+      - Auto Quad
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools
+  - name: RetopoFlow 3
+    url: https://blendermarket.com/products/retopoflow
+    description: Blender retopology suite with sketch, contour, strip, patches, and tweak tools. Sold via Blender Market.
+    pricing: ~$96
+    license: Paid
+    entry_type: plugin
+    best_for: Blender manual retopology suite
+    tags:
+      workflow:
+        - retopo
+      tech:
+        - blender-addon
+    readme_tags:
+      - Blender Suite
+      - Manual Retopo
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools
+  - name: ZWrap
+    url: https://www.russian3dscanner.com/zwrap/
+    description: ZBrush plugin (R3DS) that auto-wraps a base topology onto a scan or sculpt. Standard for garment/character retopo.
+    pricing: ~$179
+    license: Paid
+    entry_type: plugin
+    best_for: Topology transfer via Wrap-style projection
+    tags:
+      workflow:
+        - retopo
+    readme_tags:
+      - ZBrush Plugin
+      - Topology Transfer
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools
+  - name: Meshmixer
+    url: https://meshmixer.com/
+    description: Autodesk sculpt, remesh, hollow, and 3D-print prep tool. Discontinued but still downloadable and widely used.
+    license: Free
+    entry_type: software
+    best_for: Free remesh + 3D-print prep
+    deprecated: true
+    tags:
+      workflow:
+        - sculpting
+        - retopo
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Free
+      - Discontinued
+    url_last_verified: '2026-05-22'
+    url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools

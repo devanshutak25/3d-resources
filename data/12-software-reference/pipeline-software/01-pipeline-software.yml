@@ -1,4 +1,290 @@
 entries:
+  # ---------- Review / collab additions ----------
+  - name: Frame.io
+    url: https://frame.io/
+    description: Adobe-owned review and collaboration platform for video and motion teams.
+    pricing: Free / from $15/mo
+    license: Freemium
+    entry_type: software
+    best_for: Cloud review/approval
+    tags:
+      output:
+        - film-vfx
+        - broadcast
+        - motion-graphics
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Adobe
+      - Cloud Review
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: SyncSketch
+    url: https://syncsketch.com/
+    description: Autodesk browser-based review and annotation for animation and VFX.
+    pricing: Free / from $17/mo
+    license: Freemium
+    entry_type: software
+    best_for: Browser review/annotate
+    tags:
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Autodesk
+      - Browser Review
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Cinesync
+    url: https://cinesync.com/
+    description: Backlight synced remote review for distributed teams.
+    license: Paid
+    entry_type: software
+    best_for: Synced remote review
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Backlight
+      - Synced Review
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Filestage
+    url: https://filestage.io/
+    description: Generic creative review and approval workflow.
+    license: Paid
+    entry_type: software
+    best_for: Multi-format creative review
+    tags:
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Review Workflow
+      - Generic
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: RV (Autodesk/Tweak)
+    url: https://www.autodesk.com/products/flow-production-tracking/rv
+    description: Standard playback and review tool, free for personal use; paid for studios.
+    license: Freemium
+    entry_type: software
+    best_for: Pro image-sequence review/playback
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Pro Playback
+      - Tweak/Autodesk
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Production-tracking gaps ----------
+  - name: 5th Kind CORE
+    url: https://www.5thkind.com/
+    description: Secure media and production management used on major features. Asset sharing + tracking.
+    license: Paid
+    entry_type: software
+    best_for: Secure feature-film production mgmt
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Secure Media
+      - Feature Films
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Cerebro
+    url: https://cerebrohq.com/
+    description: Russian-origin production tracker with built-in messenger and review.
+    license: Paid
+    entry_type: software
+    best_for: Tracker + messenger combo
+    tags:
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Tracker + Chat
+      - Studio Tool
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Autodesk Flow Capture
+    url: https://www.autodesk.com/products/flow-capture
+    description: Live on-set dailies platform (formerly Moxion).
+    license: Paid
+    entry_type: software
+    best_for: On-set dailies
+    tags:
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - ios
+        - cloud
+    readme_tags:
+      - On-Set Dailies
+      - Was Moxion
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Hansoft (Perforce)
+    url: https://www.perforce.com/products/hansoft
+    description: Agile PM for games and VFX studios.
+    license: Paid
+    entry_type: software
+    best_for: Agile PM for games/VFX
+    tags:
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Perforce
+      - Agile PM
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Art-team VCS ----------
+  - name: Anchorpoint
+    url: https://www.anchorpoint.app/
+    description: Git/Perforce GUI built for artists. Handles large binary assets cleanly.
+    pricing: Free / from $14/mo
+    license: Freemium
+    entry_type: software
+    best_for: Artist-friendly VCS frontend
+    tags:
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Git/Perforce GUI
+      - Artist VCS
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Diversion
+    url: https://www.diversion.dev/
+    description: Cloud version control built for large binary art repositories.
+    pricing: Free tier / paid plans
+    license: Freemium
+    entry_type: software
+    best_for: Cloud binary VCS
+    tags:
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+        - cloud
+    readme_tags:
+      - Cloud VCS
+      - Large Binaries
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Snowtrack
+    url: https://www.snowtrack.dev/
+    description: Git-like version control aimed at artists.
+    license: Free
+    entry_type: software
+    best_for: Lightweight artist VCS
+    tags:
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Beta
+      - Artist VCS
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
+  # ---------- Color / conform ----------
+  - name: Colorfront
+    url: https://colorfront.com/
+    description: On-set dailies and transcode platform used on major features.
+    license: Paid
+    entry_type: software
+    best_for: On-set dailies + transcode
+    tags:
+      workflow:
+        - color-grading
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - On-Set Dailies
+      - Feature Films
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: FilmLight Daylight
+    url: https://www.filmlight.ltd.uk/products/daylight/
+    description: Dailies and conform sibling of Baselight, from FilmLight.
+    license: Paid
+    entry_type: software
+    best_for: Dailies + conform
+    tags:
+      workflow:
+        - color-grading
+        - editing
+      output:
+        - film-vfx
+      platform:
+        - mac
+        - linux
+    readme_tags:
+      - FilmLight
+      - Dailies/Conform
+    url_last_verified: '2026-05-22'
+    url_status: ok
+  - name: Sohonet ClearView Flex
+    url: https://www.sohonet.com/clearview/
+    description: Low-latency remote color/review streaming for distributed post.
+    license: Paid
+    entry_type: software
+    best_for: Remote color/review streaming
+    tags:
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+        - cloud
+    readme_tags:
+      - Remote Color
+      - Streaming
+    url_last_verified: '2026-05-22'
+    url_status: ok
+
   - name: Deadline (AWS Thinkbox)
     url: https://aws.amazon.com/thinkbox-deadline/
     description: Render farm manager. Free since v10.1.23. Deadline 10 in maintenance mode (Nov 2025); AWS pushing managed Deadline Cloud.

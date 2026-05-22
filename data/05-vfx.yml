@@ -10,3 +10,7 @@ subsections:
     title: Tech Art
     description: Tech art breakdowns, procedural art, and tutorials.
     chunks: 1
+  - slug: compositing-learning
+    title: Compositing Learning, Books & Industry
+    description: Nuke creators, comp theory books, VFX breakdown sites, and industry magazines.
+    chunks: 1

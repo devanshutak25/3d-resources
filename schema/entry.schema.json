@@ -28,7 +28,11 @@
         "channel",
         "community",
         "reference",
-        "inspiration"
+        "inspiration",
+        "service",
+        "book",
+        "hardware",
+        "paper"
       ]
     },
     "tags": {
@@ -40,10 +44,12 @@
           "items": {
             "type": "string",
             "enum": [
-              "concept", "reference", "storyboard", "modeling", "sculpting",
-              "retopo", "uv", "texturing", "material-authoring", "rigging",
-              "skinning", "animation", "mocap", "simulation", "fx", "lighting",
-              "rendering", "compositing", "editing", "color-grading", "audio-design"
+              "concept", "reference", "storyboard", "previs", "look-dev",
+              "modeling", "sculpting", "retopo", "uv", "texturing",
+              "material-authoring", "rigging", "skinning", "animation", "mocap",
+              "face-capture", "match-move", "roto", "simulation", "fx",
+              "lighting", "rendering", "compositing", "editing", "color-grading",
+              "audio-design", "projection-mapping", "creative-coding"
             ]
           },
           "uniqueItems": true
@@ -54,7 +60,8 @@
             "type": "string",
             "enum": [
               "games", "film-vfx", "broadcast", "archviz", "product-viz",
-              "motion-graphics", "illustration", "xr", "scientific-viz", "generalist"
+              "motion-graphics", "illustration", "xr", "scientific-viz", "medical",
+              "jewelry", "fashion", "automotive", "event-experiential", "generalist"
             ]
           },
           "uniqueItems": true
@@ -63,7 +70,7 @@
           "type": "array",
           "items": {
             "type": "string",
-            "enum": ["win", "mac", "linux", "web", "ios", "ipad", "android", "cloud"]
+            "enum": ["win", "mac", "linux", "web", "ios", "ipad", "android", "cloud", "vr"]
           },
           "uniqueItems": true
         },
