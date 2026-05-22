@@ -196,3 +196,9 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 **Answered:** PlayCanvas, Spline AI, Babylon.js, Three.js, Needle, A-Frame, Verge3D, SculptGL, Tinkercad, Womp3D, Vectary already present. Added: Spline (core, 3d-software-free-tier), Bezi (3d-software-free-tier), Gravity Sketch (3d-software-free-tier), Cables.gl (3d-software-free), Wonderland Engine (game-engines-free-oss/02), 8th Wall + Mozilla Hubs (xr-ar-vr), Bitbybit (cad-software). Validation passed, 213 warnings (all pre-existing).
 
 ---
+
+> 2026-05-22: read all the files in the project, update the project.md file as a complete guide to the project. All the technical details... in claude.md write that project.md needs to be read at the start of every session and needs to be updated after every change
+
+**Answered:** Created `project.md` (master guide: filesystem map, data model, build pipeline, rules, NOs, pending tasks, design style, tech stack). Updated `CLAUDE.md` with mandatory "read project.md at session start, update after every change" rule.
+
+---

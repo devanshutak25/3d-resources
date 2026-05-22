@@ -1,5 +1,11 @@
 # 3d_resources — project rules
 
+## project.md (MANDATORY)
+
+**Read `project.md` at the start of every session.** It is the master guide: filesystem map, data model, build pipeline, rules, pending tasks, design style. Treat it as authoritative when any other doc disagrees.
+
+**Update `project.md` after every change.** If filesystem layout, rules, goals, vocab, build steps, design conventions, or pending tasks shift, edit `project.md` in the same change. Stale `project.md` is a bug.
+
 ## Controlled vocabulary (entry tags)
 
 Source of truth: `schema/vocab.yml` + `schema/entry.schema.json`.
@@ -54,7 +60,7 @@ Files:
 
 ### Protocol (MANDATORY)
 
-**Session start:** Read all 8 files in `./memory/` before responding to first prompt. Treat them as authoritative project context.
+**Session start:** Read `project.md` first, then all 8 files in `./memory/` before responding to first prompt. Treat them as authoritative project context.
 
 **After every user prompt:**
 1. Append the verbatim prompt to `user-prompts.md` with timestamp + 1-line answer summary.

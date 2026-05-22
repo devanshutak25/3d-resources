@@ -114,7 +114,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Godot: Learning](#godot-learning) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Godot-focused learning channels and courses.</small>
 - [Godot: Communities](#godot-communities) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Godot forums and chat.</small>
 - [Unity Engine: Resources](#unity-engine-resources) <span class="toc-count">(447 items)</span><br><small class="toc-desc">Unity community add-ons, tools, and learning resources.</small>
-- [XR, AR & VR: Resources](#xr-ar--vr-resources) <span class="toc-count">(23 items)</span><br><small class="toc-desc">AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, and VR platforms.</small>
+- [XR, AR & VR: Resources](#xr-ar--vr-resources) <span class="toc-count">(25 items)</span><br><small class="toc-desc">AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, and VR platforms.</small>
 - [Unreal Engine: Resources](#unreal-engine-resources) <span class="toc-count">(184 items)</span><br><small class="toc-desc">Unreal Engine resources and marketplace picks.</small>
 - [Game Dev Tools: Level Design](#game-dev-tools-level-design) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Level editors and blockout tools.</small>
 - [Game Dev Tools: Dialogue & Narrative](#game-dev-tools-dialogue--narrative) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Dialogue, narrative scripting, and IF tools.</small>
@@ -207,10 +207,10 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 <details>
 <summary><a href="#software-reference">Software Reference</a></summary>
 
-- [3D Software: Free](#3d-software-free) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Free and open-source 3D software.</small>
-- [3D Software: Free Tier](#3d-software-free-tier) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Freemium 3D software with free tier available.</small>
+- [3D Software: Free](#3d-software-free) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Free and open-source 3D software.</small>
+- [3D Software: Free Tier](#3d-software-free-tier) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Freemium 3D software with free tier available.</small>
 - [3D Software: Paid](#3d-software-paid) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Professional paid 3D software.</small>
-- [CAD Software](#cad-software) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
+- [CAD Software](#cad-software) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
 - [2D & Animation Software](#2d--animation-software) <span class="toc-count">(60 items)</span><br><small class="toc-desc">Digital painting, illustration, 2D animation.</small>
 - [VFX & Compositing Software](#vfx--compositing-software) <span class="toc-count">(27 items)</span><br><small class="toc-desc">VFX, compositing, and real-time simulation tools.</small>
 - [Render Engines](#render-engines) <span class="toc-count">(38 items)</span><br><small class="toc-desc">Production render engines across CPU, GPU, biased, and unbiased path tracers.</small>
@@ -218,7 +218,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Audio Software](#audio-software) <span class="toc-count">(36 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
 - [Design Software](#design-software) <span class="toc-count">(31 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
 - [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(12 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
-- [Game Engines: Free & Open Source](#game-engines-free--open-source) <span class="toc-count">(60 items)</span><br><small class="toc-desc">Free and open-source game engines.</small>
+- [Game Engines: Free & Open Source](#game-engines-free--open-source) <span class="toc-count">(61 items)</span><br><small class="toc-desc">Free and open-source game engines.</small>
 - [Game Engines: Commercial Free Tiers](#game-engines-commercial-free-tiers) <span class="toc-count">(12 items)</span><br><small class="toc-desc">Commercial engines with generous free tiers.</small>
 - [Material & Texture Creation Software](#material--texture-creation-software) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Material authoring, texture baking, and PBR painting tools.</small>
 - [Photogrammetry & Scanning Software](#photogrammetry--scanning-software) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Photogrammetry, structure-from-motion, and 3D scanning apps.</small>
@@ -945,6 +945,7 @@ Texture authoring, procedural materials, and baking tools.
 |---|---|---|---|---|---|
 | [AutoCAD](https://www.autodesk.com/products/autocad) | Industry-standard 2D/3D CAD. | $210/mo | Paid | Industry Standard · 2D/3D Drafting | Architecture, engineering, drafting |
 | [Autodesk Inventor](https://www.autodesk.com/products/inventor) | Mechanical 3D CAD for product design, simulation, and tooling. | $310/mo or $2,500/yr | Paid | Mechanical CAD · Industry Standard | Mechanical engineering and product design |
+| [Bitbybit](https://bitbybit.dev/) | Browser parametric CAD via visual nodes (Rete, Blockly) or Monaco code editor. OCCT, JSCAD, Manifold backends. |  | Freemium | Browser · Parametric | Parametric web CAD, generative geometry, 3D printing |
 | [BricsCAD](https://www.bricsys.com/bricscad) | AutoCAD-compatible DWG CAD; offers both perpetual and subscription licensing. | Lite from €314; Pro $1,752 perpetual; Ultimate from €1,176/yr | Paid | DWG-Compatible · Cross-Platform | DWG-compatible CAD on Mac/Linux |
 | [CATIA](https://www.3ds.com/products/catia) | Dassault Systèmes CAD for aerospace and automotive. |  | Paid | Aerospace · Automotive | Aerospace, automotive |
 | [FreeCAD](https://www.freecad.org/) | Free open-source parametric CAD. |  | Open Source | Parametric · Open Source | Parametric CAD, engineering |
@@ -2233,6 +2234,12 @@ Unity community add-ons, tools, and learning resources.
 
 AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, and VR platforms.
 
+| Software | Description | License | Tags | Best For |
+|---|---|---|---|---|
+| [8th Wall](https://www.8thwall.com/) | Niantic's WebAR platform. Markerless world tracking, image targets, face effects via the browser. No app required. | Paid | WebAR · Niantic | Marketing WebAR, branded AR experiences |
+| [Mozilla Hubs](https://hubs.mozilla.com/) | Open-source social VR rooms in the browser. Forked and maintained by community after Mozilla sunset. | Open Source | WebXR · Social | Social VR, virtual events, meetings |
+
+**Related:**
 - [A-Frame VR](https://github.com/silverslade/aframe_blender_exporter). Blender add-on allows you to model your scene in Blender and export it to an A-Frame VR project with a single click.
 - [Advanced VR Mechanics With Unity and the HTC Vive Part 1](https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1). [Mirror](https://archive.is/qHQXY) - [Mirror 2](https://web.archive.org/web/20170515082222/https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1)
 - [Advanced VR Mechanics With Unity and the HTC Vive Part 2](https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2). [Mirror](https://archive.is/9IyFG) - [Mirror 2](https://web.archive.org/web/20170609191610/https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2)
@@ -2759,6 +2766,7 @@ Recurring game jams.
 | [Urho3D](http://urho3d.github.io/) | Cross-platform rendering and game engine. | Open Source | C++ · Cross-Platform | Cross-platform 2D/3D |
 | [ursina](https://www.ursinaengine.org/) | A game engine powered by Python and Panda3D. | Open Source | Python · Prototyping | Easy Python game prototyping |
 | [Whitestorm.js (GitHub)](https://github.com/WhitestormJS/whitestorm.js) | 3D JavaScript framework for building apps and games. | Open Source | JavaScript · Browser | Browser 3D apps |
+| [Wonderland Engine](https://wonderlandengine.com/) | WebXR-focused engine with visual editor. Targets VR, AR, and standard browser 3D. Free for indies. | Freemium | WebXR · Editor | WebXR apps, browser VR/AR |
 
 
 <h3 id="mirror-game-engines-commercial" data-mirror="1" tabindex="-1">Game Engines: Commercial Free Tiers</h3>
@@ -4595,6 +4603,7 @@ Free and open-source 3D software.
 | Software | Description | License | Tags | Best For |
 |---|---|---|---|---|
 | [Blender](https://www.blender.org/) | Free open-source 3D creation suite. Modeling, sculpting, animation, rendering, compositing, VFX.<br><small class="see-also">See also: <a href="#industry-trends-2025-2026">Learning, Community & Industry → Industry Trends 2025-2026</a></small> | Open Source | Open Source · Full Pipeline | Full 3D pipeline, indie production |
+| [Cables.gl](https://cables.gl/) | Node-based visual programming for browser graphics and interactive WebGL. Patch editor exports to JS. | Freemium | Browser · Node-Based | Creative coding, interactive web visuals, projection mapping |
 | [Clavicula](https://clavicula.link/) | Intuitive and free 3D modeling software for everyone. | Free |  |  |
 | [Goxel](https://github.com/guillaumechereau/goxel) | Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle. | Open Source |  |  |
 | [MagicaCSG](https://ephtracy.github.io/index.html?page=magicacsg) | SDF modeling with real-time booleans. | Free | SDF · Windows-only | Concept design, rapid prototyping |
@@ -4620,8 +4629,11 @@ Freemium 3D software with free tier available.
 
 | Software | Description | Pricing | License | Tags | Best For |
 |---|---|---|---|---|---|
+| [Bezi](https://www.bezi.com/) | Collaborative browser 3D design tool. Figma-style multiplayer editing for 3D scenes, prototypes, UI in 3D space. | Free tier, Pro $12/mo | Freemium | Browser · Multiplayer | Team 3D design, spatial UI mockups |
 | [Cascadeur](https://cascadeur.com/) | AI-assisted physics-based keyframe character animation; free for non-commercial use. | Indie $19/mo or $96/yr (rent-to-own perpetual) | Free NC | AI Anim · Free NC | Action/fight character animation |
+| [Gravity Sketch](https://www.gravitysketch.com/) | VR-first 3D design and modeling. Cloud sync via LandingPad; iPad companion. | Free personal use, Studio $35/user/mo | Freemium | VR · Concept | Concept design, automotive, footwear, industrial design in VR |
 | [Houdini Apprentice](https://www.sidefx.com/products/houdini-apprentice/) | Free learning version of Houdini.<br><small class="see-also">See also: <a href="#houdini-getting-started">Modeling, Sculpting & Texturing → Houdini: Getting Started</a></small> |  | Free NC | Free NC · Learning Version | Learning Houdini for free |
+| [Spline](https://spline.design/) | Browser-based 3D design with real-time collaboration. Exports to web, video, code. AI features for prompt-to-3D. | Free tier, Super $9/mo, Business $24/mo | Freemium | Browser · Collaborative | Interactive web 3D, UI mockups, product viz |
 | [Vectary](https://www.vectary.com/) | Browser-based 3D for e-commerce and product visualization. | Pro AI $15/mo (annual) | Freemium | Browser · E-commerce | Product viz, e-commerce |
 | [Womp3D](https://www.womp.com/) | Playful browser-based 3D modeler for product design. | Free tier, Pro $12.99/mo | Freemium | Browser · Product Design | Product design, 3D printing |
 | [World Machine](https://www.world-machine.com/) | Command tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free. |  | Freemium |  |  |
@@ -4681,6 +4693,7 @@ Computer-aided design tools.
 |---|---|---|---|---|---|
 | [AutoCAD](https://www.autodesk.com/products/autocad) | Industry-standard 2D/3D CAD. | $210/mo | Paid | Industry Standard · 2D/3D Drafting | Architecture, engineering, drafting |
 | [Autodesk Inventor](https://www.autodesk.com/products/inventor) | Mechanical 3D CAD for product design, simulation, and tooling. | $310/mo or $2,500/yr | Paid | Mechanical CAD · Industry Standard | Mechanical engineering and product design |
+| [Bitbybit](https://bitbybit.dev/) | Browser parametric CAD via visual nodes (Rete, Blockly) or Monaco code editor. OCCT, JSCAD, Manifold backends. |  | Freemium | Browser · Parametric | Parametric web CAD, generative geometry, 3D printing |
 | [BricsCAD](https://www.bricsys.com/bricscad) | AutoCAD-compatible DWG CAD; offers both perpetual and subscription licensing. | Lite from €314; Pro $1,752 perpetual; Ultimate from €1,176/yr | Paid | DWG-Compatible · Cross-Platform | DWG-compatible CAD on Mac/Linux |
 | [CATIA](https://www.3ds.com/products/catia) | Dassault Systèmes CAD for aerospace and automotive. |  | Paid | Aerospace · Automotive | Aerospace, automotive |
 | [FreeCAD](https://www.freecad.org/) | Free open-source parametric CAD. |  | Open Source | Parametric · Open Source | Parametric CAD, engineering |
@@ -5052,6 +5065,7 @@ Free and open-source game engines.
 | [Urho3D](http://urho3d.github.io/) | Cross-platform rendering and game engine. | Open Source | C++ · Cross-Platform | Cross-platform 2D/3D |
 | [ursina](https://www.ursinaengine.org/) | A game engine powered by Python and Panda3D. | Open Source | Python · Prototyping | Easy Python game prototyping |
 | [Whitestorm.js (GitHub)](https://github.com/WhitestormJS/whitestorm.js) | 3D JavaScript framework for building apps and games. | Open Source | JavaScript · Browser | Browser 3D apps |
+| [Wonderland Engine](https://wonderlandengine.com/) | WebXR-focused engine with visual editor. Targets VR, AR, and standard browser 3D. Free for indies. | Freemium | WebXR · Editor | WebXR apps, browser VR/AR |
 
 **Related:**
 - [Coquette](http://coquette.maryrosecook.com/). A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
