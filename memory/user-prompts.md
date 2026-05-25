@@ -202,3 +202,39 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 **Answered:** Created `project.md` (master guide: filesystem map, data model, build pipeline, rules, NOs, pending tasks, design style, tech stack). Updated `CLAUDE.md` with mandatory "read project.md at session start, update after every change" rule.
 
 ---
+
+### 2026-05-25
+**Prompt:**
+> read project.md and llm.txt
+
+**Answered:** Read project.md; llm.txt missing, read _site/llms.txt instead. Flagged banned word "Comprehensive" on line 9.
+
+---
+
+**Prompt:**
+> yes fix. Also, update the llms.txt to say that this is the biggest, most complete resource of this kind
+
+**Answered:** Rewrote tagline in build-llms-txt.js to "biggest, most complete index..."; replaced "Comprehensive index:" → "Full index:". Regenerated.
+
+---
+
+**Prompt:**
+> can you please check how we can improve llms.txt? Is is possible to make it longer? Will that help? What are the things that are missing from that?
+
+**Answered:** Audited vs llmstxt.org spec. Recommended: free-form intro, Last updated, Optional split, bump picks 6→12, H3 subsection grouping in full file. User said skip Optional split, picks=12.
+
+---
+
+**Prompt:**
+> Make a plan to improve to best present the project in the llms.txt spec
+
+**Answered:** Plan at C:\Users\Devanshu\.claude\plans\make-a-plan-to-elegant-treasure.md. Approved. Implemented: PICKS_PER_SECTION=12; buildIntro() with Last updated (from `git log -1 --format=%cs -- data/`), entry count, topics list, format note; collectPerSubsection() → H3 subsection groups in llms-full.txt. Output: llms.txt 21.8 KB, llms-full.txt 441.8 KB, 142 H3s. Validate passed.
+
+---
+
+**Prompt:** (2026-05-25)
+> add https://www.blender.org/download/demo-files/ and https://www.sidefx.com/learn/learning-library/content/ if not already present
+
+**Answered:** Blender demo-files already in 01-assets/software-specific-libraries. Added "SideFX Learning Library" to 02-modeling/houdini-getting-started (sibling of existing /learn/ entry). Validate passed.
+
+---

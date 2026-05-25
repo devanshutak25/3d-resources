@@ -45,7 +45,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 
 - [Blender: Plugins & Addons](#blender-plugins--addons) <span class="toc-count">(157 items)</span><br><small class="toc-desc">Notable addons extending Blender.</small>
 - [Blender: Tutorials](#blender-tutorials) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Blender learning resources, beginner to advanced.</small>
-- [Houdini: Getting Started](#houdini-getting-started) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Beginner-friendly Houdini intros.</small>
+- [Houdini: Getting Started](#houdini-getting-started) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Beginner-friendly Houdini intros.</small>
 - [Houdini: Essential Learning Resources](#houdini-essential-learning-resources) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Long-form Houdini learning hubs.</small>
 - [Houdini: VEX & Coding](#houdini-vex--coding) <span class="toc-count">(8 items)</span><br><small class="toc-desc">VEX, Python, OpenCL, and scripting in Houdini.</small>
 - [Houdini: FX & Simulations](#houdini-fx--simulations) <span class="toc-count">(2 items)</span><br><small class="toc-desc">Vellum, FLIP, Pyro, and other simulation workflows.</small>
@@ -766,6 +766,7 @@ Beginner-friendly Houdini intros.
 - [Houdini Donut in Any Shape](https://vimeo.com/492505292). Procedural donut by Lewis Orton.
 - [Houdini in Five Minutes](https://vimeo.com/384384552). Quick intro by Entagma.
 - [SideFX Learn](https://www.sidefx.com/learn/). Official curated learning hub.
+- [SideFX Learning Library](https://www.sidefx.com/learn/learning-library/content/). Searchable content browser for all official Houdini tutorials.
 
 ### Houdini: Essential Learning Resources
 

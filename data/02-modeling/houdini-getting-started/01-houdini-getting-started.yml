@@ -11,6 +11,19 @@ entries:
     tags:
       skill:
         - beginner
+  - name: SideFX Learning Library
+    url: https://www.sidefx.com/learn/learning-library/content/
+    description: Searchable content browser for all official Houdini tutorials.
+    entry_type: reference
+    readme_tags:
+      - Official
+      - Tutorial Index
+    url_last_verified: '2026-05-25'
+    url_status: ok
+    tags:
+      skill:
+        - beginner
+        - intermediate
   - name: Houdini Donut in Any Shape
     url: https://vimeo.com/492505292
     description: Procedural donut by Lewis Orton.
