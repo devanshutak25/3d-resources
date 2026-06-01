@@ -5,7 +5,7 @@ entries:
     entry_type: software
     license: Open Source
     notes: RELOCATE - Photogrammetry suite, unrelated to Blender. Move to photogrammetry section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Open Source
       - Node-based
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Epic Games
       - High-Quality
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -62,7 +62,7 @@ entries:
     readme_tags:
       - GIS Features
       - Pro
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -82,7 +82,7 @@ entries:
     readme_tags:
       - Mobile
       - LiDAR
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Cross-platform
       - Mobile
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -117,7 +117,7 @@ entries:
     readme_tags:
       - Free Lite
       - 50 Photos
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -137,7 +137,7 @@ entries:
     readme_tags:
       - Free Mobile
       - Gaussian Splat
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -154,7 +154,7 @@ entries:
     readme_tags:
       - Desktop
       - Splat Editor
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -164,7 +164,7 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Point cloud and mesh processing
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -181,7 +181,7 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Open-source scan toolkit
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -205,7 +205,7 @@ entries:
     readme_tags:
       - Point Clouds
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -215,7 +215,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Photogrammetry asset library
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -231,7 +231,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Free photogrammetry
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -245,7 +245,7 @@ entries:
     url: https://zju3dv.github.io/object_nerf/
     description: Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) | [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf-->
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -260,7 +260,7 @@ entries:
     url: https://zju3dv.github.io/sine/
     description: Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE) | [bibtex](./citations/sine.txt)
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -283,7 +283,7 @@ entries:
     readme_tags:
       - Photogrammetry
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning

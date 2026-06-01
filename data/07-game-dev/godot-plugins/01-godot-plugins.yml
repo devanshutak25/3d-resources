@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Dialogue System
       - Timeline
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Steamworks
       - SDK
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - Camera System
       - Cinemachine-like
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -53,7 +53,7 @@ entries:
     readme_tags:
       - AI
       - Behavior Trees
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - 2D Terrain
       - Shape Tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -83,7 +83,7 @@ entries:
     readme_tags:
       - Testing
       - GDScript
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -95,7 +95,7 @@ entries:
     description: Unofficial fSpy importer for Godot.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -107,7 +107,7 @@ entries:
     description: Godot 4 glTF runtime import.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -119,7 +119,7 @@ entries:
     description: Package manager for Godot using npm.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:

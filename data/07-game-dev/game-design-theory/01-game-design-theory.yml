@@ -6,7 +6,7 @@ entries:
     readme_tags:
       - UI Reference
       - Database
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -18,7 +18,7 @@ entries:
     readme_tags:
       - Marketing
       - Indie
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -31,7 +31,7 @@ entries:
     readme_tags:
       - Interactive
       - Algorithms
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -44,11 +44,12 @@ entries:
     readme_tags:
       - Free Talks
       - GDC
-    url_last_verified: '2026-05-01'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
     tags:
       output:
         - games
+    deprecated: true
   - name: Deconstructor of Fun
     url: https://www.deconstructoroffun.com/
     description: F2P game design and business.
@@ -56,7 +57,7 @@ entries:
     readme_tags:
       - F2P Design
       - Business
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -65,7 +66,7 @@ entries:
     url: http://gameprogrammingpatterns.com/contents.html
     description: Lots of great game development patterns useful when making games with or without Unity.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -74,7 +75,7 @@ entries:
     url: https://github.com/TarasOsiris/unity-game-programming-patterns
     description: Game Programming Pattern Examples in Unity3D.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -87,7 +88,7 @@ entries:
     url: https://www.patreon.com/slynyrd
     description: American, game designer with tons of material, game specific knowledge and mini-tutorials.
     entry_type: channel
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -96,7 +97,7 @@ entries:
     url: https://0x72.itch.io/pixeldudesmaker
     description: Small character generator, including basic animation.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -105,7 +106,7 @@ entries:
     url: http://biz.turbulenz.com/developers
     description: Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -114,7 +115,7 @@ entries:
     url: http://csdb.dk/release/?id=75871
     description: A pixel art editor for the Commodore 64 computer running on Windows
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -123,7 +124,7 @@ entries:
     url: https://developer.apple.com/spritekit/
     description: SpriteKit code to make your game work on iOS, macOS, and tvOS without a hitch.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -132,7 +133,7 @@ entries:
     url: https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
     description: Offers a specific set of 420 pixel art icons designed for RPG games.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -141,7 +142,7 @@ entries:
     url: http://www.goodreads.com/book/show/1633392.Game_Development_Essentials
     description: 'Game Development Essentials: Game Level Design.'
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -150,7 +151,7 @@ entries:
     url: http://gree.github.io/lwf/
     description: Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -159,7 +160,7 @@ entries:
     url: https://halfmaps.itch.io/phototiler
     description: Lightweight photorealistic map renderer that allows quick rendering of 3D maps for creative cartography.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -168,7 +169,7 @@ entries:
     url: https://www.manning.com/books/unity-in-action-second-edition
     description: Unity in Action (book).
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -177,7 +178,7 @@ entries:
     url: https://www.resemble.ai/unity
     description: Resemble's voice cloning engine within Unity
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: broken
     tags:
       output:
@@ -187,7 +188,7 @@ entries:
     url: http://www.spritemate.com
     description: Online Editor for Commodore 64 Sprites
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -196,7 +197,7 @@ entries:
     url: https://github.com/Ttanasart-pt/Pixel-Composer
     description: node-based VFX editor for pixel art
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -207,7 +208,7 @@ entries:
     url: https://github.com/o3de/o3de
     description: Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -218,7 +219,7 @@ entries:
     url: https://github.com/friflo/Friflo.Engine.ECS
     description: High-performance C# ECS with simple API. Supports.NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame,..
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -229,7 +230,7 @@ entries:
     url: https://github.com/MathewHDYT/Unity-Audio-Manager
     description: Plugin, that allows to easily play/change/stop/mute/.. sounds in 2D/3D
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -240,7 +241,7 @@ entries:
     url: https://github.com/epicgames
     description: Epic Games on GitHub. Official Unreal Engine and related repos.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -251,7 +252,7 @@ entries:
     url: https://github.com/unity-technologies
     description: Unity Technologies on GitHub. Official Unity repos and samples.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:

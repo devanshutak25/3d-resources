@@ -4,7 +4,7 @@ entries:
     description: AMD launched a free MaterialX-based Material Library. It allows users to download the materials and encourages them to upload their own.
     entry_type: asset-source
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -17,7 +17,7 @@ entries:
     description: Public domain photographic textures, reference images, cutouts. (CC0)
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -30,7 +30,7 @@ entries:
     description: Free PBR texture sets of common architectural materials, including some nice tile textures.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -43,7 +43,7 @@ entries:
     description: Digital textures for 3D rendering and real-time use.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -67,14 +67,14 @@ entries:
         - pbr
       platform:
         - web
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: The Blendersauce Vault Materials
     url: http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
     description: Abstract, Bricks and Walls, Concrete, Fabric, Fluids, Food, Manmade, Metal, Metal painted Materials, Nature, Plaster, Rocks/Stones, Tiles, Wood.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}
   - name: Substance Source/freebies
@@ -82,7 +82,7 @@ entries:
     description: '[$] : Hundreds of high quality PBR materials.'
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:

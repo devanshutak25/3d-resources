@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Node-based
       - Multi-modal
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/comfyui-ecosystem
@@ -32,7 +32,7 @@ entries:
     readme_tags:
       - Artistic
       - Subscription
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - Production-Grade
       - Open Model
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - Open Source
       - Self-Host
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -87,7 +87,7 @@ entries:
     readme_tags:
       - OpenAI
       - Semantic
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -106,7 +106,7 @@ entries:
     readme_tags:
       - Commercial-Safe
       - Adobe CC
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -125,7 +125,7 @@ entries:
     readme_tags:
       - Real-time
       - Controlled
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -143,7 +143,7 @@ entries:
     readme_tags:
       - Typography
       - Text Rendering
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -161,7 +161,7 @@ entries:
     readme_tags:
       - Google
       - Realism
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -179,7 +179,7 @@ entries:
     readme_tags:
       - xAI
       - Photoreal
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -197,7 +197,7 @@ entries:
     readme_tags:
       - Design Focus
       - Vector
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -216,7 +216,7 @@ entries:
     readme_tags:
       - Real-time
       - Upscaling
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -234,7 +234,7 @@ entries:
     readme_tags:
       - Design Canvas
       - Mixed-mode
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -253,7 +253,7 @@ entries:
     readme_tags:
       - Open Source
       - Bilingual
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -272,7 +272,7 @@ entries:
     readme_tags:
       - Tencent
       - DiT
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -290,7 +290,7 @@ entries:
     readme_tags:
       - ByteDance
       - Video Pipeline
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -300,7 +300,7 @@ entries:
     license: Paid
     entry_type: software
     notes: RELOCATE. Digital humans platform; not image gen. Move to §03 or §09 AI-Assisted CG Tools.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -315,7 +315,7 @@ entries:
     license: Open Source
     entry_type: software
     notes: RELOCATE. Text-to-3D, belongs under §09 3D Generation.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -332,7 +332,7 @@ entries:
     description: Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -350,7 +350,7 @@ entries:
     license: Open Source
     entry_type: software
     notes: RELOCATE. Music gen, belongs under §09 AI Audio & Music.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -364,7 +364,7 @@ entries:
     description: Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -379,7 +379,7 @@ entries:
     license: Paid
     entry_type: software
     notes: RELOCATE. Text-to-animation, belongs under §09 Video Generation.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -405,7 +405,7 @@ entries:
     readme_tags:
       - AI PBR
       - Tileable
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -428,7 +428,7 @@ entries:
     readme_tags:
       - Game-Ready
       - Full Maps
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -448,7 +448,7 @@ entries:
     readme_tags:
       - Meshy Pipeline
       - Integrated
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -468,7 +468,7 @@ entries:
     readme_tags:
       - Adobe
       - Prompt-to-Edit
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: unreachable
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -488,7 +488,7 @@ entries:
     readme_tags:
       - Mesh-aware
       - Text→Tex
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: unreachable
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -508,7 +508,7 @@ entries:
     readme_tags:
       - Substance-alt
       - AI Workflows
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -527,5 +527,5 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok

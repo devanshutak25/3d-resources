@@ -1,5 +1,4 @@
 entries:
-  # ---------- Review / collab additions ----------
   - name: Frame.io
     url: https://frame.io/
     description: Adobe-owned review and collaboration platform for video and motion teams.
@@ -18,7 +17,7 @@ entries:
     readme_tags:
       - Adobe
       - Cloud Review
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: SyncSketch
     url: https://syncsketch.com/
@@ -37,7 +36,7 @@ entries:
     readme_tags:
       - Autodesk
       - Browser Review
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Cinesync
     url: https://cinesync.com/
@@ -54,8 +53,8 @@ entries:
     readme_tags:
       - Backlight
       - Synced Review
-    url_last_verified: '2026-05-22'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: unreachable
   - name: Filestage
     url: https://filestage.io/
     description: Generic creative review and approval workflow.
@@ -69,7 +68,7 @@ entries:
     readme_tags:
       - Review Workflow
       - Generic
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: RV (Autodesk/Tweak)
     url: https://www.autodesk.com/products/flow-production-tracking/rv
@@ -87,10 +86,9 @@ entries:
     readme_tags:
       - Pro Playback
       - Tweak/Autodesk
-    url_last_verified: '2026-05-22'
-    url_status: ok
-
-  # ---------- Production-tracking gaps ----------
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    deprecated: true
   - name: 5th Kind CORE
     url: https://www.5thkind.com/
     description: Secure media and production management used on major features. Asset sharing + tracking.
@@ -106,7 +104,7 @@ entries:
     readme_tags:
       - Secure Media
       - Feature Films
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Cerebro
     url: https://cerebrohq.com/
@@ -125,7 +123,7 @@ entries:
     readme_tags:
       - Tracker + Chat
       - Studio Tool
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Autodesk Flow Capture
     url: https://www.autodesk.com/products/flow-capture
@@ -145,8 +143,9 @@ entries:
     readme_tags:
       - On-Set Dailies
       - Was Moxion
-    url_last_verified: '2026-05-22'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    deprecated: true
   - name: Hansoft (Perforce)
     url: https://www.perforce.com/products/hansoft
     description: Agile PM for games and VFX studios.
@@ -164,10 +163,8 @@ entries:
     readme_tags:
       - Perforce
       - Agile PM
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
-
-  # ---------- Art-team VCS ----------
   - name: Anchorpoint
     url: https://www.anchorpoint.app/
     description: Git/Perforce GUI built for artists. Handles large binary assets cleanly.
@@ -185,7 +182,7 @@ entries:
     readme_tags:
       - Git/Perforce GUI
       - Artist VCS
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Diversion
     url: https://www.diversion.dev/
@@ -206,7 +203,7 @@ entries:
     readme_tags:
       - Cloud VCS
       - Large Binaries
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Snowtrack
     url: https://www.snowtrack.dev/
@@ -221,10 +218,8 @@ entries:
     readme_tags:
       - Beta
       - Artist VCS
-    url_last_verified: '2026-05-22'
-    url_status: ok
-
-  # ---------- Color / conform ----------
+    url_last_verified: '2026-06-01'
+    url_status: unreachable
   - name: Colorfront
     url: https://colorfront.com/
     description: On-set dailies and transcode platform used on major features.
@@ -244,7 +239,7 @@ entries:
     readme_tags:
       - On-Set Dailies
       - Feature Films
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: FilmLight Daylight
     url: https://www.filmlight.ltd.uk/products/daylight/
@@ -264,7 +259,7 @@ entries:
     readme_tags:
       - FilmLight
       - Dailies/Conform
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Sohonet ClearView Flex
     url: https://www.sohonet.com/clearview/
@@ -282,9 +277,9 @@ entries:
     readme_tags:
       - Remote Color
       - Streaming
-    url_last_verified: '2026-05-22'
-    url_status: ok
-
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    deprecated: true
   - name: Deadline (AWS Thinkbox)
     url: https://aws.amazon.com/thinkbox-deadline/
     description: Render farm manager. Free since v10.1.23. Deadline 10 in maintenance mode (Nov 2025); AWS pushing managed Deadline Cloud.
@@ -305,7 +300,7 @@ entries:
     readme_tags:
       - Render Farm
       - Free
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
     notes: Maintenance mode since 2025-11-07. Successor is AWS Deadline Cloud (usage-based).
   - name: Flow Production Tracking (Autodesk)
@@ -326,9 +321,10 @@ entries:
     readme_tags:
       - Industry Standard
       - Production Tracking
-    url_last_verified: '2026-05-05'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
     notes: Formerly ShotGrid (renamed 2024-03-26).
+    deprecated: true
   - name: AYON (Ynput)
     url: https://ynput.io/ayon/
     description: Open-source VFX/animation pipeline platform; successor to OpenPype (archived).
@@ -350,7 +346,7 @@ entries:
     readme_tags:
       - Open Pipeline
       - VFX Studio
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
     notes: OpenPype is EOL/archived; AYON is the active successor.
   - name: Royal Render
@@ -372,7 +368,7 @@ entries:
     readme_tags:
       - Render Farm
       - Studio
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Tractor (Pixar)
     url: https://renderman.pixar.com/tractor
@@ -392,11 +388,11 @@ entries:
     readme_tags:
       - RenderMan
       - Render Farm
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Fox Renderfarm
     url: https://www.foxrenderfarm.com/
-    description: 'TPN-accredited CPU + GPU cloud farm. Supports Blender, Maya, 3ds Max, C4D, Houdini with V-Ray, Arnold, Corona, Redshift, Octane, Karma. 24/7 support. $25 free trial.'
+    description: TPN-accredited CPU + GPU cloud farm. Supports Blender, Maya, 3ds Max, C4D, Houdini with V-Ray, Arnold, Corona, Redshift, Octane, Karma. 24/7 support. $25 free trial.
     license: Paid
     entry_type: tool
     best_for: Multi-engine production rendering
@@ -415,11 +411,11 @@ entries:
     readme_tags:
       - Cloud Render Farm
       - TPN Certified
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: RebusFarm
     url: https://rebusfarm.net/
-    description: 'German cloud farm supporting 20+ apps including Blender, 3ds Max, Maya, C4D, SketchUp. CPU 1.33 cents/GHz-hr, GPU 0.50 cents/OB-hr.'
+    description: German cloud farm supporting 20+ apps including Blender, 3ds Max, Maya, C4D, SketchUp. CPU 1.33 cents/GHz-hr, GPU 0.50 cents/OB-hr.
     license: Paid
     entry_type: tool
     best_for: Archviz and animation cloud rendering
@@ -438,11 +434,11 @@ entries:
     readme_tags:
       - Cloud Render Farm
       - Multi-Host
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: GarageFarm.NET
     url: https://garagefarm.net/
-    description: 'SaaS render farm with automated workflow. Supports Maya, 3ds Max, C4D, Blender, Houdini, Modo. Three pricing tiers based on speed vs budget.'
+    description: SaaS render farm with automated workflow. Supports Maya, 3ds Max, C4D, Blender, Houdini, Modo. Three pricing tiers based on speed vs budget.
     license: Paid
     entry_type: tool
     best_for: Automated SaaS cloud rendering
@@ -461,11 +457,11 @@ entries:
     readme_tags:
       - Cloud Render Farm
       - SaaS
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Ranch Computing
     url: https://www.ranchcomputing.com/
-    description: 'French managed farm focused on Blender, C4D, Maya, 3ds Max, Houdini including Karma XPU. Predictable per-frame pricing.'
+    description: French managed farm focused on Blender, C4D, Maya, 3ds Max, Houdini including Karma XPU. Predictable per-frame pricing.
     license: Paid
     entry_type: tool
     best_for: European archviz and animation farm
@@ -483,11 +479,11 @@ entries:
     readme_tags:
       - Cloud Render Farm
       - Karma XPU
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Super Renders Farm
     url: https://superrendersfarm.com/
-    description: 'Multi-engine farm with 20k+ Xeon cores and RTX 5090 GPU nodes. Supports V-Ray, Corona, Arnold, Redshift, Octane, Cycles across Blender, Maya, 3ds Max, C4D, Houdini.'
+    description: Multi-engine farm with 20k+ Xeon cores and RTX 5090 GPU nodes. Supports V-Ray, Corona, Arnold, Redshift, Octane, Cycles across Blender, Maya, 3ds Max, C4D, Houdini.
     license: Paid
     entry_type: tool
     best_for: GPU-heavy multi-engine rendering
@@ -506,11 +502,11 @@ entries:
     readme_tags:
       - Cloud Render Farm
       - RTX 5090
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Pixel Plow
     url: https://www.pixelplow.com/
-    description: '3ds Max, After Effects, Blender, and Cinema 4D render farm.'
+    description: 3ds Max, After Effects, Blender, and Cinema 4D render farm.
     license: Paid
     entry_type: tool
     best_for: Mograph and archviz rendering
@@ -528,11 +524,12 @@ entries:
     readme_tags:
       - Cloud Render Farm
       - Mograph
-    url_last_verified: '2026-05-20'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    deprecated: true
   - name: GridMarkets
     url: https://www.gridmarkets.com/
-    description: 'Houdini-first cloud farm with Mantra, Karma CPU/XPU, PDG/TOP support. Also Maya, C4D, Blender, 3ds Max, Nuke + Arnold, V-Ray, Redshift, RenderMan.'
+    description: Houdini-first cloud farm with Mantra, Karma CPU/XPU, PDG/TOP support. Also Maya, C4D, Blender, 3ds Max, Nuke + Arnold, V-Ray, Redshift, RenderMan.
     license: Paid
     entry_type: tool
     best_for: Houdini VFX and PDG distributed jobs
@@ -549,11 +546,11 @@ entries:
     readme_tags:
       - Houdini Farm
       - PDG/TOP
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Conductor Technologies
     url: https://www.conductortech.com/
-    description: 'API-driven render orchestration. Supports 3ds Max, AE, Blender, C4D, Houdini, Maya, Nuke with Arnold, Corona, Cycles, Mantra, Redshift, RenderMan, V-Ray.'
+    description: API-driven render orchestration. Supports 3ds Max, AE, Blender, C4D, Houdini, Maya, Nuke with Arnold, Corona, Cycles, Mantra, Redshift, RenderMan, V-Ray.
     license: Paid
     entry_type: tool
     best_for: API-driven studio render orchestration
@@ -571,11 +568,11 @@ entries:
     readme_tags:
       - Render Orchestration
       - Studio Pipeline
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: iRender
     url: https://irendering.net/
-    description: 'IaaS dedicated RTX 4090 nodes from ~$8.20/hr. Optimized for Redshift, Octane, Blender, V-Ray, Iray, Maxwell, Houdini, C4D, Maya via remote desktop.'
+    description: IaaS dedicated RTX 4090 nodes from ~$8.20/hr. Optimized for Redshift, Octane, Blender, V-Ray, Iray, Maxwell, Houdini, C4D, Maya via remote desktop.
     license: Paid
     entry_type: tool
     best_for: Dedicated GPU server rental
@@ -593,11 +590,11 @@ entries:
     readme_tags:
       - IaaS Render
       - RTX 4090
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Chaos Cloud
     url: https://www.chaos.com/cloud
-    description: 'V-Ray native cloud rendering from 3ds Max, Maya, SketchUp, Rhino, C4D. Credits bundled with V-Ray subscription.'
+    description: V-Ray native cloud rendering from 3ds Max, Maya, SketchUp, Rhino, C4D. Credits bundled with V-Ray subscription.
     license: Paid
     entry_type: tool
     best_for: V-Ray one-click cloud rendering
@@ -615,11 +612,11 @@ entries:
     readme_tags:
       - V-Ray Native
       - One-Click
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Maxon One Cloud
     url: https://www.maxon.net/en/cinema-4d/features/cloud-rendering
-    description: 'Integrated C4D cloud rendering for Standard, Physical, and Redshift engines. Bundled with Maxon One subscription.'
+    description: Integrated C4D cloud rendering for Standard, Physical, and Redshift engines. Bundled with Maxon One subscription.
     license: Paid
     entry_type: tool
     best_for: C4D-native cloud rendering
@@ -637,11 +634,12 @@ entries:
     readme_tags:
       - C4D Native
       - Maxon One
-    url_last_verified: '2026-05-20'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    deprecated: true
   - name: AWS Deadline Cloud
     url: https://aws.amazon.com/deadline-cloud/
-    description: 'Managed successor to on-prem Deadline. Usage-based pricing on AWS infrastructure with Deadline submitter compatibility.'
+    description: Managed successor to on-prem Deadline. Usage-based pricing on AWS infrastructure with Deadline submitter compatibility.
     license: Paid
     entry_type: tool
     best_for: Managed cloud farm for Deadline shops
@@ -659,11 +657,11 @@ entries:
     readme_tags:
       - AWS Managed
       - Deadline Successor
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Drop & Render
     url: https://dropandrender.com/
-    description: 'Official Redshift and SideFX Karma partner farm. C4D and Blender focus with AOV, Cryptomatte, Redshift proxy, tiled renders.'
+    description: Official Redshift and SideFX Karma partner farm. C4D and Blender focus with AOV, Cryptomatte, Redshift proxy, tiled renders.
     license: Paid
     entry_type: tool
     best_for: C4D Redshift and Houdini Karma rendering
@@ -681,11 +679,11 @@ entries:
     readme_tags:
       - Redshift Partner
       - Karma Partner
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: OTOY Render Cloud (ORC)
     url: https://home.otoy.com/render/orc/
-    description: 'OTOY cloud rendering for Octane scenes. Pay-as-you-go GPU rendering with ORBX scene packaging.'
+    description: OTOY cloud rendering for Octane scenes. Pay-as-you-go GPU rendering with ORBX scene packaging.
     license: Paid
     entry_type: tool
     best_for: Octane GPU cloud rendering
@@ -703,7 +701,7 @@ entries:
     readme_tags:
       - Octane Native
       - GPU Cloud
-    url_last_verified: '2026-05-20'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Yeti (Peregrine Labs)
     url: https://peregrinelabs.com/products/yeti
@@ -723,7 +721,7 @@ entries:
     readme_tags:
       - Grooming
       - Maya Plugin
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Ornatrix (Ephere)
     url: https://ephere.com/
@@ -744,7 +742,7 @@ entries:
     readme_tags:
       - Grooming
       - Multi-Host
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Massive
     url: https://www.massivesoftware.com/
@@ -764,7 +762,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Crowd Sim
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Golaem (Autodesk)
     url: https://www.autodesk.com/solutions/golaem
@@ -785,7 +783,7 @@ entries:
     readme_tags:
       - Crowd Sim
       - Maya
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
     notes: Standalone purchase removed; only via Autodesk M&E Collection.
   - name: Houdini Engine (SideFX product)
@@ -802,7 +800,7 @@ entries:
     readme_tags:
       - Procedural Pipeline
       - Multi-Engine
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     notes: RELOCATE. Entry_type 'software' belongs in §12 software table.
     dual_listed_in:
@@ -819,7 +817,7 @@ entries:
     readme_tags:
       - Middleware
       - Pro
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-dialogue-narrative
@@ -837,7 +835,7 @@ entries:
     readme_tags:
       - Cloud Multiplayer
       - Unity/Unreal
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-networking
@@ -855,7 +853,7 @@ entries:
     readme_tags:
       - Social Server
       - Matchmaking
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-networking
@@ -871,7 +869,7 @@ entries:
     readme_tags:
       - Free EOS
       - Matchmaking/Voice
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-networking
@@ -880,7 +878,7 @@ entries:
     description: A SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -893,7 +891,7 @@ entries:
     license: Free
     entry_type: software
     notes: 'FLAG: entry_type misfit. This is a tutorial/article, not software.'
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -914,7 +912,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Free ≤5 users
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-version-control
@@ -931,7 +929,7 @@ entries:
     readme_tags:
       - Artist-Friendly
       - Unity-Integrated
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-version-control
@@ -940,7 +938,7 @@ entries:
     description: Official supported IDE for Unity in Windows platform. Mac version [here](https://visualstudio.microsoft.com/es/vs/mac/).
     entry_type: software
     license: Freemium
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -967,7 +965,7 @@ entries:
     readme_tags:
       - Pipeline
       - Free Core
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -985,7 +983,7 @@ entries:
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1001,7 +999,7 @@ entries:
     readme_tags:
       - Production Tracking
       - Pro
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1019,7 +1017,7 @@ entries:
     readme_tags:
       - Open Source
       - Tracking
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1035,7 +1033,7 @@ entries:
     readme_tags:
       - Pipeline
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1053,7 +1051,7 @@ entries:
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1066,7 +1064,7 @@ entries:
     readme_tags:
       - Pipeline
       - Asset Mgmt
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1084,7 +1082,7 @@ entries:
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1102,7 +1100,7 @@ entries:
     readme_tags:
       - Render Farm
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1120,7 +1118,7 @@ entries:
     readme_tags:
       - Render Farm
       - Guerilla-adjacent
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1133,7 +1131,7 @@ entries:
     readme_tags:
       - 3D Data Processing
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1152,7 +1150,7 @@ entries:
     readme_tags:
       - Geometry Lib
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1170,7 +1168,7 @@ entries:
     readme_tags:
       - Render Farm
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1188,7 +1186,7 @@ entries:
     readme_tags:
       - Editorial
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1206,7 +1204,7 @@ entries:
     readme_tags:
       - Look Dev
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -1215,7 +1213,7 @@ entries:
     description: A procedural terrain generation and procedural modeling toolkit.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1227,7 +1225,7 @@ entries:
     url: https://viniguerrero.itch.io/godot-game-tools
     description: Made easy importing mixamo animations. tools to ease the creation/import process of assets into Godot Game Engine and others.
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1255,7 +1253,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Lookdev/Lighting
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - lighting-rendering-shaders/lighting-production
@@ -1263,7 +1261,7 @@ entries:
     url: https://watabou.itch.io/medieval-fantasy-city-generator
     description: 'This application generates a random medieval city layout of a requested size. [City Viewer](https://watabou.itch.io/city-viewer) : is a 3d-visualizer for MFCD. See other generators from'
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:

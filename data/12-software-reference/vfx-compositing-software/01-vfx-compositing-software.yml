@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Planar Tracking
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Roto/Paint
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - Plugin Suite
       - VFX
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Continuum
     url: https://borisfx.com/products/continuum/
@@ -90,7 +90,7 @@ entries:
     readme_tags:
       - Plugin Suite
       - Broadcast
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Mocha AE
     url: https://borisfx.com/products/mocha-ae/
@@ -111,8 +111,9 @@ entries:
     readme_tags:
       - Free w/ AE
       - Planar Tracking
-    url_last_verified: '2026-05-22'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    deprecated: true
   - name: Boris FX Optics
     url: https://borisfx.com/products/optics/
     description: Photo and film stylization plugin and standalone. Filters, grain, lens FX, color.
@@ -133,7 +134,7 @@ entries:
     readme_tags:
       - Stylize
       - Lens FX
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Boris FX Particle Illusion
     url: https://borisfx.com/products/particle-illusion/
@@ -154,7 +155,7 @@ entries:
     readme_tags:
       - Free
       - Particle Library
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Boris Title Studio
     url: https://borisfx.com/products/continuum/title-studio/
@@ -174,8 +175,9 @@ entries:
     readme_tags:
       - 3D Titles
       - Broadcast
-    url_last_verified: '2026-05-22'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    deprecated: true
   - name: Red Giant Complete
     url: https://www.maxon.net/en/red-giant
     description: Maxon-owned VFX/motion suite. Trapcode, Magic Bullet, VFX Suite, Universe.
@@ -196,7 +198,7 @@ entries:
     readme_tags:
       - Plugin Suite
       - Motion Graphics
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
@@ -220,7 +222,7 @@ entries:
     readme_tags:
       - Face Tracking
       - VFX
-    url_last_verified: '2026-05-05'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -246,7 +248,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Node-based
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: DaVinci Resolve Fusion
     url: https://www.blackmagicdesign.com/products/davinciresolve/fusion
@@ -271,7 +273,7 @@ entries:
     readme_tags:
       - Node-based
       - Free with Resolve
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Natron (community fork)
     url: https://natrongithub.github.io/
@@ -297,7 +299,7 @@ entries:
       - Nuke-like
     dual_listed_in:
       - motion-graphics-video/motion-graphics-inspiration
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: EmberGen
     url: https://jangafx.com/software/embergen/
@@ -322,7 +324,7 @@ entries:
     readme_tags:
       - Real-time Sim
       - Fire/Smoke
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: LiquiGen
     url: https://jangafx.com/software/liquigen/
@@ -346,7 +348,7 @@ entries:
     readme_tags:
       - Real-time Sim
       - Liquids
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: IlluGen
     url: https://jangafx.com/software/illugen/
@@ -373,7 +375,7 @@ entries:
     readme_tags:
       - Real-time
       - Procedural Materials
-    url_last_verified: '2026-05-08'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: GeoGen (JangaFX)
     url: https://jangafx.com/software/geogen/
@@ -396,7 +398,7 @@ entries:
     readme_tags:
       - Terrain Gen
       - Real-time
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: After Effects
     url: https://www.adobe.com/products/aftereffects.html
@@ -421,13 +423,13 @@ entries:
     readme_tags:
       - Motion Graphics
       - Adobe Suite
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: unreachable
   - name: Nukepedia
     url: https://www.nukepedia.com/
     description: Free Nuke gizmos, tools, plugins, tutorials.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -438,7 +440,7 @@ entries:
     url: https://docs.jangafx.com/
     description: Official EmberGen/LiquiGen documentation and how-to guides.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -451,7 +453,7 @@ entries:
     url: https://www.actionvfx.com/
     description: VFX stock elements (explosions, fire, debris).
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -467,7 +469,7 @@ entries:
     readme_tags:
       - Real-Time
       - Procedural
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -493,7 +495,7 @@ entries:
     readme_tags:
       - VJ
       - Live Visuals
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
@@ -511,7 +513,7 @@ entries:
     readme_tags:
       - Projection Mapping
       - Live
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
@@ -531,7 +533,7 @@ entries:
     readme_tags:
       - Real-time VFX
       - Games
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
@@ -552,7 +554,7 @@ entries:
     readme_tags:
       - Real-time
       - Node-based
-    url_last_verified: '2026-05-04'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
@@ -570,7 +572,7 @@ entries:
     readme_tags:
       - Web
       - Quick Anim
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools

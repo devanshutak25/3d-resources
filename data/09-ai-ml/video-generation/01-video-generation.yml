@@ -4,7 +4,7 @@ entries:
     description: Meta's text-to-video research model. Factorized generation, image-then-video. Demos and paper.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:

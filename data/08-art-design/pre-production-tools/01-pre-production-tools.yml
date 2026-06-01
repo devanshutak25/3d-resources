@@ -1,5 +1,4 @@
 entries:
-  # ---------- Storyboarding ----------
   - name: Storyboard Pro (Toon Boom)
     url: https://www.toonboom.com/products/storyboardpro
     description: Industry-standard storyboarding with animatic, camera, and audio timeline.
@@ -19,7 +18,7 @@ entries:
     readme_tags:
       - Industry Std
       - Storyboard
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Storyboarder (Wonder Unit)
     url: https://wonderunit.com/storyboarder/
@@ -39,7 +38,7 @@ entries:
     readme_tags:
       - Free
       - MIT
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: FrameForge Storyboard Studio
     url: https://www.frameforge.com/
@@ -59,7 +58,7 @@ entries:
     readme_tags:
       - 3D Storyboard
       - Lens-Accurate
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Boords
     url: https://boords.com/
@@ -76,7 +75,7 @@ entries:
     readme_tags:
       - Browser
       - Team
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: StudioBinder
     url: https://www.studiobinder.com/
@@ -97,7 +96,7 @@ entries:
     readme_tags:
       - Pre-Prod Suite
       - Cloud
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: ShotPro
     url: https://shotprofessional.com/
@@ -117,7 +116,7 @@ entries:
     readme_tags:
       - iOS
       - 3D Storyboard
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: ShotDeck
     url: https://shotdeck.com/
@@ -132,10 +131,8 @@ entries:
     readme_tags:
       - Film Stills
       - Subscription
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
-
-  # ---------- Previs / techvis ----------
   - name: Cinetracer
     url: https://www.cinetracer.com/
     description: Real-time cinematography simulation on Unreal Engine. Lights, lenses, cameras.
@@ -155,7 +152,7 @@ entries:
     readme_tags:
       - Cinematography Sim
       - Unreal-based
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Cine Designer (C4D)
     url: https://cinedesigner.tv/
@@ -174,8 +171,8 @@ entries:
     readme_tags:
       - C4D Plugin
       - Techvis
-    url_last_verified: '2026-05-22'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: unreachable
   - name: The Third Floor
     url: https://thethirdfloorinc.com/
     description: Previs and postvis studio blog with breakdowns from major features.
@@ -189,7 +186,7 @@ entries:
     readme_tags:
       - Previs Studio
       - Case Studies
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Halon Entertainment
     url: https://halon.com/
@@ -204,7 +201,7 @@ entries:
     readme_tags:
       - Previs/VP
       - Writeups
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Magnopus
     url: https://www.magnopus.com/
@@ -218,10 +215,8 @@ entries:
     readme_tags:
       - VP/XR
       - Studio Blog
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
-
-  # ---------- Script / breakdown ----------
   - name: Movie Magic Scheduling
     url: https://www.ep.com/movie-magic-scheduling/
     description: Industry-standard scheduling and stripboards.
@@ -238,7 +233,7 @@ entries:
     readme_tags:
       - Industry Std
       - Schedule
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Celtx
     url: https://www.celtx.com/
@@ -253,7 +248,7 @@ entries:
     readme_tags:
       - Browser
       - Pre-prod
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Final Draft
     url: https://www.finaldraft.com/
@@ -268,7 +263,7 @@ entries:
     readme_tags:
       - Industry Std
       - Screenwriting
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Fade In
     url: https://www.fadeinpro.com/
@@ -284,7 +279,7 @@ entries:
     readme_tags:
       - Screenwriting
       - Affordable
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Highland
     url: https://highland2.app/
@@ -298,7 +293,7 @@ entries:
     readme_tags:
       - Fountain
       - Mac
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: WriterDuet
     url: https://writerduet.com/
@@ -313,10 +308,8 @@ entries:
     readme_tags:
       - Collab
       - Browser
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
-
-  # ---------- Reference / moodboard ----------
   - name: PureRef
     url: https://www.pureref.com/
     description: Floating reference canvas. Standard for artists.
@@ -333,7 +326,7 @@ entries:
     readme_tags:
       - Pay What You Want
       - Std Artist Tool
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Eagle
     url: https://eagle.cool/
@@ -350,7 +343,7 @@ entries:
     readme_tags:
       - Local DAM
       - Tags
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Kuadro
     url: https://kruelgames.com/tools/kuadro/
@@ -366,8 +359,8 @@ entries:
     readme_tags:
       - Free
       - Lightweight
-    url_last_verified: '2026-05-22'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: unreachable
   - name: Milanote
     url: https://milanote.com/
     description: Visual notes and moodboards for creative planning.
@@ -383,7 +376,7 @@ entries:
     readme_tags:
       - Moodboards
       - Cloud
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Are.na
     url: https://www.are.na/
@@ -399,7 +392,7 @@ entries:
     readme_tags:
       - Research
       - Network
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: FilmGrab
     url: https://film-grab.com/
@@ -414,7 +407,7 @@ entries:
     readme_tags:
       - Free
       - Film Stills
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Shot.Cafe
     url: https://shot.cafe/
@@ -429,10 +422,8 @@ entries:
     readme_tags:
       - Free
       - Search
-    url_last_verified: '2026-05-22'
-    url_status: ok
-
-  # ---------- Direction theory channels ----------
+    url_last_verified: '2026-06-01'
+    url_status: unreachable
   - name: Lessons from the Screenplay
     url: https://www.youtube.com/@LFTScreenplay
     description: Story and screenplay analysis on YouTube.
@@ -444,8 +435,9 @@ entries:
     readme_tags:
       - YouTube
       - Story Analysis
-    url_last_verified: '2026-05-22'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    deprecated: true
   - name: Every Frame a Painting
     url: https://www.youtube.com/@everyframeapainting
     description: Visual-language essays (archive).
@@ -457,7 +449,7 @@ entries:
     readme_tags:
       - Archive
       - Visual Essays
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: StudioBinder Blog
     url: https://www.studiobinder.com/blog/
@@ -470,10 +462,8 @@ entries:
     readme_tags:
       - Free
       - Filmmaking Craft
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
-
-  # ---------- On-set VFX sup ----------
   - name: VES (Visual Effects Society)
     url: https://www.vesglobal.org/
     description: VES handbook, talks, and methodology resources for on-set VFX.
@@ -485,7 +475,7 @@ entries:
     readme_tags:
       - Handbook
       - On-Set
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: ASC Magazine
     url: https://theasc.com/magazine
@@ -498,5 +488,6 @@ entries:
     readme_tags:
       - Cinematography
       - Industry
-    url_last_verified: '2026-05-22'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    deprecated: true

@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Professional
       - Creator-Direct
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - Unity-Ready
       - Games
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Unreal Marketplace
     url: https://www.unrealengine.com/marketplace
@@ -45,7 +45,7 @@ entries:
     readme_tags:
       - UE-Optimized
       - Games
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Blender Market
     url: https://blendermarket.com/
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Blender-Specific
       - Addons + Assets
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Cubebrush
     url: https://cubebrush.co/
@@ -76,7 +76,7 @@ entries:
     readme_tags:
       - Art Assets
       - Games
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Fab (Epic)
     url: https://www.fab.com/
@@ -86,7 +86,7 @@ entries:
     readme_tags:
       - Unified
       - Epic-backed
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -96,7 +96,7 @@ entries:
     description: '[Pixar/CommunityResources](https://renderman.pixar.com/community_resources), [Nikola Damjanov''s 100 PBR Texture Sets](https://www.artstation.com/artwork/0XEN4V)'
     license: Freemium
     entry_type: marketplace
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -109,7 +109,7 @@ entries:
     description: Daz Content, 3D models, textures and materials.
     entry_type: marketplace
     license: Freemium
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -120,6 +120,6 @@ entries:
     description: Connects Megascans to all your favorite tools including Blender.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}

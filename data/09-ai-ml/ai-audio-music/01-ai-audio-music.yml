@@ -4,7 +4,7 @@ entries:
     description: Meta's open audio generation stack. MusicGen for music, AudioGen for SFX, EnCodec for neural audio compression.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
