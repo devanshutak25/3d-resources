@@ -548,6 +548,26 @@ entries:
       - Lightweight
     url_last_verified: '2026-05-01'
     url_status: ok
+  - name: Paint.NET
+    url: https://www.getpaint.net/
+    description: Free Windows raster editor with layers, plugins, and unlimited undo. Sits between Microsoft Paint and Photoshop.
+    license: Free
+    entry_type: software
+    best_for: Quick raster edits, texture tweaks, photo touch-ups
+    tags:
+      workflow:
+        - texturing
+        - concept
+      output:
+        - generalist
+        - illustration
+      platform:
+        - win
+    readme_tags:
+      - Windows-native
+      - Layers
+    url_last_verified: '2026-06-02'
+    url_status: ok
   - name: FontLab 8
     url: https://www.fontlab.com/font-editor/fontlab/
     description: Professional font editor.

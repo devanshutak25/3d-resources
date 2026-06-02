@@ -238,3 +238,7 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 **Answered:** Blender demo-files already in 01-assets/software-specific-libraries. Added "SideFX Learning Library" to 02-modeling/houdini-getting-started (sibling of existing /learn/ entry). Validate passed.
 
 ---
+
+## 2026-06-02
+- **Prompt:** add https://www.getpaint.net/
+  - Added Paint.NET to `12-software-reference/design-software` (free Windows raster editor, layers). Validation passed.
