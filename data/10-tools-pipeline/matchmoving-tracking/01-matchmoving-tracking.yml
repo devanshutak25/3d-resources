@@ -5,7 +5,7 @@ entries:
     license: Paid
     entry_type: plugin
     best_for: Warped surface track
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -21,8 +21,8 @@ entries:
     license: Paid
     entry_type: software
     best_for: Chroma key
-    url_last_verified: '2026-05-22'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
     tags:
       output:
         - film-vfx
@@ -31,6 +31,7 @@ entries:
     readme_tags:
       - Keyer
       - Chroma Key
+    deprecated: true
   - name: F Spy Maya
     url: https://github.com/Nathanieljla/fSpy-Maya
     description: Unofficial fSpy Maya importer (one of several).
@@ -46,5 +47,5 @@ entries:
     readme_tags:
       - Free
       - Maya Bridge
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok

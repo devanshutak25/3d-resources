@@ -3,7 +3,7 @@ entries:
     url: https://blog.pusher.com/building-ar-game-arkit-spritekit/
     description: Building an AR game with ARKit and Spritekit.
     entry_type: tutorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -16,7 +16,7 @@ entries:
     description: High-level AR framework by Apple. Comparable to Unity and Unreal Engine but specific for AR solutions.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -28,7 +28,7 @@ entries:
     url: https://developer.apple.com/documentation/arkit/content_anchors/capturing_body_motion_in_3d
     description: Capturing Body Motion in 3D | Apple Developer Documentation.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -40,7 +40,7 @@ entries:
     url: https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture
     description: Rigging a Model for Motion Capture | Apple Developer Documentation.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -52,20 +52,21 @@ entries:
     url: https://developer.oculus.com/resources/bp-rendering/
     description: Rendering | Oculus Developers.
     entry_type: reference
-    url_last_verified: '2026-05-01'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
     tags:
       output:
         - games
         - xr
       tech:
         - xr
+    deprecated: true
   - name: Vuforia
     url: https://developer.vuforia.com/
     description: AR SDK that is directly integrated in the Unity Editor. Proprietary license, [free to develop with](https://developer.vuforia.com/vui/pricing)
     entry_type: tool
     license: Freemium
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -78,7 +79,7 @@ entries:
     description: Test project to record VR sessions. (#VIRTUAL-REALITY)
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -94,7 +95,7 @@ entries:
     description: '``Unity`` guided learning Pathway will prepare you for a job in the VR industry |'
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -107,7 +108,7 @@ entries:
     description: Medium is a dedicated VR sculpting and painting package for users of Oculus headsets, capable of exporting models to DCC applications in OBJ or FBX format.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -119,7 +120,7 @@ entries:
     url: http://ralphbarbagallo.com/2015/05/26/how-to-support-gear-vr-and-google-cardboard-in-one-unity3d-project/
     description: How to support GearVR and Google Cardboard in one Unity3D project.
     entry_type: tutorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -131,7 +132,7 @@ entries:
     url: https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1
     description: '[Mirror](https://archive.is/qHQXY) - [Mirror 2](https://web.archive.org/web/20170515082222/https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1)'
     entry_type: tutorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -143,7 +144,7 @@ entries:
     url: https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2
     description: '[Mirror](https://archive.is/9IyFG) - [Mirror 2](https://web.archive.org/web/20170609191610/https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2)'
     entry_type: tutorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -156,7 +157,7 @@ entries:
     description: The device is an implementation of Leap Motion's [Norh Star]() reference design - an open source specification for an AR headset with two 1600x1440 displays with 120 FPS, a visual field of 100 degr
     entry_type: tool
     license: Paid
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -168,7 +169,7 @@ entries:
     url: https://somedudes.ch/2017/02/21/how-to-create-a-minimap-for-vr-in-unity/
     description: '[Mirror](https://archive.is/Sy5NG)'
     entry_type: tutorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -181,7 +182,7 @@ entries:
     description: Online 3D editor with AR export capabilities.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -194,7 +195,7 @@ entries:
     description: Former Ultralhaptics & Leap Motion
     entry_type: tool
     license: Paid
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -206,7 +207,7 @@ entries:
     url: http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/
     description: '[Mirror](https://archive.is/qCMTY) - [Mirror 2](https://web.archive.org/web/20170201100941/http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/)'
     entry_type: tutorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -218,7 +219,7 @@ entries:
     url: http://doc-ok.org/
     description: Good resource to get started learning about VR / stereo rendering.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -231,7 +232,7 @@ entries:
     description: Blender add-on allows you to model your scene in Blender and export it to an A-Frame VR project with a single click.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -248,7 +249,7 @@ entries:
     description: Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -264,7 +265,7 @@ entries:
     description: ARCore Android SDK with Google Filament 3D engine. Continuation of Google Sceneform
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -282,7 +283,7 @@ entries:
     readme_tags:
       - Research
       - XR
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -300,7 +301,7 @@ entries:
     readme_tags:
       - AR/VR
       - Renderer
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -324,7 +325,7 @@ entries:
     readme_tags:
       - WebAR
       - Niantic
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Mozilla Hubs
     url: https://hubs.mozilla.com/
@@ -346,5 +347,5 @@ entries:
     readme_tags:
       - WebXR
       - Social
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok

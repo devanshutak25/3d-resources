@@ -5,7 +5,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Blender build/version manager utility, not an addon. Move to a Blender utilities/tools section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -17,7 +17,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - CLI build manager, not a Blender addon.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -29,7 +29,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone version manager, not an addon.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -44,7 +44,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone launcher, not an addon.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -59,7 +59,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone manager app, not an addon.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -71,7 +71,7 @@ entries:
     entry_type: tutorial
     license: Open Source
     notes: RELOCATE - Scripting examples/tutorial, not an addon. Move to Blender scripting/dev section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -84,7 +84,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Dev tooling for IDE completion, not an addon. Move to Blender scripting/dev section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -95,7 +95,7 @@ entries:
     description: Blender addon for remote debugging Blender with VS Code (and Visual Studio).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -110,7 +110,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - CLI rendering scripts, not an addon. Move to Blender scripting/rendering tools.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -126,7 +126,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Test harness for addon devs, not an addon itself. Move to Blender scripting/dev section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -138,7 +138,7 @@ entries:
     entry_type: reference
     license: Open Source
     notes: RELOCATE - Addon dev starter kit/reference, not a usable addon. Move to Blender scripting/dev section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -152,7 +152,7 @@ entries:
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Python library for addon devs, not a user-facing addon. Move to Blender scripting/dev section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -165,7 +165,7 @@ entries:
     description: Scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -179,7 +179,7 @@ entries:
     entry_type: reference
     license: Open Source
     notes: RELOCATE - Awesome list on 3D human research, unrelated to Blender addons. Move to research/reference section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     stale: true
     last_pushed: '2023-10-30'
@@ -189,7 +189,7 @@ entries:
     entry_type: reference
     license: Open Source
     notes: RELOCATE - 3D printing awesome list, unrelated to Blender addons. Move to 3D printing section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: 3 D Machine Learning
     url: https://github.com/timzhang642/3D-Machine-Learning
@@ -197,7 +197,7 @@ entries:
     entry_type: reference
     license: Open Source
     notes: RELOCATE - 3D ML resource list, unrelated to Blender addons. Move to research/reference section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -208,7 +208,7 @@ entries:
     entry_type: reference
     license: Open Source
     notes: RELOCATE - Awesome list about Blender in research, not an addon. Move to Blender reference/community section.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -229,14 +229,14 @@ entries:
     readme_tags:
       - Physics Sim
       - Cloth/Hair/Soft Body
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: CharMorph
     url: https://blenderartists.org/t/charmorph-character-creation-tool-mb-lab-based/1252543
     description: An open source character creation tool for Blender. It's a rewrite of [MB-Lab](https://github.com/animate1978/MB-Lab), which is now unmaintained. [![][repo]](https://github.com/Upliner/CharMorph)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -250,7 +250,7 @@ entries:
     description: HDRI Sun Aligner is a Blender addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -265,7 +265,7 @@ entries:
     description: Addon for blender which helps generating complex pipe layouts.
     entry_type: tool
     license: Paid
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -278,7 +278,7 @@ entries:
     description: Automatic Blender Terrain Generator is a and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
     entry_type: tool
     license: Paid
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -291,7 +291,7 @@ entries:
     description: Create textures from Glsl fragment shaders on Blender (2.8)
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -307,7 +307,7 @@ entries:
     description: This addon streamlines the texture baking process in Blender.
     license: Paid
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -320,7 +320,7 @@ entries:
     description: This addon provides a simple solution to be able to quickly switch alpha textures for the sculpt brushes.
     license: Free
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -333,7 +333,7 @@ entries:
     description: This addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs recently supports generating Blender materials from Poliigon texture sets.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -346,7 +346,7 @@ entries:
     description: Texture baking UI for Blender that lives in the 3D Viewport. Small but powerful! Fast one-click baking and iteration.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -362,7 +362,7 @@ entries:
     description: Create PBR node setup with one click.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -378,7 +378,7 @@ entries:
     description: Bake PBR textures with a few clicks.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -394,7 +394,7 @@ entries:
     description: A addon to manage texture layers for EEVEE and Cycles renderer.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -411,7 +411,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Human Gen
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -426,7 +426,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Welds
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -441,7 +441,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Array
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -456,7 +456,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Mesh Repair
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -471,7 +471,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Physics Drop
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -486,7 +486,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Archviz
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -501,7 +501,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Rigging
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -516,7 +516,7 @@ entries:
     readme_tags:
       - Blender Addon
       - UV Tools
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -531,7 +531,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Baking
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -546,7 +546,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Collision
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -561,7 +561,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Collaboration
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -577,7 +577,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Theme
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -592,7 +592,7 @@ entries:
     readme_tags:
       - Blender Addon
       - LOD
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -604,7 +604,7 @@ entries:
     description: Typewriter text animation for font objects.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -619,7 +619,7 @@ entries:
     description: Easy font management inside Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -632,7 +632,7 @@ entries:
     description: Blender addon with set of few tools designed to help carving decals in 3D models.
     license: Paid
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -644,7 +644,7 @@ entries:
     description: Package of plugins for Blender, which allows you view 3D models from World of Tanks.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -656,7 +656,7 @@ entries:
     description: '[$] : A Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuild'
     license: Paid
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -668,7 +668,7 @@ entries:
     description: Directly import and export models from and to Sketchfab in Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -681,7 +681,7 @@ entries:
     description: Curtis Holt's storefront for Blender addons and learning products.
     license: Paid
     entry_type: marketplace
-    url_last_verified: '2026-05-06'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:

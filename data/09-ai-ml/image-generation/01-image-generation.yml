@@ -5,7 +5,7 @@ entries:
     entry_type: reference
     license: Free
     notes: RELOCATE. Academic paper (ArXiv), better suited under a research/reference subsection.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -20,7 +20,7 @@ entries:
     license: Free
     entry_type: channel
     notes: RELOCATE. General genAI course; better under §09 ML for CG.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -35,7 +35,7 @@ entries:
     license: Free
     entry_type: tutorial
     notes: RELOCATE. Voice AI stack, belongs under §09 AI Audio & Music.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -48,7 +48,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: RELOCATE. Animation notebook; could move under §09 Video Generation.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -61,7 +61,7 @@ entries:
     license: Open Source
     entry_type: tool
     notes: RELOCATE. Animation notebook; could move under §09 Video Generation.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -74,7 +74,7 @@ entries:
     license: Open Source
     entry_type: plugin
     notes: RELOCATE. Blender addon; could move under §Plugins or AI-Assisted CG Tools.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -89,7 +89,7 @@ entries:
     license: Free
     entry_type: tutorial
     notes: RELOCATE. General genAI course; move to §09 ML for CG.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -103,7 +103,7 @@ entries:
     license: Open Source
     entry_type: reference
     notes: RELOCATE. Belongs under §09 3D Generation, not Image Generation.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -117,7 +117,7 @@ entries:
     license: Open Source
     entry_type: community
     notes: RELOCATE. Could fit better under §09 Open-Source Models (HuggingFace).
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -130,7 +130,7 @@ entries:
     license: Free
     entry_type: tutorial
     notes: RELOCATE. 2D-to-3D guide; better under §09 3D Generation.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -143,7 +143,7 @@ entries:
     license: Free
     entry_type: reference
     notes: News article, not software.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -156,7 +156,7 @@ entries:
     license: Free
     entry_type: community
     notes: RELOCATE. Deforum animation, better under §09 Video Generation.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -168,7 +168,7 @@ entries:
     description: Community response for the "Stable Diffusion litigation"
     license: Free
     entry_type: community
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -181,7 +181,7 @@ entries:
     license: Free
     entry_type: channel
     notes: RELOCATE. Deforum animation channel, better under §09 Video Generation.
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -195,7 +195,7 @@ entries:
     description: Semantically transforming fonts into illustrations
     license: Free
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:

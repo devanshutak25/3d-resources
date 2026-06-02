@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Distributed Render
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Blender to Unity FBX
     url: https://github.com/EdyJ/blender-to-unity-fbx-exporter
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - Unity Export
       - FBX
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: MB Lab
     url: https://github.com/animate1978/MB-Lab
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Characters
       - Archived
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     archived: true
   - name: PSOFT Pencil+ 4
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - NPR
       - Line Render
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Graswald
     url: https://blendermarket.com/products/graswald
@@ -77,7 +77,7 @@ entries:
     readme_tags:
       - Foliage
       - Premium
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Easy HDRI
     url: https://codeofart.com/easy-hdri-2-8/
@@ -93,14 +93,14 @@ entries:
     readme_tags:
       - HDRI Management
       - Workflow
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: F Spy Blender
     url: https://github.com/stuffmatic/fSpy-Blender
     description: Official fSpy Blender importer.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -114,7 +114,7 @@ entries:
     description: Blender Addon to integrate the Pyblish framework
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -128,7 +128,7 @@ entries:
     description: Visual Studio Code extension for Blender development.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -140,7 +140,7 @@ entries:
     description: Helpers for Blender
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -154,7 +154,7 @@ entries:
     description: Blender's add-on for computational design.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -166,7 +166,7 @@ entries:
     description: A parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -178,7 +178,7 @@ entries:
     description: Blender addon to export, manage and automate to share between Blender and Unreal/Unity or other real-time engine.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -192,7 +192,7 @@ entries:
     description: Add-on for creating paper models. [![][repo]](https://github.com/addam/Export-Paper-Model-from-Blender)
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -203,7 +203,7 @@ entries:
     description: AMD’s physically-based rendering engine that lets creative professionals use open industry standards to use GPU and CPU performance to produce stunningly photorealistic images in B
     license: Free
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -214,7 +214,7 @@ entries:
     description: Beautiful, detailed, data-rich OpenBIM add-on for Blender (formerly BlenderBIM). [![][repo]](https://github.com/ifcopenshell/ifcopenshell) ![][gpl]
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-04'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -225,7 +225,7 @@ entries:
     description: An Open Source solution for CAM with Blender 3D. [![][repo]](https://github.com/vilemduha/blendercam) ![][gpl]
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -236,7 +236,7 @@ entries:
     description: CAD Sketcher is a free and open-source project looking to enhance precision workflows in blender by bringing CAD like tools, features and usability. [![][repo]](https://github.com/hlorus/CAD_Sketch
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -247,7 +247,7 @@ entries:
     description: This easy-to-use Bridge transfers your Genesis 8 and 3 characters from Daz directly to Blender.
     license: Free
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -258,7 +258,7 @@ entries:
     description: Allows you to create highly interactive, flexible and lightweight web applications right inside Blender.
     license: Freemium
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -269,7 +269,7 @@ entries:
     description: Blender addon to change fps.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -281,7 +281,7 @@ entries:
     description: Rig on the Fly is a Blender dynamic rigging tool used to simplify and speed up animation workflow.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:

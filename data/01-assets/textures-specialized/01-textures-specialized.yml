@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - MicroSkin
       - Displacement
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Shaded Relief
     url: http://www.shadedrelief.com/natural3/pages/extra.html
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Natural Earth
       - Terrain
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Subtle Patterns
     url: https://www.toptal.com/designers/subtlepatterns/
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Tileable
       - Web Patterns
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -80,14 +80,14 @@ entries:
     readme_tags:
       - Sprites
       - Game Rips
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: NASA 3D Resources
     url: https://nasa3d.arc.nasa.gov/
     description: 3D models, textures, and images from NASA. Mixed CC0 / CC-BY, check per-asset license. [![][repo]](https://github.com/nasa/NASA-3D-Resources)
     entry_type: asset-source
     license: Mixed
-    url_last_verified: '2026-05-04'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -101,7 +101,7 @@ entries:
     description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -112,7 +112,7 @@ entries:
     description: NASA Scientific Visualization Studio CGI Moon Kit providing high-resolution moon textures and elevation data for rendering and visualization.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:

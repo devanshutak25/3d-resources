@@ -12,7 +12,7 @@ entries:
     readme_tags:
       - Hair
       - Course
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Blender Checklist
     url: https://docs.google.com/spreadsheets/d/1RCY6nTIVgl208ckadipBWVos8_kHOu3HFTQgapN59_U/
@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Checklist
       - Workflow
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -33,7 +33,7 @@ entries:
     description: Texture Paint Manual.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -44,7 +44,7 @@ entries:
     description: It shows how to set up a professional IDE for writing Python programs for Blender, on the example of a simple plugin. It is an ebook, published freely on Creative Commons license.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}
   - name: blenderscripting
@@ -52,7 +52,7 @@ entries:
     description: Blender related python snippets to get you started.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}
   - name: 📖 User Manual
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Manual
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -76,7 +76,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Rigging
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -89,7 +89,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Compositing
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -102,7 +102,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Tracking
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -115,7 +115,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Python API
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -125,7 +125,7 @@ entries:
     description: Here you can find information about Blender's development process, design and architecture, as well as instructions for Building Blender.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:

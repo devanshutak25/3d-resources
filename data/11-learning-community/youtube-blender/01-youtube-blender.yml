@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Classic
       - Donut Man
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - Beginner
       - Approachable
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Ian Hubert
     url: https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA
@@ -39,7 +39,7 @@ entries:
     readme_tags:
       - Cinematic Shorts
       - Lazy Tuts
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -54,7 +54,7 @@ entries:
     readme_tags:
       - Stylized
       - Shaders
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - Blender
       - Tutorials
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - Game Art
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Blender Official
     url: https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Official
       - Foundation
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -116,7 +116,7 @@ entries:
     readme_tags:
       - Technical
       - Tips
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - Hard Surface
       - Modeling
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: broken
     deprecated: true
   - name: GraphicLine Games
@@ -149,7 +149,7 @@ entries:
     readme_tags:
       - Stylized
       - Shaders
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -164,7 +164,7 @@ entries:
     readme_tags:
       - Cel Shader
       - Materials
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -179,7 +179,7 @@ entries:
     readme_tags:
       - Speed Tuts
       - Tech Art
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -194,7 +194,7 @@ entries:
     readme_tags:
       - Beginner
       - Courses
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       skill:
@@ -211,7 +211,7 @@ entries:
     readme_tags:
       - Scripting
       - Python
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -226,7 +226,7 @@ entries:
     readme_tags:
       - Geo Nodes
       - Beginner
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       skill:
@@ -244,7 +244,7 @@ entries:
     readme_tags:
       - Procedural
       - Geo Nodes
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -261,7 +261,7 @@ entries:
     readme_tags:
       - Scripting
       - Python
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -276,7 +276,7 @@ entries:
     readme_tags:
       - 3DCoat
       - Sculpt
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -289,7 +289,7 @@ entries:
     readme_tags:
       - Sculpting
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -304,7 +304,7 @@ entries:
     readme_tags:
       - Modeling
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -319,7 +319,7 @@ entries:
     readme_tags:
       - Compositing
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -334,7 +334,7 @@ entries:
     readme_tags:
       - Render Passes
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -349,7 +349,7 @@ entries:
     readme_tags:
       - Render Passes
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -364,7 +364,7 @@ entries:
     readme_tags:
       - Compositing
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -379,7 +379,7 @@ entries:
     readme_tags:
       - Compositing
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -394,7 +394,7 @@ entries:
     readme_tags:
       - Stylized
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -409,7 +409,7 @@ entries:
     readme_tags:
       - Blender
       - Lighting
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -424,7 +424,7 @@ entries:
     readme_tags:
       - Animation Nodes
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -439,7 +439,7 @@ entries:
     readme_tags:
       - Modeling
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -454,7 +454,7 @@ entries:
     readme_tags:
       - Sculpting
       - Industry
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -467,7 +467,7 @@ entries:
     readme_tags:
       - NPR
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -482,7 +482,7 @@ entries:
     readme_tags:
       - Blender
       - Add-ons
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -497,7 +497,7 @@ entries:
     readme_tags:
       - Low Poly
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -512,7 +512,7 @@ entries:
     readme_tags:
       - Animation
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -527,7 +527,7 @@ entries:
     readme_tags:
       - Modeling
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -542,7 +542,7 @@ entries:
     readme_tags:
       - VFX
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -557,7 +557,7 @@ entries:
     readme_tags:
       - Simulation
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -572,7 +572,7 @@ entries:
     readme_tags:
       - Sculpting
       - Character
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -587,7 +587,7 @@ entries:
     readme_tags:
       - Modeling
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -602,7 +602,7 @@ entries:
     readme_tags:
       - Isometric
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -617,7 +617,7 @@ entries:
     readme_tags:
       - Modeling
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -632,7 +632,7 @@ entries:
     readme_tags:
       - Geo Nodes
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -647,7 +647,7 @@ entries:
     readme_tags:
       - Python
       - Blender
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -659,6 +659,6 @@ entries:
     description: Collection of 3D ideas, poetries and experiments blended in Blender 3D.
     license: Free
     entry_type: channel
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}

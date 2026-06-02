@@ -11,7 +11,7 @@ entries:
     readme_tags:
       - Normal Maps
       - Browser
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Materia
     url: https://github.com/Metric/Materia
@@ -31,14 +31,14 @@ entries:
     readme_tags:
       - Open Source
       - Archived
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: TexGraph
     url: https://galloscript.itch.io/texgraph
     description: A procedural texture creation tool that lets you create textures by connecting nodes in a graph.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -52,7 +52,7 @@ entries:
     description: GPU Texture generator using dear imgui for UI.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -70,7 +70,7 @@ entries:
     license: Open Source
     entry_type: tool
     deprecated: true
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -83,7 +83,7 @@ entries:
     description: Free stand-alone tool designed to remove shadows from model textures. [!download](https://www.agisoft.com/downloads/installer/)
     license: Free
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -94,7 +94,7 @@ entries:
     description: Web app allows you to create textures, bump maps and CAD hatches. Select any of the parameters to get started.
     license: Freemium
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -105,7 +105,7 @@ entries:
     description: Allows users to create highly compressed texture files (that stay small both on disk and in memory) directly from image sources using NVIDIA’s CUDA-accelerated Texture Tools compressor technology.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -116,7 +116,7 @@ entries:
     description: Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:

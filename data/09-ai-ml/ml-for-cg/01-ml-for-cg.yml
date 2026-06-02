@@ -3,7 +3,7 @@ entries:
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
     description: Publishes technical articles on the theory, design, and applications of neural networks and related learning systems.
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -13,7 +13,7 @@ entries:
     description: Meta FAIR library for 3D deep learning. Differentiable rendering, mesh ops, point cloud utils on PyTorch.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -27,7 +27,7 @@ entries:
     description: Meta self-supervised vision features. Strong general-purpose image embeddings. Useful as backbone for CG ML tasks.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -41,7 +41,7 @@ entries:
     description: Meta research pipeline for text-to-3D. Combines AssetGen geometry with TextureGen materials. Paper and results.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-05-22'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:

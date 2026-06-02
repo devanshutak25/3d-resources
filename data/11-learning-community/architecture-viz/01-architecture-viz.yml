@@ -9,7 +9,7 @@ entries:
     readme_tags:
       - Contemporary Arch
       - Inspiration
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Modlar
     url: https://www.modlar.com/
@@ -21,13 +21,13 @@ entries:
     readme_tags:
       - Arch Inspiration
       - Curated
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Blender 3D Architect by Allan Brito
     url: https://www.blender3darchitect.com/blender-books/
     description: Blender 3D Architect by Allan Brito.
     license: Paid
     entry_type: tutorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}

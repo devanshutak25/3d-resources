@@ -111,10 +111,10 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 
 - [Godot: Official Resources](#godot-official-resources) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Official documentation and asset libraries.</small>
 - [Godot: Key Plugins & Addons](#godot-key-plugins--addons) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Essential Godot addons.</small>
-- [Godot: Learning](#godot-learning) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Godot-focused learning channels and courses.</small>
+- [Godot: Learning](#godot-learning) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Godot-focused learning channels and courses.</small>
 - [Godot: Communities](#godot-communities) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Godot forums and chat.</small>
-- [Unity Engine: Resources](#unity-engine-resources) <span class="toc-count">(447 items)</span><br><small class="toc-desc">Unity community add-ons, tools, and learning resources.</small>
-- [XR, AR & VR: Resources](#xr-ar--vr-resources) <span class="toc-count">(25 items)</span><br><small class="toc-desc">AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, and VR platforms.</small>
+- [Unity Engine: Resources](#unity-engine-resources) <span class="toc-count">(445 items)</span><br><small class="toc-desc">Unity community add-ons, tools, and learning resources.</small>
+- [XR, AR & VR: Resources](#xr-ar--vr-resources) <span class="toc-count">(24 items)</span><br><small class="toc-desc">AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, and VR platforms.</small>
 - [Unreal Engine: Resources](#unreal-engine-resources) <span class="toc-count">(184 items)</span><br><small class="toc-desc">Unreal Engine resources and marketplace picks.</small>
 - [Game Dev Tools: Level Design](#game-dev-tools-level-design) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Level editors and blockout tools.</small>
 - [Game Dev Tools: Dialogue & Narrative](#game-dev-tools-dialogue--narrative) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Dialogue, narrative scripting, and IF tools.</small>
@@ -125,11 +125,11 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Game Dev Tools: Physics Engines](#game-dev-tools-physics-engines) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Open-source physics engines.</small>
 - [Game Dev Tools: Version Control](#game-dev-tools-version-control) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Version control for binary-heavy game projects.</small>
 - [Game Dev Tools: Analytics & Playtesting](#game-dev-tools-analytics--playtesting) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Analytics and playtesting services.</small>
-- [Game Design & Theory](#game-design--theory) <span class="toc-count">(24 items)</span><br><small class="toc-desc">Design fundamentals, patterns, and references.</small>
+- [Game Design & Theory](#game-design--theory) <span class="toc-count">(23 items)</span><br><small class="toc-desc">Design fundamentals, patterns, and references.</small>
 - [Game Dev: YouTube Channels](#game-dev-youtube-channels) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Channels covering game dev technique, design, and industry.</small>
 - [Game Dev: Courses](#game-dev-courses) <span class="toc-count">(2 items)</span><br><small class="toc-desc">Structured game dev courses.</small>
 - [Game Dev: Communities](#game-dev-communities) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Reddit, Discord, forums, indie job boards.</small>
-- [Game Jams](#game-jams) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Recurring game jams.</small>
+- [Game Jams](#game-jams) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Recurring game jams.</small>
 
 </details>
 
@@ -144,11 +144,11 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Composition & Visual Storytelling](#composition--visual-storytelling) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Composition theory, color theory, visual hierarchy.</small>
 - [Animation Principles](#animation-principles) <span class="toc-count">(7 items)</span><br><small class="toc-desc">The 12 principles of animation and related fundamentals.</small>
 - [Design Principles & Typography](#design-principles--typography) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Typography, visual hierarchy, design fundamentals.</small>
-- [Color Theory & Tools](#color-theory--tools) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Color palettes, generators, matching, and theory tools.</small>
+- [Color Theory & Tools](#color-theory--tools) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Color palettes, generators, matching, and theory tools.</small>
 - [Design Tools](#design-tools) <span class="toc-count">(27 items)</span><br><small class="toc-desc">Vector editors, creative effect tools, and design utilities.</small>
 - [General Inspiration](#general-inspiration) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Blogs, feeds, and curated inspiration sources.</small>
 - [2D Art References & Inspiration](#2d-art-references--inspiration) <span class="toc-count">(5 items)</span><br><small class="toc-desc">2D animation sheets, cloth, anime model sheets.</small>
-- [Pre-Production, Storyboarding & Script Tools](#pre-production-storyboarding--script-tools) <span class="toc-count">(30 items)</span><br><small class="toc-desc">Storyboard apps, previs tools, script breakdown, reference managers, moodboarding, and direction-theory channels.</small>
+- [Pre-Production, Storyboarding & Script Tools](#pre-production-storyboarding--script-tools) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Storyboard apps, previs tools, script breakdown, reference managers, moodboarding, and direction-theory channels.</small>
 
 </details>
 
@@ -161,7 +161,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [3D Generation](#3d-generation) <span class="toc-count">(16 items)</span><br><small class="toc-desc">AI tools for generating 3D models from text or images.</small>
 - [Texture & Material Generation](#texture--material-generation) <span class="toc-count">(6 items)</span><br><small class="toc-desc">AI-generated PBR textures and materials.</small>
 - [ComfyUI Ecosystem](#comfyui-ecosystem) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Node-based AI generation. ComfyUI and its ecosystem.</small>
-- [AI-Assisted CG Tools](#ai-assisted-cg-tools) <span class="toc-count">(24 items)</span><br><small class="toc-desc">AI tools that augment traditional CG workflows.</small>
+- [AI-Assisted CG Tools](#ai-assisted-cg-tools) <span class="toc-count">(23 items)</span><br><small class="toc-desc">AI tools that augment traditional CG workflows.</small>
 - [AI Audio & Music](#ai-audio--music) <span class="toc-count">(9 items)</span><br><small class="toc-desc">AI music generation, voice, TTS, and SFX.</small>
 - [Open-Source Models (HuggingFace)](#open-source-models-huggingface) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Notable open-source generative models.</small>
 - [Research Papers](#research-papers) <span class="toc-count">(90 items)</span><br><small class="toc-desc">Research papers on ML for CG, generative 3D, neural rendering, and related topics. Each entry: title (the plain-English summary), year, and venue/links in the description.</small>
@@ -174,11 +174,11 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [USD (Universal Scene Description)](#usd-universal-scene-description) <span class="toc-count">(15 items)</span><br><small class="toc-desc">OpenUSD resources, specifications, and guides.</small>
 - [Scene & Pipeline Tools](#scene--pipeline-tools) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Production pipelines, render management, look dev.</small>
 - [Gaussian Splatting & NeRF](#gaussian-splatting--nerf) <span class="toc-count">(34 items)</span><br><small class="toc-desc">Neural and splatting reconstruction.</small>
-- [Photogrammetry & 3D Scanning](#photogrammetry--3d-scanning) <span class="toc-count">(135 items)</span><br><small class="toc-desc">Photogrammetry, LiDAR, and Gaussian splat capture.</small>
+- [Photogrammetry & 3D Scanning](#photogrammetry--3d-scanning) <span class="toc-count">(130 items)</span><br><small class="toc-desc">Photogrammetry, LiDAR, and Gaussian splat capture.</small>
 - [Retopology & Mesh Tools](#retopology--mesh-tools) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Retopology and mesh processing.</small>
 - [UV Tools](#uv-tools) <span class="toc-count">(6 items)</span><br><small class="toc-desc">UV unwrapping, packing, and UDIM tools.</small>
 - [Rigging & Animation Tools](#rigging--animation-tools) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Auto-rig, retargeting, and animation middleware.</small>
-- [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
+- [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
 - [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(36 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
 - [Plugin & Addon Marketplaces](#plugin--addon-marketplaces) <span class="toc-count">(51 items)</span><br><small class="toc-desc">Per-software plugin marketplaces.</small>
 - [Conversion Tools](#conversion-tools) <span class="toc-count">(36 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
@@ -194,9 +194,9 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [YouTube Channels: Blender](#youtube-channels-blender) <span class="toc-count">(43 items)</span><br><small class="toc-desc">Blender-focused creators.</small>
 - [YouTube Channels: Houdini](#youtube-channels-houdini) <span class="toc-count">(25 items)</span><br><small class="toc-desc">Houdini-focused channels.</small>
 - [YouTube Channels: Sculpting & Characters](#youtube-channels-sculpting--characters) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Character and sculpting focused creators.</small>
-- [Paid Tutorial Platforms](#paid-tutorial-platforms) <span class="toc-count">(94 items)</span><br><small class="toc-desc">Subscription and course-based learning platforms.</small>
+- [Paid Tutorial Platforms](#paid-tutorial-platforms) <span class="toc-count">(93 items)</span><br><small class="toc-desc">Subscription and course-based learning platforms.</small>
 - [Patreon Creators](#patreon-creators) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Creators on Patreon offering tutorials, files, and tips.</small>
-- [3D Communities & Forums](#3d-communities--forums) <span class="toc-count">(156 items)</span><br><small class="toc-desc">Cross-DCC CG communities.</small>
+- [3D Communities & Forums](#3d-communities--forums) <span class="toc-count">(153 items)</span><br><small class="toc-desc">Cross-DCC CG communities.</small>
 - [3D Inspiration & Showcase](#3d-inspiration--showcase) <span class="toc-count">(45 items)</span><br><small class="toc-desc">Showcases, portfolios, and visual reference hubs.</small>
 - [Architecture & Visualization](#architecture--visualization) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Arch-viz inspiration and BIM.</small>
 - [Salary & Career Data](#salary--career-data) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Salary data and studio review spreadsheets.</small>
@@ -209,13 +209,13 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 
 - [3D Software: Free](#3d-software-free) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Free and open-source 3D software.</small>
 - [3D Software: Free Tier](#3d-software-free-tier) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Freemium 3D software with free tier available.</small>
-- [3D Software: Paid](#3d-software-paid) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Professional paid 3D software.</small>
-- [CAD Software](#cad-software) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
+- [3D Software: Paid](#3d-software-paid) <span class="toc-count">(32 items)</span><br><small class="toc-desc">Professional paid 3D software.</small>
+- [CAD Software](#cad-software) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
 - [2D & Animation Software](#2d--animation-software) <span class="toc-count">(60 items)</span><br><small class="toc-desc">Digital painting, illustration, 2D animation.</small>
-- [VFX & Compositing Software](#vfx--compositing-software) <span class="toc-count">(27 items)</span><br><small class="toc-desc">VFX, compositing, and real-time simulation tools.</small>
+- [VFX & Compositing Software](#vfx--compositing-software) <span class="toc-count">(25 items)</span><br><small class="toc-desc">VFX, compositing, and real-time simulation tools.</small>
 - [Render Engines](#render-engines) <span class="toc-count">(38 items)</span><br><small class="toc-desc">Production render engines across CPU, GPU, biased, and unbiased path tracers.</small>
 - [Video Editing Software](#video-editing-software) <span class="toc-count">(27 items)</span><br><small class="toc-desc">NLEs and post-production software.</small>
-- [Audio Software](#audio-software) <span class="toc-count">(36 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
+- [Audio Software](#audio-software) <span class="toc-count">(35 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
 - [Design Software](#design-software) <span class="toc-count">(31 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
 - [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(12 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
 - [Game Engines: Free & Open Source](#game-engines-free--open-source) <span class="toc-count">(61 items)</span><br><small class="toc-desc">Free and open-source game engines.</small>
@@ -223,12 +223,12 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Material & Texture Creation Software](#material--texture-creation-software) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Material authoring, texture baking, and PBR painting tools.</small>
 - [Photogrammetry & Scanning Software](#photogrammetry--scanning-software) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Photogrammetry, structure-from-motion, and 3D scanning apps.</small>
 - [Matchmoving & Camera Tracking Software](#matchmoving--camera-tracking-software) <span class="toc-count">(4 items)</span><br><small class="toc-desc">3D camera tracking, matchmove, and lens-distortion tools.</small>
-- [Retopology & UV Software](#retopology--uv-software) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Standalone retopology, remeshing, and UV unwrapping/packing tools.</small>
-- [Virtual Production Software](#virtual-production-software) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Virtual production, broadcast graphics, and real-time stage tooling.</small>
+- [Retopology & UV Software](#retopology--uv-software) <span class="toc-count">(12 items)</span><br><small class="toc-desc">Standalone retopology, remeshing, and UV unwrapping/packing tools.</small>
+- [Virtual Production Software](#virtual-production-software) <span class="toc-count">(25 items)</span><br><small class="toc-desc">Virtual production, broadcast graphics, and real-time stage tooling.</small>
 - [Level Design & Map Editing Software](#level-design--map-editing-software) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Standalone level editors and tile/grid map authoring tools.</small>
-- [Pipeline & Production Management Software](#pipeline--production-management-software) <span class="toc-count">(67 items)</span><br><small class="toc-desc">Production tracking, render farm management, asset pipeline orchestration.</small>
+- [Pipeline & Production Management Software](#pipeline--production-management-software) <span class="toc-count">(61 items)</span><br><small class="toc-desc">Production tracking, render farm management, asset pipeline orchestration.</small>
 - [Misc 3D Utilities Software](#misc-3d-utilities-software) <span class="toc-count">(21 items)</span><br><small class="toc-desc">Reference, scattering, simulation, and specialty 3D utilities.</small>
-- [Scientific & Medical Visualization Software](#scientific--medical-visualization-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools — plus DCC bridges and educators.</small>
+- [Scientific & Medical Visualization Software](#scientific--medical-visualization-software) <span class="toc-count">(46 items)</span><br><small class="toc-desc">Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools — plus DCC bridges and educators.</small>
 - [Software Reference: Legacy & Defunct](#software-reference-legacy--defunct) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Historically significant 3D, VFX, rendering, and post software that is discontinued, sunset, or archival.</small>
 - [AI Image & Texture Generation Software](#ai-image--texture-generation-software) <span class="toc-count">(29 items)</span><br><small class="toc-desc">AI image generation and AI texture/material generation tools.</small>
 - [AI Video Generation Software](#ai-video-generation-software) <span class="toc-count">(15 items)</span><br><small class="toc-desc">AI text-to-video and image-to-video generation tools.</small>
@@ -945,7 +945,6 @@ Texture authoring, procedural materials, and baking tools.
 | Software | Description | Pricing | License | Tags | Best For |
 |---|---|---|---|---|---|
 | [AutoCAD](https://www.autodesk.com/products/autocad) | Industry-standard 2D/3D CAD. | $210/mo | Paid | Industry Standard · 2D/3D Drafting | Architecture, engineering, drafting |
-| [Autodesk Inventor](https://www.autodesk.com/products/inventor) | Mechanical 3D CAD for product design, simulation, and tooling. | $310/mo or $2,500/yr | Paid | Mechanical CAD · Industry Standard | Mechanical engineering and product design |
 | [Bitbybit](https://bitbybit.dev/) | Browser parametric CAD via visual nodes (Rete, Blockly) or Monaco code editor. OCCT, JSCAD, Manifold backends. |  | Freemium | Browser · Parametric | Parametric web CAD, generative geometry, 3D printing |
 | [BricsCAD](https://www.bricsys.com/bricscad) | AutoCAD-compatible DWG CAD; offers both perpetual and subscription licensing. | Lite from €314; Pro $1,752 perpetual; Ultimate from €1,176/yr | Paid | DWG-Compatible · Cross-Platform | DWG-compatible CAD on Mac/Linux |
 | [CATIA](https://www.3ds.com/products/catia) | Dassault Systèmes CAD for aerospace and automotive. |  | Paid | Aerospace · Automotive | Aerospace, automotive |
@@ -1014,8 +1013,6 @@ Texture authoring, procedural materials, and baking tools.
 | Software | Description | Pricing | License | Tags | Best For |
 |---|---|---|---|---|---|
 | [3D Coat](https://3dcoat.com/) | Sculpt, retopo, UV, and PBR paint suite from Pilgway. Voxel and surface sculpt, AUTOPO auto-retopo, manual quad retopo, UV unwrap, bake. | ~$379 perpetual (Educational $99) | Paid | Sculpt + Retopo · PBR Paint | Sculpt + retopo + UV + PBR paint in one app |
-| [3D Coat Print](https://3dcoat.com/3dcoatprint/) | Voxel-sculpt build of 3D Coat aimed at 3D-print workflows. | ~$199 perpetual | Paid | Voxel Sculpt · 3D Print | 3D-print sculpting |
-| [3D Coat Textura](https://3dcoat.com/textura/) | Texturing-only variant of 3D Coat. PBR paint and bake, no sculpt or retopo modules. | ~$199 perpetual | Paid | PBR Paint Only · Standalone | Standalone PBR texture painting |
 | [AutoRemesher](https://github.com/huxingyi/autoremesher) | Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry. |  | Open Source | Free · Auto Retopo | Auto-retopology |
 | [Cozy Blanket](https://cozyblanket.app/) | iPad sculpt-to-retopo app. Clay sculpt plus auto-quad retopology for game/film topology, from Naam. | ~$80 perpetual | Paid | iPad Sculpt · Auto Retopo | iPad sculpt + auto-retopo |
 | [Headus UVLayout](https://www.uvlayout.com/) | Standalone UV editor, flatten-based. |  | Paid | Flatten-based · Classic | Flatten-based UV editor |
@@ -1505,7 +1502,6 @@ Nuke creators, comp theory books, VFX breakdown sites, and industry magazines.
 | [Brainstorm InfinitySet](https://www.brainstorm3d.com/products/infinityset/) | Virtual set and AR for broadcast. | Paid | Virtual Sets · AR | Broadcast virtual sets |
 | [disguise](https://www.disguise.one/en/solutions/virtual-production/) | Virtual production solutions. | Paid | LED Walls · Workflow | LED wall virtual production |
 | [grandMA3](https://www.malighting.com/grandma3/) | Industry-standard lighting control console and software for live shows, theatre, and broadcast. | Paid | Lighting Console · Show Control | Stage lighting control, show programming |
-| [MotionBuilder](https://www.autodesk.com/products/motionbuilder) | Autodesk real-time character animation and mocap editing platform. | Paid | Industry Std · Mocap Cleanup | Mocap cleanup + retarget |
 | [Notch](https://www.notch.one/) | Real-time graphics for live events and virtual production. | Paid | Live Events · Real-time | Live events, real-time graphics |
 | [Pixotope](https://www.pixotope.com/) | Virtual production software. | Paid | VP Software · Real-time | Virtual production |
 | [Vizrt](https://www.vizrt.com/) | Broadcast graphics. | Paid | Broadcast · Graphics | Broadcast graphics |
@@ -1761,7 +1757,6 @@ Godot-focused learning channels and courses.
 - [DevDuck](https://www.youtube.com/@DevDuck). Dev logs and tutorials.
 - [GDQuest](https://www.gdquest.com/) <span class="lic-pill lic-freemium">Freemium</span>. Premium courses plus free YouTube tutorials.
 - [GDScript.com](https://gdscript.com/). Interactive GDScript learning.
-- [HeartBeast](https://www.youtube.com/@uloops). RPG and action game tutorials.
 - [Introduction into the new Godot OpenVR Asset](https://www.youtube.com/@BastiaanOlij). Introduction into the new Godot OpenVR Asset.
 - [KidsCanCode Godot Recipes](https://kidscancode.org/godot_recipes/4.x/). Clear beginner-friendly guides.
 - [Miziziziz](https://www.youtube.com/@Miziziziz). Tutorials and game dev challenges.
@@ -2036,7 +2031,6 @@ Unity community add-ons, tools, and learning resources.
 - [StyleBrowser](https://github.com/ByronMayne/StyleBrowser). A browser editor window to view all Unity built in styles.
 - [Super Character Controller](https://github.com/gucheng0712/SuperCharacterController). Unity custom character controller. (#ARCHIVED)
 - [Super Mario Bros AR Game](https://www.youtube.com/@shekitup). AR game built with Microsoft HoloLens and Unity3D
-- [Swiss Army Lib](https://github.com/ArchonInteractive/SwissArmyLib). Collection of helpful utilities we use in our Unity projects.
 - [Terrain Tool Samples](https://github.com/Unity-Technologies/TerrainToolSamples). New Terrain Tools and Brush Assets for the Unity Terrain system. ![Official](UnityResource16x16.png)
 - [Texture3DPreview for Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity). This package enables interactive previews of Texture3D assets in Unity's Inspector window.
 - [TexturePanner](https://github.com/AdultLink/TexturePanner). This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
@@ -2096,7 +2090,6 @@ Unity community add-ons, tools, and learning resources.
 - [Unity Editor Texel Density](https://github.com/bandures/Unity-Editor-Texel-Density). Texel density editor for Unity.
 - [Unity Elevator Compiler](https://github.com/m3rt32/UnityElevatorCompiler). A plugin that plays elevator music while Unity compiles your code. :cool:
 - [Unity Engine Analyzer](https://github.com/vad710/UnityEngineAnalyzer). Roslyn Analyzer for Unity3D.
-- [Unity EventBinder](https://github.com/GeorgeDascalu/Unity-EventBinder). User Interface Event decoupler.
 - [Unity Events](https://github.com/GalvanicGames/unity-events). A code focused strongly typed event system with global system and per GameObject system.
 - [Unity Extensions.Inspect Inline](https://github.com/garettbass/UnityExtensions.InspectInline). Enables you to inspect and edit object references, and easily embed such objects as subassets.
 - [Unity Extensions.Selection History](https://github.com/garettbass/UnityExtensions.SelectionHistory). Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".
@@ -2254,7 +2247,6 @@ AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, an
 - [North Star Kit](https://www.smart-prototyping.com/Project-North-Star-Kit) <span class="lic-pill lic-paid">Paid</span>. The device is an implementation of Leap Motion's [Norh Star]() reference design - an open source specification for an AR headset with two 1600x1440 displays with 120 FPS, a visual field of 100 degr
 - [Oliver Kreylos's blog](http://doc-ok.org/). Good resource to get started learning about VR / stereo rendering.
 - [RealityKit](https://developer.apple.com/augmented-reality/reality-composer). High-level AR framework by Apple. Comparable to Unity and Unreal Engine but specific for AR solutions.
-- [Rendering | Oculus Developers](https://developer.oculus.com/resources/bp-rendering/). Rendering | Oculus Developers.
 - [Rigging a Model for Motion Capture | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture). Rigging a Model for Motion Capture | Apple Developer Documentation.
 - [Sceneform Android SDK Maintained](https://github.com/SceneView/sceneform-android). ARCore Android SDK with Google Filament 3D engine. Continuation of Google Sceneform
 - [Tensorflow2 Ue4 AR](https://github.com/Allysony/tensorflow2-ue4-ar). Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
@@ -2629,7 +2621,6 @@ Design fundamentals, patterns, and references.
 - [Game Development Essentials: Game Level Design](http://www.goodreads.com/book/show/1633392.Game_Development_Essentials). Game Development Essentials: Game Level Design.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html). Lots of great game development patterns useful when making games with or without Unity.
 - [Game UI Database](https://www.gameuidatabase.com/). Interface reference.
-- [GDC Vault (Free)](https://gdcvault.com/free/). Hundreds of free GDC talks.
 - [How To Market A Game](https://howtomarketagame.com/). Marketing strategies for indie games.
 - [LWF](http://gree.github.io/lwf/). Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit.
 - [Open 3D Engine (O3ED)](https://github.com/o3de/o3de). Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games
@@ -2704,7 +2695,6 @@ Recurring game jams.
 - [GMTK Game Jam](https://itch.io/jam/gmtk-2025). Largest jam by entries.
 - [itch.io Jams](https://itch.io/jams). Hundreds of active jams.
 - [JS13KGames](https://js13kgames.com/). 13KB size limit JavaScript jam.
-- [Ludum Dare](https://ldjam.com/). Oldest jam, twice yearly.
 
 
 <h3 id="mirror-game-engines-free-oss" data-mirror="1" tabindex="-1">Game Engines: Free &amp; Open Source</h3>
@@ -2946,7 +2936,6 @@ Color palettes, generators, matching, and theory tools.
 - [Color Method](https://color.method.ac/). Interactive color matching game.
 - [ColorBox](https://colorbox.io/). Systematic color scale generator.
 - [Coolors](https://coolors.co/) <span class="lic-pill lic-freemium">Freemium</span>. Fast palette generator.
-- [Fast Palette Studio](https://fastpalette.studio/). Rapid palette creation for pixel art and game dev.
 - [Gradient Horse](https://gradient.horse/). Experimental gradient generator.
 - [Huemint](https://huemint.com/brand-intersection/) <span class="lic-pill lic-freemium">Freemium</span>. AI-assisted brand color generation.
 - [Lospec Palette List](https://lospec.com/palette-list). Pixel art palette repository.
@@ -3050,12 +3039,10 @@ Storyboard apps, previs tools, script breakdown, reference managers, moodboardin
 
 **Related:**
 - [Are.na](https://www.are.na/) <span class="lic-pill lic-freemium">Freemium</span>. Collaborative visual research blocks and channels.
-- [ASC Magazine](https://theasc.com/magazine). American Society of Cinematographers magazine. Cinematography and on-set VFX features.
 - [Cine Designer (C4D)](https://cinedesigner.tv/) <span class="lic-pill lic-paid">Paid</span>. Cinema 4D previs and techvis plugin for lights, lenses, set pieces.
 - [Every Frame a Painting](https://www.youtube.com/@everyframeapainting). Visual-language essays (archive).
 - [FilmGrab](https://film-grab.com/). Curated film stills archive. Free.
 - [Halon Entertainment](https://halon.com/). Previs, VP, and virtual scouting case studies and tooling writeups.
-- [Lessons from the Screenplay](https://www.youtube.com/@LFTScreenplay). Story and screenplay analysis on YouTube.
 - [Magnopus](https://www.magnopus.com/). VP and XR studio. Tooling and case studies.
 - [Shot.Cafe](https://shot.cafe/). Searchable film and TV frames.
 - [ShotDeck](https://shotdeck.com/) <span class="lic-pill lic-paid">Paid</span>. Searchable film still library for storyboards and references.
@@ -3266,7 +3253,6 @@ AI tools that augment traditional CG workflows.
 - [Sammie Roto 2](https://github.com/Zarxrax/Sammie-Roto-2). SAM-based rotoscope app. Click-to-mask, propagates across frames.
 - [SolidUI](https://github.com/CloudOrc/SolidUI). AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 - [Track Anything](https://github.com/gaomingqi/Track-Anything). SAM plus XMem for interactive video object tracking and segmentation. Useful for roto and matte propagation.
-- [Wonder Studio (Autodesk Flow Studio)](https://wonderdynamics.com/) <span class="lic-pill lic-freemium">Freemium</span>. AI character replacement with auto roto, body tracking, and re-lighting from a single video. Now part of Autodesk Flow Studio.
 
 ### AI Audio & Music
 
@@ -3618,7 +3604,6 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 | [3DF Zephyr Free](https://www.3dflow.net/3df-zephyr-free/) | Free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Free | Free · Personal Use | Free photogrammetry |
 | [Agisoft Metashape](https://www.agisoft.com/) | Professional photogrammetry with GIS features.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Paid | GIS Features · Pro | Pro photogrammetry + GIS |
 | [Artec Studio](https://www.artec3d.com/3d-software/artec-studio) | Capture and alignment software for Artec handheld scanners. |  | Paid | Handheld Scanners · Artec | Artec handheld scan workflow |
-| [Autodesk ReCap Pro](https://www.autodesk.com/products/recap) | Reality capture toolkit for point clouds and photogrammetry. |  | Paid | Autodesk · Reality Capture | Autodesk reality capture pipeline |
 | [CloudCompare](https://www.danielgm.net/cc/) | A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Open Source | Open Source · Point Cloud | Point cloud and mesh processing |
 | [COLMAP](https://colmap.github.io/) | A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Open Source | Photogrammetry · Open Source | Photogrammetry SfM/MVS reconstruction |
 | [Depthkit](https://www.depthkit.tv/) | Depth-sensor volumetric capture toolkit. |  | Paid | Depth Sensor · Volumetric | Depth-sensor volumetric capture |
@@ -3634,7 +3619,6 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 | [Open Scan Tools](https://openscantools.com/) | A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Open Source | Open Source · Toolkit | Open-source scan toolkit |
 | [OpenDroneMap / WebODM](https://www.opendronemap.org/) | Open source drone photogrammetry stack. |  | Open Source | Open Source · Drone | Open drone photogrammetry |
 | [PCL (Point Cloud Library)](https://pointclouds.org/) | Large-scale open project for 2D/3D image and point cloud processing.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Open Source | Point Clouds · Open Source | Point cloud processing |
-| [Picturenaut](https://www.hdrlabs.com/picturenaut/) | Lightweight free HDR merger by HDR Labs. |  | Free | Free · HDR Merge | Free HDR merge |
 | [Pix4D](https://www.pix4d.com/) | Survey and mapping photogrammetry suite. |  | Paid | Drone · Mapping | Drone photogrammetry |
 | [Polycam](https://poly.cam/) | Mobile photogrammetry (iOS LiDAR + photo, Android photo). Cloud processing.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Freemium | Mobile · LiDAR | Mobile photogrammetry |
 | [Postshot](https://www.jawset.com/) | Desktop Gaussian Splatting tool. Train, clean, edit, export.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Freemium | Desktop · Splat Editor | Desktop Gaussian splat |
@@ -3659,7 +3643,6 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 - [Awesome-3DGS Paper List](https://mrnerf.github.io/awesome-3D-gaussian-splatting/). [**Contribute**](CONTRIBUTING.md) | [**MrNeRF**](https://www.mrnerf.com)
 - [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://waymo.com/research/block-nerf/). Tancik et al., Arxiv 2022 | [bibtex](./citations/Block-NeRF.txt)
 - [Book: High Dynamic Range Imaging (Reinhard et al.)](https://shop.elsevier.com/books/high-dynamic-range-imaging/reinhard/978-0-12-374914-7) <span class="lic-pill lic-paid">Paid</span>. Reinhard, Heidrich, Debevec, Pattanaik, Ward, Myszkowski. The reference text on HDR imaging.
-- [Book: The HDRI Handbook 2.0](https://www.hdrlabs.com/book/) <span class="lic-pill lic-paid">Paid</span>. Christian Bloch. Practical HDRI for VFX/photo, paired with sIBL.
 - [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/). Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF) | [bibtex](./citations/clipnerf.txt)
 - [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://sites.google.com/view/wbjang/home/codenerf). Jang et al., ICCV 2021 | [bibtex](./citations/CodeNeRF.txt)
 - [Color-NeRF](https://liquidammonia.github.io/color-nerf/assets/paper.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://liquidammonia.github.io/color-nerf/)
@@ -3680,9 +3663,7 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 - [Gaussian Splatting 3D](https://github.com/heheyas/gaussian_splatting_3d). Python/CUDA | |
 - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/). Gaussian Splatting is pretty cool.
 - [Gaussian Splatting Lightning](https://github.com/yzslab/gaussian-splatting-lightning). A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
-- [Greg Zaal: Shoot Your Own HDRI](https://www.blenderguru.com/tutorials/shoot-your-own-hdri). End-to-end DSLR HDRI capture tutorial for Blender (Blender Guru).
 - [Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/). Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF) | [bibtex](./citations/Ha-NeRF.txt) <!---chen2021hallucinated-->
-- [HDR Labs / sIBL](http://www.hdrlabs.com/sibl/). Bernhard Vogl's HDR Labs hub. sIBL spec, Smart IBL archive, capture tutorials.
 - [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://grail.cs.washington.edu/projects/humannerf/). Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf) | [bibtex](./citations/humannerf.txt)
 - [In-Place Scene Labelling and Understanding with Implicit Scene Representation](https://shuaifengzhi.com/Semantic-NeRF/). Zhi et al., Arxiv 2021 | [bibtex](./citations/semantic-nerf.txt)
 - [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](http://yenchenlin.me/inerf/). Yen-Chen et al. IROS 2021 | [bibtex](./NeRF-and-Beyond.bib#L321-L327) <!---YenChen20arxiv_iNeRF-->
@@ -3814,7 +3795,6 @@ Camera tracking, object tracking, and camera matching tools.
 | [KeenTools](https://keentools.io/) | Face and geometry tracking plus FaceBuilder for Blender, Nuke, AE, Houdini.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a></small> | $18/mo or $179/yr per plugin (Studio $499/yr floating) | Paid | Face Tracking · VFX | Face/geo tracking for VFX |
 | [Mocha Pro](https://borisfx.com/products/mocha-pro/) | Boris FX planar tracker for VFX. Roto, object removal, screen replacement, lens distortion.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a>, <a href="#motion-graphics-tools--utilities">Motion Graphics & Video → Motion Graphics: Tools & Utilities</a></small> | $48/mo or $325/yr; perpetual from $765 | Paid | Industry Standard · Planar Tracking | Planar tracking, roto, screen replacement |
 | [PFTrack](https://www.thepixelfarm.co.uk/pftrack/) | Professional matchmoving, object tracking, mesh generation.<br><small class="see-also">See also: <a href="#matchmoving--camera-tracking-software">Software Reference → Matchmoving & Camera Tracking Software</a></small> |  | Paid | Matchmove · Pro | Pro matchmove |
-| [Primatte Studio](https://borisfx.com/products/primatte-studio/) | Primatte keyer in standalone form. Long-time pro chroma key tech, now under Boris FX. |  | Paid | Keyer · Chroma Key | Chroma key |
 | [Silhouette](https://borisfx.com/products/silhouette/) | Boris FX node-based roto/paint compositor with AI-driven matte tools.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a></small> | $165/mo or $875/yr; perpetual standalone $2,195 | Paid | Industry Standard · Roto/Paint | Feature-film roto and paint |
 | [SynthEyes](https://www.ssontech.com/synovr.html) | Camera tracking with lens distortion solving.<br><small class="see-also">See also: <a href="#matchmoving--camera-tracking-software">Software Reference → Matchmoving & Camera Tracking Software</a></small> |  | Paid | Lens Distortion · Pro | Camera tracking + distortion |
 
@@ -4019,7 +3999,6 @@ Industry-to-software quick reference.
 | [5th Kind CORE](https://www.5thkind.com/) | Secure media and production management used on major features. Asset sharing + tracking. |  | Paid | Secure Media · Feature Films | Secure feature-film production mgmt |
 | [Anchorpoint](https://www.anchorpoint.app/) | Git/Perforce GUI built for artists. Handles large binary assets cleanly. | Free / from $14/mo | Freemium | Git/Perforce GUI · Artist VCS | Artist-friendly VCS frontend |
 | [Articy:draft](https://www.articy.com/) | Professional narrative design middleware. |  | Paid | Middleware · Pro | Professional narrative middleware |
-| [Autodesk Flow Capture](https://www.autodesk.com/products/flow-capture) | Live on-set dailies platform (formerly Moxion). |  | Paid | On-Set Dailies · Was Moxion | On-set dailies |
 | [AYON (Ynput)](https://ynput.io/ayon/) | Open-source VFX/animation pipeline platform; successor to OpenPype (archived). |  | Open Source | Open Pipeline · VFX Studio | Open-source studio pipeline |
 | [Cerebro](https://cerebrohq.com/) | Russian-origin production tracker with built-in messenger and review. |  | Paid | Tracker + Chat · Studio Tool | Tracker + messenger combo |
 | [CGAL](https://www.cgal.org/) | A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. |  | Open Source | Geometry Lib · Open Source | Computational geometry algorithms |
@@ -4034,7 +4013,6 @@ Industry-to-software quick reference.
 | [FilmLight Daylight](https://www.filmlight.ltd.uk/products/daylight/) | Dailies and conform sibling of Baselight, from FilmLight. |  | Paid | FilmLight · Dailies/Conform | Dailies + conform |
 | [Flamenco (Blender render farm)](https://flamenco.blender.org/) | Blender Foundation's free render-farm manager. |  | Open Source | Render Farm · Blender | Blender render farm |
 | [Flamenco (flamenco.io)](https://www.flamenco.io/) | From the Blender Foundation |  | Open Source | Render Farm · Blender | Blender render farm |
-| [Flow Production Tracking (Autodesk)](https://www.autodesk.com/products/flow-production-tracking) | Production tracking and review for film/TV/games. Renamed from ShotGrid in March 2024. |  | Paid | Industry Standard · Production Tracking | Studio production tracking and review |
 | [Foundry Katana](https://www.foundry.com/products/katana) | Look-development and lighting orchestration tool for film/episodic VFX, scaling to massive scenes via deferred evaluation. |  | Paid | Industry Standard · Lookdev/Lighting | Film lookdev and lighting at scale |
 | [Frame.io](https://frame.io/) | Adobe-owned review and collaboration platform for video and motion teams. | Free / from $15/mo | Freemium | Adobe · Cloud Review | Cloud review/approval |
 | [ftrack](https://www.ftrack.com/en/) | Production tracking. |  | Paid | Production Tracking · Pro | Production tracking |
@@ -4057,10 +4035,8 @@ Industry-to-software quick reference.
 | [Plastic SCM / Unity Version Control](https://unity.com/solutions/version-control) | Artist-friendly binary version control. |  | Freemium | Artist-Friendly · Unity-Integrated | Artist-friendly VCS |
 | [Prism Pipeline](https://prism-pipeline.com/) | Animation and VFX pipeline. |  | Freemium | Pipeline · Free Core | Indie/small studio pipeline |
 | [Royal Render](https://royalrender.de/) | Per-node render farm manager for VFX/animation pipelines. |  | Paid | Render Farm · Studio | Studio render farm management |
-| [RV (Autodesk/Tweak)](https://www.autodesk.com/products/flow-production-tracking/rv) | Standard playback and review tool, free for personal use; paid for studios. |  | Freemium | Pro Playback · Tweak/Autodesk | Pro image-sequence review/playback |
 | [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) | A SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++. |  | Freemium |  |  |
 | [Snowtrack](https://www.snowtrack.dev/) | Git-like version control aimed at artists. |  | Free | Beta · Artist VCS | Lightweight artist VCS |
-| [Sohonet ClearView Flex](https://www.sohonet.com/clearview/) | Low-latency remote color/review streaming for distributed post. |  | Paid | Remote Color · Streaming | Remote color/review streaming |
 | [SyncSketch](https://syncsketch.com/) | Autodesk browser-based review and annotation for animation and VFX. | Free / from $17/mo | Freemium | Autodesk · Browser Review | Browser review/annotate |
 | [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) | A procedural terrain generation and procedural modeling toolkit. |  | Open Source |  |  |
 | [Tik Manager (GitHub)](https://github.com/masqu3rad3/tik_manager4) | Artist friendly asset and pipeline manager. |  | Open Source | Pipeline · Open Source | Asset/pipeline management for small teams |
@@ -4268,7 +4244,6 @@ Subscription and course-based learning platforms.
 - [DebugLog HTC Vive Unity 3D Steam VR Video Tutorial](https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g). DebugLog HTC Vive Unity 3D Steam VR Video Tutorial.
 - [Default Cube](https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ/videos). CGMatter's second channel used for longer tutorials and other kinds of videos.
 - [Design Patterns in Unity Example](https://github.com/marwie/Design-Patterns-in-Unity-Example). Most of Derek Banas Video Tutorial Series on Design Patterns to C# in Unity translated.
-- [Domestika](https://www.domestika.org/) <span class="lic-pill lic-paid">Paid</span>. Creative arts courses.
 - [Environment Art Breakdown ~ Stylized Station](https://www.youtube.com/@StylizedStation). By Melissa Perl.
 - [GameDev.tv Unreal Engine Blueprint Game Developer Online Course](https://www.gamedev.tv/p/unreal-blueprint/). GameDev.tv Unreal Engine Blueprint Game Developer Online Course.
 - [Getting Started with VR in Unity (DigitalTutors)](http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity). Introductory DigitalTutors tutorial for building VR experiences in Unity.
@@ -4375,7 +4350,6 @@ Cross-DCC CG communities.
 - [3DVF](https://3dvf.com/en/). European daily CG/VFX news site covering cinema, TV, and tech.
 - [80 Level](https://80.lv/). Industry news and tutorials.
 - [Agora Community](https://agora.community/). 3D artists community.
-- [Animatable](https://www.animatable.co/blog/we-on-discord). AE animation Discord. Narrative, illustrative, character-based animation community.
 - [Animator Guild (Howard Wimshurst)](https://discord.gg/awRD6FT). Howard Wimshurst's animator community Discord. Supports up-and-coming animators with critique and contests.
 - [Animators Guild](https://animatorsguild.com/). India-focused animation community. Showcase, workshops, festival events, and AGI Bazaar for Indian animators and illustrators.
 - [Animators. Animation Hub](https://discord.com/invite/animators-animation-hub-1027995624811012119). 2D/3D/stop-motion animation community (~13K). Share work, get feedback, find jobs.
@@ -4396,7 +4370,6 @@ Cross-DCC CG communities.
 - [Blenderartists/python Support](https://blenderartists.org/c/coding/python-support/19). [stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)
 - [Blue Ocean Games](https://discord.com/invite/blue-ocean-games-1338557902130118756). Indie game fund Discord. Networking, feedback, and resources for indie developers seeking funding.
 - [BNPR (Blender NPR)](https://discord.com/invite/bnpr-335479185197891585). Blender stylized/non-photoreal rendering community (~3.5K). Toon, anime, cel, abstract styles. BEER/Malt engine.
-- [bsky.art](https://bsky.app/profile/bsky.art). Artist hub on Bluesky. Feeds, starter packs, and community curation for visual artists.
 - [Cara](https://cara.app/). Anti-AI portfolio and social platform built by and for artists.
 - [Casual GAN Papers Reading Club](https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8). Community knowledge base for Casual GAN Papers
 - [Cavalry Community](https://cavalry.scenegroup.co/support/). Official community Discord for Cavalry. Procedural 2D motion design app. Support and showcase.
@@ -4404,7 +4377,6 @@ Cross-DCC CG communities.
 - [CG Channel](https://www.cgchannel.com/). News, videos, training, and community hub for entertainment CG artists.
 - [CG Forge](https://www.cgforge.com/) <span class="lic-pill lic-paid">Paid</span>. Tyler Bay's Houdini education platform. Premium Discord for art reviews and member feedback.
 - [CG Lounge](https://discord.com/invite/cg-lounge-631354077594386455). Active CG Discord (~9.9K) with daily VFX discussions, render challenges, marketplace, and Hall of Fame.
-- [CG Pro Social](https://www.becomecgpro.com/social). VFX and real-time artist community. Virtual production, LED, greenscreen, mocap.
 - [CGCircuit](https://www.cgcircuit.com/) <span class="lic-pill lic-paid">Paid</span>. CG tutorial marketplace with per-creator Discord channels for direct instructor interaction.
 - [CGconnect (CGarchitect)](https://www.cgarchitect.com/). ArchViz industry hub. Community forums, news, and feedback for architectural visualization pros.
 - [cgwiki Discord](https://tokeru.com/cgwiki/Support.html) <span class="lic-pill lic-paid">Paid</span>. Matt Estela's Patreon-supporter Discord tied to cgwiki. Beginner-to-expert Houdini chat, masterclasses, screen-shares.
@@ -4647,9 +4619,6 @@ Professional paid 3D software.
 |---|---|---|---|---|---|
 | [3DCoat](https://3dcoat.com/) | Voxel sculpting, retopology, and UV toolkit. | EUR 299 perpetual | Paid | Voxel Sculpt · Retopo | Voxel sculpting, retopology |
 | [3Design](https://www.3design.com/) | Parametric jewelry CAD with rendering. |  | Paid | Jewelry CAD · Parametric | Parametric jewelry design + render |
-| [3ds Max](https://www.autodesk.com/products/3ds-max) | Autodesk polygonal DCC widely used in archviz, games, and broadcast VFX. | $255/mo or $2,010/yr (Indie $330/yr) | Paid | Industry Standard · Archviz/Games | Archviz, games, broadcast VFX |
-| [Autodesk Alias](https://www.autodesk.com/products/alias) | Class-A surface modeling standard for automotive exterior design. |  | Paid | Class-A Surfacing · Auto Std | Class-A surface modeling |
-| [Autodesk VRED](https://www.autodesk.com/products/vred) | OEM-standard automotive design review and photoreal viz. |  | Paid | Automotive Std · OEM | Automotive design review |
 | [Avid Maestro](https://www.avid.com/maestro) | Avid's virtual sets, AR, and data-driven graphics platform for live news and sports. |  | Paid | Avid · Virtual Sets | Avid broadcast virtual sets |
 | [Browzwear VStitcher](https://browzwear.com/) | Enterprise 3D garment design and tech-pack pipeline. |  | Paid | Enterprise · Tech Packs | Enterprise fashion pipeline |
 | [ChyronHego (Chyron)](https://chyron.com/) | PRIME graphics engine. News and sports lower-thirds, AR/VR studio. |  | Paid | Broadcast Graphics · PRIME | Broadcast lower-thirds + AR studio |
@@ -4659,7 +4628,6 @@ Professional paid 3D software.
 | [Daz 3D](https://www.daz3d.com/) | Character-focused 3D software w/ large marketplace of figures and morphs. Free core app. |  | Paid | Characters · Huge Marketplace | Character-centric scenes |
 | [Faceware Studio](https://facewaretech.com/software/studio/) | Real-time face capture and streaming software. |  | Paid | Face Cap · Real-time | Real-time face capture |
 | [Houdini](https://www.sidefx.com/products/houdini/) | Procedural node-based DCC for VFX, simulation, and FX.<br><small class="see-also">See also: <a href="#rendering--shader-theory">Lighting, Rendering & Shaders → Rendering & Shader Theory</a></small> | Indie $269/yr, Core $1995, FX $4495 | Paid | Industry Standard · Procedural FX | Procedural FX, simulation, VFX |
-| [ICEM Surf](https://plm.sw.siemens.com/en-US/nx/products/free-form-design/icem-surf/) | Class-A surfacing for automotive exteriors (Siemens). |  | Paid | Class-A · Siemens | Class-A automotive surfacing |
 | [JewelCAD](https://www.jcadcam.com/) | Long-standing dedicated jewelry CAD package. |  | Paid | Jewelry CAD · Classic | Jewelry CAD |
 | [LightWave 3D](https://lightwave3d.com/) | Veteran modeling, animation, and rendering DCC with a long film/broadcast legacy. |  | Paid | Veteran DCC · Broadcast/VFX | Broadcast, motion graphics, indie VFX |
 | [Lumiscaphe Patchwork 3D](https://www.lumiscaphe.com/) | Real-time automotive configurator and viz, OEM clientele. |  | Paid | Auto Config · Real-time | Real-time auto config |
@@ -4669,13 +4637,11 @@ Professional paid 3D software.
 | [Maya](https://www.autodesk.com/products/maya/) | Film-industry animation and VFX DCC. | $255/mo (Indie $330/yr) | Paid | Industry Standard · Film Animation | Film VFX, CG animation |
 | [Modo](https://www.foundry.com/products/modo) | Foundry's 3D modeling, texturing, rendering package. |  | Paid | Foundry · Modeling Focus | Modeling, product viz |
 | [Moi3D](http://moi3d.com/) | NURBS modeler for industrial and product design. | $295 perpetual (90-day trial) | Paid | NURBS · Perpetual License | NURBS modeling, industrial design |
-| [MotionBuilder](https://www.autodesk.com/products/motionbuilder) | Autodesk real-time character animation and mocap editing platform. | $2,225/yr | Paid | Industry Standard · Mocap | Mocap cleanup, real-time character animation |
 | [Nomad Sculpt](https://nomadsculpt.com/) | Mobile digital sculpting for iPad and Android. | $19.99 one-time (mobile) | Paid | iPad Sculpt · One-time Purchase | Mobile sculpting |
 | [Optitex](https://www.optitex.com/) | 2D/3D pattern-making and virtual fit. |  | Paid | Pattern + Fit · Industrial | 2D/3D pattern + virtual fit |
 | [Plasticity](https://www.plasticity.xyz/) | NURBS/CAD-style modeler tuned for artists and concept work; perpetual license w/ 12-month maintenance. | Indie/Studio perpetual; Indie→Studio upgrade $125 | Paid | NURBS · Concept/Hard-Surface | Hard-surface concept, product design |
 | [Reallusion Character Creator](https://www.reallusion.com/character-creator/) | Character creation and auto-rigging pipeline feeding iClone, Unreal, Unity, Blender, Omniverse. | From $8.30/mo (3D Suite 365 $49.92/mo with iClone) | Paid | Character Pipeline · Auto-Rig | Production-ready character pipelines |
 | [Reallusion iClone](https://www.reallusion.com/iclone/) | Real-time character animation and cinematic creation; pairs with Character Creator. | $59/mo or $199/yr (perpetual $599) | Paid | Real-time · Character Anim | Real-time previs, indie cinematics |
-| [Ross XPression](https://www.rossvideo.com/products-services/acquisition-production/graphics/xpression-motion-graphics/) | Real-time motion graphics and data-driven CG for live broadcast. |  | Paid | Broadcast · Data-Driven | Real-time broadcast CG |
 | [SketchUp](https://www.sketchup.com/) | Architectural and interior-design-oriented 3D modeler. | Go $10.75/mo, Pro $33.25/mo, Studio $68.25/mo (annual) | Paid | Arch-Viz · Easy Learning Curve | Architecture, interior design |
 | [Style3D](https://atelier.style3d.com/en/home) | 3D garment design and cloth simulation. Clo3D/Marvelous competitor with FBX/OBJ export to standard CG pipelines. | Subscription | Paid | Fashion · Garment Sim | 3D garment design, cloth simulation, fashion-to-CG pipeline |
 | [Substance 3D Modeler](https://www.adobe.com/products/substance3d/apps/modeler.html) | Adobe's VR and desktop sculpting tool. | $49.99/mo collection | Paid | VR Sculpt · Adobe Suite | VR/desktop sculpting |
@@ -4684,7 +4650,6 @@ Professional paid 3D software.
 
 **Related:**
 - [Clayoo](https://www.clayoo.com/) <span class="lic-pill lic-paid">Paid</span>. SubD modeling plugin for Rhino. Common for jewelry organic forms.
-- [Firestorm CAD](https://firestormcad.com/) <span class="lic-pill lic-paid">Paid</span>. Rhino plugin for parametric jewelry design.
 
 ### CAD Software
 
@@ -4693,7 +4658,6 @@ Computer-aided design tools.
 | Software | Description | Pricing | License | Tags | Best For |
 |---|---|---|---|---|---|
 | [AutoCAD](https://www.autodesk.com/products/autocad) | Industry-standard 2D/3D CAD. | $210/mo | Paid | Industry Standard · 2D/3D Drafting | Architecture, engineering, drafting |
-| [Autodesk Inventor](https://www.autodesk.com/products/inventor) | Mechanical 3D CAD for product design, simulation, and tooling. | $310/mo or $2,500/yr | Paid | Mechanical CAD · Industry Standard | Mechanical engineering and product design |
 | [Bitbybit](https://bitbybit.dev/) | Browser parametric CAD via visual nodes (Rete, Blockly) or Monaco code editor. OCCT, JSCAD, Manifold backends. |  | Freemium | Browser · Parametric | Parametric web CAD, generative geometry, 3D printing |
 | [BricsCAD](https://www.bricsys.com/bricscad) | AutoCAD-compatible DWG CAD; offers both perpetual and subscription licensing. | Lite from €314; Pro $1,752 perpetual; Ultimate from €1,176/yr | Paid | DWG-Compatible · Cross-Platform | DWG-compatible CAD on Mac/Linux |
 | [CATIA](https://www.3ds.com/products/catia) | Dassault Systèmes CAD for aerospace and automotive. |  | Paid | Aerospace · Automotive | Aerospace, automotive |
@@ -4813,9 +4777,7 @@ VFX, compositing, and real-time simulation tools.
 
 **Related:**
 - [ActionVFX](https://www.actionvfx.com/). VFX stock elements (explosions, fire, debris).
-- [Boris Title Studio](https://borisfx.com/products/continuum/title-studio/) <span class="lic-pill lic-paid">Paid</span>. 3D titler shipped inside Continuum (was a standalone product).
 - [JangaFX Docs](https://docs.jangafx.com/). Official EmberGen/LiquiGen documentation and how-to guides.
-- [Mocha AE](https://borisfx.com/products/mocha-ae/). Stripped Mocha planar tracker bundled inside After Effects. Free with AE.
 - [Nukepedia](https://www.nukepedia.com/). Free Nuke gizmos, tools, plugins, tutorials.
 
 ### Render Engines
@@ -4942,9 +4904,6 @@ Audio editing, mixing, sound design, and SFX generation.
 | [VCV Rack](https://vcvrack.com/) | Open-source Eurorack modular synthesizer emulator. Free core; paid Pro and premium modules. | Free core / $149 Pro | Open Source | Modular Synth · Eurorack | Software modular synthesis |
 | [Wavewright](https://store.steampowered.com/app/4149720/Wavewright/) | Modular music sandbox inspired by analog synthesizers (Early Access). |  | Free | Modular Synth · Early Access | Sound design, music experimentation |
 | [Wwise](https://www.audiokinetic.com/en/wwise/overview/) | AAA audio middleware with free tier.<br><small class="see-also">See also: <a href="#game-dev-tools-audio-middleware">Game Development → Game Dev Tools: Audio Middleware</a></small> |  | Freemium | AAA · Free Tier | AAA game audio |
-
-**Related:**
-- [Resonance Audio](https://resonance-audio.github.io/). Google's open-source ambisonic spatial audio SDK.
 
 ### Design Software
 
@@ -5158,8 +5117,6 @@ Standalone retopology, remeshing, and UV unwrapping/packing tools.
 | Software | Description | Pricing | License | Tags | Best For |
 |---|---|---|---|---|---|
 | [3D Coat](https://3dcoat.com/) | Sculpt, retopo, UV, and PBR paint suite from Pilgway. Voxel and surface sculpt, AUTOPO auto-retopo, manual quad retopo, UV unwrap, bake.<br><small class="see-also">See also: <a href="#retopology--mesh-tools">Tools, Pipeline & Utilities → Retopology & Mesh Tools</a></small> | ~$379 perpetual (Educational $99) | Paid | Sculpt + Retopo · PBR Paint | Sculpt + retopo + UV + PBR paint in one app |
-| [3D Coat Print](https://3dcoat.com/3dcoatprint/) | Voxel-sculpt build of 3D Coat aimed at 3D-print workflows. | ~$199 perpetual | Paid | Voxel Sculpt · 3D Print | 3D-print sculpting |
-| [3D Coat Textura](https://3dcoat.com/textura/) | Texturing-only variant of 3D Coat. PBR paint and bake, no sculpt or retopo modules. | ~$199 perpetual | Paid | PBR Paint Only · Standalone | Standalone PBR texture painting |
 | [AutoRemesher](https://github.com/huxingyi/autoremesher) | Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.<br><small class="see-also">See also: <a href="#retopology--mesh-tools">Tools, Pipeline & Utilities → Retopology & Mesh Tools</a></small> |  | Open Source | Free · Auto Retopo | Auto-retopology |
 | [Cozy Blanket](https://cozyblanket.app/) | iPad sculpt-to-retopo app. Clay sculpt plus auto-quad retopology for game/film topology, from Naam.<br><small class="see-also">See also: <a href="#retopology--mesh-tools">Tools, Pipeline & Utilities → Retopology & Mesh Tools</a></small> | ~$80 perpetual | Paid | iPad Sculpt · Auto Retopo | iPad sculpt + auto-retopo |
 | [Headus UVLayout](https://www.uvlayout.com/) | Standalone UV editor, flatten-based.<br><small class="see-also">See also: <a href="#uv-tools">Tools, Pipeline & Utilities → UV Tools</a></small> |  | Paid | Flatten-based · Classic | Flatten-based UV editor |
@@ -5185,7 +5142,6 @@ Virtual production, broadcast graphics, and real-time stage tooling.
 | [Brainstorm InfinitySet](https://www.brainstorm3d.com/products/infinityset/) | Virtual set and AR for broadcast. | Paid | Virtual Sets · AR | Broadcast virtual sets |
 | [disguise](https://www.disguise.one/en/solutions/virtual-production/) | Virtual production solutions.<br><small class="see-also">See also: <a href="#virtual-production">VFX, Compositing & Virtual Production → Virtual Production</a></small> | Paid | LED Walls · Workflow | LED wall virtual production |
 | [grandMA3](https://www.malighting.com/grandma3/) | Industry-standard lighting control console and software for live shows, theatre, and broadcast. | Paid | Lighting Console · Show Control | Stage lighting control, show programming |
-| [MotionBuilder](https://www.autodesk.com/products/motionbuilder) | Autodesk real-time character animation and mocap editing platform. | Paid | Industry Std · Mocap Cleanup | Mocap cleanup + retarget |
 | [Notch](https://www.notch.one/) | Real-time graphics for live events and virtual production.<br><small class="see-also">See also: <a href="#virtual-production">VFX, Compositing & Virtual Production → Virtual Production</a></small> | Paid | Live Events · Real-time | Live events, real-time graphics |
 | [Pixotope](https://www.pixotope.com/) | Virtual production software.<br><small class="see-also">See also: <a href="#virtual-production">VFX, Compositing & Virtual Production → Virtual Production</a></small> | Paid | VP Software · Real-time | Virtual production |
 | [Vizrt](https://www.vizrt.com/) | Broadcast graphics.<br><small class="see-also">See also: <a href="#virtual-production">VFX, Compositing & Virtual Production → Virtual Production</a></small> | Paid | Broadcast · Graphics | Broadcast graphics |
@@ -5198,7 +5154,6 @@ Virtual production, broadcast graphics, and real-time stage tooling.
 - [Manus](https://www.manus-meta.com/) <span class="lic-pill lic-paid">Paid</span>. Motion capture and VR finger tracking gloves.
 - [Mark Roberts Motion Control (Bolt / Milo / Cyclops)](https://www.mrmoco.com/) <span class="lic-pill lic-paid">Paid</span>. Bolt high-speed, Milo, Cyclops, and Kira MoCo arms; Unreal Engine integration for VP.
 - [Megapixel Helios](https://megapixelvr.com/) <span class="lic-pill lic-paid">Paid</span>. HDR LED processing platform for virtual production.
-- [Mo-Sys StarTracker](https://www.mo-sys.com/products/camera-tracking/startracker/) <span class="lic-pill lic-paid">Paid</span>. Ceiling-star optical camera tracking system for VP and broadcast.
 - [Ncam Reality](https://www.ncam-tech.com/) <span class="lic-pill lic-paid">Paid</span>. Markerless on-set camera tracking.
 - [OptiTrack](https://optitrack.com/) <span class="lic-pill lic-paid">Paid</span>. Motive software and optical mocap cameras.
 - [ROE Visual](https://roevisual.com/) <span class="lic-pill lic-paid">Paid</span>. Black Pearl / Ruby LED panels widely used in VP volumes.
@@ -5209,7 +5164,6 @@ Virtual production, broadcast graphics, and real-time stage tooling.
 - [Vicon](https://www.vicon.com/) <span class="lic-pill lic-paid">Paid</span>. Optical motion capture systems. Industry standard.
 - [Vu Studios](https://www.vu.app/) <span class="lic-pill lic-paid">Paid</span>. Turnkey virtual production stages and tooling.
 - [Xsens MVN (Movella)](https://www.movella.com/products/motion-capture) <span class="lic-pill lic-paid">Paid</span>. IMU-based inertial full-body motion capture suit.
-- [ZEISS CinCraft Scenario](https://www.zeiss.com/consumer-products/us/cincraft/scenario.html) <span class="lic-pill lic-paid">Paid</span>. Lens-aware camera tracking system for VP.
 
 ### Level Design & Map Editing Software
 
@@ -5239,7 +5193,6 @@ Production tracking, render farm management, asset pipeline orchestration.
 | [5th Kind CORE](https://www.5thkind.com/) | Secure media and production management used on major features. Asset sharing + tracking. |  | Paid | Secure Media · Feature Films | Secure feature-film production mgmt |
 | [Anchorpoint](https://www.anchorpoint.app/) | Git/Perforce GUI built for artists. Handles large binary assets cleanly. | Free / from $14/mo | Freemium | Git/Perforce GUI · Artist VCS | Artist-friendly VCS frontend |
 | [Articy:draft](https://www.articy.com/) | Professional narrative design middleware.<br><small class="see-also">See also: <a href="#game-dev-tools-dialogue--narrative">Game Development → Game Dev Tools: Dialogue & Narrative</a></small> |  | Paid | Middleware · Pro | Professional narrative middleware |
-| [Autodesk Flow Capture](https://www.autodesk.com/products/flow-capture) | Live on-set dailies platform (formerly Moxion). |  | Paid | On-Set Dailies · Was Moxion | On-set dailies |
 | [AYON (Ynput)](https://ynput.io/ayon/) | Open-source VFX/animation pipeline platform; successor to OpenPype (archived). |  | Open Source | Open Pipeline · VFX Studio | Open-source studio pipeline |
 | [Cerebro](https://cerebrohq.com/) | Russian-origin production tracker with built-in messenger and review. |  | Paid | Tracker + Chat · Studio Tool | Tracker + messenger combo |
 | [CGAL](https://www.cgal.org/) | A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.<br><small class="see-also">See also: <a href="#scene--pipeline-tools">Tools, Pipeline & Utilities → Scene & Pipeline Tools</a></small> |  | Open Source | Geometry Lib · Open Source | Computational geometry algorithms |
@@ -5254,7 +5207,6 @@ Production tracking, render farm management, asset pipeline orchestration.
 | [FilmLight Daylight](https://www.filmlight.ltd.uk/products/daylight/) | Dailies and conform sibling of Baselight, from FilmLight. |  | Paid | FilmLight · Dailies/Conform | Dailies + conform |
 | [Flamenco (Blender render farm)](https://flamenco.blender.org/) | Blender Foundation's free render-farm manager.<br><small class="see-also">See also: <a href="#scene--pipeline-tools">Tools, Pipeline & Utilities → Scene & Pipeline Tools</a></small> |  | Open Source | Render Farm · Blender | Blender render farm |
 | [Flamenco (flamenco.io)](https://www.flamenco.io/) | From the Blender Foundation<br><small class="see-also">See also: <a href="#scene--pipeline-tools">Tools, Pipeline & Utilities → Scene & Pipeline Tools</a></small> |  | Open Source | Render Farm · Blender | Blender render farm |
-| [Flow Production Tracking (Autodesk)](https://www.autodesk.com/products/flow-production-tracking) | Production tracking and review for film/TV/games. Renamed from ShotGrid in March 2024. |  | Paid | Industry Standard · Production Tracking | Studio production tracking and review |
 | [Foundry Katana](https://www.foundry.com/products/katana) | Look-development and lighting orchestration tool for film/episodic VFX, scaling to massive scenes via deferred evaluation.<br><small class="see-also">See also: <a href="#3d-lighting-production">Lighting, Rendering & Shaders → 3D Lighting: Production</a></small> |  | Paid | Industry Standard · Lookdev/Lighting | Film lookdev and lighting at scale |
 | [Frame.io](https://frame.io/) | Adobe-owned review and collaboration platform for video and motion teams. | Free / from $15/mo | Freemium | Adobe · Cloud Review | Cloud review/approval |
 | [ftrack](https://www.ftrack.com/en/) | Production tracking.<br><small class="see-also">See also: <a href="#scene--pipeline-tools">Tools, Pipeline & Utilities → Scene & Pipeline Tools</a></small> |  | Paid | Production Tracking · Pro | Production tracking |
@@ -5277,10 +5229,8 @@ Production tracking, render farm management, asset pipeline orchestration.
 | [Plastic SCM / Unity Version Control](https://unity.com/solutions/version-control) | Artist-friendly binary version control.<br><small class="see-also">See also: <a href="#game-dev-tools-version-control">Game Development → Game Dev Tools: Version Control</a></small> |  | Freemium | Artist-Friendly · Unity-Integrated | Artist-friendly VCS |
 | [Prism Pipeline](https://prism-pipeline.com/) | Animation and VFX pipeline.<br><small class="see-also">See also: <a href="#scene--pipeline-tools">Tools, Pipeline & Utilities → Scene & Pipeline Tools</a></small> |  | Freemium | Pipeline · Free Core | Indie/small studio pipeline |
 | [Royal Render](https://royalrender.de/) | Per-node render farm manager for VFX/animation pipelines. |  | Paid | Render Farm · Studio | Studio render farm management |
-| [RV (Autodesk/Tweak)](https://www.autodesk.com/products/flow-production-tracking/rv) | Standard playback and review tool, free for personal use; paid for studios. |  | Freemium | Pro Playback · Tweak/Autodesk | Pro image-sequence review/playback |
 | [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) | A SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++.<br><small class="see-also">See also: <a href="#game-dev-tools-networking--multiplayer">Game Development → Game Dev Tools: Networking & Multiplayer</a></small> |  | Freemium |  |  |
 | [Snowtrack](https://www.snowtrack.dev/) | Git-like version control aimed at artists. |  | Free | Beta · Artist VCS | Lightweight artist VCS |
-| [Sohonet ClearView Flex](https://www.sohonet.com/clearview/) | Low-latency remote color/review streaming for distributed post. |  | Paid | Remote Color · Streaming | Remote color/review streaming |
 | [SyncSketch](https://syncsketch.com/) | Autodesk browser-based review and annotation for animation and VFX. | Free / from $17/mo | Freemium | Autodesk · Browser Review | Browser review/annotate |
 | [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) | A procedural terrain generation and procedural modeling toolkit.<br><small class="see-also">See also: <a href="#scene--pipeline-tools">Tools, Pipeline & Utilities → Scene & Pipeline Tools</a></small> |  | Open Source |  |  |
 | [Tik Manager (GitHub)](https://github.com/masqu3rad3/tik_manager4) | Artist friendly asset and pipeline manager.<br><small class="see-also">See also: <a href="#scene--pipeline-tools">Tools, Pipeline & Utilities → Scene & Pipeline Tools</a></small> |  | Open Source | Pipeline · Open Source | Asset/pipeline management for small teams |
@@ -5298,9 +5248,7 @@ Production tracking, render farm management, asset pipeline orchestration.
 - [GarageFarm.NET](https://garagefarm.net/) <span class="lic-pill lic-paid">Paid</span>. SaaS render farm with automated workflow. Supports Maya, 3ds Max, C4D, Blender, Houdini, Modo. Three pricing tiers based on speed vs budget.
 - [GridMarkets](https://www.gridmarkets.com/) <span class="lic-pill lic-paid">Paid</span>. Houdini-first cloud farm with Mantra, Karma CPU/XPU, PDG/TOP support. Also Maya, C4D, Blender, 3ds Max, Nuke + Arnold, V-Ray, Redshift, RenderMan.
 - [iRender](https://irendering.net/) <span class="lic-pill lic-paid">Paid</span>. IaaS dedicated RTX 4090 nodes from ~$8.20/hr. Optimized for Redshift, Octane, Blender, V-Ray, Iray, Maxwell, Houdini, C4D, Maya via remote desktop.
-- [Maxon One Cloud](https://www.maxon.net/en/cinema-4d/features/cloud-rendering) <span class="lic-pill lic-paid">Paid</span>. Integrated C4D cloud rendering for Standard, Physical, and Redshift engines. Bundled with Maxon One subscription.
 - [OTOY Render Cloud (ORC)](https://home.otoy.com/render/orc/) <span class="lic-pill lic-paid">Paid</span>. OTOY cloud rendering for Octane scenes. Pay-as-you-go GPU rendering with ORBX scene packaging.
-- [Pixel Plow](https://www.pixelplow.com/) <span class="lic-pill lic-paid">Paid</span>. 3ds Max, After Effects, Blender, and Cinema 4D render farm.
 - [Ranch Computing](https://www.ranchcomputing.com/) <span class="lic-pill lic-paid">Paid</span>. French managed farm focused on Blender, C4D, Maya, 3ds Max, Houdini including Karma XPU. Predictable per-frame pricing.
 - [RebusFarm](https://rebusfarm.net/) <span class="lic-pill lic-paid">Paid</span>. German cloud farm supporting 20+ apps including Blender, 3ds Max, Maya, C4D, SketchUp. CPU 1.33 cents/GHz-hr, GPU 0.50 cents/OB-hr.
 - [Super Renders Farm](https://superrendersfarm.com/) <span class="lic-pill lic-paid">Paid</span>. Multi-engine farm with 20k+ Xeon cores and RTX 5090 GPU nodes. Supports V-Ray, Corona, Arnold, Redshift, Octane, Cycles across Blender, Maya, 3ds Max, C4D, Houdini.
@@ -5342,7 +5290,6 @@ Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools — plus
 | [3D Slicer](https://www.slicer.org/) | Medical image computing platform. Segmentation, 3D reconstruction, surgical planning. |  | Open Source | Medical Imaging · Open Source | Medical image segmentation |
 | [Ansys EnSight](https://www.ansys.com/products/fluids/ansys-ensight) | Large-dataset CFD/CAE visualization. |  | Paid | Ansys · Large Data | Large CFD datasets |
 | [Avogadro](https://avogadro.cc/) | Cross-platform chemistry builder and editor. |  | Open Source | Chemistry · Educational | Chemistry building |
-| [Celestia](https://celestia.space/) | Real-time 3D space simulator. |  | Open Source | Space Sim · Educational | Educational space sim |
 | [Discovery Studio Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download) | BIOVIA pharma-oriented molecular viewer. Free download. |  | Free | Pharma · Free | Pharma molecular viewing |
 | [Drishti](https://github.com/nci/drishti) | ANU volume exploration and presentation tool. |  | Open Source | Volume · Academic | Volume rendering / presentation |
 | [FieldView](https://www.ilight.com/) | Intelligent Light CFD visualization. |  | Paid | CFD · Aerospace | CFD visualization |
@@ -5554,78 +5501,8 @@ Built with help from:
 - YouTube channels & playlists
 
 <details>
-<summary><strong>GitHub awesome-lists mined (70)</strong></summary>
+<summary><strong>GitHub awesome-lists mined (0)</strong></summary>
 
-- [agarcialeon/awesome-unity](https://github.com/agarcialeon/awesome-unity)
-- [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender)
-- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-- [Alinshans/awesome-cg](https://github.com/Alinshans/awesome-cg)
-- [AtakanFire/Awesome-Unreal-Engine](https://github.com/AtakanFire/Awesome-Unreal-Engine)
-- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
-- [AxiomeCG/awesome-threejs](https://github.com/AxiomeCG/awesome-threejs)
-- [bcmi/Awesome-Generative-Image-Composition](https://github.com/bcmi/Awesome-Generative-Image-Composition)
-- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
-- [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD)
-- [bluesfdw/awesome-CAD](https://github.com/bluesfdw/awesome-CAD)
-- [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts)
-- [brandonhimpfen/awesome-generative-ai](https://github.com/brandonhimpfen/awesome-generative-ai)
-- [calinou/awesome-gamedev](https://github.com/calinou/awesome-gamedev)
-- [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art)
-- [cgwire/awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline)
-- [cjroth/awesome-vr](https://github.com/cjroth/awesome-vr)
-- [Coop56/awesome-unreal](https://github.com/Coop56/awesome-unreal)
-- [cutbypham/awesome-davinci-resolve](https://github.com/cutbypham/awesome-davinci-resolve)
-- [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)
-- [Domeee/awesome-augmented-reality](https://github.com/Domeee/awesome-augmented-reality)
-- [drwpow/awesome-oss-fonts](https://github.com/drwpow/awesome-oss-fonts)
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools)
-- [ericjang/awesome-graphics](https://github.com/ericjang/awesome-graphics)
-- [eug/awesome-opengl](https://github.com/eug/awesome-opengl)
-- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai)
-- [fire/awesome-godot-procedural-manual-generation](https://github.com/fire/awesome-godot-procedural-manual-generation)
-- [FronkonGames/Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)
-- [haxiomic/awesome-gamedev](https://github.com/haxiomic/awesome-gamedev)
-- [iamtpb/awesome-photography](https://github.com/iamtpb/awesome-photography)
-- [ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
-- [inlife/awesome-ae](https://github.com/inlife/awesome-ae)
-- [insthync/awesome-unreal](https://github.com/insthync/awesome-unreal)
-- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
-- [KelvinAnymoree/awesome-cg-pipeline](https://github.com/KelvinAnymoree/awesome-cg-pipeline)
-- [kidult00/awesome-AR](https://github.com/kidult00/awesome-AR)
-- [loonghao/awesome-cg-pipeline](https://github.com/loonghao/awesome-cg-pipeline)
-- [luisdnsantos/awesome-computer-graphics](https://github.com/luisdnsantos/awesome-computer-graphics)
-- [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev)
-- [mdyao/Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC)
-- [melbvr/awesome-VR](https://github.com/melbvr/awesome-VR)
-- [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality)
-- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
-- [MrPeker/awesome-illustrations](https://github.com/MrPeker/awesome-illustrations)
-- [nathakits/awesome-cinema4d](https://github.com/nathakits/awesome-cinema4d)
-- [natnew/Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI)
-- [oli-z/awesome-filmmaking](https://github.com/oli-z/awesome-filmmaking)
-- [olucurious/Awesome-ARCore](https://github.com/olucurious/Awesome-ARCore)
-- [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)
-- [querielo/awesome-computer-graphics](https://github.com/querielo/awesome-computer-graphics)
-- [rive-app/awesome-rive](https://github.com/rive-app/awesome-rive)
-- [rng70/Awesome-Fonts](https://github.com/rng70/Awesome-Fonts)
-- [shlomif/awesome-graphics-programming](https://github.com/shlomif/awesome-graphics-programming)
-- [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
-- [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl)
-- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
-- [teamgravitydev/gamedev-free-resources](https://github.com/teamgravitydev/gamedev-free-resources)
-- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
-- [terrehbyte/awesome-ue4](https://github.com/terrehbyte/awesome-ue4)
-- [TheFrenchGhosty/awesome-art](https://github.com/TheFrenchGhosty/awesome-art)
-- [tobiasbueschel/awesome-WebAR](https://github.com/tobiasbueschel/awesome-WebAR)
-- [tom-choi/awesome-cg-pipeline](https://github.com/tom-choi/awesome-cg-pipeline)
-- [tomByrer/awesome-unreal-engine](https://github.com/tomByrer/awesome-unreal-engine)
-- [UEProjectXmples/awesome-ue5](https://github.com/UEProjectXmples/awesome-ue5)
-- [unclamped/awesome-vr](https://github.com/unclamped/awesome-vr)
-- [UnityCommunity/AwesomeUnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity)
-- [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl)
-- [waitin2010/awesome-computer-graphics](https://github.com/waitin2010/awesome-computer-graphics)
-- [wentianli/awesome-video-editing](https://github.com/wentianli/awesome-video-editing)
-- [wyhinton/AwesomeHoudini](https://github.com/wyhinton/AwesomeHoudini)
 
 </details>
 

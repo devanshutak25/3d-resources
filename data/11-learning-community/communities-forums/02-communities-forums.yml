@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Substance
       - Exchange
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Steam
       - VR
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - Unreal
       - Discord
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Blender Forum
       - Scripting
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Blender
       - Python
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Blender
       - Python
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - GAN Papers
       - Reading Club
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -100,7 +100,7 @@ entries:
     readme_tags:
       - AI Art
       - Prompts
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -115,7 +115,7 @@ entries:
     readme_tags:
       - Real-Time VFX
       - Forum
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -132,7 +132,7 @@ entries:
     readme_tags:
       - WebVR
       - W3C
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -143,7 +143,7 @@ entries:
     url: https://blender.stackexchange.com/
     description: Blender Q&A community on Stack Exchange.
     entry_type: community
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -154,7 +154,7 @@ entries:
     description: More addons and resources around Blender in this awesome list.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -164,7 +164,7 @@ entries:
     description: Weekly articles & lessons on Blender & 3D
     license: Free
     entry_type: channel
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}
   - name: 💬blender.chat
@@ -172,7 +172,7 @@ entries:
     description: Official chat server for artists and developers.
     license: Free
     entry_type: community
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}
   - name: SculptJanuary
@@ -180,7 +180,7 @@ entries:
     description: Challenge yourself over 31 days with a set of 31 topics.
     license: Free
     entry_type: community
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}
   - name: Blender Conference
@@ -188,7 +188,7 @@ entries:
     description: 'The yearly Blender Conference in Amsterdam. (Playlists: [Bcon25](https://www.youtube.com/playlist?list=PLa1F2ddGya_8u-HEvmfCVuS_OImW8HaLd)'
     license: Free
     entry_type: community
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}
   - name: 🔌 Developer Portal
@@ -196,7 +196,7 @@ entries:
     description: '[💭 DevTalk](https://devtalk.blender.org/) | [💻 Developers Blog](https://code.blender.org/)'
     license: Free
     entry_type: reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}
   - name: fb/blender
@@ -204,7 +204,7 @@ entries:
     description: Blender Facebook group.
     license: Free
     entry_type: community
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags: {}
   - name: Animators Guild
@@ -215,7 +215,7 @@ entries:
     readme_tags:
       - India
       - Animation
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -230,7 +230,7 @@ entries:
     readme_tags:
       - India
       - Motion Design
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -245,7 +245,7 @@ entries:
     readme_tags:
       - C4D
       - Slack
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -262,7 +262,7 @@ entries:
     readme_tags:
       - India
       - Design
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -275,7 +275,7 @@ entries:
     readme_tags:
       - Multi-DCC
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -288,7 +288,7 @@ entries:
     readme_tags:
       - General 3D
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -301,7 +301,7 @@ entries:
     readme_tags:
       - General 3D
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -314,7 +314,7 @@ entries:
     readme_tags:
       - News
       - CG
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -327,7 +327,7 @@ entries:
     readme_tags:
       - News
       - Europe
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -340,7 +340,7 @@ entries:
     readme_tags:
       - News
       - Tutorials
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -353,7 +353,7 @@ entries:
     readme_tags:
       - VFX
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -368,7 +368,7 @@ entries:
     readme_tags:
       - VFX
       - Editing
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -383,7 +383,7 @@ entries:
     readme_tags:
       - VFX
       - Education
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -398,7 +398,7 @@ entries:
     readme_tags:
       - VFX
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -413,7 +413,7 @@ entries:
     readme_tags:
       - Real-time VFX
       - Forum
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -428,7 +428,7 @@ entries:
     readme_tags:
       - Shaders
       - Tech Art
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -441,7 +441,7 @@ entries:
     readme_tags:
       - Animation
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -456,7 +456,7 @@ entries:
     readme_tags:
       - Animation
       - VFX
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -471,7 +471,7 @@ entries:
     readme_tags:
       - Animation
       - Index
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -486,7 +486,7 @@ entries:
     readme_tags:
       - Animation
       - Resources
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -501,7 +501,7 @@ entries:
     readme_tags:
       - Concept Art
       - Forum
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -516,7 +516,7 @@ entries:
     readme_tags:
       - Concept Art
       - News
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -531,7 +531,7 @@ entries:
     readme_tags:
       - Concept Art
       - Org
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -546,7 +546,7 @@ entries:
     readme_tags:
       - Concept Art
       - Pro
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -561,7 +561,7 @@ entries:
     readme_tags:
       - Concept Art
       - French
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -576,7 +576,7 @@ entries:
     readme_tags:
       - Portfolio
       - Anti-AI
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -589,11 +589,12 @@ entries:
     readme_tags:
       - Artists
       - Bluesky
-    url_last_verified: '2026-05-11'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
     tags:
       platform:
         - web
+    deprecated: true
   - name: 3D Character Workshop
     url: https://www.3dcharacterworkshop.com/
     description: Active community for stylized character sculpting. Challenges, WIPs, tips at every level.
@@ -602,7 +603,7 @@ entries:
     readme_tags:
       - Character Art
       - Sculpting
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -617,7 +618,7 @@ entries:
     readme_tags:
       - ArchViz
       - Forum
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -632,7 +633,7 @@ entries:
     readme_tags:
       - ArchViz
       - Tutorials
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -647,7 +648,7 @@ entries:
     readme_tags:
       - ArchViz
       - Courses
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -662,7 +663,7 @@ entries:
     readme_tags:
       - ArchViz
       - Industry
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -677,7 +678,7 @@ entries:
     readme_tags:
       - Gamedev
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -692,7 +693,7 @@ entries:
     readme_tags:
       - Gamedev
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -707,7 +708,7 @@ entries:
     readme_tags:
       - Gamedev
       - Indie
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -722,7 +723,7 @@ entries:
     readme_tags:
       - Motion Design
       - Slack
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -737,7 +738,7 @@ entries:
     readme_tags:
       - Motion Design
       - Education
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -752,7 +753,7 @@ entries:
     readme_tags:
       - Motion Design
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -767,7 +768,7 @@ entries:
     readme_tags:
       - Houdini
       - Resources
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -780,7 +781,7 @@ entries:
     readme_tags:
       - Houdini
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -793,7 +794,7 @@ entries:
     readme_tags:
       - Virtual Production
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -806,7 +807,7 @@ entries:
     readme_tags:
       - Virtual Production
       - Regional
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -819,11 +820,12 @@ entries:
     readme_tags:
       - Virtual Production
       - VFX
-    url_last_verified: '2026-05-11'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
     tags:
       platform:
         - web
+    deprecated: true
   - name: XR Creators (XR Bootcamp)
     url: https://xrbootcamp.com/xr-creators-expert-group/
     description: XR developer expert group. VR/AR events, networking, and advanced tech community.
@@ -832,7 +834,7 @@ entries:
     readme_tags:
       - XR
       - Developers
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -847,7 +849,7 @@ entries:
     readme_tags:
       - Real-time
       - Events
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -860,7 +862,7 @@ entries:
     readme_tags:
       - Freelance
       - Skool
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -873,7 +875,7 @@ entries:
     readme_tags:
       - Plasticity
       - Skool
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -889,7 +891,7 @@ entries:
     readme_tags:
       - Blender
       - Skool
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -904,7 +906,7 @@ entries:
     readme_tags:
       - Design
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -917,7 +919,7 @@ entries:
     readme_tags:
       - UX
       - Product Design
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -930,7 +932,7 @@ entries:
     readme_tags:
       - CG/VFX
       - Patreon
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -945,7 +947,7 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -958,7 +960,7 @@ entries:
     readme_tags:
       - Houdini
       - Python
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -971,7 +973,7 @@ entries:
     readme_tags:
       - Houdini
       - Courses
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -984,7 +986,7 @@ entries:
     readme_tags:
       - VFX
       - Real-time
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1000,7 +1002,7 @@ entries:
     readme_tags:
       - Tutorials
       - Marketplace
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1013,7 +1015,7 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1026,7 +1028,7 @@ entries:
     readme_tags:
       - Houdini
       - Unreal
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1041,7 +1043,7 @@ entries:
     readme_tags:
       - Houdini
       - Gamedev
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1056,7 +1058,7 @@ entries:
     readme_tags:
       - Houdini
       - Courses
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1069,7 +1071,7 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1084,7 +1086,7 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1097,7 +1099,7 @@ entries:
     readme_tags:
       - Houdini
       - MoGraph
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1112,7 +1114,7 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1125,7 +1127,7 @@ entries:
     readme_tags:
       - C4D
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1140,7 +1142,7 @@ entries:
     readme_tags:
       - India
       - Design
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1153,7 +1155,7 @@ entries:
     readme_tags:
       - Real-time VFX
       - JangaFX
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1171,7 +1173,7 @@ entries:
     readme_tags:
       - Houdini
       - ML
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1184,7 +1186,7 @@ entries:
     readme_tags:
       - Tech Art
       - Shaders
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1199,7 +1201,7 @@ entries:
     readme_tags:
       - Filmmaking
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1212,7 +1214,7 @@ entries:
     readme_tags:
       - 3D Education
       - Character Art
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1225,7 +1227,7 @@ entries:
     readme_tags:
       - Blender
       - Concept Art
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1242,7 +1244,7 @@ entries:
     readme_tags:
       - Game Art
       - Character Art
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1257,7 +1259,7 @@ entries:
     readme_tags:
       - VFX
       - YouTube
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1272,7 +1274,7 @@ entries:
     readme_tags:
       - 3D/VFX
       - Blender
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1287,7 +1289,7 @@ entries:
     readme_tags:
       - Motion Design
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1302,7 +1304,7 @@ entries:
     readme_tags:
       - CG
       - VFX
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1317,7 +1319,7 @@ entries:
     readme_tags:
       - Illustration
       - Concept Art
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -1332,7 +1334,7 @@ entries:
     readme_tags:
       - C4D
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1347,7 +1349,7 @@ entries:
     readme_tags:
       - Indie
       - Gamedev
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1362,7 +1364,7 @@ entries:
     readme_tags:
       - Gamedev
       - YouTube
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1377,7 +1379,7 @@ entries:
     readme_tags:
       - India
       - Gamedev
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1392,7 +1394,7 @@ entries:
     readme_tags:
       - Game Design
       - YouTube
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1407,7 +1409,7 @@ entries:
     readme_tags:
       - Indie
       - Gamedev
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1422,7 +1424,7 @@ entries:
     readme_tags:
       - Cavalry
       - Motion Design
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1439,7 +1441,7 @@ entries:
     readme_tags:
       - Design
       - Community
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -1452,7 +1454,7 @@ entries:
     readme_tags:
       - Motion Design
       - AE Tools
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1467,13 +1469,14 @@ entries:
     readme_tags:
       - Animation
       - AE
-    url_last_verified: '2026-05-11'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
     tags:
       workflow:
         - animation
       platform:
         - web
+    deprecated: true
   - name: Hieu Vu - Art & Motion
     url: https://hieuvudesign.com/
     description: Vietnam-based motion designer Hieu Vu's hub. Tutorials, motion graphics work, and community Discord.
@@ -1482,7 +1485,7 @@ entries:
     readme_tags:
       - Motion Design
       - Tutorials
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1497,7 +1500,7 @@ entries:
     readme_tags:
       - Blender
       - Tech Art
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1512,7 +1515,7 @@ entries:
     readme_tags:
       - Blender
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1527,7 +1530,7 @@ entries:
     readme_tags:
       - 2D Animation
       - Anime
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -1542,7 +1545,7 @@ entries:
     readme_tags:
       - Blender Fork
       - UI
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1557,7 +1560,7 @@ entries:
     readme_tags:
       - Blender
       - NPR
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1574,7 +1577,7 @@ entries:
     readme_tags:
       - Blender
       - Procedural
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1589,7 +1592,7 @@ entries:
     readme_tags:
       - Stylized
       - Game Art
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -1604,7 +1607,7 @@ entries:
     readme_tags:
       - Blender
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1619,7 +1622,7 @@ entries:
     readme_tags:
       - 3D
       - Mentorship
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1634,7 +1637,7 @@ entries:
     readme_tags:
       - Unreal
       - Virtual Production
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -1649,7 +1652,7 @@ entries:
     readme_tags:
       - Animation
       - Pro
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -1664,7 +1667,7 @@ entries:
     readme_tags:
       - Animation
       - Discord
-    url_last_verified: '2026-05-11'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:

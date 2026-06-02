@@ -4,7 +4,7 @@ entries:
     description: Simple neural network implemented in C# for Unity3D.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -19,7 +19,7 @@ entries:
     description: Movement Algorithms for NPCs developed with the Unity Engine for the Artificial Intelligence for Games class @ IST.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -34,7 +34,7 @@ entries:
     description: Small Unity project showcasing AI responding to changes in the game world.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -49,7 +49,7 @@ entries:
     description: AI Behavior Tree Framework.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -64,7 +64,7 @@ entries:
     description: Created in Unity 5 for the purposes of learning AI techniques. Features behaviour trees and A* pathfinding.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -77,7 +77,7 @@ entries:
     description: TrafficSim using Unity ECS.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -90,7 +90,7 @@ entries:
     description: Pathfinding library for the Unity engine.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -106,7 +106,7 @@ entries:
     description: A crowd simulator based on Unity's ML Agents and using PPO Reinforcement Learning Algorithm.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -121,7 +121,7 @@ entries:
     description: Musical beat detection and audio spectrum analysis for use with the Unity game engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -136,7 +136,7 @@ entries:
     description: A libpd wrapper for Unity. See [Pure Data](https://puredata.info/)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -151,7 +151,7 @@ entries:
     description: Port of NAudio to the Mono subset used by Unity3D.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -166,7 +166,7 @@ entries:
     description: Simple but decent sound manager for Unity3D, with AudioSource pooling, 3D positioning support and completion callback.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -181,7 +181,7 @@ entries:
     description: Unity iOS plugin JUST playing iOS system sound. (#PLUGINS)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -196,7 +196,7 @@ entries:
     description: Audio recorder component for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -211,7 +211,7 @@ entries:
     description: An Ableton Link plugin for Unity. (#PLUGINS)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -226,7 +226,7 @@ entries:
     description: An expansion of Bob Berkebile's Unity 3D tweening plugin.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -241,7 +241,7 @@ entries:
     description: Simple Unity tweening system using ECS that works with GameObjects!
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -256,7 +256,7 @@ entries:
     description: Integration of Unity + Vuforia into native iOS application.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -271,7 +271,7 @@ entries:
     description: A resolution independent pixel perfect camera for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -286,7 +286,7 @@ entries:
     description: An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -301,7 +301,7 @@ entries:
     description: Unity Component that can describes a physical camera's attributes. (#Physics) ![Official](UnityResource16x16.png)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -316,7 +316,7 @@ entries:
     description: Script to make 2d camera follow players in an interesting way.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -331,7 +331,7 @@ entries:
     description: Simple script to change the cameras size depending on the velocity of the target.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -346,7 +346,7 @@ entries:
     description: A third person camera system for Unity using Chase Camera.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -361,7 +361,7 @@ entries:
     description: An asset that allows you to have a First Person Perspective where first person objects do not clip through the environment, have a separate field of view from the environment and can receive shadow
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -376,7 +376,7 @@ entries:
     description: Perlin noise based camera shake MonoBehaviour script for Unity3D, ready to attach to a Camera. Uses a coroutine-based execution that exits after the job is done. Should be relatively performant.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -391,7 +391,7 @@ entries:
     description: A simple collection of jobs used for view frustum culling
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -406,7 +406,7 @@ entries:
     description: Generates pseudo-random camera shake using Perlin noise.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -421,7 +421,7 @@ entries:
     description: Control a camera or any other object like SceneView camera.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -436,7 +436,7 @@ entries:
     description: Examples of various Unity 2D Physics components and features.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -449,7 +449,7 @@ entries:
     description: Engine into Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -464,7 +464,7 @@ entries:
     description: Math reference for games. All visualized in Unity3D.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -477,7 +477,7 @@ entries:
     description: A set of custom 2D colliders for Unity. (#2D)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -492,7 +492,7 @@ entries:
     description: A unity destruction effect.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -507,7 +507,7 @@ entries:
     description: A PBD fluid in unity running on the GPU.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -522,7 +522,7 @@ entries:
     description: A 2D controller that behaves very similarly to Unity's CharacterController component.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -537,7 +537,7 @@ entries:
     description: A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate su
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -552,7 +552,7 @@ entries:
     description: Third Person Controller for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -565,7 +565,7 @@ entries:
     description: A Character Controller based controller for Unity's new Networking system. (#NETWORKING)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -580,7 +580,7 @@ entries:
     description: Unity custom character controller. (#ARCHIVED)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -595,7 +595,7 @@ entries:
     description: An extension for Unity3d to place AdMob banners in your Android games. (#PLUGINS)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -610,7 +610,7 @@ entries:
     description: Official Unity Plugin for the Google Mobile Ads SDK
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -623,7 +623,7 @@ entries:
     description: Add support for deltaDNA's platform and smartads mediation to your Unity games.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -638,7 +638,7 @@ entries:
     description: Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. (Terms of Service discussion alert!)
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -654,7 +654,7 @@ entries:
     description: Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -667,7 +667,7 @@ entries:
     description: A game networking framework built for the Unity Engine to abstract game networking concepts.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -680,7 +680,7 @@ entries:
     description: Master Server framework for Unity.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -695,7 +695,7 @@ entries:
     description: Unity client for Nakama server.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -708,7 +708,7 @@ entries:
     description: Unity3D UDP networking library focused on high-CCU, multi-server architecture.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -723,7 +723,7 @@ entries:
     description: Socket.io client for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:

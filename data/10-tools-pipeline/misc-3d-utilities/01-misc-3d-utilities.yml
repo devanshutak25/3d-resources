@@ -6,7 +6,7 @@ entries:
     readme_tags:
       - Sensor Data
       - Reference
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -18,8 +18,8 @@ entries:
     readme_tags:
       - MIT Research
       - Magnification
-    url_last_verified: '2026-05-01'
-    url_status: broken
+    url_last_verified: '2026-06-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -32,7 +32,7 @@ entries:
     readme_tags:
       - Math Grapher
       - iq
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
@@ -47,8 +47,8 @@ entries:
     readme_tags:
       - Displacement
       - Procedural
-    url_last_verified: '2026-05-01'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: unreachable
   - name: Math for Motion
     url: https://soulwire.co.uk/math-for-motion/
     description: Interactive math concepts for motion graphics.
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Math
       - Interactive
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: City Roads
     url: https://github.com/anvaka/city-roads
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - City Maps
       - Vector
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Sun Position
       - Golden Hour
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Texture Extractor
     url: https://berlinnights.itch.io/texture-extractor
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - Pre-1.0
       - Photo→Texture
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Sprite Stacker
     url: https://berlinnights.itch.io/sprite-stacker
@@ -109,7 +109,7 @@ entries:
     readme_tags:
       - Sprite Stacks
       - Pre-1.0
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Sorcar
     url: https://aachman98.itch.io/sorcar
@@ -125,7 +125,7 @@ entries:
     readme_tags:
       - Blender
       - Procedural
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: Penzil
     url: https://github.com/jacopocolo/Penzil
@@ -140,7 +140,7 @@ entries:
     readme_tags:
       - 3D Sketch
       - Web
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     stale: true
     last_pushed: '2023-04-17'
@@ -156,14 +156,14 @@ entries:
     readme_tags:
       - Houdini
       - CityEngine
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: HDRI To Cube Map
     url: https://matheowis.github.io/HDRI-to-CubeMap/
     description: A tool to convert your HDRI file into a Cube map.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -175,7 +175,7 @@ entries:
     description: Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL
     license: Freemium
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -186,7 +186,7 @@ entries:
     description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -199,7 +199,7 @@ entries:
     description: Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -210,7 +210,7 @@ entries:
     description: Interactive grayscale heightmap browser, which can generate heightmaps for use in 3D applications.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -221,7 +221,7 @@ entries:
     description: Pixellate an image into emoji
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:

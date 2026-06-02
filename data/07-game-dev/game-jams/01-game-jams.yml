@@ -7,11 +7,12 @@ entries:
     readme_tags:
       - Oldest Jam
       - Biannual
-    url_last_verified: '2026-05-01'
-    url_status: ok
+    url_last_verified: '2026-06-01'
+    url_status: broken
     tags:
       output:
         - games
+    deprecated: true
   - name: GMTK Game Jam
     url: https://itch.io/jam/gmtk-2025
     description: Largest jam by entries.
@@ -20,7 +21,7 @@ entries:
     readme_tags:
       - Largest
       - GMTK
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -33,7 +34,7 @@ entries:
     readme_tags:
       - Hub
       - Ongoing
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -46,7 +47,7 @@ entries:
     readme_tags:
       - In-Person
       - Global
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -64,7 +65,7 @@ entries:
     readme_tags:
       - Beginner-Friendly
       - Brackeys
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
   - name: JS13KGames
     url: https://js13kgames.com/
@@ -74,7 +75,7 @@ entries:
     readme_tags:
       - 13KB Limit
       - JS
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:

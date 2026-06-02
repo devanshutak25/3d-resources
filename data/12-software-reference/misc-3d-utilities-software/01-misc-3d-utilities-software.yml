@@ -3,7 +3,7 @@ entries:
     url: https://janusvr.com/
     description: Webpages as collaborative 3D webspaces interconnected by portals.
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -17,7 +17,7 @@ entries:
     url: https://polygonjs.com
     description: Node-based WebGL design tool, used for procedural geometry, particles, materials
     entry_type: software
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - HDR Lighting
       - Interactive
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -54,7 +54,7 @@ entries:
     readme_tags:
       - Crowds
       - Pro
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -71,7 +71,7 @@ entries:
     readme_tags:
       - Fluids
       - FX
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Industry Standard
       - PWYW
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -104,7 +104,7 @@ entries:
     readme_tags:
       - Low-poly
       - Voxel
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -121,7 +121,7 @@ entries:
     readme_tags:
       - Mesh Processing
       - Photogrammetry
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -137,7 +137,7 @@ entries:
     readme_tags:
       - PSD
       - Browser
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -153,7 +153,7 @@ entries:
     readme_tags:
       - Terrain Gen
       - Free Community
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -169,7 +169,7 @@ entries:
     readme_tags:
       - CAD-style
       - Artist UX
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -187,7 +187,7 @@ entries:
     readme_tags:
       - Base Meshes
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -200,7 +200,7 @@ entries:
     readme_tags:
       - RAW Editor
       - Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -216,7 +216,7 @@ entries:
     readme_tags:
       - Recording
       - Streaming
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
@@ -237,7 +237,7 @@ entries:
     readme_tags:
       - Screen Capture
       - Windows
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -255,7 +255,7 @@ entries:
     readme_tags:
       - Terrain Gen
       - Node-based
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -273,7 +273,7 @@ entries:
     readme_tags:
       - Fractals
       - HDR/EXR
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -290,7 +290,7 @@ entries:
     readme_tags:
       - Strange Attractors
       - GPU
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -307,7 +307,7 @@ entries:
     readme_tags:
       - RenderMan-like
       - Renderer
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     stale: true
     last_pushed: '2014-05-04'
@@ -326,7 +326,7 @@ entries:
     readme_tags:
       - Timeline
       - Editorial
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -342,5 +342,5 @@ entries:
     readme_tags:
       - VTubing
       - Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok

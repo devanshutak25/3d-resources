@@ -4,7 +4,7 @@ entries:
     description: Integration dear imgui to Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -22,7 +22,7 @@ entries:
     description: Procedural flower generator for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -43,7 +43,7 @@ entries:
     description: A graph-based solution for procedural mesh inside the Unity editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -65,7 +65,7 @@ entries:
     description: Simple procedural mesh generation for the Unity game engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -86,7 +86,7 @@ entries:
     description: Create Ico Sphere Mesh Tool for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -106,7 +106,7 @@ entries:
     description: Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpicked colors.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -126,7 +126,7 @@ entries:
     description: (#TERRAIN)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -146,7 +146,7 @@ entries:
     description: Unity plugin from procedural dungeon generation.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -163,7 +163,7 @@ entries:
     description: L-System is a rewriting system used mainly to model the development of plants. L-Systems in Unity enables you to rapidly create plants in your Unity games.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -184,7 +184,7 @@ entries:
     description: New Terrain Tools and Brush Assets for the Unity Terrain system. ![Official](UnityResource16x16.png)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -203,7 +203,7 @@ entries:
     description: Advanced PSD importer for Unity3D. (#DEPRECATED)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     deprecated: true
     tags:
@@ -220,7 +220,7 @@ entries:
     description: Unity graph editor extension.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -239,7 +239,7 @@ entries:
     description: Automatic reorderable lists for Unity game engine components.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -257,7 +257,7 @@ entries:
     description: A collection of small reusable Unity3D property drawers.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -275,7 +275,7 @@ entries:
     description: Reflected Inspector is a system for Unity that works very much like Serialized Properties but works with non-Unity types and can serialize the values.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -293,7 +293,7 @@ entries:
     description: Enables you to inspect and edit object references, and easily embed such objects as subassets.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -311,7 +311,7 @@ entries:
     description: Unity editor tool to load colours and palettes directly from COLOURlovers.com.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -329,7 +329,7 @@ entries:
     description: Render Queue Unity Extension.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -349,7 +349,7 @@ entries:
     description: Unity Editor Timeline GUI skeleton.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -369,7 +369,7 @@ entries:
     description: Timeline Editor for Unity. (#ANIMATION)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -387,7 +387,7 @@ entries:
     description: Timelord is a demo for custom blending of Unity3D Timelines.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -407,7 +407,7 @@ entries:
     description: Experimental port of Animator conditions interface to Timeline events.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -427,7 +427,7 @@ entries:
     description: Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -445,7 +445,7 @@ entries:
     description: Shows file extension in 1 column project window.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -463,7 +463,7 @@ entries:
     description: A small extension that adds a menu item to add folders as symlinks in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -481,7 +481,7 @@ entries:
     description: Adobe Illustrator's pen tool style bezier editor on Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -499,7 +499,7 @@ entries:
     description: Simple 3D Tile Editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -520,7 +520,7 @@ entries:
     description: Unity Hex Tile Editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -540,7 +540,7 @@ entries:
     description: Unity3D in-game UI, which shows at runtime a Hierarchy and an Inspector like the built-in Editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -558,7 +558,7 @@ entries:
     description: Reactive Visual Scripting Behavior Tree Tool for Unity 2018.x+.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -577,7 +577,7 @@ entries:
     description: Texel density editor for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -598,7 +598,7 @@ entries:
     description: A browser editor window to view all Unity built in styles.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -616,7 +616,7 @@ entries:
     description: Unity plugin editor for easier manipulation of assets of certain types. (#ATTRIBUTES)
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -635,7 +635,7 @@ entries:
     description: View playmode on final devices. See [more](https://docs.unity3d.com/Manual/UnityRemote5.html).
     entry_type: tool
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -651,7 +651,7 @@ entries:
     description: Cheatsheet with some common problems when developing with Unity.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -665,7 +665,7 @@ entries:
     description: 'Brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code. (:moneybag: with'
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -682,7 +682,7 @@ entries:
     description: Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -698,7 +698,7 @@ entries:
     description: Trello board with good coding practices in Unity.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -712,7 +712,7 @@ entries:
     description: Open source runtime editor for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -730,7 +730,7 @@ entries:
     description: Charon Game Data Editor Plug-in for Unity3D. Charon is a software for managing game's data. It is used for creating data structure, editing data and accessing this data in the code.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -746,7 +746,7 @@ entries:
     description: Exposed UnityEditor WebView API.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -765,7 +765,7 @@ entries:
     description: Shows counters for mesh data.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -783,7 +783,7 @@ entries:
     description: 'Unity version: 2018.3.0f2 Icons what can load using EditorGUIUtility.IconContent.'
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -801,7 +801,7 @@ entries:
     description: MacOS-like Spotlight file search in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -819,7 +819,7 @@ entries:
     description: Unity editor extension to navigate between object selections.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
@@ -835,7 +835,7 @@ entries:
     description: 'Adds navigation menu items in Unity Editor: "Edit/Selection/Back", "Edit/Selection/Forward".'
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-05-01'
+    url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
