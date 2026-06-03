@@ -11,6 +11,22 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-03 12:40
+**Prompt:**
+> add https://www.katexagoraris.com/more-fx-help if not already present
+
+**Answered:** Not present. Added "Kate Xagoraris (More FX Help)" to §11 youtube-houdini chunk 02. Free Houdini FX learning hub, entry_type reference, tech houdini. Validation passed.
+
+---
+
+### 2026-06-03 12:34
+**Prompt:**
+> add https://movingimagearts.com/8-bit-to-half-float-copycat/
+
+**Answered:** Added "8-bit to Half Float CopyCat (Moving Image Arts)" to §05-vfx compositing-learning. Free Nuke CopyCat ML model + tutorial, entry_type tutorial, tech ai-generative. Validation passed.
+
+---
+
 ### 2026-06-03 11:44
 **Prompt:**
 > https://github.com/AcademySoftwareFoundation/xstudio / https://www.nukepedia.com/ / https://github.com/AcademySoftwareFoundation/openrv / https://github.com/SacTools/SAC-_SCRIPT_AUDITOR — add all these

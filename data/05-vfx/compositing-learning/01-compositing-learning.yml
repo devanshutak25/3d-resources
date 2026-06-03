@@ -158,6 +158,24 @@ entries:
       - Per-film
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: '8-bit to Half Float CopyCat (Moving Image Arts)'
+    url: https://movingimagearts.com/8-bit-to-half-float-copycat/
+    description: Free Nuke CopyCat ML model plus tutorial. Recovers clamped highlights and reduces 8-bit color banding. Downloadable .cat file.
+    license: Free
+    entry_type: tutorial
+    best_for: ML highlight recovery in Nuke
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - Nuke
+      - CopyCat
+    url_last_verified: '2026-06-03'
+    url_status: ok
   - name: Cinefex (archive)
     url: https://www.cinefex.com/
     description: Legacy VFX-making journal archives.

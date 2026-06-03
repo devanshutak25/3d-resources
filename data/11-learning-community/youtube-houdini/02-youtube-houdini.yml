@@ -171,3 +171,23 @@ entries:
         - houdini
       platform:
         - web
+  - name: Kate Xagoraris (More FX Help)
+    url: https://www.katexagoraris.com/more-fx-help
+    description: Free Houdini FX learning hub. Vellum, FLIP, pyro, ocean sims plus downloadable toolkits and junior-artist career advice.
+    license: Free
+    entry_type: reference
+    best_for: Houdini FX fundamentals
+    readme_tags:
+      - Houdini FX
+      - Toolkits
+    url_last_verified: '2026-06-03'
+    url_status: ok
+    tags:
+      workflow:
+        - fx
+      output:
+        - film-vfx
+      tech:
+        - houdini
+      platform:
+        - web
