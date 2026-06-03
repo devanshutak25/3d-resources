@@ -11,6 +11,17 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-03 20:30
+**Prompt:**
+> add
+> https://www.compositingacademy.com/
+> https://vfxplatform.com/
+> https://vfxcamdb.com/
+
+**Answered:** Added Compositing Academy → §05 compositing-learning (tutorial); VFX Camera Database → §10 matchmoving-tracking (reference); VFX Reference Platform → §10 pipeline-standards (reference). Validation passed.
+
+---
+
 ### 2026-06-03 12:40
 **Prompt:**
 > add https://www.katexagoraris.com/more-fx-help if not already present

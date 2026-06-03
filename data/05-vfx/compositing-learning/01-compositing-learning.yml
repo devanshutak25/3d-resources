@@ -176,6 +176,22 @@ entries:
       - CopyCat
     url_last_verified: '2026-06-03'
     url_status: ok
+  - name: Compositing Academy
+    url: https://www.compositingacademy.com/
+    description: Paid Nuke compositing courses and career training from working VFX compositors.
+    license: Paid
+    entry_type: tutorial
+    best_for: Nuke compositing courses
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+    readme_tags:
+      - Nuke
+      - Courses
+    url_last_verified: '2026-06-03'
+    url_status: ok
   - name: Cinefex (archive)
     url: https://www.cinefex.com/
     description: Legacy VFX-making journal archives.

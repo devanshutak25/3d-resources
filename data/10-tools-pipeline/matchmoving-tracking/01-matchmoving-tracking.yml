@@ -32,6 +32,22 @@ entries:
       - Keyer
       - Chroma Key
     deprecated: true
+  - name: VFX Camera Database
+    url: https://vfxcamdb.com/
+    description: Reference database of camera sensor sizes, formats, and specs for matchmoving and lens setup.
+    license: Free
+    entry_type: reference
+    best_for: Camera sensor specs
+    tags:
+      workflow:
+        - match-move
+      output:
+        - film-vfx
+    readme_tags:
+      - Camera Specs
+      - Reference
+    url_last_verified: '2026-06-03'
+    url_status: ok
   - name: F Spy Maya
     url: https://github.com/Nathanieljla/fSpy-Maya
     description: Unofficial fSpy Maya importer (one of several).

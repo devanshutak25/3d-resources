@@ -103,6 +103,16 @@ entries:
     tags:
       tech:
         - opensource-alt
+  - name: VFX Reference Platform
+    url: https://vfxplatform.com/
+    description: Annual spec of library versions (Python, Qt, OpenEXR, USD) that VFX apps build against for cross-tool compatibility.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Library Versions
+      - Industry Spec
+    url_last_verified: '2026-06-03'
+    url_status: ok
   - name: MDL
     url: https://github.com/NVIDIA/MDL-SDK
     description: Material Definition Language SDK (NVIDIA).
