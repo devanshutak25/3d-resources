@@ -11,6 +11,14 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-03 11:44
+**Prompt:**
+> https://github.com/AcademySoftwareFoundation/xstudio / https://www.nukepedia.com/ / https://github.com/AcademySoftwareFoundation/openrv / https://github.com/SacTools/SAC-_SCRIPT_AUDITOR — add all these
+
+**Answered:** Added OpenRV + xStudio to §12 viewers-file-utilities (review/playback), SAC Script Auditor to §12 vfx-compositing-software (Nuke tool, entry_type plugin). Nukepedia already listed (2x), skipped. Validation passed.
+
+---
+
 ### 2026-05-22
 **Prompt:**
 > add 3d coat, cozy blanker, retopology software; shotgrid and pm tools; defunct software section (XSI/Softimage); HDR/PTGUI/Debevec/photogrammetry tutorials; VCV Rack, FotoSketcher, laser scanning; full discipline taxonomy (pre-prod through R&D). Deep dive, use as many agents as needed.

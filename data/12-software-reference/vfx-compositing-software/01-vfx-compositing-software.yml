@@ -576,3 +576,26 @@ entries:
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
+  - name: SAC Script Auditor
+    url: https://github.com/SacTools/SAC-_SCRIPT_AUDITOR
+    description: Open-source Nuke tool that audits and cleans comp scripts, flagging issues and optimizing node graphs.
+    license: Open Source
+    entry_type: plugin
+    best_for: Nuke script cleanup, QC
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - node-based
+        - opensource-alt
+    readme_tags:
+      - Nuke Tool
+      - Script QC
+    url_last_verified: '2026-06-01'
+    url_status: ok

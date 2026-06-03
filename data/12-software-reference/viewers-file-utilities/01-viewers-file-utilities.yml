@@ -131,6 +131,51 @@ entries:
       - ASWF
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: OpenRV
+    url: https://github.com/AcademySoftwareFoundation/openrv
+    description: Open-source media review and playback player. Foundation of Autodesk RV, donated to ASWF.
+    license: Open Source
+    entry_type: software
+    best_for: Sequence review, dailies playback
+    tags:
+      workflow:
+        - compositing
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Review Player
+      - ASWF
+    url_last_verified: '2026-06-01'
+    url_status: ok
+  - name: xStudio
+    url: https://github.com/AcademySoftwareFoundation/xstudio
+    description: Open-source playback and review tool by DNEG. Notes, sessions, and pipeline integration for dailies.
+    license: Open Source
+    entry_type: software
+    best_for: Dailies review, annotation
+    tags:
+      workflow:
+        - compositing
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - linux
+        - win
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Review Player
+      - ASWF
+    url_last_verified: '2026-06-01'
+    url_status: ok
   - name: Connecter
     url: https://www.designconnected.com/connecter
     description: Free and visual creative assets management for 3d, AEC and design professionals.
