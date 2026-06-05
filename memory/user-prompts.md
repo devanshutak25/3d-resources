@@ -277,3 +277,11 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 ## 2026-06-02
 - **Prompt:** add https://www.getpaint.net/
   - Added Paint.NET to `12-software-reference/design-software` (free Windows raster editor, layers). Validation passed.
+
+---
+
+## 2026-06-05
+- **Prompt:** add https://cupnooble.itch.io/
+  - Already covered: both Sprout Lands packs (asset + UI) exist in 01-assets/game-assets. Asked user whether to leave, consolidate, or add profile.
+- **Prompt:** add as game dev assets, pixel art
+  - Added Cup Nooble creator page to 01-assets/game-assets (Pixel Art, Free). Validation passed.

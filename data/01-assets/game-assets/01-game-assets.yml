@@ -579,3 +579,16 @@ entries:
       - Free
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: Cup Nooble
+    url: https://cupnooble.itch.io/
+    description: Creator of the Sprout Lands pixel art packs, cozy farming style.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - games
+    readme_tags:
+      - Pixel Art
+      - Free
+    url_last_verified: '2026-06-05'
+    url_status: ok
