@@ -267,7 +267,7 @@ entries:
         - material-authoring
   - name: 'NeRF-Tex: Neural Reflectance Field Textures'
     url: https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/
-    description: Baatz et al., EGSR 2021 | [bibtex](./citations/nerf-tex.txt)
+    description: Baatz et al., EGSR 2021
     entry_type: reference
     license: Free
     url_last_verified: '2026-06-01'

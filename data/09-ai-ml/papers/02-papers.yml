@@ -94,7 +94,7 @@ entries:
     year: 2022
   - name: 'CLA-NeRF: Category-Level Articulated Neural Radiance Field'
     url: https://arxiv.org/abs/2202.00181
-    description: Tseng et al., ICRA 2022 | [bibtex](./citations/cla-nerf.txt)
+    description: Tseng et al., ICRA 2022
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -109,7 +109,7 @@ entries:
     year: 2022
   - name: 'Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction'
     url: https://arxiv.org/abs/2111.11215.pdf
-    description: Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO) | [bibtex](./citations/DirectVoxGO.txt) <!---sun2021direct-->
+    description: Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -122,7 +122,7 @@ entries:
     year: 2022
   - name: 'GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation'
     url: https://arxiv.org/abs/2204.05735
-    description: Chng et al., ECCV 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/garf.txt)
+    description: Chng et al., ECCV 2022
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -137,7 +137,7 @@ entries:
     year: 2022
   - name: 'KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination'
     url: https://arxiv.org/abs/2206.10885
-    description: Esposito et al., Arxiv 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/kiloneus.txt)
+    description: Esposito et al., Arxiv 2022
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -152,7 +152,7 @@ entries:
     year: 2022
   - name: 'Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields'
     url: https://arxiv.org/abs/2209.09050
-    description: Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF) | [bibtex](./citations/locnerf.txt)
+    description: Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF)
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper with code, not standalone software; consider reference
@@ -208,7 +208,7 @@ entries:
     year: 2022
   - name: 'RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering'
     url: https://arxiv.org/abs/2212.01120
-    description: Li et al., ICCAD 2022 | [bibtex](./citations/rt-nerf.txt)
+    description: Li et al., ICCAD 2022
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -223,7 +223,7 @@ entries:
     year: 2022
   - name: Streaming Radiance Fields for 3D Video Synthesis
     url: https://arxiv.org/abs/2210.14831
-    description: Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF) | [bibtex](./citations/StreamRF.txt)
+    description: Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -236,7 +236,7 @@ entries:
     year: 2022
   - name: Animatable Neural Radiance Fields from Monocular RGB Videos
     url: https://arxiv.org/abs/2106.13629
-    description: Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF) | [bibtex](citations/anim_nerf.txt)
+    description: Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF)
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper with code, not standalone software; consider reference
@@ -264,7 +264,7 @@ entries:
     year: 2021
   - name: 'Depth-supervised NeRF: Fewer Views and Faster Training for Free'
     url: https://arxiv.org/pdf/2107.02791.pdf
-    description: Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF) | [bibtex](./citations/dsnerf.txt)
+    description: Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF)
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper with code, not standalone software; consider reference
@@ -279,7 +279,7 @@ entries:
     year: 2021
   - name: 'FastNeRF: High-Fidelity Neural Rendering at 200FPS'
     url: https://arxiv.org/abs/2103.10380
-    description: Garbin et al., Arxiv 2021 | [bibtex](./citations/fastnerf.txt) <!---Garbin21arxiv_FastNeRF-->
+    description: Garbin et al., Arxiv 2021
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -309,7 +309,7 @@ entries:
     year: 2021
   - name: 'GNeRF: GAN-based Neural Radiance Field without Posed Camera'
     url: https://arxiv.org/abs/2103.15606
-    description: Meng et al., Arxiv 2021 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/gnerf.txt)
+    description: Meng et al., Arxiv 2021
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -324,7 +324,7 @@ entries:
     year: 2021
   - name: 'KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs'
     url: https://arxiv.org/abs/2103.13744
-    description: Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf) | [bibtex](./citations/kilonerf.txt) <!---reiser2021kilonerf-->
+    description: Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf)
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper with code, not standalone software; consider reference
@@ -354,7 +354,7 @@ entries:
     year: 2021
   - name: Mixture of Volumetric Primitives for Efficient Neural Rendering
     url: https://arxiv.org/abs/2103.01954
-    description: Lombardi et al., SIGGRAPH 2021 | [bibtex](./citations/mixture.txt)
+    description: Lombardi et al., SIGGRAPH 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -367,7 +367,7 @@ entries:
     year: 2021
   - name: 'NeRF-VAE: A Geometry Aware 3D Scene Generative Model'
     url: https://arxiv.org/pdf/2104.00587.pdf
-    description: Kosiorek et al., Arxiv 2021 | [bibtex](./citations/nerf-vae.txt)
+    description: Kosiorek et al., Arxiv 2021
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -382,7 +382,7 @@ entries:
     year: 2021
   - name: 'NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction'
     url: https://arxiv.org/abs/2106.10689
-    description: Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS) | [bibtex](./citations/neus.txt)
+    description: Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -423,7 +423,7 @@ entries:
     year: 2021
   - name: Volume Rendering of Neural Implicit Surfaces
     url: https://arxiv.org/abs/2106.12052
-    description: Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon) | [bibtex](./citations/volsdf.txt)
+    description: Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok

@@ -36,7 +36,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Audio: SFX & Music Libraries](#audio-sfx--music-libraries) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
 - [Fonts](#fonts) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
 - [Icons](#icons) <span class="toc-count">(24 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
-- [Game Assets](#game-assets) <span class="toc-count">(44 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Cross-listed from §7.</small>
+- [Game Assets](#game-assets) <span class="toc-count">(45 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Cross-listed from §7.</small>
 
 </details>
 
@@ -530,6 +530,7 @@ Free and paid game-ready asset sources. Cross-listed from §7.
 - [Asset Creation Toolset](https://gumroad.com/l/hPXIh). Asset Creation Toolset is many tools for game asset creation.
 - [Brackeys' Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle). Make your first game using this small collection of pixel-art characters, tiles, sounds and music.
 - [Craftpix](https://craftpix.net/freebies/) <span class="lic-pill lic-freemium">Freemium</span>. 2D game assets, free and paid.
+- [Cup Nooble](https://cupnooble.itch.io/). Creator of the Sprout Lands pixel art packs, cozy farming style.
 - [Cute Fantasy RPG - 16x16 top down pixel art asset pack](https://kenmi-art.itch.io/cute-fantasy-rpg). 16x16 assets for your top-down game.
 - [Free - Pixel Art Asset Pack - Topdown Tileset - 16x16 Sprites](https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites). 500 Sprites, 3 Heroes, 8 enemies, 50 Weapons
 - [Free Game Assets](https://www.freegameassets.com/). Curated free 2D/3D/audio assets.
@@ -994,7 +995,7 @@ Texture authoring, procedural materials, and baking tools.
 | [CloudCompare](https://www.danielgm.net/cc/) | A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a | Open Source | Open Source · Point Cloud | Point cloud and mesh processing |
 | [COLMAP](https://colmap.github.io/) | A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface. | Open Source | Photogrammetry · Open Source | Photogrammetry SfM/MVS reconstruction |
 | [KIRI Engine](https://www.kiriengine.com/) | Cross-platform mobile photogrammetry. | Freemium | Cross-platform · Mobile | Cross-platform mobile photogrammetry |
-| [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/) | Yang et al., ICCV 2021 \| [github](https://github.com/zju3dv/object_nerf) \| [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf--> |  | nerf · scene-editing |  |
+| [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/) | Yang et al., ICCV 2021 \| [github](https://github.com/zju3dv/object_nerf) |  | nerf · scene-editing |  |
 | [Meshroom (AliceVision)](https://alicevision.org/#meshroom) | Free, open-source photogrammetry. Node-based, GPU-accelerated. | Open Source | Open Source · Node-based | Open-source photogrammetry |
 | [MicMac](https://github.com/micmacIGN/micmac) | Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios. | Open Source |  |  |
 | [Open Scan Tools](https://openscantools.com/) | A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style. | Open Source | Open Source · Toolkit | Open-source scan toolkit |
@@ -1004,7 +1005,7 @@ Texture authoring, procedural materials, and baking tools.
 | [Quixel Megascans](https://quixel.com/megascans/library/) | World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects). | Free | Asset Library · Epic Games | Photogrammetry asset library |
 | [RealityCapture](https://www.capturingreality.com/) | Fast, high-quality photogrammetry (now Epic Games). PPI pricing. | Freemium | Epic Games · High-Quality | Production photogrammetry |
 | [Scaniverse (Niantic)](https://scaniverse.com/) | Free mobile scanning, Gaussian splat support. | Free | Free Mobile · Gaussian Splat | Mobile scan, Gaussian splat |
-| [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/) | Bao et al., CVPR 2023\| [github](https://github.com/zju3dv/SINE) \| [bibtex](./citations/sine.txt) |  | nerf · scene-editing |  |
+| [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/) | Bao et al., CVPR 2023\| [github](https://github.com/zju3dv/SINE) |  | nerf · scene-editing |  |
 
 
 <h3 id="mirror-retopo-uv-software" data-mirror="1" tabindex="-1">Retopology &amp; UV Software</h3>
@@ -1245,7 +1246,7 @@ Foundational rendering and shader theory references.
 - [Mitsuba](https://www.mitsuba-renderer.org/). A research-oriented retargetable rendering system, written in portable C++17 on top of the Enoki library.
 - [Multitexturing using a Blendmap](http://chinedufn.com/webgl-multitexture-blend-map-tutorial/). How to use a blendmap to multitexture a terrain.
 - [NEORT](https://neort.io/popular). Digital art platform for creative coders (Fragment Shader, JavaScript Canvas).
-- [NeRF-Tex: Neural Reflectance Field Textures](https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/). Baatz et al., EGSR 2021 | [bibtex](./citations/nerf-tex.txt)
+- [NeRF-Tex: Neural Reflectance Field Textures](https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/). Baatz et al., EGSR 2021
 - [Node To Python](https://github.com/BrendanParmer/NodeToPython). Convert Geometry, Shader, and Compositing nodes to legible Python scripts and add-ons. [](https://github.com/BrendanParmer/NodeToPython/blob/main/LICENSE)
 - [NodeToy](https://app.nodetoy.co/). The shader tool for the web. NodeToy provides creators a editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/@ThinMatrix). Beginners tutorial series about creating 3D games OpenG.
@@ -3288,17 +3289,17 @@ Notable open-source generative models.
 Research papers on ML for CG, generative 3D, neural rendering, and related topics. Each entry: title (the plain-English summary), year, and venue/links in the description.
 
 - [Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models](https://arxiv.org/abs/2312.13763). [<span aria-hidden="true">🌐</span> Project Page](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)
-- [Animatable Neural Radiance Fields from Monocular RGB Videos](https://arxiv.org/abs/2106.13629). Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF) | [bibtex](citations/anim_nerf.txt)
-- [BeyondPixels: A Review of the Evolution of Neural Radiance Fields](https://arxiv.org/abs/2306.03000). AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023 | [bibtex](citations/BeyondPixels.txt)
+- [Animatable Neural Radiance Fields from Monocular RGB Videos](https://arxiv.org/abs/2106.13629). Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF)
+- [BeyondPixels: A Review of the Evolution of Neural Radiance Fields](https://arxiv.org/abs/2306.03000). AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023
 - [CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations](https://arxiv.org/abs/2208.10555). 3DV 2022 | [[project](https://cvi2.uni.lu/cc3d-ops/)] |
-- [CLA-NeRF: Category-Level Articulated Neural Radiance Field](https://arxiv.org/abs/2202.00181). Tseng et al., ICRA 2022 | [bibtex](./citations/cla-nerf.txt)
+- [CLA-NeRF: Category-Level Articulated Neural Radiance Field](https://arxiv.org/abs/2202.00181). Tseng et al., ICRA 2022
 - [Consolidating Attention Features for Multi-view Image Editing](https://arxiv.org/abs/2402.14792). [<span aria-hidden="true">🌐</span> Project Page](https://qnerf-consolidation.github.io/qnerf-consolidation/)
-- [CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation](https://arxiv.org/abs/2303.04869). Moreau et al., ICCV 2023 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/crossfire.txt)
+- [CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation](https://arxiv.org/abs/2303.04869). Moreau et al., ICCV 2023
 - [Deep Generative Models on 3D Representations: A Survey](https://arxiv.org/pdf/2210.15663.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://github.com/justimyhxu/awesome-3D-generation/)
 - [DeepCAD: A Deep Generative Network for Computer-Aided Design Models](https://arxiv.org/abs/2105.09492). ICCV 2021 | [[project](http://www.cs.columbia.edu/cg/deepcad/)] [[code](https://github.com/ChrisWu1997/DeepCAD)] |
-- [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://arxiv.org/pdf/2107.02791.pdf). Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF) | [bibtex](./citations/dsnerf.txt)
+- [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://arxiv.org/pdf/2107.02791.pdf). Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF)
 - [DeRF: Decomposed Radiance Fields](https://arxiv.org/abs/2011.12490). Rebain et al. Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L222-L228) <!---Rebain20arxiv_derf-->
-- [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215.pdf). Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO) | [bibtex](./citations/DirectVoxGO.txt) <!---sun2021direct-->
+- [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215.pdf). Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO)
 - [DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images](https://arxiv.org/abs/2208.07227). [<span aria-hidden="true">💻</span> Code](https://github.com/vLAR-group/DM-NeRF)
 - [DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://arxiv.org/abs/2311.09217). [<span aria-hidden="true">🌐</span> Project Page](https://justimyhxu.github.io/projects/dmv3d/)
 - [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://arxiv.org/pdf/2212.14704.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://bluestyle97.github.io/dream3d/) | [<span aria-hidden="true">💻</span> Code][Coming soon.]
@@ -3309,41 +3310,41 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 - [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/abs/2305.12529). [<span aria-hidden="true">🌐</span> Project Page](https://dreamwaltz3d.github.io/) | [<span aria-hidden="true">💻</span> Code](https://github.com/IDEA-Research/DreamWaltz)
 - [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](http://arxiv.org/abs/2401.01173). [<span aria-hidden="true">🌐</span> Project Page](https://menyifang.github.io/projects/En3D/index.html) | [<span aria-hidden="true">💻</span> Code](https://github.com/menyifang/En3D)
 - [EndoGaussian: Real-time Gaussian Splatting for Dynamic Endoscopic Scene Reconstruction](https://arxiv.org/abs/2401.12561). [<span aria-hidden="true">🌐</span> Project Page](https://yifliu3.github.io/EndoGaussian/) | [<span aria-hidden="true">💻</span> Code](https://github.com/yifliu3/EndoGaussian)
-- [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380). Garbin et al., Arxiv 2021 | [bibtex](./citations/fastnerf.txt) <!---Garbin21arxiv_FastNeRF-->
+- [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380). Garbin et al., Arxiv 2021
 - [From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach](https://arxiv.org/abs/2412.11892). AAAI 2025 | [[project](https://manycore-research.github.io/CAD2Program/)] |
 - [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207). [<span aria-hidden="true">🌐</span> Project Page](https://gala3d.github.io) | [<span aria-hidden="true">💻</span> Code](https://github.com/VDIGPKU/GALA3D)
-- [GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://arxiv.org/abs/2204.05735). Chng et al., ECCV 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/garf.txt)
+- [GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://arxiv.org/abs/2204.05735). Chng et al., ECCV 2022
 - [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](http://arxiv.org/abs/2312.02069). [<span aria-hidden="true">🌐</span> Project Page](https://shenhanqian.github.io/gaussian-avatars)
 - [GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting](https://arxiv.org/abs/2402.10259). [<span aria-hidden="true">🌐</span> Project Page](https://gaussianobject.github.io) | [<span aria-hidden="true">💻</span> Code](https://github.com/GaussianObject/GaussianObject)
 - [Gemini Robotics 1.5](https://arxiv.org/abs/2510.03342). Embodied reasoning, thinking, and motion transfer.
 - [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100). Niemeyer et al., CVPR 2021, [bibtex](./NeRF-and-Beyond.bib#L175-L181) <!---Niemeyer20arxiv_GIRAFFE-->
-- [GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://arxiv.org/abs/2103.15606). Meng et al., Arxiv 2021 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/gnerf.txt)
+- [GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://arxiv.org/abs/2103.15606). Meng et al., Arxiv 2021
 - [GO-NeRF: Generating Objects in Neural Radiance Fields for Virtual Reality Content Creation](https://arxiv.org/abs/2401.05750). [<span aria-hidden="true">🌐</span> Project Page](https://daipengwa.github.io/GO-NeRF/)
 - [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://arxiv.org/abs/2007.02442). Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf) | [bibtex](./NeRF-and-Beyond.bib#L237-L243) <!---Schwarz20neurips_graf-->
 - [GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/abs/2010.04595). Trevithick and Yang, Arxiv 2020 | [github](https://github.com/alextrevithick/GRF) | [bibtex](./NeRF-and-Beyond.bib#L291-L297) <!---Trevithick20arxiv_GRF-->
 - [IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis](https://arxiv.org/abs/2205.15517). [<span aria-hidden="true">🌐</span> Project Page](https://mrtornado24.github.io/IDE-3D/) | [<span aria-hidden="true">💻</span> Code](https://github.com/MrTornado24/IDE-3D)
 - [Image Sculpting: Precise Object Editing with 3D Geometry Control](https://arxiv.org/abs/2401.01702). [<span aria-hidden="true">🌐</span> Project Page](https://image-sculpting.github.io/) | [<span aria-hidden="true">💻</span> Code](https://github.com/vision-x-nyu/image-sculpting)
 - [Instant3D: Instant Text-to-3D Generation](https://arxiv.org/pdf/2311.08403.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://ming1993li.github.io/Instant3DProj/) | [<span aria-hidden="true">💻</span> Code](https://github.com/ming1993li/Instant3DCodes)
-- [KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](https://arxiv.org/abs/2103.13744). Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf) | [bibtex](./citations/kilonerf.txt) <!---reiser2021kilonerf-->
-- [KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination](https://arxiv.org/abs/2206.10885). Esposito et al., Arxiv 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/kiloneus.txt)
+- [KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](https://arxiv.org/abs/2103.13744). Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf)
+- [KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination](https://arxiv.org/abs/2206.10885). Esposito et al., Arxiv 2022
 - [Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://arxiv.org/abs/2012.02189). Tancik et al., CVPR 2021 | [github](https://github.com/tancik/learnit) | [bibtex](./NeRF-and-Beyond.bib#L268-L274) <!---Tancik20arxiv_meta-->
 - [Learning the 3D Fauna of the Web](https://arxiv.org/abs/2401.02400). [<span aria-hidden="true">🌐</span> Project Page](https://kyleleey.github.io/3DFauna/) | [<span aria-hidden="true">💻</span> Code]()
-- [Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving](https://arxiv.org/pdf/2403.05907v1.pdf). Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF) | [bibtex](./citations/lightning-nerf.txt)
-- [Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields](https://arxiv.org/abs/2209.09050). Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF) | [bibtex](./citations/locnerf.txt)
-- [Local 3D Editing via 3D Distillation of CLIP Knowledge](https://arxiv.org/abs/2306.12570). Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io) | [bibtex](./citations/lenerf.txt)
+- [Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving](https://arxiv.org/pdf/2403.05907v1.pdf). Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF)
+- [Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields](https://arxiv.org/abs/2209.09050). Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF)
+- [Local 3D Editing via 3D Distillation of CLIP Knowledge](https://arxiv.org/abs/2306.12570). Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io)
 - [M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts](https://arxiv.org/abs/2312.10763). [<span aria-hidden="true">🌐</span> Project Page](https://m3dbench.github.io/) | [<span aria-hidden="true">💻</span> Code](https://github.com/OpenM3D/M3DBench)
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/pdf/2211.10440.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://research.nvidia.com/labs/dir/magic3d) | [<span aria-hidden="true">💻</span> Code][Coming soon.]
 - [Make-A-Character: High Quality Text-to-3D Character Generation within Minutes](https://arxiv.org/pdf/2312.15430.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://human3daigc.github.io/MACH/) | [<span aria-hidden="true">💻</span> Code](https://github.com/Human3DAIGC/Make-A-Character)
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/pdf/2303.14184.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://make-it-3d.github.io) | [<span aria-hidden="true">💻</span> Code](https://github.com/junshutang/Make-It-3D)
 - [MinD-3D: Reconstruct High-quality 3D objects in Human Brain](https://arxiv.org/abs/2312.07485). [<span aria-hidden="true">🌐</span> Project Page](https://jianxgao.github.io/MinD-3D/) | [<span aria-hidden="true">💻</span> Code](https://github.com/JianxGao/MinD-3D)
-- [Mixture of Volumetric Primitives for Efficient Neural Rendering](https://arxiv.org/abs/2103.01954). Lombardi et al., SIGGRAPH 2021 | [bibtex](./citations/mixture.txt)
-- [NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes](https://arxiv.org/abs/2308.12967). Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360) | [bibtex](./citations/SurfelNeRF.txt)
-- [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://arxiv.org/pdf/2404.01300). Irshad et al., ECCV 2024 | [bibtex](./citations/nerf-mae.txt)
-- [NeRF-VAE: A Geometry Aware 3D Scene Generative Model](https://arxiv.org/pdf/2104.00587.pdf). Kosiorek et al., Arxiv 2021 | [bibtex](./citations/nerf-vae.txt)
+- [Mixture of Volumetric Primitives for Efficient Neural Rendering](https://arxiv.org/abs/2103.01954). Lombardi et al., SIGGRAPH 2021
+- [NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes](https://arxiv.org/abs/2308.12967). Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360)
+- [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://arxiv.org/pdf/2404.01300). Irshad et al., ECCV 2024
+- [NeRF-VAE: A Geometry Aware 3D Scene Generative Model](https://arxiv.org/pdf/2104.00587.pdf). Kosiorek et al., Arxiv 2021
 - [NeRF: Neural Radiance Field in 3D Vision, Introduction and Review](https://arxiv.org/abs/2210.00379). Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li
 - [NeRF++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/abs/2010.07492). Zhang et al., Arxiv 2020 | [github](https://github.com/Kai-46/nerfplusplus) | [bibtex](./NeRF-and-Beyond.bib#L345-L351) <!---Zhang20arxiv_nerf++-->
 - [Neural Volume Rendering: NeRF](https://arxiv.org/abs/2101.05204). Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/) | [github](https://raw.githubusercontent.com/yenchenlin/awesome-NeRF/main/NeRF-and-Beyond.bib) |
-- [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689). Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS) | [bibtex](./citations/neus.txt)
+- [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689). Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS)
 - [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://arxiv.org/pdf/2311.07885.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://sudo-ai-3d.github.io/One2345plus_page/) | [<span aria-hidden="true">💻</span> Code](https://github.com/SUDO-AI-3D/One2345plus)
 - [ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds](https://arxiv.org/abs/2003.12181). ECCV 2020 | [[project](https://hippogriff.github.io/parsenet/)] [[code](https://github.com/Hippogriff/parsenet-codebase)] |
 - [PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds](https://arxiv.org/abs/2103.02766). ICLR 2021 | [[code](https://github.com/YujiaLiu76/PC2WF)] |
@@ -3351,20 +3352,20 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 - [PlankAssembly: 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs](https://arxiv.org/abs/2308.05744). ICCV 2023 | [[project](https://manycore-research.github.io/PlankAssembly/)] [[code](https://github.com/manycore-research/PlankAssembly/)] |
 - [Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders](https://arxiv.org/abs/2112.09329). CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)] |
 - [PolyGen: An Autoregressive Generative Model of 3D Meshes](https://arxiv.org/abs/2002.10880). ICML 2020 | [[code](https://github.com/deepmind/deepmind-research/blob/master/polygen/)] |
-- [PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm](https://arxiv.org/abs/2310.08586). Zhu et al., Arxiv 2023 | [github](https://github.com/OpenGVLab/PonderV2) | [bibtex](./citations/ponderv2.txt)
+- [PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm](https://arxiv.org/abs/2310.08586). Zhu et al., Arxiv 2023 | [github](https://github.com/OpenGVLab/PonderV2)
 - [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/pdf/2310.11784.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://cxh0519.github.io/projects/Progressive3D/) | [<span aria-hidden="true">💻</span> Code](https://github.com/cxh0519/Progressive3D)
 - [PSAvatar: A Point-based Shape Model for Real-Time Head Avatar Animation with 3D Gaussian Splatting](https://arxiv.org/abs/2401.12900). [<span aria-hidden="true">💻</span> Code](https://github.com/pcl3dv/PSAvatar)
 - [PVDeconv: Point-voxel deconvolution for autoencoding cad construction in 3D](https://arxiv.org/abs/2101.04493). ICIP 2020 | [[project](https://cvi2.uni.lu/cc3d-dataset/)] |
 - [Reconstructing Editable Prismatic CAD from Rounded Voxel Models](https://arxiv.org/abs/2209.01161). SIGGRAPH Asia 2022 | |
 - [RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D](https://arxiv.org/abs/2311.16918). [<span aria-hidden="true">🌐</span> Project Page](https://aigc3d.github.io/richdreamer/) | [<span aria-hidden="true">💻</span> Code](https://github.com/modelscope/richdreamer)
 - [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](https://arxiv.org/abs/2402.03723). [<span aria-hidden="true">🌐</span> Project Page](http://shahrukhathar.github.io/2024/02/05/Rig3DGS.html)
-- [RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering](https://arxiv.org/abs/2212.01120). Li et al., ICCAD 2022 | [bibtex](./citations/rt-nerf.txt)
+- [RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering](https://arxiv.org/abs/2212.01120). Li et al., ICCAD 2022
 - [SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance](https://arxiv.org/pdf/2312.08889.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://seeavatar3d.github.io/)
 - [SIGNeRF: Scene Integrated Generation for Neural Radiance Fields](https://arxiv.org/abs/2401.01647). [<span aria-hidden="true">🌐</span> Project Page](https://signerf.jdihlmann.com/) | [<span aria-hidden="true">💻</span> Code](https://github.com/cgtuebingen/SIGNeRF)
-- [Streaming Radiance Fields for 3D Video Synthesis](https://arxiv.org/abs/2210.14831). Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF) | [bibtex](./citations/StreamRF.txt)
+- [Streaming Radiance Fields for 3D Video Synthesis](https://arxiv.org/abs/2210.14831). Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF)
 - [Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting](https://arxiv.org/abs/2401.01339). [<span aria-hidden="true">🌐</span> Project Page](https://zju3dv.github.io/street_gaussians/) | [<span aria-hidden="true">💻</span> Code](https://github.com/zju3dv/street_gaussians)
 - [Supervised Fitting of Geometric Primitives to 3D Point Clouds](https://arxiv.org/abs/1811.08988). CVPR 2019 | [[code](https://github.com/lingxiaoli94/SPFN)] |
-- [SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes](https://arxiv.org/abs/2304.08971). Gao et al., CVPR 2023 | [github](https://gymat.github.io/SurfelNeRF-web/) | [bibtex](./citations/SurfelNeRF.txt)
+- [SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes](https://arxiv.org/abs/2304.08971). Gao et al., CVPR 2023 | [github](https://gymat.github.io/SurfelNeRF-web/)
 - [Taming Mode Collapse in Score Distillation for Text-to-3D Generation](https://arxiv.org/abs/2401.00909). [<span aria-hidden="true">🌐</span> Project Page](https://vita-group.github.io/3D-Mode-Collapse/) | [<span aria-hidden="true">💻</span> Code](https://github.com/VITA-Group/3D-Mode-Collapse)
 - [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280). [<span aria-hidden="true">🌐</span> Project Page](https://make-a-video3d.github.io)
 - [Text2CAD: Text to 3D CAD Generation via Technical Drawings](https://arxiv.org/abs/2411.06206). NeurIPS 2024 | [[project](https://sadilkhan.github.io/text2cad-project/)] |
@@ -3373,9 +3374,9 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 - [TOSS:High-quality Text-guided Novel View Synthesis from a Single Image](https://arxiv.org/abs/2310.10644). [<span aria-hidden="true">🌐</span> Project Page](https://toss3d.github.io/)
 - [Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers](https://arxiv.org/abs/2312.09147). [<span aria-hidden="true">🌐</span> Project Page](https://zouzx.github.io/TriplaneGaussian/)
 - [ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields](https://arxiv.org/abs/2402.00864v1). [<span aria-hidden="true">💻</span> Code](https://github.com/Dongjiahua/VICA-NeRF)
-- [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052). Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon) | [bibtex](./citations/volsdf.txt)
+- [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052). Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon)
 - [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://arxiv.org/pdf/2310.15008.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://www.xxlong.site/Wonder3D/) | [<span aria-hidden="true">💻</span> Code](https://github.com/xxlong0/Wonder3D)
-- [X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360° Insufficient RGB-D Views](https://arxiv.org/abs/2210.05135). Zhu et al., WACV 2023 | [github](https://github.com/HaoyiZhu/XNeRF) | [bibtex](./citations/x-nerf.txt)
+- [X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360° Insufficient RGB-D Views](https://arxiv.org/abs/2210.05135). Zhu et al., WACV 2023 | [github](https://github.com/HaoyiZhu/XNeRF)
 - [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://arxiv.org/abs/2310.15110). [<span aria-hidden="true">🌐</span> Project Page](https://zero123.cs.columbia.edu/) | [<span aria-hidden="true">💻</span> Code](https://github.com/SUDO-AI-3D/zero123plus) | [<span aria-hidden="true">🤗</span> Hugging Face](https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space)
 
 
@@ -3566,34 +3567,34 @@ Neural and splatting reconstruction.
 - [3DGS Introduction](https://huggingface.co/blog/gaussian-splatting). HuggingFace guide
 - [3DGS.cpp](https://github.com/shg8/3DGS.cpp). Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS.
 - [4D Gaussian Splatting](https://github.com/hustvl/4DGaussians). Dynamic scenes (CVPR 2024).
-- [A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis](https://xingangpan.github.io/projects/ShadeGAN.html). Pan et al., NeurIPS 2021 | [github](https://github.com/XingangPan/ShadeGAN) | [bibtex](./citations/shadegan.txt)
+- [A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis](https://xingangpan.github.io/projects/ShadeGAN.html). Pan et al., NeurIPS 2021 | [github](https://github.com/XingangPan/ShadeGAN)
 - [Brush](https://github.com/ArthurBrussee/brush). 3D reconstruction for all.
-- [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/). Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF) | [bibtex](./citations/bundlesdf.txt)
-- [Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion](https://www.robots.ox.ac.uk/~vgg/research/contrastive-lift/). Bhalgat et al., NeurIPS 2023 (**Spotlight**) | [bibtex](./citations/contrastive-lift.txt)
-- [DyLiN: Making Light Field Networks Dynamic](https://dylin2023.github.io/). Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN) | [bibtext](./citations/dylin.txt) <!---yu2023dylin-->
-- [DynIBaR: Neural Dynamic Image-Based Rendering](https://dynibar.github.io/). Li et al., CVPR 2023 | [bibtex](./citations/DynIBaR.txt)
+- [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/). Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF)
+- [Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion](https://www.robots.ox.ac.uk/~vgg/research/contrastive-lift/). Bhalgat et al., NeurIPS 2023 (**Spotlight**)
+- [DyLiN: Making Light Field Networks Dynamic](https://dylin2023.github.io/). Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN)
+- [DynIBaR: Neural Dynamic Image-Based Rendering](https://dynibar.github.io/). Li et al., CVPR 2023
 - [Gaussian Head Avatars: A Summary](https://towardsdatascience.com/gaussian-head-avatars-a-summary-2bd17bd48500). Gaussian Head Avatars: A Summary.
-- [Generative Occupancy Fields for 3D Surface-Aware Image Synthesis](https://sheldontsui.github.io/projects/GOF). Xu et al., NeurIPS 2021 | [github](https://github.com/SheldonTsui/GOF_NeurIPS2021) | [bibtex](./citations/gof.txt)
-- [IBRNet: Learning Multi-View Image-Based Rendering](https://ibrnet.github.io/static/paper.pdf). Wang et al., CVPR 2021 | [github](https://github.com/googleinterns/IBRNet) | [bibtex](./citations/ibr.txt)
-- [Learning Neural Transmittance for Efficient Rendering of Reflectance Fields](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html). Mohammad Shafiei et al., BMVC 2021 | [bibtex](./citations/NeuralTransmittance.txt)
+- [Generative Occupancy Fields for 3D Surface-Aware Image Synthesis](https://sheldontsui.github.io/projects/GOF). Xu et al., NeurIPS 2021 | [github](https://github.com/SheldonTsui/GOF_NeurIPS2021)
+- [IBRNet: Learning Multi-View Image-Based Rendering](https://ibrnet.github.io/static/paper.pdf). Wang et al., CVPR 2021 | [github](https://github.com/googleinterns/IBRNet)
+- [Learning Neural Transmittance for Efficient Rendering of Reflectance Fields](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html). Mohammad Shafiei et al., BMVC 2021
 - [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio). Native desktop app for training, inspecting, editing, and exporting 3D Gaussian Splatting scenes. Plugin extensible.
 - [Mega Sa M](https://github.com/mega-sam/mega-sam). Structure and motion from casual video.
 - [msplat](https://github.com/pointrix-project/msplat). A modular differential gaussian rasterization library.
-- [Neural 3D Video Synthesis from Multi-view Video](https://neural-3d-video.github.io/). Li et al., CVPR 2022 | [bibtex](./citations/3d-video.txt)
-- [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://zju3dv.github.io/neuralbody/). Peng et al., CVPR 2021 | [github](https://github.com/zju3dv/neuralbody) | [bibtex](citations/neuralbody.txt) <!---Peng20arxiv_neuralbody-->
-- [Neural Rays for Occlusion-aware Image-based Rendering](https://liuyuan-pal.github.io/NeuRay/). Liu et al., Arxiv 2021 | [bibtex](./citations/neuray.txt)
-- [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/). Yu et al., Arxiv 2021 | [github](https://github.com/sxyu/volrend) | [bibtex](./citations/plenoctrees.txt) <!---yu2021plenoctrees-->
+- [Neural 3D Video Synthesis from Multi-view Video](https://neural-3d-video.github.io/). Li et al., CVPR 2022
+- [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://zju3dv.github.io/neuralbody/). Peng et al., CVPR 2021 | [github](https://github.com/zju3dv/neuralbody)
+- [Neural Rays for Occlusion-aware Image-based Rendering](https://liuyuan-pal.github.io/NeuRay/). Liu et al., Arxiv 2021
+- [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/). Yu et al., Arxiv 2021 | [github](https://github.com/sxyu/volrend)
 - [Pointrix](https://github.com/pointrix-project/pointrix). Differentiable point-based rendering.
-- [Ponder: Point Cloud Pre-training via Neural Rendering](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Ponder_Point_Cloud_Pre-training_via_Neural_Rendering_ICCV_2023_paper.html). Huang et al., ICCV 2023 | [bibtex](./citations/ponder.txt)
-- [PVA: Pixel-aligned Volumetric Avatars](https://volumetric-avatars.github.io/). Raj et al., CVPR 2021 | [bibtex](./citations/pva.txt)
+- [Ponder: Point Cloud Pre-training via Neural Rendering](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Ponder_Point_Cloud_Pre-training_via_Neural_Rendering_ICCV_2023_paper.html). Huang et al., ICCV 2023
+- [PVA: Pixel-aligned Volumetric Avatars](https://volumetric-avatars.github.io/). Raj et al., CVPR 2021
 - [PyTorch Implementation](https://myasincifci.github.io/). Curated implementation of Vanilla 3DGS in PyTorch
-- [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://3d-avatar-diffusion.microsoft.com/). Wang et al., CVPR 2023 | [github](https://3d-avatar-diffusion.microsoft.com/) | [bibtex](./citations/rodin.txt)
+- [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://3d-avatar-diffusion.microsoft.com/). Wang et al., CVPR 2023 | [github](https://3d-avatar-diffusion.microsoft.com/)
 - [spaTV](https://github.com/antimatter15/splaTV). WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo [here](http://antimatter15.com/splaTV/).
 - [SpectacularAI](https://github.com/SpectacularAI/point-cloud-tools). Conversion scripts for different 3DGS conventions.
 - [splatviz](https://github.com/Florian-Barthel/splatviz). Viewer that allows you to edit the rendering code during runtime or to display multiple scenes at once.
 - [Taichi 3D GS](https://github.com/wanmeihuali/taichi_3d_gaussian_splatting). Taichi-based implementation (Apache-2.0).
-- [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/). Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) | [bibtex](./citations/TiNeuVox.txt)
-- [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/). Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes) | [bibtex](citations/UV-Volumes.txt) <!---Chen22arxiv_uvvolumes-->
+- [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/). Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox)
+- [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/). Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes)
 - [vkgs](https://github.com/jaesung-cs/vkgs). Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics.
 - [Warp 3DGS](https://github.com/guoriyue/3dgs-warp-scratch). Warp/Python-based implementation (AGPL-3.0).
 
@@ -3615,7 +3616,7 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 | [HDR Light Studio](https://www.lightmap.co.uk/) | Interactive HDRI editing and relighting tool for 3D. Bridges to Maya, 3ds Max, Houdini, Cinema 4D, Modo, Blender. |  | Paid | HDRI Editor · DCC Bridges | HDRI relighting in 3D |
 | [Hugin](https://hugin.sourceforge.io/) | Free OSS panorama stitcher built on Panorama Tools. |  | Open Source | Open Source · Free Stitcher | Free panorama stitching |
 | [KIRI Engine](https://www.kiriengine.com/) | Cross-platform mobile photogrammetry.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Freemium | Cross-platform · Mobile | Cross-platform mobile photogrammetry |
-| [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/) | Yang et al., ICCV 2021 \| [github](https://github.com/zju3dv/object_nerf) \| [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf--><br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  |  | nerf · scene-editing |  |
+| [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/) | Yang et al., ICCV 2021 \| [github](https://github.com/zju3dv/object_nerf)<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  |  | nerf · scene-editing |  |
 | [Leica Cyclone](https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone) | Point cloud registration and processing for Leica scanners. |  | Paid | Leica · Point Cloud | Leica scan pipeline |
 | [Luminance HDR](https://qtpfsgui.sourceforge.net/) | Cross-platform OSS HDR merge and tonemap. |  | Open Source | Open Source · Tonemap | Open-source HDR merge/tonemap |
 | [Meshroom (AliceVision)](https://alicevision.org/#meshroom) | Free, open-source photogrammetry. Node-based, GPU-accelerated.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Open Source | Open Source · Node-based | Open-source photogrammetry |
@@ -3629,7 +3630,7 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 | [Quixel Megascans](https://quixel.com/megascans/library/) | World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects).<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Free | Asset Library · Epic Games | Photogrammetry asset library |
 | [RealityCapture](https://www.capturingreality.com/) | Fast, high-quality photogrammetry (now Epic Games). PPI pricing.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Freemium | Epic Games · High-Quality | Production photogrammetry |
 | [Scaniverse (Niantic)](https://scaniverse.com/) | Free mobile scanning, Gaussian splat support.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Free | Free Mobile · Gaussian Splat | Mobile scan, Gaussian splat |
-| [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/) | Bao et al., CVPR 2023\| [github](https://github.com/zju3dv/SINE) \| [bibtex](./citations/sine.txt)<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  |  | nerf · scene-editing |  |
+| [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/) | Bao et al., CVPR 2023\| [github](https://github.com/zju3dv/SINE)<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  |  | nerf · scene-editing |  |
 | [Trimble RealWorks](https://geospatial.trimble.com/products/software/trimble-realworks) | Survey-grade point cloud registration and modeling. |  | Paid | Trimble · Survey | Survey-grade scan processing |
 
 **Related:**
@@ -3637,79 +3638,79 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 - [3D Gaussian Splatting (joeyan reimpl)](https://github.com/joeyan/gaussian_splatting). Python/CUDA | MIT |
 - [3D Gaussian Splatting (WangFeng18 reimpl)](https://github.com/WangFeng18/3d-gaussian-splatting). Python/CUDA | MIT |
 - [3D in Geospatial: NeRFs, Gaussian Splatting, and Spatial Computing](https://ckoziol.com/blog/2024/radiance_methods/). 3D in Geospatial: NeRFs, Gaussian Splatting, and Spatial Computing.
-- [3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/). Li et al., CoRL 2021 Oral | [bibtex](./citations/nerf-dy.txt)
+- [3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/). Li et al., CoRL 2021 Oral
 - [4DViews](https://www.4dviews.com/) <span class="lic-pill lic-paid">Paid</span>. Volumetric capture stages and HOLOSYS rigs.
-- [A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/). Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf) | [bibtex](./citations/hypernerf.txt)
-- [AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training](https://yifanjiang19.github.io/alignerf). Jiang et al., CVPR 2023 | [bibtex](./citations/AligNeRF.txt)
-- [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://zju3dv.github.io/animatable_nerf/). Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf) | [bibtex](citations/animatable_nerf.txt) <!---Peng21arxiv_animatable_nerf-->
+- [A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/). Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf)
+- [AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training](https://yifanjiang19.github.io/alignerf). Jiang et al., CVPR 2023
+- [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://zju3dv.github.io/animatable_nerf/). Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf)
 - [AutoInt: Automatic Integration for Fast Neural Volume Rendering](http://www.computationalimaging.org/publications/automatic-integration/). Lindell et al., CVPR 2021 | [github](https://github.com/computational-imaging/automatic-integration) | [bibtex](./NeRF-and-Beyond.bib#L127-L133) <!---Lindell20arxiv_AutoInt-->
 - [Awesome-3DGS Paper List](https://mrnerf.github.io/awesome-3D-gaussian-splatting/). [**Contribute**](CONTRIBUTING.md) | [**MrNeRF**](https://www.mrnerf.com)
-- [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://waymo.com/research/block-nerf/). Tancik et al., Arxiv 2022 | [bibtex](./citations/Block-NeRF.txt)
+- [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://waymo.com/research/block-nerf/). Tancik et al., Arxiv 2022
 - [Book: High Dynamic Range Imaging (Reinhard et al.)](https://shop.elsevier.com/books/high-dynamic-range-imaging/reinhard/978-0-12-374914-7) <span class="lic-pill lic-paid">Paid</span>. Reinhard, Heidrich, Debevec, Pattanaik, Ward, Myszkowski. The reference text on HDR imaging.
-- [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/). Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF) | [bibtex](./citations/clipnerf.txt)
-- [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://sites.google.com/view/wbjang/home/codenerf). Jang et al., ICCV 2021 | [bibtex](./citations/CodeNeRF.txt)
+- [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/). Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF)
+- [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://sites.google.com/view/wbjang/home/codenerf). Jang et al., ICCV 2021
 - [Color-NeRF](https://liquidammonia.github.io/color-nerf/assets/paper.pdf). [<span aria-hidden="true">🌐</span> Project Page](https://liquidammonia.github.io/color-nerf/)
 - [Compressing Gaussian Splats](https://blog.playcanvas.com/compressing-gaussian-splats/). Compressing Gaussian Splats.
 - [CyArk](https://www.cyark.org/). Heritage site laser scanning archive. Free models for cultural sites worldwide.
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html). Pumarola et al., CVPR 2021 | [github](https://github.com/albertpumarola/D-NeRF) | [bibtex](./NeRF-and-Beyond.bib#L214-L220) <!---Pumarola20arxiv_D_NeRF-->
 - [Deformable Neural Radiance Fields](https://nerfies.github.io/). Park et al., Arxiv 2020 | [github](https://github.com/google/nerfies) | [bibtex](./NeRF-and-Beyond.bib#L206-L212) <!---Park20arxiv_nerfies-->
-- [DFNet: Enhance Absolute Pose Regression with Direct Feature Matching](https://dfnet.active.vision/). Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/dfnet.txt)
+- [DFNet: Enhance Absolute Pose Regression with Direct Feature Matching](https://dfnet.active.vision/). Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet)
 - [Direct Gaussian Style Optimization (DGSO): Stylizing 3D Gaussian Splats](https://github.com/An-u-rag/stylized-gaussian-splatting). Applying style transfer during gaussian optimization to produce stylized gaussian splats of a scene.
-- [DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks](https://depthoraclenerf.github.io/). Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF) | [bibtex](./citations/donerf.txt) <!---neff2021donerf-->
+- [DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks](https://depthoraclenerf.github.io/). Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF)
 - [Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://gafniguy.github.io/4D-Facial-Avatars/). Gafni et al., CVPR 2021 | [github](https://github.com/gafniguy/4D-Facial-Avatars) | [bibtex](./NeRF-and-Beyond.bib#L87-L93) <!---Gafni20arxiv_DNRF-->
-- [Editable Free-viewpoint Video Using a Layered Neural Representation](https://jiakai-zhang.github.io/st-nerf/). Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) | [bibtex](./citations/st-nerf.txt)
-- [Editing Conditional Radiance Fields](http://editnerf.csail.mit.edu/). Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf) | [bibtex](./citations/editnerf.txt)
+- [Editable Free-viewpoint Video Using a Layered Neural Representation](https://jiakai-zhang.github.io/st-nerf/). Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf)
+- [Editing Conditional Radiance Fields](http://editnerf.csail.mit.edu/). Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf)
 - [Eisko](https://www.eisko.com/) <span class="lic-pill lic-paid">Paid</span>. Digital human scanning and asset service.
-- [ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/). Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF) | [bibtex](./citations/enerf.txt)
-- [FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling](https://fig-nerf.github.io/). Xie et al., Arxiv 2021 | [bibtex](./citations/fig-nerf.txt)
+- [ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/). Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF)
+- [FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling](https://fig-nerf.github.io/). Xie et al., Arxiv 2021
 - [Gaussian Splats Town Hall - Part 2](https://www.youtube.com/@pixelreconstruct). Gaussian Splats Town Hall - Part 2.
 - [Gaussian Splatting 3D](https://github.com/heheyas/gaussian_splatting_3d). Python/CUDA | |
 - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/). Gaussian Splatting is pretty cool.
 - [Gaussian Splatting Lightning](https://github.com/yzslab/gaussian-splatting-lightning). A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
-- [Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/). Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF) | [bibtex](./citations/Ha-NeRF.txt) <!---chen2021hallucinated-->
-- [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://grail.cs.washington.edu/projects/humannerf/). Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf) | [bibtex](./citations/humannerf.txt)
-- [In-Place Scene Labelling and Understanding with Implicit Scene Representation](https://shuaifengzhi.com/Semantic-NeRF/). Zhi et al., Arxiv 2021 | [bibtex](./citations/semantic-nerf.txt)
+- [Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/). Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF)
+- [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://grail.cs.washington.edu/projects/humannerf/). Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf)
+- [In-Place Scene Labelling and Understanding with Implicit Scene Representation](https://shuaifengzhi.com/Semantic-NeRF/). Zhi et al., Arxiv 2021
 - [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](http://yenchenlin.me/inerf/). Yen-Chen et al. IROS 2021 | [bibtex](./NeRF-and-Beyond.bib#L321-L327) <!---YenChen20arxiv_iNeRF-->
 - [Infinite-Realities (Triple-I)](https://ir-ltd.net/) <span class="lic-pill lic-paid">Paid</span>. Photogrammetry and light-stage rentals for film and games.
-- [InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity](https://jiabinliang.github.io/InfNeRF.io/). Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF) | [bibtex](./citations/InfNeRF.txt)
+- [InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity](https://jiabinliang.github.io/InfNeRF.io/). Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF)
 - [Intro to gaussian splatting (and Unity plugin)](https://www.xuanprada.com/blog/2023/10/22/intro-to-gaussian-splatting). Intro to gaussian splatting (and Unity plugin).
 - [Jax Ne RF](https://github.com/google-research/google-research/tree/master/jaxnerf). Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60)
-- [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/). Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/L2G-NeRF.txt)
-- [Learning Compositional Radiance Fields of Dynamic Human Heads](https://ziyanw1.github.io/hybrid_nerf/). Wang et al., Arxiv 2020 | [bibtex](./citations/hybrid-nerf.txt) <!---Wang20arxiv_hybrid_NeRF-->
+- [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/). Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF)
+- [Learning Compositional Radiance Fields of Dynamic Human Heads](https://ziyanw1.github.io/hybrid_nerf/). Wang et al., Arxiv 2020
 - [Light Probe Image Gallery](https://www.pauldebevec.com/Probes/). Original mirror-ball HDR probes (Grace Cathedral, Uffizi, etc.). Still used in IBL teaching.
 - [Making Gaussian Splats more smaller](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/). Making Gaussian Splats more smaller.
 - [Making Gaussian Splats smaller](https://aras-p.info/blog/2023/09/13/Making-Gaussian-Splats-smaller/). Making Gaussian Splats smaller.
 - [Meshroom](https://github.com/alicevision/meshroom). 3D Reconstruction Software.
 - [Metastage](https://metastage.com/) <span class="lic-pill lic-paid">Paid</span>. LA volumetric capture studio using Microsoft tech.
-- [MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis](https://vincentfung13.github.io/projects/mine/). Jiaxin Li et al., ICCV 2021 | [github](https://github.com/vincentfung13/MINE) | [bibtex](./citations/MINE.txt)
-- [Mip Ne RF](https://github.com/google/mipnerf). [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)
-- [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/). Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)
-- [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/). Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf) | [bibtex](./citations/mipnerf.txt)
+- [MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis](https://vincentfung13.github.io/projects/mine/). Jiaxin Li et al., ICCV 2021 | [github](https://github.com/vincentfung13/MINE)
+- [Mip Ne RF](https://github.com/google/mipnerf). [@google](https://github.com/google), 2021
+- [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/). Barron et al., Arxiv 2022
+- [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/). Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf)
 - [Mr Ne RF](https://github.com/MrNeRF/awesome-3D-gaussian-splatting). For inspiring me to construct this repo.
-- [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/). Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf) | [bibtex](./citations/mvsnerf.txt)
-- [Ne RF Py Torch](https://github.com/yenchenlin/nerf-pytorch). Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)
+- [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/). Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf)
+- [Ne RF Py Torch](https://github.com/yenchenlin/nerf-pytorch). Yen-Chen Lin, 2020
 - [Ne RF Py Torch Lighting](https://github.com/kwea123/nerf_pl). [@kwea123](https://github.com/kwea123), 2020
 - [Ne RF Py Torch3 D](https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf). [@facebookresearch](https://github.com/facebookresearch), 2020
 - [Ne RF W](https://github.com/kwea123/nerf_pl/tree/nerfw). [@kwea123](https://github.com/kwea123), 2021
 - [NeRF](https://github.com/bmild/nerf). Mildenhall et al., 2020 | [bibtex](./NeRF-and-Beyond.bib#L168-L173)
 - [NeRF (paper site)](https://www.matthewtancik.com/nerf). Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
-- [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://bmild.github.io/rawnerf/). Ben Mildenhall et al, arXiv 2021 | [bibtex](./citations/rawnerf.txt)
+- [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://bmild.github.io/rawnerf/). Ben Mildenhall et al, arXiv 2021
 - [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/). Martin-Brualla et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L152-L158) <!---MartinBrualla20arxiv_nerfw-->
-- [NeRF--: Neural Radiance Fields Without Known Camera Parameters](http://nerfmm.active.vision/). Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm) | [bibtex](./citations/nerf--.txt) <!---Wang21arxiv_nerfmm-->
-- [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://jdily.github.io/proj_site/nerfin_proj.html). Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt)
-- [NeRF-SOS: Any-view Self-supervised Object Segmentation on Complex Real-world Scenes](https://zhiwenfan.github.io/NeRF-SOS/). Fan et al., ICLR 2023 | [bibtex](./citations/NeRF-SOS.txt)
-- [NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://weiyithu.github.io/NerfingMVS/). Wei et al., ICCV 2021 | [bibtex](./citations/NerfingMVS.txt)
+- [NeRF--: Neural Radiance Fields Without Known Camera Parameters](http://nerfmm.active.vision/). Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm)
+- [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://jdily.github.io/proj_site/nerfin_proj.html). Liu et al., Arxiv 2022
+- [NeRF-SOS: Any-view Self-supervised Object Segmentation on Complex Real-world Scenes](https://zhiwenfan.github.io/NeRF-SOS/). Fan et al., ICLR 2023
+- [NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://weiyithu.github.io/NerfingMVS/). Wei et al., ICCV 2021
 - [Nerfstudio gsplat](https://github.com/nerfstudio-project/gsplat). Python/CUDA | Apache-2.0 | Integration with Nerfstudio |
 - [Nerfstudio Unofficial](https://github.com/yzslab/nerfstudio/tree/gaussian_splatting). Nerfstudio Unofficial.
 - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://people.eecs.berkeley.edu/~pratul/nerv/). Srinivasan et al. CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L260-L266) <!---Srinivasan20arxiv_NeRV-->
 - [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://yilundu.github.io/nerflow/). Du et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L79-L85) <!---Du20arxiv_nerflow-->
-- [Neural Refinement for Absolute Pose Regression with Feature Synthesis](https://nefes.active.vision/). Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nefes.txt)
+- [Neural Refinement for Absolute Pose Regression with Feature Synthesis](https://nefes.active.vision/). Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS)
 - [Neural Rendering (YouTube)](https://www.youtube.com/@NeuralRendering). Ben Mildenhall
 - [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](http://www.cs.cornell.edu/~zl548/NSFF/). Li et al., CVPR 2021 | [github](https://github.com/zhengqili/Neural-Scene-Flow-Fields) | [bibtex](./NeRF-and-Beyond.bib#L119-L125) <!---Li20arxiv_nsff-->
 - [Neural Scene Graphs for Dynamic Scenes](https://light.princeton.edu/neural-scene-graphs/). Ost et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L353-L358) <!---Ost20arxiv_NeuralSceneGraphs-->
 - [Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/). Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF) | [bibtex](./NeRF-and-Beyond.bib#L135-L141) <!---Liu20neurips_sparse_nerf-->
 - [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/). Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf) | [bibtex](./NeRF-and-Beyond.bib#L283-L289) <!---Tretschk20arxiv_NR-NeRF-->
-- [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/). Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nope-nerf.txt)
+- [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/). Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf)
 - [Open Heritage 3D](https://openheritage3d.org/). Open scan datasets for heritage sites.
 - [openMVG](https://openmvg.readthedocs.io/en/latest/). A library for computer-vision scientists targeted for the Multiple View Geometry community.
 - [overview of Gaussian Splatting](https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362). overview of Gaussian Splatting.
@@ -3717,21 +3718,21 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide). A guide covering Photogrammetry including the applications, libraries and tools that will make you a better efficient Photogrammetry development.
 - [Photogrammetry Importer](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer). Addon to import different photogrammetry formats into Blender.
 - [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://marcoamonteiro.github.io/pi-GAN-website/). Chan et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L24-L30) <!---Chan20arxiv_piGAN-->
-- [Point-NeRF: Point-based Neural Radiance Fields](https://xharlie.github.io/projects/project_sites/pointnerf/index.html). Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf) | [bibtex](./citations/Point-NeRF.txt)
+- [Point-NeRF: Point-based Neural Radiance Fields](https://xharlie.github.io/projects/project_sites/pointnerf/index.html). Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf)
 - [Polyscope](https://github.com/nmwsharp/polyscope). A C++ & Python viewer for 3D data like meshes and point clouds.
-- [PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction](https://porf.active.vision/). Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/porf.txt)
+- [PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction](https://porf.active.vision/). Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf)
 - [Portrait Neural Radiance Fields from a Single Image](https://portrait-nerf.github.io/). Gao et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L95-L101) <!---Gao20arxiv_pNeRF-->
-- [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://www.ajayj.com/dietnerf). Matthew Tancik et al., Arxiv 2021 | [bibtex](./citations/DietNeRF.txt)
+- [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://www.ajayj.com/dietnerf). Matthew Tancik et al., Arxiv 2021
 - [Recovering HDR Radiance Maps (Debevec & Malik, 1997)](https://www.pauldebevec.com/Research/HDR/). SIGGRAPH 1997 paper. Original HDR-from-bracketed-exposures recovery method.
 - [Rendering Synthetic Objects into Real Scenes (Debevec, 1998)](https://www.pauldebevec.com/Research/IBL/). SIGGRAPH 1998 paper founding image-based lighting.
-- [Self-Calibrating Neural Radiance Fields](https://postech-cvlab.github.io/SCNeRF/). Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/SCNeRF.txt)
-- [SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image](https://vita-group.github.io/SinNeRF/). Xu et al., ECCV 2022 | [github](https://github.com/VITA-Group/SinNeRF) | [bibtex](./citations/SinNeRF.txt)
+- [Self-Calibrating Neural Radiance Fields](https://postech-cvlab.github.io/SCNeRF/). Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF)
+- [SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image](https://vita-group.github.io/SinNeRF/). Xu et al., ECCV 2022 | [github](https://github.com/VITA-Group/SinNeRF)
 - [Smithsonian 3D](https://3d.si.edu/). Public Smithsonian 3D collection.
 - [Space-time Neural Irradiance Fields for Free-Viewpoint Video](https://video-nerf.github.io/). Xian et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L299-L305) <!---Xian20arxiv_stnif-->
 - [Stanford Digital Michelangelo](http://graphics.stanford.edu/projects/mich/). Foundational large-statue laser scanning project (Marc Levoy).
-- [StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis](http://jiataogu.me/style_nerf/). Gu et al., Arxiv 2021 | [bibtex](./citations/stylenerf.txt)
+- [StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis](http://jiataogu.me/style_nerf/). Gu et al., Arxiv 2021
 - [SuperSplat](https://github.com/playcanvas/supersplat). A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
-- [Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields](https://mizhenxing.github.io/switchnerf). Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF) | [bibtex](./citations/Switch-NeRF.txt)
+- [Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields](https://mizhenxing.github.io/switchnerf). Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF)
 - [Ten24](https://ten24.info/) <span class="lic-pill lic-paid">Paid</span>. Full-body photogrammetry rig services for games and film.
 - [USC ICT Graphics Lab](https://vgl.ict.usc.edu/). Home of Light Stage research and digital-human capture papers.
 - [Volucap](https://volucap.com/) <span class="lic-pill lic-paid">Paid</span>. Babelsberg volumetric video studio.
@@ -5099,7 +5100,7 @@ Photogrammetry, structure-from-motion, and 3D scanning apps.
 | [CloudCompare](https://www.danielgm.net/cc/) | A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> | Open Source | Open Source · Point Cloud | Point cloud and mesh processing |
 | [COLMAP](https://colmap.github.io/) | A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> | Open Source | Photogrammetry · Open Source | Photogrammetry SfM/MVS reconstruction |
 | [KIRI Engine](https://www.kiriengine.com/) | Cross-platform mobile photogrammetry.<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> | Freemium | Cross-platform · Mobile | Cross-platform mobile photogrammetry |
-| [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/) | Yang et al., ICCV 2021 \| [github](https://github.com/zju3dv/object_nerf) \| [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf--><br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> |  | nerf · scene-editing |  |
+| [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/) | Yang et al., ICCV 2021 \| [github](https://github.com/zju3dv/object_nerf)<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> |  | nerf · scene-editing |  |
 | [Meshroom (AliceVision)](https://alicevision.org/#meshroom) | Free, open-source photogrammetry. Node-based, GPU-accelerated.<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> | Open Source | Open Source · Node-based | Open-source photogrammetry |
 | [MicMac](https://github.com/micmacIGN/micmac) | Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.<br><small class="see-also">See also: <a href="#blender-plugins--addons">Modeling, Sculpting & Texturing → Blender: Plugins & Addons</a></small> | Open Source |  |  |
 | [Open Scan Tools](https://openscantools.com/) | A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> | Open Source | Open Source · Toolkit | Open-source scan toolkit |
@@ -5109,7 +5110,7 @@ Photogrammetry, structure-from-motion, and 3D scanning apps.
 | [Quixel Megascans](https://quixel.com/megascans/library/) | World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects).<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> | Free | Asset Library · Epic Games | Photogrammetry asset library |
 | [RealityCapture](https://www.capturingreality.com/) | Fast, high-quality photogrammetry (now Epic Games). PPI pricing.<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> | Freemium | Epic Games · High-Quality | Production photogrammetry |
 | [Scaniverse (Niantic)](https://scaniverse.com/) | Free mobile scanning, Gaussian splat support.<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> | Free | Free Mobile · Gaussian Splat | Mobile scan, Gaussian splat |
-| [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/) | Bao et al., CVPR 2023\| [github](https://github.com/zju3dv/SINE) \| [bibtex](./citations/sine.txt)<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> |  | nerf · scene-editing |  |
+| [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/) | Bao et al., CVPR 2023\| [github](https://github.com/zju3dv/SINE)<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> |  | nerf · scene-editing |  |
 
 ### Matchmoving & Camera Tracking Software
 

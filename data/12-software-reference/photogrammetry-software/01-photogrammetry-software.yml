@@ -243,7 +243,7 @@ entries:
       - tools-pipeline-utilities/photogrammetry-scanning
   - name: Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering
     url: https://zju3dv.github.io/object_nerf/
-    description: Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) | [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf-->
+    description: Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf)
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -258,7 +258,7 @@ entries:
       - tools-pipeline-utilities/photogrammetry-scanning
   - name: 'SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field'
     url: https://zju3dv.github.io/sine/
-    description: Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE) | [bibtex](./citations/sine.txt)
+    description: Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE)
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok

@@ -31,7 +31,7 @@ entries:
       - '360'
   - name: 'HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video'
     url: https://grail.cs.washington.edu/projects/humannerf/
-    description: Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf) | [bibtex](./citations/humannerf.txt)
+    description: Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -59,7 +59,7 @@ entries:
       - dynamic
   - name: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields
     url: https://hypernerf.github.io/
-    description: Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf) | [bibtex](./citations/hypernerf.txt)
+    description: Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -73,7 +73,7 @@ entries:
       - hypernerf
   - name: 'NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors'
     url: https://jdily.github.io/proj_site/nerfin_proj.html
-    description: Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt)
+    description: Liu et al., Arxiv 2022
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -86,7 +86,7 @@ entries:
       - inpainting
   - name: 'InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity'
     url: https://jiabinliang.github.io/InfNeRF.io/
-    description: Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF) | [bibtex](./citations/InfNeRF.txt)
+    description: Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -100,7 +100,7 @@ entries:
       - large-scale
   - name: Editable Free-viewpoint Video Using a Layered Neural Representation
     url: https://jiakai-zhang.github.io/st-nerf/
-    description: Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) | [bibtex](./citations/st-nerf.txt)
+    description: Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -114,7 +114,7 @@ entries:
       - free-viewpoint
   - name: 'StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis'
     url: http://jiataogu.me/style_nerf/
-    description: Gu et al., Arxiv 2021 | [bibtex](./citations/stylenerf.txt)
+    description: Gu et al., Arxiv 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -127,7 +127,7 @@ entries:
       - generative
   - name: 'Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields'
     url: https://jonbarron.info/mipnerf/
-    description: Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf) | [bibtex](./citations/mipnerf.txt)
+    description: Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -141,7 +141,7 @@ entries:
       - mipnerf
   - name: 'Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields'
     url: https://jonbarron.info/mipnerf360/
-    description: Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)
+    description: Barron et al., Arxiv 2022
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -221,7 +221,7 @@ entries:
       - foundational
   - name: 'Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields'
     url: https://mizhenxing.github.io/switchnerf
-    description: Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF) | [bibtex](./citations/Switch-NeRF.txt)
+    description: Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -248,7 +248,7 @@ entries:
       - awesome-list
   - name: Neural Refinement for Absolute Pose Regression with Feature Synthesis
     url: https://nefes.active.vision/
-    description: Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nefes.txt)
+    description: Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -289,7 +289,7 @@ entries:
       - deformable
   - name: 'NeRF--: Neural Radiance Fields Without Known Camera Parameters'
     url: http://nerfmm.active.vision/
-    description: Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm) | [bibtex](./citations/nerf--.txt) <!---Wang21arxiv_nerfmm-->
+    description: Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -303,7 +303,7 @@ entries:
       - no-pose
   - name: 'NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior'
     url: https://nope-nerf.active.vision/
-    description: Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nope-nerf.txt)
+    description: Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -317,7 +317,7 @@ entries:
       - no-pose
   - name: 'NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination'
     url: http://people.csail.mit.edu/xiuming/projects/nerfactor/
-    description: Zhang et al. Arxiv 2021 | [github](https://github.com/google/nerfactor) | [bibtex](./citations/nerfactor.txt)
+    description: Zhang et al. Arxiv 2021 | [github](https://github.com/google/nerfactor)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -345,7 +345,7 @@ entries:
       - relighting
   - name: 'PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction'
     url: https://porf.active.vision/
-    description: Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/porf.txt)
+    description: Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -372,7 +372,7 @@ entries:
       - portrait
   - name: Self-Calibrating Neural Radiance Fields
     url: https://postech-cvlab.github.io/SCNeRF/
-    description: Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/SCNeRF.txt)
+    description: Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -386,7 +386,7 @@ entries:
       - calibration
   - name: 'Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild'
     url: https://rover-xingyu.github.io/Ha-NeRF/
-    description: Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF) | [bibtex](./citations/Ha-NeRF.txt) <!---chen2021hallucinated-->
+    description: Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -400,7 +400,7 @@ entries:
       - in-the-wild
   - name: 'L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields'
     url: https://rover-xingyu.github.io/L2G-NeRF/
-    description: Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/L2G-NeRF.txt)
+    description: Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -414,7 +414,7 @@ entries:
       - registration
   - name: In-Place Scene Labelling and Understanding with Implicit Scene Representation
     url: https://shuaifengzhi.com/Semantic-NeRF/
-    description: Zhi et al., Arxiv 2021 | [bibtex](./citations/semantic-nerf.txt)
+    description: Zhi et al., Arxiv 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -427,7 +427,7 @@ entries:
       - semantic
   - name: 'CodeNeRF: Disentangled Neural Radiance Fields for Object Categories'
     url: https://sites.google.com/view/wbjang/home/codenerf
-    description: Jang et al., ICCV 2021 | [bibtex](./citations/CodeNeRF.txt)
+    description: Jang et al., ICCV 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -466,7 +466,7 @@ entries:
       - video
   - name: 'MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis'
     url: https://vincentfung13.github.io/projects/mine/
-    description: Jiaxin Li et al., ICCV 2021 | [github](https://github.com/vincentfung13/MINE) | [bibtex](./citations/MINE.txt)
+    description: Jiaxin Li et al., ICCV 2021 | [github](https://github.com/vincentfung13/MINE)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -480,7 +480,7 @@ entries:
       - depth
   - name: 'SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image'
     url: https://vita-group.github.io/SinNeRF/
-    description: Xu et al., ECCV 2022 | [github](https://github.com/VITA-Group/SinNeRF) | [bibtex](./citations/SinNeRF.txt)
+    description: Xu et al., ECCV 2022 | [github](https://github.com/VITA-Group/SinNeRF)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -494,7 +494,7 @@ entries:
       - single-image
   - name: 'Block-NeRF: Scalable Large Scene Neural View Synthesis'
     url: https://waymo.com/research/block-nerf/
-    description: Tancik et al., Arxiv 2022 | [bibtex](./citations/Block-NeRF.txt)
+    description: Tancik et al., Arxiv 2022
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -507,7 +507,7 @@ entries:
       - large-scale
   - name: 'NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo'
     url: https://weiyithu.github.io/NerfingMVS/
-    description: Wei et al., ICCV 2021 | [bibtex](./citations/NerfingMVS.txt)
+    description: Wei et al., ICCV 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -520,7 +520,7 @@ entries:
       - mvs
   - name: 'Point-NeRF: Point-based Neural Radiance Fields'
     url: https://xharlie.github.io/projects/project_sites/pointnerf/index.html
-    description: Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf) | [bibtex](./citations/Point-NeRF.txt)
+    description: Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -561,7 +561,7 @@ entries:
       - pose
   - name: 'AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training'
     url: https://yifanjiang19.github.io/alignerf
-    description: Jiang et al., CVPR 2023 | [bibtex](./citations/AligNeRF.txt)
+    description: Jiang et al., CVPR 2023
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -617,7 +617,7 @@ entries:
       - youtube
   - name: 'NeRF-SOS: Any-view Self-supervised Object Segmentation on Complex Real-world Scenes'
     url: https://zhiwenfan.github.io/NeRF-SOS/
-    description: Fan et al., ICLR 2023 | [bibtex](./citations/NeRF-SOS.txt)
+    description: Fan et al., ICLR 2023
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -630,7 +630,7 @@ entries:
       - segmentation
   - name: Learning Compositional Radiance Fields of Dynamic Human Heads
     url: https://ziyanw1.github.io/hybrid_nerf/
-    description: Wang et al., Arxiv 2020 | [bibtex](./citations/hybrid-nerf.txt) <!---Wang20arxiv_hybrid_NeRF-->
+    description: Wang et al., Arxiv 2020
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -643,7 +643,7 @@ entries:
       - human
   - name: 'ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video'
     url: https://zju3dv.github.io/enerf/
-    description: Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF) | [bibtex](./citations/enerf.txt)
+    description: Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -657,7 +657,7 @@ entries:
       - free-viewpoint
   - name: Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies
     url: https://zju3dv.github.io/animatable_nerf/
-    description: Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf) | [bibtex](citations/animatable_nerf.txt) <!---Peng21arxiv_animatable_nerf-->
+    description: Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'

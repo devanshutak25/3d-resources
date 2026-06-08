@@ -9,6 +9,14 @@ Architectural / structural decisions w/ rationale + date.
   - Impact:
 
 ## Log
+- **2026-06-09 — Filter panel UX: open by default, chips behind sub-toggle, TOC preserves state**
+  - Decision: (1) TOC link clicks no longer clear search/filters (removed §17 clear block in `setupTocClickHandler`); state persists on jump. (2) `#filter-bar` opens by default on desktop, stays collapsed on mobile (`matchMedia('(max-width:768px)')`) to avoid the fullscreen overlay popping on load. (3) The 5 chip groups now live in `#filter-chip-groups` behind a collapsed-by-default `#filter-groups-toggle`; auto-opens when a chip filter is restored from URL hash; collapses again on TOC jump.
+  - Why: clearing search on every TOC click was jarring; always-visible chips ate vertical space; collapsed-by-default panel hid search.
+  - Impact: `assets/js/filter.js` + `assets/css/style.css` only. No data/build-script changes.
+- **2026-06-09 — Removed dead `citations/*.txt` bibtex links (GSC 404)**
+  - Decision: stripped all 85 `[bibtex](.../citations/X.txt)` markdown links (relative + external awesome-NeRF) from entry descriptions across 7 data files. Deleted whole ` | [bibtex](...)` segment + trailing `<!---key-->` comment. Kept paper-title + `[github]` links.
+  - Why: inherited from copying yenchenlin/awesome-NeRF rows; the `.txt` files never existed in this repo, so every link 404'd. GSC flagged `object-nerf.txt`; the rest would follow.
+  - Impact: 7 `data/**.yml` files. `check-links.js` only checks the `url` field, not markdown links in descriptions, so these were never caught.
 - **2026-05-22 — Vocab expansion for disciplines + entry-type expansion**
   - Decision: Extended closed enums. `workflow`: added previs, look-dev, face-capture, match-move, roto, projection-mapping, creative-coding. `output`: added medical, jewelry, fashion, automotive, event-experiential. `entry_type`: added service, book, hardware, paper. `platform`: added vr.
   - Why: discipline taxonomy from user covers pre-prod through R&D; verticals (jewelry/fashion/auto/event), books (Brinkmann/Wright/HDRI Handbook), services (Ten24/Volucap), and hardware (Vicon/Bolt/LED panels) all needed first-class slots.

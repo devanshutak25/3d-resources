@@ -136,6 +136,26 @@ main:focus { outline: none; }
   cursor: pointer;
 }
 #filter-clear:hover { color: var(--text); border-color: var(--accent); }
+.filter-groups-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  gap: 0.5rem;
+  background: none;
+  border: none;
+  padding: 0.25rem 0;
+  cursor: pointer;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-subtle);
+}
+.filter-groups-toggle:hover { color: var(--text); }
+.filter-groups-toggle .mdi { transition: transform 0.2s ease; }
+.filter-groups-toggle[aria-expanded="true"] .mdi { transform: rotate(180deg); }
+.filter-chip-groups.collapsed { display: none; }
 .filter-row {
   display: grid;
   grid-template-columns: 6.5rem 1fr;

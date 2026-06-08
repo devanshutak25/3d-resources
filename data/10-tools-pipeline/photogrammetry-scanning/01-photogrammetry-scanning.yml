@@ -46,7 +46,7 @@ entries:
       - Open Source
   - name: 3D Neural Scene Representations for Visuomotor Control
     url: https://3d-representation-learning.github.io/nerf-dy/
-    description: Li et al., CoRL 2021 Oral | [bibtex](./citations/nerf-dy.txt)
+    description: Li et al., CoRL 2021 Oral
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -60,7 +60,7 @@ entries:
       - NeRF
   - name: 'Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis'
     url: https://www.ajayj.com/dietnerf
-    description: Matthew Tancik et al., Arxiv 2021 | [bibtex](./citations/DietNeRF.txt)
+    description: Matthew Tancik et al., Arxiv 2021
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -88,7 +88,7 @@ entries:
       - NeRF
   - name: 'MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo'
     url: https://apchenstu.github.io/mvsnerf/
-    description: Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf) | [bibtex](./citations/mvsnerf.txt)
+    description: Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf)
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -158,7 +158,7 @@ entries:
       - Compression
   - name: 'NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images'
     url: https://bmild.github.io/rawnerf/
-    description: Ben Mildenhall et al, arXiv 2021 | [bibtex](./citations/rawnerf.txt)
+    description: Ben Mildenhall et al, arXiv 2021
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -172,7 +172,7 @@ entries:
       - HDR
   - name: 'CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields'
     url: https://cassiepython.github.io/clipnerf/
-    description: Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF) | [bibtex](./citations/clipnerf.txt)
+    description: Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF)
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -229,7 +229,7 @@ entries:
       - NeRF
   - name: 'DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks'
     url: https://depthoraclenerf.github.io/
-    description: Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF) | [bibtex](./citations/donerf.txt) <!---neff2021donerf-->
+    description: Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF)
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -243,7 +243,7 @@ entries:
       - NeRF
   - name: 'DFNet: Enhance Absolute Pose Regression with Direct Feature Matching'
     url: https://dfnet.active.vision/
-    description: Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/dfnet.txt)
+    description: Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet)
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -257,7 +257,7 @@ entries:
       - Pose
   - name: Editing Conditional Radiance Fields
     url: http://editnerf.csail.mit.edu/
-    description: Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf) | [bibtex](./citations/editnerf.txt)
+    description: Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf)
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -271,7 +271,7 @@ entries:
       - Editing
   - name: 'FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling'
     url: https://fig-nerf.github.io/
-    description: Xie et al., Arxiv 2021 | [bibtex](./citations/fig-nerf.txt)
+    description: Xie et al., Arxiv 2021
     license: Free
     entry_type: reference
     best_for: NeRF research paper
@@ -344,7 +344,7 @@ entries:
       - Original
   - name: Ne RF Py Torch
     url: https://github.com/yenchenlin/nerf-pytorch
-    description: Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)
+    description: Yen-Chen Lin, 2020
     license: Open Source
     entry_type: reference
     best_for: PyTorch NeRF impl
@@ -423,7 +423,7 @@ entries:
       - GitHub
   - name: Mip Ne RF
     url: https://github.com/google/mipnerf
-    description: '[@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)'
+    description: '[@google](https://github.com/google), 2021'
     license: Open Source
     entry_type: reference
     best_for: Mip-NeRF impl

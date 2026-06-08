@@ -11,6 +11,30 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-09 02:00
+**Prompt:**
+> 3d.devanshutak.xyz — fix the broken citations/citations/object-nerf.txt link in that project.
+
+**Answered:** Root cause = inherited awesome-NeRF `[bibtex](./citations/*.txt)` links to files that never existed. Stripped all 85 (relative + external) across 7 data files; rebuilt; 0 remain in README/_site.
+
+---
+
+### 2026-06-09 02:30
+**Prompt:**
+> (1) TOC click clears search, stop that. (2) keep filter panel open by default. (3) put filter chips inside a collapsible heading, collapsed by default.
+
+**Answered:** filter.js + style.css: TOC click preserves search+filters; panel open on desktop / collapsed on mobile; chip groups behind collapsed-by-default `#filter-groups-toggle` (auto-opens on hash-restore). Built + verified.
+
+---
+
+### 2026-06-09 02:45
+**Prompt:**
+> When user clicks TOC elements the page scrolls down, make "Filter by category, license, platform…" also collapse when that happens. Update project and memory markdown files.
+
+**Answered:** Added `bar._setGroupsOpen(false)` to `setupTocClickHandler` so chip groups collapse on TOC jump. Updated decisions.md + user-prompts.md.
+
+---
+
 ### 2026-06-03 20:30
 **Prompt:**
 > add

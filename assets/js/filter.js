@@ -787,19 +787,44 @@
 
     bar.appendChild(top);
 
-    // §6 Flat: all 5 groups visible inside the panel.
-    makeGroup(bar, 'Category', 'category', CATEGORY_OPTIONS, CATEGORY_LABELS);
-    makeGroup(bar, 'License', 'license', LICENSE_OPTIONS);
-    makeGroup(bar, 'Platform', 'platform', PLATFORM_OPTIONS, PLATFORM_LABELS);
-    makeGroup(bar, 'Workflow', 'workflow', WORKFLOW_OPTIONS, WORKFLOW_LABELS);
-    makeGroup(bar, 'Output', 'output', OUTPUT_OPTIONS, OUTPUT_LABELS);
+    // Chip groups live behind their own collapsed-by-default sub-toggle so the
+    // open panel stays compact. Search/counter/clear (.filter-top) stay outside.
+    const groupsToggle = document.createElement('button');
+    groupsToggle.id = 'filter-groups-toggle';
+    groupsToggle.className = 'filter-groups-toggle';
+    groupsToggle.type = 'button';
+    groupsToggle.setAttribute('aria-expanded', 'false');
+    groupsToggle.innerHTML = '<span>Filter by category, license, platform…</span><i class="mdi mdi-chevron-down" aria-hidden="true"></i>';
+    bar.appendChild(groupsToggle);
+
+    const groups = document.createElement('div');
+    groups.className = 'filter-chip-groups collapsed';
+    groupsToggle.setAttribute('aria-controls', 'filter-chip-groups');
+    groups.id = 'filter-chip-groups';
+    makeGroup(groups, 'Category', 'category', CATEGORY_OPTIONS, CATEGORY_LABELS);
+    makeGroup(groups, 'License', 'license', LICENSE_OPTIONS);
+    makeGroup(groups, 'Platform', 'platform', PLATFORM_OPTIONS, PLATFORM_LABELS);
+    makeGroup(groups, 'Workflow', 'workflow', WORKFLOW_OPTIONS, WORKFLOW_LABELS);
+    makeGroup(groups, 'Output', 'output', OUTPUT_OPTIONS, OUTPUT_LABELS);
+    bar.appendChild(groups);
+
+    const setGroupsOpen = (open) => {
+      groups.classList.toggle('collapsed', !open);
+      groupsToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    };
+    bar._setGroupsOpen = setGroupsOpen;
+    groupsToggle.addEventListener('click', () => {
+      setGroupsOpen(groups.classList.contains('collapsed'));
+    });
 
     const contents = document.getElementById('contents');
     if (contents) contents.parentElement.insertBefore(bar, contents);
     else mainEl.insertBefore(bar, mainEl.firstChild);
 
     // §16: no localStorage of expand/filters/query — fresh defaults every visit.
-    bar.classList.add('collapsed');
+    // Panel open by default on desktop; collapsed on mobile to avoid the
+    // fullscreen overlay (CSS @media max-width:768px) popping open on load.
+    if (window.matchMedia('(max-width: 768px)').matches) bar.classList.add('collapsed');
     setToggleIcon();
 
     // §12 Mobile: ToC dropdown.
@@ -977,6 +1002,18 @@
     }
   }
 
+  // Height of the sticky filter panel as it sits pinned at the top of the
+  // viewport, plus a small gap. Used to offset in-page scroll targets so a
+  // heading doesn't land underneath the pinned search box. Falls back to 8px
+  // when the bar isn't sticky/fixed or isn't present.
+  function stickyTopOffset() {
+    const bar = document.getElementById('filter-bar');
+    if (!bar || bar.offsetParent === null) return 8;
+    const pos = getComputedStyle(bar).position;
+    if (pos !== 'sticky' && pos !== 'fixed') return 8;
+    return bar.getBoundingClientRect().height + 12;
+  }
+
   function smoothScrollTo(targetY, duration, onDone) {
     if (typeof duration === 'function') { onDone = duration; duration = undefined; }
     const startY = window.pageYOffset;
@@ -1078,27 +1115,23 @@
         if (!target) return;
         ev.preventDefault();
 
-        // §17: clear filters + search if any active.
-        if (anyFilterActive()) {
-          active.search = '';
-          active.category.clear();
-          active.license.clear();
-          active.platform.clear();
-          active.workflow.clear();
-          active.output.clear();
-          const search = document.getElementById('filter-search');
-          if (search) search.value = '';
-          const bar = document.getElementById('filter-bar');
-          if (bar) for (const c of bar.querySelectorAll('.filter-chip.active')) { c.classList.remove('active'); c.setAttribute('aria-pressed', 'false'); }
-          applyFilters();
-        }
+        // Preserve active search + filters on TOC jump (do not clear). The
+        // target heading is force-expanded below so it is visible even if the
+        // active filters dim/hide some of its rows.
+
+        // Collapse the chip-groups sub-section so the panel is compact as the
+        // page scrolls to the target.
+        const bar = document.getElementById('filter-bar');
+        if (bar && bar._setGroupsOpen) bar._setGroupsOpen(false);
 
         if (target.tagName === 'H3') expandHeading(findPrevH2(target));
         expandHeading(target);
         history.pushState(null, '', '#' + id);
         requestAnimationFrame(() => {
           requestAnimationFrame(() => {
-            const top = target.getBoundingClientRect().top + window.pageYOffset - 8;
+            // Offset by the sticky filter panel so the target isn't hidden
+            // behind the pinned search box.
+            const top = target.getBoundingClientRect().top + window.pageYOffset - stickyTopOffset();
             smoothScrollTo(top);
             // A4: move keyboard focus to the heading once it's in view.
             try { target.focus({ preventScroll: true }); } catch (e) { target.focus(); }
@@ -1360,6 +1393,10 @@
       hashWriteSuspended = false;
       const bar = document.getElementById('filter-bar');
       if (bar) bar.classList.remove('collapsed');
+      // Open the chip-groups sub-section if any chip filter was restored.
+      const chipsActive = active.category.size || active.license.size ||
+        active.platform.size || active.workflow.size || active.output.size;
+      if (bar && chipsActive && bar._setGroupsOpen) bar._setGroupsOpen(true);
     }
 
     window.addEventListener('popstate', () => {

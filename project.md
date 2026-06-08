@@ -296,7 +296,7 @@ Any closed-enum violation exits 1 and blocks merge.
 ## 9. Design style (site)
 
 - Dark mode by default. Cards with hover lift.
-- Filter bar (license / platform / workflow chips) above sections, server-rendered shell + JS hydration.
+- Filter bar (license / platform / workflow chips) above sections, server-rendered shell + JS hydration. Panel open by default on desktop, collapsed on mobile (≤768px). Chip groups live behind a collapsed-by-default sub-toggle (`#filter-groups-toggle`); auto-opens on URL-hash filter restore, collapses on TOC jump. TOC clicks preserve active search + filters (do not clear).
 - Per-section OG images with `: ` two-line layout.
 - Material Design Icons via CDN (subset).
 - Back-to-top button (visible after 600 px scroll).

@@ -236,7 +236,7 @@ entries:
     year: 2024
   - name: 'Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving'
     url: https://arxiv.org/pdf/2403.05907v1.pdf
-    description: Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF) | [bibtex](./citations/lightning-nerf.txt)
+    description: Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF)
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper with code, not standalone software; consider reference
@@ -251,7 +251,7 @@ entries:
     year: 2024
   - name: 'NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields'
     url: https://arxiv.org/pdf/2404.01300
-    description: Irshad et al., ECCV 2024 | [bibtex](./citations/nerf-mae.txt)
+    description: Irshad et al., ECCV 2024
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -571,7 +571,7 @@ entries:
     year: 2023
   - name: 'BeyondPixels: A Review of the Evolution of Neural Radiance Fields'
     url: https://arxiv.org/abs/2306.03000
-    description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023 | [bibtex](citations/BeyondPixels.txt)
+    description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -584,7 +584,7 @@ entries:
     year: 2023
   - name: 'CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation'
     url: https://arxiv.org/abs/2303.04869
-    description: Moreau et al., ICCV 2023 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/crossfire.txt)
+    description: Moreau et al., ICCV 2023
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -599,7 +599,7 @@ entries:
     year: 2023
   - name: Local 3D Editing via 3D Distillation of CLIP Knowledge
     url: https://arxiv.org/abs/2306.12570
-    description: Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io) | [bibtex](./citations/lenerf.txt)
+    description: Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io)
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper with code, not standalone software; consider reference
@@ -614,7 +614,7 @@ entries:
     year: 2023
   - name: 'NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes'
     url: https://arxiv.org/abs/2308.12967
-    description: Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360) | [bibtex](./citations/SurfelNeRF.txt)
+    description: Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360)
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper with code, not standalone software; consider reference
@@ -642,7 +642,7 @@ entries:
     year: 2023
   - name: 'PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm'
     url: https://arxiv.org/abs/2310.08586
-    description: Zhu et al., Arxiv 2023 | [github](https://github.com/OpenGVLab/PonderV2) | [bibtex](./citations/ponderv2.txt)
+    description: Zhu et al., Arxiv 2023 | [github](https://github.com/OpenGVLab/PonderV2)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -655,7 +655,7 @@ entries:
     year: 2023
   - name: 'SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes'
     url: https://arxiv.org/abs/2304.08971
-    description: Gao et al., CVPR 2023 | [github](https://gymat.github.io/SurfelNeRF-web/) | [bibtex](./citations/SurfelNeRF.txt)
+    description: Gao et al., CVPR 2023 | [github](https://gymat.github.io/SurfelNeRF-web/)
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper, not software; consider reference
@@ -670,7 +670,7 @@ entries:
     year: 2023
   - name: 'X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360° Insufficient RGB-D Views'
     url: https://arxiv.org/abs/2210.05135
-    description: Zhu et al., WACV 2023 | [github](https://github.com/HaoyiZhu/XNeRF) | [bibtex](./citations/x-nerf.txt)
+    description: Zhu et al., WACV 2023 | [github](https://github.com/HaoyiZhu/XNeRF)
     entry_type: reference
     license: Open Source
     notes: misfit. Arxiv paper with code, not standalone software; consider reference
