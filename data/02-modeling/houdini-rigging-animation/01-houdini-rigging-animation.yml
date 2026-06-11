@@ -12,6 +12,10 @@ entries:
       workflow:
         - rigging
         - animation
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - houdini
   - name: Space Girl Rigging
@@ -27,5 +31,9 @@ entries:
       workflow:
         - rigging
         - animation
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - houdini

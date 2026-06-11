@@ -8,6 +8,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Normal Maps
       - Browser
@@ -15,7 +17,7 @@ entries:
     url_status: ok
   - name: Materia
     url: https://github.com/Metric/Materia
-    description: An open-source alternative to Substance Designer written in C#. *(The project was archived)*.
+    description: Open-source node-based alternative to Substance Designer, written in C#. Archived.
     license: Open Source
     entry_type: tool
     deprecated: true
@@ -24,6 +26,10 @@ entries:
       workflow:
         - material-authoring
         - texturing
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - node-based
@@ -35,7 +41,7 @@ entries:
     url_status: ok
   - name: TexGraph
     url: https://galloscript.itch.io/texgraph
-    description: A procedural texture creation tool that lets you create textures by connecting nodes in a graph.
+    description: Procedural texture creation by connecting nodes in a graph.
     license: Free
     entry_type: tool
     url_last_verified: '2026-06-01'
@@ -44,6 +50,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
       tech:
         - procedural
         - node-based
@@ -58,6 +66,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - procedural
@@ -76,11 +88,16 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - cli
   - name: Agisoft De-Lighter
     url: https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow
-    description: Free stand-alone tool designed to remove shadows from model textures. [!download](https://www.agisoft.com/downloads/installer/)
+    description: Standalone tool to remove baked shadows from model textures.
     license: Free
     entry_type: tool
     url_last_verified: '2026-06-01'
@@ -89,9 +106,12 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
+        - mac
   - name: Architextures - Create
     url: https://architextures.org/create
-    description: Web app allows you to create textures, bump maps and CAD hatches. Select any of the parameters to get started.
+    description: Web app for creating textures, bump maps, and CAD hatches.
     license: Freemium
     entry_type: tool
     url_last_verified: '2026-06-01'
@@ -100,9 +120,13 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - archviz
+      platform:
+        - web
   - name: NVIDIA Texture Tools Exporter
     url: https://developer.nvidia.com/nvidia-texture-tools-exporter
-    description: Allows users to create highly compressed texture files (that stay small both on disk and in memory) directly from image sources using NVIDIA’s CUDA-accelerated Texture Tools compressor technology.
+    description: Creates compressed texture files from image sources via CUDA-accelerated compression.
     license: Free
     entry_type: tool
     url_last_verified: '2026-06-01'
@@ -111,14 +135,22 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gpu
   - name: ShaderExpo
     url: https://anuraghazra.github.io/ShaderExpo/
-    description: Dependency free shader editor featuring inline error logs, auto completions, models and textures loading.
+    description: Browser shader editor with inline error logs, autocompletion, and model/texture loading.
     entry_type: tool
     license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
-        - texturing
         - material-authoring
+        - creative-coding
+      platform:
+        - web

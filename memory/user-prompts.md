@@ -345,3 +345,31 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 ## 2026-06-12
 - **Prompt:** Make plan to do the next chunk of work
   - Planned + started §07 sub-phase 7C (unreal-engine-resources, 184 ent). User chose approach B (full hand-curation). Plan approved.
+- **Prompt:** make plan for next chunk of work
+  - Planned §02 modeling enrichment (251 ent, chunk-by-chunk, worst-first). User chose: §02 next, chunk-by-chunk phasing. Plan approved. Started Phase 1 (blender-plugins-addons/01): 22 plugins, platform [win,mac,linux] on all, output where implied, stripped 4 badge-junk descs, fixed 2 truncations + smart-quote. Validation passed (281 warnings).
+- **Prompt:** yes please
+  - Phase 2 (blender-plugins-addons/02, 36 ent): platform on all, honest workflow/output, stripped 6 badges + mangled descs (Verge3D, Octane, Grove, Data FX). Validation passed (282 warnings, +1 benign godot freeform tag).
+- **Prompt:** go
+  - Phase 3 (blender-plugins-addons/03, 48 ent): platform on all, honest workflow/output, stripped 4 junk descs, removed an accidental dup Blender Kitti. Validation passed (282 warnings, no new).
+- **Prompt:** yes
+  - Phase 4 (blender-plugins-addons/04, 50 ent): platform on all; retyped 13 community→plugin + 2 tool→plugin; stripped ~12 junk descs/truncations; fixed mangled name. Surfaced RELOCATE flag (~16 misfiled dev tools/awesome lists). Validation passed (282 warnings). All 4 blender-plugins chunks done; §02 platform 58→198.
+- **Prompt:** Pausing current session. update memory and handoff document, will pick up from that later
+  - Logged Phase 4 + session pause to decisions.md/project.md/handoff. §02 paused after 4/13 phases (all blender-plugins done). Resume at Phase 5 (blender-tutorials/01). Open: RELOCATE structural decision.
+- **Prompt:** continue, make plan for next chunk of work
+  - Planned + executing §02 Phase 5 (blender-tutorials/01, 11 ent). User resolved RELOCATE decision = "move to proper homes" (deferred to a dedicated §02 relocation phase, batched with plugins-addons/04 misfiles); scope this turn = Phase 5 only. Plan approved.
+- **Prompt:** yes go
+  - Phase 5 done (both empty tags fixed, skill/platform/output added, User Manual link-salad desc rewritten). Reported lift, asked to proceed to Phase 6.
+- **Prompt:** yes go
+  - Phase 6 (houdini-plugins-tools/01, 22 ent) DONE: added `platform:[win,mac,linux]` to all 21 Houdini desktop tools + `web` on the cheatsheet; fixed Wormhole's wrong `web`→desktop; stripped 3 wrong `houdini-addon` tech tags on non-addons (Ffmpeg→cli, ZENO→node-based/physics, Cheatsheet→houdini); honest workflow (animation/fx/simulation/creative-coding/editing) + output (games on UE bridge); rewrote 3 marketing/name-restater descs (Microbot VDB, ZENO, Tech Art Winners). §02 platform 204→225. Validation passes (284 warnings, +2 benign freeform-tech).
+- **Prompt:** yes
+  - Phase 7 (material-creation-tools/01, 9 ent) DONE: platform on all 9 (web for browser tools SmartNormal/Architextures/ShaderExpo, win for TexGraph, win/mac Agisoft, win/mac/linux for Materia/Imogen/TextureSynth/NVIDIA); `output:archviz` on Architextures, `creative-coding` on ShaderExpo; trimmed 5 verbose/junk descs (NVIDIA CUDA run-on, Agisoft `[!download]` junk, Materia italic, Architextures, TexGraph). §02 platform 225→234. Validation passes (285 warnings, +1 benign `cli`).
+- **Prompt:** go!
+  - Phase 8 (houdini-more-tutorials/01, 15 ent) DONE: all already had `platform:web`; main win = `skill` on all 15 (beginner Cloner/USD, intermediate most, advanced Matrices/Muscles/MysteryPancake) + honest `workflow` (modeling/creative-coding/fx/animation/rigging/look-dev) + `tech:houdini`/`vex`. §02 skill 17→31, workflow 150→160. Caught `lookdev`→`look-dev` enum fix. Validation passes (297 warnings, +12 benign freeform-tech).
+- **Prompt:** go
+  - Phase 9 (houdini-essential-learning/01, 6 ent) DONE: added `skill` to 5 (Entagma already had it) — beginner SideFX, intermediate CGWiki/Farmfield, advanced Applied Houdini/John Kunz; fixed CGWiki broken desc grammar ("most Houdini reference"→"deepest"); removed banned readme tag "Comprehensive"→"All Levels"; John Kunz +creative-coding/redshift. §02 skill 31→36. Validation passes (298 warnings, +1 benign redshift).
+- **Prompt:** go
+  - Phase 10 (houdini-communities/01, 8 ent) DONE: chunk already well-tagged (all platform:web + tech:houdini). Light touch: added `skill:intermediate` to 3 educational entries (Daily Hip, Houdini Tricks, VFX Arabia); 5 community hubs left skill-less (mixed-level, correct). §02 skill 36→39. Validation passes (298 warnings, no new).
+- **Prompt:** go
+  - Phase 11 (houdini-vex-coding/01, 7 ent) DONE: added `workflow:creative-coding` to all 7 + `skill` to 5 missing (beginner 1MinVEX, intermediate cheat sheet/snippets/VFXBrain/startup, advanced HouPy/OpenCL). §02 workflow 160→167, skill 39→44. Validation passes (298 warnings, no new). FLAG: Python Startup Scripts url_status=unreachable.
+- **Prompt:** go for 12 and 13
+  - Phases 12+13 DONE. P12 (houdini-getting-started/01, 4 ent): platform:web + tech:houdini on all (had skill). P13 tail batch (8 chunks, ~12 ent): platform on all (c4d learning/tips=web, AEC4D=win/mac, TyFlow=win since 3dsMax is Windows-only, houdini tuts=web); skill added; retyped Rolando Gumroad marketplace→asset-source; output (film-vfx Rebelway/TyFlow/smoke). **§02 enrichment COMPLETE (phases 1-13).** §02 platform 234→251 (~100%, 251/251 ent), skill 44→52, output 53→55. Validation passes (304 warnings, +6 benign freeform-tech). Only §02 relocation phase remains.

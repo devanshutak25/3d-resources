@@ -10,6 +10,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       platform:
         - web
       tech:
@@ -27,6 +29,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -42,6 +48,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -58,6 +68,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -73,6 +87,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      skill:
+        - advanced
       platform:
         - web
       tech:
@@ -89,6 +107,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       platform:
         - web
       tech:
@@ -105,6 +125,10 @@ entries:
       - Python
       - Startup Scripts
     tags:
+      workflow:
+        - creative-coding
+      skill:
+        - intermediate
       platform:
         - web
       tech:

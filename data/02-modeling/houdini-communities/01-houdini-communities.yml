@@ -77,7 +77,7 @@ entries:
         - houdini
   - name: Daily Hip
     url: https://dailyhip.wordpress.com/
-    description: Tips from Eetu.
+    description: Houdini tips archive by Eetu Martola.
     entry_type: reference
     license: Free
     readme_tags:
@@ -86,6 +86,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -101,6 +103,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -116,6 +120,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - intermediate
       platform:
         - web
       tech:

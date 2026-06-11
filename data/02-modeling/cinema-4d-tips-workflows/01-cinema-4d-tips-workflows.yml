@@ -12,10 +12,16 @@ entries:
     tags:
       output:
         - motion-graphics
+      skill:
+        - intermediate
+      platform:
+        - web
+      tech:
+        - c4d
   - name: Rolando Barry (Gumroad)
     url: https://honear.gumroad.com/
     description: C4D assets and presets.
-    entry_type: marketplace
+    entry_type: asset-source
     license: Freemium
     readme_tags:
       - Presets
@@ -25,3 +31,7 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
+      tech:
+        - c4d

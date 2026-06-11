@@ -7,6 +7,12 @@ entries:
     tags:
       workflow:
         - modeling
+      output:
+        - generalist
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - blender
     readme_tags:
@@ -26,11 +32,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - web
       tech:
         - blender
   - name: Texture Paint Manual
     url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
-    description: Texture Paint Manual.
+    description: Official Blender manual for the texture paint mode.
     license: Free
     entry_type: reference
     url_last_verified: '2026-06-01'
@@ -39,25 +47,47 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      skill:
+        - beginner
+      platform:
+        - web
+      tech:
+        - blender
   - name: Programming Add-ons for Blender 2.8
     url: http://airplanes3d.net/pydev-000_e.xml
-    description: It shows how to set up a professional IDE for writing Python programs for Blender, on the example of a simple plugin. It is an ebook, published freely on Creative Commons license.
+    description: Free ebook on setting up a Python IDE to write Blender add-ons, worked through a sample plugin.
     license: Free
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - creative-coding
+      skill:
+        - intermediate
+      platform:
+        - web
+      tech:
+        - blender
   - name: blenderscripting
     url: https://blenderscripting.blogspot.com/
-    description: Blender related python snippets to get you started.
+    description: Blog of Blender Python snippets to get started with scripting.
     license: Free
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - creative-coding
+      skill:
+        - beginner
+      platform:
+        - web
+      tech:
+        - blender
   - name: 📖 User Manual
     url: https://docs.blender.org/manual/en/latest/
-    description: '[🔗 Python API](https://docs.blender.org/api/current/) | [⚙️ Developer Wiki](https://wiki.blender.org/wiki/Main_Page)'
+    description: Official Blender user manual.
     entry_type: community
     license: Free
     readme_tags:
@@ -68,6 +98,8 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - blender
   - name: Animation & Rigging Manual
     url: https://docs.blender.org/manual/en/latest/physics/index.html
     description: Animation & Rigging Manual.
@@ -81,6 +113,8 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - blender
   - name: Compositing Nodes List
     url: https://docs.blender.org/manual/en/latest/compositing/index.html#node-types
     description: Compositing Nodes List.
@@ -94,6 +128,8 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - blender
   - name: Motion Tracking Manual
     url: https://docs.blender.org/manual/en/latest/movie_clip/tracking/introduction.html
     description: Motion Tracking Manual.
@@ -107,6 +143,8 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - blender
   - name: Blender Python API Documentation
     url: https://docs.blender.org/api/current/
     description: Official Blender Python API Documentation.
@@ -120,14 +158,19 @@ entries:
     tags:
       platform:
         - web
+      tech:
+        - blender
   - name: Developer Documentation
     url: https://wiki.blender.org/wiki/Main_Page
-    description: Here you can find information about Blender's development process, design and architecture, as well as instructions for Building Blender.
+    description: 'Blender developer docs: development process, design, architecture, and build instructions.'
     entry_type: reference
     license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      platform:
+        - web
       tech:
         - blender
-        - blender-addon

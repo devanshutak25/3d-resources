@@ -16,6 +16,8 @@ entries:
         - product-viz
       skill:
         - beginner
+      platform:
+        - web
       tech:
         - fusion-360
     deprecated: true

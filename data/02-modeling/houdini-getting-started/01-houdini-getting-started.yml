@@ -11,6 +11,10 @@ entries:
     tags:
       skill:
         - beginner
+      platform:
+        - web
+      tech:
+        - houdini
   - name: SideFX Learning Library
     url: https://www.sidefx.com/learn/learning-library/content/
     description: Searchable content browser for all official Houdini tutorials.
@@ -24,16 +28,25 @@ entries:
       skill:
         - beginner
         - intermediate
+      platform:
+        - web
+      tech:
+        - houdini
   - name: Houdini Donut in Any Shape
     url: https://vimeo.com/492505292
     description: Procedural donut by Lewis Orton.
     license: Free
     entry_type: tutorial
     tags:
+      workflow:
+        - modeling
       tech:
         - procedural
+        - houdini
       skill:
         - beginner
+      platform:
+        - web
     readme_tags:
       - Procedural
       - Classic Intro
@@ -52,3 +65,7 @@ entries:
     tags:
       skill:
         - beginner
+      platform:
+        - web
+      tech:
+        - houdini

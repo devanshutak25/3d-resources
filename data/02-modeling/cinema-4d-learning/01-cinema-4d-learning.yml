@@ -12,6 +12,10 @@ entries:
     tags:
       output:
         - motion-graphics
+      skill:
+        - beginner
+      platform:
+        - web
       tech:
         - c4d
   - name: School of Motion (site)
@@ -22,6 +26,11 @@ entries:
     tags:
       output:
         - motion-graphics
+      skill:
+        - beginner
+        - intermediate
+      platform:
+        - web
       tech:
         - c4d
     readme_tags:

@@ -1,7 +1,7 @@
 entries:
   - name: Blender NLA Midi Copier
     url: https://github.com/Cornerback24/Blender-NLA-Midi-Copier
-    description: Blender add-on for creating midi-driven animations from the Nonlinear Animation view.
+    description: Creates MIDI-driven animations from Blender's Nonlinear Animation view.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -11,9 +11,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - animation
+      platform:
+        - win
+        - mac
+        - linux
   - name: BlendyPose
     url: https://github.com/zonkosoft/BlendyPose
-    description: Blender Motion Capture using your camera.
+    description: Webcam motion capture inside Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -23,11 +29,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - mocap
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2022-06-19'
   - name: Spring Bones
     url: https://github.com/artellblender/springbones
-    description: Blender addon to add spring/bouncy dynamic effect to bones.
+    description: Adds springy dynamic motion to bones in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -37,9 +49,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - rigging
+      platform:
+        - win
+        - mac
+        - linux
   - name: Rigid Body Bones
     url: https://github.com/Pauan/blender-rigid-body-bones
-    description: Blender addon which adds rigid body / spring physics to bones.
+    description: Adds rigid-body and spring physics to bones in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -49,11 +67,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - rigging
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-05-03'
   - name: Bone Widget
     url: https://github.com/BlenderDefender/boneWidget
-    description: Blender addon to assist with making custom bone shapes.
+    description: Helps make custom bone shapes for Blender rigs.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -63,9 +87,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - rigging
+      platform:
+        - win
+        - mac
+        - linux
   - name: WritingAnimation
     url: https://github.com/Shriinivas/writinganimation
-    description: This add-on generates writing animation for the selected Bezier curves in blender.
+    description: Generates writing animation for selected Bezier curves in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -75,9 +105,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - animation
+      platform:
+        - win
+        - mac
+        - linux
   - name: TextCounter
     url: https://github.com/leomoon-studios/leomoon-textcounter/
-    description: LeoMoon TextCounter is an easy to use text animation plugin for Blender that can be used to make GUI simulations.
+    description: Text-animation addon for counters and GUI simulations in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -87,11 +123,19 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - animation
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - motion-graphics
     stale: true
     last_pushed: '2023-03-09'
   - name: GreaseWriter
     url: https://github.com/doakey3/GreaseWriter
-    description: A Blender Add-on for auto-animating grease pencil strokes and emulating hand-drawn text.
+    description: Auto-animates grease pencil strokes to emulate hand-drawn text.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -101,11 +145,19 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - animation
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - motion-graphics
     stale: true
     last_pushed: '2019-07-23'
   - name: DreamUV
     url: https://github.com/leukbaars/DreamUV
-    description: Collection of tools that allow you to manipulate UVs in the 3D viewport.
+    description: Manipulate UVs directly in the 3D viewport.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -115,9 +167,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - uv
+      platform:
+        - win
+        - mac
+        - linux
   - name: MeshSync
     url: https://github.com/unity3d-jp/MeshSync
-    description: Live link plugin for Unity. supported blender and other 3D software.
+    description: Live-link plugin syncing Blender and other DCCs into Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -127,9 +185,16 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+        - unity-plugin
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
   - name: Mr Mannequins Tools
     url: https://github.com/Jim-Kroovy/Mr-Mannequins-Tools
-    description: Blender add-on that gives the ability to export animations and weighted meshes that are directly compatible with the third person mannequin without re-targeting anything in Unreal Engine!
+    description: Exports animations and weighted meshes compatible with the Unreal third-person mannequin without retargeting.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -139,11 +204,19 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - rigging
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
     stale: true
     last_pushed: '2022-07-16'
   - name: Blender For Unreal Engine
     url: https://github.com/xavier150/Blender-For-UnrealEngine-Addons
-    description: This Add-on allows you to export content created with Blender to Unreal Engine 4.
+    description: Exports Blender content to Unreal Engine.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -153,9 +226,16 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+        - unreal-plugin
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
   - name: Embark Blender Tools
     url: https://github.com/EmbarkStudios/blender-tools
-    description: A Blender add-on containing workflow tools for game development. Includes tools for standardized import/export workflow, 3D modelling and new object types. [[medium]](https://medium.com/embarkstudi
+    description: Game-dev workflow tools for Blender, with standardized import/export and new object types.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -165,11 +245,19 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
     stale: true
     last_pushed: '2021-01-27'
   - name: INOX
     url: https://github.com/gents83/INOX
-    description: Rust Game engine integrated in Blender.
+    description: Rust game engine integrated in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -179,9 +267,18 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+        - real-time
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
   - name: Shot Manager by Ubisoft
     url: https://github.com/ubisoft/shotmanager
-    description: Add-on that introduces a true shot entity in Blender scenes.
+    description: Adds a true shot entity to Blender scenes for previs and layout.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -191,11 +288,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - previs
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-08-23'
   - name: Gaffer (Blender addon)
     url: https://github.com/gregzaal/Gaffer
-    description: Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [![market]](https://blendermarket.com/products/g
+    description: Light-management panels for fast lighting setup and tweaking in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -205,9 +308,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - lighting
+      platform:
+        - win
+        - mac
+        - linux
   - name: Lumiere
     url: https://github.com/clarkx/Lumiere-V0.4
-    description: Interactive Lighting add-on for Blender.
+    description: Interactive lighting addon for Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -217,11 +326,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - lighting
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2020-08-04'
   - name: Maps Models Importer
     url: https://github.com/eliemichel/MapsModelsImporter
-    description: A Blender add-on to import models from _Google Maps_. [[more info]](https://blog.exppad.com/article/importing-actual-3d-models-from-google-maps)
+    description: Imports 3D models from Google Maps into Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -231,11 +346,19 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - archviz
     stale: true
     last_pushed: '2024-04-21'
   - name: Blender XR
     url: https://github.com/MARUI-PlugIn/BlenderXR
-    description: A free virtual and mixed reality user interface for Blender that enables artists to edit scenes within the software using a suitable headset and controllers.
+    description: VR and mixed-reality interface for editing Blender scenes with a headset and controllers.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -245,11 +368,18 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+        - vr
+      output:
+        - xr
     stale: true
     last_pushed: '2020-07-16'
   - name: Blender Metaverse Addon
     url: https://github.com/Menithal/Blender-Metaverse-Addon
-    description: Blender toolset for creating content for Metaverses like High Fidelity.
+    description: Toolset for creating content for metaverse platforms like High Fidelity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -259,10 +389,16 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - xr
     archived: true
   - name: Loom
     url: https://github.com/p2or/blender-loom
-    description: Add-on to simplify the rendering process of image sequences and certain frames, allows batch rendering and comes with some handy utilities that help in production.
+    description: Simplifies rendering image sequences and frame ranges, with batch rendering utilities.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -272,9 +408,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac
+        - linux
   - name: MDSANIMA RenderTime
     url: https://github.com/mdsanima-dev/mdsanima-render-time
-    description: Blender add-on estimates and calculate how long your animation will take to render done based on the rendering time of the only one frame.
+    description: Estimates total animation render time from a single frame's render time.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -284,11 +426,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2022-05-16'
   - name: Camera Shakify
     url: https://github.com/EatTheFuture/camera_shakify
-    description: An addon for Blender that lets you easily add realistic camera shake to your cameras.
+    description: Adds realistic camera shake to Blender cameras.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -298,9 +446,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - animation
+      platform:
+        - win
+        - mac
+        - linux
   - name: Screencast Keys
     url: https://github.com/nutti/Screencast-Keys
-    description: Status Add-On for Blender.
+    description: On-screen keystroke display for Blender screen recordings.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -310,9 +464,13 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: Bangingcuts
     url: https://github.com/OllyFunkster/bangingcuts
-    description: 'Cut up audio and video clips based on peaks in the audio track removing silences. Last Blender versions: don''t install the zip, install.py file instead.'
+    description: 'Cuts audio and video clips on audio peaks, removing silences. On recent Blender, install the install.py file instead of the zip.'
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -322,11 +480,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - editing
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-02-28'
   - name: Power Sequencer
     url: https://github.com/GDQuest/blender-power-sequencer
-    description: Brings smart new editing features to edit faster with Blender's Video Sequence Editor. It is completely Free and Open Source.
+    description: Faster editing tools for Blender's Video Sequence Editor.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -336,9 +500,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - editing
+      platform:
+        - win
+        - mac
+        - linux
   - name: VSEQF
     url: https://github.com/snuq/VSEQF
-    description: Overhaul for Blender's VSE that can completely change your workflow. Designed for quick, mouse and keyboard balanced editing with a focus on real-time feedback.
+    description: Overhauls Blender's VSE for quick keyboard-and-mouse editing with real-time feedback.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -348,9 +518,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - editing
+      platform:
+        - win
+        - mac
+        - linux
   - name: Transform Tools
     url: https://github.com/doakey3/VSE_Transform_Tools
-    description: Quickly transform, crop and fade video strips in Blender's Video Sequence Editor.
+    description: Transform, crop and fade video strips in Blender's VSE.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -360,11 +536,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - editing
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2020-12-10'
   - name: Easy Proxy
     url: https://github.com/cgvirus/blender-vse-easy-proxy
-    description: Blender addon to create proxy files for Video Sequence Editor (VSE) easily using FFMPEG.
+    description: Creates VSE proxy files easily via FFmpeg.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -374,11 +556,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - editing
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2022-06-17'
   - name: Parallel Render
     url: https://github.com/elmopl/ktba/wiki/Addons
-    description: Render the output from the Sequencer multithreaded through the Render sidebar.
+    description: Renders Sequencer output multithreaded from the Render sidebar.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -388,11 +576,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2020-12-01'
   - name: Scene Strip Tools
     url: https://github.com/tin2tin/scene_strip_tools
-    description: Preview Scene Strips directly in the 3D View.
+    description: Preview VSE scene strips directly in the 3D View.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -402,11 +596,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - editing
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-05-10'
   - name: Subsimport
     url: https://github.com/doakey3/Subsimport
-    description: Addon for Blender that allows users to create and edit subtitles for movies or music.
+    description: Create and edit subtitles for movies or music in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -416,11 +616,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - editing
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-11-16'
   - name: Search Online References
     url: https://github.com/tin2tin/Search-API-Reference
-    description: Search current text in API Reference, Python Reference, Blender Stack Exchange, Blender Source Code and Github.
+    description: Search selected text across Blender API/Python docs, Stack Exchange, source code and GitHub.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -430,11 +636,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2021-01-04'
   - name: Blender Kitti
     url: https://github.com/risteon/blender_kitti
-    description: Render large point clouds and voxel grids with blender.
+    description: Renders large point clouds and voxel grids in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -444,9 +656,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - scientific-viz
   - name: Point Cloud Visualizer
     url: https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280
-    description: Display, edit, filter, render, convert, generate and export colored point cloud PLY files.
+    description: Display, edit, filter, render and export colored point-cloud PLY files.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -456,11 +676,18 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+        - photogrammetry
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - scientific-viz
     stale: true
     last_pushed: '2023-07-04'
   - name: Projectors
     url: https://github.com/Ocupe/Projectors
-    description: A blender add-on for simple projector creation and modification.
+    description: Create and modify projector lights in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -470,9 +697,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - lighting
+      platform:
+        - win
+        - mac
+        - linux
   - name: QuickSwitch
     url: https://github.com/schroef/QuickSwitch
-    description: A helper to quick switch workspaces and view render menu in viewport.
+    description: Quickly switch workspaces and view the render menu in the viewport.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -482,9 +715,13 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: MifthTools
     url: https://github.com/mifth/mifthtools
-    description: 3Dcoat, Houdini, Modo mesh exchange tools.
+    description: Mesh-exchange tools for 3DCoat, Houdini and Modo.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -494,9 +731,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
   - name: Modifier List
     url: https://github.com/Symstract/modifier_list
-    description: Blender add-on with enhanced UI layout for modifiers with handy features. Replaces the regular modifier UI and adds a tab in the Sidebar and a popup.
+    description: Enhanced modifier UI for Blender, with a sidebar tab and popup.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -506,11 +749,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-06-07'
   - name: ProSidebar
     url: https://github.com/CreativeDesigner3D/ProSidebar
-    description: Add additional properties and operators to the 3D View Sidebar.
+    description: Adds extra properties and operators to the 3D View Sidebar.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -520,11 +769,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2021-01-09'
   - name: Tilecam
     url: https://github.com/stuffmatic/tilecam
-    description: Render repeatable images.
+    description: Renders seamlessly tileable images in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -534,11 +787,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - texturing
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2021-07-21'
   - name: PresetterProfessional
     url: https://github.com/dpdpforlife/PresetterProfessional
-    description: View and visibility presets, 3d cursor presets, snap presets, etc. presets.
+    description: View, visibility, 3D cursor and snap presets for Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -548,11 +807,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2020-03-31'
   - name: Screenwriter
     url: https://github.com/tin2tin/Blender_Screenwriter
-    description: Write screenplays in Blender Text Editor in Fountain markup syntax view/export with correct screenplay formatting.
+    description: Write screenplays in the Blender Text Editor using Fountain markup, with correct formatting on export.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -562,9 +825,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - storyboard
+      platform:
+        - win
+        - mac
+        - linux
   - name: Kaleidoscope
     url: https://github.com/blenderskool/kaleidoscope
-    description: The add-on adds two new nodes, Spectrum and Intensity, which essentially improves your workflow inside Blender when creating materials.
+    description: Adds Spectrum and Intensity nodes to speed up material creation in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -574,11 +843,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2020-04-26'
   - name: Mixer by Ubisoft
     url: https://github.com/ubisoft/mixer
-    description: Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition.
+    description: Real-time collaboration addon for Blender from Ubisoft Animation Studio.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -588,12 +863,16 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     archived: true
     stale: true
     last_pushed: '2022-08-01'
   - name: Lib SM64 Blender
     url: https://github.com/libsm64/libsm64-blender
-    description: This add-on integrates libsm64 into Blender and provides various additional integrations with Fast64.
+    description: Integrates libsm64 into Blender, with Fast64 integrations.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -603,6 +882,12 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
   - name: BlenderSynth
     url: https://github.com/OllieBoyne/BlenderSynth
     description: Blender scripting for generating synthetic datasets at scale.
@@ -615,9 +900,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - scientific-viz
   - name: Blender Colab
     url: https://github.com/syn73/blender-colab
-    description: Render on **_Google Colab_**, this is a Python script that allows you to render Blender scene using Google Colaboratory. Only Cycles.
+    description: Python script to render Blender scenes on Google Colab. Cycles only.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -627,3 +920,11 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+        - cloud-render
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac
+        - linux
+        - cloud

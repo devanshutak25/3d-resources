@@ -7,6 +7,10 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
     readme_tags:
@@ -25,6 +29,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
         - opensource-alt
@@ -39,6 +47,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
         - opensource-alt
@@ -53,6 +65,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
         - opensource-alt
@@ -67,6 +83,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
   - name: Houdini Engine for Unreal (AdrianPan optimized fork)
@@ -75,6 +95,12 @@ entries:
     license: Open Source
     entry_type: plugin
     tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - houdini-addon
@@ -95,6 +121,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
         - opensource-alt
@@ -107,6 +137,10 @@ entries:
       workflow:
         - simulation
         - fx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
     readme_tags:
@@ -125,6 +159,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
   - name: Rich Lord's Tools
@@ -138,6 +176,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - animation
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
   - name: .hips
@@ -151,6 +195,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
         - opensource-alt
@@ -165,9 +213,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - editing
+      platform:
+        - win
+        - mac
+        - linux
       tech:
-        - houdini-addon
-        - opensource-alt
+        - cli
   - name: VFX Fractal Toolkit
     url: https://github.com/jtomori/vft
     description: Set of tools for generating fractal and generative art.
@@ -179,6 +232,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
         - opensource-alt
@@ -187,7 +246,7 @@ entries:
     last_pushed: '2019-08-23'
   - name: ZENO
     url: https://github.com/zenustech/zeno
-    description: Node-based 3D system that can produce cinematic physics effects at high efficiency.
+    description: Node-based 3D system for cinematic physics effects. Standalone open-source Houdini alternative.
     license: Open Source
     entry_type: tool
     readme_tags:
@@ -196,12 +255,20 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - simulation
+        - fx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
-        - houdini-addon
+        - node-based
+        - physics
         - opensource-alt
   - name: Houdini Tech Art Challenge Winners 2021
     url: https://www.sidefx.com/tech-art-challenge-2021/
-    description: HPaint, Polyline Creator, Poly Slice Tool
+    description: 'Winning tech-art tools: HPaint, Polyline Creator, Poly Slice Tool.'
     license: Free
     entry_type: plugin
     readme_tags:
@@ -210,6 +277,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
   - name: JDB Houdini Toolkit
@@ -223,12 +294,16 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
         - opensource-alt
   - name: Houdini Attributes Cheatsheet
     url: https://gist.github.com/iinfin/2caf4e2ccb2545477670e88ddacee1e2
-    description: Houdini Attributes Cheatsheet.
+    description: Quick reference of common Houdini geometry attributes.
     license: Free
     entry_type: reference
     readme_tags:
@@ -237,11 +312,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
-        - houdini-addon
+        - houdini
   - name: Microbot VDB Painter
     url: https://microbot.ch/new/vdb-painter/
-    description: MbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes.
+    description: Interactive painting and manipulation of OpenVDB SDF volumes in Houdini.
     license: Paid
     entry_type: plugin
     readme_tags:
@@ -250,6 +329,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - fx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
   - name: TrembleFX
@@ -265,6 +350,10 @@ entries:
         - houdini-addon
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: CamRig Pro
@@ -280,6 +369,10 @@ entries:
         - houdini-addon
       workflow:
         - animation
+      platform:
+        - win
+        - mac
+        - linux
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: VEX Manager
@@ -291,6 +384,12 @@ entries:
       - VEX
       - Shir Manor
     tags:
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
         - vex
@@ -300,14 +399,18 @@ entries:
     url_status: ok
   - name: Wormhole Content Browser
     url: https://wormholetools.gumroad.com/l/whbrowser
-    description: The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
+    description: Custom Houdini UI for browsing, previewing, and importing content.
     entry_type: tool
     license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       platform:
-        - web
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
     readme_tags:
       - houdini-tool
       - asset-browser

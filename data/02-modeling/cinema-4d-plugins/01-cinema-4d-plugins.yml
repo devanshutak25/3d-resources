@@ -3,9 +3,14 @@ entries:
     url: https://www.videocopilot.net/
     description: VFX tutorials, Element 3D, Optical Flares.
     entry_type: channel
+    license: Freemium
     tags:
       output:
         - motion-graphics
+      skill:
+        - intermediate
+      platform:
+        - web
     readme_tags:
       - VFX Tutorials
       - Andrew Kramer
@@ -24,5 +29,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - win
+        - mac
       tech:
         - c4d-plugin

@@ -1,7 +1,7 @@
 entries:
   - name: BlenderUpdater
     url: https://github.com/overmindstudios/BlenderUpdater
-    description: Download and install nightly builds with one click.
+    description: Download and install Blender nightly builds with one click.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Blender build/version manager utility, not an addon. Move to a Blender utilities/tools section.
@@ -11,9 +11,13 @@ entries:
       tech:
         - blender
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: Blender Updater CLI
     url: https://github.com/overmindstudios/BlenderUpdaterCLI
-    description: Command line version of BlenderUpdater.
+    description: Command-line version of BlenderUpdater.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - CLI build manager, not a Blender addon.
@@ -23,9 +27,13 @@ entries:
       tech:
         - blender
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: Blender Version Manager
     url: https://github.com/DotBow/Blender-Version-Manager
-    description: Minimalistic download manager for blender.
+    description: Minimal download manager for Blender builds.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone version manager, not an addon.
@@ -35,12 +43,16 @@ entries:
       tech:
         - blender
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     archived: true
     stale: true
     last_pushed: '2021-03-01'
   - name: Blender Launcher
     url: https://github.com/DotBow/Blender-Launcher
-    description: Standalone client for managing official builds of blender.
+    description: Standalone client for managing official Blender builds.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone launcher, not an addon.
@@ -50,12 +62,16 @@ entries:
       tech:
         - blender
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     archived: true
     stale: true
     last_pushed: '2023-11-28'
   - name: Blender Manager
     url: https://github.com/verlorengest/BlenderManager
-    description: Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management.
+    description: Standalone app for Blender auto-update, project management, time tracking, addon control and render management.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Standalone manager app, not an addon.
@@ -65,9 +81,13 @@ entries:
       tech:
         - blender
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: Blender Scripting
     url: https://github.com/njanakiev/blender-scripting
-    description: Introduction to blender scripting. This is a collection of simple to more involved examples to scripting in Blender with Python.
+    description: Python scripting examples for Blender, from simple to advanced.
     entry_type: tutorial
     license: Open Source
     notes: RELOCATE - Scripting examples/tutorial, not an addon. Move to Blender scripting/dev section.
@@ -76,11 +96,17 @@ entries:
     tags:
       tech:
         - blender
+      workflow:
+        - creative-coding
+      platform:
+        - web
+      skill:
+        - intermediate
     stale: true
     last_pushed: '2021-09-28'
   - name: Fake Bpy Module
     url: https://github.com/nutti/fake-bpy-module
-    description: Collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
+    description: Fake Blender Python API modules for IDE code completion.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Dev tooling for IDE completion, not an addon. Move to Blender scripting/dev section.
@@ -90,9 +116,15 @@ entries:
       tech:
         - blender
         - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
   - name: Blender Debugger For Vscode
     url: https://github.com/AlansCodeLog/blender-debugger-for-vscode
-    description: Blender addon for remote debugging Blender with VS Code (and Visual Studio).
+    description: Addon for remote-debugging Blender from VS Code or Visual Studio.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -102,11 +134,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2022-12-20'
   - name: Blender CLI Rendering
     url: https://github.com/yuki-koyama/blender-cli-rendering
-    description: Python scripts for rendering images using Blender from command-line interface.
+    description: Python scripts for rendering images with Blender from the command line.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - CLI rendering scripts, not an addon. Move to Blender scripting/rendering tools.
@@ -118,11 +156,15 @@ entries:
         - opensource-alt
       workflow:
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-11-29'
   - name: Blender Addon Tester
     url: https://github.com/nangtani/blender-addon-tester
-    description: The blender addon tester is a test harness to enable pytest hook to allow addons to be tested inside a defined version of blender.
+    description: Pytest-based test harness for running Blender addon tests inside a target Blender version.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Test harness for addon devs, not an addon itself. Move to Blender scripting/dev section.
@@ -132,9 +174,15 @@ entries:
       tech:
         - blender
         - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
   - name: Advanced Blender Add-on
     url: https://github.com/eliemichel/AdvancedBlenderAddon
-    description: This repository intends to give a starter kit as well as to illustrate and intensively comment design patterns commonly used in advanced Blender add-ons.
+    description: Starter kit and annotated design patterns for advanced Blender addon development.
     entry_type: reference
     license: Open Source
     notes: RELOCATE - Addon dev starter kit/reference, not a usable addon. Move to Blender scripting/dev section.
@@ -144,11 +192,17 @@ entries:
       tech:
         - blender
         - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - web
+      skill:
+        - advanced
     stale: true
     last_pushed: '2020-10-11'
   - name: 3DN BIP
     url: https://github.com/3dninjas/3dn-bip
-    description: A Python library for Blender. Blazingly fast preview loads in Blender. Images of arbitrary size. `bpy.utils.previews` drop-in replacement.
+    description: Fast image-preview Python library for Blender, a bpy.utils.previews drop-in replacement.
     entry_type: tool
     license: Open Source
     notes: RELOCATE - Python library for addon devs, not a user-facing addon. Move to Blender scripting/dev section.
@@ -158,11 +212,17 @@ entries:
       tech:
         - blender
         - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-07-26'
   - name: Geometry Script
     url: https://github.com/carson-katri/geometry-script
-    description: Scripting API for Blender's Geometry Nodes. It makes complicated node trees more manageable and easy to share.
+    description: Python scripting API for Blender Geometry Nodes, making node trees easier to build and share.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -173,27 +233,40 @@ entries:
         - blender-addon
         - opensource-alt
         - node-based
+        - procedural
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
   - name: Awesome 3D Human
     url: https://github.com/lijiaman/awesome-3d-human
-    description: A curated list of papers & resources linked to 3D Human research including face, body, hand and motion modeling.
+    description: Curated list of papers and resources on 3D human research, including face, body, hand and motion.
     entry_type: reference
     license: Open Source
     notes: RELOCATE - Awesome list on 3D human research, unrelated to Blender addons. Move to research/reference section.
     url_last_verified: '2026-06-01'
     url_status: ok
+    tags:
+      platform:
+        - web
     stale: true
     last_pushed: '2023-10-30'
   - name: Awesome 3D Printing
     url: https://github.com/ad-si/awesome-3d-printing
-    description: A curated list of awesome 3D printing resources.
+    description: Curated list of 3D printing resources.
     entry_type: reference
     license: Open Source
     notes: RELOCATE - 3D printing awesome list, unrelated to Blender addons. Move to 3D printing section.
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: 3 D Machine Learning
+    tags:
+      platform:
+        - web
+  - name: 3D Machine Learning
     url: https://github.com/timzhang642/3D-Machine-Learning
-    description: A resource repository for 3D machine learning.
+    description: Resource repository for 3D machine learning.
     entry_type: reference
     license: Open Source
     notes: RELOCATE - 3D ML resource list, unrelated to Blender addons. Move to research/reference section.
@@ -202,9 +275,11 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
   - name: Usage in Science, Academia, and Industry
     url: https://github.com/ichlubna/blenderSurvey
-    description: Curated list of resources about the usage of Blender in Science, Academia, and Industry.
+    description: Curated list of Blender use in science, academia and industry.
     entry_type: reference
     license: Open Source
     notes: RELOCATE - Awesome list about Blender in research, not an addon. Move to Blender reference/community section.
@@ -213,9 +288,11 @@ entries:
     tags:
       tech:
         - blender
+      platform:
+        - web
   - name: Hi Phy Engine
     url: https://hiphyengine.github.io/
-    description: Fully-coupled high-fidelity physics engine addon. Unified solver for rigid body, cloth, hair, soft body, and MPM snow/sand with intersection-free continuous collision detection.
+    description: High-fidelity physics engine addon with a unified solver for rigid body, cloth, hair, soft body and MPM snow/sand, with intersection-free continuous collision detection.
     license: Paid
     entry_type: plugin
     best_for: Accurate cloth/hair/soft-body sim in Blender
@@ -226,6 +303,10 @@ entries:
         - physics
       workflow:
         - simulation
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Physics Sim
       - Cloth/Hair/Soft Body
@@ -233,7 +314,7 @@ entries:
     url_status: ok
   - name: CharMorph
     url: https://blenderartists.org/t/charmorph-character-creation-tool-mb-lab-based/1252543
-    description: An open source character creation tool for Blender. It's a rewrite of [MB-Lab](https://github.com/animate1978/MB-Lab), which is now unmaintained. [![][repo]](https://github.com/Upliner/CharMorph)
+    description: Open source character creation tool for Blender, a rewrite of the now-unmaintained MB-Lab.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -245,9 +326,13 @@ entries:
       tech:
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: HDRI Sun Aligner
     url: https://github.com/akej74/hdri-sun-aligner
-    description: HDRI Sun Aligner is a Blender addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
+    description: Automatically rotates a sun to match the brightest point in an HDRI environment texture.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -258,37 +343,56 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2024-03-11'
   - name: Geometry Nodes Pipes
     url: https://raywakui.gumroad.com/l/pcxni
-    description: Addon for blender which helps generating complex pipe layouts.
-    entry_type: tool
+    description: Geometry Nodes addon for generating complex pipe layouts in Blender.
+    entry_type: plugin
     license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      tech:
+        - blender-addon
+        - procedural
+        - node-based
+      workflow:
+        - modeling
       platform:
-        - web
+        - win
+        - mac
+        - linux
     readme_tags:
       - blender-addon
       - geometry-nodes
   - name: Auto Terrainer
     url: https://unicornhunter.gumroad.com/l/AutoTerrainer
-    description: Automatic Blender Terrain Generator is a and easy-to-use tool that lets you turn any low poly mesh into realistic and customizable terrain. You can use it to create mountains, valleys, isl
-    entry_type: tool
+    description: Turns any low-poly mesh into customizable terrain like mountains, valleys and islands in Blender.
+    entry_type: plugin
     license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      tech:
+        - blender-addon
+        - procedural
+      workflow:
+        - modeling
       platform:
-        - web
+        - win
+        - mac
+        - linux
     readme_tags:
       - blender-addon
       - terrain
   - name: Glsl Texture
     url: https://github.com/patriciogonzalezvivo/glslTexture
-    description: Create textures from Glsl fragment shaders on Blender (2.8)
+    description: Create textures from GLSL fragment shaders in Blender.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -300,11 +404,15 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-02-11'
   - name: Bystedts Blender Baker
     url: https://3dbystedt.gumroad.com/l/JAqLT
-    description: This addon streamlines the texture baking process in Blender.
+    description: Streamlines texture baking in Blender.
     license: Paid
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -315,22 +423,30 @@ entries:
         - material-authoring
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: Sculpt Alphas Manager
     url: https://blenderartists.org/t/sculpt-alphas-manager/1200725
-    description: This addon provides a simple solution to be able to quickly switch alpha textures for the sculpt brushes.
+    description: Quickly switch alpha textures for sculpt brushes in Blender.
     license: Free
     entry_type: plugin
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
+        - sculpting
         - texturing
-        - material-authoring
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: Poliigon Blender Addon
     url: https://help.poliigon.com/en/articles/6342599
-    description: This addon allows you to browse, purchase, download, and import Poliigon assets from inside Blender. It supports loading textures, models, and HDRs recently supports generating Blender materials from Poliigon texture sets.
+    description: Browse, download and import Poliigon textures, models and HDRs from inside Blender, with material generation from texture sets.
     entry_type: plugin
     license: Free
     url_last_verified: '2026-06-01'
@@ -341,9 +457,13 @@ entries:
         - material-authoring
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: EasyBake
     url: https://github.com/leukbaars/EasyBake
-    description: Texture baking UI for Blender that lives in the 3D Viewport. Small but powerful! Fast one-click baking and iteration.
+    description: One-click texture baking UI in the Blender 3D viewport.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -355,11 +475,15 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2022-10-26'
   - name: PBR Texture Mapper
     url: https://github.com/jayanam/pbr_texture_mapper
-    description: Create PBR node setup with one click.
+    description: One-click PBR node setup in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -371,11 +495,16 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+        - pbr
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2019-01-06'
   - name: Principled Baker
     url: https://github.com/danielenger/Principled-Baker
-    description: Bake PBR textures with a few clicks.
+    description: Bake PBR textures from the Principled BSDF in a few clicks.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -387,11 +516,16 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+        - pbr
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-09-27'
   - name: UcuPaint
     url: https://github.com/ucupumar/ucupaint
-    description: A addon to manage texture layers for EEVEE and Cycles renderer.
+    description: Manage texture layers for EEVEE and Cycles in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -403,10 +537,14 @@ entries:
       tech:
         - opensource-alt
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: MPFB
     url: http://static.makehumancommunity.org/mpfb.html
-    description: MPFB2 is an open source human generator for Blender. It's complete rewrite of MakeHuman as a Blender addon. [![][repo]](https://github.com/makehumancommunity/mpfb2)
-    entry_type: community
+    description: Open source human generator for Blender, a full rewrite of MakeHuman as an addon.
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - Blender Addon
@@ -414,14 +552,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - modeling
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: Welder
     url: https://blenderartists.org/t/welder/672478
-    description: Welds generator for Blender.
-    entry_type: community
+    description: Generates weld seams between meshes in Blender.
+    entry_type: plugin
     license: Free
     readme_tags:
       - Blender Addon
@@ -429,14 +571,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - modeling
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: Array Tools
     url: https://blenderartists.org/t/array-tools-all-in-one-for-translation-scale-and-rotation-array/1170295?u=peetie
-    description: Addon for Blender to create translation, scale, rotation array with offset or global parameters in any direction and mix them. [![][repo]](https://github.com/Elreenys/array_tools)
-    entry_type: community
+    description: Create translation, scale and rotation arrays with offset or global parameters in any direction.
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - Blender Addon
@@ -444,14 +590,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - modeling
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: Mesh Heal
     url: https://blenderartists.org/t/mesh-heal/1117095
-    description: Add-on for Blender, it includes additional Blender operators for healing surface meshes.
-    entry_type: community
+    description: Extra Blender operators for healing and repairing surface meshes.
+    entry_type: plugin
     license: Free
     readme_tags:
       - Blender Addon
@@ -459,14 +609,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - retopo
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: Drop It
     url: https://blenderartists.org/t/drop-it-free-addon/1244259/
-    description: Designed to drop fast and simply Objects to Ground or Surface. [![][repo]](https://github.com/maxivz/interactivetoolsblender)
-    entry_type: community
+    description: Drops objects quickly onto the ground or a surface in Blender.
+    entry_type: plugin
     license: Free
     readme_tags:
       - Blender Addon
@@ -474,14 +628,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - modeling
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: JARCH Vis
     url: https://blenderartists.org/t/addon-jarch-vis/642607
-    description: Add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ![][gpl]
-    entry_type: community
+    description: Generates common architectural-visualization objects in Blender.
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - Blender Addon
@@ -489,14 +647,20 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - modeling
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - archviz
   - name: Wiggle Bones
     url: https://blenderartists.org/t/wiggle-2/1454788
-    description: Jiggle bone implementation for Blender with realistic physics. [![][repo]](https://github.com/shteeve3d/blender-wiggle-2) ![][gpl]
-    entry_type: community
+    description: Jiggle-bone physics for Blender rigs.
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - Blender Addon
@@ -504,14 +668,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - rigging
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: TexTools
     url: https://blenderartists.org/t/textools-for-blender/700811
-    description: TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/SavMartin/TexTools-Blender)
-    entry_type: community
+    description: Free UV and texturing toolset for Blender.
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - Blender Addon
@@ -519,14 +687,19 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - uv
+        - texturing
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: EZ Baker
     url: https://blenderartists.org/t/ez-baker/1245869
-    description: An easier alternative to blender's default bake system. [![][repo]](https://gitlab.com/AquaticNightmare/ez_baker)
-    entry_type: community
+    description: Simpler alternative to Blender's default texture-bake system.
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - Blender Addon
@@ -534,14 +707,19 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - texturing
+        - material-authoring
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: V HACD
     url: https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822
-    description: Library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
-    entry_type: community
+    description: Decomposes a 3D surface into near-convex parts for accurate collision meshes.
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - Blender Addon
@@ -549,14 +727,20 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
+      workflow:
+        - modeling
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
   - name: Multi User
     url: https://blenderartists.org/t/multi-user/1187118
-    description: Enable real-time collaborative workflows inside blender. [![][repo]](https://gitlab.com/slumber/multi-user)
-    entry_type: community
+    description: Real-time collaborative editing inside Blender.
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - Blender Addon
@@ -564,15 +748,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
       tech:
         - blender-addon
         - collaborative
+      platform:
+        - win
+        - mac
+        - linux
   - name: Theme Switcher
     url: https://blenderartists.org/t/theme-switcher/1211787
-    description: Addon to quickly change active theme not leaving 3D View.
-    entry_type: community
+    description: Switch the active Blender theme without leaving the 3D View.
+    entry_type: plugin
     license: Free
     readme_tags:
       - Blender Addon
@@ -580,14 +766,16 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: Lodify
     url: https://devtalk.blender.org/t/level-of-detail-addon/12840
-    description: LOD(Level of Detail) and Proxy system for blender. [![][repo]](https://github.com/DB3D/Lodify)
-    entry_type: community
+    description: Level-of-detail and proxy system for Blender.
+    entry_type: plugin
     license: Open Source
     readme_tags:
       - Blender Addon
@@ -595,28 +783,38 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
   - name: Typewriter
     url: https://github.com/doakey3/blender-typewriter-addon
-    description: Typewriter text animation for font objects.
+    description: Typewriter text animation for font objects in Blender.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - animation
       output:
         - motion-graphics
       tech:
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2024-02-05'
   - name: FontSelector
     url: https://github.com/samytichadou/FontSelector_blender_addon/
-    description: Easy font management inside Blender.
+    description: Font management inside Blender.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -627,9 +825,13 @@ entries:
       tech:
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: Engraver
     url: https://gumroad.com/l/qOyVO
-    description: Blender addon with set of few tools designed to help carving decals in 3D models.
+    description: Carves decals into 3D models in Blender.
     license: Paid
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -639,9 +841,13 @@ entries:
         - blender-addon
       workflow:
         - modeling
+      platform:
+        - win
+        - mac
+        - linux
   - name: WoT Tank Viewer
     url: https://bitbucket.org/SkepticalFox/bigworld-blender-tools-wot-wowp-wows
-    description: Package of plugins for Blender, which allows you view 3D models from World of Tanks.
+    description: Blender plugins to view 3D models from World of Tanks.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -651,9 +857,15 @@ entries:
         - blender-addon
       workflow:
         - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
   - name: FaceBuilder
     url: https://www.keentools.io/download/facebuilder-for-blender
-    description: '[$] : A Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuild'
+    description: Builds photorealistic 3D face and head models from a few neutral-expression photos in Blender.
     license: Paid
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -661,11 +873,17 @@ entries:
     tags:
       tech:
         - blender-addon
+        - photogrammetry
       workflow:
         - modeling
+        - face-capture
+      platform:
+        - win
+        - mac
+        - linux
   - name: Sketchfab Blender Addon
     url: https://github.com/sketchfab/blender-plugin
-    description: Directly import and export models from and to Sketchfab in Blender.
+    description: Import and export models between Blender and Sketchfab.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -676,6 +894,10 @@ entries:
       tech:
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: Curtis Holt Store
     url: https://curtisholt.online/store
     description: Curtis Holt's storefront for Blender addons and learning products.

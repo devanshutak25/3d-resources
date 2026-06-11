@@ -10,6 +10,12 @@ entries:
         - blender
       workflow:
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - generalist
     readme_tags:
       - Distributed Render
       - Blender
@@ -26,6 +32,12 @@ entries:
         - unity-plugin
         - blender
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
     readme_tags:
       - Unity Export
       - FBX
@@ -43,6 +55,10 @@ entries:
         - opensource-alt
       workflow:
         - modeling
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Characters
       - Archived
@@ -60,6 +76,10 @@ entries:
         - blender
       workflow:
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - NPR
       - Line Render
@@ -74,6 +94,10 @@ entries:
       tech:
         - blender-addon
         - blender
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Foliage
       - Premium
@@ -90,6 +114,10 @@ entries:
         - blender
       workflow:
         - lighting
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - HDRI Management
       - Workflow
@@ -107,11 +135,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - match-move
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2022-05-04'
   - name: Blender Pyblish
     url: https://github.com/jasperges/pyblish-blender
-    description: Blender Addon to integrate the Pyblish framework
+    description: Pyblish publishing-pipeline integration for Blender.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -121,11 +155,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2022-01-22'
   - name: Blender Vscode
     url: https://github.com/JacquesLucke/blender_vscode
-    description: Visual Studio Code extension for Blender development.
+    description: VS Code extension for Blender addon development.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -135,9 +173,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
   - name: Blender Addons
     url: https://github.com/Antonioya/blender
-    description: Helpers for Blender
+    description: Helper addons by Antonio Vazquez.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -147,11 +191,15 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-10-25'
   - name: Tissue
     url: https://github.com/alessandro-zomparelli/tissue
-    description: Blender's add-on for computational design.
+    description: Computational and parametric design addon for Blender.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -161,9 +209,16 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+        - procedural
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
   - name: Sverchok
     url: https://github.com/nortikin/sverchok/
-    description: A parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
+    description: Node-based parametric modeling for Blender, aimed at architects.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -173,9 +228,19 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+        - node-based
+        - procedural
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - archviz
   - name: Capsule
     url: https://github.com/Takanu/Capsule
-    description: Blender addon to export, manage and automate to share between Blender and Unreal/Unity or other real-time engine.
+    description: Export manager for sharing assets between Blender and Unreal/Unity.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -185,11 +250,17 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - games
     stale: true
     last_pushed: '2024-04-14'
   - name: Export Paper Model from Blender
     url: https://addam.github.io/Export-Paper-Model-from-Blender/
-    description: Add-on for creating paper models. [![][repo]](https://github.com/addam/Export-Paper-Model-from-Blender)
+    description: Add-on for unfolding meshes into printable paper models.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -198,9 +269,13 @@ entries:
       tech:
         - blender
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: AMD Radeon ProRender
     url: https://www.amd.com/en/technologies/radeon-prorender-blender
-    description: AMD’s physically-based rendering engine that lets creative professionals use open industry standards to use GPU and CPU performance to produce stunningly photorealistic images in B
+    description: AMD's physically based GPU/CPU render engine for Blender.
     license: Free
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -209,9 +284,17 @@ entries:
       tech:
         - blender
         - blender-addon
+        - gpu
+        - ray-tracing
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac
+        - linux
   - name: Bonsai
     url: https://bonsaibim.org/
-    description: Beautiful, detailed, data-rich OpenBIM add-on for Blender (formerly BlenderBIM). [![][repo]](https://github.com/ifcopenshell/ifcopenshell) ![][gpl]
+    description: OpenBIM/IFC architectural authoring add-on for Blender. Formerly BlenderBIM.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -220,9 +303,15 @@ entries:
       tech:
         - blender
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - archviz
   - name: BlenderCAM
     url: https://blendercam.com
-    description: An Open Source solution for CAM with Blender 3D. [![][repo]](https://github.com/vilemduha/blendercam) ![][gpl]
+    description: Open source CAM toolpath generation for CNC inside Blender.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -231,9 +320,13 @@ entries:
       tech:
         - blender
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: CAD Sketcher
     url: https://www.cadsketcher.com
-    description: CAD Sketcher is a free and open-source project looking to enhance precision workflows in blender by bringing CAD like tools, features and usability. [![][repo]](https://github.com/hlorus/CAD_Sketch
+    description: CAD-style precision sketching with constraints for Blender.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -242,9 +335,17 @@ entries:
       tech:
         - blender
         - blender-addon
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - product-viz
   - name: Daz to Blender Bridge
     url: https://www.daz3d.com/daz-to-blender-bridge
-    description: This easy-to-use Bridge transfers your Genesis 8 and 3 characters from Daz directly to Blender.
+    description: Transfers Genesis 8 and 3 characters from Daz Studio into Blender.
     license: Free
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -253,9 +354,15 @@ entries:
       tech:
         - blender
         - blender-addon
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
   - name: Needle Engine
     url: http://docs.needle.tools/blender
-    description: Allows you to create highly interactive, flexible and lightweight web applications right inside Blender.
+    description: Builds interactive web apps from Blender scenes.
     license: Freemium
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -264,9 +371,17 @@ entries:
       tech:
         - blender
         - blender-addon
+        - real-time
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+      output:
+        - generalist
   - name: reflow
     url: https://gitlab.com/diegogangl/reflow
-    description: Blender addon to change fps.
+    description: Blender addon to change scene fps.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -276,9 +391,13 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: Rig on the Fly
     url: https://gitlab.com/dypsloom/rigonthefly
-    description: Rig on the Fly is a Blender dynamic rigging tool used to simplify and speed up animation workflow.
+    description: Dynamic rigging tool that speeds up Blender animation workflow.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -288,3 +407,9 @@ entries:
         - blender
         - blender-addon
         - opensource-alt
+      workflow:
+        - rigging
+      platform:
+        - win
+        - mac
+        - linux

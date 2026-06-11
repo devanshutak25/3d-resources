@@ -12,6 +12,10 @@ entries:
       workflow:
         - fx
         - simulation
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
         - houdini
   - name: Smart Crown Splash FLIP
@@ -27,5 +31,9 @@ entries:
       workflow:
         - fx
         - simulation
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - houdini

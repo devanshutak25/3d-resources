@@ -8,6 +8,10 @@ entries:
       workflow:
         - simulation
         - fx
+      output:
+        - film-vfx
+      platform:
+        - win
       tech:
         - 3dsmax-plugin
     readme_tags:

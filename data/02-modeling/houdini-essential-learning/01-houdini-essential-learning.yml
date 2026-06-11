@@ -1,7 +1,7 @@
 entries:
   - name: CGWiki (tokeru.com)
     url: http://www.tokeru.com/cgwiki/?title=Houdini
-    description: Matt Estela's CGWiki. The most Houdini reference (Joy of VEX, LOPS, particles, everything).
+    description: Matt Estela's CGWiki, the deepest Houdini reference (Joy of VEX, LOPS, particles).
     license: Free
     entry_type: reference
     readme_tags:
@@ -10,6 +10,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -43,6 +45,8 @@ entries:
         - fx
       output:
         - film-vfx
+      skill:
+        - advanced
       platform:
         - web
       tech:
@@ -59,10 +63,12 @@ entries:
     entry_type: tutorial
     readme_tags:
       - Official
-      - Comprehensive
+      - All Levels
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - beginner
       platform:
         - web
       tech:
@@ -78,6 +84,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -97,5 +105,9 @@ entries:
         - web
       workflow:
         - fx
+        - creative-coding
+      skill:
+        - advanced
       tech:
         - houdini
+        - redshift

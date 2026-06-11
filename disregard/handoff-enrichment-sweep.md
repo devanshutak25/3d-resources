@@ -1,6 +1,42 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-11 (end of session). Work PAUSED mid-§07. All decisions deferred but documented below.**
+**Status as of 2026-06-12. §07 COMPLETE. §02 ENRICHMENT COMPLETE (all 13 phases). Only the §02 RELOCATION phase remains before moving to §04.**
+
+## RESUME HERE (2026-06-12 pause point)
+
+§02 modeling is being done **chunk-by-chunk** (user's chosen phasing; 1 phase = 1 chunk file, tiny ≤2-ent chunks batched). Plan file: `~/.claude/plans/make-plan-for-next-rippling-lantern.md`.
+
+**Done (5 phases):** all 4 `blender-plugins-addons` chunks (01=22, 02=36, 03=48, 04=50 = 156) + `blender-tutorials/01` (11). Plugins: platform `[win,mac,linux]` on every addon, honest workflow/output, badge junk stripped; chunk 04 retyped 13 `community`→`plugin` + 2 `tool`→`plugin`. Tutorials: both empty `tags:{}` fixed (`creative-coding`+skill+web), skill/platform/output added, User Manual link-salad desc rewritten, `tech:[blender]` consistency on official docs.
+
+**Phase 6 done:** `houdini-plugins-tools/01` (22 ent). platform on all Houdini desktop tools + `web` on cheatsheet; Wormhole `web`→desktop fix; stripped 3 wrong `houdini-addon` tags (Ffmpeg→cli, ZENO→node-based/physics, Cheatsheet→houdini); honest workflow/output; rewrote 3 descs.
+
+**Phase 7 done:** `material-creation-tools/01` (9 ent). platform on all 9 (web/win/win+mac/win+mac+linux per tool); `output:archviz` Architextures, `creative-coding` ShaderExpo; trimmed 5 verbose/junk descs (NVIDIA, Agisoft `[!download]`, Materia, Architextures, TexGraph).
+
+**Phase 8 done:** `houdini-more-tutorials/01` (15 ent). All already `platform:web`; added `skill` to all 15 + honest workflow (modeling/creative-coding/fx/animation/rigging/look-dev) + `tech:houdini`/`vex`. Enum note: use `look-dev` not `lookdev`.
+
+**Phase 9 done:** `houdini-essential-learning/01` (6 ent). Already well-tagged; added `skill` to 5; fixed CGWiki broken desc grammar; removed banned "Comprehensive" from SideFX readme_tags.
+
+**Phase 10 done:** `houdini-communities/01` (8 ent). Already well-tagged (all platform:web + tech:houdini). Light touch: `skill` on 3 educational refs/blog; 5 community hubs left skill-less by design.
+
+**Phase 11 done:** `houdini-vex-coding/01` (7 ent). Added `workflow:creative-coding` to all 7 + `skill` to 5 missing. FLAG: Python Startup Scripts `url_status:unreachable`.
+
+**Phases 12+13 done:** P12 `houdini-getting-started/01` (4) platform/tech; P13 tail batch (8 chunks, ~12 ent: c4d ×3, fusion-360, 3ds-max, houdini rigging/fx/rebelway). Platform per host (TyFlow=win, 3ds Max is Windows-only; AEC4D=win/mac; rest web). Retyped Rolando Gumroad `marketplace`→`asset-source`.
+
+**§02 ENRICHMENT COMPLETE. Final facet coverage (of 251 ent):** platform 58→251 (~100%), workflow 43→168, output 13→55, skill 10→52. Validation passes (304 warnings, all pre-existing/benign freeform-tech). Empty `tags:{}` = 0.
+
+**RELOCATE decision RESOLVED (user): "move to proper homes."** dev tools → §10 `misc-3d-utilities`; awesome-lists → §09/§11 reference. Deferred to a dedicated **§02 relocation phase** that batches ALL §02 misfiles in one pass: the ~16 in `blender-plugins-addons/04` + 2 in `blender-tutorials/01` (Blender Checklist, Developer Documentation — both still in place, RELOCATE notes kept, `platform:web` added). Run this phase after the enrichment phases below.
+
+**Remaining §02 work: ONLY the relocation phase** (see RELOCATE block above). All 13 enrichment phases done.
+
+`houdini-grooming/01` = 0 entries → skipped.
+
+**STRUCTURAL DECISION — RESOLVED (user, 2026-06-12): option (c) "move to proper homes".** `blender-plugins-addons/04` holds ~16 `RELOCATE`-flagged entries: Blender build/version managers (BlenderUpdater, Blender Updater CLI, Blender Version Manager, Blender Launcher, Blender Manager), dev tooling (Fake Bpy Module, Blender Addon Tester, 3DN BIP, Advanced Blender Add-on, Blender Scripting, Blender CLI Rendering), and 4 unrelated reference/awesome lists (Awesome 3D Human, Awesome 3D Printing, 3D Machine Learning, Usage in Science/Academia/Industry). Plus 2 in `blender-tutorials/01` (Blender Checklist, Developer Documentation). **Plan:** dev/build/scripting tools → §10 `misc-3d-utilities`; the 4 awesome-lists → §09/§11 reference. Execute as the **dedicated §02 relocation phase** (after enrichment phases 7-13), all in one coherent pass. Entries still in place + tagged + filterable until then.
+
+**§02 conventions locked this session (reuse for remaining phases):** Blender/Houdini/C4D/etc addons = `[win,mac,linux]`; forum-thread/Gumroad/web URLs do NOT make an addon `web` (platform = where the DCC runs); educational tutorials/channels/courses → `skill` + `web`; `creative-coding` for VEX/scripting/dev tools; strip `[![][repo]]`/`[![market]]`/`![][gpl]`/`[[medium]]`/`[$] :` junk.
+
+---
+
+## (Earlier) Status as of 2026-06-11. Work PAUSED mid-§07. All decisions deferred but documented below.**
 
 This doc lets the next session pick up exactly where this one stopped. Read it together with:
 - Approved plan: `C:\Users\Devanshu\.claude\plans\see-the-last-few-optimized-zephyr.md`
@@ -28,7 +64,7 @@ Enrich catalog entries (§01–§11; §12 was already done before this sweep) so
 |---|---|---|
 | 1 | **§10 tools-pipeline** (325 ent, 16 chunks) | ✅ DONE. platform 27%→80%, workflow 13%→36%, output 10%→36%. |
 | 2 | **§07 game-dev** (812 ent total) | ✅ DONE. 7A + 7B + 7C all done. platform 811/812, skill 70, output 812. |
-| 3 | **§02 modeling** | ⬜ NEXT (worst-first) |
+| 3 | **§02 modeling** (251 ent, 21 chunks) | 🔄 IN PROGRESS, PAUSED 4/13 phases. All 4 blender-plugins chunks done (156 ent). platform 58→198. See "RESUME HERE" at top. |
 | 4+ | §04, §06, §08, §01, §09, §05, §11, §03 | ⬜ NOT STARTED |
 
 ### §07 breakdown (split into sub-phases because it is 812 entries)

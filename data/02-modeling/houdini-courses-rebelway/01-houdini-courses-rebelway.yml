@@ -9,9 +9,13 @@ entries:
         - fx
         - simulation
         - rendering
+      output:
+        - film-vfx
       skill:
         - intermediate
         - advanced
+      platform:
+        - web
       tech:
         - houdini
     readme_tags:
