@@ -7,6 +7,8 @@ entries:
     tags:
       workflow:
         - uv
+      platform:
+        - web
     readme_tags:
       - Checker Gen
       - Free
@@ -21,6 +23,10 @@ entries:
     tags:
       workflow:
         - uv
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender-addon
     readme_tags:

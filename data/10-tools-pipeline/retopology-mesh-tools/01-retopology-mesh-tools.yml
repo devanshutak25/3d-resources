@@ -7,6 +7,12 @@ entries:
     tags:
       workflow:
         - retopo
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender-addon
     readme_tags:
@@ -26,6 +32,8 @@ entries:
     tags:
       workflow:
         - retopo
+      platform:
+        - web
   - name: SpeedRetopo
     url: https://gumroad.com/l/speedretopo
     description: Free add-on for Blender to make fast and easy retopology using Bsurface.
@@ -39,6 +47,10 @@ entries:
     tags:
       workflow:
         - retopo
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender-addon
   - name: Retopo MT
@@ -54,11 +66,15 @@ entries:
     tags:
       workflow:
         - retopo
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender-addon
   - name: Instant Meshes Remesh
     url: https://blenderartists.org/t/instant-meshes-remesh/1114982
-    description: A suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
+    description: Blender addon wrapping Instant Meshes for fast auto-retopology.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -69,6 +85,10 @@ entries:
     tags:
       workflow:
         - retopo
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender-addon
         - opensource-alt
@@ -85,5 +105,8 @@ entries:
     tags:
       workflow:
         - retopo
+        - sculpting
+      skill:
+        - intermediate
       platform:
         - web

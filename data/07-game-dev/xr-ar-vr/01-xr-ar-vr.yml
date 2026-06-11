@@ -1,7 +1,7 @@
 entries:
   - name: Building an AR game with ARKit and Spritekit
     url: https://blog.pusher.com/building-ar-game-arkit-spritekit/
-    description: Building an AR game with ARKit and Spritekit.
+    description: 'Tutorial: building an AR game with ARKit and SpriteKit.'
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -9,6 +9,10 @@ entries:
       output:
         - games
         - xr
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - xr
   - name: RealityKit
@@ -22,42 +26,58 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - mac
+        - ios
       tech:
         - xr
   - name: Capturing Body Motion in 3D | Apple Developer Documentation
     url: https://developer.apple.com/documentation/arkit/content_anchors/capturing_body_motion_in_3d
-    description: Capturing Body Motion in 3D | Apple Developer Documentation.
+    description: 'Apple ARKit documentation: capturing body motion in 3D.'
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - mocap
       output:
         - games
         - xr
+      platform:
+        - web
       tech:
         - xr
   - name: Rigging a Model for Motion Capture | Apple Developer Documentation
     url: https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture
-    description: Rigging a Model for Motion Capture | Apple Developer Documentation.
+    description: 'Apple ARKit documentation: rigging a model for motion capture.'
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rigging
+        - mocap
       output:
         - games
         - xr
+      platform:
+        - web
       tech:
         - xr
   - name: Rendering | Oculus Developers
     url: https://developer.oculus.com/resources/bp-rendering/
-    description: Rendering | Oculus Developers.
+    description: Oculus rendering best-practices guide.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: broken
     tags:
+      workflow:
+        - rendering
       output:
         - games
         - xr
+      platform:
+        - web
       tech:
         - xr
     deprecated: true
@@ -72,11 +92,15 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - win
+        - mac
       tech:
         - xr
+        - unity-plugin
   - name: Unity VR Video Recording Test
     url: https://github.com/aosoft/UnityVRVideoRecordingTest
-    description: Test project to record VR sessions. (#VIRTUAL-REALITY)
+    description: Sample Unity project for recording VR sessions.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -85,14 +109,17 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - win
       tech:
         - xr
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2019-06-21'
   - name: VR Development - Unity Learn
     url: https://learn.unity.com/pathway/vr-development
-    description: '``Unity`` guided learning Pathway will prepare you for a job in the VR industry |'
+    description: Unity Learn pathway preparing you for VR development jobs.
     entry_type: tutorial
     license: Free
     url_last_verified: '2026-06-01'
@@ -101,8 +128,13 @@ entries:
       output:
         - games
         - xr
+      skill:
+        - beginner
+      platform:
+        - web
       tech:
         - xr
+        - unity-plugin
   - name: Medium by Adobe
     url: https://www.oculus.com/experiences/rift/3257686387611106/
     description: Medium is a dedicated VR sculpting and painting package for users of Oculus headsets, capable of exporting models to DCC applications in OBJ or FBX format.
@@ -111,14 +143,19 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - sculpting
       output:
         - games
         - xr
+      platform:
+        - win
+        - vr
       tech:
         - xr
   - name: How to support GearVR and Google Cardboard in one Unity3D project
     url: http://ralphbarbagallo.com/2015/05/26/how-to-support-gear-vr-and-google-cardboard-in-one-unity3d-project/
-    description: How to support GearVR and Google Cardboard in one Unity3D project.
+    description: 'Tutorial: supporting Gear VR and Google Cardboard in one Unity project.'
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -126,11 +163,16 @@ entries:
       output:
         - games
         - xr
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - xr
+        - unity-plugin
   - name: Advanced VR Mechanics With Unity and the HTC Vive Part 1
     url: https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1
-    description: '[Mirror](https://archive.is/qHQXY) - [Mirror 2](https://web.archive.org/web/20170515082222/https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1)'
+    description: 'Tutorial: advanced VR mechanics in Unity with the HTC Vive (part 1).'
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -138,11 +180,16 @@ entries:
       output:
         - games
         - xr
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
         - xr
+        - unity-plugin
   - name: Advanced VR Mechanics With Unity and the HTC Vive Part 2
     url: https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2
-    description: '[Mirror](https://archive.is/9IyFG) - [Mirror 2](https://web.archive.org/web/20170609191610/https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2)'
+    description: 'Tutorial: advanced VR mechanics in Unity with the HTC Vive (part 2).'
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -150,12 +197,17 @@ entries:
       output:
         - games
         - xr
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
         - xr
+        - unity-plugin
   - name: North Star Kit
     url: https://www.smart-prototyping.com/Project-North-Star-Kit
-    description: The device is an implementation of Leap Motion's [Norh Star]() reference design - an open source specification for an AR headset with two 1600x1440 displays with 120 FPS, a visual field of 100 degr
-    entry_type: tool
+    description: Hardware kit implementing Leap Motion's open-source Project North Star AR headset reference design (dual 1600x1440 120 FPS displays).
+    entry_type: hardware
     license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -163,11 +215,13 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - win
       tech:
         - xr
-  - name: HOW TO CREATE A MINIMAP FOR VR IN UNITY
+  - name: How to Create a Minimap for VR in Unity
     url: https://somedudes.ch/2017/02/21/how-to-create-a-minimap-for-vr-in-unity/
-    description: '[Mirror](https://archive.is/Sy5NG)'
+    description: 'Tutorial: creating a minimap for VR in Unity.'
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -175,8 +229,13 @@ entries:
       output:
         - games
         - xr
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - xr
+        - unity-plugin
   - name: Three.js Editor
     url: https://threejs.org/editor/
     description: Online 3D editor with AR export capabilities.
@@ -188,12 +247,15 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - web
       tech:
         - xr
+        - opensource-alt
   - name: Ultraleap
     url: https://www.ultraleap.com/
-    description: Former Ultralhaptics & Leap Motion
-    entry_type: tool
+    description: Hand-tracking hardware and SDK (formerly Ultrahaptics and Leap Motion).
+    entry_type: hardware
     license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -201,11 +263,14 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - win
+        - mac
       tech:
         - xr
   - name: HTC Vive VR Input
     url: http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/
-    description: '[Mirror](https://archive.is/qCMTY) - [Mirror 2](https://web.archive.org/web/20170201100941/http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/)'
+    description: 'Tutorial: VR GUI input module for Unity with the HTC Vive.'
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -213,8 +278,13 @@ entries:
       output:
         - games
         - xr
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - xr
+        - unity-plugin
   - name: Oliver Kreylos's blog
     url: http://doc-ok.org/
     description: Good resource to get started learning about VR / stereo rendering.
@@ -225,6 +295,10 @@ entries:
       output:
         - games
         - xr
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - xr
   - name: A-Frame VR
@@ -238,6 +312,10 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - xr
         - opensource-alt
@@ -255,9 +333,12 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - win
       tech:
         - xr
         - opensource-alt
+        - unreal-plugin
     stale: true
     last_pushed: '2021-06-09'
   - name: Sceneform Android SDK Maintained
@@ -271,6 +352,8 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - android
       tech:
         - xr
         - opensource-alt
@@ -295,8 +378,8 @@ entries:
         - xr
   - name: 'ViroCore: A cross-platform AR/VR renderer'
     url: https://github.com/ViroCommunity/virocore
-    description: 'And [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)'
-    entry_type: community
+    description: Open-source cross-platform AR/VR renderer, with ViroReact for React Native.
+    entry_type: tool
     license: Open Source
     readme_tags:
       - AR/VR
@@ -304,6 +387,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+        - xr
+      platform:
+        - ios
+        - android
       tech:
         - opensource-alt
         - xr

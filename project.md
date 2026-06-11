@@ -334,6 +334,9 @@ All 11 code steps shipped. README split, per-section pages, llms.txt, footer, 40
 - Product Hunt launch.
 - SEO follow-up: GSC submission, `/seo-audit`, watch CrUX.
 
+### Searchability enrichment sweep (in progress, started 2026-06-11)
+Section-by-section deep enrichment of §01–§11 for filter-UI facets (§12 already done). Per section: fill missing `workflow`/`output`/`platform`/`skill` tags, add `license`, expand thin descriptions, fix junk/misfiled/wrong tags. Worst-first order: §10 → §07 → §02 → §04 → §06 → §08 → §01 → §09 → §05 → §11 → §03. **Done: §10** (platform 27%→80%) + **§07 COMPLETE** (7A 19 non-engine subsections; 7B `unity-engine-resources` 452 ent full hand-curation, chunk 09 over-cap split into 09+new 10; **7C `unreal-engine-resources` 2026-06-12, full hand-curation, 184 ent, platform 11→184, skill 0→13**). §07 whole now platform 811/812, skill 70, output 812. **NEXT: §02 modeling** (worst-first). One section per phase, validate + log, stop for user confirmation between sections. **Full operational handoff: `disregard/handoff-enrichment-sweep.md`.** Plan: `~/.claude/plans/see-the-last-few-optimized-zephyr.md`. Flagged: NeRF/GS paper dumps in §10 photogrammetry/gaussian-splatting overlap §09/papers (relocation+dedup for §09 phase); over-cap chunk `plugin-marketplaces/01` (51); vfxcamdb.com dupe across 2 §10 subsections; duplicate official UE YouTube channel in §07 `unreal-engine-resources/04` (two entries, same channel).
+
 ### Open work threads (from decisions.md)
 - Continuing curation: scientific-viz, legacy/defunct, compositing-learning, pre-production-tools subsections recently added (2026-05-22). Watch for similar gaps.
 - Cloud render farm services bundled into `pipeline-software` (2026-05-20).

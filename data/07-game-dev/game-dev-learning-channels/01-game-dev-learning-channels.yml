@@ -12,6 +12,8 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - intermediate
       platform:
         - web
   - name: Game Maker's Toolkit
@@ -27,6 +29,8 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - intermediate
       platform:
         - web
   - name: Sebastian Lague
@@ -35,10 +39,14 @@ entries:
     entry_type: channel
     license: Free
     tags:
+      workflow:
+        - creative-coding
       tech:
         - procedural
       output:
         - games
+      skill:
+        - intermediate
       platform:
         - web
     readme_tags:
@@ -59,6 +67,8 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - beginner
       platform:
         - web
   - name: Masahiro Sakurai
@@ -74,6 +84,8 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - intermediate
       platform:
         - web
   - name: Jonas Tyroller
@@ -89,6 +101,8 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - intermediate
       platform:
         - web
   - name: Thomas Brush
@@ -104,6 +118,8 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - intermediate
       platform:
         - web
   - name: Aarthificial
@@ -117,8 +133,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      skill:
+        - advanced
       platform:
         - web
   - name: t3ssel8r
@@ -132,8 +152,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
       output:
         - games
+      skill:
+        - advanced
       platform:
         - web
   - name: Acerola
@@ -147,8 +171,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+        - rendering
       output:
         - games
+      skill:
+        - advanced
       platform:
         - web
   - name: Freya Holmer
@@ -162,8 +191,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      skill:
+        - advanced
       platform:
         - web
   - name: SimonDev
@@ -177,8 +210,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      skill:
+        - advanced
       platform:
         - web
     deprecated: true
@@ -192,6 +229,8 @@ entries:
         - animation
       output:
         - games
+      skill:
+        - intermediate
       platform:
         - web
     readme_tags:
@@ -210,18 +249,29 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - godot
   - name: Lincoln Margison
     url: https://www.youtube.com/@LincolnMargison
     description: Procedural animation tutorials. Step by step walkthroughs for game dev rigging and motion.
     entry_type: channel
     license: Free
     tags:
+      workflow:
+        - animation
+        - rigging
       output:
         - games
+      skill:
+        - intermediate
       platform:
         - web
     url_last_verified: '2026-06-01'
@@ -234,8 +284,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+        - creative-coding
       output:
         - games
+      skill:
+        - advanced
       platform:
         - web
   - name: The Cherno Project
@@ -249,23 +304,32 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       platform:
         - web
       output:
         - games
+      skill:
+        - advanced
   - name: 📺 Learning All IN ORDER ~ Game Dev Cave
     url: https://www.youtube.com/@thegamedevcave
-    description: '[animation,character,GAS] - 160 vids: newbie, blueprints, quests, C++.'
+    description: 'Unreal game-dev tutorial channel: blueprints, C++, quests, and GAS, ordered for beginners (160+ videos).'
     entry_type: channel
     license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
-        - xr
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - unreal-plugin
   - name: Libgdx Wiki
     url: https://libgdx.com/wiki/
     description: Libgdx documentation wiki (includes Texture Packer page).
@@ -277,3 +341,7 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - web

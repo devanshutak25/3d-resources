@@ -7,10 +7,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - photogrammetry
         - opensource-alt
         - gaussian-splatting
+        - gpu
     readme_tags:
       - gaussian-splatting
       - opensource
@@ -22,10 +30,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - photogrammetry
         - opensource-alt
         - gaussian-splatting
+        - gpu
     readme_tags:
       - gaussian-splatting
       - '360'
@@ -45,7 +61,7 @@ entries:
       - human
   - name: 'Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video'
     url: https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/
-    description: Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf) | [bibtex](./NeRF-and-Beyond.bib#L283-L289) <!---Tretschk20arxiv_NR-NeRF-->
+    description: Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -154,7 +170,7 @@ entries:
       - unbounded
   - name: Neural Scene Graphs for Dynamic Scenes
     url: https://light.princeton.edu/neural-scene-graphs/
-    description: Ost et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L353-L358) <!---Ost20arxiv_NeuralSceneGraphs-->
+    description: Ost et al., CVPR 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -167,7 +183,7 @@ entries:
       - scene-graph
   - name: Neural Sparse Voxel Fields
     url: https://lingjie0206.github.io/papers/NSVF/
-    description: Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF) | [bibtex](./NeRF-and-Beyond.bib#L135-L141) <!---Liu20neurips_sparse_nerf-->
+    description: Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -181,7 +197,7 @@ entries:
       - voxel
   - name: Color-NeRF
     url: https://liquidammonia.github.io/color-nerf/assets/paper.pdf
-    description: '[🌐 Project Page](https://liquidammonia.github.io/color-nerf/)'
+    description: NeRF research paper on color and appearance modelling.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -194,7 +210,7 @@ entries:
       - paper
   - name: 'pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis'
     url: https://marcoamonteiro.github.io/pi-GAN-website/
-    description: Chan et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L24-L30) <!---Chan20arxiv_piGAN-->
+    description: Chan et al., CVPR 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -207,7 +223,7 @@ entries:
       - gan
   - name: NeRF (paper site)
     url: https://www.matthewtancik.com/nerf
-    description: Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
+    description: Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -235,7 +251,7 @@ entries:
       - large-scale
   - name: Awesome-3DGS Paper List
     url: https://mrnerf.github.io/awesome-3D-gaussian-splatting/
-    description: '[**Contribute**](CONTRIBUTING.md) | [**MrNeRF**](https://www.mrnerf.com)'
+    description: Curated list of 3D Gaussian Splatting papers, maintained by MrNeRF.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -262,7 +278,7 @@ entries:
       - pose
   - name: 'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections'
     url: https://nerf-w.github.io/
-    description: Martin-Brualla et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L152-L158) <!---MartinBrualla20arxiv_nerfw-->
+    description: Martin-Brualla et al., CVPR 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -275,7 +291,7 @@ entries:
       - in-the-wild
   - name: Deformable Neural Radiance Fields
     url: https://nerfies.github.io/
-    description: Park et al., Arxiv 2020 | [github](https://github.com/google/nerfies) | [bibtex](./NeRF-and-Beyond.bib#L206-L212) <!---Park20arxiv_nerfies-->
+    description: Park et al., Arxiv 2020 | [github](https://github.com/google/nerfies)
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -332,7 +348,7 @@ entries:
     deprecated: true
   - name: 'NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis'
     url: https://people.eecs.berkeley.edu/~pratul/nerv/
-    description: Srinivasan et al. CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L260-L266) <!---Srinivasan20arxiv_NeRV-->
+    description: Srinivasan et al. CVPR 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -359,7 +375,7 @@ entries:
       - pose
   - name: Portrait Neural Radiance Fields from a Single Image
     url: https://portrait-nerf.github.io/
-    description: Gao et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L95-L101) <!---Gao20arxiv_pNeRF-->
+    description: Gao et al., Arxiv 2020
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -438,9 +454,9 @@ entries:
     readme_tags:
       - nerf
       - disentangled
-  - name: overview of Gaussian Splatting
+  - name: Overview of Gaussian Splatting
     url: https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362
-    description: overview of Gaussian Splatting.
+    description: Towards Data Science article. End-to-end overview of Gaussian Splatting.
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -453,7 +469,7 @@ entries:
       - article
   - name: Space-time Neural Irradiance Fields for Free-Viewpoint Video
     url: https://video-nerf.github.io/
-    description: Xian et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L299-L305) <!---Xian20arxiv_stnif-->
+    description: Xian et al., CVPR 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -534,7 +550,7 @@ entries:
       - point-based
   - name: Intro to gaussian splatting (and Unity plugin)
     url: https://www.xuanprada.com/blog/2023/10/22/intro-to-gaussian-splatting
-    description: Intro to gaussian splatting (and Unity plugin).
+    description: Blog walkthrough of Gaussian Splatting with a Unity plugin demo.
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -548,7 +564,7 @@ entries:
       - unity
   - name: 'iNeRF: Inverting Neural Radiance Fields for Pose Estimation'
     url: http://yenchenlin.me/inerf/
-    description: Yen-Chen et al. IROS 2021 | [bibtex](./NeRF-and-Beyond.bib#L321-L327) <!---YenChen20arxiv_iNeRF-->
+    description: Yen-Chen et al. IROS 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -574,7 +590,7 @@ entries:
       - alignment
   - name: Neural Radiance Flow for 4D View Synthesis and Video Processing
     url: https://yilundu.github.io/nerflow/
-    description: Du et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L79-L85) <!---Du20arxiv_nerflow-->
+    description: Du et al., Arxiv 2020
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -587,7 +603,7 @@ entries:
       - 4d
   - name: Gaussian Splats Town Hall - Part 2
     url: https://www.youtube.com/@pixelreconstruct
-    description: Gaussian Splats Town Hall - Part 2.
+    description: PixelReconstruct YouTube. Community town hall on Gaussian Splatting tooling.
     entry_type: channel
     url_last_verified: '2026-06-01'
     url_status: ok

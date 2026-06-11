@@ -5,10 +5,17 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
     readme_tags:
       - Unity
       - Open Source
@@ -20,10 +27,17 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
     readme_tags:
       - Unity
       - High-Perf
@@ -35,8 +49,15 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
       tech:
         - opensource-alt
     readme_tags:
@@ -46,43 +67,59 @@ entries:
     url_status: ok
   - name: 'GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course'
     url: https://www.gamedev.tv/p/unrealmultiplayer
-    description: 'GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course.'
+    description: Course on building Unreal Engine multiplayer games in C++.
     license: Paid
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      skill:
+        - intermediate
+      platform:
+        - web
+      tech:
+        - unreal-plugin
   - name: Forge Networking Remastered
     url: https://github.com/BeardedManStudios/ForgeNetworkingRemastered
-    description: In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine.
+    description: Free open-source multiplayer networking system with good Unity integration.
     license: Open Source
-    entry_type: reference
-    notes: 'FLAG: entry_type may better fit tool (GitHub source SDK).'
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
     archived: true
     stale: true
     last_pushed: '2022-08-15'
   - name: Unity Multiplayer Packages
     url: https://github.com/Unity-Technologies/multiplayer
-    description: Unity multiplayer packages and samples. ![Official](UnityResource16x16.png)
+    description: Unity multiplayer packages and samples.
     license: Open Source
     entry_type: reference
-    notes: 'FLAG: entry_type may better fit tool (packages/samples repo).'
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2022-12-20'
   - name: Basic Multiplayer Unity
@@ -90,14 +127,18 @@ entries:
     description: Fast-Paced UDP Client-Server implementation.
     license: Open Source
     entry_type: reference
-    notes: 'FLAG: sample/demo repo. Could be tutorial.'
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2020-02-20'
   - name: Gambetta_Networked Demo
@@ -105,29 +146,35 @@ entries:
     description: 'Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta''s Multiplayer Network Demo in Unity C# as Networked using Lidgren Network.'
     license: Open Source
     entry_type: reference
-    notes: 'FLAG: sample/demo repo. Could be tutorial.'
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2018-01-12'
   - name: Bomber
     url: https://github.com/JanSeliv/Bomber
     description: Open-source Bomberman multiplayer game made in Unreal Engine 5.
     license: Open Source
-    entry_type: reference
-    notes: 'FLAG: open-source sample game. Could be inspiration.'
+    entry_type: inspiration
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - unreal-plugin
   - name: Colyseus Unreal
     url: https://github.com/charisma-ai/colyseus-unreal
     description: Colyseus Multiplayer SDK for Unreal Engine
@@ -136,14 +183,21 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unreal-plugin
   - name: Mirror (GitHub)
     url: https://github.com/vis2k/Mirror
     description: A community replacement for Unity's abandoned UNET Networking System.
-    entry_type: community
+    entry_type: tool
     license: Open Source
     readme_tags:
       - Unity
@@ -151,8 +205,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       tech:
         - opensource-alt
         - unity-plugin
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux

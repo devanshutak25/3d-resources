@@ -11,6 +11,24 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-12 00:05
+**Prompt:**
+> read the handoff document and make a place to do the next chunk of work. Ask me question if needed
+
+**Answered:** Read handoff; re-asked the §3 open decision. User chose B (full hand-curation), scope 7B Unity only. Wrote plan, starting 7B chunk 01.
+
+### 2026-06-11 23:55
+**Prompt:**
+> please continue [then, later:] pause work for now, write a complete handoff document for the next session to continue where we left off. All decisions deferred but documented in the handoff md file
+
+**Answered:** Continued the sweep into §07 game-dev. Completed 7A (19 non-engine subsections, ~290 ent): platform + skill facets, fixed truncated/link-salad descriptions, retypes, junk strips. §07 platform ~36→203, skill ~4→47. Validation passes. 636 unity/unreal entries deferred (open A/B/C decision). Paused; wrote full handoff to `disregard/handoff-enrichment-sweep.md`. Updated decisions.md + project.md.
+
+### 2026-06-11 23:30
+**Prompt:**
+> see the last few changes from the files in the memeory folder. I want to do something similar. I want to make the entries more searchable, add more relevant tags where necessary. Do an audit please to check where things can be fleshed out even more
+
+**Answered:** Audited §01–§11 (§12 already enriched). Found low filter-facet coverage catalog-wide (workflow 35%, platform 40%, output 48%, skill 1.6%). Planned section-by-section deep enrichment (plan approved). Phase 1 = §10 tools-pipeline (all 16 chunks, 325 entries): filled platform/workflow/output facets, fixed entry_types (Gumroad products marketplace→plugin/asset-source, USD reference→tool/plugin), added license, rewrote thin/junk descriptions, stripped bibtex/.bib + badge junk, fixed mangled names + wrong tags. §10 platform 27%→80%. Validation passes. Stopped for confirmation before §07. See decisions.md.
+
 ### 2026-06-11 22:30
 **Prompt:**
 > add https://www.lightmap.co.uk/
@@ -323,3 +341,7 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
   - Already covered: both Sprout Lands packs (asset + UI) exist in 01-assets/game-assets. Asked user whether to leave, consolidate, or add profile.
 - **Prompt:** add as game dev assets, pixel art
   - Added Cup Nooble creator page to 01-assets/game-assets (Pixel Art, Free). Validation passed.
+
+## 2026-06-12
+- **Prompt:** Make plan to do the next chunk of work
+  - Planned + started §07 sub-phase 7C (unreal-engine-resources, 184 ent). User chose approach B (full hand-curation). Plan approved.

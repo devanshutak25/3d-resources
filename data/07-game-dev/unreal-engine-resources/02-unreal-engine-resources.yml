@@ -1,7 +1,7 @@
 entries:
   - name: UE5 Styleguide
     url: https://github.com/Allar/ue5-style-guide
-    description: Guidelines for making Unreal Engine projects more consistent.
+    description: Guidelines for keeping Unreal Engine projects consistent.
     entry_type: reference
     license: Open Source
     readme_tags:
@@ -12,6 +12,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - unreal-plugin
         - opensource-alt
@@ -19,7 +21,7 @@ entries:
     last_pushed: '2023-10-05'
   - name: SCUE5 Plugin
     url: https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
-    description: SCUE updated to Unreal 5.
+    description: Steam Core updated for Unreal Engine 5.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -30,13 +32,17 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
     archived: true
   - name: ALS Refactored
     url: https://github.com/Sixze/ALS-Refactored
-    description: Completely reworked and improved C++ version of Advanced Locomotion System V4.
+    description: Reworked C++ version of Advanced Locomotion System V4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -47,12 +53,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: GASP ALS
     url: https://github.com/PolygonHive/GASP-ALS
-    description: Game Animation Sample with ALS Layering
+    description: Game Animation Sample with ALS locomotion layering.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -63,12 +73,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: LeapUnreal
     url: https://github.com/leapmotion/leapunreal
-    description: Leap Motion SDK for the Unreal Engine
+    description: Leap Motion hand-tracking SDK for Unreal Engine.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -79,12 +93,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Myo Ue4
     url: https://github.com/getnamo/myo-ue4
-    description: Myo Plugin for Unreal Engine 4
+    description: Myo armband input plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -95,6 +113,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -103,7 +125,7 @@ entries:
     last_pushed: '2021-05-26'
   - name: Swipe
     url: https://github.com/getsetgames/Swipe
-    description: A plugin for Unreal Engine 4 that exposes swipes on mobile devices as events in blueprint
+    description: Exposes mobile swipe gestures as Blueprint events in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -114,6 +136,9 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - ios
+        - android
       tech:
         - unreal-plugin
         - opensource-alt
@@ -121,7 +146,7 @@ entries:
     last_pushed: '2020-03-20'
   - name: Morphs Player
     url: https://github.com/JanSeliv/MorphsPlayer
-    description: A plugin that allows to play Morph Targets directly on the animation track of your skeletal mesh.
+    description: Play morph targets directly on a skeletal mesh animation track.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -132,12 +157,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Ps Web Server
     url: https://github.com/PushkinStudio/PsWebServer
-    description: Civet web server integration plugin for Unreal Engine 4
+    description: CivetWeb web server integration plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -148,12 +177,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Ps Replay Kit
     url: https://github.com/PushkinStudio/PsReplayKit
-    description: Unreal Engine 4 plugin for iOS to record or stream video from the screen, and audio from the app and microphone
+    description: iOS plugin to record or stream screen video plus app and mic audio.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -164,6 +197,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - ios
       tech:
         - unreal-plugin
         - opensource-alt
@@ -171,7 +206,7 @@ entries:
     last_pushed: '2018-11-28'
   - name: Ps Facebook Mobile
     url: https://github.com/PushkinStudio/PsFacebookMobile
-    description: Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
+    description: Facebook authorization for mobile in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -182,12 +217,15 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - ios
+        - android
       tech:
         - unreal-plugin
         - opensource-alt
   - name: UE4 Game Lift Client SDK
     url: https://github.com/YetiTech-Studios/UE4GameLiftClientSDK
-    description: Gamelift Client SDK for Unreal Engine 4
+    description: AWS GameLift client SDK for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -198,6 +236,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -205,7 +247,7 @@ entries:
     last_pushed: '2020-01-25'
   - name: Acl Ue4 Plugin
     url: https://github.com/nfrechette/acl-ue4-plugin
-    description: The official Animation Compression Library Unreal Engine 4 plugin
+    description: Official Animation Compression Library plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -216,6 +258,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -223,7 +269,7 @@ entries:
     last_pushed: '2023-12-09'
   - name: KawaiiPhysics
     url: https://github.com/pafuhana1213/KawaiiPhysics
-    description: Simple fake Physics for UnrealEngine4
+    description: Simple fake secondary-motion physics for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -234,12 +280,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: UnrealLive2D
     url: https://github.com/Arisego/UnrealLive2D
-    description: UE4 plugin for live2d model
+    description: Render Live2D models in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -250,13 +300,17 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
     archived: true
   - name: Articy Importer For Unreal
     url: https://github.com/ArticySoftware/ArticyImporterForUnreal
-    description: Articy Importer plugin for the Unreal Engine 4.
+    description: Imports articy:draft narrative data into Unreal Engine.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -267,12 +321,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Cesium for Unreal
     url: https://github.com/CesiumGS/cesium-unreal
-    description: Bringing the 3D geospatial ecosystem to Unreal Engine
+    description: Brings 3D geospatial tiles and globes into Unreal Engine.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -283,12 +341,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Realtime Mesh Component
     url: https://github.com/TriAxis-Games/RealtimeMeshComponent
-    description: Unreal Engine 5 plugin component for rendering runtime generated content.
+    description: Unreal Engine 5 component for rendering runtime-generated meshes.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -299,12 +361,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: PluginTemplate
     url: https://github.com/Sythenz/PluginTemplate
-    description: A basic Unreal Template with Editor and Runtime Module.
+    description: Starter Unreal plugin template with editor and runtime modules.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -315,6 +381,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -322,7 +392,7 @@ entries:
     last_pushed: '2024-05-16'
   - name: My SQL Connector UE4 Plugin
     url: https://github.com/KhArtNJava/MySQLConnectorUE4Plugin
-    description: MySQL Database Connector Plugin for Unreal Engine 4
+    description: MySQL database connector plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -333,6 +403,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -340,7 +414,7 @@ entries:
     last_pushed: '2022-12-28'
   - name: SQLite3UE4
     url: https://github.com/KhArtNJava/SQLite3UE4
-    description: SQLite3 Database Plugin for Unreal Engine 4
+    description: SQLite3 database plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -351,6 +425,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -358,7 +436,7 @@ entries:
     last_pushed: '2016-06-18'
   - name: UE4 Aurora Effect
     url: https://github.com/Hideous/UE4-AuroraEffect
-    description: A raymarched aurora borealis effect for Unreal 4
+    description: Raymarched aurora borealis effect for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -369,6 +447,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -376,7 +458,7 @@ entries:
     last_pushed: '2020-12-16'
   - name: NiagaraUIRenderer
     url: https://github.com/SourySK/NiagaraUIRenderer
-    description: Niagara UI Renderer | Free Plugin for Unreal Engine
+    description: Render Niagara particle systems inside UMG UI widgets.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -387,12 +469,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: UE5 Stylized Post Process
     url: https://github.com/ymt3d/UE5-StylizedPostProcess
-    description: Stylized Post Process for Unreal Engine 5
+    description: Stylized post-process effects for Unreal Engine 5.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -403,12 +489,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: OceanProject
     url: https://github.com/UE4-OceanProject/OceanProject
-    description: An Ocean Simulation project for Unreal Engine 4
+    description: Ocean simulation project for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -419,6 +509,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -426,7 +520,7 @@ entries:
     last_pushed: '2021-05-26'
   - name: Runtime Mesh Component
     url: https://github.com/Koderz/RuntimeMeshComponent
-    description: Unreal Engine 4 plugin component for rendering runtime generated content
+    description: Unreal Engine 4 component for rendering runtime-generated meshes.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -437,12 +531,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Greebler
     url: https://github.com/alexismorin/Greebler
-    description: UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
+    description: Auto-scatters rubble and greeble detail across a scene. UE4 and Unity.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -453,6 +551,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -460,7 +562,7 @@ entries:
     last_pushed: '2019-05-13'
   - name: cashgenUE
     url: https://github.com/midgen/cashgenUE
-    description: Runtime Procedural Terrain Generator for UnrealEngine
+    description: Runtime procedural terrain generator for Unreal Engine.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -471,12 +573,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: OpenLand
     url: https://github.com/GameDev4K/unreal-open-land
-    description: An OpenSource Landscape Auto Material
+    description: Open source landscape auto-material for Unreal Engine.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -487,12 +593,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: DungeonGenerator
     url: https://github.com/orfeasel/DungeonGenerator
-    description: An Unreal Engine 4 Dungeon Generator
+    description: Procedural dungeon generator for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -503,12 +613,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: UE4 Custom Gravity Plugin
     url: https://github.com/mhousse1247/UE4-CustomGravityPlugin
-    description: 'Unreal Engine 4 : Custom Gravity Plugin'
+    description: Custom directional gravity plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -519,12 +633,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: GASShooter
     url: https://github.com/tranek/GASShooter
-    description: Advanced FPS/TPS Sample Project for Unreal Engine 4's GameplayAbilitySystem plugin
+    description: Advanced FPS/TPS sample project for the Gameplay Ability System.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -535,12 +653,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Inventory + Equipment System
     url: https://github.com/angelhodar/OpenRPG_Inventory
-    description: Generic and fully featured multipurpose inventory container and equipment system for Unreal Engine 4
+    description: Inventory container and equipment system for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -551,6 +673,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -558,7 +684,7 @@ entries:
     last_pushed: '2021-03-04'
   - name: Horizontal 360 Radar
     url: https://github.com/angelhodar/OpenRPG_RadarSystem
-    description: Horizontal 360º rich featured radar system, typically seen in games like Skyrim, for Unreal Engine 4
+    description: 360-degree radar system (Skyrim-style) for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -569,6 +695,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -576,7 +706,7 @@ entries:
     last_pushed: '2023-11-12'
   - name: Stats + Attributes
     url: https://github.com/angelhodar/OpenRPG_Stats
-    description: A stats, attributes, leveling system and much more for Unreal Engine 4!
+    description: Stats, attributes, and leveling system for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -587,6 +717,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -594,7 +728,7 @@ entries:
     last_pushed: '2021-03-04'
   - name: Ps Real Vehicle
     url: https://github.com/PushkinStudio/PsRealVehicle
-    description: PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
+    description: Simple force-driven vehicle simulation plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -605,6 +739,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -612,7 +750,7 @@ entries:
     last_pushed: '2024-02-26'
   - name: Weapon Trace Unreal
     url: https://github.com/getnamo/WeaponTrace-Unreal
-    description: WeaponTracing plugin for reliable melee combat.
+    description: Weapon tracing plugin for reliable melee combat hits.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -623,12 +761,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Ghost Mesh Plugin
     url: https://github.com/NoahZuo/GhostMeshPlugin
-    description: This is a UE4 plugin that can create ghost mesh in Unreal Engine 4
+    description: Creates ghost/silhouette mesh effects in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -639,6 +781,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -646,7 +792,7 @@ entries:
     last_pushed: '2017-03-11'
   - name: CensoredUE4
     url: https://github.com/BitReign/CensoredUE4
-    description: World space area censoring solution for Unreal Engine 4. It is using blueprint actor for censoring and can be attached to any other blueprint actor like characters
+    description: World-space area censoring (mosaic/blur) attachable to any actor.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -657,6 +803,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -664,7 +814,7 @@ entries:
     last_pushed: '2020-11-26'
   - name: unrealcv
     url: https://github.com/unrealcv/unrealcv
-    description: 'UnrealCV: Connecting Computer Vision to Unreal Engine'
+    description: Connects computer vision research to Unreal Engine.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -675,12 +825,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: OpenCL.uplugin
     url: https://github.com/kwonoh/OpenCL.uplugin
-    description: OpenCL Plugin for Unreal Engine 4
+    description: OpenCL GPU compute plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -691,6 +845,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -699,7 +857,7 @@ entries:
     last_pushed: '2015-05-28'
   - name: Runtime Files Downloader
     url: https://github.com/gtreshchev/RuntimeFilesDownloader
-    description: Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
+    description: Download files over HTTP/HTTPS at runtime in Unreal Engine.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -710,13 +868,17 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
     archived: true
   - name: Runtime Audio Importer
     url: https://github.com/gtreshchev/RuntimeAudioImporter
-    description: Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
+    description: Import audio of various formats at runtime in Unreal Engine.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -727,13 +889,17 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
     archived: true
   - name: Runtime Mesh Loader
     url: https://github.com/Chrizey91/RuntimeMeshLoader
-    description: A pluging for Unreal Engine 4, which allows to import meshes during runtime.
+    description: Import meshes at runtime in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -744,6 +910,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -751,7 +921,7 @@ entries:
     last_pushed: '2023-08-31'
   - name: UE4 BYG Localization
     url: https://github.com/BraceYourselfGames/UE4-BYGLocalization
-    description: Simple CSV localization system for Unreal Engine 4
+    description: Simple CSV-based localization system for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -762,6 +932,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -769,7 +943,7 @@ entries:
     last_pushed: '2022-03-26'
   - name: Tensorflow Ue4
     url: https://github.com/getnamo/tensorflow-ue4
-    description: TensorFlow plugin for Unreal Engine 4
+    description: TensorFlow machine-learning plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -780,12 +954,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: UELlama
     url: https://github.com/mika314/UELlama
-    description: Llama plugin for Unreal Engine 5
+    description: llama.cpp LLM inference plugin for Unreal Engine 5.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -796,12 +974,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: MobileUtils
     url: https://github.com/gameDNAstudio/MobileUtils
-    description: A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
+    description: Integrate common mobile utilities into Unreal Engine 4 projects.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -812,6 +994,9 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - ios
+        - android
       tech:
         - unreal-plugin
         - opensource-alt
@@ -819,7 +1004,7 @@ entries:
     last_pushed: '2019-12-26'
   - name: AndroidNative
     url: https://github.com/gtreshchev/AndroidNative
-    description: Android Native plugin for Unreal Engine that makes it easy to call Java functions via JNI.
+    description: Call Java functions via JNI from Unreal Engine on Android.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -830,13 +1015,15 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - android
       tech:
         - unreal-plugin
         - opensource-alt
     archived: true
   - name: mod.io
     url: https://github.com/modio/modio-ue
-    description: Unreal Engine Plugin for easily integrating mod.io into your game - the UGC management service for game developers.
+    description: Integrate mod.io user-generated-content management into your Unreal game.
     entry_type: plugin
     license: Open Source
     readme_tags:
@@ -847,6 +1034,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt

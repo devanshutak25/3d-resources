@@ -5,11 +5,17 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - creative-coding
       tech:
         - physics
         - opensource-alt
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - 3D Physics
       - AAA-proven
@@ -21,11 +27,17 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - creative-coding
       tech:
         - physics
         - opensource-alt
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - 2D Physics
       - Erin Catto
@@ -37,11 +49,18 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - creative-coding
       tech:
         - physics
         - opensource-alt
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
     readme_tags:
       - Rust
       - 2D/3D
@@ -55,8 +74,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - physics
         - opensource-alt
@@ -68,26 +93,38 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - physics
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2023-09-01'
   - name: UnrealJolt
     url: https://github.com/Yadhu-S/UnrealJolt
     description: Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
     license: Open Source
-    entry_type: reference
+    entry_type: plugin
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - physics
         - opensource-alt
+        - unreal-plugin
   - name: Cannon.js
     url: http://schteppe.github.io/cannon.js/
     description: Lightweight and simple 3D physics engine for the web.
@@ -96,7 +133,11 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - web
       tech:
         - physics

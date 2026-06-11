@@ -1,7 +1,7 @@
 entries:
   - name: Unreal Engine Advanced Functions
     url: https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions
-    description: Handy functions by [Mridul Sharma](https://www.instagram.com/mridul_sarmah/).
+    description: Library of handy Blueprint utility functions for Unreal Engine.
     license: Open Source
     entry_type: reference
     readme_tags:
@@ -12,12 +12,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: blueprintUE
     url: https://blueprintue.com/
-    description: Blueprint sharing.
+    description: Paste and share Unreal Blueprint nodes online.
     license: Free
     entry_type: community
     readme_tags:
@@ -32,7 +36,7 @@ entries:
         - web
   - name: VS Code Setup for UE
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-code-for-unreal-engine
-    description: Official VS Code setup guide.
+    description: Official guide to setting up VS Code for Unreal C++ work.
     license: Free
     entry_type: reference
     readme_tags:
@@ -43,9 +47,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Medieval Houses (Marketplace)
     url: https://unrealengine.com/marketplace/en-US/product/modular-medieval-house-pack
-    description: Modular medieval house pack.
+    description: Modular medieval house asset pack.
     license: Paid
     entry_type: asset-source
     readme_tags:
@@ -56,9 +62,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
   - name: Japanese Village (Marketplace)
     url: https://unrealengine.com/marketplace/en-US/product/japanese-medieval-village
-    description: Japanese medieval village pack.
+    description: Japanese medieval village asset pack.
     license: Paid
     entry_type: asset-source
     readme_tags:
@@ -69,9 +79,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
   - name: UE4 Env. project
     url: https://github.com/UE4-OceanProject/Environment-Project
-    description: An Environment Simulation project for Unreal Engine 4.
+    description: Open environment simulation project (day/night, weather) for Unreal Engine 4.
     license: Open Source
     entry_type: reference
     readme_tags:
@@ -82,12 +96,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Working with Data (Unreal Engine Learning)
     url: https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more#howtomakeinstanceobjects
-    description: Working with Data (Unreal Engine Learning).
+    description: Tutorial on data tables, data assets, and UProperty specifiers.
     license: Free
     entry_type: tutorial
     readme_tags:
@@ -98,9 +116,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: Tom Looman UE5 Tutorials
     url: https://www.tomlooman.com/
-    description: Various Unreal Engine focused tutorials.
+    description: Unreal C++ and gameplay tutorials, courses, and articles.
     license: Freemium
     entry_type: tutorial
     readme_tags:
@@ -113,9 +135,11 @@ entries:
         - games
       platform:
         - web
+      skill:
+        - intermediate
   - name: Alex Forsythe
     url: https://www.youtube.com/@AlexForsythe
-    description: '[Game Framework](https://www.youtube.com/watch?v=IaU2Hue-ApI), [Replication](https://www.youtube.com/watch?v=JOJP0CvpB8w) Tutorials by Alex Forsythe** (🆓 🥇)'
+    description: Deep-dive tutorials on Unreal's game framework and replication.
     license: Free
     entry_type: channel
     readme_tags:
@@ -128,9 +152,11 @@ entries:
         - games
       platform:
         - web
+      skill:
+        - intermediate
   - name: Code Like Me
     url: https://www.youtube.com/@CodeLikeMe
-    description: A wide variety of Unreal Engine-focused tutorials.
+    description: A wide variety of Unreal Engine tutorials.
     license: Free
     entry_type: channel
     readme_tags:
@@ -143,9 +169,11 @@ entries:
         - games
       platform:
         - web
+      skill:
+        - beginner
   - name: Gorka Games
     url: https://www.youtube.com/@GorkaGames
-    description: Tons of great content Gorka creates lengthy tutorial series, short tutorials and covers Unreal Engine news.
+    description: Long tutorial series, short tutorials, and Unreal Engine news.
     license: Free
     entry_type: channel
     readme_tags:
@@ -158,9 +186,11 @@ entries:
         - games
       platform:
         - web
+      skill:
+        - beginner
   - name: Mathew Wadstein
     url: https://www.youtube.com/@MathewWadsteinTutorials
-    description: Easily one of the most useful channels for Unreal Engine. Videos going over just about every major class and Blueprint node.
+    description: Short videos covering nearly every Unreal class and Blueprint node.
     license: Free
     entry_type: channel
     readme_tags:
@@ -173,6 +203,8 @@ entries:
         - games
       platform:
         - web
+      skill:
+        - intermediate
   - name: Ryan Laley
     url: https://www.youtube.com/@RyanLaley
     description: Primarily Blueprint-based Unreal Engine tutorials.
@@ -188,9 +220,11 @@ entries:
         - games
       platform:
         - web
+      skill:
+        - beginner
   - name: Virtus Learning Hub
     url: https://www.youtube.com/channel/UCz-eYJAUgSE-mqzKtit7m9g
-    description: Unreal Engine-focused tutorials with several lengthy courses.
+    description: Unreal Engine tutorials with several long course series.
     license: Free
     entry_type: channel
     readme_tags:
@@ -203,9 +237,11 @@ entries:
         - games
       platform:
         - web
+      skill:
+        - beginner
   - name: 'Unreal Docs: Gameplay Ability System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine
-    description: Unreal Engine Documentation.
+    description: 'Docs for the Gameplay Ability System (GAS): abilities, attributes, and effects.'
     license: Free
     entry_type: reference
     readme_tags:
@@ -216,9 +252,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Gameplay Targeting System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-targeting-system-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for the Gameplay Targeting System.
     license: Free
     entry_type: reference
     readme_tags:
@@ -229,9 +267,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Game Features And Modular Gameplay'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/game-features-and-modular-gameplay-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for Game Features and Modular Gameplay plugins.
     license: Free
     entry_type: reference
     readme_tags:
@@ -242,9 +282,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: State Tree'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/state-tree-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for State Tree, a hierarchical state machine for AI and logic.
     license: Free
     entry_type: reference
     readme_tags:
@@ -255,9 +297,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Smart Objects'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/smart-objects-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for Smart Objects, registerable interaction points for AI.
     license: Free
     entry_type: reference
     readme_tags:
@@ -268,9 +312,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Mass Entity'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/mass-entity-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for Mass Entity, Unreal's ECS framework for large agent counts.
     license: Free
     entry_type: reference
     readme_tags:
@@ -281,9 +327,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: InstancedStruct'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Utilities/InstancedStruct
-    description: Isn't available yet!
+    description: API reference for InstancedStruct, a container for instanced UStruct data.
     license: Free
     entry_type: reference
     readme_tags:
@@ -294,9 +342,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Gameplay Camera System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-camera-system
-    description: Unreal Engine Documentation.
+    description: Docs for the Gameplay Camera System.
     license: Free
     entry_type: reference
     readme_tags:
@@ -307,9 +357,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Mutable Overview'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/mutable-overview-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for Mutable, runtime character customization and mesh generation.
     license: Free
     entry_type: reference
     readme_tags:
@@ -320,9 +372,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Procedural Content Generation Framework'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation--framework-in-unreal-engine
-    description: '& [Electric Dream Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-in-electric-dreams) (🆓 🥇)'
+    description: 'Docs for the Procedural Content Generation (PCG) framework. See also [Electric Dreams PCG](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-in-electric-dreams).'
     license: Free
     entry_type: reference
     readme_tags:
@@ -333,11 +387,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - procedural
   - name: 'Unreal Docs: Modeling And Geometry Scripting'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/modeling-and-geometry-scripting-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for in-editor modeling tools and Geometry Script.
     license: Free
     entry_type: reference
     readme_tags:
@@ -348,9 +404,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Scriptable Tools System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/scriptable-tools-system-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for the Scriptable Tools System (Blueprint-authored editor tools).
     license: Free
     entry_type: reference
     readme_tags:
@@ -361,9 +419,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Water System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/water-system-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for the Water System (rivers, lakes, oceans).
     license: Free
     entry_type: reference
     readme_tags:
@@ -374,9 +434,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Metahuman Documentation'
     url: https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-documentation
-    description: Unreal Engine Documentation.
+    description: Docs for MetaHuman creation and integration.
     license: Free
     entry_type: reference
     readme_tags:
@@ -387,9 +449,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Unreal Docs: Motion Design'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/motion-design-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for Motion Design, Unreal's broadcast and motion-graphics toolset.
     license: Free
     entry_type: reference
     readme_tags:
@@ -401,9 +465,11 @@ entries:
       output:
         - games
         - motion-graphics
+      platform:
+        - web
   - name: 'Unreal Docs: Umg Viewmodel'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-viewmodel-for-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for UMG ViewModel (MVVM-style UI data binding).
     license: Free
     entry_type: reference
     readme_tags:
@@ -414,9 +480,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 📄 Recommended Asset Naming Conventions ~ epicgames
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects
-    description: Naming folders & files.
+    description: Official naming conventions for folders and asset files.
     license: Free
     entry_type: reference
     readme_tags:
@@ -427,9 +495,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'GameDev.tv Unreal 5.0 C++ Developer: Learn C++ and Make Video Games'
     url: https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
-    description: 'GameDev.tv Unreal 5.0 C++ Developer: Learn C++ and Make Video Games.'
+    description: Course teaching C++ game programming in Unreal Engine 5.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -440,9 +510,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: Velocity Grid Export
     url: https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter
-    description: A tool to export vector fields out of Houdini.
+    description: Tool to export vector fields out of Houdini for Unreal.
     license: Free
     entry_type: tool
     readme_tags:
@@ -453,11 +527,15 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
   - name: PBCharacterMovement
     url: https://github.com/ProjectBorealis/PBCharacterMovement
-    description: HL2-style, classic FPS movement for Unreal Engine implemented in C++.
+    description: HL2-style classic FPS movement for Unreal Engine, written in C++.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -468,12 +546,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Va Fog Of War
     url: https://github.com/ufna/VaFogOfWar
-    description: A clear and simple solution of Fog of War for Unreal Engine.
+    description: Fog of War solution for Unreal Engine.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -484,6 +566,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -501,6 +587,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -518,12 +608,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Socketer
     url: https://github.com/How2Compute/Socketer
-    description: A TCP socket blueprint library for Unreal Engine.
+    description: TCP socket Blueprint library for Unreal Engine.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -534,6 +628,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -552,6 +650,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -568,6 +670,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -584,6 +690,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -600,13 +710,17 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
     archived: true
   - name: Unreal.js
     url: https://github.com/ncsoft/Unreal.js
-    description: Javascript runtime built for Unreal Engine.
+    description: JavaScript runtime built for Unreal Engine.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -617,6 +731,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -624,7 +742,7 @@ entries:
     last_pushed: '2023-07-20'
   - name: UnrealCLR
     url: https://github.com/nxrighthere/UnrealCLR
-    description: Unreal Engine.NET 6 Integration.
+    description: Unreal Engine integration for .NET 6 (C#).
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -635,6 +753,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -653,12 +775,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Houdini Engine for Unreal
     url: https://github.com/sideeffects/HoudiniEngineForUnreal
-    description: A plugin to allow integration with Houdini Digital Assets workflows.
+    description: Plugin bridging Houdini Digital Asset workflows into Unreal.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -669,13 +795,17 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - houdini-addon
         - opensource-alt
   - name: Ultraleap SDK
     url: https://github.com/ultraleap/UnrealPlugin
-    description: Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
+    description: Brings Ultraleap hand-tracking data into Unreal projects.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -687,6 +817,10 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -703,6 +837,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -710,7 +848,7 @@ entries:
     last_pushed: '2024-05-23'
   - name: Unreal Sandbox Terrain
     url: https://github.com/bw2012/UnrealSandboxTerrain
-    description: Smooth voxel terrain plugin.
+    description: Smooth voxel terrain plugin for Unreal Engine.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -721,12 +859,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Voxel Plugin
     url: https://github.com/Phyronnaz/VoxelPlugin
-    description: Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
+    description: Volumetric, destructible, infinite voxel worlds in Unreal Engine.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -737,6 +879,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt

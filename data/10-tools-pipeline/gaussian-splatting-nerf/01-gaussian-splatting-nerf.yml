@@ -5,10 +5,18 @@ entries:
     license: Open Source
     entry_type: reference
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - gaussian-splatting
         - nerf
         - opensource-alt
+        - gpu
     readme_tags:
       - Original Impl
       - INRIA
@@ -20,10 +28,16 @@ entries:
     license: Open Source
     entry_type: reference
     tags:
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
         - opensource-alt
+        - paper
+    year: 2024
     readme_tags:
       - Dynamic Scenes
       - 4D
@@ -35,10 +49,18 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - gaussian-splatting
         - nerf
         - opensource-alt
+        - gpu
     readme_tags:
       - Desktop App
       - GPL-3.0
@@ -46,10 +68,19 @@ entries:
     url_status: ok
   - name: Brush
     url: https://github.com/ArthurBrussee/brush
-    description: 3D reconstruction for all.
+    description: Cross-platform Gaussian Splatting reconstruction and viewer (Rust/wgpu), runs in browser.
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+        - web
       tech:
         - gaussian-splatting
         - nerf
@@ -59,9 +90,9 @@ entries:
       - Reconstruction
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: Mega Sa M
+  - name: MegaSaM
     url: https://github.com/mega-sam/mega-sam
-    description: Structure and motion from casual video.
+    description: Accurate, fast, robust structure and motion from casual video.
     license: Open Source
     entry_type: reference
     readme_tags:
@@ -70,6 +101,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - match-move
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - gaussian-splatting
         - nerf
@@ -80,70 +118,98 @@ entries:
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2023
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: PlenOctrees for Real-time Rendering of Neural Radiance Fields
     url: https://alexyu.net/plenoctrees/
     description: Yu et al., Arxiv 2021 | [github](https://github.com/sxyu/volrend)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2021
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: 'BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects'
     url: https://bundlesdf.github.io/
     description: Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2023
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: Learning Neural Transmittance for Efficient Rendering of Reflectance Fields
     url: https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html
     description: Mohammad Shafiei et al., BMVC 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2021
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: 'DyLiN: Making Light Field Networks Dynamic'
     url: https://dylin2023.github.io/
     description: Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2023
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: 'DynIBaR: Neural Dynamic Image-Based Rendering'
     url: https://dynibar.github.io/
     description: Li et al., CVPR 2023
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2023
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: UV Volumes for Real-time Rendering of Editable Free-view Human Performance
     url: https://fanegg.github.io/UV-Volumes/
     description: Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2023
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: Taichi 3D GS
     url: https://github.com/wanmeihuali/taichi_3d_gaussian_splatting
     description: Taichi-based implementation (Apache-2.0).
@@ -152,10 +218,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - gaussian-splatting
         - nerf
         - opensource-alt
+        - gpu
     stale: true
     last_pushed: '2024-03-12'
   - name: Warp 3DGS
@@ -166,22 +240,38 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - gaussian-splatting
         - nerf
         - opensource-alt
+        - gpu
   - name: Pointrix
     url: https://github.com/pointrix-project/pointrix
-    description: Differentiable point-based rendering.
+    description: Differentiable point-based rendering framework for Gaussian Splatting.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - gaussian-splatting
         - nerf
         - opensource-alt
+        - gpu
   - name: 3DGS.cpp
     url: https://github.com/shg8/3DGS.cpp
     description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS.
@@ -190,10 +280,20 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+        - ios
       tech:
         - gaussian-splatting
         - nerf
         - opensource-alt
+        - gpu
   - name: vkgs
     url: https://github.com/jaesung-cs/vkgs
     description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics.
@@ -202,10 +302,19 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - gaussian-splatting
         - nerf
         - opensource-alt
+        - gpu
   - name: spaTV
     url: https://github.com/antimatter15/splaTV
     description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo [here](http://antimatter15.com/splaTV/).
@@ -214,6 +323,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
@@ -228,6 +343,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - gaussian-splatting
         - nerf
@@ -240,6 +362,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - gaussian-splatting
         - nerf
@@ -252,17 +380,27 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
       tech:
         - gaussian-splatting
         - nerf
         - opensource-alt
+        - gpu
   - name: 3DGS Introduction
     url: https://huggingface.co/blog/gaussian-splatting
-    description: HuggingFace guide
+    description: HuggingFace introductory guide to 3D Gaussian Splatting.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
@@ -272,30 +410,42 @@ entries:
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2021
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: 'TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels'
     url: https://jaminfong.cn/tineuvox/
     description: Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2022
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: Neural Rays for Occlusion-aware Image-based Rendering
     url: https://liuyuan-pal.github.io/NeuRay/
     description: Liu et al., Arxiv 2021
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2021
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: PyTorch Implementation
     url: https://myasincifci.github.io/
     description: Curated implementation of Vanilla 3DGS in PyTorch
@@ -303,6 +453,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
@@ -312,47 +464,65 @@ entries:
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2022
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: 'Ponder: Point Cloud Pre-training via Neural Rendering'
     url: https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Ponder_Point_Cloud_Pre-training_via_Neural_Rendering_ICCV_2023_paper.html
     description: Huang et al., ICCV 2023
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2023
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: 'Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion'
     url: https://www.robots.ox.ac.uk/~vgg/research/contrastive-lift/
     description: Bhalgat et al., NeurIPS 2023 (**Spotlight**)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2023
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: Generative Occupancy Fields for 3D Surface-Aware Image Synthesis
     url: https://sheldontsui.github.io/projects/GOF
     description: Xu et al., NeurIPS 2021 | [github](https://github.com/SheldonTsui/GOF_NeurIPS2021)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2021
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: 'Gaussian Head Avatars: A Summary'
     url: https://towardsdatascience.com/gaussian-head-avatars-a-summary-2bd17bd48500
-    description: 'Gaussian Head Avatars: A Summary.'
+    description: Summary of Gaussian-splatting head-avatar techniques (Towards Data Science).
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
@@ -362,27 +532,39 @@ entries:
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2021
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis
     url: https://xingangpan.github.io/projects/ShadeGAN.html
     description: Pan et al., NeurIPS 2021 | [github](https://github.com/XingangPan/ShadeGAN)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2021
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper
   - name: 'Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans'
     url: https://zju3dv.github.io/neuralbody/
     description: Peng et al., CVPR 2021 | [github](https://github.com/zju3dv/neuralbody)
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
+    year: 2021
     tags:
+      platform:
+        - web
       tech:
         - gaussian-splatting
         - nerf
+        - paper

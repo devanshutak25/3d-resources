@@ -11,7 +11,11 @@ entries:
       output:
         - film-vfx
       workflow:
+        - match-move
         - compositing
+      platform:
+        - win
+        - mac
     readme_tags:
       - AE Plugin
       - Mesh Track
@@ -28,6 +32,9 @@ entries:
         - film-vfx
       workflow:
         - compositing
+      platform:
+        - win
+        - mac
     readme_tags:
       - Keyer
       - Chroma Key
@@ -43,6 +50,8 @@ entries:
         - match-move
       output:
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Camera Specs
       - Reference
@@ -56,7 +65,11 @@ entries:
     best_for: fSpy → Maya import
     tags:
       workflow:
-        - fx
+        - match-move
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - maya-plugin
         - opensource-alt

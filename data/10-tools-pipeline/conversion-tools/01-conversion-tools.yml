@@ -51,6 +51,7 @@ entries:
     tags:
       platform:
         - web
+        - cloud
   - name: Convertio
     url: https://convertio.co/
     description: Multi-format converter.
@@ -101,6 +102,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: FBX2glTF
@@ -114,6 +119,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: obj2gltf
@@ -122,6 +133,12 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - pbr
         - opensource-alt
@@ -141,6 +158,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
       tech:
         - opensource-alt
   - name: gltfpack
@@ -154,6 +178,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: glTF Pipeline
@@ -167,6 +197,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: glTF Validator
@@ -180,6 +216,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
       tech:
         - opensource-alt
   - name: glTF Viewer
@@ -193,6 +236,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - web
       tech:
         - opensource-alt
   - name: ImageMagick
@@ -206,6 +251,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: Squoosh
@@ -219,6 +268,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - web
       tech:
         - opensource-alt
   - name: TinyPNG
@@ -245,6 +296,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: SoX
@@ -258,6 +313,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: OIIO (OpenImageIO)
@@ -268,6 +329,10 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -283,6 +348,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - usd
@@ -296,6 +365,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - illustration
       platform:
         - web
   - name: Packyderm
@@ -306,16 +377,22 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
       platform:
-        - web
+        - win
+      tech:
+        - unity-plugin
   - name: Retargeting Mixamo Animation Tool
     url: http://terribilisstudio.fr/converter
-    description: Retargeting Mixamo Animation Tool.
+    description: Web tool to retarget Mixamo animations.
     entry_type: tool
     license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - animation
       platform:
         - web
   - name: Mixamo Converter
@@ -327,6 +404,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - blender-addon
@@ -335,13 +420,17 @@ entries:
     last_pushed: '2024-03-01'
   - name: USDZ
     url: https://github.com/robmcrosby/BlenderUSDZ
-    description: '[glTF MultiExport](https://github.com/MozillaReality/blender-gltf-multiexport-addon), [ZBrush](https://blenderartists.org/t/goz-for-blender-2-8/1138418)'
+    description: Blender addon to export USDZ files.
     entry_type: plugin
     license: Open Source
     notes: RELOCATE. Blender USDZ exporter plugin, belongs under plugins/blender
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - blender-addon
@@ -354,6 +443,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - gaussian-splatting
@@ -374,7 +467,7 @@ entries:
     url_status: unreachable
   - name: GLTF Report
     url: https://gltf.report
-    description: Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
+    description: Web app to diagnose and optimize glTF files. Inspector supports BASIS/KTX2 textures. By Don McCurdy.
     entry_type: tool
     license: Free
     url_last_verified: '2026-06-01'
@@ -383,6 +476,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - web
   - name: Assimp (site)
     url: https://www.assimp.org/
     description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
@@ -393,3 +490,9 @@ entries:
     tags:
       workflow:
         - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt

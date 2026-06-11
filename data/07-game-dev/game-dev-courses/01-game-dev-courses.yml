@@ -14,6 +14,8 @@ entries:
         - games
       skill:
         - beginner
+      platform:
+        - web
   - name: Polyglot Gamedev Mastersheet
     url: https://github.com/PolyglotGamedev/mastersheet
     description: Massive community-curated master list of game dev resources across engines, art, audio, and design.
@@ -27,3 +29,5 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web

@@ -1,7 +1,7 @@
 entries:
   - name: Game UI Database
     url: https://www.gameuidatabase.com/
-    description: Interface reference.
+    description: Searchable database of game UI/UX screenshots for interface reference.
     entry_type: reference
     readme_tags:
       - UI Reference
@@ -11,6 +11,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: How To Market A Game
     url: https://howtomarketagame.com/
     description: Marketing strategies for indie games.
@@ -23,6 +25,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Red Blob Games
     url: https://www.redblobgames.com/
     description: Interactive visual explanations (pathfinding, hex grids, noise).
@@ -34,8 +38,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      skill:
+        - intermediate
+      platform:
+        - web
   - name: GDC Vault (Free)
     url: https://gdcvault.com/free/
     description: Hundreds of free GDC talks.
@@ -49,6 +59,10 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - advanced
+      platform:
+        - web
     deprecated: true
   - name: Deconstructor of Fun
     url: https://www.deconstructoroffun.com/
@@ -62,6 +76,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Game Programming Patterns
     url: http://gameprogrammingpatterns.com/contents.html
     description: Lots of great game development patterns useful when making games with or without Unity.
@@ -69,8 +85,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      skill:
+        - intermediate
+      platform:
+        - web
   - name: Unity Game Programming Patterns
     url: https://github.com/TarasOsiris/unity-game-programming-patterns
     description: Game Programming Pattern Examples in Unity3D.
@@ -78,10 +100,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2015-05-07'
   - name: Slynyrd
@@ -93,33 +122,45 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - intermediate
+      platform:
+        - web
   - name: pixeldudesmaker
     url: https://0x72.itch.io/pixeldudesmaker
-    description: Small character generator, including basic animation.
-    entry_type: reference
+    description: Small pixel-art character generator, with basic animation.
+    entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
   - name: Turbulenz
     url: http://biz.turbulenz.com/developers
-    description: Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of
+    description: HTML5 game engine for building, publishing, and monetising games with 3D effects and real-time physics.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Timanthes
     url: http://csdb.dk/release/?id=75871
     description: A pixel art editor for the Commodore 64 computer running on Windows
-    entry_type: reference
+    entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
   - name: SpriteKit
     url: https://developer.apple.com/spritekit/
     description: SpriteKit code to make your game work on iOS, macOS, and tvOS without a hitch.
@@ -127,26 +168,37 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - mac
+        - ios
   - name: DevianArt7Soul1
     url: https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
     description: Offers a specific set of 420 pixel art icons designed for RPG games.
-    entry_type: reference
+    entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - web
   - name: 'Game Development Essentials: Game Level Design'
     url: http://www.goodreads.com/book/show/1633392.Game_Development_Essentials
-    description: 'Game Development Essentials: Game Level Design.'
-    entry_type: reference
+    description: Book on game level design fundamentals.
+    entry_type: book
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      skill:
+        - beginner
+      platform:
+        - web
   - name: LWF
     url: http://gree.github.io/lwf/
     description: Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit.
@@ -154,26 +206,38 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - animation
       output:
         - games
+      platform:
+        - web
   - name: Phototiler
     url: https://halfmaps.itch.io/phototiler
     description: Lightweight photorealistic map renderer that allows quick rendering of 3D maps for creative cartography.
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
   - name: Unity in Action (book)
     url: https://www.manning.com/books/unity-in-action-second-edition
-    description: Unity in Action (book).
-    entry_type: reference
+    description: Hands-on Unity game development book (Manning).
+    entry_type: book
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      skill:
+        - beginner
+      platform:
+        - web
+      tech:
+        - unity-plugin
   - name: Resemble
     url: https://www.resemble.ai/unity
     description: Resemble's voice cloning engine within Unity
@@ -181,62 +245,96 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     tags:
+      workflow:
+        - audio-design
       output:
         - games
+      tech:
+        - ai-generative
+        - unity-plugin
     deprecated: true
   - name: Spritemate
     url: http://www.spritemate.com
     description: Online Editor for Commodore 64 Sprites
-    entry_type: reference
+    entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Pixel Composer (GitHub)
     url: https://github.com/Ttanasart-pt/Pixel-Composer
-    description: node-based VFX editor for pixel art
-    entry_type: reference
+    description: Node-based VFX editor for pixel art.
+    entry_type: tool
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - fx
       output:
         - games
+      platform:
+        - win
       tech:
         - opensource-alt
+        - node-based
   - name: Open 3D Engine (O3ED)
     url: https://github.com/o3de/o3de
     description: Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games
-    entry_type: reference
+    entry_type: software
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
+        - linux
       tech:
         - opensource-alt
+        - real-time
   - name: friflo ECS
     url: https://github.com/friflo/Friflo.Engine.ECS
     description: High-performance C# ECS with simple API. Supports.NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame,..
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: Unity Audio Manager
     url: https://github.com/MathewHDYT/Unity-Audio-Manager
-    description: Plugin, that allows to easily play/change/stop/mute/.. sounds in 2D/3D
-    entry_type: reference
+    description: Plugin to play, change, stop, and mute 2D/3D sounds in Unity.
+    entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - audio-design
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
   - name: Epic Games
     url: https://github.com/epicgames
     description: Epic Games on GitHub. Official Unreal Engine and related repos.
@@ -246,8 +344,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - unreal-plugin
   - name: Unity Technologies
     url: https://github.com/unity-technologies
     description: Unity Technologies on GitHub. Official Unity repos and samples.
@@ -257,5 +358,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - unity-plugin

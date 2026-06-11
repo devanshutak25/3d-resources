@@ -5,11 +5,17 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - creative-coding
       tech:
         - procedural
         - opensource-alt
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Procedural
       - WFC
@@ -21,11 +27,17 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - creative-coding
       tech:
         - procedural
         - opensource-alt
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Noise
       - Fast
@@ -39,6 +51,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - procedural
     readme_tags:
@@ -54,8 +68,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - web
       tech:
         - procedural
         - opensource-alt
@@ -69,8 +87,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - procedural
         - opensource-alt

@@ -1,7 +1,7 @@
 entries:
   - name: Unity Inmediate Color Picker
     url: https://github.com/mattatz/unity-immediate-color-picker
-    description: Color picker for Unity in immediate GUI mode.
+    description: Color picker for Unity in immediate-mode GUI.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -9,6 +9,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -19,7 +23,7 @@ entries:
     last_pushed: '2017-07-05'
   - name: Unity Color Picker
     url: https://github.com/jongallant/UnityColorPicker
-    description: A standalone color picker asset for Unity.
+    description: Standalone color picker asset for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -27,6 +31,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -37,7 +45,7 @@ entries:
     last_pushed: '2019-06-18'
   - name: Unity Color Wheel
     url: https://github.com/fkate/Unity_ColorWheel
-    description: Color Picker Element for the newer Unity GUI System.
+    description: Color picker element for the newer Unity uGUI system.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -45,6 +53,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -56,7 +68,7 @@ entries:
     last_pushed: '2024-03-11'
   - name: Google Sheets Unity
     url: https://github.com/5argon/GoogleSheetsUnity
-    description: Get data from your private Google Sheets to Unity! (Read-only).
+    description: Read data from private Google Sheets into Unity (read-only).
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -64,6 +76,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -74,7 +90,7 @@ entries:
     last_pushed: '2018-07-31'
   - name: Unity EventBinder
     url: https://github.com/GeorgeDascalu/Unity-EventBinder
-    description: User Interface Event decoupler.
+    description: Decouples UI events in Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -82,6 +98,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -93,7 +113,7 @@ entries:
     deprecated: true
   - name: xNode BehaviourTree
     url: https://github.com/jnhtt/xNode-BehaviourTree
-    description: Some log4net helper classes and UnityEngine.Debug appender for Unity.
+    description: Behaviour tree built on the xNode node editor for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -101,6 +121,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -111,7 +135,7 @@ entries:
     last_pushed: '2018-11-05'
   - name: MVPScriptGenerator4Unity
     url: https://github.com/MasaKoha/MVPScriptGenerator4Unity
-    description: MVP Script Generator for Unity Editor.
+    description: MVP script generator for the Unity editor.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -119,6 +143,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -129,7 +157,7 @@ entries:
     last_pushed: '2024-04-08'
   - name: Spine Runtimes
     url: https://github.com/EsotericSoftware/spine-runtimes
-    description: Collection of Spine runtimes including with Unity3d version.
+    description: Spine 2D animation runtimes, including a Unity runtime.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -137,6 +165,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -145,7 +177,7 @@ entries:
       - spine
   - name: MMD for Unity
     url: https://github.com/mmd-for-unity-proj/mmd-for-unity
-    description: MikuMikuDance for Unity.
+    description: MikuMikuDance model and motion importer for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -153,6 +185,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -163,7 +199,7 @@ entries:
     last_pushed: '2018-10-26'
   - name: SerializableCallback
     url: https://github.com/Siccity/SerializableCallback
-    description: UnityEvent and System.Func had a child.
+    description: Serializable callbacks for Unity that return values, blending UnityEvent and System.Func.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -171,6 +207,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -181,7 +221,7 @@ entries:
     last_pushed: '2024-04-03'
   - name: Unity3D Extensions
     url: https://github.com/jbruening/unity3d-extensions
-    description: Extension and utility methods for the Unity game engine.
+    description: Extension and utility methods for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -189,6 +229,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -199,7 +243,7 @@ entries:
     last_pushed: '2015-09-29'
   - name: EZ Item Editor
     url: https://github.com/anasiqbal/ez-item-editor
-    description: A game data editor for unity that provides a simple solution to entering, maintaining, and consuming game data.
+    description: Game data editor for Unity for entering, maintaining, and consuming game data.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -207,6 +251,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -217,7 +265,7 @@ entries:
     last_pushed: '2014-06-25'
   - name: Unity Plane Mesh Splitter
     url: https://github.com/artnas/Unity-Plane-Mesh-Splitter
-    description: A simple script which let's you split any mesh into smaller chunks.
+    description: Script to split any mesh into smaller chunks.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -225,6 +273,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -235,7 +287,7 @@ entries:
     last_pushed: '2023-04-25'
   - name: UnityStudio
     url: https://github.com/RaduMC/UnityStudio
-    description: Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps. (#ASSET-STORE)
+    description: Tool for exploring, extracting, and exporting assets from Unity games and apps.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -243,6 +295,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
         - opensource-alt
     notes: Standalone asset extractor, not a Unity plugin.
@@ -253,7 +307,7 @@ entries:
     last_pushed: '2020-10-20'
   - name: Bitstrap
     url: https://github.com/bitcake/bitstrap
-    description: BitStrap is BitCake's collection of Unity tools that improve our workflow.
+    description: BitCake's collection of Unity workflow tools.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -261,6 +315,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -269,7 +327,7 @@ entries:
       - utilities
   - name: Unity PSD Layout Tool
     url: https://github.com/GlitchEnzo/UnityPSDLayoutTool
-    description: A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
+    description: Imports Photoshop .psd files into Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -277,6 +335,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -285,7 +347,7 @@ entries:
       - importer
   - name: Psd2UnityImporter
     url: https://github.com/SubjectNerd-Unity/Psd2UnityImporter
-    description: An advanced PSD importer tool for Unity.
+    description: PSD importer for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -293,6 +355,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -303,7 +369,7 @@ entries:
     last_pushed: '2019-06-14'
   - name: Uni Android Vibration
     url: https://github.com/sanukin39/UniAndroidVibration
-    description: Unity Android plugin JUST execute device vibration.
+    description: Unity Android plugin for triggering device vibration.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -343,7 +409,7 @@ entries:
     last_pushed: '2019-02-24'
   - name: Unity Webview
     url: https://github.com/gree/unity-webview
-    description: A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
+    description: WebView overlay plugin for Unity on Android, iOS, Web Player, and macOS. Windows is unsupported.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -363,7 +429,7 @@ entries:
       - mobile
   - name: Unity Flurry SDK
     url: https://github.com/flurry/unity-flurry-sdk
-    description: Unity plugin for Flurry SDK.
+    description: Unity plugin for the Flurry analytics SDK.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -371,6 +437,9 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - ios
+        - android
       tech:
         - unity-plugin
         - opensource-alt
@@ -382,7 +451,7 @@ entries:
     last_pushed: '2023-04-06'
   - name: Flurry Unity Plugin
     url: https://github.com/bearprada/flurry-unity-plugin
-    description: The Flurry Library for Unity3D. support Android and iOS.
+    description: Flurry analytics library for Unity on Android and iOS.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -403,7 +472,7 @@ entries:
     last_pushed: '2015-06-01'
   - name: Google Analytics Plugin for Unity
     url: https://github.com/googleanalytics/google-analytics-plugin-for-unity
-    description: Google Analytics plugin for the Unity game creation system.
+    description: Google Analytics plugin for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -411,6 +480,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -422,7 +495,7 @@ entries:
     last_pushed: '2024-03-14'
   - name: GetSocial Unity SDK
     url: https://github.com/getsocial-im/getsocial-unity-sdk
-    description: This is the demo application for GetSocial SDK.
+    description: GetSocial social SDK and demo for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -430,6 +503,9 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - ios
+        - android
       tech:
         - unity-plugin
         - opensource-alt
@@ -440,7 +516,7 @@ entries:
     last_pushed: '2021-11-05'
   - name: Reign Unity Plugin
     url: https://github.com/reignstudios/Reign-Unity-Plugin5
-    description: This Reign API is a cross-platform, unified API for the Unity game engine.
+    description: Cross-platform unified API plugin for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -448,6 +524,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -466,6 +546,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -476,7 +560,7 @@ entries:
       - cross-platform
   - name: Unity Rust Plugin
     url: https://github.com/keijiro/UnityRustPlugin
-    description: An example showing how to write a Unity native plugin in Rust.
+    description: Example of writing a Unity native plugin in Rust.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -484,6 +568,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -495,7 +583,7 @@ entries:
     last_pushed: '2022-01-26'
   - name: UniLua
     url: https://github.com/xebecnan/UniLua
-    description: A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
+    description: Pure C# implementation of Lua 5.2, compatible with Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -503,6 +591,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -511,7 +603,7 @@ entries:
       - scripting
   - name: LuaProfiler For Unity
     url: https://github.com/ElPsyCongree/LuaProfiler-For-Unity
-    description: Profiler for Lua inside of Unity.
+    description: Profiler for Lua inside Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -519,6 +611,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -527,7 +623,7 @@ entries:
       - profiler
   - name: Atlas Unity
     url: https://github.com/wooga/atlas-unity
-    description: This plugin provides tasks to run unity batchmode commands in gradle. It runs and reports unity unit-tests and is able to export.unitypackage files.
+    description: Gradle plugin to run Unity batchmode commands and unit tests and export .unitypackage files.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -535,6 +631,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     notes: Gradle plugin (build tooling), not a Unity-side plugin.
@@ -552,6 +652,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -560,7 +664,7 @@ entries:
       - hap
   - name: KlakSyphon
     url: https://github.com/keijiro/KlakSyphon
-    description: Syphon plugin for Unity.
+    description: Syphon video-sharing plugin for Unity on macOS.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -578,7 +682,7 @@ entries:
       - video
   - name: VoxBlend
     url: https://github.com/hiroki-o/VoxBlend
-    description: BlendShape Controller Plugin for Unity.
+    description: Blend shape controller plugin for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -586,6 +690,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -596,7 +704,7 @@ entries:
     last_pushed: '2022-04-20'
   - name: Bep In Ex
     url: https://github.com/BepInEx/BepInEx
-    description: Unity game patcher and plugin framework.
+    description: Unity game patcher and plugin framework for modding shipped games.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -604,6 +712,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     notes: Modding/patching framework for shipped Unity games. Not an editor plugin.
@@ -612,7 +724,7 @@ entries:
       - patcher
   - name: Unity Elevator Compiler
     url: https://github.com/m3rt32/UnityElevatorCompiler
-    description: 'A plugin that plays elevator music while Unity compiles your code. :cool:'
+    description: Plugin that plays elevator music while Unity compiles your code.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -620,6 +732,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -630,7 +746,7 @@ entries:
     last_pushed: '2019-07-19'
   - name: My S7 Pro Sim Lib
     url: https://github.com/kodaman2/myS7ProSimLib
-    description: Imported S7PROSimLib type library. To connect unity3D with Siemens PLCSim using COM Interop.
+    description: Connects Unity to Siemens PLCSim via COM interop (S7PROSimLib).
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -638,6 +754,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
         - unity-plugin
         - opensource-alt
@@ -649,7 +767,7 @@ entries:
     last_pushed: '2016-09-19'
   - name: Unity Optix Plugin
     url: https://github.com/Alexander-Scott/UnityOptixPlugin
-    description: An example of a Unity plugin that allows you to use the power of NVIDIA Optix.
+    description: Example Unity plugin for NVIDIA OptiX.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -657,6 +775,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
         - unity-plugin
         - opensource-alt
@@ -668,7 +788,7 @@ entries:
     last_pushed: '2017-09-03'
   - name: Constellation
     url: https://github.com/ConstellationLanguage/Constellation
-    description: Constellation is a visual scripting language for unity that gives you the tools of a programmer without having to write a single line of code.
+    description: Visual scripting language for Unity, no code required.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -676,6 +796,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -688,7 +812,7 @@ entries:
     last_pushed: '2020-08-30'
   - name: Artimech
     url: https://github.com/Scramasax/Artimech
-    description: Open source visual scripting system for Unity.
+    description: Open-source visual scripting and state machine system for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -696,6 +820,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -707,7 +835,7 @@ entries:
     last_pushed: '2021-06-24'
   - name: VSCode Unity Code Snippets
     url: https://github.com/kleber-swf/vscode-unity-code-snippets
-    description: All snippets for Unity3D development.
+    description: Unity development code snippets for VS Code.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -715,6 +843,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     notes: VSCode extension, not a Unity plugin.
@@ -723,7 +855,7 @@ entries:
       - snippets
   - name: Unity Snippets
     url: https://github.com/anchan828/unity-snippets
-    description: Unity3D snippets for differents IDEs.
+    description: Unity code snippets for various IDEs.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -731,6 +863,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     notes: Snippet collection for IDEs.
@@ -742,7 +878,7 @@ entries:
     last_pushed: '2016-10-27'
   - name: Unity VS Toolbox
     url: https://github.com/Naphier/Unity-VS-Toolbox
-    description: Included in this project is a VS toolbox for most of the Monobehaviour events listed in order of execution. You'll also find a bunch of templates that can be installed so they will show up in the A
+    description: Visual Studio toolbox of MonoBehaviour events in execution order, plus installable templates.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -750,6 +886,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
         - opensource-alt
     notes: Visual Studio toolbox/templates.
@@ -760,7 +898,7 @@ entries:
     last_pushed: '2015-12-07'
   - name: VSCode Unity Debug Support
     url: https://github.com/Unity-Technologies/vscode-unity-debug
-    description: Unity debugging support for VS Code. ![Official](UnityResource16x16.png)
+    description: Official Unity debugging support for VS Code.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -768,6 +906,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     notes: VSCode extension (official).
@@ -779,7 +921,7 @@ entries:
     last_pushed: '2024-04-05'
   - name: VSCode Unity Integration
     url: https://github.com/dotBunny/VSCode
-    description: Unity Visual Studio Code Integration.
+    description: VS Code integration for Unity.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -787,6 +929,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -796,7 +942,7 @@ entries:
     last_pushed: '2021-05-24'
   - name: Unity Tools
     url: https://github.com/TobiahZ/unity-tools
-    description: A Visual Studio Code Extension to provide some tools for Unity development.
+    description: VS Code extension with tools for Unity development.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -804,6 +950,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -811,7 +961,7 @@ entries:
       - extension
   - name: Resharper Unity
     url: https://github.com/JetBrains/resharper-unity
-    description: A proxy App to be able to open Unity 5 C# classes using the new Project Rider from Jetbrains, in Mac OS X.
+    description: JetBrains ReSharper and Rider plugin for Unity.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -819,6 +969,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -826,7 +980,7 @@ entries:
       - resharper
   - name: ProjectRider Unity
     url: https://github.com/yonstorm/ProjectRider-Unity
-    description: IntelliJ Project Rider integration for Unity.
+    description: JetBrains Rider integration for Unity.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -834,6 +988,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -851,6 +1009,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -860,7 +1022,7 @@ entries:
     last_pushed: '2016-04-07'
   - name: Unity3DVim
     url: https://github.com/NOSDuco/Unity3dVim
-    description: Unity Vim Editor Integration for Linux.
+    description: Vim editor integration for Unity on Linux.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'

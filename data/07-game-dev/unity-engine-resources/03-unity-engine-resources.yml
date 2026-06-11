@@ -1,7 +1,7 @@
 entries:
   - name: UnityHTTP
     url: https://github.com/andyburke/UnityHTTP
-    description: A TCP client-based HTTP library for Unity.
+    description: TCP-based HTTP library for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -9,6 +9,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -18,7 +22,7 @@ entries:
     last_pushed: '2017-09-13'
   - name: Pomelo Unity Client
     url: https://github.com/NetEase/pomelo-unityclient-socket
-    description: A client for Pomelo distributed game server in Node.js.
+    description: Unity client for the Pomelo distributed Node.js game server.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -26,6 +30,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -35,7 +43,7 @@ entries:
     last_pushed: '2023-08-16'
   - name: HiSocket
     url: https://github.com/hiramtan/HiSocket
-    description: It is a lightweight socket solution, you can used it in Unity3D or C# project.
+    description: Lightweight socket library for Unity and C# projects.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -43,6 +51,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -52,7 +64,7 @@ entries:
     last_pushed: '2021-12-20'
   - name: Unet HLAPI Manager
     url: https://github.com/insthync/unet-hlapi-manager
-    description: The simple network manager based on Unity's NetworkManager without players, scenes stuffs focus on network messages callback handles. Intenly made for multiple server purposes.
+    description: Minimal network manager built on Unity's NetworkManager, focused on message-callback handling for multi-server setups.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -60,6 +72,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -68,7 +84,7 @@ entries:
     deprecated: true
   - name: Firestorm
     url: https://github.com/5argon/Firestorm
-    description: Makeshift Cloud Firestore C# API that works with Unity via REST API. Contains only basic functions.
+    description: Makeshift Cloud Firestore C# API for Unity over REST. Basic functions only.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -76,6 +92,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - cloud
@@ -86,7 +106,7 @@ entries:
     last_pushed: '2019-02-21'
   - name: Unity Timeline Sync
     url: https://github.com/asus4/unity-timeline-sync
-    description: Synchronize multiple Unity Timeline via UDP.
+    description: Synchronize multiple Unity Timelines over UDP.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -94,6 +114,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -103,7 +127,7 @@ entries:
     last_pushed: '2018-12-06'
   - name: Chanquo
     url: https://github.com/sassembla/Chanquo
-    description: Golang-channel partial implementation for Unity.
+    description: Partial Go-channel implementation for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -111,6 +135,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -120,7 +148,7 @@ entries:
     last_pushed: '2020-08-26'
   - name: Dissonance
     url: https://github.com/Placeholder-Software/Dissonance
-    description: Unity Voice Chat Asset
+    description: Real-time voice chat asset for Unity multiplayer.
     entry_type: plugin
     license: Free
     url_last_verified: '2026-06-01'
@@ -128,13 +156,18 @@ entries:
     tags:
       output:
         - games
-      tech: []
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity-plugin
     readme_tags:
       - voice-chat
       - networking
   - name: RestClient (proyecto26)
     url: https://github.com/proyecto26/RestClient
-    description: Simple HTTP and REST client for Unity based on Promises, also supports Callbacks!
+    description: Promise-based HTTP and REST client for Unity, with callback support.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -142,6 +175,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -149,7 +186,7 @@ entries:
       - http
   - name: RestClient (Unity3dAzure)
     url: https://github.com/Unity3dAzure/RESTClient
-    description: REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types).
+    description: REST client for Unity with JSON and XML parsing, including nested arrays and abstract types.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -157,6 +194,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -166,7 +207,7 @@ entries:
     last_pushed: '2020-11-28'
   - name: Restifizer Unity3D
     url: https://github.com/vedi/restifizer-unity3d
-    description: Restifizer SDK for Unity3d. A way to significantly simplify creation of full-functional RESTful services, using MongoDB as a database.
+    description: Restifizer SDK for Unity to build RESTful services backed by MongoDB.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -174,6 +215,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -183,7 +228,7 @@ entries:
     last_pushed: '2016-11-20'
   - name: Unity Open API
     url: https://github.com/kolodi/UnityOpenApi
-    description: Unity friendly RESTful API client generator.
+    description: RESTful API client generator for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -191,6 +236,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -200,7 +249,7 @@ entries:
     last_pushed: '2019-03-19'
   - name: Unity Web Socket
     url: https://github.com/Unity3dAzure/UnityWebSocket
-    description: Web Socket client for Unity.
+    description: WebSocket client for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -208,6 +257,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -217,7 +270,7 @@ entries:
     last_pushed: '2018-06-27'
   - name: AirPeer
     url: https://github.com/adrenak/AirPeer
-    description: A WebRTC based networking plugin for Unity.
+    description: WebRTC-based networking plugin for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -225,6 +278,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -232,7 +289,7 @@ entries:
       - p2p
   - name: WebRTC Unity Plugin
     url: https://github.com/bengreenier/webrtc-unity-plugin
-    description: Cross-platform Webrtc support for Unity apps.
+    description: Cross-platform WebRTC support for Unity apps.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -240,6 +297,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -249,7 +310,7 @@ entries:
     last_pushed: '2019-08-15'
   - name: P2P.NET
     url: https://github.com/Phylliida/P2P.NET
-    description: (Formerly UnityP2P) Peer to peer networking in Unity using WebRTC and a free Heroku server for signaling.
+    description: Peer-to-peer networking in Unity using WebRTC with a free signaling server (formerly UnityP2P).
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -257,6 +318,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -266,7 +331,7 @@ entries:
     last_pushed: '2018-11-26'
   - name: JWT for Unity
     url: https://github.com/monry/JWT-for-Unity
-    description: JWT (JSON Web Token) implementation for.NET 3.5+ (Public Domain).
+    description: JSON Web Token implementation for Unity / .NET 3.5+.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -274,6 +339,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -283,7 +352,7 @@ entries:
     last_pushed: '2016-02-14'
   - name: UniVoice
     url: https://github.com/adrenak/UniVoice
-    description: P2P VoIP in Unity.
+    description: Peer-to-peer VoIP for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -291,6 +360,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -306,6 +379,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -315,7 +392,7 @@ entries:
     last_pushed: '2017-08-10'
   - name: Unity Unet Movement
     url: https://github.com/GenaSG/UnityUnetMovement
-    description: This repository contains Unity3D UNET based server-authoritative movement script with client-side prediction and reconciliation.
+    description: Server-authoritative movement for Unity UNET with client-side prediction and reconciliation.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -323,6 +400,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -332,7 +413,7 @@ entries:
     last_pushed: '2018-11-02'
   - name: Unity UNET Authoritative Networking
     url: https://github.com/atrakeur/unity-unet-authoritative-networking
-    description: A simple implementation of authoritative movement on top of UNET.
+    description: Authoritative movement implementation on top of UNET.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -340,6 +421,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -348,7 +433,7 @@ entries:
     deprecated: true
   - name: NATPunchthroughClient
     url: https://github.com/noblewhale/NATPunchthroughClient
-    description: An example implementation of NAT Punchthrough combined with Unity's UNet HLAPI.
+    description: Example NAT punchthrough combined with Unity's UNet HLAPI.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -356,6 +441,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -365,7 +454,7 @@ entries:
     last_pushed: '2017-06-25'
   - name: Unity Physics CSP
     url: https://github.com/spectre1989/unity_physics_csp
-    description: Basic implementation of client-side prediction in Unity, so real networking happens, all network traffic is simulated in a single Unity instance.
+    description: Client-side-prediction demo in Unity with all network traffic simulated in one instance.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -373,6 +462,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - physics
@@ -383,7 +476,7 @@ entries:
     last_pushed: '2020-11-15'
   - name: Cpp Unity TCP Client Server
     url: https://github.com/Willtl/CppUnityTCPClientServer
-    description: Test project Unity client, C++ (with boost) server (TCP).
+    description: Sample Unity TCP client with a C++ (Boost) server.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -391,6 +484,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -400,7 +497,7 @@ entries:
     last_pushed: '2021-06-02'
   - name: Unity Delaunay
     url: https://github.com/OskarSigvardsson/unity-delaunay
-    description: A Delaunay/Voronoi library for Unity, and a simple destruction effect.
+    description: Delaunay/Voronoi library for Unity, with a simple destruction effect.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -408,6 +505,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - procedural
@@ -418,7 +519,7 @@ entries:
     last_pushed: '2023-08-28'
   - name: UnityOctree (Unity-Technologies)
     url: https://github.com/Unity-Technologies/UnityOctree
-    description: A dynamic, loose octree implementation for Unity written in C#.
+    description: Dynamic loose octree implementation for Unity in C#.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -426,6 +527,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -435,7 +540,7 @@ entries:
     last_pushed: '2019-12-07'
   - name: UnityOctree (Nition)
     url: https://github.com/Nition/UnityOctree
-    description: Same as the previous resource.
+    description: Loose octree for Unity in C#, the upstream of the Unity-Technologies fork.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -443,6 +548,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -453,7 +562,7 @@ entries:
     last_pushed: '2021-06-07'
   - name: NaughtyAttributes
     url: https://github.com/dbrizov/NaughtyAttributes
-    description: Attribute Extensions for Unity.
+    description: Inspector attribute extensions for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -461,6 +570,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -468,7 +581,7 @@ entries:
       - attributes
   - name: Unity3D ComponentAttribute
     url: https://github.com/Thundernerd/Unity3D-ComponentAttribute
-    description: An attribute that let's you auto-load components.
+    description: Attribute that auto-loads components in Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -476,6 +589,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -485,7 +602,7 @@ entries:
     last_pushed: '2016-04-23'
   - name: Serialized Parameter Unity
     url: https://github.com/tsubaki/SerializedParameter_Unity
-    description: Persist data between play mode sessions attribute.
+    description: Attribute that persists field data between Unity play-mode sessions.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -493,6 +610,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -502,7 +623,7 @@ entries:
     last_pushed: '2013-10-31'
   - name: Unity Non Null
     url: https://github.com/ulrikdamm/UnityNonNull
-    description: '[NonNull] attribute to fields and classes in Unity.'
+    description: '[NonNull] attribute for fields and classes in Unity.'
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -510,6 +631,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -519,7 +644,7 @@ entries:
     last_pushed: '2019-04-08'
   - name: Unity Compact Field Attribute
     url: https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute
-    description: Lets each property label have their own width, to prevent the labels from getting cut off.
+    description: Per-property label widths in the Unity inspector to stop labels getting cut off.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -527,6 +652,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -536,7 +665,7 @@ entries:
     last_pushed: '2019-03-13'
   - name: SetProperty
     url: https://github.com/gucheng0712/SetProperty
-    description: A PropertyAttribute/PropertyDrawer combination that allows for properties in Unity.
+    description: PropertyAttribute/PropertyDrawer combo for exposing C# properties in the Unity inspector.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -544,6 +673,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -553,7 +686,7 @@ entries:
     last_pushed: '2014-04-23'
   - name: OpenFramework
     url: https://github.com/omid3098/OpenFramework
-    description: A Lightweight framework for unity with dependency injection.
+    description: Lightweight Unity framework with dependency injection.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -561,6 +694,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -578,6 +715,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -587,7 +728,7 @@ entries:
     last_pushed: '2021-08-09'
   - name: ECSRx.unity
     url: https://github.com/EcsRx/ecsrx.unity
-    description: A simple framework for unity using the ECS paradigm but with UniRx for fully reactive systems.
+    description: Reactive ECS framework for Unity built on UniRx.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -595,6 +736,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -602,7 +747,7 @@ entries:
       - reactive
   - name: uMVVM
     url: https://github.com/MEyes/uMVVM
-    description: A simple Unity MVVM framework.
+    description: Simple MVVM framework for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -610,6 +755,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -619,7 +768,7 @@ entries:
     last_pushed: '2017-07-08'
   - name: Unity3D Foundation
     url: https://github.com/NVentimiglia/Unity3d-Foundation
-    description: Unity3d Databinding, MVVM, Tasks, Localization. See Foundation Light.
+    description: Unity MVVM framework with data binding, tasks, and localization.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -627,6 +776,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -635,7 +788,7 @@ entries:
     deprecated: true
   - name: Loxodon Framework
     url: https://github.com/cocowolf/loxodon-framework
-    description: Unity3D MVVM Loxodon Framework Databinding Localization UGUI.
+    description: MVVM framework for Unity with data binding, localization, and uGUI support.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -643,6 +796,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -650,7 +807,7 @@ entries:
       - framework
   - name: CAFU Core
     url: https://github.com/umm/cafu_core
-    description: Clean Architecture For Unity. See [sample](https://github.com/monry/cafu_sample).
+    description: Clean-architecture framework for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -658,6 +815,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -668,7 +829,7 @@ entries:
     last_pushed: '2021-01-22'
   - name: SmartData
     url: https://github.com/sigtrapgames/SmartData
-    description: A designer-friendly, editor-driven Unity3D framework for connecting data and events.
+    description: Editor-driven Unity framework for connecting data and events, designer-friendly.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -676,6 +837,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -685,7 +850,7 @@ entries:
     last_pushed: '2019-12-14'
   - name: Fungus
     url: https://github.com/snozbot/fungus
-    description: An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
+    description: Unity library for building illustrated interactive-fiction and visual-novel games.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -693,6 +858,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -700,7 +869,7 @@ entries:
       - interactive-fiction
   - name: GameFramework (EllanJiang)
     url: https://github.com/EllanJiang/GameFramework
-    description: This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the develop
+    description: Game framework for Unity that encapsulates common game modules and standardizes the development process.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -708,6 +877,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -717,7 +890,7 @@ entries:
     last_pushed: '2023-09-05'
   - name: GameFramework (FlipWebApps)
     url: https://github.com/FlipWebApps/GameFramework
-    description: A free framework for Unity that will help drastically increase the development speed and feature set of your games.
+    description: Free Unity framework adding common game systems and features.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -725,6 +898,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -734,7 +911,7 @@ entries:
     last_pushed: '2020-03-19'
   - name: UnityGameFramework Template
     url: https://github.com/HolicXXX/UnityGameFramework-Template
-    description: A common Unity template Project base on UnityGameFramework.
+    description: Starter project template based on UnityGameFramework.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -742,6 +919,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -752,7 +933,7 @@ entries:
     last_pushed: '2018-12-18'
   - name: Autoya
     url: https://github.com/sassembla/Autoya
-    description: Thin framework for Unity.
+    description: Thin application framework for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -760,6 +941,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -767,7 +952,7 @@ entries:
       - architecture
   - name: Unity Framework
     url: https://github.com/cleavetv/unity-framework
-    description: An application framework for C# Unity3D game projects.
+    description: Application framework for C# Unity game projects.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -775,6 +960,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -784,7 +973,7 @@ entries:
     last_pushed: '2024-02-29'
   - name: Unidux
     url: https://github.com/mattak/Unidux
-    description: Redux Architecture for Unity.
+    description: Redux-style state architecture for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -792,6 +981,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:

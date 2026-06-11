@@ -5,6 +5,10 @@ entries:
     license: Open Source
     entry_type: reference
     tags:
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - usd
         - opensource-alt
@@ -19,6 +23,10 @@ entries:
     license: Open Source
     entry_type: reference
     tags:
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - usd
     readme_tags:
@@ -32,6 +40,10 @@ entries:
     license: Free
     entry_type: reference
     tags:
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - usd
     readme_tags:
@@ -45,6 +57,10 @@ entries:
     license: Free
     entry_type: reference
     tags:
+      output:
+        - generalist
+      platform:
+        - mac
       tech:
         - usd
         - xr
@@ -59,6 +75,10 @@ entries:
     license: Free
     entry_type: reference
     tags:
+      output:
+        - film-vfx
+      platform:
+        - web
       tech:
         - usd
     readme_tags:
@@ -72,6 +92,10 @@ entries:
     license: Open Source
     entry_type: reference
     tags:
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - usd
         - opensource-alt
@@ -82,12 +106,16 @@ entries:
     url_status: unreachable
   - name: Animal Logic's USD Docker
     url: https://github.com/AnimalLogic/docker-usd
-    description: A set of docker build scripts that will download all the Open Source packages required to build Pixar's Universal Scene Description, as well as USD itself
+    description: Docker build scripts that fetch and compile Pixar USD and its open-source dependencies.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - linux
       tech:
         - usd
         - opensource-alt
@@ -95,22 +123,34 @@ entries:
     last_pushed: '2021-04-01'
   - name: USD Manager
     url: http://www.usdmanager.org/
-    description: Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files.
+    description: Lightweight app for browsing, managing, and editing USD files.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - usd
   - name: AL USD Maya
     url: https://github.com/AnimalLogic/AL_USDMaya
-    description: Represent Maya data in Maya and USD data in USD.
+    description: Animal Logic's Maya plugin for round-tripping USD scene data into Maya.
     license: Open Source
-    entry_type: reference
+    entry_type: plugin
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - usd
         - opensource-alt
@@ -118,12 +158,18 @@ entries:
     last_pushed: '2019-11-04'
   - name: Luma USD
     url: https://github.com/LumaPictures/luma_usd
-    description: Plugins for USD.
+    description: USD plugins and schemas from Luma Pictures.
     license: Open Source
-    entry_type: reference
+    entry_type: plugin
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - usd
         - opensource-alt
@@ -131,12 +177,16 @@ entries:
     last_pushed: '2017-07-28'
   - name: USD Shell Extension for Windows
     url: https://github.com/Activision/USDShellExtension
-    description: Full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
+    description: Windows File Explorer extension adding USD thumbnails, side previews, and deep-metadata search.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - win
       tech:
         - usd
         - opensource-alt
@@ -144,25 +194,38 @@ entries:
     last_pushed: '2021-06-24'
   - name: USD Noodle
     url: https://github.com/chris-gardner/usd-noodle
-    description: Pretty node graph showing dependencies of a USD file.
+    description: Node-graph viewer showing the dependencies of a USD file.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - usd
         - opensource-alt
+        - node-based
     stale: true
     last_pushed: '2022-12-11'
   - name: USD URI Resolver
     url: https://github.com/LumaPictures/usd-uri-resolver
-    description: A generic, URI based resolver for USD, support custom plugins.
+    description: URI-based asset resolver for USD, with custom plugin support.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - usd
         - opensource-alt
@@ -172,10 +235,16 @@ entries:
     url: https://github.com/LumaPictures/usd-qt
     description: Qt components for building custom USD tools.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - usd
         - opensource-alt
@@ -185,10 +254,16 @@ entries:
     url: https://github.com/BigRoy/usd-qtpy
     description: Python Qt components for building custom USD tools.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - usd
         - opensource-alt

@@ -6,14 +6,17 @@ entries:
     entry_type: reference
     readme_tags:
       - Official Docs
-      - Comprehensive
+      - Reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - godot
   - name: Godot Asset Store
     url: https://store.godotengine.org/
     description: Official addon, plugin, and asset marketplace (beta). Replaces the legacy Asset Library.
@@ -27,8 +30,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - godot
   - name: Godot Shaders
     url: https://godotshaders.com/
     description: Community shader library with visual previews.
@@ -39,8 +45,11 @@ entries:
         - material-authoring
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - godot
     readme_tags:
       - Shaders
       - Community
@@ -59,5 +68,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - godot

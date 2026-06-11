@@ -10,6 +10,10 @@ entries:
         - fx
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - 2D Normals
       - Free
@@ -43,6 +47,8 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - win
       tech:
         - opensource-alt
     stale: true
@@ -59,6 +65,8 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - win
   - name: Sprite Sheet Slicer
     url: https://isometric8.itch.io/sprite-sheet-slicer
     description: Sprite Sheet Slicer is a handy no fuss utility to slice sprites
@@ -71,6 +79,8 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - win
   - name: Talos VFX
     url: https://github.com/rockbite/talos
     description: Node based, open source VFX Editor with interface and a ready to use libGDX runtime.
@@ -83,8 +93,13 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - node-based
   - name: Kavex's Spritesheet Maker
     url: https://github.com/Kavex/Spritesheet-Maker
     description: Free spritesheet maker to replace GlueIT. Has much newer export formats.
@@ -97,11 +112,13 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - win
       tech:
         - opensource-alt
   - name: Walking animation cycle in games
     url: https://finalbossblues.com/walk-cycles-p1/
-    description: Walking animation cycle in games.
+    description: Tutorial series on 2D walk-cycle animation for games.
     entry_type: tutorial
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -109,7 +126,11 @@ entries:
       output:
         - games
       workflow:
-        - fx
+        - animation
+      skill:
+        - beginner
+      platform:
+        - web
   - name: Wobblepaint
     url: https://www.lexaloffle.com/bbs/?tid=40058
     description: Pico8 editor that give life to pixel art with a little wobble.
@@ -122,11 +143,13 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - web
   - name: Make Your Own Pixel Art
     url: https://nostarch.com/pixelart
     description: Walks you step-by-step through the available tools, pixel art techniques, the importance of shapes, colors, shading, and how to turn your art into animation.
     license: Paid
-    entry_type: tutorial
+    entry_type: book
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -134,6 +157,10 @@ entries:
         - games
       workflow:
         - fx
+      skill:
+        - beginner
+      platform:
+        - web
   - name: Owlboy
     url: http://www.owlboygame.com/
     description: Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
@@ -145,6 +172,8 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - web
   - name: Starbound
     url: https://playstarbound.com/
     description: Travel across vibrant, colorful and expansive galaxies, including creative dynamic animations.
@@ -156,6 +185,8 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - web
   - name: Paul Robertson
     url: http://probertson.tumblr.com/
     description: Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
@@ -167,6 +198,8 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - web
   - name: PixelCraft
     url: https://rgab1508.github.io/PixelCraft/
     description: Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
@@ -193,6 +226,8 @@ entries:
     tags:
       workflow:
         - animation
+      output:
+        - games
       platform:
         - web
   - name: ShoeBox
@@ -202,6 +237,15 @@ entries:
     entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: unreachable
+    tags:
+      workflow:
+        - texturing
+        - fx
+      output:
+        - games
+      platform:
+        - win
+        - mac
   - name: GlueIT
     url: https://github.com/Kavex/GlueIT
     description: Free Simple Spritesheet Tool
@@ -211,6 +255,10 @@ entries:
     tags:
       output:
         - games
+      workflow:
+        - fx
+      platform:
+        - win
       tech:
         - opensource-alt
     archived: true
@@ -226,6 +274,8 @@ entries:
         - animation
       output:
         - games
+      platform:
+        - win
   - name: Cheetah Texture Packer
     url: https://github.com/scriptum/Cheetah-Texture-Packer
     description: High efficient and fast 2D bin packing tool
@@ -237,6 +287,12 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
@@ -252,6 +308,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - web
       tech:
         - opensource-alt
   - name: Tilesplit
@@ -265,6 +325,12 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
@@ -280,6 +346,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - web
   - name: SpriteUV2
     url: https://www.spriteuv.com/
     description: Tool for creating optimal meshes for textures/sprites and packing them into an atlas.
@@ -291,3 +361,7 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - win

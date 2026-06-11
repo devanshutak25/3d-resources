@@ -9,6 +9,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       platform:
         - web
   - name: Video Magnification (MIT)
@@ -21,6 +23,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       platform:
         - web
     deprecated: true
@@ -35,6 +39,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       platform:
         - web
   - name: Jsplacement
@@ -42,6 +48,12 @@ entries:
     description: Procedural displacement map generator.
     entry_type: tool
     tags:
+      workflow:
+        - texturing
+        - material-authoring
+      platform:
+        - win
+        - mac
       tech:
         - procedural
     readme_tags:
@@ -56,6 +68,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
     readme_tags:
       - Math
       - Interactive
@@ -72,6 +86,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - illustration
+      platform:
+        - web
       tech:
         - opensource-alt
   - name: SunCalc
@@ -82,6 +100,8 @@ entries:
       workflow:
         - lighting
         - reference
+      platform:
+        - web
     readme_tags:
       - Sun Position
       - Golden Hour
@@ -94,6 +114,8 @@ entries:
     tags:
       workflow:
         - texturing
+      platform:
+        - win
     readme_tags:
       - Pre-1.0
       - Photo→Texture
@@ -106,6 +128,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
     readme_tags:
       - Sprite Stacks
       - Pre-1.0
@@ -117,6 +141,14 @@ entries:
     license: Open Source
     entry_type: plugin
     tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender-addon
         - node-based
@@ -133,6 +165,8 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      workflow:
+        - concept
       platform:
         - web
       tech:
@@ -150,9 +184,18 @@ entries:
     license: Open Source
     entry_type: plugin
     tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
         - opensource-alt
+        - procedural
     readme_tags:
       - Houdini
       - CityEngine
@@ -181,6 +224,11 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - archviz
+      platform:
+        - web
+        - cloud
   - name: DEM Net Elevation API C#
     url: https://github.com/dem-net/DEM.Net
     description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
@@ -192,6 +240,12 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: WebGL Texture Tester
@@ -205,6 +259,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - web
   - name: Tangram Heightmapper
     url: https://tangrams.github.io/heightmapper/
     description: Interactive grayscale heightmap browser, which can generate heightmaps for use in 3D applications.
@@ -213,9 +271,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      tech:
-        - blender
-        - blender-addon
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - archviz
+      platform:
+        - web
   - name: emojillate
     url: https://github.com/notwaldorf/emojillate
     description: Pixellate an image into emoji
@@ -226,6 +288,8 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
       tech:
         - opensource-alt
     stale: true

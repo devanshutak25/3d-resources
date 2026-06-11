@@ -12,6 +12,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     deprecated: true
   - name: GMTK Game Jam
     url: https://itch.io/jam/gmtk-2025
@@ -26,6 +28,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: itch.io Jams
     url: https://itch.io/jams
     description: Hundreds of active jams.
@@ -39,6 +43,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Global Game Jam
     url: https://globalgamejam.org/
     description: Annual, in-person worldwide.
@@ -52,6 +58,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Brackeys Game Jam
     url: https://itch.io/jam/brackeys
     description: Beginner-friendly jam.
@@ -62,6 +70,8 @@ entries:
         - beginner
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Beginner-Friendly
       - Brackeys
@@ -80,3 +90,5 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web

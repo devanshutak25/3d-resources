@@ -10,6 +10,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - material-authoring
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - web
       tech:
         - opensource-alt
   - name: OpenPBR
@@ -18,6 +25,15 @@ entries:
     license: Open Source
     entry_type: reference
     tags:
+      workflow:
+        - material-authoring
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - pbr
         - opensource-alt
@@ -34,6 +50,11 @@ entries:
     tags:
       workflow:
         - color-grading
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
     readme_tags:
       - Color Encoding
       - Academy
@@ -50,6 +71,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - editing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: Alembic
@@ -63,11 +92,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - web
       tech:
         - opensource-alt
   - name: MaterialX (GitHub)
     url: https://github.com/materialx/MaterialX
-    description: Materials and look-dev.
+    description: Source repo for the MaterialX material and look-dev interchange standard.
     license: Open Source
     entry_type: reference
     readme_tags:
@@ -75,6 +110,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - material-authoring
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: Open Image IO
@@ -88,6 +132,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: OpenDCX
@@ -101,6 +151,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - web
       tech:
         - opensource-alt
   - name: VFX Reference Platform
@@ -113,6 +169,11 @@ entries:
       - Industry Spec
     url_last_verified: '2026-06-03'
     url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
   - name: MDL
     url: https://github.com/NVIDIA/MDL-SDK
     description: Material Definition Language SDK (NVIDIA).
@@ -124,5 +185,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - material-authoring
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt

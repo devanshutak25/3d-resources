@@ -12,8 +12,13 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - beginner
+      platform:
+        - web
       tech:
         - opensource-alt
+        - godot
   - name: Brackeys (Godot)
     url: https://www.youtube.com/@Brackeys
     description: Returned in 2024 with Godot content.
@@ -26,8 +31,11 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - beginner
       tech:
         - opensource-alt
+        - godot
       platform:
         - web
   - name: HeartBeast
@@ -42,8 +50,11 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - intermediate
       tech:
         - opensource-alt
+        - godot
       platform:
         - web
     deprecated: true
@@ -56,8 +67,11 @@ entries:
         - beginner
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - godot
     readme_tags:
       - Beginner
       - Recipes
@@ -73,10 +87,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      skill:
+        - beginner
+      platform:
+        - web
       tech:
         - opensource-alt
+        - godot
   - name: Miziziziz
     url: https://www.youtube.com/@Miziziziz
     description: Tutorials and game dev challenges.
@@ -89,8 +110,11 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - intermediate
       tech:
         - opensource-alt
+        - godot
       platform:
         - web
   - name: DevDuck
@@ -105,8 +129,11 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - intermediate
       tech:
         - opensource-alt
+        - godot
       platform:
         - web
   - name: The Shaggy Dev
@@ -121,13 +148,16 @@ entries:
     tags:
       output:
         - games
+      skill:
+        - beginner
       tech:
         - opensource-alt
+        - godot
       platform:
         - web
   - name: Introduction into the new Godot OpenVR Asset
     url: https://www.youtube.com/@BastiaanOlij
-    description: Introduction into the new Godot OpenVR Asset.
+    description: Bastiaan Olij YouTube. Godot OpenVR and XR tutorials.
     entry_type: channel
     license: Free
     readme_tags:
@@ -140,5 +170,9 @@ entries:
         - web
       output:
         - games
+        - xr
+      skill:
+        - intermediate
       tech:
         - xr
+        - godot

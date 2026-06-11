@@ -1,7 +1,7 @@
 entries:
   - name: Socketio Client Ue4
     url: https://github.com/getnamo/socketio-client-ue4
-    description: Socket.io client plugin for Unreal Engine 4
+    description: Socket.io client plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -9,6 +9,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -17,7 +21,7 @@ entries:
       - socket.io
   - name: InfraworldRuntime
     url: https://github.com/vizor-games/InfraworldRuntime
-    description: A solution that enables Unreal Engine 4 to work with Google gRPC services from either C++ or Blueprints.
+    description: Use Google gRPC services from C++ or Blueprints in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -25,6 +29,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -35,7 +43,7 @@ entries:
     last_pushed: '2020-06-16'
   - name: Udp Ue4
     url: https://github.com/getnamo/udp-ue4
-    description: Convenience UDP wrapper for Unreal Engine 4
+    description: Convenience UDP wrapper for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -43,6 +51,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -51,7 +63,7 @@ entries:
       - networking
   - name: Tcp Ue4
     url: https://github.com/getnamo/tcp-ue4
-    description: Convenience TCP wrapper for Unreal Engine 4
+    description: Convenience TCP wrapper for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -59,6 +71,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -67,7 +83,7 @@ entries:
       - networking
   - name: UE4MasterServer
     url: https://github.com/RyroNZ/UE4MasterServer
-    description: This is a plugin for Unreal Engine 4 that adds server registration, deregistration etc with a master server.
+    description: Server registration and discovery against a master server in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -75,6 +91,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -85,7 +105,7 @@ entries:
     last_pushed: '2022-12-27'
   - name: UEWebsocket
     url: https://github.com/kristjanvalur/UEWebsocket
-    description: Unreal engine 4 websocket plugin for both c++ and blueprint developer
+    description: WebSocket plugin for Unreal Engine 4, usable from C++ and Blueprint.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -93,6 +113,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -103,7 +127,7 @@ entries:
     last_pushed: '2022-01-07'
   - name: Mqtt Utilities Unreal
     url: https://github.com/NinevaStudios/mqtt-utilities-unreal
-    description: MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
+    description: Exposes MQTT client functionality to Blueprints in Unreal Engine.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -111,6 +135,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -119,7 +147,7 @@ entries:
       - iot
   - name: Ble Utilities Unreal
     url: https://github.com/NinevaStudios/ble-utilities-unreal
-    description: This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
+    description: Scan, connect to, and subscribe to Bluetooth LE devices from Unreal Engine.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -127,6 +155,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -137,7 +169,7 @@ entries:
     last_pushed: '2021-02-18'
   - name: GGPOUE4
     url: https://github.com/BwdYeti/GGPOUE4
-    description: Unreal Engine 4 plugin port of GGPO
+    description: GGPO rollback netcode port for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -145,6 +177,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -153,7 +189,7 @@ entries:
       - multiplayer
   - name: UE DSS Plugin
     url: https://github.com/sha3sha3/UE-DSSPlugin
-    description: Scalable MMO servers instantiation, dungeon instantiation and player balancing subsystem for unreal engine
+    description: MMO server instancing, dungeon instancing, and player balancing subsystem for Unreal Engine.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -161,6 +197,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -169,7 +209,7 @@ entries:
       - server
   - name: UE Easy Kafka
     url: https://github.com/sha3sha3/UE-EasyKafka
-    description: EasyKafka is a Kafka/Redpanda client sub-system for unreal engine. It supports producing and consuming records through blueprint and C++.
+    description: Kafka/Redpanda client subsystem for Unreal Engine, usable from Blueprint and C++.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -177,6 +217,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -193,6 +237,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -201,7 +249,7 @@ entries:
       - networking
   - name: Locus Replication Graph
     url: https://github.com/locus84/LocusReplicationGraph
-    description: Simple Unity Addressables Alternative That Supports Synchronized API And Memory Management.
+    description: Replication Graph setup helper for Unreal Engine multiplayer.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -209,6 +257,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -219,7 +271,7 @@ entries:
     last_pushed: '2022-11-11'
   - name: Unreal Magic Nodes
     url: https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes
-    description: Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
+    description: Custom Kismet node system that lets you write C++ inside Blueprint graphs.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -227,6 +279,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -237,7 +293,7 @@ entries:
     last_pushed: '2022-11-12'
   - name: UE4 EOS Plugin
     url: https://github.com/gaslightgames/UE4_EOS_Plugin
-    description: A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
+    description: Plugin and sample implementing the Epic Online Services SDK in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -245,6 +301,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -256,7 +316,7 @@ entries:
     last_pushed: '2020-11-08'
   - name: Nano
     url: https://github.com/pfist/Nano
-    description: A tiny template for tiny Unreal games.
+    description: Minimal starter template for small Unreal Engine games.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -264,6 +324,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -274,7 +338,7 @@ entries:
     last_pushed: '2021-08-27'
   - name: Unreal Engine Python
     url: https://github.com/20tab/UnrealEnginePython
-    description: Embed Python in Unreal Engine 4
+    description: Embed Python scripting in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -282,6 +346,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -292,7 +360,7 @@ entries:
     last_pushed: '2022-06-22'
   - name: sluaunreal
     url: https://github.com/Tencent/sluaunreal
-    description: Lua dev plugin for unreal engine 4
+    description: Lua scripting plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -300,6 +368,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -308,7 +380,7 @@ entries:
       - scripting
   - name: USharp
     url: https://github.com/pixeltris/USharp
-    description: C# plugin for Unreal Engine 4
+    description: C# scripting plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -316,6 +388,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -327,7 +403,7 @@ entries:
     last_pushed: '2020-05-16'
   - name: LuaMachine
     url: https://github.com/rdeioris/LuaMachine
-    description: Unreal Engine 4 Plugin for Lua APIs implementation
+    description: Lua API integration plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -335,6 +411,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -343,7 +423,7 @@ entries:
       - scripting
   - name: puerts
     url: https://github.com/Tencent/puerts
-    description: Write your game with TypeScript in the ue4 or unity
+    description: Write game logic in TypeScript for Unreal Engine 4 or Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -351,6 +431,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -359,7 +443,7 @@ entries:
       - scripting
   - name: nimue4
     url: https://github.com/pragmagic/nimue4
-    description: Nim language integration for Unreal Engine 4
+    description: Nim language integration for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -367,6 +451,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -377,7 +465,7 @@ entries:
     last_pushed: '2017-07-05'
   - name: Kotlin Unreal
     url: https://github.com/hiperbou/kotlin-unreal
-    description: 'Kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4'
+    description: Use the Kotlin language with Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -385,6 +473,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -395,7 +487,7 @@ entries:
     last_pushed: '2024-01-03'
   - name: Unreal.hx
     url: https://github.com/proletariatgames/unreal.hx
-    description: 'Unreal.hx: Haxe Integration for Unreal'
+    description: Haxe integration for Unreal Engine.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -403,6 +495,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -413,7 +509,7 @@ entries:
     last_pushed: '2023-01-10'
   - name: SilvervineUE4Lua
     url: https://github.com/devcat-studio/SilvervineUE4Lua
-    description: A Lua Scripting Plugin for Unreal Engine 4
+    description: Lua scripting plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -421,6 +517,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -431,7 +531,7 @@ entries:
     last_pushed: '2020-01-09'
   - name: Ue4 Protobuf
     url: https://github.com/hxhb/ue4-protobuf
-    description: This is an Unreal Engine 4 plugin that integrates Protobuf into the project without requiring you to add system PATH or anything else.
+    description: Integrates Protocol Buffers into Unreal Engine 4 without extra system setup.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -439,6 +539,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -449,7 +553,7 @@ entries:
     last_pushed: '2020-05-10'
   - name: DataConfig
     url: https://github.com/slowburn-dev/DataConfig
-    description: Serialization framework for Unreal Engine Property System that just works!
+    description: Serialization framework for the Unreal property system.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -457,6 +561,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -465,7 +573,7 @@ entries:
       - json
   - name: Audio Analysis Tools
     url: https://github.com/gtreshchev/AudioAnalysisTools
-    description: Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
+    description: Audio analysis functions for Unreal Engine. Pairs with Runtime Audio Importer.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -473,6 +581,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -482,7 +594,7 @@ entries:
     archived: true
   - name: XJ music
     url: https://github.com/xjmusic/UnrealPlugin/
-    description: XJ music plugin for Unreal Engine. XJ is the first end-to-end solution for adaptive music in video games built specifically and only for music, enabling composers to realize new possibilities.
+    description: Adaptive music plugin for Unreal Engine games.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -490,6 +602,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -498,7 +614,7 @@ entries:
       - audio
   - name: Runtime Speech Recognizer
     url: https://github.com/gtreshchev/RuntimeSpeechRecognizer
-    description: Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
+    description: Offline real-time speech recognition for Unreal Engine, based on whisper.cpp.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -506,6 +622,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -515,7 +635,7 @@ entries:
     archived: true
   - name: OSVR Unreal
     url: https://github.com/OSVR/OSVR-Unreal
-    description: OSVR plugin for Unreal Engine
+    description: OSVR open-source VR headset plugin for Unreal Engine.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -524,6 +644,10 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -534,7 +658,7 @@ entries:
     last_pushed: '2017-12-01'
   - name: Mixed Reality UX Tools Unreal
     url: https://github.com/microsoft/MixedReality-UXTools-Unreal
-    description: UX tools and components for developing Mixed Reality applications in UE4.
+    description: UX tools and components for Mixed Reality apps in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -543,6 +667,10 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -554,7 +682,7 @@ entries:
     last_pushed: '2022-11-17'
   - name: UMG Resizable Widget
     url: https://github.com/MWadstein/UMG-ResizableWidget
-    description: Resizable Widget for UMG for Unreal Engine 4
+    description: Resizable UMG widget for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -562,6 +690,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -572,7 +704,7 @@ entries:
     last_pushed: '2015-11-06'
   - name: FastSwitcher
     url: https://github.com/gameDNAstudio/FastSwitcher
-    description: Fast Switcher UMG for Unreal Engine 4 loads only the needed widget
+    description: UMG widget switcher that loads only the active widget in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -580,6 +712,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -590,7 +726,7 @@ entries:
     last_pushed: '2019-12-26'
   - name: Unreal UMG 3 D Object In Widget
     url: https://github.com/Tolc/Unreal-UMG-3DObjectInWidget
-    description: A simple Unreal Engine 4 project (precisely 4.7.4) showing how to render a 3D object/mesh in a UMG widget
+    description: Sample showing how to render a 3D mesh inside a UMG widget.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -598,6 +734,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -608,7 +748,7 @@ entries:
     last_pushed: '2016-02-07'
   - name: UE4GamepadUMG
     url: https://github.com/EverNewJoy/UE4GamepadUMG
-    description: Unreal Engine 4 gamepad plugin so you can use a gamepad like a mouse in UMG
+    description: Use a gamepad like a mouse in UMG menus in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -616,6 +756,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -626,7 +770,7 @@ entries:
     last_pushed: '2021-09-30'
   - name: Unreal Im GUI
     url: https://github.com/segross/UnrealImGui
-    description: Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.
+    description: Integrates Dear ImGui debug UI into Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -634,6 +778,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -642,7 +790,7 @@ entries:
       - debug-ui
   - name: Ue4 Uitween
     url: https://github.com/benui-dev/ue4-uitween
-    description: Unreal 4 UMG UI tweening library in C++
+    description: UMG UI tweening library for Unreal Engine 4, written in C++.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -650,6 +798,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -660,7 +812,7 @@ entries:
     last_pushed: '2023-08-05'
   - name: Ue4 Canvas GUI
     url: https://github.com/MaddyOff/ue4-canvas-gui
-    description: It's a simple Canvas GUI for Unreal Engine 4 with mouse operation
+    description: Simple canvas-based GUI with mouse input for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -668,6 +820,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -676,7 +832,7 @@ entries:
       - ui
   - name: Fairy GUI Unreal
     url: https://github.com/fairygui/FairyGUI-unreal
-    description: A flexible UI framework for Unreal Engine
+    description: Flexible UI framework for Unreal Engine.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -684,6 +840,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -694,7 +854,7 @@ entries:
     last_pushed: '2023-07-29'
   - name: ZipUtility Plugin
     url: https://github.com/getnamo/ZipUtility-ue4
-    description: Event driven 7zip utility plugin for Unreal Engine 4
+    description: Event-driven 7-Zip compression utility for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -702,6 +862,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -710,7 +874,7 @@ entries:
       - compression
   - name: Unreal Library
     url: https://github.com/EliotVU/Unreal-Library
-    description: UE Explorer's library for parsing data from games built with the Unreal Engine.
+    description: UE Explorer's library for parsing data from Unreal Engine games.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -718,6 +882,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
         - opensource-alt
     readme_tags:
@@ -725,7 +891,7 @@ entries:
       - reverse-engineering
   - name: ProjectExodus
     url: https://github.com/NegInfinity/ProjectExodus
-    description: Project Exodus - Unity to Unreal scene/project transfer tool.
+    description: Transfers Unity scenes and projects into Unreal Engine.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -733,6 +899,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -743,7 +913,7 @@ entries:
     last_pushed: '2021-04-28'
   - name: UE4 Binary Builder
     url: https://github.com/ryanjon2040/UE4-Binary-Builder
-    description: An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
+    description: Builds installed (Rocket) Unreal Engine binaries from GitHub source.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -751,6 +921,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
         - opensource-alt
     readme_tags:
@@ -760,7 +932,7 @@ entries:
     last_pushed: '2024-04-03'
   - name: Prefabricator Ue4
     url: https://github.com/coderespawn/prefabricator-ue4
-    description: Prefabricator - Prefab plugin for Unreal Engine 4
+    description: Prefab system plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -768,6 +940,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -776,7 +952,7 @@ entries:
       - workflow
   - name: WindowCapture2D
     url: https://github.com/ayumax/WindowCapture2D
-    description: Library for capturing and displaying windows in real time with UnrealEngine
+    description: Capture and display OS windows in real time inside Unreal Engine.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -784,6 +960,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -793,7 +973,7 @@ entries:
     archived: true
   - name: Unreal Fast Noise
     url: https://github.com/midgen/UnrealFastNoise
-    description: Modular, Blueprint-friendly noise generation for UE4
+    description: Modular, Blueprint-friendly noise generation for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -801,6 +981,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -810,7 +994,7 @@ entries:
       - procedural
   - name: Unreal Fast Noise2
     url: https://github.com/DoubleDeez/UnrealFastNoise2
-    description: A plugin that wraps [FastNoise2](https://github.com/Auburn/FastNoise2), allowing you to use the FastNoise2 library in blueprints.
+    description: Blueprint wrapper for the FastNoise2 noise generation library.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -818,6 +1002,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -827,7 +1015,7 @@ entries:
       - procedural
   - name: Async Loading Screen
     url: https://github.com/truong-bui/AsyncLoadingScreen
-    description: Async Loading Screen is a free and open-source plugin for Unreal Engine. Async Loading Screen allows you to easily configure a Loading Screen System in the project settings, and automatically add a
+    description: Configure an async loading screen system from Unreal Engine project settings.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -835,6 +1023,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -843,7 +1035,7 @@ entries:
       - ui
   - name: Global Event System Ue4
     url: https://github.com/getnamo/global-event-system-ue4
-    description: A loosely coupled internal global event system (GES) plugin for the Unreal Engine. Aims to solve cross-map and cross-blueprint communication for reliable and inferable event flow.
+    description: Loosely coupled global event system for cross-map and cross-Blueprint communication.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -851,6 +1043,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt

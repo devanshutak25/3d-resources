@@ -7,6 +7,8 @@ entries:
     tags:
       output:
         - archviz
+      platform:
+        - web
     readme_tags:
       - Arch-Viz
       - Accuracy
@@ -20,6 +22,8 @@ entries:
     tags:
       output:
         - product-viz
+      platform:
+        - web
     readme_tags:
       - Product Design
       - Manufacturing
@@ -33,6 +37,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
     readme_tags:
       - Mograph
       - C4D + AE

@@ -1,7 +1,7 @@
 entries:
   - name: Shortcuter
     url: https://github.com/intentor/shortcuter
-    description: Shortcut utility for Unity. (#SHORTCUTS)
+    description: Shortcut utility for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -9,6 +9,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -19,7 +23,7 @@ entries:
     last_pushed: '2019-11-17'
   - name: SearchTools
     url: https://github.com/eral/SearchTools
-    description: Search Tools In Unity.
+    description: Search tools for the Unity editor.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -27,6 +31,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -37,7 +45,7 @@ entries:
     last_pushed: '2019-07-17'
   - name: Unity Events
     url: https://github.com/GalvanicGames/unity-events
-    description: A code focused strongly typed event system with global system and per GameObject system.
+    description: Strongly typed event system for Unity with global and per-GameObject events.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -45,6 +53,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -55,7 +67,7 @@ entries:
     last_pushed: '2019-02-19'
   - name: Vexe Framework (VFW)
     url: https://github.com/vexe/VFW
-    description: An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
+    description: Editor extension adding advanced inspector and editor extensibility to Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -63,6 +75,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -73,7 +89,7 @@ entries:
     last_pushed: '2017-09-08'
   - name: NGTools
     url: https://github.com/naphier/ngtools
-    description: Unity Editor Extensions and Tools by Napland Games.
+    description: Unity editor extensions and tools by Napland Games.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -81,6 +97,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -91,7 +111,7 @@ entries:
     last_pushed: '2019-06-08'
   - name: Unity Asset Usage Detector
     url: https://github.com/yasirkula/UnityAssetUsageDetector
-    description: Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them.
+    description: Finds which objects reference the selected assets or objects in a Unity project.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -99,6 +119,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -107,7 +131,7 @@ entries:
       - opensource-alt
   - name: Missing References Unity
     url: https://github.com/liortal53/MissingReferencesUnity
-    description: A Unity editor extension for finding missing object references.
+    description: Unity editor extension for finding missing object references.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -115,6 +139,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -125,7 +153,7 @@ entries:
     last_pushed: '2020-10-23'
   - name: DT Compile Time Tracker
     url: https://github.com/DarrenTsung/DTCompileTimeTracker
-    description: Unity editor extension which tracks compile time.
+    description: Unity editor extension that tracks compile time.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -133,6 +161,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -143,7 +175,7 @@ entries:
     last_pushed: '2019-10-01'
   - name: Unity3D Automatron
     url: https://github.com/Thundernerd/Unity3D-Automatron
-    description: An automation tool for Unity3D.
+    description: Automation tool for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -151,6 +183,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -162,7 +198,7 @@ entries:
     last_pushed: '2017-05-15'
   - name: Unity Editor Junkie
     url: https://github.com/roboryantron/UnityEditorJunkie
-    description: Editor scripts to make working with the Unity Editor better
+    description: Editor scripts that improve working with the Unity editor.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -170,6 +206,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -180,7 +220,7 @@ entries:
     last_pushed: '2022-02-11'
   - name: Unity Editor Snippets
     url: https://github.com/pointcache/UnityEditorSnippets
-    description: Collection of different editor things that help with productivity.
+    description: Collection of Unity editor productivity helpers.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -188,6 +228,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -198,7 +242,7 @@ entries:
     last_pushed: '2019-12-10'
   - name: Unity Editor Helper
     url: https://github.com/JefferiesTube/UnityEditorHelper
-    description: An organized bunch of scripts to make editor scripting in Unity easier.
+    description: Scripts that make editor scripting in Unity easier.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -206,6 +250,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -216,7 +264,7 @@ entries:
     last_pushed: '2018-03-01'
   - name: UnityExtensions MeshIntersection
     url: https://github.com/garettbass/UnityExtensions.MeshIntersection
-    description: Perform a raycast against one or more meshes.
+    description: Raycast against one or more meshes in Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -224,6 +272,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -234,7 +286,7 @@ entries:
     last_pushed: '2018-08-29'
   - name: KEngine
     url: https://github.com/mr-kelly/KEngine
-    description: A Unity3D asset bundle framework with LGPL license.
+    description: Unity asset bundle framework (LGPL).
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -242,6 +294,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -252,7 +308,7 @@ entries:
     last_pushed: '2022-12-28'
   - name: Asset Auditing Tools
     url: https://github.com/Unity-Technologies/asset-auditing-tools
-    description: A set of Editor tools to audit project assets and correct errors. ![Official](UnityResource16x16.png)
+    description: Official Unity editor tools to audit project assets and fix errors.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -260,6 +316,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
         - opensource-alt
@@ -270,7 +330,7 @@ entries:
     last_pushed: '2021-06-10'
   - name: ThreeDScans
     url: https://github.com/keijiro/ThreeDScans
-    description: Scanned statue models from the Three D Scans project, optimized for real-time rendering use.
+    description: Scanned statue models from the Three D Scans project, optimized for real-time use.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -278,6 +338,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -286,7 +350,7 @@ entries:
     last_pushed: '2018-03-28'
   - name: 50 Unity Tips
     url: https://github.com/defuncart/50-unity-tips
-    description: A collection of 50 tips for Unity (focusing on Mobile) ranging from editor tools to serialization to UI shortcuts.
+    description: Fifty Unity tips spanning editor tools, serialization, and UI shortcuts, with a mobile focus.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -294,6 +358,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
+      skill:
+        - intermediate
       tech:
         - opensource-alt
     readme_tags:
@@ -302,7 +370,7 @@ entries:
     last_pushed: '2018-06-20'
   - name: UnityGraphicsProgramming Vol.2
     url: https://github.com/IndieVisualLab/UnityGraphicsProgramming2
-    description: Unity Graphics Programming vol.2
+    description: Unity graphics programming techniques and shader samples, volume 2.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -310,6 +378,12 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - advanced
       tech:
         - opensource-alt
     readme_tags:
@@ -318,7 +392,7 @@ entries:
     last_pushed: '2020-04-26'
   - name: Unity Character Customization
     url: https://github.com/eriseven/UnityCharacterCustomization
-    description: A character customization demo for Unity.
+    description: Character customization demo for Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -326,6 +400,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -334,7 +412,7 @@ entries:
     last_pushed: '2019-01-30'
   - name: Complete Unity 2018 Game Development
     url: https://github.com/PacktPublishing/Complete-Unity-2018-Game-Development
-    description: Explore techniques to build 2D/3D applications using real-world examples.
+    description: Companion code for the Complete Unity 2018 Game Development book.
     entry_type: tutorial
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -342,6 +420,12 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
       tech:
         - opensource-alt
     readme_tags:
@@ -350,7 +434,7 @@ entries:
     last_pushed: '2021-01-18'
   - name: Simple ECS
     url: https://github.com/AkanshDivker/Simple-ECS
-    description: An example using the core features of the Entity Component System (ECS) for Unity, inspired by Roll-a-ball.
+    description: Example of Unity's Entity Component System, inspired by Roll-a-ball.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -358,6 +442,12 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
       tech:
         - opensource-alt
     readme_tags:
@@ -366,7 +456,7 @@ entries:
     last_pushed: '2021-01-26'
   - name: Unity Good Practices
     url: https://github.com/futurice/unity-good-practices
-    description: Github repository with Unity best practices.
+    description: Unity best-practices reference from Futurice.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -374,6 +464,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
     readme_tags:
@@ -382,7 +474,7 @@ entries:
     last_pushed: '2018-04-24'
   - name: UniteBerlin
     url: https://github.com/VoxelBoy/UniteBerlin
-    description: 'Repository for my Unite Berlin talk - Become a Speed Demon: Being faster at everything you do in Unity.'
+    description: Companion repo for the Unite Berlin talk on working faster in Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -390,6 +482,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -398,7 +494,7 @@ entries:
     last_pushed: '2019-01-15'
   - name: AngryBots2
     url: https://github.com/UnityTechnologies/AngryBots2
-    description: An example Unity Project, developed by Unity Technologies, used to demonstrate several features.
+    description: Example Unity project from Unity Technologies demonstrating several features.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -406,6 +502,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -414,7 +514,7 @@ entries:
     last_pushed: '2020-09-28'
   - name: Hogwarts
     url: https://github.com/OpenHogwarts/hogwarts
-    description: Hogwarts (Harry Potter) open sandbox game made in Unity.
+    description: Open-source Harry Potter sandbox game made in Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -422,6 +522,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -430,7 +534,7 @@ entries:
     last_pushed: '2023-11-23'
   - name: Unitystation
     url: https://github.com/unitystation/unitystation
-    description: Remake of the simulator Space Station 13.
+    description: Open-source remake of Space Station 13 in Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -438,13 +542,17 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
       - opensource-alt
   - name: San Andreas Unity
     url: https://github.com/GTA-ASM/SanAndreasUnity
-    description: 'We''re porting GTA: San Andreas to Unity!'
+    description: Open-source port of GTA San Andreas to Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -452,6 +560,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -460,7 +572,7 @@ entries:
     last_pushed: '2023-06-16'
   - name: MafiaUnity
     url: https://github.com/OpenMafia/MafiaUnity
-    description: Open-source Mafia game framework.
+    description: Open-source Mafia game framework for Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -468,6 +580,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -485,6 +601,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -493,7 +613,7 @@ entries:
     last_pushed: '2019-01-31'
   - name: UnityTetris
     url: https://github.com/Mukarillo/UnityTetris
-    description: Tetris clone written in C# and using Unity engine to render.
+    description: Tetris clone written in C# and rendered with Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -501,6 +621,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -509,7 +633,7 @@ entries:
     last_pushed: '2024-03-12'
   - name: Pacman
     url: https://github.com/vilbeyli/Pacman
-    description: A Pacman clone with original AI made using Unity.
+    description: Pacman clone with original AI made in Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -517,6 +641,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -526,7 +654,7 @@ entries:
     last_pushed: '2018-10-27'
   - name: Minesweeper
     url: https://github.com/vilbeyli/Minesweeper
-    description: Tile based Minesweeper game with highschores made in Unity.
+    description: Tile-based Minesweeper with high scores made in Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -534,6 +662,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -543,7 +675,7 @@ entries:
     last_pushed: '2020-09-30'
   - name: Colorus
     url: https://github.com/nicloay/colorus
-    description: Coloring book game for Web/iOS made with Unity.
+    description: Coloring book game for web and iOS made with Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -551,6 +683,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -559,7 +695,7 @@ entries:
     last_pushed: '2017-05-30'
   - name: 'GitHub: mrzapp'
     url: https://github.com/mrzapp
-    description: Unity tools and utilities.
+    description: GitHub profile with open-source Unity tools and utilities.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -567,6 +703,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - unity-plugin
         - opensource-alt
@@ -575,7 +713,7 @@ entries:
       - opensource-alt
   - name: 'GitHub: mob-sakai'
     url: https://github.com/mob-sakai
-    description: Unity tools and effects.
+    description: GitHub profile with open-source Unity tools and effects.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -583,6 +721,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - unity-plugin
         - opensource-alt
@@ -591,7 +731,7 @@ entries:
       - opensource-alt
   - name: Metaverse Standards Forum
     url: https://www.youtube.com/@metaversestandardsforum
-    description: Metaverse Standards Forum 5/6/2025
+    description: YouTube channel of the Metaverse Standards Forum, with talks and panels.
     entry_type: channel
     license: Free
     url_last_verified: '2026-06-01'
@@ -599,15 +739,15 @@ entries:
     tags:
       output:
         - games
-      tech:
-        - unity-plugin
       platform:
         - web
+      tech:
+        - unity-plugin
     readme_tags:
       - unity-plugin
   - name: 3DBuzz
     url: https://www.youtube.com/@3dbuzz
-    description: A video tutorial providing an in-depth explanation of Unity's new UI system.
+    description: Video tutorials on Unity, including its UI system.
     entry_type: channel
     license: Free
     url_last_verified: '2026-06-01'
@@ -615,15 +755,17 @@ entries:
     tags:
       output:
         - games
-      tech:
-        - unity-plugin
       platform:
         - web
+      skill:
+        - intermediate
+      tech:
+        - unity-plugin
     readme_tags:
       - unity-plugin
   - name: Lochie Westfall
     url: https://www.youtube.com/@LochieWestfall
-    description: '[GitHub repo](https://github.com/LochieWestfallGames/VR-Tutorial)'
+    description: YouTube channel with Unity VR tutorials.
     entry_type: channel
     license: Free
     url_last_verified: '2026-06-01'
@@ -631,15 +773,17 @@ entries:
     tags:
       output:
         - games
-      tech:
-        - unity-plugin
       platform:
         - web
+      skill:
+        - intermediate
+      tech:
+        - unity-plugin
     readme_tags:
       - unity-plugin
   - name: Super Mario Bros AR Game
     url: https://www.youtube.com/@shekitup
-    description: AR game built with Microsoft HoloLens and Unity3D
+    description: Channel showing an AR Super Mario game built with Microsoft HoloLens and Unity.
     entry_type: channel
     license: Free
     readme_tags:
@@ -648,15 +792,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
       output:
         - games
+        - xr
+      platform:
+        - web
+      skill:
+        - intermediate
       tech:
         - xr
-  - name: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !
+  - name: How to Set Up Unity's VR Editor (EditorVR)
     url: https://www.youtube.com/@cooleobrad
-    description: HOW TO SET UP UNITY'S VR EDITOR (EditorVR) !.
+    description: Tutorial on setting up Unity's experimental EditorVR.
     entry_type: channel
     license: Free
     readme_tags:
@@ -665,15 +812,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
       output:
         - games
+        - xr
+      platform:
+        - web
+      skill:
+        - beginner
       tech:
         - xr
   - name: Leading Ones (LeadingOnesVR)
     url: https://www.youtube.com/@LeadingOnesVR
-    description: 'Unity VR: EditorVR Quick Look.'
+    description: Quick look at Unity's EditorVR.
     entry_type: channel
     license: Free
     readme_tags:
@@ -682,15 +832,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
       output:
         - games
+        - xr
+      platform:
+        - web
+      skill:
+        - beginner
       tech:
         - xr
   - name: Unity Mecanim VR IK vs Final IK
     url: https://www.youtube.com/@createthisdotcom
-    description: '[VR IK using native Unity Mecanim IK](https://github.com/createthis/unity_vr_ik_mecanim)'
+    description: Channel comparing VR IK using native Unity Mecanim IK versus Final IK.
     entry_type: channel
     license: Free
     readme_tags:
@@ -699,15 +852,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
       output:
         - games
+        - xr
+      platform:
+        - web
+      skill:
+        - advanced
       tech:
         - xr
   - name: Game View Maximizer
     url: https://github.com/tomori-hikage/game-view-maximizer
-    description: Maximizes the game view window with a Shortcut. See [related](https://answers.unity.com/questions/180607/shortcut-key-to-maximize-viewport.html).
+    description: Maximizes the Unity game view with a keyboard shortcut.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -715,254 +871,9 @@ entries:
     tags:
       output:
         - games
-        - xr
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
-  - name: SpriteDicing
-    url: https://github.com/Elringus/SpriteDicing
-    description: Unity extension for reusing sprite texture areas.
-    license: Open Source
-    entry_type: plugin
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-  - name: Unity Bitmap Drawing
-    url: https://github.com/ProtoTurtle/UnityBitmapDrawing
-    description: Bitmap Drawing API extension methods for Unity 3D's Texture2D class.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2014-06-12'
-  - name: U Texture Send Receive
-    url: https://github.com/BarakChamo/uTextureSendReceive
-    description: Unity network texture sender and receiver for video and frame streaming.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2018-07-30'
-  - name: Unity Resource Checker
-    url: https://github.com/handcircus/Unity-Resource-Checker
-    description: Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them).
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2022-02-20'
-  - name: CropTexture
-    url: https://github.com/natsupy/CropTexture
-    description: Crop and resize texture in Unity editor!
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2017-09-01'
-  - name: Unity Preview Generator
-    url: https://github.com/klhurley/UnityPreviewGenerator
-    description: Generates preview textures for sprites, icons of Unity models.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2019-02-03'
-  - name: TexturePanner
-    url: https://github.com/AdultLink/TexturePanner
-    description: This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2022-03-09'
-  - name: CurveTexture
-    url: https://github.com/slipster216/CurveTexture
-    description: Easily encode arbitrary curves into textures and apply them to materials or global shader properties.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2017-07-05'
-  - name: Unity Texture Packer
-    url: https://github.com/andydbc/unity-texture-packer
-    description: Utility to combine color channels from different textures into a single output.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-  - name: WaveformProvider
-    url: https://github.com/EsProgram/WaveformProvider
-    description: Provide a texture to simulate waves with Unity.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2018-05-12'
-  - name: Animation Texture Baker
-    url: https://github.com/zulfajuniadi/Animation-Texture-Baker
-    description: Bake Legacy Animations into Textures. Targeting ECS. (#ANIMATION)
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2018-07-18'
-  - name: AudioTexture
-    url: https://github.com/TyounanMOTI/AudioTexture
-    description: Generate Unity Texture2D from AudioClip. (#AUDIO)
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2019-03-09'
-  - name: UVPreview
-    url: https://github.com/AsehesL/UVPreview
-    description: Preview your UV islands in inspector window for your textures.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2019-07-21'
-  - name: Texture3DPreview for Unity
-    url: https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity
-    description: This package enables interactive previews of Texture3D assets in Unity's Inspector window.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      tech:
-        - opensource-alt
-        - unity-plugin
-    stale: true
-    last_pushed: '2017-10-30'
-  - name: Unity BitmapFontImporter
-    url: https://github.com/litefeel/Unity-BitmapFontImporter
-    description: An Unity editor extension for bitmap font.
-    license: Open Source
-    entry_type: plugin
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      tech:
-        - unity-plugin
-        - opensource-alt
-  - name: Unity Stb Easy Font
-    url: https://github.com/aras-p/UnityStbEasyFont
-    description: A port of stb_easy_font.h to Unity/C#.
-    license: Open Source
-    entry_type: plugin
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      tech:
-        - unity-plugin
-        - opensource-alt
-    stale: true
-    last_pushed: '2015-11-07'

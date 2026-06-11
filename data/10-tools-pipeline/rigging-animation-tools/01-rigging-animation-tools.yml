@@ -8,6 +8,13 @@ entries:
       workflow:
         - rigging
         - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender-addon
     readme_tags:
@@ -24,9 +31,16 @@ entries:
       workflow:
         - rigging
         - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - node-based
         - procedural
+        - houdini-addon
     readme_tags:
       - Procedural Rig
       - Houdini
@@ -41,8 +55,13 @@ entries:
     url_status: ok
     tags:
       workflow:
-        - rigging
+        - mocap
         - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -59,8 +78,13 @@ entries:
       workflow:
         - rigging
         - animation
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - maya
     readme_tags:
       - Maya Rigging
       - Open Source
@@ -75,8 +99,13 @@ entries:
       workflow:
         - rigging
         - animation
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - maya
     readme_tags:
       - Wrap Deformer
       - Maya
@@ -93,8 +122,13 @@ entries:
       workflow:
         - rigging
         - animation
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - maya
     readme_tags:
       - Onion Skin
       - Maya
@@ -114,6 +148,8 @@ entries:
       output:
         - games
         - film-vfx
+      platform:
+        - win
   - name: ossos
     url: https://github.com/sketchpunklabs/ossos
     description: A complete character skinning & animation library for the web
@@ -123,7 +159,10 @@ entries:
     url_status: ok
     tags:
       workflow:
-        - modeling
+        - skinning
+        - animation
+      output:
+        - games
       tech:
         - opensource-alt
       platform:
@@ -141,4 +180,4 @@ entries:
       workflow:
         - rigging
         - animation
-        - modeling
+        - skinning

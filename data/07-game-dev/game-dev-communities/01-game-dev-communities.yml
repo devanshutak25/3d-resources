@@ -12,6 +12,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: r/indiegaming
     url: https://www.reddit.com/r/indiegaming/
     description: Indie gaming subreddit.
@@ -25,6 +27,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: r/unrealengine
     url: https://www.reddit.com/r/unrealengine/
     description: Unreal Engine subreddit.
@@ -38,6 +42,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
+      tech:
+        - unreal-plugin
   - name: r/IndieDev
     url: https://www.reddit.com/r/IndieDev/
     description: Indie developer subreddit.
@@ -51,6 +59,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: r/gamedesign
     url: https://www.reddit.com/r/gamedesign/
     description: Game design subreddit.
@@ -64,6 +74,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: r/pixelart
     url: https://www.reddit.com/r/PixelArt/
     description: Pixel art subreddit.
@@ -77,6 +89,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Game Dev League
     url: https://discord.gg/gamedev
     description: Game dev Discord.
@@ -90,6 +104,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Unreal Slackers
     url: https://unrealslackers.org/
     description: Unreal Engine Discord community.
@@ -103,6 +119,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
+      tech:
+        - unreal-plugin
   - name: Brackeys Discord
     url: https://discord.gg/brackeys
     description: Brackeys Discord community.
@@ -116,6 +136,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Work With Indies
     url: https://www.workwithindies.com/
     description: Indie game job board.
@@ -129,6 +151,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: IndieDB
     url: https://www.indiedb.com/
     description: Indie game database and promotion.
@@ -142,6 +166,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: TIGSource Forums
     url: https://forums.tigsource.com/
     description: Long-running indie forum.
@@ -155,6 +181,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Games Artist
     url: https://gamesartist.co.uk/
     description: Game art community with breakdowns, tutorials, and showcases.
@@ -168,3 +196,5 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web

@@ -11,5 +11,9 @@ entries:
         - games
       workflow:
         - audio-design
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin

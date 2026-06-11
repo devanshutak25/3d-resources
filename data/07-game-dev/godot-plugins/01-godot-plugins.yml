@@ -12,8 +12,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - godot
   - name: GodotSteam
     url: https://github.com/GodotSteam/GodotSteam
     description: Steamworks SDK integration.
@@ -27,8 +32,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - godot
     archived: true
   - name: Phantom Camera
     url: https://github.com/ramokz/phantom-camera
@@ -43,8 +53,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - godot
   - name: Limbo AI
     url: https://github.com/limbonaut/limboai
     description: Behavior trees and state machines.
@@ -58,8 +73,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - godot
   - name: SmartShape2D
     url: https://github.com/SirRamEsq/SmartShape2D
     description: Intelligent 2D terrain/shape tool.
@@ -73,8 +93,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - godot
   - name: Gut
     url: https://github.com/bitwes/Gut
     description: Unit testing framework for GDScript.
@@ -86,10 +111,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - godot
   - name: GdSpy
     url: https://github.com/Alby90/GdSpy
     description: Unofficial fSpy importer for Godot.
@@ -98,10 +130,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - match-move
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - godot
   - name: Godot 4 glTF runtime import
     url: https://github.com/godotengine/godot-docs/issues/6385
     description: Godot 4 glTF runtime import.
@@ -112,19 +151,27 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - opensource-alt
+        - godot
   - name: Godot Package Manager
     url: https://github.com/you-win/godot-package-manager
     description: Package manager for Godot using npm.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - godot
     stale: true
     last_pushed: '2023-01-11'

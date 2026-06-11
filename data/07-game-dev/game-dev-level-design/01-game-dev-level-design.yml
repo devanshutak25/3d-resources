@@ -5,10 +5,16 @@ entries:
     license: Open Source
     entry_type: plugin
     tags:
+      workflow:
+        - modeling
       tech:
         - blender-addon
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Blender Addon
       - Tile-based 3D
@@ -24,8 +30,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2022-12-22'
   - name: Unity2D TMX
@@ -38,8 +49,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2014-05-17'
   - name: Chisel.Prototype
@@ -50,23 +66,37 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - modeling
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
     archived: true
   - name: GILES
     url: https://github.com/Unity-Technologies/giles
-    description: A Runtime Level Editor for Unity3D. ![Official](UnityResource16x16.png)
+    description: A runtime level editor for Unity3D.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - modeling
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2021-12-22'
   - name: Editor2D
@@ -79,21 +109,33 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2019-06-08'
   - name: Sprytile (GitHub)
     url: https://github.com/Sprytile/Sprytile
-    description: Blender add-on for building tile based low-poly scenes with paint/map editor like tools. [[more info]](https://chemikhazi.itch.io/sprytile)
+    description: Blender add-on for building tile-based low-poly scenes with paint and map-editor tools.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - modeling
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - blender-addon
     stale: true
     last_pushed: '2023-10-10'

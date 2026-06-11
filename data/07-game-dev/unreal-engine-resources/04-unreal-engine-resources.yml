@@ -1,7 +1,7 @@
 entries:
   - name: Ue4MarchingCubes
     url: https://github.com/mikhomak/Ue4MarchingCubes
-    description: 3D Perlin Noise using Marching cubes algorithm for Unreal Engine 4
+    description: 3D Perlin noise meshing via marching cubes for Unreal Engine 4.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -9,6 +9,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -16,7 +20,7 @@ entries:
     last_pushed: '2021-01-08'
   - name: UE4 Node Graph Assistant
     url: https://github.com/pdlogingithub/UE4-Node-Graph-Assistant
-    description: A plugin to help you to create node graph faster and easier in unreal engine 4.
+    description: Speeds up node graph editing in Unreal Engine 4.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -24,6 +28,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -31,7 +39,7 @@ entries:
     last_pushed: '2022-06-12'
   - name: Hermes
     url: https://github.com/jorgenpt/Hermes
-    description: An Unreal Engine plugin that allows direct (deep) links into the UE4 editor
+    description: Adds deep links into the UE4 editor.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -39,12 +47,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: RedTalaria
     url: https://github.com/cdpred/RedTalaria
-    description: Unreal Engine plugin providing a set of Hermes endpoints
+    description: Set of Hermes deep-link endpoints for Unreal Engine.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -52,6 +64,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -59,7 +75,7 @@ entries:
     last_pushed: '2024-04-23'
   - name: Unreal Bp Csv Parsing
     url: https://github.com/IncantaGames/unreal-bp-csv-parsing
-    description: Unreal Engine plugin that adds CSV parsing blueprint nodes
+    description: Adds CSV parsing Blueprint nodes to Unreal Engine.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -67,12 +83,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: MD Meta Data Editor
     url: https://github.com/DoubleDeez/MDMetaDataEditor
-    description: Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
+    description: Edit metadata on Blueprint properties, functions, and parameters. UE 5.1+.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -80,12 +100,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: UE Easy JWT
     url: https://github.com/sha3sha3/UE-EasyJWT
-    description: JWT wrapper (Engine Sub-system) for Unreal Engine.
+    description: JWT wrapper subsystem for Unreal Engine.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -93,12 +117,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: ue5coro
     url: https://github.com/landelare/ue5coro
-    description: A C++20 coroutine plugin, offering integration with Unreal Engine 5.
+    description: C++20 coroutine plugin integrated with Unreal Engine 5.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -106,12 +134,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: RemCommon
     url: https://github.com/RemRemRemRe/RemCommon
-    description: Common utilities for gameplay in UnrealEngine
+    description: Common gameplay utilities for Unreal Engine.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -119,12 +151,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: RemRanges
     url: https://github.com/RemRemRemRe/RemRanges
-    description: Combination of IGRanges and ranges-v3 for Unreal
+    description: Combines IGRanges and ranges-v3 for Unreal Engine.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -132,12 +168,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: ViewportManager
     url: https://github.com/jackcayc924/ViewportManager
-    description: A C++ based plugin for Unreal Engine that allows for multiple customizable viewports
+    description: Multiple customizable viewports for Unreal Engine, in C++.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -145,12 +185,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Sublime Unreal Snippets
     url: https://github.com/awforsythe/sublime-unreal-snippets
-    description: A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
+    description: Sublime Text 3 snippets for writing Unreal Engine 4 game code.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -158,6 +202,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - unreal-plugin
         - opensource-alt
@@ -165,7 +211,7 @@ entries:
     last_pushed: '2020-07-31'
   - name: Vscode Unreal Snippets
     url: https://github.com/pseuplex/vscode-unreal-snippets
-    description: Unreal Engine snippets based on https://github.com/awforsythe/sublime-unreal-snippets.
+    description: VS Code snippets for Unreal Engine, based on the Sublime snippet set.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -173,6 +219,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - unreal-plugin
         - opensource-alt
@@ -180,7 +228,7 @@ entries:
     last_pushed: '2021-01-26'
   - name: Easy Json Parser
     url: https://github.com/ayumax/EasyJsonParser
-    description: Json parse library for unreal engine
+    description: JSON parsing library for Unreal Engine.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -188,13 +236,17 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
     archived: true
   - name: EasyXMLParser
     url: https://github.com/ayumax/EasyXMLParser
-    description: Xml parse library for unreal engine
+    description: XML parsing library for Unreal Engine.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -202,13 +254,17 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
     archived: true
   - name: Ue4 Docker
     url: https://github.com/adamrehn/ue4-docker
-    description: Windows and Linux containers for Unreal Engine 4
+    description: Windows and Linux containers for Unreal Engine 4.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -216,12 +272,15 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: LocalizationUE4
     url: https://github.com/rionix/LocalizationUE4
-    description: Translation Editor for Unreal Engine 4
+    description: Standalone translation editor for Unreal Engine 4.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -229,6 +288,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -236,7 +299,7 @@ entries:
     last_pushed: '2022-07-03'
   - name: Unreal Version Changer
     url: https://github.com/Gradess2019/UnrealVersionChanger
-    description: Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
+    description: Fakes a plugin's UE version so it installs on newer engine versions.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -244,12 +307,14 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Nuke.Unreal
     url: https://github.com/microdee/Nuke.Unreal
-    description: C# scriptable workflow for automating Unreal Engine project tasks embracing the [Nuke](https://nuke.build) target graph and fluent API tool bindings.
+    description: C# scriptable workflow for automating Unreal Engine project tasks, built on Nuke.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -257,12 +322,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: Fresh Cooked Tweens
     url: https://github.com/jdcook/fresh_cooked_tweens
-    description: A tweening library for Unreal Engine that provide convenient curve equations to ease a value between a start and end, like a position, scale, color, anything you want to smoothly change.
+    description: Tweening library with curve easing for any value in Unreal Engine.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -270,12 +339,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: UE BUI Tween
     url: https://github.com/benui-dev/UE-BUITween
-    description: UI Tweening Libary for Unreal Engine UMG UI. Create simple tweens for UMG widgets from C++.
+    description: UMG UI tweening library for Unreal Engine, usable from C++.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -283,6 +356,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
@@ -290,7 +367,7 @@ entries:
     last_pushed: '2023-08-05'
   - name: Game Development & Unreal Engine Programming Guide
     url: https://github.com/ikrima/gamedevguide
-    description: Game Development & Unreal Engine Programming Guide https://ikrima.dev
+    description: Notes and guide on game development and Unreal Engine programming.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -298,12 +375,14 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - unreal-plugin
         - opensource-alt
   - name: unrealcpp
     url: https://github.com/Harrison1/unrealcpp
-    description: Unreal Engine 4 C++ examples
+    description: Collection of Unreal Engine 4 C++ examples.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -311,12 +390,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
         - opensource-alt
   - name: 📺📜 Control Rig ~ Ask A Dev
     url: https://www.youtube.com/@livinfreestyle6727
-    description: '[character,animation] - 22 vids.'
+    description: Control Rig tutorials for character animation. 22 videos.
     entry_type: channel
     license: Free
     url_last_verified: '2026-06-01'
@@ -326,9 +409,11 @@ entries:
         - games
       platform:
         - web
+      skill:
+        - intermediate
   - name: Unreal Engine
     url: https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ
-    description: The official Unreal Engine YouTube channel with weekly live streams.
+    description: Official Unreal Engine YouTube channel with weekly live streams.
     entry_type: channel
     license: Free
     readme_tags:
@@ -337,13 +422,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
       output:
         - games
+      platform:
+        - web
+      skill:
+        - beginner
   - name: Unreal Engine Official YouTube
     url: https://www.youtube.com/@UnrealEngine
-    description: Unreal Engine Official YouTube.
+    description: Official Unreal Engine YouTube channel.
     entry_type: channel
     license: Free
     readme_tags:
@@ -352,13 +439,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
       output:
         - games
+      platform:
+        - web
+      skill:
+        - beginner
   - name: Animated Crosshairs UE4
     url: https://github.com/BitReign/AnimatedCrosshairsUE4
-    description: Animated Crosshairs for Unreal Engine 4 provides 17 ready to use animated UMG widgets including demo scene to test their combination
+    description: 17 ready-to-use animated UMG crosshair widgets with a demo scene.
     entry_type: asset-source
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -368,6 +457,10 @@ entries:
         - animation
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - unreal-plugin
@@ -375,7 +468,7 @@ entries:
     last_pushed: '2020-11-26'
   - name: Quests
     url: https://github.com/angelhodar/OpenRPG_Quest
-    description: Efficient and rich featured quests system for Unreal Engine 4
+    description: Quest system plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -383,7 +476,10 @@ entries:
     tags:
       output:
         - games
-        - xr
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - unreal-plugin
@@ -391,7 +487,7 @@ entries:
     last_pushed: '2023-11-12'
   - name: 'Unreal Docs: Getting Started With Texture Graph'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/getting-started-with-texture-graph-in-unreal-engine
-    description: Unreal Engine Documentation.
+    description: Docs for Texture Graph, Unreal's node-based texture authoring tool.
     license: Free
     entry_type: reference
     url_last_verified: '2026-06-01'
@@ -400,9 +496,13 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - web
   - name: Unreal Engine Learning
     url: https://dev.epicgames.com/community/learning/tutorials/z0VJ/unreal-engine-getting-started-with-texture-graph
-    description: Unreal Engine Learning.
+    description: Getting-started tutorial for Unreal's Texture Graph.
     license: Free
     entry_type: tutorial
     url_last_verified: '2026-06-01'
@@ -411,9 +511,15 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
   - name: Va Tex Atlas
     url: https://github.com/ufna/VaTexAtlas
-    description: Simple way to use texture atlases for Unreal Engine 4 UMG
+    description: Texture atlas support for Unreal Engine 4 UMG.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -422,6 +528,12 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - unreal-plugin
@@ -430,7 +542,7 @@ entries:
     last_pushed: '2021-01-21'
   - name: ALS Community
     url: https://github.com/dyanikoglu/ALS-Community
-    description: Replicated and optimized community version of Advanced Locomotion System V4
+    description: Replicated, optimized community fork of Advanced Locomotion System V4.
     entry_type: community
     license: Open Source
     readme_tags:
@@ -439,12 +551,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - unreal-plugin
   - name: UE4 Plugin Resources
     url: https://github.com/Sythenz/UE4-Plugin-Resources
-    description: A list of community resources for Slate, Graphs, and UE4 Plugin Development.
+    description: Community resource list for Slate, graphs, and UE4 plugin development.
     entry_type: community
     license: Open Source
     readme_tags:
@@ -453,6 +571,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      platform:
+        - web
       tech:
         - opensource-alt
         - unreal-plugin
@@ -460,7 +582,7 @@ entries:
     last_pushed: '2021-11-18'
   - name: MassSample
     url: https://github.com/Megafunk/MassSample
-    description: Community Mass Sample
+    description: Community sample project for the Mass Entity (ECS) framework.
     entry_type: community
     license: Open Source
     readme_tags:
@@ -469,6 +591,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - unreal-plugin

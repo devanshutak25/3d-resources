@@ -6,10 +6,16 @@ entries:
     entry_type: tool
     best_for: Dailies processing automation
     tags:
-      tech:
-        - opensource-alt
       workflow:
         - rendering
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
     readme_tags:
       - Dailies
       - Open Source
@@ -22,6 +28,10 @@ entries:
     entry_type: tool
     best_for: AI image/video inference (depth, masks)
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - ai-ml
@@ -34,10 +44,15 @@ entries:
     last_pushed: '2024-02-04'
   - name: Pipeline Developer Forum
     url: https://pipedev.org
-    description: Pipeline Developer Forum.
+    description: Forum for pipeline TDs and studio tool developers.
     license: Free
     entry_type: community
     best_for: Pipeline TD community
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
     readme_tags:
       - Community
       - Pipeline
@@ -55,6 +70,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: unreachable
     tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: OD CopyPasteExternal
@@ -64,6 +85,12 @@ entries:
     entry_type: tool
     best_for: Cross-DCC geometry transfer
     tags:
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -80,6 +107,10 @@ entries:
     entry_type: tool
     best_for: CG plugin build systems
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -96,6 +127,10 @@ entries:
     entry_type: tool
     best_for: VFX dev libraries
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
       output:
@@ -112,6 +147,10 @@ entries:
     entry_type: tool
     best_for: Cross-DCC scene abstraction
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -128,8 +167,13 @@ entries:
     entry_type: tool
     best_for: Maya Python UI dev
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - maya
     readme_tags:
       - Maya
       - Open Source
@@ -144,8 +188,13 @@ entries:
     entry_type: tool
     best_for: Maya scene queries
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - maya
     readme_tags:
       - Maya
       - Open Source
@@ -160,6 +209,8 @@ entries:
     entry_type: tool
     best_for: 3ds Max Python bindings
     tags:
+      platform:
+        - win
       tech:
         - opensource-alt
     readme_tags:
@@ -176,8 +227,13 @@ entries:
     entry_type: tool
     best_for: Maya Python wrapper
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - maya
     readme_tags:
       - Maya
       - Open Source
@@ -190,6 +246,12 @@ entries:
     entry_type: tool
     best_for: 3D data processing C++ lib
     tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -204,6 +266,10 @@ entries:
     entry_type: tool
     best_for: Studio asset management
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
       output:
@@ -221,6 +287,10 @@ entries:
     entry_type: tool
     best_for: Studio production asset mgmt
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
       output:
@@ -232,11 +302,17 @@ entries:
     url_status: ok
   - name: Example of Python scripts for 3D Studio Max, Maya and Blender
     url: https://github.com/p4vv37/3D_Software_and_Python/
-    description: Example of Python scripts for 3D Studio Max, Maya and Blender.
+    description: Sample Python scripts for 3ds Max, Maya, and Blender automation.
     license: Open Source
     entry_type: reference
     best_for: DCC Python script examples
     tags:
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:
@@ -253,9 +329,16 @@ entries:
     entry_type: tool
     best_for: Synthetic training data via Blender
     tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - ai-ml
+        - blender-addon
     readme_tags:
       - Blender
       - Synthetic Data
@@ -268,8 +351,13 @@ entries:
     entry_type: tool
     best_for: Maya scripting in PyCharm
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - maya
     readme_tags:
       - Maya
       - IDE
@@ -284,8 +372,13 @@ entries:
     entry_type: tool
     best_for: Maya scripting in Sublime
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - maya
     readme_tags:
       - Maya
       - IDE
@@ -300,8 +393,13 @@ entries:
     entry_type: tool
     best_for: Houdini VEX in Sublime
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - houdini
     readme_tags:
       - Houdini
       - IDE
@@ -314,6 +412,10 @@ entries:
     entry_type: tool
     best_for: Nuke scripting in vim
     tags:
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     readme_tags:

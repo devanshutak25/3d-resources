@@ -11,6 +11,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - godot
   - name: Godot Discord
@@ -25,6 +27,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - godot
   - name: Godot Forums
@@ -39,5 +43,7 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - godot
