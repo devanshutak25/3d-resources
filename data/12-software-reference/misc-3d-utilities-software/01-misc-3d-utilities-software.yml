@@ -28,7 +28,7 @@ entries:
       - lighting-rendering-shaders/rendering-shader-theory
   - name: Lightmap HDR Light Studio
     url: https://www.lightmap.co.uk/
-    description: Lighting software.
+    description: Interactive HDR lighting tool that connects to most renderers and DCCs.
     license: Paid
     entry_type: software
     best_for: Interactive HDR lighting
@@ -42,6 +42,7 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
+      - lighting-rendering-shaders/rendering-shader-theory
   - name: Massive Software
     url: https://www.massivesoftware.com/massiveprime.html
     description: Crowd simulation.

@@ -11,6 +11,14 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-11 22:30
+**Prompt:**
+> add https://www.lightmap.co.uk/
+
+**Answered:** Already in catalog (Lightmap HDR Light Studio, misc-3d-utilities-software). Improved thin description + added lighting-rendering-shaders/rendering-shader-theory mirror. Validation passed.
+
+---
+
 ### 2026-06-09 02:00
 **Prompt:**
 > 3d.devanshutak.xyz — fix the broken citations/citations/object-nerf.txt link in that project.
