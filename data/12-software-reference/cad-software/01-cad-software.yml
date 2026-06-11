@@ -289,6 +289,7 @@ entries:
   - name: GrabCAD
     url: https://grabcad.com
     description: Community CAD model library.
+    license: Free
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -298,6 +299,7 @@ entries:
   - name: Thingiverse
     url: https://thingiverse.com
     description: 3D-printing model community.
+    license: Free
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok

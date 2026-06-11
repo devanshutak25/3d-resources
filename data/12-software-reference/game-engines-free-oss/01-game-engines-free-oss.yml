@@ -567,6 +567,7 @@ entries:
   - name: Babylon.js
     url: https://www.babylonjs.com/
     description: JavaScript 3D engine/framework for browser games and apps.
+    license: Open Source
     entry_type: software
     best_for: Browser 3D apps/games
     tags:
@@ -586,6 +587,7 @@ entries:
   - name: Blend4Web
     url: http://www.blend4web.com/
     description: JavaScript framework for interactive 3D in browsers. Blender integration.
+    license: Open Source
     entry_type: software
     best_for: Browser 3D from Blender
     tags:
@@ -604,6 +606,7 @@ entries:
   - name: Three.js
     url: http://threejs.org/
     description: JavaScript 3D library. The standard for web 3D.
+    license: Open Source
     entry_type: software
     best_for: Web 3D graphics (broad)
     tags:
@@ -623,6 +626,7 @@ entries:
   - name: Ceramic
     url: https://ceramic-engine.com/
     description: Haxe cross-platform 2D framework. Exports to Windows, Mac, Linux, iOS, Android, HTML5/WebGL, Unity.
+    license: Open Source
     entry_type: software
     best_for: 2D cross-platform (Haxe)
     tags:
@@ -645,6 +649,7 @@ entries:
   - name: Irrlicht
     url: http://irrlicht.sourceforge.net/
     description: Open source high-performance realtime 3D engine (C++).
+    license: Open Source
     entry_type: software
     best_for: C++ realtime 3D (classic)
     tags:
@@ -664,6 +669,7 @@ entries:
   - name: Panda3D
     url: https://www.panda3d.org/
     description: Python-based 3D engine (originated at Disney VR Studio, now CMU ETC).
+    license: Open Source
     entry_type: software
     best_for: Python 3D games
     tags:
@@ -683,6 +689,7 @@ entries:
   - name: Torque3D
     url: https://torque3d.org/torque3d/
     description: C++ engine with decades of Torque technology lineage.
+    license: Open Source
     entry_type: software
     best_for: C++ game engine
     tags:
@@ -702,6 +709,7 @@ entries:
   - name: SpriteBuilder
     url: http://www.spritebuilder.com/
     description: Open source game development suite for macOS.
+    license: Open Source
     entry_type: software
     best_for: 2D games on Mac
     tags:

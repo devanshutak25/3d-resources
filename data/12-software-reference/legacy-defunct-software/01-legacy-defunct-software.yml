@@ -66,6 +66,10 @@ entries:
     best_for: OBJ format origin
     deprecated: true
     year: 1995
+    tags:
+      workflow:
+        - modeling
+        - animation
     readme_tags:
       - OBJ Origin
       - Historical
@@ -110,6 +114,10 @@ entries:
     entry_type: software
     best_for: Polygon-modeling lineage
     deprecated: true
+    tags:
+      workflow:
+        - modeling
+        - animation
     readme_tags:
       - Historical
       - Gollum
@@ -192,6 +200,9 @@ entries:
     entry_type: software
     best_for: Cinema 4D paint lineage
     deprecated: true
+    tags:
+      workflow:
+        - texturing
     readme_tags:
       - Maxon
       - Folded In
@@ -238,6 +249,11 @@ entries:
     best_for: Early GPU renderer history
     deprecated: true
     year: 2008
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - gpu
     readme_tags:
       - Nvidia
       - Early GPU
@@ -250,6 +266,11 @@ entries:
     entry_type: software
     best_for: Early Max raytracer reference
     deprecated: true
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - ray-tracing
     readme_tags:
       - 3ds Max
       - Historical
@@ -327,6 +348,9 @@ entries:
     entry_type: software
     best_for: Indie VFX history
     deprecated: true
+    tags:
+      workflow:
+        - compositing
     readme_tags:
       - Puffin
       - Discontinued
@@ -358,6 +382,9 @@ entries:
     best_for: Autodesk engine history
     deprecated: true
     year: 2018
+    tags:
+      output:
+        - games
     readme_tags:
       - Autodesk
       - Bitsquid
@@ -371,6 +398,9 @@ entries:
     best_for: O3DE precursor
     deprecated: true
     year: 2021
+    tags:
+      output:
+        - games
     readme_tags:
       - Now O3DE
       - Amazon
@@ -397,6 +427,9 @@ entries:
     entry_type: software
     best_for: BBC/feature 2D pipeline history
     deprecated: true
+    tags:
+      workflow:
+        - animation
     readme_tags:
       - Toon Boom
       - 2D Ink
@@ -408,6 +441,9 @@ entries:
     license: Free
     entry_type: reference
     best_for: Retrieving discontinued installers
+    tags:
+      workflow:
+        - reference
     readme_tags:
       - Archive
       - Software Dumps
@@ -419,6 +455,9 @@ entries:
     license: Free
     entry_type: reference
     best_for: Pre-2010 software preservation
+    tags:
+      workflow:
+        - reference
     readme_tags:
       - Vintage
       - Installers
@@ -430,6 +469,9 @@ entries:
     license: Free
     entry_type: reference
     best_for: Amiga-era 3D archives
+    tags:
+      workflow:
+        - reference
     readme_tags:
       - Amiga
       - Archive

@@ -17,6 +17,12 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 **Answered:** Already in catalog (Lightmap HDR Light Studio, misc-3d-utilities-software). Improved thin description + added lighting-rendering-shaders/rendering-shader-theory mirror. Validation passed.
 
+### 2026-06-11 22:45
+**Prompt:**
+> similarly, check other software like this as well, missing details, gaps or anything
+
+**Answered:** Planned + ran 4-phase §12 quality cleanup (scope: structural + uninformative, relocate misfiled, chunked). A: 5 malformed/relocations (2 NeRF papers → §09 papers, dropped PubNub junk). B: +license on 13 software. C: +tags on 20 (8 active + 12 legacy). D: rewrote 8 name-restating/malformed descs + fixed Gigapixel wrong tags. 14 data files, validation passes, README untouched. See decisions.md.
+
 ---
 
 ### 2026-06-09 02:00

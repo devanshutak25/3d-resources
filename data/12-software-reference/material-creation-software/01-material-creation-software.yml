@@ -277,6 +277,11 @@ entries:
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      tech:
+        - pbr
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools

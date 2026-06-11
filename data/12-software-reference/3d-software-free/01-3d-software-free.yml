@@ -224,12 +224,21 @@ entries:
         - opensource-alt
   - name: Mandelbulb3D (original)
     url: http://www.andreas-maschke.com/?page_id=4607
-    description: Free software application created for 3D fractal imaging. [![][repo]](https://github.com/thargor6/mb3d)
+    description: Free Windows app for 3D Mandelbulb fractal imaging.
     license: Free
     entry_type: software
+    best_for: 3D fractal imaging
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+      tech:
+        - procedural
   - name: Mandelbulb3D (thargor6 fork)
     url: https://github.com/thargor6/mb3d
     description: A program designed for the Windows platform for generating 3D views of different fractals.
@@ -256,7 +265,9 @@ entries:
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - modeling
   - name: TerreSculptor
     url: http://www.demenzunmedia.com/home/terresculptor/
     description: Terrain creation and editing software. It is freeware.
@@ -264,7 +275,11 @@ entries:
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - procedural
   - name: TreeIt
     url: https://www.evolved-software.com/treeit/treeit
     description: Easy to use real time 3D tree generator for the simple creation.
@@ -272,7 +287,11 @@ entries:
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - procedural
   - name: Make Human
     url: http://www.makehumancommunity.org/
     description: Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender)) [![][repo]](https://github.com/makehumancommunity/makehuman)

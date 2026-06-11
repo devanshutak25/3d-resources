@@ -513,7 +513,8 @@ entries:
         - rendering
   - name: Hexels
     url: https://www.marmoset.co/hexels/
-    description: Intuitive 2D, grid-based painting tool
+    description: 2D grid-based painting tool from Marmoset.
+    license: Paid
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -632,7 +633,11 @@ entries:
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - path-tracing
   - name: Light Tracer Render
     url: https://lighttracer.org/
     description: Provides you with everything you need to create photorealistic renderings interactively, in both desktop Web browsers and Windows application.
@@ -661,6 +666,12 @@ entries:
     license: Free
     entry_type: software
     best_for: USD Hydra in Blender
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - usd
+        - blender-addon
     readme_tags:
       - USD
       - Blender

@@ -72,7 +72,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Unity Muse
     url: https://unity.com/products/muse
-    description: Unity's suite of AI products
+    description: Unity in-editor AI for texture, sprite, and animation generation.
     license: Paid
     entry_type: software
     url_last_verified: '2026-06-01'
@@ -102,14 +102,14 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Gigapixel AI
     url: https://topazlabs.com/gigapixel-ai/
-    description: '[$] : is the only photo enlargement product available that can actually add detail back to your upscaled photo.'
+    description: AI photo enlargement that adds detail to upscaled images.
     entry_type: software
     license: Paid
+    best_for: Detail-preserving upscaling
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
-        - blender
-        - blender-addon
+        - ai-generative
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools

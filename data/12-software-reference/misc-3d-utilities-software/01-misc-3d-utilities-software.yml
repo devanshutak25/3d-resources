@@ -2,6 +2,7 @@ entries:
   - name: JanusVR
     url: https://janusvr.com/
     description: Webpages as collaborative 3D webspaces interconnected by portals.
+    license: Open Source
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -16,6 +17,7 @@ entries:
   - name: Polygonjs
     url: https://polygonjs.com
     description: Node-based WebGL design tool, used for procedural geometry, particles, materials
+    license: Freemium
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -45,7 +47,7 @@ entries:
       - lighting-rendering-shaders/rendering-shader-theory
   - name: Massive Software
     url: https://www.massivesoftware.com/massiveprime.html
-    description: Crowd simulation.
+    description: Massive Prime agent-based crowd simulation with Maya/Max plugins.
     license: Paid
     entry_type: software
     best_for: Crowd simulation
@@ -61,7 +63,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Storm HydroFX
     url: https://storm-vfx.com/
-    description: Fluid simulation.
+    description: Real-time liquid and fluid simulation tool.
     license: Paid
     entry_type: software
     best_for: Fluid simulation

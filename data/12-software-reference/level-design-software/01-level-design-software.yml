@@ -55,7 +55,7 @@ entries:
       - game-development/game-dev-level-design
   - name: OGMO Editor 3
     url: https://ogmo-editor-3.github.io/
-    description: Generic level editor.
+    description: Free project-based 2D level editor with grid and entity layers.
     license: Open Source
     entry_type: software
     url_last_verified: '2026-06-01'

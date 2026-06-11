@@ -20,7 +20,7 @@ entries:
       - vfx-compositing-virtual-production/virtual-production
   - name: disguise
     url: https://www.disguise.one/en/solutions/virtual-production/
-    description: Virtual production solutions.
+    description: LED-wall and xR virtual production platform with RenderStream.
     license: Paid
     entry_type: software
     best_for: LED wall virtual production
@@ -39,7 +39,7 @@ entries:
       - vfx-compositing-virtual-production/virtual-production
   - name: Vizrt
     url: https://www.vizrt.com/
-    description: Broadcast graphics.
+    description: Real-time broadcast graphics and virtual studio platform.
     license: Paid
     entry_type: software
     best_for: Broadcast graphics
@@ -58,7 +58,7 @@ entries:
       - vfx-compositing-virtual-production/virtual-production
   - name: Pixotope
     url: https://www.pixotope.com/
-    description: Virtual production software.
+    description: Real-time AR and virtual studio platform built on Unreal Engine.
     license: Paid
     entry_type: software
     best_for: Virtual production

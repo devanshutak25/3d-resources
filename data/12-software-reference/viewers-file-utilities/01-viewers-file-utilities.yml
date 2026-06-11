@@ -183,7 +183,12 @@ entries:
     entry_type: software
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - reference
+      platform:
+        - win
+        - mac
   - name: XnConvert
     url: https://www.xnview.com/en/xnconvert/
     description: Batch image converter, 80+ actions.
