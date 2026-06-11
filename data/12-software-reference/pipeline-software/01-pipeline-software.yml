@@ -764,6 +764,8 @@ entries:
       - Crowd Sim
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
   - name: Golaem (Autodesk)
     url: https://www.autodesk.com/solutions/golaem
     description: Crowd simulation for Maya. Now bundled into Autodesk Media & Entertainment Collection; built into Maya 2026.

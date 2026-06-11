@@ -45,22 +45,6 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
       - lighting-rendering-shaders/rendering-shader-theory
-  - name: Massive Software
-    url: https://www.massivesoftware.com/massiveprime.html
-    description: Massive Prime agent-based crowd simulation with Maya/Max plugins.
-    license: Paid
-    entry_type: software
-    best_for: Crowd simulation
-    tags:
-      workflow:
-        - simulation
-    readme_tags:
-      - Crowds
-      - Pro
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - tools-pipeline-utilities/misc-3d-utilities
   - name: Storm HydroFX
     url: https://storm-vfx.com/
     description: Real-time liquid and fluid simulation tool.
