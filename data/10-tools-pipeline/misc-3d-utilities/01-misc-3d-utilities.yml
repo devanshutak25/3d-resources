@@ -294,3 +294,207 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2021-11-30'
+  - name: BlenderUpdater
+    url: https://github.com/overmindstudios/BlenderUpdater
+    description: Download and install Blender nightly builds with one click.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+  - name: Blender Updater CLI
+    url: https://github.com/overmindstudios/BlenderUpdaterCLI
+    description: Command-line version of BlenderUpdater.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+  - name: Blender Version Manager
+    url: https://github.com/DotBow/Blender-Version-Manager
+    description: Minimal download manager for Blender builds.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+    archived: true
+    stale: true
+    last_pushed: '2021-03-01'
+  - name: Blender Launcher
+    url: https://github.com/DotBow/Blender-Launcher
+    description: Standalone client for managing official Blender builds.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+    archived: true
+    stale: true
+    last_pushed: '2023-11-28'
+  - name: Blender Manager
+    url: https://github.com/verlorengest/BlenderManager
+    description: Standalone app for Blender auto-update, project management, time tracking, addon control and render management.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+  - name: Blender Scripting
+    url: https://github.com/njanakiev/blender-scripting
+    description: Python scripting examples for Blender, from simple to advanced.
+    entry_type: tutorial
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+      workflow:
+        - creative-coding
+      platform:
+        - web
+      skill:
+        - intermediate
+    stale: true
+    last_pushed: '2021-09-28'
+  - name: Fake Bpy Module
+    url: https://github.com/nutti/fake-bpy-module
+    description: Fake Blender Python API modules for IDE code completion.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+  - name: Blender CLI Rendering
+    url: https://github.com/yuki-koyama/blender-cli-rendering
+    description: Python scripts for rendering images with Blender from the command line.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac
+        - linux
+    stale: true
+    last_pushed: '2023-11-29'
+  - name: Blender Addon Tester
+    url: https://github.com/nangtani/blender-addon-tester
+    description: Pytest-based test harness for running Blender addon tests inside a target Blender version.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+  - name: Advanced Blender Add-on
+    url: https://github.com/eliemichel/AdvancedBlenderAddon
+    description: Starter kit and annotated design patterns for advanced Blender addon development.
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - web
+      skill:
+        - advanced
+    stale: true
+    last_pushed: '2020-10-11'
+  - name: 3DN BIP
+    url: https://github.com/3dninjas/3dn-bip
+    description: Fast image-preview Python library for Blender, a bpy.utils.previews drop-in replacement.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender
+        - opensource-alt
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+    stale: true
+    last_pushed: '2023-07-26'
+  - name: Developer Documentation
+    url: https://wiki.blender.org/wiki/Main_Page
+    description: 'Blender developer docs: development process, design, architecture, and build instructions.'
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - creative-coding
+      platform:
+        - web
+      tech:
+        - blender

@@ -1,6 +1,13 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-12. §07 COMPLETE. §02 ENRICHMENT COMPLETE (all 13 phases). Only the §02 RELOCATION phase remains before moving to §04.**
+**Status as of 2026-06-12. §07 COMPLETE. §02 FULLY COMPLETE (enrichment 13 phases + relocation phase). NEXT SECTION: §04 lighting.**
+
+## §02 RELOCATION DONE (2026-06-12)
+All 17 misfiles moved out of §02, RELOCATE notes stripped, pure move (no dual_listed_in):
+- 12 dev/build/scripting tools + Blender dev docs → §10 `misc-3d-utilities/01` (18→30).
+- 2 ML lists (3D Machine Learning, Awesome 3D Human) → §09 `ml-for-cg/01` (4→6).
+- 3 refs (Awesome 3D Printing, Usage in Science/Academia/Industry, Blender Checklist) → §11 `communities-forums/03` (new chunk; `chunks` 2→3 in data/11-learning-community.yml).
+Sources: `blender-plugins-addons/04` 50→35, `blender-tutorials/01` 11→9. Validation passes (304 warnings, 0 RELOCATE flags, no new dupes). **NEXT: §04 lighting enrichment** (worst-first remaining: §04 → §06 → §08 → §01 → §09 [resolve NeRF/GS paper dumps] → §05 → §11 → §03).
 
 ## RESUME HERE (2026-06-12 pause point)
 

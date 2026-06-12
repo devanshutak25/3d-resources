@@ -20,22 +20,6 @@ entries:
       - Course
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: Blender Checklist
-    url: https://docs.google.com/spreadsheets/d/1RCY6nTIVgl208ckadipBWVos8_kHOu3HFTQgapN59_U/
-    description: Checklist of Blender features and workflows.
-    entry_type: reference
-    license: Free
-    notes: RELOCATE. Entry_type 'reference' misfits blender-tutorials subsection (expects tutorial/channel/community). Consider moving to a references subsection.
-    readme_tags:
-      - Checklist
-      - Workflow
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      tech:
-        - blender
   - name: Texture Paint Manual
     url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
     description: Official Blender manual for the texture paint mode.
@@ -156,20 +140,6 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
-      tech:
-        - blender
-  - name: Developer Documentation
-    url: https://wiki.blender.org/wiki/Main_Page
-    description: 'Blender developer docs: development process, design, architecture, and build instructions.'
-    entry_type: reference
-    license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - creative-coding
       platform:
         - web
       tech:

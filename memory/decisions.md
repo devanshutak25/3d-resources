@@ -119,3 +119,9 @@ Architectural / structural decisions w/ rationale + date.
   - Why: `render-farm` tech tag already established here; one cluster easier to scan; avoids 12-software-reference.yml structural edits + mirror plumbing for ~14 entries.
   - Entries: Fox Renderfarm, RebusFarm, GarageFarm.NET, Ranch Computing, Super Renders Farm, Pixel Plow, GridMarkets, Conductor Technologies, iRender, Chaos Cloud, Maxon One Cloud, AWS Deadline Cloud, Drop & Render, OTOY Render Cloud (ORC). All `entry_type: tool`, `license: Paid`, platforms `web`+`cloud`, tech tags `render-farm`+`cloud` (+`pipeline` for Conductor).
   - Files: `data/12-software-reference/pipeline-software/01-pipeline-software.yml`.
+
+- **2026-06-12: Executed §02 relocation phase (17 misfiles moved out)**
+  - Decision: moved all 17 RELOCATE-flagged §02 misfiles to proper homes, stripped `notes: RELOCATE` fields. §02 enrichment+relocation now fully COMPLETE.
+  - Targets: 12 dev/build/scripting tools + Blender dev docs → §10 `misc-3d-utilities/01` (18→30); 2 ML/research lists (3D Machine Learning, Awesome 3D Human) → §09 `ml-for-cg/01` (4→6); 3 general/Blender refs (Awesome 3D Printing, Usage in Science/Academia/Industry, Blender Checklist) → §11 `communities-forums` new chunk 03.
+  - Choices (user-confirmed): split awesome-lists by topic (§09 for ML, §11 for rest); created new chunk 03 in communities-forums (chunk 01 had 13 free, 02 over-cap 119) and bumped `chunks: 2→3` in `data/11-learning-community.yml`.
+  - Pure move: no `dual_listed_in` (misfiles, not cross-listings). Sources: `blender-plugins-addons/04` 50→35, `blender-tutorials/01` 11→9. Validation passes (304 warnings, no new errors/dupes). Next sweep section: §04 lighting.

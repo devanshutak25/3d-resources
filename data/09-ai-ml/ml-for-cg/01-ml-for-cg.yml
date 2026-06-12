@@ -49,3 +49,27 @@ entries:
     readme_tags:
       - Text-to-3D
       - Research
+  - name: 3D Machine Learning
+    url: https://github.com/timzhang642/3D-Machine-Learning
+    description: Resource repository for 3D machine learning.
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Awesome 3D Human
+    url: https://github.com/lijiaman/awesome-3d-human
+    description: Curated list of papers and resources on 3D human research, including face, body, hand and motion.
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+    stale: true
+    last_pushed: '2023-10-30'
