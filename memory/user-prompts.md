@@ -11,6 +11,26 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-12 22:30
+**Prompt:**
+> make plan to work on the next chunk of work
+
+**Answered:** Planned + started §04 lighting enrichment (next worst-first section). 6 phases chunk-by-chunk; over-cap chunk 01 fixed by moving 1 overflow to chunk 02 (both user-confirmed). **Phase 1 DONE** (4 tiny subsections, 15 ent): added platform/skill/output, fixed CNDL empty `tags:{}`, tightened 2 descs. Validation passes (304 warnings, no new). Stopped for go-ahead before Phase 2.
+
+### 2026-06-12 22:50
+**Prompt:**
+> yes please
+
+**Answered:** **Phase 2 DONE** (rendering-shader-theory/01, 51→50 ent). Over-cap fixed (moved "A Trip Through The Graphics Pipeline" → chunk 02, now 50). platform on all 50, skill on educational, output where implied, 3 missing-workflow fixed, stripped wrong blender tags on IOR List + Blender&ACES. §04 platform 30→79, skill 16→33. Validation passes (304 warnings). Stopped before Phase 3.
+
+### 2026-06-12 23:05
+**Prompt:**
+> yes please
+
+**Answered:** **Phase 3 DONE** (rendering-shader-theory/02, 50 ent). Unity shader repos got platform[win,mac,linux]+output:games; retyped 7 RELOCATE-candidates inline (5 tool, 2 plugin) + Anatole→inspiration; stripped (#TAG)/`:moneybag:`/link-salad junk + MoonRay badge; cleaned 6 NPR channel descs; kept MoonRay+CopperLicht flagged for §12. Fixed 2 YAML inner-colon descs. §04 platform 79→121, output 19→47, skill 33→48. Validation passes (305 warnings). Stopped before Phase 4.
+
+---
+
 ### 2026-06-12 00:05
 **Prompt:**
 > read the handoff document and make a place to do the next chunk of work. Ask me question if needed
@@ -375,3 +395,9 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
   - Phases 12+13 DONE. P12 (houdini-getting-started/01, 4 ent): platform:web + tech:houdini on all (had skill). P13 tail batch (8 chunks, ~12 ent): platform on all (c4d learning/tips=web, AEC4D=win/mac, TyFlow=win since 3dsMax is Windows-only, houdini tuts=web); skill added; retyped Rolando Gumroad marketplace→asset-source; output (film-vfx Rebelway/TyFlow/smoke). **§02 enrichment COMPLETE (phases 1-13).** §02 platform 234→251 (~100%, 251/251 ent), skill 44→52, output 53→55. Validation passes (304 warnings, +6 benign freeform-tech). Only §02 relocation phase remains.
 - **Prompt:** make plan to work on the next chunk of work
   - Planned + executed the §02 relocation phase (the only remaining §02 work). Moved 17 misfiled entries: 12 dev/build tools + Blender dev docs → §10 misc-3d-utilities/01 (18→30); 2 ML lists → §09 ml-for-cg/01 (4→6); 3 refs → §11 communities-forums new chunk 03 (chunks 2→3). Stripped RELOCATE notes; pure move, no dual_listed_in. Sources: plugins-addons/04 50→35, tutorials/01 11→9. Validation passes (304 warnings, 0 RELOCATE flags remain). §02 now fully COMPLETE. NEXT: §04 lighting enrichment.
+- **Prompt:** make plan to do the next chunk of work (2026-06-12)
+  - Planned + executed §04 Phase 4 (rendering-shader-theory/03, 50 ent). All entries only had workflow:rendering. Added platform to all 50 (web for refs/papers/blogs/online-editors/Three.js+GLSL libs; [win,mac,linux] for native tools SHADERed/CodeXL/Magnum/glslViewer/Three Blender + Unity-repo + UE4 + Houdini entries). Retyped 4 Blender addons reference→plugin (Extra Lights, Node To Python, Blender Addon PBR, Lily Surface Scrapper) + stripped [![market]]/[![][mit]] badges. 10 research papers got year + skill:advanced + platform:web (matched §04 Quadtrees precedent: no `paper` tech tag). output:games on 5 Unity repos + CelShader (+illustration). skill on educational courses/blogs/tutorials. Fixed 6 truncated descs + "Ust learning" typo + dangling @patriciogv twitter links. Chunk 03 lift: platform 0→50, skill 0→21, output 0→8, empty-tags 0, junk 0. §04 now platform 171, output 55, skill 69. Validation passes (312 warnings, +7 benign freeform-tech). STOPPED for go-ahead. Remaining: P5 (chunk 04, 48), P6 (chunk 05, 28), §04 relocation phase.
+- **Prompt:** go (2026-06-12)
+  - Executed §04 Phase 5 (rendering-shader-theory/04, 48 ent). All had only workflow:rendering. platform on all 48 (web mostly; win ShaderTool/Shader Designer; [win,linux] RenderDoc; [win,mac,linux] KodeLife/Synthclipse); skill on 26 educational; 4 papers got year (2005/2005/2006/1996). 2 retypes: RenderDoc reference→tool, glslViewer-writeup tool→reference. Fixed Khrnos→Khronos typo + link-salad/hype/truncation descs. Kept all 5 RELOCATE notes (enriched in place). Chunk 04 lift: platform 0→48, skill 0→26. §04 now platform 219, output 55, skill 95. Validation passes (312 warnings, no new). STOPPED for go-ahead. Remaining: P6 (chunk 05, 28 ent) then §04 relocation phase.
+- **Prompt:** go (2026-06-12)
+  - Executed §04 Phase 6 (rendering-shader-theory/05, 28 ent) = **final §04 enrichment chunk.** 6 channels already had platform:web; added web to other 22; skill on 20 educational; output archviz (xeokit) + games (ThinMatrix); NeRF-Tex year:2021; fixed typos (tutuorial/OpenG/doubled "real part") + 6 restater/truncated descs + stripped "awesome" hype; kept Takua RELOCATE? note. Chunk 05 platform 6→28, skill 0→20. **§04 ENRICHMENT COMPLETE (6/6): platform 241/241, output 57, skill 115, empty-tags 0.** Validation passes (312 warnings, no new). STOPPED. Remaining §04 work = relocation phase only (batch-move 8 flagged misfiles to §12/§09/§06/renderer-specific-learning).

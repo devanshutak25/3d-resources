@@ -1,6 +1,34 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-12. §07 COMPLETE. §02 FULLY COMPLETE (enrichment 13 phases + relocation phase). NEXT SECTION: §04 lighting.**
+**Status as of 2026-06-12. §07 COMPLETE. §02 FULLY COMPLETE. §04 ENRICHMENT COMPLETE (6/6 phases). RESUME AT §04 RELOCATION PHASE.**
+
+## §04 LIGHTING IN PROGRESS (RESUME HERE — 2026-06-12)
+
+Plan file: `~/.claude/plans/make-plan-to-work-virtual-church.md`. 241 ent / 9 chunks. Baseline platform 23, output 11, skill 8, workflow already 234/241. Phasing: 6 phases chunk-by-chunk (user-confirmed). Over-cap chunk 01 (51) fixed by moving 1 overflow → chunk 02 (both now 50, user-confirmed).
+
+**DONE (5/6 phases):**
+- **P1** — 4 tiny subsections (15 ent: fundamentals 5, production 2, redshift 5, renderer-specific 3). platform/skill/output added; CNDL empty `tags:{}` fixed; 2 descs tightened.
+- **P2** — `rendering-shader-theory/01` (51→50). Over-cap fixed (moved "A Trip Through The Graphics Pipeline" → chunk 02 end). platform on all 50 (web for refs/books/papers/blogs/channels; `[win,mac,linux]` for desktop tools fSync/USD Arnold/Bonzomatic/Fragmentarium/bgfx + Blender/Unity/Unreal shader entries); skill on educational; output where implied. Fixed 3 missing-workflow. Stripped wrong `blender`/`blender-addon` tags on IOR List + Blender&ACES.
+- **P3** — `rendering-shader-theory/02` (50). Unity shader repos → platform[win,mac,linux]+output:games. Retyped 7 RELOCATE-candidates inline (GLSL Optimizer/Lygia/Twigl/apitrace/NodeToy→tool; ShaderForge/Pyro Shader→plugin) + Anatole Drupat→inspiration. Stripped `(#TAG)`/`:moneybag:`/link-salad junk + MoonRay badge. Cleaned 6 NPR channel descs. Fixed typos. YAML inner-`: ` gotcha hit (quoted Moebius + Manga descs).
+
+- **P4** — `rendering-shader-theory/03` (50 ent). All had only workflow:rendering. platform on all 50 (web for refs/papers/blogs/online-editors/Three.js+GLSL libs; [win,mac,linux] for native tools SHADERed/CodeXL[win,linux]/Magnum/glslViewer/Three Blender + Unity-repo + CelShader UE4 + Houdini GS). **Retyped 4 Blender addons reference→plugin** (Extra Lights, Node To Python, Blender Addon PBR, Lily Surface Scrapper) + tech:blender-addon + stripped `[![market]]`/`[![][mit]]`. **10 papers → year + skill:advanced + platform:web (NO `paper` tech tag — matched §04 Quadtrees precedent).** output:games on 5 Unity repos + CelShader(+illustration). skill on educational courses/blogs/tutorials. Fixed 6 truncated descs + "Ust learning" typo + dangling @patriciogv links.
+
+- **P5** — `rendering-shader-theory/04` (48 ent). platform on all 48 (web for refs/papers/editors; win ShaderTool/Shader Designer; [win,linux] RenderDoc; [win,mac,linux] KodeLife/Synthclipse); skill on 26 educational; 4 papers got year. **2 retypes:** RenderDoc reference→tool, glslViewer-writeup tool→reference. Khrnos→Khronos typo fix. Cleaned link-salad/hype/truncation descs. **Kept all 5 RELOCATE notes** (enriched in place): KodeLife→§12, Let's remove Quaternions (math theory), Photo tourism (photogrammetry paper → §09), Physics-Based Animation (→ §06), React Spring (animation lib).
+
+- **P6** — `rendering-shader-theory/05` (28 ent). 6 YouTube channels already had platform:web; added web to the other 22; skill on 20 educational; output archviz (xeokit) + games (ThinMatrix); NeRF-Tex year:2021; typos fixed (tutuorial, OpenG, doubled "real part"), 6 restater/truncated descs rewritten; kept Takua Renderer RELOCATE? note.
+
+**§04 ENRICHMENT COMPLETE (6/6).** Final facet coverage: platform 23→241 (~100%, 241/241 ent), output 11→57, skill 8→115, empty-tags 0. Validation passes (312 warnings, no new). All edits uncommitted (user commits).
+
+**TODO (relocation phase only):**
+- **§04 RELOCATION PHASE (the only remaining §04 work):** batch-move all flagged §04 misfiles (mirror §02 relocation precedent; strip notes on move). Confirmed so far: **chunk 02** — MoonRay (render engine → §12), CopperLicht (WebGL engine → §12/web-tech). **chunk 04** — KodeLife (shader editor → §12 software/shader-tools), Let's remove Quaternions (math theory; find/make a math home or drop), Photo tourism (photogrammetry paper → §09), Physics-Based Animation (→ §06 animation/sim), React Spring (animation lib → §06 or drop). **chunk 05** — Takua Renderer (`RELOCATE?` note; physically-based renderer deep-dive → §04 `renderer-specific-learning`, confirm intent vs move). All 8 enriched in place + filterable until moved.
+
+**Per-phase protocol (unchanged):** read chunk → apply recipe → `node scripts/validate.js` (✓, freeform-tech warnings OK) → log decisions.md + user-prompts.md + project.md §11 → STOP for user go-ahead.
+
+**§04 conventions locked:** refs/books/papers/blogs/channels → `platform:web`; desktop shader tools + Blender/Unity/Unreal shader entries → `[win,mac,linux]`; NPR/cel/toon shading → `output:illustration`; quote any description containing inner `: `.
+
+---
+
+(Older status below — §07 + §02, both COMPLETE.)
 
 ## §02 RELOCATION DONE (2026-06-12)
 All 17 misfiles moved out of §02, RELOCATE notes stripped, pure move (no dual_listed_in):
@@ -137,19 +165,25 @@ Leave terse-but-correct descriptions + already-well-tagged entries alone. Chunks
 
 ## 7. First actions for next session
 
-1. Read `project.md`, `CLAUDE.md`, all `memory/*`, this file, and the plan file.
+**Immediate next task: the §04 RELOCATION PHASE** (see the §04 block at the very top of this file — §07, §02, and §04 enrichment are all COMPLETE).
+
+1. Read `project.md`, `CLAUDE.md`, all `memory/*`, and this file.
 2. Append the new user prompt to `memory/user-prompts.md` (protocol).
-3. Re-ask the **§3 open decision** (how to handle the 636 unity/unreal bulk: A/B/C). Recommend A.
-4. Execute 7B (unity) then 7C (unreal) per the chosen approach. Fix the 59-entry over-cap chunk while there.
-5. Validate, measure §07 facet lift (`grep -rh "^      platform:" data/07-game-dev/ | wc -l`), log, report, **stop** for confirmation before §02.
-6. Continue worst-first: §02 → §04 → §06 → §08 → §01 → §09 (handle paper dumps here) → §05 → §11 → §03.
+3. **Run the §04 relocation phase** (only remaining §04 work). Batch-move all 8 flagged misfiles in one pass (mirror the 2026-06-12 §02 relocation precedent: pure move, no `dual_listed_in`, strip `notes` on move, decrement source `chunks` counts only if a whole chunk file is removed):
+   - chunk 02 → §12: **MoonRay** (render engine), **CopperLicht** (WebGL engine).
+   - chunk 04 → KodeLife → §12; **Photo tourism** → §09 photogrammetry; **Physics-Based Animation** → §06; **React Spring** → §06 (animation lib); **Let's remove Quaternions** → no clean home (ask user: §06 math, or drop the tag/leave).
+   - chunk 05 → **Takua Renderer** (`RELOCATE?`) → §04 `renderer-specific-learning` (confirm with user first; it may be fine to keep + just strip the note).
+   - Confirm exact target subsections with user before moving (some homes are ambiguous: shader-editor tools, math theory).
+4. Validate (`node scripts/validate.js` → ✓, 0 RELOCATE flags remain in §04), log to decisions.md + user-prompts.md + project.md §11, update this handoff, **stop** for confirmation.
+5. **Then continue worst-first to the next section: §06** → §08 → §01 → §09 (handle the NeRF/GS paper dumps + §10 overlap here, see §6.1 below) → §05 → §11 → §03. Re-confirm baseline facet coverage for §06 before starting and phase it chunk-by-chunk (user's standing preference).
 
 ## 8. Quick state-check commands
 
 ```bash
-node scripts/validate.js | tail -1                       # must end: ✓ Validation passed.
-# facet coverage for a section:
-for x in workflow platform output skill; do echo "$x: $(grep -rh "^      $x:" data/07-game-dev/ | wc -l)"; done
+node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (baseline 312 warnings as of §04 done)
+# facet coverage for a section (swap in the target dir, e.g. data/06-... for §06):
+for x in workflow platform output skill; do echo "$x: $(grep -rh "^      $x:" data/<section>/ | wc -l)"; done
+grep -rn 'RELOCATE' data/04-lighting/                    # §04 relocation flags still pending (expect 8 until moved)
 grep -rho 'tags: {}' data/<section>/ | wc -l              # empty-tag count (target 0)
 grep -rn '\[!\[\|bibtex' data/<section>/                  # junk scan (target none)
 ```

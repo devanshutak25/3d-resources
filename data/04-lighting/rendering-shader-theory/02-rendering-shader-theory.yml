@@ -1,170 +1,248 @@
 entries:
   - name: Unity Fluid Simulation 2D
     url: https://github.com/giangchau92/Unity-Fluid-Simulation-2D
-    description: Using extended camera to render particles then metalball processing with shader.
+    description: Extended camera renders particles, then metaball processing via shader.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2017-07-31'
   - name: Circular Color Picker Unity
     url: https://github.com/mathiassiig/CircularColorPickerUnity
-    description: Just a shader and a script for a circular color picker.
+    description: Shader and script for a circular color picker.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2019-01-28'
-  - name: GSLS Optimizer
+  - name: GLSL Optimizer
     url: https://github.com/aras-p/glsl-optimizer
-    description: GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization. (#SHADERS)
-    entry_type: reference
+    description: GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization.
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
-    notes: RELOCATE candidate; entry_type may be 'tool' (GLSL compiler tool).
     tags:
       workflow:
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2020-05-14'
   - name: ShaderForge
     url: https://github.com/FreyaHolmer/ShaderForge
-    description: 'A node-based shader editor giving you the artistic freedom of shader creation, with no need to code. (Was :moneybag: but now is open source and not maintained).'
-    entry_type: reference
+    description: Node-based Unity shader editor, no coding required. Open source and unmaintained.
+    entry_type: plugin
     url_last_verified: '2026-06-01'
     url_status: ok
-    notes: RELOCATE candidate; entry_type may be 'plugin' (Unity shader editor).
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - unity-plugin
     stale: true
     last_pushed: '2023-01-03'
   - name: Shader Lab Lab
     url: https://github.com/rambutan2000/ShaderLabLab
-    description: A system using T4 Templates to generate Unity ShaderLab code in the Editor.
+    description: System using T4 Templates to generate Unity ShaderLab code in the editor.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2018-12-10'
   - name: GrassBending
     url: https://github.com/Elringus/GrassBending
-    description: A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect. (#TERRAIN)
+    description: Replacement for Unity's terrain grass shader with alpha-blended rendering and touch bending.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: Wind Waker Shader
     url: https://github.com/albertomelladoc/Wind-Waker-Shader
-    description: Cel Shading of two thresholds with a blur/gradient between them for Unity.
+    description: Cel shading of two thresholds with a blur/gradient between them for Unity.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2018-02-22'
   - name: Unity Outline Shader
     url: https://github.com/IronWarrior/UnityOutlineShader
-    description: Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
+    description: Source code for an Outline Shader tutorial. Detects edges using the depth and normals buffers.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2021-01-03'
   - name: VerticalDissolve
     url: https://github.com/AdultLink/VerticalDissolve
-    description: Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling.
+    description: Procedural vertical dissolve shader. Tweak edge color, noisiness, waviness, rim light, emission scrolling.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2018-11-16'
   - name: Stanford Bunny Fur With Unity
     url: https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity
-    description: Using the Geometry Shader to generate fur on GPU.
+    description: Geometry shader generating fur on the GPU.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - gpu
     stale: true
     last_pushed: '2017-11-23'
   - name: Procedural Stochastic Texturing
     url: https://github.com/UnityLabs/procedural-stochastic-texturing
-    description: Modified Unity Standard shader implementing Procedural Stochastic Texturing.
+    description: Modified Unity Standard shader implementing procedural stochastic texturing.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - procedural
     archived: true
     stale: true
     last_pushed: '2019-05-29'
   - name: VilarVRC
     url: https://github.com/Vilar24/VilarVRC
-    description: Vilar's Shaders for VRChat.
+    description: Vilar's shaders for VRChat.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: UnityGPUNoise
     url: https://github.com/GlitchEnzo/UnityGPUNoise
-    description: A set of shaders to help perform various Noise functions on the GPU.
+    description: Shaders for various noise functions on the GPU.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - gpu
     stale: true
     last_pushed: '2015-05-08'
   - name: ShadowDrawer
@@ -176,19 +254,31 @@ entries:
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2018-07-26'
   - name: Unity Shaders
     url: https://github.com/igradeca/Unity-Shaders
-    description: Unity project about reseach on shaders and particle system.
+    description: Unity project researching shaders and particle systems.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
@@ -202,19 +292,31 @@ entries:
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2019-10-31'
   - name: ShaderProject
     url: https://github.com/ellioman/ShaderProject
-    description: A container for all sorts of handy shaders.
+    description: Container for a range of handy Unity shaders.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
@@ -228,47 +330,72 @@ entries:
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2017-10-17'
   - name: Glow
     url: https://github.com/rakkarage/Glow
-    description: Unity ShaderGraph effect test.
+    description: Unity Shader Graph glow effect test.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2019-02-24'
   - name: Unity Raymarching Collision
     url: https://github.com/hecomi/UnityRaymarchingCollision
-    description: Raymarching x Rigidbody interaction example.
+    description: Raymarching and rigidbody interaction example.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
     last_pushed: '2016-03-20'
   - name: Unity Compute Shader Ray Tracing Practice
     url: https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice
-    description: Raytracing shader tutorial for Unity.
+    description: Ray tracing compute shader tutorial for Unity.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
+        - ray-tracing
     stale: true
     last_pushed: '2019-02-03'
   - name: Raymarching On Unity 5
@@ -280,6 +407,12 @@ entries:
     tags:
       workflow:
         - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
     stale: true
@@ -293,19 +426,25 @@ entries:
     tags:
       workflow:
         - rendering
-  - name: Lygia (site)
+      skill:
+        - advanced
+      platform:
+        - web
+  - name: Lygia
     url: https://www.lygia.xyz/
-    description: Shader library of reusable functions.
-    entry_type: reference
+    description: Multi-language shader library of reusable functions.
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
-    notes: RELOCATE candidate; entry_type may be 'tool' (shader library).
     tags:
       workflow:
         - rendering
+        - material-authoring
+      platform:
+        - web
   - name: DreamWork's MoonRay
     url: https://openmoonray.org/
-    description: MoonRay is a physically based path-tracing renderer; it includes a USD Hydra render delegate, multi-machine and cloud rendering via the Arras distributed computation framework. [![][repo]](https://
+    description: Physically based path-tracing renderer with a USD Hydra delegate and Arras distributed/cloud rendering.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -313,96 +452,149 @@ entries:
     tags:
       workflow:
         - rendering
-  - name: Pyro Shader for Redshit, ARnold, Renderman
+      platform:
+        - web
+  - name: Pyro Shader (Redshift, Arnold, RenderMan)
     url: https://sadjad.gumroad.com/l/PvjRz?recommended_by=search
-    description: Pyro Shader for Redshit, ARnold, Renderman.
-    entry_type: reference
+    description: Pyro and fire shader presets for Redshift, Arnold, and RenderMan.
+    entry_type: plugin
+    license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
-    notes: RELOCATE candidate; entry_type may be 'plugin' (Gumroad asset/shader pack).
     tags:
       workflow:
         - rendering
+        - material-authoring
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - redshift
   - name: Twigl
     url: https://twigl.app/
     description: Free online shader editor.
-    entry_type: reference
+    entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
-    notes: RELOCATE candidate; entry_type should be 'tool' (web shader editor).
     tags:
       workflow:
         - rendering
-  - name: 📺 stylized comic book shader ~ Chris Folea Makes Things
+        - material-authoring
+      platform:
+        - web
+  - name: Stylized Comic Book Shader (Chris Folea Makes Things)
     url: https://www.youtube.com/@CFMakesThings
-    description: '[pre-process,blueprint] - WITHOUT post processing.'
+    description: Stylized comic book shading in UE without post-processing.
     entry_type: channel
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - illustration
+      skill:
+        - intermediate
       platform:
         - web
-  - name: 📺 Cel-Shader playlist ~ many
+  - name: Cel-Shader Playlist (Your Sandbox)
     url: https://www.youtube.com/@YourSandbox
-    description: '[post-process,Lumin,msc-ue] - 17 videos.'
+    description: Cel-shading playlist (17 videos), UE with Lumen.
     entry_type: channel
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - illustration
       platform:
         - web
-  - name: 📺 Moebius-style 3D Rendering ~ Useless Game Dev
+  - name: Moebius-style 3D Rendering (Useless Game Dev)
     url: https://www.youtube.com/@uselessgamedev
-    description: '[pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.'
+    description: 'Moebius-style rendering: Sobel filter on depth map, crosshatch, fades.'
     entry_type: channel
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - illustration
+        - games
+      skill:
+        - intermediate
       platform:
         - web
-  - name: 📺 Manga/outline Shader playlist ~ many
+  - name: Manga/Outline Shader Playlist (Hepner Kamil)
     url: https://www.youtube.com/@HepnerKamil
-    description: '[post-process,shader] - 18 videos, outlines, toon shaders.'
+    description: 'Manga/outline shader playlist (18 videos): outlines and toon shaders.'
     entry_type: channel
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - illustration
       platform:
         - web
-  - name: 📺 Advanced Cel Shader ~ Pitchfork Academy
+  - name: Advanced Cel Shader (Pitchfork Academy)
     url: https://www.youtube.com/@PitchforkAcademy
-    description: '[material].'
+    description: Advanced cel shader material breakdown.
     entry_type: channel
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      output:
+        - illustration
+      skill:
+        - advanced
       platform:
         - web
   - name: Advanced Materials in Blender - Shader Editor Tutorial
     url: https://www.youtube.com/@SurfacedStudio
-    description: Advanced Materials in Blender - Shader Editor Tutorial.
+    description: Blender shader editor material tutorials.
     entry_type: channel
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+        - material-authoring
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - blender
   - name: Lightning Boy Studio
     url: https://www.youtube.com/channel/UCd9i2MKimSaKezat1xkn8-A/videos
-    description: Toon shader, npr.
+    description: Toon and NPR shading for Blender.
     entry_type: channel
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      output:
+        - illustration
+      skill:
+        - intermediate
+      platform:
+        - web
+      tech:
+        - blender
+  - name: 3D Programming Weekly Articles
+    url: https://www.3dkingdoms.com/weekly/weekly.php
+    description: Collection of shader and math related resources.
+    entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -410,72 +602,87 @@ entries:
         - rendering
       platform:
         - web
-  - name: 3D Programming Weekly Articles
-    url: https://www.3dkingdoms.com/weekly/weekly.php
-    description: Great collection of shader and math related resources.
-    entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
   - name: Shader Derivative Functions
     url: http://www.aclockworkberry.com/shader-derivative-functions/
-    description: Useful for normals.
+    description: Shader derivative functions (ddx/ddy), useful for normals.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      skill:
+        - advanced
+      platform:
+        - web
   - name: Anatole Drupat (XT95)
     url: http://www.aduprat.com/
-    description: Recognized shader artist with a big trajectory [ST Profile](https://www.shadertoy.com/user/XT95)
-    entry_type: reference
+    description: Shader artist (ShaderToy XT95).
+    entry_type: inspiration
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      platform:
+        - web
   - name: Introduction to shaders
     url: https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/
-    description: Part 1 of an introduction to shaders using threejs.
+    description: Part 1 of an introduction to shaders using three.js.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      skill:
+        - beginner
+      platform:
+        - web
   - name: Efficient Gradient-Domain Compositing Using Quadtrees
     url: http://www.agarwala.org/efficient_gdc/preprint.pdf
-    description: ACM Trans. Graph. 2007
+    description: ACM Trans. Graph. 2007.
     entry_type: reference
+    year: 2007
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+        - compositing
+      skill:
+        - advanced
+      platform:
+        - web
   - name: Intro Three.js
     url: https://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/
-    description: Introduction to Shaders in Three.js
+    description: Introduction to pixel shaders in three.js.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      skill:
+        - beginner
+      platform:
+        - web
   - name: A Pixel is not a Little Square!
     url: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
-    description: Classic paper on misconception of "a pixel is a little square." It also serves as an introduction to sampling.
+    description: Classic paper debunking "a pixel is a little square." Also an intro to sampling.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      skill:
+        - intermediate
+      platform:
+        - web
   - name: CopperLicht
     url: https://www.ambiera.com/copperlicht/index.html
-    description: JavaScript library and WebGL 3D engine for creating games and 3D applications.
+    description: JavaScript library and WebGL 3D engine for games and 3D applications.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -483,68 +690,122 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
   - name: OpenGL 4 Shaders
     url: https://antongerdelan.net/opengl/shaders.html
-    description: Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
+    description: Short introduction to OpenGL shaders by Anton Gerdelan.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      skill:
+        - beginner
+      platform:
+        - web
   - name: apitrace
     url: http://apitrace.github.io
     description: Tools for tracing OpenGL, Direct3D, and other graphics APIs.
-    entry_type: reference
+    entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
-    notes: RELOCATE candidate; entry_type may be 'tool' (graphics API tracer).
     tags:
       workflow:
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
   - name: NodeToy
     url: https://app.nodetoy.co/
-    description: The shader tool for the web. NodeToy provides creators a editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking
-    entry_type: reference
+    description: Web node-based shader editor with react-three-fiber export.
+    entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
-    notes: RELOCATE candidate; entry_type should be 'tool' (web shader editor).
     tags:
       workflow:
         - rendering
+        - material-authoring
+      platform:
+        - web
   - name: How does a GPU Shader work?
     url: https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf
-    description: How does a GPU Shader work?.
+    description: Academy slides on how a GPU shader works.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      skill:
+        - intermediate
+      platform:
+        - web
+      tech:
+        - gpu
   - name: Bart Wronski's blog
     url: https://bartwronski.com/
-    description: Bart Wronski shares insights into real-time rendering, post-processing effects, and advanced graphics techniques
+    description: Real-time rendering, post-processing effects, and advanced graphics techniques.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      skill:
+        - advanced
+      platform:
+        - web
+      tech:
+        - real-time
   - name: Rendering Resources - Benedikt Bitterli
     url: https://benedikt-bitterli.me/resources/
-    description: Scenes in Tungsten, Mitsuba and pbrt-v3 formats.
+    description: Test scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      platform:
+        - web
   - name: Path tracing fractals
     url: http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/
-    description: By Mikael Hvidtfeldt Christensen|[Arlo.. in a fragment shader](https://t.co/jJeGzTGmNC) by Inigo Quilez|
+    description: Path tracing 3D fractals in a fragment shader, by Mikael Hvidtfeldt Christensen.
     entry_type: reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      skill:
+        - advanced
+      platform:
+        - web
+      tech:
+        - procedural
+  - name: A Trip Through The Graphics Pipeline
+    url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
+    description: A-trip-through-the-graphics-pipeline.
+    license: Open Source
+    entry_type: reference
+    best_for: Graphics pipeline learning
+    tags:
+      workflow:
+        - rendering
+      skill:
+        - advanced
+      platform:
+        - web
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Reference
+      - Graphics
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    stale: true
+    last_pushed: '2021-03-07'

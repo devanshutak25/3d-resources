@@ -10,6 +10,10 @@ entries:
         - path-tracing
       workflow:
         - rendering
+      skill:
+        - advanced
+      platform:
+        - web
     readme_tags:
       - PBR Bible
       - Free Book
@@ -29,6 +33,10 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      skill:
+        - beginner
+      platform:
+        - web
   - name: Learn OpenGL
     url: https://learnopengl.com/
     description: Deep rendering concepts from scratch (lighting, shadows, PBR, SSAO).
@@ -42,6 +50,10 @@ entries:
     tags:
       workflow:
         - rendering
+      skill:
+        - intermediate
+      platform:
+        - web
   - name: Scratchapixel
     url: https://www.scratchapixel.com/
     description: Ray tracing, rasterization, math foundations from first principles.
@@ -53,6 +65,10 @@ entries:
         - raster
       workflow:
         - rendering
+      skill:
+        - intermediate
+      platform:
+        - web
     readme_tags:
       - First Principles
       - Math
@@ -69,6 +85,10 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      output:
+        - games
+      platform:
+        - web
     readme_tags:
       - Beginner
       - Effects
@@ -84,6 +104,8 @@ entries:
         - real-time
       workflow:
         - rendering
+      platform:
+        - web
     readme_tags:
       - Real-time
       - Curated Links
@@ -105,6 +127,8 @@ entries:
       workflow:
         - rendering
         - texturing
+      platform:
+        - web
   - name: Substance Academy
     url: https://academy.substance3d.com/
     description: Free official Substance Painter/Designer tutorials.
@@ -115,6 +139,10 @@ entries:
         - material-authoring
         - texturing
         - rendering
+      skill:
+        - beginner
+      platform:
+        - web
     readme_tags:
       - Official
       - Free
@@ -133,6 +161,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
   - name: Cyanilux
     url: https://www.cyanilux.com/contents/
     description: Unity shader tutorials (URP focus). Intro to Shader Graph, HLSL, depth, vertex displacement, dissolve, portals, water, fire. Beginner to advanced.
@@ -144,6 +174,8 @@ entries:
         - rendering
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Unity Shaders
       - URP
@@ -160,6 +192,8 @@ entries:
       workflow:
         - material-authoring
         - rendering
+      platform:
+        - web
     readme_tags:
       - Matcap
       - Tutorial
@@ -173,6 +207,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
       tech:
         - opensource-alt
         - ray-tracing
@@ -190,6 +226,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
       tech:
         - opensource-alt
         - pbr
@@ -206,6 +244,10 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: USD Arnold
@@ -219,6 +261,12 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - film-vfx
       tech:
         - opensource-alt
         - usd
@@ -235,6 +283,10 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: PBRT v3
@@ -247,6 +299,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
       tech:
         - opensource-alt
         - ray-tracing
@@ -264,6 +318,10 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      output:
+        - games
+      platform:
+        - web
       tech:
         - opensource-alt
     stale: true
@@ -278,6 +336,10 @@ entries:
     tags:
       workflow:
         - rendering
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
         - real-time
     readme_tags:
@@ -293,6 +355,10 @@ entries:
     tags:
       workflow:
         - rendering
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
         - pbr
         - ray-tracing
@@ -307,6 +373,10 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - procedural
@@ -321,6 +391,8 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -338,6 +410,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
       tech:
         - opensource-alt
         - pbr
@@ -352,6 +426,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
       tech:
         - opensource-alt
         - ray-tracing
@@ -365,6 +441,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
       tech:
         - opensource-alt
         - pbr
@@ -379,6 +457,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
       tech:
         - opensource-alt
         - ray-tracing
@@ -394,6 +474,8 @@ entries:
       workflow:
         - rendering
         - compositing
+      platform:
+        - web
       tech:
         - opensource-alt
         - ray-tracing
@@ -407,6 +489,10 @@ entries:
     tags:
       workflow:
         - rendering
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - ray-tracing
     readme_tags:
@@ -422,6 +508,10 @@ entries:
     tags:
       workflow:
         - rendering
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
         - ray-tracing
     readme_tags:
@@ -437,6 +527,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
       tech:
         - real-time
   - name: Compact YCoCg Frame Buffer
@@ -452,6 +544,10 @@ entries:
     tags:
       workflow:
         - rendering
+      skill:
+        - advanced
+      platform:
+        - web
   - name: bgfx
     url: https://github.com/bkaradzic/bgfx
     description: Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
@@ -462,6 +558,10 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
   - name: VFX good night reading
@@ -474,6 +574,8 @@ entries:
     tags:
       workflow:
         - rendering
+      platform:
+        - web
       tech:
         - opensource-alt
     readme_tags:
@@ -492,6 +594,12 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      skill:
+        - intermediate
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender
         - real-time
@@ -506,6 +614,10 @@ entries:
       workflow:
         - material-authoring
         - rendering
+      skill:
+        - intermediate
+      platform:
+        - web
   - name: Alan Zucconi's Blog
     url: https://www.alanzucconi.com/
     description: Shaders and maths. Well explained and very interesting.
@@ -517,6 +629,8 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Shaders
       - Math
@@ -535,6 +649,8 @@ entries:
         - games
       skill:
         - beginner
+      platform:
+        - web
     readme_tags:
       - Beginner
       - Unity
@@ -549,6 +665,10 @@ entries:
       workflow:
         - material-authoring
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender
         - blender-addon
@@ -563,6 +683,12 @@ entries:
       workflow:
         - material-authoring
         - rendering
+      output:
+        - automotive
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender
   - name: BNPR Shaders
@@ -576,6 +702,10 @@ entries:
       workflow:
         - material-authoring
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender
       output:
@@ -594,6 +724,10 @@ entries:
       workflow:
         - material-authoring
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender
         - real-time
@@ -629,6 +763,10 @@ entries:
       output:
         - games
         - illustration
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unreal-plugin
   - name: Flow Map Shader
@@ -644,6 +782,10 @@ entries:
         - rendering
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - unity-plugin
   - name: FogSprites
@@ -659,6 +801,10 @@ entries:
         - rendering
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - unity-plugin
@@ -672,6 +818,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
         - gpu
   - name: Fast Terrain Rendering Using Geometrical MipMapping
@@ -682,6 +834,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
         - gpu
   - name: Ray Tracey's blog
@@ -692,6 +850,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
         - ray-tracing
         - real-time
@@ -703,9 +867,11 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      tech:
-        - blender
-        - blender-addon
+      workflow:
+        - material-authoring
+        - rendering
+      platform:
+        - web
   - name: Blender & ACES
     url: https://www.toodee.de/?page_id=1720
     description: Setup Blender to work with ACES using OpenColorIO.
@@ -714,22 +880,11 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - blender
-        - blender-addon
-  - name: A Trip Through The Graphics Pipeline
-    url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
-    description: A-trip-through-the-graphics-pipeline.
-    license: Open Source
-    entry_type: reference
-    best_for: Graphics pipeline learning
-    tags:
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Reference
-      - Graphics
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    stale: true
-    last_pushed: '2021-03-07'

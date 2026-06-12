@@ -13,6 +13,12 @@ entries:
       workflow:
         - rendering
         - lighting
+      skill:
+        - advanced
+      platform:
+        - web
+      output:
+        - film-vfx
       tech:
         - path-tracing
   - name: Ariev Visuals Resources
@@ -29,6 +35,10 @@ entries:
       workflow:
         - rendering
         - lighting
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
         - gpu
         - path-tracing
@@ -43,6 +53,10 @@ entries:
       workflow:
         - rendering
         - lighting
+      skill:
+        - advanced
+      platform:
+        - web
     readme_tags:
       - Thesis
       - Light Transport

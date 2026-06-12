@@ -19,9 +19,13 @@ entries:
     url_status: ok
   - name: CNDL
     url: https://cndl.io/
-    description: An IES lighting creation toolset. Improve your renders with custom IES lighting.
+    description: Web tool to create custom IES light profiles.
     license: Freemium
     entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - lighting
+      platform:
+        - web

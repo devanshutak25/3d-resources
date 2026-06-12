@@ -13,6 +13,8 @@ entries:
         - lighting
       skill:
         - beginner
+      platform:
+        - web
   - name: The Digital Revolution
     url: https://www.youtube.com/@TheDigitalRevolutionTV
     description: Beginner C4D lighting.
@@ -24,6 +26,8 @@ entries:
         - lighting
       platform:
         - web
+      output:
+        - motion-graphics
     readme_tags:
       - Beginner
       - C4D
@@ -45,6 +49,8 @@ entries:
         - beginner
       platform:
         - web
+      output:
+        - motion-graphics
   - name: School of Motion Lighting Blog
     url: https://www.schoolofmotion.com/blog/
     description: Shadows, volumetrics, HDRI, and area light techniques.
@@ -59,9 +65,13 @@ entries:
         - lighting
       skill:
         - beginner
+      platform:
+        - web
+      output:
+        - motion-graphics
   - name: Creative Shrimp
     url: https://www.creativeshrimp.com/
-    description: High quality CG tutorials and Blender tutorials, digital art and lighting tutorials with Gleb and Aidy.
+    description: Blender CG art and lighting tutorials by Gleb Alexandrov and Aidy Burrows.
     entry_type: tutorial
     license: Free
     readme_tags:
@@ -74,5 +84,7 @@ entries:
         - lighting
       skill:
         - beginner
+      platform:
+        - web
       tech:
         - blender

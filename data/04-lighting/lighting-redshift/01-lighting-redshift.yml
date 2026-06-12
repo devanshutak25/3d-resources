@@ -9,6 +9,8 @@ entries:
       workflow:
         - lighting
         - rendering
+      skill:
+        - advanced
       platform:
         - web
       tech:
@@ -34,6 +36,8 @@ entries:
       workflow:
         - lighting
         - rendering
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -52,6 +56,8 @@ entries:
       workflow:
         - lighting
         - rendering
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -68,6 +74,8 @@ entries:
         - lighting
         - rendering
         - material-authoring
+      skill:
+        - intermediate
       platform:
         - web
       tech:
@@ -93,6 +101,8 @@ entries:
       workflow:
         - lighting
         - rendering
+      skill:
+        - intermediate
       platform:
         - web
       tech:
