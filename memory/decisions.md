@@ -143,3 +143,10 @@ Architectural / structural decisions w/ rationale + date.
   - Targets: 12 dev/build/scripting tools + Blender dev docs → §10 `misc-3d-utilities/01` (18→30); 2 ML/research lists (3D Machine Learning, Awesome 3D Human) → §09 `ml-for-cg/01` (4→6); 3 general/Blender refs (Awesome 3D Printing, Usage in Science/Academia/Industry, Blender Checklist) → §11 `communities-forums` new chunk 03.
   - Choices (user-confirmed): split awesome-lists by topic (§09 for ML, §11 for rest); created new chunk 03 in communities-forums (chunk 01 had 13 free, 02 over-cap 119) and bumped `chunks: 2→3` in `data/11-learning-community.yml`.
   - Pure move: no `dual_listed_in` (misfiles, not cross-listings). Sources: `blender-plugins-addons/04` 50→35, `blender-tutorials/01` 11→9. Validation passes (304 warnings, no new errors/dupes). Next sweep section: §04 lighting.
+
+- **2026-06-12: Executed §04 relocation phase (8 flags cleared) — §04 fully COMPLETE**
+  - Decision: resolved all 8 RELOCATE flags in `rendering-shader-theory`. 6 moved, 2 kept-in-place (note stripped). §04 enrichment+relocation now fully done.
+  - Moves (pure move, strip `notes`): MoonRay (reference→software) → §12 render-engines/01 (39→40); CopperLicht (reference→software) → §12 game-engines-free-oss/02 (11→12); KodeLife (tool→software) → §12 misc-3d-utilities-software/01 (20→21); Photo tourism paper → §09 papers/02 (42→43); React Spring → §06 motion-graphics-tools/01 (8→9); Takua Renderer → §04 renderer-specific-learning/01 (3→4, intra-section).
+  - Keep + strip note (no math/sim subsection exists in §04/§05/§06; user-confirmed): "Let's remove Quaternions from every 3D Engine" (geometric-algebra math) + "Physics-Based Animation" (physics/sim hub) — stay in rendering-shader-theory/04.
+  - Retype rationale: §12 render-engines / game-engines-free-oss / misc-3d-utilities-software buckets are uniformly entry_type:software; the 3 standalone apps took `software` to match.
+  - Sources: r-s-t/02 50→48, r-s-t/04 48→45, r-s-t/05 28→27. No new chunk files, no `chunks`-counter edits. Validation passes (312 warnings, no new). 0 RELOCATE flags remain in §04. NEXT sweep section: §06 motion-graphics.

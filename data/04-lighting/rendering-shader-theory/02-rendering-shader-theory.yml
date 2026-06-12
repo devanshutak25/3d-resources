@@ -442,18 +442,6 @@ entries:
         - material-authoring
       platform:
         - web
-  - name: DreamWork's MoonRay
-    url: https://openmoonray.org/
-    description: Physically based path-tracing renderer with a USD Hydra delegate and Arras distributed/cloud rendering.
-    entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    notes: RELOCATE to §12 software table; entry is a render engine.
-    tags:
-      workflow:
-        - rendering
-      platform:
-        - web
   - name: Pyro Shader (Redshift, Arnold, RenderMan)
     url: https://sadjad.gumroad.com/l/PvjRz?recommended_by=search
     description: Pyro and fire shader presets for Redshift, Arnold, and RenderMan.
@@ -678,18 +666,6 @@ entries:
         - rendering
       skill:
         - intermediate
-      platform:
-        - web
-  - name: CopperLicht
-    url: https://www.ambiera.com/copperlicht/index.html
-    description: JavaScript library and WebGL 3D engine for games and 3D applications.
-    entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    notes: RELOCATE candidate; entry_type may be 'software' (WebGL engine), better fit in §12 or web-tech section.
-    tags:
-      workflow:
-        - rendering
       platform:
         - web
   - name: OpenGL 4 Shaders

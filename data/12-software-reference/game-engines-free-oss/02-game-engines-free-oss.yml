@@ -144,3 +144,14 @@ entries:
       - Editor
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: CopperLicht
+    url: https://www.ambiera.com/copperlicht/index.html
+    description: JavaScript library and WebGL 3D engine for games and 3D applications.
+    entry_type: software
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web

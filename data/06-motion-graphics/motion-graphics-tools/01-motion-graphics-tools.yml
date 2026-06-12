@@ -102,3 +102,14 @@ entries:
     tags:
       workflow:
         - modeling
+  - name: React Spring
+    url: https://www.react-spring.dev/
+    description: Library for physically accurate animations, works with react-three-fiber.
+    entry_type: tool
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web

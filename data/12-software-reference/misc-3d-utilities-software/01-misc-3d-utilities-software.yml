@@ -331,3 +331,16 @@ entries:
       - Free
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: KodeLife
+    url: https://hexler.net/products/kodelife
+    description: Real-time shader editor supporting GLSL, HLSL, and Metal, with a UI for creating and testing shaders.
+    entry_type: software
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac
+        - linux

@@ -1,8 +1,11 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-12. §07 COMPLETE. §02 FULLY COMPLETE. §04 ENRICHMENT COMPLETE (6/6 phases). RESUME AT §04 RELOCATION PHASE.**
+**Status as of 2026-06-12. §07 COMPLETE. §02 FULLY COMPLETE. §04 FULLY COMPLETE (enrichment 6/6 + relocation). RESUME AT §06 MOTION-GRAPHICS.**
 
-## §04 LIGHTING IN PROGRESS (RESUME HERE — 2026-06-12)
+## §04 RELOCATION COMPLETE (2026-06-12)
+All 8 RELOCATE flags cleared. **6 moves** (pure move, strip `notes`): MoonRay (reference→software) → §12 render-engines/01 (39→40); CopperLicht (reference→software) → §12 game-engines-free-oss/02 (11→12); KodeLife (tool→software) → §12 misc-3d-utilities-software/01 (20→21); Photo tourism paper → §09 papers/02 (42→43); React Spring → §06 motion-graphics-tools/01 (8→9); Takua Renderer → §04 renderer-specific-learning/01 (3→4, intra-section). **2 kept-in-place** (note stripped; no math/sim subsection exists in §04/§05/§06, user-confirmed): "Let's remove Quaternions from every 3D Engine" + "Physics-Based Animation" stay in rendering-shader-theory/04. Sources: r-s-t/02 50→48, /04 48→45, /05 28→27. No new chunk files, no `chunks`-counter edits. Validation passes (312 warnings), 0 RELOCATE flags remain. **NEXT: §06 motion-graphics enrichment** (re-confirm baseline facet coverage, phase chunk-by-chunk; remaining worst-first §06 → §08 → §01 → §09 [NeRF/GS paper dumps] → §05 → §11 → §03).
+
+## §04 LIGHTING ENRICHMENT (DONE — 2026-06-12)
 
 Plan file: `~/.claude/plans/make-plan-to-work-virtual-church.md`. 241 ent / 9 chunks. Baseline platform 23, output 11, skill 8, workflow already 234/241. Phasing: 6 phases chunk-by-chunk (user-confirmed). Over-cap chunk 01 (51) fixed by moving 1 overflow → chunk 02 (both now 50, user-confirmed).
 

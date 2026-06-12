@@ -586,3 +586,19 @@ entries:
       platform:
         - web
     year: 2023
+  - name: 'Photo tourism: Exploring photo collections in 3D'
+    url: http://phototour.cs.washington.edu/
+    description: Snavely, Seitz, Szeliski. SIGGRAPH 2006.
+    entry_type: reference
+    year: 2006
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      skill:
+        - advanced
+      platform:
+        - web
+      tech:
+        - photogrammetry

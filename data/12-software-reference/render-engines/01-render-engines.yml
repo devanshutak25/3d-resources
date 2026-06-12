@@ -691,3 +691,14 @@ entries:
       - Free
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: DreamWork's MoonRay
+    url: https://openmoonray.org/
+    description: Physically based path-tracing renderer with a USD Hydra delegate and Arras distributed/cloud rendering.
+    entry_type: software
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web

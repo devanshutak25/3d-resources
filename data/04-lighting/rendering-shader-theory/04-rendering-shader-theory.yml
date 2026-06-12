@@ -1,18 +1,4 @@
 entries:
-  - name: KodeLife
-    url: https://hexler.net/products/kodelife
-    description: Real-time shader editor supporting GLSL, HLSL, and Metal, with a UI for creating and testing shaders.
-    entry_type: tool
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-      platform:
-        - win
-        - mac
-        - linux
-    notes: RELOCATE. Shader editor tool, not theory reference; consider §12 software or a shader-tools subsection.
   - name: Fragment Foundry
     url: http://hughsk.io/fragment-foundry
     description: Interactive fragment shader tutorial.
@@ -163,7 +149,6 @@ entries:
         - advanced
       platform:
         - web
-    notes: RELOCATE. Math/rotation theory, not rendering or shaders.
   - name: A Survey on Participating Media Rendering Techniques
     url: http://maverick.inria.fr/Publications/2005/CPPSS05/cerezo.pdf
     description: Cerezo et al. Visual Computer 2005.
@@ -262,23 +247,6 @@ entries:
         - advanced
       platform:
         - web
-  - name: 'Photo tourism: Exploring photo collections in 3D'
-    url: http://phototour.cs.washington.edu/
-    description: Snavely, Seitz, Szeliski. SIGGRAPH 2006.
-    entry_type: reference
-    year: 2006
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-      skill:
-        - advanced
-      platform:
-        - web
-      tech:
-        - photogrammetry
-    notes: RELOCATE. Photogrammetry paper, not shader/rendering theory.
   - name: Physics-Based Animation
     url: http://www.physicsbasedanimation.com/
     description: Learning resources and papers on physics-based animation.
@@ -291,7 +259,6 @@ entries:
         - simulation
       platform:
         - web
-    notes: RELOCATE. Physics/animation resources, not rendering theory.
   - name: Pixel Shaders
     url: http://pixelshaders.com/
     description: Interactive introduction to graphics programming.
@@ -331,18 +298,6 @@ entries:
         - intermediate
       platform:
         - web
-  - name: React Spring
-    url: https://www.react-spring.dev/
-    description: Library for physically accurate animations, works with react-three-fiber.
-    entry_type: tool
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-    notes: RELOCATE. Animation library, not rendering/shader theory.
   - name: Real-Time Rendering Blog
     url: https://www.realtimerendering.com/blog/
     description: Blog tied to the Real-Time Rendering book series, with rendering techniques, industry news, and research.

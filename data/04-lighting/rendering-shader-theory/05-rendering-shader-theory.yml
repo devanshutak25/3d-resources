@@ -169,20 +169,6 @@ entries:
         - archviz
       platform:
         - web
-  - name: Takua Renderer
-    url: http://www.yiningkarlli.com/projects/takuarender/
-    description: Karl Li's hobbyist physically-based renderer project page with technical write-ups.
-    entry_type: reference
-    notes: RELOCATE? Could fit renderer-specific-learning if treated as renderer deep-dive.
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-      skill:
-        - advanced
-      platform:
-        - web
   - name: An introduction to Shader Art Coding
     url: https://www.youtube.com/@kishimisu
     description: Video tutorial on the basics of creating art with shaders.
