@@ -12,6 +12,10 @@ entries:
         - opensource-alt
       workflow:
         - modeling
+      platform:
+        - win
+        - mac
+        - linux
   - name: Pixal3D
     url: https://github.com/TencentARC/Pixal3D
     description: Single-image to 3D asset generation via pixel-feature back-projection. Outputs geometry and PBR textures.
@@ -26,6 +30,10 @@ entries:
       workflow:
         - modeling
         - texturing
+      platform:
+        - win
+        - mac
+        - linux
   - name: NativeBlend CLI
     url: https://github.com/addy999/nativeblend-cli
     description: AI CLI to generate and edit low-poly 3D game assets in Blender from text prompts.
@@ -43,3 +51,36 @@ entries:
       tech:
         - ai-generative
         - blender-addon
+  - name: Point-E (OpenAI)
+    url: https://github.com/openai/point-e
+    description: OpenAI point-cloud diffusion for text and image to 3D synthesis.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+  - name: Transforming 2D Images into 3D with AdaMPI
+    url: https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/
+    description: Guide to using the AdaMPI model to create 3D photos from 2D images.
+    license: Free
+    entry_type: tutorial
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - modeling
+      platform:
+        - web
+      skill:
+        - intermediate

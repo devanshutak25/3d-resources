@@ -8,6 +8,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
   - name: PyTorch3D
     url: https://pytorch3d.org/
     description: Meta FAIR library for 3D deep learning. Differentiable rendering, mesh ops, point cloud utils on PyTorch.
@@ -19,6 +21,8 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - web
     readme_tags:
       - 3D Deep Learning
       - PyTorch
@@ -33,6 +37,8 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - web
     readme_tags:
       - Vision Features
       - Self-Supervised
@@ -46,6 +52,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Text-to-3D
       - Research
@@ -73,3 +81,31 @@ entries:
         - web
     stale: true
     last_pushed: '2023-10-30'
+  - name: Introduction to Generative AI Community Course
+    url: https://www.youtube.com/@iNeuroniNtelligence
+    description: Free community course on generative AI fundamentals by iNeuron.
+    license: Free
+    entry_type: channel
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+      skill:
+        - beginner
+  - name: Generative AI Genius 2024
+    url: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/generative_ai_genius/README.md
+    description: Free generative AI course material by Aishwarya Naresh Reganti.
+    license: Free
+    entry_type: tutorial
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+      skill:
+        - beginner

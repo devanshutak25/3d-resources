@@ -9,6 +9,62 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Text-to-Video
       - Research
+  - name: Stable Diffusion KLMC2 Animation (forked)
+    url: https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb
+    description: Colab notebook for Stable Diffusion animation, forked by @DigThatData.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - creative-coding
+      platform:
+        - web
+  - name: Stable Diffusion KLMC2 Animation
+    url: https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G
+    description: Colab notebook by @RiversHaveWings generating animation from scripted prompts via KLMC2 discretization of underdamped Langevin dynamics.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - creative-coding
+      platform:
+        - web
+  - name: Deforum Notebook v0.5 (Stable Diffusion animation)
+    url: https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/
+    description: Deforum v0.5 notebook for Stable Diffusion animation with math automation, perspective flips, prompt weights, and video masking.
+    license: Free
+    entry_type: reference
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+  - name: Deforum Stable Diffusion Animation (Artificial Selections)
+    url: https://www.youtube.com/@ArtificialSelections
+    description: YouTube channel covering Deforum Stable Diffusion animation techniques.
+    license: Free
+    entry_type: channel
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+      skill:
+        - intermediate

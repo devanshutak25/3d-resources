@@ -8,6 +8,10 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Depth/Pose Control
       - Precision
@@ -23,6 +27,10 @@ entries:
         - blender-addon
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Blender Addon
       - Local SD
@@ -38,6 +46,10 @@ entries:
         - blender-addon
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - ComfyUI in Blender
       - Addon
@@ -45,7 +57,7 @@ entries:
     url_status: ok
   - name: Coplay
     url: https://coplay.dev
-    description: AI Copilot for Unity
+    description: AI copilot for Unity.
     license: Freemium
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -54,11 +66,15 @@ entries:
       tech:
         - ai-generative
         - unity-plugin
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Unity Copilot
   - name: RIFE for Nuke
     url: https://github.com/rafaelperez/RIFE-for-Nuke
-    description: Real-Time Intermediate Flow Estimation for Video Frame Interpolation (ie machine learning for framerate upscaling) for Nuke.
+    description: Real-Time Intermediate Flow Estimation for video frame interpolation (ML framerate upscaling) for Nuke.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-06-01'
@@ -67,6 +83,10 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Nuke Plugin
       - Frame Interp
@@ -84,6 +104,10 @@ entries:
         - ai-generative
         - opensource-alt
         - unity-plugin
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Unity MCP
       - AI Integration
@@ -97,6 +121,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Prompt Guide
       - GPT-4
@@ -115,6 +141,10 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Segmentation
       - Video Masks
@@ -133,6 +163,10 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Keying
       - Corridor
@@ -151,6 +185,10 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Rotoscope
       - SAM
@@ -169,6 +207,10 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Matting
       - Real-Time
@@ -187,6 +229,10 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Tracking
       - Segmentation
@@ -205,6 +251,10 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Video Segmentation
       - Long-Form
@@ -223,6 +273,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Auto Roto
       - Char Replace
@@ -241,6 +293,10 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Nuke Plugin
       - AE Plugin
@@ -259,6 +315,10 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Point Tracking
       - Video
@@ -296,3 +356,19 @@ entries:
         - ai-generative
     stale: true
     last_pushed: '2020-06-26'
+  - name: AI Render (Stable Diffusion in Blender)
+    url: https://github.com/benrugg/AI-Render
+    description: Blender addon that renders an AI image from a text prompt and your scene via Stable Diffusion.
+    license: Open Source
+    entry_type: plugin
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - blender-addon
+        - ai-generative
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux

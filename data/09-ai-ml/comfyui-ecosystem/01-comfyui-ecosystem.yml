@@ -13,6 +13,11 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+        - node-based
+      platform:
+        - win
+        - mac
+        - linux
   - name: ComfyUI Registry
     url: https://comfyui.org/
     description: Community workflow and subgraph sharing.
@@ -26,6 +31,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
   - name: Awesome ComfyUI
     url: https://github.com/ComfyUI-Workflow/awesome-comfyui
     description: Curated custom nodes collection.
@@ -40,6 +47,8 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - web
   - name: Comflowy
     url: https://www.comflowy.com/
     description: ComfyUI tutorials for ControlNet, SDXL, FLUX workflows.
@@ -53,6 +62,10 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: ControlNet SD3.5
     url: https://blog.comfy.org/p/sd3-5-large-controlnet
     description: Blur/Canny/Depth models, free commercial use.
@@ -66,3 +79,7 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - win
+        - mac
+        - linux

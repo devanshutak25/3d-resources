@@ -12,6 +12,24 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Music Gen
       - SFX Gen
+  - name: COVAL
+    url: https://app.coval.dev/the-ultimate-voice-ai-stack
+    description: Guide to building, scaling, and evaluating voice AI, from speech recognition to emotional intelligence.
+    license: Free
+    entry_type: tutorial
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
+      skill:
+        - intermediate

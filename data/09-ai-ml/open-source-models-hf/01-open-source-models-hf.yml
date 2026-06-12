@@ -8,6 +8,8 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - web
     readme_tags:
       - Orbital Video
       - Stability
@@ -23,6 +25,8 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - web
     readme_tags:
       - I2V
       - Multilingual
@@ -39,8 +43,22 @@ entries:
       tech:
         - opensource-alt
         - ai-ml
+      platform:
+        - web
     readme_tags:
       - NLP
       - Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: sd-concepts-library (Stable Diffusion Concepts Library)
+    url: https://huggingface.co/sd-concepts-library
+    description: Community library of Stable Diffusion textual-inversion concepts to browse and use in prompts.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      platform:
+        - web
