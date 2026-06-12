@@ -52,12 +52,16 @@ entries:
     url_status: ok
   - name: videvo
     url: https://www.videvo.net/
-    description: '[actionvfx/free-vfx](https://www.actionvfx.com/collections/free-vfx/category), [videezy](https://www.videezy.com/), [pixabay](https://pixabay.com/videos/search/)'
+    description: Free stock video, motion graphics, and music tracks.
     entry_type: asset-source
     license: Freemium
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      tech:
-        - blender
-        - blender-addon
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - web
+      workflow:
+        - reference

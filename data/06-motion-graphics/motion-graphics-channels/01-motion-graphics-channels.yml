@@ -9,6 +9,8 @@ entries:
         - motion-graphics
       platform:
         - web
+      skill:
+        - intermediate
     readme_tags:
       - AE
       - Motion Design

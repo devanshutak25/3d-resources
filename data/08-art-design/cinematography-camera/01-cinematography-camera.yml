@@ -12,6 +12,12 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
   - name: No Film School. Cinematography
     url: https://nofilmschool.com/topics/cinematography-cameras
     description: Constant stream of technique articles.
@@ -25,6 +31,12 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: Every Frame a Painting
     url: https://www.youtube.com/@everyframeapainting
     description: Gold-standard video essays on composition, camera, editing rhythm.
@@ -38,8 +50,12 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - film-vfx
       platform:
         - web
+      skill:
+        - intermediate
   - name: CinemaTyler
     url: https://www.youtube.com/@CinemaTyler
     description: Deep analysis of lens choice, color, blocking, lighting in film.
@@ -53,8 +69,12 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - film-vfx
       platform:
         - web
+      skill:
+        - intermediate
   - name: Wolfcrow
     url: https://www.youtube.com/@wolfcrow
     description: Cinematography fundamentals, color science, exposure theory.
@@ -68,8 +88,12 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - film-vfx
       platform:
         - web
+      skill:
+        - intermediate
   - name: In Depth Cine
     url: https://www.youtube.com/@InDepthCine
     description: Practical lighting setups and narrative technique.
@@ -83,8 +107,12 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - film-vfx
       platform:
         - web
+      skill:
+        - intermediate
   - name: Shane Hurlbut ASC Blog
     url: https://www.hurlbutvisuals.com/blog
     description: Real DP knowledge on cinematography, lens choice, lighting setups.
@@ -99,6 +127,12 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - advanced
   - name: Roger Deakins on Learning to Light
     url: https://www.youtube.com/@StudioBinder
     description: Cinematography Techniques Ep. 1.
@@ -113,8 +147,12 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - film-vfx
       platform:
         - web
+      skill:
+        - intermediate
   - name: How to Create Stunning Cinematic Lighting
     url: https://www.youtube.com/@fulltimefilmmaker
     description: Cinematic lighting tutorial.
@@ -129,27 +167,9 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - film-vfx
       platform:
         - web
-  - name: Nuke
-    url: https://www.foundry.com/products/nuke
-    description: Industry standard node-based compositing software by The Foundry, has a free version for non-commercial use.
-    entry_type: reference
-    license: Freemium
-    notes: Misfit. This is compositing software (entry_type should be 'software', workflow 'compositing'), and belongs in software/compositing section, not cinematography-camera.
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - reference
-  - name: Fusion
-    url: https://www.blackmagicdesign.com/de/products/fusion
-    description: Free node-based compositing software from Blackmagic Design.
-    entry_type: reference
-    license: Free
-    notes: Misfit. Compositing software (entry_type should be 'software', workflow 'compositing'); belongs in software/compositing section, not cinematography-camera.
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - reference
+      skill:
+        - beginner

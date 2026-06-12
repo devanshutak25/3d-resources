@@ -14,6 +14,10 @@ entries:
       output:
         - motion-graphics
         - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: Multichannel EXR (Fusion forum)
     url: https://forum.blackmagicdesign.com/viewtopic.php?f=22&t=39964
     description: Multichannel EXR workflow in Fusion.
@@ -29,6 +33,10 @@ entries:
       output:
         - motion-graphics
         - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: Split EXR in Fusion
     url: http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion
     description: Split EXR in Fusion guide.
@@ -44,5 +52,7 @@ entries:
       output:
         - motion-graphics
         - film-vfx
+      platform:
+        - web
       skill:
         - intermediate

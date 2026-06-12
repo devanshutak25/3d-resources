@@ -1,7 +1,7 @@
 entries:
   - name: Sonniss GDC Bundle
     url: https://sonniss.com/gameaudiogdc
-    description: Massive free SFX bundles (~30GB+) annually around GDC and Christmas.
+    description: Free SFX bundles (~30GB+) released annually around GDC and Christmas.
     license: Free
     entry_type: asset-source
     tags:
@@ -10,6 +10,8 @@ entries:
       output:
         - games
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Annual
       - SFX Bundle

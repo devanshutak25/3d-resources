@@ -55,7 +55,7 @@ entries:
     url_status: ok
   - name: CGTrader
     url: https://www.cgtrader.com/
-    description: Community marketplace.
+    description: Community model marketplace.
     license: Freemium
     entry_type: marketplace
     readme_tags:
@@ -64,6 +64,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -74,6 +76,8 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -87,10 +91,12 @@ entries:
     url_status: ok
   - name: XYZed3D (Gumroad)
     url: https://xyzed3d.gumroad.com/
-    description: CC0 (non-AI) asset packs. Models, props, misc. By artyusufpatel.
+    description: 'CC0 (non-AI) asset packs: models, props, misc. By artyusufpatel.'
     license: Free
     entry_type: asset-source
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -124,6 +130,8 @@ entries:
     description: Base meshes for sculpting and rigging.
     entry_type: asset-source
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -145,6 +153,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -155,6 +165,8 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -168,7 +180,7 @@ entries:
     url_status: ok
   - name: Free3D.io
     url: https://free3d.io/
-    description: Free models.
+    description: Free 3D model downloads.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -176,13 +188,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
         - modeling
   - name: 3Dzip
     url: https://3dzip.org/
-    description: Free downloads.
+    description: Free 3D models and interior scenes.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -190,6 +204,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - archviz
       platform:
         - web
       workflow:
@@ -200,6 +216,8 @@ entries:
     license: Freemium
     entry_type: asset-source
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -213,7 +231,7 @@ entries:
     url_status: ok
   - name: 3DExport
     url: https://3dexport.com/
-    description: Marketplace.
+    description: 3D model marketplace.
     license: Freemium
     entry_type: marketplace
     readme_tags:
@@ -221,6 +239,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -235,6 +255,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -266,6 +288,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -275,6 +299,8 @@ entries:
     description: Scan the World collection of scanned heritage objects.
     entry_type: asset-source
     tags:
+      output:
+        - scientific-viz
       platform:
         - web
       tech:
@@ -292,6 +318,8 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -314,6 +342,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -329,6 +359,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -355,6 +387,8 @@ entries:
     description: User-uploaded photogrammetry scans.
     entry_type: asset-source
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -368,21 +402,27 @@ entries:
     url_status: ok
   - name: Blender 3D models
     url: https://www.blender-models.com/
-    description: 3D models, particle systems/effects
+    description: 3D models, particle systems, and effects.
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
+      tech:
+        - blender
       workflow:
         - modeling
   - name: rileyb3d Library
     url: https://rileyb3d.com/library
-    description: Free packed.blend files ready to use.
+    description: Free packed .blend files ready to use.
     license: Free
     entry_type: asset-source
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -402,28 +442,37 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
         - modeling
   - name: PBRPX
     url: https://www.pbrpx.com
-    description: A huge library of free PBR materials, and some 3D models.
+    description: Free PBR materials and some 3D models.
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
+      tech:
+        - pbr
       workflow:
         - modeling
+        - texturing
   - name: Free3DBase
     url: https://free3dbase.com/
-    description: Download high quality free 3d models.
+    description: Free 3D models.
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
@@ -452,33 +501,48 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       workflow:
         - modeling
   - name: Blend Swap
     url: https://www.blendswap.com/blends
-    description: blend file asset source, not an addon. The one place for Open Source Blender files.
+    description: Open-source .blend file library.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - blender
+      workflow:
+        - modeling
   - name: Mantissa/resources
     url: https://mantissa.xyz/free.html
-    description: Free Blender files, resources.
+    description: Free Blender files and resources.
     entry_type: asset-source
     license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - blender
-        - blender-addon
+      workflow:
+        - modeling
   - name: OpenTopography/datasets
     url: https://portal.opentopography.org/datasets
-    description: Facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources. _Registration required_.
-    entry_type: community
+    description: High-resolution Earth-science topography datasets and related tools. Registration required.
+    entry_type: asset-source
     license: Free
     readme_tags:
       - Topography

@@ -84,7 +84,7 @@ entries:
     url_status: ok
   - name: NASA 3D Resources
     url: https://nasa3d.arc.nasa.gov/
-    description: 3D models, textures, and images from NASA. Mixed CC0 / CC-BY, check per-asset license. [![][repo]](https://github.com/nasa/NASA-3D-Resources)
+    description: 3D models, textures, and images from NASA. Mixed CC0 / CC-BY, check per-asset license.
     entry_type: asset-source
     license: Mixed
     url_last_verified: '2026-06-01'
@@ -93,6 +93,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - scientific-viz
+      platform:
+        - web
       tech:
         - cc0
         - cc-by
@@ -107,9 +111,13 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - scientific-viz
+      platform:
+        - web
   - name: CGI Moon Kit
     url: https://svs.gsfc.nasa.gov/4720
-    description: NASA Scientific Visualization Studio CGI Moon Kit providing high-resolution moon textures and elevation data for rendering and visualization.
+    description: 'NASA Scientific Visualization Studio moon kit: high-resolution moon textures and elevation data for rendering.'
     entry_type: asset-source
     license: Free
     url_last_verified: '2026-06-01'
@@ -118,3 +126,7 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - scientific-viz
+      platform:
+        - web

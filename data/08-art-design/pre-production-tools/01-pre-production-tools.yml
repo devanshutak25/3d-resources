@@ -128,6 +128,10 @@ entries:
       workflow:
         - reference
         - storyboard
+      output:
+        - film-vfx
+      platform:
+        - web
     readme_tags:
       - Film Stills
       - Subscription
@@ -183,6 +187,10 @@ entries:
         - previs
       output:
         - film-vfx
+      platform:
+        - web
+      skill:
+        - advanced
     readme_tags:
       - Previs Studio
       - Case Studies
@@ -198,6 +206,10 @@ entries:
         - previs
       output:
         - film-vfx
+      platform:
+        - web
+      skill:
+        - advanced
     readme_tags:
       - Previs/VP
       - Writeups
@@ -209,9 +221,15 @@ entries:
     entry_type: channel
     best_for: VP/XR case studies
     tags:
+      workflow:
+        - previs
       output:
         - film-vfx
         - xr
+      platform:
+        - web
+      skill:
+        - advanced
     readme_tags:
       - VP/XR
       - Studio Blog
@@ -242,6 +260,8 @@ entries:
     entry_type: software
     best_for: Browser pre-prod
     tags:
+      output:
+        - film-vfx
       platform:
         - web
         - cloud
@@ -257,6 +277,8 @@ entries:
     entry_type: software
     best_for: Pro screenwriting
     tags:
+      output:
+        - film-vfx
       platform:
         - win
         - mac
@@ -272,6 +294,8 @@ entries:
     entry_type: software
     best_for: Affordable pro screenwriting
     tags:
+      output:
+        - film-vfx
       platform:
         - win
         - mac
@@ -288,6 +312,8 @@ entries:
     entry_type: software
     best_for: Mac Fountain screenwriting
     tags:
+      output:
+        - film-vfx
       platform:
         - mac
     readme_tags:
@@ -302,6 +328,8 @@ entries:
     entry_type: software
     best_for: Collab screenwriting
     tags:
+      output:
+        - film-vfx
       platform:
         - web
         - cloud
@@ -432,6 +460,10 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
     readme_tags:
       - YouTube
       - Story Analysis
@@ -446,6 +478,10 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
     readme_tags:
       - Archive
       - Visual Essays
@@ -459,6 +495,10 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
     readme_tags:
       - Free
       - Filmmaking Craft
@@ -472,6 +512,10 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
+      skill:
+        - advanced
     readme_tags:
       - Handbook
       - On-Set
@@ -485,6 +529,10 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
+      skill:
+        - advanced
     readme_tags:
       - Cinematography
       - Industry

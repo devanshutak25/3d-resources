@@ -13,6 +13,10 @@ entries:
       workflow:
         - concept
         - reference
+      output:
+        - illustration
+      platform:
+        - web
   - name: QuickPoses
     url: https://quickposes.com/en
     description: Timed drawing practice with huge photo library.
@@ -27,6 +31,10 @@ entries:
       workflow:
         - concept
         - reference
+      output:
+        - illustration
+      platform:
+        - web
   - name: SketchDaily Reference
     url: https://www.sketchdaily.net/
     description: Timed drawing sessions across categories.
@@ -41,6 +49,10 @@ entries:
       workflow:
         - concept
         - reference
+      output:
+        - illustration
+      platform:
+        - web
   - name: Posemaniacs
     url: https://www.posemaniacs.com/
     description: Rotatable 3D pose reference with muscle groups.
@@ -54,6 +66,10 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - illustration
+      platform:
+        - web
   - name: Human Anatomy for Artists
     url: https://human-anatomy-for-artist.com/
     description: Massive free photo reference by body part and angle.
@@ -67,6 +83,10 @@ entries:
     tags:
       workflow:
         - reference
+      output:
+        - illustration
+      platform:
+        - web
   - name: BodyVisualizer
     url: https://bodyvisualizer.com/
     description: 3D body shape visualizer for proportion reference.
@@ -80,6 +100,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: Ctrl+Paint
     url: https://www.ctrlpaint.com/library
     description: Structured free video library. Digital painting fundamentals, value studies, color.
@@ -93,6 +115,12 @@ entries:
     tags:
       workflow:
         - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
   - name: Proko Free Library
     url: https://www.proko.com/library/
     description: Anatomy, figure drawing, portrait (substantial free tier).
@@ -106,6 +134,12 @@ entries:
     tags:
       workflow:
         - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
   - name: ArtStation Learning
     url: https://www.artstation.com/learning
     description: Free courses from Blizzard, Riot, Pixar pros.
@@ -119,28 +153,17 @@ entries:
     tags:
       workflow:
         - concept
-  - name: Genetic Drawing
-    url: https://github.com/anopara/genetic-drawing
-    description: Python library to generate a stylized rendering from an image.
-    license: Open Source
-    entry_type: tool
-    notes: 'Misfit: image-to-stylized-render Python lib, not drawing/painting practice for 3D artists. Consider relocating to generative/AI or stylization section.'
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - concept
-      tech:
-        - opensource-alt
-        - ai-generative
-    stale: true
-    last_pushed: '2020-06-26'
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: Graphite 3D
     url: https://apps.apple.com/us/app/graphite-3d/id1523391511
     description: A collaborative drawing tool for modeling precise shapes in real spaces.
     license: Paid
     entry_type: tool
-    notes: 'entry_type corrected from tutorial to tool. Misfit: AR/iOS collaborative shape-modeling app, not 2D drawing/painting for 3D artists.'
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -152,63 +175,61 @@ entries:
       tech:
         - collaborative
         - xr
-  - name: Gizmos
-    url: https://github.com/popcron/gizmos
-    description: Used for drawing runtime gizmos in builds and editor (Unity3D).
-    license: Open Source
-    entry_type: plugin
-    notes: 'entry_type corrected from reference to plugin. Misfit: Unity runtime-gizmo dev plugin, not art/drawing reference. Belongs in a Unity/engine-tools section.'
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      tech:
-        - opensource-alt
-        - unity-plugin
   - name: Learn HTML5 Graphics and Animation
     url: https://egghead.io/courses/learn-html5-graphics-and-animation
     description: Introduction to the canvas 2D drawing API.
     license: Freemium
     entry_type: tutorial
-    notes: 'Misfit: canvas 2D API web-dev course, not drawing/painting craft for 3D artists. Belongs in web/dev tutorials.'
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
-        - concept
+        - creative-coding
+      platform:
+        - web
+      skill:
+        - beginner
   - name: 'Intro to JS: Drawing & Animation'
     url: https://www.khanacademy.org/computing/computer-programming/programming
     description: Use JavaScript and the ProcessingJS library to create drawings and animations.
     license: Free
     entry_type: tutorial
-    notes: 'Misfit: JS/ProcessingJS programming course, not art-side drawing for 3D artists. Belongs in coding/creative-coding section.'
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
-        - concept
+        - creative-coding
+      platform:
+        - web
+      skill:
+        - beginner
   - name: Animation with Dall-e + AE | Reddit
     url: https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/
-    description: Patent drawing of an electronic device that..
+    description: Reddit thread on AI-assisted animation with DALL-E and After Effects.
     entry_type: community
-    notes: 'Misfit: single Reddit thread on AI animation, not drawing/painting reference. Description is truncated/low-value. Consider relocating to AI/generative or removing.'
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - animation
+      platform:
+        - web
       tech:
         - ai-generative
   - name: Instanced Line Rendering Part I
     url: https://wwwtyro.net/2019/11/18/instanced-lines.html
-    description: Builds on the foundation from "Drawing Lines is Hard" and uses instance rendering to draw lines.
+    description: Builds on "Drawing Lines is Hard" to draw lines via instanced rendering.
     license: Free
     entry_type: tutorial
-    notes: 'Misfit: WebGL instanced line-rendering article, graphics-programming topic, not drawing/painting for 3D artists. Belongs in graphics-programming section.'
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      platform:
+        - web
+      skill:
+        - advanced
       tech:
         - gpu
         - real-time

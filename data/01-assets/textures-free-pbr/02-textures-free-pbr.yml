@@ -1,7 +1,7 @@
 entries:
   - name: MaterialX Library
     url: https://matlib.gpuopen.com/main/materials/all
-    description: AMD launched a free MaterialX-based Material Library. It allows users to download the materials and encourages them to upload their own.
+    description: AMD's free MaterialX-based material library. Download materials or upload your own.
     entry_type: asset-source
     license: Open Source
     url_last_verified: '2026-06-01'
@@ -10,11 +10,15 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
   - name: Texture.Ninja
     url: https://texture.ninja/
-    description: Public domain photographic textures, reference images, cutouts. (CC0)
+    description: Public domain photographic textures, reference images, and cutouts. (CC0)
     entry_type: asset-source
     license: Free
     url_last_verified: '2026-06-01'
@@ -23,11 +27,15 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - cc0
   - name: Texture Fun
     url: https://texturefun.com/
-    description: Free PBR texture sets of common architectural materials, including some nice tile textures.
+    description: Free PBR sets of architectural materials, including tile textures.
     entry_type: asset-source
     license: Free
     url_last_verified: '2026-06-01'
@@ -36,6 +44,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - archviz
+      platform:
+        - web
       tech:
         - pbr
   - name: Arroway Textures
@@ -49,6 +61,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
   - name: Texturify
@@ -63,6 +79,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
       tech:
         - pbr
       platform:
@@ -71,20 +89,36 @@ entries:
     url_status: ok
   - name: The Blendersauce Vault Materials
     url: http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
-    description: Abstract, Bricks and Walls, Concrete, Fabric, Fluids, Food, Manmade, Metal, Metal painted Materials, Nature, Plaster, Rocks/Stones, Tiles, Wood.
+    description: Free material vault covering bricks, concrete, fabric, metal, nature, plaster, stone, tiles, and wood.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - pbr
   - name: Substance Source/freebies
     url: https://source.substance3d.com/allassets?free=true
-    description: '[$] : Hundreds of high quality PBR materials.'
+    description: Hundreds of high-quality PBR materials. Free tier with a paid library.
     entry_type: asset-source
     license: Freemium
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
-        - blender
-        - blender-addon
+        - pbr
+        - substance

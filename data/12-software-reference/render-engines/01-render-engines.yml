@@ -702,3 +702,23 @@ entries:
         - rendering
       platform:
         - web
+  - name: Malt
+    url: https://malt3d.com/
+    description: Non-photorealistic rendering (NPR) framework. Real-time, customizable rendering for animation and illustration. Works as a Blender render engine.
+    entry_type: software
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - real-time
+        - blender-addon

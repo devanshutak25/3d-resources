@@ -13,6 +13,8 @@ entries:
       output:
         - games
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Rigged Characters
       - Free Animations
@@ -30,6 +32,10 @@ entries:
         - reference
         - sculpting
         - modeling
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Anatomy
       - Reference
@@ -45,6 +51,10 @@ entries:
         - reference
         - sculpting
         - modeling
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Anatomy
       - Sculpt Ref
@@ -64,17 +74,25 @@ entries:
       workflow:
         - modeling
         - reference
+      output:
+        - generalist
+      platform:
+        - web
   - name: Anything World Gallery
     url: https://app.anything.world/gallery
-    description: Animated models.
+    description: Animated, game-ready models.
     license: Freemium
     entry_type: asset-source
     tags:
       workflow:
         - animation
         - modeling
+      output:
+        - games
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Animated
       - Game-Ready
@@ -91,6 +109,8 @@ entries:
       workflow:
         - modeling
         - reference
+      platform:
+        - web
     readme_tags:
       - Game Rips
       - Study/Reference
@@ -98,7 +118,7 @@ entries:
     url_status: ok
   - name: NASA 3D Resources
     url: https://science.nasa.gov/3d-resources/
-    description: Spacecraft, planets, terrain models (mixed CC0 / CC-BY. Check per-asset license; mirror at [GitHub](https://nasa3d.arc.nasa.gov/)).
+    description: 'Spacecraft, planets, terrain models (mixed CC0 / CC-BY. Check per-asset license; mirror at nasa3d.arc.nasa.gov).'
     license: Mixed
     entry_type: asset-source
     tags:
@@ -107,6 +127,8 @@ entries:
         - film-vfx
       workflow:
         - modeling
+      platform:
+        - web
       tech:
         - cc0
         - cc-by
@@ -128,6 +150,8 @@ entries:
         - reference
       tech:
         - photogrammetry
+      platform:
+        - web
     readme_tags:
       - Museum Scans
       - Historical
@@ -139,11 +163,15 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      output:
+        - scientific-viz
       tech:
         - cc0
       workflow:
         - modeling
         - reference
+      platform:
+        - web
     readme_tags:
       - CC0
       - Museum
@@ -155,11 +183,15 @@ entries:
     license: Free
     entry_type: asset-source
     tags:
+      output:
+        - scientific-viz
       tech:
         - photogrammetry
       workflow:
         - modeling
         - reference
+      platform:
+        - web
     readme_tags:
       - Museum
       - Artifacts
@@ -176,11 +208,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - scientific-viz
       workflow:
         - modeling
         - reference
       tech:
         - photogrammetry
+      platform:
+        - web
   - name: Quaternius
     url: https://quaternius.com/
     description: Free low-poly game assets.
@@ -193,6 +229,8 @@ entries:
         - cc0
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - CC0 Low-Poly
       - Game-Ready
@@ -211,9 +249,13 @@ entries:
     tags:
       workflow:
         - modeling
+      output:
+        - automotive
+      platform:
+        - web
   - name: Emojiz
     url: https://emojiz.design
-    description: 77+ animated 3D emoji illustrations with Blender source files
+    description: 77+ animated 3D emoji illustrations with Blender source files.
     entry_type: asset-source
     license: Paid
     url_last_verified: '2026-06-01'
@@ -245,23 +287,41 @@ entries:
     url_status: ok
   - name: Artec 3D
     url: https://www.artec3d.com/3d-models
-    description: Download high resolution 3D scans for free. (CC-BY)
+    description: Free high-resolution 3D scans. (CC-BY)
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - modeling
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - photogrammetry
   - name: Scanned Female Head Model by EISKO
     url: https://eisko.com/louise/
-    description: '[Scanned 3D People from Renderpeople](https://renderpeople.com/free-3d-people/), [Scans from Louvre Museum](https://gumroad.com/l/xAQxj)'
+    description: Free high-resolution scanned female head model (Louise).
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - modeling
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - photogrammetry
   - name: 3D MDB
     url: https://3dmdb.com/
-    description: Model database.
+    description: Model search database across many sites.
     entry_type: tool
     readme_tags:
       - Database
@@ -273,3 +333,43 @@ entries:
         - web
       workflow:
         - modeling
+  - name: Characterz
+    url: https://characterz.design
+    description: 9,000+ customizable diverse 3D character illustrations with Blender source files.
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+      tech:
+        - blender
+  - name: Handz
+    url: https://handz.design
+    description: Free library of 320+ diverse 3D hand illustrations with Blender source files.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+      tech:
+        - blender
+  - name: Robotz
+    url: https://threedee.design/cartoon-robot
+    description: Free modular 3D cartoon robot with customizable heads, bodies, and hands.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web

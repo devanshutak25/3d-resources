@@ -12,6 +12,8 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
   - name: FontPair
     url: https://fontpair.co/
     description: Font pairing inspiration.
@@ -25,6 +27,8 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
   - name: Lilex
     url: https://lilex.myrt.co/
     description: Programming font with ligatures.
@@ -40,6 +44,8 @@ entries:
         - generalist
       tech:
         - opensource-alt
+      platform:
+        - web
   - name: Usable Google Fonts (Figma)
     url: https://www.figma.com/community/file/1535264485426732629/usable-google-fonts
     description: Curated Figma set of usable Google Fonts.
@@ -53,9 +59,11 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
   - name: Fontz
     url: https://fontz.design
-    description: Free and premium 3D fonts with Blender source files
+    description: Free and premium 3D fonts with Blender source files.
     license: Freemium
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -63,6 +71,10 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
+      tech:
+        - blender
   - name: Fontshare
     url: https://www.fontshare.com/
     description: Free quality fonts from Indian Type Foundry; Satoshi, General Sans, Clash Display.
@@ -76,6 +88,8 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
   - name: Velvetyne Type Foundry
     url: https://velvetyne.fr/
     description: Paris-based non-profit foundry releasing open-source experimental typefaces.
@@ -91,6 +105,8 @@ entries:
         - generalist
       tech:
         - opensource-alt
+      platform:
+        - web
   - name: The League of Moveable Type
     url: https://www.theleagueofmoveabletype.com/
     description: Open-source foundry; well-curated bold typefaces, free for commercial use.
@@ -106,6 +122,8 @@ entries:
         - generalist
       tech:
         - opensource-alt
+      platform:
+        - web
   - name: UNCUT.wtf
     url: https://uncut.wtf/
     description: 160+ contemporary open-source typefaces, all free for commercial use.
@@ -121,6 +139,8 @@ entries:
         - generalist
       tech:
         - opensource-alt
+      platform:
+        - web
   - name: Indestructible Type
     url: https://indestructibletype.com/
     description: Open-source foundry by Owen Earl; variable font families like Jost, Besley, Bodoni.
@@ -136,6 +156,8 @@ entries:
         - generalist
       tech:
         - opensource-alt
+      platform:
+        - web
   - name: Free Faces
     url: https://www.freefaces.gallery/
     description: Curated directory of free fonts from independent foundries and designers.
@@ -149,6 +171,8 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
   - name: Google Fonts
     url: https://fonts.google.com/
     description: Largest free open-source font library; SIL OFL / Apache licensed.
@@ -164,6 +188,8 @@ entries:
         - generalist
       tech:
         - opensource-alt
+      platform:
+        - web
   - name: Adobe Fonts
     url: https://fonts.adobe.com/
     description: Premium font library bundled with Creative Cloud subscription.
@@ -179,6 +205,8 @@ entries:
         - generalist
       tech:
         - subscription
+      platform:
+        - web
   - name: MyFonts
     url: https://www.myfonts.com/
     description: Long-running premium font marketplace; perpetual desktop, web, app licenses.
@@ -194,6 +222,8 @@ entries:
         - generalist
       tech:
         - perpetual
+      platform:
+        - web
   - name: Creative Market Fonts
     url: https://creativemarket.com/fonts
     description: 300k+ premium fonts with worry-free perpetual commercial licenses.
@@ -209,6 +239,8 @@ entries:
         - generalist
       tech:
         - perpetual
+      platform:
+        - web
   - name: Font Bundles
     url: https://fontbundles.net/
     description: Premium font marketplace with regular freebies; clear commercial license.
@@ -222,6 +254,8 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
   - name: Future Fonts
     url: https://www.futurefonts.xyz/
     description: Buy in-progress fonts directly from indie designers at lower early-access prices.
@@ -235,6 +269,8 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
   - name: Pangram Pangram Foundry
     url: https://pangrampangram.com/
     description: Indie foundry with high-end typefaces; free personal-use trials available.
@@ -248,9 +284,11 @@ entries:
     tags:
       output:
         - generalist
+      platform:
+        - web
   - name: Roboto
     url: https://github.com/google/roboto
-    description: Default font on Android & ChromeOS, and the recommended typeface for Material Design
+    description: Default font on Android and ChromeOS, and the recommended typeface for Material Design.
     license: Open Source
     entry_type: asset-source
     deprecated: true
@@ -261,3 +299,5 @@ entries:
         - generalist
       tech:
         - opensource-alt
+      platform:
+        - web

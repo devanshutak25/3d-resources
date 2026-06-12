@@ -26,3 +26,20 @@ entries:
       workflow:
         - modeling
         - texturing
+  - name: NativeBlend CLI
+    url: https://github.com/addy999/nativeblend-cli
+    description: AI CLI to generate and edit low-poly 3D game assets in Blender from text prompts.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-generative
+        - blender-addon

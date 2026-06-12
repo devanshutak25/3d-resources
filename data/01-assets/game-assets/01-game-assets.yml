@@ -7,6 +7,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Community
       - Free
@@ -20,6 +22,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - cc0
     readme_tags:
@@ -35,6 +39,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Indie
       - Mixed Free/Paid
@@ -48,6 +54,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
       tech:
         - cc0
     readme_tags:
@@ -63,6 +71,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - High-Quality
@@ -76,6 +86,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - 2D Assets
       - Freemium
@@ -89,6 +101,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Stylized
       - Low-Poly
@@ -102,6 +116,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Marketplace
       - Varied
@@ -120,6 +136,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Free Game Assets
     url: https://www.freegameassets.com/
     description: Curated free 2D/3D/audio assets.
@@ -128,27 +146,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Curated
       - 2D/3D/Audio
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: NativeBlend CLI
-    url: https://github.com/addy999/nativeblend-cli
-    description: AI-powered CLI tool to generate and edit low-poly 3D game assets in Blender from natural language prompts
-    license: Open Source
-    entry_type: tool
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      tech:
-        - ai-generative
-        - blender-addon
   - name: Liberated Pixel Cup assets
     url: http://lpc.opengameart.org
-    description: Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
+    description: Free graphic assets from the Liberated Pixel Cup (LPC) on the OpenGameArt forums.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -156,9 +163,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
   - name: Tilemancer
     url: https://led.itch.io/tilemancer
-    description: A quick procedural tile creator designed for pixel-art games.
+    description: Procedural tile creator for pixel-art games.
     license: Free
     entry_type: tool
     url_last_verified: '2026-06-01'
@@ -166,6 +175,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - procedural
   - name: GameArt2D
@@ -176,6 +189,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Free
       - 2D
@@ -183,12 +198,14 @@ entries:
     url_status: ok
   - name: Oryx Design Lab
     url: http://oryxdesignlab.com/
-    description: Cheap high-quality royalty-free sprite packs.
+    description: Cheap royalty-free sprite packs.
     license: Paid
     entry_type: marketplace
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Cheap
       - Royalty-Free
@@ -202,6 +219,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Free
       - 2D
@@ -215,6 +234,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Classic
       - 2D + 3D
@@ -228,6 +249,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - RPG Icons
       - Commercial-OK
@@ -235,33 +258,29 @@ entries:
     url_status: ok
   - name: Asset Creation Toolset
     url: https://gumroad.com/l/hPXIh
-    description: Asset Creation Toolset is many tools for game asset creation.
+    description: Blender addon bundling tools for game asset creation.
     entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
         - games
-  - name: UAssetAPI
-    url: https://github.com/atenfyr/UAssetAPI
-    description: A low-level.NET library for reading and writing Unreal Engine 4 game assets.
-    license: Open Source
-    entry_type: tool
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
-        - unreal-plugin
+        - blender-addon
   - name: 8000+ Raven Fantasy Icons - RPG Icons, Pixel Art Icons, Textures and Sprites
     url: https://clockworkraven.itch.io/raven-fantasy-icons
-    description: 8000+ colorful pixel art icons for your fantasy and RPG game
+    description: 8000+ colorful pixel art icons for fantasy and RPG games.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -269,28 +288,29 @@ entries:
     url_status: ok
   - name: Kenney Game Assets All-in-1
     url: https://kenney.itch.io/kenney-game-assets
-    description: Includes 60,000+ game assets including 2D sprites, 3D models!
+    description: 60,000+ game assets including 2D sprites and 3D models.
     license: Paid
     entry_type: asset-source
     tags:
       output:
         - games
       platform:
-        - win
-        - linux
+        - web
     readme_tags:
-      - Pixel Art
+      - 2D + 3D
       - Paid
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: Sprout Lands - Asset Pack
     url: https://cupnooble.itch.io/sprout-lands-asset-pack
-    description: cute pixel pastel farming asset pack
+    description: Cute pixel pastel farming asset pack.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -298,12 +318,14 @@ entries:
     url_status: ok
   - name: Tiny RPG Character Asset Pack v1.03
     url: https://zerie.itch.io/tiny-rpg-character-asset-pack
-    description: 20 Animated Characters for you game.
+    description: 20 animated pixel-art characters for your game.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -311,12 +333,14 @@ entries:
     url_status: ok
   - name: Tiny Farm RPG - Asset Pack
     url: https://emanuelledev.itch.io/farm-rpg
-    description: 'Itch.io listing: Tiny Farm RPG - Asset Pack.'
+    description: Pixel-art farming RPG asset pack.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -324,12 +348,14 @@ entries:
     url_status: ok
   - name: 2D Pixel Art Character Template Asset Pack
     url: https://zegley.itch.io/2d-platformermetroidvania-asset-pack
-    description: 2D character Art Assets to start your game off the right way. Perfect for sidescrollers, platformers, or metroidvania.
+    description: 2D character art for sidescrollers, platformers, and metroidvania.
     license: Paid
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Paid
@@ -337,25 +363,32 @@ entries:
     url_status: ok
   - name: Universal Animation Library
     url: https://quaternius.itch.io/universal-animation-library
-    description: More than 120 animations, ready to retarget in any engine
+    description: 120+ animations ready to retarget in any engine.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      workflow:
+        - animation
+        - rigging
+      platform:
+        - web
     readme_tags:
-      - Pixel Art
+      - Animations
       - Free
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: Brackeys' Platformer Bundle
     url: https://brackeysgames.itch.io/brackeys-platformer-bundle
-    description: Make your first game using this small collection of pixel-art characters, tiles, sounds and music.
+    description: Pixel-art characters, tiles, sounds, and music for a first game.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -363,25 +396,32 @@ entries:
     url_status: ok
   - name: 'KayKit - Character Pack : Adventurers'
     url: https://kaylousberg.itch.io/kaykit-adventurers
-    description: 3D lowpoly rigged and animated character model game assets
+    description: 3D low-poly rigged and animated character game assets.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      workflow:
+        - modeling
+        - rigging
+      platform:
+        - web
     readme_tags:
-      - Pixel Art
+      - 3D Low-Poly
       - Free
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: 'Fx Effects Pixel Art #91 - 64x64 | 32x32'
     url: https://fx-express.itch.io/fx-effects-pixel-art-91-64x64-32x32
-    description: RPG FX Effects Asset Pack. 64×64 & 32×32
+    description: RPG pixel-art FX effects pack. 64x64 and 32x32.
     license: Paid
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Paid
@@ -395,6 +435,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -402,12 +444,14 @@ entries:
     url_status: ok
   - name: Ninja Adventure - Asset Pack
     url: https://pixel-boy.itch.io/ninja-adventure-asset-pack
-    description: Assets for topdown game with ninja theme
+    description: Assets for a top-down game with a ninja theme.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -415,12 +459,14 @@ entries:
     url_status: ok
   - name: Mystic Woods - 16x16 Pixel Art Asset Pack
     url: https://game-endeavor.itch.io/mystic-woods
-    description: Create the cutest game with this playful asset pack!
+    description: Playful 16x16 pixel-art asset pack.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -428,12 +474,14 @@ entries:
     url_status: ok
   - name: Pixel Art Top Down - Basic
     url: https://cainos.itch.io/pixel-art-top-down-basic
-    description: 32x32 sprites and tilesets for top down games
+    description: 32x32 sprites and tilesets for top-down games.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -441,16 +489,14 @@ entries:
     url_status: ok
   - name: 2D Pixel Dungeon Asset Pack
     url: https://pixel-poem.itch.io/dungeon-assetpuck
-    description: 16x16 pixel character and tileset
+    description: 16x16 pixel character and tileset.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
       platform:
-        - win
-        - mac
-        - linux
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -458,12 +504,14 @@ entries:
     url_status: ok
   - name: 'Tech Dungeon: Roguelite - Asset Pack'
     url: https://trevor-pupkin.itch.io/tech-dungeon-roguelite
-    description: Animated top-down assets for your futuristic project
+    description: Animated top-down assets for a futuristic project.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -471,28 +519,31 @@ entries:
     url_status: ok
   - name: Stylized Nature MegaKit
     url: https://quaternius.itch.io/stylized-nature-megakit
-    description: 110+ Unique nature models. Ideal for creating enchanting, Ghibli-inspired scenes. With projects in UE, Godot and Unity.
+    description: 110+ stylized 3D nature models for Ghibli-inspired scenes. Projects for UE, Godot, and Unity.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      workflow:
+        - modeling
+      platform:
+        - web
     readme_tags:
-      - Pixel Art
+      - 3D Models
       - Free
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: Pixel Planet Generator
     url: https://deep-fold.itch.io/pixel-planet-generator
-    description: Showcase of shader code for Godot game engine
+    description: Procedural pixel planet generator with Godot shader source.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
       platform:
-        - win
-        - linux
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -500,12 +551,14 @@ entries:
     url_status: ok
   - name: Free - Pixel Art Asset Pack - Topdown Tileset - 16x16 Sprites
     url: https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites
-    description: 500 Sprites, 3 Heroes, 8 enemies, 50 Weapons
+    description: 500 sprites, 3 heroes, 8 enemies, 50 weapons.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -513,25 +566,31 @@ entries:
     url_status: ok
   - name: KayKit - Forest Nature Pack
     url: https://kaylousberg.itch.io/kaykit-forest
-    description: 3D stylised low poly trees, rocks, grass.
+    description: 3D stylized low-poly trees, rocks, and grass.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      workflow:
+        - modeling
+      platform:
+        - web
     readme_tags:
-      - Pixel Art
+      - 3D Low-Poly
       - Free
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: Ansimuz Legacy Collection
     url: https://ansimuz.itch.io/gothicvania-patreon-collection
-    description: Free 16-bit Pixel-Art Assets
+    description: Free 16-bit pixel-art assets.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -539,15 +598,14 @@ entries:
     url_status: ok
   - name: Modern Farm - RPG Tileset
     url: https://limezu.itch.io/modernfarm
-    description: Tons of props, animals and a character generator tool
+    description: Props, animals, and a character generator for a farm RPG.
     license: Paid
     entry_type: asset-source
     tags:
       output:
         - games
       platform:
-        - win
-        - linux
+        - web
     readme_tags:
       - Pixel Art
       - Paid
@@ -555,12 +613,14 @@ entries:
     url_status: ok
   - name: Pixel Adventure
     url: https://pixelfrog-assets.itch.io/pixel-adventure-1
-    description: Assets for a fun Platform Adventure
+    description: Assets for a platform adventure game.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -568,12 +628,14 @@ entries:
     url_status: ok
   - name: Sprout Lands - UI Pack
     url: https://cupnooble.itch.io/sprout-lands-ui-pack
-    description: cute pixel pastel UI pack
+    description: Cute pixel pastel UI pack.
     license: Free
     entry_type: asset-source
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free
@@ -587,6 +649,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Free

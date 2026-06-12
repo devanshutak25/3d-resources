@@ -12,6 +12,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - PBR
       - Subscription
@@ -29,6 +33,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Scanned
       - Free with UE
@@ -50,3 +58,7 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web

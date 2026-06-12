@@ -12,6 +12,10 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - beginner
   - name: Typewolf
     url: https://typewolf.com/
     description: Curated typography inspiration. Fonts in real-world use.
@@ -24,6 +28,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: The Futur
     url: https://www.youtube.com/@TheFutur
     description: Graphic design fundamentals, typography, grid systems.
@@ -38,6 +44,8 @@ entries:
         - reference
       platform:
         - web
+      skill:
+        - beginner
   - name: Better Web Type
     url: https://betterwebtype.com/web-typography-resources/
     description: Free typography course on rhythm and hierarchy.
@@ -51,6 +59,10 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - beginner
   - name: NNGroup Visual Design
     url: https://www.nngroup.com/topic/visual-design/
     description: Research-backed principles on hierarchy, contrast, whitespace.
@@ -63,6 +75,10 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: Kerning Tool
     url: https://forums.odforce.net/topic/42827-kerning-tool/
     description: Kerning typography in Houdini.
@@ -71,12 +87,15 @@ entries:
     readme_tags:
       - Houdini
       - Kerning
-    notes: Forum thread about a Houdini kerning utility. Fits typography only tangentially (Houdini-specific tool); subsection misfit candidate.
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - reference
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - houdini-addon
   - name: How to Proof a Typeface
@@ -90,5 +109,11 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - reference
       output:
         - generalist
+      platform:
+        - web
+      skill:
+        - advanced

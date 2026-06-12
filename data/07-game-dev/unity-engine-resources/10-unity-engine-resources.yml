@@ -340,3 +340,20 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2015-11-07'
+  - name: Gizmos
+    url: https://github.com/popcron/gizmos
+    description: Draw runtime gizmos in builds and the editor in Unity.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - unity-plugin

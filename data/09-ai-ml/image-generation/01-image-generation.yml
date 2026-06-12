@@ -202,3 +202,17 @@ entries:
         - illustration
       tech:
         - ai-generative
+  - name: RenderNet
+    url: https://rendernet.ai/
+    description: AI tool for generating images and videos with control over character design, composition, and style.
+    entry_type: tool
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      platform:
+        - web
+      tech:
+        - ai-generative

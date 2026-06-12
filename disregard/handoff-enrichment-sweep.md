@@ -1,6 +1,40 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-12. §07 COMPLETE. §02 FULLY COMPLETE. §04 FULLY COMPLETE (enrichment 6/6 + relocation). RESUME AT §06 MOTION-GRAPHICS.**
+**Status as of 2026-06-13 (PAUSED). §07/§02/§04/§06/§08 COMPLETE. §01 ASSETS IN PROGRESS — P1–P6 done, RESUME AT P7.**
+
+## §01 ASSETS IN PROGRESS (2026-06-13, paused after P6)
+269 ent / 17 chunk files / 16 subsections. Baseline platform 131/269 (~49%), workflow 144, output 164, license 246 (good), skill 0, empty-tags 5. Clustered phasing (user-confirmed): 7 enrichment phases + final relocation. Plan: `~/.claude/plans/make-plan-to-do-enchanted-steele.md`. All edits UNCOMMITTED (user commits). Validation ✓ 314 warnings throughout (baseline; +2 vs pre-§01 are new freeform-tech `substance`/`c4d`, benign).
+**§01 CONVENTION LOCKED: asset-source/marketplace websites → `platform: web`** (source is a browser; differs from §02/§04 desktop-tool default). Software/plugins/in-app browsers → desktop per host (e.g. Maxon Asset Browser [win,mac], Maya/3DCoat [win,mac,linux]). `skill` N/A for §01 (not educational) — do not force; expect skill near 0. `output`: general PBR/model libs → `generalist`; game assets → `games`; arch/furniture → `archviz`/`product-viz`; icons/stock-images/illustration libs → `illustration`; museums/NASA/space/terrain → `scientific-viz`; vehicles → `automotive`. YAML inner-`: ` in any new desc MUST be single-quoted (hit it 3× already: Celestia, CGI Moon Kit, XYZed3D).
+
+**Phases (✓ = done):**
+- **P1 textures (37) ✓** — textures-free-pbr/01+02, textures-premium, textures-specialized. platform 1→37, output +37. NASA `[![][repo]]` badge stripped; Substance `[$] :` + wrong blender tech → substance/pbr; Matcaps bogus opensource-alt dropped; Blendersauce empty-tags filled.
+- **P2 model-libs general (44) ✓** — arch-furniture (11, was already 100%, untouched) + free-general (33: output added to ~24, Blend Swap empty-tags filled, Mantissa blender-addon→blender). platform/output 44/44.
+- **P3 specialized (21) + software-specific (10) ✓** — platform→21/21 + 10/10; Artec 3D + Scanned Female Head empty-tags filled (link-salad rewritten); software-specific in-app browsers got desktop platforms.
+- **P4 game-assets (45) ✓** — platform 4→45 (web on pages, [win,mac,linux] on 4 tools), output 45/45; junk descs + wrong "Pixel Art" readme_tags on 3D packs fixed.
+- **P5 stock-images 28 + stock-footage 4 + audio-sfx 15 ✓** — stock-images already 28/28; videvo link-salad fixed; 2 audio plugins got platform. (Settei Dreams + LACartoons already had entry_type — Explore report was stale, no fix needed.)
+- **P6 icons 27 + fonts 19 ✓** — icons 25→27/27, fonts 0→19/19 (all web).
+- **P7 marketplaces 9 + hdris 9 + giveaways 1 — NOT STARTED (resume here).**
+- **P8 relocation+dedup — NOT STARTED.**
+
+**RESUME AT P7 (asset-marketplaces 9 + hdris 9 + free-asset-giveaways 1 = 19 ent).** Known P7 work: Quixel Bridge empty `tags:{}` (desktop app → win/mac); gumroad/juliosillet link-salad desc; thin ArtStation/Cubebrush descs; hdris 0/9 platform → web + lighting workflow already present; output for hdris (generalist). Read the 3 files, apply recipe, validate, log, stop.
+
+**P8 relocation targets (carry forward — confirm exact homes with user at P8):**
+- **Sapphire** (BorisFX VFX plugin, in audio-sfx-music; only entry still missing platform there) → §12 vfx-compositing or §10. Add platform on move.
+- **NativeBlend CLI** (AI-gen CLI tool, in game-assets) → §09 or §10 tools.
+- **UAssetAPI** (.NET UE-asset dev library, in game-assets) → §10 dev tools (consider).
+- **3D MDB** (model search database, entry_type:tool, in model-libs-specialized) → §10 misc-3d-utilities.
+- **OpenTopography** (in model-libs-free-general) — retype `community`→`asset-source`, KEEP in §01 (just a retype, no move).
+- **Models Resource** vs **Models Resource (3D)** (model-libs-specialized) — likely same Spriters-Resource network site → dedup.
+
+## §08 ART-DESIGN COMPLETE (2026-06-13)
+3-phase clustered (user-confirmed). 167→137 ent (30 relocated in Phase C). Final §08: platform 137 (100%), workflow 109, output 58, skill 51, empty-tags 0, misfit flags 0.
+- **Phase A** (education, 7 files / ~84 ent): platform:web + skill on all educational channels/courses/refs; output:illustration on concept/figure entries, output:film-vfx on cinematography; concept-art-courses left empty (flagged stub). concept-art-channels found heavily mis-named (most entries are illustration asset-sources, not channels).
+- **Phase B** (tools+inspiration, 5 files / ~83 ent): platform→100%; color-theory all got web; general-inspiration got workflow:concept; pre-production educational channels got web+skill, screenwriting tools got output:film-vfx; fixed last empty tags:{}.
+- **Phase C** (misfit retype+relocation): user chose illustration-libs→§01, software→§12. Moved out: Nuke/Fusion/ButtleOFX→§12 vfx-compositing; Malt→§12 render-engines; 22 illustration asset-libs→§01 (stock-images 16, icons 3, model-libraries-specialized 3); Genetic Drawing+RenderNet→§09; Gizmos→§07 unity/10; Savee→§08 design-tools (intra). **Plasticity DEDUP** — canonical already in §12 3d-software-paid, §08 "Plasticity (GitHub)" was misfiled pointer → deleted, not re-added (lesson: grep target section for existing entry before moving). Retyped-in-place keepers: 4 illustration refs in concept-art-channels (channel→reference), drawing-painting coding entries (kept weakly-on-theme), Swatchr/Kerning Tool (kept thematic). All notes stripped on resolved items; 8 legit URL/license/dead-link notes remain. All target chunks ≤50 (no splits).
+**NEXT: §01 assets** (re-confirm baseline facets, phase chunk-by-chunk; remaining worst-first §01 → §09 [NeRF/GS paper dumps + §10 overlap, §6.1] → §05 → §11 → §03).
+
+## §06 MOTION-GRAPHICS COMPLETE (2026-06-13)
+Single phase (user-confirmed; 41 ent / 5 non-empty subsections < one §04 chunk). Files: motion-graphics-inspiration/01 (26), motion-graphics-tools/01 (9), fusion-resolve/01 (3), after-effects-learning/01 (2), motion-graphics-channels/01 (1). **Coverage: platform 3→41 (100%), workflow 5→16, output 39→40, skill 1→6, empty-tags 0, junk 0, em-dash 0.** No misfiles, no relocations needed. **2 empty placeholders left + flagged** (decision: leave): `motion-graphics-courses/01` + `video-editing-courses/01` (both `entries: []`) — source course entries later if desired, mirrors houdini-grooming 0-ent handling. **Convention locked: AE plugins → `platform: [win,mac]`** (After Effects has no Linux build; differs from §04 `[win,mac,linux]` default). MG has **no `motion-graphics` workflow value** (output-only); honest workflows used = compositing/editing/rigging/animation/creative-coding. Validation passes (312 warnings, no new). **NEXT: §08 art-design** (then §01 → §09 [NeRF/GS paper dumps + §10 overlap, §6.1 below] → §05 → §11 → §03). Re-confirm §08 baseline facet coverage + phase chunk-by-chunk before starting.
 
 ## §04 RELOCATION COMPLETE (2026-06-12)
 All 8 RELOCATE flags cleared. **6 moves** (pure move, strip `notes`): MoonRay (reference→software) → §12 render-engines/01 (39→40); CopperLicht (reference→software) → §12 game-engines-free-oss/02 (11→12); KodeLife (tool→software) → §12 misc-3d-utilities-software/01 (20→21); Photo tourism paper → §09 papers/02 (42→43); React Spring → §06 motion-graphics-tools/01 (8→9); Takua Renderer → §04 renderer-specific-learning/01 (3→4, intra-section). **2 kept-in-place** (note stripped; no math/sim subsection exists in §04/§05/§06, user-confirmed): "Let's remove Quaternions from every 3D Engine" + "Physics-Based Animation" stay in rendering-shader-theory/04. Sources: r-s-t/02 50→48, /04 48→45, /05 28→27. No new chunk files, no `chunks`-counter edits. Validation passes (312 warnings), 0 RELOCATE flags remain. **NEXT: §06 motion-graphics enrichment** (re-confirm baseline facet coverage, phase chunk-by-chunk; remaining worst-first §06 → §08 → §01 → §09 [NeRF/GS paper dumps] → §05 → §11 → §03).

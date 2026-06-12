@@ -10,6 +10,10 @@ entries:
         - intermediate
       workflow:
         - reference
+      output:
+        - illustration
+      platform:
+        - web
     readme_tags:
       - Fundamentals
       - Free
@@ -25,6 +29,10 @@ entries:
         - games
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - beginner
     readme_tags:
       - Pixel Art
       - Tutorials
@@ -42,6 +50,8 @@ entries:
       output:
         - archviz
         - product-viz
+      platform:
+        - web
     readme_tags:
       - Dimensions
       - Reference Data
@@ -54,7 +64,13 @@ entries:
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - reference
+      output:
+        - illustration
+      platform:
+        - web
   - name: National Gallery of Art (NGA)
     url: https://www.nga.gov/
     description: Open-access collection of historical paintings, drawings, and prints. High-res downloads for reference.
@@ -68,5 +84,7 @@ entries:
         - web
       workflow:
         - reference
+      output:
+        - illustration
     url_last_verified: '2026-06-01'
     url_status: ok

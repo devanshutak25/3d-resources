@@ -580,6 +580,22 @@ entries:
         - unreal-plugin
     stale: true
     last_pushed: '2021-11-18'
+  - name: UAssetAPI
+    url: https://github.com/atenfyr/UAssetAPI
+    description: Low-level .NET library for reading and writing Unreal Engine 4 game assets.
+    license: Open Source
+    entry_type: tool
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unreal-plugin
   - name: MassSample
     url: https://github.com/Megafunk/MassSample
     description: Community sample project for the Mass Entity (ECS) framework.

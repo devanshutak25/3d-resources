@@ -12,6 +12,10 @@ entries:
     tags:
       workflow:
         - modeling
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - houdini-addon
   - name: Blender Demo Files
@@ -27,6 +31,10 @@ entries:
     tags:
       workflow:
         - modeling
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - blender
   - name: Blender Extensions
@@ -40,6 +48,10 @@ entries:
         - blender-addon
       workflow:
         - modeling
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Blender
       - Addons
@@ -55,6 +67,10 @@ entries:
         - texturing
         - material-authoring
         - modeling
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
         - smart-materials
@@ -73,6 +89,10 @@ entries:
         - material-authoring
         - modeling
         - texturing
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
     readme_tags:
@@ -89,6 +109,10 @@ entries:
       workflow:
         - sculpting
         - modeling
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - zbrush
     readme_tags:
@@ -109,6 +133,11 @@ entries:
     tags:
       workflow:
         - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
       tech:
         - c4d
   - name: Maya Content Browser
@@ -124,6 +153,12 @@ entries:
     tags:
       workflow:
         - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - maya
   - name: 3DCoat Smart Materials
@@ -135,6 +170,12 @@ entries:
       workflow:
         - material-authoring
         - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - smart-materials
         - 3dcoat
@@ -152,6 +193,10 @@ entries:
       workflow:
         - sculpting
         - modeling
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - nomad-sculpt
         - ipad-native

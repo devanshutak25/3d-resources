@@ -61,7 +61,7 @@ entries:
         - web
   - name: Sonniss
     url: https://sonniss.com/
-    description: SFX library. Releases massive annual free bundles.
+    description: SFX library. Releases free SFX bundles annually.
     license: Paid
     entry_type: marketplace
     tags:
@@ -188,19 +188,6 @@ entries:
       - Procedural
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: Sapphire
-    url: https://borisfx.com/products/sapphire/
-    description: Suite of 270+ GPU-accelerated VFX effects with integrated Mocha tracking and a custom effect and transition builder.
-    entry_type: plugin
-    license: Paid
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - fx
-        - compositing
-      tech:
-        - gpu
   - name: USFXR
     url: https://github.com/zeh/usfxr
     description: A C# library used to generate and play game-like procedural audio effects inside Unity.
@@ -218,6 +205,10 @@ entries:
         - opensource-alt
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
   - name: Freesound Add-on
     url: https://github.com/iwkse/freesound/tree/freesound-2.0
     description: Blender VSE addon to browse, preview, and insert sounds from freesound.org.
@@ -231,5 +222,9 @@ entries:
       tech:
         - blender-addon
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2021-12-22'

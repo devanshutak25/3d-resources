@@ -12,6 +12,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: Coolors
     url: https://coolors.co/
     description: Fast palette generator.
@@ -25,6 +27,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: Lospec Palette List
     url: https://lospec.com/palette-list
     description: Pixel art palette repository.
@@ -35,6 +39,8 @@ entries:
         - games
       workflow:
         - reference
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Curated
@@ -53,6 +59,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: Gradient Horse
     url: https://gradient.horse/
     description: Experimental gradient generator.
@@ -66,6 +74,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: Huemint
     url: https://huemint.com/brand-intersection/
     description: AI-assisted brand color generation.
@@ -76,6 +86,8 @@ entries:
         - ai-generative
       workflow:
         - reference
+      platform:
+        - web
     readme_tags:
       - AI Palettes
       - Brand
@@ -94,6 +106,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: Canva Color Palettes
     url: https://www.canva.com/colors/color-palettes/
     description: Pre-made palettes.
@@ -107,6 +121,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: Paletton
     url: https://paletton.com/
     description: Classic color scheme designer.
@@ -120,6 +136,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: ColorBox
     url: https://colorbox.io/
     description: Systematic color scale generator.
@@ -133,6 +151,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: Color Method
     url: https://color.method.ac/
     description: Interactive color matching game.
@@ -146,6 +166,10 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - beginner
   - name: poline
     url: https://meodai.github.io/poline/
     description: Esoteric palette generation via polar color interpolation.
@@ -159,6 +183,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
       tech:
         - opensource-alt
   - name: Fast Palette Studio
@@ -171,6 +197,8 @@ entries:
         - games
       workflow:
         - reference
+      platform:
+        - web
     readme_tags:
       - Pixel Art
       - Fast
@@ -182,12 +210,17 @@ entries:
     description: A color palette management system for Unity.
     license: Open Source
     entry_type: reference
-    notes: Misfit. Functionally a Unity plugin/tool; kept as reference per no-relocate rule.
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - reference
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - unity-plugin

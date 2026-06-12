@@ -10,6 +10,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: Unity Asset Store
@@ -53,6 +55,8 @@ entries:
     entry_type: marketplace
     license: Paid
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
         - blender
@@ -89,19 +93,25 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
-  - name: gumroad/juliosillet
+  - name: Julio Sillet (Gumroad)
     url: https://gumroad.com/juliosillet
-    description: '[Pixar/CommunityResources](https://renderman.pixar.com/community_resources), [Nikola Damjanov''s 100 PBR Texture Sets](https://www.artstation.com/artwork/0XEN4V)'
+    description: Free and paid PBR texture sets and material packs.
     license: Freemium
-    entry_type: marketplace
+    entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
   - name: RenderHub Free
@@ -115,11 +125,22 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
   - name: Quixel Bridge
     url: https://quixel.com/bridge
-    description: Connects Megascans to all your favorite tools including Blender.
+    description: Desktop app linking Megascans to Blender and other DCC tools.
     license: Free
     entry_type: tool
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    notes: Being folded into Fab by Epic.
+    tags:
+      workflow:
+        - texturing
+      platform:
+        - win
+        - mac
+        - linux

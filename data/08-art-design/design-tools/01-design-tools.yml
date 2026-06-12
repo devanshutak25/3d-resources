@@ -1,7 +1,7 @@
 entries:
   - name: X Design
     url: https://www.x-design.com/
-    description: Design tool.
+    description: Browser-based design editor for product photos and visuals.
     license: Freemium
     entry_type: tool
     readme_tags:
@@ -198,3 +198,16 @@ entries:
       platform:
         - web
     notes: License assumed Freemium; verify on next pricing pass.
+  - name: Savee
+    url: https://savee.it/
+    description: Visual bookmarking tool.
+    license: Freemium
+    entry_type: tool
+    readme_tags:
+      - Bookmarking
+      - Curation
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      platform:
+        - web

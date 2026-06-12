@@ -7,6 +7,10 @@ entries:
     tags:
       workflow:
         - lighting
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - cc0
     readme_tags:
@@ -22,6 +26,10 @@ entries:
     tags:
       workflow:
         - lighting
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - cc0
     readme_tags:
@@ -37,6 +45,10 @@ entries:
     tags:
       workflow:
         - lighting
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Sky HDRIs
       - Free
@@ -50,6 +62,10 @@ entries:
     tags:
       workflow:
         - lighting
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Free Packs
       - Studio/Outdoor
@@ -63,6 +79,10 @@ entries:
     tags:
       workflow:
         - lighting
+      output:
+        - product-viz
+      platform:
+        - web
     readme_tags:
       - Studio
       - Adobe Stock
@@ -76,6 +96,10 @@ entries:
     tags:
       workflow:
         - lighting
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Pixar
       - Pro-grade
@@ -92,6 +116,8 @@ entries:
         - compositing
       output:
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - VFX Plates
       - Backplates
@@ -107,6 +133,8 @@ entries:
         - product-viz
       workflow:
         - lighting
+      platform:
+        - web
     readme_tags:
       - Studio
       - Product-Viz
@@ -125,3 +153,7 @@ entries:
     tags:
       workflow:
         - lighting
+      output:
+        - generalist
+      platform:
+        - web

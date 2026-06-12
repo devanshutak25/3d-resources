@@ -184,14 +184,16 @@ entries:
         - web
   - name: typicons.font
     url: http://s-ings.com/typicons/
-    description: 336 pixel perfect, all-purpose vector icons in a web-font kit
+    description: 336 pixel-perfect all-purpose vector icons in a web-font kit.
     license: Open Source
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
-        - generalist
+        - illustration
+      platform:
+        - web
   - name: Phosphor Icons
     url: https://phosphoricons.com/
     description: 9000+ flexible icons in thin, light, regular, bold, fill, duotone styles.
@@ -384,13 +386,51 @@ entries:
         - web
   - name: Material design icons
     url: https://github.com/google/material-design-icons
-    description: Official icon set from Google
+    description: Official Material Design icon set from Google.
     license: Open Source
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       output:
-        - generalist
+        - illustration
       tech:
         - opensource-alt
+      platform:
+        - web
+  - name: Ouch! Illustrations
+    url: https://icons8.com/ouch
+    description: Illustration and icon library for UX from Icons8.
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Iconz
+    url: https://iconz.design
+    description: 460+ 3D icons in multiple angles and materials.
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Shape.so
+    url: https://shape.so
+    description: 4300+ icons and illustrations exportable to SVG, React, and Lottie.
+    entry_type: asset-source
+    license: Paid
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web

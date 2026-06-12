@@ -279,3 +279,20 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2024-01-27'
+  - name: Genetic Drawing
+    url: https://github.com/anopara/genetic-drawing
+    description: Python library that generates a stylized rendering from an image.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      platform:
+        - web
+      tech:
+        - opensource-alt
+        - ai-generative
+    stale: true
+    last_pushed: '2020-06-26'

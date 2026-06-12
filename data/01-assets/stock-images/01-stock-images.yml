@@ -188,7 +188,7 @@ entries:
         - web
   - name: Story Set
     url: https://storyset.com/
-    description: Edit and animate customizable illustrations to enhance your projects totally free.
+    description: Customizable illustrations to edit and animate, free.
     entry_type: asset-source
     license: Free
     url_last_verified: '2026-06-01'
@@ -198,5 +198,205 @@ entries:
         - animation
       output:
         - illustration
+      platform:
+        - web
+  - name: Absurd Design
+    url: https://absurd.design
+    description: Free surrealist illustration set.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Black Illustrations
+    url: https://blackillustrations.com
+    description: Illustrations of black people for projects.
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Blush
+    url: https://blush.design
+    description: Mix and customize illustrations made by artists.
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Control Illustrations
+    url: https://control.rocks
+    description: Combo set of 108 customizable illustrations.
+    entry_type: asset-source
+    license: Paid
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Biodiversity Heritage Library
+    url: https://www.flickr.com/photos/biodivlibrary/
+    description: 300,000+ botanical and animal illustrations free to download (CC0).
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+      tech:
+        - cc0
+  - name: Flowbite Illustrations
+    url: https://flowbite.com/illustrations/
+    description: Open-source SVG illustrations in 3D style, dark and light mode.
+    entry_type: asset-source
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+      tech:
+        - opensource-alt
+  - name: Get Illustrations Bundle
+    url: https://getillustrations.com
+    description: Bundle of 34+ vector illustration packs, 2800+ items.
+    entry_type: asset-source
+    license: Paid
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Humaaans
+    url: https://www.humaaans.com
+    description: Mix-and-match illustrations of people with a design library.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: illlustrations
+    url: https://illlustrations.co
+    description: 100 open-source illustrations including COVID and WFH themes.
+    entry_type: asset-source
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+      tech:
+        - opensource-alt
+  - name: Illustrationz
+    url: https://illustrationz.design
+    description: 100+ 3D character illustration packs with 167M+ combinations.
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Illustration Gallery
+    url: https://www.manypixels.co/gallery
+    description: Royalty-free illustration collection.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Storytale
+    url: https://storytale.io/
+    description: Hundreds of illustrations for web and app projects.
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Stubborn Generator
+    url: https://stubborn.fun
+    description: Character illustration generator.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: unDraw Illustrations
+    url: https://undraw.co/illustrations
+    description: MIT-licensed collection of SVG illustrations.
+    entry_type: asset-source
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+      tech:
+        - opensource-alt
+  - name: Smash Illustrations
+    url: https://usesmash.com
+    description: Library of 250+ illustrations.
+    entry_type: asset-source
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Mockupz
+    url: https://mockupz.design
+    description: Free 3D mockup scenes for showcasing design work.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - product-viz
       platform:
         - web

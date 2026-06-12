@@ -599,3 +599,58 @@ entries:
       - Script QC
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: Nuke
+    url: https://www.foundry.com/products/nuke
+    description: Industry-standard node-based compositing software by The Foundry. Free non-commercial version available.
+    entry_type: software
+    license: Freemium
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - node-based
+  - name: Fusion
+    url: https://www.blackmagicdesign.com/de/products/fusion
+    description: Free node-based compositing software from Blackmagic Design.
+    entry_type: software
+    license: Free
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - node-based
+  - name: ButtleOFX
+    url: https://github.com/buttleofx/ButtleOFX
+    description: Simple open-source node-based compositing software.
+    entry_type: software
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - node-based
+    stale: true
+    last_pushed: '2017-07-31'

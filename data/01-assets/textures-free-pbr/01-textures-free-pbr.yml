@@ -8,6 +8,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - cc0
         - pbr
@@ -25,6 +29,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
     readme_tags:
@@ -43,6 +51,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - CC0
       - Seamless
@@ -59,6 +71,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Free PBR
       - Seamless
@@ -75,6 +91,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - PBR
       - Free
@@ -82,7 +102,7 @@ entries:
     url_status: ok
   - name: Texture Fabrik
     url: https://texturefabrik.com/
-    description: Textures and patterns.
+    description: Free textures and seamless patterns.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -94,6 +114,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
   - name: Kaimoisch
     url: https://kaimoisch.com/free-textures/
     description: 3D scanned textures.
@@ -105,6 +129,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Scanned
       - Free
@@ -124,6 +152,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
   - name: The Pixel Lab Freebies
     url: https://www.thepixellab.net/freebies-2
     description: Free 3D models and textures.
@@ -138,6 +170,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
   - name: Texture Labs
     url: https://texturelabs.org/
     description: Free texture resources.
@@ -152,6 +188,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
   - name: Textures.com
     url: https://www.textures.com/
     description: Massive professional texture library.
@@ -166,6 +206,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
   - name: TextureCan
     url: https://www.texturecan.com/
     description: Free PBR textures, high scan quality.
@@ -178,6 +222,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
     readme_tags:
       - Free PBR
       - High-Quality Scans
@@ -185,7 +233,7 @@ entries:
     url_status: ok
   - name: Matcaps
     url: https://github.com/nidorx/matcaps#matcaps
-    description: A Huge library of matcap textures in PNG and ZMT, organized by color.
+    description: Large matcap texture library in PNG and ZMT, organized by color.
     license: Open Source
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -194,11 +242,13 @@ entries:
       workflow:
         - texturing
         - material-authoring
-      tech:
-        - opensource-alt
+      output:
+        - generalist
+      platform:
+        - web
   - name: LotPixel
     url: https://www.lotpixel.com/
-    description: A huge assets library. Photogrammetry and PBR Textures, 3D Models, Decals. 1500+ Free Texture Available.
+    description: Photogrammetry and PBR textures, 3D models, decals. 1500+ free textures.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -207,12 +257,16 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
         - photogrammetry
   - name: PlainTextures
     url: http://www.plaintextures.com/
-    description: Free high resolution textures, brushes and photos
+    description: Free high-resolution textures, brushes, and photos.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -221,11 +275,15 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
   - name: TextureKing
     url: http://www.textureking.com/
-    description: Free material stock textures
+    description: Free material stock textures.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -234,11 +292,15 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
   - name: 3DAssets.one
     url: https://www.3dassets.one/
-    description: Search-engine which allows you to explore the largest free texture sites all at once.
+    description: Search engine across the largest free texture sites at once.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -247,11 +309,15 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
   - name: 3DXO
     url: https://www.3dxo.com
-    description: Free 3D Models, Textures, Backgrounds, Photos & Graphics.
+    description: Free 3D models, textures, backgrounds, photos, and graphics.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -260,11 +326,15 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
   - name: C4DCenter Material Library
     url: https://c4dcenter.com/material-library/
-    description: Free C4D Materials created with High Quality Texture Maps for instant download and no limits, Free for Personal and Commercial Use.
+    description: Free Cinema 4D materials with high-quality texture maps. Personal and commercial use.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -273,11 +343,16 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - pbr
+        - c4d
   - name: Celestia Motherlode
     url: http://www.celestiamotherlode.net/
-    description: Repository for various addons like textures, models or celestial objects.
+    description: 'Repository of Celestia addons: textures, models, and celestial objects.'
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-06-01'
@@ -286,3 +361,7 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      output:
+        - scientific-viz
+      platform:
+        - web

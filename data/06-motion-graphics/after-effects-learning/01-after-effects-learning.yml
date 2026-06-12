@@ -3,6 +3,7 @@ entries:
     url: http://www.graymachine.com/top-5-effects-expressions/
     description: Essential AE expressions.
     entry_type: reference
+    license: Free
     readme_tags:
       - Expressions
       - Essentials
@@ -11,6 +12,10 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
+      skill:
+        - intermediate
       tech:
         - after-effects
   - name: Jitter Templates

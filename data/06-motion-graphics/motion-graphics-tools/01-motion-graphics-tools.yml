@@ -10,8 +10,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - motion-graphics
+      platform:
+        - web
   - name: Nw Wrld
     url: https://github.com/aagentah/nw_wrld
     description: Experimental motion tool.
@@ -23,8 +27,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
       output:
         - motion-graphics
+      platform:
+        - web
       tech:
         - opensource-alt
   - name: Nukepedia Lens Engine
@@ -38,8 +46,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - compositing
       output:
         - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
   - name: Caddis
     url: https://www.caddis.app/
     description: Motion design app with layer timeline and node compositing.
@@ -51,8 +66,12 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - compositing
       output:
         - motion-graphics
+      platform:
+        - web
   - name: Jitter
     url: https://jitter.video/
     description: Browser-based collaborative motion design tool.
@@ -66,6 +85,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
   - name: Lottielab
     url: https://www.lottielab.com/
     description: Editor for Lottie animations targeting apps and websites.
@@ -79,6 +100,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
   - name: Plate
     url: https://plate.video/
     description: WebGPU motion design tool running in the browser, with macOS and Windows builds.
@@ -92,6 +115,10 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
+        - win
+        - mac
   - name: Element 3D
     url: https://www.videocopilot.net/products/element2/
     description: A 3D plugin for After Effects that allows you to import and animate 3D models.
@@ -102,14 +129,21 @@ entries:
     tags:
       workflow:
         - modeling
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
   - name: React Spring
     url: https://www.react-spring.dev/
     description: Library for physically accurate animations, works with react-three-fiber.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - animation
+        - creative-coding
       platform:
         - web

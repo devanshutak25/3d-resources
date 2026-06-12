@@ -15,6 +15,8 @@ entries:
         - reference
       platform:
         - web
+      skill:
+        - beginner
   - name: Laws of UX
     url: https://lawsofux.com/
     description: Gestalt principles, visual perception laws (directly applicable to 3D composition).
@@ -29,6 +31,10 @@ entries:
       workflow:
         - concept
         - reference
+      platform:
+        - web
+      skill:
+        - beginner
   - name: Handprint Color & Composition
     url: https://www.handprint.com/HP/WCL/color18a.html
     description: Deepest free color theory resource online. Covers perception and harmony.
@@ -43,6 +49,10 @@ entries:
       workflow:
         - concept
         - reference
+      platform:
+        - web
+      skill:
+        - advanced
   - name: PhotoPills Golden Ratio Guide
     url: https://www.photopills.com/articles/golden-ratio-photography-composition-guide
     description: Golden ratio, spirals, triangles with overlay diagrams.
@@ -57,22 +67,10 @@ entries:
       workflow:
         - concept
         - reference
-  - name: RenderNet
-    url: https://rendernet.ai/
-    description: RenderNet AI is a tool for generating images and videos, providing control over character design, composition, and style.
-    license: Freemium
-    entry_type: tool
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    notes: Misfit in composition subsection. AI image/video generator, not composition theory. Consider relocation.
-    tags:
-      workflow:
-        - concept
-        - reference
       platform:
         - web
-      tech:
-        - ai-generative
+      skill:
+        - beginner
   - name: Neil Blevins Art Lessons
     url: http://www.neilblevins.com/
     description: Composition types, tangents, visual hierarchy by a Pixar artist.
@@ -87,6 +85,8 @@ entries:
         - reference
       platform:
         - web
+      skill:
+        - intermediate
     dual_listed_in:
       - learning-community-industry/inspiration-showcase
     url_last_verified: '2026-06-01'

@@ -1,7 +1,7 @@
 entries:
   - name: Cambridge in Colour
     url: http://www.cambridgeincolour.com/tutorials.htm
-    description: photography tutorials.
+    description: Photography tutorials on exposure, color, and composition.
     entry_type: reference
     readme_tags:
       - Fundamentals
@@ -11,6 +11,10 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - beginner
   - name: Strobist Lighting 101
     url: https://strobist.blogspot.com/2006/03/lighting-101.html
     description: Definitive free course on shaping light (directly applicable to 3D lighting).
@@ -24,6 +28,10 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - beginner
   - name: Workphlo
     url: https://www.youtube.com/@workphlo
     description: Studio product photography lighting breakdowns with placement diagrams.
@@ -35,6 +43,8 @@ entries:
         - reference
       platform:
         - web
+      skill:
+        - intermediate
     readme_tags:
       - Studio
       - Placement Diagrams
@@ -52,6 +62,10 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: B&H Explora Photography
     url: https://www.bhphotovideo.com/explora/photography
     description: Deep technical articles on lighting modifiers and color temperature.
@@ -64,6 +78,10 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - intermediate
   - name: Gavin Hoey (Adorama)
     url: https://www.youtube.com/@GavinHoey
     description: Studio lighting tutorials with setup diagrams.
@@ -78,57 +96,55 @@ entries:
         - reference
       platform:
         - web
+      skill:
+        - beginner
   - name: PIXLS.US
     url: https://pixls.us
-    description: Community dedicated to tutorials, workflows, and showcases of high-quality photography using Free Software tools
+    description: Community for tutorials and workflows on high-quality photography with free-software tools.
     entry_type: community
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - reference
+      platform:
+        - web
   - name: Open Source Photography Community on Google+
     url: https://plus.google.com/u/0/communities/110647644928874455108
-    description: Open Source Photography Community on Google+.
+    description: Open-source photography community on Google+.
     entry_type: community
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - reference
+      platform:
+        - web
     notes: Google+ shut down in 2019. Link is dead platform; flagged for review.
   - name: /r/FOSSPhotography
     url: http://reddit.com/r/fossphotography
-    description: Community about Free open source software for Photography on reddit.
+    description: Reddit community on free open-source software for photography.
     entry_type: community
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - reference
-  - name: ButtleOFX
-    url: https://github.com/buttleofx/ButtleOFX
-    description: A simple, user-friendly and open source compositing software.
-    license: Open Source
-    entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - reference
-      tech:
-        - opensource-alt
-    notes: Misfit in photography subsection. This is compositing software (entry_type should be 'software'); kept here per no-relocate rule.
-    stale: true
-    last_pushed: '2017-07-31'
+      platform:
+        - web
   - name: |-
       Femto-Photography: Visualizing Photons in Motion at a
       Trillion Frames Per Second
     url: http://web.media.mit.edu/~raskar//trillionfps/
-    description: Raskar et al
+    description: Raskar et al., SIGGRAPH 2012.
     entry_type: reference
+    year: 2012
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       workflow:
         - reference
+      platform:
+        - web
+      skill:
+        - advanced
