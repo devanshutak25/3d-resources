@@ -147,3 +147,18 @@ subsections:
     description: AI upscaling, cleanup, generative assist, and AI-powered DCC features.
     chunks: 1
     mirror_into: ai-ml-for-cg
+  - slug: ai-canvas-software
+    title: AI Creative Canvas Software
+    description: Node-based and all-in-one AI canvases that chain image, video, and 3D gen.
+    chunks: 1
+    mirror_into: ai-ml-for-cg
+  - slug: ai-design-viz-software
+    title: AI Design Viz Software
+    description: Sketch-to-render and AI design visualization for product and architecture.
+    chunks: 1
+    mirror_into: ai-ml-for-cg
+  - slug: ai-product-photography-software
+    title: AI Product Photography Software
+    description: AI virtual product photography and 3D digital twins for ecommerce.
+    chunks: 1
+    mirror_into: ai-ml-for-cg

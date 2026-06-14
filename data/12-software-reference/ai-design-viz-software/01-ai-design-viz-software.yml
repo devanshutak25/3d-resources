@@ -1,0 +1,143 @@
+entries:
+  - name: Vizcom
+    url: https://www.vizcom.ai/
+    description: Sketch to render for industrial, product, and footwear design with line control.
+    license: Freemium
+    entry_type: software
+    best_for: Industrial design sketching
+    tags:
+      output:
+        - product-viz
+        - automotive
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Sketch to Render
+      - Product Design
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: NewArc
+    url: https://newarc.ai/
+    description: Sketch to render for product, fashion, and automotive design.
+    license: Freemium
+    entry_type: software
+    best_for: Product and fashion render
+    tags:
+      output:
+        - product-viz
+        - fashion
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Sketch to Render
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Visualizee
+    url: https://visualizee.ai/
+    description: Sketch and 3D screenshot to render for architecture and interiors.
+    license: Freemium
+    entry_type: software
+    best_for: Architecture rendering
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Architecture
+      - Sketch to Render
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Veras
+    url: https://www.evolvelab.io/veras
+    description: AI render plugin inside Revit, SketchUp, Rhino, and Vectorworks.
+    license: Paid
+    entry_type: plugin
+    best_for: CAD-native AI render
+    tags:
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+      tech:
+        - ai-generative
+    readme_tags:
+      - CAD Plugin
+      - Architecture
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: SketchPro
+    url: https://www.sketchpro.ai/
+    description: Sketch, SketchUp, and massing to render for architecture.
+    license: Freemium
+    entry_type: software
+    best_for: Architecture massing render
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Architecture
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Mnml.ai
+    url: https://www.mnml.ai/
+    description: Arch-viz AI renderer from sketch and 3D screenshot input.
+    license: Freemium
+    entry_type: software
+    best_for: Arch-viz rendering
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Architecture
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Arko.ai
+    url: https://www.arko.ai/
+    description: Arch-viz AI renderer for sketch and 3D model screenshots.
+    license: Freemium
+    entry_type: software
+    best_for: Arch-viz rendering
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Architecture
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: LookX
+    url: https://lookx.ai/
+    description: Arch-viz AI renderer with style references.
+    license: Freemium
+    entry_type: software
+    best_for: Arch-viz rendering
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Architecture
+    url_last_verified: '2026-06-15'
+    url_status: ok

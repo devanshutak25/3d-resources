@@ -1,0 +1,109 @@
+entries:
+  - name: Omi
+    url: https://www.omi.so/
+    description: 3D digital twins of products for virtual photoshoots. Built for CPG brands.
+    license: Paid
+    entry_type: software
+    best_for: CPG product twins
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Digital Twins
+      - Product Shots
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Flair.ai
+    url: https://flair.ai/
+    description: AI product photography canvas. Drag products into staged scenes.
+    license: Freemium
+    entry_type: software
+    best_for: Staged product scenes
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Product Photography
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Claid.ai
+    url: https://claid.ai/
+    description: Catalog image cleanup and AI product shots at ecommerce scale.
+    license: Freemium
+    entry_type: software
+    best_for: Catalog cleanup at scale
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Ecommerce
+      - Product Shots
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Photoroom
+    url: https://www.photoroom.com/
+    description: Marketplace-first mobile app for batch product listing images.
+    license: Freemium
+    entry_type: software
+    best_for: Batch listing images
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+        - ios
+        - android
+      tech:
+        - ai-generative
+    readme_tags:
+      - Mobile
+      - Batch
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Threekit
+    url: https://www.threekit.com/
+    description: Enterprise 3D twins with photoreal renders and configurators from one file.
+    license: Paid
+    entry_type: software
+    best_for: Enterprise 3D twins
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Enterprise
+      - Configurators
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Emersya
+    url: https://emersya.com/
+    description: 3D and AR product experiences from ideation to ecommerce.
+    license: Paid
+    entry_type: software
+    best_for: 3D and AR product viz
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - 3D + AR
+    url_last_verified: '2026-06-15'
+    url_status: ok

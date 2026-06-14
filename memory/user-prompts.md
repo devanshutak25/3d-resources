@@ -512,3 +512,5 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
   - Counted actual entries = **3,414** (`^  - name:` across data/ chunk files). Recommended About use "3,400+".
 - **Prompt (2026-06-15):** update memory and other files
   - Propagated 3,300+ → 3,400+ across handoff/*.md (28 occ; _maintenance left alone). Stored GitHub About in copy-snippets.md. Logged recount (3,414) + About to decisions.md + project.md §11.
+- **Prompt (2026-06-15):** add protopie.io + figma.com + a large AI-creative-tools directory (node canvas, sketch-to-render, product photography, AI filmmaking, upscalers, core image/video models).
+  - Figma already present. Hybrid/curated/refresh (AskUserQuestion). Added 35 new entries: 3 new §12 buckets (ai-canvas/design-viz/product-photography) + folded filmmaking→ai-video, upscalers→ai-assist, Imagen/Reve→ai-image, Intangible→ai-3d, ProtoPie→design-software. Refreshed 9 existing (Nano Banana Pro, FLUX.2, GPT Image, Runway Gen-4.5, Sora deprecated, Luma Ray3, LTX-2, Topaz Bloom, Magnific/Freepik). Catalog 3,414→3,449. Validation ✓ 410.

@@ -1,0 +1,113 @@
+entries:
+  - name: Flora
+    url: https://florafauna.ai/
+    description: Node canvas for image and video gen with 50+ models and Style DNA.
+    license: Freemium
+    entry_type: software
+    best_for: Visual node workflows
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - node-based
+    readme_tags:
+      - Node Canvas
+      - Multi-model
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Weavy
+    url: https://weavy.ai/
+    description: Node canvas with pro editing for compositing, matte, and relighting. Acquired by Figma.
+    license: Freemium
+    entry_type: software
+    best_for: Node canvas plus editing
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - node-based
+    readme_tags:
+      - Node Canvas
+      - Pro Editing
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Higgsfield Canvas
+    url: https://higgsfield.ai/canvas-intro
+    description: Node editor chaining prompts, style transfer, motion, and render across image and video.
+    license: Freemium
+    entry_type: software
+    best_for: Image to video pipeline
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - node-based
+    readme_tags:
+      - Node Editor
+      - Image + Video
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Freepik Spaces
+    url: https://www.freepik.com/spaces
+    description: Node workflows tied to the Freepik stock library.
+    license: Freemium
+    entry_type: software
+    best_for: Node workflows with stock
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - node-based
+    readme_tags:
+      - Node Workflows
+      - Stock Library
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Wireflow
+    url: https://www.wireflow.ai/
+    description: AI workflow canvas with a developer lean.
+    license: Freemium
+    entry_type: software
+    best_for: Dev-leaning AI canvas
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - node-based
+    readme_tags:
+      - Workflow Canvas
+    url_last_verified: '2026-06-15'
+    url_status: ok
+  - name: Kaiber
+    url: https://kaiber.ai/
+    description: Unified canvas for image and video generation and editing. Superstudio.
+    license: Paid
+    entry_type: software
+    best_for: Unified gen canvas
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Unified Canvas
+      - Image + Video
+    url_last_verified: '2026-06-15'
+    url_status: ok

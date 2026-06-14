@@ -173,6 +173,28 @@ entries:
       - UI/UX
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: ProtoPie
+    url: https://www.protopie.io/
+    description: High-fidelity interaction prototyping for apps and connected devices.
+    license: Freemium
+    entry_type: software
+    best_for: Interaction prototyping
+    tags:
+      workflow:
+        - concept
+      output:
+        - product-viz
+      platform:
+        - web
+        - win
+        - mac
+      tech:
+        - collaborative
+    readme_tags:
+      - Prototyping
+      - Interaction
+    url_last_verified: '2026-06-15'
+    url_status: ok
   - name: Affinity
     url: https://affinity.studio/
     description: Unified vector, photo, and layout app. Free, by Canva.

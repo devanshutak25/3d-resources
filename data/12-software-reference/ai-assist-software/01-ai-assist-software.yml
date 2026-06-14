@@ -22,7 +22,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Topaz Photo AI / Video AI
     url: https://www.topazlabs.com/
-    description: Best-in-class upscaling, denoising, sharpening.
+    description: Upscaling, denoising, and sharpening. Topaz Bloom adds unlimited creative upscaling.
     license: Paid
     entry_type: software
     best_for: Upscale/denoise
@@ -32,13 +32,13 @@ entries:
     readme_tags:
       - Upscale
       - Denoise
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Magnific AI
     url: https://magnific.ai/
-    description: AI upscaler with "creativity" slider. Reimagines/adds detail (2-16x).
+    description: Creative upscaler that adds detail. Folded into Freepik plans Apr 2026.
     license: Paid
     entry_type: software
     best_for: Creative AI upscaling
@@ -47,8 +47,8 @@ entries:
         - ai-generative
     readme_tags:
       - Creative Upscale
-      - 2-16x
-    url_last_verified: '2026-06-01'
+      - Freepik
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -111,5 +111,43 @@ entries:
     tags:
       tech:
         - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/ai-assisted-cg-tools
+  - name: Upscayl
+    url: https://upscayl.org/
+    description: Open-source desktop upscaler that runs locally at no cost.
+    entry_type: software
+    license: Open Source
+    best_for: Free local upscaling
+    tags:
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-generative
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Local
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/ai-assisted-cg-tools
+  - name: Let's Enhance
+    url: https://letsenhance.io/
+    description: Photo upscaler up to 16x with a free tier.
+    entry_type: software
+    license: Freemium
+    best_for: Photo upscaling
+    tags:
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Photo Upscale
+    url_last_verified: '2026-06-15'
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools

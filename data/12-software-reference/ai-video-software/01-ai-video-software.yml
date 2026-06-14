@@ -15,35 +15,36 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
-  - name: Runway Gen-4
+  - name: Runway Gen-4.5
     url: https://runwayml.com/
-    description: Character consistency across shots, controllable camera.
+    description: Motion brushes and scene consistency on the GWM-1 world model.
     license: Freemium
     entry_type: software
-    best_for: Character consistency
+    best_for: Motion control
     tags:
       tech:
         - ai-generative
     readme_tags:
-      - Character Consistency
-      - Camera Control
-    url_last_verified: '2026-06-01'
+      - Motion Brushes
+      - Consistency
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Sora (OpenAI)
     url: https://sora.com/
-    description: Up to ~20s clips with strong temporal coherence.
+    description: OpenAI video model. App and web discontinued Apr 2026, API sunsets Sep 2026.
     license: Paid
     entry_type: software
     best_for: Coherent video clips
+    deprecated: true
     tags:
       tech:
         - ai-generative
     readme_tags:
       - OpenAI
-      - 20s Clips
-    url_last_verified: '2026-06-01'
+      - Sunsetting
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -97,17 +98,17 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Luma Dream Machine
     url: https://lumalabs.ai/dream-machine
-    description: Fast generations with good camera motion.
+    description: Atmospheric image-to-video. Ray3 is the first native 16-bit HDR video model.
     license: Freemium
     entry_type: software
-    best_for: Fast video gen
+    best_for: Atmospheric video gen
     tags:
       tech:
         - ai-generative
     readme_tags:
-      - Fast
-      - Camera Motion
-    url_last_verified: '2026-06-01'
+      - HDR
+      - Atmospheric
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -145,12 +146,12 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
-  - name: LTX Video
+  - name: LTX-2 (Lightricks)
     url: https://github.com/Lightricks/LTX-Video
-    description: Open-source, real-time generation speeds.
+    description: Fast open video model. LTX-2 Fast ranks top-3 in the arena.
     license: Open Source
     entry_type: software
-    best_for: Real-time open-source video gen
+    best_for: Fast open-source video gen
     tags:
       tech:
         - ai-generative
@@ -158,8 +159,8 @@ entries:
         - opensource-alt
     readme_tags:
       - Open Source
-      - Real-time
-    url_last_verified: '2026-06-01'
+      - Fast
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -242,6 +243,164 @@ entries:
       - Open Source
       - Tsinghua
     url_last_verified: '2026-06-01'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Seedance 2.0 (ByteDance)
+    url: https://seed.bytedance.com/
+    description: High raw quality video gen with audio. Tops the Artificial Analysis ranking.
+    license: Paid
+    entry_type: software
+    best_for: Top raw quality
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - Top Quality
+      - Native Audio
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Google Flow
+    url: https://labs.google/flow
+    description: Filmmaking app over Veo with scenebuilder and ingredients-to-video.
+    license: Paid
+    entry_type: software
+    best_for: Veo filmmaking app
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - Filmmaking
+      - Scenebuilder
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: LTX Studio
+    url: https://ltx.studio/
+    description: Pre-production to video pipeline with storyboards, character consistency, and timeline.
+    license: Freemium
+    entry_type: software
+    best_for: Script to video pipeline
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - Pre-production
+      - Storyboards
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Frameo
+    url: https://frameo.ai/
+    description: Script to cinematic video with scenes, characters, audio, and timeline assembly.
+    license: Freemium
+    entry_type: software
+    best_for: Structured film pipeline
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - Script to Video
+      - Timeline
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Drawstory
+    url: https://www.drawstory.ai/
+    description: Cinematography and story sequencing with strong character continuity.
+    license: Freemium
+    entry_type: software
+    best_for: Character continuity
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - Cinematography
+      - Continuity
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Mootion
+    url: https://www.mootion.com/
+    description: Idea to a 2-minute cinematic video in one tool.
+    license: Freemium
+    entry_type: software
+    best_for: Fast all-in-one film
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - All-in-one
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: HeyGen
+    url: https://www.heygen.com/
+    description: AI avatar marketing videos with a talking-head focus.
+    license: Freemium
+    entry_type: software
+    best_for: Avatar videos
+    tags:
+      output:
+        - broadcast
+      tech:
+        - ai-generative
+    readme_tags:
+      - Avatars
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: InVideo AI
+    url: https://invideo.io/
+    description: Prompt to video for marketing and social content.
+    license: Freemium
+    entry_type: software
+    best_for: Marketing and social video
+    tags:
+      output:
+        - broadcast
+      tech:
+        - ai-generative
+    readme_tags:
+      - Marketing
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+  - name: Morphic
+    url: https://morphic.com/
+    description: AI film studio for story-driven video.
+    license: Paid
+    entry_type: software
+    best_for: Story-driven film
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+    readme_tags:
+      - Film Studio
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation

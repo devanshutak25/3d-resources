@@ -36,21 +36,21 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
-  - name: FLUX 1.1 Pro (Black Forest Labs)
+  - name: FLUX.2 (Black Forest Labs)
     url: https://blackforestlabs.ai/
-    description: Production-grade open model plus Fill/Canny/Depth tools.
+    description: Open-weight photorealism with Kontext editing.
     license: Freemium
     entry_type: software
-    best_for: Production-grade image gen
+    best_for: Open-weight photorealism
     tags:
       tech:
         - ai-generative
       workflow:
         - concept
     readme_tags:
-      - Production-Grade
-      - Open Model
-    url_last_verified: '2026-06-01'
+      - Open Weight
+      - Photoreal
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -73,12 +73,12 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
-  - name: DALL-E 3 (OpenAI)
-    url: https://openai.com/dall-e-3
-    description: Text-to-image with strong semantic accuracy.
+  - name: GPT Image (OpenAI)
+    url: https://openai.com/
+    description: Instruction-following image model with strong text rendering. GPT Image 1.5.
     license: Paid
     entry_type: software
-    best_for: Semantic accuracy
+    best_for: Instruction following
     tags:
       tech:
         - ai-generative
@@ -86,8 +86,8 @@ entries:
         - concept
     readme_tags:
       - OpenAI
-      - Semantic
-    url_last_verified: '2026-06-01'
+      - Text Rendering
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -147,21 +147,21 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
-  - name: Google Gemini Image Gen
+  - name: Nano Banana Pro (Google Gemini)
     url: https://gemini.google.com/
-    description: High realism, fast, large-scale production.
+    description: Instruction-based editing with character and product consistency across edits.
     license: Freemium
     entry_type: software
-    best_for: Fast large-scale gen
+    best_for: Consistency editing
     tags:
       tech:
         - ai-generative
       workflow:
         - concept
     readme_tags:
-      - Google
-      - Realism
-    url_last_verified: '2026-06-01'
+      - Consistency
+      - Editing
+    url_last_verified: '2026-06-15'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -466,3 +466,46 @@ entries:
       - Free
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: Imagen
+    url: https://deepmind.google/models/imagen/
+    description: Google photoreal image model via Gemini and Vertex.
+    license: Paid
+    entry_type: software
+    best_for: Photoreal image gen
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - Photoreal
+      - Google
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+  - name: Reve
+    url: https://reve.art/
+    description: Image model with strong prompt adherence.
+    license: Freemium
+    entry_type: software
+    best_for: Prompt adherence
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+    readme_tags:
+      - Prompt Adherence
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation

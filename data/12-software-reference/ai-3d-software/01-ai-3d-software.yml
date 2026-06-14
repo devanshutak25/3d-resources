@@ -263,3 +263,26 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
+  - name: Intangible
+    url: https://www.intangible.ai/
+    description: Prompt and drag-drop to 3D scenes for previz. No-code.
+    license: Freemium
+    entry_type: software
+    best_for: No-code 3D previz
+    tags:
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+      workflow:
+        - previs
+    readme_tags:
+      - Previz
+      - No-code
+    url_last_verified: '2026-06-15'
+    url_status: ok
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
