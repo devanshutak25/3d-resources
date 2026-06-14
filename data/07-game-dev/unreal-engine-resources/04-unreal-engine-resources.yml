@@ -411,26 +411,9 @@ entries:
         - web
       skill:
         - intermediate
-  - name: Unreal Engine
-    url: https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ
-    description: Official Unreal Engine YouTube channel with weekly live streams.
-    entry_type: channel
-    license: Free
-    readme_tags:
-      - Unreal
-      - Official
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      platform:
-        - web
-      skill:
-        - beginner
   - name: Unreal Engine Official YouTube
     url: https://www.youtube.com/@UnrealEngine
-    description: Official Unreal Engine YouTube channel.
+    description: Official Unreal Engine YouTube channel with weekly live streams.
     entry_type: channel
     license: Free
     readme_tags:

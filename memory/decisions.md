@@ -303,3 +303,8 @@ User decisions (AskUserQuestion): NativeBlend→§09, UAssetAPI→§07, 3D MDB�
 
 ## 2026-06-15 — Deferred Catalog Cleanup Phase 2 (plugin-marketplaces over-cap split)
 - **Phase 2 DONE** (`plugin-marketplaces/01` 51→50, `02` 0→1): moved 1 overflow entry **BlenderAddons.org** (genuine addon marketplace, good thematic fit) from end of 01 → previously-empty 02. `chunks: 2` already declared (no counter change). Pure move, no edits to the entry. ADR-0001 ≤50 cap now satisfied. Validation ✓ 410, 0 errors. Uncommitted. **NEXT: Phase 3** (vfxcamdb.com cross-§10 dupe → matchmoving canonical + dual_listed_in).
+
+## 2026-06-15 — Deferred Catalog Cleanup Phases 3 + 4 (DONE → CLEANUP TRACK COMPLETE)
+- **Phase 3 DONE** (vfxcamdb.com cross-§10 dupe): kept `matchmoving-tracking/01` "VFX Camera Database" as canonical (richer: license/best_for/match-move workflow), added `dual_listed_in: [tools-pipeline-utilities/misc-3d-utilities]`; deleted the thin copy from `misc-3d-utilities/01`. Mirror path verified vs sections.yml (§10 slug `tools-pipeline-utilities`) + 10-tools-pipeline.yml (sub `misc-3d-utilities`). grep residue = matchmoving only. Validation ✓ 410, 0 errors.
+- **Phase 4 DONE** (duplicate official UE YouTube channel in §07 `unreal-engine-resources/04`): kept `@UnrealEngine` entry (modern canonical handle), merged "with weekly live streams" detail from the dupe into its description, deleted the `channel/UCBobmJyzsJ…` copy. Chunk drops by 1 (under cap, no counter change). Validation ✓ 410, 0 errors.
+- **DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4).** All §01–§11 enrichment + all post-sweep flags closed. Remaining repo work = publication/launch only (pub_plan Part 2). All edits uncommitted (user commits).

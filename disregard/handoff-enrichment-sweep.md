@@ -1,6 +1,6 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-15. §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE (all sections done; §12 was pre-done). NOW IN: DEFERRED CATALOG CLEANUP (plan `~/.claude/plans/make-plan-to-do-shimmering-cloud.md`).**
+**Status as of 2026-06-15. §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE (all sections done; §12 was pre-done). DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4). All catalog work done. Remaining repo work = publication/launch only (pub_plan Part 2 / project.md §11). All edits uncommitted (user commits).**
 
 ## DEFERRED CATALOG CLEANUP IN PROGRESS (2026-06-15)
 User picked catalog-cleanup track; §10 NeRF/GS papers = **relocate genuine papers → §09 papers/ + dedup**, real tools/services stay. Phases: **1** §10 paper relo (sub-phased 1a–1d) → **2** plugin-marketplaces/01 over-cap split (51→50+1) → **3** vfxcamdb.com dupe (matchmoving canonical + dual_listed_in) → **4** UE official YouTube channel dupe (§07 unreal/04).
@@ -10,7 +10,9 @@ User picked catalog-cleanup track; §10 NeRF/GS papers = **relocate genuine pape
 - **1c DONE** (gaussian-splatting-nerf/01, 34→17): moved **17 NeRF/GS papers** → papers/04 (5→**22**); dedup vs papers/01-04 = 0 conflicts; chunks stays 4 (room). 17 keepers stay (INRIA+4D impls, tools/viewers, MegaSaM, HF/TDS blogs, PyTorch impl). Validation ✓ 408 (no new), 0 errors. Uncommitted.
 - **1d DONE → PHASE 1 COMPLETE** (photogrammetry/03, 35→33): moved 2 Debevec HDR/IBL papers → papers/04 (22→**24**); user AskUserQuestion = MOVE. **§10 paper relocation done (1a-1d): 74 papers total → §09 papers; sizes 01=50/02=45/03=50/04=24 (chunks 4).** Residue = legit keepers only (NeRF+JAX NeRF+4D-GS impl repos, HDR book). Validation ✓ 410, 0 errors. Uncommitted.
 - **Phase 2 DONE** (`plugin-marketplaces/01` 51→50, `02` 0→1): moved BlenderAddons.org → 02; `chunks: 2` already declared. ADR-0001 cap satisfied. Validation ✓ 410, 0 errors. Uncommitted.
-- **NEXT: Phase 3** = vfxcamdb.com cross-§10 dupe. Keep `matchmoving-tracking/01` canonical + add `dual_listed_in: [tools-pipeline-utilities/misc-3d-utilities]`; delete the `misc-3d-utilities/01` copy. Then Phase 4 (duplicate official UE YouTube channel in §07 `unreal-engine-resources/04`: keep `@UnrealEngine`, delete `channel/UCBob…` copy).
+- **Phase 3 DONE** (vfxcamdb.com cross-§10 dupe): kept `matchmoving-tracking/01` canonical (richer entry) + added `dual_listed_in: [tools-pipeline-utilities/misc-3d-utilities]`; deleted thin `misc-3d-utilities/01` copy. grep residue = matchmoving only. Validation ✓ 410, 0 errors. Uncommitted.
+- **Phase 4 DONE → CLEANUP TRACK COMPLETE** (duplicate official UE YouTube channel, §07 `unreal-engine-resources/04`): kept `@UnrealEngine` (merged "weekly live streams" detail into desc), deleted `channel/UCBobmJyzsJ…` copy. Validation ✓ 410, 0 errors. Uncommitted.
+- **DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4).** §01–§11 enrichment + all post-sweep flags closed. Nothing left in this track. Remaining repo work = publication/launch only (pub_plan Part 2 / project.md §11). All edits uncommitted (user commits).
 
 ## §03 ANIMATION DONE (2026-06-15) → SWEEP COMPLETE
 Final section. 12 ent / 3 files, single phase. `ai-motion-capture/01` (4): AnimateDiff +platform[win,mac,linux]; **Bandai Namco retyped tool→asset-source** (mocap data) +mocap+web −tech:blender; ActorCore empty tags{}→mocap+web; **CMU BVH −tech[blender,blender-addon]** +mocap+web. `animation-learning-channels/01` (8, light): cleaned Josh Toonen emoji/clickbait name+desc, rewrote Principles quote-desc, +skill:beginner ×2. `animation-courses/01` empty stub left (flagged). §03 platform 12/12, empty-tags 0. Validation ✓ 366. Uncommitted.
@@ -256,7 +258,7 @@ Leave terse-but-correct descriptions + already-well-tagged entries alone. Chunks
 
 ## 7. First actions for next session
 
-**Immediate next task: DEFERRED CATALOG CLEANUP Phase 3** (vfxcamdb.com dupe). Plan: `~/.claude/plans/make-plan-to-do-ticklish-axolotl.md`. The §01–§11 sweep is fully done; **Phase 1 (paper relocation, 1a-1d) + Phase 2 (over-cap split) are DONE** (see top blocks). All edits UNCOMMITTED (user commits separately).
+**No catalog tasks remain. DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4); §01–§11 sweep done.** Next milestone (if/when user opts in) = publication/launch track: pub_plan Part 2 / project.md §11 (GitHub About + topics + social preview, cut v1.0.0, awesome-list PRs, Reddit/HN/Discord/newsletter, Product Hunt, GSC/SEO follow-up). The handoff steps below are historical (cleanup is closed). All edits UNCOMMITTED (user commits separately).
 
 1. Read `project.md`, `CLAUDE.md`, all `memory/*`, and this file.
 2. Append the new user prompt to `memory/user-prompts.md` (protocol).

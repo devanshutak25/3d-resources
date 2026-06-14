@@ -45,6 +45,8 @@ entries:
     license: Free
     entry_type: reference
     best_for: Camera sensor specs
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
     tags:
       workflow:
         - match-move

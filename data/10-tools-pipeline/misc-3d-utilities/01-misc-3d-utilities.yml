@@ -1,18 +1,4 @@
 entries:
-  - name: VFX Camera Database
-    url: https://vfxcamdb.com/
-    description: Camera sensor data.
-    entry_type: reference
-    readme_tags:
-      - Sensor Data
-      - Reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - film-vfx
-      platform:
-        - web
   - name: Video Magnification (MIT)
     url: https://people.csail.mit.edu/mrub/vidmag/
     description: Eulerian video magnification.
