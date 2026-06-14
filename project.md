@@ -10,7 +10,7 @@ This file is the canonical brief for the repo. It supersedes scattered docs wher
 
 `3d_resources` is a curated, lookup-first reference catalog for the 3D / VFX / motion / games / AI-CG industry. It ships as:
 
-- A GitHub repo (`README.md` + `data/` source) — currently ~741 stars.
+- A GitHub repo (`README.md` + `data/` source) — currently ~741 stars. Catalog size: **3,414 entries** as of 2026-06-15 (public copy rounds to "3,400+"; recount via `^  - name:` across `data/`).
 - A live static site: `https://3d.devanshutak.xyz` (Cloudflare Pages).
 - An `llms.txt` + `llms-full.txt` feed for AI crawlers (ChatGPT, Perplexity, Claude).
 - An Atom feed (`feed.xml`) + sitemap + per-section indexable pages.
@@ -323,7 +323,7 @@ All 7 steps shipped 2026-04-30. Catalog migration complete. Pass driver live wit
 All 11 code steps shipped. README split, per-section pages, llms.txt, footer, 404, perf defer, SSR filter shell, OG images, RSS feed, search-index split — done.
 
 **Part 2 (non-code, deferred to `handoff/`):**
-- GitHub About description + topics + social preview upload.
+- GitHub About description + topics + social preview upload. **About + 20 topics drafted + copy-ready 2026-06-15** in `handoff/copy-snippets.md` ("GitHub About" section); user applies on GitHub. Social preview still pending.
 - Cut `v1.0.0` release.
 - Awesome-list PR submissions (10 targets).
 - Reddit posts (r/blender, r/Houdini, r/vfx, r/gamedev, r/3Dmodeling).

@@ -506,3 +506,9 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
   - Planned + executed the final 2 cleanup flags. **Phase 3** (vfxcamdb dupe → matchmoving canonical + dual_listed_in mirror, deleted misc copy) + **Phase 4** (UE YouTube channel dupe → kept @UnrealEngine w/ merged desc, deleted UCBob copy). Validation ✓ 410, 0 errors. **DEFERRED CATALOG CLEANUP COMPLETE.** Scope locked by user = close cleanup only (no commit, no launch work). Plan: ~/.claude/plans/make-plan-to-do-binary-peacock.md.
 - **Prompt (2026-06-15):** all the cleanup and enrichment is done, right?
   - Verified against data (not just logs): tracked work done + validation ✓, BUT found 17 untracked RELOCATE/Misfit notes in §12 + §10 conversion-tools (never swept; §12 was pre-done). User chose "plan a relocation pass." Executed it: Bucket A (5 moves → §02/§09), B (MusicGen dedup-delete), C (MicMac bogus-mirror fix), D (10 stale notes stripped). grep RELOCATE = 0 catalog-wide. Validation ✓ 410, 0 errors. **CATALOG NOW FULLY FLAG-FREE.** Uncommitted.
+- **Prompt (2026-06-15):** write a GitHub About
+  - Drafted About description + website + 20 topics from canonical `copy-snippets.md` voice, adjusted to no-em-dash/no-AI-tells (public surface). Flagged stale 3,300+ count.
+- **Prompt (2026-06-15):** recount please
+  - Counted actual entries = **3,414** (`^  - name:` across data/ chunk files). Recommended About use "3,400+".
+- **Prompt (2026-06-15):** update memory and other files
+  - Propagated 3,300+ → 3,400+ across handoff/*.md (28 occ; _maintenance left alone). Stored GitHub About in copy-snippets.md. Logged recount (3,414) + About to decisions.md + project.md §11.
