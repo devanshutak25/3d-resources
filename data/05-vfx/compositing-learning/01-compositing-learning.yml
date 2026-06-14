@@ -10,6 +10,8 @@ entries:
         - compositing
       output:
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Gizmo Library
       - Community
@@ -26,6 +28,10 @@ entries:
         - compositing
       output:
         - film-vfx
+      skill:
+        - advanced
+      platform:
+        - web
     readme_tags:
       - Nuke
       - Pro Comp
@@ -42,6 +48,10 @@ entries:
         - compositing
       output:
         - film-vfx
+      skill:
+        - advanced
+      platform:
+        - web
     readme_tags:
       - Mentorship
       - Nuke
@@ -56,6 +66,12 @@ entries:
     tags:
       workflow:
         - compositing
+      output:
+        - film-vfx
+      skill:
+        - beginner
+      platform:
+        - web
     readme_tags:
       - Official
       - Foundry
@@ -70,6 +86,12 @@ entries:
     tags:
       workflow:
         - compositing
+      output:
+        - film-vfx
+      skill:
+        - intermediate
+      platform:
+        - web
     readme_tags:
       - Comp Theory
       - Pro
@@ -85,6 +107,12 @@ entries:
       workflow:
         - compositing
         - fx
+      output:
+        - film-vfx
+      skill:
+        - intermediate
+      platform:
+        - web
     readme_tags:
       - Career Track
       - Allan McKay
@@ -99,6 +127,12 @@ entries:
     tags:
       workflow:
         - compositing
+      output:
+        - film-vfx
+      skill:
+        - intermediate
+      platform:
+        - web
     readme_tags:
       - Canon
       - Routledge
@@ -113,6 +147,12 @@ entries:
     tags:
       workflow:
         - compositing
+      output:
+        - film-vfx
+      skill:
+        - advanced
+      platform:
+        - web
     readme_tags:
       - Canon
       - Brinkmann
@@ -127,6 +167,12 @@ entries:
     tags:
       workflow:
         - compositing
+      output:
+        - film-vfx
+      skill:
+        - beginner
+      platform:
+        - web
     readme_tags:
       - Applied
       - Routledge
@@ -140,6 +186,8 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Ian Failes
       - Breakdowns
@@ -153,6 +201,8 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Interviews
       - Per-film
@@ -169,8 +219,12 @@ entries:
         - compositing
       output:
         - film-vfx
+      skill:
+        - intermediate
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Nuke
       - CopyCat
@@ -187,6 +241,10 @@ entries:
         - compositing
       output:
         - film-vfx
+      skill:
+        - intermediate
+      platform:
+        - web
     readme_tags:
       - Nuke
       - Courses
@@ -200,6 +258,8 @@ entries:
     tags:
       output:
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Archive
       - Print Canon

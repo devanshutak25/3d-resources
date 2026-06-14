@@ -438,3 +438,19 @@ entries:
       - Social
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: Bino
+    url: https://github.com/ThreeDeeJay/bino/tree/main
+    description: 3D video player with support for 180/360 video and VR headsets.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - xr
+      tech:
+        - opensource-alt
+      platform:
+        - win
+        - linux
+        - vr

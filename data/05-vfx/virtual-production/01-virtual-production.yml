@@ -11,8 +11,28 @@ entries:
       output:
         - film-vfx
         - broadcast
+      platform:
+        - web
     readme_tags:
       - Omniverse
       - USD-based
+    url_last_verified: '2026-06-01'
+    url_status: ok
+  - name: CasparCG
+    url: https://github.com/CasparCG
+    description: Layer-based real-time compositor that plays out professional graphics, audio, and video to multiple broadcast outputs.
+    entry_type: tool
+    license: Open Source
+    tags:
+      workflow:
+        - compositing
+      output:
+        - broadcast
+      tech:
+        - opensource-alt
+        - real-time
+      platform:
+        - win
+        - linux
     url_last_verified: '2026-06-01'
     url_status: ok

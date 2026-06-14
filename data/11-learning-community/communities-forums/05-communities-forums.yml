@@ -1,0 +1,593 @@
+entries:
+  - name: VFXTalk
+    url: https://discord.do/vfxtalk/
+    description: Revived classic VFX forum as a Discord. Destination for the global VFX community to learn and grow.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - VFX
+      - Discord
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: VFX Squad
+    url: https://discord.do/vfx-squad/
+    description: Beginner-friendly VFX/editing Discord. Feedback, tutorials, and active 24/7 help.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - VFX
+      - Editing
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: VFX Apprentice Community
+    url: https://www.vfxapprentice.com/community
+    description: Community Discord tied to VFX Apprentice school. Student feedback, livestreams, and discussions for VFX artists.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - VFX
+      - Education
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: VFX Oasis
+    url: https://discord.com/invite/gQwSd82swS
+    description: VFX artists, animators, and digital artists hub. Discussion and knowledge sharing.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - VFX
+      - Discord
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: Real Time VFX
+    url: https://realtimevfx.com/
+    description: The hub for real-time VFX artists. Unity VFX Graph, Unreal Niagara, particles, shaders, and game effects.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Real-time VFX
+      - Forum
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+      tech:
+        - real-time
+      platform:
+        - web
+  - name: Shaders Hub
+    url: https://discord.com/invite/shadershub
+    description: Large (~72K) shader-focused Discord covering GLSL, HLSL, and engine shader languages.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Shaders
+      - Tech Art
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Lebrov Motion Imagery
+    url: https://www.patreon.com/lebrov
+    description: Andrey Lebrov's Patreon-tier Discord for CG/VFX learning and behind-the-scenes from Lebrov Motion Imagery.
+    entry_type: channel
+    license: Paid
+    readme_tags:
+      - CG/VFX
+      - Patreon
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: DoubleJump Academy Discord
+    url: https://discord.com/invite/exkwcT6jzU
+    description: VFX/CGI academy Discord (~6K). Monthly hangouts, portfolio reviews, challenges. Niagara, Houdini, EmberGen focus.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - VFX
+      - Real-time
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+  - name: Technically Speaking
+    url: https://discord.com/invite/e9XnPFv
+    description: Tech art, VFX, programming, gamedev Discord (~3K) hosted by Harry Alisavakis. Challenges and tutorials.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Tech Art
+      - Shaders
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
+        - web
+  - name: Corridor Digital (Crew)
+    url: https://www.corridordigital.com/
+    description: VFX YouTube studio with paywalled Corridor Crew community. Weekly challenges and behind-the-scenes.
+    entry_type: channel
+    license: Paid
+    readme_tags:
+      - VFX
+      - YouTube
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: CG Lounge
+    url: https://discord.com/invite/cg-lounge-631354077594386455
+    description: Active CG Discord (~9.9K) with daily VFX discussions, render challenges, marketplace, and Hall of Fame.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - CG
+      - VFX
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: Animators Guild
+    url: https://animatorsguild.com/
+    description: India-focused animation community. Showcase, workshops, festival events, and AGI Bazaar for Indian animators and illustrators.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - India
+      - Animation
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Animators. Animation Hub
+    url: https://discord.com/invite/animators-animation-hub-1027995624811012119
+    description: 2D/3D/stop-motion animation community (~13K). Share work, get feedback, find jobs.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Animation
+      - Discord
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Digital Art and Animation Discord
+    url: https://discord.me/digitalartandanimation
+    description: Discord for animators, artists, and VFX people across 2D, 3D, modeling, CGI simulations.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Animation
+      - VFX
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: AnimStarter Communities
+    url: https://www.animstarter.com/communities
+    description: Curated index of animation communities across Discord, Slack, and forums.
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - Animation
+      - Index
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Nice Moves Resources
+    url: https://nicemoves.org/resources/
+    description: Curated animation resources, learning material, and community pointers.
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - Animation
+      - Resources
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Animatable
+    url: https://www.animatable.co/blog/we-on-discord
+    description: AE animation Discord. Narrative, illustrative, character-based animation community.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Animation
+      - AE
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+    deprecated: true
+  - name: The Dillcord (Dillon Goo)
+    url: https://discord.com/invite/dillongoo
+    description: 2D animation Discord (~9K) by Dillon Goo. Fight scene fan animations, self-taught animator hub.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - 2D Animation
+      - Anime
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Sir Wade Animation
+    url: https://discord.com/invite/TBasBmhnDe
+    description: Sir Wade Neistadt's animation Discord (~11K). Professional and aspiring animators and CG artists since 2019.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Animation
+      - Pro
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Animator Guild (Howard Wimshurst)
+    url: https://discord.gg/awRD6FT
+    description: Howard Wimshurst's animator community Discord. Supports up-and-coming animators with critique and contests.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Animation
+      - Discord
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Concept Art Forum
+    url: https://www.conceptartforum.com/
+    description: Long-running forum for concept artists, professionals, and beginners.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Concept Art
+      - Forum
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Concept Art World
+    url: https://conceptartworld.com/
+    description: Showcase site for concept art, illustration, and visual development. Artist spotlights, news, tutorials.
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - Concept Art
+      - News
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Concept Art Association
+    url: https://www.conceptartassociation.com/
+    description: Advocacy and mentorship org for concept artists. Events, community-building, and industry support.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Concept Art
+      - Org
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+  - name: IAMAG Community
+    url: https://iamagcommunity.iamag.co/
+    description: Paid NO-AI community for entertainment industry pros. Concept artists, art directors, illustrators.
+    entry_type: community
+    license: Paid
+    readme_tags:
+      - Concept Art
+      - Pro
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+  - name: DigitalPainting.school Forum
+    url: https://digitalpainting.school/forum/
+    description: French-language forum for concept art, illustration, 3D, and digital art. Challenges and discussion.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Concept Art
+      - French
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Cara
+    url: https://cara.app/
+    description: Anti-AI portfolio and social platform built by and for artists.
+    entry_type: inspiration
+    license: Free
+    readme_tags:
+      - Portfolio
+      - Anti-AI
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+  - name: bsky.art
+    url: https://bsky.app/profile/bsky.art
+    description: Artist hub on Bluesky. Feeds, starter packs, and community curation for visual artists.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Artists
+      - Bluesky
+    url_last_verified: '2026-06-01'
+    url_status: broken
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+    deprecated: true
+  - name: LightBox Expo Discord
+    url: https://discord.gg/lightboxexpo
+    description: Official LightBox Expo Discord (10K+). 8 halls covering illustration, concept art, storyboarding.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Illustration
+      - Concept Art
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+  - name: Architectural Visualization Forum
+    url: https://archvizforum.com/
+    description: ArchViz forum focused on rendering and CGI software. V-Ray, Corona, Lumion, technical Q&A.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - ArchViz
+      - Forum
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+  - name: Ronen Bekerman ArchViz Hub
+    url: https://www.ronenbekerman.com/
+    description: ArchViz blog and forum. Tutorials, jobs, showcase, and 3D architectural visualization community.
+    entry_type: reference
+    license: Free
+    readme_tags:
+      - ArchViz
+      - Tutorials
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+  - name: Learn Arch Viz Forum
+    url: https://www.learnarchviz.com/learn-arch-viz-forum
+    description: Course-tied ArchViz forum organized by software with gallery and PRO course categories.
+    entry_type: community
+    license: Freemium
+    readme_tags:
+      - ArchViz
+      - Courses
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+  - name: CGconnect (CGarchitect)
+    url: https://www.cgarchitect.com/
+    description: ArchViz industry hub. Community forums, news, and feedback for architectural visualization pros.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - ArchViz
+      - Industry
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+  - name: Indian Design Community (Slack)
+    url: https://slofile.com/slack/indiandesigncommunity
+    description: Slack community for India-based UI, UX, graphic, and product designers. Portfolio shares, feedback, and industry discussion.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - India
+      - Design
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Graphic Design Discord
+    url: https://discord.com/invite/graphicdesign
+    description: Discord's flagship design community. Graphic, 3D, UI/UX, video, illustration. Daily marketplace and contests.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Design
+      - Discord
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Design Squad - UX Community
+    url: https://discord.com/invite/design-squad-ux-community-808005473290289172
+    description: UX researchers, strategists, and product designers. Community for UX/product practice.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - UX
+      - Product Design
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Young Designers India
+    url: https://discord.com/invite/young-designers-india-690519036169027636
+    description: India Discord (~2.7K) for young design talent. Career advice, job opportunities, weekly events across design fields.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - India
+      - Design
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Design Buddies
+    url: https://designbuddies.community/
+    description: Inclusive design community. Workshops, mentor talks, portfolio reviews, and meetups for designers.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Design
+      - Community
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+  - name: Movies & Filmmaking Discord
+    url: https://discord.com/invite/movies
+    description: Largest film/filmmaking Discord (~92K). Discussions, Letterboxd integration, filmmaker Q&As.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Filmmaking
+      - Discord
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: 3D Character Workshop
+    url: https://www.3dcharacterworkshop.com/
+    description: Active community for stylized character sculpting. Challenges, WIPs, tips at every level.
+    entry_type: community
+    license: Freemium
+    readme_tags:
+      - Character Art
+      - Sculpting
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web

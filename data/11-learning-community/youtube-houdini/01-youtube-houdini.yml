@@ -10,6 +10,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       tech:
         - houdini
       platform:
@@ -27,6 +29,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - fx
+      output:
+        - film-vfx
       tech:
         - houdini
       platform:
@@ -37,6 +43,8 @@ entries:
     entry_type: channel
     license: Free
     tags:
+      output:
+        - film-vfx
       tech:
         - houdini
       skill:
@@ -59,6 +67,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - fx
+      output:
+        - film-vfx
       tech:
         - houdini
         - procedural
@@ -70,6 +82,10 @@ entries:
     entry_type: channel
     license: Free
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - motion-graphics
       tech:
         - houdini
         - procedural
@@ -91,6 +107,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       tech:
         - houdini
       platform:
@@ -106,6 +124,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - fx
+      output:
+        - film-vfx
       tech:
         - houdini
       platform:
@@ -121,6 +143,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - fx
+      output:
+        - film-vfx
       tech:
         - houdini
       platform:
@@ -136,6 +162,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       tech:
         - houdini
       platform:
@@ -151,6 +179,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - fx
+      output:
+        - film-vfx
       tech:
         - houdini
       platform:
@@ -166,6 +198,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - simulation
+      output:
+        - film-vfx
       tech:
         - houdini
         - procedural
@@ -173,7 +209,7 @@ entries:
         - web
   - name: Auto Cache Out Tool
     url: https://www.youtube.com/@ron4431
-    description: Auto Cache Out tool is for managing caches and.hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically ve
+    description: Houdini tool for managing caches and .hip files. Lays down the caching nodes and auto-creates render output directories.
     entry_type: channel
     license: Free
     readme_tags:
@@ -182,6 +218,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       tech:
         - houdini
       platform:

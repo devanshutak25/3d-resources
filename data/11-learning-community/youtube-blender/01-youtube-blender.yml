@@ -10,6 +10,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -20,6 +22,8 @@ entries:
     entry_type: channel
     license: Free
     tags:
+      output:
+        - generalist
       skill:
         - beginner
       tech:
@@ -42,6 +46,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       tech:
         - blender
       platform:
@@ -57,6 +63,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       tech:
         - blender
       platform:
@@ -72,6 +80,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -104,6 +114,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -119,6 +131,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -131,6 +145,8 @@ entries:
     tags:
       workflow:
         - modeling
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -152,6 +168,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
       tech:
         - blender
       platform:
@@ -167,6 +185,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - illustration
       tech:
         - blender
       platform:
@@ -182,6 +202,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
       tech:
         - blender
       platform:
@@ -197,6 +219,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       skill:
         - beginner
       tech:
@@ -214,6 +238,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -229,6 +257,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       skill:
         - beginner
       tech:
@@ -247,6 +277,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
       tech:
         - blender
         - node-based
@@ -264,13 +298,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
       tech:
         - blender
       platform:
         - web
   - name: 3DCoat Training Channel
     url: https://www.youtube.com/@3DCoatTrainingChannel
-    description: 3DCoat now has native support of Blender via built-in AppLink.
+    description: 3DCoat sculpting and texturing tutorials, with native Blender AppLink workflow.
     entry_type: channel
     license: Free
     readme_tags:
@@ -279,11 +317,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: YanSculpts' Channel
     url: https://www.youtube.com/channel/UCfjswDVU0XHyBN7UFG0Mi5Q/videos
-    description: YanSculpts' Channel.
+    description: Blender sculpting tutorials.
     entry_type: channel
     license: Free
     readme_tags:
@@ -292,13 +332,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
         - web
   - name: Modeling a character BaseMesh in Blender
     url: https://www.youtube.com/@sociamix
-    description: Modeling a character BaseMesh in Blender.
+    description: Character base-mesh modeling in Blender.
     entry_type: channel
     license: Free
     readme_tags:
@@ -307,13 +349,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
         - web
   - name: How to composite renders in Blender
     url: https://www.youtube.com/@BlenderBrit
-    description: How to composite renders in Blender.
+    description: Compositing Blender renders.
     entry_type: channel
     license: Free
     readme_tags:
@@ -322,13 +366,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
       tech:
         - blender
       platform:
         - web
   - name: Blender Render Passes and Very Basic Compositing
     url: https://www.youtube.com/@KevBinge
-    description: Blender Render Passes and Very Basic Compositing.
+    description: Blender render passes and basic compositing.
     entry_type: channel
     license: Free
     readme_tags:
@@ -337,13 +385,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
       tech:
         - blender
       platform:
         - web
   - name: Render Passes in Blender - What are they and why even use them?
     url: https://www.youtube.com/@DylanNeill3D
-    description: Render Passes in Blender - What are they and why even use them?.
+    description: What Blender render passes are and why to use them.
     entry_type: channel
     license: Free
     readme_tags:
@@ -352,13 +404,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
       tech:
         - blender
       platform:
         - web
   - name: How to use blender's compositor to improve a rendered frame sequence
     url: https://www.youtube.com/@garagefarmacademy
-    description: How to use blender's compositor to improve a rendered frame sequence.
+    description: Using Blender's compositor to improve a rendered frame sequence.
     entry_type: channel
     license: Free
     readme_tags:
@@ -367,13 +423,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
       tech:
         - blender
       platform:
         - web
   - name: Blender Compositor for Post Processing
     url: https://www.youtube.com/@RenderRides
-    description: Blender Compositor for Post Processing.
+    description: Blender compositor for post-processing.
     entry_type: channel
     license: Free
     readme_tags:
@@ -382,6 +442,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
       tech:
         - blender
       platform:
@@ -397,13 +461,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
         - web
   - name: Gleb Alexandrov
     url: https://www.youtube.com/@GlebAlexandrov
-    description: One of the best-known blender channel on youtube.
+    description: Well-known Blender lighting and rendering channel (Gleb Alexandrov).
     entry_type: channel
     license: Free
     readme_tags:
@@ -412,6 +478,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -427,6 +495,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -442,6 +512,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -457,6 +529,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: Blender NPR
@@ -470,6 +544,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - illustration
       tech:
         - blender
       platform:
@@ -485,6 +561,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -500,6 +578,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
       tech:
         - blender
       platform:
@@ -515,6 +595,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       tech:
         - blender
       platform:
@@ -530,6 +612,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -545,6 +629,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       tech:
         - blender
       platform:
@@ -560,6 +646,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       tech:
         - blender
       platform:
@@ -575,6 +663,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -590,6 +680,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -605,6 +697,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
       tech:
         - blender
       platform:
@@ -620,6 +714,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -635,6 +731,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       platform:
@@ -650,15 +748,27 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
       tech:
         - blender
       platform:
         - web
   - name: Blender Sushi
     url: https://blendersushi.blogspot.com/
-    description: Collection of 3D ideas, poetries and experiments blended in Blender 3D.
+    description: 3D ideas, experiments and generative work in Blender.
     license: Free
     entry_type: channel
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      tech:
+        - blender
+      platform:
+        - web

@@ -1,6 +1,34 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-13 (PAUSED). §07/§02/§04/§06/§08 COMPLETE. §01 ASSETS IN PROGRESS — P1–P6 done, RESUME AT P7.**
+**Status as of 2026-06-15. §10/§07/§02/§04/§06/§08/§01/§09/§05 COMPLETE. §11 IN PROGRESS (Phases A + B + C of 4 done). NEXT: §11 Phase D, then §11 relocation pass, then §03 animation. DEFERRED: §10 NeRF/GS paper-dump dedup+relocation overlap with §09 papers.**
+
+## §11 PHASE C DONE (2026-06-15) — communities-forums split + enrich (159→158 ent)
+Split over-cap `communities-forums/02` (119) into 3 thematic chunks (kept 02, new 04 + 05); bumped `chunks: 3→5` in `data/11-learning-community.yml`.
+- **02 = Blender + general 3D + AI/dev (33);  04 = Houdini/C4D/motion/games/XR-VP (46);  05 = VFX/animation/concept-illustration/archviz/design (39).** Chunk 01 untouched-by-split (37) + 03 (3). All ≤50.
+- Fixed 6 empty `tags:{}` + 1 missing license (Blender Stack Exchange → Free). **DEDUP:** dropped `realtimevfx.com` (exact-URL dup of "Real Time VFX"). Cleaned 9 link-salad/badge descs in chunk 01.
+- §11 empty tags 7→1 (the 1 = architecture-viz, Phase D). Validation ✓ 365, 0 errors. Uncommitted.
+
+## §11 PHASE B DONE (2026-06-15) — paid-tutorial-platforms 01+02 + patreon-creators (112 ent)
+Both `paid-tutorial-platforms` chunks are misnamed junk-drawers (mostly FREE channels/courses/dev-libs, not paid platforms) — enriched in place, naming left as-is (out of scope). Explore baseline report was stale (claimed 1 empty-tags; actual 0).
+- **patreon/01 (18):** output 0→14 (motion-graphics for motion designers; generalist for NewPlastic), skill 0→3 (advanced on Houdini pros Entagma/Kunz/Rutledge), 16 restater "Patreon. <Name>." descs → focus-based.
+- **paid/01 (50):** output 0→~37, skill 0→~40, platform 50/50. RELOCATE flags added (enrich-in-place): **OpenEXR + Open Color IO + OpenCue** (`tutorial`→`reference`, → §10 pipeline) + **Importance Sampling** PDF (→ §09 papers). Retyped Learn OpenGL + Pixel logic `tutorial`→`book`. Fixed "omeroy"→"Pomeroy" + ~12 descs.
+- **paid/02 (44):** output 0→~36, skill 0→~44, workflow added, platform 44/44. ~12 restater descs fixed. Theory/math entries left output-less (medium-agnostic).
+- **Coverage:** paid platform 94/94, output 84/94, skill 89/94; patreon platform 18/18, output 14/18; empty-tags 0. Validation ✓ **365 warnings** (+43 = benign freeform-tech + cross-chunk-dupe; 0 errors). Uncommitted.
+- **NEW RELOCATE flags (resolve in §11 relocation pass):** OpenEXR/OpenColorIO/OpenCue → §10; Importance Sampling → §09 papers.
+
+## §11 LEARNING-COMMUNITY IN PROGRESS (2026-06-15, Phase A done)
+436 ent / 15 chunk files / 11 subsections. Baseline platform 94%, **output 20% (headline gap)**, workflow 9%, skill 1%, license 89%; 8 empty tags{}; over-cap `communities-forums/02` = 119 ent. Plan: `~/.claude/plans/make-plan-to-do-tidy-wave.md`. User forks: scope §11 only; **split the 119-chunk during Phase C**; **cluster by theme** (4 phases). All edits UNCOMMITTED (user commits).
+**§11 CONVENTIONS LOCKED:** platform almost all `web` (fill holes). **`output` is the win** — motion/C4D→`motion-graphics`, broad Blender/general-3D→`generalist`, VFX/compositing/FX→`film-vfx`, game-art/low-poly→`games`, NPR/cel/drawing/painting/concept→`illustration`, arch-viz→`archviz`. Don't force output on medium-agnostic hubs. `skill` on clearly-leveled educational only. `workflow` only where honest (no `motion-graphics` workflow value).
+**Phases (✓ = done):**
+- **Phase A YouTube channels (109 ent / 5 files) ✓** — youtube-motion-c4d/01 (28, already 100%, untouched); youtube-blender/01 (44: output 0→44, workflow +11, empty-tags fixed, 9 restater descs); youtube-houdini/01 (12: output 0→12, fx/sim workflow, fixed Auto Cache Out truncation); youtube-houdini/02 (14: output/workflow/skill/tech on 13; talks→generalist+advanced, FX→film-vfx); youtube-sculpting-characters/01 (11: output 0→11, illustration for drawing/concept, generalist for 3D sculpt). All 4 changed files 100% output+platform, 0 empty-tags. Validation ✓ 322 (+8 benign houdini freeform-tech).
+- **Phase B paid+patreon (112 ent / 3 files) — ✓ DONE 2026-06-15** (see §11 PHASE B block at top).
+- **Phase C communities-forums (159 ent / 3 files → 5) — NOT STARTED (resume here).** 01 (37), 02 (**119 over-cap**), 03 (3). Enrich (6 empty tags{} in 02) + **split 02 into ≤50 chunks** (02 + new 04 + 05, thematic) + **bump chunks counter for communities-forums in data/11-learning-community.yml** (3→5; mirrors 2026-06-12 §02 precedent). output:games on game-art communities.
+- **Phase D inspiration+career+trends (56 ent / 4 files) — NOT STARTED.** inspiration-showcase/01 (44), architecture-viz/01 (3, 1 empty tags), salary-career-data/01 (3), industry-trends/01 (6). output:illustration on portfolio feeds, archviz on arch-viz (+fix empty tag), film-vfx/broadcast on industry-trends; salary/career refs stay output-less.
+
+**No RELOCATE flags surfaced in §11 so far.** Per-phase protocol unchanged (read → recipe → validate → log → STOP).
+
+## §05 VFX COMPLETE (2026-06-15)
+Single phase (28 ent / 3 subsections < one §04 chunk; clean data, no junk). Baseline platform 3/28, output 11/28, skill 0/28. Enriched: platform on all (learning/channels/refs/books→web; Nuke plugins/dev tools→[win,mac,linux]); skill 0→14 on educational; output:film-vfx across compositing. **3 misfits relocated (user picks):** CasparCG→§05 virtual-production (intra, 1→2), Bino→§07 xr-ar-vr (25→26, fixed tech:xr→output:xr), Kiko→§10 misc-3d-utilities (30→31; §03 has no tool subsection). tech-art ends 10 ent. **§05 final (26 ent): platform 26/26 (100%), output 25, skill 14.** Validation ✓ 314, 0 RELOCATE flags, all chunks ≤50. NEXT: §11.
 
 ## §01 ASSETS IN PROGRESS (2026-06-13, paused after P6)
 269 ent / 17 chunk files / 16 subsections. Baseline platform 131/269 (~49%), workflow 144, output 164, license 246 (good), skill 0, empty-tags 5. Clustered phasing (user-confirmed): 7 enrichment phases + final relocation. Plan: `~/.claude/plans/make-plan-to-do-enchanted-steele.md`. All edits UNCOMMITTED (user commits). Validation ✓ 314 warnings throughout (baseline; +2 vs pre-§01 are new freeform-tech `substance`/`c4d`, benign).
@@ -202,27 +230,29 @@ Leave terse-but-correct descriptions + already-well-tagged entries alone. Chunks
 
 ## 7. First actions for next session
 
-**Immediate next task: the §04 RELOCATION PHASE** (see the §04 block at the very top of this file — §07, §02, and §04 enrichment are all COMPLETE).
+**Immediate next task: §11 PHASE C** (communities-forums + over-cap split). §11 Phases A + B are DONE (see §11 blocks at top). Plan file: `~/.claude/plans/make-plan-to-do-squishy-russell.md`.
 
 1. Read `project.md`, `CLAUDE.md`, all `memory/*`, and this file.
 2. Append the new user prompt to `memory/user-prompts.md` (protocol).
-3. **Run the §04 relocation phase** (only remaining §04 work). Batch-move all 8 flagged misfiles in one pass (mirror the 2026-06-12 §02 relocation precedent: pure move, no `dual_listed_in`, strip `notes` on move, decrement source `chunks` counts only if a whole chunk file is removed):
-   - chunk 02 → §12: **MoonRay** (render engine), **CopperLicht** (WebGL engine).
-   - chunk 04 → KodeLife → §12; **Photo tourism** → §09 photogrammetry; **Physics-Based Animation** → §06; **React Spring** → §06 (animation lib); **Let's remove Quaternions** → no clean home (ask user: §06 math, or drop the tag/leave).
-   - chunk 05 → **Takua Renderer** (`RELOCATE?`) → §04 `renderer-specific-learning` (confirm with user first; it may be fine to keep + just strip the note).
-   - Confirm exact target subsections with user before moving (some homes are ambiguous: shader-editor tools, math theory).
-4. Validate (`node scripts/validate.js` → ✓, 0 RELOCATE flags remain in §04), log to decisions.md + user-prompts.md + project.md §11, update this handoff, **stop** for confirmation.
-5. **Then continue worst-first to the next section: §06** → §08 → §01 → §09 (handle the NeRF/GS paper dumps + §10 overlap here, see §6.1 below) → §05 → §11 → §03. Re-confirm baseline facet coverage for §06 before starting and phase it chunk-by-chunk (user's standing preference).
+3. **Run §11 Phase D** — `data/11-learning-community/`: inspiration-showcase/01 (44) + architecture-viz/01 (3) + salary-career-data/01 (3) + industry-trends/01 (6).
+   - **User decision: merge the 3 architecture-viz entries** (Contemporist, Modlar, Blender 3D Architect) into communities-forums and/or inspiration-showcase (pure move; **remove the `architecture-viz` subsection from `data/11-learning-community.yml` once emptied** — drop its `- slug: architecture-viz` block, delete the empty dir/file). Add `output:archviz` on move.
+   - Enrich: `output:illustration` on portfolio/showcase feeds (inspiration-showcase); `film-vfx`/`broadcast` on industry-trends; **fix the 1 remaining §11 empty `tags:{}`** (in architecture-viz, clears on merge) + industry-trends empty tags + 2 missing licenses + the deprecated/broken Neural Rendering entry. Salary/career refs stay output-less.
+   - Validate, log, **stop**. **§11 enrichment then complete.**
+4. **Then §11 relocation pass** (4 RELOCATE flags, all in `paid-tutorial-platforms/01`, enriched in place): OpenEXR + Open Color IO + OpenCue → §10 pipeline; Importance Sampling → §09 papers. Pure move, strip `notes`. Validate (0 RELOCATE flags remain). **§11 fully complete.**
+5. After §11 closes: **§03 animation** (12 ent: ai-motion-capture/01 4 + animation-learning-channels/01 8; animation-courses/01 empty stub — leave+flag). Single phase, its own plan. DEFERRED: §10 NeRF/GS paper-dump dedup+relocation overlap with §09 papers.
+
+**§11 Phase C is DONE** (see "§11 PHASE C DONE" block near top). communities-forums now 5 chunks (01=37, 02=33, 03=3, 04=46, 05=39), `chunks: 5` set.
 
 ## 8. Quick state-check commands
 
 ```bash
-node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (baseline 312 warnings as of §04 done)
-# facet coverage for a section (swap in the target dir, e.g. data/06-... for §06):
-for x in workflow platform output skill; do echo "$x: $(grep -rh "^      $x:" data/<section>/ | wc -l)"; done
-grep -rn 'RELOCATE' data/04-lighting/                    # §04 relocation flags still pending (expect 8 until moved)
-grep -rho 'tags: {}' data/<section>/ | wc -l              # empty-tag count (target 0)
-grep -rn '\[!\[\|bibtex' data/<section>/                  # junk scan (target none)
+node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (baseline 365 warnings as of §11 Phase C; freeform-tech + cross-chunk-dupe, benign)
+# facet coverage for §11 (or swap dir):
+for x in workflow platform output skill; do echo "$x: $(grep -rh "^      $x:" data/11-learning-community/ | wc -l)"; done
+grep -rcn '^  - name:' data/11-learning-community/communities-forums/*.yml   # entries per chunk (each must be ≤50 after split)
+grep -rho 'tags: {}' data/11-learning-community/ | wc -l  # empty-tag count (target 0)
+grep -rn 'RELOCATE' data/11-learning-community/           # open §11 relocation flags (expect 4 until moved)
+grep -rn '\[!\[\|bibtex' data/11-learning-community/      # junk scan (target none)
 ```
 
 Do NOT rebuild `_site/` or `README.md` (generated; user commits + builds separately).

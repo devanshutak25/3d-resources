@@ -1,7 +1,7 @@
 entries:
   - name: Merk
     url: https://www.patreon.com/merkvilson
-    description: Patreon. Merk.
+    description: Patreon. Blender and motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -10,11 +10,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: msedov
     url: https://www.patreon.com/msedov
-    description: Patreon. Msedov.
+    description: Patreon. Blender motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -23,11 +25,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: The French Monkey
     url: https://www.patreon.com/TFMStyle
-    description: Patreon. The French Monkey.
+    description: Patreon. C4D motion design and assets.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -36,11 +40,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Xuxoe
     url: https://www.patreon.com/xuxoe
-    description: Patreon. Xuxoe.
+    description: Patreon. Motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -49,11 +55,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: MotionPunk
     url: https://www.patreon.com/motionpunk
-    description: Patreon. MotionPunk.
+    description: Patreon. Motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -62,11 +70,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Dusan Vukcevic
     url: https://www.patreon.com/vudu
-    description: Patreon. Dusan Vukcevic.
+    description: Patreon. Motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -75,11 +85,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Vincent Schwenk (Patreon)
     url: https://www.patreon.com/vincentschwenk
-    description: Patreon. Vincent Schwenk.
+    description: Patreon. Motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -88,11 +100,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Entagma (Patreon)
     url: https://www.patreon.com/entagma
-    description: Patreon. Entagma.
+    description: Patreon. Procedural and generative Houdini techniques.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -101,11 +115,20 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - motion-graphics
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - houdini
+        - procedural
   - name: Arthur Whitehead (Patreon)
     url: https://www.patreon.com/arthurwhitehead
-    description: Patreon. Arthur Whitehead.
+    description: Patreon. Motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -114,11 +137,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Philiplueck
     url: https://www.patreon.com/philiplueck
-    description: Patreon. Philiplueck.
+    description: Patreon. Motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -127,11 +152,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Kaeptive
     url: https://www.patreon.com/Kaeptive
-    description: Patreon. Kaeptive.
+    description: Patreon. Motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -140,11 +167,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Jesus Suarez
     url: https://www.patreon.com/jssuarez
-    description: Patreon. Jesus Suarez.
+    description: Patreon membership for creator Jesus Suarez.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -157,7 +186,7 @@ entries:
         - web
   - name: NewPlastic
     url: https://www.patreon.com/NewPlastic
-    description: Patreon. NewPlastic.
+    description: Patreon. Stylized 3D art.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -166,11 +195,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: Max Salzborn
     url: https://www.patreon.com/maxsalzborn
-    description: Patreon. Max Salzborn.
+    description: Patreon. Motion design and loop animation.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -179,11 +210,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Gonzzzalo
     url: https://www.patreon.com/gonzzzalo
-    description: Patreon. Gonzzzalo.
+    description: Patreon membership for creator Gonzzzalo.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -196,7 +229,7 @@ entries:
         - web
   - name: Ross Mason (Patreon)
     url: https://www.patreon.com/iamrossmason
-    description: Patreon. Ross Mason.
+    description: Patreon. Motion design.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -205,11 +238,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: John Kunz (Patreon)
     url: https://patreon.com/johnkunz
-    description: Patreon. John Kunz.
+    description: Patreon. Houdini techniques.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -218,11 +253,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - houdini
   - name: Christopher Rutledge (Patreon)
     url: https://www.patreon.com/tokyomegaplex
-    description: Patreon. Christopher Rutledge.
+    description: Patreon. Houdini techniques.
     entry_type: channel
     license: Paid
     readme_tags:
@@ -231,5 +270,9 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - houdini

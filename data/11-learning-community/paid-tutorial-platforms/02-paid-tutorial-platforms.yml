@@ -1,7 +1,7 @@
 entries:
   - name: Default Cube
     url: https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ/videos
-    description: CGMatter's second channel used for longer tutorials and other kinds of videos.
+    description: CGMatter's second channel for longer Blender tutorials.
     license: Free
     entry_type: channel
     readme_tags:
@@ -10,11 +10,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      skill:
+        - intermediate
       platform:
         - web
   - name: CG Cookie
     url: https://www.youtube.com/@cg_cookie
-    description: Free tutorials from [CG Cookie](https://cgcookie.com/).
+    description: Free Blender tutorials from CG Cookie.
     license: Free
     entry_type: channel
     readme_tags:
@@ -23,11 +27,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      skill:
+        - beginner
       platform:
         - web
   - name: Technical Art & Materials
     url: https://www.youtube.com/@BenCloward/videos
-    description: Tutorials by Ben Cloward.
+    description: Real-time shader and material tutorials by Ben Cloward.
     license: Free
     entry_type: channel
     readme_tags:
@@ -36,11 +44,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - look-dev
+      output:
+        - games
+      skill:
+        - intermediate
       platform:
         - web
   - name: Create the Most AMAZING Animations with Rive
     url: https://www.youtube.com/@DesignCourse
-    description: Crash Course (DesignCourse).
+    description: Rive animation crash course by DesignCourse.
     license: Free
     entry_type: channel
     readme_tags:
@@ -49,11 +63,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
+      skill:
+        - beginner
       platform:
         - web
   - name: Build iOS app with Rive Animations
     url: https://www.youtube.com/@DesignCodeTeam
-    description: A full 3-hour course showcasing how to build a SwiftUI app with Rive animations.
+    description: Three-hour course on building a SwiftUI app with Rive animations.
     license: Free
     entry_type: channel
     readme_tags:
@@ -62,11 +80,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
+      skill:
+        - intermediate
       platform:
         - web
   - name: Unreal tutorial for Rive + Noesis
     url: https://www.youtube.com/@NoesisTechnologies
-    description: Tutorial on how to add Rive to your Unreal games using Noesis.
+    description: Adding Rive to Unreal games using Noesis.
     license: Free
     entry_type: channel
     readme_tags:
@@ -75,11 +97,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      skill:
+        - intermediate
       platform:
         - web
+      tech:
+        - unreal
   - name: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus
     url: https://www.youtube.com/@BunnyGunGames
-    description: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus.
+    description: Unity EditorVR hello-world walkthrough featuring Oculus.
     license: Free
     entry_type: channel
     readme_tags:
@@ -88,11 +116,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - xr
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - unity
   - name: Unity 3D Steam VR Video Tutorial Series
     url: https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q
-    description: Unity 3D Steam VR Video Tutorial Series.
+    description: Unity SteamVR video tutorial series.
     license: Free
     entry_type: channel
     readme_tags:
@@ -101,11 +135,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - xr
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - unity
   - name: DebugLog HTC Vive Unity 3D Steam VR Video Tutorial
     url: https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g
-    description: DebugLog HTC Vive Unity 3D Steam VR Video Tutorial.
+    description: HTC Vive SteamVR tutorials in Unity.
     license: Free
     entry_type: channel
     readme_tags:
@@ -114,11 +154,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - xr
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - unity
   - name: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render
     url: https://www.youtube.com/@TaylorShockey
-    description: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render.
+    description: HTC Vive SteamVR tutorial covering teleport, ProBuilder and the Lab Renderer.
     license: Free
     entry_type: channel
     readme_tags:
@@ -127,11 +173,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - xr
+      skill:
+        - intermediate
       platform:
         - web
+      tech:
+        - unity
   - name: 'Unity + Vive Tutorial: Beginners'
     url: https://www.youtube.com/@VRwithAndrew
-    description: 'Unity + Vive Tutorial: Beginners.'
+    description: Beginner Unity and Vive VR tutorials.
     license: Free
     entry_type: channel
     readme_tags:
@@ -140,11 +192,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - xr
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - unity
   - name: Vive Tutorial - Intro / UI | Unity VR (VRTK)
     url: https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ
-    description: '[GitHub Repo](https://github.com/SyntonicApps/unity-vrtk-examples).'
+    description: Unity VR UI tutorial using VRTK.
     license: Free
     entry_type: channel
     readme_tags:
@@ -153,11 +211,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - xr
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - unity
   - name: RMA Houdini Tutorials
     url: https://www.youtube.com/@RMAFIRE
-    description: RMA Houdini Tutorials.
+    description: Houdini tutorials by RMA.
     license: Free
     entry_type: channel
     readme_tags:
@@ -166,11 +230,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      skill:
+        - intermediate
       platform:
         - web
+      tech:
+        - houdini
   - name: Add VFX to Cinematic RAW and LOG Footage
     url: https://www.youtube.com/@InLightVFX
-    description: Add VFX to Cinematic RAW and LOG Footage.
+    description: Adding VFX to cinematic RAW and LOG footage.
     license: Free
     entry_type: channel
     readme_tags:
@@ -179,11 +249,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      skill:
+        - intermediate
       platform:
         - web
   - name: AAA Ghibli Forest in Blender & Unreal ~ ShinGidora
     url: https://www.youtube.com/@ShinGidora
-    description: Good tips, though is promotion for his TREEBOX commercial script.
+    description: Stylized environment tips, partly promoting his TREEBOX commercial script.
     license: Free
     entry_type: channel
     readme_tags:
@@ -192,11 +268,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      skill:
+        - intermediate
       platform:
         - web
+      tech:
+        - blender
+        - unreal
   - name: I Nailed the Anime Look ~ SILKROAD Project
     url: https://www.youtube.com/@SilkroadProjectGame
-    description: Outline & shadows part of UV, not filter.
+    description: Anime outlines and shadows done in UV space rather than as a filter.
     license: Free
     entry_type: channel
     readme_tags:
@@ -205,8 +288,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - houdini
   - name: Many techniques available for Stylized Grass ~ Ghislain Girardot
     url: https://www.youtube.com/@ghislaingirardot
     description: Stylized grass techniques in Blender.
@@ -218,11 +307,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      skill:
+        - intermediate
       platform:
         - web
+      tech:
+        - blender
   - name: Environment Art Breakdown ~ Stylized Station
     url: https://www.youtube.com/@StylizedStation
-    description: By Melissa Perl.
+    description: Environment art breakdown by Melissa Perl.
     license: Free
     entry_type: channel
     readme_tags:
@@ -231,11 +326,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      skill:
+        - intermediate
       platform:
         - web
   - name: Material Ambient Occlusion ~ William Faucher
     url: https://www.youtube.com/@WilliamFaucher
-    description: Bake Ambient Occlusion maps onto models.
+    description: Baking ambient occlusion maps onto models in Unreal.
     license: Free
     entry_type: channel
     readme_tags:
@@ -244,11 +343,19 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - look-dev
+      output:
+        - games
+      skill:
+        - intermediate
       platform:
         - web
+      tech:
+        - unreal
   - name: BOOST Foliage Performance ~ Joshua M Kerr
     url: https://www.youtube.com/@JoshuaMKerr
-    description: World offset in material.
+    description: Foliage performance via world position offset in materials.
     license: Free
     entry_type: channel
     readme_tags:
@@ -257,11 +364,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - unreal
   - name: Animators React to KPop Demon Hunters - ft. THE DIRECTORS ~ Corridor Crew
     url: https://www.youtube.com/@CorridorCrew
-    description: Animation reactions and breakdowns.
+    description: Animation and VFX reactions and breakdowns.
     license: Free
     entry_type: channel
     readme_tags:
@@ -270,11 +383,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
+      skill:
+        - beginner
       platform:
         - web
   - name: Dean Yurke - Unreal Engine and VFX Filmmaking
     url: https://www.youtube.com/@DeanYurke
-    description: Pro movie VFX artist explains his process.
+    description: Pro movie VFX artist explains his Unreal filmmaking process.
     license: Free
     entry_type: channel
     readme_tags:
@@ -283,11 +400,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - unreal
   - name: 'Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte'
     url: https://www.youtube.com/@kibibytecompany
-    description: Custom look, LUTs, etc.
+    description: Custom Unreal looks via LUTs and disabling the tonemapper.
     license: Free
     entry_type: channel
     readme_tags:
@@ -296,11 +419,19 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - look-dev
+      output:
+        - film-vfx
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - unreal
   - name: 25 Tips and Tricks ~ Unreal University
     url: https://www.youtube.com/@UnrealUniversity
-    description: Mostly shortcuts.
+    description: Unreal Engine shortcuts and tips.
     license: Free
     entry_type: channel
     readme_tags:
@@ -309,11 +440,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - unreal
   - name: Tony Munoz | Game Creator Accelerator
     url: https://www.youtube.com/@TonyMunozDev
-    description: Unreal Engine 5.7 Preview.
+    description: Unreal Engine game development tutorials.
     license: Free
     entry_type: channel
     readme_tags:
@@ -322,11 +459,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      skill:
+        - intermediate
       platform:
         - web
+      tech:
+        - unreal
   - name: Hunyuan 2.1 Install Guide ~ Stefan 3D AI Lab
     url: https://www.youtube.com/@stefan_ai_3d
-    description: ComfyUI install guide ([text guide](https://digital-tails.notion.site/Hunyuan3D-2-1-Installation-Guide-2372bcde81ff80438d0efc90fc59ddb7)).
+    description: ComfyUI install guide for Hunyuan 3D 2.1.
     license: Free
     entry_type: channel
     readme_tags:
@@ -335,11 +478,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      skill:
+        - intermediate
       platform:
         - web
+      tech:
+        - ai-generative
   - name: CHEAPEST Motion Capture Setup for Metahumans ~ Charlie Driscoll
     url: https://www.youtube.com/@CharlieDriscollFilm
-    description: For filmmaking.
+    description: Budget motion capture setup for MetaHumans, aimed at filmmaking.
     license: Free
     entry_type: channel
     readme_tags:
@@ -348,11 +497,19 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      skill:
+        - intermediate
       platform:
         - web
+      tech:
+        - unreal
   - name: Tutorial from the authors of 3DGS
     url: https://3dgstutorial.github.io/
-    description: Tutorial from the authors of 3DGS.
+    description: Gaussian splatting tutorial from the authors of 3DGS.
     license: Free
     entry_type: tutorial
     readme_tags:
@@ -361,11 +518,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - gaussian-splatting
   - name: Create 3D Graphics in JS Using WebGL
     url: https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl
-    description: Get started creating content with WebGL without any frameworks.
+    description: Getting started with WebGL content without any frameworks.
     license: Free
     entry_type: tutorial
     readme_tags:
@@ -374,11 +537,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      skill:
+        - intermediate
       platform:
         - web
   - name: Character Customization Tutorial
     url: https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial
-    description: This is the finished project of part 4 of the tutorial series for using blendshapes for character customization in Unity3D.
+    description: Finished project for a Unity blendshape character customization tutorial series.
     license: Free
     entry_type: reference
     readme_tags:
@@ -387,13 +556,21 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - games
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
-        - opensource-alt
+        - unity
     stale: true
     last_pushed: '2020-07-20'
   - name: Roll A-Ball ECS Style
     url: https://github.com/KptEmreU/Roll-A-Ball-ECS-style
-    description: Recreation of Unity Roll-A-Ball tutorial using Entity Component System.
+    description: Unity Roll-A-Ball tutorial recreated with the Entity Component System.
     license: Free
     entry_type: reference
     readme_tags:
@@ -402,13 +579,21 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - games
+      skill:
+        - advanced
+      platform:
+        - web
       tech:
-        - opensource-alt
+        - unity
     stale: true
     last_pushed: '2019-02-06'
   - name: 'GitHub: mixandjam'
     url: https://github.com/mixandjam
-    description: Unity video tutorials on Youtube.
+    description: Source for the mix and jam Unity video tutorials.
     license: Free
     entry_type: reference
     readme_tags:
@@ -417,11 +602,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
+      skill:
+        - intermediate
+      platform:
+        - web
       tech:
-        - opensource-alt
+        - unity
   - name: Computer Graphics
     url: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/
-    description: Ray tracing, animation, and so on at MIT in fall 2012.
+    description: MIT ray tracing and animation course, fall 2012.
     license: Free
     entry_type: tutorial
     readme_tags:
@@ -430,11 +621,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      skill:
+        - advanced
       platform:
         - web
   - name: 3D Computer Graphics Programming
     url: https://pikuma.com/courses/learn-3d-computer-graphics-programming
-    description: Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language.
+    description: Learn the theory and math behind 3D graphics by building a software renderer from scratch in C.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -443,11 +638,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      skill:
+        - intermediate
       platform:
         - web
   - name: Vector Math for 3D Computer Graphics
     url: http://programmedlessons.org/VectorLessons/
-    description: Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
+    description: Tutorial on vector and matrix algebra from a computer graphics viewpoint.
     license: Free
     entry_type: tutorial
     readme_tags:
@@ -456,6 +655,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      skill:
+        - intermediate
       platform:
         - web
   - name: MIT Inverse Rendering Lectures (Module 2)
@@ -469,11 +672,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - advanced
       platform:
         - web
   - name: WebGL Academy
     url: https://www.webglacademy.com/
-    description: Learn WebGL and 3D algorithmic in a progressive and interactive way.
+    description: Learn WebGL and 3D algorithms in a progressive, interactive way.
     license: Free
     entry_type: tutorial
     readme_tags:
@@ -482,11 +687,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      skill:
+        - beginner
       platform:
         - web
   - name: Two-minute explanation of 3DGS
     url: https://www.youtube.com/@IndividualKex
-    description: Two-minute explanation of 3DGS.
+    description: Two-minute explainer on 3D Gaussian splatting.
     license: Free
     entry_type: channel
     readme_tags:
@@ -495,11 +706,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - gaussian-splatting
   - name: Computerphile 3DGS explanation
     url: https://www.youtube.com/@Computerphile
-    description: Computerphile 3DGS explanation.
+    description: Computerphile explainer on 3D Gaussian splatting.
     license: Free
     entry_type: channel
     readme_tags:
@@ -508,11 +723,15 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - beginner
       platform:
         - web
+      tech:
+        - gaussian-splatting
   - name: 'Lecture 18: Monte Carlo Rendering (CMU 15-462/662)'
     url: https://www.youtube.com/@keenancrane
-    description: Including a very good introduction of importance sampling.
+    description: Monte Carlo rendering lecture with a strong introduction to importance sampling.
     license: Free
     entry_type: channel
     readme_tags:
@@ -521,11 +740,13 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      skill:
+        - advanced
       platform:
         - web
   - name: Animation Programming Basics
     url: https://www.youtube.com/@BobbyAnguelov
-    description: Animation Programming Basics.
+    description: Basics of animation programming.
     license: Free
     entry_type: channel
     readme_tags:
@@ -534,11 +755,18 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+        - animation
+      output:
+        - games
+      skill:
+        - advanced
       platform:
         - web
   - name: Introduction to Machine Learning (Course)
     url: https://www.rebelway.net/introduction-to-machine-learning
-    description: Full Rebelway ML course.
+    description: Full Rebelway machine learning course.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -547,8 +775,14 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
+      skill:
+        - advanced
       platform:
         - web
+      tech:
+        - ai-ml
   - name: Domestika
     url: https://www.domestika.org/
     description: Creative arts courses.
@@ -560,6 +794,10 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     tags:
+      output:
+        - generalist
+      skill:
+        - beginner
       platform:
         - web
     deprecated: true
@@ -579,6 +817,10 @@ entries:
         - texturing
         - lighting
         - rendering
+      output:
+        - generalist
+      skill:
+        - intermediate
       platform:
         - web
       tech:

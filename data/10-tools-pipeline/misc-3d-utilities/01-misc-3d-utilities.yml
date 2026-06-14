@@ -498,3 +498,19 @@ entries:
         - web
       tech:
         - blender
+  - name: Kiko
+    url: https://github.com/Toolchefs/kiko
+    description: DCC-agnostic animation-curve interchange. Transfers curves between Maya and Nuke.
+    entry_type: tool
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      tech:
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
