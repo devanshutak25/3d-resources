@@ -68,3 +68,17 @@ entries:
         - web
       skill:
         - intermediate
+  - name: Stable Animation SDK
+    url: https://stability.ai/blog/stable-animation-sdk
+    description: Text-to-animation SDK for developers by Stability AI.
+    license: Paid
+    entry_type: software
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+      platform:
+        - web

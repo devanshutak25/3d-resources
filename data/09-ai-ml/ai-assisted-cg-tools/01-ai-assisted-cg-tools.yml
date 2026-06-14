@@ -372,3 +372,17 @@ entries:
         - win
         - mac
         - linux
+  - name: UneeQ Digital Humans
+    url: https://www.digitalhumans.com/
+    description: Cloud platform for real-time interactive digital humans.
+    license: Paid
+    entry_type: software
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+      workflow:
+        - concept
+      platform:
+        - web

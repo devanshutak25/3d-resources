@@ -413,3 +413,41 @@ entries:
         - win
         - mac
         - linux
+  - name: Mixamo Converter
+    url: https://github.com/enziop/mixamo_converter
+    description: Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - blender-addon
+        - unreal-plugin
+    stale: true
+    last_pushed: '2024-03-01'
+  - name: USDZ
+    url: https://github.com/robmcrosby/BlenderUSDZ
+    description: Blender addon to export USDZ files.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - blender-addon
+        - usd

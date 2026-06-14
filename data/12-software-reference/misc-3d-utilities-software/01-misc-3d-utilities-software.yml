@@ -11,9 +11,6 @@ entries:
         - rendering
       output:
         - xr
-    notes: RELOCATE. VR webspace platform, not rendering/shader theory.
-    dual_listed_in:
-      - lighting-rendering-shaders/rendering-shader-theory
   - name: Polygonjs
     url: https://polygonjs.com
     description: Node-based WebGL design tool, used for procedural geometry, particles, materials
@@ -25,7 +22,6 @@ entries:
       workflow:
         - rendering
         - material-authoring
-    notes: RELOCATE. Node-based WebGL DCC, belongs in §12 software.
     dual_listed_in:
       - lighting-rendering-shaders/rendering-shader-theory
   - name: Lightmap HDR Light Studio

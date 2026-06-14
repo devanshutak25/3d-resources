@@ -804,7 +804,6 @@ entries:
       - Multi-Engine
     url_last_verified: '2026-06-01'
     url_status: ok
-    notes: RELOCATE. Entry_type 'software' belongs in §12 software table.
     dual_listed_in:
       - game-development/game-dev-ai-procedural
   - name: Articy:draft

@@ -4,15 +4,16 @@ entries:
     description: Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
     entry_type: software
     license: Open Source
-    notes: RELOCATE - Photogrammetry suite, unrelated to Blender. Move to photogrammetry section.
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
       tech:
         - photogrammetry
         - opensource-alt
-    dual_listed_in:
-      - modeling-sculpting-texturing/blender-plugins-addons
+      platform:
+        - win
+        - mac
+        - linux
   - name: Meshroom (AliceVision)
     url: https://alicevision.org/#meshroom
     description: Free, open-source photogrammetry. Node-based, GPU-accelerated.

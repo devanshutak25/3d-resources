@@ -84,3 +84,22 @@ entries:
         - web
       skill:
         - intermediate
+  - name: Ashawkey/stable Dreamfusion
+    url: https://github.com/ashawkey/stable-dreamfusion
+    description: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+    license: Open Source
+    entry_type: software
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+    stale: true
+    last_pushed: '2023-12-10'

@@ -195,7 +195,6 @@ entries:
     license: Free
     entry_type: software
     best_for: Batch image conversion
-    notes: RELOCATE. Entry_type software belongs in §12 software table, not tools
     readme_tags:
       - Batch
       - 80+ Actions
@@ -214,7 +213,6 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Video encoding
-    notes: RELOCATE. Entry_type software belongs in §12 software table
     readme_tags:
       - H.265/AV1
       - Open Source
@@ -231,7 +229,6 @@ entries:
     license: Free
     entry_type: software
     best_for: Pro video encoding GUI
-    notes: RELOCATE. Entry_type software belongs in §12 software table
     readme_tags:
       - FFmpeg GUI
       - Pro Presets
@@ -250,7 +247,6 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Batch audio conversion
-    notes: RELOCATE. Entry_type software belongs in §12 software table
     readme_tags:
       - Audio Batch
       - Open Source
@@ -267,7 +263,6 @@ entries:
     license: Open Source
     entry_type: software
     best_for: HDR workflow
-    notes: RELOCATE. Entry_type software belongs in §12 software table
     tags:
       workflow:
         - lighting

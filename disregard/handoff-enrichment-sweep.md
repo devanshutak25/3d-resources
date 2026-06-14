@@ -1,6 +1,14 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-15. §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE (all sections done; §12 was pre-done). DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4). All catalog work done. Remaining repo work = publication/launch only (pub_plan Part 2 / project.md §11). All edits uncommitted (user commits).**
+**Status as of 2026-06-15. §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE + DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4) + LEFTOVER §12/§10 RELOCATE FLAG CLEARANCE COMPLETE. `grep RELOCATE/Misfit data/` = 0 catalog-wide → CATALOG FULLY FLAG-FREE. All catalog work done. Remaining repo work = publication/launch only (pub_plan Part 2 / project.md §11) + intentional empty stubs. All edits uncommitted (user commits).**
+
+## LEFTOVER §12/§10 RELOCATE FLAG CLEARANCE DONE (2026-06-15)
+Post-cleanup completeness check found 17 untracked RELOCATE/Misfit notes (§12 software-reference + §10 conversion-tools ×2; §12 was "pre-done" so its misfile relocations were never executed). Cleared in 4 buckets:
+- **A — 5 moves** (strip note + moot dual_listed_in): Mixamo Converter + USDZ (§10 conversion-tools → §02 blender-plugins-addons/01, 22→24); UneeQ Digital Humans → §09 ai-assisted-cg-tools/01 (junk desc rewritten, +platform web); Ashawkey/stable Dreamfusion → §09 3d-generation/01 (+platform [win,mac,linux]; distinct from DreamFusion paper in §09 papers/02); Stable Animation SDK → §09 video-generation/01 (link-salad desc cleaned, +platform web).
+- **B — dedup-delete:** MusicGen (§12 ai-image-software) deleted; §09 ai-audio-music/01 already has AudioCraft (MusicGen/AudioGen/EnCodec).
+- **C — bogus-mirror fix:** MicMac (§12 photogrammetry-software) — removed wrong `dual_listed_in: blender-plugins-addons` + note; +platform [win,mac,linux]. Canonical was already correct.
+- **D — 10 stale notes stripped in place:** viewers-file-utilities ×5, pipeline-software ×1, misc-3d-utilities-software ×2 (JanusVR — also removed its wrong shader-theory mirror; Polygonjs — kept material/shader mirror), 2d-animation Pixen ×1, ai-motion-capture Free Mo Cap ×1. No better home exists; notes satisfied.
+- grep RELOCATE/Misfit = 0; all chunks ≤50; validation ✓ 410, 0 errors. Uncommitted.
 
 ## DEFERRED CATALOG CLEANUP IN PROGRESS (2026-06-15)
 User picked catalog-cleanup track; §10 NeRF/GS papers = **relocate genuine papers → §09 papers/ + dedup**, real tools/services stay. Phases: **1** §10 paper relo (sub-phased 1a–1d) → **2** plugin-marketplaces/01 over-cap split (51→50+1) → **3** vfxcamdb.com dupe (matchmoving canonical + dual_listed_in) → **4** UE official YouTube channel dupe (§07 unreal/04).
