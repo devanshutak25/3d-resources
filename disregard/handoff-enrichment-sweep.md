@@ -1,6 +1,16 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-15. §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE (all sections done; §12 was pre-done). Remaining catalog work = DEFERRED items only: §10 NeRF/GS paper-dump dedup (§6.1) + assorted flags (§6.2/6.3). Not part of the sweep.**
+**Status as of 2026-06-15. §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE (all sections done; §12 was pre-done). NOW IN: DEFERRED CATALOG CLEANUP (plan `~/.claude/plans/make-plan-to-do-shimmering-cloud.md`).**
+
+## DEFERRED CATALOG CLEANUP IN PROGRESS (2026-06-15)
+User picked catalog-cleanup track; §10 NeRF/GS papers = **relocate genuine papers → §09 papers/ + dedup**, real tools/services stay. Phases: **1** §10 paper relo (sub-phased 1a–1d) → **2** plugin-marketplaces/01 over-cap split (51→50+1) → **3** vfxcamdb.com dupe (matchmoving canonical + dual_listed_in) → **4** UE official YouTube channel dupe (§07 unreal/04).
+- **Classification rule:** MOVE = `Author et al., VENUE YEAR` research paper. KEEP-in-§10 = tools, GS blogs, awesome-lists, runnable reference-impl repos (NeRF/Mip-NeRF/JaxNeRF/GS reimpls).
+- **1a DONE** (photogrammetry-scanning/01, 37→24): 13 NeRF papers → new `data/09-ai-ml/papers/03-papers.yml` (reference→paper, +skill:advanced, dropped best_for/readme_tags/license:Free; §09 papers `chunks: 2→3`). Dedup vs papers/01+02 = 0 conflicts. Validation ✓ 366, 0 errors. Uncommitted.
+- **1b DONE** (photogrammetry-scanning/02, 49→7): moved **42 NeRF papers** → filled papers/03 13→**50** + new **papers/04 (5)**; §09 papers `chunks: 3→4`. Dedup vs papers/01-03 = **0 conflicts** (existing arxiv URLs vs /02 project-page URLs, distinct titles). 7 KEPT in §10 (2 tools, Awesome-3DGS list, 2 GS tutorials, 2 channels). Papers sizes now 01=50/02=45/03=50/04=5. Validation ✓ **408** (366 + 42 benign `paper` freeform-tech), 0 errors. Uncommitted. Plan: `~/.claude/plans/make-plan-to-do-ticklish-axolotl.md`.
+- **1c DONE** (gaussian-splatting-nerf/01, 34→17): moved **17 NeRF/GS papers** → papers/04 (5→**22**); dedup vs papers/01-04 = 0 conflicts; chunks stays 4 (room). 17 keepers stay (INRIA+4D impls, tools/viewers, MegaSaM, HF/TDS blogs, PyTorch impl). Validation ✓ 408 (no new), 0 errors. Uncommitted.
+- **1d DONE → PHASE 1 COMPLETE** (photogrammetry/03, 35→33): moved 2 Debevec HDR/IBL papers → papers/04 (22→**24**); user AskUserQuestion = MOVE. **§10 paper relocation done (1a-1d): 74 papers total → §09 papers; sizes 01=50/02=45/03=50/04=24 (chunks 4).** Residue = legit keepers only (NeRF+JAX NeRF+4D-GS impl repos, HDR book). Validation ✓ 410, 0 errors. Uncommitted.
+- **Phase 2 DONE** (`plugin-marketplaces/01` 51→50, `02` 0→1): moved BlenderAddons.org → 02; `chunks: 2` already declared. ADR-0001 cap satisfied. Validation ✓ 410, 0 errors. Uncommitted.
+- **NEXT: Phase 3** = vfxcamdb.com cross-§10 dupe. Keep `matchmoving-tracking/01` canonical + add `dual_listed_in: [tools-pipeline-utilities/misc-3d-utilities]`; delete the `misc-3d-utilities/01` copy. Then Phase 4 (duplicate official UE YouTube channel in §07 `unreal-engine-resources/04`: keep `@UnrealEngine`, delete `channel/UCBob…` copy).
 
 ## §03 ANIMATION DONE (2026-06-15) → SWEEP COMPLETE
 Final section. 12 ent / 3 files, single phase. `ai-motion-capture/01` (4): AnimateDiff +platform[win,mac,linux]; **Bandai Namco retyped tool→asset-source** (mocap data) +mocap+web −tech:blender; ActorCore empty tags{}→mocap+web; **CMU BVH −tech[blender,blender-addon]** +mocap+web. `animation-learning-channels/01` (8, light): cleaned Josh Toonen emoji/clickbait name+desc, rewrote Principles quote-desc, +skill:beginner ×2. `animation-courses/01` empty stub left (flagged). §03 platform 12/12, empty-tags 0. Validation ✓ 366. Uncommitted.
@@ -238,33 +248,38 @@ Leave terse-but-correct descriptions + already-well-tagged entries alone. Chunks
 
 ## 6. Flagged items (carry forward, do NOT silently drop)
 
-1. **NeRF/GS research-paper dumps** live in §10 `photogrammetry-scanning/02` (~45 papers, got junk/desc fixes only, NO paper-facets yet) + `gaussian-splatting-nerf/` + `photogrammetry-scanning/01`. They overlap §09 `papers/`. **Resolve in the §09 phase**: standardize paper facets (`paper` tag + `year` + `platform: web`) AND decide relocation+dedup of §10 paper dumps → §09/papers (precedent: 2026-06-11 §12 pass relocated 2 NeRF papers). This is a structural call — surface to user.
-2. **Over-cap chunks (>50, ADR-0001):** `unity-engine-resources/09` = 59 entries; `plugin-marketplaces/01` = 51 (empty `02` beside it). Validator only warns. Move overflow into a fresh/empty chunk when touching those subsections.
-3. **vfxcamdb.com** appears twice in §10 (`misc-3d-utilities` + `matchmoving-tracking`) — possible dupe to consolidate via `dual_listed_in`.
+1. **NeRF/GS research-paper dumps** in §10 `photogrammetry-scanning/01-03` + `gaussian-splatting-nerf/01` overlap §09 `papers/`. **RESOLVED (user) → IN PROGRESS as Deferred Catalog Cleanup Phase 1** (relocate genuine papers → §09 papers/ + dedup; real tools/blogs/impl-repos stay). **1a DONE** (photogrammetry/01, 13 moved). Remaining 1b/1c/1d — see §7.
+2. **Over-cap chunks (>50, ADR-0001):** `plugin-marketplaces/01` = 51 (empty `02` beside it) → **Cleanup Phase 2** (split 51→50+1). (`unity-engine-resources/09` was already split to 09+10 during §07.) Validator only warns.
+3. **vfxcamdb.com** appears twice in §10 (`misc-3d-utilities/01` + `matchmoving-tracking/01`) → **Cleanup Phase 3** (matchmoving canonical + `dual_listed_in` mirror).
 
 ---
 
 ## 7. First actions for next session
 
-**Immediate next task: §11 RELOCATION PASS** (the only remaining §11 work). §11 enrichment Phases A–D all DONE (see §11 blocks at top). Then §03 animation.
+**Immediate next task: DEFERRED CATALOG CLEANUP Phase 3** (vfxcamdb.com dupe). Plan: `~/.claude/plans/make-plan-to-do-ticklish-axolotl.md`. The §01–§11 sweep is fully done; **Phase 1 (paper relocation, 1a-1d) + Phase 2 (over-cap split) are DONE** (see top blocks). All edits UNCOMMITTED (user commits separately).
 
 1. Read `project.md`, `CLAUDE.md`, all `memory/*`, and this file.
 2. Append the new user prompt to `memory/user-prompts.md` (protocol).
-3. **§11 relocation pass — 4 RELOCATE flags, all in `paid-tutorial-platforms/01`** (enriched in place, pure move, strip `notes` on move): OpenEXR + Open Color IO + OpenCue → §10 `pipeline-*` (ASWF libraries; retyped tutorial→reference already); Importance Sampling for Production Rendering → §09 `papers` (retyped tutorial→reference already, add `entry_type: paper` + `year` on landing per §09 convention). Append at clean EOF of targets (git-diff to catch the append-splice gotcha). Validate → `grep -rn RELOCATE data/11-learning-community/` returns 0. **§11 FULLY COMPLETE.**
-4. After §11 closes: **§03 animation** (12 ent: ai-motion-capture/01 4 + animation-learning-channels/01 8; animation-courses/01 empty stub — leave+flag). Single phase, its own plan. DEFERRED: §10 NeRF/GS paper-dump dedup+relocation overlap with §09 papers.
+3. **Phase 3 — vfxcamdb.com cross-§10 dupe.** Appears in both `data/10-tools-pipeline/misc-3d-utilities/01` and `matchmoving-tracking/01`.
+   - Keep **`matchmoving-tracking/01`** as canonical; add `dual_listed_in: [tools-pipeline-utilities/misc-3d-utilities]` to it (verify the exact section-slug/sub-slug against `data/sections.yml` + `data/10-tools-pipeline.yml` before writing — mirror path must match a real subsection or validator errors).
+   - **Delete** the `misc-3d-utilities/01` copy.
+   - Validate → log → STOP for go-ahead.
+4. Then **Phase 4 — duplicate official UE YouTube channel** in `data/07-game-dev/unreal-engine-resources/04`: two entries for the same channel; keep `@UnrealEngine`, delete the `channel/UCBob…` copy. That closes the Deferred Catalog Cleanup track.
 
-**§11 Phase D is DONE** (see "§11 PHASE D DONE" block near top). architecture-viz subsection removed; inspiration-showcase now 39 ent; 6 creative-coding tools relocated to §12; §11 empty-tags 0.
+**DONE so far (all uncommitted):** 1a photogrammetry/01 (13 papers), 1b photogrammetry/02 (42), 1c gaussian-splatting-nerf/01 (17), 1d photogrammetry/03 (2 HDR papers, user chose MOVE) → **74 papers total → §09 papers** (sizes 01=50/02=45/03=50/04=24, chunks 4). Phase 2 plugin-marketplaces split (51→50, BlenderAddons.org → 02). Validation ✓ 410, 0 errors throughout.
 
 ## 8. Quick state-check commands
 
 ```bash
-node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (baseline 365 warnings as of §11 Phase D; freeform-tech + cross-chunk-dupe, benign)
-# facet coverage for §11 (or swap dir):
-for x in workflow platform output skill; do echo "$x: $(grep -rh "^      $x:" data/11-learning-community/ | wc -l)"; done
-grep -rcn '^  - name:' data/11-learning-community/communities-forums/*.yml   # entries per chunk (each must be ≤50 after split)
-grep -rho 'tags: {}' data/11-learning-community/ | wc -l  # empty-tag count (target 0)
-grep -rn 'RELOCATE' data/11-learning-community/           # open §11 relocation flags (expect 4 until moved)
-grep -rn '\[!\[\|bibtex' data/11-learning-community/      # junk scan (target none)
+node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (current baseline 410 warnings; freeform-tech + cross-chunk-dupe, benign)
+# §09 papers chunk sizes (each ≤50) + counter (must = 4):
+for f in data/09-ai-ml/papers/*.yml; do echo "$f: $(grep -c '^  - name:' $f)"; done   # expect 50/45/50/24
+grep -n 'chunks:' data/09-ai-ml.yml
+# §10 paper residue (should be just KEEP tools/blogs/impl-repos, not "Author et al." paper landings):
+grep -rn 'et al' data/10-tools-pipeline/photogrammetry-scanning/ data/10-tools-pipeline/gaussian-splatting-nerf/   # expect: NeRF+JAX NeRF impls, HDR book, 4D-GS impl only
+# vfxcamdb dupe (Phase 3 target) + plugin-marketplaces sizes (Phase 2 result):
+grep -rln 'vfxcamdb' data/10-tools-pipeline/
+grep -c '^  - name:' data/10-tools-pipeline/plugin-marketplaces/0*.yml   # expect 50 + 1
 ```
 
 Do NOT rebuild `_site/` or `README.md` (generated; user commits + builds separately).

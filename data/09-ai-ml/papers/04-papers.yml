@@ -1,0 +1,376 @@
+entries:
+  - name: Neural Radiance Flow for 4D View Synthesis and Video Processing
+    url: https://yilundu.github.io/nerflow/
+    description: Du et al., Arxiv 2020
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2020
+  - name: 'NeRF-SOS: Any-view Self-supervised Object Segmentation on Complex Real-world Scenes'
+    url: https://zhiwenfan.github.io/NeRF-SOS/
+    description: Fan et al., ICLR 2023
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2023
+  - name: Learning Compositional Radiance Fields of Dynamic Human Heads
+    url: https://ziyanw1.github.io/hybrid_nerf/
+    description: Wang et al., Arxiv 2020
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2020
+  - name: 'ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video'
+    url: https://zju3dv.github.io/enerf/
+    description: Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2022
+  - name: Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies
+    url: https://zju3dv.github.io/animatable_nerf/
+    description: Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2021
+  - name: 'Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion'
+    url: https://3d-avatar-diffusion.microsoft.com/
+    description: Wang et al., CVPR 2023 | [github](https://3d-avatar-diffusion.microsoft.com/)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2023
+  - name: PlenOctrees for Real-time Rendering of Neural Radiance Fields
+    url: https://alexyu.net/plenoctrees/
+    description: Yu et al., Arxiv 2021 | [github](https://github.com/sxyu/volrend)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2021
+  - name: 'BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects'
+    url: https://bundlesdf.github.io/
+    description: Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2023
+  - name: Learning Neural Transmittance for Efficient Rendering of Reflectance Fields
+    url: https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html
+    description: Mohammad Shafiei et al., BMVC 2021
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2021
+  - name: 'DyLiN: Making Light Field Networks Dynamic'
+    url: https://dylin2023.github.io/
+    description: Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2023
+  - name: 'DynIBaR: Neural Dynamic Image-Based Rendering'
+    url: https://dynibar.github.io/
+    description: Li et al., CVPR 2023
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2023
+  - name: UV Volumes for Real-time Rendering of Editable Free-view Human Performance
+    url: https://fanegg.github.io/UV-Volumes/
+    description: Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2023
+  - name: 'IBRNet: Learning Multi-View Image-Based Rendering'
+    url: https://ibrnet.github.io/static/paper.pdf
+    description: Wang et al., CVPR 2021 | [github](https://github.com/googleinterns/IBRNet)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2021
+  - name: 'TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels'
+    url: https://jaminfong.cn/tineuvox/
+    description: Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2022
+  - name: Neural Rays for Occlusion-aware Image-based Rendering
+    url: https://liuyuan-pal.github.io/NeuRay/
+    description: Liu et al., Arxiv 2021
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2021
+  - name: Neural 3D Video Synthesis from Multi-view Video
+    url: https://neural-3d-video.github.io/
+    description: Li et al., CVPR 2022
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2022
+  - name: 'Ponder: Point Cloud Pre-training via Neural Rendering'
+    url: https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Ponder_Point_Cloud_Pre-training_via_Neural_Rendering_ICCV_2023_paper.html
+    description: Huang et al., ICCV 2023
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2023
+  - name: 'Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion'
+    url: https://www.robots.ox.ac.uk/~vgg/research/contrastive-lift/
+    description: Bhalgat et al., NeurIPS 2023 (**Spotlight**)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2023
+  - name: Generative Occupancy Fields for 3D Surface-Aware Image Synthesis
+    url: https://sheldontsui.github.io/projects/GOF
+    description: Xu et al., NeurIPS 2021 | [github](https://github.com/SheldonTsui/GOF_NeurIPS2021)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2021
+  - name: 'PVA: Pixel-aligned Volumetric Avatars'
+    url: https://volumetric-avatars.github.io/
+    description: Raj et al., CVPR 2021
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2021
+  - name: A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis
+    url: https://xingangpan.github.io/projects/ShadeGAN.html
+    description: Pan et al., NeurIPS 2021 | [github](https://github.com/XingangPan/ShadeGAN)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2021
+  - name: 'Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans'
+    url: https://zju3dv.github.io/neuralbody/
+    description: Peng et al., CVPR 2021 | [github](https://github.com/zju3dv/neuralbody)
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - gaussian-splatting
+        - nerf
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 2021
+  - name: Rendering Synthetic Objects into Real Scenes (Debevec, 1998)
+    url: https://www.pauldebevec.com/Research/IBL/
+    description: SIGGRAPH 1998 paper founding image-based lighting.
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 1998
+  - name: Recovering HDR Radiance Maps (Debevec & Malik, 1997)
+    url: https://www.pauldebevec.com/Research/HDR/
+    description: SIGGRAPH 1997 paper. Original HDR-from-bracketed-exposures recovery method.
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      tech:
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+    year: 1997

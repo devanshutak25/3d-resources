@@ -24,28 +24,6 @@ entries:
       - HDR/IBL
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: Rendering Synthetic Objects into Real Scenes (Debevec, 1998)
-    url: https://www.pauldebevec.com/Research/IBL/
-    description: SIGGRAPH 1998 paper founding image-based lighting.
-    entry_type: paper
-    year: 1998
-    best_for: IBL theory
-    readme_tags:
-      - SIGGRAPH 1998
-      - IBL
-    url_last_verified: '2026-06-01'
-    url_status: ok
-  - name: Recovering HDR Radiance Maps (Debevec & Malik, 1997)
-    url: https://www.pauldebevec.com/Research/HDR/
-    description: SIGGRAPH 1997 paper. Original HDR-from-bracketed-exposures recovery method.
-    entry_type: paper
-    year: 1997
-    best_for: HDR merge theory
-    readme_tags:
-      - SIGGRAPH 1997
-      - HDR Merge
-    url_last_verified: '2026-06-01'
-    url_status: ok
   - name: Light Probe Image Gallery
     url: https://www.pauldebevec.com/Probes/
     description: Original mirror-ball HDR probes (Grace Cathedral, Uffizi, etc.). Still used in IBL teaching.

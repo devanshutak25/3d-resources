@@ -41,4 +41,4 @@ subsections:
   - slug: papers
     title: Research Papers
     description: 'Research papers on ML for CG, generative 3D, neural rendering, and related topics. Each entry: title (the plain-English summary), year, and venue/links in the description.'
-    chunks: 2
+    chunks: 4
