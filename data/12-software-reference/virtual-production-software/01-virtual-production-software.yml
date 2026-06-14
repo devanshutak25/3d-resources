@@ -488,3 +488,21 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     deprecated: true
+  - name: Smode
+    url: https://smode.fr/
+    description: Real-time 2D/3D creation, compositing, and video-mapping engine.
+    entry_type: software
+    license: Paid
+    readme_tags:
+      - Real-time
+      - Video Mapping
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - projection-mapping
+        - compositing
+      output:
+        - event-experiential
+      platform:
+        - win

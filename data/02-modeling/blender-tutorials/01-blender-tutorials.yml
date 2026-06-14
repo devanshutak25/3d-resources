@@ -144,3 +144,22 @@ entries:
         - web
       tech:
         - blender
+  - name: Blender 3D Architect by Allan Brito
+    url: https://www.blender3darchitect.com/blender-books/
+    description: Blender books and tutorials for architectural visualization by Allan Brito.
+    license: Paid
+    entry_type: book
+    readme_tags:
+      - Archviz
+      - Blender Books
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - blender

@@ -8,6 +8,10 @@ entries:
       workflow:
         - animation
         - mocap
+      platform:
+        - win
+        - mac
+        - linux
       tech:
         - ai-generative
         - opensource-alt
@@ -18,14 +22,16 @@ entries:
     url_status: ok
   - name: Bandai Namco Research Motiondataset
     url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
-    description: R&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
-    entry_type: tool
+    description: Free motion-capture dataset from Bandai Namco R&D for research and personal use.
+    entry_type: asset-source
     license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      tech:
-        - blender
+      workflow:
+        - mocap
+      platform:
+        - web
     stale: true
     last_pushed: '2023-07-04'
   - name: ActorCore
@@ -35,15 +41,20 @@ entries:
     entry_type: asset-source
     url_last_verified: '2026-06-01'
     url_status: ok
-    tags: {}
+    tags:
+      workflow:
+        - mocap
+      platform:
+        - web
   - name: Carnegie-Mellon University Graphics Lab Motion Capture Database BVH conversions
     url: https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture
-    description: Contains 2500 free human motion captures.
+    description: 2500 free human motion-capture clips in BVH format.
     entry_type: asset-source
     license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      tech:
-        - blender
-        - blender-addon
+      workflow:
+        - mocap
+      platform:
+        - web

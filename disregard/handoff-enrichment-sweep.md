@@ -1,6 +1,22 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-15. §10/§07/§02/§04/§06/§08/§01/§09/§05 COMPLETE. §11 IN PROGRESS (Phases A + B + C of 4 done). NEXT: §11 Phase D, then §11 relocation pass, then §03 animation. DEFERRED: §10 NeRF/GS paper-dump dedup+relocation overlap with §09 papers.**
+**Status as of 2026-06-15. §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE (all sections done; §12 was pre-done). Remaining catalog work = DEFERRED items only: §10 NeRF/GS paper-dump dedup (§6.1) + assorted flags (§6.2/6.3). Not part of the sweep.**
+
+## §03 ANIMATION DONE (2026-06-15) → SWEEP COMPLETE
+Final section. 12 ent / 3 files, single phase. `ai-motion-capture/01` (4): AnimateDiff +platform[win,mac,linux]; **Bandai Namco retyped tool→asset-source** (mocap data) +mocap+web −tech:blender; ActorCore empty tags{}→mocap+web; **CMU BVH −tech[blender,blender-addon]** +mocap+web. `animation-learning-channels/01` (8, light): cleaned Josh Toonen emoji/clickbait name+desc, rewrote Principles quote-desc, +skill:beginner ×2. `animation-courses/01` empty stub left (flagged). §03 platform 12/12, empty-tags 0. Validation ✓ 366. Uncommitted.
+
+## §11 RELOCATION PASS DONE (2026-06-15) → §11 FULLY COMPLETE
+All 4 RELOCATE flags cleared from `paid-tutorial-platforms/01` (pure move, notes stripped):
+- **OpenEXR + Open Color IO + OpenCue → §10 `pipeline-standards/01`** (10→13). Joined ASWF/standards cluster. OpenEXR/OCIO got `license: Open Source` + `platform: [win,mac,linux]` (match OIIO/MaterialX lib convention); OpenCue kept web + renamed "OpenCue (site)"→"OpenCue".
+- **Importance Sampling for Production Rendering → §09 `papers/02`** (44→45): retyped reference→paper, +tech:paper +workflow:rendering; year omitted (uncertain, not guessed).
+- §11 RELOCATE grep = 0. Validation ✓ 366 (+1 benign `paper` freeform-tech). Uncommitted. **NEXT: §03 animation (last section).**
+
+## §11 PHASE D DONE (2026-06-15) — inspiration + career + trends → §11 ENRICHMENT COMPLETE
+4 subsections (~56 ent). User AskUserQuestion: relocate misfiles now; fix bogus licenses; book→§02.
+- **inspiration-showcase/01** (44→39): was a junk-drawer. **6 creative-coding tools relocated OUT → §12** (NAP/shoebot/Structure Synth/Zdog→`misc-3d-utilities-software`; Smode→`virtual-production-software`; Quartz Composer→`legacy-defunct-software`; all retyped reference→software). **Leaf Pic DROPPED** (Android gallery, junk). Fixed ~28 bogus `license: Paid` defaults (dropped on free portfolios/blogs/PDFs; kept on Cornelius Gumroad + 2 Springer books). output added by medium to showcase feeds; blender.daily link-salad + wrong blender-addon tech fixed. ~14 graphics-programming theory refs left in place + flagged (overlap §04, future relocation).
+- **architecture-viz subsection REMOVED**: Contemporist+Modlar→inspiration-showcase (archviz); Blender 3D Architect book→§02 `blender-tutorials/01` (tutorial→book, empty tags filled). Dir+file deleted, `- slug: architecture-viz` removed from `data/11-learning-community.yml`.
+- **salary-career-data/01** (3): +license:Free. **industry-trends/01** (6): +platform/output/license, Pipeline Conference desc rewritten, Neural Rendering left flagged (deprecated/broken).
+- §11 empty-tags 0. Validation ✓ **365, 0 errors** (baseline). Uncommitted. **REMAINING: §11 relocation pass = 4 flags** (paid-tutorial-platforms/01: OpenEXR+OpenColorIO+OpenCue→§10, Importance Sampling→§09 papers).
 
 ## §11 PHASE C DONE (2026-06-15) — communities-forums split + enrich (159→158 ent)
 Split over-cap `communities-forums/02` (119) into 3 thematic chunks (kept 02, new 04 + 05); bumped `chunks: 3→5` in `data/11-learning-community.yml`.
@@ -230,23 +246,19 @@ Leave terse-but-correct descriptions + already-well-tagged entries alone. Chunks
 
 ## 7. First actions for next session
 
-**Immediate next task: §11 PHASE C** (communities-forums + over-cap split). §11 Phases A + B are DONE (see §11 blocks at top). Plan file: `~/.claude/plans/make-plan-to-do-squishy-russell.md`.
+**Immediate next task: §11 RELOCATION PASS** (the only remaining §11 work). §11 enrichment Phases A–D all DONE (see §11 blocks at top). Then §03 animation.
 
 1. Read `project.md`, `CLAUDE.md`, all `memory/*`, and this file.
 2. Append the new user prompt to `memory/user-prompts.md` (protocol).
-3. **Run §11 Phase D** — `data/11-learning-community/`: inspiration-showcase/01 (44) + architecture-viz/01 (3) + salary-career-data/01 (3) + industry-trends/01 (6).
-   - **User decision: merge the 3 architecture-viz entries** (Contemporist, Modlar, Blender 3D Architect) into communities-forums and/or inspiration-showcase (pure move; **remove the `architecture-viz` subsection from `data/11-learning-community.yml` once emptied** — drop its `- slug: architecture-viz` block, delete the empty dir/file). Add `output:archviz` on move.
-   - Enrich: `output:illustration` on portfolio/showcase feeds (inspiration-showcase); `film-vfx`/`broadcast` on industry-trends; **fix the 1 remaining §11 empty `tags:{}`** (in architecture-viz, clears on merge) + industry-trends empty tags + 2 missing licenses + the deprecated/broken Neural Rendering entry. Salary/career refs stay output-less.
-   - Validate, log, **stop**. **§11 enrichment then complete.**
-4. **Then §11 relocation pass** (4 RELOCATE flags, all in `paid-tutorial-platforms/01`, enriched in place): OpenEXR + Open Color IO + OpenCue → §10 pipeline; Importance Sampling → §09 papers. Pure move, strip `notes`. Validate (0 RELOCATE flags remain). **§11 fully complete.**
-5. After §11 closes: **§03 animation** (12 ent: ai-motion-capture/01 4 + animation-learning-channels/01 8; animation-courses/01 empty stub — leave+flag). Single phase, its own plan. DEFERRED: §10 NeRF/GS paper-dump dedup+relocation overlap with §09 papers.
+3. **§11 relocation pass — 4 RELOCATE flags, all in `paid-tutorial-platforms/01`** (enriched in place, pure move, strip `notes` on move): OpenEXR + Open Color IO + OpenCue → §10 `pipeline-*` (ASWF libraries; retyped tutorial→reference already); Importance Sampling for Production Rendering → §09 `papers` (retyped tutorial→reference already, add `entry_type: paper` + `year` on landing per §09 convention). Append at clean EOF of targets (git-diff to catch the append-splice gotcha). Validate → `grep -rn RELOCATE data/11-learning-community/` returns 0. **§11 FULLY COMPLETE.**
+4. After §11 closes: **§03 animation** (12 ent: ai-motion-capture/01 4 + animation-learning-channels/01 8; animation-courses/01 empty stub — leave+flag). Single phase, its own plan. DEFERRED: §10 NeRF/GS paper-dump dedup+relocation overlap with §09 papers.
 
-**§11 Phase C is DONE** (see "§11 PHASE C DONE" block near top). communities-forums now 5 chunks (01=37, 02=33, 03=3, 04=46, 05=39), `chunks: 5` set.
+**§11 Phase D is DONE** (see "§11 PHASE D DONE" block near top). architecture-viz subsection removed; inspiration-showcase now 39 ent; 6 creative-coding tools relocated to §12; §11 empty-tags 0.
 
 ## 8. Quick state-check commands
 
 ```bash
-node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (baseline 365 warnings as of §11 Phase C; freeform-tech + cross-chunk-dupe, benign)
+node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (baseline 365 warnings as of §11 Phase D; freeform-tech + cross-chunk-dupe, benign)
 # facet coverage for §11 (or swap dir):
 for x in workflow platform output skill; do echo "$x: $(grep -rh "^      $x:" data/11-learning-community/ | wc -l)"; done
 grep -rcn '^  - name:' data/11-learning-community/communities-forums/*.yml   # entries per chunk (each must be ≤50 after split)

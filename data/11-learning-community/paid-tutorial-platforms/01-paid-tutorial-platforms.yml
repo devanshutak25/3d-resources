@@ -227,20 +227,6 @@ entries:
       - 100+ Lessons
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: OpenEXR
-    url: http://www.openexr.com/
-    description: High dynamic range image format for visual effects, from ILM.
-    entry_type: reference
-    notes: 'RELOCATE: VFX file-format library, not a tutorial; candidate for §10 pipeline.'
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - film-vfx
-      platform:
-        - web
-      tech:
-        - opensource-alt
   - name: Pixel Art Tutorial Basics for Beginners
     url: http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783
     description: Pixel art basics for beginners.
@@ -265,46 +251,6 @@ entries:
         - creative-coding
       skill:
         - advanced
-      platform:
-        - web
-      tech:
-        - opensource-alt
-  - name: Importance Sampling for Production Rendering
-    url: http://www.igorsklyar.com/system/documents/papers/4/fiscourse.comp.pdf
-    description: Course notes on importance sampling for production rendering.
-    entry_type: reference
-    notes: 'RELOCATE: research course-notes PDF; candidate for §09 papers.'
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      skill:
-        - advanced
-      platform:
-        - web
-  - name: Open Color IO
-    url: https://opencolorio.org/
-    description: Color management solution for motion picture production. Open source.
-    entry_type: reference
-    notes: 'RELOCATE: color-management library, not a tutorial; candidate for §10 pipeline.'
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - film-vfx
-      platform:
-        - web
-      tech:
-        - opensource-alt
-  - name: OpenCue (site)
-    url: https://opencue.io
-    description: Render management system from Sony Imageworks. Open source.
-    entry_type: reference
-    notes: 'RELOCATE: render-farm management tool, not a tutorial; candidate for §10 pipeline.'
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - film-vfx
       platform:
         - web
       tech:

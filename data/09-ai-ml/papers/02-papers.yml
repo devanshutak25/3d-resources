@@ -684,3 +684,18 @@ entries:
       skill:
         - advanced
     year: 2022
+  - name: Importance Sampling for Production Rendering
+    url: http://www.igorsklyar.com/system/documents/papers/4/fiscourse.comp.pdf
+    description: SIGGRAPH course notes on importance sampling for production rendering.
+    entry_type: paper
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      tech:
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced

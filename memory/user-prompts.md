@@ -11,6 +11,34 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-15 (post-clear, §11 relocation + §03 session)
+**Prompt:**
+> make plan to do next steps
+
+**Answered:** Planned (`~/.claude/plans/make-plan-to-do-stateful-dusk.md`) + started. AskUserQuestion scope fork: **close the sweep only** (§11 relocation + §03; defer §10 paper-dump dedup). **Phase 1 (§11 relocation) DONE:** moved 4 RELOCATE-flagged entries out of `paid-tutorial-platforms/01` (pure move, notes stripped) — OpenEXR + Open Color IO + OpenCue → §10 `pipeline-standards/01` (10→13; OpenEXR/OCIO got license:Open Source + platform [win,mac,linux] to match OIIO/MaterialX lib cluster, OpenCue kept web + renamed from "OpenCue (site)"); Importance Sampling for Production Rendering → §09 `papers/02` (44→45; retyped reference→paper, +tech:paper +workflow:rendering, year omitted — uncertain). §11 RELOCATE flags 4→0. **§11 FULLY COMPLETE.** Validation ✓ 366 (+1 = benign `paper` freeform-tech). STOPPED for go-ahead.
+
+> go
+
+**Answered:** **Phase 2 (§03 animation) DONE → §01–§11 ENRICHMENT SWEEP COMPLETE.** Last section, 12 ent / 3 files. `ai-motion-capture/01` (4): rewrote whole file — AnimateDiff +platform[win,mac,linux]; **Bandai Namco retyped tool→asset-source** (dropped wrong tech:blender) +workflow:mocap +platform:web, desc tightened; ActorCore empty tags{}→workflow:mocap+platform:web; **CMU BVH stripped wrong tech:blender+blender-addon** +mocap+web, desc fixed. `animation-learning-channels/01` (8, light touch): cleaned Josh Toonen name (dropped emoji/clickbait "📺 Make Films 10x Faster in UE ~") + bracket-junk desc; rewrote Principles-of-Animation quote-desc → "Interactive web explainer of the 12 principles"; +skill:beginner on Alex Grigg + Principles. `animation-courses/01` left empty stub (flagged). §03: platform 12/12, workflow 12, output 4, skill 3, empty-tags 0. Validation ✓ 366, 0 errors. **SWEEP DONE. All edits uncommitted (user commits).**
+
+---
+
+### 2026-06-15 (post-clear, §11 Phase D session-end)
+**Prompt:**
+> update handoff and the other documents, we will pick up in the next session
+
+**Answered:** Session-end sweep. Handoff top status + Phase D block + §7 First-actions (retargeted to §11 relocation pass) + §8 baseline note (→Phase D) all updated. project.md §11, decisions.md, user-prompts.md already carried Phase D. Verified: validation ✓ 365/0 errors, §11 RELOCATE flags = 4 (paid-tutorial), 13 files uncommitted (9 data + 4 docs; architecture-viz deleted). Resume = §11 relocation pass → §03.
+
+---
+
+### 2026-06-15 (post-clear, §11 Phase D)
+**Prompt:**
+> make plan to do next steps
+
+**Answered:** Planned + executed **§11 Phase D** (final §11 enrichment phase; ~56 ent / 4 subsections). Plan: `~/.claude/plans/make-plan-to-do-twinkly-starlight.md`. AskUserQuestion forks: misfiles→relocate now; bogus licenses→fix obvious-wrong; Blender book→§02 blender-tutorials. **6 creative-coding tools relocated out of inspiration-showcase → §12** (NAP/shoebot/Structure Synth/Zdog→misc-3d-utilities-software, Smode→virtual-production-software, Quartz Composer→legacy-defunct-software; retyped reference→software); Leaf Pic dropped (junk). **architecture-viz subsection removed**: Contemporist+Modlar→inspiration-showcase, Blender 3D Architect book→§02 blender-tutorials (tutorial→book); dir+slug deleted. Fixed ~28 bogus license:Paid; added output by medium to showcase feeds; fixed blender.daily link-salad; salary-career +license:Free; industry-trends enriched + Pipeline Conference desc. §11 empty-tags 0. Validation ✓ 365, 0 errors. **§11 enrichment COMPLETE (A–D).** STOPPED. NEXT: §11 relocation pass (4 flags) → §03.
+
+---
+
 ### 2026-06-15 00:30
 **Prompt:**
 > make plan to do next steps

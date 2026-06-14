@@ -3,46 +3,48 @@ entries:
     url: https://www.behance.net/toroskose
     description: 3D artist portfolio.
     entry_type: inspiration
-    license: Paid
     readme_tags:
       - Behance
       - 3D Artist
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: Strange Attractors
     url: http://www.3d-meier.de/
     description: Mathematical 3D forms.
     entry_type: inspiration
-    license: Paid
     readme_tags:
       - Math 3D
       - Forms
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: autodestruct.com
     url: http://www.autodestruct.com/
     description: Concept art.
     entry_type: inspiration
-    license: Paid
     readme_tags:
       - Concept Art
       - Portfolio
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - illustration
       platform:
         - web
   - name: Disney Research
     url: https://www.disneyresearch.com/
     description: Research publications.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Research
       - Disney
@@ -55,7 +57,6 @@ entries:
     url: http://blog.rectorsquid.com/sample-linkage-mechanisms-2/
     description: Mechanical animations.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Mechanics
       - Animation
@@ -68,52 +69,56 @@ entries:
     url: https://www.imageworks.com/sites/default/files/2023-10/levelsets-in-production-spider-man3.pdf
     description: Spider-Man 3 VFX paper.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Paper
       - VFX Production
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       platform:
         - web
   - name: cifraworld (Instagram)
     url: https://www.instagram.com/cifraworld/
     description: 3D motion art.
     entry_type: inspiration
-    license: Paid
     readme_tags:
       - Instagram
       - Motion Art
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Ben Watts (Vimeo)
     url: https://vimeo.com/bwdesign
     description: Motion design.
     entry_type: inspiration
-    license: Paid
     readme_tags:
       - Vimeo
       - Motion Design
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Nick Taylor (MVSM)
     url: http://nicholas-taylor.com/
     description: Project breakdowns.
     entry_type: channel
-    license: Paid
     readme_tags:
       - Breakdowns
       - ManVsMachine
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - motion-graphics
       platform:
         - web
   - name: Cornelius Dammrich
@@ -127,65 +132,70 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: FX References
     url: https://ref-fx.com/
     description: Visual effects reference library.
     entry_type: reference
-    license: Paid
     readme_tags:
       - VFX
       - Reference
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       platform:
         - web
   - name: Before & Afters
     url: https://beforesandafters.com/
     description: VFX breakdowns and behind-the-scenes.
     entry_type: reference
-    license: Paid
     readme_tags:
       - VFX Breakdowns
       - BTS
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       platform:
         - web
   - name: HUDs and GUIs
     url: https://www.hudsandguis.com/
     description: FUI/screen graphics reference for sci-fi 3D work.
     entry_type: reference
-    license: Paid
     readme_tags:
       - FUI
       - Screen Graphics
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       platform:
         - web
   - name: Character Design References
     url: https://characterdesignreferences.com/
     description: Shape language and character design studies.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Character Design
       - Shape Language
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - illustration
       platform:
         - web
   - name: GPT-3 Demo
     url: https://gpt3demo.com/
-    description: Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
+    description: Showcase of GPT-3 examples, demos, apps, and NLP use-cases.
     entry_type: inspiration
-    license: Paid
     readme_tags:
       - NLP
       - Showcase
@@ -196,22 +206,22 @@ entries:
         - web
   - name: Sean Browning - Pixel Art Animation Reel 2018
     url: https://vimeo.com/250991452
-    description: A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
+    description: Sean Browning's pixel animations, from simple scenes to recreations of shows like Steven's Universe and RWBY.
     entry_type: inspiration
-    license: Paid
     readme_tags:
       - Pixel Art
       - Reel
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - illustration
       platform:
         - web
   - name: The Pixel Factory
     url: http://acko.net/files/gltalks/pixelfactory/online.html
     description: Talk about WebGL, GPUs and Math by Steven Wittens.
     entry_type: reference
-    license: Paid
     readme_tags:
       - WebGL
       - Talk
@@ -224,7 +234,6 @@ entries:
     url: http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf
     description: Math cheatsheet by Anton Gerdelan, from his OpenGL book.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Math
       - Cheatsheet
@@ -235,9 +244,8 @@ entries:
         - web
   - name: Writing a small software renderer
     url: http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html
-    description: Really good introduction to how basic software rendering works.
+    description: Introduction to how basic software rendering works.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Rendering
       - Tutorial
@@ -246,24 +254,10 @@ entries:
     tags:
       platform:
         - web
-  - name: Quartz Composer
-    url: https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html
-    description: '[Mac] - Development tool for processing and rendering graphical data.'
-    entry_type: reference
-    license: Paid
-    readme_tags:
-      - Mac
-      - Graphics Tool
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - mac
   - name: 'Gene Kogan: Perlin Noise'
     url: http://genekogan.com/code/p5js-perlin-noise/
     description: Introduction to 2D and 3D perlin noise.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Perlin Noise
       - Tutorial
@@ -276,7 +270,6 @@ entries:
     url: https://gist.github.com/xem/99930986c5333125a13b0ea50600391f
     description: Maths cheat-sheet for 2D and 3D game-makers.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Math
       - Cheatsheet
@@ -285,26 +278,10 @@ entries:
     tags:
       platform:
         - web
-  - name: Leaf Pic
-    url: https://github.com/HoraApps/LeafPic/
-    description: Material-designed android gallery alternative.
-    entry_type: reference
-    license: Open Source
-    readme_tags:
-      - Android
-      - Gallery
-    url_last_verified: '2026-06-01'
-    url_status: unreachable
-    tags:
-      tech:
-        - opensource-alt
-    stale: true
-    last_pushed: '2024-02-14'
   - name: Graphics Programming Projects
     url: https://graphicscodex.com/projects/projects/index.html
     description: Book about 3D computational graphics by Morgan McGuire.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Book
       - Graphics
@@ -317,7 +294,6 @@ entries:
     url: http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
     description: A simple method for creating 3D images.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Ray Tracing
       - SDF
@@ -341,7 +317,7 @@ entries:
         - web
   - name: Physics for JavaScript Games, Animation, and Simulations
     url: https://link.springer.com/book/10.1007/978-1-4302-6338-8
-    description: Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
+    description: How to incorporate real physics into HTML5 games, animations, and simulations.
     entry_type: reference
     license: Paid
     readme_tags:
@@ -352,28 +328,10 @@ entries:
     tags:
       platform:
         - web
-  - name: NAP
-    url: https://nap-framework.tech/
-    description: '[Cross-platform] - Open source data-driven real-time control & visualization platform suited for professional installations in C++, incl. Vulkan renderer.'
-    entry_type: reference
-    license: Open Source
-    readme_tags:
-      - Framework
-      - Vulkan
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - opensource-alt
   - name: Three.js Basics
     url: https://www.realtimerendering.com/basics3js/#1
     description: Introduction to Three.js by Eric Haines.
     entry_type: reference
-    license: Paid
     readme_tags:
       - Three.js
       - Tutorial
@@ -382,58 +340,10 @@ entries:
     tags:
       platform:
         - web
-  - name: shoebot
-    url: https://shoebot.github.io/
-    description: '[Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.'
-    entry_type: reference
-    license: Open Source
-    readme_tags:
-      - Creative Coding
-      - Python
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - opensource-alt
-  - name: Smode
-    url: https://smode.fr/
-    description: '[Win] - A real-time 2D/3D creation, compositing and video-mapping engine.'
-    entry_type: reference
-    license: Paid
-    readme_tags:
-      - Real-time
-      - Video Mapping
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - win
-  - name: Structure Synth
-    url: http://structuresynth.sourceforge.net/
-    description: '[Cross-platform] - Application for generating 3D structures by specifying a design grammar.'
-    entry_type: reference
-    license: Open Source
-    readme_tags:
-      - Generative
-      - 3D Structures
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - opensource-alt
   - name: Mathematics of Animation
     url: https://winkervsbecks.github.io/mathematics-of-animation/#/
     description: Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
     entry_type: reference
-    license: Paid
     readme_tags:
       - Math
       - Animation
@@ -442,24 +352,9 @@ entries:
     tags:
       platform:
         - web
-  - name: Zdog
-    url: https://zzz.dog/
-    description: A pseudo-3D engine for canvas & SVG.
-    entry_type: reference
-    license: Open Source
-    readme_tags:
-      - Pseudo-3D
-      - Canvas
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      tech:
-        - opensource-alt
   - name: The Gaming Library
     url: https://www.youtube.com/@TheGamingLibraryYT
-    description: And admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of CG today.
+    description: Game showcase channel highlighting the scale and detail of modern real-time scenes.
     entry_type: channel
     license: Free
     readme_tags:
@@ -468,6 +363,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - games
       platform:
         - web
   - name: Retro Slide Puzzle (Winner - Animation/Design)
@@ -480,6 +377,8 @@ entries:
     tags:
       workflow:
         - animation
+      output:
+        - games
       platform:
         - web
   - name: Dash Slide Puzzle (Runner Up - Animation/Design)
@@ -492,6 +391,8 @@ entries:
     tags:
       workflow:
         - animation
+      output:
+        - games
       platform:
         - web
   - name: Island Slide Puzzle (Third Place - Animation/Design)
@@ -504,6 +405,8 @@ entries:
     tags:
       workflow:
         - animation
+      output:
+        - games
       platform:
         - web
   - name: Sliding Puzzle 3D (Honorable Mention)
@@ -516,11 +419,13 @@ entries:
     tags:
       workflow:
         - animation
+      output:
+        - games
       platform:
         - web
   - name: Animated AI
     url: https://animatedai.github.io/
-    description: Animations and instructional videos about neural networks
+    description: Animations and instructional videos about neural networks.
     entry_type: channel
     license: Free
     url_last_verified: '2026-06-01'
@@ -575,16 +480,51 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
       platform:
         - web
   - name: blender.daily
     url: https://www.instagram.com/blender.daily/
-    description: '[Blender Secrets](https://www.instagram.com/blendersecretsdotorg/)'
+    description: Daily Blender art and tips on Instagram.
     entry_type: channel
     license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
+      platform:
+        - web
       tech:
         - blender
-        - blender-addon
+  - name: Contemporist
+    url: http://www.contemporist.com/
+    description: Contemporary architecture.
+    entry_type: inspiration
+    readme_tags:
+      - Contemporary Arch
+      - Inspiration
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - archviz
+      platform:
+        - web
+  - name: Modlar
+    url: https://www.modlar.com/
+    description: Architecture inspiration.
+    entry_type: inspiration
+    readme_tags:
+      - Arch Inspiration
+      - Curated
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - archviz
+      platform:
+        - web

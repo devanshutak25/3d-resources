@@ -34,10 +34,6 @@ subsections:
     title: 3D Inspiration & Showcase
     description: Showcases, portfolios, and visual reference hubs.
     chunks: 1
-  - slug: architecture-viz
-    title: Architecture & Visualization
-    description: Arch-viz inspiration and BIM.
-    chunks: 1
   - slug: salary-career-data
     title: Salary & Career Data
     description: Salary data and studio review spreadsheets.

@@ -97,9 +97,11 @@ entries:
         - animation
       platform:
         - web
-  - name: 📺 Make Films 10x Faster in UE ~ Josh Toonen
+      skill:
+        - beginner
+  - name: Josh Toonen
     url: https://www.youtube.com/@JoshToonen
-    description: '[video,animation,post-process,blueprint] - cinematic environments, animated decals.'
+    description: 'Unreal Engine cinematics: animated decals, cinematic environments, faster filmmaking.'
     entry_type: channel
     license: Free
     url_last_verified: '2026-06-01'
@@ -114,7 +116,7 @@ entries:
         - web
   - name: 'The Principles of Animation: Interactive Edition'
     url: https://plumcatstudio.com/blog/principles-of-animation
-    description: '"We''ve had a ton of fun experimenting with an animation of a cat in a washing machine."'
+    description: Interactive web explainer of the 12 principles of animation.
     entry_type: reference
     license: Free
     url_last_verified: '2026-06-01'
@@ -124,3 +126,5 @@ entries:
         - animation
       platform:
         - web
+      skill:
+        - beginner

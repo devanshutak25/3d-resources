@@ -196,3 +196,49 @@ entries:
         - linux
       tech:
         - opensource-alt
+  - name: OpenEXR
+    url: http://www.openexr.com/
+    description: High dynamic range image format for visual effects, from ILM.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+  - name: Open Color IO
+    url: https://opencolorio.org/
+    description: Color management solution for motion picture production. Open source.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+  - name: OpenCue
+    url: https://opencue.io
+    description: Render management system from Sony Imageworks. Open source.
+    license: Open Source
+    entry_type: reference
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - opensource-alt

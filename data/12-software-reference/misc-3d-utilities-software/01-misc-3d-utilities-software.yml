@@ -344,3 +344,75 @@ entries:
         - win
         - mac
         - linux
+  - name: NAP
+    url: https://nap-framework.tech/
+    description: Open source C++ platform for real-time control and visualization, with a Vulkan renderer. Built for professional installations.
+    entry_type: software
+    license: Open Source
+    readme_tags:
+      - Framework
+      - Vulkan
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - real-time
+  - name: shoebot
+    url: https://shoebot.github.io/
+    description: Python creative-coding environment for vector graphics and animation.
+    entry_type: software
+    license: Open Source
+    readme_tags:
+      - Creative Coding
+      - Python
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+  - name: Structure Synth
+    url: http://structuresynth.sourceforge.net/
+    description: Generates 3D structures from a design grammar.
+    entry_type: software
+    license: Open Source
+    readme_tags:
+      - Generative
+      - 3D Structures
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - procedural
+  - name: Zdog
+    url: https://zzz.dog/
+    description: Pseudo-3D engine for canvas and SVG.
+    entry_type: software
+    license: Open Source
+    readme_tags:
+      - Pseudo-3D
+      - Canvas
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      workflow:
+        - creative-coding
+      platform:
+        - web

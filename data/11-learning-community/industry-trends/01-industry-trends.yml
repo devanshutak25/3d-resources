@@ -3,7 +3,12 @@ entries:
     url: https://www.fxguide.com/
     description: AI handling roto, denoise, upres, texture drafts, matchmove cleanup. Studios (ILM, Weta, DNEG) deploying at scale.
     entry_type: reference
+    license: Free
     tags:
+      output:
+        - film-vfx
+      platform:
+        - web
       tech:
         - ai-generative
     readme_tags:
@@ -15,7 +20,12 @@ entries:
     url: https://developer.nvidia.com/rtx
     description: Shipping in games (Cyberpunk 2077, Alan Wake 2). RTX 50-series + DLSS 4 with neural rendering.
     entry_type: reference
+    license: Free
     tags:
+      output:
+        - games
+      platform:
+        - web
       tech:
         - real-time
         - ray-tracing
@@ -28,6 +38,7 @@ entries:
     url: https://www.w3.org/TR/webgpu/
     description: Shipped in Chrome. Three.js, Babylon.js, PlayCanvas adding WebGPU backends.
     entry_type: reference
+    license: Free
     tags:
       tech:
         - real-time
@@ -43,10 +54,13 @@ entries:
     url: https://www.disguise.one/
     description: LED volumes maturing from bleeding-edge to standardized.
     entry_type: reference
+    license: Free
     tags:
       output:
         - film-vfx
         - broadcast
+      platform:
+        - web
     readme_tags:
       - LED Volumes
       - Standardizing
@@ -68,10 +82,13 @@ entries:
     deprecated: true
   - name: The Pipeline Conference
     url: https://thepipelineconference.com
-    description: The Pipeline Conference.
+    description: Conference for pipeline TDs and engineers across VFX, animation, and games.
     license: Paid
     entry_type: community
     best_for: Pipeline TD conference
+    tags:
+      platform:
+        - web
     readme_tags:
       - Conference
       - Pipeline
