@@ -541,3 +541,15 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 - **Prompt (2026-06-16):** 1. remove  2. leave it as is — validate and log, I will commit
   - Removed Architecture Pipeline entry (§10 pipeline-overview/01, 3→2 ent); left Motion Design School as-is. Validation ✓ 397 (dupe warning cleared). User commits.
+
+- **Prompt (2026-06-16):** Make plan for - Workstream B (SEO site features)
+  - Planned + approved. Decisions: all 5 tag groups (~121 pages), thin pages (<3 entries) noindex + out of sitemap. Groundwork DONE: lib/slugify.js, render.js export refactor (output byte-identical), lib/seo-pages.js (subsectionPages 151/132 indexable, tagPages 121/96 indexable). Plan: ~/.claude/plans/make-plan-for-optimized-clover.md. NEXT: B1 subsection pages + central sitemap.
+
+- **Prompt (2026-06-17):** go
+  - B1 DONE: build-section-pages.js now emits 12 section + 151 subsection pages (19 thin→noindex); 3-level breadcrumb JSON-LD, parent-section OG, "Browse by subsection" nav on section pages. New build-sitemap.js (final build step) = sole sitemap writer (145 URLs: root+12+132 indexable subs); removed sitemap block from build-html.js. build.sh wired. validate ✓ 397. NEXT: B2 tag pages.
+
+- **Prompt (2026-06-17):** go
+  - B2 DONE: new build-tag-pages.js emits /tags/ hub + 121 tag pages (all 5 groups; 25 thin→noindex), namespaced /tags/<group>/<value>/ (collision-safe). Extracted shared lib/page-shell.js (section pages refactored to use it, output byte-identical). Wired into build.sh after export-data. Sitemap now 242 URLs (13+132 subs+97 tags/hub). validate ✓ 397. NEXT: B3 per-entry JSON-LD.
+
+- **Prompt (2026-06-17):** update handoff and the other documents, we will pick up in the next session
+  - Session wrap. Updated disregard/handoff-enrichment-sweep.md (§7 resume-at-B3 + DONE summaries, §6 flags 4/5 closed, §8 baselines→397), project.md (§11 new Workstream B subsection, §6 build pipeline +tag/sitemap steps, §3 map +5 new files), and the approved B plan STATUS header. NEXT SESSION: B3 per-entry JSON-LD (lib/entry-schema.js; section+subsection pages only). All edits uncommitted (user commits).

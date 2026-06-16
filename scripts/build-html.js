@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Build: README.md → _site/index.html with heading IDs + SEO enhancements.
-// Also emits _site/sitemap.xml and _site/robots.txt.
+// Also emits _site/404.html and _site/robots.txt. (sitemap.xml is built last by
+// scripts/build-sitemap.js so it can include subsection + tag pages.)
 
 const { marked } = require('marked');
 const fs = require('fs');
@@ -424,30 +425,6 @@ for(h=0;h<i.length;h++)g(a,i[h]);var j="set set_once union unset remove delete".
 </body>
 </html>`;
 
-// --- Sitemap ---
-// Real URLs only — root + 12 section pages. Anchor-fragment URLs (`/#section`)
-// were dropped because Google collapses them to the canonical root URL and
-// they dilute crawl budget without adding indexable surface.
-const today = new Date().toISOString().slice(0, 10);
-const sitemapUrls = [
-  { loc: `${SITE_URL}/`, priority: '1.0', changefreq: 'weekly' },
-  ...sections.map(s => ({
-    loc: `${SITE_URL}/sections/${s.slug}/`,
-    priority: '0.9',
-    changefreq: 'weekly'
-  }))
-];
-const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${sitemapUrls.map(u => `  <url>
-    <loc>${u.loc}</loc>
-    <lastmod>${today}</lastmod>
-    <changefreq>${u.changefreq}</changefreq>
-    <priority>${u.priority}</priority>
-  </url>`).join('\n')}
-</urlset>
-`;
-
 // --- robots.txt ---
 const robots = `User-agent: *
 Allow: /
@@ -501,9 +478,9 @@ fs.mkdirSync('_site', { recursive: true });
 fs.cpSync('assets', '_site/assets', { recursive: true });
 fs.writeFileSync('_site/index.html', page);
 fs.writeFileSync('_site/404.html', notFoundPage);
-fs.writeFileSync('_site/sitemap.xml', sitemap);
 fs.writeFileSync('_site/robots.txt', robots);
 console.log('Built _site/index.html');
 console.log('Built _site/404.html');
-console.log(`Wrote sitemap.xml (${sitemapUrls.length} URLs)`);
 console.log('Wrote robots.txt');
+// sitemap.xml is emitted by scripts/build-sitemap.js (final build step) so it can
+// include subsection + tag pages that are generated after this script runs.

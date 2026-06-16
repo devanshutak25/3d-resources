@@ -369,3 +369,22 @@ User decisions (AskUserQuestion): NativeBlend→§09, UAssetAPI→§07, 3D MDB�
 - Architecture Pipeline (§10 pipeline-overview/01): URL was wrong (3ds Max product page); user confirmed not correct + chose REMOVE. Entry deleted; subsection 3→2 entries (chunks unchanged). Side effect: cleared the autodesk.com/products/3ds-max cross-section dupe warning (398→397).
 - Motion Design School Discord (§11 communities-forums/04): url is homepage not invite; user chose LEAVE AS-IS. No change.
 - Validation ✓ 397, 0 errors. Both flagged open items now closed. User commits.
+
+## 2026-06-16 — Workstream B (SEO site features) kickoff + groundwork
+- User picked B over launch track. Plan: `~/.claude/plans/make-plan-for-optimized-clover.md`. Phased B1 (subsection pages) → B2 (tag pages) → B3 (per-entry JSON-LD); B4 deferred. All additive build code, no `data/` edits.
+- Locked decisions: tag pages for ALL 5 tag groups (workflow/output/platform/skill/tech, ~121 pages); thin-content rule = pages with <3 entries emitted but `<meta robots=noindex,follow>` + excluded from sitemap (THIN_THRESHOLD=3).
+- Groundwork DONE: `scripts/lib/slugify.js` (shared Pattern A slugify); `scripts/render.js` refactored to guard `main()` (`require.main===module`) + export helpers (loadSubEntries, githubAnchor, renderSubsection, renderSubsectionMarkdown, etc.) — render output verified byte-identical via git-stash diff; `scripts/lib/seo-pages.js` = single source of truth for page enumeration (subsectionPages 151 total/132 indexable/19 thin; tagPages 121 total/96 indexable/25 thin; subsectionAnchorMap for tag back-links). Uncommitted; user commits.
+
+## 2026-06-17 — Workstream B / B1: subsection pages + centralized sitemap
+- `build-section-pages.js` extended: emits `_site/sections/<slug>/<sub>/index.html` (151 subs; 132 indexable, 19 thin→`<meta robots=noindex,follow>`). Shared `pageShell()` for section+subsection; 3-level BreadcrumbList + CollectionPage + ItemList JSON-LD; reuses parent-section OG png; section pages gained a "Browse by subsection" internal-link nav.
+- Subsection markdown via new exported `render.renderSubsectionMarkdown()` (reuses renderSubsection → identical entry formatting to main site). Section page still shells `render.js <file>` to keep mirror blocks.
+- Sitemap centralized: new `scripts/build-sitemap.js` is the SOLE writer, runs LAST in build.sh. Lists a URL only if indexable (seo-pages) AND the file exists on disk → thin/noindex + not-yet-built page types auto-excluded. Removed the sitemap block from `build-html.js` (still writes index/404/robots). Sitemap now 145 URLs (was 13): root + 12 sections + 132 indexable subsections; tag URLs join in B2.
+- DECISION: tag pages namespaced `/tags/<group>/<value>/` (not flat `/tags/<value>/`) because values collide across groups (`cloud` in platform+tech, `xr` in output+tech). `seo.tagPages()` exposes `pathSlug`.
+- Verified: render output byte-identical (git-stash diff); build-html + build-section-pages + build-sitemap exit 0; validate ✓ 397 (0 errors). Pre-existing em-dash/banned words exist in some ENTRY data (also in canonical index.html) — out of B1 (code-only) scope; flagged for a later data pass. Uncommitted; user commits.
+
+## 2026-06-17 — Workstream B / B2: tag index pages
+- New `scripts/build-tag-pages.js`: reads `_site/data.json` via `seo.tagPages()`, emits `/tags/` hub (indexable) + 121 tag pages for ALL 5 groups (workflow 28, output 15, platform 9, skill 3, tech 66). 96 indexable, 25 thin→`noindex`. Each tag page lists entries (out-link + internal back-link to section anchor) + 3-level BreadcrumbList/CollectionPage/ItemList JSON-LD.
+- URL scheme `/tags/<group>/<value>/` (namespaced) — verified collision-safe (`platform/cloud` and `tech/cloud` are separate dirs).
+- Extracted shared `scripts/lib/page-shell.js` (SITE_URL, REPO_URL, escHtml, pageShell); `pageShell` now takes full `ogImage` URL (was `ogSlug`). Refactored `build-section-pages.js` to import it — section/subsection output byte-identical (diff-verified). Tag pages use the site default `/assets/og-image.png`.
+- Wired `build-tag-pages.js` into build.sh as step 4b (after export-data, before sitemap). Sitemap auto-grew to 242 URLs (root+12 + 132 subs + 96 tags + /tags/ hub); thin tags excluded (verified `tech/3dcoat` n=1 noindex + absent).
+- Full integrated chain runs clean; validate ✓ 397 (0 errors). Authored tag copy banned-word/em-dash clean. Uncommitted; user commits.

@@ -83,6 +83,9 @@ Secondary:
 │   │   ├── canonical-url.test.js
 │   │   ├── quality-score.js   # qualityScore(entry) → {score, factors}.
 │   │   ├── quality-score.test.js
+│   │   ├── slugify.js         # Shared Pattern A anchor slugify (SEO pages + sitemap).
+│   │   ├── seo-pages.js       # SEO page enumeration: subsectionPages/tagPages/THIN_THRESHOLD.
+│   │   ├── page-shell.js      # Shared HTML shell for section/subsection/tag pages.
 │   │   ├── ingest-core.js
 │   │   └── rss.js
 │   ├── passes/
@@ -92,7 +95,9 @@ Secondary:
 │   ├── render.js              # data/ → README.md (lite + full modes).
 │   ├── validate.js            # Schema + vocab + cross-section dupe checks. CI gate.
 │   ├── build-html.js          # README.md → _site/index.html (also writes footer/back-to-top).
-│   ├── build-section-pages.js # Per-section /sections/<slug>/index.html (12 pages).
+│   ├── build-section-pages.js # Per-section + per-subsection pages (/sections/<slug>/[<sub>/]).
+│   ├── build-tag-pages.js     # /tags/ hub + /tags/<group>/<value>/ tag index pages (B2).
+│   ├── build-sitemap.js       # sitemap.xml (FINAL build step; sole writer; indexable + on-disk).
 │   ├── build-llms-txt.js      # llms.txt + llms-full.txt.
 │   ├── build-feed.js          # Atom feed of latest 50 entries.
 │   ├── build-og-images.js     # Per-section 1200×630 PNGs from og-template.svg.
@@ -242,20 +247,22 @@ data/<section>/<sub>/*.yml ─┘
 
 `data/` is the only writable source of catalog content (ADR-0002). README.md and `_site/` are derived.
 
-## 6. Build pipeline (build.sh, 8 steps)
+## 6. Build pipeline (build.sh)
 
 1. `npm install marked js-yaml minisearch`.
 2. `render.js` → full `README.md` (consumed by build-html).
-3. `build-html.js` → `_site/index.html`.
+3. `build-html.js` → `_site/index.html` (+ 404, robots; sitemap moved to step 10).
 4. `build-og-images.js` → per-section 1200×630 PNGs.
-5. `build-section-pages.js` → `/sections/<slug>/index.html` × 12.
+5. `build-section-pages.js` → `/sections/<slug>/index.html` × 12 **+ `/sections/<slug>/<sub>/index.html` × ~151 subsection pages** (Workstream B1).
 6. `export-data.js` → `_site/data.json`.
+6b. `build-tag-pages.js` → `/tags/` hub + `/tags/<group>/<value>/` × 121 tag pages (Workstream B2).
 7. `build-search-index.js` + vendored MiniSearch UMD copy.
 8. `build-graph.js` + copy `assets/graph.html`.
 9. `build-llms-txt.js` → llms.txt + llms-full.txt.
 10. `build-feed.js` → Atom feed.
+11. `build-sitemap.js` → `_site/sitemap.xml` (FINAL step; sole sitemap writer; lists root + section + indexable subsection + indexable tag pages that exist on disk).
 
-After step 2, README is overwritten to lite mode (~19 KB landing page) by `render.js --mode=lite`. The full README is intermediate only.
+After step 2, README is overwritten to lite mode (~19 KB landing page) by `render.js --mode=lite`. The full README is intermediate only. Sitemap is built last so it can include subsection + tag pages generated after build-html.
 
 ## 7. CI
 
@@ -345,6 +352,9 @@ Post-sweep flag cleanup. Plan: `~/.claude/plans/make-plan-to-do-shimmering-cloud
 
 ### Workstream C — facet backfill (in progress, started 2026-06-16)
 User picked C over launch track; edits uncommitted (user commits). Plan: `~/.claude/plans/make-plan-to-do-crystalline-metcalfe.md`. 4 phases: license §04→§09, output §02/§10, skill (narrow educational). **Phase 1 DONE 2026-06-16** — §04 lighting license backfill 65/236 → **236/236 (100%)**, 170 added via subagent w/ strict closed-enum heuristic (opensource-alt/github → Open Source; paper/blog/free web editor/free book/YT → Free; Frontend Masters → Paid; GSAP → Freemium), all spot-verified. Validation ✓ 398, 0 errors. **Phase 2 DONE 2026-06-16** — §09 ai-ml license backfill 96/224 → **224/224 (100%)**, 128 added (all `Free`; all missing were academic papers in papers/01-04 + 1 ml-for-cg IEEE ref). ml-for-cg/01 stores license before entry_type (insert gotcha, handled). Validation ✓ 398, 0 errors. **Phase 3 DONE 2026-06-16** — output backfill §02 modeling 57/237 → **237/237 (100%)** + §10 tools-pipeline 118/260 → **260/260 (100%)**, 322 added (generalist 251, film-vfx 69 [Houdini FX/sim/matchmove/compositing], scientific-viz 2 [heritage laser-scan]). Generalist-as-floor for broad DCC/pipeline tools, matching §01/§04 convention. 7 photogrammetry/03 entries got new well-formed tags blocks. Validation ✓ 398, 0 errors. **Phase 4 DONE 2026-06-16 → WORKSTREAM C COMPLETE.** Skill backfill (narrow): only 14 educational candidates missing skill in §07/§12; tagged 7 instructional Rive/app tutorials in §12 2d-animation-software/01 (3 beginner, 4 intermediate), skipped 7 non-graded (talks/research/labs/live-streams/sci courses w/ unstated difficulty). Validation ✓ 398, 0 errors. **Workstream C summary: license §04 65→236/236 + §09 96→224/224 (100%); output §02 57→237/237 + §10 118→260/260 (100%); skill narrow pass (7 added).** All C edits uncommitted (user commits). NEXT: Workstream B (SEO site features: subsection pages, tag pages, per-entry JSON-LD) OR launch track (pub_plan Part 2). OPEN items now CLOSED 2026-06-16: Architecture Pipeline §10 pipeline-overview/01 had wrong url (3ds Max product page) → user chose REMOVE (subsection 3→2 ent, cleared autodesk dupe warning 398→397); Motion Design School Discord §11 → user chose LEAVE AS-IS. Validation ✓ 397, 0 errors. User commits.
+
+### Workstream B — SEO site features (in progress, started 2026-06-16; B3 pending)
+Code-only, additive build steps, NO `data/` edits. Plan: `~/.claude/plans/make-plan-for-optimized-clover.md` (approved). **Locked decisions:** tag pages for ALL 5 tag groups (~121 pages); thin-content rule = pages with <`THIN_THRESHOLD`(3) entries emitted but `<meta robots=noindex,follow>` + excluded from sitemap. **Groundwork DONE 2026-06-17:** `scripts/lib/slugify.js` (shared Pattern A slugify); `scripts/render.js` refactored — guarded `main()` (`require.main===module`) + `module.exports` of helpers (loadSubEntries, githubAnchor, renderSubsection, **renderSubsectionMarkdown**, etc.), render output byte-identical (git-stash diff); `scripts/lib/seo-pages.js` = single source of truth for page enumeration (`subsectionPages()`, `tagPages(dataJson)`, `subsectionAnchorMap()`, `THIN_THRESHOLD=3`, tag `pathSlug`); `scripts/lib/page-shell.js` = shared `<head>`/header/footer shell (`pageShell` takes full `ogImage` URL). **B1 DONE 2026-06-17:** `build-section-pages.js` emits 12 section + 151 subsection pages (`/sections/<slug>/<sub>/`; 132 indexable, 19 thin→noindex), 3-level Breadcrumb/CollectionPage/ItemList JSON-LD, parent-section OG, "Browse by subsection" nav on section pages. **Sitemap centralized:** new `scripts/build-sitemap.js` = SOLE sitemap writer, runs LAST in build.sh (step 9); lists a URL only if indexable AND file exists on disk; removed sitemap block from `build-html.js` (still writes index/404/robots). **B2 DONE 2026-06-17:** new `scripts/build-tag-pages.js` (build.sh step 4b, after export-data) → `/tags/` hub + 121 tag pages, namespaced `/tags/<group>/<value>/` (collision-safe: `platform/cloud` ≠ `tech/cloud`), 96 indexable + 25 thin→noindex. Full chain exits 0; sitemap 242 URLs (root+12+132 subs+96 tags+hub); validate ✓ 397, 0 errors; section/subsection output byte-identical across page-shell extraction. **FLAG (data pass, later):** some ENTRY descriptions still contain em-dashes / a few banned words (pre-existing, also in canonical index.html) — out of B (code-only) scope. **NEXT = B3 (per-entry JSON-LD):** new `scripts/lib/entry-schema.js` (`entryToJsonLd` by `entry_type`: software/tool/plugin→SoftwareApplication, book→Book, paper→ScholarlyArticle, channel/tutorial→CreativeWork, asset-source/marketplace/service→WebSite/Organization, else Thing); emit per-entry nodes on section + subsection pages ONLY (not `index.html` — would bloat the ~1.1 MB single-page file). B4 (related "See also") deferred. All B edits uncommitted (user commits). Build pipeline note: build.sh now 10 logical steps (added 4b tag pages + 9 sitemap); §6 of this file lists the old order.
 
 ### Leftover §12/§10 RELOCATE flag clearance (DONE 2026-06-15) — CATALOG NOW FULLY FLAG-FREE
 Completeness check found 17 untracked RELOCATE/Misfit notes in §12 software-reference + §10 conversion-tools (§12 was "pre-done" so its misfile relocations were never run). Cleared in 4 buckets: **A** 5 moves (Mixamo Converter + USDZ → §02 blender-plugins-addons; UneeQ → §09 ai-assisted-cg-tools; stable-dreamfusion → §09 3d-generation; Stable Animation SDK → §09 video-generation); **B** MusicGen dedup-deleted (§09 already has AudioCraft/MusicGen); **C** MicMac bogus blender-plugins mirror removed; **D** 10 stale notes stripped in place (viewers-file-utilities ×5, pipeline ×1, misc-3d-utilities-software ×2 [JanusVR shader-theory mirror also removed], Pixen, Free Mo Cap). `grep RELOCATE/Misfit data/` = 0 catalog-wide. All chunks ≤50. Validation ✓ 410, 0 errors. **Remaining repo work = publication/launch only (pub_plan Part 2, §11 above) + intentional empty stubs.** All edits uncommitted (user commits).

@@ -17,12 +17,17 @@ node scripts/build-html.js
 # and shared-link unfurls (Twitter, Reddit, Discord, Slack).
 node scripts/build-og-images.js
 
-# Step 2c: emit per-section HTML pages at /sections/<slug>/ for SEO.
-# These are independently indexable and what sitemap.xml points at.
+# Step 2c: emit per-section + per-subsection HTML pages at /sections/<slug>/ and
+# /sections/<slug>/<sub>/ for SEO. Independently indexable; thin subsections are
+# marked noindex. sitemap.xml is built last (build-sitemap.js).
 node scripts/build-section-pages.js
 
 # Step 4: export entries as JSON index for client-side filter UI
 node scripts/export-data.js _site/data.json
+
+# Step 4b: emit per-tag index pages at /tags/<group>/<value>/ (long-tail SEO).
+# Reads data.json; thin tags (<3 entries) are noindex.
+node scripts/build-tag-pages.js _site/data.json _site/tags
 
 # Step 5: vendor MiniSearch UMD + build serialized search index
 mkdir -p _site/assets/js/vendor
@@ -39,3 +44,7 @@ node scripts/build-llms-txt.js
 
 # Step 8: emit Atom feed of the 50 most recently added entries.
 node scripts/build-feed.js
+
+# Step 9: build sitemap.xml LAST — enumerates root + section + indexable
+# subsection (+ tag) pages that exist on disk by this point.
+node scripts/build-sitemap.js

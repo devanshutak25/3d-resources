@@ -323,6 +323,56 @@ function renderMirrorBlocks(sectionSlug) {
   return lines;
 }
 
+// Render one subsection block (H3 + software table + reference bullets).
+// Factored out of renderSection so subsection drill-down pages reuse the exact
+// same entry formatting. Returns an array of markdown lines (no H2, no mirror
+// blocks, no trailing rule).
+function renderSubsection(section, sub, sectionFile) {
+  const lines = [];
+  lines.push(`### ${sub.title}`);
+  lines.push('');
+  if (sub.description) {
+    lines.push(sub.description);
+    lines.push('');
+  }
+
+  // Skip deprecated entries from README (link checker auto-flags these).
+  const rawEntries = loadSubEntries(sectionFile, sub.slug, section.slug);
+  const active = alphaSort(rawEntries.filter(e => !e.deprecated));
+  const software = active.filter(e => e.entry_type === 'software');
+  const references = active.filter(e => e.entry_type !== 'software');
+
+  const currentLoc = `${section.slug}/${sub.slug}`;
+
+  if (software.length) {
+    lines.push(...renderSoftwareTable(software, currentLoc));
+  }
+
+  if (references.length) {
+    if (software.length) {
+      lines.push('**Related:**');
+    }
+    for (const e of references) {
+      const desc = e.description ? `. ${processDescription(e.description)}` : '';
+      const pill = licensePill(e.license);
+      const seeAlso = seeAlsoLinks(e, currentLoc);
+      const seeAlsoSuffix = seeAlso ? `<br>${seeAlso}` : '';
+      lines.push(`- [${wrapEmoji(e.name)}](${e.url})${pill}${desc}${seeAlsoSuffix}`);
+    }
+    lines.push('');
+  }
+  return lines;
+}
+
+// Render a single subsection to a markdown string. Used by build-section-pages.js
+// for /sections/<slug>/<sub-slug>/ drill-down pages. Returns '' if not found.
+function renderSubsectionMarkdown(sectionFile, subSlug) {
+  const section = catalog.loadSection(sectionFile);
+  const sub = (section.subsections || []).find(s => s.slug === subSlug);
+  if (!sub) return '';
+  return renderSubsection(section, sub, sectionFile).join('\n');
+}
+
 function renderSection(section, sectionFile) {
   const lines = [];
   lines.push(`## ${section.title}`);
@@ -333,38 +383,7 @@ function renderSection(section, sectionFile) {
   }
 
   for (const sub of section.subsections) {
-    lines.push(`### ${sub.title}`);
-    lines.push('');
-    if (sub.description) {
-      lines.push(sub.description);
-      lines.push('');
-    }
-
-    // Skip deprecated entries from README (link checker auto-flags these).
-    const rawEntries = loadSubEntries(sectionFile, sub.slug, section.slug);
-    const active = alphaSort(rawEntries.filter(e => !e.deprecated));
-    const software = active.filter(e => e.entry_type === 'software');
-    const references = active.filter(e => e.entry_type !== 'software');
-
-    const currentLoc = `${section.slug}/${sub.slug}`;
-
-    if (software.length) {
-      lines.push(...renderSoftwareTable(software, currentLoc));
-    }
-
-    if (references.length) {
-      if (software.length) {
-        lines.push('**Related:**');
-      }
-      for (const e of references) {
-        const desc = e.description ? `. ${processDescription(e.description)}` : '';
-        const pill = licensePill(e.license);
-        const seeAlso = seeAlsoLinks(e, currentLoc);
-        const seeAlsoSuffix = seeAlso ? `<br>${seeAlso}` : '';
-        lines.push(`- [${wrapEmoji(e.name)}](${e.url})${pill}${desc}${seeAlsoSuffix}`);
-      }
-      lines.push('');
-    }
+    lines.push(...renderSubsection(section, sub, sectionFile));
   }
 
   // Round 3 §D: append mirrored Software Reference tables (collapsed by default).
@@ -578,4 +597,23 @@ function main() {
   process.stdout.write(out);
 }
 
-main();
+// Exported for reuse by build-section-pages.js (subsection pages) and
+// lib/seo-pages.js (page enumeration). These are the canonical entry-loading +
+// rendering helpers; reusing them keeps subsection pages identical to the main
+// site and keeps SEO page counts in sync with what actually renders.
+module.exports = {
+  loadSubEntries,
+  alphaSort,
+  renderSoftwareTable,
+  seeAlsoLinks,
+  processDescription,
+  licensePill,
+  wrapEmoji,
+  githubAnchor,
+  renderSubsection,
+  renderSubsectionMarkdown
+};
+
+if (require.main === module) {
+  main();
+}

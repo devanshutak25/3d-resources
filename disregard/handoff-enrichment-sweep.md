@@ -270,9 +270,9 @@ Leave terse-but-correct descriptions + already-well-tagged entries alone. Chunks
 2. **Over-cap chunks (>50, ADR-0001):** `plugin-marketplaces/01` (Phase 2, DONE) + the 2 §12 chunks (A1, DONE). 
 3. **vfxcamdb.com** §10 dupe (Phase 3, DONE).
 
-**OPEN (need user decision — surfaced in A2, NOT touched):**
-4. **"Architecture Pipeline"** (`data/10-tools-pipeline/pipeline-overview/01-pipeline-overview.yml`, first entry) — an archviz `reference` entry whose `url` is wrongly `https://www.autodesk.com/products/3ds-max/` (the 3ds Max product page). `dedupe-entries.js` flags it as a 3ds Max dupe but it is NOT a dupe — it needs its real intended archviz-pipeline URL, or deletion. Ask user.
-5. **Motion Design School** — a "Discord" entry (`§11 communities-forums/04`) shares `https://motiondesign.school/` with the "(site)" course entry in `paid-tutorial-platforms/01`. The Discord entry likely needs the real Discord invite URL instead. Ask user.
+**RESOLVED (A2 OPEN flags, closed 2026-06-16):**
+4. **"Architecture Pipeline"** (§10 pipeline-overview/01) — wrong URL (3ds Max product page); user chose REMOVE. Entry deleted (subsection 3→2); cleared the autodesk dupe warning (398→397).
+5. **Motion Design School** Discord (§11 communities-forums/04) — homepage not invite URL; user chose LEAVE AS-IS. No change.
 
 **FLAG (content pass, later):**
 6. **Rive web-animation tutorials misfiled** — `data/12-software-reference/2d-animation-software/01` holds ~16 Rive/Flutter/SwiftUI/Webflow how-to tutorials (roughly entries 28–44) sitting in a *software* table. Should move to a learning/tutorial home or be dropped. Out of A1/A2 scope.
@@ -281,30 +281,41 @@ Leave terse-but-correct descriptions + already-well-tagged entries alone. Chunks
 
 ## 7. First actions for next session
 
-**Workstream A (cleanup) DONE. Resume at Workstream C, then B.** Plan: `~/.claude/plans/what-more-can-be-indexed-oasis.md`. Phased, one section/phase at a time, validate + log + STOP for go-ahead between. All edits UNCOMMITTED (user commits separately).
+**Workstreams A + C DONE. Workstream B IN PROGRESS — RESUME AT B3.** Plans: `~/.claude/plans/what-more-can-be-indexed-oasis.md` (A/B/C overview) + `~/.claude/plans/make-plan-for-optimized-clover.md` (Workstream B detail, APPROVED). Phased, validate + log + STOP for go-ahead between phases. All edits UNCOMMITTED (user commits separately). The 2 A2 OPEN flags (§6 #4,#5) are now CLOSED: Architecture Pipeline REMOVED; Motion Design School LEFT AS-IS.
 
-1. Read `project.md`, `CLAUDE.md`, all `memory/*`, and this file.
+1. Read `project.md`, `CLAUDE.md`, all `memory/*`, this file, and the approved B plan.
 2. Append the new user prompt to `memory/user-prompts.md` (protocol).
-3. **(Optional, quick) Close the 2 OPEN flags** (§6 items 4+5): Architecture Pipeline wrong URL + Motion Design School Discord URL. Ask user for the correct URLs, or delete. Cheap; can fold into start of session.
-4. **Workstream C — facet backfill (honest gaps only; skip N/A-by-design).**
-   - **C1 license backfill (highest ROI):** §04 lighting (~170/236 missing `license`, mostly `rendering-shader-theory/01-05`) + §09 ai-ml (~128/224 missing). Closed enum only (`Open Source`/`Free`/`Free NC`/`Freemium`/`Paid`/`Mixed`/`null`). Infer from host: GitHub repo→`Open Source`, arXiv/paper→`Free`, SaaS→`Freemium`/`Paid`. Chunk-by-chunk, worst-first, validate per chunk.
-   - **C2 output backfill where applicable:** §02 (~180 missing) + §10 (~145). Only where a clear target medium exists; leave true generalist tools untagged rather than guess.
-   - **C3 skill — narrow:** only tutorial/course/channel/book entries in §07/§12 where difficulty is obvious. NOT a mass-tag of software/tools.
-5. **Workstream B — SEO/site features (code; additive build steps, no `data/` edits):**
-   - **B1** subsection pages: extend `scripts/build-section-pages.js` → `_site/sections/<slug>/<sub-slug>/index.html` (~148 pages), 3-level breadcrumb JSON-LD, add to sitemap.
-   - **B2** tag index pages: new `scripts/build-tag-pages.js` reading `_site/data.json` → `_site/tags/<tag>/`; wire into `build.sh` after `export-data.js`; add to sitemap.
-   - **B3** per-entry JSON-LD by `entry_type` (software→SoftwareApplication, book→Book, paper→ScholarlyArticle, channel/tutorial→CreativeWork, else WebPage) in `build-html.js` + `build-section-pages.js`. Rich Results spot-check.
-   - **B4** (defer) related-items "See also".
+3. **RESUME AT B3 — per-entry JSON-LD structured data** (final code phase of Workstream B):
+   - New `scripts/lib/entry-schema.js` → `entryToJsonLd(entry, sectionTitle)` mapped by `entry_type`: `software`/`tool`/`plugin`→`SoftwareApplication` (+`applicationCategory` from section, `operatingSystem` from `tags.platform`, `offers` from `pricing`/`license`); `book`→`Book`; `paper`→`ScholarlyArticle` (+`datePublished` from `year`); `channel`/`tutorial`→`CreativeWork`; `asset-source`/`marketplace`/`service`→`WebSite`/`Organization`; else→`Thing`. Map closed-enum `license`→CC/SPDX URL where sensible; `isAccessibleForFree` from license.
+   - Emit per-entry nodes ONLY on section + subsection pages (bounded counts) inside the page `@graph`/ItemList `item`. Do NOT add ~3,400 nodes to `index.html` (bloats the ~1.1 MB single-page file) — keep its existing aggregate `@graph`. (Deliberate deviation from the audit's literal "build-html.js + build-section-pages.js" wording; payload-size rationale. Flag to user at B3 start.)
+   - Touch `scripts/build-section-pages.js` only (section + subsection emit). Rich Results / schema.org spot-check a sample of each `@type`.
+   - **B4** (defer) related-items "See also" — out of scope, gate behind B1–B3 landing.
+4. After B3: `bash build.sh` clean; update `project.md` §11 + `memory/decisions.md` + `memory/user-prompts.md`; STOP for user. Then Workstream B COMPLETE → only launch track (pub_plan Part 2) remains.
 
-**A-track DONE this session (all uncommitted):** A1 split 2 over-cap §12 chunks; A2 26-entry dedup (23 consolidations via dual_listed_in + 3 plain deletes). Catalog 3,421. Validation ✓ 398, 0 errors.
+**DONE earlier this session (all uncommitted):**
+- **Workstream C (facet backfill):** license §04 65→236/236 + §09 96→224/224 (100%); output §02 57→237/237 + §10 118→260/260 (100%); skill narrow pass (+7 educational). Validation ✓ 398→397 (Architecture Pipeline removal cleared a dupe warning).
+
+**DONE this session — Workstream B groundwork + B1 + B2 (CODE, additive build steps, NO `data/` edits):**
+- **Groundwork:** `scripts/lib/slugify.js` (shared Pattern A); `scripts/render.js` refactor — guarded `main()` (`require.main===module`) + `module.exports` of helpers (loadSubEntries, githubAnchor, renderSubsection, **renderSubsectionMarkdown**, etc.); render output byte-identical (git-stash diff). `scripts/lib/seo-pages.js` = SINGLE SOURCE OF TRUTH for page enumeration: `subsectionPages()`, `tagPages(dataJson)`, `subsectionAnchorMap()`, `THIN_THRESHOLD=3`, tag `pathSlug`.
+- **`scripts/lib/page-shell.js`** = shared `<head>`/header/breadcrumb/footer/back-to-top shell (`SITE_URL`, `REPO_URL`, `escHtml`, `pageShell`). `pageShell` takes a full `ogImage` URL. B3 will likely add per-entry `@graph` via the JSON-LD passed into `pageShell` (no shell change needed).
+- **B1 — subsection pages:** `build-section-pages.js` emits 12 section + 151 subsection pages (`/sections/<slug>/<sub>/`; 132 indexable, 19 thin→`noindex`); 3-level Breadcrumb/CollectionPage/ItemList JSON-LD; parent-section OG image; "Browse by subsection" internal-link nav on section pages. Section markdown still shelled from `render.js <file>` (keeps mirror blocks); subsection markdown via `render.renderSubsectionMarkdown()`.
+- **Sitemap centralized:** new `scripts/build-sitemap.js` = SOLE sitemap writer, runs LAST in build.sh (step 9). Lists a URL only if indexable (seo-pages) AND the page file exists on disk → thin/noindex + not-yet-built page types auto-excluded. Removed the sitemap block from `build-html.js` (still writes index/404/robots).
+- **B2 — tag pages:** new `scripts/build-tag-pages.js` (build.sh step 4b, after export-data) → `/tags/` hub (indexable) + 121 tag pages for ALL 5 groups (workflow 28, output 15, platform 9, skill 3, tech 66); 96 indexable, 25 thin→`noindex`. URL `/tags/<group>/<value>/` namespaced (collision-safe: `platform/cloud` ≠ `tech/cloud`). Each page: out-link + internal back-link to section anchor + 3-level JSON-LD.
+- **Locked decisions:** all 5 tag groups; thin-content rule = pages with <`THIN_THRESHOLD`(3) entries emitted but `<meta robots=noindex,follow>` + excluded from sitemap.
+- **Verified:** full chain (render→build-html→build-section-pages→export-data→build-tag-pages→build-sitemap) exits 0; sitemap 242 URLs (root + 12 sections + 132 subs + 96 tags + `/tags/` hub); validate ✓ 397, 0 errors; section/subsection output byte-identical across the page-shell extraction (diff-verified); authored copy banned-word/em-dash clean.
+- **FLAG (data pass, later):** some ENTRY descriptions still contain em-dashes / a few banned words (pre-existing, also in canonical index.html) — out of Workstream B (code-only) scope.
 
 ## 8. Quick state-check commands
 
 ```bash
-node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (current baseline 398 warnings; freeform-tech + 6 distinct-pair dupes, benign)
-node scripts/dedupe-entries.js | grep -E '\] '           # expect ONLY 7: 6 distinct pairs + 3ds Max data error (§6 #4). Any other = new dupe.
-# Catalog total (catalog-parser truth = 3421; grep over-counts by ~2 via description lines):
-node -e "const c=require('./scripts/lib/catalog');let n=0;for(const _ of c.iterEntries())n++;console.log('total',n)"   # expect 3421
+node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (current baseline 397 warnings; freeform-tech + 6 distinct-pair dupes, benign)
+node scripts/dedupe-entries.js | grep -E '\] '           # expect ONLY 6 distinct pairs (3ds Max data error removed). Any other = new dupe.
+# Catalog total (catalog-parser truth = 3420 after Architecture Pipeline removal; grep over-counts via description lines):
+node -e "const c=require('./scripts/lib/catalog');let n=0;for(const _ of c.iterEntries())n++;console.log('total',n)"   # expect ~3420
+# --- Workstream B (SEO) build check (no data/ edits; regenerates _site/): ---
+node scripts/build-section-pages.js | tail -1            # 12 section + 151 subsection pages (19 noindex)
+node scripts/export-data.js _site/data.json && node scripts/build-tag-pages.js _site/data.json _site/tags   # /tags/ hub + 121 tag pages (25 noindex)
+node scripts/build-sitemap.js                            # sitemap 242 URLs (root+12+132 subs+96 tags+hub)
 # No §12 chunk over cap (A1 result):
 for f in data/12-software-reference/*/*.yml; do n=$(grep -c '^  - name:' "$f"); [ "$n" -gt 50 ] && echo "OVER $f=$n"; done; echo "ok"
 # A2 OPEN flags to resolve (§6 #4,#5):
