@@ -49,6 +49,8 @@ entries:
     license: Open Source
     entry_type: plugin
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
         - blender
@@ -71,6 +73,8 @@ entries:
     license: Paid
     entry_type: plugin
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
         - blender
@@ -91,6 +95,8 @@ entries:
     license: Paid
     entry_type: plugin
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
         - blender
@@ -109,6 +115,8 @@ entries:
     license: Free
     entry_type: plugin
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
         - blender
@@ -131,6 +139,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       tech:
         - blender
         - blender-addon
@@ -151,6 +161,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -169,6 +181,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -187,6 +201,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -205,6 +221,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -266,6 +284,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -281,6 +301,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -317,6 +339,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -351,6 +375,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -387,6 +413,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -403,6 +431,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -443,6 +473,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac

@@ -10,6 +10,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: MAZANOKE
@@ -23,6 +25,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: 123apps
@@ -36,6 +40,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: CloudConvert
@@ -49,6 +55,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
         - cloud
@@ -63,6 +71,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: Online Convert
@@ -76,6 +86,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: FreeConvert
@@ -89,6 +101,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: Assimp (GitHub)
@@ -102,6 +116,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -236,6 +252,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -251,6 +269,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -268,6 +288,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -283,6 +305,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
   - name: PNGQuant
@@ -296,6 +320,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -313,6 +339,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - audio-design
       platform:
@@ -348,6 +376,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -391,6 +421,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - animation
       platform:
@@ -403,6 +435,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -416,6 +450,8 @@ entries:
     entry_type: tool
     license: Free
     tags:
+      output:
+        - generalist
       tech:
         - usd
       platform:
@@ -448,6 +484,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - modeling
       platform:

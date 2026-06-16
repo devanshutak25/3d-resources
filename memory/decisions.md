@@ -9,6 +9,17 @@ Architectural / structural decisions w/ rationale + date.
   - Impact:
 
 ## Log
+- **2026-06-15 — Cross-subsection dupe consolidation (Workstream A2).**
+  - Decision: `dedupe-entries.js` found 27 same-URL groups. Policy (AskUserQuestion): consolidate true dupes via **dual_listed_in** (keep 1 canonical copy + mirror so site render is unchanged), NOT plain delete; leave 6 distinct-product pairs untouched.
+  - Did (controlled one-off script, catalog.js loadChunk/saveChunk, explicit op list w/ assertions): 23 consolidations (canonical = `dedupe-entries.js` quality pick; dual added pointing at deleted copy's section/sub) + 3 plain deletes of same-subsection exact dupes (3DVF, CG Boost channel/UC form, Clo3D). 26 entries removed. Catalog 3447→3421 (parser count; prior "3449" was a grep over-count of 2 description lines).
+  - Why: ADR mirror system = one canonical + dual_listed_in. dual_listed_in policy = zero render change, fully reversible.
+  - Impact: validation ✓ 398 warnings (was 410; 12 cross-section dupe warnings cleared), 0 errors. Remaining 7 dedupe flags = 6 intentional distinct pairs (Spline/Spline AI, Rokoko Vision/Smartsuit, O3DE/Lumberyard, OpenToonz/Toonz-legacy, DaVinci/Studio) + 1 data error.
+  - OPEN for user: (1) "Architecture Pipeline" (§10 pipeline-overview/01) wrongly uses the 3ds Max product URL — needs its real archviz-pipeline URL. (2) Motion Design School — a "Discord" entry (§11 communities-forums/04) shares motiondesign.school with the "(site)" course entry; Discord one likely needs the real invite URL.
+- **2026-06-15 — Over-cap §12 chunk split (post-audit cleanup, Workstream A1).**
+  - Decision: Fresh 3-agent audit found 2 §12 chunks over the ≤50 cap (§12 was "pre-done", never re-checked). Split both at entry 50, preserving insertion order.
+  - Changes: `2d-animation-software/01` 58→50, new `02`=8 (Pixelator…Pixen site, pixel-art tools); `pipeline-software/01` 66→50, new `02`=16. Bumped both `chunks: 1`→`2` in `data/12-software-reference.yml`.
+  - Why: ADR-0001 chunk cap. Memory's "all chunks ≤50 / flag-free" claim was stale for §12.
+  - Impact: 0 §12 chunks >50. Validation ✓ 410 warnings, 0 errors. Note: 2d-animation/01 still holds a misfiled cluster of ~16 Rive web-animation tutorials (entries 28-44) — content issue, out of A1 scope, flag for later. Plan: `~/.claude/plans/what-more-can-be-indexed-oasis.md`.
 - **2026-06-15 — AI creative tools enrichment + ProtoPie add (user-supplied directory).**
   - Decision: User submitted a large AI-creative-tools directory + ProtoPie/Figma. AskUserQuestion picks: **hybrid structure** (new §12 buckets for big clusters, fold rest), **curated subset** (skip dead/sunsetting + no-URL tools), **refresh existing** entries with June-2026 intel. Plan `~/.claude/plans/add-https-www-protopie-io-https-www-figm-transient-scroll.md`.
   - New §12 buckets (registered in `data/12-software-reference.yml`, all `mirror_into: ai-ml-for-cg`, no per-entry dual_listed since no matching §09 sub): `ai-canvas-software` (6: Flora, Weavy, Higgsfield Canvas, Freepik Spaces, Wireflow, Kaiber), `ai-design-viz-software` (8: Vizcom, NewArc, Visualizee, Veras, SketchPro, Mnml.ai, Arko.ai, LookX), `ai-product-photography-software` (6: Omi, Flair.ai, Claid.ai, Photoroom, Threekit, Emersya).
@@ -328,3 +339,33 @@ User decisions (AskUserQuestion): NativeBlend→§09, UAssetAPI→§07, 3D MDB�
 - **Recount:** actual stored entries across `data/` = **3,414** (counted `^  - name:` in chunk files; section-metadata files excluded; dual-listed stored once so no double-count). Per-section: §07 814, §12 734, §11 423, §01 266, §10 264, §02 237, §04 236, §09 224, §08 137, §06 41, §05 26, §03 12. Canonical copy was stale at "3,300+".
 - **Propagated 3,300+ → 3,400+** (rounded down, won't go stale on next add) across all `handoff/*.md` (28 occurrences, copy-snippets.md canonical + 10 downstream launch docs). Left `_maintenance/awesome-mining/*` untouched (third-party mined lists, not our count).
 - **GitHub About drafted + stored** in `handoff/copy-snippets.md` (new "GitHub About (repo sidebar)" section): description (137 chars, no em-dash per public-surface rule), website, 20 topics (canonical list trimmed from 22, dropped `cgi`+`curated` for GitHub's 20-topic cap). pub_plan Part 2 "GitHub About description + topics" now copy-ready (not yet applied on GitHub by user).
+
+## 2026-06-16 — Workstream C Phase 1: license backfill §04 lighting
+- Post-audit plan resumed at C (facet backfill); user picked C over launch track. Edits left uncommitted.
+- §04 license coverage 65/236 → **236/236 (100%)**. 170 added via subagent (strict closed-enum + URL/host heuristic), all spot-verified.
+- Heuristic locked: opensource-alt/github code repo → Open Source; paper/PDF/blog/free web editor/free book/YT channel → Free; paywalled course (Frontend Masters) → Paid; GSAP → Freemium; Framer Motion (OSS) → Open Source. Ambiguous → skip (none needed).
+- Validation ✓ 398 warnings, 0 errors. NEXT: Phase 2 (license §09 ai-ml, 128 missing).
+
+## 2026-06-16 — Workstream C Phase 2: license backfill §09 ai-ml
+- §09 license coverage 96/224 → **224/224 (100%)**. 128 added, all `Free` (all missing were academic papers in papers/01-04 + 1 ml-for-cg IEEE ref).
+- §09 papers convention reaffirmed: entry_type:paper → license Free (arXiv/PDF free to read). No runnable OSS repo as primary url, so no Open Source assigned.
+- ml-for-cg/01 stores license BEFORE entry_type (script-insert gotcha; agent reverted bad pass + fixed the 1 missing manually). 8/8, no dupes.
+- Validation ✓ 398, 0 errors. NEXT: Phase 3 (output backfill §02 modeling 180 missing + §10 tools-pipeline 142 missing).
+
+## 2026-06-16 — Workstream C Phase 3: output backfill §02 + §10
+- §02 modeling output 57/237 → **237/237 (100%)**; §10 tools-pipeline 118/260 → **260/260 (100%)**. 322 added.
+- Distribution: generalist 251, film-vfx 69, scientific-viz 2. Mapping: game-engine/export → games (none in missing set); Houdini FX/sim/matchmove/compositing → film-vfx; heritage laser-scan → scientific-viz; broad DCC/pipeline/conversion/photogrammetry/retopo/UV/material tools → generalist (floor, matches existing convention e.g. Crowdrender).
+- Generalist-as-floor chosen for consistency with §01/§04 sweep (output reached ~100% there too) over plan's "leave untagged" caution; output filter now complete + honest (every entry IS a 3D/CG resource).
+- 7 photogrammetry/03 entries had no tags block; created well-formed (4/6/8 indent). Validation ✓ 398, 0 errors. NEXT: Phase 4 (skill backfill, narrow educational only).
+
+## 2026-06-16 — Workstream C Phase 4: skill backfill (narrow) → WORKSTREAM C COMPLETE
+- Scope §07/§12 educational entries missing skill: only 14 candidates catalog-query. Tagged 7 clearly-instructional Rive/app tutorials in §12 2d-animation-software/01 (beginner ×3: Pointer Tracking, Build an animated app, Adding Animation to Buttons; intermediate ×4: AJ Picard, SwiftUI Login Screen, Unity+Noesis, Riveflow).
+- Skipped 7 non-graded (difficulty not inferable): Metaverse Standards Forum + I3D Past Projects (§07 talk/research showcases); Flutter Community (live-stream demo), Drew Berry/Janet Iwasa (pro sci-anim showcases/labs), Clarafi + Brady Johnston (sci courses, difficulty unstated). Honest > mass-tag.
+- Validation ✓ 398, 0 errors. **WORKSTREAM C COMPLETE (Phases 1-4): license §04+§09 → 100%; output §02+§10 → 100%; skill narrow pass done.**
+- OPEN (need user URLs, surfaced): Architecture Pipeline §10 pipeline-overview/01 wrong url (3ds Max product page); Motion Design School Discord §11 communities-forums/04 url is homepage not invite.
+- Remaining repo work: Workstream B (SEO site features) + launch track (pub_plan Part 2). All C edits uncommitted.
+
+## 2026-06-16 — Open-item resolution (post Workstream C)
+- Architecture Pipeline (§10 pipeline-overview/01): URL was wrong (3ds Max product page); user confirmed not correct + chose REMOVE. Entry deleted; subsection 3→2 entries (chunks unchanged). Side effect: cleared the autodesk.com/products/3ds-max cross-section dupe warning (398→397).
+- Motion Design School Discord (§11 communities-forums/04): url is homepage not invite; user chose LEAVE AS-IS. No change.
+- Validation ✓ 397, 0 errors. Both flagged open items now closed. User commits.

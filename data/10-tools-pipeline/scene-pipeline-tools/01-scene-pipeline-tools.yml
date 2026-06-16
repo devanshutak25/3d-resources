@@ -28,6 +28,8 @@ entries:
     entry_type: tool
     best_for: AI image/video inference (depth, masks)
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -85,6 +87,8 @@ entries:
     entry_type: tool
     best_for: Cross-DCC geometry transfer
     tags:
+      output:
+        - generalist
       workflow:
         - modeling
       platform:
@@ -107,6 +111,8 @@ entries:
     entry_type: tool
     best_for: CG plugin build systems
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -147,6 +153,8 @@ entries:
     entry_type: tool
     best_for: Cross-DCC scene abstraction
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -167,6 +175,8 @@ entries:
     entry_type: tool
     best_for: Maya Python UI dev
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -188,6 +198,8 @@ entries:
     entry_type: tool
     best_for: Maya scene queries
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -209,6 +221,8 @@ entries:
     entry_type: tool
     best_for: 3ds Max Python bindings
     tags:
+      output:
+        - generalist
       platform:
         - win
       tech:
@@ -227,6 +241,8 @@ entries:
     entry_type: tool
     best_for: Maya Python wrapper
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -307,6 +323,8 @@ entries:
     entry_type: reference
     best_for: DCC Python script examples
     tags:
+      output:
+        - generalist
       workflow:
         - creative-coding
       platform:
@@ -351,6 +369,8 @@ entries:
     entry_type: tool
     best_for: Maya scripting in PyCharm
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -372,6 +392,8 @@ entries:
     entry_type: tool
     best_for: Maya scripting in Sublime
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -393,6 +415,8 @@ entries:
     entry_type: tool
     best_for: Houdini VEX in Sublime
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac
@@ -412,6 +436,8 @@ entries:
     entry_type: tool
     best_for: Nuke scripting in vim
     tags:
+      output:
+        - generalist
       platform:
         - win
         - mac

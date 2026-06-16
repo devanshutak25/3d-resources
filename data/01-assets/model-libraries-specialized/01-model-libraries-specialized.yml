@@ -118,7 +118,7 @@ entries:
     url_status: ok
   - name: NASA 3D Resources
     url: https://science.nasa.gov/3d-resources/
-    description: 'Spacecraft, planets, terrain models (mixed CC0 / CC-BY. Check per-asset license; mirror at nasa3d.arc.nasa.gov).'
+    description: Spacecraft, planets, terrain models (mixed CC0 / CC-BY. Check per-asset license; mirror at nasa3d.arc.nasa.gov).
     license: Mixed
     entry_type: asset-source
     tags:
@@ -157,6 +157,8 @@ entries:
       - Historical
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
   - name: Smithsonian Open Access
     url: https://www.si.edu/openaccess
     description: Millions of 2D/3D museum assets, CC0.

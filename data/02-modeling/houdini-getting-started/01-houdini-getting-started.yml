@@ -9,6 +9,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       skill:
         - beginner
       platform:
@@ -25,6 +27,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       skill:
         - beginner
         - intermediate
@@ -38,6 +42,8 @@ entries:
     license: Free
     entry_type: tutorial
     tags:
+      output:
+        - film-vfx
       workflow:
         - modeling
       tech:
@@ -63,6 +69,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       skill:
         - beginner
       platform:

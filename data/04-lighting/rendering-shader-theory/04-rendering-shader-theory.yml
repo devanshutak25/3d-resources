@@ -3,6 +3,7 @@ entries:
     url: http://hughsk.io/fragment-foundry
     description: Interactive fragment shader tutorial.
     entry_type: tutorial
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -16,6 +17,7 @@ entries:
     url: http://ibreakdownshaders.blogspot.com.au/
     description: Explore the math behind shaders.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -29,6 +31,7 @@ entries:
     url: https://www.interactiveshaderformat.com/
     description: GLSL shaders for use in interactive applications.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -40,6 +43,7 @@ entries:
     url: https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/
     description: Guide to reading compiled shader assembly.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -53,6 +57,7 @@ entries:
     url: http://iquilezles.org/index.html
     description: Hardcore math applied to computer graphics by one of the best-known shader authors.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -66,6 +71,7 @@ entries:
     url: http://jessevdk.github.io/webgl-play/
     description: Editor for working on JavaScript code and GLSL vertex/fragment shaders side by side, with organized formatting and highlighting.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -77,6 +83,7 @@ entries:
     url: https://www.khronos.org/blog/streamlining-render-passes
     description: Introduces the VK_KHR_dynamic_rendering Vulkan extension.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -90,6 +97,7 @@ entries:
     url: http://www.kickjs.org/tool/shader_editor/shader_editor.html
     description: Shader editor for the Kick.js WebGL engine.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -101,6 +109,7 @@ entries:
     url: https://learnopengl.com/In-Practice/Text-Rendering
     description: Learn OpenGL chapter on text rendering.
     entry_type: tutorial
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -114,6 +123,7 @@ entries:
     url: https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation
     description: Learn OpenGL guest article on skeletal animation.
     entry_type: tutorial
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -127,6 +137,7 @@ entries:
     url: http://www.lighthouse3d.com/tutorials/glsl-core-tutorial
     description: GLSL core tutorial series by Lighthouse3D.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -140,6 +151,7 @@ entries:
     url: https://marctenbosch.com/quaternions/
     description: Introduces Rotors in Geometric Algebra.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -153,6 +165,7 @@ entries:
     url: http://maverick.inria.fr/Publications/2005/CPPSS05/cerezo.pdf
     description: Cerezo et al. Visual Computer 2005.
     entry_type: reference
+    license: Free
     year: 2005
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -167,6 +180,7 @@ entries:
     url: https://neort.io/popular
     description: Digital art platform for creative coders (fragment shaders, JavaScript Canvas).
     entry_type: inspiration
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -178,6 +192,7 @@ entries:
     url: https://www.opengl.org/sdk/tools/ShaderDesigner/
     description: TyphoonLabs OpenGL shader designer.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -189,6 +204,7 @@ entries:
     url: http://patriciogonzalezvivo.com/2015/glslViewer/
     description: Write-up on glslViewer, a live-coding console tool that renders GLSL shaders.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -200,6 +216,7 @@ entries:
     url: http://patriciogonzalezvivo.com/
     description: Shader artist and educator, main contributor to The Book of Shaders.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -211,6 +228,7 @@ entries:
     url: https://www.pbr-book.org/3ed-2018/Utilities/Memory_Management
     description: Memory management chapter from the PBR Book (pbrt).
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -224,6 +242,7 @@ entries:
     url: http://www.pearsonhighered.com/educator/product/Interactive-Computer-Graphics-A-TopDown-Approach-with-ShaderBased-OpenGL/9780132545235.page
     description: Textbook on interactive computer graphics with shader-based OpenGL (6th ed.).
     entry_type: reference
+    license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -237,6 +256,7 @@ entries:
     url: http://people.csail.mit.edu/addy/research/brdf/
     description: Ngan et al. Eurographics Symposium on Rendering 2005.
     entry_type: reference
+    license: Free
     year: 2005
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -251,6 +271,7 @@ entries:
     url: http://www.physicsbasedanimation.com/
     description: Learning resources and papers on physics-based animation.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -263,6 +284,7 @@ entries:
     url: http://pixelshaders.com/
     description: Interactive introduction to graphics programming.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -276,6 +298,7 @@ entries:
     url: https://pixelspiritdeck.com/
     description: Tarot-style deck for learning GLSL shaders, each card pairing a visual element with its shader code, ordered simplest to most complex.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -289,6 +312,7 @@ entries:
     url: https://raytracing.github.io/
     description: Three short books explaining path tracing concepts and building a software renderer from scratch.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -302,6 +326,7 @@ entries:
     url: https://www.realtimerendering.com/blog/
     description: Blog tied to the Real-Time Rendering book series, with rendering techniques, industry news, and research.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -315,6 +340,7 @@ entries:
     url: https://www.realtimerendering.com/raytracinggems/rtg/index.html
     description: Book of standalone chapters on various ray tracing topics.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -328,6 +354,7 @@ entries:
     url: https://www.realtimerendering.com/raytracinggems/rtg2/index.html
     description: Second volume of standalone chapters on ray tracing topics.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -341,6 +368,7 @@ entries:
     url: https://www.realtimerendering.com/intersections.html
     description: Collection of intersection algorithms.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -354,6 +382,7 @@ entries:
     url: http://www.realtimerendering.com/blog/webgl-2-basics/
     description: Blog post on getting started with WebGL 2.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -367,6 +396,7 @@ entries:
     url: http://www.realtimerendering.com/blog/webgl-2-new-features/
     description: Blog post on what is new in WebGL 2.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -380,6 +410,7 @@ entries:
     url: https://www.reddit.com/r/twotriangles/
     description: General discussion and showcase for shaders.
     entry_type: community
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -391,6 +422,7 @@ entries:
     url: https://renderdoc.org
     description: Free open-source graphics debugger that captures and analyzes frames from DirectX, Vulkan, and OpenGL applications.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -403,6 +435,7 @@ entries:
     url: https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/
     description: Introduction to 3D graphics programming covering shaders, math, and post-processing, from Newcastle University.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -416,6 +449,7 @@ entries:
     url: http://scenejs.org/
     description: Extensible WebGL-based engine for high-detail 3D visualisation.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -427,6 +461,7 @@ entries:
     url: https://shaderfrog.com/2/
     description: Online shader editor and asset manager that exports shaders for Three.js, Unity, and other engines, with visual shader editing.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -438,6 +473,7 @@ entries:
     url: https://shadergif.com/
     description: Open source home for art made with code (WebGL1/2, JavaScript Canvas, P5.js).
     entry_type: inspiration
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -449,6 +485,7 @@ entries:
     url: https://shaderific.com/index.html
     description: Documentation on GLSL.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -460,6 +497,7 @@ entries:
     url: https://shaderific.com/glsl.html
     description: OpenGL ES shading language reference.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -471,6 +509,7 @@ entries:
     url: https://shaderpark.com/
     description: JavaScript library for interactive procedural 2D/3D shaders, with a built-in raymarcher, SDFs, and boolean operations.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -482,6 +521,7 @@ entries:
     url: http://shdr.bkcore.com
     description: Live GLSL shader editor, viewer, and validator.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -493,6 +533,7 @@ entries:
     url: https://sites.fas.harvard.edu/~cs278/papers/pmap.pdf
     description: Jensen, H. W. Rendering Techniques 1996.
     entry_type: reference
+    license: Free
     year: 1996
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -507,6 +548,7 @@ entries:
     url: http://stack.gl/
     description: Modular WebGL shader and graphics tools.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -518,6 +560,7 @@ entries:
     url: http://store.steampowered.com/app/314720/
     description: Modern shader IDE for programmers and FX artists.
     entry_type: tool
+    license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -529,6 +572,7 @@ entries:
     url: http://synthclipse.sourceforge.net/index.html
     description: GLSL shader prototyping tool.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -542,6 +586,7 @@ entries:
     url: https://thebookofshaders.com/glossary/
     description: Shader glossary by theme.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:

@@ -10,6 +10,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - modeling
         - creative-coding
@@ -25,6 +27,8 @@ entries:
     entry_type: tutorial
     license: Paid
     tags:
+      output:
+        - film-vfx
       workflow:
         - modeling
         - creative-coding
@@ -51,6 +55,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - creative-coding
       skill:
@@ -70,6 +76,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - modeling
       skill:
@@ -89,6 +97,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - fx
       skill:
@@ -108,6 +118,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - animation
       skill:
@@ -127,6 +139,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       skill:
         - intermediate
       platform:
@@ -144,6 +158,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - modeling
       skill:
@@ -183,6 +199,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - rigging
         - simulation
@@ -198,6 +216,8 @@ entries:
     entry_type: reference
     license: Free
     tags:
+      output:
+        - film-vfx
       skill:
         - intermediate
       tech:
@@ -238,6 +258,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       skill:
         - advanced
       tech:
@@ -251,6 +273,8 @@ entries:
     entry_type: tutorial
     license: Free
     tags:
+      output:
+        - film-vfx
       workflow:
         - modeling
         - creative-coding
@@ -272,6 +296,8 @@ entries:
     entry_type: tutorial
     license: Free
     tags:
+      output:
+        - film-vfx
       workflow:
         - look-dev
       skill:

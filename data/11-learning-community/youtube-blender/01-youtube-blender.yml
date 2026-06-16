@@ -501,23 +501,6 @@ entries:
         - blender
       platform:
         - web
-  - name: CG Boost
-    url: https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA/videos
-    description: Modeling, sculpting.
-    entry_type: channel
-    license: Free
-    readme_tags:
-      - Modeling
-      - Blender
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - generalist
-      tech:
-        - blender
-      platform:
-        - web
   - name: FlippedNormals (YouTube)
     url: https://www.youtube.com/@FlippedNormals
     description: Sculpting, modeling.

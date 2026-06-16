@@ -123,19 +123,6 @@ entries:
         - web
       tech:
         - blender
-  - name: 3DVF
-    url: http://3dvf.com
-    description: French CG news and community.
-    entry_type: community
-    license: Free
-    readme_tags:
-      - French
-      - CG News
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
   - name: 3DPro
     url: https://3dpro.org
     description: 3D professionals community forum.

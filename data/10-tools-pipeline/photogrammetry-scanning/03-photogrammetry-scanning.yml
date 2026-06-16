@@ -10,6 +10,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -24,6 +26,9 @@ entries:
       - HDR/IBL
     url_last_verified: '2026-06-01'
     url_status: ok
+    tags:
+      output:
+        - generalist
   - name: Light Probe Image Gallery
     url: https://www.pauldebevec.com/Probes/
     description: Original mirror-ball HDR probes (Grace Cathedral, Uffizi, etc.). Still used in IBL teaching.
@@ -31,6 +36,8 @@ entries:
     license: Free
     best_for: Reference HDR probes
     tags:
+      output:
+        - generalist
       tech:
         - cc0
     readme_tags:
@@ -48,6 +55,9 @@ entries:
       - Academic
     url_last_verified: '2026-06-01'
     url_status: ok
+    tags:
+      output:
+        - generalist
   - name: HDR Shop
     url: https://www.hdrshop.com/
     description: Debevec's HDR assembly and panoramic transform tool. Historical software, still downloadable.
@@ -56,6 +66,8 @@ entries:
     best_for: Classic HDR assembly
     deprecated: true
     tags:
+      output:
+        - generalist
       workflow:
         - lighting
       platform:
@@ -73,6 +85,8 @@ entries:
     entry_type: software
     best_for: Pro panorama stitching for HDRI
     tags:
+      output:
+        - generalist
       workflow:
         - lighting
       platform:
@@ -91,6 +105,8 @@ entries:
     entry_type: software
     best_for: Free panorama stitching
     tags:
+      output:
+        - generalist
       workflow:
         - lighting
       platform:
@@ -111,6 +127,8 @@ entries:
     entry_type: software
     best_for: Free HDR merge
     tags:
+      output:
+        - generalist
       workflow:
         - lighting
       platform:
@@ -122,26 +140,6 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     deprecated: true
-  - name: Luminance HDR
-    url: https://qtpfsgui.sourceforge.net/
-    description: Cross-platform OSS HDR merge and tonemap.
-    license: Open Source
-    entry_type: software
-    best_for: Open-source HDR merge/tonemap
-    tags:
-      workflow:
-        - lighting
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - opensource-alt
-    readme_tags:
-      - Open Source
-      - Tonemap
-    url_last_verified: '2026-06-01'
-    url_status: ok
   - name: HDR Light Studio
     url: https://www.lightmap.co.uk/
     description: Interactive HDRI editing and relighting tool for 3D. Bridges to Maya, 3ds Max, Houdini, Cinema 4D, Modo, Blender.
@@ -164,6 +162,8 @@ entries:
       - DCC Bridges
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - software-reference/misc-3d-utilities-software
   - name: HDR Labs / sIBL
     url: http://www.hdrlabs.com/sibl/
     description: Bernhard Vogl's HDR Labs hub. sIBL spec, Smart IBL archive, capture tutorials.
@@ -176,12 +176,17 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     deprecated: true
+    tags:
+      output:
+        - generalist
   - name: 'Greg Zaal: Shoot Your Own HDRI'
     url: https://www.blenderguru.com/tutorials/shoot-your-own-hdri
     description: End-to-end DSLR HDRI capture tutorial for Blender (Blender Guru).
     entry_type: tutorial
     best_for: DSLR HDRI capture
     tags:
+      output:
+        - generalist
       workflow:
         - lighting
     readme_tags:
@@ -201,6 +206,9 @@ entries:
       - HDR Theory
     url_last_verified: '2026-06-01'
     url_status: ok
+    tags:
+      output:
+        - generalist
   - name: 'Book: The HDRI Handbook 2.0'
     url: https://www.hdrlabs.com/book/
     description: Christian Bloch. Practical HDRI for VFX/photo, paired with sIBL.
@@ -213,6 +221,9 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     deprecated: true
+    tags:
+      output:
+        - generalist
   - name: Leica Cyclone
     url: https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone
     description: Point cloud registration and processing for Leica scanners.
@@ -309,6 +320,8 @@ entries:
     entry_type: software
     best_for: Artec handheld scan workflow
     tags:
+      output:
+        - generalist
       tech:
         - photogrammetry
       platform:
@@ -346,6 +359,8 @@ entries:
     entry_type: software
     best_for: Open drone photogrammetry
     tags:
+      output:
+        - generalist
       tech:
         - photogrammetry
         - opensource-alt
@@ -384,17 +399,9 @@ entries:
       - Datasets
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: Smithsonian 3D
-    url: https://3d.si.edu/
-    description: Public Smithsonian 3D collection.
-    license: Free
-    entry_type: asset-source
-    best_for: Museum 3D scans
-    readme_tags:
-      - Museum
-      - Public
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    tags:
+      output:
+        - scientific-viz
   - name: Stanford Digital Michelangelo
     url: http://graphics.stanford.edu/projects/mich/
     description: Foundational large-statue laser scanning project (Marc Levoy).
@@ -406,6 +413,9 @@ entries:
       - Foundational
     url_last_verified: '2026-06-01'
     url_status: ok
+    tags:
+      output:
+        - scientific-viz
   - name: Volucap
     url: https://volucap.com/
     description: Babelsberg volumetric video studio.

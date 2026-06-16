@@ -17,6 +17,8 @@ entries:
       - Community
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - software-reference/vfx-compositing-software
   - name: Hugo's Desk (Hugo Guerra)
     url: https://hugosdesk.com/
     description: Pro Nuke compositing tutorials and breakdowns from CG Supe Hugo Guerra.
@@ -193,6 +195,8 @@ entries:
       - Breakdowns
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - learning-community-industry/inspiration-showcase
   - name: The Art of VFX
     url: https://www.artofvfx.com/
     description: VFX supervisor interviews per film.
@@ -208,7 +212,7 @@ entries:
       - Per-film
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: '8-bit to Half Float CopyCat (Moving Image Arts)'
+  - name: 8-bit to Half Float CopyCat (Moving Image Arts)
     url: https://movingimagearts.com/8-bit-to-half-float-copycat/
     description: Free Nuke CopyCat ML model plus tutorial. Recovers clamped highlights and reduces 8-bit color banding. Downloadable .cat file.
     license: Free

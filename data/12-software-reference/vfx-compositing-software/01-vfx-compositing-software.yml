@@ -425,17 +425,6 @@ entries:
       - Adobe Suite
     url_last_verified: '2026-06-01'
     url_status: unreachable
-  - name: Nukepedia
-    url: https://www.nukepedia.com/
-    description: Free Nuke gizmos, tools, plugins, tutorials.
-    entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      workflow:
-        - compositing
-      output:
-        - film-vfx
   - name: JangaFX Docs
     url: https://docs.jangafx.com/
     description: Official EmberGen/LiquiGen documentation and how-to guides.

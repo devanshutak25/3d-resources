@@ -328,31 +328,6 @@ entries:
       - Real-time
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: Marmoset Toolbag
-    url: https://marmoset.co/toolbag/
-    description: Real-time GPU renderer for game art and baking.
-    pricing: $189 perpetual
-    license: Paid
-    entry_type: software
-    best_for: Game art baking, presentation
-    tags:
-      workflow:
-        - rendering
-        - texturing
-      output:
-        - games
-      platform:
-        - win
-        - mac
-      tech:
-        - real-time
-        - gpu
-        - perpetual
-    readme_tags:
-      - Game Art
-      - Baking
-    url_last_verified: '2026-06-01'
-    url_status: ok
   - name: LuxCore
     url: https://luxcorerender.org/
     description: Free open-source CPU/GPU unbiased renderer.

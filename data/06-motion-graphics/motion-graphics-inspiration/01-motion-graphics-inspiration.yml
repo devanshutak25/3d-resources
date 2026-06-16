@@ -44,21 +44,6 @@ entries:
         - motion-graphics
       platform:
         - web
-  - name: Film Grab
-    url: https://film-grab.com/
-    description: Film frame reference.
-    entry_type: inspiration
-    license: Free
-    readme_tags:
-      - Film Stills
-      - Reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
-      platform:
-        - web
   - name: Opening Titles (Vimeo)
     url: https://vimeo.com/theopeningtitles
     description: Title sequence collection.
@@ -91,21 +76,6 @@ entries:
         - web
       tech:
         - ai-generative
-  - name: ShotDeck
-    url: https://shotdeck.com/
-    description: Film shot reference database.
-    entry_type: reference
-    license: Paid
-    readme_tags:
-      - Shot Database
-      - Reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
-      platform:
-        - web
   - name: PlayPhrase.me
     url: https://www.playphrase.me/
     description: Phrase-based film clip search.

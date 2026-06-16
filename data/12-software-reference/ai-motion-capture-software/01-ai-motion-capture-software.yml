@@ -77,28 +77,6 @@ entries:
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
-  - name: Cascadeur
-    url: https://cascadeur.com/
-    description: Physics-based AI animation with AutoPosing. Unreal plugin.
-    license: Freemium
-    entry_type: software
-    best_for: Physics-based character animation
-    tags:
-      workflow:
-        - animation
-        - rigging
-        - mocap
-      tech:
-        - physics
-        - ai-generative
-        - unreal-plugin
-    readme_tags:
-      - Physics-based
-      - AutoPosing
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - animation-rigging/ai-motion-capture
   - name: Live Link Face (Apple)
     url: https://apps.apple.com/app/live-link-face/id1495370836
     description: Free facial mocap via iPhone into Unreal/Maya/Blender.

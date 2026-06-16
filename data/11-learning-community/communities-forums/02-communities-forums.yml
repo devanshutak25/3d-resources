@@ -103,6 +103,8 @@ entries:
     tags:
       platform:
         - web
+    dual_listed_in:
+      - tools-pipeline-utilities/plugin-marketplaces
   - name: 3D FOUNDERS (Skool)
     url: https://www.skool.com/3dfounders/about
     description: Skool community for 3D freelancers scaling from low-price gigs to consistent $5K clients.

@@ -74,6 +74,8 @@ entries:
     url_status: ok
     year: 2023
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -91,6 +93,8 @@ entries:
     url_status: ok
     year: 2023
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -108,6 +112,8 @@ entries:
     url_status: ok
     year: 2023
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -125,6 +131,8 @@ entries:
     url_status: ok
     year: 2023
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -142,6 +150,8 @@ entries:
     url_status: ok
     year: 2024
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -183,6 +193,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -201,6 +213,8 @@ entries:
     url_status: ok
     year: 2020
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -220,6 +234,8 @@ entries:
     url_status: ok
     year: 2020
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -238,6 +254,8 @@ entries:
     url_status: ok
     year: 2020
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -258,6 +276,8 @@ entries:
     url_status: ok
     year: 2021
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -278,6 +298,8 @@ entries:
     url_status: ok
     year: 2020
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -296,6 +318,8 @@ entries:
     url_status: ok
     year: 2020
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -314,6 +338,8 @@ entries:
     url_status: ok
     year: 2021
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -334,6 +360,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -374,6 +402,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -393,6 +423,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -410,6 +442,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -427,6 +461,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:
@@ -446,6 +482,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       platform:
         - web
       tech:

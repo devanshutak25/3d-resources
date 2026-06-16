@@ -98,6 +98,8 @@ entries:
       - Free NC
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - software-reference/ai-motion-capture-software
   - name: Spline
     url: https://spline.design/
     description: Browser-based 3D design with real-time collaboration. Exports to web, video, code. AI features for prompt-to-3D.

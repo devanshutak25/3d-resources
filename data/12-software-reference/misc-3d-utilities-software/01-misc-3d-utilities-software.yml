@@ -24,23 +24,6 @@ entries:
         - material-authoring
     dual_listed_in:
       - lighting-rendering-shaders/rendering-shader-theory
-  - name: Lightmap HDR Light Studio
-    url: https://www.lightmap.co.uk/
-    description: Interactive HDR lighting tool that connects to most renderers and DCCs.
-    license: Paid
-    entry_type: software
-    best_for: Interactive HDR lighting
-    tags:
-      workflow:
-        - lighting
-    readme_tags:
-      - HDR Lighting
-      - Interactive
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - tools-pipeline-utilities/misc-3d-utilities
-      - lighting-rendering-shaders/rendering-shader-theory
   - name: Storm HydroFX
     url: https://storm-vfx.com/
     description: Real-time liquid and fluid simulation tool.
@@ -54,23 +37,6 @@ entries:
     readme_tags:
       - Fluids
       - FX
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - tools-pipeline-utilities/misc-3d-utilities
-  - name: PureRef
-    url: https://pureref.com/
-    description: Industry-standard reference board tool.
-    pricing: Pay what you want
-    license: Freemium
-    entry_type: software
-    best_for: Reference board
-    tags:
-      workflow:
-        - reference
-    readme_tags:
-      - Industry Standard
-      - PWYW
     url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:
@@ -136,22 +102,6 @@ entries:
     readme_tags:
       - Terrain Gen
       - Free Community
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - tools-pipeline-utilities/misc-3d-utilities
-  - name: Plasticity (site)
-    url: https://www.plasticity.xyz/
-    description: CAD-style modeling with artist-friendly UX.
-    license: Paid
-    entry_type: software
-    best_for: CAD-style modeling for artists
-    tags:
-      workflow:
-        - modeling
-    readme_tags:
-      - CAD-style
-      - Artist UX
     url_last_verified: '2026-06-01'
     url_status: ok
     dual_listed_in:

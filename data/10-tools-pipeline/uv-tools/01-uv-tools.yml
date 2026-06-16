@@ -5,6 +5,8 @@ entries:
     license: Free
     entry_type: tool
     tags:
+      output:
+        - generalist
       workflow:
         - uv
       platform:
@@ -21,6 +23,8 @@ entries:
     entry_type: plugin
     best_for: Blender UV editing toolkit
     tags:
+      output:
+        - generalist
       workflow:
         - uv
       platform:

@@ -38,19 +38,6 @@ entries:
     tags:
       platform:
         - web
-  - name: HouPy Wiki
-    url: https://www.houpywiki.com/
-    description: Community wiki for Houdini Python. HDAs, snippets, and Discord community around Houdini scripting.
-    entry_type: reference
-    license: Free
-    readme_tags:
-      - Houdini
-      - Python
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
   - name: Houdini.School
     url: https://www.houdini.school/
     description: Live Houdini courses across Film FX, Games, MoGraph, Character, Sci-Viz. Discord community for students.
@@ -159,21 +146,6 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
-      platform:
-        - web
-  - name: MOPs - Motion Operators for Houdini
-    url: https://www.motionoperators.com/
-    description: Motion graphics toolkit Discord for Houdini. Packed primitives, Mograph-style workflows for MoGraph artists.
-    entry_type: plugin
-    license: Open Source
-    readme_tags:
-      - Houdini
-      - MoGraph
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
       platform:
         - web
   - name: HoudiniNerd (Tokyo Megaplex)

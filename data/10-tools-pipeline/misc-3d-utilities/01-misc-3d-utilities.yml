@@ -25,6 +25,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - creative-coding
       platform:
@@ -34,6 +36,8 @@ entries:
     description: Procedural displacement map generator.
     entry_type: tool
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -83,6 +87,8 @@ entries:
     description: Sun position, golden hour, and shadow visualization for any location and time.
     entry_type: tool
     tags:
+      output:
+        - generalist
       workflow:
         - lighting
         - reference
@@ -98,6 +104,8 @@ entries:
     description: Extract textures and materials from photos (Godot-based, pre-1.0).
     entry_type: tool
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
       platform:
@@ -151,6 +159,8 @@ entries:
     license: Open Source
     entry_type: tool
     tags:
+      output:
+        - generalist
       workflow:
         - concept
       platform:
@@ -195,6 +205,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - lighting
       platform:
@@ -288,6 +300,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -303,6 +317,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -318,6 +334,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -336,6 +354,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -354,6 +374,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -369,6 +391,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
       workflow:
@@ -387,6 +411,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -404,6 +430,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -423,6 +451,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -440,6 +470,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -459,6 +491,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - opensource-alt
@@ -478,6 +512,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - creative-coding
       platform:
@@ -492,6 +528,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - animation
       tech:

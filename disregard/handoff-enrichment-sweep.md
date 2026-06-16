@@ -1,6 +1,13 @@
 # Handoff: Catalog-wide searchability enrichment sweep
 
-**Status as of 2026-06-15. §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE + DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4) + LEFTOVER §12/§10 RELOCATE FLAG CLEARANCE COMPLETE. `grep RELOCATE/Misfit data/` = 0 catalog-wide → CATALOG FULLY FLAG-FREE. All catalog work done. Remaining repo work = publication/launch only (pub_plan Part 2 / project.md §11) + intentional empty stubs. All edits uncommitted (user commits).**
+**Status as of 2026-06-15. §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE + DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4) + LEFTOVER §12/§10 RELOCATE FLAG CLEARANCE COMPLETE → catalog was flag-free. THEN a fresh 3-agent audit (data / build-site / schema-docs) opened a NEW post-audit track (Workstreams A cleanup / C facet backfill / B SEO). A1 + A2 DONE. C + B pending next session. Catalog now 3,421 entries. Validation ✓ 398 warnings, 0 errors. All edits uncommitted (user commits). Plan: `~/.claude/plans/what-more-can-be-indexed-oasis.md`.**
+
+## POST-AUDIT CLEANUP TRACK (started 2026-06-15, A DONE / C+B PENDING)
+3-agent audit after the "flag-free" milestone surfaced residual items. User picked 3 workstreams via AskUserQuestion: **A cleanup**, **C facet backfill**, **B SEO/site features** (validation hardening declined). Order A→C→B, phased w/ confirmation.
+- **A1 DONE** — split 2 over-cap §12 chunks (§12 was "pre-done", caps never re-checked): `2d-animation-software/01` 58→50 + new `02`=8 (pixel-art tools); `pipeline-software/01` 66→50 + new `02`=16. Bumped both `chunks: 1→2` in `data/12-software-reference.yml`. 0 §12 chunks >50. Done by deterministic line-splice (preserves formatting), not saveChunk.
+- **A2 DONE** — cross-subsection same-URL dedup. `dedupe-entries.js` found 27 groups. User policy: true dupes → **canonical + `dual_listed_in`** (keep 1 copy, mirror so site render is UNCHANGED), NOT plain delete; 6 distinct pairs left alone. Did via one-off `scripts/_tmp-consolidate.js` (catalog.js loadChunk/saveChunk, explicit op list w/ assertions, deleted after run): **23 consolidations** (canonical = dedupe quality pick; dual points at deleted copy's section/sub) + **3 same-sub plain deletes** (3DVF, CG Boost `/channel/UC` form, Clo3D). 26 entries removed → **3,421** (catalog-parser count; prior "3,449" was a grep over-count of 2 description lines). Validation ✓ **398** (was 410; 12 cross-section dupe warnings cleared), 0 errors.
+- **A2 leftover dedupe flags (7) = expected:** 6 intentional distinct pairs (Spline/Spline AI, Rokoko Vision/Smartsuit Pro, O3DE/Amazon Lumberyard, OpenToonz/Toonz-legacy, DaVinci Resolve/Studio) + 1 data error (see §6).
+- **NEXT (next session): Workstream C** then **B**. See §7.
 
 ## LEFTOVER §12/§10 RELOCATE FLAG CLEARANCE DONE (2026-06-15)
 Post-cleanup completeness check found 17 untracked RELOCATE/Misfit notes (§12 software-reference + §10 conversion-tools ×2; §12 was "pre-done" so its misfile relocations were never executed). Cleared in 4 buckets:
@@ -258,38 +265,51 @@ Leave terse-but-correct descriptions + already-well-tagged entries alone. Chunks
 
 ## 6. Flagged items (carry forward, do NOT silently drop)
 
-1. **NeRF/GS research-paper dumps** in §10 `photogrammetry-scanning/01-03` + `gaussian-splatting-nerf/01` overlap §09 `papers/`. **RESOLVED (user) → IN PROGRESS as Deferred Catalog Cleanup Phase 1** (relocate genuine papers → §09 papers/ + dedup; real tools/blogs/impl-repos stay). **1a DONE** (photogrammetry/01, 13 moved). Remaining 1b/1c/1d — see §7.
-2. **Over-cap chunks (>50, ADR-0001):** `plugin-marketplaces/01` = 51 (empty `02` beside it) → **Cleanup Phase 2** (split 51→50+1). (`unity-engine-resources/09` was already split to 09+10 during §07.) Validator only warns.
-3. **vfxcamdb.com** appears twice in §10 (`misc-3d-utilities/01` + `matchmoving-tracking/01`) → **Cleanup Phase 3** (matchmoving canonical + `dual_listed_in` mirror).
+**Historical (all RESOLVED):**
+1. **NeRF/GS research-paper dumps** in §10 photogrammetry/GS → relocated to §09 papers/ (Deferred Cleanup Phase 1, DONE).
+2. **Over-cap chunks (>50, ADR-0001):** `plugin-marketplaces/01` (Phase 2, DONE) + the 2 §12 chunks (A1, DONE). 
+3. **vfxcamdb.com** §10 dupe (Phase 3, DONE).
+
+**OPEN (need user decision — surfaced in A2, NOT touched):**
+4. **"Architecture Pipeline"** (`data/10-tools-pipeline/pipeline-overview/01-pipeline-overview.yml`, first entry) — an archviz `reference` entry whose `url` is wrongly `https://www.autodesk.com/products/3ds-max/` (the 3ds Max product page). `dedupe-entries.js` flags it as a 3ds Max dupe but it is NOT a dupe — it needs its real intended archviz-pipeline URL, or deletion. Ask user.
+5. **Motion Design School** — a "Discord" entry (`§11 communities-forums/04`) shares `https://motiondesign.school/` with the "(site)" course entry in `paid-tutorial-platforms/01`. The Discord entry likely needs the real Discord invite URL instead. Ask user.
+
+**FLAG (content pass, later):**
+6. **Rive web-animation tutorials misfiled** — `data/12-software-reference/2d-animation-software/01` holds ~16 Rive/Flutter/SwiftUI/Webflow how-to tutorials (roughly entries 28–44) sitting in a *software* table. Should move to a learning/tutorial home or be dropped. Out of A1/A2 scope.
 
 ---
 
 ## 7. First actions for next session
 
-**No catalog tasks remain. DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4); §01–§11 sweep done.** Next milestone (if/when user opts in) = publication/launch track: pub_plan Part 2 / project.md §11 (GitHub About + topics + social preview, cut v1.0.0, awesome-list PRs, Reddit/HN/Discord/newsletter, Product Hunt, GSC/SEO follow-up). The handoff steps below are historical (cleanup is closed). All edits UNCOMMITTED (user commits separately).
+**Workstream A (cleanup) DONE. Resume at Workstream C, then B.** Plan: `~/.claude/plans/what-more-can-be-indexed-oasis.md`. Phased, one section/phase at a time, validate + log + STOP for go-ahead between. All edits UNCOMMITTED (user commits separately).
 
 1. Read `project.md`, `CLAUDE.md`, all `memory/*`, and this file.
 2. Append the new user prompt to `memory/user-prompts.md` (protocol).
-3. **Phase 3 — vfxcamdb.com cross-§10 dupe.** Appears in both `data/10-tools-pipeline/misc-3d-utilities/01` and `matchmoving-tracking/01`.
-   - Keep **`matchmoving-tracking/01`** as canonical; add `dual_listed_in: [tools-pipeline-utilities/misc-3d-utilities]` to it (verify the exact section-slug/sub-slug against `data/sections.yml` + `data/10-tools-pipeline.yml` before writing — mirror path must match a real subsection or validator errors).
-   - **Delete** the `misc-3d-utilities/01` copy.
-   - Validate → log → STOP for go-ahead.
-4. Then **Phase 4 — duplicate official UE YouTube channel** in `data/07-game-dev/unreal-engine-resources/04`: two entries for the same channel; keep `@UnrealEngine`, delete the `channel/UCBob…` copy. That closes the Deferred Catalog Cleanup track.
+3. **(Optional, quick) Close the 2 OPEN flags** (§6 items 4+5): Architecture Pipeline wrong URL + Motion Design School Discord URL. Ask user for the correct URLs, or delete. Cheap; can fold into start of session.
+4. **Workstream C — facet backfill (honest gaps only; skip N/A-by-design).**
+   - **C1 license backfill (highest ROI):** §04 lighting (~170/236 missing `license`, mostly `rendering-shader-theory/01-05`) + §09 ai-ml (~128/224 missing). Closed enum only (`Open Source`/`Free`/`Free NC`/`Freemium`/`Paid`/`Mixed`/`null`). Infer from host: GitHub repo→`Open Source`, arXiv/paper→`Free`, SaaS→`Freemium`/`Paid`. Chunk-by-chunk, worst-first, validate per chunk.
+   - **C2 output backfill where applicable:** §02 (~180 missing) + §10 (~145). Only where a clear target medium exists; leave true generalist tools untagged rather than guess.
+   - **C3 skill — narrow:** only tutorial/course/channel/book entries in §07/§12 where difficulty is obvious. NOT a mass-tag of software/tools.
+5. **Workstream B — SEO/site features (code; additive build steps, no `data/` edits):**
+   - **B1** subsection pages: extend `scripts/build-section-pages.js` → `_site/sections/<slug>/<sub-slug>/index.html` (~148 pages), 3-level breadcrumb JSON-LD, add to sitemap.
+   - **B2** tag index pages: new `scripts/build-tag-pages.js` reading `_site/data.json` → `_site/tags/<tag>/`; wire into `build.sh` after `export-data.js`; add to sitemap.
+   - **B3** per-entry JSON-LD by `entry_type` (software→SoftwareApplication, book→Book, paper→ScholarlyArticle, channel/tutorial→CreativeWork, else WebPage) in `build-html.js` + `build-section-pages.js`. Rich Results spot-check.
+   - **B4** (defer) related-items "See also".
 
-**DONE so far (all uncommitted):** 1a photogrammetry/01 (13 papers), 1b photogrammetry/02 (42), 1c gaussian-splatting-nerf/01 (17), 1d photogrammetry/03 (2 HDR papers, user chose MOVE) → **74 papers total → §09 papers** (sizes 01=50/02=45/03=50/04=24, chunks 4). Phase 2 plugin-marketplaces split (51→50, BlenderAddons.org → 02). Validation ✓ 410, 0 errors throughout.
+**A-track DONE this session (all uncommitted):** A1 split 2 over-cap §12 chunks; A2 26-entry dedup (23 consolidations via dual_listed_in + 3 plain deletes). Catalog 3,421. Validation ✓ 398, 0 errors.
 
 ## 8. Quick state-check commands
 
 ```bash
-node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (current baseline 410 warnings; freeform-tech + cross-chunk-dupe, benign)
-# §09 papers chunk sizes (each ≤50) + counter (must = 4):
-for f in data/09-ai-ml/papers/*.yml; do echo "$f: $(grep -c '^  - name:' $f)"; done   # expect 50/45/50/24
-grep -n 'chunks:' data/09-ai-ml.yml
-# §10 paper residue (should be just KEEP tools/blogs/impl-repos, not "Author et al." paper landings):
-grep -rn 'et al' data/10-tools-pipeline/photogrammetry-scanning/ data/10-tools-pipeline/gaussian-splatting-nerf/   # expect: NeRF+JAX NeRF impls, HDR book, 4D-GS impl only
-# vfxcamdb dupe (Phase 3 target) + plugin-marketplaces sizes (Phase 2 result):
-grep -rln 'vfxcamdb' data/10-tools-pipeline/
-grep -c '^  - name:' data/10-tools-pipeline/plugin-marketplaces/0*.yml   # expect 50 + 1
+node scripts/validate.js | tail -1                       # must end: ✓ Validation passed. (current baseline 398 warnings; freeform-tech + 6 distinct-pair dupes, benign)
+node scripts/dedupe-entries.js | grep -E '\] '           # expect ONLY 7: 6 distinct pairs + 3ds Max data error (§6 #4). Any other = new dupe.
+# Catalog total (catalog-parser truth = 3421; grep over-counts by ~2 via description lines):
+node -e "const c=require('./scripts/lib/catalog');let n=0;for(const _ of c.iterEntries())n++;console.log('total',n)"   # expect 3421
+# No §12 chunk over cap (A1 result):
+for f in data/12-software-reference/*/*.yml; do n=$(grep -c '^  - name:' "$f"); [ "$n" -gt 50 ] && echo "OVER $f=$n"; done; echo "ok"
+# A2 OPEN flags to resolve (§6 #4,#5):
+grep -rn 'autodesk.com/products/3ds-max' data/10-tools-pipeline/pipeline-overview/   # the wrong-URL Architecture Pipeline entry
+# Workstream C target coverage (license gaps): eyeball §04 + §09 chunks for entries lacking `license:`
 ```
 
 Do NOT rebuild `_site/` or `README.md` (generated; user commits + builds separately).

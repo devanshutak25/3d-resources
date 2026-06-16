@@ -89,47 +89,7 @@ entries:
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
-  - name: Clip Studio Paint
-    url: https://www.clipstudio.net/
-    description: Manga, comic, and illustration app with strong inking and animation toolset.
-    pricing: PRO from $0.99/mo or $26.99/yr; EX from $2.49/mo or $76.99/yr
-    license: Paid
-    entry_type: software
-    best_for: Manga, comics, illustration, 2D animation
-    tags:
-      output:
-        - illustration
-      platform:
-        - win
-        - mac
-        - ios
-        - android
-    readme_tags:
-      - Manga/Comics
-      - Illustration
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - art-design-visual-storytelling/design-tools
-  - name: Procreate
-    url: https://procreate.com/procreate
-    description: iPad-only digital painting app; one-time purchase, no subscription.
-    pricing: $12.99 one-time
-    license: Paid
-    entry_type: software
-    best_for: iPad illustration and painting
-    tags:
-      output:
-        - illustration
-      platform:
-        - ios
-    readme_tags:
-      - One-Time Purchase
-      - iPad
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - art-design-visual-storytelling/design-tools
+      - software-reference/2d-animation-software
   - name: Sketch
     url: https://www.sketch.com/
     description: Mac-native UI/UX design tool with web previews and collaboration.

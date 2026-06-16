@@ -9,6 +9,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - rigging
         - animation
@@ -28,6 +30,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - rigging
         - animation

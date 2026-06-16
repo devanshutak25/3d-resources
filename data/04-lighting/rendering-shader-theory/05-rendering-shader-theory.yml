@@ -3,6 +3,7 @@ entries:
     url: https://therealmjp.github.io/posts/shader-permutations-part1/
     description: Article on why shader permutations explode in real-time engines.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -16,6 +17,7 @@ entries:
     url: https://therealmjp.github.io/posts/shader-permutations-part2/
     description: Article on strategies for managing shader permutation explosion.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -29,6 +31,7 @@ entries:
     url: http://tobyschachman.com/Shadershop/
     description: Videos about ShaderShop.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -40,6 +43,7 @@ entries:
     url: http://tobyschachman.com/Shadershop/editor/
     description: Visual editor for building shaders by composing shaping functions.
     entry_type: tool
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -51,6 +55,7 @@ entries:
     url: https://tsherif.github.io/picogl.js/
     description: Minimal WebGL 2-only rendering library.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -62,6 +67,7 @@ entries:
     url: https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/
     description: Tutorial on faking a 3D depth effect in WebGL with displacement maps.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -75,6 +81,7 @@ entries:
     url: https://vertexshaderart.com/
     description: Platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -86,6 +93,7 @@ entries:
     url: http://vterrain.org/
     description: Tools for constructing real-world terrain in interactive 3D form.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -97,6 +105,7 @@ entries:
     url: http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf
     description: Slide deck on OpenGL/GLSL shader programming.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -110,6 +119,7 @@ entries:
     url: https://webglfundamentals.org/
     description: In-depth WebGL resource covering 3D rendering, lighting, and 2D transforms from first principles.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -123,6 +133,7 @@ entries:
     url: https://whs.io/
     description: Framework for developing 3D web apps with physics.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -134,6 +145,7 @@ entries:
     url: https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html
     description: Covers alpha-blending with triangulated instanced lines.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -147,6 +159,7 @@ entries:
     url: https://xdpixel.com/about-me/
     description: Blog on real-time rendering, shader programming, and game engine development.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -160,6 +173,7 @@ entries:
     url: https://xeokit.io/
     description: Web graphics SDK for AEC/BIM applications with 3D tiles, real-world coordinates, and double precision.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -173,6 +187,7 @@ entries:
     url: https://www.youtube.com/@kishimisu
     description: Video tutorial on the basics of creating art with shaders.
     entry_type: channel
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -186,6 +201,7 @@ entries:
     url: https://www.youtube.com/@CppCon
     description: CppCon 2018 talk on rapid prototyping of graphics shaders in modern C++.
     entry_type: channel
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -199,6 +215,7 @@ entries:
     url: https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w
     description: YouTube channel about shaders.
     entry_type: channel
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -212,6 +229,7 @@ entries:
     url: https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg
     description: YouTube channel with shader case studies.
     entry_type: channel
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -225,6 +243,7 @@ entries:
     url: https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw
     description: YouTube playlist about vertex shaders.
     entry_type: channel
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -238,6 +257,7 @@ entries:
     url: https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/
     description: Deep dive on writing an efficient Vulkan renderer.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -251,6 +271,7 @@ entries:
     url: https://www.youtube.com/@ThinMatrix
     description: Beginner tutorial series on creating 3D games with OpenGL.
     entry_type: channel
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:

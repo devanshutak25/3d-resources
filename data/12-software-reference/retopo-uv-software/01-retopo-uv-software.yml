@@ -133,6 +133,7 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
+      - software-reference/3d-software-paid
   - name: 3D Coat Textura
     url: https://3dcoat.com/textura/
     description: Texturing-only variant of 3D Coat. PBR paint and bake, no sculpt or retopo modules.

@@ -465,29 +465,6 @@ entries:
       - Bolt
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: MotionBuilder
-    url: https://www.autodesk.com/products/motionbuilder
-    description: Autodesk real-time character animation and mocap editing platform.
-    license: Paid
-    entry_type: software
-    best_for: Mocap cleanup + retarget
-    tags:
-      workflow:
-        - mocap
-        - animation
-        - rigging
-      output:
-        - film-vfx
-        - games
-      platform:
-        - win
-        - linux
-    readme_tags:
-      - Industry Std
-      - Mocap Cleanup
-    url_last_verified: '2026-06-01'
-    url_status: broken
-    deprecated: true
   - name: Smode
     url: https://smode.fr/
     description: Real-time 2D/3D creation, compositing, and video-mapping engine.

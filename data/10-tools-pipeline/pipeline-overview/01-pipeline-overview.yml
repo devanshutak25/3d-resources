@@ -1,19 +1,4 @@
 entries:
-  - name: Architecture Pipeline
-    url: https://www.autodesk.com/products/3ds-max/
-    description: Primary software. 3ds Max, SketchUp, Revit. Key considerations. Accuracy, real-world scale.
-    entry_type: reference
-    license: Paid
-    tags:
-      output:
-        - archviz
-      platform:
-        - web
-    readme_tags:
-      - Arch-Viz
-      - Accuracy
-    url_last_verified: '2026-06-01'
-    url_status: ok
   - name: Product Design Pipeline
     url: https://www.autodesk.com/products/fusion-360/
     description: Primary software. Fusion 360, SolidWorks, KeyShot. Key considerations. Manufacturing.

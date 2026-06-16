@@ -137,6 +137,8 @@ entries:
       - Subscription
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-inspiration
   - name: Cinetracer
     url: https://www.cinetracer.com/
     description: Real-time cinematography simulation on Unreal Engine. Lights, lenses, cameras.
@@ -356,6 +358,8 @@ entries:
       - Std Artist Tool
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - software-reference/misc-3d-utilities-software
   - name: Eagle
     url: https://eagle.cool/
     description: Local image and video asset manager with tags.
@@ -422,6 +426,8 @@ entries:
       - Network
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
   - name: FilmGrab
     url: https://film-grab.com/
     description: Curated film stills archive. Free.
@@ -437,6 +443,8 @@ entries:
       - Film Stills
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-inspiration
   - name: Shot.Cafe
     url: https://shot.cafe/
     description: Searchable film and TV frames.
@@ -470,40 +478,6 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     deprecated: true
-  - name: Every Frame a Painting
-    url: https://www.youtube.com/@everyframeapainting
-    description: Visual-language essays (archive).
-    entry_type: channel
-    best_for: Visual language essays
-    tags:
-      output:
-        - film-vfx
-      platform:
-        - web
-      skill:
-        - intermediate
-    readme_tags:
-      - Archive
-      - Visual Essays
-    url_last_verified: '2026-06-01'
-    url_status: ok
-  - name: StudioBinder Blog
-    url: https://www.studiobinder.com/blog/
-    description: Filmmaking craft articles and breakdowns.
-    entry_type: channel
-    best_for: Filmmaking craft articles
-    tags:
-      output:
-        - film-vfx
-      platform:
-        - web
-      skill:
-        - beginner
-    readme_tags:
-      - Free
-      - Filmmaking Craft
-    url_last_verified: '2026-06-01'
-    url_status: ok
   - name: VES (Visual Effects Society)
     url: https://www.vesglobal.org/
     description: VES handbook, talks, and methodology resources for on-set VFX.

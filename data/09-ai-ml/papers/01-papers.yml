@@ -19,6 +19,7 @@ entries:
     url: https://arxiv.org/abs/2510.03342
     description: Embodied reasoning, thinking, and motion transfer.
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -34,6 +35,7 @@ entries:
     url: https://arxiv.org/abs/2401.00909
     description: '[🌐 Project Page](https://vita-group.github.io/3D-Mode-Collapse/) | [💻 Code](https://github.com/VITA-Group/3D-Mode-Collapse)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -49,6 +51,7 @@ entries:
     url: http://arxiv.org/abs/2401.01173
     description: '[🌐 Project Page](https://menyifang.github.io/projects/En3D/index.html) | [💻 Code](https://github.com/menyifang/En3D)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -64,6 +67,7 @@ entries:
     url: https://arxiv.org/abs/2401.01339
     description: '[🌐 Project Page](https://zju3dv.github.io/street_gaussians/) | [💻 Code](https://github.com/zju3dv/street_gaussians)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -95,6 +99,7 @@ entries:
     url: https://arxiv.org/abs/2401.01702
     description: '[🌐 Project Page](https://image-sculpting.github.io/) | [💻 Code](https://github.com/vision-x-nyu/image-sculpting)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -174,6 +179,7 @@ entries:
     url: https://arxiv.org/abs/2401.12900
     description: '[💻 Code](https://github.com/pcl3dv/PSAvatar)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -205,6 +211,7 @@ entries:
     url: https://arxiv.org/abs/2402.03723
     description: '[🌐 Project Page](http://shahrukhathar.github.io/2024/02/05/Rig3DGS.html)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -220,6 +227,7 @@ entries:
     url: https://arxiv.org/abs/2402.07207
     description: '[🌐 Project Page](https://gala3d.github.io) | [💻 Code](https://github.com/VDIGPKU/GALA3D)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -235,6 +243,7 @@ entries:
     url: https://arxiv.org/abs/2402.10259
     description: '[🌐 Project Page](https://gaussianobject.github.io) | [💻 Code](https://github.com/GaussianObject/GaussianObject)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -330,6 +339,7 @@ entries:
     url: https://arxiv.org/pdf/2303.14184.pdf
     description: '[🌐 Project Page](https://make-it-3d.github.io) | [💻 Code](https://github.com/junshutang/Make-It-3D)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -345,6 +355,7 @@ entries:
     url: https://arxiv.org/abs/2305.12529
     description: '[🌐 Project Page](https://dreamwaltz3d.github.io/) | [💻 Code](https://github.com/IDEA-Research/DreamWaltz)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -360,6 +371,7 @@ entries:
     url: https://arxiv.org/abs/2309.16653
     description: '[🌐 Project Page](https://dreamgaussian.github.io/) | [💻 Code](https://github.com/dreamgaussian/dreamgaussian)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -375,6 +387,7 @@ entries:
     url: https://arxiv.org/abs/2309.17175
     description: '[🌐 Project Page](https://tyhuang0428.github.io/textfield3d.html)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -390,6 +403,7 @@ entries:
     url: https://arxiv.org/abs/2310.10644
     description: '[🌐 Project Page](https://toss3d.github.io/)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -405,6 +419,7 @@ entries:
     url: https://arxiv.org/pdf/2310.11784.pdf
     description: '[🌐 Project Page](https://cxh0519.github.io/projects/Progressive3D/) | [💻 Code](https://github.com/cxh0519/Progressive3D)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -420,6 +435,7 @@ entries:
     url: https://arxiv.org/pdf/2310.15008.pdf
     description: '[🌐 Project Page](https://www.xxlong.site/Wonder3D/) | [💻 Code](https://github.com/xxlong0/Wonder3D)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -435,6 +451,7 @@ entries:
     url: https://arxiv.org/abs/2310.15110
     description: '[🌐 Project Page](https://zero123.cs.columbia.edu/) | [💻 Code](https://github.com/SUDO-AI-3D/zero123plus) | [🤗 Hugging Face](https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -450,6 +467,7 @@ entries:
     url: https://arxiv.org/abs/2310.16818
     description: '[🌐 Project Page](https://mrtornado24.github.io/DreamCraft3D/) | [💻 Code](https://github.com/deepseek-ai/DreamCraft3D)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -465,6 +483,7 @@ entries:
     url: https://arxiv.org/pdf/2311.07885.pdf
     description: '[🌐 Project Page](https://sudo-ai-3d.github.io/One2345plus_page/) | [💻 Code](https://github.com/SUDO-AI-3D/One2345plus)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -480,6 +499,7 @@ entries:
     url: https://arxiv.org/pdf/2311.08403.pdf
     description: '[🌐 Project Page](https://ming1993li.github.io/Instant3DProj/) | [💻 Code](https://github.com/ming1993li/Instant3DCodes)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -495,6 +515,7 @@ entries:
     url: https://arxiv.org/abs/2311.09217
     description: '[🌐 Project Page](https://justimyhxu.github.io/projects/dmv3d/)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -510,6 +531,7 @@ entries:
     url: https://arxiv.org/abs/2311.16918
     description: '[🌐 Project Page](https://aigc3d.github.io/richdreamer/) | [💻 Code](https://github.com/modelscope/richdreamer)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -525,6 +547,7 @@ entries:
     url: http://arxiv.org/abs/2312.02069
     description: '[🌐 Project Page](https://shenhanqian.github.io/gaussian-avatars)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -540,6 +563,7 @@ entries:
     url: https://arxiv.org/abs/2312.07485
     description: '[🌐 Project Page](https://jianxgao.github.io/MinD-3D/) | [💻 Code](https://github.com/JianxGao/MinD-3D)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -555,6 +579,7 @@ entries:
     url: https://arxiv.org/pdf/2312.08889.pdf
     description: '[🌐 Project Page](https://seeavatar3d.github.io/)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -570,6 +595,7 @@ entries:
     url: https://arxiv.org/abs/2312.09147
     description: '[🌐 Project Page](https://zouzx.github.io/TriplaneGaussian/)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -617,6 +643,7 @@ entries:
     url: https://arxiv.org/pdf/2312.15430.pdf
     description: '[🌐 Project Page](https://human3daigc.github.io/MACH/) | [💻 Code](https://github.com/Human3DAIGC/Make-A-Character)'
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -648,6 +675,7 @@ entries:
     url: https://arxiv.org/abs/2306.03000
     description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -711,6 +739,7 @@ entries:
     url: https://arxiv.org/abs/2308.05744
     description: ICCV 2023 | [[project](https://manycore-research.github.io/PlankAssembly/)] [[code](https://github.com/manycore-research/PlankAssembly/)]
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -726,6 +755,7 @@ entries:
     url: https://arxiv.org/abs/2310.08586
     description: Zhu et al., Arxiv 2023 | [github](https://github.com/OpenGVLab/PonderV2)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:

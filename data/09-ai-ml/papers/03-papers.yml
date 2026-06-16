@@ -3,6 +3,7 @@ entries:
     url: https://3d-representation-learning.github.io/nerf-dy/
     description: Li et al., CoRL 2021 Oral
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -18,6 +19,7 @@ entries:
     url: https://www.ajayj.com/dietnerf
     description: Matthew Tancik et al., Arxiv 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -33,6 +35,7 @@ entries:
     url: https://www.albertpumarola.com/research/D-NeRF/index.html
     description: Pumarola et al., CVPR 2021 | [github](https://github.com/albertpumarola/D-NeRF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -48,6 +51,7 @@ entries:
     url: https://apchenstu.github.io/mvsnerf/
     description: Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -63,6 +67,7 @@ entries:
     url: https://bmild.github.io/rawnerf/
     description: Ben Mildenhall et al, arXiv 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -78,6 +83,7 @@ entries:
     url: https://cassiepython.github.io/clipnerf/
     description: Wang et al., CVPR 2022 | [github](https://github.com/cassiePython/CLIPNeRF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -93,6 +99,7 @@ entries:
     url: http://www.computationalimaging.org/publications/automatic-integration/
     description: Lindell et al., CVPR 2021 | [github](https://github.com/computational-imaging/automatic-integration)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -108,6 +115,7 @@ entries:
     url: http://www.cs.cornell.edu/~zl548/NSFF/
     description: Li et al., CVPR 2021 | [github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -123,6 +131,7 @@ entries:
     url: https://depthoraclenerf.github.io/
     description: Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -138,6 +147,7 @@ entries:
     url: https://dfnet.active.vision/
     description: Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -153,6 +163,7 @@ entries:
     url: http://editnerf.csail.mit.edu/
     description: Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -168,6 +179,7 @@ entries:
     url: https://fig-nerf.github.io/
     description: Xie et al., Arxiv 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -183,6 +195,7 @@ entries:
     url: https://gafniguy.github.io/4D-Facial-Avatars/
     description: Gafni et al., CVPR 2021 | [github](https://github.com/gafniguy/4D-Facial-Avatars)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -198,6 +211,7 @@ entries:
     url: https://grail.cs.washington.edu/projects/humannerf/
     description: Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -213,6 +227,7 @@ entries:
     url: https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/
     description: Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -228,6 +243,7 @@ entries:
     url: https://hypernerf.github.io/
     description: Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -243,6 +259,7 @@ entries:
     url: https://jdily.github.io/proj_site/nerfin_proj.html
     description: Liu et al., Arxiv 2022
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -258,6 +275,7 @@ entries:
     url: https://jiabinliang.github.io/InfNeRF.io/
     description: Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -273,6 +291,7 @@ entries:
     url: https://jiakai-zhang.github.io/st-nerf/
     description: Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -288,6 +307,7 @@ entries:
     url: http://jiataogu.me/style_nerf/
     description: Gu et al., Arxiv 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -303,6 +323,7 @@ entries:
     url: https://jonbarron.info/mipnerf/
     description: Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -318,6 +339,7 @@ entries:
     url: https://jonbarron.info/mipnerf360/
     description: Barron et al., Arxiv 2022
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -333,6 +355,7 @@ entries:
     url: https://light.princeton.edu/neural-scene-graphs/
     description: Ost et al., CVPR 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -348,6 +371,7 @@ entries:
     url: https://lingjie0206.github.io/papers/NSVF/
     description: Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -363,6 +387,7 @@ entries:
     url: https://liquidammonia.github.io/color-nerf/assets/paper.pdf
     description: NeRF research paper on color and appearance modelling.
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -377,6 +402,7 @@ entries:
     url: https://marcoamonteiro.github.io/pi-GAN-website/
     description: Chan et al., CVPR 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -392,6 +418,7 @@ entries:
     url: https://www.matthewtancik.com/nerf
     description: Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -407,6 +434,7 @@ entries:
     url: https://mizhenxing.github.io/switchnerf
     description: Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -422,6 +450,7 @@ entries:
     url: https://nefes.active.vision/
     description: Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -437,6 +466,7 @@ entries:
     url: https://nerf-w.github.io/
     description: Martin-Brualla et al., CVPR 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -452,6 +482,7 @@ entries:
     url: https://nerfies.github.io/
     description: Park et al., Arxiv 2020 | [github](https://github.com/google/nerfies)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -467,6 +498,7 @@ entries:
     url: http://nerfmm.active.vision/
     description: Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -482,6 +514,7 @@ entries:
     url: https://nope-nerf.active.vision/
     description: Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -497,6 +530,7 @@ entries:
     url: http://people.csail.mit.edu/xiuming/projects/nerfactor/
     description: Zhang et al. Arxiv 2021 | [github](https://github.com/google/nerfactor)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -513,6 +547,7 @@ entries:
     url: https://people.eecs.berkeley.edu/~pratul/nerv/
     description: Srinivasan et al. CVPR 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -528,6 +563,7 @@ entries:
     url: https://porf.active.vision/
     description: Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -543,6 +579,7 @@ entries:
     url: https://portrait-nerf.github.io/
     description: Gao et al., Arxiv 2020
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -558,6 +595,7 @@ entries:
     url: https://postech-cvlab.github.io/SCNeRF/
     description: Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -573,6 +611,7 @@ entries:
     url: https://rover-xingyu.github.io/Ha-NeRF/
     description: Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -588,6 +627,7 @@ entries:
     url: https://rover-xingyu.github.io/L2G-NeRF/
     description: Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -603,6 +643,7 @@ entries:
     url: https://shuaifengzhi.com/Semantic-NeRF/
     description: Zhi et al., Arxiv 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -618,6 +659,7 @@ entries:
     url: https://sites.google.com/view/wbjang/home/codenerf
     description: Jang et al., ICCV 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -633,6 +675,7 @@ entries:
     url: https://video-nerf.github.io/
     description: Xian et al., CVPR 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -648,6 +691,7 @@ entries:
     url: https://vincentfung13.github.io/projects/mine/
     description: Jiaxin Li et al., ICCV 2021 | [github](https://github.com/vincentfung13/MINE)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -663,6 +707,7 @@ entries:
     url: https://vita-group.github.io/SinNeRF/
     description: Xu et al., ECCV 2022 | [github](https://github.com/VITA-Group/SinNeRF)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -678,6 +723,7 @@ entries:
     url: https://waymo.com/research/block-nerf/
     description: Tancik et al., Arxiv 2022
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -693,6 +739,7 @@ entries:
     url: https://weiyithu.github.io/NerfingMVS/
     description: Wei et al., ICCV 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -708,6 +755,7 @@ entries:
     url: https://xharlie.github.io/projects/project_sites/pointnerf/index.html
     description: Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf)
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -723,6 +771,7 @@ entries:
     url: http://yenchenlin.me/inerf/
     description: Yen-Chen et al. IROS 2021
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -738,6 +787,7 @@ entries:
     url: https://yifanjiang19.github.io/alignerf
     description: Jiang et al., CVPR 2023
     entry_type: paper
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:

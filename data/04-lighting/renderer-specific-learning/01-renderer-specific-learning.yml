@@ -66,6 +66,7 @@ entries:
     url: http://www.yiningkarlli.com/projects/takuarender/
     description: Karl Li's hobbyist physically-based renderer project page with technical write-ups.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:

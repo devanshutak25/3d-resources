@@ -86,33 +86,6 @@ entries:
       - iPad Version
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: 3DCoat
-    url: https://3dcoat.com/
-    description: Voxel sculpting, retopology, and UV toolkit.
-    pricing: EUR 299 perpetual
-    license: Paid
-    entry_type: software
-    best_for: Voxel sculpting, retopology
-    tags:
-      workflow:
-        - sculpting
-        - retopo
-        - uv
-        - texturing
-      output:
-        - games
-        - film-vfx
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - perpetual
-    readme_tags:
-      - Voxel Sculpt
-      - Retopo
-    url_last_verified: '2026-06-01'
-    url_status: ok
   - name: Marvelous Designer
     url: https://www.marvelousdesigner.com/
     description: Cloth simulation and garment design software.
@@ -136,30 +109,6 @@ entries:
     readme_tags:
       - Garment Sim
       - Cloth
-    url_last_verified: '2026-06-01'
-    url_status: ok
-  - name: Clo3D
-    url: https://www.clo3d.com/
-    description: Fashion-focused garment design and cloth simulation.
-    pricing: Subscription
-    license: Paid
-    entry_type: software
-    best_for: Fashion design, cloth simulation
-    tags:
-      workflow:
-        - modeling
-        - simulation
-      output:
-        - product-viz
-        - illustration
-      platform:
-        - win
-        - mac
-      tech:
-        - physics
-    readme_tags:
-      - Fashion
-      - Garment Sim
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: Style3D
@@ -423,6 +372,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     deprecated: true
+    dual_listed_in:
+      - software-reference/virtual-production-software
   - name: Reallusion iClone
     url: https://www.reallusion.com/iclone/
     description: Real-time character animation and cinematic creation; pairs with Character Creator.
@@ -491,6 +442,8 @@ entries:
       - Concept/Hard-Surface
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - software-reference/misc-3d-utilities-software
   - name: LightWave 3D
     url: https://lightwave3d.com/
     description: Veteran modeling, animation, and rendering DCC with a long film/broadcast legacy.
@@ -719,6 +672,8 @@ entries:
       - Baking
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - software-reference/render-engines
   - name: CLO 3D
     url: https://www.clo3d.com/
     description: Garment design and simulation for the fashion industry. Pattern-based 3D.

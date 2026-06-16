@@ -1,33 +1,148 @@
 entries:
-  - name: Memao Sprite Sheet Creator
-    url: https://sleeping-robot-games.itch.io/sprite-sheet-creator
-    description: Build your own pixel characters using ready-made art. Customize and export in seconds for any project.
+  - name: Pixelator
+    url: http://pixelatorapp.com
+    description: Turn any image into pixel art.
     license: Paid
     entry_type: software
-    best_for: Pixel character sprite sheets
+    best_for: Image→pixel art
+    tags:
+      output:
+        - games
+        - illustration
+      workflow:
+        - fx
+    readme_tags:
+      - Image→Pixel
+      - Conversion
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    dual_listed_in:
+      - game-development/game-dev-sprite-vfx
+  - name: Pixa.Pics
+    url: https://pixa.pics/
+    description: Browser pixel-art tool w/ vectorization.
+    license: Freemium
+    entry_type: software
+    best_for: Browser pixel art
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      workflow:
+        - fx
+    readme_tags:
+      - Browser
+      - Vectorization
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    dual_listed_in:
+      - game-development/game-dev-sprite-vfx
+  - name: Pickle
+    url: http://www.pickleeditor.com/
+    description: Pixel art editor.
+    license: Paid
+    entry_type: software
+    best_for: Pixel art editing
+    tags:
+      output:
+        - games
+      workflow:
+        - fx
+    readme_tags:
+      - Pixel Art
+      - Editor
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    dual_listed_in:
+      - game-development/game-dev-sprite-vfx
+  - name: Lightcube
+    url: https://www.lightcube.art/
+    description: Pixel art editor for Windows w/ PSD, JPEG, PNG, BMP, GIF support.
+    license: Paid
+    entry_type: software
+    best_for: Windows pixel art w/ PSD
     tags:
       output:
         - games
       platform:
         - win
-        - mac
-        - linux
+      workflow:
+        - fx
     readme_tags:
-      - Pixel Art
-      - Sprites
+      - Windows
+      - PSD Support
     url_last_verified: '2026-06-01'
     url_status: ok
-  - name: Clipnote Studio
-    url: https://calcium-chan.itch.io/clipnote
-    description: Simple animation software!
-    license: Free
+    dual_listed_in:
+      - game-development/game-dev-sprite-vfx
+  - name: Pixen (GitHub)
+    url: https://github.com/Pixen/Pixen
+    description: Pixel Art Editor for OSX
+    license: Open Source
     entry_type: software
-    best_for: Frame-by-frame 2D animation
+    url_last_verified: '2026-06-01'
+    url_status: ok
     tags:
+      output:
+        - games
+      workflow:
+        - fx
+      tech:
+        - opensource-alt
+    stale: true
+    last_pushed: '2016-09-18'
+    dual_listed_in:
+      - game-development/game-dev-sprite-vfx
+  - name: Pro Motion
+    url: http://www.cosmigo.com/pixel_animation_software
+    description: Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
+    license: Paid
+    entry_type: software
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      output:
+        - games
       platform:
         - win
+      workflow:
+        - fx
+    dual_listed_in:
+      - game-development/game-dev-sprite-vfx
+  - name: Rebelle 8 Pro
+    url: https://www.escapemotions.com/products/rebelle
+    description: Natural-media painting app simulating real watercolor, oil, acrylic, ink with fluid dynamics.
+    license: Paid
+    entry_type: software
+    best_for: Realistic traditional-media digital painting
+    tags:
+      workflow:
+        - concept
+      tech:
+        - stylus-support
+      platform:
+        - win
+        - mac
     readme_tags:
-      - 2D Anim
-      - Free
+      - Natural Media
+      - Watercolor Sim
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/drawing-painting-3d
+  - name: Pixen (site)
+    url: https://pixenapp.com/
+    description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
+    license: Paid
+    entry_type: software
+    url_last_verified: '2026-06-01'
+    url_status: ok
+    tags:
+      platform:
+        - mac
+        - ios
+      tech:
+        - stylus-support
+    dual_listed_in:
+      - art-design-visual-storytelling/drawing-painting-3d

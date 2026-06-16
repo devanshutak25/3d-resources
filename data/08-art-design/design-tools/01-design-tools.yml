@@ -171,19 +171,6 @@ entries:
     tags:
       platform:
         - web
-  - name: Are.na
-    url: https://www.are.na/
-    description: Mood board and research tool for creatives.
-    license: Freemium
-    entry_type: tool
-    readme_tags:
-      - Mood Boards
-      - Research
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
   - name: Mockup Photos
     url: https://mockup.photos/
     description: Device and print mockup library.

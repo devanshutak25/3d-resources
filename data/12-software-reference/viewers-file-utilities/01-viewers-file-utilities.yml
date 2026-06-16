@@ -275,3 +275,4 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
+      - tools-pipeline-utilities/photogrammetry-scanning

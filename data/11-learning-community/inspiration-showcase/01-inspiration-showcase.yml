@@ -150,20 +150,6 @@ entries:
         - film-vfx
       platform:
         - web
-  - name: Before & Afters
-    url: https://beforesandafters.com/
-    description: VFX breakdowns and behind-the-scenes.
-    entry_type: reference
-    readme_tags:
-      - VFX Breakdowns
-      - BTS
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - film-vfx
-      platform:
-        - web
   - name: HUDs and GUIs
     url: https://www.hudsandguis.com/
     description: FUI/screen graphics reference for sci-fi 3D work.
@@ -526,5 +512,17 @@ entries:
     tags:
       output:
         - archviz
+      platform:
+        - web
+  - name: Alan Williams (Pinterest)
+    url: https://www.pinterest.com/AlanWilliams/
+    description: Curated visual inspiration boards.
+    entry_type: inspiration
+    readme_tags:
+      - Pinterest
+      - Inspiration
+    tags:
+      output:
+        - generalist
       platform:
         - web

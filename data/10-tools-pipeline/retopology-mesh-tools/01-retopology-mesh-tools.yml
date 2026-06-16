@@ -1,25 +1,4 @@
 entries:
-  - name: RetopoFlow
-    url: https://blendermarket.com/products/retopoflow
-    description: Blender addon for manual retopology.
-    license: Paid
-    entry_type: plugin
-    tags:
-      workflow:
-        - retopo
-      output:
-        - generalist
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - blender-addon
-    readme_tags:
-      - Blender
-      - Manual Retopo
-    url_last_verified: '2026-06-01'
-    url_status: ok
   - name: Topology Guides
     url: http://topologyguides.com/
     description: Topology reference.
@@ -30,6 +9,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - retopo
       platform:
@@ -45,6 +26,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - retopo
       platform:
@@ -64,6 +47,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - retopo
       platform:
@@ -83,6 +68,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - retopo
       platform:
@@ -103,6 +90,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - retopo
         - sculpting

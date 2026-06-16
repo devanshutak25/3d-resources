@@ -25,7 +25,7 @@ subsections:
   - slug: 2d-animation-software
     title: 2D & Animation Software
     description: Digital painting, illustration, 2D animation.
-    chunks: 1
+    chunks: 2
     mirror_into: motion-graphics-video
   - slug: vfx-compositing-software
     title: VFX & Compositing Software
@@ -100,7 +100,7 @@ subsections:
   - slug: pipeline-software
     title: Pipeline & Production Management Software
     description: Production tracking, render farm management, asset pipeline orchestration.
-    chunks: 1
+    chunks: 2
     mirror_into: tools-pipeline-utilities
   - slug: misc-3d-utilities-software
     title: Misc 3D Utilities Software

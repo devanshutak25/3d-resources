@@ -1,29 +1,4 @@
 entries:
-  - name: Krita
-    url: https://krita.org/
-    description: Free open-source digital painting. Brush engine, animation, HDR.
-    license: Open Source
-    entry_type: software
-    best_for: Digital painting, concept art, 2D animation
-    tags:
-      workflow:
-        - concept
-        - animation
-      output:
-        - illustration
-        - motion-graphics
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - opensource-alt
-        - stylus-support
-    readme_tags:
-      - Digital Painting
-      - Animation
-    url_last_verified: '2026-06-01'
-    url_status: ok
   - name: Clip Studio Paint
     url: https://www.clipstudio.net/
     description: Industry-standard illustration and comics with animation timeline.
@@ -49,6 +24,8 @@ entries:
       - Frame-by-Frame
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - software-reference/design-software
   - name: Procreate
     url: https://procreate.com/
     description: IPad painting app. Procreate Dreams for animation.
@@ -74,6 +51,8 @@ entries:
       - Storyboarding
     url_last_verified: '2026-06-01'
     url_status: ok
+    dual_listed_in:
+      - software-reference/design-software
   - name: Aseprite
     url: https://www.aseprite.org/
     description: Pixel art editor with animation tools ([source on GitHub](https://github.com/aseprite/aseprite)).
@@ -548,6 +527,8 @@ entries:
     tags:
       platform:
         - web
+      skill:
+        - intermediate
   - name: Pointer Tracking Animation Implemented in Webflow
     url: https://www.youtube.com/@jeffamcavoy
     description: How to set up a Rive file with pointer tracking for Webflow implementation.
@@ -561,6 +542,8 @@ entries:
     tags:
       platform:
         - web
+      skill:
+        - beginner
   - name: PiskelApp
     url: http://www.piskelapp.com/
     description: Free Online Pixel Art and Animated Sprite Tool.
@@ -586,6 +569,8 @@ entries:
       platform:
         - ios
         - web
+      skill:
+        - beginner
   - name: Flutter Web and Rive Animation Tutorial
     url: https://dev.to/suhavi/flutter-web-and-rive-animation-tutorial-5f5k
     description: Beginner to intermediate tutorial for setting up a Flutter web app with Rive animations.
@@ -613,6 +598,8 @@ entries:
         - animation
       platform:
         - web
+      skill:
+        - intermediate
   - name: Create animated UI in Unity using Rive and Noesis
     url: https://www.youtube.com/@Rive_app
     description: Tutorial on how to add Rive to your Unity games using Noesis.
@@ -625,6 +612,8 @@ entries:
         - animation
       platform:
         - web
+      skill:
+        - intermediate
   - name: Adding Animation to Buttons in Flutter using Rive
     url: https://www.youtube.com/@anantpro
     description: Simple Animated Menu Toggle Button in Rive
@@ -637,6 +626,8 @@ entries:
         - animation
       platform:
         - web
+      skill:
+        - beginner
   - name: Rive Flutter Animation
     url: https://flutterservice.com/rive-flutter-animation/
     description: Best approach for animation in 2023.
@@ -709,6 +700,8 @@ entries:
         - animation
       platform:
         - web
+      skill:
+        - intermediate
   - name: Create Rive-ting Animations
     url: https://www.viget.com/articles/create-rive-animations/
     description: '"Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."'
@@ -859,150 +852,3 @@ entries:
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
-  - name: Pixelator
-    url: http://pixelatorapp.com
-    description: Turn any image into pixel art.
-    license: Paid
-    entry_type: software
-    best_for: Image→pixel art
-    tags:
-      output:
-        - games
-        - illustration
-      workflow:
-        - fx
-    readme_tags:
-      - Image→Pixel
-      - Conversion
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - game-development/game-dev-sprite-vfx
-  - name: Pixa.Pics
-    url: https://pixa.pics/
-    description: Browser pixel-art tool w/ vectorization.
-    license: Freemium
-    entry_type: software
-    best_for: Browser pixel art
-    tags:
-      output:
-        - games
-      platform:
-        - web
-      workflow:
-        - fx
-    readme_tags:
-      - Browser
-      - Vectorization
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - game-development/game-dev-sprite-vfx
-  - name: Pickle
-    url: http://www.pickleeditor.com/
-    description: Pixel art editor.
-    license: Paid
-    entry_type: software
-    best_for: Pixel art editing
-    tags:
-      output:
-        - games
-      workflow:
-        - fx
-    readme_tags:
-      - Pixel Art
-      - Editor
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - game-development/game-dev-sprite-vfx
-  - name: Lightcube
-    url: https://www.lightcube.art/
-    description: Pixel art editor for Windows w/ PSD, JPEG, PNG, BMP, GIF support.
-    license: Paid
-    entry_type: software
-    best_for: Windows pixel art w/ PSD
-    tags:
-      output:
-        - games
-      platform:
-        - win
-      workflow:
-        - fx
-    readme_tags:
-      - Windows
-      - PSD Support
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - game-development/game-dev-sprite-vfx
-  - name: Pixen (GitHub)
-    url: https://github.com/Pixen/Pixen
-    description: Pixel Art Editor for OSX
-    license: Open Source
-    entry_type: software
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      workflow:
-        - fx
-      tech:
-        - opensource-alt
-    stale: true
-    last_pushed: '2016-09-18'
-    dual_listed_in:
-      - game-development/game-dev-sprite-vfx
-  - name: Pro Motion
-    url: http://www.cosmigo.com/pixel_animation_software
-    description: Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
-    license: Paid
-    entry_type: software
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      platform:
-        - win
-      workflow:
-        - fx
-    dual_listed_in:
-      - game-development/game-dev-sprite-vfx
-  - name: Rebelle 8 Pro
-    url: https://www.escapemotions.com/products/rebelle
-    description: Natural-media painting app simulating real watercolor, oil, acrylic, ink with fluid dynamics.
-    license: Paid
-    entry_type: software
-    best_for: Realistic traditional-media digital painting
-    tags:
-      workflow:
-        - concept
-      tech:
-        - stylus-support
-      platform:
-        - win
-        - mac
-    readme_tags:
-      - Natural Media
-      - Watercolor Sim
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    dual_listed_in:
-      - art-design-visual-storytelling/drawing-painting-3d
-  - name: Pixen (site)
-    url: https://pixenapp.com/
-    description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
-    license: Paid
-    entry_type: software
-    url_last_verified: '2026-06-01'
-    url_status: ok
-    tags:
-      platform:
-        - mac
-        - ios
-      tech:
-        - stylus-support
-    dual_listed_in:
-      - art-design-visual-storytelling/drawing-painting-3d

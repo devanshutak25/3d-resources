@@ -52,6 +52,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - photogrammetry
         - gaussian-splatting
@@ -65,6 +67,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - photogrammetry
         - gaussian-splatting
@@ -78,6 +82,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - photogrammetry
         - gaussian-splatting
@@ -92,6 +98,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - photogrammetry
         - gaussian-splatting
@@ -107,6 +115,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - photogrammetry
         - nerf

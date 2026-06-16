@@ -3,6 +3,7 @@ entries:
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
     description: Publishes technical articles on the theory, design, and applications of neural networks and related learning systems.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:

@@ -7,6 +7,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -27,6 +29,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender
         - blender-addon
@@ -46,6 +50,8 @@ entries:
     entry_type: plugin
     best_for: Accurate cloth/hair/soft-body sim in Blender
     tags:
+      output:
+        - film-vfx
       tech:
         - blender-addon
         - blender
@@ -69,6 +75,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - rigging
         - modeling
@@ -87,6 +95,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - lighting
       tech:
@@ -106,6 +116,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
         - procedural
@@ -127,6 +139,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
         - procedural
@@ -147,6 +161,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -167,6 +183,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -184,6 +202,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - sculpting
         - texturing
@@ -201,6 +221,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -218,6 +240,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -238,6 +262,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -259,6 +285,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -280,6 +308,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -301,6 +331,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - modeling
       tech:
@@ -320,6 +352,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - modeling
       tech:
@@ -339,6 +373,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - modeling
       tech:
@@ -358,6 +394,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - retopo
       tech:
@@ -377,6 +415,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - modeling
       tech:
@@ -417,6 +457,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - rigging
       tech:
@@ -436,6 +478,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - uv
         - texturing
@@ -456,6 +500,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -497,6 +543,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
         - collaborative
@@ -515,6 +563,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
       platform:
@@ -586,6 +636,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
       workflow:
@@ -620,6 +672,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
         - photogrammetry
@@ -638,6 +692,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - modeling
       tech:
@@ -655,6 +711,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       tech:
         - blender-addon
       platform:

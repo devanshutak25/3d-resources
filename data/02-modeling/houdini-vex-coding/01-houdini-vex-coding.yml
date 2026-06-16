@@ -10,6 +10,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - creative-coding
       platform:
@@ -29,6 +31,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - creative-coding
       skill:
@@ -48,6 +52,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - creative-coding
       skill:
@@ -68,6 +74,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - creative-coding
       skill:
@@ -87,6 +95,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - creative-coding
       skill:
@@ -96,6 +106,8 @@ entries:
       tech:
         - houdini
         - python
+    dual_listed_in:
+      - learning-community-industry/communities-forums
   - name: OpenCL in Houdini
     url: https://pepefx.blogspot.com/2019/03/opencl-notes.html
     description: OpenCL notes for Houdini.
@@ -107,6 +119,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - film-vfx
       workflow:
         - creative-coding
       platform:
@@ -125,6 +139,8 @@ entries:
       - Python
       - Startup Scripts
     tags:
+      output:
+        - film-vfx
       workflow:
         - creative-coding
       skill:

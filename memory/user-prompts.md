@@ -11,6 +11,14 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-16 21:00
+**Prompt:**
+> add  pinterest.com/AlanWilliams/
+
+**Answered:** Pinterest scrape-blocked; user confirmed "general inspiration". Added "Alan Williams (Pinterest)" entry → §11 inspiration-showcase/01 (39→40 ent), inspiration/generalist/web. Validation ✓ 398.
+
+---
+
 ### 2026-06-15 (post-clear, §11 relocation + §03 session)
 **Prompt:**
 > make plan to do next steps
@@ -514,3 +522,22 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
   - Propagated 3,300+ → 3,400+ across handoff/*.md (28 occ; _maintenance left alone). Stored GitHub About in copy-snippets.md. Logged recount (3,414) + About to decisions.md + project.md §11.
 - **Prompt (2026-06-15):** add protopie.io + figma.com + a large AI-creative-tools directory (node canvas, sketch-to-render, product photography, AI filmmaking, upscalers, core image/video models).
   - Figma already present. Hybrid/curated/refresh (AskUserQuestion). Added 35 new entries: 3 new §12 buckets (ai-canvas/design-viz/product-photography) + folded filmmaking→ai-video, upscalers→ai-assist, Imagen/Reve→ai-image, Intangible→ai-3d, ProtoPie→design-software. Refreshed 9 existing (Nano Banana Pro, FLUX.2, GPT Image, Runway Gen-4.5, Sora deprecated, Luma Ray3, LTX-2, Topaz Bloom, Magnific/Freepik). Catalog 3,414→3,449. Validation ✓ 410.
+- **Prompt (2026-06-15):** what more can be added? changed? cleaned? enriched? in this repo?
+  - 3-agent audit → plan (3 workstreams A cleanup / C facet backfill / B SEO, order A→C→B). A1 DONE: split 2 over-cap §12 chunks (2d-animation 58→50+8, pipeline 66→50+16). Validation ✓ 410. Next: A2 dedup (26 same-URL groups).
+- **Prompt (2026-06-15):** go
+  - A2 DONE: cross-subsection dupe consolidation. 23 true-dupes → canonical + dual_listed_in (user policy: preserve render), 3 same-sub plain deletes, 6 distinct pairs left. 26 entries removed → 3421. Validation ✓ 398 (12 cross-section warnings cleared). 2 items flagged for user (Architecture Pipeline wrong URL; Motion Design School Discord URL).
+
+- **Prompt (2026-06-16):** make plan to do next steps
+  - Planned Workstream C facet backfill (4 phases: license §04→§09, output §02/§10, skill narrow). User picked C, leave uncommitted. Phase 1 DONE: §04 license 65→236/236 (100%), 170 added, validation ✓ 398.
+
+- **Prompt (2026-06-16):** yes
+  - Phase 2 DONE: §09 ai-ml license 96→224/224 (100%), 128 added (all Free, papers). Validation ✓ 398. NEXT: Phase 3 output §02/§10.
+
+- **Prompt (2026-06-16):** go
+  - Phase 3 DONE: output backfill §02 57→237/237, §10 118→260/260 (both 100%), 322 added (generalist 251, film-vfx 69, scientific-viz 2). Validation ✓ 398. NEXT: Phase 4 skill.
+
+- **Prompt (2026-06-16):** go
+  - Phase 4 DONE → Workstream C COMPLETE. Skill: 14 candidates, tagged 7 instructional Rive tutorials, skipped 7 non-graded. Validation ✓ 398. Next options: Workstream B (SEO) or launch.
+
+- **Prompt (2026-06-16):** 1. remove  2. leave it as is — validate and log, I will commit
+  - Removed Architecture Pipeline entry (§10 pipeline-overview/01, 3→2 ent); left Motion Design School as-is. Validation ✓ 397 (dupe warning cleared). User commits.

@@ -66,6 +66,8 @@ entries:
     entry_type: tool
     best_for: fSpy → Maya import
     tags:
+      output:
+        - film-vfx
       workflow:
         - match-move
       platform:

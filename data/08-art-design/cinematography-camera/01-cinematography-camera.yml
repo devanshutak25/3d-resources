@@ -18,6 +18,8 @@ entries:
         - web
       skill:
         - beginner
+    dual_listed_in:
+      - art-design-visual-storytelling/pre-production-tools
   - name: No Film School. Cinematography
     url: https://nofilmschool.com/topics/cinematography-cameras
     description: Constant stream of technique articles.
@@ -56,6 +58,8 @@ entries:
         - web
       skill:
         - intermediate
+    dual_listed_in:
+      - art-design-visual-storytelling/pre-production-tools
   - name: CinemaTyler
     url: https://www.youtube.com/@CinemaTyler
     description: Deep analysis of lens choice, color, blocking, lighting in film.

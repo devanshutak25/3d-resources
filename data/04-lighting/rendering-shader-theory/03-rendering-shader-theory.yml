@@ -3,6 +3,7 @@ entries:
     url: https://casual-effects.com/
     description: Morgan McGuire's site with real-time rendering articles, research papers, and graphics data.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -16,6 +17,7 @@ entries:
     url: https://catlikecoding.com/
     description: C# and shader tutorials for Unity.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -33,6 +35,7 @@ entries:
     url: https://cesiumjs.org/
     description: Open-source library for 3D globes and maps.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -46,6 +49,7 @@ entries:
     url: http://cg.ivd.kit.edu/publications/p2012/VRL/VRL.pdf
     description: Novák et al. SIGGRAPH 2012.
     entry_type: reference
+    license: Free
     year: 2012
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -60,6 +64,7 @@ entries:
     url: https://compute.toys/
     description: WebGPU compute shader editor for experimenting with GPU graphics in the browser.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -73,6 +78,7 @@ entries:
     url: https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf
     description: Walter et al. Eurographics Symposium on Rendering 2007.
     entry_type: reference
+    license: Free
     year: 2007
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -87,6 +93,7 @@ entries:
     url: http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf
     description: Veach & Guibas. SIGGRAPH 1995.
     entry_type: reference
+    license: Free
     year: 1995
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -101,6 +108,7 @@ entries:
     url: https://cseweb.ucsd.edu/~ravir/HRPIEG.pdf
     description: 'Premoze et al. Rendering Techniques 2004: 15th Eurographics Workshop on Rendering.'
     entry_type: reference
+    license: Free
     year: 2004
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -115,6 +123,7 @@ entries:
     url: https://cyos.babylonjs.com/
     description: Online shader editor.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -126,6 +135,7 @@ entries:
     url: https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit
     description: Detailed corrections to the PBR theory page on learnopengl.com.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -139,6 +149,7 @@ entries:
     url: http://dx.doi.org/10.1109/TAP.1980.1142437
     description: Garry S. Brown. IEEE Transactions on Antennas and Propagation 1980.
     entry_type: reference
+    license: Free
     year: 1980
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -153,6 +164,7 @@ entries:
     url: https://editor.isf.video/
     description: Online tool for creating and editing GLSL shaders in the ISF format, used in VJ software, live performance, and interactive installations.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -164,6 +176,7 @@ entries:
     url: https://editor.thebookofshaders.com/
     description: Simple WebGL fragment shader editor.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -175,6 +188,7 @@ entries:
     url: https://fgiesen.wordpress.com/
     description: Blog on rendering, optimization, and low-level graphics programming with a focus on practical techniques.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -188,6 +202,7 @@ entries:
     url: http://www.flong.com/archive/texts/code/
     description: Set of shaping functions for shaders.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -199,6 +214,7 @@ entries:
     url: https://www.framer.com/motion/
     description: Animation library for React, usable with react-three-fiber via the framer-motion-3d package.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -210,6 +226,7 @@ entries:
     url: https://frontendmasters.com/courses/canvas-webgl/
     description: Workshop by Matt DesLauriers on generative art, interactive animations, 3D graphics, and shaders.
     entry_type: tutorial
+    license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -224,6 +241,7 @@ entries:
     url: https://frontendmasters.com/courses/webgl-shaders/
     description: Workshop by Matt DesLauriers going deeper into graphics programming, math, and shaders.
     entry_type: tutorial
+    license: Paid
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -238,6 +256,7 @@ entries:
     url: https://gamemath.com/book/intro.html
     description: Book covering the 3D math foundations for graphics and game programming.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -251,6 +270,7 @@ entries:
     url: https://github.com/lindenreid/Unity-Shader-Tutorials
     description: Full project and code for a set of Unity shader tutorials.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -271,6 +291,7 @@ entries:
     url: https://github.com/TarasOsiris/unity3d-shaders-learning
     description: Unity3D shader learning examples.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -291,6 +312,7 @@ entries:
     url: https://github.com/Brackeys/Shader-Graph-Tutorials
     description: Project files for the Brackeys Shader Graph tutorials in Unity.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -311,6 +333,7 @@ entries:
     url: https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity
     description: 'Companion resources for the UNITE Boston 2015 talk Writing Shaders: YOU can do it!'
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -331,6 +354,7 @@ entries:
     url: https://github.com/nothke/UnityShaderCheatsheet
     description: Collection of Unity shader snippets and gotchas.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -351,6 +375,7 @@ entries:
     url: https://github.com/DigiKrafting/blender_addon_pbr
     description: Blender addon adding a material panel that builds Metallic/Roughness or Specular/Gloss node setups on the Principled BSDF.
     entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -370,6 +395,7 @@ entries:
     url: https://github.com/eliemichel/LilySurfaceScrapper
     description: Blender addon that imports materials and shaders from a single URL.
     entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -387,6 +413,7 @@ entries:
     url: https://github.com/jlampel/bl_extra_lights
     description: Blender addon adding physically based, photometric lighting presets to the Add menu.
     entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -404,6 +431,7 @@ entries:
     url: https://github.com/BrendanParmer/NodeToPython
     description: Blender addon that converts Geometry, Shader, and Compositing node trees into legible Python scripts and add-ons.
     entry_type: plugin
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -421,6 +449,7 @@ entries:
     url: https://github.com/dfranx/SHADERed
     description: Lightweight tool for creating and testing HLSL and GLSL shaders.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -438,6 +467,7 @@ entries:
     url: https://github.com/jbouny/ocean
     description: Realistic ocean and water shader for Three.js with notes on the approach.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -453,6 +483,7 @@ entries:
     url: https://github.com/patriciogonzalezvivo/PixelSpiritDeck
     description: Code library for the PixelSpirit Elements deck of GLSL shader cards.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -468,6 +499,7 @@ entries:
     url: https://github.com/ppmpreetham/three-blender
     description: Blender tool that converts Blender files directly to Three.js.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -484,6 +516,7 @@ entries:
     url: https://github.com/patriciogonzalezvivo/glslViewer
     description: Console-based GLSL sandbox for 2D/3D shaders, for a creative pipeline agnostic to the target platform.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -499,6 +532,7 @@ entries:
     url: https://github.com/patriciogonzalezvivo/lygia
     description: Granular, multi-language shader library built for performance and flexibility.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -512,6 +546,7 @@ entries:
     url: https://github.com/jbouny/fft-ocean
     description: Fast Fourier Transform ocean rendering for Three.js.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -527,6 +562,7 @@ entries:
     url: https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29
     description: Detailed ray tracing tutorial series using OpenGL (LWJGL) by Kai Burjack.
     entry_type: tutorial
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -544,6 +580,7 @@ entries:
     url: https://github.com/GPUOpen-Tools/CodeXL
     description: AMD tool suite with a debugger, profiler, and frame/shader analysis.
     entry_type: tool
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -562,6 +599,7 @@ entries:
     url: https://github.com/mosra/magnum
     description: 2D/3D graphics engine for modern OpenGL.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -577,6 +615,7 @@ entries:
     url: https://github.com/antidamage/CelShader
     description: Cel shader project for Unreal Engine 4.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -598,6 +637,7 @@ entries:
     url: https://github.com/rubendhz/houdini-gsplat-renderer
     description: HDK/GLSL implementation of Gaussian Splatting in Houdini.
     entry_type: reference
+    license: Open Source
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -615,6 +655,7 @@ entries:
     url: http://glslsandbox.com
     description: Online live editor for fragment shaders.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -626,6 +667,7 @@ entries:
     url: https://gpuzen.blogspot.com/
     description: Blog on GPU programming and advanced rendering techniques, often featuring excerpts from the GPU Zen book series.
     entry_type: reference
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -641,6 +683,7 @@ entries:
     url: http://www.graphics.cornell.edu/pubs/1999/Kin99.pdf
     description: Kindlmann & Durkin. IEEE Symposium on Volume Visualization 1998.
     entry_type: reference
+    license: Free
     year: 1998
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -655,6 +698,7 @@ entries:
     url: https://graphics.stanford.edu/papers/shear/shearwarp.pdf
     description: Lacroute & Levoy. SIGGRAPH 1994.
     entry_type: reference
+    license: Free
     year: 1994
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -669,6 +713,7 @@ entries:
     url: https://graphics.stanford.edu/papers/light/
     description: Levoy & Hanrahan. SIGGRAPH 1996.
     entry_type: reference
+    license: Free
     year: 1996
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -683,6 +728,7 @@ entries:
     url: http://graphics.ucsd.edu/~henrik/papers/fast_bssrdf/fast_bssrdf.pdf
     description: Jensen & Buhler. SIGGRAPH 2002.
     entry_type: reference
+    license: Free
     year: 2002
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -697,6 +743,7 @@ entries:
     url: https://greensock.com/gsap/
     description: Animation library for CSS and JavaScript, framework agnostic and usable with three.js, backed by plugins like ScrollTrigger and Flip.
     entry_type: reference
+    license: Freemium
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -709,6 +756,7 @@ entries:
     url: http://groups.csail.mit.edu/graphics/tlfr/
     description: Lehtinen et al. SIGGRAPH 2011.
     entry_type: reference
+    license: Free
     year: 2011
     url_last_verified: '2026-06-01'
     url_status: ok
@@ -723,6 +771,7 @@ entries:
     url: https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/
     description: Tutorial on using Firefox developer tools to debug WebGL shaders.
     entry_type: tutorial
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
@@ -736,6 +785,7 @@ entries:
     url: https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/
     description: Tutorial on live-editing WebGL shaders with Firefox developer tools.
     entry_type: tutorial
+    license: Free
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:

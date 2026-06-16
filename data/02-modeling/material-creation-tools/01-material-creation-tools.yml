@@ -5,6 +5,8 @@ entries:
     license: Free
     entry_type: tool
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -23,6 +25,8 @@ entries:
     deprecated: true
     best_for: SD-alternative (archived)
     tags:
+      output:
+        - generalist
       workflow:
         - material-authoring
         - texturing
@@ -47,6 +51,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -63,6 +69,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -85,6 +93,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -103,6 +113,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -132,6 +144,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - texturing
         - material-authoring
@@ -149,6 +163,8 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: ok
     tags:
+      output:
+        - generalist
       workflow:
         - material-authoring
         - creative-coding
