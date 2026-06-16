@@ -19,6 +19,7 @@ const render = require('./render');
 const seo = require('./lib/seo-pages');
 const { slugify } = require('./lib/slugify');
 const { pageShell, SITE_URL, REPO_URL } = require('./lib/page-shell');
+const { entriesToJsonLd } = require('./lib/entry-schema');
 
 function lastUpdatedDate() {
   try {
@@ -131,7 +132,10 @@ function buildSectionJsonLd(section, entries, canonicalUrl) {
         name: section.title,
         numberOfItems: entries.length,
         itemListElement: itemListElements(entries)
-      }
+      },
+      // Per-entry typed nodes (B3). Bounded to match itemListElements' cap so
+      // large sections don't produce an oversized @graph.
+      ...entriesToJsonLd(entries, 100)
     ]
   };
 }
@@ -162,7 +166,9 @@ function buildSubsectionJsonLd(sub, sectionCanonical, subCanonical) {
         name: sub.subTitle,
         numberOfItems: sub.entries.length,
         itemListElement: itemListElements(sub.entries)
-      }
+      },
+      // Per-entry typed nodes (B3). Subsections are <=50 by chunk cap, emit all.
+      ...entriesToJsonLd(sub.entries)
     ]
   };
 }

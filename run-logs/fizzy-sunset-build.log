@@ -1,0 +1,44 @@
+
+up to date, audited 13 packages in 1s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Built _site/index.html
+Built _site/404.html
+Wrote robots.txt
+Wrote og/assets-libraries.png (72.6 KB)
+Wrote og/modeling-sculpting-texturing.png (82.5 KB)
+Wrote og/animation-rigging.png (70.2 KB)
+Wrote og/lighting-rendering-shaders.png (83.2 KB)
+Wrote og/vfx-compositing-virtual-production.png (83.1 KB)
+Wrote og/motion-graphics-video.png (75.5 KB)
+Wrote og/game-development.png (72.4 KB)
+Wrote og/art-design-visual-storytelling.png (86.9 KB)
+Wrote og/ai-ml-for-cg.png (78.3 KB)
+Wrote og/tools-pipeline-utilities.png (76.7 KB)
+Wrote og/learning-community-industry.png (82.4 KB)
+Wrote og/software-reference.png (70.5 KB)
+Generated 12/12 OG images.
+Wrote /sections/assets-libraries/ + 16 subsection pages (263 entries)
+Wrote /sections/modeling-sculpting-texturing/ + 18 subsection pages (234 entries)
+Wrote /sections/animation-rigging/ + 3 subsection pages (12 entries)
+Wrote /sections/lighting-rendering-shaders/ + 5 subsection pages (236 entries)
+Wrote /sections/vfx-compositing-virtual-production/ + 3 subsection pages (26 entries)
+Wrote /sections/motion-graphics-video/ + 7 subsection pages (39 entries)
+Wrote /sections/game-development/ + 21 subsection pages (800 entries)
+Wrote /sections/art-design-visual-storytelling/ + 13 subsection pages (130 entries)
+Wrote /sections/ai-ml-for-cg/ + 10 subsection pages (222 entries)
+Wrote /sections/tools-pipeline-utilities/ + 13 subsection pages (251 entries)
+Wrote /sections/learning-community-industry/ + 10 subsection pages (412 entries)
+Wrote /sections/software-reference/ + 32 subsection pages (698 entries)
+Done: 12 section pages, 151 subsection pages (19 noindex).
+Wrote 3688 entries → _site/data.json
+Wrote /tags/ hub + 121 tag pages (25 noindex).
+Wrote search index (3416 docs, 945.7 KB) → _site/search-index.json
+Wrote graph.json: 3606 nodes ({"section":12,"subsection":151,"entry":3323,"tag":120}), 18207 edges → _site/graph.json
+Wrote llms.txt (21.1 KB)
+Wrote llms-full.txt (419.4 KB)
+Wrote feed.xml (18.9 KB, 50 entries)
+Wrote sitemap.xml (242 URLs)

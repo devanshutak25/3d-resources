@@ -351,3 +351,21 @@ entries:
       - Parametric
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: PackCAD
+    url: https://packcad.com/
+    description: Browser 3D CAD for packaging. Models folded/origami structures with folding simulation.
+    license: Freemium
+    entry_type: software
+    best_for: Packaging and dieline design
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - web
+    readme_tags:
+      - Browser
+      - Packaging
+    url_last_verified: '2026-06-17'
+    url_status: ok

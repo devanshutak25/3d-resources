@@ -57,7 +57,7 @@ entries:
         - web
     readme_tags:
       - CC0
-      - Seamless
+      - Tileable
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: CG Bookcase
@@ -77,7 +77,7 @@ entries:
         - web
     readme_tags:
       - Free PBR
-      - Seamless
+      - Tileable
     url_last_verified: '2026-06-01'
     url_status: ok
   - name: 3D Textures
@@ -102,7 +102,7 @@ entries:
     url_status: ok
   - name: Texture Fabrik
     url: https://texturefabrik.com/
-    description: Free textures and seamless patterns.
+    description: Free textures and tileable patterns.
     license: Free
     entry_type: asset-source
     readme_tags:

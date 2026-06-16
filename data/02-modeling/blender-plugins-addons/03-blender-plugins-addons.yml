@@ -833,7 +833,7 @@ entries:
     last_pushed: '2021-01-09'
   - name: Tilecam
     url: https://github.com/stuffmatic/tilecam
-    description: Renders seamlessly tileable images in Blender.
+    description: Renders tileable images in Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-06-01'

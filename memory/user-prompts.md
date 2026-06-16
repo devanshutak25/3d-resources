@@ -553,3 +553,12 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 - **Prompt (2026-06-17):** update handoff and the other documents, we will pick up in the next session
   - Session wrap. Updated disregard/handoff-enrichment-sweep.md (§7 resume-at-B3 + DONE summaries, §6 flags 4/5 closed, §8 baselines→397), project.md (§11 new Workstream B subsection, §6 build pipeline +tag/sitemap steps, §3 map +5 new files), and the approved B plan STATUS header. NEXT SESSION: B3 per-entry JSON-LD (lib/entry-schema.js; section+subsection pages only). All edits uncommitted (user commits).
+
+- **Prompt (2026-06-17):** make plan to do next steps. also add https://packcad.com/
+  - Plan `~/.claude/plans/make-plan-to-do-fizzy-sunset.md` (approved): P1 add PackCAD, P2 Workstream B3 (per-entry JSON-LD), P3 data quality pass (em-dash/banned words). PackCAD license=Freemium (user pick). **Phase 1 DONE:** added PackCAD to §12 cad-software/01 (19→20 ent; web 3D CAD for packaging/origami folding; software/Freemium/web/modeling/product-viz; dropped non-curated `parametric` tech to avoid new warning). Validation ✓ 397 (unchanged). Uncommitted. STOPPED for go-ahead before P2.
+
+- **Prompt (2026-06-17):** go
+  - **Phase 2 (B3) DONE:** new `scripts/lib/entry-schema.js` (entryToJsonLd/entriesToJsonLd, pure) maps entry_type→schema.org @type; `build-section-pages.js` appends per-entry nodes to each page @graph (section bounded 100, subsection all ≤50); NOT in index.html. Unit test entry-schema.test.js 11/11. Built 12 section + 151 subsection pages; cad-software JSON-LD verified (16 SoftwareApplication+2 Thing+Breadcrumb/CollectionPage/ItemList, valid). project.md §11 + decisions.md updated. Validation ✓ 397 (no data-shape change). Uncommitted. STOPPED before P3.
+
+- **Prompt (2026-06-17):** go
+  - **Phase 3 (data quality pass) DONE → plan complete.** Fixed 4 user-facing prose hits (Seamless→Tileable ×2 + tileable patterns in textures-free-pbr/01; Tilecam seamlessly→removed; MegaSaM robust-adjective-stack rewritten) + 1 em-dash (scientific-viz subsection desc → comma). Skipped 3 legit non-violations (RVM proper name, URL substring, internal comment). Validation ✓ 397. Full bash build.sh EXIT=0 (sitemap 242 URLs; cad-software page verified: PackCAD card + 16 SoftwareApplication nodes). Uncommitted (user commits).

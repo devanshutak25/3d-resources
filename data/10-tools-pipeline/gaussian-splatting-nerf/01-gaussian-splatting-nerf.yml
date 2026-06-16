@@ -92,7 +92,7 @@ entries:
     url_status: ok
   - name: MegaSaM
     url: https://github.com/mega-sam/mega-sam
-    description: Accurate, fast, robust structure and motion from casual video.
+    description: Structure and motion recovery from casual handheld video.
     license: Open Source
     entry_type: reference
     readme_tags:

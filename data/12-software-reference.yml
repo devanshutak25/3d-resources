@@ -110,7 +110,7 @@ subsections:
 
   - slug: scientific-viz-software
     title: Scientific & Medical Visualization Software
-    description: Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools — plus DCC bridges and educators.
+    description: Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools, plus DCC bridges and educators.
     chunks: 1
 
   - slug: legacy-defunct-software
