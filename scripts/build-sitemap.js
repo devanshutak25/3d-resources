@@ -26,6 +26,11 @@ function main() {
   // Root.
   urls.push({ loc: `${SITE_URL}/`, priority: '1.0', changefreq: 'weekly' });
 
+  // Sections hub.
+  if (exists(path.join('sections', 'index.html'))) {
+    urls.push({ loc: `${SITE_URL}/sections/`, priority: '0.8', changefreq: 'weekly' });
+  }
+
   // Section pages (12).
   for (const s of catalog.loadSections().sections) {
     if (!exists(path.join('sections', s.slug, 'index.html'))) continue;

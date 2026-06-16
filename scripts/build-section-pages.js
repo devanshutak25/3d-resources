@@ -18,7 +18,7 @@ const catalog = require('./lib/catalog');
 const render = require('./render');
 const seo = require('./lib/seo-pages');
 const { slugify } = require('./lib/slugify');
-const { pageShell, SITE_URL, REPO_URL } = require('./lib/page-shell');
+const { pageShell, SITE_URL, REPO_URL, escHtml } = require('./lib/page-shell');
 const { entriesToJsonLd } = require('./lib/entry-schema');
 
 function lastUpdatedDate() {
@@ -257,6 +257,73 @@ function renderSubsectionPage({ sub, slug, htmlBody, prev, next, jsonLd, lastUpd
   });
 }
 
+// /sections/ landing hub — lists all sections so the directory URL resolves to a
+// real, themed page (otherwise Cloudflare 404s and the local server autoindexes).
+// Mirrors the /tags/ hub structure; reuses .subsection-index + .section-icon.
+function renderSectionsHubPage(cards, lastUpdated) {
+  const canonicalUrl = `${SITE_URL}/sections/`;
+  const pageTitle = 'All sections · 3D Resources';
+  const total = cards.reduce((n, c) => n + c.count, 0);
+  const desc = `Browse the full 3D resources catalog by section. ${cards.length} sections, ${total} curated resources.`;
+
+  const items = cards.map(c => {
+    const icon = c.icon ? `<i class="mdi mdi-${c.icon} section-icon" aria-hidden="true"></i>` : '';
+    const blurb = c.description ? `<br><small>${escHtml(c.description)}</small>` : '';
+    return `          <li>${icon}<a href="/sections/${c.slug}/">${escHtml(c.title)}</a> <small>(${c.count})</small>${blurb}</li>`;
+  }).join('\n');
+
+  const htmlBody = `<h1>All sections</h1>
+      <p>${escHtml(desc)} <a href="/tags/">Browse by tag</a> or <a href="/">view the single-page catalog</a>.</p>
+      <nav class="subsection-index" aria-label="Sections">
+        <ul>
+${items}
+        </ul>
+      </nav>`;
+
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+          { '@type': 'ListItem', position: 2, name: 'Sections', item: canonicalUrl }
+        ]
+      },
+      {
+        '@type': 'CollectionPage',
+        '@id': canonicalUrl,
+        url: canonicalUrl,
+        name: pageTitle,
+        description: desc,
+        isPartOf: { '@id': `${SITE_URL}/#website` },
+        inLanguage: 'en'
+      },
+      {
+        '@type': 'ItemList',
+        name: 'Sections',
+        numberOfItems: cards.length,
+        itemListElement: cards.map((c, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          name: c.title,
+          url: `${SITE_URL}/sections/${c.slug}/`
+        }))
+      }
+    ]
+  };
+
+  return pageShell({
+    canonicalUrl, ogImage: `${SITE_URL}/assets/og-image.png`, pageTitle, desc, noindex: false, jsonLd,
+    breadcrumbHtml: `<a href="/">3D Resources</a> / <span>Sections</span>`,
+    headerHtml: `<p class="view"><a href="/">← Home</a></p>\n      <p class="view"><a href="${REPO_URL}">View on GitHub</a></p>`,
+    subNavHtml: '',
+    htmlBody,
+    navHtml: `<a class="section-nav-prev" href="/">← Home</a>\n      <a class="section-nav-next" href="/tags/">Browse by tag →</a>`,
+    lastUpdated
+  });
+}
+
 function main() {
   const lastUpdated = lastUpdatedDate();
   const sections = catalog.loadSections().sections;
@@ -272,6 +339,7 @@ function main() {
   }
 
   let sectionCount = 0, subCount = 0, subNoindex = 0;
+  const sectionCards = [];
 
   for (let i = 0; i < sections.length; i++) {
     const meta = sections[i];
@@ -289,6 +357,14 @@ function main() {
     const canonical = `${SITE_URL}/sections/${meta.slug}/`;
     const entries = entriesFor(meta.file);
     const jsonLd = buildSectionJsonLd(sectionDoc, entries, canonical);
+
+    sectionCards.push({
+      slug: meta.slug,
+      title: sectionDoc.title,
+      description: meta.description || sectionDoc.description || '',
+      icon: SECTION_ICONS[slugify(sectionDoc.title)] || '',
+      count: entries.length
+    });
 
     const prev = i > 0 ? sections[i - 1] : null;
     const next = i < sections.length - 1 ? sections[i + 1] : null;
@@ -335,6 +411,9 @@ function main() {
 
     console.log(`Wrote /sections/${meta.slug}/ + ${subs.length} subsection pages (${entries.length} entries)`);
   }
+
+  fs.writeFileSync(path.join(outRoot, 'index.html'), renderSectionsHubPage(sectionCards, lastUpdated));
+  console.log(`Wrote /sections/ hub (${sectionCards.length} sections).`);
 
   console.log(`Done: ${sectionCount} section pages, ${subCount} subsection pages (${subNoindex} noindex).`);
 }

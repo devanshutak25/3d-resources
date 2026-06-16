@@ -562,3 +562,12 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 - **Prompt (2026-06-17):** go
   - **Phase 3 (data quality pass) DONE → plan complete.** Fixed 4 user-facing prose hits (Seamless→Tileable ×2 + tileable patterns in textures-free-pbr/01; Tilecam seamlessly→removed; MegaSaM robust-adjective-stack rewritten) + 1 em-dash (scientific-viz subsection desc → comma). Skipped 3 legit non-violations (RVM proper name, URL substring, internal comment). Validation ✓ 397. Full bash build.sh EXIT=0 (sitemap 242 URLs; cad-software page verified: PackCAD card + 16 SoftwareApplication nodes). Uncommitted (user commits).
+
+- **Prompt (2026-06-17):** run the current version of the project locally for testing
+  - Served built `_site/` via `python -m http.server 8000 --directory _site` (background task baaxdmhay). Smoke-tested /, /sections/<sec>/<sub>/, /tags/, /sitemap.xml, /llms.txt → all 200.
+
+- **Prompt (2026-06-17):** what is B4 See also links?
+  - Explained: deferred/unbuilt Workstream B idea = per-entry "Related/See also" block (internal links to topically-close entries via shared tags / graph.json / minisearch). SEO value = internal linking + crawl depth. Not in repo yet.
+
+- **Prompt (2026-06-17):** theme this "/sections" page
+  - `/sections/` was serving Python autoindex (no index.html). Added themed hub: `renderSectionsHubPage` in build-section-pages.js → `_site/sections/index.html` (12 sections, icons, counts, descriptions, JSON-LD), + sitemap entry in build-sitemap.js (243 URLs). Verified served. Uncommitted.
