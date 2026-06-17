@@ -311,3 +311,15 @@ entries:
       - Solaris
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: Houdini Quick Tips
+    url: https://houdiniquicktips.weebly.com/
+    description: Short Houdini tips and quick technique walkthroughs.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Quick Tips
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini

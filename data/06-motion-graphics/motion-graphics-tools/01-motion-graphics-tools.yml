@@ -147,3 +147,47 @@ entries:
         - creative-coding
       platform:
         - web
+  - name: Dume
+    url: https://rainboxlab.org/tools/dume/
+    description: After Effects extension for managing duplicate footage and assets.
+    license: Free
+    entry_type: plugin
+    readme_tags:
+      - After Effects
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+  - name: Easing Functions
+    url: https://easings.net/
+    description: Visual reference of common easing curves with code snippets.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Easing
+      - Reference
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+  - name: Periodic Table of Motion
+    url: http://foxcodex.html.xdomain.jp/index.html
+    description: Reference chart of motion design principles and techniques.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Motion Principles
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web

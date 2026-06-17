@@ -538,3 +538,45 @@ entries:
         - win
         - mac
         - linux
+  - name: EZGIF
+    url: https://ezgif.com/
+    description: Online GIF and video editing and conversion tools.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - GIF
+      - Video
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - web
+  - name: RedKetchup Twitter Downloader
+    url: https://redketchup.io/twitter-downloader
+    description: Save MP4 and GIF video from Twitter posts.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - Downloader
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+  - name: Wumbo Math Glossary
+    url: https://wumbo.net/glossary/
+    description: Visual glossary of math concepts useful for technical art.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Math
+      - Glossary
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      platform:
+        - web

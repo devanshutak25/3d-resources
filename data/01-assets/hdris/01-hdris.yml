@@ -157,3 +157,32 @@ entries:
         - generalist
       platform:
         - web
+  - name: The Mari Channel
+    url: http://themarichannel.com/all-hdr/
+    description: Free HDR environment maps for lighting and reflection.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Free HDRs
+    tags:
+      workflow:
+        - lighting
+      output:
+        - generalist
+      platform:
+        - web
+  - name: No Emotion HDRs
+    url: http://noemotionhdrs.net/
+    description: Free high-resolution HDRIs sorted by time of day.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Free
+      - By Time of Day
+    tags:
+      workflow:
+        - lighting
+      output:
+        - generalist
+      platform:
+        - web

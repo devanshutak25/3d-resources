@@ -38,3 +38,17 @@ entries:
       - Toolkit
     url_last_verified: '2026-06-01'
     url_status: ok
+  - name: UV Grid Generator
+    url: http://uvchecker.byvalle.com/
+    description: Web tool to generate custom UV checker textures.
+    license: Free
+    entry_type: tool
+    readme_tags:
+      - UV Checker
+    tags:
+      workflow:
+        - uv
+      output:
+        - generalist
+      platform:
+        - web

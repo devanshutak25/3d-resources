@@ -142,3 +142,29 @@ entries:
         - web
       tech:
         - houdini
+  - name: John Kunz Discord
+    url: https://discord.gg/dbJrmM8
+    description: Community Discord for Houdini FX and coding.
+    license: Free
+    entry_type: community
+    readme_tags:
+      - Discord
+      - Houdini
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: Awesome Houdini (wyhinton)
+    url: https://github.com/wyhinton/AwesomeHoudini
+    description: Curated list of Houdini resources, tools, and learning.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Awesome List
+      - Curated
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini

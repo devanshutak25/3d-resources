@@ -152,3 +152,82 @@ entries:
         - python
     url_last_verified: '2026-06-01'
     url_status: unreachable
+  - name: Learning VEX via Bees and Bombs
+    url: https://forums.odforce.net/topic/24056-learning-vex-via-animated-gifs-bees-bombs/
+    description: OdForce thread recreating Bees and Bombs animations in VEX.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - VEX
+      - Motion
+    tags:
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - houdini
+        - vex
+  - name: Houdini Tech Blog (discretization)
+    url: http://wordpress.discretization.de/houdini/
+    description: Technical blog on Houdini math and geometry processing.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Math
+      - Geometry
+    tags:
+      platform:
+        - web
+      skill:
+        - advanced
+      tech:
+        - houdini
+        - vex
+  - name: vex_tutorial (jtomori)
+    url: https://github.com/jtomori/vex_tutorial
+    description: Practical introduction to VEX in Houdini with examples.
+    license: Open Source
+    entry_type: tutorial
+    readme_tags:
+      - VEX
+      - Examples
+    tags:
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - houdini
+        - vex
+  - name: Mantra LPE Cookbook (alexwheezy)
+    url: https://github.com/alexwheezy/Mantra-LPE-Cookbook
+    description: Light Path Expression recipes for Mantra rendering.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - LPE
+      - Mantra
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: Houdini OpenCL (MysteryPancake)
+    url: https://mysterypancake.github.io/Houdini-OpenCL/
+    description: Guide to writing OpenCL kernels in Houdini.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - OpenCL
+      - GPU
+    tags:
+      platform:
+        - web
+      skill:
+        - advanced
+      tech:
+        - houdini
+        - gpu

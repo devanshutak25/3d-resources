@@ -130,3 +130,34 @@ entries:
         - scientific-viz
       platform:
         - web
+  - name: The Pattern Library
+    url: http://thepatternlibrary.com/
+    description: Free seamless background patterns.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Free
+      - Seamless
+    tags:
+      workflow:
+        - texturing
+      output:
+        - generalist
+      platform:
+        - web
+  - name: Terrain Height Maps
+    url: https://www.motionforgepictures.com/height-maps/
+    description: Free heightmap images for terrain displacement.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Heightmaps
+      - Terrain
+    tags:
+      workflow:
+        - texturing
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web

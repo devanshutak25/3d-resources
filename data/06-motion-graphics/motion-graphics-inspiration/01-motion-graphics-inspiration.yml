@@ -410,3 +410,16 @@ entries:
         - unreal-plugin
     stale: true
     last_pushed: '2022-12-20'
+  - name: FrameRate
+    url: https://framerate.tv/
+    description: Community showcase for motion design and music video work by video professionals.
+    license: Free
+    entry_type: inspiration
+    readme_tags:
+      - Showcase
+      - Motion Design
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web

@@ -456,3 +456,30 @@ entries:
     readme_tags:
       - houdini-tool
       - asset-browser
+  - name: cb-houdini-tools (conlen-b)
+    url: https://github.com/conlen-b/cb-houdini-tools
+    description: Collection of Houdini utility tools and HDAs.
+    license: Open Source
+    entry_type: plugin
+    readme_tags:
+      - Tools
+      - HDAs
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+        - houdini-addon
+  - name: Houdini-scripts (JoseZalez)
+    url: https://github.com/JoseZalez/Houdini-scripts
+    description: Python scripts and utilities for Houdini.
+    license: Open Source
+    entry_type: tool
+    readme_tags:
+      - Scripts
+      - Python
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini

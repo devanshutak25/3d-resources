@@ -22,14 +22,14 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 <summary><a href="#assets--libraries">Assets & Libraries</a> <span class="toc-featured">Poly Haven · Quixel Megascans · Sketchfab</span></summary>
 
 - [Model Libraries: Free & General](#model-libraries-free--general) <span class="toc-count">(33 items)</span><br><small class="toc-desc">General-purpose 3D model libraries with free downloads.</small>
-- [Model Libraries: Specialized](#model-libraries-specialized) <span class="toc-count">(21 items)</span><br><small class="toc-desc">Specialty model sources: characters, scans, anatomy, museums.</small>
+- [Model Libraries: Specialized](#model-libraries-specialized) <span class="toc-count">(22 items)</span><br><small class="toc-desc">Specialty model sources: characters, scans, anatomy, museums.</small>
 - [Model Libraries: Architecture & Furniture](#model-libraries-architecture--furniture) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Arch-viz, furniture, and BIM asset libraries.</small>
 - [Asset Marketplaces](#asset-marketplaces) <span class="toc-count">(9 items)</span><br><small class="toc-desc">General asset marketplaces across multiple engines and tools.</small>
 - [Free Asset Giveaways](#free-asset-giveaways) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Recurring free asset drops. Bookmark these.</small>
 - [Software-Specific Asset Libraries](#software-specific-asset-libraries) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Official asset libraries tied to specific DCCs.</small>
-- [HDRIs](#hdris) <span class="toc-count">(9 items)</span><br><small class="toc-desc">HDR environment maps for lighting and reflections.</small>
-- [Textures & Materials: Free PBR Libraries](#textures--materials-free-pbr-libraries) <span class="toc-count">(27 items)</span><br><small class="toc-desc">Free PBR texture libraries for materials authoring.</small>
-- [Textures: Specialized](#textures-specialized) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Specialty texture sources: displacement, patterns, sprites, terrain.</small>
+- [HDRIs](#hdris) <span class="toc-count">(11 items)</span><br><small class="toc-desc">HDR environment maps for lighting and reflections.</small>
+- [Textures & Materials: Free PBR Libraries](#textures--materials-free-pbr-libraries) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Free PBR texture libraries for materials authoring.</small>
+- [Textures: Specialized](#textures-specialized) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Specialty texture sources: displacement, patterns, sprites, terrain.</small>
 - [Textures: Premium](#textures-premium) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Professional paid texture libraries.</small>
 - [Stock Images & References](#stock-images--references) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Free and public-domain stock images, and 2D references.</small>
 - [Stock Footage](#stock-footage) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Free and archival video footage sources.</small>
@@ -45,16 +45,16 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 
 - [Blender: Plugins & Addons](#blender-plugins--addons) <span class="toc-count">(143 items)</span><br><small class="toc-desc">Notable addons extending Blender.</small>
 - [Blender: Tutorials](#blender-tutorials) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Blender learning resources, beginner to advanced.</small>
-- [Houdini: Getting Started](#houdini-getting-started) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Beginner-friendly Houdini intros.</small>
-- [Houdini: Essential Learning Resources](#houdini-essential-learning-resources) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Long-form Houdini learning hubs.</small>
-- [Houdini: VEX & Coding](#houdini-vex--coding) <span class="toc-count">(8 items)</span><br><small class="toc-desc">VEX, Python, OpenCL, and scripting in Houdini.</small>
+- [Houdini: Getting Started](#houdini-getting-started) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Beginner-friendly Houdini intros.</small>
+- [Houdini: Essential Learning Resources](#houdini-essential-learning-resources) <span class="toc-count">(20 items)</span><br><small class="toc-desc">Long-form Houdini learning hubs.</small>
+- [Houdini: VEX & Coding](#houdini-vex--coding) <span class="toc-count">(13 items)</span><br><small class="toc-desc">VEX, Python, OpenCL, and scripting in Houdini.</small>
 - [Houdini: FX & Simulations](#houdini-fx--simulations) <span class="toc-count">(2 items)</span><br><small class="toc-desc">Vellum, FLIP, Pyro, and other simulation workflows.</small>
 - [Houdini: Rigging & Animation (KineFX)](#houdini-rigging--animation-kinefx) <span class="toc-count">(2 items)</span><br><small class="toc-desc">KineFX rigging, animation, and crowds.</small>
 - [Houdini: Grooming](#houdini-grooming)<br><small class="toc-desc">Hair and fur grooming workflows.</small>
-- [Houdini: Miscellaneous Tutorials](#houdini-miscellaneous-tutorials) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Additional Houdini tutorials across topics.</small>
-- [Houdini: Plugins & Tools](#houdini-plugins--tools) <span class="toc-count">(22 items)</span><br><small class="toc-desc">Toolkits, pipeline tools, and HDAs.</small>
+- [Houdini: Miscellaneous Tutorials](#houdini-miscellaneous-tutorials) <span class="toc-count">(16 items)</span><br><small class="toc-desc">Additional Houdini tutorials across topics.</small>
+- [Houdini: Plugins & Tools](#houdini-plugins--tools) <span class="toc-count">(24 items)</span><br><small class="toc-desc">Toolkits, pipeline tools, and HDAs.</small>
 - [Houdini: Courses & Free Content](#houdini-courses--free-content) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Structured courses for Houdini.</small>
-- [Houdini: Communities](#houdini-communities) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Forums, Discords, and tip archives.</small>
+- [Houdini: Communities](#houdini-communities) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Forums, Discords, and tip archives.</small>
 - [Cinema 4D: Learning](#cinema-4d-learning) <span class="toc-count">(2 items)</span><br><small class="toc-desc">C4D tutorials and learning hubs.</small>
 - [Cinema 4D: Plugins](#cinema-4d-plugins) <span class="toc-count">(2 items)</span><br><small class="toc-desc">C4D addons and bridges.</small>
 - [Cinema 4D: Tips & Workflows](#cinema-4d-tips--workflows) <span class="toc-count">(2 items)</span><br><small class="toc-desc">Productivity blogs and shader workflow tricks.</small>
@@ -101,7 +101,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [After Effects: Learning & Templates](#after-effects-learning--templates) <span class="toc-count">(2 items)</span><br><small class="toc-desc">AE expressions, templates, and workflow resources.</small>
 - [Fusion (DaVinci Resolve): Learning](#fusion-davinci-resolve-learning) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Fusion references and EXR workflow.</small>
 - [Motion Graphics: Inspiration](#motion-graphics-inspiration) <span class="toc-count">(29 items)</span><br><small class="toc-desc">Showcases, style frames, title sequences, ad references.</small>
-- [Motion Graphics: Tools & Utilities](#motion-graphics-tools--utilities) <span class="toc-count">(16 items)</span><br><small class="toc-desc">MG-specific tools and utilities.</small>
+- [Motion Graphics: Tools & Utilities](#motion-graphics-tools--utilities) <span class="toc-count">(19 items)</span><br><small class="toc-desc">MG-specific tools and utilities.</small>
 - [Video Editing: Courses](#video-editing-courses)<br><small class="toc-desc">Editing-specific courses.</small>
 
 </details>
@@ -146,7 +146,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Design Principles & Typography](#design-principles--typography) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Typography, visual hierarchy, design fundamentals.</small>
 - [Color Theory & Tools](#color-theory--tools) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Color palettes, generators, matching, and theory tools.</small>
 - [Design Tools](#design-tools) <span class="toc-count">(26 items)</span><br><small class="toc-desc">Vector editors, creative effect tools, and design utilities.</small>
-- [General Inspiration](#general-inspiration) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Blogs, feeds, and curated inspiration sources.</small>
+- [General Inspiration](#general-inspiration) <span class="toc-count">(21 items)</span><br><small class="toc-desc">Blogs, feeds, and curated inspiration sources.</small>
 - [2D Art References & Inspiration](#2d-art-references--inspiration) <span class="toc-count">(5 items)</span><br><small class="toc-desc">2D animation sheets, cloth, anime model sheets.</small>
 - [Pre-Production, Storyboarding & Script Tools](#pre-production-storyboarding--script-tools) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Storyboard apps, previs tools, script breakdown, reference managers, moodboarding, and direction-theory channels.</small>
 
@@ -176,10 +176,10 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Gaussian Splatting & NeRF](#gaussian-splatting--nerf) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Neural and splatting reconstruction.</small>
 - [Photogrammetry & 3D Scanning](#photogrammetry--3d-scanning) <span class="toc-count">(72 items)</span><br><small class="toc-desc">Photogrammetry, LiDAR, and Gaussian splat capture.</small>
 - [Retopology & Mesh Tools](#retopology--mesh-tools) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Retopology and mesh processing.</small>
-- [UV Tools](#uv-tools) <span class="toc-count">(6 items)</span><br><small class="toc-desc">UV unwrapping, packing, and UDIM tools.</small>
+- [UV Tools](#uv-tools) <span class="toc-count">(7 items)</span><br><small class="toc-desc">UV unwrapping, packing, and UDIM tools.</small>
 - [Rigging & Animation Tools](#rigging--animation-tools) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Auto-rig, retargeting, and animation middleware.</small>
 - [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
-- [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(46 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
+- [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(49 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
 - [Plugin & Addon Marketplaces](#plugin--addon-marketplaces) <span class="toc-count">(51 items)</span><br><small class="toc-desc">Per-software plugin marketplaces.</small>
 - [Conversion Tools](#conversion-tools) <span class="toc-count">(34 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
 - [Pipeline Standards](#pipeline-standards) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Interchange formats and standards.</small>
@@ -305,6 +305,7 @@ Specialty model sources: characters, scans, anatomy, museums.
 - [NASA 3D Resources](https://science.nasa.gov/3d-resources/) <span class="lic-pill lic-mixed">Mixed</span>. Spacecraft, planets, terrain models (mixed CC0 / CC-BY. Check per-asset license; mirror at nasa3d.arc.nasa.gov).
 - [Quaternius](https://quaternius.com/). Free low-poly game assets.
 - [Robotz](https://threedee.design/cartoon-robot). Free modular 3D cartoon robot with customizable heads, bodies, and hands.
+- [Sample and Hold](http://www.sampleandhold.co.uk/downloads/). Free 3D scanned models and assets.
 - [Scanned Female Head Model by EISKO](https://eisko.com/louise/). Free high-resolution scanned female head model (Louise).
 - [Smithsonian 3D](https://3d.si.edu/). Historical artifacts.<br><small class="see-also">See also: <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small>
 - [Smithsonian Open Access](https://www.si.edu/openaccess). Millions of 2D/3D museum assets, CC0.
@@ -369,10 +370,12 @@ HDR environment maps for lighting and reflections.
 - [HDRI Hub](https://hdri-hub.com/) <span class="lic-pill lic-freemium">Freemium</span>. High-quality HDRIs with backplates.
 - [HDRI Skies](https://hdri-skies.com/). Free sky HDRIs.
 - [Maxime Roz HDRI Pack](https://www.maximeroz.com/hdri-free-pack). Free studio and outdoor HDRIs for product viz.
+- [No Emotion HDRs](http://noemotionhdrs.net/). Free high-resolution HDRIs sorted by time of day.
 - [Open HDRI](https://openhdri.org/). 50 free CC0 HDRIs.
 - [OpenFootage](https://www.openfootage.net/). Free HDRIs, VFX plates, and backplates.
 - [Poly Haven HDRIs](https://polyhaven.com/hdris). CC0 HDRIs up to 16K.
 - [RenderMan HDRIs](https://renderman.pixar.com/category/111-hdri). Pixar's HDRI collection.
+- [The Mari Channel](http://themarichannel.com/all-hdr/). Free HDR environment maps for lighting and reflection.
 
 ### Textures & Materials: Free PBR Libraries
 
@@ -391,6 +394,7 @@ Free PBR texture libraries for materials authoring.
 - [LotPixel](https://www.lotpixel.com/). Photogrammetry and PBR textures, 3D models, decals. 1500+ free textures.
 - [Matcaps](https://github.com/nidorx/matcaps#matcaps). Large matcap texture library in PNG and ZMT, organized by color.
 - [MaterialX Library](https://matlib.gpuopen.com/main/materials/all). AMD's free MaterialX-based material library. Download materials or upload your own.
+- [Physically Based](https://physicallybased.info/). Reference database of real-world PBR values for materials, lights, and cameras.
 - [PlainTextures](http://www.plaintextures.com/). Free high-resolution textures, brushes, and photos.
 - [Share Textures](https://www.sharetextures.com/). CC0 textures.
 - [Substance Source/freebies](https://source.substance3d.com/allassets?free=true) <span class="lic-pill lic-freemium">Freemium</span>. Hundreds of high-quality PBR materials. Free tier with a paid library.
@@ -416,7 +420,9 @@ Specialty texture sources: displacement, patterns, sprites, terrain.
 - [Solar Textures](https://www.solarsystemscope.com/textures/). These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)
 - [Spriters Resource](https://www.spriters-resource.com/). Game sprite textures.
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/). Tileable web patterns.
+- [Terrain Height Maps](https://www.motionforgepictures.com/height-maps/). Free heightmap images for terrain displacement.
 - [Texturing.xyz](https://texturing.xyz/) <span class="lic-pill lic-paid">Paid</span>. MicroSkin displacement maps.
+- [The Pattern Library](http://thepatternlibrary.com/). Free seamless background patterns.
 
 ### Textures: Premium
 
@@ -766,8 +772,10 @@ Beginner-friendly Houdini intros.
 | [Houdini Apprentice](https://www.sidefx.com/products/houdini-apprentice/) | Free learning version of Houdini.<br><small class="see-also">See also: <a href="#3d-software-free-tier">Software Reference → 3D Software: Free Tier</a></small> | Free NC | Free NC · Learning Version | Learning Houdini for free |
 
 **Related:**
+- [Houdini Crash Course (ikrima)](https://ikrima.dev/houdini/basics/hou-crash-course/). Fast Houdini fundamentals primer.
 - [Houdini Donut in Any Shape](https://vimeo.com/492505292). Procedural donut by Lewis Orton.
 - [Houdini in Five Minutes](https://vimeo.com/384384552). Quick intro by Entagma.
+- [SideFX Getting Started](https://www.sidefx.com/learn/getting_started/). Official Houdini getting-started learning path.
 - [SideFX Learn](https://www.sidefx.com/learn/). Official curated learning hub.
 - [SideFX Learning Library](https://www.sidefx.com/learn/learning-library/content/). Searchable content browser for all official Houdini tutorials.
 
@@ -776,23 +784,42 @@ Beginner-friendly Houdini intros.
 Long-form Houdini learning hubs.
 
 - [Applied Houdini](http://www.appliedhoudini.com/) <span class="lic-pill lic-paid">Paid</span>. Stephen Knipping's FX-focused course series (ILM).
+- [Assorted Houdini Demos (jakericedesigns)](https://github.com/jakericedesigns/Assorted-Houdini-Demos). Assorted Houdini demo scenes and setups.
 - [CGWiki (tokeru.com)](http://www.tokeru.com/cgwiki/?title=Houdini). Matt Estela's CGWiki, the deepest Houdini reference (Joy of VEX, LOPS, particles).
+- [educational-hips (pedohorse)](https://github.com/pedohorse/educational-hips). Educational Houdini .hip files explaining techniques.
 - [Entagma (site)](http://www.entagma.com/) <span class="lic-pill lic-freemium">Freemium</span>. Advanced design and mograph tutorials. Also Unreal and Blender.
+- [example_hips (dchow1992)](https://github.com/dchow1992/example_hips). Collection of example Houdini .hip files.
 - [Farmfield (Vimeo)](https://vimeo.com/farmfield). Setups and hip files from Johnny Farmfield.
+- [hip-files (lightReachers)](https://github.com/lightReachers/hip-files). Shared collection of Houdini .hip files.
+- [Houdini Blueprints](https://hdbp.io/browse). Browsable library of Houdini node setups and techniques.
+- [Houdini Escapades (3Dmattias)](https://github.com/3Dmattias/Houdini_Escapades/tree/main/hip). Example .hip files from the 3Dmattias tutorial series.
+- [Houdini Gubbins](https://houdinigubbins.wordpress.com/). Blog of Houdini tips and workflow notes.
+- [Houdini Hive](https://www.sidefx.com/houdini-hive/houdini-hive-worldwide/). SideFX presentation recordings from artists and studios.
+- [Houdini Kitchen](https://www.houdinikitchen.net/). Tutorials and articles, including L-systems and procedural setups.
+- [houdini-sandbox (K240)](https://github.com/K240/houdini-sandbox/tree/master/scenes). Sandbox collection of Houdini scene files.
+- [HoudiniHowtos (jhorikawa)](https://github.com/jhorikawa/HoudiniHowtos). Example .hip files and how-to setups.
 - [John Kunz (site)](https://www.johnkunz.com/). Weekly streams. FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/)).
+- [OdForce Tutorial .hip Library](https://forums.odforce.net/topic/49522-tutorial-hip-library/). Community thread collecting tutorial .hip files.
 - [SideFX Tutorials](https://www.sidefx.com/tutorials/). Official tutorials.
+- [sipiLib example-hips (SiposAttila1995)](https://github.com/SiposAttila1995/sipiLib/tree/main/example-hips). Example .hip files from the sipiLib toolset.
+- [SOP Quick Reference](https://jeremypaton.github.io/site/build/nodes/sop.html). Quick-reference index of Houdini SOP nodes.
 
 ### Houdini: VEX & Coding
 
 VEX, Python, OpenCL, and scripting in Houdini.
 
 - [1 Minute VEX](https://aaronsmith.tv/1-Minute-VEX). Bite-sized VEX lessons.
+- [Houdini OpenCL (MysteryPancake)](https://mysterypancake.github.io/Houdini-OpenCL/). Guide to writing OpenCL kernels in Houdini.
+- [Houdini Tech Blog (discretization)](http://wordpress.discretization.de/houdini/). Technical blog on Houdini math and geometry processing.
 - [HouPy Wiki](https://www.houpywiki.com/). Houdini Python wiki. Packages, shelf scripts, menu customization, node graph hooks.<br><small class="see-also">See also: <a href="#3d-communities--forums">Learning, Community & Industry → 3D Communities & Forums</a></small>
+- [Learning VEX via Bees and Bombs](https://forums.odforce.net/topic/24056-learning-vex-via-animated-gifs-bees-bombs/). OdForce thread recreating Bees and Bombs animations in VEX.
+- [Mantra LPE Cookbook (alexwheezy)](https://github.com/alexwheezy/Mantra-LPE-Cookbook). Light Path Expression recipes for Mantra rendering.
 - [OpenCL in Houdini](https://pepefx.blogspot.com/2019/03/opencl-notes.html). OpenCL notes for Houdini.
 - [Python Snippets for Houdini](https://github.com/kiryha/houdini/wiki/python-snippets). Python snippets wiki.
 - [Python Startup Scripts](https://houdinitricks.com/python-houdini-start-scripts-part-1/). Python startup scripts guide.
 - [VEX Manager](https://shirmanor.gumroad.com/l/vex_manager_v1) <span class="lic-pill lic-paid">Paid</span>. VEX snippet/code manager HDA by Shir Manor.<br><small class="see-also">See also: <a href="#houdini-plugins--tools">Modeling, Sculpting & Texturing → Houdini: Plugins & Tools</a></small>
 - [VEX Wrangle Cheat Sheet](https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html). Quick VEX reference by Mr Kunz.
+- [vex_tutorial (jtomori)](https://github.com/jtomori/vex_tutorial). Practical introduction to VEX in Houdini with examples.
 - [VFXBrain VEX](https://vfxbrain.wordpress.com/category/vex/). VEX tutorials blog.
 
 ### Houdini: FX & Simulations
@@ -824,6 +851,7 @@ Additional Houdini tutorials across topics.
 - [Extracting Transform Matrices](https://vimeo.com/284712920). How to extract transform matrices.
 - [For Loops Tutorial](https://lesterbanks.com/2019/04/how-to-animate-subdivisions-in-houdini/). For loops and animated subdivisions.
 - [Houdini for Astronomy](http://ytini.com/). Astronomy and scientific viz in Houdini.
+- [Houdini Quick Tips](https://houdiniquicktips.weebly.com/). Short Houdini tips and quick technique walkthroughs.
 - [Muscles Masterclass](https://www.sidefx.com/tutorials/muscles-masterclass-advanced-special-topics/). Advanced muscles masterclass.
 - [MysteryPancake Houdini Fun](https://github.com/MysteryPancake/Houdini-Fun). Fun experimental Houdini repo.
 - [Node Studies](https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/). Node study slide deck.
@@ -841,11 +869,13 @@ Toolkits, pipeline tools, and HDAs.
 - [AElib](https://github.com/Aeoll/Aelib). Free tools by Nick Taylor (ManVsMachine).
 - [Axiom](https://www.mattpuchala.com/axiom) <span class="lic-pill lic-paid">Paid</span>. Sparse fluid solver by Matthew Puchala.
 - [CamRig Pro](https://shirmanor.gumroad.com/l/camrigpro) <span class="lic-pill lic-paid">Paid</span>. Camera rigging tool HDA by Shir Manor.
+- [cb-houdini-tools (conlen-b)](https://github.com/conlen-b/cb-houdini-tools). Collection of Houdini utility tools and HDAs.
 - [EarthMesh Houdini](https://github.com/xjorma/EarthMeshHoudini). Real-world meshes via Google API.
 - [Ffmpeg](https://ffmpeg.org/). Flipbook to MP4 conversion tool ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM)).
 - [Houdini Attributes Cheatsheet](https://gist.github.com/iinfin/2caf4e2ccb2545477670e88ddacee1e2). Quick reference of common Houdini geometry attributes.
 - [Houdini Engine for Unreal (AdrianPan optimized fork)](https://github.com/AdrianPanGithub/HoudiniEngineForUnreal). Rebuilt Houdini Engine for UE, 2x-15x faster.
 - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/). Winning tech-art tools: HPaint, Polyline Creator, Poly Slice Tool.
+- [Houdini-scripts (JoseZalez)](https://github.com/JoseZalez/Houdini-scripts). Python scripts and utilities for Houdini.
 - [JDB Houdini Toolkit](https://bitbucket.org/jcdeblok/workspace/projects/PROJ). JDB Houdini Toolkit.
 - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) <span class="lic-pill lic-paid">Paid</span>. Interactive painting and manipulation of OpenVDB SDF volumes in Houdini.
 - [MOPS](https://www.motionoperators.com/). Motion graphics toolkit by Toadstorm.<br><small class="see-also">See also: <a href="#3d-communities--forums">Learning, Community & Industry → 3D Communities & Forums</a></small>
@@ -870,9 +900,11 @@ Structured courses for Houdini.
 
 Forums, Discords, and tip archives.
 
+- [Awesome Houdini (wyhinton)](https://github.com/wyhinton/AwesomeHoudini). Curated list of Houdini resources, tools, and learning.
 - [Daily Hip](https://dailyhip.wordpress.com/). Houdini tips archive by Eetu Martola.
 - [Houdini Nerd Discord](https://discord.gg/E9zA9Ft). Christopher Rutledge's Houdini community.
 - [Houdini Tricks](https://houdinitricks.tumblr.com/archive). Quick tips archive.
+- [John Kunz Discord](https://discord.gg/dbJrmM8). Community Discord for Houdini FX and coding.
 - [OdForce](https://forums.odforce.net/). Most active Houdini forum.
 - [r/Houdini](https://reddit.com/r/Houdini). Houdini subreddit.
 - [SideFX Houdini on Bilibili](https://search.bilibili.com/all?keyword=sidefx%20houdini). Chinese Houdini tutorials.
@@ -1592,11 +1624,14 @@ MG-specific tools and utilities.
 
 **Related:**
 - [Caddis](https://www.caddis.app/) <span class="lic-pill lic-paid">Paid</span>. Motion design app with layer timeline and node compositing.
+- [Dume](https://rainboxlab.org/tools/dume/). After Effects extension for managing duplicate footage and assets.
+- [Easing Functions](https://easings.net/). Visual reference of common easing curves with code snippets.
 - [Element 3D](https://www.videocopilot.net/products/element2/) <span class="lic-pill lic-paid">Paid</span>. A 3D plugin for After Effects that allows you to import and animate 3D models.
 - [Jitter](https://jitter.video/) <span class="lic-pill lic-freemium">Freemium</span>. Browser-based collaborative motion design tool.
 - [Lottielab](https://www.lottielab.com/) <span class="lic-pill lic-freemium">Freemium</span>. Editor for Lottie animations targeting apps and websites.
 - [Nukepedia Lens Engine](https://www.nukepedia.com/gizmos/draw/lens-engine). Lens simulation gizmo for Nuke.
 - [Nw Wrld](https://github.com/aagentah/nw_wrld). Experimental motion tool.
+- [Periodic Table of Motion](http://foxcodex.html.xdomain.jp/index.html). Reference chart of motion design principles and techniques.
 - [PixelCrash](https://www.pixelcrash.xyz/) <span class="lic-pill lic-paid">Paid</span>. Creative motion and visual tools.
 - [Plate](https://plate.video/) <span class="lic-pill lic-paid">Paid</span>. WebGPU motion design tool running in the browser, with macOS and Windows builds.
 - [React Spring](https://www.react-spring.dev/). Library for physically accurate animations, works with react-three-fiber.
@@ -2962,15 +2997,22 @@ Vector editors, creative effect tools, and design utilities.
 
 Blogs, feeds, and curated inspiration sources.
 
+- [5 Decades of Digital Art History](https://www.youtube.com/playlist?list=PLyzOQqMHGyYTsz7-jlj-SeOm6iC0v-7B3). YouTube playlist surveying 50 years of digital art.
 - [Activation Ideas](https://activationideas.com/). Brand activation inspiration.
 - [But Does It Float](https://butdoesitfloat.com/). Contemporary design and art feed.
 - [Designspiration](https://designspiration.com/) <span class="lic-pill lic-freemium">Freemium</span>. Design inspiration feed.
 - [DETHJUNKIE](http://www.dethjunkie.com/). Dark creative blog.
+- [FX References (Sylvain Nouveau)](http://www.sylvain-nouveau.com/reffx/misc/). Collected real-world FX reference footage.
+- [FYFD](https://fyfluiddynamics.com/). Fluid dynamics blog with reference imagery for FX.
+- [Generative Art Timeline](https://timeline.lerandom.art/). Interactive timeline of generative art history.
 - [Geometric Design (Canva)](https://designschool.canva.com/blog/geometric-design/). Geometric design article.
 - [H.R. Giger (Artnet)](http://www.artnet.com/artists/hans-rudolf-giger/). H.R. Giger gallery archive.
+- [Houdini on Dribbble](https://dribbble.com/tags/houdini). Houdini work tagged on Dribbble for inspiration.
+- [Instagram](https://www.instagram.com/explore/tags/xuxoe/). Motion and 3D work under the xuxoe hashtag.
 - [Mech Blog](http://mechblog.tumblr.com/). Mecha design inspiration.
 - [Movie Scenes Inspired by Art](https://x.com/JamesLucasIT/status/1795507471693320546). Thread on movie scenes mirroring paintings.
 - [Mr Cup](http://www.mr-cup.com/blog.html). Graphic design blog.
+- [mr5ivethou5and](https://mr5ivethou5and.tumblr.com/archive). Tumblr archive of motion and abstract visual inspiration.
 - [Muddycolors](https://www.muddycolors.com/). Pro illustrator blog.
 - [OTAKU GANGSTA](http://otakugangsta.com/). Anime/otaku visual blog.
 - [Sakuga Booru](https://sakugabooru.com/). Animation clip archive (non-www mirror).
@@ -3812,6 +3854,7 @@ UV unwrapping, packing, and UDIM tools.
 
 **Related:**
 - [UV Checker Map Maker](https://uvchecker.atlux.one/). Custom UV checker textures.
+- [UV Grid Generator](http://uvchecker.byvalle.com/). Web tool to generate custom UV checker textures.
 - [UV Toolkit](https://gumroad.com/alexbel#NbMya) <span class="lic-pill lic-paid">Paid</span>. Tools collection for UV editing in blender.
 
 ### Rigging & Animation Tools
@@ -3886,6 +3929,7 @@ Assorted CG utilities and specialty tools.
 - [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net). Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
 - [Developer Documentation](https://wiki.blender.org/wiki/Main_Page). Blender developer docs: development process, design, architecture, and build instructions.
 - [emojillate](https://github.com/notwaldorf/emojillate). Pixellate an image into emoji
+- [EZGIF](https://ezgif.com/). Online GIF and video editing and conversion tools.
 - [Fake Bpy Module](https://github.com/nutti/fake-bpy-module). Fake Blender Python API modules for IDE code completion.
 - [Graphtoy](https://iquilezles.org/apps/graphtoy/). Mathematical function grapher by Inigo Quilez.
 - [HDRI To Cube Map](https://matheowis.github.io/HDRI-to-CubeMap/). A tool to convert your HDRI file into a Cube map.
@@ -3894,6 +3938,7 @@ Assorted CG utilities and specialty tools.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/). Interactive math concepts for motion graphics.
 - [Palladio](https://github.com/Esri/palladio). CityEngine Plugin for Houdini
 - [Penzil](https://github.com/jacopocolo/Penzil). A web application to sketch in 3d made in three.js and Vue.
+- [RedKetchup Twitter Downloader](https://redketchup.io/twitter-downloader). Save MP4 and GIF video from Twitter posts.
 - [Sorcar](https://aachman98.itch.io/sorcar). A procedural modeling node-based system which uses Blender and its Python API to create a visual programming environment for artists and developers
 - [Sprite Stacker](https://berlinnights.itch.io/sprite-stacker). Create pseudo-3D sprite stacks from pixel art with integrated voxel editor (Godot-based, pre-1.0).
 - [SunCalc](https://www.suncalc.org/). Sun position, golden hour, and shadow visualization for any location and time.
@@ -3901,6 +3946,7 @@ Assorted CG utilities and specialty tools.
 - [Texture Extractor](https://berlinnights.itch.io/texture-extractor). Extract textures and materials from photos (Godot-based, pre-1.0).
 - [VFX Camera Database](https://vfxcamdb.com/). Reference database of camera sensor sizes, formats, and specs for matchmoving and lens setup.<br><small class="see-also">See also: <a href="#matchmoving--camera-tracking">Tools, Pipeline & Utilities → Matchmoving & Camera Tracking</a></small>
 - [WebGL Texture Tester](http://toji.github.io/texture-tester/). Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
+- [Wumbo Math Glossary](https://wumbo.net/glossary/). Visual glossary of math concepts useful for technical art.
 
 ### Plugin & Addon Marketplaces
 

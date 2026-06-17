@@ -122,3 +122,21 @@ entries:
       tech:
         - pbr
         - substance
+  - name: Physically Based
+    url: https://physicallybased.info/
+    description: Reference database of real-world PBR values for materials, lights, and cameras.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - PBR Values
+      - Reference
+    tags:
+      workflow:
+        - material-authoring
+        - look-dev
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - pbr

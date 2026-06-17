@@ -9,6 +9,10 @@ Architectural / structural decisions w/ rationale + date.
   - Impact:
 
 ## Log
+- **2026-06-17 — Ingested johnkunz.com/Resources wiki (46 entries).**
+  - Decision: user asked to add all links from `wiki.johnkunz.com/index.php?title=Resources` (7 sections, ~92 links). Deduped against catalog first: 43 already present (+ hdrihaven=PolyHaven, cc0-textures=ambientCG already in under current names). Added the 46 genuinely-new, all into existing subsections (no new vocab). User picked "add all 14 niche Houdini repos" + "all in one pass".
+  - Did: §01 hdris+textures+model-libs (6); §02 houdini-* getting-started/essential-learning/vex-coding/plugins-tools/more-tutorials/communities (26, incl. 14 personal .hip/VEX GitHub repos as entry_type reference); §06 motion-graphics-tools (3: Dume, easings.net, Periodic Table of Motion); §08 general-inspiration (7); §10 uv-tools+misc-3d-utilities (4). Omitted auto-managed fields (`url_status`/`url_last_verified`) for `check-links.js`. Houdini entries use freeform tech `houdini`/`vex` matching existing §02 convention.
+  - Impact: catalog raw ~3422→3468; search index 3416→3462. Validation ✓ 426 (was 397; +29 benign freeform-tech). Build exit 0. Uncommitted (user commits). User should run `check-links.js` to populate url_status.
 - **2026-06-15 — Cross-subsection dupe consolidation (Workstream A2).**
   - Decision: `dedupe-entries.js` found 27 same-URL groups. Policy (AskUserQuestion): consolidate true dupes via **dual_listed_in** (keep 1 canonical copy + mirror so site render is unchanged), NOT plain delete; leave 6 distinct-product pairs untouched.
   - Did (controlled one-off script, catalog.js loadChunk/saveChunk, explicit op list w/ assertions): 23 consolidations (canonical = `dedupe-entries.js` quality pick; dual added pointing at deleted copy's section/sub) + 3 plain deletes of same-subsection exact dupes (3DVF, CG Boost channel/UC form, Clo3D). 26 entries removed. Catalog 3447→3421 (parser count; prior "3449" was a grep over-count of 2 description lines).
@@ -403,3 +407,10 @@ User decisions (AskUserQuestion): NativeBlend→§09, UAssetAPI→§07, 3D MDB�
 - **2026-06-17 — Added themed `/sections/` landing hub.**
   - Decision: `/sections/` had no index.html → bare autoindex locally / Cloudflare 404. Added `renderSectionsHubPage` to `build-section-pages.js` writing `_site/sections/index.html`: all 12 sections w/ `SECTION_ICONS` icon + title link + entry count + description. Mirrors `/tags/` hub; reuses `.subsection-index` + `.section-icon` (no new CSS). Breadcrumb+CollectionPage+ItemList(12) JSON-LD. `build-sitemap.js` lists it (priority 0.8, existence-gated) → 243 URLs.
   - Impact: code-only, no data change, validation unchanged. 2 files (build-section-pages.js, build-sitemap.js). Verified served themed (title "All sections", 12 icons/links). Uncommitted (user commits).
+
+- **2026-06-17 — Press release + media/creator outreach lists created in new `press/` folder.**
+  - Decision: `handoff/` had pitch templates + 11 newsletter outlets but no formal press release and no named-people lists. Built both. Output dir = `press/` (user picked over outside-repo). Angle = evergreen launch. Scope = global English. Depth = named people + live web research.
+  - Decision: `press/` added to `.gitignore` (mirrors `handoff/`) because `media-contacts.md` + `outreach-tracker.md` contain journalists'/creators' personal emails. Must NOT be published to the public repo.
+  - Reuse: press release pulls all facts from `project.md` + `handoff/copy-snippets.md` (no new pitch). Style rules enforced on release files (0 em-dash, 0 AI-tells, verified by grep). `media-contacts.md` cross-references `handoff/07-newsletters.md` (11 outlets), `03-reddit.md`, `04-discord.md` to avoid double-pitching; only adds NOT-already-covered targets.
+  - Findings flagged for the existing Twitter thread (`handoff/06`): remove dead `@CGSociety` tag (org defunct Jan 2024). Handoff "Mike Ralph" (GameFromScratch) corrected to Michael Fleischauer.
+  - Verify: all release URLs HEAD-checked 200 (site, feed.xml, llms.txt, GitHub repo, devanshutak.xyz). Unverified contacts left flagged "unverified" rather than guessed. Uncommitted + gitignored (user sends).

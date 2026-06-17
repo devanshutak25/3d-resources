@@ -119,3 +119,180 @@ entries:
       tech:
         - houdini
         - redshift
+  - name: Houdini Kitchen
+    url: https://www.houdinikitchen.net/
+    description: Tutorials and articles, including L-systems and procedural setups.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Tutorials
+      - Procedural
+    tags:
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - houdini
+  - name: Houdini Blueprints
+    url: https://hdbp.io/browse
+    description: Browsable library of Houdini node setups and techniques.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Node Setups
+      - Library
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: OdForce Tutorial .hip Library
+    url: https://forums.odforce.net/topic/49522-tutorial-hip-library/
+    description: Community thread collecting tutorial .hip files.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - .hip Files
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: Houdini Hive
+    url: https://www.sidefx.com/houdini-hive/houdini-hive-worldwide/
+    description: SideFX presentation recordings from artists and studios.
+    license: Free
+    entry_type: channel
+    readme_tags:
+      - Talks
+      - SideFX
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: Houdini Gubbins
+    url: https://houdinigubbins.wordpress.com/
+    description: Blog of Houdini tips and workflow notes.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Blog
+      - Tips
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: SOP Quick Reference
+    url: https://jeremypaton.github.io/site/build/nodes/sop.html
+    description: Quick-reference index of Houdini SOP nodes.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - SOP Nodes
+      - Reference
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: Houdini Escapades (3Dmattias)
+    url: https://github.com/3Dmattias/Houdini_Escapades/tree/main/hip
+    description: Example .hip files from the 3Dmattias tutorial series.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - .hip Files
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: HoudiniHowtos (jhorikawa)
+    url: https://github.com/jhorikawa/HoudiniHowtos
+    description: Example .hip files and how-to setups.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - .hip Files
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: example_hips (dchow1992)
+    url: https://github.com/dchow1992/example_hips
+    description: Collection of example Houdini .hip files.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - .hip Files
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: educational-hips (pedohorse)
+    url: https://github.com/pedohorse/educational-hips
+    description: Educational Houdini .hip files explaining techniques.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - .hip Files
+      - Educational
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: hip-files (lightReachers)
+    url: https://github.com/lightReachers/hip-files
+    description: Shared collection of Houdini .hip files.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - .hip Files
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: sipiLib example-hips (SiposAttila1995)
+    url: https://github.com/SiposAttila1995/sipiLib/tree/main/example-hips
+    description: Example .hip files from the sipiLib toolset.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - .hip Files
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: Assorted Houdini Demos (jakericedesigns)
+    url: https://github.com/jakericedesigns/Assorted-Houdini-Demos
+    description: Assorted Houdini demo scenes and setups.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - Demos
+      - .hip Files
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini
+  - name: houdini-sandbox (K240)
+    url: https://github.com/K240/houdini-sandbox/tree/master/scenes
+    description: Sandbox collection of Houdini scene files.
+    license: Free
+    entry_type: reference
+    readme_tags:
+      - .hip Files
+    tags:
+      platform:
+        - web
+      tech:
+        - houdini

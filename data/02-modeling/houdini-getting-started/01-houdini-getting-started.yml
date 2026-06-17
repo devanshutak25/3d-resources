@@ -77,3 +77,32 @@ entries:
         - web
       tech:
         - houdini
+  - name: SideFX Getting Started
+    url: https://www.sidefx.com/learn/getting_started/
+    description: Official Houdini getting-started learning path.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Official
+      - Beginner
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - houdini
+  - name: Houdini Crash Course (ikrima)
+    url: https://ikrima.dev/houdini/basics/hou-crash-course/
+    description: Fast Houdini fundamentals primer.
+    license: Free
+    entry_type: tutorial
+    readme_tags:
+      - Crash Course
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - houdini

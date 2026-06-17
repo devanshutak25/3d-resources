@@ -375,3 +375,20 @@ entries:
         - illustration
       platform:
         - web
+  - name: Sample and Hold
+    url: http://www.sampleandhold.co.uk/downloads/
+    description: Free 3D scanned models and assets.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Free
+      - 3D Scans
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - photogrammetry

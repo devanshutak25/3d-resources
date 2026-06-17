@@ -11,6 +11,8 @@ temp_session_plan.md
 TOC_FRAMEWORK.md
 _maintenance/
 handoff/
+# press release + media/creator contact lists (private; contains personal emails)
+press/
 
 # One-shot migration / data-processing scripts (kept on disk as audit trail).
 # Archived copies under scripts/_archive/ are tracked; see scripts/_archive/README.md.

@@ -238,3 +238,99 @@ entries:
         - reference
       platform:
         - web
+  - name: FYFD
+    url: https://fyfluiddynamics.com/
+    description: Fluid dynamics blog with reference imagery for FX.
+    license: Free
+    entry_type: inspiration
+    readme_tags:
+      - Fluid Dynamics
+      - Reference
+    tags:
+      workflow:
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: Houdini on Dribbble
+    url: https://dribbble.com/tags/houdini
+    description: Houdini work tagged on Dribbble for inspiration.
+    license: Free
+    entry_type: inspiration
+    readme_tags:
+      - Houdini
+      - Gallery
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+  - name: Instagram #xuxoe
+    url: https://www.instagram.com/explore/tags/xuxoe/
+    description: Motion and 3D work under the xuxoe hashtag.
+    license: Free
+    entry_type: inspiration
+    readme_tags:
+      - Motion
+      - Gallery
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+  - name: FX References (Sylvain Nouveau)
+    url: http://www.sylvain-nouveau.com/reffx/misc/
+    description: Collected real-world FX reference footage.
+    license: Free
+    entry_type: inspiration
+    readme_tags:
+      - FX Reference
+    tags:
+      workflow:
+        - fx
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+  - name: mr5ivethou5and
+    url: https://mr5ivethou5and.tumblr.com/archive
+    description: Tumblr archive of motion and abstract visual inspiration.
+    license: Free
+    entry_type: inspiration
+    readme_tags:
+      - Gallery
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+  - name: Generative Art Timeline
+    url: https://timeline.lerandom.art/
+    description: Interactive timeline of generative art history.
+    license: Free
+    entry_type: inspiration
+    readme_tags:
+      - Generative
+      - History
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      platform:
+        - web
+  - name: 5 Decades of Digital Art History
+    url: https://www.youtube.com/playlist?list=PLyzOQqMHGyYTsz7-jlj-SeOm6iC0v-7B3
+    description: YouTube playlist surveying 50 years of digital art.
+    license: Free
+    entry_type: inspiration
+    readme_tags:
+      - History
+      - Playlist
+    tags:
+      output:
+        - generalist
+      platform:
+        - web

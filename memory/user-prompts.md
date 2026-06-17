@@ -571,3 +571,15 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 - **Prompt (2026-06-17):** theme this "/sections" page
   - `/sections/` was serving Python autoindex (no index.html). Added themed hub: `renderSectionsHubPage` in build-section-pages.js → `_site/sections/index.html` (12 sections, icons, counts, descriptions, JSON-LD), + sitemap entry in build-sitemap.js (243 URLs). Verified served. Uncommitted.
+
+- **Prompt (2026-06-17):** Make a plan to prepare a press release... send to journalists/websites/magazines/youtubers/content creators. Find relevant people (fleshed out lists).
+  - Planned + executed in 5 phases (plan: `~/.claude/plans/make-a-plan-to-structured-wand.md`). Created gitignored `press/`: evergreen `press-release.md` + `press-release-short.md` (built from `handoff/copy-snippets.md`, style-clean 0 em-dash/0 AI-tells), `media-contacts.md` (web-researched named+tiered: A press/mag, B 33 YouTubers, C 14 podcasts, D newsletters, E amplifiers; unverified flagged), `outreach-tracker.md`. Added `press/` to .gitignore (has personal emails). URLs HEAD-checked 200.
+
+- **Prompt (2026-06-17):** add this as well https://framerate.tv/
+  - Not in catalog. WebFetch 403; identified via WebSearch = community showcase for motion design + music video work ("New Standard for Video Professionals"), not stock footage. Added 1 entry → §06 `motion-graphics-inspiration` (entry_type inspiration, platform web). Validation ✓ 426, 0 errors. Catalog ~3469. Uncommitted.
+
+- **Prompt (2026-06-17):** add all the links from this website please https://wiki.johnkunz.com/index.php?title=Resources
+  - Fetched page (7 sections, ~92 links). Deduped vs catalog: 43 already in, 46 new. User chose add-all-14-Houdini-repos + one-pass. Added 46 to existing subsections (§01 6, §02 houdini 26, §06 3, §08 7, §10 4); no new vocab. Validation ✓ 426 (+29 benign freeform-tech), build exit 0, search index 3416→3462. See decisions.md 2026-06-17. Uncommitted.
+
+- **Prompt (2026-06-17):** what is the next step?
+  - Catalog/cleanup/facet/SEO B1-B3 all done + committed; only launch left. User picked **cut v1.0.0 release** (plan: `~/.claude/plans/what-is-the-next-cuddly-matsumoto.md`). Phase 1 pre-flight green (validate ✓ 397, build.sh ok, sitemap 243). Phase 2: wrote `handoff/release-notes-v1.0.0.md` (paste-ready, real per-section counts, "3,400+", 8 months, Devanshu Tak, 0 em-dash/AI-tell). Real counts: raw catalog 3422, render-canonical 3323 (graph entry). Social preview = use existing `og-image.png` 1200x630 as-is (user choice). Phase 3 (git tag v1.0.0 + push) + Phase 4 (About/topics from copy-snippets, upload og-image) = user-run, not done yet. No tag exists; gh CLI not installed.
