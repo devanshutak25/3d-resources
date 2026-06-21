@@ -53,3 +53,19 @@ entries:
         - web
       tech:
         - ai-generative
+  - name: Visual Electric
+    url: https://visualelectric.com/
+    description: AI image generator aimed at designers.
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - AI Image
+    url_last_verified: '2026-06-22'
+    url_status: ok

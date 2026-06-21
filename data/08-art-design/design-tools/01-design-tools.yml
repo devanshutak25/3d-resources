@@ -198,3 +198,174 @@ entries:
     tags:
       platform:
         - web
+  - name: Bendito Mockup
+    url: https://benditomockup.com/
+    description: Premium and free product mockups.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+    readme_tags:
+      - Mockups
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: GraphicBurger
+    url: https://graphicburger.com/
+    description: Free design mockups and graphic assets.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Mockups
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Maneken
+    url: https://maneken.app/
+    description: Browser-based editable product mockups.
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+    readme_tags:
+      - Mockups
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Mockup World
+    url: https://www.mockupworld.co/
+    description: Free PSD mockup library.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Mockups
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Pacdora
+    url: https://www.pacdora.com/
+    description: Packaging design with dielines and 3D mockups.
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+    readme_tags:
+      - Packaging
+      - Mockups
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Resource Boy
+    url: https://resourceboy.com/
+    description: Free design resources and mockups.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Mockups
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Shots.so
+    url: https://shots.so/
+    description: Device mockup generator in the browser.
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Mockups
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Smart Mockups
+    url: https://smartmockups.com/
+    description: Browser mockup generator.
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+    readme_tags:
+      - Mockups
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Brandfetch
+    url: https://brandfetch.com/
+    description: Look up brand logos, fonts, and colors.
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Branding
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: effect.app
+    url: https://effect.app/
+    description: Browser-based live effects for photo and video.
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Effects
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: LottieFiles
+    url: https://lottiefiles.com/
+    description: Library of free Lottie web animations.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Lottie
+      - Animation
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Previewed
+    url: https://previewed.app/
+    description: Turn screenshots into 3D mockup images and animations.
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+    readme_tags:
+      - Mockups
+      - 3D
+    url_last_verified: '2026-06-22'
+    url_status: ok

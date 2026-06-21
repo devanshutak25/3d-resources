@@ -13,7 +13,7 @@
 > 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)**. Search and filter by License · Platform · Workflow · Output.
 <!-- /only:readme -->
 
-Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md)
+Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md) · entries partly from [thetoolbox.art](https://thetoolbox.art/)
 
 > <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues).
 ## Contents
@@ -31,11 +31,11 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Textures & Materials: Free PBR Libraries](#textures--materials-free-pbr-libraries) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Free PBR texture libraries for materials authoring.</small>
 - [Textures: Specialized](#textures-specialized) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Specialty texture sources: displacement, patterns, sprites, terrain.</small>
 - [Textures: Premium](#textures-premium) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Professional paid texture libraries.</small>
-- [Stock Images & References](#stock-images--references) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Free and public-domain stock images, and 2D references.</small>
-- [Stock Footage](#stock-footage) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Free and archival video footage sources.</small>
-- [Audio: SFX & Music Libraries](#audio-sfx--music-libraries) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
-- [Fonts](#fonts) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
-- [Icons](#icons) <span class="toc-count">(27 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
+- [Stock Images & References](#stock-images--references) <span class="toc-count">(30 items)</span><br><small class="toc-desc">Free and public-domain stock images, and 2D references.</small>
+- [Stock Footage](#stock-footage) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Free and archival video footage sources.</small>
+- [Audio: SFX & Music Libraries](#audio-sfx--music-libraries) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
+- [Fonts](#fonts) <span class="toc-count">(21 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
+- [Icons](#icons) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
 - [Game Assets](#game-assets) <span class="toc-count">(43 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Cross-listed from §7.</small>
 
 </details>
@@ -100,7 +100,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Motion Graphics: Courses](#motion-graphics-courses)<br><small class="toc-desc">Structured motion graphics courses.</small>
 - [After Effects: Learning & Templates](#after-effects-learning--templates) <span class="toc-count">(2 items)</span><br><small class="toc-desc">AE expressions, templates, and workflow resources.</small>
 - [Fusion (DaVinci Resolve): Learning](#fusion-davinci-resolve-learning) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Fusion references and EXR workflow.</small>
-- [Motion Graphics: Inspiration](#motion-graphics-inspiration) <span class="toc-count">(29 items)</span><br><small class="toc-desc">Showcases, style frames, title sequences, ad references.</small>
+- [Motion Graphics: Inspiration](#motion-graphics-inspiration) <span class="toc-count">(30 items)</span><br><small class="toc-desc">Showcases, style frames, title sequences, ad references.</small>
 - [Motion Graphics: Tools & Utilities](#motion-graphics-tools--utilities) <span class="toc-count">(19 items)</span><br><small class="toc-desc">MG-specific tools and utilities.</small>
 - [Video Editing: Courses](#video-editing-courses)<br><small class="toc-desc">Editing-specific courses.</small>
 
@@ -144,11 +144,11 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Composition & Visual Storytelling](#composition--visual-storytelling) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Composition theory, color theory, visual hierarchy.</small>
 - [Animation Principles](#animation-principles) <span class="toc-count">(7 items)</span><br><small class="toc-desc">The 12 principles of animation and related fundamentals.</small>
 - [Design Principles & Typography](#design-principles--typography) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Typography, visual hierarchy, design fundamentals.</small>
-- [Color Theory & Tools](#color-theory--tools) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Color palettes, generators, matching, and theory tools.</small>
-- [Design Tools](#design-tools) <span class="toc-count">(26 items)</span><br><small class="toc-desc">Vector editors, creative effect tools, and design utilities.</small>
-- [General Inspiration](#general-inspiration) <span class="toc-count">(21 items)</span><br><small class="toc-desc">Blogs, feeds, and curated inspiration sources.</small>
+- [Color Theory & Tools](#color-theory--tools) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Color palettes, generators, matching, and theory tools.</small>
+- [Design Tools](#design-tools) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Vector editors, creative effect tools, and design utilities.</small>
+- [General Inspiration](#general-inspiration) <span class="toc-count">(31 items)</span><br><small class="toc-desc">Blogs, feeds, and curated inspiration sources.</small>
 - [2D Art References & Inspiration](#2d-art-references--inspiration) <span class="toc-count">(5 items)</span><br><small class="toc-desc">2D animation sheets, cloth, anime model sheets.</small>
-- [Pre-Production, Storyboarding & Script Tools](#pre-production-storyboarding--script-tools) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Storyboard apps, previs tools, script breakdown, reference managers, moodboarding, and direction-theory channels.</small>
+- [Pre-Production, Storyboarding & Script Tools](#pre-production-storyboarding--script-tools) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Storyboard apps, previs tools, script breakdown, reference managers, moodboarding, and direction-theory channels.</small>
 
 </details>
 
@@ -156,12 +156,12 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 <summary><a href="#ai--machine-learning-for-cg">AI & Machine Learning for CG</a> <span class="toc-featured">ComfyUI · Stable Diffusion · Runway</span></summary>
 
 - [Machine Learning for CG](#machine-learning-for-cg) <span class="toc-count">(8 items)</span><br><small class="toc-desc">ML fundamentals and courses for CG artists.</small>
-- [Image Generation](#image-generation) <span class="toc-count">(23 items)</span><br><small class="toc-desc">text-to-image models and platforms.</small>
+- [Image Generation](#image-generation) <span class="toc-count">(24 items)</span><br><small class="toc-desc">text-to-image models and platforms.</small>
 - [Video Generation](#video-generation) <span class="toc-count">(29 items)</span><br><small class="toc-desc">AI video generation platforms and models.</small>
 - [3D Generation](#3d-generation) <span class="toc-count">(21 items)</span><br><small class="toc-desc">AI tools for generating 3D models from text or images.</small>
 - [Texture & Material Generation](#texture--material-generation) <span class="toc-count">(6 items)</span><br><small class="toc-desc">AI-generated PBR textures and materials.</small>
 - [ComfyUI Ecosystem](#comfyui-ecosystem) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Node-based AI generation. ComfyUI and its ecosystem.</small>
-- [AI-Assisted CG Tools](#ai-assisted-cg-tools) <span class="toc-count">(28 items)</span><br><small class="toc-desc">AI tools that augment traditional CG workflows.</small>
+- [AI-Assisted CG Tools](#ai-assisted-cg-tools) <span class="toc-count">(29 items)</span><br><small class="toc-desc">AI tools that augment traditional CG workflows.</small>
 - [AI Audio & Music](#ai-audio--music) <span class="toc-count">(10 items)</span><br><small class="toc-desc">AI music generation, voice, TTS, and SFX.</small>
 - [Open-Source Models (HuggingFace)](#open-source-models-huggingface) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Notable open-source generative models.</small>
 - [Research Papers](#research-papers) <span class="toc-count">(168 items)</span><br><small class="toc-desc">Research papers on ML for CG, generative 3D, neural rendering, and related topics. Each entry: title (the plain-English summary), year, and venue/links in the description.</small>
@@ -444,6 +444,7 @@ Free and public-domain stock images, and 2D references.
 - [Control Illustrations](https://control.rocks) <span class="lic-pill lic-paid">Paid</span>. Combo set of 108 customizable illustrations.
 - [David Rumsey Maps](https://www.davidrumsey.com/view/past). Historical maps archive.
 - [Flowbite Illustrations](https://flowbite.com/illustrations/). Open-source SVG illustrations in 3D style, dark and light mode.
+- [Freepik](https://www.freepik.com/) <span class="lic-pill lic-freemium">Freemium</span>. Free vectors, photos, and mockups.
 - [Get Illustrations Bundle](https://getillustrations.com) <span class="lic-pill lic-paid">Paid</span>. Bundle of 34+ vector illustration packs, 2800+ items.
 - [Humaaans](https://www.humaaans.com). Mix-and-match illustrations of people with a design library.
 - [illlustrations](https://illlustrations.co). 100 open-source illustrations including COVID and WFH themes.
@@ -456,6 +457,7 @@ Free and public-domain stock images, and 2D references.
 - [Pixabay](https://pixabay.com/). Free stock media.
 - [PNG Images](https://pngimg.com/). Transparent PNG images.
 - [Public Domain Review](https://publicdomainreview.org/collections/images). Public-domain image collections.
+- [Public.work](https://public.work/). Search public domain images from museums and libraries.
 - [Settei Dreams](https://setteidreams.net/). Anime model sheets and settei archive.
 - [Smash Illustrations](https://usesmash.com) <span class="lic-pill lic-freemium">Freemium</span>. Library of 250+ illustrations.
 - [Story Set](https://storyset.com/). Customizable illustrations to edit and animate, free.
@@ -471,6 +473,7 @@ Free and archival video footage sources.
 
 - [ActionVFX Practice](https://www.actionvfx.com/practice-footage). Free practice VFX footage.
 - [Internet Archive / Prelinger](https://archive.org/). Public-domain archival footage.
+- [Mixkit](https://mixkit.co/). Free stock music, SFX, and video footage.<br><small class="see-also">See also: <a href="#audio-sfx--music-libraries">Assets & Libraries → Audio: SFX & Music Libraries</a></small>
 - [Open Visual FX](https://openvisualfx.com/). Free VFX footage.
 - [videvo](https://www.videvo.net/) <span class="lic-pill lic-freemium">Freemium</span>. Free stock video, motion graphics, and music tracks.
 
@@ -486,6 +489,7 @@ Free and paid SFX and music libraries for games, reels, and film.
 - [Freesound](https://freesound.org/). Collaborative database of CC-licensed sounds.
 - [Freesound Add-on](https://github.com/iwkse/freesound/tree/freesound-2.0). Blender VSE addon to browse, preview, and insert sounds from freesound.org.
 - [Knell](https://knell.medieval.software/). Free procedural sound effect synthesizer for games, UI, and prototypes.
+- [Mixkit](https://mixkit.co/). Free stock music, SFX, and video footage.<br><small class="see-also">See also: <a href="#stock-footage">Assets & Libraries → Stock Footage</a></small>
 - [Moby Gratis](https://mobygratis.com/). Free Moby music for indie creators.
 - [Motion Array SFX](https://motionarray.com/browse/sound-effects/free/). Free SFX collection.
 - [Sonniss](https://sonniss.com/) <span class="lic-pill lic-paid">Paid</span>. SFX library. Releases free SFX bundles annually.
@@ -504,6 +508,7 @@ Font libraries, pairing tools, and type references.
 - [Fontshare](https://www.fontshare.com/). Free quality fonts from Indian Type Foundry; Satoshi, General Sans, Clash Display.
 - [Fontz](https://fontz.design) <span class="lic-pill lic-freemium">Freemium</span>. Free and premium 3D fonts with Blender source files.
 - [Free Faces](https://www.freefaces.gallery/). Curated directory of free fonts from independent foundries and designers.
+- [Free Fonts (Awwwards)](https://www.awwwards.com/awwwards/collections/free-fonts/). Curated collection of free fonts.
 - [Future Fonts](https://www.futurefonts.xyz/) <span class="lic-pill lic-paid">Paid</span>. Buy in-progress fonts directly from indie designers at lower early-access prices.
 - [Google Fonts](https://fonts.google.com/). Largest free open-source font library; SIL OFL / Apache licensed.
 - [Indestructible Type](https://indestructibletype.com/). Open-source foundry by Owen Earl; variable font families like Jost, Besley, Bodoni.
@@ -514,6 +519,8 @@ Font libraries, pairing tools, and type references.
 - [UNCUT.wtf](https://uncut.wtf/). 160+ contemporary open-source typefaces, all free for commercial use.
 - [Usable Google Fonts (Figma)](https://www.figma.com/community/file/1535264485426732629/usable-google-fonts). Curated Figma set of usable Google Fonts.
 - [Velvetyne Type Foundry](https://velvetyne.fr/). Paris-based non-profit foundry releasing open-source experimental typefaces.
+- [WhatTheFont](https://www.myfonts.com/pages/whatthefont) <span class="lic-pill lic-freemium">Freemium</span>. Identify fonts from an image.
+- [Wordmark.it](https://wordmark.it/). Preview text in your installed fonts.
 
 ### Icons
 
@@ -528,6 +535,7 @@ Icon libraries and animation sets.
 - [Hugeicons](https://hugeicons.com/) <span class="lic-pill lic-freemium">Freemium</span>. 36k+ icons in multiple styles; free tier plus premium plans.
 - [Iconify](https://iconify.design/). Unified framework aggregating 200k+ open-source icons from 150+ icon sets.
 - [Iconoir](https://iconoir.com/). 1600+ open-source SVG icons; React, React Native, Flutter, Vue, Figma support.
+- [icons8](https://icons8.com/icons) <span class="lic-pill lic-freemium">Freemium</span>. Large icon packs with consistent styles.
 - [Icons8 Glyph](https://icons8.com/l/glyph/) <span class="lic-pill lic-freemium">Freemium</span>. Glyph-style icon set.
 - [Iconz](https://iconz.design) <span class="lic-pill lic-freemium">Freemium</span>. 460+ 3D icons in multiple angles and materials.
 - [Lineicons](https://lineicons.com/) <span class="lic-pill lic-freemium">Freemium</span>. 30k icons (4k free); SVG, JSX, TSX, Figma, PNG; React/Vue/Svelte support.
@@ -1587,12 +1595,13 @@ Showcases, style frames, title sequences, ad references.
 - [Animation Nodes (GitHub)](https://github.com/JacquesLucke/animation_nodes). A node-based visual scripting system designed for motion graphics in Blender.
 - [Animation Nodes (site)](https://animation-nodes.com/). A node-based visual scripting system designed for motion graphics in Blender.
 - [Art of Style Frame](https://artofstyleframe.com/). Style frame showcase.
-- [Art of the Title](https://artofthetitle.com/). Title sequence deep dives.
+- [Art of the Title](https://artofthetitle.com/). Title sequence deep dives.<br><small class="see-also">See also: <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small>
 - [Behance Motion](https://www.behance.net/galleries/motion). Motion design gallery.
 - [Commotion](https://github.com/mrachinskiy/commotion). Blender add-on for motion graphics.
 - [Eyecannndy](https://eyecannndy.com/featured/). Visual effects and motion inspiration.
 - [FilmGrab](https://film-grab.com/). Curated film stills archive. Free.<br><small class="see-also">See also: <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small>
-- [Flim AI](https://flim.ai/) <span class="lic-pill lic-freemium">Freemium</span>. Film frame search engine.
+- [Flim AI](https://flim.ai/) <span class="lic-pill lic-freemium">Freemium</span>. Film frame search engine.<br><small class="see-also">See also: <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small>
+- [FrameRate](https://framerate.tv/). Community showcase for motion design and music video work by video professionals.
 - [Houdini 2 AE](https://vimeo.com/186204479). Tool for exporting camera and locators from Houdini to After Effects.
 - [John Berube](https://johnberube.com/). Motion design portfolio and resources.
 - [Mobox Graphics](https://www.moboxgraphics.com/). In-depth After Effects tutorials focused on motion design.
@@ -2954,7 +2963,9 @@ Color palettes, generators, matching, and theory tools.
 - [Huemint](https://huemint.com/brand-intersection/) <span class="lic-pill lic-freemium">Freemium</span>. AI-assisted brand color generation.
 - [Lospec Palette List](https://lospec.com/palette-list). Pixel art palette repository.
 - [Paletton](https://paletton.com/). Classic color scheme designer.
+- [Palitra](https://palitra.app/). Search brand color palettes.
 - [poline](https://meodai.github.io/poline/). Esoteric palette generation via polar color interpolation.
+- [Randoma11y](https://randoma11y.com/). Generate accessible color combinations.
 - [Swatchr](https://github.com/jknightdoeswork/swatchr). A color palette management system for Unity.
 - [WebGradients](https://webgradients.com/). Gradient library.
 
@@ -2969,24 +2980,38 @@ Vector editors, creative effect tools, and design utilities.
 | [Adobe InDesign](https://www.adobe.com/products/indesign.html) | Page layout and publishing for print and digital.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> | $20.99/mo annual single-app | Paid | Industry Standard · Layout | Editorial layout and publishing |
 | [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) | Industry-standard raster image editor and compositor; available on iPad.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> | Single App $22.99/mo; Photography Plan $19.99/mo | Paid | Industry Standard · Raster | Photo editing, matte painting, texture work |
 | [ArcBrush](https://arcbrush.com/) | Node-based non-destructive image editor for generating asset variants and export formats; optional credit-based AI features.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> |  | Freemium | Node-based · Non-destructive | Node-based batch image editing |
-| [Eagle](https://en.eagle.cool/) | Visual asset organizer.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> |  | Paid | Asset Organizer · Visual | Asset organization |
+| [Eagle](https://en.eagle.cool/) | Visual asset organizer.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a>, <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small> |  | Paid | Asset Organizer · Visual | Asset organization |
 | [Graphite](https://graphite.rs/) | Open-source 2D vector and raster graphics editor with procedural node-based workflow. In active development.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> |  | Open Source | Procedural · Open Source | Procedural design, non-destructive vector |
 | [Krita](https://krita.org/) | Free open-source digital painting app from KDE; v5.3 and v6.0 shipped March 2026.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a>, <a href="#2d--animation-software">Software Reference → 2D & Animation Software</a></small> |  | Open Source | Free OSS · Painting | Digital painting, concept art |
 | [Modyfi](https://www.modyfi.com/) | Browser-based creative suite.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> |  | Freemium | Browser Suite · Creative | Creative suite in browser |
+| [Photopea](https://www.photopea.com/) | Free browser-based Photoshop alternative with full PSD support.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a>, <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small> |  | Free | PSD · Browser | Quick PSD editing |
 | [Sketch](https://www.sketch.com/) | Mac-native UI/UX design tool with web previews and collaboration.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> | Standard $12/editor/mo; Mac one-time $120/seat | Paid | UI/UX · Mac-native | UI/UX design on Mac |
 
 **Related:**
 - [Are.na](https://www.are.na/) <span class="lic-pill lic-freemium">Freemium</span>. Collaborative visual research blocks and channels.<br><small class="see-also">See also: <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small>
 - [BabyTrack](https://freedesigntool.online/baby-track). Blob tracking effect.
+- [Bendito Mockup](https://benditomockup.com/) <span class="lic-pill lic-freemium">Freemium</span>. Premium and free product mockups.
+- [Brandfetch](https://brandfetch.com/) <span class="lic-pill lic-freemium">Freemium</span>. Look up brand logos, fonts, and colors.
 - [Carbon](https://carbon.now.sh/). Code snippet screenshot generator.
 - [ContentCore](https://contentcore.xyz/). Curated creative content.
 - [Cosmos](https://www.cosmos.so/home). Visual content curation platform.
 - [Efecto](https://efecto.app/). ASCII and dithering effects.
+- [effect.app](https://effect.app/) <span class="lic-pill lic-freemium">Freemium</span>. Browser-based live effects for photo and video.
+- [EZGIF](https://ezgif.com/). Online GIF and video editing and conversion tools.<br><small class="see-also">See also: <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small>
+- [GraphicBurger](https://graphicburger.com/). Free design mockups and graphic assets.
 - [Halftone Maker](https://halftonemaker.com/). Halftone generator.
+- [LottieFiles](https://lottiefiles.com/) <span class="lic-pill lic-freemium">Freemium</span>. Library of free Lottie web animations.
+- [Maneken](https://maneken.app/) <span class="lic-pill lic-freemium">Freemium</span>. Browser-based editable product mockups.
 - [Mockup Photos](https://mockup.photos/) <span class="lic-pill lic-freemium">Freemium</span>. Device and print mockup library.
+- [Mockup World](https://www.mockupworld.co/). Free PSD mockup library.
 - [Muzli](https://chromewebstore.google.com/detail/muzli-design-inspiration/glcipcfhmopcgidicgdociohdoicpdfc). Design inspiration Chrome extension.
 - [OS Design Directory](https://github.com/opensesh/OS_design-directory). Open-source design resources directory.
+- [Pacdora](https://www.pacdora.com/) <span class="lic-pill lic-freemium">Freemium</span>. Packaging design with dielines and 3D mockups.
+- [Previewed](https://previewed.app/) <span class="lic-pill lic-freemium">Freemium</span>. Turn screenshots into 3D mockup images and animations.
+- [Resource Boy](https://resourceboy.com/). Free design resources and mockups.
 - [Savee](https://savee.it/) <span class="lic-pill lic-freemium">Freemium</span>. Visual bookmarking tool.
+- [Shots.so](https://shots.so/) <span class="lic-pill lic-freemium">Freemium</span>. Device mockup generator in the browser.
+- [Smart Mockups](https://smartmockups.com/) <span class="lic-pill lic-freemium">Freemium</span>. Browser mockup generator.
 - [Space Type Generator](https://spacetypegenerator.com/). Experimental type generator.
 - [The Toolbox](https://thetoolbox.art/). Curated creative tools directory.
 - [Tiled Art](https://tiled.art/en/home/). Tessellation creator.
@@ -2999,9 +3024,16 @@ Blogs, feeds, and curated inspiration sources.
 
 - [5 Decades of Digital Art History](https://www.youtube.com/playlist?list=PLyzOQqMHGyYTsz7-jlj-SeOm6iC0v-7B3). YouTube playlist surveying 50 years of digital art.
 - [Activation Ideas](https://activationideas.com/). Brand activation inspiration.
+- [Awwwards](https://www.awwwards.com/) <span class="lic-pill lic-freemium">Freemium</span>. Web design and interaction awards gallery.
+- [Behance](https://www.behance.net/). Adobe portfolio network for creative work.
 - [But Does It Float](https://butdoesitfloat.com/). Contemporary design and art feed.
+- [coverjunkie](https://coverjunkie.com/). Magazine cover design showcase.
+- [Creative Boom](https://www.creativeboom.com/). Art and design news and inspiration.
+- [D&AD Archive](https://www.dandad.org/). Archive of D&AD award-winning design and advertising.
+- [deck.gallery](https://deck.gallery/). Gallery of well-designed pitch and brand decks.
 - [Designspiration](https://designspiration.com/) <span class="lic-pill lic-freemium">Freemium</span>. Design inspiration feed.
 - [DETHJUNKIE](http://www.dethjunkie.com/). Dark creative blog.
+- [Dribbble](https://dribbble.com/) <span class="lic-pill lic-freemium">Freemium</span>. Design portfolio showcase community.
 - [FX References (Sylvain Nouveau)](http://www.sylvain-nouveau.com/reffx/misc/). Collected real-world FX reference footage.
 - [FYFD](https://fyfluiddynamics.com/). Fluid dynamics blog with reference imagery for FX.
 - [Generative Art Timeline](https://timeline.lerandom.art/). Interactive timeline of generative art history.
@@ -3016,8 +3048,11 @@ Blogs, feeds, and curated inspiration sources.
 - [Muddycolors](https://www.muddycolors.com/). Pro illustrator blog.
 - [OTAKU GANGSTA](http://otakugangsta.com/). Anime/otaku visual blog.
 - [Sakuga Booru](https://sakugabooru.com/). Animation clip archive (non-www mirror).
+- [Supahero](https://www.supahero.io/) <span class="lic-pill lic-freemium">Freemium</span>. Library of website hero section designs.
 - [The Black Workshop](http://theblackworkshop.tumblr.com/). Design inspiration blog.
+- [The Brand Identity](https://the-brandidentity.com/). Graphic design and branding showcase.
 - [Truchet's Tiles](https://arearugscarpet.blogspot.com/2014/04/the-curse-of-truchets-tiles.html). On Truchet tiles and patterns.
+- [Vimeo Staff Picks](https://vimeo.com/channels/staffpicks). Curated short films picked by Vimeo staff.
 
 ### 2D Art References & Inspiration
 
@@ -3039,6 +3074,7 @@ Storyboard apps, previs tools, script breakdown, reference managers, moodboardin
 | [Celtx](https://www.celtx.com/) | Browser script + breakdown + pre-prod. | Paid | Browser · Pre-prod | Browser pre-prod |
 | [Cinetracer](https://www.cinetracer.com/) | Real-time cinematography simulation on Unreal Engine. Lights, lenses, cameras. | Paid | Cinematography Sim · Unreal-based | Pre-shoot lens/lighting blocking |
 | [Eagle](https://eagle.cool/) | Local image and video asset manager with tags. | Paid | Local DAM · Tags | Local reference DAM |
+| [Eagle](https://en.eagle.cool/) | Visual asset organizer.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a>, <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small> | Paid | Asset Organizer · Visual | Asset organization |
 | [Fade In](https://www.fadeinpro.com/) | Pro screenwriting at a lower price point. | Paid | Screenwriting · Affordable | Affordable pro screenwriting |
 | [Final Draft](https://www.finaldraft.com/) | Industry-standard screenwriting with breakdown tagging. | Paid | Industry Std · Screenwriting | Pro screenwriting |
 | [FrameForge Storyboard Studio](https://www.frameforge.com/) | 3D previs/storyboard hybrid with accurate lens and camera simulation. | Paid | 3D Storyboard · Lens-Accurate | 3D techvis-aware storyboarding |
@@ -3055,16 +3091,25 @@ Storyboard apps, previs tools, script breakdown, reference managers, moodboardin
 
 **Related:**
 - [Are.na](https://www.are.na/) <span class="lic-pill lic-freemium">Freemium</span>. Collaborative visual research blocks and channels.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small>
+- [Art of the Title](https://artofthetitle.com/). Title sequence deep dives.<br><small class="see-also">See also: <a href="#motion-graphics-inspiration">Motion Graphics & Video → Motion Graphics: Inspiration</a></small>
 - [Cine Designer (C4D)](https://cinedesigner.tv/) <span class="lic-pill lic-paid">Paid</span>. Cinema 4D previs and techvis plugin for lights, lenses, set pieces.
+- [Cosmos](https://www.cosmos.so/) <span class="lic-pill lic-freemium">Freemium</span>. Visual discovery and moodboard curation tool.
 - [Every Frame a Painting](https://www.youtube.com/@everyframeapainting). Gold-standard video essays on composition, camera, editing rhythm.<br><small class="see-also">See also: <a href="#cinematography--camera-work">Art, Design & Visual Storytelling → Cinematography & Camera Work</a></small>
+- [EYECANDY](https://eycndy.com/) <span class="lic-pill lic-freemium">Freemium</span>. Library of visual techniques in film and motion.
 - [FilmGrab](https://film-grab.com/). Curated film stills archive. Free.<br><small class="see-also">See also: <a href="#motion-graphics-inspiration">Motion Graphics & Video → Motion Graphics: Inspiration</a></small>
+- [Flim AI](https://flim.ai/) <span class="lic-pill lic-freemium">Freemium</span>. Film frame search engine.<br><small class="see-also">See also: <a href="#motion-graphics-inspiration">Motion Graphics & Video → Motion Graphics: Inspiration</a></small>
+- [Frame Set](https://frameset.app/) <span class="lic-pill lic-freemium">Freemium</span>. Searchable stills from films, commercials, and music videos.
 - [Halon Entertainment](https://halon.com/). Previs, VP, and virtual scouting case studies and tooling writeups.
 - [Magnopus](https://www.magnopus.com/). VP and XR studio. Tooling and case studies.
+- [Refsee](https://refsee.com/) <span class="lic-pill lic-freemium">Freemium</span>. Video reference search across films and commercials.
+- [Same.Energy](https://same.energy/). Visual similarity image search engine.
 - [Shot.Cafe](https://shot.cafe/). Searchable film and TV frames.
 - [ShotDeck](https://shotdeck.com/) <span class="lic-pill lic-paid">Paid</span>. Searchable film still library for storyboards and references.<br><small class="see-also">See also: <a href="#motion-graphics-inspiration">Motion Graphics & Video → Motion Graphics: Inspiration</a></small>
+- [Spectacle.is](https://spectacle.is/) <span class="lic-pill lic-freemium">Freemium</span>. Search commercial and branded video.
 - [StudioBinder Film Guides](https://www.studiobinder.com/blog/). Shot composition, camera shots encyclopedia, camera movements, lighting.<br><small class="see-also">See also: <a href="#cinematography--camera-work">Art, Design & Visual Storytelling → Cinematography & Camera Work</a></small>
 - [The Third Floor](https://thethirdfloorinc.com/). Previs and postvis studio blog with breakdowns from major features.
 - [VES (Visual Effects Society)](https://www.vesglobal.org/). VES handbook, talks, and methodology resources for on-set VFX.
+- [Yarn.co](https://yarn.co/) <span class="lic-pill lic-freemium">Freemium</span>. Search movie and TV dialogue, export clips or GIFs.
 
 
 <h3 id="mirror-design-software" data-mirror="1" tabindex="-1">Design Software</h3>
@@ -3146,6 +3191,7 @@ text-to-image models and platforms.
 | [Reve](https://reve.art/) | Image model with strong prompt adherence.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small> | Freemium | Prompt Adherence | Prompt adherence |
 | [Snowpixel](https://snowpixel.app) | Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small> | Freemium |  |  |
 | [Stable Diffusion 3.5](https://huggingface.co/stabilityai) | Open-source diffusion (Large, Medium, Turbo sizes).<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small> | Open Source | Open Source · Self-Host | Self-hosted image gen |
+| [Visual Electric](https://visualelectric.com/) | AI image generator aimed at designers. | Freemium | AI Image |  |
 
 **Related:**
 - [Canva AI Text-to-Image Generator](https://www.canva.com/features/ai-image-generator/) <span class="lic-pill lic-freemium">Freemium</span>. Canva's free built-in text-to-image generator.
@@ -3269,6 +3315,7 @@ AI tools that augment traditional CG workflows.
 **Related:**
 - [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP). `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 - [AI Render (Stable Diffusion in Blender)](https://github.com/benrugg/AI-Render). Blender addon that renders an AI image from a text prompt and your scene via Stable Diffusion.
+- [ClipDrop: Image Upscaler](https://clipdrop.co/image-upscaler) <span class="lic-pill lic-freemium">Freemium</span>. AI image upscaler and enhancer.
 - [Comfy UI Blender AI](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node). Run ComfyUI workflows inside Blender.
 - [ControlNet](https://stable-diffusion-art.com/controlnet/). Depth/pose/edge control for precision CG workflows.
 - [Coplay](https://coplay.dev) <span class="lic-pill lic-freemium">Freemium</span>. AI copilot for Unity.
@@ -3907,7 +3954,7 @@ Assorted CG utilities and specialty tools.
 | [Massive](https://www.massivesoftware.com/) | AI-driven crowd simulation pioneered on Lord of the Rings; Massive Prime + plugins for Maya/Max.<br><small class="see-also">See also: <a href="#pipeline--production-management-software">Software Reference → Pipeline & Production Management Software</a></small> | Paid | Industry Standard · Crowd Sim | Feature-film crowd simulation |
 | [MeshLab](https://www.meshlab.net/) | Open-source mesh processing, essential for photogrammetry cleanup.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a></small> | Open Source | Mesh Processing · Photogrammetry | Mesh processing |
 | [OBS Studio](https://obsproject.com/) | Free screen recording/streaming. Essential for tutorials.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a></small> | Open Source | Recording · Streaming | Screen recording, streaming |
-| [Photopea](https://www.photopea.com/) | Free browser-based Photoshop alternative with full PSD support.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a></small> | Free | PSD · Browser | Quick PSD editing |
+| [Photopea](https://www.photopea.com/) | Free browser-based Photoshop alternative with full PSD support.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a>, <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small> | Free | PSD · Browser | Quick PSD editing |
 | [Pixie](https://github.com/blkdev2/pixie?tab=readme-ov-file) | Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a></small> | Open Source | RenderMan-like · Renderer |  |
 | [ShareX](https://getsharex.com/) | Free Windows screen capture with recording and annotation.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a></small> | Open Source | Screen Capture · Windows | Screen capture, annotation |
 | [Storm HydroFX](https://storm-vfx.com/) | Real-time liquid and fluid simulation tool.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a></small> | Paid | Fluids · FX | Fluid simulation |
@@ -3929,7 +3976,7 @@ Assorted CG utilities and specialty tools.
 - [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net). Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
 - [Developer Documentation](https://wiki.blender.org/wiki/Main_Page). Blender developer docs: development process, design, architecture, and build instructions.
 - [emojillate](https://github.com/notwaldorf/emojillate). Pixellate an image into emoji
-- [EZGIF](https://ezgif.com/). Online GIF and video editing and conversion tools.
+- [EZGIF](https://ezgif.com/). Online GIF and video editing and conversion tools.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small>
 - [Fake Bpy Module](https://github.com/nutti/fake-bpy-module). Fake Blender Python API modules for IDE code completion.
 - [Graphtoy](https://iquilezles.org/apps/graphtoy/). Mathematical function grapher by Inigo Quilez.
 - [HDRI To Cube Map](https://matheowis.github.io/HDRI-to-CubeMap/). A tool to convert your HDRI file into a Cube map.
@@ -5016,7 +5063,7 @@ UI/UX, vector, raster design apps.
 | [Affinity](https://affinity.studio/) | Unified vector, photo, and layout app. Free, by Canva. |  | Free | Free (Canva) · Vector + Raster | Illustration, photo editing, page layout |
 | [ArcBrush](https://arcbrush.com/) | Node-based non-destructive image editor for generating asset variants and export formats; optional credit-based AI features.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small> |  | Freemium | Node-based · Non-destructive | Node-based batch image editing |
 | [Clip Studio Paint](https://www.clipstudio.net/) | Industry-standard illustration and comics with animation timeline.<br><small class="see-also">See also: <a href="#2d--animation-software">Software Reference → 2D & Animation Software</a></small> |  | Paid | Manga · Frame-by-Frame | Manga, illustration, frame-by-frame animation |
-| [Eagle](https://en.eagle.cool/) | Visual asset organizer.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small> |  | Paid | Asset Organizer · Visual | Asset organization |
+| [Eagle](https://en.eagle.cool/) | Visual asset organizer.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a>, <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small> |  | Paid | Asset Organizer · Visual | Asset organization |
 | [Figma](https://www.figma.com/) | Collaborative UI/UX design with free tier. |  | Freemium | Collaborative · UI/UX | UI design, prototyping, design systems |
 | [FontLab 8](https://www.fontlab.com/font-editor/fontlab/) | Professional font editor. |  | Paid | Font Editor · Pro | Type design, font editing |
 | [GIMP](https://www.gimp.org/) | Free open-source image editor. |  | Open Source | Open Source · Photoshop-alt | Texture editing, photo manipulation |
@@ -5373,7 +5420,7 @@ Reference, scattering, simulation, and specialty 3D utilities.
 | [MeshLab](https://www.meshlab.net/) | Open-source mesh processing, essential for photogrammetry cleanup.<br><small class="see-also">See also: <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small> |  | Open Source | Mesh Processing · Photogrammetry | Mesh processing |
 | [NAP](https://nap-framework.tech/) | Open source C++ platform for real-time control and visualization, with a Vulkan renderer. Built for professional installations. |  | Open Source | Framework · Vulkan |  |
 | [OBS Studio](https://obsproject.com/) | Free screen recording/streaming. Essential for tutorials.<br><small class="see-also">See also: <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small> |  | Open Source | Recording · Streaming | Screen recording, streaming |
-| [Photopea](https://www.photopea.com/) | Free browser-based Photoshop alternative with full PSD support.<br><small class="see-also">See also: <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small> |  | Free | PSD · Browser | Quick PSD editing |
+| [Photopea](https://www.photopea.com/) | Free browser-based Photoshop alternative with full PSD support.<br><small class="see-also">See also: <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a>, <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small> |  | Free | PSD · Browser | Quick PSD editing |
 | [Pixie](https://github.com/blkdev2/pixie?tab=readme-ov-file) | Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.<br><small class="see-also">See also: <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small> |  | Open Source | RenderMan-like · Renderer |  |
 | [Plasticity](https://www.plasticity.xyz/) | NURBS/CAD-style modeler tuned for artists and concept work; perpetual license w/ 12-month maintenance.<br><small class="see-also">See also: <a href="#3d-software-paid">Software Reference → 3D Software: Paid</a></small> | Indie/Studio perpetual; Indie→Studio upgrade $125 | Paid | NURBS · Concept/Hard-Surface | Hard-surface concept, product design |
 | [Polygonjs](https://polygonjs.com) | Node-based WebGL design tool, used for procedural geometry, particles, materials<br><small class="see-also">See also: <a href="#rendering--shader-theory">Lighting, Rendering & Shaders → Rendering & Shader Theory</a></small> |  | Freemium |  |  |

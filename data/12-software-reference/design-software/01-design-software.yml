@@ -616,6 +616,7 @@ entries:
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
+      - art-design-visual-storytelling/pre-production-tools
   - name: ArcBrush
     url: https://arcbrush.com/
     description: Node-based non-destructive image editor for generating asset variants and export formats; optional credit-based AI features.

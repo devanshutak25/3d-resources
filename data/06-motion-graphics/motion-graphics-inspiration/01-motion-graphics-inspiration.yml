@@ -76,6 +76,8 @@ entries:
         - web
       tech:
         - ai-generative
+    dual_listed_in:
+      - art-design-visual-storytelling/pre-production-tools
   - name: PlayPhrase.me
     url: https://www.playphrase.me/
     description: Phrase-based film clip search.
@@ -121,6 +123,8 @@ entries:
         - motion-graphics
       platform:
         - web
+    dual_listed_in:
+      - art-design-visual-storytelling/pre-production-tools
   - name: Stash Magazine
     url: https://stashmedia.tv/
     description: Motion design and animation showcase.

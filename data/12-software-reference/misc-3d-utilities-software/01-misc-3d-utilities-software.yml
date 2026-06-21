@@ -90,6 +90,7 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
+      - art-design-visual-storytelling/design-tools
   - name: Gaea
     url: https://quadspinner.com/
     description: Terrain generation tool (free community edition).

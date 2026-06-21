@@ -226,3 +226,32 @@ entries:
         - unity-plugin
     stale: true
     last_pushed: '2019-03-30'
+  - name: Palitra
+    url: https://palitra.app/
+    description: Search brand color palettes.
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Color
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Randoma11y
+    url: https://randoma11y.com/
+    description: Generate accessible color combinations.
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Color
+      - Accessibility
+    url_last_verified: '2026-06-22'
+    url_status: ok

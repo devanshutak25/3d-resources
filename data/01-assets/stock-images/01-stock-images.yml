@@ -400,3 +400,34 @@ entries:
         - product-viz
       platform:
         - web
+  - name: Freepik
+    url: https://www.freepik.com/
+    description: Free vectors, photos, and mockups.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Stock
+      - Vectors
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Public.work
+    url: https://public.work/
+    description: Search public domain images from museums and libraries.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - cc0
+    readme_tags:
+      - Public Domain
+    url_last_verified: '2026-06-22'
+    url_status: ok

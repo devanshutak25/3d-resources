@@ -266,7 +266,7 @@ entries:
         - motion-graphics
       platform:
         - web
-  - name: Instagram #xuxoe
+  - name: Instagram
     url: https://www.instagram.com/explore/tags/xuxoe/
     description: Motion and 3D work under the xuxoe hashtag.
     license: Free
@@ -334,3 +334,144 @@ entries:
         - generalist
       platform:
         - web
+  - name: Awwwards
+    url: https://www.awwwards.com/
+    description: Web design and interaction awards gallery.
+    license: Freemium
+    entry_type: inspiration
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Web Design
+      - Awards
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Behance
+    url: https://www.behance.net/
+    description: Adobe portfolio network for creative work.
+    license: Free
+    entry_type: inspiration
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Portfolios
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: coverjunkie
+    url: https://coverjunkie.com/
+    description: Magazine cover design showcase.
+    license: Free
+    entry_type: inspiration
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Editorial
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Creative Boom
+    url: https://www.creativeboom.com/
+    description: Art and design news and inspiration.
+    license: Free
+    entry_type: inspiration
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Design News
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: D&AD Archive
+    url: https://www.dandad.org/
+    description: Archive of D&AD award-winning design and advertising.
+    license: Free
+    entry_type: inspiration
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Awards
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Dribbble
+    url: https://dribbble.com/
+    description: Design portfolio showcase community.
+    license: Freemium
+    entry_type: inspiration
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Portfolios
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Supahero
+    url: https://www.supahero.io/
+    description: Library of website hero section designs.
+    license: Freemium
+    entry_type: inspiration
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Web Design
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: The Brand Identity
+    url: https://the-brandidentity.com/
+    description: Graphic design and branding showcase.
+    license: Free
+    entry_type: inspiration
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Branding
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Vimeo Staff Picks
+    url: https://vimeo.com/channels/staffpicks
+    description: Curated short films picked by Vimeo staff.
+    license: Free
+    entry_type: inspiration
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Short Films
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: deck.gallery
+    url: https://deck.gallery/
+    description: Gallery of well-designed pitch and brand decks.
+    license: Free
+    entry_type: inspiration
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Decks
+    url_last_verified: '2026-06-22'
+    url_status: ok

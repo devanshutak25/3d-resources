@@ -228,3 +228,20 @@ entries:
         - linux
     stale: true
     last_pushed: '2021-12-22'
+  - name: Mixkit
+    url: https://mixkit.co/
+    description: Free stock music, SFX, and video footage.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Music
+      - SFX
+    dual_listed_in:
+      - assets-libraries/stock-footage
+    url_last_verified: '2026-06-22'
+    url_status: ok

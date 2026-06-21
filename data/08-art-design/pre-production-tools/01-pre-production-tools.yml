@@ -513,3 +513,147 @@ entries:
     url_last_verified: '2026-06-01'
     url_status: broken
     deprecated: true
+  - name: Cosmos
+    url: https://www.cosmos.so/
+    description: Visual discovery and moodboard curation tool.
+    license: Freemium
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Moodboard
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: are.na
+    url: https://www.are.na/
+    description: Reference collecting and moodboard platform.
+    license: Freemium
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Moodboard
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: EYECANDY
+    url: https://eycndy.com/
+    description: Library of visual techniques in film and motion.
+    license: Freemium
+    entry_type: inspiration
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Film Reference
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Frame Set
+    url: https://frameset.app/
+    description: Searchable stills from films, commercials, and music videos.
+    license: Freemium
+    entry_type: inspiration
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Film Stills
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Refsee
+    url: https://refsee.com/
+    description: Video reference search across films and commercials.
+    license: Freemium
+    entry_type: inspiration
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Video Reference
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Same.Energy
+    url: https://same.energy/
+    description: Visual similarity image search engine.
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Image Search
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Shotdeck
+    url: https://shotdeck.com/
+    description: Searchable library of HD movie stills.
+    license: Paid
+    entry_type: inspiration
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Film Stills
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Spectacle.is
+    url: https://spectacle.is/
+    description: Search commercial and branded video.
+    license: Freemium
+    entry_type: inspiration
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Video Reference
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Yarn.co
+    url: https://yarn.co/
+    description: Search movie and TV dialogue, export clips or GIFs.
+    license: Freemium
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Clip Search
+    url_last_verified: '2026-06-22'
+    url_status: ok

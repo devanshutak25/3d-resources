@@ -434,3 +434,17 @@ entries:
         - illustration
       platform:
         - web
+  - name: icons8
+    url: https://icons8.com/icons
+    description: Large icon packs with consistent styles.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Icons
+    url_last_verified: '2026-06-22'
+    url_status: ok

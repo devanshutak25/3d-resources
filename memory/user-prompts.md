@@ -11,6 +11,20 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-06-22 12:00
+**Prompt:**
+> all the things inside this link- https://thetoolbox.art/
+
+**Answered:** Scraped all 16 Notion views via headless Chrome → 128 tools. User chose "Extract full list".
+
+### 2026-06-22 12:30
+**Prompt:**
+> add all these things, add this in the credits as well. Make plan / go for phase 2 / go / go
+
+**Answered:** Plan approved (3D+design-relevant subset, dual_listed_in for dups, map to existing, footer+README credit). Added 42 new entries + 6 mirrors, credit lines in page-shell.js + render.js, validate ✓, build exit 0.
+
+---
+
 ### 2026-06-16 21:00
 **Prompt:**
 > add  pinterest.com/AlanWilliams/

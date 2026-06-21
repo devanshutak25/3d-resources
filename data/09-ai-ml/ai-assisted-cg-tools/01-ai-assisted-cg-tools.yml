@@ -386,3 +386,20 @@ entries:
         - concept
       platform:
         - web
+  - name: 'ClipDrop: Image Upscaler'
+    url: https://clipdrop.co/image-upscaler
+    description: AI image upscaler and enhancer.
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Upscale
+      - AI
+    url_last_verified: '2026-06-22'
+    url_status: ok

@@ -553,6 +553,8 @@ entries:
         - generalist
       platform:
         - web
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
   - name: RedKetchup Twitter Downloader
     url: https://redketchup.io/twitter-downloader
     description: Save MP4 and GIF video from Twitter posts.

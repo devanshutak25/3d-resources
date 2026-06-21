@@ -209,7 +209,7 @@ function header() {
     '> 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)**. Search and filter by License · Platform · Workflow · Output.',
     '<!-- /only:readme -->',
     '',
-    'Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md)',
+    'Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md) · entries partly from [thetoolbox.art](https://thetoolbox.art/)',
     '',
     '> <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
     ''

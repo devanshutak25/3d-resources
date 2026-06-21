@@ -91,7 +91,7 @@ ${subNavHtml || ''}      ${htmlBody}
       <i class="mdi mdi-arrow-up" aria-hidden="true"></i>
     </a>
     <footer class="site-footer">
-      <p><a href="/">3d.devanshutak.xyz</a> · <a href="${REPO_URL}">GitHub</a> · <small>Last updated ${lastUpdated}</small></p>
+      <p><a href="/">3d.devanshutak.xyz</a> · <a href="${REPO_URL}">GitHub</a> · <a href="https://thetoolbox.art/" rel="noopener">Some entries sourced from thetoolbox.art</a> · <small>Last updated ${lastUpdated}</small></p>
     </footer>
     <script>
       (function(){

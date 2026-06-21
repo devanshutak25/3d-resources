@@ -301,3 +301,46 @@ entries:
         - opensource-alt
       platform:
         - web
+  - name: Free Fonts (Awwwards)
+    url: https://www.awwwards.com/awwwards/collections/free-fonts/
+    description: Curated collection of free fonts.
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Fonts
+      - Free
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: WhatTheFont
+    url: https://www.myfonts.com/pages/whatthefont
+    description: Identify fonts from an image.
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Fonts
+    url_last_verified: '2026-06-22'
+    url_status: ok
+  - name: Wordmark.it
+    url: https://wordmark.it/
+    description: Preview text in your installed fonts.
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Fonts
+    url_last_verified: '2026-06-22'
+    url_status: ok
