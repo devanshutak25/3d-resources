@@ -354,6 +354,21 @@ entries:
       - Animation
     url_last_verified: '2026-06-22'
     url_status: ok
+  - name: Gradientool
+    url: https://www.gradientool.com/
+    description: Browser gradient generator with grain, shadow, and 3D effects. Exports stills and animated MP4 up to 8K.
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Gradients
+      - Generator
+    url_last_verified: '2026-06-22'
+    url_status: ok
   - name: Previewed
     url: https://previewed.app/
     description: Turn screenshots into 3D mockup images and animations.

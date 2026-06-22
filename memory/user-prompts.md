@@ -600,3 +600,9 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 - **Prompt (2026-06-22):** add https://doanimation.kindreddo.com/ and https://dotracking.kindreddo.com/
   - JS-rendered; identified via kindreddo.com = free Kindred creative tools. DoAnimation (browser frame-by-frame 2D anim, layers/onion-skin, GIF/MP4, local files) → §12 `2d-animation-software/02`. DoTracking (browser animation production tracker: episodes/scenes/shot status/revisions, local) → §12 `pipeline-software/02` next to Kitsu. Both `software`/`Free`/`web`. Validation ✓ 426, 0 errors. Uncommitted.
+
+### 2026-06-22 21:10
+**Prompt:**
+> add https://www.gradientool.com/
+
+**Answered:** Added Gradientool (web gradient generator, MP4/image export) → §08 art-design design-tools/01 (28 ent). license Free, type tool, platform web, output generalist. Validate ✓ 426 warn, 0 err.
