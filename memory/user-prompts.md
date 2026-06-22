@@ -597,3 +597,6 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 - **Prompt (2026-06-17):** what is the next step?
   - Catalog/cleanup/facet/SEO B1-B3 all done + committed; only launch left. User picked **cut v1.0.0 release** (plan: `~/.claude/plans/what-is-the-next-cuddly-matsumoto.md`). Phase 1 pre-flight green (validate ✓ 397, build.sh ok, sitemap 243). Phase 2: wrote `handoff/release-notes-v1.0.0.md` (paste-ready, real per-section counts, "3,400+", 8 months, Devanshu Tak, 0 em-dash/AI-tell). Real counts: raw catalog 3422, render-canonical 3323 (graph entry). Social preview = use existing `og-image.png` 1200x630 as-is (user choice). Phase 3 (git tag v1.0.0 + push) + Phase 4 (About/topics from copy-snippets, upload og-image) = user-run, not done yet. No tag exists; gh CLI not installed.
+
+- **Prompt (2026-06-22):** add https://doanimation.kindreddo.com/ and https://dotracking.kindreddo.com/
+  - JS-rendered; identified via kindreddo.com = free Kindred creative tools. DoAnimation (browser frame-by-frame 2D anim, layers/onion-skin, GIF/MP4, local files) → §12 `2d-animation-software/02`. DoTracking (browser animation production tracker: episodes/scenes/shot status/revisions, local) → §12 `pipeline-software/02` next to Kitsu. Both `software`/`Free`/`web`. Validation ✓ 426, 0 errors. Uncommitted.

@@ -277,3 +277,19 @@ entries:
         - procedural
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
+  - name: DoTracking
+    url: https://dotracking.kindreddo.com/
+    description: Browser animation production tracker. Episodes, scenes, shot status, revisions. Files stay local.
+    license: Free
+    entry_type: software
+    best_for: Free animation production tracking
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Tracking
+      - Browser
+    url_last_verified: '2026-06-22'
+    url_status: ok

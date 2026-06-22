@@ -146,3 +146,21 @@ entries:
         - stylus-support
     dual_listed_in:
       - art-design-visual-storytelling/drawing-painting-3d
+  - name: DoAnimation
+    url: https://doanimation.kindreddo.com/
+    description: Browser frame-by-frame 2D animation. Layers, onion skinning, GIF/MP4 export. Files stay local.
+    license: Free
+    entry_type: software
+    best_for: Browser 2D animation
+    tags:
+      platform:
+        - web
+      workflow:
+        - animation
+      output:
+        - illustration
+    readme_tags:
+      - Browser
+      - 2D Animation
+    url_last_verified: '2026-06-22'
+    url_status: ok
