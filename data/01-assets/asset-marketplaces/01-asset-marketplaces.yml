@@ -129,6 +129,23 @@ entries:
         - generalist
       platform:
         - web
+  - name: SplatMart
+    url: https://www.splatmart.com
+    description: Marketplace for buying and selling Gaussian splat scenes (PLY, SOGS, SPZ).
+    entry_type: marketplace
+    license: Paid
+    readme_tags:
+      - Gaussian Splatting
+      - 3D Scans
+    url_last_verified: '2026-06-27'
+    url_status: ok
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
   - name: Quixel Bridge
     url: https://quixel.com/bridge
     description: Desktop app linking Megascans to Blender and other DCC tools.
