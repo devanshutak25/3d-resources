@@ -27,8 +27,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Film Animation
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Houdini
     url: https://www.sidefx.com/products/houdini/
     description: Procedural node-based DCC for VFX, simulation, and FX.
@@ -59,8 +59,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Procedural FX
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: ZBrush
     url: https://www.maxon.net/en/zbrush
     description: Industry-standard digital sculpting from Maxon.
@@ -84,7 +84,7 @@ entries:
     readme_tags:
       - Industry Standard
       - iPad Version
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Marvelous Designer
     url: https://www.marvelousdesigner.com/
@@ -109,8 +109,8 @@ entries:
     readme_tags:
       - Garment Sim
       - Cloth
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Style3D
     url: https://atelier.style3d.com/en/home
     description: 3D garment design and cloth simulation. Clo3D/Marvelous competitor with FBX/OBJ export to standard CG pipelines.
@@ -133,8 +133,8 @@ entries:
     readme_tags:
       - Fashion
       - Garment Sim
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Substance 3D Modeler
     url: https://www.adobe.com/products/substance3d/apps/modeler.html
     description: Adobe's VR and desktop sculpting tool.
@@ -156,7 +156,7 @@ entries:
     readme_tags:
       - VR Sculpt
       - Adobe Suite
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
   - name: Moi3D
     url: http://moi3d.com/
@@ -179,8 +179,8 @@ entries:
     readme_tags:
       - NURBS
       - Perpetual License
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Nomad Sculpt
     url: https://nomadsculpt.com/
     description: Mobile digital sculpting for iPad and Android.
@@ -206,7 +206,7 @@ entries:
     readme_tags:
       - iPad Sculpt
       - One-time Purchase
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: SketchUp
     url: https://www.sketchup.com/
@@ -230,8 +230,8 @@ entries:
       - Arch-Viz
       - Easy Learning Curve
     notes: SketchUp for Schools free for K-12 students/educators. No general free tier as of 2026.
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Modo
     url: https://www.foundry.com/products/modo
     description: Foundry's 3D modeling, texturing, rendering package.
@@ -253,8 +253,8 @@ entries:
     readme_tags:
       - Foundry
       - Modeling Focus
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Daz 3D
     url: https://www.daz3d.com/
     description: Character-focused 3D software w/ large marketplace of figures and morphs. Free core app.
@@ -274,7 +274,7 @@ entries:
     readme_tags:
       - Characters
       - Huge Marketplace
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Crocotile 3D
     url: https://prominent.itch.io/crocotile3d
@@ -292,8 +292,8 @@ entries:
     readme_tags:
       - Pixel/Tile 3D
       - Indie
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Cinema 4D
     url: https://www.maxon.net/en/cinema-4d
     description: Maxon's motion-graphics and procedural 3D DCC; ships with Redshift and 5 Team Render nodes.
@@ -318,7 +318,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Motion Graphics
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 3ds Max
     url: https://www.autodesk.com/products/3ds-max
@@ -345,9 +345,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Archviz/Games
-    url_last_verified: '2026-06-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: MotionBuilder
     url: https://www.autodesk.com/products/motionbuilder
     description: Autodesk real-time character animation and mocap editing platform.
@@ -369,9 +368,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Mocap
-    url_last_verified: '2026-06-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - software-reference/virtual-production-software
   - name: Reallusion iClone
@@ -395,8 +393,8 @@ entries:
     readme_tags:
       - Real-time
       - Character Anim
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Reallusion Character Creator
     url: https://www.reallusion.com/character-creator/
     description: Character creation and auto-rigging pipeline feeding iClone, Unreal, Unity, Blender, Omniverse.
@@ -417,8 +415,8 @@ entries:
     readme_tags:
       - Character Pipeline
       - Auto-Rig
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Plasticity
     url: https://www.plasticity.xyz/
     description: NURBS/CAD-style modeler tuned for artists and concept work; perpetual license w/ 12-month maintenance.
@@ -440,8 +438,8 @@ entries:
     readme_tags:
       - NURBS
       - Concept/Hard-Surface
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - software-reference/misc-3d-utilities-software
   - name: LightWave 3D
@@ -466,8 +464,8 @@ entries:
     readme_tags:
       - Veteran DCC
       - Broadcast/VFX
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Autodesk VRED
     url: https://www.autodesk.com/products/vred
     description: OEM-standard automotive design review and photoreal viz.
@@ -488,9 +486,8 @@ entries:
     readme_tags:
       - Automotive Std
       - OEM
-    url_last_verified: '2026-06-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Autodesk Alias
     url: https://www.autodesk.com/products/alias
     description: Class-A surface modeling standard for automotive exterior design.
@@ -508,7 +505,7 @@ entries:
     readme_tags:
       - Class-A Surfacing
       - Auto Std
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: broken
     deprecated: true
   - name: ICEM Surf
@@ -528,8 +525,8 @@ entries:
     readme_tags:
       - Class-A
       - Siemens
-    url_last_verified: '2026-06-01'
-    url_status: broken
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     deprecated: true
   - name: Lumiscaphe Patchwork 3D
     url: https://www.lumiscaphe.com/
@@ -550,8 +547,8 @@ entries:
     readme_tags:
       - Auto Config
       - Real-time
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: MatrixGold (Gemvision)
     url: https://gemvision.com/matrixgold/
     description: Rhino-based parametric jewelry CAD. Successor to Matrix/RhinoGold.
@@ -569,8 +566,8 @@ entries:
     readme_tags:
       - Jewelry CAD
       - Rhino-based
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: JewelCAD
     url: https://www.jcadcam.com/
     description: Long-standing dedicated jewelry CAD package.
@@ -587,7 +584,7 @@ entries:
     readme_tags:
       - Jewelry CAD
       - Classic
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
   - name: 3Design
     url: https://www.3design.com/
@@ -606,8 +603,8 @@ entries:
     readme_tags:
       - Jewelry CAD
       - Parametric
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Firestorm CAD
     url: https://firestormcad.com/
     description: Rhino plugin for parametric jewelry design.
@@ -624,8 +621,8 @@ entries:
     readme_tags:
       - Rhino Plugin
       - Jewelry
-    url_last_verified: '2026-06-01'
-    url_status: broken
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     deprecated: true
   - name: Clayoo
     url: https://www.clayoo.com/
@@ -645,7 +642,7 @@ entries:
     readme_tags:
       - Rhino SubD
       - Organic
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
   - name: Marmoset Toolbag
     url: https://marmoset.co/toolbag/
@@ -670,7 +667,7 @@ entries:
     readme_tags:
       - PBR Viewer
       - Baking
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - software-reference/render-engines
@@ -692,8 +689,8 @@ entries:
     readme_tags:
       - Fashion Std
       - Garment Sim
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Browzwear VStitcher
     url: https://browzwear.com/
     description: Enterprise 3D garment design and tech-pack pipeline.
@@ -712,8 +709,8 @@ entries:
     readme_tags:
       - Enterprise
       - Tech Packs
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Optitex
     url: https://www.optitex.com/
     description: 2D/3D pattern-making and virtual fit.
@@ -730,8 +727,8 @@ entries:
     readme_tags:
       - Pattern + Fit
       - Industrial
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: ChyronHego (Chyron)
     url: https://chyron.com/
     description: PRIME graphics engine. News and sports lower-thirds, AR/VR studio.
@@ -748,8 +745,8 @@ entries:
     readme_tags:
       - Broadcast Graphics
       - PRIME
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Ross XPression
     url: https://www.rossvideo.com/products-services/acquisition-production/graphics/xpression-motion-graphics/
     description: Real-time motion graphics and data-driven CG for live broadcast.
@@ -766,8 +763,8 @@ entries:
     readme_tags:
       - Broadcast
       - Data-Driven
-    url_last_verified: '2026-06-01'
-    url_status: broken
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     deprecated: true
   - name: Avid Maestro
     url: https://www.avid.com/maestro
@@ -785,8 +782,8 @@ entries:
     readme_tags:
       - Avid
       - Virtual Sets
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Unreal MetaHuman Animator
     url: https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-animator-in-unreal-engine
     description: iPhone/HMC-driven facial performance capture targeting MetaHuman characters. Free with Unreal.
@@ -807,8 +804,8 @@ entries:
     readme_tags:
       - MetaHuman
       - Free w/ Unreal
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Faceware Studio
     url: https://facewaretech.com/software/studio/
     description: Real-time face capture and streaming software.
@@ -826,5 +823,5 @@ entries:
     readme_tags:
       - Face Cap
       - Real-time
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable

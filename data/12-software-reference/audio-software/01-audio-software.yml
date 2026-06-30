@@ -22,8 +22,8 @@ entries:
     readme_tags:
       - Open Source
       - Recording
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Adobe Audition
     url: https://www.adobe.com/products/audition.html
     description: Professional audio workstation.
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Audio Restoration
       - Adobe Suite
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
   - name: Reaper
     url: https://www.reaper.fm/
@@ -72,8 +72,8 @@ entries:
     readme_tags:
       - Full DAW
       - Affordable
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Fairlight
     url: https://www.blackmagicdesign.com/products/davinciresolve/fairlight
     description: Professional audio built into DaVinci Resolve.
@@ -94,8 +94,8 @@ entries:
     readme_tags:
       - Film Post
       - Free with Resolve
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Soundly
     url: https://getsoundly.com/
     description: Desktop SFX platform with curated library and local library management.
@@ -116,8 +116,8 @@ entries:
     readme_tags:
       - SFX Library
       - Desktop
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Bfxr
     url: https://www.bfxr.net/
     description: Retro and chiptune SFX generator (browser and desktop).
@@ -139,8 +139,8 @@ entries:
     readme_tags:
       - Retro/8-bit
       - Generator
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Wavewright
     url: https://store.steampowered.com/app/4149720/Wavewright/
     description: Modular music sandbox inspired by analog synthesizers (Early Access).
@@ -158,8 +158,8 @@ entries:
     readme_tags:
       - Modular Synth
       - Early Access
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: FMOD
     url: https://www.fmod.com/
     description: Industry-standard adaptive audio. Free for indie <$200k.
@@ -174,8 +174,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Indie-Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - game-development/game-dev-audio-middleware
   - name: Wwise
@@ -192,8 +192,8 @@ entries:
     readme_tags:
       - AAA
       - Free Tier
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - game-development/game-dev-audio-middleware
   - name: Steam Audio
@@ -212,8 +212,8 @@ entries:
     readme_tags:
       - Spatial Audio
       - Valve Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - game-development/game-dev-audio-middleware
   - name: Ableton Live
@@ -232,8 +232,8 @@ entries:
     readme_tags:
       - Electronic Std
       - Live
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: FL Studio
     url: https://www.image-line.com/
     description: Pattern-based DAW with lifetime free updates.
@@ -250,8 +250,8 @@ entries:
     readme_tags:
       - Lifetime Updates
       - Pattern DAW
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Logic Pro
     url: https://www.apple.com/logic-pro/
     description: Apple pro DAW for macOS and iPad.
@@ -268,8 +268,8 @@ entries:
     readme_tags:
       - Apple
       - macOS
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Pro Tools
     url: https://www.avid.com/pro-tools
     description: Industry standard for post-production audio mixing and finishing.
@@ -289,8 +289,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Post Mixing
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Studio One
     url: https://www.presonus.com/products/Studio-One
     description: PreSonus drag-flow DAW.
@@ -306,8 +306,8 @@ entries:
     readme_tags:
       - PreSonus
       - Drag Workflow
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Cubase
     url: https://www.steinberg.net/cubase/
     description: Steinberg DAW with strong MIDI and scoring.
@@ -323,8 +323,8 @@ entries:
     readme_tags:
       - Steinberg
       - MIDI/Scoring
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Bitwig Studio
     url: https://www.bitwig.com/
     description: DAW with deep modular Grid synthesis engine.
@@ -341,8 +341,8 @@ entries:
     readme_tags:
       - Modular Grid
       - Cross-Platform
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Ardour
     url: https://ardour.org/
     description: OSS multitrack DAW.
@@ -361,8 +361,8 @@ entries:
     readme_tags:
       - Open Source
       - GPL
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: LMMS
     url: https://lmms.io/
     description: Free FL-style DAW, cross-platform.
@@ -381,8 +381,8 @@ entries:
     readme_tags:
       - Open Source
       - FL-style
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Cakewalk by BandLab
     url: https://www.bandlab.com/products/cakewalk
     description: Full Sonar successor, free on Windows.
@@ -397,8 +397,8 @@ entries:
     readme_tags:
       - Free
       - Windows
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: VCV Rack
     url: https://vcvrack.com/
     description: Open-source Eurorack modular synthesizer emulator. Free core; paid Pro and premium modules.
@@ -419,8 +419,8 @@ entries:
     readme_tags:
       - Modular Synth
       - Eurorack
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Pure Data (Pd)
     url: https://puredata.info/
     description: Open-source visual programming environment for audio, MIDI, and multimedia.
@@ -440,8 +440,8 @@ entries:
     readme_tags:
       - Visual DSP
       - BSD
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Max/MSP (Cycling '74)
     url: https://cycling74.com/products/max
     description: Visual patcher for audio, MIDI, and video (Jitter).
@@ -458,8 +458,8 @@ entries:
     readme_tags:
       - Visual Patcher
       - Cycling 74
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: SuperCollider
     url: https://supercollider.github.io/
     description: Server-based audio synthesis and livecoding language.
@@ -477,8 +477,8 @@ entries:
     readme_tags:
       - Livecoding
       - GPL
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Sonic Pi
     url: https://sonic-pi.net/
     description: Code-based music livecoding environment, education-friendly.
@@ -498,8 +498,8 @@ entries:
     readme_tags:
       - Livecoding
       - Education
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: TidalCycles
     url: https://tidalcycles.org/
     description: Haskell-based pattern livecoding for algoraves.
@@ -517,8 +517,8 @@ entries:
     readme_tags:
       - Algoraves
       - Pattern
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Strudel
     url: https://strudel.cc/
     description: Browser TidalCycles port (JS).
@@ -534,8 +534,8 @@ entries:
     readme_tags:
       - Browser
       - Tidal Port
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: iZotope RX
     url: https://www.izotope.com/en/products/rx.html
     description: Industry-standard audio restoration suite.
@@ -555,8 +555,8 @@ entries:
     readme_tags:
       - Audio Repair
       - Industry Std
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: FabFilter Pro Suite
     url: https://www.fabfilter.com/
     description: Pro EQ, compressor, reverb, and limiter plugins (Pro-Q, Pro-L).
@@ -572,8 +572,8 @@ entries:
     readme_tags:
       - Pro Plugins
       - Mixing
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Krotos
     url: https://www.krotosaudio.com/
     description: Performance-driven foley and monster vox plugins (Reformer, Dehumaniser).
@@ -592,8 +592,8 @@ entries:
     readme_tags:
       - Foley
       - Creature Vox
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Sound Particles
     url: https://soundparticles.com/
     description: CGI-style 3D sound design with thousands of simultaneous sources. Big in immersive/film audio.
@@ -612,8 +612,8 @@ entries:
     readme_tags:
       - 3D Sound
       - Immersive
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: GameSynth (Tsugi)
     url: https://tsugi-studio.com/web/en/products-gamesynth.html
     description: Node-based procedural SFX generator for games.
@@ -630,8 +630,8 @@ entries:
     readme_tags:
       - Procedural SFX
       - Games
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Dolby Atmos Renderer
     url: https://professional.dolby.com/
     description: Reference Dolby Atmos production renderer.
@@ -650,8 +650,8 @@ entries:
     readme_tags:
       - Atmos
       - Reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Flux Spat Revolution
     url: https://www.flux.audio/project/spat-revolution/
     description: IRCAM-derived object-based spatializer for immersive mixing.
@@ -670,8 +670,8 @@ entries:
     readme_tags:
       - IRCAM
       - Spatial
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Resonance Audio
     url: https://resonance-audio.github.io/
     description: Google's open-source ambisonic spatial audio SDK.
@@ -687,8 +687,8 @@ entries:
     readme_tags:
       - Google
       - Apache 2.0
-    url_last_verified: '2026-06-01'
-    url_status: broken
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     deprecated: true
   - name: FotoSketcher
     url: https://fotosketcher.com/
@@ -704,5 +704,5 @@ entries:
     readme_tags:
       - Freeware
       - Photo Stylize
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable

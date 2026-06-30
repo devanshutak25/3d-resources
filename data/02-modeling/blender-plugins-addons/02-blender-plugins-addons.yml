@@ -4,7 +4,7 @@ entries:
     description: Blender addon listing IOR values for materials.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -24,7 +24,7 @@ entries:
     description: Command-line tools for Blender renders.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -44,7 +44,7 @@ entries:
     description: Octane GPU render engine for Blender, free tier.
     entry_type: plugin
     license: Freemium
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -65,7 +65,7 @@ entries:
     description: Align and distribute objects in Blender with many options.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -84,7 +84,7 @@ entries:
     description: Blender-integrated game engine written in Rust.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -104,8 +104,8 @@ entries:
     description: Production modeling toolset for Blender.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       output:
         - generalist
@@ -123,7 +123,7 @@ entries:
     description: Studio lighting system for Blender.
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -142,7 +142,7 @@ entries:
     description: UV manipulation toolset that fills gaps in Blender's UV tools.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -161,7 +161,7 @@ entries:
     description: Generates rows of books on shelves in Blender.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -180,7 +180,7 @@ entries:
     description: Interactive blockout and object creation tool for Blender.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -199,7 +199,7 @@ entries:
     description: Toolkit for building interactive 3D web experiences from Blender.
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -220,7 +220,7 @@ entries:
     description: Grows natural 3D trees for visualisation and film, with seasonal simulation.
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -240,7 +240,7 @@ entries:
     description: Free automatic UV-packing addon for Blender.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -259,7 +259,7 @@ entries:
     description: Exports a Blender scene to a Godot Engine project.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -277,7 +277,7 @@ entries:
     description: High-quality liquid simulation plugin for Blender.
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -297,7 +297,7 @@ entries:
     description: Jet fluid-engine simulator integration for Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -320,7 +320,7 @@ entries:
     description: Creates URDF, SDF and SMURF robot models in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -340,7 +340,7 @@ entries:
     description: Loads data into Blender and builds visualisations.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -358,7 +358,7 @@ entries:
     description: Loads and visualizes CSV data within Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -376,7 +376,7 @@ entries:
     description: Generates a maze on any mesh in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -397,7 +397,7 @@ entries:
     description: Procedurally generates 3D spaceships.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -420,7 +420,7 @@ entries:
     description: Procedural tree-model generation in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -441,7 +441,7 @@ entries:
     description: Real-time cloth-like behavior on meshes in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -463,7 +463,7 @@ entries:
     description: Jewelry design toolkit add-on for Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -483,7 +483,7 @@ entries:
     description: Building-generation addon for Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -503,7 +503,7 @@ entries:
     description: Adds two edge-loop operators for cleaner topology in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -523,7 +523,7 @@ entries:
     description: Base-mesh sculpting tools for Blender, ZSphere-style.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -545,7 +545,7 @@ entries:
     description: GoZ-style bridge for ZBrush-Blender mesh interchange.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -565,7 +565,7 @@ entries:
     description: Precisely align, move, and measure objects and mesh parts.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -585,7 +585,7 @@ entries:
     description: Adds randomized geometry to any mesh in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -608,7 +608,7 @@ entries:
     description: Automates mesh slicing in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -630,7 +630,7 @@ entries:
     description: Iterative poking tool for Blender meshes.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -652,7 +652,7 @@ entries:
     description: Slices a Blender object and exports SVG sections for laser cutting.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -674,7 +674,7 @@ entries:
     description: Free animation helper tools for Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -694,7 +694,7 @@ entries:
     description: Machine-learning automatic rotoscoping addon for Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -717,7 +717,7 @@ entries:
     description: 2D cutout animation suite for Blender, similar to Spine or Spriter.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:

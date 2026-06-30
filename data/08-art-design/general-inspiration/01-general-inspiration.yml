@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Giger
       - Dark Sci-Fi
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
     tags:
       workflow:
@@ -24,7 +24,7 @@ entries:
     readme_tags:
       - Curated
       - Creative
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: broken
     tags:
       platform:
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - Geometric
       - Design Article
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -53,7 +53,7 @@ entries:
     readme_tags:
       - Film + Art
       - Thread
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -70,7 +70,7 @@ entries:
     readme_tags:
       - Mecha
       - Tumblr
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -87,7 +87,7 @@ entries:
     readme_tags:
       - Design Blog
       - Tumblr
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -102,7 +102,7 @@ entries:
     readme_tags:
       - Brand Activations
       - Ideas
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -119,7 +119,7 @@ entries:
     readme_tags:
       - Anime
       - Visual
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -136,7 +136,7 @@ entries:
     readme_tags:
       - Graphic Design
       - Blog
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -151,7 +151,7 @@ entries:
     readme_tags:
       - Dark
       - Creative
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -166,7 +166,7 @@ entries:
     readme_tags:
       - Tiles
       - Patterns
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -181,7 +181,7 @@ entries:
     readme_tags:
       - Contemporary
       - Design
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -196,8 +196,8 @@ entries:
     readme_tags:
       - Feed
       - Curated
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - concept
@@ -211,7 +211,7 @@ entries:
     readme_tags:
       - Illustration
       - Pro Blog
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -230,7 +230,7 @@ entries:
     readme_tags:
       - Animation Archive
       - Mirror
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -253,6 +253,8 @@ entries:
         - film-vfx
       platform:
         - web
+    url_last_verified: '2026-06-30'
+    url_status: ok
   - name: Houdini on Dribbble
     url: https://dribbble.com/tags/houdini
     description: Houdini work tagged on Dribbble for inspiration.
@@ -266,6 +268,8 @@ entries:
         - motion-graphics
       platform:
         - web
+    url_last_verified: '2026-06-30'
+    url_status: ok
   - name: Instagram
     url: https://www.instagram.com/explore/tags/xuxoe/
     description: Motion and 3D work under the xuxoe hashtag.
@@ -279,6 +283,8 @@ entries:
         - motion-graphics
       platform:
         - web
+    url_last_verified: '2026-06-30'
+    url_status: ok
   - name: FX References (Sylvain Nouveau)
     url: http://www.sylvain-nouveau.com/reffx/misc/
     description: Collected real-world FX reference footage.
@@ -294,6 +300,8 @@ entries:
         - film-vfx
       platform:
         - web
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: mr5ivethou5and
     url: https://mr5ivethou5and.tumblr.com/archive
     description: Tumblr archive of motion and abstract visual inspiration.
@@ -306,6 +314,8 @@ entries:
         - motion-graphics
       platform:
         - web
+    url_last_verified: '2026-06-30'
+    url_status: ok
   - name: Generative Art Timeline
     url: https://timeline.lerandom.art/
     description: Interactive timeline of generative art history.
@@ -321,6 +331,8 @@ entries:
         - generalist
       platform:
         - web
+    url_last_verified: '2026-06-30'
+    url_status: ok
   - name: 5 Decades of Digital Art History
     url: https://www.youtube.com/playlist?list=PLyzOQqMHGyYTsz7-jlj-SeOm6iC0v-7B3
     description: YouTube playlist surveying 50 years of digital art.
@@ -334,6 +346,8 @@ entries:
         - generalist
       platform:
         - web
+    url_last_verified: '2026-06-30'
+    url_status: ok
   - name: Awwwards
     url: https://www.awwwards.com/
     description: Web design and interaction awards gallery.
@@ -347,7 +361,7 @@ entries:
     readme_tags:
       - Web Design
       - Awards
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Behance
     url: https://www.behance.net/
@@ -361,7 +375,7 @@ entries:
         - web
     readme_tags:
       - Portfolios
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: coverjunkie
     url: https://coverjunkie.com/
@@ -375,7 +389,7 @@ entries:
         - web
     readme_tags:
       - Editorial
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Creative Boom
     url: https://www.creativeboom.com/
@@ -389,7 +403,7 @@ entries:
         - web
     readme_tags:
       - Design News
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: D&AD Archive
     url: https://www.dandad.org/
@@ -403,7 +417,7 @@ entries:
         - web
     readme_tags:
       - Awards
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Dribbble
     url: https://dribbble.com/
@@ -417,7 +431,7 @@ entries:
         - web
     readme_tags:
       - Portfolios
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Supahero
     url: https://www.supahero.io/
@@ -431,7 +445,7 @@ entries:
         - web
     readme_tags:
       - Web Design
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: The Brand Identity
     url: https://the-brandidentity.com/
@@ -445,7 +459,7 @@ entries:
         - web
     readme_tags:
       - Branding
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Vimeo Staff Picks
     url: https://vimeo.com/channels/staffpicks
@@ -459,7 +473,7 @@ entries:
         - web
     readme_tags:
       - Short Films
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: deck.gallery
     url: https://deck.gallery/
@@ -473,5 +487,5 @@ entries:
         - web
     readme_tags:
       - Decks
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok

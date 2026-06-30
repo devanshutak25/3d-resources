@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - Motion Graphics
       - Toadstorm
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - learning-community-industry/communities-forums
@@ -28,7 +28,7 @@ entries:
     readme_tags:
       - Official
       - Extended Tools
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - Open Source
       - HDAs
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - Free Tools
       - MvM
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Pipeline
       - Oliver Hotz
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -118,7 +118,7 @@ entries:
     readme_tags:
       - UE Bridge
       - Performance
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: EarthMesh Houdini
     url: https://github.com/xjorma/EarthMeshHoudini
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - Google Earth
       - Real-world
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -160,7 +160,7 @@ entries:
     readme_tags:
       - Sparse Fluids
       - GPU
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Tighe Rzankowski's Tools
     url: https://gumroad.com/trzanko
@@ -170,7 +170,7 @@ entries:
     readme_tags:
       - Feathers
       - Grooming
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -189,7 +189,7 @@ entries:
     readme_tags:
       - Animation Tools
       - Valve Alum
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -210,7 +210,7 @@ entries:
     readme_tags:
       - Misc Tools
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -230,7 +230,7 @@ entries:
     readme_tags:
       - Flipbook→MP4
       - CLI
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -251,7 +251,7 @@ entries:
     readme_tags:
       - Fractals
       - Generative
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -276,7 +276,7 @@ entries:
     readme_tags:
       - Node-based
       - Physics
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -300,7 +300,7 @@ entries:
     readme_tags:
       - Tech Art
       - SideFX
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -319,7 +319,7 @@ entries:
     readme_tags:
       - Toolkit
       - JDB
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -339,7 +339,7 @@ entries:
     readme_tags:
       - Cheatsheet
       - Attributes
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -358,7 +358,7 @@ entries:
     readme_tags:
       - VDB
       - Painter
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -390,7 +390,7 @@ entries:
         - win
         - mac
         - linux
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: CamRig Pro
     url: https://shirmanor.gumroad.com/l/camrigpro
@@ -411,7 +411,7 @@ entries:
         - win
         - mac
         - linux
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: VEX Manager
     url: https://shirmanor.gumroad.com/l/vex_manager_v1
@@ -435,14 +435,14 @@ entries:
         - vex
     dual_listed_in:
       - modeling-sculpting-texturing/houdini-vex-coding
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Wormhole Content Browser
     url: https://wormholetools.gumroad.com/l/whbrowser
     description: Custom Houdini UI for browsing, previewing, and importing content.
     entry_type: tool
     license: Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -470,6 +470,8 @@ entries:
       tech:
         - houdini
         - houdini-addon
+    url_last_verified: '2026-06-30'
+    url_status: ok
   - name: Houdini-scripts (JoseZalez)
     url: https://github.com/JoseZalez/Houdini-scripts
     description: Python scripts and utilities for Houdini.
@@ -483,3 +485,5 @@ entries:
         - web
       tech:
         - houdini
+    url_last_verified: '2026-06-30'
+    url_status: ok

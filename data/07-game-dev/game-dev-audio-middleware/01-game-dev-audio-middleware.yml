@@ -4,7 +4,7 @@ entries:
     description: Plugin for integrating Wwise assets for realtime playback in-engine.
     license: Freemium
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:

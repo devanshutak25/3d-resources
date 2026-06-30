@@ -12,7 +12,7 @@ entries:
     readme_tags:
       - Community
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Kenney
     url: https://kenney.nl/
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - CC0
       - Beloved
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: itch.io Assets
     url: https://itch.io/game-assets
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - Indie
       - Mixed Free/Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Kay Lousberg
     url: https://kaylousberg.com/
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - CC0
       - Low-Poly
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Pixel Frog
     url: https://pixelfrog-assets.itch.io/
@@ -76,7 +76,7 @@ entries:
     readme_tags:
       - Pixel Art
       - High-Quality
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Craftpix
     url: https://craftpix.net/freebies/
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - 2D Assets
       - Freemium
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Synty Studios
     url: https://syntystore.com/
@@ -106,7 +106,7 @@ entries:
     readme_tags:
       - Stylized
       - Low-Poly
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: GameDev Market
     url: https://www.gamedevmarket.net/
@@ -121,7 +121,7 @@ entries:
     readme_tags:
       - Marketplace
       - Varied
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Humble Bundle Game Dev
     url: https://www.humblebundle.com/software
@@ -131,7 +131,7 @@ entries:
     readme_tags:
       - Bundles
       - Periodic Deals
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -151,14 +151,14 @@ entries:
     readme_tags:
       - Curated
       - 2D/3D/Audio
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Liberated Pixel Cup assets
     url: http://lpc.opengameart.org
     description: Free graphic assets from the Liberated Pixel Cup (LPC) on the OpenGameArt forums.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -170,7 +170,7 @@ entries:
     description: Procedural tile creator for pixel-art games.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -194,7 +194,7 @@ entries:
     readme_tags:
       - Free
       - 2D
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Oryx Design Lab
     url: http://oryxdesignlab.com/
@@ -209,7 +209,7 @@ entries:
     readme_tags:
       - Cheap
       - Royalty-Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: UnluckyStudio
     url: https://unluckystudio.com/category/freegameart/
@@ -224,7 +224,7 @@ entries:
     readme_tags:
       - Free
       - 2D
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Reiner's Tilesets
     url: http://www.reinerstilesets.de/
@@ -239,8 +239,8 @@ entries:
     readme_tags:
       - Classic
       - 2D + 3D
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: 420 Pixel Art Icons for RPGs
     url: http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453
     description: Set of 420 RPG icons, free for commercial use.
@@ -254,13 +254,13 @@ entries:
     readme_tags:
       - RPG Icons
       - Commercial-OK
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Asset Creation Toolset
     url: https://gumroad.com/l/hPXIh
     description: Blender addon bundling tools for game asset creation.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -284,7 +284,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Kenney Game Assets All-in-1
     url: https://kenney.itch.io/kenney-game-assets
@@ -299,7 +299,7 @@ entries:
     readme_tags:
       - 2D + 3D
       - Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Sprout Lands - Asset Pack
     url: https://cupnooble.itch.io/sprout-lands-asset-pack
@@ -314,7 +314,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Tiny RPG Character Asset Pack v1.03
     url: https://zerie.itch.io/tiny-rpg-character-asset-pack
@@ -329,7 +329,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Tiny Farm RPG - Asset Pack
     url: https://emanuelledev.itch.io/farm-rpg
@@ -344,7 +344,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 2D Pixel Art Character Template Asset Pack
     url: https://zegley.itch.io/2d-platformermetroidvania-asset-pack
@@ -359,7 +359,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Universal Animation Library
     url: https://quaternius.itch.io/universal-animation-library
@@ -377,7 +377,7 @@ entries:
     readme_tags:
       - Animations
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Brackeys' Platformer Bundle
     url: https://brackeysgames.itch.io/brackeys-platformer-bundle
@@ -392,7 +392,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 'KayKit - Character Pack : Adventurers'
     url: https://kaylousberg.itch.io/kaykit-adventurers
@@ -410,7 +410,7 @@ entries:
     readme_tags:
       - 3D Low-Poly
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 'Fx Effects Pixel Art #91 - 64x64 | 32x32'
     url: https://fx-express.itch.io/fx-effects-pixel-art-91-64x64-32x32
@@ -425,7 +425,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Cute Fantasy RPG - 16x16 top down pixel art asset pack
     url: https://kenmi-art.itch.io/cute-fantasy-rpg
@@ -440,7 +440,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Ninja Adventure - Asset Pack
     url: https://pixel-boy.itch.io/ninja-adventure-asset-pack
@@ -455,7 +455,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Mystic Woods - 16x16 Pixel Art Asset Pack
     url: https://game-endeavor.itch.io/mystic-woods
@@ -470,7 +470,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Pixel Art Top Down - Basic
     url: https://cainos.itch.io/pixel-art-top-down-basic
@@ -485,7 +485,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 2D Pixel Dungeon Asset Pack
     url: https://pixel-poem.itch.io/dungeon-assetpuck
@@ -500,7 +500,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 'Tech Dungeon: Roguelite - Asset Pack'
     url: https://trevor-pupkin.itch.io/tech-dungeon-roguelite
@@ -515,7 +515,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Stylized Nature MegaKit
     url: https://quaternius.itch.io/stylized-nature-megakit
@@ -532,7 +532,7 @@ entries:
     readme_tags:
       - 3D Models
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Pixel Planet Generator
     url: https://deep-fold.itch.io/pixel-planet-generator
@@ -547,7 +547,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Free - Pixel Art Asset Pack - Topdown Tileset - 16x16 Sprites
     url: https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites
@@ -562,7 +562,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: KayKit - Forest Nature Pack
     url: https://kaylousberg.itch.io/kaykit-forest
@@ -579,7 +579,7 @@ entries:
     readme_tags:
       - 3D Low-Poly
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Ansimuz Legacy Collection
     url: https://ansimuz.itch.io/gothicvania-patreon-collection
@@ -594,7 +594,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Modern Farm - RPG Tileset
     url: https://limezu.itch.io/modernfarm
@@ -609,7 +609,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Pixel Adventure
     url: https://pixelfrog-assets.itch.io/pixel-adventure-1
@@ -624,7 +624,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Sprout Lands - UI Pack
     url: https://cupnooble.itch.io/sprout-lands-ui-pack
@@ -639,7 +639,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Cup Nooble
     url: https://cupnooble.itch.io/
@@ -654,5 +654,5 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-05'
+    url_last_verified: '2026-06-30'
     url_status: ok

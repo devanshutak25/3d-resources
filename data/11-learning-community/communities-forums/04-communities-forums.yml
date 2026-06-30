@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Houdini
       - Resources
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Houdini
       - Discord
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Houdini
       - Courses
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Tutorials
       - Marketplace
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Houdini
       - Unreal
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -100,7 +100,7 @@ entries:
     readme_tags:
       - Houdini
       - Gamedev
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -115,7 +115,7 @@ entries:
     readme_tags:
       - Houdini
       - Courses
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -143,7 +143,7 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -156,11 +156,12 @@ entries:
     readme_tags:
       - Houdini
       - Patreon
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: broken
     tags:
       platform:
         - web
+    deprecated: true
   - name: Bismuth Consultancy (MLOPs)
     url: https://github.com/Bismuth-Consultancy-BV/MLOPs
     description: Discord for MLOPs (machine learning toolkit for Houdini) by Bismuth Consultancy + Entagma.
@@ -169,7 +170,7 @@ entries:
     readme_tags:
       - Houdini
       - ML
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -182,7 +183,7 @@ entries:
     readme_tags:
       - C4D
       - Slack
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -199,7 +200,7 @@ entries:
     readme_tags:
       - C4D
       - Discord
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -214,7 +215,7 @@ entries:
     readme_tags:
       - C4D
       - Discord
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -231,7 +232,7 @@ entries:
     readme_tags:
       - India
       - Motion Design
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -246,7 +247,7 @@ entries:
     readme_tags:
       - Motion Design
       - Slack
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -261,7 +262,7 @@ entries:
     readme_tags:
       - Motion Design
       - Education
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -276,7 +277,7 @@ entries:
     readme_tags:
       - Motion Design
       - Discord
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -291,7 +292,7 @@ entries:
     readme_tags:
       - Motion Design
       - Discord
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -306,7 +307,7 @@ entries:
     readme_tags:
       - Cavalry
       - Motion Design
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -323,7 +324,7 @@ entries:
     readme_tags:
       - Motion Design
       - AE Tools
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -338,7 +339,7 @@ entries:
     readme_tags:
       - Motion Design
       - Tutorials
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -353,7 +354,7 @@ entries:
     readme_tags:
       - Gamedev
       - Discord
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -368,7 +369,7 @@ entries:
     readme_tags:
       - Gamedev
       - Discord
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -383,7 +384,7 @@ entries:
     readme_tags:
       - Gamedev
       - Indie
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -398,7 +399,7 @@ entries:
     readme_tags:
       - Game Art
       - Character Art
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -413,7 +414,7 @@ entries:
     readme_tags:
       - Indie
       - Gamedev
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -428,7 +429,7 @@ entries:
     readme_tags:
       - Gamedev
       - YouTube
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -443,7 +444,7 @@ entries:
     readme_tags:
       - India
       - Gamedev
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -458,7 +459,7 @@ entries:
     readme_tags:
       - Game Design
       - YouTube
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -473,7 +474,7 @@ entries:
     readme_tags:
       - Indie
       - Gamedev
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -488,7 +489,7 @@ entries:
     readme_tags:
       - Stylized
       - Game Art
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -503,7 +504,7 @@ entries:
     readme_tags:
       - Steam
       - VR
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -518,7 +519,7 @@ entries:
     readme_tags:
       - Unreal
       - Discord
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -533,7 +534,7 @@ entries:
     readme_tags:
       - WebVR
       - W3C
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -548,7 +549,7 @@ entries:
     readme_tags:
       - Virtual Production
       - Discord
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -563,7 +564,7 @@ entries:
     readme_tags:
       - Virtual Production
       - Regional
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -578,7 +579,7 @@ entries:
     readme_tags:
       - Virtual Production
       - VFX
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: broken
     tags:
       output:
@@ -594,7 +595,7 @@ entries:
     readme_tags:
       - XR
       - Developers
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -609,7 +610,7 @@ entries:
     readme_tags:
       - Real-time
       - Events
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -622,7 +623,7 @@ entries:
     readme_tags:
       - Real-time VFX
       - JangaFX
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -640,7 +641,7 @@ entries:
     readme_tags:
       - Unreal
       - Virtual Production
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:

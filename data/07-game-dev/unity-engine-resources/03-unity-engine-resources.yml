@@ -4,7 +4,7 @@ entries:
     description: TCP-based HTTP library for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -25,7 +25,7 @@ entries:
     description: Unity client for the Pomelo distributed Node.js game server.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -46,7 +46,7 @@ entries:
     description: Lightweight socket library for Unity and C# projects.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -67,7 +67,7 @@ entries:
     description: Minimal network manager built on Unity's NetworkManager, focused on message-callback handling for multi-server setups.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -87,7 +87,7 @@ entries:
     description: Makeshift Cloud Firestore C# API for Unity over REST. Basic functions only.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -109,7 +109,7 @@ entries:
     description: Synchronize multiple Unity Timelines over UDP.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -130,7 +130,7 @@ entries:
     description: Partial Go-channel implementation for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -151,7 +151,7 @@ entries:
     description: Real-time voice chat asset for Unity multiplayer.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -170,7 +170,7 @@ entries:
     description: Promise-based HTTP and REST client for Unity, with callback support.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -189,7 +189,7 @@ entries:
     description: REST client for Unity with JSON and XML parsing, including nested arrays and abstract types.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -210,7 +210,7 @@ entries:
     description: Restifizer SDK for Unity to build RESTful services backed by MongoDB.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -231,7 +231,7 @@ entries:
     description: RESTful API client generator for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -252,7 +252,7 @@ entries:
     description: WebSocket client for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -273,7 +273,7 @@ entries:
     description: WebRTC-based networking plugin for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -292,7 +292,7 @@ entries:
     description: Cross-platform WebRTC support for Unity apps.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -313,7 +313,7 @@ entries:
     description: Peer-to-peer networking in Unity using WebRTC with a free signaling server (formerly UnityP2P).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -334,7 +334,7 @@ entries:
     description: JSON Web Token implementation for Unity / .NET 3.5+.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -355,7 +355,7 @@ entries:
     description: Peer-to-peer VoIP for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -374,7 +374,7 @@ entries:
     description: Tiny voice chat implementation for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -395,7 +395,7 @@ entries:
     description: Server-authoritative movement for Unity UNET with client-side prediction and reconciliation.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -416,7 +416,7 @@ entries:
     description: Authoritative movement implementation on top of UNET.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -436,7 +436,7 @@ entries:
     description: Example NAT punchthrough combined with Unity's UNet HLAPI.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -457,7 +457,7 @@ entries:
     description: Client-side-prediction demo in Unity with all network traffic simulated in one instance.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -479,7 +479,7 @@ entries:
     description: Sample Unity TCP client with a C++ (Boost) server.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -500,7 +500,7 @@ entries:
     description: Delaunay/Voronoi library for Unity, with a simple destruction effect.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -522,7 +522,7 @@ entries:
     description: Dynamic loose octree implementation for Unity in C#.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -543,7 +543,7 @@ entries:
     description: Loose octree for Unity in C#, the upstream of the Unity-Technologies fork.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -565,7 +565,7 @@ entries:
     description: Inspector attribute extensions for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -584,7 +584,7 @@ entries:
     description: Attribute that auto-loads components in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -605,7 +605,7 @@ entries:
     description: Attribute that persists field data between Unity play-mode sessions.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -626,7 +626,7 @@ entries:
     description: '[NonNull] attribute for fields and classes in Unity.'
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -647,7 +647,7 @@ entries:
     description: Per-property label widths in the Unity inspector to stop labels getting cut off.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -668,7 +668,7 @@ entries:
     description: PropertyAttribute/PropertyDrawer combo for exposing C# properties in the Unity inspector.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -689,7 +689,7 @@ entries:
     description: Lightweight Unity framework with dependency injection.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -710,7 +710,7 @@ entries:
     description: Lightweight dependency injection container for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -731,7 +731,7 @@ entries:
     description: Reactive ECS framework for Unity built on UniRx.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -750,7 +750,7 @@ entries:
     description: Simple MVVM framework for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -771,7 +771,7 @@ entries:
     description: Unity MVVM framework with data binding, tasks, and localization.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -791,7 +791,7 @@ entries:
     description: MVVM framework for Unity with data binding, localization, and uGUI support.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -810,7 +810,7 @@ entries:
     description: Clean-architecture framework for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -832,7 +832,7 @@ entries:
     description: Editor-driven Unity framework for connecting data and events, designer-friendly.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -853,7 +853,7 @@ entries:
     description: Unity library for building illustrated interactive-fiction and visual-novel games.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -872,7 +872,7 @@ entries:
     description: Game framework for Unity that encapsulates common game modules and standardizes the development process.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -893,7 +893,7 @@ entries:
     description: Free Unity framework adding common game systems and features.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -914,7 +914,7 @@ entries:
     description: Starter project template based on UnityGameFramework.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -936,7 +936,7 @@ entries:
     description: Thin application framework for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -955,7 +955,7 @@ entries:
     description: Application framework for C# Unity game projects.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -976,7 +976,7 @@ entries:
     description: Redux-style state architecture for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:

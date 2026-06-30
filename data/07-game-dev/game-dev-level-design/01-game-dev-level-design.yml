@@ -18,14 +18,14 @@ entries:
     readme_tags:
       - Blender Addon
       - Tile-based 3D
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Tiled2Unity
     url: https://github.com/Seanba/Tiled2Unity
     description: Export [Tiled](http://www.mapeditor.org) Map Editor (TMX) files into Unity.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -44,7 +44,7 @@ entries:
     description: A small library to import and render tilemap in Unity2D, only support TMX file format.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -63,7 +63,7 @@ entries:
     description: Work in progress prototype for the Chisel Level Editor, for Unity.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -83,7 +83,7 @@ entries:
     description: A runtime level editor for Unity3D.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -104,7 +104,7 @@ entries:
     description: Tile based level editor for Unity
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -123,7 +123,7 @@ entries:
     description: Blender add-on for building tile-based low-poly scenes with paint and map-editor tools.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:

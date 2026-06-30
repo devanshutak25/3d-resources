@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Unity
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Fish Net
     url: https://fish-networking.gitbook.io/
@@ -41,7 +41,7 @@ entries:
     readme_tags:
       - Unity
       - High-Perf
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Colyseus
     url: https://colyseus.io/
@@ -63,14 +63,14 @@ entries:
     readme_tags:
       - Node.js
       - Multiplayer
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 'GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course'
     url: https://www.gamedev.tv/p/unrealmultiplayer
     description: Course on building Unreal Engine multiplayer games in C++.
     license: Paid
     entry_type: tutorial
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -88,7 +88,7 @@ entries:
     description: Free open-source multiplayer networking system with good Unity integration.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -110,7 +110,7 @@ entries:
     description: Unity multiplayer packages and samples.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -127,7 +127,7 @@ entries:
     description: Fast-Paced UDP Client-Server implementation.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -146,7 +146,7 @@ entries:
     description: 'Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta''s Multiplayer Network Demo in Unity C# as Networked using Lidgren Network.'
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -165,7 +165,7 @@ entries:
     description: Open-source Bomberman multiplayer game made in Unreal Engine 5.
     license: Open Source
     entry_type: inspiration
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -180,7 +180,7 @@ entries:
     description: Colyseus Multiplayer SDK for Unreal Engine
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -202,7 +202,7 @@ entries:
     readme_tags:
       - Unity
       - Networking
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:

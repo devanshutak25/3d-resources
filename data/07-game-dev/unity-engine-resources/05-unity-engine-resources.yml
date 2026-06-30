@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - bezier
       - spline
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - roslyn
       - analyzer
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -49,7 +49,7 @@ entries:
     readme_tags:
       - timer
       - delay
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -71,7 +71,7 @@ entries:
     readme_tags:
       - gif
       - decoder
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - mesh
       - simplification
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - mesh
       - official
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -133,7 +133,7 @@ entries:
     readme_tags:
       - mesh
       - slicer
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -155,7 +155,7 @@ entries:
     readme_tags:
       - mesh
       - decimation
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -178,7 +178,7 @@ entries:
     readme_tags:
       - gradient
       - color
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -200,7 +200,7 @@ entries:
     readme_tags:
       - performance
       - profiling
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -222,7 +222,7 @@ entries:
     readme_tags:
       - wfc
       - procedural
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -245,7 +245,7 @@ entries:
     readme_tags:
       - stealth
       - lighting
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -267,7 +267,7 @@ entries:
     readme_tags:
       - pedometer
       - mobile
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -289,7 +289,7 @@ entries:
     readme_tags:
       - signals
       - messaging
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -311,7 +311,7 @@ entries:
     readme_tags:
       - coop
       - level-design
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -333,7 +333,7 @@ entries:
     readme_tags:
       - framework
       - utilities
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -356,7 +356,7 @@ entries:
     readme_tags:
       - scripts
       - library
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -378,7 +378,7 @@ entries:
     readme_tags:
       - inventory
       - framework
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -400,7 +400,7 @@ entries:
     readme_tags:
       - dialogue
       - framework
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -422,7 +422,7 @@ entries:
     readme_tags:
       - random
       - library
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -445,7 +445,7 @@ entries:
     readme_tags:
       - scriptable-objects
       - architecture
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -465,7 +465,7 @@ entries:
     readme_tags:
       - editor
       - search
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -487,7 +487,7 @@ entries:
     readme_tags:
       - utilities
       - library
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: broken
     tags:
       output:
@@ -511,7 +511,7 @@ entries:
     readme_tags:
       - version
       - build
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -531,7 +531,7 @@ entries:
     license: Open Source
     readme_tags:
       - clipboard
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -553,7 +553,7 @@ entries:
     readme_tags:
       - scene
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -575,7 +575,7 @@ entries:
     readme_tags:
       - documentation
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -598,7 +598,7 @@ entries:
     readme_tags:
       - color
       - palette
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -620,7 +620,7 @@ entries:
     readme_tags:
       - settings
       - utility
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -642,7 +642,7 @@ entries:
     readme_tags:
       - png
       - encoder
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -664,7 +664,7 @@ entries:
     readme_tags:
       - io
       - assets
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -686,7 +686,7 @@ entries:
     readme_tags:
       - scriptable-objects
       - variables
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -708,7 +708,7 @@ entries:
     readme_tags:
       - autosave
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -728,7 +728,7 @@ entries:
     readme_tags:
       - ecs
       - flux
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -750,7 +750,7 @@ entries:
     readme_tags:
       - utilities
       - scripts
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -772,7 +772,7 @@ entries:
     readme_tags:
       - undo
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -795,7 +795,7 @@ entries:
     readme_tags:
       - jwt
       - auth
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -817,7 +817,7 @@ entries:
     readme_tags:
       - deformer
       - mesh
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -837,7 +837,7 @@ entries:
     readme_tags:
       - sample
       - official
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -857,7 +857,7 @@ entries:
     readme_tags:
       - easing
       - tween
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -879,7 +879,7 @@ entries:
     readme_tags:
       - semver
       - versioning
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -899,7 +899,7 @@ entries:
     readme_tags:
       - handles
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -921,7 +921,7 @@ entries:
     readme_tags:
       - mesh
       - triangulator
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -943,7 +943,7 @@ entries:
     readme_tags:
       - ruler
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -965,7 +965,7 @@ entries:
     readme_tags:
       - gizmos
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -987,7 +987,7 @@ entries:
     readme_tags:
       - defines
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -1009,7 +1009,7 @@ entries:
     readme_tags:
       - command-palette
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -1031,7 +1031,7 @@ entries:
     readme_tags:
       - command-palette
       - editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -1054,7 +1054,7 @@ entries:
     readme_tags:
       - everyplay
       - mobile
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -1075,7 +1075,7 @@ entries:
     readme_tags:
       - export
       - image-sequence
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:

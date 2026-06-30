@@ -6,7 +6,7 @@ entries:
     entry_type: reference
     readme_tags:
       - Topology
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Blender
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - Blender
       - Retopo
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -65,7 +65,7 @@ entries:
     readme_tags:
       - Blender
       - Auto Retopo
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -87,7 +87,7 @@ entries:
     readme_tags:
       - YouTube
       - Tutorial
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:

@@ -14,9 +14,8 @@ entries:
     readme_tags:
       - Mechanical CAD
       - Industry Standard
-    url_last_verified: '2026-06-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: PTC Creo
     url: https://www.ptc.com/en/products/creo
     description: Parametric mechanical CAD with simulation, generative design, and additive workflows.
@@ -32,8 +31,8 @@ entries:
     readme_tags:
       - Parametric CAD
       - Industry Standard
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Siemens NX
     url: https://plm.sw.siemens.com/en-US/nx/
     description: High-end product engineering CAD/CAM/CAE; NX X is the cloud SaaS variant.
@@ -50,8 +49,8 @@ entries:
     readme_tags:
       - PLM
       - Industry Standard
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: BricsCAD
     url: https://www.bricsys.com/bricscad
     description: AutoCAD-compatible DWG CAD; offers both perpetual and subscription licensing.
@@ -70,8 +69,8 @@ entries:
     readme_tags:
       - DWG-Compatible
       - Cross-Platform
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Shapr3D
     url: https://www.shapr3d.com/
     description: Touch-first parametric/direct CAD on iPad, Vision Pro, Mac, and Windows.
@@ -89,8 +88,8 @@ entries:
     readme_tags:
       - Touch-first
       - Cross-Platform
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: FreeCAD
     url: https://www.freecad.org/
     description: Free open-source parametric CAD.
@@ -112,8 +111,8 @@ entries:
     readme_tags:
       - Parametric
       - Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Onshape Free
     url: https://www.onshape.com/en/products/free
     description: Cloud-based CAD with free hobbyist tier (public projects).
@@ -133,8 +132,8 @@ entries:
     readme_tags:
       - Cloud CAD
       - Collaborative
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Fusion 360 Personal
     url: https://www.autodesk.com/products/fusion-360/personal
     description: Autodesk's CAD/CAM free for personal hobbyist use.
@@ -154,7 +153,7 @@ entries:
     readme_tags:
       - CAD/CAM
       - Personal Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: OpenSCAD
     url: https://openscad.org/
@@ -178,8 +177,8 @@ entries:
     readme_tags:
       - Script-Based
       - Parametric
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: LibreCAD
     url: https://librecad.org/
     description: Free open-source 2D CAD.
@@ -201,8 +200,8 @@ entries:
     readme_tags:
       - 2D CAD
       - Drafting
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: AutoCAD
     url: https://www.autodesk.com/products/autocad
     description: Industry-standard 2D/3D CAD.
@@ -222,8 +221,8 @@ entries:
     readme_tags:
       - Industry Standard
       - 2D/3D Drafting
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: SolidWorks
     url: https://www.solidworks.com/
     description: Mechanical CAD for engineers.
@@ -242,7 +241,7 @@ entries:
     readme_tags:
       - Mechanical CAD
       - Simulation
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
   - name: CATIA
     url: https://www.3ds.com/products/catia
@@ -261,8 +260,8 @@ entries:
     readme_tags:
       - Aerospace
       - Automotive
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Rhino
     url: https://www.rhino3d.com/
     description: NURBS-focused 3D modeling for architecture and product design.
@@ -284,15 +283,15 @@ entries:
     readme_tags:
       - NURBS
       - Grasshopper
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: GrabCAD
     url: https://grabcad.com
     description: Community CAD model library.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       output:
         - product-viz
@@ -301,8 +300,8 @@ entries:
     description: 3D-printing model community.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       output:
         - product-viz
@@ -326,8 +325,8 @@ entries:
     readme_tags:
       - Parametric
       - Lightweight
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Bitbybit
     url: https://bitbybit.dev/
     description: Browser parametric CAD via visual nodes (Rete, Blockly) or Monaco code editor. OCCT, JSCAD, Manifold backends.
@@ -349,8 +348,8 @@ entries:
     readme_tags:
       - Browser
       - Parametric
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: PackCAD
     url: https://packcad.com/
     description: Browser 3D CAD for packaging. Models folded/origami structures with folding simulation.
@@ -367,5 +366,5 @@ entries:
     readme_tags:
       - Browser
       - Packaging
-    url_last_verified: '2026-06-17'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable

@@ -4,7 +4,7 @@ entries:
     description: A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -27,7 +27,7 @@ entries:
     description: Generate gaussian splatting directly from 360 images
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -49,7 +49,7 @@ entries:
     url: https://mrnerf.github.io/awesome-3D-gaussian-splatting/
     description: Curated list of 3D Gaussian Splatting papers, maintained by MrNeRF.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -64,7 +64,7 @@ entries:
     url: https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362
     description: Towards Data Science article. End-to-end overview of Gaussian Splatting.
     entry_type: tutorial
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -79,7 +79,7 @@ entries:
     url: https://www.xuanprada.com/blog/2023/10/22/intro-to-gaussian-splatting
     description: Blog walkthrough of Gaussian Splatting with a Unity plugin demo.
     entry_type: tutorial
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -95,7 +95,7 @@ entries:
     url: https://www.youtube.com/@pixelreconstruct
     description: PixelReconstruct YouTube. Community town hall on Gaussian Splatting tooling.
     entry_type: channel
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -112,7 +112,7 @@ entries:
     url: https://www.youtube.com/@NeuralRendering
     description: Ben Mildenhall
     entry_type: channel
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:

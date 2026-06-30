@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Forum
       - Very Active
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -24,7 +24,7 @@ entries:
     readme_tags:
       - Discord
       - Community
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -41,7 +41,7 @@ entries:
     readme_tags:
       - Discord
       - Procedural
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Reddit
       - Community
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -76,7 +76,7 @@ entries:
     readme_tags:
       - Chinese Content
       - Bilibili
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -93,7 +93,7 @@ entries:
     readme_tags:
       - Tips
       - Archive
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -112,7 +112,7 @@ entries:
     readme_tags:
       - Tips Archive
       - Quick Reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -131,7 +131,7 @@ entries:
     readme_tags:
       - Blog
       - Tools
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -155,6 +155,8 @@ entries:
         - web
       tech:
         - houdini
+    url_last_verified: '2026-06-30'
+    url_status: ok
   - name: Awesome Houdini (wyhinton)
     url: https://github.com/wyhinton/AwesomeHoudini
     description: Curated list of Houdini resources, tools, and learning.
@@ -168,3 +170,5 @@ entries:
         - web
       tech:
         - houdini
+    url_last_verified: '2026-06-30'
+    url_status: ok

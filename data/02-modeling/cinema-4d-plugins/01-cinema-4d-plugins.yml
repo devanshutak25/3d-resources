@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - VFX Tutorials
       - Andrew Kramer
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: AEC4D
     url: https://aescripts.com/aec4d/
@@ -24,7 +24,7 @@ entries:
     readme_tags:
       - AE Bridge
       - Workflow
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:

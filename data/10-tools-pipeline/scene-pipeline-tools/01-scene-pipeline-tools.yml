@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Dailies
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Prisma
     url: https://github.com/patriciogonzalezvivo/prisma
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Computational Photo
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2024-02-04'
@@ -58,7 +58,7 @@ entries:
     readme_tags:
       - Community
       - Pipeline
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Field3D
     url: https://magnuswrenninge.com/field3d
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - Voxel Lib
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
     tags:
       output:
@@ -100,7 +100,7 @@ entries:
     readme_tags:
       - DCC Bridge
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2022-05-02'
@@ -122,7 +122,7 @@ entries:
     readme_tags:
       - Build
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2021-06-08'
@@ -144,7 +144,7 @@ entries:
     readme_tags:
       - VFX Libs
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Cross3D
     url: https://github.com/blurstudio/cross3d
@@ -164,7 +164,7 @@ entries:
     readme_tags:
       - DCC Bridge
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2017-10-28'
@@ -187,7 +187,7 @@ entries:
     readme_tags:
       - Maya
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2021-04-27'
@@ -210,7 +210,7 @@ entries:
     readme_tags:
       - Maya
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2023-05-20'
@@ -230,7 +230,7 @@ entries:
     readme_tags:
       - 3ds Max
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2018-10-27'
@@ -253,7 +253,7 @@ entries:
     readme_tags:
       - Maya
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Easy3D
     url: https://github.com/LiangliangNan/Easy3D
@@ -273,7 +273,7 @@ entries:
     readme_tags:
       - 3D Lib
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Ramses
     url: https://github.com/RxLaboratory/Ramses
@@ -293,7 +293,7 @@ entries:
     readme_tags:
       - Asset Mgmt
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     archived: true
   - name: Stalker
@@ -314,7 +314,7 @@ entries:
     readme_tags:
       - Asset Mgmt
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Example of Python scripts for 3D Studio Max, Maya and Blender
     url: https://github.com/p4vv37/3D_Software_and_Python/
@@ -336,7 +336,7 @@ entries:
     readme_tags:
       - Examples
       - Python
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2018-07-02'
@@ -360,7 +360,7 @@ entries:
     readme_tags:
       - Blender
       - Synthetic Data
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: MayaCharm
     url: https://github.com/cmcpasserby/MayaCharm
@@ -381,7 +381,7 @@ entries:
     readme_tags:
       - Maya
       - IDE
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2023-09-22'
@@ -404,7 +404,7 @@ entries:
     readme_tags:
       - Maya
       - IDE
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2021-09-30'
@@ -427,7 +427,7 @@ entries:
     readme_tags:
       - Houdini
       - IDE
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: nuke.vim
     url: https://github.com/heavyimage/nuke.vim
@@ -447,7 +447,7 @@ entries:
     readme_tags:
       - Nuke
       - IDE
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2018-10-29'

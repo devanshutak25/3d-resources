@@ -12,7 +12,7 @@ entries:
     readme_tags:
       - Product Design
       - Manufacturing
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Motion Graphics Pipeline
     url: https://www.maxon.net/
@@ -27,5 +27,5 @@ entries:
     readme_tags:
       - Mograph
       - C4D + AE
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok

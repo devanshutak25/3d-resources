@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Normal Maps
       - Browser
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Materia
     url: https://github.com/Metric/Materia
@@ -41,14 +41,14 @@ entries:
     readme_tags:
       - Open Source
       - Archived
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: TexGraph
     url: https://galloscript.itch.io/texgraph
     description: Procedural texture creation by connecting nodes in a graph.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -66,7 +66,7 @@ entries:
     description: GPU Texture generator using dear imgui for UI.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -90,7 +90,7 @@ entries:
     license: Open Source
     entry_type: tool
     deprecated: true
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -110,7 +110,7 @@ entries:
     description: Standalone tool to remove baked shadows from model textures.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -126,7 +126,7 @@ entries:
     description: Web app for creating textures, bump maps, and CAD hatches.
     license: Freemium
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -141,7 +141,7 @@ entries:
     description: Creates compressed texture files from image sources via CUDA-accelerated compression.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -160,7 +160,7 @@ entries:
     description: Browser shader editor with inline error logs, autocompletion, and model/texture loading.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:

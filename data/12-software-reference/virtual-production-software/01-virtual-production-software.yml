@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - Real-time VFX
       - Broadcast
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - vfx-compositing-virtual-production/virtual-production
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - LED Walls
       - Workflow
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - vfx-compositing-virtual-production/virtual-production
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Broadcast
       - Graphics
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - vfx-compositing-virtual-production/virtual-production
@@ -71,7 +71,7 @@ entries:
     readme_tags:
       - VP Software
       - Real-time
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - vfx-compositing-virtual-production/virtual-production
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - Live Events
       - Real-time
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - vfx-compositing-virtual-production/virtual-production
@@ -109,7 +109,7 @@ entries:
     readme_tags:
       - Lighting Console
       - Show Control
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Aximmetry
     url: https://aximmetry.com/
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - Free Tier
       - Unreal
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Brainstorm InfinitySet
     url: https://www.brainstorm3d.com/products/infinityset/
@@ -146,7 +146,7 @@ entries:
     readme_tags:
       - Virtual Sets
       - AR
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Vu Studios
     url: https://www.vu.app/
@@ -162,7 +162,7 @@ entries:
     readme_tags:
       - VP Stages
       - Service
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: ARwall
     url: https://www.arwall.co/
@@ -178,7 +178,7 @@ entries:
     readme_tags:
       - Indie VP
       - LED Stages
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Mo-Sys StarTracker
     url: https://www.mo-sys.com/products/camera-tracking/startracker/
@@ -195,9 +195,8 @@ entries:
     readme_tags:
       - Camera Tracking
       - Mo-Sys
-    url_last_verified: '2026-06-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Stype RedSpy / StypeKit
     url: https://stype.tv/
     description: Camera tracking system for VP and broadcast.
@@ -213,7 +212,7 @@ entries:
     readme_tags:
       - Camera Tracking
       - Stype
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Ncam Reality
     url: https://www.ncam-tech.com/
@@ -230,7 +229,7 @@ entries:
     readme_tags:
       - Markerless
       - On-Set
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: ZEISS CinCraft Scenario
     url: https://www.zeiss.com/consumer-products/us/cincraft/scenario.html
@@ -246,7 +245,7 @@ entries:
     readme_tags:
       - Lens-aware
       - ZEISS
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: broken
     deprecated: true
   - name: Lightcraft Previzion / Jetset
@@ -264,7 +263,7 @@ entries:
     readme_tags:
       - On-Set Previs
       - Lightcraft
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
   - name: Brompton Tessera
     url: https://www.bromptontech.com/
@@ -279,7 +278,7 @@ entries:
     readme_tags:
       - LED Processor
       - Industry Std
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Megapixel Helios
     url: https://megapixelvr.com/
@@ -293,7 +292,7 @@ entries:
     readme_tags:
       - HDR LED
       - Megapixel
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: ROE Visual
     url: https://roevisual.com/
@@ -308,7 +307,7 @@ entries:
     readme_tags:
       - LED Panels
       - VP
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Vicon
     url: https://www.vicon.com/
@@ -325,7 +324,7 @@ entries:
     readme_tags:
       - Optical Mocap
       - Industry Std
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: OptiTrack
     url: https://optitrack.com/
@@ -344,7 +343,7 @@ entries:
     readme_tags:
       - Optical Mocap
       - Motive
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Xsens MVN (Movella)
     url: https://www.movella.com/products/motion-capture
@@ -361,7 +360,7 @@ entries:
     readme_tags:
       - IMU Suit
       - Movella
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Rokoko Smartsuit Pro
     url: https://www.rokoko.com/
@@ -378,7 +377,7 @@ entries:
     readme_tags:
       - IMU Suit
       - Affordable
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Sony Mocopi
     url: https://www.sony.net/Products/mocopi-dev/en/
@@ -395,7 +394,7 @@ entries:
     readme_tags:
       - Mobile Mocap
       - 6-Sensor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Manus
     url: https://www.manus-meta.com/
@@ -412,7 +411,7 @@ entries:
     readme_tags:
       - Mocap Gloves
       - VR
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: StretchSense
     url: https://stretchsense.com/
@@ -428,7 +427,7 @@ entries:
     readme_tags:
       - Soft Sensor
       - Hands
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Faceware
     url: https://facewaretech.com/
@@ -445,7 +444,7 @@ entries:
     readme_tags:
       - Face Cap HW + SW
       - Pro
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Mark Roberts Motion Control (Bolt / Milo / Cyclops)
     url: https://www.mrmoco.com/
@@ -463,7 +462,7 @@ entries:
     readme_tags:
       - Motion Control
       - Bolt
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Smode
     url: https://smode.fr/
@@ -473,7 +472,7 @@ entries:
     readme_tags:
       - Real-time
       - Video Mapping
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:

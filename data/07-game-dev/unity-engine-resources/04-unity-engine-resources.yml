@@ -3,7 +3,7 @@ entries:
     url: https://github.com/dimmpixeye/Actors-Unity3d-Framework
     description: Decouples data from behavior in Unity.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -25,7 +25,7 @@ entries:
     url: https://github.com/immersivecognition/unity-experiment-framework
     description: Framework for running human behavior experiments in Unity.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -45,7 +45,7 @@ entries:
     url: https://github.com/ByronMayne/Weaver
     description: Code-weaving framework for Unity, based on Fody.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -67,7 +67,7 @@ entries:
     url: https://github.com/yasgamesdev/MOBA_CSharp_Unity
     description: MOBA game framework for Unity with a Unity-independent server that runs on Linux.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -89,7 +89,7 @@ entries:
     url: https://github.com/nidaynere/easymoba
     description: MOBA game template for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -111,7 +111,7 @@ entries:
     url: https://github.com/Fydar/RPGCore
     description: Framework for building RPG games and mechanics in Unity.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -131,7 +131,7 @@ entries:
     url: https://github.com/UserR00T/UniversalUnityHooks
     description: Framework for hooking into and modifying methods in Unity games via DLLs.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -153,7 +153,7 @@ entries:
     url: https://github.com/DanielEverland/ScriptableObject-Architecture
     description: Makes ScriptableObjects a core part of your Unity architecture.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -176,7 +176,7 @@ entries:
     url: https://github.com/KonH/UDBase
     description: Module-based Unity game template where controllers can be swapped without changing project source.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -199,7 +199,7 @@ entries:
     url: https://github.com/Arkatufus/Akka.Unity.Sample
     description: Sample running Akka.NET in Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -221,7 +221,7 @@ entries:
     url: https://github.com/lordofduct/spacepuppy-unity-framework-3.0
     description: Collection of tools for making games in Unity.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -243,7 +243,7 @@ entries:
     url: https://github.com/jedybg/yaSingleton
     description: Singleton pattern for Unity using ScriptableObjects instead of MonoBehaviour.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -265,7 +265,7 @@ entries:
     url: https://github.com/UnityPatterns/Signals
     description: Editor-driven signal/event system for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -287,7 +287,7 @@ entries:
     url: https://github.com/kleber-swf/Unity-Singleton-MonoBehaviour
     description: Singleton pattern implementation for Unity MonoBehaviours.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -309,7 +309,7 @@ entries:
     url: https://github.com/densylkin/QuickPool
     description: Simple object pooling toolkit for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -331,7 +331,7 @@ entries:
     url: https://github.com/prime31/RecyclerKit
     description: Object pool manager for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -353,7 +353,7 @@ entries:
     url: https://github.com/thefuntastic/unity-object-pool
     description: Object pool and manager for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -375,7 +375,7 @@ entries:
     url: https://github.com/Mukarillo/UnityPooling
     description: Optimized object pooling for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -397,7 +397,7 @@ entries:
     url: https://github.com/TarasOsiris/unity3d-prefab-pool
     description: Simple prefab pool for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -419,7 +419,7 @@ entries:
     url: https://github.com/imxzjv/UnityObjectPooler
     description: Simple object pool for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -441,7 +441,7 @@ entries:
     url: https://github.com/deniszykov/msgpack-unity3d
     description: MessagePack and JSON serializer for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -461,7 +461,7 @@ entries:
     url: https://github.com/neuecc/MessagePack-CSharp
     description: Fast MessagePack serializer for C# (.NET, Unity, Xamarin).
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -481,7 +481,7 @@ entries:
     url: https://github.com/E-K/MessagePackGridView
     description: MessagePack data viewer built on MessagePack-CSharp and Unity TreeView.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -503,7 +503,7 @@ entries:
     url: https://github.com/bitcraftCoLtd/protobuf3-for-unity
     description: Protocol Buffers v3 runtime for Unity (.NET 3.5).
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -525,7 +525,7 @@ entries:
     url: https://github.com/m2q1n9/sproto-Unity
     description: Demo of using sproto-csharp in Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -547,7 +547,7 @@ entries:
     url: https://github.com/TheSniperFan/unityserializer-ng
     description: Revival of Mike Talbot's discontinued Unity Serializer (Unity 5).
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -569,7 +569,7 @@ entries:
     url: https://github.com/mrzapp/openfile
     description: Open-source serialization for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -591,7 +591,7 @@ entries:
     url: https://github.com/mtschoen/JSONObject
     description: JSONObject parsing library for Unity.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -613,7 +613,7 @@ entries:
     url: https://github.com/emotitron/BitpackingTools
     description: Bitpacking and serialization libraries behind the NetworkSyncTransform and TransformCrusher Unity assets.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -635,7 +635,7 @@ entries:
     url: https://github.com/winddyhe/knight-windjson
     description: JSON parser for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -657,7 +657,7 @@ entries:
     url: https://github.com/Cippman/Unity-InterfaceReference
     description: Serializable wrapper that holds a reference to an interface in Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -679,7 +679,7 @@ entries:
     url: https://github.com/HolyShovelSoft/log4net.unity
     description: log4net helpers and a UnityEngine.Debug appender for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -699,7 +699,7 @@ entries:
     url: https://github.com/stillwwater/command_terminal
     description: In-game console and command terminal for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -721,7 +721,7 @@ entries:
     url: https://github.com/peeweek/net.peeweek.console
     description: Interactive runtime console for Unity, distributed as a package.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -743,7 +743,7 @@ entries:
     url: https://github.com/proletariatgames/CUDLR
     description: Console for Unity debugging and logging remotely.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -765,7 +765,7 @@ entries:
     url: https://github.com/chiuan/TTConsole
     description: Runtime debug console for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -787,7 +787,7 @@ entries:
     url: https://github.com/Sacred-Seed-Studio/Unity-File-Debug
     description: Enhanced debug logging for Unity, with JSON/CSV export and an HTML viewer.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -809,7 +809,7 @@ entries:
     url: https://github.com/aliessmael/Unity-Logs-Viewer
     description: View editor console logs inside the running game.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -831,7 +831,7 @@ entries:
     url: https://github.com/ManlyMarco/RuntimeUnityEditor
     description: In-game inspector and debugging tools for Unity applications.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -851,7 +851,7 @@ entries:
     url: https://github.com/flamacore/Unity-RuntimeCodeExecuter
     description: Executes arbitrary code at runtime via the .NET 2.0 library, aimed at Unity.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -873,7 +873,7 @@ entries:
     url: https://github.com/spouliot/gendarme
     description: Mono rule-based static analysis tool, usable on Unity project assemblies.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -895,7 +895,7 @@ entries:
     url: https://github.com/geniikw/CoroutineChain
     description: Chainable coroutine helper for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -917,7 +917,7 @@ entries:
     url: https://github.com/tomblind/unity-routines
     description: Coroutine replacement for Unity with hierarchical routines and pooling.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -939,7 +939,7 @@ entries:
     url: https://github.com/TorVestergaard/UnityAsyncRoutines
     description: Lightweight async coroutine library for Unity.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -961,7 +961,7 @@ entries:
     url: https://github.com/PimDeWitte/UnityMainThreadDispatcher
     description: Thread-safe way to run actions on Unity's main thread.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -983,7 +983,7 @@ entries:
     url: https://github.com/jacksondunstan/UnityNativeScripting
     description: Write Unity scripts in C++.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1005,7 +1005,7 @@ entries:
     url: https://github.com/neuecc/LINQ-to-GameObject-for-Unity
     description: Traverse the GameObject hierarchy using LINQ.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1025,7 +1025,7 @@ entries:
     url: https://github.com/svermeulen/Unity3dAsyncAwaitUtil
     description: Helpers that make async/await easier to use in Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1047,7 +1047,7 @@ entries:
     url: https://github.com/GameBuildingBlocks/UnityComponent
     description: Resource and component management helpers for Unity.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1069,7 +1069,7 @@ entries:
     url: https://github.com/eppz/Unity.Library.eppz
     description: Collection of utility libraries for Unity.
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     license: Open Source
     readme_tags:

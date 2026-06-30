@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - CC0
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Poly Haven HDRIs
     url: https://polyhaven.com/hdris
@@ -35,7 +35,7 @@ entries:
     readme_tags:
       - CC0
       - 16K
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: HDRI Skies
     url: https://hdri-skies.com/
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Sky HDRIs
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: HDR Maps
     url: https://hdrmaps.com/freebies/
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - Free Packs
       - Studio/Outdoor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Adobe Stock HDRI
     url: https://stock.adobe.com/search?k=hdri+studio
@@ -86,7 +86,7 @@ entries:
     readme_tags:
       - Studio
       - Adobe Stock
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: RenderMan HDRIs
     url: https://renderman.pixar.com/category/111-hdri
@@ -103,7 +103,7 @@ entries:
     readme_tags:
       - Pixar
       - Pro-grade
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: OpenFootage
     url: https://www.openfootage.net/
@@ -121,7 +121,7 @@ entries:
     readme_tags:
       - VFX Plates
       - Backplates
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Maxime Roz HDRI Pack
     url: https://www.maximeroz.com/hdri-free-pack
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - Studio
       - Product-Viz
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: HDRI Hub
     url: https://hdri-hub.com/
@@ -148,7 +148,7 @@ entries:
     readme_tags:
       - High-Quality
       - Backplates
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -171,6 +171,8 @@ entries:
         - generalist
       platform:
         - web
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: No Emotion HDRs
     url: http://noemotionhdrs.net/
     description: Free high-resolution HDRIs sorted by time of day.
@@ -186,3 +188,5 @@ entries:
         - generalist
       platform:
         - web
+    url_last_verified: '2026-06-30'
+    url_status: ok

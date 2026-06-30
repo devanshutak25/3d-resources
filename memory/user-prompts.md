@@ -35,6 +35,18 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 **Answered:** check-links.js is catalog-wide (rewrites every entry). Did targeted HEAD-check of only the 2 new URLs instead (both 200 ok) → set url_status:ok + url_last_verified:2026-06-30 on Mixos + VectorayGen. Offered full sweep as opt-in. Validate ✓ 426.
 
+### 2026-06-30 21:55
+**Prompt:**
+> do a full catalog sweep please
+
+**Answered:** Ran check-links.js on all 3516 URLs → 3076 ok / 375 unreachable (transient, not deprecated) / 65 url_status:broken (19 newly + 46 already-deprecated). Re-verified all 65 with browser UA: ~18 alive false positives (3ds Max, MotionBuilder, VRED, Inventor, ReCap, RV, Flow Capture/Tracking, Domestika, Wonder Studio, HDR Shop, Mo-Sys, Celestia, bsky.art, Fast Palette, IEEE, Field3D, 3D Maths) wrongly deprecated by vendor bot-blocking (checker sends no User-Agent). User chose REPORT ONLY (no corrective edits). Triage written into _maintenance/link-check-2026-06-30.md. Whole sweep diff left uncommitted for user review.
+
+### 2026-06-30 22:10
+**Prompt:**
+> mark unreachable for now
+
+**Answered:** Downgraded 21 false-positive `broken` entries (18 alive + 3 transient) → url_status:unreachable + removed deprecated:true. Excluded Mudbox (legacy) + genuine-dead links. Controlled catalog.js one-off, 16 files, per-URL assertions. Validate ✓ 426.
+
 ---
 
 ### 2026-06-16 21:00

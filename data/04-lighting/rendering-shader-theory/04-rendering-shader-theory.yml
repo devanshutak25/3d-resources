@@ -4,7 +4,7 @@ entries:
     description: Interactive fragment shader tutorial.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -18,7 +18,7 @@ entries:
     description: Explore the math behind shaders.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -32,7 +32,7 @@ entries:
     description: GLSL shaders for use in interactive applications.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -44,7 +44,7 @@ entries:
     description: Guide to reading compiled shader assembly.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -58,7 +58,7 @@ entries:
     description: Hardcore math applied to computer graphics by one of the best-known shader authors.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -72,7 +72,7 @@ entries:
     description: Editor for working on JavaScript code and GLSL vertex/fragment shaders side by side, with organized formatting and highlighting.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -84,7 +84,7 @@ entries:
     description: Introduces the VK_KHR_dynamic_rendering Vulkan extension.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -98,7 +98,7 @@ entries:
     description: Shader editor for the Kick.js WebGL engine.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -110,7 +110,7 @@ entries:
     description: Learn OpenGL chapter on text rendering.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -124,7 +124,7 @@ entries:
     description: Learn OpenGL guest article on skeletal animation.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -138,7 +138,7 @@ entries:
     description: GLSL core tutorial series by Lighthouse3D.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -152,7 +152,7 @@ entries:
     description: Introduces Rotors in Geometric Algebra.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -167,7 +167,7 @@ entries:
     entry_type: reference
     license: Free
     year: 2005
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -181,7 +181,7 @@ entries:
     description: Digital art platform for creative coders (fragment shaders, JavaScript Canvas).
     entry_type: inspiration
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -193,7 +193,7 @@ entries:
     description: TyphoonLabs OpenGL shader designer.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -205,7 +205,7 @@ entries:
     description: Write-up on glslViewer, a live-coding console tool that renders GLSL shaders.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -217,7 +217,7 @@ entries:
     description: Shader artist and educator, main contributor to The Book of Shaders.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -229,7 +229,7 @@ entries:
     description: Memory management chapter from the PBR Book (pbrt).
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -243,7 +243,7 @@ entries:
     description: Textbook on interactive computer graphics with shader-based OpenGL (6th ed.).
     entry_type: reference
     license: Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -258,7 +258,7 @@ entries:
     entry_type: reference
     license: Free
     year: 2005
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -272,7 +272,7 @@ entries:
     description: Learning resources and papers on physics-based animation.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -285,7 +285,7 @@ entries:
     description: Interactive introduction to graphics programming.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -299,7 +299,7 @@ entries:
     description: Tarot-style deck for learning GLSL shaders, each card pairing a visual element with its shader code, ordered simplest to most complex.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -313,7 +313,7 @@ entries:
     description: Three short books explaining path tracing concepts and building a software renderer from scratch.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -327,7 +327,7 @@ entries:
     description: Blog tied to the Real-Time Rendering book series, with rendering techniques, industry news, and research.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -341,7 +341,7 @@ entries:
     description: Book of standalone chapters on various ray tracing topics.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -355,7 +355,7 @@ entries:
     description: Second volume of standalone chapters on ray tracing topics.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -369,7 +369,7 @@ entries:
     description: Collection of intersection algorithms.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -383,7 +383,7 @@ entries:
     description: Blog post on getting started with WebGL 2.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -397,7 +397,7 @@ entries:
     description: Blog post on what is new in WebGL 2.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -411,7 +411,7 @@ entries:
     description: General discussion and showcase for shaders.
     entry_type: community
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -423,7 +423,7 @@ entries:
     description: Free open-source graphics debugger that captures and analyzes frames from DirectX, Vulkan, and OpenGL applications.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -436,7 +436,7 @@ entries:
     description: Introduction to 3D graphics programming covering shaders, math, and post-processing, from Newcastle University.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -450,7 +450,7 @@ entries:
     description: Extensible WebGL-based engine for high-detail 3D visualisation.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -462,7 +462,7 @@ entries:
     description: Online shader editor and asset manager that exports shaders for Three.js, Unity, and other engines, with visual shader editing.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -474,7 +474,7 @@ entries:
     description: Open source home for art made with code (WebGL1/2, JavaScript Canvas, P5.js).
     entry_type: inspiration
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -486,7 +486,7 @@ entries:
     description: Documentation on GLSL.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -498,7 +498,7 @@ entries:
     description: OpenGL ES shading language reference.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -510,7 +510,7 @@ entries:
     description: JavaScript library for interactive procedural 2D/3D shaders, with a built-in raymarcher, SDFs, and boolean operations.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -522,7 +522,7 @@ entries:
     description: Live GLSL shader editor, viewer, and validator.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -535,7 +535,7 @@ entries:
     entry_type: reference
     license: Free
     year: 1996
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -549,7 +549,7 @@ entries:
     description: Modular WebGL shader and graphics tools.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -561,7 +561,7 @@ entries:
     description: Modern shader IDE for programmers and FX artists.
     entry_type: tool
     license: Paid
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -573,7 +573,7 @@ entries:
     description: GLSL shader prototyping tool.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -587,7 +587,7 @@ entries:
     description: Shader glossary by theme.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:

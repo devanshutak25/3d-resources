@@ -22,8 +22,8 @@ entries:
     readme_tags:
       - Manga
       - Frame-by-Frame
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - software-reference/design-software
   - name: Procreate
@@ -49,8 +49,8 @@ entries:
     readme_tags:
       - iPad-native
       - Storyboarding
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - software-reference/design-software
   - name: Aseprite
@@ -76,8 +76,8 @@ entries:
     readme_tags:
       - Pixel Art
       - Sprite Animation
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Toon Boom Harmony
     url: https://www.toonboom.com/products/harmony
     description: Professional 2D animation (studio standard).
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - Studio Standard
       - TV Animation
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Toon Boom Storyboard Pro
     url: https://www.toonboom.com/products/storyboard-pro
@@ -118,7 +118,7 @@ entries:
     readme_tags:
       - Storyboarding
       - Animatics
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Pixel Composer (itch.io)
     url: https://makham.itch.io/pixel-composer
@@ -140,8 +140,8 @@ entries:
     readme_tags:
       - Node-based
       - Pixel VFX
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: OpenToonz
     url: https://opentoonz.github.io/e/
     description: Studio Ghibli's animation engine, open-sourced.
@@ -164,8 +164,8 @@ entries:
     readme_tags:
       - Ghibli Pipeline
       - Traditional 2D
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Pencil2D
     url: https://www.pencil2d.org/
     description: Free lightweight 2D animation.
@@ -190,8 +190,8 @@ entries:
     readme_tags:
       - Lightweight
       - Hand-drawn
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Synfig Studio
     url: https://www.synfig.org/
     description: Free open-source 2D vector animation.
@@ -215,8 +215,8 @@ entries:
     readme_tags:
       - Vector
       - Cutout
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Rive
     url: https://rive.app/
     description: Interactive animation for apps and web.
@@ -240,8 +240,8 @@ entries:
     readme_tags:
       - Interactive
       - UI Animation
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Autograph
     url: https://www.maxon.net/en/autograph
     description: USD-based motion graphics, compositing, and VFX (After Effects alternative). Free for individuals incl. commercial use. Originally Left Angle, now Maxon.
@@ -265,7 +265,7 @@ entries:
     readme_tags:
       - USD
       - Free Commercial
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Cavalry
     url: https://cavalry.scenegroup.co/
@@ -288,7 +288,7 @@ entries:
     readme_tags:
       - Procedural
       - Data-Driven
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Spine (Esoteric Software)
     url: https://esotericsoftware.com/
@@ -310,14 +310,14 @@ entries:
     readme_tags:
       - Skeletal
       - Game Runtimes
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Krita Resources
     url: https://krita.org/en/resources/
     description: Official brushes, textures, templates.
     entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       output:
         - motion-graphics
@@ -325,8 +325,8 @@ entries:
     url: https://assets.clip-studio.com/en-us/
     description: Brushes, materials, 3D models, auto-actions.
     entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       output:
         - motion-graphics
@@ -334,8 +334,8 @@ entries:
     url: https://procreate.com/handbook
     description: Official guide and brush library.
     entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       output:
         - motion-graphics
@@ -343,7 +343,7 @@ entries:
     url: https://www.toonboom.com/community/learn
     description: Official tutorials and documentation.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -352,8 +352,8 @@ entries:
     url: https://www.aseprite.org/docs/
     description: Official documentation and scripting API.
     entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       output:
         - motion-graphics
@@ -361,7 +361,7 @@ entries:
     url: https://github.com/opentoonz/opentoonz
     description: Source, plugins, and documentation.
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -390,8 +390,8 @@ entries:
     readme_tags:
       - OpenToonz Fork
       - Stop Motion
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: DragonBones
     url: http://dragonbones.effecthub.com
     description: Open source 2D skeletal animation. Flash-origin workflow, runtimes for multiple engines.
@@ -408,8 +408,8 @@ entries:
     readme_tags:
       - Open Source
       - 2D Skeletal
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Spriter Pro
     url: https://brashmonkey.com/download-spriter-pro/
     description: Modern tool for sprite animation (2D bone rigging).
@@ -428,8 +428,8 @@ entries:
     readme_tags:
       - Sprite Animation
       - Paid
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: GraphicsGale
     url: https://graphicsgale.com/us/
     description: Pixel art and sprite animation tool (free).
@@ -447,8 +447,8 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Moho (Smith Micro)
     url: https://moho.lostmarble.com/
     description: 2D vector and bone-rigged animation.
@@ -468,8 +468,8 @@ entries:
     readme_tags:
       - Bone Rigging
       - Vector Animation
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Friction
     url: https://friction.graphics/
     description: Free open-source motion graphics and 2D vector animation. After Effects-style workflow.
@@ -493,8 +493,8 @@ entries:
       - AE-alt
     dual_listed_in:
       - motion-graphics-video/motion-graphics-inspiration
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: REXPaint
     url: https://www.gridsagegames.com/rexpaint/
     description: Free ASCII art editor with layers, animation, and palette tools. Built for roguelike and terminal art.
@@ -512,8 +512,8 @@ entries:
     readme_tags:
       - ASCII Art
       - Roguelike
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: AJ Picard
     url: https://www.youtube.com/@ajpicard.design
     description: Complex background animations using SwiftUI & Rive.App
@@ -522,13 +522,14 @@ entries:
     readme_tags:
       - SwiftUI
       - Rive
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: broken
     tags:
       platform:
         - web
       skill:
         - intermediate
+    deprecated: true
   - name: Pointer Tracking Animation Implemented in Webflow
     url: https://www.youtube.com/@jeffamcavoy
     description: How to set up a Rive file with pointer tracking for Webflow implementation.
@@ -537,7 +538,7 @@ entries:
     readme_tags:
       - Rive
       - Webflow
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -549,8 +550,8 @@ entries:
     description: Free Online Pixel Art and Animated Sprite Tool.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -561,8 +562,8 @@ entries:
     description: Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -576,7 +577,7 @@ entries:
     description: Beginner to intermediate tutorial for setting up a Flutter web app with Rive animations.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -591,7 +592,7 @@ entries:
     description: Teddy Bear Animation, create an animated and interactive Login screen.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -605,7 +606,7 @@ entries:
     description: Tutorial on how to add Rive to your Unity games using Noesis.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -619,7 +620,7 @@ entries:
     description: Simple Animated Menu Toggle Button in Rive
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -633,8 +634,8 @@ entries:
     description: Best approach for animation in 2023.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -645,8 +646,8 @@ entries:
     description: Greenshift animation addon allows you to use and configure Rive files directly in the WordPress editor.
     entry_type: reference
     license: Freemium
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -657,8 +658,8 @@ entries:
     description: Techniques to optimize Rive animations in React apps.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -669,8 +670,8 @@ entries:
     description: '"We''ve been playing around with this awesome interactive animation tool called Rive, and it''s blown us away!".'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -681,8 +682,8 @@ entries:
     description: '- Sprinkling some beautiful animations across your app'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -693,8 +694,8 @@ entries:
     description: Learn how to create next-level interactive animations for Webflow websites with Rive.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -707,8 +708,8 @@ entries:
     description: '"Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -719,7 +720,7 @@ entries:
     description: Demonstrating Rive on the Flutter Community live stream for the 2022 Flutter Puzzle Hack.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -731,8 +732,8 @@ entries:
     description: NextJS blog template with Rive to show animated blog thumbnails and syncing scroll to Rive animations deployed on Vercel. [Code](https://github.com/zplata/plant-blog-rive)
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - animation
@@ -752,8 +753,8 @@ entries:
     readme_tags:
       - 2D VFX
       - Sprites
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: TexturePacker
@@ -770,8 +771,8 @@ entries:
     readme_tags:
       - Sprite Sheets
       - Multi-Engine
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: Pixelorama
@@ -791,8 +792,8 @@ entries:
     readme_tags:
       - Pixel Art
       - Godot-built
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: PixelOver
@@ -811,8 +812,8 @@ entries:
     readme_tags:
       - Artwork→Pixel
       - Rigging
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: LibreSprite
@@ -820,8 +821,8 @@ entries:
     description: LibreSprite is an open source fork of Aseprite.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       output:
         - games
@@ -848,7 +849,7 @@ entries:
     readme_tags:
       - Tilesets
       - Pixel Art
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - game-development/game-dev-sprite-vfx

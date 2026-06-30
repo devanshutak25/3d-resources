@@ -4,7 +4,7 @@ entries:
     description: '[🌐 Project Page](https://mrtornado24.github.io/IDE-3D/) | [💻 Code](https://github.com/MrTornado24/IDE-3D)'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -20,7 +20,7 @@ entries:
     description: '[💻 Code](https://github.com/vLAR-group/DM-NeRF)'
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -36,7 +36,7 @@ entries:
     description: '[🌐 Project Page](https://dreamfusion3d.github.io) | [💻 Code](https://github.com/ashawkey/stable-dreamfusion)'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -52,7 +52,7 @@ entries:
     description: '[🌐 Project Page](https://github.com/justimyhxu/awesome-3D-generation/)'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -68,7 +68,7 @@ entries:
     description: '[🌐 Project Page](https://research.nvidia.com/labs/dir/magic3d)'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -84,7 +84,7 @@ entries:
     description: '[🌐 Project Page](https://bluestyle97.github.io/dream3d/)'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -100,7 +100,7 @@ entries:
     description: 3DV 2022 | [[project](https://cvi2.uni.lu/cc3d-ops/)]
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -116,7 +116,7 @@ entries:
     description: Tseng et al., ICRA 2022
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -132,7 +132,7 @@ entries:
     description: Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -148,7 +148,7 @@ entries:
     description: Chng et al., ECCV 2022
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -164,7 +164,7 @@ entries:
     description: Esposito et al., Arxiv 2022
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -180,7 +180,7 @@ entries:
     description: Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF)
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -196,7 +196,7 @@ entries:
     description: Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -212,7 +212,7 @@ entries:
     description: CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)]
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -228,7 +228,7 @@ entries:
     description: SIGGRAPH Asia 2022
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -244,7 +244,7 @@ entries:
     description: Li et al., ICCAD 2022
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -260,7 +260,7 @@ entries:
     description: Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -276,7 +276,7 @@ entries:
     description: Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF)
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -292,7 +292,7 @@ entries:
     description: ICCV 2021 | [[project](http://www.cs.columbia.edu/cg/deepcad/)] [[code](https://github.com/ChrisWu1997/DeepCAD)]
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -308,7 +308,7 @@ entries:
     description: Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF)
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -324,7 +324,7 @@ entries:
     description: Garbin et al., Arxiv 2021
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -340,7 +340,7 @@ entries:
     description: Niemeyer et al., CVPR 2021
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -356,7 +356,7 @@ entries:
     description: Meng et al., Arxiv 2021
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -372,7 +372,7 @@ entries:
     description: Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf)
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -388,7 +388,7 @@ entries:
     description: Tancik et al., CVPR 2021 | [github](https://github.com/tancik/learnit)
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -404,7 +404,7 @@ entries:
     description: Lombardi et al., SIGGRAPH 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -420,7 +420,7 @@ entries:
     description: Kosiorek et al., Arxiv 2021
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -436,7 +436,7 @@ entries:
     description: Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -452,7 +452,7 @@ entries:
     description: ICLR 2021 | [[code](https://github.com/YujiaLiu76/PC2WF)]
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -468,7 +468,7 @@ entries:
     description: Yu et al., CVPR 2021 | [github](https://github.com/sxyu/pixel-nerf)
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -484,7 +484,7 @@ entries:
     description: Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -500,7 +500,7 @@ entries:
     description: Rebain et al., Arxiv 2020
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -516,7 +516,7 @@ entries:
     description: Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf)
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -532,7 +532,7 @@ entries:
     description: Trevithick and Yang, Arxiv 2020 | [github](https://github.com/alextrevithick/GRF)
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -548,7 +548,7 @@ entries:
     description: Zhang et al., Arxiv 2020 | [github](https://github.com/Kai-46/nerfplusplus)
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -564,7 +564,7 @@ entries:
     description: Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -580,7 +580,7 @@ entries:
     description: ECCV 2020 | [[project](https://hippogriff.github.io/parsenet/)] [[code](https://github.com/Hippogriff/parsenet-codebase)]
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -596,7 +596,7 @@ entries:
     description: ICML 2020 | [[code](https://github.com/deepmind/deepmind-research/blob/master/polygen/)]
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -612,7 +612,7 @@ entries:
     description: ICIP 2020 | [[project](https://cvi2.uni.lu/cc3d-dataset/)]
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -628,7 +628,7 @@ entries:
     description: CVPR 2019 | [[code](https://github.com/lingxiaoli94/SPFN)]
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -644,7 +644,7 @@ entries:
     description: Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -660,7 +660,7 @@ entries:
     description: Bao et al., CVPR 2023 | [github](https://github.com/zju3dv/SINE)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -677,7 +677,7 @@ entries:
     entry_type: paper
     license: Free
     year: 2006
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -693,7 +693,7 @@ entries:
     description: ArXiv 2022 paper on integrating text-to-image AI in 3D design workflows.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -711,8 +711,8 @@ entries:
     description: SIGGRAPH course notes on importance sampling for production rendering.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - rendering

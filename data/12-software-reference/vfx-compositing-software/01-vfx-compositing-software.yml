@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Planar Tracking
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Roto/Paint
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - Plugin Suite
       - VFX
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Continuum
     url: https://borisfx.com/products/continuum/
@@ -90,7 +90,7 @@ entries:
     readme_tags:
       - Plugin Suite
       - Broadcast
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Mocha AE
     url: https://borisfx.com/products/mocha-ae/
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - Free w/ AE
       - Planar Tracking
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: broken
     deprecated: true
   - name: Boris FX Optics
@@ -134,7 +134,7 @@ entries:
     readme_tags:
       - Stylize
       - Lens FX
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Boris FX Particle Illusion
     url: https://borisfx.com/products/particle-illusion/
@@ -155,7 +155,7 @@ entries:
     readme_tags:
       - Free
       - Particle Library
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Boris Title Studio
     url: https://borisfx.com/products/continuum/title-studio/
@@ -175,7 +175,7 @@ entries:
     readme_tags:
       - 3D Titles
       - Broadcast
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: broken
     deprecated: true
   - name: Red Giant Complete
@@ -198,7 +198,7 @@ entries:
     readme_tags:
       - Plugin Suite
       - Motion Graphics
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
@@ -222,8 +222,8 @@ entries:
     readme_tags:
       - Face Tracking
       - VFX
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
   - name: Nuke (Foundry)
@@ -248,8 +248,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Node-based
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: DaVinci Resolve Fusion
     url: https://www.blackmagicdesign.com/products/davinciresolve/fusion
     description: Node-based compositing, free with Resolve.
@@ -273,8 +273,8 @@ entries:
     readme_tags:
       - Node-based
       - Free with Resolve
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Natron (community fork)
     url: https://natrongithub.github.io/
     description: Free open-source node compositor, Nuke-like.
@@ -299,8 +299,8 @@ entries:
       - Nuke-like
     dual_listed_in:
       - motion-graphics-video/motion-graphics-inspiration
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: EmberGen
     url: https://jangafx.com/software/embergen/
     description: Real-time volumetric fluid sim (fire, smoke, explosions).
@@ -324,8 +324,8 @@ entries:
     readme_tags:
       - Real-time Sim
       - Fire/Smoke
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: LiquiGen
     url: https://jangafx.com/software/liquigen/
     description: Real-time liquid simulation.
@@ -348,8 +348,8 @@ entries:
     readme_tags:
       - Real-time Sim
       - Liquids
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: IlluGen
     url: https://jangafx.com/software/illugen/
     description: Real-time procedural node-based generator for tiling noise, normal maps, flowmaps, 3D FX meshes, caustics, masks, distortions.
@@ -375,8 +375,8 @@ entries:
     readme_tags:
       - Real-time
       - Procedural Materials
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: GeoGen (JangaFX)
     url: https://jangafx.com/software/geogen/
     description: Real-time terrain generation.
@@ -398,8 +398,8 @@ entries:
     readme_tags:
       - Terrain Gen
       - Real-time
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: After Effects
     url: https://www.adobe.com/products/aftereffects.html
     description: Motion graphics and compositing.
@@ -423,14 +423,14 @@ entries:
     readme_tags:
       - Motion Graphics
       - Adobe Suite
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
   - name: JangaFX Docs
     url: https://docs.jangafx.com/
     description: Official EmberGen/LiquiGen documentation and how-to guides.
     entry_type: reference
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - fx
@@ -442,7 +442,7 @@ entries:
     url: https://www.actionvfx.com/
     description: VFX stock elements (explosions, fire, debris).
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -458,8 +458,8 @@ entries:
     readme_tags:
       - Real-Time
       - Procedural
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       output:
         - motion-graphics
@@ -484,8 +484,8 @@ entries:
     readme_tags:
       - VJ
       - Live Visuals
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
   - name: MadMapper
@@ -502,8 +502,8 @@ entries:
     readme_tags:
       - Projection Mapping
       - Live
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
   - name: Effekseer
@@ -522,8 +522,8 @@ entries:
     readme_tags:
       - Real-time VFX
       - Games
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
   - name: TouchDesigner
@@ -543,8 +543,8 @@ entries:
     readme_tags:
       - Real-time
       - Node-based
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
   - name: Magic Animator
@@ -561,8 +561,8 @@ entries:
     readme_tags:
       - Web
       - Quick Anim
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
   - name: SAC Script Auditor
@@ -586,15 +586,15 @@ entries:
     readme_tags:
       - Nuke Tool
       - Script QC
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Nuke
     url: https://www.foundry.com/products/nuke
     description: Industry-standard node-based compositing software by The Foundry. Free non-commercial version available.
     entry_type: software
     license: Freemium
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - compositing
@@ -611,8 +611,8 @@ entries:
     description: Free node-based compositing software from Blackmagic Design.
     entry_type: software
     license: Free
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - compositing
@@ -629,7 +629,7 @@ entries:
     description: Simple open-source node-based compositing software.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -668,4 +668,4 @@ entries:
       - Vector Fields
       - Free
     url_last_verified: '2026-06-30'
-    url_status: ok
+    url_status: unreachable

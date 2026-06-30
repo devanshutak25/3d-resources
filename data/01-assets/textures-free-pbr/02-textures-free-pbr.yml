@@ -4,7 +4,7 @@ entries:
     description: AMD's free MaterialX-based material library. Download materials or upload your own.
     entry_type: asset-source
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -21,7 +21,7 @@ entries:
     description: Public domain photographic textures, reference images, and cutouts. (CC0)
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -38,7 +38,7 @@ entries:
     description: Free PBR sets of architectural materials, including tile textures.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -55,7 +55,7 @@ entries:
     description: Digital textures for 3D rendering and real-time use.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -85,14 +85,14 @@ entries:
         - pbr
       platform:
         - web
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: The Blendersauce Vault Materials
     url: http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
     description: Free material vault covering bricks, concrete, fabric, metal, nature, plaster, stone, tiles, and wood.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -109,7 +109,7 @@ entries:
     description: Hundreds of high-quality PBR materials. Free tier with a paid library.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -140,3 +140,5 @@ entries:
         - web
       tech:
         - pbr
+    url_last_verified: '2026-06-30'
+    url_status: ok

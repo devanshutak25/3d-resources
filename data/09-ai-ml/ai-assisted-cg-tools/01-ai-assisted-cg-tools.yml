@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Depth/Pose Control
       - Precision
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Dream Textures (Blender)
     url: https://github.com/carson-katri/dream-textures
@@ -34,7 +34,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Local SD
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Comfy UI Blender AI
     url: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
@@ -53,14 +53,14 @@ entries:
     readme_tags:
       - ComfyUI in Blender
       - Addon
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Coplay
     url: https://coplay.dev
     description: AI copilot for Unity.
     license: Freemium
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -77,7 +77,7 @@ entries:
     description: Real-Time Intermediate Flow Estimation for video frame interpolation (ML framerate upscaling) for Nuke.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -97,7 +97,7 @@ entries:
     description: '`Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.'
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -116,7 +116,7 @@ entries:
     description: Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -131,7 +131,7 @@ entries:
     description: Meta's promptable segmentation for images and video. Masks objects across frames from a single click. Useful for rotoscope and matte work.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -153,7 +153,7 @@ entries:
     description: Corridor Crew's open keying tool. AI-driven chroma key for VFX work.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -175,7 +175,7 @@ entries:
     description: SAM-based rotoscope app. Click-to-mask, propagates across frames.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -197,8 +197,8 @@ entries:
     description: Real-time human video matting. Strong alpha mattes with no greenscreen.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
-    url_status: unreachable
+    url_last_verified: '2026-06-30'
+    url_status: ok
     tags:
       workflow:
         - compositing
@@ -219,7 +219,7 @@ entries:
     description: SAM plus XMem for interactive video object tracking and segmentation. Useful for roto and matte propagation.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -241,7 +241,7 @@ entries:
     description: Decoupled video segmentation. Long-form, multi-object roto with text or click prompts.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -263,8 +263,8 @@ entries:
     description: AI character replacement with auto roto, body tracking, and re-lighting from a single video. Now part of Autodesk Flow Studio.
     license: Freemium
     entry_type: tool
-    url_last_verified: '2026-06-01'
-    url_status: broken
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     tags:
       workflow:
         - compositing
@@ -278,13 +278,12 @@ entries:
     readme_tags:
       - Auto Roto
       - Char Replace
-    deprecated: true
   - name: Rotobot
     url: https://www.kognat.com/
     description: Paid AI roto plugin for Nuke and After Effects. Auto-mattes people and objects.
     license: Paid
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -305,7 +304,7 @@ entries:
     description: Meta FAIR point tracker for video. Tracks arbitrary points jointly across frames. Useful for matchmove and roto prep.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -327,7 +326,7 @@ entries:
     description: AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       platform:
@@ -344,7 +343,7 @@ entries:
     description: Python library that generates a stylized rendering from an image.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -361,7 +360,7 @@ entries:
     description: Blender addon that renders an AI image from a text prompt and your scene via Stable Diffusion.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -377,7 +376,7 @@ entries:
     description: Cloud platform for real-time interactive digital humans.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -401,5 +400,5 @@ entries:
     readme_tags:
       - Upscale
       - AI
-    url_last_verified: '2026-06-22'
+    url_last_verified: '2026-06-30'
     url_status: ok

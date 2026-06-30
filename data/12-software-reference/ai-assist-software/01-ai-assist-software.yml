@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - Auto CG Chars
       - USD Export
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -32,7 +32,7 @@ entries:
     readme_tags:
       - Upscale
       - Denoise
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - Creative Upscale
       - Freepik
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -66,7 +66,7 @@ entries:
     readme_tags:
       - AI Skybox
       - 360°
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -75,7 +75,7 @@ entries:
     description: Unity in-editor AI for texture, sprite, and animation generation.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -90,7 +90,7 @@ entries:
     description: Vibe coding platform for creating 3D games and interactive web apps with AI.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -106,7 +106,7 @@ entries:
     entry_type: software
     license: Paid
     best_for: Detail-preserving upscaling
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -130,7 +130,7 @@ entries:
     readme_tags:
       - Open Source
       - Local
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -147,7 +147,7 @@ entries:
         - ai-generative
     readme_tags:
       - Photo Upscale
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools

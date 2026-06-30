@@ -4,7 +4,7 @@ entries:
     description: Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -31,7 +31,7 @@ entries:
     readme_tags:
       - Open Source
       - Node-based
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -47,7 +47,7 @@ entries:
     readme_tags:
       - Epic Games
       - High-Quality
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - GIS Features
       - Pro
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -83,7 +83,7 @@ entries:
     readme_tags:
       - Mobile
       - LiDAR
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -102,7 +102,7 @@ entries:
     readme_tags:
       - Cross-platform
       - Mobile
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -118,7 +118,7 @@ entries:
     readme_tags:
       - Free Lite
       - 50 Photos
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - Free Mobile
       - Gaussian Splat
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -155,7 +155,7 @@ entries:
     readme_tags:
       - Desktop
       - Splat Editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -165,7 +165,7 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Point cloud and mesh processing
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -182,7 +182,7 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Open-source scan toolkit
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -206,7 +206,7 @@ entries:
     readme_tags:
       - Point Clouds
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -216,7 +216,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Photogrammetry asset library
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -232,7 +232,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Free photogrammetry
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -254,7 +254,7 @@ entries:
     readme_tags:
       - Photogrammetry
       - Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning

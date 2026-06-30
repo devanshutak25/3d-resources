@@ -11,7 +11,7 @@ entries:
     readme_tags:
       - Top Leaderboard
       - Native Audio
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - Motion Brushes
       - Consistency
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - OpenAI
       - Sunsetting
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -60,7 +60,7 @@ entries:
     readme_tags:
       - 5min Clips
       - Motion Brush
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -76,7 +76,7 @@ entries:
     readme_tags:
       - Extended Gen
       - Stylized
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Director Model
       - Character Consist
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -108,7 +108,7 @@ entries:
     readme_tags:
       - HDR
       - Atmospheric
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -125,7 +125,7 @@ entries:
     readme_tags:
       - Open Source
       - 14GB VRAM
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -142,7 +142,7 @@ entries:
     readme_tags:
       - Open Source
       - MoE Diffusion
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -160,7 +160,7 @@ entries:
     readme_tags:
       - Open Source
       - Fast
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -176,7 +176,7 @@ entries:
     readme_tags:
       - 16s
       - Human Motion
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -192,7 +192,7 @@ entries:
     readme_tags:
       - Style Modes
       - Consistency
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -208,7 +208,7 @@ entries:
     readme_tags:
       - Ex-DeepMind
       - V2V
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -225,7 +225,7 @@ entries:
     readme_tags:
       - Open Source
       - Genmo
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -242,7 +242,7 @@ entries:
     readme_tags:
       - Open Source
       - Tsinghua
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -260,7 +260,7 @@ entries:
     readme_tags:
       - Top Quality
       - Native Audio
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -278,7 +278,7 @@ entries:
     readme_tags:
       - Filmmaking
       - Scenebuilder
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -296,8 +296,8 @@ entries:
     readme_tags:
       - Pre-production
       - Storyboards
-    url_last_verified: '2026-06-15'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Frameo
@@ -314,7 +314,7 @@ entries:
     readme_tags:
       - Script to Video
       - Timeline
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -332,7 +332,7 @@ entries:
     readme_tags:
       - Cinematography
       - Continuity
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -349,7 +349,7 @@ entries:
         - ai-generative
     readme_tags:
       - All-in-one
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -366,7 +366,7 @@ entries:
         - ai-generative
     readme_tags:
       - Avatars
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -383,7 +383,7 @@ entries:
         - ai-generative
     readme_tags:
       - Marketing
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
@@ -400,7 +400,7 @@ entries:
         - ai-generative
     readme_tags:
       - Film Studio
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation

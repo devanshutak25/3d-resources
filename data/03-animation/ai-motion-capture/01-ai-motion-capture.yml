@@ -18,14 +18,14 @@ entries:
     readme_tags:
       - Open Source
       - Pose-controlled
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Bandai Namco Research Motiondataset
     url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
     description: Free motion-capture dataset from Bandai Namco R&D for research and personal use.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -39,7 +39,7 @@ entries:
     description: Motion-capture library from Reallusion.
     license: Freemium
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -51,7 +51,7 @@ entries:
     description: 2500 free human motion-capture clips in BVH format.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:

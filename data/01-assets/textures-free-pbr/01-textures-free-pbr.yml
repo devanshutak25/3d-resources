@@ -18,7 +18,7 @@ entries:
     readme_tags:
       - CC0
       - 2000+ Materials
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Free PBR
     url: https://freepbr.com/
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - PBR
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Share Textures
     url: https://www.sharetextures.com/
@@ -58,7 +58,7 @@ entries:
     readme_tags:
       - CC0
       - Tileable
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: CG Bookcase
     url: https://www.cgbookcase.com/textures/
@@ -78,7 +78,7 @@ entries:
     readme_tags:
       - Free PBR
       - Tileable
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 3D Textures
     url: https://3dtextures.me/
@@ -98,7 +98,7 @@ entries:
     readme_tags:
       - PBR
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Texture Fabrik
     url: https://texturefabrik.com/
@@ -108,7 +108,7 @@ entries:
     readme_tags:
       - Patterns
       - Textures
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -136,7 +136,7 @@ entries:
     readme_tags:
       - Scanned
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Texture Supply (Gumroad)
     url: https://texturesupply.gumroad.com
@@ -146,7 +146,7 @@ entries:
     readme_tags:
       - Gumroad
       - Free Packs
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -164,7 +164,7 @@ entries:
     readme_tags:
       - Models + Textures
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -182,7 +182,7 @@ entries:
     readme_tags:
       - Varied
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -200,7 +200,7 @@ entries:
     readme_tags:
       - Massive
       - Professional
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -229,14 +229,14 @@ entries:
     readme_tags:
       - Free PBR
       - High-Quality Scans
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Matcaps
     url: https://github.com/nidorx/matcaps#matcaps
     description: Large matcap texture library in PNG and ZMT, organized by color.
     license: Open Source
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -251,7 +251,7 @@ entries:
     description: Photogrammetry and PBR textures, 3D models, decals. 1500+ free textures.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -269,7 +269,7 @@ entries:
     description: Free high-resolution textures, brushes, and photos.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -286,7 +286,7 @@ entries:
     description: Free material stock textures.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -303,7 +303,7 @@ entries:
     description: Search engine across the largest free texture sites at once.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -320,7 +320,7 @@ entries:
     description: Free 3D models, textures, backgrounds, photos, and graphics.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -337,7 +337,7 @@ entries:
     description: Free Cinema 4D materials with high-quality texture maps. Personal and commercial use.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -355,7 +355,7 @@ entries:
     description: 'Repository of Celestia addons: textures, models, and celestial objects.'
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:

@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Hero Texturing
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Free
       - Map Generation
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -65,7 +65,7 @@ entries:
     readme_tags:
       - Procedural
       - Industry Standard
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -89,7 +89,7 @@ entries:
     readme_tags:
       - Industry Standard
       - PBR Painter
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -113,7 +113,7 @@ entries:
     readme_tags:
       - Open Source
       - Painter-alt
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - Open Source
       - SD Alternative
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -155,7 +155,7 @@ entries:
     readme_tags:
       - No-UV
       - Early Access
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -174,7 +174,7 @@ entries:
     readme_tags:
       - Baking
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -197,7 +197,7 @@ entries:
     readme_tags:
       - Procedural
       - PS Plugin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -206,7 +206,7 @@ entries:
     description: An Android and iOS app for generating materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -219,7 +219,7 @@ entries:
     description: Software for creating PBR materials and painting 3d models. You can create materials and use them for painting models, or you can use pre-made textures.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -232,7 +232,7 @@ entries:
     description: Fast, reliable, and simple tool for viewing PBR texture sets.
     entry_type: software
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -245,7 +245,7 @@ entries:
     description: Tool designed to make procedural texture generation.
     entry_type: software
     license: Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -258,7 +258,7 @@ entries:
     description: Generate normal, height, specular or ambient occlusion textures from a single image.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -275,7 +275,7 @@ entries:
     description: Create photorealistic, tileable, materials in seconds with mixing and painting.
     license: Free
     entry_type: software
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:

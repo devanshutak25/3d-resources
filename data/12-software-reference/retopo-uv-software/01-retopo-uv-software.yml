@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Free
       - Auto Retopo
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2022-01-03'
@@ -32,7 +32,7 @@ entries:
     readme_tags:
       - Retopo + Bake
       - Classic
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
@@ -45,7 +45,7 @@ entries:
     readme_tags:
       - Free
       - Auto Retopo
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       workflow:
@@ -68,8 +68,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Standalone
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
     dual_listed_in:
       - tools-pipeline-utilities/uv-tools
   - name: UVPackmaster
@@ -86,7 +86,7 @@ entries:
     readme_tags:
       - UDIM
       - Packing
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/uv-tools
@@ -102,7 +102,7 @@ entries:
     readme_tags:
       - Flatten-based
       - Classic
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/uv-tools
@@ -129,7 +129,7 @@ entries:
     readme_tags:
       - Sculpt + Retopo
       - PBR Paint
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
@@ -152,7 +152,7 @@ entries:
     readme_tags:
       - PBR Paint Only
       - Standalone
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: broken
     deprecated: true
   - name: 3D Coat Print
@@ -173,7 +173,7 @@ entries:
     readme_tags:
       - Voxel Sculpt
       - 3D Print
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: broken
     deprecated: true
   - name: Cozy Blanket
@@ -198,7 +198,7 @@ entries:
     readme_tags:
       - iPad Sculpt
       - Auto Retopo
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
@@ -221,7 +221,7 @@ entries:
     readme_tags:
       - iPad UV
       - iPad Paint
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
     dual_listed_in:
       - tools-pipeline-utilities/uv-tools
@@ -241,7 +241,7 @@ entries:
     readme_tags:
       - Cross-DCC
       - Auto Quad
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
@@ -260,7 +260,7 @@ entries:
     readme_tags:
       - Blender Suite
       - Manual Retopo
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
@@ -277,7 +277,7 @@ entries:
     readme_tags:
       - ZBrush Plugin
       - Topology Transfer
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
@@ -298,7 +298,7 @@ entries:
     readme_tags:
       - Free
       - Discontinued
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools

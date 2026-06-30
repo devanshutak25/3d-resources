@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Official Docs
       - Reference
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -25,7 +25,7 @@ entries:
     readme_tags:
       - Official
       - Marketplace
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:
@@ -53,7 +53,7 @@ entries:
     readme_tags:
       - Shaders
       - Community
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Godot Proposals
     url: https://github.com/godotengine/godot-proposals
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - Roadmap
       - Proposals
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       output:

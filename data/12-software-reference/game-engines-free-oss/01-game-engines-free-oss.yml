@@ -23,8 +23,8 @@ entries:
     readme_tags:
       - MIT-licensed
       - 2D + 3D
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Bevy
     url: https://bevyengine.org/
     description: Rust data-driven ECS game engine.
@@ -44,8 +44,8 @@ entries:
     readme_tags:
       - Rust
       - ECS
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Defold
     url: https://defold.com/
     description: Lua-based 2D mobile game engine by King.
@@ -66,8 +66,8 @@ entries:
     readme_tags:
       - 2D Mobile
       - King (Candy Crush)
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Stride
     url: https://www.stride3d.net/
     description: C# 3D game engine (formerly Xenko).
@@ -85,8 +85,8 @@ entries:
     readme_tags:
       - C#
       - 3D
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Flax Engine
     url: https://flaxengine.com/
     description: High-fidelity 3D engine. Free for small studios.
@@ -106,8 +106,8 @@ entries:
     readme_tags:
       - High-Fidelity
       - C# + C++
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: O3DE
     url: https://o3de.org/
     description: AAA-grade Linux Foundation open-source engine.
@@ -127,8 +127,8 @@ entries:
     readme_tags:
       - AAA-grade
       - Linux Foundation
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Fyrox
     url: https://fyrox.rs/
     description: Rust 3D engine with scene editor.
@@ -147,8 +147,8 @@ entries:
     readme_tags:
       - Rust
       - Scene Editor
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Cocos Creator
     url: https://www.cocos.com/en/creator
     description: TypeScript mobile/web game engine.
@@ -167,8 +167,8 @@ entries:
     readme_tags:
       - Mobile/Web
       - TypeScript
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Raylib
     url: https://www.raylib.com/
     description: Minimal C library for learning game programming.
@@ -190,8 +190,8 @@ entries:
     readme_tags:
       - Library (not engine)
       - C
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: MonoGame
     url: https://monogame.net/
     description: C# XNA successor (Celeste, Stardew Valley).
@@ -210,8 +210,8 @@ entries:
     readme_tags:
       - XNA Successor
       - C#
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: FNA
     url: https://fna-xna.github.io/
     description: C# XNA reimplementation for ports.
@@ -230,8 +230,8 @@ entries:
     readme_tags:
       - XNA Port
       - Shipping Games
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Heaps.io
     url: https://heaps.io/
     description: Haxe engine. Dead Cells, Northgard.
@@ -250,8 +250,8 @@ entries:
     readme_tags:
       - Haxe
       - Dead Cells
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Love2D
     url: https://love2d.org/
     description: Lua 2D game framework.
@@ -270,8 +270,8 @@ entries:
     readme_tags:
       - Lua
       - Jam-Friendly
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Solar2D
     url: https://solar2d.com/
     description: Lua 2D mobile framework (formerly Corona SDK).
@@ -291,8 +291,8 @@ entries:
     readme_tags:
       - 2D Mobile
       - Lua
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Macroquad
     url: https://macroquad.rs/
     description: Rust minimal 2D/3D with WASM support.
@@ -312,8 +312,8 @@ entries:
     readme_tags:
       - Rust
       - WASM
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Ebitengine
     url: https://ebitengine.org/
     description: Go 2D game engine.
@@ -332,8 +332,8 @@ entries:
     readme_tags:
       - Go
       - 2D
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Armory3D
     url: https://armory3d.org/
     description: Blender-integrated Haxe game engine.
@@ -353,8 +353,8 @@ entries:
     readme_tags:
       - Blender-Integrated
       - Haxe
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: A Frame
     url: https://aframe.io/
     description: An easy web framework for building 3D/AR/VR experiences.
@@ -373,8 +373,8 @@ entries:
     readme_tags:
       - WebXR
       - JavaScript
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: CopperCube
     url: http://www.ambiera.com/coppercube/
     description: CopperCube is an all-in-one 3D game engine. Very easy to use.
@@ -394,8 +394,8 @@ entries:
     readme_tags:
       - No-Code
       - All-in-One
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Cocos2d X
     url: http://cocos2d-x.org/
     description: C++ OpenGL 2D/3D engine with JS and Lua bindings. Targets all major mobile and desktop platforms.
@@ -416,8 +416,8 @@ entries:
     readme_tags:
       - C++
       - Mobile
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: jMonkeyEngine 3
     url: http://jmonkeyengine.org/
     description: 3D open-source game engine for Java developers.
@@ -436,8 +436,8 @@ entries:
     readme_tags:
       - Java
       - 3D
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: JPCT
     url: https://www.jpct.net/
     description: 3D engine for desktop Java and Android.
@@ -457,8 +457,8 @@ entries:
     readme_tags:
       - Java
       - Android
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Leadwerks
     url: https://www.leadwerks.com/
     description: Easy-to-learn game engine for 3D and VR.
@@ -480,8 +480,8 @@ entries:
     readme_tags:
       - Beginner-Friendly
       - VR
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Magnum (site)
     url: http://magnum.graphics/
     description: Lightweight modular 2D/3D graphics/game engine written in C++11.
@@ -500,8 +500,8 @@ entries:
     readme_tags:
       - C++11
       - Modular
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Ogre
     url: https://www.ogre3d.org/
     description: Open source graphical rendering engine (C++).
@@ -520,8 +520,8 @@ entries:
     readme_tags:
       - C++
       - Rendering Engine
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Urho3D
     url: http://urho3d.github.io/
     description: Cross-platform rendering and game engine.
@@ -540,8 +540,8 @@ entries:
     readme_tags:
       - C++
       - Cross-Platform
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: ursina
     url: https://www.ursinaengine.org/
     description: A game engine powered by Python and Panda3D.
@@ -562,8 +562,8 @@ entries:
     readme_tags:
       - Python
       - Prototyping
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Babylon.js
     url: https://www.babylonjs.com/
     description: JavaScript 3D engine/framework for browser games and apps.
@@ -582,8 +582,8 @@ entries:
     readme_tags:
       - Browser
       - JavaScript
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Blend4Web
     url: http://www.blend4web.com/
     description: JavaScript framework for interactive 3D in browsers. Blender integration.
@@ -601,8 +601,8 @@ entries:
     readme_tags:
       - Browser
       - Blender Integration
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Three.js
     url: http://threejs.org/
     description: JavaScript 3D library. The standard for web 3D.
@@ -621,7 +621,7 @@ entries:
     readme_tags:
       - Browser
       - Standard JS 3D
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Ceramic
     url: https://ceramic-engine.com/
@@ -644,8 +644,8 @@ entries:
     readme_tags:
       - Haxe
       - Cross-Platform 2D
-    url_last_verified: '2026-06-01'
-    url_status: ok
+    url_last_verified: '2026-06-30'
+    url_status: unreachable
   - name: Irrlicht
     url: http://irrlicht.sourceforge.net/
     description: Open source high-performance realtime 3D engine (C++).
@@ -664,7 +664,7 @@ entries:
     readme_tags:
       - C++
       - Classic Engine
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Panda3D
     url: https://www.panda3d.org/
@@ -684,7 +684,7 @@ entries:
     readme_tags:
       - Python
       - Disney Origin
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Torque3D
     url: https://torque3d.org/torque3d/
@@ -704,7 +704,7 @@ entries:
     readme_tags:
       - C++
       - Legacy
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: SpriteBuilder
     url: http://www.spritebuilder.com/
@@ -722,7 +722,7 @@ entries:
     readme_tags:
       - Mac-only
       - 2D
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Fusee
     url: https://github.com/FUSEEProjectTeam/Fusee/
@@ -743,7 +743,7 @@ entries:
     readme_tags:
       - C#
       - Multiplatform
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Harfang 3D
     url: https://github.com/harfang3d/harfang3d
@@ -762,7 +762,7 @@ entries:
     readme_tags:
       - C++
       - Visualization
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2023-09-08'
@@ -783,7 +783,7 @@ entries:
     readme_tags:
       - IDE-Integrated
       - C#
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Overload
     url: https://github.com/adriengivry/Overload
@@ -801,7 +801,7 @@ entries:
     readme_tags:
       - C++
       - Editor
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: UPBGE (GitHub)
     url: https://github.com/UPBGE/upbge
@@ -822,7 +822,7 @@ entries:
     readme_tags:
       - Blender-Integrated
       - Python
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Blitz3D
     url: https://github.com/blitz-research/blitz3d
@@ -842,7 +842,7 @@ entries:
     readme_tags:
       - BASIC
       - Legacy
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     archived: true
     stale: true
@@ -865,7 +865,7 @@ entries:
     readme_tags:
       - D Language
       - Niche
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2020-12-18'
@@ -888,7 +888,7 @@ entries:
     readme_tags:
       - Low-Level
       - Multi-API
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Folded Paper Engine
     url: https://github.com/papercraftgames/folded-paper-engine
@@ -909,7 +909,7 @@ entries:
     readme_tags:
       - Blender-to-Godot
       - No-Code
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Juno
     url: https://github.com/rxi/juno
@@ -929,7 +929,7 @@ entries:
     readme_tags:
       - Lua
       - Pixel Art
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     archived: true
     stale: true
@@ -951,7 +951,7 @@ entries:
     readme_tags:
       - C++
       - Lightweight
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Lums
     url: https://github.com/lums-proj/Lums
@@ -971,7 +971,7 @@ entries:
     readme_tags:
       - C++11
       - WIP
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     stale: true
     last_pushed: '2015-10-02'
@@ -995,7 +995,7 @@ entries:
     readme_tags:
       - Fantasy Console
       - 8-bit
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     archived: true
     stale: true
@@ -1018,7 +1018,7 @@ entries:
     readme_tags:
       - Rust
       - Vulkan
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Whitestorm.js (GitHub)
     url: https://github.com/WhitestormJS/whitestorm.js
@@ -1036,5 +1036,5 @@ entries:
     readme_tags:
       - JavaScript
       - Browser
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok

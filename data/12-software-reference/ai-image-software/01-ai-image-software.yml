@@ -13,7 +13,7 @@ entries:
     readme_tags:
       - Node-based
       - Multi-modal
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/comfyui-ecosystem
@@ -32,7 +32,7 @@ entries:
     readme_tags:
       - Artistic
       - Subscription
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - Open Weight
       - Photoreal
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - Open Source
       - Self-Host
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -87,7 +87,7 @@ entries:
     readme_tags:
       - OpenAI
       - Text Rendering
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -106,7 +106,7 @@ entries:
     readme_tags:
       - Commercial-Safe
       - Adobe CC
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -125,7 +125,7 @@ entries:
     readme_tags:
       - Real-time
       - Controlled
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -143,7 +143,7 @@ entries:
     readme_tags:
       - Typography
       - Text Rendering
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -161,7 +161,7 @@ entries:
     readme_tags:
       - Consistency
       - Editing
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -179,7 +179,7 @@ entries:
     readme_tags:
       - xAI
       - Photoreal
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -197,7 +197,7 @@ entries:
     readme_tags:
       - Design Focus
       - Vector
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -216,7 +216,7 @@ entries:
     readme_tags:
       - Real-time
       - Upscaling
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -234,7 +234,7 @@ entries:
     readme_tags:
       - Design Canvas
       - Mixed-mode
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -253,7 +253,7 @@ entries:
     readme_tags:
       - Open Source
       - Bilingual
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -272,7 +272,7 @@ entries:
     readme_tags:
       - Tencent
       - DiT
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -290,7 +290,7 @@ entries:
     readme_tags:
       - ByteDance
       - Video Pipeline
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -299,7 +299,7 @@ entries:
     description: Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -316,7 +316,7 @@ entries:
     description: Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     tags:
       tech:
@@ -342,7 +342,7 @@ entries:
     readme_tags:
       - AI PBR
       - Tileable
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -365,7 +365,7 @@ entries:
     readme_tags:
       - Game-Ready
       - Full Maps
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -385,7 +385,7 @@ entries:
     readme_tags:
       - Meshy Pipeline
       - Integrated
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -405,7 +405,7 @@ entries:
     readme_tags:
       - Adobe
       - Prompt-to-Edit
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -425,7 +425,7 @@ entries:
     readme_tags:
       - Mesh-aware
       - Text→Tex
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -445,7 +445,7 @@ entries:
     readme_tags:
       - Substance-alt
       - AI Workflows
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
@@ -464,7 +464,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Imagen
     url: https://deepmind.google/models/imagen/
@@ -484,7 +484,7 @@ entries:
     readme_tags:
       - Photoreal
       - Google
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
@@ -505,7 +505,7 @@ entries:
         - concept
     readme_tags:
       - Prompt Adherence
-    url_last_verified: '2026-06-15'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation

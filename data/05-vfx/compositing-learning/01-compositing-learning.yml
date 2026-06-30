@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Gizmo Library
       - Community
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - software-reference/vfx-compositing-software
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Nuke
       - Pro Comp
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
   - name: CompositingMentor
     url: https://compositingmentor.com/
@@ -57,7 +57,7 @@ entries:
     readme_tags:
       - Mentorship
       - Nuke
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Foundry Learn (Nuke)
     url: https://learn.foundry.com/nuke
@@ -77,7 +77,7 @@ entries:
     readme_tags:
       - Official
       - Foundry
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Steve Wright Training
     url: https://stevewright.com/
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - Comp Theory
       - Pro
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: VFX Apprentice (Allan McKay)
     url: https://allanmckay.com/
@@ -118,7 +118,7 @@ entries:
     readme_tags:
       - Career Track
       - Allan McKay
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 'Book: Digital Compositing for Film and Video (Steve Wright, 4th ed.)'
     url: https://www.routledge.com/Digital-Compositing-for-Film-and-Video-Production-Workflows-and-Techniques/Wright/p/book/9781138240407
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - Canon
       - Routledge
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 'Book: The Art and Science of Digital Compositing (Brinkmann, 2nd ed.)'
     url: https://www.elsevier.com/books/the-art-and-science-of-digital-compositing/brinkmann/978-0-12-370638-6
@@ -158,7 +158,7 @@ entries:
     readme_tags:
       - Canon
       - Brinkmann
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 'Book: Compositing Visual Effects (Lee Lanier)'
     url: https://www.routledge.com/Compositing-Visual-Effects-in-After-Effects/Lanier/p/book/9780367403027
@@ -178,7 +178,7 @@ entries:
     readme_tags:
       - Applied
       - Routledge
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Befores & Afters
     url: https://beforesandafters.com/
@@ -193,7 +193,7 @@ entries:
     readme_tags:
       - Ian Failes
       - Breakdowns
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
     dual_listed_in:
       - learning-community-industry/inspiration-showcase
@@ -210,7 +210,7 @@ entries:
     readme_tags:
       - Interviews
       - Per-film
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: 8-bit to Half Float CopyCat (Moving Image Arts)
     url: https://movingimagearts.com/8-bit-to-half-float-copycat/
@@ -232,7 +232,7 @@ entries:
     readme_tags:
       - Nuke
       - CopyCat
-    url_last_verified: '2026-06-03'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Compositing Academy
     url: https://www.compositingacademy.com/
@@ -252,7 +252,7 @@ entries:
     readme_tags:
       - Nuke
       - Courses
-    url_last_verified: '2026-06-03'
+    url_last_verified: '2026-06-30'
     url_status: ok
   - name: Cinefex (archive)
     url: https://www.cinefex.com/
@@ -267,5 +267,5 @@ entries:
     readme_tags:
       - Archive
       - Print Canon
-    url_last_verified: '2026-06-01'
+    url_last_verified: '2026-06-30'
     url_status: unreachable
