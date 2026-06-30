@@ -643,3 +643,29 @@ entries:
         - node-based
     stale: true
     last_pushed: '2017-07-31'
+  - name: VectorayGen
+    url: https://jangafx.com/software/vectoraygen/
+    description: Free node-based vector field generator for real-time VFX. Computes flows, noise, and turbulence to drive GPU particle motion.
+    license: Free
+    entry_type: software
+    best_for: Real-time VFX vector fields
+    tags:
+      workflow:
+        - fx
+        - simulation
+      output:
+        - games
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+      tech:
+        - real-time
+        - gpu
+        - procedural
+        - node-based
+    readme_tags:
+      - Vector Fields
+      - Free
+    url_last_verified: '2026-06-30'
+    url_status: ok

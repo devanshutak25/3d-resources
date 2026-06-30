@@ -285,3 +285,29 @@ entries:
         - pbr
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
+  - name: Mixos
+    url: https://www.mixos.io/
+    description: Browser-based 3D texture painting and PBR material authoring with AI auto-texturing and a pre-made material library.
+    pricing: Free tier (watermarked beta); Pro $9/mo; Studio $19/mo
+    license: Freemium
+    entry_type: software
+    best_for: Browser-based PBR texture painting
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - pbr
+        - ai-generative
+    readme_tags:
+      - Browser PBR
+      - AI Texturing
+    url_last_verified: '2026-06-30'
+    url_status: ok
+    dual_listed_in:
+      - modeling-sculpting-texturing/material-creation-tools

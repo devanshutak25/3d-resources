@@ -23,6 +23,18 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 **Answered:** Plan approved (3D+design-relevant subset, dual_listed_in for dups, map to existing, footer+README credit). Added 42 new entries + 6 mirrors, credit lines in page-shell.js + render.js, validate ✓, build exit 0.
 
+### 2026-06-30 21:30
+**Prompt:**
+> add https://www.mixos.io/ and https://jangafx.com/software/vectoraygen
+
+**Answered:** Mixos (browser PBR texture painter, Freemium) → §12 material-creation-software/01 + mirror to §02 material-creation-tools. VectorayGen (free node-based vector field gen) → §12 vfx-compositing-software/01 beside JangaFX siblings. Validate ✓ 426 (no new warnings).
+
+### 2026-06-30 21:40
+**Prompt:**
+> run check links please
+
+**Answered:** check-links.js is catalog-wide (rewrites every entry). Did targeted HEAD-check of only the 2 new URLs instead (both 200 ok) → set url_status:ok + url_last_verified:2026-06-30 on Mixos + VectorayGen. Offered full sweep as opt-in. Validate ✓ 426.
+
 ---
 
 ### 2026-06-16 21:00
