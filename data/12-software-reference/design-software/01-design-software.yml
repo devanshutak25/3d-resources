@@ -18,7 +18,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Raster
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Vector
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -60,7 +60,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Layout
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -85,8 +85,8 @@ entries:
     readme_tags:
       - Free OSS
       - Painting
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
       - software-reference/2d-animation-software
@@ -105,8 +105,8 @@ entries:
     readme_tags:
       - UI/UX
       - Mac-native
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
   - name: Figma
@@ -131,8 +131,8 @@ entries:
     readme_tags:
       - Collaborative
       - UI/UX
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: ProtoPie
     url: https://www.protopie.io/
     description: High-fidelity interaction prototyping for apps and connected devices.
@@ -153,8 +153,8 @@ entries:
     readme_tags:
       - Prototyping
       - Interaction
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Affinity
     url: https://affinity.studio/
     description: Unified vector, photo, and layout app. Free, by Canva.
@@ -175,8 +175,8 @@ entries:
     readme_tags:
       - Free (Canva)
       - Vector + Raster
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Inkscape
     url: https://inkscape.org/
     description: Free open-source vector editor.
@@ -198,8 +198,8 @@ entries:
     readme_tags:
       - Vector
       - SVG
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: GIMP
     url: https://www.gimp.org/
     description: Free open-source image editor.
@@ -222,8 +222,8 @@ entries:
     readme_tags:
       - Open Source
       - Photoshop-alt
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: PhotoGIMP
     url: https://github.com/Diolinux/PhotoGIMP
     description: Patch for GIMP that mimics Photoshop UI, shortcuts, and tool layout.
@@ -246,7 +246,7 @@ entries:
     readme_tags:
       - Open Source
       - Photoshop-like
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Penpot
     url: https://penpot.app/
@@ -268,14 +268,14 @@ entries:
     readme_tags:
       - Open Source
       - Figma-alt
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Figma Community
     url: https://www.figma.com/community/
     description: Free templates, plugins, UI kits.
     entry_type: reference
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -283,8 +283,8 @@ entries:
     url: https://www.affinity.studio/help/getting-started/
     description: Official tutorials, guides, getting started.
     entry_type: reference
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -304,8 +304,8 @@ entries:
     readme_tags:
       - Mac-native
       - Image Editor
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: PixiEditor
     url: https://pixieditor.net/
     description: Universal 2D graphics editor. Procedural graphics w/ node graph, image editing, vectors, pixel art, animations.
@@ -328,8 +328,8 @@ entries:
     readme_tags:
       - Unified
       - Node-based
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Lunacy
     url: https://icons8.com/lunacy
     description: Free graphic design app from Icons8. Native Sketch file support, built-in icons/illustrations/photos, AI tools.
@@ -349,7 +349,7 @@ entries:
     readme_tags:
       - Sketch-alt
       - Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Origami Studio
     url: https://origami.design/
@@ -371,8 +371,8 @@ entries:
     readme_tags:
       - Prototyping
       - Meta
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Unicorn Studio
     url: https://www.unicorn.studio/
     description: Browser-based interactive scene and motion design for the web. No-code, exports to embed.
@@ -394,8 +394,8 @@ entries:
     readme_tags:
       - Web Motion
       - No-code
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Vectorpea
     url: https://www.vectorpea.com/
     description: Free browser-based vector editor by Photopea team. Opens AI/SVG/PDF/EPS/CDR.
@@ -414,8 +414,8 @@ entries:
     readme_tags:
       - Browser
       - Illustrator-alt
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Graphite
     url: https://graphite.rs/
     description: Open-source 2D vector and raster graphics editor with procedural node-based workflow. In active development.
@@ -442,8 +442,8 @@ entries:
       - Open Source
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Picsart
     url: https://picsart.com/
     description: Photo and video editor with AI tools. Web, mobile, and desktop.
@@ -466,8 +466,8 @@ entries:
     readme_tags:
       - AI Tools
       - Mobile
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: PowerPoint
     url: https://www.microsoft.com/microsoft-365/powerpoint
     description: Microsoft presentation app. Used as a quick-draft motion/layout tool for storyboards and diagrams.
@@ -488,8 +488,8 @@ entries:
     readme_tags:
       - Presentations
       - Microsoft
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Google Drawings
     url: https://docs.google.com/drawings
     description: Free browser-based diagramming and simple vector tool. Collaborative.
@@ -508,7 +508,7 @@ entries:
     readme_tags:
       - Browser
       - Collaborative
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Microsoft Paint
     url: https://apps.microsoft.com/detail/9PCFS5B6T72H
@@ -528,8 +528,8 @@ entries:
     readme_tags:
       - Windows-native
       - Lightweight
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Paint.NET
     url: https://www.getpaint.net/
     description: Free Windows raster editor with layers, plugins, and unlimited undo. Sits between Microsoft Paint and Photoshop.
@@ -548,8 +548,8 @@ entries:
     readme_tags:
       - Windows-native
       - Layers
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: FontLab 8
     url: https://www.fontlab.com/font-editor/fontlab/
     description: Professional font editor.
@@ -565,8 +565,8 @@ entries:
     readme_tags:
       - Font Editor
       - Pro
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Adobe Express
     url: https://new.express.adobe.com/
     description: Quick Adobe design tool.
@@ -579,8 +579,8 @@ entries:
     readme_tags:
       - Web
       - Adobe
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
   - name: Modyfi
@@ -595,8 +595,8 @@ entries:
     readme_tags:
       - Browser Suite
       - Creative
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
   - name: Eagle
@@ -612,8 +612,8 @@ entries:
     readme_tags:
       - Asset Organizer
       - Visual
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
       - art-design-visual-storytelling/pre-production-tools
@@ -633,7 +633,7 @@ entries:
     readme_tags:
       - Node-based
       - Non-destructive
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools

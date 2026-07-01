@@ -4,7 +4,7 @@ entries:
     description: Shortcut utility for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -26,7 +26,7 @@ entries:
     description: Search tools for the Unity editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -48,7 +48,7 @@ entries:
     description: Strongly typed event system for Unity with global and per-GameObject events.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -70,7 +70,7 @@ entries:
     description: Editor extension adding advanced inspector and editor extensibility to Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -92,7 +92,7 @@ entries:
     description: Unity editor extensions and tools by Napland Games.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -114,7 +114,7 @@ entries:
     description: Finds which objects reference the selected assets or objects in a Unity project.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -134,7 +134,7 @@ entries:
     description: Unity editor extension for finding missing object references.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -156,7 +156,7 @@ entries:
     description: Unity editor extension that tracks compile time.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -178,7 +178,7 @@ entries:
     description: Automation tool for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -201,7 +201,7 @@ entries:
     description: Editor scripts that improve working with the Unity editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -223,7 +223,7 @@ entries:
     description: Collection of Unity editor productivity helpers.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -245,7 +245,7 @@ entries:
     description: Scripts that make editor scripting in Unity easier.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -267,7 +267,7 @@ entries:
     description: Raycast against one or more meshes in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -289,7 +289,7 @@ entries:
     description: Unity asset bundle framework (LGPL).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -311,7 +311,7 @@ entries:
     description: Official Unity editor tools to audit project assets and fix errors.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -333,7 +333,7 @@ entries:
     description: Scanned statue models from the Three D Scans project, optimized for real-time use.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -353,7 +353,7 @@ entries:
     description: Fifty Unity tips spanning editor tools, serialization, and UI shortcuts, with a mobile focus.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -373,7 +373,7 @@ entries:
     description: Unity graphics programming techniques and shader samples, volume 2.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -395,7 +395,7 @@ entries:
     description: Character customization demo for Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -415,7 +415,7 @@ entries:
     description: Companion code for the Complete Unity 2018 Game Development book.
     entry_type: tutorial
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -437,7 +437,7 @@ entries:
     description: Example of Unity's Entity Component System, inspired by Roll-a-ball.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -459,7 +459,7 @@ entries:
     description: Unity best-practices reference from Futurice.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -477,7 +477,7 @@ entries:
     description: Companion repo for the Unite Berlin talk on working faster in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -497,7 +497,7 @@ entries:
     description: Example Unity project from Unity Technologies demonstrating several features.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -517,7 +517,7 @@ entries:
     description: Open-source Harry Potter sandbox game made in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -537,7 +537,7 @@ entries:
     description: Open-source remake of Space Station 13 in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -555,7 +555,7 @@ entries:
     description: Open-source port of GTA San Andreas to Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -575,7 +575,7 @@ entries:
     description: Open-source Mafia game framework for Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -596,7 +596,7 @@ entries:
     description: Guitar Hero fan game made in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -616,7 +616,7 @@ entries:
     description: Tetris clone written in C# and rendered with Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -636,7 +636,7 @@ entries:
     description: Pacman clone with original AI made in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -657,7 +657,7 @@ entries:
     description: Tile-based Minesweeper with high scores made in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -678,7 +678,7 @@ entries:
     description: Coloring book game for web and iOS made with Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -698,7 +698,7 @@ entries:
     description: GitHub profile with open-source Unity tools and utilities.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -716,7 +716,7 @@ entries:
     description: GitHub profile with open-source Unity tools and effects.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -734,7 +734,7 @@ entries:
     description: YouTube channel of the Metaverse Standards Forum, with talks and panels.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -750,7 +750,7 @@ entries:
     description: Video tutorials on Unity, including its UI system.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -768,7 +768,7 @@ entries:
     description: YouTube channel with Unity VR tutorials.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -789,7 +789,7 @@ entries:
     readme_tags:
       - AR
       - HoloLens
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -809,7 +809,7 @@ entries:
     readme_tags:
       - Unity
       - VR
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -829,7 +829,7 @@ entries:
     readme_tags:
       - Unity
       - VR
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -849,7 +849,7 @@ entries:
     readme_tags:
       - Unity
       - IK
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -866,7 +866,7 @@ entries:
     description: Maximizes the Unity game view with a keyboard shortcut.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:

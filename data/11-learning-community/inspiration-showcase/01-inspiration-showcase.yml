@@ -6,7 +6,7 @@ entries:
     readme_tags:
       - Behance
       - 3D Artist
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Math 3D
       - Forms
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -34,7 +34,7 @@ entries:
     readme_tags:
       - Concept Art
       - Portfolio
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - Research
       - Disney
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       platform:
@@ -60,8 +60,8 @@ entries:
     readme_tags:
       - Mechanics
       - Animation
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -72,8 +72,8 @@ entries:
     readme_tags:
       - Paper
       - VFX Production
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -86,8 +86,8 @@ entries:
     readme_tags:
       - Instagram
       - Motion Art
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -100,7 +100,7 @@ entries:
     readme_tags:
       - Vimeo
       - Motion Design
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -114,8 +114,8 @@ entries:
     readme_tags:
       - Breakdowns
       - ManVsMachine
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -129,8 +129,8 @@ entries:
     readme_tags:
       - Sci-Fi Env
       - Gumroad
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - generalist
@@ -143,8 +143,8 @@ entries:
     readme_tags:
       - VFX
       - Reference
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -157,8 +157,8 @@ entries:
     readme_tags:
       - FUI
       - Screen Graphics
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -171,8 +171,8 @@ entries:
     readme_tags:
       - Character Design
       - Shape Language
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - illustration
@@ -185,8 +185,8 @@ entries:
     readme_tags:
       - NLP
       - Showcase
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -197,7 +197,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Reel
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -211,8 +211,8 @@ entries:
     readme_tags:
       - WebGL
       - Talk
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -223,8 +223,8 @@ entries:
     readme_tags:
       - Math
       - Cheatsheet
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -235,8 +235,8 @@ entries:
     readme_tags:
       - Rendering
       - Tutorial
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -247,8 +247,8 @@ entries:
     readme_tags:
       - Perlin Noise
       - Tutorial
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -259,8 +259,8 @@ entries:
     readme_tags:
       - Math
       - Cheatsheet
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -271,8 +271,8 @@ entries:
     readme_tags:
       - Book
       - Graphics
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -283,8 +283,8 @@ entries:
     readme_tags:
       - Ray Tracing
       - SDF
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -296,8 +296,8 @@ entries:
     readme_tags:
       - Book
       - HTML5
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -309,8 +309,8 @@ entries:
     readme_tags:
       - Book
       - Physics
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -321,7 +321,7 @@ entries:
     readme_tags:
       - Three.js
       - Tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       platform:
@@ -333,8 +333,8 @@ entries:
     readme_tags:
       - Math
       - Animation
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -346,7 +346,7 @@ entries:
     readme_tags:
       - Showcase
       - Games
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -358,8 +358,8 @@ entries:
     description: Retro Slide Puzzle (Winner - Animation/Design).
     entry_type: inspiration
     license: Free
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -372,8 +372,8 @@ entries:
     description: Dash Slide Puzzle (Runner Up - Animation/Design).
     entry_type: inspiration
     license: Free
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -386,8 +386,8 @@ entries:
     description: Island Slide Puzzle (Third Place - Animation/Design).
     entry_type: inspiration
     license: Free
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -400,8 +400,8 @@ entries:
     description: Sliding Puzzle 3D (Honorable Mention).
     entry_type: inspiration
     license: Free
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -414,8 +414,8 @@ entries:
     description: Animations and instructional videos about neural networks.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -430,8 +430,8 @@ entries:
     readme_tags:
       - Animation Art
       - Blog
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - reference
@@ -446,8 +446,8 @@ entries:
     readme_tags:
       - Illustration
       - Historical
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - reference
@@ -463,8 +463,8 @@ entries:
     readme_tags:
       - Creative Coding
       - Showcase
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - creative-coding
@@ -477,8 +477,8 @@ entries:
     description: Daily Blender art and tips on Instagram.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - generalist
@@ -493,8 +493,8 @@ entries:
     readme_tags:
       - Contemporary Arch
       - Inspiration
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - archviz
@@ -507,8 +507,8 @@ entries:
     readme_tags:
       - Arch Inspiration
       - Curated
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - archviz
@@ -526,5 +526,5 @@ entries:
         - generalist
       platform:
         - web
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok

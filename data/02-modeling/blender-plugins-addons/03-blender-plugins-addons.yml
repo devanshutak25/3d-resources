@@ -4,7 +4,7 @@ entries:
     description: Creates MIDI-driven animations from Blender's Nonlinear Animation view.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -24,7 +24,7 @@ entries:
     description: Webcam motion capture inside Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -46,7 +46,7 @@ entries:
     description: Adds springy dynamic motion to bones in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -66,7 +66,7 @@ entries:
     description: Adds rigid-body and spring physics to bones in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -88,7 +88,7 @@ entries:
     description: Helps make custom bone shapes for Blender rigs.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -108,7 +108,7 @@ entries:
     description: Generates writing animation for selected Bezier curves in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -128,7 +128,7 @@ entries:
     description: Text-animation addon for counters and GUI simulations in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -150,7 +150,7 @@ entries:
     description: Auto-animates grease pencil strokes to emulate hand-drawn text.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -172,7 +172,7 @@ entries:
     description: Manipulate UVs directly in the 3D viewport.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -192,7 +192,7 @@ entries:
     description: Live-link plugin syncing Blender and other DCCs into Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -211,7 +211,7 @@ entries:
     description: Exports animations and weighted meshes compatible with the Unreal third-person mannequin without retargeting.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -233,7 +233,7 @@ entries:
     description: Exports Blender content to Unreal Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -252,7 +252,7 @@ entries:
     description: Game-dev workflow tools for Blender, with standardized import/export and new object types.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -274,7 +274,7 @@ entries:
     description: Rust game engine integrated in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -295,7 +295,7 @@ entries:
     description: Adds a true shot entity to Blender scenes for previs and layout.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -317,7 +317,7 @@ entries:
     description: Light-management panels for fast lighting setup and tweaking in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -337,7 +337,7 @@ entries:
     description: Interactive lighting addon for Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -359,7 +359,7 @@ entries:
     description: Imports 3D models from Google Maps into Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -381,7 +381,7 @@ entries:
     description: VR and mixed-reality interface for editing Blender scenes with a headset and controllers.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -402,7 +402,7 @@ entries:
     description: Toolset for creating content for metaverse platforms like High Fidelity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -421,7 +421,7 @@ entries:
     description: Simplifies rendering image sequences and frame ranges, with batch rendering utilities.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -441,7 +441,7 @@ entries:
     description: Estimates total animation render time from a single frame's render time.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -463,7 +463,7 @@ entries:
     description: Adds realistic camera shake to Blender cameras.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -483,7 +483,7 @@ entries:
     description: On-screen keystroke display for Blender screen recordings.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -501,7 +501,7 @@ entries:
     description: Cuts audio and video clips on audio peaks, removing silences. On recent Blender, install the install.py file instead of the zip.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -523,7 +523,7 @@ entries:
     description: Faster editing tools for Blender's Video Sequence Editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -543,7 +543,7 @@ entries:
     description: Overhauls Blender's VSE for quick keyboard-and-mouse editing with real-time feedback.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -563,7 +563,7 @@ entries:
     description: Transform, crop and fade video strips in Blender's VSE.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -585,7 +585,7 @@ entries:
     description: Creates VSE proxy files easily via FFmpeg.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -607,7 +607,7 @@ entries:
     description: Renders Sequencer output multithreaded from the Render sidebar.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -629,7 +629,7 @@ entries:
     description: Preview VSE scene strips directly in the 3D View.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -651,7 +651,7 @@ entries:
     description: Create and edit subtitles for movies or music in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -673,7 +673,7 @@ entries:
     description: Search selected text across Blender API/Python docs, Stack Exchange, source code and GitHub.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -695,7 +695,7 @@ entries:
     description: Renders large point clouds and voxel grids in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -715,7 +715,7 @@ entries:
     description: Display, edit, filter, render and export colored point-cloud PLY files.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -736,7 +736,7 @@ entries:
     description: Create and modify projector lights in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -756,7 +756,7 @@ entries:
     description: Quickly switch workspaces and view the render menu in the viewport.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -774,7 +774,7 @@ entries:
     description: Mesh-exchange tools for 3DCoat, Houdini and Modo.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -794,7 +794,7 @@ entries:
     description: Enhanced modifier UI for Blender, with a sidebar tab and popup.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -816,7 +816,7 @@ entries:
     description: Adds extra properties and operators to the 3D View Sidebar.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -836,7 +836,7 @@ entries:
     description: Renders tileable images in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -858,7 +858,7 @@ entries:
     description: View, visibility, 3D cursor and snap presets for Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -878,7 +878,7 @@ entries:
     description: Write screenplays in the Blender Text Editor using Fountain markup, with correct formatting on export.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -898,7 +898,7 @@ entries:
     description: Adds Spectrum and Intensity nodes to speed up material creation in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -920,7 +920,7 @@ entries:
     description: Real-time collaboration addon for Blender from Ubisoft Animation Studio.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -941,7 +941,7 @@ entries:
     description: Integrates libsm64 into Blender, with Fast64 integrations.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -959,7 +959,7 @@ entries:
     description: Blender scripting for generating synthetic datasets at scale.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -979,7 +979,7 @@ entries:
     description: Python script to render Blender scenes on Google Colab. Cycles only.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:

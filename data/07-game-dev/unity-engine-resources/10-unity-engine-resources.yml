@@ -4,7 +4,7 @@ entries:
     description: Unity extension for reusing sprite texture areas to cut memory.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -24,7 +24,7 @@ entries:
     description: Bitmap drawing API extension methods for Unity's Texture2D class.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -46,7 +46,7 @@ entries:
     description: Unity network texture sender and receiver for video and frame streaming.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -68,7 +68,7 @@ entries:
     description: Editor utility to check scene resources in Unity, including textures, materials, meshes, and which objects use them.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -90,7 +90,7 @@ entries:
     description: Crop and resize textures in the Unity editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -112,7 +112,7 @@ entries:
     description: Generates preview textures and icons for Unity models and sprites.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -134,7 +134,7 @@ entries:
     description: Unity shader for scrolling-texture effects like neon signs and conveyor belts.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -156,7 +156,7 @@ entries:
     description: Encode arbitrary curves into textures and apply them to materials or shader properties.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -178,7 +178,7 @@ entries:
     description: Combines color channels from different textures into a single output.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -198,7 +198,7 @@ entries:
     description: Generates a texture that simulates waves in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -220,7 +220,7 @@ entries:
     description: Bakes legacy animations into textures, targeting ECS.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -242,7 +242,7 @@ entries:
     description: Generates a Unity Texture2D from an AudioClip.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -264,7 +264,7 @@ entries:
     description: Preview UV islands for textures in the Unity inspector.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -287,7 +287,7 @@ entries:
     description: Interactive previews of Texture3D assets in the Unity inspector.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -309,7 +309,7 @@ entries:
     description: Unity editor extension for importing bitmap fonts.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -326,7 +326,7 @@ entries:
     description: Port of stb_easy_font.h to Unity and C#.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -345,7 +345,7 @@ entries:
     description: Draw runtime gizmos in builds and the editor in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:

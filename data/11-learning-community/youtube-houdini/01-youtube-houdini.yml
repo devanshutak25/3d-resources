@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Advanced
       - Mograph
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - FX
       - Streams
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -54,7 +54,7 @@ entries:
     readme_tags:
       - Beginner
       - Approachable
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Tim van Helsdingen
     url: https://www.youtube.com/@TimvanHelsdingen3D
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - FX
       - Procedural
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - Generative
       - Procedural
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: SideFX Official
     url: https://www.youtube.com/channel/UCegWLyW4CYzph4dYW-gYy0g
@@ -104,7 +104,7 @@ entries:
     readme_tags:
       - Official
       - SideFX
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -121,7 +121,7 @@ entries:
     readme_tags:
       - Community
       - FX
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -140,7 +140,7 @@ entries:
     readme_tags:
       - FX
       - Breakdowns
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -159,7 +159,7 @@ entries:
     readme_tags:
       - Mograph
       - Vimeo
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -176,7 +176,7 @@ entries:
     readme_tags:
       - FX
       - Tutorials
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -195,7 +195,7 @@ entries:
     readme_tags:
       - Procedural
       - Sim
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -215,7 +215,7 @@ entries:
     readme_tags:
       - Caching
       - Tools
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:

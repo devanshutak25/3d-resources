@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Open Source
       - Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Pairing
       - Inspiration
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Code Font
       - Ligatures
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -54,7 +54,7 @@ entries:
     readme_tags:
       - Figma
       - Google Fonts
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -66,7 +66,7 @@ entries:
     description: Free and premium 3D fonts with Blender source files.
     license: Freemium
     entry_type: asset-source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -83,7 +83,7 @@ entries:
     readme_tags:
       - Quality
       - Free Commercial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -98,7 +98,7 @@ entries:
     readme_tags:
       - Open Source
       - Experimental
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -115,7 +115,7 @@ entries:
     readme_tags:
       - Open Source
       - Curated
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -132,7 +132,7 @@ entries:
     readme_tags:
       - Modern
       - Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -149,7 +149,7 @@ entries:
     readme_tags:
       - Variable Fonts
       - Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -166,7 +166,7 @@ entries:
     readme_tags:
       - Curated
       - Indie
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -181,7 +181,7 @@ entries:
     readme_tags:
       - Huge
       - Free Commercial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -198,7 +198,7 @@ entries:
     readme_tags:
       - Subscription
       - Premium
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -215,7 +215,7 @@ entries:
     readme_tags:
       - Premium
       - Perpetual
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -232,7 +232,7 @@ entries:
     readme_tags:
       - Marketplace
       - Perpetual
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -249,7 +249,7 @@ entries:
     readme_tags:
       - Marketplace
       - Freebies
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -264,7 +264,7 @@ entries:
     readme_tags:
       - Indie
       - Early Access
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -279,7 +279,7 @@ entries:
     readme_tags:
       - Indie Foundry
       - Premium
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -292,7 +292,7 @@ entries:
     license: Open Source
     entry_type: asset-source
     deprecated: true
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -314,7 +314,7 @@ entries:
     readme_tags:
       - Fonts
       - Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: WhatTheFont
     url: https://www.myfonts.com/pages/whatthefont
@@ -328,7 +328,7 @@ entries:
         - web
     readme_tags:
       - Fonts
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Wordmark.it
     url: https://wordmark.it/
@@ -342,5 +342,5 @@ entries:
         - web
     readme_tags:
       - Fonts
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok

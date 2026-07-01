@@ -18,8 +18,8 @@ entries:
     readme_tags:
       - Browser
       - Dynamic Topology
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Tinkercad
     url: https://www.tinkercad.com/
     description: Browser-based CSG modeling.
@@ -41,8 +41,8 @@ entries:
     readme_tags:
       - Browser
       - Education
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Wings 3D
     url: https://www.wings3d.com/
     description: Subdivision surface modeler.
@@ -63,8 +63,8 @@ entries:
     readme_tags:
       - Subdiv Modeling
       - Lightweight
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: MagicaVoxel
     url: https://ephtracy.github.io/
     description: GPU voxel editor with path tracing.
@@ -88,8 +88,8 @@ entries:
     readme_tags:
       - Voxel
       - Path Tracing
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: MagicaCSG
     url: https://ephtracy.github.io/index.html?page=magicacsg
     description: SDF modeling with real-time booleans.
@@ -111,8 +111,8 @@ entries:
     readme_tags:
       - SDF
       - Windows-only
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: VRoid Studio
     url: https://vroid.com/en/studio/
     description: Anime-style 3D character creator.
@@ -134,8 +134,8 @@ entries:
     readme_tags:
       - Anime Characters
       - VTuber
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: SDF Modeler
     url: https://sascha-rode.itch.io/sdf-modeler
     description: Experimental SDF-based non-destructive procedural 3D modeler.
@@ -158,8 +158,8 @@ entries:
     readme_tags:
       - SDF
       - Non-destructive
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Sculptris
     url: https://sculptris.br.uptodown.com/windows
     description: Original free digital sculpting from Pixologic (predecessor to ZBrush Core).
@@ -176,8 +176,8 @@ entries:
     readme_tags:
       - Free
       - Introductory Sculpt
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Blender
     url: https://www.blender.org/
     description: Free open-source 3D creation suite. Modeling, sculpting, animation, rendering, compositing, VFX.
@@ -210,14 +210,14 @@ entries:
     readme_tags:
       - Open Source
       - Full Pipeline
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Goxel
     url: https://github.com/guillaumechereau/goxel
     description: Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -228,8 +228,8 @@ entries:
     license: Free
     entry_type: software
     best_for: 3D fractal imaging
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - modeling
@@ -254,7 +254,7 @@ entries:
       - Windows
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     stale: true
     last_pushed: '2023-03-05'
@@ -263,8 +263,8 @@ entries:
     description: Intuitive and free 3D modeling software for everyone.
     license: Free
     entry_type: software
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - modeling
@@ -273,8 +273,8 @@ entries:
     description: Terrain creation and editing software. It is freeware.
     license: Free
     entry_type: software
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - modeling
@@ -285,8 +285,8 @@ entries:
     description: Easy to use real time 3D tree generator for the simple creation.
     license: Free
     entry_type: software
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - modeling
@@ -300,8 +300,8 @@ entries:
     readme_tags:
       - Character Creation
       - Open Source
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -316,8 +316,8 @@ entries:
     readme_tags:
       - Sculpting
       - Otoy Forum
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -346,5 +346,5 @@ entries:
     readme_tags:
       - Browser
       - Node-Based
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok

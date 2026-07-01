@@ -14,8 +14,8 @@ entries:
     readme_tags:
       - Image→Pixel
       - Conversion
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: Pixa.Pics
@@ -34,8 +34,8 @@ entries:
     readme_tags:
       - Browser
       - Vectorization
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: Pickle
@@ -52,8 +52,8 @@ entries:
     readme_tags:
       - Pixel Art
       - Editor
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: Lightcube
@@ -72,8 +72,8 @@ entries:
     readme_tags:
       - Windows
       - PSD Support
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: Pixen (GitHub)
@@ -81,7 +81,7 @@ entries:
     description: Pixel Art Editor for OSX
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -99,8 +99,8 @@ entries:
     description: Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       output:
         - games
@@ -127,8 +127,8 @@ entries:
     readme_tags:
       - Natural Media
       - Watercolor Sim
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/drawing-painting-3d
   - name: Pixen (site)
@@ -136,8 +136,8 @@ entries:
     description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - mac
@@ -162,5 +162,5 @@ entries:
     readme_tags:
       - Browser
       - 2D Animation
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok

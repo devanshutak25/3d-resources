@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - Production-Reliable
       - PBR
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -32,7 +32,7 @@ entries:
     readme_tags:
       - Clean Quads
       - Sculpt-level
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - 10B Params
       - Free Tier
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -70,7 +70,7 @@ entries:
     readme_tags:
       - Microsoft
       - PBR + Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Luma
       - Integrated
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -106,7 +106,7 @@ entries:
     readme_tags:
       - Hybrid AI+Artist
       - Production
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -124,7 +124,7 @@ entries:
     readme_tags:
       - In-Editor
       - Text→3D
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -143,7 +143,7 @@ entries:
     readme_tags:
       - Single-Image
       - NeurIPS
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -162,7 +162,7 @@ entries:
     readme_tags:
       - Fast
       - Textured Mesh
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -181,7 +181,7 @@ entries:
     readme_tags:
       - Fast
       - Image→3D
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -200,7 +200,7 @@ entries:
     readme_tags:
       - Open Source
       - Fast
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -219,7 +219,7 @@ entries:
     readme_tags:
       - Stability AI
       - Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -238,7 +238,7 @@ entries:
     readme_tags:
       - Coarse→Refined
       - Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     stale: true
     last_pushed: '2024-03-10'
@@ -259,7 +259,7 @@ entries:
     readme_tags:
       - Procedural
       - Parametric
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -282,7 +282,7 @@ entries:
     readme_tags:
       - Previz
       - No-code
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation

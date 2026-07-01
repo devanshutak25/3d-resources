@@ -12,8 +12,9 @@ entries:
     readme_tags:
       - Product Design
       - Manufacturing
-    url_last_verified: '2026-06-30'
-    url_status: ok
+    url_last_verified: '2026-07-01'
+    url_status: broken
+    deprecated: true
   - name: Motion Graphics Pipeline
     url: https://www.maxon.net/
     description: Primary software. Cinema 4D, After Effects. Key considerations. Stylized looks, fast iteration.
@@ -27,5 +28,5 @@ entries:
     readme_tags:
       - Mograph
       - C4D + AE
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok

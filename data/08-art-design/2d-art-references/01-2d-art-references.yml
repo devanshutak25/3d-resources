@@ -17,7 +17,7 @@ entries:
     readme_tags:
       - Fundamentals
       - Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Saint11 Pixel Art
     url: https://www.patreon.com/saint11
@@ -36,7 +36,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Tutorials
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Dimensions.com
     url: https://www.dimensions.com/
@@ -55,14 +55,14 @@ entries:
     readme_tags:
       - Dimensions
       - Reference Data
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Anatomy 360, Free Reference
     url: https://anatomy360.info/anatomy-scan-reference-dump/
     description: 3D scanned human reference images.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -86,5 +86,5 @@ entries:
         - reference
       output:
         - illustration
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok

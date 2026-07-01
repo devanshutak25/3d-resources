@@ -16,14 +16,14 @@ entries:
     readme_tags:
       - UE5
       - Product Viz
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: CNDL
     url: https://cndl.io/
     description: Web tool to create custom IES light profiles.
     license: Freemium
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:

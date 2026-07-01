@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - Omniverse
       - USD-based
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: CasparCG
     url: https://github.com/CasparCG
@@ -34,5 +34,5 @@ entries:
       platform:
         - win
         - linux
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok

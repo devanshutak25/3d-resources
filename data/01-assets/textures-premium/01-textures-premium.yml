@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - PBR
       - Subscription
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Quixel Megascans + Bridge
     url: https://quixel.com/
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Scanned
       - Free with UE
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Texture Box
     url: https://texturebox.com/
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - Mixed
       - Pro Textures
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:

@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Polywire
       - Custom
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Procedural
       - VEX Course
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Extracting Transform Matrices
     url: https://vimeo.com/284712920
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Matrices
       - Technique
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -73,7 +73,7 @@ entries:
     readme_tags:
       - For Loops
       - Animation
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - Paint Splash
       - Art Direction
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -115,7 +115,7 @@ entries:
     readme_tags:
       - Growth
       - Animation
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -136,7 +136,7 @@ entries:
     readme_tags:
       - Node Study
       - Deck
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -155,7 +155,7 @@ entries:
     readme_tags:
       - Point Cloud
       - Mesh
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -177,7 +177,7 @@ entries:
     readme_tags:
       - MoGraph
       - Cloner
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -196,7 +196,7 @@ entries:
     readme_tags:
       - Muscles
       - Advanced
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -228,7 +228,7 @@ entries:
     readme_tags:
       - AI
       - Artist-Oriented
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Houdini for Astronomy
     url: http://ytini.com/
@@ -245,7 +245,7 @@ entries:
     readme_tags:
       - Astronomy
       - Sci-Viz
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: MysteryPancake Houdini Fun
     url: https://github.com/MysteryPancake/Houdini-Fun
@@ -255,7 +255,7 @@ entries:
     readme_tags:
       - Experiments
       - Community
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -288,7 +288,7 @@ entries:
     readme_tags:
       - Procedural
       - VEX
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: USD Basics with Solaris
     url: https://www.sidefx.com/tutorials/usd-basics-with-solaris/
@@ -309,7 +309,7 @@ entries:
     readme_tags:
       - USD
       - Solaris
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Houdini Quick Tips
     url: https://houdiniquicktips.weebly.com/
@@ -323,5 +323,5 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok

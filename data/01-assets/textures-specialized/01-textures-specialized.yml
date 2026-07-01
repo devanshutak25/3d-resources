@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - MicroSkin
       - Displacement
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Shaded Relief
     url: http://www.shadedrelief.com/natural3/pages/extra.html
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Natural Earth
       - Terrain
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Subtle Patterns
     url: https://www.toptal.com/designers/subtlepatterns/
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Tileable
       - Web Patterns
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -80,14 +80,14 @@ entries:
     readme_tags:
       - Sprites
       - Game Rips
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: NASA 3D Resources
     url: https://nasa3d.arc.nasa.gov/
     description: 3D models, textures, and images from NASA. Mixed CC0 / CC-BY, check per-asset license.
     entry_type: asset-source
     license: Mixed
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -105,7 +105,7 @@ entries:
     description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -120,7 +120,7 @@ entries:
     description: 'NASA Scientific Visualization Studio moon kit: high-resolution moon textures and elevation data for rendering.'
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -145,7 +145,7 @@ entries:
         - generalist
       platform:
         - web
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Terrain Height Maps
     url: https://www.motionforgepictures.com/height-maps/
@@ -163,5 +163,5 @@ entries:
         - generalist
       platform:
         - web
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok

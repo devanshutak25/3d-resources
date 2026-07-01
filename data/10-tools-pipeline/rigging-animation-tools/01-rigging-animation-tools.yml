@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Auto-Rig
       - Retargeting
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: APEX (Houdini)
     url: https://www.sidefx.com/
@@ -44,14 +44,14 @@ entries:
     readme_tags:
       - Procedural Rig
       - Houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: EasyMocap
     url: https://github.com/zju3dv/EasyMocap?tab=readme-ov-file
     description: Open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -72,7 +72,7 @@ entries:
     description: Operational code-driven rigging tool for Autodesk Maya.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -95,7 +95,7 @@ entries:
     description: Fast Maya wrap deformer.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -120,7 +120,7 @@ entries:
     description: Onion Skin Renderer for Maya.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -145,7 +145,7 @@ entries:
     description: Free application designed for fast and easy character rigging.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -161,7 +161,7 @@ entries:
     description: A complete character skinning & animation library for the web
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -178,7 +178,7 @@ entries:
     description: FREE & open-source web application to animate your 3D models. Supports humanoid, four-legged, and bird creatures.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:

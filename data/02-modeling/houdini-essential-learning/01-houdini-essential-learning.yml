@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Essential Reference
       - Matt Estela
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Advanced
       - Design/Mograph
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       platform:
@@ -56,7 +56,7 @@ entries:
     readme_tags:
       - FX Focus
       - ILM Pro
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: SideFX Tutorials
     url: https://www.sidefx.com/tutorials/
@@ -66,7 +66,7 @@ entries:
     readme_tags:
       - Official
       - All Levels
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Setups + Hips
       - Farmfield
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -104,7 +104,7 @@ entries:
     readme_tags:
       - Weekly Streams
       - FX + Code
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -134,8 +134,8 @@ entries:
         - intermediate
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Houdini Blueprints
     url: https://hdbp.io/browse
     description: Browsable library of Houdini node setups and techniques.
@@ -149,8 +149,9 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: broken
+    deprecated: true
   - name: OdForce Tutorial .hip Library
     url: https://forums.odforce.net/topic/49522-tutorial-hip-library/
     description: Community thread collecting tutorial .hip files.
@@ -163,7 +164,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Houdini Hive
     url: https://www.sidefx.com/houdini-hive/houdini-hive-worldwide/
@@ -178,7 +179,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Houdini Gubbins
     url: https://houdinigubbins.wordpress.com/
@@ -193,7 +194,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: SOP Quick Reference
     url: https://jeremypaton.github.io/site/build/nodes/sop.html
@@ -208,7 +209,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Houdini Escapades (3Dmattias)
     url: https://github.com/3Dmattias/Houdini_Escapades/tree/main/hip
@@ -222,7 +223,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: HoudiniHowtos (jhorikawa)
     url: https://github.com/jhorikawa/HoudiniHowtos
@@ -236,7 +237,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: example_hips (dchow1992)
     url: https://github.com/dchow1992/example_hips
@@ -250,7 +251,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: educational-hips (pedohorse)
     url: https://github.com/pedohorse/educational-hips
@@ -265,7 +266,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: hip-files (lightReachers)
     url: https://github.com/lightReachers/hip-files
@@ -279,7 +280,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: sipiLib example-hips (SiposAttila1995)
     url: https://github.com/SiposAttila1995/sipiLib/tree/main/example-hips
@@ -293,7 +294,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: broken
     deprecated: true
   - name: Assorted Houdini Demos (jakericedesigns)
@@ -309,7 +310,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: houdini-sandbox (K240)
     url: https://github.com/K240/houdini-sandbox/tree/master/scenes
@@ -323,5 +324,5 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok

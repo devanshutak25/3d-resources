@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - Node Canvas
       - Multi-model
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Weavy
     url: https://weavy.ai/
@@ -35,7 +35,7 @@ entries:
     readme_tags:
       - Node Canvas
       - Pro Editing
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Higgsfield Canvas
     url: https://higgsfield.ai/canvas-intro
@@ -54,7 +54,7 @@ entries:
     readme_tags:
       - Node Editor
       - Image + Video
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Freepik Spaces
     url: https://www.freepik.com/spaces
@@ -73,7 +73,7 @@ entries:
     readme_tags:
       - Node Workflows
       - Stock Library
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Wireflow
     url: https://www.wireflow.ai/
@@ -91,7 +91,7 @@ entries:
         - node-based
     readme_tags:
       - Workflow Canvas
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Kaiber
     url: https://kaiber.ai/
@@ -109,5 +109,5 @@ entries:
     readme_tags:
       - Unified Canvas
       - Image + Video
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok

@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Rendering
       - SIGGRAPH
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - WebGL
       - Talk
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -45,7 +45,7 @@ entries:
     readme_tags:
       - Shaders
       - Math
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - Fundamentals
       - Talk
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -93,7 +93,7 @@ entries:
     readme_tags:
       - Fluids
       - Jason Harmon
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Not Very Dark Magic
     url: https://www.youtube.com/@notverydarkmagic
@@ -103,7 +103,7 @@ entries:
     readme_tags:
       - Hair/Fur
       - H19
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -122,7 +122,7 @@ entries:
     readme_tags:
       - Stylized
       - Pyro
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -141,7 +141,7 @@ entries:
     readme_tags:
       - Recursion
       - Subdivision
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -160,7 +160,7 @@ entries:
     readme_tags:
       - Voxel
       - Stylized
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -179,7 +179,7 @@ entries:
     readme_tags:
       - Free YouTube
       - FX Focus
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -197,7 +197,7 @@ entries:
     entry_type: channel
     readme_tags:
       - FX
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -215,7 +215,7 @@ entries:
     entry_type: channel
     readme_tags:
       - FX
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -234,7 +234,7 @@ entries:
     readme_tags:
       - Solaris
       - Lookdev
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -256,7 +256,7 @@ entries:
     readme_tags:
       - Houdini FX
       - Toolkits
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:

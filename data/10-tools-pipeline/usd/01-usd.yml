@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Official
       - Pixar
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: USD Working Group (ASWF)
     url: https://wiki.aswf.io/display/WGUSD/
@@ -32,7 +32,7 @@ entries:
     readme_tags:
       - ASWF
       - Working Group
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: NVIDIA USD Resources
     url: https://developer.nvidia.com/usd
@@ -49,7 +49,7 @@ entries:
     readme_tags:
       - NVIDIA
       - Omniverse
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Apple USD Tools
     url: https://developer.apple.com/augmented-reality/tools/
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - USDZ
       - Apple AR
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: USD Survival Guide
     url: https://lucascheller.github.io/VFX-UsdSurvivalGuide/
@@ -84,7 +84,7 @@ entries:
     readme_tags:
       - Practical Guide
       - VFX
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: USD Cookbook (Colin Kennedy)
     url: https://github.com/ColinKennedy/USD-Cookbook
@@ -102,14 +102,14 @@ entries:
     readme_tags:
       - Code Recipes
       - Examples
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Animal Logic's USD Docker
     url: https://github.com/AnimalLogic/docker-usd
     description: Docker build scripts that fetch and compile Pixar USD and its open-source dependencies.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -126,7 +126,7 @@ entries:
     description: Lightweight app for browsing, managing, and editing USD files.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -142,7 +142,7 @@ entries:
     description: Animal Logic's Maya plugin for round-tripping USD scene data into Maya.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -161,7 +161,7 @@ entries:
     description: USD plugins and schemas from Luma Pictures.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -180,7 +180,7 @@ entries:
     description: Windows File Explorer extension adding USD thumbnails, side previews, and deep-metadata search.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -197,7 +197,7 @@ entries:
     description: Node-graph viewer showing the dependencies of a USD file.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -217,7 +217,7 @@ entries:
     description: URI-based asset resolver for USD, with custom plugin support.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -236,7 +236,7 @@ entries:
     description: Qt components for building custom USD tools.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -255,7 +255,7 @@ entries:
     description: Python Qt components for building custom USD tools.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:

@@ -4,7 +4,7 @@ entries:
     description: Meta's text-to-video research model. Factorized generation, image-then-video. Demos and paper.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -19,7 +19,7 @@ entries:
     description: Colab notebook for Stable Diffusion animation, forked by @DigThatData.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -33,7 +33,7 @@ entries:
     description: Colab notebook by @RiversHaveWings generating animation from scripted prompts via KLMC2 discretization of underdamped Langevin dynamics.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -47,7 +47,7 @@ entries:
     description: Deforum v0.5 notebook for Stable Diffusion animation with math automation, perspective flips, prompt weights, and video masking.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -59,7 +59,7 @@ entries:
     description: YouTube channel covering Deforum Stable Diffusion animation techniques.
     license: Free
     entry_type: channel
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:
@@ -73,7 +73,7 @@ entries:
     description: Text-to-animation SDK for developers by Stability AI.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       tech:

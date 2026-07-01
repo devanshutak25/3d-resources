@@ -19,8 +19,8 @@ entries:
     readme_tags:
       - Browser
       - Product Design
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Vectary
     url: https://www.vectary.com/
     description: Browser-based 3D for e-commerce and product visualization.
@@ -41,15 +41,15 @@ entries:
     readme_tags:
       - Browser
       - E-commerce
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: World Machine
     url: https://www.world-machine.com/
     description: Command tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
     entry_type: software
     license: Freemium
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -70,8 +70,8 @@ entries:
     readme_tags:
       - Free NC
       - Learning Version
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/houdini-getting-started
   - name: Cascadeur
@@ -96,8 +96,8 @@ entries:
     readme_tags:
       - AI Anim
       - Free NC
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     dual_listed_in:
       - software-reference/ai-motion-capture-software
   - name: Spline
@@ -129,8 +129,8 @@ entries:
     readme_tags:
       - Browser
       - Collaborative
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Bezi
     url: https://www.bezi.com/
     description: Collaborative browser 3D design tool. Figma-style multiplayer editing for 3D scenes, prototypes, UI in 3D space.
@@ -156,8 +156,8 @@ entries:
     readme_tags:
       - Browser
       - Multiplayer
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Gravity Sketch
     url: https://www.gravitysketch.com/
     description: VR-first 3D design and modeling. Cloud sync via LandingPad; iPad companion.
@@ -185,5 +185,5 @@ entries:
     readme_tags:
       - VR
       - Concept
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok

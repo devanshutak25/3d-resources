@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - General
       - Online
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Browser
       - Converter
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Free Web
       - Multi-tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - 200+ Formats
       - API
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - Multi-format
       - Web
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -83,7 +83,7 @@ entries:
     readme_tags:
       - Web
       - General
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -98,7 +98,7 @@ entries:
     readme_tags:
       - Free
       - Web
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -113,7 +113,7 @@ entries:
     readme_tags:
       - 3D Import Lib
       - 40+ Formats
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -132,7 +132,7 @@ entries:
     readme_tags:
       - FBX→glTF
       - CLI
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -161,7 +161,7 @@ entries:
     readme_tags:
       - OBJ→glTF
       - PBR
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: glTF Transform
     url: https://gltf-transform.dev/
@@ -171,7 +171,7 @@ entries:
     readme_tags:
       - glTF Tools
       - Optimizer
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -191,7 +191,7 @@ entries:
     readme_tags:
       - glTF
       - Optimize
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -210,7 +210,7 @@ entries:
     readme_tags:
       - glTF/GLB
       - Pipeline
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -229,7 +229,7 @@ entries:
     readme_tags:
       - Validator
       - Khronos
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -249,7 +249,7 @@ entries:
     readme_tags:
       - glTF Viewer
       - Web
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -266,7 +266,7 @@ entries:
     readme_tags:
       - CLI
       - 200+ Formats
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -285,7 +285,7 @@ entries:
     readme_tags:
       - Google
       - Modern Formats
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -302,7 +302,7 @@ entries:
     readme_tags:
       - PNG/JPEG
       - Lossy
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -317,7 +317,7 @@ entries:
     readme_tags:
       - CLI
       - PNG
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -336,7 +336,7 @@ entries:
     readme_tags:
       - Audio CLI
       - Swiss Army
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -366,14 +366,14 @@ entries:
     readme_tags:
       - ASWF
       - Pipeline Standard
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: F Spy USD
     url: https://github.com/Vochsel/fspy-USD
     description: Unofficial fSpy to USD converter.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -392,7 +392,7 @@ entries:
     description: Image-to-Pixel Art converter.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -404,7 +404,7 @@ entries:
     description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -418,7 +418,7 @@ entries:
     description: Web tool to retarget Mixamo animations.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -432,7 +432,7 @@ entries:
     description: Format conversion tool for 3D Gaussian Splatting data.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -459,14 +459,14 @@ entries:
     readme_tags:
       - USD/USDZ
       - Web
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
   - name: GLTF Report
     url: https://gltf.report
     description: Web app to diagnose and optimize glTF files. Inspector supports BASIS/KTX2 textures. By Don McCurdy.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -481,7 +481,7 @@ entries:
     description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:

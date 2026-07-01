@@ -4,7 +4,7 @@ entries:
     description: AI tool for generating images and videos with control over character design, composition, and style.
     entry_type: tool
     license: Freemium
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -18,7 +18,7 @@ entries:
     description: Semantically transforming fonts into illustrations.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -32,7 +32,7 @@ entries:
     description: Canva's free built-in text-to-image generator.
     license: Freemium
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -46,7 +46,7 @@ entries:
     description: Community response to the Stable Diffusion litigation.
     license: Free
     entry_type: community
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       platform:
@@ -67,5 +67,5 @@ entries:
         - ai-generative
     readme_tags:
       - AI Image
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable

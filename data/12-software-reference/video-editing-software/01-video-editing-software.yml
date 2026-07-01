@@ -22,8 +22,8 @@ entries:
     readme_tags:
       - Free Pro
       - Full Post Pipeline
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Premiere Pro
     url: https://www.adobe.com/products/premiere.html
     description: Industry-standard NLE from Adobe.
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Adobe Suite
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
   - name: Final Cut Pro
     url: https://www.apple.com/final-cut-pro/
@@ -65,8 +65,8 @@ entries:
     readme_tags:
       - Mac-only
       - Magnetic Timeline
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Kdenlive
     url: https://kdenlive.org/
     description: Free open-source NLE.
@@ -87,8 +87,8 @@ entries:
     readme_tags:
       - Open Source
       - Cross-Platform
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Shotcut
     url: https://shotcut.org/
     description: Free open-source video editor.
@@ -111,8 +111,8 @@ entries:
     readme_tags:
       - Lightweight
       - Beginner-Friendly
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: GoZen
     url: https://gozen.voylin.com/
     description: Free open-source video editor built with Godot (alpha).
@@ -134,14 +134,14 @@ entries:
     readme_tags:
       - Godot-built
       - Alpha
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: DaVinci Resolve Training
     url: https://www.blackmagicdesign.com/products/davinciresolve/training
     description: Official free training (hundreds of hours).
     entry_type: reference
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       workflow:
         - editing
@@ -149,7 +149,7 @@ entries:
     url: https://helpx.adobe.com/premiere-pro/tutorials.html
     description: Official Adobe tutorials.
     entry_type: reference
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
     tags:
       workflow:
@@ -176,7 +176,7 @@ entries:
     readme_tags:
       - Open Source
       - Beginner-Friendly
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: OBS
     url: https://github.com/obsproject/obs-studio
@@ -190,7 +190,7 @@ entries:
     readme_tags:
       - Capture
       - Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Avid Media Composer
     url: https://www.avid.com/media-composer
@@ -213,8 +213,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Film/TV
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Vegas Pro
     url: https://www.vegascreativesoftware.com/us/vegas-pro/
     description: Magix Windows NLE with track-based timeline, HDR, and AI-assisted tools.
@@ -234,8 +234,8 @@ entries:
     readme_tags:
       - Windows Pro NLE
       - Track-based
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Vegas Movie Studio
     url: https://www.vegascreativesoftware.com/us/vegas-movie-studio/
     description: Consumer/prosumer Vegas variant for hobbyist editing.
@@ -255,8 +255,8 @@ entries:
     readme_tags:
       - Consumer
       - Windows
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: DaVinci Resolve Studio
     url: https://www.blackmagicdesign.com/products/davinciresolve
     description: Paid Resolve with neural engine, advanced noise reduction, HDR grading, and multi-user collaboration.
@@ -282,8 +282,8 @@ entries:
     readme_tags:
       - Pro Tier
       - One-time Buy
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Lightworks
     url: https://lwks.com/
     description: Pro NLE with free tier (1080p export) and paid Pro/Create tiers. Used on feature films historically.
@@ -304,8 +304,8 @@ entries:
     readme_tags:
       - Free Tier
       - Pro NLE
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: HitFilm
     url: https://fxhome.com/product/hitfilm
     description: Artlist-owned editor + VFX combo. Free tier plus Pro paid version.
@@ -325,7 +325,7 @@ entries:
     readme_tags:
       - Editor + VFX
       - Free Tier
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
   - name: iMovie
     url: https://www.apple.com/imovie/
@@ -347,8 +347,8 @@ entries:
     readme_tags:
       - Free
       - Apple
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Apple Motion
     url: https://www.apple.com/final-cut-pro/motion/
     description: Motion graphics app and FCP template authoring tool from Apple.
@@ -369,8 +369,8 @@ entries:
     readme_tags:
       - FCP Companion
       - Mac
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Apple Compressor
     url: https://www.apple.com/final-cut-pro/compressor/
     description: Encoding and delivery companion app for Final Cut Pro.
@@ -388,8 +388,8 @@ entries:
     readme_tags:
       - FCP Encode
       - Mac
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Premiere Rush
     url: https://www.adobe.com/products/premiere-rush.html
     description: Simplified cross-device Premiere for social cuts. Adobe (sunset in progress).
@@ -412,7 +412,7 @@ entries:
     readme_tags:
       - Mobile + Desktop
       - Sunsetting
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
   - name: Premiere Elements
     url: https://www.adobe.com/products/premiere-elements.html
@@ -436,7 +436,7 @@ entries:
     readme_tags:
       - One-time Buy
       - Consumer
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
   - name: CapCut Desktop
     url: https://www.capcut.com/
@@ -458,8 +458,8 @@ entries:
     readme_tags:
       - Free
       - Social-first
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Descript
     url: https://www.descript.com/
     description: Transcript-driven video and podcast editor. Edits by editing the text.
@@ -480,8 +480,8 @@ entries:
     readme_tags:
       - Transcript Edit
       - Podcast
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: VEED
     url: https://www.veed.io/
     description: Browser editor with auto-subtitles, AI tools, and screen recording.
@@ -501,8 +501,8 @@ entries:
     readme_tags:
       - Browser
       - Auto-Subs
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Clipchamp
     url: https://clipchamp.com/
     description: Microsoft's browser editor bundled with Windows 11.
@@ -522,8 +522,8 @@ entries:
     readme_tags:
       - Bundled w/ Windows
       - Browser
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: VSDC Free Video Editor
     url: https://www.videosoftdev.com/free-video-editor
     description: Windows non-linear editor, free + Pro tier.
@@ -540,8 +540,8 @@ entries:
     readme_tags:
       - Free
       - Windows
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Filmora
     url: https://filmora.wondershare.com/
     description: Wondershare beginner-friendly editor; watermarked free tier.
@@ -562,8 +562,8 @@ entries:
     readme_tags:
       - Beginner
       - Templates
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Olive
     url: https://www.olivevideoeditor.org/
     description: GPL NLE; 0.2 alpha, development stalled since 2022.
@@ -585,8 +585,8 @@ entries:
     readme_tags:
       - Alpha
       - Stalled
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
   - name: Avidemux
     url: https://avidemux.sourceforge.net/
     description: Simple OSS cut/filter/encode tool. Not a full NLE.
@@ -607,5 +607,5 @@ entries:
     readme_tags:
       - Open Source
       - Utility
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok

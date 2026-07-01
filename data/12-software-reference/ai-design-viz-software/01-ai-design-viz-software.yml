@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - Sketch to Render
       - Product Design
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: NewArc
     url: https://newarc.ai/
@@ -34,7 +34,7 @@ entries:
         - ai-generative
     readme_tags:
       - Sketch to Render
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Visualizee
     url: https://visualizee.ai/
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Architecture
       - Sketch to Render
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Veras
     url: https://www.evolvelab.io/veras
@@ -71,7 +71,7 @@ entries:
     readme_tags:
       - CAD Plugin
       - Architecture
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: SketchPro
     url: https://www.sketchpro.ai/
@@ -88,7 +88,7 @@ entries:
         - ai-generative
     readme_tags:
       - Architecture
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
   - name: Mnml.ai
     url: https://www.mnml.ai/
@@ -105,7 +105,7 @@ entries:
         - ai-generative
     readme_tags:
       - Architecture
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Arko.ai
     url: https://www.arko.ai/
@@ -122,7 +122,7 @@ entries:
         - ai-generative
     readme_tags:
       - Architecture
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: LookX
     url: https://lookx.ai/
@@ -139,5 +139,5 @@ entries:
         - ai-generative
     readme_tags:
       - Architecture
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok

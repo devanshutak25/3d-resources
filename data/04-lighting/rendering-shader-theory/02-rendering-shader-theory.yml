@@ -4,7 +4,7 @@ entries:
     description: Extended camera renders particles, then metaball processing via shader.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -24,7 +24,7 @@ entries:
     description: Shader and script for a circular color picker.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -44,7 +44,7 @@ entries:
     description: GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -62,7 +62,7 @@ entries:
     description: Node-based Unity shader editor, no coding required. Open source and unmaintained.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -83,7 +83,7 @@ entries:
     description: System using T4 Templates to generate Unity ShaderLab code in the editor.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -103,7 +103,7 @@ entries:
     description: Replacement for Unity's terrain grass shader with alpha-blended rendering and touch bending.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -121,7 +121,7 @@ entries:
     description: Cel shading of two thresholds with a blur/gradient between them for Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -141,7 +141,7 @@ entries:
     description: Source code for an Outline Shader tutorial. Detects edges using the depth and normals buffers.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -161,7 +161,7 @@ entries:
     description: Procedural vertical dissolve shader. Tweak edge color, noisiness, waviness, rim light, emission scrolling.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -181,7 +181,7 @@ entries:
     description: Geometry shader generating fur on the GPU.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -202,7 +202,7 @@ entries:
     description: Modified Unity Standard shader implementing procedural stochastic texturing.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -224,7 +224,7 @@ entries:
     description: Vilar's shaders for VRChat.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -242,7 +242,7 @@ entries:
     description: Shaders for various noise functions on the GPU.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -263,7 +263,7 @@ entries:
     description: Shadow matte shader for Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -283,7 +283,7 @@ entries:
     description: Unity project researching shaders and particle systems.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -303,7 +303,7 @@ entries:
     description: Sketches made with ShaderLab in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -323,7 +323,7 @@ entries:
     description: Container for a range of handy Unity shaders.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -343,7 +343,7 @@ entries:
     description: Unity shader effects.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -363,7 +363,7 @@ entries:
     description: Unity Shader Graph glow effect test.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -383,7 +383,7 @@ entries:
     description: Raymarching and rigidbody interaction example.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -403,7 +403,7 @@ entries:
     description: Ray tracing compute shader tutorial for Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -424,7 +424,7 @@ entries:
     description: Raymarcher in Unity 5.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -444,7 +444,7 @@ entries:
     description: All you need to know about SDFs and other shader magic.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -458,7 +458,7 @@ entries:
     description: Multi-language shader library of reusable functions.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -471,7 +471,7 @@ entries:
     description: Pyro and fire shader presets for Redshift, Arnold, and RenderMan.
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -490,7 +490,7 @@ entries:
     description: Free online shader editor.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -503,7 +503,7 @@ entries:
     description: Stylized comic book shading in UE without post-processing.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -519,7 +519,7 @@ entries:
     description: Cel-shading playlist (17 videos), UE with Lumen.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -533,7 +533,7 @@ entries:
     description: 'Moebius-style rendering: Sobel filter on depth map, crosshatch, fades.'
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -550,7 +550,7 @@ entries:
     description: 'Manga/outline shader playlist (18 videos): outlines and toon shaders.'
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -564,7 +564,7 @@ entries:
     description: Advanced cel shader material breakdown.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -580,7 +580,7 @@ entries:
     description: Blender shader editor material tutorials.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -597,7 +597,7 @@ entries:
     description: Toon and NPR shading for Blender.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -615,7 +615,7 @@ entries:
     description: Collection of shader and math related resources.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -627,8 +627,8 @@ entries:
     description: Shader derivative functions (ddx/ddy), useful for normals.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
-    url_status: ok
+    url_last_verified: '2026-07-01'
+    url_status: unreachable
     tags:
       workflow:
         - rendering
@@ -641,7 +641,7 @@ entries:
     description: Shader artist (ShaderToy XT95).
     entry_type: inspiration
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -653,7 +653,7 @@ entries:
     description: Part 1 of an introduction to shaders using three.js.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -668,7 +668,7 @@ entries:
     entry_type: reference
     license: Free
     year: 2007
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -683,7 +683,7 @@ entries:
     description: Introduction to pixel shaders in three.js.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -697,7 +697,7 @@ entries:
     description: Classic paper debunking "a pixel is a little square." Also an intro to sampling.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -711,7 +711,7 @@ entries:
     description: Short introduction to OpenGL shaders by Anton Gerdelan.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -725,7 +725,7 @@ entries:
     description: Tools for tracing OpenGL, Direct3D, and other graphics APIs.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -739,7 +739,7 @@ entries:
     description: Web node-based shader editor with react-three-fiber export.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -752,7 +752,7 @@ entries:
     description: Academy slides on how a GPU shader works.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -768,7 +768,7 @@ entries:
     description: Real-time rendering, post-processing effects, and advanced graphics techniques.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -784,7 +784,7 @@ entries:
     description: Test scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -796,7 +796,7 @@ entries:
     description: Path tracing 3D fractals in a fragment shader, by Mikael Hvidtfeldt Christensen.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -825,7 +825,7 @@ entries:
     readme_tags:
       - Reference
       - Graphics
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     stale: true
     last_pushed: '2021-03-07'

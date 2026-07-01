@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - VFX
       - Discord
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - VFX
       - Editing
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - VFX
       - Education
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - VFX
       - Discord
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Real-time VFX
       - Forum
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -84,7 +84,7 @@ entries:
     readme_tags:
       - Shaders
       - Tech Art
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -99,7 +99,7 @@ entries:
     readme_tags:
       - CG/VFX
       - Patreon
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -114,7 +114,7 @@ entries:
     readme_tags:
       - VFX
       - Real-time
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -130,7 +130,7 @@ entries:
     readme_tags:
       - Tech Art
       - Shaders
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -145,7 +145,7 @@ entries:
     readme_tags:
       - VFX
       - YouTube
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -160,7 +160,7 @@ entries:
     readme_tags:
       - CG
       - VFX
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -175,7 +175,7 @@ entries:
     readme_tags:
       - India
       - Animation
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -190,7 +190,7 @@ entries:
     readme_tags:
       - Animation
       - Discord
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -205,7 +205,7 @@ entries:
     readme_tags:
       - Animation
       - VFX
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -220,7 +220,7 @@ entries:
     readme_tags:
       - Animation
       - Index
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -235,7 +235,7 @@ entries:
     readme_tags:
       - Animation
       - Resources
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -250,8 +250,8 @@ entries:
     readme_tags:
       - Animation
       - AE
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: broken
     tags:
       workflow:
         - animation
@@ -266,7 +266,7 @@ entries:
     readme_tags:
       - 2D Animation
       - Anime
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -281,7 +281,7 @@ entries:
     readme_tags:
       - Animation
       - Pro
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -296,7 +296,7 @@ entries:
     readme_tags:
       - Animation
       - Discord
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -311,7 +311,7 @@ entries:
     readme_tags:
       - Concept Art
       - Forum
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -328,7 +328,7 @@ entries:
     readme_tags:
       - Concept Art
       - News
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -345,7 +345,7 @@ entries:
     readme_tags:
       - Concept Art
       - Org
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -362,7 +362,7 @@ entries:
     readme_tags:
       - Concept Art
       - Pro
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -379,7 +379,7 @@ entries:
     readme_tags:
       - Concept Art
       - French
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -396,7 +396,7 @@ entries:
     readme_tags:
       - Portfolio
       - Anti-AI
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -411,13 +411,14 @@ entries:
     readme_tags:
       - Artists
       - Bluesky
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: broken
     tags:
       output:
         - illustration
       platform:
         - web
+    deprecated: true
   - name: LightBox Expo Discord
     url: https://discord.gg/lightboxexpo
     description: Official LightBox Expo Discord (10K+). 8 halls covering illustration, concept art, storyboarding.
@@ -426,7 +427,7 @@ entries:
     readme_tags:
       - Illustration
       - Concept Art
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -443,7 +444,7 @@ entries:
     readme_tags:
       - ArchViz
       - Forum
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -458,7 +459,7 @@ entries:
     readme_tags:
       - ArchViz
       - Tutorials
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -473,7 +474,7 @@ entries:
     readme_tags:
       - ArchViz
       - Courses
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -488,7 +489,7 @@ entries:
     readme_tags:
       - ArchViz
       - Industry
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -503,7 +504,7 @@ entries:
     readme_tags:
       - India
       - Design
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       platform:
@@ -516,7 +517,7 @@ entries:
     readme_tags:
       - Design
       - Discord
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       platform:
@@ -529,7 +530,7 @@ entries:
     readme_tags:
       - UX
       - Product Design
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       platform:
@@ -542,7 +543,7 @@ entries:
     readme_tags:
       - India
       - Design
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       platform:
@@ -555,8 +556,8 @@ entries:
     readme_tags:
       - Design
       - Community
-    url_last_verified: '2026-06-30'
-    url_status: unreachable
+    url_last_verified: '2026-07-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -568,7 +569,7 @@ entries:
     readme_tags:
       - Filmmaking
       - Discord
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -583,7 +584,7 @@ entries:
     readme_tags:
       - Character Art
       - Sculpting
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:

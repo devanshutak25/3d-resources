@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - C4D
       - Mograph
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -24,7 +24,7 @@ entries:
     readme_tags:
       - Motion Graphics
       - Courses
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -41,7 +41,7 @@ entries:
     readme_tags:
       - 3D Motion
       - Mentorship
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -58,7 +58,7 @@ entries:
     readme_tags:
       - C4D
       - Workflow
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -75,7 +75,7 @@ entries:
     readme_tags:
       - Blender
       - $29/mo
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Broad
       - $29/mo
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -109,7 +109,7 @@ entries:
     readme_tags:
       - Pro CG
       - Courses
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -126,7 +126,7 @@ entries:
     readme_tags:
       - C4D + Octane
       - Courses
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -143,7 +143,7 @@ entries:
     readme_tags:
       - Advanced Houdini
       - ILM TD
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -164,7 +164,7 @@ entries:
     readme_tags:
       - Houdini for C4D
       - Crossover
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: broken
     tags:
       output:
@@ -184,7 +184,7 @@ entries:
     readme_tags:
       - CG
       - Per-course
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -201,7 +201,7 @@ entries:
     readme_tags:
       - 3D Design
       - Teachable
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -226,13 +226,13 @@ entries:
     readme_tags:
       - C4D + Redshift
       - 100+ Lessons
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Pixel Art Tutorial Basics for Beginners
     url: http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783
     description: Pixel art basics for beginners.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -245,7 +245,7 @@ entries:
     url: https://github.com/ssloy/tinyrenderer
     description: Computer graphics course that builds a simplified OpenGL-style software renderer from scratch.
     entry_type: reference
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -260,7 +260,7 @@ entries:
     url: https://www.udacity.com/course/interactive-3d-graphics--cs291
     description: Udacity course on real-time 3D graphics fundamentals.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -275,7 +275,7 @@ entries:
     url: https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
     description: Beginner's guide to 3D rendering and game development with OpenGL and C++.
     entry_type: book
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -294,7 +294,7 @@ entries:
     readme_tags:
       - Maya + Python
       - Zurbrigg
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -310,7 +310,7 @@ entries:
     url: https://gumroad.com/l/pixel-logic
     description: In-depth pixel art tutorial book.
     entry_type: book
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -323,7 +323,7 @@ entries:
     url: https://www.sidefx.com/tutorials/tech-gear-generator/
     description: Houdini HDA tutorial for generating cylindrical hard-surface details like gears and bolts for sci-fi assets.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -340,7 +340,7 @@ entries:
     url: https://artisticrender.com/
     description: Tutorials, tips and resources for Blender and 3D.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -353,7 +353,7 @@ entries:
     url: https://b3d.interplanety.org/en/
     description: Blender tutorials, articles and Python scripting notes.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -368,7 +368,7 @@ entries:
     url: https://www.blender3darchitect.com/
     description: News, tutorials and training for architectural visualization in Blender.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -381,7 +381,7 @@ entries:
     url: https://www.blendernation.com/
     description: Daily news, art and tutorials for Blender.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -392,7 +392,7 @@ entries:
     url: https://www.blendersecrets.org/secrets
     description: Hundreds of one-minute video tutorials, each on a specific Blender topic.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -405,7 +405,7 @@ entries:
     url: https://darkfallblender.blogspot.com/
     description: Blender Python and node tutorials.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -420,7 +420,7 @@ entries:
     url: https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview
     description: Microsoft's official tutorials for building HoloLens apps in Unity.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -435,7 +435,7 @@ entries:
     url: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
     description: Introductory tutorial for building VR experiences in Unity.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -450,7 +450,7 @@ entries:
     url: https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Python_Scripting/Introduction
     description: 'Python scripting chapter from the Blender 3D: Noob to Pro wikibook.'
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -465,7 +465,7 @@ entries:
     url: https://www.gamedev.tv/p/unreal-blueprint/
     description: Unreal Engine Blueprint game development course.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -480,7 +480,7 @@ entries:
     url: https://github.com/marwie/Design-Patterns-in-Unity-Example
     description: Derek Banas's design patterns tutorial series translated to C# in Unity.
     entry_type: reference
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -499,7 +499,7 @@ entries:
     url: https://github.com/JohnAlbin/UnityReadme
     description: Adds a readme / tutorial panel to the inspector tab of a Unity project.
     entry_type: reference
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -514,7 +514,7 @@ entries:
     url: https://houdinitricks.tumblr.com/
     description: Assorted Houdini tips and quick tutorials.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -529,7 +529,7 @@ entries:
     url: https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D
     description: Unity Learn tutorials filtered for augmented reality.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -544,7 +544,7 @@ entries:
     url: http://www.raywenderlich.com/category/unity
     description: Beginner and mid-level Unity tutorials and small example games.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -559,7 +559,7 @@ entries:
     url: https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/
     description: Setting up Vive Trackers to control objects in Unity.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
     tags:
       output:
@@ -574,7 +574,7 @@ entries:
     url: https://thecgessentials.com/
     description: Blender tutorials covering modeling, rendering, animation and particle simulation.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -587,7 +587,7 @@ entries:
     url: https://www.udacity.com/course/learn-arkit-using-unity--ud114
     description: Udacity course on ARKit development using Unity.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -602,7 +602,7 @@ entries:
     url: https://unitygem.wordpress.com/
     description: Unity3D tutorials.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -617,7 +617,7 @@ entries:
     url: https://unrealcpp.com/
     description: Tutorials covering common Unreal Engine features implemented in C++.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -634,7 +634,7 @@ entries:
     url: https://worldofleveldesign.com/
     description: Tutorials dedicated to level and environment design.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -647,7 +647,7 @@ entries:
     url: https://www.youtube.com/@azielarts
     description: Zelda-inspired landscapes built with procedural content generation.
     entry_type: channel
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -660,7 +660,7 @@ entries:
     url: https://www.youtube.com/@UnrealSensei
     description: Long-form Unreal Engine course covering Nanite and Lumen.
     entry_type: channel
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -675,7 +675,7 @@ entries:
     url: https://www.youtube.com/@UpsideTutorials
     description: Custom character skeletons and animation in Unreal.
     entry_type: channel
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -693,7 +693,7 @@ entries:
     url: https://www.youtube.com/@pomeroyartacademy
     description: Stylistic differences between Studio Ghibli and Disney animation.
     entry_type: channel
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -706,7 +706,7 @@ entries:
     url: https://www.youtube.com/@tutor4u
     description: Beginner 3D modeling tutorials in Blender.
     entry_type: channel
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:

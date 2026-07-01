@@ -17,14 +17,14 @@ entries:
     readme_tags:
       - 2D Normals
       - Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
   - name: Stitches
     url: https://draeton.github.io/stitches/
     description: An HTML5 sprite sheet generator
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -40,7 +40,7 @@ entries:
     description: Creates sprite sheets from animated GIFs
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -58,7 +58,7 @@ entries:
     description: Sprite Sheet Maker is a handy no fuss utility to pack sprites
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -72,7 +72,7 @@ entries:
     description: Sprite Sheet Slicer is a handy no fuss utility to slice sprites
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -86,7 +86,7 @@ entries:
     description: Node based, open source VFX Editor with interface and a ready to use libGDX runtime.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -105,7 +105,7 @@ entries:
     description: Free spritesheet maker to replace GlueIT. Has much newer export formats.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -120,7 +120,7 @@ entries:
     url: https://finalbossblues.com/walk-cycles-p1/
     description: Tutorial series on 2D walk-cycle animation for games.
     entry_type: tutorial
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -136,7 +136,7 @@ entries:
     description: Pico8 editor that give life to pixel art with a little wobble.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -150,7 +150,7 @@ entries:
     description: Walks you step-by-step through the available tools, pixel art techniques, the importance of shapes, colors, shading, and how to turn your art into animation.
     license: Paid
     entry_type: book
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -165,7 +165,7 @@ entries:
     url: http://www.owlboygame.com/
     description: Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
     entry_type: inspiration
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -178,7 +178,7 @@ entries:
     url: https://playstarbound.com/
     description: Travel across vibrant, colorful and expansive galaxies, including creative dynamic animations.
     entry_type: inspiration
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -191,7 +191,7 @@ entries:
     url: http://probertson.tumblr.com/
     description: Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
     entry_type: inspiration
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -205,7 +205,7 @@ entries:
     description: Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -221,7 +221,7 @@ entries:
     description: Collection of static and animated graphic objects (also commonly known as sprites).
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -235,7 +235,7 @@ entries:
     description: Adobe Air based app with game and ui related tools.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: unreachable
     tags:
       workflow:
@@ -250,7 +250,7 @@ entries:
     url: https://github.com/Kavex/GlueIT
     description: Free Simple Spritesheet Tool
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       output:
@@ -267,7 +267,7 @@ entries:
     description: Small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -281,7 +281,7 @@ entries:
     description: High efficient and fast 2D bin packing tool
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -302,7 +302,7 @@ entries:
     description: Texture Packer built into Libgdx
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -319,7 +319,7 @@ entries:
     description: CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -340,7 +340,7 @@ entries:
     description: HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases
     license: Free
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
@@ -355,7 +355,7 @@ entries:
     description: Tool for creating optimal meshes for textures/sprites and packing them into an atlas.
     license: Paid
     entry_type: tool
-    url_last_verified: '2026-06-30'
+    url_last_verified: '2026-07-01'
     url_status: ok
     tags:
       workflow:
