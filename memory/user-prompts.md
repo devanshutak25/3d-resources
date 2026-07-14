@@ -11,6 +11,14 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 
 ---
 
+### 2026-07-14 13:20
+**Prompt:**
+> Someone shared these comments- reader flagged 3 misdirected links (Cinematic Lighting tutorial, Roger Deakins on Learning to Light, StudioBinder Film Guides) all opening channel/home roots instead of the intended resource, with correct links supplied.
+
+**Answered:** Fixed all 3 in data/08-art-design/cinematography-camera/01-cinematography-camera.yml. StudioBinder Film Guides url -> /category/directing/cinematography/. Cinematic Lighting -> watch?v=eZ5hpcn6tIM, entry_type channel->tutorial. Deakins split into 3 per-episode tutorial entries (K9w8I_YD29E, Ly6pErhA3NA, G_0M_GHw9GI). Dropped stale notes, bumped url_last_verified to 2026-07-14. validate.js passed (+2 net entries).
+
+---
+
 ### 2026-06-22 12:00
 **Prompt:**
 > all the things inside this link- https://thetoolbox.art/

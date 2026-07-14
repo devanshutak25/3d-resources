@@ -1,13 +1,13 @@
 entries:
   - name: StudioBinder Film Guides
-    url: https://www.studiobinder.com/blog/
+    url: https://www.studiobinder.com/category/directing/cinematography/
     description: Shot composition, camera shots encyclopedia, camera movements, lighting.
     entry_type: reference
     license: Free
     readme_tags:
       - Film Guides
       - Encyclopedia
-    url_last_verified: '2026-07-01'
+    url_last_verified: '2026-07-14'
     url_status: ok
     tags:
       workflow:
@@ -137,16 +137,53 @@ entries:
         - web
       skill:
         - advanced
-  - name: Roger Deakins on Learning to Light
-    url: https://www.youtube.com/@StudioBinder
+  - name: Roger Deakins on Learning to Light Ep. 1
+    url: https://www.youtube.com/watch?v=K9w8I_YD29E
     description: Cinematography Techniques Ep. 1.
-    entry_type: channel
+    entry_type: tutorial
     license: Free
-    notes: URL points to StudioBinder channel root, not the specific Deakins episode. Verify/replace with episode link.
     readme_tags:
       - Roger Deakins
       - Lighting
-    url_last_verified: '2026-07-01'
+    url_last_verified: '2026-07-14'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+  - name: Roger Deakins on Learning to Light Ep. 2
+    url: https://www.youtube.com/watch?v=Ly6pErhA3NA
+    description: Cinematography Techniques Ep. 2.
+    entry_type: tutorial
+    license: Free
+    readme_tags:
+      - Roger Deakins
+      - Lighting
+    url_last_verified: '2026-07-14'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+  - name: Roger Deakins on Learning to Light Ep. 3
+    url: https://www.youtube.com/watch?v=G_0M_GHw9GI
+    description: Cinematography Techniques Ep. 3.
+    entry_type: tutorial
+    license: Free
+    readme_tags:
+      - Roger Deakins
+      - Lighting
+    url_last_verified: '2026-07-14'
     url_status: ok
     tags:
       workflow:
@@ -158,15 +195,14 @@ entries:
       skill:
         - intermediate
   - name: How to Create Stunning Cinematic Lighting
-    url: https://www.youtube.com/@fulltimefilmmaker
+    url: https://www.youtube.com/watch?v=eZ5hpcn6tIM
     description: Cinematic lighting tutorial.
-    entry_type: channel
+    entry_type: tutorial
     license: Free
-    notes: URL is creator channel root, not the specific tutorial video.
     readme_tags:
       - Cinematic Lighting
       - Technique
-    url_last_verified: '2026-07-01'
+    url_last_verified: '2026-07-14'
     url_status: ok
     tags:
       workflow:
