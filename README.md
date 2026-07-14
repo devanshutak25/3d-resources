@@ -13,7 +13,9 @@
 > 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)**. Search and filter by License · Platform · Workflow · Output.
 <!-- /only:readme -->
 
-Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](https://claude.com/claude-code) · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md) · entries partly from [thetoolbox.art](https://thetoolbox.art/)
+Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
+
+[Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md)
 
 > <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues).
 ## Contents
@@ -140,7 +142,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with [Claude Code](h
 - [Concept Art & Illustration: Courses](#concept-art--illustration-courses)<br><small class="toc-desc">Structured concept art and design courses.</small>
 - [Drawing & Painting for 3D Artists](#drawing--painting-for-3d-artists) <span class="toc-count">(16 items)</span><br><small class="toc-desc">Gesture, figure, digital painting fundamentals for 3D artists.</small>
 - [Photography: Reference & Fundamentals](#photography-reference--fundamentals) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Photography knowledge directly applicable to 3D lighting and composition.</small>
-- [Cinematography & Camera Work](#cinematography--camera-work) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Shot composition, camera techniques, lighting for film/CG.</small>
+- [Cinematography & Camera Work](#cinematography--camera-work) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Shot composition, camera techniques, lighting for film/CG.</small>
 - [Composition & Visual Storytelling](#composition--visual-storytelling) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Composition theory, color theory, visual hierarchy.</small>
 - [Animation Principles](#animation-principles) <span class="toc-count">(7 items)</span><br><small class="toc-desc">The 12 principles of animation and related fundamentals.</small>
 - [Design Principles & Typography](#design-principles--typography) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Typography, visual hierarchy, design fundamentals.</small>
@@ -2900,12 +2902,14 @@ Shot composition, camera techniques, lighting for film/CG.
 
 - [CinemaTyler](https://www.youtube.com/@CinemaTyler). Deep analysis of lens choice, color, blocking, lighting in film.
 - [Every Frame a Painting](https://www.youtube.com/@everyframeapainting). Gold-standard video essays on composition, camera, editing rhythm.<br><small class="see-also">See also: <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small>
-- [How to Create Stunning Cinematic Lighting](https://www.youtube.com/@fulltimefilmmaker). Cinematic lighting tutorial.
+- [How to Create Stunning Cinematic Lighting](https://www.youtube.com/watch?v=eZ5hpcn6tIM). Cinematic lighting tutorial.
 - [In Depth Cine](https://www.youtube.com/@InDepthCine). Practical lighting setups and narrative technique.
 - [No Film School. Cinematography](https://nofilmschool.com/topics/cinematography-cameras). Constant stream of technique articles.
-- [Roger Deakins on Learning to Light](https://www.youtube.com/@StudioBinder). Cinematography Techniques Ep. 1.
+- [Roger Deakins on Learning to Light Ep. 1](https://www.youtube.com/watch?v=K9w8I_YD29E). Cinematography Techniques Ep. 1.
+- [Roger Deakins on Learning to Light Ep. 2](https://www.youtube.com/watch?v=Ly6pErhA3NA). Cinematography Techniques Ep. 2.
+- [Roger Deakins on Learning to Light Ep. 3](https://www.youtube.com/watch?v=G_0M_GHw9GI). Cinematography Techniques Ep. 3.
 - [Shane Hurlbut ASC Blog](https://www.hurlbutvisuals.com/blog). Real DP knowledge on cinematography, lens choice, lighting setups.
-- [StudioBinder Film Guides](https://www.studiobinder.com/blog/). Shot composition, camera shots encyclopedia, camera movements, lighting.<br><small class="see-also">See also: <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small>
+- [StudioBinder Film Guides](https://www.studiobinder.com/category/directing/cinematography/). Shot composition, camera shots encyclopedia, camera movements, lighting.<br><small class="see-also">See also: <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small>
 - [Wolfcrow](https://www.youtube.com/@wolfcrow). Cinematography fundamentals, color science, exposure theory.
 
 ### Composition & Visual Storytelling
@@ -3100,7 +3104,7 @@ Storyboard apps, previs tools, script breakdown, reference managers, moodboardin
 - [Shot.Cafe](https://shot.cafe/). Searchable film and TV frames.
 - [ShotDeck](https://shotdeck.com/) <span class="lic-pill lic-paid">Paid</span>. Searchable film still library for storyboards and references.<br><small class="see-also">See also: <a href="#motion-graphics-inspiration">Motion Graphics & Video → Motion Graphics: Inspiration</a></small>
 - [Spectacle.is](https://spectacle.is/) <span class="lic-pill lic-freemium">Freemium</span>. Search commercial and branded video.
-- [StudioBinder Film Guides](https://www.studiobinder.com/blog/). Shot composition, camera shots encyclopedia, camera movements, lighting.<br><small class="see-also">See also: <a href="#cinematography--camera-work">Art, Design & Visual Storytelling → Cinematography & Camera Work</a></small>
+- [StudioBinder Film Guides](https://www.studiobinder.com/category/directing/cinematography/). Shot composition, camera shots encyclopedia, camera movements, lighting.<br><small class="see-also">See also: <a href="#cinematography--camera-work">Art, Design & Visual Storytelling → Cinematography & Camera Work</a></small>
 - [The Third Floor](https://thethirdfloorinc.com/). Previs and postvis studio blog with breakdowns from major features.
 - [VES (Visual Effects Society)](https://www.vesglobal.org/). VES handbook, talks, and methodology resources for on-set VFX.
 - [Yarn.co](https://yarn.co/) <span class="lic-pill lic-freemium">Freemium</span>. Search movie and TV dialogue, export clips or GIFs.
@@ -5690,6 +5694,7 @@ Built with help from:
 
 - [Houdini Nerd](https://discord.gg/E9zA9Ft) by Christopher Rutledge
 - [Best 3D Resources](https://annethai.notion.site/) by Anne Thai
+- [thetoolbox.art](https://thetoolbox.art/) (some entries sourced from here)
 - Community contributions via [GitHub](https://github.com/devanshutak25/3d-resources)
 - Compiled with the help of [Claude Code](https://claude.com/claude-code)
 
@@ -5701,8 +5706,78 @@ Built with help from:
 - YouTube channels & playlists
 
 <details>
-<summary><strong>GitHub awesome-lists mined (0)</strong></summary>
+<summary><strong>GitHub awesome-lists mined (70)</strong></summary>
 
+- [agarcialeon/awesome-unity](https://github.com/agarcialeon/awesome-unity)
+- [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender)
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+- [Alinshans/awesome-cg](https://github.com/Alinshans/awesome-cg)
+- [AtakanFire/Awesome-Unreal-Engine](https://github.com/AtakanFire/Awesome-Unreal-Engine)
+- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
+- [AxiomeCG/awesome-threejs](https://github.com/AxiomeCG/awesome-threejs)
+- [bcmi/Awesome-Generative-Image-Composition](https://github.com/bcmi/Awesome-Generative-Image-Composition)
+- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
+- [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD)
+- [bluesfdw/awesome-CAD](https://github.com/bluesfdw/awesome-CAD)
+- [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts)
+- [brandonhimpfen/awesome-generative-ai](https://github.com/brandonhimpfen/awesome-generative-ai)
+- [calinou/awesome-gamedev](https://github.com/calinou/awesome-gamedev)
+- [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art)
+- [cgwire/awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline)
+- [cjroth/awesome-vr](https://github.com/cjroth/awesome-vr)
+- [Coop56/awesome-unreal](https://github.com/Coop56/awesome-unreal)
+- [cutbypham/awesome-davinci-resolve](https://github.com/cutbypham/awesome-davinci-resolve)
+- [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)
+- [Domeee/awesome-augmented-reality](https://github.com/Domeee/awesome-augmented-reality)
+- [drwpow/awesome-oss-fonts](https://github.com/drwpow/awesome-oss-fonts)
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools)
+- [ericjang/awesome-graphics](https://github.com/ericjang/awesome-graphics)
+- [eug/awesome-opengl](https://github.com/eug/awesome-opengl)
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai)
+- [fire/awesome-godot-procedural-manual-generation](https://github.com/fire/awesome-godot-procedural-manual-generation)
+- [FronkonGames/Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)
+- [haxiomic/awesome-gamedev](https://github.com/haxiomic/awesome-gamedev)
+- [iamtpb/awesome-photography](https://github.com/iamtpb/awesome-photography)
+- [ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
+- [inlife/awesome-ae](https://github.com/inlife/awesome-ae)
+- [insthync/awesome-unreal](https://github.com/insthync/awesome-unreal)
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
+- [KelvinAnymoree/awesome-cg-pipeline](https://github.com/KelvinAnymoree/awesome-cg-pipeline)
+- [kidult00/awesome-AR](https://github.com/kidult00/awesome-AR)
+- [loonghao/awesome-cg-pipeline](https://github.com/loonghao/awesome-cg-pipeline)
+- [luisdnsantos/awesome-computer-graphics](https://github.com/luisdnsantos/awesome-computer-graphics)
+- [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev)
+- [mdyao/Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC)
+- [melbvr/awesome-VR](https://github.com/melbvr/awesome-VR)
+- [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality)
+- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+- [MrPeker/awesome-illustrations](https://github.com/MrPeker/awesome-illustrations)
+- [nathakits/awesome-cinema4d](https://github.com/nathakits/awesome-cinema4d)
+- [natnew/Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI)
+- [oli-z/awesome-filmmaking](https://github.com/oli-z/awesome-filmmaking)
+- [olucurious/Awesome-ARCore](https://github.com/olucurious/Awesome-ARCore)
+- [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)
+- [querielo/awesome-computer-graphics](https://github.com/querielo/awesome-computer-graphics)
+- [rive-app/awesome-rive](https://github.com/rive-app/awesome-rive)
+- [rng70/Awesome-Fonts](https://github.com/rng70/Awesome-Fonts)
+- [shlomif/awesome-graphics-programming](https://github.com/shlomif/awesome-graphics-programming)
+- [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
+- [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl)
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
+- [teamgravitydev/gamedev-free-resources](https://github.com/teamgravitydev/gamedev-free-resources)
+- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+- [terrehbyte/awesome-ue4](https://github.com/terrehbyte/awesome-ue4)
+- [TheFrenchGhosty/awesome-art](https://github.com/TheFrenchGhosty/awesome-art)
+- [tobiasbueschel/awesome-WebAR](https://github.com/tobiasbueschel/awesome-WebAR)
+- [tom-choi/awesome-cg-pipeline](https://github.com/tom-choi/awesome-cg-pipeline)
+- [tomByrer/awesome-unreal-engine](https://github.com/tomByrer/awesome-unreal-engine)
+- [UEProjectXmples/awesome-ue5](https://github.com/UEProjectXmples/awesome-ue5)
+- [unclamped/awesome-vr](https://github.com/unclamped/awesome-vr)
+- [UnityCommunity/AwesomeUnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity)
+- [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl)
+- [waitin2010/awesome-computer-graphics](https://github.com/waitin2010/awesome-computer-graphics)
+- [wentianli/awesome-video-editing](https://github.com/wentianli/awesome-video-editing)
+- [wyhinton/AwesomeHoudini](https://github.com/wyhinton/AwesomeHoudini)
 
 </details>
 
