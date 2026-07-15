@@ -189,3 +189,24 @@ entries:
         - rigging
         - animation
         - skinning
+  - name: AnimKit
+    url: https://www.nasrtech.dev/animkit
+    description: Dockable Maya toolbar of selection-aware animation tools for tweening, key manipulation, and workflow cleanup.
+    license: Paid
+    entry_type: plugin
+    url_last_verified: '2026-07-06'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - maya
+    readme_tags:
+      - Maya
+      - Animation Toolbar
