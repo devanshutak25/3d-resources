@@ -100,7 +100,8 @@ ${entryListHtml(tag.entries)}`;
     subNavHtml: '',
     htmlBody,
     navHtml: `<a class="section-nav-prev" href="/tags/">← All tags</a>\n      <span></span>`,
-    lastUpdated
+    lastUpdated,
+    analyticsContext: { pageType: 'tag', tagGroup: tag.group, tagValue: tag.value }
   });
 }
 
@@ -158,7 +159,8 @@ ${sections}`;
     subNavHtml: '',
     htmlBody,
     navHtml: `<a class="section-nav-prev" href="/">← Home</a>\n      <span></span>`,
-    lastUpdated
+    lastUpdated,
+    analyticsContext: { pageType: 'tags-hub' }
   });
 }
 

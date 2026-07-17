@@ -130,10 +130,11 @@ Secondary:
 │   ├── recheck-unreachable.js
 │   └── watch-releases.js
 │
-├── assets/                    # Source assets for the site (copied to _site/ by build).
+├── assets/                    # Source assets for the site (copied wholesale to _site/ by build-html.js `fs.cpSync`).
 │   ├── css/style.css          # ~27 KB main stylesheet.
 │   ├── css/graph.css          # ~19 KB graph view stylesheet.
-│   ├── js/filter.js           # ~53 KB filter UI (chips, search, facets).
+│   ├── js/filter.js           # ~53 KB filter UI (chips, search, facets). Emits search/filter_apply/filter_clear.
+│   ├── js/analytics.js        # Mixpanel init (idle-deferred) + outbound_click + window.track3d. Loaded on every page.
 │   ├── js/graph.js            # ~35 KB WebGL graph.
 │   ├── graph.html             # Standalone graph view template.
 │   ├── favicon.svg, apple-touch-icon.png
@@ -305,6 +306,26 @@ Any closed-enum violation exits 1 and blocks merge.
 
 - Communication: caveman lite mode (tight, no filler, no hedging).
 - Closed-enum vocab: never invent new values without asking.
+
+## 8b. Analytics (Mixpanel)
+
+Single source: `assets/js/analytics.js`. Loaded `<script defer>` by `build-html.js` (index) and `scripts/lib/page-shell.js` (all generated section/subsection/tag/hub pages) — 287 pages total. Mixpanel init is deferred to `requestIdleCallback` so it never competes with first paint (pub_plan §1.4); do not move it inline or un-defer it.
+
+**Page context:** `<body data-page-type=… data-section=… data-subsection=… data-tag-group=… data-tag-value=…>`, emitted by `analyticsAttrs()` in `page-shell.js` from the `analyticsContext` param. `page_type` ∈ `catalog | section | subsection | tag | sections-hub | tags-hub`. Any new `pageShell()` call site MUST pass `analyticsContext` or its events land as `page_type: unknown`.
+
+**Rule:** page context is merged per-event, never `mixpanel.register()` — super properties persist in a cookie and leak the previous page's section onto the next.
+
+**Events:**
+- `outbound_click` — url, host, link_text, `link_kind` (`entry` | `chrome`; chrome = header/footer/nav links so the GitHub/author links stay out of the entry funnel). On index.html only, also entry_name / entry_type / license / entry_section / entry_subsection, read from `data-*` that `filter.js` puts on each row.
+- `search` — query, query_length, result_count, `zero_results`, facet_*. Fires on a **separate 1000 ms settle timer**, NOT the 80-180 ms input debounce (that one is tuned for responsive filtering; firing on it = one event per keystroke). Deduped by last query; only fires from the input handler, so hash-restore never emits a fake search. Zero-result queries are the catalog's missing-content list.
+- `filter_apply` — group, value, action (add/remove), result_count, has_query, facet_*.
+- `filter_clear` — snapshot of what was discarded; suppressed when nothing was active.
+
+Facet groups are separate **list** properties (`facet_license: ['Free']`), not one nested object, so Mixpanel can filter "license contains Free". Counts come from `lastVisibleCount`, set inside `applyFilters()` — the single funnel all search/chip changes flow through.
+
+**API:** `window.track3d(event, props)`. Queues (cap 50) until Mixpanel loads, flushes on init, sends via `sendBeacon`, wrapped in try/catch. Callers must guard `typeof window.track3d === 'function'` (analytics.js may be adblocked).
+
+**Open:** `record_sessions_percent: 100` — full session recording on every visitor; fine at current traffic, needs sampling before a launch spike (quota). Not instrumented: graph view, TOC jumps. Not verified in a real browser (no jsdom/puppeteer in repo; would be the first devDependency).
 
 ## 9. Design style (site)
 

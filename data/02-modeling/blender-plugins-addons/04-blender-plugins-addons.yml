@@ -717,3 +717,24 @@ entries:
         - blender-addon
       platform:
         - web
+  - name: AutoRemesher Blender Bridge
+    url: https://github.com/adriflex/autoremesher-blender-bridge
+    description: Blender addon that runs AutoRemesher on selected meshes and imports the quad result back into the scene.
+    license: Open Source
+    entry_type: plugin
+    best_for: Auto-retopology inside Blender
+    tags:
+      workflow:
+        - retopo
+        - modeling
+      tech:
+        - blender-addon
+        - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+      output:
+        - generalist
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools

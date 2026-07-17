@@ -638,3 +638,41 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > add https://www.gradientool.com/
 
 **Answered:** Added Gradientool (web gradient generator, MP4/image export) → §08 art-design design-tools/01 (28 ent). license Free, type tool, platform web, output generalist. Validate ✓ 426 warn, 0 err.
+
+### 2026-07-15
+**Prompt:**
+> check PRs
+
+**Answered:** 2 open PRs: #8 AnimKit (rigging-animation-tools), #7 SplatMart (asset-marketplaces). gh CLI not on PATH, read via GitHub web UI.
+
+**Prompt:**
+> check everything and merge please
+
+**Answered:** Fetched both via `git fetch origin pull/N/head`. validate.js ✓ 427 warn 0 err on each + on merge. Both URLs live-verified real (SplatMart = splat marketplace; AnimKit = paid Maya toolbar, $49/yr). No dupes, closed enums correct. Octopus-merged both to main, pushed (b8a8a88). GitHub auto-closed #7/#8.
+
+**Prompt:** (2026-07-17)
+> add https://www.mixos.io/
+> https://github.com/huxingyi/autoremesher
+> https://github.com/adriflex/autoremesher-blender-bridge
+
+**Answered:** 2/3 already in catalog (Mixos → §12 material-creation-software; AutoRemesher → §12 retopo-uv-software, flagged stale 2022). Added only AutoRemesher Blender Bridge → §02 blender-plugins-addons/04 (35→36), plugin/OSS, dual_listed_in retopology-mesh-tools. Validate ✓ 427 warn, 0 err.
+
+**Prompt:** (2026-07-17)
+> is it possible to add better mixpanel events?
+
+**Answered:** Yes. Audit found Mixpanel inline in build-html.js only (index.html), autocapture + 100% session recording, zero custom events; ~243 generated SEO pages had no analytics at all. Proposed outbound_click, search w/ result_count, filter_apply, + page-shell rollout. Flagged 100% session sampling as launch-quota risk.
+
+**Prompt:** (2026-07-17)
+> go for adding the things you suggested
+
+**Answered:** Phase 1. New shared `assets/js/analytics.js` (Mixpanel init moved out of build-html.js verbatim, idle-deferred, parity config) + `window.track3d` queue + delegated `outbound_click` (capture + auxclick, link_kind entry|chrome). Body data-* page context via new `analyticsContext` param on pageShell, threaded through all 5 call sites. filter.js row decoration extended for entry context. Coverage 1 → 287 pages. Build green, validate ✓ 427, sitemap 243.
+
+**Prompt:** (2026-07-17)
+> Go for the next phase
+
+**Answered:** Phase 2 (filter.js events): `search` {query, result_count, zero_results, facet_*} on a separate 1000ms settle timer (not the 80-180ms input debounce) + dedupe; `filter_apply` {group, value, action, result_count}; `filter_clear` (snapshot before wipe, no-op guard). All read lastVisibleCount from applyFilters(). Clean build.sh exits 0, validate ✓ 427, sitemap 243. Reverted package.json dep churn from build.sh npm install; kept README regen (stale since b8a8a88 — SplatMart/AnimKit never re-rendered). Behavioral verification still pending (no jsdom/puppeteer in repo).
+
+**Prompt:** (2026-07-17)
+> phase 3
+
+**Answered:** No phase 3 to run — `filter_apply` (originally scoped as phase 3) already shipped in phase 2, folded in because it shares filter.js + facetProps()/lastVisibleCount with `search`. Surfaced the 3 genuinely-open items (behavioral verification, graph/TOC events, session sampling); user chose to stop. Work left uncommitted for user.

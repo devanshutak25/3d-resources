@@ -26,7 +26,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Model Libraries: Free & General](#model-libraries-free--general) <span class="toc-count">(33 items)</span><br><small class="toc-desc">General-purpose 3D model libraries with free downloads.</small>
 - [Model Libraries: Specialized](#model-libraries-specialized) <span class="toc-count">(21 items)</span><br><small class="toc-desc">Specialty model sources: characters, scans, anatomy, museums.</small>
 - [Model Libraries: Architecture & Furniture](#model-libraries-architecture--furniture) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Arch-viz, furniture, and BIM asset libraries.</small>
-- [Asset Marketplaces](#asset-marketplaces) <span class="toc-count">(9 items)</span><br><small class="toc-desc">General asset marketplaces across multiple engines and tools.</small>
+- [Asset Marketplaces](#asset-marketplaces) <span class="toc-count">(10 items)</span><br><small class="toc-desc">General asset marketplaces across multiple engines and tools.</small>
 - [Free Asset Giveaways](#free-asset-giveaways) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Recurring free asset drops. Bookmark these.</small>
 - [Software-Specific Asset Libraries](#software-specific-asset-libraries) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Official asset libraries tied to specific DCCs.</small>
 - [HDRIs](#hdris) <span class="toc-count">(11 items)</span><br><small class="toc-desc">HDR environment maps for lighting and reflections.</small>
@@ -45,7 +45,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 <details>
 <summary><a href="#modeling-sculpting--texturing">Modeling, Sculpting & Texturing</a> <span class="toc-featured">Blender · Houdini · Cinema 4D</span></summary>
 
-- [Blender: Plugins & Addons](#blender-plugins--addons) <span class="toc-count">(143 items)</span><br><small class="toc-desc">Notable addons extending Blender.</small>
+- [Blender: Plugins & Addons](#blender-plugins--addons) <span class="toc-count">(144 items)</span><br><small class="toc-desc">Notable addons extending Blender.</small>
 - [Blender: Tutorials](#blender-tutorials) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Blender learning resources, beginner to advanced.</small>
 - [Houdini: Getting Started](#houdini-getting-started) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Beginner-friendly Houdini intros.</small>
 - [Houdini: Essential Learning Resources](#houdini-essential-learning-resources) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Long-form Houdini learning hubs.</small>
@@ -177,9 +177,9 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Scene & Pipeline Tools](#scene--pipeline-tools) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Production pipelines, render management, look dev.</small>
 - [Gaussian Splatting & NeRF](#gaussian-splatting--nerf) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Neural and splatting reconstruction.</small>
 - [Photogrammetry & 3D Scanning](#photogrammetry--3d-scanning) <span class="toc-count">(73 items)</span><br><small class="toc-desc">Photogrammetry, LiDAR, and Gaussian splat capture.</small>
-- [Retopology & Mesh Tools](#retopology--mesh-tools) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Retopology and mesh processing.</small>
+- [Retopology & Mesh Tools](#retopology--mesh-tools) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Retopology and mesh processing.</small>
 - [UV Tools](#uv-tools) <span class="toc-count">(7 items)</span><br><small class="toc-desc">UV unwrapping, packing, and UDIM tools.</small>
-- [Rigging & Animation Tools](#rigging--animation-tools) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Auto-rig, retargeting, and animation middleware.</small>
+- [Rigging & Animation Tools](#rigging--animation-tools) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Auto-rig, retargeting, and animation middleware.</small>
 - [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
 - [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(49 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
 - [Plugin & Addon Marketplaces](#plugin--addon-marketplaces) <span class="toc-count">(50 items)</span><br><small class="toc-desc">Per-software plugin marketplaces.</small>
@@ -338,6 +338,7 @@ General asset marketplaces across multiple engines and tools.
 - [Julio Sillet (Gumroad)](https://gumroad.com/juliosillet) <span class="lic-pill lic-freemium">Freemium</span>. Free and paid PBR texture sets and material packs.
 - [Quixel Bridge](https://quixel.com/bridge). Desktop app linking Megascans to Blender and other DCC tools.
 - [RenderHub Free](https://www.renderhub.com/free-3d-models) <span class="lic-pill lic-freemium">Freemium</span>. Daz Content, 3D models, textures and materials.
+- [SplatMart](https://www.splatmart.com) <span class="lic-pill lic-paid">Paid</span>. Marketplace for buying and selling Gaussian splat scenes (PLY, SOGS, SPZ).
 - [Unity Asset Store](https://assetstore.unity.com/) <span class="lic-pill lic-freemium">Freemium</span>. Game-ready assets.
 - [Unreal Marketplace](https://www.unrealengine.com/marketplace) <span class="lic-pill lic-freemium">Freemium</span>. UE-optimized assets.
 
@@ -619,6 +620,7 @@ Notable addons extending Blender.
 - [Arsenal](https://katharostech.github.io/arsenal). Blender-integrated game engine written in Rust.
 - [Auto Terrainer](https://unicornhunter.gumroad.com/l/AutoTerrainer) <span class="lic-pill lic-paid">Paid</span>. Turns any low-poly mesh into customizable terrain like mountains, valleys and islands in Blender.
 - [AutoMask](https://github.com/lukas-blecher/AutoMask). Machine-learning automatic rotoscoping addon for Blender.
+- [AutoRemesher Blender Bridge](https://github.com/adriflex/autoremesher-blender-bridge). Blender addon that runs AutoRemesher on selected meshes and imports the quad result back into the scene.<br><small class="see-also">See also: <a href="#retopology--mesh-tools">Tools, Pipeline & Utilities → Retopology & Mesh Tools</a></small>
 - [Bangingcuts](https://github.com/OllyFunkster/bangingcuts). Cuts audio and video clips on audio peaks, removing silences. On recent Blender, install the install.py file instead of the zip.
 - [Blender Addons](https://github.com/Antonioya/blender). Helper addons by Antonio Vazquez.
 - [Blender Colab](https://github.com/syn73/blender-colab). Python script to render Blender scenes on Google Colab. Cycles only.
@@ -3877,6 +3879,7 @@ Retopology and mesh processing.
 | [Topogun](https://www.topogun.com/) | Standalone retopology and baking.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a></small> |  | Paid | Retopo + Bake · Classic | Retopo + baking |
 
 **Related:**
+- [AutoRemesher Blender Bridge](https://github.com/adriflex/autoremesher-blender-bridge). Blender addon that runs AutoRemesher on selected meshes and imports the quad result back into the scene.<br><small class="see-also">See also: <a href="#blender-plugins--addons">Modeling, Sculpting & Texturing → Blender: Plugins & Addons</a></small>
 - [Danny Mac 3D](https://www.youtube.com/@DannyMac3d). Character modeling, posing, rigging, retopology, sculpting.
 - [Instant Meshes Remesh](https://blenderartists.org/t/instant-meshes-remesh/1114982). Blender addon wrapping Instant Meshes for fast auto-retopology.
 - [Quad Remesher](https://exoside.com/quadremesher/) <span class="lic-pill lic-paid">Paid</span>. Auto-quad retopology plugin (Exoside) for Maya, 3ds Max, Blender, C4D, Modo, Houdini, ZBrush. ZRemesher-style algorithm.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a></small>
@@ -3907,6 +3910,7 @@ UV unwrapping, packing, and UDIM tools.
 Auto-rig, retargeting, and animation middleware.
 
 - [AccuRIG](https://actorcore.reallusion.com/auto-rig). Free application designed for fast and easy character rigging.
+- [AnimKit](https://www.nasrtech.dev/animkit) <span class="lic-pill lic-paid">Paid</span>. Dockable Maya toolbar of selection-aware animation tools for tweening, key manipulation, and workflow cleanup.
 - [APEX (Houdini)](https://www.sidefx.com/) <span class="lic-pill lic-paid">Paid</span>. SideFX's procedural node-based rigging framework.
 - [Auto-Rig Pro (Blender)](https://blendermarket.com/products/auto-rig-pro) <span class="lic-pill lic-paid">Paid</span>. Automatic rigging and retargeting.
 - [CvWrap](https://github.com/chadmv/cvwrap). Fast Maya wrap deformer.

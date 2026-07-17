@@ -108,6 +108,12 @@
       el.dataset.platform = (entry.tags.platform || []).join(' ');
       el.dataset.workflow = (entry.tags.workflow || []).join(' ');
       el.dataset.output = (entry.tags.output || []).join(' ');
+      // Catalog context for analytics.js outbound_click. Filtering never reads
+      // these; they exist so a click knows which entry it belongs to.
+      if (entry.name) el.dataset.name = entry.name;
+      if (entry.entry_type) el.dataset.entryType = entry.entry_type;
+      if (entry.section) el.dataset.section = entry.section;
+      if (entry.subsection) el.dataset.subsection = entry.subsection;
       el.setAttribute('tabindex', '0');
       // B6: stable id + hover anchor.
       const base = 'r-' + slugifyId(entry.name || '');
@@ -599,6 +605,61 @@
     }
   }
 
+  // ---------- Analytics ----------
+  // Events go through window.track3d (assets/js/analytics.js), which queues
+  // until Mixpanel loads. Guarded: filter.js must keep working when
+  // analytics.js is blocked by an extension or fails to load.
+
+  const FACET_GROUPS = ['category', 'license', 'platform', 'workflow', 'output'];
+
+  // Result count from the most recent applyFilters(), read by the event
+  // emitters below. applyFilters() is the single funnel every filter and
+  // search change flows through, so this is always the count the user sees.
+  let lastVisibleCount = 0;
+
+  function track(event, props) {
+    if (typeof window.track3d === 'function') window.track3d(event, props);
+  }
+
+  // Each facet group is emitted as its own list property rather than one
+  // nested object, so Mixpanel can filter on "license contains Free".
+  function facetProps() {
+    const out = { facet_count: 0 };
+    for (const g of FACET_GROUPS) {
+      const set = active[g];
+      if (set && set.size) {
+        out['facet_' + g] = Array.from(set).sort();
+        out.facet_count += set.size;
+      }
+    }
+    return out;
+  }
+
+  // A search event should describe a query the user finished typing, not each
+  // keystroke on the way there. The input debounce (80-180ms) is tuned for
+  // responsive filtering and is far too short to mean "done"; this settles
+  // separately and only reports queries that stopped changing.
+  const SEARCH_SETTLE_MS = 1000;
+  let searchSettleTimer = 0;
+  let lastTrackedQuery = '';
+
+  function trackSearchSettled() {
+    clearTimeout(searchSettleTimer);
+    searchSettleTimer = setTimeout(() => {
+      const q = active.search;
+      if (!q || q === lastTrackedQuery) return;
+      lastTrackedQuery = q;
+      const props = facetProps();
+      props.query = q;
+      props.query_length = q.length;
+      props.result_count = lastVisibleCount;
+      // Zero-result queries are the point of this event: they are a standing
+      // list of what the catalog is missing.
+      props.zero_results = lastVisibleCount === 0;
+      track('search', props);
+    }, SEARCH_SETTLE_MS);
+  }
+
   // ---------- Apply ----------
 
   function applyFilters() {
@@ -619,6 +680,7 @@
       item.el.style.display = show ? '' : 'none';
       if (show) visibleCount++;
     }
+    lastVisibleCount = visibleCount;
 
     reorderItems(searching);
     autoExpandMatchingSubcats();
@@ -656,10 +718,19 @@
     btn.setAttribute('aria-pressed', 'false');
     btn.addEventListener('click', () => {
       const set = active[group];
+      const adding = !set.has(value);
       if (set.has(value)) { set.delete(value); btn.classList.remove('active'); btn.setAttribute('aria-pressed', 'false'); }
       else { set.add(value); btn.classList.add('active'); btn.setAttribute('aria-pressed', 'true'); }
       applyFilters._replaceHash = false;
       applyFilters();
+      // After applyFilters so result_count reflects this toggle.
+      const props = facetProps();
+      props.group = group;
+      props.value = value;
+      props.action = adding ? 'add' : 'remove';
+      props.result_count = lastVisibleCount;
+      props.has_query = !!active.search;
+      track('filter_apply', props);
     });
     return btn;
   }
@@ -744,6 +815,7 @@
       searchDebounce = setTimeout(() => {
         active.search = v;
         applyFilters();
+        trackSearchSettled();
       }, delay);
     });
     top.appendChild(search);
@@ -757,6 +829,10 @@
     searchClear.addEventListener('click', () => {
       active.search = '';
       search.value = '';
+      // Clearing ends the current query. Reset so retyping the same term later
+      // counts as a genuine second search rather than being deduped away.
+      clearTimeout(searchSettleTimer);
+      lastTrackedQuery = '';
       // §3: do NOT recollapse autoExpanded subcats.
       applyFilters();
       search.focus();
@@ -773,6 +849,9 @@
     clear.type = 'button';
     clear.textContent = 'Clear all';
     clear.addEventListener('click', () => {
+      // Snapshot what was actually discarded, before the state is wiped.
+      const before = facetProps();
+      before.had_query = !!active.search;
       active.search = '';
       active.category.clear();
       active.license.clear();
@@ -780,8 +859,12 @@
       active.workflow.clear();
       active.output.clear();
       search.value = '';
+      clearTimeout(searchSettleTimer);
+      lastTrackedQuery = '';
       for (const c of bar.querySelectorAll('.filter-chip.active')) { c.classList.remove('active'); c.setAttribute('aria-pressed', 'false'); }
       applyFilters();
+      // A clear with nothing active is a no-op click, not a signal.
+      if (before.facet_count || before.had_query) track('filter_clear', before);
     });
     top.appendChild(clear);
 

@@ -227,7 +227,8 @@ ${items}
     subNavHtml,
     htmlBody,
     navHtml: `${prevLink}\n      ${nextLink}`,
-    lastUpdated
+    lastUpdated,
+    analyticsContext: { pageType: 'section', section: slug }
   });
 }
 
@@ -253,7 +254,12 @@ function renderSubsectionPage({ sub, slug, htmlBody, prev, next, jsonLd, lastUpd
     subNavHtml: '',
     htmlBody,
     navHtml: `${prevLink}\n      ${nextLink}`,
-    lastUpdated
+    lastUpdated,
+    analyticsContext: {
+      pageType: 'subsection',
+      section: sub.sectionSlug,
+      subsection: sub.subSlug
+    }
   });
 }
 
@@ -320,7 +326,8 @@ ${items}
     subNavHtml: '',
     htmlBody,
     navHtml: `<a class="section-nav-prev" href="/">← Home</a>\n      <a class="section-nav-next" href="/tags/">Browse by tag →</a>`,
-    lastUpdated
+    lastUpdated,
+    analyticsContext: { pageType: 'sections-hub' }
   });
 }
 

@@ -13,9 +13,27 @@ function escHtml(s) {
     .replace(/"/g, '&quot;');
 }
 
+// Renders the <body> data-* attributes that assets/js/analytics.js reads for
+// per-page event context. Keys are camelCase in JS, kebab-case in HTML.
+function analyticsAttrs(ctx) {
+  const map = {
+    pageType: 'data-page-type',
+    section: 'data-section',
+    subsection: 'data-subsection',
+    tagGroup: 'data-tag-group',
+    tagValue: 'data-tag-value'
+  };
+  return Object.keys(map)
+    .filter((k) => ctx && ctx[k])
+    .map((k) => `${map[k]}="${escHtml(ctx[k])}"`)
+    .join(' ');
+}
+
 function pageShell({ canonicalUrl, ogImage, pageTitle, desc, noindex, jsonLd,
-                     breadcrumbHtml, headerHtml, subNavHtml, htmlBody, navHtml, lastUpdated }) {
+                     breadcrumbHtml, headerHtml, subNavHtml, htmlBody, navHtml, lastUpdated,
+                     analyticsContext }) {
   const robots = noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large';
+  const bodyAttrs = analyticsAttrs(analyticsContext);
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,8 +91,9 @@ ${JSON.stringify(jsonLd, null, 2)}
     <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=clash-grotesk@400,500,600,700&display=swap">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
   </noscript>
+  <script defer src="/assets/js/analytics.js"></script>
 </head>
-<body>
+<body${bodyAttrs ? ' ' + bodyAttrs : ''}>
   <a href="#main-content" class="skip-link">Skip to main content</a>
   <div class="wrapper">
     <header>
