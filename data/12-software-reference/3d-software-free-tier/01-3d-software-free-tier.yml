@@ -187,3 +187,22 @@ entries:
       - Concept
     url_last_verified: '2026-07-01'
     url_status: ok
+  - name: Re:Form
+    url: https://reformsculpt.com/
+    description: Browser-based 3D sculpting studio that handles millions of polygons through WebGPU.
+    pricing: Free tier; Pro $9.99/mo or $99/yr
+    license: Freemium
+    entry_type: software
+    best_for: Sculpting high-density meshes without installing a desktop app
+    tags:
+      workflow:
+        - sculpting
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - gpu
+    readme_tags:
+      - Browser
+      - WebGPU

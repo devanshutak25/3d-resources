@@ -676,3 +676,12 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > phase 3
 
 **Answered:** No phase 3 to run — `filter_apply` (originally scoped as phase 3) already shipped in phase 2, folded in because it shares filter.js + facetProps()/lastVisibleCount with `search`. Surfaced the 3 genuinely-open items (behavioral verification, graph/TOC events, session sampling); user chose to stop. Work left uncommitted for user.
+
+### 2026-07-21
+**Prompt:**
+> add
+>   https://www.autodesk.com/solutions/media-entertainment/project-falcon
+>   https://reformsculpt.com/
+>   https://www.mixos.io/
+
+**Answered:** Added Autodesk Project Falcon and Re:Form to §12 software reference. Mixos already existed; skipped duplicate. Validation ✓ 427 warnings, 0 errors.

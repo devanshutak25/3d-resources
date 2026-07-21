@@ -348,3 +348,21 @@ entries:
       - Node-Based
     url_last_verified: '2026-07-01'
     url_status: ok
+  - name: Autodesk Project Falcon
+    url: https://www.autodesk.com/solutions/media-entertainment/project-falcon
+    description: Free browser-based 3D modeler for building objects by kitbashing pre-made parts.
+    license: Free
+    entry_type: software
+    best_for: Fast kitbashed models and first-time 3D creation
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Browser
+      - Kitbashing

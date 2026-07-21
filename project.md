@@ -350,6 +350,8 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 
 ## 11. Pending tasks / known work
 
+- 2026-07-21: Added Autodesk Project Falcon and Re:Form to Software Reference. Mixos was already cataloged, so no duplicate was added.
+
 ### From plan.md (architecture — mostly done)
 All 7 steps shipped 2026-04-30. Catalog migration complete. Pass driver live with `verify-tags` pass.
 
