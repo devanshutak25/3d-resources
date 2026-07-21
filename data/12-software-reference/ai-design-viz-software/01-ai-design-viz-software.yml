@@ -141,3 +141,25 @@ entries:
       - Architecture
     url_last_verified: '2026-07-01'
     url_status: ok
+  - name: The New Black
+    url: https://thenewblack.ai/
+    description: AI fashion workspace for clothing concepts, virtual try-ons, tech packs, fashion models, and 3D garments.
+    pricing: Free trial; plans from $10
+    license: Paid
+    entry_type: software
+    best_for: Fashion design and virtual garment development
+    tags:
+      workflow:
+        - concept
+        - modeling
+      output:
+        - fashion
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Fashion Design
+      - Virtual Try-On
+    url_last_verified: '2026-07-22'
+    url_status: ok

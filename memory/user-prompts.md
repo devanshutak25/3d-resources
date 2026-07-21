@@ -685,3 +685,8 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 >   https://www.mixos.io/
 
 **Answered:** Added Autodesk Project Falcon and Re:Form to §12 software reference. Mixos already existed; skipped duplicate. Validation ✓ 427 warnings, 0 errors.
+### 2026-07-22
+**Prompt:**
+> add https://editor.pascal.app/ and https://thenewblack.ai/
+
+**Answered:** Added Pascal Editor to §12 CAD Software and The New Black to §12 AI Design Viz Software. Both URLs and product details verified from their public pages.

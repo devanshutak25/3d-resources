@@ -370,3 +370,24 @@ entries:
       - Packaging
     url_last_verified: '2026-07-01'
     url_status: ok
+  - name: Pascal Editor
+    url: https://editor.pascal.app/
+    description: Open-source browser editor for 3D buildings, floor plans, rooms, roofs, furniture, and interiors.
+    license: Open Source
+    entry_type: software
+    best_for: Browser-based building and interior planning
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - web
+      tech:
+        - collaborative
+        - opensource-alt
+    readme_tags:
+      - Browser
+      - Building Editor
+    url_last_verified: '2026-07-22'
+    url_status: ok

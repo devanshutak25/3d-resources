@@ -449,3 +449,6 @@ User decisions (AskUserQuestion): NativeBlend→§09, UAssetAPI→§07, 3D MDB�
   - Verify: clean `rm -rf _site && bash build.sh` exits 0; sitemap 243 (unchanged); validate ✓ 427, 0 errors; `fs.cpSync('assets','_site/assets')` in build-html.js:466 ships analytics.js with no build.sh change.
   - Side effects handled: build.sh step 1 `npm install` bumped package.json ranges (js-yaml ^4.2.0→^4.3.0, marked ^18.0.5→^18.0.6) → REVERTED, unrelated churn. README.md regen kept: it was STALE since merge b8a8a88 (Asset Marketplaces 9→10 = SplatMart PR#7, Rigging & Animation 9→10 = AnimKit PR#8 never re-rendered) + this session's Blender Plugins 143→144 / Retopology 13→14.
   - Files: NEW `assets/js/analytics.js`; M `assets/js/filter.js`, `scripts/build-html.js`, `scripts/lib/page-shell.js`, `scripts/build-section-pages.js`, `scripts/build-tag-pages.js`, `README.md`. Uncommitted (user commits).
+## 2026-07-22 - Pascal Editor and The New Black
+- Pascal Editor classified under §12 `cad-software`: open-source browser building and interior editor.
+- The New Black classified under §12 `ai-design-viz-software`: paid AI fashion design workspace with a free trial.
