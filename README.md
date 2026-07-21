@@ -208,8 +208,8 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 <details>
 <summary><a href="#software-reference">Software Reference</a></summary>
 
-- [3D Software: Free](#3d-software-free) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Free and open-source 3D software.</small>
-- [3D Software: Free Tier](#3d-software-free-tier) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Freemium 3D software with free tier available.</small>
+- [3D Software: Free](#3d-software-free) <span class="toc-count">(19 items)</span><br><small class="toc-desc">Free and open-source 3D software.</small>
+- [3D Software: Free Tier](#3d-software-free-tier) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Freemium 3D software with free tier available.</small>
 - [3D Software: Paid](#3d-software-paid) <span class="toc-count">(31 items)</span><br><small class="toc-desc">Professional paid 3D software.</small>
 - [CAD Software](#cad-software) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
 - [2D & Animation Software](#2d--animation-software) <span class="toc-count">(58 items)</span><br><small class="toc-desc">Digital painting, illustration, 2D animation.</small>
@@ -4716,6 +4716,7 @@ Free and open-source 3D software.
 
 | Software | Description | License | Tags | Best For |
 |---|---|---|---|---|
+| [Autodesk Project Falcon](https://www.autodesk.com/solutions/media-entertainment/project-falcon) | Free browser-based 3D modeler for building objects by kitbashing pre-made parts. | Free | Browser · Kitbashing | Fast kitbashed models and first-time 3D creation |
 | [Blender](https://www.blender.org/) | Free open-source 3D creation suite. Modeling, sculpting, animation, rendering, compositing, VFX.<br><small class="see-also">See also: <a href="#industry-trends-2025-2026">Learning, Community & Industry → Industry Trends 2025-2026</a></small> | Open Source | Open Source · Full Pipeline | Full 3D pipeline, indie production |
 | [Cables.gl](https://cables.gl/) | Node-based visual programming for browser graphics and interactive WebGL. Patch editor exports to JS. | Freemium | Browser · Node-Based | Creative coding, interactive web visuals, projection mapping |
 | [Clavicula](https://clavicula.link/) | Intuitive and free 3D modeling software for everyone. | Free |  |  |
@@ -4747,6 +4748,8 @@ Freemium 3D software with free tier available.
 | [Cascadeur](https://cascadeur.com/) | AI-assisted physics-based keyframe character animation; free for non-commercial use.<br><small class="see-also">See also: <a href="#ai-motion-capture-software">Software Reference → AI Motion Capture Software</a></small> | Indie $19/mo or $96/yr (rent-to-own perpetual) | Free NC | AI Anim · Free NC | Action/fight character animation |
 | [Gravity Sketch](https://www.gravitysketch.com/) | VR-first 3D design and modeling. Cloud sync via LandingPad; iPad companion. | Free personal use, Studio $35/user/mo | Freemium | VR · Concept | Concept design, automotive, footwear, industrial design in VR |
 | [Houdini Apprentice](https://www.sidefx.com/products/houdini-apprentice/) | Free learning version of Houdini.<br><small class="see-also">See also: <a href="#houdini-getting-started">Modeling, Sculpting & Texturing → Houdini: Getting Started</a></small> |  | Free NC | Free NC · Learning Version | Learning Houdini for free |
+| [Kokraf](https://github.com/sengchor/kokraf) | Collaborative browser-based polygon modeling with real-time mesh editing. |  | Free | Browser · Collaborative | Collaborative polygon modeling in the browser |
+| [Re:Form](https://reformsculpt.com/) | Browser-based 3D sculpting studio that handles millions of polygons through WebGPU. | Free tier; Pro $9.99/mo or $99/yr | Freemium | Browser · WebGPU | Sculpting high-density meshes without installing a desktop app |
 | [Spline](https://spline.design/) | Browser-based 3D design with real-time collaboration. Exports to web, video, code. AI features for prompt-to-3D. | Free tier, Super $9/mo, Business $24/mo | Freemium | Browser · Collaborative | Interactive web 3D, UI mockups, product viz |
 | [Vectary](https://www.vectary.com/) | Browser-based 3D for e-commerce and product visualization. | Pro AI $15/mo (annual) | Freemium | Browser · E-commerce | Product viz, e-commerce |
 | [Womp3D](https://www.womp.com/) | Playful browser-based 3D modeler for product design. | Free tier, Pro $12.99/mo | Freemium | Browser · Product Design | Product design, 3D printing |

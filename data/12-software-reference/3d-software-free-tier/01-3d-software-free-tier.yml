@@ -1,4 +1,28 @@
 entries:
+  - name: Kokraf
+    url: https://github.com/sengchor/kokraf
+    description: Collaborative browser-based polygon modeling with real-time mesh editing.
+    license: Free
+    entry_type: software
+    best_for: Collaborative polygon modeling in the browser
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - collaborative
+        - real-time
+    readme_tags:
+      - Browser
+      - Collaborative
+    url_last_verified: '2026-07-21'
+    url_status: ok
   - name: Womp3D
     url: https://www.womp.com/
     description: Playful browser-based 3D modeler for product design.
