@@ -350,6 +350,7 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 
 ## 11. Pending tasks / known work
 
+- 2026-07-24: Added Motion Lab (VDB/VFX element library) to §12 vfx-compositing-software, beside ActionVFX. asset-source, Paid, tech VDB.
 - 2026-07-22: Added Pascal Editor to CAD Software and The New Black to AI Design Viz Software.
 - 2026-07-21: Added Autodesk Project Falcon and Re:Form to Software Reference. Mixos was already cataloged, so no duplicate was added.
 

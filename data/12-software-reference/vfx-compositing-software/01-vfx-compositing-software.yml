@@ -450,6 +450,22 @@ entries:
         - fx
       output:
         - film-vfx
+  - name: Motion Lab
+    url: https://motionlab.net/assets/
+    description: Membership VDB and VFX element library (explosions, smoke, fire, liquid sims).
+    entry_type: asset-source
+    license: Paid
+    tags:
+      workflow:
+        - fx
+        - compositing
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - VDB
   - name: TOOLL3
     url: https://tooll.io/
     description: Graph-based procedural real-time motion graphics for live performance or rendering.

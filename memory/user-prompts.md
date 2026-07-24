@@ -690,3 +690,8 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > add https://editor.pascal.app/ and https://thenewblack.ai/
 
 **Answered:** Added Pascal Editor to §12 CAD Software and The New Black to §12 AI Design Viz Software. Both URLs and product details verified from their public pages.
+### 2026-07-24
+**Prompt:**
+> add https://motionlab.net/assets/#
+
+**Answered:** Added Motion Lab (membership VDB/VFX element library: explosions, smoke, fire, liquid sims) to §12 vfx-compositing-software, beside ActionVFX (established VFX-stock-elements home). entry_type asset-source, license Paid, tech VDB. Validation ✓ 428 warnings, 0 errors.
