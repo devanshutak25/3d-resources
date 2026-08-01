@@ -37,7 +37,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Stock Footage](#stock-footage) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Free and archival video footage sources.</small>
 - [Audio: SFX & Music Libraries](#audio-sfx--music-libraries) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
 - [Fonts](#fonts) <span class="toc-count">(21 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
-- [Icons](#icons) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
+- [Icons](#icons) <span class="toc-count">(27 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
 - [Game Assets](#game-assets) <span class="toc-count">(43 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Cross-listed from §7.</small>
 
 </details>
@@ -81,7 +81,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [3D Lighting: Fundamentals](#3d-lighting-fundamentals) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Core lighting tutorials for beginners and generalists.</small>
 - [3D Lighting: Redshift-Specific](#3d-lighting-redshift-specific) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Redshift lighting tutorials, primarily in C4D.</small>
 - [3D Lighting: Production](#3d-lighting-production) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Production-focused lighting talks.</small>
-- [Rendering & Shader Theory](#rendering--shader-theory) <span class="toc-count">(221 items)</span><br><small class="toc-desc">Foundational rendering and shader theory references.</small>
+- [Rendering & Shader Theory](#rendering--shader-theory) <span class="toc-count">(220 items)</span><br><small class="toc-desc">Foundational rendering and shader theory references.</small>
 - [Renderer-Specific Learning](#renderer-specific-learning) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Deep-dives for specific render engines.</small>
 
 </details>
@@ -127,7 +127,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Game Dev Tools: Physics Engines](#game-dev-tools-physics-engines) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Open-source physics engines.</small>
 - [Game Dev Tools: Version Control](#game-dev-tools-version-control) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Version control for binary-heavy game projects.</small>
 - [Game Dev Tools: Analytics & Playtesting](#game-dev-tools-analytics--playtesting) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Analytics and playtesting services.</small>
-- [Game Design & Theory](#game-design--theory) <span class="toc-count">(23 items)</span><br><small class="toc-desc">Design fundamentals, patterns, and references.</small>
+- [Game Design & Theory](#game-design--theory) <span class="toc-count">(22 items)</span><br><small class="toc-desc">Design fundamentals, patterns, and references.</small>
 - [Game Dev: YouTube Channels](#game-dev-youtube-channels) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Channels covering game dev technique, design, and industry.</small>
 - [Game Dev: Courses](#game-dev-courses) <span class="toc-count">(2 items)</span><br><small class="toc-desc">Structured game dev courses.</small>
 - [Game Dev: Communities](#game-dev-communities) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Reddit, Discord, forums, indie job boards.</small>
@@ -147,7 +147,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Animation Principles](#animation-principles) <span class="toc-count">(7 items)</span><br><small class="toc-desc">The 12 principles of animation and related fundamentals.</small>
 - [Design Principles & Typography](#design-principles--typography) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Typography, visual hierarchy, design fundamentals.</small>
 - [Color Theory & Tools](#color-theory--tools) <span class="toc-count">(16 items)</span><br><small class="toc-desc">Color palettes, generators, matching, and theory tools.</small>
-- [Design Tools](#design-tools) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Vector editors, creative effect tools, and design utilities.</small>
+- [Design Tools](#design-tools) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Vector editors, creative effect tools, and design utilities.</small>
 - [General Inspiration](#general-inspiration) <span class="toc-count">(31 items)</span><br><small class="toc-desc">Blogs, feeds, and curated inspiration sources.</small>
 - [2D Art References & Inspiration](#2d-art-references--inspiration) <span class="toc-count">(5 items)</span><br><small class="toc-desc">2D animation sheets, cloth, anime model sheets.</small>
 - [Pre-Production, Storyboarding & Script Tools](#pre-production-storyboarding--script-tools) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Storyboard apps, previs tools, script breakdown, reference managers, moodboarding, and direction-theory channels.</small>
@@ -208,16 +208,16 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 <details>
 <summary><a href="#software-reference">Software Reference</a></summary>
 
-- [3D Software: Free](#3d-software-free) <span class="toc-count">(19 items)</span><br><small class="toc-desc">Free and open-source 3D software.</small>
+- [3D Software: Free](#3d-software-free) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Free and open-source 3D software.</small>
 - [3D Software: Free Tier](#3d-software-free-tier) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Freemium 3D software with free tier available.</small>
 - [3D Software: Paid](#3d-software-paid) <span class="toc-count">(31 items)</span><br><small class="toc-desc">Professional paid 3D software.</small>
-- [CAD Software](#cad-software) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
+- [CAD Software](#cad-software) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
 - [2D & Animation Software](#2d--animation-software) <span class="toc-count">(58 items)</span><br><small class="toc-desc">Digital painting, illustration, 2D animation.</small>
-- [VFX & Compositing Software](#vfx--compositing-software) <span class="toc-count">(30 items)</span><br><small class="toc-desc">VFX, compositing, and real-time simulation tools.</small>
+- [VFX & Compositing Software](#vfx--compositing-software) <span class="toc-count">(31 items)</span><br><small class="toc-desc">VFX, compositing, and real-time simulation tools.</small>
 - [Render Engines](#render-engines) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Production render engines across CPU, GPU, biased, and unbiased path tracers.</small>
 - [Video Editing Software](#video-editing-software) <span class="toc-count">(27 items)</span><br><small class="toc-desc">NLEs and post-production software.</small>
 - [Audio Software](#audio-software) <span class="toc-count">(35 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
-- [Design Software](#design-software) <span class="toc-count">(33 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
+- [Design Software](#design-software) <span class="toc-count">(32 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
 - [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
 - [Game Engines: Free & Open Source](#game-engines-free--open-source) <span class="toc-count">(62 items)</span><br><small class="toc-desc">Free and open-source game engines.</small>
 - [Game Engines: Commercial Free Tiers](#game-engines-commercial-free-tiers) <span class="toc-count">(12 items)</span><br><small class="toc-desc">Commercial engines with generous free tiers.</small>
@@ -227,7 +227,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Retopology & UV Software](#retopology--uv-software) <span class="toc-count">(12 items)</span><br><small class="toc-desc">Standalone retopology, remeshing, and UV unwrapping/packing tools.</small>
 - [Virtual Production Software](#virtual-production-software) <span class="toc-count">(26 items)</span><br><small class="toc-desc">Virtual production, broadcast graphics, and real-time stage tooling.</small>
 - [Level Design & Map Editing Software](#level-design--map-editing-software) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Standalone level editors and tile/grid map authoring tools.</small>
-- [Pipeline & Production Management Software](#pipeline--production-management-software) <span class="toc-count">(62 items)</span><br><small class="toc-desc">Production tracking, render farm management, asset pipeline orchestration.</small>
+- [Pipeline & Production Management Software](#pipeline--production-management-software) <span class="toc-count">(61 items)</span><br><small class="toc-desc">Production tracking, render farm management, asset pipeline orchestration.</small>
 - [Misc 3D Utilities Software](#misc-3d-utilities-software) <span class="toc-count">(25 items)</span><br><small class="toc-desc">Reference, scattering, simulation, and specialty 3D utilities.</small>
 - [Scientific & Medical Visualization Software](#scientific--medical-visualization-software) <span class="toc-count">(46 items)</span><br><small class="toc-desc">Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools, plus DCC bridges and educators.</small>
 - [Software Reference: Legacy & Defunct](#software-reference-legacy--defunct) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Historically significant 3D, VFX, rendering, and post software that is discontinued, sunset, or archival.</small>
@@ -238,7 +238,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [AI Motion Capture Software](#ai-motion-capture-software) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Markerless and AI-driven motion capture and pose estimation tools.</small>
 - [AI-Assisted CG Software](#ai-assisted-cg-software) <span class="toc-count">(9 items)</span><br><small class="toc-desc">AI upscaling, cleanup, generative assist, and AI-powered DCC features.</small>
 - [AI Creative Canvas Software](#ai-creative-canvas-software) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Node-based and all-in-one AI canvases that chain image, video, and 3D gen.</small>
-- [AI Design Viz Software](#ai-design-viz-software) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Sketch-to-render and AI design visualization for product and architecture.</small>
+- [AI Design Viz Software](#ai-design-viz-software) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Sketch-to-render and AI design visualization for product and architecture.</small>
 - [AI Product Photography Software](#ai-product-photography-software) <span class="toc-count">(6 items)</span><br><small class="toc-desc">AI virtual product photography and 3D digital twins for ecommerce.</small>
 
 </details>
@@ -532,7 +532,6 @@ Icon libraries and animation sets.
 - [Flaticon](https://www.flaticon.com/) <span class="lic-pill lic-freemium">Freemium</span>. Massive icon library.
 - [Font Awesome](https://fontawesome.com/) <span class="lic-pill lic-freemium">Freemium</span>. Classic icon font library.
 - [Game Icons](https://game-icons.net/). 4000+ SVG game icons.
-- [Handy Arrows](https://handyarrows.com/). Hand-drawn arrow sets.
 - [Heroicons](https://heroicons.com/). Hand-crafted SVG icons by Tailwind CSS team; outline and solid.
 - [Hugeicons](https://hugeicons.com/) <span class="lic-pill lic-freemium">Freemium</span>. 36k+ icons in multiple styles; free tier plus premium plans.
 - [Iconify](https://iconify.design/). Unified framework aggregating 200k+ open-source icons from 150+ icon sets.
@@ -997,6 +996,7 @@ Texture authoring, procedural materials, and baking tools.
 | [Onshape Free](https://www.onshape.com/en/products/free) | Cloud-based CAD with free hobbyist tier (public projects). |  | Freemium | Cloud CAD · Collaborative | Collaborative CAD, hobbyists |
 | [OpenSCAD](https://openscad.org/) | Code-based CAD for parametric design. |  | Open Source | Script-Based · Parametric | Script-based CAD |
 | [PackCAD](https://packcad.com/) | Browser 3D CAD for packaging. Models folded/origami structures with folding simulation. |  | Freemium | Browser · Packaging | Packaging and dieline design |
+| [Pascal Editor](https://editor.pascal.app/) | Open-source browser editor for 3D buildings, floor plans, rooms, roofs, furniture, and interiors. |  | Open Source | Browser · Building Editor | Browser-based building and interior planning |
 | [PTC Creo](https://www.ptc.com/en/products/creo) | Parametric mechanical CAD with simulation, generative design, and additive workflows. | Quote-based; perpetual ~$2,200–$16,000; subs $200–$1,500/mo | Paid | Parametric CAD · Industry Standard | High-end mechanical engineering |
 | [Rhino](https://www.rhino3d.com/) | NURBS-focused 3D modeling for architecture and product design. | $995 perpetual | Paid | NURBS · Grasshopper | NURBS modeling, architecture |
 | [Shapr3D](https://www.shapr3d.com/) | Touch-first parametric/direct CAD on iPad, Vision Pro, Mac, and Windows. | Pro $299/yr | Paid | Touch-first · Cross-Platform | Tablet-first concept and product CAD |
@@ -1259,7 +1259,6 @@ Foundational rendering and shader theory references.
 - [ISF](https://www.interactiveshaderformat.com/). GLSL shaders for use in interactive applications.
 - [Jendrik Illner's blog](https://www.jendrikillner.com/tags/weekly/). Ubisoft 3D programmer posts a weekly summary of articles on 3D graphics. Shader tutorials, real-time rendering papers, etc.
 - [Khronos: Streamlining Render Passes](https://www.khronos.org/blog/streamlining-render-passes). Introduces the VK_KHR_dynamic_rendering Vulkan extension.
-- [Kick.js Shader Editor](http://www.kickjs.org/tool/shader_editor/shader_editor.html). Shader editor for the Kick.js WebGL engine.
 - [Learn OpenGL](https://learnopengl.com/). Deep rendering concepts from scratch (lighting, shadows, PBR, SSAO).
 - [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation). Learn OpenGL guest article on skeletal animation.
 - [Learn OpenGL: Text Rendering](https://learnopengl.com/In-Practice/Text-Rendering). Learn OpenGL chapter on text rendering.
@@ -2665,7 +2664,6 @@ Design fundamentals, patterns, and references.
 - [DevianArt7Soul1](https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453). Offers a specific set of 420 pixel art icons designed for RPG games.
 - [Epic Games](https://github.com/epicgames). Epic Games on GitHub. Official Unreal Engine and related repos.
 - [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS). High-performance C# ECS with simple API. Supports.NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame,..
-- [Game Development Essentials: Game Level Design](http://www.goodreads.com/book/show/1633392.Game_Development_Essentials). Book on game level design fundamentals.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html). Lots of great game development patterns useful when making games with or without Unity.
 - [Game UI Database](https://www.gameuidatabase.com/). Searchable database of game UI/UX screenshots for interface reference.
 - [How To Market A Game](https://howtomarketagame.com/). Marketing strategies for indie games.
@@ -2983,7 +2981,6 @@ Vector editors, creative effect tools, and design utilities.
 | [Eagle](https://en.eagle.cool/) | Visual asset organizer.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a>, <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small> |  | Paid | Asset Organizer · Visual | Asset organization |
 | [Graphite](https://graphite.rs/) | Open-source 2D vector and raster graphics editor with procedural node-based workflow. In active development.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> |  | Open Source | Procedural · Open Source | Procedural design, non-destructive vector |
 | [Krita](https://krita.org/) | Free open-source digital painting app from KDE; v5.3 and v6.0 shipped March 2026.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a>, <a href="#2d--animation-software">Software Reference → 2D & Animation Software</a></small> |  | Open Source | Free OSS · Painting | Digital painting, concept art |
-| [Modyfi](https://www.modyfi.com/) | Browser-based creative suite.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> |  | Freemium | Browser Suite · Creative | Creative suite in browser |
 | [Photopea](https://www.photopea.com/) | Free browser-based Photoshop alternative with full PSD support.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a>, <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small> |  | Free | PSD · Browser | Quick PSD editing |
 | [Sketch](https://www.sketch.com/) | Mac-native UI/UX design tool with web previews and collaboration.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a></small> | Standard $12/editor/mo; Mac one-time $120/seat | Paid | UI/UX · Mac-native | UI/UX design on Mac |
 
@@ -3134,7 +3131,6 @@ Storyboard apps, previs tools, script breakdown, reference managers, moodboardin
 | [Krita](https://krita.org/) | Free open-source digital painting app from KDE; v5.3 and v6.0 shipped March 2026. |  | Open Source | Free OSS · Painting | Digital painting, concept art |
 | [Lunacy](https://icons8.com/lunacy) | Free graphic design app from Icons8. Native Sketch file support, built-in icons/illustrations/photos, AI tools. |  | Free | Sketch-alt · Free | UI design, Sketch file editing on Win/Linux |
 | [Microsoft Paint](https://apps.microsoft.com/detail/9PCFS5B6T72H) | Built-in Windows raster editor. Now ships with layers, transparency, and Cocreator AI. |  | Free | Windows-native · Lightweight | Quick raster edits, mockups |
-| [Modyfi](https://www.modyfi.com/) | Browser-based creative suite. |  | Freemium | Browser Suite · Creative | Creative suite in browser |
 | [Origami Studio](https://origami.design/) | Free interaction design and prototyping tool by Meta. Patch-based logic, Figma import. |  | Free | Prototyping · Meta | Interaction prototyping, motion specs |
 | [Paint.NET](https://www.getpaint.net/) | Free Windows raster editor with layers, plugins, and unlimited undo. Sits between Microsoft Paint and Photoshop. |  | Free | Windows-native · Layers | Quick raster edits, texture tweaks, photo touch-ups |
 | [Penpot](https://penpot.app/) | Open-source design platform. Native SVG/CSS/HTML output. Cloud-hosted or self-host. Figma alternative. |  | Open Source | Open Source · Figma-alt | Open-source collaborative UI/UX design |
@@ -3666,15 +3662,16 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 <h3 id="mirror-ai-design-viz-software" data-mirror="1" tabindex="-1">AI Design Viz Software</h3>
 <p class="mirror-provenance">Also in <a href="#ai-design-viz-software">Software Reference → AI Design Viz Software</a></p>
 
-| Software | Description | License | Tags | Best For |
-|---|---|---|---|---|
-| [Arko.ai](https://www.arko.ai/) | Arch-viz AI renderer for sketch and 3D model screenshots. | Freemium | Architecture | Arch-viz rendering |
-| [LookX](https://lookx.ai/) | Arch-viz AI renderer with style references. | Freemium | Architecture | Arch-viz rendering |
-| [Mnml.ai](https://www.mnml.ai/) | Arch-viz AI renderer from sketch and 3D screenshot input. | Freemium | Architecture | Arch-viz rendering |
-| [NewArc](https://newarc.ai/) | Sketch to render for product, fashion, and automotive design. | Freemium | Sketch to Render | Product and fashion render |
-| [SketchPro](https://www.sketchpro.ai/) | Sketch, SketchUp, and massing to render for architecture. | Freemium | Architecture | Architecture massing render |
-| [Visualizee](https://visualizee.ai/) | Sketch and 3D screenshot to render for architecture and interiors. | Freemium | Architecture · Sketch to Render | Architecture rendering |
-| [Vizcom](https://www.vizcom.ai/) | Sketch to render for industrial, product, and footwear design with line control. | Freemium | Sketch to Render · Product Design | Industrial design sketching |
+| Software | Description | Pricing | License | Tags | Best For |
+|---|---|---|---|---|---|
+| [Arko.ai](https://www.arko.ai/) | Arch-viz AI renderer for sketch and 3D model screenshots. |  | Freemium | Architecture | Arch-viz rendering |
+| [LookX](https://lookx.ai/) | Arch-viz AI renderer with style references. |  | Freemium | Architecture | Arch-viz rendering |
+| [Mnml.ai](https://www.mnml.ai/) | Arch-viz AI renderer from sketch and 3D screenshot input. |  | Freemium | Architecture | Arch-viz rendering |
+| [NewArc](https://newarc.ai/) | Sketch to render for product, fashion, and automotive design. |  | Freemium | Sketch to Render | Product and fashion render |
+| [SketchPro](https://www.sketchpro.ai/) | Sketch, SketchUp, and massing to render for architecture. |  | Freemium | Architecture | Architecture massing render |
+| [The New Black](https://thenewblack.ai/) | AI fashion workspace for clothing concepts, virtual try-ons, tech packs, fashion models, and 3D garments. | Free trial; plans from $10 | Paid | Fashion Design · Virtual Try-On | Fashion design and virtual garment development |
+| [Visualizee](https://visualizee.ai/) | Sketch and 3D screenshot to render for architecture and interiors. |  | Freemium | Architecture · Sketch to Render | Architecture rendering |
+| [Vizcom](https://www.vizcom.ai/) | Sketch to render for industrial, product, and footwear design with line control. |  | Freemium | Sketch to Render · Product Design | Industrial design sketching |
 
 
 <h3 id="mirror-ai-product-photography-software" data-mirror="1" tabindex="-1">AI Product Photography Software</h3>
@@ -4186,7 +4183,6 @@ Industry-to-software quick reference.
 | [Plastic SCM / Unity Version Control](https://unity.com/solutions/version-control) | Artist-friendly binary version control. |  | Freemium | Artist-Friendly · Unity-Integrated | Artist-friendly VCS |
 | [Prism Pipeline](https://prism-pipeline.com/) | Animation and VFX pipeline. |  | Freemium | Pipeline · Free Core | Indie/small studio pipeline |
 | [Royal Render](https://royalrender.de/) | Per-node render farm manager for VFX/animation pipelines. |  | Paid | Render Farm · Studio | Studio render farm management |
-| [RV (Autodesk/Tweak)](https://www.autodesk.com/products/flow-production-tracking/rv) | Standard playback and review tool, free for personal use; paid for studios. |  | Freemium | Pro Playback · Tweak/Autodesk | Pro image-sequence review/playback |
 | [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) | A SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++. |  | Freemium |  |  |
 | [Snowtrack](https://www.snowtrack.dev/) | Git-like version control aimed at artists. |  | Free | Beta · Artist VCS | Lightweight artist VCS |
 | [SyncSketch](https://syncsketch.com/) | Autodesk browser-based review and annotation for animation and VFX. | Free / from $17/mo | Freemium | Autodesk · Browser Review | Browser review/annotate |
@@ -4716,7 +4712,6 @@ Free and open-source 3D software.
 
 | Software | Description | License | Tags | Best For |
 |---|---|---|---|---|
-| [Autodesk Project Falcon](https://www.autodesk.com/solutions/media-entertainment/project-falcon) | Free browser-based 3D modeler for building objects by kitbashing pre-made parts. | Free | Browser · Kitbashing | Fast kitbashed models and first-time 3D creation |
 | [Blender](https://www.blender.org/) | Free open-source 3D creation suite. Modeling, sculpting, animation, rendering, compositing, VFX.<br><small class="see-also">See also: <a href="#industry-trends-2025-2026">Learning, Community & Industry → Industry Trends 2025-2026</a></small> | Open Source | Open Source · Full Pipeline | Full 3D pipeline, indie production |
 | [Cables.gl](https://cables.gl/) | Node-based visual programming for browser graphics and interactive WebGL. Patch editor exports to JS. | Freemium | Browser · Node-Based | Creative coding, interactive web visuals, projection mapping |
 | [Clavicula](https://clavicula.link/) | Intuitive and free 3D modeling software for everyone. | Free |  |  |
@@ -4810,6 +4805,7 @@ Computer-aided design tools.
 | [Onshape Free](https://www.onshape.com/en/products/free) | Cloud-based CAD with free hobbyist tier (public projects). |  | Freemium | Cloud CAD · Collaborative | Collaborative CAD, hobbyists |
 | [OpenSCAD](https://openscad.org/) | Code-based CAD for parametric design. |  | Open Source | Script-Based · Parametric | Script-based CAD |
 | [PackCAD](https://packcad.com/) | Browser 3D CAD for packaging. Models folded/origami structures with folding simulation. |  | Freemium | Browser · Packaging | Packaging and dieline design |
+| [Pascal Editor](https://editor.pascal.app/) | Open-source browser editor for 3D buildings, floor plans, rooms, roofs, furniture, and interiors. |  | Open Source | Browser · Building Editor | Browser-based building and interior planning |
 | [PTC Creo](https://www.ptc.com/en/products/creo) | Parametric mechanical CAD with simulation, generative design, and additive workflows. | Quote-based; perpetual ~$2,200–$16,000; subs $200–$1,500/mo | Paid | Parametric CAD · Industry Standard | High-end mechanical engineering |
 | [Rhino](https://www.rhino3d.com/) | NURBS-focused 3D modeling for architecture and product design. | $995 perpetual | Paid | NURBS · Grasshopper | NURBS modeling, architecture |
 | [Shapr3D](https://www.shapr3d.com/) | Touch-first parametric/direct CAD on iPad, Vision Pro, Mac, and Windows. | Pro $299/yr | Paid | Touch-first · Cross-Platform | Tablet-first concept and product CAD |
@@ -4924,6 +4920,7 @@ VFX, compositing, and real-time simulation tools.
 **Related:**
 - [ActionVFX](https://www.actionvfx.com/). VFX stock elements (explosions, fire, debris).
 - [JangaFX Docs](https://docs.jangafx.com/). Official EmberGen/LiquiGen documentation and how-to guides.
+- [Motion Lab](https://motionlab.net/assets/) <span class="lic-pill lic-paid">Paid</span>. Membership VDB and VFX element library (explosions, smoke, fire, liquid sims).
 - [NukePedia](https://www.nukepedia.com/). Canonical Nuke community library. Gizmos, scripts, tutorials, plugins.<br><small class="see-also">See also: <a href="#compositing-learning-books--industry">VFX, Compositing & Virtual Production → Compositing Learning, Books & Industry</a></small>
 - [SAC Script Auditor](https://github.com/SacTools/SAC-_SCRIPT_AUDITOR). Open-source Nuke tool that audits and cleans comp scripts, flagging issues and optimizing node graphs.
 
@@ -5077,7 +5074,6 @@ UI/UX, vector, raster design apps.
 | [Krita](https://krita.org/) | Free open-source digital painting app from KDE; v5.3 and v6.0 shipped March 2026.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a>, <a href="#2d--animation-software">Software Reference → 2D & Animation Software</a></small> |  | Open Source | Free OSS · Painting | Digital painting, concept art |
 | [Lunacy](https://icons8.com/lunacy) | Free graphic design app from Icons8. Native Sketch file support, built-in icons/illustrations/photos, AI tools. |  | Free | Sketch-alt · Free | UI design, Sketch file editing on Win/Linux |
 | [Microsoft Paint](https://apps.microsoft.com/detail/9PCFS5B6T72H) | Built-in Windows raster editor. Now ships with layers, transparency, and Cocreator AI. |  | Free | Windows-native · Lightweight | Quick raster edits, mockups |
-| [Modyfi](https://www.modyfi.com/) | Browser-based creative suite.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small> |  | Freemium | Browser Suite · Creative | Creative suite in browser |
 | [Origami Studio](https://origami.design/) | Free interaction design and prototyping tool by Meta. Patch-based logic, Figma import. |  | Free | Prototyping · Meta | Interaction prototyping, motion specs |
 | [Paint.NET](https://www.getpaint.net/) | Free Windows raster editor with layers, plugins, and unlimited undo. Sits between Microsoft Paint and Photoshop. |  | Free | Windows-native · Layers | Quick raster edits, texture tweaks, photo touch-ups |
 | [Penpot](https://penpot.app/) | Open-source design platform. Native SVG/CSS/HTML output. Cloud-hosted or self-host. Figma alternative. |  | Open Source | Open Source · Figma-alt | Open-source collaborative UI/UX design |
@@ -5383,7 +5379,6 @@ Production tracking, render farm management, asset pipeline orchestration.
 | [Plastic SCM / Unity Version Control](https://unity.com/solutions/version-control) | Artist-friendly binary version control.<br><small class="see-also">See also: <a href="#game-dev-tools-version-control">Game Development → Game Dev Tools: Version Control</a></small> |  | Freemium | Artist-Friendly · Unity-Integrated | Artist-friendly VCS |
 | [Prism Pipeline](https://prism-pipeline.com/) | Animation and VFX pipeline.<br><small class="see-also">See also: <a href="#scene--pipeline-tools">Tools, Pipeline & Utilities → Scene & Pipeline Tools</a></small> |  | Freemium | Pipeline · Free Core | Indie/small studio pipeline |
 | [Royal Render](https://royalrender.de/) | Per-node render farm manager for VFX/animation pipelines. |  | Paid | Render Farm · Studio | Studio render farm management |
-| [RV (Autodesk/Tweak)](https://www.autodesk.com/products/flow-production-tracking/rv) | Standard playback and review tool, free for personal use; paid for studios. |  | Freemium | Pro Playback · Tweak/Autodesk | Pro image-sequence review/playback |
 | [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) | A SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++.<br><small class="see-also">See also: <a href="#game-dev-tools-networking--multiplayer">Game Development → Game Dev Tools: Networking & Multiplayer</a></small> |  | Freemium |  |  |
 | [Snowtrack](https://www.snowtrack.dev/) | Git-like version control aimed at artists. |  | Free | Beta · Artist VCS | Lightweight artist VCS |
 | [SyncSketch](https://syncsketch.com/) | Autodesk browser-based review and annotation for animation and VFX. | Free / from $17/mo | Freemium | Autodesk · Browser Review | Browser review/annotate |
@@ -5659,15 +5654,16 @@ Node-based and all-in-one AI canvases that chain image, video, and 3D gen.
 
 Sketch-to-render and AI design visualization for product and architecture.
 
-| Software | Description | License | Tags | Best For |
-|---|---|---|---|---|
-| [Arko.ai](https://www.arko.ai/) | Arch-viz AI renderer for sketch and 3D model screenshots. | Freemium | Architecture | Arch-viz rendering |
-| [LookX](https://lookx.ai/) | Arch-viz AI renderer with style references. | Freemium | Architecture | Arch-viz rendering |
-| [Mnml.ai](https://www.mnml.ai/) | Arch-viz AI renderer from sketch and 3D screenshot input. | Freemium | Architecture | Arch-viz rendering |
-| [NewArc](https://newarc.ai/) | Sketch to render for product, fashion, and automotive design. | Freemium | Sketch to Render | Product and fashion render |
-| [SketchPro](https://www.sketchpro.ai/) | Sketch, SketchUp, and massing to render for architecture. | Freemium | Architecture | Architecture massing render |
-| [Visualizee](https://visualizee.ai/) | Sketch and 3D screenshot to render for architecture and interiors. | Freemium | Architecture · Sketch to Render | Architecture rendering |
-| [Vizcom](https://www.vizcom.ai/) | Sketch to render for industrial, product, and footwear design with line control. | Freemium | Sketch to Render · Product Design | Industrial design sketching |
+| Software | Description | Pricing | License | Tags | Best For |
+|---|---|---|---|---|---|
+| [Arko.ai](https://www.arko.ai/) | Arch-viz AI renderer for sketch and 3D model screenshots. |  | Freemium | Architecture | Arch-viz rendering |
+| [LookX](https://lookx.ai/) | Arch-viz AI renderer with style references. |  | Freemium | Architecture | Arch-viz rendering |
+| [Mnml.ai](https://www.mnml.ai/) | Arch-viz AI renderer from sketch and 3D screenshot input. |  | Freemium | Architecture | Arch-viz rendering |
+| [NewArc](https://newarc.ai/) | Sketch to render for product, fashion, and automotive design. |  | Freemium | Sketch to Render | Product and fashion render |
+| [SketchPro](https://www.sketchpro.ai/) | Sketch, SketchUp, and massing to render for architecture. |  | Freemium | Architecture | Architecture massing render |
+| [The New Black](https://thenewblack.ai/) | AI fashion workspace for clothing concepts, virtual try-ons, tech packs, fashion models, and 3D garments. | Free trial; plans from $10 | Paid | Fashion Design · Virtual Try-On | Fashion design and virtual garment development |
+| [Visualizee](https://visualizee.ai/) | Sketch and 3D screenshot to render for architecture and interiors. |  | Freemium | Architecture · Sketch to Render | Architecture rendering |
+| [Vizcom](https://www.vizcom.ai/) | Sketch to render for industrial, product, and footwear design with line control. |  | Freemium | Sketch to Render · Product Design | Industrial design sketching |
 
 **Related:**
 - [Veras](https://www.evolvelab.io/veras) <span class="lic-pill lic-paid">Paid</span>. AI render plugin inside Revit, SketchUp, Rhino, and Vectorworks.
@@ -5713,78 +5709,8 @@ Built with help from:
 - YouTube channels & playlists
 
 <details>
-<summary><strong>GitHub awesome-lists mined (70)</strong></summary>
+<summary><strong>GitHub awesome-lists mined (0)</strong></summary>
 
-- [agarcialeon/awesome-unity](https://github.com/agarcialeon/awesome-unity)
-- [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender)
-- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-- [Alinshans/awesome-cg](https://github.com/Alinshans/awesome-cg)
-- [AtakanFire/Awesome-Unreal-Engine](https://github.com/AtakanFire/Awesome-Unreal-Engine)
-- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
-- [AxiomeCG/awesome-threejs](https://github.com/AxiomeCG/awesome-threejs)
-- [bcmi/Awesome-Generative-Image-Composition](https://github.com/bcmi/Awesome-Generative-Image-Composition)
-- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
-- [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD)
-- [bluesfdw/awesome-CAD](https://github.com/bluesfdw/awesome-CAD)
-- [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts)
-- [brandonhimpfen/awesome-generative-ai](https://github.com/brandonhimpfen/awesome-generative-ai)
-- [calinou/awesome-gamedev](https://github.com/calinou/awesome-gamedev)
-- [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art)
-- [cgwire/awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline)
-- [cjroth/awesome-vr](https://github.com/cjroth/awesome-vr)
-- [Coop56/awesome-unreal](https://github.com/Coop56/awesome-unreal)
-- [cutbypham/awesome-davinci-resolve](https://github.com/cutbypham/awesome-davinci-resolve)
-- [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)
-- [Domeee/awesome-augmented-reality](https://github.com/Domeee/awesome-augmented-reality)
-- [drwpow/awesome-oss-fonts](https://github.com/drwpow/awesome-oss-fonts)
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools)
-- [ericjang/awesome-graphics](https://github.com/ericjang/awesome-graphics)
-- [eug/awesome-opengl](https://github.com/eug/awesome-opengl)
-- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai)
-- [fire/awesome-godot-procedural-manual-generation](https://github.com/fire/awesome-godot-procedural-manual-generation)
-- [FronkonGames/Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)
-- [haxiomic/awesome-gamedev](https://github.com/haxiomic/awesome-gamedev)
-- [iamtpb/awesome-photography](https://github.com/iamtpb/awesome-photography)
-- [ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
-- [inlife/awesome-ae](https://github.com/inlife/awesome-ae)
-- [insthync/awesome-unreal](https://github.com/insthync/awesome-unreal)
-- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
-- [KelvinAnymoree/awesome-cg-pipeline](https://github.com/KelvinAnymoree/awesome-cg-pipeline)
-- [kidult00/awesome-AR](https://github.com/kidult00/awesome-AR)
-- [loonghao/awesome-cg-pipeline](https://github.com/loonghao/awesome-cg-pipeline)
-- [luisdnsantos/awesome-computer-graphics](https://github.com/luisdnsantos/awesome-computer-graphics)
-- [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev)
-- [mdyao/Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC)
-- [melbvr/awesome-VR](https://github.com/melbvr/awesome-VR)
-- [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality)
-- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
-- [MrPeker/awesome-illustrations](https://github.com/MrPeker/awesome-illustrations)
-- [nathakits/awesome-cinema4d](https://github.com/nathakits/awesome-cinema4d)
-- [natnew/Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI)
-- [oli-z/awesome-filmmaking](https://github.com/oli-z/awesome-filmmaking)
-- [olucurious/Awesome-ARCore](https://github.com/olucurious/Awesome-ARCore)
-- [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)
-- [querielo/awesome-computer-graphics](https://github.com/querielo/awesome-computer-graphics)
-- [rive-app/awesome-rive](https://github.com/rive-app/awesome-rive)
-- [rng70/Awesome-Fonts](https://github.com/rng70/Awesome-Fonts)
-- [shlomif/awesome-graphics-programming](https://github.com/shlomif/awesome-graphics-programming)
-- [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
-- [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl)
-- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
-- [teamgravitydev/gamedev-free-resources](https://github.com/teamgravitydev/gamedev-free-resources)
-- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
-- [terrehbyte/awesome-ue4](https://github.com/terrehbyte/awesome-ue4)
-- [TheFrenchGhosty/awesome-art](https://github.com/TheFrenchGhosty/awesome-art)
-- [tobiasbueschel/awesome-WebAR](https://github.com/tobiasbueschel/awesome-WebAR)
-- [tom-choi/awesome-cg-pipeline](https://github.com/tom-choi/awesome-cg-pipeline)
-- [tomByrer/awesome-unreal-engine](https://github.com/tomByrer/awesome-unreal-engine)
-- [UEProjectXmples/awesome-ue5](https://github.com/UEProjectXmples/awesome-ue5)
-- [unclamped/awesome-vr](https://github.com/unclamped/awesome-vr)
-- [UnityCommunity/AwesomeUnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity)
-- [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl)
-- [waitin2010/awesome-computer-graphics](https://github.com/waitin2010/awesome-computer-graphics)
-- [wentianli/awesome-video-editing](https://github.com/wentianli/awesome-video-editing)
-- [wyhinton/AwesomeHoudini](https://github.com/wyhinton/AwesomeHoudini)
 
 </details>
 
