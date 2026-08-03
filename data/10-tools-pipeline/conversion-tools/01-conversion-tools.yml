@@ -330,14 +330,17 @@ entries:
         - opensource-alt
   - name: SoX
     url: https://sourceforge.net/projects/sox/
-    description: CLI audio processing.
+    description: Command-line audio converter and batch processor for format, resample, and effect passes.
     license: Open Source
     entry_type: tool
+    best_for: Batch audio conversion
     readme_tags:
       - Audio CLI
-      - Swiss Army
+      - Batch
     url_last_verified: '2026-08-01'
     url_status: ok
+    dual_listed_in:
+      - software-reference/audio-software
     tags:
       output:
         - generalist

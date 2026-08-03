@@ -695,3 +695,23 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > add https://motionlab.net/assets/#
 
 **Answered:** Added Motion Lab (membership VDB/VFX element library: explosions, smoke, fire, liquid sims) to §12 vfx-compositing-software, beside ActionVFX (established VFX-stock-elements home). entry_type asset-source, license Paid, tech VDB. Validation ✓ 428 warnings, 0 errors.
+### 2026-08-04
+**Prompt:**
+> add https://apps.apple.com/us/app/garageband/id408709785
+> https://www.ableton.com/
+> https://www.reaper.fm/
+> https://vcvrack.com/
+> https://www.image-line.com/
+> https://cycling74.com/downloads
+> https://github.com/j-p-higgins/SoundThread
+> and other audio production and editing related tools
+>
+> and add (and similar things)
+> https://omma.build/
+
+**Answered:** §12 audio-software 36→48 (Ableton/Reaper/VCV/FL Studio/Max already present). Added GarageBand, SoundThread, Audio Design Desk, Ocenaudio, Waveform Free, Renoise, Bespoke Synth, Surge XT, Vital, Csound, ChucK, Melodyne. SoX already canonical in §10 conversion-tools → mirrored via dual_listed_in instead of duplicating. §12 ai-canvas-software 6→9: Omma (Spline prompt-to-3D/app builder) + Rosebud AI + Websim. Validation ✓ 428 warnings, 0 errors.
+
+**Prompt:**
+> yes, please fix
+
+**Answered:** Moved FotoSketcher (photo-to-sketch stylizer) out of §12 audio-software → §12 design-software. Pure move, no mirror. audio-software 48→47, design-software 31→32. Validation ✓ 428 warnings, 0 errors.

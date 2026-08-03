@@ -350,6 +350,7 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 
 ## 11. Pending tasks / known work
 
+- 2026-08-04: §12 `audio-software` 36→48 entries (GarageBand, SoundThread, Audio Design Desk, Ocenaudio, Waveform Free, Renoise, Bespoke Synth, Surge XT, Vital, Csound, ChucK, Melodyne). SoX stayed canonical in §10 `conversion-tools` + `dual_listed_in: software-reference/audio-software`. §12 `ai-canvas-software` 6→9 (Omma, Rosebud AI, Websim) — bucket now covers prompt-to-experience builders, not only node canvases. FotoSketcher misfile fixed: moved `audio-software` → `design-software` (pure move, no dual_listed_in). Final: audio-software 47, design-software 32, ai-canvas-software 9.
 - 2026-07-24: Added Motion Lab (VDB/VFX element library) to §12 vfx-compositing-software, beside ActionVFX. asset-source, Paid, tech VDB.
 - 2026-07-22: Added Pascal Editor to CAD Software and The New Black to AI Design Viz Software.
 - 2026-07-21: Added Autodesk Project Falcon and Re:Form to Software Reference. Mixos was already cataloged, so no duplicate was added.

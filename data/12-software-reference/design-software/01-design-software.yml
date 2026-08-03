@@ -638,3 +638,19 @@ entries:
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
+  - name: FotoSketcher
+    url: https://fotosketcher.com/
+    description: Windows freeware that converts photos to sketch, painting, and pastel renders. Batchable.
+    license: Free
+    entry_type: software
+    best_for: Quick stylize batches
+    tags:
+      output:
+        - illustration
+      platform:
+        - win
+    readme_tags:
+      - Freeware
+      - Photo Stylize
+    url_last_verified: '2026-08-01'
+    url_status: ok

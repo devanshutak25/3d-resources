@@ -111,3 +111,65 @@ entries:
       - Image + Video
     url_last_verified: '2026-08-01'
     url_status: ok
+  - name: Omma
+    url: https://omma.build/
+    description: Prompt-driven builder from Spline that generates 3D scenes, sites, games, and decks. Accepts GLB, OBJ, and data files as input.
+    license: Freemium
+    entry_type: software
+    best_for: Prompt to interactive 3D scene
+    tags:
+      output:
+        - generalist
+        - xr
+      platform:
+        - web
+        - mac
+      tech:
+        - ai-generative
+        - real-time
+    readme_tags:
+      - Prompt to App
+      - Spline
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Rosebud AI
+    url: https://rosebud.ai/
+    description: Prompt-to-game builder that outputs playable 2D and 3D browser games with editable code.
+    license: Freemium
+    entry_type: software
+    best_for: Prompt to playable game
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - real-time
+    readme_tags:
+      - Prompt to Game
+      - Browser
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Websim
+    url: https://websim.com/
+    description: Generates and remixes interactive web pages and toys from a prompt or URL.
+    license: Freemium
+    entry_type: software
+    best_for: Prompt to interactive page
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Prompt to Web
+      - Remixable
+    url_last_verified: '2026-08-04'
+    url_status: ok

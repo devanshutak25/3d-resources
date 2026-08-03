@@ -690,19 +690,252 @@ entries:
     url_last_verified: '2026-08-01'
     url_status: broken
     deprecated: true
-  - name: FotoSketcher
-    url: https://fotosketcher.com/
-    description: Windows freeware that converts photos to sketch, painting, and pastel renders. Batchable.
+  - name: GarageBand
+    url: https://apps.apple.com/us/app/garageband/id408709785
+    description: Free Apple DAW with built-in loops, drummers, and amp models.
     license: Free
     entry_type: software
-    best_for: Quick stylize batches
+    best_for: Free entry-level DAW on Apple
     tags:
+      workflow:
+        - audio-design
+      platform:
+        - mac
+        - ios
+        - ipad
+      skill:
+        - beginner
+    readme_tags:
+      - Free
+      - Apple
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: SoundThread
+    url: https://github.com/j-p-higgins/SoundThread
+    description: Node-based patching front end for the Composers Desktop Project sound manipulation tools.
+    license: Open Source
+    entry_type: software
+    best_for: Experimental spectral sound design
+    tags:
+      workflow:
+        - audio-design
       output:
-        - illustration
+        - film-vfx
+        - games
       platform:
         - win
+        - mac
+        - linux
+      tech:
+        - node-based
+        - opensource-alt
     readme_tags:
-      - Freeware
-      - Photo Stylize
-    url_last_verified: '2026-08-01'
+      - Node-Based
+      - CDP Front End
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Audio Design Desk
+    url: https://audiodesigndesk.com/
+    description: Sound design app that places SFX, foley, and music against picture from typed cues.
+    license: Paid
+    entry_type: software
+    best_for: Fast sound design to picture
+    tags:
+      workflow:
+        - audio-design
+        - editing
+      output:
+        - film-vfx
+        - motion-graphics
+        - broadcast
+      platform:
+        - mac
+    readme_tags:
+      - Sound to Picture
+      - Cue Driven
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Ocenaudio
+    url: https://www.ocenaudio.com/
+    description: Free waveform editor with real-time effect preview and large-file handling.
+    license: Free
+    entry_type: software
+    best_for: Quick waveform edits
+    tags:
+      workflow:
+        - audio-design
+        - editing
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+    readme_tags:
+      - Free
+      - Waveform Editor
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Waveform Free
+    url: https://www.tracktion.com/products/waveform-free
+    description: Tracktion DAW with unlimited tracks at no cost.
+    license: Free
+    entry_type: software
+    best_for: Free unlimited-track DAW
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Free
+      - Unlimited Tracks
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Renoise
+    url: https://www.renoise.com/
+    description: Tracker-style DAW with sample-level editing and per-line command control.
+    pricing: $75 perpetual
+    license: Paid
+    entry_type: software
+    best_for: Tracker workflow production
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - perpetual
+    readme_tags:
+      - Tracker
+      - Perpetual
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Bespoke Synth
+    url: https://www.bespokesynth.com/
+    description: Open-source modular DAW where patch cables rewire the signal path while it plays.
+    license: Open Source
+    entry_type: software
+    best_for: Live modular patching
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Modular DAW
+      - Open Source
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Surge XT
+    url: https://surge-synthesizer.github.io/
+    description: Open-source hybrid synthesizer with wavetable, FM, and subtractive engines.
+    license: Open Source
+    entry_type: software
+    best_for: Free pro synth plugin
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Open Source
+      - Synth
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Vital
+    url: https://vital.audio/
+    description: Spectral warping wavetable synth. Free tier covers most sound design work.
+    pricing: Free / Plus $25 / Pro $80
+    license: Freemium
+    entry_type: software
+    best_for: Wavetable sound design
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Wavetable
+      - Free Tier
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Csound
+    url: https://csound.com/
+    description: Sound and music computing system with a text-based orchestra and score model.
+    license: Open Source
+    entry_type: software
+    best_for: Scripted synthesis and DSP
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - advanced
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Audio DSL
+      - Open Source
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: ChucK
+    url: https://chuck.stanford.edu/
+    description: Strongly timed audio programming language for livecoding and synthesis.
+    license: Open Source
+    entry_type: software
+    best_for: Timed audio programming
+    tags:
+      workflow:
+        - audio-design
+        - creative-coding
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - advanced
+    readme_tags:
+      - Livecoding
+      - Stanford
+    url_last_verified: '2026-08-04'
+    url_status: ok
+  - name: Melodyne
+    url: https://www.celemony.com/en/melodyne
+    description: Pitch and timing editor that separates notes inside polyphonic recordings.
+    license: Paid
+    entry_type: software
+    best_for: Pitch and timing repair
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Pitch Editing
+      - DNA
+    url_last_verified: '2026-08-04'
     url_status: ok
