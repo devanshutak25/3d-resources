@@ -18,8 +18,15 @@ jobs:
         with:
           node-version: 20
       - run: npm install js-yaml
+      # check-links.js names its report with a UTC date (new Date().toISOString()),
+      # so the path must be computed here in a shell step. A `$(date)` inside a
+      # `with:` value is NOT expanded (no shell runs there) and silently points at
+      # a literal filename that never exists.
       - name: Check all URLs
-        run: node scripts/check-links.js
+        id: linkcheck
+        run: |
+          node scripts/check-links.js
+          echo "report=_maintenance/link-check-$(date -u +%Y-%m-%d).md" >> "$GITHUB_OUTPUT"
       - name: Regenerate README from updated data
         run: |
           npm install marked
@@ -35,5 +42,5 @@ jobs:
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: "Link check report — ${{ github.run_id }}"
-          content-filepath: _maintenance/link-check-$(date +%Y-%m-%d).md
+          content-filepath: ${{ steps.linkcheck.outputs.report }}
           labels: maintenance,link-check

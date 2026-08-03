@@ -9,7 +9,13 @@ _site/
 # Scratch & session-specific artifacts
 temp_session_plan.md
 TOC_FRAMEWORK.md
-_maintenance/
+# Ignore everything under _maintenance/ EXCEPT the release watcher's state file.
+# The negation needs `_maintenance/*` (not `_maintenance/`): git cannot re-include
+# a file whose parent directory is itself excluded.
+# release-state.json must persist across runs or release-watch.yml re-reports
+# every watched release every month.
+_maintenance/*
+!_maintenance/release-state.json
 handoff/
 # press release + media/creator contact lists (private; contains personal emails)
 press/

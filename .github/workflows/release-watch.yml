@@ -21,6 +21,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/watch-releases.js
+      # _maintenance/release-state.json is un-ignored in .gitignore specifically so
+      # this add can succeed. `git add` on an ignored path exits 1 and fails the
+      # step, which is what broke every run of this workflow before 2026-08-04.
       - name: Commit updated state
         run: |
           git config user.name "release-watch-bot"

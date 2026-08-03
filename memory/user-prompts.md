@@ -725,3 +725,8 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > clean up, yes please
 
 **Answered:** Deleted local merged branch `pub-plan`. Remote `origin/pub-plan` + `origin/restructure` verified 0 commits ahead of main but deletion blocked (no git credentials in session) — user runs `git push origin --delete pub-plan restructure`. Also fixed the stale README-mode claim in project.md §3 + §6: repo ships the FULL render (~760 KB); `render.js --mode=lite` exists but no caller in build.sh or link-check.yml.
+
+**Prompt:**
+> check if there are any open issues and fix them
+
+**Answered:** 0 open GitHub issues/PRs (re-confirmed), but found 2 CI workflows failing every scheduled run. (1) `release-watch.yml` failed all 4 runs since May: `git add _maintenance/release-state.json` on a gitignored path exits 1. Fixed via `.gitignore` `_maintenance/*` + `!_maintenance/release-state.json` (negation needs the glob form; git can't re-include a file under an excluded dir). Reproduced + verified locally. (2) `freshness.yml` succeeded in May with a direct-commit step, then regressed Jun/Jul/Aug after the swap to `peter-evans/create-pull-request@v6`; its `add-paths` listed gitignored `_maintenance/**` globs. Trimmed to `data/**` + fixed misleading PR body. May still need repo setting "Allow GitHub Actions to create and approve pull requests" (unverifiable without auth). Also fixed latent bug in `link-check.yml`: `content-filepath: _maintenance/link-check-$(date +%Y-%m-%d).md` never expands in a `with:` value (no shell); now computed as a step output. Explains why no link-check issue was ever created despite the step reporting success.

@@ -61,15 +61,15 @@ jobs:
           delete-branch: true
           title: "chore(maintenance): freshness ${{ steps.digest.outputs.month }}"
           body: |
-            Automated freshness sweep. See `_maintenance/freshness-${{ steps.digest.outputs.month }}.md` for the digest.
+            Automated freshness sweep: `data/` mutations from `check-repo-staleness.js`
+            (stale/archived/last_pushed flags).
 
-            Includes: `data/` mutations from `check-repo-staleness.js` (stale/archived/last_pushed flags),
-            ingestion candidates, and pricing report.
-          add-paths: |
-            data/**
-            _maintenance/freshness/**
-            _maintenance/freshness-*.md
-            _maintenance/freshness-*.json
+            The digest itself is posted as a companion issue, not committed here.
+            `_maintenance/` is gitignored, so digest and ingestion-candidate artifacts
+            stay as run artifacts only.
+          # data/** ONLY. Everything under _maintenance/ is gitignored, so listing it
+          # here can never produce a commit and makes the action `git add` ignored paths.
+          add-paths: data/**
           labels: maintenance,freshness
 
       - name: Open digest issue
