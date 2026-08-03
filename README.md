@@ -216,8 +216,8 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [VFX & Compositing Software](#vfx--compositing-software) <span class="toc-count">(31 items)</span><br><small class="toc-desc">VFX, compositing, and real-time simulation tools.</small>
 - [Render Engines](#render-engines) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Production render engines across CPU, GPU, biased, and unbiased path tracers.</small>
 - [Video Editing Software](#video-editing-software) <span class="toc-count">(27 items)</span><br><small class="toc-desc">NLEs and post-production software.</small>
-- [Audio Software](#audio-software) <span class="toc-count">(35 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
-- [Design Software](#design-software) <span class="toc-count">(32 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
+- [Audio Software](#audio-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
+- [Design Software](#design-software) <span class="toc-count">(33 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
 - [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
 - [Game Engines: Free & Open Source](#game-engines-free--open-source) <span class="toc-count">(62 items)</span><br><small class="toc-desc">Free and open-source game engines.</small>
 - [Game Engines: Commercial Free Tiers](#game-engines-commercial-free-tiers) <span class="toc-count">(12 items)</span><br><small class="toc-desc">Commercial engines with generous free tiers.</small>
@@ -237,7 +237,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [AI Audio & Music Generation Software](#ai-audio--music-generation-software) <span class="toc-count">(8 items)</span><br><small class="toc-desc">AI music, voice, and SFX generation tools.</small>
 - [AI Motion Capture Software](#ai-motion-capture-software) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Markerless and AI-driven motion capture and pose estimation tools.</small>
 - [AI-Assisted CG Software](#ai-assisted-cg-software) <span class="toc-count">(9 items)</span><br><small class="toc-desc">AI upscaling, cleanup, generative assist, and AI-powered DCC features.</small>
-- [AI Creative Canvas Software](#ai-creative-canvas-software) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Node-based and all-in-one AI canvases that chain image, video, and 3D gen.</small>
+- [AI Creative Canvas Software](#ai-creative-canvas-software) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Node-based and all-in-one AI canvases that chain image, video, and 3D gen.</small>
 - [AI Design Viz Software](#ai-design-viz-software) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Sketch-to-render and AI design visualization for product and architecture.</small>
 - [AI Product Photography Software](#ai-product-photography-software) <span class="toc-count">(6 items)</span><br><small class="toc-desc">AI virtual product photography and 3D digital twins for ecommerce.</small>
 
@@ -1733,9 +1733,13 @@ Editing-specific courses.
 | [Adobe Audition](https://www.adobe.com/products/audition.html) | Professional audio workstation. |  | Paid | Audio Restoration · Adobe Suite | Podcast, sound design, restoration |
 | [Ardour](https://ardour.org/) | OSS multitrack DAW. |  | Open Source | Open Source · GPL | Free multitrack DAW |
 | [Audacity](https://www.audacityteam.org/) | Free open-source audio editor and recorder. |  | Open Source | Open Source · Recording | Voice recording, SFX editing, podcast |
+| [Audio Design Desk](https://audiodesigndesk.com/) | Sound design app that places SFX, foley, and music against picture from typed cues. |  | Paid | Sound to Picture · Cue Driven | Fast sound design to picture |
+| [Bespoke Synth](https://www.bespokesynth.com/) | Open-source modular DAW where patch cables rewire the signal path while it plays. |  | Open Source | Modular DAW · Open Source | Live modular patching |
 | [Bfxr](https://www.bfxr.net/) | Retro and chiptune SFX generator (browser and desktop). |  | Open Source | Retro/8-bit · Generator | 8-bit game sound effects |
 | [Bitwig Studio](https://www.bitwig.com/) | DAW with deep modular Grid synthesis engine. |  | Paid | Modular Grid · Cross-Platform | Modular DAW |
 | [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk) | Full Sonar successor, free on Windows. |  | Free | Free · Windows | Free Windows DAW |
+| [ChucK](https://chuck.stanford.edu/) | Strongly timed audio programming language for livecoding and synthesis. |  | Open Source | Livecoding · Stanford | Timed audio programming |
+| [Csound](https://csound.com/) | Sound and music computing system with a text-based orchestra and score model. |  | Open Source | Audio DSL · Open Source | Scripted synthesis and DSP |
 | [Cubase](https://www.steinberg.net/cubase/) | Steinberg DAW with strong MIDI and scoring. |  | Paid | Steinberg · MIDI/Scoring | MIDI/scoring DAW |
 | [Dolby Atmos Renderer](https://professional.dolby.com/) | Reference Dolby Atmos production renderer. |  | Paid | Atmos · Reference | Reference Atmos production |
 | [FabFilter Pro Suite](https://www.fabfilter.com/) | Pro EQ, compressor, reverb, and limiter plugins (Pro-Q, Pro-L). |  | Paid | Pro Plugins · Mixing | Pro mixing/mastering plugins |
@@ -1743,25 +1747,32 @@ Editing-specific courses.
 | [FL Studio](https://www.image-line.com/) | Pattern-based DAW with lifetime free updates. | From $99 | Paid | Lifetime Updates · Pattern DAW | Pattern-based production |
 | [Flux Spat Revolution](https://www.flux.audio/project/spat-revolution/) | IRCAM-derived object-based spatializer for immersive mixing. |  | Paid | IRCAM · Spatial | Object-based spatial mixing |
 | [FMOD](https://www.fmod.com/) | Industry-standard adaptive audio. Free for indie <$200k. |  | Freemium | Industry Standard · Indie-Free | Adaptive game audio |
-| [FotoSketcher](https://fotosketcher.com/) | Windows freeware that converts photos to sketch, painting, and pastel renders. Batchable. |  | Free | Freeware · Photo Stylize | Quick stylize batches |
 | [GameSynth (Tsugi)](https://tsugi-studio.com/web/en/products-gamesynth.html) | Node-based procedural SFX generator for games. |  | Paid | Procedural SFX · Games | Procedural game SFX |
+| [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) | Free Apple DAW with built-in loops, drummers, and amp models. |  | Free | Free · Apple | Free entry-level DAW on Apple |
 | [iZotope RX](https://www.izotope.com/en/products/rx.html) | Industry-standard audio restoration suite. | From $399 | Paid | Audio Repair · Industry Std | Audio repair/restoration |
 | [Krotos](https://www.krotosaudio.com/) | Performance-driven foley and monster vox plugins (Reformer, Dehumaniser). |  | Paid | Foley · Creature Vox | Foley + creature sound |
 | [LMMS](https://lmms.io/) | Free FL-style DAW, cross-platform. |  | Open Source | Open Source · FL-style | Free FL-style production |
 | [Logic Pro](https://www.apple.com/logic-pro/) | Apple pro DAW for macOS and iPad. | $199.99 perpetual (Mac) / $4.99/mo (iPad) | Paid | Apple · macOS | macOS pro DAW |
 | [Max/MSP (Cycling '74)](https://cycling74.com/products/max) | Visual patcher for audio, MIDI, and video (Jitter). |  | Paid | Visual Patcher · Cycling 74 | Pro visual DSP/multimedia |
+| [Melodyne](https://www.celemony.com/en/melodyne) | Pitch and timing editor that separates notes inside polyphonic recordings. |  | Paid | Pitch Editing · DNA | Pitch and timing repair |
+| [Ocenaudio](https://www.ocenaudio.com/) | Free waveform editor with real-time effect preview and large-file handling. |  | Free | Free · Waveform Editor | Quick waveform edits |
 | [Pro Tools](https://www.avid.com/pro-tools) | Industry standard for post-production audio mixing and finishing. | From $9.99/mo (Studio $34.99/mo, Ultimate $99/mo) | Paid | Industry Standard · Post Mixing | Audio post mixing/finishing |
 | [Pure Data (Pd)](https://puredata.info/) | Open-source visual programming environment for audio, MIDI, and multimedia. |  | Open Source | Visual DSP · BSD | Visual DSP patching |
 | [Reaper](https://www.reaper.fm/) | Full DAW with $60 personal license. | $60 personal license | Paid | Full DAW · Affordable | Music production, sound design |
+| [Renoise](https://www.renoise.com/) | Tracker-style DAW with sample-level editing and per-line command control. | $75 perpetual | Paid | Tracker · Perpetual | Tracker workflow production |
 | [Sonic Pi](https://sonic-pi.net/) | Code-based music livecoding environment, education-friendly. |  | Open Source | Livecoding · Education | Livecoding music education |
 | [Sound Particles](https://soundparticles.com/) | CGI-style 3D sound design with thousands of simultaneous sources. Big in immersive/film audio. |  | Paid | 3D Sound · Immersive | 3D sound design |
 | [Soundly](https://getsoundly.com/) | Desktop SFX platform with curated library and local library management. | Free tier (3000+ sounds), Pro $14.99/mo | Freemium | SFX Library · Desktop | SFX browsing, sound library management |
+| [SoundThread](https://github.com/j-p-higgins/SoundThread) | Node-based patching front end for the Composers Desktop Project sound manipulation tools. |  | Open Source | Node-Based · CDP Front End | Experimental spectral sound design |
 | [Steam Audio](https://valvesoftware.github.io/steam-audio/) | Physics-based spatial audio by Valve. Free. |  | Free | Spatial Audio · Valve Free | Spatial game audio |
 | [Strudel](https://strudel.cc/) | Browser TidalCycles port (JS). |  | Open Source | Browser · Tidal Port | Browser pattern livecoding |
 | [Studio One](https://www.presonus.com/products/Studio-One) | PreSonus drag-flow DAW. |  | Paid | PreSonus · Drag Workflow | Modern drag-flow DAW |
 | [SuperCollider](https://supercollider.github.io/) | Server-based audio synthesis and livecoding language. |  | Open Source | Livecoding · GPL | Algorithmic synthesis + livecoding |
+| [Surge XT](https://surge-synthesizer.github.io/) | Open-source hybrid synthesizer with wavetable, FM, and subtractive engines. |  | Open Source | Open Source · Synth | Free pro synth plugin |
 | [TidalCycles](https://tidalcycles.org/) | Haskell-based pattern livecoding for algoraves. |  | Open Source | Algoraves · Pattern | Pattern-based livecoding |
 | [VCV Rack](https://vcvrack.com/) | Open-source Eurorack modular synthesizer emulator. Free core; paid Pro and premium modules. | Free core / $149 Pro | Open Source | Modular Synth · Eurorack | Software modular synthesis |
+| [Vital](https://vital.audio/) | Spectral warping wavetable synth. Free tier covers most sound design work. | Free / Plus $25 / Pro $80 | Freemium | Wavetable · Free Tier | Wavetable sound design |
+| [Waveform Free](https://www.tracktion.com/products/waveform-free) | Tracktion DAW with unlimited tracks at no cost. |  | Free | Free · Unlimited Tracks | Free unlimited-track DAW |
 | [Wavewright](https://store.steampowered.com/app/4149720/Wavewright/) | Modular music sandbox inspired by analog synthesizers (Early Access). |  | Free | Modular Synth · Early Access | Sound design, music experimentation |
 | [Wwise](https://www.audiokinetic.com/en/wwise/overview/) | AAA audio middleware with free tier. |  | Freemium | AAA · Free Tier | AAA game audio |
 
@@ -3124,6 +3135,7 @@ Storyboard apps, previs tools, script breakdown, reference managers, moodboardin
 | [Eagle](https://en.eagle.cool/) | Visual asset organizer. |  | Paid | Asset Organizer · Visual | Asset organization |
 | [Figma](https://www.figma.com/) | Collaborative UI/UX design with free tier. |  | Freemium | Collaborative · UI/UX | UI design, prototyping, design systems |
 | [FontLab 8](https://www.fontlab.com/font-editor/fontlab/) | Professional font editor. |  | Paid | Font Editor · Pro | Type design, font editing |
+| [FotoSketcher](https://fotosketcher.com/) | Windows freeware that converts photos to sketch, painting, and pastel renders. Batchable. |  | Free | Freeware · Photo Stylize | Quick stylize batches |
 | [GIMP](https://www.gimp.org/) | Free open-source image editor. |  | Open Source | Open Source · Photoshop-alt | Texture editing, photo manipulation |
 | [Google Drawings](https://docs.google.com/drawings) | Free browser-based diagramming and simple vector tool. Collaborative. |  | Free | Browser · Collaborative | Quick diagrams, collaborative sketches |
 | [Graphite](https://graphite.rs/) | Open-source 2D vector and raster graphics editor with procedural node-based workflow. In active development. |  | Open Source | Procedural · Open Source | Procedural design, non-destructive vector |
@@ -3655,7 +3667,10 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 | [Freepik Spaces](https://www.freepik.com/spaces) | Node workflows tied to the Freepik stock library. | Freemium | Node Workflows · Stock Library | Node workflows with stock |
 | [Higgsfield Canvas](https://higgsfield.ai/canvas-intro) | Node editor chaining prompts, style transfer, motion, and render across image and video. | Freemium | Node Editor · Image + Video | Image to video pipeline |
 | [Kaiber](https://kaiber.ai/) | Unified canvas for image and video generation and editing. Superstudio. | Paid | Unified Canvas · Image + Video | Unified gen canvas |
+| [Omma](https://omma.build/) | Prompt-driven builder from Spline that generates 3D scenes, sites, games, and decks. Accepts GLB, OBJ, and data files as input. | Freemium | Prompt to App · Spline | Prompt to interactive 3D scene |
+| [Rosebud AI](https://rosebud.ai/) | Prompt-to-game builder that outputs playable 2D and 3D browser games with editable code. | Freemium | Prompt to Game · Browser | Prompt to playable game |
 | [Weavy](https://weavy.ai/) | Node canvas with pro editing for compositing, matte, and relighting. Acquired by Figma. | Freemium | Node Canvas · Pro Editing | Node canvas plus editing |
+| [Websim](https://websim.com/) | Generates and remixes interactive web pages and toys from a prompt or URL. | Freemium | Prompt to Web · Remixable | Prompt to interactive page |
 | [Wireflow](https://www.wireflow.ai/) | AI workflow canvas with a developer lean. | Freemium | Workflow Canvas | Dev-leaning AI canvas |
 
 
@@ -4087,7 +4102,7 @@ Format conversion across image, video, audio, and 3D.
 - [Pixelicious](https://www.pixelicious.xyz/). Image-to-Pixel Art converter.
 - [PNGQuant](https://pngquant.org/). CLI lossy PNG compression.
 - [Retargeting Mixamo Animation Tool](http://terribilisstudio.fr/converter). Web tool to retarget Mixamo animations.
-- [SoX](https://sourceforge.net/projects/sox/). CLI audio processing.
+- [SoX](https://sourceforge.net/projects/sox/). Command-line audio converter and batch processor for format, resample, and effect passes.<br><small class="see-also">See also: <a href="#audio-software">Software Reference → Audio Software</a></small>
 - [Squoosh](https://squoosh.app/). Google. AVIF/WebP/JPEG XL image compression.
 - [TinyPNG](https://tinypng.com/) <span class="lic-pill lic-freemium">Freemium</span>. Lossy PNG/JPEG compression.
 - [VERT.sh](https://vert.sh/). General-purpose online converter.
@@ -5019,9 +5034,13 @@ Audio editing, mixing, sound design, and SFX generation.
 | [Adobe Audition](https://www.adobe.com/products/audition.html) | Professional audio workstation. |  | Paid | Audio Restoration · Adobe Suite | Podcast, sound design, restoration |
 | [Ardour](https://ardour.org/) | OSS multitrack DAW. |  | Open Source | Open Source · GPL | Free multitrack DAW |
 | [Audacity](https://www.audacityteam.org/) | Free open-source audio editor and recorder. |  | Open Source | Open Source · Recording | Voice recording, SFX editing, podcast |
+| [Audio Design Desk](https://audiodesigndesk.com/) | Sound design app that places SFX, foley, and music against picture from typed cues. |  | Paid | Sound to Picture · Cue Driven | Fast sound design to picture |
+| [Bespoke Synth](https://www.bespokesynth.com/) | Open-source modular DAW where patch cables rewire the signal path while it plays. |  | Open Source | Modular DAW · Open Source | Live modular patching |
 | [Bfxr](https://www.bfxr.net/) | Retro and chiptune SFX generator (browser and desktop). |  | Open Source | Retro/8-bit · Generator | 8-bit game sound effects |
 | [Bitwig Studio](https://www.bitwig.com/) | DAW with deep modular Grid synthesis engine. |  | Paid | Modular Grid · Cross-Platform | Modular DAW |
 | [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk) | Full Sonar successor, free on Windows. |  | Free | Free · Windows | Free Windows DAW |
+| [ChucK](https://chuck.stanford.edu/) | Strongly timed audio programming language for livecoding and synthesis. |  | Open Source | Livecoding · Stanford | Timed audio programming |
+| [Csound](https://csound.com/) | Sound and music computing system with a text-based orchestra and score model. |  | Open Source | Audio DSL · Open Source | Scripted synthesis and DSP |
 | [Cubase](https://www.steinberg.net/cubase/) | Steinberg DAW with strong MIDI and scoring. |  | Paid | Steinberg · MIDI/Scoring | MIDI/scoring DAW |
 | [Dolby Atmos Renderer](https://professional.dolby.com/) | Reference Dolby Atmos production renderer. |  | Paid | Atmos · Reference | Reference Atmos production |
 | [FabFilter Pro Suite](https://www.fabfilter.com/) | Pro EQ, compressor, reverb, and limiter plugins (Pro-Q, Pro-L). |  | Paid | Pro Plugins · Mixing | Pro mixing/mastering plugins |
@@ -5029,27 +5048,37 @@ Audio editing, mixing, sound design, and SFX generation.
 | [FL Studio](https://www.image-line.com/) | Pattern-based DAW with lifetime free updates. | From $99 | Paid | Lifetime Updates · Pattern DAW | Pattern-based production |
 | [Flux Spat Revolution](https://www.flux.audio/project/spat-revolution/) | IRCAM-derived object-based spatializer for immersive mixing. |  | Paid | IRCAM · Spatial | Object-based spatial mixing |
 | [FMOD](https://www.fmod.com/) | Industry-standard adaptive audio. Free for indie <$200k.<br><small class="see-also">See also: <a href="#game-dev-tools-audio-middleware">Game Development → Game Dev Tools: Audio Middleware</a></small> |  | Freemium | Industry Standard · Indie-Free | Adaptive game audio |
-| [FotoSketcher](https://fotosketcher.com/) | Windows freeware that converts photos to sketch, painting, and pastel renders. Batchable. |  | Free | Freeware · Photo Stylize | Quick stylize batches |
 | [GameSynth (Tsugi)](https://tsugi-studio.com/web/en/products-gamesynth.html) | Node-based procedural SFX generator for games. |  | Paid | Procedural SFX · Games | Procedural game SFX |
+| [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) | Free Apple DAW with built-in loops, drummers, and amp models. |  | Free | Free · Apple | Free entry-level DAW on Apple |
 | [iZotope RX](https://www.izotope.com/en/products/rx.html) | Industry-standard audio restoration suite. | From $399 | Paid | Audio Repair · Industry Std | Audio repair/restoration |
 | [Krotos](https://www.krotosaudio.com/) | Performance-driven foley and monster vox plugins (Reformer, Dehumaniser). |  | Paid | Foley · Creature Vox | Foley + creature sound |
 | [LMMS](https://lmms.io/) | Free FL-style DAW, cross-platform. |  | Open Source | Open Source · FL-style | Free FL-style production |
 | [Logic Pro](https://www.apple.com/logic-pro/) | Apple pro DAW for macOS and iPad. | $199.99 perpetual (Mac) / $4.99/mo (iPad) | Paid | Apple · macOS | macOS pro DAW |
 | [Max/MSP (Cycling '74)](https://cycling74.com/products/max) | Visual patcher for audio, MIDI, and video (Jitter). |  | Paid | Visual Patcher · Cycling 74 | Pro visual DSP/multimedia |
+| [Melodyne](https://www.celemony.com/en/melodyne) | Pitch and timing editor that separates notes inside polyphonic recordings. |  | Paid | Pitch Editing · DNA | Pitch and timing repair |
+| [Ocenaudio](https://www.ocenaudio.com/) | Free waveform editor with real-time effect preview and large-file handling. |  | Free | Free · Waveform Editor | Quick waveform edits |
 | [Pro Tools](https://www.avid.com/pro-tools) | Industry standard for post-production audio mixing and finishing. | From $9.99/mo (Studio $34.99/mo, Ultimate $99/mo) | Paid | Industry Standard · Post Mixing | Audio post mixing/finishing |
 | [Pure Data (Pd)](https://puredata.info/) | Open-source visual programming environment for audio, MIDI, and multimedia. |  | Open Source | Visual DSP · BSD | Visual DSP patching |
 | [Reaper](https://www.reaper.fm/) | Full DAW with $60 personal license. | $60 personal license | Paid | Full DAW · Affordable | Music production, sound design |
+| [Renoise](https://www.renoise.com/) | Tracker-style DAW with sample-level editing and per-line command control. | $75 perpetual | Paid | Tracker · Perpetual | Tracker workflow production |
 | [Sonic Pi](https://sonic-pi.net/) | Code-based music livecoding environment, education-friendly. |  | Open Source | Livecoding · Education | Livecoding music education |
 | [Sound Particles](https://soundparticles.com/) | CGI-style 3D sound design with thousands of simultaneous sources. Big in immersive/film audio. |  | Paid | 3D Sound · Immersive | 3D sound design |
 | [Soundly](https://getsoundly.com/) | Desktop SFX platform with curated library and local library management. | Free tier (3000+ sounds), Pro $14.99/mo | Freemium | SFX Library · Desktop | SFX browsing, sound library management |
+| [SoundThread](https://github.com/j-p-higgins/SoundThread) | Node-based patching front end for the Composers Desktop Project sound manipulation tools. |  | Open Source | Node-Based · CDP Front End | Experimental spectral sound design |
 | [Steam Audio](https://valvesoftware.github.io/steam-audio/) | Physics-based spatial audio by Valve. Free.<br><small class="see-also">See also: <a href="#game-dev-tools-audio-middleware">Game Development → Game Dev Tools: Audio Middleware</a></small> |  | Free | Spatial Audio · Valve Free | Spatial game audio |
 | [Strudel](https://strudel.cc/) | Browser TidalCycles port (JS). |  | Open Source | Browser · Tidal Port | Browser pattern livecoding |
 | [Studio One](https://www.presonus.com/products/Studio-One) | PreSonus drag-flow DAW. |  | Paid | PreSonus · Drag Workflow | Modern drag-flow DAW |
 | [SuperCollider](https://supercollider.github.io/) | Server-based audio synthesis and livecoding language. |  | Open Source | Livecoding · GPL | Algorithmic synthesis + livecoding |
+| [Surge XT](https://surge-synthesizer.github.io/) | Open-source hybrid synthesizer with wavetable, FM, and subtractive engines. |  | Open Source | Open Source · Synth | Free pro synth plugin |
 | [TidalCycles](https://tidalcycles.org/) | Haskell-based pattern livecoding for algoraves. |  | Open Source | Algoraves · Pattern | Pattern-based livecoding |
 | [VCV Rack](https://vcvrack.com/) | Open-source Eurorack modular synthesizer emulator. Free core; paid Pro and premium modules. | Free core / $149 Pro | Open Source | Modular Synth · Eurorack | Software modular synthesis |
+| [Vital](https://vital.audio/) | Spectral warping wavetable synth. Free tier covers most sound design work. | Free / Plus $25 / Pro $80 | Freemium | Wavetable · Free Tier | Wavetable sound design |
+| [Waveform Free](https://www.tracktion.com/products/waveform-free) | Tracktion DAW with unlimited tracks at no cost. |  | Free | Free · Unlimited Tracks | Free unlimited-track DAW |
 | [Wavewright](https://store.steampowered.com/app/4149720/Wavewright/) | Modular music sandbox inspired by analog synthesizers (Early Access). |  | Free | Modular Synth · Early Access | Sound design, music experimentation |
 | [Wwise](https://www.audiokinetic.com/en/wwise/overview/) | AAA audio middleware with free tier.<br><small class="see-also">See also: <a href="#game-dev-tools-audio-middleware">Game Development → Game Dev Tools: Audio Middleware</a></small> |  | Freemium | AAA · Free Tier | AAA game audio |
+
+**Related:**
+- [SoX](https://sourceforge.net/projects/sox/). Command-line audio converter and batch processor for format, resample, and effect passes.<br><small class="see-also">See also: <a href="#conversion-tools">Tools, Pipeline & Utilities → Conversion Tools</a></small>
 
 ### Design Software
 
@@ -5067,6 +5096,7 @@ UI/UX, vector, raster design apps.
 | [Eagle](https://en.eagle.cool/) | Visual asset organizer.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a>, <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small> |  | Paid | Asset Organizer · Visual | Asset organization |
 | [Figma](https://www.figma.com/) | Collaborative UI/UX design with free tier. |  | Freemium | Collaborative · UI/UX | UI design, prototyping, design systems |
 | [FontLab 8](https://www.fontlab.com/font-editor/fontlab/) | Professional font editor. |  | Paid | Font Editor · Pro | Type design, font editing |
+| [FotoSketcher](https://fotosketcher.com/) | Windows freeware that converts photos to sketch, painting, and pastel renders. Batchable. |  | Free | Freeware · Photo Stylize | Quick stylize batches |
 | [GIMP](https://www.gimp.org/) | Free open-source image editor. |  | Open Source | Open Source · Photoshop-alt | Texture editing, photo manipulation |
 | [Google Drawings](https://docs.google.com/drawings) | Free browser-based diagramming and simple vector tool. Collaborative. |  | Free | Browser · Collaborative | Quick diagrams, collaborative sketches |
 | [Graphite](https://graphite.rs/) | Open-source 2D vector and raster graphics editor with procedural node-based workflow. In active development.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small> |  | Open Source | Procedural · Open Source | Procedural design, non-destructive vector |
@@ -5647,7 +5677,10 @@ Node-based and all-in-one AI canvases that chain image, video, and 3D gen.
 | [Freepik Spaces](https://www.freepik.com/spaces) | Node workflows tied to the Freepik stock library. | Freemium | Node Workflows · Stock Library | Node workflows with stock |
 | [Higgsfield Canvas](https://higgsfield.ai/canvas-intro) | Node editor chaining prompts, style transfer, motion, and render across image and video. | Freemium | Node Editor · Image + Video | Image to video pipeline |
 | [Kaiber](https://kaiber.ai/) | Unified canvas for image and video generation and editing. Superstudio. | Paid | Unified Canvas · Image + Video | Unified gen canvas |
+| [Omma](https://omma.build/) | Prompt-driven builder from Spline that generates 3D scenes, sites, games, and decks. Accepts GLB, OBJ, and data files as input. | Freemium | Prompt to App · Spline | Prompt to interactive 3D scene |
+| [Rosebud AI](https://rosebud.ai/) | Prompt-to-game builder that outputs playable 2D and 3D browser games with editable code. | Freemium | Prompt to Game · Browser | Prompt to playable game |
 | [Weavy](https://weavy.ai/) | Node canvas with pro editing for compositing, matte, and relighting. Acquired by Figma. | Freemium | Node Canvas · Pro Editing | Node canvas plus editing |
+| [Websim](https://websim.com/) | Generates and remixes interactive web pages and toys from a prompt or URL. | Freemium | Prompt to Web · Remixable | Prompt to interactive page |
 | [Wireflow](https://www.wireflow.ai/) | AI workflow canvas with a developer lean. | Freemium | Workflow Canvas | Dev-leaning AI canvas |
 
 ### AI Design Viz Software
@@ -5709,8 +5742,78 @@ Built with help from:
 - YouTube channels & playlists
 
 <details>
-<summary><strong>GitHub awesome-lists mined (0)</strong></summary>
+<summary><strong>GitHub awesome-lists mined (70)</strong></summary>
 
+- [agarcialeon/awesome-unity](https://github.com/agarcialeon/awesome-unity)
+- [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender)
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+- [Alinshans/awesome-cg](https://github.com/Alinshans/awesome-cg)
+- [AtakanFire/Awesome-Unreal-Engine](https://github.com/AtakanFire/Awesome-Unreal-Engine)
+- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
+- [AxiomeCG/awesome-threejs](https://github.com/AxiomeCG/awesome-threejs)
+- [bcmi/Awesome-Generative-Image-Composition](https://github.com/bcmi/Awesome-Generative-Image-Composition)
+- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
+- [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD)
+- [bluesfdw/awesome-CAD](https://github.com/bluesfdw/awesome-CAD)
+- [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts)
+- [brandonhimpfen/awesome-generative-ai](https://github.com/brandonhimpfen/awesome-generative-ai)
+- [calinou/awesome-gamedev](https://github.com/calinou/awesome-gamedev)
+- [camilleroux/awesome-generative-art](https://github.com/camilleroux/awesome-generative-art)
+- [cgwire/awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline)
+- [cjroth/awesome-vr](https://github.com/cjroth/awesome-vr)
+- [Coop56/awesome-unreal](https://github.com/Coop56/awesome-unreal)
+- [cutbypham/awesome-davinci-resolve](https://github.com/cutbypham/awesome-davinci-resolve)
+- [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR)
+- [Domeee/awesome-augmented-reality](https://github.com/Domeee/awesome-augmented-reality)
+- [drwpow/awesome-oss-fonts](https://github.com/drwpow/awesome-oss-fonts)
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools)
+- [ericjang/awesome-graphics](https://github.com/ericjang/awesome-graphics)
+- [eug/awesome-opengl](https://github.com/eug/awesome-opengl)
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai)
+- [fire/awesome-godot-procedural-manual-generation](https://github.com/fire/awesome-godot-procedural-manual-generation)
+- [FronkonGames/Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)
+- [haxiomic/awesome-gamedev](https://github.com/haxiomic/awesome-gamedev)
+- [iamtpb/awesome-photography](https://github.com/iamtpb/awesome-photography)
+- [ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
+- [inlife/awesome-ae](https://github.com/inlife/awesome-ae)
+- [insthync/awesome-unreal](https://github.com/insthync/awesome-unreal)
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
+- [KelvinAnymoree/awesome-cg-pipeline](https://github.com/KelvinAnymoree/awesome-cg-pipeline)
+- [kidult00/awesome-AR](https://github.com/kidult00/awesome-AR)
+- [loonghao/awesome-cg-pipeline](https://github.com/loonghao/awesome-cg-pipeline)
+- [luisdnsantos/awesome-computer-graphics](https://github.com/luisdnsantos/awesome-computer-graphics)
+- [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev)
+- [mdyao/Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC)
+- [melbvr/awesome-VR](https://github.com/melbvr/awesome-VR)
+- [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality)
+- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+- [MrPeker/awesome-illustrations](https://github.com/MrPeker/awesome-illustrations)
+- [nathakits/awesome-cinema4d](https://github.com/nathakits/awesome-cinema4d)
+- [natnew/Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI)
+- [oli-z/awesome-filmmaking](https://github.com/oli-z/awesome-filmmaking)
+- [olucurious/Awesome-ARCore](https://github.com/olucurious/Awesome-ARCore)
+- [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)
+- [querielo/awesome-computer-graphics](https://github.com/querielo/awesome-computer-graphics)
+- [rive-app/awesome-rive](https://github.com/rive-app/awesome-rive)
+- [rng70/Awesome-Fonts](https://github.com/rng70/Awesome-Fonts)
+- [shlomif/awesome-graphics-programming](https://github.com/shlomif/awesome-graphics-programming)
+- [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
+- [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl)
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
+- [teamgravitydev/gamedev-free-resources](https://github.com/teamgravitydev/gamedev-free-resources)
+- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+- [terrehbyte/awesome-ue4](https://github.com/terrehbyte/awesome-ue4)
+- [TheFrenchGhosty/awesome-art](https://github.com/TheFrenchGhosty/awesome-art)
+- [tobiasbueschel/awesome-WebAR](https://github.com/tobiasbueschel/awesome-WebAR)
+- [tom-choi/awesome-cg-pipeline](https://github.com/tom-choi/awesome-cg-pipeline)
+- [tomByrer/awesome-unreal-engine](https://github.com/tomByrer/awesome-unreal-engine)
+- [UEProjectXmples/awesome-ue5](https://github.com/UEProjectXmples/awesome-ue5)
+- [unclamped/awesome-vr](https://github.com/unclamped/awesome-vr)
+- [UnityCommunity/AwesomeUnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity)
+- [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl)
+- [waitin2010/awesome-computer-graphics](https://github.com/waitin2010/awesome-computer-graphics)
+- [wentianli/awesome-video-editing](https://github.com/wentianli/awesome-video-editing)
+- [wyhinton/AwesomeHoudini](https://github.com/wyhinton/AwesomeHoudini)
 
 </details>
 
