@@ -715,3 +715,8 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > yes, please fix
 
 **Answered:** Moved FotoSketcher (photo-to-sketch stylizer) out of §12 audio-software → §12 design-software. Pure move, no mirror. audio-software 48→47, design-software 31→32. Validation ✓ 428 warnings, 0 errors.
+
+**Prompt:**
+> figure out merging on github please, also check if there are any open issues and fix them
+
+**Answered:** Local main had diverged from origin/main (my "added audio tools" commit vs link-check-bot's 2026-08-01 monthly link check). Rebased onto origin/main; 2 conflicts (conversion-tools SoX readme_tags/date, audio-software FotoSketcher tail) resolved keeping bot-verified dates + my content. README regenerated (`node scripts/render.js > README.md`) + committed. Open GitHub issues and PRs: 0 (nothing to fix). Branches pub-plan + origin/restructure fully merged, safe to delete. Push failed: no git credentials in session; user must run `git push origin main`.
