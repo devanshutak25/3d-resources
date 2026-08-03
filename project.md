@@ -33,7 +33,7 @@ Secondary:
 
 ```
 3d_resources/
-├── README.md                  # GENERATED (lite mode, ~19 KB landing page). Never hand-edit.
+├── README.md                  # GENERATED, full render (~760 KB). Never hand-edit. See §6 on lite mode.
 ├── CLAUDE.md                  # Project rules for Claude. Read every session.
 ├── project.md                 # THIS FILE. Read every session, update after every change.
 ├── CONTEXT.md                 # Domain vocabulary (Section, Subsection, Entry, Chunk, Pass).
@@ -269,7 +269,7 @@ data/<section>/<sub>/*.yml ─┘
 10. `build-feed.js` → Atom feed.
 11. `build-sitemap.js` → `_site/sitemap.xml` (FINAL step; sole sitemap writer; lists root + section + indexable subsection + indexable tag pages that exist on disk).
 
-After step 2, README is overwritten to lite mode (~19 KB landing page) by `render.js --mode=lite`. The full README is intermediate only. Sitemap is built last so it can include subsection + tag pages generated after build-html.
+**README stays in FULL mode (~760 KB).** `render.js` supports `--mode=lite` (~19 KB landing page), but nothing calls it: `build.sh` step 2 and `.github/workflows/link-check.yml` both run plain `node scripts/render.js > README.md`, and neither re-renders lite afterward. Wiring lite mode back in is an open decision, not a bug to silently patch. Sitemap is built last so it can include subsection + tag pages generated after build-html.
 
 ## 7. CI
 
@@ -350,7 +350,7 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 
 ## 11. Pending tasks / known work
 
-- 2026-08-04: §12 `audio-software` 36→48 entries (GarageBand, SoundThread, Audio Design Desk, Ocenaudio, Waveform Free, Renoise, Bespoke Synth, Surge XT, Vital, Csound, ChucK, Melodyne). SoX stayed canonical in §10 `conversion-tools` + `dual_listed_in: software-reference/audio-software`. §12 `ai-canvas-software` 6→9 (Omma, Rosebud AI, Websim) — bucket now covers prompt-to-experience builders, not only node canvases. FotoSketcher misfile fixed: moved `audio-software` → `design-software` (pure move, no dual_listed_in). Final: audio-software 47, design-software 32, ai-canvas-software 9. Rebased onto `link-check-bot` monthly-link-check commit (2 conflicts in `conversion-tools` + `audio-software`, resolved keeping bot's verified dates + my content); README regenerated via `node scripts/render.js > README.md` (repo ships the FULL render, not lite — §3/§6 of this file describing a ~19 KB lite README is stale). Open GitHub issues + PRs: 0. Branches `pub-plan` (local) and `origin/restructure` are fully merged into main (0 commits ahead) and safe to delete. Push blocked in-session (no git credentials); user pushes.
+- 2026-08-04: §12 `audio-software` 36→48 entries (GarageBand, SoundThread, Audio Design Desk, Ocenaudio, Waveform Free, Renoise, Bespoke Synth, Surge XT, Vital, Csound, ChucK, Melodyne). SoX stayed canonical in §10 `conversion-tools` + `dual_listed_in: software-reference/audio-software`. §12 `ai-canvas-software` 6→9 (Omma, Rosebud AI, Websim) — bucket now covers prompt-to-experience builders, not only node canvases. FotoSketcher misfile fixed: moved `audio-software` → `design-software` (pure move, no dual_listed_in). Final: audio-software 47, design-software 32, ai-canvas-software 9. Rebased onto `link-check-bot` monthly-link-check commit (2 conflicts in `conversion-tools` + `audio-software`, resolved keeping bot's verified dates + my content); README regenerated via `node scripts/render.js > README.md`; §3 + §6 corrected to state the repo ships the FULL render (lite mode exists but is unwired). Open GitHub issues + PRs: 0. Deleted merged branch `pub-plan` (local). Remote `origin/pub-plan` + `origin/restructure` also 0 ahead of main and safe to delete, but remote deletes and the push are blocked in-session (no git credentials); user runs them.
 - 2026-07-24: Added Motion Lab (VDB/VFX element library) to §12 vfx-compositing-software, beside ActionVFX. asset-source, Paid, tech VDB.
 - 2026-07-22: Added Pascal Editor to CAD Software and The New Black to AI Design Viz Software.
 - 2026-07-21: Added Autodesk Project Falcon and Re:Form to Software Reference. Mixos was already cataloged, so no duplicate was added.

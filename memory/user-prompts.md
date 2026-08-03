@@ -720,3 +720,8 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > figure out merging on github please, also check if there are any open issues and fix them
 
 **Answered:** Local main had diverged from origin/main (my "added audio tools" commit vs link-check-bot's 2026-08-01 monthly link check). Rebased onto origin/main; 2 conflicts (conversion-tools SoX readme_tags/date, audio-software FotoSketcher tail) resolved keeping bot-verified dates + my content. README regenerated (`node scripts/render.js > README.md`) + committed. Open GitHub issues and PRs: 0 (nothing to fix). Branches pub-plan + origin/restructure fully merged, safe to delete. Push failed: no git credentials in session; user must run `git push origin main`.
+
+**Prompt:**
+> clean up, yes please
+
+**Answered:** Deleted local merged branch `pub-plan`. Remote `origin/pub-plan` + `origin/restructure` verified 0 commits ahead of main but deletion blocked (no git credentials in session) — user runs `git push origin --delete pub-plan restructure`. Also fixed the stale README-mode claim in project.md §3 + §6: repo ships the FULL render (~760 KB); `render.js --mode=lite` exists but no caller in build.sh or link-check.yml.
