@@ -15,7 +15,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const { execSync, execFileSync } = require('child_process');
 const catalog = require('./lib/catalog');
 
 function parseArgs(argv) {
@@ -36,6 +36,10 @@ function today() {
 }
 
 function loadPass(task) {
+  if (!/^[\w-]+$/.test(task)) {
+    console.error(`pass: invalid task name: ${task}`);
+    process.exit(2);
+  }
   const p = path.join(__dirname, 'passes', `${task}.js`);
   if (!fs.existsSync(p)) {
     console.error(`pass: no module at ${p}`);
@@ -79,7 +83,8 @@ function ctxFor(idx, chunk) {
 }
 
 function git(args, opts = {}) {
-  return execSync(`git ${args}`, { cwd: path.join(__dirname, '..'), stdio: 'pipe', ...opts })
+  const argArray = typeof args === 'string' ? args.split(' ') : args;
+  return execFileSync('git', argArray, { cwd: path.join(__dirname, '..'), stdio: 'pipe', ...opts })
     .toString().trim();
 }
 
@@ -96,20 +101,20 @@ function ensureBranch(name) {
   const cur = currentBranch();
   if (cur === name) return cur;
   // create or check out
-  try { git(`rev-parse --verify ${name}`); git(`checkout ${name}`); }
-  catch { git(`checkout -b ${name}`); }
+  try { git(['rev-parse', '--verify', name]); git(['checkout', name]); }
+  catch { git(['checkout', '-b', name]); }
   return name;
 }
 
 function commitChunk(chunk, summary, task) {
   const rel = path.relative(path.join(__dirname, '..'), chunk._path).replace(/\\/g, '/');
-  git(`add "${rel}"`);
+  git(['add', rel]);
   // Skip empty commits if nothing actually staged (e.g., yaml-equal output).
-  const staged = git('diff --cached --name-only');
+  const staged = git(['diff', '--cached', '--name-only']);
   if (!staged) return false;
   const msg = `pass/${task}: ${chunk.sectionFile.replace(/\.yml$/, '')}/${chunk.subSlug}/${chunk.filename.replace(/\.yml$/, '')} — ${summary}`;
   // Use stdin to avoid shell-escape issues with the message.
-  execSync(`git commit -F -`, {
+  execFileSync('git', ['commit', '-F', '-'], {
     cwd: path.join(__dirname, '..'),
     input: msg,
     stdio: ['pipe', 'pipe', 'pipe']
