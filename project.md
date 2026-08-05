@@ -202,7 +202,7 @@ Secondary:
 - **Subsection** — grouping inside a Section. Has `slug`, `title`, `description`. Renders as H3. Lives only in the Section file metadata.
 - **Entry** — a single resource. Conforms to `schema/entry.schema.json`.
 - **Chunk** — file holding ≤50 Entries for one Subsection. Path: `data/<section>/<sub>/NN-<sub>.yml`. Insertion-ordered, append-friendly. Storage unit only.
-- **Pass** — per-Chunk in-place edit by an LLM subagent. Driver: `scripts/pass.js` + `scripts/passes/<task>.js`. Branch-per-pass, per-Chunk commit, draft PR.
+- **Pass** — per-Chunk in-place edit by an LLM subagent. Driver: `scripts/pass.js` + `scripts/passes/<task>.js`. Branch-per-pass, per-Chunk commit, draft PR. Task names must match `[\w-]+` (no paths); `pass.js` shells out via `execFileSync('git', [...])` only, never a shell string.
 - **Catalog** — `scripts/lib/catalog.js`. The only way scripts touch `data/`. No script reads `data/` paths directly.
 
 ### Entry shape
