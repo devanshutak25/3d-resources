@@ -452,3 +452,9 @@ User decisions (AskUserQuestion): NativeBlend→§09, UAssetAPI→§07, 3D MDB�
 ## 2026-07-22 - Pascal Editor and The New Black
 - Pascal Editor classified under §12 `cad-software`: open-source browser building and interior editor.
 - The New Black classified under §12 `ai-design-viz-software`: paid AI fashion design workspace with a free trial.
+
+## 2026-08-05 - PR #9 merged: pass.js child_process hardening + cleanup
+- Merged external PR #9 (`anupamme`, semgrep-driven) with `--no-ff` so GitHub marks it Merged, not Closed. `gh` CLI is not installed in this env; PR fetched via `git fetch origin pull/9/head` and metadata read from the public GitHub API with `curl.exe`.
+- PR content: `execSync(\`git ${args}\`)` -> `execFileSync('git', argArray)` in `scripts/pass.js`; `execSync('git commit -F -')` -> `execFileSync`; regex guard `/^[\w-]+$/` on `--task` before `require`ing `scripts/passes/<task>.js` (blocks path traversal like `--task=../../evil`). The traversal guard is the only fix with real teeth; the rest is defense-in-depth on a local-only maintenance script.
+- Cleanup commit on top: dropped the now-unused `execSync` import, deleted the `typeof args === 'string' ? args.split(' ')` fallback in `git()`, and converted the 3 remaining string callers (`rev-parse --is-inside-work-tree`, `rev-parse --abbrev-ref HEAD`, `status --porcelain`) to arrays. Rationale: the string branch silently breaks on any future arg containing a space; array-only makes the invariant unbreakable.
+- Verify: `node --check` ok; `node scripts/pass.js --task=verify-tags --limit=1` dry-run processed 187 chunks, 0 errors; `--task=../../evil` rejected with exit 2; `node scripts/validate.js` -> passed, 428 warnings, 0 errors. Confirmed `execFileSync('git', [...])` resolves git.exe on Windows (libuv PATHEXT search).

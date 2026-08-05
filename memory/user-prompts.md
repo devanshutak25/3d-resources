@@ -730,3 +730,15 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > check if there are any open issues and fix them
 
 **Answered:** 0 open GitHub issues/PRs (re-confirmed), but found 2 CI workflows failing every scheduled run. (1) `release-watch.yml` failed all 4 runs since May: `git add _maintenance/release-state.json` on a gitignored path exits 1. Fixed via `.gitignore` `_maintenance/*` + `!_maintenance/release-state.json` (negation needs the glob form; git can't re-include a file under an excluded dir). Reproduced + verified locally. (2) `freshness.yml` succeeded in May with a direct-commit step, then regressed Jun/Jul/Aug after the swap to `peter-evans/create-pull-request@v6`; its `add-paths` listed gitignored `_maintenance/**` globs. Trimmed to `data/**` + fixed misleading PR body. May still need repo setting "Allow GitHub Actions to create and approve pull requests" (unverifiable without auth). Also fixed latent bug in `link-check.yml`: `content-filepath: _maintenance/link-check-$(date +%Y-%m-%d).md` never expands in a `with:` value (no shell); now computed as a step output. Explains why no link-check issue was ever created despite the step reporting success.
+
+## 2026-08-05
+
+**Prompt:**
+> https://github.com/devanshutak25/3d-resources/pull/9 check this?
+
+**Answered:** Reviewed PR #9 (`anupamme`, semgrep hardening of `scripts/pass.js`). Verdict: merge. Real fix = `/^[\w-]+$/` guard on `--task` blocking path traversal into `require`; `execSync` -> `execFileSync` conversions are correct but low-risk (local CLI script, not a server). Flagged 2 nits: dead `execSync` import, and the `args.split(' ')` string fallback in `git()` as a future landmine.
+
+**Prompt:**
+> merge and cleanup please
+
+**Answered:** Merged PR #9 into main with `--no-ff` (no `gh` CLI; used `git fetch origin pull/9/head`), then pushed a cleanup commit removing the dead import, deleting the string branch in `git()`, and converting the last 3 string call sites to arrays. Verified: `node --check`, verify-tags dry-run (187 chunks / 0 errors), traversal guard rejects `--task=../../evil`, `validate.js` passed (428 warnings, 0 errors).

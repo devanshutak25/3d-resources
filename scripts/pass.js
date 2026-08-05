@@ -15,7 +15,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { execSync, execFileSync } = require('child_process');
+const { execFileSync } = require('child_process');
 const catalog = require('./lib/catalog');
 
 function parseArgs(argv) {
@@ -82,19 +82,19 @@ function ctxFor(idx, chunk) {
   };
 }
 
+// args is always an array — never a shell string, so nothing gets interpolated.
 function git(args, opts = {}) {
-  const argArray = typeof args === 'string' ? args.split(' ') : args;
-  return execFileSync('git', argArray, { cwd: path.join(__dirname, '..'), stdio: 'pipe', ...opts })
+  return execFileSync('git', args, { cwd: path.join(__dirname, '..'), stdio: 'pipe', ...opts })
     .toString().trim();
 }
 
 function inGitRepo() {
-  try { git('rev-parse --is-inside-work-tree'); return true; }
+  try { git(['rev-parse', '--is-inside-work-tree']); return true; }
   catch { return false; }
 }
 
 function currentBranch() {
-  return git('rev-parse --abbrev-ref HEAD');
+  return git(['rev-parse', '--abbrev-ref', 'HEAD']);
 }
 
 function ensureBranch(name) {
@@ -170,7 +170,7 @@ function main() {
 
   // Git branch.
   if (apply && wantBranch && wantCommit && inGitRepo()) {
-    const status = git('status --porcelain');
+    const status = git(['status', '--porcelain']);
     if (status) {
       console.error('pass: working tree dirty. Commit/stash first or use --no-branch --no-commit.');
       process.exit(2);
