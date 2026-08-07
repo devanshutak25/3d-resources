@@ -410,6 +410,31 @@ entries:
       - Cloud
     url_last_verified: '2026-08-01'
     url_status: ok
+  - name: ArtDeck
+    url: https://getartdeck.com/
+    description: Reference boards for images, video, links, and notes. Study tools
+      for value, color, composition, and motion.
+    pricing: $5.99 one-time
+    license: Paid
+    entry_type: software
+    best_for: Reference boards and image study
+    tags:
+      workflow:
+        - reference
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - ios
+        - ipad
+        - mac
+      tech:
+        - perpetual
+        - ipad-native
+    readme_tags:
+      - Apple-only
+      - Study Tools
   - name: Are.na
     url: https://www.are.na/
     description: Collaborative visual research blocks and channels.
