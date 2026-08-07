@@ -432,9 +432,12 @@ entries:
       tech:
         - perpetual
         - ipad-native
+        - stylus-support
     readme_tags:
       - Apple-only
       - Study Tools
+    dual_listed_in:
+      - software-reference/misc-3d-utilities-software
   - name: Are.na
     url: https://www.are.na/
     description: Collaborative visual research blocks and channels.
