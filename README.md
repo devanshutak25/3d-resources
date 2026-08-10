@@ -150,7 +150,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Design Tools](#design-tools) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Vector editors, creative effect tools, and design utilities.</small>
 - [General Inspiration](#general-inspiration) <span class="toc-count">(31 items)</span><br><small class="toc-desc">Blogs, feeds, and curated inspiration sources.</small>
 - [2D Art References & Inspiration](#2d-art-references--inspiration) <span class="toc-count">(5 items)</span><br><small class="toc-desc">2D animation sheets, cloth, anime model sheets.</small>
-- [Pre-Production, Storyboarding & Script Tools](#pre-production-storyboarding--script-tools) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Storyboard apps, previs tools, script breakdown, reference managers, moodboarding, and direction-theory channels.</small>
+- [Pre-Production, Storyboarding & Script Tools](#pre-production-storyboarding--script-tools) <span class="toc-count">(41 items)</span><br><small class="toc-desc">Storyboard apps, previs tools, script breakdown, reference managers, moodboarding, and direction-theory channels.</small>
 
 </details>
 
@@ -228,7 +228,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Virtual Production Software](#virtual-production-software) <span class="toc-count">(26 items)</span><br><small class="toc-desc">Virtual production, broadcast graphics, and real-time stage tooling.</small>
 - [Level Design & Map Editing Software](#level-design--map-editing-software) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Standalone level editors and tile/grid map authoring tools.</small>
 - [Pipeline & Production Management Software](#pipeline--production-management-software) <span class="toc-count">(61 items)</span><br><small class="toc-desc">Production tracking, render farm management, asset pipeline orchestration.</small>
-- [Misc 3D Utilities Software](#misc-3d-utilities-software) <span class="toc-count">(25 items)</span><br><small class="toc-desc">Reference, scattering, simulation, and specialty 3D utilities.</small>
+- [Misc 3D Utilities Software](#misc-3d-utilities-software) <span class="toc-count">(26 items)</span><br><small class="toc-desc">Reference, scattering, simulation, and specialty 3D utilities.</small>
 - [Scientific & Medical Visualization Software](#scientific--medical-visualization-software) <span class="toc-count">(46 items)</span><br><small class="toc-desc">Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools, plus DCC bridges and educators.</small>
 - [Software Reference: Legacy & Defunct](#software-reference-legacy--defunct) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Historically significant 3D, VFX, rendering, and post software that is discontinued, sunset, or archival.</small>
 - [AI Image & Texture Generation Software](#ai-image--texture-generation-software) <span class="toc-count">(27 items)</span><br><small class="toc-desc">AI image generation and AI texture/material generation tools.</small>
@@ -3076,26 +3076,27 @@ Blogs, feeds, and curated inspiration sources.
 
 Storyboard apps, previs tools, script breakdown, reference managers, moodboarding, and direction-theory channels.
 
-| Software | Description | License | Tags | Best For |
-|---|---|---|---|---|
-| [Boords](https://boords.com/) | Browser storyboard, animatic, and script sync for teams. | Paid | Browser · Team | Team browser storyboarding |
-| [Celtx](https://www.celtx.com/) | Browser script + breakdown + pre-prod. | Paid | Browser · Pre-prod | Browser pre-prod |
-| [Cinetracer](https://www.cinetracer.com/) | Real-time cinematography simulation on Unreal Engine. Lights, lenses, cameras. | Paid | Cinematography Sim · Unreal-based | Pre-shoot lens/lighting blocking |
-| [Eagle](https://eagle.cool/) | Local image and video asset manager with tags. | Paid | Local DAM · Tags | Local reference DAM |
-| [Eagle](https://en.eagle.cool/) | Visual asset organizer.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a>, <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small> | Paid | Asset Organizer · Visual | Asset organization |
-| [Fade In](https://www.fadeinpro.com/) | Pro screenwriting at a lower price point. | Paid | Screenwriting · Affordable | Affordable pro screenwriting |
-| [Final Draft](https://www.finaldraft.com/) | Industry-standard screenwriting with breakdown tagging. | Paid | Industry Std · Screenwriting | Pro screenwriting |
-| [FrameForge Storyboard Studio](https://www.frameforge.com/) | 3D previs/storyboard hybrid with accurate lens and camera simulation. | Paid | 3D Storyboard · Lens-Accurate | 3D techvis-aware storyboarding |
-| [Highland](https://highland2.app/) | Fountain-native Mac screenwriter. | Paid | Fountain · Mac | Mac Fountain screenwriting |
-| [Kuadro](https://kruelgames.com/tools/kuadro/) | Minimal floating image viewer for references. | Free | Free · Lightweight | Lightweight ref viewer |
-| [Milanote](https://milanote.com/) | Visual notes and moodboards for creative planning. | Freemium | Moodboards · Cloud | Visual moodboards |
-| [Movie Magic Scheduling](https://www.ep.com/movie-magic-scheduling/) | Industry-standard scheduling and stripboards. | Paid | Industry Std · Schedule | Film scheduling |
-| [PureRef](https://www.pureref.com/) | Floating reference canvas. Standard for artists.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a></small> | Freemium | Pay What You Want · Std Artist Tool | Reference canvas |
-| [ShotPro](https://shotprofessional.com/) | iOS and desktop 3D storyboard and previs. | Paid | iOS · 3D Storyboard | 3D iOS storyboarding |
-| [Storyboard Pro (Toon Boom)](https://www.toonboom.com/products/storyboardpro) | Industry-standard storyboarding with animatic, camera, and audio timeline. | Paid | Industry Std · Storyboard | Pro storyboard + animatic |
-| [Storyboarder (Wonder Unit)](https://wonderunit.com/storyboarder/) | Free, fast sketch-first boarding tool with Shot Generator. | Open Source | Free · MIT | Free sketch-first storyboarding |
-| [StudioBinder](https://www.studiobinder.com/) | Cloud production suite. Script breakdown, shotlists, storyboards, call sheets. | Paid | Pre-Prod Suite · Cloud | Full pre-production suite |
-| [WriterDuet](https://writerduet.com/) | Realtime collaborative screenwriting in the browser. | Freemium | Collab · Browser | Collab screenwriting |
+| Software | Description | Pricing | License | Tags | Best For |
+|---|---|---|---|---|---|
+| [ArtDeck](https://getartdeck.com/) | Reference boards for images, video, links, and notes. Study tools for value, color, composition, and motion.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a></small> | $5.99 one-time | Paid | Apple-only · Study Tools | Reference boards and image study |
+| [Boords](https://boords.com/) | Browser storyboard, animatic, and script sync for teams. |  | Paid | Browser · Team | Team browser storyboarding |
+| [Celtx](https://www.celtx.com/) | Browser script + breakdown + pre-prod. |  | Paid | Browser · Pre-prod | Browser pre-prod |
+| [Cinetracer](https://www.cinetracer.com/) | Real-time cinematography simulation on Unreal Engine. Lights, lenses, cameras. |  | Paid | Cinematography Sim · Unreal-based | Pre-shoot lens/lighting blocking |
+| [Eagle](https://eagle.cool/) | Local image and video asset manager with tags. |  | Paid | Local DAM · Tags | Local reference DAM |
+| [Eagle](https://en.eagle.cool/) | Visual asset organizer.<br><small class="see-also">See also: <a href="#design-software">Software Reference → Design Software</a>, <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small> |  | Paid | Asset Organizer · Visual | Asset organization |
+| [Fade In](https://www.fadeinpro.com/) | Pro screenwriting at a lower price point. |  | Paid | Screenwriting · Affordable | Affordable pro screenwriting |
+| [Final Draft](https://www.finaldraft.com/) | Industry-standard screenwriting with breakdown tagging. |  | Paid | Industry Std · Screenwriting | Pro screenwriting |
+| [FrameForge Storyboard Studio](https://www.frameforge.com/) | 3D previs/storyboard hybrid with accurate lens and camera simulation. |  | Paid | 3D Storyboard · Lens-Accurate | 3D techvis-aware storyboarding |
+| [Highland](https://highland2.app/) | Fountain-native Mac screenwriter. |  | Paid | Fountain · Mac | Mac Fountain screenwriting |
+| [Kuadro](https://kruelgames.com/tools/kuadro/) | Minimal floating image viewer for references. |  | Free | Free · Lightweight | Lightweight ref viewer |
+| [Milanote](https://milanote.com/) | Visual notes and moodboards for creative planning. |  | Freemium | Moodboards · Cloud | Visual moodboards |
+| [Movie Magic Scheduling](https://www.ep.com/movie-magic-scheduling/) | Industry-standard scheduling and stripboards. |  | Paid | Industry Std · Schedule | Film scheduling |
+| [PureRef](https://www.pureref.com/) | Floating reference canvas. Standard for artists.<br><small class="see-also">See also: <a href="#misc-3d-utilities-software">Software Reference → Misc 3D Utilities Software</a></small> |  | Freemium | Pay What You Want · Std Artist Tool | Reference canvas |
+| [ShotPro](https://shotprofessional.com/) | iOS and desktop 3D storyboard and previs. |  | Paid | iOS · 3D Storyboard | 3D iOS storyboarding |
+| [Storyboard Pro (Toon Boom)](https://www.toonboom.com/products/storyboardpro) | Industry-standard storyboarding with animatic, camera, and audio timeline. |  | Paid | Industry Std · Storyboard | Pro storyboard + animatic |
+| [Storyboarder (Wonder Unit)](https://wonderunit.com/storyboarder/) | Free, fast sketch-first boarding tool with Shot Generator. |  | Open Source | Free · MIT | Free sketch-first storyboarding |
+| [StudioBinder](https://www.studiobinder.com/) | Cloud production suite. Script breakdown, shotlists, storyboards, call sheets. |  | Paid | Pre-Prod Suite · Cloud | Full pre-production suite |
+| [WriterDuet](https://writerduet.com/) | Realtime collaborative screenwriting in the browser. |  | Freemium | Collab · Browser | Collab screenwriting |
 
 **Related:**
 - [Are.na](https://www.are.na/) <span class="lic-pill lic-freemium">Freemium</span>. Collaborative visual research blocks and channels.<br><small class="see-also">See also: <a href="#design-tools">Art, Design & Visual Storytelling → Design Tools</a></small>
@@ -4214,6 +4215,7 @@ Industry-to-software quick reference.
 
 | Software | Description | Pricing | License | Tags | Best For |
 |---|---|---|---|---|---|
+| [ArtDeck](https://getartdeck.com/) | Reference boards for images, video, links, and notes. Study tools for value, color, composition, and motion. | $5.99 one-time | Paid | Apple-only · Study Tools | Reference boards and image study |
 | [Blockbench](https://www.blockbench.net/) | Free low-poly/voxel 3D modeler. |  | Free | Low-poly · Voxel | Low-poly / voxel modeling |
 | [darktable](https://www.darktable.org/) | Open-source RAW photo editor for reference/texture processing. |  | Open Source | RAW Editor · Open Source | RAW processing |
 | [Dust3D](https://dust3d.org/) | Open-source quick base mesh generation. |  | Open Source | Base Meshes · Open Source | Base mesh generation |
@@ -5439,6 +5441,7 @@ Reference, scattering, simulation, and specialty 3D utilities.
 
 | Software | Description | Pricing | License | Tags | Best For |
 |---|---|---|---|---|---|
+| [ArtDeck](https://getartdeck.com/) | Reference boards for images, video, links, and notes. Study tools for value, color, composition, and motion.<br><small class="see-also">See also: <a href="#pre-production-storyboarding--script-tools">Art, Design & Visual Storytelling → Pre-Production, Storyboarding & Script Tools</a></small> | $5.99 one-time | Paid | Apple-only · Study Tools | Reference boards and image study |
 | [Blockbench](https://www.blockbench.net/) | Free low-poly/voxel 3D modeler.<br><small class="see-also">See also: <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small> |  | Free | Low-poly · Voxel | Low-poly / voxel modeling |
 | [darktable](https://www.darktable.org/) | Open-source RAW photo editor for reference/texture processing.<br><small class="see-also">See also: <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small> |  | Open Source | RAW Editor · Open Source | RAW processing |
 | [Dust3D](https://dust3d.org/) | Open-source quick base mesh generation.<br><small class="see-also">See also: <a href="#miscellaneous-3d-tools--utilities">Tools, Pipeline & Utilities → Miscellaneous 3D Tools & Utilities</a></small> |  | Open Source | Base Meshes · Open Source | Base mesh generation |
