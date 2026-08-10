@@ -742,3 +742,10 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > merge and cleanup please
 
 **Answered:** Merged PR #9 into main with `--no-ff` (no `gh` CLI; used `git fetch origin pull/9/head`), then pushed a cleanup commit removing the dead import, deleting the string branch in `git()`, and converting the last 3 string call sites to arrays. Verified: `node --check`, verify-tags dry-run (187 chunks / 0 errors), traversal guard rejects `--task=../../evil`, `validate.js` passed (428 warnings, 0 errors).
+
+## 2026-08-10
+
+**Prompt:**
+> check PRs and see if we should merge
+
+**Answered:** One open PR: #10 (`AlexandreAlvesDB`, adds ArtDeck to `08-art-design/pre-production-tools`, self-submitted + disclosed, no affiliate link). Verified all closed enums valid, `tech` values curated, `dual_listed_in` target real, no dupe, URL 200, style compliant. CI was blocked at `action_required` (first-time contributor), so validated locally instead: `✓ Validation passed. 428 warnings` — identical to `main`, zero new warnings. Squash-merged + pushed (e9c828f), rebuilt via `build.sh` and committed README (8047e78). Note: the entry's `pricing` field makes `render.js` add a Pricing column to that whole table, leaving 18 blank cells; user chose to keep the entry as submitted. Reverted the unrelated `js-yaml`/`marked` caret bump that `npm install` wrote into `package.json` (no lockfile is committed, so it pins nothing). PR #10 is still open on GitHub — squash merge doesn't auto-close it, and there's no `gh` CLI here to close it.
