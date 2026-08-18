@@ -749,3 +749,12 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > check PRs and see if we should merge
 
 **Answered:** One open PR: #10 (`AlexandreAlvesDB`, adds ArtDeck to `08-art-design/pre-production-tools`, self-submitted + disclosed, no affiliate link). Verified all closed enums valid, `tech` values curated, `dual_listed_in` target real, no dupe, URL 200, style compliant. CI was blocked at `action_required` (first-time contributor), so validated locally instead: `✓ Validation passed. 428 warnings` — identical to `main`, zero new warnings. Squash-merged + pushed (e9c828f), rebuilt via `build.sh` and committed README (8047e78). Note: the entry's `pricing` field makes `render.js` add a Pricing column to that whole table, leaving 18 blank cells; user chose to keep the entry as submitted. Reverted the unrelated `js-yaml`/`marked` caret bump that `npm install` wrote into `package.json` (no lockfile is committed, so it pins nothing). PR #10 is still open on GitHub — squash merge doesn't auto-close it, and there's no `gh` CLI here to close it.
+
+## 2026-08-19
+
+**Prompt:**
+> add https://na.mipmap3d.com/
+>
+> and check links freshness
+
+**Answered:** Added MipMap (drone mapping photogrammetry; mining/construction/surveying; textured mesh + point cloud + Gaussian splats; from $29.90/mo, perpetual option) to `10-tools-pipeline/photogrammetry-scanning/03` (31 -> 32), beside Pix4D. User picked placement (§10 only, no §12 mirror), platform `[win, mac]` (mirrors Pix4D; site is JS-rendered so OS unconfirmed), tech `[photogrammetry, gaussian-splatting]` (no freeform `lidar`). Link freshness: catalog was last verified 2026-08-01 with 65 broken / 59 unreachable untriaged; user chose full rescan writing all chunks. `node scripts/check-links.js` over 3,543 URLs -> OK 3,426, broken 58, unreachable 59, redirects 0. 180 files touched, 0 NEW `deprecated: true` (all 58 broken were already flagged). Report: `_maintenance/link-check-2026-08-18.md`. Validation ✓ 428 warnings, 0 errors. README not regenerated and nothing committed (not requested).

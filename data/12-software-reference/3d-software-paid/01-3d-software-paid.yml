@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Film Animation
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Houdini
     url: https://www.sidefx.com/products/houdini/
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Procedural FX
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: ZBrush
     url: https://www.maxon.net/en/zbrush
@@ -84,7 +84,7 @@ entries:
     readme_tags:
       - Industry Standard
       - iPad Version
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Marvelous Designer
     url: https://www.marvelousdesigner.com/
@@ -109,7 +109,7 @@ entries:
     readme_tags:
       - Garment Sim
       - Cloth
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Style3D
     url: https://atelier.style3d.com/en/home
@@ -133,7 +133,7 @@ entries:
     readme_tags:
       - Fashion
       - Garment Sim
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Substance 3D Modeler
     url: https://www.adobe.com/products/substance3d/apps/modeler.html
@@ -156,7 +156,7 @@ entries:
     readme_tags:
       - VR Sculpt
       - Adobe Suite
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: unreachable
   - name: Moi3D
     url: http://moi3d.com/
@@ -179,7 +179,7 @@ entries:
     readme_tags:
       - NURBS
       - Perpetual License
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Nomad Sculpt
     url: https://nomadsculpt.com/
@@ -206,7 +206,7 @@ entries:
     readme_tags:
       - iPad Sculpt
       - One-time Purchase
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: SketchUp
     url: https://www.sketchup.com/
@@ -230,7 +230,7 @@ entries:
       - Arch-Viz
       - Easy Learning Curve
     notes: SketchUp for Schools free for K-12 students/educators. No general free tier as of 2026.
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Modo
     url: https://www.foundry.com/products/modo
@@ -253,7 +253,7 @@ entries:
     readme_tags:
       - Foundry
       - Modeling Focus
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Daz 3D
     url: https://www.daz3d.com/
@@ -274,7 +274,7 @@ entries:
     readme_tags:
       - Characters
       - Huge Marketplace
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Crocotile 3D
     url: https://prominent.itch.io/crocotile3d
@@ -292,7 +292,7 @@ entries:
     readme_tags:
       - Pixel/Tile 3D
       - Indie
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Cinema 4D
     url: https://www.maxon.net/en/cinema-4d
@@ -318,7 +318,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Motion Graphics
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: 3ds Max
     url: https://www.autodesk.com/products/3ds-max
@@ -345,8 +345,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Archviz/Games
-    url_last_verified: '2026-08-01'
-    url_status: broken
+    url_last_verified: '2026-08-18'
+    url_status: ok
     deprecated: true
   - name: MotionBuilder
     url: https://www.autodesk.com/products/motionbuilder
@@ -369,8 +369,8 @@ entries:
     readme_tags:
       - Industry Standard
       - Mocap
-    url_last_verified: '2026-08-01'
-    url_status: broken
+    url_last_verified: '2026-08-18'
+    url_status: ok
     dual_listed_in:
       - software-reference/virtual-production-software
     deprecated: true
@@ -395,7 +395,7 @@ entries:
     readme_tags:
       - Real-time
       - Character Anim
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Reallusion Character Creator
     url: https://www.reallusion.com/character-creator/
@@ -417,7 +417,7 @@ entries:
     readme_tags:
       - Character Pipeline
       - Auto-Rig
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Plasticity
     url: https://www.plasticity.xyz/
@@ -440,7 +440,7 @@ entries:
     readme_tags:
       - NURBS
       - Concept/Hard-Surface
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
     dual_listed_in:
       - software-reference/misc-3d-utilities-software
@@ -466,7 +466,7 @@ entries:
     readme_tags:
       - Veteran DCC
       - Broadcast/VFX
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Autodesk VRED
     url: https://www.autodesk.com/products/vred
@@ -488,8 +488,8 @@ entries:
     readme_tags:
       - Automotive Std
       - OEM
-    url_last_verified: '2026-08-01'
-    url_status: broken
+    url_last_verified: '2026-08-18'
+    url_status: ok
     deprecated: true
   - name: Autodesk Alias
     url: https://www.autodesk.com/products/alias
@@ -508,7 +508,7 @@ entries:
     readme_tags:
       - Class-A Surfacing
       - Auto Std
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: broken
     deprecated: true
   - name: ICEM Surf
@@ -528,7 +528,7 @@ entries:
     readme_tags:
       - Class-A
       - Siemens
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: broken
     deprecated: true
   - name: Lumiscaphe Patchwork 3D
@@ -550,7 +550,7 @@ entries:
     readme_tags:
       - Auto Config
       - Real-time
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: MatrixGold (Gemvision)
     url: https://gemvision.com/matrixgold/
@@ -569,7 +569,7 @@ entries:
     readme_tags:
       - Jewelry CAD
       - Rhino-based
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: JewelCAD
     url: https://www.jcadcam.com/
@@ -587,7 +587,7 @@ entries:
     readme_tags:
       - Jewelry CAD
       - Classic
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: unreachable
   - name: 3Design
     url: https://www.3design.com/
@@ -606,7 +606,7 @@ entries:
     readme_tags:
       - Jewelry CAD
       - Parametric
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Firestorm CAD
     url: https://firestormcad.com/
@@ -624,7 +624,7 @@ entries:
     readme_tags:
       - Rhino Plugin
       - Jewelry
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: broken
     deprecated: true
   - name: Clayoo
@@ -645,7 +645,7 @@ entries:
     readme_tags:
       - Rhino SubD
       - Organic
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: unreachable
   - name: Marmoset Toolbag
     url: https://marmoset.co/toolbag/
@@ -670,7 +670,7 @@ entries:
     readme_tags:
       - PBR Viewer
       - Baking
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
     dual_listed_in:
       - software-reference/render-engines
@@ -692,7 +692,7 @@ entries:
     readme_tags:
       - Fashion Std
       - Garment Sim
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Browzwear VStitcher
     url: https://browzwear.com/
@@ -712,7 +712,7 @@ entries:
     readme_tags:
       - Enterprise
       - Tech Packs
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Optitex
     url: https://www.optitex.com/
@@ -730,7 +730,7 @@ entries:
     readme_tags:
       - Pattern + Fit
       - Industrial
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: ChyronHego (Chyron)
     url: https://chyron.com/
@@ -748,7 +748,7 @@ entries:
     readme_tags:
       - Broadcast Graphics
       - PRIME
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Ross XPression
     url: https://www.rossvideo.com/products-services/acquisition-production/graphics/xpression-motion-graphics/
@@ -766,7 +766,7 @@ entries:
     readme_tags:
       - Broadcast
       - Data-Driven
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: broken
     deprecated: true
   - name: Avid Maestro
@@ -785,7 +785,7 @@ entries:
     readme_tags:
       - Avid
       - Virtual Sets
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Unreal MetaHuman Animator
     url: https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-animator-in-unreal-engine
@@ -807,7 +807,7 @@ entries:
     readme_tags:
       - MetaHuman
       - Free w/ Unreal
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Faceware Studio
     url: https://facewaretech.com/software/studio/
@@ -826,5 +826,5 @@ entries:
     readme_tags:
       - Face Cap
       - Real-time
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok

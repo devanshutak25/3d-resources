@@ -18,7 +18,7 @@ entries:
     readme_tags:
       - Industry Std
       - Storyboard
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Storyboarder (Wonder Unit)
     url: https://wonderunit.com/storyboarder/
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - Free
       - MIT
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: FrameForge Storyboard Studio
     url: https://www.frameforge.com/
@@ -58,7 +58,7 @@ entries:
     readme_tags:
       - 3D Storyboard
       - Lens-Accurate
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Boords
     url: https://boords.com/
@@ -75,7 +75,7 @@ entries:
     readme_tags:
       - Browser
       - Team
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: StudioBinder
     url: https://www.studiobinder.com/
@@ -96,7 +96,7 @@ entries:
     readme_tags:
       - Pre-Prod Suite
       - Cloud
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: ShotPro
     url: https://shotprofessional.com/
@@ -116,7 +116,7 @@ entries:
     readme_tags:
       - iOS
       - 3D Storyboard
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: ShotDeck
     url: https://shotdeck.com/
@@ -135,7 +135,7 @@ entries:
     readme_tags:
       - Film Stills
       - Subscription
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-inspiration
@@ -158,7 +158,7 @@ entries:
     readme_tags:
       - Cinematography Sim
       - Unreal-based
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Cine Designer (C4D)
     url: https://cinedesigner.tv/
@@ -177,7 +177,7 @@ entries:
     readme_tags:
       - C4D Plugin
       - Techvis
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: unreachable
   - name: The Third Floor
     url: https://thethirdfloorinc.com/
@@ -196,7 +196,7 @@ entries:
     readme_tags:
       - Previs Studio
       - Case Studies
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Halon Entertainment
     url: https://halon.com/
@@ -215,7 +215,7 @@ entries:
     readme_tags:
       - Previs/VP
       - Writeups
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Magnopus
     url: https://www.magnopus.com/
@@ -235,7 +235,7 @@ entries:
     readme_tags:
       - VP/XR
       - Studio Blog
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Movie Magic Scheduling
     url: https://www.ep.com/movie-magic-scheduling/
@@ -253,7 +253,7 @@ entries:
     readme_tags:
       - Industry Std
       - Schedule
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Celtx
     url: https://www.celtx.com/
@@ -270,7 +270,7 @@ entries:
     readme_tags:
       - Browser
       - Pre-prod
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Final Draft
     url: https://www.finaldraft.com/
@@ -287,7 +287,7 @@ entries:
     readme_tags:
       - Industry Std
       - Screenwriting
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Fade In
     url: https://www.fadeinpro.com/
@@ -305,7 +305,7 @@ entries:
     readme_tags:
       - Screenwriting
       - Affordable
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Highland
     url: https://highland2.app/
@@ -321,7 +321,7 @@ entries:
     readme_tags:
       - Fountain
       - Mac
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: WriterDuet
     url: https://writerduet.com/
@@ -338,7 +338,7 @@ entries:
     readme_tags:
       - Collab
       - Browser
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: PureRef
     url: https://www.pureref.com/
@@ -356,7 +356,7 @@ entries:
     readme_tags:
       - Pay What You Want
       - Std Artist Tool
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
     dual_listed_in:
       - software-reference/misc-3d-utilities-software
@@ -375,7 +375,7 @@ entries:
     readme_tags:
       - Local DAM
       - Tags
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Kuadro
     url: https://kruelgames.com/tools/kuadro/
@@ -391,7 +391,7 @@ entries:
     readme_tags:
       - Free
       - Lightweight
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: unreachable
   - name: Milanote
     url: https://milanote.com/
@@ -408,12 +408,11 @@ entries:
     readme_tags:
       - Moodboards
       - Cloud
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: ArtDeck
     url: https://getartdeck.com/
-    description: Reference boards for images, video, links, and notes. Study tools
-      for value, color, composition, and motion.
+    description: Reference boards for images, video, links, and notes. Study tools for value, color, composition, and motion.
     pricing: $5.99 one-time
     license: Paid
     entry_type: software
@@ -438,6 +437,8 @@ entries:
       - Study Tools
     dual_listed_in:
       - software-reference/misc-3d-utilities-software
+    url_last_verified: '2026-08-18'
+    url_status: ok
   - name: Are.na
     url: https://www.are.na/
     description: Collaborative visual research blocks and channels.
@@ -452,7 +453,7 @@ entries:
     readme_tags:
       - Research
       - Network
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -469,7 +470,7 @@ entries:
     readme_tags:
       - Free
       - Film Stills
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
     dual_listed_in:
       - motion-graphics-video/motion-graphics-inspiration
@@ -486,8 +487,8 @@ entries:
     readme_tags:
       - Free
       - Search
-    url_last_verified: '2026-08-01'
-    url_status: unreachable
+    url_last_verified: '2026-08-18'
+    url_status: ok
   - name: Lessons from the Screenplay
     url: https://www.youtube.com/@LFTScreenplay
     description: Story and screenplay analysis on YouTube.
@@ -503,7 +504,7 @@ entries:
     readme_tags:
       - YouTube
       - Story Analysis
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: broken
     deprecated: true
   - name: VES (Visual Effects Society)
@@ -521,7 +522,7 @@ entries:
     readme_tags:
       - Handbook
       - On-Set
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: ASC Magazine
     url: https://theasc.com/magazine
@@ -538,8 +539,8 @@ entries:
     readme_tags:
       - Cinematography
       - Industry
-    url_last_verified: '2026-08-01'
-    url_status: ok
+    url_last_verified: '2026-08-18'
+    url_status: broken
     deprecated: true
   - name: Cosmos
     url: https://www.cosmos.so/
@@ -555,7 +556,7 @@ entries:
         - web
     readme_tags:
       - Moodboard
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: are.na
     url: https://www.are.na/
@@ -571,7 +572,7 @@ entries:
         - web
     readme_tags:
       - Moodboard
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: EYECANDY
     url: https://eycndy.com/
@@ -587,7 +588,7 @@ entries:
         - web
     readme_tags:
       - Film Reference
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: unreachable
   - name: Frame Set
     url: https://frameset.app/
@@ -603,7 +604,7 @@ entries:
         - web
     readme_tags:
       - Film Stills
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Refsee
     url: https://refsee.com/
@@ -619,7 +620,7 @@ entries:
         - web
     readme_tags:
       - Video Reference
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Same.Energy
     url: https://same.energy/
@@ -635,7 +636,7 @@ entries:
         - web
     readme_tags:
       - Image Search
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Shotdeck
     url: https://shotdeck.com/
@@ -651,7 +652,7 @@ entries:
         - web
     readme_tags:
       - Film Stills
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Spectacle.is
     url: https://spectacle.is/
@@ -667,7 +668,7 @@ entries:
         - web
     readme_tags:
       - Video Reference
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
   - name: Yarn.co
     url: https://yarn.co/
@@ -683,5 +684,5 @@ entries:
         - web
     readme_tags:
       - Clip Search
-    url_last_verified: '2026-08-01'
+    url_last_verified: '2026-08-18'
     url_status: ok
