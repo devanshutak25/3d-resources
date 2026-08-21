@@ -9,6 +9,10 @@ Architectural / structural decisions w/ rationale + date.
   - Impact:
 
 ## Log
+- **2026-08-21 - Merged PR #11 (Thridy -> §01 icons).**
+  - Decision: user said "merge PRs, do all necessary checks first". Only open PR was #11 (kiranjinnil, self-disclosed author of Thridy). Merged with a real `--no-ff` merge commit (not squash) so GitHub auto-closes the PR - the 2026-08-04 squash of PR #10 left it open because squash-merge does not close a PR without `gh`.
+  - Checks: closed enums valid + matches §01 asset-source-website convention (`platform: web`); readme_tags 2/2; chunk 29/50; catalog dupe grep `thridy` = 1 hit; URL 200 + license page confirms free/no-signup/no-attribution; style clean. CI never ran on the PR (0 check-runs, `mergeable_state: unstable`, first-time-contributor approval gate), so ran CI parity locally: validate ✓ 428 warnings (= main baseline, 0 new), render.js exit 0, export-data.js exit 0.
+  - Impact: main d98c067 pushed; open PRs 0. README.md NOT regenerated (separate step, user's call). Tooling note: `gh` CLI still absent - PR listing/inspection done via the public GitHub REST API from PowerShell, diff via `git fetch origin pull/N/head`.
 - **2026-06-30 — Marked 21 bot-block/transient link-check false positives `unreachable` (un-deprecated).**
   - Decision: after the sweep + report-only, user said "mark unreachable for now." Downgraded all 21 not-genuinely-dead `broken` entries → `url_status: unreachable` + removed `deprecated: true` (conservative holding status; un-hides live tools without asserting `ok`).
   - Scope: 18 confirmed-alive (3ds Max, MotionBuilder, VRED, Inventor, ReCap, RV, Flow Capture, Flow Production Tracking, Mo-Sys StarTracker, Celestia, Domestika, Wonder Studio, HDR Shop, bsky.art, Fast Palette, IEEE, Field3D, 3D Maths Cheat Sheet) + 3 transient (Brandfetch 403, Houdini Blueprints 502, Importance Sampling 444). Excluded Mudbox (legacy-defunct, deprecated intentional) + the genuinely-dead links (stay broken+deprecated).
