@@ -449,3 +449,17 @@ entries:
       - Icons
     url_last_verified: '2026-08-18'
     url_status: ok
+  - name: Thridy
+    url: https://thridy.com/
+    description: 13,000+ free 3D icons in one consistent style; HD transparent PNG downloads, no signup or attribution required.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - 3D Icons
+      - Free
+    tags:
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
