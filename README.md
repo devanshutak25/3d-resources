@@ -28,7 +28,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Model Libraries: Architecture & Furniture](#model-libraries-architecture--furniture) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Arch-viz, furniture, and BIM asset libraries.</small>
 - [Asset Marketplaces](#asset-marketplaces) <span class="toc-count">(10 items)</span><br><small class="toc-desc">General asset marketplaces across multiple engines and tools.</small>
 - [Free Asset Giveaways](#free-asset-giveaways) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Recurring free asset drops. Bookmark these.</small>
-- [Software-Specific Asset Libraries](#software-specific-asset-libraries) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Official asset libraries tied to specific DCCs.</small>
+- [Software-Specific Asset Libraries](#software-specific-asset-libraries) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Official asset libraries tied to specific DCCs.</small>
 - [HDRIs](#hdris) <span class="toc-count">(11 items)</span><br><small class="toc-desc">HDR environment maps for lighting and reflections.</small>
 - [Textures & Materials: Free PBR Libraries](#textures--materials-free-pbr-libraries) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Free PBR texture libraries for materials authoring.</small>
 - [Textures: Specialized](#textures-specialized) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Specialty texture sources: displacement, patterns, sprites, terrain.</small>
@@ -37,7 +37,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Stock Footage](#stock-footage) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Free and archival video footage sources.</small>
 - [Audio: SFX & Music Libraries](#audio-sfx--music-libraries) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
 - [Fonts](#fonts) <span class="toc-count">(21 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
-- [Icons](#icons) <span class="toc-count">(27 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
+- [Icons](#icons) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
 - [Game Assets](#game-assets) <span class="toc-count">(43 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Cross-listed from §7.</small>
 
 </details>
@@ -101,7 +101,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Motion Graphics: YouTube Channels](#motion-graphics-youtube-channels) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Motion design learning channels.</small>
 - [Motion Graphics: Courses](#motion-graphics-courses)<br><small class="toc-desc">Structured motion graphics courses.</small>
 - [After Effects: Learning & Templates](#after-effects-learning--templates) <span class="toc-count">(2 items)</span><br><small class="toc-desc">AE expressions, templates, and workflow resources.</small>
-- [Fusion (DaVinci Resolve): Learning](#fusion-davinci-resolve-learning) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Fusion references and EXR workflow.</small>
+- [Fusion (DaVinci Resolve): Learning](#fusion-davinci-resolve-learning) <span class="toc-count">(2 items)</span><br><small class="toc-desc">Fusion references and EXR workflow.</small>
 - [Motion Graphics: Inspiration](#motion-graphics-inspiration) <span class="toc-count">(30 items)</span><br><small class="toc-desc">Showcases, style frames, title sequences, ad references.</small>
 - [Motion Graphics: Tools & Utilities](#motion-graphics-tools--utilities) <span class="toc-count">(18 items)</span><br><small class="toc-desc">MG-specific tools and utilities.</small>
 - [Video Editing: Courses](#video-editing-courses)<br><small class="toc-desc">Editing-specific courses.</small>
@@ -115,7 +115,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [Godot: Key Plugins & Addons](#godot-key-plugins--addons) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Essential Godot addons.</small>
 - [Godot: Learning](#godot-learning) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Godot-focused learning channels and courses.</small>
 - [Godot: Communities](#godot-communities) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Godot forums and chat.</small>
-- [Unity Engine: Resources](#unity-engine-resources) <span class="toc-count">(442 items)</span><br><small class="toc-desc">Unity community add-ons, tools, and learning resources.</small>
+- [Unity Engine: Resources](#unity-engine-resources) <span class="toc-count">(441 items)</span><br><small class="toc-desc">Unity community add-ons, tools, and learning resources.</small>
 - [XR, AR & VR: Resources](#xr-ar--vr-resources) <span class="toc-count">(25 items)</span><br><small class="toc-desc">AR/VR/XR SDKs, frameworks, tools, and references across ARKit, ARCore, WebXR, and VR platforms.</small>
 - [Unreal Engine: Resources](#unreal-engine-resources) <span class="toc-count">(184 items)</span><br><small class="toc-desc">Unreal Engine resources and marketplace picks.</small>
 - [Game Dev Tools: Level Design](#game-dev-tools-level-design) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Level editors and blockout tools.</small>
@@ -198,7 +198,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude
 - [YouTube Channels: Sculpting & Characters](#youtube-channels-sculpting--characters) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Character and sculpting focused creators.</small>
 - [Paid Tutorial Platforms](#paid-tutorial-platforms) <span class="toc-count">(89 items)</span><br><small class="toc-desc">Subscription and course-based learning platforms.</small>
 - [Patreon Creators](#patreon-creators) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Creators on Patreon offering tutorials, files, and tips.</small>
-- [3D Communities & Forums](#3d-communities--forums) <span class="toc-count">(153 items)</span><br><small class="toc-desc">Cross-DCC CG communities.</small>
+- [3D Communities & Forums](#3d-communities--forums) <span class="toc-count">(152 items)</span><br><small class="toc-desc">Cross-DCC CG communities.</small>
 - [3D Inspiration & Showcase](#3d-inspiration--showcase) <span class="toc-count">(41 items)</span><br><small class="toc-desc">Showcases, portfolios, and visual reference hubs.</small>
 - [Salary & Career Data](#salary--career-data) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Salary data and studio review spreadsheets.</small>
 - [Industry Trends 2025-2026](#industry-trends-2025-2026) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Current technology and market trends in CG.</small>
@@ -352,7 +352,6 @@ Recurring free asset drops. Bookmark these.
 
 Official asset libraries tied to specific DCCs.
 
-- [3DCoat Smart Materials](https://3dcoat.com/documentation/manual/brush-components/smart-materials/) <span class="lic-pill lic-paid">Paid</span>. Official materials library.
 - [Blender Demo Files](https://www.blender.org/download/demo-files/). Official demo scenes.
 - [Blender Extensions](https://extensions.blender.org/). Official addons and themes repository.
 - [Maxon Asset Browser](https://www.maxon.net/en/cinema-4d/features/asset-browser) <span class="lic-pill lic-paid">Paid</span>. Cinema 4D built-in asset library.
@@ -553,6 +552,7 @@ Icon libraries and animation sets.
 - [SVG Repo](https://www.svgrepo.com/) <span class="lic-pill lic-mixed">Mixed</span>. 500k+ free SVG vectors and icons across many styles and packs.
 - [SVGL](https://svgl.app/). Brand logos in SVG.
 - [Tabler Icons](https://tablericons.com/). Open-source SVG icons.
+- [Thridy](https://thridy.com/). 13,000+ free 3D icons in one consistent style; HD transparent PNG downloads, no signup or attribution required.
 - [typicons.font](http://s-ings.com/typicons/). 336 pixel-perfect all-purpose vector icons in a web-font kit.
 - [Use Animations](https://useanimations.com/) <span class="lic-pill lic-freemium">Freemium</span>. Animated icons for web UI.
 
@@ -1576,7 +1576,6 @@ Fusion references and EXR workflow.
 
 - [Multichannel EXR (Fusion forum)](https://forum.blackmagicdesign.com/viewtopic.php?f=22&t=39964). Multichannel EXR workflow in Fusion.
 - [Split EXR in Fusion](http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion). Split EXR in Fusion guide.
-- [VFXPedia](https://www.steakunderwater.com/VFXPedia/96.0.243.189/index4875.html?title=Main_Page). Reference wiki for Fusion.
 
 ### Motion Graphics: Inspiration
 
@@ -1836,7 +1835,6 @@ Unity community add-ons, tools, and learning resources.
 **Related:**
 - [2D Rope System](https://www.assetstore.unity3d.com/en/#!/content/17722) <span class="lic-pill lic-paid">Paid</span>. Scripts for creating 2D ropes in the editor or at runtime.
 - [2D Tech Demos](https://github.com/Unity-Technologies/2d-techdemos). Official Unity tech demos for 2D features.
-- [3DBuzz](https://www.youtube.com/@3dbuzz). Video tutorials on Unity, including its UI system.
 - [50 Unity Tips](https://github.com/defuncart/50-unity-tips). Fifty Unity tips spanning editor tools, serialization, and UI shortcuts, with a mobile focus.
 - [A Crack In The Slab](https://github.com/Broxxar/ACrackInTheSlab). Recreation of a Dishonored 2 effect in Unity.
 - [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity). Multithreaded 3-axis A* pathfinder for Unity.
@@ -3819,6 +3817,7 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 | [Leica Cyclone](https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone) | Point cloud registration and processing for Leica scanners. |  | Paid | Leica · Point Cloud | Leica scan pipeline |
 | [Luminance HDR](https://qtpfsgui.sourceforge.net/) | HDR workflow. Merge brackets, tonemap, convert EXR/HDR/RGBE.<br><small class="see-also">See also: <a href="#viewers--file-utilities">Software Reference → Viewers & File Utilities</a>, <a href="#conversion-tools">Tools, Pipeline & Utilities → Conversion Tools</a></small> |  | Open Source | HDR Workflow · EXR | HDR workflow |
 | [Meshroom (AliceVision)](https://alicevision.org/#meshroom) | Free, open-source photogrammetry. Node-based, GPU-accelerated.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Open Source | Open Source · Node-based | Open-source photogrammetry |
+| [MipMap](https://na.mipmap3d.com/) | Drone mapping photogrammetry for mining, construction, and surveying. Outputs textured mesh, point cloud, and Gaussian splats. | From $29.90/mo, perpetual option | Paid | Drone Mapping · Survey | Drone survey to 3D model |
 | [Open Scan Tools](https://openscantools.com/) | A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Open Source | Open Source · Toolkit | Open-source scan toolkit |
 | [OpenDroneMap / WebODM](https://www.opendronemap.org/) | Open source drone photogrammetry stack. |  | Open Source | Open Source · Drone | Open drone photogrammetry |
 | [PCL (Point Cloud Library)](https://pointclouds.org/) | Large-scale open project for 2D/3D image and point cloud processing.<br><small class="see-also">See also: <a href="#photogrammetry--scanning-software">Software Reference → Photogrammetry & Scanning Software</a></small> |  | Open Source | Point Clouds · Open Source | Point cloud processing |
@@ -3835,7 +3834,6 @@ Photogrammetry, LiDAR, and Gaussian splat capture.
 - [360 Gaussian Splatting](https://github.com/inuex35/360-gaussian-splatting). Generate gaussian splatting directly from 360 images
 - [3D Gaussian Splatting (joeyan reimpl)](https://github.com/joeyan/gaussian_splatting). Python/CUDA Gaussian Splatting reimplementation (MIT).
 - [3D Gaussian Splatting (WangFeng18 reimpl)](https://github.com/WangFeng18/3d-gaussian-splatting). Python/CUDA Gaussian Splatting reimplementation (MIT).
-- [3D in Geospatial: NeRFs, Gaussian Splatting, and Spatial Computing](https://ckoziol.com/blog/2024/radiance_methods/). Blog. Applying NeRFs and Gaussian Splatting to geospatial 3D mapping.
 - [4DViews](https://www.4dviews.com/) <span class="lic-pill lic-paid">Paid</span>. Volumetric capture stages and HOLOSYS rigs.
 - [Awesome-3DGS Paper List](https://mrnerf.github.io/awesome-3D-gaussian-splatting/). Curated list of 3D Gaussian Splatting papers, maintained by MrNeRF.
 - [Book: High Dynamic Range Imaging (Reinhard et al.)](https://shop.elsevier.com/books/high-dynamic-range-imaging/reinhard/978-0-12-374914-7) <span class="lic-pill lic-paid">Paid</span>. Reinhard, Heidrich, Debevec, Pattanaik, Ward, Myszkowski. The reference text on HDR imaging.
@@ -4622,7 +4620,6 @@ Cross-DCC CG communities.
 - [Server 4D](https://discord.com/invite/p4d). 3D Discord (~5.7K) hosted by Patrick 4D. All things 3D with daily live-streams.
 - [Shaders Hub](https://discord.com/invite/shadershub). Large (~72K) shader-focused Discord covering GLSL, HLSL, and engine shader languages.
 - [Sir Wade Animation](https://discord.com/invite/TBasBmhnDe). Sir Wade Neistadt's animation Discord (~11K). Professional and aspiring animators and CG artists since 2019.
-- [Steam Community VR Workshop Item](http://steamcommunity.com/sharedfiles/filedetails/?id=687365559). Steam Community Workshop submission referenced by the VR/game-dev forum discussions.
 - [Steam VR Template (Unreal Engine Forum)](https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template). Community thread sharing a Steam VR project template for Unreal Engine.
 - [Stylized Station's World of ArtCraft](https://discord.com/invite/cHVVnr2). Official Stylized Station Discord (~8K). Stylized and real-time 3D art with regular ArtCraft Arena challenges.
 - [Substance Share](https://share.substance3d.com/). Free exchange platform for the Substance community. User-made materials, filters, and assets.
