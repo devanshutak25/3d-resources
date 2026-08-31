@@ -489,3 +489,20 @@ entries:
       - Decks
     url_last_verified: '2026-08-18'
     url_status: ok
+  - name: Inspora
+    url: https://www.inspora.design/
+    description: Design inspiration gallery updated hourly, split into web, branding, product, motion, illustration, 3D, and print.
+    license: Free
+    entry_type: inspiration
+    tags:
+      workflow:
+        - concept
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Gallery
+      - Curated
+    url_last_verified: '2026-08-31'
+    url_status: ok

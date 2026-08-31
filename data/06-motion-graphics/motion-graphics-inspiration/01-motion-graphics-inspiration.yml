@@ -414,6 +414,21 @@ entries:
         - unreal-plugin
     stale: true
     last_pushed: '2022-12-20'
+  - name: Hall of Frame
+    url: https://hallofframe.in/
+    description: Community-submitted archive of motion design, typography, 3D, and VFX references, filterable by category and format.
+    license: Free
+    entry_type: inspiration
+    readme_tags:
+      - Archive
+      - Curated
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+    url_last_verified: '2026-08-31'
+    url_status: ok
   - name: FrameRate
     url: https://framerate.tv/
     description: Community showcase for motion design and music video work by video professionals.

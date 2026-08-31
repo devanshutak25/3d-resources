@@ -502,6 +502,23 @@ entries:
         - web
       tech:
         - unreal-plugin
+  - name: The Motion Social Club
+    url: https://themotionsocial.club/
+    description: Motion design community with a bi-weekly newsletter, learning paths, practice exercises, and a creator directory.
+    entry_type: community
+    license: Free
+    readme_tags:
+      - Motion Design
+      - Newsletter
+    url_last_verified: '2026-08-31'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      output:
+        - motion-graphics
+      skill:
+        - beginner
   - name: Free Low-Poly Nature Assets Thread (r/gamedev)
     url: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
     description: Reddit thread sharing free low-poly trees, plants, and rocks for game development.
