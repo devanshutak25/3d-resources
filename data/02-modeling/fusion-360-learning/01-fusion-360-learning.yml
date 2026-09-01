@@ -7,8 +7,8 @@ entries:
     readme_tags:
       - Autodesk Academy
       - Designers
-    url_last_verified: '2026-08-18'
-    url_status: broken
+    url_last_verified: '2026-09-01'
+    url_status: ok
     tags:
       workflow:
         - modeling

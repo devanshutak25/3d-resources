@@ -12,7 +12,7 @@ entries:
     readme_tags:
       - Product Design
       - Manufacturing
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     deprecated: true
   - name: Motion Graphics Pipeline
@@ -28,5 +28,5 @@ entries:
     readme_tags:
       - Mograph
       - C4D + AE
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok

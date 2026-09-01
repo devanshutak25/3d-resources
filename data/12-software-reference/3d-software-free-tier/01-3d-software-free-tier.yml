@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - Browser
       - Collaborative
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
   - name: Womp3D
     url: https://www.womp.com/
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Browser
       - Product Design
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
   - name: Vectary
     url: https://www.vectary.com/
@@ -65,14 +65,14 @@ entries:
     readme_tags:
       - Browser
       - E-commerce
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
   - name: World Machine
     url: https://www.world-machine.com/
     description: Command tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
     entry_type: software
     license: Freemium
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       workflow:
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - Free NC
       - Learning Version
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/houdini-getting-started
@@ -120,7 +120,7 @@ entries:
     readme_tags:
       - AI Anim
       - Free NC
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     dual_listed_in:
       - software-reference/ai-motion-capture-software
@@ -153,7 +153,7 @@ entries:
     readme_tags:
       - Browser
       - Collaborative
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
   - name: Bezi
     url: https://www.bezi.com/
@@ -180,7 +180,7 @@ entries:
     readme_tags:
       - Browser
       - Multiplayer
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
   - name: Gravity Sketch
     url: https://www.gravitysketch.com/
@@ -209,7 +209,7 @@ entries:
     readme_tags:
       - VR
       - Concept
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
   - name: Re:Form
     url: https://reformsculpt.com/
@@ -230,5 +230,5 @@ entries:
     readme_tags:
       - Browser
       - WebGPU
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok

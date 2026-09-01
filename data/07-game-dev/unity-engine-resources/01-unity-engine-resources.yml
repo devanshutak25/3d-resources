@@ -4,7 +4,7 @@ entries:
     description: Official Unity ad monetization SDK.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -19,7 +19,7 @@ entries:
     url: https://unity.com/unity/features/ar
     description: 'Unity''s AR tooling: AR Foundation cross-platform framework plus MARS authoring environment.'
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -35,7 +35,7 @@ entries:
     description: Fast pathfinding system for Unity with grid, navmesh, and point graphs.
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -51,7 +51,7 @@ entries:
     description: Scripts for creating 2D ropes in the editor or at runtime.
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -67,7 +67,7 @@ entries:
     description: Serializable references to System.Type with a custom property drawer for dropdown class selection.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -84,8 +84,8 @@ entries:
     description: Extra controls and components for the Unity uGUI system.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
-    url_status: ok
+    url_last_verified: '2026-09-01'
+    url_status: broken
     tags:
       output:
         - games
@@ -96,12 +96,13 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    deprecated: true
   - name: Reorderable List Editor Field for Unity
     url: https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity
     description: Drag-to-reorder list field for Unity inspectors.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -118,7 +119,7 @@ entries:
     description: Editor window that generates C# source stubs for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -134,7 +135,7 @@ entries:
     url: https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/
     description: Unity blog explaining the Package Manager release lifecycle.
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: broken
     tags:
       output:
@@ -148,7 +149,7 @@ entries:
     url: https://blogs.unity3d.com/es/
     description: News and development insights from Unity.
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -161,7 +162,7 @@ entries:
     url: https://blogs.unity3d.com/2016/12/15/editorvr-experimental-build-available-today/
     description: 2016 Unity blog announcing the experimental EditorVR build.
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: broken
     tags:
       output:
@@ -177,7 +178,7 @@ entries:
     url: https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/
     description: Hotkey reference for the Unity editor.
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -190,7 +191,7 @@ entries:
     url: https://devdog.io/blog/?tag=UnityTips
     description: Collected Unity tips and tricks posted by developers.
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -203,7 +204,7 @@ entries:
     url: https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html
     description: Manual for Unity's cross-platform AR framework (ARKit, ARCore).
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -218,7 +219,7 @@ entries:
     url: http://docs.unity3d.com/Manual/VROverview.html
     description: Unity's official documentation on developing virtual reality applications.
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -233,7 +234,7 @@ entries:
     url: https://docs.unity3d.com/Manual/UnityHotkeys.html
     description: Unity manual page listing editor hotkeys.
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -246,7 +247,7 @@ entries:
     url: http://docs.unity3d.com/Manual/VirtualReality.html
     description: Unity manual section on VR development.
     entry_type: reference
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -262,7 +263,7 @@ entries:
     description: Collection of reusable Unity code gists.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -276,7 +277,7 @@ entries:
     description: 'Gist: improved scripting define symbol management for Unity.'
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -290,7 +291,7 @@ entries:
     description: Download manager gist for Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -304,7 +305,7 @@ entries:
     description: Gist showing native Android toast messages from Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -318,7 +319,7 @@ entries:
     description: Gist activity that captures onNewIntent deep links missed by Unity when backgrounded.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -332,7 +333,7 @@ entries:
     description: Aras Pranckevicius gist on driving fixed-function render states from materials and scripts in Unity.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -346,7 +347,7 @@ entries:
     description: Pixel-perfect camera with scaling options for 2D games.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -365,7 +366,7 @@ entries:
     description: Official Unity tech demos for 2D features.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -382,7 +383,7 @@ entries:
     description: C# port of PixelSpriteGenerator for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -401,7 +402,7 @@ entries:
     description: Performant sprite renderer example using Unity's ECS.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -420,7 +421,7 @@ entries:
     description: A set of 2D tools for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -439,7 +440,7 @@ entries:
     description: 'C# components for 2D games: pixel-art cameras, events and messaging, save/load, collision handlers, object pools.'
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -458,7 +459,7 @@ entries:
     description: Generates line and polygon meshes in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -475,7 +476,7 @@ entries:
     description: Official Unity SVG and vector graphics sample project.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -494,7 +495,7 @@ entries:
     description: Imports Live2D models and reads mtn motion files in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -513,7 +514,7 @@ entries:
     description: A code-first 2D framework for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -532,7 +533,7 @@ entries:
     description: SVG renderer for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -552,7 +553,7 @@ entries:
     description: Editor for authoring shoot-em-up bullet patterns.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -571,7 +572,7 @@ entries:
     description: Tool for making sprites inside Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -590,7 +591,7 @@ entries:
     description: 2D polyline editor for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -609,7 +610,7 @@ entries:
     description: A simple 2D spline library for Unity. Unmaintained.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -629,7 +630,7 @@ entries:
     description: 2D A* pathfinding for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -649,7 +650,7 @@ entries:
     description: A* navigation for Unity using Burst-compiled jobs.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -668,7 +669,7 @@ entries:
     description: Utility-based AI framework for C# and Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -687,7 +688,7 @@ entries:
     description: AI toolkit for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -706,7 +707,7 @@ entries:
     description: 3D jump-point-search pathfinding for cube-based games in C#.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -725,7 +726,7 @@ entries:
     description: Goal-oriented action planning AI for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -744,7 +745,7 @@ entries:
     description: Steering-behavior movement scripts for NPCs in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -763,7 +764,7 @@ entries:
     description: Open-source pathfinding for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -782,7 +783,7 @@ entries:
     description: Dijkstra shortest-path finding for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -801,7 +802,7 @@ entries:
     description: Event-driven behavior trees for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -818,7 +819,7 @@ entries:
     description: Code-first behavior tree micro-framework for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -835,7 +836,7 @@ entries:
     description: Multithreaded 3-axis A* pathfinder for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:

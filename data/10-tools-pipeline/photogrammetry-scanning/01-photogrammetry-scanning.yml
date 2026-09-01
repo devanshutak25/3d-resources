@@ -5,7 +5,7 @@ entries:
     license: Open Source
     entry_type: tool
     best_for: Browser splat editor
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       workflow:
@@ -26,7 +26,7 @@ entries:
     license: Open Source
     entry_type: tool
     best_for: Free photogrammetry pipeline
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       workflow:
@@ -49,7 +49,7 @@ entries:
     license: Open Source
     entry_type: tool
     best_for: Mesh/point cloud viewer
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -70,8 +70,8 @@ entries:
     license: Free
     entry_type: reference
     best_for: Gaussian splat blog post
-    url_last_verified: '2026-08-18'
-    url_status: ok
+    url_last_verified: '2026-09-01'
+    url_status: unreachable
     year: 2023
     tags:
       output:
@@ -89,8 +89,8 @@ entries:
     license: Free
     entry_type: reference
     best_for: Gaussian splat blog post
-    url_last_verified: '2026-08-18'
-    url_status: ok
+    url_last_verified: '2026-09-01'
+    url_status: unreachable
     year: 2023
     tags:
       output:
@@ -108,8 +108,8 @@ entries:
     license: Free
     entry_type: reference
     best_for: Gaussian splat blog post
-    url_last_verified: '2026-08-18'
-    url_status: ok
+    url_last_verified: '2026-09-01'
+    url_status: unreachable
     year: 2023
     tags:
       output:
@@ -127,7 +127,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Gaussian splat blog post
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     year: 2023
     tags:
@@ -146,8 +146,8 @@ entries:
     license: Free
     entry_type: reference
     best_for: Geospatial radiance methods overview
-    url_last_verified: '2026-08-18'
-    url_status: broken
+    url_last_verified: '2026-09-01'
+    url_status: ok
     year: 2024
     tags:
       output:
@@ -167,7 +167,7 @@ entries:
     license: Open Source
     entry_type: plugin
     best_for: Blender photogrammetry import
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       workflow:
@@ -191,7 +191,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Photogrammetry learning guide
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -210,7 +210,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Original NeRF source repo
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     year: 2020
     tags:
@@ -231,7 +231,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: PyTorch NeRF impl
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     year: 2020
     tags:
@@ -251,7 +251,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: PyTorch Lightning NeRF
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     year: 2020
     tags:
@@ -273,7 +273,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: NeRF-W impl
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     year: 2021
     tags:
@@ -295,7 +295,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: PyTorch3D NeRF
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     year: 2020
     tags:
@@ -315,7 +315,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: JAX NeRF impl
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     year: 2020
     tags:
@@ -335,7 +335,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Mip-NeRF impl
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     year: 2021
     tags:
@@ -358,7 +358,7 @@ entries:
     license: Free
     entry_type: reference
     best_for: Awesome list for Gaussian splatting
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -377,7 +377,7 @@ entries:
     license: Open Source
     entry_type: tool
     best_for: Nerfstudio gsplat lib
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       workflow:
@@ -400,7 +400,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Gaussian splat impl
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -421,7 +421,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Gaussian splat reimpl
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -440,7 +440,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Gaussian splat reimpl
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -459,7 +459,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Stylized splat research
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
@@ -480,7 +480,7 @@ entries:
     license: Open Source
     entry_type: reference
     best_for: Nerfstudio gsplat fork
-    url_last_verified: '2026-08-18'
+    url_last_verified: '2026-09-01'
     url_status: ok
     tags:
       output:
