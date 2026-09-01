@@ -287,6 +287,8 @@ entries:
     readme_tags:
       - webrtc
       - p2p
+    stale: true
+    last_pushed: '2024-09-03'
   - name: WebRTC Unity Plugin
     url: https://github.com/bengreenier/webrtc-unity-plugin
     description: Cross-platform WebRTC support for Unity apps.
@@ -950,6 +952,8 @@ entries:
     readme_tags:
       - framework
       - architecture
+    stale: true
+    last_pushed: '2024-08-29'
   - name: Unity Framework
     url: https://github.com/cleavetv/unity-framework
     description: Application framework for C# Unity game projects.

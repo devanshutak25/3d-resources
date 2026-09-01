@@ -104,6 +104,8 @@ entries:
       - Examples
     url_last_verified: '2026-09-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-08-17'
   - name: Animal Logic's USD Docker
     url: https://github.com/AnimalLogic/docker-usd
     description: Docker build scripts that fetch and compile Pixar USD and its open-source dependencies.

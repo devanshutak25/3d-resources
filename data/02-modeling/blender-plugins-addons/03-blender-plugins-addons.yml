@@ -103,6 +103,8 @@ entries:
         - win
         - mac
         - linux
+    stale: true
+    last_pushed: '2024-07-01'
   - name: WritingAnimation
     url: https://github.com/Shriinivas/writinganimation
     description: Generates writing animation for selected Bezier curves in Blender.
@@ -123,6 +125,8 @@ entries:
         - win
         - mac
         - linux
+    stale: true
+    last_pushed: '2024-06-01'
   - name: TextCounter
     url: https://github.com/leomoon-studios/leomoon-textcounter/
     description: Text-animation addon for counters and GUI simulations in Blender.
@@ -143,8 +147,6 @@ entries:
         - linux
       output:
         - motion-graphics
-    stale: true
-    last_pushed: '2023-03-09'
   - name: GreaseWriter
     url: https://github.com/doakey3/GreaseWriter
     description: Auto-animates grease pencil strokes to emulate hand-drawn text.
@@ -269,6 +271,7 @@ entries:
         - games
     stale: true
     last_pushed: '2021-01-27'
+    archived: true
   - name: INOX
     url: https://github.com/gents83/INOX
     description: Rust game engine integrated in Blender.
@@ -416,6 +419,8 @@ entries:
       output:
         - xr
     archived: true
+    stale: true
+    last_pushed: '2024-09-10'
   - name: Loom
     url: https://github.com/p2or/blender-loom
     description: Simplifies rendering image sequences and frame ranges, with batch rendering utilities.

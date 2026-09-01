@@ -71,6 +71,8 @@ entries:
         - ai-generative
       platform:
         - web
+    stale: true
+    last_pushed: '2024-07-04'
   - name: Awesome 3D Human
     url: https://github.com/lijiaman/awesome-3d-human
     description: Curated list of papers and resources on 3D human research, including face, body, hand and motion.

@@ -45,6 +45,8 @@ entries:
     readme_tags:
       - gaussian-splatting
       - '360'
+    stale: true
+    last_pushed: '2024-09-29'
   - name: Awesome-3DGS Paper List
     url: https://mrnerf.github.io/awesome-3D-gaussian-splatting/
     description: Curated list of 3D Gaussian Splatting papers, maintained by MrNeRF.

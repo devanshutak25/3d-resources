@@ -245,6 +245,8 @@ entries:
     readme_tags:
       - PyTorch
       - GitHub
+    stale: true
+    last_pushed: '2024-07-25'
   - name: NeRF-PyTorch-Lightning (nerf_pl)
     url: https://github.com/kwea123/nerf_pl
     description: kwea123, 2020. NeRF in PyTorch-Lightning.
@@ -493,3 +495,5 @@ entries:
     readme_tags:
       - Nerfstudio
       - Fork
+    stale: true
+    last_pushed: '2024-06-28'

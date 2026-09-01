@@ -51,8 +51,6 @@ entries:
         - win
       tech:
         - opensource-alt
-    stale: true
-    last_pushed: '2022-02-16'
   - name: Sprite Sheet Maker
     url: https://isometric8.itch.io/sprite-sheet-maker
     description: Sprite Sheet Maker is a handy no fuss utility to pack sprites

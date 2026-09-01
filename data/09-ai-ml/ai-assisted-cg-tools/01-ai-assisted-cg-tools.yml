@@ -36,6 +36,8 @@ entries:
       - Local SD
     url_last_verified: '2026-09-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-08-26'
   - name: Comfy UI Blender AI
     url: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
     description: Run ComfyUI workflows inside Blender.
@@ -214,6 +216,8 @@ entries:
     readme_tags:
       - Matting
       - Real-Time
+    stale: true
+    last_pushed: '2024-04-02'
   - name: Track Anything
     url: https://github.com/gaomingqi/Track-Anything
     description: SAM plus XMem for interactive video object tracking and segmentation. Useful for roto and matte propagation.

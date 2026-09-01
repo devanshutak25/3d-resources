@@ -697,6 +697,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-12'
   - name: VaRest
     url: https://github.com/ufna/VaRest
     description: REST API plugin for Unreal Engine.
@@ -824,6 +826,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-26'
   - name: Street Map
     url: https://github.com/ue4plugins/StreetMap
     description: Import OpenStreetMap XML data into your Unreal Engine project.

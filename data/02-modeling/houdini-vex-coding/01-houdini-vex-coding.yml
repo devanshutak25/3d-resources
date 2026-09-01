@@ -207,6 +207,8 @@ entries:
         - vex
     url_last_verified: '2026-09-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-07-27'
   - name: Mantra LPE Cookbook (alexwheezy)
     url: https://github.com/alexwheezy/Mantra-LPE-Cookbook
     description: Light Path Expression recipes for Mantra rendering.
@@ -224,6 +226,8 @@ entries:
         - houdini
     url_last_verified: '2026-09-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-05-09'
   - name: Houdini OpenCL (MysteryPancake)
     url: https://mysterypancake.github.io/Houdini-OpenCL/
     description: Guide to writing OpenCL kernels in Houdini.

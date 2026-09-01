@@ -19,6 +19,8 @@ entries:
     readme_tags:
       - shader
       - glass
+    stale: true
+    last_pushed: '2024-06-10'
   - name: JourneySand
     url: https://github.com/AtwoodDeng/JourneySand
     description: Unity project reproducing the sand rendering style of Journey.
@@ -216,6 +218,7 @@ entries:
       - ui
     stale: true
     last_pushed: '2019-01-03'
+    archived: true
   - name: KinoObscurance
     url: https://github.com/keijiro/KinoObscurance
     description: Screen-space ambient obscurance image effect for Unity.

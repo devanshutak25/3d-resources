@@ -100,6 +100,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-26'
   - name: Myo Ue4
     url: https://github.com/getnamo/myo-ue4
     description: Myo armband input plugin for Unreal Engine 4.
@@ -184,6 +186,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-08-12'
   - name: Ps Replay Kit
     url: https://github.com/PushkinStudio/PsReplayKit
     description: iOS plugin to record or stream screen video plus app and mic audio.
@@ -600,6 +604,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-12'
   - name: DungeonGenerator
     url: https://github.com/orfeasel/DungeonGenerator
     description: Procedural dungeon generator for Unreal Engine 4.
@@ -660,6 +666,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-07-09'
   - name: Inventory + Equipment System
     url: https://github.com/angelhodar/OpenRPG_Inventory
     description: Inventory container and equipment system for Unreal Engine 4.

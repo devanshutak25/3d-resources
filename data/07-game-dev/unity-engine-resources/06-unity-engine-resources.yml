@@ -601,6 +601,8 @@ entries:
     readme_tags:
       - lua
       - scripting
+    stale: true
+    last_pushed: '2024-06-22'
   - name: LuaProfiler For Unity
     url: https://github.com/ElPsyCongree/LuaProfiler-For-Unity
     description: Profiler for Lua inside Unity.

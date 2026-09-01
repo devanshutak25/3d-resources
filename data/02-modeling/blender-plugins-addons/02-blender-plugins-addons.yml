@@ -392,6 +392,8 @@ entries:
         - win
         - mac
         - linux
+    stale: true
+    last_pushed: '2024-09-03'
   - name: Spaceship Generator
     url: https://github.com/a1studmuffin/SpaceshipGenerator
     description: Procedurally generates 3D spaceships.
@@ -580,6 +582,8 @@ entries:
         - win
         - mac
         - linux
+    stale: true
+    last_pushed: '2024-08-10'
   - name: RandoMesh
     url: https://github.com/mantissa-/RandoMesh
     description: Adds randomized geometry to any mesh in Blender.

@@ -538,6 +538,8 @@ entries:
         - win
         - mac
         - linux
+    stale: true
+    last_pushed: '2024-07-30'
   - name: EZGIF
     url: https://ezgif.com/
     description: Online GIF and video editing and conversion tools.

@@ -336,6 +336,8 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+    stale: true
+    last_pushed: '2024-09-05'
   - name: Epic Games
     url: https://github.com/epicgames
     description: Epic Games on GitHub. Official Unreal Engine and related repos.

@@ -31,3 +31,5 @@ entries:
         - games
       platform:
         - web
+    stale: true
+    last_pushed: '2015-09-29'

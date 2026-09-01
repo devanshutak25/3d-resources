@@ -105,8 +105,6 @@ entries:
         - physics
         - opensource-alt
         - unity-plugin
-    stale: true
-    last_pushed: '2023-09-01'
   - name: UnrealJolt
     url: https://github.com/Yadhu-S/UnrealJolt
     description: Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)

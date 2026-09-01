@@ -358,6 +358,8 @@ entries:
         - xr
         - opensource-alt
     archived: true
+    stale: true
+    last_pushed: '2024-06-13'
   - name: I3D Past Projects
     url: https://www.youtube.com/@i3dpastprojects778
     description: Virtual 3D teleportation in real-time by Microsoft Research

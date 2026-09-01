@@ -563,6 +563,7 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    archived: true
   - name: Sunflow
     url: https://github.com/fpsunflower/sunflow
     description: Not maintained, Sunflow is an open source rendering system for photo-realistic image synthesis.

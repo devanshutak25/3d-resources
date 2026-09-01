@@ -487,3 +487,5 @@ entries:
         - houdini
     url_last_verified: '2026-09-01'
     url_status: ok
+    stale: true
+    last_pushed: '2022-09-26'

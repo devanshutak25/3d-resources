@@ -67,6 +67,8 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
     archived: true
+    stale: true
+    last_pushed: '2024-07-21'
   - name: PSOFT Pencil+ 4
     url: https://psoft.co.jp/en/product/pencil/blender/
     description: NPR line rendering.

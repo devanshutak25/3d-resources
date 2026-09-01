@@ -68,6 +68,8 @@ entries:
         - win
         - mac
         - linux
+    stale: true
+    last_pushed: '2024-07-04'
   - name: Transforming 2D Images into 3D with AdaMPI
     url: https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/
     description: Guide to using the AdaMPI model to create 3D photos from 2D images.

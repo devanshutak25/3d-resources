@@ -20,6 +20,8 @@ entries:
       - Pose-controlled
     url_last_verified: '2026-09-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-07-31'
   - name: Bandai Namco Research Motiondataset
     url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
     description: Free motion-capture dataset from Bandai Namco R&D for research and personal use.

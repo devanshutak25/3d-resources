@@ -109,6 +109,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-08-20'
   - name: Path
     url: https://github.com/AngryAnt/Path
     description: Pathfinding library for Unity.

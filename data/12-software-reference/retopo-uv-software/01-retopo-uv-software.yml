@@ -52,8 +52,6 @@ entries:
         - retopo
       tech:
         - opensource-alt
-    stale: true
-    last_pushed: '2022-02-04'
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: RizomUV

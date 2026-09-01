@@ -124,6 +124,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-01'
   - name: ue5coro
     url: https://github.com/landelare/ue5coro
     description: C++20 coroutine plugin integrated with Unreal Engine 5.
@@ -543,6 +545,8 @@ entries:
       tech:
         - opensource-alt
         - unreal-plugin
+    stale: true
+    last_pushed: '2024-07-10'
   - name: UE4 Plugin Resources
     url: https://github.com/Sythenz/UE4-Plugin-Resources
     description: Community resource list for Slate, graphs, and UE4 plugin development.

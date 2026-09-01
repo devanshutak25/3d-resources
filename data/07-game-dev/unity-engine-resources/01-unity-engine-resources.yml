@@ -526,8 +526,6 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
-    stale: true
-    last_pushed: '2022-07-17'
   - name: UnitySVG
     url: https://github.com/MrJoy/UnitySVG
     description: SVG renderer for Unity.

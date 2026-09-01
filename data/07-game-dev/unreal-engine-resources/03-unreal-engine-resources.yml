@@ -207,6 +207,8 @@ entries:
     readme_tags:
       - mmo
       - server
+    stale: true
+    last_pushed: '2024-07-08'
   - name: UE Easy Kafka
     url: https://github.com/sha3sha3/UE-EasyKafka
     description: Kafka/Redpanda client subsystem for Unreal Engine, usable from Blueprint and C++.
@@ -788,6 +790,8 @@ entries:
     readme_tags:
       - imgui
       - debug-ui
+    stale: true
+    last_pushed: '2024-07-22'
   - name: Ue4 Uitween
     url: https://github.com/benui-dev/ue4-uitween
     description: UMG UI tweening library for Unreal Engine 4, written in C++.

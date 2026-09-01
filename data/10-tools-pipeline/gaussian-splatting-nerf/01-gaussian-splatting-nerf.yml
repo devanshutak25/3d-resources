@@ -294,6 +294,8 @@ entries:
         - nerf
         - opensource-alt
         - gpu
+    stale: true
+    last_pushed: '2024-07-28'
   - name: 3DGS Introduction
     url: https://huggingface.co/blog/gaussian-splatting
     description: HuggingFace introductory guide to 3D Gaussian Splatting.
