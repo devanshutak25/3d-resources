@@ -504,14 +504,13 @@ entries:
     readme_tags:
       - Steam
       - VR
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - xr
       platform:
         - web
-    deprecated: true
   - name: Unreal Source
     url: https://unrealsource.com/
     description: Largest Discord community focused on Unreal Engine.
@@ -573,21 +572,20 @@ entries:
       platform:
         - web
   - name: CG Pro Social
-    url: https://www.becomecgpro.com/social
+    url: https://www.becomecgpro.com/cg-pro-community
     description: VFX and real-time artist community. Virtual production, LED, greenscreen, mocap.
     entry_type: community
     license: Free
     readme_tags:
       - Virtual Production
       - VFX
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - film-vfx
       platform:
         - web
-    deprecated: true
   - name: XR Creators (XR Bootcamp)
     url: https://xrbootcamp.com/xr-creators-expert-group/
     description: XR developer expert group. VR/AR events, networking, and advanced tech community.

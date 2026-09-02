@@ -490,7 +490,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: Lessons from the Screenplay
-    url: https://www.youtube.com/@LFTScreenplay
+    url: https://www.youtube.com/@LessonsfromtheScreenplay
     description: Story and screenplay analysis on YouTube.
     entry_type: channel
     best_for: Story analysis
@@ -504,9 +504,8 @@ entries:
     readme_tags:
       - YouTube
       - Story Analysis
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: VES (Visual Effects Society)
     url: https://www.vesglobal.org/
     description: VES handbook, talks, and methodology resources for on-set VFX.
@@ -525,7 +524,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: ASC Magazine
-    url: https://theasc.com/magazine
+    url: https://theasc.com/american-cinematographer
     description: American Society of Cinematographers magazine. Cinematography and on-set VFX features.
     entry_type: reference
     best_for: DP + VFX-sup features
@@ -539,9 +538,8 @@ entries:
     readme_tags:
       - Cinematography
       - Industry
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Cosmos
     url: https://www.cosmos.so/
     description: Visual discovery and moodboard curation tool.

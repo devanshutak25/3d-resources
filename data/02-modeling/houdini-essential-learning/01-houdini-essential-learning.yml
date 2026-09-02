@@ -282,21 +282,6 @@ entries:
         - houdini
     url_last_verified: '2026-09-01'
     url_status: ok
-  - name: sipiLib example-hips (SiposAttila1995)
-    url: https://github.com/SiposAttila1995/sipiLib/tree/main/example-hips
-    description: Example .hip files from the sipiLib toolset.
-    license: Free
-    entry_type: reference
-    readme_tags:
-      - .hip Files
-    tags:
-      platform:
-        - web
-      tech:
-        - houdini
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
   - name: Assorted Houdini Demos (jakericedesigns)
     url: https://github.com/jakericedesigns/Assorted-Houdini-Demos
     description: Assorted Houdini demo scenes and setups.

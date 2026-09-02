@@ -88,29 +88,6 @@ entries:
       - google-sheets
     stale: true
     last_pushed: '2018-07-31'
-  - name: Unity EventBinder
-    url: https://github.com/GeorgeDascalu/Unity-EventBinder
-    description: Decouples UI events in Unity.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    tags:
-      output:
-        - games
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - unity-plugin
-        - opensource-alt
-    readme_tags:
-      - ui
-      - events
-    stale: true
-    last_pushed: '2018-03-07'
-    deprecated: true
   - name: xNode BehaviourTree
     url: https://github.com/jnhtt/xNode-BehaviourTree
     description: Behaviour tree built on the xNode node editor for Unity.

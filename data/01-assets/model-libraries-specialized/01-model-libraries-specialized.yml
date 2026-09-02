@@ -376,8 +376,8 @@ entries:
       platform:
         - web
   - name: Sample and Hold
-    url: http://www.sampleandhold.co.uk/downloads/
-    description: Free 3D scanned models and assets.
+    url: https://www.sampleandhold.co.uk/demodata
+    description: Head, body and FACS scan demo data from a scanning studio. Free on request.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -392,6 +392,5 @@ entries:
         - web
       tech:
         - photogrammetry
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok

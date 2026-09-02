@@ -93,19 +93,6 @@ entries:
         - advanced
       platform:
         - web
-  - name: Kick.js Shader Editor
-    url: http://www.kickjs.org/tool/shader_editor/shader_editor.html
-    description: Shader editor for the Kick.js WebGL engine.
-    entry_type: tool
-    license: Free
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    tags:
-      workflow:
-        - rendering
-      platform:
-        - web
-    deprecated: true
   - name: 'Learn OpenGL: Text Rendering'
     url: https://learnopengl.com/In-Practice/Text-Rendering
     description: Learn OpenGL chapter on text rendering.

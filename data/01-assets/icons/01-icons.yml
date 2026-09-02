@@ -166,23 +166,6 @@ entries:
         - illustration
       platform:
         - web
-  - name: Handy Arrows
-    url: https://handyarrows.com/
-    description: Hand-drawn arrow sets.
-    license: Free
-    entry_type: asset-source
-    readme_tags:
-      - Hand-drawn
-      - Arrows
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    tags:
-      output:
-        - motion-graphics
-        - illustration
-      platform:
-        - web
-    deprecated: true
   - name: typicons.font
     url: http://s-ings.com/typicons/
     description: 336 pixel-perfect all-purpose vector icons in a web-font kit.

@@ -646,27 +646,6 @@ entries:
         - film-vfx
       platform:
         - web
-  - name: Blenderesse's Generators
-    url: https://blenderesse.gumroad.com
-    description: Free Blender geometry-nodes generators, including an electric power-line generator.
-    entry_type: plugin
-    license: Free
-    readme_tags:
-      - Blender
-      - Geo Nodes
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    tags:
-      output:
-        - generalist
-      workflow:
-        - modeling
-      platform:
-        - web
-      tech:
-        - blender-addon
-        - procedural
-    deprecated: true
   - name: Flow Map Painter
     url: https://clemensbeute.gumroad.com/l/heZDT
     description: Blender addon with a brush tool for flow-map painting.

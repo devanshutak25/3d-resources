@@ -243,21 +243,20 @@ entries:
       platform:
         - web
   - name: Animatable
-    url: https://www.animatable.co/blog/we-on-discord
+    url: https://discord.gg/tZ6yUZGERN
     description: AE animation Discord. Narrative, illustrative, character-based animation community.
     entry_type: community
     license: Free
     readme_tags:
       - Animation
       - AE
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       workflow:
         - animation
       platform:
         - web
-    deprecated: true
   - name: The Dillcord (Dillon Goo)
     url: https://discord.com/invite/dillongoo
     description: 2D animation Discord (~9K) by Dillon Goo. Fight scene fan animations, self-taught animator hub.
@@ -411,14 +410,13 @@ entries:
     readme_tags:
       - Artists
       - Bluesky
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - illustration
       platform:
         - web
-    deprecated: true
   - name: LightBox Expo Discord
     url: https://discord.gg/lightboxexpo
     description: Official LightBox Expo Discord (10K+). 8 halls covering illustration, concept art, storyboarding.

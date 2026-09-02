@@ -16,20 +16,6 @@ entries:
         - illustration
       platform:
         - web
-  - name: Janelle Loi Resources
-    url: https://janelloi.com/resources/
-    description: Curated creative resources.
-    entry_type: reference
-    license: Free
-    readme_tags:
-      - Curated
-      - Creative
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    tags:
-      platform:
-        - web
-    deprecated: true
   - name: Geometric Design (Canva)
     url: https://designschool.canva.com/blog/geometric-design/
     description: Geometric design article.

@@ -80,12 +80,12 @@ entries:
         - unity-plugin
         - opensource-alt
   - name: Unity UI Extensions
-    url: https://bitbucket.org/UnityUIExtensions/unity-ui-extensions
+    url: https://github.com/Unity-UI-Extensions/com.unity.uiextensions
     description: Extra controls and components for the Unity uGUI system.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - games
@@ -132,11 +132,11 @@ entries:
         - unity-plugin
         - opensource-alt
   - name: Unity Package Manager Lifecycle
-    url: https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/
-    description: Unity blog explaining the Package Manager release lifecycle.
+    url: https://docs.unity3d.com/Manual/upm-lifecycle.html
+    description: Unity manual page on the Package Manager release lifecycle.
     entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - games
@@ -144,7 +144,6 @@ entries:
         - web
       tech:
         - unity-plugin
-    deprecated: true
   - name: Unity3D Official Blog
     url: https://blogs.unity3d.com/es/
     description: News and development insights from Unity.
@@ -158,22 +157,22 @@ entries:
         - web
       tech:
         - unity-plugin
-  - name: Unity EditorVR Experimental Build (blog)
-    url: https://blogs.unity3d.com/2016/12/15/editorvr-experimental-build-available-today/
-    description: 2016 Unity blog announcing the experimental EditorVR build.
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: broken
+  - name: Unity EditorXR
+    url: https://github.com/Unity-Technologies/EditorXR
+    description: Unity editor authoring in VR. Formerly EditorVR.
+    entry_type: plugin
+    license: Open Source
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - games
         - xr
       platform:
-        - web
+        - win
       tech:
         - unity-plugin
         - xr
-    deprecated: true
   - name: Cheatography Unity Cheatsheet
     url: https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/
     description: Hotkey reference for the Unity editor.

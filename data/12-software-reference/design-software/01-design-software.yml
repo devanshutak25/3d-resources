@@ -583,23 +583,6 @@ entries:
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
-  - name: Modyfi
-    url: https://www.modyfi.com/
-    description: Browser-based creative suite.
-    license: Freemium
-    entry_type: software
-    best_for: Creative suite in browser
-    tags:
-      platform:
-        - web
-    readme_tags:
-      - Browser Suite
-      - Creative
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    dual_listed_in:
-      - art-design-visual-storytelling/design-tools
-    deprecated: true
   - name: Eagle
     url: https://en.eagle.cool/
     description: Visual asset organizer.

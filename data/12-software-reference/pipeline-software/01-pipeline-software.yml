@@ -262,7 +262,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: Sohonet ClearView Flex
-    url: https://www.sohonet.com/clearview/
+    url: https://www.sohonet.com/product/clearview-flex
     description: Low-latency remote color/review streaming for distributed post.
     license: Paid
     entry_type: software
@@ -277,9 +277,8 @@ entries:
     readme_tags:
       - Remote Color
       - Streaming
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Deadline (AWS Thinkbox)
     url: https://aws.amazon.com/thinkbox-deadline/
     description: Render farm manager. Free since v10.1.23. Deadline 10 in maintenance mode (Nov 2025); AWS pushing managed Deadline Cloud.
@@ -505,7 +504,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: Pixel Plow
-    url: https://www.pixelplow.com/
+    url: https://pixelplow.net/
     description: 3ds Max, After Effects, Blender, and Cinema 4D render farm.
     license: Paid
     entry_type: tool
@@ -524,9 +523,8 @@ entries:
     readme_tags:
       - Cloud Render Farm
       - Mograph
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: GridMarkets
     url: https://www.gridmarkets.com/
     description: Houdini-first cloud farm with Mantra, Karma CPU/XPU, PDG/TOP support. Also Maya, C4D, Blender, 3ds Max, Nuke + Arnold, V-Ray, Redshift, RenderMan.

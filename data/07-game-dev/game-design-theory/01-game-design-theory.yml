@@ -240,20 +240,20 @@ entries:
       tech:
         - unity-plugin
   - name: Resemble
-    url: https://www.resemble.ai/unity
-    description: Resemble's voice cloning engine within Unity
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url: https://www.resemble.ai/
+    description: AI voice cloning and speech generation for game dialogue.
+    entry_type: service
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       workflow:
         - audio-design
       output:
         - games
+      platform:
+        - web
       tech:
         - ai-generative
-        - unity-plugin
-    deprecated: true
   - name: Spritemate
     url: http://www.spritemate.com
     description: Online Editor for Commodore 64 Sprites

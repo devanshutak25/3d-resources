@@ -232,8 +232,8 @@ entries:
     readme_tags:
       - FFmpeg GUI
       - Pro Presets
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       platform:
         - win
@@ -241,7 +241,6 @@ entries:
         - linux
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
-    deprecated: true
   - name: fre:ac
     url: https://www.freac.org/
     description: Free, open-source batch audio converter.

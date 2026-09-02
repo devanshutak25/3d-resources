@@ -135,7 +135,7 @@ entries:
       - tools-pipeline-utilities/retopology-mesh-tools
       - software-reference/3d-software-paid
   - name: 3D Coat Textura
-    url: https://3dcoat.com/textura/
+    url: https://pilgway.com/product/3dcoattextura
     description: Texturing-only variant of 3D Coat. PBR paint and bake, no sculpt or retopo modules.
     pricing: ~$199 perpetual
     license: Paid
@@ -152,11 +152,10 @@ entries:
     readme_tags:
       - PBR Paint Only
       - Standalone
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: 3D Coat Print
-    url: https://3dcoat.com/3dcoatprint/
+    url: https://pilgway.com/product/3dcoatprint
     description: Voxel-sculpt build of 3D Coat aimed at 3D-print workflows.
     pricing: ~$199 perpetual
     license: Paid
@@ -173,9 +172,8 @@ entries:
     readme_tags:
       - Voxel Sculpt
       - 3D Print
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Cozy Blanket
     url: https://cozyblanket.app/
     description: iPad sculpt-to-retopo app. Clay sculpt plus auto-quad retopology for game/film topology, from Naam.

@@ -170,25 +170,6 @@ entries:
         - vex
     url_last_verified: '2026-09-01'
     url_status: ok
-  - name: Houdini Tech Blog (discretization)
-    url: http://wordpress.discretization.de/houdini/
-    description: Technical blog on Houdini math and geometry processing.
-    license: Free
-    entry_type: tutorial
-    readme_tags:
-      - Math
-      - Geometry
-    tags:
-      platform:
-        - web
-      skill:
-        - advanced
-      tech:
-        - houdini
-        - vex
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
   - name: vex_tutorial (jtomori)
     url: https://github.com/jtomori/vex_tutorial
     description: Practical introduction to VEX in Houdini with examples.

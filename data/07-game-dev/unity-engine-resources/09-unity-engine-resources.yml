@@ -746,12 +746,12 @@ entries:
     readme_tags:
       - unity-plugin
   - name: 3DBuzz
-    url: https://www.youtube.com/@3dbuzz
-    description: Video tutorials on Unity, including its UI system.
+    url: https://www.youtube.com/@3dbuzzofficial
+    description: Archive channel of Unity video tutorials, including its UI system. Studio closed in 2020.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - games

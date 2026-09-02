@@ -39,14 +39,14 @@ entries:
       platform:
         - web
   - name: HeartBeast
-    url: https://www.youtube.com/@uloops
+    url: https://www.youtube.com/@uheartbeast
     description: RPG and action game tutorials.
     entry_type: channel
     readme_tags:
       - RPG/Action
       - Tutorials
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - games

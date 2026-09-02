@@ -176,9 +176,8 @@ entries:
     readme_tags:
       - Free
       - Introductory Sculpt
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Blender
     url: https://www.blender.org/
     description: Free open-source 3D creation suite. Modeling, sculpting, animation, rendering, compositing, VFX.

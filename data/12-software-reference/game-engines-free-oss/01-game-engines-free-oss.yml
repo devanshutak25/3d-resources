@@ -664,9 +664,9 @@ entries:
     readme_tags:
       - C++
       - Classic Engine
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: unreachable
+    notes: SourceForge returns 403 to non-browser clients (bot protection). Do not auto-deprecate.
   - name: Panda3D
     url: https://www.panda3d.org/
     description: Python-based 3D engine (originated at Disney VR Studio, now CMU ETC).

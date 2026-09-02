@@ -772,3 +772,45 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > add https://www.inspora.design/ and https://themotionsocial.club/ and https://framerate.tv/ and https://hallofframe.in/
 
 **Answered:** 3 of 4 added (user approved proposed placements). **Inspora** -> §08 `general-inspiration/01` (32->33), inspiration/Free, workflow concept, output generalist, platform web. **Hall of Frame** -> §06 `motion-graphics-inspiration/01` (25->26), inspiration/Free, output motion-graphics, platform web. **The Motion Social Club** -> §11 `communities-forums/01` (36->37), community/Free, output motion-graphics, skill beginner, platform web. **FrameRate SKIPPED: already cataloged** in §06 `motion-graphics-inspiration/01` (dupe grep caught it); its existing description calls it a "community showcase" but the site is actually a video-hosting/portfolio platform for creatives (Vimeo alt) with curated channels: description fix NOT applied, not requested. `framerate.tv` 403s WebFetch (bot-block); facts came from stashmedia.tv + framerate.tv/about via search. Validation ✓ 428 warnings, 0 errors (baseline unchanged). README not regenerated, nothing committed.
+
+## 2026-09-02
+
+**Prompt:**
+> see github issues please, resolve
+
+**Answered:** 3 open issues found via GitHub REST API (`gh` still not installed). #14 releases, #13 link check, #12 outside submission (Wardogs Wiki). Proposed decline for #12, 4-phase triage for #13, mechanical check for #14. Local `main` was 2 commits behind; fast-forwarded to `5f4800c`.
+
+**Prompt:**
+> #12 decline, work on #13 and #14
+
+**Answered:** #14 closed out as no-op: every release listed `Previous: (none tracked)`, so it was the first successful `release-watch.yml` run after the 2026-08-04 `.gitignore` fix seeding `_maintenance/release-state.json` (27 projects). Catalog has 0 `version_sensitive:` entries and no stale embedded version strings, so 0 data edits. #13: bot commit `718201a` already wrote the 54 `url_status: broken` flags; remaining work is human triage. Drafted the #12 decline text for the user to paste (no token to post it).
+
+**Prompt:**
+> yes and yes
+
+**Answered:** Phase 1 (7 entries, §01/§02/§04) verified individually, all confirmed dead. Applied 1 fix (Sample and Hold -> `/demodata`), kept Houdini Blueprints flagged (502 not 404, could be transient), proposed 5 deletions. Also proposed a blanket triage policy to avoid ~45 round-trips.
+
+**Prompt:**
+> no check each
+
+**Answered:** Blanket policy rejected; per-entry verification is the standing rule for this backlog. Verified all 15 Phase 2 entries (§07/§08) individually with replacement-candidate probing, presented 8 fixes / 1 false positive / 2 open calls / 4 deletions.
+
+**Prompt:**
+> Go ahead
+
+**Answered:** Applied Phase 1 + Phase 2. 9 deletions, 12 URL fixes, 1 false-positive reclass. Broken count 54 -> 33. Validation ✓ 425 warnings, 0 errors. Phases 3-4 (33 entries) still pending.
+
+**Prompt:**
+> go
+
+**Answered:** Phase 3 (§09/§10/§11, 13 entries). 3 false positives cleared (IEEE 418, Steam item, bsky.art all 200 with a browser UA), 6 URL fixes, 5 deletions. Key find: hdrlabs.com is now a "Launching Soon" placeholder, killing Picturenaut + sIBL + the HDRI Handbook link in one go; the book itself survived as a repoint to Rocky Nook.
+
+**Prompt:**
+> yes, go!
+
+**Answered:** Phase 3 deletions applied; Phase 4 (§12, 19 entries) verified. Found a factual error beyond link rot: ICEM Surf was filed as a Siemens product pointing at Siemens NX, but it is Dassault Systemes CATIA ICEM Surf.
+
+**Prompt:**
+> recommendations accepted, go
+
+**Answered:** Phase 4 applied. 11 URL fixes, 3 false positives cleared, 2 deletions, 3 legacy-defunct Wikipedia repoints. Broken count 54 -> 2 (both intentional 5xx holds). Validation ✓ 424 warnings, 0 errors. Nothing committed.

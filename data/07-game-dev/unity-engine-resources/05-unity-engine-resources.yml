@@ -479,30 +479,6 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2018-10-31'
-  - name: Swiss Army Lib
-    url: https://github.com/ArchonInteractive/SwissArmyLib
-    description: Collection of utility helpers for Unity projects.
-    entry_type: plugin
-    license: Open Source
-    readme_tags:
-      - utilities
-      - library
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    tags:
-      output:
-        - games
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - unity-plugin
-        - opensource-alt
-    archived: true
-    stale: true
-    last_pushed: '2019-10-20'
-    deprecated: true
   - name: Uni Version Manager
     url: https://github.com/sanukin39/UniVersionManager
     description: Reads app and build version in Unity across editor, iOS, and Android.

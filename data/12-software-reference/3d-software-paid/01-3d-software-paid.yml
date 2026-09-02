@@ -512,8 +512,8 @@ entries:
     url_status: ok
     deprecated: true
   - name: ICEM Surf
-    url: https://plm.sw.siemens.com/en-US/nx/products/free-form-design/icem-surf/
-    description: Class-A surfacing for automotive exteriors (Siemens).
+    url: https://www.3ds.com/products/catia/icem-surf
+    description: Class-A surfacing for automotive exteriors. Part of Dassault Systemes CATIA.
     license: Paid
     entry_type: software
     best_for: Class-A automotive surfacing
@@ -527,10 +527,9 @@ entries:
         - linux
     readme_tags:
       - Class-A
-      - Siemens
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+      - CATIA
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Lumiscaphe Patchwork 3D
     url: https://www.lumiscaphe.com/
     description: Real-time automotive configurator and viz, OEM clientele.
@@ -608,25 +607,6 @@ entries:
       - Parametric
     url_last_verified: '2026-09-01'
     url_status: ok
-  - name: Firestorm CAD
-    url: https://firestormcad.com/
-    description: Rhino plugin for parametric jewelry design.
-    license: Paid
-    entry_type: plugin
-    best_for: Rhino-based jewelry design
-    tags:
-      workflow:
-        - modeling
-      output:
-        - jewelry
-      platform:
-        - win
-    readme_tags:
-      - Rhino Plugin
-      - Jewelry
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
   - name: Clayoo
     url: https://www.clayoo.com/
     description: SubD modeling plugin for Rhino. Common for jewelry organic forms.
@@ -751,7 +731,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: Ross XPression
-    url: https://www.rossvideo.com/products-services/acquisition-production/graphics/xpression-motion-graphics/
+    url: https://www.rossvideo.com/products/graphics-and-virtual/xpression/
     description: Real-time motion graphics and data-driven CG for live broadcast.
     license: Paid
     entry_type: software
@@ -766,9 +746,8 @@ entries:
     readme_tags:
       - Broadcast
       - Data-Driven
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Avid Maestro
     url: https://www.avid.com/maestro
     description: Avid's virtual sets, AR, and data-driven graphics platform for live news and sports.

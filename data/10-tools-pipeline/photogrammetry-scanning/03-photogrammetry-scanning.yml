@@ -119,26 +119,6 @@ entries:
       - Free Stitcher
     url_last_verified: '2026-09-01'
     url_status: ok
-  - name: Picturenaut
-    url: https://www.hdrlabs.com/picturenaut/
-    description: Lightweight free HDR merger by HDR Labs.
-    license: Free
-    entry_type: software
-    best_for: Free HDR merge
-    tags:
-      output:
-        - generalist
-      workflow:
-        - lighting
-      platform:
-        - win
-        - mac
-    readme_tags:
-      - Free
-      - HDR Merge
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
   - name: HDR Light Studio
     url: https://www.lightmap.co.uk/
     description: Interactive HDRI editing and relighting tool for 3D. Bridges to Maya, 3ds Max, Houdini, Cinema 4D, Modo, Blender.
@@ -163,37 +143,6 @@ entries:
     url_status: ok
     dual_listed_in:
       - software-reference/misc-3d-utilities-software
-  - name: HDR Labs / sIBL
-    url: http://www.hdrlabs.com/sibl/
-    description: Bernhard Vogl's HDR Labs hub. sIBL spec, Smart IBL archive, capture tutorials.
-    license: Free
-    entry_type: reference
-    best_for: HDRI capture references + sIBL spec
-    readme_tags:
-      - sIBL Spec
-      - Capture Guides
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
-    tags:
-      output:
-        - generalist
-  - name: 'Greg Zaal: Shoot Your Own HDRI'
-    url: https://www.blenderguru.com/tutorials/shoot-your-own-hdri
-    description: End-to-end DSLR HDRI capture tutorial for Blender (Blender Guru).
-    entry_type: tutorial
-    best_for: DSLR HDRI capture
-    tags:
-      output:
-        - generalist
-      workflow:
-        - lighting
-    readme_tags:
-      - Capture
-      - Blender
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
   - name: 'Book: High Dynamic Range Imaging (Reinhard et al.)'
     url: https://shop.elsevier.com/books/high-dynamic-range-imaging/reinhard/978-0-12-374914-7
     description: Reinhard, Heidrich, Debevec, Pattanaik, Ward, Myszkowski. The reference text on HDR imaging.
@@ -209,17 +158,16 @@ entries:
       output:
         - generalist
   - name: 'Book: The HDRI Handbook 2.0'
-    url: https://www.hdrlabs.com/book/
-    description: Christian Bloch. Practical HDRI for VFX/photo, paired with sIBL.
+    url: https://rockynook.com/product/the-hdri-handbook-2-0/
+    description: Christian Bloch. Practical HDRI for VFX and photography.
     license: Paid
     entry_type: book
     best_for: Practical HDRI workflow
     readme_tags:
       - Practical
-      - HDR Labs
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+      - HDRI
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - generalist

@@ -672,26 +672,6 @@ entries:
       tech:
         - blender
         - blender-addon
-  - name: Car Paint Shader
-    url: https://blenderesse.gumroad.com/l/carpaintshader
-    description: Simple shader setup that lets you easily create a variety of different car paint finishes.
-    license: Paid
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    tags:
-      workflow:
-        - material-authoring
-        - rendering
-      output:
-        - automotive
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - blender
-    deprecated: true
   - name: BNPR Shaders
     url: https://blendernpr.org/downloads/
     description: Collection of NPR shaders for Blender (EEVEE Comics Shader, Erisdraw3D, EEVEEToon).

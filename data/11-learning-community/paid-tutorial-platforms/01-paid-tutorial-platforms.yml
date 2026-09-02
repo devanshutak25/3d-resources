@@ -156,26 +156,6 @@ entries:
         - web
       tech:
         - houdini
-  - name: Stop Being Afraid of Houdini
-    url: http://www.mograph.com/stopbeingafraidofhoudini/
-    description: Houdini course for C4D motion artists.
-    license: Paid
-    entry_type: tutorial
-    readme_tags:
-      - Houdini for C4D
-      - Crossover
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    tags:
-      output:
-        - motion-graphics
-      skill:
-        - intermediate
-      platform:
-        - web
-      tech:
-        - houdini
-    deprecated: true
   - name: Wingfox
     url: https://www.wingfox.com/
     description: CG tutorials sold per course.

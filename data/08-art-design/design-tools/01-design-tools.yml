@@ -323,9 +323,9 @@ entries:
         - web
     readme_tags:
       - Branding
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: unreachable
+    notes: Site is live; returns 403 to non-browser clients (bot protection). Do not auto-deprecate.
   - name: effect.app
     url: https://effect.app/
     description: Browser-based live effects for photo and video.

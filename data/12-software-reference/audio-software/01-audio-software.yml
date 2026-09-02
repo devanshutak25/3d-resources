@@ -673,7 +673,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: Resonance Audio
-    url: https://resonance-audio.github.io/
+    url: https://resonance-audio.github.io/resonance-audio/
     description: Google's open-source ambisonic spatial audio SDK.
     license: Open Source
     entry_type: reference
@@ -687,9 +687,8 @@ entries:
     readme_tags:
       - Google
       - Apache 2.0
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: GarageBand
     url: https://apps.apple.com/us/app/garageband/id408709785
     description: Free Apple DAW with built-in loops, drummers, and amp models.

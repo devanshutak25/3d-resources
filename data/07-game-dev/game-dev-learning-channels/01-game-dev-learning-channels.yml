@@ -200,15 +200,15 @@ entries:
       platform:
         - web
   - name: SimonDev
-    url: https://www.youtube.com/@simondevyt
+    url: https://www.youtube.com/@simondev758
     description: 3D programming, WebGL.
     entry_type: channel
     license: Free
     readme_tags:
       - 3D Programming
       - WebGL
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       workflow:
         - creative-coding
@@ -218,7 +218,6 @@ entries:
         - advanced
       platform:
         - web
-    deprecated: true
   - name: Pontypants
     url: https://www.youtube.com/@Pontypants
     description: Animation for games.

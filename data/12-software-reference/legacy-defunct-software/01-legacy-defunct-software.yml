@@ -295,7 +295,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: Combustion
-    url: https://en.wikipedia.org/wiki/Autodesk_Combustion
+    url: https://en.wikipedia.org/wiki/Autodesk_Media_and_Entertainment
     description: Discreet → Autodesk compositor, 1999–2008. After Effects competitor with paint, tracking, keyer.
     license: Paid
     entry_type: software
@@ -308,8 +308,8 @@ entries:
     readme_tags:
       - Autodesk
       - AE Competitor
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Toxik
     url: https://en.wikipedia.org/wiki/Autodesk_Toxik
     description: Autodesk compositor, 2006–2009. Folded into Flame Composite/Smoke.
@@ -342,7 +342,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: Commotion
-    url: https://en.wikipedia.org/wiki/Commotion_(software)
+    url: https://en.wikipedia.org/wiki/Pinnacle_Systems
     description: Puffin Designs → Pinnacle paint/effects tool. Defunct mid-2000s. Stu Maschwitz toolset.
     license: Paid
     entry_type: software
@@ -354,10 +354,10 @@ entries:
     readme_tags:
       - Puffin
       - Discontinued
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Final Cut Pro 7 ("classic")
-    url: https://en.wikipedia.org/wiki/Final_Cut_Pro_7
+    url: https://en.wikipedia.org/wiki/Final_Cut_Pro
     description: Apple 1999–2011 NLE. Killed by FCPX rewrite, drove indies to Premiere and Avid.
     license: Paid
     entry_type: software
@@ -372,8 +372,8 @@ entries:
     readme_tags:
       - Apple
       - Pre-FCPX
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Stingray
     url: https://en.wikipedia.org/wiki/Autodesk_Stingray
     description: Autodesk engine (acquired Bitsquid), 2015–2018. Discontinued.

@@ -738,30 +738,6 @@ entries:
       - opensource-alt
     stale: true
     last_pushed: '2018-01-06'
-  - name: Bona Data Editor
-    url: https://github.com/bonahova/BonaDataEditor
-    description: Unity editor plugin for manipulating assets of specific types.
-    entry_type: plugin
-    license: Open Source
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    tags:
-      output:
-        - games
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - unity-plugin
-        - opensource-alt
-    readme_tags:
-      - unity-plugin
-      - opensource-alt
-    archived: true
-    stale: true
-    last_pushed: '2023-03-05'
-    deprecated: true
   - name: Unity Remote 4 (iOS/tvOS)
     url: https://itunes.apple.com/us/app/unity-remote-4/id871767552
     description: Unity Remote app to preview play mode on iOS and tvOS devices.
@@ -795,12 +771,12 @@ entries:
     readme_tags:
       - unity-plugin
   - name: Bolt
-    url: https://ludiq.io/bolt
-    description: Visual scripting for Unity to build gameplay and interactive systems without code. Now part of Unity as Visual Scripting.
+    url: https://docs.unity3d.com/Manual/com.unity.visualscripting.html
+    description: Visual scripting for Unity to build gameplay and interactive systems without code. Now bundled with Unity as Visual Scripting.
     entry_type: plugin
-    license: Paid
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    license: Free
+    url_last_verified: '2026-09-02'
+    url_status: ok
     tags:
       output:
         - games
@@ -814,8 +790,7 @@ entries:
     readme_tags:
       - unity-plugin
       - node-based
-    notes: Bolt was acquired by Unity and integrated as Visual Scripting; legacy URL.
-    deprecated: true
+    notes: Bolt was acquired by Unity and shipped as the built-in Visual Scripting package.
   - name: Strange Io C
     url: http://strangeioc.github.io/strangeioc/
     description: Lightweight extensible inversion-of-control (IoC) framework for C# and Unity.

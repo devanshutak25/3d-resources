@@ -4,14 +4,14 @@ entries:
     description: Publishes technical articles on the theory, design, and applications of neural networks and related learning systems.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: broken
+    url_last_verified: '2026-09-02'
+    url_status: ok
+    notes: IEEE Xplore returns 418 to non-browser clients (bot protection). Do not auto-deprecate.
     tags:
       tech:
         - ai-generative
       platform:
         - web
-    deprecated: true
   - name: PyTorch3D
     url: https://pytorch3d.org/
     description: Meta FAIR library for 3D deep learning. Differentiable rendering, mesh ops, point cloud utils on PyTorch.

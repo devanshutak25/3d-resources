@@ -138,7 +138,7 @@ entries:
       platform:
         - web
   - name: Arrimus 3D
-    url: https://www.youtube.com/@Arrimus3D
+    url: https://www.youtube.com/c/Arrimus3D
     description: Hard-surface modeling tutorials.
     entry_type: channel
     license: Free
@@ -154,9 +154,8 @@ entries:
     readme_tags:
       - Hard Surface
       - Modeling
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: GraphicLine Games
     url: https://www.youtube.com/@graphiclinegames4843
     description: Stylized shader and asset tutorials (Ghibli Shader Texture Generator).

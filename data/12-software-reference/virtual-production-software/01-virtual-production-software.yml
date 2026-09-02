@@ -181,7 +181,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: Mo-Sys StarTracker
-    url: https://www.mo-sys.com/products/camera-tracking/startracker/
+    url: https://mo-sys.com/products/startracker/
     description: Ceiling-star optical camera tracking system for VP and broadcast.
     license: Paid
     entry_type: hardware
@@ -195,9 +195,8 @@ entries:
     readme_tags:
       - Camera Tracking
       - Mo-Sys
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Stype RedSpy / StypeKit
     url: https://stype.tv/
     description: Camera tracking system for VP and broadcast.
@@ -233,7 +232,7 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: ZEISS CinCraft Scenario
-    url: https://www.zeiss.com/consumer-products/us/cincraft/scenario.html
+    url: https://www.zeiss.com/photonics-and-optics/en/cinematography/cincraft/scenario.html
     description: Lens-aware camera tracking system for VP.
     license: Paid
     entry_type: hardware
@@ -246,9 +245,8 @@ entries:
     readme_tags:
       - Lens-aware
       - ZEISS
-    url_last_verified: '2026-09-01'
-    url_status: broken
-    deprecated: true
+    url_last_verified: '2026-09-02'
+    url_status: ok
   - name: Lightcraft Previzion / Jetset
     url: https://lightcrafttech.com/
     description: On-set camera tracking and previs platform.
