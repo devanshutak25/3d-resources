@@ -141,14 +141,15 @@ entries:
     url_last_verified: '2026-09-01'
     url_status: ok
   - name: HDRI Hub
-    url: https://hdri-hub.com/
-    description: High-quality HDRIs with backplates.
+    url: https://www.hdri-hub.com/
+    description: Professional HDRIs, backplates, textures & 3D people for archviz/CGI. Free commercial samples (HDRIs up to 8K) plus premium.
     license: Freemium
     entry_type: marketplace
     readme_tags:
       - High-Quality
       - Backplates
-    url_last_verified: '2026-09-01'
+      - Free Samples
+    url_last_verified: '2026-09-11'
     url_status: ok
     tags:
       workflow:
