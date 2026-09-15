@@ -495,3 +495,12 @@ User decisions (AskUserQuestion): NativeBlend→§09, UAssetAPI→§07, 3D MDB�
 - Link scans update health fields only. Editorial deprecation remains manual; 5xx/408/425 are transient; followed redirects are reported.
 - Export includes descriptions/section anchors and excludes deprecated entries. Filter metadata follows each row's displayed section. Graph uses shared heading anchors.
 - Fixes prepared in a workspace copy and packaged as a patch; the original repository has not been changed by this session.
+
+## 2026-09-15 — Ameede added to §01 model-libraries-specialized
+
+Added `https://www.ameede.net/` to `data/01-assets/model-libraries-specialized/01` (22→23). asset-source, Free, platform web, output generalist, workflow modeling, readme_tags [Free, CNC & 3D Print].
+
+- Site is a ~44,800-post aggregator of free STL/OBJ for CNC relief carving + 3D printing, plus laser/print vector files. Copyright page grants free personal + commercial *physical* use, forbids redistributing the digital files -> maps to `Free`.
+- Provenance flagged to user: stock looks like repackaged ArtCAM/Aspire relief libraries and MakerWorld/Thingiverse prints while the site claims all of it as its own IP. User chose to add anyway.
+- Bot-blocks non-browser UAs (WebFetch 403, browser-UA curl 200). Recorded in `notes:` so `check-links.js` false positives do not trigger re-deprecation. Another instance of the recurring bot-block class.
+- No `print` output value exists in the closed vocab (CLAUDE.md forbids inventing it), so the CNC/print angle lives in the description + readme_tags only.

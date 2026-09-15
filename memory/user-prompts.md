@@ -841,3 +841,8 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > fix all these things
 
 **Answered:** Prepared all eight fixes in a workspace copy because repository write access was not granted. Added regression tests, stable addition dates and CI coverage; packaged a patch for application.
+
+**Prompt:** (2026-09-15)
+> add https://www.ameede.net/
+
+**Answered:** Added Ameede (free CNC/3D-print STL + vector downloads) to §01 model-libraries-specialized (22→23) after flagging doubtful file provenance; validation ✓ 424 warnings, 0 errors.

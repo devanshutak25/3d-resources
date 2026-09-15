@@ -416,3 +416,20 @@ entries:
         - photogrammetry
     url_last_verified: '2026-09-02'
     url_status: ok
+  - name: Ameede
+    url: https://www.ameede.net/
+    added_at: '2026-09-15T00:00:00.000Z'
+    description: Free STL and vector downloads for CNC relief carving, laser cutting and 3D printing.
+    license: Free
+    entry_type: asset-source
+    readme_tags:
+      - Free
+      - CNC & 3D Print
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+    notes: Blocks non-browser user agents (403); link checks need a browser UA. High-volume aggregator, file provenance unverified.
