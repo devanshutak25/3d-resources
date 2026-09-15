@@ -1,6 +1,7 @@
 entries:
   - name: RenderNet
     url: https://rendernet.ai/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: AI tool for generating images and videos with control over character design, composition, and style.
     entry_type: tool
     license: Freemium
@@ -15,6 +16,7 @@ entries:
         - ai-generative
   - name: Word-As-Image for Semantic Typography
     url: https://wordasimage.github.io/Word-As-Image-Page/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Semantically transforming fonts into illustrations.
     license: Free
     entry_type: reference
@@ -29,6 +31,7 @@ entries:
         - ai-generative
   - name: Canva AI Text-to-Image Generator
     url: https://www.canva.com/features/ai-image-generator/
+    added_at: '2026-06-12T21:19:16.000Z'
     description: Canva's free built-in text-to-image generator.
     license: Freemium
     entry_type: tool
@@ -43,6 +46,7 @@ entries:
         - ai-generative
   - name: Stable Diffusion Frivolous
     url: http://www.stablediffusionfrivolous.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Community response to the Stable Diffusion litigation.
     license: Free
     entry_type: community
@@ -55,6 +59,7 @@ entries:
         - ai-generative
   - name: Visual Electric
     url: https://visualelectric.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: AI image generator aimed at designers.
     license: Freemium
     entry_type: software

@@ -1,6 +1,7 @@
 entries:
   - name: UnityHTTP
     url: https://github.com/andyburke/UnityHTTP
+    added_at: '2026-04-19T17:15:03.000Z'
     description: TCP-based HTTP library for Unity.
     entry_type: plugin
     license: Open Source
@@ -22,6 +23,7 @@ entries:
     last_pushed: '2017-09-13'
   - name: Pomelo Unity Client
     url: https://github.com/NetEase/pomelo-unityclient-socket
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity client for the Pomelo distributed Node.js game server.
     entry_type: plugin
     license: Open Source
@@ -43,6 +45,7 @@ entries:
     last_pushed: '2023-08-16'
   - name: HiSocket
     url: https://github.com/hiramtan/HiSocket
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight socket library for Unity and C# projects.
     entry_type: plugin
     license: Open Source
@@ -64,6 +67,7 @@ entries:
     last_pushed: '2021-12-20'
   - name: Unet HLAPI Manager
     url: https://github.com/insthync/unet-hlapi-manager
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Minimal network manager built on Unity's NetworkManager, focused on message-callback handling for multi-server setups.
     entry_type: plugin
     license: Open Source
@@ -84,6 +88,7 @@ entries:
     deprecated: true
   - name: Firestorm
     url: https://github.com/5argon/Firestorm
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Makeshift Cloud Firestore C# API for Unity over REST. Basic functions only.
     entry_type: plugin
     license: Open Source
@@ -106,6 +111,7 @@ entries:
     last_pushed: '2019-02-21'
   - name: Unity Timeline Sync
     url: https://github.com/asus4/unity-timeline-sync
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Synchronize multiple Unity Timelines over UDP.
     entry_type: plugin
     license: Open Source
@@ -127,6 +133,7 @@ entries:
     last_pushed: '2018-12-06'
   - name: Chanquo
     url: https://github.com/sassembla/Chanquo
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Partial Go-channel implementation for Unity.
     entry_type: plugin
     license: Open Source
@@ -148,6 +155,7 @@ entries:
     last_pushed: '2020-08-26'
   - name: Dissonance
     url: https://github.com/Placeholder-Software/Dissonance
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Real-time voice chat asset for Unity multiplayer.
     entry_type: plugin
     license: Free
@@ -167,6 +175,7 @@ entries:
       - networking
   - name: RestClient (proyecto26)
     url: https://github.com/proyecto26/RestClient
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Promise-based HTTP and REST client for Unity, with callback support.
     entry_type: plugin
     license: Open Source
@@ -186,6 +195,7 @@ entries:
       - http
   - name: RestClient (Unity3dAzure)
     url: https://github.com/Unity3dAzure/RESTClient
+    added_at: '2026-04-19T17:15:03.000Z'
     description: REST client for Unity with JSON and XML parsing, including nested arrays and abstract types.
     entry_type: plugin
     license: Open Source
@@ -207,6 +217,7 @@ entries:
     last_pushed: '2020-11-28'
   - name: Restifizer Unity3D
     url: https://github.com/vedi/restifizer-unity3d
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Restifizer SDK for Unity to build RESTful services backed by MongoDB.
     entry_type: plugin
     license: Open Source
@@ -228,6 +239,7 @@ entries:
     last_pushed: '2016-11-20'
   - name: Unity Open API
     url: https://github.com/kolodi/UnityOpenApi
+    added_at: '2026-04-19T17:15:03.000Z'
     description: RESTful API client generator for Unity.
     entry_type: plugin
     license: Open Source
@@ -249,6 +261,7 @@ entries:
     last_pushed: '2019-03-19'
   - name: Unity Web Socket
     url: https://github.com/Unity3dAzure/UnityWebSocket
+    added_at: '2026-04-19T17:15:03.000Z'
     description: WebSocket client for Unity.
     entry_type: plugin
     license: Open Source
@@ -270,6 +283,7 @@ entries:
     last_pushed: '2018-06-27'
   - name: AirPeer
     url: https://github.com/adrenak/AirPeer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: WebRTC-based networking plugin for Unity.
     entry_type: plugin
     license: Open Source
@@ -289,6 +303,7 @@ entries:
       - p2p
   - name: WebRTC Unity Plugin
     url: https://github.com/bengreenier/webrtc-unity-plugin
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Cross-platform WebRTC support for Unity apps.
     entry_type: plugin
     license: Open Source
@@ -310,6 +325,7 @@ entries:
     last_pushed: '2019-08-15'
   - name: P2P.NET
     url: https://github.com/Phylliida/P2P.NET
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Peer-to-peer networking in Unity using WebRTC with a free signaling server (formerly UnityP2P).
     entry_type: plugin
     license: Open Source
@@ -331,6 +347,7 @@ entries:
     last_pushed: '2018-11-26'
   - name: JWT for Unity
     url: https://github.com/monry/JWT-for-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: JSON Web Token implementation for Unity / .NET 3.5+.
     entry_type: plugin
     license: Open Source
@@ -352,6 +369,7 @@ entries:
     last_pushed: '2016-02-14'
   - name: UniVoice
     url: https://github.com/adrenak/UniVoice
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Peer-to-peer VoIP for Unity.
     entry_type: plugin
     license: Open Source
@@ -371,6 +389,7 @@ entries:
       - p2p
   - name: U Net Voice
     url: https://github.com/hecomi/uNetVoice
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tiny voice chat implementation for Unity.
     entry_type: plugin
     license: Open Source
@@ -392,6 +411,7 @@ entries:
     last_pushed: '2017-08-10'
   - name: Unity Unet Movement
     url: https://github.com/GenaSG/UnityUnetMovement
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Server-authoritative movement for Unity UNET with client-side prediction and reconciliation.
     entry_type: plugin
     license: Open Source
@@ -413,6 +433,7 @@ entries:
     last_pushed: '2018-11-02'
   - name: Unity UNET Authoritative Networking
     url: https://github.com/atrakeur/unity-unet-authoritative-networking
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Authoritative movement implementation on top of UNET.
     entry_type: plugin
     license: Open Source
@@ -433,6 +454,7 @@ entries:
     deprecated: true
   - name: NATPunchthroughClient
     url: https://github.com/noblewhale/NATPunchthroughClient
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Example NAT punchthrough combined with Unity's UNet HLAPI.
     entry_type: reference
     license: Open Source
@@ -454,6 +476,7 @@ entries:
     last_pushed: '2017-06-25'
   - name: Unity Physics CSP
     url: https://github.com/spectre1989/unity_physics_csp
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Client-side-prediction demo in Unity with all network traffic simulated in one instance.
     entry_type: reference
     license: Open Source
@@ -476,6 +499,7 @@ entries:
     last_pushed: '2020-11-15'
   - name: Cpp Unity TCP Client Server
     url: https://github.com/Willtl/CppUnityTCPClientServer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Sample Unity TCP client with a C++ (Boost) server.
     entry_type: reference
     license: Open Source
@@ -497,6 +521,7 @@ entries:
     last_pushed: '2021-06-02'
   - name: Unity Delaunay
     url: https://github.com/OskarSigvardsson/unity-delaunay
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Delaunay/Voronoi library for Unity, with a simple destruction effect.
     entry_type: plugin
     license: Open Source
@@ -519,6 +544,7 @@ entries:
     last_pushed: '2023-08-28'
   - name: UnityOctree (Unity-Technologies)
     url: https://github.com/Unity-Technologies/UnityOctree
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Dynamic loose octree implementation for Unity in C#.
     entry_type: plugin
     license: Open Source
@@ -540,6 +566,7 @@ entries:
     last_pushed: '2019-12-07'
   - name: UnityOctree (Nition)
     url: https://github.com/Nition/UnityOctree
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Loose octree for Unity in C#, the upstream of the Unity-Technologies fork.
     entry_type: plugin
     license: Open Source
@@ -562,6 +589,7 @@ entries:
     last_pushed: '2021-06-07'
   - name: NaughtyAttributes
     url: https://github.com/dbrizov/NaughtyAttributes
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Inspector attribute extensions for Unity.
     entry_type: plugin
     license: Open Source
@@ -581,6 +609,7 @@ entries:
       - attributes
   - name: Unity3D ComponentAttribute
     url: https://github.com/Thundernerd/Unity3D-ComponentAttribute
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Attribute that auto-loads components in Unity.
     entry_type: plugin
     license: Open Source
@@ -602,6 +631,7 @@ entries:
     last_pushed: '2016-04-23'
   - name: Serialized Parameter Unity
     url: https://github.com/tsubaki/SerializedParameter_Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Attribute that persists field data between Unity play-mode sessions.
     entry_type: plugin
     license: Open Source
@@ -623,6 +653,7 @@ entries:
     last_pushed: '2013-10-31'
   - name: Unity Non Null
     url: https://github.com/ulrikdamm/UnityNonNull
+    added_at: '2026-04-19T17:15:03.000Z'
     description: '[NonNull] attribute for fields and classes in Unity.'
     entry_type: plugin
     license: Open Source
@@ -644,6 +675,7 @@ entries:
     last_pushed: '2019-04-08'
   - name: Unity Compact Field Attribute
     url: https://github.com/AnomalousUnderdog/UnityCompactFieldAttribute
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Per-property label widths in the Unity inspector to stop labels getting cut off.
     entry_type: plugin
     license: Open Source
@@ -665,6 +697,7 @@ entries:
     last_pushed: '2019-03-13'
   - name: SetProperty
     url: https://github.com/gucheng0712/SetProperty
+    added_at: '2026-04-19T17:15:03.000Z'
     description: PropertyAttribute/PropertyDrawer combo for exposing C# properties in the Unity inspector.
     entry_type: plugin
     license: Open Source
@@ -686,6 +719,7 @@ entries:
     last_pushed: '2014-04-23'
   - name: OpenFramework
     url: https://github.com/omid3098/OpenFramework
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight Unity framework with dependency injection.
     entry_type: plugin
     license: Open Source
@@ -707,6 +741,7 @@ entries:
     last_pushed: '2021-04-24'
   - name: Adic
     url: https://github.com/intentor/adic
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight dependency injection container for Unity.
     entry_type: plugin
     license: Open Source
@@ -728,6 +763,7 @@ entries:
     last_pushed: '2021-08-09'
   - name: ECSRx.unity
     url: https://github.com/EcsRx/ecsrx.unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Reactive ECS framework for Unity built on UniRx.
     entry_type: plugin
     license: Open Source
@@ -747,6 +783,7 @@ entries:
       - reactive
   - name: uMVVM
     url: https://github.com/MEyes/uMVVM
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simple MVVM framework for Unity.
     entry_type: plugin
     license: Open Source
@@ -768,6 +805,7 @@ entries:
     last_pushed: '2017-07-08'
   - name: Unity3D Foundation
     url: https://github.com/NVentimiglia/Unity3d-Foundation
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity MVVM framework with data binding, tasks, and localization.
     entry_type: plugin
     license: Open Source
@@ -788,6 +826,7 @@ entries:
     deprecated: true
   - name: Loxodon Framework
     url: https://github.com/cocowolf/loxodon-framework
+    added_at: '2026-04-19T17:15:03.000Z'
     description: MVVM framework for Unity with data binding, localization, and uGUI support.
     entry_type: plugin
     license: Open Source
@@ -807,6 +846,7 @@ entries:
       - framework
   - name: CAFU Core
     url: https://github.com/umm/cafu_core
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Clean-architecture framework for Unity.
     entry_type: plugin
     license: Open Source
@@ -829,6 +869,7 @@ entries:
     last_pushed: '2021-01-22'
   - name: SmartData
     url: https://github.com/sigtrapgames/SmartData
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Editor-driven Unity framework for connecting data and events, designer-friendly.
     entry_type: plugin
     license: Open Source
@@ -850,6 +891,7 @@ entries:
     last_pushed: '2019-12-14'
   - name: Fungus
     url: https://github.com/snozbot/fungus
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity library for building illustrated interactive-fiction and visual-novel games.
     entry_type: plugin
     license: Open Source
@@ -869,6 +911,7 @@ entries:
       - interactive-fiction
   - name: GameFramework (EllanJiang)
     url: https://github.com/EllanJiang/GameFramework
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Game framework for Unity that encapsulates common game modules and standardizes the development process.
     entry_type: plugin
     license: Open Source
@@ -890,6 +933,7 @@ entries:
     last_pushed: '2023-09-05'
   - name: GameFramework (FlipWebApps)
     url: https://github.com/FlipWebApps/GameFramework
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free Unity framework adding common game systems and features.
     entry_type: plugin
     license: Open Source
@@ -911,6 +955,7 @@ entries:
     last_pushed: '2020-03-19'
   - name: UnityGameFramework Template
     url: https://github.com/HolicXXX/UnityGameFramework-Template
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Starter project template based on UnityGameFramework.
     entry_type: reference
     license: Open Source
@@ -933,6 +978,7 @@ entries:
     last_pushed: '2018-12-18'
   - name: Autoya
     url: https://github.com/sassembla/Autoya
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Thin application framework for Unity.
     entry_type: plugin
     license: Open Source
@@ -952,6 +998,7 @@ entries:
       - architecture
   - name: Unity Framework
     url: https://github.com/cleavetv/unity-framework
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Application framework for C# Unity game projects.
     entry_type: plugin
     license: Open Source
@@ -973,6 +1020,7 @@ entries:
     last_pushed: '2024-02-29'
   - name: Unidux
     url: https://github.com/mattak/Unidux
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Redux-style state architecture for Unity.
     entry_type: plugin
     license: Open Source

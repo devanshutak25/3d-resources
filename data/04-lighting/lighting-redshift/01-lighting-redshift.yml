@@ -1,6 +1,7 @@
 entries:
   - name: Creative Product Lighting with Redshift & C4D
     url: https://www.youtube.com/@MaxonVFX
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Jarred van de Voort, NAB 2023.
     entry_type: channel
     license: Free
@@ -24,6 +25,7 @@ entries:
     url_status: ok
   - name: Redshift Lighting Techniques (Essential MoGraph)
     url: https://www.youtube.com/@MaxonTrainingTeam
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Redshift lighting techniques.
     entry_type: channel
     license: Free
@@ -47,6 +49,7 @@ entries:
         - gpu
   - name: You And Me Academy
     url: https://www.youtube.com/@YouAndMeAcademy
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Light groups workflow.
     entry_type: channel
     license: Free
@@ -68,6 +71,7 @@ entries:
         - gpu
   - name: Redshift Interior Materials & Lighting
     url: https://www.youtube.com/@Cinema4DTutorialsSV
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Interior materials and lighting.
     entry_type: channel
     license: Free
@@ -92,6 +96,7 @@ entries:
     url_status: ok
   - name: How to Art Direct Lights in a Cloner
     url: https://www.youtube.com/@MotionAndDesign
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Art-directing lights across cloners.
     entry_type: channel
     license: Free

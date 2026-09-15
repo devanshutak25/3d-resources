@@ -1,6 +1,7 @@
 entries:
   - name: 1 Minute VEX
     url: https://aaronsmith.tv/1-Minute-VEX
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Bite-sized VEX lessons.
     entry_type: tutorial
     license: Free
@@ -22,6 +23,7 @@ entries:
         - beginner
   - name: VEX Wrangle Cheat Sheet
     url: https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Quick VEX reference by Mr Kunz.
     entry_type: reference
     license: Free
@@ -43,6 +45,7 @@ entries:
         - vex
   - name: Python Snippets for Houdini
     url: https://github.com/kiryha/houdini/wiki/python-snippets
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Python snippets wiki.
     entry_type: reference
     license: Open Source
@@ -65,6 +68,7 @@ entries:
         - python
   - name: VFXBrain VEX
     url: https://vfxbrain.wordpress.com/category/vex/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: VEX tutorials blog.
     entry_type: channel
     license: Free
@@ -86,6 +90,7 @@ entries:
         - vex
   - name: HouPy Wiki
     url: https://www.houpywiki.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Houdini Python wiki. Packages, shelf scripts, menu customization, node graph hooks.
     entry_type: reference
     license: Free
@@ -110,6 +115,7 @@ entries:
       - learning-community-industry/communities-forums
   - name: OpenCL in Houdini
     url: https://pepefx.blogspot.com/2019/03/opencl-notes.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: OpenCL notes for Houdini.
     entry_type: reference
     license: Free
@@ -132,6 +138,7 @@ entries:
         - advanced
   - name: Python Startup Scripts
     url: https://houdinitricks.com/python-houdini-start-scripts-part-1/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Python startup scripts guide.
     entry_type: tutorial
     license: Free
@@ -154,6 +161,7 @@ entries:
     url_status: unreachable
   - name: Learning VEX via Bees and Bombs
     url: https://forums.odforce.net/topic/24056-learning-vex-via-animated-gifs-bees-bombs/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: OdForce thread recreating Bees and Bombs animations in VEX.
     license: Free
     entry_type: tutorial
@@ -172,6 +180,7 @@ entries:
     url_status: ok
   - name: vex_tutorial (jtomori)
     url: https://github.com/jtomori/vex_tutorial
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Practical introduction to VEX in Houdini with examples.
     license: Open Source
     entry_type: tutorial
@@ -190,6 +199,7 @@ entries:
     url_status: ok
   - name: Mantra LPE Cookbook (alexwheezy)
     url: https://github.com/alexwheezy/Mantra-LPE-Cookbook
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Light Path Expression recipes for Mantra rendering.
     license: Free
     entry_type: reference
@@ -207,6 +217,7 @@ entries:
     url_status: ok
   - name: Houdini OpenCL (MysteryPancake)
     url: https://mysterypancake.github.io/Houdini-OpenCL/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Guide to writing OpenCL kernels in Houdini.
     license: Free
     entry_type: tutorial

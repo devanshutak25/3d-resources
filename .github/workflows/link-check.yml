@@ -31,7 +31,7 @@ jobs:
         run: |
           npm install marked
           node scripts/render.js > README.md
-      - name: Commit verification timestamps + deprecation flags
+      - name: Commit verification timestamps + link status
         run: |
           git config user.name "link-check-bot"
           git config user.email "link-check-bot@users.noreply.github.com"

@@ -1,6 +1,7 @@
 entries:
   - name: r/gamedev
     url: https://www.reddit.com/r/gamedev/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 1.5M+ game dev subreddit.
     entry_type: community
     license: Free
@@ -16,6 +17,7 @@ entries:
         - web
   - name: r/indiegaming
     url: https://www.reddit.com/r/indiegaming/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Indie gaming subreddit.
     entry_type: community
     license: Free
@@ -31,6 +33,7 @@ entries:
         - web
   - name: r/unrealengine
     url: https://www.reddit.com/r/unrealengine/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Unreal Engine subreddit.
     entry_type: community
     license: Free
@@ -48,6 +51,7 @@ entries:
         - unreal-plugin
   - name: r/IndieDev
     url: https://www.reddit.com/r/IndieDev/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Indie developer subreddit.
     entry_type: community
     license: Free
@@ -63,6 +67,7 @@ entries:
         - web
   - name: r/gamedesign
     url: https://www.reddit.com/r/gamedesign/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Game design subreddit.
     entry_type: community
     license: Free
@@ -78,6 +83,7 @@ entries:
         - web
   - name: r/pixelart
     url: https://www.reddit.com/r/PixelArt/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Pixel art subreddit.
     entry_type: community
     license: Free
@@ -93,6 +99,7 @@ entries:
         - web
   - name: Game Dev League
     url: https://discord.gg/gamedev
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Game dev Discord.
     entry_type: community
     license: Free
@@ -108,6 +115,7 @@ entries:
         - web
   - name: Unreal Slackers
     url: https://unrealslackers.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Unreal Engine Discord community.
     entry_type: community
     license: Free
@@ -125,6 +133,7 @@ entries:
         - unreal-plugin
   - name: Brackeys Discord
     url: https://discord.gg/brackeys
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Brackeys Discord community.
     entry_type: community
     license: Free
@@ -140,6 +149,7 @@ entries:
         - web
   - name: Work With Indies
     url: https://www.workwithindies.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Indie game job board.
     entry_type: community
     license: Free
@@ -155,6 +165,7 @@ entries:
         - web
   - name: IndieDB
     url: https://www.indiedb.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Indie game database and promotion.
     entry_type: community
     license: Free
@@ -170,6 +181,7 @@ entries:
         - web
   - name: TIGSource Forums
     url: https://forums.tigsource.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Long-running indie forum.
     entry_type: community
     license: Free
@@ -185,6 +197,7 @@ entries:
         - web
   - name: Games Artist
     url: https://gamesartist.co.uk/
+    added_at: '2026-05-18T07:48:23.000Z'
     description: Game art community with breakdowns, tutorials, and showcases.
     entry_type: community
     license: Free

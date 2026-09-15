@@ -1,6 +1,7 @@
 entries:
   - name: Product Design Pipeline
     url: https://www.autodesk.com/products/fusion-360/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Primary software. Fusion 360, SolidWorks, KeyShot. Key considerations. Manufacturing.
     entry_type: reference
     license: Paid
@@ -17,6 +18,7 @@ entries:
     deprecated: true
   - name: Motion Graphics Pipeline
     url: https://www.maxon.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Primary software. Cinema 4D, After Effects. Key considerations. Stylized looks, fast iteration.
     entry_type: reference
     license: Paid

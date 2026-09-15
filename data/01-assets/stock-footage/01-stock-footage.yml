@@ -1,6 +1,7 @@
 entries:
   - name: Internet Archive / Prelinger
     url: https://archive.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Public-domain archival footage.
     license: Free
     entry_type: asset-source
@@ -18,6 +19,7 @@ entries:
         - reference
   - name: ActionVFX Practice
     url: https://www.actionvfx.com/practice-footage
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free practice VFX footage.
     license: Free
     entry_type: asset-source
@@ -35,6 +37,7 @@ entries:
     url_status: ok
   - name: Open Visual FX
     url: https://openvisualfx.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free VFX footage.
     license: Free
     entry_type: asset-source
@@ -52,6 +55,7 @@ entries:
     url_status: ok
   - name: videvo
     url: https://www.videvo.net/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free stock video, motion graphics, and music tracks.
     entry_type: asset-source
     license: Freemium

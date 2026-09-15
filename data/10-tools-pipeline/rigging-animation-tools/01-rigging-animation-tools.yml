@@ -1,6 +1,7 @@
 entries:
   - name: Auto-Rig Pro (Blender)
     url: https://blendermarket.com/products/auto-rig-pro
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Automatic rigging and retargeting.
     license: Paid
     entry_type: plugin
@@ -24,6 +25,7 @@ entries:
     url_status: ok
   - name: APEX (Houdini)
     url: https://www.sidefx.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: SideFX's procedural node-based rigging framework.
     license: Paid
     entry_type: plugin
@@ -48,6 +50,7 @@ entries:
     url_status: ok
   - name: EasyMocap
     url: https://github.com/zju3dv/EasyMocap?tab=readme-ov-file
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
     license: Open Source
     entry_type: tool
@@ -69,6 +72,7 @@ entries:
       - Open Source
   - name: trigger
     url: https://github.com/masqu3rad3/trigger
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Operational code-driven rigging tool for Autodesk Maya.
     license: Open Source
     entry_type: tool
@@ -92,6 +96,7 @@ entries:
       - Open Source
   - name: CvWrap
     url: https://github.com/chadmv/cvwrap
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Fast Maya wrap deformer.
     license: Open Source
     entry_type: tool
@@ -117,6 +122,7 @@ entries:
     last_pushed: '2022-12-15'
   - name: Onion Skin Renderer
     url: https://github.com/Viele/onionSkinRenderer
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Onion Skin Renderer for Maya.
     license: Open Source
     entry_type: tool
@@ -142,6 +148,7 @@ entries:
     last_pushed: '2022-11-16'
   - name: AccuRIG
     url: https://actorcore.reallusion.com/auto-rig
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free application designed for fast and easy character rigging.
     license: Free
     entry_type: tool
@@ -158,6 +165,7 @@ entries:
         - win
   - name: ossos
     url: https://github.com/sketchpunklabs/ossos
+    added_at: '2026-04-19T17:29:43.000Z'
     description: A complete character skinning & animation library for the web
     license: Open Source
     entry_type: tool
@@ -175,6 +183,7 @@ entries:
         - web
   - name: Mesh2Motion
     url: https://mesh2motion.org/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: FREE & open-source web application to animate your 3D models. Supports humanoid, four-legged, and bird creatures.
     license: Open Source
     entry_type: tool
@@ -191,6 +200,7 @@ entries:
         - skinning
   - name: AnimKit
     url: https://www.nasrtech.dev/animkit
+    added_at: '2026-07-06T20:23:41.000Z'
     description: Dockable Maya toolbar of selection-aware animation tools for tweening, key manipulation, and workflow cleanup.
     license: Paid
     entry_type: plugin

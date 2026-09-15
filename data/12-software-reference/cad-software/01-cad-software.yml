@@ -1,6 +1,7 @@
 entries:
   - name: Autodesk Inventor
     url: https://www.autodesk.com/products/inventor
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Mechanical 3D CAD for product design, simulation, and tooling.
     pricing: $310/mo or $2,500/yr
     license: Paid
@@ -19,6 +20,7 @@ entries:
     deprecated: true
   - name: PTC Creo
     url: https://www.ptc.com/en/products/creo
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Parametric mechanical CAD with simulation, generative design, and additive workflows.
     pricing: Quote-based; perpetual ~$2,200–$16,000; subs $200–$1,500/mo
     license: Paid
@@ -36,6 +38,7 @@ entries:
     url_status: ok
   - name: Siemens NX
     url: https://plm.sw.siemens.com/en-US/nx/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: High-end product engineering CAD/CAM/CAE; NX X is the cloud SaaS variant.
     pricing: Quote-based (perpetual, subscription, or token)
     license: Paid
@@ -54,6 +57,7 @@ entries:
     url_status: ok
   - name: BricsCAD
     url: https://www.bricsys.com/bricscad
+    added_at: '2026-05-05T11:50:37.000Z'
     description: AutoCAD-compatible DWG CAD; offers both perpetual and subscription licensing.
     pricing: Lite from €314; Pro $1,752 perpetual; Ultimate from €1,176/yr
     license: Paid
@@ -74,6 +78,7 @@ entries:
     url_status: ok
   - name: Shapr3D
     url: https://www.shapr3d.com/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Touch-first parametric/direct CAD on iPad, Vision Pro, Mac, and Windows.
     pricing: Pro $299/yr
     license: Paid
@@ -93,6 +98,7 @@ entries:
     url_status: ok
   - name: FreeCAD
     url: https://www.freecad.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source parametric CAD.
     license: Open Source
     entry_type: software
@@ -116,6 +122,7 @@ entries:
     url_status: ok
   - name: Onshape Free
     url: https://www.onshape.com/en/products/free
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cloud-based CAD with free hobbyist tier (public projects).
     license: Freemium
     entry_type: software
@@ -137,6 +144,7 @@ entries:
     url_status: ok
   - name: Fusion 360 Personal
     url: https://www.autodesk.com/products/fusion-360/personal
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Autodesk's CAD/CAM free for personal hobbyist use.
     license: Free NC
     entry_type: software
@@ -159,6 +167,7 @@ entries:
     deprecated: true
   - name: OpenSCAD
     url: https://openscad.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Code-based CAD for parametric design.
     license: Open Source
     entry_type: software
@@ -183,6 +192,7 @@ entries:
     url_status: ok
   - name: LibreCAD
     url: https://librecad.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source 2D CAD.
     license: Open Source
     entry_type: software
@@ -206,6 +216,7 @@ entries:
     url_status: ok
   - name: AutoCAD
     url: https://www.autodesk.com/products/autocad
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Industry-standard 2D/3D CAD.
     pricing: $210/mo
     license: Paid
@@ -227,6 +238,7 @@ entries:
     url_status: ok
   - name: SolidWorks
     url: https://www.solidworks.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Mechanical CAD for engineers.
     pricing: $2,820/yr
     license: Paid
@@ -247,6 +259,7 @@ entries:
     url_status: unreachable
   - name: CATIA
     url: https://www.3ds.com/products/catia
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Dassault Systèmes CAD for aerospace and automotive.
     license: Paid
     entry_type: software
@@ -266,6 +279,7 @@ entries:
     url_status: ok
   - name: Rhino
     url: https://www.rhino3d.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: NURBS-focused 3D modeling for architecture and product design.
     pricing: $995 perpetual
     license: Paid
@@ -289,6 +303,7 @@ entries:
     url_status: ok
   - name: GrabCAD
     url: https://grabcad.com
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Community CAD model library.
     license: Free
     entry_type: reference
@@ -299,6 +314,7 @@ entries:
         - product-viz
   - name: Thingiverse
     url: https://thingiverse.com
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D-printing model community.
     license: Free
     entry_type: reference
@@ -309,6 +325,7 @@ entries:
         - product-viz
   - name: Solvespace
     url: https://solvespace.com/index.pl
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Parametric 3D CAD modeling tool.
     license: Open Source
     entry_type: software
@@ -331,6 +348,7 @@ entries:
     url_status: ok
   - name: Bitbybit
     url: https://bitbybit.dev/
+    added_at: '2026-05-22T16:48:26.000Z'
     description: Browser parametric CAD via visual nodes (Rete, Blockly) or Monaco code editor. OCCT, JSCAD, Manifold backends.
     license: Freemium
     entry_type: software
@@ -354,6 +372,7 @@ entries:
     url_status: ok
   - name: PackCAD
     url: https://packcad.com/
+    added_at: '2026-06-16T19:02:30.000Z'
     description: Browser 3D CAD for packaging. Models folded/origami structures with folding simulation.
     license: Freemium
     entry_type: software
@@ -372,6 +391,7 @@ entries:
     url_status: ok
   - name: Pascal Editor
     url: https://editor.pascal.app/
+    added_at: '2026-07-21T19:27:45.000Z'
     description: Open-source browser editor for 3D buildings, floor plans, rooms, roofs, furniture, and interiors.
     license: Open Source
     entry_type: software

@@ -1,6 +1,7 @@
 entries:
   - name: Actors Unity3d Framework
     url: https://github.com/dimmpixeye/Actors-Unity3d-Framework
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Decouples data from behavior in Unity.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -23,6 +24,7 @@ entries:
     last_pushed: '2023-07-05'
   - name: UXF
     url: https://github.com/immersivecognition/unity-experiment-framework
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Framework for running human behavior experiments in Unity.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -43,6 +45,7 @@ entries:
         - opensource-alt
   - name: Weaver
     url: https://github.com/ByronMayne/Weaver
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Code-weaving framework for Unity, based on Fody.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -65,6 +68,7 @@ entries:
     last_pushed: '2023-08-08'
   - name: MOBA CSharp Unity
     url: https://github.com/yasgamesdev/MOBA_CSharp_Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: MOBA game framework for Unity with a Unity-independent server that runs on Linux.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -87,6 +91,7 @@ entries:
     last_pushed: '2022-12-08'
   - name: EasyMOBA
     url: https://github.com/nidaynere/easymoba
+    added_at: '2026-04-19T17:15:03.000Z'
     description: MOBA game template for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -109,6 +114,7 @@ entries:
     last_pushed: '2019-02-05'
   - name: RPGCore
     url: https://github.com/Fydar/RPGCore
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Framework for building RPG games and mechanics in Unity.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -129,6 +135,7 @@ entries:
         - opensource-alt
   - name: Universal Unity Hooks
     url: https://github.com/UserR00T/UniversalUnityHooks
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Framework for hooking into and modifying methods in Unity games via DLLs.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -151,6 +158,7 @@ entries:
     last_pushed: '2021-08-09'
   - name: ScriptableObject Architecture
     url: https://github.com/DanielEverland/ScriptableObject-Architecture
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Makes ScriptableObjects a core part of your Unity architecture.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -174,6 +182,7 @@ entries:
     last_pushed: '2023-12-17'
   - name: UDBase
     url: https://github.com/KonH/UDBase
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Module-based Unity game template where controllers can be swapped without changing project source.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -197,6 +206,7 @@ entries:
     last_pushed: '2018-12-17'
   - name: Akka.Unity.Sample
     url: https://github.com/Arkatufus/Akka.Unity.Sample
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Sample running Akka.NET in Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -219,6 +229,7 @@ entries:
     last_pushed: '2017-09-25'
   - name: SpacePuppy Unity Framework 3.0
     url: https://github.com/lordofduct/spacepuppy-unity-framework-3.0
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of tools for making games in Unity.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -241,6 +252,7 @@ entries:
     last_pushed: '2022-06-17'
   - name: yaSingleton
     url: https://github.com/jedybg/yaSingleton
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Singleton pattern for Unity using ScriptableObjects instead of MonoBehaviour.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -263,6 +275,7 @@ entries:
     last_pushed: '2020-10-01'
   - name: Signals (UnityPatterns)
     url: https://github.com/UnityPatterns/Signals
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Editor-driven signal/event system for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -285,6 +298,7 @@ entries:
     last_pushed: '2013-10-04'
   - name: Unity Singleton MonoBehavior
     url: https://github.com/kleber-swf/Unity-Singleton-MonoBehaviour
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Singleton pattern implementation for Unity MonoBehaviours.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -307,6 +321,7 @@ entries:
     last_pushed: '2016-04-06'
   - name: Unity QuickPool
     url: https://github.com/densylkin/QuickPool
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simple object pooling toolkit for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -329,6 +344,7 @@ entries:
     last_pushed: '2016-03-30'
   - name: RecyclerKit
     url: https://github.com/prime31/RecyclerKit
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Object pool manager for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -351,6 +367,7 @@ entries:
     last_pushed: '2021-01-22'
   - name: Unity Object Pool
     url: https://github.com/thefuntastic/unity-object-pool
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Object pool and manager for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -373,6 +390,7 @@ entries:
     last_pushed: '2021-07-08'
   - name: UnityPooling
     url: https://github.com/Mukarillo/UnityPooling
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Optimized object pooling for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -395,6 +413,7 @@ entries:
     last_pushed: '2019-09-26'
   - name: Unity3D Prefab Pool
     url: https://github.com/TarasOsiris/unity3d-prefab-pool
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simple prefab pool for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -417,6 +436,7 @@ entries:
     last_pushed: '2014-08-14'
   - name: Unity Object Pooler
     url: https://github.com/imxzjv/UnityObjectPooler
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simple object pool for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -439,6 +459,7 @@ entries:
     last_pushed: '2018-03-01'
   - name: Msgpack Unity3D
     url: https://github.com/deniszykov/msgpack-unity3d
+    added_at: '2026-04-19T17:15:03.000Z'
     description: MessagePack and JSON serializer for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -459,6 +480,7 @@ entries:
         - opensource-alt
   - name: MessagePack CSharp
     url: https://github.com/neuecc/MessagePack-CSharp
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Fast MessagePack serializer for C# (.NET, Unity, Xamarin).
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -479,6 +501,7 @@ entries:
         - opensource-alt
   - name: Message Pack Grid View
     url: https://github.com/E-K/MessagePackGridView
+    added_at: '2026-04-19T17:15:03.000Z'
     description: MessagePack data viewer built on MessagePack-CSharp and Unity TreeView.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -501,6 +524,7 @@ entries:
     last_pushed: '2019-02-12'
   - name: Protobuf3 for Unity
     url: https://github.com/bitcraftCoLtd/protobuf3-for-unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Protocol Buffers v3 runtime for Unity (.NET 3.5).
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -523,6 +547,7 @@ entries:
     last_pushed: '2016-09-07'
   - name: Sproto Unity
     url: https://github.com/m2q1n9/sproto-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Demo of using sproto-csharp in Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -545,6 +570,7 @@ entries:
     last_pushed: '2018-10-08'
   - name: Unity Serializer NG
     url: https://github.com/TheSniperFan/unityserializer-ng
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Revival of Mike Talbot's discontinued Unity Serializer (Unity 5).
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -567,6 +593,7 @@ entries:
     last_pushed: '2016-03-01'
   - name: OpenFile
     url: https://github.com/mrzapp/openfile
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source serialization for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -589,6 +616,7 @@ entries:
     last_pushed: '2020-11-30'
   - name: JSONObject
     url: https://github.com/mtschoen/JSONObject
+    added_at: '2026-04-19T17:15:03.000Z'
     description: JSONObject parsing library for Unity.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -611,6 +639,7 @@ entries:
     last_pushed: '2022-12-27'
   - name: BitpackingTools
     url: https://github.com/emotitron/BitpackingTools
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Bitpacking and serialization libraries behind the NetworkSyncTransform and TransformCrusher Unity assets.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -633,6 +662,7 @@ entries:
     last_pushed: '2024-05-10'
   - name: Knight Windjson
     url: https://github.com/winddyhe/knight-windjson
+    added_at: '2026-04-19T17:15:03.000Z'
     description: JSON parser for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -655,6 +685,7 @@ entries:
     last_pushed: '2017-11-06'
   - name: Unity Interface Reference
     url: https://github.com/Cippman/Unity-InterfaceReference
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Serializable wrapper that holds a reference to an interface in Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -677,6 +708,7 @@ entries:
     last_pushed: '2022-04-15'
   - name: log4net.unity
     url: https://github.com/HolyShovelSoft/log4net.unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: log4net helpers and a UnityEngine.Debug appender for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -697,6 +729,7 @@ entries:
         - opensource-alt
   - name: Command Terminal
     url: https://github.com/stillwwater/command_terminal
+    added_at: '2026-04-19T17:15:03.000Z'
     description: In-game console and command terminal for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -719,6 +752,7 @@ entries:
     last_pushed: '2022-01-08'
   - name: Net Peeweek Console
     url: https://github.com/peeweek/net.peeweek.console
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Interactive runtime console for Unity, distributed as a package.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -741,6 +775,7 @@ entries:
     last_pushed: '2021-06-13'
   - name: CUDLR
     url: https://github.com/proletariatgames/CUDLR
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Console for Unity debugging and logging remotely.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -763,6 +798,7 @@ entries:
     last_pushed: '2018-02-28'
   - name: TTConsole
     url: https://github.com/chiuan/TTConsole
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Runtime debug console for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -785,6 +821,7 @@ entries:
     last_pushed: '2019-11-15'
   - name: Unity File Debug
     url: https://github.com/Sacred-Seed-Studio/Unity-File-Debug
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Enhanced debug logging for Unity, with JSON/CSV export and an HTML viewer.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -807,6 +844,7 @@ entries:
     last_pushed: '2019-10-31'
   - name: Unity Logs Viewer
     url: https://github.com/aliessmael/Unity-Logs-Viewer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: View editor console logs inside the running game.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -829,6 +867,7 @@ entries:
     last_pushed: '2021-12-09'
   - name: Runtime Unity Editor
     url: https://github.com/ManlyMarco/RuntimeUnityEditor
+    added_at: '2026-04-19T17:15:03.000Z'
     description: In-game inspector and debugging tools for Unity applications.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -849,6 +888,7 @@ entries:
         - opensource-alt
   - name: Unity RuntimeCodeExecuter
     url: https://github.com/flamacore/Unity-RuntimeCodeExecuter
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Executes arbitrary code at runtime via the .NET 2.0 library, aimed at Unity.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -871,6 +911,7 @@ entries:
     last_pushed: '2018-07-29'
   - name: Gendarme
     url: https://github.com/spouliot/gendarme
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Mono rule-based static analysis tool, usable on Unity project assemblies.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -893,6 +934,7 @@ entries:
     last_pushed: '2011-01-26'
   - name: CoroutineChain
     url: https://github.com/geniikw/CoroutineChain
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Chainable coroutine helper for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -915,6 +957,7 @@ entries:
     last_pushed: '2022-03-03'
   - name: Unity Routines
     url: https://github.com/tomblind/unity-routines
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Coroutine replacement for Unity with hierarchical routines and pooling.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -937,6 +980,7 @@ entries:
     last_pushed: '2018-11-18'
   - name: Unity Async Routines
     url: https://github.com/TorVestergaard/UnityAsyncRoutines
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight async coroutine library for Unity.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -959,6 +1003,7 @@ entries:
     last_pushed: '2017-03-21'
   - name: Unity Main Thread Dispatcher
     url: https://github.com/PimDeWitte/UnityMainThreadDispatcher
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Thread-safe way to run actions on Unity's main thread.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -981,6 +1026,7 @@ entries:
     last_pushed: '2024-03-14'
   - name: Unity Native Scripting
     url: https://github.com/jacksondunstan/UnityNativeScripting
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Write Unity scripts in C++.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -1003,6 +1049,7 @@ entries:
     last_pushed: '2021-03-06'
   - name: LINQ to GameObject for Unity
     url: https://github.com/neuecc/LINQ-to-GameObject-for-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Traverse the GameObject hierarchy using LINQ.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -1023,6 +1070,7 @@ entries:
         - opensource-alt
   - name: Unity3D Async Await Util
     url: https://github.com/svermeulen/Unity3dAsyncAwaitUtil
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Helpers that make async/await easier to use in Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -1045,6 +1093,7 @@ entries:
     last_pushed: '2019-02-27'
   - name: UnityComponent
     url: https://github.com/GameBuildingBlocks/UnityComponent
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Resource and component management helpers for Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -1067,6 +1116,7 @@ entries:
     last_pushed: '2018-04-10'
   - name: Unity.Library.eppz
     url: https://github.com/eppz/Unity.Library.eppz
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of utility libraries for Unity.
     entry_type: tool
     url_last_verified: '2026-09-01'

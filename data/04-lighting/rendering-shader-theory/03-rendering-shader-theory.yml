@@ -1,6 +1,7 @@
 entries:
   - name: Casual effects by Morgan McGuire
     url: https://casual-effects.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Morgan McGuire's site with real-time rendering articles, research papers, and graphics data.
     entry_type: reference
     license: Free
@@ -15,6 +16,7 @@ entries:
         - web
   - name: Catlike Coding
     url: https://catlikecoding.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: C# and shader tutorials for Unity.
     entry_type: reference
     license: Free
@@ -33,6 +35,7 @@ entries:
         - unity
   - name: Cesium
     url: https://cesiumjs.org/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open-source library for 3D globes and maps.
     entry_type: reference
     license: Open Source
@@ -47,6 +50,7 @@ entries:
         - web
   - name: Virtual ray lights for rendering scenes with participating media
     url: http://cg.ivd.kit.edu/publications/p2012/VRL/VRL.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Novák et al. SIGGRAPH 2012.
     entry_type: reference
     license: Free
@@ -62,6 +66,7 @@ entries:
         - web
   - name: ComputeToys
     url: https://compute.toys/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: WebGPU compute shader editor for experimenting with GPU graphics in the browser.
     entry_type: reference
     license: Free
@@ -76,6 +81,7 @@ entries:
         - gpu
   - name: Microfacet Models for Refraction through Rough Surfaces
     url: https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Walter et al. Eurographics Symposium on Rendering 2007.
     entry_type: reference
     license: Free
@@ -91,6 +97,7 @@ entries:
         - web
   - name: Optimally Combining Sampling Techniques for Monte Carlo Rendering
     url: http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Veach & Guibas. SIGGRAPH 1995.
     entry_type: reference
     license: Free
@@ -106,6 +113,7 @@ entries:
         - web
   - name: Practical Rendering of Multiple Scattering Effects in Participating Media
     url: https://cseweb.ucsd.edu/~ravir/HRPIEG.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: 'Premoze et al. Rendering Techniques 2004: 15th Eurographics Workshop on Rendering.'
     entry_type: reference
     license: Free
@@ -121,6 +129,7 @@ entries:
         - web
   - name: Cyos
     url: https://cyos.babylonjs.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Online shader editor.
     entry_type: reference
     license: Free
@@ -133,6 +142,7 @@ entries:
         - web
   - name: Everything (or most things) wrong with learnopengl.com/PBR/Theory
     url: https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Detailed corrections to the PBR theory page on learnopengl.com.
     entry_type: reference
     license: Free
@@ -147,6 +157,7 @@ entries:
         - web
   - name: Shadowing by Non-Gaussian Random Surfaces
     url: http://dx.doi.org/10.1109/TAP.1980.1142437
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Garry S. Brown. IEEE Transactions on Antennas and Propagation 1980.
     entry_type: reference
     license: Free
@@ -162,6 +173,7 @@ entries:
         - web
   - name: The Interactive Shader Format (ISF) Editor
     url: https://editor.isf.video/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Online tool for creating and editing GLSL shaders in the ISF format, used in VJ software, live performance, and interactive installations.
     entry_type: reference
     license: Free
@@ -174,6 +186,7 @@ entries:
         - web
   - name: GlslEditor
     url: https://editor.thebookofshaders.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Simple WebGL fragment shader editor.
     entry_type: reference
     license: Free
@@ -186,6 +199,7 @@ entries:
         - web
   - name: Fabian 'ryg' Giesen's Blog
     url: https://fgiesen.wordpress.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blog on rendering, optimization, and low-level graphics programming with a focus on practical techniques.
     entry_type: reference
     license: Free
@@ -200,6 +214,7 @@ entries:
         - web
   - name: Shaping functions
     url: http://www.flong.com/archive/texts/code/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Set of shaping functions for shaders.
     entry_type: reference
     license: Free
@@ -212,6 +227,7 @@ entries:
         - web
   - name: Framer Motion
     url: https://www.framer.com/motion/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Animation library for React, usable with react-three-fiber via the framer-motion-3d package.
     entry_type: reference
     license: Open Source
@@ -224,6 +240,7 @@ entries:
         - web
   - name: Creative Coding with Canvas & WebGL
     url: https://frontendmasters.com/courses/canvas-webgl/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Workshop by Matt DesLauriers on generative art, interactive animations, 3D graphics, and shaders.
     entry_type: tutorial
     license: Paid
@@ -239,6 +256,7 @@ entries:
         - web
   - name: Advanced Creative Coding with WebGL & Shaders
     url: https://frontendmasters.com/courses/webgl-shaders/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Workshop by Matt DesLauriers going deeper into graphics programming, math, and shaders.
     entry_type: tutorial
     license: Paid
@@ -254,6 +272,7 @@ entries:
         - web
   - name: 3D Math Primer for Graphics and Game Development
     url: https://gamemath.com/book/intro.html
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Book covering the 3D math foundations for graphics and game programming.
     entry_type: reference
     license: Free
@@ -268,6 +287,7 @@ entries:
         - web
   - name: Unity Shader Tutorials
     url: https://github.com/lindenreid/Unity-Shader-Tutorials
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Full project and code for a set of Unity shader tutorials.
     entry_type: reference
     license: Open Source
@@ -289,6 +309,7 @@ entries:
     last_pushed: '2019-07-27'
   - name: Unity3D Shaders Learning
     url: https://github.com/TarasOsiris/unity3d-shaders-learning
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unity3D shader learning examples.
     entry_type: reference
     license: Open Source
@@ -310,6 +331,7 @@ entries:
     last_pushed: '2017-03-24'
   - name: Shader Graph Tutorials
     url: https://github.com/Brackeys/Shader-Graph-Tutorials
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Project files for the Brackeys Shader Graph tutorials in Unity.
     entry_type: reference
     license: Open Source
@@ -331,6 +353,7 @@ entries:
     last_pushed: '2018-06-04'
   - name: Resources for Writing Shaders in Unity
     url: https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity
+    added_at: '2026-04-19T17:29:43.000Z'
     description: 'Companion resources for the UNITE Boston 2015 talk Writing Shaders: YOU can do it!'
     entry_type: reference
     license: Open Source
@@ -352,6 +375,7 @@ entries:
     last_pushed: '2017-08-30'
   - name: Unity Shader Cheatsheet
     url: https://github.com/nothke/UnityShaderCheatsheet
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Collection of Unity shader snippets and gotchas.
     entry_type: reference
     license: Open Source
@@ -373,6 +397,7 @@ entries:
     last_pushed: '2022-01-16'
   - name: Blender Addon PBR
     url: https://github.com/DigiKrafting/blender_addon_pbr
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender addon adding a material panel that builds Metallic/Roughness or Specular/Gloss node setups on the Principled BSDF.
     entry_type: plugin
     license: Open Source
@@ -393,6 +418,7 @@ entries:
     last_pushed: '2019-07-15'
   - name: Lily Surface Scrapper
     url: https://github.com/eliemichel/LilySurfaceScrapper
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender addon that imports materials and shaders from a single URL.
     entry_type: plugin
     license: Open Source
@@ -411,6 +437,7 @@ entries:
         - blender-addon
   - name: Extra Lights
     url: https://github.com/jlampel/bl_extra_lights
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender addon adding physically based, photometric lighting presets to the Add menu.
     entry_type: plugin
     license: Open Source
@@ -429,6 +456,7 @@ entries:
         - blender-addon
   - name: Node To Python
     url: https://github.com/BrendanParmer/NodeToPython
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender addon that converts Geometry, Shader, and Compositing node trees into legible Python scripts and add-ons.
     entry_type: plugin
     license: Open Source
@@ -447,6 +475,7 @@ entries:
         - blender-addon
   - name: SHADERed
     url: https://github.com/dfranx/SHADERed
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Lightweight tool for creating and testing HLSL and GLSL shaders.
     entry_type: tool
     license: Open Source
@@ -465,6 +494,7 @@ entries:
     last_pushed: '2023-09-22'
   - name: Realistic water shader
     url: https://github.com/jbouny/ocean
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Realistic ocean and water shader for Three.js with notes on the approach.
     entry_type: reference
     license: Open Source
@@ -481,6 +511,7 @@ entries:
     last_pushed: '2017-10-18'
   - name: PixelSpirit GitHub
     url: https://github.com/patriciogonzalezvivo/PixelSpiritDeck
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Code library for the PixelSpirit Elements deck of GLSL shader cards.
     entry_type: tool
     license: Open Source
@@ -497,6 +528,7 @@ entries:
     last_pushed: '2024-02-02'
   - name: Three Blender
     url: https://github.com/ppmpreetham/three-blender
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender tool that converts Blender files directly to Three.js.
     entry_type: tool
     license: Open Source
@@ -514,6 +546,7 @@ entries:
         - blender
   - name: glslViewer (GitHub)
     url: https://github.com/patriciogonzalezvivo/glslViewer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Console-based GLSL sandbox for 2D/3D shaders, for a creative pipeline agnostic to the target platform.
     entry_type: reference
     license: Open Source
@@ -530,6 +563,7 @@ entries:
         - opensource-alt
   - name: Lygia (GitHub)
     url: https://github.com/patriciogonzalezvivo/lygia
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Granular, multi-language shader library built for performance and flexibility.
     entry_type: tool
     license: Open Source
@@ -544,6 +578,7 @@ entries:
         - opensource-alt
   - name: Fft Ocean
     url: https://github.com/jbouny/fft-ocean
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Fast Fourier Transform ocean rendering for Three.js.
     entry_type: reference
     license: Open Source
@@ -560,6 +595,7 @@ entries:
     last_pushed: '2015-11-12'
   - name: (2014) Ray tracing with OpenGL Compute Shaders
     url: https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Detailed ray tracing tutorial series using OpenGL (LWJGL) by Kai Burjack.
     entry_type: tutorial
     license: Open Source
@@ -578,6 +614,7 @@ entries:
     last_pushed: '2023-08-30'
   - name: CodeXL
     url: https://github.com/GPUOpen-Tools/CodeXL
+    added_at: '2026-04-19T17:29:43.000Z'
     description: AMD tool suite with a debugger, profiler, and frame/shader analysis.
     entry_type: tool
     license: Open Source
@@ -597,6 +634,7 @@ entries:
     last_pushed: '2020-04-29'
   - name: Magnum (GitHub)
     url: https://github.com/mosra/magnum
+    added_at: '2026-04-19T17:29:43.000Z'
     description: 2D/3D graphics engine for modern OpenGL.
     entry_type: reference
     license: Open Source
@@ -613,6 +651,7 @@ entries:
         - opensource-alt
   - name: CelShader
     url: https://github.com/antidamage/CelShader
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Cel shader project for Unreal Engine 4.
     entry_type: reference
     license: Open Source
@@ -635,6 +674,7 @@ entries:
     last_pushed: '2019-04-02'
   - name: Houdini Gaussian Splatting Viewport Renderer
     url: https://github.com/rubendhz/houdini-gsplat-renderer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: HDK/GLSL implementation of Gaussian Splatting in Houdini.
     entry_type: reference
     license: Open Source
@@ -653,6 +693,7 @@ entries:
         - gpu
   - name: GLSL Sandbox
     url: http://glslsandbox.com
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Online live editor for fragment shaders.
     entry_type: reference
     license: Free
@@ -665,6 +706,7 @@ entries:
         - web
   - name: GPU Zen Blog
     url: https://gpuzen.blogspot.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blog on GPU programming and advanced rendering techniques, often featuring excerpts from the GPU Zen book series.
     entry_type: reference
     license: Free
@@ -681,6 +723,7 @@ entries:
         - gpu
   - name: Semi-Automatic Generation of Transfer Functions for Direct Volume Rendering
     url: http://www.graphics.cornell.edu/pubs/1999/Kin99.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Kindlmann & Durkin. IEEE Symposium on Volume Visualization 1998.
     entry_type: reference
     license: Free
@@ -696,6 +739,7 @@ entries:
         - web
   - name: Fast Volume Rendering Using a Shear-Warp Factorization of the Viewing Transformation
     url: https://graphics.stanford.edu/papers/shear/shearwarp.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Lacroute & Levoy. SIGGRAPH 1994.
     entry_type: reference
     license: Free
@@ -711,6 +755,7 @@ entries:
         - web
   - name: Light field rendering
     url: https://graphics.stanford.edu/papers/light/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Levoy & Hanrahan. SIGGRAPH 1996.
     entry_type: reference
     license: Free
@@ -726,6 +771,7 @@ entries:
         - web
   - name: A Rapid Hierarchical Rendering Technique for Translucent Materials
     url: http://graphics.ucsd.edu/~henrik/papers/fast_bssrdf/fast_bssrdf.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Jensen & Buhler. SIGGRAPH 2002.
     entry_type: reference
     license: Free
@@ -741,6 +787,7 @@ entries:
         - web
   - name: gsap
     url: https://greensock.com/gsap/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Animation library for CSS and JavaScript, framework agnostic and usable with three.js, backed by plugins like ScrollTrigger and Flip.
     entry_type: reference
     license: Freemium
@@ -754,6 +801,7 @@ entries:
         - web
   - name: Temporal light field reconstruction for rendering distribution effects
     url: http://groups.csail.mit.edu/graphics/tlfr/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Lehtinen et al. SIGGRAPH 2011.
     entry_type: reference
     license: Free
@@ -769,6 +817,7 @@ entries:
         - web
   - name: Canvas Debugger
     url: https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Tutorial on using Firefox developer tools to debug WebGL shaders.
     entry_type: tutorial
     license: Free
@@ -783,6 +832,7 @@ entries:
         - web
   - name: Shader Editor
     url: https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Tutorial on live-editing WebGL shaders with Firefox developer tools.
     entry_type: tutorial
     license: Free

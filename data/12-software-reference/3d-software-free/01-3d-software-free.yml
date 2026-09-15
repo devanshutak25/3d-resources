@@ -1,6 +1,7 @@
 entries:
   - name: SculptGL
     url: https://stephaneginier.com/sculptgl/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: WebGL browser sculpting with dynamic topology.
     license: Free
     entry_type: software
@@ -22,6 +23,7 @@ entries:
     url_status: ok
   - name: Tinkercad
     url: https://www.tinkercad.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Browser-based CSG modeling.
     license: Free
     entry_type: software
@@ -45,6 +47,7 @@ entries:
     url_status: ok
   - name: Wings 3D
     url: https://www.wings3d.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Subdivision surface modeler.
     license: Open Source
     entry_type: software
@@ -67,6 +70,7 @@ entries:
     url_status: ok
   - name: MagicaVoxel
     url: https://ephtracy.github.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: GPU voxel editor with path tracing.
     license: Free
     entry_type: software
@@ -92,6 +96,7 @@ entries:
     url_status: ok
   - name: MagicaCSG
     url: https://ephtracy.github.io/index.html?page=magicacsg
+    added_at: '2026-04-16T19:59:30.000Z'
     description: SDF modeling with real-time booleans.
     license: Free
     entry_type: software
@@ -115,6 +120,7 @@ entries:
     url_status: ok
   - name: VRoid Studio
     url: https://vroid.com/en/studio/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Anime-style 3D character creator.
     license: Free
     entry_type: software
@@ -138,6 +144,7 @@ entries:
     url_status: ok
   - name: SDF Modeler
     url: https://sascha-rode.itch.io/sdf-modeler
+    added_at: '2026-04-16T20:54:45.000Z'
     description: Experimental SDF-based non-destructive procedural 3D modeler.
     license: Free
     entry_type: software
@@ -162,6 +169,7 @@ entries:
     url_status: ok
   - name: Sculptris
     url: https://sculptris.br.uptodown.com/windows
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Original free digital sculpting from Pixologic (predecessor to ZBrush Core).
     license: Free
     entry_type: software
@@ -180,6 +188,7 @@ entries:
     url_status: ok
   - name: Blender
     url: https://www.blender.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source 3D creation suite. Modeling, sculpting, animation, rendering, compositing, VFX.
     license: Open Source
     entry_type: software
@@ -214,6 +223,7 @@ entries:
     url_status: ok
   - name: Goxel
     url: https://github.com/guillaumechereau/goxel
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
     entry_type: software
     license: Open Source
@@ -224,6 +234,7 @@ entries:
         - opensource-alt
   - name: Mandelbulb3D (original)
     url: http://www.andreas-maschke.com/?page_id=4607
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free Windows app for 3D Mandelbulb fractal imaging.
     license: Free
     entry_type: software
@@ -241,6 +252,7 @@ entries:
         - procedural
   - name: Mandelbulb3D (thargor6 fork)
     url: https://github.com/thargor6/mb3d
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A program designed for the Windows platform for generating 3D views of different fractals.
     license: Open Source
     entry_type: software
@@ -260,6 +272,7 @@ entries:
     last_pushed: '2023-03-05'
   - name: Clavicula
     url: https://clavicula.link/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Intuitive and free 3D modeling software for everyone.
     license: Free
     entry_type: software
@@ -270,6 +283,7 @@ entries:
         - modeling
   - name: TerreSculptor
     url: http://www.demenzunmedia.com/home/terresculptor/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Terrain creation and editing software. It is freeware.
     license: Free
     entry_type: software
@@ -282,6 +296,7 @@ entries:
         - procedural
   - name: TreeIt
     url: https://www.evolved-software.com/treeit/treeit
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Easy to use real time 3D tree generator for the simple creation.
     license: Free
     entry_type: software
@@ -294,6 +309,7 @@ entries:
         - procedural
   - name: Make Human
     url: http://www.makehumancommunity.org/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender)) [![][repo]](https://github.com/makehumancommunity/makehuman)
     entry_type: community
     license: Open Source
@@ -310,6 +326,7 @@ entries:
         - blender-addon
   - name: Sculptron
     url: https://render.otoy.com/forum/viewtopic.php?f=7&t=73665
+    added_at: '2026-04-19T17:15:03.000Z'
     description: GPU-based tool for sculpting animation caches and for converting mesh sequences to volumes. The software is currently available free during early development.
     entry_type: community
     license: Free
@@ -325,6 +342,7 @@ entries:
         - gpu
   - name: Cables.gl
     url: https://cables.gl/
+    added_at: '2026-05-22T16:48:26.000Z'
     description: Node-based visual programming for browser graphics and interactive WebGL. Patch editor exports to JS.
     license: Freemium
     entry_type: software
@@ -350,6 +368,7 @@ entries:
     url_status: ok
   - name: Autodesk Project Falcon
     url: https://www.autodesk.com/solutions/media-entertainment/project-falcon
+    added_at: '2026-07-21T10:53:26.000Z'
     description: Free browser-based 3D modeler for building objects by kitbashing pre-made parts.
     license: Free
     entry_type: software

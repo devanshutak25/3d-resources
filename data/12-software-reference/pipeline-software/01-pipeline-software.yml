@@ -1,6 +1,7 @@
 entries:
   - name: Frame.io
     url: https://frame.io/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Adobe-owned review and collaboration platform for video and motion teams.
     pricing: Free / from $15/mo
     license: Freemium
@@ -21,6 +22,7 @@ entries:
     url_status: ok
   - name: SyncSketch
     url: https://syncsketch.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Autodesk browser-based review and annotation for animation and VFX.
     pricing: Free / from $17/mo
     license: Freemium
@@ -40,6 +42,7 @@ entries:
     url_status: ok
   - name: Cinesync
     url: https://cinesync.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Backlight synced remote review for distributed teams.
     license: Paid
     entry_type: software
@@ -57,6 +60,7 @@ entries:
     url_status: unreachable
   - name: Filestage
     url: https://filestage.io/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Generic creative review and approval workflow.
     license: Paid
     entry_type: software
@@ -72,6 +76,7 @@ entries:
     url_status: ok
   - name: RV (Autodesk/Tweak)
     url: https://www.autodesk.com/products/flow-production-tracking/rv
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Standard playback and review tool, free for personal use; paid for studios.
     license: Freemium
     entry_type: software
@@ -91,6 +96,7 @@ entries:
     deprecated: true
   - name: 5th Kind CORE
     url: https://www.5thkind.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Secure media and production management used on major features. Asset sharing + tracking.
     license: Paid
     entry_type: software
@@ -108,6 +114,7 @@ entries:
     url_status: ok
   - name: Cerebro
     url: https://cerebrohq.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Russian-origin production tracker with built-in messenger and review.
     license: Paid
     entry_type: software
@@ -127,6 +134,7 @@ entries:
     url_status: ok
   - name: Autodesk Flow Capture
     url: https://www.autodesk.com/products/flow-capture
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Live on-set dailies platform (formerly Moxion).
     license: Paid
     entry_type: software
@@ -148,6 +156,7 @@ entries:
     deprecated: true
   - name: Hansoft (Perforce)
     url: https://www.perforce.com/products/hansoft
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Agile PM for games and VFX studios.
     license: Paid
     entry_type: software
@@ -167,6 +176,7 @@ entries:
     url_status: ok
   - name: Anchorpoint
     url: https://www.anchorpoint.app/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Git/Perforce GUI built for artists. Handles large binary assets cleanly.
     pricing: Free / from $14/mo
     license: Freemium
@@ -186,6 +196,7 @@ entries:
     url_status: ok
   - name: Diversion
     url: https://www.diversion.dev/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Cloud version control built for large binary art repositories.
     pricing: Free tier / paid plans
     license: Freemium
@@ -207,6 +218,7 @@ entries:
     url_status: ok
   - name: Snowtrack
     url: https://www.snowtrack.dev/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Git-like version control aimed at artists.
     license: Free
     entry_type: software
@@ -222,6 +234,7 @@ entries:
     url_status: unreachable
   - name: Colorfront
     url: https://colorfront.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: On-set dailies and transcode platform used on major features.
     license: Paid
     entry_type: software
@@ -243,6 +256,7 @@ entries:
     url_status: ok
   - name: FilmLight Daylight
     url: https://www.filmlight.ltd.uk/products/daylight/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Dailies and conform sibling of Baselight, from FilmLight.
     license: Paid
     entry_type: software
@@ -263,6 +277,7 @@ entries:
     url_status: ok
   - name: Sohonet ClearView Flex
     url: https://www.sohonet.com/product/clearview-flex
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Low-latency remote color/review streaming for distributed post.
     license: Paid
     entry_type: software
@@ -281,6 +296,7 @@ entries:
     url_status: ok
   - name: Deadline (AWS Thinkbox)
     url: https://aws.amazon.com/thinkbox-deadline/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Render farm manager. Free since v10.1.23. Deadline 10 in maintenance mode (Nov 2025); AWS pushing managed Deadline Cloud.
     license: Free
     entry_type: software
@@ -304,6 +320,7 @@ entries:
     notes: Maintenance mode since 2025-11-07. Successor is AWS Deadline Cloud (usage-based).
   - name: Flow Production Tracking (Autodesk)
     url: https://www.autodesk.com/products/flow-production-tracking
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Production tracking and review for film/TV/games. Renamed from ShotGrid in March 2024.
     license: Paid
     entry_type: software
@@ -326,6 +343,7 @@ entries:
     deprecated: true
   - name: AYON (Ynput)
     url: https://ynput.io/ayon/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Open-source VFX/animation pipeline platform; successor to OpenPype (archived).
     license: Open Source
     entry_type: software
@@ -350,6 +368,7 @@ entries:
     notes: OpenPype is EOL/archived; AYON is the active successor.
   - name: Royal Render
     url: https://royalrender.de/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Per-node render farm manager for VFX/animation pipelines.
     license: Paid
     entry_type: software
@@ -371,6 +390,7 @@ entries:
     url_status: ok
   - name: Tractor (Pixar)
     url: https://renderman.pixar.com/tractor
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Pixar's render queue/dispatch system, bundled with RenderMan licensing.
     license: Paid
     entry_type: software
@@ -391,6 +411,7 @@ entries:
     url_status: ok
   - name: Fox Renderfarm
     url: https://www.foxrenderfarm.com/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: TPN-accredited CPU + GPU cloud farm. Supports Blender, Maya, 3ds Max, C4D, Houdini with V-Ray, Arnold, Corona, Redshift, Octane, Karma. 24/7 support. $25 free trial.
     license: Paid
     entry_type: tool
@@ -414,6 +435,7 @@ entries:
     url_status: ok
   - name: RebusFarm
     url: https://rebusfarm.net/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: German cloud farm supporting 20+ apps including Blender, 3ds Max, Maya, C4D, SketchUp. CPU 1.33 cents/GHz-hr, GPU 0.50 cents/OB-hr.
     license: Paid
     entry_type: tool
@@ -437,6 +459,7 @@ entries:
     url_status: ok
   - name: GarageFarm.NET
     url: https://garagefarm.net/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: SaaS render farm with automated workflow. Supports Maya, 3ds Max, C4D, Blender, Houdini, Modo. Three pricing tiers based on speed vs budget.
     license: Paid
     entry_type: tool
@@ -460,6 +483,7 @@ entries:
     url_status: ok
   - name: Ranch Computing
     url: https://www.ranchcomputing.com/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: French managed farm focused on Blender, C4D, Maya, 3ds Max, Houdini including Karma XPU. Predictable per-frame pricing.
     license: Paid
     entry_type: tool
@@ -482,6 +506,7 @@ entries:
     url_status: ok
   - name: Super Renders Farm
     url: https://superrendersfarm.com/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: Multi-engine farm with 20k+ Xeon cores and RTX 5090 GPU nodes. Supports V-Ray, Corona, Arnold, Redshift, Octane, Cycles across Blender, Maya, 3ds Max, C4D, Houdini.
     license: Paid
     entry_type: tool
@@ -505,6 +530,7 @@ entries:
     url_status: ok
   - name: Pixel Plow
     url: https://pixelplow.net/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: 3ds Max, After Effects, Blender, and Cinema 4D render farm.
     license: Paid
     entry_type: tool
@@ -527,6 +553,7 @@ entries:
     url_status: ok
   - name: GridMarkets
     url: https://www.gridmarkets.com/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: Houdini-first cloud farm with Mantra, Karma CPU/XPU, PDG/TOP support. Also Maya, C4D, Blender, 3ds Max, Nuke + Arnold, V-Ray, Redshift, RenderMan.
     license: Paid
     entry_type: tool
@@ -548,6 +575,7 @@ entries:
     url_status: ok
   - name: Conductor Technologies
     url: https://www.conductortech.com/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: API-driven render orchestration. Supports 3ds Max, AE, Blender, C4D, Houdini, Maya, Nuke with Arnold, Corona, Cycles, Mantra, Redshift, RenderMan, V-Ray.
     license: Paid
     entry_type: tool
@@ -570,6 +598,7 @@ entries:
     url_status: ok
   - name: iRender
     url: https://irendering.net/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: IaaS dedicated RTX 4090 nodes from ~$8.20/hr. Optimized for Redshift, Octane, Blender, V-Ray, Iray, Maxwell, Houdini, C4D, Maya via remote desktop.
     license: Paid
     entry_type: tool
@@ -592,6 +621,7 @@ entries:
     url_status: ok
   - name: Chaos Cloud
     url: https://www.chaos.com/cloud
+    added_at: '2026-05-20T14:47:05.000Z'
     description: V-Ray native cloud rendering from 3ds Max, Maya, SketchUp, Rhino, C4D. Credits bundled with V-Ray subscription.
     license: Paid
     entry_type: tool
@@ -614,6 +644,7 @@ entries:
     url_status: ok
   - name: Maxon One Cloud
     url: https://www.maxon.net/en/cinema-4d/features/cloud-rendering
+    added_at: '2026-05-20T14:47:05.000Z'
     description: Integrated C4D cloud rendering for Standard, Physical, and Redshift engines. Bundled with Maxon One subscription.
     license: Paid
     entry_type: tool
@@ -637,6 +668,7 @@ entries:
     deprecated: true
   - name: AWS Deadline Cloud
     url: https://aws.amazon.com/deadline-cloud/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: Managed successor to on-prem Deadline. Usage-based pricing on AWS infrastructure with Deadline submitter compatibility.
     license: Paid
     entry_type: tool
@@ -659,6 +691,7 @@ entries:
     url_status: ok
   - name: Drop & Render
     url: https://dropandrender.com/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: Official Redshift and SideFX Karma partner farm. C4D and Blender focus with AOV, Cryptomatte, Redshift proxy, tiled renders.
     license: Paid
     entry_type: tool
@@ -681,6 +714,7 @@ entries:
     url_status: ok
   - name: OTOY Render Cloud (ORC)
     url: https://home.otoy.com/render/orc/
+    added_at: '2026-05-20T14:47:05.000Z'
     description: OTOY cloud rendering for Octane scenes. Pay-as-you-go GPU rendering with ORBX scene packaging.
     license: Paid
     entry_type: tool
@@ -703,6 +737,7 @@ entries:
     url_status: ok
   - name: Yeti (Peregrine Labs)
     url: https://peregrinelabs.com/products/yeti
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Maya plugin for fur, feathers, and procedural instancing.
     license: Paid
     entry_type: software
@@ -723,6 +758,7 @@ entries:
     url_status: ok
   - name: Ornatrix (Ephere)
     url: https://ephere.com/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Hair, fur, and feather plugin for 3ds Max, Maya, C4D, and Unreal.
     license: Paid
     entry_type: software
@@ -744,6 +780,7 @@ entries:
     url_status: ok
   - name: Massive
     url: https://www.massivesoftware.com/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: AI-driven crowd simulation pioneered on Lord of the Rings; Massive Prime + plugins for Maya/Max.
     license: Paid
     entry_type: software
@@ -766,6 +803,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Golaem (Autodesk)
     url: https://www.autodesk.com/solutions/golaem
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Crowd simulation for Maya. Now bundled into Autodesk Media & Entertainment Collection; built into Maya 2026.
     pricing: Bundled in Autodesk M&E Collection ($335/mo or $2,700/yr)
     license: Paid
@@ -788,6 +826,7 @@ entries:
     notes: Standalone purchase removed; only via Autodesk M&E Collection.
   - name: Houdini Engine (SideFX product)
     url: https://www.sidefx.com/products/houdini-engine/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Procedural generation pipeline for Unreal/Unity/Godot.
     license: Paid
     entry_type: software
@@ -806,6 +845,7 @@ entries:
       - game-development/game-dev-ai-procedural
   - name: Articy:draft
     url: https://www.articy.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Professional narrative design middleware.
     license: Paid
     entry_type: software
@@ -822,6 +862,7 @@ entries:
       - game-development/game-dev-dialogue-narrative
   - name: Photon Engine
     url: https://www.photonengine.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cloud multiplayer (PUN, Fusion, Quantum SDKs).
     license: Freemium
     entry_type: software
@@ -840,6 +881,7 @@ entries:
       - game-development/game-dev-networking
   - name: Nakama
     url: https://heroiclabs.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source game server (social, matchmaking, leaderboards).
     license: Open Source
     entry_type: software
@@ -858,6 +900,7 @@ entries:
       - game-development/game-dev-networking
   - name: Epic Online Services
     url: https://dev.epicgames.com/en-US/services
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free multiplayer, matchmaking, voice chat.
     license: Free
     entry_type: software
@@ -874,6 +917,7 @@ entries:
       - game-development/game-dev-networking
   - name: SmartFoxServer 2X
     url: http://docs2x.smartfoxserver.com/ExamplesUnity/introduction
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++.
     license: Freemium
     entry_type: software
@@ -886,6 +930,7 @@ entries:
       - game-development/game-dev-networking
   - name: Perforce Helix Core
     url: https://www.perforce.com/products/helix-core
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Industry standard for large assets (free ≤5 users).
     license: Freemium
     entry_type: software
@@ -904,6 +949,7 @@ entries:
       - game-development/game-dev-version-control
   - name: Plastic SCM / Unity Version Control
     url: https://unity.com/solutions/version-control
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Artist-friendly binary version control.
     license: Freemium
     entry_type: software
@@ -921,6 +967,7 @@ entries:
       - game-development/game-dev-version-control
   - name: Visual Studio (Windows)
     url: https://visualstudio.microsoft.com/es/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official supported IDE for Unity in Windows platform. Mac version [here](https://visualstudio.microsoft.com/es/vs/mac/).
     entry_type: software
     license: Freemium
@@ -940,6 +987,7 @@ entries:
       - game-development/unity-engine-resources
   - name: Prism Pipeline
     url: https://prism-pipeline.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Animation and VFX pipeline.
     license: Freemium
     entry_type: software
@@ -957,6 +1005,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: OpenCue (docs)
     url: https://docs.opencue.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source render management.
     license: Open Source
     entry_type: software
@@ -975,6 +1024,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: ftrack
     url: https://www.ftrack.com/en/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Production tracking.
     license: Paid
     entry_type: software

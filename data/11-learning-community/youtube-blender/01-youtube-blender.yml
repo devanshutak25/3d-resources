@@ -1,6 +1,7 @@
 entries:
   - name: Blender Guru
     url: https://www.youtube.com/@blenderguru
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Classic Blender beginner+ intermediate channel (Andrew Price).
     entry_type: channel
     license: Free
@@ -18,6 +19,7 @@ entries:
         - web
   - name: Grant Abbitt
     url: https://www.youtube.com/@grabbitt
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Beginner-friendly Blender tutorials.
     entry_type: channel
     license: Free
@@ -37,6 +39,7 @@ entries:
     url_status: ok
   - name: Ian Hubert
     url: https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Lazy tutorials and cinematic shorts.
     entry_type: channel
     license: Free
@@ -54,6 +57,7 @@ entries:
         - web
   - name: Ducky 3D
     url: https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Stylized Blender tutorials.
     entry_type: channel
     license: Free
@@ -71,6 +75,7 @@ entries:
         - web
   - name: CG Geek
     url: https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blender tutorials.
     entry_type: channel
     license: Free
@@ -88,6 +93,7 @@ entries:
         - web
   - name: Jayanam
     url: https://www.youtube.com/channel/UCs5J4GVRB8s2P4hE-O0izrg
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blender game art.
     entry_type: channel
     license: Free
@@ -105,6 +111,7 @@ entries:
     url_status: ok
   - name: Blender Official
     url: https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official Blender Foundation channel.
     entry_type: channel
     license: Free
@@ -122,6 +129,7 @@ entries:
         - web
   - name: CGMatter
     url: https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Technical Blender tips.
     entry_type: channel
     license: Free
@@ -139,6 +147,7 @@ entries:
         - web
   - name: Arrimus 3D
     url: https://www.youtube.com/c/Arrimus3D
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Hard-surface modeling tutorials.
     entry_type: channel
     license: Free
@@ -158,6 +167,7 @@ entries:
     url_status: ok
   - name: GraphicLine Games
     url: https://www.youtube.com/@graphiclinegames4843
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Stylized shader and asset tutorials (Ghibli Shader Texture Generator).
     entry_type: channel
     license: Free
@@ -175,6 +185,7 @@ entries:
         - web
   - name: Sandvector Studios
     url: https://www.youtube.com/@sandvectorstudios
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Cartoon cel shader and material tutorials (Face Shadow Texture Generator).
     entry_type: channel
     license: Free
@@ -192,6 +203,7 @@ entries:
         - web
   - name: Royal Skies
     url: https://www.youtube.com/@TheRoyalSkies
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D technical artist. Blender, Unreal, games. Speed tutorials across rigging, shaders, animation.
     entry_type: channel
     license: Free
@@ -209,6 +221,7 @@ entries:
         - web
   - name: CG Boost
     url: https://www.youtube.com/@cgboost
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender beginner tutorial series and courses.
     entry_type: channel
     license: Free
@@ -228,6 +241,7 @@ entries:
         - web
   - name: Olav3D
     url: https://www.youtube.com/@Olav3D
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Blender programming and scripting tutorials.
     entry_type: channel
     license: Free
@@ -247,6 +261,7 @@ entries:
         - web
   - name: Bradley Animation
     url: https://www.youtube.com/@bradleyanimation120
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Geometry Nodes basics for beginners.
     entry_type: channel
     license: Free
@@ -267,6 +282,7 @@ entries:
         - web
   - name: Default Cube
     url: https://www.youtube.com/@DefaultCube
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender procedural and geometry nodes playlists.
     entry_type: channel
     license: Free
@@ -288,6 +304,7 @@ entries:
         - web
   - name: Darkfall
     url: https://www.youtube.com/@DarkfallBlender
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender scripting tutorials.
     entry_type: channel
     license: Free
@@ -307,6 +324,7 @@ entries:
         - web
   - name: 3DCoat Training Channel
     url: https://www.youtube.com/@3DCoatTrainingChannel
+    added_at: '2026-04-19T19:05:38.000Z'
     description: 3DCoat sculpting and texturing tutorials, with native Blender AppLink workflow.
     entry_type: channel
     license: Free
@@ -322,6 +340,7 @@ entries:
         - web
   - name: YanSculpts' Channel
     url: https://www.youtube.com/channel/UCfjswDVU0XHyBN7UFG0Mi5Q/videos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender sculpting tutorials.
     entry_type: channel
     license: Free
@@ -339,6 +358,7 @@ entries:
         - web
   - name: Modeling a character BaseMesh in Blender
     url: https://www.youtube.com/@sociamix
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Character base-mesh modeling in Blender.
     entry_type: channel
     license: Free
@@ -356,6 +376,7 @@ entries:
         - web
   - name: How to composite renders in Blender
     url: https://www.youtube.com/@BlenderBrit
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Compositing Blender renders.
     entry_type: channel
     license: Free
@@ -375,6 +396,7 @@ entries:
         - web
   - name: Blender Render Passes and Very Basic Compositing
     url: https://www.youtube.com/@KevBinge
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Blender render passes and basic compositing.
     entry_type: channel
     license: Free
@@ -394,6 +416,7 @@ entries:
         - web
   - name: Render Passes in Blender - What are they and why even use them?
     url: https://www.youtube.com/@DylanNeill3D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: What Blender render passes are and why to use them.
     entry_type: channel
     license: Free
@@ -413,6 +436,7 @@ entries:
         - web
   - name: How to use blender's compositor to improve a rendered frame sequence
     url: https://www.youtube.com/@garagefarmacademy
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Using Blender's compositor to improve a rendered frame sequence.
     entry_type: channel
     license: Free
@@ -432,6 +456,7 @@ entries:
         - web
   - name: Blender Compositor for Post Processing
     url: https://www.youtube.com/@RenderRides
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Blender compositor for post-processing.
     entry_type: channel
     license: Free
@@ -451,6 +476,7 @@ entries:
         - web
   - name: SouthernShotty
     url: https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg/videos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Stylized modeling, character creation, sculpting.
     entry_type: channel
     license: Free
@@ -468,6 +494,7 @@ entries:
         - web
   - name: Gleb Alexandrov
     url: https://www.youtube.com/@GlebAlexandrov
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Well-known Blender lighting and rendering channel (Gleb Alexandrov).
     entry_type: channel
     license: Free
@@ -485,6 +512,7 @@ entries:
         - web
   - name: Chris Prenninger
     url: https://www.youtube.com/@chrisprenn
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Animation nodes, particle systems, shading.
     entry_type: channel
     license: Free
@@ -502,6 +530,7 @@ entries:
         - web
   - name: FlippedNormals (YouTube)
     url: https://www.youtube.com/@FlippedNormals
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Sculpting, modeling.
     entry_type: channel
     license: Free
@@ -517,6 +546,7 @@ entries:
         - web
   - name: Blender NPR
     url: https://www.youtube.com/@super-bnpr
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Non-Photorealistic and expressive rendering.
     entry_type: channel
     license: Free
@@ -534,6 +564,7 @@ entries:
         - web
   - name: Daniel Krafft - DSO
     url: https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw/videos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender tips, add-ons.
     entry_type: channel
     license: Free
@@ -551,6 +582,7 @@ entries:
         - web
   - name: Imphenzia
     url: https://www.youtube.com/@Imphenzia
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Low poly modeling, rigging.
     entry_type: channel
     license: Free
@@ -568,6 +600,7 @@ entries:
         - web
   - name: CBaileyFilm
     url: https://www.youtube.com/channel/UCXguhzOm29mBTYDuxKjxn5A/videos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender animation projects.
     entry_type: channel
     license: Free
@@ -585,6 +618,7 @@ entries:
         - web
   - name: CG Masters
     url: https://www.youtube.com/@blengine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Modeling, texturing, shading.
     entry_type: channel
     license: Free
@@ -602,6 +636,7 @@ entries:
         - web
   - name: Peter France
     url: https://www.youtube.com/@PeterFrance
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Modeling, texturing, shading, vfx.
     entry_type: channel
     license: Free
@@ -619,6 +654,7 @@ entries:
         - web
   - name: Iridesium
     url: https://www.youtube.com/@Iridesium
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simulation, vfx.
     entry_type: channel
     license: Free
@@ -636,6 +672,7 @@ entries:
         - web
   - name: Giulia Marchetti
     url: https://www.youtube.com/@giulia.delasestrellas
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Sculpting, character modeling.
     entry_type: channel
     license: Free
@@ -653,6 +690,7 @@ entries:
         - web
   - name: CG Fast Track
     url: https://www.youtube.com/@CGFastTrack
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Modeling, animation.
     entry_type: channel
     license: Free
@@ -670,6 +708,7 @@ entries:
         - web
   - name: 3DGreenhorn
     url: https://www.youtube.com/@3dgreenhorn
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Isometric modeling.
     entry_type: channel
     license: Free
@@ -687,6 +726,7 @@ entries:
         - web
   - name: Bad Normals
     url: https://www.youtube.com/@BadNormals
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Modeling, animation.
     entry_type: channel
     license: Free
@@ -704,6 +744,7 @@ entries:
         - web
   - name: Samuel Sullins
     url: https://www.youtube.com/@samuelsullins
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Geometry Nodes, vfx, lowpoly, general.
     entry_type: channel
     license: Free
@@ -721,6 +762,7 @@ entries:
         - web
   - name: CG Python
     url: https://www.youtube.com/@CGPython
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender Python scripting tips and tricks.
     entry_type: channel
     license: Free
@@ -740,6 +782,7 @@ entries:
         - web
   - name: Blender Sushi
     url: https://blendersushi.blogspot.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 3D ideas, experiments and generative work in Blender.
     license: Free
     entry_type: channel

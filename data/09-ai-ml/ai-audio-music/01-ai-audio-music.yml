@@ -1,6 +1,7 @@
 entries:
   - name: AudioCraft (MusicGen / AudioGen / EnCodec)
     url: https://audiocraft.metademolab.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Meta's open audio generation stack. MusicGen for music, AudioGen for SFX, EnCodec for neural audio compression.
     license: Open Source
     entry_type: tool
@@ -21,6 +22,7 @@ entries:
       - SFX Gen
   - name: COVAL
     url: https://app.coval.dev/the-ultimate-voice-ai-stack
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Guide to building, scaling, and evaluating voice AI, from speech recognition to emotional intelligence.
     license: Free
     entry_type: tutorial

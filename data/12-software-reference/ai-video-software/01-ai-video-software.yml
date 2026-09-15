@@ -1,6 +1,7 @@
 entries:
   - name: Veo 3.1 (Google DeepMind)
     url: https://deepmind.google/technologies/veo/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Top leaderboard, native audio, 60s+ clips.
     license: Paid
     entry_type: software
@@ -17,6 +18,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Runway Gen-4.5
     url: https://runwayml.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion brushes and scene consistency on the GWM-1 world model.
     license: Freemium
     entry_type: software
@@ -33,6 +35,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Sora (OpenAI)
     url: https://sora.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: OpenAI video model. App and web discontinued Apr 2026, API sunsets Sep 2026.
     license: Paid
     entry_type: software
@@ -50,6 +53,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Kling 3.0
     url: https://klingai.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Up to 5min clips, strong human motion. Motion Brush control.
     license: Freemium
     entry_type: software
@@ -66,6 +70,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Pika 2.0
     url: https://pika.art/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Extended video gen with improved consistency.
     license: Freemium
     entry_type: software
@@ -82,6 +87,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Hailuo AI / MiniMax
     url: https://hailuoai.video/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: '"Director" model. Strong motion and character consistency.'
     license: Freemium
     entry_type: software
@@ -98,6 +104,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Luma Dream Machine
     url: https://lumalabs.ai/dream-machine
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Atmospheric image-to-video. Ray3 is the first native 16-bit HDR video model.
     license: Freemium
     entry_type: software
@@ -114,6 +121,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: HunyuanVideo 1.5
     url: https://github.com/Tencent-Hunyuan/HunyuanVideo
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source 8.3B params, runs on 14GB VRAM.
     license: Open Source
     entry_type: software
@@ -131,6 +139,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Wan 2.2 (Alibaba)
     url: https://huggingface.co/ali-vilab/Wan
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cinematic MoE diffusion, 8GB+ VRAM. Open source.
     license: Open Source
     entry_type: software
@@ -148,6 +157,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: LTX-2 (Lightricks)
     url: https://github.com/Lightricks/LTX-Video
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Fast open video model. LTX-2 Fast ranks top-3 in the arena.
     license: Open Source
     entry_type: software
@@ -166,6 +176,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Vidu
     url: https://www.vidu.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 16s clips, strong human motion (Shengshu).
     license: Freemium
     entry_type: software
@@ -182,6 +193,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: PixVerse
     url: https://pixverse.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Style-specific modes (anime, 3D, realistic), character consistency.
     license: Freemium
     entry_type: software
@@ -198,6 +210,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Haiper
     url: https://haiper.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Ex-DeepMind team, animation and video-to-video modes.
     license: Freemium
     entry_type: software
@@ -214,6 +227,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Genmo Mochi 1
     url: https://www.genmo.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source video gen model.
     license: Open Source
     entry_type: software
@@ -231,6 +245,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Cog Video X
     url: https://github.com/THUDM/CogVideo
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Tsinghua/Zhipu open-source, multiple sizes.
     license: Open Source
     entry_type: software
@@ -248,6 +263,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Seedance 2.0 (ByteDance)
     url: https://seed.bytedance.com/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: High raw quality video gen with audio. Tops the Artificial Analysis ranking.
     license: Paid
     entry_type: software
@@ -266,6 +282,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Google Flow
     url: https://labs.google/flow
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Filmmaking app over Veo with scenebuilder and ingredients-to-video.
     license: Paid
     entry_type: software
@@ -284,6 +301,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: LTX Studio
     url: https://ltx.studio/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Pre-production to video pipeline with storyboards, character consistency, and timeline.
     license: Freemium
     entry_type: software
@@ -302,6 +320,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Frameo
     url: https://frameo.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Script to cinematic video with scenes, characters, audio, and timeline assembly.
     license: Freemium
     entry_type: software
@@ -320,6 +339,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Drawstory
     url: https://www.drawstory.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Cinematography and story sequencing with strong character continuity.
     license: Freemium
     entry_type: software
@@ -338,6 +358,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Mootion
     url: https://www.mootion.com/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Idea to a 2-minute cinematic video in one tool.
     license: Freemium
     entry_type: software
@@ -355,6 +376,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: HeyGen
     url: https://www.heygen.com/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: AI avatar marketing videos with a talking-head focus.
     license: Freemium
     entry_type: software
@@ -372,6 +394,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: InVideo AI
     url: https://invideo.io/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Prompt to video for marketing and social content.
     license: Freemium
     entry_type: software
@@ -389,6 +412,7 @@ entries:
       - ai-ml-for-cg/video-generation
   - name: Morphic
     url: https://morphic.com/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: AI film studio for story-driven video.
     license: Paid
     entry_type: software

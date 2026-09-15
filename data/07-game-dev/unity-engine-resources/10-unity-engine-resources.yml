@@ -1,6 +1,7 @@
 entries:
   - name: SpriteDicing
     url: https://github.com/Elringus/SpriteDicing
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity extension for reusing sprite texture areas to cut memory.
     license: Open Source
     entry_type: plugin
@@ -21,6 +22,7 @@ entries:
         - unity-plugin
   - name: Unity Bitmap Drawing
     url: https://github.com/ProtoTurtle/UnityBitmapDrawing
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Bitmap drawing API extension methods for Unity's Texture2D class.
     entry_type: plugin
     license: Open Source
@@ -43,6 +45,7 @@ entries:
     last_pushed: '2014-06-12'
   - name: U Texture Send Receive
     url: https://github.com/BarakChamo/uTextureSendReceive
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity network texture sender and receiver for video and frame streaming.
     entry_type: plugin
     license: Open Source
@@ -65,6 +68,7 @@ entries:
     last_pushed: '2018-07-30'
   - name: Unity Resource Checker
     url: https://github.com/handcircus/Unity-Resource-Checker
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Editor utility to check scene resources in Unity, including textures, materials, meshes, and which objects use them.
     entry_type: plugin
     license: Open Source
@@ -87,6 +91,7 @@ entries:
     last_pushed: '2022-02-20'
   - name: CropTexture
     url: https://github.com/natsupy/CropTexture
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Crop and resize textures in the Unity editor.
     entry_type: plugin
     license: Open Source
@@ -109,6 +114,7 @@ entries:
     last_pushed: '2017-09-01'
   - name: Unity Preview Generator
     url: https://github.com/klhurley/UnityPreviewGenerator
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Generates preview textures and icons for Unity models and sprites.
     entry_type: plugin
     license: Open Source
@@ -131,6 +137,7 @@ entries:
     last_pushed: '2019-02-03'
   - name: TexturePanner
     url: https://github.com/AdultLink/TexturePanner
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity shader for scrolling-texture effects like neon signs and conveyor belts.
     entry_type: plugin
     license: Open Source
@@ -153,6 +160,7 @@ entries:
     last_pushed: '2022-03-09'
   - name: CurveTexture
     url: https://github.com/slipster216/CurveTexture
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Encode arbitrary curves into textures and apply them to materials or shader properties.
     entry_type: plugin
     license: Open Source
@@ -175,6 +183,7 @@ entries:
     last_pushed: '2017-07-05'
   - name: Unity Texture Packer
     url: https://github.com/andydbc/unity-texture-packer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Combines color channels from different textures into a single output.
     entry_type: plugin
     license: Open Source
@@ -195,6 +204,7 @@ entries:
         - unity-plugin
   - name: WaveformProvider
     url: https://github.com/EsProgram/WaveformProvider
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Generates a texture that simulates waves in Unity.
     entry_type: plugin
     license: Open Source
@@ -217,6 +227,7 @@ entries:
     last_pushed: '2018-05-12'
   - name: Animation Texture Baker
     url: https://github.com/zulfajuniadi/Animation-Texture-Baker
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Bakes legacy animations into textures, targeting ECS.
     entry_type: plugin
     license: Open Source
@@ -239,6 +250,7 @@ entries:
     last_pushed: '2018-07-18'
   - name: AudioTexture
     url: https://github.com/TyounanMOTI/AudioTexture
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Generates a Unity Texture2D from an AudioClip.
     entry_type: plugin
     license: Open Source
@@ -261,6 +273,7 @@ entries:
     last_pushed: '2019-03-09'
   - name: UVPreview
     url: https://github.com/AsehesL/UVPreview
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Preview UV islands for textures in the Unity inspector.
     entry_type: plugin
     license: Open Source
@@ -284,6 +297,7 @@ entries:
     last_pushed: '2019-07-21'
   - name: Texture3DPreview for Unity
     url: https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Interactive previews of Texture3D assets in the Unity inspector.
     entry_type: plugin
     license: Open Source
@@ -306,6 +320,7 @@ entries:
     last_pushed: '2017-10-30'
   - name: Unity BitmapFontImporter
     url: https://github.com/litefeel/Unity-BitmapFontImporter
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity editor extension for importing bitmap fonts.
     license: Open Source
     entry_type: plugin
@@ -323,6 +338,7 @@ entries:
         - opensource-alt
   - name: Unity Stb Easy Font
     url: https://github.com/aras-p/UnityStbEasyFont
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Port of stb_easy_font.h to Unity and C#.
     license: Open Source
     entry_type: plugin
@@ -342,6 +358,7 @@ entries:
     last_pushed: '2015-11-07'
   - name: Gizmos
     url: https://github.com/popcron/gizmos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Draw runtime gizmos in builds and the editor in Unity.
     entry_type: plugin
     license: Open Source

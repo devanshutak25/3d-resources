@@ -1,6 +1,7 @@
 entries:
   - name: Blender Debugger For Vscode
     url: https://github.com/AlansCodeLog/blender-debugger-for-vscode
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Addon for remote-debugging Blender from VS Code or Visual Studio.
     entry_type: plugin
     license: Open Source
@@ -23,6 +24,7 @@ entries:
     last_pushed: '2022-12-20'
   - name: Geometry Script
     url: https://github.com/carson-katri/geometry-script
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Python scripting API for Blender Geometry Nodes, making node trees easier to build and share.
     entry_type: plugin
     license: Open Source
@@ -45,6 +47,7 @@ entries:
         - linux
   - name: Hi Phy Engine
     url: https://hiphyengine.github.io/
+    added_at: '2026-04-19T20:40:29.000Z'
     description: High-fidelity physics engine addon with a unified solver for rigid body, cloth, hair, soft body and MPM snow/sand, with intersection-free continuous collision detection.
     license: Paid
     entry_type: plugin
@@ -69,6 +72,7 @@ entries:
     url_status: ok
   - name: CharMorph
     url: https://blenderartists.org/t/charmorph-character-creation-tool-mb-lab-based/1252543
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open source character creation tool for Blender, a rewrite of the now-unmaintained MB-Lab.
     entry_type: plugin
     license: Open Source
@@ -89,6 +93,7 @@ entries:
         - linux
   - name: HDRI Sun Aligner
     url: https://github.com/akej74/hdri-sun-aligner
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Automatically rotates a sun to match the brightest point in an HDRI environment texture.
     license: Open Source
     entry_type: plugin
@@ -110,6 +115,7 @@ entries:
     last_pushed: '2024-03-11'
   - name: Geometry Nodes Pipes
     url: https://raywakui.gumroad.com/l/pcxni
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Geometry Nodes addon for generating complex pipe layouts in Blender.
     entry_type: plugin
     license: Paid
@@ -133,6 +139,7 @@ entries:
       - geometry-nodes
   - name: Auto Terrainer
     url: https://unicornhunter.gumroad.com/l/AutoTerrainer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Turns any low-poly mesh into customizable terrain like mountains, valleys and islands in Blender.
     entry_type: plugin
     license: Paid
@@ -155,6 +162,7 @@ entries:
       - terrain
   - name: Glsl Texture
     url: https://github.com/patriciogonzalezvivo/glslTexture
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Create textures from GLSL fragment shaders in Blender.
     license: Open Source
     entry_type: plugin
@@ -177,6 +185,7 @@ entries:
     last_pushed: '2023-02-11'
   - name: Bystedts Blender Baker
     url: https://3dbystedt.gumroad.com/l/JAqLT
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Streamlines texture baking in Blender.
     license: Paid
     entry_type: plugin
@@ -196,6 +205,7 @@ entries:
         - linux
   - name: Sculpt Alphas Manager
     url: https://blenderartists.org/t/sculpt-alphas-manager/1200725
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Quickly switch alpha textures for sculpt brushes in Blender.
     license: Free
     entry_type: plugin
@@ -215,6 +225,7 @@ entries:
         - linux
   - name: Poliigon Blender Addon
     url: https://help.poliigon.com/en/articles/6342599
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Browse, download and import Poliigon textures, models and HDRs from inside Blender, with material generation from texture sets.
     entry_type: plugin
     license: Free
@@ -234,6 +245,7 @@ entries:
         - linux
   - name: EasyBake
     url: https://github.com/leukbaars/EasyBake
+    added_at: '2026-04-19T17:29:43.000Z'
     description: One-click texture baking UI in the Blender 3D viewport.
     entry_type: plugin
     license: Open Source
@@ -256,6 +268,7 @@ entries:
     last_pushed: '2022-10-26'
   - name: PBR Texture Mapper
     url: https://github.com/jayanam/pbr_texture_mapper
+    added_at: '2026-04-19T17:29:43.000Z'
     description: One-click PBR node setup in Blender.
     entry_type: plugin
     license: Open Source
@@ -279,6 +292,7 @@ entries:
     last_pushed: '2019-01-06'
   - name: Principled Baker
     url: https://github.com/danielenger/Principled-Baker
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Bake PBR textures from the Principled BSDF in a few clicks.
     entry_type: plugin
     license: Open Source
@@ -302,6 +316,7 @@ entries:
     last_pushed: '2023-09-27'
   - name: UcuPaint
     url: https://github.com/ucupumar/ucupaint
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Manage texture layers for EEVEE and Cycles in Blender.
     entry_type: plugin
     license: Open Source
@@ -322,6 +337,7 @@ entries:
         - linux
   - name: MPFB
     url: http://static.makehumancommunity.org/mpfb.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open source human generator for Blender, a full rewrite of MakeHuman as an addon.
     entry_type: plugin
     license: Open Source
@@ -343,6 +359,7 @@ entries:
         - linux
   - name: Welder
     url: https://blenderartists.org/t/welder/672478
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Generates weld seams between meshes in Blender.
     entry_type: plugin
     license: Free
@@ -364,6 +381,7 @@ entries:
         - linux
   - name: Array Tools
     url: https://blenderartists.org/t/array-tools-all-in-one-for-translation-scale-and-rotation-array/1170295?u=peetie
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Create translation, scale and rotation arrays with offset or global parameters in any direction.
     entry_type: plugin
     license: Open Source
@@ -385,6 +403,7 @@ entries:
         - linux
   - name: Mesh Heal
     url: https://blenderartists.org/t/mesh-heal/1117095
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Extra Blender operators for healing and repairing surface meshes.
     entry_type: plugin
     license: Free
@@ -406,6 +425,7 @@ entries:
         - linux
   - name: Drop It
     url: https://blenderartists.org/t/drop-it-free-addon/1244259/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Drops objects quickly onto the ground or a surface in Blender.
     entry_type: plugin
     license: Free
@@ -427,6 +447,7 @@ entries:
         - linux
   - name: JARCH Vis
     url: https://blenderartists.org/t/addon-jarch-vis/642607
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Generates common architectural-visualization objects in Blender.
     entry_type: plugin
     license: Open Source
@@ -448,6 +469,7 @@ entries:
         - archviz
   - name: Wiggle Bones
     url: https://blenderartists.org/t/wiggle-2/1454788
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Jiggle-bone physics for Blender rigs.
     entry_type: plugin
     license: Open Source
@@ -469,6 +491,7 @@ entries:
         - linux
   - name: TexTools
     url: https://blenderartists.org/t/textools-for-blender/700811
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free UV and texturing toolset for Blender.
     entry_type: plugin
     license: Open Source
@@ -491,6 +514,7 @@ entries:
         - linux
   - name: EZ Baker
     url: https://blenderartists.org/t/ez-baker/1245869
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simpler alternative to Blender's default texture-bake system.
     entry_type: plugin
     license: Open Source
@@ -513,6 +537,7 @@ entries:
         - linux
   - name: V HACD
     url: https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Decomposes a 3D surface into near-convex parts for accurate collision meshes.
     entry_type: plugin
     license: Open Source
@@ -534,6 +559,7 @@ entries:
         - games
   - name: Multi User
     url: https://blenderartists.org/t/multi-user/1187118
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Real-time collaborative editing inside Blender.
     entry_type: plugin
     license: Open Source
@@ -554,6 +580,7 @@ entries:
         - linux
   - name: Theme Switcher
     url: https://blenderartists.org/t/theme-switcher/1211787
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Switch the active Blender theme without leaving the 3D View.
     entry_type: plugin
     license: Free
@@ -573,6 +600,7 @@ entries:
         - linux
   - name: Lodify
     url: https://devtalk.blender.org/t/level-of-detail-addon/12840
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Level-of-detail and proxy system for Blender.
     entry_type: plugin
     license: Open Source
@@ -592,6 +620,7 @@ entries:
         - games
   - name: Typewriter
     url: https://github.com/doakey3/blender-typewriter-addon
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Typewriter text animation for font objects in Blender.
     license: Open Source
     entry_type: plugin
@@ -613,6 +642,7 @@ entries:
     last_pushed: '2024-02-05'
   - name: FontSelector
     url: https://github.com/samytichadou/FontSelector_blender_addon/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Font management inside Blender.
     license: Open Source
     entry_type: plugin
@@ -630,6 +660,7 @@ entries:
         - linux
   - name: Engraver
     url: https://gumroad.com/l/qOyVO
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Carves decals into 3D models in Blender.
     license: Paid
     entry_type: plugin
@@ -648,6 +679,7 @@ entries:
         - linux
   - name: WoT Tank Viewer
     url: https://bitbucket.org/SkepticalFox/bigworld-blender-tools-wot-wowp-wows
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender plugins to view 3D models from World of Tanks.
     license: Open Source
     entry_type: plugin
@@ -666,6 +698,7 @@ entries:
         - games
   - name: FaceBuilder
     url: https://www.keentools.io/download/facebuilder-for-blender
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Builds photorealistic 3D face and head models from a few neutral-expression photos in Blender.
     license: Paid
     entry_type: plugin
@@ -686,6 +719,7 @@ entries:
         - linux
   - name: Sketchfab Blender Addon
     url: https://github.com/sketchfab/blender-plugin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Import and export models between Blender and Sketchfab.
     license: Open Source
     entry_type: plugin
@@ -705,6 +739,7 @@ entries:
         - linux
   - name: Curtis Holt Store
     url: https://curtisholt.online/store
+    added_at: '2026-05-05T21:21:30.000Z'
     description: Curtis Holt's storefront for Blender addons and learning products.
     license: Paid
     entry_type: marketplace
@@ -719,6 +754,7 @@ entries:
         - web
   - name: AutoRemesher Blender Bridge
     url: https://github.com/adriflex/autoremesher-blender-bridge
+    added_at: '2026-07-17T07:01:34.000Z'
     description: Blender addon that runs AutoRemesher on selected meshes and imports the quad result back into the scene.
     license: Open Source
     entry_type: plugin

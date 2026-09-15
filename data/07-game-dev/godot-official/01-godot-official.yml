@@ -1,6 +1,7 @@
 entries:
   - name: Godot Documentation
     url: https://docs.godotengine.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official docs. GDScript, C#, 2D/3D, shaders, physics, networking.
     license: Free
     entry_type: reference
@@ -19,6 +20,7 @@ entries:
         - godot
   - name: Godot Asset Store
     url: https://store.godotengine.org/
+    added_at: '2026-05-08T14:07:42.000Z'
     description: Official addon, plugin, and asset marketplace (beta). Replaces the legacy Asset Library.
     license: Free
     entry_type: marketplace
@@ -37,6 +39,7 @@ entries:
         - godot
   - name: Godot Shaders
     url: https://godotshaders.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Community shader library with visual previews.
     license: Free
     entry_type: asset-source
@@ -57,6 +60,7 @@ entries:
     url_status: ok
   - name: Godot Proposals
     url: https://github.com/godotengine/godot-proposals
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Feature request tracker and roadmap.
     license: Free
     entry_type: reference

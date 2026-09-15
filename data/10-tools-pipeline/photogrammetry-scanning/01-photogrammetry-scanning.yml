@@ -1,6 +1,7 @@
 entries:
   - name: SuperSplat
     url: https://github.com/playcanvas/supersplat
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
     license: Open Source
     entry_type: tool
@@ -22,6 +23,7 @@ entries:
       - Splat Editor
   - name: Meshroom
     url: https://github.com/alicevision/meshroom
+    added_at: '2026-04-16T21:13:44.000Z'
     description: AliceVision photogrammetry pipeline. Reconstructs 3D meshes from photos.
     license: Open Source
     entry_type: tool
@@ -45,6 +47,7 @@ entries:
       - Open Source
   - name: Polyscope
     url: https://github.com/nmwsharp/polyscope
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A C++ & Python viewer for 3D data like meshes and point clouds.
     license: Open Source
     entry_type: tool
@@ -66,6 +69,7 @@ entries:
       - Open Source
   - name: Gaussian Splatting is pretty cool
     url: https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Aras Pranckevicius blog. How Gaussian Splatting works under the hood.
     license: Free
     entry_type: reference
@@ -85,6 +89,7 @@ entries:
       - Gaussian Splat
   - name: Making Gaussian Splats smaller
     url: https://aras-p.info/blog/2023/09/13/Making-Gaussian-Splats-smaller/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Aras Pranckevicius blog. Shrinking Gaussian Splat file sizes.
     license: Free
     entry_type: reference
@@ -104,6 +109,7 @@ entries:
       - Optimization
   - name: Making Gaussian Splats more smaller
     url: https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Aras Pranckevicius blog. Further Gaussian Splat size reduction.
     license: Free
     entry_type: reference
@@ -123,6 +129,7 @@ entries:
       - Optimization
   - name: Compressing Gaussian Splats
     url: https://blog.playcanvas.com/compressing-gaussian-splats/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: PlayCanvas blog. Compressing Gaussian Splat data for the web.
     license: Free
     entry_type: reference
@@ -142,6 +149,7 @@ entries:
       - Compression
   - name: '3D in Geospatial: NeRFs, Gaussian Splatting, and Spatial Computing'
     url: https://ckoziol.com/blog/2024/radiance_methods/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blog. Applying NeRFs and Gaussian Splatting to geospatial 3D mapping.
     license: Free
     entry_type: reference
@@ -163,6 +171,7 @@ entries:
     deprecated: true
   - name: Photogrammetry Importer
     url: https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Addon to import different photogrammetry formats into Blender.
     license: Open Source
     entry_type: plugin
@@ -187,6 +196,7 @@ entries:
       - Open Source
   - name: Photogrammetry Guide
     url: https://github.com/mikeroyal/Photogrammetry-Guide
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Guide to photogrammetry covering applications, libraries, and tools.
     license: Free
     entry_type: reference
@@ -206,6 +216,7 @@ entries:
       - Awesome List
   - name: NeRF
     url: https://github.com/bmild/nerf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Mildenhall et al., 2020. Original NeRF reference implementation.
     license: Open Source
     entry_type: reference
@@ -227,6 +238,7 @@ entries:
       - Original
   - name: NeRF-PyTorch (yenchenlin)
     url: https://github.com/yenchenlin/nerf-pytorch
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Yen-Chen Lin, 2020. Faithful PyTorch reimplementation of NeRF.
     license: Open Source
     entry_type: reference
@@ -247,6 +259,7 @@ entries:
       - GitHub
   - name: NeRF-PyTorch-Lightning (nerf_pl)
     url: https://github.com/kwea123/nerf_pl
+    added_at: '2026-04-19T17:29:43.000Z'
     description: kwea123, 2020. NeRF in PyTorch-Lightning.
     license: Open Source
     entry_type: reference
@@ -269,6 +282,7 @@ entries:
     last_pushed: '2023-08-03'
   - name: NeRF-W (nerf_pl)
     url: https://github.com/kwea123/nerf_pl/tree/nerfw
+    added_at: '2026-04-19T17:29:43.000Z'
     description: kwea123, 2021. NeRF in the Wild reimplementation.
     license: Open Source
     entry_type: reference
@@ -291,6 +305,7 @@ entries:
     last_pushed: '2023-08-03'
   - name: NeRF (PyTorch3D)
     url: https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: facebookresearch, 2020. NeRF project inside PyTorch3D.
     license: Open Source
     entry_type: reference
@@ -311,6 +326,7 @@ entries:
       - GitHub
   - name: JaxNeRF
     url: https://github.com/google-research/google-research/tree/master/jaxnerf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Deng et al., 2020. JAX NeRF with multi-device training.
     license: Open Source
     entry_type: reference
@@ -331,6 +347,7 @@ entries:
       - GitHub
   - name: Mip-NeRF
     url: https://github.com/google/mipnerf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: google, 2021. Anti-aliased NeRF reference implementation.
     license: Open Source
     entry_type: reference
@@ -354,6 +371,7 @@ entries:
     last_pushed: '2022-10-10'
   - name: MrNeRF (awesome-3D-gaussian-splatting)
     url: https://github.com/MrNeRF/awesome-3D-gaussian-splatting
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Curated awesome-list of 3D Gaussian Splatting papers, tools, and viewers.
     license: Free
     entry_type: reference
@@ -373,6 +391,7 @@ entries:
       - GitHub
   - name: Nerfstudio gsplat
     url: https://github.com/nerfstudio-project/gsplat
+    added_at: '2026-04-19T17:29:43.000Z'
     description: CUDA-accelerated Gaussian Splatting library integrated with Nerfstudio (Apache-2.0).
     license: Open Source
     entry_type: tool
@@ -396,6 +415,7 @@ entries:
       - Apache-2.0
   - name: Gaussian Splatting 3D
     url: https://github.com/heheyas/gaussian_splatting_3d
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Python/CUDA Gaussian Splatting implementation.
     license: Open Source
     entry_type: reference
@@ -417,6 +437,7 @@ entries:
     last_pushed: '2023-07-27'
   - name: 3D Gaussian Splatting (WangFeng18 reimpl)
     url: https://github.com/WangFeng18/3d-gaussian-splatting
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Python/CUDA Gaussian Splatting reimplementation (MIT).
     license: Open Source
     entry_type: reference
@@ -436,6 +457,7 @@ entries:
       - Reimpl
   - name: 3D Gaussian Splatting (joeyan reimpl)
     url: https://github.com/joeyan/gaussian_splatting
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Python/CUDA Gaussian Splatting reimplementation (MIT).
     license: Open Source
     entry_type: reference
@@ -455,6 +477,7 @@ entries:
       - Reimpl
   - name: 'Direct Gaussian Style Optimization (DGSO): Stylizing 3D Gaussian Splats'
     url: https://github.com/An-u-rag/stylized-gaussian-splatting
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Applying style transfer during gaussian optimization to produce stylized gaussian splats of a scene.
     license: Open Source
     entry_type: reference
@@ -476,6 +499,7 @@ entries:
     last_pushed: '2024-05-09'
   - name: Nerfstudio Unofficial
     url: https://github.com/yzslab/nerfstudio/tree/gaussian_splatting
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unofficial Nerfstudio fork adding Gaussian Splatting support.
     license: Open Source
     entry_type: reference

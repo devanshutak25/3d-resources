@@ -1,6 +1,7 @@
 entries:
   - name: TrenchBroom
     url: https://trenchbroom.github.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Quake-style level editor, great for blockouts.
     license: Open Source
     entry_type: software
@@ -19,6 +20,7 @@ entries:
       - game-development/game-dev-level-design
   - name: LDtk
     url: https://ldtk.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Modern 2D level editor by Dead Cells creator.
     license: Open Source
     entry_type: software
@@ -37,6 +39,7 @@ entries:
       - game-development/game-dev-level-design
   - name: Tiled
     url: https://www.mapeditor.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: General-purpose tilemap editor. TMX format.
     license: Open Source
     entry_type: software
@@ -55,6 +58,7 @@ entries:
       - game-development/game-dev-level-design
   - name: OGMO Editor 3
     url: https://ogmo-editor-3.github.io/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Free project-based 2D level editor with grid and entity layers.
     license: Open Source
     entry_type: software
@@ -67,6 +71,7 @@ entries:
       - game-development/game-dev-level-design
   - name: Sprite Fusion
     url: https://spritefusion.com/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
     license: Free
     entry_type: software
@@ -79,6 +84,7 @@ entries:
       - game-development/game-dev-level-design
   - name: Mappy
     url: http://tilemap.co.uk/mappy.php
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Free tilemap editor.
     license: Free
     entry_type: software
@@ -91,6 +97,7 @@ entries:
       - game-development/game-dev-level-design
   - name: Perilous Shores
     url: https://watabou.itch.io/perilous-shores
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Fantasy region generator
     license: Free
     entry_type: tool
@@ -105,6 +112,7 @@ entries:
     url_status: ok
   - name: Village Generator
     url: https://watabou.itch.io/village-generator
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Randomly generated village maps
     license: Free
     entry_type: tool
@@ -119,6 +127,7 @@ entries:
     url_status: ok
   - name: One Page Dungeon
     url: https://watabou.itch.io/one-page-dungeon
+    added_at: '2026-05-01T15:46:53.000Z'
     description: One page dungeon generator
     license: Free
     entry_type: tool

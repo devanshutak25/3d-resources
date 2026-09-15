@@ -1,6 +1,7 @@
 entries:
   - name: Comfy UI Manager
     url: https://github.com/Comfy-Org/ComfyUI-Manager
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Install and manage custom nodes and dependencies.
     license: Open Source
     entry_type: plugin
@@ -20,6 +21,7 @@ entries:
         - linux
   - name: ComfyUI Registry
     url: https://comfyui.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Community workflow and subgraph sharing.
     license: Free
     entry_type: marketplace
@@ -35,6 +37,7 @@ entries:
         - web
   - name: Awesome ComfyUI
     url: https://github.com/ComfyUI-Workflow/awesome-comfyui
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Curated custom nodes collection.
     license: Open Source
     entry_type: reference
@@ -51,6 +54,7 @@ entries:
         - web
   - name: Comflowy
     url: https://www.comflowy.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: ComfyUI tutorials for ControlNet, SDXL, FLUX workflows.
     license: Free
     entry_type: tutorial
@@ -68,6 +72,7 @@ entries:
         - intermediate
   - name: ControlNet SD3.5
     url: https://blog.comfy.org/p/sd3-5-large-controlnet
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blur/Canny/Depth models, free commercial use.
     license: Free
     entry_type: plugin

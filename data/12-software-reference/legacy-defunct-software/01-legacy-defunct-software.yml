@@ -1,6 +1,7 @@
 entries:
   - name: Softimage XSI
     url: https://en.wikipedia.org/wiki/Autodesk_Softimage
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Autodesk's character/VFX DCC, discontinued April 2014. ICE node graph predated Bifrost. Used on Half-Life 2 and District 9.
     license: Paid
     entry_type: software
@@ -25,6 +26,7 @@ entries:
     url_status: ok
   - name: Softimage|3D
     url: https://en.wikipedia.org/wiki/Softimage_3D
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Softimage Inc.'s 1988–2005 character animation DCC. Used on Jurassic Park and Titanic. Defined 90s character UX.
     license: Paid
     entry_type: software
@@ -44,6 +46,7 @@ entries:
     url_status: ok
   - name: Alias PowerAnimator / Studio
     url: https://en.wikipedia.org/wiki/PowerAnimator
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Alias Research 1985–1998 DCC. Used on T2 and Jurassic Park morphs. Direct ancestor of Maya.
     license: Paid
     entry_type: software
@@ -60,6 +63,7 @@ entries:
     url_status: ok
   - name: Wavefront Advanced Visualizer
     url: https://en.wikipedia.org/wiki/Wavefront_Technologies
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Wavefront Technologies 1984–1995 DCC. Source of the OBJ file format.
     license: Paid
     entry_type: software
@@ -77,6 +81,7 @@ entries:
     url_status: ok
   - name: 3D Studio (DOS)
     url: https://en.wikipedia.org/wiki/3D_Studio
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Yost Group / Autodesk DOS DCC, 1990–1996. Predecessor of 3D Studio MAX. Democratized 3D on PC.
     license: Paid
     entry_type: software
@@ -93,6 +98,7 @@ entries:
     url_status: ok
   - name: trueSpace
     url: https://en.wikipedia.org/wiki/TrueSpace
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Caligari Corp DCC, 1994–2009. Acquired by Microsoft and killed. Early real-time viewport pioneer.
     license: Free
     entry_type: software
@@ -109,6 +115,7 @@ entries:
     url_status: ok
   - name: Mirai / N-World
     url: https://en.wikipedia.org/wiki/Mirai_(software)
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Nichimen Graphics / Izware polygon DCC, 1990s–early 2000s. Used on Gollum facial animation (LOTR).
     license: Paid
     entry_type: software
@@ -125,6 +132,7 @@ entries:
     url_status: ok
   - name: Carrara
     url: https://www.daz3d.com/carrara-8-5-pro
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Eovia/DAZ DCC. Last update 2017 (v8.5). Effectively dead.
     license: Paid
     entry_type: software
@@ -142,6 +150,7 @@ entries:
     url_status: ok
   - name: Bryce
     url: https://www.daz3d.com/bryce-7-pro
+    added_at: '2026-05-22T16:39:01.000Z'
     description: MetaCreations → Corel → DAZ fractal landscape DCC. Last release 2010. Pioneer of consumer ray-tracing.
     license: Paid
     entry_type: software
@@ -159,6 +168,7 @@ entries:
     url_status: ok
   - name: Vue (E-on)
     url: https://info.e-onsoftware.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: E-on environment/landscape DCC. Acquired by Bentley 2015, line discontinued 2023. Used on Avatar's Pandora.
     license: Paid
     entry_type: software
@@ -176,6 +186,7 @@ entries:
     url_status: ok
   - name: Mudbox
     url: https://www.autodesk.com/products/mudbox
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Skymatter → Autodesk sculptor. Maintenance only since 2018. Lost the sculpting war to ZBrush.
     license: Paid
     entry_type: software
@@ -195,6 +206,7 @@ entries:
     url_status: ok
   - name: BodyPaint 3D
     url: https://en.wikipedia.org/wiki/BodyPaint_3D
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Maxon standalone 3D paint. Folded into Cinema 4D ~2018.
     license: Paid
     entry_type: software
@@ -210,6 +222,7 @@ entries:
     url_status: ok
   - name: Mental Ray
     url: https://en.wikipedia.org/wiki/Mental_Ray
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Mental Images → Nvidia renderer. Killed Nov 2017. Default Maya/Max renderer through the 2000s.
     license: Paid
     entry_type: software
@@ -228,6 +241,7 @@ entries:
     url_status: ok
   - name: BMRT (Blue Moon Rendering Tools)
     url: https://en.wikipedia.org/wiki/Blue_Moon_Rendering_Tools
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Larry Gritz's free RenderMan-compatible REYES/raytracer, 1990s. First widely available free RIB renderer.
     license: Free
     entry_type: software
@@ -243,6 +257,7 @@ entries:
     url_status: ok
   - name: Gelato
     url: https://en.wikipedia.org/wiki/Gelato_(software)
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Nvidia GPU renderer, killed 2008. Larry Gritz lineage post-Exluna.
     license: Free
     entry_type: software
@@ -261,6 +276,7 @@ entries:
     url_status: ok
   - name: Brazil r/s
     url: https://en.wikipedia.org/wiki/Brazil_R/S
+    added_at: '2026-05-22T16:39:01.000Z'
     description: SplutterFish renderer for 3ds Max, ~2003.
     license: Paid
     entry_type: software
@@ -278,6 +294,7 @@ entries:
     url_status: ok
   - name: Shake
     url: https://en.wikipedia.org/wiki/Shake_(software)
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Nothing Real → Apple compositor. Killed 2009. Standard film compositor early 2000s. Replaced by Nuke.
     license: Paid
     entry_type: software
@@ -296,6 +313,7 @@ entries:
     url_status: ok
   - name: Combustion
     url: https://en.wikipedia.org/wiki/Autodesk_Media_and_Entertainment
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Discreet → Autodesk compositor, 1999–2008. After Effects competitor with paint, tracking, keyer.
     license: Paid
     entry_type: software
@@ -312,6 +330,7 @@ entries:
     url_status: ok
   - name: Toxik
     url: https://en.wikipedia.org/wiki/Autodesk_Toxik
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Autodesk compositor, 2006–2009. Folded into Flame Composite/Smoke.
     license: Paid
     entry_type: software
@@ -328,6 +347,7 @@ entries:
     url_status: ok
   - name: eyeon Fusion (Digital Fusion)
     url: https://www.blackmagicdesign.com/products/fusion
+    added_at: '2026-05-22T16:39:01.000Z'
     description: eyeon Software → Blackmagic compositor. Standalone discontinued; lives on as Fusion page inside DaVinci Resolve.
     license: Free
     entry_type: software
@@ -343,6 +363,7 @@ entries:
     url_status: ok
   - name: Commotion
     url: https://en.wikipedia.org/wiki/Pinnacle_Systems
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Puffin Designs → Pinnacle paint/effects tool. Defunct mid-2000s. Stu Maschwitz toolset.
     license: Paid
     entry_type: software
@@ -358,6 +379,7 @@ entries:
     url_status: ok
   - name: Final Cut Pro 7 ("classic")
     url: https://en.wikipedia.org/wiki/Final_Cut_Pro
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Apple 1999–2011 NLE. Killed by FCPX rewrite, drove indies to Premiere and Avid.
     license: Paid
     entry_type: software
@@ -376,6 +398,7 @@ entries:
     url_status: ok
   - name: Stingray
     url: https://en.wikipedia.org/wiki/Autodesk_Stingray
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Autodesk engine (acquired Bitsquid), 2015–2018. Discontinued.
     license: Paid
     entry_type: software
@@ -392,6 +415,7 @@ entries:
     url_status: ok
   - name: Amazon Lumberyard
     url: https://o3de.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Amazon engine forked from CryEngine 2015. Relaunched as Open 3D Engine (O3DE) under Linux Foundation 2021.
     license: Free
     entry_type: software
@@ -408,6 +432,7 @@ entries:
     url_status: ok
   - name: USAnimation / Toonz (legacy)
     url: https://opentoonz.github.io/e/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Softimage → Digital Video → Dwango. Open-sourced as OpenToonz 2016. Ghibli's pipeline.
     license: Open Source
     entry_type: software
@@ -422,6 +447,7 @@ entries:
     url_status: ok
   - name: Animo
     url: https://en.wikipedia.org/wiki/Animo
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Cambridge Animation Systems 2D ink-and-paint. Acquired by Toon Boom (2001). Discontinued.
     license: Paid
     entry_type: software
@@ -437,6 +463,7 @@ entries:
     url_status: ok
   - name: archive.org Software Library
     url: https://archive.org/details/software
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Internet Archive software dumps. Includes 3D Studio, trueSpace, Bryce installers.
     license: Free
     entry_type: reference
@@ -451,6 +478,7 @@ entries:
     url_status: ok
   - name: WinWorldPC
     url: https://winworldpc.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Vintage software archive. Hosts Softimage, LightWave, Alias installers.
     license: Free
     entry_type: reference
@@ -465,6 +493,7 @@ entries:
     url_status: ok
   - name: Aminet
     url: https://aminet.net/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Amiga software archive. Imagine, Real3D, Aladdin4D.
     license: Free
     entry_type: reference
@@ -479,6 +508,7 @@ entries:
     url_status: ok
   - name: Quartz Composer
     url: https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Apple's node-based tool for processing and rendering graphical data. Discontinued.
     license: Free
     entry_type: software

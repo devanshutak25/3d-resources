@@ -5,13 +5,18 @@ on:
     paths:
       - 'data/**'
       - 'schema/**'
-      - 'scripts/validate.js'
-      - 'scripts/render.js'
+      - 'scripts/**'
+      - 'assets/js/**'
+      - 'package*.json'
+      - '.github/workflows/validate.yml'
   pull_request:
     paths:
       - 'data/**'
       - 'schema/**'
       - 'scripts/**'
+      - 'assets/js/**'
+      - 'package*.json'
+      - '.github/workflows/validate.yml'
 
 jobs:
   validate:
@@ -22,6 +27,13 @@ jobs:
         with:
           node-version: 20
       - run: npm install js-yaml ajv ajv-formats marked
+      - name: Run regression checks
+        run: |
+          node scripts/lib/catalog.test.js
+          node scripts/lib/canonical-url.test.js
+          node scripts/lib/quality-score.test.js
+          node scripts/lib/entry-schema.test.js
+          node scripts/lib/review-regressions.test.js
       - name: Validate schema + vocab + duplicates
         run: node scripts/validate.js
       - name: Dry-render README to ensure generator works

@@ -1,6 +1,7 @@
 entries:
   - name: 3D Warehouse
     url: https://3dwarehouse.sketchup.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: SketchUp library.
     entry_type: asset-source
     tags:
@@ -17,6 +18,7 @@ entries:
     url_status: ok
   - name: 3ddd
     url: https://3ddd.ru/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Design and architecture models.
     entry_type: marketplace
     tags:
@@ -34,6 +36,7 @@ entries:
     url_status: ok
   - name: Design Connected
     url: https://www.designconnected.com/catalog/3D-Models/all/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Furniture.
     entry_type: marketplace
     tags:
@@ -51,6 +54,7 @@ entries:
     url_status: ok
   - name: Syncronia
     url: https://www.syncronia.com/en
+    added_at: '2026-04-16T19:59:30.000Z'
     description: CAD and BIM objects.
     entry_type: asset-source
     tags:
@@ -67,6 +71,7 @@ entries:
     url_status: ok
   - name: Evermotion
     url: https://evermotion.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Scenes and models.
     entry_type: marketplace
     tags:
@@ -84,6 +89,7 @@ entries:
     url_status: ok
   - name: BIMobject
     url: https://www.bimobject.com/en-us
+    added_at: '2026-04-16T19:59:30.000Z'
     description: BIM objects.
     entry_type: asset-source
     tags:
@@ -100,6 +106,7 @@ entries:
     url_status: ok
   - name: 3asky
     url: https://3asky.net/?lang=en
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3DS Max and general library.
     entry_type: asset-source
     readme_tags:
@@ -116,6 +123,7 @@ entries:
         - web
   - name: 3DSky
     url: https://3dsky.org
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Architecture models.
     entry_type: marketplace
     tags:
@@ -133,6 +141,7 @@ entries:
     url_status: ok
   - name: Dimensiva
     url: https://dimensiva.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Furniture models.
     entry_type: marketplace
     tags:
@@ -150,6 +159,7 @@ entries:
     url_status: ok
   - name: Viz-People
     url: https://www.viz-people.com
+    added_at: '2026-05-05T09:26:54.000Z'
     description: Archviz scenes, 3D people, vegetation, HDRIs.
     entry_type: asset-source
     tags:
@@ -167,6 +177,7 @@ entries:
     url_status: ok
   - name: CG Mood
     url: https://cgmood.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: CG assets.
     entry_type: marketplace
     readme_tags:

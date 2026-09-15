@@ -1,6 +1,7 @@
 entries:
   - name: Steam Playtest
     url: https://partner.steamgames.com/doc/features/playtest
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free playtesting on Steam.
     license: Free
     entry_type: reference

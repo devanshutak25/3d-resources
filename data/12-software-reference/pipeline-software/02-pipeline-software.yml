@@ -1,6 +1,7 @@
 entries:
   - name: Kitsu (CGWire)
     url: https://www.cg-wire.com/kitsu
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Production tracker.
     license: Open Source
     entry_type: software
@@ -19,6 +20,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Tik Manager (GitHub)
     url: https://github.com/masqu3rad3/tik_manager4
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Artist friendly asset and pipeline manager.
     license: Open Source
     entry_type: software
@@ -35,6 +37,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Pandora
     url: https://prism-pipeline.com/pandora/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Open-Source Renderfarm-Manager.
     license: Open Source
     entry_type: software
@@ -53,6 +56,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Tik Manager (site)
     url: https://tik-manager.com
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Artist-friendly asset and pipeline manager.
     license: Freemium
     entry_type: software
@@ -69,6 +73,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: CGRU
     url: http://cgru.info/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: CG tools pack that includes AFANASY, a free open-source render farm manager.
     license: Open Source
     entry_type: software
@@ -87,6 +92,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Flamenco (Blender render farm)
     url: https://flamenco.blender.org/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Blender Foundation's free render-farm manager.
     entry_type: software
     license: Open Source
@@ -105,6 +111,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Coalition
     url: http://coalition.readthedocs.io/en/latest/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Render-farm manager from Mercenaries Engineering (makers of Guerilla Render).
     entry_type: software
     license: Open Source
@@ -123,6 +130,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Open3D
     url: http://www.open3d.org/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Modern library for 3D data processing. Point clouds, meshes, voxels, reconstruction.
     entry_type: software
     license: Open Source
@@ -139,6 +147,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: CGAL
     url: https://www.cgal.org/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
     license: Open Source
     entry_type: software
@@ -155,6 +164,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Flamenco (flamenco.io)
     url: https://www.flamenco.io/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: From the Blender Foundation
     license: Open Source
     entry_type: software
@@ -173,6 +183,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: OpenTimelineIO (site)
     url: http://opentimeline.io
+    added_at: '2026-04-19T17:15:03.000Z'
     description: ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
     license: Open Source
     entry_type: software
@@ -191,6 +202,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Gaffer (GafferHQ compositing)
     url: https://github.com/GafferHQ/gaffer
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.
     license: Open Source
     entry_type: software
@@ -209,6 +221,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: TerraForge3D
     url: https://jaysmito101.github.io/TerraForge3D/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A procedural terrain generation and procedural modeling toolkit.
     license: Open Source
     entry_type: software
@@ -222,6 +235,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Godot Game Tools
     url: https://viniguerrero.itch.io/godot-game-tools
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon that eases Mixamo animation import into Godot.
     license: Free
     entry_type: software
@@ -237,6 +251,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Foundry Katana
     url: https://www.foundry.com/products/katana
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Look-development and lighting orchestration tool for film/episodic VFX, scaling to massive scenes via deferred evaluation.
     license: Paid
     entry_type: software
@@ -262,6 +277,7 @@ entries:
       - lighting-rendering-shaders/lighting-production
   - name: Medieval Fantasy City Generator
     url: https://watabou.itch.io/medieval-fantasy-city-generator
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Browser tool that generates random medieval city map layouts.
     license: Free
     entry_type: software
@@ -279,6 +295,7 @@ entries:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: DoTracking
     url: https://dotracking.kindreddo.com/
+    added_at: '2026-06-22T15:30:53.000Z'
     description: Browser animation production tracker. Episodes, scenes, shot status, revisions. Files stay local.
     license: Free
     entry_type: software

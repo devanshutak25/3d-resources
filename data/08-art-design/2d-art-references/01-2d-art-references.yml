@@ -1,6 +1,7 @@
 entries:
   - name: 2D Tutorials. Draw a Box
     url: https://drawabox.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free drawing fundamentals course.
     license: Free
     entry_type: tutorial
@@ -21,6 +22,7 @@ entries:
     url_status: ok
   - name: Saint11 Pixel Art
     url: https://www.patreon.com/saint11
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Pixel art tutorials.
     license: Paid
     entry_type: channel
@@ -40,6 +42,7 @@ entries:
     url_status: ok
   - name: Dimensions.com
     url: https://www.dimensions.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Dimensioned drawings database.
     license: Free
     entry_type: reference
@@ -59,6 +62,7 @@ entries:
     url_status: ok
   - name: Anatomy 360, Free Reference
     url: https://anatomy360.info/anatomy-scan-reference-dump/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 3D scanned human reference images.
     license: Free
     entry_type: asset-source
@@ -73,6 +77,7 @@ entries:
         - web
   - name: National Gallery of Art (NGA)
     url: https://www.nga.gov/
+    added_at: '2026-05-04T10:36:50.000Z'
     description: Open-access collection of historical paintings, drawings, and prints. High-res downloads for reference.
     license: Free
     entry_type: reference

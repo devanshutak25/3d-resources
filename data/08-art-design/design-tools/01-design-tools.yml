@@ -1,6 +1,7 @@
 entries:
   - name: X Design
     url: https://www.x-design.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Browser-based design editor for product photos and visuals.
     license: Freemium
     entry_type: tool
@@ -15,6 +16,7 @@ entries:
     notes: License assumed Freemium; verify on next pricing pass.
   - name: Carbon
     url: https://carbon.now.sh/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Code snippet screenshot generator.
     license: Free
     entry_type: tool
@@ -28,6 +30,7 @@ entries:
         - web
   - name: Efecto
     url: https://efecto.app/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: ASCII and dithering effects.
     license: Free
     entry_type: tool
@@ -41,6 +44,7 @@ entries:
         - web
   - name: BabyTrack
     url: https://freedesigntool.online/baby-track
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blob tracking effect.
     license: Free
     entry_type: tool
@@ -54,6 +58,7 @@ entries:
         - web
   - name: Halftone Maker
     url: https://halftonemaker.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Halftone generator.
     license: Free
     entry_type: tool
@@ -67,6 +72,7 @@ entries:
         - web
   - name: Space Type Generator
     url: https://spacetypegenerator.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Experimental type generator.
     license: Free
     entry_type: tool
@@ -80,6 +86,7 @@ entries:
         - web
   - name: Tiled Art
     url: https://tiled.art/en/home/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Tessellation creator.
     license: Free
     entry_type: tool
@@ -93,6 +100,7 @@ entries:
         - web
   - name: The Toolbox
     url: https://thetoolbox.art/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Curated creative tools directory.
     license: Free
     entry_type: reference
@@ -106,6 +114,7 @@ entries:
         - web
   - name: Undesign
     url: https://undesign.learn.uno/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Design learning resources.
     license: Free
     entry_type: reference
@@ -119,6 +128,7 @@ entries:
         - web
   - name: ContentCore
     url: https://contentcore.xyz/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Curated creative content.
     license: Free
     entry_type: inspiration
@@ -132,6 +142,7 @@ entries:
         - web
   - name: OS Design Directory
     url: https://github.com/opensesh/OS_design-directory
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source design resources directory.
     license: Open Source
     entry_type: reference
@@ -147,6 +158,7 @@ entries:
         - opensource-alt
   - name: Muzli
     url: https://chromewebstore.google.com/detail/muzli-design-inspiration/glcipcfhmopcgidicgdociohdoicpdfc
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Design inspiration Chrome extension.
     license: Free
     entry_type: inspiration
@@ -160,6 +172,7 @@ entries:
         - web
   - name: Cosmos
     url: https://www.cosmos.so/home
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Visual content curation platform.
     license: Free
     entry_type: inspiration
@@ -173,6 +186,7 @@ entries:
         - web
   - name: Mockup Photos
     url: https://mockup.photos/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Device and print mockup library.
     license: Freemium
     entry_type: asset-source
@@ -187,6 +201,7 @@ entries:
     notes: License assumed Freemium; verify on next pricing pass.
   - name: Savee
     url: https://savee.it/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Visual bookmarking tool.
     license: Freemium
     entry_type: tool
@@ -200,6 +215,7 @@ entries:
         - web
   - name: Bendito Mockup
     url: https://benditomockup.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Premium and free product mockups.
     license: Freemium
     entry_type: asset-source
@@ -214,6 +230,7 @@ entries:
     url_status: ok
   - name: GraphicBurger
     url: https://graphicburger.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Free design mockups and graphic assets.
     license: Free
     entry_type: asset-source
@@ -228,6 +245,7 @@ entries:
     url_status: ok
   - name: Maneken
     url: https://maneken.app/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Browser-based editable product mockups.
     license: Freemium
     entry_type: tool
@@ -242,6 +260,7 @@ entries:
     url_status: ok
   - name: Mockup World
     url: https://www.mockupworld.co/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Free PSD mockup library.
     license: Free
     entry_type: asset-source
@@ -256,6 +275,7 @@ entries:
     url_status: ok
   - name: Pacdora
     url: https://www.pacdora.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Packaging design with dielines and 3D mockups.
     license: Freemium
     entry_type: tool
@@ -271,6 +291,7 @@ entries:
     url_status: ok
   - name: Resource Boy
     url: https://resourceboy.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free design resources and mockups.
     license: Free
     entry_type: asset-source
@@ -285,6 +306,7 @@ entries:
     url_status: ok
   - name: Shots.so
     url: https://shots.so/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Device mockup generator in the browser.
     license: Freemium
     entry_type: tool
@@ -299,6 +321,7 @@ entries:
     url_status: ok
   - name: Smart Mockups
     url: https://smartmockups.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Browser mockup generator.
     license: Freemium
     entry_type: tool
@@ -313,6 +336,7 @@ entries:
     url_status: ok
   - name: Brandfetch
     url: https://brandfetch.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Look up brand logos, fonts, and colors.
     license: Freemium
     entry_type: tool
@@ -328,6 +352,7 @@ entries:
     notes: Site is live; returns 403 to non-browser clients (bot protection). Do not auto-deprecate.
   - name: effect.app
     url: https://effect.app/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Browser-based live effects for photo and video.
     license: Freemium
     entry_type: tool
@@ -342,6 +367,7 @@ entries:
     url_status: ok
   - name: LottieFiles
     url: https://lottiefiles.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Library of free Lottie web animations.
     license: Freemium
     entry_type: asset-source
@@ -357,6 +383,7 @@ entries:
     url_status: ok
   - name: Gradientool
     url: https://www.gradientool.com/
+    added_at: '2026-06-22T15:44:45.000Z'
     description: Browser gradient generator with grain, shadow, and 3D effects. Exports stills and animated MP4 up to 8K.
     license: Free
     entry_type: tool
@@ -372,6 +399,7 @@ entries:
     url_status: ok
   - name: Previewed
     url: https://previewed.app/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Turn screenshots into 3D mockup images and animations.
     license: Freemium
     entry_type: tool

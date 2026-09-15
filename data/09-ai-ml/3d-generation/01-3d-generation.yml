@@ -1,6 +1,7 @@
 entries:
   - name: Threestudio
     url: https://github.com/threestudio-project/threestudio
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A unified framework for 3D content generation.
     license: Open Source
     entry_type: tool
@@ -18,6 +19,7 @@ entries:
         - linux
   - name: Pixal3D
     url: https://github.com/TencentARC/Pixal3D
+    added_at: '2026-05-18T15:42:40.000Z'
     description: Single-image to 3D asset generation via pixel-feature back-projection. Outputs geometry and PBR textures.
     license: Open Source
     entry_type: tool
@@ -36,6 +38,7 @@ entries:
         - linux
   - name: NativeBlend CLI
     url: https://github.com/addy999/nativeblend-cli
+    added_at: '2026-04-16T21:13:44.000Z'
     description: AI CLI to generate and edit low-poly 3D game assets in Blender from text prompts.
     license: Open Source
     entry_type: tool
@@ -53,6 +56,7 @@ entries:
         - blender-addon
   - name: Point-E (OpenAI)
     url: https://github.com/openai/point-e
+    added_at: '2026-04-19T17:29:43.000Z'
     description: OpenAI point-cloud diffusion for text and image to 3D synthesis.
     license: Open Source
     entry_type: tool
@@ -70,6 +74,7 @@ entries:
         - linux
   - name: Transforming 2D Images into 3D with AdaMPI
     url: https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Guide to using the AdaMPI model to create 3D photos from 2D images.
     license: Free
     entry_type: tutorial
@@ -86,6 +91,7 @@ entries:
         - intermediate
   - name: Ashawkey/stable Dreamfusion
     url: https://github.com/ashawkey/stable-dreamfusion
+    added_at: '2026-04-19T17:29:43.000Z'
     description: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
     license: Open Source
     entry_type: software

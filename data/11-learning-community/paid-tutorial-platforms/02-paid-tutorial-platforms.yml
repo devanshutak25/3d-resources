@@ -1,6 +1,7 @@
 entries:
   - name: Default Cube
     url: https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ/videos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: CGMatter's second channel for longer Blender tutorials.
     license: Free
     entry_type: channel
@@ -18,6 +19,7 @@ entries:
         - web
   - name: CG Cookie
     url: https://www.youtube.com/@cg_cookie
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free Blender tutorials from CG Cookie.
     license: Free
     entry_type: channel
@@ -35,6 +37,7 @@ entries:
         - web
   - name: Technical Art & Materials
     url: https://www.youtube.com/@BenCloward/videos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Real-time shader and material tutorials by Ben Cloward.
     license: Free
     entry_type: channel
@@ -54,6 +57,7 @@ entries:
         - web
   - name: Create the Most AMAZING Animations with Rive
     url: https://www.youtube.com/@DesignCourse
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Rive animation crash course by DesignCourse.
     license: Free
     entry_type: channel
@@ -71,6 +75,7 @@ entries:
         - web
   - name: Build iOS app with Rive Animations
     url: https://www.youtube.com/@DesignCodeTeam
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Three-hour course on building a SwiftUI app with Rive animations.
     license: Free
     entry_type: channel
@@ -88,6 +93,7 @@ entries:
         - web
   - name: Unreal tutorial for Rive + Noesis
     url: https://www.youtube.com/@NoesisTechnologies
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Adding Rive to Unreal games using Noesis.
     license: Free
     entry_type: channel
@@ -107,6 +113,7 @@ entries:
         - unreal
   - name: Unity5 EditorVR hello world tutorial video (from scratch) featuring Oculus
     url: https://www.youtube.com/@BunnyGunGames
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity EditorVR hello-world walkthrough featuring Oculus.
     license: Free
     entry_type: channel
@@ -126,6 +133,7 @@ entries:
         - unity
   - name: Unity 3D Steam VR Video Tutorial Series
     url: https://www.youtube.com/channel/UCV82jCz4CnkXtIoSWqM0-5Q
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity SteamVR video tutorial series.
     license: Free
     entry_type: channel
@@ -145,6 +153,7 @@ entries:
         - unity
   - name: DebugLog HTC Vive Unity 3D Steam VR Video Tutorial
     url: https://www.youtube.com/channel/UCS9ZUr3LQrrsaxO_3MVnA-g
+    added_at: '2026-04-19T17:15:03.000Z'
     description: HTC Vive SteamVR tutorials in Unity.
     license: Free
     entry_type: channel
@@ -164,6 +173,7 @@ entries:
         - unity
   - name: HTC Vive SteamVR Tutorial using Flafla2 Teleport, Probuil Box, Lab Render
     url: https://www.youtube.com/@TaylorShockey
+    added_at: '2026-04-19T17:15:03.000Z'
     description: HTC Vive SteamVR tutorial covering teleport, ProBuilder and the Lab Renderer.
     license: Free
     entry_type: channel
@@ -183,6 +193,7 @@ entries:
         - unity
   - name: 'Unity + Vive Tutorial: Beginners'
     url: https://www.youtube.com/@VRwithAndrew
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Beginner Unity and Vive VR tutorials.
     license: Free
     entry_type: channel
@@ -202,6 +213,7 @@ entries:
         - unity
   - name: Vive Tutorial - Intro / UI | Unity VR (VRTK)
     url: https://www.youtube.com/channel/UC2SDL6DcSlgVBTnEbfksQQQ
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity VR UI tutorial using VRTK.
     license: Free
     entry_type: channel
@@ -221,6 +233,7 @@ entries:
         - unity
   - name: RMA Houdini Tutorials
     url: https://www.youtube.com/@RMAFIRE
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Houdini tutorials by RMA.
     license: Free
     entry_type: channel
@@ -240,6 +253,7 @@ entries:
         - houdini
   - name: Add VFX to Cinematic RAW and LOG Footage
     url: https://www.youtube.com/@InLightVFX
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Adding VFX to cinematic RAW and LOG footage.
     license: Free
     entry_type: channel
@@ -259,6 +273,7 @@ entries:
         - web
   - name: AAA Ghibli Forest in Blender & Unreal ~ ShinGidora
     url: https://www.youtube.com/@ShinGidora
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Stylized environment tips, partly promoting his TREEBOX commercial script.
     license: Free
     entry_type: channel
@@ -279,6 +294,7 @@ entries:
         - unreal
   - name: I Nailed the Anime Look ~ SILKROAD Project
     url: https://www.youtube.com/@SilkroadProjectGame
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Anime outlines and shadows done in UV space rather than as a filter.
     license: Free
     entry_type: channel
@@ -298,6 +314,7 @@ entries:
         - houdini
   - name: Many techniques available for Stylized Grass ~ Ghislain Girardot
     url: https://www.youtube.com/@ghislaingirardot
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Stylized grass techniques in Blender.
     license: Free
     entry_type: channel
@@ -317,6 +334,7 @@ entries:
         - blender
   - name: Environment Art Breakdown ~ Stylized Station
     url: https://www.youtube.com/@StylizedStation
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Environment art breakdown by Melissa Perl.
     license: Free
     entry_type: channel
@@ -334,6 +352,7 @@ entries:
         - web
   - name: Material Ambient Occlusion ~ William Faucher
     url: https://www.youtube.com/@WilliamFaucher
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Baking ambient occlusion maps onto models in Unreal.
     license: Free
     entry_type: channel
@@ -355,6 +374,7 @@ entries:
         - unreal
   - name: BOOST Foliage Performance ~ Joshua M Kerr
     url: https://www.youtube.com/@JoshuaMKerr
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Foliage performance via world position offset in materials.
     license: Free
     entry_type: channel
@@ -374,6 +394,7 @@ entries:
         - unreal
   - name: Animators React to KPop Demon Hunters - ft. THE DIRECTORS ~ Corridor Crew
     url: https://www.youtube.com/@CorridorCrew
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Animation and VFX reactions and breakdowns.
     license: Free
     entry_type: channel
@@ -391,6 +412,7 @@ entries:
         - web
   - name: Dean Yurke - Unreal Engine and VFX Filmmaking
     url: https://www.youtube.com/@DeanYurke
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Pro movie VFX artist explains his Unreal filmmaking process.
     license: Free
     entry_type: channel
@@ -410,6 +432,7 @@ entries:
         - unreal
   - name: 'Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte'
     url: https://www.youtube.com/@kibibytecompany
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Custom Unreal looks via LUTs and disabling the tonemapper.
     license: Free
     entry_type: channel
@@ -431,6 +454,7 @@ entries:
         - unreal
   - name: 25 Tips and Tricks ~ Unreal University
     url: https://www.youtube.com/@UnrealUniversity
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Unreal Engine shortcuts and tips.
     license: Free
     entry_type: channel
@@ -450,6 +474,7 @@ entries:
         - unreal
   - name: Tony Munoz | Game Creator Accelerator
     url: https://www.youtube.com/@TonyMunozDev
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Unreal Engine game development tutorials.
     license: Free
     entry_type: channel
@@ -469,6 +494,7 @@ entries:
         - unreal
   - name: Hunyuan 2.1 Install Guide ~ Stefan 3D AI Lab
     url: https://www.youtube.com/@stefan_ai_3d
+    added_at: '2026-04-19T19:05:38.000Z'
     description: ComfyUI install guide for Hunyuan 3D 2.1.
     license: Free
     entry_type: channel
@@ -488,6 +514,7 @@ entries:
         - ai-generative
   - name: CHEAPEST Motion Capture Setup for Metahumans ~ Charlie Driscoll
     url: https://www.youtube.com/@CharlieDriscollFilm
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Budget motion capture setup for MetaHumans, aimed at filmmaking.
     license: Free
     entry_type: channel
@@ -509,6 +536,7 @@ entries:
         - unreal
   - name: Tutorial from the authors of 3DGS
     url: https://3dgstutorial.github.io/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Gaussian splatting tutorial from the authors of 3DGS.
     license: Free
     entry_type: tutorial
@@ -528,6 +556,7 @@ entries:
         - gaussian-splatting
   - name: Create 3D Graphics in JS Using WebGL
     url: https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Getting started with WebGL content without any frameworks.
     license: Free
     entry_type: tutorial
@@ -547,6 +576,7 @@ entries:
         - web
   - name: Character Customization Tutorial
     url: https://github.com/Glauz/Unity3D-CharacterCustomizationTutorial
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Finished project for a Unity blendshape character customization tutorial series.
     license: Free
     entry_type: reference
@@ -570,6 +600,7 @@ entries:
     last_pushed: '2020-07-20'
   - name: Roll A-Ball ECS Style
     url: https://github.com/KptEmreU/Roll-A-Ball-ECS-style
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unity Roll-A-Ball tutorial recreated with the Entity Component System.
     license: Free
     entry_type: reference
@@ -593,6 +624,7 @@ entries:
     last_pushed: '2019-02-06'
   - name: 'GitHub: mixandjam'
     url: https://github.com/mixandjam
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Source for the mix and jam Unity video tutorials.
     license: Free
     entry_type: reference
@@ -612,6 +644,7 @@ entries:
         - unity
   - name: Computer Graphics
     url: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: MIT ray tracing and animation course, fall 2012.
     license: Free
     entry_type: tutorial
@@ -629,6 +662,7 @@ entries:
         - web
   - name: 3D Computer Graphics Programming
     url: https://pikuma.com/courses/learn-3d-computer-graphics-programming
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Learn the theory and math behind 3D graphics by building a software renderer from scratch in C.
     license: Paid
     entry_type: tutorial
@@ -646,6 +680,7 @@ entries:
         - web
   - name: Vector Math for 3D Computer Graphics
     url: http://programmedlessons.org/VectorLessons/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Tutorial on vector and matrix algebra from a computer graphics viewpoint.
     license: Free
     entry_type: tutorial
@@ -663,6 +698,7 @@ entries:
         - web
   - name: MIT Inverse Rendering Lectures (Module 2)
     url: https://www.scenerepresentations.org/courses/inverse-graphics-23/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Academic deep dive into inverse rendering.
     license: Free
     entry_type: tutorial
@@ -678,6 +714,7 @@ entries:
         - web
   - name: WebGL Academy
     url: https://www.webglacademy.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Learn WebGL and 3D algorithms in a progressive, interactive way.
     license: Free
     entry_type: tutorial
@@ -697,6 +734,7 @@ entries:
         - web
   - name: Two-minute explanation of 3DGS
     url: https://www.youtube.com/@IndividualKex
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Two-minute explainer on 3D Gaussian splatting.
     license: Free
     entry_type: channel
@@ -714,6 +752,7 @@ entries:
         - gaussian-splatting
   - name: Computerphile 3DGS explanation
     url: https://www.youtube.com/@Computerphile
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Computerphile explainer on 3D Gaussian splatting.
     license: Free
     entry_type: channel
@@ -731,6 +770,7 @@ entries:
         - gaussian-splatting
   - name: 'Lecture 18: Monte Carlo Rendering (CMU 15-462/662)'
     url: https://www.youtube.com/@keenancrane
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Monte Carlo rendering lecture with a strong introduction to importance sampling.
     license: Free
     entry_type: channel
@@ -746,6 +786,7 @@ entries:
         - web
   - name: Animation Programming Basics
     url: https://www.youtube.com/@BobbyAnguelov
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Basics of animation programming.
     license: Free
     entry_type: channel
@@ -766,6 +807,7 @@ entries:
         - web
   - name: Introduction to Machine Learning (Course)
     url: https://www.rebelway.net/introduction-to-machine-learning
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Full Rebelway machine learning course.
     license: Paid
     entry_type: tutorial
@@ -785,6 +827,7 @@ entries:
         - ai-ml
   - name: Domestika
     url: https://www.domestika.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Creative arts courses.
     license: Paid
     entry_type: tutorial
@@ -802,6 +845,7 @@ entries:
         - web
   - name: Pablander Academy
     url: https://www.pablander.academy/
+    added_at: '2026-05-05T10:12:30.000Z'
     description: Character sculpting and digital art courses, tutorials, and brush packs (ZBrush, Blender, Substance, Marmoset).
     license: Freemium
     entry_type: tutorial

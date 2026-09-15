@@ -1,6 +1,7 @@
 entries:
   - name: Realistic Hair in Blender
     url: https://www.wingfox.com/c/8319
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Hair creation course.
     entry_type: tutorial
     license: Paid
@@ -22,6 +23,7 @@ entries:
     url_status: ok
   - name: Texture Paint Manual
     url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official Blender manual for the texture paint mode.
     license: Free
     entry_type: reference
@@ -41,6 +43,7 @@ entries:
         - blender
   - name: Programming Add-ons for Blender 2.8
     url: http://airplanes3d.net/pydev-000_e.xml
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free ebook on setting up a Python IDE to write Blender add-ons, worked through a sample plugin.
     license: Free
     entry_type: tutorial
@@ -59,6 +62,7 @@ entries:
         - blender
   - name: blenderscripting
     url: https://blenderscripting.blogspot.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blog of Blender Python snippets to get started with scripting.
     license: Free
     entry_type: tutorial
@@ -77,6 +81,7 @@ entries:
         - blender
   - name: 📖 User Manual
     url: https://docs.blender.org/manual/en/latest/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official Blender user manual.
     entry_type: community
     license: Free
@@ -94,6 +99,7 @@ entries:
         - blender
   - name: Animation & Rigging Manual
     url: https://docs.blender.org/manual/en/latest/physics/index.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Animation & Rigging Manual.
     entry_type: community
     license: Free
@@ -111,6 +117,7 @@ entries:
         - blender
   - name: Compositing Nodes List
     url: https://docs.blender.org/manual/en/latest/compositing/index.html#node-types
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Compositing Nodes List.
     entry_type: community
     license: Free
@@ -128,6 +135,7 @@ entries:
         - blender
   - name: Motion Tracking Manual
     url: https://docs.blender.org/manual/en/latest/movie_clip/tracking/introduction.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Motion Tracking Manual.
     entry_type: community
     license: Free
@@ -145,6 +153,7 @@ entries:
         - blender
   - name: Blender Python API Documentation
     url: https://docs.blender.org/api/current/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official Blender Python API Documentation.
     entry_type: community
     license: Free
@@ -162,6 +171,7 @@ entries:
         - blender
   - name: Blender 3D Architect by Allan Brito
     url: https://www.blender3darchitect.com/blender-books/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender books and tutorials for architectural visualization by Allan Brito.
     license: Paid
     entry_type: book

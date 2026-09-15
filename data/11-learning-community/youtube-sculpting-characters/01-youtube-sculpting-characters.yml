@@ -1,6 +1,7 @@
 entries:
   - name: Travis Davids
     url: https://www.youtube.com/channel/UCniZ7Qzbv17NvoCypCzB4Ow
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Character workflow and industry breakdowns.
     entry_type: channel
     license: Free
@@ -18,6 +19,7 @@ entries:
         - web
   - name: Travis Ragsdale
     url: https://www.youtube.com/channel/UCxOJdR3lmUf9XP_ME-C9jlg
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Sculpting tutorials.
     entry_type: channel
     license: Free
@@ -35,6 +37,7 @@ entries:
     url_status: ok
   - name: Proko
     url: https://www.youtube.com/@ProkoTV
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Figure drawing and anatomy.
     entry_type: channel
     license: Free
@@ -52,6 +55,7 @@ entries:
         - web
   - name: Marco Bucci
     url: https://www.youtube.com/@marcobucci
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Painting and color theory.
     entry_type: channel
     license: Free
@@ -69,6 +73,7 @@ entries:
         - web
   - name: Sinix Design
     url: https://www.youtube.com/@sinixdesign
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Digital painting fundamentals.
     entry_type: channel
     license: Free
@@ -86,6 +91,7 @@ entries:
         - web
   - name: Tyler Edlin
     url: https://www.youtube.com/@TylerEdlin84
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Environment and concept art.
     entry_type: channel
     license: Free
@@ -103,6 +109,7 @@ entries:
         - web
   - name: Grady Frederick
     url: https://www.youtube.com/@gradyfrederickart
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Concept art process.
     entry_type: channel
     license: Free
@@ -120,6 +127,7 @@ entries:
         - web
   - name: Modern Day James
     url: https://www.youtube.com/@moderndayjames
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Rigorous perspective systems and construction drawing.
     entry_type: channel
     license: Free
@@ -137,6 +145,7 @@ entries:
         - web
   - name: Trent Kaniuga
     url: https://www.youtube.com/@TrentKaniuga
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Concept art workflow for game/film production.
     entry_type: channel
     license: Free
@@ -154,6 +163,7 @@ entries:
         - web
   - name: YanSculpts
     url: https://www.youtube.com/@yansculpts
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Blender sculpting tutorials, including beginner sword modeling.
     entry_type: channel
     license: Free
@@ -171,6 +181,7 @@ entries:
         - web
   - name: Yu Fujishiro (NTRCT)
     url: https://www.youtube.com/@YFJSR
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Stylized character creation and interactive animation art.
     entry_type: channel
     license: Free

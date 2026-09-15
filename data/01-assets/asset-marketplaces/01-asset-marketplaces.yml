@@ -1,6 +1,7 @@
 entries:
   - name: ArtStation Marketplace
     url: https://www.artstation.com/marketplace
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Professional assets.
     entry_type: marketplace
     license: Paid
@@ -16,6 +17,7 @@ entries:
         - web
   - name: Unity Asset Store
     url: https://assetstore.unity.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Game-ready assets.
     entry_type: marketplace
     license: Freemium
@@ -33,6 +35,7 @@ entries:
     url_status: ok
   - name: Unreal Marketplace
     url: https://www.unrealengine.com/marketplace
+    added_at: '2026-04-16T19:59:30.000Z'
     description: UE-optimized assets.
     entry_type: marketplace
     license: Freemium
@@ -51,6 +54,7 @@ entries:
     url_status: ok
   - name: Blender Market
     url: https://blendermarket.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blender-specific assets and addons.
     entry_type: marketplace
     license: Paid
@@ -69,6 +73,7 @@ entries:
     url_status: ok
   - name: Cubebrush
     url: https://cubebrush.co/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Art and game assets.
     entry_type: marketplace
     license: Paid
@@ -84,6 +89,7 @@ entries:
     url_status: ok
   - name: Fab (Epic)
     url: https://www.fab.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Unified marketplace (UE, Sketchfab, ArtStation).
     entry_type: marketplace
     license: Freemium
@@ -99,6 +105,7 @@ entries:
         - web
   - name: Julio Sillet (Gumroad)
     url: https://gumroad.com/juliosillet
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free and paid PBR texture sets and material packs.
     license: Freemium
     entry_type: asset-source
@@ -116,6 +123,7 @@ entries:
         - pbr
   - name: RenderHub Free
     url: https://www.renderhub.com/free-3d-models
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Daz Content, 3D models, textures and materials.
     entry_type: marketplace
     license: Freemium
@@ -131,6 +139,7 @@ entries:
         - web
   - name: SplatMart
     url: https://www.splatmart.com
+    added_at: '2026-06-28T01:53:53.000Z'
     description: Marketplace for buying and selling Gaussian splat scenes (PLY, SOGS, SPZ).
     entry_type: marketplace
     license: Paid
@@ -148,6 +157,7 @@ entries:
         - gaussian-splatting
   - name: Quixel Bridge
     url: https://quixel.com/bridge
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Desktop app linking Megascans to Blender and other DCC tools.
     license: Free
     entry_type: tool

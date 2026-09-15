@@ -89,20 +89,37 @@
 
   function decorate(data) {
     const byUrl = new Map();
-    for (const e of data.entries) byUrl.set(normalizeUrl(e.url), e);
+    for (const e of data.entries) {
+      const key = normalizeUrl(e.url);
+      if (!byUrl.has(key)) byUrl.set(key, []);
+      byUrl.get(key).push(e);
+    }
+    const sectionByAnchor = new Map((data.sections || []).map(s => [s.anchor, s.slug]));
+    function displayedSection(el) {
+      // The README is flat: each list/table follows its owning H2 in <main>.
+      while (el && el.parentElement !== mainEl) el = el.parentElement;
+      for (let previous = el && el.previousElementSibling; previous; previous = previous.previousElementSibling) {
+        if (previous.tagName === 'H2') return sectionByAnchor.get(previous.id);
+      }
+      return null;
+    }
 
     const usedIds = new Set();
     const anchors = mainEl.querySelectorAll('a[href]');
     let idx = 0;
     for (const a of anchors) {
-      const entry = byUrl.get(normalizeUrl(a.getAttribute('href')));
-      if (!entry) continue;
+      const candidates = byUrl.get(normalizeUrl(a.getAttribute('href')));
+      if (!candidates) continue;
       let el = a;
       while (el && el !== mainEl && el.tagName !== 'LI' && el.tagName !== 'TR') {
         el = el.parentElement;
       }
       if (!el || el === mainEl) continue;
       if (el.dataset.decorated) continue;
+      const section = displayedSection(el);
+      const matching = candidates.find(e => e.section === section) || candidates[0];
+      // Whole software tables can also be mirrored without a dual_listed row.
+      const entry = section ? { ...matching, section } : matching;
       el.dataset.decorated = '1';
       if (entry.license) el.dataset.license = entry.license;
       el.dataset.platform = (entry.tags.platform || []).join(' ');

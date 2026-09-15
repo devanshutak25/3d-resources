@@ -1,6 +1,7 @@
 entries:
   - name: Instant Meshes
     url: https://github.com/wjakob/instant-meshes
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free, open-source auto-retopology.
     license: Open Source
     entry_type: software
@@ -21,6 +22,7 @@ entries:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: Topogun
     url: https://www.topogun.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Standalone retopology and baking.
     license: Paid
     entry_type: software
@@ -38,6 +40,7 @@ entries:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: AutoRemesher
     url: https://github.com/huxingyi/autoremesher
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.
     license: Open Source
     entry_type: software
@@ -58,6 +61,7 @@ entries:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: RizomUV
     url: https://www.rizom-lab.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Fast UV unwrapping, auto-seam, auto-pack. Standalone or bridge.
     license: Paid
     entry_type: software
@@ -74,6 +78,7 @@ entries:
       - tools-pipeline-utilities/uv-tools
   - name: UVPackmaster
     url: https://uvpackmaster.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Advanced UV packing, UDIM support. Blender addon + standalone.
     license: Paid
     entry_type: software
@@ -92,6 +97,7 @@ entries:
       - tools-pipeline-utilities/uv-tools
   - name: Headus UVLayout
     url: https://www.uvlayout.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Standalone UV editor, flatten-based.
     license: Paid
     entry_type: software
@@ -108,6 +114,7 @@ entries:
       - tools-pipeline-utilities/uv-tools
   - name: 3D Coat
     url: https://3dcoat.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Sculpt, retopo, UV, and PBR paint suite from Pilgway. Voxel and surface sculpt, AUTOPO auto-retopo, manual quad retopo, UV unwrap, bake.
     pricing: ~$379 perpetual (Educational $99)
     license: Paid
@@ -136,6 +143,7 @@ entries:
       - software-reference/3d-software-paid
   - name: 3D Coat Textura
     url: https://pilgway.com/product/3dcoattextura
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Texturing-only variant of 3D Coat. PBR paint and bake, no sculpt or retopo modules.
     pricing: ~$199 perpetual
     license: Paid
@@ -156,6 +164,7 @@ entries:
     url_status: ok
   - name: 3D Coat Print
     url: https://pilgway.com/product/3dcoatprint
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Voxel-sculpt build of 3D Coat aimed at 3D-print workflows.
     pricing: ~$199 perpetual
     license: Paid
@@ -176,6 +185,7 @@ entries:
     url_status: ok
   - name: Cozy Blanket
     url: https://cozyblanket.app/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: iPad sculpt-to-retopo app. Clay sculpt plus auto-quad retopology for game/film topology, from Naam.
     pricing: ~$80 perpetual
     license: Paid
@@ -202,6 +212,7 @@ entries:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: Valence 3D
     url: https://valence3d.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: iPad UV unwrap and texture paint app from Naam. Pairs with Cozy Blanket for full iPad asset workflow.
     pricing: ~$30 perpetual
     license: Paid
@@ -225,6 +236,7 @@ entries:
       - tools-pipeline-utilities/uv-tools
   - name: Quad Remesher
     url: https://exoside.com/quadremesher/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Auto-quad retopology plugin (Exoside) for Maya, 3ds Max, Blender, C4D, Modo, Houdini, ZBrush. ZRemesher-style algorithm.
     pricing: ~$110 indie, $200 studio
     license: Paid
@@ -245,6 +257,7 @@ entries:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: RetopoFlow 3
     url: https://blendermarket.com/products/retopoflow
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blender retopology suite with sketch, contour, strip, patches, and tweak tools. Sold via Blender Market.
     pricing: ~$96
     license: Paid
@@ -264,6 +277,7 @@ entries:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: ZWrap
     url: https://www.russian3dscanner.com/zwrap/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: ZBrush plugin (R3DS) that auto-wraps a base topology onto a scan or sculpt. Standard for garment/character retopo.
     pricing: ~$179
     license: Paid
@@ -281,6 +295,7 @@ entries:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: Meshmixer
     url: https://meshmixer.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Autodesk sculpt, remesh, hollow, and 3D-print prep tool. Discontinued but still downloadable and widely used.
     license: Free
     entry_type: software

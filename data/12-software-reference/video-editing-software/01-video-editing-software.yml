@@ -1,6 +1,7 @@
 entries:
   - name: DaVinci Resolve
     url: https://www.blackmagicdesign.com/products/davinciresolve/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free professional editing, color grading, Fusion, Fairlight audio.
     license: Freemium
     entry_type: software
@@ -26,6 +27,7 @@ entries:
     url_status: ok
   - name: Premiere Pro
     url: https://www.adobe.com/products/premiere.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Industry-standard NLE from Adobe.
     license: Paid
     entry_type: software
@@ -48,6 +50,7 @@ entries:
     url_status: unreachable
   - name: Final Cut Pro
     url: https://www.apple.com/final-cut-pro/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Apple-native NLE with magnetic timeline.
     license: Paid
     entry_type: software
@@ -69,6 +72,7 @@ entries:
     url_status: ok
   - name: Kdenlive
     url: https://kdenlive.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source NLE.
     license: Open Source
     entry_type: software
@@ -91,6 +95,7 @@ entries:
     url_status: ok
   - name: Shotcut
     url: https://shotcut.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source video editor.
     license: Open Source
     entry_type: software
@@ -115,6 +120,7 @@ entries:
     url_status: ok
   - name: GoZen
     url: https://gozen.voylin.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source video editor built with Godot (alpha).
     license: Open Source
     entry_type: software
@@ -138,6 +144,7 @@ entries:
     url_status: ok
   - name: DaVinci Resolve Training
     url: https://www.blackmagicdesign.com/products/davinciresolve/training
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official free training (hundreds of hours).
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -147,6 +154,7 @@ entries:
         - editing
   - name: Premiere Pro Learn
     url: https://helpx.adobe.com/premiere-pro/tutorials.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official Adobe tutorials.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -156,6 +164,7 @@ entries:
         - editing
   - name: OpenShot
     url: https://github.com/OpenShot/openshot-qt
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Award-winning free and open-source video editor for Linux, Mac, and Windows.
     license: Open Source
     entry_type: software
@@ -180,6 +189,7 @@ entries:
     url_status: ok
   - name: OBS
     url: https://github.com/obsproject/obs-studio
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
     license: Open Source
     entry_type: software
@@ -194,6 +204,7 @@ entries:
     url_status: ok
   - name: Avid Media Composer
     url: https://www.avid.com/media-composer
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Long-standing film/TV finishing NLE. Standard for collaborative editorial in features and broadcast post.
     pricing: From $23.99/mo (Ultimate $79.99/mo)
     license: Paid
@@ -217,6 +228,7 @@ entries:
     url_status: ok
   - name: Vegas Pro
     url: https://www.vegascreativesoftware.com/us/vegas-pro/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Magix Windows NLE with track-based timeline, HDR, and AI-assisted tools.
     pricing: From $19.99/mo (perpetual $599)
     license: Paid
@@ -238,6 +250,7 @@ entries:
     url_status: ok
   - name: Vegas Movie Studio
     url: https://www.vegascreativesoftware.com/us/vegas-movie-studio/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Consumer/prosumer Vegas variant for hobbyist editing.
     pricing: ~$79 perpetual
     license: Paid
@@ -259,6 +272,7 @@ entries:
     url_status: ok
   - name: DaVinci Resolve Studio
     url: https://www.blackmagicdesign.com/products/davinciresolve
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Paid Resolve with neural engine, advanced noise reduction, HDR grading, and multi-user collaboration.
     pricing: $295 perpetual
     license: Paid
@@ -286,6 +300,7 @@ entries:
     url_status: ok
   - name: Lightworks
     url: https://lwks.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Pro NLE with free tier (1080p export) and paid Pro/Create tiers. Used on feature films historically.
     pricing: Free / $9.99/mo Create / $23.99/mo Pro
     license: Freemium
@@ -308,6 +323,7 @@ entries:
     url_status: ok
   - name: HitFilm
     url: https://fxhome.com/product/hitfilm
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Artlist-owned editor + VFX combo. Free tier plus Pro paid version.
     pricing: Free / $7.99/mo Pro
     license: Freemium
@@ -329,6 +345,7 @@ entries:
     url_status: unreachable
   - name: iMovie
     url: https://www.apple.com/imovie/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Apple's free consumer editor for macOS and iOS/iPadOS.
     license: Free
     entry_type: software
@@ -351,6 +368,7 @@ entries:
     url_status: ok
   - name: Apple Motion
     url: https://www.apple.com/final-cut-pro/motion/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Motion graphics app and FCP template authoring tool from Apple.
     pricing: $49.99 perpetual
     license: Paid
@@ -373,6 +391,7 @@ entries:
     url_status: ok
   - name: Apple Compressor
     url: https://www.apple.com/final-cut-pro/compressor/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Encoding and delivery companion app for Final Cut Pro.
     pricing: $49.99 perpetual
     license: Paid
@@ -392,6 +411,7 @@ entries:
     url_status: ok
   - name: Premiere Rush
     url: https://www.adobe.com/products/premiere-rush.html
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Simplified cross-device Premiere for social cuts. Adobe (sunset in progress).
     license: Freemium
     entry_type: software
@@ -416,6 +436,7 @@ entries:
     url_status: unreachable
   - name: Premiere Elements
     url: https://www.adobe.com/products/premiere-elements.html
+    added_at: '2026-05-22T16:39:01.000Z'
     description: One-time-purchase consumer Premiere variant.
     pricing: ~$99 perpetual
     license: Paid
@@ -440,6 +461,7 @@ entries:
     url_status: unreachable
   - name: CapCut Desktop
     url: https://www.capcut.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: ByteDance's free desktop/mobile editor, dominant in social workflows.
     license: Freemium
     entry_type: software
@@ -462,6 +484,7 @@ entries:
     url_status: ok
   - name: Descript
     url: https://www.descript.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Transcript-driven video and podcast editor. Edits by editing the text.
     pricing: Free / $15/mo Creator / $30/mo Pro
     license: Freemium
@@ -484,6 +507,7 @@ entries:
     url_status: ok
   - name: VEED
     url: https://www.veed.io/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Browser editor with auto-subtitles, AI tools, and screen recording.
     pricing: Free / $12/mo Lite / $24/mo Pro
     license: Freemium
@@ -505,6 +529,7 @@ entries:
     url_status: ok
   - name: Clipchamp
     url: https://clipchamp.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Microsoft's browser editor bundled with Windows 11.
     license: Freemium
     entry_type: software
@@ -526,6 +551,7 @@ entries:
     url_status: ok
   - name: VSDC Free Video Editor
     url: https://www.videosoftdev.com/free-video-editor
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Windows non-linear editor, free + Pro tier.
     license: Freemium
     entry_type: software
@@ -544,6 +570,7 @@ entries:
     url_status: ok
   - name: Filmora
     url: https://filmora.wondershare.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Wondershare beginner-friendly editor; watermarked free tier.
     pricing: ~$80/yr
     license: Freemium
@@ -566,6 +593,7 @@ entries:
     url_status: ok
   - name: Olive
     url: https://www.olivevideoeditor.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: GPL NLE; 0.2 alpha, development stalled since 2022.
     license: Open Source
     entry_type: software
@@ -589,6 +617,7 @@ entries:
     url_status: ok
   - name: Avidemux
     url: https://avidemux.sourceforge.net/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Simple OSS cut/filter/encode tool. Not a full NLE.
     license: Open Source
     entry_type: software

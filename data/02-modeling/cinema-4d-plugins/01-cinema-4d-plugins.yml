@@ -1,6 +1,7 @@
 entries:
   - name: Video Copilot
     url: https://www.videocopilot.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: VFX tutorials, Element 3D, Optical Flares.
     entry_type: channel
     license: Freemium
@@ -18,6 +19,7 @@ entries:
     url_status: ok
   - name: AEC4D
     url: https://aescripts.com/aec4d/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: After Effects ↔ Cinema 4D bridge.
     license: Paid
     entry_type: plugin

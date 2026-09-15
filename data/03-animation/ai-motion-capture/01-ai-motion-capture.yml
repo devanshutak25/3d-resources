@@ -1,6 +1,7 @@
 entries:
   - name: AnimateDiff + ControlNet
     url: https://github.com/guoyww/AnimateDiff
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source controlled video animation from poses.
     license: Open Source
     entry_type: tool
@@ -22,6 +23,7 @@ entries:
     url_status: ok
   - name: Bandai Namco Research Motiondataset
     url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Free motion-capture dataset from Bandai Namco R&D for research and personal use.
     entry_type: asset-source
     license: Free
@@ -36,6 +38,7 @@ entries:
     last_pushed: '2023-07-04'
   - name: ActorCore
     url: https://actorcore.reallusion.com/free
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Motion-capture library from Reallusion.
     license: Freemium
     entry_type: asset-source
@@ -48,6 +51,7 @@ entries:
         - web
   - name: Carnegie-Mellon University Graphics Lab Motion Capture Database BVH conversions
     url: https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 2500 free human motion-capture clips in BVH format.
     entry_type: asset-source
     license: Free

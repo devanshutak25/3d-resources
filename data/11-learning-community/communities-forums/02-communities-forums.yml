@@ -1,6 +1,7 @@
 entries:
   - name: 3D Art Discord
     url: https://discord.com/invite/RCDfNWq
+    added_at: '2026-05-11T17:49:13.000Z'
     description: General-purpose 3D art Discord with ~23K members. Chat, feedback, and showcase across all DCCs.
     entry_type: community
     license: Free
@@ -14,6 +15,7 @@ entries:
         - web
   - name: 3D Modeling Discord
     url: https://discord.com/invite/Uy9frkU
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Large 3D Discord (~33K) for sculptors, VFX professionals, and students. All-DCC discussion and critique.
     entry_type: community
     license: Free
@@ -27,6 +29,7 @@ entries:
         - web
   - name: Neuron
     url: https://disboard.org/server/1257010490681327666
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Multi-DCC 3D Discord covering Unreal, Unity, Blender, Maya, 3ds Max, Houdini for artists and developers.
     entry_type: community
     license: Free
@@ -40,6 +43,7 @@ entries:
         - web
   - name: Substance Share
     url: https://share.substance3d.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free exchange platform for the Substance community. User-made materials, filters, and assets.
     entry_type: community
     license: Free
@@ -53,6 +57,7 @@ entries:
         - web
   - name: CG Channel
     url: https://www.cgchannel.com/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: News, videos, training, and community hub for entertainment CG artists.
     entry_type: reference
     license: Free
@@ -66,6 +71,7 @@ entries:
         - web
   - name: 3DVF
     url: https://3dvf.com/en/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: European daily CG/VFX news site covering cinema, TV, and tech.
     entry_type: reference
     license: Free
@@ -79,6 +85,7 @@ entries:
         - web
   - name: lesterbanks
     url: https://lesterbanks.com/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Daily resource for 3D artists, motion designers, and VFX artists. Tips, tricks, tutorials.
     entry_type: reference
     license: Free
@@ -92,6 +99,7 @@ entries:
         - web
   - name: FlippedNormals
     url: https://flippednormals.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D education site by Henning Sanden and Morten Jaeger. Discord community for character artists and 3D learners.
     entry_type: marketplace
     license: Freemium
@@ -107,6 +115,7 @@ entries:
       - tools-pipeline-utilities/plugin-marketplaces
   - name: 3D FOUNDERS (Skool)
     url: https://www.skool.com/3dfounders/about
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Skool community for 3D freelancers scaling from low-price gigs to consistent $5K clients.
     entry_type: community
     license: Freemium
@@ -120,6 +129,7 @@ entries:
         - web
   - name: Casual GAN Papers Reading Club
     url: https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Community knowledge base and reading club for Casual GAN Papers.
     entry_type: community
     license: Free
@@ -135,6 +145,7 @@ entries:
         - ai-generative
   - name: promptoMANIA
     url: https://promptomania.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: AI art community with a prompt generator for text-to-image models.
     entry_type: community
     license: Free
@@ -150,6 +161,7 @@ entries:
         - ai-generative
   - name: The Code Editor
     url: https://blenderartists.org/t/how-would-you-show-some-love-for-the-blender-text-editor/1163857
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender Artists thread on improving the Text Editor and sharing add-ons that ease coding in Blender.
     entry_type: community
     license: Free
@@ -167,6 +179,7 @@ entries:
         - blender
   - name: Blenderartists/python Support
     url: https://blenderartists.org/c/coding/python-support/19
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender Artists category for Python and bpy scripting questions.
     entry_type: community
     license: Free
@@ -184,6 +197,7 @@ entries:
         - blender
   - name: devtalk/python
     url: https://devtalk.blender.org/c/python/6
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender devtalk category for using and developing the Blender Python API, for Blender itself and add-ons.
     entry_type: community
     license: Free
@@ -201,6 +215,7 @@ entries:
         - blender
   - name: Blender Stack Exchange
     url: https://blender.stackexchange.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender Q&A community on Stack Exchange.
     entry_type: community
     license: Free
@@ -213,6 +228,7 @@ entries:
         - blender
   - name: Blender Awesome List
     url: https://github.com/agmmnn/awesome-blender
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Awesome list of Blender addons and resources.
     license: Open Source
     entry_type: reference
@@ -225,6 +241,7 @@ entries:
         - blender
   - name: 🔌 Developer Portal
     url: https://developer.blender.org/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender development hub. Links to the DevTalk forum and the developers blog.
     license: Free
     entry_type: reference
@@ -239,6 +256,7 @@ entries:
         - blender
   - name: The Blend
     url: https://blend.beehiiv.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Weekly newsletter with articles and lessons on Blender and 3D.
     license: Free
     entry_type: channel
@@ -251,6 +269,7 @@ entries:
         - blender
   - name: 💬blender.chat
     url: https://blender.chat/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official Blender chat server for artists and developers.
     license: Free
     entry_type: community
@@ -263,6 +282,7 @@ entries:
         - blender
   - name: Blender Conference
     url: https://conference.blender.org/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Yearly Blender Conference in Amsterdam. Talks, workshops, and community meetups.
     license: Free
     entry_type: community
@@ -275,6 +295,7 @@ entries:
         - blender
   - name: fb/blender
     url: https://fb.com/groups/2207257375/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender Facebook group.
     license: Free
     entry_type: community
@@ -287,6 +308,7 @@ entries:
         - blender
   - name: SculptJanuary
     url: https://www.cgboost.com/challenges
+    added_at: '2026-04-19T17:15:03.000Z'
     description: CG Boost sculpting challenge. 31 days, 31 topics.
     license: Free
     entry_type: community
@@ -301,6 +323,7 @@ entries:
         - blender
   - name: Blender Community Discord
     url: https://discord.com/invite/blender
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Largest Blender Discord (~203K) for artists, designers, game developers. Not officially Blender Foundation.
     entry_type: community
     license: Free
@@ -316,6 +339,7 @@ entries:
         - web
   - name: Bforartists Discord
     url: https://discord.com/invite/yKuR77v
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Discord for Bforartists. Fork of Blender with refined GUI for hobbyists and indie devs.
     entry_type: community
     license: Free
@@ -331,6 +355,7 @@ entries:
         - web
   - name: '#Blender52'
     url: https://discord.com/invite/hxdQ7pzKeK
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Blender Discord community (~1.8K). Smaller focused Blender hub.
     entry_type: community
     license: Free
@@ -346,6 +371,7 @@ entries:
         - web
   - name: Curtis Holt
     url: https://curtisholt.online/links
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Blender mixed-media creator. Public BlenderNest art/tech-art community Discord and Community Material Pack.
     entry_type: channel
     license: Free
@@ -361,6 +387,7 @@ entries:
         - web
   - name: Create with Clint
     url: https://discord.com/invite/createwithclint
+    added_at: '2026-05-11T17:49:13.000Z'
     description: 3D/VFX community Discord (~77K). Weekly, technical, and community challenges. Strong Blender presence.
     entry_type: community
     license: Free
@@ -376,6 +403,7 @@ entries:
         - web
   - name: Heavypoly
     url: https://www.heavypoly.com/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Vaughan Ling's Blender concept design hub. Courses, tools, and community forum.
     entry_type: tutorial
     license: Freemium
@@ -393,6 +421,7 @@ entries:
         - web
   - name: BNPR (Blender NPR)
     url: https://discord.com/invite/bnpr-335479185197891585
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Blender stylized/non-photoreal rendering community (~3.5K). Toon, anime, cel, abstract styles. BEER/Malt engine.
     entry_type: community
     license: Free
@@ -412,6 +441,7 @@ entries:
         - web
   - name: erindale.xyz
     url: https://discord.com/invite/erindalexyz
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Erindale Woodford's procedural Discord (~8K). Geometry Nodes, Sverchok, Houdini, Grasshopper, shaders.
     entry_type: community
     license: Free
@@ -427,6 +457,7 @@ entries:
         - web
   - name: RenderRides
     url: https://discord.com/invite/XHAAbvm
+    added_at: '2026-05-11T17:49:13.000Z'
     description: 3D mentorship Discord (~1.7K). Storytelling through audio-visual experiments, holistic 3D craft.
     entry_type: community
     license: Free
@@ -442,6 +473,7 @@ entries:
         - web
   - name: Blender Professionals (Skool)
     url: https://www.skool.com/blender-professionals/about
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Free Skool community where 3D artists share experience and grow in Blender.
     entry_type: community
     license: Free
@@ -457,6 +489,7 @@ entries:
         - web
   - name: Creative 3D Community (Skool)
     url: https://www.skool.com/ultimate-3d-membership-7140
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Skool community focused on professional 3D work in Plasticity and Blender.
     entry_type: community
     license: Paid

@@ -1,6 +1,7 @@
 entries:
   - name: VERT.sh
     url: https://vert.sh/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: General-purpose online converter.
     entry_type: tool
     license: Free
@@ -16,6 +17,7 @@ entries:
         - web
   - name: MAZANOKE
     url: https://mazanoke.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Browser-based converter.
     entry_type: tool
     license: Free
@@ -31,6 +33,7 @@ entries:
         - web
   - name: 123apps
     url: https://123apps.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free web tools for audio, video, image.
     entry_type: tool
     license: Freemium
@@ -46,6 +49,7 @@ entries:
         - web
   - name: CloudConvert
     url: https://cloudconvert.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 200+ formats with API.
     entry_type: tool
     license: Freemium
@@ -62,6 +66,7 @@ entries:
         - cloud
   - name: Convertio
     url: https://convertio.co/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Multi-format converter.
     entry_type: tool
     license: Freemium
@@ -77,6 +82,7 @@ entries:
         - web
   - name: Online Convert
     url: https://www.online-convert.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Web-based format converter.
     entry_type: tool
     license: Freemium
@@ -92,6 +98,7 @@ entries:
         - web
   - name: FreeConvert
     url: https://www.freeconvert.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free online file converter.
     entry_type: tool
     license: Freemium
@@ -107,6 +114,7 @@ entries:
         - web
   - name: Assimp (GitHub)
     url: https://github.com/assimp/assimp
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source library, 40+ 3D format import (C/C++/Python).
     license: Open Source
     entry_type: tool
@@ -126,6 +134,7 @@ entries:
         - opensource-alt
   - name: FBX2glTF
     url: https://github.com/facebookincubator/FBX2glTF
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Meta's CLI for FBX → glTF 2.0.
     license: Open Source
     entry_type: tool
@@ -145,6 +154,7 @@ entries:
         - opensource-alt
   - name: obj2gltf
     url: https://github.com/CesiumGS/obj2gltf
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cesium's OBJ → glTF with PBR mapping.
     license: Open Source
     entry_type: tool
@@ -165,6 +175,7 @@ entries:
     url_status: ok
   - name: glTF Transform
     url: https://gltf-transform.dev/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: JS library/CLI for reading, editing, optimizing glTF (Draco, KTX2).
     license: Open Source
     entry_type: tool
@@ -185,6 +196,7 @@ entries:
         - opensource-alt
   - name: gltfpack
     url: https://github.com/zeux/meshoptimizer/tree/master/gltf
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Aggressive glTF mesh/texture optimization.
     license: Open Source
     entry_type: tool
@@ -204,6 +216,7 @@ entries:
         - opensource-alt
   - name: glTF Pipeline
     url: https://github.com/CesiumGS/gltf-pipeline
+    added_at: '2026-04-16T19:59:30.000Z'
     description: GlTF ↔ GLB, Draco compress, texture resize.
     license: Open Source
     entry_type: tool
@@ -223,6 +236,7 @@ entries:
         - opensource-alt
   - name: glTF Validator
     url: https://github.com/KhronosGroup/glTF-Validator
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official Khronos spec validation.
     license: Open Source
     entry_type: tool
@@ -243,6 +257,7 @@ entries:
         - opensource-alt
   - name: glTF Viewer
     url: https://gltf-viewer.donmccurdy.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Web-based glTF/GLB viewer.
     license: Open Source
     entry_type: tool
@@ -260,6 +275,7 @@ entries:
         - opensource-alt
   - name: ImageMagick
     url: https://imagemagick.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: CLI, 200+ image formats.
     license: Open Source
     entry_type: tool
@@ -279,6 +295,7 @@ entries:
         - opensource-alt
   - name: Squoosh
     url: https://squoosh.app/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Google. AVIF/WebP/JPEG XL image compression.
     license: Open Source
     entry_type: tool
@@ -296,6 +313,7 @@ entries:
         - opensource-alt
   - name: TinyPNG
     url: https://tinypng.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Lossy PNG/JPEG compression.
     entry_type: tool
     license: Freemium
@@ -311,6 +329,7 @@ entries:
         - web
   - name: PNGQuant
     url: https://pngquant.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: CLI lossy PNG compression.
     license: Open Source
     entry_type: tool
@@ -330,6 +349,7 @@ entries:
         - opensource-alt
   - name: SoX
     url: https://sourceforge.net/projects/sox/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Command-line audio converter and batch processor for format, resample, and effect passes.
     license: Open Source
     entry_type: tool
@@ -354,6 +374,7 @@ entries:
         - opensource-alt
   - name: OIIO (OpenImageIO)
     url: https://github.com/AcademySoftwareFoundation/OpenImageIO
+    added_at: '2026-04-16T19:59:30.000Z'
     description: ASWF CLI tools, 100+ formats. VFX pipeline standard.
     license: Open Source
     entry_type: tool
@@ -373,6 +394,7 @@ entries:
     url_status: ok
   - name: F Spy USD
     url: https://github.com/Vochsel/fspy-USD
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Unofficial fSpy to USD converter.
     entry_type: tool
     license: Open Source
@@ -392,6 +414,7 @@ entries:
     last_pushed: '2021-02-03'
   - name: Pixelicious
     url: https://www.pixelicious.xyz/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Image-to-Pixel Art converter.
     entry_type: tool
     license: Free
@@ -404,6 +427,7 @@ entries:
         - web
   - name: Packyderm
     url: https://isometric8.itch.io/packyderm-unitypackage-extractor
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
     entry_type: tool
     license: Free
@@ -418,6 +442,7 @@ entries:
         - unity-plugin
   - name: Retargeting Mixamo Animation Tool
     url: http://terribilisstudio.fr/converter
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Web tool to retarget Mixamo animations.
     entry_type: tool
     license: Free
@@ -432,6 +457,7 @@ entries:
         - web
   - name: 3DGS Converter
     url: https://github.com/francescofugazzi/3dgsconverter
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Format conversion tool for 3D Gaussian Splatting data.
     entry_type: tool
     license: Open Source
@@ -449,6 +475,7 @@ entries:
         - gaussian-splatting
   - name: Needle USD Converter
     url: https://usd.needle.tools/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Web-based USD/USDZ viewer and converter.
     entry_type: tool
     license: Free
@@ -466,6 +493,7 @@ entries:
     url_status: unreachable
   - name: GLTF Report
     url: https://gltf.report
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Web app to diagnose and optimize glTF files. Inspector supports BASIS/KTX2 textures. By Don McCurdy.
     entry_type: tool
     license: Free
@@ -481,6 +509,7 @@ entries:
         - web
   - name: Assimp (site)
     url: https://www.assimp.org/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
     license: Open Source
     entry_type: tool

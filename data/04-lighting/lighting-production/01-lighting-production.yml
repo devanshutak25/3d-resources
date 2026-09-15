@@ -1,6 +1,7 @@
 entries:
   - name: UE5 Product Viz. IPhone Lighting Breakdown
     url: https://www.youtube.com/@ali.3d
+    added_at: '2026-04-19T19:05:38.000Z'
     description: UE5 product viz iPhone lighting breakdown.
     entry_type: channel
     license: Free
@@ -20,6 +21,7 @@ entries:
     url_status: ok
   - name: CNDL
     url: https://cndl.io/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Web tool to create custom IES light profiles.
     license: Freemium
     entry_type: tool

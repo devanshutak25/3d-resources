@@ -1,6 +1,7 @@
 entries:
   - name: ComfyUI
     url: https://comfy.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Node-based AI generator for image/video/3D/audio.
     license: Open Source
     entry_type: software
@@ -19,6 +20,7 @@ entries:
       - ai-ml-for-cg/comfyui-ecosystem
   - name: Midjourney v7
     url: https://www.midjourney.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Industry-leading artistic coherence and stylized output.
     license: Paid
     entry_type: software
@@ -38,6 +40,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: FLUX.2 (Black Forest Labs)
     url: https://blackforestlabs.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-weight photorealism with Kontext editing.
     license: Freemium
     entry_type: software
@@ -56,6 +59,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Stable Diffusion 3.5
     url: https://huggingface.co/stabilityai
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source diffusion (Large, Medium, Turbo sizes).
     license: Open Source
     entry_type: software
@@ -75,6 +79,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: GPT Image (OpenAI)
     url: https://openai.com/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Instruction-following image model with strong text rendering. GPT Image 1.5.
     license: Paid
     entry_type: software
@@ -93,6 +98,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Adobe Firefly 3
     url: https://firefly.adobe.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Commercial-safe, deep Creative Cloud integration.
     license: Paid
     entry_type: software
@@ -112,6 +118,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Leonardo AI
     url: https://leonardo.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Real-time generation with artistic control.
     license: Freemium
     entry_type: software
@@ -131,6 +138,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Ideogram 2.0
     url: https://ideogram.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Best-in-class typography and text rendering, canvas mode.
     license: Freemium
     entry_type: software
@@ -149,6 +157,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Nano Banana Pro (Google Gemini)
     url: https://gemini.google.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Instruction-based editing with character and product consistency across edits.
     license: Freemium
     entry_type: software
@@ -167,6 +176,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Grok Aurora (xAI)
     url: https://x.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Photorealistic image gen integrated into Grok.
     license: Paid
     entry_type: software
@@ -185,6 +195,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Recraft V3
     url: https://www.recraft.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Design-oriented gen. Vector, icons, brand assets.
     license: Freemium
     entry_type: software
@@ -203,6 +214,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Krea AI
     url: https://www.krea.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Real-time generation, upscaling, and style transfer platform.
     license: Freemium
     entry_type: software
@@ -222,6 +234,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Playground v3
     url: https://playground.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Mixed-mode design canvas for graphic design.
     license: Freemium
     entry_type: software
@@ -240,6 +253,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Kolors (Kuaishou)
     url: https://github.com/Kwai-Kolors/Kolors
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source, bilingual Chinese/English.
     license: Open Source
     entry_type: software
@@ -259,6 +273,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: HunyuanDiT (Tencent)
     url: https://github.com/Tencent/HunyuanDiT
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source DiT-based, strong Chinese text.
     license: Open Source
     entry_type: software
@@ -278,6 +293,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Jimeng / Dreamina (ByteDance)
     url: https://jimeng.jianying.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: High quality, integrated with video pipeline.
     license: Freemium
     entry_type: software
@@ -296,6 +312,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Aga Miko/pixel Character Generator
     url: https://github.com/AgaMiko/pixel_character_generator
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
     license: Open Source
     entry_type: software
@@ -313,6 +330,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Snowpixel
     url: https://snowpixel.app
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
     license: Freemium
     entry_type: software
@@ -327,6 +345,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Poly
     url: https://withpoly.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI-generated PBR textures and materials, tileable with full map sets.
     license: Freemium
     entry_type: software
@@ -348,6 +367,7 @@ entries:
       - ai-ml-for-cg/texture-material-generation
   - name: Scenario
     url: https://www.scenario.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Game-ready PBR materials, full map sets.
     license: Paid
     entry_type: software
@@ -371,6 +391,7 @@ entries:
       - ai-ml-for-cg/texture-material-generation
   - name: Meshy Textures
     url: https://www.meshy.ai/features/ai-texture-generator
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Integrated with 3D pipeline.
     license: Freemium
     entry_type: software
@@ -391,6 +412,7 @@ entries:
       - ai-ml-for-cg/texture-material-generation
   - name: Adobe Firefly Textures
     url: https://www.adobe.com/products/firefly
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Prompt-to-edit texture workflows.
     license: Paid
     entry_type: software
@@ -411,6 +433,7 @@ entries:
       - ai-ml-for-cg/texture-material-generation
   - name: Ponzu
     url: https://www.ponzu.gg/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI texture gen from text prompts for uploaded meshes.
     license: Freemium
     entry_type: software
@@ -431,6 +454,7 @@ entries:
       - ai-ml-for-cg/texture-material-generation
   - name: InstaMAT
     url: https://instamaterial.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Material authoring with AI workflows (Substance alternative).
     license: Paid
     entry_type: software
@@ -451,6 +475,7 @@ entries:
       - ai-ml-for-cg/texture-material-generation
   - name: SLK_img2pixel
     url: https://captain4lk.itch.io/slk-img2pixel
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Convert images/textures to pixel art
     license: Free
     entry_type: tool
@@ -468,6 +493,7 @@ entries:
     url_status: ok
   - name: Imagen
     url: https://deepmind.google/models/imagen/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Google photoreal image model via Gemini and Vertex.
     license: Paid
     entry_type: software
@@ -490,6 +516,7 @@ entries:
       - ai-ml-for-cg/image-generation
   - name: Reve
     url: https://reve.art/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Image model with strong prompt adherence.
     license: Freemium
     entry_type: software

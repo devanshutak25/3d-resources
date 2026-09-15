@@ -1,6 +1,7 @@
 entries:
   - name: Yarn Spinner
     url: https://yarnspinner.dev/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Dialogue tool for Unity/Godot (Night in the Woods).
     license: Open Source
     entry_type: tool
@@ -20,6 +21,7 @@ entries:
     url_status: ok
   - name: Ink
     url: https://www.inklestudios.com/ink/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Narrative scripting by Inkle (Heaven's Vault, Sable).
     license: Open Source
     entry_type: tool
@@ -39,6 +41,7 @@ entries:
     url_status: ok
   - name: Twine
     url: https://twinery.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free, open-source interactive fiction.
     license: Open Source
     entry_type: tool
@@ -59,6 +62,7 @@ entries:
         - opensource-alt
   - name: Prototype
     url: https://github.com/inkle/prototype
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Prototype component pattern for Unity.
     license: Open Source
     entry_type: reference
@@ -76,6 +80,7 @@ entries:
     last_pushed: '2017-10-17'
   - name: Ink Unity Integration
     url: https://github.com/inkle/ink-unity-integration
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.
     license: Open Source
     entry_type: plugin

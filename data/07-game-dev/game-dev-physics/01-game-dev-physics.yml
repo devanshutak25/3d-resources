@@ -1,6 +1,7 @@
 entries:
   - name: Jolt Physics
     url: https://github.com/jrouwe/JoltPhysics
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source 3D physics (used in Horizon Forbidden West).
     license: Open Source
     entry_type: tool
@@ -23,6 +24,7 @@ entries:
     url_status: ok
   - name: Box2D v3
     url: https://box2d.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 2D physics engine rewrite by Erin Catto.
     license: Open Source
     entry_type: tool
@@ -45,6 +47,7 @@ entries:
     url_status: ok
   - name: Rapier
     url: https://rapier.rs/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Rust physics engine (2D/3D, used with Bevy).
     license: Open Source
     entry_type: tool
@@ -68,6 +71,7 @@ entries:
     url_status: ok
   - name: Box2D.NET
     url: https://github.com/ikpil/Box2D.NET
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A port of Box2D, is a 2D physics engine for games,.NET C#, Unity3D, servers.
     license: Open Source
     entry_type: reference
@@ -87,6 +91,7 @@ entries:
         - opensource-alt
   - name: Lockstep Framework
     url: https://github.com/SnpM/LockstepFramework
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A framework designed for games that need lockstep simulations. It includes a deterministic 2D physics engine, pathfinding, behavior system. LSF is integrated with Unity.
     license: Open Source
     entry_type: tool
@@ -109,6 +114,7 @@ entries:
     last_pushed: '2023-09-01'
   - name: UnrealJolt
     url: https://github.com/Yadhu-S/UnrealJolt
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
     license: Open Source
     entry_type: plugin
@@ -127,6 +133,7 @@ entries:
         - unreal-plugin
   - name: Cannon.js
     url: http://schteppe.github.io/cannon.js/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Lightweight and simple 3D physics engine for the web.
     license: Open Source
     entry_type: tool

@@ -1,6 +1,7 @@
 entries:
   - name: Polymesh to Volume (Arnold)
     url: https://docs.arnoldrenderer.com/display/A5AFMUG/Polymesh+to+Volume
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Arnold polymesh to volume conversion.
     license: Free
     entry_type: reference
@@ -23,6 +24,7 @@ entries:
         - path-tracing
   - name: Ariev Visuals Resources
     url: http://arievvisuals.com/resources
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Octane tutorials and assets.
     license: Free
     entry_type: reference
@@ -44,6 +46,7 @@ entries:
         - path-tracing
   - name: Veach Thesis (Stanford)
     url: https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Light transport theory. Foundational PBR thesis.
     license: Free
     entry_type: reference
@@ -64,6 +67,7 @@ entries:
     url_status: ok
   - name: Takua Renderer
     url: http://www.yiningkarlli.com/projects/takuarender/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Karl Li's hobbyist physically-based renderer project page with technical write-ups.
     entry_type: reference
     license: Free

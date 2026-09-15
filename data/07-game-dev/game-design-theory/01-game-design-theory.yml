@@ -1,6 +1,7 @@
 entries:
   - name: Game UI Database
     url: https://www.gameuidatabase.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Searchable database of game UI/UX screenshots for interface reference.
     entry_type: reference
     readme_tags:
@@ -15,6 +16,7 @@ entries:
         - web
   - name: How To Market A Game
     url: https://howtomarketagame.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Marketing strategies for indie games.
     entry_type: reference
     readme_tags:
@@ -29,6 +31,7 @@ entries:
         - web
   - name: Red Blob Games
     url: https://www.redblobgames.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Interactive visual explanations (pathfinding, hex grids, noise).
     license: Free
     entry_type: reference
@@ -48,6 +51,7 @@ entries:
         - web
   - name: GDC Vault (Free)
     url: https://gdcvault.com/free/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Hundreds of free GDC talks.
     license: Free
     entry_type: reference
@@ -66,6 +70,7 @@ entries:
     deprecated: true
   - name: Deconstructor of Fun
     url: https://www.deconstructoroffun.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: F2P game design and business.
     entry_type: reference
     readme_tags:
@@ -80,6 +85,7 @@ entries:
         - web
   - name: Game Programming Patterns
     url: http://gameprogrammingpatterns.com/contents.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Lots of great game development patterns useful when making games with or without Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -95,6 +101,7 @@ entries:
         - web
   - name: Unity Game Programming Patterns
     url: https://github.com/TarasOsiris/unity-game-programming-patterns
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Game Programming Pattern Examples in Unity3D.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -115,6 +122,7 @@ entries:
     last_pushed: '2015-05-07'
   - name: Slynyrd
     url: https://www.patreon.com/slynyrd
+    added_at: '2026-04-19T17:15:03.000Z'
     description: American, game designer with tons of material, game specific knowledge and mini-tutorials.
     entry_type: channel
     url_last_verified: '2026-09-01'
@@ -128,6 +136,7 @@ entries:
         - web
   - name: pixeldudesmaker
     url: https://0x72.itch.io/pixeldudesmaker
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Small pixel-art character generator, with basic animation.
     entry_type: tool
     license: Free
@@ -140,6 +149,7 @@ entries:
         - win
   - name: Turbulenz
     url: http://biz.turbulenz.com/developers
+    added_at: '2026-04-19T17:15:03.000Z'
     description: HTML5 game engine for building, publishing, and monetising games with 3D effects and real-time physics.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -151,6 +161,7 @@ entries:
         - web
   - name: Timanthes
     url: http://csdb.dk/release/?id=75871
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A pixel art editor for the Commodore 64 computer running on Windows
     entry_type: tool
     license: Free
@@ -163,6 +174,7 @@ entries:
         - win
   - name: SpriteKit
     url: https://developer.apple.com/spritekit/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: SpriteKit code to make your game work on iOS, macOS, and tvOS without a hitch.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -177,6 +189,7 @@ entries:
         - ios
   - name: DevianArt7Soul1
     url: https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Offers a specific set of 420 pixel art icons designed for RPG games.
     entry_type: asset-source
     url_last_verified: '2026-09-01'
@@ -188,6 +201,7 @@ entries:
         - web
   - name: 'Game Development Essentials: Game Level Design'
     url: http://www.goodreads.com/book/show/1633392.Game_Development_Essentials
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Book on game level design fundamentals.
     entry_type: book
     url_last_verified: '2026-09-01'
@@ -202,6 +216,7 @@ entries:
     deprecated: true
   - name: LWF
     url: http://gree.github.io/lwf/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -215,6 +230,7 @@ entries:
         - web
   - name: Phototiler
     url: https://halfmaps.itch.io/phototiler
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight photorealistic map renderer that allows quick rendering of 3D maps for creative cartography.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -226,6 +242,7 @@ entries:
         - win
   - name: Unity in Action (book)
     url: https://www.manning.com/books/unity-in-action-second-edition
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Hands-on Unity game development book (Manning).
     entry_type: book
     url_last_verified: '2026-09-01'
@@ -241,6 +258,7 @@ entries:
         - unity-plugin
   - name: Resemble
     url: https://www.resemble.ai/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: AI voice cloning and speech generation for game dialogue.
     entry_type: service
     url_last_verified: '2026-09-02'
@@ -256,6 +274,7 @@ entries:
         - ai-generative
   - name: Spritemate
     url: http://www.spritemate.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Online Editor for Commodore 64 Sprites
     entry_type: tool
     license: Free
@@ -268,6 +287,7 @@ entries:
         - web
   - name: Pixel Composer (GitHub)
     url: https://github.com/Ttanasart-pt/Pixel-Composer
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Node-based VFX editor for pixel art.
     entry_type: tool
     license: Open Source
@@ -285,6 +305,7 @@ entries:
         - node-based
   - name: Open 3D Engine (O3ED)
     url: https://github.com/o3de/o3de
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games
     entry_type: software
     license: Open Source
@@ -301,6 +322,7 @@ entries:
         - real-time
   - name: friflo ECS
     url: https://github.com/friflo/Friflo.Engine.ECS
+    added_at: '2026-04-16T21:13:44.000Z'
     description: High-performance C# ECS with simple API. Supports.NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame,..
     entry_type: reference
     license: Open Source
@@ -319,6 +341,7 @@ entries:
         - opensource-alt
   - name: Unity Audio Manager
     url: https://github.com/MathewHDYT/Unity-Audio-Manager
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Plugin to play, change, stop, and mute 2D/3D sounds in Unity.
     entry_type: plugin
     license: Open Source
@@ -338,6 +361,7 @@ entries:
         - unity-plugin
   - name: Epic Games
     url: https://github.com/epicgames
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Epic Games on GitHub. Official Unreal Engine and related repos.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -352,6 +376,7 @@ entries:
         - unreal-plugin
   - name: Unity Technologies
     url: https://github.com/unity-technologies
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Unity Technologies on GitHub. Official Unity repos and samples.
     entry_type: reference
     url_last_verified: '2026-09-01'

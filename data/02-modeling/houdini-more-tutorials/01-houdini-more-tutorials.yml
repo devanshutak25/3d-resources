@@ -1,6 +1,7 @@
 entries:
   - name: Writing Your Own Polywire
     url: https://vimeo.com/336017942
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Jake Rice on custom polywire.
     entry_type: tutorial
     license: Free
@@ -23,6 +24,7 @@ entries:
         - houdini
   - name: Procedural Modeling with VEX
     url: https://www.cgcircuit.com/course/procedural-modeling-with-vex
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Tighe Rzankowski procedural modeling course.
     entry_type: tutorial
     license: Paid
@@ -46,6 +48,7 @@ entries:
     url_status: ok
   - name: Extracting Transform Matrices
     url: https://vimeo.com/284712920
+    added_at: '2026-04-16T19:59:30.000Z'
     description: How to extract transform matrices.
     entry_type: tutorial
     license: Free
@@ -67,6 +70,7 @@ entries:
         - houdini
   - name: For Loops Tutorial
     url: https://lesterbanks.com/2019/04/how-to-animate-subdivisions-in-houdini/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: For loops and animated subdivisions.
     entry_type: tutorial
     license: Free
@@ -88,6 +92,7 @@ entries:
         - houdini
   - name: Art Directing Paint Splashes
     url: https://whatifound.net/2020/06/13/houdini-paint-splashes/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Art-directed paint splashes.
     entry_type: tutorial
     license: Free
@@ -109,6 +114,7 @@ entries:
         - houdini
   - name: Building Growth Animation
     url: https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Building growth animation technique.
     entry_type: tutorial
     license: Free
@@ -130,6 +136,7 @@ entries:
         - houdini
   - name: Node Studies
     url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Node study slide deck.
     entry_type: reference
     license: Free
@@ -149,6 +156,7 @@ entries:
         - houdini
   - name: Point Cloud to Mesh (Microsoft)
     url: https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/houdini-point-cloud
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Point cloud to mesh guide.
     entry_type: tutorial
     license: Free
@@ -171,6 +179,7 @@ entries:
         - houdini
   - name: Cloner Object
     url: https://www.sidefx.com/tutorials/part-1-cloner-object/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: MoGraph Cloner tutorial.
     entry_type: tutorial
     license: Free
@@ -190,6 +199,7 @@ entries:
         - houdini
   - name: Muscles Masterclass
     url: https://www.sidefx.com/tutorials/muscles-masterclass-advanced-special-topics/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Advanced muscles masterclass.
     entry_type: tutorial
     license: Free
@@ -212,6 +222,7 @@ entries:
         - houdini
   - name: AI For Artists
     url: https://github.com/kiryha/Houdini/wiki/AI-For-Artists
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI techniques applied to Houdini.
     entry_type: reference
     license: Free
@@ -232,6 +243,7 @@ entries:
     url_status: ok
   - name: Houdini for Astronomy
     url: http://ytini.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Astronomy and scientific viz in Houdini.
     entry_type: reference
     license: Free
@@ -249,6 +261,7 @@ entries:
     url_status: ok
   - name: MysteryPancake Houdini Fun
     url: https://github.com/MysteryPancake/Houdini-Fun
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Fun experimental Houdini repo.
     entry_type: reference
     license: Open Source
@@ -269,6 +282,7 @@ entries:
         - web
   - name: Procegen by Konstantin Magnus
     url: https://procegen.konstantinmagnus.de/
+    added_at: '2026-05-19T15:30:10.000Z'
     description: Konstantin Magnus tutorials on procedural modeling, texturing, and tool building in Houdini.
     entry_type: tutorial
     license: Free
@@ -292,6 +306,7 @@ entries:
     url_status: ok
   - name: USD Basics with Solaris
     url: https://www.sidefx.com/tutorials/usd-basics-with-solaris/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official tutorial on USD basics in Solaris.
     entry_type: tutorial
     license: Free
@@ -313,6 +328,7 @@ entries:
     url_status: ok
   - name: Houdini Quick Tips
     url: https://houdiniquicktips.weebly.com/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Short Houdini tips and quick technique walkthroughs.
     license: Free
     entry_type: tutorial

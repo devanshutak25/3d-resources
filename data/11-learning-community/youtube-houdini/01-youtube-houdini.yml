@@ -1,6 +1,7 @@
 entries:
   - name: Entagma (YouTube)
     url: https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Advanced design and mograph.
     entry_type: channel
     license: Free
@@ -20,6 +21,7 @@ entries:
         - advanced
   - name: John Kunz (YouTube)
     url: https://www.youtube.com/@JohnKunz
+    added_at: '2026-04-19T19:05:38.000Z'
     description: FX, coding, Redshift.
     entry_type: channel
     license: Free
@@ -39,6 +41,7 @@ entries:
         - web
   - name: NineBetween
     url: https://www.youtube.com/@NineBetween
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Houdini beginner series (Houdini Isn't Scary).
     entry_type: channel
     license: Free
@@ -58,6 +61,7 @@ entries:
     url_status: ok
   - name: Tim van Helsdingen
     url: https://www.youtube.com/@TimvanHelsdingen3D
+    added_at: '2026-04-16T19:59:30.000Z'
     description: FX and procedural tutorials.
     entry_type: channel
     license: Free
@@ -78,6 +82,7 @@ entries:
         - web
   - name: Junichiro Horikawa
     url: https://www.youtube.com/@JunichiroHorikawa
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Procedural and generative Houdini.
     entry_type: channel
     license: Free
@@ -98,6 +103,7 @@ entries:
     url_status: ok
   - name: SideFX Official
     url: https://www.youtube.com/channel/UCegWLyW4CYzph4dYW-gYy0g
+    added_at: '2026-04-16T19:59:30.000Z'
     description: SideFX's official channel.
     entry_type: channel
     license: Free
@@ -115,6 +121,7 @@ entries:
         - web
   - name: Christopher Rutledge
     url: https://www.youtube.com/@chr1st0pher
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Houdini Nerd community creator.
     entry_type: channel
     license: Free
@@ -134,6 +141,7 @@ entries:
         - web
   - name: Mark Fancher
     url: https://www.youtube.com/@MarkFancherFX
+    added_at: '2026-04-16T19:59:30.000Z'
     description: FX breakdowns.
     entry_type: channel
     license: Free
@@ -153,6 +161,7 @@ entries:
         - web
   - name: Simon Fiedler
     url: https://vimeo.com/simonfiedler
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Mograph and Houdini on Vimeo.
     entry_type: channel
     license: Free
@@ -170,6 +179,7 @@ entries:
         - web
   - name: Asis FX
     url: https://www.youtube.com/@AxisDesignerGFX
+    added_at: '2026-04-16T19:59:30.000Z'
     description: FX tutorials.
     entry_type: channel
     license: Free
@@ -189,6 +199,7 @@ entries:
         - web
   - name: Parker Coleman
     url: https://www.youtube.com/@parkercoleman8078
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Houdini tutorial channel. Procedural workflows, sim setups, tools.
     entry_type: channel
     license: Free
@@ -209,6 +220,7 @@ entries:
         - web
   - name: Auto Cache Out Tool
     url: https://www.youtube.com/@ron4431
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Houdini tool for managing caches and .hip files. Lays down the caching nodes and auto-creates render output directories.
     entry_type: channel
     license: Free

@@ -1,6 +1,7 @@
 entries:
   - name: Rebelway
     url: https://www.rebelway.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: FX, procedural modeling, VEX, pyro, destruction, fluid, fur, muscle, lighting, ML courses. Many free tutorials.
     license: Freemium
     entry_type: tutorial

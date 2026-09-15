@@ -814,3 +814,30 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > recommendations accepted, go
 
 **Answered:** Phase 4 applied. 11 URL fixes, 3 false positives cleared, 2 deletions, 3 legacy-defunct Wikipedia repoints. Broken count 54 -> 2 (both intentional 5xx holds). Validation ✓ 424 warnings, 0 errors. Nothing committed.
+
+## 2026-09-04
+
+**Prompt:**
+> https://www.pixmind.io/
+>
+> https://www.pixmind.io/pixmind-builder
+>
+> https://github.com/devanshutak25/3d-resources/issues/15
+>
+> I will take care of replying and closing the issue. Just read everything and see how it fits
+
+**Answered:** Read-only assessment of issue #15 (PixMind, vendor-disclosed submission). Verdict: weak fit. Product self-positions as e-commerce/marketing content workspace, not CG production; no dupe in catalog; if accepted, §12 `ai-canvas-software` (multi-model aggregator peers: Flora, Kaiber, Freepik Spaces) fits better than the submitter's §09 `image-generation`. No data edits made.
+
+## 2026-09-15
+
+**Prompt:**
+> G:\Personal\3d\_resources
+>
+> go through repo and find issues
+
+**Answered:** Reviewed the matching G:\Personal\3d_resources repository; identified eight issues in validation, export/search, filtering, graph links, feed chronology and link checks.
+
+**Prompt:**
+> fix all these things
+
+**Answered:** Prepared all eight fixes in a workspace copy because repository write access was not granted. Added regression tests, stable addition dates and CI coverage; packaged a patch for application.

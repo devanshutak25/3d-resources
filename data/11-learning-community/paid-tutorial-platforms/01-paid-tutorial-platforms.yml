@@ -1,6 +1,7 @@
 entries:
   - name: 3D for Designers
     url: https://www.3dfordesigners.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: C4D and motion design courses.
     license: Paid
     entry_type: tutorial
@@ -18,6 +19,7 @@ entries:
         - web
   - name: Motion Design School (site)
     url: https://motiondesign.school/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion graphics courses.
     license: Paid
     entry_type: tutorial
@@ -35,6 +37,7 @@ entries:
         - web
   - name: MoGraph Mentor (site)
     url: https://www.mographmentor.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D motion design courses.
     license: Paid
     entry_type: tutorial
@@ -52,6 +55,7 @@ entries:
         - web
   - name: CG Shortcuts (site)
     url: https://cgshortcuts.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: C4D workflow courses.
     license: Paid
     entry_type: tutorial
@@ -69,6 +73,7 @@ entries:
         - web
   - name: CGCookie
     url: https://cgcookie.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blender courses. $29/mo.
     license: Paid
     entry_type: tutorial
@@ -86,6 +91,7 @@ entries:
         - web
   - name: Pluralsight
     url: https://www.pluralsight.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: All software, $29/mo.
     license: Paid
     entry_type: tutorial
@@ -103,6 +109,7 @@ entries:
         - web
   - name: LearnSquared
     url: https://www.learnsquared.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Professional CG courses.
     license: Paid
     entry_type: tutorial
@@ -120,6 +127,7 @@ entries:
         - web
   - name: Patata School
     url: https://www.patataschool.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: C4D and Octane courses.
     license: Paid
     entry_type: tutorial
@@ -137,6 +145,7 @@ entries:
         - web
   - name: Pragmatic VFX
     url: https://pragmatic-vfx.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Advanced Houdini courses from an ILM FX TD.
     license: Paid
     entry_type: tutorial
@@ -158,6 +167,7 @@ entries:
         - houdini
   - name: Wingfox
     url: https://www.wingfox.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: CG tutorials sold per course.
     license: Paid
     entry_type: tutorial
@@ -175,6 +185,7 @@ entries:
         - web
   - name: Jonathan Lindgren
     url: https://jonathanlindgren.teachable.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D design and motion courses.
     license: Paid
     entry_type: tutorial
@@ -192,6 +203,7 @@ entries:
         - web
   - name: Mind + Motion (Effectatron)
     url: https://effectatron-c4d-redshift.teachable.com/
+    added_at: '2026-04-16T20:54:45.000Z'
     description: Derek Kirk's C4D + Redshift course. Covers imposter syndrome / mental health alongside technique. $10–$49.99 per course.
     pricing: $10–$49.99 per course
     license: Paid
@@ -210,6 +222,7 @@ entries:
     url_status: ok
   - name: Pixel Art Tutorial Basics for Beginners
     url: http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Pixel art basics for beginners.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -223,6 +236,7 @@ entries:
         - web
   - name: tinyrenderer
     url: https://github.com/ssloy/tinyrenderer
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Computer graphics course that builds a simplified OpenGL-style software renderer from scratch.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -238,6 +252,7 @@ entries:
         - opensource-alt
   - name: Interactive 3D Graphics
     url: https://www.udacity.com/course/interactive-3d-graphics--cs291
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Udacity course on real-time 3D graphics fundamentals.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -253,6 +268,7 @@ entries:
         - web
   - name: 'Learn OpenGL: Beginner''s guide to 3D rendering and game development with OpenGL and C++'
     url: https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Beginner's guide to 3D rendering and game development with OpenGL and C++.
     entry_type: book
     url_last_verified: '2026-09-01'
@@ -268,6 +284,7 @@ entries:
         - web
   - name: Beginning Python For Maya (Zurbrigg)
     url: https://zurbrigg.teachable.com/p/python-3-for-maya-vol-1
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Structured Python course for Maya users.
     entry_type: tutorial
     license: Paid
@@ -288,6 +305,7 @@ entries:
         - python
   - name: Pixel logic
     url: https://gumroad.com/l/pixel-logic
+    added_at: '2026-04-19T17:15:03.000Z'
     description: In-depth pixel art tutorial book.
     entry_type: book
     url_last_verified: '2026-09-01'
@@ -301,6 +319,7 @@ entries:
         - web
   - name: Tech Gear HDA
     url: https://www.sidefx.com/tutorials/tech-gear-generator/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Houdini HDA tutorial for generating cylindrical hard-surface details like gears and bolts for sci-fi assets.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -318,6 +337,7 @@ entries:
         - houdini
   - name: Artisticrender
     url: https://artisticrender.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tutorials, tips and resources for Blender and 3D.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -331,6 +351,7 @@ entries:
         - web
   - name: Interplanety
     url: https://b3d.interplanety.org/en/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender tutorials, articles and Python scripting notes.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -346,6 +367,7 @@ entries:
         - web
   - name: Blender 3D Architect
     url: https://www.blender3darchitect.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: News, tutorials and training for architectural visualization in Blender.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -359,6 +381,7 @@ entries:
         - web
   - name: 📰BlenderNation
     url: https://www.blendernation.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Daily news, art and tutorials for Blender.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -370,6 +393,7 @@ entries:
         - web
   - name: Blender Secrets
     url: https://www.blendersecrets.org/secrets
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Hundreds of one-minute video tutorials, each on a specific Blender topic.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -383,6 +407,7 @@ entries:
         - web
   - name: Darkfall (blog)
     url: https://darkfallblender.blogspot.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender Python and node tutorials.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -398,6 +423,7 @@ entries:
         - web
   - name: Unity in HoloLens
     url: https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Microsoft's official tutorials for building HoloLens apps in Unity.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -413,6 +439,7 @@ entries:
         - unity
   - name: Getting Started with VR in Unity (DigitalTutors)
     url: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Introductory tutorial for building VR experiences in Unity.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -428,6 +455,7 @@ entries:
         - unity
   - name: 'Blender 3D: Noob to Pro/Python Scripting'
     url: https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Python_Scripting/Introduction
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Python scripting chapter from the Blender 3D: Noob to Pro wikibook.'
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -443,6 +471,7 @@ entries:
         - web
   - name: GameDev.tv Unreal Engine Blueprint Game Developer Online Course
     url: https://www.gamedev.tv/p/unreal-blueprint/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unreal Engine Blueprint game development course.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -458,6 +487,7 @@ entries:
         - unreal
   - name: Design Patterns in Unity Example
     url: https://github.com/marwie/Design-Patterns-in-Unity-Example
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Derek Banas's design patterns tutorial series translated to C# in Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -477,6 +507,7 @@ entries:
     last_pushed: '2015-07-19'
   - name: Unity Readme
     url: https://github.com/JohnAlbin/UnityReadme
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Adds a readme / tutorial panel to the inspector tab of a Unity project.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -492,6 +523,7 @@ entries:
     last_pushed: '2019-02-03'
   - name: Houdini Tricks Tumblr
     url: https://houdinitricks.tumblr.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Assorted Houdini tips and quick tutorials.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -507,6 +539,7 @@ entries:
         - houdini
   - name: Unity tutorials in AR
     url: https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity Learn tutorials filtered for augmented reality.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -522,6 +555,7 @@ entries:
         - unity
   - name: Ray Wenderlich's Tutorials
     url: http://www.raywenderlich.com/category/unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Beginner and mid-level Unity tutorials and small example games.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -537,6 +571,7 @@ entries:
         - unity
   - name: 'Tutorial: Controlling Objects with Vive Trackers in Unity'
     url: https://www.solidearthvr.com/2017/05/12/tutorial-vive-tracker-basic-setup-in-unity/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Setting up Vive Trackers to control objects in Unity.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -552,6 +587,7 @@ entries:
         - unity
   - name: The CG Essentials
     url: https://thecgessentials.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender tutorials covering modeling, rendering, animation and particle simulation.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -565,6 +601,7 @@ entries:
         - web
   - name: Learn ARKit using Unity - Udacity
     url: https://www.udacity.com/course/learn-arkit-using-unity--ud114
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Udacity course on ARKit development using Unity.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -580,6 +617,7 @@ entries:
         - unity
   - name: Unity Gems Wordpress
     url: https://unitygem.wordpress.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity3D tutorials.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -595,6 +633,7 @@ entries:
         - unity
   - name: Unreal C++
     url: https://unrealcpp.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tutorials covering common Unreal Engine features implemented in C++.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -612,6 +651,7 @@ entries:
         - unreal
   - name: World of Level Design
     url: https://worldofleveldesign.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tutorials dedicated to level and environment design.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -625,6 +665,7 @@ entries:
         - web
   - name: 📺 Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts
     url: https://www.youtube.com/@azielarts
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Zelda-inspired landscapes built with procedural content generation.
     entry_type: channel
     url_last_verified: '2026-09-01'
@@ -638,6 +679,7 @@ entries:
         - web
   - name: 📺 MEGA TUTORIAL ~ Unreal Sensei
     url: https://www.youtube.com/@UnrealSensei
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Long-form Unreal Engine course covering Nanite and Lumen.
     entry_type: channel
     url_last_verified: '2026-09-01'
@@ -653,6 +695,7 @@ entries:
         - unreal
   - name: 📺 Custom Character Skeletons and Animations ~ Upside Tutorials
     url: https://www.youtube.com/@UpsideTutorials
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Custom character skeletons and animation in Unreal.
     entry_type: channel
     url_last_verified: '2026-09-01'
@@ -671,6 +714,7 @@ entries:
         - unreal
   - name: 📺 What Studio Ghibli Does That Disney Doesn’t ~ Pomeroy Art Academy
     url: https://www.youtube.com/@pomeroyartacademy
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Stylistic differences between Studio Ghibli and Disney animation.
     entry_type: channel
     url_last_verified: '2026-09-01'
@@ -684,6 +728,7 @@ entries:
         - web
   - name: Blender Beginner 3D Modeling Tutorial
     url: https://www.youtube.com/@tutor4u
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Beginner 3D modeling tutorials in Blender.
     entry_type: channel
     url_last_verified: '2026-09-01'

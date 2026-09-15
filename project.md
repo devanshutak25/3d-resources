@@ -207,7 +207,9 @@ Secondary:
 
 ### Entry shape
 
-Required: `name`, `url`, `description` (≤300 chars).
+Required: `name`, `url`, `description` (≤300 chars), `added_at` (ISO 8601 date-time).
+
+`added_at` is the persistent catalog addition time. Preserve it through URL corrections, moves and content edits. `catalog.appendEntry()` stamps new entries automatically. Existing entries were backfilled on 2026-09-15 using their earliest recorded URL or exact-name appearance in Git history; dates before the initial data import cannot be recovered.
 
 Optional fields: `pricing`, `best_for`, `license`, `entry_type`, `tags{workflow,output,platform,skill,tech}`, `readme_tags` (≤2), `notes`, `dual_listed_in`, `priority`, `year`, `deprecated`, `version_sensitive`, `pricing_last_verified`, `url_last_verified`, `url_status`, `review_cadence`, `host_compat`, `stale`, `archived`, `last_pushed`.
 
@@ -228,6 +230,8 @@ Entries appear once canonically + mirror into N other subsections via `dual_list
 ### Auto-updated fields
 
 `url_status`, `url_last_verified` — `check-links.js`.
+
+Link scans never change `deprecated`: that is an editorial decision. HTTP 5xx/408/425 responses are transient (`unreachable`); followed successful redirects are reported as `redirect`.
 `pricing_last_verified` — `check-pricing-freshness.js`.
 `stale`, `archived`, `last_pushed` — `check-repo-staleness.js`.
 
@@ -272,6 +276,8 @@ data/<section>/<sub>/*.yml ─┘
 **README stays in FULL mode (~760 KB).** `render.js` supports `--mode=lite` (~19 KB landing page), but nothing calls it: `build.sh` step 2 and `.github/workflows/link-check.yml` both run plain `node scripts/render.js > README.md`, and neither re-renders lite afterward. Wiring lite mode back in is an open decision, not a bug to silently patch. Sitemap is built last so it can include subsection + tag pages generated after build-html.
 
 ## 7. CI
+
+The validation workflow also runs the four existing unit suites and `scripts/lib/review-regressions.test.js`. Script, browser JavaScript, dependency and workflow changes trigger these checks on both pushes and PRs.
 
 `.github/workflows/validate.yml` triggers on changes to `data/**`, `schema/**`, `scripts/**`. Runs:
 1. `node scripts/validate.js` (schema + vocab + cross-section dupes).
@@ -349,6 +355,8 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 **Session end:** Final sweep — ensure all files reflect latest state.
 
 ## 11. Pending tasks / known work
+
+- 2026-09-15: Eight review fixes prepared. HDRI Hub has two README tags. Public JSON includes descriptions and section heading anchors and excludes deprecated entries; category decoration uses the displayed section, including mirrored tables. Graph links use shared `slugify`. Link scans preserve editorial deprecation and report transient failures/redirects. Atom entries sort globally by required `added_at` with stable publication/update timestamps. All 3,532 source entries were backfilled from history. Regression checks are included in CI.
 
 - 2026-09-02: **GitHub issue triage (#12, #13, #14). Link-check backlog cleared: 54 broken URLs -> 2.** Local main fast-forwarded to `5f4800c` (bot commits `718201a` link check + `5f4800c` release state). **#14 (release watch) = no-op**: all 27 entries read `Previous: (none tracked)` because that commit was the first write of `_maintenance/release-state.json` after the 2026-08-04 `.gitignore` fix; catalog has 0 `version_sensitive:` entries and no stale embedded version strings, so 0 data edits. Next month's issue shows real diffs. **#13 (link check)** triaged in 4 phases, per-entry verification (user explicitly rejected a blanket policy): **25 URL fixes, 16 deletions, 8 false positives cleared, 3 legacy Wikipedia repoints, 2 left flagged.** Deletions were owner-gone cases (GitHub accounts `ArchonInteractive`/`GeorgeDascalu`/`bonahova`/`SiposAttila1995` all 404; `blenderesse.gumroad.com` account root 404; hdrlabs.com reset to a "Launching Soon" placeholder taking Picturenaut + sIBL with it; blenderguru.com `/tutorials` tree gone; Firestorm CAD and pixelplow.com parked on HugeDomains; Modyfi acquired by Figma and shut down 2025-06-13). **Bot-block false positives are a recurring class** (Brandfetch 403, IEEE Xplore 418, Irrlicht/SourceForge 403, plus Sculptris and Shutter Encoder recovered): `check-links.js` uses a non-browser UA, so these were alive all along; each got a `notes:` line to stop re-deprecation. **Consider teaching `check-links.js` to retry a non-200 with a browser UA before writing `deprecated: true`.** Data error found en route: ICEM Surf was described as "(Siemens)" pointing at Siemens NX; it is Dassault Systemes CATIA ICEM Surf (url + description + readme_tags corrected). **#12 (Wardogs Wiki) declined** as out of scope (per-title fandom wiki = game content, not a production resource); decline text drafted, **user must post and close it** (`gh` CLI still not installed, no `GH_TOKEN` in session). **OPEN:** 2 entries still `url_status: broken` by the 5xx-is-not-404 rule, recheck next monthly run: Houdini Blueprints (`hdbp.io` 502 sitewide) + Maxon One Cloud (500). **OPEN:** 3D Coat Print is listed `Paid, ~$199 perpetual` but pilgway.com now calls it a free version, needs a pricing pass. **OPEN:** 79 `unreachable` URLs never triaged; expect more bot-blocks among them (`scripts/recheck-unreachable.js` targets these). Validation ✓ 424 warnings, 0 errors. README not regenerated; nothing committed. Unrelated: `origin/maintenance/freshness-2026-09` (`6206eb3`) now exists, so the "allow Actions to create PRs" setting flagged 2026-08-04 evidently works.
 

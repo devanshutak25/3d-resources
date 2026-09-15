@@ -1,6 +1,7 @@
 entries:
   - name: Unreal Engine Advanced Functions
     url: https://github.com/Mridulsrmh123/UnrealEngineAdvancedFunctions
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Library of handy Blueprint utility functions for Unreal Engine.
     license: Open Source
     entry_type: reference
@@ -21,6 +22,7 @@ entries:
         - opensource-alt
   - name: blueprintUE
     url: https://blueprintue.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Paste and share Unreal Blueprint nodes online.
     license: Free
     entry_type: community
@@ -36,6 +38,7 @@ entries:
         - web
   - name: VS Code Setup for UE
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-code-for-unreal-engine
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official guide to setting up VS Code for Unreal C++ work.
     license: Free
     entry_type: reference
@@ -51,6 +54,7 @@ entries:
         - web
   - name: Medieval Houses (Marketplace)
     url: https://unrealengine.com/marketplace/en-US/product/modular-medieval-house-pack
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Modular medieval house asset pack.
     license: Paid
     entry_type: asset-source
@@ -68,6 +72,7 @@ entries:
         - linux
   - name: Japanese Village (Marketplace)
     url: https://unrealengine.com/marketplace/en-US/product/japanese-medieval-village
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Japanese medieval village asset pack.
     license: Paid
     entry_type: asset-source
@@ -85,6 +90,7 @@ entries:
         - linux
   - name: UE4 Env. project
     url: https://github.com/UE4-OceanProject/Environment-Project
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Open environment simulation project (day/night, weather) for Unreal Engine 4.
     license: Open Source
     entry_type: reference
@@ -105,6 +111,7 @@ entries:
         - opensource-alt
   - name: Working with Data (Unreal Engine Learning)
     url: https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more#howtomakeinstanceobjects
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tutorial on data tables, data assets, and UProperty specifiers.
     license: Free
     entry_type: tutorial
@@ -122,6 +129,7 @@ entries:
         - intermediate
   - name: Tom Looman UE5 Tutorials
     url: https://www.tomlooman.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unreal C++ and gameplay tutorials, courses, and articles.
     license: Freemium
     entry_type: tutorial
@@ -139,6 +147,7 @@ entries:
         - intermediate
   - name: Alex Forsythe
     url: https://www.youtube.com/@AlexForsythe
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Deep-dive tutorials on Unreal's game framework and replication.
     license: Free
     entry_type: channel
@@ -156,6 +165,7 @@ entries:
         - intermediate
   - name: Code Like Me
     url: https://www.youtube.com/@CodeLikeMe
+    added_at: '2026-04-19T19:05:38.000Z'
     description: A wide variety of Unreal Engine tutorials.
     license: Free
     entry_type: channel
@@ -173,6 +183,7 @@ entries:
         - beginner
   - name: Gorka Games
     url: https://www.youtube.com/@GorkaGames
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Long tutorial series, short tutorials, and Unreal Engine news.
     license: Free
     entry_type: channel
@@ -190,6 +201,7 @@ entries:
         - beginner
   - name: Mathew Wadstein
     url: https://www.youtube.com/@MathewWadsteinTutorials
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Short videos covering nearly every Unreal class and Blueprint node.
     license: Free
     entry_type: channel
@@ -207,6 +219,7 @@ entries:
         - intermediate
   - name: Ryan Laley
     url: https://www.youtube.com/@RyanLaley
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Primarily Blueprint-based Unreal Engine tutorials.
     license: Free
     entry_type: channel
@@ -224,6 +237,7 @@ entries:
         - beginner
   - name: Virtus Learning Hub
     url: https://www.youtube.com/channel/UCz-eYJAUgSE-mqzKtit7m9g
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unreal Engine tutorials with several long course series.
     license: Free
     entry_type: channel
@@ -241,6 +255,7 @@ entries:
         - beginner
   - name: 'Unreal Docs: Gameplay Ability System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Docs for the Gameplay Ability System (GAS): abilities, attributes, and effects.'
     license: Free
     entry_type: reference
@@ -256,6 +271,7 @@ entries:
         - web
   - name: 'Unreal Docs: Gameplay Targeting System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-targeting-system-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for the Gameplay Targeting System.
     license: Free
     entry_type: reference
@@ -271,6 +287,7 @@ entries:
         - web
   - name: 'Unreal Docs: Game Features And Modular Gameplay'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/game-features-and-modular-gameplay-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for Game Features and Modular Gameplay plugins.
     license: Free
     entry_type: reference
@@ -286,6 +303,7 @@ entries:
         - web
   - name: 'Unreal Docs: State Tree'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/state-tree-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for State Tree, a hierarchical state machine for AI and logic.
     license: Free
     entry_type: reference
@@ -301,6 +319,7 @@ entries:
         - web
   - name: 'Unreal Docs: Smart Objects'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/smart-objects-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for Smart Objects, registerable interaction points for AI.
     license: Free
     entry_type: reference
@@ -316,6 +335,7 @@ entries:
         - web
   - name: 'Unreal Docs: Mass Entity'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/mass-entity-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for Mass Entity, Unreal's ECS framework for large agent counts.
     license: Free
     entry_type: reference
@@ -331,6 +351,7 @@ entries:
         - web
   - name: 'Unreal Docs: InstancedStruct'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Utilities/InstancedStruct
+    added_at: '2026-04-19T17:15:03.000Z'
     description: API reference for InstancedStruct, a container for instanced UStruct data.
     license: Free
     entry_type: reference
@@ -346,6 +367,7 @@ entries:
         - web
   - name: 'Unreal Docs: Gameplay Camera System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-camera-system
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for the Gameplay Camera System.
     license: Free
     entry_type: reference
@@ -361,6 +383,7 @@ entries:
         - web
   - name: 'Unreal Docs: Mutable Overview'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/mutable-overview-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for Mutable, runtime character customization and mesh generation.
     license: Free
     entry_type: reference
@@ -376,6 +399,7 @@ entries:
         - web
   - name: 'Unreal Docs: Procedural Content Generation Framework'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation--framework-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for the Procedural Content Generation (PCG) framework. See also [Electric Dreams PCG](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-in-electric-dreams).
     license: Free
     entry_type: reference
@@ -393,6 +417,7 @@ entries:
         - procedural
   - name: 'Unreal Docs: Modeling And Geometry Scripting'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/modeling-and-geometry-scripting-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for in-editor modeling tools and Geometry Script.
     license: Free
     entry_type: reference
@@ -408,6 +433,7 @@ entries:
         - web
   - name: 'Unreal Docs: Scriptable Tools System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/scriptable-tools-system-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for the Scriptable Tools System (Blueprint-authored editor tools).
     license: Free
     entry_type: reference
@@ -423,6 +449,7 @@ entries:
         - web
   - name: 'Unreal Docs: Water System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/water-system-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for the Water System (rivers, lakes, oceans).
     license: Free
     entry_type: reference
@@ -438,6 +465,7 @@ entries:
         - web
   - name: 'Unreal Docs: Metahuman Documentation'
     url: https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-documentation
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for MetaHuman creation and integration.
     license: Free
     entry_type: reference
@@ -453,6 +481,7 @@ entries:
         - web
   - name: 'Unreal Docs: Motion Design'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/motion-design-in-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for Motion Design, Unreal's broadcast and motion-graphics toolset.
     license: Free
     entry_type: reference
@@ -469,6 +498,7 @@ entries:
         - web
   - name: 'Unreal Docs: Umg Viewmodel'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-viewmodel-for-unreal-engine
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Docs for UMG ViewModel (MVVM-style UI data binding).
     license: Free
     entry_type: reference
@@ -484,6 +514,7 @@ entries:
         - web
   - name: 📄 Recommended Asset Naming Conventions ~ epicgames
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official naming conventions for folders and asset files.
     license: Free
     entry_type: reference
@@ -499,6 +530,7 @@ entries:
         - web
   - name: 'GameDev.tv Unreal 5.0 C++ Developer: Learn C++ and Make Video Games'
     url: https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Course teaching C++ game programming in Unreal Engine 5.
     license: Paid
     entry_type: tutorial
@@ -516,6 +548,7 @@ entries:
         - intermediate
   - name: Velocity Grid Export
     url: https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tool to export vector fields out of Houdini for Unreal.
     license: Free
     entry_type: tool
@@ -535,6 +568,7 @@ entries:
         - houdini-addon
   - name: PBCharacterMovement
     url: https://github.com/ProjectBorealis/PBCharacterMovement
+    added_at: '2026-04-19T17:29:43.000Z'
     description: HL2-style classic FPS movement for Unreal Engine, written in C++.
     license: Open Source
     entry_type: plugin
@@ -555,6 +589,7 @@ entries:
         - opensource-alt
   - name: Va Fog Of War
     url: https://github.com/ufna/VaFogOfWar
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Fog of War solution for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -576,6 +611,7 @@ entries:
     archived: true
   - name: ObjectDeliverer
     url: https://github.com/ayumax/ObjectDeliverer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Data transmission and reception library for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -597,6 +633,7 @@ entries:
     archived: true
   - name: Socket IO Client Unreal
     url: https://github.com/getnamo/SocketIOClient-Unreal
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Socket.IO client plugin for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -617,6 +654,7 @@ entries:
         - opensource-alt
   - name: Socketer
     url: https://github.com/How2Compute/Socketer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: TCP socket Blueprint library for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -639,6 +677,7 @@ entries:
     last_pushed: '2024-04-24'
   - name: TCP Unreal
     url: https://github.com/getnamo/TCP-Unreal
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Convenience TCP wrapper for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -659,6 +698,7 @@ entries:
         - opensource-alt
   - name: UDP Unreal
     url: https://github.com/getnamo/UDP-Unreal
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Convenience UDP wrapper for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -679,6 +719,7 @@ entries:
         - opensource-alt
   - name: Unreal Fetch
     url: https://github.com/GDi4K/unreal-fetch
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Fetch API-inspired HTTP client for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -699,6 +740,7 @@ entries:
         - opensource-alt
   - name: VaRest
     url: https://github.com/ufna/VaRest
+    added_at: '2026-04-19T17:29:43.000Z'
     description: REST API plugin for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -720,6 +762,7 @@ entries:
     archived: true
   - name: Unreal.js
     url: https://github.com/ncsoft/Unreal.js
+    added_at: '2026-04-19T17:29:43.000Z'
     description: JavaScript runtime built for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -742,6 +785,7 @@ entries:
     last_pushed: '2023-07-20'
   - name: UnrealCLR
     url: https://github.com/nxrighthere/UnrealCLR
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unreal Engine integration for .NET 6 (C#).
     license: Open Source
     entry_type: plugin
@@ -764,6 +808,7 @@ entries:
     last_pushed: '2023-06-07'
   - name: Unreal Rust
     url: https://github.com/MaikKlein/unreal-rust
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Opinionated Rust integration for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -784,6 +829,7 @@ entries:
         - opensource-alt
   - name: Houdini Engine for Unreal
     url: https://github.com/sideeffects/HoudiniEngineForUnreal
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Plugin bridging Houdini Digital Asset workflows into Unreal.
     license: Open Source
     entry_type: plugin
@@ -805,6 +851,7 @@ entries:
         - opensource-alt
   - name: Ultraleap SDK
     url: https://github.com/ultraleap/UnrealPlugin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Brings Ultraleap hand-tracking data into Unreal projects.
     license: Open Source
     entry_type: plugin
@@ -826,6 +873,7 @@ entries:
         - opensource-alt
   - name: Street Map
     url: https://github.com/ue4plugins/StreetMap
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Import OpenStreetMap XML data into your Unreal Engine project.
     license: Open Source
     entry_type: plugin
@@ -848,6 +896,7 @@ entries:
     last_pushed: '2024-05-23'
   - name: Unreal Sandbox Terrain
     url: https://github.com/bw2012/UnrealSandboxTerrain
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Smooth voxel terrain plugin for Unreal Engine.
     license: Open Source
     entry_type: plugin
@@ -868,6 +917,7 @@ entries:
         - opensource-alt
   - name: Voxel Plugin
     url: https://github.com/Phyronnaz/VoxelPlugin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Volumetric, destructible, infinite voxel worlds in Unreal Engine.
     license: Open Source
     entry_type: plugin

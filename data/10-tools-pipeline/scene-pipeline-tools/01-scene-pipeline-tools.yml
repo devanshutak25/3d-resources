@@ -1,6 +1,7 @@
 entries:
   - name: Dailies
     url: https://github.com/vfxpaco85/dailies/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
     license: Open Source
     entry_type: tool
@@ -23,6 +24,7 @@ entries:
     url_status: ok
   - name: Prisma
     url: https://github.com/patriciogonzalezvivo/prisma
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Computational photography pipeline tool that performs multiple inferences (masks, depth, motionvectors) from any image or video.
     license: Open Source
     entry_type: tool
@@ -46,6 +48,7 @@ entries:
     last_pushed: '2024-02-04'
   - name: Pipeline Developer Forum
     url: https://pipedev.org
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Forum for pipeline TDs and studio tool developers.
     license: Free
     entry_type: community
@@ -62,6 +65,7 @@ entries:
     url_status: ok
   - name: Field3D
     url: https://magnuswrenninge.com/field3d
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Open-source library for storing voxel data.
     entry_type: reference
     license: Open Source
@@ -82,6 +86,7 @@ entries:
         - opensource-alt
   - name: OD CopyPasteExternal
     url: https://github.com/heimlich1024/OD_CopyPasteExternal
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <>.. <>.
     license: Open Source
     entry_type: tool
@@ -106,6 +111,7 @@ entries:
     last_pushed: '2022-05-02'
   - name: CGCmake
     url: https://github.com/chadmv/cgcmake
+    added_at: '2026-04-16T21:13:44.000Z'
     description: CMake modules for CG apps.
     license: Open Source
     entry_type: tool
@@ -128,6 +134,7 @@ entries:
     last_pushed: '2021-06-08'
   - name: Cortex
     url: https://github.com/ImageEngine/cortex
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Libraries for VFX software development.
     license: Open Source
     entry_type: tool
@@ -148,6 +155,7 @@ entries:
     url_status: ok
   - name: Cross3D
     url: https://github.com/blurstudio/cross3d
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Scene and node management abstraction.
     license: Open Source
     entry_type: tool
@@ -170,6 +178,7 @@ entries:
     last_pushed: '2017-10-28'
   - name: mGui
     url: https://github.com/theodox/mGui
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Portable pure-python GUI library for Maya.
     license: Open Source
     entry_type: tool
@@ -193,6 +202,7 @@ entries:
     last_pushed: '2021-04-27'
   - name: minq
     url: https://github.com/theodox/minq
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Maya query language for speeding up common scene operations.
     license: Open Source
     entry_type: tool
@@ -216,6 +226,7 @@ entries:
     last_pushed: '2023-05-20'
   - name: Py3dsMax
     url: https://github.com/blurstudio/Py3dsMax
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 3dsMax API in Python.
     license: Open Source
     entry_type: tool
@@ -236,6 +247,7 @@ entries:
     last_pushed: '2018-10-27'
   - name: PyMEL
     url: https://github.com/LumaPictures/pymel
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Python in Maya Done Right.
     license: Open Source
     entry_type: tool
@@ -257,6 +269,7 @@ entries:
     url_status: ok
   - name: Easy3D
     url: https://github.com/LiangliangNan/Easy3D
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data.
     license: Open Source
     entry_type: tool
@@ -277,6 +290,7 @@ entries:
     url_status: ok
   - name: Ramses
     url: https://github.com/RxLaboratory/Ramses
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Asset Management System for motion picture production (by [Rainbox Laboratory](https://rainboxlab.org)).
     license: Open Source
     entry_type: tool
@@ -298,6 +312,7 @@ entries:
     archived: true
   - name: Stalker
     url: https://github.com/eoyilmaz/stalker
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Open Source Production Asset Management (ProdAM) Library designed specifically for Animation and VFX Studios.
     license: Open Source
     entry_type: tool
@@ -318,6 +333,7 @@ entries:
     url_status: ok
   - name: Example of Python scripts for 3D Studio Max, Maya and Blender
     url: https://github.com/p4vv37/3D_Software_and_Python/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Sample Python scripts for 3ds Max, Maya, and Blender automation.
     license: Open Source
     entry_type: reference
@@ -342,6 +358,7 @@ entries:
     last_pushed: '2018-07-02'
   - name: BlenderProc
     url: https://github.com/DLR-RM/BlenderProc
+    added_at: '2026-04-19T17:29:43.000Z'
     description: A procedural Blender pipeline for photorealistic training image generation.
     license: Open Source
     entry_type: tool
@@ -364,6 +381,7 @@ entries:
     url_status: ok
   - name: MayaCharm
     url: https://github.com/cmcpasserby/MayaCharm
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Run and edit Maya scripts directly from PyCharm
     license: Open Source
     entry_type: tool
@@ -387,6 +405,7 @@ entries:
     last_pushed: '2023-09-22'
   - name: MayaSublime
     url: https://github.com/justinfx/MayaSublime
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Run and edit Maya scripts directly from SublimeText
     license: Open Source
     entry_type: tool
@@ -410,6 +429,7 @@ entries:
     last_pushed: '2021-09-30'
   - name: VEX
     url: https://github.com/teared/VEX
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Houdini add-on for Sublime Text
     license: Open Source
     entry_type: tool
@@ -431,6 +451,7 @@ entries:
     url_status: ok
   - name: nuke.vim
     url: https://github.com/heavyimage/nuke.vim
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Run and edit Nuke scripts directly from vim
     license: Open Source
     entry_type: tool

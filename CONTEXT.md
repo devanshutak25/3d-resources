@@ -28,6 +28,8 @@ Controlled vocabularies live in `schema/vocab.yml` and are enforced by `schema/e
 - `entry_type` — closed enum: `software`, `asset-source`, `marketplace`, `tool`, `plugin`, `tutorial`, `channel`, `community`, `reference`, `inspiration`. Drives where and how an Entry renders.
 - `dual_listed_in` — list of additional Subsection paths where this Entry should also surface. Cross-cutting resources (e.g. a tool useful in both modeling and texturing) live in their primary Chunk; the render layer mirrors them into others.
 - `deprecated` — boolean. Entry kept for historical/SEO reasons but no longer recommended. Render layer may down-rank or hide.
+- `added_at` — required ISO 8601 addition time. Preserved through edits and moves; determines Atom feed order across all sections. The Catalog stamps new entries automatically.
+- Link health and editorial deprecation are separate. The link checker updates verification fields without changing `deprecated`.
 - `quarantine` — Entry flagged by a quality/freshness scan as below threshold. Held out of `README.md` until reviewed. Set by `quarantine-low.js`; cleared by manual review or repair.
 - `url_status`, `url_last_verified`, `pricing_last_verified` — verification timestamps written by link/pricing/repo scans.
 

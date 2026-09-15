@@ -1,6 +1,7 @@
 entries:
   - name: Adobe Photoshop
     url: https://www.adobe.com/products/photoshop.html
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Industry-standard raster image editor and compositor; available on iPad.
     pricing: Single App $22.99/mo; Photography Plan $19.99/mo
     license: Paid
@@ -24,6 +25,7 @@ entries:
       - art-design-visual-storytelling/design-tools
   - name: Adobe Illustrator
     url: https://www.adobe.com/products/illustrator.html
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Industry-standard vector graphics editor; available on iPad.
     pricing: $22.99/mo annual single-app
     license: Paid
@@ -46,6 +48,7 @@ entries:
       - art-design-visual-storytelling/design-tools
   - name: Adobe InDesign
     url: https://www.adobe.com/products/indesign.html
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Page layout and publishing for print and digital.
     pricing: $20.99/mo annual single-app
     license: Paid
@@ -66,6 +69,7 @@ entries:
       - art-design-visual-storytelling/design-tools
   - name: Krita
     url: https://krita.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source digital painting app from KDE; v5.3 and v6.0 shipped March 2026.
     license: Open Source
     entry_type: software
@@ -92,6 +96,7 @@ entries:
       - software-reference/2d-animation-software
   - name: Sketch
     url: https://www.sketch.com/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Mac-native UI/UX design tool with web previews and collaboration.
     pricing: Standard $12/editor/mo; Mac one-time $120/seat
     license: Paid
@@ -111,6 +116,7 @@ entries:
       - art-design-visual-storytelling/design-tools
   - name: Figma
     url: https://www.figma.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Collaborative UI/UX design with free tier.
     license: Freemium
     entry_type: software
@@ -135,6 +141,7 @@ entries:
     url_status: ok
   - name: ProtoPie
     url: https://www.protopie.io/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: High-fidelity interaction prototyping for apps and connected devices.
     license: Freemium
     entry_type: software
@@ -157,6 +164,7 @@ entries:
     url_status: ok
   - name: Affinity
     url: https://affinity.studio/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Unified vector, photo, and layout app. Free, by Canva.
     license: Free
     entry_type: software
@@ -179,6 +187,7 @@ entries:
     url_status: ok
   - name: Inkscape
     url: https://inkscape.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source vector editor.
     license: Open Source
     entry_type: software
@@ -202,6 +211,7 @@ entries:
     url_status: ok
   - name: GIMP
     url: https://www.gimp.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source image editor.
     license: Open Source
     entry_type: software
@@ -226,6 +236,7 @@ entries:
     url_status: ok
   - name: PhotoGIMP
     url: https://github.com/Diolinux/PhotoGIMP
+    added_at: '2026-05-19T17:16:24.000Z'
     description: Patch for GIMP that mimics Photoshop UI, shortcuts, and tool layout.
     license: Open Source
     entry_type: plugin
@@ -250,6 +261,7 @@ entries:
     url_status: ok
   - name: Penpot
     url: https://penpot.app/
+    added_at: '2026-04-16T20:54:45.000Z'
     description: Open-source design platform. Native SVG/CSS/HTML output. Cloud-hosted or self-host. Figma alternative.
     license: Open Source
     entry_type: software
@@ -272,6 +284,7 @@ entries:
     url_status: ok
   - name: Figma Community
     url: https://www.figma.com/community/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free templates, plugins, UI kits.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -281,6 +294,7 @@ entries:
         - web
   - name: Affinity Help Center
     url: https://www.affinity.studio/help/getting-started/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official tutorials, guides, getting started.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -290,6 +304,7 @@ entries:
         - web
   - name: Pixelmator
     url: http://www.pixelmator.com
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Full-featured image editing app for the Mac.
     license: Paid
     entry_type: software
@@ -308,6 +323,7 @@ entries:
     url_status: ok
   - name: PixiEditor
     url: https://pixieditor.net/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Universal 2D graphics editor. Procedural graphics w/ node graph, image editing, vectors, pixel art, animations.
     license: Open Source
     entry_type: software
@@ -332,6 +348,7 @@ entries:
     url_status: ok
   - name: Lunacy
     url: https://icons8.com/lunacy
+    added_at: '2026-04-28T09:01:32.000Z'
     description: Free graphic design app from Icons8. Native Sketch file support, built-in icons/illustrations/photos, AI tools.
     license: Free
     entry_type: software
@@ -353,6 +370,7 @@ entries:
     url_status: ok
   - name: Origami Studio
     url: https://origami.design/
+    added_at: '2026-04-28T09:01:32.000Z'
     description: Free interaction design and prototyping tool by Meta. Patch-based logic, Figma import.
     license: Free
     entry_type: software
@@ -375,6 +393,7 @@ entries:
     url_status: ok
   - name: Unicorn Studio
     url: https://www.unicorn.studio/
+    added_at: '2026-04-28T09:01:32.000Z'
     description: Browser-based interactive scene and motion design for the web. No-code, exports to embed.
     license: Freemium
     entry_type: software
@@ -398,6 +417,7 @@ entries:
     url_status: ok
   - name: Vectorpea
     url: https://www.vectorpea.com/
+    added_at: '2026-04-28T09:01:32.000Z'
     description: Free browser-based vector editor by Photopea team. Opens AI/SVG/PDF/EPS/CDR.
     license: Free
     entry_type: software
@@ -418,6 +438,7 @@ entries:
     url_status: ok
   - name: Graphite
     url: https://graphite.rs/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source 2D vector and raster graphics editor with procedural node-based workflow. In active development.
     license: Open Source
     entry_type: software
@@ -446,6 +467,7 @@ entries:
     url_status: ok
   - name: Picsart
     url: https://picsart.com/
+    added_at: '2026-04-28T09:01:32.000Z'
     description: Photo and video editor with AI tools. Web, mobile, and desktop.
     license: Freemium
     entry_type: software
@@ -470,6 +492,7 @@ entries:
     url_status: ok
   - name: PowerPoint
     url: https://www.microsoft.com/microsoft-365/powerpoint
+    added_at: '2026-04-28T09:01:32.000Z'
     description: Microsoft presentation app. Used as a quick-draft motion/layout tool for storyboards and diagrams.
     license: Paid
     entry_type: software
@@ -492,6 +515,7 @@ entries:
     url_status: ok
   - name: Google Drawings
     url: https://docs.google.com/drawings
+    added_at: '2026-04-28T09:01:32.000Z'
     description: Free browser-based diagramming and simple vector tool. Collaborative.
     license: Free
     entry_type: software
@@ -512,6 +536,7 @@ entries:
     url_status: ok
   - name: Microsoft Paint
     url: https://apps.microsoft.com/detail/9PCFS5B6T72H
+    added_at: '2026-04-28T09:01:32.000Z'
     description: Built-in Windows raster editor. Now ships with layers, transparency, and Cocreator AI.
     license: Free
     entry_type: software
@@ -532,6 +557,7 @@ entries:
     url_status: ok
   - name: Paint.NET
     url: https://www.getpaint.net/
+    added_at: '2026-06-02T11:58:24.000Z'
     description: Free Windows raster editor with layers, plugins, and unlimited undo. Sits between Microsoft Paint and Photoshop.
     license: Free
     entry_type: software
@@ -552,6 +578,7 @@ entries:
     url_status: ok
   - name: FontLab 8
     url: https://www.fontlab.com/font-editor/fontlab/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Professional font editor.
     license: Paid
     entry_type: software
@@ -569,6 +596,7 @@ entries:
     url_status: ok
   - name: Adobe Express
     url: https://new.express.adobe.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Quick Adobe design tool.
     license: Freemium
     entry_type: software
@@ -585,6 +613,7 @@ entries:
       - art-design-visual-storytelling/design-tools
   - name: Eagle
     url: https://en.eagle.cool/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Visual asset organizer.
     license: Paid
     entry_type: software
@@ -603,6 +632,7 @@ entries:
       - art-design-visual-storytelling/pre-production-tools
   - name: ArcBrush
     url: https://arcbrush.com/
+    added_at: '2026-05-01T13:15:24.000Z'
     description: Node-based non-destructive image editor for generating asset variants and export formats; optional credit-based AI features.
     license: Freemium
     entry_type: software
@@ -623,6 +653,7 @@ entries:
       - art-design-visual-storytelling/design-tools
   - name: FotoSketcher
     url: https://fotosketcher.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Windows freeware that converts photos to sketch, painting, and pastel renders. Batchable.
     license: Free
     entry_type: software

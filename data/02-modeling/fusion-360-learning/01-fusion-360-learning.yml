@@ -1,6 +1,7 @@
 entries:
   - name: Fusion for Designers
     url: https://www.autodesk.com/certification/learn/course/fusion-design-for-industry
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Autodesk Academy course for designers.
     license: Free
     entry_type: tutorial

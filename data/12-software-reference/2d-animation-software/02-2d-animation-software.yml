@@ -1,6 +1,7 @@
 entries:
   - name: Pixelator
     url: http://pixelatorapp.com
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Turn any image into pixel art.
     license: Paid
     entry_type: software
@@ -20,6 +21,7 @@ entries:
       - game-development/game-dev-sprite-vfx
   - name: Pixa.Pics
     url: https://pixa.pics/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Browser pixel-art tool w/ vectorization.
     license: Freemium
     entry_type: software
@@ -40,6 +42,7 @@ entries:
       - game-development/game-dev-sprite-vfx
   - name: Pickle
     url: http://www.pickleeditor.com/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Pixel art editor.
     license: Paid
     entry_type: software
@@ -58,6 +61,7 @@ entries:
       - game-development/game-dev-sprite-vfx
   - name: Lightcube
     url: https://www.lightcube.art/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Pixel art editor for Windows w/ PSD, JPEG, PNG, BMP, GIF support.
     license: Paid
     entry_type: software
@@ -78,6 +82,7 @@ entries:
       - game-development/game-dev-sprite-vfx
   - name: Pixen (GitHub)
     url: https://github.com/Pixen/Pixen
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Pixel Art Editor for OSX
     license: Open Source
     entry_type: software
@@ -96,6 +101,7 @@ entries:
       - game-development/game-dev-sprite-vfx
   - name: Pro Motion
     url: http://www.cosmigo.com/pixel_animation_software
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
     license: Paid
     entry_type: software
@@ -112,6 +118,7 @@ entries:
       - game-development/game-dev-sprite-vfx
   - name: Rebelle 8 Pro
     url: https://www.escapemotions.com/products/rebelle
+    added_at: '2026-05-01T13:15:24.000Z'
     description: Natural-media painting app simulating real watercolor, oil, acrylic, ink with fluid dynamics.
     license: Paid
     entry_type: software
@@ -133,6 +140,7 @@ entries:
       - art-design-visual-storytelling/drawing-painting-3d
   - name: Pixen (site)
     url: https://pixenapp.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
     license: Paid
     entry_type: software
@@ -148,6 +156,7 @@ entries:
       - art-design-visual-storytelling/drawing-painting-3d
   - name: DoAnimation
     url: https://doanimation.kindreddo.com/
+    added_at: '2026-06-22T15:30:53.000Z'
     description: Browser frame-by-frame 2D animation. Layers, onion skinning, GIF/MP4 export. Files stay local.
     license: Free
     entry_type: software

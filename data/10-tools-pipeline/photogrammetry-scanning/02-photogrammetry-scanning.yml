@@ -1,6 +1,7 @@
 entries:
   - name: Gaussian Splatting Lightning
     url: https://github.com/yzslab/gaussian-splatting-lightning
+    added_at: '2026-04-19T17:29:43.000Z'
     description: A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
     entry_type: tool
     license: Open Source
@@ -24,6 +25,7 @@ entries:
       - opensource
   - name: 360 Gaussian Splatting
     url: https://github.com/inuex35/360-gaussian-splatting
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Generate gaussian splatting directly from 360 images
     entry_type: tool
     license: Open Source
@@ -47,6 +49,7 @@ entries:
       - '360'
   - name: Awesome-3DGS Paper List
     url: https://mrnerf.github.io/awesome-3D-gaussian-splatting/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Curated list of 3D Gaussian Splatting papers, maintained by MrNeRF.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -62,6 +65,7 @@ entries:
       - awesome-list
   - name: Overview of Gaussian Splatting
     url: https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Towards Data Science article. End-to-end overview of Gaussian Splatting.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -77,6 +81,7 @@ entries:
       - article
   - name: Intro to gaussian splatting (and Unity plugin)
     url: https://www.xuanprada.com/blog/2023/10/22/intro-to-gaussian-splatting
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blog walkthrough of Gaussian Splatting with a Unity plugin demo.
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -93,6 +98,7 @@ entries:
       - unity
   - name: Gaussian Splats Town Hall - Part 2
     url: https://www.youtube.com/@pixelreconstruct
+    added_at: '2026-04-19T17:29:43.000Z'
     description: PixelReconstruct YouTube. Community town hall on Gaussian Splatting tooling.
     entry_type: channel
     url_last_verified: '2026-09-01'
@@ -110,6 +116,7 @@ entries:
       - youtube
   - name: Neural Rendering (YouTube)
     url: https://www.youtube.com/@NeuralRendering
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Ben Mildenhall
     entry_type: channel
     url_last_verified: '2026-09-01'

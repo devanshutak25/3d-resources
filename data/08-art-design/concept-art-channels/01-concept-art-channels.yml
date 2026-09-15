@@ -1,6 +1,7 @@
 entries:
   - name: Michael Mattesi
     url: https://www.instagram.com/michaelmattesi/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Force drawing (Instagram).
     entry_type: channel
     license: Free
@@ -18,6 +19,7 @@ entries:
         - intermediate
   - name: Neural Network-Generated Illustrations
     url: https://ai.googleblog.com/2017/05/neural-network-generated-illustrations.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Google Research article on AI-generated illustrations for Allo.
     entry_type: reference
     license: Free
@@ -34,6 +36,7 @@ entries:
         - ai-generative
   - name: Awesome Illustrations
     url: https://awesome-illustrations.now.sh
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Curated awesome-list of illustration resources, tools, and references.
     entry_type: reference
     license: Free
@@ -48,6 +51,7 @@ entries:
         - web
   - name: Illustration Tools
     url: https://illustration.tools
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Directory of tools and resources for illustrators, creatives, and artists.
     entry_type: reference
     license: Free
@@ -62,6 +66,7 @@ entries:
         - web
   - name: Awesome Stock Resources
     url: https://github.com/neutraltone/awesome-stock-resources
+    added_at: '2026-04-19T17:29:43.000Z'
     description: A collection of links for free stock photography, video and Illustration websites.
     entry_type: reference
     license: Open Source

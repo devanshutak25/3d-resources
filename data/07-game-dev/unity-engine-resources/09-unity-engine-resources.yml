@@ -1,6 +1,7 @@
 entries:
   - name: Shortcuter
     url: https://github.com/intentor/shortcuter
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Shortcut utility for Unity.
     entry_type: plugin
     license: Open Source
@@ -23,6 +24,7 @@ entries:
     last_pushed: '2019-11-17'
   - name: SearchTools
     url: https://github.com/eral/SearchTools
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Search tools for the Unity editor.
     entry_type: plugin
     license: Open Source
@@ -45,6 +47,7 @@ entries:
     last_pushed: '2019-07-17'
   - name: Unity Events
     url: https://github.com/GalvanicGames/unity-events
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Strongly typed event system for Unity with global and per-GameObject events.
     entry_type: plugin
     license: Open Source
@@ -67,6 +70,7 @@ entries:
     last_pushed: '2019-02-19'
   - name: Vexe Framework (VFW)
     url: https://github.com/vexe/VFW
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Editor extension adding advanced inspector and editor extensibility to Unity.
     entry_type: plugin
     license: Open Source
@@ -89,6 +93,7 @@ entries:
     last_pushed: '2017-09-08'
   - name: NGTools
     url: https://github.com/naphier/ngtools
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unity editor extensions and tools by Napland Games.
     entry_type: plugin
     license: Open Source
@@ -111,6 +116,7 @@ entries:
     last_pushed: '2019-06-08'
   - name: Unity Asset Usage Detector
     url: https://github.com/yasirkula/UnityAssetUsageDetector
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Finds which objects reference the selected assets or objects in a Unity project.
     entry_type: plugin
     license: Open Source
@@ -131,6 +137,7 @@ entries:
       - opensource-alt
   - name: Missing References Unity
     url: https://github.com/liortal53/MissingReferencesUnity
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unity editor extension for finding missing object references.
     entry_type: plugin
     license: Open Source
@@ -153,6 +160,7 @@ entries:
     last_pushed: '2020-10-23'
   - name: DT Compile Time Tracker
     url: https://github.com/DarrenTsung/DTCompileTimeTracker
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unity editor extension that tracks compile time.
     entry_type: plugin
     license: Open Source
@@ -175,6 +183,7 @@ entries:
     last_pushed: '2019-10-01'
   - name: Unity3D Automatron
     url: https://github.com/Thundernerd/Unity3D-Automatron
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Automation tool for Unity.
     entry_type: plugin
     license: Open Source
@@ -198,6 +207,7 @@ entries:
     last_pushed: '2017-05-15'
   - name: Unity Editor Junkie
     url: https://github.com/roboryantron/UnityEditorJunkie
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Editor scripts that improve working with the Unity editor.
     entry_type: plugin
     license: Open Source
@@ -220,6 +230,7 @@ entries:
     last_pushed: '2022-02-11'
   - name: Unity Editor Snippets
     url: https://github.com/pointcache/UnityEditorSnippets
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Collection of Unity editor productivity helpers.
     entry_type: plugin
     license: Open Source
@@ -242,6 +253,7 @@ entries:
     last_pushed: '2019-12-10'
   - name: Unity Editor Helper
     url: https://github.com/JefferiesTube/UnityEditorHelper
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Scripts that make editor scripting in Unity easier.
     entry_type: plugin
     license: Open Source
@@ -264,6 +276,7 @@ entries:
     last_pushed: '2018-03-01'
   - name: UnityExtensions MeshIntersection
     url: https://github.com/garettbass/UnityExtensions.MeshIntersection
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Raycast against one or more meshes in Unity.
     entry_type: plugin
     license: Open Source
@@ -286,6 +299,7 @@ entries:
     last_pushed: '2018-08-29'
   - name: KEngine
     url: https://github.com/mr-kelly/KEngine
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unity asset bundle framework (LGPL).
     entry_type: plugin
     license: Open Source
@@ -308,6 +322,7 @@ entries:
     last_pushed: '2022-12-28'
   - name: Asset Auditing Tools
     url: https://github.com/Unity-Technologies/asset-auditing-tools
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Official Unity editor tools to audit project assets and fix errors.
     entry_type: plugin
     license: Open Source
@@ -330,6 +345,7 @@ entries:
     last_pushed: '2021-06-10'
   - name: ThreeDScans
     url: https://github.com/keijiro/ThreeDScans
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Scanned statue models from the Three D Scans project, optimized for real-time use.
     entry_type: reference
     license: Open Source
@@ -350,6 +366,7 @@ entries:
     last_pushed: '2018-03-28'
   - name: 50 Unity Tips
     url: https://github.com/defuncart/50-unity-tips
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Fifty Unity tips spanning editor tools, serialization, and UI shortcuts, with a mobile focus.
     entry_type: reference
     license: Open Source
@@ -370,6 +387,7 @@ entries:
     last_pushed: '2018-06-20'
   - name: UnityGraphicsProgramming Vol.2
     url: https://github.com/IndieVisualLab/UnityGraphicsProgramming2
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unity graphics programming techniques and shader samples, volume 2.
     entry_type: reference
     license: Open Source
@@ -392,6 +410,7 @@ entries:
     last_pushed: '2020-04-26'
   - name: Unity Character Customization
     url: https://github.com/eriseven/UnityCharacterCustomization
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Character customization demo for Unity.
     entry_type: reference
     license: Open Source
@@ -412,6 +431,7 @@ entries:
     last_pushed: '2019-01-30'
   - name: Complete Unity 2018 Game Development
     url: https://github.com/PacktPublishing/Complete-Unity-2018-Game-Development
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Companion code for the Complete Unity 2018 Game Development book.
     entry_type: tutorial
     license: Open Source
@@ -434,6 +454,7 @@ entries:
     last_pushed: '2021-01-18'
   - name: Simple ECS
     url: https://github.com/AkanshDivker/Simple-ECS
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Example of Unity's Entity Component System, inspired by Roll-a-ball.
     entry_type: reference
     license: Open Source
@@ -456,6 +477,7 @@ entries:
     last_pushed: '2021-01-26'
   - name: Unity Good Practices
     url: https://github.com/futurice/unity-good-practices
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unity best-practices reference from Futurice.
     entry_type: reference
     license: Open Source
@@ -474,6 +496,7 @@ entries:
     last_pushed: '2018-04-24'
   - name: UniteBerlin
     url: https://github.com/VoxelBoy/UniteBerlin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Companion repo for the Unite Berlin talk on working faster in Unity.
     entry_type: reference
     license: Open Source
@@ -494,6 +517,7 @@ entries:
     last_pushed: '2019-01-15'
   - name: AngryBots2
     url: https://github.com/UnityTechnologies/AngryBots2
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Example Unity project from Unity Technologies demonstrating several features.
     entry_type: reference
     license: Open Source
@@ -514,6 +538,7 @@ entries:
     last_pushed: '2020-09-28'
   - name: Hogwarts
     url: https://github.com/OpenHogwarts/hogwarts
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open-source Harry Potter sandbox game made in Unity.
     entry_type: reference
     license: Open Source
@@ -534,6 +559,7 @@ entries:
     last_pushed: '2023-11-23'
   - name: Unitystation
     url: https://github.com/unitystation/unitystation
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open-source remake of Space Station 13 in Unity.
     entry_type: reference
     license: Open Source
@@ -552,6 +578,7 @@ entries:
       - opensource-alt
   - name: San Andreas Unity
     url: https://github.com/GTA-ASM/SanAndreasUnity
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open-source port of GTA San Andreas to Unity.
     entry_type: reference
     license: Open Source
@@ -572,6 +599,7 @@ entries:
     last_pushed: '2023-06-16'
   - name: MafiaUnity
     url: https://github.com/OpenMafia/MafiaUnity
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open-source Mafia game framework for Unity.
     entry_type: reference
     license: Open Source
@@ -593,6 +621,7 @@ entries:
     last_pushed: '2020-06-11'
   - name: Guitar Hero Unity
     url: https://github.com/caffeine239/GuitarHeroUnity
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Guitar Hero fan game made in Unity.
     entry_type: reference
     license: Open Source
@@ -613,6 +642,7 @@ entries:
     last_pushed: '2019-01-31'
   - name: UnityTetris
     url: https://github.com/Mukarillo/UnityTetris
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Tetris clone written in C# and rendered with Unity.
     entry_type: reference
     license: Open Source
@@ -633,6 +663,7 @@ entries:
     last_pushed: '2024-03-12'
   - name: Pacman
     url: https://github.com/vilbeyli/Pacman
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Pacman clone with original AI made in Unity.
     entry_type: reference
     license: Open Source
@@ -654,6 +685,7 @@ entries:
     last_pushed: '2018-10-27'
   - name: Minesweeper
     url: https://github.com/vilbeyli/Minesweeper
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Tile-based Minesweeper with high scores made in Unity.
     entry_type: reference
     license: Open Source
@@ -675,6 +707,7 @@ entries:
     last_pushed: '2020-09-30'
   - name: Colorus
     url: https://github.com/nicloay/colorus
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Coloring book game for web and iOS made with Unity.
     entry_type: reference
     license: Open Source
@@ -695,6 +728,7 @@ entries:
     last_pushed: '2017-05-30'
   - name: 'GitHub: mrzapp'
     url: https://github.com/mrzapp
+    added_at: '2026-04-19T17:29:43.000Z'
     description: GitHub profile with open-source Unity tools and utilities.
     entry_type: reference
     license: Open Source
@@ -713,6 +747,7 @@ entries:
       - opensource-alt
   - name: 'GitHub: mob-sakai'
     url: https://github.com/mob-sakai
+    added_at: '2026-04-19T17:29:43.000Z'
     description: GitHub profile with open-source Unity tools and effects.
     entry_type: reference
     license: Open Source
@@ -731,6 +766,7 @@ entries:
       - opensource-alt
   - name: Metaverse Standards Forum
     url: https://www.youtube.com/@metaversestandardsforum
+    added_at: '2026-04-19T19:05:38.000Z'
     description: YouTube channel of the Metaverse Standards Forum, with talks and panels.
     entry_type: channel
     license: Free
@@ -747,6 +783,7 @@ entries:
       - unity-plugin
   - name: 3DBuzz
     url: https://www.youtube.com/@3dbuzzofficial
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Archive channel of Unity video tutorials, including its UI system. Studio closed in 2020.
     entry_type: channel
     license: Free
@@ -766,6 +803,7 @@ entries:
     deprecated: true
   - name: Lochie Westfall
     url: https://www.youtube.com/@LochieWestfall
+    added_at: '2026-04-19T19:05:38.000Z'
     description: YouTube channel with Unity VR tutorials.
     entry_type: channel
     license: Free
@@ -784,6 +822,7 @@ entries:
       - unity-plugin
   - name: Super Mario Bros AR Game
     url: https://www.youtube.com/@shekitup
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Channel showing an AR Super Mario game built with Microsoft HoloLens and Unity.
     entry_type: channel
     license: Free
@@ -804,6 +843,7 @@ entries:
         - xr
   - name: How to Set Up Unity's VR Editor (EditorVR)
     url: https://www.youtube.com/@cooleobrad
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Tutorial on setting up Unity's experimental EditorVR.
     entry_type: channel
     license: Free
@@ -824,6 +864,7 @@ entries:
         - xr
   - name: Leading Ones (LeadingOnesVR)
     url: https://www.youtube.com/@LeadingOnesVR
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Quick look at Unity's EditorVR.
     entry_type: channel
     license: Free
@@ -844,6 +885,7 @@ entries:
         - xr
   - name: Unity Mecanim VR IK vs Final IK
     url: https://www.youtube.com/@createthisdotcom
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Channel comparing VR IK using native Unity Mecanim IK versus Final IK.
     entry_type: channel
     license: Free
@@ -864,6 +906,7 @@ entries:
         - xr
   - name: Game View Maximizer
     url: https://github.com/tomori-hikage/game-view-maximizer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Maximizes the Unity game view with a keyboard shortcut.
     entry_type: tool
     license: Open Source

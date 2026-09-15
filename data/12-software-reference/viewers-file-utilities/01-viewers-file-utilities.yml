@@ -1,6 +1,7 @@
 entries:
   - name: XnView MP
     url: https://www.xnview.com/en/xnviewmp/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free image viewer and converter (500+ formats).
     license: Free
     entry_type: software
@@ -22,6 +23,7 @@ entries:
     url_status: ok
   - name: DJV
     url: https://github.com/darbyjohnston/DJV
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free professional image sequence viewer.
     license: Open Source
     entry_type: software
@@ -45,6 +47,7 @@ entries:
     url_status: ok
   - name: f3d
     url: https://f3d.app/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Fast 3D file viewer (glTF, STL, OBJ, USD, etc.).
     license: Open Source
     entry_type: software
@@ -68,6 +71,7 @@ entries:
     url_status: ok
   - name: mrViewer
     url: https://mrviewer.sourceforge.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Image sequence and EXR viewer.
     license: Open Source
     entry_type: software
@@ -91,6 +95,7 @@ entries:
     url_status: ok
   - name: glb.gallery
     url: https://glb.gallery
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Interactive 3D model gallery builder from GLB files, embeddable.
     license: Freemium
     entry_type: software
@@ -110,6 +115,7 @@ entries:
     url_status: ok
   - name: OpenEXR Viewer
     url: https://github.com/AcademySoftwareFoundation/openexr
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official EXR tools.
     license: Open Source
     entry_type: software
@@ -133,6 +139,7 @@ entries:
     url_status: ok
   - name: OpenRV
     url: https://github.com/AcademySoftwareFoundation/openrv
+    added_at: '2026-06-03T06:28:47.000Z'
     description: Open-source media review and playback player. Foundation of Autodesk RV, donated to ASWF.
     license: Open Source
     entry_type: software
@@ -156,6 +163,7 @@ entries:
     url_status: ok
   - name: xStudio
     url: https://github.com/AcademySoftwareFoundation/xstudio
+    added_at: '2026-06-03T06:28:47.000Z'
     description: Open-source playback and review tool by DNEG. Notes, sessions, and pipeline integration for dailies.
     license: Open Source
     entry_type: software
@@ -178,6 +186,7 @@ entries:
     url_status: ok
   - name: Connecter
     url: https://www.designconnected.com/connecter
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free and visual creative assets management for 3d, AEC and design professionals.
     license: Free
     entry_type: software
@@ -191,6 +200,7 @@ entries:
         - mac
   - name: XnConvert
     url: https://www.xnview.com/en/xnconvert/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Batch image converter, 80+ actions.
     license: Free
     entry_type: software
@@ -209,6 +219,7 @@ entries:
       - tools-pipeline-utilities/conversion-tools
   - name: HandBrake
     url: https://handbrake.fr/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free, open-source H.265/AV1 video encoder.
     license: Open Source
     entry_type: software
@@ -225,6 +236,7 @@ entries:
       - tools-pipeline-utilities/conversion-tools
   - name: Shutter Encoder
     url: https://www.shutterencoder.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: FFmpeg GUI with professional presets.
     license: Free
     entry_type: software
@@ -243,6 +255,7 @@ entries:
       - tools-pipeline-utilities/conversion-tools
   - name: fre:ac
     url: https://www.freac.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free, open-source batch audio converter.
     license: Open Source
     entry_type: software
@@ -259,6 +272,7 @@ entries:
       - tools-pipeline-utilities/conversion-tools
   - name: Luminance HDR
     url: https://qtpfsgui.sourceforge.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: HDR workflow. Merge brackets, tonemap, convert EXR/HDR/RGBE.
     license: Open Source
     entry_type: software

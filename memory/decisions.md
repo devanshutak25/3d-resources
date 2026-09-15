@@ -489,3 +489,9 @@ User decisions (AskUserQuestion): NativeBlend→§09, UAssetAPI→§07, 3D MDB�
 - Deleted Wikipedia articles get repointed to the surviving parent article rather than dropped: Combustion -> Autodesk Media and Entertainment, Commotion -> Pinnacle Systems, Final Cut Pro 7 -> Final Cut Pro. Keeps the legacy-defunct entries intact (their `deprecated: true` is correct by design and was left alone).
 - Still flagged, by the 5xx-is-not-404 rule: Houdini Blueprints (`hdbp.io`, 502 sitewide) and Maxon One Cloud (500, no evidence of discontinuation). Recheck on the next monthly run.
 - OPEN: 3D Coat Print is listed as `Paid, ~$199 perpetual`, but pilgway.com now calls it a free version. Not changed (out of scope for link triage); needs a pricing pass.
+
+## 2026-09-15 - Repository review fixes
+- `added_at` is required and preserved across moves/edits. Existing timestamps come from earliest recorded URL or exact-name appearance in Git; pre-import chronology is unavailable. Catalog append supplies timestamps for new entries.
+- Link scans update health fields only. Editorial deprecation remains manual; 5xx/408/425 are transient; followed redirects are reported.
+- Export includes descriptions/section anchors and excludes deprecated entries. Filter metadata follows each row's displayed section. Graph uses shared heading anchors.
+- Fixes prepared in a workspace copy and packaged as a patch; the original repository has not been changed by this session.

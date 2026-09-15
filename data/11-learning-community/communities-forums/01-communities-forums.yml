@@ -1,6 +1,7 @@
 entries:
   - name: 3D Artists India
     url: https://3dartists.in/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: India's 3D artist community. Events, resources, networking.
     entry_type: community
     license: Free
@@ -15,6 +16,7 @@ entries:
         - web
   - name: ArtStation
     url: https://www.artstation.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Professional portfolios.
     entry_type: community
     license: Freemium
@@ -28,6 +30,7 @@ entries:
         - web
   - name: Polycount
     url: https://polycount.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Game art community.
     entry_type: community
     license: Free
@@ -43,6 +46,7 @@ entries:
     url_status: ok
   - name: Agora Community
     url: https://agora.community/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D artists community.
     entry_type: community
     license: Free
@@ -56,6 +60,7 @@ entries:
         - web
   - name: The 3D Artist Community (Skool)
     url: https://www.skool.com/the-3d-artist-community
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Paid Skool community for pro 3D artists working beyond VFX/games (apparel, footwear, packaging). AMAs, office hours, pooled software resources.
     entry_type: community
     license: Paid
@@ -69,6 +74,7 @@ entries:
         - web
   - name: BlenderArtists
     url: https://blenderartists.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blender forum.
     entry_type: community
     license: Free
@@ -84,6 +90,7 @@ entries:
         - blender
   - name: ZBrushCentral
     url: https://www.zbrushcentral.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: ZBrush forum.
     entry_type: community
     license: Free
@@ -97,6 +104,7 @@ entries:
         - web
   - name: 80 Level
     url: https://80.lv/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Industry news and tutorials.
     entry_type: community
     license: Free
@@ -110,6 +118,7 @@ entries:
         - web
   - name: Blender Discord (French)
     url: https://discordapp.com/channels/168826665307209728/168826665307209728
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Blender Discord (French).
     entry_type: community
     license: Free
@@ -125,6 +134,7 @@ entries:
         - blender
   - name: 3DPro
     url: https://3dpro.org
+    added_at: '2026-04-16T21:37:07.000Z'
     description: 3D professionals community forum.
     entry_type: community
     license: Free
@@ -138,6 +148,7 @@ entries:
         - web
   - name: Houdini Utility Thread
     url: https://www.sidefx.com/forum/topic/80497/?page=1#post-348642
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Houdini Utility Thread.
     entry_type: community
     license: Free
@@ -151,6 +162,7 @@ entries:
         - web
   - name: Robotic Arm Kinefx Demo
     url: https://www.sidefx.com/forum/topic/77562/?page=1#post-369057
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Robotic Arm Kinefx Demo.
     entry_type: community
     license: Free
@@ -164,6 +176,7 @@ entries:
         - web
   - name: Armedunity
     url: https://armedunity.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Shooter focused forum.
     entry_type: community
     license: Free
@@ -179,6 +192,7 @@ entries:
         - games
   - name: 👨🏽‍🚀Blender.Community
     url: https://blender.community/c/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 👨🏽‍🚀Blender.Community.
     entry_type: community
     license: Free
@@ -194,6 +208,7 @@ entries:
         - blender
   - name: ☕Blender.Today
     url: https://blender.community/c/today/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Community-driven Blender news, chat, and live streams! Stream [playlist](https://www.youtube.com/playlist?list=PLa1F2ddGya_87HJ72v_IgKUTNLIXSMfvB).
     entry_type: community
     license: Free
@@ -209,6 +224,7 @@ entries:
         - blender
   - name: 🖱️Right-Click Select
     url: https://blender.community/c/rightclickselect/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Got an idea for a feature that you think Blender absolutely must have?
     entry_type: community
     license: Free
@@ -224,6 +240,7 @@ entries:
         - blender
   - name: Civitai
     url: https://civitai.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Community driven AI model sharing tool.
     entry_type: community
     license: Free
@@ -239,6 +256,7 @@ entries:
         - ai-generative
   - name: Learning
     url: https://dev.epicgames.com/community/unreal-engine/learning?source=epic_games
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Epic's official Unreal Engine learning hub. Courses, tutorials, and community content.
     entry_type: community
     license: Free
@@ -254,6 +272,7 @@ entries:
         - unreal-plugin
   - name: DEV Community
     url: https://dev.to/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Developer blogging community. Articles and discussion across programming, including graphics and generative AI.
     entry_type: community
     license: Free
@@ -267,6 +286,7 @@ entries:
         - web
   - name: ccMixter.org
     url: http://dig.ccmixter.org/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Creative Commons remix and sample music site operated by ArtisTech Media.
     entry_type: community
     license: Free
@@ -282,6 +302,7 @@ entries:
         - cc0
   - name: Unreal Source Discord
     url: https://discord.com/invite/unrealsource
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unreal Engine community Discord. Help, showcase, and gamedev discussion.
     entry_type: community
     license: Free
@@ -297,6 +318,7 @@ entries:
         - unreal-plugin
   - name: GameDev.tv Discord
     url: https://discord.com/invite/eUSFZdJ
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A community focused on the GameDev.tv courses.
     entry_type: community
     license: Free
@@ -312,6 +334,7 @@ entries:
         - games
   - name: 🗨️discord/blender
     url: https://discord.gg/blender
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Community-managed Discord server.
     entry_type: community
     license: Free
@@ -327,6 +350,7 @@ entries:
         - blender
   - name: Nexrender Discord
     url: https://discord.gg/S2JtRcB
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Community of people specializing in scripting and video generation automation.
     entry_type: community
     license: Free
@@ -340,6 +364,7 @@ entries:
         - web
   - name: Hugging Face Forums
     url: https://discuss.huggingface.co/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Community forum for open LLMs and model development.
     entry_type: community
     license: Free
@@ -355,6 +380,7 @@ entries:
         - ai-generative
   - name: Steam VR Template (Unreal Engine Forum)
     url: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Community thread sharing a Steam VR project template for Unreal Engine.
     entry_type: community
     license: Free
@@ -370,6 +396,7 @@ entries:
         - xr
   - name: Unity Community
     url: https://github.com/UnityCommunity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: GitHub organization collecting Unity resources, including the Awesome Unity list.
     entry_type: community
     license: Open Source
@@ -386,6 +413,7 @@ entries:
         - games
   - name: HuggingFace AI Community
     url: https://huggingface.co/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Host and collaborate on models, datasets, and applications.
     entry_type: community
     license: Freemium
@@ -401,6 +429,7 @@ entries:
         - ai-generative
   - name: Introduction to pixel art
     url: http://pixeljoint.com/forum/forum_posts.asp?TID=11299
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Introduction to pixel art.
     entry_type: community
     license: Free
@@ -414,6 +443,7 @@ entries:
         - web
   - name: Google Community for “Cardboard and VR Developers”
     url: https://plus.google.com/communities/111524380182206513071
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Google Community for “Cardboard and VR Developers”.
     entry_type: community
     license: Free
@@ -429,6 +459,7 @@ entries:
         - xr
   - name: Reddit's Unity Best Practices
     url: https://www.reddit.com/r/Unity3D/comments/81v4te/what_are_software_development_best_practices_for/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Reddit's thread with best practices collected by Unity developers.
     entry_type: community
     license: Free
@@ -444,6 +475,7 @@ entries:
         - games
   - name: '/r/blender: contest'
     url: https://www.reddit.com/r/blender/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender subreddit. Showcase, help, news, and community contests.
     entry_type: community
     license: Free
@@ -459,6 +491,7 @@ entries:
         - blender
   - name: r/GenerativeAI
     url: https://www.reddit.com/r/GenerativeAI/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Reddit community on generative models and applications.
     entry_type: community
     license: Free
@@ -474,6 +507,7 @@ entries:
         - ai-generative
   - name: 🌐 Visual Production ~ reddit
     url: https://www.reddit.com/r/virtualproduction/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Virtual production subreddit. LED stages and real-time workflows for movies and live events.
     entry_type: community
     license: Free
@@ -489,6 +523,7 @@ entries:
         - film-vfx
   - name: 🌐 UnrealEngine5 ~ reddit
     url: https://www.reddit.com/r/UnrealEngine5/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: UE5 technical posts, rarely showcase.
     entry_type: community
     license: Free
@@ -504,6 +539,7 @@ entries:
         - unreal-plugin
   - name: The Motion Social Club
     url: https://themotionsocial.club/
+    added_at: '2026-08-31T17:04:12.000Z'
     description: Motion design community with a bi-weekly newsletter, learning paths, practice exercises, and a creator directory.
     entry_type: community
     license: Free
@@ -521,6 +557,7 @@ entries:
         - beginner
   - name: Free Low-Poly Nature Assets Thread (r/gamedev)
     url: https://www.reddit.com/r/gamedev/comments/349kpt/free_low_poly_3d_nature_assets_trees_plants_rocks/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Reddit thread sharing free low-poly trees, plants, and rocks for game development.
     entry_type: community
     license: Free

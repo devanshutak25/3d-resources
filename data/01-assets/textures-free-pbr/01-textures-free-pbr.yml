@@ -1,6 +1,7 @@
 entries:
   - name: ambientCG
     url: https://ambientcg.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 2000+ CC0 PBR materials.
     license: Free
     entry_type: asset-source
@@ -22,6 +23,7 @@ entries:
     url_status: ok
   - name: Free PBR
     url: https://freepbr.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Hundreds of free materials.
     license: Free
     entry_type: asset-source
@@ -42,6 +44,7 @@ entries:
     url_status: ok
   - name: Share Textures
     url: https://www.sharetextures.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: CC0 textures.
     license: Free
     entry_type: asset-source
@@ -62,6 +65,7 @@ entries:
     url_status: ok
   - name: CG Bookcase
     url: https://www.cgbookcase.com/textures/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free PBR textures.
     license: Free
     entry_type: asset-source
@@ -82,6 +86,7 @@ entries:
     url_status: ok
   - name: 3D Textures
     url: https://3dtextures.me/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free PBR library.
     license: Free
     entry_type: asset-source
@@ -102,6 +107,7 @@ entries:
     url_status: ok
   - name: Texture Fabrik
     url: https://texturefabrik.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free textures and tileable patterns.
     license: Free
     entry_type: asset-source
@@ -120,6 +126,7 @@ entries:
         - web
   - name: Kaimoisch
     url: https://kaimoisch.com/free-textures/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D scanned textures.
     license: Free
     entry_type: asset-source
@@ -140,6 +147,7 @@ entries:
     url_status: ok
   - name: Texture Supply (Gumroad)
     url: https://texturesupply.gumroad.com
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free textures.
     license: Free
     entry_type: asset-source
@@ -158,6 +166,7 @@ entries:
         - web
   - name: The Pixel Lab Freebies
     url: https://www.thepixellab.net/freebies-2
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free 3D models and textures.
     license: Free
     entry_type: asset-source
@@ -176,6 +185,7 @@ entries:
         - web
   - name: Texture Labs
     url: https://texturelabs.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free texture resources.
     license: Free
     entry_type: asset-source
@@ -194,6 +204,7 @@ entries:
         - web
   - name: Textures.com
     url: https://www.textures.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Massive professional texture library.
     license: Freemium
     entry_type: asset-source
@@ -212,6 +223,7 @@ entries:
         - web
   - name: TextureCan
     url: https://www.texturecan.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free PBR textures, high scan quality.
     license: Free
     entry_type: asset-source
@@ -233,6 +245,7 @@ entries:
     url_status: ok
   - name: Matcaps
     url: https://github.com/nidorx/matcaps#matcaps
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Large matcap texture library in PNG and ZMT, organized by color.
     license: Open Source
     entry_type: asset-source
@@ -248,6 +261,7 @@ entries:
         - web
   - name: LotPixel
     url: https://www.lotpixel.com/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Photogrammetry and PBR textures, 3D models, decals. 1500+ free textures.
     license: Free
     entry_type: asset-source
@@ -266,6 +280,7 @@ entries:
         - photogrammetry
   - name: PlainTextures
     url: http://www.plaintextures.com/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Free high-resolution textures, brushes, and photos.
     license: Free
     entry_type: asset-source
@@ -283,6 +298,7 @@ entries:
         - pbr
   - name: TextureKing
     url: http://www.textureking.com/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Free material stock textures.
     license: Free
     entry_type: asset-source
@@ -300,6 +316,7 @@ entries:
         - pbr
   - name: 3DAssets.one
     url: https://www.3dassets.one/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Search engine across the largest free texture sites at once.
     license: Free
     entry_type: asset-source
@@ -317,6 +334,7 @@ entries:
         - pbr
   - name: 3DXO
     url: https://www.3dxo.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free 3D models, textures, backgrounds, photos, and graphics.
     license: Free
     entry_type: asset-source
@@ -334,6 +352,7 @@ entries:
         - pbr
   - name: C4DCenter Material Library
     url: https://c4dcenter.com/material-library/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free Cinema 4D materials with high-quality texture maps. Personal and commercial use.
     license: Free
     entry_type: asset-source
@@ -352,6 +371,7 @@ entries:
         - c4d
   - name: Celestia Motherlode
     url: http://www.celestiamotherlode.net/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Repository of Celestia addons: textures, models, and celestial objects.'
     license: Free
     entry_type: asset-source

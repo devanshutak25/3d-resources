@@ -1,6 +1,7 @@
 entries:
   - name: Awesome 3D Printing
     url: https://github.com/ad-si/awesome-3d-printing
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Curated list of 3D printing resources.
     entry_type: reference
     license: Open Source
@@ -11,6 +12,7 @@ entries:
         - web
   - name: Usage in Science, Academia, and Industry
     url: https://github.com/ichlubna/blenderSurvey
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Curated list of Blender use in science, academia and industry.
     entry_type: reference
     license: Open Source
@@ -23,6 +25,7 @@ entries:
         - web
   - name: Blender Checklist
     url: https://docs.google.com/spreadsheets/d/1RCY6nTIVgl208ckadipBWVos8_kHOu3HFTQgapN59_U/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Checklist of Blender features and workflows.
     entry_type: reference
     license: Free

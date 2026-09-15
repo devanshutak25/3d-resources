@@ -132,6 +132,7 @@ function* iterEntries() {
 }
 
 function appendEntry(sectionSlug, subSlug, entry) {
+  entry = { ...entry, added_at: entry.added_at || new Date().toISOString() };
   const sectionFile = sectionFileFromSlug(sectionSlug);
   const files = listChunkFiles(sectionFile, subSlug);
   let target;

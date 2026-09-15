@@ -1,6 +1,7 @@
 entries:
   - name: GDQuest
     url: https://www.gdquest.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Premium courses plus free YouTube tutorials.
     license: Freemium
     entry_type: tutorial
@@ -21,6 +22,7 @@ entries:
         - godot
   - name: Brackeys (Godot)
     url: https://www.youtube.com/@Brackeys
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Returned in 2024 with Godot content.
     entry_type: channel
     readme_tags:
@@ -40,6 +42,7 @@ entries:
         - web
   - name: HeartBeast
     url: https://www.youtube.com/@uheartbeast
+    added_at: '2026-04-16T19:59:30.000Z'
     description: RPG and action game tutorials.
     entry_type: channel
     readme_tags:
@@ -60,6 +63,7 @@ entries:
     deprecated: true
   - name: KidsCanCode Godot Recipes
     url: https://kidscancode.org/godot_recipes/4.x/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Clear beginner-friendly guides.
     entry_type: reference
     tags:
@@ -79,6 +83,7 @@ entries:
     url_status: ok
   - name: GDScript.com
     url: https://gdscript.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Interactive GDScript learning.
     entry_type: tutorial
     readme_tags:
@@ -100,6 +105,7 @@ entries:
         - godot
   - name: Miziziziz
     url: https://www.youtube.com/@Miziziziz
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Tutorials and game dev challenges.
     entry_type: channel
     readme_tags:
@@ -119,6 +125,7 @@ entries:
         - web
   - name: DevDuck
     url: https://www.youtube.com/@DevDuck
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Dev logs and tutorials.
     entry_type: channel
     readme_tags:
@@ -138,6 +145,7 @@ entries:
         - web
   - name: The Shaggy Dev
     url: https://www.youtube.com/@TheShaggyDev
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Godot-focused tutorials.
     entry_type: channel
     readme_tags:
@@ -157,6 +165,7 @@ entries:
         - web
   - name: Introduction into the new Godot OpenVR Asset
     url: https://www.youtube.com/@BastiaanOlij
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Bastiaan Olij YouTube. Godot OpenVR and XR tutorials.
     entry_type: channel
     license: Free

@@ -1,6 +1,7 @@
 entries:
   - name: Houdini Academy & Resources
     url: https://houdini-resources.netlify.app/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Curated Houdini resources hub. Tutorials, tools, and community links.
     entry_type: reference
     license: Free
@@ -14,6 +15,7 @@ entries:
         - web
   - name: Unofficial Houdini Discord
     url: https://forums.odforce.net/topic/28248-unofficial-houdini-discord-server/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: od|force-linked Houdini Discord. Long-running unofficial community for Houdini artists.
     entry_type: community
     license: Free
@@ -27,6 +29,7 @@ entries:
         - web
   - name: cgwiki Discord
     url: https://tokeru.com/cgwiki/Support.html
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Matt Estela's Patreon-supporter Discord tied to cgwiki. Beginner-to-expert Houdini chat, masterclasses, screen-shares.
     entry_type: community
     license: Paid
@@ -40,6 +43,7 @@ entries:
         - web
   - name: Houdini.School
     url: https://www.houdini.school/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Live Houdini courses across Film FX, Games, MoGraph, Character, Sci-Viz. Discord community for students.
     entry_type: tutorial
     license: Paid
@@ -53,6 +57,7 @@ entries:
         - web
   - name: CGCircuit
     url: https://www.cgcircuit.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: CG tutorial marketplace with per-creator Discord channels for direct instructor interaction.
     entry_type: marketplace
     license: Paid
@@ -66,6 +71,7 @@ entries:
         - web
   - name: Inside the Mind
     url: https://www.patreon.com/InsideTheMind
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Patreon-tier Discord for Houdini training, project files, and tools.
     entry_type: channel
     license: Paid
@@ -79,6 +85,7 @@ entries:
         - web
   - name: Indie-Pixel
     url: https://www.patreon.com/indiepixel
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Kenny Lammers' Patreon-tier community. Houdini Engine for Unreal/Unity, procedural pipelines.
     entry_type: channel
     license: Paid
@@ -94,6 +101,7 @@ entries:
         - web
   - name: Think Procedural
     url: https://discord.gg/b8U5Hdy
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Houdini community Discord (~9K) bringing Houdini closer to game developers. Fractal challenges, procedural work.
     entry_type: community
     license: Free
@@ -109,6 +117,7 @@ entries:
         - web
   - name: CG Forge
     url: https://www.cgforge.com/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Tyler Bay's Houdini education platform. Premium Discord for art reviews and member feedback.
     entry_type: tutorial
     license: Paid
@@ -122,6 +131,7 @@ entries:
         - web
   - name: Nine Between
     url: https://www.patreon.com/NineBetween
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Patreon-tier Discord (~600) by Nine Between brothers. Pro Houdini VFX education.
     entry_type: channel
     license: Paid
@@ -137,6 +147,7 @@ entries:
         - web
   - name: Tim van Helsdingen
     url: https://www.patreon.com/timvanhelsdingen
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Patreon-tier Discord by NL-based Houdini FX artist / CG generalist transitioning into indie gamedev.
     entry_type: channel
     license: Paid
@@ -150,6 +161,7 @@ entries:
         - web
   - name: HoudiniNerd (Tokyo Megaplex)
     url: https://www.patreon.com/c/tokyomegaplexhoudininerd.com
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Christopher Rutledge's Houdini Patreon. Free resources at houdininerd.com plus Patreon-tier community.
     entry_type: channel
     license: Paid
@@ -164,6 +176,7 @@ entries:
     deprecated: true
   - name: Bismuth Consultancy (MLOPs)
     url: https://github.com/Bismuth-Consultancy-BV/MLOPs
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Discord for MLOPs (machine learning toolkit for Houdini) by Bismuth Consultancy + Entagma.
     entry_type: plugin
     license: Open Source
@@ -177,6 +190,7 @@ entries:
         - web
   - name: Rocket Lasso (Slack)
     url: https://www.rocketlasso.com/community/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Official Slack community for Cinema 4D artists, originally grown from Chris Schmidt's livestreams. Tutorials, plugin chat, live Q&A.
     entry_type: community
     license: Free
@@ -194,6 +208,7 @@ entries:
         - web
   - name: Server 4D
     url: https://discord.com/invite/p4d
+    added_at: '2026-05-11T17:49:13.000Z'
     description: 3D Discord (~5.7K) hosted by Patrick 4D. All things 3D with daily live-streams.
     entry_type: community
     license: Free
@@ -209,6 +224,7 @@ entries:
         - web
   - name: Cinema 4D Discord
     url: https://discord.com/invite/3skdKMU
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Community-run Cinema 4D Discord. Motion design and 3D discussion around Maxon's C4D.
     entry_type: community
     license: Free
@@ -226,6 +242,7 @@ entries:
         - web
   - name: F9 Collective
     url: https://f9collective.com/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Free India-based motion design community. Networking, industry talks, jobs, and collaboration for motion designers.
     entry_type: community
     license: Free
@@ -241,6 +258,7 @@ entries:
         - web
   - name: Mograph
     url: https://mograph.com/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Established motion design community. Classes, livestreams, podcasts, and Slack hub.
     entry_type: community
     license: Freemium
@@ -256,6 +274,7 @@ entries:
         - web
   - name: Motion Design School Discord
     url: https://motiondesign.school/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 6K+ Discord tied to Motion Design School courses. Animation, AE, C4D learners.
     entry_type: community
     license: Freemium
@@ -271,6 +290,7 @@ entries:
         - web
   - name: Ravie - Motion Design Community
     url: https://discord.com/invite/Z2cbn4QcfE
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Thriving Discord community of top motion designers worldwide.
     entry_type: community
     license: Free
@@ -286,6 +306,7 @@ entries:
         - web
   - name: Motion Designers Community (EN)
     url: https://discord.com/invite/qfypq2t
+    added_at: '2026-05-11T17:49:13.000Z'
     description: English-language Motion Designers Community Discord (~6.5K). Mdcommunity.net hub.
     entry_type: community
     license: Free
@@ -301,6 +322,7 @@ entries:
         - web
   - name: Cavalry Community
     url: https://cavalry.scenegroup.co/support/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Official community Discord for Cavalry. Procedural 2D motion design app. Support and showcase.
     entry_type: community
     license: Free
@@ -318,6 +340,7 @@ entries:
         - web
   - name: Good Boy Ninja
     url: https://www.goodboy.ninja/join
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Motion design and creative coding community by the maker of Noodle, Skew, and Colors for After Effects.
     entry_type: community
     license: Free
@@ -333,6 +356,7 @@ entries:
         - web
   - name: Hieu Vu - Art & Motion
     url: https://hieuvudesign.com/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Vietnam-based motion designer Hieu Vu's hub. Tutorials, motion graphics work, and community Discord.
     entry_type: channel
     license: Free
@@ -348,6 +372,7 @@ entries:
         - web
   - name: Game Dev League
     url: https://discord.com/invite/gamedev
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Large gamedev Discord (~133K). Community built by game developers for game developers.
     entry_type: community
     license: Free
@@ -363,6 +388,7 @@ entries:
         - web
   - name: Game Dev Network
     url: https://discord.com/invite/gdn
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Engine-agnostic gamedev Discord (~67K). Open to new and experienced devs.
     entry_type: community
     license: Free
@@ -378,6 +404,7 @@ entries:
         - web
   - name: Indie Games Community (IGC)
     url: https://discord.me/indiegamescommunity
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Global indie gamedev Discord. Devs, players, content creators sharing and discovering indie games.
     entry_type: community
     license: Free
@@ -393,6 +420,7 @@ entries:
         - web
   - name: The DiNusty Empire
     url: https://discord.com/invite/the-dinusty-empire-166144857503432704
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Game/film 3D art community Discord (~11.7K). Environment, prop, character, weapon artists.
     entry_type: community
     license: Free
@@ -408,6 +436,7 @@ entries:
         - web
   - name: Blue Ocean Games
     url: https://discord.com/invite/blue-ocean-games-1338557902130118756
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Indie game fund Discord. Networking, feedback, and resources for indie developers seeking funding.
     entry_type: community
     license: Free
@@ -423,6 +452,7 @@ entries:
         - web
   - name: Juniper Dev
     url: https://www.youtube.com/@JuniperDev
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Game design and development YouTube creator. Community Discord linked from her channels.
     entry_type: channel
     license: Free
@@ -438,6 +468,7 @@ entries:
         - web
   - name: GameDev India
     url: https://discord.com/invite/vcnygb2
+    added_at: '2026-05-11T17:49:13.000Z'
     description: India gamedev Discord (~5.5K). Runs BYOG game jam, Coffee House, Campfire events for Indian creators.
     entry_type: community
     license: Free
@@ -453,6 +484,7 @@ entries:
         - web
   - name: Mental Checkpoint
     url: https://discord.com/invite/TKGhG5n3HU
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Game design YouTube creator's Discord (~1.3K). Game design discussion and hot takes.
     entry_type: community
     license: Free
@@ -468,6 +500,7 @@ entries:
         - web
   - name: Indie Gaming Central (r/IndieGaming)
     url: https://discord.com/invite/ex6YdRYKAG
+    added_at: '2026-05-11T17:49:13.000Z'
     description: r/IndieGaming Discord (~5.6K). Devs share new games and discoveries.
     entry_type: community
     license: Free
@@ -483,6 +516,7 @@ entries:
         - web
   - name: Stylized Station's World of ArtCraft
     url: https://discord.com/invite/cHVVnr2
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Official Stylized Station Discord (~8K). Stylized and real-time 3D art with regular ArtCraft Arena challenges.
     entry_type: community
     license: Free
@@ -498,6 +532,7 @@ entries:
         - web
   - name: Steam Community VR Workshop Item
     url: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Steam Community Workshop submission referenced by the VR/game-dev forum discussions.
     entry_type: community
     license: Free
@@ -513,6 +548,7 @@ entries:
         - web
   - name: Unreal Source
     url: https://unrealsource.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Largest Discord community focused on Unreal Engine.
     entry_type: community
     license: Free
@@ -528,6 +564,7 @@ entries:
         - web
   - name: WebVR Community Group
     url: https://www.w3.org/community/immersive-web/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: W3C group working to bring high-performance Virtual Reality to the open Web.
     entry_type: community
     license: Free
@@ -543,6 +580,7 @@ entries:
         - web
   - name: Virtual Productions Discord
     url: https://discord.me/virtualproductions
+    added_at: '2026-05-11T17:49:13.000Z'
     description: General-purpose virtual production Discord. LED stages, real-time workflows, mocap.
     entry_type: community
     license: Free
@@ -558,6 +596,7 @@ entries:
         - web
   - name: Chicago Virtual Production Group
     url: https://www.chicagovirtualproduction.com/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Volunteer association of film/VFX professionals connecting on Discord. Regional but active VP discussion.
     entry_type: community
     license: Free
@@ -573,6 +612,7 @@ entries:
         - web
   - name: CG Pro Social
     url: https://www.becomecgpro.com/cg-pro-community
+    added_at: '2026-05-11T17:49:13.000Z'
     description: VFX and real-time artist community. Virtual production, LED, greenscreen, mocap.
     entry_type: community
     license: Free
@@ -588,6 +628,7 @@ entries:
         - web
   - name: XR Creators (XR Bootcamp)
     url: https://xrbootcamp.com/xr-creators-expert-group/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: XR developer expert group. VR/AR events, networking, and advanced tech community.
     entry_type: community
     license: Freemium
@@ -603,6 +644,7 @@ entries:
         - web
   - name: RealTime Conference
     url: https://realtime.community/
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Real-time CG conference and community hub. Events, talks, networking for real-time creators.
     entry_type: community
     license: Free
@@ -616,6 +658,7 @@ entries:
         - web
   - name: JangaFX Software Discord
     url: https://discord.com/invite/jangafx
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Official Discord (~15K) for EmberGen, LiquiGen, GeoGen. Real-time VFX simulation software users.
     entry_type: community
     license: Free
@@ -634,6 +677,7 @@ entries:
         - web
   - name: Bad Decisions
     url: https://discord.com/invite/zwycgqezfD
+    added_at: '2026-05-11T17:49:13.000Z'
     description: Unreal Engine and virtual production training Discord (~4K). Ultimate Unreal Engine Program community.
     entry_type: community
     license: Free

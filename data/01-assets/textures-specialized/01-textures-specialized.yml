@@ -1,6 +1,7 @@
 entries:
   - name: Texturing.xyz
     url: https://texturing.xyz/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: MicroSkin displacement maps.
     license: Paid
     entry_type: asset-source
@@ -24,6 +25,7 @@ entries:
     url_status: ok
   - name: Shaded Relief
     url: http://www.shadedrelief.com/natural3/pages/extra.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Natural Earth data and terrain reference.
     license: Free
     entry_type: asset-source
@@ -46,6 +48,7 @@ entries:
     url_status: ok
   - name: Subtle Patterns
     url: https://www.toptal.com/designers/subtlepatterns/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Tileable web patterns.
     license: Free
     entry_type: asset-source
@@ -65,6 +68,7 @@ entries:
         - web
   - name: Spriters Resource
     url: https://www.spriters-resource.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Game sprite textures.
     license: Free
     entry_type: asset-source
@@ -84,6 +88,7 @@ entries:
     url_status: ok
   - name: NASA 3D Resources
     url: https://nasa3d.arc.nasa.gov/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D models, textures, and images from NASA. Mixed CC0 / CC-BY, check per-asset license.
     entry_type: asset-source
     license: Mixed
@@ -102,6 +107,7 @@ entries:
         - cc-by
   - name: Solar Textures
     url: https://www.solarsystemscope.com/textures/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. (CC-BY)
     entry_type: asset-source
     license: Free
@@ -117,6 +123,7 @@ entries:
         - web
   - name: CGI Moon Kit
     url: https://svs.gsfc.nasa.gov/4720
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'NASA Scientific Visualization Studio moon kit: high-resolution moon textures and elevation data for rendering.'
     entry_type: asset-source
     license: Free
@@ -132,6 +139,7 @@ entries:
         - web
   - name: The Pattern Library
     url: http://thepatternlibrary.com/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Free seamless background patterns.
     license: Free
     entry_type: asset-source
@@ -149,6 +157,7 @@ entries:
     url_status: ok
   - name: Terrain Height Maps
     url: https://www.motionforgepictures.com/height-maps/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Free heightmap images for terrain displacement.
     license: Free
     entry_type: asset-source

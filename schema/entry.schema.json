@@ -4,12 +4,17 @@
   "title": "3d_resources entry",
   "description": "Single resource entry (software, tool, tutorial, asset source, etc.)",
   "type": "object",
-  "required": ["name", "url", "description"],
+  "required": ["name", "url", "description", "added_at"],
   "additionalProperties": false,
   "properties": {
     "name": { "type": "string", "minLength": 1 },
     "url": { "type": "string", "format": "uri" },
     "description": { "type": "string", "minLength": 1, "maxLength": 300 },
+    "added_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "First catalog addition time. Preserve across moves and edits; used by the Atom feed."
+    },
     "pricing": { "type": "string" },
     "best_for": { "type": "string" },
     "license": {

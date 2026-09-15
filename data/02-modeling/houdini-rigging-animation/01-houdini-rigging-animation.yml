@@ -1,6 +1,7 @@
 entries:
   - name: Secondary Motion in H19
     url: https://vimeo.com/649244909
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Paul Esteves. Secondary motion workflows.
     entry_type: tutorial
     readme_tags:
@@ -22,6 +23,7 @@ entries:
         - houdini
   - name: Space Girl Rigging
     url: https://www.sidefx.com/learn/collections/space-girl-rigging/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Legacy rigging series.
     entry_type: tutorial
     readme_tags:

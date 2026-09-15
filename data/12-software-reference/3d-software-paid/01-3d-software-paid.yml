@@ -1,6 +1,7 @@
 entries:
   - name: Maya
     url: https://www.autodesk.com/products/maya/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Film-industry animation and VFX DCC.
     pricing: $255/mo (Indie $330/yr)
     license: Paid
@@ -31,6 +32,7 @@ entries:
     url_status: ok
   - name: Houdini
     url: https://www.sidefx.com/products/houdini/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Procedural node-based DCC for VFX, simulation, and FX.
     pricing: Indie $269/yr, Core $1995, FX $4495
     license: Paid
@@ -63,6 +65,7 @@ entries:
     url_status: ok
   - name: ZBrush
     url: https://www.maxon.net/en/zbrush
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Industry-standard digital sculpting from Maxon.
     pricing: ~$27/mo annual
     license: Paid
@@ -88,6 +91,7 @@ entries:
     url_status: ok
   - name: Marvelous Designer
     url: https://www.marvelousdesigner.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cloth simulation and garment design software.
     pricing: Subscription
     license: Paid
@@ -113,6 +117,7 @@ entries:
     url_status: ok
   - name: Style3D
     url: https://atelier.style3d.com/en/home
+    added_at: '2026-05-20T20:06:27.000Z'
     description: 3D garment design and cloth simulation. Clo3D/Marvelous competitor with FBX/OBJ export to standard CG pipelines.
     pricing: Subscription
     license: Paid
@@ -137,6 +142,7 @@ entries:
     url_status: ok
   - name: Substance 3D Modeler
     url: https://www.adobe.com/products/substance3d/apps/modeler.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Adobe's VR and desktop sculpting tool.
     pricing: $49.99/mo collection
     license: Paid
@@ -160,6 +166,7 @@ entries:
     url_status: unreachable
   - name: Moi3D
     url: http://moi3d.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: NURBS modeler for industrial and product design.
     pricing: $295 perpetual (90-day trial)
     license: Paid
@@ -183,6 +190,7 @@ entries:
     url_status: ok
   - name: Nomad Sculpt
     url: https://nomadsculpt.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Mobile digital sculpting for iPad and Android.
     pricing: $19.99 one-time (mobile)
     license: Paid
@@ -210,6 +218,7 @@ entries:
     url_status: ok
   - name: SketchUp
     url: https://www.sketchup.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Architectural and interior-design-oriented 3D modeler.
     pricing: Go $10.75/mo, Pro $33.25/mo, Studio $68.25/mo (annual)
     license: Paid
@@ -234,6 +243,7 @@ entries:
     url_status: ok
   - name: Modo
     url: https://www.foundry.com/products/modo
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Foundry's 3D modeling, texturing, rendering package.
     license: Paid
     entry_type: software
@@ -257,6 +267,7 @@ entries:
     url_status: ok
   - name: Daz 3D
     url: https://www.daz3d.com/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Character-focused 3D software w/ large marketplace of figures and morphs. Free core app.
     license: Paid
     entry_type: software
@@ -278,6 +289,7 @@ entries:
     url_status: ok
   - name: Crocotile 3D
     url: https://prominent.itch.io/crocotile3d
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Use 2d tiles to create 3d models!
     license: Paid
     entry_type: software
@@ -296,6 +308,7 @@ entries:
     url_status: ok
   - name: Cinema 4D
     url: https://www.maxon.net/en/cinema-4d
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Maxon's motion-graphics and procedural 3D DCC; ships with Redshift and 5 Team Render nodes.
     pricing: $69.91/mo annual (Maxon One bundle $99.91/mo)
     license: Paid
@@ -322,6 +335,7 @@ entries:
     url_status: ok
   - name: 3ds Max
     url: https://www.autodesk.com/products/3ds-max
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Autodesk polygonal DCC widely used in archviz, games, and broadcast VFX.
     pricing: $255/mo or $2,010/yr (Indie $330/yr)
     license: Paid
@@ -350,6 +364,7 @@ entries:
     deprecated: true
   - name: MotionBuilder
     url: https://www.autodesk.com/products/motionbuilder
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Autodesk real-time character animation and mocap editing platform.
     pricing: $2,225/yr
     license: Paid
@@ -376,6 +391,7 @@ entries:
     deprecated: true
   - name: Reallusion iClone
     url: https://www.reallusion.com/iclone/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Real-time character animation and cinematic creation; pairs with Character Creator.
     pricing: $59/mo or $199/yr (perpetual $599)
     license: Paid
@@ -399,6 +415,7 @@ entries:
     url_status: ok
   - name: Reallusion Character Creator
     url: https://www.reallusion.com/character-creator/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Character creation and auto-rigging pipeline feeding iClone, Unreal, Unity, Blender, Omniverse.
     pricing: From $8.30/mo (3D Suite 365 $49.92/mo with iClone)
     license: Paid
@@ -421,6 +438,7 @@ entries:
     url_status: ok
   - name: Plasticity
     url: https://www.plasticity.xyz/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: NURBS/CAD-style modeler tuned for artists and concept work; perpetual license w/ 12-month maintenance.
     pricing: Indie/Studio perpetual; Indie→Studio upgrade $125
     license: Paid
@@ -446,6 +464,7 @@ entries:
       - software-reference/misc-3d-utilities-software
   - name: LightWave 3D
     url: https://lightwave3d.com/
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Veteran modeling, animation, and rendering DCC with a long film/broadcast legacy.
     license: Paid
     entry_type: software
@@ -470,6 +489,7 @@ entries:
     url_status: ok
   - name: Autodesk VRED
     url: https://www.autodesk.com/products/vred
+    added_at: '2026-05-22T16:39:01.000Z'
     description: OEM-standard automotive design review and photoreal viz.
     license: Paid
     entry_type: software
@@ -493,6 +513,7 @@ entries:
     deprecated: true
   - name: Autodesk Alias
     url: https://www.autodesk.com/products/alias
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Class-A surface modeling standard for automotive exterior design.
     license: Paid
     entry_type: software
@@ -513,6 +534,7 @@ entries:
     deprecated: true
   - name: ICEM Surf
     url: https://www.3ds.com/products/catia/icem-surf
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Class-A surfacing for automotive exteriors. Part of Dassault Systemes CATIA.
     license: Paid
     entry_type: software
@@ -532,6 +554,7 @@ entries:
     url_status: ok
   - name: Lumiscaphe Patchwork 3D
     url: https://www.lumiscaphe.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Real-time automotive configurator and viz, OEM clientele.
     license: Paid
     entry_type: software
@@ -553,6 +576,7 @@ entries:
     url_status: ok
   - name: MatrixGold (Gemvision)
     url: https://gemvision.com/matrixgold/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Rhino-based parametric jewelry CAD. Successor to Matrix/RhinoGold.
     license: Paid
     entry_type: software
@@ -572,6 +596,7 @@ entries:
     url_status: ok
   - name: JewelCAD
     url: https://www.jcadcam.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Long-standing dedicated jewelry CAD package.
     license: Paid
     entry_type: software
@@ -590,6 +615,7 @@ entries:
     url_status: unreachable
   - name: 3Design
     url: https://www.3design.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Parametric jewelry CAD with rendering.
     license: Paid
     entry_type: software
@@ -609,6 +635,7 @@ entries:
     url_status: ok
   - name: Clayoo
     url: https://www.clayoo.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: SubD modeling plugin for Rhino. Common for jewelry organic forms.
     license: Paid
     entry_type: plugin
@@ -629,6 +656,7 @@ entries:
     url_status: unreachable
   - name: Marmoset Toolbag
     url: https://marmoset.co/toolbag/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Real-time PBR viewer, baker, and renderer. Common in game/jewelry portfolios.
     license: Paid
     entry_type: software
@@ -656,6 +684,7 @@ entries:
       - software-reference/render-engines
   - name: CLO 3D
     url: https://www.clo3d.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Garment design and simulation for the fashion industry. Pattern-based 3D.
     license: Paid
     entry_type: software
@@ -676,6 +705,7 @@ entries:
     url_status: ok
   - name: Browzwear VStitcher
     url: https://browzwear.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Enterprise 3D garment design and tech-pack pipeline.
     license: Paid
     entry_type: software
@@ -696,6 +726,7 @@ entries:
     url_status: ok
   - name: Optitex
     url: https://www.optitex.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: 2D/3D pattern-making and virtual fit.
     license: Paid
     entry_type: software
@@ -714,6 +745,7 @@ entries:
     url_status: ok
   - name: ChyronHego (Chyron)
     url: https://chyron.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: PRIME graphics engine. News and sports lower-thirds, AR/VR studio.
     license: Paid
     entry_type: software
@@ -732,6 +764,7 @@ entries:
     url_status: ok
   - name: Ross XPression
     url: https://www.rossvideo.com/products/graphics-and-virtual/xpression/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Real-time motion graphics and data-driven CG for live broadcast.
     license: Paid
     entry_type: software
@@ -750,6 +783,7 @@ entries:
     url_status: ok
   - name: Avid Maestro
     url: https://www.avid.com/maestro
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Avid's virtual sets, AR, and data-driven graphics platform for live news and sports.
     license: Paid
     entry_type: software
@@ -768,6 +802,7 @@ entries:
     url_status: ok
   - name: Unreal MetaHuman Animator
     url: https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-animator-in-unreal-engine
+    added_at: '2026-05-22T16:39:01.000Z'
     description: iPhone/HMC-driven facial performance capture targeting MetaHuman characters. Free with Unreal.
     license: Free
     entry_type: software
@@ -790,6 +825,7 @@ entries:
     url_status: ok
   - name: Faceware Studio
     url: https://facewaretech.com/software/studio/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Real-time face capture and streaming software.
     license: Paid
     entry_type: software

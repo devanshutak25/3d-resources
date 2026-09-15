@@ -13,6 +13,7 @@ Find the right section file (`data/01-assets.yml` through `data/12-software-refe
 ```yaml
 - name: "Tool Name"
   url: "https://example.com"
+  added_at: "2026-09-15T00:00:00Z" # use the actual UTC addition time
   description: "One-line what it is and why it matters."
   license: "Free"                 # Open Source | Free | Free NC | Freemium | Paid
   entry_type: "software"          # see full list below
@@ -28,6 +29,8 @@ Find the right section file (`data/01-assets.yml` through `data/12-software-refe
 **Entry types:** `software` · `asset-source` · `marketplace` · `tool` · `plugin` · `tutorial` · `channel` · `community` · `reference` · `inspiration`.
 
 CI automatically validates schema + vocab on your PR. See `schema/vocab.yml` for controlled vocabulary values.
+
+`added_at` is required for feed ordering. Set it when adding an entry and preserve it when editing, moving, or updating its URL. `catalog.appendEntry()` supplies the current time for new entries automatically.
 
 ### 2. Open a free-form issue (if GitHub editing is a barrier)
 
@@ -52,7 +55,7 @@ Or reach out via [email](mailto:3dresources@devanshutak.xyz) / [Instagram](https
 
 ## Reporting broken / outdated
 
-- **Broken link:** our weekly link-checker workflow auto-flags these and opens an issue. You can also submit manually.
+- **Broken link:** the monthly link checker updates link-health fields and opens an issue for review. It does not change editorial deprecation. You can also submit manually.
 - **Wrong pricing / license / description:** PR edit, or issue.
 - **Resource has moved:** PR to update `url`.
 

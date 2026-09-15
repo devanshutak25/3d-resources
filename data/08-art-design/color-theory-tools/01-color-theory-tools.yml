@@ -1,6 +1,7 @@
 entries:
   - name: Color Hunt
     url: https://colorhunt.co/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Curated color palette collection.
     license: Free
     entry_type: tool
@@ -16,6 +17,7 @@ entries:
         - web
   - name: Coolors
     url: https://coolors.co/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Fast palette generator.
     license: Freemium
     entry_type: tool
@@ -31,6 +33,7 @@ entries:
         - web
   - name: Lospec Palette List
     url: https://lospec.com/palette-list
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Pixel art palette repository.
     license: Free
     entry_type: tool
@@ -48,6 +51,7 @@ entries:
     url_status: ok
   - name: WebGradients
     url: https://webgradients.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Gradient library.
     license: Free
     entry_type: asset-source
@@ -63,6 +67,7 @@ entries:
         - web
   - name: Gradient Horse
     url: https://gradient.horse/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Experimental gradient generator.
     license: Free
     entry_type: tool
@@ -78,6 +83,7 @@ entries:
         - web
   - name: Huemint
     url: https://huemint.com/brand-intersection/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI-assisted brand color generation.
     license: Freemium
     entry_type: tool
@@ -95,6 +101,7 @@ entries:
     url_status: ok
   - name: Adobe Color
     url: https://color.adobe.com/explore
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Color wheel, harmony tool, palettes.
     license: Free
     entry_type: tool
@@ -110,6 +117,7 @@ entries:
         - web
   - name: Canva Color Palettes
     url: https://www.canva.com/colors/color-palettes/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Pre-made palettes.
     license: Free
     entry_type: asset-source
@@ -125,6 +133,7 @@ entries:
         - web
   - name: Paletton
     url: https://paletton.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Classic color scheme designer.
     license: Free
     entry_type: tool
@@ -140,6 +149,7 @@ entries:
         - web
   - name: ColorBox
     url: https://colorbox.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Systematic color scale generator.
     license: Free
     entry_type: tool
@@ -155,6 +165,7 @@ entries:
         - web
   - name: Color Method
     url: https://color.method.ac/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Interactive color matching game.
     license: Free
     entry_type: tool
@@ -172,6 +183,7 @@ entries:
         - beginner
   - name: poline
     url: https://meodai.github.io/poline/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Esoteric palette generation via polar color interpolation.
     license: Open Source
     entry_type: tool
@@ -189,6 +201,7 @@ entries:
         - opensource-alt
   - name: Fast Palette Studio
     url: https://fastpalette.studio/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Rapid palette creation for pixel art and game dev.
     license: Free
     entry_type: tool
@@ -206,6 +219,7 @@ entries:
     url_status: unreachable
   - name: Swatchr
     url: https://github.com/jknightdoeswork/swatchr
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A color palette management system for Unity.
     license: Open Source
     entry_type: reference
@@ -227,6 +241,7 @@ entries:
     last_pushed: '2019-03-30'
   - name: Palitra
     url: https://palitra.app/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Search brand color palettes.
     license: Free
     entry_type: tool
@@ -241,6 +256,7 @@ entries:
     url_status: ok
   - name: Randoma11y
     url: https://randoma11y.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Generate accessible color combinations.
     license: Free
     entry_type: tool

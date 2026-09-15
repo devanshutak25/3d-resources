@@ -1,6 +1,7 @@
 entries:
   - name: Unsplash
     url: https://unsplash.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free photography.
     license: Free
     entry_type: asset-source
@@ -18,6 +19,7 @@ entries:
         - web
   - name: Pexels
     url: https://www.pexels.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free stock photos and video.
     license: Free
     entry_type: asset-source
@@ -35,6 +37,7 @@ entries:
         - web
   - name: Pixabay
     url: https://pixabay.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free stock media.
     license: Free
     entry_type: asset-source
@@ -52,6 +55,7 @@ entries:
         - web
   - name: All Free Download
     url: http://all-free-download.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free design downloads.
     license: Free
     entry_type: asset-source
@@ -69,6 +73,7 @@ entries:
         - web
   - name: Neurascapes
     url: https://neurascapes.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free surreal/AI-generated reference imagery.
     license: Free
     entry_type: asset-source
@@ -86,6 +91,7 @@ entries:
         - web
   - name: PNG Images
     url: https://pngimg.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Transparent PNG images.
     license: Free NC
     entry_type: asset-source
@@ -103,6 +109,7 @@ entries:
         - web
   - name: Public Domain Review
     url: https://publicdomainreview.org/collections/images
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Public-domain image collections.
     license: Free
     entry_type: asset-source
@@ -120,6 +127,7 @@ entries:
         - web
   - name: David Rumsey Maps
     url: https://www.davidrumsey.com/view/past
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Historical maps archive.
     license: Free NC
     entry_type: asset-source
@@ -137,6 +145,7 @@ entries:
     url_status: ok
   - name: The Blueprints
     url: https://www.the-blueprints.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Vehicle, aircraft, ship blueprints.
     license: Free
     entry_type: asset-source
@@ -154,6 +163,7 @@ entries:
     url_status: ok
   - name: Settei Dreams
     url: https://setteidreams.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Anime model sheets and settei archive.
     entry_type: asset-source
     tags:
@@ -171,6 +181,7 @@ entries:
     url_status: ok
   - name: LACartoons
     url: https://lacartoons.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Animation cel and model sheet archive.
     entry_type: asset-source
     readme_tags:
@@ -188,6 +199,7 @@ entries:
         - web
   - name: Story Set
     url: https://storyset.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Customizable illustrations to edit and animate, free.
     entry_type: asset-source
     license: Free
@@ -202,6 +214,7 @@ entries:
         - web
   - name: Absurd Design
     url: https://absurd.design
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free surrealist illustration set.
     entry_type: asset-source
     license: Free
@@ -214,6 +227,7 @@ entries:
         - web
   - name: Black Illustrations
     url: https://blackillustrations.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Illustrations of black people for projects.
     entry_type: asset-source
     license: Freemium
@@ -226,6 +240,7 @@ entries:
         - web
   - name: Blush
     url: https://blush.design
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Mix and customize illustrations made by artists.
     entry_type: asset-source
     license: Freemium
@@ -238,6 +253,7 @@ entries:
         - web
   - name: Control Illustrations
     url: https://control.rocks
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Combo set of 108 customizable illustrations.
     entry_type: asset-source
     license: Paid
@@ -250,6 +266,7 @@ entries:
         - web
   - name: Biodiversity Heritage Library
     url: https://www.flickr.com/photos/biodivlibrary/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 300,000+ botanical and animal illustrations free to download (CC0).
     entry_type: asset-source
     license: Free
@@ -264,6 +281,7 @@ entries:
         - cc0
   - name: Flowbite Illustrations
     url: https://flowbite.com/illustrations/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source SVG illustrations in 3D style, dark and light mode.
     entry_type: asset-source
     license: Open Source
@@ -278,6 +296,7 @@ entries:
         - opensource-alt
   - name: Get Illustrations Bundle
     url: https://getillustrations.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Bundle of 34+ vector illustration packs, 2800+ items.
     entry_type: asset-source
     license: Paid
@@ -290,6 +309,7 @@ entries:
         - web
   - name: Humaaans
     url: https://www.humaaans.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Mix-and-match illustrations of people with a design library.
     entry_type: asset-source
     license: Free
@@ -302,6 +322,7 @@ entries:
         - web
   - name: illlustrations
     url: https://illlustrations.co
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 100 open-source illustrations including COVID and WFH themes.
     entry_type: asset-source
     license: Open Source
@@ -316,6 +337,7 @@ entries:
         - opensource-alt
   - name: Illustrationz
     url: https://illustrationz.design
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 100+ 3D character illustration packs with 167M+ combinations.
     entry_type: asset-source
     license: Freemium
@@ -328,6 +350,7 @@ entries:
         - web
   - name: Illustration Gallery
     url: https://www.manypixels.co/gallery
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Royalty-free illustration collection.
     entry_type: asset-source
     license: Free
@@ -340,6 +363,7 @@ entries:
         - web
   - name: Storytale
     url: https://storytale.io/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Hundreds of illustrations for web and app projects.
     entry_type: asset-source
     license: Freemium
@@ -352,6 +376,7 @@ entries:
         - web
   - name: Stubborn Generator
     url: https://stubborn.fun
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Character illustration generator.
     entry_type: asset-source
     license: Free
@@ -364,6 +389,7 @@ entries:
         - web
   - name: unDraw Illustrations
     url: https://undraw.co/illustrations
+    added_at: '2026-04-19T17:15:03.000Z'
     description: MIT-licensed collection of SVG illustrations.
     entry_type: asset-source
     license: Open Source
@@ -378,6 +404,7 @@ entries:
         - opensource-alt
   - name: Smash Illustrations
     url: https://usesmash.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Library of 250+ illustrations.
     entry_type: asset-source
     license: Freemium
@@ -390,6 +417,7 @@ entries:
         - web
   - name: Mockupz
     url: https://mockupz.design
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free 3D mockup scenes for showcasing design work.
     entry_type: asset-source
     license: Free
@@ -402,6 +430,7 @@ entries:
         - web
   - name: Freepik
     url: https://www.freepik.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Free vectors, photos, and mockups.
     license: Freemium
     entry_type: asset-source
@@ -417,6 +446,7 @@ entries:
     url_status: ok
   - name: Public.work
     url: https://public.work/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Search public domain images from museums and libraries.
     license: Free
     entry_type: asset-source

@@ -1,6 +1,7 @@
 entries:
   - name: Unreal Engine 5
     url: https://www.unrealengine.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AAA engine from Epic. Free until $1M revenue, then royalty.
     license: Freemium
     entry_type: software
@@ -29,6 +30,7 @@ entries:
     url_status: ok
   - name: Unity
     url: https://unity.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cross-platform engine with massive asset store ecosystem (current major release Unity 6).
     license: Freemium
     entry_type: software
@@ -54,6 +56,7 @@ entries:
     url_status: ok
   - name: GameMaker
     url: https://gamemaker.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: GML-based 2D engine (Undertale, Hotline Miami).
     license: Freemium
     entry_type: software
@@ -71,6 +74,7 @@ entries:
     url_status: ok
   - name: Construct 3
     url: https://www.construct.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Browser-based no-code 2D engine with visual scripting.
     license: Freemium
     entry_type: software
@@ -89,6 +93,7 @@ entries:
     url_status: ok
   - name: GDevelop
     url: https://gdevelop.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source event-based no-code 2D.
     license: Open Source
     entry_type: software
@@ -112,6 +117,7 @@ entries:
     url_status: ok
   - name: RPG Maker MZ
     url: https://www.rpgmakerweb.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: JavaScript-based RPG creation.
     license: Paid
     entry_type: software
@@ -129,6 +135,7 @@ entries:
     url_status: ok
   - name: Ren'Py
     url: https://www.renpy.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Python visual novel engine (industry standard).
     license: Open Source
     entry_type: software
@@ -149,6 +156,7 @@ entries:
     url_status: ok
   - name: CryEngine
     url: https://www.cryengine.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: High-fidelity 3D engine, pay-what-you-want.
     license: Freemium
     entry_type: software
@@ -168,6 +176,7 @@ entries:
     url_status: ok
   - name: PlayCanvas
     url: https://playcanvas.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: JavaScript browser-based 3D engine.
     license: Freemium
     entry_type: software
@@ -188,6 +197,7 @@ entries:
     url_status: ok
   - name: Unbound
     url: https://www.unbound.io/
+    added_at: '2026-04-16T20:54:45.000Z'
     description: SDF-based game development platform. Non-destructive real-time editing, Lua 5.3 scripting, FBX/glTF export. Early Access.
     license: Freemium
     entry_type: software
@@ -208,6 +218,7 @@ entries:
     url_status: ok
   - name: Evergine
     url: https://evergine.com/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Enterprise-focused graphics engine for 3D business and industry applications.
     license: Open Source
     entry_type: software
@@ -226,6 +237,7 @@ entries:
     url_status: ok
   - name: SceneKit
     url: https://developer.apple.com/documentation/scenekit
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
     license: Free
     entry_type: software

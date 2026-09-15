@@ -1,6 +1,7 @@
 entries:
   - name: ControlNet
     url: https://stable-diffusion-art.com/controlnet/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Depth/pose/edge control for precision CG workflows.
     license: Open Source
     entry_type: tool
@@ -19,6 +20,7 @@ entries:
     url_status: ok
   - name: Dream Textures (Blender)
     url: https://github.com/carson-katri/dream-textures
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Generate textures in Blender via Stable Diffusion, locally.
     license: Open Source
     entry_type: plugin
@@ -38,6 +40,7 @@ entries:
     url_status: ok
   - name: Comfy UI Blender AI
     url: https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Run ComfyUI workflows inside Blender.
     license: Open Source
     entry_type: plugin
@@ -57,6 +60,7 @@ entries:
     url_status: ok
   - name: Coplay
     url: https://coplay.dev
+    added_at: '2026-04-16T21:13:44.000Z'
     description: AI copilot for Unity.
     license: Freemium
     entry_type: plugin
@@ -74,6 +78,7 @@ entries:
       - Unity Copilot
   - name: RIFE for Nuke
     url: https://github.com/rafaelperez/RIFE-for-Nuke
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Real-Time Intermediate Flow Estimation for video frame interpolation (ML framerate upscaling) for Nuke.
     license: Open Source
     entry_type: plugin
@@ -94,6 +99,7 @@ entries:
     last_pushed: '2024-03-17'
   - name: AI Game Developer
     url: https://github.com/IvanMurzak/Unity-MCP
+    added_at: '2026-04-16T21:13:44.000Z'
     description: '`Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.'
     license: Open Source
     entry_type: plugin
@@ -113,6 +119,7 @@ entries:
       - AI Integration
   - name: GPT 4
     url: https://www.promptingguide.ai/models/gpt-4
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
     license: Free
     entry_type: reference
@@ -128,6 +135,7 @@ entries:
       - GPT-4
   - name: SAM 2 (Segment Anything Model 2)
     url: https://ai.meta.com/research/sam2/
+    added_at: '2026-05-21T18:41:53.000Z'
     description: Meta's promptable segmentation for images and video. Masks objects across frames from a single click. Useful for rotoscope and matte work.
     license: Open Source
     entry_type: tool
@@ -150,6 +158,7 @@ entries:
       - Video Masks
   - name: CorridorKey
     url: https://github.com/nikopueringer/CorridorKey
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Corridor Crew's open keying tool. AI-driven chroma key for VFX work.
     license: Open Source
     entry_type: tool
@@ -172,6 +181,7 @@ entries:
       - Corridor
   - name: Sammie Roto 2
     url: https://github.com/Zarxrax/Sammie-Roto-2
+    added_at: '2026-04-16T19:59:30.000Z'
     description: SAM-based rotoscope app. Click-to-mask, propagates across frames.
     license: Open Source
     entry_type: tool
@@ -194,6 +204,7 @@ entries:
       - SAM
   - name: Robust Video Matting (RVM)
     url: https://github.com/PeterL1n/RobustVideoMatting
+    added_at: '2026-05-21T18:41:53.000Z'
     description: Real-time human video matting. Strong alpha mattes with no greenscreen.
     license: Open Source
     entry_type: tool
@@ -216,6 +227,7 @@ entries:
       - Real-Time
   - name: Track Anything
     url: https://github.com/gaomingqi/Track-Anything
+    added_at: '2026-05-21T18:41:53.000Z'
     description: SAM plus XMem for interactive video object tracking and segmentation. Useful for roto and matte propagation.
     license: Open Source
     entry_type: tool
@@ -238,6 +250,7 @@ entries:
       - Segmentation
   - name: DEVA (Tracking Anything)
     url: https://github.com/hkchengrex/Tracking-Anything-with-DEVA
+    added_at: '2026-05-21T18:41:53.000Z'
     description: Decoupled video segmentation. Long-form, multi-object roto with text or click prompts.
     license: Open Source
     entry_type: tool
@@ -260,6 +273,7 @@ entries:
       - Long-Form
   - name: Wonder Studio (Autodesk Flow Studio)
     url: https://wonderdynamics.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI character replacement with auto roto, body tracking, and re-lighting from a single video. Now part of Autodesk Flow Studio.
     license: Freemium
     entry_type: tool
@@ -280,6 +294,7 @@ entries:
       - Char Replace
   - name: Rotobot
     url: https://www.kognat.com/
+    added_at: '2026-05-21T18:41:53.000Z'
     description: Paid AI roto plugin for Nuke and After Effects. Auto-mattes people and objects.
     license: Paid
     entry_type: plugin
@@ -301,6 +316,7 @@ entries:
       - AE Plugin
   - name: CoTracker
     url: https://co-tracker.github.io/
+    added_at: '2026-05-21T18:41:53.000Z'
     description: Meta FAIR point tracker for video. Tracks arbitrary points jointly across frames. Useful for matchmove and roto prep.
     license: Open Source
     entry_type: tool
@@ -323,6 +339,7 @@ entries:
       - Video
   - name: SolidUI
     url: https://github.com/CloudOrc/SolidUI
+    added_at: '2026-04-19T17:29:43.000Z'
     description: AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
     license: Open Source
     entry_type: tool
@@ -340,6 +357,7 @@ entries:
     last_pushed: '2024-01-27'
   - name: Genetic Drawing
     url: https://github.com/anopara/genetic-drawing
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Python library that generates a stylized rendering from an image.
     entry_type: tool
     license: Open Source
@@ -357,6 +375,7 @@ entries:
     last_pushed: '2020-06-26'
   - name: AI Render (Stable Diffusion in Blender)
     url: https://github.com/benrugg/AI-Render
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender addon that renders an AI image from a text prompt and your scene via Stable Diffusion.
     license: Open Source
     entry_type: plugin
@@ -373,6 +392,7 @@ entries:
         - linux
   - name: UneeQ Digital Humans
     url: https://www.digitalhumans.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Cloud platform for real-time interactive digital humans.
     license: Paid
     entry_type: software
@@ -387,6 +407,7 @@ entries:
         - web
   - name: 'ClipDrop: Image Upscaler'
     url: https://clipdrop.co/image-upscaler
+    added_at: '2026-06-21T19:32:23.000Z'
     description: AI image upscaler and enhancer.
     license: Freemium
     entry_type: tool

@@ -1,6 +1,7 @@
 entries:
   - name: Flora
     url: https://florafauna.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Node canvas for image and video gen with 50+ models and Style DNA.
     license: Freemium
     entry_type: software
@@ -20,6 +21,7 @@ entries:
     url_status: ok
   - name: Weavy
     url: https://weavy.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Node canvas with pro editing for compositing, matte, and relighting. Acquired by Figma.
     license: Freemium
     entry_type: software
@@ -39,6 +41,7 @@ entries:
     url_status: ok
   - name: Higgsfield Canvas
     url: https://higgsfield.ai/canvas-intro
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Node editor chaining prompts, style transfer, motion, and render across image and video.
     license: Freemium
     entry_type: software
@@ -58,6 +61,7 @@ entries:
     url_status: ok
   - name: Freepik Spaces
     url: https://www.freepik.com/spaces
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Node workflows tied to the Freepik stock library.
     license: Freemium
     entry_type: software
@@ -77,6 +81,7 @@ entries:
     url_status: ok
   - name: Wireflow
     url: https://www.wireflow.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: AI workflow canvas with a developer lean.
     license: Freemium
     entry_type: software
@@ -95,6 +100,7 @@ entries:
     url_status: ok
   - name: Kaiber
     url: https://kaiber.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Unified canvas for image and video generation and editing. Superstudio.
     license: Paid
     entry_type: software
@@ -113,6 +119,7 @@ entries:
     url_status: ok
   - name: Omma
     url: https://omma.build/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Prompt-driven builder from Spline that generates 3D scenes, sites, games, and decks. Accepts GLB, OBJ, and data files as input.
     license: Freemium
     entry_type: software
@@ -134,6 +141,7 @@ entries:
     url_status: ok
   - name: Rosebud AI
     url: https://rosebud.ai/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Prompt-to-game builder that outputs playable 2D and 3D browser games with editable code.
     license: Freemium
     entry_type: software
@@ -155,6 +163,7 @@ entries:
     url_status: ok
   - name: Websim
     url: https://websim.com/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Generates and remixes interactive web pages and toys from a prompt or URL.
     license: Freemium
     entry_type: software

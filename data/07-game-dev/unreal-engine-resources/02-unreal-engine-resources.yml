@@ -1,6 +1,7 @@
 entries:
   - name: UE5 Styleguide
     url: https://github.com/Allar/ue5-style-guide
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Guidelines for keeping Unreal Engine projects consistent.
     entry_type: reference
     license: Open Source
@@ -21,6 +22,7 @@ entries:
     last_pushed: '2023-10-05'
   - name: SCUE5 Plugin
     url: https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Steam Core updated for Unreal Engine 5.
     entry_type: plugin
     license: Open Source
@@ -42,6 +44,7 @@ entries:
     archived: true
   - name: ALS Refactored
     url: https://github.com/Sixze/ALS-Refactored
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Reworked C++ version of Advanced Locomotion System V4.
     entry_type: plugin
     license: Open Source
@@ -62,6 +65,7 @@ entries:
         - opensource-alt
   - name: GASP ALS
     url: https://github.com/PolygonHive/GASP-ALS
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Game Animation Sample with ALS locomotion layering.
     entry_type: plugin
     license: Open Source
@@ -82,6 +86,7 @@ entries:
         - opensource-alt
   - name: LeapUnreal
     url: https://github.com/leapmotion/leapunreal
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Leap Motion hand-tracking SDK for Unreal Engine.
     entry_type: plugin
     license: Open Source
@@ -102,6 +107,7 @@ entries:
         - opensource-alt
   - name: Myo Ue4
     url: https://github.com/getnamo/myo-ue4
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Myo armband input plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -125,6 +131,7 @@ entries:
     last_pushed: '2021-05-26'
   - name: Swipe
     url: https://github.com/getsetgames/Swipe
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Exposes mobile swipe gestures as Blueprint events in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -146,6 +153,7 @@ entries:
     last_pushed: '2020-03-20'
   - name: Morphs Player
     url: https://github.com/JanSeliv/MorphsPlayer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Play morph targets directly on a skeletal mesh animation track.
     entry_type: plugin
     license: Open Source
@@ -166,6 +174,7 @@ entries:
         - opensource-alt
   - name: Ps Web Server
     url: https://github.com/PushkinStudio/PsWebServer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: CivetWeb web server integration plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -186,6 +195,7 @@ entries:
         - opensource-alt
   - name: Ps Replay Kit
     url: https://github.com/PushkinStudio/PsReplayKit
+    added_at: '2026-04-19T17:29:43.000Z'
     description: iOS plugin to record or stream screen video plus app and mic audio.
     entry_type: plugin
     license: Open Source
@@ -206,6 +216,7 @@ entries:
     last_pushed: '2018-11-28'
   - name: Ps Facebook Mobile
     url: https://github.com/PushkinStudio/PsFacebookMobile
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Facebook authorization for mobile in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -225,6 +236,7 @@ entries:
         - opensource-alt
   - name: UE4 Game Lift Client SDK
     url: https://github.com/YetiTech-Studios/UE4GameLiftClientSDK
+    added_at: '2026-04-19T17:29:43.000Z'
     description: AWS GameLift client SDK for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -247,6 +259,7 @@ entries:
     last_pushed: '2020-01-25'
   - name: Acl Ue4 Plugin
     url: https://github.com/nfrechette/acl-ue4-plugin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Official Animation Compression Library plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -269,6 +282,7 @@ entries:
     last_pushed: '2023-12-09'
   - name: KawaiiPhysics
     url: https://github.com/pafuhana1213/KawaiiPhysics
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Simple fake secondary-motion physics for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -289,6 +303,7 @@ entries:
         - opensource-alt
   - name: UnrealLive2D
     url: https://github.com/Arisego/UnrealLive2D
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Render Live2D models in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -310,6 +325,7 @@ entries:
     archived: true
   - name: Articy Importer For Unreal
     url: https://github.com/ArticySoftware/ArticyImporterForUnreal
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Imports articy:draft narrative data into Unreal Engine.
     entry_type: plugin
     license: Open Source
@@ -330,6 +346,7 @@ entries:
         - opensource-alt
   - name: Cesium for Unreal
     url: https://github.com/CesiumGS/cesium-unreal
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Brings 3D geospatial tiles and globes into Unreal Engine.
     entry_type: plugin
     license: Open Source
@@ -350,6 +367,7 @@ entries:
         - opensource-alt
   - name: Realtime Mesh Component
     url: https://github.com/TriAxis-Games/RealtimeMeshComponent
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unreal Engine 5 component for rendering runtime-generated meshes.
     entry_type: plugin
     license: Open Source
@@ -370,6 +388,7 @@ entries:
         - opensource-alt
   - name: PluginTemplate
     url: https://github.com/Sythenz/PluginTemplate
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Starter Unreal plugin template with editor and runtime modules.
     entry_type: plugin
     license: Open Source
@@ -392,6 +411,7 @@ entries:
     last_pushed: '2024-05-16'
   - name: My SQL Connector UE4 Plugin
     url: https://github.com/KhArtNJava/MySQLConnectorUE4Plugin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: MySQL database connector plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -414,6 +434,7 @@ entries:
     last_pushed: '2022-12-28'
   - name: SQLite3UE4
     url: https://github.com/KhArtNJava/SQLite3UE4
+    added_at: '2026-04-19T17:29:43.000Z'
     description: SQLite3 database plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -436,6 +457,7 @@ entries:
     last_pushed: '2016-06-18'
   - name: UE4 Aurora Effect
     url: https://github.com/Hideous/UE4-AuroraEffect
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Raymarched aurora borealis effect for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -458,6 +480,7 @@ entries:
     last_pushed: '2020-12-16'
   - name: NiagaraUIRenderer
     url: https://github.com/SourySK/NiagaraUIRenderer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Render Niagara particle systems inside UMG UI widgets.
     entry_type: plugin
     license: Open Source
@@ -478,6 +501,7 @@ entries:
         - opensource-alt
   - name: UE5 Stylized Post Process
     url: https://github.com/ymt3d/UE5-StylizedPostProcess
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Stylized post-process effects for Unreal Engine 5.
     entry_type: plugin
     license: Open Source
@@ -498,6 +522,7 @@ entries:
         - opensource-alt
   - name: OceanProject
     url: https://github.com/UE4-OceanProject/OceanProject
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Ocean simulation project for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -520,6 +545,7 @@ entries:
     last_pushed: '2021-05-26'
   - name: Runtime Mesh Component
     url: https://github.com/Koderz/RuntimeMeshComponent
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Unreal Engine 4 component for rendering runtime-generated meshes.
     entry_type: plugin
     license: Open Source
@@ -540,6 +566,7 @@ entries:
         - opensource-alt
   - name: Greebler
     url: https://github.com/alexismorin/Greebler
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Auto-scatters rubble and greeble detail across a scene. UE4 and Unity.
     entry_type: plugin
     license: Open Source
@@ -562,6 +589,7 @@ entries:
     last_pushed: '2019-05-13'
   - name: cashgenUE
     url: https://github.com/midgen/cashgenUE
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Runtime procedural terrain generator for Unreal Engine.
     entry_type: plugin
     license: Open Source
@@ -582,6 +610,7 @@ entries:
         - opensource-alt
   - name: OpenLand
     url: https://github.com/GameDev4K/unreal-open-land
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open source landscape auto-material for Unreal Engine.
     entry_type: plugin
     license: Open Source
@@ -602,6 +631,7 @@ entries:
         - opensource-alt
   - name: DungeonGenerator
     url: https://github.com/orfeasel/DungeonGenerator
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Procedural dungeon generator for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -622,6 +652,7 @@ entries:
         - opensource-alt
   - name: UE4 Custom Gravity Plugin
     url: https://github.com/mhousse1247/UE4-CustomGravityPlugin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Custom directional gravity plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -642,6 +673,7 @@ entries:
         - opensource-alt
   - name: GASShooter
     url: https://github.com/tranek/GASShooter
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Advanced FPS/TPS sample project for the Gameplay Ability System.
     entry_type: plugin
     license: Open Source
@@ -662,6 +694,7 @@ entries:
         - opensource-alt
   - name: Inventory + Equipment System
     url: https://github.com/angelhodar/OpenRPG_Inventory
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Inventory container and equipment system for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -684,6 +717,7 @@ entries:
     last_pushed: '2021-03-04'
   - name: Horizontal 360 Radar
     url: https://github.com/angelhodar/OpenRPG_RadarSystem
+    added_at: '2026-04-19T17:29:43.000Z'
     description: 360-degree radar system (Skyrim-style) for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -706,6 +740,7 @@ entries:
     last_pushed: '2023-11-12'
   - name: Stats + Attributes
     url: https://github.com/angelhodar/OpenRPG_Stats
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Stats, attributes, and leveling system for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -728,6 +763,7 @@ entries:
     last_pushed: '2021-03-04'
   - name: Ps Real Vehicle
     url: https://github.com/PushkinStudio/PsRealVehicle
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Simple force-driven vehicle simulation plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -750,6 +786,7 @@ entries:
     last_pushed: '2024-02-26'
   - name: Weapon Trace Unreal
     url: https://github.com/getnamo/WeaponTrace-Unreal
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Weapon tracing plugin for reliable melee combat hits.
     entry_type: plugin
     license: Open Source
@@ -770,6 +807,7 @@ entries:
         - opensource-alt
   - name: Ghost Mesh Plugin
     url: https://github.com/NoahZuo/GhostMeshPlugin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Creates ghost/silhouette mesh effects in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -792,6 +830,7 @@ entries:
     last_pushed: '2017-03-11'
   - name: CensoredUE4
     url: https://github.com/BitReign/CensoredUE4
+    added_at: '2026-04-19T17:29:43.000Z'
     description: World-space area censoring (mosaic/blur) attachable to any actor.
     entry_type: plugin
     license: Open Source
@@ -814,6 +853,7 @@ entries:
     last_pushed: '2020-11-26'
   - name: unrealcv
     url: https://github.com/unrealcv/unrealcv
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Connects computer vision research to Unreal Engine.
     entry_type: plugin
     license: Open Source
@@ -834,6 +874,7 @@ entries:
         - opensource-alt
   - name: OpenCL.uplugin
     url: https://github.com/kwonoh/OpenCL.uplugin
+    added_at: '2026-04-19T17:29:43.000Z'
     description: OpenCL GPU compute plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -857,6 +898,7 @@ entries:
     last_pushed: '2015-05-28'
   - name: Runtime Files Downloader
     url: https://github.com/gtreshchev/RuntimeFilesDownloader
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Download files over HTTP/HTTPS at runtime in Unreal Engine.
     entry_type: plugin
     license: Open Source
@@ -878,6 +920,7 @@ entries:
     archived: true
   - name: Runtime Audio Importer
     url: https://github.com/gtreshchev/RuntimeAudioImporter
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Import audio of various formats at runtime in Unreal Engine.
     entry_type: plugin
     license: Open Source
@@ -899,6 +942,7 @@ entries:
     archived: true
   - name: Runtime Mesh Loader
     url: https://github.com/Chrizey91/RuntimeMeshLoader
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Import meshes at runtime in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -921,6 +965,7 @@ entries:
     last_pushed: '2023-08-31'
   - name: UE4 BYG Localization
     url: https://github.com/BraceYourselfGames/UE4-BYGLocalization
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Simple CSV-based localization system for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -943,6 +988,7 @@ entries:
     last_pushed: '2022-03-26'
   - name: Tensorflow Ue4
     url: https://github.com/getnamo/tensorflow-ue4
+    added_at: '2026-04-19T17:29:43.000Z'
     description: TensorFlow machine-learning plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
@@ -963,6 +1009,7 @@ entries:
         - opensource-alt
   - name: UELlama
     url: https://github.com/mika314/UELlama
+    added_at: '2026-04-19T17:29:43.000Z'
     description: llama.cpp LLM inference plugin for Unreal Engine 5.
     entry_type: plugin
     license: Open Source
@@ -983,6 +1030,7 @@ entries:
         - opensource-alt
   - name: MobileUtils
     url: https://github.com/gameDNAstudio/MobileUtils
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Integrate common mobile utilities into Unreal Engine 4 projects.
     entry_type: plugin
     license: Open Source
@@ -1004,6 +1052,7 @@ entries:
     last_pushed: '2019-12-26'
   - name: AndroidNative
     url: https://github.com/gtreshchev/AndroidNative
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Call Java functions via JNI from Unreal Engine on Android.
     entry_type: plugin
     license: Open Source
@@ -1023,6 +1072,7 @@ entries:
     archived: true
   - name: mod.io
     url: https://github.com/modio/modio-ue
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Integrate mod.io user-generated-content management into your Unreal game.
     entry_type: plugin
     license: Open Source

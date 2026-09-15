@@ -1,6 +1,7 @@
 entries:
   - name: Toros Kose (Behance)
     url: https://www.behance.net/toroskose
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D artist portfolio.
     entry_type: inspiration
     readme_tags:
@@ -15,6 +16,7 @@ entries:
         - web
   - name: Strange Attractors
     url: http://www.3d-meier.de/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Mathematical 3D forms.
     entry_type: inspiration
     readme_tags:
@@ -29,6 +31,7 @@ entries:
         - web
   - name: autodestruct.com
     url: http://www.autodestruct.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Concept art.
     entry_type: inspiration
     readme_tags:
@@ -43,6 +46,7 @@ entries:
         - web
   - name: Disney Research
     url: https://www.disneyresearch.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Research publications.
     entry_type: reference
     readme_tags:
@@ -55,6 +59,7 @@ entries:
         - web
   - name: Linkage Mechanisms
     url: http://blog.rectorsquid.com/sample-linkage-mechanisms-2/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Mechanical animations.
     entry_type: reference
     readme_tags:
@@ -67,6 +72,7 @@ entries:
         - web
   - name: Level Sets in Production (Sony)
     url: https://www.imageworks.com/sites/default/files/2023-10/levelsets-in-production-spider-man3.pdf
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Spider-Man 3 VFX paper.
     entry_type: reference
     readme_tags:
@@ -81,6 +87,7 @@ entries:
         - web
   - name: cifraworld (Instagram)
     url: https://www.instagram.com/cifraworld/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D motion art.
     entry_type: inspiration
     readme_tags:
@@ -95,6 +102,7 @@ entries:
         - web
   - name: Ben Watts (Vimeo)
     url: https://vimeo.com/bwdesign
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion design.
     entry_type: inspiration
     readme_tags:
@@ -109,6 +117,7 @@ entries:
         - web
   - name: Nick Taylor (MVSM)
     url: http://nicholas-taylor.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Project breakdowns.
     entry_type: channel
     readme_tags:
@@ -123,6 +132,7 @@ entries:
         - web
   - name: Cornelius Dammrich
     url: https://corneliusdammrich.gumroad.com
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Sci-fi environments.
     entry_type: inspiration
     license: Paid
@@ -138,6 +148,7 @@ entries:
         - web
   - name: FX References
     url: https://ref-fx.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Visual effects reference library.
     entry_type: reference
     readme_tags:
@@ -152,6 +163,7 @@ entries:
         - web
   - name: HUDs and GUIs
     url: https://www.hudsandguis.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: FUI/screen graphics reference for sci-fi 3D work.
     entry_type: reference
     readme_tags:
@@ -166,6 +178,7 @@ entries:
         - web
   - name: Character Design References
     url: https://characterdesignreferences.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Shape language and character design studies.
     entry_type: reference
     readme_tags:
@@ -180,6 +193,7 @@ entries:
         - web
   - name: GPT-3 Demo
     url: https://gpt3demo.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Showcase of GPT-3 examples, demos, apps, and NLP use-cases.
     entry_type: inspiration
     readme_tags:
@@ -192,6 +206,7 @@ entries:
         - web
   - name: Sean Browning - Pixel Art Animation Reel 2018
     url: https://vimeo.com/250991452
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Sean Browning's pixel animations, from simple scenes to recreations of shows like Steven's Universe and RWBY.
     entry_type: inspiration
     readme_tags:
@@ -206,6 +221,7 @@ entries:
         - web
   - name: The Pixel Factory
     url: http://acko.net/files/gltalks/pixelfactory/online.html
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Talk about WebGL, GPUs and Math by Steven Wittens.
     entry_type: reference
     readme_tags:
@@ -218,6 +234,7 @@ entries:
         - web
   - name: 3D Maths Cheat Sheet
     url: http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Math cheatsheet by Anton Gerdelan, from his OpenGL book.
     entry_type: reference
     readme_tags:
@@ -230,6 +247,7 @@ entries:
         - web
   - name: Writing a small software renderer
     url: http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Introduction to how basic software rendering works.
     entry_type: reference
     readme_tags:
@@ -242,6 +260,7 @@ entries:
         - web
   - name: 'Gene Kogan: Perlin Noise'
     url: http://genekogan.com/code/p5js-perlin-noise/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Introduction to 2D and 3D perlin noise.
     entry_type: reference
     readme_tags:
@@ -254,6 +273,7 @@ entries:
         - web
   - name: Maths & trigonometry cheat sheet for 2D & 3D games
     url: https://gist.github.com/xem/99930986c5333125a13b0ea50600391f
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Maths cheat-sheet for 2D and 3D game-makers.
     entry_type: reference
     readme_tags:
@@ -266,6 +286,7 @@ entries:
         - web
   - name: Graphics Programming Projects
     url: https://graphicscodex.com/projects/projects/index.html
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Book about 3D computational graphics by Morgan McGuire.
     entry_type: reference
     readme_tags:
@@ -278,6 +299,7 @@ entries:
         - web
   - name: Introduction to Ray Tracing
     url: http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: A simple method for creating 3D images.
     entry_type: reference
     readme_tags:
@@ -290,6 +312,7 @@ entries:
         - web
   - name: Foundation HTML5 Animation with JavaScript
     url: https://link.springer.com/book/10.1007/978-1-4302-3666-5
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Everything you need to know to create animation using the HTML5 canvas.
     entry_type: reference
     license: Paid
@@ -303,6 +326,7 @@ entries:
         - web
   - name: Physics for JavaScript Games, Animation, and Simulations
     url: https://link.springer.com/book/10.1007/978-1-4302-6338-8
+    added_at: '2026-04-19T17:29:43.000Z'
     description: How to incorporate real physics into HTML5 games, animations, and simulations.
     entry_type: reference
     license: Paid
@@ -316,6 +340,7 @@ entries:
         - web
   - name: Three.js Basics
     url: https://www.realtimerendering.com/basics3js/#1
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Introduction to Three.js by Eric Haines.
     entry_type: reference
     readme_tags:
@@ -328,6 +353,7 @@ entries:
         - web
   - name: Mathematics of Animation
     url: https://winkervsbecks.github.io/mathematics-of-animation/#/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
     entry_type: reference
     readme_tags:
@@ -340,6 +366,7 @@ entries:
         - web
   - name: The Gaming Library
     url: https://www.youtube.com/@TheGamingLibraryYT
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Game showcase channel highlighting the scale and detail of modern real-time scenes.
     entry_type: channel
     license: Free
@@ -355,6 +382,7 @@ entries:
         - web
   - name: Retro Slide Puzzle (Winner - Animation/Design)
     url: https://devpost.com/software/retro-slide-puzzle
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Retro Slide Puzzle (Winner - Animation/Design).
     entry_type: inspiration
     license: Free
@@ -369,6 +397,7 @@ entries:
         - web
   - name: Dash Slide Puzzle (Runner Up - Animation/Design)
     url: https://devpost.com/software/dash-slide-puzzle
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Dash Slide Puzzle (Runner Up - Animation/Design).
     entry_type: inspiration
     license: Free
@@ -383,6 +412,7 @@ entries:
         - web
   - name: Island Slide Puzzle (Third Place - Animation/Design)
     url: https://devpost.com/software/beautiful-puzzle
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Island Slide Puzzle (Third Place - Animation/Design).
     entry_type: inspiration
     license: Free
@@ -397,6 +427,7 @@ entries:
         - web
   - name: Sliding Puzzle 3D (Honorable Mention)
     url: https://devpost.com/software/sliding-puzzle-3d
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Sliding Puzzle 3D (Honorable Mention).
     entry_type: inspiration
     license: Free
@@ -411,6 +442,7 @@ entries:
         - web
   - name: Animated AI
     url: https://animatedai.github.io/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Animations and instructional videos about neural networks.
     entry_type: channel
     license: Free
@@ -425,6 +457,7 @@ entries:
         - web
   - name: Art of Animation
     url: http://theartofanimation.tumblr.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Curated animation art blog.
     entry_type: inspiration
     readme_tags:
@@ -441,6 +474,7 @@ entries:
         - web
   - name: 50 Watts
     url: https://50watts.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Illustration history archive.
     entry_type: inspiration
     readme_tags:
@@ -457,6 +491,7 @@ entries:
         - web
   - name: Chrome Experiments
     url: https://www.chromeexperiments.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Showcase of web experiments written by the creative coding community.
     entry_type: community
     license: Free
@@ -474,6 +509,7 @@ entries:
         - web
   - name: blender.daily
     url: https://www.instagram.com/blender.daily/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Daily Blender art and tips on Instagram.
     entry_type: channel
     license: Free
@@ -488,6 +524,7 @@ entries:
         - blender
   - name: Contemporist
     url: http://www.contemporist.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Contemporary architecture.
     entry_type: inspiration
     readme_tags:
@@ -502,6 +539,7 @@ entries:
         - web
   - name: Modlar
     url: https://www.modlar.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Architecture inspiration.
     entry_type: inspiration
     readme_tags:
@@ -516,6 +554,7 @@ entries:
         - web
   - name: Alan Williams (Pinterest)
     url: https://www.pinterest.com/AlanWilliams/
+    added_at: '2026-06-16T18:18:04.000Z'
     description: Curated visual inspiration boards.
     entry_type: inspiration
     readme_tags:

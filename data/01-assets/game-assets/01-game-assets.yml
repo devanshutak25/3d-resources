@@ -1,6 +1,7 @@
 entries:
   - name: Open Game Art
     url: https://opengameart.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Community hub for free game art.
     license: Free
     entry_type: asset-source
@@ -16,6 +17,7 @@ entries:
     url_status: ok
   - name: Kenney
     url: https://kenney.nl/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: CC0 game assets ("Asset Jesus").
     license: Free
     entry_type: asset-source
@@ -33,6 +35,7 @@ entries:
     url_status: ok
   - name: itch.io Assets
     url: https://itch.io/game-assets
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Indie game asset marketplace.
     license: Freemium
     entry_type: marketplace
@@ -48,6 +51,7 @@ entries:
     url_status: ok
   - name: Kay Lousberg
     url: https://kaylousberg.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: CC0 low-poly game assets.
     license: Free
     entry_type: asset-source
@@ -65,6 +69,7 @@ entries:
     url_status: ok
   - name: Pixel Frog
     url: https://pixelfrog-assets.itch.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Pixel art assets.
     license: Freemium
     entry_type: asset-source
@@ -80,6 +85,7 @@ entries:
     url_status: ok
   - name: Craftpix
     url: https://craftpix.net/freebies/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 2D game assets, free and paid.
     license: Freemium
     entry_type: marketplace
@@ -95,6 +101,7 @@ entries:
     url_status: ok
   - name: Synty Studios
     url: https://syntystore.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Stylized low-poly asset packs.
     license: Paid
     entry_type: marketplace
@@ -110,6 +117,7 @@ entries:
     url_status: ok
   - name: GameDev Market
     url: https://www.gamedevmarket.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Game dev asset marketplace.
     license: Freemium
     entry_type: marketplace
@@ -125,6 +133,7 @@ entries:
     url_status: ok
   - name: Humble Bundle Game Dev
     url: https://www.humblebundle.com/software
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Periodic game dev bundles.
     license: Paid
     entry_type: marketplace
@@ -140,6 +149,7 @@ entries:
         - web
   - name: Free Game Assets
     url: https://www.freegameassets.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Curated free 2D/3D/audio assets.
     license: Free
     entry_type: asset-source
@@ -155,6 +165,7 @@ entries:
     url_status: ok
   - name: Liberated Pixel Cup assets
     url: http://lpc.opengameart.org
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Free graphic assets from the Liberated Pixel Cup (LPC) on the OpenGameArt forums.
     license: Free
     entry_type: asset-source
@@ -167,6 +178,7 @@ entries:
         - web
   - name: Tilemancer
     url: https://led.itch.io/tilemancer
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Procedural tile creator for pixel-art games.
     license: Free
     entry_type: tool
@@ -183,6 +195,7 @@ entries:
         - procedural
   - name: GameArt2D
     url: https://www.gameart2d.com/freebies.html
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Free 2D game art pack collection.
     entry_type: asset-source
     license: Free
@@ -198,6 +211,7 @@ entries:
     url_status: ok
   - name: Oryx Design Lab
     url: http://oryxdesignlab.com/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Cheap royalty-free sprite packs.
     license: Paid
     entry_type: marketplace
@@ -213,6 +227,7 @@ entries:
     url_status: ok
   - name: UnluckyStudio
     url: https://unluckystudio.com/category/freegameart/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Free game art for 2D games.
     entry_type: asset-source
     license: Free
@@ -228,6 +243,7 @@ entries:
     url_status: ok
   - name: Reiner's Tilesets
     url: http://www.reinerstilesets.de/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Free 2D and 3D graphics, classic game assets blog.
     entry_type: asset-source
     license: Free
@@ -243,6 +259,7 @@ entries:
     url_status: ok
   - name: 420 Pixel Art Icons for RPGs
     url: http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Set of 420 RPG icons, free for commercial use.
     entry_type: asset-source
     license: Free
@@ -258,6 +275,7 @@ entries:
     url_status: ok
   - name: Asset Creation Toolset
     url: https://gumroad.com/l/hPXIh
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon bundling tools for game asset creation.
     entry_type: tool
     url_last_verified: '2026-09-01'
@@ -273,6 +291,7 @@ entries:
         - blender-addon
   - name: 8000+ Raven Fantasy Icons - RPG Icons, Pixel Art Icons, Textures and Sprites
     url: https://clockworkraven.itch.io/raven-fantasy-icons
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 8000+ colorful pixel art icons for fantasy and RPG games.
     license: Free
     entry_type: asset-source
@@ -288,6 +307,7 @@ entries:
     url_status: ok
   - name: Kenney Game Assets All-in-1
     url: https://kenney.itch.io/kenney-game-assets
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 60,000+ game assets including 2D sprites and 3D models.
     license: Paid
     entry_type: asset-source
@@ -303,6 +323,7 @@ entries:
     url_status: ok
   - name: Sprout Lands - Asset Pack
     url: https://cupnooble.itch.io/sprout-lands-asset-pack
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Cute pixel pastel farming asset pack.
     license: Free
     entry_type: asset-source
@@ -318,6 +339,7 @@ entries:
     url_status: ok
   - name: Tiny RPG Character Asset Pack v1.03
     url: https://zerie.itch.io/tiny-rpg-character-asset-pack
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 20 animated pixel-art characters for your game.
     license: Free
     entry_type: asset-source
@@ -333,6 +355,7 @@ entries:
     url_status: ok
   - name: Tiny Farm RPG - Asset Pack
     url: https://emanuelledev.itch.io/farm-rpg
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Pixel-art farming RPG asset pack.
     license: Free
     entry_type: asset-source
@@ -348,6 +371,7 @@ entries:
     url_status: ok
   - name: 2D Pixel Art Character Template Asset Pack
     url: https://zegley.itch.io/2d-platformermetroidvania-asset-pack
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 2D character art for sidescrollers, platformers, and metroidvania.
     license: Paid
     entry_type: asset-source
@@ -363,6 +387,7 @@ entries:
     url_status: ok
   - name: Universal Animation Library
     url: https://quaternius.itch.io/universal-animation-library
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 120+ animations ready to retarget in any engine.
     license: Free
     entry_type: asset-source
@@ -381,6 +406,7 @@ entries:
     url_status: ok
   - name: Brackeys' Platformer Bundle
     url: https://brackeysgames.itch.io/brackeys-platformer-bundle
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Pixel-art characters, tiles, sounds, and music for a first game.
     license: Free
     entry_type: asset-source
@@ -396,6 +422,7 @@ entries:
     url_status: ok
   - name: 'KayKit - Character Pack : Adventurers'
     url: https://kaylousberg.itch.io/kaykit-adventurers
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 3D low-poly rigged and animated character game assets.
     license: Free
     entry_type: asset-source
@@ -414,6 +441,7 @@ entries:
     url_status: ok
   - name: 'Fx Effects Pixel Art #91 - 64x64 | 32x32'
     url: https://fx-express.itch.io/fx-effects-pixel-art-91-64x64-32x32
+    added_at: '2026-05-01T15:46:53.000Z'
     description: RPG pixel-art FX effects pack. 64x64 and 32x32.
     license: Paid
     entry_type: asset-source
@@ -429,6 +457,7 @@ entries:
     url_status: ok
   - name: Cute Fantasy RPG - 16x16 top down pixel art asset pack
     url: https://kenmi-art.itch.io/cute-fantasy-rpg
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 16x16 assets for your top-down game.
     license: Free
     entry_type: asset-source
@@ -444,6 +473,7 @@ entries:
     url_status: ok
   - name: Ninja Adventure - Asset Pack
     url: https://pixel-boy.itch.io/ninja-adventure-asset-pack
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Assets for a top-down game with a ninja theme.
     license: Free
     entry_type: asset-source
@@ -459,6 +489,7 @@ entries:
     url_status: ok
   - name: Mystic Woods - 16x16 Pixel Art Asset Pack
     url: https://game-endeavor.itch.io/mystic-woods
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Playful 16x16 pixel-art asset pack.
     license: Free
     entry_type: asset-source
@@ -474,6 +505,7 @@ entries:
     url_status: ok
   - name: Pixel Art Top Down - Basic
     url: https://cainos.itch.io/pixel-art-top-down-basic
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 32x32 sprites and tilesets for top-down games.
     license: Free
     entry_type: asset-source
@@ -489,6 +521,7 @@ entries:
     url_status: ok
   - name: 2D Pixel Dungeon Asset Pack
     url: https://pixel-poem.itch.io/dungeon-assetpuck
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 16x16 pixel character and tileset.
     license: Free
     entry_type: asset-source
@@ -504,6 +537,7 @@ entries:
     url_status: ok
   - name: 'Tech Dungeon: Roguelite - Asset Pack'
     url: https://trevor-pupkin.itch.io/tech-dungeon-roguelite
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Animated top-down assets for a futuristic project.
     license: Free
     entry_type: asset-source
@@ -519,6 +553,7 @@ entries:
     url_status: ok
   - name: Stylized Nature MegaKit
     url: https://quaternius.itch.io/stylized-nature-megakit
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 110+ stylized 3D nature models for Ghibli-inspired scenes. Projects for UE, Godot, and Unity.
     license: Free
     entry_type: asset-source
@@ -536,6 +571,7 @@ entries:
     url_status: ok
   - name: Pixel Planet Generator
     url: https://deep-fold.itch.io/pixel-planet-generator
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Procedural pixel planet generator with Godot shader source.
     license: Free
     entry_type: asset-source
@@ -551,6 +587,7 @@ entries:
     url_status: ok
   - name: Free - Pixel Art Asset Pack - Topdown Tileset - 16x16 Sprites
     url: https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 500 sprites, 3 heroes, 8 enemies, 50 weapons.
     license: Free
     entry_type: asset-source
@@ -566,6 +603,7 @@ entries:
     url_status: ok
   - name: KayKit - Forest Nature Pack
     url: https://kaylousberg.itch.io/kaykit-forest
+    added_at: '2026-05-01T15:46:53.000Z'
     description: 3D stylized low-poly trees, rocks, and grass.
     license: Free
     entry_type: asset-source
@@ -583,6 +621,7 @@ entries:
     url_status: ok
   - name: Ansimuz Legacy Collection
     url: https://ansimuz.itch.io/gothicvania-patreon-collection
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Free 16-bit pixel-art assets.
     license: Free
     entry_type: asset-source
@@ -598,6 +637,7 @@ entries:
     url_status: ok
   - name: Modern Farm - RPG Tileset
     url: https://limezu.itch.io/modernfarm
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Props, animals, and a character generator for a farm RPG.
     license: Paid
     entry_type: asset-source
@@ -613,6 +653,7 @@ entries:
     url_status: ok
   - name: Pixel Adventure
     url: https://pixelfrog-assets.itch.io/pixel-adventure-1
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Assets for a platform adventure game.
     license: Free
     entry_type: asset-source
@@ -628,6 +669,7 @@ entries:
     url_status: ok
   - name: Sprout Lands - UI Pack
     url: https://cupnooble.itch.io/sprout-lands-ui-pack
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Cute pixel pastel UI pack.
     license: Free
     entry_type: asset-source
@@ -643,6 +685,7 @@ entries:
     url_status: ok
   - name: Cup Nooble
     url: https://cupnooble.itch.io/
+    added_at: '2026-06-05T08:11:31.000Z'
     description: Creator of the Sprout Lands pixel art packs, cozy farming style.
     license: Free
     entry_type: asset-source

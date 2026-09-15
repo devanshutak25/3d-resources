@@ -1,6 +1,7 @@
 entries:
   - name: NVIDIA Omniverse Blueprints
     url: https://github.com/orgs/NVIDIA-Omniverse-blueprints/repositories
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Omniverse blueprints and reference pipelines.
     license: Free
     entry_type: reference
@@ -20,6 +21,7 @@ entries:
     url_status: ok
   - name: CasparCG
     url: https://github.com/CasparCG
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Layer-based real-time compositor that plays out professional graphics, audio, and video to multiple broadcast outputs.
     entry_type: tool
     license: Open Source

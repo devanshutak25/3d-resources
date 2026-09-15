@@ -1,6 +1,7 @@
 entries:
   - name: MaterialX (site)
     url: https://materialx.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Material interchange format (Lucasfilm). Supported by USD, Blender, Maya, Houdini, Arnold, RenderMan, Substance.
     license: Open Source
     entry_type: reference
@@ -21,6 +22,7 @@ entries:
         - opensource-alt
   - name: OpenPBR
     url: https://github.com/AcademySoftwareFoundation/OpenPBR
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Standardized uber-shader for PBR (Autodesk + Adobe).
     license: Open Source
     entry_type: reference
@@ -44,6 +46,7 @@ entries:
     url_status: ok
   - name: ACES 2.0
     url: https://acescentral.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Academy Color Encoding System. Widely adopted in film/TV, growing in games.
     license: Open Source
     entry_type: reference
@@ -62,6 +65,7 @@ entries:
     url_status: ok
   - name: OpenTimelineIO (GitHub)
     url: https://github.com/AcademySoftwareFoundation/OpenTimelineIO
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Editorial timeline interchange (Pixar).
     license: Open Source
     entry_type: reference
@@ -83,6 +87,7 @@ entries:
         - opensource-alt
   - name: Alembic
     url: http://www.alembic.io/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Geometry/animation interchange format (Sony + ILM).
     license: Open Source
     entry_type: reference
@@ -102,6 +107,7 @@ entries:
         - opensource-alt
   - name: MaterialX (GitHub)
     url: https://github.com/materialx/MaterialX
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Source repo for the MaterialX material and look-dev interchange standard.
     license: Open Source
     entry_type: reference
@@ -123,6 +129,7 @@ entries:
         - opensource-alt
   - name: Open Image IO
     url: https://github.com/OpenImageIO/oiio
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A library for reading and writing images in many common and VFX-related formats.
     license: Open Source
     entry_type: reference
@@ -142,6 +149,7 @@ entries:
         - opensource-alt
   - name: OpenDCX
     url: http://www.opendcx.org/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: C++ extensions for OpenEXR's "deep" file format (DreamWorks).
     license: Open Source
     entry_type: reference
@@ -161,6 +169,7 @@ entries:
         - opensource-alt
   - name: VFX Reference Platform
     url: https://vfxplatform.com/
+    added_at: '2026-06-03T15:01:11.000Z'
     description: Annual spec of library versions (Python, Qt, OpenEXR, USD) that VFX apps build against for cross-tool compatibility.
     license: Free
     entry_type: reference
@@ -176,6 +185,7 @@ entries:
         - web
   - name: MDL
     url: https://github.com/NVIDIA/MDL-SDK
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Material Definition Language SDK (NVIDIA).
     license: Open Source
     entry_type: reference
@@ -198,6 +208,7 @@ entries:
         - opensource-alt
   - name: OpenEXR
     url: http://www.openexr.com/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: High dynamic range image format for visual effects, from ILM.
     license: Open Source
     entry_type: reference
@@ -214,6 +225,7 @@ entries:
         - opensource-alt
   - name: Open Color IO
     url: https://opencolorio.org/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Color management solution for motion picture production. Open source.
     license: Open Source
     entry_type: reference
@@ -230,6 +242,7 @@ entries:
         - opensource-alt
   - name: OpenCue
     url: https://opencue.io
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Render management system from Sony Imageworks. Open source.
     license: Open Source
     entry_type: reference

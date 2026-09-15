@@ -1,6 +1,7 @@
 entries:
   - name: Suno v5
     url: https://suno.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Full song generation, 100M+ users.
     license: Freemium
     entry_type: software
@@ -19,6 +20,7 @@ entries:
       - ai-ml-for-cg/ai-audio-music
   - name: Udio
     url: https://www.udio.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Strong electronic/pop, licensed for commercial use.
     license: Freemium
     entry_type: software
@@ -37,6 +39,7 @@ entries:
       - ai-ml-for-cg/ai-audio-music
   - name: ElevenLabs
     url: https://elevenlabs.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Voice cloning, narration, music generation.
     license: Freemium
     entry_type: software
@@ -55,6 +58,7 @@ entries:
       - ai-ml-for-cg/ai-audio-music
   - name: Stable Audio 2.0
     url: https://www.stableaudio.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Up to 3min music/SFX, audio-to-audio mode. Open-source model.
     license: Freemium
     entry_type: software
@@ -74,6 +78,7 @@ entries:
       - ai-ml-for-cg/ai-audio-music
   - name: ACE Studio
     url: https://www.acestudio.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI singing voice synthesizer with expression control.
     license: Freemium
     entry_type: software
@@ -92,6 +97,7 @@ entries:
       - ai-ml-for-cg/ai-audio-music
   - name: AIVA
     url: https://www.aiva.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI composition, good for orchestral/cinematic scoring.
     license: Freemium
     entry_type: software
@@ -110,6 +116,7 @@ entries:
       - ai-ml-for-cg/ai-audio-music
   - name: Fish Audio
     url: https://fish.audio/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source TTS with voice cloning, fast and multilingual.
     license: Open Source
     entry_type: software
@@ -129,6 +136,7 @@ entries:
       - ai-ml-for-cg/ai-audio-music
   - name: F5 TTS
     url: https://github.com/SWivid/F5-TTS
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source zero-shot voice cloning TTS.
     license: Open Source
     entry_type: software
@@ -148,6 +156,7 @@ entries:
       - ai-ml-for-cg/ai-audio-music
   - name: DiffRhythm
     url: https://github.com/ASLP-lab/DiffRhythm
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source full-song gen with vocals from lyrics.
     license: Open Source
     entry_type: software

@@ -1,6 +1,7 @@
 entries:
   - name: IOR Reference
     url: https://gitlab.com/diegogangl/IOR_reference
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon listing IOR values for materials.
     entry_type: plugin
     license: Open Source
@@ -21,6 +22,7 @@ entries:
         - linux
   - name: Render Useful
     url: https://gitlab.com/ldo/render-useful
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Command-line tools for Blender renders.
     entry_type: plugin
     license: Open Source
@@ -41,6 +43,7 @@ entries:
         - linux
   - name: OctaneRender Prime for Blender
     url: https://home.otoy.com/render/octane-render/demo/#prime
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Octane GPU render engine for Blender, free tier.
     entry_type: plugin
     license: Freemium
@@ -62,6 +65,7 @@ entries:
         - generalist
   - name: Blign
     url: https://jack-cooke.github.io/blign/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Align and distribute objects in Blender with many options.
     entry_type: plugin
     license: Free
@@ -81,6 +85,7 @@ entries:
         - linux
   - name: Arsenal
     url: https://katharostech.github.io/arsenal
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender-integrated game engine written in Rust.
     entry_type: plugin
     license: Open Source
@@ -101,6 +106,7 @@ entries:
         - games
   - name: KeKit
     url: https://ke-code.xyz/scripts/kekit.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Production modeling toolset for Blender.
     entry_type: plugin
     license: Free
@@ -120,6 +126,7 @@ entries:
         - linux
   - name: LeoMoon LightStudio
     url: https://leomoon.com/downloads/plugins/leomoon-lightstudio/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Studio lighting system for Blender.
     entry_type: plugin
     license: Paid
@@ -139,6 +146,7 @@ entries:
         - linux
   - name: Magic UV
     url: https://nutti.github.io/Magic-UV/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: UV manipulation toolset that fills gaps in Blender's UV tools.
     entry_type: plugin
     license: Open Source
@@ -158,6 +166,7 @@ entries:
         - linux
   - name: BookGen
     url: https://oweissbarth.de/software/book-gen-blender-addon/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Generates rows of books on shelves in Blender.
     entry_type: plugin
     license: Free
@@ -177,6 +186,7 @@ entries:
         - linux
   - name: QBlocker
     url: https://qblockerdocs.readthedocs.io/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Interactive blockout and object creation tool for Blender.
     entry_type: plugin
     license: Free
@@ -196,6 +206,7 @@ entries:
         - linux
   - name: Verge3D
     url: https://www.soft8soft.com/get-verge3d/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Toolkit for building interactive 3D web experiences from Blender.
     entry_type: plugin
     license: Paid
@@ -217,6 +228,7 @@ entries:
         - generalist
   - name: The Grove 3D
     url: https://www.thegrove3d.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Grows natural 3D trees for visualisation and film, with seasonal simulation.
     entry_type: plugin
     license: Paid
@@ -237,6 +249,7 @@ entries:
         - generalist
   - name: UV Packer
     url: https://www.uv-packer.com/blender/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free automatic UV-packing addon for Blender.
     entry_type: plugin
     license: Free
@@ -256,6 +269,7 @@ entries:
         - linux
   - name: Blender2Godot
     url: https://www.zammedev.com/home/wip_projects/blender2godot
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Exports a Blender scene to a Godot Engine project.
     entry_type: plugin
     license: Free
@@ -274,6 +288,7 @@ entries:
         - games
   - name: FLIP Fluids
     url: https://github.com/rlguy/Blender-FLIP-Fluids
+    added_at: '2026-04-19T17:29:43.000Z'
     description: High-quality liquid simulation plugin for Blender.
     entry_type: plugin
     license: Paid
@@ -294,6 +309,7 @@ entries:
         - linux
   - name: Jet Fluids
     url: https://github.com/PavelBlend/blender_jet_fluids_addon
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Jet fluid-engine simulator integration for Blender.
     entry_type: plugin
     license: Open Source
@@ -317,6 +333,7 @@ entries:
     last_pushed: '2023-12-09'
   - name: Phobos
     url: https://github.com/dfki-ric/phobos
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Creates URDF, SDF and SMURF robot models in Blender.
     entry_type: plugin
     license: Open Source
@@ -337,6 +354,7 @@ entries:
         - scientific-viz
   - name: Blender Data Visualisation
     url: https://github.com/Griperis/BlenderDataVis
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Loads data into Blender and builds visualisations.
     entry_type: plugin
     license: Open Source
@@ -355,6 +373,7 @@ entries:
         - scientific-viz
   - name: Data FX
     url: https://github.com/LandonFerg/Data-FX
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Loads and visualizes CSV data within Blender.
     entry_type: plugin
     license: Open Source
@@ -373,6 +392,7 @@ entries:
         - scientific-viz
   - name: Mesh Maze
     url: https://github.com/elfnor/mesh_maze
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Generates a maze on any mesh in Blender.
     entry_type: plugin
     license: Open Source
@@ -394,6 +414,7 @@ entries:
         - linux
   - name: Spaceship Generator
     url: https://github.com/a1studmuffin/SpaceshipGenerator
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Procedurally generates 3D spaceships.
     entry_type: plugin
     license: Open Source
@@ -417,6 +438,7 @@ entries:
     last_pushed: '2024-05-25'
   - name: Tree Gen
     url: https://github.com/friggog/tree-gen
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Procedural tree-model generation in Blender.
     entry_type: plugin
     license: Open Source
@@ -438,6 +460,7 @@ entries:
         - linux
   - name: Modeling Cloth
     url: https://github.com/the3dadvantage/Modeling-Cloth-2_8
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Real-time cloth-like behavior on meshes in Blender.
     entry_type: plugin
     license: Open Source
@@ -460,6 +483,7 @@ entries:
     last_pushed: '2019-09-05'
   - name: JewelCraft
     url: https://github.com/mrachinskiy/jewelcraft
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Jewelry design toolkit add-on for Blender.
     entry_type: plugin
     license: Open Source
@@ -480,6 +504,7 @@ entries:
         - jewelry
   - name: Building Tools
     url: https://github.com/ranjian0/building_tools
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Building-generation addon for Blender.
     entry_type: plugin
     license: Open Source
@@ -500,6 +525,7 @@ entries:
         - archviz
   - name: EdgeFlow
     url: https://github.com/BenjaminSauder/EdgeFlow/tree/blender_28
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Adds two edge-loop operators for cleaner topology in Blender.
     entry_type: plugin
     license: Open Source
@@ -520,6 +546,7 @@ entries:
         - linux
   - name: Blender Sculpt Tools
     url: https://github.com/anfeo/Blender-Sculpt-Tools
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Base-mesh sculpting tools for Blender, ZSphere-style.
     entry_type: plugin
     license: Open Source
@@ -542,6 +569,7 @@ entries:
     last_pushed: '2020-03-19'
   - name: GoB
     url: https://github.com/JoseConseco/GoB
+    added_at: '2026-04-19T17:29:43.000Z'
     description: GoZ-style bridge for ZBrush-Blender mesh interchange.
     entry_type: plugin
     license: Open Source
@@ -562,6 +590,7 @@ entries:
         - linux
   - name: Mesh Align Plus
     url: https://github.com/egtwobits/mesh_mesh_align_plus
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Precisely align, move, and measure objects and mesh parts.
     entry_type: plugin
     license: Open Source
@@ -582,6 +611,7 @@ entries:
         - linux
   - name: RandoMesh
     url: https://github.com/mantissa-/RandoMesh
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Adds randomized geometry to any mesh in Blender.
     entry_type: plugin
     license: Open Source
@@ -605,6 +635,7 @@ entries:
     last_pushed: '2023-01-27'
   - name: SliceMesh
     url: https://github.com/mantissa-/SliceMesh
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Automates mesh slicing in Blender.
     entry_type: plugin
     license: Open Source
@@ -627,6 +658,7 @@ entries:
     last_pushed: '2019-06-21'
   - name: SuperPoke
     url: https://github.com/mantissa-/SuperPoke
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Iterative poking tool for Blender meshes.
     entry_type: plugin
     license: Open Source
@@ -649,6 +681,7 @@ entries:
     last_pushed: '2020-01-12'
   - name: Laser Slicer
     url: https://github.com/rgsouthall/laser_slicer
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Slices a Blender object and exports SVG sections for laser cutting.
     entry_type: plugin
     license: Open Source
@@ -671,6 +704,7 @@ entries:
     last_pushed: '2022-03-23'
   - name: AnimAide
     url: https://github.com/aresdevo/animaide
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Free animation helper tools for Blender.
     entry_type: plugin
     license: Open Source
@@ -691,6 +725,7 @@ entries:
         - linux
   - name: AutoMask
     url: https://github.com/lukas-blecher/AutoMask
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Machine-learning automatic rotoscoping addon for Blender.
     entry_type: plugin
     license: Open Source
@@ -714,6 +749,7 @@ entries:
     last_pushed: '2020-12-17'
   - name: COA Tools
     url: https://github.com/ndee85/coa_tools
+    added_at: '2026-04-19T17:29:43.000Z'
     description: 2D cutout animation suite for Blender, similar to Spine or Spriter.
     entry_type: plugin
     license: Open Source

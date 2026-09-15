@@ -1,6 +1,7 @@
 entries:
   - name: Topology Guides
     url: http://topologyguides.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Topology reference.
     license: Free
     entry_type: reference
@@ -17,6 +18,7 @@ entries:
         - web
   - name: SpeedRetopo
     url: https://gumroad.com/l/speedretopo
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free add-on for Blender to make fast and easy retopology using Bsurface.
     license: Free
     entry_type: plugin
@@ -38,6 +40,7 @@ entries:
         - blender-addon
   - name: Retopo MT
     url: https://gumroad.com/l/cNGNb
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
     license: Paid
     entry_type: plugin
@@ -59,6 +62,7 @@ entries:
         - blender-addon
   - name: Instant Meshes Remesh
     url: https://blenderartists.org/t/instant-meshes-remesh/1114982
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon wrapping Instant Meshes for fast auto-retopology.
     license: Open Source
     entry_type: plugin
@@ -81,6 +85,7 @@ entries:
         - opensource-alt
   - name: Danny Mac 3D
     url: https://www.youtube.com/@DannyMac3d
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Character modeling, posing, rigging, retopology, sculpting.
     license: Free
     entry_type: channel

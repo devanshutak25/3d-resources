@@ -1,6 +1,7 @@
 entries:
   - name: Storyboard Pro (Toon Boom)
     url: https://www.toonboom.com/products/storyboardpro
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Industry-standard storyboarding with animatic, camera, and audio timeline.
     license: Paid
     entry_type: software
@@ -22,6 +23,7 @@ entries:
     url_status: ok
   - name: Storyboarder (Wonder Unit)
     url: https://wonderunit.com/storyboarder/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Free, fast sketch-first boarding tool with Shot Generator.
     license: Open Source
     entry_type: software
@@ -42,6 +44,7 @@ entries:
     url_status: ok
   - name: FrameForge Storyboard Studio
     url: https://www.frameforge.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: 3D previs/storyboard hybrid with accurate lens and camera simulation.
     license: Paid
     entry_type: software
@@ -62,6 +65,7 @@ entries:
     url_status: ok
   - name: Boords
     url: https://boords.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Browser storyboard, animatic, and script sync for teams.
     license: Paid
     entry_type: software
@@ -79,6 +83,7 @@ entries:
     url_status: ok
   - name: StudioBinder
     url: https://www.studiobinder.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Cloud production suite. Script breakdown, shotlists, storyboards, call sheets.
     license: Paid
     entry_type: software
@@ -100,6 +105,7 @@ entries:
     url_status: ok
   - name: ShotPro
     url: https://shotprofessional.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: iOS and desktop 3D storyboard and previs.
     license: Paid
     entry_type: software
@@ -120,6 +126,7 @@ entries:
     url_status: ok
   - name: ShotDeck
     url: https://shotdeck.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Searchable film still library for storyboards and references.
     license: Paid
     entry_type: reference
@@ -141,6 +148,7 @@ entries:
       - motion-graphics-video/motion-graphics-inspiration
   - name: Cinetracer
     url: https://www.cinetracer.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Real-time cinematography simulation on Unreal Engine. Lights, lenses, cameras.
     license: Paid
     entry_type: software
@@ -162,6 +170,7 @@ entries:
     url_status: ok
   - name: Cine Designer (C4D)
     url: https://cinedesigner.tv/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Cinema 4D previs and techvis plugin for lights, lenses, set pieces.
     license: Paid
     entry_type: plugin
@@ -181,6 +190,7 @@ entries:
     url_status: unreachable
   - name: The Third Floor
     url: https://thethirdfloorinc.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Previs and postvis studio blog with breakdowns from major features.
     entry_type: channel
     best_for: Previs case studies
@@ -200,6 +210,7 @@ entries:
     url_status: ok
   - name: Halon Entertainment
     url: https://halon.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Previs, VP, and virtual scouting case studies and tooling writeups.
     entry_type: channel
     best_for: Previs/VP writeups
@@ -219,6 +230,7 @@ entries:
     url_status: ok
   - name: Magnopus
     url: https://www.magnopus.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: VP and XR studio. Tooling and case studies.
     entry_type: channel
     best_for: VP/XR case studies
@@ -239,6 +251,7 @@ entries:
     url_status: ok
   - name: Movie Magic Scheduling
     url: https://www.ep.com/movie-magic-scheduling/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Industry-standard scheduling and stripboards.
     license: Paid
     entry_type: software
@@ -257,6 +270,7 @@ entries:
     url_status: ok
   - name: Celtx
     url: https://www.celtx.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Browser script + breakdown + pre-prod.
     license: Paid
     entry_type: software
@@ -274,6 +288,7 @@ entries:
     url_status: ok
   - name: Final Draft
     url: https://www.finaldraft.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Industry-standard screenwriting with breakdown tagging.
     license: Paid
     entry_type: software
@@ -291,6 +306,7 @@ entries:
     url_status: ok
   - name: Fade In
     url: https://www.fadeinpro.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Pro screenwriting at a lower price point.
     license: Paid
     entry_type: software
@@ -309,6 +325,7 @@ entries:
     url_status: unreachable
   - name: Highland
     url: https://highland2.app/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Fountain-native Mac screenwriter.
     license: Paid
     entry_type: software
@@ -325,6 +342,7 @@ entries:
     url_status: ok
   - name: WriterDuet
     url: https://writerduet.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Realtime collaborative screenwriting in the browser.
     license: Freemium
     entry_type: software
@@ -342,6 +360,7 @@ entries:
     url_status: ok
   - name: PureRef
     url: https://www.pureref.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Floating reference canvas. Standard for artists.
     license: Freemium
     entry_type: software
@@ -362,6 +381,7 @@ entries:
       - software-reference/misc-3d-utilities-software
   - name: Eagle
     url: https://eagle.cool/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Local image and video asset manager with tags.
     license: Paid
     entry_type: software
@@ -379,6 +399,7 @@ entries:
     url_status: ok
   - name: Kuadro
     url: https://kruelgames.com/tools/kuadro/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Minimal floating image viewer for references.
     license: Free
     entry_type: software
@@ -395,6 +416,7 @@ entries:
     url_status: unreachable
   - name: Milanote
     url: https://milanote.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Visual notes and moodboards for creative planning.
     license: Freemium
     entry_type: software
@@ -412,6 +434,7 @@ entries:
     url_status: ok
   - name: ArtDeck
     url: https://getartdeck.com/
+    added_at: '2026-08-10T09:08:54.000Z'
     description: Reference boards for images, video, links, and notes. Study tools for value, color, composition, and motion.
     pricing: $5.99 one-time
     license: Paid
@@ -441,6 +464,7 @@ entries:
     url_status: ok
   - name: Are.na
     url: https://www.are.na/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Collaborative visual research blocks and channels.
     license: Freemium
     entry_type: community
@@ -459,6 +483,7 @@ entries:
       - art-design-visual-storytelling/design-tools
   - name: FilmGrab
     url: https://film-grab.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Curated film stills archive. Free.
     entry_type: inspiration
     best_for: Free film-still reference
@@ -476,6 +501,7 @@ entries:
       - motion-graphics-video/motion-graphics-inspiration
   - name: Shot.Cafe
     url: https://shot.cafe/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Searchable film and TV frames.
     entry_type: inspiration
     best_for: Frame search
@@ -491,6 +517,7 @@ entries:
     url_status: ok
   - name: Lessons from the Screenplay
     url: https://www.youtube.com/@LessonsfromtheScreenplay
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Story and screenplay analysis on YouTube.
     entry_type: channel
     best_for: Story analysis
@@ -508,6 +535,7 @@ entries:
     url_status: ok
   - name: VES (Visual Effects Society)
     url: https://www.vesglobal.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: VES handbook, talks, and methodology resources for on-set VFX.
     entry_type: reference
     best_for: On-set VFX methodology
@@ -525,6 +553,7 @@ entries:
     url_status: ok
   - name: ASC Magazine
     url: https://theasc.com/american-cinematographer
+    added_at: '2026-05-22T16:39:01.000Z'
     description: American Society of Cinematographers magazine. Cinematography and on-set VFX features.
     entry_type: reference
     best_for: DP + VFX-sup features
@@ -542,6 +571,7 @@ entries:
     url_status: ok
   - name: Cosmos
     url: https://www.cosmos.so/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Visual discovery and moodboard curation tool.
     license: Freemium
     entry_type: tool
@@ -558,6 +588,7 @@ entries:
     url_status: ok
   - name: are.na
     url: https://www.are.na/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Reference collecting and moodboard platform.
     license: Freemium
     entry_type: tool
@@ -574,6 +605,7 @@ entries:
     url_status: ok
   - name: EYECANDY
     url: https://eycndy.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Library of visual techniques in film and motion.
     license: Freemium
     entry_type: inspiration
@@ -590,6 +622,7 @@ entries:
     url_status: unreachable
   - name: Frame Set
     url: https://frameset.app/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Searchable stills from films, commercials, and music videos.
     license: Freemium
     entry_type: inspiration
@@ -606,6 +639,7 @@ entries:
     url_status: ok
   - name: Refsee
     url: https://refsee.com/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Video reference search across films and commercials.
     license: Freemium
     entry_type: inspiration
@@ -622,6 +656,7 @@ entries:
     url_status: ok
   - name: Same.Energy
     url: https://same.energy/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Visual similarity image search engine.
     license: Free
     entry_type: tool
@@ -638,6 +673,7 @@ entries:
     url_status: ok
   - name: Shotdeck
     url: https://shotdeck.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Searchable library of HD movie stills.
     license: Paid
     entry_type: inspiration
@@ -654,6 +690,7 @@ entries:
     url_status: ok
   - name: Spectacle.is
     url: https://spectacle.is/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Search commercial and branded video.
     license: Freemium
     entry_type: inspiration
@@ -670,6 +707,7 @@ entries:
     url_status: ok
   - name: Yarn.co
     url: https://yarn.co/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Search movie and TV dialogue, export clips or GIFs.
     license: Freemium
     entry_type: tool

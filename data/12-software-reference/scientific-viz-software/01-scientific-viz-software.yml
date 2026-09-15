@@ -1,6 +1,7 @@
 entries:
   - name: PyMOL
     url: https://pymol.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Python-scriptable molecular viewer. Industry standard for protein figures and animations.
     pricing: Open Source fork free / Schrödinger commercial license
     license: Mixed
@@ -23,6 +24,7 @@ entries:
     url_status: ok
   - name: UCSF ChimeraX
     url: https://www.cgl.ucsf.edu/chimerax/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: UCSF next-gen molecular visualization with VR support. Replaces Chimera.
     license: Free
     entry_type: software
@@ -45,6 +47,7 @@ entries:
     url_status: ok
   - name: UCSF Chimera
     url: https://www.cgl.ucsf.edu/chimera/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Legacy UCSF molecular viewer. Still used for some plugins; succeeded by ChimeraX.
     license: Free
     entry_type: software
@@ -66,6 +69,7 @@ entries:
     url_status: ok
   - name: VMD
     url: https://www.ks.uiuc.edu/Research/vmd/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: UIUC molecular dynamics trajectory visualizer.
     license: Free
     entry_type: software
@@ -86,6 +90,7 @@ entries:
     url_status: ok
   - name: Jmol / JSmol
     url: https://jmol.sourceforge.net/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Java/JS molecular viewer suitable for web embedding.
     license: Open Source
     entry_type: software
@@ -107,6 +112,7 @@ entries:
     url_status: ok
   - name: Mol*
     url: https://molstar.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: RCSB PDB's WebGL molecular viewer, successor to NGL.
     license: Open Source
     entry_type: software
@@ -125,6 +131,7 @@ entries:
     url_status: ok
   - name: NGL Viewer
     url: https://nglviewer.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: WebGL molecular viewer, Jupyter-friendly.
     license: Open Source
     entry_type: software
@@ -143,6 +150,7 @@ entries:
     url_status: ok
   - name: Avogadro
     url: https://avogadro.cc/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Cross-platform chemistry builder and editor.
     license: Open Source
     entry_type: software
@@ -163,6 +171,7 @@ entries:
     url_status: ok
   - name: Molecular Nodes
     url: https://bradyajohnston.github.io/MolecularNodes/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Brady Johnston's Blender add-on for molecular visualization. Geometry-nodes driven; current go-to for Blender molecular work.
     license: Open Source
     entry_type: plugin
@@ -182,6 +191,7 @@ entries:
     url_status: ok
   - name: Molecular Maya (mMaya)
     url: https://clarafi.com/tools/mmaya/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Digizyme's Maya plugin for molecular modeling and animation.
     license: Paid
     entry_type: plugin
@@ -199,6 +209,7 @@ entries:
     url_status: ok
   - name: ePMV
     url: http://epmv.scripps.edu/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Embedded Python Molecular Viewer. Brings PyMOL/Chimera into Maya, Blender, and C4D.
     license: Free
     entry_type: plugin
@@ -217,6 +228,7 @@ entries:
     url_status: ok
   - name: BioBlender
     url: http://www.bioblender.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Blender add-on for biological molecule visualization.
     license: Open Source
     entry_type: plugin
@@ -235,6 +247,7 @@ entries:
     url_status: ok
   - name: YASARA
     url: https://www.yasara.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Molecular modeling and simulation suite. Free view-only, paid full versions.
     license: Freemium
     entry_type: software
@@ -257,6 +270,7 @@ entries:
     deprecated: true
   - name: Discovery Studio Visualizer
     url: https://discover.3ds.com/discovery-studio-visualizer-download
+    added_at: '2026-05-22T16:39:01.000Z'
     description: BIOVIA pharma-oriented molecular viewer. Free download.
     license: Free
     entry_type: software
@@ -276,6 +290,7 @@ entries:
     url_status: ok
   - name: MolView
     url: https://molview.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Web-based molecule sketcher and 3D viewer.
     license: Open Source
     entry_type: software
@@ -294,6 +309,7 @@ entries:
     url_status: ok
   - name: 3D Slicer
     url: https://www.slicer.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Medical image computing platform. Segmentation, 3D reconstruction, surgical planning.
     license: Open Source
     entry_type: software
@@ -316,6 +332,7 @@ entries:
     url_status: ok
   - name: ITK-SNAP
     url: http://www.itksnap.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Semi-automatic medical image segmentation.
     license: Open Source
     entry_type: software
@@ -337,6 +354,7 @@ entries:
     url_status: ok
   - name: ParaView
     url: https://www.paraview.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Kitware large-scale scientific visualization, VTK frontend.
     license: Open Source
     entry_type: software
@@ -357,6 +375,7 @@ entries:
     url_status: ok
   - name: VTK
     url: https://vtk.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Visualization Toolkit. C++/Python library powering ParaView and Slicer.
     license: Open Source
     entry_type: reference
@@ -373,6 +392,7 @@ entries:
     url_status: ok
   - name: Horos
     url: https://horosproject.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Open DICOM viewer for macOS. OsiriX fork.
     license: Open Source
     entry_type: software
@@ -389,6 +409,7 @@ entries:
     url_status: ok
   - name: ImageJ / Fiji
     url: https://fiji.sc/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Microscopy image analysis with 3D viewer plugins.
     license: Open Source
     entry_type: software
@@ -410,6 +431,7 @@ entries:
     url_status: ok
   - name: Drishti
     url: https://github.com/nci/drishti
+    added_at: '2026-05-22T16:39:01.000Z'
     description: ANU volume exploration and presentation tool.
     license: Open Source
     entry_type: software
@@ -427,6 +449,7 @@ entries:
     url_status: ok
   - name: VolView
     url: https://volview.kitware.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Browser-based DICOM volume renderer (Kitware).
     license: Open Source
     entry_type: software
@@ -443,6 +466,7 @@ entries:
     url_status: ok
   - name: Inviwo
     url: https://inviwo.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Interactive Visualization Workshop. Node-graph scientific viz.
     license: Open Source
     entry_type: software
@@ -463,6 +487,7 @@ entries:
     url_status: ok
   - name: Celestia
     url: https://celestia.space/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Real-time 3D space simulator.
     license: Open Source
     entry_type: software
@@ -481,6 +506,7 @@ entries:
     url_status: ok
   - name: Stellarium
     url: https://stellarium.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Planetarium for desktop and web.
     license: Open Source
     entry_type: software
@@ -500,6 +526,7 @@ entries:
     url_status: ok
   - name: SpaceEngine
     url: https://spaceengine.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Procedural universe. Used by VFX teams for plates and reference.
     pricing: ~$25 perpetual
     license: Paid
@@ -518,6 +545,7 @@ entries:
     url_status: ok
   - name: Universe Sandbox
     url: https://universesandbox.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Physics-based space sandbox.
     pricing: ~$30 perpetual
     license: Paid
@@ -537,6 +565,7 @@ entries:
     url_status: ok
   - name: Gaia Sky
     url: https://gaiasky.space/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: ESA Gaia mission 3D star explorer.
     license: Open Source
     entry_type: software
@@ -556,6 +585,7 @@ entries:
     url_status: ok
   - name: NASA Eyes
     url: https://eyes.nasa.gov/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Browser 3D solar system and mission explorer.
     license: Free
     entry_type: software
@@ -572,6 +602,7 @@ entries:
     url_status: ok
   - name: WorldWide Telescope
     url: https://worldwidetelescope.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Astronomy visualization with sky and 3D modes.
     license: Open Source
     entry_type: software
@@ -589,6 +620,7 @@ entries:
     url_status: ok
   - name: yt project
     url: https://yt-project.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Python volumetric astrophysics analysis library.
     license: Open Source
     entry_type: reference
@@ -603,6 +635,7 @@ entries:
     url_status: unreachable
   - name: Tecplot 360
     url: https://tecplot.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: CFD post-processing standard.
     license: Paid
     entry_type: software
@@ -621,6 +654,7 @@ entries:
     url_status: ok
   - name: Ansys EnSight
     url: https://www.ansys.com/products/fluids/ansys-ensight
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Large-dataset CFD/CAE visualization.
     license: Paid
     entry_type: software
@@ -638,6 +672,7 @@ entries:
     url_status: ok
   - name: FieldView
     url: https://www.ilight.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Intelligent Light CFD visualization.
     license: Paid
     entry_type: software
@@ -655,6 +690,7 @@ entries:
     url_status: ok
   - name: QGIS
     url: https://qgis.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Open desktop GIS with 3D map view.
     license: Open Source
     entry_type: software
@@ -674,6 +710,7 @@ entries:
     url_status: ok
   - name: CesiumJS
     url: https://cesium.com/platform/cesiumjs/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: WebGL globe and 3D tiles library.
     license: Open Source
     entry_type: reference
@@ -691,6 +728,7 @@ entries:
     url_status: ok
   - name: Google Earth Studio
     url: https://earth.google.com/studio/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Browser animation tool over Google Earth imagery.
     license: Free
     entry_type: software
@@ -710,6 +748,7 @@ entries:
     url_status: ok
   - name: kepler.gl
     url: https://kepler.gl/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Uber's WebGL geospatial data visualization.
     license: Open Source
     entry_type: software
@@ -726,6 +765,7 @@ entries:
     url_status: ok
   - name: BlenderGIS
     url: https://github.com/domlysz/BlenderGIS
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Blender add-on for georeferenced data, OSM imports, SRTM.
     license: Open Source
     entry_type: plugin
@@ -743,6 +783,7 @@ entries:
     url_status: ok
   - name: TouchTerrain
     url: https://touchterrain.geol.iastate.edu/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: 3D-printable terrain model generator.
     license: Open Source
     entry_type: tool
@@ -759,6 +800,7 @@ entries:
     url_status: ok
   - name: Plotly (3D)
     url: https://plotly.com/python/3d-charts/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: 3D charts in Python and JS.
     license: Open Source
     entry_type: reference
@@ -775,6 +817,7 @@ entries:
     url_status: ok
   - name: deck.gl
     url: https://deck.gl/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Uber WebGL framework for large geospatial and dataviz layers.
     license: Open Source
     entry_type: reference
@@ -791,6 +834,7 @@ entries:
     url_status: ok
   - name: Globe.gl
     url: https://globe.gl/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Three.js-based globe visualization wrapper.
     license: Open Source
     entry_type: reference
@@ -807,6 +851,7 @@ entries:
     url_status: ok
   - name: Drew Berry (WEHI TV)
     url: https://www.wehi.edu.au/wehi-tv
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Drew Berry's reference biomedical animation work at the Walter and Eliza Hall Institute.
     entry_type: channel
     best_for: Reference molecular animation
@@ -821,6 +866,7 @@ entries:
     url_status: ok
   - name: Janet Iwasa Animation Lab
     url: https://animationlab.utah.edu/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Univ. of Utah molecular animation lab and outreach.
     entry_type: channel
     best_for: Molecular animation outreach
@@ -834,6 +880,7 @@ entries:
     url_status: ok
   - name: Clarafi (Gaël McGill / Digizyme)
     url: https://clarafi.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: 3D molecular animation courses, Maya focus.
     license: Paid
     entry_type: tutorial
@@ -850,6 +897,7 @@ entries:
     url_status: ok
   - name: Brady Johnston
     url: https://bradyajohnston.github.io/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Blender-for-science tutorials. Author of Molecular Nodes.
     entry_type: channel
     best_for: Blender scientific tutorials

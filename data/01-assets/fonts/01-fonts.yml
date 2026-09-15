@@ -1,6 +1,7 @@
 entries:
   - name: Font Library
     url: https://fontlibrary.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source and free fonts.
     license: Free
     entry_type: asset-source
@@ -16,6 +17,7 @@ entries:
         - web
   - name: FontPair
     url: https://fontpair.co/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Font pairing inspiration.
     license: Free
     entry_type: reference
@@ -31,6 +33,7 @@ entries:
         - web
   - name: Lilex
     url: https://lilex.myrt.co/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Programming font with ligatures.
     license: Open Source
     entry_type: asset-source
@@ -48,6 +51,7 @@ entries:
         - web
   - name: Usable Google Fonts (Figma)
     url: https://www.figma.com/community/file/1535264485426732629/usable-google-fonts
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Curated Figma set of usable Google Fonts.
     license: Free
     entry_type: asset-source
@@ -63,6 +67,7 @@ entries:
         - web
   - name: Fontz
     url: https://fontz.design
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free and premium 3D fonts with Blender source files.
     license: Freemium
     entry_type: asset-source
@@ -77,6 +82,7 @@ entries:
         - blender
   - name: Fontshare
     url: https://www.fontshare.com/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Free quality fonts from Indian Type Foundry; Satoshi, General Sans, Clash Display.
     license: Free
     entry_type: asset-source
@@ -92,6 +98,7 @@ entries:
         - web
   - name: Velvetyne Type Foundry
     url: https://velvetyne.fr/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Paris-based non-profit foundry releasing open-source experimental typefaces.
     license: Open Source
     entry_type: asset-source
@@ -109,6 +116,7 @@ entries:
         - web
   - name: The League of Moveable Type
     url: https://www.theleagueofmoveabletype.com/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Open-source foundry; well-curated bold typefaces, free for commercial use.
     license: Open Source
     entry_type: asset-source
@@ -126,6 +134,7 @@ entries:
         - web
   - name: UNCUT.wtf
     url: https://uncut.wtf/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: 160+ contemporary open-source typefaces, all free for commercial use.
     license: Open Source
     entry_type: asset-source
@@ -143,6 +152,7 @@ entries:
         - web
   - name: Indestructible Type
     url: https://indestructibletype.com/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Open-source foundry by Owen Earl; variable font families like Jost, Besley, Bodoni.
     license: Open Source
     entry_type: asset-source
@@ -160,6 +170,7 @@ entries:
         - web
   - name: Free Faces
     url: https://www.freefaces.gallery/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Curated directory of free fonts from independent foundries and designers.
     license: Free
     entry_type: reference
@@ -175,6 +186,7 @@ entries:
         - web
   - name: Google Fonts
     url: https://fonts.google.com/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Largest free open-source font library; SIL OFL / Apache licensed.
     license: Open Source
     entry_type: asset-source
@@ -192,6 +204,7 @@ entries:
         - web
   - name: Adobe Fonts
     url: https://fonts.adobe.com/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Premium font library bundled with Creative Cloud subscription.
     license: Paid
     entry_type: asset-source
@@ -209,6 +222,7 @@ entries:
         - web
   - name: MyFonts
     url: https://www.myfonts.com/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Long-running premium font marketplace; perpetual desktop, web, app licenses.
     license: Paid
     entry_type: marketplace
@@ -226,6 +240,7 @@ entries:
         - web
   - name: Creative Market Fonts
     url: https://creativemarket.com/fonts
+    added_at: '2026-05-17T08:15:35.000Z'
     description: 300k+ premium fonts with worry-free perpetual commercial licenses.
     license: Paid
     entry_type: marketplace
@@ -243,6 +258,7 @@ entries:
         - web
   - name: Font Bundles
     url: https://fontbundles.net/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Premium font marketplace with regular freebies; clear commercial license.
     license: Freemium
     entry_type: marketplace
@@ -258,6 +274,7 @@ entries:
         - web
   - name: Future Fonts
     url: https://www.futurefonts.xyz/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Buy in-progress fonts directly from indie designers at lower early-access prices.
     license: Paid
     entry_type: marketplace
@@ -273,6 +290,7 @@ entries:
         - web
   - name: Pangram Pangram Foundry
     url: https://pangrampangram.com/
+    added_at: '2026-05-17T08:15:35.000Z'
     description: Indie foundry with high-end typefaces; free personal-use trials available.
     license: Freemium
     entry_type: asset-source
@@ -288,6 +306,7 @@ entries:
         - web
   - name: Roboto
     url: https://github.com/google/roboto
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Default font on Android and ChromeOS, and the recommended typeface for Material Design.
     license: Open Source
     entry_type: asset-source
@@ -303,6 +322,7 @@ entries:
         - web
   - name: Free Fonts (Awwwards)
     url: https://www.awwwards.com/awwwards/collections/free-fonts/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Curated collection of free fonts.
     license: Free
     entry_type: asset-source
@@ -318,6 +338,7 @@ entries:
     url_status: unreachable
   - name: WhatTheFont
     url: https://www.myfonts.com/pages/whatthefont
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Identify fonts from an image.
     license: Freemium
     entry_type: tool
@@ -332,6 +353,7 @@ entries:
     url_status: ok
   - name: Wordmark.it
     url: https://wordmark.it/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Preview text in your installed fonts.
     license: Free
     entry_type: tool

@@ -1,6 +1,7 @@
 entries:
   - name: Mirror (site)
     url: https://mirror-networking.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source Unity networking.
     license: Open Source
     entry_type: tool
@@ -23,6 +24,7 @@ entries:
     url_status: ok
   - name: Fish Net
     url: https://fish-networking.gitbook.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: High-performance Unity networking.
     license: Open Source
     entry_type: tool
@@ -45,6 +47,7 @@ entries:
     url_status: ok
   - name: Colyseus
     url: https://colyseus.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Node.js multiplayer framework.
     license: Open Source
     entry_type: tool
@@ -67,6 +70,7 @@ entries:
     url_status: ok
   - name: 'GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course'
     url: https://www.gamedev.tv/p/unrealmultiplayer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Course on building Unreal Engine multiplayer games in C++.
     license: Paid
     entry_type: tutorial
@@ -85,6 +89,7 @@ entries:
         - unreal-plugin
   - name: Forge Networking Remastered
     url: https://github.com/BeardedManStudios/ForgeNetworkingRemastered
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free open-source multiplayer networking system with good Unity integration.
     license: Open Source
     entry_type: tool
@@ -107,6 +112,7 @@ entries:
     last_pushed: '2022-08-15'
   - name: Unity Multiplayer Packages
     url: https://github.com/Unity-Technologies/multiplayer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity multiplayer packages and samples.
     license: Open Source
     entry_type: reference
@@ -124,6 +130,7 @@ entries:
     last_pushed: '2022-12-20'
   - name: Basic Multiplayer Unity
     url: https://github.com/manlaig/basic_multiplayer_unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Fast-Paced UDP Client-Server implementation.
     license: Open Source
     entry_type: reference
@@ -143,6 +150,7 @@ entries:
     last_pushed: '2020-02-20'
   - name: Gambetta_Networked Demo
     url: https://github.com/RamiAhmed/Gambetta_NetworkedDemo
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta''s Multiplayer Network Demo in Unity C# as Networked using Lidgren Network.'
     license: Open Source
     entry_type: reference
@@ -162,6 +170,7 @@ entries:
     last_pushed: '2018-01-12'
   - name: Bomber
     url: https://github.com/JanSeliv/Bomber
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open-source Bomberman multiplayer game made in Unreal Engine 5.
     license: Open Source
     entry_type: inspiration
@@ -177,6 +186,7 @@ entries:
         - unreal-plugin
   - name: Colyseus Unreal
     url: https://github.com/charisma-ai/colyseus-unreal
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Colyseus Multiplayer SDK for Unreal Engine
     license: Open Source
     entry_type: tool
@@ -196,6 +206,7 @@ entries:
         - unreal-plugin
   - name: Mirror (GitHub)
     url: https://github.com/vis2k/Mirror
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A community replacement for Unity's abandoned UNET Networking System.
     entry_type: tool
     license: Open Source

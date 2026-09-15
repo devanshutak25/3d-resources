@@ -1,6 +1,7 @@
 entries:
   - name: Sketchfab
     url: https://sketchfab.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Massive downloadable library.
     license: Freemium
     entry_type: asset-source
@@ -18,6 +19,7 @@ entries:
     url_status: ok
   - name: Poly Haven
     url: https://polyhaven.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: CC0 models, textures up to 8K+, HDRIs up to 16K.
     license: Free
     entry_type: asset-source
@@ -38,6 +40,7 @@ entries:
     url_status: ok
   - name: TurboSquid
     url: https://www.turbosquid.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Professional models with free section.
     license: Freemium
     entry_type: marketplace
@@ -55,6 +58,7 @@ entries:
     url_status: ok
   - name: CGTrader
     url: https://www.cgtrader.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Community model marketplace.
     license: Freemium
     entry_type: marketplace
@@ -72,6 +76,7 @@ entries:
         - modeling
   - name: CGHEVEN
     url: https://cgheven.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free CC0 3D and VFX assets.
     license: Free
     entry_type: asset-source
@@ -91,6 +96,7 @@ entries:
     url_status: ok
   - name: XYZed3D (Gumroad)
     url: https://xyzed3d.gumroad.com/
+    added_at: '2026-04-19T17:04:14.000Z'
     description: 'CC0 (non-AI) asset packs: models, props, misc. By artyusufpatel.'
     license: Free
     entry_type: asset-source
@@ -110,6 +116,7 @@ entries:
     url_status: ok
   - name: Poly Pizza
     url: https://poly.pizza/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Low-poly models (Google Poly archive).
     license: Free
     entry_type: asset-source
@@ -127,6 +134,7 @@ entries:
     url_status: ok
   - name: The Base Mesh
     url: https://www.thebasemesh.com/model-library
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Base meshes for sculpting and rigging.
     entry_type: asset-source
     tags:
@@ -144,6 +152,7 @@ entries:
     url_status: ok
   - name: Open3DModel
     url: https://open3dmodel.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free model archive.
     license: Free
     entry_type: asset-source
@@ -161,6 +170,7 @@ entries:
         - modeling
   - name: Three D Scans
     url: https://threedscans.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free 3D scan archive.
     license: Free
     entry_type: asset-source
@@ -180,6 +190,7 @@ entries:
     url_status: ok
   - name: Free3D.io
     url: https://free3d.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free 3D model downloads.
     license: Free
     entry_type: asset-source
@@ -196,6 +207,7 @@ entries:
         - modeling
   - name: 3Dzip
     url: https://3dzip.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free 3D models and interior scenes.
     license: Free
     entry_type: asset-source
@@ -212,6 +224,7 @@ entries:
         - modeling
   - name: RigModels
     url: https://rigmodels.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Rigged models.
     license: Freemium
     entry_type: asset-source
@@ -231,6 +244,7 @@ entries:
     url_status: ok
   - name: 3DExport
     url: https://3dexport.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D model marketplace.
     license: Freemium
     entry_type: marketplace
@@ -247,6 +261,7 @@ entries:
         - modeling
   - name: 3Dshaker
     url: https://www.3dshaker.com/free3dmodels
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free models.
     license: Free
     entry_type: asset-source
@@ -263,6 +278,7 @@ entries:
         - modeling
   - name: Funes
     url: https://funes.world/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 3D cultural heritage.
     entry_type: asset-source
     tags:
@@ -279,6 +295,7 @@ entries:
     url_status: ok
   - name: Free3D
     url: https://free3d.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Large free collection.
     license: Free
     entry_type: asset-source
@@ -296,6 +313,7 @@ entries:
         - modeling
   - name: MyMiniFactory Scan the World
     url: https://www.myminifactory.com/scantheworld/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Scan the World collection of scanned heritage objects.
     entry_type: asset-source
     tags:
@@ -314,6 +332,7 @@ entries:
     url_status: ok
   - name: Stanford 3D Scanning Repository
     url: https://graphics.stanford.edu/data/3Dscanrep/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Classic academic 3D scans (bunny, dragon, etc.).
     license: Free
     entry_type: asset-source
@@ -333,6 +352,7 @@ entries:
     url_status: ok
   - name: Casual Effects Data
     url: https://casual-effects.com/data/index.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Graphics research datasets and test scenes.
     license: Free
     entry_type: asset-source
@@ -350,6 +370,7 @@ entries:
         - modeling
   - name: Keenan Crane's Model Repository
     url: https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Clean test meshes for shader and subdivision work.
     license: Free
     entry_type: asset-source
@@ -367,6 +388,7 @@ entries:
         - modeling
   - name: CadNav
     url: https://www.cadnav.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Architecture, furniture, vehicle models.
     entry_type: asset-source
     tags:
@@ -384,6 +406,7 @@ entries:
     url_status: ok
   - name: Polycam Explore
     url: https://polycam.ai/explore
+    added_at: '2026-04-16T19:59:30.000Z'
     description: User-uploaded photogrammetry scans.
     entry_type: asset-source
     tags:
@@ -402,6 +425,7 @@ entries:
     url_status: ok
   - name: Blender 3D models
     url: https://www.blender-models.com/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 3D models, particle systems, and effects.
     entry_type: asset-source
     url_last_verified: '2026-09-01'
@@ -417,6 +441,7 @@ entries:
         - modeling
   - name: rileyb3d Library
     url: https://rileyb3d.com/library
+    added_at: '2026-04-19T19:42:59.000Z'
     description: Free packed .blend files ready to use.
     license: Free
     entry_type: asset-source
@@ -436,6 +461,7 @@ entries:
     url_status: ok
   - name: Oyonale
     url: http://www.oyonale.com/modeles.php?lang=en
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Sells 3D models for various industries.
     license: Paid
     entry_type: marketplace
@@ -450,6 +476,7 @@ entries:
         - modeling
   - name: PBRPX
     url: https://www.pbrpx.com
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Free PBR materials and some 3D models.
     entry_type: asset-source
     url_last_verified: '2026-09-01'
@@ -466,6 +493,7 @@ entries:
         - texturing
   - name: Free3DBase
     url: https://free3dbase.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free 3D models.
     entry_type: asset-source
     url_last_verified: '2026-09-01'
@@ -479,6 +507,7 @@ entries:
         - modeling
   - name: Quaternius's Ultimate Low-Poly Models
     url: http://quaternius.com/index.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Ultimate low-poly model packs (CC0).
     license: Free
     entry_type: asset-source
@@ -495,6 +524,7 @@ entries:
         - modeling
   - name: Chocofur Free
     url: https://store.chocofur.com/search/free
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free section of Chocofur premium 3D model store.
     license: Free
     entry_type: asset-source
@@ -509,6 +539,7 @@ entries:
         - modeling
   - name: Blend Swap
     url: https://www.blendswap.com/blends
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source .blend file library.
     license: Free
     entry_type: asset-source
@@ -525,6 +556,7 @@ entries:
         - modeling
   - name: Mantissa/resources
     url: https://mantissa.xyz/free.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free Blender files and resources.
     entry_type: asset-source
     license: Free
@@ -541,6 +573,7 @@ entries:
         - modeling
   - name: OpenTopography/datasets
     url: https://portal.opentopography.org/datasets
+    added_at: '2026-04-19T17:15:03.000Z'
     description: High-resolution Earth-science topography datasets and related tools. Registration required.
     entry_type: asset-source
     license: Free

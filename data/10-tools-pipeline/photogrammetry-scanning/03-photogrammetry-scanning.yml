@@ -1,6 +1,7 @@
 entries:
   - name: openMVG
     url: https://openmvg.readthedocs.io/en/latest/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A library for computer-vision scientists targeted for the Multiple View Geometry community.
     entry_type: community
     license: Open Source
@@ -18,6 +19,7 @@ entries:
         - photogrammetry
   - name: Paul Debevec
     url: https://www.pauldebevec.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Site of the IBL and HDR-from-bracketed papers, Light Probe Image Gallery, Light Stage research history.
     entry_type: reference
     best_for: Foundational HDRI and light-stage research
@@ -31,6 +33,7 @@ entries:
         - generalist
   - name: Light Probe Image Gallery
     url: https://www.pauldebevec.com/Probes/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Original mirror-ball HDR probes (Grace Cathedral, Uffizi, etc.). Still used in IBL teaching.
     entry_type: asset-source
     license: Free
@@ -47,6 +50,7 @@ entries:
     url_status: ok
   - name: USC ICT Graphics Lab
     url: https://vgl.ict.usc.edu/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Home of Light Stage research and digital-human capture papers.
     entry_type: reference
     best_for: Light Stage research
@@ -60,6 +64,7 @@ entries:
         - generalist
   - name: HDR Shop
     url: https://www.hdrshop.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Debevec's HDR assembly and panoramic transform tool. Historical software, still downloadable.
     license: Free
     entry_type: software
@@ -78,6 +83,7 @@ entries:
     url_status: ok
   - name: PTGui Pro
     url: https://ptgui.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Industry-standard panorama stitcher. Full HDR/bracketed support, mask painting, viewpoint correction.
     pricing: ~€169 PTGui, ~€339 Pro
     license: Paid
@@ -99,6 +105,7 @@ entries:
     url_status: ok
   - name: Hugin
     url: https://hugin.sourceforge.io/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Free OSS panorama stitcher built on Panorama Tools.
     license: Open Source
     entry_type: software
@@ -121,6 +128,7 @@ entries:
     url_status: ok
   - name: HDR Light Studio
     url: https://www.lightmap.co.uk/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Interactive HDRI editing and relighting tool for 3D. Bridges to Maya, 3ds Max, Houdini, Cinema 4D, Modo, Blender.
     license: Paid
     entry_type: software
@@ -145,6 +153,7 @@ entries:
       - software-reference/misc-3d-utilities-software
   - name: 'Book: High Dynamic Range Imaging (Reinhard et al.)'
     url: https://shop.elsevier.com/books/high-dynamic-range-imaging/reinhard/978-0-12-374914-7
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Reinhard, Heidrich, Debevec, Pattanaik, Ward, Myszkowski. The reference text on HDR imaging.
     license: Paid
     entry_type: book
@@ -159,6 +168,7 @@ entries:
         - generalist
   - name: 'Book: The HDRI Handbook 2.0'
     url: https://rockynook.com/product/the-hdri-handbook-2-0/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Christian Bloch. Practical HDRI for VFX and photography.
     license: Paid
     entry_type: book
@@ -173,6 +183,7 @@ entries:
         - generalist
   - name: Leica Cyclone
     url: https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Point cloud registration and processing for Leica scanners.
     license: Paid
     entry_type: software
@@ -190,6 +201,7 @@ entries:
     url_status: ok
   - name: FARO SCENE
     url: https://www.faro.com/en/Products/Software/SCENE-Software
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Capture and process FARO Focus scan data.
     license: Paid
     entry_type: software
@@ -207,6 +219,7 @@ entries:
     url_status: unreachable
   - name: Trimble RealWorks
     url: https://geospatial.trimble.com/products/software/trimble-realworks
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Survey-grade point cloud registration and modeling.
     license: Paid
     entry_type: software
@@ -224,6 +237,7 @@ entries:
     url_status: ok
   - name: Autodesk ReCap Pro
     url: https://www.autodesk.com/products/recap
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Reality capture toolkit for point clouds and photogrammetry.
     license: Paid
     entry_type: software
@@ -244,6 +258,7 @@ entries:
     deprecated: true
   - name: Geomagic Wrap
     url: https://www.oqton.com/geomagic-wrap/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Convert point clouds to polygon meshes (Oqton, formerly 3D Systems).
     license: Paid
     entry_type: software
@@ -262,6 +277,7 @@ entries:
     url_status: ok
   - name: Artec Studio
     url: https://www.artec3d.com/3d-software/artec-studio
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Capture and alignment software for Artec handheld scanners.
     license: Paid
     entry_type: software
@@ -280,6 +296,7 @@ entries:
     url_status: ok
   - name: Pix4D
     url: https://www.pix4d.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Survey and mapping photogrammetry suite.
     license: Paid
     entry_type: software
@@ -301,6 +318,7 @@ entries:
     url_status: ok
   - name: OpenDroneMap / WebODM
     url: https://www.opendronemap.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Open source drone photogrammetry stack.
     license: Open Source
     entry_type: software
@@ -322,6 +340,7 @@ entries:
     url_status: ok
   - name: CyArk
     url: https://www.cyark.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Heritage site laser scanning archive. Free models for cultural sites worldwide.
     license: Free
     entry_type: asset-source
@@ -337,6 +356,7 @@ entries:
     url_status: ok
   - name: Open Heritage 3D
     url: https://openheritage3d.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Open scan datasets for heritage sites.
     license: Free
     entry_type: asset-source
@@ -351,6 +371,7 @@ entries:
         - scientific-viz
   - name: Stanford Digital Michelangelo
     url: http://graphics.stanford.edu/projects/mich/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Foundational large-statue laser scanning project (Marc Levoy).
     license: Free
     entry_type: reference
@@ -365,6 +386,7 @@ entries:
         - scientific-viz
   - name: Volucap
     url: https://volucap.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Babelsberg volumetric video studio.
     license: Paid
     entry_type: service
@@ -382,6 +404,7 @@ entries:
     url_status: ok
   - name: 4DViews
     url: https://www.4dviews.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Volumetric capture stages and HOLOSYS rigs.
     license: Paid
     entry_type: service
@@ -399,6 +422,7 @@ entries:
     url_status: ok
   - name: Metastage
     url: https://metastage.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: LA volumetric capture studio using Microsoft tech.
     license: Paid
     entry_type: service
@@ -416,6 +440,7 @@ entries:
     url_status: unreachable
   - name: Depthkit
     url: https://www.depthkit.tv/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Depth-sensor volumetric capture toolkit.
     license: Paid
     entry_type: software
@@ -435,6 +460,7 @@ entries:
     url_status: ok
   - name: Ten24
     url: https://ten24.info/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Full-body photogrammetry rig services for games and film.
     license: Paid
     entry_type: service
@@ -452,6 +478,7 @@ entries:
     url_status: ok
   - name: Eisko
     url: https://www.eisko.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Digital human scanning and asset service.
     license: Paid
     entry_type: service
@@ -467,6 +494,7 @@ entries:
     url_status: ok
   - name: Infinite-Realities (Triple-I)
     url: https://ir-ltd.net/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Photogrammetry and light-stage rentals for film and games.
     license: Paid
     entry_type: service
@@ -482,6 +510,7 @@ entries:
     url_status: ok
   - name: MipMap
     url: https://na.mipmap3d.com/
+    added_at: '2026-08-18T20:31:58.000Z'
     description: Drone mapping photogrammetry for mining, construction, and surveying. Outputs textured mesh, point cloud, and Gaussian splats.
     pricing: From $29.90/mo, perpetual option
     license: Paid

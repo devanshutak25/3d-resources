@@ -1,6 +1,7 @@
 entries:
   - name: Unity Neural Network
     url: https://github.com/Blueteak/Unity-Neural-Network
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simple neural network implemented in C# for Unity.
     entry_type: plugin
     license: Open Source
@@ -20,6 +21,7 @@ entries:
     last_pushed: '2023-09-01'
   - name: GameAI Movement
     url: https://github.com/Kyntaz/gameai-movement
+    added_at: '2026-04-19T17:15:03.000Z'
     description: NPC movement algorithms built in Unity for an AI-for-games university course.
     entry_type: plugin
     license: Open Source
@@ -39,6 +41,7 @@ entries:
     last_pushed: '2019-01-29'
   - name: Knowledge Representation
     url: https://github.com/chris-gong/knowledge-representation
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Small Unity project showing AI responding to changes in the game world.
     entry_type: plugin
     license: Open Source
@@ -58,6 +61,7 @@ entries:
     last_pushed: '2018-12-21'
   - name: Unity AI
     url: https://github.com/lcremer/Unity_AI
+    added_at: '2026-04-19T17:15:03.000Z'
     description: AI behavior tree framework for Unity.
     entry_type: tool
     license: Open Source
@@ -77,6 +81,7 @@ entries:
     last_pushed: '2019-01-11'
   - name: AI Companion
     url: https://github.com/Ell223/AI-Companion
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity 5 AI learning project with behavior trees and A* pathfinding.
     entry_type: plugin
     license: Open Source
@@ -94,6 +99,7 @@ entries:
         - opensource-alt
   - name: OSMTrafficSim
     url: https://github.com/maajor/OSMTrafficSim
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Traffic simulation built on Unity ECS.
     entry_type: plugin
     license: Open Source
@@ -111,6 +117,7 @@ entries:
         - opensource-alt
   - name: Path
     url: https://github.com/AngryAnt/Path
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Pathfinding library for Unity.
     entry_type: tool
     license: Open Source
@@ -131,6 +138,7 @@ entries:
     last_pushed: '2012-05-17'
   - name: PPOL
     url: https://github.com/A7ocin/PPOL
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Crowd simulator using Unity ML-Agents and PPO reinforcement learning.
     entry_type: plugin
     license: Open Source
@@ -150,6 +158,7 @@ entries:
     last_pushed: '2018-03-17'
   - name: Unity Beat Detection
     url: https://github.com/allanpichardo/Unity-Beat-Detection
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Musical beat detection and audio spectrum analysis for Unity.
     entry_type: plugin
     license: Open Source
@@ -169,6 +178,7 @@ entries:
     last_pushed: '2017-02-21'
   - name: LibPdIntegration
     url: https://github.com/LibPdIntegration/LibPdIntegration
+    added_at: '2026-04-19T17:15:03.000Z'
     description: libpd (Pure Data) audio wrapper for Unity.
     entry_type: plugin
     license: Open Source
@@ -188,6 +198,7 @@ entries:
     last_pushed: '2024-04-14'
   - name: NAudio Unity
     url: https://github.com/WulfMarius/NAudio-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Port of NAudio to the Mono subset used by Unity.
     entry_type: plugin
     license: Open Source
@@ -207,6 +218,7 @@ entries:
     last_pushed: '2018-12-21'
   - name: Unity3D Sound Manager
     url: https://github.com/baratgabor/Unity3D-SoundManager
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Sound manager for Unity with AudioSource pooling, 3D positioning, and completion callbacks.
     entry_type: plugin
     license: Open Source
@@ -226,6 +238,7 @@ entries:
     last_pushed: '2019-05-11'
   - name: UniIosAudioService
     url: https://github.com/sanukin39/UniIosAudioService
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity iOS plugin for playing iOS system sounds.
     entry_type: plugin
     license: Open Source
@@ -243,6 +256,7 @@ entries:
     last_pushed: '2019-02-17'
   - name: AudioRecorder
     url: https://github.com/alternator/AudioRecorder
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Audio recorder component for Unity.
     entry_type: plugin
     license: Open Source
@@ -262,6 +276,7 @@ entries:
     last_pushed: '2019-02-19'
   - name: Unity Ableton Link
     url: https://github.com/comoc/UnityAbletonLink
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Ableton Link tempo-sync plugin for Unity.
     entry_type: plugin
     license: Open Source
@@ -281,6 +296,7 @@ entries:
     last_pushed: '2023-03-18'
   - name: iTween Expansion
     url: https://github.com/jtothebell/iTween
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Expansion of Bob Berkebile's iTween tweening plugin for Unity.
     entry_type: plugin
     license: Open Source
@@ -300,6 +316,7 @@ entries:
     last_pushed: '2013-01-03'
   - name: ECS Tween
     url: https://github.com/Xerios/ECS-Tween
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity tweening system built on ECS that also works with GameObjects.
     entry_type: plugin
     license: Open Source
@@ -319,6 +336,7 @@ entries:
     last_pushed: '2019-07-10'
   - name: iOS Unity Vuforia Guide
     url: https://github.com/keyv/iOSUnityVuforiaGuide
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Guide to integrating Unity + Vuforia into a native iOS app.
     entry_type: plugin
     license: Open Source
@@ -338,6 +356,7 @@ entries:
     last_pushed: '2016-06-29'
   - name: Unity Pixel Camera
     url: https://github.com/ChemiKhazi/UnityPixelCamera
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Resolution-independent pixel-perfect camera for Unity.
     entry_type: plugin
     license: Open Source
@@ -357,6 +376,7 @@ entries:
     last_pushed: '2017-03-03'
   - name: DeadSimple Pixel-Perfect Camera
     url: https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Pixel-perfect orthographic camera script for 2D Unity scenes.
     entry_type: plugin
     license: Open Source
@@ -376,6 +396,7 @@ entries:
     last_pushed: '2021-01-23'
   - name: Physical Camera
     url: https://github.com/Unity-Technologies/Physical-Camera
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official Unity component describing physical camera attributes.
     entry_type: plugin
     license: Open Source
@@ -395,6 +416,7 @@ entries:
     last_pushed: '2017-05-24'
   - name: Unity Camera Follow 2D
     url: https://github.com/minhhh/unity-camera-follow-2d
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 2D camera-follow script for Unity.
     entry_type: plugin
     license: Open Source
@@ -414,6 +436,7 @@ entries:
     last_pushed: '2016-02-02'
   - name: Unity CameraSizeToVelocity2D
     url: https://github.com/tonisuo/Unity-CameraSizeToVelocity2D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Script that scales camera size with target velocity.
     entry_type: plugin
     license: Open Source
@@ -433,6 +456,7 @@ entries:
     last_pushed: '2017-08-10'
   - name: CameraLib4U
     url: https://github.com/mortennobel/CameraLib4U
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Third-person chase-camera system for Unity.
     entry_type: plugin
     license: Open Source
@@ -452,6 +476,7 @@ entries:
     last_pushed: '2011-11-08'
   - name: Unity First Person View
     url: https://github.com/TiagoF11/-Unity-First-Person-View
+    added_at: '2026-04-19T17:15:03.000Z'
     description: First-person view asset where viewmodel objects do not clip the environment, use a separate FOV, and receive shadows.
     entry_type: plugin
     license: Open Source
@@ -471,6 +496,7 @@ entries:
     last_pushed: '2016-07-15'
   - name: Unity3D PerlinCameraShake
     url: https://github.com/baratgabor/Unity3D-PerlinCameraShake
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Perlin-noise camera shake MonoBehaviour for Unity, coroutine-driven and self-exiting.
     entry_type: plugin
     license: Open Source
@@ -490,6 +516,7 @@ entries:
     last_pushed: '2019-05-11'
   - name: Unity Jobs View Frustum Culling
     url: https://github.com/MPozek/Unity-Jobs-View-Frustum-Culling
+    added_at: '2026-04-19T17:15:03.000Z'
     description: View frustum culling jobs for Unity's job system.
     entry_type: plugin
     license: Open Source
@@ -509,6 +536,7 @@ entries:
     last_pushed: '2019-03-02'
   - name: Unity Camera Shake
     url: https://github.com/IronWarrior/UnityCameraShake
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Pseudo-random camera shake using Perlin noise.
     entry_type: plugin
     license: Open Source
@@ -528,6 +556,7 @@ entries:
     last_pushed: '2019-02-28'
   - name: Unity Scene Camera Controller
     url: https://github.com/XJINE/Unity_SceneCameraController
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Drive a runtime camera like the SceneView camera.
     entry_type: plugin
     license: Open Source
@@ -547,6 +576,7 @@ entries:
     last_pushed: '2018-09-13'
   - name: UnityPhysics2D
     url: https://github.com/MelvynMay/UnityPhysics2D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Examples of Unity 2D physics components and features.
     entry_type: plugin
     license: Open Source
@@ -565,6 +595,7 @@ entries:
         - physics
   - name: Jitter Physics
     url: https://github.com/mattleibow/jitterphysics
+    added_at: '2026-04-19T17:15:03.000Z'
     description: C# real-time physics engine ported into Unity.
     entry_type: plugin
     license: Open Source
@@ -585,6 +616,7 @@ entries:
     last_pushed: '2021-08-08'
   - name: Unity Math Reference
     url: https://github.com/zezba9000/UnityMathReference
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Game math reference, visualized in Unity.
     entry_type: plugin
     license: Open Source
@@ -602,6 +634,7 @@ entries:
         - opensource-alt
   - name: Custom 2D Colliders
     url: https://github.com/GuyQuad/Custom-2D-Colliders
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Custom 2D colliders for Unity.
     entry_type: plugin
     license: Open Source
@@ -622,6 +655,7 @@ entries:
     last_pushed: '2024-02-04'
   - name: Quickfracture
     url: https://github.com/OskarSigvardsson/quickfracture
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Mesh fracture and destruction effect for Unity.
     entry_type: plugin
     license: Open Source
@@ -641,6 +675,7 @@ entries:
     last_pushed: '2019-03-29'
   - name: PBD Fluid in Unity
     url: https://github.com/Scrawk/PBD-Fluid-in-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Position-based-dynamics fluid simulation running on the GPU in Unity.
     entry_type: plugin
     license: Open Source
@@ -662,6 +697,7 @@ entries:
     last_pushed: '2022-08-30'
   - name: CharacterController2D
     url: https://github.com/prime31/CharacterController2D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 2D controller that behaves like Unity's CharacterController component.
     entry_type: plugin
     license: Open Source
@@ -681,6 +717,7 @@ entries:
     last_pushed: '2019-09-21'
   - name: Unity 2D Platformer Controller
     url: https://github.com/cjddmut/Unity-2D-Platformer-Controller
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Customizable 2D platformer motor with double jumps, wall jumps, and corner grabs, plus a drop-in player prefab.
     entry_type: plugin
     license: Open Source
@@ -700,6 +737,7 @@ entries:
     last_pushed: '2020-01-10'
   - name: NaughtyCharacter
     url: https://github.com/dbrizov/NaughtyCharacter
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Third-person character controller for Unity.
     entry_type: plugin
     license: Open Source
@@ -717,6 +755,7 @@ entries:
         - opensource-alt
   - name: UNet Controller
     url: https://github.com/GreenByteSoftware/UNet-Controller
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Character controller built for Unity's UNet networking system.
     entry_type: plugin
     license: Open Source
@@ -736,6 +775,7 @@ entries:
     last_pushed: '2018-10-26'
   - name: Super Character Controller
     url: https://github.com/gucheng0712/SuperCharacterController
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Custom character controller for Unity.
     entry_type: plugin
     license: Open Source
@@ -755,6 +795,7 @@ entries:
     last_pushed: '2018-02-12'
   - name: AdMob Unity Plugin
     url: https://github.com/OrigameStudio/admob-unity-plugin
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity extension for placing AdMob banners in Android games.
     entry_type: plugin
     license: Open Source
@@ -772,6 +813,7 @@ entries:
     last_pushed: '2014-02-28'
   - name: Google Mobile Ads Unity Plugin
     url: https://github.com/googleads/googleads-mobile-unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official Unity plugin for the Google Mobile Ads SDK.
     entry_type: tool
     license: Open Source
@@ -788,6 +830,7 @@ entries:
         - opensource-alt
   - name: DeltaDNA Unity SDK
     url: https://github.com/deltaDNA/unity-sdk
+    added_at: '2026-04-19T17:15:03.000Z'
     description: deltaDNA analytics and smartads mediation SDK for Unity games.
     entry_type: tool
     license: Open Source
@@ -807,6 +850,7 @@ entries:
     last_pushed: '2022-05-30'
   - name: SpatialOS GDK for Unity
     url: https://github.com/spatialos/gdk-for-unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: SpatialOS game development kit for Unity. Discontinued.
     entry_type: tool
     license: Open Source
@@ -827,6 +871,7 @@ entries:
     last_pushed: '2022-01-17'
   - name: Pitaya
     url: https://github.com/topfreegames/pitaya
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Go game server framework with clustering and client libraries, including Unity via the C SDK.
     entry_type: tool
     license: Open Source
@@ -844,6 +889,7 @@ entries:
         - opensource-alt
   - name: MLAPI
     url: https://github.com/MidLevel/MLAPI
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Game networking framework for Unity (now Netcode for GameObjects).
     entry_type: tool
     license: Open Source
@@ -861,6 +907,7 @@ entries:
         - opensource-alt
   - name: Barebones Master Server
     url: https://github.com/alvyxaz/barebones-masterserver
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Master server framework for Unity.
     entry_type: tool
     license: Open Source
@@ -880,6 +927,7 @@ entries:
     last_pushed: '2021-02-22'
   - name: Nakama Unity
     url: https://github.com/heroiclabs/nakama-unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity client for the Nakama game server.
     entry_type: plugin
     license: Open Source
@@ -897,6 +945,7 @@ entries:
         - opensource-alt
   - name: MassiveNet
     url: https://github.com/jakevn/MassiveNet
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity UDP networking library for high-CCU, multi-server architectures.
     entry_type: tool
     license: Open Source
@@ -916,6 +965,7 @@ entries:
     last_pushed: '2015-01-16'
   - name: Unity Socket IO
     url: https://github.com/NetEase/UnitySocketIO
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Socket.io client for Unity.
     entry_type: plugin
     license: Open Source

@@ -1,6 +1,7 @@
 entries:
   - name: Git LFS
     url: https://git-lfs.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Large file storage for Git.
     license: Open Source
     entry_type: tool

@@ -1,6 +1,7 @@
 entries:
   - name: Unity Bezier Solution
     url: https://github.com/yasirkula/UnityBezierSolution
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Bezier spline solution for Unity with utilities like constant-speed traversal.
     entry_type: plugin
     license: Open Source
@@ -21,6 +22,7 @@ entries:
         - opensource-alt
   - name: Unity Engine Analyzer
     url: https://github.com/vad710/UnityEngineAnalyzer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Roslyn analyzer for Unity that flags common performance pitfalls.
     entry_type: tool
     license: Open Source
@@ -43,6 +45,7 @@ entries:
     last_pushed: '2019-10-22'
   - name: UnityTimer
     url: https://github.com/akbiggs/UnityTimer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Library for running actions after a delay in Unity.
     entry_type: plugin
     license: Open Source
@@ -65,6 +68,7 @@ entries:
     last_pushed: '2021-06-02'
   - name: UniGif
     url: https://github.com/WestHillApps/UniGif
+    added_at: '2026-04-19T17:15:03.000Z'
     description: GIF image decoder for Unity.
     entry_type: plugin
     license: Open Source
@@ -85,6 +89,7 @@ entries:
         - opensource-alt
   - name: Unity Mesh Simplifier (Whinarn)
     url: https://github.com/Whinarn/UnityMeshSimplifier
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Mesh simplification for Unity.
     entry_type: plugin
     license: Open Source
@@ -105,6 +110,7 @@ entries:
         - opensource-alt
   - name: Unity Mesh Simplifier (Unity-Technologies)
     url: https://github.com/Unity-Technologies/UnityMeshSimplifier
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Mesh simplification for Unity. Official Unity-Technologies fork.
     entry_type: plugin
     license: Open Source
@@ -127,6 +133,7 @@ entries:
     last_pushed: '2021-08-13'
   - name: EzySlice
     url: https://github.com/DavidArayan/EzySlice
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Mesh slicer framework for Unity, written in C#.
     entry_type: plugin
     license: Open Source
@@ -149,6 +156,7 @@ entries:
     last_pushed: '2023-08-10'
   - name: MeshDecimator
     url: https://github.com/Whinarn/MeshDecimator
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Mesh decimation library for .NET and Unity.
     entry_type: tool
     license: Open Source
@@ -172,6 +180,7 @@ entries:
     last_pushed: '2020-08-28'
   - name: CosineGradient
     url: https://github.com/keijiro/CosineGradient
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Cosine gradient generator for Unity.
     entry_type: plugin
     license: Open Source
@@ -194,6 +203,7 @@ entries:
     last_pushed: '2022-03-31'
   - name: PerfAssist
     url: https://github.com/GameBuildingBlocks/PerfAssist
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Performance and profiling components for Unity development.
     entry_type: plugin
     license: Open Source
@@ -216,6 +226,7 @@ entries:
     last_pushed: '2019-06-14'
   - name: Unity Wave Function Collapse
     url: https://github.com/selfsame/unity-wave-function-collapse
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Wave Function Collapse procedural generation for Unity.
     entry_type: plugin
     license: Open Source
@@ -239,6 +250,7 @@ entries:
     last_pushed: '2020-11-05'
   - name: Green Mamba Stealth
     url: https://github.com/DameonL/GreenMambaStealth
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Stealth system for Unity that detects how well-lit a character is, so they can hide in dynamic shadows.
     entry_type: plugin
     license: Open Source
@@ -261,6 +273,7 @@ entries:
     last_pushed: '2023-06-06'
   - name: Pedometer API
     url: https://github.com/olokobayusuf/Pedometer-API
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Native pedometer API for Unity on mobile.
     entry_type: plugin
     license: Open Source
@@ -283,6 +296,7 @@ entries:
     last_pushed: '2021-01-14'
   - name: Signals (yankooliveira)
     url: https://github.com/yankooliveira/signals
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Type-safe lightweight messaging library for Unity.
     entry_type: plugin
     license: Open Source
@@ -305,6 +319,7 @@ entries:
     last_pushed: '2021-06-05'
   - name: Coop Design
     url: https://github.com/simeonradivoev/Coop-Design
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Prototype for runtime cooperative level design in Unity.
     entry_type: plugin
     license: Open Source
@@ -327,6 +342,7 @@ entries:
     last_pushed: '2018-10-19'
   - name: Hydrogen CSharp
     url: https://github.com/nxrighthere/Hydrogen-CSharp
+    added_at: '2026-04-19T17:15:03.000Z'
     description: C# framework for Unity providing collections, utilities, and helpers.
     entry_type: plugin
     license: Open Source
@@ -350,6 +366,7 @@ entries:
     last_pushed: '2022-03-13'
   - name: Unity3D Script Library
     url: https://github.com/QianMo/Unity3D-Script-Library
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of reusable Unity C# scripts.
     entry_type: reference
     license: Open Source
@@ -372,6 +389,7 @@ entries:
     last_pushed: '2016-03-21'
   - name: OpenStash
     url: https://github.com/mrzapp/openstash
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source inventory framework for Unity.
     entry_type: plugin
     license: Open Source
@@ -394,6 +412,7 @@ entries:
     last_pushed: '2020-11-30'
   - name: OpenConvo
     url: https://github.com/mrzapp/openconvo
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source dialogue framework for Unity.
     entry_type: plugin
     license: Open Source
@@ -416,6 +435,7 @@ entries:
     last_pushed: '2020-11-30'
   - name: UnityRandom
     url: https://github.com/tucano/UnityRandom
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Random number library in C# for Unity.
     entry_type: plugin
     license: Open Source
@@ -439,6 +459,7 @@ entries:
     last_pushed: '2012-04-24'
   - name: Unity Atoms
     url: https://github.com/AdamRamberg/unity-atoms
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Modular ScriptableObject-based architecture pieces for Unity.
     entry_type: plugin
     license: Open Source
@@ -459,6 +480,7 @@ entries:
         - opensource-alt
   - name: ScriptFinder
     url: https://github.com/JoebRogers/ScriptFinder
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity editor extension to find script references across a project.
     entry_type: plugin
     license: Open Source
@@ -481,6 +503,7 @@ entries:
     last_pushed: '2018-10-31'
   - name: Uni Version Manager
     url: https://github.com/sanukin39/UniVersionManager
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Reads app and build version in Unity across editor, iOS, and Android.
     entry_type: plugin
     license: Open Source
@@ -502,6 +525,7 @@ entries:
     last_pushed: '2018-10-31'
   - name: UniClipboard
     url: https://github.com/sanukin39/UniClipboard
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simple clipboard plugin for Unity.
     entry_type: plugin
     license: Open Source
@@ -523,6 +547,7 @@ entries:
     last_pushed: '2020-11-04'
   - name: SceneHistory Unity
     url: https://github.com/takupisu/SceneHistory-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open scenes quickly from a custom scene history, with additive support.
     entry_type: plugin
     license: Open Source
@@ -545,6 +570,7 @@ entries:
     last_pushed: '2020-06-10'
   - name: NDocumentation
     url: https://github.com/vertxxyz/NDocumentation
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Documentation window for the Unity editor that displays rich-text pages.
     entry_type: plugin
     license: Open Source
@@ -568,6 +594,7 @@ entries:
     last_pushed: '2019-03-03'
   - name: ColorPalette
     url: https://github.com/DomDomHaas/ColorPalette
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight color palette asset for Unity.
     entry_type: plugin
     license: Open Source
@@ -590,6 +617,7 @@ entries:
     last_pushed: '2014-10-07'
   - name: Settings Unity
     url: https://github.com/LightBuzz/Settings-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Settings management utility for Unity.
     entry_type: plugin
     license: Open Source
@@ -612,6 +640,7 @@ entries:
     last_pushed: '2019-04-02'
   - name: PNGCS
     url: https://github.com/andrew-raphael-lukasik/pngcs
+    added_at: '2026-04-19T17:15:03.000Z'
     description: PNG encoding and decoding for Unity.
     entry_type: plugin
     license: Open Source
@@ -634,6 +663,7 @@ entries:
     last_pushed: '2020-04-24'
   - name: UnityIO
     url: https://github.com/ByronMayne/UnityIO
+    added_at: '2026-04-19T17:15:03.000Z'
     description: File manipulation API for Unity that wraps AssetDatabase.
     entry_type: plugin
     license: Open Source
@@ -656,6 +686,7 @@ entries:
     last_pushed: '2017-06-13'
   - name: VariableAssets
     url: https://github.com/ZeroSleepGames/VariableAssets
+    added_at: '2026-04-19T17:15:03.000Z'
     description: ScriptableObject variable assets for Unity.
     entry_type: plugin
     license: Open Source
@@ -678,6 +709,7 @@ entries:
     last_pushed: '2018-08-03'
   - name: Auto Save Scene
     url: https://github.com/liortal53/AutoSaveScene
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity editor helper that auto-saves the scene to minimize lost work.
     entry_type: plugin
     license: Open Source
@@ -698,6 +730,7 @@ entries:
         - opensource-alt
   - name: EnumDispatcher
     url: https://github.com/5argon/EnumDispatcher
+    added_at: '2026-04-19T17:15:03.000Z'
     description: ECS-backed C# enums as Flux/Redux actions in Unity.
     entry_type: plugin
     license: Open Source
@@ -720,6 +753,7 @@ entries:
     last_pushed: '2019-11-29'
   - name: UnityHelpers
     url: https://github.com/jeffvella/UnityHelpers
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of helper scripts for Unity.
     entry_type: plugin
     license: Open Source
@@ -742,6 +776,7 @@ entries:
     last_pushed: '2018-12-15'
   - name: UndoPro
     url: https://github.com/Seneral/UndoPro
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Command-based undo system integrated with Unity's native undo/redo.
     entry_type: plugin
     license: Open Source
@@ -765,6 +800,7 @@ entries:
     last_pushed: '2023-08-21'
   - name: Unity Auth Manager
     url: https://github.com/zklinger2000/unity-auth-manager
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Example JWT-based authentication for a Unity app.
     entry_type: reference
     license: Open Source
@@ -787,6 +823,7 @@ entries:
     last_pushed: '2019-03-30'
   - name: Deform
     url: https://github.com/keenanwoodall/Deform
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Deformer system for Unity meshes.
     entry_type: plugin
     license: Open Source
@@ -807,6 +844,7 @@ entries:
         - opensource-alt
   - name: Gamekit3D
     url: https://github.com/Unity-Technologies/Gamekit3D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official Unity 3D game kit sample project from Unity Technologies.
     entry_type: reference
     license: Open Source
@@ -827,6 +865,7 @@ entries:
         - opensource-alt
   - name: EasingCore
     url: https://github.com/setchi/EasingCore
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simple easing-function implementation for Unity.
     entry_type: plugin
     license: Open Source
@@ -849,6 +888,7 @@ entries:
     last_pushed: '2020-01-11'
   - name: Unity SemVer
     url: https://github.com/jeffcampbellmakesgames/unity-semver
+    added_at: '2026-04-19T17:15:03.000Z'
     description: SemVer 2.0.0 implementation for Unity.
     entry_type: plugin
     license: Open Source
@@ -869,6 +909,7 @@ entries:
         - opensource-alt
   - name: Master Unity Handles
     url: https://github.com/alelievr/MasterUnityHandles
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Examples of custom handles in the Unity editor.
     entry_type: reference
     license: Open Source
@@ -891,6 +932,7 @@ entries:
     last_pushed: '2021-01-20'
   - name: Unity Mesh Triangulator
     url: https://github.com/joshcamas/unity-mesh-triangulator
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Mesh triangulator for Unity, forked from alexmuab's version.
     entry_type: plugin
     license: Open Source
@@ -913,6 +955,7 @@ entries:
     last_pushed: '2019-04-14'
   - name: Unity Rulers
     url: https://github.com/geekrelief/unityrulers
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Ruler editor to measure distances between objects in the Scene view.
     entry_type: plugin
     license: Open Source
@@ -935,6 +978,7 @@ entries:
     last_pushed: '2020-09-07'
   - name: Unity SimpleUsefulGizmos
     url: https://github.com/flamacore/Unity-SimpleUsefulGizmos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Extra scene-view gizmos for Unity like colored colliders and rotation indicators.
     entry_type: plugin
     license: Open Source
@@ -957,6 +1001,7 @@ entries:
     last_pushed: '2018-07-29'
   - name: Better Defines
     url: https://github.com/TarasOsiris/Better-Defines
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Manage preprocessor directives in Unity.
     entry_type: plugin
     license: Open Source
@@ -979,6 +1024,7 @@ entries:
     last_pushed: '2016-08-26'
   - name: DTCommandPalette
     url: https://github.com/DarrenTsung/DTCommandPalette
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Command palette for Unity to run methods and open scenes.
     entry_type: plugin
     license: Open Source
@@ -1001,6 +1047,7 @@ entries:
     last_pushed: '2017-10-22'
   - name: Unity3D Quick Search
     url: https://github.com/appetizermonster/Unity3D-QuickSearch
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Command palette for Unity.
     entry_type: plugin
     license: Open Source
@@ -1024,6 +1071,7 @@ entries:
     last_pushed: '2017-07-31'
   - name: Unity Everyplay Save To Local
     url: https://github.com/yasirkula/UnityEveryplaySaveToLocal
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Helper script to save captured Everyplay videos to local storage on Android and iOS.
     entry_type: plugin
     license: Open Source
@@ -1045,6 +1093,7 @@ entries:
     deprecated: true
   - name: FrameDump
     url: https://github.com/keijiro/FrameDump
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Exports image sequences from Unity.
     entry_type: tool
     license: Open Source

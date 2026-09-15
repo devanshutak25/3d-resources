@@ -1,6 +1,7 @@
 entries:
   - name: PFTrack
     url: https://www.thepixelfarm.co.uk/pftrack/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Professional matchmoving, object tracking, mesh generation.
     license: Paid
     entry_type: software
@@ -19,6 +20,7 @@ entries:
       - tools-pipeline-utilities/matchmoving-tracking
   - name: SynthEyes
     url: https://www.ssontech.com/synovr.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Camera tracking with lens distortion solving.
     license: Paid
     entry_type: software
@@ -37,6 +39,7 @@ entries:
       - tools-pipeline-utilities/matchmoving-tracking
   - name: 3DEqualizer
     url: https://www.3dequalizer.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: High-end matchmoving (major VFX studios).
     license: Paid
     entry_type: software
@@ -55,6 +58,7 @@ entries:
       - tools-pipeline-utilities/matchmoving-tracking
   - name: fSpy
     url: https://fspy.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free, open-source single-image camera matching → Blender.
     license: Open Source
     entry_type: software

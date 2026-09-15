@@ -1,6 +1,7 @@
 entries:
   - name: BlenderAddons.org
     url: https://blender-addons.org/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Provides a list of free and paid Blender addons. Find the addon you need under categories or tags.
     license: Free
     entry_type: marketplace

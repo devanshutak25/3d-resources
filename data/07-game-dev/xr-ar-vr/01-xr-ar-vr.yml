@@ -1,6 +1,7 @@
 entries:
   - name: Building an AR game with ARKit and Spritekit
     url: https://blog.pusher.com/building-ar-game-arkit-spritekit/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: building an AR game with ARKit and SpriteKit.'
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -17,6 +18,7 @@ entries:
         - xr
   - name: RealityKit
     url: https://developer.apple.com/augmented-reality/reality-composer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: High-level AR framework by Apple. Comparable to Unity and Unreal Engine but specific for AR solutions.
     entry_type: tool
     license: Free
@@ -33,6 +35,7 @@ entries:
         - xr
   - name: Capturing Body Motion in 3D | Apple Developer Documentation
     url: https://developer.apple.com/documentation/arkit/content_anchors/capturing_body_motion_in_3d
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Apple ARKit documentation: capturing body motion in 3D.'
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -49,6 +52,7 @@ entries:
         - xr
   - name: Rigging a Model for Motion Capture | Apple Developer Documentation
     url: https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Apple ARKit documentation: rigging a model for motion capture.'
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -66,6 +70,7 @@ entries:
         - xr
   - name: Rendering | Oculus Developers
     url: https://developer.oculus.com/resources/bp-rendering/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Oculus rendering best-practices guide.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -83,6 +88,7 @@ entries:
     deprecated: true
   - name: Vuforia
     url: https://developer.vuforia.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: AR SDK that is directly integrated in the Unity Editor. Proprietary license, [free to develop with](https://developer.vuforia.com/vui/pricing)
     entry_type: tool
     license: Freemium
@@ -100,6 +106,7 @@ entries:
         - unity-plugin
   - name: Unity VR Video Recording Test
     url: https://github.com/aosoft/UnityVRVideoRecordingTest
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Sample Unity project for recording VR sessions.
     entry_type: reference
     license: Open Source
@@ -119,6 +126,7 @@ entries:
     last_pushed: '2019-06-21'
   - name: VR Development - Unity Learn
     url: https://learn.unity.com/pathway/vr-development
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity Learn pathway preparing you for VR development jobs.
     entry_type: tutorial
     license: Free
@@ -137,6 +145,7 @@ entries:
         - unity-plugin
   - name: Medium by Adobe
     url: https://www.oculus.com/experiences/rift/3257686387611106/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Medium is a dedicated VR sculpting and painting package for users of Oculus headsets, capable of exporting models to DCC applications in OBJ or FBX format.
     entry_type: tool
     license: Free
@@ -155,6 +164,7 @@ entries:
         - xr
   - name: How to support GearVR and Google Cardboard in one Unity3D project
     url: http://ralphbarbagallo.com/2015/05/26/how-to-support-gear-vr-and-google-cardboard-in-one-unity3d-project/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: supporting Gear VR and Google Cardboard in one Unity project.'
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -172,6 +182,7 @@ entries:
         - unity-plugin
   - name: Advanced VR Mechanics With Unity and the HTC Vive Part 1
     url: https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: advanced VR mechanics in Unity with the HTC Vive (part 1).'
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -189,6 +200,7 @@ entries:
         - unity-plugin
   - name: Advanced VR Mechanics With Unity and the HTC Vive Part 2
     url: https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: advanced VR mechanics in Unity with the HTC Vive (part 2).'
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -206,6 +218,7 @@ entries:
         - unity-plugin
   - name: North Star Kit
     url: https://www.smart-prototyping.com/Project-North-Star-Kit
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Hardware kit implementing Leap Motion's open-source Project North Star AR headset reference design (dual 1600x1440 120 FPS displays).
     entry_type: hardware
     license: Paid
@@ -221,6 +234,7 @@ entries:
         - xr
   - name: How to Create a Minimap for VR in Unity
     url: https://somedudes.ch/2017/02/21/how-to-create-a-minimap-for-vr-in-unity/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: creating a minimap for VR in Unity.'
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -238,6 +252,7 @@ entries:
         - unity-plugin
   - name: Three.js Editor
     url: https://threejs.org/editor/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Online 3D editor with AR export capabilities.
     entry_type: tool
     license: Open Source
@@ -254,6 +269,7 @@ entries:
         - opensource-alt
   - name: Ultraleap
     url: https://www.ultraleap.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Hand-tracking hardware and SDK (formerly Ultrahaptics and Leap Motion).
     entry_type: hardware
     license: Paid
@@ -270,6 +286,7 @@ entries:
         - xr
   - name: HTC Vive VR Input
     url: http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: VR GUI input module for Unity with the HTC Vive.'
     entry_type: tutorial
     url_last_verified: '2026-09-01'
@@ -287,6 +304,7 @@ entries:
         - unity-plugin
   - name: Oliver Kreylos's blog
     url: http://doc-ok.org/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Good resource to get started learning about VR / stereo rendering.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -303,6 +321,7 @@ entries:
         - xr
   - name: A-Frame VR
     url: https://github.com/silverslade/aframe_blender_exporter
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender add-on allows you to model your scene in Blender and export it to an A-Frame VR project with a single click.
     entry_type: plugin
     license: Open Source
@@ -324,6 +343,7 @@ entries:
     last_pushed: '2023-05-07'
   - name: Tensorflow2 Ue4 AR
     url: https://github.com/Allysony/tensorflow2-ue4-ar
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
     entry_type: reference
     license: Open Source
@@ -343,6 +363,7 @@ entries:
     last_pushed: '2021-06-09'
   - name: Sceneform Android SDK Maintained
     url: https://github.com/SceneView/sceneform-android
+    added_at: '2026-04-19T17:29:43.000Z'
     description: ARCore Android SDK with Google Filament 3D engine. Continuation of Google Sceneform
     entry_type: tool
     license: Open Source
@@ -360,6 +381,7 @@ entries:
     archived: true
   - name: I3D Past Projects
     url: https://www.youtube.com/@i3dpastprojects778
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Virtual 3D teleportation in real-time by Microsoft Research
     entry_type: channel
     license: Free
@@ -378,6 +400,7 @@ entries:
         - xr
   - name: 'ViroCore: A cross-platform AR/VR renderer'
     url: https://github.com/ViroCommunity/virocore
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open-source cross-platform AR/VR renderer, with ViroReact for React Native.
     entry_type: tool
     license: Open Source
@@ -398,6 +421,7 @@ entries:
         - xr
   - name: 8th Wall
     url: https://www.8thwall.com/
+    added_at: '2026-05-22T16:48:26.000Z'
     description: Niantic's WebAR platform. Markerless world tracking, image targets, face effects via the browser. No app required.
     license: Paid
     entry_type: software
@@ -418,6 +442,7 @@ entries:
     url_status: ok
   - name: Mozilla Hubs
     url: https://hubs.mozilla.com/
+    added_at: '2026-05-22T16:48:26.000Z'
     description: Open-source social VR rooms in the browser. Forked and maintained by community after Mozilla sunset.
     license: Open Source
     entry_type: software
@@ -440,6 +465,7 @@ entries:
     url_status: ok
   - name: Bino
     url: https://github.com/ThreeDeeJay/bino/tree/main
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 3D video player with support for 180/360 video and VR headsets.
     entry_type: tool
     license: Open Source

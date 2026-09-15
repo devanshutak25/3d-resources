@@ -1,6 +1,7 @@
 entries:
   - name: Unity Fluid Simulation 2D
     url: https://github.com/giangchau92/Unity-Fluid-Simulation-2D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Extended camera renders particles, then metaball processing via shader.
     entry_type: reference
     license: Open Source
@@ -21,6 +22,7 @@ entries:
     last_pushed: '2017-07-31'
   - name: Circular Color Picker Unity
     url: https://github.com/mathiassiig/CircularColorPickerUnity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Shader and script for a circular color picker.
     entry_type: reference
     license: Open Source
@@ -41,6 +43,7 @@ entries:
     last_pushed: '2019-01-28'
   - name: GLSL Optimizer
     url: https://github.com/aras-p/glsl-optimizer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization.
     entry_type: tool
     license: Open Source
@@ -59,6 +62,7 @@ entries:
     last_pushed: '2020-05-14'
   - name: ShaderForge
     url: https://github.com/FreyaHolmer/ShaderForge
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Node-based Unity shader editor, no coding required. Open source and unmaintained.
     entry_type: plugin
     license: Open Source
@@ -80,6 +84,7 @@ entries:
     last_pushed: '2023-01-03'
   - name: Shader Lab Lab
     url: https://github.com/rambutan2000/ShaderLabLab
+    added_at: '2026-04-19T17:15:03.000Z'
     description: System using T4 Templates to generate Unity ShaderLab code in the editor.
     entry_type: reference
     license: Open Source
@@ -100,6 +105,7 @@ entries:
     last_pushed: '2018-12-10'
   - name: GrassBending
     url: https://github.com/Elringus/GrassBending
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Replacement for Unity's terrain grass shader with alpha-blended rendering and touch bending.
     entry_type: reference
     license: Open Source
@@ -118,6 +124,7 @@ entries:
         - opensource-alt
   - name: Wind Waker Shader
     url: https://github.com/albertomelladoc/Wind-Waker-Shader
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Cel shading of two thresholds with a blur/gradient between them for Unity.
     entry_type: reference
     license: Open Source
@@ -138,6 +145,7 @@ entries:
     last_pushed: '2018-02-22'
   - name: Unity Outline Shader
     url: https://github.com/IronWarrior/UnityOutlineShader
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Source code for an Outline Shader tutorial. Detects edges using the depth and normals buffers.
     entry_type: reference
     license: Open Source
@@ -158,6 +166,7 @@ entries:
     last_pushed: '2021-01-03'
   - name: VerticalDissolve
     url: https://github.com/AdultLink/VerticalDissolve
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Procedural vertical dissolve shader. Tweak edge color, noisiness, waviness, rim light, emission scrolling.
     entry_type: reference
     license: Open Source
@@ -178,6 +187,7 @@ entries:
     last_pushed: '2018-11-16'
   - name: Stanford Bunny Fur With Unity
     url: https://github.com/chenjd/Stanford-Bunny-Fur-With-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Geometry shader generating fur on the GPU.
     entry_type: reference
     license: Open Source
@@ -199,6 +209,7 @@ entries:
     last_pushed: '2017-11-23'
   - name: Procedural Stochastic Texturing
     url: https://github.com/UnityLabs/procedural-stochastic-texturing
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Modified Unity Standard shader implementing procedural stochastic texturing.
     entry_type: reference
     license: Open Source
@@ -221,6 +232,7 @@ entries:
     last_pushed: '2019-05-29'
   - name: VilarVRC
     url: https://github.com/Vilar24/VilarVRC
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Vilar's shaders for VRChat.
     entry_type: reference
     license: Open Source
@@ -239,6 +251,7 @@ entries:
         - opensource-alt
   - name: UnityGPUNoise
     url: https://github.com/GlitchEnzo/UnityGPUNoise
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Shaders for various noise functions on the GPU.
     entry_type: reference
     license: Open Source
@@ -260,6 +273,7 @@ entries:
     last_pushed: '2015-05-08'
   - name: ShadowDrawer
     url: https://github.com/keijiro/ShadowDrawer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Shadow matte shader for Unity.
     entry_type: reference
     license: Open Source
@@ -280,6 +294,7 @@ entries:
     last_pushed: '2018-07-26'
   - name: Unity Shaders
     url: https://github.com/igradeca/Unity-Shaders
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity project researching shaders and particle systems.
     entry_type: reference
     license: Open Source
@@ -300,6 +315,7 @@ entries:
     last_pushed: '2018-12-13'
   - name: Unity Shader Sketches
     url: https://github.com/setchi/Unity-ShaderSketches
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Sketches made with ShaderLab in Unity.
     entry_type: reference
     license: Open Source
@@ -320,6 +336,7 @@ entries:
     last_pushed: '2019-10-31'
   - name: ShaderProject
     url: https://github.com/ellioman/ShaderProject
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Container for a range of handy Unity shaders.
     entry_type: reference
     license: Open Source
@@ -340,6 +357,7 @@ entries:
     last_pushed: '2017-07-18'
   - name: Shader Effects
     url: https://github.com/NoxWings/Shader-Effects
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity shader effects.
     entry_type: reference
     license: Open Source
@@ -360,6 +378,7 @@ entries:
     last_pushed: '2017-10-17'
   - name: Glow
     url: https://github.com/rakkarage/Glow
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity Shader Graph glow effect test.
     entry_type: reference
     license: Open Source
@@ -380,6 +399,7 @@ entries:
     last_pushed: '2019-02-24'
   - name: Unity Raymarching Collision
     url: https://github.com/hecomi/UnityRaymarchingCollision
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Raymarching and rigidbody interaction example.
     entry_type: reference
     license: Open Source
@@ -400,6 +420,7 @@ entries:
     last_pushed: '2016-03-20'
   - name: Unity Compute Shader Ray Tracing Practice
     url: https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Ray tracing compute shader tutorial for Unity.
     entry_type: reference
     license: Open Source
@@ -421,6 +442,7 @@ entries:
     last_pushed: '2019-02-03'
   - name: Raymarching On Unity 5
     url: https://github.com/i-saint/RaymarchingOnUnity5
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Raymarcher in Unity 5.
     entry_type: reference
     license: Open Source
@@ -441,6 +463,7 @@ entries:
     last_pushed: '2015-06-17'
   - name: SDFs by Inigo Quilez
     url: https://iquilezles.org/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: All you need to know about SDFs and other shader magic.
     entry_type: reference
     license: Free
@@ -455,6 +478,7 @@ entries:
         - web
   - name: Lygia
     url: https://www.lygia.xyz/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Multi-language shader library of reusable functions.
     entry_type: tool
     license: Free
@@ -468,6 +492,7 @@ entries:
         - web
   - name: Pyro Shader (Redshift, Arnold, RenderMan)
     url: https://sadjad.gumroad.com/l/PvjRz?recommended_by=search
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Pyro and fire shader presets for Redshift, Arnold, and RenderMan.
     entry_type: plugin
     license: Paid
@@ -487,6 +512,7 @@ entries:
         - redshift
   - name: Twigl
     url: https://twigl.app/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free online shader editor.
     entry_type: tool
     license: Free
@@ -500,6 +526,7 @@ entries:
         - web
   - name: Stylized Comic Book Shader (Chris Folea Makes Things)
     url: https://www.youtube.com/@CFMakesThings
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Stylized comic book shading in UE without post-processing.
     entry_type: channel
     license: Free
@@ -516,6 +543,7 @@ entries:
         - web
   - name: Cel-Shader Playlist (Your Sandbox)
     url: https://www.youtube.com/@YourSandbox
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Cel-shading playlist (17 videos), UE with Lumen.
     entry_type: channel
     license: Free
@@ -530,6 +558,7 @@ entries:
         - web
   - name: Moebius-style 3D Rendering (Useless Game Dev)
     url: https://www.youtube.com/@uselessgamedev
+    added_at: '2026-04-19T19:05:38.000Z'
     description: 'Moebius-style rendering: Sobel filter on depth map, crosshatch, fades.'
     entry_type: channel
     license: Free
@@ -547,6 +576,7 @@ entries:
         - web
   - name: Manga/Outline Shader Playlist (Hepner Kamil)
     url: https://www.youtube.com/@HepnerKamil
+    added_at: '2026-04-19T19:05:38.000Z'
     description: 'Manga/outline shader playlist (18 videos): outlines and toon shaders.'
     entry_type: channel
     license: Free
@@ -561,6 +591,7 @@ entries:
         - web
   - name: Advanced Cel Shader (Pitchfork Academy)
     url: https://www.youtube.com/@PitchforkAcademy
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Advanced cel shader material breakdown.
     entry_type: channel
     license: Free
@@ -577,6 +608,7 @@ entries:
         - web
   - name: Advanced Materials in Blender - Shader Editor Tutorial
     url: https://www.youtube.com/@SurfacedStudio
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Blender shader editor material tutorials.
     entry_type: channel
     license: Free
@@ -594,6 +626,7 @@ entries:
         - blender
   - name: Lightning Boy Studio
     url: https://www.youtube.com/channel/UCd9i2MKimSaKezat1xkn8-A/videos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Toon and NPR shading for Blender.
     entry_type: channel
     license: Free
@@ -612,6 +645,7 @@ entries:
         - blender
   - name: 3D Programming Weekly Articles
     url: https://www.3dkingdoms.com/weekly/weekly.php
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Collection of shader and math related resources.
     entry_type: reference
     license: Free
@@ -624,6 +658,7 @@ entries:
         - web
   - name: Shader Derivative Functions
     url: http://www.aclockworkberry.com/shader-derivative-functions/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Shader derivative functions (ddx/ddy), useful for normals.
     entry_type: reference
     license: Free
@@ -638,6 +673,7 @@ entries:
         - web
   - name: Anatole Drupat (XT95)
     url: http://www.aduprat.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Shader artist (ShaderToy XT95).
     entry_type: inspiration
     license: Free
@@ -650,6 +686,7 @@ entries:
         - web
   - name: Introduction to shaders
     url: https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Part 1 of an introduction to shaders using three.js.
     entry_type: reference
     license: Free
@@ -664,6 +701,7 @@ entries:
         - web
   - name: Efficient Gradient-Domain Compositing Using Quadtrees
     url: http://www.agarwala.org/efficient_gdc/preprint.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: ACM Trans. Graph. 2007.
     entry_type: reference
     license: Free
@@ -680,6 +718,7 @@ entries:
         - web
   - name: Intro Three.js
     url: https://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Introduction to pixel shaders in three.js.
     entry_type: reference
     license: Free
@@ -694,6 +733,7 @@ entries:
         - web
   - name: A Pixel is not a Little Square!
     url: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Classic paper debunking "a pixel is a little square." Also an intro to sampling.
     entry_type: reference
     license: Free
@@ -708,6 +748,7 @@ entries:
         - web
   - name: OpenGL 4 Shaders
     url: https://antongerdelan.net/opengl/shaders.html
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Short introduction to OpenGL shaders by Anton Gerdelan.
     entry_type: reference
     license: Free
@@ -722,6 +763,7 @@ entries:
         - web
   - name: apitrace
     url: http://apitrace.github.io
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Tools for tracing OpenGL, Direct3D, and other graphics APIs.
     entry_type: tool
     license: Open Source
@@ -736,6 +778,7 @@ entries:
         - linux
   - name: NodeToy
     url: https://app.nodetoy.co/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Web node-based shader editor with react-three-fiber export.
     entry_type: tool
     license: Free
@@ -749,6 +792,7 @@ entries:
         - web
   - name: How does a GPU Shader work?
     url: https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Academy slides on how a GPU shader works.
     entry_type: reference
     license: Free
@@ -765,6 +809,7 @@ entries:
         - gpu
   - name: Bart Wronski's blog
     url: https://bartwronski.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Real-time rendering, post-processing effects, and advanced graphics techniques.
     entry_type: reference
     license: Free
@@ -781,6 +826,7 @@ entries:
         - real-time
   - name: Rendering Resources - Benedikt Bitterli
     url: https://benedikt-bitterli.me/resources/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Test scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
     entry_type: reference
     license: Free
@@ -793,6 +839,7 @@ entries:
         - web
   - name: Path tracing fractals
     url: http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Path tracing 3D fractals in a fragment shader, by Mikael Hvidtfeldt Christensen.
     entry_type: reference
     license: Free
@@ -809,6 +856,7 @@ entries:
         - procedural
   - name: A Trip Through The Graphics Pipeline
     url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A-trip-through-the-graphics-pipeline.
     license: Open Source
     entry_type: reference

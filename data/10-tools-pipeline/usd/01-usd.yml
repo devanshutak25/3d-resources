@@ -1,6 +1,7 @@
 entries:
   - name: OpenUSD
     url: https://openusd.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official Pixar USD site. Specification, tools, resources.
     license: Open Source
     entry_type: reference
@@ -19,6 +20,7 @@ entries:
     url_status: ok
   - name: USD Working Group (ASWF)
     url: https://wiki.aswf.io/display/WGUSD/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Alliance for Open Media USD resources.
     license: Open Source
     entry_type: reference
@@ -36,6 +38,7 @@ entries:
     url_status: ok
   - name: NVIDIA USD Resources
     url: https://developer.nvidia.com/usd
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Omniverse, tutorials, tools.
     license: Free
     entry_type: reference
@@ -53,6 +56,7 @@ entries:
     url_status: ok
   - name: Apple USD Tools
     url: https://developer.apple.com/augmented-reality/tools/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Usdz_converter, Reality Composer.
     license: Free
     entry_type: reference
@@ -71,6 +75,7 @@ entries:
     url_status: ok
   - name: USD Survival Guide
     url: https://lucascheller.github.io/VFX-UsdSurvivalGuide/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Practical USD guide for VFX artists.
     license: Free
     entry_type: reference
@@ -88,6 +93,7 @@ entries:
     url_status: ok
   - name: USD Cookbook (Colin Kennedy)
     url: https://github.com/ColinKennedy/USD-Cookbook
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Code recipes and examples.
     license: Open Source
     entry_type: reference
@@ -106,6 +112,7 @@ entries:
     url_status: ok
   - name: Animal Logic's USD Docker
     url: https://github.com/AnimalLogic/docker-usd
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Docker build scripts that fetch and compile Pixar USD and its open-source dependencies.
     license: Open Source
     entry_type: tool
@@ -123,6 +130,7 @@ entries:
     last_pushed: '2021-04-01'
   - name: USD Manager
     url: http://www.usdmanager.org/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight app for browsing, managing, and editing USD files.
     license: Open Source
     entry_type: tool
@@ -139,6 +147,7 @@ entries:
         - usd
   - name: AL USD Maya
     url: https://github.com/AnimalLogic/AL_USDMaya
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Animal Logic's Maya plugin for round-tripping USD scene data into Maya.
     license: Open Source
     entry_type: plugin
@@ -158,6 +167,7 @@ entries:
     last_pushed: '2019-11-04'
   - name: Luma USD
     url: https://github.com/LumaPictures/luma_usd
+    added_at: '2026-04-16T21:13:44.000Z'
     description: USD plugins and schemas from Luma Pictures.
     license: Open Source
     entry_type: plugin
@@ -177,6 +187,7 @@ entries:
     last_pushed: '2017-07-28'
   - name: USD Shell Extension for Windows
     url: https://github.com/Activision/USDShellExtension
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Windows File Explorer extension adding USD thumbnails, side previews, and deep-metadata search.
     license: Open Source
     entry_type: tool
@@ -194,6 +205,7 @@ entries:
     last_pushed: '2021-06-24'
   - name: USD Noodle
     url: https://github.com/chris-gardner/usd-noodle
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Node-graph viewer showing the dependencies of a USD file.
     license: Open Source
     entry_type: tool
@@ -214,6 +226,7 @@ entries:
     last_pushed: '2022-12-11'
   - name: USD URI Resolver
     url: https://github.com/LumaPictures/usd-uri-resolver
+    added_at: '2026-04-16T21:13:44.000Z'
     description: URI-based asset resolver for USD, with custom plugin support.
     license: Open Source
     entry_type: tool
@@ -233,6 +246,7 @@ entries:
     last_pushed: '2023-08-24'
   - name: UsdQt
     url: https://github.com/LumaPictures/usd-qt
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Qt components for building custom USD tools.
     license: Open Source
     entry_type: tool
@@ -252,6 +266,7 @@ entries:
     last_pushed: '2023-10-10'
   - name: USD Qtpy
     url: https://github.com/BigRoy/usd-qtpy
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Python Qt components for building custom USD tools.
     license: Open Source
     entry_type: tool

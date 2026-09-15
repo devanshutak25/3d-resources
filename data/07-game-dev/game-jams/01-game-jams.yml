@@ -1,6 +1,7 @@
 entries:
   - name: Ludum Dare
     url: https://ldjam.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Oldest jam, twice yearly.
     entry_type: community
     license: Free
@@ -17,6 +18,7 @@ entries:
     deprecated: true
   - name: GMTK Game Jam
     url: https://itch.io/jam/gmtk-2025
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Largest jam by entries.
     entry_type: community
     license: Free
@@ -32,6 +34,7 @@ entries:
         - web
   - name: itch.io Jams
     url: https://itch.io/jams
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Hundreds of active jams.
     entry_type: community
     license: Free
@@ -47,6 +50,7 @@ entries:
         - web
   - name: Global Game Jam
     url: https://globalgamejam.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Annual, in-person worldwide.
     entry_type: community
     license: Free
@@ -62,6 +66,7 @@ entries:
         - web
   - name: Brackeys Game Jam
     url: https://itch.io/jam/brackeys
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Beginner-friendly jam.
     entry_type: community
     license: Free
@@ -79,6 +84,7 @@ entries:
     url_status: ok
   - name: JS13KGames
     url: https://js13kgames.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: 13KB size limit JavaScript jam.
     entry_type: community
     license: Free

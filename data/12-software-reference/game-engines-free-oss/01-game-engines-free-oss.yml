@@ -1,6 +1,7 @@
 entries:
   - name: Godot 4
     url: https://godotengine.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: MIT-licensed 2D/3D engine. GDScript, C#, C++.
     license: Open Source
     entry_type: software
@@ -27,6 +28,7 @@ entries:
     url_status: ok
   - name: Bevy
     url: https://bevyengine.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Rust data-driven ECS game engine.
     license: Open Source
     entry_type: software
@@ -48,6 +50,7 @@ entries:
     url_status: ok
   - name: Defold
     url: https://defold.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Lua-based 2D mobile game engine by King.
     license: Open Source
     entry_type: software
@@ -70,6 +73,7 @@ entries:
     url_status: ok
   - name: Stride
     url: https://www.stride3d.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: C# 3D game engine (formerly Xenko).
     license: Open Source
     entry_type: software
@@ -89,6 +93,7 @@ entries:
     url_status: ok
   - name: Flax Engine
     url: https://flaxengine.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: High-fidelity 3D engine. Free for small studios.
     license: Open Source
     entry_type: software
@@ -110,6 +115,7 @@ entries:
     url_status: ok
   - name: O3DE
     url: https://o3de.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AAA-grade Linux Foundation open-source engine.
     license: Open Source
     entry_type: software
@@ -131,6 +137,7 @@ entries:
     url_status: ok
   - name: Fyrox
     url: https://fyrox.rs/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Rust 3D engine with scene editor.
     license: Open Source
     entry_type: software
@@ -151,6 +158,7 @@ entries:
     url_status: ok
   - name: Cocos Creator
     url: https://www.cocos.com/en/creator
+    added_at: '2026-04-16T19:59:30.000Z'
     description: TypeScript mobile/web game engine.
     license: Open Source
     entry_type: software
@@ -171,6 +179,7 @@ entries:
     url_status: ok
   - name: Raylib
     url: https://www.raylib.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Minimal C library for learning game programming.
     license: Open Source
     entry_type: software
@@ -194,6 +203,7 @@ entries:
     url_status: ok
   - name: MonoGame
     url: https://monogame.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: C# XNA successor (Celeste, Stardew Valley).
     license: Open Source
     entry_type: software
@@ -214,6 +224,7 @@ entries:
     url_status: ok
   - name: FNA
     url: https://fna-xna.github.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: C# XNA reimplementation for ports.
     license: Open Source
     entry_type: software
@@ -234,6 +245,7 @@ entries:
     url_status: ok
   - name: Heaps.io
     url: https://heaps.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Haxe engine. Dead Cells, Northgard.
     license: Open Source
     entry_type: software
@@ -254,6 +266,7 @@ entries:
     url_status: ok
   - name: Love2D
     url: https://love2d.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Lua 2D game framework.
     license: Open Source
     entry_type: software
@@ -274,6 +287,7 @@ entries:
     url_status: ok
   - name: Solar2D
     url: https://solar2d.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Lua 2D mobile framework (formerly Corona SDK).
     license: Open Source
     entry_type: software
@@ -295,6 +309,7 @@ entries:
     url_status: ok
   - name: Macroquad
     url: https://macroquad.rs/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Rust minimal 2D/3D with WASM support.
     license: Open Source
     entry_type: software
@@ -316,6 +331,7 @@ entries:
     url_status: ok
   - name: Ebitengine
     url: https://ebitengine.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Go 2D game engine.
     license: Open Source
     entry_type: software
@@ -336,6 +352,7 @@ entries:
     url_status: ok
   - name: Armory3D
     url: https://armory3d.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blender-integrated Haxe game engine.
     license: Open Source
     entry_type: software
@@ -357,6 +374,7 @@ entries:
     url_status: ok
   - name: A Frame
     url: https://aframe.io/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: An easy web framework for building 3D/AR/VR experiences.
     license: Open Source
     entry_type: software
@@ -377,6 +395,7 @@ entries:
     url_status: ok
   - name: CopperCube
     url: http://www.ambiera.com/coppercube/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: CopperCube is an all-in-one 3D game engine. Very easy to use.
     license: Free
     entry_type: software
@@ -398,6 +417,7 @@ entries:
     url_status: ok
   - name: Cocos2d X
     url: http://cocos2d-x.org/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: C++ OpenGL 2D/3D engine with JS and Lua bindings. Targets all major mobile and desktop platforms.
     license: Open Source
     entry_type: software
@@ -420,6 +440,7 @@ entries:
     url_status: ok
   - name: jMonkeyEngine 3
     url: http://jmonkeyengine.org/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 3D open-source game engine for Java developers.
     license: Open Source
     entry_type: software
@@ -440,6 +461,7 @@ entries:
     url_status: ok
   - name: JPCT
     url: https://www.jpct.net/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 3D engine for desktop Java and Android.
     license: Free
     entry_type: software
@@ -461,6 +483,7 @@ entries:
     url_status: ok
   - name: Leadwerks
     url: https://www.leadwerks.com/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Easy-to-learn game engine for 3D and VR.
     license: Free
     entry_type: software
@@ -484,6 +507,7 @@ entries:
     url_status: ok
   - name: Magnum (site)
     url: http://magnum.graphics/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight modular 2D/3D graphics/game engine written in C++11.
     license: Open Source
     entry_type: software
@@ -504,6 +528,7 @@ entries:
     url_status: ok
   - name: Ogre
     url: https://www.ogre3d.org/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Open source graphical rendering engine (C++).
     license: Open Source
     entry_type: software
@@ -524,6 +549,7 @@ entries:
     url_status: ok
   - name: Urho3D
     url: http://urho3d.github.io/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Cross-platform rendering and game engine.
     license: Open Source
     entry_type: software
@@ -544,6 +570,7 @@ entries:
     url_status: ok
   - name: ursina
     url: https://www.ursinaengine.org/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A game engine powered by Python and Panda3D.
     license: Open Source
     entry_type: software
@@ -566,6 +593,7 @@ entries:
     url_status: ok
   - name: Babylon.js
     url: https://www.babylonjs.com/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: JavaScript 3D engine/framework for browser games and apps.
     license: Open Source
     entry_type: software
@@ -586,6 +614,7 @@ entries:
     url_status: ok
   - name: Blend4Web
     url: http://www.blend4web.com/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: JavaScript framework for interactive 3D in browsers. Blender integration.
     license: Open Source
     entry_type: software
@@ -605,6 +634,7 @@ entries:
     url_status: ok
   - name: Three.js
     url: http://threejs.org/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: JavaScript 3D library. The standard for web 3D.
     license: Open Source
     entry_type: software
@@ -625,6 +655,7 @@ entries:
     url_status: ok
   - name: Ceramic
     url: https://ceramic-engine.com/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Haxe cross-platform 2D framework. Exports to Windows, Mac, Linux, iOS, Android, HTML5/WebGL, Unity.
     license: Open Source
     entry_type: software
@@ -648,6 +679,7 @@ entries:
     url_status: ok
   - name: Irrlicht
     url: http://irrlicht.sourceforge.net/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Open source high-performance realtime 3D engine (C++).
     license: Open Source
     entry_type: software
@@ -669,6 +701,7 @@ entries:
     notes: SourceForge returns 403 to non-browser clients (bot protection). Do not auto-deprecate.
   - name: Panda3D
     url: https://www.panda3d.org/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Python-based 3D engine (originated at Disney VR Studio, now CMU ETC).
     license: Open Source
     entry_type: software
@@ -689,6 +722,7 @@ entries:
     url_status: ok
   - name: Torque3D
     url: https://torque3d.org/torque3d/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: C++ engine with decades of Torque technology lineage.
     license: Open Source
     entry_type: software
@@ -709,6 +743,7 @@ entries:
     url_status: ok
   - name: SpriteBuilder
     url: http://www.spritebuilder.com/
+    added_at: '2026-04-16T21:37:07.000Z'
     description: Open source game development suite for macOS.
     license: Open Source
     entry_type: software
@@ -727,6 +762,7 @@ entries:
     url_status: ok
   - name: Fusee
     url: https://github.com/FUSEEProjectTeam/Fusee/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A multiplatform 3D C# real-time engine with strong emphasis on content transformation.
     license: Open Source
     entry_type: software
@@ -748,6 +784,7 @@ entries:
     url_status: ok
   - name: Harfang 3D
     url: https://github.com/harfang3d/harfang3d
+    added_at: '2026-04-16T21:13:44.000Z'
     description: C++ 3D visualization library usable in Python, Lua, and Go.
     license: Open Source
     entry_type: software
@@ -769,6 +806,7 @@ entries:
     last_pushed: '2023-09-08'
   - name: Neo Axis Engine
     url: https://github.com/NeoAxis/NeoAxisEngine
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Integrated development environment with built-in 3D and 2D game engine.
     license: Open Source
     entry_type: software
@@ -788,6 +826,7 @@ entries:
     url_status: ok
   - name: Overload
     url: https://github.com/adriengivry/Overload
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 3D game engine with editor.
     license: Open Source
     entry_type: software
@@ -806,6 +845,7 @@ entries:
     url_status: ok
   - name: UPBGE (GitHub)
     url: https://github.com/UPBGE/upbge
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Integrated game engine in Blender.
     license: Open Source
     entry_type: software
@@ -827,6 +867,7 @@ entries:
     url_status: ok
   - name: Blitz3D
     url: https://github.com/blitz-research/blitz3d
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 3D BASIC-like programming language for fast 3D desktop games.
     license: Open Source
     entry_type: software
@@ -850,6 +891,7 @@ entries:
     last_pushed: '2020-12-11'
   - name: Dash
     url: https://github.com/Circular-Studios/Dash
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A free and open 3D game engine written in D.
     license: Open Source
     entry_type: software
@@ -872,6 +914,7 @@ entries:
     last_pushed: '2020-12-18'
   - name: Diligent Engine
     url: https://github.com/DiligentGraphics/DiligentEngine
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Modern cross-platform low-level graphics library supporting D3D11/12, OpenGL/GLES, and Vulkan.
     license: Open Source
     entry_type: software
@@ -893,6 +936,7 @@ entries:
     url_status: ok
   - name: Folded Paper Engine
     url: https://github.com/papercraftgames/folded-paper-engine
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Blender-to-Godot game mechanics engine/plugins. 2.5D/FPS/TPS controls, triggers, inventory, holdable items.
     license: Open Source
     entry_type: software
@@ -914,6 +958,7 @@ entries:
     url_status: ok
   - name: Juno
     url: https://github.com/rxi/juno
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Framework for making 2D games with chunky pixels in Lua.
     license: Open Source
     entry_type: software
@@ -937,6 +982,7 @@ entries:
     last_pushed: '2016-05-12'
   - name: LumixEngine
     url: https://github.com/nem0/LumixEngine
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 3D game engine built on C++.
     license: Open Source
     entry_type: software
@@ -956,6 +1002,7 @@ entries:
     url_status: ok
   - name: Lums
     url: https://github.com/lums-proj/Lums
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 2D/3D framework written in C++11. Efficient and modern. Heavy development.
     license: Open Source
     entry_type: software
@@ -978,6 +1025,7 @@ entries:
     last_pushed: '2015-10-02'
   - name: Pixel Vision 8
     url: https://github.com/PixelVision8/PixelVision8
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Teaches retro game development with streamlined workflows. 8-bit fantasy console.
     license: Open Source
     entry_type: software
@@ -1003,6 +1051,7 @@ entries:
     last_pushed: '2023-01-04'
   - name: Screen 13
     url: https://github.com/attackgoat/screen-13
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Easy-to-use Vulkan rendering engine with render graph for Rust.
     license: Open Source
     entry_type: software
@@ -1023,6 +1072,7 @@ entries:
     url_status: ok
   - name: Whitestorm.js (GitHub)
     url: https://github.com/WhitestormJS/whitestorm.js
+    added_at: '2026-04-16T21:13:44.000Z'
     description: 3D JavaScript framework for building apps and games.
     license: Open Source
     entry_type: software

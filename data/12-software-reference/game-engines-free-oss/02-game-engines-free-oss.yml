@@ -1,6 +1,7 @@
 entries:
   - name: Superpowers
     url: https://sparklinlabs.itch.io/superpowers
+    added_at: '2026-04-16T21:13:44.000Z'
     description: HTML5 Collaborative 2D/3D Game Maker
     entry_type: software
     license: Open Source
@@ -16,6 +17,7 @@ entries:
       - opensource-alt
   - name: Coquette
     url: http://coquette.maryrosecook.com/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
     entry_type: reference
     license: Open Source
@@ -28,6 +30,7 @@ entries:
         - games
   - name: Stage.js
     url: http://piqnt.com/stage.js/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
     entry_type: reference
     license: Open Source
@@ -40,6 +43,7 @@ entries:
         - games
   - name: Gorgon
     url: https://www.tape-worm.net/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A 2D rendering API for.NET, written in C#.
     entry_type: reference
     license: Open Source
@@ -50,6 +54,7 @@ entries:
         - rendering
   - name: gameplay
     url: http://gameplay3d.io/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
     license: Open Source
     entry_type: software
@@ -60,6 +65,7 @@ entries:
         - opensource-alt
   - name: PixiJS
     url: http://www.pixijs.com/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
     license: Open Source
     entry_type: software
@@ -71,6 +77,7 @@ entries:
         - opensource-alt
   - name: axys
     url: https://github.com/axys1/axys
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
     license: Open Source
     entry_type: software
@@ -84,6 +91,7 @@ entries:
         - opensource-alt
   - name: UPBGE (site)
     url: https://upbge.org/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
     entry_type: software
     license: Open Source
@@ -95,6 +103,7 @@ entries:
         - blender-addon
   - name: OpenXRay
     url: https://github.com/OpenXRay/xray-16
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
     entry_type: community
     license: Open Source
@@ -110,6 +119,7 @@ entries:
         - games
   - name: Py Game CE
     url: https://pyga.me/docs/index.html
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
     entry_type: community
     license: Open Source
@@ -125,6 +135,7 @@ entries:
         - games
   - name: Wonderland Engine
     url: https://wonderlandengine.com/
+    added_at: '2026-05-22T16:48:26.000Z'
     description: WebXR-focused engine with visual editor. Targets VR, AR, and standard browser 3D. Free for indies.
     license: Freemium
     entry_type: software
@@ -146,6 +157,7 @@ entries:
     url_status: ok
   - name: CopperLicht
     url: https://www.ambiera.com/copperlicht/index.html
+    added_at: '2026-04-19T17:29:43.000Z'
     description: JavaScript library and WebGL 3D engine for games and 3D applications.
     entry_type: software
     url_last_verified: '2026-09-01'

@@ -1,6 +1,7 @@
 entries:
   - name: Wwise Unreal Plug-in
     url: https://www.audiokinetic.com/library/edge/?source=UE4&id=index.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Plugin for integrating Wwise assets for realtime playback in-engine.
     license: Freemium
     entry_type: plugin

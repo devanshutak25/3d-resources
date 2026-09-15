@@ -5,6 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 const catalog = require('./lib/catalog');
+const { slugify } = require('./lib/slugify');
 
 function main() {
   const outPath = process.argv[2];
@@ -14,14 +15,18 @@ function main() {
   }
 
   const fileToSlug = new Map();
+  const sections = [];
   for (const meta of catalog.loadSections().sections) {
-    fileToSlug.set(meta.file, catalog.loadSection(meta.file).slug);
+    const section = catalog.loadSection(meta.file);
+    fileToSlug.set(meta.file, section.slug);
+    sections.push({ slug: section.slug, anchor: slugify(section.title) });
   }
 
   function row(e, section, subsection) {
     return {
       url: e.url,
       name: e.name,
+      description: e.description || '',
       license: e.license || null,
       entry_type: e.entry_type || null,
       section,
@@ -38,6 +43,7 @@ function main() {
 
   const entries = [];
   for (const { sectionFile, subSlug, entry: e } of catalog.iterEntries()) {
+    if (e.deprecated) continue;
     const primarySection = fileToSlug.get(sectionFile);
     entries.push(row(e, primarySection, subSlug));
     for (const path of e.dual_listed_in || []) {
@@ -48,7 +54,7 @@ function main() {
   }
 
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
-  fs.writeFileSync(outPath, JSON.stringify({ entries }, null, 0));
+  fs.writeFileSync(outPath, JSON.stringify({ sections, entries }, null, 0));
   console.log(`Wrote ${entries.length} entries → ${outPath}`);
 }
 

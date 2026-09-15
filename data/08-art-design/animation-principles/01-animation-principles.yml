@@ -1,6 +1,7 @@
 entries:
   - name: The 12 Principles (Illustrated)
     url: https://the12principles.tumblr.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: GIF breakdowns of each principle.
     license: Free
     entry_type: reference
@@ -18,6 +19,7 @@ entries:
         - beginner
   - name: Animator Island. 51 Exercises
     url: https://www.animatorisland.com/51-great-animation-exercises-to-master/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Structured practice curriculum by difficulty.
     license: Free
     entry_type: reference
@@ -35,6 +37,7 @@ entries:
         - beginner
   - name: Endless Reference
     url: https://www.endlessreference.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Video clips browsable by action type (walk, run, fight, etc.).
     license: Free
     entry_type: reference
@@ -50,6 +53,7 @@ entries:
         - web
   - name: Animation Resources
     url: https://animationresources.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Archives of classic animation, frame-by-frame studies.
     license: Free
     entry_type: reference
@@ -67,6 +71,7 @@ entries:
         - intermediate
   - name: New Frame Plus
     url: https://www.youtube.com/@NewFramePlus
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Animation analysis in games (walk cycles, weight, timing).
     license: Free
     entry_type: channel
@@ -86,6 +91,7 @@ entries:
     url_status: ok
   - name: iAnimate Free Resources
     url: https://ianimate.net/free-resources
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Webinars from Disney/Pixar/DreamWorks animators.
     license: Free
     entry_type: tutorial
@@ -103,6 +109,7 @@ entries:
         - intermediate
   - name: Hippydrome
     url: https://www.hippydrome.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Richard Williams walk cycle and timing chart reference.
     license: Free
     entry_type: reference

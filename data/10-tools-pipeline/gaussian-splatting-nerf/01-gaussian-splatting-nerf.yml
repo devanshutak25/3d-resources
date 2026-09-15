@@ -1,6 +1,7 @@
 entries:
   - name: 3D Gaussian Splatting (INRIA reference impl)
     url: https://github.com/graphdeco-inria/gaussian-splatting
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Original implementation.
     license: Open Source
     entry_type: reference
@@ -24,6 +25,7 @@ entries:
     url_status: ok
   - name: 4D Gaussian Splatting
     url: https://github.com/hustvl/4DGaussians
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Dynamic scenes (CVPR 2024).
     license: Open Source
     entry_type: reference
@@ -45,6 +47,7 @@ entries:
     url_status: ok
   - name: LichtFeld Studio
     url: https://github.com/MrNeRF/LichtFeld-Studio
+    added_at: '2026-05-18T15:42:40.000Z'
     description: Native desktop app for training, inspecting, editing, and exporting 3D Gaussian Splatting scenes. Plugin extensible.
     license: Open Source
     entry_type: tool
@@ -68,6 +71,7 @@ entries:
     url_status: ok
   - name: Brush
     url: https://github.com/ArthurBrussee/brush
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cross-platform Gaussian Splatting reconstruction and viewer (Rust/wgpu), runs in browser.
     license: Open Source
     entry_type: tool
@@ -92,6 +96,7 @@ entries:
     url_status: ok
   - name: MegaSaM
     url: https://github.com/mega-sam/mega-sam
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Structure and motion recovery from casual handheld video.
     license: Open Source
     entry_type: reference
@@ -114,6 +119,7 @@ entries:
         - opensource-alt
   - name: Taichi 3D GS
     url: https://github.com/wanmeihuali/taichi_3d_gaussian_splatting
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Taichi-based implementation (Apache-2.0).
     license: Open Source
     entry_type: tool
@@ -136,6 +142,7 @@ entries:
     last_pushed: '2024-03-12'
   - name: Warp 3DGS
     url: https://github.com/guoriyue/3dgs-warp-scratch
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Warp/Python-based implementation (AGPL-3.0).
     license: Open Source
     entry_type: tool
@@ -156,6 +163,7 @@ entries:
         - gpu
   - name: Pointrix
     url: https://github.com/pointrix-project/pointrix
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Differentiable point-based rendering framework for Gaussian Splatting.
     license: Open Source
     entry_type: tool
@@ -176,6 +184,7 @@ entries:
         - gpu
   - name: 3DGS.cpp
     url: https://github.com/shg8/3DGS.cpp
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS.
     license: Open Source
     entry_type: tool
@@ -198,6 +207,7 @@ entries:
         - gpu
   - name: vkgs
     url: https://github.com/jaesung-cs/vkgs
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics.
     license: Open Source
     entry_type: tool
@@ -219,6 +229,7 @@ entries:
         - gpu
   - name: spaTV
     url: https://github.com/antimatter15/splaTV
+    added_at: '2026-04-19T17:29:43.000Z'
     description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo [here](http://antimatter15.com/splaTV/).
     license: Open Source
     entry_type: tool
@@ -239,6 +250,7 @@ entries:
     last_pushed: '2024-03-26'
   - name: splatviz
     url: https://github.com/Florian-Barthel/splatviz
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Viewer that allows you to edit the rendering code during runtime or to display multiple scenes at once.
     license: Open Source
     entry_type: tool
@@ -258,6 +270,7 @@ entries:
         - opensource-alt
   - name: SpectacularAI
     url: https://github.com/SpectacularAI/point-cloud-tools
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Conversion scripts for different 3DGS conventions.
     license: Open Source
     entry_type: tool
@@ -276,6 +289,7 @@ entries:
         - opensource-alt
   - name: msplat
     url: https://github.com/pointrix-project/msplat
+    added_at: '2026-04-19T17:29:43.000Z'
     description: A modular differential gaussian rasterization library.
     license: Open Source
     entry_type: tool
@@ -296,6 +310,7 @@ entries:
         - gpu
   - name: 3DGS Introduction
     url: https://huggingface.co/blog/gaussian-splatting
+    added_at: '2026-04-19T17:29:43.000Z'
     description: HuggingFace introductory guide to 3D Gaussian Splatting.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -310,6 +325,7 @@ entries:
         - nerf
   - name: PyTorch Implementation
     url: https://myasincifci.github.io/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Curated implementation of Vanilla 3DGS in PyTorch
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -324,6 +340,7 @@ entries:
         - nerf
   - name: 'Gaussian Head Avatars: A Summary'
     url: https://towardsdatascience.com/gaussian-head-avatars-a-summary-2bd17bd48500
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Summary of Gaussian-splatting head-avatar techniques (Towards Data Science).
     entry_type: reference
     url_last_verified: '2026-09-01'

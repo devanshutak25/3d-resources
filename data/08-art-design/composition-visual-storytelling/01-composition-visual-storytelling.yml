@@ -1,6 +1,7 @@
 entries:
   - name: Can't Unsee
     url: https://cantunsee.space/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Interactive game training visual alignment and spacing precision.
     license: Free
     entry_type: tool
@@ -19,6 +20,7 @@ entries:
         - beginner
   - name: Laws of UX
     url: https://lawsofux.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Gestalt principles, visual perception laws (directly applicable to 3D composition).
     license: Free
     entry_type: reference
@@ -37,6 +39,7 @@ entries:
         - beginner
   - name: Handprint Color & Composition
     url: https://www.handprint.com/HP/WCL/color18a.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Deepest free color theory resource online. Covers perception and harmony.
     license: Free
     entry_type: reference
@@ -55,6 +58,7 @@ entries:
         - advanced
   - name: PhotoPills Golden Ratio Guide
     url: https://www.photopills.com/articles/golden-ratio-photography-composition-guide
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Golden ratio, spirals, triangles with overlay diagrams.
     license: Free
     entry_type: reference
@@ -73,6 +77,7 @@ entries:
         - beginner
   - name: Neil Blevins Art Lessons
     url: http://www.neilblevins.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Composition types, tangents, visual hierarchy by a Pixar artist.
     license: Free
     entry_type: reference

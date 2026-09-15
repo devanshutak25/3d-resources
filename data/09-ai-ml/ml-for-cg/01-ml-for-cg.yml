@@ -1,6 +1,7 @@
 entries:
   - name: IEEE Transactions on Neural Networks and Learning Systems
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Publishes technical articles on the theory, design, and applications of neural networks and related learning systems.
     entry_type: reference
     license: Free
@@ -14,6 +15,7 @@ entries:
         - web
   - name: PyTorch3D
     url: https://pytorch3d.org/
+    added_at: '2026-05-21T18:41:53.000Z'
     description: Meta FAIR library for 3D deep learning. Differentiable rendering, mesh ops, point cloud utils on PyTorch.
     license: Open Source
     entry_type: reference
@@ -30,6 +32,7 @@ entries:
       - PyTorch
   - name: DINOv2
     url: https://dinov2.metademolab.com/
+    added_at: '2026-05-21T18:41:53.000Z'
     description: Meta self-supervised vision features. Strong general-purpose image embeddings. Useful as backbone for CG ML tasks.
     license: Open Source
     entry_type: reference
@@ -46,6 +49,7 @@ entries:
       - Self-Supervised
   - name: Meta 3D Gen
     url: https://ai.meta.com/research/publications/meta-3d-gen/
+    added_at: '2026-05-21T18:41:53.000Z'
     description: Meta research pipeline for text-to-3D. Combines AssetGen geometry with TextureGen materials. Paper and results.
     license: Free
     entry_type: reference
@@ -61,6 +65,7 @@ entries:
       - Research
   - name: 3D Machine Learning
     url: https://github.com/timzhang642/3D-Machine-Learning
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Resource repository for 3D machine learning.
     entry_type: reference
     license: Open Source
@@ -73,6 +78,7 @@ entries:
         - web
   - name: Awesome 3D Human
     url: https://github.com/lijiaman/awesome-3d-human
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Curated list of papers and resources on 3D human research, including face, body, hand and motion.
     entry_type: reference
     license: Open Source
@@ -85,6 +91,7 @@ entries:
     last_pushed: '2023-10-30'
   - name: Introduction to Generative AI Community Course
     url: https://www.youtube.com/@iNeuroniNtelligence
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free community course on generative AI fundamentals by iNeuron.
     license: Free
     entry_type: channel
@@ -99,6 +106,7 @@ entries:
         - beginner
   - name: Generative AI Genius 2024
     url: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/generative_ai_genius/README.md
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Free generative AI course material by Aishwarya Naresh Reganti.
     license: Free
     entry_type: tutorial

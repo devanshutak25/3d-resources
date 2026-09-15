@@ -1,6 +1,7 @@
 entries:
   - name: 'IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis'
     url: https://arxiv.org/abs/2205.15517
+    added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://mrtornado24.github.io/IDE-3D/) | [💻 Code](https://github.com/MrTornado24/IDE-3D)'
     entry_type: paper
     license: Free
@@ -17,6 +18,7 @@ entries:
     year: 2022
   - name: 'DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images'
     url: https://arxiv.org/abs/2208.07227
+    added_at: '2026-04-19T17:29:43.000Z'
     description: '[💻 Code](https://github.com/vLAR-group/DM-NeRF)'
     entry_type: paper
     license: Open Source
@@ -33,6 +35,7 @@ entries:
     year: 2022
   - name: 'DreamFusion: Text-to-3D using 2D Diffusion'
     url: https://arxiv.org/abs/2209.14988
+    added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://dreamfusion3d.github.io) | [💻 Code](https://github.com/ashawkey/stable-dreamfusion)'
     entry_type: paper
     license: Free
@@ -49,6 +52,7 @@ entries:
     year: 2022
   - name: 'Deep Generative Models on 3D Representations: A Survey'
     url: https://arxiv.org/pdf/2210.15663.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://github.com/justimyhxu/awesome-3D-generation/)'
     entry_type: paper
     license: Free
@@ -65,6 +69,7 @@ entries:
     year: 2022
   - name: 'Magic3D: High-Resolution Text-to-3D Content Creation'
     url: https://arxiv.org/pdf/2211.10440.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://research.nvidia.com/labs/dir/magic3d)'
     entry_type: paper
     license: Free
@@ -81,6 +86,7 @@ entries:
     year: 2022
   - name: 'Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models'
     url: https://arxiv.org/pdf/2212.14704.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://bluestyle97.github.io/dream3d/)'
     entry_type: paper
     license: Free
@@ -97,6 +103,7 @@ entries:
     year: 2022
   - name: 'CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations'
     url: https://arxiv.org/abs/2208.10555
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 3DV 2022 | [[project](https://cvi2.uni.lu/cc3d-ops/)]
     entry_type: paper
     license: Free
@@ -113,6 +120,7 @@ entries:
     year: 2022
   - name: 'CLA-NeRF: Category-Level Articulated Neural Radiance Field'
     url: https://arxiv.org/abs/2202.00181
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Tseng et al., ICRA 2022
     entry_type: paper
     license: Open Source
@@ -129,6 +137,7 @@ entries:
     year: 2022
   - name: 'Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction'
     url: https://arxiv.org/abs/2111.11215.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO)
     entry_type: paper
     license: Free
@@ -145,6 +154,7 @@ entries:
     year: 2022
   - name: 'GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation'
     url: https://arxiv.org/abs/2204.05735
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Chng et al., ECCV 2022
     entry_type: paper
     license: Open Source
@@ -161,6 +171,7 @@ entries:
     year: 2022
   - name: 'KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination'
     url: https://arxiv.org/abs/2206.10885
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Esposito et al., Arxiv 2022
     entry_type: paper
     license: Open Source
@@ -177,6 +188,7 @@ entries:
     year: 2022
   - name: 'Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields'
     url: https://arxiv.org/abs/2209.09050
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF)
     entry_type: paper
     license: Open Source
@@ -193,6 +205,7 @@ entries:
     year: 2022
   - name: 'NeRF: Neural Radiance Field in 3D Vision, Introduction and Review'
     url: https://arxiv.org/abs/2210.00379
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li
     entry_type: paper
     license: Open Source
@@ -209,6 +222,7 @@ entries:
     year: 2022
   - name: 'Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders'
     url: https://arxiv.org/abs/2112.09329
+    added_at: '2026-04-19T17:15:03.000Z'
     description: CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)]
     entry_type: paper
     license: Free
@@ -225,6 +239,7 @@ entries:
     year: 2022
   - name: Reconstructing Editable Prismatic CAD from Rounded Voxel Models
     url: https://arxiv.org/abs/2209.01161
+    added_at: '2026-04-19T17:15:03.000Z'
     description: SIGGRAPH Asia 2022
     entry_type: paper
     license: Free
@@ -241,6 +256,7 @@ entries:
     year: 2022
   - name: 'RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering'
     url: https://arxiv.org/abs/2212.01120
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Li et al., ICCAD 2022
     entry_type: paper
     license: Open Source
@@ -257,6 +273,7 @@ entries:
     year: 2022
   - name: Streaming Radiance Fields for 3D Video Synthesis
     url: https://arxiv.org/abs/2210.14831
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF)
     entry_type: paper
     license: Free
@@ -273,6 +290,7 @@ entries:
     year: 2022
   - name: Animatable Neural Radiance Fields from Monocular RGB Videos
     url: https://arxiv.org/abs/2106.13629
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF)
     entry_type: paper
     license: Open Source
@@ -289,6 +307,7 @@ entries:
     year: 2021
   - name: 'DeepCAD: A Deep Generative Network for Computer-Aided Design Models'
     url: https://arxiv.org/abs/2105.09492
+    added_at: '2026-04-19T17:15:03.000Z'
     description: ICCV 2021 | [[project](http://www.cs.columbia.edu/cg/deepcad/)] [[code](https://github.com/ChrisWu1997/DeepCAD)]
     entry_type: paper
     license: Free
@@ -305,6 +324,7 @@ entries:
     year: 2021
   - name: 'Depth-supervised NeRF: Fewer Views and Faster Training for Free'
     url: https://arxiv.org/pdf/2107.02791.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF)
     entry_type: paper
     license: Open Source
@@ -321,6 +341,7 @@ entries:
     year: 2021
   - name: 'FastNeRF: High-Fidelity Neural Rendering at 200FPS'
     url: https://arxiv.org/abs/2103.10380
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Garbin et al., Arxiv 2021
     entry_type: paper
     license: Open Source
@@ -337,6 +358,7 @@ entries:
     year: 2021
   - name: 'GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields'
     url: https://arxiv.org/abs/2011.12100
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Niemeyer et al., CVPR 2021
     entry_type: paper
     license: Open Source
@@ -353,6 +375,7 @@ entries:
     year: 2021
   - name: 'GNeRF: GAN-based Neural Radiance Field without Posed Camera'
     url: https://arxiv.org/abs/2103.15606
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Meng et al., Arxiv 2021
     entry_type: paper
     license: Open Source
@@ -369,6 +392,7 @@ entries:
     year: 2021
   - name: 'KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs'
     url: https://arxiv.org/abs/2103.13744
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf)
     entry_type: paper
     license: Open Source
@@ -385,6 +409,7 @@ entries:
     year: 2021
   - name: Learned Initializations for Optimizing Coordinate-Based Neural Representations
     url: https://arxiv.org/abs/2012.02189
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Tancik et al., CVPR 2021 | [github](https://github.com/tancik/learnit)
     entry_type: paper
     license: Open Source
@@ -401,6 +426,7 @@ entries:
     year: 2021
   - name: Mixture of Volumetric Primitives for Efficient Neural Rendering
     url: https://arxiv.org/abs/2103.01954
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Lombardi et al., SIGGRAPH 2021
     entry_type: paper
     license: Free
@@ -417,6 +443,7 @@ entries:
     year: 2021
   - name: 'NeRF-VAE: A Geometry Aware 3D Scene Generative Model'
     url: https://arxiv.org/pdf/2104.00587.pdf
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Kosiorek et al., Arxiv 2021
     entry_type: paper
     license: Open Source
@@ -433,6 +460,7 @@ entries:
     year: 2021
   - name: 'NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction'
     url: https://arxiv.org/abs/2106.10689
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS)
     entry_type: paper
     license: Free
@@ -449,6 +477,7 @@ entries:
     year: 2021
   - name: 'PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds'
     url: https://arxiv.org/abs/2103.02766
+    added_at: '2026-04-19T17:15:03.000Z'
     description: ICLR 2021 | [[code](https://github.com/YujiaLiu76/PC2WF)]
     entry_type: paper
     license: Free
@@ -465,6 +494,7 @@ entries:
     year: 2021
   - name: 'pixelNeRF: Neural Radiance Fields from One or Few Images'
     url: https://arxiv.org/abs/2012.02190
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Yu et al., CVPR 2021 | [github](https://github.com/sxyu/pixel-nerf)
     entry_type: paper
     license: Open Source
@@ -481,6 +511,7 @@ entries:
     year: 2021
   - name: Volume Rendering of Neural Implicit Surfaces
     url: https://arxiv.org/abs/2106.12052
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon)
     entry_type: paper
     license: Free
@@ -497,6 +528,7 @@ entries:
     year: 2021
   - name: 'DeRF: Decomposed Radiance Fields'
     url: https://arxiv.org/abs/2011.12490
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Rebain et al., Arxiv 2020
     entry_type: paper
     license: Open Source
@@ -513,6 +545,7 @@ entries:
     year: 2020
   - name: 'GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis'
     url: https://arxiv.org/abs/2007.02442
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf)
     entry_type: paper
     license: Open Source
@@ -529,6 +562,7 @@ entries:
     year: 2020
   - name: 'GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering'
     url: https://arxiv.org/abs/2010.04595
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Trevithick and Yang, Arxiv 2020 | [github](https://github.com/alextrevithick/GRF)
     entry_type: paper
     license: Open Source
@@ -545,6 +579,7 @@ entries:
     year: 2020
   - name: 'NeRF++: Analyzing and Improving Neural Radiance Fields'
     url: https://arxiv.org/abs/2010.07492
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Zhang et al., Arxiv 2020 | [github](https://github.com/Kai-46/nerfplusplus)
     entry_type: paper
     license: Open Source
@@ -561,6 +596,7 @@ entries:
     year: 2020
   - name: 'Neural Volume Rendering: NeRF'
     url: https://arxiv.org/abs/2101.05204
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/)
     entry_type: paper
     license: Free
@@ -577,6 +613,7 @@ entries:
     year: 2020
   - name: 'ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds'
     url: https://arxiv.org/abs/2003.12181
+    added_at: '2026-04-19T17:15:03.000Z'
     description: ECCV 2020 | [[project](https://hippogriff.github.io/parsenet/)] [[code](https://github.com/Hippogriff/parsenet-codebase)]
     entry_type: paper
     license: Free
@@ -593,6 +630,7 @@ entries:
     year: 2020
   - name: 'PolyGen: An Autoregressive Generative Model of 3D Meshes'
     url: https://arxiv.org/abs/2002.10880
+    added_at: '2026-04-19T17:15:03.000Z'
     description: ICML 2020 | [[code](https://github.com/deepmind/deepmind-research/blob/master/polygen/)]
     entry_type: paper
     license: Free
@@ -609,6 +647,7 @@ entries:
     year: 2020
   - name: 'PVDeconv: Point-voxel deconvolution for autoencoding cad construction in 3D'
     url: https://arxiv.org/abs/2101.04493
+    added_at: '2026-04-19T17:15:03.000Z'
     description: ICIP 2020 | [[project](https://cvi2.uni.lu/cc3d-dataset/)]
     entry_type: paper
     license: Free
@@ -625,6 +664,7 @@ entries:
     year: 2020
   - name: Supervised Fitting of Geometric Primitives to 3D Point Clouds
     url: https://arxiv.org/abs/1811.08988
+    added_at: '2026-04-19T17:15:03.000Z'
     description: CVPR 2019 | [[code](https://github.com/lingxiaoli94/SPFN)]
     entry_type: paper
     license: Free
@@ -641,6 +681,7 @@ entries:
     year: 2019
   - name: Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering
     url: https://zju3dv.github.io/object_nerf/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf)
     entry_type: paper
     license: Free
@@ -657,6 +698,7 @@ entries:
     year: 2021
   - name: 'SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field'
     url: https://zju3dv.github.io/sine/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Bao et al., CVPR 2023 | [github](https://github.com/zju3dv/SINE)
     entry_type: paper
     license: Free
@@ -673,6 +715,7 @@ entries:
     year: 2023
   - name: 'Photo tourism: Exploring photo collections in 3D'
     url: http://phototour.cs.washington.edu/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Snavely, Seitz, Szeliski. SIGGRAPH 2006.
     entry_type: paper
     license: Free
@@ -690,6 +733,7 @@ entries:
         - photogrammetry
   - name: '3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows'
     url: https://arxiv.org/abs/2210.11603
+    added_at: '2026-04-19T17:15:03.000Z'
     description: ArXiv 2022 paper on integrating text-to-image AI in 3D design workflows.
     entry_type: paper
     license: Free
@@ -708,6 +752,7 @@ entries:
     year: 2022
   - name: Importance Sampling for Production Rendering
     url: http://www.igorsklyar.com/system/documents/papers/4/fiscourse.comp.pdf
+    added_at: '2026-04-16T21:13:44.000Z'
     description: SIGGRAPH course notes on importance sampling for production rendering.
     entry_type: paper
     license: Free

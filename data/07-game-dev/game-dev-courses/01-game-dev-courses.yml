@@ -1,6 +1,7 @@
 entries:
   - name: CS50 Game Development (Harvard)
     url: https://cs50.harvard.edu/games/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free, covers Love2D, Unity.
     license: Free
     entry_type: tutorial
@@ -18,6 +19,7 @@ entries:
         - web
   - name: Polyglot Gamedev Mastersheet
     url: https://github.com/PolyglotGamedev/mastersheet
+    added_at: '2026-05-04T10:36:50.000Z'
     description: Massive community-curated master list of game dev resources across engines, art, audio, and design.
     license: Free
     entry_type: reference

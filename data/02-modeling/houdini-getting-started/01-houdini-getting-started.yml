@@ -1,6 +1,7 @@
 entries:
   - name: SideFX Learn
     url: https://www.sidefx.com/learn/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official curated learning hub.
     entry_type: reference
     readme_tags:
@@ -19,6 +20,7 @@ entries:
         - houdini
   - name: SideFX Learning Library
     url: https://www.sidefx.com/learn/learning-library/content/
+    added_at: '2026-05-25T07:59:50.000Z'
     description: Searchable content browser for all official Houdini tutorials.
     entry_type: reference
     readme_tags:
@@ -38,6 +40,7 @@ entries:
         - houdini
   - name: Houdini Donut in Any Shape
     url: https://vimeo.com/492505292
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Procedural donut by Lewis Orton.
     license: Free
     entry_type: tutorial
@@ -60,6 +63,7 @@ entries:
     url_status: ok
   - name: Houdini in Five Minutes
     url: https://vimeo.com/384384552
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Quick intro by Entagma.
     license: Free
     entry_type: tutorial
@@ -79,6 +83,7 @@ entries:
         - houdini
   - name: SideFX Getting Started
     url: https://www.sidefx.com/learn/getting_started/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Official Houdini getting-started learning path.
     license: Free
     entry_type: tutorial
@@ -96,6 +101,7 @@ entries:
     url_status: ok
   - name: Houdini Crash Course (ikrima)
     url: https://ikrima.dev/houdini/basics/hou-crash-course/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Fast Houdini fundamentals primer.
     license: Free
     entry_type: tutorial

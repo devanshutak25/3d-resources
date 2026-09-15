@@ -1,6 +1,7 @@
 entries:
   - name: School of Motion (YouTube)
     url: https://www.youtube.com/@schoolofmotion
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion design education.
     entry_type: channel
     license: Free
@@ -18,6 +19,7 @@ entries:
     url_status: ok
   - name: Toniko Pantoja
     url: https://www.youtube.com/@TonikoPantoja
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Animation industry and technique.
     entry_type: channel
     license: Free
@@ -33,6 +35,7 @@ entries:
         - web
   - name: Alex Kunchevsky
     url: https://www.youtube.com/@kunchevsky
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion design.
     entry_type: channel
     license: Free
@@ -50,6 +53,7 @@ entries:
     url_status: ok
   - name: Alan Becker Tutorials
     url: https://www.youtube.com/@AlanBeckerTutorials
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Animation tutorials by stick-figure animator.
     entry_type: channel
     license: Free
@@ -67,6 +71,7 @@ entries:
         - beginner
   - name: Olof Storm
     url: https://www.youtube.com/@OlofStorm
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Animation and motion.
     entry_type: channel
     license: Free
@@ -84,6 +89,7 @@ entries:
         - web
   - name: Alex Grigg
     url: https://www.youtube.com/@alexgrigganimation
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Animation for Anyone series.
     entry_type: channel
     license: Free
@@ -101,6 +107,7 @@ entries:
         - beginner
   - name: Josh Toonen
     url: https://www.youtube.com/@JoshToonen
+    added_at: '2026-04-19T19:05:38.000Z'
     description: 'Unreal Engine cinematics: animated decals, cinematic environments, faster filmmaking.'
     entry_type: channel
     license: Free
@@ -116,6 +123,7 @@ entries:
         - web
   - name: 'The Principles of Animation: Interactive Edition'
     url: https://plumcatstudio.com/blog/principles-of-animation
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Interactive web explainer of the 12 principles of animation.
     entry_type: reference
     license: Free

@@ -1,6 +1,7 @@
 entries:
   - name: CGWiki (tokeru.com)
     url: http://www.tokeru.com/cgwiki/?title=Houdini
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Matt Estela's CGWiki, the deepest Houdini reference (Joy of VEX, LOPS, particles).
     license: Free
     entry_type: reference
@@ -20,6 +21,7 @@ entries:
         - houdini
   - name: Entagma (site)
     url: http://www.entagma.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Advanced design and mograph tutorials. Also Unreal and Blender.
     license: Freemium
     entry_type: channel
@@ -39,6 +41,7 @@ entries:
         - houdini
   - name: Applied Houdini
     url: http://www.appliedhoudini.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Stephen Knipping's FX-focused course series (ILM).
     license: Paid
     entry_type: tutorial
@@ -60,6 +63,7 @@ entries:
     url_status: ok
   - name: SideFX Tutorials
     url: https://www.sidefx.com/tutorials/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official tutorials.
     license: Free
     entry_type: tutorial
@@ -79,6 +83,7 @@ entries:
         - houdini
   - name: Farmfield (Vimeo)
     url: https://vimeo.com/farmfield
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Setups and hip files from Johnny Farmfield.
     license: Free
     entry_type: channel
@@ -98,6 +103,7 @@ entries:
         - houdini
   - name: John Kunz (site)
     url: https://www.johnkunz.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Weekly streams. FX, coding, Redshift ([Twitch](https://www.twitch.tv/videos/828183309) | [YouTube](https://www.youtube.com/c/JohnKunz/)).
     license: Free
     entry_type: channel
@@ -121,6 +127,7 @@ entries:
         - redshift
   - name: Houdini Kitchen
     url: https://www.houdinikitchen.net/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tutorials and articles, including L-systems and procedural setups.
     license: Free
     entry_type: tutorial
@@ -138,6 +145,7 @@ entries:
     url_status: unreachable
   - name: Houdini Blueprints
     url: https://hdbp.io/browse
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Browsable library of Houdini node setups and techniques.
     license: Free
     entry_type: reference
@@ -154,6 +162,7 @@ entries:
     deprecated: true
   - name: OdForce Tutorial .hip Library
     url: https://forums.odforce.net/topic/49522-tutorial-hip-library/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Community thread collecting tutorial .hip files.
     license: Free
     entry_type: reference
@@ -168,6 +177,7 @@ entries:
     url_status: ok
   - name: Houdini Hive
     url: https://www.sidefx.com/houdini-hive/houdini-hive-worldwide/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: SideFX presentation recordings from artists and studios.
     license: Free
     entry_type: channel
@@ -183,6 +193,7 @@ entries:
     url_status: ok
   - name: Houdini Gubbins
     url: https://houdinigubbins.wordpress.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blog of Houdini tips and workflow notes.
     license: Free
     entry_type: tutorial
@@ -198,6 +209,7 @@ entries:
     url_status: ok
   - name: SOP Quick Reference
     url: https://jeremypaton.github.io/site/build/nodes/sop.html
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Quick-reference index of Houdini SOP nodes.
     license: Free
     entry_type: reference
@@ -213,6 +225,7 @@ entries:
     url_status: ok
   - name: Houdini Escapades (3Dmattias)
     url: https://github.com/3Dmattias/Houdini_Escapades/tree/main/hip
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Example .hip files from the 3Dmattias tutorial series.
     license: Free
     entry_type: reference
@@ -227,6 +240,7 @@ entries:
     url_status: ok
   - name: HoudiniHowtos (jhorikawa)
     url: https://github.com/jhorikawa/HoudiniHowtos
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Example .hip files and how-to setups.
     license: Free
     entry_type: reference
@@ -241,6 +255,7 @@ entries:
     url_status: ok
   - name: example_hips (dchow1992)
     url: https://github.com/dchow1992/example_hips
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Collection of example Houdini .hip files.
     license: Free
     entry_type: reference
@@ -255,6 +270,7 @@ entries:
     url_status: ok
   - name: educational-hips (pedohorse)
     url: https://github.com/pedohorse/educational-hips
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Educational Houdini .hip files explaining techniques.
     license: Free
     entry_type: reference
@@ -270,6 +286,7 @@ entries:
     url_status: ok
   - name: hip-files (lightReachers)
     url: https://github.com/lightReachers/hip-files
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Shared collection of Houdini .hip files.
     license: Free
     entry_type: reference
@@ -284,6 +301,7 @@ entries:
     url_status: ok
   - name: Assorted Houdini Demos (jakericedesigns)
     url: https://github.com/jakericedesigns/Assorted-Houdini-Demos
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Assorted Houdini demo scenes and setups.
     license: Free
     entry_type: reference
@@ -299,6 +317,7 @@ entries:
     url_status: ok
   - name: houdini-sandbox (K240)
     url: https://github.com/K240/houdini-sandbox/tree/master/scenes
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Sandbox collection of Houdini scene files.
     license: Free
     entry_type: reference

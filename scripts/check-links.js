@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Link checker: HEAD all URLs in data/*.yml.
-// Updates url_last_verified + url_status. Auto-marks broken links deprecated.
+// Updates link-health fields. Editorial deprecation is changed only by review.
 // Writes a summary report to _maintenance/link-check-YYYY-MM-DD.md for the CI workflow to use as issue body.
 
 const fs = require('fs');
@@ -21,12 +21,15 @@ async function check(url) {
       res = await fetch(url, { method: 'GET', redirect: 'follow', signal: controller.signal });
     }
     clearTimeout(timer);
-    if (res.ok) return { status: 'ok', code: res.status, finalUrl: res.url };
+    if (res.ok) return { status: res.redirected ? 'redirect' : 'ok', code: res.status, finalUrl: res.url };
     if (res.status >= 300 && res.status < 400) return { status: 'redirect', code: res.status, finalUrl: res.url };
     // 401/403/405/429/451/999 = bot-block, auth wall, or rate-limit — URL is alive, just not HEAD-able.
-    // Treat as 'ok' to avoid auto-deprecating Cloudflare-protected asset sites.
+    // Keep protected sites out of the broken-link report.
     if ([401, 403, 405, 429, 451, 999].includes(res.status)) {
       return { status: 'ok', code: res.status, finalUrl: res.url, note: 'bot-blocked' };
+    }
+    if (res.status >= 500 || res.status === 408 || res.status === 425) {
+      return { status: 'unreachable', code: res.status, finalUrl: res.url, error: `HTTP ${res.status} (temporary failure)` };
     }
     return { status: 'broken', code: res.status, finalUrl: res.url };
   } catch (e) {
@@ -91,7 +94,6 @@ async function main() {
 
     if (r.status === 'broken') {
       broken.push({ ...item, result: r });
-      entry.deprecated = true;
     } else if (r.status === 'unreachable') {
       unreachable.push({ ...item, result: r });
     } else if (r.status === 'redirect') {
@@ -117,7 +119,7 @@ async function main() {
   lines.push(`- OK: ${allEntries.length - broken.length - redirects.length - unreachable.length}`);
   lines.push(`- Redirects: ${redirects.length}`);
   lines.push(`- Unreachable: ${unreachable.length}`);
-  lines.push(`- **Broken (auto-marked deprecated): ${broken.length}**`);
+  lines.push(`- **Broken (needs review): ${broken.length}**`);
   lines.push('');
   if (broken.length) {
     lines.push('## Broken — needs human review');

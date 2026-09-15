@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 // Generate _site/feed.xml — Atom 1.0 feed of the 50 most recently added
-// entries. Ordering uses chunk insertion order (newest at the end of the
-// highest-numbered chunk per subsection — see ADR-0001), which is good
-// enough chronologically without requiring git blame on every entry.
+// entries, ordered globally by their persistent added_at timestamps.
 
 const fs = require('fs');
 const path = require('path');
@@ -43,23 +41,24 @@ function clean(s) {
 }
 
 function collectEntries() {
-  // Walk chunks in deterministic order (catalog.iterChunks already returns
-  // them ordered by section → subsection → filename, which is insertion order).
-  // Tag each entry with its chunk id + position so we can grab the tail.
+  // Storage location is not chronological. Validation requires added_at.
   const all = [];
   const seen = new Set();
   for (const chunk of catalog.iterChunks()) {
     chunk.entries.forEach((e, i) => {
       if (e.deprecated) return;
       if (!e.url || !e.name) return;
+      if (!e.added_at || !Number.isFinite(Date.parse(e.added_at))) {
+        throw new Error(`Missing or invalid added_at: ${e.name}. Run catalog validation.`);
+      }
       const k = e.url.toLowerCase();
       if (seen.has(k)) return;
       seen.add(k);
       all.push({ entry: e, chunkId: chunk.id, pos: i });
     });
   }
-  // The tail (highest chunk id + position) is freshest.
-  return all.slice(-FEED_LIMIT).reverse();
+  return all.sort((a, b) => Date.parse(b.entry.added_at) - Date.parse(a.entry.added_at)
+    || a.entry.url.localeCompare(b.entry.url)).slice(0, FEED_LIMIT);
 }
 
 function buildFeed(items, lastUpdated) {
@@ -84,7 +83,8 @@ function buildFeed(items, lastUpdated) {
     lines.push(`    <title>${title}</title>`);
     lines.push(`    <link href="${url}" rel="alternate"/>`);
     lines.push(`    <id>${url}</id>`);
-    lines.push(`    <updated>${lastUpdated}</updated>`);
+    lines.push(`    <published>${xmlEscape(e.added_at)}</published>`);
+    lines.push(`    <updated>${xmlEscape(e.added_at)}</updated>`);
     if (summary) lines.push(`    <summary>${summary}</summary>`);
     lines.push(`    <category term="${xmlEscape(section)}"/>`);
     if (e.license) lines.push(`    <category term="${xmlEscape(String(e.license).toLowerCase())}" scheme="license"/>`);

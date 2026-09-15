@@ -1,6 +1,7 @@
 entries:
   - name: SaltyAnimators Salary Collection
     url: https://docs.google.com/spreadsheets/d/1hLki-RUHJXgYj_RJKWlwUXfrWUWEi9yIcyLzEifxYrY
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Industry salary data.
     entry_type: reference
     license: Free
@@ -14,6 +15,7 @@ entries:
         - web
   - name: Animation Studio Reviews
     url: https://docs.google.com/spreadsheets/d/1aJHCQSA2dFdu4Fy__T3yDyiNqO0jMUBcku0EjKX3SZI
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Studio review spreadsheet.
     entry_type: reference
     license: Free
@@ -27,6 +29,7 @@ entries:
         - web
   - name: Job Openings Tracker
     url: https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Animation/VFX jobs tracker.
     entry_type: reference
     license: Free

@@ -1,6 +1,7 @@
 entries:
   - name: SideFX Content Library
     url: https://www.sidefx.com/contentlibrary/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official Houdini assets.
     license: Free
     entry_type: asset-source
@@ -20,6 +21,7 @@ entries:
         - houdini-addon
   - name: Blender Demo Files
     url: https://www.blender.org/download/demo-files/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official demo scenes.
     license: Free
     entry_type: asset-source
@@ -39,6 +41,7 @@ entries:
         - blender
   - name: Blender Extensions
     url: https://extensions.blender.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official addons and themes repository.
     license: Free
     entry_type: marketplace
@@ -59,6 +62,7 @@ entries:
     url_status: ok
   - name: Substance 3D Assets
     url: https://substance3d.adobe.com/assets/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Adobe materials library.
     license: Paid
     entry_type: asset-source
@@ -81,6 +85,7 @@ entries:
     url_status: ok
   - name: Substance 3D Community Assets
     url: https://substance3d.adobe.com/community-assets
+    added_at: '2026-04-16T19:59:30.000Z'
     description: User-shared materials.
     license: Free
     entry_type: asset-source
@@ -102,6 +107,7 @@ entries:
     url_status: ok
   - name: ZBrush Download Center
     url: https://pixologic.com/zbrush/downloadcenter/alpha/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Alphas and brushes.
     license: Free
     entry_type: asset-source
@@ -122,6 +128,7 @@ entries:
     url_status: ok
   - name: Maxon Asset Browser
     url: https://www.maxon.net/en/cinema-4d/features/asset-browser
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cinema 4D built-in asset library.
     license: Paid
     entry_type: asset-source
@@ -142,6 +149,7 @@ entries:
         - c4d
   - name: Maya Content Browser
     url: https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-14B1E820-24A5-41CF-B3A2-1BFED3464908
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official example scenes and assets.
     license: Paid
     entry_type: asset-source
@@ -163,6 +171,7 @@ entries:
         - maya
   - name: 3DCoat Smart Materials
     url: https://3dcoat.com/documentation/manual/brush-components/smart-materials/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official materials library.
     license: Paid
     entry_type: asset-source
@@ -187,6 +196,7 @@ entries:
     deprecated: true
   - name: Nomad Sculpt Resources
     url: https://nomadsculpt.com/resources/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Community brushes and matcaps.
     license: Free
     entry_type: asset-source

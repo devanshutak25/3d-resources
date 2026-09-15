@@ -1,6 +1,7 @@
 entries:
   - name: MOPS
     url: https://www.motionoperators.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion graphics toolkit by Toadstorm.
     license: Free
     entry_type: plugin
@@ -22,6 +23,7 @@ entries:
       - learning-community-industry/communities-forums
   - name: SideFX Labs
     url: https://github.com/sideeffects/SideFXLabs
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Extended official toolset.
     license: Open Source
     entry_type: plugin
@@ -42,6 +44,7 @@ entries:
         - opensource-alt
   - name: qLib
     url: https://github.com/qLab/qLib
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source HDA library.
     license: Open Source
     entry_type: plugin
@@ -62,6 +65,7 @@ entries:
         - opensource-alt
   - name: AElib
     url: https://github.com/Aeoll/Aelib
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free tools by Nick Taylor (ManVsMachine).
     license: Open Source
     entry_type: plugin
@@ -82,6 +86,7 @@ entries:
         - opensource-alt
   - name: ODTools
     url: https://origamidigital.com/cart/index.php?route=product/product&path=59_63&product_id=64
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Pipeline tools by Oliver Hotz.
     license: Paid
     entry_type: plugin
@@ -101,6 +106,7 @@ entries:
         - houdini-addon
   - name: Houdini Engine for Unreal (AdrianPan optimized fork)
     url: https://github.com/AdrianPanGithub/HoudiniEngineForUnreal
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Rebuilt Houdini Engine for UE, 2x-15x faster.
     license: Open Source
     entry_type: plugin
@@ -122,6 +128,7 @@ entries:
     url_status: ok
   - name: EarthMesh Houdini
     url: https://github.com/xjorma/EarthMeshHoudini
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Real-world meshes via Google API.
     license: Open Source
     entry_type: plugin
@@ -142,6 +149,7 @@ entries:
         - opensource-alt
   - name: Axiom
     url: https://www.mattpuchala.com/axiom
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Sparse fluid solver by Matthew Puchala.
     license: Paid
     entry_type: plugin
@@ -164,6 +172,7 @@ entries:
     url_status: ok
   - name: Tighe Rzankowski's Tools
     url: https://gumroad.com/trzanko
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Feather grooming.
     license: Paid
     entry_type: plugin
@@ -183,6 +192,7 @@ entries:
         - houdini-addon
   - name: Rich Lord's Tools
     url: https://www.richlord.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Tools from ex-Valve animator.
     license: Free
     entry_type: plugin
@@ -204,6 +214,7 @@ entries:
         - houdini-addon
   - name: .hips
     url: https://github.com/lcrs/_.hips
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Various Houdini tools.
     license: Open Source
     entry_type: plugin
@@ -224,6 +235,7 @@ entries:
         - opensource-alt
   - name: Ffmpeg
     url: https://ffmpeg.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Flipbook to MP4 conversion tool ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM)).
     license: Open Source
     entry_type: tool
@@ -245,6 +257,7 @@ entries:
         - cli
   - name: VFX Fractal Toolkit
     url: https://github.com/jtomori/vft
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Set of tools for generating fractal and generative art.
     license: Open Source
     entry_type: tool
@@ -270,6 +283,7 @@ entries:
     last_pushed: '2019-08-23'
   - name: ZENO
     url: https://github.com/zenustech/zeno
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Node-based 3D system for cinematic physics effects. Standalone open-source Houdini alternative.
     license: Open Source
     entry_type: tool
@@ -294,6 +308,7 @@ entries:
         - opensource-alt
   - name: Houdini Tech Art Challenge Winners 2021
     url: https://www.sidefx.com/tech-art-challenge-2021/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Winning tech-art tools: HPaint, Polyline Creator, Poly Slice Tool.'
     license: Free
     entry_type: plugin
@@ -313,6 +328,7 @@ entries:
         - houdini-addon
   - name: JDB Houdini Toolkit
     url: https://bitbucket.org/jcdeblok/workspace/projects/PROJ
+    added_at: '2026-04-19T17:15:03.000Z'
     description: JDB Houdini Toolkit.
     license: Open Source
     entry_type: plugin
@@ -333,6 +349,7 @@ entries:
         - opensource-alt
   - name: Houdini Attributes Cheatsheet
     url: https://gist.github.com/iinfin/2caf4e2ccb2545477670e88ddacee1e2
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Quick reference of common Houdini geometry attributes.
     license: Free
     entry_type: reference
@@ -352,6 +369,7 @@ entries:
         - houdini
   - name: Microbot VDB Painter
     url: https://microbot.ch/new/vdb-painter/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Interactive painting and manipulation of OpenVDB SDF volumes in Houdini.
     license: Paid
     entry_type: plugin
@@ -373,6 +391,7 @@ entries:
         - houdini-addon
   - name: TrembleFX
     url: https://shirmanor.gumroad.com/l/TrembleFX
+    added_at: '2026-04-27T10:57:58.000Z'
     description: Procedural noise generator HDA by Shir Manor.
     license: Paid
     entry_type: plugin
@@ -394,6 +413,7 @@ entries:
     url_status: ok
   - name: CamRig Pro
     url: https://shirmanor.gumroad.com/l/camrigpro
+    added_at: '2026-04-27T10:57:58.000Z'
     description: Camera rigging tool HDA by Shir Manor.
     license: Paid
     entry_type: plugin
@@ -415,6 +435,7 @@ entries:
     url_status: ok
   - name: VEX Manager
     url: https://shirmanor.gumroad.com/l/vex_manager_v1
+    added_at: '2026-04-27T10:57:58.000Z'
     description: VEX snippet/code manager HDA by Shir Manor.
     license: Paid
     entry_type: plugin
@@ -439,6 +460,7 @@ entries:
     url_status: ok
   - name: Wormhole Content Browser
     url: https://wormholetools.gumroad.com/l/whbrowser
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Custom Houdini UI for browsing, previewing, and importing content.
     entry_type: tool
     license: Paid
@@ -458,6 +480,7 @@ entries:
       - asset-browser
   - name: cb-houdini-tools (conlen-b)
     url: https://github.com/conlen-b/cb-houdini-tools
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Collection of Houdini utility tools and HDAs.
     license: Open Source
     entry_type: plugin
@@ -474,6 +497,7 @@ entries:
     url_status: ok
   - name: Houdini-scripts (JoseZalez)
     url: https://github.com/JoseZalez/Houdini-scripts
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Python scripts and utilities for Houdini.
     license: Open Source
     entry_type: tool

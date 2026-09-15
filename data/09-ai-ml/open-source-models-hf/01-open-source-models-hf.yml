@@ -1,6 +1,7 @@
 entries:
   - name: SV3D (Stable Video 3D)
     url: https://huggingface.co/stabilityai/sv3d
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Orbital video from single image.
     license: Open Source
     entry_type: reference
@@ -18,6 +19,7 @@ entries:
     url_status: ok
   - name: Hunyuan Video I2V
     url: https://huggingface.co/tencent/HunyuanVideo-I2V
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Image-to-video, multilingual.
     license: Open Source
     entry_type: reference
@@ -35,6 +37,7 @@ entries:
     url_status: ok
   - name: Hugging Face Transformers
     url: https://huggingface.co/transformers
+    added_at: '2026-04-19T17:15:03.000Z'
     description: NLP models and pipelines.
     license: Open Source
     entry_type: reference
@@ -52,6 +55,7 @@ entries:
     url_status: ok
   - name: sd-concepts-library (Stable Diffusion Concepts Library)
     url: https://huggingface.co/sd-concepts-library
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Community library of Stable Diffusion textual-inversion concepts to browse and use in prompts.
     license: Open Source
     entry_type: reference

@@ -1,6 +1,7 @@
 entries:
   - name: 10 Tips for Better Lighting
     url: https://helloluxx.com/tutorial/10-tips-for-better-lighting/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Helloluxx lighting tips.
     entry_type: tutorial
     license: Free
@@ -18,6 +19,7 @@ entries:
         - web
   - name: The Digital Revolution
     url: https://www.youtube.com/@TheDigitalRevolutionTV
+    added_at: '2026-04-19T19:05:38.000Z'
     description: Beginner C4D lighting.
     entry_type: channel
     license: Free
@@ -37,6 +39,7 @@ entries:
     url_status: ok
   - name: Get Better Lighting in C4D
     url: https://www.youtube.com/@lukasthorup
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Improve C4D lighting.
     entry_type: channel
     license: Free
@@ -56,6 +59,7 @@ entries:
         - motion-graphics
   - name: School of Motion Lighting Blog
     url: https://www.schoolofmotion.com/blog/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Shadows, volumetrics, HDRI, and area light techniques.
     entry_type: reference
     license: Free
@@ -75,6 +79,7 @@ entries:
         - motion-graphics
   - name: Creative Shrimp
     url: https://www.creativeshrimp.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender CG art and lighting tutorials by Gleb Alexandrov and Aidy Burrows.
     entry_type: tutorial
     license: Free

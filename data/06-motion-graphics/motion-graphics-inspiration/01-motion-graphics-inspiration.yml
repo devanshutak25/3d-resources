@@ -1,6 +1,7 @@
 entries:
   - name: Motionographer
     url: http://motionographer.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion design showcase.
     entry_type: inspiration
     license: Free
@@ -16,6 +17,7 @@ entries:
         - web
   - name: Eyecannndy
     url: https://eyecannndy.com/featured/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Visual effects and motion inspiration.
     entry_type: inspiration
     license: Free
@@ -31,6 +33,7 @@ entries:
         - web
   - name: Ads of the World
     url: https://www.adsoftheworld.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Advertising reference.
     entry_type: inspiration
     license: Free
@@ -46,6 +49,7 @@ entries:
         - web
   - name: Opening Titles (Vimeo)
     url: https://vimeo.com/theopeningtitles
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Title sequence collection.
     entry_type: inspiration
     license: Free
@@ -61,6 +65,7 @@ entries:
         - web
   - name: Flim AI
     url: https://flim.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Film frame search engine.
     entry_type: tool
     license: Freemium
@@ -80,6 +85,7 @@ entries:
       - art-design-visual-storytelling/pre-production-tools
   - name: PlayPhrase.me
     url: https://www.playphrase.me/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Phrase-based film clip search.
     entry_type: tool
     license: Freemium
@@ -95,6 +101,7 @@ entries:
         - web
   - name: John Berube
     url: https://johnberube.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion design portfolio and resources.
     entry_type: inspiration
     license: Free
@@ -110,6 +117,7 @@ entries:
         - web
   - name: Art of the Title
     url: https://artofthetitle.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Title sequence deep dives.
     entry_type: reference
     license: Free
@@ -127,6 +135,7 @@ entries:
       - art-design-visual-storytelling/pre-production-tools
   - name: Stash Magazine
     url: https://stashmedia.tv/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion design and animation showcase.
     entry_type: inspiration
     license: Freemium
@@ -142,6 +151,7 @@ entries:
         - web
   - name: Behance Motion
     url: https://www.behance.net/galleries/motion
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Motion design gallery.
     entry_type: inspiration
     license: Free
@@ -157,6 +167,7 @@ entries:
         - web
   - name: Art of Style Frame
     url: https://artofstyleframe.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Style frame showcase.
     entry_type: inspiration
     license: Free
@@ -172,6 +183,7 @@ entries:
         - web
   - name: Animation Nodes (GitHub)
     url: https://github.com/JacquesLucke/animation_nodes
+    added_at: '2026-04-16T21:13:44.000Z'
     description: A node-based visual scripting system designed for motion graphics in Blender.
     entry_type: plugin
     license: Open Source
@@ -195,6 +207,7 @@ entries:
         - node-based
   - name: AEJuice
     url: https://aejuice.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free and premium motion presets, transitions, and effects packs installable directly via a panel inside After Effects.
     entry_type: marketplace
     license: Freemium
@@ -211,6 +224,7 @@ entries:
         - mac
   - name: Animation Nodes (site)
     url: https://animation-nodes.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A node-based visual scripting system designed for motion graphics in Blender.
     entry_type: plugin
     license: Open Source
@@ -234,6 +248,7 @@ entries:
         - node-based
   - name: After Effects Facebook Group
     url: https://www.facebook.com/groups/aftereffectscommunity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Join the After Effects community on Facebook.
     entry_type: community
     license: Free
@@ -249,6 +264,7 @@ entries:
         - web
   - name: RailCut
     url: https://www.jakeinmotion.com/railcut
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Multi-track clip editing directly in After Effects with NLE-style tools like ripple edit, rolling edit, slip, and slide.
     entry_type: plugin
     license: Paid
@@ -267,6 +283,7 @@ entries:
         - mac
   - name: Mobox Graphics
     url: https://www.moboxgraphics.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: In-depth After Effects tutorials focused on motion design.
     entry_type: tutorial
     license: Free
@@ -284,6 +301,7 @@ entries:
         - intermediate
   - name: nexrender
     url: https://www.nexrender.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Data-driven render automation for After Effects.
     entry_type: tool
     license: Open Source
@@ -304,6 +322,7 @@ entries:
         - opensource-alt
   - name: Reddit - r/AfterEffects
     url: https://www.reddit.com/r/AfterEffects/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: The After Effects subreddit for community discussions and sharing.
     entry_type: community
     license: Free
@@ -319,6 +338,7 @@ entries:
         - web
   - name: Trapcode Suite
     url: https://www.redgiant.com/products/trapcode-suite/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A set of 3D motion graphics and visual effects plugins for After Effects.
     entry_type: plugin
     license: Paid
@@ -335,6 +355,7 @@ entries:
         - mac
   - name: Houdini 2 AE
     url: https://vimeo.com/186204479
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tool for exporting camera and locators from Houdini to After Effects.
     entry_type: tool
     license: Free
@@ -351,6 +372,7 @@ entries:
         - mac
   - name: Rubberhose 2
     url: https://battleaxe.co/rubberhose
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Shape-layer-based IK limb rigging system for fast character animation with one-click rig creation.
     entry_type: plugin
     license: Paid
@@ -370,6 +392,7 @@ entries:
         - mac
   - name: Commotion
     url: https://github.com/mrachinskiy/commotion
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender add-on for motion graphics.
     entry_type: plugin
     license: Open Source
@@ -392,6 +415,7 @@ entries:
         - blender-addon
   - name: React UMG
     url: https://github.com/ncsoft/React-UMG
+    added_at: '2026-04-19T17:29:43.000Z'
     description: A React renderer for Unreal Motion Graphics with Unreal.js.
     entry_type: reference
     license: Open Source
@@ -416,6 +440,7 @@ entries:
     last_pushed: '2022-12-20'
   - name: Hall of Frame
     url: https://hallofframe.in/
+    added_at: '2026-08-31T17:04:12.000Z'
     description: Community-submitted archive of motion design, typography, 3D, and VFX references, filterable by category and format.
     license: Free
     entry_type: inspiration
@@ -431,6 +456,7 @@ entries:
     url_status: ok
   - name: FrameRate
     url: https://framerate.tv/
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Community showcase for motion design and music video work by video professionals.
     license: Free
     entry_type: inspiration

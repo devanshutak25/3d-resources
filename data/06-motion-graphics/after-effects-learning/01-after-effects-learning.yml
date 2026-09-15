@@ -1,6 +1,7 @@
 entries:
   - name: Top 5 Expressions (graymachine)
     url: http://www.graymachine.com/top-5-effects-expressions/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Essential AE expressions.
     entry_type: reference
     license: Free
@@ -20,6 +21,7 @@ entries:
         - after-effects
   - name: Jitter Templates
     url: https://jitter.video/templates/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free motion graphics templates.
     license: Free
     entry_type: asset-source

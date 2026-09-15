@@ -1,6 +1,7 @@
 entries:
   - name: Unity Frosted Glass
     url: https://github.com/andydbc/unity-frosted-glass
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Frosted glass material made in Unity.
     entry_type: plugin
     license: Open Source
@@ -21,6 +22,7 @@ entries:
       - glass
   - name: JourneySand
     url: https://github.com/AtwoodDeng/JourneySand
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity project reproducing the sand rendering style of Journey.
     entry_type: plugin
     license: Open Source
@@ -43,6 +45,7 @@ entries:
     last_pushed: '2018-02-22'
   - name: NVIDIA Hair Works Integration
     url: https://github.com/unity3d-jp/NVIDIAHairWorksIntegration
+    added_at: '2026-04-19T17:15:03.000Z'
     description: NVIDIA HairWorks hair simulation integration for Unity.
     entry_type: plugin
     license: Open Source
@@ -64,6 +67,7 @@ entries:
     last_pushed: '2016-05-24'
   - name: Marschner Hair Unity
     url: https://github.com/maajor/Marschner-Hair-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Marschner hair shading model implemented in Unity.
     entry_type: plugin
     license: Open Source
@@ -86,6 +90,7 @@ entries:
     last_pushed: '2020-05-06'
   - name: CarPaint
     url: https://github.com/Roland09/CarPaint
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Car paint material for the Unity Standard Assets car.
     entry_type: plugin
     license: Open Source
@@ -108,6 +113,7 @@ entries:
     last_pushed: '2018-11-25'
   - name: Dual Quaternion Skinning for Unity
     url: https://github.com/ConstantineRudenko/DQ-skinning-for-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Dual quaternion skinning implementation for Unity.
     entry_type: plugin
     license: Open Source
@@ -130,6 +136,7 @@ entries:
     last_pushed: '2023-12-18'
   - name: Pixel Render Unity3D
     url: https://github.com/kode80/pixelrenderunity3d
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Real-time rendering of 3D scenes as 2D pixel art in Unity.
     entry_type: plugin
     license: Open Source
@@ -152,6 +159,7 @@ entries:
     last_pushed: '2016-06-12'
   - name: QuadWarp
     url: https://github.com/fuqunaga/QuadWarp
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Quad-warp projection sample for Unity.
     entry_type: plugin
     license: Open Source
@@ -174,6 +182,7 @@ entries:
     last_pushed: '2017-07-31'
   - name: Unity 5 Effects
     url: https://github.com/i-saint/Unity5Effects
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of effects for Unity 5.
     entry_type: plugin
     license: Open Source
@@ -196,6 +205,7 @@ entries:
     last_pushed: '2020-10-08'
   - name: Static Blured Screen
     url: https://github.com/mob-sakai/StaticBluredScreen
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Static (non-realtime) screen blur for Unity, handy as a dialog background.
     entry_type: plugin
     license: Open Source
@@ -218,6 +228,7 @@ entries:
     last_pushed: '2019-01-03'
   - name: KinoObscurance
     url: https://github.com/keijiro/KinoObscurance
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Screen-space ambient obscurance image effect for Unity.
     entry_type: plugin
     license: Open Source
@@ -240,6 +251,7 @@ entries:
     last_pushed: '2017-10-30'
   - name: UnityEffects
     url: https://github.com/kode80/UnityEffects
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of free effects for Unity.
     entry_type: plugin
     license: Open Source
@@ -262,6 +274,7 @@ entries:
     last_pushed: '2016-05-20'
   - name: KinoBloom
     url: https://github.com/keijiro/KinoBloom
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Bloom post-processing effect for Unity.
     entry_type: plugin
     license: Open Source
@@ -284,6 +297,7 @@ entries:
     last_pushed: '2017-04-16'
   - name: Perfect Spheres
     url: https://github.com/gilescoope/perfect-spheres
+    added_at: '2026-04-19T17:15:03.000Z'
     description: System for rendering spheres cheaply and accurately in Unity.
     entry_type: plugin
     license: Open Source
@@ -306,6 +320,7 @@ entries:
     last_pushed: '2018-07-06'
   - name: A Crack In The Slab
     url: https://github.com/Broxxar/ACrackInTheSlab
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Recreation of a Dishonored 2 effect in Unity.
     entry_type: plugin
     license: Open Source
@@ -328,6 +343,7 @@ entries:
     last_pushed: '2017-07-17'
   - name: SonarFx
     url: https://github.com/keijiro/SonarFx
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Sonar scanning effect for Unity.
     entry_type: plugin
     license: Open Source
@@ -350,6 +366,7 @@ entries:
     last_pushed: '2014-08-09'
   - name: kode80SSR
     url: https://github.com/kode80/kode80SSR
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source screen-space reflections for Unity 5.
     entry_type: plugin
     license: Open Source
@@ -372,6 +389,7 @@ entries:
     last_pushed: '2017-07-20'
   - name: Volumetric Clouds
     url: https://github.com/jaagupku/volumetric-clouds
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Volumetric clouds for Unity.
     entry_type: plugin
     license: Open Source
@@ -394,6 +412,7 @@ entries:
     last_pushed: '2023-03-07'
   - name: Edge Detect Post Processing Unity
     url: https://github.com/jean-moreno/EdgeDetect-PostProcessingUnity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity legacy edge-detect image effect ported to Post Processing Stack v2.
     entry_type: plugin
     license: Open Source
@@ -416,6 +435,7 @@ entries:
     last_pushed: '2019-10-27'
   - name: Koch's Fractals
     url: https://github.com/hww/koch_fractals
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Koch fractals demo for Unity.
     entry_type: plugin
     license: Open Source
@@ -438,6 +458,7 @@ entries:
     last_pushed: '2019-02-25'
   - name: SDF Gen Unity
     url: https://github.com/mmerchante/sdf-gen-unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Signed distance function generator running inside Unity.
     entry_type: plugin
     license: Open Source
@@ -460,6 +481,7 @@ entries:
     last_pushed: '2018-05-20'
   - name: Smrvfx
     url: https://github.com/keijiro/Smrvfx
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Example passing skinned-mesh data into the Unity VFX Graph.
     entry_type: plugin
     license: Open Source
@@ -482,6 +504,7 @@ entries:
     last_pushed: '2022-10-12'
   - name: Simple Light Probe Placer
     url: https://github.com/AlexanderVorobyov/simple-light-probe-placer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Simple tool for placing light probes in Unity scenes.
     entry_type: tool
     license: Open Source
@@ -505,6 +528,7 @@ entries:
     last_pushed: '2019-01-08'
   - name: Light Probes Placement
     url: https://github.com/laurenth-unity/LightProbesPlacement
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity project showing automatic light probe placement via the LightProbesVolumes package.
     entry_type: plugin
     license: Open Source
@@ -527,6 +551,7 @@ entries:
     last_pushed: '2019-01-03'
   - name: Volumetric Lines Unity
     url: https://github.com/johannesugb/VolumetricLinesUnity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Source for the Volumetric Lines Unity Asset Store asset.
     entry_type: plugin
     license: Open Source
@@ -549,6 +574,7 @@ entries:
     last_pushed: '2022-02-20'
   - name: ProbePolisher
     url: https://github.com/keijiro/ProbePolisher
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Light probe editor for Unity.
     entry_type: plugin
     license: Open Source
@@ -571,6 +597,7 @@ entries:
     last_pushed: '2014-02-11'
   - name: Unity Raytracer
     url: https://github.com/SIZMW/unity-raytracer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Ray tracing demo built in Unity.
     entry_type: plugin
     license: Open Source
@@ -594,6 +621,7 @@ entries:
     last_pushed: '2017-09-18'
   - name: Ray Marching
     url: https://github.com/SebLague/Ray-Marching
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Ray marching of signed distance functions in Unity, by Sebastian Lague.
     entry_type: plugin
     license: Open Source
@@ -616,6 +644,7 @@ entries:
     last_pushed: '2021-04-08'
   - name: VoxelWorld
     url: https://github.com/SidiaDevelopment/VoxelWorld
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Voxel world demo built in Unity.
     entry_type: plugin
     license: Open Source
@@ -639,6 +668,7 @@ entries:
     last_pushed: '2022-04-21'
   - name: Voxel Mesh Generator
     url: https://github.com/chulini/VoxelMeshGenerator
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Generates voxel 3D meshes in Unity using greedy meshing.
     entry_type: plugin
     license: Open Source
@@ -661,6 +691,7 @@ entries:
     last_pushed: '2018-11-13'
   - name: Warfest Voxel Unity
     url: https://github.com/ArnaudValensi/warfest-voxel-unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Voxel game prototype made with Unity.
     entry_type: plugin
     license: Open Source
@@ -683,6 +714,7 @@ entries:
     last_pushed: '2018-09-19'
   - name: Unity Voxel Tools
     url: https://github.com/meniku/UnityVoxelTools
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of voxel utilities for Unity. Experimental.
     entry_type: plugin
     license: Open Source
@@ -705,6 +737,7 @@ entries:
     last_pushed: '2018-04-27'
   - name: Voxelmetric
     url: https://github.com/richardbiely/Voxelmetric
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Efficient voxel framework for Unity.
     entry_type: tool
     license: Open Source
@@ -727,6 +760,7 @@ entries:
     last_pushed: '2023-12-16'
   - name: MiniMap
     url: https://github.com/Area730/MiniMap
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Minimap and radar system for Unity.
     entry_type: plugin
     license: Open Source
@@ -749,6 +783,7 @@ entries:
     last_pushed: '2016-04-18'
   - name: uGUI LinkImageText
     url: https://github.com/akof1314/uGUI_LinkImageText
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Adds inline links and images to Unity uGUI Text.
     entry_type: plugin
     license: Open Source
@@ -771,6 +806,7 @@ entries:
     last_pushed: '2019-05-21'
   - name: Typogenic
     url: https://github.com/Chman/Typogenic
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Signed-distance-field text rendering for Unity.
     entry_type: plugin
     license: Open Source
@@ -794,6 +830,7 @@ entries:
     last_pushed: '2017-07-11'
   - name: Unity UI Polygon
     url: https://github.com/CiaccoDavide/Unity-UI-Polygon
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Polygon renderer for the Unity UI system.
     entry_type: plugin
     license: Open Source
@@ -816,6 +853,7 @@ entries:
     last_pushed: '2021-03-11'
   - name: Enhanced Scroll View
     url: https://github.com/tinyantstudio/EnhancedScrollView
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 3D scroll view for Unity (NGUI and uGUI support).
     entry_type: plugin
     license: Open Source
@@ -838,6 +876,7 @@ entries:
     last_pushed: '2021-11-23'
   - name: InfinityScroll
     url: https://github.com/ivomarel/InfinityScroll
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Makes Unity ScrollRects scroll infinitely.
     entry_type: plugin
     license: Open Source
@@ -860,6 +899,7 @@ entries:
     last_pushed: '2023-03-11'
   - name: Unity Dynamic Scroll View
     url: https://github.com/aillieo/UnityDynamicScrollView
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Dynamic scroll view built on uGUI.
     entry_type: plugin
     license: Open Source
@@ -880,6 +920,7 @@ entries:
       - scroll
   - name: Unity Scrolly
     url: https://github.com/alhaddado/unity-scrolly
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Touch/drag scroll list using Unity GUI (4.6+).
     entry_type: plugin
     license: Open Source
@@ -902,6 +943,7 @@ entries:
     last_pushed: '2015-02-20'
   - name: Variable Infinite Scroll
     url: https://github.com/ToshikiImagawa/Variable-infinite-scroll
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Variable-size infinite scroll for Unity UI.
     entry_type: plugin
     license: Open Source
@@ -924,6 +966,7 @@ entries:
     last_pushed: '2024-03-11'
   - name: Unity Simple File Browser
     url: https://github.com/yasirkula/UnitySimpleFileBrowser
+    added_at: '2026-04-19T17:15:03.000Z'
     description: uGUI-based runtime file browser for Unity, draggable and resizable.
     entry_type: plugin
     license: Open Source
@@ -944,6 +987,7 @@ entries:
       - file-browser
   - name: Unity VariableTileLayout
     url: https://github.com/kiepng/Unity-VariableTileLayout
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Pinterest-style variable tile layout for Unity UI.
     entry_type: plugin
     license: Open Source
@@ -966,6 +1010,7 @@ entries:
     last_pushed: '2019-11-12'
   - name: Unity Pause Menu
     url: https://github.com/GreatArcStudios/unitypausemenu
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source pause menu for Unity, originally built for the game New Horizons.
     entry_type: plugin
     license: Open Source
@@ -988,6 +1033,7 @@ entries:
     last_pushed: '2019-07-30'
   - name: Beautiful Text Outline for Unity UI
     url: https://github.com/n-yoda/unity-vertex-effects
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Text outline and vertex effects for Unity UI.
     entry_type: plugin
     license: Open Source
@@ -1010,6 +1056,7 @@ entries:
     last_pushed: '2016-08-17'
   - name: OpenGUI
     url: https://github.com/mrzapp/opengui
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source GUI framework for Unity.
     entry_type: tool
     license: Open Source
@@ -1032,6 +1079,7 @@ entries:
     last_pushed: '2020-11-30'
   - name: Xamarin.Forms.Unity
     url: https://github.com/aosoft/Xamarin.Forms.Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Xamarin.Forms platform implementation for Unity.
     entry_type: plugin
     license: Open Source
@@ -1054,6 +1102,7 @@ entries:
     last_pushed: '2019-06-03'
   - name: FlexibleUI Unity
     url: https://github.com/rameshporeddy/FlexibleUI-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Multiple GUI theme system for Unity.
     entry_type: plugin
     license: Open Source
@@ -1076,6 +1125,7 @@ entries:
     last_pushed: '2020-02-15'
   - name: Unity LoMenu
     url: https://github.com/paulgswanson/Unity_LoMenu
+    added_at: '2026-04-19T17:15:03.000Z'
     description: UI menu package for Unity.
     entry_type: plugin
     license: Open Source

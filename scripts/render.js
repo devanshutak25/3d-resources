@@ -338,7 +338,7 @@ function renderSubsection(section, sub, sectionFile) {
     lines.push('');
   }
 
-  // Skip deprecated entries from README (link checker auto-flags these).
+  // Skip editorially deprecated entries from README.
   const rawEntries = loadSubEntries(sectionFile, sub.slug, section.slug);
   const active = alphaSort(rawEntries.filter(e => !e.deprecated));
   const software = active.filter(e => e.entry_type === 'software');

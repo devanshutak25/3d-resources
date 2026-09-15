@@ -1,6 +1,7 @@
 entries:
   - name: Autodesk Flow Studio (Wonder Dynamics)
     url: https://www.autodesk.com/products/flow-studio/overview
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI VFX, auto CG characters in live footage, USD export.
     license: Paid
     entry_type: software
@@ -22,6 +23,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Topaz Photo AI / Video AI
     url: https://www.topazlabs.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Upscaling, denoising, and sharpening. Topaz Bloom adds unlimited creative upscaling.
     license: Paid
     entry_type: software
@@ -38,6 +40,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Magnific AI
     url: https://magnific.ai/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Creative upscaler that adds detail. Folded into Freepik plans Apr 2026.
     license: Paid
     entry_type: software
@@ -54,6 +57,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Blockade Labs Skybox AI
     url: https://www.blockadelabs.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI-generated 360° skyboxes/HDRIs from text.
     license: Freemium
     entry_type: software
@@ -72,6 +76,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Unity Muse
     url: https://unity.com/products/muse
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Unity in-editor AI for texture, sprite, and animation generation.
     license: Paid
     entry_type: software
@@ -87,6 +92,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Rosebud AI
     url: https://rosebud.ai
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Vibe coding platform for creating 3D games and interactive web apps with AI.
     license: Freemium
     entry_type: software
@@ -102,6 +108,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Gigapixel AI
     url: https://topazlabs.com/gigapixel-ai/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: AI photo enlargement that adds detail to upscaled images.
     entry_type: software
     license: Paid
@@ -115,6 +122,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Upscayl
     url: https://upscayl.org/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Open-source desktop upscaler that runs locally at no cost.
     entry_type: software
     license: Open Source
@@ -136,6 +144,7 @@ entries:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Let's Enhance
     url: https://letsenhance.io/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Photo upscaler up to 16x with a free tier.
     entry_type: software
     license: Freemium

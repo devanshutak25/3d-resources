@@ -1,6 +1,7 @@
 entries:
   - name: NukePedia
     url: https://www.nukepedia.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Canonical Nuke community library. Gizmos, scripts, tutorials, plugins.
     license: Free
     entry_type: community
@@ -21,6 +22,7 @@ entries:
       - software-reference/vfx-compositing-software
   - name: Hugo's Desk (Hugo Guerra)
     url: https://hugosdesk.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Pro Nuke compositing tutorials and breakdowns from CG Supe Hugo Guerra.
     license: Mixed
     entry_type: channel
@@ -41,6 +43,7 @@ entries:
     url_status: ok
   - name: CompositingMentor
     url: https://compositingmentor.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Tobias Wiesner's paid mentorship-style Nuke courses. Deep compositing focus.
     license: Paid
     entry_type: tutorial
@@ -61,6 +64,7 @@ entries:
     url_status: ok
   - name: Foundry Learn (Nuke)
     url: https://learn.foundry.com/nuke
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Official Foundry training. Free tutorials plus certification tracks.
     license: Free
     entry_type: reference
@@ -81,6 +85,7 @@ entries:
     url_status: ok
   - name: Steve Wright Training
     url: https://stevewright.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Steve Wright (author of the standard Nuke text) structured comp course series.
     license: Paid
     entry_type: tutorial
@@ -101,6 +106,7 @@ entries:
     url_status: ok
   - name: VFX Apprentice (Allan McKay)
     url: https://allanmckay.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Paid VFX career courses. Nuke + Houdini overlap.
     license: Paid
     entry_type: tutorial
@@ -122,6 +128,7 @@ entries:
     url_status: ok
   - name: 'Book: Digital Compositing for Film and Video (Steve Wright, 4th ed.)'
     url: https://www.routledge.com/Digital-Compositing-for-Film-and-Video-Production-Workflows-and-Techniques/Wright/p/book/9781138240407
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Standard text on digital compositing. Math + practical workflow.
     license: Paid
     entry_type: book
@@ -142,6 +149,7 @@ entries:
     url_status: ok
   - name: 'Book: The Art and Science of Digital Compositing (Brinkmann, 2nd ed.)'
     url: https://www.elsevier.com/books/the-art-and-science-of-digital-compositing/brinkmann/978-0-12-370638-6
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Ron Brinkmann's theoretical canon for digital compositing.
     license: Paid
     entry_type: book
@@ -162,6 +170,7 @@ entries:
     url_status: ok
   - name: 'Book: Compositing Visual Effects (Lee Lanier)'
     url: https://www.routledge.com/Compositing-Visual-Effects-in-After-Effects/Lanier/p/book/9780367403027
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Lee Lanier. Applied, project-based comp instruction.
     license: Paid
     entry_type: book
@@ -182,6 +191,7 @@ entries:
     url_status: ok
   - name: Befores & Afters
     url: https://beforesandafters.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Ian Failes. Shot breakdowns and artist Q&As across VFX features.
     entry_type: channel
     best_for: VFX shot breakdowns
@@ -199,6 +209,7 @@ entries:
       - learning-community-industry/inspiration-showcase
   - name: The Art of VFX
     url: https://www.artofvfx.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: VFX supervisor interviews per film.
     entry_type: channel
     best_for: VFX supervisor interviews
@@ -214,6 +225,7 @@ entries:
     url_status: ok
   - name: 8-bit to Half Float CopyCat (Moving Image Arts)
     url: https://movingimagearts.com/8-bit-to-half-float-copycat/
+    added_at: '2026-06-03T07:24:09.000Z'
     description: Free Nuke CopyCat ML model plus tutorial. Recovers clamped highlights and reduces 8-bit color banding. Downloadable .cat file.
     license: Free
     entry_type: tutorial
@@ -236,6 +248,7 @@ entries:
     url_status: ok
   - name: Compositing Academy
     url: https://www.compositingacademy.com/
+    added_at: '2026-06-03T15:01:11.000Z'
     description: Paid Nuke compositing courses and career training from working VFX compositors.
     license: Paid
     entry_type: tutorial
@@ -256,6 +269,7 @@ entries:
     url_status: ok
   - name: Cinefex (archive)
     url: https://www.cinefex.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Legacy VFX-making journal archives.
     entry_type: channel
     best_for: VFX-making history

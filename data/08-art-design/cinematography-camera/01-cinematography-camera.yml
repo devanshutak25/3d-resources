@@ -1,6 +1,7 @@
 entries:
   - name: StudioBinder Film Guides
     url: https://www.studiobinder.com/category/directing/cinematography/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Shot composition, camera shots encyclopedia, camera movements, lighting.
     entry_type: reference
     license: Free
@@ -22,6 +23,7 @@ entries:
       - art-design-visual-storytelling/pre-production-tools
   - name: No Film School. Cinematography
     url: https://nofilmschool.com/topics/cinematography-cameras
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Constant stream of technique articles.
     entry_type: reference
     license: Free
@@ -41,6 +43,7 @@ entries:
         - intermediate
   - name: Every Frame a Painting
     url: https://www.youtube.com/@everyframeapainting
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Gold-standard video essays on composition, camera, editing rhythm.
     entry_type: channel
     license: Free
@@ -62,6 +65,7 @@ entries:
       - art-design-visual-storytelling/pre-production-tools
   - name: CinemaTyler
     url: https://www.youtube.com/@CinemaTyler
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Deep analysis of lens choice, color, blocking, lighting in film.
     entry_type: channel
     license: Free
@@ -81,6 +85,7 @@ entries:
         - intermediate
   - name: Wolfcrow
     url: https://www.youtube.com/@wolfcrow
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cinematography fundamentals, color science, exposure theory.
     entry_type: channel
     license: Free
@@ -100,6 +105,7 @@ entries:
         - intermediate
   - name: In Depth Cine
     url: https://www.youtube.com/@InDepthCine
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Practical lighting setups and narrative technique.
     entry_type: channel
     license: Free
@@ -119,6 +125,7 @@ entries:
         - intermediate
   - name: Shane Hurlbut ASC Blog
     url: https://www.hurlbutvisuals.com/blog
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Real DP knowledge on cinematography, lens choice, lighting setups.
     entry_type: channel
     license: Free
@@ -139,6 +146,7 @@ entries:
         - advanced
   - name: Roger Deakins on Learning to Light Ep. 1
     url: https://www.youtube.com/watch?v=K9w8I_YD29E
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cinematography Techniques Ep. 1.
     entry_type: tutorial
     license: Free
@@ -158,6 +166,7 @@ entries:
         - intermediate
   - name: Roger Deakins on Learning to Light Ep. 2
     url: https://www.youtube.com/watch?v=Ly6pErhA3NA
+    added_at: '2026-07-14T07:58:47.000Z'
     description: Cinematography Techniques Ep. 2.
     entry_type: tutorial
     license: Free
@@ -177,6 +186,7 @@ entries:
         - intermediate
   - name: Roger Deakins on Learning to Light Ep. 3
     url: https://www.youtube.com/watch?v=G_0M_GHw9GI
+    added_at: '2026-07-14T07:58:47.000Z'
     description: Cinematography Techniques Ep. 3.
     entry_type: tutorial
     license: Free
@@ -196,6 +206,7 @@ entries:
         - intermediate
   - name: How to Create Stunning Cinematic Lighting
     url: https://www.youtube.com/watch?v=eZ5hpcn6tIM
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Cinematic lighting tutorial.
     entry_type: tutorial
     license: Free

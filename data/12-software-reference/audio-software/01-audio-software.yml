@@ -1,6 +1,7 @@
 entries:
   - name: Audacity
     url: https://www.audacityteam.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source audio editor and recorder.
     license: Open Source
     entry_type: software
@@ -26,6 +27,7 @@ entries:
     url_status: ok
   - name: Adobe Audition
     url: https://www.adobe.com/products/audition.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Professional audio workstation.
     license: Paid
     entry_type: software
@@ -50,6 +52,7 @@ entries:
     url_status: unreachable
   - name: Reaper
     url: https://www.reaper.fm/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Full DAW with $60 personal license.
     pricing: $60 personal license
     license: Paid
@@ -76,6 +79,7 @@ entries:
     url_status: ok
   - name: Fairlight
     url: https://www.blackmagicdesign.com/products/davinciresolve/fairlight
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Professional audio built into DaVinci Resolve.
     license: Freemium
     entry_type: software
@@ -98,6 +102,7 @@ entries:
     url_status: ok
   - name: Soundly
     url: https://getsoundly.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Desktop SFX platform with curated library and local library management.
     pricing: Free tier (3000+ sounds), Pro $14.99/mo
     license: Freemium
@@ -120,6 +125,7 @@ entries:
     url_status: ok
   - name: Bfxr
     url: https://www.bfxr.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Retro and chiptune SFX generator (browser and desktop).
     license: Open Source
     entry_type: software
@@ -143,6 +149,7 @@ entries:
     url_status: ok
   - name: Wavewright
     url: https://store.steampowered.com/app/4149720/Wavewright/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Modular music sandbox inspired by analog synthesizers (Early Access).
     license: Free
     entry_type: software
@@ -162,6 +169,7 @@ entries:
     url_status: ok
   - name: FMOD
     url: https://www.fmod.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Industry-standard adaptive audio. Free for indie <$200k.
     license: Freemium
     entry_type: software
@@ -180,6 +188,7 @@ entries:
       - game-development/game-dev-audio-middleware
   - name: Wwise
     url: https://www.audiokinetic.com/en/wwise/overview/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AAA audio middleware with free tier.
     license: Freemium
     entry_type: software
@@ -198,6 +207,7 @@ entries:
       - game-development/game-dev-audio-middleware
   - name: Steam Audio
     url: https://valvesoftware.github.io/steam-audio/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Physics-based spatial audio by Valve. Free.
     license: Free
     entry_type: software
@@ -218,6 +228,7 @@ entries:
       - game-development/game-dev-audio-middleware
   - name: Ableton Live
     url: https://www.ableton.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Session and arrangement DAW. Standard for electronic music and live performance.
     pricing: Intro $99 / Standard $439 / Suite $749
     license: Paid
@@ -236,6 +247,7 @@ entries:
     url_status: ok
   - name: FL Studio
     url: https://www.image-line.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Pattern-based DAW with lifetime free updates.
     pricing: From $99
     license: Paid
@@ -254,6 +266,7 @@ entries:
     url_status: ok
   - name: Logic Pro
     url: https://www.apple.com/logic-pro/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Apple pro DAW for macOS and iPad.
     pricing: $199.99 perpetual (Mac) / $4.99/mo (iPad)
     license: Paid
@@ -272,6 +285,7 @@ entries:
     url_status: ok
   - name: Pro Tools
     url: https://www.avid.com/pro-tools
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Industry standard for post-production audio mixing and finishing.
     pricing: From $9.99/mo (Studio $34.99/mo, Ultimate $99/mo)
     license: Paid
@@ -293,6 +307,7 @@ entries:
     url_status: ok
   - name: Studio One
     url: https://www.presonus.com/products/Studio-One
+    added_at: '2026-05-22T16:39:01.000Z'
     description: PreSonus drag-flow DAW.
     license: Paid
     entry_type: software
@@ -310,6 +325,7 @@ entries:
     url_status: ok
   - name: Cubase
     url: https://www.steinberg.net/cubase/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Steinberg DAW with strong MIDI and scoring.
     license: Paid
     entry_type: software
@@ -327,6 +343,7 @@ entries:
     url_status: ok
   - name: Bitwig Studio
     url: https://www.bitwig.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: DAW with deep modular Grid synthesis engine.
     license: Paid
     entry_type: software
@@ -345,6 +362,7 @@ entries:
     url_status: ok
   - name: Ardour
     url: https://ardour.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: OSS multitrack DAW.
     license: Open Source
     entry_type: software
@@ -365,6 +383,7 @@ entries:
     url_status: ok
   - name: LMMS
     url: https://lmms.io/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Free FL-style DAW, cross-platform.
     license: Open Source
     entry_type: software
@@ -385,6 +404,7 @@ entries:
     url_status: ok
   - name: Cakewalk by BandLab
     url: https://www.bandlab.com/products/cakewalk
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Full Sonar successor, free on Windows.
     license: Free
     entry_type: software
@@ -401,6 +421,7 @@ entries:
     url_status: ok
   - name: VCV Rack
     url: https://vcvrack.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Open-source Eurorack modular synthesizer emulator. Free core; paid Pro and premium modules.
     pricing: Free core / $149 Pro
     license: Open Source
@@ -423,6 +444,7 @@ entries:
     url_status: ok
   - name: Pure Data (Pd)
     url: https://puredata.info/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Open-source visual programming environment for audio, MIDI, and multimedia.
     license: Open Source
     entry_type: software
@@ -444,6 +466,7 @@ entries:
     url_status: ok
   - name: Max/MSP (Cycling '74)
     url: https://cycling74.com/products/max
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Visual patcher for audio, MIDI, and video (Jitter).
     license: Paid
     entry_type: software
@@ -462,6 +485,7 @@ entries:
     url_status: ok
   - name: SuperCollider
     url: https://supercollider.github.io/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Server-based audio synthesis and livecoding language.
     license: Open Source
     entry_type: software
@@ -481,6 +505,7 @@ entries:
     url_status: ok
   - name: Sonic Pi
     url: https://sonic-pi.net/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Code-based music livecoding environment, education-friendly.
     license: Open Source
     entry_type: software
@@ -502,6 +527,7 @@ entries:
     url_status: ok
   - name: TidalCycles
     url: https://tidalcycles.org/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Haskell-based pattern livecoding for algoraves.
     license: Open Source
     entry_type: software
@@ -521,6 +547,7 @@ entries:
     url_status: ok
   - name: Strudel
     url: https://strudel.cc/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Browser TidalCycles port (JS).
     license: Open Source
     entry_type: software
@@ -538,6 +565,7 @@ entries:
     url_status: ok
   - name: iZotope RX
     url: https://www.izotope.com/en/products/rx.html
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Industry-standard audio restoration suite.
     pricing: From $399
     license: Paid
@@ -559,6 +587,7 @@ entries:
     url_status: ok
   - name: FabFilter Pro Suite
     url: https://www.fabfilter.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Pro EQ, compressor, reverb, and limiter plugins (Pro-Q, Pro-L).
     license: Paid
     entry_type: software
@@ -576,6 +605,7 @@ entries:
     url_status: ok
   - name: Krotos
     url: https://www.krotosaudio.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Performance-driven foley and monster vox plugins (Reformer, Dehumaniser).
     license: Paid
     entry_type: software
@@ -596,6 +626,7 @@ entries:
     url_status: ok
   - name: Sound Particles
     url: https://soundparticles.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: CGI-style 3D sound design with thousands of simultaneous sources. Big in immersive/film audio.
     license: Paid
     entry_type: software
@@ -616,6 +647,7 @@ entries:
     url_status: ok
   - name: GameSynth (Tsugi)
     url: https://tsugi-studio.com/web/en/products-gamesynth.html
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Node-based procedural SFX generator for games.
     license: Paid
     entry_type: software
@@ -634,6 +666,7 @@ entries:
     url_status: ok
   - name: Dolby Atmos Renderer
     url: https://professional.dolby.com/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Reference Dolby Atmos production renderer.
     license: Paid
     entry_type: software
@@ -654,6 +687,7 @@ entries:
     url_status: ok
   - name: Flux Spat Revolution
     url: https://www.flux.audio/project/spat-revolution/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: IRCAM-derived object-based spatializer for immersive mixing.
     license: Paid
     entry_type: software
@@ -674,6 +708,7 @@ entries:
     url_status: ok
   - name: Resonance Audio
     url: https://resonance-audio.github.io/resonance-audio/
+    added_at: '2026-05-22T16:39:01.000Z'
     description: Google's open-source ambisonic spatial audio SDK.
     license: Open Source
     entry_type: reference
@@ -691,6 +726,7 @@ entries:
     url_status: ok
   - name: GarageBand
     url: https://apps.apple.com/us/app/garageband/id408709785
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Free Apple DAW with built-in loops, drummers, and amp models.
     license: Free
     entry_type: software
@@ -711,6 +747,7 @@ entries:
     url_status: ok
   - name: SoundThread
     url: https://github.com/j-p-higgins/SoundThread
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Node-based patching front end for the Composers Desktop Project sound manipulation tools.
     license: Open Source
     entry_type: software
@@ -735,6 +772,7 @@ entries:
     url_status: ok
   - name: Audio Design Desk
     url: https://audiodesigndesk.com/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Sound design app that places SFX, foley, and music against picture from typed cues.
     license: Paid
     entry_type: software
@@ -756,6 +794,7 @@ entries:
     url_status: ok
   - name: Ocenaudio
     url: https://www.ocenaudio.com/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Free waveform editor with real-time effect preview and large-file handling.
     license: Free
     entry_type: software
@@ -777,6 +816,7 @@ entries:
     url_status: ok
   - name: Waveform Free
     url: https://www.tracktion.com/products/waveform-free
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Tracktion DAW with unlimited tracks at no cost.
     license: Free
     entry_type: software
@@ -795,6 +835,7 @@ entries:
     url_status: ok
   - name: Renoise
     url: https://www.renoise.com/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Tracker-style DAW with sample-level editing and per-line command control.
     pricing: $75 perpetual
     license: Paid
@@ -816,6 +857,7 @@ entries:
     url_status: ok
   - name: Bespoke Synth
     url: https://www.bespokesynth.com/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Open-source modular DAW where patch cables rewire the signal path while it plays.
     license: Open Source
     entry_type: software
@@ -837,6 +879,7 @@ entries:
     url_status: unreachable
   - name: Surge XT
     url: https://surge-synthesizer.github.io/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Open-source hybrid synthesizer with wavetable, FM, and subtractive engines.
     license: Open Source
     entry_type: software
@@ -857,6 +900,7 @@ entries:
     url_status: ok
   - name: Vital
     url: https://vital.audio/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Spectral warping wavetable synth. Free tier covers most sound design work.
     pricing: Free / Plus $25 / Pro $80
     license: Freemium
@@ -876,6 +920,7 @@ entries:
     url_status: ok
   - name: Csound
     url: https://csound.com/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Sound and music computing system with a text-based orchestra and score model.
     license: Open Source
     entry_type: software
@@ -899,6 +944,7 @@ entries:
     url_status: ok
   - name: ChucK
     url: https://chuck.stanford.edu/
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Strongly timed audio programming language for livecoding and synthesis.
     license: Open Source
     entry_type: software
@@ -920,6 +966,7 @@ entries:
     url_status: ok
   - name: Melodyne
     url: https://www.celemony.com/en/melodyne
+    added_at: '2026-08-03T19:44:41.000Z'
     description: Pitch and timing editor that separates notes inside polyphonic recordings.
     license: Paid
     entry_type: software

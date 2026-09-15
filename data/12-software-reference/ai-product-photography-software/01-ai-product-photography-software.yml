@@ -1,6 +1,7 @@
 entries:
   - name: Omi
     url: https://www.omi.so/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: 3D digital twins of products for virtual photoshoots. Built for CPG brands.
     license: Paid
     entry_type: software
@@ -19,6 +20,7 @@ entries:
     url_status: ok
   - name: Flair.ai
     url: https://flair.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: AI product photography canvas. Drag products into staged scenes.
     license: Freemium
     entry_type: software
@@ -36,6 +38,7 @@ entries:
     url_status: ok
   - name: Claid.ai
     url: https://claid.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Catalog image cleanup and AI product shots at ecommerce scale.
     license: Freemium
     entry_type: software
@@ -54,6 +57,7 @@ entries:
     url_status: ok
   - name: Photoroom
     url: https://www.photoroom.com/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Marketplace-first mobile app for batch product listing images.
     license: Freemium
     entry_type: software
@@ -74,6 +78,7 @@ entries:
     url_status: ok
   - name: Threekit
     url: https://www.threekit.com/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Enterprise 3D twins with photoreal renders and configurators from one file.
     license: Paid
     entry_type: software
@@ -92,6 +97,7 @@ entries:
     url_status: ok
   - name: Emersya
     url: https://emersya.com/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: 3D and AR product experiences from ideation to ecommerce.
     license: Paid
     entry_type: software

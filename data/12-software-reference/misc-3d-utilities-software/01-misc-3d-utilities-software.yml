@@ -1,6 +1,7 @@
 entries:
   - name: JanusVR
     url: https://janusvr.com/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Webpages as collaborative 3D webspaces interconnected by portals.
     license: Open Source
     entry_type: software
@@ -13,6 +14,7 @@ entries:
         - xr
   - name: Polygonjs
     url: https://polygonjs.com
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Node-based WebGL design tool, used for procedural geometry, particles, materials
     license: Freemium
     entry_type: software
@@ -26,6 +28,7 @@ entries:
       - lighting-rendering-shaders/rendering-shader-theory
   - name: Storm HydroFX
     url: https://storm-vfx.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Real-time liquid and fluid simulation tool.
     license: Paid
     entry_type: software
@@ -43,6 +46,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Blockbench
     url: https://www.blockbench.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free low-poly/voxel 3D modeler.
     license: Free
     entry_type: software
@@ -59,6 +63,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: MeshLab
     url: https://www.meshlab.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source mesh processing, essential for photogrammetry cleanup.
     license: Open Source
     entry_type: software
@@ -76,6 +81,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Photopea
     url: https://www.photopea.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free browser-based Photoshop alternative with full PSD support.
     license: Free
     entry_type: software
@@ -93,6 +99,7 @@ entries:
       - art-design-visual-storytelling/design-tools
   - name: Gaea
     url: https://quadspinner.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Terrain generation tool (free community edition).
     license: Freemium
     entry_type: software
@@ -109,6 +116,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Dust3D
     url: https://dust3d.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source quick base mesh generation.
     license: Open Source
     entry_type: software
@@ -127,6 +135,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: darktable
     url: https://www.darktable.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source RAW photo editor for reference/texture processing.
     license: Open Source
     entry_type: software
@@ -143,6 +152,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: OBS Studio
     url: https://obsproject.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free screen recording/streaming. Essential for tutorials.
     license: Open Source
     entry_type: software
@@ -159,6 +169,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: ShareX
     url: https://getsharex.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free Windows screen capture with recording and annotation.
     license: Open Source
     entry_type: software
@@ -177,6 +188,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Hesiod
     url: https://github.com/otto-link/Hesiod
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source node-based procedural terrain/heightmap generator.
     license: Open Source
     entry_type: software
@@ -195,6 +207,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: IFS Renderer
     url: https://ifsrenderer.z97.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free GPU-accelerated fractal renderer with HDR/EXR export.
     license: Free
     entry_type: software
@@ -213,6 +226,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Gl Ch Ao S.P
     url: https://github.com/BrutPitt/glChAoS.P
+    added_at: '2026-04-16T21:13:44.000Z'
     description: RealTime 3D Strange Attractors scout on GPU.
     license: Open Source
     entry_type: software
@@ -230,6 +244,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Pixie
     url: https://github.com/blkdev2/pixie?tab=readme-ov-file
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.
     license: Open Source
     entry_type: software
@@ -249,6 +264,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: tlRender
     url: https://github.com/darbyjohnston/tlRender
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Timeline render, is an early stage project for rendering editorial timelines.
     license: Open Source
     entry_type: software
@@ -266,6 +282,7 @@ entries:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: VNyan
     url: https://suvidriel.itch.io/vnyan
+    added_at: '2026-05-01T15:46:53.000Z'
     description: Take your 3d VTubing to the next level
     license: Free
     entry_type: software
@@ -280,6 +297,7 @@ entries:
     url_status: ok
   - name: KodeLife
     url: https://hexler.net/products/kodelife
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Real-time shader editor supporting GLSL, HLSL, and Metal, with a UI for creating and testing shaders.
     entry_type: software
     url_last_verified: '2026-09-01'
@@ -293,6 +311,7 @@ entries:
         - linux
   - name: NAP
     url: https://nap-framework.tech/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Open source C++ platform for real-time control and visualization, with a Vulkan renderer. Built for professional installations.
     entry_type: software
     license: Open Source
@@ -312,6 +331,7 @@ entries:
         - real-time
   - name: shoebot
     url: https://shoebot.github.io/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Python creative-coding environment for vector graphics and animation.
     entry_type: software
     license: Open Source
@@ -329,6 +349,7 @@ entries:
         - linux
   - name: Structure Synth
     url: http://structuresynth.sourceforge.net/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Generates 3D structures from a design grammar.
     entry_type: software
     license: Open Source
@@ -350,6 +371,7 @@ entries:
         - procedural
   - name: Zdog
     url: https://zzz.dog/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Pseudo-3D engine for canvas and SVG.
     entry_type: software
     license: Open Source

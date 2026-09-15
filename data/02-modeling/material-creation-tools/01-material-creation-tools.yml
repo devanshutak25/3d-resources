@@ -1,6 +1,7 @@
 entries:
   - name: SmartNormal 2.0
     url: https://www.smart-page.net/smartnormal/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Normal map generation from images.
     license: Free
     entry_type: tool
@@ -19,6 +20,7 @@ entries:
     url_status: ok
   - name: Materia
     url: https://github.com/Metric/Materia
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Open-source node-based alternative to Substance Designer, written in C#. Archived.
     license: Open Source
     entry_type: tool
@@ -45,6 +47,7 @@ entries:
     url_status: ok
   - name: TexGraph
     url: https://galloscript.itch.io/texgraph
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Procedural texture creation by connecting nodes in a graph.
     license: Free
     entry_type: tool
@@ -63,6 +66,7 @@ entries:
         - node-based
   - name: Imogen
     url: https://github.com/CedricGuillemet/Imogen
+    added_at: '2026-04-16T21:13:44.000Z'
     description: GPU Texture generator using dear imgui for UI.
     license: Open Source
     entry_type: tool
@@ -86,6 +90,7 @@ entries:
     last_pushed: '2020-06-27'
   - name: Texture Synthesis
     url: https://github.com/EmbarkStudios/texture-synthesis
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Example-based texture synthesis written in Rust.
     license: Open Source
     entry_type: tool
@@ -107,6 +112,7 @@ entries:
         - cli
   - name: Agisoft De-Lighter
     url: https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Standalone tool to remove baked shadows from model textures.
     license: Free
     entry_type: tool
@@ -123,6 +129,7 @@ entries:
         - mac
   - name: Architextures - Create
     url: https://architextures.org/create
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Web app for creating textures, bump maps, and CAD hatches.
     license: Freemium
     entry_type: tool
@@ -138,6 +145,7 @@ entries:
         - web
   - name: NVIDIA Texture Tools Exporter
     url: https://developer.nvidia.com/nvidia-texture-tools-exporter
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Creates compressed texture files from image sources via CUDA-accelerated compression.
     license: Free
     entry_type: tool
@@ -157,6 +165,7 @@ entries:
         - gpu
   - name: ShaderExpo
     url: https://anuraghazra.github.io/ShaderExpo/
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Browser shader editor with inline error logs, autocompletion, and model/texture loading.
     entry_type: tool
     license: Free

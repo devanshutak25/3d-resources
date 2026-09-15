@@ -1,6 +1,7 @@
 entries:
   - name: Crowdrender
     url: https://www.crowd-render.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Distributed rendering across machines.
     license: Freemium
     entry_type: plugin
@@ -23,6 +24,7 @@ entries:
     url_status: ok
   - name: Blender to Unity FBX
     url: https://github.com/EdyJ/blender-to-unity-fbx-exporter
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Unity export addon.
     license: Open Source
     entry_type: plugin
@@ -45,6 +47,7 @@ entries:
     url_status: ok
   - name: MB Lab
     url: https://github.com/animate1978/MB-Lab
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Character creation (archived, succeeded by CharMorph).
     license: Open Source
     entry_type: plugin
@@ -69,6 +72,7 @@ entries:
     archived: true
   - name: PSOFT Pencil+ 4
     url: https://psoft.co.jp/en/product/pencil/blender/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: NPR line rendering.
     license: Paid
     entry_type: plugin
@@ -91,6 +95,7 @@ entries:
     url_status: ok
   - name: Graswald
     url: https://blendermarket.com/products/graswald
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Grass and plants library.
     license: Paid
     entry_type: plugin
@@ -111,6 +116,7 @@ entries:
     url_status: ok
   - name: Easy HDRI
     url: https://codeofart.com/easy-hdri-2-8/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: HDRI management addon.
     license: Free
     entry_type: plugin
@@ -133,6 +139,7 @@ entries:
     url_status: ok
   - name: F Spy Blender
     url: https://github.com/stuffmatic/fSpy-Blender
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Official fSpy Blender importer.
     license: Open Source
     entry_type: plugin
@@ -155,6 +162,7 @@ entries:
     last_pushed: '2022-05-04'
   - name: Blender Pyblish
     url: https://github.com/jasperges/pyblish-blender
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Pyblish publishing-pipeline integration for Blender.
     license: Open Source
     entry_type: plugin
@@ -175,6 +183,7 @@ entries:
     last_pushed: '2022-01-22'
   - name: Blender Vscode
     url: https://github.com/JacquesLucke/blender_vscode
+    added_at: '2026-04-16T21:13:44.000Z'
     description: VS Code extension for Blender addon development.
     license: Open Source
     entry_type: plugin
@@ -195,6 +204,7 @@ entries:
         - linux
   - name: Blender Addons
     url: https://github.com/Antonioya/blender
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Helper addons by Antonio Vazquez.
     license: Open Source
     entry_type: plugin
@@ -215,6 +225,7 @@ entries:
     last_pushed: '2023-10-25'
   - name: Tissue
     url: https://github.com/alessandro-zomparelli/tissue
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Computational and parametric design addon for Blender.
     license: Open Source
     entry_type: plugin
@@ -236,6 +247,7 @@ entries:
         - linux
   - name: Sverchok
     url: https://github.com/nortikin/sverchok/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Node-based parametric modeling for Blender, aimed at architects.
     license: Open Source
     entry_type: plugin
@@ -258,6 +270,7 @@ entries:
         - archviz
   - name: Capsule
     url: https://github.com/Takanu/Capsule
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Export manager for sharing assets between Blender and Unreal/Unity.
     license: Open Source
     entry_type: plugin
@@ -278,6 +291,7 @@ entries:
     last_pushed: '2024-04-14'
   - name: Export Paper Model from Blender
     url: https://addam.github.io/Export-Paper-Model-from-Blender/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Add-on for unfolding meshes into printable paper models.
     license: Open Source
     entry_type: plugin
@@ -295,6 +309,7 @@ entries:
         - linux
   - name: AMD Radeon ProRender
     url: https://www.amd.com/en/technologies/radeon-prorender-blender
+    added_at: '2026-04-19T17:15:03.000Z'
     description: AMD's physically based GPU/CPU render engine for Blender.
     license: Free
     entry_type: plugin
@@ -316,6 +331,7 @@ entries:
         - linux
   - name: Bonsai
     url: https://bonsaibim.org/
+    added_at: '2026-05-04T11:56:50.000Z'
     description: OpenBIM/IFC architectural authoring add-on for Blender. Formerly BlenderBIM.
     license: Open Source
     entry_type: plugin
@@ -333,6 +349,7 @@ entries:
         - archviz
   - name: BlenderCAM
     url: https://blendercam.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open source CAM toolpath generation for CNC inside Blender.
     license: Open Source
     entry_type: plugin
@@ -350,6 +367,7 @@ entries:
         - linux
   - name: CAD Sketcher
     url: https://www.cadsketcher.com
+    added_at: '2026-04-19T17:15:03.000Z'
     description: CAD-style precision sketching with constraints for Blender.
     license: Open Source
     entry_type: plugin
@@ -369,6 +387,7 @@ entries:
         - product-viz
   - name: Daz to Blender Bridge
     url: https://www.daz3d.com/daz-to-blender-bridge
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Transfers Genesis 8 and 3 characters from Daz Studio into Blender.
     license: Free
     entry_type: plugin
@@ -388,6 +407,7 @@ entries:
         - linux
   - name: Needle Engine
     url: http://docs.needle.tools/blender
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Builds interactive web apps from Blender scenes.
     license: Freemium
     entry_type: plugin
@@ -407,6 +427,7 @@ entries:
         - generalist
   - name: reflow
     url: https://gitlab.com/diegogangl/reflow
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon to change scene fps.
     license: Open Source
     entry_type: plugin
@@ -425,6 +446,7 @@ entries:
         - linux
   - name: Rig on the Fly
     url: https://gitlab.com/dypsloom/rigonthefly
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Dynamic rigging tool that speeds up Blender animation workflow.
     license: Open Source
     entry_type: plugin
@@ -445,6 +467,7 @@ entries:
         - linux
   - name: Mixamo Converter
     url: https://github.com/enziop/mixamo_converter
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
     entry_type: plugin
     license: Open Source
@@ -467,6 +490,7 @@ entries:
     last_pushed: '2024-03-01'
   - name: USDZ
     url: https://github.com/robmcrosby/BlenderUSDZ
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender addon to export USDZ files.
     entry_type: plugin
     license: Open Source

@@ -1,6 +1,7 @@
 entries:
   - name: Dialogic 2
     url: https://github.com/dialogic-godot/dialogic
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Full-featured dialogue and timeline system.
     license: Open Source
     entry_type: plugin
@@ -21,6 +22,7 @@ entries:
         - godot
   - name: GodotSteam
     url: https://github.com/GodotSteam/GodotSteam
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Steamworks SDK integration.
     license: Open Source
     entry_type: plugin
@@ -42,6 +44,7 @@ entries:
     archived: true
   - name: Phantom Camera
     url: https://github.com/ramokz/phantom-camera
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Dynamic camera system (Cinemachine-inspired).
     license: Open Source
     entry_type: plugin
@@ -62,6 +65,7 @@ entries:
         - godot
   - name: Limbo AI
     url: https://github.com/limbonaut/limboai
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Behavior trees and state machines.
     license: Open Source
     entry_type: plugin
@@ -82,6 +86,7 @@ entries:
         - godot
   - name: SmartShape2D
     url: https://github.com/SirRamEsq/SmartShape2D
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Intelligent 2D terrain/shape tool.
     license: Open Source
     entry_type: plugin
@@ -102,6 +107,7 @@ entries:
         - godot
   - name: Gut
     url: https://github.com/bitwes/Gut
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Unit testing framework for GDScript.
     license: Open Source
     entry_type: plugin
@@ -124,6 +130,7 @@ entries:
         - godot
   - name: GdSpy
     url: https://github.com/Alby90/GdSpy
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Unofficial fSpy importer for Godot.
     license: Open Source
     entry_type: tool
@@ -143,6 +150,7 @@ entries:
         - godot
   - name: Godot 4 glTF runtime import
     url: https://github.com/godotengine/godot-docs/issues/6385
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Godot 4 glTF runtime import.
     license: Open Source
     entry_type: reference
@@ -158,6 +166,7 @@ entries:
         - godot
   - name: Godot Package Manager
     url: https://github.com/you-win/godot-package-manager
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Package manager for Godot using npm.
     license: Open Source
     entry_type: tool

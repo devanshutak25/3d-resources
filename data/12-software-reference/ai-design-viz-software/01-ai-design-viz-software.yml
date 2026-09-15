@@ -1,6 +1,7 @@
 entries:
   - name: Vizcom
     url: https://www.vizcom.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Sketch to render for industrial, product, and footwear design with line control.
     license: Freemium
     entry_type: software
@@ -20,6 +21,7 @@ entries:
     url_status: ok
   - name: NewArc
     url: https://newarc.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Sketch to render for product, fashion, and automotive design.
     license: Freemium
     entry_type: software
@@ -38,6 +40,7 @@ entries:
     url_status: ok
   - name: Visualizee
     url: https://visualizee.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Sketch and 3D screenshot to render for architecture and interiors.
     license: Freemium
     entry_type: software
@@ -56,6 +59,7 @@ entries:
     url_status: ok
   - name: Veras
     url: https://www.evolvelab.io/veras
+    added_at: '2026-06-14T22:09:48.000Z'
     description: AI render plugin inside Revit, SketchUp, Rhino, and Vectorworks.
     license: Paid
     entry_type: plugin
@@ -75,6 +79,7 @@ entries:
     url_status: ok
   - name: SketchPro
     url: https://www.sketchpro.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Sketch, SketchUp, and massing to render for architecture.
     license: Freemium
     entry_type: software
@@ -92,6 +97,7 @@ entries:
     url_status: unreachable
   - name: Mnml.ai
     url: https://www.mnml.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Arch-viz AI renderer from sketch and 3D screenshot input.
     license: Freemium
     entry_type: software
@@ -109,6 +115,7 @@ entries:
     url_status: ok
   - name: Arko.ai
     url: https://www.arko.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Arch-viz AI renderer for sketch and 3D model screenshots.
     license: Freemium
     entry_type: software
@@ -126,6 +133,7 @@ entries:
     url_status: ok
   - name: LookX
     url: https://lookx.ai/
+    added_at: '2026-06-14T22:09:48.000Z'
     description: Arch-viz AI renderer with style references.
     license: Freemium
     entry_type: software
@@ -143,6 +151,7 @@ entries:
     url_status: ok
   - name: The New Black
     url: https://thenewblack.ai/
+    added_at: '2026-07-21T19:27:45.000Z'
     description: AI fashion workspace for clothing concepts, virtual try-ons, tech packs, fashion models, and 3D garments.
     pricing: Free trial; plans from $10
     license: Paid

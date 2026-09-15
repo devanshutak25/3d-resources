@@ -1,6 +1,7 @@
 entries:
   - name: Kokraf
     url: https://github.com/sengchor/kokraf
+    added_at: '2026-07-21T10:59:03.000Z'
     description: Collaborative browser-based polygon modeling with real-time mesh editing.
     license: Free
     entry_type: software
@@ -25,6 +26,7 @@ entries:
     url_status: ok
   - name: Womp3D
     url: https://www.womp.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Playful browser-based 3D modeler for product design.
     pricing: Free tier, Pro $12.99/mo
     license: Freemium
@@ -47,6 +49,7 @@ entries:
     url_status: ok
   - name: Vectary
     url: https://www.vectary.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Browser-based 3D for e-commerce and product visualization.
     pricing: Pro AI $15/mo (annual)
     license: Freemium
@@ -69,6 +72,7 @@ entries:
     url_status: ok
   - name: World Machine
     url: https://www.world-machine.com/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Command tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
     entry_type: software
     license: Freemium
@@ -80,6 +84,7 @@ entries:
         - material-authoring
   - name: Houdini Apprentice
     url: https://www.sidefx.com/products/houdini-apprentice/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free learning version of Houdini.
     license: Free NC
     entry_type: software
@@ -100,6 +105,7 @@ entries:
       - modeling-sculpting-texturing/houdini-getting-started
   - name: Cascadeur
     url: https://cascadeur.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI-assisted physics-based keyframe character animation; free for non-commercial use.
     pricing: Indie $19/mo or $96/yr (rent-to-own perpetual)
     license: Free NC
@@ -126,6 +132,7 @@ entries:
       - software-reference/ai-motion-capture-software
   - name: Spline
     url: https://spline.design/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Browser-based 3D design with real-time collaboration. Exports to web, video, code. AI features for prompt-to-3D.
     pricing: Free tier, Super $9/mo, Business $24/mo
     license: Freemium
@@ -157,6 +164,7 @@ entries:
     url_status: ok
   - name: Bezi
     url: https://www.bezi.com/
+    added_at: '2026-05-22T16:48:26.000Z'
     description: Collaborative browser 3D design tool. Figma-style multiplayer editing for 3D scenes, prototypes, UI in 3D space.
     pricing: Free tier, Pro $12/mo
     license: Freemium
@@ -184,6 +192,7 @@ entries:
     url_status: ok
   - name: Gravity Sketch
     url: https://www.gravitysketch.com/
+    added_at: '2026-05-22T16:48:26.000Z'
     description: VR-first 3D design and modeling. Cloud sync via LandingPad; iPad companion.
     pricing: Free personal use, Studio $35/user/mo
     license: Freemium
@@ -213,6 +222,7 @@ entries:
     url_status: ok
   - name: Re:Form
     url: https://reformsculpt.com/
+    added_at: '2026-07-21T10:53:26.000Z'
     description: Browser-based 3D sculpting studio that handles millions of polygons through WebGPU.
     pricing: Free tier; Pro $9.99/mo or $99/yr
     license: Freemium

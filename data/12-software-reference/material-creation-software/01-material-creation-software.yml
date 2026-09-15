@@ -1,6 +1,7 @@
 entries:
   - name: Mari
     url: https://www.foundry.com/products/mari
+    added_at: '2026-05-05T11:50:37.000Z'
     description: Foundry's high-resolution 3D texture painting app, film-VFX standard for hero assets.
     pricing: Indie perpetual $149; Individual $299/yr; Studio $1,289/yr
     license: Paid
@@ -27,6 +28,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Materialize
     url: http://www.boundingboxsoftware.com/materialize/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free texture map generation from a single image.
     license: Free
     entry_type: software
@@ -46,6 +48,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Substance Designer
     url: https://www.adobe.com/products/substance3d-designer.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Node-based procedural texturing.
     license: Paid
     entry_type: software
@@ -71,6 +74,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Substance Painter
     url: https://www.adobe.com/products/substance3d-painter.html
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Industry-standard 3D texture painting with smart materials.
     license: Paid
     entry_type: software
@@ -95,6 +99,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: ArmorPaint
     url: https://armorpaint.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source texture painting.
     license: Open Source
     entry_type: software
@@ -119,6 +124,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Material Maker
     url: https://www.materialmaker.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source procedural texture generator (Substance Designer alternative).
     license: Open Source
     entry_type: software
@@ -144,6 +150,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Texelpaint3D
     url: https://texelpaint3d.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Paint directly on 3D model faces without UV unwrapping. 1-pixel-per-triangle workflow.
     license: Free
     entry_type: software
@@ -161,6 +168,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: xNormal
     url: https://xnormal.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free high-poly to low-poly baking (normals, AO, cavity).
     license: Free
     entry_type: software
@@ -180,6 +188,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Filter Forge
     url: https://filterforge.com/
+    added_at: '2026-05-01T13:15:24.000Z'
     description: Node-based filter editor with library of thousands of textures and photo effects; standalone or Photoshop/Affinity plugin.
     license: Paid
     entry_type: software
@@ -203,6 +212,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Live Normal
     url: https://tenebrislab.github.io/livenormal/
+    added_at: '2026-04-16T21:13:44.000Z'
     description: An Android and iOS app for generating materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
     license: Freemium
     entry_type: software
@@ -216,6 +226,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Agama Materials
     url: https://agama.itch.io/agama-materials
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Software for creating PBR materials and painting 3d models. You can create materials and use them for painting models, or you can use pre-made textures.
     license: Paid
     entry_type: software
@@ -229,6 +240,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Game Texture Viewer
     url: https://jangafx.com/software/gametextureviewer/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Fast, reliable, and simple tool for viewing PBR texture sets.
     entry_type: software
     license: Free
@@ -242,6 +254,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: TextureLab
     url: https://njbrown.itch.io/texturelab
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tool designed to make procedural texture generation.
     entry_type: software
     license: Free
@@ -255,6 +268,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: AwesomeBump
     url: https://github.com/kmkolasinski/AwesomeBump
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Generate normal, height, specular or ambient occlusion textures from a single image.
     entry_type: software
     license: Open Source
@@ -272,6 +286,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Quixel Mixer
     url: https://quixel.com/mixer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Create photorealistic, tileable, materials in seconds with mixing and painting.
     license: Free
     entry_type: software
@@ -287,6 +302,7 @@ entries:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Mixos
     url: https://www.mixos.io/
+    added_at: '2026-06-30T17:20:36.000Z'
     description: Browser-based 3D texture painting and PBR material authoring with AI auto-texturing and a pre-made material library.
     pricing: Free tier (watermarked beta); Pro $9/mo; Studio $19/mo
     license: Freemium

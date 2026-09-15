@@ -1,6 +1,7 @@
 entries:
   - name: AI in Production Pipelines
     url: https://www.fxguide.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: AI handling roto, denoise, upres, texture drafts, matchmove cleanup. Studios (ILM, Weta, DNEG) deploying at scale.
     entry_type: reference
     license: Free
@@ -18,6 +19,7 @@ entries:
     url_status: ok
   - name: Real-Time Path Tracing
     url: https://developer.nvidia.com/rtx
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Shipping in games (Cyberpunk 2077, Alan Wake 2). RTX 50-series + DLSS 4 with neural rendering.
     entry_type: reference
     license: Free
@@ -36,6 +38,7 @@ entries:
     url_status: ok
   - name: WebGPU Adoption
     url: https://www.w3.org/TR/webgpu/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Shipped in Chrome. Three.js, Babylon.js, PlayCanvas adding WebGPU backends.
     entry_type: reference
     license: Free
@@ -52,6 +55,7 @@ entries:
     url_status: ok
   - name: Virtual Production
     url: https://www.disguise.one/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: LED volumes maturing from bleeding-edge to standardized.
     entry_type: reference
     license: Free
@@ -68,6 +72,7 @@ entries:
     url_status: ok
   - name: Neural Rendering
     url: https://developer.nvidia.com/rtx-kit
+    added_at: '2026-04-16T19:59:30.000Z'
     description: NVIDIA Neural Texture Compression, Neural Radiance Cache. Disney/Weta publishing on neural light transport.
     entry_type: reference
     tags:
@@ -81,6 +86,7 @@ entries:
     url_status: ok
   - name: The Pipeline Conference
     url: https://thepipelineconference.com
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Conference for pipeline TDs and engineers across VFX, animation, and games.
     license: Paid
     entry_type: community

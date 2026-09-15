@@ -1,6 +1,7 @@
 entries:
   - name: Mixamo
     url: https://www.mixamo.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Rigged characters, auto-rigger, and free animation library (Adobe).
     license: Free
     entry_type: asset-source
@@ -24,6 +25,7 @@ entries:
     url_status: ok
   - name: Anatomy 360
     url: https://anatomy360.info/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Artist reference models.
     license: Paid
     entry_type: asset-source
@@ -43,6 +45,7 @@ entries:
     url_status: ok
   - name: Anatomy For Sculptors
     url: https://www.artstation.com/anatomy4sculptors
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Anatomical references.
     license: Paid
     entry_type: asset-source
@@ -62,6 +65,7 @@ entries:
     url_status: ok
   - name: Insect 3D Models
     url: https://zerokobo.web.fc2.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Insect models.
     license: Free
     entry_type: asset-source
@@ -80,6 +84,7 @@ entries:
         - web
   - name: Anything World Gallery
     url: https://app.anything.world/gallery
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Animated, game-ready models.
     license: Freemium
     entry_type: asset-source
@@ -100,6 +105,7 @@ entries:
     url_status: ok
   - name: Models Resource
     url: https://www.models-resource.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Video game model rips.
     license: Free
     entry_type: asset-source
@@ -118,6 +124,7 @@ entries:
     url_status: ok
   - name: NASA 3D Resources
     url: https://science.nasa.gov/3d-resources/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Spacecraft, planets, terrain models (mixed CC0 / CC-BY. Check per-asset license; mirror at nasa3d.arc.nasa.gov).
     license: Mixed
     entry_type: asset-source
@@ -139,6 +146,7 @@ entries:
     url_status: ok
   - name: Smithsonian 3D
     url: https://3d.si.edu/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Historical artifacts.
     license: Free
     entry_type: asset-source
@@ -161,6 +169,7 @@ entries:
       - tools-pipeline-utilities/photogrammetry-scanning
   - name: Smithsonian Open Access
     url: https://www.si.edu/openaccess
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Millions of 2D/3D museum assets, CC0.
     license: Free
     entry_type: asset-source
@@ -181,6 +190,7 @@ entries:
     url_status: ok
   - name: British Museum (Sketchfab)
     url: https://sketchfab.com/britishmuseum
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Scanned artifacts.
     license: Free
     entry_type: asset-source
@@ -201,6 +211,7 @@ entries:
     url_status: ok
   - name: Cleveland Museum of Art (Sketchfab)
     url: https://sketchfab.com/clevelandart
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Museum 3D scans.
     license: Free
     entry_type: asset-source
@@ -221,6 +232,7 @@ entries:
         - web
   - name: Quaternius
     url: https://quaternius.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free low-poly game assets.
     license: Free
     entry_type: asset-source
@@ -240,6 +252,7 @@ entries:
     url_status: ok
   - name: Wire Wheels Club
     url: https://wirewheelsclub.com/models/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Vehicle models.
     license: Free
     entry_type: asset-source
@@ -257,6 +270,7 @@ entries:
         - web
   - name: Emojiz
     url: https://emojiz.design
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 77+ animated 3D emoji illustrations with Blender source files.
     entry_type: asset-source
     license: Paid
@@ -271,6 +285,7 @@ entries:
         - web
   - name: Models Resource (3D)
     url: https://models.spriters-resource.com/
+    added_at: '2026-04-16T20:54:45.000Z'
     description: 3D model rips from games. Sister site to Spriters Resource.
     license: Free
     entry_type: asset-source
@@ -289,6 +304,7 @@ entries:
     url_status: ok
   - name: Artec 3D
     url: https://www.artec3d.com/3d-models
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free high-resolution 3D scans. (CC-BY)
     license: Free
     entry_type: asset-source
@@ -306,6 +322,7 @@ entries:
         - photogrammetry
   - name: Scanned Female Head Model by EISKO
     url: https://eisko.com/louise/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free high-resolution scanned female head model (Louise).
     license: Free
     entry_type: asset-source
@@ -323,6 +340,7 @@ entries:
         - photogrammetry
   - name: 3D MDB
     url: https://3dmdb.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Model search database across many sites.
     entry_type: tool
     readme_tags:
@@ -337,6 +355,7 @@ entries:
         - modeling
   - name: Characterz
     url: https://characterz.design
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 9,000+ customizable diverse 3D character illustrations with Blender source files.
     entry_type: asset-source
     license: Freemium
@@ -351,6 +370,7 @@ entries:
         - blender
   - name: Handz
     url: https://handz.design
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free library of 320+ diverse 3D hand illustrations with Blender source files.
     entry_type: asset-source
     license: Free
@@ -365,6 +385,7 @@ entries:
         - blender
   - name: Robotz
     url: https://threedee.design/cartoon-robot
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Free modular 3D cartoon robot with customizable heads, bodies, and hands.
     entry_type: asset-source
     license: Free
@@ -377,6 +398,7 @@ entries:
         - web
   - name: Sample and Hold
     url: https://www.sampleandhold.co.uk/demodata
+    added_at: '2026-06-17T07:16:34.000Z'
     description: Head, body and FACS scan demo data from a scanning studio. Free on request.
     license: Free
     entry_type: asset-source

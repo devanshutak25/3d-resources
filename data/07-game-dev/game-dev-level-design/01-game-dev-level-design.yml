@@ -1,6 +1,7 @@
 entries:
   - name: Sprytile (itch.io)
     url: https://chemikhazi.itch.io/sprytile
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Blender addon for tile-based 3D levels.
     license: Open Source
     entry_type: plugin
@@ -22,6 +23,7 @@ entries:
     url_status: ok
   - name: Tiled2Unity
     url: https://github.com/Seanba/Tiled2Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Export [Tiled](http://www.mapeditor.org) Map Editor (TMX) files into Unity.
     license: Open Source
     entry_type: tool
@@ -41,6 +43,7 @@ entries:
     last_pushed: '2022-12-22'
   - name: Unity2D TMX
     url: https://github.com/suppayami/unity2d-tmx
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A small library to import and render tilemap in Unity2D, only support TMX file format.
     license: Open Source
     entry_type: tool
@@ -60,6 +63,7 @@ entries:
     last_pushed: '2014-05-17'
   - name: Chisel.Prototype
     url: https://github.com/RadicalCSG/Chisel.Prototype
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Work in progress prototype for the Chisel Level Editor, for Unity.
     license: Open Source
     entry_type: plugin
@@ -80,6 +84,7 @@ entries:
     archived: true
   - name: GILES
     url: https://github.com/Unity-Technologies/giles
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A runtime level editor for Unity3D.
     license: Open Source
     entry_type: plugin
@@ -101,6 +106,7 @@ entries:
     last_pushed: '2021-12-22'
   - name: Editor2D
     url: https://github.com/stillwwater/editor2d
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Tile based level editor for Unity
     license: Open Source
     entry_type: plugin
@@ -120,6 +126,7 @@ entries:
     last_pushed: '2019-06-08'
   - name: Sprytile (GitHub)
     url: https://github.com/Sprytile/Sprytile
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender add-on for building tile-based low-poly scenes with paint and map-editor tools.
     license: Open Source
     entry_type: plugin

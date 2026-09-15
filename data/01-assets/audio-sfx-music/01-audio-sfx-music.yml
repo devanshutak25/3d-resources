@@ -1,6 +1,7 @@
 entries:
   - name: Freesound
     url: https://freesound.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Collaborative database of CC-licensed sounds.
     license: Free
     entry_type: asset-source
@@ -16,6 +17,7 @@ entries:
     url_status: ok
   - name: BBC Sound Effects
     url: https://sound-effects.bbcrewind.co.uk/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: BBC's archive of free SFX.
     license: Free
     entry_type: asset-source
@@ -31,6 +33,7 @@ entries:
     url_status: ok
   - name: Free Music Archive
     url: https://freemusicarchive.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free music, varied licenses.
     license: Free
     entry_type: asset-source
@@ -46,6 +49,7 @@ entries:
         - web
   - name: ccMixter
     url: http://ccmixter.org/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Creative Commons remix community.
     license: Free
     entry_type: asset-source
@@ -61,6 +65,7 @@ entries:
         - web
   - name: Sonniss
     url: https://sonniss.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: SFX library. Releases free SFX bundles annually.
     license: Paid
     entry_type: marketplace
@@ -76,6 +81,7 @@ entries:
     url_status: ok
   - name: Motion Array SFX
     url: https://motionarray.com/browse/sound-effects/free/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free SFX collection.
     license: Free
     entry_type: asset-source
@@ -91,6 +97,7 @@ entries:
         - web
   - name: Ende
     url: https://ende.app/en
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Curated free audio library.
     license: Free
     entry_type: asset-source
@@ -106,6 +113,7 @@ entries:
         - web
   - name: Moby Gratis
     url: https://mobygratis.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Free Moby music for indie creators.
     license: Free NC
     entry_type: asset-source
@@ -121,6 +129,7 @@ entries:
         - web
   - name: ZapSplat
     url: https://www.zapsplat.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Large free SFX library.
     license: Free
     entry_type: asset-source
@@ -139,6 +148,7 @@ entries:
     url_status: ok
   - name: Uppbeat
     url: https://uppbeat.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Music for creators.
     license: Freemium
     entry_type: marketplace
@@ -154,6 +164,7 @@ entries:
         - web
   - name: Artlist
     url: https://artlist.io/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Subscription music and SFX.
     license: Paid
     entry_type: marketplace
@@ -171,6 +182,7 @@ entries:
     url_status: ok
   - name: Knell
     url: https://knell.medieval.software/
+    added_at: '2026-04-19T17:04:14.000Z'
     description: Free procedural sound effect synthesizer for games, UI, and prototypes.
     license: Free
     entry_type: tool
@@ -190,6 +202,7 @@ entries:
     url_status: ok
   - name: USFXR
     url: https://github.com/zeh/usfxr
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A C# library used to generate and play game-like procedural audio effects inside Unity.
     entry_type: plugin
     license: Open Source
@@ -211,6 +224,7 @@ entries:
         - linux
   - name: Freesound Add-on
     url: https://github.com/iwkse/freesound/tree/freesound-2.0
+    added_at: '2026-04-19T17:29:43.000Z'
     description: Blender VSE addon to browse, preview, and insert sounds from freesound.org.
     entry_type: plugin
     license: Open Source
@@ -230,6 +244,7 @@ entries:
     last_pushed: '2021-12-22'
   - name: Mixkit
     url: https://mixkit.co/
+    added_at: '2026-06-21T19:32:23.000Z'
     description: Free stock music, SFX, and video footage.
     license: Free
     entry_type: asset-source

@@ -1,6 +1,7 @@
 entries:
   - name: Cineversity
     url: https://cineversity.maxon.net/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: Official Maxon tutorials.
     license: Free
     entry_type: tutorial
@@ -20,6 +21,7 @@ entries:
         - c4d
   - name: School of Motion (site)
     url: https://www.schoolofmotion.com/
+    added_at: '2026-04-16T19:59:30.000Z'
     description: C4D, motion graphics, animation, After Effects, design courses.
     license: Paid
     entry_type: tutorial

@@ -1,6 +1,7 @@
 entries:
   - name: Unity Ads
     url: https://unity.com/products/unity-ads
+    added_at: '2026-04-16T21:13:44.000Z'
     description: Official Unity ad monetization SDK.
     entry_type: plugin
     license: Free
@@ -17,6 +18,7 @@ entries:
         - unity-plugin
   - name: Unity AR Foundation and MARS
     url: https://unity.com/unity/features/ar
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Unity''s AR tooling: AR Foundation cross-platform framework plus MARS authoring environment.'
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -32,6 +34,7 @@ entries:
         - xr
   - name: A* Pathfinding Project Pro
     url: https://arongranberg.com/astar/front
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Fast pathfinding system for Unity with grid, navmesh, and point graphs.
     entry_type: plugin
     license: Paid
@@ -48,6 +51,7 @@ entries:
         - unity-plugin
   - name: 2D Rope System
     url: https://www.assetstore.unity3d.com/en/#!/content/17722
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Scripts for creating 2D ropes in the editor or at runtime.
     entry_type: plugin
     license: Paid
@@ -64,6 +68,7 @@ entries:
         - unity-plugin
   - name: ClassTypeReference for Unity
     url: https://bitbucket.org/rotorz/classtypereference-for-unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Serializable references to System.Type with a custom property drawer for dropdown class selection.
     entry_type: plugin
     license: Open Source
@@ -81,6 +86,7 @@ entries:
         - opensource-alt
   - name: Unity UI Extensions
     url: https://github.com/Unity-UI-Extensions/com.unity.uiextensions
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Extra controls and components for the Unity uGUI system.
     entry_type: plugin
     license: Open Source
@@ -99,6 +105,7 @@ entries:
     deprecated: true
   - name: Reorderable List Editor Field for Unity
     url: https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Drag-to-reorder list field for Unity inspectors.
     entry_type: plugin
     license: Open Source
@@ -116,6 +123,7 @@ entries:
         - opensource-alt
   - name: Script Templates for Unity
     url: https://bitbucket.org/rotorz/script-templates-for-unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Editor window that generates C# source stubs for Unity.
     entry_type: plugin
     license: Open Source
@@ -133,6 +141,7 @@ entries:
         - opensource-alt
   - name: Unity Package Manager Lifecycle
     url: https://docs.unity3d.com/Manual/upm-lifecycle.html
+    added_at: '2026-06-11T19:38:13.000Z'
     description: Unity manual page on the Package Manager release lifecycle.
     entry_type: reference
     url_last_verified: '2026-09-02'
@@ -146,6 +155,7 @@ entries:
         - unity-plugin
   - name: Unity3D Official Blog
     url: https://blogs.unity3d.com/es/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: News and development insights from Unity.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -159,6 +169,7 @@ entries:
         - unity-plugin
   - name: Unity EditorXR
     url: https://github.com/Unity-Technologies/EditorXR
+    added_at: '2026-09-02T17:38:57.000Z'
     description: Unity editor authoring in VR. Formerly EditorVR.
     entry_type: plugin
     license: Open Source
@@ -175,6 +186,7 @@ entries:
         - xr
   - name: Cheatography Unity Cheatsheet
     url: https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Hotkey reference for the Unity editor.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -188,6 +200,7 @@ entries:
         - unity-plugin
   - name: Devdog UnityTips Compilation
     url: https://devdog.io/blog/?tag=UnityTips
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Collected Unity tips and tricks posted by developers.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -201,6 +214,7 @@ entries:
         - unity-plugin
   - name: AR Foundation Docs
     url: https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Manual for Unity's cross-platform AR framework (ARKit, ARCore).
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -216,6 +230,7 @@ entries:
         - xr
   - name: Unity Virtual Reality
     url: http://docs.unity3d.com/Manual/VROverview.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity's official documentation on developing virtual reality applications.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -231,6 +246,7 @@ entries:
         - xr
   - name: Unity Editor Hotkeys
     url: https://docs.unity3d.com/Manual/UnityHotkeys.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity manual page listing editor hotkeys.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -244,6 +260,7 @@ entries:
         - unity-plugin
   - name: Unity Documentation for VR
     url: http://docs.unity3d.com/Manual/VirtualReality.html
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Unity manual section on VR development.
     entry_type: reference
     url_last_verified: '2026-09-01'
@@ -259,6 +276,7 @@ entries:
         - xr
   - name: Naphier Gists
     url: https://gist.github.com/Naphier
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of reusable Unity code gists.
     entry_type: reference
     license: Open Source
@@ -273,6 +291,7 @@ entries:
         - unity-plugin
   - name: BetterDefines.cs
     url: https://gist.github.com/TarasOsiris/343df8337fa2a7f80f59
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'Gist: improved scripting define symbol management for Unity.'
     entry_type: reference
     license: Open Source
@@ -287,6 +306,7 @@ entries:
         - unity-plugin
   - name: DownloadManager.cs
     url: https://gist.github.com/asus4/2490117
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Download manager gist for Unity.
     entry_type: reference
     license: Open Source
@@ -301,6 +321,7 @@ entries:
         - unity-plugin
   - name: Show Toast Unity Android.cs
     url: https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Gist showing native Android toast messages from Unity.
     entry_type: reference
     license: Open Source
@@ -315,6 +336,7 @@ entries:
         - unity-plugin
   - name: Get Social Deep Linking Activity.java
     url: https://gist.github.com/TarasOsiris/1ab79165909ea01575a0
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Gist activity that captures onNewIntent deep links missed by Unity when backgrounded.
     entry_type: reference
     license: Open Source
@@ -329,6 +351,7 @@ entries:
         - unity-plugin
   - name: Fixed Function States from Materials (gist)
     url: https://gist.github.com/aras-p/b2a0952161cb0c2b2cc0
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Aras Pranckevicius gist on driving fixed-function render states from materials and scripts in Unity.
     entry_type: reference
     license: Open Source
@@ -343,6 +366,7 @@ entries:
         - unity-plugin
   - name: Pixel Camera 2D
     url: https://github.com/RyanNielson/PixelCamera2D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Pixel-perfect camera with scaling options for 2D games.
     entry_type: plugin
     license: Open Source
@@ -362,6 +386,7 @@ entries:
     last_pushed: '2020-10-01'
   - name: 2D Tech Demos
     url: https://github.com/Unity-Technologies/2d-techdemos
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official Unity tech demos for 2D features.
     entry_type: plugin
     license: Open Source
@@ -379,6 +404,7 @@ entries:
         - opensource-alt
   - name: Pixel Sprite Generator Unity
     url: https://github.com/Shogan/PixelSpriteGenerator-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: C# port of PixelSpriteGenerator for Unity.
     entry_type: plugin
     license: Open Source
@@ -398,6 +424,7 @@ entries:
     last_pushed: '2016-01-01'
   - name: Unity ECS Instanced Sprite Renderer
     url: https://github.com/paullj/unity-ecs-instanced-sprite-renderer
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Performant sprite renderer example using Unity's ECS.
     entry_type: plugin
     license: Open Source
@@ -417,6 +444,7 @@ entries:
     last_pushed: '2019-06-21'
   - name: HermodToolkit
     url: https://github.com/Sirithang/HermodToolkit
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A set of 2D tools for Unity.
     entry_type: plugin
     license: Open Source
@@ -436,6 +464,7 @@ entries:
     last_pushed: '2014-12-17'
   - name: Unity2D Components
     url: https://github.com/cmilr/Unity2D-Components
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 'C# components for 2D games: pixel-art cameras, events and messaging, save/load, collision handlers, object pools.'
     entry_type: plugin
     license: Open Source
@@ -455,6 +484,7 @@ entries:
     last_pushed: '2021-01-23'
   - name: DataRenderer2D
     url: https://github.com/geniikw/DataRenderer2D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Generates line and polygon meshes in Unity.
     entry_type: plugin
     license: Open Source
@@ -472,6 +502,7 @@ entries:
         - opensource-alt
   - name: Vector Graphics Samples
     url: https://github.com/Unity-Technologies/vector-graphics-samples
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Official Unity SVG and vector graphics sample project.
     entry_type: plugin
     license: Open Source
@@ -491,6 +522,7 @@ entries:
     last_pushed: '2020-04-20'
   - name: Live2D with Unity
     url: https://github.com/sera0506/Live-2D-with-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Imports Live2D models and reads mtn motion files in Unity.
     entry_type: plugin
     license: Open Source
@@ -510,6 +542,7 @@ entries:
     last_pushed: '2016-09-07'
   - name: Futile
     url: https://github.com/MattRix/Futile
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A code-first 2D framework for Unity.
     entry_type: plugin
     license: Open Source
@@ -529,6 +562,7 @@ entries:
     last_pushed: '2022-07-17'
   - name: UnitySVG
     url: https://github.com/MrJoy/UnitySVG
+    added_at: '2026-04-19T17:15:03.000Z'
     description: SVG renderer for Unity.
     entry_type: plugin
     license: Open Source
@@ -549,6 +583,7 @@ entries:
     last_pushed: '2020-10-02'
   - name: Bullet Pattern Editor Unity
     url: https://github.com/unitycoder/BulletPatternEditorUnity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Editor for authoring shoot-em-up bullet patterns.
     entry_type: plugin
     license: Open Source
@@ -568,6 +603,7 @@ entries:
     last_pushed: '2016-05-08'
   - name: SpriteMaker
     url: https://github.com/KPDwyer/SpriteMaker
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Tool for making sprites inside Unity.
     entry_type: plugin
     license: Open Source
@@ -587,6 +623,7 @@ entries:
     last_pushed: '2017-06-15'
   - name: Unity3DPolylineEditor
     url: https://github.com/Dandarawy/Unity3DPolylineEditor
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 2D polyline editor for Unity.
     entry_type: plugin
     license: Open Source
@@ -606,6 +643,7 @@ entries:
     last_pushed: '2021-04-07'
   - name: UnitySpline2D
     url: https://github.com/sinbad/UnitySpline2D
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A simple 2D spline library for Unity. Unmaintained.
     entry_type: plugin
     license: Open Source
@@ -626,6 +664,7 @@ entries:
     last_pushed: '2021-04-12'
   - name: Astar Pathfinding
     url: https://github.com/wawethewaras/Astar-Pathfinding
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 2D A* pathfinding for Unity.
     entry_type: plugin
     license: Open Source
@@ -646,6 +685,7 @@ entries:
     last_pushed: '2023-11-10'
   - name: Unity A Star Navigation
     url: https://github.com/jeffvella/UnityAStarNavigation
+    added_at: '2026-04-19T17:15:03.000Z'
     description: A* navigation for Unity using Burst-compiled jobs.
     entry_type: plugin
     license: Open Source
@@ -665,6 +705,7 @@ entries:
     last_pushed: '2020-12-23'
   - name: Crystal AI
     url: https://github.com/igiagkiozis/CrystalAI
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Utility-based AI framework for C# and Unity.
     entry_type: plugin
     license: Open Source
@@ -684,6 +725,7 @@ entries:
     last_pushed: '2021-07-15'
   - name: TsiU AIToolkit CSharp
     url: https://github.com/FinneyTang/TsiU_AIToolkit_CSharp
+    added_at: '2026-04-19T17:15:03.000Z'
     description: AI toolkit for Unity.
     entry_type: plugin
     license: Open Source
@@ -703,6 +745,7 @@ entries:
     last_pushed: '2016-10-27'
   - name: EpPathFinding3D.cs
     url: https://github.com/juhgiyo/EpPathFinding3D.cs
+    added_at: '2026-04-19T17:15:03.000Z'
     description: 3D jump-point-search pathfinding for cube-based games in C#.
     entry_type: plugin
     license: Open Source
@@ -722,6 +765,7 @@ entries:
     last_pushed: '2018-04-24'
   - name: GOAP
     url: https://github.com/sploreg/goap
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Goal-oriented action planning AI for Unity.
     entry_type: plugin
     license: Open Source
@@ -741,6 +785,7 @@ entries:
     last_pushed: '2019-01-02'
   - name: Unity Movement AI
     url: https://github.com/antonpantev/unity-movement-ai
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Steering-behavior movement scripts for NPCs in Unity.
     entry_type: plugin
     license: Open Source
@@ -760,6 +805,7 @@ entries:
     last_pushed: '2024-05-20'
   - name: Openpath
     url: https://github.com/mrzapp/openpath
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source pathfinding for Unity.
     entry_type: plugin
     license: Open Source
@@ -779,6 +825,7 @@ entries:
     last_pushed: '2020-11-29'
   - name: Unity Path Finding
     url: https://github.com/mattatz/unity-path-finding
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Dijkstra shortest-path finding for Unity.
     entry_type: plugin
     license: Open Source
@@ -798,6 +845,7 @@ entries:
     last_pushed: '2018-04-16'
   - name: NPBehave
     url: https://github.com/meniku/NPBehave
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Event-driven behavior trees for Unity.
     entry_type: plugin
     license: Open Source
@@ -815,6 +863,7 @@ entries:
         - opensource-alt
   - name: Fluid Behavior Tree
     url: https://github.com/ashblue/fluid-behavior-tree
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Code-first behavior tree micro-framework for Unity.
     entry_type: plugin
     license: Open Source
@@ -832,6 +881,7 @@ entries:
         - opensource-alt
   - name: A Star Pathfinding for Unity
     url: https://github.com/sharpaccent/Astar-for-Unity
+    added_at: '2026-04-19T17:15:03.000Z'
     description: Multithreaded 3-axis A* pathfinder for Unity.
     entry_type: plugin
     license: Open Source

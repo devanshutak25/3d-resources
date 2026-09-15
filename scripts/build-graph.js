@@ -6,9 +6,10 @@
 const fs = require('fs');
 const path = require('path');
 const catalog = require('./lib/catalog');
+const { slugify } = require('./lib/slugify');
 
 function ghAnchor(t) {
-  return String(t).toLowerCase().replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-');
+  return slugify(t);
 }
 
 function main() {
