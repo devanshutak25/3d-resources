@@ -35,6 +35,88 @@ main:focus { outline: none; }
 .lic-pill.lic-freemium { color: #58a6ff; }
 .lic-pill.lic-subscription { color: #d68bff; }
 .lic-pill.lic-mixed { color: #8ddb8d; }
+.lic-pill.lic-nc { color: #ff9f6b; }
+.lic-pill.lic-unknown { color: var(--text-subtle, #8b929c); border-style: dashed; font-weight: 500; }
+.lic-unknown-text { color: var(--text-subtle, #8b929c); font-style: italic; }
+
+/* Resource type after the name in bullet rows (added client-side + on tag pages). */
+.type-pill {
+  display: inline-block;
+  margin-left: 0.4em;
+  padding: 0 0.45em;
+  font-size: 0.7em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-subtle, #8b929c);
+  background: var(--bg-tertiary, #161b22);
+  border-radius: 4px;
+  vertical-align: middle;
+  line-height: 1.6;
+}
+
+/* Quiet per-row "report" action, shown on hover or keyboard focus. */
+.row-report {
+  margin-left: 0.5em;
+  font-size: 0.75em;
+  color: var(--text-subtle, #8b929c);
+  text-decoration: underline dotted;
+  text-underline-offset: 2px;
+  opacity: 0;
+  transition: opacity 0.15s, color 0.15s;
+}
+[data-decorated]:hover .row-report,
+[data-decorated]:focus-within .row-report,
+[data-decorated]:focus .row-report,
+.row-report:focus-visible { opacity: 1; }
+.row-report:hover { color: var(--link); }
+@media (hover: none) { .row-report { opacity: 0.7; } }
+
+.sr-only {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+[hidden] { display: none !important; }
+
+/* Site-only intro (build-html strips the long README intro). */
+.site-tagline { margin: 0.25rem 0 0.5rem; color: var(--text-muted); font-size: 1.05rem; }
+.site-meta { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text-subtle); }
+.site-meta a { color: var(--text-muted); }
+.site-meta a:hover { color: var(--link); }
+
+/* Global search form on section / tag pages: submits to /?q= on the catalog. */
+.global-search {
+  display: flex;
+  gap: 0.4rem;
+  flex: 1 1 260px;
+  max-width: 420px;
+}
+.global-search input[type="search"] {
+  flex: 1;
+  min-width: 0;
+  background: var(--bg-secondary, #0a0d12);
+  color: var(--text, #e6edf3);
+  border: 1px solid var(--border, #30363d);
+  border-radius: 6px;
+  padding: 0.4rem 0.7rem;
+  font-size: 0.9rem;
+}
+.global-search input[type="search"]:focus { outline: none; border-color: var(--accent, #388bfd); }
+.global-search button {
+  background: var(--bg-tertiary, #161b22);
+  color: var(--text-muted, #8b949e);
+  border: 1px solid var(--border, #30363d);
+  border-radius: 6px;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+.global-search button:hover { color: var(--text); border-color: var(--accent); }
 
 /* ---------- Filter UI ---------- */
 #filter-bar {
@@ -80,7 +162,7 @@ main:focus { outline: none; }
   color: var(--text-muted);
   border: 1px solid var(--border);
   border-radius: 6px;
-  height: 2rem;
+  min-height: 2.25rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -92,6 +174,18 @@ main:focus { outline: none; }
   flex-shrink: 0;
 }
 #filter-toggle:hover { color: var(--text); border-color: var(--accent); }
+#filter-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+#filter-toggle-badge {
+  min-width: 1.4em;
+  padding: 0 0.35em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-align: center;
+  color: #fff;
+  background: var(--accent);
+  border-radius: 999px;
+}
 #filter-bar.collapsed #filter-toggle {
   background: var(--bg-secondary);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
@@ -136,6 +230,82 @@ main:focus { outline: none; }
   cursor: pointer;
 }
 #filter-clear:hover { color: var(--text); border-color: var(--accent); }
+
+/* Search engine state (loading / unavailable) + retry. */
+#filter-search-notice {
+  margin: 0 0 0.6rem;
+  padding: 0.45rem 0.7rem;
+  font-size: 0.85rem;
+  color: #f5e6a8;
+  background: #3a2f0a;
+  border-left: 3px solid #d4a017;
+  border-radius: 4px;
+}
+.filter-retry {
+  margin-left: 0.4em;
+  background: transparent;
+  color: inherit;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+.filter-retry:hover { background: rgba(255, 255, 255, 0.08); }
+
+/* Active restrictions row: removable pills, visible even when chips are hidden. */
+#filter-active {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0 0 0.6rem;
+}
+.filter-active-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-subtle);
+  margin-right: 0.2rem;
+}
+.active-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  background: rgba(56, 139, 253, 0.14);
+  color: var(--text);
+  border: 1px solid rgba(56, 139, 253, 0.5);
+  border-radius: 999px;
+  padding: 0.15rem 0.6rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+  min-height: 1.8rem;
+}
+.active-chip:hover { border-color: var(--accent); background: rgba(56, 139, 253, 0.24); }
+.active-chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.active-chip-group { color: var(--text-subtle); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.active-chip-reset { background: transparent; border-color: var(--border); color: var(--text-muted); }
+
+/* Drawer chrome: header + footer only show on mobile. */
+.filter-panel-head, .filter-panel-foot { display: none; }
+.filter-hint {
+  flex-basis: 100%;
+  font-size: 0.75rem;
+  color: var(--text-subtle);
+  line-height: 1.4;
+  margin-top: 0.1rem;
+}
+.filter-unspecified {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin: 0.75rem 0 0.25rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+.filter-unspecified input { margin: 0.2rem 0 0; accent-color: var(--accent); }
 .filter-groups-toggle {
   display: flex;
   align-items: center;
@@ -185,7 +355,8 @@ main:focus { outline: none; }
   color: var(--text-muted);
   border: 1px solid var(--border);
   border-radius: 999px;
-  padding: 0.15rem 0.75rem;
+  padding: 0.2rem 0.75rem;
+  min-height: 1.75rem;
   font-size: 0.8rem;
   cursor: pointer;
   transition: background 0.1s, color 0.1s, border-color 0.1s;
@@ -194,6 +365,7 @@ main:focus { outline: none; }
   color: var(--text);
   border-color: var(--accent);
 }
+.filter-chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .filter-chip.active {
   background: var(--accent);
   color: #fff;
@@ -219,6 +391,7 @@ main:focus { outline: none; }
 }
 .filter-more[open] summary::before { transform: rotate(90deg); }
 .filter-more summary:hover { color: var(--text); }
+.filter-more summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
 
 /* ---------- Collapsible ToC ---------- */
 main > details {
@@ -264,18 +437,12 @@ main > details > ul > li {
   list-style: disc;
 }
 
-/* ---------- Warning callout ---------- */
-.callout-warning {
-  background: #3a2f0a;
-  border-left: 4px solid #d4a017;
-  color: #f5e6a8;
-  padding: 0.6rem 1rem;
-  border-radius: 4px;
-  margin: 1rem 0;
-}
-.callout-warning p { margin: 0; }
-.callout-warning a { color: #ffd866; text-decoration: underline; }
-.callout-warning a:hover { color: #fff2b3; }
+/* ---------- Results mode ----------
+   While a query or facet is active the Contents block is hidden so the first
+   matching resource sits directly under the search box. */
+body.results-mode h2#contents,
+body.results-mode h2#contents ~ details,
+body.results-mode #mobile-toc-jump { display: none !important; }
 
 /* Dark mode theme for 3D Resources */
 :root {
@@ -474,15 +641,22 @@ footer {
 footer a { color: var(--text-muted); }
 footer a:hover { color: var(--link); }
 
-/* Collapsible section headings (H2/H3 in main content) */
+/* Collapsible section headings (H2/H3 in main content). The heading keeps its
+   semantics; a real <button> inside carries the toggle + aria-expanded. */
 .collapsible-heading {
-  cursor: pointer;
   position: relative;
   padding-left: 1.2rem;
-  user-select: none;
 }
-.collapsible-heading::before {
-  content: '▾';
+.heading-toggle {
+  all: unset;
+  display: inline;
+  cursor: pointer;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+}
+.heading-toggle:focus-visible { outline: 2px solid var(--link); outline-offset: 3px; border-radius: 4px; }
+.heading-toggle-icon {
   display: inline-block;
   width: 1em;
   height: 1em;
@@ -497,9 +671,8 @@ footer a:hover { color: var(--link); }
   transition: transform 0.22s cubic-bezier(0.4, 0, 0.2, 1);
   will-change: transform;
 }
-.collapsible-heading[data-collapsed]::before { transform: rotate(-90deg); }
-.collapsible-heading:hover::before { color: var(--text); }
-.collapsible-heading:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+.collapsible-heading[data-collapsed] .heading-toggle-icon { transform: rotate(-90deg); }
+.collapsible-heading:hover .heading-toggle-icon { color: var(--text); }
 
 /* Table of Contents (Contents section) */
 h2#contents {
@@ -540,12 +713,44 @@ h2#contents + ul {
   h1 { font-size: 1.5rem; }
   h2 { font-size: 1.25rem; }
   h2#contents + ul { columns: 1; }
-  table { font-size: 0.8rem; }
-  th, td { padding: 0.4rem 0.5rem; }
+
+  /* Tables become stacked, labelled cards. Each cell announces its column via
+     data-label (added at build time by scripts/lib/table-labels.js). */
+  table { font-size: 0.9rem; display: block; overflow: visible; }
+  table thead { display: none; }
+  table tbody, table tr, table td { display: block; }
+  table tr {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.55rem 0.75rem;
+    margin: 0.6rem 0;
+    background: var(--bg-secondary);
+  }
+  table tr:nth-child(even) { background: var(--bg-secondary); }
+  table td {
+    border: none;
+    padding: 0.2rem 0;
+  }
+  table td:empty { display: none; }
+  table td[data-label]::before {
+    content: attr(data-label);
+    display: block;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-subtle);
+    margin-bottom: 0.05rem;
+  }
+  table td[data-label="Software"] { font-size: 1.02rem; font-weight: 600; margin-bottom: 0.15rem; }
+  table td[data-label="Software"]::before { display: none; }
+  table td[data-label="Description"]::before { display: none; }
+  table td[data-label="Description"] { color: var(--text-muted); margin-bottom: 0.3rem; }
 }
 
+/* Text stays at 16px on phones; smaller screens do not get smaller type. */
 @media (max-width: 480px) {
-  html { font-size: 14px; }
+  html { font-size: 16px; }
 }
 
 /* ---------- §5 Match highlight ---------- */
@@ -600,6 +805,26 @@ mark.hl {
 }
 #filter-empty-state strong { color: var(--text); }
 #filter-empty-state a { color: var(--link); }
+#filter-empty-state p { margin: 0.25rem 0; }
+.empty-actions { list-style: none; padding: 0; margin: 0.5rem 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.empty-actions li { margin: 0; }
+.empty-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  background: var(--bg-tertiary);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.35rem 0.7rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  text-align: left;
+}
+.empty-action:hover { border-color: var(--accent); }
+.empty-action:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.empty-count { color: var(--text-subtle); font-size: 0.78rem; white-space: nowrap; }
+.empty-foot { font-size: 0.82rem; color: var(--text-subtle); }
 
 /* ---------- §8 GitHub repo pill ---------- */
 .repo-pill {
@@ -662,52 +887,104 @@ main > details > ul > li[data-dim]:hover {
     display: none;
   }
 
-  /* Filter panel as fullscreen overlay when open on mobile */
-  #filter-bar:not(.collapsed) {
+  /* Search stays inline on mobile. The bar is never collapsed here; the
+     Filters button opens the drawer below instead. */
+  #filter-bar { padding: 0.6rem 0.75rem 0.7rem; margin-bottom: 1.25rem; }
+  #filter-bar .filter-header { margin-bottom: 0.5rem; }
+  #filter-bar .filter-top { flex-wrap: wrap; gap: 0.5rem; }
+  #filter-bar #filter-search {
+    flex: 1 1 100%;
+    font-size: 1rem;
+    padding: 0.65rem 0.75rem;
+    min-height: 2.75rem;
+  }
+  #filter-bar #filter-search-clear,
+  #filter-bar #filter-clear { min-height: 2.5rem; padding: 0.4rem 0.8rem; font-size: 0.9rem; }
+  #filter-bar .active-chip { min-height: 2.25rem; font-size: 0.85rem; }
+
+  /* Filter drawer: a managed dialog (focus trapped, background inert). */
+  #filter-panel { display: none; }
+  #filter-panel.open {
+    display: flex;
+    flex-direction: column;
     position: fixed;
     inset: 0;
     z-index: 1000;
-    overflow-y: auto;
-    margin: 0;
-    border-radius: 0;
-    padding: 1rem 1rem 4rem;
-  }
-  #filter-bar:not(.collapsed) .filter-header {
-    position: sticky;
-    top: 0;
     background: var(--bg-secondary);
-    margin: -1rem -1rem 0.75rem;
+    overflow: hidden;
+  }
+  #filter-panel.open .filter-panel-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     padding: 0.75rem 1rem;
-    z-index: 1;
     border-bottom: 1px solid var(--border);
-  }
-  #filter-bar:not(.collapsed) .filter-top {
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-  #filter-bar:not(.collapsed) #filter-search {
-    flex: 1 1 100%;
+    font-weight: 700;
     font-size: 1rem;
-    padding: 0.6rem 0.75rem;
+    flex: 0 0 auto;
   }
-  #filter-bar:not(.collapsed) .filter-row {
+  #filter-panel-close {
+    width: 2.75rem;
+    height: 2.75rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg-tertiary);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-size: 1.3rem;
+    cursor: pointer;
+  }
+  #filter-panel-close:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  #filter-panel.open #filter-groups-toggle { display: none; }
+  #filter-panel.open .filter-chip-groups {
+    display: block !important;
+    flex: 1 1 auto;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 0.5rem 1rem 1rem;
+  }
+  #filter-panel.open .filter-row {
     grid-template-columns: 1fr;
-    gap: 0.35rem;
+    gap: 0.4rem;
     margin: 0.85rem 0;
-    padding-bottom: 0.6rem;
+    padding-bottom: 0.7rem;
     border-bottom: 1px solid var(--border);
   }
-  #filter-bar:not(.collapsed) .filter-row:last-of-type { border-bottom: none; }
-  #filter-bar:not(.collapsed) .filter-label { padding-top: 0; }
-  #filter-bar:not(.collapsed) .filter-chip {
-    padding: 0.4rem 0.85rem;
-    font-size: 0.9rem;
+  #filter-panel.open .filter-row:last-of-type { border-bottom: none; }
+  #filter-panel.open .filter-label { padding-top: 0; }
+  #filter-panel.open .filter-chips { gap: 0.5rem; }
+  #filter-panel.open .filter-chip {
+    padding: 0.5rem 0.95rem;
+    min-height: 2.75rem;
+    font-size: 0.95rem;
   }
-  #filter-bar:not(.collapsed) #filter-toggle-label::after {
-    content: ' (tap to close)';
-    font-weight: 400;
-    color: var(--text-subtle);
+  #filter-panel.open .filter-unspecified { font-size: 0.9rem; }
+  #filter-panel.open .filter-unspecified input { width: 1.25rem; height: 1.25rem; }
+  #filter-panel.open .filter-panel-foot {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.6rem;
+    padding: 0.75rem 1rem calc(0.75rem + env(safe-area-inset-bottom, 0px));
+    border-top: 1px solid var(--border);
+    background: var(--bg-secondary);
+    flex: 0 0 auto;
   }
+  #filter-panel-reset,
+  #filter-show-results {
+    min-height: 2.9rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0 1rem;
+  }
+  #filter-panel-reset { background: var(--bg-tertiary); color: var(--text-muted); border: 1px solid var(--border); }
+  #filter-show-results { background: var(--accent); color: #fff; border: 1px solid var(--accent); }
+  #filter-panel-reset:focus-visible,
+  #filter-show-results:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+  body.filter-drawer-open { overflow: hidden; }
 }
 
 /* ---------- A4: heading focus ring (programmatic focus from ToC) ---------- */
@@ -777,7 +1054,7 @@ h3[data-mirror] {
   margin-top: 1.4em;
 }
 h3[data-mirror]::after {
-  content: "mirror";
+  content: "also listed here";
   display: inline-block;
   margin-left: 0.55em;
   padding: 0.05em 0.5em;
@@ -1018,6 +1295,11 @@ h2 .edit-on-gh .mdi {
   height: 20px;
   vertical-align: middle;
 }
+
+/* ---------- Tag pages: compact resource summaries ---------- */
+.tag-entry-list li { margin: 0.5rem 0; }
+.tag-entry-where { color: var(--text-subtle); font-size: 0.85em; }
+.tag-entry-where a { color: var(--text-muted); }
 
 /* ---------- SSR filter shell (replaced by filter.js on hydration) ---------- */
 #filter-shell {

@@ -147,17 +147,49 @@ function repoPill(href) {
   }
   return `<span class="repo-pill">${GH_ICON}GitHub</span>`;
 }
-// B2: license pill for non-table bullet entries. Free/Open Source/Free NC = no pill (absence ≡ free).
-function licensePill(license) {
-  if (!license) return '';
+// Entry types where a missing license is a real gap (as opposed to a channel or
+// article, where "license" rarely applies). Only these get the Unspecified pill.
+const LICENSE_RELEVANT_TYPES = new Set([
+  'software', 'tool', 'plugin', 'asset-source', 'marketplace', 'service', 'book', 'hardware'
+]);
+
+// Plain-language license labels shown on pills and in the license table column.
+const LICENSE_LABELS = {
+  'free nc': 'Free, non-commercial',
+  'freemium': 'Free tier',
+  'open source': 'Open source'
+};
+
+// B2: license pill for non-table bullet entries. Free and Open Source are the
+// unrestricted no-cost cases and get no pill. Everything that limits use
+// (Paid, Freemium, Mixed, Free NC) gets one, and a missing license on an entry
+// type where it matters is shown as Unspecified so it never reads as free.
+function licensePill(license, entryType) {
+  if (!license) {
+    if (entryType && LICENSE_RELEVANT_TYPES.has(String(entryType))) {
+      return ' <span class="lic-pill lic-unknown" title="No license recorded for this entry">License unspecified</span>';
+    }
+    return '';
+  }
   const v = String(license).trim();
   const lower = v.toLowerCase();
-  if (lower === 'free' || lower === 'open source' || lower === 'free nc' || lower === 'oss') return '';
+  if (lower === 'free' || lower === 'open source' || lower === 'oss') return '';
   let cls = 'lic-paid';
-  if (lower === 'freemium') cls = 'lic-freemium';
+  let label = v;
+  let title = '';
+  if (lower === 'freemium') { cls = 'lic-freemium'; label = LICENSE_LABELS.freemium; title = 'Free tier with paid upgrades'; }
   else if (lower === 'subscription') cls = 'lic-subscription';
-  else if (lower.startsWith('mixed')) cls = 'lic-mixed';
-  return ` <span class="lic-pill ${cls}">${v}</span>`;
+  else if (lower.startsWith('mixed')) { cls = 'lic-mixed'; title = 'Mix of free and paid items'; }
+  else if (lower === 'free nc') { cls = 'lic-nc'; label = LICENSE_LABELS['free nc']; title = 'Free for non-commercial use only'; }
+  const titleAttr = title ? ` title="${title}"` : '';
+  return ` <span class="lic-pill ${cls}"${titleAttr}>${label}</span>`;
+}
+
+// License text for the software table column. Same vocabulary as the pills.
+function licenseCell(license) {
+  if (!license) return '<span class="lic-unknown-text" title="No license recorded for this entry">Unspecified</span>';
+  const v = String(license).trim();
+  return LICENSE_LABELS[v.toLowerCase()] || v;
 }
 
 // A6: wrap decorative pictographic emoji so screen readers don't announce
@@ -192,28 +224,41 @@ function githubAnchor(title) {
     .replace(/ /g, '-');
 }
 
+const REPO_URL = 'https://github.com/devanshutak25/3d-resources';
+const CONTRIBUTING_URL = `${REPO_URL}/blob/main/CONTRIBUTING.md`;
+const SUGGEST_URL = `${REPO_URL}/issues/new?template=suggest-resource.yml`;
+
+// README and site share this header. `only:readme` blocks are stripped from the
+// site build; `only:site` blocks are uncommented there. The site gets a short
+// title and a one-line purpose so search is the first thing a visitor meets;
+// the README keeps the long descriptive title and intro for GitHub.
 function header() {
   return [
+    '<!-- only:readme -->',
     '# [3D Resources: Software, Assets, Tutorials & Tools for 3D Artists](https://3d.devanshutak.xyz)',
     '',
-    '<!-- only:readme -->',
     '[![Stars](https://img.shields.io/github/stars/devanshutak25/3d-resources?style=flat&logo=github&color=24292e)](https://github.com/devanshutak25/3d-resources/stargazers)',
     '[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)',
     '[![Validate](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml/badge.svg)](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml)',
     '[![Live site](https://img.shields.io/badge/live%20site-3d.devanshutak.xyz-7c3aed)](https://3d.devanshutak.xyz)',
-    '<!-- /only:readme -->',
     '',
     '> A curated collection of **free and paid 3D resources**: software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
     '',
-    '<!-- only:readme -->',
     '> 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)**. Search and filter by License · Platform · Workflow · Output.',
+    '',
+    `Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Suggest a resource](${SUGGEST_URL}) · [Contribute](${CONTRIBUTING_URL})`,
+    '',
+    `> <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](${REPO_URL}/issues/new?template=report-broken-link.yml).`,
     '<!-- /only:readme -->',
+    '<!-- only:site',
+    '# 3D Resources',
     '',
-    'Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude',
+    '<p class="site-tagline">Curated catalog of 3D software, assets, tutorials and tools. Search below or browse by section.</p>',
     '',
-    '[Suggest a resource](https://github.com/devanshutak25/3d-resources/issues) · [Contribute](CONTRIBUTING.md)',
+    `<p class="site-meta">Curated by <a href="https://devanshutak.xyz">Devanshu Tak</a> · <a href="${SUGGEST_URL}">Suggest a resource</a> · <a href="${CONTRIBUTING_URL}">Contribute</a> · <a href="/graph">Explore the graph</a></p>`,
+    '-->',
     '',
-    '> <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues).',
+    // Blank line so the HTML block above cannot swallow the next heading.
     ''
   ].join('\n');
 }
@@ -286,11 +331,16 @@ function renderSoftwareTable(entries, currentLoc) {
       if (seeAlso) descCore = descCore ? `${descCore}<br>${seeAlso}` : seeAlso;
     }
     const desc = descCore.replace(/\|/g, '\\|');
-    const license = e.license || '';
+    const license = licenseCell(e.license);
     const tags = (e.readme_tags || []).join(' · ');
     const bestFor = e.best_for || '';
     if (hasPricing) {
-      const pricing = e.pricing || '';
+      // Pricing carries its own verification date when the catalog has one, so
+      // "last updated" in the footer is never mistaken for a price check.
+      let pricing = e.pricing ? String(e.pricing).replace(/\|/g, '\\|') : '';
+      if (pricing && e.pricing_last_verified) {
+        pricing = `<span title="Pricing checked ${String(e.pricing_last_verified).slice(0, 10)}">${pricing}</span>`;
+      }
       lines.push(`| ${name} | ${desc} | ${pricing} | ${license} | ${tags} | ${bestFor} |`);
     } else {
       lines.push(`| ${name} | ${desc} | ${license} | ${tags} | ${bestFor} |`);
@@ -356,7 +406,7 @@ function renderSubsection(section, sub, sectionFile) {
     }
     for (const e of references) {
       const desc = e.description ? `. ${processDescription(e.description)}` : '';
-      const pill = licensePill(e.license);
+      const pill = licensePill(e.license, e.entry_type);
       const seeAlso = seeAlsoLinks(e, currentLoc);
       const seeAlsoSuffix = seeAlso ? `<br>${seeAlso}` : '';
       lines.push(`- [${wrapEmoji(e.name)}](${e.url})${pill}${desc}${seeAlsoSuffix}`);
@@ -417,7 +467,7 @@ function footer() {
   return [
     '## Contributing',
     '',
-    '[Contributions welcome!](CONTRIBUTING.md) Please read the guidelines before submitting a pull request.',
+    `[Contributions welcome!](${CONTRIBUTING_URL}) Please read the guidelines before submitting a pull request. Found a dead link or wrong price? [Report it](${REPO_URL}/issues/new?template=report-broken-link.yml).`,
     '',
     '## Attribution',
     '',
@@ -545,7 +595,7 @@ function renderLite() {
     if (picks.length) {
       for (const e of picks) {
         const name = wrapEmoji(e.name);
-        const pill = licensePill(e.license);
+        const pill = licensePill(e.license, e.entry_type);
         const desc = stripHtmlForLite(processDescription(e.description || ''));
         const descTail = desc ? `. ${desc}` : '';
         out += `- [${name}](${e.url})${pill}${descTail}\n`;
@@ -611,6 +661,7 @@ module.exports = {
   seeAlsoLinks,
   processDescription,
   licensePill,
+  licenseCell,
   wrapEmoji,
   githubAnchor,
   renderSubsection,

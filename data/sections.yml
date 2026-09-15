@@ -12,7 +12,7 @@ sections:
   - slug: modeling-sculpting-texturing
     title: "Modeling, Sculpting & Texturing"
     file: "02-modeling.yml"
-    description: "Per-DCC learning plus texturing and material authoring toolchain."
+    description: "Learning per 3D application, plus texturing and material authoring tools."
     featured: ["Blender", "Houdini", "Cinema 4D"]
 
   - slug: animation-rigging

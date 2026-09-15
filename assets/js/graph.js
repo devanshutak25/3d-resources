@@ -24,8 +24,10 @@
   const TAG_COLOR = '#8a8f9e';                 // lifted gray, readable
   const SECTION_HUB_COLOR = '#a8a8b2';         // dimmer hub (ring is bright)
 
-  const KIND_LABELS  = { section: 'Sections', subsection: 'Subsections', entry: 'Entries', tag: 'Tags' };
-  const KIND_LABELS_S = { section: 'section', subsection: 'subsection', entry: 'entry', tag: 'tag' };
+  const KIND_LABELS  = { section: 'Sections', subsection: 'Subsections', entry: 'All resources', tag: 'Tags' };
+  const KIND_LABELS_S = { section: 'section', subsection: 'subsection', entry: 'resource', tag: 'tag' };
+  const KIND_ORDER = { section: 0, subsection: 1, entry: 2, tag: 3 };
+  const SEARCH_LIMIT = 30;
 
   // Low-end / mobile detection. Drives default visible kinds, pixel ratio,
   // antialiasing, sphere segment count, and tap behavior.
@@ -39,7 +41,9 @@
     } catch { return false; }
   })();
 
-  const DEFAULT_KINDS = new Set(['section', 'subsection', 'entry']);
+  // Start readable: sections + subsections only. Resources appear per
+  // subsection on click, or all at once via the "All resources" toggle.
+  const DEFAULT_KINDS = new Set(['section', 'subsection']);
 
   const SPHERE_SEG = isLowEnd ? [8, 6] : [16, 12];
 
@@ -67,13 +71,13 @@
   };
 
   function actionVerb(n) {
-    if (n.kind === 'entry') return n.url ? 'click to open ↗' : 'no link';
+    if (n.kind === 'entry') return 'click for details';
     if (n.kind === 'subsection') {
-      if (state.enabledKinds.has('entry')) return 'click to focus camera';
-      return state.expandedSubs.has(n.id) ? 'click to collapse' : 'click to expand entries';
+      if (state.enabledKinds.has('entry')) return 'click to focus';
+      return state.expandedSubs.has(n.id) ? 'click to hide its resources' : 'click to show its resources';
     }
-    if (n.kind === 'section') return 'click to focus camera';
-    if (n.kind === 'tag') return 'click to focus camera';
+    if (n.kind === 'section') return 'click to focus';
+    if (n.kind === 'tag') return 'click to focus';
     return '';
   }
 
@@ -279,6 +283,7 @@
     state.selectedNode = node;
     attachSelectionLabel(node);
     recomputeHighlights();
+    renderSelectedList(node);
   }
 
   function tooltipHtml(n) {
@@ -321,7 +326,9 @@
     }
 
     if (node.url) {
-      html += `<div style="margin-top:10px"><a href="${node.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(node.url)} ↗</a></div>`;
+      // Selecting a node never opens anything; this link is the only way out.
+      html += `<div><a class="open-resource" href="${escapeHtml(node.url)}" target="_blank" rel="noopener noreferrer">Open resource ↗</a></div>`;
+      html += `<div style="margin-top:6px;opacity:0.7">${escapeHtml(node.url)}</div>`;
     }
     if (node.kind === 'subsection' || node.kind === 'section') {
       html += `<div style="margin-top:8px"><a href="/#${node.anchor}">Open in main page →</a></div>`;
@@ -466,14 +473,7 @@
     help.setAttribute('aria-label', 'Show graph help');
     help.title = 'Show graph help';
     help.textContent = '?';
-    help.addEventListener('click', () => {
-      const overlay = document.getElementById('onboard');
-      if (overlay) {
-        overlay.classList.remove('hidden');
-        const ok = document.getElementById('onboard-ok');
-        if (ok) ok.focus();
-      }
-    });
+    help.addEventListener('click', () => openOnboarding());
     head.append(title, help);
     panel.appendChild(head);
 
@@ -509,6 +509,7 @@
       count.className = 'count';
       count.textContent = counts[kind] || 0;
       row.append(glyph, label, count);
+      if (kind === 'entry') row.title = 'Show every resource at once. Dense; use search or open a subsection for a focused view.';
       if (!state.enabledKinds.has(kind)) row.classList.add('disabled');
       row.addEventListener('click', () => {
         if (state.enabledKinds.has(kind)) state.enabledKinds.delete(kind);
@@ -521,6 +522,14 @@
       });
       body.appendChild(row);
     }
+
+    // Structured alternative for whatever is selected: a readable list of the
+    // subsection's resources, no camera flight required.
+    const listBlock = document.createElement('div');
+    listBlock.id = 'selected-list';
+    listBlock.className = 'filter-section';
+    listBlock.hidden = true;
+    body.appendChild(listBlock);
 
     // Sections legend in collapsed <details>
     const sectionNodes = data.nodes.filter(x => x.kind === 'section');
@@ -551,12 +560,41 @@
     foot.className = 'g-panel-foot';
     foot.setAttribute('aria-label', 'Graph controls');
     foot.innerHTML = `
-      <button class="g-btn" id="btn-fit" type="button">Reset view</button>
+      <button class="g-btn" id="btn-zoom-in" type="button" aria-label="Zoom in" title="Zoom in">+</button>
+      <button class="g-btn" id="btn-zoom-out" type="button" aria-label="Zoom out" title="Zoom out">−</button>
+      <button class="g-btn" id="btn-fit" type="button" title="Fit the whole graph in view">Reset view</button>
       <button class="g-btn" id="btn-relayout" type="button" title="Re-run physics simulation">Re-layout</button>
       <button class="g-btn" id="btn-pause" type="button" aria-pressed="false" title="Pause / resume physics">Pause</button>
-      <button class="g-btn" id="btn-collapse" type="button" title="Collapse all expanded subsections">Collapse all</button>
+      <button class="g-btn" id="btn-collapse" type="button" title="Hide resources of every opened subsection">Collapse all</button>
     `;
     panel.appendChild(foot);
+  }
+
+  // List view of the selected subsection's resources inside the panel.
+  function renderSelectedList(node) {
+    const block = document.getElementById('selected-list');
+    if (!block) return;
+    if (!node || node.kind !== 'subsection') { block.hidden = true; block.innerHTML = ''; return; }
+    const ids = state.subEntries.get(node.id) || [];
+    const entries = ids.map(id => state.nodesById.get(id)).filter(Boolean)
+      .sort((a, b) => a.label.localeCompare(b.label, 'en', { sensitivity: 'base' }));
+    block.hidden = false;
+    block.innerHTML = `<h3>${escapeHtml(node.label)} · ${entries.length} resource${entries.length === 1 ? '' : 's'}</h3>`;
+    const ul = document.createElement('ul');
+    ul.className = 'selected-list';
+    for (const e of entries) {
+      const li = document.createElement('li');
+      if (e.url) {
+        const a = document.createElement('a');
+        a.href = e.url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+        a.textContent = e.label;
+        li.appendChild(a);
+      } else {
+        li.textContent = e.label;
+      }
+      ul.appendChild(li);
+    }
+    block.appendChild(ul);
   }
 
   function setupSearch() {
@@ -569,38 +607,79 @@
     let timer = null;
     let activeIdx = -1;
 
-    function render(matches, query) {
+    function closeResults() {
+      results.classList.remove('visible');
+      input.setAttribute('aria-expanded', 'false');
+      input.removeAttribute('aria-activedescendant');
+      activeIdx = -1;
+    }
+
+    // Keep the visual highlight, aria-selected and aria-activedescendant on
+    // the same option; clear all three when nothing is active.
+    function syncActive() {
+      const items = results.querySelectorAll('.g-search-result');
+      items.forEach((el, i) => {
+        const on = i === activeIdx;
+        el.classList.toggle('active', on);
+        el.setAttribute('aria-selected', on ? 'true' : 'false');
+      });
+      if (activeIdx >= 0 && items[activeIdx]) {
+        input.setAttribute('aria-activedescendant', items[activeIdx].id);
+        items[activeIdx].scrollIntoView({ block: 'nearest' });
+      } else {
+        input.removeAttribute('aria-activedescendant');
+      }
+    }
+
+    function render(matches, total, query) {
       if (!matches.length) {
-        results.innerHTML = `<div class="g-search-empty">No matches for "${escapeHtml(query)}"</div>`;
+        results.innerHTML = `<div class="g-search-empty">No matches for "${escapeHtml(query)}". <a href="/?q=${encodeURIComponent(query)}">Search the full catalog →</a></div>`;
         results.classList.add('visible');
         input.setAttribute('aria-expanded', 'true');
+        input.removeAttribute('aria-activedescendant');
         return;
       }
-      results.innerHTML = matches.map((m, i) => {
+      let html = matches.map((m, i) => {
         const node = state.nodesById.get(m.id);
         const swatch = node ? colorOf(node) : '#888';
-        return `<div class="g-search-result" role="option" data-id="${m.id}" id="sr-${i}" aria-selected="${i === activeIdx ? 'true' : 'false'}">
+        return `<div class="g-search-result" role="option" data-id="${m.id}" id="sr-${i}" aria-selected="false">
           <span class="swatch" style="background:${swatch}"></span>
           <span class="label-text">${escapeHtml(m.label)}</span>
           <span class="kind">${KIND_LABELS_S[m.kind]}</span>
         </div>`;
       }).join('');
+      if (total > matches.length) {
+        html += `<div class="g-search-more">Showing ${matches.length} of ${total} matches. Refine the search, or <a href="/?q=${encodeURIComponent(query)}">view all matching resources in the catalog →</a></div>`;
+      }
+      results.innerHTML = html;
       results.classList.add('visible');
       input.setAttribute('aria-expanded', 'true');
+      syncActive();
+    }
+
+    // Rank: exact name, then name starts with the query, then substring.
+    // Within a rank, sections before subsections before resources before tags.
+    function rankOf(item, q) {
+      if (item.lc === q) return 0;
+      if (item.lc.startsWith(q)) return 1;
+      return 2;
     }
 
     function performSearch() {
       const q = input.value.trim().toLowerCase();
-      if (!q) { results.classList.remove('visible'); input.setAttribute('aria-expanded', 'false'); return; }
-      const matches = [];
+      if (!q) { closeResults(); return; }
+      const all = [];
       for (const item of lookup) {
-        if (item.lc.includes(q)) {
-          matches.push(item);
-          if (matches.length >= 30) break;
-        }
+        if (item.lc.includes(q)) all.push({ item, rank: rankOf(item, q) });
       }
+      all.sort((a, b) =>
+        a.rank - b.rank ||
+        KIND_ORDER[a.item.kind] - KIND_ORDER[b.item.kind] ||
+        a.item.label.length - b.item.label.length ||
+        a.item.label.localeCompare(b.item.label));
       activeIdx = -1;
-      render(matches, q);
+      render(all.slice(0, SEARCH_LIMIT).map(x => x.item), all.length, q);
+      announce(`${all.length} match${all.length === 1 ? '' : 'es'}${all.length > SEARCH_LIMIT ? `, showing first ${SEARCH_LIMIT}` : ''}`);
     }
 
     input.addEventListener('input', () => {
@@ -614,14 +693,12 @@
         ev.preventDefault();
         if (!items.length) return;
         activeIdx = (activeIdx + 1) % items.length;
-        items.forEach((el, i) => el.classList.toggle('active', i === activeIdx));
-        items[activeIdx].scrollIntoView({ block: 'nearest' });
+        syncActive();
       } else if (ev.key === 'ArrowUp') {
         ev.preventDefault();
         if (!items.length) return;
         activeIdx = (activeIdx - 1 + items.length) % items.length;
-        items.forEach((el, i) => el.classList.toggle('active', i === activeIdx));
-        items[activeIdx].scrollIntoView({ block: 'nearest' });
+        syncActive();
       } else if (ev.key === 'Enter') {
         if (activeIdx >= 0 && items[activeIdx]) {
           ev.preventDefault();
@@ -631,8 +708,7 @@
         }
       } else if (ev.key === 'Escape') {
         if (results.classList.contains('visible')) {
-          results.classList.remove('visible');
-          input.setAttribute('aria-expanded', 'false');
+          closeResults();
         } else {
           input.value = '';
           input.blur();
@@ -650,14 +726,17 @@
           if (nbNode && nbNode.kind === 'subsection') state.expandedSubs.add(nb);
         }
       }
-      if (!state.enabledKinds.has(node.kind)) {
+      // Entries become visible through their expanded subsection (above);
+      // other kinds need their layer on. Sync the legend row in place rather
+      // than rebuilding the panel, which would drop the control listeners.
+      if (node.kind !== 'entry' && !state.enabledKinds.has(node.kind)) {
         state.enabledKinds.add(node.kind);
-        renderLegend();
-        toast(`Enabled ${KIND_LABELS[node.kind].toLowerCase()} so this match would be visible`);
+        const row = document.querySelector(`.legend-row[data-kind="${node.kind}"]`);
+        if (row) { row.classList.remove('disabled'); row.setAttribute('aria-pressed', 'true'); }
+        toast(`Enabled ${KIND_LABELS[node.kind].toLowerCase()} so this match is visible`);
       }
       refreshGraph();
-      results.classList.remove('visible');
-      input.setAttribute('aria-expanded', 'false');
+      closeResults();
       input.value = '';
       requestAnimationFrame(() => requestAnimationFrame(() => focusNode(id)));
     }
@@ -669,10 +748,7 @@
     });
 
     document.addEventListener('click', (ev) => {
-      if (!ev.target.closest('.g-search')) {
-        results.classList.remove('visible');
-        input.setAttribute('aria-expanded', 'false');
-      }
+      if (!ev.target.closest('.g-search')) closeResults();
     });
 
     // Global / and Esc
@@ -699,7 +775,25 @@
     });
   }
 
+  // Move the camera toward or away from what it is looking at.
+  function zoomBy(factor) {
+    const G = state.Graph;
+    if (!G) return;
+    const pos = G.cameraPosition();
+    const target = state.selectedNode && state.selectedNode.x != null
+      ? { x: state.selectedNode.x, y: state.selectedNode.y, z: state.selectedNode.z }
+      : { x: 0, y: 0, z: 0 };
+    const next = {
+      x: target.x + (pos.x - target.x) * factor,
+      y: target.y + (pos.y - target.y) * factor,
+      z: target.z + (pos.z - target.z) * factor
+    };
+    G.cameraPosition(next, target, 300);
+  }
+
   function setupControls() {
+    document.getElementById('btn-zoom-in').addEventListener('click', () => zoomBy(0.7));
+    document.getElementById('btn-zoom-out').addEventListener('click', () => zoomBy(1.4));
     document.getElementById('btn-fit').addEventListener('click', () => {
       state.Graph.zoomToFit(800, 60);
       setSelected(null);
@@ -729,24 +823,56 @@
     });
   }
 
+  // Onboarding is a real modal: focus is contained, everything behind it is
+  // inert, and dismissal returns focus to the help button.
+  const onboard = { inerted: [] };
+
+  function openOnboarding() {
+    const overlay = document.getElementById('onboard');
+    const ok = document.getElementById('onboard-ok');
+    if (!overlay) return;
+    overlay.classList.remove('hidden');
+    onboard.inerted = [];
+    for (const sib of document.body.children) {
+      if (sib === overlay || sib.hasAttribute('inert')) continue;
+      sib.setAttribute('inert', '');
+      onboard.inerted.push(sib);
+    }
+    if (ok) ok.focus();
+  }
+
+  function closeOnboarding() {
+    const overlay = document.getElementById('onboard');
+    if (!overlay || overlay.classList.contains('hidden')) return;
+    overlay.classList.add('hidden');
+    for (const el of onboard.inerted) el.removeAttribute('inert');
+    onboard.inerted = [];
+    try { localStorage.setItem(STORAGE_ONBOARD_KEY, '1'); } catch {}
+    const help = document.getElementById('btn-help');
+    if (help) help.focus();
+  }
+
   function setupOnboarding() {
     const overlay = document.getElementById('onboard');
     const ok = document.getElementById('onboard-ok');
+    const countEl = document.getElementById('onboard-count');
+    if (countEl && state.raw && state.raw.counts && state.raw.counts.entry) {
+      countEl.textContent = `${state.raw.counts.entry.toLocaleString('en')}`;
+    }
     const seen = (() => { try { return localStorage.getItem(STORAGE_ONBOARD_KEY); } catch { return null; } })();
-    if (!seen) {
-      overlay.classList.remove('hidden');
-      ok.focus();
-    }
-    function dismiss() {
-      overlay.classList.add('hidden');
-      try { localStorage.setItem(STORAGE_ONBOARD_KEY, '1'); } catch {}
-      const help = document.getElementById('btn-help');
-      if (help) help.focus();
-    }
-    ok.addEventListener('click', dismiss);
-    overlay.addEventListener('click', (ev) => { if (ev.target === overlay) dismiss(); });
+    if (!seen) openOnboarding();
+    ok.addEventListener('click', closeOnboarding);
+    overlay.addEventListener('click', (ev) => { if (ev.target === overlay) closeOnboarding(); });
+    overlay.addEventListener('keydown', (ev) => {
+      if (ev.key !== 'Tab') return;
+      const items = Array.from(overlay.querySelectorAll('a[href], button:not([disabled])'));
+      if (!items.length) return;
+      const first = items[0], last = items[items.length - 1];
+      if (ev.shiftKey && document.activeElement === first) { ev.preventDefault(); last.focus(); }
+      else if (!ev.shiftKey && document.activeElement === last) { ev.preventDefault(); first.focus(); }
+    });
     document.addEventListener('keydown', (ev) => {
-      if (!overlay.classList.contains('hidden') && ev.key === 'Escape') dismiss();
+      if (!overlay.classList.contains('hidden') && ev.key === 'Escape') closeOnboarding();
     });
   }
 
@@ -826,11 +952,9 @@
           updateBreadcrumb();
           history.replaceState(null, '', '#' + encodeURIComponent(node.id));
         } else {
+          // Selection reveals details; the details panel holds the only
+          // "Open resource" action, so exploratory clicks never open tabs.
           focusNode(node.id);
-        }
-        if (node.kind === 'entry' && node.url) {
-          window.open(node.url, '_blank', 'noopener,noreferrer');
-          announce(`Opened ${node.label} in new tab`);
         }
       })
       .onBackgroundClick(() => {
@@ -881,17 +1005,41 @@
     setTimeout(() => loading.remove(), 600);
   }
 
+  function showFailure(message) {
+    const loading = document.getElementById('loading');
+    if (!loading) return;
+    loading.classList.remove('hidden');
+    loading.classList.add('failed');
+    loading.querySelector('.label').textContent = message;
+    const actions = document.getElementById('loading-actions');
+    if (actions) actions.hidden = false;
+    const retry = document.getElementById('btn-retry');
+    if (retry && !retry._wired) {
+      retry._wired = true;
+      retry.addEventListener('click', () => location.reload());
+    }
+  }
+
+  let started = false;
   function start() {
+    if (started) return;
+    started = true;
     init().catch(err => {
       console.error(err);
-      const loading = document.getElementById('loading');
-      loading.querySelector('.label').textContent = 'Failed to load graph: ' + err.message;
+      showFailure('The graph could not be loaded. Check your connection and retry, or browse the same catalog as a list.');
     });
   }
 
+  const DEPS_TIMEOUT_MS = 12000;
   function ready() {
-    if (window.ForceGraph3D && window.THREE) start();
-    else window.addEventListener('graph-deps-ready', start, { once: true });
+    if (window.ForceGraph3D && window.THREE) { start(); return; }
+    window.addEventListener('graph-deps-ready', start, { once: true });
+    window.addEventListener('graph-deps-failed', () => {
+      showFailure('The 3D graph library could not be loaded. Retry, or browse the same catalog as a list.');
+    }, { once: true });
+    setTimeout(() => {
+      if (!started) showFailure('The 3D graph library is taking too long to load. Retry, or browse the same catalog as a list.');
+    }, DEPS_TIMEOUT_MS);
   }
 
   if (document.readyState === 'loading') {

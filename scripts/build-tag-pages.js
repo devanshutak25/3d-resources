@@ -12,6 +12,7 @@
 const fs = require('fs');
 const path = require('path');
 const seo = require('./lib/seo-pages');
+const render = require('./render');
 const { pageShell, SITE_URL, REPO_URL, escHtml } = require('./lib/page-shell');
 const { execSync } = require('child_process');
 
@@ -32,13 +33,16 @@ function lastUpdatedDate() {
   } catch (_) { return new Date().toISOString().slice(0, 10); }
 }
 
-// Entry list markup. Each row links out to the resource and back to its section
-// anchor (internal link for crawl).
+// Entry list markup. Same compact summary as the main catalog: name, license
+// pill, type, description, then where it lives (internal link for crawl).
 function entryListHtml(entries) {
   const items = entries.map(e => {
     const name = escHtml(e.name);
-    const where = `<small class="tag-entry-where">in <a href="${escHtml(e.backAnchor)}">${escHtml(e.sectionTitle)} → ${escHtml(e.subTitle)}</a></small>`;
-    return `        <li><a href="${escHtml(e.url)}" target="_blank" rel="noopener noreferrer">${name}</a> ${where}</li>`;
+    const pill = render.licensePill(e.license, e.entry_type);
+    const type = e.entry_type ? ` <span class="type-pill">${escHtml(e.entry_type)}</span>` : '';
+    const desc = e.description ? `. ${render.processDescription(escHtml(e.description))}` : '';
+    const where = `<br><small class="tag-entry-where">in <a href="${escHtml(e.backAnchor)}">${escHtml(e.sectionTitle)} → ${escHtml(e.subTitle)}</a></small>`;
+    return `        <li><a href="${escHtml(e.url)}" target="_blank" rel="noopener noreferrer">${name}</a>${pill}${type}${desc}${where}</li>`;
   }).join('\n');
   return `      <ul class="tag-entry-list">\n${items}\n      </ul>`;
 }

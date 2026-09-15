@@ -8,6 +8,7 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const catalog = require('./lib/catalog');
+const { labelTableCells } = require('./lib/table-labels');
 
 const SITE_URL = 'https://3d.devanshutak.xyz';
 const REPO_URL = 'https://github.com/devanshutak25/3d-resources';
@@ -259,14 +260,9 @@ html = html.replace(
   });
 })();
 
-// Tag the "Heads up" blockquote with a class for yellow styling
-html = html.replace(/<blockquote>\s*<p>((?:(?:<span[^>]*>⚠️<\/span>)|⚠️)?\s*<strong>Heads up:<\/strong>[\s\S]*?)<\/p>\s*<\/blockquote>/,
-  '<blockquote class="callout-warning"><p>$1</p></blockquote>');
-
-// Remove the "Looking for something specific?" callout from the deployed site.
-// (Filter bar at top is the equivalent on the site.)
-html = html.replace(/<blockquote>\s*<p><strong>Looking for something specific\?<\/strong>[\s\S]*?<\/p>\s*<\/blockquote>\s*/,
-  '');
+// Column labels on every table cell so narrow screens can stack rows into
+// labelled cards (style.css @media max-width: 768px).
+html = labelTableCells(html);
 
 // SSR shell for the filter bar — gives crawlers a <search> landmark and
 // no-JS users a visible affordance. filter.js removes this on init and
@@ -384,7 +380,7 @@ ${JSON.stringify(jsonLd, null, 2)}
         <div class="footer-col">
           <strong>3D Resources</strong>
           <p>Curated by <a href="https://devanshutak.xyz">Devanshu Tak</a>.</p>
-          <p><small>Last updated ${LAST_UPDATED}</small></p>
+          <p><small>Site updated ${LAST_UPDATED}. Link and pricing checks run separately; hover a price for its check date.</small></p>
         </div>
         <div class="footer-col">
           <strong>Contribute</strong>

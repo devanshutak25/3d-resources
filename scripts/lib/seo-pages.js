@@ -78,6 +78,7 @@ function tagPages(dataJsonPath) {
         bucket.set(e.url, {
           name: e.name,
           url: e.url,
+          description: e.description || '',
           license: e.license || null,
           entry_type: e.entry_type || null,
           section: e.section,

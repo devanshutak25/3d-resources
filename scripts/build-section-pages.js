@@ -20,6 +20,7 @@ const seo = require('./lib/seo-pages');
 const { slugify } = require('./lib/slugify');
 const { pageShell, SITE_URL, REPO_URL, escHtml } = require('./lib/page-shell');
 const { entriesToJsonLd } = require('./lib/entry-schema');
+const { labelTableCells } = require('./lib/table-labels');
 
 function lastUpdatedDate() {
   try {
@@ -92,6 +93,9 @@ function postProcessHtml(html, anchor, editTargetFile) {
     if (!extra) return full;
     return `<a ${pre}href="${href}"${post}${extra}>`;
   });
+
+  // Column labels for the stacked mobile table layout.
+  html = labelTableCells(html);
 
   return html;
 }

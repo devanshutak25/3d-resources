@@ -1,6 +1,6 @@
 slug: lighting-rendering-shaders
 title: Lighting, Rendering & Shaders
-description: 3D lighting, rendering theory, shader theory, and renderer-specific learning. Render engine software lives in §12.
+description: 3D lighting, rendering theory, shader theory, and renderer-specific learning. Render engine software is listed under Software Reference.
 subsections:
   - slug: lighting-fundamentals
     title: "3D Lighting: Fundamentals"

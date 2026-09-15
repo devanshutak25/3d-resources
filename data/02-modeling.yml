@@ -1,6 +1,6 @@
 slug: modeling-sculpting-texturing
 title: Modeling, Sculpting & Texturing
-description: Per-DCC learning plus texturing and material-authoring toolchain. Per-renderer learning lives in §4.
+description: Learning per 3D application, plus texturing and material-authoring tools. Renderer-specific learning is under Lighting, Rendering & Shaders.
 subsections:
   - slug: blender-plugins-addons
     title: "Blender: Plugins & Addons"

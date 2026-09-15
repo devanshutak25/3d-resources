@@ -18,14 +18,22 @@
 
   <script type="module">
     // Use esm.sh so three is deduped between 3d-force-graph's internal copy
-    // and our octahedron geometry, avoiding instanceof mismatches.
-    import ForceGraph3D from 'https://esm.sh/3d-force-graph@1.80.0?deps=three@0.180.0';
-    import * as THREE from 'https://esm.sh/three@0.180.0';
-    import SpriteText from 'https://esm.sh/three-spritetext@1.10.0?deps=three@0.180.0';
-    window.THREE = THREE;
-    window.ForceGraph3D = ForceGraph3D;
-    window.SpriteText = SpriteText;
-    window.dispatchEvent(new Event('graph-deps-ready'));
+    // and our octahedron geometry, avoiding instanceof mismatches. Dynamic
+    // imports so a failed CDN load surfaces as an event instead of a silent
+    // module error that leaves the page waiting forever.
+    Promise.all([
+      import('https://esm.sh/3d-force-graph@1.80.0?deps=three@0.180.0'),
+      import('https://esm.sh/three@0.180.0'),
+      import('https://esm.sh/three-spritetext@1.10.0?deps=three@0.180.0')
+    ]).then(([fg, THREE, st]) => {
+      window.THREE = THREE;
+      window.ForceGraph3D = fg.default;
+      window.SpriteText = st.default;
+      window.dispatchEvent(new Event('graph-deps-ready'));
+    }).catch((err) => {
+      window.__graphDepsError = err;
+      window.dispatchEvent(new Event('graph-deps-failed'));
+    });
   </script>
   <script defer src="/assets/js/graph.js"></script>
 </head>
@@ -122,11 +130,11 @@
   <div id="onboard" class="g-onboard hidden" role="dialog" aria-modal="true" aria-labelledby="onboard-title">
     <div class="card">
       <h2 id="onboard-title">3D knowledge graph</h2>
-      <p>~3,000 resources from the catalog connected by their sections, subsections, and tags.</p>
+      <p><span id="onboard-count">The catalog's</span> resources connected by their sections, subsections, and tags. It starts with sections and subsections only; resources appear when you open a subsection.</p>
       <ul>
-        <li><strong>Click</strong> a subsection to expand its entries · click an entry to open it</li>
-        <li><strong>Drag</strong> any node to move it · <strong>right-drag</strong> to rotate · <strong>scroll</strong> to zoom</li>
-        <li><strong>Hover</strong> for connections · use <kbd>/</kbd> to focus search, <kbd>Esc</kbd> to clear</li>
+        <li><strong>Click</strong> a subsection to show its resources · click a resource to see its details and link</li>
+        <li><strong>Drag</strong> to rotate · <strong>scroll or pinch</strong> to zoom · use the <strong>+ / −</strong> buttons in the panel if you prefer</li>
+        <li><strong>Search</strong> by name with <kbd>/</kbd> · <kbd>Esc</kbd> clears the selection · <strong>Show all resources</strong> in the panel adds every entry</li>
       </ul>
       <p style="font-size:12px;color:var(--g-text-dim);margin:0 0 12px 0">
         Prefer a text-based view? <a href="/" style="color:var(--g-accent)">Open the structured page →</a>
@@ -135,9 +143,13 @@
     </div>
   </div>
 
-  <div id="loading" class="g-loading">
+  <div id="loading" class="g-loading" role="status" aria-live="polite">
     <div class="dots" aria-hidden="true"><span></span><span></span><span></span></div>
     <div class="label">Loading graph...</div>
+    <div class="g-loading-actions" id="loading-actions" hidden>
+      <button class="g-btn" id="btn-retry" type="button">Retry</button>
+      <a class="g-btn" href="/">Browse the list instead</a>
+    </div>
   </div>
 </body>
 </html>

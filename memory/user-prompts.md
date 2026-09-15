@@ -846,3 +846,13 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > add https://www.ameede.net/
 
 **Answered:** Added Ameede (free CNC/3D-print STL + vector downloads) to §01 model-libraries-specialized (22→23) after flagging doubtful file provenance; validation ✓ 424 warnings, 0 errors.
+
+**Prompt:** (2026-09-16)
+> "C:\Users\Devanshu\Documents\Codex\2026-09-16\g-personal-3d-resources\outputs\3d-resources-ux-audit.md" please read and make these fixes
+
+**Answered:** Read the 40-finding UX audit; proposed phased execution and flagged UX-25 conflict with the no-reduced-motion rule.
+
+**Prompt:** (2026-09-16)
+> Start with Phase 1 and then go through all. Don't wait for approval, please make it better
+
+**Answered:** Implemented all audit phases (filter.js rewrite, render/build/page-shell/tag-page changes, graph fixes, data wording), skipping UX-25 (rule conflict) and deferring UX-03/UX-04 host facet/UX-39 budget. Validate 424/0, 58 unit tests green, full build exit 0, headless-Chrome DOM checks pass, README regenerated. Uncommitted.

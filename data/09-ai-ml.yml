@@ -1,6 +1,6 @@
 slug: ai-ml-for-cg
 title: AI & Machine Learning for CG
-description: Generative AI and ML tools across image, video, 3D, texture, audio. AI mocap lives in §3 (dual-listed).
+description: Generative AI and ML tools across image, video, 3D, texture, audio. AI motion capture is also under Animation & Rigging.
 subsections:
   - slug: ml-for-cg
     title: Machine Learning for CG

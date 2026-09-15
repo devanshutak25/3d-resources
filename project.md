@@ -84,6 +84,7 @@ Secondary:
 │   │   ├── quality-score.js   # qualityScore(entry) → {score, factors}.
 │   │   ├── quality-score.test.js
 │   │   ├── slugify.js         # Shared Pattern A anchor slugify (SEO pages + sitemap).
+│   │   ├── table-labels.js    # Adds data-label to <td> so tables stack into cards on mobile.
 │   │   ├── seo-pages.js       # SEO page enumeration: subsectionPages/tagPages/THIN_THRESHOLD.
 │   │   ├── page-shell.js      # Shared HTML shell for section/subsection/tag pages.
 │   │   ├── ingest-core.js
@@ -336,12 +337,18 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 ## 9. Design style (site)
 
 - Dark mode by default. Cards with hover lift.
-- Filter bar (license / platform / workflow chips) above sections, server-rendered shell + JS hydration. Panel open by default on desktop, collapsed on mobile (≤768px). Chip groups live behind a collapsed-by-default sub-toggle (`#filter-groups-toggle`); auto-opens on URL-hash filter restore, collapses on TOC jump. TOC clicks preserve active search + filters (do not clear).
+- Site header is short (`only:site` block in `render.js` header): H1 "3D Resources", one-line tagline, quiet meta line (curator, Suggest, Contribute, graph). The long intro + warning callout are README-only.
+- Filter bar above sections, server-rendered shell + JS hydration (`assets/js/filter.js`). Facets: Type, Category, License, Level; OS / Workflow / Output behind a "More filters" disclosure; "Include entries with no recorded value" checkbox. **Strict matching:** an entry with no license/tag for an active group is excluded unless that box is on. Desktop: panel open, chip groups behind `#filter-groups-toggle`. Mobile (≤768px): search stays inline; the Filters button opens `#filter-panel` as a managed dialog (inert background, focus trap, Close, "Show N resources", Escape closes it first).
+- **URL state lives in the query string** (`/?q=…&license=Free&unspecified=1`); the fragment is only for items/sections. Legacy `#q=` links restore once and are rewritten. Section/tag pages carry a `/?q=` search form.
+- Results mode: while a query or facet is active, `body.results-mode` hides Contents + the mobile section selector; sections, subsections and rows reorder by best score; count shows unique resources. Active filters appear as removable pills; empty state offers buttons that each perform one exact change with its resulting count.
+- Headings stay `<h2>/<h3>`; a `<button class="heading-toggle">` inside carries `aria-expanded`. Arrow-key nav only acts when focus is already on a heading toggle or row. Enter on a row opens the resource. Rows get a client-side type pill + hover "report" link (prefilled issue form).
+- License pills: Paid / Free tier / Mixed / "Free, non-commercial" / "License unspecified" (the last only on software, tool, plugin, asset-source, marketplace, service, book, hardware). Free and Open source get no pill. Tables say "Unspecified"; prices carry `title="Pricing checked …"`.
+- Mobile tables stack into labelled cards via `data-label` (`scripts/lib/table-labels.js`); root font stays 16px on phones. TOC clicks preserve active search + filters (do not clear).
 - Per-section OG images with `: ` two-line layout.
 - Material Design Icons via CDN (subset).
 - Back-to-top button (visible after 600 px scroll).
 - "Edit on GitHub" pill in each section H2.
-- WebGL 3D graph view (`graph.html`) with mobile collapsible legend (bottom-sheet FAB on ≤720px).
+- WebGL 3D graph view (`graph.html`) with mobile collapsible legend (bottom-sheet FAB on ≤720px). Starts with sections + subsections only; "All resources" toggle adds every entry. Click selects and shows details; the only external open is the "Open resource" link in the details card. Search ranks exact > prefix > substring, caps at 30 with a "Showing 30 of N" note + catalog link. Onboarding is a real modal (inert + focus loop). CDN import failure or a 12 s timeout shows Retry + "Browse the list instead".
 
 ## 10. Memory protocol (mandatory)
 
@@ -356,6 +363,7 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 
 ## 11. Pending tasks / known work
 
+- 2026-09-16: **UX audit fixes applied** (40 findings from `~/Documents/Codex/2026-09-16/g-personal-3d-resources/outputs/3d-resources-ux-audit.md`; full detail in `memory/decisions.md`). Done: all of Phases 1, 2, 4 and most of 3. **Skipped by rule:** UX-25 (honor `prefers-reduced-motion`) conflicts with §8 "animations always run"; user must overrule the rule to take it. **Deferred:** UX-03 desktop category sidebar (L effort, structural); UX-04 host-software facet (no normalized `host_compat` data to filter on); UX-39 performance budget (no measurement tooling in repo). **OPEN:** README regenerated (large diff). Drawer interaction, screen reader behavior, real-device keyboard, and graph WebGL runtime were not exercised (headless Chrome DOM dumps only). Uncommitted; user commits.
 - 2026-09-15: Added **Ameede** (free CNC/3D-print STL + laser vector downloads) to §01 `model-libraries-specialized/01` (22→23). asset-source, Free, web, generalist. Site bot-blocks non-browser UAs (403), noted in `notes:` so link scans do not auto-deprecate it. **OPEN:** file provenance unverified (looks like repackaged ArtCAM/Aspire reliefs + MakerWorld prints while the site claims own IP); user accepted the flag. Validation ✓ 424 warnings, 0 errors. README not regenerated; nothing committed.
 
 - 2026-09-15: Eight review fixes prepared. HDRI Hub has two README tags. Public JSON includes descriptions and section heading anchors and excludes deprecated entries; category decoration uses the displayed section, including mirrored tables. Graph links use shared `slugify`. Link scans preserve editorial deprecation and report transient failures/redirects. Atom entries sort globally by required `added_at` with stable publication/update timestamps. All 3,532 source entries were backfilled from history. Regression checks are included in CI.

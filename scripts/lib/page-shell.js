@@ -98,6 +98,10 @@ ${JSON.stringify(jsonLd, null, 2)}
   <div class="wrapper">
     <header>
       ${headerHtml}
+      <form class="global-search" action="/" method="get" role="search" aria-label="Search the full catalog">
+        <input type="search" name="q" placeholder="Search all resources…" aria-label="Search all resources">
+        <button type="submit">Search</button>
+      </form>
     </header>
     <nav class="breadcrumb" aria-label="Breadcrumb">${breadcrumbHtml}</nav>
     <main id="main-content" tabindex="-1">
@@ -110,7 +114,7 @@ ${subNavHtml || ''}      ${htmlBody}
       <i class="mdi mdi-arrow-up" aria-hidden="true"></i>
     </a>
     <footer class="site-footer">
-      <p><a href="/">3d.devanshutak.xyz</a> · <a href="${REPO_URL}">GitHub</a> · <a href="https://thetoolbox.art/" rel="noopener">Some entries sourced from thetoolbox.art</a> · <small>Last updated ${lastUpdated}</small></p>
+      <p><a href="/">3d.devanshutak.xyz</a> · <a href="${REPO_URL}">GitHub</a> · <a href="https://thetoolbox.art/" rel="noopener">Some entries sourced from thetoolbox.art</a> · <small>Site updated ${lastUpdated}</small></p>
     </footer>
     <script>
       (function(){

@@ -1,6 +1,6 @@
 slug: software-reference
 title: Software Reference
-description: All software. Full license, pricing, platform, and tag data. Canonical source.
+description: Every application in one place with license, pricing, platform and tags. Topic sections show the same tables next to their tutorials.
 # Round 3 §D — `mirror_into: <topical-section-slug>` mirrors this table into the
 # named topical section as a collapsed-by-default H3 with provenance subtitle.
 # Single source of truth: data lives only here; mirror is a rendering only.

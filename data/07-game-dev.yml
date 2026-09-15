@@ -1,6 +1,6 @@
 slug: game-development
 title: Game Development
-description: Engines, per-engine resources, game dev tools, game assets (dual-listed from §1), design theory, learning, communities, and jams. Engine software tables live in §12.
+description: Engines, per-engine resources, game dev tools, game assets (also under Assets & Libraries), design theory, learning, communities, and jams. Engine software tables are under Software Reference.
 subsections:
   - slug: godot-official
     title: "Godot: Official Resources"
