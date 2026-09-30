@@ -109,3 +109,21 @@ entries:
         - linux
     stale: true
     last_pushed: '2023-12-10'
+  - name: three.ws Forge
+    url: https://three.ws/forge
+    added_at: '2026-09-30T08:28:45.000Z'
+    description: Browser text-to-3D, image-to-3D, and sketch-to-3D that exports textured GLB models, with auto-rigging for humanoid characters. Open source (Apache-2.0), free draft tier with no account.
+    license: Open Source
+    entry_type: tool
+    tags:
+      tech:
+        - ai-generative
+        - opensource-alt
+      workflow:
+        - modeling
+        - texturing
+        - rigging
+      output:
+        - games
+      platform:
+        - web
