@@ -45,6 +45,8 @@ entries:
       - 4D
     url_last_verified: '2026-10-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-10-27'
   - name: LichtFeld Studio
     url: https://github.com/MrNeRF/LichtFeld-Studio
     added_at: '2026-05-18T15:42:40.000Z'
@@ -308,6 +310,8 @@ entries:
         - nerf
         - opensource-alt
         - gpu
+    stale: true
+    last_pushed: '2024-07-28'
   - name: 3DGS Introduction
     url: https://huggingface.co/blog/gaussian-splatting
     added_at: '2026-04-19T17:29:43.000Z'

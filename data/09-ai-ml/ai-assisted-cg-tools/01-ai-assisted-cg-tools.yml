@@ -225,6 +225,8 @@ entries:
     readme_tags:
       - Matting
       - Real-Time
+    stale: true
+    last_pushed: '2024-04-02'
   - name: Track Anything
     url: https://github.com/gaomingqi/Track-Anything
     added_at: '2026-05-21T18:41:53.000Z'

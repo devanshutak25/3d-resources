@@ -148,6 +148,8 @@ entries:
       tech:
         - opensource-alt
         - godot
+    stale: true
+    last_pushed: '2024-10-17'
   - name: Godot 4 glTF runtime import
     url: https://github.com/godotengine/godot-docs/issues/6385
     added_at: '2026-04-19T17:29:43.000Z'

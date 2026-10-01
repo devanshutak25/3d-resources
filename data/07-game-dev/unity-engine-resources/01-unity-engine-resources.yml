@@ -184,6 +184,8 @@ entries:
       tech:
         - unity-plugin
         - xr
+    stale: true
+    last_pushed: '2022-05-17'
   - name: Cheatography Unity Cheatsheet
     url: https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/
     added_at: '2026-04-19T17:15:03.000Z'
@@ -558,8 +560,6 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
-    stale: true
-    last_pushed: '2022-07-17'
   - name: UnitySVG
     url: https://github.com/MrJoy/UnitySVG
     added_at: '2026-04-19T17:15:03.000Z'

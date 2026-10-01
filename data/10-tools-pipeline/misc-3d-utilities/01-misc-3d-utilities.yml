@@ -568,6 +568,8 @@ entries:
         - win
         - mac
         - linux
+    stale: true
+    last_pushed: '2024-07-30'
   - name: EZGIF
     url: https://ezgif.com/
     added_at: '2026-06-17T07:16:34.000Z'

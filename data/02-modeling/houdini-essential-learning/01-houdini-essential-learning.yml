@@ -268,6 +268,8 @@ entries:
         - houdini
     url_last_verified: '2026-10-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-12-22'
   - name: educational-hips (pedohorse)
     url: https://github.com/pedohorse/educational-hips
     added_at: '2026-06-17T07:16:34.000Z'
@@ -284,6 +286,8 @@ entries:
         - houdini
     url_last_verified: '2026-10-01'
     url_status: redirect
+    stale: true
+    last_pushed: '2022-08-05'
   - name: hip-files (lightReachers)
     url: https://github.com/lightReachers/hip-files
     added_at: '2026-06-17T07:16:34.000Z'
@@ -299,6 +303,8 @@ entries:
         - houdini
     url_last_verified: '2026-10-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-03-14'
   - name: Assorted Houdini Demos (jakericedesigns)
     url: https://github.com/jakericedesigns/Assorted-Houdini-Demos
     added_at: '2026-06-17T07:16:34.000Z'
@@ -315,6 +321,8 @@ entries:
         - houdini
     url_last_verified: '2026-10-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-02-01'
   - name: houdini-sandbox (K240)
     url: https://github.com/K240/houdini-sandbox/tree/master/scenes
     added_at: '2026-06-17T07:16:34.000Z'

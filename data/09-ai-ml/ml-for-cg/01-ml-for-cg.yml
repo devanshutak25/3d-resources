@@ -76,6 +76,8 @@ entries:
         - ai-generative
       platform:
         - web
+    stale: true
+    last_pushed: '2024-07-04'
   - name: Awesome 3D Human
     url: https://github.com/lijiaman/awesome-3d-human
     added_at: '2026-04-19T17:29:43.000Z'

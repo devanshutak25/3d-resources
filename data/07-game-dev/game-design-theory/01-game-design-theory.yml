@@ -359,6 +359,8 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+    stale: true
+    last_pushed: '2024-09-05'
   - name: Epic Games
     url: https://github.com/epicgames
     added_at: '2026-04-16T21:13:44.000Z'

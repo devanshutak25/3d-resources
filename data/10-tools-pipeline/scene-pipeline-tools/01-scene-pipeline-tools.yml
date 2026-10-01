@@ -267,6 +267,8 @@ entries:
       - Open Source
     url_last_verified: '2026-10-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-10-28'
   - name: Easy3D
     url: https://github.com/LiangliangNan/Easy3D
     added_at: '2026-04-16T21:13:44.000Z'
@@ -310,6 +312,8 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
     archived: true
+    stale: true
+    last_pushed: '2024-10-16'
   - name: Stalker
     url: https://github.com/eoyilmaz/stalker
     added_at: '2026-04-16T21:13:44.000Z'

@@ -842,6 +842,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-10-04'
   - name: Gamekit3D
     url: https://github.com/Unity-Technologies/Gamekit3D
     added_at: '2026-04-19T17:15:03.000Z'

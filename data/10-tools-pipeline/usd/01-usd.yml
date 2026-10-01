@@ -110,6 +110,8 @@ entries:
       - Examples
     url_last_verified: '2026-10-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-08-17'
   - name: Animal Logic's USD Docker
     url: https://github.com/AnimalLogic/docker-usd
     added_at: '2026-04-16T21:13:44.000Z'

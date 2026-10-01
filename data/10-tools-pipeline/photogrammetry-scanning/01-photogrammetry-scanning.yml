@@ -257,6 +257,8 @@ entries:
     readme_tags:
       - PyTorch
       - GitHub
+    stale: true
+    last_pushed: '2024-07-25'
   - name: NeRF-PyTorch-Lightning (nerf_pl)
     url: https://github.com/kwea123/nerf_pl
     added_at: '2026-04-19T17:29:43.000Z'
@@ -455,6 +457,8 @@ entries:
     readme_tags:
       - MIT
       - Reimpl
+    stale: true
+    last_pushed: '2024-10-25'
   - name: 3D Gaussian Splatting (joeyan reimpl)
     url: https://github.com/joeyan/gaussian_splatting
     added_at: '2026-04-19T17:29:43.000Z'
@@ -517,3 +521,5 @@ entries:
     readme_tags:
       - Nerfstudio
       - Fork
+    stale: true
+    last_pushed: '2024-06-28'

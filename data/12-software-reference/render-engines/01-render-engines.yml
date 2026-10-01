@@ -593,6 +593,7 @@ entries:
         - rendering
       tech:
         - opensource-alt
+    archived: true
   - name: Sunflow
     url: https://github.com/fpsunflower/sunflow
     added_at: '2026-04-16T21:13:44.000Z'

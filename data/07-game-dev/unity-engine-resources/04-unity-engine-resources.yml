@@ -133,6 +133,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-07-09'
   - name: Universal Unity Hooks
     url: https://github.com/UserR00T/UniversalUnityHooks
     added_at: '2026-04-19T17:15:03.000Z'
@@ -635,8 +637,6 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
-    stale: true
-    last_pushed: '2022-12-27'
   - name: BitpackingTools
     url: https://github.com/emotitron/BitpackingTools
     added_at: '2026-04-19T17:15:03.000Z'

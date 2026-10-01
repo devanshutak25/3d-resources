@@ -412,6 +412,8 @@ entries:
         - win
         - mac
         - linux
+    stale: true
+    last_pushed: '2024-09-03'
   - name: Spaceship Generator
     url: https://github.com/a1studmuffin/SpaceshipGenerator
     added_at: '2026-04-19T17:29:43.000Z'
@@ -609,6 +611,8 @@ entries:
         - win
         - mac
         - linux
+    stale: true
+    last_pushed: '2024-08-10'
   - name: RandoMesh
     url: https://github.com/mantissa-/RandoMesh
     added_at: '2026-04-19T17:29:43.000Z'

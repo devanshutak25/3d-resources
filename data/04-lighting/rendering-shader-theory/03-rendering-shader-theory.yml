@@ -670,8 +670,6 @@ entries:
       tech:
         - opensource-alt
         - unreal-plugin
-    stale: true
-    last_pushed: '2019-04-02'
   - name: Houdini Gaussian Splatting Viewport Renderer
     url: https://github.com/rubendhz/houdini-gsplat-renderer
     added_at: '2026-04-19T17:29:43.000Z'

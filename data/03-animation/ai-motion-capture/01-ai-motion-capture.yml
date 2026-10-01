@@ -21,6 +21,8 @@ entries:
       - Pose-controlled
     url_last_verified: '2026-10-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-07-31'
   - name: Bandai Namco Research Motiondataset
     url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
     added_at: '2026-04-19T17:29:43.000Z'

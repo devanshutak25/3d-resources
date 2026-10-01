@@ -466,8 +466,6 @@ entries:
     readme_tags:
       - analytics
       - flurry
-    stale: true
-    last_pushed: '2015-06-01'
   - name: Google Analytics Plugin for Unity
     url: https://github.com/googleanalytics/google-analytics-plugin-for-unity
     added_at: '2026-04-19T17:15:03.000Z'
@@ -605,6 +603,8 @@ entries:
     readme_tags:
       - lua
       - scripting
+    stale: true
+    last_pushed: '2024-06-22'
   - name: LuaProfiler For Unity
     url: https://github.com/ElPsyCongree/LuaProfiler-For-Unity
     added_at: '2026-04-19T17:15:03.000Z'

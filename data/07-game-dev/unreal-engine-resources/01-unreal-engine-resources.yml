@@ -738,6 +738,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-12'
   - name: VaRest
     url: https://github.com/ufna/VaRest
     added_at: '2026-04-19T17:29:43.000Z'
@@ -871,6 +873,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-26'
   - name: Street Map
     url: https://github.com/ue4plugins/StreetMap
     added_at: '2026-04-19T17:29:43.000Z'

@@ -197,6 +197,8 @@ entries:
         - vex
     url_last_verified: '2026-10-01'
     url_status: ok
+    stale: true
+    last_pushed: '2021-07-27'
   - name: Mantra LPE Cookbook (alexwheezy)
     url: https://github.com/alexwheezy/Mantra-LPE-Cookbook
     added_at: '2026-06-17T07:16:34.000Z'
@@ -215,6 +217,8 @@ entries:
         - houdini
     url_last_verified: '2026-10-01'
     url_status: redirect
+    stale: true
+    last_pushed: '2021-05-09'
   - name: Houdini OpenCL (MysteryPancake)
     url: https://mysterypancake.github.io/Houdini-OpenCL/
     added_at: '2026-06-17T07:16:34.000Z'

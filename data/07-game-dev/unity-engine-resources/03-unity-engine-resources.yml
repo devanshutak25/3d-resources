@@ -301,6 +301,8 @@ entries:
     readme_tags:
       - webrtc
       - p2p
+    stale: true
+    last_pushed: '2024-09-03'
   - name: WebRTC Unity Plugin
     url: https://github.com/bengreenier/webrtc-unity-plugin
     added_at: '2026-04-19T17:15:03.000Z'
@@ -781,6 +783,8 @@ entries:
     readme_tags:
       - ecs
       - reactive
+    stale: true
+    last_pushed: '2024-10-30'
   - name: uMVVM
     url: https://github.com/MEyes/uMVVM
     added_at: '2026-04-19T17:15:03.000Z'
@@ -996,6 +1000,8 @@ entries:
     readme_tags:
       - framework
       - architecture
+    stale: true
+    last_pushed: '2024-08-29'
   - name: Unity Framework
     url: https://github.com/cleavetv/unity-framework
     added_at: '2026-04-19T17:15:03.000Z'
