@@ -8,8 +8,8 @@ entries:
     readme_tags:
       - Arnold
       - Volumes
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - rendering
@@ -31,7 +31,7 @@ entries:
     readme_tags:
       - Octane
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - Thesis
       - Light Transport
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Takua Renderer
     url: http://www.yiningkarlli.com/projects/takuarender/
@@ -71,8 +71,8 @@ entries:
     description: Karl Li's hobbyist physically-based renderer project page with technical write-ups.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - rendering

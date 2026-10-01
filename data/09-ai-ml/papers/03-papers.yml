@@ -5,7 +5,7 @@ entries:
     description: Li et al., CoRL 2021 Oral
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -22,7 +22,7 @@ entries:
     description: Matthew Tancik et al., Arxiv 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -39,7 +39,7 @@ entries:
     description: Pumarola et al., CVPR 2021 | [github](https://github.com/albertpumarola/D-NeRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -56,7 +56,7 @@ entries:
     description: Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -73,7 +73,7 @@ entries:
     description: Ben Mildenhall et al, arXiv 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -90,7 +90,7 @@ entries:
     description: Wang et al., CVPR 2022 | [github](https://github.com/cassiePython/CLIPNeRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -107,7 +107,7 @@ entries:
     description: Lindell et al., CVPR 2021 | [github](https://github.com/computational-imaging/automatic-integration)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -124,8 +124,8 @@ entries:
     description: Li et al., CVPR 2021 | [github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - nerf
@@ -141,7 +141,7 @@ entries:
     description: Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -158,7 +158,7 @@ entries:
     description: Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -175,8 +175,8 @@ entries:
     description: Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: unreachable
     tags:
       tech:
         - nerf
@@ -192,7 +192,7 @@ entries:
     description: Xie et al., Arxiv 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -209,7 +209,7 @@ entries:
     description: Gafni et al., CVPR 2021 | [github](https://github.com/gafniguy/4D-Facial-Avatars)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -226,7 +226,7 @@ entries:
     description: Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -243,8 +243,8 @@ entries:
     description: Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - nerf
@@ -260,7 +260,7 @@ entries:
     description: Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -277,7 +277,7 @@ entries:
     description: Liu et al., Arxiv 2022
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -294,7 +294,7 @@ entries:
     description: Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -311,7 +311,7 @@ entries:
     description: Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -328,8 +328,8 @@ entries:
     description: Gu et al., Arxiv 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - nerf
@@ -345,7 +345,7 @@ entries:
     description: Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -362,7 +362,7 @@ entries:
     description: Barron et al., Arxiv 2022
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -379,8 +379,8 @@ entries:
     description: Ost et al., CVPR 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - nerf
@@ -396,7 +396,7 @@ entries:
     description: Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -413,7 +413,7 @@ entries:
     description: NeRF research paper on color and appearance modelling.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -429,7 +429,7 @@ entries:
     description: Chan et al., CVPR 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -446,7 +446,7 @@ entries:
     description: Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -463,8 +463,8 @@ entries:
     description: Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - nerf
@@ -480,7 +480,7 @@ entries:
     description: Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -497,7 +497,7 @@ entries:
     description: Martin-Brualla et al., CVPR 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -514,7 +514,7 @@ entries:
     description: Park et al., Arxiv 2020 | [github](https://github.com/google/nerfies)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -531,8 +531,8 @@ entries:
     description: Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - nerf
@@ -548,7 +548,7 @@ entries:
     description: Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -565,8 +565,8 @@ entries:
     description: Zhang et al. Arxiv 2021 | [github](https://github.com/google/nerfactor)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - nerf
@@ -583,8 +583,8 @@ entries:
     description: Srinivasan et al. CVPR 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - nerf
@@ -600,7 +600,7 @@ entries:
     description: Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -617,7 +617,7 @@ entries:
     description: Gao et al., Arxiv 2020
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -634,7 +634,7 @@ entries:
     description: Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -651,7 +651,7 @@ entries:
     description: Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -668,7 +668,7 @@ entries:
     description: Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -685,7 +685,7 @@ entries:
     description: Zhi et al., Arxiv 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -702,7 +702,7 @@ entries:
     description: Jang et al., ICCV 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -719,7 +719,7 @@ entries:
     description: Xian et al., CVPR 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -736,7 +736,7 @@ entries:
     description: Jiaxin Li et al., ICCV 2021 | [github](https://github.com/vincentfung13/MINE)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -753,7 +753,7 @@ entries:
     description: Xu et al., ECCV 2022 | [github](https://github.com/VITA-Group/SinNeRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -770,7 +770,7 @@ entries:
     description: Tancik et al., Arxiv 2022
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -787,7 +787,7 @@ entries:
     description: Wei et al., ICCV 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -804,7 +804,7 @@ entries:
     description: Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -821,8 +821,8 @@ entries:
     description: Yen-Chen et al. IROS 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - nerf
@@ -838,7 +838,7 @@ entries:
     description: Jiang et al., CVPR 2023
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:

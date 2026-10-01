@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - SketchUp
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: 3ddd
     url: https://3ddd.ru/
@@ -32,7 +32,7 @@ entries:
     readme_tags:
       - Arch/Design
       - Mixed Free/Paid
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Design Connected
     url: https://www.designconnected.com/catalog/3D-Models/all/
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - Furniture
       - Premium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Syncronia
     url: https://www.syncronia.com/en
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - BIM
       - CAD
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Evermotion
     url: https://evermotion.org/
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Scenes
       - Arch-Viz Classic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: BIMobject
     url: https://www.bimobject.com/en-us
@@ -102,7 +102,7 @@ entries:
     readme_tags:
       - BIM
       - Manufacturer Data
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: 3asky
     url: https://3asky.net/?lang=en
@@ -112,7 +112,7 @@ entries:
     readme_tags:
       - 3ds Max
       - General
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -137,7 +137,7 @@ entries:
     readme_tags:
       - Arch-Viz
       - Large Library
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Dimensiva
     url: https://dimensiva.com/
@@ -155,7 +155,7 @@ entries:
     readme_tags:
       - Furniture
       - Product Design
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Viz-People
     url: https://www.viz-people.com
@@ -173,7 +173,7 @@ entries:
     readme_tags:
       - Arch-Viz
       - 3D People
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: CG Mood
     url: https://cgmood.com/
@@ -183,7 +183,7 @@ entries:
     readme_tags:
       - CG Assets
       - Mixed
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

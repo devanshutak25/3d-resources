@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Mograph Education
       - Courses
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Toniko Pantoja
     url: https://www.youtube.com/@TonikoPantoja
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Industry Insight
       - Technique
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -49,7 +49,7 @@ entries:
     readme_tags:
       - Motion Design
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Alan Becker Tutorials
     url: https://www.youtube.com/@AlanBeckerTutorials
@@ -60,7 +60,7 @@ entries:
     readme_tags:
       - Beginner Friendly
       - Animation Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -78,7 +78,7 @@ entries:
     readme_tags:
       - Motion
       - Animation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -96,7 +96,7 @@ entries:
     readme_tags:
       - Approachable
       - Character Anim
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -111,7 +111,7 @@ entries:
     description: 'Unreal Engine cinematics: animated decals, cinematic environments, faster filmmaking.'
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -127,7 +127,7 @@ entries:
     description: Interactive web explainer of the 12 principles of animation.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:

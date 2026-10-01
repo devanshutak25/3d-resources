@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Archival
       - Public Domain
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - VFX Practice
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Open Visual FX
     url: https://openvisualfx.com/
@@ -51,7 +51,7 @@ entries:
     readme_tags:
       - VFX Footage
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: videvo
     url: https://www.videvo.net/
@@ -59,7 +59,7 @@ entries:
     description: Free stock video, motion graphics, and music tracks.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

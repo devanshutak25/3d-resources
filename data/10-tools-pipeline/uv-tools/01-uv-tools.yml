@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Checker Gen
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: UV Toolkit
     url: https://gumroad.com/alexbel#NbMya
@@ -38,8 +38,8 @@ entries:
     readme_tags:
       - Blender
       - Toolkit
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: UV Grid Generator
     url: http://uvchecker.byvalle.com/
     added_at: '2026-06-17T07:16:34.000Z'
@@ -55,5 +55,5 @@ entries:
         - generalist
       platform:
         - web
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect

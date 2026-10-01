@@ -8,8 +8,8 @@ entries:
     readme_tags:
       - Bite-sized
       - VEX
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - film-vfx
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Cheat Sheet
       - VEX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Python
       - Snippets
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -75,7 +75,7 @@ entries:
     readme_tags:
       - VEX
       - Blog
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - Python Wiki
       - Deep Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -122,7 +122,7 @@ entries:
     readme_tags:
       - OpenCL
       - Advanced
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -157,7 +157,7 @@ entries:
       tech:
         - houdini
         - python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: Learning VEX via Bees and Bombs
     url: https://forums.odforce.net/topic/24056-learning-vex-via-animated-gifs-bees-bombs/
@@ -176,7 +176,7 @@ entries:
       tech:
         - houdini
         - vex
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: vex_tutorial (jtomori)
     url: https://github.com/jtomori/vex_tutorial
@@ -195,7 +195,7 @@ entries:
       tech:
         - houdini
         - vex
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Mantra LPE Cookbook (alexwheezy)
     url: https://github.com/alexwheezy/Mantra-LPE-Cookbook
@@ -213,8 +213,8 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Houdini OpenCL (MysteryPancake)
     url: https://mysterypancake.github.io/Houdini-OpenCL/
     added_at: '2026-06-17T07:16:34.000Z'
@@ -232,5 +232,5 @@ entries:
       tech:
         - houdini
         - gpu
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

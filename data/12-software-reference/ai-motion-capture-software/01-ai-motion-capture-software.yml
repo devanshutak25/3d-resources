@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - High Accuracy
       - Multi-Camera
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
@@ -34,7 +34,7 @@ entries:
     readme_tags:
       - Free Tier
       - Webcam/Video
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
@@ -56,7 +56,7 @@ entries:
     readme_tags:
       - Game-Ready
       - BVH/FBX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
@@ -77,8 +77,8 @@ entries:
     readme_tags:
       - Browser
       - Hand Tracking
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - animation-rigging/ai-motion-capture
   - name: Live Link Face (Apple)
@@ -99,8 +99,8 @@ entries:
     readme_tags:
       - Free
       - iPhone Face Capture
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - animation-rigging/ai-motion-capture
   - name: Viggle AI
@@ -119,7 +119,7 @@ entries:
     readme_tags:
       - Video→Animation
       - AI
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - Open Source
       - Mocap
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture

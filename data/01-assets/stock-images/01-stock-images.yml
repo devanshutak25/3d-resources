@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Photography
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Photos + Video
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - Mixed Media
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -62,8 +62,8 @@ entries:
     readme_tags:
       - Design
       - Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - reference
@@ -80,7 +80,7 @@ entries:
     readme_tags:
       - Surreal
       - Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -98,7 +98,7 @@ entries:
     readme_tags:
       - Transparent PNG
       - Cutouts
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -116,7 +116,7 @@ entries:
     readme_tags:
       - Public Domain
       - Historical
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -141,7 +141,7 @@ entries:
     readme_tags:
       - Maps
       - Historical
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: The Blueprints
     url: https://www.the-blueprints.com/
@@ -159,7 +159,7 @@ entries:
     readme_tags:
       - Blueprints
       - Vehicles
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Settei Dreams
     url: https://setteidreams.net/
@@ -177,7 +177,7 @@ entries:
     readme_tags:
       - Anime
       - Model Sheets
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: LACartoons
     url: https://lacartoons.com/
@@ -187,7 +187,7 @@ entries:
     readme_tags:
       - Cartoons
       - Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -203,7 +203,7 @@ entries:
     description: Customizable illustrations to edit and animate, free.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -218,7 +218,7 @@ entries:
     description: Free surrealist illustration set.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -231,8 +231,8 @@ entries:
     description: Illustrations of black people for projects.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - illustration
@@ -244,7 +244,7 @@ entries:
     description: Mix and customize illustrations made by artists.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -257,8 +257,8 @@ entries:
     description: Combo set of 108 customizable illustrations.
     entry_type: asset-source
     license: Paid
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - illustration
@@ -270,7 +270,7 @@ entries:
     description: 300,000+ botanical and animal illustrations free to download (CC0).
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -285,7 +285,7 @@ entries:
     description: Open-source SVG illustrations in 3D style, dark and light mode.
     entry_type: asset-source
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -300,7 +300,7 @@ entries:
     description: Bundle of 34+ vector illustration packs, 2800+ items.
     entry_type: asset-source
     license: Paid
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -313,7 +313,7 @@ entries:
     description: Mix-and-match illustrations of people with a design library.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -326,7 +326,7 @@ entries:
     description: 100 open-source illustrations including COVID and WFH themes.
     entry_type: asset-source
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -341,7 +341,7 @@ entries:
     description: 100+ 3D character illustration packs with 167M+ combinations.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -354,7 +354,7 @@ entries:
     description: Royalty-free illustration collection.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -367,7 +367,7 @@ entries:
     description: Hundreds of illustrations for web and app projects.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -380,7 +380,7 @@ entries:
     description: Character illustration generator.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
     tags:
       output:
@@ -393,7 +393,7 @@ entries:
     description: MIT-licensed collection of SVG illustrations.
     entry_type: asset-source
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -408,7 +408,7 @@ entries:
     description: Library of 250+ illustrations.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -421,7 +421,7 @@ entries:
     description: Free 3D mockup scenes for showcasing design work.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -442,7 +442,7 @@ entries:
     readme_tags:
       - Stock
       - Vectors
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Public.work
     url: https://public.work/
@@ -459,5 +459,5 @@ entries:
         - cc0
     readme_tags:
       - Public Domain
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect

@@ -14,7 +14,7 @@ entries:
     readme_tags:
       - Song Gen
       - 100M users
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - Electronic/Pop
       - Commercial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Voice Cloning
       - TTS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -71,8 +71,8 @@ entries:
     readme_tags:
       - Open Model
       - Music + SFX
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     deprecated: true
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -91,8 +91,8 @@ entries:
     readme_tags:
       - Singing
       - Expression
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
   - name: AIVA
@@ -110,7 +110,7 @@ entries:
     readme_tags:
       - Orchestral
       - Scoring
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -130,7 +130,7 @@ entries:
     readme_tags:
       - Open Source
       - Multilingual
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -150,7 +150,7 @@ entries:
     readme_tags:
       - Zero-Shot
       - Voice Clone
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -170,7 +170,7 @@ entries:
     readme_tags:
       - Open Source
       - Lyrics→Song
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music

@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Computer Vision
       - Library
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Foundational
       - HDR/IBL
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Mirror-Ball HDRIs
       - Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: USC ICT Graphics Lab
     url: https://vgl.ict.usc.edu/
@@ -57,7 +57,7 @@ entries:
     readme_tags:
       - Light Stage
       - Academic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - Historical
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: PTGui Pro
     url: https://ptgui.com/
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Industry Standard
       - HDR Stitcher
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Hugin
     url: https://hugin.sourceforge.io/
@@ -124,7 +124,7 @@ entries:
     readme_tags:
       - Open Source
       - Free Stitcher
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: HDR Light Studio
     url: https://www.lightmap.co.uk/
@@ -147,7 +147,7 @@ entries:
     readme_tags:
       - HDRI Editor
       - DCC Bridges
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - software-reference/misc-3d-utilities-software
@@ -161,7 +161,7 @@ entries:
     readme_tags:
       - Canon Book
       - HDR Theory
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -176,8 +176,8 @@ entries:
     readme_tags:
       - Practical
       - HDRI
-    url_last_verified: '2026-09-02'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -197,8 +197,8 @@ entries:
     readme_tags:
       - Leica
       - Point Cloud
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: FARO SCENE
     url: https://www.faro.com/en/Products/Software/SCENE-Software
     added_at: '2026-05-22T16:39:01.000Z'
@@ -215,7 +215,7 @@ entries:
     readme_tags:
       - FARO
       - Point Cloud
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: Trimble RealWorks
     url: https://geospatial.trimble.com/products/software/trimble-realworks
@@ -233,8 +233,8 @@ entries:
     readme_tags:
       - Trimble
       - Survey
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Autodesk ReCap Pro
     url: https://www.autodesk.com/products/recap
     added_at: '2026-05-22T16:39:01.000Z'
@@ -253,7 +253,7 @@ entries:
     readme_tags:
       - Autodesk
       - Reality Capture
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     deprecated: true
   - name: Geomagic Wrap
@@ -273,8 +273,8 @@ entries:
     readme_tags:
       - Scan to Mesh
       - Geomagic
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Artec Studio
     url: https://www.artec3d.com/3d-software/artec-studio
     added_at: '2026-05-22T16:39:01.000Z'
@@ -292,7 +292,7 @@ entries:
     readme_tags:
       - Handheld Scanners
       - Artec
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Pix4D
     url: https://www.pix4d.com/
@@ -314,7 +314,7 @@ entries:
     readme_tags:
       - Drone
       - Mapping
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: OpenDroneMap / WebODM
     url: https://www.opendronemap.org/
@@ -336,7 +336,7 @@ entries:
     readme_tags:
       - Open Source
       - Drone
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: CyArk
     url: https://www.cyark.org/
@@ -352,7 +352,7 @@ entries:
     readme_tags:
       - Heritage Scans
       - Open Access
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Open Heritage 3D
     url: https://openheritage3d.org/
@@ -364,7 +364,7 @@ entries:
     readme_tags:
       - Heritage
       - Datasets
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -379,8 +379,8 @@ entries:
     readme_tags:
       - Stanford
       - Foundational
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - scientific-viz
@@ -400,7 +400,7 @@ entries:
     readme_tags:
       - Volumetric Studio
       - Berlin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: 4DViews
     url: https://www.4dviews.com/
@@ -418,7 +418,7 @@ entries:
     readme_tags:
       - Volumetric Rigs
       - HOLOSYS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Metastage
     url: https://metastage.com/
@@ -436,7 +436,7 @@ entries:
     readme_tags:
       - Volumetric Studio
       - LA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: Depthkit
     url: https://www.depthkit.tv/
@@ -456,7 +456,7 @@ entries:
     readme_tags:
       - Depth Sensor
       - Volumetric
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ten24
     url: https://ten24.info/
@@ -474,7 +474,7 @@ entries:
     readme_tags:
       - Full-Body Scan
       - Service
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Eisko
     url: https://www.eisko.com/
@@ -490,8 +490,8 @@ entries:
     readme_tags:
       - Digital Humans
       - Service
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Infinite-Realities (Triple-I)
     url: https://ir-ltd.net/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -506,8 +506,8 @@ entries:
     readme_tags:
       - Scan Service
       - Light Stage
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: MipMap
     url: https://na.mipmap3d.com/
     added_at: '2026-08-18T20:31:58.000Z'
@@ -529,5 +529,5 @@ entries:
     readme_tags:
       - Drone Mapping
       - Survey
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

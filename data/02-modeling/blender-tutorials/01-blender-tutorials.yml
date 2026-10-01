@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Hair
       - Course
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Texture Paint Manual
     url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
@@ -27,7 +27,7 @@ entries:
     description: Official Blender manual for the texture paint mode.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -47,7 +47,7 @@ entries:
     description: Free ebook on setting up a Python IDE to write Blender add-ons, worked through a sample plugin.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -66,7 +66,7 @@ entries:
     description: Blog of Blender Python snippets to get started with scripting.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Manual
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -106,7 +106,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Rigging
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -124,7 +124,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Compositing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -142,7 +142,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Tracking
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -160,7 +160,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Python API
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -178,7 +178,7 @@ entries:
     readme_tags:
       - Archviz
       - Blender Books
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

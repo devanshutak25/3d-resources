@@ -5,7 +5,7 @@ entries:
     description: Webpages as collaborative 3D webspaces interconnected by portals.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -18,7 +18,7 @@ entries:
     description: Node-based WebGL design tool, used for procedural geometry, particles, materials
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Fluids
       - FX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -57,8 +57,8 @@ entries:
     readme_tags:
       - Low-poly
       - Voxel
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: MeshLab
@@ -75,7 +75,7 @@ entries:
     readme_tags:
       - Mesh Processing
       - Photogrammetry
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - PSD
       - Browser
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -110,7 +110,7 @@ entries:
     readme_tags:
       - Terrain Gen
       - Free Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -129,7 +129,7 @@ entries:
     readme_tags:
       - Base Meshes
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -143,8 +143,8 @@ entries:
     readme_tags:
       - RAW Editor
       - Open Source
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: unreachable
     tags:
       tech:
         - opensource-alt
@@ -160,7 +160,7 @@ entries:
     readme_tags:
       - Recording
       - Streaming
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -182,7 +182,7 @@ entries:
     readme_tags:
       - Screen Capture
       - Windows
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -201,8 +201,8 @@ entries:
     readme_tags:
       - Terrain Gen
       - Node-based
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: IFS Renderer
@@ -220,7 +220,7 @@ entries:
     readme_tags:
       - Fractals
       - HDR/EXR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -238,7 +238,7 @@ entries:
     readme_tags:
       - Strange Attractors
       - GPU
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -256,7 +256,7 @@ entries:
     readme_tags:
       - RenderMan-like
       - Renderer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2014-05-04'
@@ -276,8 +276,8 @@ entries:
     readme_tags:
       - Timeline
       - Editorial
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: VNyan
@@ -293,15 +293,15 @@ entries:
     readme_tags:
       - VTubing
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: KodeLife
     url: https://hexler.net/products/kodelife
     added_at: '2026-04-19T17:29:43.000Z'
     description: Real-time shader editor supporting GLSL, HLSL, and Metal, with a UI for creating and testing shaders.
     entry_type: software
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - rendering
@@ -318,7 +318,7 @@ entries:
     readme_tags:
       - Framework
       - Vulkan
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -338,7 +338,7 @@ entries:
     readme_tags:
       - Creative Coding
       - Python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -356,8 +356,8 @@ entries:
     readme_tags:
       - Generative
       - 3D Structures
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - creative-coding
@@ -378,7 +378,7 @@ entries:
     readme_tags:
       - Pseudo-3D
       - Canvas
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:

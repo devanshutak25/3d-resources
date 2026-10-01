@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Fundamentals
       - Deep Dives
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
     tags:
       workflow:
@@ -25,7 +25,7 @@ entries:
     readme_tags:
       - Lighting 101
       - Classic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -51,7 +51,7 @@ entries:
     readme_tags:
       - Studio
       - Placement Diagrams
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Fstoppers Education
     url: https://fstoppers.com/education
@@ -61,8 +61,8 @@ entries:
     readme_tags:
       - Studio Lighting
       - Ratios
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - reference
@@ -78,7 +78,7 @@ entries:
     readme_tags:
       - Technical
       - Modifiers
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -95,7 +95,7 @@ entries:
     readme_tags:
       - Studio Diagrams
       - Adorama
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -109,8 +109,8 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Community for tutorials and workflows on high-quality photography with free-software tools.
     entry_type: community
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: unreachable
     tags:
       workflow:
         - reference
@@ -121,8 +121,8 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source photography community on Google+.
     entry_type: community
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - reference
@@ -134,7 +134,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Reddit community on free open-source software for photography.
     entry_type: community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -149,8 +149,8 @@ entries:
     description: Raskar et al., SIGGRAPH 2012.
     entry_type: reference
     year: 2012
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - reference

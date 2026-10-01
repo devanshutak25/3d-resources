@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Discontinued
       - ICE Graph
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Softimage|3D
     url: https://en.wikipedia.org/wiki/Softimage_3D
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Historical
       - 90s Character
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Alias PowerAnimator / Studio
     url: https://en.wikipedia.org/wiki/PowerAnimator
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Maya Ancestor
       - Historical
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Wavefront Advanced Visualizer
     url: https://en.wikipedia.org/wiki/Wavefront_Technologies
@@ -77,7 +77,7 @@ entries:
     readme_tags:
       - OBJ Origin
       - Historical
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: 3D Studio (DOS)
     url: https://en.wikipedia.org/wiki/3D_Studio
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - DOS-era
       - 3ds Max Ancestor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: trueSpace
     url: https://en.wikipedia.org/wiki/TrueSpace
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - Microsoft Killed
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Mirai / N-World
     url: https://en.wikipedia.org/wiki/Mirai_(software)
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - Historical
       - Gollum
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Carrara
     url: https://www.daz3d.com/carrara-8-5-pro
@@ -146,7 +146,7 @@ entries:
     readme_tags:
       - DAZ
       - Stagnant
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Bryce
     url: https://www.daz3d.com/bryce-7-pro
@@ -164,7 +164,7 @@ entries:
     readme_tags:
       - Fractal Landscapes
       - Consumer RT
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Vue (E-on)
     url: https://info.e-onsoftware.com/
@@ -182,8 +182,8 @@ entries:
     readme_tags:
       - Discontinued
       - Avatar Pandora
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Mudbox
     url: https://www.autodesk.com/products/mudbox
     added_at: '2026-05-22T16:39:01.000Z'
@@ -202,7 +202,7 @@ entries:
     readme_tags:
       - Maintenance Only
       - Autodesk
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: BodyPaint 3D
     url: https://en.wikipedia.org/wiki/BodyPaint_3D
@@ -218,7 +218,7 @@ entries:
     readme_tags:
       - Maxon
       - Folded In
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Mental Ray
     url: https://en.wikipedia.org/wiki/Mental_Ray
@@ -237,7 +237,7 @@ entries:
     readme_tags:
       - Killed by Nvidia
       - GI/FG
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: BMRT (Blue Moon Rendering Tools)
     url: https://en.wikipedia.org/wiki/Blue_Moon_Rendering_Tools
@@ -253,7 +253,7 @@ entries:
     readme_tags:
       - Historical
       - Free RIB
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Gelato
     url: https://en.wikipedia.org/wiki/Gelato_(software)
@@ -272,7 +272,7 @@ entries:
     readme_tags:
       - Nvidia
       - Early GPU
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Brazil r/s
     url: https://en.wikipedia.org/wiki/Brazil_R/S
@@ -290,7 +290,7 @@ entries:
     readme_tags:
       - 3ds Max
       - Historical
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Shake
     url: https://en.wikipedia.org/wiki/Shake_(software)
@@ -309,7 +309,7 @@ entries:
     readme_tags:
       - Apple Killed
       - Film Compositor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Combustion
     url: https://en.wikipedia.org/wiki/Autodesk_Media_and_Entertainment
@@ -326,7 +326,7 @@ entries:
     readme_tags:
       - Autodesk
       - AE Competitor
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Toxik
     url: https://en.wikipedia.org/wiki/Autodesk_Toxik
@@ -343,7 +343,7 @@ entries:
     readme_tags:
       - Autodesk
       - Folded Into Flame
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: eyeon Fusion (Digital Fusion)
     url: https://www.blackmagicdesign.com/products/fusion
@@ -359,7 +359,7 @@ entries:
     readme_tags:
       - Blackmagic
       - Lineage Lives On
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Commotion
     url: https://en.wikipedia.org/wiki/Pinnacle_Systems
@@ -375,7 +375,7 @@ entries:
     readme_tags:
       - Puffin
       - Discontinued
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Final Cut Pro 7 ("classic")
     url: https://en.wikipedia.org/wiki/Final_Cut_Pro
@@ -394,7 +394,7 @@ entries:
     readme_tags:
       - Apple
       - Pre-FCPX
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Stingray
     url: https://en.wikipedia.org/wiki/Autodesk_Stingray
@@ -411,7 +411,7 @@ entries:
     readme_tags:
       - Autodesk
       - Bitsquid
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Amazon Lumberyard
     url: https://o3de.org/
@@ -428,7 +428,7 @@ entries:
     readme_tags:
       - Now O3DE
       - Amazon
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: USAnimation / Toonz (legacy)
     url: https://opentoonz.github.io/e/
@@ -443,7 +443,7 @@ entries:
     readme_tags:
       - Now OpenToonz
       - Ghibli
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Animo
     url: https://en.wikipedia.org/wiki/Animo
@@ -459,7 +459,7 @@ entries:
     readme_tags:
       - Toon Boom
       - 2D Ink
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: archive.org Software Library
     url: https://archive.org/details/software
@@ -474,7 +474,7 @@ entries:
     readme_tags:
       - Archive
       - Software Dumps
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: WinWorldPC
     url: https://winworldpc.com/
@@ -489,8 +489,8 @@ entries:
     readme_tags:
       - Vintage
       - Installers
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Aminet
     url: https://aminet.net/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -504,7 +504,7 @@ entries:
     readme_tags:
       - Amiga
       - Archive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Quartz Composer
     url: https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html
@@ -516,8 +516,8 @@ entries:
     readme_tags:
       - Mac
       - Node-based
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - creative-coding

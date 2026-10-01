@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Professional
       - Creator-Direct
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -31,7 +31,7 @@ entries:
     readme_tags:
       - Unity-Ready
       - Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Unreal Marketplace
     url: https://www.unrealengine.com/marketplace
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - UE-Optimized
       - Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blender Market
     url: https://blendermarket.com/
@@ -69,8 +69,8 @@ entries:
     readme_tags:
       - Blender-Specific
       - Addons + Assets
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Cubebrush
     url: https://cubebrush.co/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Art Assets
       - Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Fab (Epic)
     url: https://www.fab.com/
@@ -96,7 +96,7 @@ entries:
     readme_tags:
       - Unified
       - Epic-backed
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -109,8 +109,8 @@ entries:
     description: Free and paid PBR texture sets and material packs.
     license: Freemium
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - texturing
@@ -127,7 +127,7 @@ entries:
     description: Daz Content, 3D models, textures and materials.
     entry_type: marketplace
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -146,7 +146,7 @@ entries:
     readme_tags:
       - Gaussian Splatting
       - 3D Scans
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -161,8 +161,8 @@ entries:
     description: Desktop app linking Megascans to Blender and other DCC tools.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     notes: Being folded into Fab by Epic.
     tags:
       workflow:

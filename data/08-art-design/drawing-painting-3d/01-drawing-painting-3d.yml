@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Gesture Drawing
       - Timed
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - Timed Practice
       - Photo Library
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Timed
       - Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -65,7 +65,7 @@ entries:
     readme_tags:
       - 3D Poses
       - Muscle Ref
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -83,7 +83,7 @@ entries:
     readme_tags:
       - Anatomy
       - Free Photos
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -101,8 +101,8 @@ entries:
     readme_tags:
       - Body Proportions
       - Interactive
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - reference
@@ -117,7 +117,7 @@ entries:
     readme_tags:
       - Free Library
       - Structured
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -137,8 +137,8 @@ entries:
     readme_tags:
       - Anatomy
       - Free Tier
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - concept
@@ -157,7 +157,7 @@ entries:
     readme_tags:
       - Pro Instructors
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -174,8 +174,8 @@ entries:
     description: A collaborative drawing tool for modeling precise shapes in real spaces.
     license: Paid
     entry_type: tool
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - modeling
@@ -191,7 +191,7 @@ entries:
     description: Introduction to the canvas 2D drawing API.
     license: Freemium
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -206,7 +206,7 @@ entries:
     description: Use JavaScript and the ProcessingJS library to create drawings and animations.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -220,7 +220,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: Reddit thread on AI-assisted animation with DALL-E and After Effects.
     entry_type: community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -235,7 +235,7 @@ entries:
     description: Builds on "Drawing Lines is Hard" to draw lines via instanced rendering.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:

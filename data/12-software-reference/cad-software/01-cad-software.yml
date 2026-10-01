@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Mechanical CAD
       - Industry Standard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     deprecated: true
   - name: PTC Creo
@@ -34,7 +34,7 @@ entries:
     readme_tags:
       - Parametric CAD
       - Industry Standard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Siemens NX
     url: https://plm.sw.siemens.com/en-US/nx/
@@ -53,8 +53,8 @@ entries:
     readme_tags:
       - PLM
       - Industry Standard
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: BricsCAD
     url: https://www.bricsys.com/bricscad
     added_at: '2026-05-05T11:50:37.000Z'
@@ -74,8 +74,8 @@ entries:
     readme_tags:
       - DWG-Compatible
       - Cross-Platform
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Shapr3D
     url: https://www.shapr3d.com/
     added_at: '2026-05-05T11:50:37.000Z'
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - Touch-first
       - Cross-Platform
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FreeCAD
     url: https://www.freecad.org/
@@ -118,7 +118,7 @@ entries:
     readme_tags:
       - Parametric
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Onshape Free
     url: https://www.onshape.com/en/products/free
@@ -140,7 +140,7 @@ entries:
     readme_tags:
       - Cloud CAD
       - Collaborative
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Fusion 360 Personal
     url: https://www.autodesk.com/products/fusion-360/personal
@@ -162,7 +162,7 @@ entries:
     readme_tags:
       - CAD/CAM
       - Personal Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     deprecated: true
   - name: OpenSCAD
@@ -188,7 +188,7 @@ entries:
     readme_tags:
       - Script-Based
       - Parametric
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: LibreCAD
     url: https://librecad.org/
@@ -212,7 +212,7 @@ entries:
     readme_tags:
       - 2D CAD
       - Drafting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: AutoCAD
     url: https://www.autodesk.com/products/autocad
@@ -234,7 +234,7 @@ entries:
     readme_tags:
       - Industry Standard
       - 2D/3D Drafting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: SolidWorks
     url: https://www.solidworks.com/
@@ -255,7 +255,7 @@ entries:
     readme_tags:
       - Mechanical CAD
       - Simulation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: CATIA
     url: https://www.3ds.com/products/catia
@@ -275,7 +275,7 @@ entries:
     readme_tags:
       - Aerospace
       - Automotive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Rhino
     url: https://www.rhino3d.com/
@@ -299,7 +299,7 @@ entries:
     readme_tags:
       - NURBS
       - Grasshopper
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GrabCAD
     url: https://grabcad.com
@@ -307,7 +307,7 @@ entries:
     description: Community CAD model library.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -318,8 +318,8 @@ entries:
     description: 3D-printing model community.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - product-viz
@@ -344,7 +344,7 @@ entries:
     readme_tags:
       - Parametric
       - Lightweight
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Bitbybit
     url: https://bitbybit.dev/
@@ -368,7 +368,7 @@ entries:
     readme_tags:
       - Browser
       - Parametric
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: PackCAD
     url: https://packcad.com/
@@ -387,7 +387,7 @@ entries:
     readme_tags:
       - Browser
       - Packaging
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Pascal Editor
     url: https://editor.pascal.app/
@@ -409,5 +409,5 @@ entries:
     readme_tags:
       - Browser
       - Building Editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

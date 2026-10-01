@@ -14,8 +14,8 @@ entries:
     readme_tags:
       - Matchmove
       - Pro
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
   - name: SynthEyes
@@ -33,8 +33,8 @@ entries:
     readme_tags:
       - Lens Distortion
       - Pro
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
   - name: 3DEqualizer
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - High-End
       - Studio Standard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Free
       - Blender Bridge
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking

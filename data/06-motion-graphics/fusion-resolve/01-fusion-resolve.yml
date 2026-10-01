@@ -7,8 +7,8 @@ entries:
     readme_tags:
       - Wiki
       - Reference
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: broken
     tags:
       workflow:
         - compositing
@@ -28,7 +28,7 @@ entries:
     readme_tags:
       - EXR
       - Multichannel
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - EXR
       - Fusion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:

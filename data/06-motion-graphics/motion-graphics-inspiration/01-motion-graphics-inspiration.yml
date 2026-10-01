@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Showcase
       - Classic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -24,7 +24,7 @@ entries:
     readme_tags:
       - Visual Effects
       - Feed
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Ads
       - Campaign Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -56,7 +56,7 @@ entries:
     readme_tags:
       - Title Sequences
       - Vimeo
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Film Search
       - AI
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Phrase Search
       - Film Clips
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -108,8 +108,8 @@ entries:
     readme_tags:
       - Portfolio
       - Resources
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - motion-graphics
@@ -124,8 +124,8 @@ entries:
     readme_tags:
       - Title Sequences
       - Deep Dives
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - motion-graphics
@@ -142,8 +142,8 @@ entries:
     readme_tags:
       - Showcase
       - Motion
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - motion-graphics
@@ -158,7 +158,7 @@ entries:
     readme_tags:
       - Gallery
       - Behance
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -174,7 +174,7 @@ entries:
     readme_tags:
       - Style Frames
       - Showcase
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -190,7 +190,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Node-Based
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -214,7 +214,7 @@ entries:
     readme_tags:
       - AE Presets
       - Transitions
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -231,7 +231,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Node-Based
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -255,8 +255,8 @@ entries:
     readme_tags:
       - AE Community
       - Facebook
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - motion-graphics
@@ -271,7 +271,7 @@ entries:
     readme_tags:
       - AE Plugin
       - Editing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -290,7 +290,7 @@ entries:
     readme_tags:
       - AE Tutorials
       - Motion Design
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -308,7 +308,7 @@ entries:
     readme_tags:
       - Render Automation
       - AE
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -329,7 +329,7 @@ entries:
     readme_tags:
       - AE Community
       - Reddit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -345,8 +345,8 @@ entries:
     readme_tags:
       - AE Plugin
       - 3D Motion
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - motion-graphics
@@ -362,7 +362,7 @@ entries:
     readme_tags:
       - Houdini to AE
       - Camera Export
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -379,7 +379,7 @@ entries:
     readme_tags:
       - AE Rigging
       - Character
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -399,7 +399,7 @@ entries:
     readme_tags:
       - Blender Addon
       - MoGraph
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -422,7 +422,7 @@ entries:
     readme_tags:
       - Unreal UMG
       - React
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -452,7 +452,7 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FrameRate
     url: https://framerate.tv/
@@ -468,5 +468,5 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

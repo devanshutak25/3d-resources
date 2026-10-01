@@ -8,8 +8,8 @@ entries:
     readme_tags:
       - Official
       - Maxon
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - motion-graphics
@@ -38,5 +38,5 @@ entries:
     readme_tags:
       - Mograph Focus
       - Structured Courses
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect

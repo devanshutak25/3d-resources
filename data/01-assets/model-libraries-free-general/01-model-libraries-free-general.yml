@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Massive
       - Downloadable
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Poly Haven
     url: https://polyhaven.com/
@@ -36,7 +36,7 @@ entries:
     readme_tags:
       - CC0
       - PBR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: TurboSquid
     url: https://www.turbosquid.com/
@@ -54,7 +54,7 @@ entries:
     readme_tags:
       - Marketplace
       - Free Section
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: CGTrader
     url: https://www.cgtrader.com/
@@ -65,7 +65,7 @@ entries:
     readme_tags:
       - Marketplace
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - CC0
       - VFX Assets
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: XYZed3D (Gumroad)
     url: https://xyzed3d.gumroad.com/
@@ -112,7 +112,7 @@ entries:
     readme_tags:
       - CC0
       - Gumroad
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Poly Pizza
     url: https://poly.pizza/
@@ -130,7 +130,7 @@ entries:
     readme_tags:
       - Low-Poly
       - CC-BY
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: The Base Mesh
     url: https://www.thebasemesh.com/model-library
@@ -148,7 +148,7 @@ entries:
     readme_tags:
       - Base Meshes
       - Sculpting-Ready
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Open3DModel
     url: https://open3dmodel.com/
@@ -159,7 +159,7 @@ entries:
     readme_tags:
       - Free
       - Archive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -186,7 +186,7 @@ entries:
     readme_tags:
       - 3D Scans
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Free3D.io
     url: https://free3d.io/
@@ -196,7 +196,7 @@ entries:
     entry_type: asset-source
     readme_tags:
       - Free Models
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -213,8 +213,8 @@ entries:
     entry_type: asset-source
     readme_tags:
       - Free Downloads
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - archviz
@@ -240,7 +240,7 @@ entries:
     readme_tags:
       - Rigged
       - Animation-Ready
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: 3DExport
     url: https://3dexport.com/
@@ -250,7 +250,7 @@ entries:
     entry_type: marketplace
     readme_tags:
       - Marketplace
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -267,7 +267,7 @@ entries:
     entry_type: asset-source
     readme_tags:
       - Free Models
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -291,7 +291,7 @@ entries:
     readme_tags:
       - Cultural Heritage
       - Scanned
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Free3D
     url: https://free3d.com/
@@ -302,7 +302,7 @@ entries:
     readme_tags:
       - Large Collection
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -328,7 +328,7 @@ entries:
     readme_tags:
       - Heritage Scans
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Stanford 3D Scanning Repository
     url: https://graphics.stanford.edu/data/3Dscanrep/
@@ -348,7 +348,7 @@ entries:
     readme_tags:
       - Academic
       - Test Meshes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Casual Effects Data
     url: https://casual-effects.com/data/index.html
@@ -359,7 +359,7 @@ entries:
     readme_tags:
       - Research
       - Test Scenes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -377,7 +377,7 @@ entries:
     readme_tags:
       - Clean Meshes
       - Shader Testing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -402,7 +402,7 @@ entries:
     readme_tags:
       - Arch/Furniture
       - Vehicles
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Polycam Explore
     url: https://polycam.ai/explore
@@ -421,14 +421,14 @@ entries:
     readme_tags:
       - Photogrammetry
       - User-Uploaded
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Blender 3D models
     url: https://www.blender-models.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D models, particle systems, and effects.
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -457,7 +457,7 @@ entries:
     readme_tags:
       - Blender
       - .blend Packs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Oyonale
     url: http://www.oyonale.com/modeles.php?lang=en
@@ -465,8 +465,8 @@ entries:
     description: Sells 3D models for various industries.
     license: Paid
     entry_type: marketplace
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       output:
         - generalist
@@ -479,7 +479,7 @@ entries:
     added_at: '2026-04-16T21:13:44.000Z'
     description: Free PBR materials and some 3D models.
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -496,7 +496,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free 3D models.
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -511,8 +511,8 @@ entries:
     description: Ultimate low-poly model packs (CC0).
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - games
@@ -528,8 +528,8 @@ entries:
     description: Free section of Chocofur premium 3D model store.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -543,7 +543,7 @@ entries:
     description: Open-source .blend file library.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -560,7 +560,7 @@ entries:
     description: Free Blender files and resources.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -580,7 +580,7 @@ entries:
     readme_tags:
       - Topography
       - Datasets
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:

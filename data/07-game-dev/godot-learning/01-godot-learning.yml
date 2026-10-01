@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Courses
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -28,7 +28,7 @@ entries:
     readme_tags:
       - Returned 2024
       - Godot Focus
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - RPG/Action
       - Tutorials
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - Beginner
       - Recipes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GDScript.com
     url: https://gdscript.com/
@@ -89,7 +89,7 @@ entries:
     readme_tags:
       - Interactive
       - GDScript
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - Challenges
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -131,7 +131,7 @@ entries:
     readme_tags:
       - Devlogs
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -151,7 +151,7 @@ entries:
     readme_tags:
       - Godot Focus
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -172,7 +172,7 @@ entries:
     readme_tags:
       - Godot
       - VR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:

@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Batch Convert
       - 500+ Formats
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: DJV
     url: https://github.com/darbyjohnston/DJV
@@ -43,8 +43,8 @@ entries:
     readme_tags:
       - Image Sequences
       - Film Pipeline
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: f3d
     url: https://f3d.app/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - 3D Preview
       - USD Support
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: mrViewer
     url: https://mrviewer.sourceforge.io/
@@ -91,8 +91,8 @@ entries:
     readme_tags:
       - EXR Viewer
       - VFX Pipeline
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: glb.gallery
     url: https://glb.gallery
     added_at: '2026-04-16T19:59:30.000Z'
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - Embeddable
       - GLB
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: OpenEXR Viewer
     url: https://github.com/AcademySoftwareFoundation/openexr
@@ -135,7 +135,7 @@ entries:
     readme_tags:
       - Official EXR
       - ASWF
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: OpenRV
     url: https://github.com/AcademySoftwareFoundation/openrv
@@ -159,7 +159,7 @@ entries:
     readme_tags:
       - Review Player
       - ASWF
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: xStudio
     url: https://github.com/AcademySoftwareFoundation/xstudio
@@ -182,7 +182,7 @@ entries:
     readme_tags:
       - Review Player
       - ASWF
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Connecter
     url: https://www.designconnected.com/connecter
@@ -190,8 +190,8 @@ entries:
     description: Free and visual creative assets management for 3d, AEC and design professionals.
     license: Free
     entry_type: software
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - reference
@@ -208,7 +208,7 @@ entries:
     readme_tags:
       - Batch
       - 80+ Actions
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -227,7 +227,7 @@ entries:
     readme_tags:
       - H.265/AV1
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -244,7 +244,7 @@ entries:
     readme_tags:
       - FFmpeg GUI
       - Pro Presets
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -263,7 +263,7 @@ entries:
     readme_tags:
       - Audio Batch
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -285,8 +285,8 @@ entries:
     readme_tags:
       - HDR Workflow
       - EXR
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
       - tools-pipeline-utilities/photogrammetry-scanning

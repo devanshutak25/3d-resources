@@ -8,8 +8,8 @@ entries:
     readme_tags:
       - Oldest Jam
       - Biannual
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       output:
         - games
@@ -25,7 +25,7 @@ entries:
     readme_tags:
       - Largest
       - GMTK
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -41,7 +41,7 @@ entries:
     readme_tags:
       - Hub
       - Ongoing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -57,7 +57,7 @@ entries:
     readme_tags:
       - In-Person
       - Global
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -80,7 +80,7 @@ entries:
     readme_tags:
       - Beginner-Friendly
       - Brackeys
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: JS13KGames
     url: https://js13kgames.com/
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - 13KB Limit
       - JS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

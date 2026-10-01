@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Interactive
       - Visual Training
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -27,7 +27,7 @@ entries:
     readme_tags:
       - Gestalt
       - Perception
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Deep Color Theory
       - Perception
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -65,7 +65,7 @@ entries:
     readme_tags:
       - Golden Ratio
       - Overlays
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -94,5 +94,5 @@ entries:
         - intermediate
     dual_listed_in:
       - learning-community-industry/inspiration-showcase
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

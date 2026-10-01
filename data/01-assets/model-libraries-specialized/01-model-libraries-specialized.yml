@@ -21,7 +21,7 @@ entries:
       - Free Animations
     dual_listed_in:
       - animation-rigging/ai-motion-capture
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Anatomy 360
     url: https://anatomy360.info/
@@ -41,7 +41,7 @@ entries:
     readme_tags:
       - Anatomy
       - Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Anatomy For Sculptors
     url: https://www.artstation.com/anatomy4sculptors
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Anatomy
       - Sculpt Ref
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Insect 3D Models
     url: https://zerokobo.web.fc2.com/
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Insects
       - Niche
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Animated
       - Game-Ready
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Models Resource
     url: https://www.models-resource.com/
@@ -120,8 +120,8 @@ entries:
     readme_tags:
       - Game Rips
       - Study/Reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: NASA 3D Resources
     url: https://science.nasa.gov/3d-resources/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -142,7 +142,7 @@ entries:
     readme_tags:
       - Mixed CC0/CC-BY
       - Space/Science
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Smithsonian 3D
     url: https://3d.si.edu/
@@ -163,7 +163,7 @@ entries:
     readme_tags:
       - Museum Scans
       - Historical
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -186,7 +186,7 @@ entries:
     readme_tags:
       - CC0
       - Museum
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: British Museum (Sketchfab)
     url: https://sketchfab.com/britishmuseum
@@ -207,7 +207,7 @@ entries:
     readme_tags:
       - Museum
       - Artifacts
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cleveland Museum of Art (Sketchfab)
     url: https://sketchfab.com/clevelandart
@@ -218,7 +218,7 @@ entries:
     readme_tags:
       - Museum
       - Scans
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -248,7 +248,7 @@ entries:
     readme_tags:
       - CC0 Low-Poly
       - Game-Ready
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Wire Wheels Club
     url: https://wirewheelsclub.com/models/
@@ -259,7 +259,7 @@ entries:
     readme_tags:
       - Vehicles
       - Cars
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -274,7 +274,7 @@ entries:
     description: 77+ animated 3D emoji illustrations with Blender source files.
     entry_type: asset-source
     license: Paid
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -300,7 +300,7 @@ entries:
     readme_tags:
       - 3D Game Rips
       - Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Artec 3D
     url: https://www.artec3d.com/3d-models
@@ -308,7 +308,7 @@ entries:
     description: Free high-resolution 3D scans. (CC-BY)
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -326,7 +326,7 @@ entries:
     description: Free high-resolution scanned female head model (Louise).
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -346,7 +346,7 @@ entries:
     readme_tags:
       - Database
       - Search
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -359,7 +359,7 @@ entries:
     description: 9,000+ customizable diverse 3D character illustrations with Blender source files.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -374,8 +374,8 @@ entries:
     description: Free library of 320+ diverse 3D hand illustrations with Blender source files.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - illustration
@@ -389,8 +389,8 @@ entries:
     description: Free modular 3D cartoon robot with customizable heads, bodies, and hands.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - illustration
@@ -414,7 +414,7 @@ entries:
         - web
       tech:
         - photogrammetry
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ameede
     url: https://www.ameede.net/
@@ -433,3 +433,5 @@ entries:
       platform:
         - web
     notes: Blocks non-browser user agents (403); link checks need a browser UA. High-volume aggregator, file provenance unverified.
+    url_last_verified: '2026-10-01'
+    url_status: ok

@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Free Pro
       - Full Post Pipeline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Premiere Pro
     url: https://www.adobe.com/products/premiere.html
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Adobe Suite
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: Final Cut Pro
     url: https://www.apple.com/final-cut-pro/
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - Mac-only
       - Magnetic Timeline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Kdenlive
     url: https://kdenlive.org/
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - Open Source
       - Cross-Platform
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Shotcut
     url: https://shotcut.org/
@@ -116,7 +116,7 @@ entries:
     readme_tags:
       - Lightweight
       - Beginner-Friendly
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GoZen
     url: https://gozen.voylin.com/
@@ -140,14 +140,14 @@ entries:
     readme_tags:
       - Godot-built
       - Alpha
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: DaVinci Resolve Training
     url: https://www.blackmagicdesign.com/products/davinciresolve/training
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official free training (hundreds of hours).
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -157,8 +157,8 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official Adobe tutorials.
     entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       workflow:
         - editing
@@ -185,7 +185,7 @@ entries:
     readme_tags:
       - Open Source
       - Beginner-Friendly
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: OBS
     url: https://github.com/obsproject/obs-studio
@@ -200,7 +200,7 @@ entries:
     readme_tags:
       - Capture
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Avid Media Composer
     url: https://www.avid.com/media-composer
@@ -224,7 +224,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Film/TV
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Vegas Pro
     url: https://www.vegascreativesoftware.com/us/vegas-pro/
@@ -246,8 +246,8 @@ entries:
     readme_tags:
       - Windows Pro NLE
       - Track-based
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Vegas Movie Studio
     url: https://www.vegascreativesoftware.com/us/vegas-movie-studio/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -268,8 +268,8 @@ entries:
     readme_tags:
       - Consumer
       - Windows
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: DaVinci Resolve Studio
     url: https://www.blackmagicdesign.com/products/davinciresolve
     added_at: '2026-05-22T16:39:01.000Z'
@@ -296,7 +296,7 @@ entries:
     readme_tags:
       - Pro Tier
       - One-time Buy
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Lightworks
     url: https://lwks.com/
@@ -319,7 +319,7 @@ entries:
     readme_tags:
       - Free Tier
       - Pro NLE
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: HitFilm
     url: https://fxhome.com/product/hitfilm
@@ -341,7 +341,7 @@ entries:
     readme_tags:
       - Editor + VFX
       - Free Tier
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: iMovie
     url: https://www.apple.com/imovie/
@@ -364,8 +364,8 @@ entries:
     readme_tags:
       - Free
       - Apple
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Apple Motion
     url: https://www.apple.com/final-cut-pro/motion/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -387,8 +387,8 @@ entries:
     readme_tags:
       - FCP Companion
       - Mac
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Apple Compressor
     url: https://www.apple.com/final-cut-pro/compressor/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -407,8 +407,8 @@ entries:
     readme_tags:
       - FCP Encode
       - Mac
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: Premiere Rush
     url: https://www.adobe.com/products/premiere-rush.html
     added_at: '2026-05-22T16:39:01.000Z'
@@ -432,7 +432,7 @@ entries:
     readme_tags:
       - Mobile + Desktop
       - Sunsetting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: Premiere Elements
     url: https://www.adobe.com/products/premiere-elements.html
@@ -457,7 +457,7 @@ entries:
     readme_tags:
       - One-time Buy
       - Consumer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: CapCut Desktop
     url: https://www.capcut.com/
@@ -480,7 +480,7 @@ entries:
     readme_tags:
       - Free
       - Social-first
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Descript
     url: https://www.descript.com/
@@ -503,7 +503,7 @@ entries:
     readme_tags:
       - Transcript Edit
       - Podcast
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: VEED
     url: https://www.veed.io/
@@ -525,7 +525,7 @@ entries:
     readme_tags:
       - Browser
       - Auto-Subs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Clipchamp
     url: https://clipchamp.com/
@@ -547,8 +547,8 @@ entries:
     readme_tags:
       - Bundled w/ Windows
       - Browser
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: VSDC Free Video Editor
     url: https://www.videosoftdev.com/free-video-editor
     added_at: '2026-05-22T16:39:01.000Z'
@@ -566,7 +566,7 @@ entries:
     readme_tags:
       - Free
       - Windows
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Filmora
     url: https://filmora.wondershare.com/
@@ -589,7 +589,7 @@ entries:
     readme_tags:
       - Beginner
       - Templates
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Olive
     url: https://www.olivevideoeditor.org/
@@ -613,7 +613,7 @@ entries:
     readme_tags:
       - Alpha
       - Stalled
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Avidemux
     url: https://avidemux.sourceforge.net/
@@ -636,5 +636,5 @@ entries:
     readme_tags:
       - Open Source
       - Utility
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

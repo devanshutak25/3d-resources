@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Material Interchange
       - Lucasfilm
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - PBR Standard
       - Adobe + Autodesk
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: ACES 2.0
     url: https://acescentral.com/
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Color Encoding
       - Academy
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: OpenTimelineIO (GitHub)
     url: https://github.com/AcademySoftwareFoundation/OpenTimelineIO
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Timeline Interchange
       - Pixar
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - Geo/Anim Cache
       - Sony + ILM
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -113,8 +113,8 @@ entries:
     entry_type: reference
     readme_tags:
       - Material Interchange
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - material-authoring
@@ -136,8 +136,8 @@ entries:
     readme_tags:
       - Image I/O
       - VFX Standard
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - film-vfx
@@ -156,8 +156,8 @@ entries:
     readme_tags:
       - EXR Deep
       - DreamWorks
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - compositing
@@ -176,7 +176,7 @@ entries:
     readme_tags:
       - Library Versions
       - Industry Spec
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -192,7 +192,7 @@ entries:
     readme_tags:
       - Material Standard
       - NVIDIA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -212,8 +212,8 @@ entries:
     description: High dynamic range image format for visual effects, from ILM.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - film-vfx
@@ -229,7 +229,7 @@ entries:
     description: Color management solution for motion picture production. Open source.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -246,8 +246,8 @@ entries:
     description: Render management system from Sony Imageworks. Open source.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - film-vfx

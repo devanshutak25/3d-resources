@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Blender
       - In-app
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Orbolt
     url: https://www.orbolt.com/
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Houdini
       - HDAs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - C4D
       - Materials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -62,8 +62,8 @@ entries:
     readme_tags:
       - Maya
       - Official
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -80,7 +80,7 @@ entries:
     readme_tags:
       - Maya
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -98,7 +98,7 @@ entries:
     readme_tags:
       - AE + Premiere
       - Primary
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -116,7 +116,7 @@ entries:
     readme_tags:
       - Templates
       - Envato
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -132,8 +132,8 @@ entries:
     readme_tags:
       - Resolve
       - Free Pkg Mgr
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -150,7 +150,7 @@ entries:
     readme_tags:
       - Cross-Platform
       - Creator-direct
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -166,7 +166,7 @@ entries:
     readme_tags:
       - Kitbash Packs
       - Premium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -187,7 +187,7 @@ entries:
     readme_tags:
       - Motion Assets
       - Templates
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: MACHIN3tools
     url: https://gumroad.com/l/MACHIN3tools
@@ -198,8 +198,8 @@ entries:
     readme_tags:
       - Blender
       - Pie Menus
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -218,8 +218,8 @@ entries:
     readme_tags:
       - Blender
       - Modeling
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -238,8 +238,8 @@ entries:
     readme_tags:
       - Blender
       - ArchViz
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - modeling
@@ -258,8 +258,8 @@ entries:
     readme_tags:
       - Blender
       - Kitbash
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -278,8 +278,8 @@ entries:
     readme_tags:
       - Blender
       - Non-destructive
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -298,8 +298,8 @@ entries:
     readme_tags:
       - Blender
       - Topology
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -319,8 +319,8 @@ entries:
     readme_tags:
       - Blender
       - Sculpting
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -339,8 +339,8 @@ entries:
     readme_tags:
       - Blender
       - Brushes
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -358,8 +358,8 @@ entries:
     readme_tags:
       - Blender
       - Hard Surface
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -378,8 +378,8 @@ entries:
     readme_tags:
       - Blender
       - Generative
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -398,8 +398,8 @@ entries:
     readme_tags:
       - Base Mesh
       - Rigged
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - modeling
@@ -417,8 +417,8 @@ entries:
     readme_tags:
       - Blender
       - Texel Density
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -437,8 +437,8 @@ entries:
     readme_tags:
       - Blender
       - Environment
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -458,8 +458,8 @@ entries:
     readme_tags:
       - Blender
       - OSM
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - modeling
@@ -478,8 +478,8 @@ entries:
     readme_tags:
       - Blender
       - Camera
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -498,8 +498,8 @@ entries:
     readme_tags:
       - Blender
       - Viewport
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -518,8 +518,8 @@ entries:
     readme_tags:
       - Blender
       - EEVEE
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -539,8 +539,8 @@ entries:
     readme_tags:
       - Blender
       - Workflow
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -559,8 +559,8 @@ entries:
     readme_tags:
       - Kitbash
       - Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - modeling
@@ -577,8 +577,8 @@ entries:
     readme_tags:
       - Blender
       - Materials
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -597,8 +597,8 @@ entries:
     readme_tags:
       - Creator
       - Profile
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - motion-graphics
@@ -615,8 +615,8 @@ entries:
     readme_tags:
       - Creator
       - Profile
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - concept
@@ -633,8 +633,8 @@ entries:
     readme_tags:
       - Blender
       - Python API
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -653,8 +653,8 @@ entries:
     readme_tags:
       - PBR
       - Materials
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - material-authoring
@@ -673,7 +673,7 @@ entries:
     readme_tags:
       - VDB
       - Clouds
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -691,7 +691,7 @@ entries:
     readme_tags:
       - Blender
       - Flow Maps
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -711,7 +711,7 @@ entries:
     readme_tags:
       - Blender
       - Cityscape
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -732,7 +732,7 @@ entries:
     readme_tags:
       - Blender
       - Render
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -753,7 +753,7 @@ entries:
     readme_tags:
       - Blender
       - Geo Nodes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -773,7 +773,7 @@ entries:
     readme_tags:
       - Houdini
       - HDA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -793,7 +793,7 @@ entries:
     readme_tags:
       - Blender
       - Texturing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -814,7 +814,7 @@ entries:
     readme_tags:
       - Houdini
       - HDA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -834,7 +834,7 @@ entries:
     readme_tags:
       - Blender
       - Pixel Art
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -853,7 +853,7 @@ entries:
     readme_tags:
       - Houdini
       - Deformer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -873,7 +873,7 @@ entries:
     readme_tags:
       - Blender
       - Parallax
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -894,7 +894,7 @@ entries:
     readme_tags:
       - Blender
       - Render
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -914,7 +914,7 @@ entries:
     readme_tags:
       - Blender
       - Render
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

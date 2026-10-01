@@ -5,7 +5,7 @@ entries:
     description: Du et al., Arxiv 2020
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -22,7 +22,7 @@ entries:
     description: Fan et al., ICLR 2023
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -39,7 +39,7 @@ entries:
     description: Wang et al., Arxiv 2020
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -56,7 +56,7 @@ entries:
     description: Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -73,7 +73,7 @@ entries:
     description: Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -90,7 +90,7 @@ entries:
     description: Wang et al., CVPR 2023 | [github](https://3d-avatar-diffusion.microsoft.com/)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -108,7 +108,7 @@ entries:
     description: Yu et al., Arxiv 2021 | [github](https://github.com/sxyu/volrend)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -126,7 +126,7 @@ entries:
     description: Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -144,7 +144,7 @@ entries:
     description: Mohammad Shafiei et al., BMVC 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -162,7 +162,7 @@ entries:
     description: Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -180,7 +180,7 @@ entries:
     description: Li et al., CVPR 2023
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -198,7 +198,7 @@ entries:
     description: Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -216,7 +216,7 @@ entries:
     description: Wang et al., CVPR 2021 | [github](https://github.com/googleinterns/IBRNet)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -234,7 +234,7 @@ entries:
     description: Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -252,7 +252,7 @@ entries:
     description: Liu et al., Arxiv 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -270,7 +270,7 @@ entries:
     description: Li et al., CVPR 2022
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -288,7 +288,7 @@ entries:
     description: Huang et al., ICCV 2023
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -306,7 +306,7 @@ entries:
     description: Bhalgat et al., NeurIPS 2023 (**Spotlight**)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -324,7 +324,7 @@ entries:
     description: Xu et al., NeurIPS 2021 | [github](https://github.com/SheldonTsui/GOF_NeurIPS2021)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -342,7 +342,7 @@ entries:
     description: Raj et al., CVPR 2021
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -360,7 +360,7 @@ entries:
     description: Pan et al., NeurIPS 2021 | [github](https://github.com/XingangPan/ShadeGAN)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -378,7 +378,7 @@ entries:
     description: Peng et al., CVPR 2021 | [github](https://github.com/zju3dv/neuralbody)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -396,7 +396,7 @@ entries:
     description: SIGGRAPH 1998 paper founding image-based lighting.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -412,7 +412,7 @@ entries:
     description: SIGGRAPH 1997 paper. Original HDR-from-bracketed-exposures recovery method.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:

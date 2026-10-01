@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Creative
       - Visual Tools
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Experimental
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -46,8 +46,8 @@ entries:
     readme_tags:
       - Nuke
       - Lens Sim
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - compositing
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Motion Design
       - Node Compositing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Motion Design
       - Browser
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Lottie
       - Motion Design
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -117,7 +117,7 @@ entries:
     readme_tags:
       - Motion Design
       - WebGPU
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -132,7 +132,7 @@ entries:
     description: A 3D plugin for After Effects that allows you to import and animate 3D models.
     license: Paid
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -148,7 +148,7 @@ entries:
     description: Library for physically accurate animations, works with react-three-fiber.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -172,7 +172,7 @@ entries:
       platform:
         - win
         - mac
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
     deprecated: true
   - name: Easing Functions
@@ -191,7 +191,7 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Periodic Table of Motion
     url: http://foxcodex.html.xdomain.jp/index.html
@@ -208,5 +208,5 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable

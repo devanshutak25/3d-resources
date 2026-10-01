@@ -5,7 +5,7 @@ entries:
     description: A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -29,7 +29,7 @@ entries:
     description: Generate gaussian splatting directly from 360 images
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -52,7 +52,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: Curated list of 3D Gaussian Splatting papers, maintained by MrNeRF.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -68,7 +68,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: Towards Data Science article. End-to-end overview of Gaussian Splatting.
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -84,7 +84,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: Blog walkthrough of Gaussian Splatting with a Unity plugin demo.
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -101,7 +101,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: PixelReconstruct YouTube. Community town hall on Gaussian Splatting tooling.
     entry_type: channel
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -119,7 +119,7 @@ entries:
     added_at: '2026-04-19T19:05:38.000Z'
     description: Ben Mildenhall
     entry_type: channel
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

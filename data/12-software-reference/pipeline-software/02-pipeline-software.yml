@@ -14,8 +14,8 @@ entries:
     readme_tags:
       - Open Source
       - Tracking
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Tik Manager (GitHub)
@@ -31,7 +31,7 @@ entries:
     readme_tags:
       - Pipeline
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Pipeline
       - Asset Mgmt
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -86,8 +86,8 @@ entries:
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Flamenco (Blender render farm)
@@ -105,7 +105,7 @@ entries:
     readme_tags:
       - Render Farm
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -124,8 +124,8 @@ entries:
     readme_tags:
       - Render Farm
       - Guerilla-adjacent
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Open3D
@@ -138,8 +138,8 @@ entries:
     readme_tags:
       - 3D Data Processing
       - Open Source
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       tech:
         - opensource-alt
@@ -158,7 +158,7 @@ entries:
     readme_tags:
       - Geometry Lib
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -177,7 +177,7 @@ entries:
     readme_tags:
       - Render Farm
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -196,7 +196,7 @@ entries:
     readme_tags:
       - Editorial
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -215,7 +215,7 @@ entries:
     readme_tags:
       - Look Dev
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -225,7 +225,7 @@ entries:
     description: A procedural terrain generation and procedural modeling toolkit.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -240,7 +240,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Mixamo-to-Godot animation import
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -271,7 +271,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Lookdev/Lighting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - lighting-rendering-shaders/lighting-production
@@ -282,7 +282,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Procedural city map reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -308,5 +308,5 @@ entries:
     readme_tags:
       - Tracking
       - Browser
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

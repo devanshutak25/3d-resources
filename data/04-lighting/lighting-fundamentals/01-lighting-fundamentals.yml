@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - 10 Tips
       - helloluxx
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -35,7 +35,7 @@ entries:
     readme_tags:
       - Beginner
       - C4D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Get Better Lighting in C4D
     url: https://www.youtube.com/@lukasthorup
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - C4D
       - Lighting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -66,8 +66,8 @@ entries:
     readme_tags:
       - Techniques
       - Blog
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
     tags:
       workflow:
         - lighting
@@ -86,7 +86,7 @@ entries:
     readme_tags:
       - Blender
       - Lighting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
