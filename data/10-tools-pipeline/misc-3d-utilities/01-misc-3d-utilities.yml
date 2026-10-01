@@ -621,3 +621,23 @@ entries:
         - web
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Meshory
+    url: https://meshory.com
+    added_at: '2026-09-18T00:00:00.000Z'
+    description: Local-first library manager for large 3D model folders, with rendered
+      thumbnails, tagging, and duplicate detection across STL, 3MF, OBJ, FBX, and STEP.
+    pricing: $34.99 one-time, free trial
+    license: Paid
+    entry_type: tool
+    readme_tags:
+      - Local-First
+      - Duplicate Detection
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - perpetual
