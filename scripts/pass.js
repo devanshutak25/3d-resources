@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Pass driver — runs a per-chunk mutation module across the chunked catalog.
-// See plan.md Step 6 and CONTEXT.md (Pass vs scan).
+// See docs/plan.md Step 6 and CONTEXT.md (Pass vs scan).
 //
 // Usage:
 //   node scripts/pass.js --task=<name> [--chunk=<id>] [--apply] [--branch=<name>]

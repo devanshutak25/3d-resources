@@ -2,7 +2,7 @@
 
 One-shot migrations and cleanup passes. Kept on disk as audit trail. **Do not re-run.** All ran against the pre-chunk `data/NN-section.yml` layout and would corrupt the current chunked tree.
 
-Archived 2026-04-30 as part of plan.md Step 2.
+Archived 2026-04-30 as part of docs/plan.md Step 2.
 
 | Script | When/why it ran |
 |---|---|

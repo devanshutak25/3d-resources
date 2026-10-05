@@ -10,7 +10,7 @@ This file is the canonical brief for the repo. It supersedes scattered docs wher
 
 `3d_resources` is a curated, lookup-first reference catalog for the 3D / VFX / motion / games / AI-CG industry. It ships as:
 
-- A GitHub repo (`README.md` + `data/` source) — currently ~741 stars. Catalog size: **~3,468 entries** as of 2026-06-17 (public copy rounds to "3,400+"; recount via `^  - name:` across `data/`). +46 from johnkunz.com wiki ingest 2026-06-17 (see decisions.md).
+- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **3,662 entries, 103 deprecated, ~3,559 unique live resources** across 12 sections / 146 subsections (2026-10-05). Public copy uses `catalog.publicCountLabel()` ("3,500+"), never a hardcoded number.
 - A live static site: `https://3d.devanshutak.xyz` (Cloudflare Pages).
 - An `llms.txt` + `llms-full.txt` feed for AI crawlers (ChatGPT, Perplexity, Claude).
 - An Atom feed (`feed.xml`) + sitemap + per-section indexable pages.
@@ -33,168 +33,80 @@ Secondary:
 
 ```
 3d_resources/
-├── README.md                  # GENERATED, full render (~760 KB). Never hand-edit. See §6 on lite mode.
+├── README.md                  # GENERATED full render (~800 KB). Never hand-edit; render-readme.yml re-renders it on main.
 ├── CLAUDE.md                  # Project rules for Claude. Read every session.
 ├── project.md                 # THIS FILE. Read every session, update after every change.
+├── CHANGELOG.md               # Dated work log (moved out of §11 on 2026-10-05). Newest first.
 ├── CONTEXT.md                 # Domain vocabulary (Section, Subsection, Entry, Chunk, Pass).
-├── CONTRIBUTING.md            # Contributor instructions.
+├── CONTRIBUTING.md            # Contributor guide (chunk-file layout, vocab, style, npm scripts).
 ├── CODE_OF_CONDUCT.md         # Contributor Covenant v2.1 stub.
 ├── SECURITY.md                # Security reporting policy.
 ├── LICENSE                    # CC0-1.0.
-├── plan.md                    # Architecture plan (chunked catalog + passes). Mostly done.
-├── pub_plan.md                # Publication-readiness plan. Part 1 shipped 2026-05-17.
-├── changes.md                 # Publication-readiness changelog (11/11 steps done).
-├── build.sh                   # Canonical 8-step build pipeline.
-├── package.json               # Deps: ajv, ajv-formats, js-yaml, marked, minisearch, resvg-js.
+├── build.sh                   # Canonical build (see §6). Starts from an empty _site/, ends with a link check.
+├── package.json + package-lock.json   # Pinned deps (lockfile tracked; use `npm ci`). npm scripts: validate, test, build.
+├── .gitattributes             # * text=auto eol=lf
 │
 ├── data/                      # SOURCE OF TRUTH (ADR-0002). Edit here, never README.md.
 │   ├── sections.yml           # Ordered list of 12 sections + featured picks.
-│   ├── aliases.yml            # URL aliases (renames, redirects).
-│   ├── 01-assets.yml          # Section metadata + subsection list. No entries.
-│   ├── 01-assets/             # One dir per section, holding chunked entries.
-│   │   ├── asset-marketplaces/
-│   │   │   └── 01-asset-marketplaces.yml      # { entries: [...] }, ≤50 entries (ADR-0001).
-│   │   ├── hdris/01-hdris.yml
-│   │   ├── textures-free-pbr/
-│   │   │   ├── 01-textures-free-pbr.yml       # Chunk 1 (full at 50).
-│   │   │   └── 02-textures-free-pbr.yml       # Chunk 2 (overflow).
-│   │   └── ... (17 subsections)
-│   ├── 02-modeling.yml + 02-modeling/         # 19 subsections (DCC-specific).
-│   ├── 03-animation.yml + 03-animation/       # 3 subsections.
-│   ├── 04-lighting.yml + 04-lighting/         # 5 subsections.
-│   ├── 05-vfx.yml + 05-vfx/                   # 3 subsections.
-│   ├── 06-motion-graphics.yml + 06-motion-graphics/  # 7 subsections.
-│   ├── 07-game-dev.yml + 07-game-dev/         # 19 subsections.
-│   ├── 08-art-design.yml + 08-art-design/     # 13 subsections.
-│   ├── 09-ai-ml.yml + 09-ai-ml/               # 10 subsections.
-│   ├── 10-tools-pipeline.yml + 10-tools-pipeline/    # 12 subsections.
-│   ├── 11-learning-community.yml + 11-learning-community/  # 11 subsections.
-│   └── 12-software-reference.yml + 12-software-reference/  # ~30 subsections (software buckets).
+│   ├── aliases.yml            # Search aliases (catalog.loadAliases()).
+│   ├── awesome-sources.yml    # Awesome-lists credited in the README footer (catalog.loadAwesomeSources()).
+│   ├── NN-<section>.yml       # Section metadata + subsection list (slug, title, description, chunks). No entries.
+│   └── NN-<section>/<sub>/NN-<sub>.yml   # Chunks: { entries: [...] }, ≤50 each (ADR-0001).
 │
-├── schema/                    # Data contract.
-│   ├── entry.schema.json      # JSON Schema 2020-12 for entry objects.
-│   └── vocab.yml              # Controlled enums for license/entry_type/workflow/output/platform/skill + curated tech.
+├── schema/
+│   ├── entry.schema.json      # JSON Schema 2020-12 for entries (url must match ^https?://).
+│   └── vocab.yml              # Closed enums + curated tech list.
 │
-├── scripts/                   # All build / validate / ingest / pass tooling.
+├── scripts/
 │   ├── lib/
-│   │   ├── catalog.js         # Single seam over data/. ALL scripts use this. CHUNK_CAP=50.
-│   │   ├── catalog.test.js
-│   │   ├── canonical-url.js   # URL normalization (https, strip www, drop tracking).
-│   │   ├── canonical-url.test.js
-│   │   ├── quality-score.js   # qualityScore(entry) → {score, factors}.
-│   │   ├── quality-score.test.js
-│   │   ├── slugify.js         # Shared Pattern A anchor slugify (SEO pages + sitemap).
-│   │   ├── html-safe.js       # escText/escAttr/safeJsonLd/isSafeHref/useSafeLinks. All data→HTML goes through these.
-│   │   ├── escaping.test.js   # XSS regressions (schema url scheme, JSON-LD </script>, inert render).
-│   │   ├── table-labels.js    # Adds data-label to <td> so tables stack into cards on mobile.
-│   │   ├── seo-pages.js       # SEO page enumeration: subsectionPages/tagPages/THIN_THRESHOLD.
+│   │   ├── catalog.js         # Single seam over data/. CHUNK_CAP=50. Also loadAliases, loadAwesomeSources, publicCountLabel.
+│   │   ├── html-safe.js       # escText/escAttr/safeJsonLd/isSafeHref/useSafeLinks. All data->HTML goes through these.
+│   │   ├── heading-id.js      # Entity-decoding heading id (== render.githubAnchor) used by build-html.
 │   │   ├── page-shell.js      # Shared HTML shell for section/subsection/tag pages.
-│   │   ├── ingest-core.js
-│   │   └── rss.js
-│   ├── passes/
-│   │   └── verify-tags.js     # Per-chunk subagent pass (re-validates vocab tags).
-│   ├── _archive/              # Dead one-shot migration scripts (tracked, never run).
-│   │
-│   ├── render.js              # data/ → README.md (lite + full modes).
-│   ├── validate.js            # Schema + vocab + cross-section dupe checks. CI gate.
-│   ├── build-html.js          # README.md → _site/index.html (also writes footer/back-to-top).
-│   ├── build-section-pages.js # Per-section + per-subsection pages (/sections/<slug>/[<sub>/]).
-│   ├── build-tag-pages.js     # /tags/ hub + /tags/<group>/<value>/ tag index pages (B2).
-│   ├── build-sitemap.js       # sitemap.xml (FINAL build step; sole writer; indexable + on-disk).
-│   ├── build-llms-txt.js      # llms.txt + llms-full.txt.
-│   ├── build-feed.js          # Atom feed of latest 50 entries.
-│   ├── build-og-images.js     # Per-section 1200×630 PNGs from og-template.svg.
-│   ├── build-search-index.js  # MiniSearch serialized index.
-│   ├── build-graph.js         # graph.json for WebGL 3D graph view.
-│   ├── export-data.js         # data/ → _site/data.json (filter UI).
-│   ├── export-csv.js          # CSV export.
-│   │
-│   ├── ingest-80lvl.js        # Ingest pipeline: 80 Level.
-│   ├── ingest-gumroad.js      # Ingest pipeline: Gumroad.
-│   ├── ingest-itch.js         # Ingest pipeline: itch.io.
-│   ├── ingest-youtube.js      # Ingest pipeline: YouTube channels.
-│   ├── mine-awesome.js        # Mine awesome-lists into candidates (gitignored).
-│   ├── triage-candidates.js   # Triage mined candidates (gitignored).
-│   │
-│   ├── audit-classification.js
-│   ├── audit-software-coverage.js
-│   ├── auto-tag.js
-│   ├── check-links.js         # Link rot scan; writes url_status + url_last_verified.
-│   ├── check-pricing-freshness.js
-│   ├── check-repo-staleness.js  # GitHub push date → stale/archived/last_pushed.
-│   ├── cleanup-validation-drift.js
-│   ├── dedupe-entries.js      # Cross-chunk dupe scan (uses qualityScore).
-│   ├── dedupe-youtube.js
-│   ├── freshness-digest.js
-│   ├── migrate-software.js
-│   ├── pass.js                # Pass driver: per-chunk subagent edits with branch + commit.
-│   ├── quality-scan.js
-│   ├── quarantine-low.js
-│   ├── recheck-unreachable.js
-│   └── watch-releases.js
+│   │   ├── seo-pages.js       # SEO page enumeration: subsectionPages/tagPages/THIN_THRESHOLD.
+│   │   ├── entry-schema.js    # Per-entry schema.org JSON-LD.
+│   │   ├── canonical-url.js, quality-score.js, slugify.js, table-labels.js, ingest-core.js, rss.js
+│   │   └── *.test.js          # catalog, canonical-url, quality-score, entry-schema, escaping, heading-id, review-regressions.
+│   ├── passes/verify-tags.js  # Per-chunk subagent pass.
+│   ├── _archive/              # Dead one-shot scripts (tracked, never run). See its README.
+│   ├── run-tests.js           # Runs every scripts/lib/*.test.js (npm test).
+│   ├── render.js              # data/ -> README.md (full; --mode=lite unwired; --link-mode=pages for /sections/).
+│   ├── validate.js            # Schema + vocab + duplicate checks. CI gate.
+│   ├── build-html.js, build-og-images.js, build-section-pages.js, build-tag-pages.js,
+│   │   export-data.js, build-search-index.js, build-graph.js, build-llms-txt.js,
+│   │   build-feed.js, build-sitemap.js           # Site build steps (§6).
+│   ├── check-built-links.js   # Post-build internal link / anchor / duplicate-id check (exit 1 on failure).
+│   ├── check-links.js         # External link scan; browser-UA retry; --only-missing / --status= / --dry-run.
+│   ├── recheck-unreachable.js, check-pricing-freshness.js, check-repo-staleness.js, watch-releases.js, freshness-digest.js
+│   ├── ingest-80lvl.js, ingest-gumroad.js, ingest-itch.js, ingest-youtube.js
+│   ├── pass.js, auto-tag.js, audit-classification.js, dedupe-entries.js, dedupe-youtube.js,
+│   │   quality-scan.js, quarantine-low.js, export-csv.js
+│   └── mine-awesome.js, triage-candidates.js     # gitignored local tools
 │
-├── assets/                    # Source assets for the site (copied wholesale to _site/ by build-html.js `fs.cpSync`).
-│   ├── css/style.css          # ~27 KB main stylesheet.
-│   ├── css/graph.css          # ~19 KB graph view stylesheet.
-│   ├── js/filter.js           # ~53 KB filter UI (chips, search, facets). Emits search/filter_apply/filter_clear.
-│   ├── js/analytics.js        # Mixpanel init (idle-deferred) + outbound_click + window.track3d. Loaded on every page.
-│   ├── js/graph.js            # ~35 KB WebGL graph.
+├── assets/                    # Copied to _site/ by build-html.js.
+│   ├── css/style.css, css/graph.css
+│   ├── js/filter.js, js/analytics.js, js/graph.js
 │   ├── graph.html             # Standalone graph view template.
-│   ├── favicon.svg, apple-touch-icon.png
-│   ├── og-image.png, og-image.svg, og-template.svg
-│   └── cover.af               # Affinity Designer source for cover art.
+│   └── favicon.svg, apple-touch-icon.png, og-image.png/.svg, og-template.svg, cover.af
 │
-├── _site/                     # GENERATED. Cloudflare Pages serves this. In .gitignore.
-│   ├── index.html             # ~1.1 MB single-page catalog.
-│   ├── sections/<slug>/       # 12 per-section indexable pages.
-│   ├── data.json              # ~1 MB filter index.
-│   ├── search-index.json      # ~880 KB MiniSearch index.
-│   ├── graph.json             # ~2 MB graph data.
-│   ├── llms.txt + llms-full.txt
-│   ├── feed.xml + sitemap.xml + robots.txt + 404.html
-│   └── assets/                # CSS, JS (vendored MiniSearch UMD), og images.
+├── docs/
+│   ├── adr/0001-data-layout-is-public-interface.md, adr/0002-data-is-source-of-truth.md
+│   ├── plan.md, pub_plan.md, changes.md        # Historical plans (moved from root 2026-10-05).
+│   ├── plans/2026-09-15-review-fixes.md
+│   └── deployment-issues.md, deployment-issues-resolved-spec.md
 │
-├── docs/adr/                  # Architecture Decision Records.
-│   ├── 0001-data-layout-is-public-interface.md
-│   └── 0002-data-is-source-of-truth.md
-│
-├── memory/                    # Project-scoped memory (per CLAUDE.md protocol).
-│   ├── goals.md
-│   ├── tech_stack.md
-│   ├── decisions.md           # Dated ADR-lite log.
-│   ├── preferences.md         # User collab style.
-│   ├── tools.md               # CLIs in use.
-│   ├── agents.md              # Subagents spawned + outcomes.
-│   ├── plugins.md             # Skills + MCP in use.
-│   └── user-prompts.md        # Verbatim prompt log.
-│
-├── handoff/                   # Non-code launch/growth docs (gitignored). 13 markdown files.
-│   ├── 00-prelaunch-hygiene.md → 10-tracking-kpis.md
-│   ├── copy-snippets.md       # Single source of truth for taglines/pitches.
-│   └── README.md
-│
-├── press/                     # Press release + media/creator outreach (gitignored; has personal emails).
-│   ├── press-release.md       # Full evergreen release. Pulls facts from project.md + copy-snippets.md.
-│   ├── press-release-short.md # ~140-word paste-ready media brief.
-│   ├── media-contacts.md      # Named, tiered targets: A press/mag, B YouTubers, C podcasts, D newsletters, E amplifiers.
-│   └── outreach-tracker.md    # Single roll-up status table across categories.
-│
+├── memory/                    # Project memory (CLAUDE.md protocol). archive/ holds entries up to 2026-09-30.
 ├── .github/
-│   ├── workflows/validate.yml # CI: runs validate.js + dry-render + JSON export on data/schema/scripts changes.
-│   ├── ISSUE_TEMPLATE/        # suggest-resource, report-broken-link, report-bug, config.
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   └── FUNDING.yml
+│   ├── workflows/validate.yml       # PR + push: npm ci, npm test, validate, full build.sh (incl. link check).
+│   ├── workflows/render-readme.yml  # main: re-render README.md after data/schema/render changes, bot commit.
+│   ├── workflows/link-check.yml     # 1st of month 06:00 UTC: check-links, commit status, open issue.
+│   ├── workflows/release-watch.yml  # 1st of month 07:00 UTC: watched releases, commit state, issue.
+│   ├── workflows/freshness.yml      # 1st of month 08:00 UTC: staleness/pricing/ingest, PR + digest issue.
+│   ├── ISSUE_TEMPLATE/ (suggest-resource, report-broken-link, report-bug, config), PULL_REQUEST_TEMPLATE.md
 │
-├── _maintenance/              # Pass state files, awesome-mining cache. Gitignored.
-│   ├── passes/<task>-<date>.json
-│   ├── awesome-mining/        # Raw mined awesome-list copies (~14 files).
-│   ├── unclassified-residual.md
-│   └── split-run.log
-│
-├── disregard/                 # Scratch. Gitignored. temp_session_plan.md, TOC_FRAMEWORK.md.
-├── run-logs/                  # Build/run logs.
-├── graphify-out/              # graphify skill output. Gitignored.
-└── node_modules/              # Deps. Gitignored.
+├── _site/                     # GENERATED, gitignored. Cloudflare Pages serves it.
+├── _maintenance/              # Gitignored except release-state.json. Link-check reports, awesome-mining cache.
+└── disregard/, run-logs/, handoff/, press/, graphify-out/, node_modules/   # Gitignored, local only.
 ```
 
 ## 4. Data model
@@ -263,31 +175,36 @@ data/<section>/<sub>/*.yml ─┘
 
 ## 6. Build pipeline (build.sh)
 
-1. `npm install marked js-yaml minisearch`.
-2. `render.js` → full `README.md` (consumed by build-html).
-3. `build-html.js` → `_site/index.html` (+ 404, robots; sitemap moved to step 10).
-4. `build-og-images.js` → per-section 1200×630 PNGs.
-5. `build-section-pages.js` → `/sections/<slug>/index.html` × 12 **+ `/sections/<slug>/<sub>/index.html` × ~151 subsection pages** (Workstream B1).
-6. `export-data.js` → `_site/data.json`.
-6b. `build-tag-pages.js` → `/tags/` hub + `/tags/<group>/<value>/` × 121 tag pages (Workstream B2).
-7. `build-search-index.js` + vendored MiniSearch UMD copy.
-8. `build-graph.js` + copy `assets/graph.html`.
-9. `build-llms-txt.js` → llms.txt + llms-full.txt.
-10. `build-feed.js` → Atom feed.
-11. `build-sitemap.js` → `_site/sitemap.xml` (FINAL step; sole sitemap writer; lists root + section + indexable subsection + indexable tag pages that exist on disk).
+Full run ~12 s (was ~4 min before the 2026-10-05 render index). Order:
 
-**README stays in FULL mode (~760 KB).** `render.js` supports `--mode=lite` (~19 KB landing page), but nothing calls it: `build.sh` step 2 and `.github/workflows/link-check.yml` both run plain `node scripts/render.js > README.md`, and neither re-renders lite afterward. Wiring lite mode back in is an open decision, not a bug to silently patch. Sitemap is built last so it can include subsection + tag pages generated after build-html.
+1. `npm ci`, then `rm -rf _site` (no stale pages for removed subsections/tags).
+2. `render.js` -> full `README.md` (input for build-html).
+3. `build-html.js` -> `_site/index.html`, 404, robots, assets copy.
+4. `build-og-images.js` -> per-section 1200x630 PNGs (section pages fall back to og-image.png if missing).
+5. `build-section-pages.js` -> `/sections/` hub + 12 section + 146 subsection pages (thin ones noindex). Renders in-process with link mode `pages`.
+6. `export-data.js` -> `_site/data.json` (one row per subsection+url).
+7. `build-tag-pages.js` -> `/tags/` hub + per-tag pages.
+8. MiniSearch UMD copy + `build-search-index.js`.
+9. `build-graph.js` + `graph.html` copy.
+10. `build-llms-txt.js` -> llms.txt + llms-full.txt.
+11. `build-feed.js` -> Atom feed.
+12. `build-sitemap.js` (sole sitemap writer; indexable pages that exist on disk).
+13. `check-built-links.js` (fails the build on a missing target, broken fragment or duplicate id).
+
+**README stays in FULL mode.** `render.js --mode=lite` exists but is unwired (open decision, §11). render.js
+must not read anything gitignored: CI renders from a clean checkout and render-readme.yml commits the result.
 
 ## 7. CI
 
-The validation workflow also runs the four existing unit suites and `scripts/lib/review-regressions.test.js`. Script, browser JavaScript, dependency and workflow changes trigger these checks on both pushes and PRs.
-
-`.github/workflows/validate.yml` triggers on changes to `data/**`, `schema/**`, `scripts/**`. Runs:
-1. `node scripts/validate.js` (schema + vocab + cross-section dupes).
-2. `node scripts/render.js > /tmp/regen-README.md` (dry-render).
-3. `node scripts/export-data.js /tmp/data.json` (JSON export).
-
-Any closed-enum violation exits 1 and blocks merge.
+- **validate.yml** (push + PR on data/schema/scripts/assets/build.sh/package files): `npm ci`, `npm test`
+  (all `scripts/lib/*.test.js`), `node scripts/validate.js`, full `bash build.sh`. README staleness is only a
+  notice. First-time contributors' PR runs need maintainer approval (`action_required`).
+- **render-readme.yml** (push to main touching data/schema/render/lib): validate, re-render README, bot commit.
+- **link-check.yml / release-watch.yml / freshness.yml**: monthly maintenance (see §3). Bots `pull --rebase`
+  then push; failures are no longer swallowed.
+- Actions pinned to current majors (checkout v7, setup-node v7, create-pull-request v8,
+  create-issue-from-file v6), Node 22, npm cache.
+- Any closed-enum violation exits 1 and blocks merge.
 
 ## 8. Rules and absolute NOs
 
@@ -355,7 +272,7 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 
 ## 10. Memory protocol (mandatory)
 
-**Session start:** Read `project.md`, `CLAUDE.md`, and all 8 files in `./memory/` before responding to first prompt.
+**Session start:** Read `project.md`, `CLAUDE.md`, and all 8 files in `./memory/` before responding to first prompt. `memory/archive/` holds history up to 2026-09-30; read only when needed.
 
 **After every user prompt:**
 1. Append the verbatim prompt to `memory/user-prompts.md` with timestamp + 1-line summary.
@@ -364,83 +281,49 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 
 **Session end:** Final sweep — ensure all files reflect latest state.
 
-## 11. Pending tasks / known work
+## 11. Open items
 
-- 2026-10-05: **Audit fix plan in progress** (`~/.claude/plans/snuggly-munching-truffle.md`, 7 phases, commit + push per phase). **Phase 1 DONE (security):** stored-XSS path closed. New `scripts/lib/html-safe.js`; render.js escapes name/description/best_for/readme_tags/pricing + encodes link targets; marked link/image hrefs limited to http(s)/mailto/relative; JSON-LD `<` encoded; page-shell head fields escaped; graph.js escapes namespace/type/license/id + http(s)-only links; OG template uses replacer fns; schema url pattern. `scripts/lib/escaping.test.js` (10 cases) in CI. README re-rendered. **Phase 2 DONE (links):** render.js `setLinkMode('pages')` / `--link-mode=pages` makes See-also + mirror-provenance links on standalone /sections/ pages point at `/sections/<sec>/<sub>/` (README + index keep `#anchor`); broken in-page anchors 243 -> 0. filter.js `safeDecode` stops a malformed hash (`/#%E0`) killing init. New `scripts/check-built-links.js` = build.sh step 10 (exits 1 on missing target / broken fragment / duplicate id). **Phase 3 DONE (deps/CI):** `npm audit` 0 vulns (js-yaml 4.3.2, fast-uri via audit fix, marked 18.0.14); `package-lock.json` now tracked; build.sh + all workflows use `npm ci`; package.json has name/private/license/engines + scripts (`validate`, `test` -> `scripts/run-tests.js` runs every `scripts/lib/*.test.js`, `build`). validate.yml: `contents: read`, Node 22, runs `npm test` + validate + full `build.sh` (incl. link check); README staleness is a notice only. **New `render-readme.yml`** re-renders + commits README on every main push touching data/schema/render (so contributor PRs never need to touch README). Actions bumped (checkout/setup-node v7, create-pull-request v8, create-issue-from-file v6); `git push || true` replaced by `pull --rebase` + push; em-dashes out of issue titles. `.gitattributes` (`* text=auto eol=lf`) added. **Phase 4 DONE (data correctness):** removed 5 empty subsections (houdini-grooming, animation-courses, motion-graphics-courses, video-editing-courses, concept-art-courses) + empty `ml-for-cg/02`; **kept `texture-material-generation`** (no own entries but 8 §12 AI-image entries mirror into it). unity `chunks: 9 -> 10`. Duplicates: 46 ops (same-sub merges ShotDeck/Are.na/iquilezles/ISF/Blender Discord/UV checker/Ncam->ZEISS; cross/same-section -> canonical + `dual_listed_in` for NASA, SideFX library, Substance assets + community, Game Dev League, Unreal Source, Cosmos, Storyboard Pro, OIIO, Rosebud, Eagle; distinct-product URLs fixed for DaVinci Studio, RealityKit, Spline AI, Rokoko x2, Toonz/Lumberyard legacy; Trapcode + Nomad Resources + duplicate Default Cube deleted; Commotion/Vertexshaderart/ThreeDScans disambiguated). Cross-section dupe warnings 8 -> 0 (Motion Design School pair kept per 2026-06-16 user call). `check-links.js`: browser-UA retry before non-OK, bodies cancelled, `--only-missing` / `--status=` filters, no em-dashes in report. 151 new entries link-checked. Unreachable/redirect triage: Effect House ok (geo-blocked in India, `notes:`), Lilex -> GitHub, EditNeRF -> arXiv, Clayoo -> food4rhino, Kuadro http-only, Stubborn Generator + SketchPro deprecated (domains parked). **24 entries un-deprecated** that the pre-Sept link-check bot had auto-deprecated on bot-blocks (3ds Max, MotionBuilder, VRED, Alias, Inventor, Mocha AE, Ludum Dare, GDC Vault, ...); hand deprecations untouched. **96 http -> https** (82 same-host 2xx + 12 same-host bot-blocked + 2 DeviantArt canonical); 28 left http (TLS broken/refused). 3D Coat Print -> Free (40K-tri export cap); FrameRate rewritten (Vimeo-alternative hosting platform, Freemium). build.sh now `rm -rf _site` first (stale pages lingered). STILL unreachable (recheck next run): Houdini Python Startup Scripts (522), Periodic Table of Motion, Needle USD Converter (cert expired), Vu Studios (502), Ponzu. Siemens NX still redirects to a generic Siemens CAD page.
-- 2026-10-05: **Software + tools discovery phase (web search, 4 parallel research agents).** +151 entries, all deduped vs catalog by name/host/path (`SHARED` multi-product hosts compared by full path). Biggest gaps closed: Autodesk Flame, Chaos Vantage, Nuke Stage, GeoTracker, SpeedTree, Hunyuan3D 2.1, mGear, Forest Pack/RailClone, X-Particles, TVPaint, Terragen, Vectorworks. AI tools canonical in §12 `ai-*-software` + `dual_listed_in` to §09/§03 counterpart (existing convention). Terrain + creative-coding tools -> §12 `misc-3d-utilities-software`; XR authoring (Lens Studio, Effect House, ShapesXR) -> §07 `xr-ar-vr`. Guerilla Render fixed (spelling, Freemium, pricing, desc; https refuses so URL stays http). Vocab gotcha: workflow enum has `retopo` (not retopology), `audio-design` (not audio), no `layout`/`level-design`/`photogrammetry` (photogrammetry is a tech tag). `scientific-viz-software` chunks 1->2. Validate ✓ 439 warnings (+7 benign freeform tech). README not regenerated; nothing committed. Tencent Hunyuan entries carry a territory-license `notes:`. NEXT phases (user to pick): assets, tutorials/learning, AI/ML workflows.
-- 2026-10-05: **GitHub PR + issue triage (PRs #18/#19/#20/#24, issues #22/#23).** All 4 PRs are single-entry, maker-submitted (disclosed); each applied cleanly to origin/main in a scratch worktree, validate ✓, sites live, contents checked against claims. **#19 Normal Map Bench + #24 Remove Audio Video Converter: ready, user merges** (first-time contributors: CI needs workflow approval). #24 is a generic video converter, fit is the user's call. **#20 3DTexel:** claims match (1,649 CC0 assets, free account to download); conflicts with main on `url_last_verified` only, rebase requested. **#18 Meshory:** changes requested: PR says "free trial", site offers 14-day money-back + browser demo; price rises $34.99 -> $39.99 on 2026-10-28; also needs rebase. **#22 link check (8 broken):** 3 deprecated (Procedural Modeling with VEX / CGCircuit, Art Directing Paint Splashes, Houdini Quick Tips), VFXPedia already deprecated, 2 false positives -> ok (IEEE, bsky.art + notes), Importance Sampling repointed to a Wayback snapshot (**first archive.org URL in the catalog**, user decision), Steam entry renamed SteamVR Replacement Models Guide (tutorial). IEEE + bsky.art + Importance Sampling were re-flagged from last month: `check-links.js` UA fix still not done. `gh` is installed at `C:\Program Files\GitHub CLI\gh.exe` (authed) but not on PATH. **#23 release watch:** closed as no-op (0 `version_sensitive`, no embedded versions); en route fixed Defold description (Defold Foundation, 2D + 3D, not "2D mobile by King").
-- 2026-10-05: **Unreachable backlog batch 1 (63 `url_status: unreachable`).** Rechecked with browser UA + DoH DNS. **34 entries -> ok** (incl. 9 URL moves: Substance Academy/Designer/Painter, Firefly, DesignCode, JewelCAD -> jewelcadpro.com, RizomUV -> rizomuv.com, Cinesync -> cinesync.online, LTX Studio -> ltx.io/studio; Cambridge in Colour gets a Cloudflare-challenge `notes:`). **DuME:** old rainboxlab.org URL now redirects to a gambling site; repointed to `rxlaboratorio.org/rx-tool/dume/`, description was wrong (it is a GPL media encoder, not an AE duplicate-footage plugin), un-deprecated. **14 dead domains -> broken + deprecated** (Mari Channel, NodeToy, Fast Palette Studio, both FX References, Cine Designer, EYECANDY, Visual Electric, Metastage, Illustration Tools, Snowtrack, Cozy Blanket, Valence 3D, HitFilm). **15 left unreachable** (server up but refusing/timing out; recheck next run). 
-- 2026-10-05: **Redirect backlog batch 2 (521 `url_status: redirect`).** Rechecked + classified (trivial / same-path / same-site / homepage-landing / cross-domain / failed). **336 URLs updated** to the live target (tracking params stripped; repo renames, arXiv `.pdf` drops, rebrands like Blender Market -> Superhive, raywenderlich -> kodeco, discord.gg -> discord.com). **152 -> ok, URL kept**: root URLs and locale-only redirects (`/en`, `/ja`, `en-in` are geo artifacts), sign-in walls, DOIs, Cloudflare/Gumroad 403/429 bot blocks. **31 deprecated with `notes:`**: 4 hijacked domains now serving spam/gambling (Texture Fun, Devdog UnityTips, Cinetracer, 3DXO), retired products (Quixel Bridge/Mixer, Modo, Unity Muse, Mozilla Hubs, AMD ProRender pages), Google+ communities, pages that now land on a 404/homepage/unrelated page. 2 left as redirect (Pearson 504, already-deprecated Oculus doc). **OPEN:** URL convergence exposed 8 cross-section duplicates (validator warnings 424 -> 432: Reality Composer Pro, discord gamedev + unrealsource, Red Giant, Nomad Sculpt, SideFX content library, Substance community assets, Storyboard Pro). Consolidate to canonical + `dual_listed_in` in a later pass. **OPEN:** 15 `unreachable` remain for next monthly run.
+Dated history lives in `CHANGELOG.md` (newest first). Keep this list short: add when something is
+left open, remove when done.
 
-- 2026-09-16: **UX audit fixes applied** (40 findings from `~/Documents/Codex/2026-09-16/g-personal-3d-resources/outputs/3d-resources-ux-audit.md`; full detail in `memory/decisions.md`). Done: all of Phases 1, 2, 4 and most of 3. **Skipped by rule:** UX-25 (honor `prefers-reduced-motion`) conflicts with §8 "animations always run"; user must overrule the rule to take it. **Deferred:** UX-03 desktop category sidebar (L effort, structural); UX-04 host-software facet (no normalized `host_compat` data to filter on); UX-39 performance budget (no measurement tooling in repo). **OPEN:** README regenerated (large diff). Drawer interaction, screen reader behavior, real-device keyboard, and graph WebGL runtime were not exercised (headless Chrome DOM dumps only). Uncommitted; user commits.
-- 2026-09-15: Added **Ameede** (free CNC/3D-print STL + laser vector downloads) to §01 `model-libraries-specialized/01` (22→23). asset-source, Free, web, generalist. Site bot-blocks non-browser UAs (403), noted in `notes:` so link scans do not auto-deprecate it. **OPEN:** file provenance unverified (looks like repackaged ArtCAM/Aspire reliefs + MakerWorld prints while the site claims own IP); user accepted the flag. Validation ✓ 424 warnings, 0 errors. README not regenerated; nothing committed.
+**Needs the user (GitHub settings / decisions):**
+- Settings -> Actions -> General -> "Allow GitHub Actions to create and approve pull requests": the
+  2026-10-01 freshness run failed on it. Then re-run freshness and delete the orphan branch
+  `maintenance/freshness-2026-10` (its stale/archived flags were never merged).
+- Disable the legacy GitHub Pages build (Settings -> Pages). It publishes the whole repo, including
+  `memory/`, to devanshutak25.github.io on every push; Cloudflare Pages is the real host.
+- Open PRs: #19 Normal Map Bench + #24 Remove Audio Video Converter ready to merge (#24 fit is the
+  user's call); #18 Meshory (changes requested) and #20 3DTexel (rebase requested) wait on contributors.
+- Optional: branch protection on `main` (bots push directly: link-check, release-watch, render-readme).
+- README lite mode (`render.js --mode=lite`) exists but is unwired; keep FULL or switch.
+- Launch track (pub_plan Part 2): GitHub social preview, awesome-list PRs, Reddit/HN/Discord/X,
+  newsletters, Product Hunt, GSC submission, sending the press outreach in `press/`.
 
-- 2026-09-15: Eight review fixes prepared. HDRI Hub has two README tags. Public JSON includes descriptions and section heading anchors and excludes deprecated entries; category decoration uses the displayed section, including mirrored tables. Graph links use shared `slugify`. Link scans preserve editorial deprecation and report transient failures/redirects. Atom entries sort globally by required `added_at` with stable publication/update timestamps. All 3,532 source entries were backfilled from history. Regression checks are included in CI.
+**Catalog (next monthly link run):**
+- Still unreachable: Houdini Python Startup Scripts (522), Periodic Table of Motion, Needle USD
+  Converter (cert expired), Vu Studios (502), Ponzu. Siemens NX redirects to a generic Siemens CAD page.
+- Pricing mismatches noted but not changed (vendor pages blocked or unclear): Gaussian Splatting for
+  Nuke (irrealix, stored $46 vs ~$49), Scantic, Zoo Tools Pro, Beeble tiers, Character DNA.
+- Ameede file provenance unverified (user accepted the flag, 2026-09-15).
+- Motion Design School Discord entry shares the school's site URL (user: leave as-is, 2026-06-16).
+- §07 workflow coverage is 27% by design: gameplay code, networking, UI and similar have no workflow value.
 
-- 2026-09-02: **GitHub issue triage (#12, #13, #14). Link-check backlog cleared: 54 broken URLs -> 2.** Local main fast-forwarded to `5f4800c` (bot commits `718201a` link check + `5f4800c` release state). **#14 (release watch) = no-op**: all 27 entries read `Previous: (none tracked)` because that commit was the first write of `_maintenance/release-state.json` after the 2026-08-04 `.gitignore` fix; catalog has 0 `version_sensitive:` entries and no stale embedded version strings, so 0 data edits. Next month's issue shows real diffs. **#13 (link check)** triaged in 4 phases, per-entry verification (user explicitly rejected a blanket policy): **25 URL fixes, 16 deletions, 8 false positives cleared, 3 legacy Wikipedia repoints, 2 left flagged.** Deletions were owner-gone cases (GitHub accounts `ArchonInteractive`/`GeorgeDascalu`/`bonahova`/`SiposAttila1995` all 404; `blenderesse.gumroad.com` account root 404; hdrlabs.com reset to a "Launching Soon" placeholder taking Picturenaut + sIBL with it; blenderguru.com `/tutorials` tree gone; Firestorm CAD and pixelplow.com parked on HugeDomains; Modyfi acquired by Figma and shut down 2025-06-13). **Bot-block false positives are a recurring class** (Brandfetch 403, IEEE Xplore 418, Irrlicht/SourceForge 403, plus Sculptris and Shutter Encoder recovered): `check-links.js` uses a non-browser UA, so these were alive all along; each got a `notes:` line to stop re-deprecation. **Consider teaching `check-links.js` to retry a non-200 with a browser UA before writing `deprecated: true`.** Data error found en route: ICEM Surf was described as "(Siemens)" pointing at Siemens NX; it is Dassault Systemes CATIA ICEM Surf (url + description + readme_tags corrected). **#12 (Wardogs Wiki) declined** as out of scope (per-title fandom wiki = game content, not a production resource); decline text drafted, **user must post and close it** (`gh` CLI still not installed, no `GH_TOKEN` in session). **OPEN:** 2 entries still `url_status: broken` by the 5xx-is-not-404 rule, recheck next monthly run: Houdini Blueprints (`hdbp.io` 502 sitewide) + Maxon One Cloud (500). **OPEN:** 3D Coat Print is listed `Paid, ~$199 perpetual` but pilgway.com now calls it a free version, needs a pricing pass. **OPEN:** 79 `unreachable` URLs never triaged; expect more bot-blocks among them (`scripts/recheck-unreachable.js` targets these). Validation ✓ 424 warnings, 0 errors. README not regenerated; nothing committed. Unrelated: `origin/maintenance/freshness-2026-09` (`6206eb3`) now exists, so the "allow Actions to create PRs" setting flagged 2026-08-04 evidently works.
+**Site / UX:**
+- UX deferrals: UX-03 desktop category sidebar, UX-04 host-software facet, UX-39 performance budget.
+  UX-25 (`prefers-reduced-motion`) blocked by the §8 "animations always run" rule.
+- Not verified in a real browser: filter drawer, screen reader behaviour, real-device keyboard,
+  graph WebGL runtime. `record_sessions_percent: 100` needs sampling before a launch spike.
+- Workstream B4 (related "See also" beyond dual listings) deferred.
 
-- 2026-08-31: Added 3 inspiration/community entries: **Inspora** → §08 `general-inspiration/01` (32→33), **Hall of Frame** → §06 `motion-graphics-inspiration/01` (25→26), **The Motion Social Club** → §11 `communities-forums/01` (36→37). **FrameRate skipped: already cataloged** in §06 `motion-graphics-inspiration/01`. **OPEN:** the existing FrameRate description ("community showcase for motion design and music video work") understates it. The site is a video-hosting/portfolio platform for creatives (Vimeo alternative) with curated channels; `framerate.tv` bot-blocks fetches (403). Validation ✓ 428, 0 errors. README not regenerated; nothing committed.
-
-- 2026-08-21: Merged **PR #11** (Thridy, free 3D icon library) into §01 `icons/01` (28→29). Pre-merge checks all green (enums, dupe, URL 200, license page, style); PR CI never ran (first-time-contributor approval gate) so CI parity ran locally: validate ✓ 428, render exit 0, export exit 0. Real `--no-ff` merge commit `d98c067` pushed; PR auto-closed. Open PRs 0. **OPEN:** `README.md` not regenerated for this entry (site + README still lack Thridy). `gh` CLI still not installed; PR work done via GitHub REST API + plain git.
-
-- 2026-08-19: Added **MipMap** (drone mapping photogrammetry) to §10 `photogrammetry-scanning/03` (31→32), beside Pix4D. Platform `[win, mac]` inherited from Pix4D and NOT verified (site is JS-rendered). Full `check-links.js` write run over 3,543 URLs: OK 3,426, broken 58, unreachable 59, redirects 0, **0 new auto-deprecations** — the 58 broken are the same long-standing set. Report `_maintenance/link-check-2026-08-18.md` (script stamps UTC, so a local-2026-08-19 run is dated 08-18). Validation ✓ 428 warnings, 0 errors. **OPEN:** 58 broken URLs still need human triage; `scripts/recheck-unreachable.js` not yet run against the 59 unreachable (mostly Adobe/Autodesk bot-blocks). README not regenerated; nothing committed.
-
-- 2026-08-04: **CI maintenance workflows were failing silently for months.** GitHub issues/PRs open: 0; the real breakage was in Actions. `release-watch.yml` failed every run since May 2026 (`git add _maintenance/release-state.json` on a gitignored path exits 1) — fixed by changing `.gitignore` to `_maintenance/*` + `!_maintenance/release-state.json`; the glob form is required because git cannot re-include a file whose parent dir is excluded. `freshness.yml` succeeded in May with a direct-commit step, then failed Jun/Jul/Aug after the swap to `peter-evans/create-pull-request@v6` — its `add-paths` listed gitignored `_maintenance/**` globs; trimmed to `data/**`. `link-check.yml` used `content-filepath: ..._$(date +%Y-%m-%d).md`, which never expands inside a `with:` value; now computed as a step output (this is why no link-check issue was ever filed despite green steps). **OPEN for user:** freshness may additionally need repo setting Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests" (cannot verify without an authenticated token). Confirm on the next scheduled run (1st of month) or a `workflow_dispatch`.
-
-- 2026-08-04: §12 `audio-software` 36→48 entries (GarageBand, SoundThread, Audio Design Desk, Ocenaudio, Waveform Free, Renoise, Bespoke Synth, Surge XT, Vital, Csound, ChucK, Melodyne). SoX stayed canonical in §10 `conversion-tools` + `dual_listed_in: software-reference/audio-software`. §12 `ai-canvas-software` 6→9 (Omma, Rosebud AI, Websim) — bucket now covers prompt-to-experience builders, not only node canvases. FotoSketcher misfile fixed: moved `audio-software` → `design-software` (pure move, no dual_listed_in). Final: audio-software 47, design-software 32, ai-canvas-software 9. Rebased onto `link-check-bot` monthly-link-check commit (2 conflicts in `conversion-tools` + `audio-software`, resolved keeping bot's verified dates + my content); README regenerated via `node scripts/render.js > README.md`; §3 + §6 corrected to state the repo ships the FULL render (lite mode exists but is unwired). Open GitHub issues + PRs: 0. Deleted merged branch `pub-plan` (local). Remote `origin/pub-plan` + `origin/restructure` also 0 ahead of main and safe to delete, but remote deletes and the push are blocked in-session (no git credentials); user runs them.
-- 2026-07-24: Added Motion Lab (VDB/VFX element library) to §12 vfx-compositing-software, beside ActionVFX. asset-source, Paid, tech VDB.
-- 2026-07-22: Added Pascal Editor to CAD Software and The New Black to AI Design Viz Software.
-- 2026-07-21: Added Autodesk Project Falcon and Re:Form to Software Reference. Mixos was already cataloged, so no duplicate was added.
-
-### From plan.md (architecture — mostly done)
-All 7 steps shipped 2026-04-30. Catalog migration complete. Pass driver live with `verify-tags` pass.
-
-### From pub_plan.md (publication — Part 1 done 2026-05-17)
-All 11 code steps shipped. README split, per-section pages, llms.txt, footer, 404, perf defer, SSR filter shell, OG images, RSS feed, search-index split — done.
-
-**Part 2 (non-code, deferred to `handoff/`):**
-- GitHub About description + topics + social preview upload. **About + 20 topics drafted + copy-ready 2026-06-15** in `handoff/copy-snippets.md` ("GitHub About" section); user applies on GitHub. Social preview still pending.
-- Cut `v1.0.0` release. **PREP DONE 2026-06-17** (plan: `~/.claude/plans/what-is-the-next-cuddly-matsumoto.md`): pre-flight green (validate ✓ 397, build.sh ok, sitemap 243); paste-ready notes in `handoff/release-notes-v1.0.0.md` (real per-section counts, "3,400+", style-clean). User-run remainder: commit pending docs → `git tag -a v1.0.0` + push → publish GitHub release (notes file) → apply About+20 topics (`copy-snippets.md`) → upload `assets/og-image.png` (1200x630) as social preview. No tag yet; `gh` CLI not installed (use plain git + web UI).
-- Awesome-list PR submissions (10 targets).
-- Reddit posts (r/blender, r/Houdini, r/vfx, r/gamedev, r/3Dmodeling).
-- Show HN.
-- Discord drops.
-- Twitter/X + BlueSky launch thread.
-- Newsletter pitches (BlenderNation, CG Channel, 80.lv, Befores & Afters, Houdini Hive).
-- Product Hunt launch.
-- SEO follow-up: GSC submission, `/seo-audit`, watch CrUX.
-- **Press release + media/creator outreach lists: DONE 2026-06-17** in `press/` (gitignored). Evergreen `press-release.md` + `press-release-short.md` (built from `copy-snippets.md`, style-clean), `media-contacts.md` (named, tiered, web-verified: A press/mag, B 33 YouTubers, C 14 podcasts, D newsletters, E amplifiers; unverified contacts flagged), `outreach-tracker.md`. URLs HEAD-checked 200. User still applies/sends.
-
-### Searchability enrichment sweep (in progress, started 2026-06-11)
-Section-by-section deep enrichment of §01–§11 for filter-UI facets (§12 already done). Per section: fill missing `workflow`/`output`/`platform`/`skill` tags, add `license`, expand thin descriptions, fix junk/misfiled/wrong tags. Worst-first order: §10 → §07 → §02 → §04 → §06 → §08 → §01 → §09 → §05 → §11 → §03. **Done: §10** (platform 27%→80%) + **§07 COMPLETE** (7A 19 non-engine subsections; 7B `unity-engine-resources` 452 ent full hand-curation, chunk 09 over-cap split into 09+new 10; **7C `unreal-engine-resources` 2026-06-12, full hand-curation, 184 ent, platform 11→184, skill 0→13**). §07 whole now platform 811/812, skill 70, output 812. **§02 modeling IN PROGRESS** (chunk-by-chunk, worst-first; 251 ent, baseline platform 23%). Phases 1-4 (all 4 `blender-plugins-addons` chunks, 156 ent) DONE 2026-06-12. **§02 ENRICHMENT COMPLETE (phases 1-13) 2026-06-12.** Final §02 facet coverage: platform 251/251 (~100%), workflow 168, output 55, skill 52; empty-tags 0 (baseline platform 58, workflow 43, output 13, skill 10). **§02 RELOCATION COMPLETE 2026-06-12** — all 17 misfiles moved out: 12 dev/build/scripting tools + Blender dev docs → §10 `misc-3d-utilities/01` (18→30); 2 ML lists (3D Machine Learning, Awesome 3D Human) → §09 `ml-for-cg/01` (4→6); 3 refs (Awesome 3D Printing, Usage in Science, Blender Checklist) → §11 `communities-forums/03` (new chunk, `chunks` 2→3). RELOCATE notes stripped, pure move (no dual_listed_in). **§02 NOW FULLY COMPLETE (enrichment + relocation).** **§04 lighting IN PROGRESS** (6 phases chunk-by-chunk; 241 ent / 9 chunks; baseline platform 23, output 11, skill 8, workflow already 234/241). **Phases 1-5 DONE 2026-06-12.** P1 (4 tiny subsections, 15 ent): platform/skill/output, CNDL empty-tags fixed. P2 (rendering-shader-theory/01, over-cap fixed by moving 1 overflow → chunk 02; both now 50): platform on all 50, skill on educational, 3 missing-workflow fixed, stripped wrong blender tags. P3 (rendering-shader-theory/02, 50 ent): Unity shader repos got platform+output:games, 7 RELOCATE-candidates retyped inline (tool/plugin), junk stripped, 6 NPR channel descs cleaned; MoonRay+CopperLicht kept flagged for §12. P4 (rendering-shader-theory/03, 50 ent): platform on all 50 (web for refs/papers/libs, [win,mac,linux] for native tools/Unity/UE/Houdini), retyped 4 Blender addons reference→plugin + stripped badges, 10 papers got year+skill:advanced+web, output:games on Unity repos+CelShader, 6 truncated descs fixed. P5 (rendering-shader-theory/04, 48 ent): platform on all 48, skill on 26, 4 papers got year, retyped RenderDoc reference→tool + glslViewer-writeup tool→reference, Khrnos→Khronos typo; kept all 5 RELOCATE notes. P6 (rendering-shader-theory/05, 28 ent): platform on remaining 22 (6 channels already had web), skill on 20, output archviz/games, NeRF-Tex year:2021, typos+restater descs fixed, kept Takua RELOCATE? note. **§04 ENRICHMENT COMPLETE (all 6 phases). Final coverage: platform 241/241 (~100%), output 57, skill 115, empty-tags 0** (baseline platform 23, output 11, skill 8). **§04 RELOCATION COMPLETE 2026-06-12** — all 8 RELOCATE flags cleared: 6 moves (MoonRay→§12 render-engines, CopperLicht→§12 game-engines-free-oss, KodeLife→§12 misc-3d-utilities-software [all 3 retyped reference/tool→software]; Photo-tourism paper→§09 papers/02; React Spring→§06 motion-graphics-tools; Takua Renderer→§04 renderer-specific-learning) + 2 kept-in-place with note stripped (Quaternions math article, Physics-Based Animation — no math/sim home, user-confirmed). Pure move, no dual_listed_in, no new chunks. Sources: r-s-t/02 50→48, /04 48→45, /05 28→27. **§04 NOW FULLY COMPLETE (enrichment + relocation).** **§06 motion-graphics ENRICHMENT COMPLETE 2026-06-13 (single phase, user-confirmed).** 41 ent / 5 non-empty subsections (2 empty placeholders left + flagged: motion-graphics-courses, video-editing-courses). Coverage: platform 3→41 (100%), workflow 5→16, output 39→40, skill 1→6, empty-tags 0, junk 0. Convention locked: AE plugins → `[win,mac]` (no Linux build); MG has no `motion-graphics` workflow value (output-only), honest workflows used = compositing/editing/rigging/animation/creative-coding. No relocations needed in §06. **§08 art-design IN PROGRESS** (3-phase clustered: A education / B tools+inspiration / C misfit retype+relocation; 167 ent / 13 non-empty subsections). **Phase A DONE 2026-06-13** (7 files / ~84 ent: concept-art-channels, drawing-painting-3d, photography, cinematography-camera, animation-principles, design-principles-typography, composition; concept-art-courses left empty). **Phase B DONE 2026-06-13** (5 files / ~83 ent: pre-production-tools, general-inspiration, design-tools [light], color-theory-tools, 2d-art-references). §08 coverage now: platform 70→**167 (100%, every entry)**, workflow 118→139, output 45→84, skill 1→51, empty-tags 0. **Phase C DONE 2026-06-13 → §08 FULLY COMPLETE.** Moved 30 misfits out of §08 (167→137 ent): Nuke/Fusion/ButtleOFX→§12 vfx-compositing, Malt→§12 render-engines, 22 illustration asset-libs→§01 (stock-images 16, icons 3, model-libraries-specialized 3), Genetic Drawing+RenderNet→§09, Gizmos→§07 unity. Plasticity DEDUP (canonical already in §12 3d-software-paid; §08 dup deleted). Savee→§08 design-tools (intra). Retyped-in-place keepers (4 illustration refs in concept-art-channels [channel→reference], drawing-painting coding entries, Swatchr, Kerning Tool); notes stripped. All targets ≤50, 0 misfit flags, Plasticity in 1 file. **§08 final: 137 ent, platform 137 (100%), workflow 109, output 58, skill 51.** **§01 ASSETS IN PROGRESS** (clustered: 7 enrichment phases + final relocation, user-confirmed; 269 ent / 17 chunk files / 16 subsections; baseline platform 131/269, workflow 144, output 164, license 246, skill 0, empty-tags 5). **§01 convention LOCKED: asset-source/marketplace websites → `platform: web`** (source is a browser; differs from §02/§04 desktop default); software/plugins → desktop per host; `skill` mostly N/A. **P1 textures DONE 2026-06-13** (textures-free-pbr/01+02, textures-premium, textures-specialized; 37 ent): platform 1→37, output +37 (generalist/scientific-viz/archviz), NASA badge stripped, Substance `[$] :`+wrong-blender-tech fixed, Blendersauce empty-tags filled. **P2 model-libs general DONE 2026-06-13** (arch-furniture 11 already 100%-faceted, left as-is; free-general 33: output added to ~24, Blend Swap empty-tags filled, Mantissa blender-addon tech dropped; platform/output 44/44). **P3 model-libs specialized (21) + software-specific (10) DONE 2026-06-13**: specialized platform→21/21 (web), output fills, 2 empty-tags filled (Artec, Scanned Female Head link-salad rewritten); software-specific platform→10/10 (web for download libs, desktop for in-app browsers Maxon/Maya/3DCoat), output:generalist. **P4 game-assets DONE 2026-06-13** (45 ent, worst file): platform 4→45 (web on asset pages, [win,mac,linux] on 4 tools), output 45/45, workflow on 4 3D/anim packs; junk descs/readme_tags fixed. P8 flags added: NativeBlend CLI + UAssetAPI (tools→§10). **P5 stock+audio DONE 2026-06-13** (47 ent): stock-images already 28/28 (Story Set desc tightened only); stock-footage videvo link-salad fixed → 4/4; audio Sonniss desc + 2 plugin platforms → 14/15 (Sapphire→P8). **P6 icons (27) + fonts (19) DONE 2026-06-13**: icons 25→27/27 (typicons + Material design icons got web); fonts 0→19/19 (all got web). **§01 ASSETS FULLY COMPLETE (P1–P8) 2026-06-13.** P7 enriched the last 3 files (hdris/01 0/9→9/9 platform; marketplaces output fills + gumroad→asset-source rename; Quixel Bridge tags + Fab-fold note; Sonniss platform). P8 relocation+dedup: NativeBlend→§09 3d-generation, UAssetAPI→§07 unreal/04, Sapphire DEDUP-deleted (canonical in §12), OpenTopography retyped community→asset-source; 3D MDB + both Models Resource sites kept (user calls). §01 platform ~100% all files, 0 misfit flags. Validation 313 warnings, no errors. **§09 ai-ml FULLY COMPLETE 2026-06-13** (146 ent; papers-batch + small-files phasing). **Phase A** — papers/01+02 (93 ent): retyped all misfiled reference/tutorial/asset-source → `entry_type: paper`, stripped misfit notes, `skill: advanced` on all (1→93), cleaned bibtex/pipe/placeholder junk. **Phase B** — 8 small subsections + 12 intra-§09 relocations from image-generation/01 (3DALL-E→papers; courses→ml-for-cg; COVAL→ai-audio-music; 4 notebooks/channel→video-generation; AI Render→ai-assisted-cg-tools; point-E+AdaMPI→3d-generation; sd-concepts→open-source-models-hf). image-generation gutted 16→4 (upgraded dead Canva news article → real Canva tool). **§09 convention: papers/ = `entry_type: paper` + `skill: advanced` + `platform: web` + `year` + `paper` tech tag; platform heuristic = SaaS/refs/channels/papers → web, GitHub-repo/CLI/local tools → [win,mac,linux], plugins → host platforms.** Final coverage: platform 102→**146 (100%)**, skill 1→**100**, output 11, empty-tags 0, RELOCATE/misfit 0. Validation ✓ 314 (all freeform-tech `paper`/`ai-ml`, benign). FLAGS: image-generation thin + missing core text-to-image platforms (add later); empty stubs ml-for-cg/02 + texture-material-generation/01; could add `paper` to curated vocab tech. **§05 vfx FULLY COMPLETE 2026-06-15** (single phase; 28→26 ent). platform 3→26 (100%), output 11→25, skill 0→14. 3 misfits relocated out of tech-art: CasparCG→§05 virtual-production (intra), Bino→§07 xr-ar-vr, Kiko→§10 misc-3d-utilities (user picks). Clean data, validation ✓ 314. **§11 learning-community IN PROGRESS 2026-06-15** (cluster-by-theme, 4 phases; 436 ent / 15 chunks; baseline platform 94%, output 20% headline-gap, workflow 9%, skill 1%; over-cap `communities-forums/02` = 119 ent to split in Phase C). User forks: scope §11-only, split-during-§11, cluster-by-theme. **Phase A DONE** (YouTube channels, 109 ent / 5 files: youtube-motion-c4d already 100%; blender output 0→44 + workflow +11 + empty-tags fixed + 9 restater descs; houdini/01 output 0→12 + truncation fix; houdini/02 output/skill/tech on 13; sculpting-characters output 0→11). All 4 changed files 100% output+platform, 0 empty tags. Validation ✓ 322 (+8 benign houdini freeform-tech). **Phase B DONE 2026-06-15** (paid-tutorial-platforms 01+02 + patreon-creators, 112 ent): both paid-tutorial chunks found to be misnamed junk-drawers (mostly free channels/courses/dev-libs). paid platform 94/94, output 0→84, skill 0→89; patreon output 0→14, skill 0→3, 16 restater descs fixed. NEW RELOCATE flags: OpenEXR/OpenColorIO/OpenCue→§10, Importance Sampling→§09 (enriched in place). Validation ✓ 365 (benign freeform-tech, 0 errors). **Phase C DONE 2026-06-15** — split over-cap communities-forums/02 (119) into 3 thematic chunks (02 Blender/general/AI-dev 33, new 04 Houdini/C4D/motion/games/XR-VP 46, new 05 VFX/animation/concept/archviz/design 39), bumped chunks 3→5; fixed 6 empty tags + 1 license; DEDUP dropped realtimevfx.com dup; cleaned 9 link-salad descs in chunk 01. §11 empty tags 7→1 (Phase D). 159→158 ent. Validation ✓ 365, 0 errors. NEXT: Phase D (inspiration+career+trends; merge 3 architecture-viz entries into communities/inspiration per user, remove subsection) → §11 relocation pass (4 flags) → §03 animation. Plan: `~/.claude/plans/make-plan-to-do-tidy-wave.md`. **Phase D DONE 2026-06-15 → §11 ENRICHMENT COMPLETE (A–D).** inspiration-showcase 44→39 (6 creative-coding tools relocated → §12 misc-3d-utilities-software/virtual-production-software/legacy-defunct-software, retyped reference→software; Leaf Pic dropped; ~28 bogus license:Paid fixed; output added by medium). architecture-viz subsection REMOVED (Contemporist+Modlar→inspiration-showcase; Blender 3D Architect book→§02 blender-tutorials, tutorial→book; dir+slug deleted). salary-career +license:Free; industry-trends enriched. §11 empty-tags 0. Validation ✓ 365, 0 errors. **§11 RELOCATION PASS DONE 2026-06-15 → §11 FULLY COMPLETE.** 4 flags cleared (pure move): OpenEXR+OpenColorIO+OpenCue→§10 `pipeline-standards/01` (10→13; OpenEXR/OCIO +license:OSS +platform[win,mac,linux]; OpenCue kept web); Importance Sampling→§09 `papers/02` (44→45, reference→paper). §11 RELOCATE grep=0. Validation ✓ 366. **Scope locked "close the sweep only": NEXT and FINAL = §03 animation; §10 NeRF/GS paper-dump dedup DEFERRED.** **§03 ANIMATION DONE 2026-06-15 → §01–§11 SEARCHABILITY ENRICHMENT SWEEP COMPLETE** (§12 was pre-done). §03 (12 ent): ai-motion-capture/01 rewritten (Bandai Namco tool→asset-source, CMU BVH −blender tags, all +mocap+platform); channels light-touch (Josh Toonen cleaned, +skill ×2); animation-courses empty stub left. §03 platform 12/12, empty-tags 0. Validation ✓ 366. **Remaining catalog work = DEFERRED items only** (handoff §6): §10 NeRF/GS paper-dump dedup vs §09 papers; over-cap `plugin-marketplaces/01` (51); vfxcamdb.com cross-§10 dupe; duplicate official UE YouTube channel in §07. **NEXT sweep section after §11: §03 animation** (12 ent, single-phase). DEFERRED: §10 NeRF/GS paper-dump dedup+relocation overlap with §09 papers. **DEFERRED (own phase):** §10 photogrammetry/01-03 (121) + gaussian-splatting-nerf/01 (34) NeRF/GS paper-dump dedup+relocation overlap → §09 papers. Plan: `~/.claude/plans/make-plan-to-do-concurrent-snail.md`. After §01: §09 [NeRF/GS paper dumps + §10 overlap] → §05 → §11 → §03. Deferred: MoonRay (rendering-shader-theory/02) RELOCATE to §12 (render engine). Remaining worst-first after §04: §06 → §08 → §01 → §09 → §05 → §11 → §03. Full state: `disregard/handoff-enrichment-sweep.md`. One section per phase, validate + log, stop for user confirmation between sections. **Full operational handoff: `disregard/handoff-enrichment-sweep.md`.** Plan: `~/.claude/plans/see-the-last-few-optimized-zephyr.md`. Flagged: NeRF/GS paper dumps in §10 photogrammetry/gaussian-splatting overlap §09/papers (relocation+dedup for §09 phase); over-cap chunk `plugin-marketplaces/01` (51); vfxcamdb.com dupe across 2 §10 subsections; duplicate official UE YouTube channel in §07 `unreal-engine-resources/04` (two entries, same channel).
-
-### Deferred catalog cleanup (in progress, started 2026-06-15)
-Post-sweep flag cleanup. Plan: `~/.claude/plans/make-plan-to-do-shimmering-cloud.md`. User picked catalog-cleanup over publication; §10 NeRF/GS papers = relocate genuine papers → §09 `papers/` + dedup, real tools/services stay. **Phase 1a DONE**: 13 NeRF papers from §10 `photogrammetry-scanning/01` (37→24) → new `data/09-ai-ml/papers/03` (reference→paper, +skill:advanced), §09 papers `chunks: 2→3`, dedup 0 conflicts, validation ✓ 366. **Phase 1b DONE 2026-06-15**: 42 NeRF papers from `photogrammetry-scanning/02` (49→7) → filled papers/03 to 50 + new `papers/04` (5); §09 papers `chunks: 3→4`; dedup vs papers/01-03 = 0 conflicts; 7 keepers stay (2 tools, Awesome-3DGS list, 2 GS tutorials, 2 channels). Papers sizes 01=50/02=45/03=50/04=5. Validation ✓ 408 (366 + 42 benign `paper` freeform-tech), 0 errors. Plan: `~/.claude/plans/make-plan-to-do-ticklish-axolotl.md`. **Phase 1c DONE 2026-06-15**: 17 NeRF/GS papers from `gaussian-splatting-nerf/01` (34→17) → papers/04 (5→22); dedup 0 conflicts; chunks stays 4; 17 keepers stay (impls/tools/viewers/blogs). **Phase 1d DONE 2026-06-15 → PHASE 1 COMPLETE**: 2 Debevec HDR/IBL papers from `photogrammetry/03` (35→33) → papers/04 (22→24); user chose MOVE. §10 paper relocation done (1a-1d, 74 papers total → §09 papers; sizes 01=50/02=45/03=50/04=24, chunks 4); residue = legit keepers (impl repos + HDR book). Validation ✓ 410, 0 errors. **Phase 2 DONE 2026-06-15**: `plugin-marketplaces/01` over-cap split (51→50, BlenderAddons.org → `02` 0→1; chunks:2 already declared). **Phase 3 DONE 2026-06-15**: vfxcamdb.com cross-§10 dupe → kept `matchmoving-tracking/01` canonical + `dual_listed_in: [tools-pipeline-utilities/misc-3d-utilities]`, deleted thin misc copy. **Phase 4 DONE 2026-06-15**: duplicate official UE YouTube channel (§07 unreal/04) → kept `@UnrealEngine` (merged "weekly live streams" desc), deleted `channel/UCBob…` copy. Validation ✓ 410, 0 errors. **DEFERRED CATALOG CLEANUP COMPLETE (Phases 1–4). All §01–§11 enrichment + all post-sweep flags closed.** Classification rule (for reference): MOVE = `Author et al., VENUE YEAR` papers; KEEP-in-§10 = tools, GS blogs, awesome-lists, runnable reference-impl repos.
-
-### Post-audit cleanup (in progress, started 2026-06-15)
-3-agent audit (data / build-site / schema-docs) after the sweep "complete" milestone found residual items. Plan: `~/.claude/plans/what-more-can-be-indexed-oasis.md`. User picked 3 workstreams: **A cleanup**, **C facet backfill**, **B SEO/site features** (validation hardening declined). Order A→C→B, phased w/ confirmation. **A1 DONE 2026-06-15** — split 2 over-cap §12 chunks (`2d-animation-software/01` 58→50 + new `02`=8; `pipeline-software/01` 66→50 + new `02`=16; both `chunks:`→2). §12 now 0 chunks >50. Validation ✓ 410. **A2 DONE 2026-06-15** — cross-subsection dupe consolidation. Policy (user): true dupes → canonical + `dual_listed_in` (zero render change), 6 distinct pairs left as-is. 23 consolidations + 3 plain same-sub deletes = 26 entries removed. Catalog 3421 (parser; prior 3449 was grep over-count). Validation ✓ 398 (was 410; 12 cross-section dupe warnings cleared), 0 errors. OPEN for user: "Architecture Pipeline" (§10 pipeline-overview/01) has wrong URL (3ds Max product page); Motion Design School Discord entry needs real invite URL. NEXT: **Workstream C** (facet backfill — license §04/§09 first) then **B** (SEO pages). FLAGS for later content pass: 2d-animation/01 has ~16 misfiled Rive web-anim tutorials (entries 28-44).
-
-### Workstream C — facet backfill (in progress, started 2026-06-16)
-User picked C over launch track; edits uncommitted (user commits). Plan: `~/.claude/plans/make-plan-to-do-crystalline-metcalfe.md`. 4 phases: license §04→§09, output §02/§10, skill (narrow educational). **Phase 1 DONE 2026-06-16** — §04 lighting license backfill 65/236 → **236/236 (100%)**, 170 added via subagent w/ strict closed-enum heuristic (opensource-alt/github → Open Source; paper/blog/free web editor/free book/YT → Free; Frontend Masters → Paid; GSAP → Freemium), all spot-verified. Validation ✓ 398, 0 errors. **Phase 2 DONE 2026-06-16** — §09 ai-ml license backfill 96/224 → **224/224 (100%)**, 128 added (all `Free`; all missing were academic papers in papers/01-04 + 1 ml-for-cg IEEE ref). ml-for-cg/01 stores license before entry_type (insert gotcha, handled). Validation ✓ 398, 0 errors. **Phase 3 DONE 2026-06-16** — output backfill §02 modeling 57/237 → **237/237 (100%)** + §10 tools-pipeline 118/260 → **260/260 (100%)**, 322 added (generalist 251, film-vfx 69 [Houdini FX/sim/matchmove/compositing], scientific-viz 2 [heritage laser-scan]). Generalist-as-floor for broad DCC/pipeline tools, matching §01/§04 convention. 7 photogrammetry/03 entries got new well-formed tags blocks. Validation ✓ 398, 0 errors. **Phase 4 DONE 2026-06-16 → WORKSTREAM C COMPLETE.** Skill backfill (narrow): only 14 educational candidates missing skill in §07/§12; tagged 7 instructional Rive/app tutorials in §12 2d-animation-software/01 (3 beginner, 4 intermediate), skipped 7 non-graded (talks/research/labs/live-streams/sci courses w/ unstated difficulty). Validation ✓ 398, 0 errors. **Workstream C summary: license §04 65→236/236 + §09 96→224/224 (100%); output §02 57→237/237 + §10 118→260/260 (100%); skill narrow pass (7 added).** All C edits uncommitted (user commits). NEXT: Workstream B (SEO site features: subsection pages, tag pages, per-entry JSON-LD) OR launch track (pub_plan Part 2). OPEN items now CLOSED 2026-06-16: Architecture Pipeline §10 pipeline-overview/01 had wrong url (3ds Max product page) → user chose REMOVE (subsection 3→2 ent, cleared autodesk dupe warning 398→397); Motion Design School Discord §11 → user chose LEAVE AS-IS. Validation ✓ 397, 0 errors. User commits.
-
-### Workstream B — SEO site features (in progress, started 2026-06-16; B3 pending)
-Code-only, additive build steps, NO `data/` edits. Plan: `~/.claude/plans/make-plan-for-optimized-clover.md` (approved). **Locked decisions:** tag pages for ALL 5 tag groups (~121 pages); thin-content rule = pages with <`THIN_THRESHOLD`(3) entries emitted but `<meta robots=noindex,follow>` + excluded from sitemap. **Groundwork DONE 2026-06-17:** `scripts/lib/slugify.js` (shared Pattern A slugify); `scripts/render.js` refactored — guarded `main()` (`require.main===module`) + `module.exports` of helpers (loadSubEntries, githubAnchor, renderSubsection, **renderSubsectionMarkdown**, etc.), render output byte-identical (git-stash diff); `scripts/lib/seo-pages.js` = single source of truth for page enumeration (`subsectionPages()`, `tagPages(dataJson)`, `subsectionAnchorMap()`, `THIN_THRESHOLD=3`, tag `pathSlug`); `scripts/lib/page-shell.js` = shared `<head>`/header/footer shell (`pageShell` takes full `ogImage` URL). **B1 DONE 2026-06-17:** `build-section-pages.js` emits 12 section + 151 subsection pages (`/sections/<slug>/<sub>/`; 132 indexable, 19 thin→noindex), 3-level Breadcrumb/CollectionPage/ItemList JSON-LD, parent-section OG, "Browse by subsection" nav on section pages. **Sitemap centralized:** new `scripts/build-sitemap.js` = SOLE sitemap writer, runs LAST in build.sh (step 9); lists a URL only if indexable AND file exists on disk; removed sitemap block from `build-html.js` (still writes index/404/robots). **B2 DONE 2026-06-17:** new `scripts/build-tag-pages.js` (build.sh step 4b, after export-data) → `/tags/` hub + 121 tag pages, namespaced `/tags/<group>/<value>/` (collision-safe: `platform/cloud` ≠ `tech/cloud`), 96 indexable + 25 thin→noindex. Full chain exits 0; sitemap 242 URLs (root+12+132 subs+96 tags+hub); validate ✓ 397, 0 errors; section/subsection output byte-identical across page-shell extraction. **FLAG (data pass, later):** some ENTRY descriptions still contain em-dashes / a few banned words (pre-existing, also in canonical index.html) — out of B (code-only) scope. **B3 DONE 2026-06-17:** new `scripts/lib/entry-schema.js` (`entryToJsonLd`/`entriesToJsonLd`; pure, no IO) maps `entry_type` → schema.org `@type` (software/tool/plugin→SoftwareApplication +`applicationCategory`+`operatingSystem` from platform +`$0 Offer` for Free/OSS/FreeNC/Freemium; book→Book; paper→ScholarlyArticle; channel/tutorial→CreativeWork; asset-source/marketplace→WebSite; service→Organization; else Thing). `build-section-pages.js` appends these nodes to each page's `@graph` (section pages bounded to 100 like `itemListElements`; subsection pages emit all, ≤50 by chunk cap). NOT in `index.html` (build-html.js untouched, keeps single-page file lean). Unit test `scripts/lib/entry-schema.test.js` (11 cases). Verified: cad-software page graph = Breadcrumb+CollectionPage+ItemList+16 SoftwareApplication+2 Thing, all valid JSON. **B4 (related "See also") deferred.** All B edits uncommitted (user commits).
-
-**`/sections/` hub added 2026-06-17:** `build-section-pages.js` now also writes `_site/sections/index.html` (`renderSectionsHubPage`) — a themed landing listing all 12 sections (icon via `SECTION_ICONS`, title, entry count, description), mirroring the `/tags/` hub + reusing `.subsection-index`/`.section-icon`. Closes the gap where `/sections/` had no index (Cloudflare 404 / local-server autoindex). Breadcrumb+CollectionPage+ItemList(12) JSON-LD. Added to sitemap (`build-sitemap.js`, priority 0.8 → 243 URLs). Build pipeline note: build.sh now 10 logical steps (added 4b tag pages + 9 sitemap); §6 of this file lists the old order.
-
-### Leftover §12/§10 RELOCATE flag clearance (DONE 2026-06-15) — CATALOG NOW FULLY FLAG-FREE
-Completeness check found 17 untracked RELOCATE/Misfit notes in §12 software-reference + §10 conversion-tools (§12 was "pre-done" so its misfile relocations were never run). Cleared in 4 buckets: **A** 5 moves (Mixamo Converter + USDZ → §02 blender-plugins-addons; UneeQ → §09 ai-assisted-cg-tools; stable-dreamfusion → §09 3d-generation; Stable Animation SDK → §09 video-generation); **B** MusicGen dedup-deleted (§09 already has AudioCraft/MusicGen); **C** MicMac bogus blender-plugins mirror removed; **D** 10 stale notes stripped in place (viewers-file-utilities ×5, pipeline ×1, misc-3d-utilities-software ×2 [JanusVR shader-theory mirror also removed], Pixen, Free Mo Cap). `grep RELOCATE/Misfit data/` = 0 catalog-wide. All chunks ≤50. Validation ✓ 410, 0 errors. **Remaining repo work = publication/launch only (pub_plan Part 2, §11 above) + intentional empty stubs.** All edits uncommitted (user commits).
-
-### Open work threads (from decisions.md)
-- Continuing curation: scientific-viz, legacy/defunct, compositing-learning, pre-production-tools subsections recently added (2026-05-22). Watch for similar gaps.
-- Cloud render farm services bundled into `pipeline-software` (2026-05-20).
-- Software taxonomy expansion ongoing (`workflow`/`output`/`entry_type`/`platform` vocab expanded 2026-05-22).
+**Repo hygiene:**
+- Local paths and verbatim prompts were scrubbed from tracked files on 2026-10-05 but remain in git history.
+- `memory/decisions.md` and `memory/user-prompts.md` were archived up to 2026-09-30 into `memory/archive/`.
 
 ## 12. Tech stack
 
-- **Runtime:** Node.js (build scripts CommonJS, no TS).
+- **Runtime:** Node.js >=20 (CI uses 22; build scripts CommonJS, no TS).
 - **Deps:** `ajv` + `ajv-formats` (schema validation), `js-yaml`, `marked` (Markdown → HTML), `minisearch` (client search), `@resvg/resvg-js` (SVG → PNG for OG images).
-- **CI:** GitHub Actions (`.github/workflows/validate.yml`).
+- **CI:** GitHub Actions: validate, render-readme, link-check, release-watch, freshness (§7).
 - **Hosting:** Cloudflare Pages on `3d.devanshutak.xyz` (root + per-section paths).
 - **Shell:** PowerShell 7 (Windows 11 dev box). `rtk` proxy for token-optimized CLI.
 - **Editor data format:** YAML (chosen for diff-friendliness + hand-editability; see ADR-0001).
