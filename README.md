@@ -34,7 +34,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Free Asset Giveaways](#free-asset-giveaways) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Recurring free asset drops. Bookmark these.</small>
 - [Software-Specific Asset Libraries](#software-specific-asset-libraries) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Official asset libraries tied to specific DCCs.</small>
 - [HDRIs](#hdris) <span class="toc-count">(10 items)</span><br><small class="toc-desc">HDR environment maps for lighting and reflections.</small>
-- [Textures & Materials: Free PBR Libraries](#textures--materials-free-pbr-libraries) <span class="toc-count">(26 items)</span><br><small class="toc-desc">Free PBR texture libraries for materials authoring.</small>
+- [Textures & Materials: Free PBR Libraries](#textures--materials-free-pbr-libraries) <span class="toc-count">(27 items)</span><br><small class="toc-desc">Free PBR texture libraries for materials authoring.</small>
 - [Textures: Specialized](#textures-specialized) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Specialty texture sources: displacement, patterns, sprites, terrain.</small>
 - [Textures: Premium](#textures-premium) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Professional paid texture libraries.</small>
 - [Stock Images & References](#stock-images--references) <span class="toc-count">(29 items)</span><br><small class="toc-desc">Free and public-domain stock images, and 2D references.</small>
@@ -180,7 +180,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [UV Tools](#uv-tools) <span class="toc-count">(7 items)</span><br><small class="toc-desc">UV unwrapping, packing, and UDIM tools.</small>
 - [Rigging & Animation Tools](#rigging--animation-tools) <span class="toc-count">(22 items)</span><br><small class="toc-desc">Auto-rig, retargeting, and animation middleware.</small>
 - [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
-- [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(50 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
+- [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(51 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
 - [Plugin & Addon Marketplaces](#plugin--addon-marketplaces) <span class="toc-count">(50 items)</span><br><small class="toc-desc">Per-software plugin marketplaces.</small>
 - [Conversion Tools](#conversion-tools) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
 - [Pipeline Standards](#pipeline-standards) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Interchange formats and standards.</small>
@@ -390,6 +390,7 @@ Free PBR texture libraries for materials authoring.
 
 - [3D Textures](https://3dtextures.me/). Free PBR texture library with color, normal, roughness and displacement maps.
 - [3DAssets.one](https://www.3dassets.one/). Search engine across the largest free texture sites at once.
+- [3DTexel](https://3dtexel.com/free-library/). 1,600+ handmade CC0 assets, incl. 1,000+ seamless PBR materials, HDRIs, decals, IES profiles and 3D models. Free account required to download.
 - [ambientCG](https://ambientcg.com/). Library of 2000+ CC0 PBR materials, HDRIs and models, free to download.
 - [Arroway Textures](https://www.arroway-textures.ch/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Digital textures for 3D rendering and real-time use.
 - [C4DCenter Material Library](https://c4dcenter.com/material-library/). Free Cinema 4D materials with high-quality texture maps. Personal and commercial use.
@@ -4145,6 +4146,7 @@ Assorted CG utilities and specialty tools.
 - [Jsplacement](https://windmillart.net/?p=jsplacement) <span class="lic-pill lic-unknown" title="No license recorded for this entry">License unspecified</span>. Procedural displacement map generator.
 - [Kiko](https://github.com/Toolchefs/kiko). DCC-agnostic animation-curve interchange. Transfers curves between Maya and Nuke.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/). Interactive math concepts for motion graphics.
+- [Meshory](https://meshory.com) <span class="lic-pill lic-paid">Paid</span>. Local-first library manager for large 3D model folders, with rendered thumbnails, tagging, and duplicate detection across STL, 3MF, OBJ, FBX, and STEP.
 - [Palladio](https://github.com/Esri/cityengine_for_houdini). CityEngine Plugin for Houdini.
 - [Penzil](https://github.com/jacopocolo/Penzil). A web application to sketch in 3d made in three.js and Vue.
 - [RedKetchup Twitter Downloader](https://redketchup.io/twitter-downloader). Save MP4 and GIF video from Twitter posts.
