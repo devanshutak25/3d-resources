@@ -14,6 +14,7 @@ const path = require('path');
 const seo = require('./lib/seo-pages');
 const render = require('./render');
 const { pageShell, SITE_URL, REPO_URL, escHtml } = require('./lib/page-shell');
+const { isSafeHref } = require('./lib/html-safe');
 const { execSync } = require('child_process');
 
 const OG_IMAGE = `${SITE_URL}/assets/og-image.png`;
@@ -42,7 +43,7 @@ function entryListHtml(entries) {
     const type = e.entry_type ? ` <span class="type-pill">${escHtml(e.entry_type)}</span>` : '';
     const desc = e.description ? `. ${render.processDescription(escHtml(e.description))}` : '';
     const where = `<br><small class="tag-entry-where">in <a href="${escHtml(e.backAnchor)}">${escHtml(e.sectionTitle)} → ${escHtml(e.subTitle)}</a></small>`;
-    return `        <li><a href="${escHtml(e.url)}" target="_blank" rel="noopener noreferrer">${name}</a>${pill}${type}${desc}${where}</li>`;
+    return `        <li><a href="${isSafeHref(e.url) ? escHtml(e.url) : '#'}" target="_blank" rel="noopener noreferrer">${name}</a>${pill}${type}${desc}${where}</li>`;
   }).join('\n');
   return `      <ul class="tag-entry-list">\n${items}\n      </ul>`;
 }

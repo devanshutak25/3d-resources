@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Reddit
       - Very Active
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -17,14 +17,14 @@ entries:
       tech:
         - godot
   - name: Godot Discord
-    url: https://discord.gg/godotengine
+    url: https://discord.com/invite/godotengine
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official Discord.
+    description: Official Godot Engine Discord server for chat and help.
     entry_type: community
     readme_tags:
       - Discord
       - Official
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -36,12 +36,12 @@ entries:
   - name: Godot Forums
     url: https://forum.godotengine.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official forum.
+    description: Official Godot Engine forum for questions and discussion.
     entry_type: community
     readme_tags:
       - Forum
       - Official
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

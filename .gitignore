@@ -3,7 +3,6 @@ graphify-out/
 .graphify_python
 preview-*.md
 node_modules/
-package-lock.json
 _site/
 
 # Scratch & session-specific artifacts
@@ -24,3 +23,7 @@ press/
 # Archived copies under scripts/_archive/ are tracked; see scripts/_archive/README.md.
 scripts/mine-awesome.js
 scripts/triage-candidates.js
+
+# Scratch notes and local run logs (never published)
+disregard/
+run-logs/

@@ -5,7 +5,7 @@ entries:
     description: AMD's free MaterialX-based material library. Download materials or upload your own.
     entry_type: asset-source
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -23,7 +23,7 @@ entries:
     description: Public domain photographic textures, reference images, and cutouts. (CC0)
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -41,8 +41,10 @@ entries:
     description: Free PBR sets of architectural materials, including tile textures.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    notes: Domain now redirects to an unrelated spam/gambling site (checked 2026-10-05). Do not restore without a new official URL.
+    deprecated: true
     tags:
       workflow:
         - texturing
@@ -59,7 +61,7 @@ entries:
     description: Digital textures for 3D rendering and real-time use.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -74,7 +76,7 @@ entries:
   - name: Texturify
     url: https://texturify.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free texture collection.
+    description: Free high-resolution CG textures for personal and commercial use.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -90,15 +92,15 @@ entries:
         - pbr
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: The Blendersauce Vault Materials
-    url: http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
+    url: https://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free material vault covering bricks, concrete, fabric, metal, nature, plaster, stone, tiles, and wood.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -110,25 +112,6 @@ entries:
         - web
       tech:
         - pbr
-  - name: Substance Source/freebies
-    url: https://source.substance3d.com/allassets?free=true
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Hundreds of high-quality PBR materials. Free tier with a paid library.
-    entry_type: asset-source
-    license: Freemium
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      output:
-        - generalist
-      platform:
-        - web
-      tech:
-        - pbr
-        - substance
   - name: Physically Based
     url: https://physicallybased.info/
     added_at: '2026-06-17T07:16:34.000Z'
@@ -148,5 +131,5 @@ entries:
         - web
       tech:
         - pbr
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

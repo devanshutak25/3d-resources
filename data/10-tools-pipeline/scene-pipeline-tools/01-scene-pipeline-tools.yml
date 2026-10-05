@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Dailies
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Prisma
     url: https://github.com/patriciogonzalezvivo/prisma
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Computational Photo
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2024-02-04'
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Community
       - Pipeline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Field3D
     url: https://magnuswrenninge.com/field3d
@@ -73,8 +73,8 @@ entries:
     readme_tags:
       - Voxel Lib
       - Open Source
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -105,7 +105,7 @@ entries:
     readme_tags:
       - DCC Bridge
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2022-05-02'
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - Build
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2021-06-08'
@@ -151,7 +151,7 @@ entries:
     readme_tags:
       - VFX Libs
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cross3D
     url: https://github.com/blurstudio/cross3d
@@ -172,7 +172,7 @@ entries:
     readme_tags:
       - DCC Bridge
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2017-10-28'
@@ -196,7 +196,7 @@ entries:
     readme_tags:
       - Maya
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2021-04-27'
@@ -220,14 +220,14 @@ entries:
     readme_tags:
       - Maya
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2023-05-20'
   - name: Py3dsMax
     url: https://github.com/blurstudio/Py3dsMax
     added_at: '2026-04-16T21:13:44.000Z'
-    description: 3dsMax API in Python.
+    description: Blur Studio library that exposes the 3ds Max SDK to Python for scripting and pipeline tools.
     license: Open Source
     entry_type: tool
     best_for: 3ds Max Python bindings
@@ -241,7 +241,7 @@ entries:
     readme_tags:
       - 3ds Max
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2018-10-27'
@@ -265,7 +265,7 @@ entries:
     readme_tags:
       - Maya
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Easy3D
     url: https://github.com/LiangliangNan/Easy3D
@@ -286,12 +286,12 @@ entries:
     readme_tags:
       - 3D Lib
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ramses
     url: https://github.com/RxLaboratory/Ramses
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Asset Management System for motion picture production (by [Rainbox Laboratory](https://rainboxlab.org)).
+    description: Asset Management System for motion picture production (by Rainbox Laboratory).
     license: Open Source
     entry_type: tool
     best_for: Studio asset management
@@ -307,7 +307,7 @@ entries:
     readme_tags:
       - Asset Mgmt
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     archived: true
   - name: Stalker
@@ -329,7 +329,7 @@ entries:
     readme_tags:
       - Asset Mgmt
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Example of Python scripts for 3D Studio Max, Maya and Blender
     url: https://github.com/p4vv37/3D_Software_and_Python/
@@ -352,7 +352,7 @@ entries:
     readme_tags:
       - Examples
       - Python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2018-07-02'
@@ -377,12 +377,12 @@ entries:
     readme_tags:
       - Blender
       - Synthetic Data
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: MayaCharm
     url: https://github.com/cmcpasserby/MayaCharm
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Run and edit Maya scripts directly from PyCharm
+    description: Run and edit Maya scripts directly from PyCharm.
     license: Open Source
     entry_type: tool
     best_for: Maya scripting in PyCharm
@@ -399,14 +399,14 @@ entries:
     readme_tags:
       - Maya
       - IDE
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2023-09-22'
   - name: MayaSublime
     url: https://github.com/justinfx/MayaSublime
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Run and edit Maya scripts directly from SublimeText
+    description: Run and edit Maya scripts directly from SublimeText.
     license: Open Source
     entry_type: tool
     best_for: Maya scripting in Sublime
@@ -423,14 +423,14 @@ entries:
     readme_tags:
       - Maya
       - IDE
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2021-09-30'
   - name: VEX
     url: https://github.com/teared/VEX
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Houdini add-on for Sublime Text
+    description: Houdini add-on for Sublime Text.
     license: Open Source
     entry_type: tool
     best_for: Houdini VEX in Sublime
@@ -447,12 +447,12 @@ entries:
     readme_tags:
       - Houdini
       - IDE
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: nuke.vim
     url: https://github.com/heavyimage/nuke.vim
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Run and edit Nuke scripts directly from vim
+    description: Run and edit Nuke scripts directly from vim.
     license: Open Source
     entry_type: tool
     best_for: Nuke scripting in vim
@@ -468,7 +468,7 @@ entries:
     readme_tags:
       - Nuke
       - IDE
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2018-10-29'

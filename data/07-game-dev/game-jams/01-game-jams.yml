@@ -8,24 +8,23 @@ entries:
     readme_tags:
       - Oldest Jam
       - Biannual
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       output:
         - games
       platform:
         - web
-    deprecated: true
   - name: GMTK Game Jam
     url: https://itch.io/jam/gmtk-2025
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Largest jam by entries.
+    description: Game Maker's Toolkit annual game jam on itch.io, one of the largest by entries.
     entry_type: community
     license: Free
     readme_tags:
       - Largest
       - GMTK
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -35,13 +34,13 @@ entries:
   - name: itch.io Jams
     url: https://itch.io/jams
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Hundreds of active jams.
+    description: itch.io listing of upcoming and ongoing game jams.
     entry_type: community
     license: Free
     readme_tags:
       - Hub
       - Ongoing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -57,7 +56,7 @@ entries:
     readme_tags:
       - In-Person
       - Global
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -67,7 +66,7 @@ entries:
   - name: Brackeys Game Jam
     url: https://itch.io/jam/brackeys
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Beginner-friendly jam.
+    description: Brackeys community game jam on itch.io, open to beginners.
     entry_type: community
     license: Free
     tags:
@@ -80,7 +79,7 @@ entries:
     readme_tags:
       - Beginner-Friendly
       - Brackeys
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: JS13KGames
     url: https://js13kgames.com/
@@ -91,7 +90,7 @@ entries:
     readme_tags:
       - 13KB Limit
       - JS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

@@ -16,10 +16,10 @@ entries:
     readme_tags:
       - Official
       - Pixar
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: USD Working Group (ASWF)
-    url: https://wiki.aswf.io/display/WGUSD/
+    url: https://lf-aswf.atlassian.net/wiki/spaces/WGUSD
     added_at: '2026-04-16T19:59:30.000Z'
     description: Alliance for Open Media USD resources.
     license: Open Source
@@ -34,10 +34,10 @@ entries:
     readme_tags:
       - ASWF
       - Working Group
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: NVIDIA USD Resources
-    url: https://developer.nvidia.com/usd
+    url: https://developer.nvidia.com/openusd
     added_at: '2026-04-16T19:59:30.000Z'
     description: Omniverse, tutorials, tools.
     license: Free
@@ -52,10 +52,10 @@ entries:
     readme_tags:
       - NVIDIA
       - Omniverse
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Apple USD Tools
-    url: https://developer.apple.com/augmented-reality/tools/
+    url: https://developer.apple.com/reality-composer-pro/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Usdz_converter, Reality Composer.
     license: Free
@@ -71,7 +71,7 @@ entries:
     readme_tags:
       - USDZ
       - Apple AR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: USD Survival Guide
     url: https://lucascheller.github.io/VFX-UsdSurvivalGuide/
@@ -89,7 +89,7 @@ entries:
     readme_tags:
       - Practical Guide
       - VFX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: USD Cookbook (Colin Kennedy)
     url: https://github.com/ColinKennedy/USD-Cookbook
@@ -108,7 +108,7 @@ entries:
     readme_tags:
       - Code Recipes
       - Examples
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Animal Logic's USD Docker
     url: https://github.com/AnimalLogic/docker-usd
@@ -116,7 +116,7 @@ entries:
     description: Docker build scripts that fetch and compile Pixar USD and its open-source dependencies.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -129,12 +129,12 @@ entries:
     stale: true
     last_pushed: '2021-04-01'
   - name: USD Manager
-    url: http://www.usdmanager.org/
+    url: https://www.usdmanager.org/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight app for browsing, managing, and editing USD files.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -151,7 +151,7 @@ entries:
     description: Animal Logic's Maya plugin for round-tripping USD scene data into Maya.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -171,7 +171,7 @@ entries:
     description: USD plugins and schemas from Luma Pictures.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -191,7 +191,7 @@ entries:
     description: Windows File Explorer extension adding USD thumbnails, side previews, and deep-metadata search.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -209,7 +209,7 @@ entries:
     description: Node-graph viewer showing the dependencies of a USD file.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -230,7 +230,7 @@ entries:
     description: URI-based asset resolver for USD, with custom plugin support.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -250,7 +250,7 @@ entries:
     description: Qt components for building custom USD tools.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -270,7 +270,7 @@ entries:
     description: Python Qt components for building custom USD tools.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -284,3 +284,71 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2023-12-22'
+  - name: usdtweak
+    url: https://github.com/cpichard/usdtweak
+    description: Standalone editor for inspecting and editing USD layers and stages.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - usd
+    added_at: '2026-10-05T08:51:07.416Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - USD
+    best_for: Editing USD stages
+  - name: LightUSD
+    url: https://github.com/lighttransport/LightUSD
+    description: Light C++17 library for reading and writing USD and USDZ without Pixar USD. Formerly TinyUSDZ.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - usd
+    added_at: '2026-10-05T08:51:07.417Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - USD
+    best_for: Lightweight USD I/O
+  - name: Adobe USD Fileformat Plugins
+    url: https://github.com/adobe/USD-Fileformat-plugins
+    description: USD plugins that read and write FBX, glTF, OBJ, PLY, STL, SPZ and SBSAR.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - generalist
+      tech:
+        - usd
+      platform:
+        - win
+        - mac
+        - linux
+    dual_listed_in:
+      - tools-pipeline-utilities/conversion-tools
+    added_at: '2026-10-05T08:51:07.419Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - USD
+    best_for: Format conversion in USD

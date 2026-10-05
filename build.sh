@@ -4,7 +4,11 @@
 
 set -e
 
-npm install marked js-yaml minisearch
+npm ci
+
+# Start from an empty _site/ so pages for removed sections, subsections or tags
+# never linger in a local build or deploy.
+rm -rf _site
 
 # Step 1: render the FULL catalog into README.md — build-html.js reads it as input
 # to emit the site's index.html (single-page catalog with all entries).
@@ -48,3 +52,6 @@ node scripts/build-feed.js
 # Step 9: build sitemap.xml LAST — enumerates root + section + indexable
 # subsection (+ tag) pages that exist on disk by this point.
 node scripts/build-sitemap.js
+
+# Step 10: fail the build if any internal link or in-page anchor is broken.
+node scripts/check-built-links.js _site

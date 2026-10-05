@@ -1,14 +1,14 @@
 entries:
   - name: SideFX Content Library
-    url: https://www.sidefx.com/contentlibrary/
+    url: https://www.sidefx.com/learn/learning-library/content/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official Houdini assets.
+    description: Official SideFX library of Houdini tutorials, example files and assets.
     license: Free
     entry_type: asset-source
     readme_tags:
       - Houdini
       - Official
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -19,16 +19,18 @@ entries:
         - web
       tech:
         - houdini-addon
+    dual_listed_in:
+      - modeling-sculpting-texturing/houdini-getting-started
   - name: Blender Demo Files
     url: https://www.blender.org/download/demo-files/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official demo scenes.
+    description: Official Blender demo scenes and splash-screen files for testing and learning.
     license: Free
     entry_type: asset-source
     readme_tags:
       - Blender
       - Demo Scenes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -58,12 +60,12 @@ entries:
     readme_tags:
       - Blender
       - Addons
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Substance 3D Assets
     url: https://substance3d.adobe.com/assets/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Adobe materials library.
+    description: Adobe PBR material library. Free tier plus paid library.
     license: Paid
     entry_type: asset-source
     tags:
@@ -81,12 +83,14 @@ entries:
     readme_tags:
       - Adobe
       - Materials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
+    dual_listed_in:
+      - assets-libraries/textures-free-pbr
   - name: Substance 3D Community Assets
     url: https://substance3d.adobe.com/community-assets
     added_at: '2026-04-16T19:59:30.000Z'
-    description: User-shared materials.
+    description: Free user-made Substance materials, filters and tools.
     license: Free
     entry_type: asset-source
     tags:
@@ -103,12 +107,14 @@ entries:
     readme_tags:
       - Community
       - Substance
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
+    dual_listed_in:
+      - learning-community-industry/communities-forums
   - name: ZBrush Download Center
-    url: https://pixologic.com/zbrush/downloadcenter/alpha/
+    url: https://www.maxon.net/en/zbrush-plugins
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Alphas and brushes.
+    description: Maxon download page for free ZBrush plugins and add-on resources.
     license: Free
     entry_type: asset-source
     tags:
@@ -124,7 +130,7 @@ entries:
     readme_tags:
       - ZBrush
       - Alphas/Brushes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Maxon Asset Browser
     url: https://www.maxon.net/en/cinema-4d/features/asset-browser
@@ -135,7 +141,7 @@ entries:
     readme_tags:
       - C4D
       - Official
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -146,7 +152,7 @@ entries:
         - win
         - mac
       tech:
-        - c4d
+        - cinema-4d
   - name: Maya Content Browser
     url: https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-14B1E820-24A5-41CF-B3A2-1BFED3464908
     added_at: '2026-04-16T19:59:30.000Z'
@@ -156,7 +162,7 @@ entries:
     readme_tags:
       - Maya
       - Examples
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -191,28 +197,64 @@ entries:
     readme_tags:
       - 3DCoat
       - Smart Materials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     deprecated: true
-  - name: Nomad Sculpt Resources
-    url: https://nomadsculpt.com/resources/
+  - name: Krita Resources
+    url: https://krita.org/en/resources/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Community brushes and matcaps.
-    license: Free
+    description: Official brushes, textures, templates.
     entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
-      workflow:
-        - sculpting
-        - modeling
       output:
-        - generalist
+        - motion-graphics
       platform:
         - web
-      tech:
-        - nomad-sculpt
-        - ipad-native
-    readme_tags:
-      - Nomad
-      - Brushes/Matcaps
-    url_last_verified: '2026-09-01'
+  - name: Clip Studio Assets
+    url: https://assets.clip-studio.com/en-us/
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Brushes, materials, 3D models, auto-actions.
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
     url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+  - name: RenderMan Community
+    url: https://renderman.pixar.com/community
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Free RenderMan assets, shaders, HDRIs.
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Chaos Cosmos
+    url: https://www.chaos.com/cosmos
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Free V-Ray/Corona asset library (3D models, materials, HDRIs).
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Figma Community
+    url: https://www.figma.com/community/
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Free templates, plugins, UI kits.
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      platform:
+        - web

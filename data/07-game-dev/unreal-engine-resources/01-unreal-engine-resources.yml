@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Blueprints
       - Functions
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - Blueprint Share
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -45,7 +45,7 @@ entries:
     readme_tags:
       - VS Code
       - Setup
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Marketplace Pick
       - Medieval
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - Marketplace Pick
       - Japanese
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - Environment
       - Simulation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -109,6 +109,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - lighting
   - name: Working with Data (Unreal Engine Learning)
     url: https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more#howtomakeinstanceobjects
     added_at: '2026-04-19T17:15:03.000Z'
@@ -118,7 +120,7 @@ entries:
     readme_tags:
       - Data Tables
       - UProperty
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -136,7 +138,7 @@ entries:
     readme_tags:
       - UE5
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -154,7 +156,7 @@ entries:
     readme_tags:
       - Framework
       - Replication
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -172,7 +174,7 @@ entries:
     readme_tags:
       - Tutorials
       - Variety
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -190,7 +192,7 @@ entries:
     readme_tags:
       - Tutorials
       - News
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -208,7 +210,7 @@ entries:
     readme_tags:
       - Blueprint Nodes
       - Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -226,7 +228,7 @@ entries:
     readme_tags:
       - Blueprints
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -244,7 +246,7 @@ entries:
     readme_tags:
       - Courses
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -262,7 +264,7 @@ entries:
     readme_tags:
       - GAS
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -278,7 +280,7 @@ entries:
     readme_tags:
       - Targeting
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -294,7 +296,7 @@ entries:
     readme_tags:
       - Game Features
       - Modular
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -310,7 +312,7 @@ entries:
     readme_tags:
       - State Tree
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -326,7 +328,7 @@ entries:
     readme_tags:
       - Smart Objects
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -342,7 +344,7 @@ entries:
     readme_tags:
       - Mass Entity
       - ECS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -358,7 +360,7 @@ entries:
     readme_tags:
       - InstancedStruct
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -374,7 +376,7 @@ entries:
     readme_tags:
       - Camera
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -390,23 +392,25 @@ entries:
     readme_tags:
       - Mutable
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
         - games
       platform:
         - web
+      workflow:
+        - modeling
   - name: 'Unreal Docs: Procedural Content Generation Framework'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation--framework-in-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Docs for the Procedural Content Generation (PCG) framework. See also [Electric Dreams PCG](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-in-electric-dreams).
+    description: Docs for the Procedural Content Generation (PCG) framework. See also Electric Dreams PCG.
     license: Free
     entry_type: reference
     readme_tags:
       - PCG
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -415,6 +419,8 @@ entries:
         - web
       tech:
         - procedural
+      workflow:
+        - modeling
   - name: 'Unreal Docs: Modeling And Geometry Scripting'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/modeling-and-geometry-scripting-in-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -424,13 +430,15 @@ entries:
     readme_tags:
       - Modeling
       - Geometry Script
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
         - games
       platform:
         - web
+      workflow:
+        - modeling
   - name: 'Unreal Docs: Scriptable Tools System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/scriptable-tools-system-in-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -440,7 +448,7 @@ entries:
     readme_tags:
       - Scriptable Tools
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -456,7 +464,7 @@ entries:
     readme_tags:
       - Water
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -472,13 +480,16 @@ entries:
     readme_tags:
       - Metahuman
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
         - games
       platform:
         - web
+      workflow:
+        - modeling
+        - rigging
   - name: 'Unreal Docs: Motion Design'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/motion-design-in-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -488,7 +499,7 @@ entries:
     readme_tags:
       - Motion Design
       - Docs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -496,6 +507,8 @@ entries:
         - motion-graphics
       platform:
         - web
+      workflow:
+        - animation
   - name: 'Unreal Docs: Umg Viewmodel'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-viewmodel-for-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -505,7 +518,7 @@ entries:
     readme_tags:
       - UMG
       - Viewmodel
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -521,7 +534,7 @@ entries:
     readme_tags:
       - Naming
       - Conventions
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -529,7 +542,7 @@ entries:
       platform:
         - web
   - name: 'GameDev.tv Unreal 5.0 C++ Developer: Learn C++ and Make Video Games'
-    url: https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
+    url: https://gamedev.tv/courses/unreal-5-0-c-developer-learn-c-and-make-video-games
     added_at: '2026-04-19T17:15:03.000Z'
     description: Course teaching C++ game programming in Unreal Engine 5.
     license: Paid
@@ -537,7 +550,7 @@ entries:
     readme_tags:
       - C++
       - Course
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -555,7 +568,7 @@ entries:
     readme_tags:
       - Vector Fields
       - Houdini
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -566,6 +579,9 @@ entries:
         - linux
       tech:
         - houdini-addon
+      workflow:
+        - fx
+        - simulation
   - name: PBCharacterMovement
     url: https://github.com/ProjectBorealis/PBCharacterMovement
     added_at: '2026-04-19T17:29:43.000Z'
@@ -575,7 +591,7 @@ entries:
     readme_tags:
       - FPS Movement
       - C++
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -596,7 +612,7 @@ entries:
     readme_tags:
       - Fog of War
       - Gameplay
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -618,7 +634,7 @@ entries:
     readme_tags:
       - Networking
       - Data Transfer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -640,7 +656,7 @@ entries:
     readme_tags:
       - Socket.IO
       - Networking
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -661,7 +677,7 @@ entries:
     readme_tags:
       - TCP
       - Blueprint
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -684,7 +700,7 @@ entries:
     readme_tags:
       - TCP
       - Networking
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -705,7 +721,7 @@ entries:
     readme_tags:
       - UDP
       - Networking
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -726,7 +742,7 @@ entries:
     readme_tags:
       - HTTP
       - Fetch
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -747,7 +763,7 @@ entries:
     readme_tags:
       - REST
       - HTTP
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -769,7 +785,7 @@ entries:
     readme_tags:
       - JavaScript
       - Runtime
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -792,7 +808,7 @@ entries:
     readme_tags:
       - .NET
       - C#
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -815,7 +831,7 @@ entries:
     readme_tags:
       - Rust
       - Integration
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -836,7 +852,7 @@ entries:
     readme_tags:
       - Houdini
       - HDA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -849,6 +865,8 @@ entries:
         - unreal-plugin
         - houdini-addon
         - opensource-alt
+      workflow:
+        - modeling
   - name: Ultraleap SDK
     url: https://github.com/ultraleap/UnrealPlugin
     added_at: '2026-04-19T17:29:43.000Z'
@@ -858,7 +876,7 @@ entries:
     readme_tags:
       - Hand Tracking
       - XR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -880,7 +898,7 @@ entries:
     readme_tags:
       - OpenStreetMap
       - GIS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -903,7 +921,7 @@ entries:
     readme_tags:
       - Voxel
       - Terrain
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -915,6 +933,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: Voxel Plugin
     url: https://github.com/Phyronnaz/VoxelPlugin
     added_at: '2026-04-19T17:29:43.000Z'
@@ -924,7 +944,7 @@ entries:
     readme_tags:
       - Voxel
       - Volumetric
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -936,3 +956,5 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling

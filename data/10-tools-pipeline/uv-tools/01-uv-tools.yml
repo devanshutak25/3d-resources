@@ -2,7 +2,7 @@ entries:
   - name: UV Checker Map Maker
     url: https://uvchecker.atlux.one/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Custom UV checker textures.
+    description: Web tool to generate custom UV checker textures.
     license: Free
     entry_type: tool
     tags:
@@ -15,10 +15,10 @@ entries:
     readme_tags:
       - Checker Gen
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: UV Toolkit
-    url: https://gumroad.com/alexbel#NbMya
+    url: https://alexbel.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Tools collection for UV editing in blender.
     license: Paid
@@ -38,22 +38,54 @@ entries:
     readme_tags:
       - Blender
       - Toolkit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
-  - name: UV Grid Generator
-    url: http://uvchecker.byvalle.com/
-    added_at: '2026-06-17T07:16:34.000Z'
-    description: Web tool to generate custom UV checker textures.
-    license: Free
-    entry_type: tool
-    readme_tags:
-      - UV Checker
+  - name: Zen UV
+    url: https://superhivemarket.com/products/zen-uv
+    description: Blender UV toolkit for unwrapping, packing, stacking, texel density and trim sheets.
+    pricing: $39
+    license: Paid
+    entry_type: plugin
     tags:
       workflow:
         - uv
       output:
+        - games
         - generalist
       platform:
-        - web
-    url_last_verified: '2026-09-01'
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.068Z'
+    url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: UV unwrapping and packing
+  - name: Mio3 UV
+    url: https://extensions.blender.org/add-ons/mio3-uv/
+    description: Free Blender extension for aligning, straightening and arranging UV islands.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - uv
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.069Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Blender
+    best_for: UV island alignment

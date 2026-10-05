@@ -5,7 +5,7 @@ entries:
     description: 3D Perlin noise meshing via marching cubes for Unreal Engine 4.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -17,6 +17,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2021-01-08'
   - name: UE4 Node Graph Assistant
@@ -25,7 +27,7 @@ entries:
     description: Speeds up node graph editing in Unreal Engine 4.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -45,7 +47,7 @@ entries:
     description: Adds deep links into the UE4 editor.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -63,7 +65,7 @@ entries:
     description: Set of Hermes deep-link endpoints for Unreal Engine.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -83,7 +85,7 @@ entries:
     description: Adds CSV parsing Blueprint nodes to Unreal Engine.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -101,7 +103,7 @@ entries:
     description: Edit metadata on Blueprint properties, functions, and parameters. UE 5.1+.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -119,7 +121,7 @@ entries:
     description: JWT wrapper subsystem for Unreal Engine.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -137,7 +139,7 @@ entries:
     description: C++20 coroutine plugin integrated with Unreal Engine 5.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -155,7 +157,7 @@ entries:
     description: Common gameplay utilities for Unreal Engine.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -173,7 +175,7 @@ entries:
     description: Combines IGRanges and ranges-v3 for Unreal Engine.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -191,7 +193,7 @@ entries:
     description: Multiple customizable viewports for Unreal Engine, in C++.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -209,7 +211,7 @@ entries:
     description: Sublime Text 3 snippets for writing Unreal Engine 4 game code.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -227,7 +229,7 @@ entries:
     description: VS Code snippets for Unreal Engine, based on the Sublime snippet set.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -245,7 +247,7 @@ entries:
     description: JSON parsing library for Unreal Engine.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -264,7 +266,7 @@ entries:
     description: XML parsing library for Unreal Engine.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -283,7 +285,7 @@ entries:
     description: Windows and Linux containers for Unreal Engine 4.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -300,7 +302,7 @@ entries:
     description: Standalone translation editor for Unreal Engine 4.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -320,7 +322,7 @@ entries:
     description: Fakes a plugin's UE version so it installs on newer engine versions.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -336,7 +338,7 @@ entries:
     description: C# scriptable workflow for automating Unreal Engine project tasks, built on Nuke.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -354,7 +356,7 @@ entries:
     description: Tweening library with curve easing for any value in Unreal Engine.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -366,13 +368,15 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
   - name: UE BUI Tween
     url: https://github.com/benui-dev/UE-BUITween
     added_at: '2026-04-19T17:29:43.000Z'
     description: UMG UI tweening library for Unreal Engine, usable from C++.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -392,7 +396,7 @@ entries:
     description: Notes and guide on game development and Unreal Engine programming.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -408,7 +412,7 @@ entries:
     description: Collection of Unreal Engine 4 C++ examples.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -426,7 +430,7 @@ entries:
     description: Control Rig tutorials for character animation. 22 videos.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -435,6 +439,9 @@ entries:
         - web
       skill:
         - intermediate
+      workflow:
+        - rigging
+        - animation
   - name: Unreal Engine Official YouTube
     url: https://www.youtube.com/@UnrealEngine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -444,7 +451,7 @@ entries:
     readme_tags:
       - Unreal
       - Official
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -459,7 +466,7 @@ entries:
     description: 17 ready-to-use animated UMG crosshair widgets with a demo scene.
     entry_type: asset-source
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -481,7 +488,7 @@ entries:
     description: Quest system plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -501,7 +508,7 @@ entries:
     description: Docs for Texture Graph, Unreal's node-based texture authoring tool.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -517,7 +524,7 @@ entries:
     description: Getting-started tutorial for Unreal's Texture Graph.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -535,7 +542,7 @@ entries:
     description: Texture atlas support for Unreal Engine 4 UMG.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -562,7 +569,7 @@ entries:
     readme_tags:
       - Unreal
       - Locomotion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -574,6 +581,8 @@ entries:
       tech:
         - opensource-alt
         - unreal-plugin
+      workflow:
+        - animation
   - name: UE4 Plugin Resources
     url: https://github.com/Sythenz/UE4-Plugin-Resources
     added_at: '2026-04-19T17:29:43.000Z'
@@ -583,7 +592,7 @@ entries:
     readme_tags:
       - Unreal
       - Plugin Dev
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -601,7 +610,7 @@ entries:
     description: Low-level .NET library for reading and writing Unreal Engine 4 game assets.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -621,7 +630,7 @@ entries:
     readme_tags:
       - Unreal
       - Mass Sample
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - Product Lighting
       - NAB 2023
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Redshift Lighting Techniques (Essential MoGraph)
     url: https://www.youtube.com/@MaxonTrainingTeam
@@ -32,7 +32,7 @@ entries:
     readme_tags:
       - Redshift
       - MoGraph
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -50,13 +50,13 @@ entries:
   - name: You And Me Academy
     url: https://www.youtube.com/@YouAndMeAcademy
     added_at: '2026-04-19T19:05:38.000Z'
-    description: Light groups workflow.
+    description: YouTube channel of You And Me Academy with Cinema 4D and Redshift tutorials, including light groups.
     entry_type: channel
     license: Free
     readme_tags:
       - Light Groups
       - Workflow
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Interiors
       - Materials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: How to Art Direct Lights in a Cloner
     url: https://www.youtube.com/@MotionAndDesign
@@ -103,7 +103,7 @@ entries:
     readme_tags:
       - Cloner
       - Art Direction
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

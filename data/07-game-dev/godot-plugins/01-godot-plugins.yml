@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Dialogue System
       - Timeline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - Steamworks
       - SDK
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -51,7 +51,7 @@ entries:
     readme_tags:
       - Camera System
       - Cinemachine-like
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - AI
       - Behavior Trees
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -93,7 +93,7 @@ entries:
     readme_tags:
       - 2D Terrain
       - Shape Tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -105,6 +105,8 @@ entries:
       tech:
         - opensource-alt
         - godot
+      workflow:
+        - modeling
   - name: Gut
     url: https://github.com/bitwes/Gut
     added_at: '2026-04-16T19:59:30.000Z'
@@ -114,7 +116,7 @@ entries:
     readme_tags:
       - Testing
       - GDScript
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -134,7 +136,7 @@ entries:
     description: Unofficial fSpy importer for Godot.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -151,10 +153,10 @@ entries:
   - name: Godot 4 glTF runtime import
     url: https://github.com/godotengine/godot-docs/issues/6385
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Godot 4 glTF runtime import.
+    description: GitHub issue in the Godot docs repo about documenting runtime glTF import in Godot 4.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -170,7 +172,7 @@ entries:
     description: Package manager for Godot using npm.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

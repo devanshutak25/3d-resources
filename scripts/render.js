@@ -5,6 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 const catalog = require('./lib/catalog');
+const { escText } = require('./lib/html-safe');
 
 // Build a map: "<sectionSlug>/<subSlug>" → { sectionTitle, subTitle, anchor }
 // for B4 ToC scent + B5 "See also" cross-links. Anchor = subsection slugified
@@ -80,30 +81,38 @@ function getSubCounts() {
   return counts;
 }
 
+// One pass over every chunk, grouped by the subsection each entry renders in:
+// its own (primary) plus every dual_listed_in mirror. Built once per process;
+// a fresh catalog read per subsection made a full build re-parse all chunks
+// ~180 times per step. Order matches chunk order, as before.
+let _subIndex = null;
+function subIndex() {
+  if (_subIndex) return _subIndex;
+  _subIndex = new Map();
+  const add = (loc, e, primaryLoc) => {
+    if (!_subIndex.has(loc)) _subIndex.set(loc, []);
+    _subIndex.get(loc).push({ e, primaryLoc });
+  };
+  for (const ref of catalog.listChunks()) {
+    const chunk = catalog.loadChunk(ref.id);
+    const primaryLoc = `${ref.sectionSlug}/${ref.subSlug}`;
+    for (const e of chunk.entries) {
+      add(primaryLoc, e, primaryLoc);
+      for (const d of e.dual_listed_in || []) if (d !== primaryLoc) add(d, e, primaryLoc);
+    }
+  }
+  return _subIndex;
+}
+
 function loadSubEntries(sectionFile, subSlug, sectionSlug) {
   const entries = [];
   const seenUrls = new Set();
-  const targetPath = `${sectionSlug}/${subSlug}`;
-  for (const ref of catalog.listChunks()) {
-    const isPrimary = ref.sectionFile === sectionFile && ref.subSlug === subSlug;
-    const chunk = catalog.loadChunk(ref.id);
-    const chunkPrimary = `${ref.sectionSlug}/${ref.subSlug}`;
-    for (const e of chunk.entries) {
-      if (isPrimary) {
-        const k = (e.url || '').toLowerCase();
-        if (k && seenUrls.has(k)) continue;
-        if (k) seenUrls.add(k);
-        // Tag with primary location for B5 "See also".
-        entries.push(Object.assign({}, e, { _primaryLoc: chunkPrimary }));
-      } else {
-        const dual = e.dual_listed_in || [];
-        if (!dual.includes(targetPath)) continue;
-        const k = (e.url || '').toLowerCase();
-        if (k && seenUrls.has(k)) continue;
-        if (k) seenUrls.add(k);
-        entries.push(Object.assign({}, e, { _primaryLoc: chunkPrimary }));
-      }
-    }
+  for (const { e, primaryLoc } of subIndex().get(`${sectionSlug}/${subSlug}`) || []) {
+    const k = (e.url || '').toLowerCase();
+    if (k && seenUrls.has(k)) continue;
+    if (k) seenUrls.add(k);
+    // Tag with primary location for B5 "See also".
+    entries.push(Object.assign({}, e, { _primaryLoc: primaryLoc }));
   }
   return entries;
 }
@@ -111,6 +120,17 @@ function loadSubEntries(sectionFile, subSlug, sectionSlug) {
 // B5: build the "See also" inline string for an entry, given the location
 // where it's currently being rendered. Lists every other location it appears
 // in (primary or mirror) as anchor links.
+// Cross-subsection links. README and index.html hold every subsection, so an
+// in-page "#anchor" works there; standalone /sections/ pages only hold their own
+// section, so they link to the target subsection page instead.
+let linkMode = 'anchor';
+function setLinkMode(mode) {
+  linkMode = mode === 'pages' ? 'pages' : 'anchor';
+}
+function subHref(sectionSlug, subSlug, anchor) {
+  return linkMode === 'pages' ? `/sections/${sectionSlug}/${subSlug}/` : `#${anchor}`;
+}
+
 function seeAlsoLinks(entry, currentLoc) {
   const dual = entry.dual_listed_in || [];
   const all = new Set([entry._primaryLoc, ...dual].filter(Boolean));
@@ -121,7 +141,7 @@ function seeAlsoLinks(entry, currentLoc) {
   for (const loc of all) {
     const meta = map.get(loc);
     if (!meta) continue;
-    parts.push(`<a href="#${meta.anchor}">${meta.sectionTitle} → ${meta.subTitle}</a>`);
+    parts.push(`<a href="${subHref(meta.sectionSlug, meta.subSlug, meta.anchor)}">${meta.sectionTitle} → ${meta.subTitle}</a>`);
   }
   if (!parts.length) return '';
   return `<small class="see-also">See also: ${parts.join(', ')}</small>`;
@@ -200,8 +220,19 @@ function wrapEmoji(text) {
   return text.replace(EMOJI_RE, '<span aria-hidden="true">$1</span>');
 }
 
+// Data strings are untrusted (contributor PRs): escape before any markup is added.
+function cellText(s) {
+  return escText(s).replace(/\|/g, '\\|');
+}
+
+// Markdown link destination: encode the characters that would end or break it.
+function mdUrl(url) {
+  return String(url || '').trim().replace(/ /g, '%20').replace(/\(/g, '%28').replace(/\)/g, '%29');
+}
+
 function processDescription(desc) {
   if (!desc) return desc;
+  desc = escText(desc);
   // [![][repo]](URL) — closed paren
   desc = desc.replace(/\[!\[\]\[repo\]\]\(([^)\s]+)\)/g, (_, url) => repoPill(url.trim()));
   // [![][repo]](URL — unclosed paren (malformed YAML in some entries)
@@ -242,7 +273,7 @@ function header() {
     '[![Validate](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml/badge.svg)](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml)',
     '[![Live site](https://img.shields.io/badge/live%20site-3d.devanshutak.xyz-7c3aed)](https://3d.devanshutak.xyz)',
     '',
-    '> A curated collection of **free and paid 3D resources**: software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
+    '> A curated collection of **free and paid 3D resources**: software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush and Unreal Engine. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
     '',
     '> 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)**. Search and filter by License · Platform · Workflow · Output.',
     '',
@@ -324,7 +355,7 @@ function renderSoftwareTable(entries, currentLoc) {
   lines.push(header);
   lines.push(sep);
   for (const e of entries) {
-    const name = `[${wrapEmoji(e.name)}](${e.url})`;
+    const name = `[${wrapEmoji(cellText(e.name))}](${mdUrl(e.url)})`;
     let descCore = processDescription(e.description || '');
     if (currentLoc) {
       const seeAlso = seeAlsoLinks(e, currentLoc);
@@ -332,14 +363,14 @@ function renderSoftwareTable(entries, currentLoc) {
     }
     const desc = descCore.replace(/\|/g, '\\|');
     const license = licenseCell(e.license);
-    const tags = (e.readme_tags || []).join(' · ');
-    const bestFor = e.best_for || '';
+    const tags = (e.readme_tags || []).map(cellText).join(' · ');
+    const bestFor = cellText(e.best_for || '');
     if (hasPricing) {
       // Pricing carries its own verification date when the catalog has one, so
       // "last updated" in the footer is never mistaken for a price check.
-      let pricing = e.pricing ? String(e.pricing).replace(/\|/g, '\\|') : '';
+      let pricing = e.pricing ? cellText(e.pricing) : '';
       if (pricing && e.pricing_last_verified) {
-        pricing = `<span title="Pricing checked ${String(e.pricing_last_verified).slice(0, 10)}">${pricing}</span>`;
+        pricing = `<span title="Pricing checked ${escText(String(e.pricing_last_verified).slice(0, 10))}">${pricing}</span>`;
       }
       lines.push(`| ${name} | ${desc} | ${pricing} | ${license} | ${tags} | ${bestFor} |`);
     } else {
@@ -368,7 +399,7 @@ function renderMirrorBlocks(sectionSlug) {
     const titleHtml = escHtml(sub.title);
     lines.push('');
     lines.push(`<h3 id="${mirrorId}" data-mirror="1" tabindex="-1">${titleHtml}</h3>`);
-    lines.push(`<p class="mirror-provenance">Also in <a href="#${canonicalAnchor}">Software Reference → ${titleHtml}</a></p>`);
+    lines.push(`<p class="mirror-provenance">Also in <a href="${subHref('software-reference', sub.slug, canonicalAnchor)}">Software Reference → ${titleHtml}</a></p>`);
     lines.push('');
     lines.push(...renderSoftwareTable(software, null));
   }
@@ -409,7 +440,7 @@ function renderSubsection(section, sub, sectionFile) {
       const pill = licensePill(e.license, e.entry_type);
       const seeAlso = seeAlsoLinks(e, currentLoc);
       const seeAlsoSuffix = seeAlso ? `<br>${seeAlso}` : '';
-      lines.push(`- [${wrapEmoji(e.name)}](${e.url})${pill}${desc}${seeAlsoSuffix}`);
+      lines.push(`- [${wrapEmoji(escText(e.name))}](${mdUrl(e.url)})${pill}${desc}${seeAlsoSuffix}`);
     }
     lines.push('');
   }
@@ -450,16 +481,10 @@ function renderSection(section, sectionFile) {
 }
 
 function buildAwesomeList() {
-  const dir = path.join(__dirname, '..', '_maintenance', 'awesome-mining');
-  if (!fs.existsSync(dir)) return [];
-  const files = fs.readdirSync(dir).filter(f => f.endsWith('.md')).sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
-  return files.map(f => {
-    const name = f.replace(/\.md$/, '');
-    const i = name.indexOf('_');
-    const owner = name.slice(0, i);
-    const repo = name.slice(i + 1);
-    return `- [${owner}/${repo}](https://github.com/${owner}/${repo})`;
-  });
+  return catalog.loadAwesomeSources()
+    .slice()
+    .sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }))
+    .map(slug => `- [${slug}](https://github.com/${slug})`);
 }
 
 function footer() {
@@ -594,11 +619,11 @@ function renderLite() {
     }
     if (picks.length) {
       for (const e of picks) {
-        const name = wrapEmoji(e.name);
+        const name = wrapEmoji(escText(e.name));
         const pill = licensePill(e.license, e.entry_type);
         const desc = stripHtmlForLite(processDescription(e.description || ''));
         const descTail = desc ? `. ${desc}` : '';
-        out += `- [${name}](${e.url})${pill}${descTail}\n`;
+        out += `- [${name}](${mdUrl(e.url)})${pill}${descTail}\n`;
       }
       out += '\n';
     }
@@ -613,16 +638,24 @@ function renderLite() {
 // ---- Arg parsing -----------------------------------------------------------
 
 function parseArgs(argv) {
-  const args = { mode: 'full', onlyFile: null };
+  const args = { mode: 'full', onlyFile: null, linkMode: 'anchor' };
   for (const a of argv.slice(2)) {
     if (a.startsWith('--mode=')) args.mode = a.slice('--mode='.length);
+    else if (a.startsWith('--link-mode=')) args.linkMode = a.slice('--link-mode='.length);
     else if (!a.startsWith('--')) args.onlyFile = a;
   }
   return args;
 }
 
+// Markdown for one whole section (H2, subsections, mirror blocks, trailing rule):
+// exactly what `node render.js <sectionFile>` prints.
+function renderSectionFile(sectionFile) {
+  return renderSection(catalog.loadSection(sectionFile), sectionFile);
+}
+
 function main() {
   const args = parseArgs(process.argv);
+  setLinkMode(args.linkMode);
 
   if (args.mode === 'lite') {
     process.stdout.write(renderLite());
@@ -665,7 +698,9 @@ module.exports = {
   wrapEmoji,
   githubAnchor,
   renderSubsection,
-  renderSubsectionMarkdown
+  renderSubsectionMarkdown,
+  renderSectionFile,
+  setLinkMode
 };
 
 if (require.main === module) {

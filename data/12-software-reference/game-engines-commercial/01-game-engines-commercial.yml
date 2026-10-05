@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - AAA
       - Virtual Production
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Unity
     url: https://unity.com/
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - Cross-Platform
       - XR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GameMaker
     url: https://gamemaker.io/
@@ -70,7 +70,7 @@ entries:
     readme_tags:
       - 2D Focus
       - Indie Proven
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Construct 3
     url: https://www.construct.net/
@@ -89,7 +89,7 @@ entries:
     readme_tags:
       - No-code
       - Browser
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GDevelop
     url: https://gdevelop.io/
@@ -113,7 +113,7 @@ entries:
     readme_tags:
       - No-code
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: RPG Maker MZ
     url: https://www.rpgmakerweb.com/
@@ -131,7 +131,7 @@ entries:
     readme_tags:
       - RPG Focus
       - JavaScript
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ren'Py
     url: https://www.renpy.org/
@@ -152,7 +152,7 @@ entries:
     readme_tags:
       - Visual Novels
       - Industry Standard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: CryEngine
     url: https://www.cryengine.com/
@@ -172,7 +172,7 @@ entries:
     readme_tags:
       - High-Fidelity
       - PWYW
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: PlayCanvas
     url: https://playcanvas.com/
@@ -193,7 +193,7 @@ entries:
     readme_tags:
       - Browser-Based
       - JavaScript
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Unbound
     url: https://www.unbound.io/
@@ -214,7 +214,7 @@ entries:
     readme_tags:
       - SDF-Native
       - Early Access
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Evergine
     url: https://evergine.com/
@@ -233,7 +233,7 @@ entries:
     readme_tags:
       - Enterprise
       - Industrial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: SceneKit
     url: https://developer.apple.com/documentation/scenekit
@@ -251,5 +251,51 @@ entries:
     readme_tags:
       - Apple-Native
       - Proprietary
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
+  - name: UNIGINE
+    url: https://unigine.com/
+    description: C++/C# real-time engine for simulation, visualization and games, with double-precision large worlds.
+    pricing: Community free under $200k revenue
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+        - xr
+        - generalist
+      platform:
+        - win
+        - linux
+      tech:
+        - real-time
+    added_at: '2026-10-05T08:51:07.109Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Simulation
+    best_for: Large-world simulation apps
+    pricing_last_verified: '2026-10-05'
+  - name: Roblox Studio
+    url: https://create.roblox.com/
+    description: Free Roblox editor for building, scripting in Luau and publishing multiplayer games.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.113Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Luau
+    best_for: Roblox game creation

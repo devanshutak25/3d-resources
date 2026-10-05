@@ -7,8 +7,8 @@ entries:
     readme_tags:
       - Wiki
       - Reference
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: broken
     tags:
       workflow:
         - compositing
@@ -28,7 +28,7 @@ entries:
     readme_tags:
       - EXR
       - Multichannel
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -41,14 +41,14 @@ entries:
       skill:
         - intermediate
   - name: Split EXR in Fusion
-    url: http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion
+    url: https://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Split EXR in Fusion guide.
+    description: Xuan Prada guide to splitting multichannel EXR files into separate passes in Fusion.
     entry_type: tutorial
     readme_tags:
       - EXR
       - Fusion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - Normal Maps
       - Browser
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Materia
     url: https://github.com/Metric/Materia
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Open Source
       - Archived
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: TexGraph
     url: https://galloscript.itch.io/texgraph
@@ -51,7 +51,7 @@ entries:
     description: Procedural texture creation by connecting nodes in a graph.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -70,7 +70,7 @@ entries:
     description: GPU Texture generator using dear imgui for UI.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -95,7 +95,7 @@ entries:
     license: Open Source
     entry_type: tool
     deprecated: true
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -116,7 +116,7 @@ entries:
     description: Standalone tool to remove baked shadows from model textures.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -133,7 +133,7 @@ entries:
     description: Web app for creating textures, bump maps, and CAD hatches.
     license: Freemium
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -144,12 +144,12 @@ entries:
       platform:
         - web
   - name: NVIDIA Texture Tools Exporter
-    url: https://developer.nvidia.com/nvidia-texture-tools-exporter
+    url: https://developer.nvidia.com/texture-tools-exporter
     added_at: '2026-04-19T17:15:03.000Z'
     description: Creates compressed texture files from image sources via CUDA-accelerated compression.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -164,12 +164,12 @@ entries:
       tech:
         - gpu
   - name: ShaderExpo
-    url: https://anuraghazra.github.io/ShaderExpo/
+    url: https://anuraghazra.dev/ShaderExpo/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Browser shader editor with inline error logs, autocompletion, and model/texture loading.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

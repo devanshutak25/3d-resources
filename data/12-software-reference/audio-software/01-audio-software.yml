@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Open Source
       - Recording
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Adobe Audition
     url: https://www.adobe.com/products/audition.html
@@ -48,8 +48,8 @@ entries:
     readme_tags:
       - Audio Restoration
       - Adobe Suite
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
   - name: Reaper
     url: https://www.reaper.fm/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -75,7 +75,7 @@ entries:
     readme_tags:
       - Full DAW
       - Affordable
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Fairlight
     url: https://www.blackmagicdesign.com/products/davinciresolve/fairlight
@@ -98,7 +98,7 @@ entries:
     readme_tags:
       - Film Post
       - Free with Resolve
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Soundly
     url: https://getsoundly.com/
@@ -121,7 +121,7 @@ entries:
     readme_tags:
       - SFX Library
       - Desktop
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Bfxr
     url: https://www.bfxr.net/
@@ -145,7 +145,7 @@ entries:
     readme_tags:
       - Retro/8-bit
       - Generator
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Wavewright
     url: https://store.steampowered.com/app/4149720/Wavewright/
@@ -165,7 +165,7 @@ entries:
     readme_tags:
       - Modular Synth
       - Early Access
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FMOD
     url: https://www.fmod.com/
@@ -179,10 +179,13 @@ entries:
         - audio-design
       output:
         - games
+      platform:
+        - win
+        - mac
     readme_tags:
       - Industry Standard
       - Indie-Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-audio-middleware
@@ -198,10 +201,13 @@ entries:
         - audio-design
       output:
         - games
+      platform:
+        - win
+        - mac
     readme_tags:
       - AAA
       - Free Tier
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-audio-middleware
@@ -219,10 +225,14 @@ entries:
         - games
       tech:
         - physics
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Spatial Audio
       - Valve Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-audio-middleware
@@ -243,7 +253,7 @@ entries:
     readme_tags:
       - Electronic Std
       - Live
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FL Studio
     url: https://www.image-line.com/
@@ -262,7 +272,7 @@ entries:
     readme_tags:
       - Lifetime Updates
       - Pattern DAW
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Logic Pro
     url: https://www.apple.com/logic-pro/
@@ -281,7 +291,7 @@ entries:
     readme_tags:
       - Apple
       - macOS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Pro Tools
     url: https://www.avid.com/pro-tools
@@ -303,12 +313,12 @@ entries:
     readme_tags:
       - Industry Standard
       - Post Mixing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Studio One
     url: https://www.presonus.com/products/Studio-One
     added_at: '2026-05-22T16:39:01.000Z'
-    description: PreSonus drag-flow DAW.
+    description: PreSonus digital audio workstation for recording, mixing and producing music with drag-and-drop workflow.
     license: Paid
     entry_type: software
     best_for: Modern drag-flow DAW
@@ -321,7 +331,7 @@ entries:
     readme_tags:
       - PreSonus
       - Drag Workflow
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cubase
     url: https://www.steinberg.net/cubase/
@@ -339,7 +349,7 @@ entries:
     readme_tags:
       - Steinberg
       - MIDI/Scoring
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Bitwig Studio
     url: https://www.bitwig.com/
@@ -358,12 +368,12 @@ entries:
     readme_tags:
       - Modular Grid
       - Cross-Platform
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ardour
     url: https://ardour.org/
     added_at: '2026-05-22T16:39:01.000Z'
-    description: OSS multitrack DAW.
+    description: Open-source digital audio workstation for multitrack recording, editing and mixing.
     license: Open Source
     entry_type: software
     best_for: Free multitrack DAW
@@ -379,7 +389,7 @@ entries:
     readme_tags:
       - Open Source
       - GPL
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: LMMS
     url: https://lmms.io/
@@ -400,7 +410,7 @@ entries:
     readme_tags:
       - Open Source
       - FL-style
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cakewalk by BandLab
     url: https://www.bandlab.com/products/cakewalk
@@ -417,7 +427,7 @@ entries:
     readme_tags:
       - Free
       - Windows
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: VCV Rack
     url: https://vcvrack.com/
@@ -440,7 +450,7 @@ entries:
     readme_tags:
       - Modular Synth
       - Eurorack
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Pure Data (Pd)
     url: https://puredata.info/
@@ -462,7 +472,7 @@ entries:
     readme_tags:
       - Visual DSP
       - BSD
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Max/MSP (Cycling '74)
     url: https://cycling74.com/products/max
@@ -481,7 +491,7 @@ entries:
     readme_tags:
       - Visual Patcher
       - Cycling 74
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: SuperCollider
     url: https://supercollider.github.io/
@@ -501,7 +511,7 @@ entries:
     readme_tags:
       - Livecoding
       - GPL
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Sonic Pi
     url: https://sonic-pi.net/
@@ -523,7 +533,7 @@ entries:
     readme_tags:
       - Livecoding
       - Education
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: TidalCycles
     url: https://tidalcycles.org/
@@ -543,7 +553,7 @@ entries:
     readme_tags:
       - Algoraves
       - Pattern
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Strudel
     url: https://strudel.cc/
@@ -561,10 +571,10 @@ entries:
     readme_tags:
       - Browser
       - Tidal Port
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: iZotope RX
-    url: https://www.izotope.com/en/products/rx.html
+    url: https://www.izotope.com/products/rx-advanced
     added_at: '2026-05-22T16:39:01.000Z'
     description: Industry-standard audio restoration suite.
     pricing: From $399
@@ -583,7 +593,7 @@ entries:
     readme_tags:
       - Audio Repair
       - Industry Std
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FabFilter Pro Suite
     url: https://www.fabfilter.com/
@@ -601,7 +611,7 @@ entries:
     readme_tags:
       - Pro Plugins
       - Mixing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Krotos
     url: https://www.krotosaudio.com/
@@ -622,7 +632,7 @@ entries:
     readme_tags:
       - Foley
       - Creature Vox
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Sound Particles
     url: https://soundparticles.com/
@@ -643,7 +653,7 @@ entries:
     readme_tags:
       - 3D Sound
       - Immersive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GameSynth (Tsugi)
     url: https://tsugi-studio.com/web/en/products-gamesynth.html
@@ -662,7 +672,7 @@ entries:
     readme_tags:
       - Procedural SFX
       - Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Dolby Atmos Renderer
     url: https://professional.dolby.com/
@@ -683,7 +693,7 @@ entries:
     readme_tags:
       - Atmos
       - Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Flux Spat Revolution
     url: https://www.flux.audio/project/spat-revolution/
@@ -704,25 +714,7 @@ entries:
     readme_tags:
       - IRCAM
       - Spatial
-    url_last_verified: '2026-09-01'
-    url_status: ok
-  - name: Resonance Audio
-    url: https://resonance-audio.github.io/resonance-audio/
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: Google's open-source ambisonic spatial audio SDK.
-    license: Open Source
-    entry_type: reference
-    best_for: Ambisonic SDK
-    tags:
-      workflow:
-        - audio-design
-      output:
-        - xr
-        - games
-    readme_tags:
-      - Google
-      - Apache 2.0
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GarageBand
     url: https://apps.apple.com/us/app/garageband/id408709785
@@ -743,7 +735,7 @@ entries:
     readme_tags:
       - Free
       - Apple
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: SoundThread
     url: https://github.com/j-p-higgins/SoundThread
@@ -768,10 +760,10 @@ entries:
     readme_tags:
       - Node-Based
       - CDP Front End
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Audio Design Desk
-    url: https://audiodesigndesk.com/
+    url: https://add.app/
     added_at: '2026-08-03T19:44:41.000Z'
     description: Sound design app that places SFX, foley, and music against picture from typed cues.
     license: Paid
@@ -790,7 +782,7 @@ entries:
     readme_tags:
       - Sound to Picture
       - Cue Driven
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ocenaudio
     url: https://www.ocenaudio.com/
@@ -812,7 +804,7 @@ entries:
     readme_tags:
       - Free
       - Waveform Editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Waveform Free
     url: https://www.tracktion.com/products/waveform-free
@@ -831,7 +823,7 @@ entries:
     readme_tags:
       - Free
       - Unlimited Tracks
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Renoise
     url: https://www.renoise.com/
@@ -853,7 +845,7 @@ entries:
     readme_tags:
       - Tracker
       - Perpetual
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Bespoke Synth
     url: https://www.bespokesynth.com/
@@ -875,8 +867,8 @@ entries:
     readme_tags:
       - Modular DAW
       - Open Source
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
   - name: Surge XT
     url: https://surge-synthesizer.github.io/
     added_at: '2026-08-03T19:44:41.000Z'
@@ -896,7 +888,7 @@ entries:
     readme_tags:
       - Open Source
       - Synth
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Vital
     url: https://vital.audio/
@@ -916,7 +908,7 @@ entries:
     readme_tags:
       - Wavetable
       - Free Tier
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Csound
     url: https://csound.com/
@@ -940,7 +932,7 @@ entries:
     readme_tags:
       - Audio DSL
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: ChucK
     url: https://chuck.stanford.edu/
@@ -962,10 +954,10 @@ entries:
     readme_tags:
       - Livecoding
       - Stanford
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Melodyne
-    url: https://www.celemony.com/en/melodyne
+    url: https://www.celemony.com/en/melodyne/what-is-melodyne
     added_at: '2026-08-03T19:44:41.000Z'
     description: Pitch and timing editor that separates notes inside polyphonic recordings.
     license: Paid
@@ -983,5 +975,5 @@ entries:
     readme_tags:
       - Pitch Editing
       - DNA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

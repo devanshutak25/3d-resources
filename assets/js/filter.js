@@ -4,6 +4,11 @@
 (function () {
   'use strict';
 
+  // location.hash / href fragments are user-controllable; a lone '%' throws URIError.
+  function safeDecode(s) {
+    try { return decodeURIComponent(s); } catch (e) { return s; }
+  }
+
   const DATA_URL = '/data.json';
   const SEARCH_INDEX_URL = '/search-index.json';
   const HIGHLIGHT_CAP = 80; // only highlight top-N matching rows for perf
@@ -411,7 +416,7 @@
       if (n.tagName === 'DETAILS') {
         const sumA = n.querySelector(':scope > summary a[href^="#"]');
         if (sumA) {
-          const targetId = decodeURIComponent(sumA.getAttribute('href').slice(1));
+          const targetId = safeDecode(sumA.getAttribute('href').slice(1));
           const target = document.getElementById(targetId);
           if (target) {
             const dimmed = target.style.display === 'none';
@@ -423,7 +428,7 @@
         for (const li of lis) {
           const a = li.querySelector('a[href^="#"]');
           if (!a) continue;
-          const tid = decodeURIComponent(a.getAttribute('href').slice(1));
+          const tid = safeDecode(a.getAttribute('href').slice(1));
           const target = document.getElementById(tid);
           if (target) {
             const dimmed = target.style.display === 'none';
@@ -1577,7 +1582,7 @@
   function setupCollapsibleHeadings() {
     const headings = mainEl.querySelectorAll('h2, h3');
     const hashTarget = (location.hash && location.hash.length > 1)
-      ? decodeURIComponent(location.hash.slice(1)) : null;
+      ? safeDecode(location.hash.slice(1)) : null;
     for (const h of headings) {
       if (h.tagName === 'H2' && EXCLUDED_H2_IDS.has(h.id)) continue;
       h.classList.add('collapsible-heading');
@@ -1747,7 +1752,7 @@
       details.addEventListener('click', (ev) => {
         const a = ev.target.closest && ev.target.closest('a[href^="#"]');
         if (!a || !details.contains(a)) return;
-        const id = decodeURIComponent(a.getAttribute('href').slice(1));
+        const id = safeDecode(a.getAttribute('href').slice(1));
         const target = document.getElementById(id);
         if (!target) return;
         ev.preventDefault();
@@ -1942,7 +1947,7 @@
         '.see-also a[href^="#"], .mirror-provenance a[href^="#"]'
       );
       if (!a || !mainEl.contains(a)) return;
-      const id = decodeURIComponent(a.getAttribute('href').slice(1));
+      const id = safeDecode(a.getAttribute('href').slice(1));
       const target = document.getElementById(id);
       if (!target) return;
       ev.preventDefault();
@@ -1964,7 +1969,7 @@
   function flashHashRow() {
     const h = (location.hash || '').slice(1);
     if (!h || h.indexOf('=') !== -1) return;
-    const id = decodeURIComponent(h);
+    const id = safeDecode(h);
     const el = document.getElementById(id);
     if (!el || !el.dataset || !el.dataset.decorated) return;
     const owners = owningHeadings(el);

@@ -1,6 +1,6 @@
 # Security Policy
 
-This is a curated content repository — there is no application runtime, no auth, no user data. The main "security" surface is the data files and CI workflows.
+This is a curated content repository. There is no application runtime, no auth and no user data. The main "security" surface is the data files and CI workflows.
 
 ## Reporting an issue
 
@@ -21,4 +21,4 @@ In scope:
 
 Out of scope:
 
-- Bugs in third-party sites we link to — please report those upstream.
+- Bugs in third-party sites we link to: please report those upstream.

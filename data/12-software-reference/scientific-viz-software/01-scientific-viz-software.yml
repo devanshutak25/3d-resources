@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Molecular
       - Python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: UCSF ChimeraX
     url: https://www.cgl.ucsf.edu/chimerax/
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Academic
       - VR-ready
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: UCSF Chimera
     url: https://www.cgl.ucsf.edu/chimera/
@@ -65,7 +65,7 @@ entries:
     readme_tags:
       - Legacy
       - Academic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: VMD
     url: https://www.ks.uiuc.edu/Research/vmd/
@@ -86,7 +86,7 @@ entries:
     readme_tags:
       - Molecular Dynamics
       - Academic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Jmol / JSmol
     url: https://jmol.sourceforge.net/
@@ -108,7 +108,7 @@ entries:
     readme_tags:
       - Web Embed
       - Java
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Mol*
     url: https://molstar.org/
@@ -127,7 +127,7 @@ entries:
     readme_tags:
       - WebGL
       - RCSB PDB
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: NGL Viewer
     url: https://nglviewer.org/
@@ -146,7 +146,7 @@ entries:
     readme_tags:
       - WebGL
       - Jupyter
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Avogadro
     url: https://avogadro.cc/
@@ -167,7 +167,7 @@ entries:
     readme_tags:
       - Chemistry
       - Educational
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Molecular Nodes
     url: https://bradyajohnston.github.io/MolecularNodes/
@@ -184,10 +184,14 @@ entries:
         - scientific-viz
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Blender Molecular
       - Geo Nodes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Molecular Maya (mMaya)
     url: https://clarafi.com/tools/mmaya/
@@ -202,13 +206,17 @@ entries:
         - animation
       output:
         - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Maya Plugin
       - Molecular
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: ePMV
-    url: http://epmv.scripps.edu/
+    url: https://epmv.scripps.edu/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Embedded Python Molecular Viewer. Brings PyMOL/Chimera into Maya, Blender, and C4D.
     license: Free
@@ -221,13 +229,17 @@ entries:
         - scientific-viz
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - DCC Bridge
       - Academic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: BioBlender
-    url: http://www.bioblender.org/
+    url: https://www.bioblender.org/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Blender add-on for biological molecule visualization.
     license: Open Source
@@ -240,10 +252,14 @@ entries:
         - scientific-viz
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Blender Biology
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: YASARA
     url: https://www.yasara.org/
@@ -265,9 +281,8 @@ entries:
     readme_tags:
       - MD + Viz
       - Commercial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: Discovery Studio Visualizer
     url: https://discover.3ds.com/discovery-studio-visualizer-download
     added_at: '2026-05-22T16:39:01.000Z'
@@ -286,7 +301,7 @@ entries:
     readme_tags:
       - Pharma
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: MolView
     url: https://molview.org/
@@ -305,7 +320,7 @@ entries:
     readme_tags:
       - Browser
       - Educational
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: 3D Slicer
     url: https://www.slicer.org/
@@ -328,10 +343,10 @@ entries:
     readme_tags:
       - Medical Imaging
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: ITK-SNAP
-    url: http://www.itksnap.org/
+    url: https://www.itksnap.org/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Semi-automatic medical image segmentation.
     license: Open Source
@@ -350,7 +365,7 @@ entries:
     readme_tags:
       - Medical
       - Segmentation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: ParaView
     url: https://www.paraview.org/
@@ -371,24 +386,28 @@ entries:
     readme_tags:
       - Kitware
       - Large Data
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: VTK
     url: https://vtk.org/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Visualization Toolkit. C++/Python library powering ParaView and Slicer.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     best_for: Scientific viz library
     tags:
       workflow:
         - rendering
       output:
         - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Library
       - C++/Python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Horos
     url: https://horosproject.org/
@@ -405,7 +424,7 @@ entries:
     readme_tags:
       - DICOM
       - Mac
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: ImageJ / Fiji
     url: https://fiji.sc/
@@ -427,7 +446,7 @@ entries:
     readme_tags:
       - Microscopy
       - Plugins
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Drishti
     url: https://github.com/nci/drishti
@@ -442,10 +461,13 @@ entries:
       output:
         - scientific-viz
         - medical
+      platform:
+        - win
+        - linux
     readme_tags:
       - Volume
       - Academic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: VolView
     url: https://volview.kitware.com/
@@ -462,7 +484,7 @@ entries:
     readme_tags:
       - Browser
       - DICOM
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Inviwo
     url: https://inviwo.org/
@@ -483,7 +505,7 @@ entries:
     readme_tags:
       - Node Graph
       - Academic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Celestia
     url: https://celestia.space/
@@ -502,7 +524,7 @@ entries:
     readme_tags:
       - Space Sim
       - Educational
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Stellarium
     url: https://stellarium.org/
@@ -522,7 +544,7 @@ entries:
     readme_tags:
       - Planetarium
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: SpaceEngine
     url: https://spaceengine.org/
@@ -541,7 +563,7 @@ entries:
     readme_tags:
       - Procedural Universe
       - VFX Plates
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Universe Sandbox
     url: https://universesandbox.com/
@@ -561,7 +583,7 @@ entries:
     readme_tags:
       - Physics
       - Education
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Gaia Sky
     url: https://gaiasky.space/
@@ -581,10 +603,10 @@ entries:
     readme_tags:
       - ESA Gaia
       - VR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: NASA Eyes
-    url: https://eyes.nasa.gov/
+    url: https://science.nasa.gov/eyes/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Browser 3D solar system and mission explorer.
     license: Free
@@ -598,7 +620,7 @@ entries:
     readme_tags:
       - NASA
       - Browser
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: WorldWide Telescope
     url: https://worldwidetelescope.org/
@@ -616,23 +638,27 @@ entries:
     readme_tags:
       - Astronomy
       - MIT
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: yt project
     url: https://yt-project.org/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Python volumetric astrophysics analysis library.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     best_for: Astrophysics analysis in Python
     tags:
       output:
         - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Python Library
       - Astrophysics
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
   - name: Tecplot 360
     url: https://tecplot.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -650,10 +676,10 @@ entries:
     readme_tags:
       - CFD
       - Engineering
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ansys EnSight
-    url: https://www.ansys.com/products/fluids/ansys-ensight
+    url: https://ansys.synopsys.com/products/fluids/ansys-ensight
     added_at: '2026-05-22T16:39:01.000Z'
     description: Large-dataset CFD/CAE visualization.
     license: Paid
@@ -668,7 +694,7 @@ entries:
     readme_tags:
       - Ansys
       - Large Data
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FieldView
     url: https://www.ilight.com/
@@ -686,7 +712,7 @@ entries:
     readme_tags:
       - CFD
       - Aerospace
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: QGIS
     url: https://qgis.org/
@@ -706,14 +732,14 @@ entries:
     readme_tags:
       - GIS
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: CesiumJS
     url: https://cesium.com/platform/cesiumjs/
     added_at: '2026-05-22T16:39:01.000Z'
     description: WebGL globe and 3D tiles library.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     best_for: Web globe + 3D tiles
     tags:
       output:
@@ -724,7 +750,7 @@ entries:
     readme_tags:
       - WebGL Globe
       - 3D Tiles
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Google Earth Studio
     url: https://earth.google.com/studio/
@@ -744,7 +770,7 @@ entries:
     readme_tags:
       - Earth Animation
       - Browser
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: kepler.gl
     url: https://kepler.gl/
@@ -761,7 +787,7 @@ entries:
     readme_tags:
       - WebGL
       - Geo Dataviz
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: BlenderGIS
     url: https://github.com/domlysz/BlenderGIS
@@ -776,10 +802,14 @@ entries:
         - archviz
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Blender GIS
       - OSM/SRTM
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: TouchTerrain
     url: https://touchterrain.geol.iastate.edu/
@@ -796,14 +826,14 @@ entries:
     readme_tags:
       - Terrain
       - 3D Print
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Plotly (3D)
     url: https://plotly.com/python/3d-charts/
     added_at: '2026-05-22T16:39:01.000Z'
     description: 3D charts in Python and JS.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     best_for: 3D data charts in Python/JS
     tags:
       output:
@@ -813,14 +843,14 @@ entries:
     readme_tags:
       - 3D Charts
       - Python/JS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: deck.gl
     url: https://deck.gl/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Uber WebGL framework for large geospatial and dataviz layers.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     best_for: Large WebGL dataviz
     tags:
       output:
@@ -830,14 +860,14 @@ entries:
     readme_tags:
       - Uber
       - WebGL
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Globe.gl
     url: https://globe.gl/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Three.js-based globe visualization wrapper.
     license: Open Source
-    entry_type: reference
+    entry_type: tool
     best_for: Three.js globe wrapper
     tags:
       output:
@@ -847,65 +877,46 @@ entries:
     readme_tags:
       - Three.js
       - Globe
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
-  - name: Drew Berry (WEHI TV)
-    url: https://www.wehi.edu.au/wehi-tv
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: Drew Berry's reference biomedical animation work at the Walter and Eliza Hall Institute.
-    entry_type: channel
-    best_for: Reference molecular animation
+  - name: napari
+    url: https://napari.org/
+    description: Python n-dimensional image viewer for microscopy and bioimaging with a plugin system.
+    license: Open Source
+    entry_type: software
     tags:
       output:
         - scientific-viz
         - medical
-    readme_tags:
-      - Molecular Anim
-      - Biomedical
-    url_last_verified: '2026-09-01'
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.143Z'
+    url_last_verified: '2026-10-05'
     url_status: ok
-  - name: Janet Iwasa Animation Lab
-    url: https://animationlab.utah.edu/
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: Univ. of Utah molecular animation lab and outreach.
-    entry_type: channel
-    best_for: Molecular animation outreach
-    tags:
-      output:
-        - scientific-viz
     readme_tags:
-      - Academic
-      - Outreach
-    url_last_verified: '2026-09-01'
-    url_status: ok
-  - name: Clarafi (Gaël McGill / Digizyme)
-    url: https://clarafi.com/
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: 3D molecular animation courses, Maya focus.
-    license: Paid
-    entry_type: tutorial
-    best_for: Molecular animation training
+      - Open Source
+      - Python
+    best_for: Microscopy image viewing
+  - name: OVITO
+    url: https://www.ovito.org/
+    description: Visualization and analysis of atomistic and particle simulation data, with a Python module.
+    license: Freemium
+    entry_type: software
     tags:
       workflow:
-        - animation
+        - rendering
       output:
         - scientific-viz
-    readme_tags:
-      - Course
-      - Maya Molecular
-    url_last_verified: '2026-09-01'
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.145Z'
+    url_last_verified: '2026-10-05'
     url_status: ok
-  - name: Brady Johnston
-    url: https://bradyajohnston.github.io/
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: Blender-for-science tutorials. Author of Molecular Nodes.
-    entry_type: channel
-    best_for: Blender scientific tutorials
-    tags:
-      output:
-        - scientific-viz
     readme_tags:
-      - Blender Science
-      - Tutorials
-    url_last_verified: '2026-09-01'
-    url_status: ok
+      - Freemium
+      - Python
+    best_for: Particle simulation visualization

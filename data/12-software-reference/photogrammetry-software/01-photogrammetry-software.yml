@@ -5,7 +5,7 @@ entries:
     description: Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -30,15 +30,18 @@ entries:
         - node-based
         - gpu
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - Node-based
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
   - name: RealityCapture
-    url: https://www.capturingreality.com/
+    url: https://www.realityscan.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Fast, high-quality photogrammetry (now Epic Games). PPI pricing.
     license: Freemium
@@ -47,10 +50,12 @@ entries:
     tags:
       tech:
         - photogrammetry
+      platform:
+        - win
     readme_tags:
       - Epic Games
       - High-Quality
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -64,10 +69,14 @@ entries:
     tags:
       tech:
         - photogrammetry
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - GIS Features
       - Pro
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -88,12 +97,12 @@ entries:
     readme_tags:
       - Mobile
       - LiDAR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
   - name: KIRI Engine
-    url: https://www.kiriengine.com/
+    url: https://www.kiriengine.app/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Cross-platform mobile photogrammetry.
     license: Freemium
@@ -108,7 +117,7 @@ entries:
     readme_tags:
       - Cross-platform
       - Mobile
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -122,11 +131,13 @@ entries:
     tags:
       tech:
         - photogrammetry
+      platform:
+        - win
     readme_tags:
       - Free Lite
       - 50 Photos
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
   - name: Scaniverse (Niantic)
@@ -146,7 +157,7 @@ entries:
     readme_tags:
       - Free Mobile
       - Gaussian Splat
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
@@ -161,26 +172,32 @@ entries:
       tech:
         - gaussian-splatting
         - photogrammetry
+      platform:
+        - win
     readme_tags:
       - Desktop
       - Splat Editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
   - name: CloudCompare
     url: https://www.danielgm.net/cc/
     added_at: '2026-04-16T21:13:44.000Z'
-    description: A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a
+    description: A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a.
     license: Open Source
     entry_type: software
     best_for: Point cloud and mesh processing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - photogrammetry
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Open Source
       - Point Cloud
@@ -193,7 +210,7 @@ entries:
     license: Open Source
     entry_type: software
     best_for: Open-source scan toolkit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -215,25 +232,31 @@ entries:
       tech:
         - photogrammetry
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Point Clouds
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
   - name: Quixel Megascans
-    url: https://quixel.com/megascans/library/
+    url: https://quixel.com/megascans/home
     added_at: '2026-04-19T17:15:03.000Z'
     description: World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects).
     license: Free
     entry_type: software
     best_for: Photogrammetry asset library
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - photogrammetry
+      platform:
+        - web
     readme_tags:
       - Asset Library
       - Epic Games
@@ -246,11 +269,13 @@ entries:
     license: Free
     entry_type: software
     best_for: Free photogrammetry
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       tech:
         - photogrammetry
+      platform:
+        - win
     readme_tags:
       - Free
       - Personal Use
@@ -266,10 +291,79 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Photogrammetry
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
+  - name: OpenMVS
+    url: https://cdcseacave.github.io/
+    description: Open-source multi-view stereo library that turns SfM output into dense point clouds and textured meshes.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+        - scientific-viz
+      tech:
+        - photogrammetry
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.435Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - C++
+    best_for: Dense photogrammetry reconstruction
+  - name: iTwin Capture Modeler (Bentley)
+    url: https://www.bentley.com/products/itwin-capture-modeler/
+    description: Bentley reality modeling that builds meshes and Gaussian splats from photos and lidar.
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - archviz
+        - scientific-viz
+      platform:
+        - win
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.436Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Bentley
+    best_for: Large-scale reality meshes
+  - name: DJI Terra
+    url: https://enterprise.dji.com/dji-terra
+    description: Drone mapping and photogrammetry software that outputs meshes, point clouds and Gaussian splats.
+    pricing: From $3,700/yr
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - archviz
+        - scientific-viz
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+      platform:
+        - win
+    added_at: '2026-10-05T08:51:07.438Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Drone
+    best_for: Drone survey reconstruction

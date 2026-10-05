@@ -5,7 +5,7 @@ entries:
     description: A unified framework for 3D content generation.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -23,7 +23,7 @@ entries:
     description: Single-image to 3D asset generation via pixel-feature back-projection. Outputs geometry and PBR textures.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -42,7 +42,7 @@ entries:
     description: AI CLI to generate and edit low-poly 3D game assets in Blender from text prompts.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -54,13 +54,15 @@ entries:
       tech:
         - ai-generative
         - blender-addon
+      workflow:
+        - modeling
   - name: Point-E (OpenAI)
     url: https://github.com/openai/point-e
     added_at: '2026-04-19T17:29:43.000Z'
     description: OpenAI point-cloud diffusion for text and image to 3D synthesis.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -78,7 +80,7 @@ entries:
     description: Guide to using the AdaMPI model to create 3D photos from 2D images.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -95,7 +97,7 @@ entries:
     description: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:

@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Forum
       - Very Active
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -18,7 +18,7 @@ entries:
       tech:
         - houdini
   - name: Houdini Nerd Discord
-    url: https://discord.gg/E9zA9Ft
+    url: https://discord.com/invite/E9zA9Ft
     added_at: '2026-04-16T19:59:30.000Z'
     description: Christopher Rutledge's Houdini community.
     entry_type: community
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Discord
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -36,7 +36,7 @@ entries:
       tech:
         - houdini
   - name: Think Procedural Discord
-    url: https://discord.gg/thinkprocedural
+    url: https://discord.com/invite/thinkprocedural
     added_at: '2026-04-16T19:59:30.000Z'
     description: Procedural-focused Houdini Discord.
     entry_type: community
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - Discord
       - Procedural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -57,13 +57,13 @@ entries:
   - name: r/Houdini
     url: https://reddit.com/r/Houdini
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Houdini subreddit.
+    description: Reddit community for Houdini users to share work and ask questions.
     entry_type: community
     license: Free
     readme_tags:
       - Reddit
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -81,7 +81,7 @@ entries:
     readme_tags:
       - Chinese Content
       - Bilibili
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -99,7 +99,7 @@ entries:
     readme_tags:
       - Tips
       - Archive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -113,13 +113,13 @@ entries:
   - name: Houdini Tricks
     url: https://houdinitricks.tumblr.com/archive
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Quick tips archive.
+    description: Tumblr archive of short Houdini tips and tricks.
     entry_type: reference
     license: Free
     readme_tags:
       - Tips Archive
       - Quick Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -133,13 +133,13 @@ entries:
   - name: VFX Arabia Houdini Tools
     url: https://www.vfxarabia.co/blog/categories/houdini-tools
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Houdini tools blog.
+    description: VFX Arabia blog posts sharing tools built in Houdini.
     entry_type: channel
     license: Free
     readme_tags:
       - Blog
       - Tools
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -151,7 +151,7 @@ entries:
       tech:
         - houdini
   - name: John Kunz Discord
-    url: https://discord.gg/dbJrmM8
+    url: https://discord.com/invite/dbJrmM8
     added_at: '2026-06-17T07:16:34.000Z'
     description: Community Discord for Houdini FX and coding.
     license: Free
@@ -164,7 +164,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Awesome Houdini (wyhinton)
     url: https://github.com/wyhinton/AwesomeHoudini
@@ -180,5 +180,5 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

@@ -2,7 +2,7 @@ entries:
   - name: Blenderkit
     url: https://www.blenderkit.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: In-app asset browser.
+    description: Blender asset library and add-on that lets you search and drop models, materials and HDRIs into a scene from inside Blender.
     entry_type: marketplace
     license: Paid
     tags:
@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Blender
       - In-app
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Orbolt
     url: https://www.orbolt.com/
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Houdini
       - HDAs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - C4D
       - Materials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -52,9 +52,9 @@ entries:
       platform:
         - web
       tech:
-        - c4d
+        - cinema-4d
   - name: Autodesk App Store
-    url: https://apps.autodesk.com/en/Home/Index
+    url: https://marketplace.autodesk.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official Maya plugins and scripts.
     entry_type: marketplace
@@ -62,7 +62,7 @@ entries:
     readme_tags:
       - Maya
       - Official
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -80,7 +80,7 @@ entries:
     readme_tags:
       - Maya
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -98,7 +98,7 @@ entries:
     readme_tags:
       - AE + Premiere
       - Primary
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -110,13 +110,13 @@ entries:
   - name: VideoHive (Envato)
     url: https://videohive.net/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Templates and presets.
+    description: Envato marketplace for stock footage, After Effects templates, motion graphics and video presets.
     entry_type: marketplace
     license: Paid
     readme_tags:
       - Templates
       - Envato
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -132,8 +132,8 @@ entries:
     readme_tags:
       - Resolve
       - Free Pkg Mgr
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -150,7 +150,7 @@ entries:
     readme_tags:
       - Cross-Platform
       - Creator-direct
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -166,7 +166,7 @@ entries:
     readme_tags:
       - Kitbash Packs
       - Premium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -187,10 +187,10 @@ entries:
     readme_tags:
       - Motion Assets
       - Templates
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: MACHIN3tools
-    url: https://gumroad.com/l/MACHIN3tools
+    url: https://machin3.gumroad.com/l/MACHIN3tools
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free collection of Blender tools and pie menus in one customizable package.
     entry_type: plugin
@@ -198,7 +198,7 @@ entries:
     readme_tags:
       - Blender
       - Pie Menus
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -210,7 +210,7 @@ entries:
       tech:
         - blender-addon
   - name: Maxivz’s Interactive Tools
-    url: https://gumroad.com/l/ynJmIV
+    url: https://maxivz.gumroad.com/l/ynJmIV
     added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of intuitive, context sensitive tools for Blender.
     entry_type: plugin
@@ -218,7 +218,7 @@ entries:
     readme_tags:
       - Blender
       - Modeling
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -230,7 +230,7 @@ entries:
       tech:
         - blender-addon
   - name: Archipack
-    url: https://gumroad.com/l/ZRMyP
+    url: https://blender-archipack.gumroad.com/l/ZRMyP
     added_at: '2026-04-19T17:15:03.000Z'
     description: Parametric architectural primitives for ArchViz in Blender, with realtime on-screen editing.
     entry_type: plugin
@@ -238,7 +238,7 @@ entries:
     readme_tags:
       - Blender
       - ArchViz
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -250,7 +250,7 @@ entries:
       tech:
         - blender-addon
   - name: KIT OPS
-    url: https://gumroad.com/l/kitops
+    url: https://chippwalters.gumroad.com/l/kitops
     added_at: '2026-04-19T17:15:03.000Z'
     description: Kitbash-driven hard-surface modeling for Blender. Build complex industrial designs fast.
     entry_type: plugin
@@ -258,7 +258,7 @@ entries:
     readme_tags:
       - Blender
       - Kitbash
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -270,7 +270,7 @@ entries:
       tech:
         - blender-addon
   - name: Speedflow
-    url: https://gumroad.com/l/speedflow
+    url: https://pitiwazou.gumroad.com/l/speedflow
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon for a non-destructive modifier workflow.
     entry_type: plugin
@@ -278,7 +278,7 @@ entries:
     readme_tags:
       - Blender
       - Non-destructive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -290,7 +290,7 @@ entries:
       tech:
         - blender-addon
   - name: Poly Source
-    url: https://gumroad.com/l/polysource
+    url: https://derksen.gumroad.com/l/polysource
     added_at: '2026-04-19T17:15:03.000Z'
     description: Shows ngon/quad/tri counts on the active object to keep topology clean in Blender.
     entry_type: plugin
@@ -298,7 +298,7 @@ entries:
     readme_tags:
       - Blender
       - Topology
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -311,7 +311,7 @@ entries:
       tech:
         - blender-addon
   - name: Speedsculpt
-    url: https://gumroad.com/l/SpeedSculpt
+    url: https://pitiwazou-1.gumroad.com/l/SpeedSculpt
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon for fast character sculpting with Dyntopo, booleans, curves, skin modifier, and masks.
     entry_type: plugin
@@ -319,7 +319,7 @@ entries:
     readme_tags:
       - Blender
       - Sculpting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -331,7 +331,7 @@ entries:
       tech:
         - blender-addon
   - name: Brush Manager for Blender
-    url: https://gumroad.com/l/zLBPz
+    url: https://tingjoybits.gumroad.com/l/zLBPz
     added_at: '2026-04-19T17:15:03.000Z'
     description: Create custom Blender brushes, store them in a file, and organize a categorized brush library.
     entry_type: plugin
@@ -339,7 +339,7 @@ entries:
     readme_tags:
       - Blender
       - Brushes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -351,14 +351,14 @@ entries:
       tech:
         - blender-addon
   - name: Mech/Fy
-    url: https://gumroad.com/l/KZllV
+    url: https://emilianocolantoni.gumroad.com/l/KZllV
     added_at: '2026-04-19T17:15:03.000Z'
     description: A procedural workflow that automates the process of hard surfaces modelling.
     entry_type: plugin
     readme_tags:
       - Blender
       - Hard Surface
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -370,7 +370,7 @@ entries:
       tech:
         - blender-addon
   - name: BY GEN
-    url: https://gumroad.com/l/BY-GEN
+    url: https://curtisjamesholt.gumroad.com/l/BY-GEN
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon for non-destructive, generative modeling styles.
     entry_type: plugin
@@ -378,7 +378,7 @@ entries:
     readme_tags:
       - Blender
       - Generative
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -392,13 +392,13 @@ entries:
   - name: Universal Human Rigged Base Mesh
     url: https://gumroad.com/l/EqNTn
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Rigged human base mesh.
+    description: Rigged universal human base mesh sold on Gumroad as a starting point for character modeling and posing.
     entry_type: asset-source
     license: Paid
     readme_tags:
       - Base Mesh
       - Rigged
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -417,7 +417,7 @@ entries:
     readme_tags:
       - Blender
       - Texel Density
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -437,7 +437,7 @@ entries:
     readme_tags:
       - Blender
       - Environment
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -458,7 +458,7 @@ entries:
     readme_tags:
       - Blender
       - OSM
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -470,7 +470,7 @@ entries:
       tech:
         - blender-addon
   - name: Photographer 2
-    url: https://gumroad.com/chafouin#FWQf
+    url: https://chafouin.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender camera addon for exposure, white balance, and autofocus. Now free.
     entry_type: plugin
@@ -478,7 +478,7 @@ entries:
     readme_tags:
       - Blender
       - Camera
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -498,7 +498,7 @@ entries:
     readme_tags:
       - Blender
       - Viewport
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -518,7 +518,7 @@ entries:
     readme_tags:
       - Blender
       - EEVEE
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -539,7 +539,7 @@ entries:
     readme_tags:
       - Blender
       - Workflow
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -551,7 +551,7 @@ entries:
       tech:
         - blender-addon
   - name: Free Hard Surface KitBash Models
-    url: https://gumroad.com/olegushenok?sort=page_layout&tags=free
+    url: https://olegushenok.gumroad.com/?sort=page_layout&tags=free
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free hard-surface and sci-fi kitbash model sets.
     entry_type: asset-source
@@ -559,7 +559,7 @@ entries:
     readme_tags:
       - Kitbash
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -569,7 +569,7 @@ entries:
       platform:
         - web
   - name: gumroad/simonthommes
-    url: https://gumroad.com/simonthommes
+    url: https://simonthommes.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Simon Thommes Gumroad. Free and paid Blender materials.
     entry_type: asset-source
@@ -577,7 +577,7 @@ entries:
     readme_tags:
       - Blender
       - Materials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -589,7 +589,7 @@ entries:
       tech:
         - blender-addon
   - name: gumroad/bluefoxcreation
-    url: https://gumroad.com/bluefoxcreation
+    url: https://bluefoxcreation.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blue Fox Creation Gumroad. Blender motion-graphics products and tutorials.
     entry_type: marketplace
@@ -597,7 +597,7 @@ entries:
     readme_tags:
       - Creator
       - Profile
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -607,7 +607,7 @@ entries:
       tech:
         - blender-addon
   - name: jamajurabaev
-    url: https://gumroad.com/jamajurabaev
+    url: https://jamajurabaev.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Jama Jurabaev Gumroad. Concept-art brushes and tutorials.
     entry_type: marketplace
@@ -615,7 +615,7 @@ entries:
     readme_tags:
       - Creator
       - Profile
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -633,7 +633,7 @@ entries:
     readme_tags:
       - Blender
       - Python API
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -653,7 +653,7 @@ entries:
     readme_tags:
       - PBR
       - Materials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -673,7 +673,7 @@ entries:
     readme_tags:
       - VDB
       - Clouds
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -691,7 +691,7 @@ entries:
     readme_tags:
       - Blender
       - Flow Maps
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -711,7 +711,7 @@ entries:
     readme_tags:
       - Blender
       - Cityscape
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -732,7 +732,7 @@ entries:
     readme_tags:
       - Blender
       - Render
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -753,7 +753,7 @@ entries:
     readme_tags:
       - Blender
       - Geo Nodes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -773,7 +773,7 @@ entries:
     readme_tags:
       - Houdini
       - HDA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -793,7 +793,7 @@ entries:
     readme_tags:
       - Blender
       - Texturing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -814,7 +814,7 @@ entries:
     readme_tags:
       - Houdini
       - HDA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -834,7 +834,7 @@ entries:
     readme_tags:
       - Blender
       - Pixel Art
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -853,7 +853,7 @@ entries:
     readme_tags:
       - Houdini
       - Deformer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -873,7 +873,7 @@ entries:
     readme_tags:
       - Blender
       - Parallax
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -894,7 +894,7 @@ entries:
     readme_tags:
       - Blender
       - Render
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -908,13 +908,13 @@ entries:
   - name: Super Fast Render
     url: https://pidgeontools.gumroad.com/l/SuperFastRender
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Either uses preset render settings optimised to speed up render times or Uses a benchmark to detect the fastest settings for the same render quality
+    description: Either uses preset render settings optimised to speed up render times or Uses a benchmark to detect the fastest settings for the same render quality.
     entry_type: plugin
     license: Paid
     readme_tags:
       - Blender
       - Render
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
