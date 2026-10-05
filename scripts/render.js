@@ -473,16 +473,10 @@ function renderSection(section, sectionFile) {
 }
 
 function buildAwesomeList() {
-  const dir = path.join(__dirname, '..', '_maintenance', 'awesome-mining');
-  if (!fs.existsSync(dir)) return [];
-  const files = fs.readdirSync(dir).filter(f => f.endsWith('.md')).sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
-  return files.map(f => {
-    const name = f.replace(/\.md$/, '');
-    const i = name.indexOf('_');
-    const owner = name.slice(0, i);
-    const repo = name.slice(i + 1);
-    return `- [${owner}/${repo}](https://github.com/${owner}/${repo})`;
-  });
+  return catalog.loadAwesomeSources()
+    .slice()
+    .sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }))
+    .map(slug => `- [${slug}](https://github.com/${slug})`);
 }
 
 function footer() {
