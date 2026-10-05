@@ -9,7 +9,7 @@ entries:
       - Official Docs
       - Reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

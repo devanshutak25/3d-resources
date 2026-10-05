@@ -259,7 +259,7 @@ entries:
       platform:
         - web
   - name: Animatable
-    url: https://discord.gg/tZ6yUZGERN
+    url: https://discord.com/invite/tZ6yUZGERN
     added_at: '2026-05-11T17:49:13.000Z'
     description: AE animation Discord. Narrative, illustrative, character-based animation community.
     entry_type: community
@@ -268,7 +268,7 @@ entries:
       - Animation
       - AE
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -307,7 +307,7 @@ entries:
       platform:
         - web
   - name: Animator Guild (Howard Wimshurst)
-    url: https://discord.gg/awRD6FT
+    url: https://discord.com/invite/awRD6FT
     added_at: '2026-05-11T17:49:13.000Z'
     description: Howard Wimshurst's animator community Discord. Supports up-and-coming animators with critique and contests.
     entry_type: community
@@ -316,7 +316,7 @@ entries:
       - Animation
       - Discord
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -438,14 +438,15 @@ entries:
       - Artists
       - Bluesky
     url_last_verified: '2026-10-01'
-    url_status: broken
+    url_status: ok
+    notes: bsky.app is a JS app; link checker sees false 404. Profile verified via Bluesky API. Do not auto-deprecate.
     tags:
       output:
         - illustration
       platform:
         - web
   - name: LightBox Expo Discord
-    url: https://discord.gg/lightboxexpo
+    url: https://discord.com/invite/lightboxexpo
     added_at: '2026-05-11T17:49:13.000Z'
     description: Official LightBox Expo Discord (10K+). 8 halls covering illustration, concept art, storyboarding.
     entry_type: community
@@ -454,7 +455,7 @@ entries:
       - Illustration
       - Concept Art
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - concept
@@ -495,7 +496,7 @@ entries:
       platform:
         - web
   - name: Learn Arch Viz Forum
-    url: https://www.learnarchviz.com/learn-arch-viz-forum
+    url: https://www.learnarchviz.com/groups
     added_at: '2026-05-11T17:49:13.000Z'
     description: Course-tied ArchViz forum organized by software with gallery and PRO course categories.
     entry_type: community
@@ -504,14 +505,14 @@ entries:
       - ArchViz
       - Courses
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - archviz
       platform:
         - web
   - name: CGconnect (CGarchitect)
-    url: https://www.cgarchitect.com/
+    url: https://cgconnect.chaos.com/
     added_at: '2026-05-11T17:49:13.000Z'
     description: ArchViz industry hub. Community forums, news, and feedback for architectural visualization pros.
     entry_type: community
@@ -520,7 +521,7 @@ entries:
       - ArchViz
       - Industry
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - archviz
@@ -592,7 +593,7 @@ entries:
       - Design
       - Community
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web

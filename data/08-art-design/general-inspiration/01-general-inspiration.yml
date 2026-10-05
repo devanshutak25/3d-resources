@@ -1,6 +1,6 @@
 entries:
   - name: H.R. Giger (Artnet)
-    url: http://www.artnet.com/artists/hans-rudolf-giger/
+    url: https://www.artnet.com/artists/hans-rudolf-giger/
     added_at: '2026-04-16T19:59:30.000Z'
     description: H.R. Giger gallery archive.
     entry_type: inspiration
@@ -52,7 +52,7 @@ entries:
       platform:
         - web
   - name: Mech Blog
-    url: http://mechblog.tumblr.com/
+    url: https://mechblog.tumblr.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Mecha design inspiration.
     entry_type: inspiration
@@ -70,9 +70,9 @@ entries:
       platform:
         - web
   - name: The Black Workshop
-    url: http://theblackworkshop.tumblr.com/
+    url: https://theblackworkshop.tumblr.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Design inspiration blog.
+    description: Tumblr blog posting design and visual inspiration.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -104,9 +104,9 @@ entries:
       platform:
         - web
   - name: OTAKU GANGSTA
-    url: http://otakugangsta.com/
+    url: https://otakugangsta.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Anime/otaku visual blog.
+    description: Blog featuring anime and otaku-related visual art.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -122,25 +122,25 @@ entries:
       platform:
         - web
   - name: Mr Cup
-    url: http://www.mr-cup.com/blog.html
+    url: https://www.mr-cup.com/blog.html
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Graphic design blog.
+    description: Graphic design inspiration blog by Fabien Barral.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Graphic Design
       - Blog
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - concept
       platform:
         - web
   - name: DETHJUNKIE
-    url: http://www.dethjunkie.com/
+    url: https://www.dethjunkie.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Dark creative blog.
+    description: Blog posting dark-themed creative and visual art.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -188,7 +188,7 @@ entries:
   - name: Designspiration
     url: https://designspiration.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Design inspiration feed.
+    description: Site for discovering and saving design inspiration images.
     entry_type: inspiration
     license: Freemium
     readme_tags:
@@ -204,7 +204,7 @@ entries:
   - name: Muddycolors
     url: https://www.muddycolors.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pro illustrator blog.
+    description: Blog run by professional illustrators sharing art process and advice.
     entry_type: channel
     license: Free
     readme_tags:
@@ -287,7 +287,7 @@ entries:
       platform:
         - web
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: FX References (Sylvain Nouveau)
     url: http://www.sylvain-nouveau.com/reffx/misc/
     added_at: '2026-06-17T07:16:34.000Z'
@@ -305,7 +305,8 @@ entries:
       platform:
         - web
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
   - name: mr5ivethou5and
     url: https://mr5ivethou5and.tumblr.com/archive
     added_at: '2026-06-17T07:16:34.000Z'
@@ -460,7 +461,7 @@ entries:
     readme_tags:
       - Web Design
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: The Brand Identity
     url: https://the-brandidentity.com/
     added_at: '2026-06-21T19:32:23.000Z'
@@ -505,7 +506,7 @@ entries:
     readme_tags:
       - Decks
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Inspora
     url: https://www.inspora.design/
     added_at: '2026-08-31T17:04:12.000Z'

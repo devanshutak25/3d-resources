@@ -54,6 +54,8 @@ entries:
       tech:
         - ai-generative
         - blender-addon
+      workflow:
+        - modeling
   - name: Point-E (OpenAI)
     url: https://github.com/openai/point-e
     added_at: '2026-04-19T17:29:43.000Z'

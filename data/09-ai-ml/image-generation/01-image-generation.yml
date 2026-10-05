@@ -1,12 +1,12 @@
 entries:
   - name: RenderNet
-    url: https://rendernet.ai/
+    url: https://affogato.ai/
     added_at: '2026-04-19T17:15:03.000Z'
     description: AI tool for generating images and videos with control over character design, composition, and style.
     entry_type: tool
     license: Freemium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - concept
@@ -45,13 +45,13 @@ entries:
       tech:
         - ai-generative
   - name: Stable Diffusion Frivolous
-    url: http://www.stablediffusionfrivolous.com/
+    url: https://www.stablediffusionfrivolous.com/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Community response to the Stable Diffusion litigation.
     license: Free
     entry_type: community
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       platform:
         - web
@@ -73,4 +73,5 @@ entries:
     readme_tags:
       - AI Image
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true

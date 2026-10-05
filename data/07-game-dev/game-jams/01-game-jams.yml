@@ -15,11 +15,10 @@ entries:
         - games
       platform:
         - web
-    deprecated: true
   - name: GMTK Game Jam
     url: https://itch.io/jam/gmtk-2025
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Largest jam by entries.
+    description: Game Maker's Toolkit annual game jam on itch.io, one of the largest by entries.
     entry_type: community
     license: Free
     readme_tags:
@@ -35,7 +34,7 @@ entries:
   - name: itch.io Jams
     url: https://itch.io/jams
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Hundreds of active jams.
+    description: itch.io listing of upcoming and ongoing game jams.
     entry_type: community
     license: Free
     readme_tags:
@@ -67,7 +66,7 @@ entries:
   - name: Brackeys Game Jam
     url: https://itch.io/jam/brackeys
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Beginner-friendly jam.
+    description: Brackeys community game jam on itch.io, open to beginners.
     entry_type: community
     license: Free
     tags:

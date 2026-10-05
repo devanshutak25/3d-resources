@@ -343,7 +343,7 @@ entries:
       - opensource-alt
     stale: true
     last_pushed: '2021-06-10'
-  - name: ThreeDScans
+  - name: ThreeDScans (Unity samples)
     url: https://github.com/keijiro/ThreeDScans
     added_at: '2026-04-19T17:29:43.000Z'
     description: Scanned statue models from the Three D Scans project, optimized for real-time use.
@@ -404,6 +404,9 @@ entries:
         - advanced
       tech:
         - opensource-alt
+      workflow:
+        - rendering
+        - creative-coding
     readme_tags:
       - opensource-alt
     stale: true
@@ -904,6 +907,8 @@ entries:
         - advanced
       tech:
         - xr
+      workflow:
+        - animation
   - name: Game View Maximizer
     url: https://github.com/tomori-hikage/game-view-maximizer
     added_at: '2026-04-19T17:29:43.000Z'

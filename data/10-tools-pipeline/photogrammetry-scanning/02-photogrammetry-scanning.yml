@@ -2,7 +2,7 @@ entries:
   - name: Gaussian Splatting Lightning
     url: https://github.com/yzslab/gaussian-splatting-lightning
     added_at: '2026-04-19T17:29:43.000Z'
-    description: A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer
+    description: A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -26,7 +26,7 @@ entries:
   - name: 360 Gaussian Splatting
     url: https://github.com/inuex35/360-gaussian-splatting
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Generate gaussian splatting directly from 360 images
+    description: Generate gaussian splatting directly from 360 images.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -117,7 +117,7 @@ entries:
   - name: Neural Rendering (YouTube)
     url: https://www.youtube.com/@NeuralRendering
     added_at: '2026-04-19T19:05:38.000Z'
-    description: Ben Mildenhall
+    description: YouTube channel run by Ben Mildenhall with talks and videos on NeRF and neural rendering research.
     entry_type: channel
     url_last_verified: '2026-10-01'
     url_status: ok

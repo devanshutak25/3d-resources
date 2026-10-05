@@ -14,6 +14,8 @@ entries:
       tech:
         - ai-generative
         - usd
+      platform:
+        - web
     readme_tags:
       - Auto CG Chars
       - USD Export
@@ -31,6 +33,9 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - win
+        - mac
     readme_tags:
       - Upscale
       - Denoise
@@ -48,6 +53,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Creative Upscale
       - Freepik
@@ -67,6 +74,8 @@ entries:
         - lighting
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - AI Skybox
       - 360°
@@ -81,7 +90,9 @@ entries:
     license: Paid
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Unity Muse retired; page redirects to Unity AI.
+    deprecated: true
     tags:
       tech:
         - ai-generative
@@ -93,7 +104,7 @@ entries:
   - name: Rosebud AI
     url: https://rosebud.ai
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Vibe coding platform for creating 3D games and interactive web apps with AI.
+    description: Prompt-to-game builder for playable 2D and 3D browser games with editable code.
     license: Freemium
     entry_type: software
     url_last_verified: '2026-10-01'
@@ -101,23 +112,29 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - AI Game Builder
       - Vibe Coding
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
+      - software-reference/ai-canvas-software
   - name: Gigapixel AI
-    url: https://topazlabs.com/gigapixel-ai/
+    url: https://www.topazlabs.com/topaz-gigapixel
     added_at: '2026-04-19T17:15:03.000Z'
     description: AI photo enlargement that adds detail to upscaled images.
     entry_type: software
     license: Paid
     best_for: Detail-preserving upscaling
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
+      platform:
+        - win
+        - mac
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Upscayl
@@ -160,3 +177,29 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
+  - name: MCP for Blender
+    url: https://github.com/ahujasid/mcp-for-blender
+    description: 'MCP server that lets Claude and other LLM clients control Blender: build scenes, edit objects, run Python.'
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-generative
+        - blender-addon
+    dual_listed_in:
+      - ai-ml-for-cg/ai-assisted-cg-tools
+    added_at: '2026-10-05T08:51:07.021Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - MCP
+    best_for: LLM control of Blender

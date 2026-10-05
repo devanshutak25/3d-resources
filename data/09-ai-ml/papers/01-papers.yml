@@ -2,7 +2,7 @@ entries:
   - name: 'From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach'
     url: https://arxiv.org/abs/2412.11892
     added_at: '2026-04-19T17:15:03.000Z'
-    description: AAAI 2025 | [[project](https://manycore-research.github.io/CAD2Program/)]
+    description: Wang et al., AAAI 2025. CAD2Program reconstructs 3D parametric models from 2D CAD drawings with a vision-language model.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -15,6 +15,8 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2025
   - name: Gemini Robotics 1.5
     url: https://arxiv.org/abs/2510.03342
@@ -36,7 +38,7 @@ entries:
   - name: Taming Mode Collapse in Score Distillation for Text-to-3D Generation
     url: https://arxiv.org/abs/2401.00909
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://vita-group.github.io/3D-Mode-Collapse/) | [💻 Code](https://github.com/VITA-Group/3D-Mode-Collapse)'
+    description: Wang et al., arXiv 2023. Reduces multi-face Janus artifacts in score distillation text-to-3D generation.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -49,15 +51,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: 'En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data'
-    url: http://arxiv.org/abs/2401.01173
+    url: https://arxiv.org/abs/2401.01173
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://menyifang.github.io/projects/En3D/index.html) | [💻 Code](https://github.com/menyifang/En3D)'
+    description: Men et al., CVPR 2024. En3D generates realistic 3D human avatars from synthetic 2D data.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -66,11 +70,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: 'Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting'
     url: https://arxiv.org/abs/2401.01339
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://zju3dv.github.io/street_gaussians/) | [💻 Code](https://github.com/zju3dv/street_gaussians)'
+    description: Yan et al., ECCV 2024. Street Gaussians models dynamic urban driving scenes with Gaussian splatting.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -83,11 +89,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2024
   - name: 'SIGNeRF: Scene Integrated Generation for Neural Radiance Fields'
     url: https://arxiv.org/abs/2401.01647
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://signerf.jdihlmann.com/) | [💻 Code](https://github.com/cgtuebingen/SIGNeRF)'
+    description: Dihlmann et al., CVPR 2024. SIGNeRF generates and edits objects inside existing NeRF scenes.
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -100,11 +108,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: 'Image Sculpting: Precise Object Editing with 3D Geometry Control'
     url: https://arxiv.org/abs/2401.01702
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://image-sculpting.github.io/) | [💻 Code](https://github.com/vision-x-nyu/image-sculpting)'
+    description: Yenphraphai et al., CVPR 2024. Image Sculpting edits 2D objects by lifting them to 3D geometry.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -121,7 +131,7 @@ entries:
   - name: Learning the 3D Fauna of the Web
     url: https://arxiv.org/abs/2401.02400
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://kyleleey.github.io/3DFauna/) | [💻 Code]()'
+    description: Li et al., CVPR 2024. 3D-Fauna learns a deformable 3D model of 100+ animal species from web images.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -134,11 +144,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: 'GO-NeRF: Generating Objects in Neural Radiance Fields for Virtual Reality Content Creation'
     url: https://arxiv.org/abs/2401.05750
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://daipengwa.github.io/GO-NeRF/)'
+    description: Dai et al., arXiv 2024. GO-NeRF generates 3D objects placed inside existing NeRF scenes for VR content.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -151,11 +163,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: 'TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion'
     url: https://arxiv.org/abs/2401.09416
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://texturedreamer.github.io/)'
+    description: Yeh et al., CVPR 2024. TextureDreamer transfers relightable textures from 3 to 5 photos onto 3D shapes.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -168,11 +182,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - texturing
     year: 2024
   - name: 'EndoGaussian: Real-time Gaussian Splatting for Dynamic Endoscopic Scene Reconstruction'
     url: https://arxiv.org/abs/2401.12561
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://yifliu3.github.io/EndoGaussian/) | [💻 Code](https://github.com/yifliu3/EndoGaussian)'
+    description: Liu et al., arXiv 2024. EndoGaussian reconstructs dynamic endoscopic surgical scenes in real time with Gaussian splatting.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -185,11 +201,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2024
   - name: 'PSAvatar: A Point-based Shape Model for Real-Time Head Avatar Animation with 3D Gaussian Splatting'
     url: https://arxiv.org/abs/2401.12900
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[💻 Code](https://github.com/pcl3dv/PSAvatar)'
+    description: Zhao et al., arXiv 2024. PSAvatar animates real-time head avatars with a point-based model and 3D Gaussians.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -202,11 +220,14 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - face-capture
+        - animation
     year: 2024
   - name: 'ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields'
     url: https://arxiv.org/abs/2402.00864v1
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[💻 Code](https://github.com/Dongjiahua/VICA-NeRF)'
+    description: Dong et al., NeurIPS 2023. ViCA-NeRF edits NeRF scenes from text instructions with multi-view consistency.
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -219,11 +240,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: 'Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos'
     url: https://arxiv.org/abs/2402.03723
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](http://shahrukhathar.github.io/2024/02/05/Rig3DGS.html)'
+    description: Rivero et al., arXiv 2024. Rig3DGS builds controllable 3D Gaussian portraits from casual phone videos.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -236,11 +259,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - face-capture
     year: 2024
   - name: 'GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting'
     url: https://arxiv.org/abs/2402.07207
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://gala3d.github.io) | [💻 Code](https://github.com/VDIGPKU/GALA3D)'
+    description: Zhou et al., ICML 2024. GALA3D generates complex text-to-3D scenes from LLM layouts with Gaussian splatting.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -253,11 +278,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: 'GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting'
     url: https://arxiv.org/abs/2402.10259
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://gaussianobject.github.io) | [💻 Code](https://github.com/GaussianObject/GaussianObject)'
+    description: Yang et al., SIGGRAPH Asia 2024. GaussianObject reconstructs 3D objects from four views with Gaussian splatting.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -270,11 +297,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: Consolidating Attention Features for Multi-view Image Editing
     url: https://arxiv.org/abs/2402.14792
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://qnerf-consolidation.github.io/qnerf-consolidation/)'
+    description: Patashnik et al., SIGGRAPH 2024. Keeps diffusion image edits consistent across multi-view images of a scene.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -289,13 +318,13 @@ entries:
         - advanced
     year: 2024
   - name: 'Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving'
-    url: https://arxiv.org/pdf/2403.05907v1.pdf
+    url: https://arxiv.org/pdf/2403.05907v1
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF)
+    description: Cao et al., ICRA 2024. Lightning NeRF is a hybrid scene representation for fast NeRF training in driving scenes.
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -304,11 +333,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2024
   - name: 'NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields'
     url: https://arxiv.org/pdf/2404.01300
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Irshad et al., ECCV 2024
+    description: Irshad et al., ECCV 2024. NeRF-MAE pretrains masked autoencoders on NeRF grids for 3D representation learning.
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -325,7 +356,7 @@ entries:
   - name: 'Text2CAD: Text to 3D CAD Generation via Technical Drawings'
     url: https://arxiv.org/abs/2411.06206
     added_at: '2026-04-19T17:15:03.000Z'
-    description: NeurIPS 2024 | [[project](https://sadilkhan.github.io/text2cad-project/)]
+    description: Yavartanoo et al., arXiv 2024. Text2CAD generates 3D CAD models from text by first producing technical drawings.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -338,11 +369,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: Text-To-4D Dynamic Scene Generation
     url: https://arxiv.org/abs/2301.11280
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://make-a-video3d.github.io)'
+    description: Singer et al., ICML 2023. MAV3D generates dynamic 3D scenes from text with a 4D NeRF and text-to-video diffusion.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -355,15 +388,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - animation
     year: 2023
   - name: 'Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior'
-    url: https://arxiv.org/pdf/2303.14184.pdf
+    url: https://arxiv.org/pdf/2303.14184
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://make-it-3d.github.io) | [💻 Code](https://github.com/junshutang/Make-It-3D)'
+    description: Tang et al., ICCV 2023. Make-It-3D creates textured 3D objects from a single image using a 2D diffusion prior.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -372,11 +407,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'DreamWaltz: Make a Scene with Complex 3D Animatable Avatars'
     url: https://arxiv.org/abs/2305.12529
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://dreamwaltz3d.github.io/) | [💻 Code](https://github.com/IDEA-Research/DreamWaltz)'
+    description: Huang et al., NeurIPS 2023. DreamWaltz generates animatable 3D avatars from text with a human body prior.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -389,11 +426,14 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
+        - animation
     year: 2023
   - name: 'DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation'
     url: https://arxiv.org/abs/2309.16653
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://dreamgaussian.github.io/) | [💻 Code](https://github.com/dreamgaussian/dreamgaussian)'
+    description: Tang et al., ICLR 2024. DreamGaussian generates textured 3D meshes from text or images in minutes with Gaussian splatting.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -406,11 +446,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields'
     url: https://arxiv.org/abs/2309.17175
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://tyhuang0428.github.io/textfield3d.html)'
+    description: Huang et al., ICLR 2024. TextField3D adds noisy text fields for open-vocabulary 3D generation.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -423,11 +465,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: TOSS:High-quality Text-guided Novel View Synthesis from a Single Image
     url: https://arxiv.org/abs/2310.10644
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://toss3d.github.io/)'
+    description: Shi et al., arXiv 2023. TOSS adds text guidance to novel view synthesis from a single image.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -440,15 +484,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts'
-    url: https://arxiv.org/pdf/2310.11784.pdf
+    url: https://arxiv.org/pdf/2310.11784
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://cxh0519.github.io/projects/Progressive3D/) | [💻 Code](https://github.com/cxh0519/Progressive3D)'
+    description: Cheng et al., ICLR 2024. Progressive3D edits text-to-3D content region by region for complex prompts.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -457,15 +503,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'Wonder3D: Single Image to 3D using Cross-Domain Diffusion'
-    url: https://arxiv.org/pdf/2310.15008.pdf
+    url: https://arxiv.org/pdf/2310.15008
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://www.xxlong.site/Wonder3D/) | [💻 Code](https://github.com/xxlong0/Wonder3D)'
+    description: Long et al., CVPR 2024. Wonder3D generates textured meshes from a single image with cross-domain diffusion.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -474,11 +522,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model'
     url: https://arxiv.org/abs/2310.15110
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://zero123.cs.columbia.edu/) | [💻 Code](https://github.com/SUDO-AI-3D/zero123plus) | [🤗 Hugging Face](https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space)'
+    description: Shi et al., arXiv 2023. Zero123++ generates consistent multi-view images from one input image for 3D creation.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -491,11 +541,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior'
     url: https://arxiv.org/abs/2310.16818
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://mrtornado24.github.io/DreamCraft3D/) | [💻 Code](https://github.com/deepseek-ai/DreamCraft3D)'
+    description: Sun et al., ICLR 2024. DreamCraft3D generates 3D objects from a reference image with bootstrapped diffusion.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -508,15 +560,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion'
-    url: https://arxiv.org/pdf/2311.07885.pdf
+    url: https://arxiv.org/pdf/2311.07885
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://sudo-ai-3d.github.io/One2345plus_page/) | [💻 Code](https://github.com/SUDO-AI-3D/One2345plus)'
+    description: Liu et al., CVPR 2024. One-2-3-45++ turns a single image into a textured 3D mesh in about a minute.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -525,15 +579,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'Instant3D: Instant Text-to-3D Generation'
-    url: https://arxiv.org/pdf/2311.08403.pdf
+    url: https://arxiv.org/pdf/2311.08403
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://ming1993li.github.io/Instant3DProj/) | [💻 Code](https://github.com/ming1993li/Instant3DCodes)'
+    description: Li et al., arXiv 2023. Instant3D generates 3D objects from text in one feed-forward pass, without per-prompt optimization.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -542,11 +598,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model'
     url: https://arxiv.org/abs/2311.09217
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://justimyhxu.github.io/projects/dmv3d/)'
+    description: Xu et al., ICLR 2024. DMV3D denoises multi-view diffusion with a transformer 3D reconstruction model.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -559,11 +617,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D'
     url: https://arxiv.org/abs/2311.16918
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://aigc3d.github.io/richdreamer/) | [💻 Code](https://github.com/modelscope/richdreamer)'
+    description: Qiu et al., CVPR 2024. RichDreamer uses a normal-depth diffusion model for detailed text-to-3D.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -576,15 +636,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians'
-    url: http://arxiv.org/abs/2312.02069
+    url: https://arxiv.org/abs/2312.02069
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://shenhanqian.github.io/gaussian-avatars)'
+    description: Qian et al., CVPR 2024. GaussianAvatars builds photoreal head avatars from 3D Gaussians rigged to a face model.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -593,11 +655,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - face-capture
     year: 2023
   - name: 'MinD-3D: Reconstruct High-quality 3D objects in Human Brain'
     url: https://arxiv.org/abs/2312.07485
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://jianxgao.github.io/MinD-3D/) | [💻 Code](https://github.com/JianxGao/MinD-3D)'
+    description: Gao et al., ECCV 2024. MinD-3D reconstructs 3D objects from fMRI brain signals.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -612,26 +676,9 @@ entries:
         - advanced
     year: 2023
   - name: 'SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance'
-    url: https://arxiv.org/pdf/2312.08889.pdf
+    url: https://arxiv.org/pdf/2312.08889
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://seeavatar3d.github.io/)'
-    entry_type: paper
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: redirect
-    tags:
-      tech:
-        - ai-generative
-        - paper
-      platform:
-        - web
-      skill:
-        - advanced
-    year: 2023
-  - name: 'Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers'
-    url: https://arxiv.org/abs/2312.09147
-    added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://zouzx.github.io/TriplaneGaussian/)'
+    description: Xu et al., arXiv 2023. SEEAvatar generates photoreal 3D avatars from text with constrained geometry and appearance.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -644,11 +691,32 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
+    year: 2023
+  - name: 'Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers'
+    url: https://arxiv.org/abs/2312.09147
+    added_at: '2026-04-19T17:29:43.000Z'
+    description: Zou et al., CVPR 2024. Reconstructs 3D Gaussians from a single image with a triplane transformer.
+    entry_type: paper
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      tech:
+        - ai-generative
+        - paper
+      platform:
+        - web
+      skill:
+        - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'M3DBench: Let''s Instruct Large Models with Multi-modal 3D Prompts'
     url: https://arxiv.org/abs/2312.10763
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://m3dbench.github.io/) | [💻 Code](https://github.com/OpenM3D/M3DBench)'
+    description: Li et al., arXiv 2023. M3DBench is a benchmark for instructing large models with multi-modal 3D prompts.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -665,7 +733,7 @@ entries:
   - name: 'Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models'
     url: https://arxiv.org/abs/2312.13763
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)'
+    description: Ling et al., CVPR 2024. Align Your Gaussians generates animated 4D objects from text with dynamic 3D Gaussians.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -678,15 +746,18 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - animation
+        - modeling
     year: 2023
   - name: 'Make-A-Character: High Quality Text-to-3D Character Generation within Minutes'
-    url: https://arxiv.org/pdf/2312.15430.pdf
+    url: https://arxiv.org/pdf/2312.15430
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://human3daigc.github.io/MACH/) | [💻 Code](https://github.com/Human3DAIGC/Make-A-Character)'
+    description: Ren et al., arXiv 2023. Make-A-Character creates lifelike 3D character avatars from text descriptions.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -695,11 +766,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'DreamGaussian4D: Generative 4D Gaussian Splatting'
     url: https://arxiv.org/abs/2312.17142
     added_at: '2026-04-19T17:29:43.000Z'
-    description: '[🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/) | [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d)'
+    description: Ren et al., arXiv 2023. DreamGaussian4D generates animated 4D content quickly with Gaussian splatting.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -712,11 +785,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - animation
     year: 2023
   - name: 'BeyondPixels: A Review of the Evolution of Neural Radiance Fields'
     url: https://arxiv.org/abs/2306.03000
     added_at: '2026-04-19T17:29:43.000Z'
-    description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023
+    description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -733,7 +808,7 @@ entries:
   - name: 'CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation'
     url: https://arxiv.org/abs/2303.04869
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Moreau et al., ICCV 2023
+    description: Moreau et al., ICCV 2023. CROSSFIRE relocalizes a camera in real time using a NeRF as the scene map.
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -750,7 +825,7 @@ entries:
   - name: Local 3D Editing via 3D Distillation of CLIP Knowledge
     url: https://arxiv.org/abs/2306.12570
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io)
+    description: Hyung et al., CVPR 2023. Edits local regions of 3D-aware GAN outputs by distilling CLIP knowledge.
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -763,11 +838,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes'
     url: https://arxiv.org/abs/2308.12967
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360)
+    description: Irshad et al., ICCV 2023. NeO 360 synthesizes novel views of outdoor scenes from a few input images.
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -780,11 +857,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023
   - name: 'PlankAssembly: 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs'
     url: https://arxiv.org/abs/2308.05744
     added_at: '2026-04-19T17:15:03.000Z'
-    description: ICCV 2023 | [[project](https://manycore-research.github.io/PlankAssembly/)] [[code](https://github.com/manycore-research/PlankAssembly/)]
+    description: Hu et al., ICCV 2023. PlankAssembly turns three orthographic line drawings into 3D CAD models.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -797,11 +876,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: 'PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm'
     url: https://arxiv.org/abs/2310.08586
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Zhu et al., Arxiv 2023 | [github](https://github.com/OpenGVLab/PonderV2)
+    description: Zhu et al., arXiv 2023. PonderV2 is a universal pretraining method for 3D foundation models.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -818,7 +899,7 @@ entries:
   - name: 'SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes'
     url: https://arxiv.org/abs/2304.08971
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Gao et al., CVPR 2023 | [github](https://gymat.github.io/SurfelNeRF-web/)
+    description: Gao et al., CVPR 2023. SurfelNeRF reconstructs and renders indoor scenes online with neural surfels.
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -831,11 +912,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023
   - name: 'X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360° Insufficient RGB-D Views'
     url: https://arxiv.org/abs/2210.05135
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Zhu et al., WACV 2023 | [github](https://github.com/HaoyiZhu/XNeRF)
+    description: Zhu et al., WACV 2023. Explicit radiance field that reconstructs multiple 360-degree scenes from sparse, insufficient RGB-D views.
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -848,4 +931,6 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023

@@ -2,7 +2,7 @@ entries:
   - name: Toros Kose (Behance)
     url: https://www.behance.net/toroskose
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D artist portfolio.
+    description: Behance portfolio of 3D artist Toros Kose.
     entry_type: inspiration
     readme_tags:
       - Behance
@@ -17,7 +17,7 @@ entries:
   - name: Strange Attractors
     url: http://www.3d-meier.de/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Mathematical 3D forms.
+    description: Site cataloguing strange attractors and other mathematical 3D forms with formulas and renders.
     entry_type: inspiration
     readme_tags:
       - Math 3D
@@ -30,14 +30,14 @@ entries:
       platform:
         - web
   - name: autodestruct.com
-    url: http://www.autodestruct.com/
+    url: https://www.autodestruct.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Concept art.
+    description: Portfolio of concept artist Paul Richards with video game concept art, sketches and design lectures.
     entry_type: inspiration
     readme_tags:
       - Concept Art
       - Portfolio
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -47,7 +47,7 @@ entries:
   - name: Disney Research
     url: https://www.disneyresearch.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Research publications.
+    description: Research lab site listing Disney Research publications in graphics, animation, vision and robotics.
     entry_type: reference
     readme_tags:
       - Research
@@ -58,14 +58,14 @@ entries:
       platform:
         - web
   - name: Linkage Mechanisms
-    url: http://blog.rectorsquid.com/sample-linkage-mechanisms-2/
+    url: https://blog.rectorsquid.com/sample-linkage-mechanisms-2/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Mechanical animations.
+    description: Sample mechanisms for the free Linkage simulator, each with a downloadable file and video demo.
     entry_type: reference
     readme_tags:
       - Mechanics
       - Animation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       platform:
@@ -73,7 +73,7 @@ entries:
   - name: Level Sets in Production (Sony)
     url: https://www.imageworks.com/sites/default/files/2023-10/levelsets-in-production-spider-man3.pdf
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Spider-Man 3 VFX paper.
+    description: Sony Imageworks paper on how level sets were used for fluid and sand VFX in Spider-Man 3.
     entry_type: reference
     readme_tags:
       - Paper
@@ -88,13 +88,13 @@ entries:
   - name: cifraworld (Instagram)
     url: https://www.instagram.com/cifraworld/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D motion art.
+    description: Instagram account sharing 3D motion art and abstract animations.
     entry_type: inspiration
     readme_tags:
       - Instagram
       - Motion Art
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -103,7 +103,7 @@ entries:
   - name: Ben Watts (Vimeo)
     url: https://vimeo.com/bwdesign
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design.
+    description: Vimeo channel of motion designer Ben Watts with his motion design work.
     entry_type: inspiration
     readme_tags:
       - Vimeo
@@ -116,15 +116,15 @@ entries:
       platform:
         - web
   - name: Nick Taylor (MVSM)
-    url: http://nicholas-taylor.com/
+    url: https://nicholas-taylor.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Project breakdowns.
+    description: Portfolio of technical director and motion designer Nick Taylor with project write-ups, open-source tools and a blog.
     entry_type: channel
     readme_tags:
       - Breakdowns
       - ManVsMachine
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -133,7 +133,7 @@ entries:
   - name: Cornelius Dammrich
     url: https://corneliusdammrich.gumroad.com
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Sci-fi environments.
+    description: Gumroad store of digital artist Cornelius Dammrich, known for detailed sci-fi environment renders.
     entry_type: inspiration
     license: Paid
     readme_tags:
@@ -155,7 +155,8 @@ entries:
       - VFX
       - Reference
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
     tags:
       output:
         - film-vfx
@@ -220,7 +221,7 @@ entries:
       platform:
         - web
   - name: The Pixel Factory
-    url: http://acko.net/files/gltalks/pixelfactory/online.html
+    url: https://acko.net/files/gltalks/pixelfactory/online.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: Talk about WebGL, GPUs and Math by Steven Wittens.
     entry_type: reference
@@ -228,12 +229,12 @@ entries:
       - WebGL
       - Talk
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
   - name: 3D Maths Cheat Sheet
-    url: http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf
+    url: https://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf
     added_at: '2026-04-19T17:29:43.000Z'
     description: Math cheatsheet by Anton Gerdelan, from his OpenGL book.
     entry_type: reference
@@ -241,12 +242,12 @@ entries:
       - Math
       - Cheatsheet
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
   - name: Writing a small software renderer
-    url: http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html
+    url: https://blog.simonrodriguez.fr/articles/2017/02/writing_a_small_software_renderer.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: Introduction to how basic software rendering works.
     entry_type: reference
@@ -254,12 +255,12 @@ entries:
       - Rendering
       - Tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
   - name: 'Gene Kogan: Perlin Noise'
-    url: http://genekogan.com/code/p5js-perlin-noise/
+    url: https://genekogan.com/code/p5js-perlin-noise/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Introduction to 2D and 3D perlin noise.
     entry_type: reference
@@ -267,7 +268,7 @@ entries:
       - Perlin Noise
       - Tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -298,7 +299,7 @@ entries:
       platform:
         - web
   - name: Introduction to Ray Tracing
-    url: http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
+    url: https://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
     added_at: '2026-04-19T17:29:43.000Z'
     description: A simple method for creating 3D images.
     entry_type: reference
@@ -306,7 +307,7 @@ entries:
       - Ray Tracing
       - SDF
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -320,7 +321,7 @@ entries:
       - Book
       - HTML5
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -334,7 +335,7 @@ entries:
       - Book
       - Physics
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -354,7 +355,7 @@ entries:
   - name: Mathematics of Animation
     url: https://winkervsbecks.github.io/mathematics-of-animation/#/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
+    description: Slides about the mathematics of animation (repo).
     entry_type: reference
     readme_tags:
       - Math
@@ -383,7 +384,7 @@ entries:
   - name: Retro Slide Puzzle (Winner - Animation/Design)
     url: https://devpost.com/software/retro-slide-puzzle
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Retro Slide Puzzle (Winner - Animation/Design).
+    description: 'Flutter Puzzle Hack winner for animation and design: a retro-styled sliding tile puzzle built with Flutter and Rive.'
     entry_type: inspiration
     license: Free
     url_last_verified: '2026-10-01'
@@ -398,7 +399,7 @@ entries:
   - name: Dash Slide Puzzle (Runner Up - Animation/Design)
     url: https://devpost.com/software/dash-slide-puzzle
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Dash Slide Puzzle (Runner Up - Animation/Design).
+    description: 'Flutter Puzzle Hack runner-up for animation and design: a slide puzzle race against an AI bot, built with Flutter and Rive.'
     entry_type: inspiration
     license: Free
     url_last_verified: '2026-10-01'
@@ -413,7 +414,7 @@ entries:
   - name: Island Slide Puzzle (Third Place - Animation/Design)
     url: https://devpost.com/software/beautiful-puzzle
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Island Slide Puzzle (Third Place - Animation/Design).
+    description: 'Flutter Puzzle Hack third place for animation and design: a slide puzzle whose tiles form an animated island scene.'
     entry_type: inspiration
     license: Free
     url_last_verified: '2026-10-01'
@@ -428,7 +429,7 @@ entries:
   - name: Sliding Puzzle 3D (Honorable Mention)
     url: https://devpost.com/software/sliding-puzzle-3d
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Sliding Puzzle 3D (Honorable Mention).
+    description: 'Flutter Puzzle Hack honorable mention: an isometric pseudo-3D sliding puzzle built with Flutter and Rive.'
     entry_type: inspiration
     license: Free
     url_last_verified: '2026-10-01'
@@ -456,7 +457,7 @@ entries:
       platform:
         - web
   - name: Art of Animation
-    url: http://theartofanimation.tumblr.com/
+    url: https://theartofanimation.tumblr.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Curated animation art blog.
     entry_type: inspiration
@@ -481,7 +482,7 @@ entries:
       - Illustration
       - Historical
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     tags:
       workflow:
         - reference
@@ -490,7 +491,7 @@ entries:
       platform:
         - web
   - name: Chrome Experiments
-    url: https://www.chromeexperiments.com/
+    url: https://experiments.withgoogle.com/collection/chrome
     added_at: '2026-04-19T17:29:43.000Z'
     description: Showcase of web experiments written by the creative coding community.
     entry_type: community
@@ -499,7 +500,7 @@ entries:
       - Creative Coding
       - Showcase
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - creative-coding
@@ -514,7 +515,7 @@ entries:
     entry_type: channel
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -523,15 +524,15 @@ entries:
       tech:
         - blender
   - name: Contemporist
-    url: http://www.contemporist.com/
+    url: https://www.contemporist.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Contemporary architecture.
     entry_type: inspiration
     readme_tags:
       - Contemporary Arch
       - Inspiration
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       output:
         - archviz
@@ -565,5 +566,38 @@ entries:
         - generalist
       platform:
         - web
+    url_last_verified: '2026-10-01'
+    url_status: ok
+  - name: Drew Berry (WEHI TV)
+    url: https://www.wehi.edu.au/wehi-tv
+    added_at: '2026-05-22T16:39:01.000Z'
+    description: Drew Berry's reference biomedical animation work at the Walter and Eliza Hall Institute.
+    entry_type: inspiration
+    best_for: Reference molecular animation
+    tags:
+      output:
+        - scientific-viz
+        - medical
+      platform:
+        - web
+    readme_tags:
+      - Molecular Anim
+      - Biomedical
+    url_last_verified: '2026-10-01'
+    url_status: ok
+  - name: Janet Iwasa Animation Lab
+    url: https://animationlab.utah.edu/
+    added_at: '2026-05-22T16:39:01.000Z'
+    description: Univ. of Utah molecular animation lab and outreach.
+    entry_type: inspiration
+    best_for: Molecular animation outreach
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Academic
+      - Outreach
     url_last_verified: '2026-10-01'
     url_status: ok

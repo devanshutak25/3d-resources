@@ -93,7 +93,7 @@ entries:
       platform:
         - web
   - name: BodyVisualizer
-    url: https://bodyvisualizer.com/
+    url: https://me.meshcapade.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: 3D body shape visualizer for proportion reference.
     license: Free
@@ -102,7 +102,7 @@ entries:
       - Body Proportions
       - Interactive
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - reference
@@ -129,7 +129,7 @@ entries:
       skill:
         - beginner
   - name: Proko Free Library
-    url: https://www.proko.com/library/
+    url: https://www.proko.com/browse/lessons
     added_at: '2026-04-16T19:59:30.000Z'
     description: Anatomy, figure drawing, portrait (substantial free tier).
     license: Freemium
@@ -138,7 +138,7 @@ entries:
       - Anatomy
       - Free Tier
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - concept
@@ -175,7 +175,7 @@ entries:
     license: Paid
     entry_type: tool
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - modeling

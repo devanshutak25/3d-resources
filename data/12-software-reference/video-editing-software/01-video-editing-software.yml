@@ -47,7 +47,7 @@ entries:
       - Industry Standard
       - Adobe Suite
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: Final Cut Pro
     url: https://www.apple.com/final-cut-pro/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -73,7 +73,7 @@ entries:
   - name: Kdenlive
     url: https://kdenlive.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free open-source NLE.
+    description: Free open-source video editor (NLE) from KDE with multitrack timeline editing.
     license: Open Source
     entry_type: software
     best_for: Linux/cross-platform editing
@@ -152,6 +152,8 @@ entries:
     tags:
       workflow:
         - editing
+      platform:
+        - web
   - name: Premiere Pro Learn
     url: https://helpx.adobe.com/premiere-pro/tutorials.html
     added_at: '2026-04-16T19:59:30.000Z'
@@ -162,6 +164,8 @@ entries:
     tags:
       workflow:
         - editing
+      platform:
+        - web
   - name: OpenShot
     url: https://github.com/OpenShot/openshot-qt
     added_at: '2026-04-16T21:13:44.000Z'
@@ -197,6 +201,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Capture
       - Open Source
@@ -247,7 +255,7 @@ entries:
       - Windows Pro NLE
       - Track-based
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Vegas Movie Studio
     url: https://www.vegascreativesoftware.com/us/vegas-movie-studio/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -269,9 +277,9 @@ entries:
       - Consumer
       - Windows
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: DaVinci Resolve Studio
-    url: https://www.blackmagicdesign.com/products/davinciresolve
+    url: https://www.blackmagicdesign.com/products/davinciresolve/studio
     added_at: '2026-05-22T16:39:01.000Z'
     description: Paid Resolve with neural engine, advanced noise reduction, HDR grading, and multi-user collaboration.
     pricing: $295 perpetual
@@ -296,7 +304,7 @@ entries:
     readme_tags:
       - Pro Tier
       - One-time Buy
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Lightworks
     url: https://lwks.com/
@@ -342,7 +350,8 @@ entries:
       - Editor + VFX
       - Free Tier
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
   - name: iMovie
     url: https://www.apple.com/imovie/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -365,7 +374,7 @@ entries:
       - Free
       - Apple
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Apple Motion
     url: https://www.apple.com/final-cut-pro/motion/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -388,7 +397,7 @@ entries:
       - FCP Companion
       - Mac
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Apple Compressor
     url: https://www.apple.com/final-cut-pro/compressor/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -408,7 +417,7 @@ entries:
       - FCP Encode
       - Mac
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Premiere Rush
     url: https://www.adobe.com/products/premiere-rush.html
     added_at: '2026-05-22T16:39:01.000Z'
@@ -458,7 +467,7 @@ entries:
       - One-time Buy
       - Consumer
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: CapCut Desktop
     url: https://www.capcut.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -548,7 +557,7 @@ entries:
       - Bundled w/ Windows
       - Browser
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: VSDC Free Video Editor
     url: https://www.videosoftdev.com/free-video-editor
     added_at: '2026-05-22T16:39:01.000Z'
@@ -638,3 +647,24 @@ entries:
       - Utility
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: LosslessCut
+    url: https://losslesscut.app/
+    description: FFmpeg-based app for cutting, merging and remuxing video without re-encoding.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.133Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - FFmpeg
+    best_for: Lossless video trimming

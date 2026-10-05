@@ -100,7 +100,7 @@ entries:
       platform:
         - web
   - name: Think Procedural
-    url: https://discord.gg/b8U5Hdy
+    url: https://discord.com/invite/b8U5Hdy
     added_at: '2026-05-11T17:49:13.000Z'
     description: Houdini community Discord (~9K) bringing Houdini closer to game developers. Fractal challenges, procedural work.
     entry_type: community
@@ -109,7 +109,7 @@ entries:
       - Houdini
       - Gamedev
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -321,7 +321,7 @@ entries:
       platform:
         - web
   - name: Cavalry Community
-    url: https://cavalry.scenegroup.co/support/
+    url: https://cavalry.studio/en/support/
     added_at: '2026-05-11T17:49:13.000Z'
     description: Official community Discord for Cavalry. Procedural 2D motion design app. Support and showcase.
     entry_type: community
@@ -330,7 +330,7 @@ entries:
       - Cavalry
       - Motion Design
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - cavalry
@@ -368,22 +368,6 @@ entries:
     tags:
       output:
         - motion-graphics
-      platform:
-        - web
-  - name: Game Dev League
-    url: https://discord.com/invite/gamedev
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Large gamedev Discord (~133K). Community built by game developers for game developers.
-    entry_type: community
-    license: Free
-    readme_tags:
-      - Gamedev
-      - Discord
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      output:
-        - games
       platform:
         - web
   - name: Game Dev Network
@@ -530,17 +514,17 @@ entries:
         - games
       platform:
         - web
-  - name: Steam Community VR Workshop Item
-    url: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559
+  - name: SteamVR Replacement Models Guide
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=687365559
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Steam Community Workshop submission referenced by the VR/game-dev forum discussions.
-    entry_type: community
+    description: Steam Community guide on adding working replacement models to SteamVR.
+    entry_type: tutorial
     license: Free
     readme_tags:
       - Steam
       - VR
     url_last_verified: '2026-10-01'
-    url_status: broken
+    url_status: ok
     tags:
       output:
         - xr

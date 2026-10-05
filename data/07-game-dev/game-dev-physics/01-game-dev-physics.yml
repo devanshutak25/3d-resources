@@ -131,13 +131,15 @@ entries:
         - physics
         - opensource-alt
         - unreal-plugin
+      workflow:
+        - simulation
   - name: Cannon.js
-    url: http://schteppe.github.io/cannon.js/
+    url: https://schteppe.github.io/cannon.js/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Lightweight and simple 3D physics engine for the web.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

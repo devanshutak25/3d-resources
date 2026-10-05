@@ -74,7 +74,7 @@ entries:
       - Voxel Lib
       - Open Source
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -227,7 +227,7 @@ entries:
   - name: Py3dsMax
     url: https://github.com/blurstudio/Py3dsMax
     added_at: '2026-04-16T21:13:44.000Z'
-    description: 3dsMax API in Python.
+    description: Blur Studio library that exposes the 3ds Max SDK to Python for scripting and pipeline tools.
     license: Open Source
     entry_type: tool
     best_for: 3ds Max Python bindings
@@ -291,7 +291,7 @@ entries:
   - name: Ramses
     url: https://github.com/RxLaboratory/Ramses
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Asset Management System for motion picture production (by [Rainbox Laboratory](https://rainboxlab.org)).
+    description: Asset Management System for motion picture production (by Rainbox Laboratory).
     license: Open Source
     entry_type: tool
     best_for: Studio asset management
@@ -382,7 +382,7 @@ entries:
   - name: MayaCharm
     url: https://github.com/cmcpasserby/MayaCharm
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Run and edit Maya scripts directly from PyCharm
+    description: Run and edit Maya scripts directly from PyCharm.
     license: Open Source
     entry_type: tool
     best_for: Maya scripting in PyCharm
@@ -406,7 +406,7 @@ entries:
   - name: MayaSublime
     url: https://github.com/justinfx/MayaSublime
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Run and edit Maya scripts directly from SublimeText
+    description: Run and edit Maya scripts directly from SublimeText.
     license: Open Source
     entry_type: tool
     best_for: Maya scripting in Sublime
@@ -430,7 +430,7 @@ entries:
   - name: VEX
     url: https://github.com/teared/VEX
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Houdini add-on for Sublime Text
+    description: Houdini add-on for Sublime Text.
     license: Open Source
     entry_type: tool
     best_for: Houdini VEX in Sublime
@@ -452,7 +452,7 @@ entries:
   - name: nuke.vim
     url: https://github.com/heavyimage/nuke.vim
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Run and edit Nuke scripts directly from vim
+    description: Run and edit Nuke scripts directly from vim.
     license: Open Source
     entry_type: tool
     best_for: Nuke scripting in vim

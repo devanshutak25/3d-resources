@@ -1,0 +1,4 @@
+# Normalise to LF in the repo and working tree (Windows dev box has core.autocrlf=true).
+* text=auto eol=lf
+*.png binary
+*.af binary

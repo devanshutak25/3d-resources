@@ -1,0 +1,39 @@
+entries:
+  - name: PyVista
+    url: https://pyvista.org/
+    description: Python interface to VTK for 3D plotting and mesh analysis.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.148Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - VTK
+    best_for: Python 3D plotting
+  - name: VisIt
+    url: https://github.com/visit-dav/visit
+    description: LLNL parallel visualization and analysis tool for large simulation meshes.
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.149Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - HPC
+    best_for: Large simulation visualization

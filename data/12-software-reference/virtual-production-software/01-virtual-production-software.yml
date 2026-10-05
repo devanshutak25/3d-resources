@@ -12,6 +12,8 @@ entries:
         - film-vfx
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - Real-time VFX
       - Broadcast
@@ -32,11 +34,13 @@ entries:
         - broadcast
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - LED Walls
       - Workflow
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - vfx-compositing-virtual-production/virtual-production
   - name: Vizrt
@@ -52,6 +56,8 @@ entries:
         - film-vfx
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - Broadcast
       - Graphics
@@ -72,6 +78,8 @@ entries:
         - broadcast
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - VP Software
       - Real-time
@@ -93,6 +101,8 @@ entries:
         - film-vfx
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - Live Events
       - Real-time
@@ -112,6 +122,9 @@ entries:
         - broadcast
       tech:
         - real-time
+      platform:
+        - win
+        - mac
     readme_tags:
       - Lighting Console
       - Show Control
@@ -189,7 +202,7 @@ entries:
       - Indie VP
       - LED Stages
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Mo-Sys StarTracker
     url: https://mo-sys.com/products/startracker/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -226,28 +239,10 @@ entries:
       - Stype
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: Ncam Reality
-    url: https://www.ncam-tech.com/
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: Markerless on-set camera tracking.
-    license: Paid
-    entry_type: hardware
-    best_for: Markerless camera tracking
-    tags:
-      workflow:
-        - match-move
-      output:
-        - film-vfx
-        - broadcast
-    readme_tags:
-      - Markerless
-      - On-Set
-    url_last_verified: '2026-10-01'
-    url_status: redirect
   - name: ZEISS CinCraft Scenario
     url: https://www.zeiss.com/photonics-and-optics/en/cinematography/cincraft/scenario.html
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Lens-aware camera tracking system for VP.
+    description: Lens-aware markerless camera tracking for virtual production. Formerly Ncam Reality.
     license: Paid
     entry_type: hardware
     best_for: Lens-aware tracking
@@ -274,11 +269,14 @@ entries:
         - previs
       output:
         - film-vfx
+      platform:
+        - ios
+        - ipad
     readme_tags:
       - On-Set Previs
       - Lightcraft
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: Brompton Tessera
     url: https://www.bromptontech.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -325,7 +323,7 @@ entries:
       - LED Panels
       - VP
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Vicon
     url: https://www.vicon.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -339,6 +337,8 @@ entries:
       output:
         - film-vfx
         - games
+      platform:
+        - win
     readme_tags:
       - Optical Mocap
       - Industry Std
@@ -359,13 +359,15 @@ entries:
         - film-vfx
         - games
         - xr
+      platform:
+        - win
     readme_tags:
       - Optical Mocap
       - Motive
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Xsens MVN (Movella)
-    url: https://www.movella.com/products/motion-capture
+    url: https://www.xsens.com/products/motion-capture
     added_at: '2026-05-22T16:39:01.000Z'
     description: IMU-based inertial full-body motion capture suit.
     license: Paid
@@ -377,13 +379,15 @@ entries:
       output:
         - film-vfx
         - games
+      platform:
+        - win
     readme_tags:
       - IMU Suit
       - Movella
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Rokoko Smartsuit Pro
-    url: https://www.rokoko.com/
+    url: https://www.rokoko.com/products/smartsuit-pro
     added_at: '2026-04-16T19:59:30.000Z'
     description: Affordable inertial mocap suit; face/gloves available.
     license: Paid
@@ -395,13 +399,16 @@ entries:
       output:
         - games
         - film-vfx
+      platform:
+        - win
+        - mac
     readme_tags:
       - IMU Suit
       - Affordable
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Sony Mocopi
-    url: https://www.sony.net/Products/mocopi-dev/en/
+    url: https://www.sony.co.jp/en/Products/mocopi-dev/en/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Six-sensor mobile mocap system.
     license: Paid
@@ -413,11 +420,14 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - ios
+        - android
     readme_tags:
       - Mobile Mocap
       - 6-Sensor
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Manus
     url: https://www.manus-meta.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -431,6 +441,8 @@ entries:
       output:
         - film-vfx
         - xr
+      platform:
+        - win
     readme_tags:
       - Mocap Gloves
       - VR
@@ -448,11 +460,13 @@ entries:
         - mocap
       output:
         - film-vfx
+      platform:
+        - win
     readme_tags:
       - Soft Sensor
       - Hands
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Faceware
     url: https://facewaretech.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -466,6 +480,8 @@ entries:
       output:
         - film-vfx
         - games
+      platform:
+        - win
     readme_tags:
       - Face Cap HW + SW
       - Pro
@@ -491,7 +507,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Smode
-    url: https://smode.fr/
+    url: https://www.smode.io/en/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Real-time 2D/3D creation, compositing, and video-mapping engine.
     entry_type: software
@@ -500,7 +516,7 @@ entries:
       - Real-time
       - Video Mapping
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - projection-mapping
@@ -509,3 +525,74 @@ entries:
         - event-experiential
       platform:
         - win
+  - name: Live FX (Assimilate)
+    url: https://www.assimilateinc.com/products/livefx/
+    description: Virtual production tool for live keying, compositing, DMX image-based lighting and LED playback.
+    pricing: From $345/mo or $2,495 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - lighting
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.150Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - LED Wall
+    best_for: Live on-set compositing
+    pricing_last_verified: '2026-10-05'
+  - name: Chaos Arena
+    url: https://www.chaos.com/arena
+    description: Ray-traced in-camera VFX that plays V-Ray scenes on LED volumes without a game engine.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - previs
+      output:
+        - film-vfx
+        - broadcast
+      tech:
+        - ray-tracing
+        - real-time
+      platform:
+        - win
+    added_at: '2026-10-05T08:51:07.403Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - V-Ray
+    best_for: LED volume rendering
+  - name: Nuke Stage
+    url: https://www.foundry.com/products/nuke-stage
+    description: Foundry tool for real-time LED-wall playback with live compositing and USD layout.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+      tech:
+        - real-time
+        - usd
+    added_at: '2026-10-05T08:51:07.405Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Foundry
+    best_for: LED wall playback

@@ -2,7 +2,7 @@ entries:
   - name: Flaticon
     url: https://www.flaticon.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Massive icon library.
+    description: Large library of icons in PNG, SVG and other formats, with free and premium sets.
     license: Freemium
     entry_type: asset-source
     readme_tags:
@@ -19,7 +19,7 @@ entries:
   - name: SVGL
     url: https://svgl.app/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Brand logos in SVG.
+    description: Library of brand and company logos in SVG, free to copy.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -36,7 +36,7 @@ entries:
   - name: Icons8 Glyph
     url: https://icons8.com/l/glyph/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Glyph-style icon set.
+    description: Glyph-style icon set from Icons8, available in PNG and SVG.
     license: Freemium
     entry_type: asset-source
     readme_tags:
@@ -89,7 +89,7 @@ entries:
   - name: Tabler Icons
     url: https://tablericons.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Open-source SVG icons.
+    description: Open-source set of SVG icons, MIT licensed, with a consistent stroke style.
     license: Open Source
     entry_type: asset-source
     readme_tags:
@@ -123,7 +123,7 @@ entries:
       platform:
         - web
   - name: MDI Icons
-    url: https://pictogrammers.com/library/mdi/icon/
+    url: https://pictogrammers.com/library/mdi/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Material Design Icons, huge set.
     license: Open Source
@@ -132,7 +132,7 @@ entries:
       - Material Design
       - Huge Set
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -144,7 +144,7 @@ entries:
   - name: Game Icons
     url: https://game-icons.net/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 4000+ SVG game icons.
+    description: Library of 4000+ free SVG game icons under CC BY.
     license: Free
     entry_type: asset-source
     tags:
@@ -177,13 +177,13 @@ entries:
       platform:
         - web
   - name: typicons.font
-    url: http://s-ings.com/typicons/
+    url: https://www.s-ings.com/typicons/
     added_at: '2026-04-19T17:15:03.000Z'
     description: 336 pixel-perfect all-purpose vector icons in a web-font kit.
     license: Open Source
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration

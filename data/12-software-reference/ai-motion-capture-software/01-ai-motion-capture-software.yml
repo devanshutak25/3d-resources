@@ -12,6 +12,9 @@ entries:
         - animation
       tech:
         - ai-generative
+      platform:
+        - web
+        - ios
     readme_tags:
       - High Accuracy
       - Multi-Camera
@@ -20,7 +23,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
   - name: Rokoko Vision
-    url: https://www.rokoko.com/
+    url: https://www.rokoko.com/products/vision
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free AI mocap from webcam or video.
     license: Freemium
@@ -31,13 +34,15 @@ entries:
         - mocap
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Free Tier
       - Webcam/Video
-    url_last_verified: '2026-10-01'
-    url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: DeepMotion
     url: https://www.deepmotion.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -53,6 +58,8 @@ entries:
         - games
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Game-Ready
       - BVH/FBX
@@ -78,7 +85,7 @@ entries:
       - Browser
       - Hand Tracking
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
   - name: Live Link Face (Apple)
@@ -100,7 +107,7 @@ entries:
       - Free
       - iPhone Face Capture
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
   - name: Viggle AI
@@ -116,6 +123,8 @@ entries:
         - mocap
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Video→Animation
       - AI
@@ -135,6 +144,10 @@ entries:
         - mocap
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Open Source
       - Mocap
@@ -142,3 +155,255 @@ entries:
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
+  - name: UniRig
+    url: https://github.com/VAST-AI-Research/UniRig
+    description: VAST open model that predicts a skeleton and skin weights for any 3D model.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rigging
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:06.997Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Auto Rigging
+    best_for: Automatic rigging
+  - name: Puppeteer (ByteDance Seed)
+    url: https://github.com/Seed3D/Puppeteer
+    description: Open model that rigs, skins and animates a 3D model automatically.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:06.998Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Auto Rigging
+    best_for: Auto-rig and animate models
+  - name: Audio2Face-3D (NVIDIA)
+    url: https://github.com/NVIDIA/Audio2Face-3D
+    description: NVIDIA models and SDK that drive facial animation from speech audio, with Maya and Unreal plugins.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - face-capture
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.000Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - NVIDIA
+    best_for: Speech-driven facial animation
+  - name: HY-Motion 1.0 (Tencent)
+    url: https://github.com/Tencent-Hunyuan/HY-Motion-1.0
+    description: Open model that generates 3D human motion from text prompts.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    notes: Tencent community license excludes the EU, UK and South Korea.
+    added_at: '2026-10-05T08:51:07.001Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Text to Motion
+    best_for: Text to motion
+  - name: GVHMR
+    url: https://github.com/zju3dv/GVHMR
+    description: Research code that recovers world-space 3D human motion from monocular video.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.003Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - Research
+    best_for: Video to 3D motion
+  - name: QuickMagic
+    url: https://www.quickmagic.ai/
+    description: Web service that captures body, hand and face motion from one video and exports FBX or BVH.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.004Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Markerless
+    best_for: Video mocap
+  - name: Remocapp
+    url: https://remocapp.com/
+    description: Desktop app for real-time markerless body and face capture from two webcams, with Unreal Live Link.
+    pricing: Free tier, from .99/mo (annual)
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - mocap
+        - face-capture
+      output:
+        - games
+        - film-vfx
+      tech:
+        - ai-generative
+      platform:
+        - win
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.006Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    pricing_last_verified: '2026-10-05'
+    readme_tags:
+      - Subscription
+      - Markerless
+    best_for: Webcam real-time mocap
+  - name: Uthana
+    url: https://uthana.com/
+    description: AI platform that generates character motion from text or video, retargets it and auto-rigs, with Blender and Maya plugins.
+    pricing: Pay per second of motion
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - mocap
+        - rigging
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.008Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Text to Motion
+    best_for: AI character motion
+    pricing_last_verified: '2026-10-05'
+  - name: Cartwheel
+    url: https://getcartwheel.com/
+    description: Web studio that turns video into mocap, generates motion from text and retargets it to 3D characters.
+    pricing: 7-day trial, credit plans
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.010Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Video Mocap
+    best_for: Video to character motion
+    pricing_last_verified: '2026-10-05'
+  - name: Krikey AI
+    url: https://www.krikey.ai/
+    description: Browser app that makes 3D character animation from text or video and exports MP4 or FBX.
+    pricing: Free tier, Pro $15/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.013Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Browser
+    best_for: Quick character animation
+    pricing_last_verified: '2026-10-05'

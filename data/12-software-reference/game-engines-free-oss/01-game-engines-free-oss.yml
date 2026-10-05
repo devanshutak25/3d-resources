@@ -27,7 +27,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Bevy
-    url: https://bevyengine.org/
+    url: https://bevy.org/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Rust data-driven ECS game engine.
     license: Open Source
@@ -47,14 +47,14 @@ entries:
       - Rust
       - ECS
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Defold
     url: https://defold.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Lua-based 2D mobile game engine by King.
+    description: Lua-scripted engine for cross-platform 2D and 3D games, maintained by the Defold Foundation.
     license: Open Source
     entry_type: software
-    best_for: 2D mobile games
+    best_for: Lightweight 2D and 3D games on mobile and web
     tags:
       output:
         - games
@@ -267,7 +267,7 @@ entries:
   - name: Love2D
     url: https://love2d.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Lua 2D game framework.
+    description: Free open-source framework for making 2D games in Lua.
     license: Open Source
     entry_type: software
     best_for: 2D prototyping, game jams
@@ -332,7 +332,7 @@ entries:
   - name: Ebitengine
     url: https://ebitengine.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Go 2D game engine.
+    description: Open-source 2D game engine for the Go programming language.
     license: Open Source
     entry_type: software
     best_for: Simple 2D games
@@ -394,7 +394,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: CopperCube
-    url: http://www.ambiera.com/coppercube/
+    url: https://www.ambiera.com/coppercube/
     added_at: '2026-04-16T21:13:44.000Z'
     description: CopperCube is an all-in-one 3D game engine. Very easy to use.
     license: Free
@@ -414,9 +414,9 @@ entries:
       - No-Code
       - All-in-One
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Cocos2d X
-    url: http://cocos2d-x.org/
+    url: https://cocos2d-x.org/
     added_at: '2026-04-16T21:13:44.000Z'
     description: C++ OpenGL 2D/3D engine with JS and Lua bindings. Targets all major mobile and desktop platforms.
     license: Open Source
@@ -436,10 +436,10 @@ entries:
     readme_tags:
       - C++
       - Mobile
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: jMonkeyEngine 3
-    url: http://jmonkeyengine.org/
+    url: https://jmonkeyengine.org/
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D open-source game engine for Java developers.
     license: Open Source
@@ -457,7 +457,7 @@ entries:
     readme_tags:
       - Java
       - 3D
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: JPCT
     url: https://www.jpct.net/
@@ -506,7 +506,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Magnum (site)
-    url: http://magnum.graphics/
+    url: https://magnum.graphics/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight modular 2D/3D graphics/game engine written in C++11.
     license: Open Source
@@ -524,8 +524,8 @@ entries:
     readme_tags:
       - C++11
       - Modular
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Ogre
     url: https://www.ogre3d.org/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -548,7 +548,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Urho3D
-    url: http://urho3d.github.io/
+    url: https://urho3d.github.io/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Cross-platform rendering and game engine.
     license: Open Source
@@ -566,8 +566,8 @@ entries:
     readme_tags:
       - C++
       - Cross-Platform
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: ursina
     url: https://www.ursinaengine.org/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -613,7 +613,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blend4Web
-    url: http://www.blend4web.com/
+    url: https://www.blend4web.com/
     added_at: '2026-04-16T21:37:07.000Z'
     description: JavaScript framework for interactive 3D in browsers. Blender integration.
     license: Open Source
@@ -630,10 +630,10 @@ entries:
     readme_tags:
       - Browser
       - Blender Integration
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Three.js
-    url: http://threejs.org/
+    url: https://threejs.org/
     added_at: '2026-04-16T21:37:07.000Z'
     description: JavaScript 3D library. The standard for web 3D.
     license: Open Source
@@ -651,8 +651,8 @@ entries:
     readme_tags:
       - Browser
       - Standard JS 3D
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Ceramic
     url: https://ceramic-engine.com/
     added_at: '2026-04-16T21:37:07.000Z'
@@ -678,7 +678,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Irrlicht
-    url: http://irrlicht.sourceforge.net/
+    url: https://irrlicht.sourceforge.net/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Open source high-performance realtime 3D engine (C++).
     license: Open Source
@@ -697,7 +697,7 @@ entries:
       - C++
       - Classic Engine
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     notes: SourceForge returns 403 to non-browser clients (bot protection). Do not auto-deprecate.
   - name: Panda3D
     url: https://www.panda3d.org/
@@ -719,7 +719,7 @@ entries:
       - Python
       - Disney Origin
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: Torque3D
     url: https://torque3d.org/torque3d/
     added_at: '2026-04-16T21:37:07.000Z'
@@ -742,7 +742,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: SpriteBuilder
-    url: http://www.spritebuilder.com/
+    url: https://www.spritebuilder.com/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Open source game development suite for macOS.
     license: Open Source
@@ -758,8 +758,8 @@ entries:
     readme_tags:
       - Mac-only
       - 2D
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Fusee
     url: https://github.com/FUSEEProjectTeam/Fusee/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -825,7 +825,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Overload
-    url: https://github.com/adriengivry/Overload
+    url: https://github.com/Overload-Technologies/Overload
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D game engine with editor.
     license: Open Source
@@ -842,7 +842,7 @@ entries:
       - C++
       - Editor
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: UPBGE (GitHub)
     url: https://github.com/UPBGE/upbge
     added_at: '2026-04-16T21:13:44.000Z'
@@ -1050,7 +1050,7 @@ entries:
     stale: true
     last_pushed: '2023-01-04'
   - name: Screen 13
-    url: https://github.com/attackgoat/screen-13
+    url: https://github.com/attackgoat/vk-graph
     added_at: '2026-04-16T21:13:44.000Z'
     description: Easy-to-use Vulkan rendering engine with render graph for Rust.
     license: Open Source
@@ -1069,9 +1069,9 @@ entries:
       - Rust
       - Vulkan
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Whitestorm.js (GitHub)
-    url: https://github.com/WhitestormJS/whitestorm.js
+    url: https://github.com/WhitestormJS/whs.js
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D JavaScript framework for building apps and games.
     license: Open Source
@@ -1088,4 +1088,4 @@ entries:
       - JavaScript
       - Browser
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok

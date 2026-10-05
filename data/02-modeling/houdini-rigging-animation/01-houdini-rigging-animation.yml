@@ -24,7 +24,7 @@ entries:
   - name: Space Girl Rigging
     url: https://www.sidefx.com/learn/collections/space-girl-rigging/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Legacy rigging series.
+    description: Older SideFX tutorial series on rigging a character in Houdini.
     entry_type: tutorial
     readme_tags:
       - Classic

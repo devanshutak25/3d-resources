@@ -45,7 +45,7 @@ entries:
   - name: qLib
     url: https://github.com/qLab/qLib
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Open-source HDA library.
+    description: Open-source library of Houdini digital assets for modeling, FX and pipeline tasks.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -148,7 +148,7 @@ entries:
         - houdini-addon
         - opensource-alt
   - name: Axiom
-    url: https://www.mattpuchala.com/axiom
+    url: https://www.theoryaccelerated.com/axiom
     added_at: '2026-04-16T19:59:30.000Z'
     description: Sparse fluid solver by Matthew Puchala.
     license: Paid
@@ -169,18 +169,18 @@ entries:
       - Sparse Fluids
       - GPU
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Tighe Rzankowski's Tools
-    url: https://gumroad.com/trzanko
+    url: https://trzanko.gumroad.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Feather grooming.
+    description: Gumroad store of Tighe Rzankowski with Houdini tools, including feather grooming setups.
     license: Paid
     entry_type: plugin
     readme_tags:
       - Feathers
       - Grooming
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -215,7 +215,7 @@ entries:
   - name: .hips
     url: https://github.com/lcrs/_.hips
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Various Houdini tools.
+    description: GitHub repo of assorted Houdini experiments and example files by lcrs.
     license: Open Source
     entry_type: plugin
     readme_tags:
@@ -236,7 +236,7 @@ entries:
   - name: Ffmpeg
     url: https://ffmpeg.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Flipbook to MP4 conversion tool ([setup guide](https://www.youtube.com/watch?v=xcdTIDHm4KM)).
+    description: Command-line tool for converting video and audio, often used to turn Houdini flipbooks into MP4.
     license: Open Source
     entry_type: tool
     readme_tags:
@@ -329,7 +329,7 @@ entries:
   - name: JDB Houdini Toolkit
     url: https://bitbucket.org/jcdeblok/workspace/projects/PROJ
     added_at: '2026-04-19T17:15:03.000Z'
-    description: JDB Houdini Toolkit.
+    description: Set of Houdini tools and utilities shared on Bitbucket by jcdeblok.
     license: Open Source
     entry_type: plugin
     readme_tags:

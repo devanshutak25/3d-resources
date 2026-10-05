@@ -15,7 +15,7 @@ entries:
   - name: Polygonjs
     url: https://polygonjs.com
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Node-based WebGL design tool, used for procedural geometry, particles, materials
+    description: Node-based WebGL design tool, used for procedural geometry, particles, materials.
     license: Freemium
     entry_type: software
     url_last_verified: '2026-10-01'
@@ -24,6 +24,8 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      platform:
+        - web
     dual_listed_in:
       - lighting-rendering-shaders/rendering-shader-theory
   - name: Storm HydroFX
@@ -37,6 +39,8 @@ entries:
       workflow:
         - simulation
         - fx
+      platform:
+        - win
     readme_tags:
       - Fluids
       - FX
@@ -54,11 +58,16 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
     readme_tags:
       - Low-poly
       - Voxel
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: MeshLab
@@ -72,6 +81,10 @@ entries:
       tech:
         - photogrammetry
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Mesh Processing
       - Photogrammetry
@@ -107,6 +120,8 @@ entries:
     tags:
       tech:
         - procedural
+      platform:
+        - win
     readme_tags:
       - Terrain Gen
       - Free Community
@@ -126,6 +141,10 @@ entries:
         - modeling
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Base Meshes
       - Open Source
@@ -144,10 +163,14 @@ entries:
       - RAW Editor
       - Open Source
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: OBS Studio
@@ -165,6 +188,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: ShareX
@@ -187,7 +214,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Hesiod
-    url: https://github.com/otto-link/Hesiod
+    url: https://github.com/ottolink-dev/Hesiod
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source node-based procedural terrain/heightmap generator.
     license: Open Source
@@ -198,11 +225,14 @@ entries:
         - procedural
         - node-based
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Terrain Gen
       - Node-based
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: IFS Renderer
@@ -217,6 +247,8 @@ entries:
         - rendering
       tech:
         - gpu
+      platform:
+        - win
     readme_tags:
       - Fractals
       - HDR/EXR
@@ -235,6 +267,10 @@ entries:
         - gpu
         - real-time
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Strange Attractors
       - GPU
@@ -253,6 +289,10 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - RenderMan-like
       - Renderer
@@ -263,7 +303,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: tlRender
-    url: https://github.com/darbyjohnston/tlRender
+    url: https://github.com/grizzlypeak3d/tlRender
     added_at: '2026-04-16T21:13:44.000Z'
     description: Timeline render, is an early stage project for rendering editorial timelines.
     license: Open Source
@@ -273,17 +313,21 @@ entries:
         - editing
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Timeline
       - Editorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: VNyan
     url: https://suvidriel.itch.io/vnyan
     added_at: '2026-05-01T15:46:53.000Z'
-    description: Take your 3d VTubing to the next level
+    description: Take your 3d VTubing to the next level.
     license: Free
     entry_type: software
     best_for: 3D VTubing
@@ -296,12 +340,12 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: KodeLife
-    url: https://hexler.net/products/kodelife
+    url: https://hexler.net/kodelife
     added_at: '2026-04-19T17:29:43.000Z'
     description: Real-time shader editor supporting GLSL, HLSL, and Metal, with a UI for creating and testing shaders.
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -348,7 +392,7 @@ entries:
         - mac
         - linux
   - name: Structure Synth
-    url: http://structuresynth.sourceforge.net/
+    url: https://structuresynth.sourceforge.net/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Generates 3D structures from a design grammar.
     entry_type: software
@@ -357,7 +401,7 @@ entries:
       - Generative
       - 3D Structures
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - creative-coding
@@ -385,3 +429,211 @@ entries:
         - creative-coding
       platform:
         - web
+  - name: Terragen
+    url: https://planetside.co.uk/
+    description: Procedural terrain, atmosphere and cloud generator and renderer for photoreal landscapes.
+    pricing: Free non-commercial, Pro $199 perpetual
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - procedural
+    added_at: '2026-10-05T08:51:07.115Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Landscapes
+    best_for: Photoreal landscape renders
+    pricing_last_verified: '2026-10-05'
+  - name: World Creator
+    url: https://www.world-creator.com/
+    description: GPU terrain generator with erosion, water and snow simulation, scattering and a path tracer.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - simulation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - procedural
+        - gpu
+    added_at: '2026-10-05T08:51:07.116Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - GPU
+    best_for: Terrain generation
+  - name: Instant Terra
+    url: https://www.wysilab.com/
+    description: Node-based terrain generator with real-time preview, erosion and Unreal and Houdini plugins.
+    pricing: From $149 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - procedural
+        - node-based
+    added_at: '2026-10-05T08:51:07.118Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Nodes
+    best_for: Node-based terrain
+  - name: Infinigen
+    url: https://infinigen.org/
+    description: Princeton procedural generator of photoreal natural and indoor scenes in Blender, for vision training data.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - scientific-viz
+        - generalist
+      tech:
+        - procedural
+    added_at: '2026-10-05T08:51:07.120Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Blender
+    best_for: Synthetic training scenes
+  - name: vvvv
+    url: https://vvvv.org/
+    description: Visual live-programming environment on .NET for real-time graphics and installations.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+      tech:
+        - node-based
+        - real-time
+    added_at: '2026-10-05T08:51:07.157Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - .NET
+    best_for: Real-time installations
+  - name: openFrameworks
+    url: https://openframeworks.cc/
+    description: Open-source C++ creative coding toolkit for graphics, video, audio and hardware I/O.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+        - mac
+        - linux
+        - ios
+    added_at: '2026-10-05T08:51:07.159Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - C++
+    best_for: Creative coding installations
+  - name: p5.js
+    url: https://p5js.org/
+    description: JavaScript creative coding library for drawing and interaction in the browser.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+        - illustration
+      platform:
+        - web
+    added_at: '2026-10-05T08:51:07.161Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - JavaScript
+    best_for: Browser creative coding
+  - name: Isadora
+    url: https://troikatronix.com/
+    description: Node-based real-time media and show control software for live performance.
+    pricing: $199/yr or $725 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+        - mac
+      tech:
+        - node-based
+        - real-time
+    added_at: '2026-10-05T08:51:07.162Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Show Control
+    best_for: Live performance media
+    pricing_last_verified: '2026-10-05'
+  - name: Synesthesia
+    url: https://synesthesia.live/
+    description: Audio-reactive VJ software built on GLSL scenes.
+    pricing: From $199 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+        - mac
+      tech:
+        - real-time
+    added_at: '2026-10-05T08:51:07.164Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - VJ
+    best_for: Audio-reactive visuals
+    pricing_last_verified: '2026-10-05'

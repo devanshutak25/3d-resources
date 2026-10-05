@@ -11,6 +11,10 @@ entries:
         - node-based
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Node-based
       - Multi-modal
@@ -31,6 +35,8 @@ entries:
         - subscription
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Artistic
       - Subscription
@@ -39,7 +45,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: FLUX.2 (Black Forest Labs)
-    url: https://blackforestlabs.ai/
+    url: https://bfl.ai/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Open-weight photorealism with Kontext editing.
     license: Freemium
@@ -50,11 +56,13 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Open Weight
       - Photoreal
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Stable Diffusion 3.5
@@ -70,6 +78,10 @@ entries:
         - opensource-alt
       workflow:
         - concept
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Open Source
       - Self-Host
@@ -89,6 +101,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - OpenAI
       - Text Rendering
@@ -109,6 +123,10 @@ entries:
         - subscription
       workflow:
         - concept
+      platform:
+        - web
+        - ios
+        - android
     readme_tags:
       - Commercial-Safe
       - Adobe CC
@@ -129,6 +147,8 @@ entries:
         - real-time
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Real-time
       - Controlled
@@ -148,6 +168,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Typography
       - Text Rendering
@@ -167,11 +189,15 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
+        - ios
+        - android
     readme_tags:
       - Consistency
       - Editing
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Grok Aurora (xAI)
@@ -186,6 +212,10 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
+        - ios
+        - android
     readme_tags:
       - xAI
       - Photoreal
@@ -205,6 +235,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Design Focus
       - Vector
@@ -225,6 +257,8 @@ entries:
         - real-time
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Real-time
       - Upscaling
@@ -244,11 +278,13 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Design Canvas
       - Mixed-mode
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Kolors (Kuaishou)
@@ -264,6 +300,9 @@ entries:
         - opensource-alt
       workflow:
         - concept
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - Bilingual
@@ -272,7 +311,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: HunyuanDiT (Tencent)
-    url: https://github.com/Tencent/HunyuanDiT
+    url: https://github.com/Tencent-Hunyuan/HunyuanDiT
     added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source DiT-based, strong Chinese text.
     license: Open Source
@@ -284,11 +323,14 @@ entries:
         - opensource-alt
       workflow:
         - concept
+      platform:
+        - win
+        - linux
     readme_tags:
       - Tencent
       - DiT
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Jimeng / Dreamina (ByteDance)
@@ -303,6 +345,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - ByteDance
       - Video Pipeline
@@ -324,6 +368,10 @@ entries:
         - opensource-alt
       workflow:
         - concept
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2020-05-24'
     dual_listed_in:
@@ -341,10 +389,12 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Poly
-    url: https://withpoly.com/
+    url: https://poly.app/
     added_at: '2026-04-16T19:59:30.000Z'
     description: AI-generated PBR textures and materials, tileable with full map sets.
     license: Freemium
@@ -358,11 +408,13 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - AI PBR
       - Tileable
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
   - name: Scenario
@@ -382,6 +434,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Game-Ready
       - Full Maps
@@ -403,6 +457,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Meshy Pipeline
       - Integrated
@@ -411,7 +467,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
   - name: Adobe Firefly Textures
-    url: https://www.adobe.com/products/firefly
+    url: https://www.adobe.com/products/firefly.html
     added_at: '2026-04-16T19:59:30.000Z'
     description: Prompt-to-edit texture workflows.
     license: Paid
@@ -424,11 +480,13 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Adobe
       - Prompt-to-Edit
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
   - name: Ponzu
@@ -445,6 +503,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Mesh-aware
       - Text→Tex
@@ -466,6 +526,10 @@ entries:
         - texturing
       tech:
         - ai-generative
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Substance-alt
       - AI Workflows
@@ -476,7 +540,7 @@ entries:
   - name: SLK_img2pixel
     url: https://captain4lk.itch.io/slk-img2pixel
     added_at: '2026-05-01T15:46:53.000Z'
-    description: Convert images/textures to pixel art
+    description: Convert images/textures to pixel art.
     license: Free
     entry_type: tool
     best_for: Image-to-pixel-art conversion
@@ -492,7 +556,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Imagen
-    url: https://deepmind.google/models/imagen/
+    url: https://deepmind.google/models/gemini-image/
     added_at: '2026-06-14T22:09:48.000Z'
     description: Google photoreal image model via Gemini and Vertex.
     license: Paid
@@ -511,11 +575,11 @@ entries:
       - Photoreal
       - Google
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Reve
-    url: https://reve.art/
+    url: https://app.reve.com/
     added_at: '2026-06-14T22:09:48.000Z'
     description: Image model with strong prompt adherence.
     license: Freemium
@@ -533,6 +597,85 @@ entries:
     readme_tags:
       - Prompt Adherence
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
+  - name: StableGen
+    url: https://github.com/sakalond/StableGen
+    description: Blender add-on that textures scenes by projecting multi-view diffusion images through a ComfyUI backend.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+        - blender-addon
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+    added_at: '2026-10-05T08:51:07.014Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - ComfyUI
+    best_for: AI scene texturing
+  - name: CHORD (Ubisoft La Forge)
+    url: https://github.com/ubisoft/ubisoft-laforge-chord
+    description: Ubisoft research model that turns one texture image into a set of PBR material maps.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+        - pbr
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+    added_at: '2026-10-05T08:51:07.016Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - PBR
+    best_for: Image to PBR maps
+  - name: chaiNNer
+    url: https://chainner.app/
+    description: Node-based desktop app that chains AI upscaling and image-processing models for batch work.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - texturing
+        - compositing
+      output:
+        - generalist
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-generative
+        - node-based
+    dual_listed_in:
+      - ai-ml-for-cg/ai-assisted-cg-tools
+    added_at: '2026-10-05T08:51:07.018Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Nodes
+    best_for: Batch AI upscaling

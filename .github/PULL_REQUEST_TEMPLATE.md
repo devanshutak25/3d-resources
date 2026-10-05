@@ -1,11 +1,11 @@
 <!--
-Thanks for the PR! Source of truth lives in data/*.yml — README and the live site are generated.
+Thanks for the PR! Source of truth lives in data/. README and the live site are generated.
 See CONTRIBUTING.md for the full guide.
 -->
 
 ## What this PR does
 
-<!-- One line. e.g. "Add Hairfarm to data/02-modeling.yml under Modeling - Plugins." -->
+<!-- One line. e.g. "Add Hairfarm to data/02-modeling/cinema-4d-plugins/." -->
 
 ## Type of change
 

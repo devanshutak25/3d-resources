@@ -20,3 +20,72 @@ entries:
       - 3ds Max
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Forest Pack
+    url: https://www.itoosoft.com/forestpack
+    description: 3ds Max scattering plugin for vegetation and objects, with ForestIvy for climbing plants.
+    pricing: Lite free, Pro €250
+    license: Freemium
+    entry_type: plugin
+    tags:
+      output:
+        - archviz
+        - film-vfx
+      platform:
+        - win
+    added_at: '2026-10-05T08:51:07.088Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - 3ds Max
+    best_for: Archviz vegetation scattering
+    pricing_last_verified: '2026-10-05'
+  - name: RailClone
+    url: https://www.itoosoft.com/railclone
+    description: 3ds Max parametric modeler that assembles geometry segments along splines by rules.
+    pricing: Lite free, Pro €250
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - win
+      tech:
+        - procedural
+    added_at: '2026-10-05T08:51:07.089Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - 3ds Max
+    best_for: Spline-based parametric models
+    pricing_last_verified: '2026-10-05'
+  - name: FumeFX
+    url: https://www.afterworks.com/
+    description: Fluid solver for fire, smoke and explosions in 3ds Max, Maya and Cinema 4D, with GPU solving in v7.
+    pricing: From $395/yr (3ds Max & Maya)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+      tech:
+        - physics
+        - gpu
+    added_at: '2026-10-05T08:51:07.090Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - 3ds Max
+    best_for: Fire and smoke simulation
+    pricing_last_verified: '2026-10-05'

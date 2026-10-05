@@ -2,7 +2,7 @@ entries:
   - name: ambientCG
     url: https://ambientcg.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 2000+ CC0 PBR materials.
+    description: Library of 2000+ CC0 PBR materials, HDRIs and models, free to download.
     license: Free
     entry_type: asset-source
     tags:
@@ -45,7 +45,7 @@ entries:
   - name: Share Textures
     url: https://www.sharetextures.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: CC0 textures.
+    description: Free CC0 PBR textures, models and HDRIs from Share Textures.
     license: Free
     entry_type: asset-source
     tags:
@@ -66,7 +66,7 @@ entries:
   - name: CG Bookcase
     url: https://www.cgbookcase.com/textures/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free PBR textures.
+    description: Free CC0 PBR texture library with downloadable texture map sets.
     license: Free
     entry_type: asset-source
     tags:
@@ -83,11 +83,11 @@ entries:
       - Free PBR
       - Tileable
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: 3D Textures
     url: https://3dtextures.me/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free PBR library.
+    description: Free PBR texture library with color, normal, roughness and displacement maps.
     license: Free
     entry_type: asset-source
     tags:
@@ -127,7 +127,7 @@ entries:
   - name: Kaimoisch
     url: https://kaimoisch.com/free-textures/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D scanned textures.
+    description: Scanned PBR textures, now under Texxary and being redeveloped.
     license: Free
     entry_type: asset-source
     tags:
@@ -148,7 +148,7 @@ entries:
   - name: Texture Supply (Gumroad)
     url: https://texturesupply.gumroad.com
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free textures.
+    description: Gumroad store from Texture Supply with textures and 3D assets for photoreal rendering.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -186,7 +186,7 @@ entries:
   - name: Texture Labs
     url: https://texturelabs.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free texture resources.
+    description: Free original textures and tutorials for art and design.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -279,13 +279,13 @@ entries:
         - pbr
         - photogrammetry
   - name: PlainTextures
-    url: http://www.plaintextures.com/
+    url: https://www.plaintextures.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Free high-resolution textures, brushes, and photos.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -297,13 +297,13 @@ entries:
       tech:
         - pbr
   - name: TextureKing
-    url: http://www.textureking.com/
+    url: https://www.textureking.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Free material stock textures.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -321,7 +321,7 @@ entries:
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -339,7 +339,9 @@ entries:
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Domain now redirects to an unrelated spam/gambling site (checked 2026-10-05). Do not restore without a new official URL.
+    deprecated: true
     tags:
       workflow:
         - texturing
@@ -368,7 +370,7 @@ entries:
         - web
       tech:
         - pbr
-        - c4d
+        - cinema-4d
   - name: Celestia Motherlode
     url: http://www.celestiamotherlode.net/
     added_at: '2026-04-19T17:15:03.000Z'

@@ -27,7 +27,7 @@ entries:
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Materialize
-    url: http://www.boundingboxsoftware.com/materialize/
+    url: https://www.boundingboxsoftware.com/materialize/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free texture map generation from a single image.
     license: Free
@@ -42,12 +42,12 @@ entries:
     readme_tags:
       - Free
       - Map Generation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Substance Designer
-    url: https://www.adobe.com/products/substance3d-designer.html
+    url: https://www.adobe.com/products/substance3d/apps/designer.html
     added_at: '2026-04-16T19:59:30.000Z'
     description: Node-based procedural texturing.
     license: Paid
@@ -69,11 +69,11 @@ entries:
       - Procedural
       - Industry Standard
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Substance Painter
-    url: https://www.adobe.com/products/substance3d-painter.html
+    url: https://www.adobe.com/products/substance3d/apps/painter.html
     added_at: '2026-04-16T19:59:30.000Z'
     description: Industry-standard 3D texture painting with smart materials.
     license: Paid
@@ -94,7 +94,7 @@ entries:
       - Industry Standard
       - PBR Painter
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: ArmorPaint
@@ -159,6 +159,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
     readme_tags:
       - No-UV
       - Early Access
@@ -222,6 +224,9 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - ios
+        - android
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Agama Materials
@@ -236,6 +241,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Game Texture Viewer
@@ -245,11 +252,13 @@ entries:
     entry_type: software
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: TextureLab
@@ -264,6 +273,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: AwesomeBump
@@ -280,6 +293,10 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-01-11'
     dual_listed_in:
@@ -291,7 +308,9 @@ entries:
     license: Free
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Quixel Mixer discontinued; page redirects to quixel.com.
+    deprecated: true
     tags:
       workflow:
         - texturing
@@ -327,3 +346,79 @@ entries:
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
+  - name: ShaderMap
+    url: https://shadermap.com/
+    description: Windows tool that generates normal, displacement and PBR maps from textures and models.
+    pricing: Free non-commercial, Pro $29
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+      platform:
+        - win
+      tech:
+        - pbr
+    added_at: '2026-10-05T08:51:07.103Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Windows
+    best_for: Generating PBR texture maps
+    pricing_last_verified: '2026-10-05'
+  - name: PixPlant
+    url: https://www.pixplant.com/
+    description: Windows tool that turns photos into tileable PBR materials.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - archviz
+        - games
+      platform:
+        - win
+      tech:
+        - pbr
+    added_at: '2026-10-05T08:51:07.105Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Windows
+    best_for: Photo to tileable material
+  - name: Substance 3D Sampler
+    url: https://www.adobe.com/products/substance3d/apps/sampler.html
+    description: Adobe app that turns photos and scans into tiling materials, meshes and HDR lights.
+    pricing: Substance 3D Collection $59.99/mo
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - material-authoring
+      output:
+        - games
+        - film-vfx
+        - product-viz
+      tech:
+        - pbr
+        - photogrammetry
+      platform:
+        - win
+        - mac
+    dual_listed_in:
+      - modeling-sculpting-texturing/material-creation-tools
+    added_at: '2026-10-05T08:51:07.106Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Subscription
+      - Adobe
+    best_for: Photo to material
+    pricing_last_verified: '2026-10-05'

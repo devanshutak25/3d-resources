@@ -80,13 +80,13 @@ entries:
     stale: true
     last_pushed: '2019-01-11'
   - name: AI Companion
-    url: https://github.com/Ell223/AI-Companion
+    url: https://github.com/EllAyling/AI-Companion
     added_at: '2026-04-19T17:15:03.000Z'
     description: Unity 5 AI learning project with behavior trees and A* pathfinding.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -194,6 +194,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - audio-design
     stale: true
     last_pushed: '2024-04-14'
   - name: NAudio Unity
@@ -312,6 +314,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - animation
     stale: true
     last_pushed: '2013-01-03'
   - name: ECS Tween
@@ -332,6 +336,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - animation
     stale: true
     last_pushed: '2019-07-10'
   - name: iOS Unity Vuforia Guide
@@ -355,13 +361,13 @@ entries:
     stale: true
     last_pushed: '2016-06-29'
   - name: Unity Pixel Camera
-    url: https://github.com/ChemiKhazi/UnityPixelCamera
+    url: https://github.com/SubjectNerd-Unity/UnityPixelCamera
     added_at: '2026-04-19T17:15:03.000Z'
     description: Resolution-independent pixel-perfect camera for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -412,6 +418,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     stale: true
     last_pushed: '2017-05-24'
   - name: Unity Camera Follow 2D
@@ -435,13 +443,13 @@ entries:
     stale: true
     last_pushed: '2016-02-02'
   - name: Unity CameraSizeToVelocity2D
-    url: https://github.com/tonisuo/Unity-CameraSizeToVelocity2D
+    url: https://github.com/tonisuo/CameraSizeToVelocity2D
     added_at: '2026-04-19T17:15:03.000Z'
     description: Script that scales camera size with target velocity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -532,6 +540,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     stale: true
     last_pushed: '2019-03-02'
   - name: Unity Camera Shake
@@ -575,13 +585,13 @@ entries:
     stale: true
     last_pushed: '2018-09-13'
   - name: UnityPhysics2D
-    url: https://github.com/MelvynMay/UnityPhysics2D
+    url: https://github.com/Unity-Technologies/PhysicsExamples2D
     added_at: '2026-04-19T17:15:03.000Z'
     description: Examples of Unity 2D physics components and features.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -593,6 +603,8 @@ entries:
         - unity-plugin
         - opensource-alt
         - physics
+      workflow:
+        - simulation
   - name: Jitter Physics
     url: https://github.com/mattleibow/jitterphysics
     added_at: '2026-04-19T17:15:03.000Z'
@@ -612,6 +624,8 @@ entries:
         - unity-plugin
         - opensource-alt
         - physics
+      workflow:
+        - simulation
     stale: true
     last_pushed: '2021-08-08'
   - name: Unity Math Reference
@@ -633,13 +647,13 @@ entries:
         - unity-plugin
         - opensource-alt
   - name: Custom 2D Colliders
-    url: https://github.com/GuyQuad/Custom-2D-Colliders
+    url: https://github.com/rohangaikwad/Custom-2D-Colliders
     added_at: '2026-04-19T17:15:03.000Z'
     description: Custom 2D colliders for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -671,6 +685,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - simulation
+        - fx
     stale: true
     last_pushed: '2019-03-29'
   - name: PBD Fluid in Unity
@@ -693,6 +710,8 @@ entries:
         - opensource-alt
         - physics
         - gpu
+      workflow:
+        - simulation
     stale: true
     last_pushed: '2022-08-30'
   - name: CharacterController2D
@@ -736,13 +755,13 @@ entries:
     stale: true
     last_pushed: '2020-01-10'
   - name: NaughtyCharacter
-    url: https://github.com/dbrizov/NaughtyCharacter
+    url: https://github.com/dbrizov/Unity-CharacterController
     added_at: '2026-04-19T17:15:03.000Z'
     description: Third-person character controller for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -754,13 +773,13 @@ entries:
         - unity-plugin
         - opensource-alt
   - name: UNet Controller
-    url: https://github.com/GreenByteSoftware/UNet-Controller
+    url: https://github.com/h33p/UNet-Controller
     added_at: '2026-04-19T17:15:03.000Z'
     description: Character controller built for Unity's UNet networking system.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -888,13 +907,13 @@ entries:
         - unity-plugin
         - opensource-alt
   - name: MLAPI
-    url: https://github.com/MidLevel/MLAPI
+    url: https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
     added_at: '2026-04-19T17:15:03.000Z'
     description: Game networking framework for Unity (now Netcode for GameObjects).
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

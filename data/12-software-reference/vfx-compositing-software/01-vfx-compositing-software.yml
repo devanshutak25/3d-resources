@@ -77,7 +77,7 @@ entries:
     url: https://borisfx.com/products/continuum/
     added_at: '2026-05-05T11:50:37.000Z'
     description: Boris FX broadcast/post effects collection. Titles, particles, image restoration, color.
-    pricing: $32–$112/mo; perpetual $365–$2,195 by host
+    pricing: $32-$112/mo; perpetual $365-$2,195 by host
     license: Paid
     entry_type: software
     best_for: Broadcast finishing and titling
@@ -97,7 +97,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Mocha AE
-    url: https://borisfx.com/products/mocha-ae/
+    url: https://borisfx.com/products/mocha-ae-cc-mocha-for-after-effects/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Stripped Mocha planar tracker bundled inside After Effects. Free with AE.
     license: Free
@@ -117,8 +117,7 @@ entries:
       - Free w/ AE
       - Planar Tracking
     url_last_verified: '2026-10-01'
-    url_status: redirect
-    deprecated: true
+    url_status: ok
   - name: Boris FX Optics
     url: https://borisfx.com/products/optics/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -165,7 +164,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Boris Title Studio
-    url: https://borisfx.com/products/continuum/title-studio/
+    url: https://borisfx.com/products/title-studio/
     added_at: '2026-05-22T16:39:01.000Z'
     description: 3D titler shipped inside Continuum (was a standalone product).
     license: Paid
@@ -184,8 +183,7 @@ entries:
       - 3D Titles
       - Broadcast
     url_last_verified: '2026-10-01'
-    url_status: redirect
-    deprecated: true
+    url_status: ok
   - name: Red Giant Complete
     url: https://www.maxon.net/en/red-giant
     added_at: '2026-05-05T11:50:37.000Z'
@@ -339,7 +337,7 @@ entries:
       - Real-time Sim
       - Fire/Smoke
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: LiquiGen
     url: https://jangafx.com/software/liquigen/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -364,7 +362,7 @@ entries:
       - Real-time Sim
       - Liquids
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: IlluGen
     url: https://jangafx.com/software/illugen/
     added_at: '2026-05-08T14:07:42.000Z'
@@ -392,7 +390,7 @@ entries:
       - Real-time
       - Procedural Materials
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: GeoGen (JangaFX)
     url: https://jangafx.com/software/geogen/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -416,7 +414,7 @@ entries:
       - Terrain Gen
       - Real-time
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: After Effects
     url: https://www.adobe.com/products/aftereffects.html
     added_at: '2026-04-16T19:59:30.000Z'
@@ -442,7 +440,7 @@ entries:
       - Motion Graphics
       - Adobe Suite
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: JangaFX Docs
     url: https://docs.jangafx.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -457,19 +455,8 @@ entries:
       output:
         - film-vfx
         - games
-  - name: ActionVFX
-    url: https://www.actionvfx.com/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: VFX stock elements (explosions, fire, debris).
-    entry_type: reference
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - compositing
-        - fx
-      output:
-        - film-vfx
+      platform:
+        - web
   - name: Motion Lab
     url: https://motionlab.net/assets/
     added_at: '2026-07-24T09:12:25.000Z'
@@ -486,11 +473,11 @@ entries:
       platform:
         - web
       tech:
-        - VDB
+        - vdb
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: TOOLL3
-    url: https://tooll.io/
+    url: https://tixl.app/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Graph-based procedural real-time motion graphics for live performance or rendering.
     entry_type: software
@@ -499,7 +486,7 @@ entries:
       - Real-Time
       - Procedural
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -507,6 +494,8 @@ entries:
         - real-time
         - procedural
         - node-based
+      platform:
+        - win
     dual_listed_in:
       - motion-graphics-video/motion-graphics-inspiration
   - name: Resolume
@@ -522,6 +511,9 @@ entries:
         - broadcast
       tech:
         - real-time
+      platform:
+        - win
+        - mac
     readme_tags:
       - VJ
       - Live Visuals
@@ -541,6 +533,9 @@ entries:
         - motion-graphics
       tech:
         - real-time
+      platform:
+        - win
+        - mac
     readme_tags:
       - Projection Mapping
       - Live
@@ -562,6 +557,10 @@ entries:
       tech:
         - real-time
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Real-time VFX
       - Games
@@ -584,6 +583,9 @@ entries:
         - real-time
         - node-based
         - procedural
+      platform:
+        - win
+        - mac
     readme_tags:
       - Real-time
       - Node-based
@@ -635,13 +637,13 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Nuke
-    url: https://www.foundry.com/products/nuke
+    url: https://www.foundry.com/products/nuke-family
     added_at: '2026-04-19T17:15:03.000Z'
     description: Industry-standard node-based compositing software by The Foundry. Free non-commercial version available.
     entry_type: software
     license: Freemium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - compositing
@@ -718,4 +720,49 @@ entries:
       - Vector Fields
       - Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
+  - name: Autodesk Flame
+    url: https://www.autodesk.com/products/flame/overview
+    description: Compositing, finishing and VFX software with node compositing, conform and ML depth and face tools.
+    pricing: $5,215/yr
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - mac
+        - linux
+    notes: Autodesk serves 403 to non-browser user agents; live in a browser.
+    added_at: '2026-10-05T08:51:07.430Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Industry Standard
+      - Finishing
+    best_for: High-end finishing and VFX
+  - name: VDBRender
+    url: https://www.nukepedia.com/tools/plugins/3d/vdb-render-v3/
+    description: Nuke plugin that renders OpenVDB volumes natively, with deep output and motion blur.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - rendering
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - win
+    added_at: '2026-10-05T08:51:07.432Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Nuke
+    best_for: VDB volumes in Nuke

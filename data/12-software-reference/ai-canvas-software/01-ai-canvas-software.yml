@@ -1,6 +1,6 @@
 entries:
   - name: Flora
-    url: https://florafauna.ai/
+    url: https://flora.ai/
     added_at: '2026-06-14T22:09:48.000Z'
     description: Node canvas for image and video gen with 50+ models and Style DNA.
     license: Freemium
@@ -18,7 +18,7 @@ entries:
       - Node Canvas
       - Multi-model
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Weavy
     url: https://weavy.ai/
     added_at: '2026-06-14T22:09:48.000Z'
@@ -38,7 +38,9 @@ entries:
       - Node Canvas
       - Pro Editing
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Domain no longer resolves.
+    deprecated: true
   - name: Higgsfield Canvas
     url: https://higgsfield.ai/canvas-intro
     added_at: '2026-06-14T22:09:48.000Z'
@@ -137,28 +139,6 @@ entries:
     readme_tags:
       - Prompt to App
       - Spline
-    url_last_verified: '2026-10-01'
-    url_status: ok
-  - name: Rosebud AI
-    url: https://rosebud.ai/
-    added_at: '2026-04-16T21:13:44.000Z'
-    description: Prompt-to-game builder that outputs playable 2D and 3D browser games with editable code.
-    license: Freemium
-    entry_type: software
-    best_for: Prompt to playable game
-    tags:
-      workflow:
-        - creative-coding
-      output:
-        - games
-      platform:
-        - web
-      tech:
-        - ai-generative
-        - real-time
-    readme_tags:
-      - Prompt to Game
-      - Browser
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Websim

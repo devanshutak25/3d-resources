@@ -18,11 +18,11 @@ entries:
       platform:
         - web
       tech:
-        - c4d
+        - cinema-4d
   - name: Rolando Barry (Gumroad)
     url: https://honear.gumroad.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: C4D assets and presets.
+    description: Gumroad store of Rolando Barry with Cinema 4D assets, presets and small projects.
     entry_type: asset-source
     license: Freemium
     readme_tags:
@@ -36,4 +36,4 @@ entries:
       platform:
         - web
       tech:
-        - c4d
+        - cinema-4d

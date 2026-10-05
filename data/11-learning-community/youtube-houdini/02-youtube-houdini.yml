@@ -203,7 +203,7 @@ entries:
   - name: regularmenthol
     url: https://www.youtube.com/@regularmenthol
     added_at: '2026-05-21T15:12:02.000Z'
-    description: Houdini FX channel.
+    description: YouTube channel sharing Houdini FX tutorials and assets, plus UE5 and mocap content.
     license: Free
     entry_type: channel
     readme_tags:
@@ -222,7 +222,7 @@ entries:
   - name: WTTR Labs
     url: https://www.youtube.com/@wttrlabs
     added_at: '2026-05-21T15:12:02.000Z'
-    description: Houdini FX channel.
+    description: YouTube channel with practical Houdini FX and procedural workflow tutorials, plus paid courses.
     license: Free
     entry_type: channel
     readme_tags:

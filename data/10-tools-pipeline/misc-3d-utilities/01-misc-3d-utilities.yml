@@ -14,9 +14,8 @@ entries:
         - film-vfx
       platform:
         - web
-    deprecated: true
   - name: Graphtoy
-    url: https://iquilezles.org/apps/graphtoy/
+    url: https://graphtoy.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Mathematical function grapher by Inigo Quilez.
     license: Free
@@ -25,7 +24,7 @@ entries:
       - Math Grapher
       - iq
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -140,7 +139,7 @@ entries:
   - name: Sorcar
     url: https://aachman98.itch.io/sorcar
     added_at: '2026-04-16T21:13:44.000Z'
-    description: A procedural modeling node-based system which uses Blender and its Python API to create a visual programming environment for artists and developers
+    description: A procedural modeling node-based system which uses Blender and its Python API to create a visual programming environment for artists and developers.
     license: Open Source
     entry_type: plugin
     tags:
@@ -185,9 +184,9 @@ entries:
     stale: true
     last_pushed: '2023-04-17'
   - name: Palladio
-    url: https://github.com/Esri/palladio
+    url: https://github.com/Esri/cityengine_for_houdini
     added_at: '2026-04-16T21:13:44.000Z'
-    description: CityEngine Plugin for Houdini
+    description: CityEngine Plugin for Houdini.
     license: Open Source
     entry_type: plugin
     tags:
@@ -207,7 +206,7 @@ entries:
       - Houdini
       - CityEngine
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: HDRI To Cube Map
     url: https://matheowis.github.io/HDRI-to-CubeMap/
     added_at: '2026-04-19T17:29:43.000Z'
@@ -226,7 +225,7 @@ entries:
   - name: DEM Net Elevation API
     url: https://elevationapi.com
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL
+    description: Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL.
     license: Freemium
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -243,7 +242,7 @@ entries:
   - name: DEM Net Elevation API C#
     url: https://github.com/dem-net/DEM.Net
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
+    description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -261,12 +260,12 @@ entries:
       tech:
         - opensource-alt
   - name: WebGL Texture Tester
-    url: http://toji.github.io/texture-tester/
+    url: https://toji.github.io/texture-tester/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -295,7 +294,7 @@ entries:
   - name: emojillate
     url: https://github.com/notwaldorf/emojillate
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Pixellate an image into emoji
+    description: Pixellate an image into emoji.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -511,13 +510,13 @@ entries:
     stale: true
     last_pushed: '2020-10-11'
   - name: 3DN BIP
-    url: https://github.com/3dninjas/3dn-bip
+    url: https://github.com/bonjorno7/3dn-bip
     added_at: '2026-04-19T17:29:43.000Z'
     description: Fast image-preview Python library for Blender, a bpy.utils.previews drop-in replacement.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -533,13 +532,13 @@ entries:
     stale: true
     last_pushed: '2023-07-26'
   - name: Developer Documentation
-    url: https://wiki.blender.org/wiki/Main_Page
+    url: https://developer.blender.org/docs/
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Blender developer docs: development process, design, architecture, and build instructions.'
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist

@@ -71,7 +71,7 @@ entries:
       - 2D Focus
       - Indie Proven
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Construct 3
     url: https://www.construct.net/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -253,3 +253,49 @@ entries:
       - Proprietary
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: UNIGINE
+    url: https://unigine.com/
+    description: C++/C# real-time engine for simulation, visualization and games, with double-precision large worlds.
+    pricing: Community free under $200k revenue
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+        - xr
+        - generalist
+      platform:
+        - win
+        - linux
+      tech:
+        - real-time
+    added_at: '2026-10-05T08:51:07.109Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Simulation
+    best_for: Large-world simulation apps
+    pricing_last_verified: '2026-10-05'
+  - name: Roblox Studio
+    url: https://create.roblox.com/
+    description: Free Roblox editor for building, scripting in Luau and publishing multiplayer games.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.113Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Luau
+    best_for: Roblox game creation

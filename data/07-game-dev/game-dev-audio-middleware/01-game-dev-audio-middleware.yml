@@ -18,3 +18,27 @@ entries:
         - linux
       tech:
         - unreal-plugin
+  - name: Resonance Audio
+    url: https://resonance-audio.github.io/resonance-audio/
+    added_at: '2026-05-22T16:39:01.000Z'
+    description: Google's open-source ambisonic spatial audio SDK.
+    license: Open Source
+    entry_type: tool
+    best_for: Ambisonic SDK
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - android
+        - ios
+    readme_tags:
+      - Google
+      - Apache 2.0
+    url_last_verified: '2026-10-01'
+    url_status: ok

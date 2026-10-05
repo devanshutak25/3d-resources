@@ -60,7 +60,6 @@ entries:
         - godot
       platform:
         - web
-    deprecated: true
   - name: KidsCanCode Godot Recipes
     url: https://kidscancode.org/godot_recipes/4.x/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -126,7 +125,7 @@ entries:
   - name: DevDuck
     url: https://www.youtube.com/@DevDuck
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Dev logs and tutorials.
+    description: YouTube channel of DevDuck documenting indie game development with devlogs and tutorials.
     entry_type: channel
     readme_tags:
       - Devlogs
@@ -146,7 +145,7 @@ entries:
   - name: The Shaggy Dev
     url: https://www.youtube.com/@TheShaggyDev
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Godot-focused tutorials.
+    description: YouTube channel with Godot tutorials on game programming patterns.
     entry_type: channel
     readme_tags:
       - Godot Focus

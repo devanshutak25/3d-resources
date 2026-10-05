@@ -40,7 +40,7 @@ function humanize(v, key) {
 }
 
 const files = [];
-walk('G:/Personal/3d_resources/data', files);
+walk(path.join(__dirname, '..', '..', 'data'), files);
 const KEYS = /^(name|description|title|best_for|notes|tagline|summary|short_description)$/;
 let touched = 0, totalLines = 0;
 for (const f of files) {

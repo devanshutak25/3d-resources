@@ -18,7 +18,7 @@ entries:
   - name: r/indiegaming
     url: https://www.reddit.com/r/indiegaming/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Indie gaming subreddit.
+    description: Reddit community for sharing and discussing indie games.
     entry_type: community
     license: Free
     readme_tags:
@@ -34,7 +34,7 @@ entries:
   - name: r/unrealengine
     url: https://www.reddit.com/r/unrealengine/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Unreal Engine subreddit.
+    description: Reddit community for Unreal Engine users to share work and ask questions.
     entry_type: community
     license: Free
     readme_tags:
@@ -68,7 +68,7 @@ entries:
   - name: r/gamedesign
     url: https://www.reddit.com/r/gamedesign/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game design subreddit.
+    description: Reddit community for discussing game design theory and practice.
     entry_type: community
     license: Free
     readme_tags:
@@ -84,7 +84,7 @@ entries:
   - name: r/pixelart
     url: https://www.reddit.com/r/PixelArt/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pixel art subreddit.
+    description: Reddit community for sharing pixel art and getting feedback.
     entry_type: community
     license: Free
     readme_tags:
@@ -98,32 +98,34 @@ entries:
       platform:
         - web
   - name: Game Dev League
-    url: https://discord.gg/gamedev
+    url: https://discord.com/invite/gamedev
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game dev Discord.
+    description: Large game dev Discord (~133K) built by game developers for game developers.
     entry_type: community
     license: Free
     readme_tags:
       - Discord
       - Large Community
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
       platform:
         - web
-  - name: Unreal Slackers
-    url: https://unrealslackers.org/
+    dual_listed_in:
+      - learning-community-industry/communities-forums
+  - name: Unreal Source Discord
+    url: https://discord.com/invite/unrealsource
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Unreal Engine Discord community.
+    description: Unreal Engine community Discord, formerly Unreal Slackers. Help, showcase and game dev discussion.
     entry_type: community
     license: Free
     readme_tags:
       - Discord
       - Unreal
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -131,8 +133,10 @@ entries:
         - web
       tech:
         - unreal-plugin
+    dual_listed_in:
+      - learning-community-industry/communities-forums
   - name: Brackeys Discord
-    url: https://discord.gg/brackeys
+    url: https://discord.com/invite/brackeys
     added_at: '2026-04-16T19:59:30.000Z'
     description: Brackeys Discord community.
     entry_type: community
@@ -141,7 +145,7 @@ entries:
       - Discord
       - Brackeys
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -150,7 +154,7 @@ entries:
   - name: Work With Indies
     url: https://www.workwithindies.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Indie game job board.
+    description: Job board listing roles at indie game studios.
     entry_type: community
     license: Free
     readme_tags:

@@ -20,7 +20,7 @@ entries:
   - name: Travis Ragsdale
     url: https://www.youtube.com/channel/UCxOJdR3lmUf9XP_ME-C9jlg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Sculpting tutorials.
+    description: YouTube channel by Travis Ragsdale with digital sculpting and character tutorials.
     entry_type: channel
     license: Free
     tags:
@@ -110,7 +110,7 @@ entries:
   - name: Grady Frederick
     url: https://www.youtube.com/@gradyfrederickart
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Concept art process.
+    description: YouTube channel by Grady Frederick showing his concept art and illustration process.
     entry_type: channel
     license: Free
     readme_tags:

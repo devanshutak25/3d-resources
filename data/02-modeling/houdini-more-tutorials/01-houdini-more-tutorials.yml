@@ -46,6 +46,7 @@ entries:
       - VEX Course
     url_last_verified: '2026-10-01'
     url_status: broken
+    deprecated: true
   - name: Extracting Transform Matrices
     url: https://vimeo.com/284712920
     added_at: '2026-04-16T19:59:30.000Z'
@@ -112,6 +113,7 @@ entries:
         - web
       tech:
         - houdini
+    deprecated: true
   - name: Building Growth Animation
     url: https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth
     added_at: '2026-04-16T19:59:30.000Z'
@@ -135,16 +137,16 @@ entries:
       tech:
         - houdini
   - name: Node Studies
-    url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/
+    url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/edit
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Node study slide deck.
+    description: Google Slides deck that studies individual Houdini nodes and how they work.
     entry_type: reference
     license: Free
     readme_tags:
       - Node Study
       - Deck
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -180,7 +182,7 @@ entries:
   - name: Cloner Object
     url: https://www.sidefx.com/tutorials/part-1-cloner-object/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: MoGraph Cloner tutorial.
+    description: SideFX tutorial on rebuilding the Cinema 4D MoGraph Cloner object in Houdini.
     entry_type: tutorial
     license: Free
     readme_tags:
@@ -242,7 +244,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Houdini for Astronomy
-    url: http://ytini.com/
+    url: https://ytini.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Astronomy and scientific viz in Houdini.
     entry_type: reference
@@ -257,7 +259,7 @@ entries:
     readme_tags:
       - Astronomy
       - Sci-Viz
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: MysteryPancake Houdini Fun
     url: https://github.com/MysteryPancake/Houdini-Fun
@@ -341,3 +343,4 @@ entries:
         - houdini
     url_last_verified: '2026-10-01'
     url_status: broken
+    deprecated: true

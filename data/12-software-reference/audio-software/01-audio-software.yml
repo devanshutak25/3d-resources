@@ -49,7 +49,7 @@ entries:
       - Audio Restoration
       - Adobe Suite
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: Reaper
     url: https://www.reaper.fm/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -179,6 +179,9 @@ entries:
         - audio-design
       output:
         - games
+      platform:
+        - win
+        - mac
     readme_tags:
       - Industry Standard
       - Indie-Free
@@ -198,6 +201,9 @@ entries:
         - audio-design
       output:
         - games
+      platform:
+        - win
+        - mac
     readme_tags:
       - AAA
       - Free Tier
@@ -219,6 +225,10 @@ entries:
         - games
       tech:
         - physics
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Spatial Audio
       - Valve Free
@@ -308,7 +318,7 @@ entries:
   - name: Studio One
     url: https://www.presonus.com/products/Studio-One
     added_at: '2026-05-22T16:39:01.000Z'
-    description: PreSonus drag-flow DAW.
+    description: PreSonus digital audio workstation for recording, mixing and producing music with drag-and-drop workflow.
     license: Paid
     entry_type: software
     best_for: Modern drag-flow DAW
@@ -363,7 +373,7 @@ entries:
   - name: Ardour
     url: https://ardour.org/
     added_at: '2026-05-22T16:39:01.000Z'
-    description: OSS multitrack DAW.
+    description: Open-source digital audio workstation for multitrack recording, editing and mixing.
     license: Open Source
     entry_type: software
     best_for: Free multitrack DAW
@@ -564,7 +574,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: iZotope RX
-    url: https://www.izotope.com/en/products/rx.html
+    url: https://www.izotope.com/products/rx-advanced
     added_at: '2026-05-22T16:39:01.000Z'
     description: Industry-standard audio restoration suite.
     pricing: From $399
@@ -584,7 +594,7 @@ entries:
       - Audio Repair
       - Industry Std
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: FabFilter Pro Suite
     url: https://www.fabfilter.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -706,24 +716,6 @@ entries:
       - Spatial
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: Resonance Audio
-    url: https://resonance-audio.github.io/resonance-audio/
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: Google's open-source ambisonic spatial audio SDK.
-    license: Open Source
-    entry_type: reference
-    best_for: Ambisonic SDK
-    tags:
-      workflow:
-        - audio-design
-      output:
-        - xr
-        - games
-    readme_tags:
-      - Google
-      - Apache 2.0
-    url_last_verified: '2026-10-01'
-    url_status: ok
   - name: GarageBand
     url: https://apps.apple.com/us/app/garageband/id408709785
     added_at: '2026-08-03T19:44:41.000Z'
@@ -771,7 +763,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Audio Design Desk
-    url: https://audiodesigndesk.com/
+    url: https://add.app/
     added_at: '2026-08-03T19:44:41.000Z'
     description: Sound design app that places SFX, foley, and music against picture from typed cues.
     license: Paid
@@ -791,7 +783,7 @@ entries:
       - Sound to Picture
       - Cue Driven
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Ocenaudio
     url: https://www.ocenaudio.com/
     added_at: '2026-08-03T19:44:41.000Z'
@@ -965,7 +957,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Melodyne
-    url: https://www.celemony.com/en/melodyne
+    url: https://www.celemony.com/en/melodyne/what-is-melodyne
     added_at: '2026-08-03T19:44:41.000Z'
     description: Pitch and timing editor that separates notes inside polyphonic recordings.
     license: Paid
@@ -984,4 +976,4 @@ entries:
       - Pitch Editing
       - DNA
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok

@@ -41,7 +41,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cinesync
-    url: https://cinesync.com/
+    url: https://www.cinesync.online/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Backlight synced remote review for distributed teams.
     license: Paid
@@ -57,7 +57,7 @@ entries:
       - Backlight
       - Synced Review
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: Filestage
     url: https://filestage.io/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -93,7 +93,6 @@ entries:
       - Tweak/Autodesk
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: 5th Kind CORE
     url: https://www.5thkind.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -111,7 +110,9 @@ entries:
       - Secure Media
       - Feature Films
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: 5th Kind acquired by Sohonet; product page gone.
+    deprecated: true
   - name: Cerebro
     url: https://cerebrohq.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -131,7 +132,7 @@ entries:
       - Tracker + Chat
       - Studio Tool
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Autodesk Flow Capture
     url: https://www.autodesk.com/products/flow-capture
     added_at: '2026-05-22T16:39:01.000Z'
@@ -153,9 +154,8 @@ entries:
       - Was Moxion
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: Hansoft (Perforce)
-    url: https://www.perforce.com/products/hansoft
+    url: https://www.perforce.com/products/p4/p4-plan
     added_at: '2026-05-22T16:39:01.000Z'
     description: Agile PM for games and VFX studios.
     license: Paid
@@ -173,7 +173,7 @@ entries:
       - Perforce
       - Agile PM
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Anchorpoint
     url: https://www.anchorpoint.app/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -231,7 +231,8 @@ entries:
       - Beta
       - Artist VCS
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
   - name: Colorfront
     url: https://colorfront.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -340,9 +341,8 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
     notes: Formerly ShotGrid (renamed 2024-03-26).
-    deprecated: true
   - name: AYON (Ynput)
-    url: https://ynput.io/ayon/
+    url: https://ayon.app/
     added_at: '2026-05-05T11:50:37.000Z'
     description: Open-source VFX/animation pipeline platform; successor to OpenPype (archived).
     license: Open Source
@@ -364,7 +364,7 @@ entries:
       - Open Pipeline
       - VFX Studio
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     notes: OpenPype is EOL/archived; AYON is the active successor.
   - name: Royal Render
     url: https://royalrender.de/
@@ -387,7 +387,7 @@ entries:
       - Render Farm
       - Studio
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Tractor (Pixar)
     url: https://renderman.pixar.com/tractor
     added_at: '2026-05-05T11:50:37.000Z'
@@ -503,7 +503,7 @@ entries:
       - Cloud Render Farm
       - Karma XPU
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Super Renders Farm
     url: https://superrendersfarm.com/
     added_at: '2026-05-20T14:47:05.000Z'
@@ -836,6 +836,10 @@ entries:
         - procedural
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Procedural Pipeline
       - Multi-Engine
@@ -853,11 +857,13 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
     readme_tags:
       - Middleware
       - Pro
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-dialogue-narrative
   - name: Photon Engine
@@ -871,6 +877,8 @@ entries:
       output:
         - games
       tech:
+        - cloud
+      platform:
         - cloud
     readme_tags:
       - Cloud Multiplayer
@@ -891,6 +899,11 @@ entries:
         - games
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+        - cloud
     readme_tags:
       - Social Server
       - Matchmaking
@@ -908,6 +921,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - cloud
     readme_tags:
       - Free EOS
       - Matchmaking/Voice
@@ -916,20 +931,24 @@ entries:
     dual_listed_in:
       - game-development/game-dev-networking
   - name: SmartFoxServer 2X
-    url: http://docs2x.smartfoxserver.com/ExamplesUnity/introduction
+    url: https://docs2x.smartfoxserver.com/ExamplesUnity/introduction
     added_at: '2026-04-19T17:15:03.000Z'
     description: A SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++.
     license: Freemium
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - game-development/game-dev-networking
   - name: Perforce Helix Core
-    url: https://www.perforce.com/products/helix-core
+    url: https://www.perforce.com/products/p4
     added_at: '2026-04-16T19:59:30.000Z'
     description: Industry standard for large assets (free ≤5 users).
     license: Freemium
@@ -940,15 +959,19 @@ entries:
       output:
         - games
         - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Industry Standard
       - Free ≤5 users
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-version-control
   - name: Plastic SCM / Unity Version Control
-    url: https://unity.com/solutions/version-control
+    url: https://unity.com/features/version-control
     added_at: '2026-04-16T19:59:30.000Z'
     description: Artist-friendly binary version control.
     license: Freemium
@@ -958,17 +981,22 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+        - cloud
     readme_tags:
       - Artist-Friendly
       - Unity-Integrated
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-version-control
   - name: Visual Studio (Windows)
     url: https://visualstudio.microsoft.com/es/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Official supported IDE for Unity in Windows platform. Mac version [here](https://visualstudio.microsoft.com/es/vs/mac/).
+    description: Official supported IDE for Unity in Windows platform. Mac version here.
     entry_type: software
     license: Freemium
     url_last_verified: '2026-10-01'
@@ -996,6 +1024,10 @@ entries:
       output:
         - film-vfx
         - broadcast
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Pipeline
       - Free Core
@@ -1015,6 +1047,10 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Render Farm
       - Open Source
@@ -1025,13 +1061,15 @@ entries:
   - name: ftrack
     url: https://www.ftrack.com/en/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Production tracking.
+    description: Production tracking and review software for managing tasks, schedules and media in VFX and animation studios.
     license: Paid
     entry_type: software
     best_for: Production tracking
     tags:
       output:
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Production Tracking
       - Pro

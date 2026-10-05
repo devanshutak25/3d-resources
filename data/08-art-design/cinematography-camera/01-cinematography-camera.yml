@@ -134,7 +134,8 @@ entries:
       - DP Blog
       - ASC
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    deprecated: true
     tags:
       workflow:
         - reference

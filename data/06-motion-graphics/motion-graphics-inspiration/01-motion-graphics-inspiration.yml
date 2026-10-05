@@ -1,14 +1,14 @@
 entries:
   - name: Motionographer
-    url: http://motionographer.com/
+    url: https://motionographer.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design showcase.
+    description: Site that showcases motion design work and covers the industry.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Showcase
       - Classic
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -34,7 +34,7 @@ entries:
   - name: Ads of the World
     url: https://www.adsoftheworld.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Advertising reference.
+    description: Archive of advertising campaigns from around the world for creative reference.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -109,7 +109,7 @@ entries:
       - Portfolio
       - Resources
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -125,7 +125,7 @@ entries:
       - Title Sequences
       - Deep Dives
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -143,7 +143,7 @@ entries:
       - Showcase
       - Motion
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -152,7 +152,7 @@ entries:
   - name: Behance Motion
     url: https://www.behance.net/galleries/motion
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design gallery.
+    description: Behance gallery of motion design projects.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -168,7 +168,7 @@ entries:
   - name: Art of Style Frame
     url: https://artofstyleframe.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Style frame showcase.
+    description: Showcase of style frames from motion design and animation projects.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -256,7 +256,7 @@ entries:
       - AE Community
       - Facebook
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -336,23 +336,6 @@ entries:
         - motion-graphics
       platform:
         - web
-  - name: Trapcode Suite
-    url: https://www.redgiant.com/products/trapcode-suite/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: A set of 3D motion graphics and visual effects plugins for After Effects.
-    entry_type: plugin
-    license: Paid
-    readme_tags:
-      - AE Plugin
-      - 3D Motion
-    url_last_verified: '2026-10-01'
-    url_status: redirect
-    tags:
-      output:
-        - motion-graphics
-      platform:
-        - win
-        - mac
   - name: Houdini 2 AE
     url: https://vimeo.com/186204479
     added_at: '2026-04-19T17:15:03.000Z'
@@ -390,7 +373,7 @@ entries:
       platform:
         - win
         - mac
-  - name: Commotion
+  - name: Commotion (Blender add-on)
     url: https://github.com/mrachinskiy/commotion
     added_at: '2026-04-19T17:29:43.000Z'
     description: Blender add-on for motion graphics.
@@ -457,8 +440,8 @@ entries:
   - name: FrameRate
     url: https://framerate.tv/
     added_at: '2026-06-17T07:16:34.000Z'
-    description: Community showcase for motion design and music video work by video professionals.
-    license: Free
+    description: Video hosting and portfolio platform for motion designers and filmmakers, with client review and a curated community. Vimeo alternative.
+    license: Freemium
     entry_type: inspiration
     readme_tags:
       - Showcase

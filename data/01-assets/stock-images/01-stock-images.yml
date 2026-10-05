@@ -2,7 +2,7 @@ entries:
   - name: Unsplash
     url: https://unsplash.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free photography.
+    description: Free high-resolution stock photos usable without attribution.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -38,7 +38,7 @@ entries:
   - name: Pixabay
     url: https://pixabay.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free stock media.
+    description: Free stock photos, illustrations, vectors, videos and music.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -54,16 +54,16 @@ entries:
       platform:
         - web
   - name: All Free Download
-    url: http://all-free-download.com/
+    url: https://all-free-download.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free design downloads.
+    description: Free vectors, photos, PSD files and fonts for design work.
     license: Free
     entry_type: asset-source
     readme_tags:
       - Design
       - Free
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       workflow:
         - reference
@@ -92,7 +92,7 @@ entries:
   - name: PNG Images
     url: https://pngimg.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Transparent PNG images.
+    description: Free transparent-background PNG images sorted by category.
     license: Free NC
     entry_type: asset-source
     readme_tags:
@@ -128,7 +128,7 @@ entries:
   - name: David Rumsey Maps
     url: https://www.davidrumsey.com/view/past
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Historical maps archive.
+    description: David Rumsey's online collection of digitized historical maps.
     license: Free NC
     entry_type: asset-source
     tags:
@@ -232,7 +232,7 @@ entries:
     entry_type: asset-source
     license: Freemium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration
@@ -252,13 +252,13 @@ entries:
       platform:
         - web
   - name: Control Illustrations
-    url: https://control.rocks
+    url: https://patterns.page/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Combo set of 108 customizable illustrations.
     entry_type: asset-source
     license: Paid
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration
@@ -380,13 +380,15 @@ entries:
     description: Character illustration generator.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-05'
+    url_status: broken
     tags:
       output:
         - illustration
       platform:
         - web
+    deprecated: true
+    notes: Domain lapsed (parked) as of 2026-10-05.
   - name: unDraw Illustrations
     url: https://undraw.co/illustrations
     added_at: '2026-04-19T17:15:03.000Z'
@@ -445,7 +447,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Public.work
-    url: https://public.work/
+    url: https://www.cosmos.so/public-work
     added_at: '2026-06-21T19:32:23.000Z'
     description: Search public domain images from museums and libraries.
     license: Free
@@ -460,4 +462,4 @@ entries:
     readme_tags:
       - Public Domain
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok

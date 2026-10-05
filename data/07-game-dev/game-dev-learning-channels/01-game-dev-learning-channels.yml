@@ -20,7 +20,7 @@ entries:
   - name: Game Maker's Toolkit
     url: https://www.youtube.com/@GMTK
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game design analysis.
+    description: YouTube channel by Mark Brown analyzing game design through video essays.
     entry_type: channel
     license: Free
     readme_tags:
@@ -60,7 +60,7 @@ entries:
   - name: Blackthornprod
     url: https://www.youtube.com/@Blackthornprod
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 2D art and design.
+    description: YouTube channel with game dev tutorials covering 2D art, Unity and game design.
     entry_type: channel
     license: Free
     readme_tags:
@@ -96,7 +96,7 @@ entries:
   - name: Jonas Tyroller
     url: https://www.youtube.com/@jonastyroller
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Indie dev logs.
+    description: YouTube channel of Jonas Tyroller with indie game devlogs and game design videos.
     entry_type: channel
     license: Free
     readme_tags:
@@ -132,7 +132,7 @@ entries:
   - name: Aarthificial
     url: https://www.youtube.com/@aarthificial
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pixel art devlogs.
+    description: YouTube channel with pixel art and game development devlogs.
     entry_type: channel
     license: Free
     readme_tags:
@@ -152,7 +152,7 @@ entries:
   - name: t3ssel8r
     url: https://www.youtube.com/@t3ssel8r
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Stylized rendering.
+    description: YouTube channel showing a stylized pixel-art 3D rendering style and its techniques.
     entry_type: channel
     license: Free
     readme_tags:
@@ -172,7 +172,7 @@ entries:
   - name: Acerola
     url: https://www.youtube.com/@Acerola_t
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Graphics programming.
+    description: YouTube channel explaining graphics programming and shader techniques.
     entry_type: channel
     license: Free
     readme_tags:
@@ -213,7 +213,7 @@ entries:
   - name: SimonDev
     url: https://www.youtube.com/@simondev758
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D programming, WebGL.
+    description: YouTube channel of Simon Dev on game and 3D programming, including Three.js and WebGL.
     entry_type: channel
     license: Free
     readme_tags:
@@ -233,7 +233,7 @@ entries:
   - name: Pontypants
     url: https://www.youtube.com/@Pontypants
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Animation for games.
+    description: YouTube channel of Pontypants documenting game development, including animation for games.
     entry_type: channel
     license: Free
     tags:
@@ -253,7 +253,7 @@ entries:
   - name: GDQuest (YouTube)
     url: https://www.youtube.com/@GDQuest
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Godot tutorials.
+    description: GDQuest YouTube channel with Godot game development tutorials.
     entry_type: channel
     license: Free
     readme_tags:

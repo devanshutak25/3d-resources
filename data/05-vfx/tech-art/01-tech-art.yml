@@ -44,7 +44,7 @@ entries:
   - name: Visual Tech Art
     url: https://www.youtube.com/@VisualTechArt
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Tech art tutorials.
+    description: YouTube channel with technical art tutorials, mostly Unreal Engine shaders and materials.
     entry_type: channel
     readme_tags:
       - Tutorials

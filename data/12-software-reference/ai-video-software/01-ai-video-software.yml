@@ -1,6 +1,6 @@
 entries:
   - name: Veo 3.1 (Google DeepMind)
-    url: https://deepmind.google/technologies/veo/
+    url: https://deepmind.google/models/veo/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Top leaderboard, native audio, 60s+ clips.
     license: Paid
@@ -9,15 +9,17 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Top Leaderboard
       - Native Audio
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Runway Gen-4.5
-    url: https://runwayml.com/
+    url: https://runway.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Motion brushes and scene consistency on the GWM-1 world model.
     license: Freemium
@@ -26,11 +28,13 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Motion Brushes
       - Consistency
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Sora (OpenAI)
@@ -52,7 +56,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Kling 3.0
-    url: https://klingai.com/
+    url: https://kling.ai/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Up to 5min clips, strong human motion. Motion Brush control.
     license: Freemium
@@ -61,11 +65,13 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - 5min Clips
       - Motion Brush
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Pika 2.0
@@ -78,6 +84,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Extended Gen
       - Stylized
@@ -95,6 +103,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Director Model
       - Character Consist
@@ -103,7 +113,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Luma Dream Machine
-    url: https://lumalabs.ai/dream-machine
+    url: https://lumalabs.ai/app
     added_at: '2026-04-16T19:59:30.000Z'
     description: Atmospheric image-to-video. Ray3 is the first native 16-bit HDR video model.
     license: Freemium
@@ -112,11 +122,13 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - HDR
       - Atmospheric
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: HunyuanVideo 1.5
@@ -130,6 +142,9 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - 14GB VRAM
@@ -148,6 +163,9 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - MoE Diffusion
@@ -167,6 +185,9 @@ entries:
         - ai-generative
         - real-time
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - Fast
@@ -184,6 +205,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - 16s
       - Human Motion
@@ -201,11 +224,13 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Style Modes
       - Consistency
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Haiper
@@ -218,6 +243,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Ex-DeepMind
       - V2V
@@ -236,6 +263,8 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - web
     readme_tags:
       - Open Source
       - Genmo
@@ -244,7 +273,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Cog Video X
-    url: https://github.com/THUDM/CogVideo
+    url: https://github.com/zai-org/CogVideo
     added_at: '2026-04-16T19:59:30.000Z'
     description: Tsinghua/Zhipu open-source, multiple sizes.
     license: Open Source
@@ -254,11 +283,14 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - Tsinghua
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Seedance 2.0 (ByteDance)
@@ -273,15 +305,17 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Top Quality
       - Native Audio
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Google Flow
-    url: https://labs.google/flow
+    url: https://flow.google.com/
     added_at: '2026-06-14T22:09:48.000Z'
     description: Filmmaking app over Veo with scenebuilder and ingredients-to-video.
     license: Paid
@@ -292,15 +326,17 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Filmmaking
       - Scenebuilder
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: LTX Studio
-    url: https://ltx.studio/
+    url: https://ltx.io/studio
     added_at: '2026-06-14T22:09:48.000Z'
     description: Pre-production to video pipeline with storyboards, character consistency, and timeline.
     license: Freemium
@@ -311,11 +347,13 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Pre-production
       - Storyboards
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Frameo
@@ -330,6 +368,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Script to Video
       - Timeline
@@ -349,6 +389,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Cinematography
       - Continuity
@@ -368,6 +410,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - All-in-one
     url_last_verified: '2026-10-01'
@@ -386,6 +430,8 @@ entries:
         - broadcast
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Avatars
     url_last_verified: '2026-10-01'
@@ -404,6 +450,8 @@ entries:
         - broadcast
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Marketing
     url_last_verified: '2026-10-01'
@@ -422,9 +470,206 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Film Studio
     url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
+  - name: SeedVR2 (ByteDance)
+    url: https://github.com/ByteDance-Seed/SeedVR
+    description: Open model that upscales and restores video and images in one diffusion step.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.028Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Upscaling
+    best_for: Video restoration and upscaling
+  - name: Video2X
+    url: https://github.com/k4yt3x/video2x
+    description: Video upscaler and frame interpolator using Real-ESRGAN, Real-CUGAN and RIFE.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.030Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Upscaling
+    best_for: Video upscaling and interpolation
+  - name: Marey (Moonvalley)
+    url: https://www.moonvalley.com/
+    description: Video generation model trained on licensed footage, with camera, pose and motion-transfer controls.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - web
+        - cloud
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.032Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Licensed Data
+    best_for: Rights-safe video generation
+  - name: MAGI-1 (Sand AI)
+    url: https://github.com/SandAI-org/MAGI-1
+    description: Open autoregressive video model that generates and extends clips chunk by chunk.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.034Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Video Model
+    best_for: Long video generation
+  - name: Stable Virtual Camera
+    url: https://github.com/Stability-AI/stable-virtual-camera
+    description: Stability AI model that renders new camera views and camera-path videos from input images.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.036Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - Stability AI
+    best_for: Novel view synthesis
+  - name: Beeble
+    url: https://beeble.ai/
+    description: AI relighting for footage that extracts normal, albedo and depth passes. Web app plus local Beeble Studio.
+    pricing: Cloud from $16/mo, Studio from $42/mo
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - lighting
+        - roto
+      output:
+        - film-vfx
+      platform:
+        - web
+        - win
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.038Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Relighting
+    best_for: Footage relighting
+  - name: Simulon
+    url: https://simulon.com/
+    description: iPhone app that tracks camera and lighting to composite 3D assets into live-action footage.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - match-move
+        - compositing
+        - lighting
+      output:
+        - film-vfx
+      platform:
+        - ios
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.039Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - iPhone
+    best_for: Mobile CG compositing
+  - name: Cuebric
+    url: https://cuebric.com/
+    description: AI tool that turns images into layered 2.5D environments for LED-wall virtual production.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.041Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - LED Wall
+    best_for: 2.5D virtual production plates

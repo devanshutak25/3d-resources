@@ -105,6 +105,8 @@ entries:
       tech:
         - opensource-alt
         - godot
+      workflow:
+        - modeling
   - name: Gut
     url: https://github.com/bitwes/Gut
     added_at: '2026-04-16T19:59:30.000Z'
@@ -151,7 +153,7 @@ entries:
   - name: Godot 4 glTF runtime import
     url: https://github.com/godotengine/godot-docs/issues/6385
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Godot 4 glTF runtime import.
+    description: GitHub issue in the Godot docs repo about documenting runtime glTF import in Godot 4.
     license: Open Source
     entry_type: reference
     url_last_verified: '2026-10-01'

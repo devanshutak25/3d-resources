@@ -34,13 +34,13 @@ entries:
       tech:
         - unity
   - name: Cesium
-    url: https://cesiumjs.org/
+    url: https://cesium.com/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Open-source library for 3D globes and maps.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -49,14 +49,14 @@ entries:
       platform:
         - web
   - name: Virtual ray lights for rendering scenes with participating media
-    url: http://cg.ivd.kit.edu/publications/p2012/VRL/VRL.pdf
+    url: https://cg.ivd.kit.edu/publications/p2012/VRL/VRL.pdf
     added_at: '2026-04-19T17:29:43.000Z'
     description: Novák et al. SIGGRAPH 2012.
     entry_type: reference
     license: Free
     year: 2012
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -96,14 +96,14 @@ entries:
       platform:
         - web
   - name: Optimally Combining Sampling Techniques for Monte Carlo Rendering
-    url: http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf
+    url: https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach95.pdf
     added_at: '2026-04-19T17:29:43.000Z'
     description: Veach & Guibas. SIGGRAPH 1995.
     entry_type: reference
     license: Free
     year: 1995
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -130,7 +130,7 @@ entries:
   - name: Cyos
     url: https://cyos.babylonjs.com/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Online shader editor.
+    description: Babylon.js Create Your Own Shader editor for writing and previewing shaders in the browser.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
@@ -163,7 +163,7 @@ entries:
     license: Free
     year: 1980
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -213,12 +213,12 @@ entries:
       platform:
         - web
   - name: Shaping functions
-    url: http://www.flong.com/archive/texts/code/
+    url: https://www.flong.com/archive/texts/code/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Set of shaping functions for shaders.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -226,26 +226,26 @@ entries:
       platform:
         - web
   - name: Framer Motion
-    url: https://www.framer.com/motion/
+    url: https://motion.dev/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Animation library for React, usable with react-three-fiber via the framer-motion-3d package.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
       platform:
         - web
   - name: Creative Coding with Canvas & WebGL
-    url: https://frontendmasters.com/courses/canvas-webgl/
+    url: https://master.dev/courses/canvas-webgl/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Workshop by Matt DesLauriers on generative art, interactive animations, 3D graphics, and shaders.
     entry_type: tutorial
     license: Paid
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -255,13 +255,13 @@ entries:
       platform:
         - web
   - name: Advanced Creative Coding with WebGL & Shaders
-    url: https://frontendmasters.com/courses/webgl-shaders/
+    url: https://master.dev/courses/webgl-shaders/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Workshop by Matt DesLauriers going deeper into graphics programming, math, and shaders.
     entry_type: tutorial
     license: Paid
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -286,13 +286,13 @@ entries:
       platform:
         - web
   - name: Unity Shader Tutorials
-    url: https://github.com/lindenreid/Unity-Shader-Tutorials
+    url: https://github.com/travislindenreid/Unity-Shader-Tutorials
     added_at: '2026-04-19T17:29:43.000Z'
     description: Full project and code for a set of Unity shader tutorials.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -417,13 +417,13 @@ entries:
     stale: true
     last_pushed: '2019-07-15'
   - name: Lily Surface Scrapper
-    url: https://github.com/eliemichel/LilySurfaceScrapper
+    url: https://github.com/eliemichel/LilySurfaceScraper
     added_at: '2026-04-19T17:29:43.000Z'
     description: Blender addon that imports materials and shaders from a single URL.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -436,13 +436,13 @@ entries:
         - opensource-alt
         - blender-addon
   - name: Extra Lights
-    url: https://github.com/jlampel/bl_extra_lights
+    url: https://github.com/jlampel/extra_lights
     added_at: '2026-04-19T17:29:43.000Z'
     description: Blender addon adding physically based, photometric lighting presets to the Add menu.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - lighting
@@ -613,13 +613,13 @@ entries:
     stale: true
     last_pushed: '2023-08-30'
   - name: CodeXL
-    url: https://github.com/GPUOpen-Tools/CodeXL
+    url: https://github.com/GPUOpen-Archive/CodeXL
     added_at: '2026-04-19T17:29:43.000Z'
     description: AMD tool suite with a debugger, profiler, and frame/shader analysis.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -692,13 +692,13 @@ entries:
         - houdini
         - gpu
   - name: GLSL Sandbox
-    url: http://glslsandbox.com
+    url: https://glslsandbox.com
     added_at: '2026-04-19T17:29:43.000Z'
     description: Online live editor for fragment shaders.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -729,7 +729,9 @@ entries:
     license: Free
     year: 1998
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: PDF removed; redirects to Cornell program page.
+    deprecated: true
     tags:
       workflow:
         - rendering
@@ -786,13 +788,13 @@ entries:
       platform:
         - web
   - name: gsap
-    url: https://greensock.com/gsap/
+    url: https://gsap.com/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Animation library for CSS and JavaScript, framework agnostic and usable with three.js, backed by plugins like ScrollTrigger and Flip.
     entry_type: reference
     license: Freemium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -800,14 +802,14 @@ entries:
       platform:
         - web
   - name: Temporal light field reconstruction for rendering distribution effects
-    url: http://groups.csail.mit.edu/graphics/tlfr/
+    url: https://groups.csail.mit.edu/graphics/tlfr/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Lehtinen et al. SIGGRAPH 2011.
     entry_type: reference
     license: Free
     year: 2011
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering

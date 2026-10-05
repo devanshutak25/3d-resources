@@ -67,7 +67,6 @@ entries:
         - advanced
       platform:
         - web
-    deprecated: true
   - name: Deconstructor of Fun
     url: https://www.deconstructoroffun.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -84,11 +83,11 @@ entries:
       platform:
         - web
   - name: Game Programming Patterns
-    url: http://gameprogrammingpatterns.com/contents.html
+    url: https://gameprogrammingpatterns.com/contents.html
     added_at: '2026-04-16T19:59:30.000Z'
     description: Lots of great game development patterns useful when making games with or without Unity.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -134,6 +133,8 @@ entries:
         - intermediate
       platform:
         - web
+      workflow:
+        - texturing
   - name: pixeldudesmaker
     url: https://0x72.itch.io/pixeldudesmaker
     added_at: '2026-04-19T17:15:03.000Z'
@@ -147,38 +148,42 @@ entries:
         - games
       platform:
         - win
+      workflow:
+        - texturing
   - name: Turbulenz
-    url: http://biz.turbulenz.com/developers
+    url: https://ga.me/developers
     added_at: '2026-04-19T17:15:03.000Z'
     description: HTML5 game engine for building, publishing, and monetising games with 3D effects and real-time physics.
     entry_type: reference
-    url_last_verified: '2026-10-01'
-    url_status: redirect
-    tags:
-      output:
-        - games
-      platform:
-        - web
-  - name: Timanthes
-    url: http://csdb.dk/release/?id=75871
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: A pixel art editor for the Commodore 64 computer running on Windows
-    entry_type: tool
-    license: Free
     url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
         - games
       platform:
+        - web
+  - name: Timanthes
+    url: https://csdb.dk/release/?id=75871
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: A pixel art editor for the Commodore 64 computer running on Windows.
+    entry_type: tool
+    license: Free
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    tags:
+      output:
+        - games
+      platform:
         - win
+      workflow:
+        - texturing
   - name: SpriteKit
-    url: https://developer.apple.com/spritekit/
+    url: https://developer.apple.com/documentation/spritekit/
     added_at: '2026-04-16T21:13:44.000Z'
     description: SpriteKit code to make your game work on iOS, macOS, and tvOS without a hitch.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - creative-coding
@@ -187,25 +192,13 @@ entries:
       platform:
         - mac
         - ios
-  - name: DevianArt7Soul1
-    url: https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Offers a specific set of 420 pixel art icons designed for RPG games.
-    entry_type: asset-source
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      platform:
-        - web
   - name: 'Game Development Essentials: Game Level Design'
-    url: http://www.goodreads.com/book/show/1633392.Game_Development_Essentials
+    url: https://www.goodreads.com/book/show/1633392.Game_Development_Essentials
     added_at: '2026-04-19T17:15:03.000Z'
     description: Book on game level design fundamentals.
     entry_type: book
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -213,13 +206,12 @@ entries:
         - beginner
       platform:
         - web
-    deprecated: true
   - name: LWF
-    url: http://gree.github.io/lwf/
+    url: https://gree.github.io/lwf/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -240,6 +232,8 @@ entries:
         - games
       platform:
         - win
+      workflow:
+        - rendering
   - name: Unity in Action (book)
     url: https://www.manning.com/books/unity-in-action-second-edition
     added_at: '2026-04-19T17:15:03.000Z'
@@ -273,18 +267,20 @@ entries:
       tech:
         - ai-generative
   - name: Spritemate
-    url: http://www.spritemate.com
+    url: https://www.spritemate.com
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Online Editor for Commodore 64 Sprites
+    description: Online Editor for Commodore 64 Sprites.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       output:
         - games
       platform:
         - web
+      workflow:
+        - texturing
   - name: Pixel Composer (GitHub)
     url: https://github.com/Ttanasart-pt/Pixel-Composer
     added_at: '2026-04-16T21:13:44.000Z'
@@ -306,7 +302,7 @@ entries:
   - name: Open 3D Engine (O3ED)
     url: https://github.com/o3de/o3de
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games
+    description: Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games.
     entry_type: software
     license: Open Source
     url_last_verified: '2026-10-01'

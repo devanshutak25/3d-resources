@@ -1,14 +1,14 @@
 entries:
   - name: Topology Guides
-    url: http://topologyguides.com/
+    url: https://topologyguides.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Topology reference.
+    description: Visual reference site showing clean polygon topology layouts for common shapes and edge-flow problems.
     license: Free
     entry_type: reference
     readme_tags:
       - Topology
-    url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       output:
         - generalist
@@ -26,7 +26,7 @@ entries:
       - Blender
       - Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -48,7 +48,7 @@ entries:
       - Blender
       - Retopo
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -104,3 +104,50 @@ entries:
         - intermediate
       platform:
         - web
+  - name: QRemeshify
+    url: https://github.com/ksami/QRemeshify
+    description: Free Blender extension that remeshes models into quads with the QuadWild algorithm.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - retopo
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.066Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Blender
+    best_for: Automatic quad remeshing
+  - name: Smart Remesh
+    url: https://superhivemarket.com/products/smart-remesh
+    description: Blender retopology add-on with organic and hard-surface modes for clean quad meshes.
+    pricing: $15
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - retopo
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.067Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Quick quad retopology

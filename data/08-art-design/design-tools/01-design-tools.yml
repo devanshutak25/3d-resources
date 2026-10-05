@@ -1,6 +1,6 @@
 entries:
   - name: X Design
-    url: https://www.x-design.com/
+    url: https://zawa.ai/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Browser-based design editor for product photos and visuals.
     license: Freemium
@@ -9,7 +9,7 @@ entries:
       - Design
       - Web
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -52,14 +52,16 @@ entries:
       - Blob Tracking
       - Effect
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Tool removed; domain redirects to artkit.cc home.
+    deprecated: true
     tags:
       platform:
         - web
   - name: Halftone Maker
     url: https://halftonemaker.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Halftone generator.
+    description: Web tool that turns images into halftone, line halftone or stippling patterns and exports SVG.
     license: Free
     entry_type: tool
     readme_tags:
@@ -87,7 +89,7 @@ entries:
   - name: Tiled Art
     url: https://tiled.art/en/home/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Tessellation creator.
+    description: Site about Escher-style tessellation art with a tool to create your own.
     license: Free
     entry_type: tool
     readme_tags:
@@ -170,20 +172,6 @@ entries:
     tags:
       platform:
         - web
-  - name: Cosmos
-    url: https://www.cosmos.so/home
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Visual content curation platform.
-    license: Free
-    entry_type: inspiration
-    readme_tags:
-      - Curation
-      - Visual
-    url_last_verified: '2026-10-01'
-    url_status: redirect
-    tags:
-      platform:
-        - web
   - name: Mockup Photos
     url: https://mockup.photos/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -194,22 +182,23 @@ entries:
       - Mockups
       - Devices
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    deprecated: true
     tags:
       platform:
         - web
     notes: License assumed Freemium; verify on next pricing pass.
   - name: Savee
-    url: https://savee.it/
+    url: https://savee.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Visual bookmarking tool.
+    description: Curated site for collecting and saving visual inspiration and references.
     license: Freemium
     entry_type: tool
     readme_tags:
       - Bookmarking
       - Curation
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -261,7 +250,7 @@ entries:
   - name: Mockup World
     url: https://www.mockupworld.co/
     added_at: '2026-06-21T19:32:23.000Z'
-    description: Free PSD mockup library.
+    description: Free PSD mockup library for presenting designs on devices, print and packaging.
     license: Free
     entry_type: asset-source
     tags:

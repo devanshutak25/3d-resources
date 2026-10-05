@@ -1,11 +1,11 @@
 entries:
   - name: Actors Unity3d Framework
-    url: https://github.com/dimmpixeye/Actors-Unity3d-Framework
+    url: https://github.com/PixeyeHQ/actors.unity
     added_at: '2026-04-19T17:15:03.000Z'
     description: Decouples data from behavior in Unity.
     entry_type: tool
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     license: Open Source
     readme_tags:
       - unity-plugin
@@ -251,12 +251,12 @@ entries:
     stale: true
     last_pushed: '2022-06-17'
   - name: yaSingleton
-    url: https://github.com/jedybg/yaSingleton
+    url: https://github.com/heyJordanParker/yaSingleton
     added_at: '2026-04-19T17:15:03.000Z'
     description: Singleton pattern for Unity using ScriptableObjects instead of MonoBehaviour.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     license: Open Source
     readme_tags:
       - unity-plugin
@@ -435,12 +435,12 @@ entries:
     stale: true
     last_pushed: '2014-08-14'
   - name: Unity Object Pooler
-    url: https://github.com/imxzjv/UnityObjectPooler
+    url: https://github.com/jeffvella/UnityObjectPooler
     added_at: '2026-04-19T17:15:03.000Z'
     description: Simple object pool for Unity.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     license: Open Source
     readme_tags:
       - unity-plugin
@@ -479,12 +479,12 @@ entries:
         - unity-plugin
         - opensource-alt
   - name: MessagePack CSharp
-    url: https://github.com/neuecc/MessagePack-CSharp
+    url: https://github.com/MessagePack-CSharp/MessagePack-CSharp
     added_at: '2026-04-19T17:15:03.000Z'
     description: Fast MessagePack serializer for C# (.NET, Unity, Xamarin).
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     license: Open Source
     readme_tags:
       - unity-plugin
@@ -592,12 +592,12 @@ entries:
     stale: true
     last_pushed: '2016-03-01'
   - name: OpenFile
-    url: https://github.com/mrzapp/openfile
+    url: https://github.com/unity3d-open-tools/openfile
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source serialization for Unity.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     license: Open Source
     readme_tags:
       - unity-plugin
@@ -663,7 +663,7 @@ entries:
   - name: Knight Windjson
     url: https://github.com/winddyhe/knight-windjson
     added_at: '2026-04-19T17:15:03.000Z'
-    description: JSON parser for Unity.
+    description: JSON parser library for Unity written in C#.
     entry_type: reference
     url_last_verified: '2026-10-01'
     url_status: ok
@@ -707,12 +707,12 @@ entries:
     stale: true
     last_pushed: '2022-04-15'
   - name: log4net.unity
-    url: https://github.com/HolyShovelSoft/log4net.unity
+    url: https://github.com/HolyShovelSoft/log4uni
     added_at: '2026-04-19T17:15:03.000Z'
     description: log4net helpers and a UnityEngine.Debug appender for Unity.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     license: Open Source
     readme_tags:
       - unity-plugin
@@ -1048,12 +1048,12 @@ entries:
     stale: true
     last_pushed: '2021-03-06'
   - name: LINQ to GameObject for Unity
-    url: https://github.com/neuecc/LINQ-to-GameObject-for-Unity
+    url: https://github.com/Cysharp/ZLinq
     added_at: '2026-04-19T17:15:03.000Z'
     description: Traverse the GameObject hierarchy using LINQ.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     license: Open Source
     readme_tags:
       - unity-plugin
@@ -1092,12 +1092,12 @@ entries:
     stale: true
     last_pushed: '2019-02-27'
   - name: UnityComponent
-    url: https://github.com/GameBuildingBlocks/UnityComponent
+    url: https://github.com/vs-archives/UnityComponent
     added_at: '2026-04-19T17:15:03.000Z'
     description: Resource and component management helpers for Unity.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     license: Open Source
     readme_tags:
       - unity-plugin
@@ -1115,12 +1115,12 @@ entries:
     stale: true
     last_pushed: '2018-04-10'
   - name: Unity.Library.eppz
-    url: https://github.com/eppz/Unity.Library.eppz
+    url: https://github.com/Geri-Borbas/Unity.Library.eppz
     added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of utility libraries for Unity.
     entry_type: tool
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     license: Open Source
     readme_tags:
       - unity-plugin

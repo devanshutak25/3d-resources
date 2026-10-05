@@ -63,6 +63,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
   - name: GASP ALS
     url: https://github.com/PolygonHive/GASP-ALS
     added_at: '2026-04-19T17:29:43.000Z'
@@ -84,6 +86,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
   - name: LeapUnreal
     url: https://github.com/leapmotion/leapunreal
     added_at: '2026-04-19T17:29:43.000Z'
@@ -172,6 +176,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
   - name: Ps Web Server
     url: https://github.com/PushkinStudio/PsWebServer
     added_at: '2026-04-19T17:29:43.000Z'
@@ -278,6 +284,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
     stale: true
     last_pushed: '2023-12-09'
   - name: KawaiiPhysics
@@ -301,6 +309,9 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
+        - simulation
   - name: UnrealLive2D
     url: https://github.com/Arisego/UnrealLive2D
     added_at: '2026-04-19T17:29:43.000Z'
@@ -322,6 +333,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
     archived: true
   - name: Articy Importer For Unreal
     url: https://github.com/ArticySoftware/ArticyImporterForUnreal
@@ -386,6 +399,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: PluginTemplate
     url: https://github.com/Sythenz/PluginTemplate
     added_at: '2026-04-19T17:29:43.000Z'
@@ -476,6 +491,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - fx
     stale: true
     last_pushed: '2020-12-16'
   - name: NiagaraUIRenderer
@@ -499,6 +516,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - fx
   - name: UE5 Stylized Post Process
     url: https://github.com/ymt3d/UE5-StylizedPostProcess
     added_at: '2026-04-19T17:29:43.000Z'
@@ -520,6 +539,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - rendering
   - name: OceanProject
     url: https://github.com/UE4-OceanProject/OceanProject
     added_at: '2026-04-19T17:29:43.000Z'
@@ -541,6 +562,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - simulation
     stale: true
     last_pushed: '2021-05-26'
   - name: Runtime Mesh Component
@@ -564,6 +587,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: Greebler
     url: https://github.com/alexismorin/Greebler
     added_at: '2026-04-19T17:29:43.000Z'
@@ -585,6 +610,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2019-05-13'
   - name: cashgenUE
@@ -608,6 +635,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: OpenLand
     url: https://github.com/GameDev4K/unreal-open-land
     added_at: '2026-04-19T17:29:43.000Z'
@@ -629,6 +658,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - material-authoring
   - name: DungeonGenerator
     url: https://github.com/orfeasel/DungeonGenerator
     added_at: '2026-04-19T17:29:43.000Z'
@@ -650,6 +681,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: UE4 Custom Gravity Plugin
     url: https://github.com/mhousse1247/UE4-CustomGravityPlugin
     added_at: '2026-04-19T17:29:43.000Z'
@@ -826,6 +859,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - fx
     stale: true
     last_pushed: '2017-03-11'
   - name: CensoredUE4

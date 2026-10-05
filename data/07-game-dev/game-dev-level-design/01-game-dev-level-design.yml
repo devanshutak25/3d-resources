@@ -1,6 +1,6 @@
 entries:
   - name: Sprytile (itch.io)
-    url: https://chemikhazi.itch.io/sprytile
+    url: https://jeiel.itch.io/sprytile
     added_at: '2026-04-16T19:59:30.000Z'
     description: Blender addon for tile-based 3D levels.
     license: Open Source
@@ -20,11 +20,11 @@ entries:
       - Blender Addon
       - Tile-based 3D
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Tiled2Unity
     url: https://github.com/Seanba/Tiled2Unity
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Export [Tiled](http://www.mapeditor.org) Map Editor (TMX) files into Unity.
+    description: Exports Tiled map editor TMX files into Unity prefabs with sprites and colliders.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -107,7 +107,7 @@ entries:
   - name: Editor2D
     url: https://github.com/stillwwater/editor2d
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Tile based level editor for Unity
+    description: Tile based level editor for Unity.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-10-01'
@@ -122,6 +122,8 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2019-06-08'
   - name: Sprytile (GitHub)

@@ -46,7 +46,7 @@ entries:
       - Browser
       - Product Design
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Vectary
     url: https://www.vectary.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -82,8 +82,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
   - name: Houdini Apprentice
-    url: https://www.sidefx.com/products/houdini-apprentice/
+    url: https://www.sidefx.com/get/try-houdini/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free learning version of Houdini.
     license: Free NC
@@ -100,7 +102,7 @@ entries:
       - Free NC
       - Learning Version
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/houdini-getting-started
   - name: Cascadeur
@@ -219,7 +221,7 @@ entries:
       - VR
       - Concept
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Re:Form
     url: https://reformsculpt.com/
     added_at: '2026-07-21T10:53:26.000Z'
@@ -242,3 +244,30 @@ entries:
       - WebGPU
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Mush3D
+    url: https://mush3d.com/
+    description: GPU tool for sculpting and simulating corrective fixes on animated mesh caches.
+    pricing: Free tier, Indie $29/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - sculpting
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gpu
+    added_at: '2026-10-05T08:51:07.096Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - GPU
+    best_for: Animated mesh corrective fixes
+    pricing_last_verified: '2026-10-05'

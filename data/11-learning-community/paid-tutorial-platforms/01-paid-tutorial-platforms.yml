@@ -20,7 +20,7 @@ entries:
   - name: Motion Design School (site)
     url: https://motiondesign.school/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion graphics courses.
+    description: Online school selling motion graphics courses in After Effects, Cinema 4D and related tools.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -36,7 +36,7 @@ entries:
       platform:
         - web
   - name: MoGraph Mentor (site)
-    url: https://www.mographmentor.com/
+    url: https://mograph-mentor-workshops.teachable.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: 3D motion design courses.
     license: Paid
@@ -45,7 +45,7 @@ entries:
       - 3D Motion
       - Mentorship
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -56,7 +56,7 @@ entries:
   - name: CG Shortcuts (site)
     url: https://cgshortcuts.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: C4D workflow courses.
+    description: Site of CG Shortcuts selling Cinema 4D courses on workflow, modeling and animation.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -74,7 +74,7 @@ entries:
   - name: CGCookie
     url: https://cgcookie.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Blender courses. $29/mo.
+    description: Subscription site with Blender courses and learning paths for modeling, animation and game art.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -92,7 +92,7 @@ entries:
   - name: Pluralsight
     url: https://www.pluralsight.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: All software, $29/mo.
+    description: Subscription platform with video courses on software, creative tools and IT topics.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -110,7 +110,7 @@ entries:
   - name: LearnSquared
     url: https://www.learnsquared.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Professional CG courses.
+    description: Online platform with CG and concept art courses taught by working industry artists.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -128,7 +128,7 @@ entries:
   - name: Patata School
     url: https://www.patataschool.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: C4D and Octane courses.
+    description: Online school with Cinema 4D and Octane courses for 3D motion design.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -204,8 +204,8 @@ entries:
   - name: Mind + Motion (Effectatron)
     url: https://effectatron-c4d-redshift.teachable.com/
     added_at: '2026-04-16T20:54:45.000Z'
-    description: Derek Kirk's C4D + Redshift course. Covers imposter syndrome / mental health alongside technique. $10–$49.99 per course.
-    pricing: $10–$49.99 per course
+    description: Derek Kirk's C4D + Redshift course. Covers imposter syndrome / mental health alongside technique. $10-$49.99 per course.
+    pricing: $10-$49.99 per course
     license: Paid
     entry_type: tutorial
     tags:
@@ -221,11 +221,11 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Pixel Art Tutorial Basics for Beginners
-    url: http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783
+    url: https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783
     added_at: '2026-04-16T21:13:44.000Z'
     description: Pixel art basics for beginners.
     entry_type: tutorial
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -309,7 +309,7 @@ entries:
     description: In-depth pixel art tutorial book.
     entry_type: book
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration
@@ -392,12 +392,12 @@ entries:
       platform:
         - web
   - name: Blender Secrets
-    url: https://www.blendersecrets.org/secrets
+    url: https://www.3dsecrets.com/secrets
     added_at: '2026-04-19T17:15:03.000Z'
     description: Hundreds of one-minute video tutorials, each on a specific Blender topic.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -422,12 +422,12 @@ entries:
       platform:
         - web
   - name: Unity in HoloLens
-    url: https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview
+    url: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/unity-development-overview
     added_at: '2026-04-19T17:15:03.000Z'
     description: Microsoft's official tutorials for building HoloLens apps in Unity.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - xr
@@ -438,12 +438,12 @@ entries:
       tech:
         - unity
   - name: Getting Started with VR in Unity (DigitalTutors)
-    url: http://www.digitaltutors.com/tutorial/2227-Getting-Started-with-VR-in-Unity
+    url: https://www.pluralsight.com/courses/unity-vr-fundamentals
     added_at: '2026-04-19T17:15:03.000Z'
     description: Introductory tutorial for building VR experiences in Unity.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - xr
@@ -470,12 +470,12 @@ entries:
       platform:
         - web
   - name: GameDev.tv Unreal Engine Blueprint Game Developer Online Course
-    url: https://www.gamedev.tv/p/unreal-blueprint/
+    url: https://gamedev.tv/courses/unreal-blueprints
     added_at: '2026-04-19T17:15:03.000Z'
     description: Unreal Engine Blueprint game development course.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -554,12 +554,12 @@ entries:
       tech:
         - unity
   - name: Ray Wenderlich's Tutorials
-    url: http://www.raywenderlich.com/category/unity
+    url: https://www.kodeco.com/library?domain_ids%5B%5D=3&q=
     added_at: '2026-04-19T17:15:03.000Z'
     description: Beginner and mid-level Unity tutorials and small example games.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -575,7 +575,7 @@ entries:
     description: Setting up Vive Trackers to control objects in Unity.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     tags:
       output:
         - xr
@@ -605,7 +605,9 @@ entries:
     description: Udacity course on ARKit development using Unity.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Course retired; redirects to a Udacity catalog page.
+    deprecated: true
     tags:
       output:
         - xr
@@ -618,7 +620,7 @@ entries:
   - name: Unity Gems Wordpress
     url: https://unitygem.wordpress.com/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Unity3D tutorials.
+    description: WordPress blog with Unity tutorials and articles on C# scripting.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
     url_status: ok
