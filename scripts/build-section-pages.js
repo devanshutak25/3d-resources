@@ -14,7 +14,7 @@ const { marked } = require('marked');
 require('./lib/html-safe').useSafeLinks(marked);
 const fs = require('fs');
 const path = require('path');
-const { execSync, execFileSync } = require('child_process');
+const { execSync } = require('child_process');
 const catalog = require('./lib/catalog');
 const render = require('./render');
 render.setLinkMode('pages');
@@ -46,14 +46,11 @@ const SECTION_ICONS = {
   'software-reference': 'application-outline'
 };
 
-// Render a whole section's markdown via render.js (software tables, references,
-// mirror blocks). renderSection isn't exported (it appends mirror blocks + a
-// trailing rule), so shell out to preserve the exact main-site markup.
+// Render a whole section's markdown (software tables, references, mirror
+// blocks) in-process; render.setLinkMode('pages') above points cross-links at
+// standalone subsection pages.
 function renderSectionMarkdown(sectionFile) {
-  return execFileSync('node', ['scripts/render.js', sectionFile, '--link-mode=pages'], {
-    encoding: 'utf8',
-    maxBuffer: 50 * 1024 * 1024
-  });
+  return render.renderSectionFile(sectionFile);
 }
 
 // Post-process passes lifted from build-html.js (kept in sync deliberately).
@@ -199,6 +196,13 @@ function entriesFor(sectionFile) {
 
 // --- Page renderers ---------------------------------------------------------
 
+// Per-section OG card from build-og-images.js; the site-wide card if it is missing
+// (generation failed or was skipped) so shared links never point at a 404 image.
+function sectionOgImage(slug) {
+  const png = path.join(__dirname, '..', '_site', 'assets', 'og', `${slug}.png`);
+  return fs.existsSync(png) ? `${SITE_URL}/assets/og/${slug}.png` : `${SITE_URL}/assets/og-image.png`;
+}
+
 function renderSectionPage({ sectionDoc, slug, description, htmlBody, subs, prev, next, jsonLd, lastUpdated }) {
   const canonicalUrl = `${SITE_URL}/sections/${slug}/`;
   const pageTitle = `${sectionDoc.title} · 3D Resources`;
@@ -227,7 +231,7 @@ ${items}
   }
 
   return pageShell({
-    canonicalUrl, ogImage: `${SITE_URL}/assets/og/${slug}.png`, pageTitle, desc, noindex: false, jsonLd,
+    canonicalUrl, ogImage: sectionOgImage(slug), pageTitle, desc, noindex: false, jsonLd,
     breadcrumbHtml: `<a href="/">3D Resources</a> / <span>${escHtml(sectionDoc.title)}</span>`,
     headerHtml: `<p class="view"><a href="/">← All sections</a></p>\n      <p class="view"><a href="${REPO_URL}">View on GitHub</a></p>`,
     subNavHtml,
@@ -253,7 +257,7 @@ function renderSubsectionPage({ sub, slug, htmlBody, prev, next, jsonLd, lastUpd
     : '<span></span>';
 
   return pageShell({
-    canonicalUrl: subCanonical, ogImage: `${SITE_URL}/assets/og/${sub.sectionSlug}.png`, pageTitle, desc,
+    canonicalUrl: subCanonical, ogImage: sectionOgImage(sub.sectionSlug), pageTitle, desc,
     noindex: !sub.indexable, jsonLd,
     breadcrumbHtml: `<a href="/">3D Resources</a> / <a href="${sectionCanonical}">${escHtml(sub.sectionTitle)}</a> / <span>${escHtml(sub.subTitle)}</span>`,
     headerHtml: `<p class="view"><a href="/sections/${sub.sectionSlug}/">← ${sub.sectionTitle}</a></p>\n      <p class="view"><a href="${REPO_URL}">View on GitHub</a></p>`,

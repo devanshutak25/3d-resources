@@ -81,30 +81,38 @@ function getSubCounts() {
   return counts;
 }
 
+// One pass over every chunk, grouped by the subsection each entry renders in:
+// its own (primary) plus every dual_listed_in mirror. Built once per process;
+// a fresh catalog read per subsection made a full build re-parse all chunks
+// ~180 times per step. Order matches chunk order, as before.
+let _subIndex = null;
+function subIndex() {
+  if (_subIndex) return _subIndex;
+  _subIndex = new Map();
+  const add = (loc, e, primaryLoc) => {
+    if (!_subIndex.has(loc)) _subIndex.set(loc, []);
+    _subIndex.get(loc).push({ e, primaryLoc });
+  };
+  for (const ref of catalog.listChunks()) {
+    const chunk = catalog.loadChunk(ref.id);
+    const primaryLoc = `${ref.sectionSlug}/${ref.subSlug}`;
+    for (const e of chunk.entries) {
+      add(primaryLoc, e, primaryLoc);
+      for (const d of e.dual_listed_in || []) if (d !== primaryLoc) add(d, e, primaryLoc);
+    }
+  }
+  return _subIndex;
+}
+
 function loadSubEntries(sectionFile, subSlug, sectionSlug) {
   const entries = [];
   const seenUrls = new Set();
-  const targetPath = `${sectionSlug}/${subSlug}`;
-  for (const ref of catalog.listChunks()) {
-    const isPrimary = ref.sectionFile === sectionFile && ref.subSlug === subSlug;
-    const chunk = catalog.loadChunk(ref.id);
-    const chunkPrimary = `${ref.sectionSlug}/${ref.subSlug}`;
-    for (const e of chunk.entries) {
-      if (isPrimary) {
-        const k = (e.url || '').toLowerCase();
-        if (k && seenUrls.has(k)) continue;
-        if (k) seenUrls.add(k);
-        // Tag with primary location for B5 "See also".
-        entries.push(Object.assign({}, e, { _primaryLoc: chunkPrimary }));
-      } else {
-        const dual = e.dual_listed_in || [];
-        if (!dual.includes(targetPath)) continue;
-        const k = (e.url || '').toLowerCase();
-        if (k && seenUrls.has(k)) continue;
-        if (k) seenUrls.add(k);
-        entries.push(Object.assign({}, e, { _primaryLoc: chunkPrimary }));
-      }
-    }
+  for (const { e, primaryLoc } of subIndex().get(`${sectionSlug}/${subSlug}`) || []) {
+    const k = (e.url || '').toLowerCase();
+    if (k && seenUrls.has(k)) continue;
+    if (k) seenUrls.add(k);
+    // Tag with primary location for B5 "See also".
+    entries.push(Object.assign({}, e, { _primaryLoc: primaryLoc }));
   }
   return entries;
 }
@@ -265,7 +273,7 @@ function header() {
     '[![Validate](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml/badge.svg)](https://github.com/devanshutak25/3d-resources/actions/workflows/validate.yml)',
     '[![Live site](https://img.shields.io/badge/live%20site-3d.devanshutak.xyz-7c3aed)](https://3d.devanshutak.xyz)',
     '',
-    '> A curated collection of **free and paid 3D resources**: software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush, Unreal Engine, and more. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
+    '> A curated collection of **free and paid 3D resources**: software, assets, textures, HDRIs, tutorials, plugins, and learning material for Blender, Houdini, Cinema 4D, Maya, ZBrush and Unreal Engine. Covers 3D modeling, animation, VFX, rendering, game development, motion graphics, and digital art.',
     '',
     '> 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)**. Search and filter by License · Platform · Workflow · Output.',
     '',
@@ -639,6 +647,12 @@ function parseArgs(argv) {
   return args;
 }
 
+// Markdown for one whole section (H2, subsections, mirror blocks, trailing rule):
+// exactly what `node render.js <sectionFile>` prints.
+function renderSectionFile(sectionFile) {
+  return renderSection(catalog.loadSection(sectionFile), sectionFile);
+}
+
 function main() {
   const args = parseArgs(process.argv);
   setLinkMode(args.linkMode);
@@ -685,6 +699,7 @@ module.exports = {
   githubAnchor,
   renderSubsection,
   renderSubsectionMarkdown,
+  renderSectionFile,
   setLinkMode
 };
 

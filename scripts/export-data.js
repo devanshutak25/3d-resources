@@ -41,15 +41,23 @@ function main() {
     };
   }
 
+  // One row per (subsection, url): a URL stored twice, or mirrored into its own
+  // primary subsection, must not show up as two rows in the filter UI.
   const entries = [];
+  const seen = new Set();
+  const push = (e, sec, sub) => {
+    const k = `${sec}/${sub}|${String(e.url || e.name).toLowerCase()}`;
+    if (seen.has(k)) return;
+    seen.add(k);
+    entries.push(row(e, sec, sub));
+  };
   for (const { sectionFile, subSlug, entry: e } of catalog.iterEntries()) {
     if (e.deprecated) continue;
-    const primarySection = fileToSlug.get(sectionFile);
-    entries.push(row(e, primarySection, subSlug));
+    push(e, fileToSlug.get(sectionFile), subSlug);
     for (const path of e.dual_listed_in || []) {
       const [secSlug, subOnly] = String(path).split('/');
       if (!secSlug || !subOnly) continue;
-      entries.push(row(e, secSlug, subOnly));
+      push(e, secSlug, subOnly);
     }
   }
 

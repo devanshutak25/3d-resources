@@ -125,7 +125,7 @@ function buildHeader() {
   return [
     '# 3D Resources',
     '',
-    '> The biggest, most complete index of free and paid 3D resources: 3,000+ textures, HDRIs, models, tutorials, render engines, USD, VFX, motion graphics, game development, and AI/ML for CG. Maintained by Devanshu Tak.',
+    `> Curated index of ${catalog.publicCountLabel()} free and paid 3D resources: textures, HDRIs, models, tutorials, render engines, USD, VFX, motion graphics, game development, and AI/ML for CG. Maintained by Devanshu Tak.`,
     ''
   ];
 }

@@ -175,6 +175,16 @@ function loadOptional(file, key, fallback) {
   return (doc && doc[key]) || fallback;
 }
 
+// Public catalog size for user-facing copy, e.g. "3,500+": unique URLs of
+// non-deprecated entries, rounded down to the hundred. Never hardcode counts.
+function publicCountLabel() {
+  const urls = new Set();
+  for (const { entry } of iterEntries()) {
+    if (!entry.deprecated && entry.url) urls.add(String(entry.url).toLowerCase());
+  }
+  return `${(Math.floor(urls.size / 100) * 100).toLocaleString('en-US')}+`;
+}
+
 // { alias: canonicalName } for search (data/aliases.yml).
 function loadAliases() {
   return loadOptional('aliases.yml', 'aliases', {});
@@ -197,5 +207,6 @@ module.exports = {
   iterEntries,
   appendEntry,
   loadAliases,
-  loadAwesomeSources
+  loadAwesomeSources,
+  publicCountLabel
 };

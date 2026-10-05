@@ -19,3 +19,13 @@ Archived 2026-04-30 as part of plan.md Step 2.
 | `restore-entries.js` | Re-added entries lost in a prior cleanup pass. |
 | `split-misc.js` | Split `10-tools-pipeline.yml :: misc-3d-utilities` by URL-based mapping into proper subsections. |
 | `migrate-to-chunks.js` | Step 3 one-shot migration: flat `data/NN-section.yml` → chunked `data/NN-section/<sub>/NN-<sub>.yml`. Cap 50 entries/chunk. Archived 2026-04-30. |
+
+## Archived 2026-10-05 (audit fix plan, Phase 6)
+
+These read `data/*.yml` directly instead of going through `scripts/lib/catalog.js` (ADR-0001) and only made sense for the one-off migrations they were written for.
+
+| Script | When/why it ran |
+|---|---|
+| `audit-software-coverage.js` | One-off coverage report for the §12 software taxonomy expansion (2026-05). |
+| `cleanup-validation-drift.js` | One-off fix-up of validator drift after the 2026-05 vocab expansion. |
+| `migrate-software.js` | Moved software entries from topical sections into §12 software buckets (2026-05-22). |
