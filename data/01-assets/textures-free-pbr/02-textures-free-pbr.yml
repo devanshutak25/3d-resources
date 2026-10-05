@@ -133,3 +133,26 @@ entries:
         - pbr
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: 3DTexel
+    url: https://3dtexel.com/free-library/
+    added_at: '2026-09-29T10:09:19.000Z'
+    description: 1,600+ handmade CC0 assets, incl. 1,000+ seamless PBR materials, HDRIs, decals, IES profiles and 3D models. Free account required to download.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - cc0
+        - pbr
+    readme_tags:
+      - CC0
+      - 1000+ Materials
+    url_last_verified: '2026-10-05'
+    url_status: ok
