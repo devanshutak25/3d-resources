@@ -41,7 +41,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cinesync
-    url: https://cinesync.com/
+    url: https://www.cinesync.online/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Backlight synced remote review for distributed teams.
     license: Paid
@@ -57,7 +57,7 @@ entries:
       - Backlight
       - Synced Review
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: Filestage
     url: https://filestage.io/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -231,7 +231,8 @@ entries:
       - Beta
       - Artist VCS
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
   - name: Colorfront
     url: https://colorfront.com/
     added_at: '2026-05-22T16:39:01.000Z'

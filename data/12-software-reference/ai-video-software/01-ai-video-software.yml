@@ -300,7 +300,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: LTX Studio
-    url: https://ltx.studio/
+    url: https://ltx.io/studio
     added_at: '2026-06-14T22:09:48.000Z'
     description: Pre-production to video pipeline with storyboards, character consistency, and timeline.
     license: Freemium
@@ -315,7 +315,7 @@ entries:
       - Pre-production
       - Storyboards
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Frameo

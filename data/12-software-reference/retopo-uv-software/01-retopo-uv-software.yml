@@ -60,7 +60,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: RizomUV
-    url: https://www.rizom-lab.com/
+    url: https://www.rizomuv.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Fast UV unwrapping, auto-seam, auto-pack. Standalone or bridge.
     license: Paid
@@ -73,7 +73,7 @@ entries:
       - Industry Standard
       - Standalone
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/uv-tools
   - name: UVPackmaster
@@ -207,7 +207,8 @@ entries:
       - iPad Sculpt
       - Auto Retopo
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: Valence 3D
@@ -231,7 +232,8 @@ entries:
       - iPad UV
       - iPad Paint
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
     dual_listed_in:
       - tools-pipeline-utilities/uv-tools
   - name: Quad Remesher

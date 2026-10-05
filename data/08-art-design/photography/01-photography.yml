@@ -8,7 +8,8 @@ entries:
       - Fundamentals
       - Deep Dives
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
+    notes: Cloudflare bot challenge returns 403 to scripted fetches; site is alive. Do not auto-deprecate.
     tags:
       workflow:
         - reference
@@ -110,7 +111,7 @@ entries:
     description: Community for tutorials and workflows on high-quality photography with free-software tools.
     entry_type: community
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     tags:
       workflow:
         - reference

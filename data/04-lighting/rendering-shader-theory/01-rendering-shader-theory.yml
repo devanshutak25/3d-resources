@@ -137,7 +137,7 @@ entries:
       platform:
         - web
   - name: Substance Academy
-    url: https://academy.substance3d.com/
+    url: https://www.adobe.com/learn/substance-3d
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free official Substance Painter/Designer tutorials.
     license: Free
@@ -155,7 +155,7 @@ entries:
       - Official
       - Free
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: Graphics Programming Resources
     url: https://graphics-programming.org/
     added_at: '2026-04-16T19:59:30.000Z'

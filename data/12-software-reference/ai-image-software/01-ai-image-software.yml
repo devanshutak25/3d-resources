@@ -171,7 +171,7 @@ entries:
       - Consistency
       - Editing
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Grok Aurora (xAI)
@@ -411,7 +411,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
   - name: Adobe Firefly Textures
-    url: https://www.adobe.com/products/firefly
+    url: https://www.adobe.com/products/firefly.html
     added_at: '2026-04-16T19:59:30.000Z'
     description: Prompt-to-edit texture workflows.
     license: Paid
@@ -428,7 +428,7 @@ entries:
       - Adobe
       - Prompt-to-Edit
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
   - name: Ponzu

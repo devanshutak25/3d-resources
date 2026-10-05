@@ -47,7 +47,7 @@ entries:
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Substance Designer
-    url: https://www.adobe.com/products/substance3d-designer.html
+    url: https://www.adobe.com/products/substance3d/apps/designer.html
     added_at: '2026-04-16T19:59:30.000Z'
     description: Node-based procedural texturing.
     license: Paid
@@ -69,11 +69,11 @@ entries:
       - Procedural
       - Industry Standard
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Substance Painter
-    url: https://www.adobe.com/products/substance3d-painter.html
+    url: https://www.adobe.com/products/substance3d/apps/painter.html
     added_at: '2026-04-16T19:59:30.000Z'
     description: Industry-standard 3D texture painting with smart materials.
     license: Paid
@@ -94,7 +94,7 @@ entries:
       - Industry Standard
       - PBR Painter
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: ArmorPaint

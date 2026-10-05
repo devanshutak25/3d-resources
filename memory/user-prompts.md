@@ -876,3 +876,13 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > yes yes yes yes
 
 **Answered:** Updated project.md + memory, committed + pushed #22 fixes, closed #22, started #23.
+
+**Prompt:** (2026-10-05)
+> yes yes work through in batches please
+
+**Answered:** Closed #23 (no-op), fixed Defold description (commit b25586b), rechecked 63 unreachable URLs and proposed per-group fixes.
+
+**Prompt:** (2026-10-05)
+> 1. yes 2. yes
+
+**Answered:** Applied batch 1 (34 ok incl. 9 URL moves, DuME repoint off a hijacked domain, 14 dead deprecated, 15 left unreachable); validate ✓; committed + pushed with Defold fix.

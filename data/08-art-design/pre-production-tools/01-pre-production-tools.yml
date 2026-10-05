@@ -187,7 +187,8 @@ entries:
       - C4D Plugin
       - Techvis
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
   - name: The Third Floor
     url: https://thethirdfloorinc.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -619,7 +620,8 @@ entries:
     readme_tags:
       - Film Reference
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
   - name: Frame Set
     url: https://frameset.app/
     added_at: '2026-06-21T19:32:23.000Z'

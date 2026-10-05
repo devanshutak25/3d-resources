@@ -586,13 +586,13 @@ entries:
       platform:
         - web
   - name: Build an animated app
-    url: https://designcode.io/swiftui-rive
+    url: https://designcode.io/courses/swiftui-rive
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions.
     entry_type: tutorial
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     tags:
       workflow:
         - animation

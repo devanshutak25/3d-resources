@@ -305,7 +305,8 @@ entries:
       platform:
         - web
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
   - name: mr5ivethou5and
     url: https://mr5ivethou5and.tumblr.com/archive
     added_at: '2026-06-17T07:16:34.000Z'

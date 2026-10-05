@@ -182,7 +182,8 @@ entries:
       platform:
         - web
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
   - name: No Emotion HDRs
     url: http://noemotionhdrs.net/
     added_at: '2026-06-17T07:16:34.000Z'

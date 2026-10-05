@@ -47,7 +47,7 @@ entries:
       - Industry Standard
       - Adobe Suite
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: Final Cut Pro
     url: https://www.apple.com/final-cut-pro/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -342,7 +342,8 @@ entries:
       - Editor + VFX
       - Free Tier
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: broken
+    deprecated: true
   - name: iMovie
     url: https://www.apple.com/imovie/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -458,7 +459,7 @@ entries:
       - One-time Buy
       - Consumer
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
   - name: CapCut Desktop
     url: https://www.capcut.com/
     added_at: '2026-05-22T16:39:01.000Z'

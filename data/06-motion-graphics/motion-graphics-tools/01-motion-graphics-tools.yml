@@ -156,12 +156,12 @@ entries:
         - creative-coding
       platform:
         - web
-  - name: Dume
-    url: https://rainboxlab.org/tools/dume/
+  - name: DuME
+    url: https://rxlaboratorio.org/rx-tool/dume/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: After Effects extension for managing duplicate footage and assets.
-    license: Free
-    entry_type: plugin
+    description: Free, open-source desktop media encoder for rendering and transcoding video.
+    license: Open Source
+    entry_type: tool
     readme_tags:
       - After Effects
     tags:
@@ -172,9 +172,9 @@ entries:
       platform:
         - win
         - mac
+        - linux
     url_last_verified: '2026-10-01'
-    url_status: unreachable
-    deprecated: true
+    url_status: ok
   - name: Easing Functions
     url: https://easings.net/
     added_at: '2026-06-17T07:16:34.000Z'

@@ -575,7 +575,7 @@ entries:
     description: Setting up Vive Trackers to control objects in Unity.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_status: ok
     tags:
       output:
         - xr
