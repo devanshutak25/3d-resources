@@ -471,6 +471,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
     readme_tags:
       - Archive
       - Software Dumps
@@ -486,6 +488,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
     readme_tags:
       - Vintage
       - Installers
@@ -501,6 +505,8 @@ entries:
     tags:
       workflow:
         - reference
+      platform:
+        - web
     readme_tags:
       - Amiga
       - Archive

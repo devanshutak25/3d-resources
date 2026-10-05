@@ -82,7 +82,7 @@ entries:
   - name: Motion Array SFX
     url: https://motionarray.com/browse/sound-effects/free/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free SFX collection.
+    description: Free sound effects from Motion Array, a paid creator asset subscription.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -130,7 +130,7 @@ entries:
   - name: ZapSplat
     url: https://www.zapsplat.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Large free SFX library.
+    description: Large library of free sound effects, with paid plans for more downloads.
     license: Free
     entry_type: asset-source
     tags:
@@ -149,7 +149,7 @@ entries:
   - name: Uppbeat
     url: https://uppbeat.io/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Music for creators.
+    description: Royalty-free music library for creators, with free and paid tiers.
     license: Freemium
     entry_type: marketplace
     readme_tags:

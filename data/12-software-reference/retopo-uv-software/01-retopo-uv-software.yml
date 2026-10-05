@@ -11,6 +11,10 @@ entries:
         - retopo
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Free
       - Auto Retopo
@@ -31,6 +35,9 @@ entries:
       workflow:
         - retopo
         - texturing
+      platform:
+        - win
+        - mac
     readme_tags:
       - Retopo + Bake
       - Classic
@@ -55,6 +62,10 @@ entries:
         - retopo
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2022-02-04'
     dual_listed_in:
@@ -69,6 +80,10 @@ entries:
     tags:
       workflow:
         - uv
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Industry Standard
       - Standalone
@@ -88,6 +103,10 @@ entries:
         - uv
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - UDIM
       - Packing
@@ -105,6 +124,10 @@ entries:
     tags:
       workflow:
         - uv
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Flatten-based
       - Classic
@@ -251,6 +274,10 @@ entries:
       tech:
         - blender-addon
         - houdini-addon
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Cross-DCC
       - Auto Quad
@@ -271,6 +298,10 @@ entries:
         - retopo
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Blender Suite
       - Manual Retopo
@@ -289,6 +320,9 @@ entries:
     tags:
       workflow:
         - retopo
+      platform:
+        - win
+        - mac
     readme_tags:
       - ZBrush Plugin
       - Topology Transfer
@@ -332,6 +366,14 @@ entries:
         - games
       tech:
         - node-based
+      platform:
+        - win
+        - linux
     added_at: '2026-10-05T08:51:07.095Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Scans
+    best_for: Scan topology transfer
+    pricing_last_verified: '2026-10-05'

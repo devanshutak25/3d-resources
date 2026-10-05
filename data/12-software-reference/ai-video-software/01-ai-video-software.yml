@@ -9,6 +9,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Top Leaderboard
       - Native Audio
@@ -26,6 +28,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Motion Brushes
       - Consistency
@@ -61,6 +65,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - 5min Clips
       - Motion Brush
@@ -78,6 +84,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Extended Gen
       - Stylized
@@ -95,6 +103,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Director Model
       - Character Consist
@@ -112,6 +122,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - HDR
       - Atmospheric
@@ -130,6 +142,9 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - 14GB VRAM
@@ -148,6 +163,9 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - MoE Diffusion
@@ -167,6 +185,9 @@ entries:
         - ai-generative
         - real-time
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - Fast
@@ -184,6 +205,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - 16s
       - Human Motion
@@ -201,6 +224,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Style Modes
       - Consistency
@@ -218,6 +243,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Ex-DeepMind
       - V2V
@@ -236,6 +263,8 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - web
     readme_tags:
       - Open Source
       - Genmo
@@ -254,6 +283,9 @@ entries:
       tech:
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - Tsinghua
@@ -273,6 +305,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Top Quality
       - Native Audio
@@ -292,6 +326,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Filmmaking
       - Scenebuilder
@@ -311,6 +347,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Pre-production
       - Storyboards
@@ -330,6 +368,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Script to Video
       - Timeline
@@ -349,6 +389,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Cinematography
       - Continuity
@@ -368,6 +410,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - All-in-one
     url_last_verified: '2026-10-01'
@@ -386,6 +430,8 @@ entries:
         - broadcast
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Avatars
     url_last_verified: '2026-10-01'
@@ -404,6 +450,8 @@ entries:
         - broadcast
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Marketing
     url_last_verified: '2026-10-01'
@@ -422,6 +470,8 @@ entries:
         - film-vfx
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Film Studio
     url_last_verified: '2026-10-01'
@@ -448,6 +498,10 @@ entries:
     added_at: '2026-10-05T08:51:07.028Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Upscaling
+    best_for: Video restoration and upscaling
   - name: Video2X
     url: https://github.com/k4yt3x/video2x
     description: Video upscaler and frame interpolator using Real-ESRGAN, Real-CUGAN and RIFE.
@@ -468,6 +522,10 @@ entries:
     added_at: '2026-10-05T08:51:07.030Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Upscaling
+    best_for: Video upscaling and interpolation
   - name: Marey (Moonvalley)
     url: https://www.moonvalley.com/
     description: Video generation model trained on licensed footage, with camera, pose and motion-transfer controls.
@@ -488,6 +546,10 @@ entries:
     added_at: '2026-10-05T08:51:07.032Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Licensed Data
+    best_for: Rights-safe video generation
   - name: MAGI-1 (Sand AI)
     url: https://github.com/SandAI-org/MAGI-1
     description: Open autoregressive video model that generates and extends clips chunk by chunk.
@@ -507,6 +569,10 @@ entries:
     added_at: '2026-10-05T08:51:07.034Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Video Model
+    best_for: Long video generation
   - name: Stable Virtual Camera
     url: https://github.com/Stability-AI/stable-virtual-camera
     description: Stability AI model that renders new camera views and camera-path videos from input images.
@@ -526,6 +592,10 @@ entries:
     added_at: '2026-10-05T08:51:07.036Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - Stability AI
+    best_for: Novel view synthesis
   - name: Beeble
     url: https://beeble.ai/
     description: AI relighting for footage that extracts normal, albedo and depth passes. Web app plus local Beeble Studio.
@@ -550,6 +620,10 @@ entries:
     added_at: '2026-10-05T08:51:07.038Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Relighting
+    best_for: Footage relighting
   - name: Simulon
     url: https://simulon.com/
     description: iPhone app that tracks camera and lighting to composite 3D assets into live-action footage.
@@ -571,6 +645,10 @@ entries:
     added_at: '2026-10-05T08:51:07.039Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - iPhone
+    best_for: Mobile CG compositing
   - name: Cuebric
     url: https://cuebric.com/
     description: AI tool that turns images into layered 2.5D environments for LED-wall virtual production.
@@ -591,3 +669,7 @@ entries:
     added_at: '2026-10-05T08:51:07.041Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - LED Wall
+    best_for: 2.5D virtual production plates

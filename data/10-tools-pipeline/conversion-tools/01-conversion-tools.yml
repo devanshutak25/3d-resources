@@ -18,7 +18,7 @@ entries:
   - name: MAZANOKE
     url: https://mazanoke.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Browser-based converter.
+    description: Open-source image optimizer and converter that compresses and changes formats locally in the browser.
     entry_type: tool
     license: Free
     readme_tags:
@@ -50,7 +50,7 @@ entries:
   - name: CloudConvert
     url: https://cloudconvert.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 200+ formats with API.
+    description: Online file converter covering 200+ formats, with an API for automating conversions.
     entry_type: tool
     license: Freemium
     readme_tags:
@@ -67,7 +67,7 @@ entries:
   - name: Convertio
     url: https://convertio.co/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Multi-format converter.
+    description: Web-based file converter for images, video, audio, documents and other formats.
     entry_type: tool
     license: Freemium
     readme_tags:
@@ -276,7 +276,7 @@ entries:
   - name: ImageMagick
     url: https://imagemagick.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: CLI, 200+ image formats.
+    description: Open-source command-line suite for converting, resizing and batch-editing images across 200+ formats.
     license: Open Source
     entry_type: tool
     readme_tags:
@@ -542,9 +542,17 @@ entries:
         - xr
       tech:
         - usd
+      platform:
+        - win
+        - mac
+        - linux
     added_at: '2026-10-05T08:51:07.421Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - USD
+    best_for: glTF to USD conversion
   - name: CAD Exchanger
     url: https://cadexchanger.com/
     description: Desktop app and SDK for viewing and converting CAD files across 30+ formats.
@@ -562,6 +570,10 @@ entries:
     added_at: '2026-10-05T08:51:07.422Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - CAD
+    best_for: CAD format conversion
   - name: Unity Asset Transformer (Pixyz)
     url: https://www.pixyz-software.com/
     description: CAD and 3D data prep that tessellates, decimates and optimizes heavy models for real-time use.
@@ -575,9 +587,16 @@ entries:
         - archviz
       tech:
         - real-time
+      platform:
+        - win
     added_at: '2026-10-05T08:51:07.425Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - CAD
+    best_for: CAD to real-time prep
+    pricing_last_verified: '2026-10-05'
   - name: Transmutr
     url: https://lindale.io/transmutr/
     description: Converts FBX, OBJ, glTF and USD into SketchUp models with simplification, PBR materials and proxies.
@@ -593,3 +612,8 @@ entries:
     added_at: '2026-10-05T08:51:07.427Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - SketchUp
+    best_for: Importing models to SketchUp
+    pricing_last_verified: '2026-10-05'

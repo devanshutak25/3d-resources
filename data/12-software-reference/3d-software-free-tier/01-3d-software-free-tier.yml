@@ -82,6 +82,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
   - name: Houdini Apprentice
     url: https://www.sidefx.com/get/try-houdini/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -264,3 +266,8 @@ entries:
     added_at: '2026-10-05T08:51:07.096Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - GPU
+    best_for: Animated mesh corrective fixes
+    pricing_last_verified: '2026-10-05'

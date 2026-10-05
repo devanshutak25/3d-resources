@@ -25,7 +25,7 @@ entries:
   - name: Blender to Unity FBX
     url: https://github.com/EdyJ/blender-to-unity-fbx-exporter
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Unity export addon.
+    description: Blender addon that exports FBX files with correct axes and scale for Unity.
     license: Open Source
     entry_type: plugin
     tags:
@@ -73,7 +73,7 @@ entries:
   - name: PSOFT Pencil+ 4
     url: https://psoft.co.jp/en/product/pencil/blender/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: NPR line rendering.
+    description: Pencil+ 4 for Blender, a plugin for NPR line rendering and toon outlines.
     license: Paid
     entry_type: plugin
     tags:
@@ -119,7 +119,7 @@ entries:
   - name: Easy HDRI
     url: https://codeofart.com/easy-hdri-2-8/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: HDRI management addon.
+    description: Blender addon for browsing, loading and adjusting HDRI environment lighting.
     license: Free
     entry_type: plugin
     tags:

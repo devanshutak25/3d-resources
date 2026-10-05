@@ -131,6 +131,8 @@ entries:
         - physics
         - opensource-alt
         - unreal-plugin
+      workflow:
+        - simulation
   - name: Cannon.js
     url: https://schteppe.github.io/cannon.js/
     added_at: '2026-04-19T17:29:43.000Z'

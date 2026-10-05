@@ -537,6 +537,8 @@ entries:
       tech:
         - opensource-alt
         - procedural
+      workflow:
+        - simulation
     readme_tags:
       - delaunay
       - destruction

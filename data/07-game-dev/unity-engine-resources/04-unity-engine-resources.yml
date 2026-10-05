@@ -663,7 +663,7 @@ entries:
   - name: Knight Windjson
     url: https://github.com/winddyhe/knight-windjson
     added_at: '2026-04-19T17:15:03.000Z'
-    description: JSON parser for Unity.
+    description: JSON parser library for Unity written in C#.
     entry_type: reference
     url_last_verified: '2026-10-01'
     url_status: ok

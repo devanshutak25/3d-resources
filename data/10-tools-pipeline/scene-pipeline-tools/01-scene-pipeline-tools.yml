@@ -227,7 +227,7 @@ entries:
   - name: Py3dsMax
     url: https://github.com/blurstudio/Py3dsMax
     added_at: '2026-04-16T21:13:44.000Z'
-    description: 3dsMax API in Python.
+    description: Blur Studio library that exposes the 3ds Max SDK to Python for scripting and pipeline tools.
     license: Open Source
     entry_type: tool
     best_for: 3ds Max Python bindings

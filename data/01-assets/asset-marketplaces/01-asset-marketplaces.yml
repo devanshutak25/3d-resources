@@ -2,7 +2,7 @@ entries:
   - name: ArtStation Marketplace
     url: https://www.artstation.com/marketplace
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Professional assets.
+    description: ArtStation storefront where artists sell 3D models, brushes, tutorials and other assets.
     entry_type: marketplace
     license: Paid
     readme_tags:
@@ -18,7 +18,7 @@ entries:
   - name: Unity Asset Store
     url: https://assetstore.unity.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game-ready assets.
+    description: Unity's official store for 3D models, tools, scripts and other game assets.
     entry_type: marketplace
     license: Freemium
     tags:
@@ -36,7 +36,7 @@ entries:
   - name: Unreal Marketplace
     url: https://www.unrealengine.com/marketplace
     added_at: '2026-04-16T19:59:30.000Z'
-    description: UE-optimized assets.
+    description: Epic's former Unreal Engine asset store, now merged into Fab, with UE-ready assets.
     entry_type: marketplace
     license: Freemium
     tags:
@@ -74,7 +74,7 @@ entries:
   - name: Cubebrush
     url: https://cubebrush.co/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Art and game assets.
+    description: Marketplace for game art assets, brushes, textures and tutorials sold by artists.
     entry_type: marketplace
     license: Paid
     tags:

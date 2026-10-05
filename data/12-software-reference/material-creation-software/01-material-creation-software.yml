@@ -159,6 +159,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
     readme_tags:
       - No-UV
       - Early Access
@@ -222,6 +224,9 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - ios
+        - android
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Agama Materials
@@ -236,6 +241,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Game Texture Viewer
@@ -250,6 +257,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: TextureLab
@@ -264,6 +273,10 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: AwesomeBump
@@ -280,6 +293,10 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2023-01-11'
     dual_listed_in:
@@ -348,6 +365,11 @@ entries:
     added_at: '2026-10-05T08:51:07.103Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - Windows
+    best_for: Generating PBR texture maps
+    pricing_last_verified: '2026-10-05'
   - name: PixPlant
     url: https://www.pixplant.com/
     description: Windows tool that turns photos into tileable PBR materials.
@@ -367,6 +389,10 @@ entries:
     added_at: '2026-10-05T08:51:07.105Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Windows
+    best_for: Photo to tileable material
   - name: Substance 3D Sampler
     url: https://www.adobe.com/products/substance3d/apps/sampler.html
     description: Adobe app that turns photos and scans into tiling materials, meshes and HDR lights.
@@ -383,8 +409,16 @@ entries:
       tech:
         - pbr
         - photogrammetry
+      platform:
+        - win
+        - mac
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
     added_at: '2026-10-05T08:51:07.106Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Subscription
+      - Adobe
+    best_for: Photo to material
+    pricing_last_verified: '2026-10-05'

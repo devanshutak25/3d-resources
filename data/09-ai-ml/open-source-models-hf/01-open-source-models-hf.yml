@@ -11,6 +11,8 @@ entries:
         - opensource-alt
       platform:
         - web
+      workflow:
+        - modeling
     readme_tags:
       - Orbital Video
       - Stability
@@ -66,3 +68,5 @@ entries:
         - ai-generative
       platform:
         - web
+      workflow:
+        - concept

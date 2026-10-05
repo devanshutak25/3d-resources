@@ -2,7 +2,7 @@ entries:
   - name: Blenderkit
     url: https://www.blenderkit.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: In-app asset browser.
+    description: Blender asset library and add-on that lets you search and drop models, materials and HDRIs into a scene from inside Blender.
     entry_type: marketplace
     license: Paid
     tags:
@@ -110,7 +110,7 @@ entries:
   - name: VideoHive (Envato)
     url: https://videohive.net/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Templates and presets.
+    description: Envato marketplace for stock footage, After Effects templates, motion graphics and video presets.
     entry_type: marketplace
     license: Paid
     readme_tags:
@@ -392,7 +392,7 @@ entries:
   - name: Universal Human Rigged Base Mesh
     url: https://gumroad.com/l/EqNTn
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Rigged human base mesh.
+    description: Rigged universal human base mesh sold on Gumroad as a starting point for character modeling and posing.
     entry_type: asset-source
     license: Paid
     readme_tags:

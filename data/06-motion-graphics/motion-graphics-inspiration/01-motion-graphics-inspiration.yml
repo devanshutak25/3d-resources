@@ -2,7 +2,7 @@ entries:
   - name: Motionographer
     url: https://motionographer.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design showcase.
+    description: Site that showcases motion design work and covers the industry.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -34,7 +34,7 @@ entries:
   - name: Ads of the World
     url: https://www.adsoftheworld.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Advertising reference.
+    description: Archive of advertising campaigns from around the world for creative reference.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -152,7 +152,7 @@ entries:
   - name: Behance Motion
     url: https://www.behance.net/galleries/motion
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design gallery.
+    description: Behance gallery of motion design projects.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -168,7 +168,7 @@ entries:
   - name: Art of Style Frame
     url: https://artofstyleframe.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Style frame showcase.
+    description: Showcase of style frames from motion design and animation projects.
     entry_type: inspiration
     license: Free
     readme_tags:

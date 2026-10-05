@@ -19,7 +19,7 @@ entries:
   - name: Godot Discord
     url: https://discord.com/invite/godotengine
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official Discord.
+    description: Official Godot Engine Discord server for chat and help.
     entry_type: community
     readme_tags:
       - Discord
@@ -36,7 +36,7 @@ entries:
   - name: Godot Forums
     url: https://forum.godotengine.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official forum.
+    description: Official Godot Engine forum for questions and discussion.
     entry_type: community
     readme_tags:
       - Forum

@@ -303,6 +303,10 @@ entries:
     added_at: '2026-10-05T08:51:07.416Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - USD
+    best_for: Editing USD stages
   - name: LightUSD
     url: https://github.com/lighttransport/LightUSD
     description: Light C++17 library for reading and writing USD and USDZ without Pixar USD. Formerly TinyUSDZ.
@@ -321,6 +325,10 @@ entries:
     added_at: '2026-10-05T08:51:07.417Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - USD
+    best_for: Lightweight USD I/O
   - name: Adobe USD Fileformat Plugins
     url: https://github.com/adobe/USD-Fileformat-plugins
     description: USD plugins that read and write FBX, glTF, OBJ, PLY, STL, SPZ and SBSAR.
@@ -331,8 +339,16 @@ entries:
         - generalist
       tech:
         - usd
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
     added_at: '2026-10-05T08:51:07.419Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - USD
+    best_for: Format conversion in USD

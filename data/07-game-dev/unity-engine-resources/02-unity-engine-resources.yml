@@ -194,6 +194,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - audio-design
     stale: true
     last_pushed: '2024-04-14'
   - name: NAudio Unity
@@ -312,6 +314,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - animation
     stale: true
     last_pushed: '2013-01-03'
   - name: ECS Tween
@@ -332,6 +336,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - animation
     stale: true
     last_pushed: '2019-07-10'
   - name: iOS Unity Vuforia Guide
@@ -412,6 +418,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     stale: true
     last_pushed: '2017-05-24'
   - name: Unity Camera Follow 2D
@@ -532,6 +540,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     stale: true
     last_pushed: '2019-03-02'
   - name: Unity Camera Shake
@@ -593,6 +603,8 @@ entries:
         - unity-plugin
         - opensource-alt
         - physics
+      workflow:
+        - simulation
   - name: Jitter Physics
     url: https://github.com/mattleibow/jitterphysics
     added_at: '2026-04-19T17:15:03.000Z'
@@ -612,6 +624,8 @@ entries:
         - unity-plugin
         - opensource-alt
         - physics
+      workflow:
+        - simulation
     stale: true
     last_pushed: '2021-08-08'
   - name: Unity Math Reference
@@ -671,6 +685,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - simulation
+        - fx
     stale: true
     last_pushed: '2019-03-29'
   - name: PBD Fluid in Unity
@@ -693,6 +710,8 @@ entries:
         - opensource-alt
         - physics
         - gpu
+      workflow:
+        - simulation
     stale: true
     last_pushed: '2022-08-30'
   - name: CharacterController2D

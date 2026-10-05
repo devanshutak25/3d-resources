@@ -2,7 +2,7 @@ entries:
   - name: Kitsu (CGWire)
     url: https://www.cg-wire.com/kitsu
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Production tracker.
+    description: Open-source production tracker from CGWire for managing animation and VFX tasks, assets and reviews.
     license: Open Source
     entry_type: software
     best_for: Open-source production tracking
@@ -11,6 +11,8 @@ entries:
         - film-vfx
       tech:
         - opensource-alt
+      platform:
+        - web
     readme_tags:
       - Open Source
       - Tracking
@@ -28,6 +30,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Pipeline
       - Open Source
@@ -47,6 +53,8 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
     readme_tags:
       - Render Farm
       - Open Source
@@ -64,6 +72,10 @@ entries:
     tags:
       tech:
         - pipeline
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Pipeline
       - Asset Mgmt
@@ -83,6 +95,10 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Render Farm
       - Open Source
@@ -102,6 +118,10 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Render Farm
       - Blender
@@ -143,6 +163,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: CGAL
@@ -155,6 +179,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Geometry Lib
       - Open Source
@@ -174,6 +202,10 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Render Farm
       - Blender
@@ -184,7 +216,7 @@ entries:
   - name: OpenTimelineIO (site)
     url: http://opentimeline.io
     added_at: '2026-04-19T17:15:03.000Z'
-    description: ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
+    description: Open-source API and file format from Pixar for exchanging editorial timelines between video and audio tools.
     license: Open Source
     entry_type: software
     best_for: Editorial timeline interchange
@@ -193,6 +225,10 @@ entries:
         - opensource-alt
       output:
         - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Editorial
       - Open Source
@@ -212,6 +248,9 @@ entries:
         - opensource-alt
       output:
         - film-vfx
+      platform:
+        - win
+        - linux
     readme_tags:
       - Look Dev
       - Open Source
@@ -231,6 +270,8 @@ entries:
       tech:
         - procedural
         - opensource-alt
+      platform:
+        - win
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Godot Game Tools
@@ -247,6 +288,10 @@ entries:
         - games
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Foundry Katana
@@ -329,6 +374,11 @@ entries:
     added_at: '2026-10-05T08:51:07.412Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Render Farm
+    best_for: Render farm job queuing
+    pricing_last_verified: '2026-10-05'
   - name: NIM
     url: https://nim-labs.com/
     description: Studio management for shot tracking, scheduling, bidding, timecards and review.
@@ -343,3 +393,7 @@ entries:
     added_at: '2026-10-05T08:51:07.413Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Production Tracking
+    best_for: Studio production tracking

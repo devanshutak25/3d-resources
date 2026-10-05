@@ -116,7 +116,7 @@ entries:
   - name: OpenEXR Viewer
     url: https://github.com/AcademySoftwareFoundation/openexr
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official EXR tools.
+    description: Academy Software Foundation repository for OpenEXR, including the reference library and command-line EXR tools.
     license: Open Source
     entry_type: software
     best_for: EXR inspection
@@ -232,6 +232,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
   - name: Shutter Encoder
@@ -268,6 +272,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
   - name: Luminance HDR
@@ -282,6 +290,10 @@ entries:
         - lighting
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - HDR Workflow
       - EXR
@@ -309,6 +321,10 @@ entries:
     added_at: '2026-10-05T08:51:07.407Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - EXR
+    best_for: Comparing HDR renders
   - name: Online 3D Viewer
     url: https://3dviewer.net/
     description: Browser viewer for OBJ, FBX, glTF, STL, 3DM, STEP and other 3D files.
@@ -322,6 +338,10 @@ entries:
     added_at: '2026-10-05T08:51:07.408Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - Browser
+    best_for: Quick 3D file preview
   - name: mrv2
     url: https://mrv2.sourceforge.io/
     description: Flipbook and review player for EXR sequences, video and USD with annotations and OCIO. Successor to mrViewer.
@@ -343,3 +363,7 @@ entries:
     added_at: '2026-10-05T08:51:07.410Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - OCIO
+    best_for: Dailies and shot review

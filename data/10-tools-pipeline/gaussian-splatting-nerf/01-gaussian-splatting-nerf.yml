@@ -2,7 +2,7 @@ entries:
   - name: 3D Gaussian Splatting (INRIA reference impl)
     url: https://github.com/graphdeco-inria/gaussian-splatting
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Original implementation.
+    description: Official INRIA code for the 2023 3D Gaussian Splatting paper, with training, viewer and evaluation scripts.
     license: Open Source
     entry_type: reference
     tags:
@@ -374,6 +374,10 @@ entries:
     added_at: '2026-10-05T08:51:07.440Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Nuke
+    best_for: Splats in compositing
   - name: KIRI Gaussian Splatting for After Effects
     url: https://kiriinnov.gumroad.com/l/GaussianSplattingPluginbyKIRIEngine
     description: Free After Effects plugin to import, crop and stylize 3DGS PLY scans.
@@ -392,6 +396,10 @@ entries:
     added_at: '2026-10-05T08:51:07.443Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - After Effects
+    best_for: Splat scans in After Effects
   - name: 3DGS Render (KIRI)
     url: https://www.kiriengine.app/3d-tools/3dgs-render
     description: Blender add-on for viewing, editing and animating Gaussian splats.
@@ -412,6 +420,10 @@ entries:
     added_at: '2026-10-05T08:51:07.445Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - Blender
+    best_for: Gaussian splats in Blender
   - name: Spark
     url: https://sparkjs.dev/
     description: World Labs Gaussian splat renderer for three.js that loads PLY, SPZ, SPLAT and SOGS.
@@ -426,9 +438,15 @@ entries:
       tech:
         - gaussian-splatting
         - real-time
+      workflow:
+        - rendering
     added_at: '2026-10-05T08:51:07.447Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Three.js
+    best_for: Web splat rendering
   - name: SplatTransform
     url: https://github.com/playcanvas/splat-transform
     description: PlayCanvas CLI and library to convert, filter, merge and compress Gaussian splat files.
@@ -447,6 +465,10 @@ entries:
     added_at: '2026-10-05T08:51:07.449Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - CLI
+    best_for: Splat file conversion
   - name: OpenSplat
     url: https://github.com/WebODM/OpenSplat
     description: Open-source 3DGS trainer that runs on CPU or GPU.
@@ -465,6 +487,10 @@ entries:
     added_at: '2026-10-05T08:51:07.452Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - 3DGS
+    best_for: Training Gaussian splats
   - name: NanoGS
     url: https://github.com/TimChen1383/NanoGaussianSplatting
     description: Unreal Engine 5.6+ plugin that renders large splat scenes with LOD clusters.
@@ -479,9 +505,15 @@ entries:
       tech:
         - gaussian-splatting
         - unreal-plugin
+      workflow:
+        - rendering
     added_at: '2026-10-05T08:51:07.454Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Unreal Engine
+    best_for: Large splat scenes
   - name: Volinga
     url: https://volinga.ai/
     description: Splat processing suite and Unreal plugin for virtual production, with 4D splat support.
@@ -494,9 +526,15 @@ entries:
       tech:
         - gaussian-splatting
         - unreal-plugin
+      workflow:
+        - rendering
     added_at: '2026-10-05T08:51:07.456Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Unreal Engine
+    best_for: Splats for virtual production
   - name: StorySplat
     url: https://storysplat.com/
     description: Web editor for building interactive tours from Gaussian splat scenes.
@@ -514,6 +552,11 @@ entries:
     added_at: '2026-10-05T08:51:07.458Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - Web
+    best_for: Interactive splat tours
+    pricing_last_verified: '2026-10-05'
   - name: Scantic
     url: https://scantic.app/
     description: iPhone app that trains Gaussian splats on device.
@@ -531,6 +574,10 @@ entries:
     added_at: '2026-10-05T08:51:07.460Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - iPhone
+    best_for: On-device splat capture
   - name: instant-ngp (NVIDIA)
     url: https://github.com/NVlabs/instant-ngp
     description: NVIDIA fast NeRF trainer and viewer using multiresolution hash encoding.
@@ -549,3 +596,7 @@ entries:
     added_at: '2026-10-05T08:51:07.462Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - NeRF
+    best_for: Fast NeRF training

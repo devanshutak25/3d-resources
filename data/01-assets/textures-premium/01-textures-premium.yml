@@ -2,7 +2,7 @@ entries:
   - name: Poliigon
     url: https://www.poliigon.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: PBR textures.
+    description: Paid library of PBR textures, HDRIs and models, with a small free selection.
     pricing: Subscription
     license: Paid
     entry_type: asset-source
@@ -47,7 +47,7 @@ entries:
   - name: Texture Box
     url: https://texturebox.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Mixed library.
+    description: Free and premium tileable PBR textures and materials for Unity and Unreal Engine.
     license: Paid
     entry_type: marketplace
     readme_tags:

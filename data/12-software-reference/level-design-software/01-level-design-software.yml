@@ -11,6 +11,10 @@ entries:
         - games
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Blockouts
       - Quake-style
@@ -30,6 +34,10 @@ entries:
         - games
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - 2D Levels
       - Dead Cells Creator
@@ -49,6 +57,10 @@ entries:
         - games
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Tilemap Editor
       - TMX
@@ -67,6 +79,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - game-development/game-dev-level-design
   - name: Sprite Fusion
@@ -80,12 +96,14 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     dual_listed_in:
       - game-development/game-dev-level-design
   - name: Mappy
     url: https://tilemap.co.uk/mappy.php
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Free tilemap editor.
+    description: Free tile map editor for building 2D and isometric game maps in the FMP format.
     license: Free
     entry_type: software
     url_last_verified: '2026-10-05'
@@ -93,18 +111,22 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
     dual_listed_in:
       - game-development/game-dev-level-design
   - name: Perilous Shores
     url: https://watabou.itch.io/perilous-shores
     added_at: '2026-05-01T15:46:53.000Z'
-    description: Fantasy region generator
+    description: Procedural generator for fantasy region maps with towns and terrain, aimed at tabletop RPGs.
     license: Free
     entry_type: tool
     best_for: Procedural fantasy region maps
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Procedural
       - Free
@@ -120,6 +142,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Procedural
       - Free
@@ -135,6 +159,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Procedural
       - Free
@@ -152,6 +178,14 @@ entries:
         - procedural
         - unreal-plugin
         - unity-plugin
+      platform:
+        - win
+        - mac
+        - linux
     added_at: '2026-10-05T08:51:07.114Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Unreal Engine
+    best_for: Procedural dungeon layouts

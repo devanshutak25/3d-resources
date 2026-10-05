@@ -70,7 +70,7 @@ entries:
   - name: Pixel Frog
     url: https://pixelfrog-assets.itch.io/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pixel art assets.
+    description: itch.io page of Pixel Frog with free and paid pixel art game asset packs.
     license: Freemium
     entry_type: asset-source
     tags:

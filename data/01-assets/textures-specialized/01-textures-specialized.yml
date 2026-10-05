@@ -49,7 +49,7 @@ entries:
   - name: Subtle Patterns
     url: https://www.toptal.com/designers/subtlepatterns/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Tileable web patterns.
+    description: Library of free tileable background patterns for web and design use.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -69,7 +69,7 @@ entries:
   - name: Spriters Resource
     url: https://www.spriters-resource.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game sprite textures.
+    description: Archive of sprite sheets ripped from video games, sorted by platform and game.
     license: Free
     entry_type: asset-source
     tags:

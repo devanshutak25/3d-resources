@@ -2,7 +2,7 @@ entries:
   - name: SaltyAnimators Salary Collection
     url: https://docs.google.com/spreadsheets/d/1hLki-RUHJXgYj_RJKWlwUXfrWUWEi9yIcyLzEifxYrY/edit
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Industry salary data.
+    description: Crowdsourced Google Sheet where animators share salaries, studios and roles across the industry.
     entry_type: reference
     license: Free
     readme_tags:

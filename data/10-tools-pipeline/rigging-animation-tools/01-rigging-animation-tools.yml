@@ -97,7 +97,7 @@ entries:
   - name: CvWrap
     url: https://github.com/chadmv/cvwrap
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Fast Maya wrap deformer.
+    description: Open-source wrap deformer for Maya that binds one mesh to another, faster than the built-in wrap.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -240,6 +240,10 @@ entries:
     added_at: '2026-10-05T08:51:07.070Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - Blender
+    best_for: Production character rigs
   - name: Faceit
     url: https://superhivemarket.com/products/faceit
     description: Blender add-on that generates facial shape keys for any character and imports ARKit and Audio2Face capture.
@@ -262,6 +266,10 @@ entries:
     added_at: '2026-10-05T08:51:07.071Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Facial shape keys
   - name: Animation Layers
     url: https://superhivemarket.com/products/animation-layers
     description: Blender add-on for layer-based animation with blending, merging and baking.
@@ -283,6 +291,10 @@ entries:
     added_at: '2026-10-05T08:51:07.073Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Layered keyframe animation
   - name: Character DNA
     url: https://www.polyhammer.com/character-dna-addon
     description: Blender add-on that imports, edits and exports MetaHuman DNA files with RigLogic expressions.
@@ -305,6 +317,10 @@ entries:
     added_at: '2026-10-05T08:51:07.074Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - MetaHuman
+    best_for: MetaHuman DNA editing
   - name: mGear
     url: https://www.mgear-framework.com/
     description: Open-source modular rigging and animation framework for Maya, with the ueGear Unreal bridge.
@@ -326,6 +342,10 @@ entries:
     added_at: '2026-10-05T08:51:07.075Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Maya
+    best_for: Modular Maya rigging
   - name: AdvancedSkeleton
     url: https://animationstudios.com.au/
     description: Maya rigging tool that builds rebuildable rigs for bipeds, creatures and props.
@@ -340,9 +360,18 @@ entries:
         - film-vfx
       tech:
         - maya
+      platform:
+        - win
+        - mac
+        - linux
     added_at: '2026-10-05T08:51:07.077Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - Maya
+    best_for: Biped and creature rigs
+    pricing_last_verified: '2026-10-05'
   - name: ngSkinTools
     url: https://www.ngskintools.com/
     description: Maya skinning plugin with weight layers, mirroring and smoothing brushes. Free since the Autodesk acquisition.
@@ -356,9 +385,17 @@ entries:
         - film-vfx
       tech:
         - maya
+      platform:
+        - win
+        - mac
+        - linux
     added_at: '2026-10-05T08:51:07.078Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - Maya
+    best_for: Layered skin weights
   - name: Studio Library
     url: https://www.studiolibrary.com/
     description: Maya pose and animation library for saving, mirroring and blending poses.
@@ -379,6 +416,10 @@ entries:
     added_at: '2026-10-05T08:51:07.080Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - Maya
+    best_for: Pose library management
   - name: animBot
     url: https://animbot.ca/
     description: Maya animation toolset for key editing, tweening, mirroring and graph editor helpers.
@@ -393,9 +434,17 @@ entries:
         - film-vfx
       tech:
         - maya
+      platform:
+        - win
+        - mac
+        - linux
     added_at: '2026-10-05T08:51:07.082Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Subscription
+      - Maya
+    best_for: Maya keyframe editing
   - name: Ragdoll Dynamics
     url: https://ragdolldynamics.com/
     description: 'Physics-based posing and animation: pose characters by dragging a simulated ragdoll. Maya, Blender, standalone.'
@@ -417,6 +466,11 @@ entries:
     added_at: '2026-10-05T08:51:07.083Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Maya
+    best_for: Physics-based character posing
+    pricing_last_verified: '2026-10-05'
   - name: Hive Auto-Rigger (Zoo Tools Pro)
     url: https://create3dcharacters.com/
     description: Modular Maya auto-rigger for body and joint-based facial rigs, part of Zoo Tools Pro.
@@ -437,6 +491,10 @@ entries:
     added_at: '2026-10-05T08:51:07.085Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Subscription
+      - Maya
+    best_for: Maya character auto-rigging
   - name: GS CurveTools
     url: https://gs-curvetools.readthedocs.io/en/latest/
     description: Maya plugin for building curve-driven hair cards, braids and tubes for real-time hair.
@@ -454,3 +512,7 @@ entries:
     added_at: '2026-10-05T08:51:07.086Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Maya
+    best_for: Real-time hair cards

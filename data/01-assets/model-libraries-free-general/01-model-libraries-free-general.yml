@@ -153,7 +153,7 @@ entries:
   - name: Open3DModel
     url: https://open3dmodel.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free model archive.
+    description: Free 3D model archive with downloads in Blend, Max, OBJ, FBX, C4D and other formats.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -171,7 +171,7 @@ entries:
   - name: Three D Scans
     url: https://threedscans.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free 3D scan archive.
+    description: Free archive of high-resolution 3D scans of museum sculptures and statues.
     license: Free
     entry_type: asset-source
     tags:
@@ -191,7 +191,7 @@ entries:
   - name: Free3D.io
     url: https://free3d.io/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free 3D model downloads.
+    description: Free 3D model download site with community-uploaded models in common formats.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -225,7 +225,7 @@ entries:
   - name: RigModels
     url: https://rigmodels.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Rigged models.
+    description: Free 3D model search engine with rigged and static models in OBJ, FBX, STL, DAE and GLB.
     license: Freemium
     entry_type: asset-source
     tags:
@@ -245,7 +245,7 @@ entries:
   - name: 3DExport
     url: https://3dexport.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D model marketplace.
+    description: Marketplace for buying and selling 3D models, textures and print-ready files.
     license: Freemium
     entry_type: marketplace
     readme_tags:
@@ -262,7 +262,7 @@ entries:
   - name: 3Dshaker
     url: https://www.3dshaker.com/free3dmodels
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free models.
+    description: Free sample 3D models for Blender from the 3dshaker store.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -279,7 +279,7 @@ entries:
   - name: Funes
     url: https://funes.world/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D cultural heritage.
+    description: Online archive of 3D-scanned monuments and cultural heritage, with panoramas and guided stories.
     entry_type: asset-source
     tags:
       output:
@@ -296,7 +296,7 @@ entries:
   - name: Free3D
     url: https://free3d.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Large free collection.
+    description: Large free 3D model library with models in OBJ, 3DS, FBX, Blend and other formats.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -494,7 +494,7 @@ entries:
   - name: Free3DBase
     url: https://free3dbase.com/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Free 3D models.
+    description: Free 3D models of branded consumer products in 3DS, DXF and OBJ formats.
     entry_type: asset-source
     url_last_verified: '2026-10-01'
     url_status: ok
@@ -587,3 +587,29 @@ entries:
         - web
       output:
         - scientific-viz
+  - name: GrabCAD
+    url: https://grabcad.com
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Community CAD model library.
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+  - name: Thingiverse
+    url: https://thingiverse.com
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: 3D-printing model community.
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web

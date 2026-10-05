@@ -267,7 +267,7 @@ entries:
   - name: Love2D
     url: https://love2d.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Lua 2D game framework.
+    description: Free open-source framework for making 2D games in Lua.
     license: Open Source
     entry_type: software
     best_for: 2D prototyping, game jams
@@ -332,7 +332,7 @@ entries:
   - name: Ebitengine
     url: https://ebitengine.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Go 2D game engine.
+    description: Open-source 2D game engine for the Go programming language.
     license: Open Source
     entry_type: software
     best_for: Simple 2D games

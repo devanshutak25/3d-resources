@@ -14,6 +14,8 @@ entries:
       tech:
         - ai-generative
         - usd
+      platform:
+        - web
     readme_tags:
       - Auto CG Chars
       - USD Export
@@ -31,6 +33,9 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - win
+        - mac
     readme_tags:
       - Upscale
       - Denoise
@@ -48,6 +53,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - Creative Upscale
       - Freepik
@@ -67,6 +74,8 @@ entries:
         - lighting
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - AI Skybox
       - 360°
@@ -103,6 +112,8 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - web
     readme_tags:
       - AI Game Builder
       - Vibe Coding
@@ -121,6 +132,9 @@ entries:
     tags:
       tech:
         - ai-generative
+      platform:
+        - win
+        - mac
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Upscayl
@@ -185,3 +199,7 @@ entries:
     added_at: '2026-10-05T08:51:07.021Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - MCP
+    best_for: LLM control of Blender

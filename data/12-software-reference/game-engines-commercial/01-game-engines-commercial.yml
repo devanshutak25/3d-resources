@@ -274,6 +274,11 @@ entries:
     added_at: '2026-10-05T08:51:07.109Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - Simulation
+    best_for: Large-world simulation apps
+    pricing_last_verified: '2026-10-05'
   - name: Roblox Studio
     url: https://create.roblox.com/
     description: Free Roblox editor for building, scripting in Luau and publishing multiplayer games.
@@ -290,3 +295,7 @@ entries:
     added_at: '2026-10-05T08:51:07.113Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - Luau
+    best_for: Roblox game creation

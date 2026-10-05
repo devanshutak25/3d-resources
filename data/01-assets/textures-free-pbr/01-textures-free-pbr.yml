@@ -2,7 +2,7 @@ entries:
   - name: ambientCG
     url: https://ambientcg.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 2000+ CC0 PBR materials.
+    description: Library of 2000+ CC0 PBR materials, HDRIs and models, free to download.
     license: Free
     entry_type: asset-source
     tags:
@@ -45,7 +45,7 @@ entries:
   - name: Share Textures
     url: https://www.sharetextures.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: CC0 textures.
+    description: Free CC0 PBR textures, models and HDRIs from Share Textures.
     license: Free
     entry_type: asset-source
     tags:
@@ -66,7 +66,7 @@ entries:
   - name: CG Bookcase
     url: https://www.cgbookcase.com/textures/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free PBR textures.
+    description: Free CC0 PBR texture library with downloadable texture map sets.
     license: Free
     entry_type: asset-source
     tags:
@@ -87,7 +87,7 @@ entries:
   - name: 3D Textures
     url: https://3dtextures.me/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free PBR library.
+    description: Free PBR texture library with color, normal, roughness and displacement maps.
     license: Free
     entry_type: asset-source
     tags:
@@ -127,7 +127,7 @@ entries:
   - name: Kaimoisch
     url: https://kaimoisch.com/free-textures/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D scanned textures.
+    description: Scanned PBR textures, now under Texxary and being redeveloped.
     license: Free
     entry_type: asset-source
     tags:
@@ -148,7 +148,7 @@ entries:
   - name: Texture Supply (Gumroad)
     url: https://texturesupply.gumroad.com
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free textures.
+    description: Gumroad store from Texture Supply with textures and 3D assets for photoreal rendering.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -186,7 +186,7 @@ entries:
   - name: Texture Labs
     url: https://texturelabs.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free texture resources.
+    description: Free original textures and tutorials for art and design.
     license: Free
     entry_type: asset-source
     readme_tags:

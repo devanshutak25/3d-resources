@@ -170,6 +170,8 @@ entries:
         - unity-plugin
         - procedural
         - opensource-alt
+      workflow:
+        - modeling
     readme_tags:
       - unity-plugin
       - procedural
@@ -194,6 +196,8 @@ entries:
         - unity-plugin
         - procedural
         - opensource-alt
+      workflow:
+        - modeling
     readme_tags:
       - unity-plugin
       - procedural
@@ -241,6 +245,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     readme_tags:
       - unity-plugin
       - opensource-alt

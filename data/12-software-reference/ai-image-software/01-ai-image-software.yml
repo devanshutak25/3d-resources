@@ -11,6 +11,10 @@ entries:
         - node-based
         - ai-generative
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Node-based
       - Multi-modal
@@ -31,6 +35,8 @@ entries:
         - subscription
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Artistic
       - Subscription
@@ -50,6 +56,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Open Weight
       - Photoreal
@@ -70,6 +78,10 @@ entries:
         - opensource-alt
       workflow:
         - concept
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Open Source
       - Self-Host
@@ -89,6 +101,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - OpenAI
       - Text Rendering
@@ -109,6 +123,10 @@ entries:
         - subscription
       workflow:
         - concept
+      platform:
+        - web
+        - ios
+        - android
     readme_tags:
       - Commercial-Safe
       - Adobe CC
@@ -129,6 +147,8 @@ entries:
         - real-time
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Real-time
       - Controlled
@@ -148,6 +168,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Typography
       - Text Rendering
@@ -167,6 +189,10 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
+        - ios
+        - android
     readme_tags:
       - Consistency
       - Editing
@@ -186,6 +212,10 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
+        - ios
+        - android
     readme_tags:
       - xAI
       - Photoreal
@@ -205,6 +235,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Design Focus
       - Vector
@@ -225,6 +257,8 @@ entries:
         - real-time
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Real-time
       - Upscaling
@@ -244,6 +278,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - Design Canvas
       - Mixed-mode
@@ -264,6 +300,9 @@ entries:
         - opensource-alt
       workflow:
         - concept
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - Bilingual
@@ -284,6 +323,9 @@ entries:
         - opensource-alt
       workflow:
         - concept
+      platform:
+        - win
+        - linux
     readme_tags:
       - Tencent
       - DiT
@@ -303,6 +345,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     readme_tags:
       - ByteDance
       - Video Pipeline
@@ -324,6 +368,10 @@ entries:
         - opensource-alt
       workflow:
         - concept
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2020-05-24'
     dual_listed_in:
@@ -341,6 +389,8 @@ entries:
         - ai-generative
       workflow:
         - concept
+      platform:
+        - web
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Poly
@@ -358,6 +408,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - AI PBR
       - Tileable
@@ -382,6 +434,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Game-Ready
       - Full Maps
@@ -403,6 +457,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Meshy Pipeline
       - Integrated
@@ -424,6 +480,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Adobe
       - Prompt-to-Edit
@@ -445,6 +503,8 @@ entries:
       workflow:
         - texturing
         - material-authoring
+      platform:
+        - web
     readme_tags:
       - Mesh-aware
       - Text→Tex
@@ -466,6 +526,10 @@ entries:
         - texturing
       tech:
         - ai-generative
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Substance-alt
       - AI Workflows
@@ -558,6 +622,10 @@ entries:
     added_at: '2026-10-05T08:51:07.014Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - ComfyUI
+    best_for: AI scene texturing
   - name: CHORD (Ubisoft La Forge)
     url: https://github.com/ubisoft/ubisoft-laforge-chord
     description: Ubisoft research model that turns one texture image into a set of PBR material maps.
@@ -579,6 +647,10 @@ entries:
     added_at: '2026-10-05T08:51:07.016Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - PBR
+    best_for: Image to PBR maps
   - name: chaiNNer
     url: https://chainner.app/
     description: Node-based desktop app that chains AI upscaling and image-processing models for batch work.
@@ -603,3 +675,7 @@ entries:
     added_at: '2026-10-05T08:51:07.018Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Nodes
+    best_for: Batch AI upscaling

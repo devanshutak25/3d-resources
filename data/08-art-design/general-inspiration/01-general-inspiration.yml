@@ -72,7 +72,7 @@ entries:
   - name: The Black Workshop
     url: https://theblackworkshop.tumblr.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Design inspiration blog.
+    description: Tumblr blog posting design and visual inspiration.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -106,7 +106,7 @@ entries:
   - name: OTAKU GANGSTA
     url: https://otakugangsta.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Anime/otaku visual blog.
+    description: Blog featuring anime and otaku-related visual art.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -124,7 +124,7 @@ entries:
   - name: Mr Cup
     url: https://www.mr-cup.com/blog.html
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Graphic design blog.
+    description: Graphic design inspiration blog by Fabien Barral.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -140,7 +140,7 @@ entries:
   - name: DETHJUNKIE
     url: https://www.dethjunkie.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Dark creative blog.
+    description: Blog posting dark-themed creative and visual art.
     entry_type: inspiration
     license: Free
     readme_tags:
@@ -188,7 +188,7 @@ entries:
   - name: Designspiration
     url: https://designspiration.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Design inspiration feed.
+    description: Site for discovering and saving design inspiration images.
     entry_type: inspiration
     license: Freemium
     readme_tags:
@@ -204,7 +204,7 @@ entries:
   - name: Muddycolors
     url: https://www.muddycolors.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pro illustrator blog.
+    description: Blog run by professional illustrators sharing art process and advice.
     entry_type: channel
     license: Free
     readme_tags:

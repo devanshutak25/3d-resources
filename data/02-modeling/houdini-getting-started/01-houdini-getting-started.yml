@@ -44,7 +44,7 @@ entries:
   - name: Houdini in Five Minutes
     url: https://vimeo.com/384384552
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Quick intro by Entagma.
+    description: Short Entagma video introducing Houdini's procedural node-based workflow.
     license: Free
     entry_type: tutorial
     readme_tags:

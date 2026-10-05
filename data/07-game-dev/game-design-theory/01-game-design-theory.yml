@@ -133,6 +133,8 @@ entries:
         - intermediate
       platform:
         - web
+      workflow:
+        - texturing
   - name: pixeldudesmaker
     url: https://0x72.itch.io/pixeldudesmaker
     added_at: '2026-04-19T17:15:03.000Z'
@@ -146,6 +148,8 @@ entries:
         - games
       platform:
         - win
+      workflow:
+        - texturing
   - name: Turbulenz
     url: https://ga.me/developers
     added_at: '2026-04-19T17:15:03.000Z'
@@ -171,6 +175,8 @@ entries:
         - games
       platform:
         - win
+      workflow:
+        - texturing
   - name: SpriteKit
     url: https://developer.apple.com/documentation/spritekit/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -226,6 +232,8 @@ entries:
         - games
       platform:
         - win
+      workflow:
+        - rendering
   - name: Unity in Action (book)
     url: https://www.manning.com/books/unity-in-action-second-edition
     added_at: '2026-04-19T17:15:03.000Z'
@@ -271,6 +279,8 @@ entries:
         - games
       platform:
         - web
+      workflow:
+        - texturing
   - name: Pixel Composer (GitHub)
     url: https://github.com/Ttanasart-pt/Pixel-Composer
     added_at: '2026-04-16T21:13:44.000Z'

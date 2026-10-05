@@ -24,7 +24,7 @@ entries:
   - name: Blender Demo Files
     url: https://www.blender.org/download/demo-files/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official demo scenes.
+    description: Official Blender demo scenes and splash-screen files for testing and learning.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -114,7 +114,7 @@ entries:
   - name: ZBrush Download Center
     url: https://www.maxon.net/en/zbrush-plugins
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Alphas and brushes.
+    description: Maxon download page for free ZBrush plugins and add-on resources.
     license: Free
     entry_type: asset-source
     tags:
@@ -200,3 +200,61 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
     deprecated: true
+  - name: Krita Resources
+    url: https://krita.org/en/resources/
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Official brushes, textures, templates.
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+  - name: Clip Studio Assets
+    url: https://assets.clip-studio.com/en-us/
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Brushes, materials, 3D models, auto-actions.
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+  - name: RenderMan Community
+    url: https://renderman.pixar.com/community
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Free RenderMan assets, shaders, HDRIs.
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Chaos Cosmos
+    url: https://www.chaos.com/cosmos
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Free V-Ray/Corona asset library (3D models, materials, HDRIs).
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Figma Community
+    url: https://www.figma.com/community/
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Free templates, plugins, UI kits.
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      platform:
+        - web

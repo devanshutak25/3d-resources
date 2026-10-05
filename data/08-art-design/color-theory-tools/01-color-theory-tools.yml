@@ -18,7 +18,7 @@ entries:
   - name: Coolors
     url: https://coolors.co/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Fast palette generator.
+    description: Web app that generates color palettes and exports them in several formats.
     license: Freemium
     entry_type: tool
     readme_tags:
@@ -52,7 +52,7 @@ entries:
   - name: WebGradients
     url: https://webgradients.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Gradient library.
+    description: Collection of free CSS gradients you can copy for web and design use.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -118,7 +118,7 @@ entries:
   - name: Canva Color Palettes
     url: https://www.canva.com/colors/color-palettes/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pre-made palettes.
+    description: Canva library of ready-made color palettes with hex codes.
     license: Free
     entry_type: asset-source
     readme_tags:

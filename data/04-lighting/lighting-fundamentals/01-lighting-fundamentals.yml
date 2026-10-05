@@ -2,7 +2,7 @@ entries:
   - name: 10 Tips for Better Lighting
     url: https://helloluxx.com/tutorial/10-tips-for-better-lighting/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Helloluxx lighting tips.
+    description: Helloluxx tutorial with 10 tips for improving lighting in 3D renders.
     entry_type: tutorial
     license: Free
     readme_tags:
@@ -20,7 +20,7 @@ entries:
   - name: The Digital Revolution
     url: https://www.youtube.com/@TheDigitalRevolutionTV
     added_at: '2026-04-19T19:05:38.000Z'
-    description: Beginner C4D lighting.
+    description: YouTube channel, formerly Motion Designers Community, with beginner Cinema 4D lighting tutorials.
     entry_type: channel
     license: Free
     tags:
@@ -40,7 +40,7 @@ entries:
   - name: Get Better Lighting in C4D
     url: https://www.youtube.com/@lukasthorup
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Improve C4D lighting.
+    description: YouTube channel of motion designer Lukas Thorup with Cinema 4D lighting tutorials and breakdowns.
     entry_type: channel
     license: Free
     readme_tags:

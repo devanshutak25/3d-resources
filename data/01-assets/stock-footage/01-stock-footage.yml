@@ -38,7 +38,7 @@ entries:
   - name: Open Visual FX
     url: https://openvisualfx.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free VFX footage.
+    description: Free VFX stock footage elements for compositing.
     license: Free
     entry_type: asset-source
     tags:
@@ -69,3 +69,18 @@ entries:
         - web
       workflow:
         - reference
+  - name: ActionVFX
+    url: https://www.actionvfx.com/
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: VFX stock elements (explosions, fire, debris).
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - web

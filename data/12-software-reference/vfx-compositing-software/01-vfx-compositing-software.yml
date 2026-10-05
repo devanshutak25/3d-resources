@@ -455,19 +455,8 @@ entries:
       output:
         - film-vfx
         - games
-  - name: ActionVFX
-    url: https://www.actionvfx.com/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: VFX stock elements (explosions, fire, debris).
-    entry_type: reference
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - compositing
-        - fx
-      output:
-        - film-vfx
+      platform:
+        - web
   - name: Motion Lab
     url: https://motionlab.net/assets/
     added_at: '2026-07-24T09:12:25.000Z'
@@ -505,6 +494,8 @@ entries:
         - real-time
         - procedural
         - node-based
+      platform:
+        - win
     dual_listed_in:
       - motion-graphics-video/motion-graphics-inspiration
   - name: Resolume
@@ -520,6 +511,9 @@ entries:
         - broadcast
       tech:
         - real-time
+      platform:
+        - win
+        - mac
     readme_tags:
       - VJ
       - Live Visuals
@@ -539,6 +533,9 @@ entries:
         - motion-graphics
       tech:
         - real-time
+      platform:
+        - win
+        - mac
     readme_tags:
       - Projection Mapping
       - Live
@@ -560,6 +557,10 @@ entries:
       tech:
         - real-time
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Real-time VFX
       - Games
@@ -582,6 +583,9 @@ entries:
         - real-time
         - node-based
         - procedural
+      platform:
+        - win
+        - mac
     readme_tags:
       - Real-time
       - Node-based
@@ -737,6 +741,10 @@ entries:
     added_at: '2026-10-05T08:51:07.430Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Industry Standard
+      - Finishing
+    best_for: High-end finishing and VFX
   - name: VDBRender
     url: https://www.nukepedia.com/tools/plugins/3d/vdb-render-v3/
     description: Nuke plugin that renders OpenVDB volumes natively, with deep output and motion blur.
@@ -754,3 +762,7 @@ entries:
     added_at: '2026-10-05T08:51:07.432Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Nuke
+    best_for: VDB volumes in Nuke

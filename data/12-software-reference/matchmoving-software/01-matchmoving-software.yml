@@ -11,6 +11,10 @@ entries:
         - film-vfx
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Matchmove
       - Pro
@@ -30,6 +34,10 @@ entries:
         - film-vfx
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Lens Distortion
       - Pro
@@ -49,6 +57,10 @@ entries:
         - film-vfx
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - High-End
       - Studio Standard
@@ -69,6 +81,10 @@ entries:
         - opensource-alt
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Free
       - Blender Bridge
@@ -94,3 +110,8 @@ entries:
     added_at: '2026-10-05T08:51:07.434Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Subscription
+      - Blender
+    best_for: Object and camera tracking
+    pricing_last_verified: '2026-10-05'

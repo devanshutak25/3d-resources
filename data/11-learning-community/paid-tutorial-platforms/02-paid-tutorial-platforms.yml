@@ -810,7 +810,7 @@ entries:
   - name: Domestika
     url: https://www.domestika.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Creative arts courses.
+    description: Online course platform for creative skills such as illustration, design, 3D and animation.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -853,3 +853,22 @@ entries:
         - blender
         - substance-painter
         - marmoset
+  - name: Clarafi (Gaël McGill / Digizyme)
+    url: https://clarafi.com/
+    added_at: '2026-05-22T16:39:01.000Z'
+    description: 3D molecular animation courses, Maya focus.
+    license: Paid
+    entry_type: tutorial
+    best_for: Molecular animation training
+    tags:
+      workflow:
+        - animation
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Course
+      - Maya Molecular
+    url_last_verified: '2026-10-01'
+    url_status: ok

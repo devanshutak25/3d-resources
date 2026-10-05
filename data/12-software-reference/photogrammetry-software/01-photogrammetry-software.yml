@@ -30,6 +30,9 @@ entries:
         - node-based
         - gpu
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - Node-based
@@ -47,6 +50,8 @@ entries:
     tags:
       tech:
         - photogrammetry
+      platform:
+        - win
     readme_tags:
       - Epic Games
       - High-Quality
@@ -64,6 +69,10 @@ entries:
     tags:
       tech:
         - photogrammetry
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - GIS Features
       - Pro
@@ -122,6 +131,8 @@ entries:
     tags:
       tech:
         - photogrammetry
+      platform:
+        - win
     readme_tags:
       - Free Lite
       - 50 Photos
@@ -161,6 +172,8 @@ entries:
       tech:
         - gaussian-splatting
         - photogrammetry
+      platform:
+        - win
     readme_tags:
       - Desktop
       - Splat Editor
@@ -181,6 +194,10 @@ entries:
       tech:
         - photogrammetry
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Open Source
       - Point Cloud
@@ -215,6 +232,10 @@ entries:
       tech:
         - photogrammetry
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Point Clouds
       - Open Source
@@ -234,6 +255,8 @@ entries:
     tags:
       tech:
         - photogrammetry
+      platform:
+        - web
     readme_tags:
       - Asset Library
       - Epic Games
@@ -251,6 +274,8 @@ entries:
     tags:
       tech:
         - photogrammetry
+      platform:
+        - win
     readme_tags:
       - Free
       - Personal Use
@@ -266,6 +291,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Photogrammetry
       - Open Source
@@ -284,9 +313,17 @@ entries:
         - scientific-viz
       tech:
         - photogrammetry
+      platform:
+        - win
+        - mac
+        - linux
     added_at: '2026-10-05T08:51:07.435Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - C++
+    best_for: Dense photogrammetry reconstruction
   - name: iTwin Capture Modeler (Bentley)
     url: https://www.bentley.com/products/itwin-capture-modeler/
     description: Bentley reality modeling that builds meshes and Gaussian splats from photos and lidar.
@@ -304,6 +341,10 @@ entries:
     added_at: '2026-10-05T08:51:07.436Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - Bentley
+    best_for: Large-scale reality meshes
   - name: DJI Terra
     url: https://enterprise.dji.com/dji-terra
     description: Drone mapping and photogrammetry software that outputs meshes, point clouds and Gaussian splats.
@@ -317,6 +358,12 @@ entries:
       tech:
         - photogrammetry
         - gaussian-splatting
+      platform:
+        - win
     added_at: '2026-10-05T08:51:07.438Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Drone
+    best_for: Drone survey reconstruction

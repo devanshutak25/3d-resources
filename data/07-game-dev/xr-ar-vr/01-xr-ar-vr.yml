@@ -421,6 +421,8 @@ entries:
       tech:
         - opensource-alt
         - xr
+      workflow:
+        - rendering
   - name: 8th Wall
     url: https://8thwall.org/
     added_at: '2026-05-22T16:48:26.000Z'
@@ -498,6 +500,10 @@ entries:
     added_at: '2026-10-05T08:51:07.152Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - Snapchat
+    best_for: Snapchat AR lenses
   - name: Effect House (TikTok)
     url: https://effecthouse.tiktok.com/
     description: TikTok AR effect authoring app with visual and TypeScript scripting.
@@ -513,6 +519,10 @@ entries:
     url_last_verified: '2026-10-05'
     url_status: ok
     notes: Live (release notes Aug 2026) but geo-blocked in some regions, e.g. India; link checks from those networks fail.
+    readme_tags:
+      - Free
+      - TikTok
+    best_for: TikTok AR effects
   - name: ShapesXR
     url: https://www.shapesxr.com/
     description: Collaborative 3D and XR scene prototyping in headset and a web editor.
@@ -529,3 +539,7 @@ entries:
     added_at: '2026-10-05T08:51:07.155Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - VR
+    best_for: XR scene prototyping

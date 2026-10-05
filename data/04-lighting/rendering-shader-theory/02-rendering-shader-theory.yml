@@ -358,7 +358,7 @@ entries:
   - name: Shader Effects
     url: https://github.com/NoxWings/Shader-Effects
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Unity shader effects.
+    description: GitHub repo with a set of shader effects for Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -443,7 +443,7 @@ entries:
   - name: Raymarching On Unity 5
     url: https://github.com/i-saint/RaymarchingOnUnity5
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Raymarcher in Unity 5.
+    description: GitHub repo with a raymarching renderer for Unity 5.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -687,7 +687,7 @@ entries:
   - name: Efficient Gradient-Domain Compositing Using Quadtrees
     url: https://www.agarwala.org/efficient_gdc/preprint.pdf
     added_at: '2026-04-19T17:29:43.000Z'
-    description: ACM Trans. Graph. 2007.
+    description: Agarwala, ACM Trans. Graph. 2007. Speeds up gradient-domain image compositing with quadtrees.
     entry_type: reference
     license: Free
     year: 2007
@@ -843,7 +843,7 @@ entries:
   - name: A Trip Through The Graphics Pipeline
     url: https://github.com/alaingalvan/a-trip-through-the-graphics-pipeline-book
     added_at: '2026-04-16T21:13:44.000Z'
-    description: A-trip-through-the-graphics-pipeline.
+    description: Book version of Fabian Giesen's blog series on how the GPU graphics pipeline works.
     license: Open Source
     entry_type: reference
     best_for: Graphics pipeline learning

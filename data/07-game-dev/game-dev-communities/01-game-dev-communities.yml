@@ -18,7 +18,7 @@ entries:
   - name: r/indiegaming
     url: https://www.reddit.com/r/indiegaming/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Indie gaming subreddit.
+    description: Reddit community for sharing and discussing indie games.
     entry_type: community
     license: Free
     readme_tags:
@@ -34,7 +34,7 @@ entries:
   - name: r/unrealengine
     url: https://www.reddit.com/r/unrealengine/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Unreal Engine subreddit.
+    description: Reddit community for Unreal Engine users to share work and ask questions.
     entry_type: community
     license: Free
     readme_tags:
@@ -68,7 +68,7 @@ entries:
   - name: r/gamedesign
     url: https://www.reddit.com/r/gamedesign/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game design subreddit.
+    description: Reddit community for discussing game design theory and practice.
     entry_type: community
     license: Free
     readme_tags:
@@ -84,7 +84,7 @@ entries:
   - name: r/pixelart
     url: https://www.reddit.com/r/PixelArt/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pixel art subreddit.
+    description: Reddit community for sharing pixel art and getting feedback.
     entry_type: community
     license: Free
     readme_tags:
@@ -154,7 +154,7 @@ entries:
   - name: Work With Indies
     url: https://www.workwithindies.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Indie game job board.
+    description: Job board listing roles at indie game studios.
     entry_type: community
     license: Free
     readme_tags:

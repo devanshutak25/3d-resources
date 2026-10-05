@@ -24,7 +24,7 @@ entries:
   - name: Tiled2Unity
     url: https://github.com/Seanba/Tiled2Unity
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Export [Tiled](http://www.mapeditor.org) Map Editor (TMX) files into Unity.
+    description: Exports Tiled map editor TMX files into Unity prefabs with sprites and colliders.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -122,6 +122,8 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2019-06-08'
   - name: Sprytile (GitHub)

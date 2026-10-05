@@ -838,7 +838,7 @@ entries:
   - name: Terrain Rendering Using GPU-Based Geometry Clipmaps
     url: https://developer.nvidia.com/gpugems/gpugems2/part-i-geometric-complexity/chapter-2-terrain-rendering-using-gpu-based-geometry
     added_at: '2026-04-16T21:13:44.000Z'
-    description: GPU Gems 2 - Chapter 02.
+    description: GPU Gems 2 chapter on rendering large terrains on the GPU with geometry clipmaps.
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'
@@ -855,7 +855,7 @@ entries:
   - name: Fast Terrain Rendering Using Geometrical MipMapping
     url: https://www.flipcode.com/archives/article_geomipmaps.pdf
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Fast Terrain Rendering Using Geometrical MipMapping.
+    description: Paper on fast terrain rendering with geometrical mipmapping, a level-of-detail method for heightmaps.
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'

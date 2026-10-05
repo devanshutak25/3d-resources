@@ -130,7 +130,7 @@ entries:
   - name: Cyos
     url: https://cyos.babylonjs.com/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Online shader editor.
+    description: Babylon.js Create Your Own Shader editor for writing and previewing shaders in the browser.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'

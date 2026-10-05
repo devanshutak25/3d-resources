@@ -58,7 +58,7 @@ entries:
   - name: Aseprite
     url: https://www.aseprite.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pixel art editor with animation tools ([source on GitHub](https://github.com/aseprite/aseprite)).
+    description: Pixel art editor and sprite animation tool, sold commercially with its source code public on GitHub.
     license: Open Source
     entry_type: software
     best_for: Pixel art, sprite animation, game assets
@@ -327,26 +327,6 @@ entries:
       - Game Runtimes
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: Krita Resources
-    url: https://krita.org/en/resources/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Official brushes, textures, templates.
-    entry_type: reference
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
-  - name: Clip Studio Assets
-    url: https://assets.clip-studio.com/en-us/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Brushes, materials, 3D models, auto-actions.
-    entry_type: reference
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
   - name: Procreate Handbook
     url: https://help.procreate.com/procreate/handbook/introduction
     added_at: '2026-04-16T19:59:30.000Z'
@@ -357,6 +337,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
   - name: Toon Boom Learn
     url: https://www.toonboom.com/learn-toon-boom-animation-skills-in-days-with-new-training-courses
     added_at: '2026-04-16T19:59:30.000Z'
@@ -367,6 +349,8 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
   - name: Aseprite Docs
     url: https://www.aseprite.org/docs/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -377,11 +361,13 @@ entries:
     tags:
       output:
         - motion-graphics
+      platform:
+        - web
   - name: OpenToonz GitHub
     url: https://github.com/opentoonz/opentoonz
     added_at: '2026-04-16T19:59:30.000Z'
     description: Source, plugins, and documentation.
-    entry_type: reference
+    entry_type: software
     url_last_verified: '2026-10-01'
     url_status: ok
     tags:
@@ -389,6 +375,10 @@ entries:
         - motion-graphics
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: Tahoma2D
     url: https://tahoma2d.org/
     added_at: '2026-04-16T21:37:07.000Z'
@@ -428,6 +418,9 @@ entries:
       output:
         - games
         - motion-graphics
+      platform:
+        - win
+        - mac
     readme_tags:
       - Open Source
       - 2D Skeletal
@@ -542,38 +535,6 @@ entries:
       - Roguelike
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: AJ Picard
-    url: https://www.youtube.com/channel/UCVRJy3snLdtIgSrPQZyXLtg
-    added_at: '2026-04-19T19:05:38.000Z'
-    description: Complex background animations using SwiftUI & Rive.App.
-    entry_type: channel
-    license: Free
-    readme_tags:
-      - SwiftUI
-      - Rive
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      skill:
-        - intermediate
-  - name: Pointer Tracking Animation Implemented in Webflow
-    url: https://www.youtube.com/@jeffamcavoy
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: How to set up a Rive file with pointer tracking for Webflow implementation.
-    entry_type: channel
-    license: Free
-    readme_tags:
-      - Rive
-      - Webflow
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      skill:
-        - beginner
   - name: PiskelApp
     url: https://www.piskelapp.com/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -587,195 +548,12 @@ entries:
         - animation
       platform:
         - web
-  - name: Build an animated app
-    url: https://designcode.io/courses/swiftui-rive
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions.
-    entry_type: tutorial
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - ios
-        - web
-      skill:
-        - beginner
-  - name: Flutter Web and Rive Animation Tutorial
-    url: https://dev.to/suhavi/flutter-web-and-rive-animation-tutorial-5f5k
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Beginner to intermediate tutorial for setting up a Flutter web app with Rive animations.
-    entry_type: tutorial
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-      skill:
-        - beginner
-        - intermediate
-  - name: SwiftUI Animated Login Screen using Rive
-    url: https://www.youtube.com/@HarsivoCareerStack
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Teddy Bear Animation, create an animated and interactive Login screen.
-    entry_type: channel
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-      skill:
-        - intermediate
-  - name: Create animated UI in Unity using Rive and Noesis
-    url: https://www.youtube.com/@Rive_app
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Tutorial on how to add Rive to your Unity games using Noesis.
-    entry_type: channel
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-      skill:
-        - intermediate
-  - name: Adding Animation to Buttons in Flutter using Rive
-    url: https://www.youtube.com/@anantpro
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Simple Animated Menu Toggle Button in Rive.
-    entry_type: channel
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-      skill:
-        - beginner
-  - name: Rive Flutter Animation
-    url: https://flutterservice.com/rive-flutter-animation/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Best approach for animation in 2023.
-    entry_type: reference
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
   - name: Wordpress Addon
     url: https://greenshiftwp.com/rive-app-wordpress-addon/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Greenshift animation addon allows you to use and configure Rive files directly in the WordPress editor.
-    entry_type: reference
+    entry_type: plugin
     license: Freemium
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-  - name: Optimization techniques
-    url: https://pixelpoint.io/blog/rive-react-optimizations/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Techniques to optimize Rive animations in React apps.
-    entry_type: reference
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-  - name: 'The Power of Rive: A New Standard for Interactive Animations'
-    url: https://plumcatstudio.com/blog/the-power-of-rive-a-new-standard-for-interactive-animations
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: '"We''ve been playing around with this awesome interactive animation tool called Rive, and it''s blown us away!".'
-    entry_type: reference
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-  - name: Flutter SVG Animations with Rive (Reso Coder)
-    url: https://resocoder.com/2021/08/27/flutter-svg-animations-with-rive/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: '- Sprinkling some beautiful animations across your app.'
-    entry_type: reference
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-  - name: Riveflow
-    url: https://riveflow.webflow.io/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Learn how to create next-level interactive animations for Webflow websites with Rive.
-    entry_type: tutorial
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-      skill:
-        - intermediate
-  - name: Create Rive-ting Animations
-    url: https://www.viget.com/articles/create-rive-animations/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: '"Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."'
-    entry_type: reference
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-  - name: Flutter Community
-    url: https://www.youtube.com/@FlutterCommunity
-    added_at: '2026-04-19T19:05:38.000Z'
-    description: Demonstrating Rive on the Flutter Community live stream for the 2022 Flutter Puzzle Hack.
-    entry_type: channel
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - animation
-      platform:
-        - web
-  - name: Plant Blog
-    url: https://plant-blog-rive.vercel.app/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: NextJS blog template with Rive to show animated blog thumbnails and syncing scroll to Rive animations deployed on Vercel. Code.
-    entry_type: reference
-    license: Open Source
     url_last_verified: '2026-10-01'
     url_status: ok
     tags:
@@ -795,6 +573,8 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - win
     readme_tags:
       - 2D VFX
       - Sprites
@@ -814,6 +594,10 @@ entries:
         - games
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Sprite Sheets
       - Multi-Engine
@@ -836,6 +620,11 @@ entries:
         - fx
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+        - web
     readme_tags:
       - Pixel Art
       - Godot-built
@@ -857,6 +646,10 @@ entries:
         - illustration
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Artwork→Pixel
       - Rigging
@@ -879,6 +672,10 @@ entries:
         - fx
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: PyxelEdit

@@ -61,7 +61,7 @@ entries:
   - name: Halftone Maker
     url: https://halftonemaker.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Halftone generator.
+    description: Web tool that turns images into halftone, line halftone or stippling patterns and exports SVG.
     license: Free
     entry_type: tool
     readme_tags:
@@ -89,7 +89,7 @@ entries:
   - name: Tiled Art
     url: https://tiled.art/en/home/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Tessellation creator.
+    description: Site about Escher-style tessellation art with a tool to create your own.
     license: Free
     entry_type: tool
     readme_tags:
@@ -191,7 +191,7 @@ entries:
   - name: Savee
     url: https://savee.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Visual bookmarking tool.
+    description: Curated site for collecting and saving visual inspiration and references.
     license: Freemium
     entry_type: tool
     readme_tags:
@@ -250,7 +250,7 @@ entries:
   - name: Mockup World
     url: https://www.mockupworld.co/
     added_at: '2026-06-21T19:32:23.000Z'
-    description: Free PSD mockup library.
+    description: Free PSD mockup library for presenting designs on devices, print and packaging.
     license: Free
     entry_type: asset-source
     tags:

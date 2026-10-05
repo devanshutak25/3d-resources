@@ -43,7 +43,7 @@ entries:
   - name: Pickle
     url: http://www.pickleeditor.com/
     added_at: '2026-04-16T21:37:07.000Z'
-    description: Pixel art editor.
+    description: Desktop pixel art editor for drawing sprites and animated frames.
     license: Paid
     entry_type: software
     best_for: Pixel art editing
@@ -83,7 +83,7 @@ entries:
   - name: Pixen (GitHub)
     url: https://github.com/Pixen/Pixen
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Pixel Art Editor for OSX
+    description: Open-source pixel art and animation editor for macOS.
     license: Open Source
     entry_type: software
     url_last_verified: '2026-10-01'
@@ -95,6 +95,8 @@ entries:
         - fx
       tech:
         - opensource-alt
+      platform:
+        - mac
     stale: true
     last_pushed: '2016-09-18'
     dual_listed_in:
@@ -194,6 +196,10 @@ entries:
     added_at: '2026-10-05T08:51:07.122Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Frame by Frame
+    best_for: Hand-drawn 2D animation
   - name: Callipeg
     url: https://callipeg.com/
     description: Frame-by-frame 2D animation app for tablets and desktop.
@@ -215,6 +221,11 @@ entries:
     added_at: '2026-10-05T08:51:07.123Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Tablet
+    best_for: Tablet frame-by-frame animation
+    pricing_last_verified: '2026-10-05'
   - name: Glaxnimate
     url: https://glaxnimate.org/
     description: KDE open-source vector animation app with Lottie and SVG export.
@@ -232,3 +243,21 @@ entries:
     added_at: '2026-10-05T08:51:07.125Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Lottie
+    best_for: Lottie vector animation
+  - name: Hexels
+    url: https://marmoset.co/hexels/
+    added_at: '2026-04-16T21:13:44.000Z'
+    description: 2D grid-based painting tool from Marmoset.
+    license: Paid
+    entry_type: software
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - win
+        - mac

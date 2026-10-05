@@ -2,7 +2,7 @@ entries:
   - name: Unsplash
     url: https://unsplash.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free photography.
+    description: Free high-resolution stock photos usable without attribution.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -38,7 +38,7 @@ entries:
   - name: Pixabay
     url: https://pixabay.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free stock media.
+    description: Free stock photos, illustrations, vectors, videos and music.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -56,7 +56,7 @@ entries:
   - name: All Free Download
     url: https://all-free-download.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free design downloads.
+    description: Free vectors, photos, PSD files and fonts for design work.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -92,7 +92,7 @@ entries:
   - name: PNG Images
     url: https://pngimg.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Transparent PNG images.
+    description: Free transparent-background PNG images sorted by category.
     license: Free NC
     entry_type: asset-source
     readme_tags:
@@ -128,7 +128,7 @@ entries:
   - name: David Rumsey Maps
     url: https://www.davidrumsey.com/view/past
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Historical maps archive.
+    description: David Rumsey's online collection of digitized historical maps.
     license: Free NC
     entry_type: asset-source
     tags:

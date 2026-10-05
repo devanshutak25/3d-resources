@@ -179,6 +179,9 @@ entries:
         - audio-design
       output:
         - games
+      platform:
+        - win
+        - mac
     readme_tags:
       - Industry Standard
       - Indie-Free
@@ -198,6 +201,9 @@ entries:
         - audio-design
       output:
         - games
+      platform:
+        - win
+        - mac
     readme_tags:
       - AAA
       - Free Tier
@@ -219,6 +225,10 @@ entries:
         - games
       tech:
         - physics
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Spatial Audio
       - Valve Free
@@ -308,7 +318,7 @@ entries:
   - name: Studio One
     url: https://www.presonus.com/products/Studio-One
     added_at: '2026-05-22T16:39:01.000Z'
-    description: PreSonus drag-flow DAW.
+    description: PreSonus digital audio workstation for recording, mixing and producing music with drag-and-drop workflow.
     license: Paid
     entry_type: software
     best_for: Modern drag-flow DAW
@@ -363,7 +373,7 @@ entries:
   - name: Ardour
     url: https://ardour.org/
     added_at: '2026-05-22T16:39:01.000Z'
-    description: OSS multitrack DAW.
+    description: Open-source digital audio workstation for multitrack recording, editing and mixing.
     license: Open Source
     entry_type: software
     best_for: Free multitrack DAW
@@ -704,24 +714,6 @@ entries:
     readme_tags:
       - IRCAM
       - Spatial
-    url_last_verified: '2026-10-01'
-    url_status: ok
-  - name: Resonance Audio
-    url: https://resonance-audio.github.io/resonance-audio/
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: Google's open-source ambisonic spatial audio SDK.
-    license: Open Source
-    entry_type: reference
-    best_for: Ambisonic SDK
-    tags:
-      workflow:
-        - audio-design
-      output:
-        - xr
-        - games
-    readme_tags:
-      - Google
-      - Apache 2.0
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: GarageBand

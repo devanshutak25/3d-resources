@@ -2,7 +2,7 @@ entries:
   - name: Topology Guides
     url: https://topologyguides.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Topology reference.
+    description: Visual reference site showing clean polygon topology layouts for common shapes and edge-flow problems.
     license: Free
     entry_type: reference
     readme_tags:
@@ -122,6 +122,10 @@ entries:
     added_at: '2026-10-05T08:51:07.066Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - Blender
+    best_for: Automatic quad remeshing
   - name: Smart Remesh
     url: https://superhivemarket.com/products/smart-remesh
     description: Blender retopology add-on with organic and hard-surface modes for clean quad meshes.
@@ -143,3 +147,7 @@ entries:
     added_at: '2026-10-05T08:51:07.067Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Quick quad retopology

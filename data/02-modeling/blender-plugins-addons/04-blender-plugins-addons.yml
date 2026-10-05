@@ -798,6 +798,11 @@ entries:
     added_at: '2026-10-05T08:51:07.043Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Hard-surface boolean modeling
+    pricing_last_verified: '2026-10-05'
   - name: DECALmachine
     url: https://machin3.io/DECALmachine/
     description: Blender add-on for mesh decals and trim sheets, adds surface detail without UVs.
@@ -819,6 +824,11 @@ entries:
     added_at: '2026-10-05T08:51:07.045Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Decal and trim detailing
+    pricing_last_verified: '2026-10-05'
   - name: MESHmachine
     url: https://machin3.io/MESHmachine/
     description: 'Blender add-on for hard-surface edits without subdivision: fuse, unfuse, fillets, unbevel.'
@@ -840,6 +850,11 @@ entries:
     added_at: '2026-10-05T08:51:07.048Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Hard-surface mesh fixes
+    pricing_last_verified: '2026-10-05'
   - name: Geo-Scatter
     url: https://www.geoscatter.com/
     description: Blender scattering add-on with a biome system for vegetation, city and debris environments.
@@ -861,6 +876,11 @@ entries:
     added_at: '2026-10-05T08:51:07.050Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Large environment scattering
+    pricing_last_verified: '2026-10-05'
   - name: botaniq
     url: https://polygoniq.com/3d/botaniq/
     description: Blender library of 700 tree, grass and plant assets with scatter presets and wind animation.
@@ -879,6 +899,10 @@ entries:
     added_at: '2026-10-05T08:51:07.052Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Vegetation asset scattering
   - name: BagaPie
     url: https://extensions.blender.org/add-ons/bagapie/
     description: Free Blender extension with scattering, ivy, arrays, booleans and parametric architecture tools.
@@ -900,6 +924,10 @@ entries:
     added_at: '2026-10-05T08:51:07.055Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - Blender
+    best_for: Quick scattering and arrays
   - name: Human Generator
     url: https://www.humgen3d.com/
     description: Blender add-on that builds realistic human characters with hair, outfits, poses and expressions.
@@ -922,6 +950,11 @@ entries:
     added_at: '2026-10-05T08:51:07.057Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - Blender
+    best_for: Realistic human characters
+    pricing_last_verified: '2026-10-05'
   - name: Simply Cloth
     url: https://superhivemarket.com/products/simply-cloth
     description: Blender add-on for fast cloth simulation and garment sewing, with wind and collision presets.
@@ -945,6 +978,11 @@ entries:
     added_at: '2026-10-05T08:51:07.060Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Garment and cloth simulation
+    pricing_last_verified: '2026-10-05'
   - name: RBDLab
     url: https://superhivemarket.com/products/rbdlab
     description: 'Blender add-on for rigid-body destruction: fracturing, debris, dust and metal deformation.'
@@ -968,3 +1006,8 @@ entries:
     added_at: '2026-10-05T08:51:07.063Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Rigid-body destruction
+    pricing_last_verified: '2026-10-05'

@@ -2,7 +2,7 @@ entries:
   - name: Open HDRI
     url: https://openhdri.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 50 free CC0 HDRIs.
+    description: Small library of free CC0 HDRIs for lighting 3D scenes.
     license: Free
     entry_type: asset-source
     tags:
@@ -22,7 +22,7 @@ entries:
   - name: Poly Haven HDRIs
     url: https://polyhaven.com/hdris
     added_at: '2026-04-16T19:59:30.000Z'
-    description: CC0 HDRIs up to 16K.
+    description: Poly Haven's library of free CC0 HDRIs for lighting, available up to 16K.
     license: Free
     entry_type: asset-source
     tags:
@@ -42,7 +42,7 @@ entries:
   - name: HDRI Skies
     url: https://hdri-skies.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free sky HDRIs.
+    description: Free sky HDRIs for lighting and backgrounds in 3D renders.
     license: Free
     entry_type: asset-source
     tags:
@@ -60,7 +60,7 @@ entries:
   - name: HDR Maps
     url: https://hdrmaps.com/freebies/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free HDRI packs.
+    description: Free HDRI packs from HDR Maps, a site that also sells premium HDRIs.
     license: Free
     entry_type: asset-source
     tags:
@@ -78,7 +78,7 @@ entries:
   - name: Adobe Stock HDRI
     url: https://stock.adobe.com/search?k=hdri+studio
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Studio HDRIs.
+    description: Adobe Stock search for paid studio HDRIs used to light product and studio renders.
     license: Paid
     entry_type: marketplace
     tags:
@@ -96,7 +96,7 @@ entries:
   - name: RenderMan HDRIs
     url: https://renderman.pixar.com/category/111-hdri
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pixar's HDRI collection.
+    description: Pixar's collection of HDRIs provided for lighting with RenderMan.
     license: Free
     entry_type: asset-source
     tags:

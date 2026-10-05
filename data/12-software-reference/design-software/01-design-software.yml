@@ -282,16 +282,6 @@ entries:
       - Figma-alt
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: Figma Community
-    url: https://www.figma.com/community/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Free templates, plugins, UI kits.
-    entry_type: reference
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
   - name: Affinity Help Center
     url: https://www.affinity.studio/help/getting-started/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -597,7 +587,7 @@ entries:
   - name: Adobe Express
     url: https://new.express.adobe.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Quick Adobe design tool.
+    description: Adobe web and mobile app for quick social graphics, flyers and short videos from templates.
     license: Freemium
     entry_type: software
     best_for: Quick design
@@ -614,7 +604,7 @@ entries:
   - name: Eagle
     url: https://eagle.cool/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Visual asset organizer.
+    description: Desktop app for collecting, tagging and organizing images, fonts and other visual reference assets.
     license: Paid
     entry_type: software
     best_for: Asset organization

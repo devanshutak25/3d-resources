@@ -117,7 +117,7 @@ entries:
   - name: Neural Rendering (YouTube)
     url: https://www.youtube.com/@NeuralRendering
     added_at: '2026-04-19T19:05:38.000Z'
-    description: Ben Mildenhall
+    description: YouTube channel run by Ben Mildenhall with talks and videos on NeRF and neural rendering research.
     entry_type: channel
     url_last_verified: '2026-10-01'
     url_status: ok

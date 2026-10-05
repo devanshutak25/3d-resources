@@ -61,6 +61,10 @@ entries:
     added_at: '2026-10-05T08:51:07.068Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: UV unwrapping and packing
   - name: Mio3 UV
     url: https://extensions.blender.org/add-ons/mio3-uv/
     description: Free Blender extension for aligning, straightening and arranging UV islands.
@@ -81,3 +85,7 @@ entries:
     added_at: '2026-10-05T08:51:07.069Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Free
+      - Blender
+    best_for: UV island alignment

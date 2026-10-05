@@ -12,6 +12,8 @@ entries:
         - film-vfx
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - Real-time VFX
       - Broadcast
@@ -32,6 +34,8 @@ entries:
         - broadcast
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - LED Walls
       - Workflow
@@ -52,6 +56,8 @@ entries:
         - film-vfx
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - Broadcast
       - Graphics
@@ -72,6 +78,8 @@ entries:
         - broadcast
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - VP Software
       - Real-time
@@ -93,6 +101,8 @@ entries:
         - film-vfx
       tech:
         - real-time
+      platform:
+        - win
     readme_tags:
       - Live Events
       - Real-time
@@ -112,6 +122,9 @@ entries:
         - broadcast
       tech:
         - real-time
+      platform:
+        - win
+        - mac
     readme_tags:
       - Lighting Console
       - Show Control
@@ -256,6 +269,9 @@ entries:
         - previs
       output:
         - film-vfx
+      platform:
+        - ios
+        - ipad
     readme_tags:
       - On-Set Previs
       - Lightcraft
@@ -321,6 +337,8 @@ entries:
       output:
         - film-vfx
         - games
+      platform:
+        - win
     readme_tags:
       - Optical Mocap
       - Industry Std
@@ -341,6 +359,8 @@ entries:
         - film-vfx
         - games
         - xr
+      platform:
+        - win
     readme_tags:
       - Optical Mocap
       - Motive
@@ -359,6 +379,8 @@ entries:
       output:
         - film-vfx
         - games
+      platform:
+        - win
     readme_tags:
       - IMU Suit
       - Movella
@@ -377,6 +399,9 @@ entries:
       output:
         - games
         - film-vfx
+      platform:
+        - win
+        - mac
     readme_tags:
       - IMU Suit
       - Affordable
@@ -395,6 +420,9 @@ entries:
       output:
         - games
         - xr
+      platform:
+        - ios
+        - android
     readme_tags:
       - Mobile Mocap
       - 6-Sensor
@@ -413,6 +441,8 @@ entries:
       output:
         - film-vfx
         - xr
+      platform:
+        - win
     readme_tags:
       - Mocap Gloves
       - VR
@@ -430,6 +460,8 @@ entries:
         - mocap
       output:
         - film-vfx
+      platform:
+        - win
     readme_tags:
       - Soft Sensor
       - Hands
@@ -448,6 +480,8 @@ entries:
       output:
         - film-vfx
         - games
+      platform:
+        - win
     readme_tags:
       - Face Cap HW + SW
       - Pro
@@ -510,6 +544,11 @@ entries:
     added_at: '2026-10-05T08:51:07.150Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - LED Wall
+    best_for: Live on-set compositing
+    pricing_last_verified: '2026-10-05'
   - name: Chaos Arena
     url: https://www.chaos.com/arena
     description: Ray-traced in-camera VFX that plays V-Ray scenes on LED volumes without a game engine.
@@ -525,9 +564,15 @@ entries:
       tech:
         - ray-tracing
         - real-time
+      platform:
+        - win
     added_at: '2026-10-05T08:51:07.403Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - V-Ray
+    best_for: LED volume rendering
   - name: Nuke Stage
     url: https://www.foundry.com/products/nuke-stage
     description: Foundry tool for real-time LED-wall playback with live compositing and USD layout.
@@ -547,3 +592,7 @@ entries:
     added_at: '2026-10-05T08:51:07.405Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Foundry
+    best_for: LED wall playback

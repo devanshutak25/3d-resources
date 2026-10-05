@@ -17,7 +17,7 @@ entries:
   - name: ArtStation
     url: https://www.artstation.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Professional portfolios.
+    description: Portfolio platform where game, film and VFX artists post work, find jobs and sell assets.
     entry_type: community
     license: Freemium
     readme_tags:
@@ -31,7 +31,7 @@ entries:
   - name: Polycount
     url: https://polycount.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game art community.
+    description: Long-running forum and community for game artists to share work, get critique and discuss techniques.
     entry_type: community
     license: Free
     tags:
@@ -47,7 +47,7 @@ entries:
   - name: Agora Community
     url: https://agora.community/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D artists community.
+    description: Online animation learning platform with courses, mentorship and challenges for 3D animators.
     entry_type: community
     license: Free
     readme_tags:
@@ -75,7 +75,7 @@ entries:
   - name: BlenderArtists
     url: https://blenderartists.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Blender forum.
+    description: Main community forum for Blender users, with support threads, tutorials and artwork galleries.
     entry_type: community
     license: Free
     readme_tags:
@@ -91,7 +91,7 @@ entries:
   - name: ZBrushCentral
     url: https://www.zbrushcentral.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: ZBrush forum.
+    description: Official ZBrush community forum for sharing sculpts, getting feedback and support.
     entry_type: community
     license: Free
     readme_tags:
@@ -119,7 +119,7 @@ entries:
   - name: Blender Discord (French)
     url: https://discord.com/channels/168826665307209728/168826665307209728
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Blender Discord (French).
+    description: French-language Discord server for Blender users to ask questions and share work.
     entry_type: community
     license: Free
     readme_tags:
@@ -149,7 +149,7 @@ entries:
   - name: Houdini Utility Thread
     url: https://www.sidefx.com/forum/topic/80497/?page=1#post-348642
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Houdini Utility Thread.
+    description: SideFX forum thread of entries to the 2021 Tech Art Challenge Best Houdini Utility category, with tools and files.
     entry_type: community
     license: Free
     readme_tags:
@@ -163,7 +163,7 @@ entries:
   - name: Robotic Arm Kinefx Demo
     url: https://www.sidefx.com/forum/topic/77562/?page=1#post-369057
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Robotic Arm Kinefx Demo.
+    description: SideFX forum thread on building robotic arms with KineFX, including a downloadable demo Houdini file.
     entry_type: community
     license: Free
     readme_tags:
@@ -177,23 +177,25 @@ entries:
   - name: Armedunity
     url: https://armedunity.com/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Shooter focused forum.
+    description: Forum for Unity developers focused on building shooter games.
     entry_type: community
     license: Free
     readme_tags:
       - Unity
       - Shooter Forum
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-10-05'
+    url_status: broken
     tags:
       platform:
         - web
       output:
         - games
+    deprecated: true
+    notes: Domain for sale (GoDaddy parking) as of 2026-10-05.
   - name: 👨🏽‍🚀Blender.Community
     url: https://blender.community/c/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: 👨🏽‍🚀Blender.Community.
+    description: Community site for Blender users to share news, artwork and ask questions.
     entry_type: community
     license: Free
     readme_tags:
@@ -398,7 +400,7 @@ entries:
   - name: Introduction to pixel art
     url: https://pixeljoint.com/forum/forum_posts.asp?TID=11299
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Introduction to pixel art.
+    description: Pixel Joint forum tutorial covering pixel art basics, anti-aliasing, dithering, common mistakes and palettes.
     entry_type: community
     license: Free
     readme_tags:

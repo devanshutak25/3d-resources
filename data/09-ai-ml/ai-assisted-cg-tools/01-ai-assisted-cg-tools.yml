@@ -13,6 +13,8 @@ entries:
         - win
         - mac
         - linux
+      workflow:
+        - concept
     readme_tags:
       - Depth/Pose Control
       - Precision
@@ -33,6 +35,8 @@ entries:
         - win
         - mac
         - linux
+      workflow:
+        - texturing
     readme_tags:
       - Blender Addon
       - Local SD
@@ -61,7 +65,7 @@ entries:
   - name: Coplay
     url: https://coplay.dev
     added_at: '2026-04-16T21:13:44.000Z'
-    description: AI copilot for Unity.
+    description: AI assistant for Unity that helps build and edit game projects from inside the editor.
     license: Freemium
     entry_type: plugin
     url_last_verified: '2026-10-01'
@@ -92,6 +96,8 @@ entries:
         - win
         - mac
         - linux
+      workflow:
+        - compositing
     readme_tags:
       - Nuke Plugin
       - Frame Interp
@@ -390,6 +396,9 @@ entries:
         - win
         - mac
         - linux
+      workflow:
+        - rendering
+        - concept
   - name: UneeQ Digital Humans
     url: https://www.digitalhumans.com/
     added_at: '2026-04-19T17:29:43.000Z'

@@ -108,6 +108,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: Unity Mesh Simplifier (Unity-Technologies)
     url: https://github.com/Unity-Technologies/UnityMeshSimplifier
     added_at: '2026-04-19T17:15:03.000Z'
@@ -129,6 +131,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2021-08-13'
   - name: EzySlice
@@ -152,6 +156,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2023-08-10'
   - name: MeshDecimator
@@ -175,6 +181,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     archived: true
     stale: true
     last_pushed: '2020-08-28'
@@ -199,6 +207,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - creative-coding
     stale: true
     last_pushed: '2022-03-31'
   - name: PerfAssist
@@ -246,6 +256,8 @@ entries:
         - unity-plugin
         - opensource-alt
         - procedural
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2020-11-05'
   - name: Green Mamba Stealth
@@ -842,6 +854,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: Gamekit3D
     url: https://github.com/Unity-Technologies/Gamekit3D
     added_at: '2026-04-19T17:15:03.000Z'
@@ -884,6 +898,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - animation
     stale: true
     last_pushed: '2020-01-11'
   - name: Unity SemVer
@@ -951,6 +967,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2019-04-14'
   - name: Unity Rulers
@@ -1112,5 +1130,7 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     stale: true
     last_pushed: '2016-04-19'

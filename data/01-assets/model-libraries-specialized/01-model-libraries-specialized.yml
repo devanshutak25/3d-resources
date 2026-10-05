@@ -26,7 +26,7 @@ entries:
   - name: Anatomy 360
     url: https://anatomy360.info/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Artist reference models.
+    description: Anatomy 3D reference models for artists, including motion packs that show realistic musculature.
     license: Paid
     entry_type: asset-source
     tags:
@@ -46,7 +46,7 @@ entries:
   - name: Anatomy For Sculptors
     url: https://www.artstation.com/anatomy4sculptors
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Anatomical references.
+    description: ArtStation page of Anatomy For Sculptors with anatomy reference models and books for sculptors.
     license: Paid
     entry_type: asset-source
     tags:
@@ -66,7 +66,7 @@ entries:
   - name: Insect 3D Models
     url: https://zerokobo.web.fc2.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Insect models.
+    description: Free insect 3D models by zerokobo, built to show the forms of real insect species.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -106,7 +106,7 @@ entries:
   - name: Models Resource
     url: https://www.models-resource.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Video game model rips.
+    description: Archive of 3D models ripped from video games, sorted by platform and game.
     license: Free
     entry_type: asset-source
     tags:
@@ -148,7 +148,7 @@ entries:
   - name: Smithsonian 3D
     url: https://3d.si.edu/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Historical artifacts.
+    description: 3D digitization site from the Smithsonian with scans of museum objects and historical artifacts.
     license: Free
     entry_type: asset-source
     tags:
@@ -192,7 +192,7 @@ entries:
   - name: British Museum (Sketchfab)
     url: https://sketchfab.com/britishmuseum
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Scanned artifacts.
+    description: British Museum Sketchfab account with 3D scans of objects from its collection.
     license: Free
     entry_type: asset-source
     tags:
@@ -213,7 +213,7 @@ entries:
   - name: Cleveland Museum of Art (Sketchfab)
     url: https://sketchfab.com/clevelandart
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Museum 3D scans.
+    description: Cleveland Museum of Art Sketchfab account with 3D scans of artworks from its collection.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -254,7 +254,7 @@ entries:
   - name: Wire Wheels Club
     url: https://wirewheelsclub.com/models/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Vehicle models.
+    description: Library of 3D vehicle models, free for personal and commercial use.
     license: Free
     entry_type: asset-source
     readme_tags:

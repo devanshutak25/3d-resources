@@ -82,3 +82,27 @@ entries:
         - advanced
       platform:
         - web
+  - name: Redshift Community
+    url: https://redshift.maxon.net/
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Forums, shaders, resources.
+    entry_type: community
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Arnold Resources
+    url: https://www.autodesk.com/products/arnold/resources
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Official shaders, docs, tutorials.
+    entry_type: reference
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web

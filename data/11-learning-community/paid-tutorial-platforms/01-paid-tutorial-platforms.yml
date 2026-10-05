@@ -20,7 +20,7 @@ entries:
   - name: Motion Design School (site)
     url: https://motiondesign.school/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion graphics courses.
+    description: Online school selling motion graphics courses in After Effects, Cinema 4D and related tools.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -56,7 +56,7 @@ entries:
   - name: CG Shortcuts (site)
     url: https://cgshortcuts.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: C4D workflow courses.
+    description: Site of CG Shortcuts selling Cinema 4D courses on workflow, modeling and animation.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -74,7 +74,7 @@ entries:
   - name: CGCookie
     url: https://cgcookie.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Blender courses. $29/mo.
+    description: Subscription site with Blender courses and learning paths for modeling, animation and game art.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -92,7 +92,7 @@ entries:
   - name: Pluralsight
     url: https://www.pluralsight.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: All software, $29/mo.
+    description: Subscription platform with video courses on software, creative tools and IT topics.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -110,7 +110,7 @@ entries:
   - name: LearnSquared
     url: https://www.learnsquared.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Professional CG courses.
+    description: Online platform with CG and concept art courses taught by working industry artists.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -128,7 +128,7 @@ entries:
   - name: Patata School
     url: https://www.patataschool.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: C4D and Octane courses.
+    description: Online school with Cinema 4D and Octane courses for 3D motion design.
     license: Paid
     entry_type: tutorial
     readme_tags:
@@ -620,7 +620,7 @@ entries:
   - name: Unity Gems Wordpress
     url: https://unitygem.wordpress.com/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Unity3D tutorials.
+    description: WordPress blog with Unity tutorials and articles on C# scripting.
     entry_type: tutorial
     url_last_verified: '2026-10-01'
     url_status: ok

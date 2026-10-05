@@ -73,7 +73,7 @@ entries:
   - name: Kdenlive
     url: https://kdenlive.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free open-source NLE.
+    description: Free open-source video editor (NLE) from KDE with multitrack timeline editing.
     license: Open Source
     entry_type: software
     best_for: Linux/cross-platform editing
@@ -152,6 +152,8 @@ entries:
     tags:
       workflow:
         - editing
+      platform:
+        - web
   - name: Premiere Pro Learn
     url: https://helpx.adobe.com/premiere-pro/tutorials.html
     added_at: '2026-04-16T19:59:30.000Z'
@@ -162,6 +164,8 @@ entries:
     tags:
       workflow:
         - editing
+      platform:
+        - web
   - name: OpenShot
     url: https://github.com/OpenShot/openshot-qt
     added_at: '2026-04-16T21:13:44.000Z'
@@ -197,6 +201,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Capture
       - Open Source
@@ -656,3 +664,7 @@ entries:
     added_at: '2026-10-05T08:51:07.133Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - FFmpeg
+    best_for: Lossless video trimming

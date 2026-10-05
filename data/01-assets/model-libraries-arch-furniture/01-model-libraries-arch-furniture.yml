@@ -2,7 +2,7 @@ entries:
   - name: 3D Warehouse
     url: https://3dwarehouse.sketchup.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: SketchUp library.
+    description: SketchUp's online library of user-made and manufacturer 3D models, free to download.
     entry_type: asset-source
     tags:
       output:
@@ -37,7 +37,7 @@ entries:
   - name: Design Connected
     url: https://www.designconnected.com/catalog/3D-Models/all/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Furniture.
+    description: Marketplace for high-end 3D models of designer furniture, lighting and decor for archviz.
     entry_type: marketplace
     tags:
       output:
@@ -55,7 +55,7 @@ entries:
   - name: Syncronia
     url: https://www.syncronia.com/en
     added_at: '2026-04-16T19:59:30.000Z'
-    description: CAD and BIM objects.
+    description: Portal for manufacturer CAD and BIM objects used in architecture and interior design.
     entry_type: asset-source
     tags:
       output:
@@ -72,7 +72,7 @@ entries:
   - name: Evermotion
     url: https://evermotion.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Scenes and models.
+    description: Archviz publisher selling Archmodels collections of 3D models and ready-made interior scenes.
     entry_type: marketplace
     tags:
       output:
@@ -90,7 +90,7 @@ entries:
   - name: BIMobject
     url: https://www.bimobject.com/en-us
     added_at: '2026-04-16T19:59:30.000Z'
-    description: BIM objects.
+    description: Library of manufacturer BIM and CAD objects for Revit, ArchiCAD and other architecture tools.
     entry_type: asset-source
     tags:
       output:
@@ -124,7 +124,7 @@ entries:
   - name: 3DSky
     url: https://3dsky.org
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Architecture models.
+    description: Large marketplace of 3D models for architecture and interior visualization, mostly 3ds Max.
     entry_type: marketplace
     tags:
       output:
@@ -142,7 +142,7 @@ entries:
   - name: Dimensiva
     url: https://dimensiva.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Furniture models.
+    description: Library of 3D models of real designer furniture and decor for archviz.
     entry_type: marketplace
     tags:
       output:
@@ -178,7 +178,7 @@ entries:
   - name: CG Mood
     url: https://cgmood.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: CG assets.
+    description: Marketplace for 3D models, materials and scenes aimed at architectural visualization.
     entry_type: marketplace
     readme_tags:
       - CG Assets

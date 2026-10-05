@@ -836,6 +836,10 @@ entries:
         - procedural
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Procedural Pipeline
       - Multi-Engine
@@ -853,6 +857,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
     readme_tags:
       - Middleware
       - Pro
@@ -871,6 +877,8 @@ entries:
       output:
         - games
       tech:
+        - cloud
+      platform:
         - cloud
     readme_tags:
       - Cloud Multiplayer
@@ -891,6 +899,11 @@ entries:
         - games
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
+        - cloud
     readme_tags:
       - Social Server
       - Matchmaking
@@ -908,6 +921,8 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - cloud
     readme_tags:
       - Free EOS
       - Matchmaking/Voice
@@ -926,6 +941,10 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - game-development/game-dev-networking
   - name: Perforce Helix Core
@@ -940,6 +959,10 @@ entries:
       output:
         - games
         - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Industry Standard
       - Free ≤5 users
@@ -958,6 +981,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+        - cloud
     readme_tags:
       - Artist-Friendly
       - Unity-Integrated
@@ -996,6 +1024,10 @@ entries:
       output:
         - film-vfx
         - broadcast
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Pipeline
       - Free Core
@@ -1015,6 +1047,10 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Render Farm
       - Open Source
@@ -1025,13 +1061,15 @@ entries:
   - name: ftrack
     url: https://www.ftrack.com/en/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Production tracking.
+    description: Production tracking and review software for managing tasks, schedules and media in VFX and animation studios.
     license: Paid
     entry_type: software
     best_for: Production tracking
     tags:
       output:
         - film-vfx
+      platform:
+        - web
     readme_tags:
       - Production Tracking
       - Pro

@@ -638,6 +638,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - audio-design
     readme_tags:
       - adaptive-music
       - audio

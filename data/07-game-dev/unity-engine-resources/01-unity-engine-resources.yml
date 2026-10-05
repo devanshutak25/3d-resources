@@ -367,6 +367,8 @@ entries:
         - web
       tech:
         - unity-plugin
+      workflow:
+        - rendering
   - name: Pixel Camera 2D
     url: https://github.com/RyanNielson/PixelCamera2D
     added_at: '2026-04-19T17:15:03.000Z'
@@ -423,6 +425,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - texturing
     stale: true
     last_pushed: '2016-01-01'
   - name: Unity ECS Instanced Sprite Renderer
@@ -443,6 +447,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     stale: true
     last_pushed: '2019-06-21'
   - name: HermodToolkit
@@ -503,6 +509,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: Vector Graphics Samples
     url: https://github.com/Unity-Technologies/vector-graphics-samples
     added_at: '2026-04-19T17:15:03.000Z'
@@ -541,6 +549,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - animation
     stale: true
     last_pushed: '2016-09-07'
   - name: Futile
@@ -566,7 +576,7 @@ entries:
   - name: UnitySVG
     url: https://github.com/MrJoy/UnitySVG
     added_at: '2026-04-19T17:15:03.000Z'
-    description: SVG renderer for Unity.
+    description: Unity plugin that renders SVG files as textures.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -622,6 +632,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - texturing
     stale: true
     last_pushed: '2017-06-15'
   - name: Unity3DPolylineEditor
@@ -729,7 +741,7 @@ entries:
   - name: TsiU AIToolkit CSharp
     url: https://github.com/FinneyTang/TsiU_AIToolkit_CSharp
     added_at: '2026-04-19T17:15:03.000Z'
-    description: AI toolkit for Unity.
+    description: C# AI toolkit for Unity with behavior trees and other game AI tools.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'

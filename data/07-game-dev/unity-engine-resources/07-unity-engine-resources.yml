@@ -17,6 +17,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - material-authoring
     readme_tags:
       - shader
       - glass
@@ -38,6 +40,9 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - material-authoring
+        - rendering
     readme_tags:
       - rendering
       - sand
@@ -59,6 +64,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - simulation
     readme_tags:
       - hair
       - nvidia
@@ -83,6 +90,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - material-authoring
     readme_tags:
       - hair
       - shader
@@ -106,6 +115,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - material-authoring
     readme_tags:
       - shader
       - automotive
@@ -129,6 +140,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - skinning
     readme_tags:
       - skinning
       - rigging
@@ -152,6 +165,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - pixel-art
       - rendering
@@ -175,6 +190,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - projection-mapping
     readme_tags:
       - projection
       - warp
@@ -198,6 +215,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - effects
       - postprocess
@@ -244,6 +263,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - ssao
       - postprocess
@@ -267,6 +288,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - effects
       - postprocess
@@ -290,6 +313,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - bloom
       - postprocess
@@ -313,6 +338,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - rendering
       - spheres
@@ -336,6 +363,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - fx
     readme_tags:
       - effects
       - dishonored
@@ -359,6 +388,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - fx
     readme_tags:
       - effects
       - postprocess
@@ -382,6 +413,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - ssr
       - reflections
@@ -405,6 +438,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - clouds
       - volumetric
@@ -428,6 +463,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - edge-detect
       - postprocess
@@ -451,6 +488,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - creative-coding
     readme_tags:
       - fractals
       - demo
@@ -474,6 +513,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     readme_tags:
       - sdf
       - generator
@@ -497,6 +538,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - fx
     readme_tags:
       - vfx-graph
       - skinning
@@ -520,6 +563,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - lighting
     readme_tags:
       - lighting
       - probes
@@ -544,6 +589,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - lighting
     readme_tags:
       - lighting
       - probes
@@ -567,6 +614,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - lines
       - volumetric
@@ -590,6 +639,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - lighting
     readme_tags:
       - lighting
       - probes
@@ -614,6 +665,8 @@ entries:
         - unity-plugin
         - opensource-alt
         - ray-tracing
+      workflow:
+        - rendering
     readme_tags:
       - raytracing
       - demo
@@ -637,6 +690,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     readme_tags:
       - raymarching
       - sdf
@@ -684,6 +739,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     readme_tags:
       - voxel
       - mesh
@@ -730,6 +787,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     readme_tags:
       - voxel
       - tools
@@ -753,6 +812,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     readme_tags:
       - voxel
       - framework

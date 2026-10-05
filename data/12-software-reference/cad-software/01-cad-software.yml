@@ -191,7 +191,7 @@ entries:
   - name: LibreCAD
     url: https://librecad.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free open-source 2D CAD.
+    description: Free open-source 2D CAD application for technical drawings, with DXF support.
     license: Open Source
     entry_type: software
     best_for: 2D drafting
@@ -299,28 +299,6 @@ entries:
       - Grasshopper
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: GrabCAD
-    url: https://grabcad.com
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Community CAD model library.
-    license: Free
-    entry_type: reference
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      output:
-        - product-viz
-  - name: Thingiverse
-    url: https://thingiverse.com
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D-printing model community.
-    license: Free
-    entry_type: reference
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      output:
-        - product-viz
   - name: Solvespace
     url: https://solvespace.com/index.pl
     added_at: '2026-04-16T21:37:07.000Z'
@@ -427,6 +405,10 @@ entries:
     added_at: '2026-10-05T08:51:07.135Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Subscription
+      - BIM
+    best_for: Architecture and stage design
   - name: Zoo Design Studio
     url: https://zoo.dev/
     description: Code-and-UI CAD app with the KCL modeling language on Zoo's own geometry engine.
@@ -446,6 +428,10 @@ entries:
     added_at: '2026-10-05T08:51:07.136Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - Code CAD
+    best_for: Code-based CAD design
   - name: build123d
     url: https://build123d.readthedocs.io/
     description: Python parametric CAD library on OpenCascade that exports STEP and STL.
@@ -463,6 +449,10 @@ entries:
     added_at: '2026-10-05T08:51:07.138Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Python
+    best_for: Code-based parametric CAD
   - name: CadQuery
     url: https://cadquery.github.io/
     description: Python library for parametric CAD models on the OpenCascade kernel.
@@ -480,6 +470,10 @@ entries:
     added_at: '2026-10-05T08:51:07.140Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Python
+    best_for: Scripted parametric CAD
   - name: Dune 3D
     url: https://dune3d.org/
     description: Open-source parametric CAD app with a SolveSpace-derived constraint solver and STEP support.
@@ -490,6 +484,13 @@ entries:
         - modeling
       output:
         - product-viz
+      platform:
+        - win
+        - linux
     added_at: '2026-10-05T08:51:07.141Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - CAD
+    best_for: Parametric mechanical parts

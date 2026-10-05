@@ -863,6 +863,11 @@ entries:
     added_at: '2026-10-05T08:51:07.093Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Industry Standard
+      - Vegetation
+    best_for: Game and film foliage
+    pricing_last_verified: '2026-10-05'
   - name: Shapelab
     url: https://shapelabvr.com/
     description: VR and desktop sculpting app for characters, props and concepts.
@@ -882,6 +887,11 @@ entries:
     added_at: '2026-10-05T08:51:07.097Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - VR
+    best_for: VR sculpting
+    pricing_last_verified: '2026-10-05'
   - name: Feather
     url: https://www.feather.art/
     description: iPad 3D drawing app that turns pen strokes into 3D curves on guide surfaces.
@@ -899,3 +909,8 @@ entries:
     added_at: '2026-10-05T08:51:07.099Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - iPad
+    best_for: 3D sketching on iPad
+    pricing_last_verified: '2026-10-05'

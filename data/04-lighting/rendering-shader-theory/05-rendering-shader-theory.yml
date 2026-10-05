@@ -32,7 +32,7 @@ entries:
   - name: ShaderShop videos
     url: http://tobyschachman.com/Shadershop/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Videos about ShaderShop.
+    description: Videos about Shadershop, Toby Schachman's visual tool for building shader functions.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
@@ -309,7 +309,7 @@ entries:
   - name: Fast Filter-Width Estimates with Texture Maps
     url: https://developer.nvidia.com/gpugems/gpugems/part-iv-image-processing/chapter-25-fast-filter-width-estimates-texture-maps
     added_at: '2026-04-16T21:13:44.000Z'
-    description: GPU Gems 1, Chapter 25.
+    description: GPU Gems chapter on estimating filter widths with texture maps for antialiased procedural shaders.
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'
@@ -387,7 +387,7 @@ entries:
   - name: 'NeRF-Tex: Neural Reflectance Field Textures'
     url: https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Baatz et al. EGSR 2021.
+    description: Baatz et al., EGSR 2021. Neural reflectance field textures for rendering fur, grass and fabric.
     license: Free
     entry_type: reference
     year: 2021

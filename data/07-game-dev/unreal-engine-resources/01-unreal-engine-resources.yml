@@ -109,6 +109,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - lighting
   - name: Working with Data (Unreal Engine Learning)
     url: https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more#howtomakeinstanceobjects
     added_at: '2026-04-19T17:15:03.000Z'
@@ -397,6 +399,8 @@ entries:
         - games
       platform:
         - web
+      workflow:
+        - modeling
   - name: 'Unreal Docs: Procedural Content Generation Framework'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation--framework-in-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -415,6 +419,8 @@ entries:
         - web
       tech:
         - procedural
+      workflow:
+        - modeling
   - name: 'Unreal Docs: Modeling And Geometry Scripting'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/modeling-and-geometry-scripting-in-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -431,6 +437,8 @@ entries:
         - games
       platform:
         - web
+      workflow:
+        - modeling
   - name: 'Unreal Docs: Scriptable Tools System'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/scriptable-tools-system-in-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -479,6 +487,9 @@ entries:
         - games
       platform:
         - web
+      workflow:
+        - modeling
+        - rigging
   - name: 'Unreal Docs: Motion Design'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/motion-design-in-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -496,6 +507,8 @@ entries:
         - motion-graphics
       platform:
         - web
+      workflow:
+        - animation
   - name: 'Unreal Docs: Umg Viewmodel'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-viewmodel-for-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -566,6 +579,9 @@ entries:
         - linux
       tech:
         - houdini-addon
+      workflow:
+        - fx
+        - simulation
   - name: PBCharacterMovement
     url: https://github.com/ProjectBorealis/PBCharacterMovement
     added_at: '2026-04-19T17:29:43.000Z'
@@ -849,6 +865,8 @@ entries:
         - unreal-plugin
         - houdini-addon
         - opensource-alt
+      workflow:
+        - modeling
   - name: Ultraleap SDK
     url: https://github.com/ultraleap/UnrealPlugin
     added_at: '2026-04-19T17:29:43.000Z'
@@ -915,6 +933,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: Voxel Plugin
     url: https://github.com/Phyronnaz/VoxelPlugin
     added_at: '2026-04-19T17:29:43.000Z'
@@ -936,3 +956,5 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling

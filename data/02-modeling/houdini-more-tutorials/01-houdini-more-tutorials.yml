@@ -139,7 +139,7 @@ entries:
   - name: Node Studies
     url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/edit
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Node study slide deck.
+    description: Google Slides deck that studies individual Houdini nodes and how they work.
     entry_type: reference
     license: Free
     readme_tags:
@@ -182,7 +182,7 @@ entries:
   - name: Cloner Object
     url: https://www.sidefx.com/tutorials/part-1-cloner-object/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: MoGraph Cloner tutorial.
+    description: SideFX tutorial on rebuilding the Cinema 4D MoGraph Cloner object in Houdini.
     entry_type: tutorial
     license: Free
     readme_tags:

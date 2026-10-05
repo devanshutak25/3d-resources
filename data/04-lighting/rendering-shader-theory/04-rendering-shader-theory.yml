@@ -494,7 +494,7 @@ entries:
   - name: Shaderific for OpenGL
     url: https://shaderific.com/index.html
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Documentation on GLSL.
+    description: Reference documentation for GLSL built-in functions and variables in OpenGL.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'

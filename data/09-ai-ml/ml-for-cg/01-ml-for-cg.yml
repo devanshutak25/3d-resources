@@ -60,6 +60,9 @@ entries:
         - ai-generative
       platform:
         - web
+      workflow:
+        - modeling
+        - texturing
     readme_tags:
       - Text-to-3D
       - Research

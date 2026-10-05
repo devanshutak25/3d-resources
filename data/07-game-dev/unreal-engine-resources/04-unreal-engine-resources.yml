@@ -17,6 +17,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2021-01-08'
   - name: UE4 Node Graph Assistant
@@ -366,6 +368,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
   - name: UE BUI Tween
     url: https://github.com/benui-dev/UE-BUITween
     added_at: '2026-04-19T17:29:43.000Z'
@@ -435,6 +439,9 @@ entries:
         - web
       skill:
         - intermediate
+      workflow:
+        - rigging
+        - animation
   - name: Unreal Engine Official YouTube
     url: https://www.youtube.com/@UnrealEngine
     added_at: '2026-04-19T17:15:03.000Z'
@@ -574,6 +581,8 @@ entries:
       tech:
         - opensource-alt
         - unreal-plugin
+      workflow:
+        - animation
   - name: UE4 Plugin Resources
     url: https://github.com/Sythenz/UE4-Plugin-Resources
     added_at: '2026-04-19T17:29:43.000Z'

@@ -2,7 +2,7 @@ entries:
   - name: Neural Radiance Flow for 4D View Synthesis and Video Processing
     url: https://yilundu.github.io/nerflow/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Du et al., Arxiv 2020
+    description: Du et al., ICCV 2021. Learns a 4D radiance and flow field for view synthesis and video processing such as denoising and super-resolution.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -15,11 +15,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2020
   - name: 'NeRF-SOS: Any-view Self-supervised Object Segmentation on Complex Real-world Scenes'
     url: https://zhiwenfan.github.io/NeRF-SOS/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Fan et al., ICLR 2023
+    description: Fan et al., ICLR 2023. Self-supervised object segmentation that works from any view of complex real-world scenes using NeRF.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -36,7 +38,7 @@ entries:
   - name: Learning Compositional Radiance Fields of Dynamic Human Heads
     url: https://ziyanw1.github.io/hybrid_nerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Wang et al., Arxiv 2020
+    description: Wang et al., CVPR 2021. Hybrid voxel and MLP radiance field for rendering dynamic human heads with fine detail.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -49,11 +51,14 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - face-capture
+        - rendering
     year: 2020
   - name: 'ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video'
     url: https://zju3dv.github.io/enerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF)
+    description: Lin et al., SIGGRAPH Asia 2022. Generalizable NeRF using cascaded cost volumes for interactive free-viewpoint video of dynamic scenes.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -66,11 +71,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies
     url: https://zju3dv.github.io/animatable_nerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf)
+    description: Peng et al., ICCV 2021. Builds animatable NeRF human models from multi-view video using skeleton-driven deformation fields.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -83,11 +90,14 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
+        - animation
     year: 2021
   - name: 'Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion'
     url: https://3d-avatar-diffusion.microsoft.com/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Wang et al., CVPR 2023 | [github](https://3d-avatar-diffusion.microsoft.com/)
+    description: Wang et al., CVPR 2023. Diffusion model that generates 3D digital avatars as neural radiance fields, including from text or a photo.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -101,11 +111,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: PlenOctrees for Real-time Rendering of Neural Radiance Fields
     url: https://alexyu.net/plenoctrees/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Yu et al., Arxiv 2021 | [github](https://github.com/sxyu/volrend)
+    description: Yu et al., ICCV 2021. Bakes NeRFs into octrees of spherical harmonics for real-time rendering.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -119,11 +131,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects'
     url: https://bundlesdf.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF)
+    description: Wen et al., CVPR 2023. Jointly tracks the 6-DoF pose of an unknown object and reconstructs its 3D shape from RGB-D video.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -137,6 +151,8 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2023
   - name: Learning Neural Transmittance for Efficient Rendering of Reflectance Fields
     url: https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html
@@ -155,11 +171,14 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
+        - lighting
     year: 2021
   - name: 'DyLiN: Making Light Field Networks Dynamic'
     url: https://dylin2023.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN)
+    description: Yu et al., CVPR 2023. Extends light field networks to dynamic scenes for fast rendering of deforming content.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -173,11 +192,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023
   - name: 'DynIBaR: Neural Dynamic Image-Based Rendering'
     url: https://dynibar.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Li et al., CVPR 2023
+    description: Li et al., CVPR 2023. Image-based rendering method for novel view synthesis from long monocular videos of dynamic scenes.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -191,11 +212,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023
   - name: UV Volumes for Real-time Rendering of Editable Free-view Human Performance
     url: https://fanegg.github.io/UV-Volumes/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes)
+    description: Chen et al., CVPR 2023. Encodes human performances in UV volumes so free-view video renders in real time and can be retextured.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -209,11 +232,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023
   - name: 'IBRNet: Learning Multi-View Image-Based Rendering'
     url: https://ibrnet.github.io/static/paper.pdf
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Wang et al., CVPR 2021 | [github](https://github.com/googleinterns/IBRNet)
+    description: Wang et al., CVPR 2021. Learns to blend nearby source views for image-based rendering that generalizes to unseen scenes.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -227,11 +252,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels'
     url: https://jaminfong.cn/tineuvox/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox)
+    description: Fang et al., SIGGRAPH Asia 2022. Time-aware voxel features that train dynamic radiance fields in minutes.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -245,11 +272,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: Neural Rays for Occlusion-aware Image-based Rendering
     url: https://liuyuan-pal.github.io/NeuRay/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Liu et al., Arxiv 2021
+    description: Liu et al., CVPR 2022. Image-based rendering that predicts visibility per ray to handle occlusions when synthesizing novel views.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -263,11 +292,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: Neural 3D Video Synthesis from Multi-view Video
     url: https://neural-3d-video.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Li et al., CVPR 2022
+    description: Li et al., CVPR 2022. Dynamic NeRF conditioned on latent codes that renders novel views of multi-view video.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -281,11 +312,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: 'Ponder: Point Cloud Pre-training via Neural Rendering'
     url: https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Ponder_Point_Cloud_Pre-training_via_Neural_Rendering_ICCV_2023_paper.html
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Huang et al., ICCV 2023
+    description: Huang et al., ICCV 2023. Pre-trains point cloud encoders by rendering color and depth images through differentiable neural rendering.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -321,7 +354,7 @@ entries:
   - name: Generative Occupancy Fields for 3D Surface-Aware Image Synthesis
     url: https://sheldontsui.github.io/projects/GOF
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Xu et al., NeurIPS 2021 | [github](https://github.com/SheldonTsui/GOF_NeurIPS2021)
+    description: Xu et al., NeurIPS 2021. Combines occupancy and radiance fields in a 3D-aware GAN for more accurate surfaces.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -335,11 +368,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'PVA: Pixel-aligned Volumetric Avatars'
     url: https://volumetric-avatars.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Raj et al., CVPR 2021
+    description: Raj et al., CVPR 2021. Builds volumetric head avatars from a few input views using pixel-aligned features.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -353,11 +388,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - face-capture
     year: 2021
   - name: A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis
     url: https://xingangpan.github.io/projects/ShadeGAN.html
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Pan et al., NeurIPS 2021 | [github](https://github.com/XingangPan/ShadeGAN)
+    description: 'Pan et al., NeurIPS 2021. ShadeGAN: 3D-aware GAN with explicit lighting and shading for more accurate generated shapes.'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -371,11 +408,13 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans'
     url: https://zju3dv.github.io/neuralbody/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Peng et al., CVPR 2021 | [github](https://github.com/zju3dv/neuralbody)
+    description: Peng et al., CVPR 2021. Anchors latent codes to a deformable body mesh to render dynamic humans from sparse multi-view video.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -389,6 +428,8 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: Rendering Synthetic Objects into Real Scenes (Debevec, 1998)
     url: https://www.pauldebevec.com/Research/IBL/
@@ -405,6 +446,9 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - lighting
+        - rendering
     year: 1998
   - name: Recovering HDR Radiance Maps (Debevec & Malik, 1997)
     url: https://www.pauldebevec.com/Research/HDR/
@@ -421,4 +465,6 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - lighting
     year: 1997

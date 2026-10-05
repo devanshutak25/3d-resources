@@ -232,6 +232,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: Mandelbulb3D (original)
     url: http://www.andreas-maschke.com/?page_id=4607
     added_at: '2026-04-19T17:15:03.000Z'
@@ -281,6 +285,10 @@ entries:
     tags:
       workflow:
         - modeling
+      platform:
+        - win
+        - mac
+        - linux
   - name: TerreSculptor
     url: https://www.demenzunmedia.com/home/terresculptor/
     added_at: '2026-04-19T17:15:03.000Z'
@@ -294,6 +302,8 @@ entries:
         - modeling
       tech:
         - procedural
+      platform:
+        - win
   - name: TreeIt
     url: https://www.evolved-software.com/treeit/treeit
     added_at: '2026-04-19T17:15:03.000Z'
@@ -307,11 +317,13 @@ entries:
         - modeling
       tech:
         - procedural
+      platform:
+        - win
   - name: Make Human
     url: http://www.makehumancommunity.org/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source tool for making 3D characters. (blender addon) [![][repo]](https://github.com/makehumancommunity/makehuman)
-    entry_type: community
+    entry_type: software
     license: Open Source
     readme_tags:
       - Character Creation
@@ -320,7 +332,9 @@ entries:
     url_status: ok
     tags:
       platform:
-        - web
+        - win
+        - mac
+        - linux
       tech:
         - opensource-alt
         - blender-addon
@@ -328,7 +342,7 @@ entries:
     url: https://render.otoy.com/forum/viewtopic.php?f=7&t=73665
     added_at: '2026-04-19T17:15:03.000Z'
     description: GPU-based tool for sculpting animation caches and for converting mesh sequences to volumes. The software is currently available free during early development.
-    entry_type: community
+    entry_type: software
     license: Free
     readme_tags:
       - Sculpting
@@ -337,7 +351,7 @@ entries:
     url_status: ok
     tags:
       platform:
-        - web
+        - win
       tech:
         - gpu
   - name: Cables.gl
@@ -399,6 +413,14 @@ entries:
         - rendering
       output:
         - generalist
+      platform:
+        - win
+        - mac
+        - linux
     added_at: '2026-10-05T08:51:07.102Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Blender Fork
+    best_for: Blender with friendlier UI

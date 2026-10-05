@@ -24,6 +24,8 @@ entries:
       workflow:
         - rendering
         - material-authoring
+      platform:
+        - web
     dual_listed_in:
       - lighting-rendering-shaders/rendering-shader-theory
   - name: Storm HydroFX
@@ -37,6 +39,8 @@ entries:
       workflow:
         - simulation
         - fx
+      platform:
+        - win
     readme_tags:
       - Fluids
       - FX
@@ -54,6 +58,11 @@ entries:
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
     readme_tags:
       - Low-poly
       - Voxel
@@ -72,6 +81,10 @@ entries:
       tech:
         - photogrammetry
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Mesh Processing
       - Photogrammetry
@@ -107,6 +120,8 @@ entries:
     tags:
       tech:
         - procedural
+      platform:
+        - win
     readme_tags:
       - Terrain Gen
       - Free Community
@@ -126,6 +141,10 @@ entries:
         - modeling
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Base Meshes
       - Open Source
@@ -148,6 +167,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: OBS Studio
@@ -165,6 +188,10 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: ShareX
@@ -198,6 +225,9 @@ entries:
         - procedural
         - node-based
         - opensource-alt
+      platform:
+        - win
+        - linux
     readme_tags:
       - Terrain Gen
       - Node-based
@@ -217,6 +247,8 @@ entries:
         - rendering
       tech:
         - gpu
+      platform:
+        - win
     readme_tags:
       - Fractals
       - HDR/EXR
@@ -235,6 +267,10 @@ entries:
         - gpu
         - real-time
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Strange Attractors
       - GPU
@@ -253,6 +289,10 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - RenderMan-like
       - Renderer
@@ -273,6 +313,10 @@ entries:
         - editing
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Timeline
       - Editorial
@@ -407,6 +451,11 @@ entries:
     added_at: '2026-10-05T08:51:07.115Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Freemium
+      - Landscapes
+    best_for: Photoreal landscape renders
+    pricing_last_verified: '2026-10-05'
   - name: World Creator
     url: https://www.world-creator.com/
     description: GPU terrain generator with erosion, water and snow simulation, scattering and a path tracer.
@@ -427,6 +476,10 @@ entries:
     added_at: '2026-10-05T08:51:07.116Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - GPU
+    best_for: Terrain generation
   - name: Instant Terra
     url: https://www.wysilab.com/
     description: Node-based terrain generator with real-time preview, erosion and Unreal and Houdini plugins.
@@ -447,6 +500,10 @@ entries:
     added_at: '2026-10-05T08:51:07.118Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Nodes
+    best_for: Node-based terrain
   - name: Infinigen
     url: https://infinigen.org/
     description: Princeton procedural generator of photoreal natural and indoor scenes in Blender, for vision training data.
@@ -463,6 +520,10 @@ entries:
     added_at: '2026-10-05T08:51:07.120Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - Blender
+    best_for: Synthetic training scenes
   - name: vvvv
     url: https://vvvv.org/
     description: Visual live-programming environment on .NET for real-time graphics and installations.
@@ -481,6 +542,10 @@ entries:
     added_at: '2026-10-05T08:51:07.157Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - .NET
+    best_for: Real-time installations
   - name: openFrameworks
     url: https://openframeworks.cc/
     description: Open-source C++ creative coding toolkit for graphics, video, audio and hardware I/O.
@@ -499,6 +564,10 @@ entries:
     added_at: '2026-10-05T08:51:07.159Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - C++
+    best_for: Creative coding installations
   - name: p5.js
     url: https://p5js.org/
     description: JavaScript creative coding library for drawing and interaction in the browser.
@@ -515,6 +584,10 @@ entries:
     added_at: '2026-10-05T08:51:07.161Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Open Source
+      - JavaScript
+    best_for: Browser creative coding
   - name: Isadora
     url: https://troikatronix.com/
     description: Node-based real-time media and show control software for live performance.
@@ -535,6 +608,11 @@ entries:
     added_at: '2026-10-05T08:51:07.162Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - Show Control
+    best_for: Live performance media
+    pricing_last_verified: '2026-10-05'
   - name: Synesthesia
     url: https://synesthesia.live/
     description: Audio-reactive VJ software built on GLSL scenes.
@@ -554,3 +632,8 @@ entries:
     added_at: '2026-10-05T08:51:07.164Z'
     url_last_verified: '2026-10-05'
     url_status: ok
+    readme_tags:
+      - Paid
+      - VJ
+    best_for: Audio-reactive visuals
+    pricing_last_verified: '2026-10-05'
