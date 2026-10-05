@@ -901,3 +901,13 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > Guerilla: Fix existing entry. First phase: Software + tools. Approval: "Don't wait for me, usr your judgement ask as as many as you can find"
 
 **Answered:** Fixed Guerilla Render entry; ran 4 parallel research agents; added 151 verified, deduped software/tool entries across §02/§06/§07/§10/§12; validate ✓ 439 warnings. Not committed.
+
+**Prompt:** (2026-10-05)
+> Audit this project repo please
+
+**Answered:** Read-only audit via 3 parallel agents (data / build code / CI+docs). Top: stored XSS via url/description (javascript: passes schema), 243 broken see-also anchors on section pages, README stale vs data, freshness workflow blocked by Actions PR setting, 151 new entries lack url_status/readme_tags, 8 same-sub dupes, npm audit 2 high. No fixes applied.
+
+**Prompt:** (2026-10-05)
+> Make a plan to fix all the issues please
+
+**Answered:** 7-phase plan (security, anchors, deps/CI, data correctness, data quality, perf, hygiene/docs) at ~/.claude/plans/snuggly-munching-truffle.md. User choices: add top ~10 tech tags to vocab, drop 6 empty subsections, relocate obvious §12 misfits, commit + push per phase. Approved; executing.

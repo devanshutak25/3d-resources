@@ -4,6 +4,7 @@
 
 const SITE_URL = 'https://3d.devanshutak.xyz';
 const REPO_URL = 'https://github.com/devanshutak25/3d-resources';
+const { safeJsonLd } = require('./html-safe');
 
 function escHtml(s) {
   return String(s == null ? '' : s)
@@ -40,15 +41,15 @@ function pageShell({ canonicalUrl, ogImage, pageTitle, desc, noindex, jsonLd,
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#000000">
-  <title>${pageTitle}</title>
-  <meta name="description" content="${desc}">
+  <title>${escHtml(pageTitle)}</title>
+  <meta name="description" content="${escHtml(desc)}">
   <meta name="robots" content="${robots}">
   <meta name="author" content="Devanshu Tak">
   <link rel="canonical" href="${canonicalUrl}">
   <link rel="alternate" type="application/atom+xml" title="3D Resources: latest additions" href="/feed.xml">
 
-  <meta property="og:title" content="${pageTitle}">
-  <meta property="og:description" content="${desc}">
+  <meta property="og:title" content="${escHtml(pageTitle)}">
+  <meta property="og:description" content="${escHtml(desc)}">
   <meta property="og:url" content="${canonicalUrl}">
   <meta property="og:type" content="website">
   <meta property="og:image" content="${ogImage}">
@@ -56,12 +57,12 @@ function pageShell({ canonicalUrl, ogImage, pageTitle, desc, noindex, jsonLd,
   <meta property="og:image:height" content="630">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="${pageTitle}">
-  <meta name="twitter:description" content="${desc}">
+  <meta name="twitter:title" content="${escHtml(pageTitle)}">
+  <meta name="twitter:description" content="${escHtml(desc)}">
   <meta name="twitter:image" content="${ogImage}">
 
   <script type="application/ld+json">
-${JSON.stringify(jsonLd, null, 2)}
+${safeJsonLd(jsonLd)}
   </script>
 
   <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">

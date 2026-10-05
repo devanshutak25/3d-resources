@@ -524,3 +524,10 @@ Added `https://www.ameede.net/` to `data/01-assets/model-libraries-specialized/0
 - Unreachable triage method: recheck with browser UA + 2 attempts + DoH DNS (Cloudflare/Google). NXDOMAIN or no A record = dead -> `url_status: broken` + `deprecated: true`. Connection refused/timeout/5xx with live DNS = leave `unreachable`, recheck next run. Cloudflare challenge 403 = alive, add `notes:`.
 - Watch for hijacked domains: a 200 can be a squatter (Dume's rainboxlab.org -> gambling site). Compare page title to the entry, not just status code.
 - Redirect triage rules (batch 2): update URL to the live target unless (a) original is a site root on the same host, (b) the redirect only inserts a locale segment (geo artifact: /en, /ja, en-in), (c) target is a sign-in wall, (d) original is a DOI. Redirects landing on a homepage/404/unrelated page/"discontinued" notice -> deprecate + `notes:`. Hijacked domains -> deprecate + note warning not to restore.
+
+## 2026-10-05: Audit fix plan (7 phases)
+- Tech vocab: add paper/houdini/godot/unity/maya/render-farm/unreal/vex/redshift/cinema-4d to curated tech; normalise c4d->cinema-4d, VDB->vdb, drop cc-by. User approved.
+- Drop 6 empty subsections (houdini-grooming, animation-courses, motion-graphics-courses, video-editing-courses, concept-art-courses, texture-material-generation); keep thin ones (noindex covers them).
+- §12 misfiles: relocate obvious learning/channel/community/reference items only.
+- Commit + push per phase, no stops between phases.
+- XSS defence: schema url ^https?:// + escape at render (not reject <>, 2 live descs use them) + JSON-LD `<` -> <.

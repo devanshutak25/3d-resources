@@ -34,6 +34,7 @@ jobs:
           node scripts/lib/quality-score.test.js
           node scripts/lib/entry-schema.test.js
           node scripts/lib/review-regressions.test.js
+          node scripts/lib/escaping.test.js
       - name: Validate schema + vocab + duplicates
         run: node scripts/validate.js
       - name: Dry-render README to ensure generator works

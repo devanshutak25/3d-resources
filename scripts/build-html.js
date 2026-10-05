@@ -4,11 +4,13 @@
 // scripts/build-sitemap.js so it can include subsection + tag pages.)
 
 const { marked } = require('marked');
+require('./lib/html-safe').useSafeLinks(marked);
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const catalog = require('./lib/catalog');
 const { labelTableCells } = require('./lib/table-labels');
+const { safeJsonLd } = require('./lib/html-safe');
 
 const SITE_URL = 'https://3d.devanshutak.xyz';
 const REPO_URL = 'https://github.com/devanshutak25/3d-resources';
@@ -312,7 +314,7 @@ const page = `<!DOCTYPE html>
 
   <!-- Schema.org / structured data -->
   <script type="application/ld+json">
-${JSON.stringify(jsonLd, null, 2)}
+${safeJsonLd(jsonLd)}
   </script>
 
   <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">

@@ -289,7 +289,7 @@
   function tooltipHtml(n) {
     const swatch = `<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${colorOf(n)};margin-right:6px;vertical-align:middle"></span>`;
     let html = `<div style="font-weight:600">${swatch}${escapeHtml(n.label)}</div>`;
-    html += `<div style="opacity:0.55;font-size:11px;font-style:italic;margin-top:2px">${KIND_LABELS_S[n.kind]}${n.namespace ? ' · ' + n.namespace : ''}${n.kind === 'subsection' ? ' · ' + (n.entryCount || 0) + ' entries' : ''}</div>`;
+    html += `<div style="opacity:0.55;font-size:11px;font-style:italic;margin-top:2px">${KIND_LABELS_S[n.kind]}${n.namespace ? ' · ' + escapeHtml(n.namespace) : ''}${n.kind === 'subsection' ? ' · ' + (n.entryCount || 0) + ' entries' : ''}</div>`;
     if (n.kind === 'subsection') {
       const entries = (state.subEntries.get(n.id) || []).slice(0, 4);
       const names = entries.map(eid => state.nodesById.get(eid)?.label).filter(Boolean);
@@ -306,11 +306,11 @@
   function showInfo(node) {
     const info = document.getElementById('info');
     if (!node) { info.classList.remove('visible'); info.innerHTML = ''; return; }
-    let html = `<div class="kind"><span class="swatch" style="background:${colorOf(node)}"></span>${KIND_LABELS_S[node.kind]}${node.namespace ? ' · ' + node.namespace : ''}</div>`;
+    let html = `<div class="kind"><span class="swatch" style="background:${colorOf(node)}"></span>${KIND_LABELS_S[node.kind]}${node.namespace ? ' · ' + escapeHtml(node.namespace) : ''}</div>`;
     html += `<h2>${escapeHtml(node.label)}</h2>`;
     const meta = [];
-    if (node.entry_type) meta.push(`type ${node.entry_type}`);
-    if (node.license) meta.push(`license ${node.license}`);
+    if (node.entry_type) meta.push(`type ${escapeHtml(node.entry_type)}`);
+    if (node.license) meta.push(`license ${escapeHtml(node.license)}`);
     if (node.kind === 'subsection') meta.push(`${node.entryCount} entr${node.entryCount === 1 ? 'y' : 'ies'}`);
     const adj = state.nodeAdj.get(node.id);
     if (adj) meta.push(`${adj.size} connection${adj.size === 1 ? '' : 's'}`);
@@ -327,11 +327,11 @@
 
     if (node.url) {
       // Selecting a node never opens anything; this link is the only way out.
-      html += `<div><a class="open-resource" href="${escapeHtml(node.url)}" target="_blank" rel="noopener noreferrer">Open resource ↗</a></div>`;
+      html += `<div><a class="open-resource" href="${isSafeUrl(node.url) ? escapeHtml(node.url) : '#'}" target="_blank" rel="noopener noreferrer">Open resource ↗</a></div>`;
       html += `<div style="margin-top:6px;opacity:0.7">${escapeHtml(node.url)}</div>`;
     }
     if (node.kind === 'subsection' || node.kind === 'section') {
-      html += `<div style="margin-top:8px"><a href="/#${node.anchor}">Open in main page →</a></div>`;
+      html += `<div style="margin-top:8px"><a href="/#${escapeHtml(encodeURIComponent(node.anchor))}">Open in main page →</a></div>`;
     }
     const verb = actionVerb(node);
     if (verb) html += `<div class="action-hint">${verb}</div>`;
@@ -356,6 +356,11 @@
     return String(s).replace(/[&<>"']/g, c => ({
       '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
     }[c]));
+  }
+
+  // Entry URLs come from catalog data; only http(s) may become a link.
+  function isSafeUrl(u) {
+    return /^https?:\/\//i.test(String(u || '').trim());
   }
 
   function updateBreadcrumb() {
@@ -586,7 +591,7 @@
       const li = document.createElement('li');
       if (e.url) {
         const a = document.createElement('a');
-        a.href = e.url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+        a.href = isSafeUrl(e.url) ? e.url : '#'; a.target = '_blank'; a.rel = 'noopener noreferrer';
         a.textContent = e.label;
         li.appendChild(a);
       } else {
@@ -642,7 +647,7 @@
       let html = matches.map((m, i) => {
         const node = state.nodesById.get(m.id);
         const swatch = node ? colorOf(node) : '#888';
-        return `<div class="g-search-result" role="option" data-id="${m.id}" id="sr-${i}" aria-selected="false">
+        return `<div class="g-search-result" role="option" data-id="${escapeHtml(m.id)}" id="sr-${i}" aria-selected="false">
           <span class="swatch" style="background:${swatch}"></span>
           <span class="label-text">${escapeHtml(m.label)}</span>
           <span class="kind">${KIND_LABELS_S[m.kind]}</span>

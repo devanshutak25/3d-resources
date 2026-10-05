@@ -5,6 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 const catalog = require('./lib/catalog');
+const { escText } = require('./lib/html-safe');
 
 // Build a map: "<sectionSlug>/<subSlug>" → { sectionTitle, subTitle, anchor }
 // for B4 ToC scent + B5 "See also" cross-links. Anchor = subsection slugified
@@ -200,8 +201,19 @@ function wrapEmoji(text) {
   return text.replace(EMOJI_RE, '<span aria-hidden="true">$1</span>');
 }
 
+// Data strings are untrusted (contributor PRs): escape before any markup is added.
+function cellText(s) {
+  return escText(s).replace(/\|/g, '\\|');
+}
+
+// Markdown link destination: encode the characters that would end or break it.
+function mdUrl(url) {
+  return String(url || '').trim().replace(/ /g, '%20').replace(/\(/g, '%28').replace(/\)/g, '%29');
+}
+
 function processDescription(desc) {
   if (!desc) return desc;
+  desc = escText(desc);
   // [![][repo]](URL) — closed paren
   desc = desc.replace(/\[!\[\]\[repo\]\]\(([^)\s]+)\)/g, (_, url) => repoPill(url.trim()));
   // [![][repo]](URL — unclosed paren (malformed YAML in some entries)
@@ -324,7 +336,7 @@ function renderSoftwareTable(entries, currentLoc) {
   lines.push(header);
   lines.push(sep);
   for (const e of entries) {
-    const name = `[${wrapEmoji(e.name)}](${e.url})`;
+    const name = `[${wrapEmoji(cellText(e.name))}](${mdUrl(e.url)})`;
     let descCore = processDescription(e.description || '');
     if (currentLoc) {
       const seeAlso = seeAlsoLinks(e, currentLoc);
@@ -332,14 +344,14 @@ function renderSoftwareTable(entries, currentLoc) {
     }
     const desc = descCore.replace(/\|/g, '\\|');
     const license = licenseCell(e.license);
-    const tags = (e.readme_tags || []).join(' · ');
-    const bestFor = e.best_for || '';
+    const tags = (e.readme_tags || []).map(cellText).join(' · ');
+    const bestFor = cellText(e.best_for || '');
     if (hasPricing) {
       // Pricing carries its own verification date when the catalog has one, so
       // "last updated" in the footer is never mistaken for a price check.
-      let pricing = e.pricing ? String(e.pricing).replace(/\|/g, '\\|') : '';
+      let pricing = e.pricing ? cellText(e.pricing) : '';
       if (pricing && e.pricing_last_verified) {
-        pricing = `<span title="Pricing checked ${String(e.pricing_last_verified).slice(0, 10)}">${pricing}</span>`;
+        pricing = `<span title="Pricing checked ${escText(String(e.pricing_last_verified).slice(0, 10))}">${pricing}</span>`;
       }
       lines.push(`| ${name} | ${desc} | ${pricing} | ${license} | ${tags} | ${bestFor} |`);
     } else {
@@ -409,7 +421,7 @@ function renderSubsection(section, sub, sectionFile) {
       const pill = licensePill(e.license, e.entry_type);
       const seeAlso = seeAlsoLinks(e, currentLoc);
       const seeAlsoSuffix = seeAlso ? `<br>${seeAlso}` : '';
-      lines.push(`- [${wrapEmoji(e.name)}](${e.url})${pill}${desc}${seeAlsoSuffix}`);
+      lines.push(`- [${wrapEmoji(escText(e.name))}](${mdUrl(e.url)})${pill}${desc}${seeAlsoSuffix}`);
     }
     lines.push('');
   }
@@ -594,11 +606,11 @@ function renderLite() {
     }
     if (picks.length) {
       for (const e of picks) {
-        const name = wrapEmoji(e.name);
+        const name = wrapEmoji(escText(e.name));
         const pill = licensePill(e.license, e.entry_type);
         const desc = stripHtmlForLite(processDescription(e.description || ''));
         const descTail = desc ? `. ${desc}` : '';
-        out += `- [${name}](${e.url})${pill}${descTail}\n`;
+        out += `- [${name}](${mdUrl(e.url)})${pill}${descTail}\n`;
       }
       out += '\n';
     }
