@@ -512,3 +512,9 @@ Added `https://www.ameede.net/` to `data/01-assets/model-libraries-specialized/0
 - Provenance flagged to user: stock looks like repackaged ArtCAM/Aspire relief libraries and MakerWorld/Thingiverse prints while the site claims all of it as its own IP. User chose to add anyway.
 - Bot-blocks non-browser UAs (WebFetch 403, browser-UA curl 200). Recorded in `notes:` so `check-links.js` false positives do not trigger re-deprecation. Another instance of the recurring bot-block class.
 - No `print` output value exists in the closed vocab (CLAUDE.md forbids inventing it), so the CNC/print angle lives in the description + readme_tags only.
+
+## 2026-10-05 — PR/issue triage + first archive.org URL
+
+- PR review rule: only merge entries whose site works and whose claims match the site (user: "we only merge the ones that work"). Checked each tool's page/JS, not just HTTP 200. User clicks merge; Claude posts review comments.
+- #18 Meshory: changes requested (free trial claim false; price change 2026-10-28). #20 3DTexel: rebase requested. #19, #24 ready.
+- #22: dead links -> `deprecated: true` (3). False positives -> `url_status: ok` + `notes:`. Importance Sampling for Production Rendering repointed to `web.archive.org/web/20200501114833/...` (PDF verified). New convention: archive.org URLs allowed when original host is dead sitewide and a snapshot of the exact resource is verified. Steam entry rewritten from its real title.

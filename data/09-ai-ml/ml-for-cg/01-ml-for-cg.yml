@@ -6,7 +6,7 @@ entries:
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: broken
+    url_status: ok
     notes: IEEE Xplore returns 418 to non-browser clients (bot protection). Do not auto-deprecate.
     tags:
       tech:

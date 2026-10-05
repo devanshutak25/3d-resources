@@ -46,6 +46,7 @@ entries:
       - VEX Course
     url_last_verified: '2026-10-01'
     url_status: broken
+    deprecated: true
   - name: Extracting Transform Matrices
     url: https://vimeo.com/284712920
     added_at: '2026-04-16T19:59:30.000Z'
@@ -112,6 +113,7 @@ entries:
         - web
       tech:
         - houdini
+    deprecated: true
   - name: Building Growth Animation
     url: https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth
     added_at: '2026-04-16T19:59:30.000Z'
@@ -341,3 +343,4 @@ entries:
         - houdini
     url_last_verified: '2026-10-01'
     url_status: broken
+    deprecated: true

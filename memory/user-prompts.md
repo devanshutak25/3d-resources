@@ -856,3 +856,23 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > Start with Phase 1 and then go through all. Don't wait for approval, please make it better
 
 **Answered:** Implemented all audit phases (filter.js rewrite, render/build/page-shell/tag-page changes, graph fixes, data wording), skipping UX-25 (rule conflict) and deferring UX-03/UX-04 host facet/UX-39 budget. Validate 424/0, 58 unit tests green, full build exit 0, headless-Chrome DOM checks pass, README regenerated. Uncommitted.
+
+**Prompt:** (2026-10-05)
+> go through issues and PRs https://github.com/devanshutak25/3d-resources and evaluate. Merge the PRs that fit. Issues as well
+
+**Answered:** Evaluated 4 PRs (all validate) + 2 bot issues; proposed merge set, asked before merging.
+
+**Prompt:** (2026-10-05)
+> 1.Check the contents, we only merge the ones that work 2. I canclick  merge myself 3. Yes, order doesn't matter. Try using gh in a new shell
+
+**Answered:** Found gh at full path. Verified site contents: #19/#20/#24 work, #18 pricing wrong. Proposed per-entry #22 fixes.
+
+**Prompt:** (2026-10-05)
+> 1. ok 2. put the comment 3. yes
+
+**Answered:** Posted #18 change request + #20 rebase comment; applied 7 #22 data fixes (user picked Wayback repoint + Steam rewrite). Validate ✓.
+
+**Prompt:** (2026-10-05)
+> yes yes yes yes
+
+**Answered:** Updated project.md + memory, committed + pushed #22 fixes, closed #22, started #23.

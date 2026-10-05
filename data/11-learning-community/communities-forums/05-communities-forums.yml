@@ -438,7 +438,8 @@ entries:
       - Artists
       - Bluesky
     url_last_verified: '2026-10-01'
-    url_status: broken
+    url_status: ok
+    notes: bsky.app is a JS app; link checker sees false 404. Profile verified via Bluesky API. Do not auto-deprecate.
     tags:
       output:
         - illustration

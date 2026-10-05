@@ -530,17 +530,17 @@ entries:
         - games
       platform:
         - web
-  - name: Steam Community VR Workshop Item
-    url: http://steamcommunity.com/sharedfiles/filedetails/?id=687365559
+  - name: SteamVR Replacement Models Guide
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=687365559
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Steam Community Workshop submission referenced by the VR/game-dev forum discussions.
-    entry_type: community
+    description: Steam Community guide on adding working replacement models to SteamVR.
+    entry_type: tutorial
     license: Free
     readme_tags:
       - Steam
       - VR
     url_last_verified: '2026-10-01'
-    url_status: broken
+    url_status: ok
     tags:
       output:
         - xr
