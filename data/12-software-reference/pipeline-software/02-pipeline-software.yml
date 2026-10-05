@@ -72,7 +72,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: CGRU
-    url: http://cgru.info/
+    url: https://cgru.info/
     added_at: '2026-04-16T21:13:44.000Z'
     description: CG tools pack that includes AFANASY, a free open-source render farm manager.
     license: Open Source
@@ -86,7 +86,7 @@ entries:
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -129,7 +129,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Open3D
-    url: http://www.open3d.org/
+    url: https://www.open3d.org/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Modern library for 3D data processing. Point clouds, meshes, voxels, reconstruction.
     entry_type: software
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - 3D Data Processing
       - Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       tech:
@@ -327,6 +327,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.412Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: NIM
     url: https://nim-labs.com/
     description: Studio management for shot tracking, scheduling, bidding, timecards and review.
@@ -339,3 +341,5 @@ entries:
       platform:
         - cloud
     added_at: '2026-10-05T08:51:07.413Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

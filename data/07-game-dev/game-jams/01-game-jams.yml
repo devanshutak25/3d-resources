@@ -15,7 +15,6 @@ entries:
         - games
       platform:
         - web
-    deprecated: true
   - name: GMTK Game Jam
     url: https://itch.io/jam/gmtk-2025
     added_at: '2026-04-16T19:59:30.000Z'

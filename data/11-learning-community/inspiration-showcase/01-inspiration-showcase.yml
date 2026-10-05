@@ -30,14 +30,14 @@ entries:
       platform:
         - web
   - name: autodestruct.com
-    url: http://www.autodestruct.com/
+    url: https://www.autodestruct.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Concept art.
     entry_type: inspiration
     readme_tags:
       - Concept Art
       - Portfolio
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -58,14 +58,14 @@ entries:
       platform:
         - web
   - name: Linkage Mechanisms
-    url: http://blog.rectorsquid.com/sample-linkage-mechanisms-2/
+    url: https://blog.rectorsquid.com/sample-linkage-mechanisms-2/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Mechanical animations.
     entry_type: reference
     readme_tags:
       - Mechanics
       - Animation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       platform:
@@ -116,14 +116,14 @@ entries:
       platform:
         - web
   - name: Nick Taylor (MVSM)
-    url: http://nicholas-taylor.com/
+    url: https://nicholas-taylor.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Project breakdowns.
     entry_type: channel
     readme_tags:
       - Breakdowns
       - ManVsMachine
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -457,7 +457,7 @@ entries:
       platform:
         - web
   - name: Art of Animation
-    url: http://theartofanimation.tumblr.com/
+    url: https://theartofanimation.tumblr.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Curated animation art blog.
     entry_type: inspiration
@@ -524,14 +524,14 @@ entries:
       tech:
         - blender
   - name: Contemporist
-    url: http://www.contemporist.com/
+    url: https://www.contemporist.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Contemporary architecture.
     entry_type: inspiration
     readme_tags:
       - Contemporary Arch
       - Inspiration
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:

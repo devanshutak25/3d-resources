@@ -164,12 +164,12 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Liberated Pixel Cup assets
-    url: http://lpc.opengameart.org
+    url: https://lpc.opengameart.org
     added_at: '2026-04-16T21:13:44.000Z'
     description: Free graphic assets from the Liberated Pixel Cup (LPC) on the OpenGameArt forums.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -210,7 +210,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Oryx Design Lab
-    url: http://oryxdesignlab.com/
+    url: https://oryxdesignlab.com/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Cheap royalty-free sprite packs.
     license: Paid
@@ -223,7 +223,7 @@ entries:
     readme_tags:
       - Cheap
       - Royalty-Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: UnluckyStudio
     url: https://unluckystudio.com/category/freegameart/
@@ -242,7 +242,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Reiner's Tilesets
-    url: http://www.reinerstilesets.de/
+    url: https://www.reinerstilesets.de/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Free 2D and 3D graphics, classic game assets blog.
     entry_type: asset-source
@@ -255,10 +255,10 @@ entries:
     readme_tags:
       - Classic
       - 2D + 3D
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: 420 Pixel Art Icons for RPGs
-    url: http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453
+    url: https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
     added_at: '2026-04-16T21:37:07.000Z'
     description: Set of 420 RPG icons, free for commercial use.
     entry_type: asset-source
@@ -271,7 +271,7 @@ entries:
     readme_tags:
       - RPG Icons
       - Commercial-OK
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Asset Creation Toolset
     url: https://mrven.gumroad.com/l/hPXIh

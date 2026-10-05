@@ -100,7 +100,7 @@ entries:
   - name: Game Dev League
     url: https://discord.com/invite/gamedev
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game dev Discord.
+    description: Large game dev Discord (~133K) built by game developers for game developers.
     entry_type: community
     license: Free
     readme_tags:
@@ -113,10 +113,12 @@ entries:
         - games
       platform:
         - web
-  - name: Unreal Slackers
+    dual_listed_in:
+      - learning-community-industry/communities-forums
+  - name: Unreal Source Discord
     url: https://discord.com/invite/unrealsource
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Unreal Engine Discord community.
+    description: Unreal Engine community Discord, formerly Unreal Slackers. Help, showcase and game dev discussion.
     entry_type: community
     license: Free
     readme_tags:
@@ -131,6 +133,8 @@ entries:
         - web
       tech:
         - unreal-plugin
+    dual_listed_in:
+      - learning-community-industry/communities-forums
   - name: Brackeys Discord
     url: https://discord.com/invite/brackeys
     added_at: '2026-04-16T19:59:30.000Z'

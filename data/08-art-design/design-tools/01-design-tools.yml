@@ -172,20 +172,6 @@ entries:
     tags:
       platform:
         - web
-  - name: Cosmos
-    url: https://www.cosmos.so/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Visual content curation platform.
-    license: Free
-    entry_type: inspiration
-    readme_tags:
-      - Curation
-      - Visual
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
   - name: Mockup Photos
     url: https://mockup.photos/
     added_at: '2026-04-16T19:59:30.000Z'

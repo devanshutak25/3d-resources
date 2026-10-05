@@ -282,12 +282,12 @@ entries:
       workflow:
         - modeling
   - name: TerreSculptor
-    url: http://www.demenzunmedia.com/home/terresculptor/
+    url: https://www.demenzunmedia.com/home/terresculptor/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Terrain creation and editing software. It is freeware.
     license: Free
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -387,7 +387,6 @@ entries:
       - Kitbashing
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: Bforartists
     url: https://www.bforartists.de/
     description: Open-source Blender fork with a menu and toolbar driven interface.
@@ -401,3 +400,5 @@ entries:
       output:
         - generalist
     added_at: '2026-10-05T08:51:07.102Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

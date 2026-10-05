@@ -1,6 +1,6 @@
 entries:
   - name: H.R. Giger (Artnet)
-    url: http://www.artnet.com/artists/hans-rudolf-giger/
+    url: https://www.artnet.com/artists/hans-rudolf-giger/
     added_at: '2026-04-16T19:59:30.000Z'
     description: H.R. Giger gallery archive.
     entry_type: inspiration
@@ -52,7 +52,7 @@ entries:
       platform:
         - web
   - name: Mech Blog
-    url: http://mechblog.tumblr.com/
+    url: https://mechblog.tumblr.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Mecha design inspiration.
     entry_type: inspiration
@@ -70,7 +70,7 @@ entries:
       platform:
         - web
   - name: The Black Workshop
-    url: http://theblackworkshop.tumblr.com/
+    url: https://theblackworkshop.tumblr.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Design inspiration blog.
     entry_type: inspiration
@@ -104,7 +104,7 @@ entries:
       platform:
         - web
   - name: OTAKU GANGSTA
-    url: http://otakugangsta.com/
+    url: https://otakugangsta.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Anime/otaku visual blog.
     entry_type: inspiration
@@ -138,7 +138,7 @@ entries:
       platform:
         - web
   - name: DETHJUNKIE
-    url: http://www.dethjunkie.com/
+    url: https://www.dethjunkie.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Dark creative blog.
     entry_type: inspiration

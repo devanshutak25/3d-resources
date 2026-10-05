@@ -392,6 +392,8 @@ entries:
       - Pipeline Standard
     url_last_verified: '2026-10-01'
     url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/pipeline-standards
   - name: F Spy USD
     url: https://github.com/Vochsel/fspy-USD
     added_at: '2026-04-16T21:13:44.000Z'
@@ -441,13 +443,13 @@ entries:
       tech:
         - unity-plugin
   - name: Retargeting Mixamo Animation Tool
-    url: http://terribilisstudio.fr/converter
+    url: https://terribilisstudio.fr/converter
     added_at: '2026-04-19T17:15:03.000Z'
     description: Web tool to retarget Mixamo animations.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: broken
+    url_last_verified: '2026-10-05'
+    url_status: ok
     notes: Tool page removed; redirects to terribilisstudio.fr home.
     deprecated: true
     tags:
@@ -491,8 +493,9 @@ entries:
     readme_tags:
       - USD/USDZ
       - Web
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: unreachable
+    notes: TLS certificate expired as of 2026-10-05; recheck next run.
   - name: GLTF Report
     url: https://gltf.report
     added_at: '2026-04-19T17:29:43.000Z'
@@ -540,6 +543,8 @@ entries:
       tech:
         - usd
     added_at: '2026-10-05T08:51:07.421Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: CAD Exchanger
     url: https://cadexchanger.com/
     description: Desktop app and SDK for viewing and converting CAD files across 30+ formats.
@@ -555,6 +560,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.422Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Unity Asset Transformer (Pixyz)
     url: https://www.pixyz-software.com/
     description: CAD and 3D data prep that tessellates, decimates and optimizes heavy models for real-time use.
@@ -569,6 +576,8 @@ entries:
       tech:
         - real-time
     added_at: '2026-10-05T08:51:07.425Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Transmutr
     url: https://lindale.io/transmutr/
     description: Converts FBX, OBJ, glTF and USD into SketchUp models with simplification, PBR materials and proxies.
@@ -582,3 +591,5 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.427Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

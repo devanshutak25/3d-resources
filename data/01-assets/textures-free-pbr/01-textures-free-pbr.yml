@@ -279,12 +279,12 @@ entries:
         - pbr
         - photogrammetry
   - name: PlainTextures
-    url: http://www.plaintextures.com/
+    url: https://www.plaintextures.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Free high-resolution textures, brushes, and photos.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -297,12 +297,12 @@ entries:
       tech:
         - pbr
   - name: TextureKing
-    url: http://www.textureking.com/
+    url: https://www.textureking.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Free material stock textures.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

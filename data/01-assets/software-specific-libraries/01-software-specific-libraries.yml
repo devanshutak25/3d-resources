@@ -2,7 +2,7 @@ entries:
   - name: SideFX Content Library
     url: https://www.sidefx.com/learn/learning-library/content/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official Houdini assets.
+    description: Official SideFX library of Houdini tutorials, example files and assets.
     license: Free
     entry_type: asset-source
     readme_tags:
@@ -19,6 +19,8 @@ entries:
         - web
       tech:
         - houdini-addon
+    dual_listed_in:
+      - modeling-sculpting-texturing/houdini-getting-started
   - name: Blender Demo Files
     url: https://www.blender.org/download/demo-files/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -63,7 +65,7 @@ entries:
   - name: Substance 3D Assets
     url: https://substance3d.adobe.com/assets/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Adobe materials library.
+    description: Adobe PBR material library. Free tier plus paid library.
     license: Paid
     entry_type: asset-source
     tags:
@@ -83,10 +85,12 @@ entries:
       - Materials
     url_last_verified: '2026-10-01'
     url_status: ok
+    dual_listed_in:
+      - assets-libraries/textures-free-pbr
   - name: Substance 3D Community Assets
     url: https://substance3d.adobe.com/community-assets
     added_at: '2026-04-16T19:59:30.000Z'
-    description: User-shared materials.
+    description: Free user-made Substance materials, filters and tools.
     license: Free
     entry_type: asset-source
     tags:
@@ -105,6 +109,8 @@ entries:
       - Substance
     url_last_verified: '2026-10-01'
     url_status: ok
+    dual_listed_in:
+      - learning-community-industry/communities-forums
   - name: ZBrush Download Center
     url: https://www.maxon.net/en/zbrush-plugins
     added_at: '2026-04-16T19:59:30.000Z'
@@ -194,25 +200,3 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
     deprecated: true
-  - name: Nomad Sculpt Resources
-    url: https://nomadsculpt.com/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Community brushes and matcaps.
-    license: Free
-    entry_type: asset-source
-    tags:
-      workflow:
-        - sculpting
-        - modeling
-      output:
-        - generalist
-      platform:
-        - web
-      tech:
-        - nomad-sculpt
-        - ipad-native
-    readme_tags:
-      - Nomad
-      - Brushes/Matcaps
-    url_last_verified: '2026-10-01'
-    url_status: ok

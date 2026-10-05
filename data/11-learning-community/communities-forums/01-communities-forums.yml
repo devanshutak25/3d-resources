@@ -285,7 +285,7 @@ entries:
       platform:
         - web
   - name: ccMixter.org
-    url: http://dig.ccmixter.org/
+    url: https://dig.ccmixter.org/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Creative Commons remix and sample music site operated by ArtisTech Media.
     entry_type: community
@@ -293,29 +293,13 @@ entries:
     readme_tags:
       - Creative Commons
       - Audio
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       platform:
         - web
       tech:
         - cc0
-  - name: Unreal Source Discord
-    url: https://discord.com/invite/unrealsource
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Unreal Engine community Discord. Help, showcase, and gamedev discussion.
-    entry_type: community
-    license: Free
-    readme_tags:
-      - Unreal
-      - Discord
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      tech:
-        - unreal-plugin
   - name: GameDev.tv Discord
     url: https://discord.com/invite/eUSFZdJ
     added_at: '2026-04-19T17:15:03.000Z'
@@ -332,22 +316,6 @@ entries:
         - web
       output:
         - games
-  - name: 🗨️discord/blender
-    url: https://discord.com/invite/blender
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Community-managed Discord server.
-    entry_type: community
-    license: Free
-    readme_tags:
-      - Blender
-      - Discord
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      tech:
-        - blender
   - name: Nexrender Discord
     url: https://discord.com/invite/S2JtRcB
     added_at: '2026-04-19T17:15:03.000Z'
@@ -428,7 +396,7 @@ entries:
       tech:
         - ai-generative
   - name: Introduction to pixel art
-    url: http://pixeljoint.com/forum/forum_posts.asp?TID=11299
+    url: https://pixeljoint.com/forum/forum_posts.asp?TID=11299
     added_at: '2026-04-19T17:15:03.000Z'
     description: Introduction to pixel art.
     entry_type: community
@@ -436,7 +404,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Forum Thread
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       platform:

@@ -612,7 +612,7 @@ entries:
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
   - name: Eagle
-    url: https://en.eagle.cool/
+    url: https://eagle.cool/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Visual asset organizer.
     license: Paid
@@ -625,11 +625,11 @@ entries:
     readme_tags:
       - Asset Organizer
       - Visual
-    url_last_verified: '2026-10-01'
-    url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
       - art-design-visual-storytelling/pre-production-tools
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: ArcBrush
     url: https://arcbrush.com/
     added_at: '2026-05-01T13:15:24.000Z'

@@ -307,6 +307,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.407Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Online 3D Viewer
     url: https://3dviewer.net/
     description: Browser viewer for OBJ, FBX, glTF, STL, 3DM, STEP and other 3D files.
@@ -318,6 +320,8 @@ entries:
       platform:
         - web
     added_at: '2026-10-05T08:51:07.408Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: mrv2
     url: https://mrv2.sourceforge.io/
     description: Flipbook and review player for EXR sequences, video and USD with annotations and OCIO. Successor to mrViewer.
@@ -337,3 +341,5 @@ entries:
       tech:
         - usd
     added_at: '2026-10-05T08:51:07.410Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

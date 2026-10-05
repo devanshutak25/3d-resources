@@ -93,7 +93,6 @@ entries:
       - Tweak/Autodesk
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: 5th Kind CORE
     url: https://www.5thkind.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -155,7 +154,6 @@ entries:
       - Was Moxion
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: Hansoft (Perforce)
     url: https://www.perforce.com/products/p4/p4-plan
     added_at: '2026-05-22T16:39:01.000Z'
@@ -343,7 +341,6 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
     notes: Formerly ShotGrid (renamed 2024-03-26).
-    deprecated: true
   - name: AYON (Ynput)
     url: https://ayon.app/
     added_at: '2026-05-05T11:50:37.000Z'

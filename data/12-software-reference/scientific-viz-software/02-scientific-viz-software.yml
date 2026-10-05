@@ -12,6 +12,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.148Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: VisIt
     url: https://github.com/visit-dav/visit
     description: LLNL parallel visualization and analysis tool for large simulation meshes.
@@ -21,3 +23,5 @@ entries:
       output:
         - scientific-viz
     added_at: '2026-10-05T08:51:07.149Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

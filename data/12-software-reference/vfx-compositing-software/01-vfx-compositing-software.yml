@@ -118,7 +118,6 @@ entries:
       - Planar Tracking
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: Boris FX Optics
     url: https://borisfx.com/products/optics/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -185,7 +184,6 @@ entries:
       - Broadcast
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: Red Giant Complete
     url: https://www.maxon.net/en/red-giant
     added_at: '2026-05-05T11:50:37.000Z'
@@ -737,6 +735,8 @@ entries:
         - linux
     notes: Autodesk serves 403 to non-browser user agents; live in a browser.
     added_at: '2026-10-05T08:51:07.430Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: VDBRender
     url: https://www.nukepedia.com/tools/plugins/3d/vdb-render-v3/
     description: Nuke plugin that renders OpenVDB volumes natively, with deep output and motion blur.
@@ -752,3 +752,5 @@ entries:
       platform:
         - win
     added_at: '2026-10-05T08:51:07.432Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

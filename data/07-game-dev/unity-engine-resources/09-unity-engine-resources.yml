@@ -343,7 +343,7 @@ entries:
       - opensource-alt
     stale: true
     last_pushed: '2021-06-10'
-  - name: ThreeDScans
+  - name: ThreeDScans (Unity samples)
     url: https://github.com/keijiro/ThreeDScans
     added_at: '2026-04-19T17:29:43.000Z'
     description: Scanned statue models from the Three D Scans project, optimized for real-time use.

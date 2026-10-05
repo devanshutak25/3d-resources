@@ -1,6 +1,6 @@
 entries:
   - name: Cambridge in Colour
-    url: http://www.cambridgeincolour.com/tutorials.htm
+    url: https://www.cambridgeincolour.com/tutorials.htm
     added_at: '2026-04-16T19:59:30.000Z'
     description: Photography tutorials on exposure, color, and composition.
     entry_type: reference
@@ -132,11 +132,11 @@ entries:
         - web
     notes: Google+ shut down in 2019. Link is dead platform; flagged for review.
   - name: /r/FOSSPhotography
-    url: http://reddit.com/r/fossphotography
+    url: https://reddit.com/r/fossphotography
     added_at: '2026-04-19T17:15:03.000Z'
     description: Reddit community on free open-source software for photography.
     entry_type: community
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

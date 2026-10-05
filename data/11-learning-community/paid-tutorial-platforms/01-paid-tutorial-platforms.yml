@@ -221,11 +221,11 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Pixel Art Tutorial Basics for Beginners
-    url: http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783
+    url: https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783
     added_at: '2026-04-16T21:13:44.000Z'
     description: Pixel art basics for beginners.
     entry_type: tutorial
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:

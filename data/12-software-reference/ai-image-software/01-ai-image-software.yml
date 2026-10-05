@@ -556,6 +556,8 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
     added_at: '2026-10-05T08:51:07.014Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: CHORD (Ubisoft La Forge)
     url: https://github.com/ubisoft/ubisoft-laforge-chord
     description: Ubisoft research model that turns one texture image into a set of PBR material maps.
@@ -575,6 +577,8 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
     added_at: '2026-10-05T08:51:07.016Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: chaiNNer
     url: https://chainner.app/
     description: Node-based desktop app that chains AI upscaling and image-processing models for batch work.
@@ -597,3 +601,5 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
     added_at: '2026-10-05T08:51:07.018Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

@@ -271,7 +271,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: DaVinci Resolve Studio
-    url: https://www.blackmagicdesign.com/products/davinciresolve
+    url: https://www.blackmagicdesign.com/products/davinciresolve/studio
     added_at: '2026-05-22T16:39:01.000Z'
     description: Paid Resolve with neural engine, advanced noise reduction, HDR grading, and multi-user collaboration.
     pricing: $295 perpetual
@@ -296,7 +296,7 @@ entries:
     readme_tags:
       - Pro Tier
       - One-time Buy
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Lightworks
     url: https://lwks.com/
@@ -654,3 +654,5 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.133Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

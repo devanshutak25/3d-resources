@@ -33,6 +33,8 @@ entries:
       platform:
         - win
     added_at: '2026-10-05T08:51:07.088Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: RailClone
     url: https://www.itoosoft.com/railclone
     description: 3ds Max parametric modeler that assembles geometry segments along splines by rules.
@@ -49,6 +51,8 @@ entries:
       tech:
         - procedural
     added_at: '2026-10-05T08:51:07.089Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: FumeFX
     url: https://www.afterworks.com/
     description: Fluid solver for fire, smoke and explosions in 3ds Max, Maya and Cinema 4D, with GPU solving in v7.
@@ -68,3 +72,5 @@ entries:
         - physics
         - gpu
     added_at: '2026-10-05T08:51:07.090Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

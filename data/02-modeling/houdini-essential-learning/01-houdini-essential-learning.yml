@@ -1,6 +1,6 @@
 entries:
   - name: CGWiki (tokeru.com)
-    url: http://www.tokeru.com/cgwiki/?title=Houdini
+    url: https://www.tokeru.com/cgwiki/?title=Houdini
     added_at: '2026-04-16T19:59:30.000Z'
     description: Matt Estela's CGWiki, the deepest Houdini reference (Joy of VEX, LOPS, particles).
     license: Free
@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Essential Reference
       - Matt Estela
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -20,7 +20,7 @@ entries:
       tech:
         - houdini
   - name: Entagma (site)
-    url: http://www.entagma.com/
+    url: https://www.entagma.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Advanced design and mograph tutorials. Also Unreal and Blender.
     license: Freemium
@@ -28,7 +28,7 @@ entries:
     readme_tags:
       - Advanced
       - Design/Mograph
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       platform:
@@ -40,7 +40,7 @@ entries:
       tech:
         - houdini
   - name: Applied Houdini
-    url: http://www.appliedhoudini.com/
+    url: https://www.appliedhoudini.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Stephen Knipping's FX-focused course series (ILM).
     license: Paid
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - FX Focus
       - ILM Pro
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: SideFX Tutorials
     url: https://www.sidefx.com/learn/learning-library/tutorials/

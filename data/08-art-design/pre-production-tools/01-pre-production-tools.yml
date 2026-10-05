@@ -1,26 +1,4 @@
 entries:
-  - name: Storyboard Pro (Toon Boom)
-    url: https://www.toonboom.com/products/storyboard-pro
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: Industry-standard storyboarding with animatic, camera, and audio timeline.
-    license: Paid
-    entry_type: software
-    best_for: Pro storyboard + animatic
-    tags:
-      workflow:
-        - storyboard
-        - previs
-      output:
-        - film-vfx
-        - motion-graphics
-      platform:
-        - win
-        - mac
-    readme_tags:
-      - Industry Std
-      - Storyboard
-    url_last_verified: '2026-10-01'
-    url_status: ok
   - name: Storyboarder (Wonder Unit)
     url: https://wonderunit.com/storyboarder/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -382,26 +360,8 @@ entries:
     url_status: ok
     dual_listed_in:
       - software-reference/misc-3d-utilities-software
-  - name: Eagle
-    url: https://eagle.cool/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Local image and video asset manager with tags.
-    license: Paid
-    entry_type: software
-    best_for: Local reference DAM
-    tags:
-      workflow:
-        - reference
-      platform:
-        - win
-        - mac
-    readme_tags:
-      - Local DAM
-      - Tags
-    url_last_verified: '2026-10-01'
-    url_status: ok
   - name: Kuadro
-    url: https://kruelgames.com/tools/kuadro/
+    url: http://kruelgames.com/tools/kuadro/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Minimal floating image viewer for references.
     license: Free
@@ -415,8 +375,9 @@ entries:
     readme_tags:
       - Free
       - Lightweight
-    url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    notes: Site answers on http only; https is refused.
   - name: Milanote
     url: https://milanote.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -589,23 +550,8 @@ entries:
       - Moodboard
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: are.na
-    url: https://www.are.na/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Reference collecting and moodboard platform.
-    license: Freemium
-    entry_type: tool
-    tags:
-      workflow:
-        - reference
-      output:
-        - generalist
-      platform:
-        - web
-    readme_tags:
-      - Moodboard
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
   - name: EYECANDY
     url: https://eycndy.com/
     added_at: '2026-06-21T19:32:23.000Z'
@@ -673,23 +619,6 @@ entries:
         - web
     readme_tags:
       - Image Search
-    url_last_verified: '2026-10-01'
-    url_status: ok
-  - name: Shotdeck
-    url: https://shotdeck.com/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Searchable library of HD movie stills.
-    license: Paid
-    entry_type: inspiration
-    tags:
-      workflow:
-        - reference
-      output:
-        - film-vfx
-      platform:
-        - web
-    readme_tags:
-      - Film Stills
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Spectacle.is

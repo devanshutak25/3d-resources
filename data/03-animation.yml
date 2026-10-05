@@ -6,10 +6,6 @@ subsections:
     title: "Animation: YouTube Channels"
     description: Channels covering 2D/motion animation technique.
     chunks: 1
-  - slug: animation-courses
-    title: "Animation: Courses"
-    description: Structured animation courses.
-    chunks: 1
   - slug: ai-motion-capture
     title: AI Motion Capture & Animation
     description: AI-powered mocap and character animation tools.

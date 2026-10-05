@@ -17,13 +17,11 @@ entries:
       tech:
         - xr
   - name: RealityKit
-    url: https://developer.apple.com/reality-composer-pro/
+    url: https://developer.apple.com/documentation/realitykit/
     added_at: '2026-04-19T17:15:03.000Z'
     description: High-level AR framework by Apple. Comparable to Unity and Unreal Engine but specific for AR solutions.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
     tags:
       output:
         - games
@@ -33,6 +31,8 @@ entries:
         - ios
       tech:
         - xr
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Capturing Body Motion in 3D | Apple Developer Documentation
     url: https://developer.apple.com/documentation/arkit/capturing-body-motion-in-3d
     added_at: '2026-04-19T17:15:03.000Z'
@@ -163,12 +163,12 @@ entries:
       tech:
         - xr
   - name: How to support GearVR and Google Cardboard in one Unity3D project
-    url: http://ralphbarbagallo.com/2015/05/26/how-to-support-gear-vr-and-google-cardboard-in-one-unity3d-project/
+    url: https://ralphbarbagallo.com/2015/05/26/how-to-support-gear-vr-and-google-cardboard-in-one-unity3d-project/
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: supporting Gear VR and Google Cardboard in one Unity project.'
     entry_type: tutorial
-    url_last_verified: '2026-10-01'
-    url_status: broken
+    url_last_verified: '2026-10-05'
+    url_status: ok
     notes: Article removed; redirects to site home.
     deprecated: true
     tags:
@@ -305,11 +305,11 @@ entries:
         - xr
         - unity-plugin
   - name: Oliver Kreylos's blog
-    url: http://doc-ok.org/
+    url: https://doc-ok.org/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Good resource to get started learning about VR / stereo rendering.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -496,6 +496,8 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.152Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Effect House (TikTok)
     url: https://effecthouse.tiktok.com/
     description: TikTok AR effect authoring app with visual and TypeScript scripting.
@@ -508,6 +510,9 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.154Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    notes: Live (release notes Aug 2026) but geo-blocked in some regions, e.g. India; link checks from those networks fail.
   - name: ShapesXR
     url: https://www.shapesxr.com/
     description: Collaborative 3D and XR scene prototyping in headset and a web editor.
@@ -522,3 +527,5 @@ entries:
         - vr
         - web
     added_at: '2026-10-05T08:51:07.155Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

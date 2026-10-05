@@ -40,7 +40,6 @@ entries:
     readme_tags:
       - Keyer
       - Chroma Key
-    deprecated: true
   - name: VFX Camera Database
     url: https://vfxcamdb.com/
     added_at: '2026-04-16T19:59:30.000Z'

@@ -41,14 +41,14 @@ entries:
       skill:
         - intermediate
   - name: Split EXR in Fusion
-    url: http://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion
+    url: https://www.xuanprada.com/blog/2017/6/6/split-exr-in-fusion
     added_at: '2026-04-16T19:59:30.000Z'
     description: Split EXR in Fusion guide.
     entry_type: tutorial
     readme_tags:
       - EXR
       - Fusion
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

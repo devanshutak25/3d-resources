@@ -27,7 +27,7 @@ entries:
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
   - name: Materialize
-    url: http://www.boundingboxsoftware.com/materialize/
+    url: https://www.boundingboxsoftware.com/materialize/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free texture map generation from a single image.
     license: Free
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Free
       - Map Generation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
@@ -346,6 +346,8 @@ entries:
       tech:
         - pbr
     added_at: '2026-10-05T08:51:07.103Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: PixPlant
     url: https://www.pixplant.com/
     description: Windows tool that turns photos into tileable PBR materials.
@@ -363,6 +365,8 @@ entries:
       tech:
         - pbr
     added_at: '2026-10-05T08:51:07.105Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Substance 3D Sampler
     url: https://www.adobe.com/products/substance3d/apps/sampler.html
     description: Adobe app that turns photos and scans into tiling materials, meshes and HDR lights.
@@ -382,3 +386,5 @@ entries:
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
     added_at: '2026-10-05T08:51:07.106Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

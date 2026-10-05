@@ -41,20 +41,6 @@ entries:
     tags:
       platform:
         - web
-  - name: Substance Share
-    url: https://substance3d.adobe.com/community-assets/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Free exchange platform for the Substance community. User-made materials, filters, and assets.
-    entry_type: community
-    license: Free
-    readme_tags:
-      - Substance
-      - Exchange
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
   - name: CG Channel
     url: https://www.cgchannel.com/
     added_at: '2026-05-11T17:49:13.000Z'

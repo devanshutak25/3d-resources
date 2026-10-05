@@ -95,12 +95,12 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: The Blendersauce Vault Materials
-    url: http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
+    url: https://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free material vault covering bricks, concrete, fabric, metal, nature, plaster, stone, tiles, and wood.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -112,25 +112,6 @@ entries:
         - web
       tech:
         - pbr
-  - name: Substance Source/freebies
-    url: https://substance3d.adobe.com/assets/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Hundreds of high-quality PBR materials. Free tier with a paid library.
-    entry_type: asset-source
-    license: Freemium
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - texturing
-        - material-authoring
-      output:
-        - generalist
-      platform:
-        - web
-      tech:
-        - pbr
-        - substance
   - name: Physically Based
     url: https://physicallybased.info/
     added_at: '2026-06-17T07:16:34.000Z'

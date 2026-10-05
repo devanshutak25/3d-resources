@@ -461,21 +461,6 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2015-06-17'
-  - name: SDFs by Inigo Quilez
-    url: https://iquilezles.org/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: All you need to know about SDFs and other shader magic.
-    entry_type: reference
-    license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-      skill:
-        - advanced
-      platform:
-        - web
   - name: Lygia
     url: https://www.lygia.xyz/
     added_at: '2026-04-19T17:15:03.000Z'
@@ -657,12 +642,12 @@ entries:
       platform:
         - web
   - name: Shader Derivative Functions
-    url: http://www.aclockworkberry.com/shader-derivative-functions/
+    url: https://www.aclockworkberry.com/shader-derivative-functions/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Shader derivative functions (ddx/ddy), useful for normals.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -672,12 +657,12 @@ entries:
       platform:
         - web
   - name: Anatole Drupat (XT95)
-    url: http://www.aduprat.com/
+    url: https://www.aduprat.com/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Shader artist (ShaderToy XT95).
     entry_type: inspiration
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -762,12 +747,12 @@ entries:
       platform:
         - web
   - name: apitrace
-    url: http://apitrace.github.io
+    url: https://apitrace.github.io
     added_at: '2026-04-19T17:29:43.000Z'
     description: Tools for tracing OpenGL, Direct3D, and other graphics APIs.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

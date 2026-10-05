@@ -18,26 +18,6 @@ entries:
         - web
       tech:
         - houdini
-  - name: SideFX Learning Library
-    url: https://www.sidefx.com/learn/learning-library/content/
-    added_at: '2026-05-25T07:59:50.000Z'
-    description: Searchable content browser for all official Houdini tutorials.
-    entry_type: reference
-    readme_tags:
-      - Official
-      - Tutorial Index
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      output:
-        - film-vfx
-      skill:
-        - beginner
-        - intermediate
-      platform:
-        - web
-      tech:
-        - houdini
   - name: Houdini Donut in Any Shape
     url: https://vimeo.com/492505292
     added_at: '2026-04-16T19:59:30.000Z'

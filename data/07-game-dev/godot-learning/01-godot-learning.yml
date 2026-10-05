@@ -60,7 +60,6 @@ entries:
         - godot
       platform:
         - web
-    deprecated: true
   - name: KidsCanCode Godot Recipes
     url: https://kidscancode.org/godot_recipes/4.x/
     added_at: '2026-04-16T19:59:30.000Z'

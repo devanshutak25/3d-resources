@@ -827,12 +827,12 @@ entries:
       - node-based
     notes: Bolt was acquired by Unity and shipped as the built-in Visual Scripting package.
   - name: Strange Io C
-    url: http://strangeioc.github.io/strangeioc/
+    url: https://strangeioc.github.io/strangeioc/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight extensible inversion-of-control (IoC) framework for C# and Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:

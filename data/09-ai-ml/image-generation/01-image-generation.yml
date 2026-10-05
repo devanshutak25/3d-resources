@@ -45,12 +45,12 @@ entries:
       tech:
         - ai-generative
   - name: Stable Diffusion Frivolous
-    url: http://www.stablediffusionfrivolous.com/
+    url: https://www.stablediffusionfrivolous.com/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Community response to the Stable Diffusion litigation.
     license: Free
     entry_type: community
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       platform:

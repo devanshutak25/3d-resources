@@ -383,12 +383,12 @@ entries:
         - pbr
         - ray-tracing
   - name: Fragmentarium
-    url: http://syntopia.github.io/Fragmentarium/
+    url: https://syntopia.github.io/Fragmentarium/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Program to edit and visualize GLSL shaders, mainly focused on fractals and generative systems.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -547,7 +547,7 @@ entries:
       - Free Book
       - Ray Tracing
   - name: Real-Time Rendering recommended books
-    url: http://www.realtimerendering.com/books.html
+    url: https://www.realtimerendering.com/books.html
     added_at: '2026-04-16T21:13:44.000Z'
     description: List of recommended books on the Real-Time Rendering site.
     license: Free
@@ -671,12 +671,12 @@ entries:
       - Shaders
       - Math
   - name: A Gentle Introduction to Shaders in Unity3D
-    url: http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d
+    url: https://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d
     added_at: '2026-04-19T17:15:03.000Z'
     description: Series of posts introducing shader coding, oriented to developers with little to no knowledge of shaders.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -870,12 +870,12 @@ entries:
       tech:
         - gpu
   - name: Ray Tracey's blog
-    url: http://raytracey.blogspot.com/
+    url: https://raytracey.blogspot.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Sam Lapere's blog, leads the scientific team at EPFL Blue Brain Project. Lots of post about real time rendering
     license: Free
     entry_type: channel
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

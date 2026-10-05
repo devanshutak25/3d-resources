@@ -54,7 +54,7 @@ entries:
       platform:
         - web
   - name: All Free Download
-    url: http://all-free-download.com/
+    url: https://all-free-download.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free design downloads.
     license: Free
@@ -62,7 +62,7 @@ entries:
     readme_tags:
       - Design
       - Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -380,13 +380,15 @@ entries:
     description: Character illustration generator.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-05'
+    url_status: broken
     tags:
       output:
         - illustration
       platform:
         - web
+    deprecated: true
+    notes: Domain lapsed (parked) as of 2026-10-05.
   - name: unDraw Illustrations
     url: https://undraw.co/illustrations
     added_at: '2026-04-19T17:15:03.000Z'

@@ -102,12 +102,12 @@ entries:
         - advanced
     year: 2022
   - name: 'AutoInt: Automatic Integration for Fast Neural Volume Rendering'
-    url: http://www.computationalimaging.org/publications/automatic-integration/
+    url: https://www.computationalimaging.org/publications/automatic-integration/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Lindell et al., CVPR 2021 | [github](https://github.com/computational-imaging/automatic-integration)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       tech:
@@ -170,13 +170,13 @@ entries:
         - advanced
     year: 2022
   - name: Editing Conditional Radiance Fields
-    url: http://editnerf.csail.mit.edu/
+    url: https://arxiv.org/abs/2105.06466
     added_at: '2026-04-19T17:29:43.000Z'
     description: Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-05'
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -526,12 +526,12 @@ entries:
         - advanced
     year: 2020
   - name: 'NeRF--: Neural Radiance Fields Without Known Camera Parameters'
-    url: http://nerfmm.active.vision/
+    url: https://nerfmm.active.vision/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       tech:

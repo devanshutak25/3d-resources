@@ -361,7 +361,7 @@ entries:
       - Lineage Lives On
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: Commotion
+  - name: Commotion (Pinnacle Systems)
     url: https://en.wikipedia.org/wiki/Pinnacle_Systems
     added_at: '2026-04-19T17:29:43.000Z'
     description: Puffin Designs → Pinnacle paint/effects tool. Defunct mid-2000s. Stu Maschwitz toolset.
@@ -414,7 +414,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Amazon Lumberyard
-    url: https://o3de.org/
+    url: https://en.wikipedia.org/wiki/Amazon_Lumberyard
     added_at: '2026-04-16T19:59:30.000Z'
     description: Amazon engine forked from CryEngine 2015. Relaunched as Open 3D Engine (O3DE) under Linux Foundation 2021.
     license: Free
@@ -428,10 +428,10 @@ entries:
     readme_tags:
       - Now O3DE
       - Amazon
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: USAnimation / Toonz (legacy)
-    url: https://opentoonz.github.io/e/
+    url: https://en.wikipedia.org/wiki/Toonz
     added_at: '2026-04-16T19:59:30.000Z'
     description: Softimage → Digital Video → Dwango. Open-sourced as OpenToonz 2016. Ghibli's pipeline.
     license: Open Source
@@ -443,7 +443,7 @@ entries:
     readme_tags:
       - Now OpenToonz
       - Ghibli
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Animo
     url: https://en.wikipedia.org/wiki/Animo

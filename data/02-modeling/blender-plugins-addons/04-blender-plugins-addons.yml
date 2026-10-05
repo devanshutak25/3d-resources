@@ -796,6 +796,8 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.043Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: DECALmachine
     url: https://machin3.io/DECALmachine/
     description: Blender add-on for mesh decals and trim sheets, adds surface detail without UVs.
@@ -815,6 +817,8 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.045Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: MESHmachine
     url: https://machin3.io/MESHmachine/
     description: 'Blender add-on for hard-surface edits without subdivision: fuse, unfuse, fillets, unbevel.'
@@ -834,6 +838,8 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.048Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Geo-Scatter
     url: https://www.geoscatter.com/
     description: Blender scattering add-on with a biome system for vegetation, city and debris environments.
@@ -853,6 +859,8 @@ entries:
         - blender-addon
         - procedural
     added_at: '2026-10-05T08:51:07.050Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: botaniq
     url: https://polygoniq.com/3d/botaniq/
     description: Blender library of 700 tree, grass and plant assets with scatter presets and wind animation.
@@ -869,6 +877,8 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.052Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: BagaPie
     url: https://extensions.blender.org/add-ons/bagapie/
     description: Free Blender extension with scattering, ivy, arrays, booleans and parametric architecture tools.
@@ -888,6 +898,8 @@ entries:
         - blender-addon
         - procedural
     added_at: '2026-10-05T08:51:07.055Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Human Generator
     url: https://www.humgen3d.com/
     description: Blender add-on that builds realistic human characters with hair, outfits, poses and expressions.
@@ -908,6 +920,8 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.057Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Simply Cloth
     url: https://superhivemarket.com/products/simply-cloth
     description: Blender add-on for fast cloth simulation and garment sewing, with wind and collision presets.
@@ -929,6 +943,8 @@ entries:
         - blender-addon
         - physics
     added_at: '2026-10-05T08:51:07.060Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: RBDLab
     url: https://superhivemarket.com/products/rbdlab
     description: 'Blender add-on for rigid-body destruction: fracturing, debris, dust and metal deformation.'
@@ -950,3 +966,5 @@ entries:
         - blender-addon
         - physics
     added_at: '2026-10-05T08:51:07.063Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

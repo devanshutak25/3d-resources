@@ -67,7 +67,6 @@ entries:
         - advanced
       platform:
         - web
-    deprecated: true
   - name: Deconstructor of Fun
     url: https://www.deconstructoroffun.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -84,11 +83,11 @@ entries:
       platform:
         - web
   - name: Game Programming Patterns
-    url: http://gameprogrammingpatterns.com/contents.html
+    url: https://gameprogrammingpatterns.com/contents.html
     added_at: '2026-04-16T19:59:30.000Z'
     description: Lots of great game development patterns useful when making games with or without Unity.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -160,12 +159,12 @@ entries:
       platform:
         - web
   - name: Timanthes
-    url: http://csdb.dk/release/?id=75871
+    url: https://csdb.dk/release/?id=75871
     added_at: '2026-04-19T17:15:03.000Z'
     description: A pixel art editor for the Commodore 64 computer running on Windows
     entry_type: tool
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -187,18 +186,6 @@ entries:
       platform:
         - mac
         - ios
-  - name: DevianArt7Soul1
-    url: https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Offers a specific set of 420 pixel art icons designed for RPG games.
-    entry_type: asset-source
-    url_last_verified: '2026-10-01'
-    url_status: ok
-    tags:
-      output:
-        - games
-      platform:
-        - web
   - name: 'Game Development Essentials: Game Level Design'
     url: https://www.goodreads.com/book/show/1633392.Game_Development_Essentials
     added_at: '2026-04-19T17:15:03.000Z'
@@ -213,13 +200,12 @@ entries:
         - beginner
       platform:
         - web
-    deprecated: true
   - name: LWF
-    url: http://gree.github.io/lwf/
+    url: https://gree.github.io/lwf/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -273,12 +259,12 @@ entries:
       tech:
         - ai-generative
   - name: Spritemate
-    url: http://www.spritemate.com
+    url: https://www.spritemate.com
     added_at: '2026-04-19T17:15:03.000Z'
     description: Online Editor for Commodore 64 Sprites
     entry_type: tool
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:

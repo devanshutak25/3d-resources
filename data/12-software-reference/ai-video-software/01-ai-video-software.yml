@@ -446,6 +446,8 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
     added_at: '2026-10-05T08:51:07.028Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Video2X
     url: https://github.com/k4yt3x/video2x
     description: Video upscaler and frame interpolator using Real-ESRGAN, Real-CUGAN and RIFE.
@@ -464,6 +466,8 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
     added_at: '2026-10-05T08:51:07.030Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Marey (Moonvalley)
     url: https://www.moonvalley.com/
     description: Video generation model trained on licensed footage, with camera, pose and motion-transfer controls.
@@ -482,6 +486,8 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
     added_at: '2026-10-05T08:51:07.032Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: MAGI-1 (Sand AI)
     url: https://github.com/SandAI-org/MAGI-1
     description: Open autoregressive video model that generates and extends clips chunk by chunk.
@@ -499,6 +505,8 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
     added_at: '2026-10-05T08:51:07.034Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Stable Virtual Camera
     url: https://github.com/Stability-AI/stable-virtual-camera
     description: Stability AI model that renders new camera views and camera-path videos from input images.
@@ -516,6 +524,8 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
     added_at: '2026-10-05T08:51:07.036Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Beeble
     url: https://beeble.ai/
     description: AI relighting for footage that extracts normal, albedo and depth passes. Web app plus local Beeble Studio.
@@ -538,6 +548,8 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
     added_at: '2026-10-05T08:51:07.038Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Simulon
     url: https://simulon.com/
     description: iPhone app that tracks camera and lighting to composite 3D assets into live-action footage.
@@ -557,6 +569,8 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
     added_at: '2026-10-05T08:51:07.039Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Cuebric
     url: https://cuebric.com/
     description: AI tool that turns images into layered 2.5D environments for LED-wall virtual production.
@@ -575,3 +589,5 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
     added_at: '2026-10-05T08:51:07.041Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

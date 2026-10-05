@@ -64,12 +64,12 @@ entries:
       tech:
         - opensource-alt
   - name: PixiJS
-    url: http://www.pixijs.com/
+    url: https://www.pixijs.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       tech:
@@ -186,6 +186,8 @@ entries:
         - real-time
         - path-tracing
     added_at: '2026-10-05T08:51:07.108Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: s&box
     url: https://sbox.game/
     description: Facepunch engine on Source 2 with C# scripting, successor to Garry's Mod, with Steam export.
@@ -200,6 +202,8 @@ entries:
       tech:
         - real-time
     added_at: '2026-10-05T08:51:07.110Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Phaser
     url: https://phaser.io/
     description: Open-source HTML5 2D game framework in JavaScript and TypeScript.
@@ -211,3 +215,5 @@ entries:
       platform:
         - web
     added_at: '2026-10-05T08:51:07.111Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

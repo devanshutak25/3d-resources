@@ -213,12 +213,12 @@ entries:
       platform:
         - web
   - name: Shaping functions
-    url: http://www.flong.com/archive/texts/code/
+    url: https://www.flong.com/archive/texts/code/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Set of shaping functions for shaders.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -692,12 +692,12 @@ entries:
         - houdini
         - gpu
   - name: GLSL Sandbox
-    url: http://glslsandbox.com
+    url: https://glslsandbox.com
     added_at: '2026-04-19T17:29:43.000Z'
     description: Online live editor for fragment shaders.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

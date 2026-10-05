@@ -129,12 +129,12 @@ entries:
     stale: true
     last_pushed: '2021-04-01'
   - name: USD Manager
-    url: http://www.usdmanager.org/
+    url: https://www.usdmanager.org/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight app for browsing, managing, and editing USD files.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -301,6 +301,8 @@ entries:
       tech:
         - usd
     added_at: '2026-10-05T08:51:07.416Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: LightUSD
     url: https://github.com/lighttransport/LightUSD
     description: Light C++17 library for reading and writing USD and USDZ without Pixar USD. Formerly TinyUSDZ.
@@ -317,6 +319,8 @@ entries:
       tech:
         - usd
     added_at: '2026-10-05T08:51:07.417Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Adobe USD Fileformat Plugins
     url: https://github.com/adobe/USD-Fileformat-plugins
     description: USD plugins that read and write FBX, glTF, OBJ, PLY, STL, SPZ and SBSAR.
@@ -330,3 +334,5 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
     added_at: '2026-10-05T08:51:07.419Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

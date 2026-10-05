@@ -2,7 +2,7 @@ entries:
   - name: UV Checker Map Maker
     url: https://uvchecker.atlux.one/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Custom UV checker textures.
+    description: Web tool to generate custom UV checker textures.
     license: Free
     entry_type: tool
     tags:
@@ -40,23 +40,6 @@ entries:
       - Toolkit
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: UV Grid Generator
-    url: https://uvchecker.atlux.one/
-    added_at: '2026-06-17T07:16:34.000Z'
-    description: Web tool to generate custom UV checker textures.
-    license: Free
-    entry_type: tool
-    readme_tags:
-      - UV Checker
-    tags:
-      workflow:
-        - uv
-      output:
-        - generalist
-      platform:
-        - web
-    url_last_verified: '2026-10-01'
-    url_status: ok
   - name: Zen UV
     url: https://superhivemarket.com/products/zen-uv
     description: Blender UV toolkit for unwrapping, packing, stacking, texel density and trim sheets.
@@ -76,6 +59,8 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.068Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Mio3 UV
     url: https://extensions.blender.org/add-ons/mio3-uv/
     description: Free Blender extension for aligning, straightening and arranging UV islands.
@@ -94,3 +79,5 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.069Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

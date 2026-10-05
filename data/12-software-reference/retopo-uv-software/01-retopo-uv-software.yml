@@ -165,9 +165,9 @@ entries:
   - name: 3D Coat Print
     url: https://pilgway.com/product/3dcoatprint
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Voxel-sculpt build of 3D Coat aimed at 3D-print workflows.
-    pricing: ~$199 perpetual
-    license: Paid
+    description: Free 3DCoat build for sculpting models to 3D print. Exports are capped at 40K triangles.
+    pricing: Free
+    license: Free
     entry_type: software
     best_for: 3D-print sculpting
     tags:
@@ -183,6 +183,7 @@ entries:
       - 3D Print
     url_last_verified: '2026-10-01'
     url_status: ok
+    pricing_last_verified: '2026-10-05'
   - name: Cozy Blanket
     url: https://cozyblanket.app/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -332,3 +333,5 @@ entries:
       tech:
         - node-based
     added_at: '2026-10-05T08:51:07.095Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

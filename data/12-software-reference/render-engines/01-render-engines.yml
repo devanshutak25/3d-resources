@@ -501,7 +501,6 @@ entries:
     tags:
       workflow:
         - rendering
-    deprecated: true
   - name: OTOY Octane Render Cloud
     url: https://render.otoy.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -762,6 +761,8 @@ entries:
         - ray-tracing
         - usd
     added_at: '2026-10-05T08:51:07.381Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Bella
     url: https://bellarender.com/
     description: Spectral path tracer with a standalone GUI, CLI and plugins for Rhino, Maya and SketchUp.
@@ -783,6 +784,8 @@ entries:
       tech:
         - path-tracing
     added_at: '2026-10-05T08:51:07.388Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: 3Delight
     url: https://www.3delight.com/
     description: OSL-based path tracer with plugins for Maya, Houdini, Cinema 4D, Katana and Hydra.
@@ -803,6 +806,8 @@ entries:
         - path-tracing
         - offline
     added_at: '2026-10-05T08:51:07.392Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: FStormRender
     url: https://fstormrender.com/
     description: GPU renderer plugin for 3ds Max that converts Corona, V-Ray and Octane scenes.
@@ -820,6 +825,8 @@ entries:
       tech:
         - gpu
     added_at: '2026-10-05T08:51:07.396Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Thea Render
     url: https://www.thearender.com/
     description: CPU and GPU renderer with the real-time Nitro engine, standalone or as a SketchUp and Rhino plugin.
@@ -837,3 +844,5 @@ entries:
       tech:
         - gpu
     added_at: '2026-10-05T08:51:07.400Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

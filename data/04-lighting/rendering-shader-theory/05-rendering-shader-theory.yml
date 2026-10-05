@@ -259,7 +259,7 @@ entries:
         - intermediate
       platform:
         - web
-  - name: Vertexshaderart
+  - name: Vertexshaderart (YouTube)
     url: https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw
     added_at: '2026-04-19T17:29:43.000Z'
     description: YouTube playlist about vertex shaders.
@@ -323,12 +323,12 @@ entries:
       platform:
         - web
   - name: Ptex
-    url: http://ptex.us/
+    url: https://ptex.us/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Texture mapping system developed by Walt Disney Animation Studios for production-quality rendering.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

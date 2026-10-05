@@ -14,7 +14,6 @@ entries:
         - film-vfx
       platform:
         - web
-    deprecated: true
   - name: Graphtoy
     url: https://graphtoy.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -261,12 +260,12 @@ entries:
       tech:
         - opensource-alt
   - name: WebGL Texture Tester
-    url: http://toji.github.io/texture-tester/
+    url: https://toji.github.io/texture-tester/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

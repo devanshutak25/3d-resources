@@ -272,6 +272,8 @@ entries:
       tech:
         - real-time
     added_at: '2026-10-05T08:51:07.109Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Roblox Studio
     url: https://create.roblox.com/
     description: Free Roblox editor for building, scripting in Luau and publishing multiplayer games.
@@ -286,3 +288,5 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.113Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

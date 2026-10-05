@@ -144,6 +144,8 @@ entries:
       - Space/Science
     url_last_verified: '2026-10-01'
     url_status: ok
+    dual_listed_in:
+      - assets-libraries/textures-specialized
   - name: Smithsonian 3D
     url: https://3d.si.edu/
     added_at: '2026-04-16T19:59:30.000Z'

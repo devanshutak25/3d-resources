@@ -104,7 +104,6 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
-    deprecated: true
   - name: Reorderable List Editor Field for Unity
     url: https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity
     added_at: '2026-04-19T17:15:03.000Z'

@@ -25,7 +25,7 @@ entries:
       tech:
         - path-tracing
   - name: Ariev Visuals Resources
-    url: http://arievvisuals.com/resources
+    url: https://arievvisuals.com/resources
     added_at: '2026-04-16T19:59:30.000Z'
     description: Octane tutorials and assets.
     license: Free
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - Octane
       - Tutorials
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

@@ -185,7 +185,7 @@ entries:
     url_status: broken
     deprecated: true
   - name: No Emotion HDRs
-    url: http://noemotionhdrs.net/
+    url: https://noemotionhdrs.net/
     added_at: '2026-06-17T07:16:34.000Z'
     description: Free high-resolution HDRIs sorted by time of day.
     license: Free
@@ -200,5 +200,5 @@ entries:
         - generalist
       platform:
         - web
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok

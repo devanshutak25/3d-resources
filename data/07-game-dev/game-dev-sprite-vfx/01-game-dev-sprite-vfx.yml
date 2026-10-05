@@ -172,11 +172,11 @@ entries:
       platform:
         - web
   - name: Owlboy
-    url: http://www.owlboygame.com/
+    url: https://www.owlboygame.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
     entry_type: inspiration
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -200,7 +200,7 @@ entries:
       platform:
         - web
   - name: Paul Robertson
-    url: http://probertson.tumblr.com/
+    url: https://probertson.tumblr.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
     entry_type: inspiration
@@ -246,12 +246,12 @@ entries:
       platform:
         - web
   - name: ShoeBox
-    url: http://renderhjs.net/shoebox/
+    url: https://renderhjs.net/shoebox/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Adobe Air based app with game and ui related tools.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:

@@ -17,7 +17,6 @@ entries:
       - Industry Standard
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: PTC Creo
     url: https://www.ptc.com/en/products/creo
     added_at: '2026-05-05T11:50:37.000Z'
@@ -164,7 +163,6 @@ entries:
       - Personal Free
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: OpenSCAD
     url: https://openscad.org/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -427,6 +425,8 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.135Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Zoo Design Studio
     url: https://zoo.dev/
     description: Code-and-UI CAD app with the KCL modeling language on Zoo's own geometry engine.
@@ -444,6 +444,8 @@ entries:
         - linux
         - web
     added_at: '2026-10-05T08:51:07.136Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: build123d
     url: https://build123d.readthedocs.io/
     description: Python parametric CAD library on OpenCascade that exports STEP and STL.
@@ -459,6 +461,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.138Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: CadQuery
     url: https://cadquery.github.io/
     description: Python library for parametric CAD models on the OpenCascade kernel.
@@ -474,6 +478,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.140Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Dune 3D
     url: https://dune3d.org/
     description: Open-source parametric CAD app with a SolveSpace-derived constraint solver and STEP support.
@@ -485,3 +491,5 @@ entries:
       output:
         - product-viz
     added_at: '2026-10-05T08:51:07.141Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

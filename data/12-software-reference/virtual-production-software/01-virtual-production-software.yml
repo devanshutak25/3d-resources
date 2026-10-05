@@ -226,28 +226,10 @@ entries:
       - Stype
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: Ncam Reality
-    url: https://www.zeiss.com/photonics-and-optics/en/cinematography/cincraft/scenario.html
-    added_at: '2026-05-22T16:39:01.000Z'
-    description: Markerless on-set camera tracking.
-    license: Paid
-    entry_type: hardware
-    best_for: Markerless camera tracking
-    tags:
-      workflow:
-        - match-move
-      output:
-        - film-vfx
-        - broadcast
-    readme_tags:
-      - Markerless
-      - On-Set
-    url_last_verified: '2026-10-01'
-    url_status: ok
   - name: ZEISS CinCraft Scenario
     url: https://www.zeiss.com/photonics-and-optics/en/cinematography/cincraft/scenario.html
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Lens-aware camera tracking system for VP.
+    description: Lens-aware markerless camera tracking for virtual production. Formerly Ncam Reality.
     license: Paid
     entry_type: hardware
     best_for: Lens-aware tracking
@@ -383,7 +365,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Rokoko Smartsuit Pro
-    url: https://www.rokoko.com/
+    url: https://www.rokoko.com/products/smartsuit-pro
     added_at: '2026-04-16T19:59:30.000Z'
     description: Affordable inertial mocap suit; face/gloves available.
     license: Paid
@@ -398,7 +380,7 @@ entries:
     readme_tags:
       - IMU Suit
       - Affordable
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Sony Mocopi
     url: https://www.sony.co.jp/en/Products/mocopi-dev/en/
@@ -526,6 +508,8 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.150Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Chaos Arena
     url: https://www.chaos.com/arena
     description: Ray-traced in-camera VFX that plays V-Ray scenes on LED volumes without a game engine.
@@ -542,6 +526,8 @@ entries:
         - ray-tracing
         - real-time
     added_at: '2026-10-05T08:51:07.403Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Nuke Stage
     url: https://www.foundry.com/products/nuke-stage
     description: Foundry tool for real-time LED-wall playback with live compositing and USD layout.
@@ -559,3 +545,5 @@ entries:
         - real-time
         - usd
     added_at: '2026-10-05T08:51:07.405Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

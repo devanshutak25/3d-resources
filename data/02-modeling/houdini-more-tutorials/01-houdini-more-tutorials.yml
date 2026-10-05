@@ -244,7 +244,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Houdini for Astronomy
-    url: http://ytini.com/
+    url: https://ytini.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Astronomy and scientific viz in Houdini.
     entry_type: reference
@@ -259,7 +259,7 @@ entries:
     readme_tags:
       - Astronomy
       - Sci-Viz
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: MysteryPancake Houdini Fun
     url: https://github.com/MysteryPancake/Houdini-Fun

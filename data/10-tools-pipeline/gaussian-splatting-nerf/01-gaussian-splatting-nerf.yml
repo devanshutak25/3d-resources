@@ -372,6 +372,8 @@ entries:
       tech:
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.440Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: KIRI Gaussian Splatting for After Effects
     url: https://kiriinnov.gumroad.com/l/GaussianSplattingPluginbyKIRIEngine
     description: Free After Effects plugin to import, crop and stylize 3DGS PLY scans.
@@ -388,6 +390,8 @@ entries:
       tech:
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.443Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: 3DGS Render (KIRI)
     url: https://www.kiriengine.app/3d-tools/3dgs-render
     description: Blender add-on for viewing, editing and animating Gaussian splats.
@@ -406,6 +410,8 @@ entries:
         - gaussian-splatting
         - blender-addon
     added_at: '2026-10-05T08:51:07.445Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Spark
     url: https://sparkjs.dev/
     description: World Labs Gaussian splat renderer for three.js that loads PLY, SPZ, SPLAT and SOGS.
@@ -421,6 +427,8 @@ entries:
         - gaussian-splatting
         - real-time
     added_at: '2026-10-05T08:51:07.447Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: SplatTransform
     url: https://github.com/playcanvas/splat-transform
     description: PlayCanvas CLI and library to convert, filter, merge and compress Gaussian splat files.
@@ -437,6 +445,8 @@ entries:
       tech:
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.449Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: OpenSplat
     url: https://github.com/WebODM/OpenSplat
     description: Open-source 3DGS trainer that runs on CPU or GPU.
@@ -453,6 +463,8 @@ entries:
         - gaussian-splatting
         - photogrammetry
     added_at: '2026-10-05T08:51:07.452Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: NanoGS
     url: https://github.com/TimChen1383/NanoGaussianSplatting
     description: Unreal Engine 5.6+ plugin that renders large splat scenes with LOD clusters.
@@ -468,6 +480,8 @@ entries:
         - gaussian-splatting
         - unreal-plugin
     added_at: '2026-10-05T08:51:07.454Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Volinga
     url: https://volinga.ai/
     description: Splat processing suite and Unreal plugin for virtual production, with 4D splat support.
@@ -481,6 +495,8 @@ entries:
         - gaussian-splatting
         - unreal-plugin
     added_at: '2026-10-05T08:51:07.456Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: StorySplat
     url: https://storysplat.com/
     description: Web editor for building interactive tours from Gaussian splat scenes.
@@ -496,6 +512,8 @@ entries:
       tech:
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.458Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Scantic
     url: https://scantic.app/
     description: iPhone app that trains Gaussian splats on device.
@@ -511,6 +529,8 @@ entries:
         - gaussian-splatting
         - photogrammetry
     added_at: '2026-10-05T08:51:07.460Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: instant-ngp (NVIDIA)
     url: https://github.com/NVlabs/instant-ngp
     description: NVIDIA fast NeRF trainer and viewer using multiresolution hash encoding.
@@ -527,3 +547,5 @@ entries:
         - gpu
         - photogrammetry
     added_at: '2026-10-05T08:51:07.462Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

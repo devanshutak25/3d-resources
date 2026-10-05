@@ -192,6 +192,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.122Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Callipeg
     url: https://callipeg.com/
     description: Frame-by-frame 2D animation app for tablets and desktop.
@@ -211,6 +213,8 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.123Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Glaxnimate
     url: https://glaxnimate.org/
     description: KDE open-source vector animation app with Lottie and SVG export.
@@ -226,3 +230,5 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.125Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

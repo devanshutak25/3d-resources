@@ -285,6 +285,8 @@ entries:
       tech:
         - photogrammetry
     added_at: '2026-10-05T08:51:07.435Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: iTwin Capture Modeler (Bentley)
     url: https://www.bentley.com/products/itwin-capture-modeler/
     description: Bentley reality modeling that builds meshes and Gaussian splats from photos and lidar.
@@ -300,6 +302,8 @@ entries:
         - photogrammetry
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.436Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: DJI Terra
     url: https://enterprise.dji.com/dji-terra
     description: Drone mapping and photogrammetry software that outputs meshes, point clouds and Gaussian splats.
@@ -314,3 +318,5 @@ entries:
         - photogrammetry
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.438Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

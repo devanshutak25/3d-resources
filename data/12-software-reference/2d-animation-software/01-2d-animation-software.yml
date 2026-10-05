@@ -106,7 +106,7 @@ entries:
   - name: Toon Boom Storyboard Pro
     url: https://www.toonboom.com/products/storyboard-pro
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Industry-standard storyboarding software.
+    description: Industry-standard storyboarding with animatic, camera and audio timeline.
     license: Paid
     entry_type: software
     best_for: Pre-production, animatics
@@ -125,6 +125,8 @@ entries:
       - Animatics
     url_last_verified: '2026-10-01'
     url_status: ok
+    dual_listed_in:
+      - art-design-visual-storytelling/pre-production-tools
   - name: Pixel Composer (itch.io)
     url: https://makham.itch.io/pixel-composer
     added_at: '2026-04-16T19:59:30.000Z'
@@ -573,12 +575,12 @@ entries:
       skill:
         - beginner
   - name: PiskelApp
-    url: http://www.piskelapp.com/
+    url: https://www.piskelapp.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Free Online Pixel Art and Animated Sprite Tool.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -880,7 +882,7 @@ entries:
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: PyxelEdit
-    url: http://pyxeledit.com/
+    url: https://pyxeledit.com/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Pixel art editor for tilesets, levels, animations.
     license: Paid
@@ -897,7 +899,7 @@ entries:
     readme_tags:
       - Tilesets
       - Pixel Art
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx

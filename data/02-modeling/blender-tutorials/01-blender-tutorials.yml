@@ -42,12 +42,12 @@ entries:
       tech:
         - blender
   - name: Programming Add-ons for Blender 2.8
-    url: http://airplanes3d.net/pydev-000_e.xml
+    url: https://airplanes3d.net/pydev-000_e.xml
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free ebook on setting up a Python IDE to write Blender add-ons, worked through a sample plugin.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:

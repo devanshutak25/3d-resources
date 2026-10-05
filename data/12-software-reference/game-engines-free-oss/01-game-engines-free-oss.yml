@@ -416,7 +416,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cocos2d X
-    url: http://cocos2d-x.org/
+    url: https://cocos2d-x.org/
     added_at: '2026-04-16T21:13:44.000Z'
     description: C++ OpenGL 2D/3D engine with JS and Lua bindings. Targets all major mobile and desktop platforms.
     license: Open Source
@@ -436,10 +436,10 @@ entries:
     readme_tags:
       - C++
       - Mobile
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: jMonkeyEngine 3
-    url: http://jmonkeyengine.org/
+    url: https://jmonkeyengine.org/
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D open-source game engine for Java developers.
     license: Open Source
@@ -457,7 +457,7 @@ entries:
     readme_tags:
       - Java
       - 3D
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: JPCT
     url: https://www.jpct.net/
@@ -506,7 +506,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Magnum (site)
-    url: http://magnum.graphics/
+    url: https://magnum.graphics/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight modular 2D/3D graphics/game engine written in C++11.
     license: Open Source
@@ -524,7 +524,7 @@ entries:
     readme_tags:
       - C++11
       - Modular
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Ogre
     url: https://www.ogre3d.org/
@@ -548,7 +548,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Urho3D
-    url: http://urho3d.github.io/
+    url: https://urho3d.github.io/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Cross-platform rendering and game engine.
     license: Open Source
@@ -566,7 +566,7 @@ entries:
     readme_tags:
       - C++
       - Cross-Platform
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: ursina
     url: https://www.ursinaengine.org/
@@ -613,7 +613,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blend4Web
-    url: http://www.blend4web.com/
+    url: https://www.blend4web.com/
     added_at: '2026-04-16T21:37:07.000Z'
     description: JavaScript framework for interactive 3D in browsers. Blender integration.
     license: Open Source
@@ -630,10 +630,10 @@ entries:
     readme_tags:
       - Browser
       - Blender Integration
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Three.js
-    url: http://threejs.org/
+    url: https://threejs.org/
     added_at: '2026-04-16T21:37:07.000Z'
     description: JavaScript 3D library. The standard for web 3D.
     license: Open Source
@@ -651,7 +651,7 @@ entries:
     readme_tags:
       - Browser
       - Standard JS 3D
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Ceramic
     url: https://ceramic-engine.com/
@@ -742,7 +742,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: SpriteBuilder
-    url: http://www.spritebuilder.com/
+    url: https://www.spritebuilder.com/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Open source game development suite for macOS.
     license: Open Source
@@ -758,7 +758,7 @@ entries:
     readme_tags:
       - Mac-only
       - 2D
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Fusee
     url: https://github.com/FUSEEProjectTeam/Fusee/

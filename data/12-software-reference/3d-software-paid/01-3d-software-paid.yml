@@ -165,7 +165,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Moi3D
-    url: http://moi3d.com/
+    url: https://moi3d.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: NURBS modeler for industrial and product design.
     pricing: $295 perpetual (90-day trial)
@@ -186,7 +186,7 @@ entries:
     readme_tags:
       - NURBS
       - Perpetual License
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Nomad Sculpt
     url: https://nomadsculpt.com/
@@ -363,7 +363,6 @@ entries:
       - Archviz/Games
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: MotionBuilder
     url: https://www.autodesk.com/products/motionbuilder
     added_at: '2026-05-05T11:50:37.000Z'
@@ -390,7 +389,6 @@ entries:
     url_status: ok
     dual_listed_in:
       - software-reference/virtual-production-software
-    deprecated: true
   - name: Reallusion iClone
     url: https://www.reallusion.com/iclone/
     added_at: '2026-05-05T11:50:37.000Z'
@@ -512,7 +510,6 @@ entries:
       - OEM
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: Autodesk Alias
     url: https://www.autodesk.com/products/alias
     added_at: '2026-05-22T16:39:01.000Z'
@@ -533,7 +530,6 @@ entries:
       - Auto Std
     url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: ICEM Surf
     url: https://www.3ds.com/products/catia/icem-surf
     added_at: '2026-05-22T16:39:01.000Z'
@@ -636,7 +632,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Clayoo
-    url: https://www.clayoo.com/
+    url: https://www.food4rhino.com/en/app/clayoo-freeform-organic-modeling
     added_at: '2026-05-22T16:39:01.000Z'
     description: SubD modeling plugin for Rhino. Common for jewelry organic forms.
     license: Paid
@@ -654,8 +650,8 @@ entries:
     readme_tags:
       - Rhino SubD
       - Organic
-    url_last_verified: '2026-10-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Marmoset Toolbag
     url: https://marmoset.co/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -865,6 +861,8 @@ entries:
       tech:
         - procedural
     added_at: '2026-10-05T08:51:07.093Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Shapelab
     url: https://shapelabvr.com/
     description: VR and desktop sculpting app for characters, props and concepts.
@@ -882,6 +880,8 @@ entries:
         - win
         - vr
     added_at: '2026-10-05T08:51:07.097Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Feather
     url: https://www.feather.art/
     description: iPad 3D drawing app that turns pen strokes into 3D curves on guide surfaces.
@@ -897,3 +897,5 @@ entries:
       platform:
         - ipad
     added_at: '2026-10-05T08:51:07.099Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok

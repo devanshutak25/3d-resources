@@ -224,6 +224,8 @@ entries:
       platform:
         - web
     added_at: '2026-10-05T08:51:07.126Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Manim Community
     url: https://www.manim.community/
     description: Python library for mathematical animations, a community fork of 3Blue1Brown's Manim.
@@ -241,6 +243,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.127Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Remotion
     url: https://www.remotion.dev/
     description: React framework for building and rendering videos in code.
@@ -259,6 +263,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.128Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Plexus
     url: https://www.rowbyte.com/plexus
     description: After Effects plugin that connects generated particles with lines and triangles.
@@ -275,6 +281,8 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.130Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Duik
     url: https://rxlaboratorio.org/rx-tool/duik/
     description: Free After Effects rigging and animation toolkit with IK, walk cycles and automation.
@@ -290,3 +298,5 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.131Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
