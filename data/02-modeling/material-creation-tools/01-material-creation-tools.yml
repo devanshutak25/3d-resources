@@ -182,7 +182,7 @@ entries:
   - name: Normal Map Bench
     url: https://normalmapbench.com/
     added_at: '2026-09-25T03:25:28.000Z'
-    description: Browser-based generator that turns a height texture into a tangent-space normal map, with live relighting, Sobel and Scharr filters, strength and smoothing controls, and OpenGL or DirectX output; conversion stays on your device.
+    description: Browser tool that turns a height texture into a tangent-space normal map with live relighting and OpenGL or DirectX output. Runs locally, no upload.
     license: Free
     entry_type: tool
     best_for: Making a normal map from a height texture without uploading the source
@@ -197,3 +197,5 @@ entries:
     readme_tags:
       - Normal Maps
       - Browser
+    url_last_verified: '2026-10-05'
+    url_status: ok
