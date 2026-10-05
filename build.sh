@@ -48,3 +48,6 @@ node scripts/build-feed.js
 # Step 9: build sitemap.xml LAST — enumerates root + section + indexable
 # subsection (+ tag) pages that exist on disk by this point.
 node scripts/build-sitemap.js
+
+# Step 10: fail the build if any internal link or in-page anchor is broken.
+node scripts/check-built-links.js _site

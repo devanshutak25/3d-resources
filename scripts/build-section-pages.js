@@ -17,6 +17,7 @@ const path = require('path');
 const { execSync, execFileSync } = require('child_process');
 const catalog = require('./lib/catalog');
 const render = require('./render');
+render.setLinkMode('pages');
 const seo = require('./lib/seo-pages');
 const { slugify } = require('./lib/slugify');
 const { pageShell, SITE_URL, REPO_URL, escHtml } = require('./lib/page-shell');
@@ -49,7 +50,7 @@ const SECTION_ICONS = {
 // mirror blocks). renderSection isn't exported (it appends mirror blocks + a
 // trailing rule), so shell out to preserve the exact main-site markup.
 function renderSectionMarkdown(sectionFile) {
-  return execFileSync('node', ['scripts/render.js', sectionFile], {
+  return execFileSync('node', ['scripts/render.js', sectionFile, '--link-mode=pages'], {
     encoding: 'utf8',
     maxBuffer: 50 * 1024 * 1024
   });

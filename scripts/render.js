@@ -112,6 +112,17 @@ function loadSubEntries(sectionFile, subSlug, sectionSlug) {
 // B5: build the "See also" inline string for an entry, given the location
 // where it's currently being rendered. Lists every other location it appears
 // in (primary or mirror) as anchor links.
+// Cross-subsection links. README and index.html hold every subsection, so an
+// in-page "#anchor" works there; standalone /sections/ pages only hold their own
+// section, so they link to the target subsection page instead.
+let linkMode = 'anchor';
+function setLinkMode(mode) {
+  linkMode = mode === 'pages' ? 'pages' : 'anchor';
+}
+function subHref(sectionSlug, subSlug, anchor) {
+  return linkMode === 'pages' ? `/sections/${sectionSlug}/${subSlug}/` : `#${anchor}`;
+}
+
 function seeAlsoLinks(entry, currentLoc) {
   const dual = entry.dual_listed_in || [];
   const all = new Set([entry._primaryLoc, ...dual].filter(Boolean));
@@ -122,7 +133,7 @@ function seeAlsoLinks(entry, currentLoc) {
   for (const loc of all) {
     const meta = map.get(loc);
     if (!meta) continue;
-    parts.push(`<a href="#${meta.anchor}">${meta.sectionTitle} → ${meta.subTitle}</a>`);
+    parts.push(`<a href="${subHref(meta.sectionSlug, meta.subSlug, meta.anchor)}">${meta.sectionTitle} → ${meta.subTitle}</a>`);
   }
   if (!parts.length) return '';
   return `<small class="see-also">See also: ${parts.join(', ')}</small>`;
@@ -380,7 +391,7 @@ function renderMirrorBlocks(sectionSlug) {
     const titleHtml = escHtml(sub.title);
     lines.push('');
     lines.push(`<h3 id="${mirrorId}" data-mirror="1" tabindex="-1">${titleHtml}</h3>`);
-    lines.push(`<p class="mirror-provenance">Also in <a href="#${canonicalAnchor}">Software Reference → ${titleHtml}</a></p>`);
+    lines.push(`<p class="mirror-provenance">Also in <a href="${subHref('software-reference', sub.slug, canonicalAnchor)}">Software Reference → ${titleHtml}</a></p>`);
     lines.push('');
     lines.push(...renderSoftwareTable(software, null));
   }
@@ -625,9 +636,10 @@ function renderLite() {
 // ---- Arg parsing -----------------------------------------------------------
 
 function parseArgs(argv) {
-  const args = { mode: 'full', onlyFile: null };
+  const args = { mode: 'full', onlyFile: null, linkMode: 'anchor' };
   for (const a of argv.slice(2)) {
     if (a.startsWith('--mode=')) args.mode = a.slice('--mode='.length);
+    else if (a.startsWith('--link-mode=')) args.linkMode = a.slice('--link-mode='.length);
     else if (!a.startsWith('--')) args.onlyFile = a;
   }
   return args;
@@ -635,6 +647,7 @@ function parseArgs(argv) {
 
 function main() {
   const args = parseArgs(process.argv);
+  setLinkMode(args.linkMode);
 
   if (args.mode === 'lite') {
     process.stdout.write(renderLite());
@@ -677,7 +690,8 @@ module.exports = {
   wrapEmoji,
   githubAnchor,
   renderSubsection,
-  renderSubsectionMarkdown
+  renderSubsectionMarkdown,
+  setLinkMode
 };
 
 if (require.main === module) {
