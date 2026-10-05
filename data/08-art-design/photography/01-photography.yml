@@ -1,14 +1,15 @@
 entries:
   - name: Cambridge in Colour
-    url: http://www.cambridgeincolour.com/tutorials.htm
+    url: https://www.cambridgeincolour.com/tutorials.htm
     added_at: '2026-04-16T19:59:30.000Z'
     description: Photography tutorials on exposure, color, and composition.
     entry_type: reference
     readme_tags:
       - Fundamentals
       - Deep Dives
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    notes: Cloudflare bot challenge returns 403 to scripted fetches; site is alive. Do not auto-deprecate.
     tags:
       workflow:
         - reference
@@ -25,7 +26,7 @@ entries:
     readme_tags:
       - Lighting 101
       - Classic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -51,17 +52,17 @@ entries:
     readme_tags:
       - Studio
       - Placement Diagrams
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Fstoppers Education
-    url: https://fstoppers.com/education
+    url: https://fstoppers.com/category/education
     added_at: '2026-04-16T19:59:30.000Z'
     description: Studio lighting, portrait ratios, product photography.
     entry_type: reference
     readme_tags:
       - Studio Lighting
       - Ratios
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -78,7 +79,7 @@ entries:
     readme_tags:
       - Technical
       - Modifiers
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -95,7 +96,7 @@ entries:
     readme_tags:
       - Studio Diagrams
       - Adorama
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -109,7 +110,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Community for tutorials and workflows on high-quality photography with free-software tools.
     entry_type: community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -121,8 +122,9 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source photography community on Google+.
     entry_type: community
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    deprecated: true
     tags:
       workflow:
         - reference
@@ -130,11 +132,11 @@ entries:
         - web
     notes: Google+ shut down in 2019. Link is dead platform; flagged for review.
   - name: /r/FOSSPhotography
-    url: http://reddit.com/r/fossphotography
+    url: https://reddit.com/r/fossphotography
     added_at: '2026-04-19T17:15:03.000Z'
     description: Reddit community on free open-source software for photography.
     entry_type: community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -144,12 +146,12 @@ entries:
   - name: |-
       Femto-Photography: Visualizing Photons in Motion at a
       Trillion Frames Per Second
-    url: http://web.media.mit.edu/~raskar//trillionfps/
+    url: https://web.media.mit.edu/~raskar/trillionfps/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Raskar et al., SIGGRAPH 2012.
     entry_type: reference
     year: 2012
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:

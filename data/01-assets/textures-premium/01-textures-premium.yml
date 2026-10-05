@@ -2,7 +2,7 @@ entries:
   - name: Poliigon
     url: https://www.poliigon.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: PBR textures.
+    description: Paid library of PBR textures, HDRIs and models, with a small free selection.
     pricing: Subscription
     license: Paid
     entry_type: asset-source
@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - PBR
       - Subscription
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Quixel Megascans + Bridge
     url: https://quixel.com/
@@ -42,18 +42,18 @@ entries:
     readme_tags:
       - Scanned
       - Free with UE
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Texture Box
     url: https://texturebox.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Mixed library.
+    description: Free and premium tileable PBR textures and materials for Unity and Unreal Engine.
     license: Paid
     entry_type: marketplace
     readme_tags:
       - Mixed
       - Pro Textures
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:

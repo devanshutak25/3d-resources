@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - General
       - Online
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -18,13 +18,13 @@ entries:
   - name: MAZANOKE
     url: https://mazanoke.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Browser-based converter.
+    description: Open-source image optimizer and converter that compresses and changes formats locally in the browser.
     entry_type: tool
     license: Free
     readme_tags:
       - Browser
       - Converter
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Free Web
       - Multi-tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -50,13 +50,13 @@ entries:
   - name: CloudConvert
     url: https://cloudconvert.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 200+ formats with API.
+    description: Online file converter covering 200+ formats, with an API for automating conversions.
     entry_type: tool
     license: Freemium
     readme_tags:
       - 200+ Formats
       - API
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -67,13 +67,13 @@ entries:
   - name: Convertio
     url: https://convertio.co/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Multi-format converter.
+    description: Web-based file converter for images, video, audio, documents and other formats.
     entry_type: tool
     license: Freemium
     readme_tags:
       - Multi-format
       - Web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -89,7 +89,7 @@ entries:
     readme_tags:
       - Web
       - General
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -105,7 +105,7 @@ entries:
     readme_tags:
       - Free
       - Web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -121,7 +121,7 @@ entries:
     readme_tags:
       - 3D Import Lib
       - 40+ Formats
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -141,7 +141,7 @@ entries:
     readme_tags:
       - FBX→glTF
       - CLI
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -171,7 +171,7 @@ entries:
     readme_tags:
       - OBJ→glTF
       - PBR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: glTF Transform
     url: https://gltf-transform.dev/
@@ -182,7 +182,7 @@ entries:
     readme_tags:
       - glTF Tools
       - Optimizer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -203,7 +203,7 @@ entries:
     readme_tags:
       - glTF
       - Optimize
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -223,7 +223,7 @@ entries:
     readme_tags:
       - glTF/GLB
       - Pipeline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -243,7 +243,7 @@ entries:
     readme_tags:
       - Validator
       - Khronos
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -264,7 +264,7 @@ entries:
     readme_tags:
       - glTF Viewer
       - Web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -276,13 +276,13 @@ entries:
   - name: ImageMagick
     url: https://imagemagick.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: CLI, 200+ image formats.
+    description: Open-source command-line suite for converting, resizing and batch-editing images across 200+ formats.
     license: Open Source
     entry_type: tool
     readme_tags:
       - CLI
       - 200+ Formats
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -302,7 +302,7 @@ entries:
     readme_tags:
       - Google
       - Modern Formats
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -320,7 +320,7 @@ entries:
     readme_tags:
       - PNG/JPEG
       - Lossy
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -336,7 +336,7 @@ entries:
     readme_tags:
       - CLI
       - PNG
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -357,7 +357,7 @@ entries:
     readme_tags:
       - Audio CLI
       - Batch
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - software-reference/audio-software
@@ -390,15 +390,17 @@ entries:
     readme_tags:
       - ASWF
       - Pipeline Standard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
+    dual_listed_in:
+      - tools-pipeline-utilities/pipeline-standards
   - name: F Spy USD
     url: https://github.com/Vochsel/fspy-USD
     added_at: '2026-04-16T21:13:44.000Z'
     description: Unofficial fSpy to USD converter.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -413,12 +415,12 @@ entries:
     stale: true
     last_pushed: '2021-02-03'
   - name: Pixelicious
-    url: https://www.pixelicious.xyz/
+    url: https://www.scenario.com/features/pixelate/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Image-to-Pixel Art converter.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -428,10 +430,10 @@ entries:
   - name: Packyderm
     url: https://isometric8.itch.io/packyderm-unitypackage-extractor
     added_at: '2026-04-16T21:13:44.000Z'
-    description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
+    description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -441,13 +443,15 @@ entries:
       tech:
         - unity-plugin
   - name: Retargeting Mixamo Animation Tool
-    url: http://terribilisstudio.fr/converter
+    url: https://terribilisstudio.fr/converter
     added_at: '2026-04-19T17:15:03.000Z'
     description: Web tool to retarget Mixamo animations.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
+    notes: Tool page removed; redirects to terribilisstudio.fr home.
+    deprecated: true
     tags:
       output:
         - generalist
@@ -461,7 +465,7 @@ entries:
     description: Format conversion tool for 3D Gaussian Splatting data.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -489,15 +493,16 @@ entries:
     readme_tags:
       - USD/USDZ
       - Web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: unreachable
+    notes: TLS certificate expired as of 2026-10-05; recheck next run.
   - name: GLTF Report
     url: https://gltf.report
     added_at: '2026-04-19T17:29:43.000Z'
     description: Web app to diagnose and optimize glTF files. Inspector supports BASIS/KTX2 textures. By Don McCurdy.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -513,7 +518,7 @@ entries:
     description: A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -526,3 +531,89 @@ entries:
         - linux
       tech:
         - opensource-alt
+  - name: guc
+    url: https://github.com/pablode/guc
+    description: glTF to USD converter that keeps materials as MaterialX or UsdPreviewSurface.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+        - xr
+      tech:
+        - usd
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.421Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - USD
+    best_for: glTF to USD conversion
+  - name: CAD Exchanger
+    url: https://cadexchanger.com/
+    description: Desktop app and SDK for viewing and converting CAD files across 30+ formats.
+    pricing: Free viewer, paid Lab and SDK
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - product-viz
+        - automotive
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.422Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - CAD
+    best_for: CAD format conversion
+  - name: Unity Asset Transformer (Pixyz)
+    url: https://www.pixyz-software.com/
+    description: CAD and 3D data prep that tessellates, decimates and optimizes heavy models for real-time use.
+    pricing: $2,450/seat/yr
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - automotive
+        - product-viz
+        - archviz
+      tech:
+        - real-time
+      platform:
+        - win
+    added_at: '2026-10-05T08:51:07.425Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - CAD
+    best_for: CAD to real-time prep
+    pricing_last_verified: '2026-10-05'
+  - name: Transmutr
+    url: https://lindale.io/transmutr/
+    description: Converts FBX, OBJ, glTF and USD into SketchUp models with simplification, PBR materials and proxies.
+    pricing: From €99/yr
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.427Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - SketchUp
+    best_for: Importing models to SketchUp
+    pricing_last_verified: '2026-10-05'

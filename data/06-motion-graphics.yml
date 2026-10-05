@@ -6,10 +6,6 @@ subsections:
     title: "Motion Graphics: YouTube Channels"
     description: Motion design learning channels.
     chunks: 1
-  - slug: motion-graphics-courses
-    title: "Motion Graphics: Courses"
-    description: Structured motion graphics courses.
-    chunks: 1
   - slug: after-effects-learning
     title: "After Effects: Learning & Templates"
     description: AE expressions, templates, and workflow resources.
@@ -25,8 +21,4 @@ subsections:
   - slug: motion-graphics-tools
     title: "Motion Graphics: Tools & Utilities"
     description: MG-specific tools and utilities.
-    chunks: 1
-  - slug: video-editing-courses
-    title: "Video Editing: Courses"
-    description: Editing-specific courses.
     chunks: 1

@@ -15,6 +15,7 @@ function ghAnchor(t) {
 function main() {
   const outPath = process.argv[2] || '_site/graph.json';
   const sections = catalog.loadSections().sections;
+  const sectionSlugByFile = new Map(sections.map(m => [m.file, catalog.loadSection(m.file).slug]));
 
   // Section + subsection metadata
   const subMeta = new Map(); // key: section/sub -> {sectionSlug, subSlug, sectionTitle, subTitle, anchor}
@@ -44,6 +45,15 @@ function main() {
     nodes.push(n);
   }
 
+  // The same entry can be stored twice (e.g. one URL in two chunks), which
+  // would emit the same edge id twice and break the graph's id lookups.
+  const edgeIds = new Set();
+  function addEdge(e) {
+    if (edgeIds.has(e.id)) return;
+    edgeIds.add(e.id);
+    edges.push(e);
+  }
+
   // Section + subsection nodes + section→subsection edges
   for (const [slug, m] of sectionMeta) {
     addNode({ id: `sec:${slug}`, label: m.title, kind: 'section', anchor: m.anchor });
@@ -56,7 +66,7 @@ function main() {
       section: m.sectionSlug,
       anchor: m.anchor
     });
-    edges.push({ id: `e:sec:${m.sectionSlug}->sub:${key}`, source: `sec:${m.sectionSlug}`, target: `sub:${key}`, kind: 'contains' });
+    addEdge({ id: `e:sec:${m.sectionSlug}->sub:${key}`, source: `sec:${m.sectionSlug}`, target: `sub:${key}`, kind: 'contains' });
   }
 
   // Entry + tag nodes via catalog (gives us primary location + dual_listed_in)
@@ -67,8 +77,7 @@ function main() {
     if (e.deprecated) continue;
     if (!e.name) continue;
     // Resolve primary section slug from file
-    let primarySection = null;
-    for (const m of sections) if (m.file === sectionFile) primarySection = catalog.loadSection(m.file).slug;
+    const primarySection = sectionSlugByFile.get(sectionFile) || null;
     if (!primarySection) continue;
 
     const ek = entryKey(e);
@@ -90,7 +99,7 @@ function main() {
     // Primary location edge
     const primKey = `${primarySection}/${subSlug}`;
     if (subMeta.has(primKey)) {
-      edges.push({ id: `e:${nodeId}->sub:${primKey}`, source: nodeId, target: `sub:${primKey}`, kind: 'in' });
+      addEdge({ id: `e:${nodeId}->sub:${primKey}`, source: nodeId, target: `sub:${primKey}`, kind: 'in' });
     }
 
     // Dual-listed edges
@@ -100,7 +109,7 @@ function main() {
       const k = `${secSlug}/${subOnly}`;
       if (!subMeta.has(k)) continue;
       const eid = `e:${nodeId}->sub:${k}:dual`;
-      edges.push({ id: eid, source: nodeId, target: `sub:${k}`, kind: 'mirror' });
+      addEdge({ id: eid, source: nodeId, target: `sub:${k}`, kind: 'mirror' });
     }
 
     // Tag edges
@@ -109,7 +118,7 @@ function main() {
       for (const t of tags[ns] || []) {
         const tagId = `tag:${ns}:${t}`;
         addNode({ id: tagId, label: t, kind: 'tag', namespace: ns });
-        edges.push({ id: `e:${nodeId}->${tagId}`, source: nodeId, target: tagId, kind: 'tag' });
+        addEdge({ id: `e:${nodeId}->${tagId}`, source: nodeId, target: tagId, kind: 'tag' });
       }
     }
   }

@@ -1,6 +1,6 @@
 entries:
   - name: PFTrack
-    url: https://www.thepixelfarm.co.uk/pftrack/
+    url: https://www.pftrack.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Professional matchmoving, object tracking, mesh generation.
     license: Paid
@@ -11,15 +11,19 @@ entries:
         - film-vfx
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Matchmove
       - Pro
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
   - name: SynthEyes
-    url: https://www.ssontech.com/synovr.html
+    url: https://borisfx.com/products/syntheyes/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Camera tracking with lens distortion solving.
     license: Paid
@@ -30,10 +34,14 @@ entries:
         - film-vfx
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Lens Distortion
       - Pro
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -49,10 +57,14 @@ entries:
         - film-vfx
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - High-End
       - Studio Standard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -69,10 +81,37 @@ entries:
         - opensource-alt
       workflow:
         - fx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Free
       - Blender Bridge
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
+  - name: GeoTracker (KeenTools)
+    url: https://keentools.io/products/geotracker-for-blender
+    description: Geometry-based object and camera tracking with texture projection, for Blender, Nuke, After Effects and Houdini.
+    pricing: From $15.99/mo
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - match-move
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.434Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Subscription
+      - Blender
+    best_for: Object and camera tracking
+    pricing_last_verified: '2026-10-05'

@@ -2,7 +2,7 @@ entries:
   - name: School of Motion (YouTube)
     url: https://www.youtube.com/@schoolofmotion
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design education.
+    description: School of Motion YouTube channel with motion design tutorials and talks.
     entry_type: channel
     license: Free
     tags:
@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Mograph Education
       - Courses
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Toniko Pantoja
     url: https://www.youtube.com/@TonikoPantoja
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Industry Insight
       - Technique
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -36,7 +36,7 @@ entries:
   - name: Alex Kunchevsky
     url: https://www.youtube.com/@kunchevsky
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design.
+    description: YouTube channel of Alex Kunchevsky with motion design and Procreate animation tutorials.
     entry_type: channel
     license: Free
     tags:
@@ -49,7 +49,7 @@ entries:
     readme_tags:
       - Motion Design
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Alan Becker Tutorials
     url: https://www.youtube.com/@AlanBeckerTutorials
@@ -60,7 +60,7 @@ entries:
     readme_tags:
       - Beginner Friendly
       - Animation Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -72,13 +72,13 @@ entries:
   - name: Olof Storm
     url: https://www.youtube.com/@OlofStorm
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Animation and motion.
+    description: YouTube channel of Olof Storm with videos about animation and art.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion
       - Animation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -96,7 +96,7 @@ entries:
     readme_tags:
       - Approachable
       - Character Anim
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -111,7 +111,7 @@ entries:
     description: 'Unreal Engine cinematics: animated decals, cinematic environments, faster filmmaking.'
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -127,7 +127,7 @@ entries:
     description: Interactive web explainer of the 12 principles of animation.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -136,3 +136,218 @@ entries:
         - web
       skill:
         - beginner
+  - name: AJ Picard
+    url: https://www.youtube.com/channel/UCVRJy3snLdtIgSrPQZyXLtg
+    added_at: '2026-04-19T19:05:38.000Z'
+    description: Complex background animations using SwiftUI & Rive.App.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - SwiftUI
+      - Rive
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      skill:
+        - intermediate
+  - name: Pointer Tracking Animation Implemented in Webflow
+    url: https://www.youtube.com/@jeffamcavoy
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: How to set up a Rive file with pointer tracking for Webflow implementation.
+    entry_type: channel
+    license: Free
+    readme_tags:
+      - Rive
+      - Webflow
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+  - name: Build an animated app
+    url: https://designcode.io/courses/swiftui-rive
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions.
+    entry_type: tutorial
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - ios
+        - web
+      skill:
+        - beginner
+  - name: Flutter Web and Rive Animation Tutorial
+    url: https://dev.to/suhavi/flutter-web-and-rive-animation-tutorial-5f5k
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: Beginner to intermediate tutorial for setting up a Flutter web app with Rive animations.
+    entry_type: tutorial
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+  - name: SwiftUI Animated Login Screen using Rive
+    url: https://www.youtube.com/@HarsivoCareerStack
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: Teddy Bear Animation, create an animated and interactive Login screen.
+    entry_type: channel
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+      skill:
+        - intermediate
+  - name: Create animated UI in Unity using Rive and Noesis
+    url: https://www.youtube.com/@Rive_app
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: Tutorial on how to add Rive to your Unity games using Noesis.
+    entry_type: channel
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+      skill:
+        - intermediate
+  - name: Adding Animation to Buttons in Flutter using Rive
+    url: https://www.youtube.com/@anantpro
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: Simple Animated Menu Toggle Button in Rive.
+    entry_type: channel
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+      skill:
+        - beginner
+  - name: Rive Flutter Animation
+    url: https://flutterservice.com/rive-flutter-animation/
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: Best approach for animation in 2023.
+    entry_type: tutorial
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Optimization techniques
+    url: https://pixelpoint.io/blog/rive-react-optimizations/
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: Techniques to optimize Rive animations in React apps.
+    entry_type: tutorial
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: 'The Power of Rive: A New Standard for Interactive Animations'
+    url: https://plumcatstudio.com/blog/the-power-of-rive-a-new-standard-for-interactive-animations
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: '"We''ve been playing around with this awesome interactive animation tool called Rive, and it''s blown us away!".'
+    entry_type: reference
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Flutter SVG Animations with Rive (Reso Coder)
+    url: https://resocoder.com/2021/08/27/flutter-svg-animations-with-rive/
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: '- Sprinkling some beautiful animations across your app.'
+    entry_type: tutorial
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Riveflow
+    url: https://riveflow.webflow.io/
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: Learn how to create next-level interactive animations for Webflow websites with Rive.
+    entry_type: tutorial
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+      skill:
+        - intermediate
+  - name: Create Rive-ting Animations
+    url: https://www.viget.com/articles/create-rive-animations/
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: '"Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."'
+    entry_type: tutorial
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Flutter Community
+    url: https://www.youtube.com/@FlutterCommunity
+    added_at: '2026-04-19T19:05:38.000Z'
+    description: Demonstrating Rive on the Flutter Community live stream for the 2022 Flutter Puzzle Hack.
+    entry_type: channel
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web
+  - name: Plant Blog
+    url: https://plant-blog-rive.vercel.app/
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: NextJS blog template with Rive to show animated blog thumbnails and syncing scroll to Rive animations deployed on Vercel. Code.
+    entry_type: reference
+    license: Open Source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - animation
+      platform:
+        - web

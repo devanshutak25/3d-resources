@@ -30,10 +30,6 @@ subsections:
     title: "Houdini: Rigging & Animation (KineFX)"
     description: KineFX rigging, animation, and crowds.
     chunks: 1
-  - slug: houdini-grooming
-    title: "Houdini: Grooming"
-    description: Hair and fur grooming workflows.
-    chunks: 1
   - slug: houdini-more-tutorials
     title: "Houdini: Miscellaneous Tutorials"
     description: Additional Houdini tutorials across topics.

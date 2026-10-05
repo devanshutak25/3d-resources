@@ -4,11 +4,13 @@
 // scripts/build-sitemap.js so it can include subsection + tag pages.)
 
 const { marked } = require('marked');
+require('./lib/html-safe').useSafeLinks(marked);
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const catalog = require('./lib/catalog');
 const { labelTableCells } = require('./lib/table-labels');
+const { safeJsonLd } = require('./lib/html-safe');
 
 const SITE_URL = 'https://3d.devanshutak.xyz';
 const REPO_URL = 'https://github.com/devanshutak25/3d-resources';
@@ -24,7 +26,7 @@ function lastUpdatedDate() {
   }
 }
 const TITLE = '3D Resources: Software, Assets, Tutorials & Tools for 3D Artists';
-const DESCRIPTION = 'Curated hub of 1,300+ free and paid 3D resources: textures, HDRIs, models, tutorials, render engines, USD, VFX, and AI/ML. Filter by license and workflow.';
+const DESCRIPTION = `Curated hub of ${catalog.publicCountLabel()} free and paid 3D resources: textures, HDRIs, models, tutorials, render engines, USD, VFX, and AI/ML. Filter by license and workflow.`;
 
 // GitHub-flavored anchor slugify. Differs from a naive slug in two ways:
 //   1. `&amp;` (and bare `&`) is removed without inserting a dash, but the
@@ -35,14 +37,8 @@ const DESCRIPTION = 'Curated hub of 1,300+ free and paid 3D resources: textures,
 //      resolve to the same target.
 //   2. `\s` (not `\s+`) is used for the final replace so consecutive spaces
 //      become consecutive dashes — same reason.
-function slugify(text) {
-  return text
-    .toLowerCase()
-    .replace(/&amp;/g, '')
-    .replace(/[^\w\s-]/g, '')
-    .trim()
-    .replace(/\s/g, '-');
-}
+// Entity-decoding id function shared with the parity test (scripts/lib/heading-id.js).
+const { headingId: slugify } = require('./lib/heading-id');
 
 // --- Load section structure for SEO enumeration ---
 function loadSections() {
@@ -312,7 +308,7 @@ const page = `<!DOCTYPE html>
 
   <!-- Schema.org / structured data -->
   <script type="application/ld+json">
-${JSON.stringify(jsonLd, null, 2)}
+${safeJsonLd(jsonLd)}
   </script>
 
   <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">

@@ -8,7 +8,7 @@
   "additionalProperties": false,
   "properties": {
     "name": { "type": "string", "minLength": 1 },
-    "url": { "type": "string", "format": "uri" },
+    "url": { "type": "string", "format": "uri", "pattern": "^https?://" },
     "description": { "type": "string", "minLength": 1, "maxLength": 300 },
     "added_at": {
       "type": "string",

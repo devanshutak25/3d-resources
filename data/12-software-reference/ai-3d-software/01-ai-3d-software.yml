@@ -12,10 +12,12 @@ entries:
         - pbr
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Production-Reliable
       - PBR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -31,10 +33,12 @@ entries:
         - ai-generative
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Clean Quads
       - Sculpt-level
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -50,10 +54,12 @@ entries:
         - ai-generative
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - 10B Params
       - Free Tier
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -71,10 +77,13 @@ entries:
         - opensource-alt
       workflow:
         - modeling
+      platform:
+        - win
+        - linux
     readme_tags:
       - Microsoft
       - PBR + Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -90,10 +99,12 @@ entries:
         - ai-generative
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Luma
       - Integrated
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -109,15 +120,17 @@ entries:
         - ai-generative
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Hybrid AI+Artist
       - Production
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
   - name: Spline AI
-    url: https://spline.design/
+    url: https://spline.design/ai-generate
     added_at: '2026-04-16T19:59:30.000Z'
     description: Generate 3D objects and textures from text prompts in-editor.
     license: Freemium
@@ -128,13 +141,15 @@ entries:
         - ai-generative
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - In-Editor
       - Text→3D
-    url_last_verified: '2026-09-01'
-    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
+    url_last_verified: '2026-10-05'
+    url_status: ok
   - name: Unique3D
     url: https://github.com/AiuniAI/Unique3D
     added_at: '2026-04-16T19:59:30.000Z'
@@ -148,10 +163,13 @@ entries:
         - opensource-alt
       workflow:
         - modeling
+      platform:
+        - win
+        - linux
     readme_tags:
       - Single-Image
       - NeurIPS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -168,10 +186,13 @@ entries:
         - opensource-alt
       workflow:
         - modeling
+      platform:
+        - win
+        - linux
     readme_tags:
       - Fast
       - Textured Mesh
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -188,10 +209,13 @@ entries:
         - opensource-alt
       workflow:
         - modeling
+      platform:
+        - win
+        - linux
     readme_tags:
       - Fast
       - Image→3D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -208,10 +232,13 @@ entries:
         - opensource-alt
       workflow:
         - modeling
+      platform:
+        - win
+        - linux
     readme_tags:
       - Open Source
       - Fast
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -228,10 +255,13 @@ entries:
         - opensource-alt
       workflow:
         - modeling
+      platform:
+        - win
+        - linux
     readme_tags:
       - Stability AI
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -248,10 +278,13 @@ entries:
         - opensource-alt
       workflow:
         - modeling
+      platform:
+        - win
+        - linux
     readme_tags:
       - Coarse→Refined
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2024-03-10'
@@ -270,10 +303,12 @@ entries:
         - procedural
       workflow:
         - modeling
+      platform:
+        - web
     readme_tags:
       - Procedural
       - Parametric
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
@@ -297,7 +332,314 @@ entries:
     readme_tags:
       - Previz
       - No-code
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
+  - name: Hunyuan3D 2.1 (Tencent)
+    url: https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1
+    description: Open-weight image-to-3D model that generates a mesh and paints PBR textures.
+    pricing: Free weights
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+        - pbr
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    notes: Tencent community license excludes the EU, UK and South Korea.
+    added_at: '2026-10-05T08:51:06.963Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Open Weights
+    best_for: Image to textured 3D
+  - name: SAM 3D Objects (Meta)
+    url: https://github.com/facebookresearch/sam-3d-objects
+    description: Meta model that rebuilds a textured 3D object from one image and a mask.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+        - xr
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.968Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Meta
+    best_for: Single-image object reconstruction
+  - name: Step1X-3D
+    url: https://github.com/stepfun-ai/Step1X-3D
+    description: StepFun open model that generates textured 3D assets from images in separate geometry and texture stages.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.972Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Image to 3D
+    best_for: Textured asset generation
+  - name: Direct3D-S2
+    url: https://github.com/DreamTechAI/Direct3D-S2
+    description: Open image-to-3D model using sparse attention for high-resolution meshes.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.975Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Image to 3D
+    best_for: High-res mesh generation
+  - name: TripoSG
+    url: https://github.com/VAST-AI-Research/TripoSG
+    description: VAST open image-to-3D shape model built on rectified flow.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.978Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Image to 3D
+    best_for: Image to 3D shapes
+  - name: PartPacker (NVIDIA)
+    url: https://github.com/NVlabs/PartPacker
+    description: NVIDIA model that generates a 3D object from one image as separate editable parts.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.981Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - NVIDIA
+    best_for: Part-based 3D generation
+  - name: Hi3D
+    url: https://www.hi3d.ai/
+    description: Web image-to-3D generator with watertight meshes, 8K PBR textures and 3D-print part splitting. Formerly Hitem3D.
+    pricing: Free credits, paid plans
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - product-viz
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - pbr
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.984Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Web
+    best_for: Print-ready AI models
+    pricing_last_verified: '2026-10-05'
+  - name: 3D AI Studio
+    url: https://www.3daistudio.com/
+    description: Web app that runs several 3D generation models for text-to-3D, image-to-3D, texturing and quad remeshing.
+    pricing: Free plan, Studio 9/mo, Pro 9/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - texturing
+        - retopo
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.986Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Multi-Model
+    best_for: Comparing 3D generators
+    pricing_last_verified: '2026-10-05'
+  - name: Neural4D
+    url: https://www.neural4d.com/
+    description: Web generator that turns text, images or video into watertight 3D models with AI texturing and rigging.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - texturing
+        - rigging
+      output:
+        - games
+        - product-viz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.988Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Web
+    best_for: Rigged AI 3D models
+  - name: HunyuanWorld 1.0 (Tencent)
+    url: https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0
+    description: Open model that generates explorable mesh-based 3D scenes from text or an image.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - games
+        - xr
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    notes: Tencent community license excludes the EU, UK and South Korea.
+    added_at: '2026-10-05T08:51:06.990Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Tencent
+    best_for: Explorable 3D scenes
+  - name: Lyra (NVIDIA)
+    url: https://github.com/nv-tlabs/lyra
+    description: NVIDIA model that generates explorable 3D Gaussian scenes from one image or a video.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - xr
+        - film-vfx
+      platform:
+        - linux
+      tech:
+        - ai-generative
+        - gaussian-splatting
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.992Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - NVIDIA
+    best_for: Image to 3D scenes
+  - name: Marble (World Labs)
+    url: https://marble.worldlabs.ai/
+    description: Web app that generates persistent 3D worlds from text, images or video, exported as Gaussian splats or meshes.
+    pricing: Free tier, from $20/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - games
+        - film-vfx
+        - xr
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - gaussian-splatting
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    added_at: '2026-10-05T08:51:06.995Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Gaussian Splats
+    best_for: AI world generation

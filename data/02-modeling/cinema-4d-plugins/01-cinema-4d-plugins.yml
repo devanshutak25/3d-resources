@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - VFX Tutorials
       - Andrew Kramer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: AEC4D
     url: https://aescripts.com/aec4d/
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - AE Bridge
       - Workflow
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -36,3 +36,52 @@ entries:
         - mac
       tech:
         - c4d-plugin
+  - name: X-Particles
+    url: https://insydium.ltd/products/x-particles/
+    description: Cinema 4D particle and VFX system for smoke, fire, fluids, grains and cloth.
+    pricing: INSYDIUM Fused subscription
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - motion-graphics
+        - film-vfx
+      tech:
+        - physics
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.091Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Subscription
+      - Cinema 4D
+    best_for: Particle and fluid FX
+  - name: Forester
+    url: https://www.3dquakers.com/
+    description: Cinema 4D plugin that generates trees, plants and rocks and scatters them over terrain.
+    pricing: $350
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - motion-graphics
+      tech:
+        - procedural
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.091Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Cinema 4D
+    best_for: Tree and plant generation

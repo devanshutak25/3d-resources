@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - styleguide
       - unreal
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - unreal
       - plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -51,7 +51,7 @@ entries:
     readme_tags:
       - locomotion
       - animation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -63,6 +63,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
   - name: GASP ALS
     url: https://github.com/PolygonHive/GASP-ALS
     added_at: '2026-04-19T17:29:43.000Z'
@@ -72,7 +74,7 @@ entries:
     readme_tags:
       - animation
       - locomotion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -84,6 +86,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
   - name: LeapUnreal
     url: https://github.com/leapmotion/leapunreal
     added_at: '2026-04-19T17:29:43.000Z'
@@ -93,7 +97,7 @@ entries:
     readme_tags:
       - leap-motion
       - sdk
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -114,7 +118,7 @@ entries:
     readme_tags:
       - myo
       - input
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -138,7 +142,7 @@ entries:
     readme_tags:
       - mobile
       - input
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -160,7 +164,7 @@ entries:
     readme_tags:
       - morph-targets
       - animation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -172,6 +176,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
   - name: Ps Web Server
     url: https://github.com/PushkinStudio/PsWebServer
     added_at: '2026-04-19T17:29:43.000Z'
@@ -181,7 +187,7 @@ entries:
     readme_tags:
       - web-server
       - networking
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -202,7 +208,7 @@ entries:
     readme_tags:
       - ios
       - replay
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -223,7 +229,7 @@ entries:
     readme_tags:
       - facebook
       - mobile
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -243,7 +249,7 @@ entries:
     readme_tags:
       - gamelift
       - sdk
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -266,7 +272,7 @@ entries:
     readme_tags:
       - animation
       - compression
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -278,6 +284,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
     stale: true
     last_pushed: '2023-12-09'
   - name: KawaiiPhysics
@@ -289,7 +297,7 @@ entries:
     readme_tags:
       - physics
       - secondary-motion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -301,6 +309,9 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
+        - simulation
   - name: UnrealLive2D
     url: https://github.com/Arisego/UnrealLive2D
     added_at: '2026-04-19T17:29:43.000Z'
@@ -310,7 +321,7 @@ entries:
     readme_tags:
       - live2d
       - 2d
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -322,6 +333,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - animation
     archived: true
   - name: Articy Importer For Unreal
     url: https://github.com/ArticySoftware/ArticyImporterForUnreal
@@ -332,7 +345,7 @@ entries:
     readme_tags:
       - articy
       - narrative
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -353,7 +366,7 @@ entries:
     readme_tags:
       - geospatial
       - cesium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -374,7 +387,7 @@ entries:
     readme_tags:
       - runtime-mesh
       - procedural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -386,6 +399,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: PluginTemplate
     url: https://github.com/Sythenz/PluginTemplate
     added_at: '2026-04-19T17:29:43.000Z'
@@ -395,7 +410,7 @@ entries:
     readme_tags:
       - template
       - boilerplate
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -418,7 +433,7 @@ entries:
     readme_tags:
       - mysql
       - database
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -441,7 +456,7 @@ entries:
     readme_tags:
       - sqlite
       - database
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -464,7 +479,7 @@ entries:
     readme_tags:
       - aurora
       - shader
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -476,6 +491,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - fx
     stale: true
     last_pushed: '2020-12-16'
   - name: NiagaraUIRenderer
@@ -487,7 +504,7 @@ entries:
     readme_tags:
       - niagara
       - ui
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -499,6 +516,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - fx
   - name: UE5 Stylized Post Process
     url: https://github.com/ymt3d/UE5-StylizedPostProcess
     added_at: '2026-04-19T17:29:43.000Z'
@@ -508,7 +527,7 @@ entries:
     readme_tags:
       - stylized
       - post-process
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -520,6 +539,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - rendering
   - name: OceanProject
     url: https://github.com/UE4-OceanProject/OceanProject
     added_at: '2026-04-19T17:29:43.000Z'
@@ -529,7 +550,7 @@ entries:
     readme_tags:
       - ocean
       - simulation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -541,6 +562,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - simulation
     stale: true
     last_pushed: '2021-05-26'
   - name: Runtime Mesh Component
@@ -552,7 +575,7 @@ entries:
     readme_tags:
       - runtime-mesh
       - procedural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -564,6 +587,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: Greebler
     url: https://github.com/alexismorin/Greebler
     added_at: '2026-04-19T17:29:43.000Z'
@@ -573,7 +598,7 @@ entries:
     readme_tags:
       - greeble
       - scatter
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -585,6 +610,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2019-05-13'
   - name: cashgenUE
@@ -596,7 +623,7 @@ entries:
     readme_tags:
       - terrain
       - procedural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -608,6 +635,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: OpenLand
     url: https://github.com/GameDev4K/unreal-open-land
     added_at: '2026-04-19T17:29:43.000Z'
@@ -617,7 +646,7 @@ entries:
     readme_tags:
       - landscape
       - auto-material
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -629,6 +658,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - material-authoring
   - name: DungeonGenerator
     url: https://github.com/orfeasel/DungeonGenerator
     added_at: '2026-04-19T17:29:43.000Z'
@@ -638,7 +669,7 @@ entries:
     readme_tags:
       - dungeon
       - procedural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -650,6 +681,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: UE4 Custom Gravity Plugin
     url: https://github.com/mhousse1247/UE4-CustomGravityPlugin
     added_at: '2026-04-19T17:29:43.000Z'
@@ -659,7 +692,7 @@ entries:
     readme_tags:
       - gravity
       - physics
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -680,7 +713,7 @@ entries:
     readme_tags:
       - gas
       - shooter
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -701,7 +734,7 @@ entries:
     readme_tags:
       - inventory
       - rpg
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -724,7 +757,7 @@ entries:
     readme_tags:
       - radar
       - hud
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -747,7 +780,7 @@ entries:
     readme_tags:
       - stats
       - rpg
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -770,7 +803,7 @@ entries:
     readme_tags:
       - vehicle
       - physics
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -793,7 +826,7 @@ entries:
     readme_tags:
       - melee
       - combat
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -814,7 +847,7 @@ entries:
     readme_tags:
       - ghost-mesh
       - shader
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -826,6 +859,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - fx
     stale: true
     last_pushed: '2017-03-11'
   - name: CensoredUE4
@@ -837,7 +872,7 @@ entries:
     readme_tags:
       - censor
       - blueprint
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -860,7 +895,7 @@ entries:
     readme_tags:
       - computer-vision
       - research
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -881,7 +916,7 @@ entries:
     readme_tags:
       - opencl
       - gpu
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -905,7 +940,7 @@ entries:
     readme_tags:
       - download
       - runtime
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -927,7 +962,7 @@ entries:
     readme_tags:
       - audio
       - runtime
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -949,7 +984,7 @@ entries:
     readme_tags:
       - mesh-import
       - runtime
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -972,7 +1007,7 @@ entries:
     readme_tags:
       - localization
       - csv
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -995,7 +1030,7 @@ entries:
     readme_tags:
       - tensorflow
       - ml
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1016,7 +1051,7 @@ entries:
     readme_tags:
       - llama
       - llm
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1037,7 +1072,7 @@ entries:
     readme_tags:
       - mobile
       - utils
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1059,7 +1094,7 @@ entries:
     readme_tags:
       - android
       - jni
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1079,7 +1114,7 @@ entries:
     readme_tags:
       - modding
       - ugc
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

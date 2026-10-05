@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Courses
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -28,7 +28,7 @@ entries:
     readme_tags:
       - Returned 2024
       - Godot Focus
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - RPG/Action
       - Tutorials
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -60,7 +60,6 @@ entries:
         - godot
       platform:
         - web
-    deprecated: true
   - name: KidsCanCode Godot Recipes
     url: https://kidscancode.org/godot_recipes/4.x/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -79,7 +78,7 @@ entries:
     readme_tags:
       - Beginner
       - Recipes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GDScript.com
     url: https://gdscript.com/
@@ -89,7 +88,7 @@ entries:
     readme_tags:
       - Interactive
       - GDScript
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -111,7 +110,7 @@ entries:
     readme_tags:
       - Challenges
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -126,12 +125,12 @@ entries:
   - name: DevDuck
     url: https://www.youtube.com/@DevDuck
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Dev logs and tutorials.
+    description: YouTube channel of DevDuck documenting indie game development with devlogs and tutorials.
     entry_type: channel
     readme_tags:
       - Devlogs
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -146,12 +145,12 @@ entries:
   - name: The Shaggy Dev
     url: https://www.youtube.com/@TheShaggyDev
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Godot-focused tutorials.
+    description: YouTube channel with Godot tutorials on game programming patterns.
     entry_type: channel
     readme_tags:
       - Godot Focus
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -172,7 +171,7 @@ entries:
     readme_tags:
       - Godot
       - VR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:

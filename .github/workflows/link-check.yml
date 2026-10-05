@@ -13,11 +13,12 @@ jobs:
   link-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
-          node-version: 20
-      - run: npm install js-yaml
+          node-version: 22
+          cache: npm
+      - run: npm ci
       # check-links.js names its report with a UTC date (new Date().toISOString()),
       # so the path must be computed here in a shell step. A `$(date)` inside a
       # `with:` value is NOT expanded (no shell runs there) and silently points at
@@ -28,19 +29,18 @@ jobs:
           node scripts/check-links.js
           echo "report=_maintenance/link-check-$(date -u +%Y-%m-%d).md" >> "$GITHUB_OUTPUT"
       - name: Regenerate README from updated data
-        run: |
-          npm install marked
-          node scripts/render.js > README.md
+        run: node scripts/render.js > README.md
       - name: Commit verification timestamps + link status
         run: |
           git config user.name "link-check-bot"
           git config user.email "link-check-bot@users.noreply.github.com"
           git add data/ README.md
           git diff --staged --quiet || git commit -m "chore(maintenance): monthly link check $(date +%Y-%m-%d)"
-          git push || true
+          git pull --rebase origin main
+          git push
       - name: Open issue with broken/redirect summary
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
-          title: "Link check report — ${{ github.run_id }}"
+          title: "Link check report: ${{ github.run_id }}"
           content-filepath: ${{ steps.linkcheck.outputs.report }}
           labels: maintenance,link-check

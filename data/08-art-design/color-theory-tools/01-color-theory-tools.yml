@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Palettes
       - Curated
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -18,13 +18,13 @@ entries:
   - name: Coolors
     url: https://coolors.co/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Fast palette generator.
+    description: Web app that generates color palettes and exports them in several formats.
     license: Freemium
     entry_type: tool
     readme_tags:
       - Generator
       - Fast
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -47,18 +47,18 @@ entries:
     readme_tags:
       - Pixel Art
       - Curated
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: WebGradients
     url: https://webgradients.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Gradient library.
+    description: Collection of free CSS gradients you can copy for web and design use.
     license: Free
     entry_type: asset-source
     readme_tags:
       - Gradients
       - Web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -74,7 +74,7 @@ entries:
     readme_tags:
       - Experimental
       - Gradients
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - AI Palettes
       - Brand
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Adobe Color
     url: https://color.adobe.com/explore
@@ -108,7 +108,7 @@ entries:
     readme_tags:
       - Color Wheel
       - Harmonies
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -118,13 +118,13 @@ entries:
   - name: Canva Color Palettes
     url: https://www.canva.com/colors/color-palettes/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pre-made palettes.
+    description: Canva library of ready-made color palettes with hex codes.
     license: Free
     entry_type: asset-source
     readme_tags:
       - Palettes
       - Canva
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -140,7 +140,7 @@ entries:
     readme_tags:
       - Classic
       - Schemes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -156,7 +156,7 @@ entries:
     readme_tags:
       - Scales
       - Systematic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -172,7 +172,7 @@ entries:
     readme_tags:
       - Interactive
       - Training
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -190,7 +190,7 @@ entries:
     readme_tags:
       - Polar Palettes
       - Esoteric
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -215,15 +215,16 @@ entries:
     readme_tags:
       - Pixel Art
       - Fast
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    deprecated: true
   - name: Swatchr
     url: https://github.com/jknightdoeswork/swatchr
     added_at: '2026-04-19T17:15:03.000Z'
     description: A color palette management system for Unity.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -252,7 +253,7 @@ entries:
         - web
     readme_tags:
       - Color
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Randoma11y
     url: https://randoma11y.com/
@@ -268,5 +269,5 @@ entries:
     readme_tags:
       - Color
       - Accessibility
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - General 3D
       - Discord
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - General 3D
       - Discord
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -36,21 +36,7 @@ entries:
     readme_tags:
       - Multi-DCC
       - Discord
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-  - name: Substance Share
-    url: https://share.substance3d.com/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Free exchange platform for the Substance community. User-made materials, filters, and assets.
-    entry_type: community
-    license: Free
-    readme_tags:
-      - Substance
-      - Exchange
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -64,7 +50,7 @@ entries:
     readme_tags:
       - News
       - CG
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -78,7 +64,7 @@ entries:
     readme_tags:
       - News
       - Europe
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -92,7 +78,7 @@ entries:
     readme_tags:
       - News
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -106,7 +92,7 @@ entries:
     readme_tags:
       - 3D Education
       - Character Art
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -122,7 +108,7 @@ entries:
     readme_tags:
       - Freelance
       - Skool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -136,7 +122,7 @@ entries:
     readme_tags:
       - GAN Papers
       - Reading Club
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -152,7 +138,7 @@ entries:
     readme_tags:
       - AI Art
       - Prompts
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -160,7 +146,7 @@ entries:
       tech:
         - ai-generative
   - name: The Code Editor
-    url: https://blenderartists.org/t/how-would-you-show-some-love-for-the-blender-text-editor/1163857
+    url: https://blenderartists.org/t/essential-text-editor-add-ons-for-coders/1163857
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender Artists thread on improving the Text Editor and sharing add-ons that ease coding in Blender.
     entry_type: community
@@ -168,7 +154,7 @@ entries:
     readme_tags:
       - Blender Forum
       - Scripting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -178,7 +164,7 @@ entries:
       tech:
         - blender
   - name: Blenderartists/python Support
-    url: https://blenderartists.org/c/coding/python-support/19
+    url: https://blenderartists.org/c/support/python-support/19
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender Artists category for Python and bpy scripting questions.
     entry_type: community
@@ -186,7 +172,7 @@ entries:
     readme_tags:
       - Blender
       - Python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -196,7 +182,7 @@ entries:
       tech:
         - blender
   - name: devtalk/python
-    url: https://devtalk.blender.org/c/python/6
+    url: https://devtalk.blender.org/c/other-topics/python/6
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender devtalk category for using and developing the Blender Python API, for Blender itself and add-ons.
     entry_type: community
@@ -204,7 +190,7 @@ entries:
     readme_tags:
       - Blender
       - Python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -219,7 +205,7 @@ entries:
     description: Blender Q&A community on Stack Exchange.
     entry_type: community
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -232,7 +218,7 @@ entries:
     description: Awesome list of Blender addons and resources.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -245,7 +231,7 @@ entries:
     description: Blender development hub. Links to the DevTalk forum and the developers blog.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -260,7 +246,7 @@ entries:
     description: Weekly newsletter with articles and lessons on Blender and 3D.
     license: Free
     entry_type: channel
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -273,7 +259,7 @@ entries:
     description: Official Blender chat server for artists and developers.
     license: Free
     entry_type: community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -286,7 +272,7 @@ entries:
     description: Yearly Blender Conference in Amsterdam. Talks, workshops, and community meetups.
     license: Free
     entry_type: community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -296,10 +282,10 @@ entries:
   - name: fb/blender
     url: https://fb.com/groups/2207257375/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Blender Facebook group.
+    description: Facebook group where Blender users share renders, ask questions and post tutorials.
     license: Free
     entry_type: community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -307,12 +293,12 @@ entries:
       tech:
         - blender
   - name: SculptJanuary
-    url: https://www.cgboost.com/challenges
+    url: https://community.cgboost.com/c/challenge/
     added_at: '2026-04-19T17:15:03.000Z'
     description: CG Boost sculpting challenge. 31 days, 31 topics.
     license: Free
     entry_type: community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -330,7 +316,7 @@ entries:
     readme_tags:
       - Blender
       - Discord
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -346,7 +332,7 @@ entries:
     readme_tags:
       - Blender Fork
       - UI
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -362,7 +348,7 @@ entries:
     readme_tags:
       - Blender
       - Discord
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -378,7 +364,7 @@ entries:
     readme_tags:
       - Blender
       - Tech Art
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -394,7 +380,7 @@ entries:
     readme_tags:
       - 3D/VFX
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -410,7 +396,7 @@ entries:
     readme_tags:
       - Blender
       - Concept Art
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -428,7 +414,7 @@ entries:
     readme_tags:
       - Blender
       - NPR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -448,7 +434,7 @@ entries:
     readme_tags:
       - Blender
       - Procedural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -464,7 +450,7 @@ entries:
     readme_tags:
       - 3D
       - Mentorship
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -480,7 +466,7 @@ entries:
     readme_tags:
       - Blender
       - Skool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -496,7 +482,7 @@ entries:
     readme_tags:
       - Plasticity
       - Skool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:

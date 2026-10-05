@@ -5,7 +5,7 @@ entries:
     description: Addon for remote-debugging Blender from VS Code or Visual Studio.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -28,7 +28,7 @@ entries:
     description: Python scripting API for Blender Geometry Nodes, making node trees easier to build and share.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - Physics Sim
       - Cloth/Hair/Soft Body
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: CharMorph
     url: https://blenderartists.org/t/charmorph-character-creation-tool-mb-lab-based/1252543
@@ -76,7 +76,7 @@ entries:
     description: Open source character creation tool for Blender, a rewrite of the now-unmaintained MB-Lab.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -97,7 +97,7 @@ entries:
     description: Automatically rotates a sun to match the brightest point in an HDRI environment texture.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -119,7 +119,7 @@ entries:
     description: Geometry Nodes addon for generating complex pipe layouts in Blender.
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -143,7 +143,7 @@ entries:
     description: Turns any low-poly mesh into customizable terrain like mountains, valleys and islands in Blender.
     entry_type: plugin
     license: Paid
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -166,7 +166,7 @@ entries:
     description: Create textures from GLSL fragment shaders in Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -189,7 +189,7 @@ entries:
     description: Streamlines texture baking in Blender.
     license: Paid
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -209,7 +209,7 @@ entries:
     description: Quickly switch alpha textures for sculpt brushes in Blender.
     license: Free
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -224,12 +224,12 @@ entries:
         - mac
         - linux
   - name: Poliigon Blender Addon
-    url: https://help.poliigon.com/en/articles/6342599
+    url: https://help.poliigon.com/en/articles/6342599-poliigon-blender-addon
     added_at: '2026-04-19T17:15:03.000Z'
     description: Browse, download and import Poliigon textures, models and HDRs from inside Blender, with material generation from texture sets.
     entry_type: plugin
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -249,7 +249,7 @@ entries:
     description: One-click texture baking UI in the Blender 3D viewport.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -272,7 +272,7 @@ entries:
     description: One-click PBR node setup in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -296,7 +296,7 @@ entries:
     description: Bake PBR textures from the Principled BSDF in a few clicks.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -320,7 +320,7 @@ entries:
     description: Manage texture layers for EEVEE and Cycles in Blender.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -336,7 +336,7 @@ entries:
         - mac
         - linux
   - name: MPFB
-    url: http://static.makehumancommunity.org/mpfb.html
+    url: https://static.makehumancommunity.org/mpfb.html
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open source human generator for Blender, a full rewrite of MakeHuman as an addon.
     entry_type: plugin
@@ -344,7 +344,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Human Gen
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -366,7 +366,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Welds
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -388,7 +388,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Array
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -410,7 +410,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Mesh Repair
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -432,7 +432,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Physics Drop
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -454,7 +454,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Archviz
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -476,7 +476,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Rigging
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -498,7 +498,7 @@ entries:
     readme_tags:
       - Blender Addon
       - UV Tools
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -521,7 +521,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Baking
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -544,7 +544,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Collision
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -566,7 +566,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Collaboration
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -587,7 +587,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Theme
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -607,7 +607,7 @@ entries:
     readme_tags:
       - Blender Addon
       - LOD
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -624,7 +624,7 @@ entries:
     description: Typewriter text animation for font objects in Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -646,7 +646,7 @@ entries:
     description: Font management inside Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -659,12 +659,12 @@ entries:
         - mac
         - linux
   - name: Engraver
-    url: https://gumroad.com/l/qOyVO
+    url: https://johnniewooker.gumroad.com/l/qOyVO
     added_at: '2026-04-19T17:15:03.000Z'
     description: Carves decals into 3D models in Blender.
     license: Paid
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -683,7 +683,7 @@ entries:
     description: Blender plugins to view 3D models from World of Tanks.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -697,12 +697,12 @@ entries:
       output:
         - games
   - name: FaceBuilder
-    url: https://www.keentools.io/download/facebuilder-for-blender
+    url: https://keentools.io/download/facebuilder-for-blender
     added_at: '2026-04-19T17:15:03.000Z'
     description: Builds photorealistic 3D face and head models from a few neutral-expression photos in Blender.
     license: Paid
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -723,7 +723,7 @@ entries:
     description: Import and export models between Blender and Sketchfab.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -743,7 +743,7 @@ entries:
     description: Curtis Holt's storefront for Blender addons and learning products.
     license: Paid
     entry_type: marketplace
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -774,5 +774,240 @@ entries:
         - generalist
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Hard Ops / BoxCutter
+    url: https://superhivemarket.com/products/hard-ops--boxcutter-ultimate-bundle
+    description: Hard-surface add-on pair for Blender. BoxCutter draws boolean cuts, Hard Ops handles bevels and cleanup.
+    pricing: $38 bundle
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - product-viz
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.043Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Hard-surface boolean modeling
+    pricing_last_verified: '2026-10-05'
+  - name: DECALmachine
+    url: https://machin3.io/DECALmachine/
+    description: Blender add-on for mesh decals and trim sheets, adds surface detail without UVs.
+    pricing: $54.99
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.045Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Decal and trim detailing
+    pricing_last_verified: '2026-10-05'
+  - name: MESHmachine
+    url: https://machin3.io/MESHmachine/
+    description: 'Blender add-on for hard-surface edits without subdivision: fuse, unfuse, fillets, unbevel.'
+    pricing: $44.99
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.048Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Hard-surface mesh fixes
+    pricing_last_verified: '2026-10-05'
+  - name: Geo-Scatter
+    url: https://www.geoscatter.com/
+    description: Blender scattering add-on with a biome system for vegetation, city and debris environments.
+    pricing: From $99
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - archviz
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - procedural
+    added_at: '2026-10-05T08:51:07.050Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Large environment scattering
+    pricing_last_verified: '2026-10-05'
+  - name: botaniq
+    url: https://polygoniq.com/3d/botaniq/
+    description: Blender library of 700 tree, grass and plant assets with scatter presets and wind animation.
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - archviz
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.052Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Vegetation asset scattering
+  - name: BagaPie
+    url: https://extensions.blender.org/add-ons/bagapie/
+    description: Free Blender extension with scattering, ivy, arrays, booleans and parametric architecture tools.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - procedural
+    added_at: '2026-10-05T08:51:07.055Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Blender
+    best_for: Quick scattering and arrays
+  - name: Human Generator
+    url: https://www.humgen3d.com/
+    description: Blender add-on that builds realistic human characters with hair, outfits, poses and expressions.
+    pricing: Free tier, $68 personal, $128 commercial
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.057Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Blender
+    best_for: Realistic human characters
+    pricing_last_verified: '2026-10-05'
+  - name: Simply Cloth
+    url: https://superhivemarket.com/products/simply-cloth
+    description: Blender add-on for fast cloth simulation and garment sewing, with wind and collision presets.
+    pricing: $36
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - modeling
+      output:
+        - fashion
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - physics
+    added_at: '2026-10-05T08:51:07.060Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Garment and cloth simulation
+    pricing_last_verified: '2026-10-05'
+  - name: RBDLab
+    url: https://superhivemarket.com/products/rbdlab
+    description: 'Blender add-on for rigid-body destruction: fracturing, debris, dust and metal deformation.'
+    pricing: $73
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - physics
+    added_at: '2026-10-05T08:51:07.063Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Blender
+    best_for: Rigid-body destruction
+    pricing_last_verified: '2026-10-05'

@@ -9,7 +9,7 @@ entries:
     readme_tags:
       - India Community
       - Events
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -17,13 +17,13 @@ entries:
   - name: ArtStation
     url: https://www.artstation.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Professional portfolios.
+    description: Portfolio platform where game, film and VFX artists post work, find jobs and sell assets.
     entry_type: community
     license: Freemium
     readme_tags:
       - Portfolios
       - Pro
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -31,7 +31,7 @@ entries:
   - name: Polycount
     url: https://polycount.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game art community.
+    description: Long-running forum and community for game artists to share work, get critique and discuss techniques.
     entry_type: community
     license: Free
     tags:
@@ -42,24 +42,24 @@ entries:
     readme_tags:
       - Game Art
       - Forum
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Agora Community
     url: https://agora.community/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D artists community.
+    description: Online animation learning platform with courses, mentorship and challenges for 3D animators.
     entry_type: community
     license: Free
     readme_tags:
       - 3D Artists
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
         - web
   - name: The 3D Artist Community (Skool)
-    url: https://www.skool.com/the-3d-artist-community
+    url: https://www.skool.com/the-3d-artist-community/about
     added_at: '2026-04-16T19:59:30.000Z'
     description: Paid Skool community for pro 3D artists working beyond VFX/games (apparel, footwear, packaging). AMAs, office hours, pooled software resources.
     entry_type: community
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Skool
       - Pro
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -75,13 +75,13 @@ entries:
   - name: BlenderArtists
     url: https://blenderartists.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Blender forum.
+    description: Main community forum for Blender users, with support threads, tutorials and artwork galleries.
     entry_type: community
     license: Free
     readme_tags:
       - Blender
       - Forum
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -91,13 +91,13 @@ entries:
   - name: ZBrushCentral
     url: https://www.zbrushcentral.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: ZBrush forum.
+    description: Official ZBrush community forum for sharing sculpts, getting feedback and support.
     entry_type: community
     license: Free
     readme_tags:
       - ZBrush
       - Forum
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -111,21 +111,21 @@ entries:
     readme_tags:
       - Industry News
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
         - web
   - name: Blender Discord (French)
-    url: https://discordapp.com/channels/168826665307209728/168826665307209728
+    url: https://discord.com/channels/168826665307209728/168826665307209728
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Blender Discord (French).
+    description: French-language Discord server for Blender users to ask questions and share work.
     entry_type: community
     license: Free
     readme_tags:
       - Blender
       - Discord
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -141,7 +141,7 @@ entries:
     readme_tags:
       - Pro Community
       - Forum
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -149,13 +149,13 @@ entries:
   - name: Houdini Utility Thread
     url: https://www.sidefx.com/forum/topic/80497/?page=1#post-348642
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Houdini Utility Thread.
+    description: SideFX forum thread of entries to the 2021 Tech Art Challenge Best Houdini Utility category, with tools and files.
     entry_type: community
     license: Free
     readme_tags:
       - Houdini
       - Forum Thread
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -163,13 +163,13 @@ entries:
   - name: Robotic Arm Kinefx Demo
     url: https://www.sidefx.com/forum/topic/77562/?page=1#post-369057
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Robotic Arm Kinefx Demo.
+    description: SideFX forum thread on building robotic arms with KineFX, including a downloadable demo Houdini file.
     entry_type: community
     license: Free
     readme_tags:
       - Houdini
       - KineFX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -177,29 +177,31 @@ entries:
   - name: Armedunity
     url: https://armedunity.com/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Shooter focused forum.
+    description: Forum for Unity developers focused on building shooter games.
     entry_type: community
     license: Free
     readme_tags:
       - Unity
       - Shooter Forum
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-05'
+    url_status: broken
     tags:
       platform:
         - web
       output:
         - games
+    deprecated: true
+    notes: Domain for sale (GoDaddy parking) as of 2026-10-05.
   - name: 👨🏽‍🚀Blender.Community
     url: https://blender.community/c/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: 👨🏽‍🚀Blender.Community.
+    description: Community site for Blender users to share news, artwork and ask questions.
     entry_type: community
     license: Free
     readme_tags:
       - Blender
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -209,13 +211,13 @@ entries:
   - name: ☕Blender.Today
     url: https://blender.community/c/today/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Community-driven Blender news, chat, and live streams! Stream [playlist](https://www.youtube.com/playlist?list=PLa1F2ddGya_87HJ72v_IgKUTNLIXSMfvB).
+    description: Community-driven Blender news, chat, and live streams! Stream playlist.
     entry_type: community
     license: Free
     readme_tags:
       - Blender
       - News
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -231,7 +233,7 @@ entries:
     readme_tags:
       - Blender
       - Feature Requests
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -247,7 +249,7 @@ entries:
     readme_tags:
       - AI Models
       - Sharing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -263,7 +265,7 @@ entries:
     readme_tags:
       - Unreal
       - Learning
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -279,13 +281,13 @@ entries:
     readme_tags:
       - Dev Blog
       - Community
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
         - web
   - name: ccMixter.org
-    url: http://dig.ccmixter.org/
+    url: https://dig.ccmixter.org/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Creative Commons remix and sample music site operated by ArtisTech Media.
     entry_type: community
@@ -293,29 +295,13 @@ entries:
     readme_tags:
       - Creative Commons
       - Audio
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       platform:
         - web
       tech:
         - cc0
-  - name: Unreal Source Discord
-    url: https://discord.com/invite/unrealsource
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Unreal Engine community Discord. Help, showcase, and gamedev discussion.
-    entry_type: community
-    license: Free
-    readme_tags:
-      - Unreal
-      - Discord
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      tech:
-        - unreal-plugin
   - name: GameDev.tv Discord
     url: https://discord.com/invite/eUSFZdJ
     added_at: '2026-04-19T17:15:03.000Z'
@@ -325,31 +311,15 @@ entries:
     readme_tags:
       - GameDev
       - Discord
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
         - web
       output:
         - games
-  - name: 🗨️discord/blender
-    url: https://discord.gg/blender
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: Community-managed Discord server.
-    entry_type: community
-    license: Free
-    readme_tags:
-      - Blender
-      - Discord
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-      tech:
-        - blender
   - name: Nexrender Discord
-    url: https://discord.gg/S2JtRcB
+    url: https://discord.com/invite/S2JtRcB
     added_at: '2026-04-19T17:15:03.000Z'
     description: Community of people specializing in scripting and video generation automation.
     entry_type: community
@@ -357,7 +327,7 @@ entries:
     readme_tags:
       - Discord
       - Automation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -371,7 +341,7 @@ entries:
     readme_tags:
       - HuggingFace
       - LLMs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -379,7 +349,7 @@ entries:
       tech:
         - ai-generative
   - name: Steam VR Template (Unreal Engine Forum)
-    url: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template
+    url: https://forums.unrealengine.com/t/steam-vr-template/60376
     added_at: '2026-04-19T17:15:03.000Z'
     description: Community thread sharing a Steam VR project template for Unreal Engine.
     entry_type: community
@@ -387,7 +357,7 @@ entries:
     readme_tags:
       - Unreal
       - VR Template
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -403,7 +373,7 @@ entries:
     readme_tags:
       - Unity
       - GitHub Org
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -420,7 +390,7 @@ entries:
     readme_tags:
       - AI Models
       - Hub
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -428,15 +398,15 @@ entries:
       tech:
         - ai-generative
   - name: Introduction to pixel art
-    url: http://pixeljoint.com/forum/forum_posts.asp?TID=11299
+    url: https://pixeljoint.com/forum/forum_posts.asp?TID=11299
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Introduction to pixel art.
+    description: Pixel Joint forum tutorial covering pixel art basics, anti-aliasing, dithering, common mistakes and palettes.
     entry_type: community
     license: Free
     readme_tags:
       - Pixel Art
       - Forum Thread
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       platform:
@@ -450,8 +420,10 @@ entries:
     readme_tags:
       - VR
       - Cardboard
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    notes: Google+ shut down.
+    deprecated: true
     tags:
       platform:
         - web
@@ -466,7 +438,7 @@ entries:
     readme_tags:
       - Unity
       - Reddit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -482,7 +454,7 @@ entries:
     readme_tags:
       - Blender
       - Reddit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -498,7 +470,7 @@ entries:
     readme_tags:
       - Generative AI
       - Reddit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -514,7 +486,7 @@ entries:
     readme_tags:
       - Virtual Production
       - Reddit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -530,7 +502,7 @@ entries:
     readme_tags:
       - Unreal
       - Reddit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -546,7 +518,7 @@ entries:
     readme_tags:
       - Motion Design
       - Newsletter
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -564,7 +536,7 @@ entries:
     readme_tags:
       - Reddit
       - Low-Poly
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:

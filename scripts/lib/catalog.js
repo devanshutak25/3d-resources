@@ -167,6 +167,34 @@ function appendEntry(sectionSlug, subSlug, entry) {
   return target;
 }
 
+// Optional top-level data files (not part of the section/chunk tree).
+function loadOptional(file, key, fallback) {
+  const p = path.join(DATA_DIR, file);
+  if (!fs.existsSync(p)) return fallback;
+  const doc = loadYaml(p);
+  return (doc && doc[key]) || fallback;
+}
+
+// Public catalog size for user-facing copy, e.g. "3,500+": unique URLs of
+// non-deprecated entries, rounded down to the hundred. Never hardcode counts.
+function publicCountLabel() {
+  const urls = new Set();
+  for (const { entry } of iterEntries()) {
+    if (!entry.deprecated && entry.url) urls.add(String(entry.url).toLowerCase());
+  }
+  return `${(Math.floor(urls.size / 100) * 100).toLocaleString('en-US')}+`;
+}
+
+// { alias: canonicalName } for search (data/aliases.yml).
+function loadAliases() {
+  return loadOptional('aliases.yml', 'aliases', {});
+}
+
+// ['owner/repo', ...] awesome-lists credited in the README (data/awesome-sources.yml).
+function loadAwesomeSources() {
+  return loadOptional('awesome-sources.yml', 'sources', []);
+}
+
 module.exports = {
   CHUNK_CAP,
   DATA_DIR,
@@ -177,5 +205,8 @@ module.exports = {
   saveChunk,
   iterChunks,
   iterEntries,
-  appendEntry
+  appendEntry,
+  loadAliases,
+  loadAwesomeSources,
+  publicCountLabel
 };

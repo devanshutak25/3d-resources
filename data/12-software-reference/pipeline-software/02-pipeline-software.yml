@@ -2,7 +2,7 @@ entries:
   - name: Kitsu (CGWire)
     url: https://www.cg-wire.com/kitsu
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Production tracker.
+    description: Open-source production tracker from CGWire for managing animation and VFX tasks, assets and reviews.
     license: Open Source
     entry_type: software
     best_for: Open-source production tracking
@@ -11,10 +11,12 @@ entries:
         - film-vfx
       tech:
         - opensource-alt
+      platform:
+        - web
     readme_tags:
       - Open Source
       - Tracking
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -28,10 +30,14 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Pipeline
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -47,10 +53,12 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -64,15 +72,19 @@ entries:
     tags:
       tech:
         - pipeline
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Pipeline
       - Asset Mgmt
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: CGRU
-    url: http://cgru.info/
+    url: https://cgru.info/
     added_at: '2026-04-16T21:13:44.000Z'
     description: CG tools pack that includes AFANASY, a free open-source render farm manager.
     license: Open Source
@@ -83,10 +95,14 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Render Farm
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -102,15 +118,19 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Render Farm
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Coalition
-    url: http://coalition.readthedocs.io/en/latest/
+    url: https://coalition.readthedocs.io/en/latest/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Render-farm manager from Mercenaries Engineering (makers of Guerilla Render).
     entry_type: software
@@ -124,12 +144,12 @@ entries:
     readme_tags:
       - Render Farm
       - Guerilla-adjacent
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Open3D
-    url: http://www.open3d.org/
+    url: https://www.open3d.org/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Modern library for 3D data processing. Point clouds, meshes, voxels, reconstruction.
     entry_type: software
@@ -138,11 +158,15 @@ entries:
     readme_tags:
       - 3D Data Processing
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: CGAL
@@ -155,17 +179,21 @@ entries:
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Geometry Lib
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Flamenco (flamenco.io)
     url: https://www.flamenco.io/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: From the Blender Foundation
+    description: From the Blender Foundation.
     license: Open Source
     entry_type: software
     best_for: Blender render farm
@@ -174,17 +202,21 @@ entries:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Render Farm
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: OpenTimelineIO (site)
     url: http://opentimeline.io
     added_at: '2026-04-19T17:15:03.000Z'
-    description: ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
+    description: Open-source API and file format from Pixar for exchanging editorial timelines between video and audio tools.
     license: Open Source
     entry_type: software
     best_for: Editorial timeline interchange
@@ -193,10 +225,14 @@ entries:
         - opensource-alt
       output:
         - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Editorial
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -212,10 +248,13 @@ entries:
         - opensource-alt
       output:
         - film-vfx
+      platform:
+        - win
+        - linux
     readme_tags:
       - Look Dev
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
@@ -225,12 +264,14 @@ entries:
     description: A procedural terrain generation and procedural modeling toolkit.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - procedural
         - opensource-alt
+      platform:
+        - win
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Godot Game Tools
@@ -240,13 +281,17 @@ entries:
     license: Free
     entry_type: software
     best_for: Mixamo-to-Godot animation import
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
         - games
       tech:
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Foundry Katana
@@ -271,7 +316,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Lookdev/Lighting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - lighting-rendering-shaders/lighting-production
@@ -282,7 +327,7 @@ entries:
     license: Free
     entry_type: software
     best_for: Procedural city map reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -308,5 +353,47 @@ entries:
     readme_tags:
       - Tracking
       - Browser
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Qube!
+    url: https://www.pipelinefx.com/
+    description: Render farm manager that queues and distributes jobs across Windows, Linux and macOS workers.
+    pricing: Supervisor $500/yr, worker $100/yr
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.412Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Render Farm
+    best_for: Render farm job queuing
+    pricing_last_verified: '2026-10-05'
+  - name: NIM
+    url: https://nim-labs.com/
+    description: Studio management for shot tracking, scheduling, bidding, timecards and review.
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - cloud
+    added_at: '2026-10-05T08:51:07.413Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Production Tracking
+    best_for: Studio production tracking

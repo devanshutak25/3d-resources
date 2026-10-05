@@ -1,22 +1,4 @@
 entries:
-  - name: Default Cube
-    url: https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ/videos
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: CGMatter's second channel for longer Blender tutorials.
-    license: Free
-    entry_type: channel
-    readme_tags:
-      - Blender
-      - YouTube
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      output:
-        - generalist
-      skill:
-        - intermediate
-      platform:
-        - web
   - name: CG Cookie
     url: https://www.youtube.com/@cg_cookie
     added_at: '2026-04-19T17:15:03.000Z'
@@ -26,7 +8,7 @@ entries:
     readme_tags:
       - Blender
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -44,7 +26,7 @@ entries:
     readme_tags:
       - Shaders
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -64,7 +46,7 @@ entries:
     readme_tags:
       - Rive
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -82,7 +64,7 @@ entries:
     readme_tags:
       - Rive
       - SwiftUI
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -100,7 +82,7 @@ entries:
     readme_tags:
       - Unreal
       - Rive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -120,7 +102,7 @@ entries:
     readme_tags:
       - Unity
       - VR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -140,7 +122,7 @@ entries:
     readme_tags:
       - Unity
       - SteamVR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -160,7 +142,7 @@ entries:
     readme_tags:
       - Unity
       - Vive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -180,7 +162,7 @@ entries:
     readme_tags:
       - Unity
       - Vive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -200,7 +182,7 @@ entries:
     readme_tags:
       - Unity
       - Vive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -220,7 +202,7 @@ entries:
     readme_tags:
       - Unity
       - VRTK
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -240,7 +222,7 @@ entries:
     readme_tags:
       - Houdini
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -260,7 +242,7 @@ entries:
     readme_tags:
       - VFX
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -280,7 +262,7 @@ entries:
     readme_tags:
       - Blender
       - Unreal
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -301,7 +283,7 @@ entries:
     readme_tags:
       - Houdini
       - Stylized
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -321,7 +303,7 @@ entries:
     readme_tags:
       - Blender
       - Environment
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -341,7 +323,7 @@ entries:
     readme_tags:
       - Blender
       - Environment
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -359,7 +341,7 @@ entries:
     readme_tags:
       - Unreal
       - Materials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -381,7 +363,7 @@ entries:
     readme_tags:
       - Unreal
       - Optimization
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -401,7 +383,7 @@ entries:
     readme_tags:
       - Animation
       - VFX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -419,7 +401,7 @@ entries:
     readme_tags:
       - Unreal
       - VFX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -439,7 +421,7 @@ entries:
     readme_tags:
       - Unreal
       - Color
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -461,7 +443,7 @@ entries:
     readme_tags:
       - Unreal
       - Tips
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -481,7 +463,7 @@ entries:
     readme_tags:
       - Unreal
       - Gamedev
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -501,7 +483,7 @@ entries:
     readme_tags:
       - AI
       - ComfyUI
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -521,7 +503,7 @@ entries:
     readme_tags:
       - MoCap
       - Metahuman
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -543,7 +525,7 @@ entries:
     readme_tags:
       - 3DGS
       - Tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -563,7 +545,7 @@ entries:
     readme_tags:
       - WebGL
       - JavaScript
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -583,7 +565,7 @@ entries:
     readme_tags:
       - Unity
       - Character
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -607,7 +589,7 @@ entries:
     readme_tags:
       - Unity
       - ECS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -631,7 +613,7 @@ entries:
     readme_tags:
       - Unity
       - GitHub
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -643,7 +625,7 @@ entries:
       tech:
         - unity
   - name: Computer Graphics
-    url: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/
+    url: https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/
     added_at: '2026-04-19T17:29:43.000Z'
     description: MIT ray tracing and animation course, fall 2012.
     license: Free
@@ -651,7 +633,7 @@ entries:
     readme_tags:
       - MIT
       - CG Theory
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -669,7 +651,7 @@ entries:
     readme_tags:
       - C
       - Renderer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -679,7 +661,7 @@ entries:
       platform:
         - web
   - name: Vector Math for 3D Computer Graphics
-    url: http://programmedlessons.org/VectorLessons/
+    url: https://programmedlessons.org/VectorLessons/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Tutorial on vector and matrix algebra from a computer graphics viewpoint.
     license: Free
@@ -687,7 +669,7 @@ entries:
     readme_tags:
       - Math
       - Vectors
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -697,7 +679,7 @@ entries:
       platform:
         - web
   - name: MIT Inverse Rendering Lectures (Module 2)
-    url: https://www.scenerepresentations.org/courses/inverse-graphics-23/
+    url: https://scenerepresentations.org/courses/inverse-graphics-23/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Academic deep dive into inverse rendering.
     license: Free
@@ -705,7 +687,7 @@ entries:
     readme_tags:
       - MIT
       - Rendering
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       skill:
@@ -721,7 +703,7 @@ entries:
     readme_tags:
       - WebGL
       - Interactive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -741,7 +723,7 @@ entries:
     readme_tags:
       - 3DGS
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       skill:
@@ -759,7 +741,7 @@ entries:
     readme_tags:
       - 3DGS
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       skill:
@@ -777,7 +759,7 @@ entries:
     readme_tags:
       - CMU
       - Rendering
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       skill:
@@ -793,7 +775,7 @@ entries:
     readme_tags:
       - Animation
       - Programming
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -814,7 +796,7 @@ entries:
     readme_tags:
       - Rebelway
       - ML
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -828,13 +810,13 @@ entries:
   - name: Domestika
     url: https://www.domestika.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Creative arts courses.
+    description: Online course platform for creative skills such as illustration, design, 3D and animation.
     license: Paid
     entry_type: tutorial
     readme_tags:
       - Creative Arts
       - Courses
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -852,7 +834,7 @@ entries:
     readme_tags:
       - Sculpting
       - Characters
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -871,3 +853,22 @@ entries:
         - blender
         - substance-painter
         - marmoset
+  - name: Clarafi (Gaël McGill / Digizyme)
+    url: https://clarafi.com/
+    added_at: '2026-05-22T16:39:01.000Z'
+    description: 3D molecular animation courses, Maya focus.
+    license: Paid
+    entry_type: tutorial
+    best_for: Molecular animation training
+    tags:
+      workflow:
+        - animation
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Course
+      - Maya Molecular
+    url_last_verified: '2026-10-01'
+    url_status: ok

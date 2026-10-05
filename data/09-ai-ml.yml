@@ -5,7 +5,7 @@ subsections:
   - slug: ml-for-cg
     title: Machine Learning for CG
     description: ML fundamentals and courses for CG artists.
-    chunks: 2
+    chunks: 1
   - slug: image-generation
     title: Image Generation
     description: text-to-image models and platforms.

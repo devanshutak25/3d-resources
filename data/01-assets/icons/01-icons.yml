@@ -2,13 +2,13 @@ entries:
   - name: Flaticon
     url: https://www.flaticon.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Massive icon library.
+    description: Large library of icons in PNG, SVG and other formats, with free and premium sets.
     license: Freemium
     entry_type: asset-source
     readme_tags:
       - Massive
       - Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -19,13 +19,13 @@ entries:
   - name: SVGL
     url: https://svgl.app/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Brand logos in SVG.
+    description: Library of brand and company logos in SVG, free to copy.
     license: Free
     entry_type: asset-source
     readme_tags:
       - Brand Logos
       - SVG
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -36,13 +36,13 @@ entries:
   - name: Icons8 Glyph
     url: https://icons8.com/l/glyph/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Glyph-style icon set.
+    description: Glyph-style icon set from Icons8, available in PNG and SVG.
     license: Freemium
     entry_type: asset-source
     readme_tags:
       - Glyph Style
       - Varied
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -59,7 +59,7 @@ entries:
     readme_tags:
       - Open Source
       - Modern
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -78,7 +78,7 @@ entries:
     readme_tags:
       - Animated
       - Lucide
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -89,13 +89,13 @@ entries:
   - name: Tabler Icons
     url: https://tablericons.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Open-source SVG icons.
+    description: Open-source set of SVG icons, MIT licensed, with a consistent stroke style.
     license: Open Source
     entry_type: asset-source
     readme_tags:
       - Open Source
       - SVG
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -114,7 +114,7 @@ entries:
     readme_tags:
       - Classic
       - Icon Font
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -123,7 +123,7 @@ entries:
       platform:
         - web
   - name: MDI Icons
-    url: https://pictogrammers.com/library/mdi/icon/
+    url: https://pictogrammers.com/library/mdi/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Material Design Icons, huge set.
     license: Open Source
@@ -131,7 +131,7 @@ entries:
     readme_tags:
       - Material Design
       - Huge Set
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -144,7 +144,7 @@ entries:
   - name: Game Icons
     url: https://game-icons.net/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 4000+ SVG game icons.
+    description: Library of 4000+ free SVG game icons under CC BY.
     license: Free
     entry_type: asset-source
     tags:
@@ -157,7 +157,7 @@ entries:
     readme_tags:
       - Game-themed
       - 4000+
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Use Animations
     url: https://useanimations.com/
@@ -168,7 +168,7 @@ entries:
     readme_tags:
       - Animated
       - Web UI
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -177,12 +177,12 @@ entries:
       platform:
         - web
   - name: typicons.font
-    url: http://s-ings.com/typicons/
+    url: https://www.s-ings.com/typicons/
     added_at: '2026-04-19T17:15:03.000Z'
     description: 336 pixel-perfect all-purpose vector icons in a web-font kit.
     license: Open Source
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -198,8 +198,8 @@ entries:
     readme_tags:
       - Multi-weight
       - Open Source
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -217,7 +217,7 @@ entries:
     readme_tags:
       - Aggregator
       - 200k+ Icons
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -236,7 +236,7 @@ entries:
     readme_tags:
       - Open Source
       - Cross-Platform
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -255,7 +255,7 @@ entries:
     readme_tags:
       - Tailwind
       - Hand-crafted
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -274,7 +274,7 @@ entries:
     readme_tags:
       - Bootstrap
       - 2000+
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -293,7 +293,7 @@ entries:
     readme_tags:
       - Neutral Style
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -312,7 +312,7 @@ entries:
     readme_tags:
       - Massive
       - SVG
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -329,7 +329,7 @@ entries:
     readme_tags:
       - Large Set
       - Multi-Framework
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -346,7 +346,7 @@ entries:
     readme_tags:
       - Multi-style
       - Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -363,7 +363,7 @@ entries:
     readme_tags:
       - Premium
       - Systems
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -380,7 +380,7 @@ entries:
     readme_tags:
       - Massive
       - Subscription
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -396,7 +396,7 @@ entries:
     description: Official Material Design icon set from Google.
     license: Open Source
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -411,7 +411,7 @@ entries:
     description: Illustration and icon library for UX from Icons8.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -424,7 +424,7 @@ entries:
     description: 460+ 3D icons in multiple angles and materials.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -437,7 +437,7 @@ entries:
     description: 4300+ icons and illustrations exportable to SVG, React, and Lottie.
     entry_type: asset-source
     license: Paid
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -457,7 +457,7 @@ entries:
         - web
     readme_tags:
       - Icons
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Thridy
     url: https://thridy.com/
@@ -474,5 +474,5 @@ entries:
         - illustration
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

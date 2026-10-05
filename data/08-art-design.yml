@@ -6,10 +6,6 @@ subsections:
     title: "Concept Art & Illustration: Channels"
     description: Channels on concept art, figure drawing, painting.
     chunks: 1
-  - slug: concept-art-courses
-    title: "Concept Art & Illustration: Courses"
-    description: Structured concept art and design courses.
-    chunks: 1
   - slug: drawing-painting-3d
     title: Drawing & Painting for 3D Artists
     description: Gesture, figure, digital painting fundamentals for 3D artists.

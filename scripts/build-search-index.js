@@ -6,7 +6,7 @@
 // search queries through it (sub-10ms typical, scales past 10k entries).
 
 const fs = require('fs');
-const yaml = require('js-yaml');
+const catalog = require('./lib/catalog');
 const MiniSearch = require('minisearch');
 
 function squash(s) {
@@ -48,13 +48,8 @@ function main() {
 
   const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
 
-  let aliases = {};
-  try {
-    const yml = yaml.load(fs.readFileSync('data/aliases.yml', 'utf8'));
-    aliases = (yml && yml.aliases) || {};
-  } catch (e) {
-    console.warn('No data/aliases.yml; building index without aliases.');
-  }
+  const aliases = catalog.loadAliases();
+  if (!Object.keys(aliases).length) console.warn('No aliases in data/aliases.yml; building index without aliases.');
   const byCanon = buildAliasIndex(aliases);
 
   // Dedupe by URL: dual_listed_in produces N data rows for one logical entry,

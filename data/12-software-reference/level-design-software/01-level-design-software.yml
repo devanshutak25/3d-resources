@@ -11,10 +11,14 @@ entries:
         - games
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Blockouts
       - Quake-style
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-level-design
@@ -30,10 +34,14 @@ entries:
         - games
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - 2D Levels
       - Dead Cells Creator
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-level-design
@@ -49,10 +57,14 @@ entries:
         - games
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - Tilemap Editor
       - TMX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-level-design
@@ -62,11 +74,15 @@ entries:
     description: Free project-based 2D level editor with grid and entity layers.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - game-development/game-dev-level-design
   - name: Sprite Fusion
@@ -75,68 +91,101 @@ entries:
     description: A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
     license: Free
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - web
     dual_listed_in:
       - game-development/game-dev-level-design
   - name: Mappy
-    url: http://tilemap.co.uk/mappy.php
+    url: https://tilemap.co.uk/mappy.php
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Free tilemap editor.
+    description: Free tile map editor for building 2D and isometric game maps in the FMP format.
     license: Free
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
         - games
+      platform:
+        - win
     dual_listed_in:
       - game-development/game-dev-level-design
   - name: Perilous Shores
     url: https://watabou.itch.io/perilous-shores
     added_at: '2026-05-01T15:46:53.000Z'
-    description: Fantasy region generator
+    description: Procedural generator for fantasy region maps with towns and terrain, aimed at tabletop RPGs.
     license: Free
     entry_type: tool
     best_for: Procedural fantasy region maps
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Procedural
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Village Generator
     url: https://watabou.itch.io/village-generator
     added_at: '2026-05-01T15:46:53.000Z'
-    description: Randomly generated village maps
+    description: Randomly generated village maps.
     license: Free
     entry_type: tool
     best_for: Procedural village maps
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Procedural
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: One Page Dungeon
     url: https://watabou.itch.io/one-page-dungeon
     added_at: '2026-05-01T15:46:53.000Z'
-    description: One page dungeon generator
+    description: One page dungeon generator.
     license: Free
     entry_type: tool
     best_for: Procedural one-page dungeons
     tags:
       output:
         - games
+      platform:
+        - web
     readme_tags:
       - Procedural
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Dungeon Architect
+    url: https://dungeonarchitect.dev/
+    description: Procedural level generator for Unreal and Unity driven by node-based flow graphs.
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      tech:
+        - procedural
+        - unreal-plugin
+        - unity-plugin
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.114Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Unreal Engine
+    best_for: Procedural dungeon layouts

@@ -8,8 +8,10 @@ entries:
     readme_tags:
       - Arnold
       - Volumes
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    notes: Doc page removed; redirects to Autodesk help root.
+    deprecated: true
     tags:
       workflow:
         - rendering
@@ -23,7 +25,7 @@ entries:
       tech:
         - path-tracing
   - name: Ariev Visuals Resources
-    url: http://arievvisuals.com/resources
+    url: https://arievvisuals.com/resources
     added_at: '2026-04-16T19:59:30.000Z'
     description: Octane tutorials and assets.
     license: Free
@@ -31,7 +33,7 @@ entries:
     readme_tags:
       - Octane
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -63,20 +65,44 @@ entries:
     readme_tags:
       - Thesis
       - Light Transport
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Takua Renderer
-    url: http://www.yiningkarlli.com/projects/takuarender/
+    url: https://www.yiningkarlli.com/projects/takuarenderer.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: Karl Li's hobbyist physically-based renderer project page with technical write-ups.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       workflow:
         - rendering
       skill:
         - advanced
+      platform:
+        - web
+  - name: Redshift Community
+    url: https://redshift.maxon.net/
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Forums, shaders, resources.
+    entry_type: community
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
+      platform:
+        - web
+  - name: Arnold Resources
+    url: https://www.autodesk.com/products/arnold/resources
+    added_at: '2026-04-16T19:59:30.000Z'
+    description: Official shaders, docs, tutorials.
+    entry_type: reference
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - rendering
       platform:
         - web

@@ -1,14 +1,14 @@
 entries:
   - name: 1 Minute VEX
-    url: https://aaronsmith.tv/1-Minute-VEX
+    url: https://1minutevex.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Bite-sized VEX lessons.
+    description: Short lessons teaching Houdini VEX one small snippet at a time.
     entry_type: tutorial
     license: Free
     readme_tags:
       - Bite-sized
       - VEX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Cheat Sheet
       - VEX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -46,13 +46,13 @@ entries:
   - name: Python Snippets for Houdini
     url: https://github.com/kiryha/houdini/wiki/python-snippets
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Python snippets wiki.
+    description: Wiki page of Python snippets for scripting Houdini, part of kiryha's Houdini learning repo.
     entry_type: reference
     license: Open Source
     readme_tags:
       - Python
       - Snippets
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -69,13 +69,13 @@ entries:
   - name: VFXBrain VEX
     url: https://vfxbrain.wordpress.com/category/vex/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: VEX tutorials blog.
+    description: Blog with VEX tutorials and code snippets for Houdini.
     entry_type: channel
     license: Free
     readme_tags:
       - VEX
       - Blog
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - Python Wiki
       - Deep Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -122,7 +122,7 @@ entries:
     readme_tags:
       - OpenCL
       - Advanced
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -139,7 +139,7 @@ entries:
   - name: Python Startup Scripts
     url: https://houdinitricks.com/python-houdini-start-scripts-part-1/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Python startup scripts guide.
+    description: Houdini Tricks guide to writing Python startup scripts that run when Houdini launches.
     entry_type: tutorial
     license: Free
     readme_tags:
@@ -157,7 +157,7 @@ entries:
       tech:
         - houdini
         - python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: Learning VEX via Bees and Bombs
     url: https://forums.odforce.net/topic/24056-learning-vex-via-animated-gifs-bees-bombs/
@@ -176,7 +176,7 @@ entries:
       tech:
         - houdini
         - vex
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: vex_tutorial (jtomori)
     url: https://github.com/jtomori/vex_tutorial
@@ -195,10 +195,10 @@ entries:
       tech:
         - houdini
         - vex
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Mantra LPE Cookbook (alexwheezy)
-    url: https://github.com/alexwheezy/Mantra-LPE-Cookbook
+    url: https://github.com/cctxord/Mantra-LPE-Cookbook
     added_at: '2026-06-17T07:16:34.000Z'
     description: Light Path Expression recipes for Mantra rendering.
     license: Free
@@ -213,7 +213,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Houdini OpenCL (MysteryPancake)
     url: https://mysterypancake.github.io/Houdini-OpenCL/
@@ -232,5 +232,5 @@ entries:
       tech:
         - houdini
         - gpu
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

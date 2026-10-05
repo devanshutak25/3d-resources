@@ -6,7 +6,8 @@ on:
       - 'data/**'
       - 'schema/**'
       - 'scripts/**'
-      - 'assets/js/**'
+      - 'assets/**'
+      - 'build.sh'
       - 'package*.json'
       - '.github/workflows/validate.yml'
   pull_request:
@@ -14,29 +15,35 @@ on:
       - 'data/**'
       - 'schema/**'
       - 'scripts/**'
-      - 'assets/js/**'
+      - 'assets/**'
+      - 'build.sh'
       - 'package*.json'
       - '.github/workflows/validate.yml'
+
+permissions:
+  contents: read
 
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
-          node-version: 20
-      - run: npm install js-yaml ajv ajv-formats marked
-      - name: Run regression checks
-        run: |
-          node scripts/lib/catalog.test.js
-          node scripts/lib/canonical-url.test.js
-          node scripts/lib/quality-score.test.js
-          node scripts/lib/entry-schema.test.js
-          node scripts/lib/review-regressions.test.js
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Unit + regression tests
+        run: npm test
       - name: Validate schema + vocab + duplicates
         run: node scripts/validate.js
-      - name: Dry-render README to ensure generator works
-        run: node scripts/render.js > /tmp/regen-README.md
-      - name: Export JSON index
-        run: node scripts/export-data.js /tmp/data.json
+      # Full site build (README render, pages, feeds, sitemap) ending in
+      # check-built-links.js, so template or link breakage fails here, not on deploy.
+      - name: Build site
+        run: bash build.sh
+      # README.md is derived from data/. PRs only touch data/, so a stale README is
+      # a notice here; render-readme.yml regenerates it after merge to main.
+      - name: README freshness
+        run: |
+          git diff --quiet -- README.md && echo "README.md up to date." \
+            || echo "::notice::README.md differs from a fresh render; render-readme.yml will update it on main."

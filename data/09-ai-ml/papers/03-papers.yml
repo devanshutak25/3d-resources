@@ -2,10 +2,10 @@ entries:
   - name: 3D Neural Scene Representations for Visuomotor Control
     url: https://3d-representation-learning.github.io/nerf-dy/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Li et al., CoRL 2021 Oral
+    description: Li et al., CoRL 2021 Oral.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -19,10 +19,10 @@ entries:
   - name: 'Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis'
     url: https://www.ajayj.com/dietnerf
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Matthew Tancik et al., Arxiv 2021
+    description: Matthew Tancik et al., Arxiv 2021.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -32,14 +32,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'D-NeRF: Neural Radiance Fields for Dynamic Scenes'
     url: https://www.albertpumarola.com/research/D-NeRF/index.html
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Pumarola et al., CVPR 2021 | [github](https://github.com/albertpumarola/D-NeRF)
+    description: Pumarola et al., CVPR 2021. Extends NeRF with a time-conditioned deformation field to render dynamic scenes from monocular video.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -49,14 +51,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo'
     url: https://apchenstu.github.io/mvsnerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf)
+    description: Chen et al., ICCV 2021. Uses multi-view stereo cost volumes so radiance fields generalize to new scenes from three input views.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -66,14 +70,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images'
     url: https://bmild.github.io/rawnerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Ben Mildenhall et al, arXiv 2021
+    description: Ben Mildenhall et al, arXiv 2021.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -83,14 +89,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields'
     url: https://cassiepython.github.io/clipnerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Wang et al., CVPR 2022 | [github](https://github.com/cassiePython/CLIPNeRF)
+    description: Wang et al., CVPR 2022. Edits the shape and color of NeRF objects using CLIP text or image prompts.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -100,14 +108,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2022
   - name: 'AutoInt: Automatic Integration for Fast Neural Volume Rendering'
-    url: http://www.computationalimaging.org/publications/automatic-integration/
+    url: https://www.computationalimaging.org/publications/automatic-integration/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Lindell et al., CVPR 2021 | [github](https://github.com/computational-imaging/automatic-integration)
+    description: Lindell et al., CVPR 2021. Learns closed-form integrals of volume rendering to speed up neural rendering.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       tech:
@@ -117,14 +127,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes
-    url: http://www.cs.cornell.edu/~zl548/NSFF/
+    url: https://www.cs.cornell.edu/~zl548/NSFF/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Li et al., CVPR 2021 | [github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)
+    description: Li et al., CVPR 2021. Models dynamic scenes as time-varying scene flow fields for space-time view synthesis from monocular video.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -134,14 +146,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks'
     url: https://depthoraclenerf.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF)
+    description: Neff et al., CGF 2021. Uses a depth oracle network to cut samples per ray for near real-time NeRF rendering.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -151,14 +165,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'DFNet: Enhance Absolute Pose Regression with Direct Feature Matching'
     url: https://dfnet.active.vision/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet)
+    description: Chen et al., ECCV 2022. Improves camera pose regression by matching features against novel views rendered from a NeRF.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -170,12 +186,12 @@ entries:
         - advanced
     year: 2022
   - name: Editing Conditional Radiance Fields
-    url: http://editnerf.csail.mit.edu/
+    url: https://arxiv.org/abs/2105.06466
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf)
+    description: Liu et al., ICCV 2021. Conditional radiance fields that let users edit shape and color of object categories with a few scribbles.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       tech:
@@ -185,14 +201,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2021
   - name: 'FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling'
     url: https://fig-nerf.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Xie et al., Arxiv 2021
+    description: Xie et al., 3DV 2021. Separates foreground objects from background with two NeRFs to model 3D object categories.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -202,14 +220,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction
     url: https://gafniguy.github.io/4D-Facial-Avatars/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Gafni et al., CVPR 2021 | [github](https://github.com/gafniguy/4D-Facial-Avatars)
+    description: Gafni et al., CVPR 2021. Dynamic NeRF conditioned on expression parameters to build 4D facial avatars from monocular video.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -219,14 +239,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - face-capture
+        - rendering
     year: 2021
   - name: 'HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video'
     url: https://grail.cs.washington.edu/projects/humannerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf)
+    description: Weng et al., CVPR 2022. Renders moving people from new viewpoints using a NeRF trained on a single monocular video.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -236,14 +259,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: 'Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video'
-    url: https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/
+    url: https://vcai.mpi-inf.mpg.de/projects/nonrigid_nerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf)
+    description: Tretschk et al., ICCV 2021. Reconstructs deforming scenes from monocular video with a NeRF plus a learned ray-bending deformation field.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -253,14 +278,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2020
   - name: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields
     url: https://hypernerf.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf)
+    description: 'Park et al., SIGGRAPH Asia 2021. HyperNeRF: lifts NeRF into a higher-dimensional space to handle scenes whose topology changes.'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -270,14 +297,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors'
     url: https://jdily.github.io/proj_site/nerfin_proj.html
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Liu et al., Arxiv 2022
+    description: Liu et al., arXiv 2022. Removes user-selected objects from a NeRF scene using RGB-D inpainting priors.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -287,14 +316,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: 'InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity'
     url: https://jiabinliang.github.io/InfNeRF.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF)
+    description: Liang et al., SIGGRAPH Asia 2024. Octree-based level-of-detail NeRF that renders very large scenes with O(log n) memory.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -304,14 +335,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2024
   - name: Editable Free-viewpoint Video Using a Layered Neural Representation
     url: https://jiakai-zhang.github.io/st-nerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf)
+    description: Zhang et al., SIGGRAPH 2021. Layered neural representation of free-viewpoint video that lets performers be moved, scaled or removed.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -321,14 +354,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis'
-    url: http://jiataogu.me/style_nerf/
+    url: https://jiataogu.me/style_nerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Gu et al., Arxiv 2021
+    description: Gu et al., ICLR 2022. Style-based 3D-aware generator combining NeRF and StyleGAN to synthesize high-resolution, view-consistent images.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -338,14 +373,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields'
     url: https://jonbarron.info/mipnerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf)
+    description: Barron et al., ICCV 2021. Renders anti-aliased cones instead of rays so NeRF handles multiple scales without aliasing.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -355,14 +392,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields'
     url: https://jonbarron.info/mipnerf360/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Barron et al., Arxiv 2022
+    description: Barron et al., Arxiv 2022.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -372,14 +411,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: Neural Scene Graphs for Dynamic Scenes
-    url: https://light.princeton.edu/neural-scene-graphs/
+    url: https://light.princeton.edu/publication/neural-scene-graphs/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Ost et al., CVPR 2021
+    description: Ost et al., CVPR 2021. Decomposes dynamic scenes like driving footage into a learned scene graph of moving objects.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -389,14 +430,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: Neural Sparse Voxel Fields
     url: https://lingjie0206.github.io/papers/NSVF/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF)
+    description: Liu et al., NeurIPS 2020. Organizes a radiance field into a sparse voxel octree to skip empty space and render faster.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -406,6 +449,8 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2020
   - name: Color-NeRF
     url: https://liquidammonia.github.io/color-nerf/assets/paper.pdf
@@ -413,7 +458,7 @@ entries:
     description: NeRF research paper on color and appearance modelling.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -423,13 +468,15 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
   - name: 'pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis'
     url: https://marcoamonteiro.github.io/pi-GAN-website/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Chan et al., CVPR 2021
+    description: Chan et al., CVPR 2021. 3D-aware GAN using SIREN periodic activations in a radiance field to generate view-consistent images.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -439,14 +486,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: NeRF (paper site)
     url: https://www.matthewtancik.com/nerf
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)
+    description: 'Mildenhall et al., ECCV 2020. The original NeRF: an MLP that maps 5D coordinates to color and density for novel view synthesis.'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -456,14 +505,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2020
   - name: 'Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields'
     url: https://mizhenxing.github.io/switchnerf
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF)
+    description: Mi et al., ICLR 2023. Mixture-of-experts NeRF that learns to split large-scale scenes into sub-networks.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -473,14 +524,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023
   - name: Neural Refinement for Absolute Pose Regression with Feature Synthesis
     url: https://nefes.active.vision/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS)
+    description: Chen et al., CVPR 2024. Refines camera pose regression at test time using features rendered from a neural feature field.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -494,10 +547,10 @@ entries:
   - name: 'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections'
     url: https://nerf-w.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Martin-Brualla et al., CVPR 2021
+    description: Martin-Brualla et al., CVPR 2021.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -507,14 +560,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: Deformable Neural Radiance Fields
     url: https://nerfies.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Park et al., Arxiv 2020 | [github](https://github.com/google/nerfies)
+    description: 'Park et al., ICCV 2021. Nerfies: adds a learned deformation field to NeRF to capture non-rigid scenes from handheld phone video.'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -524,14 +579,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2020
   - name: 'NeRF--: Neural Radiance Fields Without Known Camera Parameters'
-    url: http://nerfmm.active.vision/
+    url: https://nerfmm.active.vision/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm)
+    description: Wang et al., arXiv 2021. Trains NeRF while jointly estimating camera intrinsics and extrinsics from forward-facing images.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       tech:
@@ -541,14 +598,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior'
     url: https://nope-nerf.active.vision/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf)
+    description: Bian et al., CVPR 2023. Trains NeRF without pose priors by using monocular depth to constrain relative camera poses.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -558,14 +617,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023
   - name: 'NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination'
-    url: http://people.csail.mit.edu/xiuming/projects/nerfactor/
+    url: https://people.csail.mit.edu/xiuming/projects/nerfactor/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Zhang et al. Arxiv 2021 | [github](https://github.com/google/nerfactor)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -578,13 +639,13 @@ entries:
     year: 2021
     deprecated: true
   - name: 'NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis'
-    url: https://people.eecs.berkeley.edu/~pratul/nerv/
+    url: https://pratulsrinivasan.github.io/nerv/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Srinivasan et al. CVPR 2021
+    description: Srinivasan et al. CVPR 2021.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -593,14 +654,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
+        - lighting
     year: 2021
   - name: 'PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction'
     url: https://porf.active.vision/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf)
+    description: Bian et al., ICLR 2024. Learns a pose residual field to refine camera poses for more accurate neural surface reconstruction.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -610,14 +674,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2024
   - name: Portrait Neural Radiance Fields from a Single Image
     url: https://portrait-nerf.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Gao et al., Arxiv 2020
+    description: Gao et al., arXiv 2020. Meta-learned NeRF that reconstructs a portrait radiance field from a single headshot.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -627,14 +693,17 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - face-capture
+        - rendering
     year: 2020
   - name: Self-Calibrating Neural Radiance Fields
     url: https://postech-cvlab.github.io/SCNeRF/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF)
+    description: Jeong et al., ICCV 2021. Jointly learns scene geometry and camera calibration, including lens distortion, without a calibration target.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -644,14 +713,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild'
     url: https://rover-xingyu.github.io/Ha-NeRF/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF)
+    description: Chen et al., CVPR 2022. Builds NeRFs from in-the-wild photo collections, handling appearance changes and transient occluders.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -661,14 +732,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: 'L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields'
     url: https://rover-xingyu.github.io/L2G-NeRF/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF)
+    description: Chen et al., CVPR 2023. Bundle-adjusting NeRF that registers cameras locally per pixel before global alignment.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -678,14 +751,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023
   - name: In-Place Scene Labelling and Understanding with Implicit Scene Representation
     url: https://shuaifengzhi.com/Semantic-NeRF/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Zhi et al., Arxiv 2021
+    description: 'Zhi et al., ICCV 2021. Semantic-NeRF: adds semantic labels to a radiance field to propagate sparse labels across a scene.'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -699,10 +774,10 @@ entries:
   - name: 'CodeNeRF: Disentangled Neural Radiance Fields for Object Categories'
     url: https://sites.google.com/view/wbjang/home/codenerf
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Jang et al., ICCV 2021
+    description: Jang et al., ICCV 2021. Category-level NeRF with separate shape and texture codes for editing and novel view synthesis.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -712,14 +787,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: Space-time Neural Irradiance Fields for Free-Viewpoint Video
     url: https://video-nerf.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Xian et al., CVPR 2021
+    description: Xian et al., CVPR 2021. Space-time irradiance field that renders free-viewpoint video from a single monocular video plus depth.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -729,14 +806,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis'
     url: https://vincentfung13.github.io/projects/mine/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Jiaxin Li et al., ICCV 2021 | [github](https://github.com/vincentfung13/MINE)
+    description: Li et al., ICCV 2021. Combines multiplane images with NeRF to predict continuous-depth MPIs from a single image.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -746,14 +825,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2021
   - name: 'SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image'
     url: https://vita-group.github.io/SinNeRF/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Xu et al., ECCV 2022 | [github](https://github.com/VITA-Group/SinNeRF)
+    description: Xu et al., ECCV 2022. Trains a NeRF on complex scenes from a single image using semi-supervised geometry and semantic losses.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -763,14 +844,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: 'Block-NeRF: Scalable Large Scene Neural View Synthesis'
     url: https://waymo.com/research/block-nerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Tancik et al., Arxiv 2022
+    description: Tancik et al., Arxiv 2022.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -780,14 +863,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: 'NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo'
     url: https://weiyithu.github.io/NerfingMVS/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Wei et al., ICCV 2021
+    description: Wei et al., ICCV 2021. Guides NeRF optimization with monocular depth priors for indoor multi-view stereo reconstruction.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -797,14 +882,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - modeling
     year: 2021
   - name: 'Point-NeRF: Point-based Neural Radiance Fields'
     url: https://xharlie.github.io/projects/project_sites/pointnerf/index.html
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf)
+    description: Xu et al., CVPR 2022. Uses neural point clouds to model radiance fields, initialized from multi-view stereo for fast training.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -814,14 +901,16 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2022
   - name: 'iNeRF: Inverting Neural Radiance Fields for Pose Estimation'
-    url: http://yenchenlin.me/inerf/
+    url: https://yenchenlin.me/inerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Yen-Chen et al. IROS 2021
+    description: Yen-Chen et al. IROS 2021.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -835,10 +924,10 @@ entries:
   - name: 'AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training'
     url: https://yifanjiang19.github.io/alignerf
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Jiang et al., CVPR 2023
+    description: Jiang et al., CVPR 2023. Alignment-aware training that reduces misalignment blur so NeRF renders high-resolution detail.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -848,4 +937,6 @@ entries:
         - web
       skill:
         - advanced
+      workflow:
+        - rendering
     year: 2023

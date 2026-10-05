@@ -2,7 +2,7 @@ entries:
   - name: Realistic Hair in Blender
     url: https://www.wingfox.com/c/8319
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Hair creation course.
+    description: Wingfox course on creating realistic hair in Blender.
     entry_type: tutorial
     license: Paid
     tags:
@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Hair
       - Course
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Texture Paint Manual
     url: https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html
@@ -27,7 +27,7 @@ entries:
     description: Official Blender manual for the texture paint mode.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -42,12 +42,12 @@ entries:
       tech:
         - blender
   - name: Programming Add-ons for Blender 2.8
-    url: http://airplanes3d.net/pydev-000_e.xml
+    url: https://airplanes3d.net/pydev-000_e.xml
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free ebook on setting up a Python IDE to write Blender add-ons, worked through a sample plugin.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -66,7 +66,7 @@ entries:
     description: Blog of Blender Python snippets to get started with scripting.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Manual
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -98,15 +98,15 @@ entries:
       tech:
         - blender
   - name: Animation & Rigging Manual
-    url: https://docs.blender.org/manual/en/latest/physics/index.html
+    url: https://docs.blender.org/manual/en/latest/animation/index.html
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Animation & Rigging Manual.
+    description: Blender manual section on keyframes, drivers, constraints, shape keys and armature rigging.
     entry_type: community
     license: Free
     readme_tags:
       - Blender Docs
       - Rigging
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -118,13 +118,13 @@ entries:
   - name: Compositing Nodes List
     url: https://docs.blender.org/manual/en/latest/compositing/index.html#node-types
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Compositing Nodes List.
+    description: Blender manual section listing every compositor node type and what it does.
     entry_type: community
     license: Free
     readme_tags:
       - Blender Docs
       - Compositing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -136,13 +136,13 @@ entries:
   - name: Motion Tracking Manual
     url: https://docs.blender.org/manual/en/latest/movie_clip/tracking/introduction.html
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Motion Tracking Manual.
+    description: Blender manual section on motion tracking and camera solving in the Movie Clip editor.
     entry_type: community
     license: Free
     readme_tags:
       - Blender Docs
       - Tracking
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -160,7 +160,7 @@ entries:
     readme_tags:
       - Blender Docs
       - Python API
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -178,7 +178,7 @@ entries:
     readme_tags:
       - Archviz
       - Blender Books
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

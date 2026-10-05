@@ -15,14 +15,13 @@ entries:
     readme_tags:
       - Mechanical CAD
       - Industry Standard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: PTC Creo
     url: https://www.ptc.com/en/products/creo
     added_at: '2026-05-05T11:50:37.000Z'
     description: Parametric mechanical CAD with simulation, generative design, and additive workflows.
-    pricing: Quote-based; perpetual ~$2,200–$16,000; subs $200–$1,500/mo
+    pricing: Quote-based; perpetual ~$2,200-$16,000; subs $200-$1,500/mo
     license: Paid
     entry_type: software
     best_for: High-end mechanical engineering
@@ -34,7 +33,7 @@ entries:
     readme_tags:
       - Parametric CAD
       - Industry Standard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Siemens NX
     url: https://plm.sw.siemens.com/en-US/nx/
@@ -53,10 +52,10 @@ entries:
     readme_tags:
       - PLM
       - Industry Standard
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: redirect
   - name: BricsCAD
-    url: https://www.bricsys.com/bricscad
+    url: https://bricscad.octave.com/bricscad
     added_at: '2026-05-05T11:50:37.000Z'
     description: AutoCAD-compatible DWG CAD; offers both perpetual and subscription licensing.
     pricing: Lite from €314; Pro $1,752 perpetual; Ultimate from €1,176/yr
@@ -74,7 +73,7 @@ entries:
     readme_tags:
       - DWG-Compatible
       - Cross-Platform
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Shapr3D
     url: https://www.shapr3d.com/
@@ -94,7 +93,7 @@ entries:
     readme_tags:
       - Touch-first
       - Cross-Platform
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FreeCAD
     url: https://www.freecad.org/
@@ -118,7 +117,7 @@ entries:
     readme_tags:
       - Parametric
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Onshape Free
     url: https://www.onshape.com/en/products/free
@@ -140,7 +139,7 @@ entries:
     readme_tags:
       - Cloud CAD
       - Collaborative
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Fusion 360 Personal
     url: https://www.autodesk.com/products/fusion-360/personal
@@ -162,9 +161,8 @@ entries:
     readme_tags:
       - CAD/CAM
       - Personal Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
-    deprecated: true
   - name: OpenSCAD
     url: https://openscad.org/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -188,12 +186,12 @@ entries:
     readme_tags:
       - Script-Based
       - Parametric
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: LibreCAD
     url: https://librecad.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Free open-source 2D CAD.
+    description: Free open-source 2D CAD application for technical drawings, with DXF support.
     license: Open Source
     entry_type: software
     best_for: 2D drafting
@@ -212,7 +210,7 @@ entries:
     readme_tags:
       - 2D CAD
       - Drafting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: AutoCAD
     url: https://www.autodesk.com/products/autocad
@@ -234,7 +232,7 @@ entries:
     readme_tags:
       - Industry Standard
       - 2D/3D Drafting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: SolidWorks
     url: https://www.solidworks.com/
@@ -255,8 +253,8 @@ entries:
     readme_tags:
       - Mechanical CAD
       - Simulation
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
   - name: CATIA
     url: https://www.3ds.com/products/catia
     added_at: '2026-04-16T19:59:30.000Z'
@@ -275,7 +273,7 @@ entries:
     readme_tags:
       - Aerospace
       - Automotive
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Rhino
     url: https://www.rhino3d.com/
@@ -299,30 +297,8 @@ entries:
     readme_tags:
       - NURBS
       - Grasshopper
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
-  - name: GrabCAD
-    url: https://grabcad.com
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Community CAD model library.
-    license: Free
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      output:
-        - product-viz
-  - name: Thingiverse
-    url: https://thingiverse.com
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D-printing model community.
-    license: Free
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      output:
-        - product-viz
   - name: Solvespace
     url: https://solvespace.com/index.pl
     added_at: '2026-04-16T21:37:07.000Z'
@@ -344,7 +320,7 @@ entries:
     readme_tags:
       - Parametric
       - Lightweight
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Bitbybit
     url: https://bitbybit.dev/
@@ -368,7 +344,7 @@ entries:
     readme_tags:
       - Browser
       - Parametric
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: PackCAD
     url: https://packcad.com/
@@ -387,7 +363,7 @@ entries:
     readme_tags:
       - Browser
       - Packaging
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Pascal Editor
     url: https://editor.pascal.app/
@@ -409,5 +385,112 @@ entries:
     readme_tags:
       - Browser
       - Building Editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Vectorworks
+    url: https://www.vectorworks.net/
+    description: CAD and BIM software line for architecture, landscape and stage lighting design.
+    pricing: Subscription
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - event-experiential
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.135Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Subscription
+      - BIM
+    best_for: Architecture and stage design
+  - name: Zoo Design Studio
+    url: https://zoo.dev/
+    description: Code-and-UI CAD app with the KCL modeling language on Zoo's own geometry engine.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+        - automotive
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+    added_at: '2026-10-05T08:51:07.136Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Code CAD
+    best_for: Code-based CAD design
+  - name: build123d
+    url: https://build123d.readthedocs.io/
+    description: Python parametric CAD library on OpenCascade that exports STEP and STL.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.138Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Python
+    best_for: Code-based parametric CAD
+  - name: CadQuery
+    url: https://cadquery.github.io/
+    description: Python library for parametric CAD models on the OpenCascade kernel.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.140Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Python
+    best_for: Scripted parametric CAD
+  - name: Dune 3D
+    url: https://dune3d.org/
+    description: Open-source parametric CAD app with a SolveSpace-derived constraint solver and STEP support.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - win
+        - linux
+    added_at: '2026-10-05T08:51:07.141Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - CAD
+    best_for: Parametric mechanical parts

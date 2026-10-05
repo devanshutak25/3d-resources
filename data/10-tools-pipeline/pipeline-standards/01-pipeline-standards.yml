@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Material Interchange
       - Lucasfilm
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - PBR Standard
       - Adobe + Autodesk
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: ACES 2.0
     url: https://acescentral.com/
@@ -61,7 +61,7 @@ entries:
     readme_tags:
       - Color Encoding
       - Academy
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: OpenTimelineIO (GitHub)
     url: https://github.com/AcademySoftwareFoundation/OpenTimelineIO
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Timeline Interchange
       - Pixar
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -86,7 +86,7 @@ entries:
       tech:
         - opensource-alt
   - name: Alembic
-    url: http://www.alembic.io/
+    url: https://www.alembic.io/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Geometry/animation interchange format (Sony + ILM).
     license: Open Source
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - Geo/Anim Cache
       - Sony + ILM
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -106,39 +106,19 @@ entries:
       tech:
         - opensource-alt
   - name: MaterialX (GitHub)
-    url: https://github.com/materialx/MaterialX
+    url: https://github.com/AcademySoftwareFoundation/MaterialX
     added_at: '2026-04-16T21:13:44.000Z'
     description: Source repo for the MaterialX material and look-dev interchange standard.
     license: Open Source
     entry_type: reference
     readme_tags:
       - Material Interchange
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - material-authoring
         - look-dev
-      output:
-        - film-vfx
-      platform:
-        - win
-        - mac
-        - linux
-      tech:
-        - opensource-alt
-  - name: Open Image IO
-    url: https://github.com/OpenImageIO/oiio
-    added_at: '2026-04-16T21:13:44.000Z'
-    description: A library for reading and writing images in many common and VFX-related formats.
-    license: Open Source
-    entry_type: reference
-    readme_tags:
-      - Image I/O
-      - VFX Standard
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
       output:
         - film-vfx
       platform:
@@ -156,8 +136,10 @@ entries:
     readme_tags:
       - EXR Deep
       - DreamWorks
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    notes: Project site gone; redirects to dreamworks.com home.
+    deprecated: true
     tags:
       workflow:
         - compositing
@@ -176,7 +158,7 @@ entries:
     readme_tags:
       - Library Versions
       - Industry Spec
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -192,7 +174,7 @@ entries:
     readme_tags:
       - Material Standard
       - NVIDIA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -207,12 +189,12 @@ entries:
       tech:
         - opensource-alt
   - name: OpenEXR
-    url: http://www.openexr.com/
+    url: https://www.openexr.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: High dynamic range image format for visual effects, from ILM.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -229,7 +211,7 @@ entries:
     description: Color management solution for motion picture production. Open source.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -246,7 +228,7 @@ entries:
     description: Render management system from Sony Imageworks. Open source.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -255,3 +237,23 @@ entries:
         - web
       tech:
         - opensource-alt
+  - name: OpenAssetIO
+    url: https://docs.openassetio.org/
+    description: Open API that connects DCC tools to asset management systems through one interface.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.415Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Pipeline
+    best_for: DCC asset system integration

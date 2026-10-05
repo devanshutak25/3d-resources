@@ -61,12 +61,12 @@ function renderOne(template, meta, count) {
   const chipWidth = 50 + countText.length * 14;
 
   const svg = template
-    .replace('{{TITLE_LINE_1}}', xmlEscape(line1))
-    .replace('{{TITLE_LINE_2}}', xmlEscape(line2))
-    .replace('{{TAGLINE}}', xmlEscape(meta.description || ''))
-    .replace('{{COUNT_TEXT}}', xmlEscape(countText))
-    .replace('{{COUNT_CHIP_WIDTH}}', String(chipWidth))
-    .replace('{{SLUG}}', xmlEscape(meta.slug));
+    .replace('{{TITLE_LINE_1}}', () => xmlEscape(line1))
+    .replace('{{TITLE_LINE_2}}', () => xmlEscape(line2))
+    .replace('{{TAGLINE}}', () => xmlEscape(meta.description || ''))
+    .replace('{{COUNT_TEXT}}', () => xmlEscape(countText))
+    .replace('{{COUNT_CHIP_WIDTH}}', () => String(chipWidth))
+    .replace('{{SLUG}}', () => xmlEscape(meta.slug));
 
   const resvg = new Resvg(svg, {
     fitTo: { mode: 'width', value: 1200 },
