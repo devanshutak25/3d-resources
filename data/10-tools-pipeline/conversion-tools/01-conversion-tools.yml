@@ -617,3 +617,21 @@ entries:
       - SketchUp
     best_for: Importing models to SketchUp
     pricing_last_verified: '2026-10-05'
+  - name: Remove Audio Video Converter
+    url: https://remove-audio.com/tools/convert-video
+    added_at: '2026-10-03T20:58:46.000Z'
+    description: Browser-based converter that turns MOV, MKV, AVI, WebM and other videos into MP4 or MP3 without uploading the file.
+    pricing: Free in-browser, paid cloud credits for large files
+    entry_type: tool
+    license: Freemium
+    readme_tags:
+      - Browser
+      - Video to MP4
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    pricing_last_verified: '2026-10-05'
