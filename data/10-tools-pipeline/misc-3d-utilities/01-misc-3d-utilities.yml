@@ -625,7 +625,7 @@ entries:
     added_at: '2026-09-18T00:00:00.000Z'
     description: Local-first library manager for large 3D model folders, with rendered
       thumbnails, tagging, and duplicate detection across STL, 3MF, OBJ, FBX, and STEP.
-    pricing: $34.99 one-time, free trial
+    pricing: $34.99 one-time ($39.99 from 2026-10-28), 14-day money-back guarantee, browser demo
     license: Paid
     entry_type: tool
     readme_tags:
@@ -640,3 +640,6 @@ entries:
         - linux
       tech:
         - perpetual
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    pricing_last_verified: '2026-10-05'
