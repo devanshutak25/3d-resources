@@ -182,7 +182,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
 - [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(50 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
 - [Plugin & Addon Marketplaces](#plugin--addon-marketplaces) <span class="toc-count">(50 items)</span><br><small class="toc-desc">Per-software plugin marketplaces.</small>
-- [Conversion Tools](#conversion-tools) <span class="toc-count">(38 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
+- [Conversion Tools](#conversion-tools) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
 - [Pipeline Standards](#pipeline-standards) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Interchange formats and standards.</small>
 - [Pipeline Overview](#pipeline-overview) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Industry-to-software quick reference.</small>
 
@@ -4254,6 +4254,7 @@ Format conversion across image, video, audio, and 3D.
 - [Packyderm](https://isometric8.itch.io/packyderm-unitypackage-extractor). A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity.
 - [Pixelicious](https://www.scenario.com/features/pixelate/). Image-to-Pixel Art converter.
 - [PNGQuant](https://pngquant.org/). CLI lossy PNG compression.
+- [Remove Audio Video Converter](https://remove-audio.com/tools/convert-video) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Browser-based converter that turns MOV, MKV, AVI, WebM and other videos into MP4 or MP3 without uploading the file.
 - [SoX](https://sourceforge.net/projects/sox/). Command-line audio converter and batch processor for format, resample, and effect passes.<br><small class="see-also">See also: <a href="#audio-software">Software Reference → Audio Software</a></small>
 - [Squoosh](https://squoosh.app/). Google. AVIF/WebP/JPEG XL image compression.
 - [TinyPNG](https://tinypng.com/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Lossy PNG/JPEG compression.
