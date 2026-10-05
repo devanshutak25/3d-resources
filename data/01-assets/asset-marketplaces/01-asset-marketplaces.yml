@@ -2,13 +2,13 @@ entries:
   - name: ArtStation Marketplace
     url: https://www.artstation.com/marketplace
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Professional assets.
+    description: ArtStation storefront where artists sell 3D models, brushes, tutorials and other assets.
     entry_type: marketplace
     license: Paid
     readme_tags:
       - Professional
       - Creator-Direct
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -18,7 +18,7 @@ entries:
   - name: Unity Asset Store
     url: https://assetstore.unity.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game-ready assets.
+    description: Unity's official store for 3D models, tools, scripts and other game assets.
     entry_type: marketplace
     license: Freemium
     tags:
@@ -31,12 +31,12 @@ entries:
     readme_tags:
       - Unity-Ready
       - Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Unreal Marketplace
     url: https://www.unrealengine.com/marketplace
     added_at: '2026-04-16T19:59:30.000Z'
-    description: UE-optimized assets.
+    description: Epic's former Unreal Engine asset store, now merged into Fab, with UE-ready assets.
     entry_type: marketplace
     license: Freemium
     tags:
@@ -50,10 +50,10 @@ entries:
     readme_tags:
       - UE-Optimized
       - Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blender Market
-    url: https://blendermarket.com/
+    url: https://superhivemarket.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Blender-specific assets and addons.
     entry_type: marketplace
@@ -69,12 +69,12 @@ entries:
     readme_tags:
       - Blender-Specific
       - Addons + Assets
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cubebrush
     url: https://cubebrush.co/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Art and game assets.
+    description: Marketplace for game art assets, brushes, textures and tutorials sold by artists.
     entry_type: marketplace
     license: Paid
     tags:
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Art Assets
       - Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Fab (Epic)
     url: https://www.fab.com/
@@ -96,7 +96,7 @@ entries:
     readme_tags:
       - Unified
       - Epic-backed
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -104,12 +104,12 @@ entries:
       platform:
         - web
   - name: Julio Sillet (Gumroad)
-    url: https://gumroad.com/juliosillet
+    url: https://juliosillet.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free and paid PBR texture sets and material packs.
     license: Freemium
     entry_type: asset-source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -127,7 +127,7 @@ entries:
     description: Daz Content, 3D models, textures and materials.
     entry_type: marketplace
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -146,7 +146,7 @@ entries:
     readme_tags:
       - Gaussian Splatting
       - 3D Scans
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -161,8 +161,9 @@ entries:
     description: Desktop app linking Megascans to Blender and other DCC tools.
     license: Free
     entry_type: tool
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    deprecated: true
     notes: Being folded into Fab by Epic.
     tags:
       workflow:

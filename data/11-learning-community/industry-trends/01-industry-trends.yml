@@ -15,10 +15,10 @@ entries:
     readme_tags:
       - AI Pipeline
       - Industry-wide
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Real-Time Path Tracing
-    url: https://developer.nvidia.com/rtx
+    url: https://www.nvidia.com/en-us/technologies/rtx/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Shipping in games (Cyberpunk 2077, Alan Wake 2). RTX 50-series + DLSS 4 with neural rendering.
     entry_type: reference
@@ -34,7 +34,7 @@ entries:
     readme_tags:
       - Real-time RT
       - Neural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: WebGPU Adoption
     url: https://www.w3.org/TR/webgpu/
@@ -51,7 +51,7 @@ entries:
     readme_tags:
       - WebGPU
       - Browser Compute
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Virtual Production
     url: https://www.disguise.one/
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - LED Volumes
       - Standardizing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Neural Rendering
     url: https://developer.nvidia.com/rtx-kit
@@ -82,7 +82,7 @@ entries:
     readme_tags:
       - Neural
       - Research
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: The Pipeline Conference
     url: https://thepipelineconference.com
@@ -97,5 +97,5 @@ entries:
     readme_tags:
       - Conference
       - Pipeline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

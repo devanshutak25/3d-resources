@@ -19,10 +19,10 @@ entries:
     readme_tags:
       - Batch Convert
       - 500+ Formats
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: DJV
-    url: https://github.com/darbyjohnston/DJV
+    url: https://github.com/grizzlypeak3d/DJV
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free professional image sequence viewer.
     license: Open Source
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Image Sequences
       - Film Pipeline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: f3d
     url: https://f3d.app/
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - 3D Preview
       - USD Support
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: mrViewer
     url: https://mrviewer.sourceforge.io/
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - EXR Viewer
       - VFX Pipeline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: glb.gallery
     url: https://glb.gallery
@@ -111,12 +111,12 @@ entries:
     readme_tags:
       - Embeddable
       - GLB
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: OpenEXR Viewer
     url: https://github.com/AcademySoftwareFoundation/openexr
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Official EXR tools.
+    description: Academy Software Foundation repository for OpenEXR, including the reference library and command-line EXR tools.
     license: Open Source
     entry_type: software
     best_for: EXR inspection
@@ -135,7 +135,7 @@ entries:
     readme_tags:
       - Official EXR
       - ASWF
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: OpenRV
     url: https://github.com/AcademySoftwareFoundation/openrv
@@ -159,7 +159,7 @@ entries:
     readme_tags:
       - Review Player
       - ASWF
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: xStudio
     url: https://github.com/AcademySoftwareFoundation/xstudio
@@ -182,15 +182,15 @@ entries:
     readme_tags:
       - Review Player
       - ASWF
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Connecter
-    url: https://www.designconnected.com/connecter
+    url: https://connecterapp.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free and visual creative assets management for 3d, AEC and design professionals.
     license: Free
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -208,7 +208,7 @@ entries:
     readme_tags:
       - Batch
       - 80+ Actions
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -227,11 +227,15 @@ entries:
     readme_tags:
       - H.265/AV1
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
   - name: Shutter Encoder
@@ -244,7 +248,7 @@ entries:
     readme_tags:
       - FFmpeg GUI
       - Pro Presets
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -263,11 +267,15 @@ entries:
     readme_tags:
       - Audio Batch
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
   - name: Luminance HDR
@@ -282,11 +290,80 @@ entries:
         - lighting
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - HDR Workflow
       - EXR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
       - tools-pipeline-utilities/photogrammetry-scanning
+  - name: tev
+    url: https://github.com/Tom94/tev
+    description: HDR image viewer for comparing EXRs with pixel inspection, exposure and error metrics.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - compositing
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.407Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - EXR
+    best_for: Comparing HDR renders
+  - name: Online 3D Viewer
+    url: https://3dviewer.net/
+    description: Browser viewer for OBJ, FBX, glTF, STL, 3DM, STEP and other 3D files.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    added_at: '2026-10-05T08:51:07.408Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Browser
+    best_for: Quick 3D file preview
+  - name: mrv2
+    url: https://mrv2.sourceforge.io/
+    description: Flipbook and review player for EXR sequences, video and USD with annotations and OCIO. Successor to mrViewer.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - usd
+    added_at: '2026-10-05T08:51:07.410Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - OCIO
+    best_for: Dailies and shot review

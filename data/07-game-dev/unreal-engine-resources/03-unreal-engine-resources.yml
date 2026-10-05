@@ -5,7 +5,7 @@ entries:
     description: Socket.io client plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -26,7 +26,7 @@ entries:
     description: Use Google gRPC services from C++ or Blueprints in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -49,7 +49,7 @@ entries:
     description: Convenience UDP wrapper for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -70,7 +70,7 @@ entries:
     description: Convenience TCP wrapper for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -91,7 +91,7 @@ entries:
     description: Server registration and discovery against a master server in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -114,7 +114,7 @@ entries:
     description: WebSocket plugin for Unreal Engine 4, usable from C++ and Blueprint.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -137,7 +137,7 @@ entries:
     description: Exposes MQTT client functionality to Blueprints in Unreal Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -158,7 +158,7 @@ entries:
     description: Scan, connect to, and subscribe to Bluetooth LE devices from Unreal Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -181,7 +181,7 @@ entries:
     description: GGPO rollback netcode port for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -202,7 +202,7 @@ entries:
     description: MMO server instancing, dungeon instancing, and player balancing subsystem for Unreal Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -223,7 +223,7 @@ entries:
     description: Kafka/Redpanda client subsystem for Unreal Engine, usable from Blueprint and C++.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -244,7 +244,7 @@ entries:
     description: SignalR client for Unreal Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -265,7 +265,7 @@ entries:
     description: Replication Graph setup helper for Unreal Engine multiplayer.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -288,7 +288,7 @@ entries:
     description: Custom Kismet node system that lets you write C++ inside Blueprint graphs.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -311,7 +311,7 @@ entries:
     description: Plugin and sample implementing the Epic Online Services SDK in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -335,7 +335,7 @@ entries:
     description: Minimal starter template for small Unreal Engine games.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -358,7 +358,7 @@ entries:
     description: Embed Python scripting in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -381,7 +381,7 @@ entries:
     description: Lua scripting plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -402,7 +402,7 @@ entries:
     description: C# scripting plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -426,7 +426,7 @@ entries:
     description: Lua API integration plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -447,7 +447,7 @@ entries:
     description: Write game logic in TypeScript for Unreal Engine 4 or Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -468,7 +468,7 @@ entries:
     description: Nim language integration for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -491,7 +491,7 @@ entries:
     description: Use the Kotlin language with Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -514,7 +514,7 @@ entries:
     description: Haxe integration for Unreal Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -537,7 +537,7 @@ entries:
     description: Lua scripting plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -560,7 +560,7 @@ entries:
     description: Integrates Protocol Buffers into Unreal Engine 4 without extra system setup.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -583,7 +583,7 @@ entries:
     description: Serialization framework for the Unreal property system.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -604,7 +604,7 @@ entries:
     description: Audio analysis functions for Unreal Engine. Pairs with Runtime Audio Importer.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -626,7 +626,7 @@ entries:
     description: Adaptive music plugin for Unreal Engine games.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -638,6 +638,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+      workflow:
+        - audio-design
     readme_tags:
       - adaptive-music
       - audio
@@ -647,7 +649,7 @@ entries:
     description: Offline real-time speech recognition for Unreal Engine, based on whisper.cpp.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -669,7 +671,7 @@ entries:
     description: OSVR open-source VR headset plugin for Unreal Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -693,7 +695,7 @@ entries:
     description: UX tools and components for Mixed Reality apps in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -718,7 +720,7 @@ entries:
     description: Resizable UMG widget for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -741,7 +743,7 @@ entries:
     description: UMG widget switcher that loads only the active widget in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -764,7 +766,7 @@ entries:
     description: Sample showing how to render a 3D mesh inside a UMG widget.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -787,7 +789,7 @@ entries:
     description: Use a gamepad like a mouse in UMG menus in Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -810,7 +812,7 @@ entries:
     description: Integrates Dear ImGui debug UI into Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -831,7 +833,7 @@ entries:
     description: UMG UI tweening library for Unreal Engine 4, written in C++.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -854,7 +856,7 @@ entries:
     description: Simple canvas-based GUI with mouse input for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -875,7 +877,7 @@ entries:
     description: Flexible UI framework for Unreal Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -898,7 +900,7 @@ entries:
     description: Event-driven 7-Zip compression utility for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -919,7 +921,7 @@ entries:
     description: UE Explorer's library for parsing data from Unreal Engine games.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -937,7 +939,7 @@ entries:
     description: Transfers Unity scenes and projects into Unreal Engine.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -960,7 +962,7 @@ entries:
     description: Builds installed (Rocket) Unreal Engine binaries from GitHub source.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -980,7 +982,7 @@ entries:
     description: Prefab system plugin for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1001,7 +1003,7 @@ entries:
     description: Capture and display OS windows in real time inside Unreal Engine.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1023,7 +1025,7 @@ entries:
     description: Modular, Blueprint-friendly noise generation for Unreal Engine 4.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1045,7 +1047,7 @@ entries:
     description: Blueprint wrapper for the FastNoise2 noise generation library.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1067,7 +1069,7 @@ entries:
     description: Configure an async loading screen system from Unreal Engine project settings.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1088,7 +1090,7 @@ entries:
     description: Loosely coupled global event system for cross-map and cross-Blueprint communication.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

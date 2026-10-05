@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Tim Cain
       - Fallout Creator
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -20,13 +20,13 @@ entries:
   - name: Game Maker's Toolkit
     url: https://www.youtube.com/@GMTK
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Game design analysis.
+    description: YouTube channel by Mark Brown analyzing game design through video essays.
     entry_type: channel
     license: Free
     readme_tags:
       - Design Analysis
       - GMTK
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -55,18 +55,18 @@ entries:
     readme_tags:
       - Procedural
       - Simulations
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blackthornprod
     url: https://www.youtube.com/@Blackthornprod
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 2D art and design.
+    description: YouTube channel with game dev tutorials covering 2D art, Unity and game design.
     entry_type: channel
     license: Free
     readme_tags:
       - 2D Art
       - Indie
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -84,7 +84,7 @@ entries:
     readme_tags:
       - Sakurai
       - Design Philosophy
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -96,13 +96,13 @@ entries:
   - name: Jonas Tyroller
     url: https://www.youtube.com/@jonastyroller
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Indie dev logs.
+    description: YouTube channel of Jonas Tyroller with indie game devlogs and game design videos.
     entry_type: channel
     license: Free
     readme_tags:
       - Indie Devlogs
       - Thinking
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -120,7 +120,7 @@ entries:
     readme_tags:
       - Indie Business
       - Marketing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -132,13 +132,13 @@ entries:
   - name: Aarthificial
     url: https://www.youtube.com/@aarthificial
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pixel art devlogs.
+    description: YouTube channel with pixel art and game development devlogs.
     entry_type: channel
     license: Free
     readme_tags:
       - Pixel Art
       - Devlogs
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -152,13 +152,13 @@ entries:
   - name: t3ssel8r
     url: https://www.youtube.com/@t3ssel8r
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Stylized rendering.
+    description: YouTube channel showing a stylized pixel-art 3D rendering style and its techniques.
     entry_type: channel
     license: Free
     readme_tags:
       - Stylized Render
       - Breakdowns
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -172,13 +172,13 @@ entries:
   - name: Acerola
     url: https://www.youtube.com/@Acerola_t
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Graphics programming.
+    description: YouTube channel explaining graphics programming and shader techniques.
     entry_type: channel
     license: Free
     readme_tags:
       - Graphics Programming
       - Shaders
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -199,7 +199,7 @@ entries:
     readme_tags:
       - Math
       - Shaders
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -213,13 +213,13 @@ entries:
   - name: SimonDev
     url: https://www.youtube.com/@simondev758
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D programming, WebGL.
+    description: YouTube channel of Simon Dev on game and 3D programming, including Three.js and WebGL.
     entry_type: channel
     license: Free
     readme_tags:
       - 3D Programming
       - WebGL
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -233,7 +233,7 @@ entries:
   - name: Pontypants
     url: https://www.youtube.com/@Pontypants
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Animation for games.
+    description: YouTube channel of Pontypants documenting game development, including animation for games.
     entry_type: channel
     license: Free
     tags:
@@ -248,18 +248,18 @@ entries:
     readme_tags:
       - Animation
       - Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GDQuest (YouTube)
     url: https://www.youtube.com/@GDQuest
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Godot tutorials.
+    description: GDQuest YouTube channel with Godot game development tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Godot
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -288,7 +288,7 @@ entries:
         - intermediate
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: MFGD - Fragment Shaders
     url: https://www.youtube.com/@JorgeVinoRodriguez
@@ -296,7 +296,7 @@ entries:
     description: YouTube playlist about fragment shaders.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -317,7 +317,7 @@ entries:
     readme_tags:
       - C++
       - Engines
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -334,7 +334,7 @@ entries:
     description: 'Unreal game-dev tutorial channel: blueprints, C++, quests, and GAS, ordered for beginners (160+ videos).'
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -353,7 +353,7 @@ entries:
     description: Libgdx documentation wiki (includes Texture Packer page).
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:

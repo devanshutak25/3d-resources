@@ -17,7 +17,7 @@ entries:
     readme_tags:
       - Dialogue
       - Unity/Godot
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ink
     url: https://www.inklestudios.com/ink/
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Narrative Script
       - Inkle
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Twine
     url: https://twinery.org/
@@ -48,7 +48,7 @@ entries:
     readme_tags:
       - Interactive Fiction
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -66,7 +66,7 @@ entries:
     description: Prototype component pattern for Unity.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -81,10 +81,10 @@ entries:
   - name: Ink Unity Integration
     url: https://github.com/inkle/ink-unity-integration
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.
+    description: Unity integration for the open source ink narrative scripting language.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

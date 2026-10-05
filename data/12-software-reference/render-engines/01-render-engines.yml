@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - Unbiased
       - Photoreal
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Indigo Renderer
     url: https://indigorenderer.com/
@@ -45,13 +45,13 @@ entries:
     readme_tags:
       - Unbiased
       - GPU/CPU
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Lumion
     url: https://lumion.com/
     added_at: '2026-05-05T11:50:37.000Z'
     description: Real-time architectural visualization renderer with cloud rendering bundled.
-    pricing: View $229–$299/yr; Pro $1,149/yr; Studio $1,499/yr
+    pricing: View $229-$299/yr; Pro $1,149/yr; Studio $1,499/yr
     license: Paid
     entry_type: software
     best_for: Real-time archviz
@@ -66,7 +66,7 @@ entries:
     readme_tags:
       - Real-time
       - Archviz
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Enscape
     url: https://www.chaos.com/enscape
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Real-time
       - Archviz Plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     notes: Perpetual licenses discontinued mid-2025; subscription only.
   - name: Krakatoa
@@ -112,7 +112,7 @@ entries:
     readme_tags:
       - Free OSS
       - Particles
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Redshift (Maxon)
     url: https://www.maxon.net/en/redshift
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - GPU-biased
       - Production
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Octane (OTOY)
     url: https://home.otoy.com/render/octane-render/
@@ -165,7 +165,7 @@ entries:
     readme_tags:
       - GPU Unbiased
       - Photoreal
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Arnold (Autodesk)
     url: https://www.autodesk.com/products/arnold/overview
@@ -191,7 +191,7 @@ entries:
     readme_tags:
       - Film-grade
       - CPU/GPU Hybrid
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: V-Ray (Chaos)
     url: https://www.chaos.com/vray
@@ -216,7 +216,7 @@ entries:
     readme_tags:
       - Arch-Viz
       - Industry Standard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Corona (Chaos)
     url: https://www.chaos.com/corona
@@ -238,7 +238,7 @@ entries:
     readme_tags:
       - CPU-only
       - Interiors
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cycles
     url: https://www.cycles-renderer.org/
@@ -265,7 +265,7 @@ entries:
     readme_tags:
       - Open Source
       - Path-tracing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Karma (SideFX)
     url: https://www.sidefx.com/products/karma/
@@ -291,7 +291,7 @@ entries:
     readme_tags:
       - USD-native
       - Houdini
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: RenderMan (Pixar)
     url: https://renderman.pixar.com/
@@ -315,7 +315,7 @@ entries:
     readme_tags:
       - Free NC
       - Pixar Pipeline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: KeyShot (Luxion)
     url: https://www.keyshot.com/
@@ -340,7 +340,7 @@ entries:
     readme_tags:
       - Product Viz
       - Real-time
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: LuxCore
     url: https://luxcorerender.org/
@@ -365,15 +365,17 @@ entries:
     readme_tags:
       - Open Source
       - Physically Accurate
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
-  - name: Guerrilla Render
+  - name: Guerilla Render
     url: http://guerillarender.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Production renderer used on feature films.
-    license: Free
+    description: Bidirectional path tracer and lookdev/lighting app by Mercenaries Engineering, used on animated features. Free Discover tier, paid Station seats and render nodes.
+    pricing: Free Discover tier, Station from €1,200/seat, render nodes from €350
+    pricing_last_verified: '2026-10-05'
+    license: Freemium
     entry_type: software
-    best_for: Film production
+    best_for: Animated feature lookdev and lighting
     tags:
       workflow:
         - rendering
@@ -386,7 +388,7 @@ entries:
     readme_tags:
       - Production
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: D5 Render
     url: https://www.d5render.com/
@@ -409,7 +411,7 @@ entries:
     readme_tags:
       - Real-time
       - Arch-Viz
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Twinmotion (Epic)
     url: https://www.twinmotion.com/
@@ -433,7 +435,7 @@ entries:
     readme_tags:
       - Real-time
       - Epic Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Radeon ProRender (AMD)
     url: https://www.amd.com/en/products/graphics/software/radeon-prorender.html
@@ -457,70 +459,20 @@ entries:
     readme_tags:
       - GPU-agnostic
       - Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
-  - name: RenderMan Community
-    url: https://renderman.pixar.com/community
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Free RenderMan assets, shaders, HDRIs.
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-  - name: Chaos Cosmos
-    url: https://www.chaos.com/cosmos
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Free V-Ray/Corona asset library (3D models, materials, HDRIs).
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-  - name: Redshift Community
-    url: https://redshift.maxon.net/
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Forums, shaders, resources.
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-  - name: Arnold Resources
-    url: https://www.autodesk.com/products/arnold/resources
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Official shaders, docs, tutorials.
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
-    deprecated: true
   - name: OTOY Octane Render Cloud
     url: https://render.otoy.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free ORBX assets and cloud rendering.
-    entry_type: reference
-    url_last_verified: '2026-09-01'
+    entry_type: service
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
-  - name: Hexels
-    url: https://www.marmoset.co/hexels/
-    added_at: '2026-04-16T21:13:44.000Z'
-    description: 2D grid-based painting tool from Marmoset.
-    license: Paid
-    entry_type: reference
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      workflow:
-        - rendering
+      platform:
+        - web
   - name: MoonRay
     url: https://openmoonray.org/index
     added_at: '2026-04-16T21:37:07.000Z'
@@ -536,10 +488,13 @@ entries:
       tech:
         - path-tracing
         - opensource-alt
+      platform:
+        - linux
+        - mac
     readme_tags:
       - DreamWorks
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Falcor
     url: https://github.com/NVIDIAGameWorks/Falcor
@@ -547,65 +502,80 @@ entries:
     description: A real-time rendering framework supporting DirectX 12 aiming to improve the productivity of research and prototype projects.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
   - name: StratusGFX
     url: https://github.com/KTStephano/StratusGFX
     added_at: '2026-04-16T21:13:44.000Z'
     description: Free and open source Realtime 3D rendering engine.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - linux
   - name: Aurora
     url: https://github.com/Autodesk/Aurora
     added_at: '2026-04-16T21:13:44.000Z'
     description: A real-time path tracing renderer that enables fast product visualizations.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - linux
   - name: kajiya
     url: https://github.com/EmbarkStudios/kajiya
     added_at: '2026-04-16T21:13:44.000Z'
     description: Experimental real-time global illumination renderer made with Rust and Vulkan.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - linux
   - name: Sunflow
     url: https://github.com/fpsunflower/sunflow
     added_at: '2026-04-16T21:13:44.000Z'
     description: Not maintained, Sunflow is an open source rendering system for photo-realistic image synthesis.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2019-04-16'
   - name: Yafaray
@@ -614,63 +584,81 @@ entries:
     description: LibYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     stale: true
     last_pushed: '2024-01-28'
   - name: Horde3D
     url: http://www.horde3d.org/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Small open source 3D rendering engine.
-    entry_type: reference
+    entry_type: software
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      platform:
+        - win
+        - mac
+        - linux
   - name: aerialod
     url: https://ephtracy.github.io/index.html?page=aerialod
     added_at: '2026-04-19T17:15:03.000Z'
     description: A free interactive path tracing renderer for height maps.
     license: Free
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       tech:
         - path-tracing
+      platform:
+        - win
   - name: Light Tracer Render
     url: https://lighttracer.org/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Provides you with everything you need to create photorealistic renderings interactively, in both desktop Web browsers and Windows application.
     entry_type: software
     license: Freemium
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - blender
         - blender-addon
+      platform:
+        - web
+        - win
+        - mac
   - name: Sheep it Render Farm
     url: https://www.sheepit-renderfarm.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free distributed renderfarm for Blender.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - blender
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: AMD Blender USD Hydra
     url: https://gpuopen.com/learn/amd-usd-hydra-blender/
     added_at: '2026-04-19T17:15:03.000Z'
@@ -684,10 +672,14 @@ entries:
       tech:
         - usd
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - USD
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Radeon ProRender
     url: https://www.amd.com/en/technologies/radeon-prorender
@@ -702,14 +694,16 @@ entries:
     readme_tags:
       - Renderer
       - Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    notes: AMD removed the ProRender page; redirects to amd.com home.
+    deprecated: true
   - name: DreamWork's MoonRay
     url: https://openmoonray.org/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Physically based path-tracing renderer with a USD Hydra delegate and Arras distributed/cloud rendering.
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -722,7 +716,7 @@ entries:
     description: Non-photorealistic rendering (NPR) framework. Real-time, customizable rendering for animation and illustration. Works as a Blender render engine.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -737,3 +731,132 @@ entries:
         - opensource-alt
         - real-time
         - blender-addon
+  - name: Chaos Vantage
+    url: https://www.chaos.com/vantage
+    description: Real-time ray-traced renderer for exploring large V-Ray, USD and MaterialX scenes.
+    pricing: Subscription, 30-day trial
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - archviz
+        - film-vfx
+        - product-viz
+      platform:
+        - win
+      tech:
+        - real-time
+        - ray-tracing
+        - usd
+    added_at: '2026-10-05T08:51:07.381Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Subscription
+      - V-Ray
+    best_for: Real-time V-Ray scene review
+    pricing_last_verified: '2026-10-05'
+  - name: Bella
+    url: https://bellarender.com/
+    description: Spectral path tracer with a standalone GUI, CLI and plugins for Rhino, Maya and SketchUp.
+    pricing: €240 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - product-viz
+        - archviz
+        - jewelry
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+    added_at: '2026-10-05T08:51:07.388Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Spectral
+    best_for: Spectral product rendering
+    pricing_last_verified: '2026-10-05'
+  - name: 3Delight
+    url: https://www.3delight.com/
+    description: OSL-based path tracer with plugins for Maya, Houdini, Cinema 4D, Katana and Hydra.
+    pricing: Free up to 12 cores, paid unlimited
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+        - offline
+    added_at: '2026-10-05T08:51:07.392Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - OSL
+    best_for: Film and animation rendering
+  - name: FStormRender
+    url: https://fstormrender.com/
+    description: GPU renderer plugin for 3ds Max that converts Corona, V-Ray and Octane scenes.
+    pricing: $30/mo
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - win
+      tech:
+        - gpu
+    added_at: '2026-10-05T08:51:07.396Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Subscription
+      - 3ds Max
+    best_for: Archviz GPU rendering
+    pricing_last_verified: '2026-10-05'
+  - name: Thea Render
+    url: https://www.thearender.com/
+    description: CPU and GPU renderer with the real-time Nitro engine, standalone or as a SketchUp and Rhino plugin.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - win
+        - mac
+      tech:
+        - gpu
+    added_at: '2026-10-05T08:51:07.400Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - SketchUp
+    best_for: Archviz rendering

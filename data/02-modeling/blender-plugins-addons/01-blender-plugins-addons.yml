@@ -20,12 +20,12 @@ entries:
     readme_tags:
       - Distributed Render
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blender to Unity FBX
     url: https://github.com/EdyJ/blender-to-unity-fbx-exporter
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Unity export addon.
+    description: Blender addon that exports FBX files with correct axes and scale for Unity.
     license: Open Source
     entry_type: plugin
     tags:
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Unity Export
       - FBX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: MB Lab
     url: https://github.com/animate1978/MB-Lab
@@ -67,13 +67,13 @@ entries:
     readme_tags:
       - Characters
       - Archived
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     archived: true
   - name: PSOFT Pencil+ 4
     url: https://psoft.co.jp/en/product/pencil/blender/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: NPR line rendering.
+    description: Pencil+ 4 for Blender, a plugin for NPR line rendering and toon outlines.
     license: Paid
     entry_type: plugin
     tags:
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - NPR
       - Line Render
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Graswald
     url: https://blendermarket.com/products/graswald
@@ -112,12 +112,14 @@ entries:
     readme_tags:
       - Foliage
       - Premium
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    notes: Product removed from Superhive.
+    deprecated: true
   - name: Easy HDRI
     url: https://codeofart.com/easy-hdri-2-8/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: HDRI management addon.
+    description: Blender addon for browsing, loading and adjusting HDRI environment lighting.
     license: Free
     entry_type: plugin
     tags:
@@ -135,7 +137,7 @@ entries:
     readme_tags:
       - HDRI Management
       - Workflow
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: F Spy Blender
     url: https://github.com/stuffmatic/fSpy-Blender
@@ -143,7 +145,7 @@ entries:
     description: Official fSpy Blender importer.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -166,7 +168,7 @@ entries:
     description: Pyblish publishing-pipeline integration for Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -187,7 +189,7 @@ entries:
     description: VS Code extension for Blender addon development.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -208,7 +210,7 @@ entries:
     description: Helper addons by Antonio Vazquez.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -229,7 +231,7 @@ entries:
     description: Computational and parametric design addon for Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -251,7 +253,7 @@ entries:
     description: Node-based parametric modeling for Blender, aimed at architects.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -274,7 +276,7 @@ entries:
     description: Export manager for sharing assets between Blender and Unreal/Unity.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -295,7 +297,7 @@ entries:
     description: Add-on for unfolding meshes into printable paper models.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -313,8 +315,10 @@ entries:
     description: AMD's physically based GPU/CPU render engine for Blender.
     license: Free
     entry_type: plugin
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    notes: AMD removed the ProRender page; redirects to amd.com home.
+    deprecated: true
     tags:
       output:
         - generalist
@@ -335,7 +339,7 @@ entries:
     description: OpenBIM/IFC architectural authoring add-on for Blender. Formerly BlenderBIM.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -353,7 +357,7 @@ entries:
     description: Open source CAM toolpath generation for CNC inside Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -371,7 +375,7 @@ entries:
     description: CAD-style precision sketching with constraints for Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -391,7 +395,7 @@ entries:
     description: Transfers Genesis 8 and 3 characters from Daz Studio into Blender.
     license: Free
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -406,12 +410,12 @@ entries:
         - mac
         - linux
   - name: Needle Engine
-    url: http://docs.needle.tools/blender
+    url: https://engine.needle.tools/docs/blender/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Builds interactive web apps from Blender scenes.
     license: Freemium
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -431,7 +435,7 @@ entries:
     description: Blender addon to change scene fps.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -450,7 +454,7 @@ entries:
     description: Dynamic rigging tool that speeds up Blender animation workflow.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -471,7 +475,7 @@ entries:
     description: Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -494,7 +498,7 @@ entries:
     description: Blender addon to export USDZ files.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

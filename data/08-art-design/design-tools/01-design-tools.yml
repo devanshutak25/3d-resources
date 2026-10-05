@@ -1,6 +1,6 @@
 entries:
   - name: X Design
-    url: https://www.x-design.com/
+    url: https://zawa.ai/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Browser-based design editor for product photos and visuals.
     license: Freemium
@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Design
       - Web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Code Snippets
       - Images
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - ASCII
       - Dithering
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -51,21 +51,23 @@ entries:
     readme_tags:
       - Blob Tracking
       - Effect
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    notes: Tool removed; domain redirects to artkit.cc home.
+    deprecated: true
     tags:
       platform:
         - web
   - name: Halftone Maker
     url: https://halftonemaker.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Halftone generator.
+    description: Web tool that turns images into halftone, line halftone or stippling patterns and exports SVG.
     license: Free
     entry_type: tool
     readme_tags:
       - Halftone
       - Print Effect
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -79,7 +81,7 @@ entries:
     readme_tags:
       - Experimental
       - Type
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -87,13 +89,13 @@ entries:
   - name: Tiled Art
     url: https://tiled.art/en/home/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Tessellation creator.
+    description: Site about Escher-style tessellation art with a tool to create your own.
     license: Free
     entry_type: tool
     readme_tags:
       - Tessellations
       - Patterns
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -107,7 +109,7 @@ entries:
     readme_tags:
       - Tools Directory
       - Curated
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -121,7 +123,7 @@ entries:
     readme_tags:
       - Learning
       - Resources
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -135,7 +137,7 @@ entries:
     readme_tags:
       - Curated
       - Content
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -149,7 +151,7 @@ entries:
     readme_tags:
       - Open Source
       - Directory
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -165,21 +167,7 @@ entries:
     readme_tags:
       - Inspiration
       - Browser Ext
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      platform:
-        - web
-  - name: Cosmos
-    url: https://www.cosmos.so/home
-    added_at: '2026-04-16T19:59:30.000Z'
-    description: Visual content curation platform.
-    license: Free
-    entry_type: inspiration
-    readme_tags:
-      - Curation
-      - Visual
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -193,22 +181,23 @@ entries:
     readme_tags:
       - Mockups
       - Devices
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    deprecated: true
     tags:
       platform:
         - web
     notes: License assumed Freemium; verify on next pricing pass.
   - name: Savee
-    url: https://savee.it/
+    url: https://savee.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Visual bookmarking tool.
+    description: Curated site for collecting and saving visual inspiration and references.
     license: Freemium
     entry_type: tool
     readme_tags:
       - Bookmarking
       - Curation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -226,7 +215,7 @@ entries:
         - web
     readme_tags:
       - Mockups
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GraphicBurger
     url: https://graphicburger.com/
@@ -241,7 +230,7 @@ entries:
         - web
     readme_tags:
       - Mockups
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Maneken
     url: https://maneken.app/
@@ -256,12 +245,12 @@ entries:
         - web
     readme_tags:
       - Mockups
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Mockup World
     url: https://www.mockupworld.co/
     added_at: '2026-06-21T19:32:23.000Z'
-    description: Free PSD mockup library.
+    description: Free PSD mockup library for presenting designs on devices, print and packaging.
     license: Free
     entry_type: asset-source
     tags:
@@ -271,7 +260,7 @@ entries:
         - web
     readme_tags:
       - Mockups
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Pacdora
     url: https://www.pacdora.com/
@@ -287,7 +276,7 @@ entries:
     readme_tags:
       - Packaging
       - Mockups
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Resource Boy
     url: https://resourceboy.com/
@@ -302,7 +291,7 @@ entries:
         - web
     readme_tags:
       - Mockups
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Shots.so
     url: https://shots.so/
@@ -317,7 +306,7 @@ entries:
         - web
     readme_tags:
       - Mockups
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Smart Mockups
     url: https://smartmockups.com/
@@ -332,7 +321,7 @@ entries:
         - web
     readme_tags:
       - Mockups
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Brandfetch
     url: https://brandfetch.com/
@@ -347,8 +336,8 @@ entries:
         - web
     readme_tags:
       - Branding
-    url_last_verified: '2026-09-02'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     notes: Site is live; returns 403 to non-browser clients (bot protection). Do not auto-deprecate.
   - name: effect.app
     url: https://effect.app/
@@ -363,7 +352,7 @@ entries:
         - web
     readme_tags:
       - Effects
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: LottieFiles
     url: https://lottiefiles.com/
@@ -379,7 +368,7 @@ entries:
     readme_tags:
       - Lottie
       - Animation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Gradientool
     url: https://www.gradientool.com/
@@ -395,7 +384,7 @@ entries:
     readme_tags:
       - Gradients
       - Generator
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Previewed
     url: https://previewed.app/
@@ -411,5 +400,5 @@ entries:
     readme_tags:
       - Mockups
       - 3D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

@@ -1,14 +1,14 @@
 entries:
   - name: Motionographer
-    url: http://motionographer.com/
+    url: https://motionographer.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design showcase.
+    description: Site that showcases motion design work and covers the industry.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Showcase
       - Classic
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       output:
@@ -24,7 +24,7 @@ entries:
     readme_tags:
       - Visual Effects
       - Feed
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -34,13 +34,13 @@ entries:
   - name: Ads of the World
     url: https://www.adsoftheworld.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Advertising reference.
+    description: Archive of advertising campaigns from around the world for creative reference.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Ads
       - Campaign Reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -56,7 +56,7 @@ entries:
     readme_tags:
       - Title Sequences
       - Vimeo
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Film Search
       - AI
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Phrase Search
       - Film Clips
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -108,7 +108,7 @@ entries:
     readme_tags:
       - Portfolio
       - Resources
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -124,7 +124,7 @@ entries:
     readme_tags:
       - Title Sequences
       - Deep Dives
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -142,7 +142,7 @@ entries:
     readme_tags:
       - Showcase
       - Motion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -152,13 +152,13 @@ entries:
   - name: Behance Motion
     url: https://www.behance.net/galleries/motion
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design gallery.
+    description: Behance gallery of motion design projects.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Gallery
       - Behance
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -168,13 +168,13 @@ entries:
   - name: Art of Style Frame
     url: https://artofstyleframe.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Style frame showcase.
+    description: Showcase of style frames from motion design and animation projects.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Style Frames
       - Showcase
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -190,7 +190,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Node-Based
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -214,7 +214,7 @@ entries:
     readme_tags:
       - AE Presets
       - Transitions
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -231,7 +231,7 @@ entries:
     readme_tags:
       - Blender Addon
       - Node-Based
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -255,7 +255,7 @@ entries:
     readme_tags:
       - AE Community
       - Facebook
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -271,7 +271,7 @@ entries:
     readme_tags:
       - AE Plugin
       - Editing
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -290,7 +290,7 @@ entries:
     readme_tags:
       - AE Tutorials
       - Motion Design
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -308,7 +308,7 @@ entries:
     readme_tags:
       - Render Automation
       - AE
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -329,30 +329,13 @@ entries:
     readme_tags:
       - AE Community
       - Reddit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
         - motion-graphics
       platform:
         - web
-  - name: Trapcode Suite
-    url: https://www.redgiant.com/products/trapcode-suite/
-    added_at: '2026-04-19T17:15:03.000Z'
-    description: A set of 3D motion graphics and visual effects plugins for After Effects.
-    entry_type: plugin
-    license: Paid
-    readme_tags:
-      - AE Plugin
-      - 3D Motion
-    url_last_verified: '2026-09-01'
-    url_status: ok
-    tags:
-      output:
-        - motion-graphics
-      platform:
-        - win
-        - mac
   - name: Houdini 2 AE
     url: https://vimeo.com/186204479
     added_at: '2026-04-19T17:15:03.000Z'
@@ -362,7 +345,7 @@ entries:
     readme_tags:
       - Houdini to AE
       - Camera Export
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -379,7 +362,7 @@ entries:
     readme_tags:
       - AE Rigging
       - Character
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -390,7 +373,7 @@ entries:
       platform:
         - win
         - mac
-  - name: Commotion
+  - name: Commotion (Blender add-on)
     url: https://github.com/mrachinskiy/commotion
     added_at: '2026-04-19T17:29:43.000Z'
     description: Blender add-on for motion graphics.
@@ -399,7 +382,7 @@ entries:
     readme_tags:
       - Blender Addon
       - MoGraph
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -422,7 +405,7 @@ entries:
     readme_tags:
       - Unreal UMG
       - React
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -452,13 +435,13 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FrameRate
     url: https://framerate.tv/
     added_at: '2026-06-17T07:16:34.000Z'
-    description: Community showcase for motion design and music video work by video professionals.
-    license: Free
+    description: Video hosting and portfolio platform for motion designers and filmmakers, with client review and a curated community. Vimeo alternative.
+    license: Freemium
     entry_type: inspiration
     readme_tags:
       - Showcase
@@ -468,5 +451,5 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

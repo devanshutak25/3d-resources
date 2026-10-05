@@ -125,3 +125,14 @@ tech:
   - xr
   - blender
   - opensource-alt    # open-source alternative to a paid tool
+  # Host apps / engines (added 2026-10-05: already used widely as freeform tags).
+  - houdini
+  - maya
+  - cinema-4d         # not "c4d"
+  - redshift
+  - unity
+  - unreal
+  - godot
+  - vex
+  - render-farm
+  - paper             # academic paper; pairs with entry_type: paper

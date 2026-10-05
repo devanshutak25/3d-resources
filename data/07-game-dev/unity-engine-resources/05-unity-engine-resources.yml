@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - bezier
       - spline
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -29,7 +29,7 @@ entries:
     readme_tags:
       - roslyn
       - analyzer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -52,7 +52,7 @@ entries:
     readme_tags:
       - timer
       - delay
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -75,7 +75,7 @@ entries:
     readme_tags:
       - gif
       - decoder
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -96,7 +96,7 @@ entries:
     readme_tags:
       - mesh
       - simplification
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -108,6 +108,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: Unity Mesh Simplifier (Unity-Technologies)
     url: https://github.com/Unity-Technologies/UnityMeshSimplifier
     added_at: '2026-04-19T17:15:03.000Z'
@@ -117,7 +119,7 @@ entries:
     readme_tags:
       - mesh
       - official
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -129,10 +131,12 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2021-08-13'
   - name: EzySlice
-    url: https://github.com/DavidArayan/EzySlice
+    url: https://github.com/DavidArayan/ezy-slice
     added_at: '2026-04-19T17:15:03.000Z'
     description: Mesh slicer framework for Unity, written in C#.
     entry_type: plugin
@@ -140,7 +144,7 @@ entries:
     readme_tags:
       - mesh
       - slicer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -152,6 +156,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2023-08-10'
   - name: MeshDecimator
@@ -163,7 +169,7 @@ entries:
     readme_tags:
       - mesh
       - decimation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -175,6 +181,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     archived: true
     stale: true
     last_pushed: '2020-08-28'
@@ -187,7 +195,7 @@ entries:
     readme_tags:
       - gradient
       - color
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -199,10 +207,12 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - creative-coding
     stale: true
     last_pushed: '2022-03-31'
   - name: PerfAssist
-    url: https://github.com/GameBuildingBlocks/PerfAssist
+    url: https://github.com/vs-archives/PerfAssist
     added_at: '2026-04-19T17:15:03.000Z'
     description: Performance and profiling components for Unity development.
     entry_type: plugin
@@ -210,7 +220,7 @@ entries:
     readme_tags:
       - performance
       - profiling
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -233,7 +243,7 @@ entries:
     readme_tags:
       - wfc
       - procedural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -246,6 +256,8 @@ entries:
         - unity-plugin
         - opensource-alt
         - procedural
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2020-11-05'
   - name: Green Mamba Stealth
@@ -257,7 +269,7 @@ entries:
     readme_tags:
       - stealth
       - lighting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -272,7 +284,7 @@ entries:
     stale: true
     last_pushed: '2023-06-06'
   - name: Pedometer API
-    url: https://github.com/olokobayusuf/Pedometer-API
+    url: https://github.com/videokit-ai/natstep
     added_at: '2026-04-19T17:15:03.000Z'
     description: Native pedometer API for Unity on mobile.
     entry_type: plugin
@@ -280,7 +292,7 @@ entries:
     readme_tags:
       - pedometer
       - mobile
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -303,7 +315,7 @@ entries:
     readme_tags:
       - signals
       - messaging
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -326,7 +338,7 @@ entries:
     readme_tags:
       - coop
       - level-design
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -349,7 +361,7 @@ entries:
     readme_tags:
       - framework
       - utilities
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -373,7 +385,7 @@ entries:
     readme_tags:
       - scripts
       - library
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -388,7 +400,7 @@ entries:
     stale: true
     last_pushed: '2016-03-21'
   - name: OpenStash
-    url: https://github.com/mrzapp/openstash
+    url: https://github.com/unity3d-open-tools/openstash
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source inventory framework for Unity.
     entry_type: plugin
@@ -396,7 +408,7 @@ entries:
     readme_tags:
       - inventory
       - framework
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -411,7 +423,7 @@ entries:
     stale: true
     last_pushed: '2020-11-30'
   - name: OpenConvo
-    url: https://github.com/mrzapp/openconvo
+    url: https://github.com/unity3d-open-tools/openconvo
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source dialogue framework for Unity.
     entry_type: plugin
@@ -419,7 +431,7 @@ entries:
     readme_tags:
       - dialogue
       - framework
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -442,7 +454,7 @@ entries:
     readme_tags:
       - random
       - library
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -458,7 +470,7 @@ entries:
     stale: true
     last_pushed: '2012-04-24'
   - name: Unity Atoms
-    url: https://github.com/AdamRamberg/unity-atoms
+    url: https://github.com/unity-atoms/unity-atoms
     added_at: '2026-04-19T17:15:03.000Z'
     description: Modular ScriptableObject-based architecture pieces for Unity.
     entry_type: plugin
@@ -466,7 +478,7 @@ entries:
     readme_tags:
       - scriptable-objects
       - architecture
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -487,7 +499,7 @@ entries:
     readme_tags:
       - editor
       - search
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -510,7 +522,7 @@ entries:
     readme_tags:
       - version
       - build
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -531,7 +543,7 @@ entries:
     license: Open Source
     readme_tags:
       - clipboard
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -554,7 +566,7 @@ entries:
     readme_tags:
       - scene
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -577,7 +589,7 @@ entries:
     readme_tags:
       - documentation
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -601,7 +613,7 @@ entries:
     readme_tags:
       - color
       - palette
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -624,7 +636,7 @@ entries:
     readme_tags:
       - settings
       - utility
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -647,7 +659,7 @@ entries:
     readme_tags:
       - png
       - encoder
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -670,7 +682,7 @@ entries:
     readme_tags:
       - io
       - assets
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -693,7 +705,7 @@ entries:
     readme_tags:
       - scriptable-objects
       - variables
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -716,7 +728,7 @@ entries:
     readme_tags:
       - autosave
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -737,7 +749,7 @@ entries:
     readme_tags:
       - ecs
       - flux
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -760,7 +772,7 @@ entries:
     readme_tags:
       - utilities
       - scripts
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -783,7 +795,7 @@ entries:
     readme_tags:
       - undo
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -807,7 +819,7 @@ entries:
     readme_tags:
       - jwt
       - auth
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -830,7 +842,7 @@ entries:
     readme_tags:
       - deformer
       - mesh
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -842,6 +854,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
   - name: Gamekit3D
     url: https://github.com/Unity-Technologies/Gamekit3D
     added_at: '2026-04-19T17:15:03.000Z'
@@ -851,7 +865,7 @@ entries:
     readme_tags:
       - sample
       - official
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -872,7 +886,7 @@ entries:
     readme_tags:
       - easing
       - tween
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -884,6 +898,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - animation
     stale: true
     last_pushed: '2020-01-11'
   - name: Unity SemVer
@@ -895,7 +911,7 @@ entries:
     readme_tags:
       - semver
       - versioning
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -916,7 +932,7 @@ entries:
     readme_tags:
       - handles
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -939,7 +955,7 @@ entries:
     readme_tags:
       - mesh
       - triangulator
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -951,6 +967,8 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - modeling
     stale: true
     last_pushed: '2019-04-14'
   - name: Unity Rulers
@@ -962,7 +980,7 @@ entries:
     readme_tags:
       - ruler
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -985,7 +1003,7 @@ entries:
     readme_tags:
       - gizmos
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1008,7 +1026,7 @@ entries:
     readme_tags:
       - defines
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1031,7 +1049,7 @@ entries:
     readme_tags:
       - command-palette
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1054,7 +1072,7 @@ entries:
     readme_tags:
       - command-palette
       - editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1078,7 +1096,7 @@ entries:
     readme_tags:
       - everyplay
       - mobile
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1100,7 +1118,7 @@ entries:
     readme_tags:
       - export
       - image-sequence
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -1112,5 +1130,7 @@ entries:
       tech:
         - unity-plugin
         - opensource-alt
+      workflow:
+        - rendering
     stale: true
     last_pushed: '2016-04-19'

@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for suggesting a resource! Source of truth lives in `data/*.yml`. If you're comfortable with YAML, a pull request is fastest — see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md). Otherwise fill this out.
+        Thanks for suggesting a resource! Source of truth lives in `data/`. If you're comfortable with YAML, a pull request is fastest (see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md)). Otherwise fill this out.
   - type: input
     id: name
     attributes:
@@ -46,7 +46,7 @@ body:
         - Tools, Pipeline & Utilities
         - Learning, Community & Industry
         - Software Reference
-        - Not sure — maintainer should decide
+        - Not sure (maintainer decides)
     validations:
       required: true
   - type: dropdown

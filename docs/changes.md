@@ -2,7 +2,7 @@
 
 **Date:** 2026-05-17
 **Branch:** (pushed to a separate branch by the user; not main)
-**Source plan:** `pub_plan.md` (Part 1 — code changes) and `C:\Users\Devanshu\.claude\plans\make-a-complete-plan-tingly-snowglobe.md` (executable plan)
+**Source plan:** `pub_plan.md` (Part 1 — code changes) and `~/.claude/plans/make-a-complete-plan-tingly-snowglobe.md` (executable plan)
 
 ## Why this work happened
 

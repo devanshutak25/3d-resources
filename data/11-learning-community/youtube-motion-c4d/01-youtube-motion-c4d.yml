@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - C4D
       - Mograph
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -24,7 +24,7 @@ entries:
     readme_tags:
       - C4D
       - Redshift
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -40,7 +40,7 @@ entries:
     readme_tags:
       - Stylized
       - Illustration
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -50,13 +50,13 @@ entries:
   - name: Vincent Schwenk
     url: https://www.youtube.com/channel/UCyvvQJrfsoXdgasGuuXnYIg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design.
+    description: YouTube channel of motion designer Vincent Schwenk with abstract 3D animation work and tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion
       - Designer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - UE5
       - Challenges
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -82,13 +82,13 @@ entries:
   - name: Perry Cooper 3D
     url: https://www.youtube.com/channel/UCY6Kqpw3gSc2DHtfsSGeYdQ
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D motion design.
+    description: YouTube channel by Perry Cooper with 3D motion design tutorials and process videos.
     entry_type: channel
     license: Free
     readme_tags:
       - 3D
       - Mograph
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -98,13 +98,13 @@ entries:
   - name: Roger Kilimanjaro
     url: https://www.youtube.com/channel/UCDbxvz-8MrderjIOyQi14Uw
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design.
+    description: YouTube channel of motion designer Roger Kilimanjaro with Cinema 4D and Octane loop animations and tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion Design
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -114,13 +114,13 @@ entries:
   - name: Ross Mason
     url: https://www.youtube.com/channel/UCbxureadvFJVQJiqLDDFj_g
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design.
+    description: YouTube channel of motion designer Ross Mason with Cinema 4D and Redshift tutorials and creative process videos.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion Design
       - Designer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -130,13 +130,13 @@ entries:
   - name: Minh Pham
     url: https://www.youtube.com/channel/UCH3pHnzD1AiSbazIw1maVFg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design tutorials.
+    description: YouTube channel by Minh Pham with motion design tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Mograph
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -152,7 +152,7 @@ entries:
     readme_tags:
       - Illustration
       - Motion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -162,13 +162,13 @@ entries:
   - name: Sketchy Visuals
     url: https://www.youtube.com/channel/UCawhE5howK2EvvoE2KdqcJg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Visual design tutorials.
+    description: YouTube channel with visual design and 3D motion tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Visual Design
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -178,13 +178,13 @@ entries:
   - name: Stephy Fung
     url: https://www.youtube.com/channel/UC_f2mc1UX2-rDoZ7JjNLgTw
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Stylized 3D motion.
+    description: YouTube channel of 3D artist Stephy Fung with stylized, colorful motion design tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Stylized
       - 3D Motion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -194,13 +194,13 @@ entries:
   - name: Theo Kerr
     url: https://www.youtube.com/channel/UCB4_J4bn8IZUFieormorBmg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design.
+    description: YouTube channel of motion designer Theo Kerr with Cinema 4D motion design tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion
       - Designer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -210,13 +210,13 @@ entries:
   - name: Josh Pierce
     url: https://www.youtube.com/channel/UC6_x3t9xt8w_BRssDV4pi6A
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design.
+    description: YouTube channel of motion designer Josh Pierce with 3D motion design tutorials and work.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion
       - YouTube
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -226,13 +226,13 @@ entries:
   - name: Nick Medukha
     url: https://www.youtube.com/channel/UCnn58iVRyGLSQriCm0QOmaw
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design tutorials.
+    description: YouTube channel by Nick Medukha with 3D motion design tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -242,13 +242,13 @@ entries:
   - name: Polygonpen
     url: https://www.youtube.com/@polygonpen
     added_at: '2026-04-16T19:59:30.000Z'
-    description: 3D motion.
+    description: YouTube channel by Polygonpen with 3D motion design animations and tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - 3D
       - Motion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -258,13 +258,13 @@ entries:
   - name: Derek Elliott
     url: https://www.youtube.com/channel/UCk7IufzS4r8v76NeWR6A3dg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: C4D motion design.
+    description: YouTube channel by Derek Elliott with Cinema 4D motion design tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - C4D
       - Design
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -274,13 +274,13 @@ entries:
   - name: John Dickinson (Motionworks)
     url: https://www.youtube.com/channel/UCHN22D0BxseUPc5yklSDeGw
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design resources.
+    description: YouTube channel of Motionworks, run by John Dickinson, with motion design tutorials and industry resources.
     entry_type: channel
     license: Free
     readme_tags:
       - Motionworks
       - Resources
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -290,13 +290,13 @@ entries:
   - name: The Rusted Pixel
     url: https://www.youtube.com/channel/UCZDR4vfP841oQ7QLO_7pK0w
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design tutorials.
+    description: YouTube channel with Cinema 4D and After Effects motion design tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -306,13 +306,13 @@ entries:
   - name: CG Shortcuts (YouTube)
     url: https://www.youtube.com/channel/UCjsFn111Z8R4eKuRpPz4ZuA
     added_at: '2026-04-16T19:59:30.000Z'
-    description: C4D workflow shortcuts.
+    description: YouTube channel with short Cinema 4D tutorials on workflow tricks, modeling and animation.
     entry_type: channel
     license: Free
     readme_tags:
       - C4D
       - Shortcuts
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -328,7 +328,7 @@ entries:
     readme_tags:
       - Mentorship
       - Mograph
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -338,13 +338,13 @@ entries:
   - name: Motion Design School (YouTube)
     url: https://www.youtube.com/channel/UC-L0yvYPpGQZD3PHDLKiUpg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion graphics courses.
+    description: YouTube channel of Motion Design School with free motion graphics tutorials and course previews.
     entry_type: channel
     license: Free
     readme_tags:
       - School
       - Mograph
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -354,13 +354,13 @@ entries:
   - name: Paul-Guilhem Repaux
     url: https://www.youtube.com/channel/UCaRh6roTnE-ZU6CbIn253xg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design tutorials.
+    description: YouTube channel of motion designer Paul-Guilhem Repaux with motion design tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -370,13 +370,13 @@ entries:
   - name: Alexis Vilaca
     url: https://www.youtube.com/channel/UCYtaJtRbQtpd1KEP_q0Pq9w
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design.
+    description: YouTube channel by Alexis Vilaca with 3D motion design work and tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion
       - Designer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -386,13 +386,13 @@ entries:
   - name: Andrey Lebrov
     url: https://www.youtube.com/channel/UCZsHHoDLK0s6r44ifx0DnXQ
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Sci-fi motion design.
+    description: YouTube channel by Andrey Lebrov with sci-fi motion design, HUD and interface animation tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Sci-Fi
       - Motion
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -402,13 +402,13 @@ entries:
   - name: Arthur Whitehead
     url: https://www.youtube.com/channel/UC57vAHlfNkcz8aIhRdZrVNQ
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Motion design.
+    description: YouTube channel by Arthur Whitehead with 3D motion design tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Motion
       - Designer
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -424,7 +424,7 @@ entries:
     readme_tags:
       - C4D + Redshift
       - Free + Paid
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -440,7 +440,7 @@ entries:
     readme_tags:
       - Playlist
       - Lighting Series
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

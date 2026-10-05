@@ -2,16 +2,20 @@ entries:
   - name: Superpowers
     url: https://sparklinlabs.itch.io/superpowers
     added_at: '2026-04-16T21:13:44.000Z'
-    description: HTML5 Collaborative 2D/3D Game Maker
+    description: HTML5 Collaborative 2D/3D Game Maker.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
         - games
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
     readme_tags:
       - games
       - opensource-alt
@@ -19,69 +23,81 @@ entries:
     url: http://coquette.maryrosecook.com/
     added_at: '2026-04-16T21:13:44.000Z'
     description: A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
-    entry_type: reference
+    entry_type: software
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       output:
         - games
+      platform:
+        - web
   - name: Stage.js
-    url: http://piqnt.com/stage.js/
+    url: https://piqnt.com/stage.js/docs
     added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
-    entry_type: reference
+    entry_type: software
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       output:
         - games
+      platform:
+        - web
   - name: Gorgon
     url: https://www.tape-worm.net/
     added_at: '2026-04-16T21:13:44.000Z'
     description: A 2D rendering API for.NET, written in C#.
-    entry_type: reference
+    entry_type: software
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
+      platform:
+        - win
   - name: gameplay
     url: http://gameplay3d.io/
     added_at: '2026-04-16T21:13:44.000Z'
     description: A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: PixiJS
-    url: http://www.pixijs.com/
+    url: https://www.pixijs.com/
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
+    description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       tech:
         - real-time
         - opensource-alt
+      platform:
+        - web
   - name: axys
-    url: https://github.com/axys1/axys
+    url: https://github.com/axmolengine/axmol
     added_at: '2026-04-16T21:13:44.000Z'
     description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -89,44 +105,55 @@ entries:
         - material-authoring
       tech:
         - opensource-alt
+      platform:
+        - win
+        - mac
+        - linux
   - name: UPBGE (site)
     url: https://upbge.org/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - blender
         - blender-addon
+      platform:
+        - win
+        - mac
+        - linux
   - name: OpenXRay
     url: https://github.com/OpenXRay/xray-16
     added_at: '2026-04-16T21:13:44.000Z'
     description: Community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
-    entry_type: community
+    entry_type: software
     license: Open Source
     readme_tags:
       - Game Engine
       - Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - opensource-alt
       output:
         - games
+      platform:
+        - win
+        - linux
   - name: Py Game CE
     url: https://pyga.me/docs/index.html
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
-    entry_type: community
+    description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
+    entry_type: software
     license: Open Source
     readme_tags:
       - Python
       - Game Library
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -153,17 +180,79 @@ entries:
     readme_tags:
       - WebXR
       - Editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: CopperLicht
     url: https://www.ambiera.com/copperlicht/index.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: JavaScript library and WebGL 3D engine for games and 3D applications.
     entry_type: software
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
         - rendering
       platform:
         - web
+  - name: Wicked Engine
+    url: https://wickedengine.net/
+    description: Open-source C++ 3D engine with real-time path tracing, Lua scripting and VRM support.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - ios
+      tech:
+        - real-time
+        - path-tracing
+    added_at: '2026-10-05T08:51:07.108Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - C++
+    best_for: Path-traced real-time projects
+  - name: s&box
+    url: https://sbox.game/
+    description: Facepunch engine on Source 2 with C# scripting, successor to Garry's Mod, with Steam export.
+    license: Mixed
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - linux
+      tech:
+        - real-time
+    added_at: '2026-10-05T08:51:07.110Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Source 2
+      - C#
+    best_for: Multiplayer sandbox games
+  - name: Phaser
+    url: https://phaser.io/
+    description: Open-source HTML5 2D game framework in JavaScript and TypeScript.
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-10-05T08:51:07.111Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - JavaScript
+    best_for: Browser 2D games

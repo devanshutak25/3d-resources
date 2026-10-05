@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Classic
       - Donut Man
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -35,7 +35,7 @@ entries:
     readme_tags:
       - Beginner
       - Approachable
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ian Hubert
     url: https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Cinematic Shorts
       - Lazy Tuts
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - Stylized
       - Shaders
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -76,13 +76,13 @@ entries:
   - name: CG Geek
     url: https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Blender tutorials.
+    description: YouTube channel with Blender tutorials on modeling, simulation and environment scenes.
     entry_type: channel
     license: Free
     readme_tags:
       - Blender
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -94,7 +94,7 @@ entries:
   - name: Jayanam
     url: https://www.youtube.com/channel/UCs5J4GVRB8s2P4hE-O0izrg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Blender game art.
+    description: YouTube channel by Jayanam with Blender tutorials on game art, modeling and add-ons.
     entry_type: channel
     license: Free
     tags:
@@ -107,7 +107,7 @@ entries:
     readme_tags:
       - Game Art
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blender Official
     url: https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg
@@ -118,7 +118,7 @@ entries:
     readme_tags:
       - Official
       - Foundation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -130,13 +130,13 @@ entries:
   - name: CGMatter
     url: https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Technical Blender tips.
+    description: YouTube channel with short, technical Blender tutorials on nodes, simulation and odd workflow tricks.
     entry_type: channel
     license: Free
     readme_tags:
       - Technical
       - Tips
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -163,7 +163,7 @@ entries:
     readme_tags:
       - Hard Surface
       - Modeling
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: GraphicLine Games
     url: https://www.youtube.com/@graphiclinegames4843
@@ -174,7 +174,7 @@ entries:
     readme_tags:
       - Stylized
       - Shaders
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -192,7 +192,7 @@ entries:
     readme_tags:
       - Cel Shader
       - Materials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -210,7 +210,7 @@ entries:
     readme_tags:
       - Speed Tuts
       - Tech Art
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -228,7 +228,7 @@ entries:
     readme_tags:
       - Beginner
       - Courses
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -248,7 +248,7 @@ entries:
     readme_tags:
       - Scripting
       - Python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -268,7 +268,7 @@ entries:
     readme_tags:
       - Geo Nodes
       - Beginner
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -289,7 +289,7 @@ entries:
     readme_tags:
       - Procedural
       - Geo Nodes
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -311,7 +311,7 @@ entries:
     readme_tags:
       - Scripting
       - Python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -331,7 +331,7 @@ entries:
     readme_tags:
       - 3DCoat
       - Sculpt
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -347,7 +347,7 @@ entries:
     readme_tags:
       - Sculpting
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -365,7 +365,7 @@ entries:
     readme_tags:
       - Modeling
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -383,7 +383,7 @@ entries:
     readme_tags:
       - Compositing
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -403,7 +403,7 @@ entries:
     readme_tags:
       - Render Passes
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -423,7 +423,7 @@ entries:
     readme_tags:
       - Render Passes
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -443,7 +443,7 @@ entries:
     readme_tags:
       - Compositing
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -457,13 +457,13 @@ entries:
   - name: Blender Compositor for Post Processing
     url: https://www.youtube.com/@RenderRides
     added_at: '2026-04-19T19:05:38.000Z'
-    description: Blender compositor for post-processing.
+    description: YouTube channel with tutorials on using Blender's compositor to post-process renders.
     entry_type: channel
     license: Free
     readme_tags:
       - Compositing
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -483,7 +483,7 @@ entries:
     readme_tags:
       - Stylized
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -501,7 +501,7 @@ entries:
     readme_tags:
       - Blender
       - Lighting
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -519,7 +519,7 @@ entries:
     readme_tags:
       - Animation Nodes
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -531,13 +531,13 @@ entries:
   - name: FlippedNormals (YouTube)
     url: https://www.youtube.com/@FlippedNormals
     added_at: '2026-04-19T19:05:38.000Z'
-    description: Sculpting, modeling.
+    description: YouTube channel of FlippedNormals with sculpting and modeling tutorials, art tips and industry advice.
     entry_type: channel
     license: Free
     readme_tags:
       - Sculpting
       - Industry
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -553,7 +553,7 @@ entries:
     readme_tags:
       - NPR
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -565,13 +565,13 @@ entries:
   - name: Daniel Krafft - DSO
     url: https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw/videos
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Blender tips, add-ons.
+    description: YouTube channel by Daniel Krafft (DSO) with Blender tips and add-on reviews.
     entry_type: channel
     license: Free
     readme_tags:
       - Blender
       - Add-ons
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -589,7 +589,7 @@ entries:
     readme_tags:
       - Low Poly
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -607,7 +607,7 @@ entries:
     readme_tags:
       - Animation
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -625,7 +625,7 @@ entries:
     readme_tags:
       - Modeling
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -643,7 +643,7 @@ entries:
     readme_tags:
       - VFX
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -655,13 +655,13 @@ entries:
   - name: Iridesium
     url: https://www.youtube.com/@Iridesium
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Simulation, vfx.
+    description: YouTube channel with Blender simulation and VFX tutorials such as explosions, energy blasts and particles.
     entry_type: channel
     license: Free
     readme_tags:
       - Simulation
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -679,7 +679,7 @@ entries:
     readme_tags:
       - Sculpting
       - Character
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -691,13 +691,13 @@ entries:
   - name: CG Fast Track
     url: https://www.youtube.com/@CGFastTrack
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Modeling, animation.
+    description: YouTube channel with Blender modeling and animation tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Modeling
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -709,13 +709,13 @@ entries:
   - name: 3DGreenhorn
     url: https://www.youtube.com/@3dgreenhorn
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Isometric modeling.
+    description: YouTube channel with Blender tutorials for modeling stylized isometric rooms and scenes.
     entry_type: channel
     license: Free
     readme_tags:
       - Isometric
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -727,13 +727,13 @@ entries:
   - name: Bad Normals
     url: https://www.youtube.com/@BadNormals
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Modeling, animation.
+    description: YouTube channel by Bad Normals with Blender geometry nodes and procedural modeling and animation tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - Modeling
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -751,7 +751,7 @@ entries:
     readme_tags:
       - Geo Nodes
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -769,7 +769,7 @@ entries:
     readme_tags:
       - Python
       - Blender
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -786,7 +786,7 @@ entries:
     description: 3D ideas, experiments and generative work in Blender.
     license: Free
     entry_type: channel
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -797,3 +797,19 @@ entries:
         - blender
       platform:
         - web
+  - name: Brady Johnston
+    url: https://bradyajohnston.github.io/
+    added_at: '2026-05-22T16:39:01.000Z'
+    description: Blender-for-science tutorials. Author of Molecular Nodes.
+    entry_type: channel
+    best_for: Blender scientific tutorials
+    tags:
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Blender Science
+      - Tutorials
+    url_last_verified: '2026-10-01'
+    url_status: ok

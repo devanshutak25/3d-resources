@@ -1,6 +1,6 @@
 entries:
   - name: H.R. Giger (Artnet)
-    url: http://www.artnet.com/artists/hans-rudolf-giger/
+    url: https://www.artnet.com/artists/hans-rudolf-giger/
     added_at: '2026-04-16T19:59:30.000Z'
     description: H.R. Giger gallery archive.
     entry_type: inspiration
@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Giger
       - Dark Sci-Fi
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Geometric
       - Design Article
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Film + Art
       - Thread
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -52,7 +52,7 @@ entries:
       platform:
         - web
   - name: Mech Blog
-    url: http://mechblog.tumblr.com/
+    url: https://mechblog.tumblr.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Mecha design inspiration.
     entry_type: inspiration
@@ -60,7 +60,7 @@ entries:
     readme_tags:
       - Mecha
       - Tumblr
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -70,15 +70,15 @@ entries:
       platform:
         - web
   - name: The Black Workshop
-    url: http://theblackworkshop.tumblr.com/
+    url: https://theblackworkshop.tumblr.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Design inspiration blog.
+    description: Tumblr blog posting design and visual inspiration.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Design Blog
       - Tumblr
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -94,7 +94,7 @@ entries:
     readme_tags:
       - Brand Activations
       - Ideas
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -104,15 +104,15 @@ entries:
       platform:
         - web
   - name: OTAKU GANGSTA
-    url: http://otakugangsta.com/
+    url: https://otakugangsta.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Anime/otaku visual blog.
+    description: Blog featuring anime and otaku-related visual art.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Anime
       - Visual
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -122,15 +122,15 @@ entries:
       platform:
         - web
   - name: Mr Cup
-    url: http://www.mr-cup.com/blog.html
+    url: https://www.mr-cup.com/blog.html
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Graphic design blog.
+    description: Graphic design inspiration blog by Fabien Barral.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Graphic Design
       - Blog
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -138,15 +138,15 @@ entries:
       platform:
         - web
   - name: DETHJUNKIE
-    url: http://www.dethjunkie.com/
+    url: https://www.dethjunkie.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Dark creative blog.
+    description: Blog posting dark-themed creative and visual art.
     entry_type: inspiration
     license: Free
     readme_tags:
       - Dark
       - Creative
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -162,7 +162,7 @@ entries:
     readme_tags:
       - Tiles
       - Patterns
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -178,7 +178,7 @@ entries:
     readme_tags:
       - Contemporary
       - Design
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -188,13 +188,13 @@ entries:
   - name: Designspiration
     url: https://designspiration.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Design inspiration feed.
+    description: Site for discovering and saving design inspiration images.
     entry_type: inspiration
     license: Freemium
     readme_tags:
       - Feed
       - Curated
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -204,13 +204,13 @@ entries:
   - name: Muddycolors
     url: https://www.muddycolors.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Pro illustrator blog.
+    description: Blog run by professional illustrators sharing art process and advice.
     entry_type: channel
     license: Free
     readme_tags:
       - Illustration
       - Pro Blog
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -230,7 +230,7 @@ entries:
     readme_tags:
       - Animation Archive
       - Mirror
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -254,7 +254,7 @@ entries:
         - film-vfx
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Houdini on Dribbble
     url: https://dribbble.com/tags/houdini
@@ -270,7 +270,7 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Instagram
     url: https://www.instagram.com/explore/tags/xuxoe/
@@ -286,7 +286,7 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FX References (Sylvain Nouveau)
     url: http://www.sylvain-nouveau.com/reffx/misc/
@@ -304,8 +304,9 @@ entries:
         - film-vfx
       platform:
         - web
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    deprecated: true
   - name: mr5ivethou5and
     url: https://mr5ivethou5and.tumblr.com/archive
     added_at: '2026-06-17T07:16:34.000Z'
@@ -319,7 +320,7 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Generative Art Timeline
     url: https://timeline.lerandom.art/
@@ -337,7 +338,7 @@ entries:
         - generalist
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: 5 Decades of Digital Art History
     url: https://www.youtube.com/playlist?list=PLyzOQqMHGyYTsz7-jlj-SeOm6iC0v-7B3
@@ -353,7 +354,7 @@ entries:
         - generalist
       platform:
         - web
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Awwwards
     url: https://www.awwwards.com/
@@ -369,8 +370,8 @@ entries:
     readme_tags:
       - Web Design
       - Awards
-    url_last_verified: '2026-09-01'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
   - name: Behance
     url: https://www.behance.net/
     added_at: '2026-06-21T19:32:23.000Z'
@@ -384,7 +385,7 @@ entries:
         - web
     readme_tags:
       - Portfolios
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: coverjunkie
     url: https://coverjunkie.com/
@@ -399,7 +400,7 @@ entries:
         - web
     readme_tags:
       - Editorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Creative Boom
     url: https://www.creativeboom.com/
@@ -414,7 +415,7 @@ entries:
         - web
     readme_tags:
       - Design News
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: D&AD Archive
     url: https://www.dandad.org/
@@ -429,7 +430,7 @@ entries:
         - web
     readme_tags:
       - Awards
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Dribbble
     url: https://dribbble.com/
@@ -444,7 +445,7 @@ entries:
         - web
     readme_tags:
       - Portfolios
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Supahero
     url: https://www.supahero.io/
@@ -459,7 +460,7 @@ entries:
         - web
     readme_tags:
       - Web Design
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: The Brand Identity
     url: https://the-brandidentity.com/
@@ -474,7 +475,7 @@ entries:
         - web
     readme_tags:
       - Branding
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Vimeo Staff Picks
     url: https://vimeo.com/channels/staffpicks
@@ -489,7 +490,7 @@ entries:
         - web
     readme_tags:
       - Short Films
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: deck.gallery
     url: https://deck.gallery/
@@ -504,7 +505,7 @@ entries:
         - web
     readme_tags:
       - Decks
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Inspora
     url: https://www.inspora.design/
@@ -522,5 +523,5 @@ entries:
     readme_tags:
       - Gallery
       - Curated
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

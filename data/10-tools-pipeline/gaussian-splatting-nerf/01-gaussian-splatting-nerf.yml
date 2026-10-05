@@ -2,7 +2,7 @@ entries:
   - name: 3D Gaussian Splatting (INRIA reference impl)
     url: https://github.com/graphdeco-inria/gaussian-splatting
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Original implementation.
+    description: Official INRIA code for the 2023 3D Gaussian Splatting paper, with training, viewer and evaluation scripts.
     license: Open Source
     entry_type: reference
     tags:
@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - Original Impl
       - INRIA
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: 4D Gaussian Splatting
     url: https://github.com/hustvl/4DGaussians
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Dynamic Scenes
       - 4D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: LichtFeld Studio
     url: https://github.com/MrNeRF/LichtFeld-Studio
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Desktop App
       - GPL-3.0
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Brush
     url: https://github.com/ArthurBrussee/brush
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Open Source
       - Reconstruction
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: MegaSaM
     url: https://github.com/mega-sam/mega-sam
@@ -103,7 +103,7 @@ entries:
     readme_tags:
       - SfM
       - Casual Video
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -123,7 +123,7 @@ entries:
     description: Taichi-based implementation (Apache-2.0).
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -146,7 +146,7 @@ entries:
     description: Warp/Python-based implementation (AGPL-3.0).
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -167,7 +167,7 @@ entries:
     description: Differentiable point-based rendering framework for Gaussian Splatting.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -188,7 +188,7 @@ entries:
     description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -211,7 +211,7 @@ entries:
     description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -230,10 +230,10 @@ entries:
   - name: spaTV
     url: https://github.com/antimatter15/splaTV
     added_at: '2026-04-19T17:29:43.000Z'
-    description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo [here](http://antimatter15.com/splaTV/).
+    description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo here.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -254,7 +254,7 @@ entries:
     description: Viewer that allows you to edit the rendering code during runtime or to display multiple scenes at once.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -274,7 +274,7 @@ entries:
     description: Conversion scripts for different 3DGS conventions.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -293,7 +293,7 @@ entries:
     description: A modular differential gaussian rasterization library.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -313,7 +313,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: HuggingFace introductory guide to 3D Gaussian Splatting.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -326,9 +326,9 @@ entries:
   - name: PyTorch Implementation
     url: https://myasincifci.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Curated implementation of Vanilla 3DGS in PyTorch
+    description: Curated implementation of Vanilla 3DGS in PyTorch.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -343,7 +343,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: Summary of Gaussian-splatting head-avatar techniques (Towards Data Science).
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -353,3 +353,250 @@ entries:
       tech:
         - gaussian-splatting
         - nerf
+  - name: Gaussian Splatting for Nuke / After Effects (irrealix)
+    url: https://irrealix.com/plugin/gaussian-splatting-nuke
+    description: GPU plugins that import, edit and render 3DGS PLY files in Nuke, After Effects and Resolve.
+    pricing: From $46
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.440Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Nuke
+    best_for: Splats in compositing
+  - name: KIRI Gaussian Splatting for After Effects
+    url: https://kiriinnov.gumroad.com/l/GaussianSplattingPluginbyKIRIEngine
+    description: Free After Effects plugin to import, crop and stylize 3DGS PLY scans.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.443Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - After Effects
+    best_for: Splat scans in After Effects
+  - name: 3DGS Render (KIRI)
+    url: https://www.kiriengine.app/3d-tools/3dgs-render
+    description: Blender add-on for viewing, editing and animating Gaussian splats.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.445Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Free
+      - Blender
+    best_for: Gaussian splats in Blender
+  - name: Spark
+    url: https://sparkjs.dev/
+    description: World Labs Gaussian splat renderer for three.js that loads PLY, SPZ, SPLAT and SOGS.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - real-time
+      workflow:
+        - rendering
+    added_at: '2026-10-05T08:51:07.447Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Three.js
+    best_for: Web splat rendering
+  - name: SplatTransform
+    url: https://github.com/playcanvas/splat-transform
+    description: PlayCanvas CLI and library to convert, filter, merge and compress Gaussian splat files.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.449Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - CLI
+    best_for: Splat file conversion
+  - name: OpenSplat
+    url: https://github.com/WebODM/OpenSplat
+    description: Open-source 3DGS trainer that runs on CPU or GPU.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+    added_at: '2026-10-05T08:51:07.452Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - 3DGS
+    best_for: Training Gaussian splats
+  - name: NanoGS
+    url: https://github.com/TimChen1383/NanoGaussianSplatting
+    description: Unreal Engine 5.6+ plugin that renders large splat scenes with LOD clusters.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - games
+        - xr
+      platform:
+        - win
+      tech:
+        - gaussian-splatting
+        - unreal-plugin
+      workflow:
+        - rendering
+    added_at: '2026-10-05T08:51:07.454Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Unreal Engine
+    best_for: Large splat scenes
+  - name: Volinga
+    url: https://volinga.ai/
+    description: Splat processing suite and Unreal plugin for virtual production, with 4D splat support.
+    pricing: Plugin about €120/yr
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - gaussian-splatting
+        - unreal-plugin
+      workflow:
+        - rendering
+    added_at: '2026-10-05T08:51:07.456Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Paid
+      - Unreal Engine
+    best_for: Splats for virtual production
+  - name: StorySplat
+    url: https://storysplat.com/
+    description: Web editor for building interactive tours from Gaussian splat scenes.
+    pricing: Free non-commercial, Plus $19/mo
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - archviz
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.458Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - Web
+    best_for: Interactive splat tours
+    pricing_last_verified: '2026-10-05'
+  - name: Scantic
+    url: https://scantic.app/
+    description: iPhone app that trains Gaussian splats on device.
+    pricing: Free, €29.99/yr full export
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - generalist
+      platform:
+        - ios
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+    added_at: '2026-10-05T08:51:07.460Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Freemium
+      - iPhone
+    best_for: On-device splat capture
+  - name: instant-ngp (NVIDIA)
+    url: https://github.com/NVlabs/instant-ngp
+    description: NVIDIA fast NeRF trainer and viewer using multiresolution hash encoding.
+    license: Free NC
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
+      tech:
+        - nerf
+        - gpu
+        - photogrammetry
+    added_at: '2026-10-05T08:51:07.462Z'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    readme_tags:
+      - Non-Commercial
+      - NeRF
+    best_for: Fast NeRF training

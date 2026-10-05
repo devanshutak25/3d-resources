@@ -24,10 +24,10 @@ entries:
     readme_tags:
       - MIT-licensed
       - 2D + 3D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Bevy
-    url: https://bevyengine.org/
+    url: https://bevy.org/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Rust data-driven ECS game engine.
     license: Open Source
@@ -46,15 +46,15 @@ entries:
     readme_tags:
       - Rust
       - ECS
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Defold
     url: https://defold.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Lua-based 2D mobile game engine by King.
+    description: Lua-scripted engine for cross-platform 2D and 3D games, maintained by the Defold Foundation.
     license: Open Source
     entry_type: software
-    best_for: 2D mobile games
+    best_for: Lightweight 2D and 3D games on mobile and web
     tags:
       output:
         - games
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - 2D Mobile
       - King (Candy Crush)
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Stride
     url: https://www.stride3d.net/
@@ -89,7 +89,7 @@ entries:
     readme_tags:
       - C#
       - 3D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Flax Engine
     url: https://flaxengine.com/
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - High-Fidelity
       - C# + C++
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: O3DE
     url: https://o3de.org/
@@ -133,7 +133,7 @@ entries:
     readme_tags:
       - AAA-grade
       - Linux Foundation
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Fyrox
     url: https://fyrox.rs/
@@ -154,7 +154,7 @@ entries:
     readme_tags:
       - Rust
       - Scene Editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cocos Creator
     url: https://www.cocos.com/en/creator
@@ -175,7 +175,7 @@ entries:
     readme_tags:
       - Mobile/Web
       - TypeScript
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Raylib
     url: https://www.raylib.com/
@@ -199,7 +199,7 @@ entries:
     readme_tags:
       - Library (not engine)
       - C
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: MonoGame
     url: https://monogame.net/
@@ -220,7 +220,7 @@ entries:
     readme_tags:
       - XNA Successor
       - C#
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: FNA
     url: https://fna-xna.github.io/
@@ -241,7 +241,7 @@ entries:
     readme_tags:
       - XNA Port
       - Shipping Games
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Heaps.io
     url: https://heaps.io/
@@ -262,12 +262,12 @@ entries:
     readme_tags:
       - Haxe
       - Dead Cells
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Love2D
     url: https://love2d.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Lua 2D game framework.
+    description: Free open-source framework for making 2D games in Lua.
     license: Open Source
     entry_type: software
     best_for: 2D prototyping, game jams
@@ -283,7 +283,7 @@ entries:
     readme_tags:
       - Lua
       - Jam-Friendly
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Solar2D
     url: https://solar2d.com/
@@ -305,7 +305,7 @@ entries:
     readme_tags:
       - 2D Mobile
       - Lua
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Macroquad
     url: https://macroquad.rs/
@@ -327,12 +327,12 @@ entries:
     readme_tags:
       - Rust
       - WASM
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ebitengine
     url: https://ebitengine.org/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Go 2D game engine.
+    description: Open-source 2D game engine for the Go programming language.
     license: Open Source
     entry_type: software
     best_for: Simple 2D games
@@ -348,7 +348,7 @@ entries:
     readme_tags:
       - Go
       - 2D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Armory3D
     url: https://armory3d.org/
@@ -370,7 +370,7 @@ entries:
     readme_tags:
       - Blender-Integrated
       - Haxe
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: A Frame
     url: https://aframe.io/
@@ -391,10 +391,10 @@ entries:
     readme_tags:
       - WebXR
       - JavaScript
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: CopperCube
-    url: http://www.ambiera.com/coppercube/
+    url: https://www.ambiera.com/coppercube/
     added_at: '2026-04-16T21:13:44.000Z'
     description: CopperCube is an all-in-one 3D game engine. Very easy to use.
     license: Free
@@ -413,10 +413,10 @@ entries:
     readme_tags:
       - No-Code
       - All-in-One
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cocos2d X
-    url: http://cocos2d-x.org/
+    url: https://cocos2d-x.org/
     added_at: '2026-04-16T21:13:44.000Z'
     description: C++ OpenGL 2D/3D engine with JS and Lua bindings. Targets all major mobile and desktop platforms.
     license: Open Source
@@ -436,10 +436,10 @@ entries:
     readme_tags:
       - C++
       - Mobile
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: jMonkeyEngine 3
-    url: http://jmonkeyengine.org/
+    url: https://jmonkeyengine.org/
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D open-source game engine for Java developers.
     license: Open Source
@@ -457,7 +457,7 @@ entries:
     readme_tags:
       - Java
       - 3D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: JPCT
     url: https://www.jpct.net/
@@ -479,7 +479,7 @@ entries:
     readme_tags:
       - Java
       - Android
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Leadwerks
     url: https://www.leadwerks.com/
@@ -503,10 +503,10 @@ entries:
     readme_tags:
       - Beginner-Friendly
       - VR
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Magnum (site)
-    url: http://magnum.graphics/
+    url: https://magnum.graphics/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight modular 2D/3D graphics/game engine written in C++11.
     license: Open Source
@@ -524,7 +524,7 @@ entries:
     readme_tags:
       - C++11
       - Modular
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Ogre
     url: https://www.ogre3d.org/
@@ -545,10 +545,10 @@ entries:
     readme_tags:
       - C++
       - Rendering Engine
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Urho3D
-    url: http://urho3d.github.io/
+    url: https://urho3d.github.io/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Cross-platform rendering and game engine.
     license: Open Source
@@ -566,7 +566,7 @@ entries:
     readme_tags:
       - C++
       - Cross-Platform
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: ursina
     url: https://www.ursinaengine.org/
@@ -589,7 +589,7 @@ entries:
     readme_tags:
       - Python
       - Prototyping
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Babylon.js
     url: https://www.babylonjs.com/
@@ -610,10 +610,10 @@ entries:
     readme_tags:
       - Browser
       - JavaScript
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blend4Web
-    url: http://www.blend4web.com/
+    url: https://www.blend4web.com/
     added_at: '2026-04-16T21:37:07.000Z'
     description: JavaScript framework for interactive 3D in browsers. Blender integration.
     license: Open Source
@@ -630,10 +630,10 @@ entries:
     readme_tags:
       - Browser
       - Blender Integration
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Three.js
-    url: http://threejs.org/
+    url: https://threejs.org/
     added_at: '2026-04-16T21:37:07.000Z'
     description: JavaScript 3D library. The standard for web 3D.
     license: Open Source
@@ -651,7 +651,7 @@ entries:
     readme_tags:
       - Browser
       - Standard JS 3D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Ceramic
     url: https://ceramic-engine.com/
@@ -675,10 +675,10 @@ entries:
     readme_tags:
       - Haxe
       - Cross-Platform 2D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Irrlicht
-    url: http://irrlicht.sourceforge.net/
+    url: https://irrlicht.sourceforge.net/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Open source high-performance realtime 3D engine (C++).
     license: Open Source
@@ -696,8 +696,8 @@ entries:
     readme_tags:
       - C++
       - Classic Engine
-    url_last_verified: '2026-09-02'
-    url_status: unreachable
+    url_last_verified: '2026-10-01'
+    url_status: ok
     notes: SourceForge returns 403 to non-browser clients (bot protection). Do not auto-deprecate.
   - name: Panda3D
     url: https://www.panda3d.org/
@@ -718,7 +718,7 @@ entries:
     readme_tags:
       - Python
       - Disney Origin
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Torque3D
     url: https://torque3d.org/torque3d/
@@ -739,10 +739,10 @@ entries:
     readme_tags:
       - C++
       - Legacy
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: SpriteBuilder
-    url: http://www.spritebuilder.com/
+    url: https://www.spritebuilder.com/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Open source game development suite for macOS.
     license: Open Source
@@ -758,7 +758,7 @@ entries:
     readme_tags:
       - Mac-only
       - 2D
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
   - name: Fusee
     url: https://github.com/FUSEEProjectTeam/Fusee/
@@ -780,7 +780,7 @@ entries:
     readme_tags:
       - C#
       - Multiplatform
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Harfang 3D
     url: https://github.com/harfang3d/harfang3d
@@ -800,7 +800,7 @@ entries:
     readme_tags:
       - C++
       - Visualization
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2023-09-08'
@@ -822,10 +822,10 @@ entries:
     readme_tags:
       - IDE-Integrated
       - C#
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Overload
-    url: https://github.com/adriengivry/Overload
+    url: https://github.com/Overload-Technologies/Overload
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D game engine with editor.
     license: Open Source
@@ -841,7 +841,7 @@ entries:
     readme_tags:
       - C++
       - Editor
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: UPBGE (GitHub)
     url: https://github.com/UPBGE/upbge
@@ -863,7 +863,7 @@ entries:
     readme_tags:
       - Blender-Integrated
       - Python
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blitz3D
     url: https://github.com/blitz-research/blitz3d
@@ -884,7 +884,7 @@ entries:
     readme_tags:
       - BASIC
       - Legacy
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     archived: true
     stale: true
@@ -908,7 +908,7 @@ entries:
     readme_tags:
       - D Language
       - Niche
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2020-12-18'
@@ -932,7 +932,7 @@ entries:
     readme_tags:
       - Low-Level
       - Multi-API
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Folded Paper Engine
     url: https://github.com/papercraftgames/folded-paper-engine
@@ -954,7 +954,7 @@ entries:
     readme_tags:
       - Blender-to-Godot
       - No-Code
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Juno
     url: https://github.com/rxi/juno
@@ -975,7 +975,7 @@ entries:
     readme_tags:
       - Lua
       - Pixel Art
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     archived: true
     stale: true
@@ -998,7 +998,7 @@ entries:
     readme_tags:
       - C++
       - Lightweight
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Lums
     url: https://github.com/lums-proj/Lums
@@ -1019,7 +1019,7 @@ entries:
     readme_tags:
       - C++11
       - WIP
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     stale: true
     last_pushed: '2015-10-02'
@@ -1044,13 +1044,13 @@ entries:
     readme_tags:
       - Fantasy Console
       - 8-bit
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     archived: true
     stale: true
     last_pushed: '2023-01-04'
   - name: Screen 13
-    url: https://github.com/attackgoat/screen-13
+    url: https://github.com/attackgoat/vk-graph
     added_at: '2026-04-16T21:13:44.000Z'
     description: Easy-to-use Vulkan rendering engine with render graph for Rust.
     license: Open Source
@@ -1068,10 +1068,10 @@ entries:
     readme_tags:
       - Rust
       - Vulkan
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Whitestorm.js (GitHub)
-    url: https://github.com/WhitestormJS/whitestorm.js
+    url: https://github.com/WhitestormJS/whs.js
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D JavaScript framework for building apps and games.
     license: Open Source
@@ -1087,5 +1087,5 @@ entries:
     readme_tags:
       - JavaScript
       - Browser
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok

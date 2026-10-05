@@ -1,10 +1,10 @@
 entries:
   - name: Actors Unity3d Framework
-    url: https://github.com/dimmpixeye/Actors-Unity3d-Framework
+    url: https://github.com/PixeyeHQ/actors.unity
     added_at: '2026-04-19T17:15:03.000Z'
     description: Decouples data from behavior in Unity.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -27,7 +27,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Framework for running human behavior experiments in Unity.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -48,7 +48,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Code-weaving framework for Unity, based on Fody.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -71,7 +71,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: MOBA game framework for Unity with a Unity-independent server that runs on Linux.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -94,7 +94,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: MOBA game template for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -117,7 +117,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Framework for building RPG games and mechanics in Unity.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -138,7 +138,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Framework for hooking into and modifying methods in Unity games via DLLs.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -161,7 +161,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Makes ScriptableObjects a core part of your Unity architecture.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -185,7 +185,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Module-based Unity game template where controllers can be swapped without changing project source.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -209,7 +209,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Sample running Akka.NET in Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -232,7 +232,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of tools for making games in Unity.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -251,11 +251,11 @@ entries:
     stale: true
     last_pushed: '2022-06-17'
   - name: yaSingleton
-    url: https://github.com/jedybg/yaSingleton
+    url: https://github.com/heyJordanParker/yaSingleton
     added_at: '2026-04-19T17:15:03.000Z'
     description: Singleton pattern for Unity using ScriptableObjects instead of MonoBehaviour.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -278,7 +278,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Editor-driven signal/event system for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -301,7 +301,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Singleton pattern implementation for Unity MonoBehaviours.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -324,7 +324,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Simple object pooling toolkit for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -347,7 +347,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Object pool manager for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -370,7 +370,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Object pool and manager for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -393,7 +393,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Optimized object pooling for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -416,7 +416,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Simple prefab pool for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -435,11 +435,11 @@ entries:
     stale: true
     last_pushed: '2014-08-14'
   - name: Unity Object Pooler
-    url: https://github.com/imxzjv/UnityObjectPooler
+    url: https://github.com/jeffvella/UnityObjectPooler
     added_at: '2026-04-19T17:15:03.000Z'
     description: Simple object pool for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -462,7 +462,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: MessagePack and JSON serializer for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -479,11 +479,11 @@ entries:
         - unity-plugin
         - opensource-alt
   - name: MessagePack CSharp
-    url: https://github.com/neuecc/MessagePack-CSharp
+    url: https://github.com/MessagePack-CSharp/MessagePack-CSharp
     added_at: '2026-04-19T17:15:03.000Z'
     description: Fast MessagePack serializer for C# (.NET, Unity, Xamarin).
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -504,7 +504,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: MessagePack data viewer built on MessagePack-CSharp and Unity TreeView.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -527,7 +527,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Protocol Buffers v3 runtime for Unity (.NET 3.5).
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -550,7 +550,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Demo of using sproto-csharp in Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -573,7 +573,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Revival of Mike Talbot's discontinued Unity Serializer (Unity 5).
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -592,11 +592,11 @@ entries:
     stale: true
     last_pushed: '2016-03-01'
   - name: OpenFile
-    url: https://github.com/mrzapp/openfile
+    url: https://github.com/unity3d-open-tools/openfile
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source serialization for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -619,7 +619,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: JSONObject parsing library for Unity.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -642,7 +642,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Bitpacking and serialization libraries behind the NetworkSyncTransform and TransformCrusher Unity assets.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -663,9 +663,9 @@ entries:
   - name: Knight Windjson
     url: https://github.com/winddyhe/knight-windjson
     added_at: '2026-04-19T17:15:03.000Z'
-    description: JSON parser for Unity.
+    description: JSON parser library for Unity written in C#.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -688,7 +688,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Serializable wrapper that holds a reference to an interface in Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -707,11 +707,11 @@ entries:
     stale: true
     last_pushed: '2022-04-15'
   - name: log4net.unity
-    url: https://github.com/HolyShovelSoft/log4net.unity
+    url: https://github.com/HolyShovelSoft/log4uni
     added_at: '2026-04-19T17:15:03.000Z'
     description: log4net helpers and a UnityEngine.Debug appender for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -732,7 +732,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: In-game console and command terminal for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -755,7 +755,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Interactive runtime console for Unity, distributed as a package.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -778,7 +778,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Console for Unity debugging and logging remotely.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -801,7 +801,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Runtime debug console for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -824,7 +824,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Enhanced debug logging for Unity, with JSON/CSV export and an HTML viewer.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -847,7 +847,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: View editor console logs inside the running game.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -870,7 +870,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: In-game inspector and debugging tools for Unity applications.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -891,7 +891,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Executes arbitrary code at runtime via the .NET 2.0 library, aimed at Unity.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -914,7 +914,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Mono rule-based static analysis tool, usable on Unity project assemblies.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -937,7 +937,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Chainable coroutine helper for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -960,7 +960,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Coroutine replacement for Unity with hierarchical routines and pooling.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -983,7 +983,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight async coroutine library for Unity.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1006,7 +1006,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Thread-safe way to run actions on Unity's main thread.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1029,7 +1029,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Write Unity scripts in C++.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1048,11 +1048,11 @@ entries:
     stale: true
     last_pushed: '2021-03-06'
   - name: LINQ to GameObject for Unity
-    url: https://github.com/neuecc/LINQ-to-GameObject-for-Unity
+    url: https://github.com/Cysharp/ZLinq
     added_at: '2026-04-19T17:15:03.000Z'
     description: Traverse the GameObject hierarchy using LINQ.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1073,7 +1073,7 @@ entries:
     added_at: '2026-04-19T17:15:03.000Z'
     description: Helpers that make async/await easier to use in Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1092,11 +1092,11 @@ entries:
     stale: true
     last_pushed: '2019-02-27'
   - name: UnityComponent
-    url: https://github.com/GameBuildingBlocks/UnityComponent
+    url: https://github.com/vs-archives/UnityComponent
     added_at: '2026-04-19T17:15:03.000Z'
     description: Resource and component management helpers for Unity.
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:
@@ -1115,11 +1115,11 @@ entries:
     stale: true
     last_pushed: '2018-04-10'
   - name: Unity.Library.eppz
-    url: https://github.com/eppz/Unity.Library.eppz
+    url: https://github.com/Geri-Borbas/Unity.Library.eppz
     added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of utility libraries for Unity.
     entry_type: tool
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     license: Open Source
     readme_tags:

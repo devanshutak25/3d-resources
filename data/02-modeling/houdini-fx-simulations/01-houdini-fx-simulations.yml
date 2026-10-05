@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Smoke
       - Custom Solver
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -24,12 +24,12 @@ entries:
   - name: Smart Crown Splash FLIP
     url: https://vimeo.com/182010807
     added_at: '2026-04-16T19:59:30.000Z'
-    description: FLIP splash technique.
+    description: Vimeo demo of a small-scale Houdini FLIP sim using a mean curvature flow surface tension method.
     entry_type: tutorial
     readme_tags:
       - FLIP
       - Splash
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:

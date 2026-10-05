@@ -5,7 +5,7 @@ entries:
     description: Publishes technical articles on the theory, design, and applications of neural networks and related learning systems.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-02'
+    url_last_verified: '2026-10-01'
     url_status: ok
     notes: IEEE Xplore returns 418 to non-browser clients (bot protection). Do not auto-deprecate.
     tags:
@@ -19,7 +19,7 @@ entries:
     description: Meta FAIR library for 3D deep learning. Differentiable rendering, mesh ops, point cloud utils on PyTorch.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -36,7 +36,7 @@ entries:
     description: Meta self-supervised vision features. Strong general-purpose image embeddings. Useful as backbone for CG ML tasks.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -53,13 +53,16 @@ entries:
     description: Meta research pipeline for text-to-3D. Combines AssetGen geometry with TextureGen materials. Paper and results.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
         - ai-generative
       platform:
         - web
+      workflow:
+        - modeling
+        - texturing
     readme_tags:
       - Text-to-3D
       - Research
@@ -69,7 +72,7 @@ entries:
     description: Resource repository for 3D machine learning.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -82,7 +85,7 @@ entries:
     description: Curated list of papers and resources on 3D human research, including face, body, hand and motion.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       platform:
@@ -95,7 +98,7 @@ entries:
     description: Free community course on generative AI fundamentals by iNeuron.
     license: Free
     entry_type: channel
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:
@@ -110,7 +113,7 @@ entries:
     description: Free generative AI course material by Aishwarya Naresh Reganti.
     license: Free
     entry_type: tutorial
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       tech:

@@ -1,0 +1,44 @@
+name: Render README
+
+# README.md is generated from data/ (ADR-0002). Re-render it after every change on
+# main so merged contributor PRs, which only edit data/, never leave it stale.
+# Commits made with GITHUB_TOKEN do not trigger further workflow runs.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'schema/**'
+      - 'scripts/render.js'
+      - 'scripts/lib/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-readme
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: node scripts/validate.js
+      - run: node scripts/render.js > README.md
+      - name: Commit README if changed
+        run: |
+          git diff --quiet -- README.md && { echo "README.md already current."; exit 0; }
+          git config user.name "readme-bot"
+          git config user.email "readme-bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): re-render from data"
+          git pull --rebase origin main
+          git push

@@ -5,7 +5,7 @@ entries:
     description: Article on why shader permutations explode in real-time engines.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -20,7 +20,7 @@ entries:
     description: Article on strategies for managing shader permutation explosion.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -32,10 +32,10 @@ entries:
   - name: ShaderShop videos
     url: http://tobyschachman.com/Shadershop/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Videos about ShaderShop.
+    description: Videos about Shadershop, Toby Schachman's visual tool for building shader functions.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -48,7 +48,7 @@ entries:
     description: Visual editor for building shaders by composing shaping functions.
     entry_type: tool
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -61,7 +61,7 @@ entries:
     description: Minimal WebGL 2-only rendering library.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -74,7 +74,7 @@ entries:
     description: Tutorial on faking a 3D depth effect in WebGL with displacement maps.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -89,7 +89,7 @@ entries:
     description: Platform for creating and sharing vertex shaders, with a focus on artistic and experimental uses.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -102,7 +102,7 @@ entries:
     description: Tools for constructing real-world terrain in interactive 3D form.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -115,8 +115,10 @@ entries:
     description: Slide deck on OpenGL/GLSL shader programming.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
-    url_status: ok
+    url_last_verified: '2026-10-01'
+    url_status: broken
+    notes: Course page removed; redirects to OSU directory.
+    deprecated: true
     tags:
       workflow:
         - rendering
@@ -130,7 +132,7 @@ entries:
     description: In-depth WebGL resource covering 3D rendering, lighting, and 2D transforms from first principles.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -145,7 +147,7 @@ entries:
     description: Framework for developing 3D web apps with physics.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -158,7 +160,7 @@ entries:
     description: Covers alpha-blending with triangulated instanced lines.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -173,7 +175,7 @@ entries:
     description: Blog on real-time rendering, shader programming, and game engine development.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -188,7 +190,7 @@ entries:
     description: Web graphics SDK for AEC/BIM applications with 3D tiles, real-world coordinates, and double precision.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -203,7 +205,7 @@ entries:
     description: Video tutorial on the basics of creating art with shaders.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -218,7 +220,7 @@ entries:
     description: CppCon 2018 talk on rapid prototyping of graphics shaders in modern C++.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -233,7 +235,7 @@ entries:
     description: YouTube channel about shaders.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -248,7 +250,7 @@ entries:
     description: YouTube channel with shader case studies.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -257,13 +259,13 @@ entries:
         - intermediate
       platform:
         - web
-  - name: Vertexshaderart
+  - name: Vertexshaderart (YouTube)
     url: https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw
     added_at: '2026-04-19T17:29:43.000Z'
     description: YouTube playlist about vertex shaders.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -278,7 +280,7 @@ entries:
     description: Deep dive on writing an efficient Vulkan renderer.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -293,7 +295,7 @@ entries:
     description: Beginner tutorial series on creating 3D games with OpenGL.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -305,12 +307,12 @@ entries:
       platform:
         - web
   - name: Fast Filter-Width Estimates with Texture Maps
-    url: https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html
+    url: https://developer.nvidia.com/gpugems/gpugems/part-iv-image-processing/chapter-25-fast-filter-width-estimates-texture-maps
     added_at: '2026-04-16T21:13:44.000Z'
-    description: GPU Gems 1, Chapter 25.
+    description: GPU Gems chapter on estimating filter widths with texture maps for antialiased procedural shaders.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -321,12 +323,12 @@ entries:
       platform:
         - web
   - name: Ptex
-    url: http://ptex.us/
+    url: https://ptex.us/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Texture mapping system developed by Walt Disney Animation Studios for production-quality rendering.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-05'
     url_status: ok
     tags:
       workflow:
@@ -335,12 +337,12 @@ entries:
       platform:
         - web
   - name: 'Ray Tracing: The Next Week'
-    url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
+    url: https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
     added_at: '2026-04-16T21:13:44.000Z'
     description: By Peter Shirley, builds on the first book by adding effects like textures and motion blur.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -351,12 +353,12 @@ entries:
       platform:
         - web
   - name: Multitexturing using a Blendmap
-    url: http://chinedufn.com/webgl-multitexture-blend-map-tutorial/
+    url: https://chinedufn.com/webgl-multitexture-blend-map-tutorial/
     added_at: '2026-04-19T17:29:43.000Z'
     description: How to use a blendmap to multitexture a terrain.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -372,7 +374,7 @@ entries:
     description: Introduction to custom shaders, uniforms, textures, and lighting in three.js.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -385,11 +387,11 @@ entries:
   - name: 'NeRF-Tex: Neural Reflectance Field Textures'
     url: https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Baatz et al. EGSR 2021.
+    description: Baatz et al., EGSR 2021. Neural reflectance field textures for rendering fur, grass and fabric.
     license: Free
     entry_type: reference
     year: 2021
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:

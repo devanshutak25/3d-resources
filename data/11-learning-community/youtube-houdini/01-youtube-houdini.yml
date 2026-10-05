@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Advanced
       - Mograph
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -22,13 +22,13 @@ entries:
   - name: John Kunz (YouTube)
     url: https://www.youtube.com/@JohnKunz
     added_at: '2026-04-19T19:05:38.000Z'
-    description: FX, coding, Redshift.
+    description: YouTube channel by John Kunz with Houdini FX, VEX coding and Redshift rendering tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - FX
       - Streams
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -57,7 +57,7 @@ entries:
     readme_tags:
       - Beginner
       - Approachable
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: Tim van Helsdingen
     url: https://www.youtube.com/@TimvanHelsdingen3D
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - FX
       - Procedural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -99,7 +99,7 @@ entries:
     readme_tags:
       - Generative
       - Procedural
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
   - name: SideFX Official
     url: https://www.youtube.com/channel/UCegWLyW4CYzph4dYW-gYy0g
@@ -110,7 +110,7 @@ entries:
     readme_tags:
       - Official
       - SideFX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - Community
       - FX
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -142,13 +142,13 @@ entries:
   - name: Mark Fancher
     url: https://www.youtube.com/@MarkFancherFX
     added_at: '2026-04-16T19:59:30.000Z'
-    description: FX breakdowns.
+    description: YouTube channel by Mark Fancher with Houdini FX breakdowns and tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - FX
       - Breakdowns
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -168,7 +168,7 @@ entries:
     readme_tags:
       - Mograph
       - Vimeo
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
@@ -180,13 +180,13 @@ entries:
   - name: Asis FX
     url: https://www.youtube.com/@AxisDesignerGFX
     added_at: '2026-04-16T19:59:30.000Z'
-    description: FX tutorials.
+    description: YouTube channel by AxisFX with 3D motion graphics and FX tutorials.
     entry_type: channel
     license: Free
     readme_tags:
       - FX
       - Tutorials
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -206,7 +206,7 @@ entries:
     readme_tags:
       - Procedural
       - Sim
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       workflow:
@@ -227,7 +227,7 @@ entries:
     readme_tags:
       - Caching
       - Tools
-    url_last_verified: '2026-09-01'
+    url_last_verified: '2026-10-01'
     url_status: ok
     tags:
       output:
