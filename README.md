@@ -65,7 +65,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Cinema 4D: Tips & Workflows](#cinema-4d-tips--workflows) <span class="toc-count">(2 items)</span><br><small class="toc-desc">Productivity blogs and shader workflow tricks.</small>
 - [3ds Max: Plugins](#3ds-max-plugins) <span class="toc-count">(4 items)</span><br><small class="toc-desc">3ds Max plugins.</small>
 - [Fusion 360: Learning](#fusion-360-learning) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Fusion 360 courses.</small>
-- [Material Creation Tools](#material-creation-tools) <span class="toc-count">(23 items)</span><br><small class="toc-desc">Texture authoring, procedural materials, and baking tools.</small>
+- [Material Creation Tools](#material-creation-tools) <span class="toc-count">(24 items)</span><br><small class="toc-desc">Texture authoring, procedural materials, and baking tools.</small>
 
 </details>
 
@@ -987,6 +987,7 @@ Texture authoring, procedural materials, and baking tools.
 - [Agisoft De-Lighter](https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow). Standalone tool to remove baked shadows from model textures.
 - [Architextures - Create](https://architextures.org/create) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Web app for creating textures, bump maps, and CAD hatches.
 - [Imogen](https://github.com/CedricGuillemet/Imogen). GPU Texture generator using dear imgui for UI.
+- [Normal Map Bench](https://normalmapbench.com/). Browser tool that turns a height texture into a tangent-space normal map with live relighting and OpenGL or DirectX output. Runs locally, no upload.
 - [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/texture-tools-exporter). Creates compressed texture files from image sources via CUDA-accelerated compression.
 - [ShaderExpo](https://anuraghazra.dev/ShaderExpo/). Browser shader editor with inline error logs, autocompletion, and model/texture loading.
 - [SmartNormal 2.0](https://www.smart-page.net/smartnormal/). Normal map generation from images.
