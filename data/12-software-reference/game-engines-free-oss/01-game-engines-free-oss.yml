@@ -51,10 +51,10 @@ entries:
   - name: Defold
     url: https://defold.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Lua-based 2D mobile game engine by King.
+    description: Lua-scripted engine for cross-platform 2D and 3D games, maintained by the Defold Foundation.
     license: Open Source
     entry_type: software
-    best_for: 2D mobile games
+    best_for: Lightweight 2D and 3D games on mobile and web
     tags:
       output:
         - games
