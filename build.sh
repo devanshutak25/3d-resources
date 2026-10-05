@@ -4,7 +4,7 @@
 
 set -e
 
-npm install marked js-yaml minisearch
+npm ci
 
 # Step 1: render the FULL catalog into README.md — build-html.js reads it as input
 # to emit the site's index.html (single-page catalog with all entries).
