@@ -716,7 +716,7 @@ entries:
   - name: 'BeyondPixels: A Review of the Evolution of Neural Radiance Fields'
     url: https://arxiv.org/abs/2306.03000
     added_at: '2026-04-19T17:29:43.000Z'
-    description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023
+    description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'

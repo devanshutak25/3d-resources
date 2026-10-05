@@ -204,8 +204,8 @@ entries:
   - name: Mind + Motion (Effectatron)
     url: https://effectatron-c4d-redshift.teachable.com/
     added_at: '2026-04-16T20:54:45.000Z'
-    description: Derek Kirk's C4D + Redshift course. Covers imposter syndrome / mental health alongside technique. $10–$49.99 per course.
-    pricing: $10–$49.99 per course
+    description: Derek Kirk's C4D + Redshift course. Covers imposter syndrome / mental health alongside technique. $10-$49.99 per course.
+    pricing: $10-$49.99 per course
     license: Paid
     entry_type: tutorial
     tags:

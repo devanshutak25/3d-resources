@@ -230,7 +230,7 @@ entries:
   - name: spaTV
     url: https://github.com/antimatter15/splaTV
     added_at: '2026-04-19T17:29:43.000Z'
-    description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo [here](http://antimatter15.com/splaTV/).
+    description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo here.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -326,7 +326,7 @@ entries:
   - name: PyTorch Implementation
     url: https://myasincifci.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Curated implementation of Vanilla 3DGS in PyTorch
+    description: Curated implementation of Vanilla 3DGS in PyTorch.
     entry_type: reference
     url_last_verified: '2026-10-01'
     url_status: ok

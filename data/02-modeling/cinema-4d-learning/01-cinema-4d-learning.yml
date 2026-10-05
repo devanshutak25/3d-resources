@@ -18,7 +18,7 @@ entries:
       platform:
         - web
       tech:
-        - c4d
+        - cinema-4d
   - name: School of Motion (site)
     url: https://www.schoolofmotion.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -34,7 +34,7 @@ entries:
       platform:
         - web
       tech:
-        - c4d
+        - cinema-4d
     readme_tags:
       - Mograph Focus
       - Structured Courses

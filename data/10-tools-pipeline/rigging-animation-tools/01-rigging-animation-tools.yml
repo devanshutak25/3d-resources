@@ -166,7 +166,7 @@ entries:
   - name: ossos
     url: https://github.com/sketchpunklabs/ossos
     added_at: '2026-04-19T17:29:43.000Z'
-    description: A complete character skinning & animation library for the web
+    description: A complete character skinning & animation library for the web.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'

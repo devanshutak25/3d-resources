@@ -189,7 +189,7 @@ entries:
   - name: Colyseus Unreal
     url: https://github.com/charisma-ai/colyseus-unreal
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Colyseus Multiplayer SDK for Unreal Engine
+    description: Colyseus Multiplayer SDK for Unreal Engine.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'

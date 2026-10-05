@@ -27,7 +27,7 @@ entries:
   - name: Softimage|3D
     url: https://en.wikipedia.org/wiki/Softimage_3D
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Softimage Inc.'s 1988–2005 character animation DCC. Used on Jurassic Park and Titanic. Defined 90s character UX.
+    description: Softimage Inc.'s 1988-2005 character animation DCC. Used on Jurassic Park and Titanic. Defined 90s character UX.
     license: Paid
     entry_type: software
     best_for: Historical reference
@@ -47,7 +47,7 @@ entries:
   - name: Alias PowerAnimator / Studio
     url: https://en.wikipedia.org/wiki/PowerAnimator
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Alias Research 1985–1998 DCC. Used on T2 and Jurassic Park morphs. Direct ancestor of Maya.
+    description: Alias Research 1985-1998 DCC. Used on T2 and Jurassic Park morphs. Direct ancestor of Maya.
     license: Paid
     entry_type: software
     best_for: Maya lineage reference
@@ -64,7 +64,7 @@ entries:
   - name: Wavefront Advanced Visualizer
     url: https://en.wikipedia.org/wiki/Wavefront_Technologies
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Wavefront Technologies 1984–1995 DCC. Source of the OBJ file format.
+    description: Wavefront Technologies 1984-1995 DCC. Source of the OBJ file format.
     license: Paid
     entry_type: software
     best_for: OBJ format origin
@@ -82,7 +82,7 @@ entries:
   - name: 3D Studio (DOS)
     url: https://en.wikipedia.org/wiki/3D_Studio
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Yost Group / Autodesk DOS DCC, 1990–1996. Predecessor of 3D Studio MAX. Democratized 3D on PC.
+    description: Yost Group / Autodesk DOS DCC, 1990-1996. Predecessor of 3D Studio MAX. Democratized 3D on PC.
     license: Paid
     entry_type: software
     best_for: 3ds Max lineage
@@ -99,7 +99,7 @@ entries:
   - name: trueSpace
     url: https://en.wikipedia.org/wiki/TrueSpace
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Caligari Corp DCC, 1994–2009. Acquired by Microsoft and killed. Early real-time viewport pioneer.
+    description: Caligari Corp DCC, 1994-2009. Acquired by Microsoft and killed. Early real-time viewport pioneer.
     license: Free
     entry_type: software
     best_for: Free download (historical)
@@ -116,7 +116,7 @@ entries:
   - name: Mirai / N-World
     url: https://en.wikipedia.org/wiki/Mirai_(software)
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Nichimen Graphics / Izware polygon DCC, 1990s–early 2000s. Used on Gollum facial animation (LOTR).
+    description: Nichimen Graphics / Izware polygon DCC, 1990s-early 2000s. Used on Gollum facial animation (LOTR).
     license: Paid
     entry_type: software
     best_for: Polygon-modeling lineage
@@ -314,7 +314,7 @@ entries:
   - name: Combustion
     url: https://en.wikipedia.org/wiki/Autodesk_Media_and_Entertainment
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Discreet → Autodesk compositor, 1999–2008. After Effects competitor with paint, tracking, keyer.
+    description: Discreet → Autodesk compositor, 1999-2008. After Effects competitor with paint, tracking, keyer.
     license: Paid
     entry_type: software
     best_for: AE-era compositor history
@@ -331,7 +331,7 @@ entries:
   - name: Toxik
     url: https://en.wikipedia.org/wiki/Autodesk_Toxik
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Autodesk compositor, 2006–2009. Folded into Flame Composite/Smoke.
+    description: Autodesk compositor, 2006-2009. Folded into Flame Composite/Smoke.
     license: Paid
     entry_type: software
     best_for: Flame composite lineage
@@ -380,7 +380,7 @@ entries:
   - name: Final Cut Pro 7 ("classic")
     url: https://en.wikipedia.org/wiki/Final_Cut_Pro
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Apple 1999–2011 NLE. Killed by FCPX rewrite, drove indies to Premiere and Avid.
+    description: Apple 1999-2011 NLE. Killed by FCPX rewrite, drove indies to Premiere and Avid.
     license: Paid
     entry_type: software
     best_for: 2000s indie NLE history
@@ -399,7 +399,7 @@ entries:
   - name: Stingray
     url: https://en.wikipedia.org/wiki/Autodesk_Stingray
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Autodesk engine (acquired Bitsquid), 2015–2018. Discontinued.
+    description: Autodesk engine (acquired Bitsquid), 2015-2018. Discontinued.
     license: Paid
     entry_type: software
     best_for: Autodesk engine history

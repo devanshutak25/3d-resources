@@ -107,7 +107,7 @@ entries:
   - name: Editor2D
     url: https://github.com/stillwwater/editor2d
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Tile based level editor for Unity
+    description: Tile based level editor for Unity.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-10-01'

@@ -138,7 +138,6 @@ entries:
         - web
       tech:
         - cc0
-        - cc-by
     readme_tags:
       - Mixed CC0/CC-BY
       - Space/Science

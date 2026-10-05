@@ -872,7 +872,7 @@ entries:
   - name: Ray Tracey's blog
     url: https://raytracey.blogspot.com/
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Sam Lapere's blog, leads the scientific team at EPFL Blue Brain Project. Lots of post about real time rendering
+    description: Sam Lapere's blog, leads the scientific team at EPFL Blue Brain Project. Lots of post about real time rendering.
     license: Free
     entry_type: channel
     url_last_verified: '2026-10-05'

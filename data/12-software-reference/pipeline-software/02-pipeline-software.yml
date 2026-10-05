@@ -165,7 +165,7 @@ entries:
   - name: Flamenco (flamenco.io)
     url: https://www.flamenco.io/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: From the Blender Foundation
+    description: From the Blender Foundation.
     license: Open Source
     entry_type: software
     best_for: Blender render farm

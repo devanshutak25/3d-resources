@@ -209,7 +209,7 @@ entries:
   - name: ☕Blender.Today
     url: https://blender.community/c/today/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Community-driven Blender news, chat, and live streams! Stream [playlist](https://www.youtube.com/playlist?list=PLa1F2ddGya_87HJ72v_IgKUTNLIXSMfvB).
+    description: Community-driven Blender news, chat, and live streams! Stream playlist.
     entry_type: community
     license: Free
     readme_tags:

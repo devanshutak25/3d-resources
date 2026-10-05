@@ -476,7 +476,7 @@ entries:
   - name: SLK_img2pixel
     url: https://captain4lk.itch.io/slk-img2pixel
     added_at: '2026-05-01T15:46:53.000Z'
-    description: Convert images/textures to pixel art
+    description: Convert images/textures to pixel art.
     license: Free
     entry_type: tool
     best_for: Image-to-pixel-art conversion

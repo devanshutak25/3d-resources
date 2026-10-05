@@ -23,7 +23,7 @@ entries:
   - name: Stitches
     url: https://draeton.github.io/stitches/
     added_at: '2026-04-16T21:13:44.000Z'
-    description: An HTML5 sprite sheet generator
+    description: An HTML5 sprite sheet generator.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -40,7 +40,7 @@ entries:
   - name: Ez Sprite Sheet
     url: https://github.com/z64me/EzSpriteSheet
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Creates sprite sheets from animated GIFs
+    description: Creates sprite sheets from animated GIFs.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -59,7 +59,7 @@ entries:
   - name: Sprite Sheet Maker
     url: https://isometric8.itch.io/sprite-sheet-maker
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Sprite Sheet Maker is a handy no fuss utility to pack sprites
+    description: Sprite Sheet Maker is a handy no fuss utility to pack sprites.
     license: Free
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -74,7 +74,7 @@ entries:
   - name: Sprite Sheet Slicer
     url: https://isometric8.itch.io/sprite-sheet-slicer
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Sprite Sheet Slicer is a handy no fuss utility to slice sprites
+    description: Sprite Sheet Slicer is a handy no fuss utility to slice sprites.
     license: Free
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -265,7 +265,7 @@ entries:
   - name: GlueIT
     url: https://github.com/Kavex/GlueIT
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Free Simple Spritesheet Tool
+    description: Free Simple Spritesheet Tool.
     entry_type: tool
     url_last_verified: '2026-10-01'
     url_status: ok
@@ -297,7 +297,7 @@ entries:
   - name: Cheetah Texture Packer
     url: https://github.com/scriptum/Cheetah-Texture-Packer
     added_at: '2026-04-16T21:13:44.000Z'
-    description: High efficient and fast 2D bin packing tool
+    description: High efficient and fast 2D bin packing tool.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -319,7 +319,7 @@ entries:
   - name: Libgdx Texture Packer
     url: https://github.com/libgdx/libgdx/wiki/Texture-packer
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Texture Packer built into Libgdx
+    description: Texture Packer built into Libgdx.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -337,7 +337,7 @@ entries:
   - name: Tilesplit
     url: https://github.com/AlexPoulsen/tilesplit
     added_at: '2026-04-16T21:13:44.000Z'
-    description: CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size
+    description: CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -359,7 +359,7 @@ entries:
   - name: Leshy SpriteSheet Tool
     url: https://www.leshylabs.com/apps/sstool/
     added_at: '2026-04-16T21:13:44.000Z'
-    description: HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases
+    description: HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases.
     license: Free
     entry_type: tool
     url_last_verified: '2026-10-01'

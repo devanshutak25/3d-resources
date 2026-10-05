@@ -171,7 +171,7 @@ entries:
   - name: CloudCompare
     url: https://www.danielgm.net/cc/
     added_at: '2026-04-16T21:13:44.000Z'
-    description: A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a
+    description: A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, a.
     license: Open Source
     entry_type: software
     best_for: Point cloud and mesh processing

@@ -370,7 +370,7 @@ entries:
         - web
       tech:
         - pbr
-        - c4d
+        - cinema-4d
   - name: Celestia Motherlode
     url: http://www.celestiamotherlode.net/
     added_at: '2026-04-19T17:15:03.000Z'

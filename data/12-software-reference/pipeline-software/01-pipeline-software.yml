@@ -968,7 +968,7 @@ entries:
   - name: Visual Studio (Windows)
     url: https://visualstudio.microsoft.com/es/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Official supported IDE for Unity in Windows platform. Mac version [here](https://visualstudio.microsoft.com/es/vs/mac/).
+    description: Official supported IDE for Unity in Windows platform. Mac version here.
     entry_type: software
     license: Freemium
     url_last_verified: '2026-10-01'

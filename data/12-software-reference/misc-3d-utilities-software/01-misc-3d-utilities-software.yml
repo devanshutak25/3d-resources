@@ -15,7 +15,7 @@ entries:
   - name: Polygonjs
     url: https://polygonjs.com
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Node-based WebGL design tool, used for procedural geometry, particles, materials
+    description: Node-based WebGL design tool, used for procedural geometry, particles, materials.
     license: Freemium
     entry_type: software
     url_last_verified: '2026-10-01'
@@ -283,7 +283,7 @@ entries:
   - name: VNyan
     url: https://suvidriel.itch.io/vnyan
     added_at: '2026-05-01T15:46:53.000Z'
-    description: Take your 3d VTubing to the next level
+    description: Take your 3d VTubing to the next level.
     license: Free
     entry_type: software
     best_for: 3D VTubing

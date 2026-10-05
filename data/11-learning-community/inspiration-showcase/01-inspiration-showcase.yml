@@ -355,7 +355,7 @@ entries:
   - name: Mathematics of Animation
     url: https://winkervsbecks.github.io/mathematics-of-animation/#/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
+    description: Slides about the mathematics of animation (repo).
     entry_type: reference
     readme_tags:
       - Math

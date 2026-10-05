@@ -89,7 +89,7 @@ entries:
   - name: Vuforia
     url: https://developer.vuforia.com/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: AR SDK that is directly integrated in the Unity Editor. Proprietary license, [free to develop with](https://developer.vuforia.com/vui/pricing)
+    description: AR SDK that is directly integrated in the Unity Editor. Proprietary license, free to develop with.
     entry_type: tool
     license: Freemium
     url_last_verified: '2026-10-01'
@@ -346,7 +346,7 @@ entries:
   - name: Tensorflow2 Ue4 AR
     url: https://github.com/Allysony/tensorflow2-ue4-ar
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
+    description: Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -366,7 +366,7 @@ entries:
   - name: Sceneform Android SDK Maintained
     url: https://github.com/SceneView/sceneform-android
     added_at: '2026-04-19T17:29:43.000Z'
-    description: ARCore Android SDK with Google Filament 3D engine. Continuation of Google Sceneform
+    description: ARCore Android SDK with Google Filament 3D engine. Continuation of Google Sceneform.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -384,7 +384,7 @@ entries:
   - name: I3D Past Projects
     url: https://www.youtube.com/@i3dpastprojects778
     added_at: '2026-04-19T19:05:38.000Z'
-    description: Virtual 3D teleportation in real-time by Microsoft Research
+    description: Virtual 3D teleportation in real-time by Microsoft Research.
     entry_type: channel
     license: Free
     readme_tags:

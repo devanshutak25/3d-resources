@@ -152,7 +152,7 @@ entries:
         - win
         - mac
       tech:
-        - c4d
+        - cinema-4d
   - name: Maya Content Browser
     url: https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-14B1E820-24A5-41CF-B3A2-1BFED3464908
     added_at: '2026-04-16T19:59:30.000Z'

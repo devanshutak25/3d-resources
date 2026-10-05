@@ -81,7 +81,7 @@ entries:
   - name: Ink Unity Integration
     url: https://github.com/inkle/ink-unity-integration
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Unity integration for the open source [ink](https://github.com/inkle/ink) narrative scripting language.
+    description: Unity integration for the open source ink narrative scripting language.
     license: Open Source
     entry_type: plugin
     url_last_verified: '2026-10-01'

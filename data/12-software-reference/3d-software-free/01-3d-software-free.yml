@@ -310,7 +310,7 @@ entries:
   - name: Make Human
     url: http://www.makehumancommunity.org/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender)) [![][repo]](https://github.com/makehumancommunity/makehuman)
+    description: Open-source tool for making 3D characters. (blender addon) [![][repo]](https://github.com/makehumancommunity/makehuman)
     entry_type: community
     license: Open Source
     readme_tags:

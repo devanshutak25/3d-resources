@@ -545,7 +545,7 @@ entries:
   - name: AJ Picard
     url: https://www.youtube.com/channel/UCVRJy3snLdtIgSrPQZyXLtg
     added_at: '2026-04-19T19:05:38.000Z'
-    description: Complex background animations using SwiftUI & Rive.App
+    description: Complex background animations using SwiftUI & Rive.App.
     entry_type: channel
     license: Free
     readme_tags:
@@ -652,7 +652,7 @@ entries:
   - name: Adding Animation to Buttons in Flutter using Rive
     url: https://www.youtube.com/@anantpro
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Simple Animated Menu Toggle Button in Rive
+    description: Simple Animated Menu Toggle Button in Rive.
     entry_type: channel
     license: Free
     url_last_verified: '2026-10-01'
@@ -719,7 +719,7 @@ entries:
   - name: Flutter SVG Animations with Rive (Reso Coder)
     url: https://resocoder.com/2021/08/27/flutter-svg-animations-with-rive/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: '- Sprinkling some beautiful animations across your app'
+    description: '- Sprinkling some beautiful animations across your app.'
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
@@ -773,7 +773,7 @@ entries:
   - name: Plant Blog
     url: https://plant-blog-rive.vercel.app/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: NextJS blog template with Rive to show animated blog thumbnails and syncing scroll to Rive animations deployed on Vercel. [Code](https://github.com/zplata/plant-blog-rive)
+    description: NextJS blog template with Rive to show animated blog thumbnails and syncing scroll to Rive animations deployed on Vercel. Code.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'

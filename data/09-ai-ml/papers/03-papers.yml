@@ -2,7 +2,7 @@ entries:
   - name: 3D Neural Scene Representations for Visuomotor Control
     url: https://3d-representation-learning.github.io/nerf-dy/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Li et al., CoRL 2021 Oral
+    description: Li et al., CoRL 2021 Oral.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -19,7 +19,7 @@ entries:
   - name: 'Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis'
     url: https://www.ajayj.com/dietnerf
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Matthew Tancik et al., Arxiv 2021
+    description: Matthew Tancik et al., Arxiv 2021.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -70,7 +70,7 @@ entries:
   - name: 'NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images'
     url: https://bmild.github.io/rawnerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Ben Mildenhall et al, arXiv 2021
+    description: Ben Mildenhall et al, arXiv 2021.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -359,7 +359,7 @@ entries:
   - name: 'Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields'
     url: https://jonbarron.info/mipnerf360/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Barron et al., Arxiv 2022
+    description: Barron et al., Arxiv 2022.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -494,7 +494,7 @@ entries:
   - name: 'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections'
     url: https://nerf-w.github.io/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Martin-Brualla et al., CVPR 2021
+    description: Martin-Brualla et al., CVPR 2021.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -580,7 +580,7 @@ entries:
   - name: 'NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis'
     url: https://pratulsrinivasan.github.io/nerv/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Srinivasan et al. CVPR 2021
+    description: Srinivasan et al. CVPR 2021.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -767,7 +767,7 @@ entries:
   - name: 'Block-NeRF: Scalable Large Scene Neural View Synthesis'
     url: https://waymo.com/research/block-nerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Tancik et al., Arxiv 2022
+    description: Tancik et al., Arxiv 2022.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
@@ -818,7 +818,7 @@ entries:
   - name: 'iNeRF: Inverting Neural Radiance Fields for Pose Estimation'
     url: https://yenchenlin.me/inerf/
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Yen-Chen et al. IROS 2021
+    description: Yen-Chen et al. IROS 2021.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'

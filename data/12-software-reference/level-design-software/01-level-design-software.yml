@@ -113,7 +113,7 @@ entries:
   - name: Village Generator
     url: https://watabou.itch.io/village-generator
     added_at: '2026-05-01T15:46:53.000Z'
-    description: Randomly generated village maps
+    description: Randomly generated village maps.
     license: Free
     entry_type: tool
     best_for: Procedural village maps
@@ -128,7 +128,7 @@ entries:
   - name: One Page Dungeon
     url: https://watabou.itch.io/one-page-dungeon
     added_at: '2026-05-01T15:46:53.000Z'
-    description: One page dungeon generator
+    description: One page dungeon generator.
     license: Free
     entry_type: tool
     best_for: Procedural one-page dungeons

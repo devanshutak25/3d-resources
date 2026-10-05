@@ -2,7 +2,7 @@ entries:
   - name: Superpowers
     url: https://sparklinlabs.itch.io/superpowers
     added_at: '2026-04-16T21:13:44.000Z'
-    description: HTML5 Collaborative 2D/3D Game Maker
+    description: HTML5 Collaborative 2D/3D Game Maker.
     entry_type: software
     license: Open Source
     url_last_verified: '2026-10-01'
@@ -66,7 +66,7 @@ entries:
   - name: PixiJS
     url: https://www.pixijs.com/
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard
+    description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard.
     license: Open Source
     entry_type: software
     url_last_verified: '2026-10-05'
@@ -120,7 +120,7 @@ entries:
   - name: Py Game CE
     url: https://pyga.me/docs/index.html
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
+    description: Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
     entry_type: community
     license: Open Source
     readme_tags:

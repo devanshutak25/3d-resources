@@ -52,7 +52,7 @@ entries:
       platform:
         - web
       tech:
-        - c4d
+        - cinema-4d
   - name: Autodesk App Store
     url: https://marketplace.autodesk.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -908,7 +908,7 @@ entries:
   - name: Super Fast Render
     url: https://pidgeontools.gumroad.com/l/SuperFastRender
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Either uses preset render settings optimised to speed up render times or Uses a benchmark to detect the fastest settings for the same render quality
+    description: Either uses preset render settings optimised to speed up render times or Uses a benchmark to detect the fastest settings for the same render quality.
     entry_type: plugin
     license: Paid
     readme_tags:

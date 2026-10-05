@@ -121,12 +121,12 @@ entries:
   - name: The Pattern Library
     url: https://thepatternlibrary.com/
     added_at: '2026-06-17T07:16:34.000Z'
-    description: Free seamless background patterns.
+    description: Free tileable background patterns.
     license: Free
     entry_type: asset-source
     readme_tags:
       - Free
-      - Seamless
+      - Tileable
     tags:
       workflow:
         - texturing

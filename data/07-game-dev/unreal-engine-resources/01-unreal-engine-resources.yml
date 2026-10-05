@@ -400,7 +400,7 @@ entries:
   - name: 'Unreal Docs: Procedural Content Generation Framework'
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation--framework-in-unreal-engine
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Docs for the Procedural Content Generation (PCG) framework. See also [Electric Dreams PCG](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-in-electric-dreams).
+    description: Docs for the Procedural Content Generation (PCG) framework. See also Electric Dreams PCG.
     license: Free
     entry_type: reference
     readme_tags:

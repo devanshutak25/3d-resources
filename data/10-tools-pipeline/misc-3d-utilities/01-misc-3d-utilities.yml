@@ -139,7 +139,7 @@ entries:
   - name: Sorcar
     url: https://aachman98.itch.io/sorcar
     added_at: '2026-04-16T21:13:44.000Z'
-    description: A procedural modeling node-based system which uses Blender and its Python API to create a visual programming environment for artists and developers
+    description: A procedural modeling node-based system which uses Blender and its Python API to create a visual programming environment for artists and developers.
     license: Open Source
     entry_type: plugin
     tags:
@@ -186,7 +186,7 @@ entries:
   - name: Palladio
     url: https://github.com/Esri/cityengine_for_houdini
     added_at: '2026-04-16T21:13:44.000Z'
-    description: CityEngine Plugin for Houdini
+    description: CityEngine Plugin for Houdini.
     license: Open Source
     entry_type: plugin
     tags:
@@ -225,7 +225,7 @@ entries:
   - name: DEM Net Elevation API
     url: https://elevationapi.com
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL
+    description: Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL.
     license: Freemium
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -242,7 +242,7 @@ entries:
   - name: DEM Net Elevation API C#
     url: https://github.com/dem-net/DEM.Net
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
+    description: Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
@@ -294,7 +294,7 @@ entries:
   - name: emojillate
     url: https://github.com/notwaldorf/emojillate
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Pixellate an image into emoji
+    description: Pixellate an image into emoji.
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'

@@ -430,7 +430,7 @@ entries:
   - name: Packyderm
     url: https://isometric8.itch.io/packyderm-unitypackage-extractor
     added_at: '2026-04-16T21:13:44.000Z'
-    description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
+    description: A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity.
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'

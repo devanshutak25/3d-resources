@@ -161,7 +161,7 @@ entries:
   - name: Timanthes
     url: https://csdb.dk/release/?id=75871
     added_at: '2026-04-19T17:15:03.000Z'
-    description: A pixel art editor for the Commodore 64 computer running on Windows
+    description: A pixel art editor for the Commodore 64 computer running on Windows.
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-05'
@@ -261,7 +261,7 @@ entries:
   - name: Spritemate
     url: https://www.spritemate.com
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Online Editor for Commodore 64 Sprites
+    description: Online Editor for Commodore 64 Sprites.
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-05'
@@ -292,7 +292,7 @@ entries:
   - name: Open 3D Engine (O3ED)
     url: https://github.com/o3de/o3de
     added_at: '2026-04-16T21:13:44.000Z'
-    description: Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games
+    description: Successor to Amazon Lumberyard, an open-source, real-time, multi-platform 3D engine to build AAA games.
     entry_type: software
     license: Open Source
     url_last_verified: '2026-10-01'

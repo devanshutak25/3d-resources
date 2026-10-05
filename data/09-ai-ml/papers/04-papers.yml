@@ -141,7 +141,7 @@ entries:
   - name: Learning Neural Transmittance for Efficient Rendering of Reflectance Fields
     url: https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html
     added_at: '2026-04-19T17:29:43.000Z'
-    description: Mohammad Shafiei et al., BMVC 2021
+    description: Mohammad Shafiei et al., BMVC 2021.
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
