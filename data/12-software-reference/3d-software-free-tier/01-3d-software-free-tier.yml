@@ -242,3 +242,23 @@ entries:
       - WebGPU
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Mush3D
+    url: https://mush3d.com/
+    description: GPU tool for sculpting and simulating corrective fixes on animated mesh caches.
+    pricing: Free tier, Indie $29/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - sculpting
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gpu
+    added_at: '2026-10-05T08:51:07.096Z'

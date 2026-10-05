@@ -353,3 +353,177 @@ entries:
       tech:
         - gaussian-splatting
         - nerf
+  - name: Gaussian Splatting for Nuke / After Effects (irrealix)
+    url: https://irrealix.com/plugin/gaussian-splatting-nuke
+    description: GPU plugins that import, edit and render 3DGS PLY files in Nuke, After Effects and Resolve.
+    pricing: From $46
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.440Z'
+  - name: KIRI Gaussian Splatting for After Effects
+    url: https://kiriinnov.gumroad.com/l/GaussianSplattingPluginbyKIRIEngine
+    description: Free After Effects plugin to import, crop and stylize 3DGS PLY scans.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.443Z'
+  - name: 3DGS Render (KIRI)
+    url: https://www.kiriengine.app/3d-tools/3dgs-render
+    description: Blender add-on for viewing, editing and animating Gaussian splats.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.445Z'
+  - name: Spark
+    url: https://sparkjs.dev/
+    description: World Labs Gaussian splat renderer for three.js that loads PLY, SPZ, SPLAT and SOGS.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - real-time
+    added_at: '2026-10-05T08:51:07.447Z'
+  - name: SplatTransform
+    url: https://github.com/playcanvas/splat-transform
+    description: PlayCanvas CLI and library to convert, filter, merge and compress Gaussian splat files.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.449Z'
+  - name: OpenSplat
+    url: https://github.com/WebODM/OpenSplat
+    description: Open-source 3DGS trainer that runs on CPU or GPU.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+    added_at: '2026-10-05T08:51:07.452Z'
+  - name: NanoGS
+    url: https://github.com/TimChen1383/NanoGaussianSplatting
+    description: Unreal Engine 5.6+ plugin that renders large splat scenes with LOD clusters.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - games
+        - xr
+      platform:
+        - win
+      tech:
+        - gaussian-splatting
+        - unreal-plugin
+    added_at: '2026-10-05T08:51:07.454Z'
+  - name: Volinga
+    url: https://volinga.ai/
+    description: Splat processing suite and Unreal plugin for virtual production, with 4D splat support.
+    pricing: Plugin about €120/yr
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - gaussian-splatting
+        - unreal-plugin
+    added_at: '2026-10-05T08:51:07.456Z'
+  - name: StorySplat
+    url: https://storysplat.com/
+    description: Web editor for building interactive tours from Gaussian splat scenes.
+    pricing: Free non-commercial, Plus $19/mo
+    license: Freemium
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - archviz
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.458Z'
+  - name: Scantic
+    url: https://scantic.app/
+    description: iPhone app that trains Gaussian splats on device.
+    pricing: Free, €29.99/yr full export
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - generalist
+      platform:
+        - ios
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+    added_at: '2026-10-05T08:51:07.460Z'
+  - name: instant-ngp (NVIDIA)
+    url: https://github.com/NVlabs/instant-ngp
+    description: NVIDIA fast NeRF trainer and viewer using multiresolution hash encoding.
+    license: Free NC
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
+      tech:
+        - nerf
+        - gpu
+        - photogrammetry
+    added_at: '2026-10-05T08:51:07.462Z'

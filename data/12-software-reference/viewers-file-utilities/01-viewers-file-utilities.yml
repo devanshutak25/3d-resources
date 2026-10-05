@@ -290,3 +290,50 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
       - tools-pipeline-utilities/photogrammetry-scanning
+  - name: tev
+    url: https://github.com/Tom94/tev
+    description: HDR image viewer for comparing EXRs with pixel inspection, exposure and error metrics.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - compositing
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.407Z'
+  - name: Online 3D Viewer
+    url: https://3dviewer.net/
+    description: Browser viewer for OBJ, FBX, glTF, STL, 3DM, STEP and other 3D files.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    added_at: '2026-10-05T08:51:07.408Z'
+  - name: mrv2
+    url: https://mrv2.sourceforge.io/
+    description: Flipbook and review player for EXR sequences, video and USD with annotations and OCIO. Successor to mrViewer.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - usd
+    added_at: '2026-10-05T08:51:07.410Z'

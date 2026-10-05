@@ -173,3 +173,56 @@ entries:
       - 2D Animation
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: TVPaint Animation
+    url: https://www.tvpaint.com/
+    description: Raster frame-by-frame 2D animation software modeled on paper animation.
+    pricing: From about €650 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - storyboard
+      output:
+        - film-vfx
+        - broadcast
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.122Z'
+  - name: Callipeg
+    url: https://callipeg.com/
+    description: Frame-by-frame 2D animation app for tablets and desktop.
+    pricing: From $5 one-time
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - illustration
+        - broadcast
+      platform:
+        - ipad
+        - ios
+        - android
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.123Z'
+  - name: Glaxnimate
+    url: https://glaxnimate.org/
+    description: KDE open-source vector animation app with Lottie and SVG export.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.125Z'

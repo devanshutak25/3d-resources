@@ -310,3 +310,32 @@ entries:
       - Browser
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Qube!
+    url: https://www.pipelinefx.com/
+    description: Render farm manager that queues and distributes jobs across Windows, Linux and macOS workers.
+    pricing: Supervisor $500/yr, worker $100/yr
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.412Z'
+  - name: NIM
+    url: https://nim-labs.com/
+    description: Studio management for shot tracking, scheduling, bidding, timecards and review.
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - cloud
+    added_at: '2026-10-05T08:51:07.413Z'

@@ -845,3 +845,55 @@ entries:
       - Real-time
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: SpeedTree
+    url: https://unity.com/products/speedtree
+    description: Procedural tree and vegetation modeler with a runtime SDK, used for game and film foliage.
+    pricing: Indie $19/mo, Pro $899/yr
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - film-vfx
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - procedural
+    added_at: '2026-10-05T08:51:07.093Z'
+  - name: Shapelab
+    url: https://shapelabvr.com/
+    description: VR and desktop sculpting app for characters, props and concepts.
+    pricing: Lite $34.99, Max $49.99/yr
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - sculpting
+        - concept
+      output:
+        - games
+        - illustration
+      platform:
+        - win
+        - vr
+    added_at: '2026-10-05T08:51:07.097Z'
+  - name: Feather
+    url: https://www.feather.art/
+    description: iPad 3D drawing app that turns pen strokes into 3D curves on guide surfaces.
+    pricing: $14.99 one-time
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - product-viz
+      platform:
+        - ipad
+    added_at: '2026-10-05T08:51:07.099Z'

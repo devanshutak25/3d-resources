@@ -367,13 +367,15 @@ entries:
       - Physically Accurate
     url_last_verified: '2026-10-01'
     url_status: ok
-  - name: Guerrilla Render
+  - name: Guerilla Render
     url: http://guerillarender.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Production renderer used on feature films.
-    license: Free
+    description: Bidirectional path tracer and lookdev/lighting app by Mercenaries Engineering, used on animated features. Free Discover tier, paid Station seats and render nodes.
+    pricing: Free Discover tier, Station from €1,200/seat, render nodes from €350
+    pricing_last_verified: '2026-10-05'
+    license: Freemium
     entry_type: software
-    best_for: Film production
+    best_for: Animated feature lookdev and lighting
     tags:
       workflow:
         - rendering
@@ -739,3 +741,99 @@ entries:
         - opensource-alt
         - real-time
         - blender-addon
+  - name: Chaos Vantage
+    url: https://www.chaos.com/vantage
+    description: Real-time ray-traced renderer for exploring large V-Ray, USD and MaterialX scenes.
+    pricing: Subscription, 30-day trial
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - archviz
+        - film-vfx
+        - product-viz
+      platform:
+        - win
+      tech:
+        - real-time
+        - ray-tracing
+        - usd
+    added_at: '2026-10-05T08:51:07.381Z'
+  - name: Bella
+    url: https://bellarender.com/
+    description: Spectral path tracer with a standalone GUI, CLI and plugins for Rhino, Maya and SketchUp.
+    pricing: €240 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - product-viz
+        - archviz
+        - jewelry
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+    added_at: '2026-10-05T08:51:07.388Z'
+  - name: 3Delight
+    url: https://www.3delight.com/
+    description: OSL-based path tracer with plugins for Maya, Houdini, Cinema 4D, Katana and Hydra.
+    pricing: Free up to 12 cores, paid unlimited
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+        - offline
+    added_at: '2026-10-05T08:51:07.392Z'
+  - name: FStormRender
+    url: https://fstormrender.com/
+    description: GPU renderer plugin for 3ds Max that converts Corona, V-Ray and Octane scenes.
+    pricing: $30/mo
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - win
+      tech:
+        - gpu
+    added_at: '2026-10-05T08:51:07.396Z'
+  - name: Thea Render
+    url: https://www.thearender.com/
+    description: CPU and GPU renderer with the real-time Nitro engine, standalone or as a SketchUp and Rhino plugin.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - win
+        - mac
+      tech:
+        - gpu
+    added_at: '2026-10-05T08:51:07.400Z'

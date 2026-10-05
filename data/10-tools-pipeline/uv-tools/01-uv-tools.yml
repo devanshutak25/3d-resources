@@ -57,3 +57,40 @@ entries:
         - web
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Zen UV
+    url: https://superhivemarket.com/products/zen-uv
+    description: Blender UV toolkit for unwrapping, packing, stacking, texel density and trim sheets.
+    pricing: $39
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - uv
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.068Z'
+  - name: Mio3 UV
+    url: https://extensions.blender.org/add-ons/mio3-uv/
+    description: Free Blender extension for aligning, straightening and arranging UV islands.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - uv
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.069Z'

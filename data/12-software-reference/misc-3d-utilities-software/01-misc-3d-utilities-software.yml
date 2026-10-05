@@ -385,3 +385,154 @@ entries:
         - creative-coding
       platform:
         - web
+  - name: Terragen
+    url: https://planetside.co.uk/
+    description: Procedural terrain, atmosphere and cloud generator and renderer for photoreal landscapes.
+    pricing: Free non-commercial, Pro $199 perpetual
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - procedural
+    added_at: '2026-10-05T08:51:07.115Z'
+  - name: World Creator
+    url: https://www.world-creator.com/
+    description: GPU terrain generator with erosion, water and snow simulation, scattering and a path tracer.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - simulation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - procedural
+        - gpu
+    added_at: '2026-10-05T08:51:07.116Z'
+  - name: Instant Terra
+    url: https://www.wysilab.com/
+    description: Node-based terrain generator with real-time preview, erosion and Unreal and Houdini plugins.
+    pricing: From $149 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - procedural
+        - node-based
+    added_at: '2026-10-05T08:51:07.118Z'
+  - name: Infinigen
+    url: https://infinigen.org/
+    description: Princeton procedural generator of photoreal natural and indoor scenes in Blender, for vision training data.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - scientific-viz
+        - generalist
+      tech:
+        - procedural
+    added_at: '2026-10-05T08:51:07.120Z'
+  - name: vvvv
+    url: https://vvvv.org/
+    description: Visual live-programming environment on .NET for real-time graphics and installations.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+      tech:
+        - node-based
+        - real-time
+    added_at: '2026-10-05T08:51:07.157Z'
+  - name: openFrameworks
+    url: https://openframeworks.cc/
+    description: Open-source C++ creative coding toolkit for graphics, video, audio and hardware I/O.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+        - mac
+        - linux
+        - ios
+    added_at: '2026-10-05T08:51:07.159Z'
+  - name: p5.js
+    url: https://p5js.org/
+    description: JavaScript creative coding library for drawing and interaction in the browser.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+        - illustration
+      platform:
+        - web
+    added_at: '2026-10-05T08:51:07.161Z'
+  - name: Isadora
+    url: https://troikatronix.com/
+    description: Node-based real-time media and show control software for live performance.
+    pricing: $199/yr or $725 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+        - mac
+      tech:
+        - node-based
+        - real-time
+    added_at: '2026-10-05T08:51:07.162Z'
+  - name: Synesthesia
+    url: https://synesthesia.live/
+    description: Audio-reactive VJ software built on GLSL scenes.
+    pricing: From $199 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+        - mac
+      tech:
+        - real-time
+    added_at: '2026-10-05T08:51:07.164Z'

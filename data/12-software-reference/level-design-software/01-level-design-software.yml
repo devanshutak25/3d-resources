@@ -140,3 +140,16 @@ entries:
       - Free
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Dungeon Architect
+    url: https://dungeonarchitect.dev/
+    description: Procedural level generator for Unreal and Unity driven by node-based flow graphs.
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      tech:
+        - procedural
+        - unreal-plugin
+        - unity-plugin
+    added_at: '2026-10-05T08:51:07.114Z'

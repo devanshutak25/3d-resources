@@ -284,3 +284,49 @@ entries:
         - opensource-alt
     stale: true
     last_pushed: '2023-12-22'
+  - name: usdtweak
+    url: https://github.com/cpichard/usdtweak
+    description: Standalone editor for inspecting and editing USD layers and stages.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - usd
+    added_at: '2026-10-05T08:51:07.416Z'
+  - name: LightUSD
+    url: https://github.com/lighttransport/LightUSD
+    description: Light C++17 library for reading and writing USD and USDZ without Pixar USD. Formerly TinyUSDZ.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - usd
+    added_at: '2026-10-05T08:51:07.417Z'
+  - name: Adobe USD Fileformat Plugins
+    url: https://github.com/adobe/USD-Fileformat-plugins
+    description: USD plugins that read and write FBX, glTF, OBJ, PLY, STL, SPZ and SBSAR.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - generalist
+      tech:
+        - usd
+    dual_listed_in:
+      - tools-pipeline-utilities/conversion-tools
+    added_at: '2026-10-05T08:51:07.419Z'

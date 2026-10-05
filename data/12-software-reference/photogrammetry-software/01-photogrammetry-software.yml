@@ -273,3 +273,44 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
+  - name: OpenMVS
+    url: https://cdcseacave.github.io/
+    description: Open-source multi-view stereo library that turns SfM output into dense point clouds and textured meshes.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+        - scientific-viz
+      tech:
+        - photogrammetry
+    added_at: '2026-10-05T08:51:07.435Z'
+  - name: iTwin Capture Modeler (Bentley)
+    url: https://www.bentley.com/products/itwin-capture-modeler/
+    description: Bentley reality modeling that builds meshes and Gaussian splats from photos and lidar.
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - archviz
+        - scientific-viz
+      platform:
+        - win
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.436Z'
+  - name: DJI Terra
+    url: https://enterprise.dji.com/dji-terra
+    description: Drone mapping and photogrammetry software that outputs meshes, point clouds and Gaussian splats.
+    pricing: From $3,700/yr
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - archviz
+        - scientific-viz
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    added_at: '2026-10-05T08:51:07.438Z'

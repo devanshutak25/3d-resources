@@ -36,3 +36,34 @@ entries:
         - mac
       tech:
         - c4d-plugin
+  - name: X-Particles
+    url: https://insydium.ltd/products/x-particles/
+    description: Cinema 4D particle and VFX system for smoke, fire, fluids, grains and cloth.
+    pricing: INSYDIUM Fused subscription
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - motion-graphics
+        - film-vfx
+      tech:
+        - physics
+    added_at: '2026-10-05T08:51:07.091Z'
+  - name: Forester
+    url: https://www.3dquakers.com/
+    description: Cinema 4D plugin that generates trees, plants and rocks and scatters them over terrain.
+    pricing: $350
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - motion-graphics
+      tech:
+        - procedural
+    added_at: '2026-10-05T08:51:07.091Z'

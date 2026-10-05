@@ -388,3 +388,16 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
     deprecated: true
+  - name: Bforartists
+    url: https://www.bforartists.de/
+    description: Open-source Blender fork with a menu and toolbar driven interface.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - animation
+        - rendering
+      output:
+        - generalist
+    added_at: '2026-10-05T08:51:07.102Z'

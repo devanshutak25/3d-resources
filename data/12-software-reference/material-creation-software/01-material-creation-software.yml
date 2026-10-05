@@ -329,3 +329,56 @@ entries:
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/material-creation-tools
+  - name: ShaderMap
+    url: https://shadermap.com/
+    description: Windows tool that generates normal, displacement and PBR maps from textures and models.
+    pricing: Free non-commercial, Pro $29
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+      platform:
+        - win
+      tech:
+        - pbr
+    added_at: '2026-10-05T08:51:07.103Z'
+  - name: PixPlant
+    url: https://www.pixplant.com/
+    description: Windows tool that turns photos into tileable PBR materials.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - archviz
+        - games
+      platform:
+        - win
+      tech:
+        - pbr
+    added_at: '2026-10-05T08:51:07.105Z'
+  - name: Substance 3D Sampler
+    url: https://www.adobe.com/products/substance3d/apps/sampler.html
+    description: Adobe app that turns photos and scans into tiling materials, meshes and HDR lights.
+    pricing: Substance 3D Collection $59.99/mo
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - material-authoring
+      output:
+        - games
+        - film-vfx
+        - product-viz
+      tech:
+        - pbr
+        - photogrammetry
+    dual_listed_in:
+      - modeling-sculpting-texturing/material-creation-tools
+    added_at: '2026-10-05T08:51:07.106Z'

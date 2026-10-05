@@ -509,3 +509,53 @@ entries:
         - event-experiential
       platform:
         - win
+  - name: Live FX (Assimilate)
+    url: https://www.assimilateinc.com/products/livefx/
+    description: Virtual production tool for live keying, compositing, DMX image-based lighting and LED playback.
+    pricing: From $345/mo or $2,495 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - lighting
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.150Z'
+  - name: Chaos Arena
+    url: https://www.chaos.com/arena
+    description: Ray-traced in-camera VFX that plays V-Ray scenes on LED volumes without a game engine.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - previs
+      output:
+        - film-vfx
+        - broadcast
+      tech:
+        - ray-tracing
+        - real-time
+    added_at: '2026-10-05T08:51:07.403Z'
+  - name: Nuke Stage
+    url: https://www.foundry.com/products/nuke-stage
+    description: Foundry tool for real-time LED-wall playback with live compositing and USD layout.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+      tech:
+        - real-time
+        - usd
+    added_at: '2026-10-05T08:51:07.405Z'

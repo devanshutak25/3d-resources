@@ -210,3 +210,83 @@ entries:
         - web
     url_last_verified: '2026-10-01'
     url_status: unreachable
+  - name: Motion Canvas
+    url: https://motioncanvas.io/
+    description: TypeScript library and editor for code-driven explainer animations synced to audio.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+        - creative-coding
+      output:
+        - motion-graphics
+      platform:
+        - web
+    added_at: '2026-10-05T08:51:07.126Z'
+  - name: Manim Community
+    url: https://www.manim.community/
+    description: Python library for mathematical animations, a community fork of 3Blue1Brown's Manim.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+        - creative-coding
+      output:
+        - motion-graphics
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.127Z'
+  - name: Remotion
+    url: https://www.remotion.dev/
+    description: React framework for building and rendering videos in code.
+    pricing: Free for teams up to 3, company license above
+    license: Freemium
+    entry_type: tool
+    tags:
+      workflow:
+        - editing
+        - creative-coding
+      output:
+        - motion-graphics
+      platform:
+        - web
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.128Z'
+  - name: Plexus
+    url: https://www.rowbyte.com/plexus
+    description: After Effects plugin that connects generated particles with lines and triangles.
+    pricing: $249
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - fx
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.130Z'
+  - name: Duik
+    url: https://rxlaboratorio.org/rx-tool/duik/
+    description: Free After Effects rigging and animation toolkit with IK, walk cycles and automation.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.131Z'

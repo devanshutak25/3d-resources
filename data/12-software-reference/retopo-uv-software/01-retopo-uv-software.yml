@@ -317,3 +317,18 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
+  - name: Wrap (Faceform)
+    url: https://faceform.com/
+    description: Node-based topology transfer that fits a base mesh onto scans or sculpts.
+    pricing: Indie $570, Pro $1,070 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - retopo
+      output:
+        - film-vfx
+        - games
+      tech:
+        - node-based
+    added_at: '2026-10-05T08:51:07.095Z'

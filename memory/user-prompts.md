@@ -891,3 +891,13 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > don't wait after every batch, all batches approved
 
 **Answered:** Ran batch 2 (521 redirects): 336 URLs updated, 152 confirmed ok, 31 deprecated (4 hijacked domains), 2 left. Validate ✓ (432 warnings: 8 newly visible cross-section dupes). Committed + pushed.
+
+**Prompt:** (2026-10-05)
+> Look up online for links to more assets, tutorials, resources, software, workflows, etc. Fresh seraches to find new items for the list. Also, add http://guerillarender.com/
+
+**Answered:** Guerilla Render already cataloged (§12 render-engines, misspelled "Guerrilla", thin desc). Proposed phased search plan; asked user for scope/order before searching.
+
+**Prompt:** (2026-10-05, AskUserQuestion answers)
+> Guerilla: Fix existing entry. First phase: Software + tools. Approval: "Don't wait for me, usr your judgement ask as as many as you can find"
+
+**Answered:** Fixed Guerilla Render entry; ran 4 parallel research agents; added 151 verified, deduped software/tool entries across §02/§06/§07/§10/§12; validate ✓ 439 warnings. Not committed.

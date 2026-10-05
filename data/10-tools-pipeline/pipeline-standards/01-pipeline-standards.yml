@@ -257,3 +257,17 @@ entries:
         - web
       tech:
         - opensource-alt
+  - name: OpenAssetIO
+    url: https://docs.openassetio.org/
+    description: Open API that connects DCC tools to asset management systems through one interface.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.415Z'

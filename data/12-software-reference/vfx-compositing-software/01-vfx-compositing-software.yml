@@ -719,3 +719,36 @@ entries:
       - Free
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Autodesk Flame
+    url: https://www.autodesk.com/products/flame/overview
+    description: Compositing, finishing and VFX software with node compositing, conform and ML depth and face tools.
+    pricing: $5,215/yr
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - mac
+        - linux
+    notes: Autodesk serves 403 to non-browser user agents; live in a browser.
+    added_at: '2026-10-05T08:51:07.430Z'
+  - name: VDBRender
+    url: https://www.nukepedia.com/tools/plugins/3d/vdb-render-v3/
+    description: Nuke plugin that renders OpenVDB volumes natively, with deep output and motion blur.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - rendering
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - win
+    added_at: '2026-10-05T08:51:07.432Z'

@@ -536,3 +536,64 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
+  - name: StableGen
+    url: https://github.com/sakalond/StableGen
+    description: Blender add-on that textures scenes by projecting multi-view diffusion images through a ComfyUI backend.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+        - blender-addon
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+    added_at: '2026-10-05T08:51:07.014Z'
+  - name: CHORD (Ubisoft La Forge)
+    url: https://github.com/ubisoft/ubisoft-laforge-chord
+    description: Ubisoft research model that turns one texture image into a set of PBR material maps.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+        - pbr
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+    added_at: '2026-10-05T08:51:07.016Z'
+  - name: chaiNNer
+    url: https://chainner.app/
+    description: Node-based desktop app that chains AI upscaling and image-processing models for batch work.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - texturing
+        - compositing
+      output:
+        - generalist
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-generative
+        - node-based
+    dual_listed_in:
+      - ai-ml-for-cg/ai-assisted-cg-tools
+    added_at: '2026-10-05T08:51:07.018Z'

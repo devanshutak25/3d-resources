@@ -142,3 +142,189 @@ entries:
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
+  - name: UniRig
+    url: https://github.com/VAST-AI-Research/UniRig
+    description: VAST open model that predicts a skeleton and skin weights for any 3D model.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rigging
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:06.997Z'
+  - name: Puppeteer (ByteDance Seed)
+    url: https://github.com/Seed3D/Puppeteer
+    description: Open model that rigs, skins and animates a 3D model automatically.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:06.998Z'
+  - name: Audio2Face-3D (NVIDIA)
+    url: https://github.com/NVIDIA/Audio2Face-3D
+    description: NVIDIA models and SDK that drive facial animation from speech audio, with Maya and Unreal plugins.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - face-capture
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.000Z'
+  - name: HY-Motion 1.0 (Tencent)
+    url: https://github.com/Tencent-Hunyuan/HY-Motion-1.0
+    description: Open model that generates 3D human motion from text prompts.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    notes: Tencent community license excludes the EU, UK and South Korea.
+    added_at: '2026-10-05T08:51:07.001Z'
+  - name: GVHMR
+    url: https://github.com/zju3dv/GVHMR
+    description: Research code that recovers world-space 3D human motion from monocular video.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.003Z'
+  - name: QuickMagic
+    url: https://www.quickmagic.ai/
+    description: Web service that captures body, hand and face motion from one video and exports FBX or BVH.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.004Z'
+  - name: Remocapp
+    url: https://remocapp.com/
+    description: Desktop app for real-time markerless body and face capture from two webcams, with Unreal Live Link.
+    pricing: 14-day trial, then Pro subscription
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - mocap
+        - face-capture
+      output:
+        - games
+        - film-vfx
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.006Z'
+  - name: Uthana
+    url: https://uthana.com/
+    description: AI platform that generates character motion from text or video, retargets it and auto-rigs, with Blender and Maya plugins.
+    pricing: Pay per second of motion
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - mocap
+        - rigging
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.008Z'
+  - name: Cartwheel
+    url: https://getcartwheel.com/
+    description: Web studio that turns video into mocap, generates motion from text and retargets it to 3D characters.
+    pricing: 7-day trial, credit plans
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.010Z'
+  - name: Krikey AI
+    url: https://www.krikey.ai/
+    description: Browser app that makes 3D character animation from text or video and exports MP4 or FBX.
+    pricing: Free tier, Pro $15/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    added_at: '2026-10-05T08:51:07.013Z'

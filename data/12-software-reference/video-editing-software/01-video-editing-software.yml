@@ -639,3 +639,18 @@ entries:
       - Utility
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: LosslessCut
+    url: https://losslesscut.app/
+    description: FFmpeg-based app for cutting, merging and remuxing video without re-encoding.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - editing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.133Z'

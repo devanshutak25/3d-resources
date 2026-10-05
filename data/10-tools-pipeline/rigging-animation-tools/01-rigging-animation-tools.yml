@@ -220,3 +220,213 @@ entries:
     readme_tags:
       - Maya
       - Animation Toolbar
+  - name: CloudRig
+    url: https://extensions.blender.org/add-ons/cloudrig/
+    description: Blender Studio rig generator that builds production character rigs from a metarig.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.070Z'
+  - name: Faceit
+    url: https://superhivemarket.com/products/faceit
+    description: Blender add-on that generates facial shape keys for any character and imports ARKit and Audio2Face capture.
+    pricing: From $78
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+        - face-capture
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.071Z'
+  - name: Animation Layers
+    url: https://superhivemarket.com/products/animation-layers
+    description: Blender add-on for layer-based animation with blending, merging and baking.
+    pricing: $30
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.073Z'
+  - name: Character DNA
+    url: https://www.polyhammer.com/character-dna-addon
+    description: Blender add-on that imports, edits and exports MetaHuman DNA files with RigLogic expressions.
+    pricing: Free core, Pro $79
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.074Z'
+  - name: mGear
+    url: https://www.mgear-framework.com/
+    description: Open-source modular rigging and animation framework for Maya, with the ueGear Unreal bridge.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - maya
+    added_at: '2026-10-05T08:51:07.075Z'
+  - name: AdvancedSkeleton
+    url: https://animationstudios.com.au/
+    description: Maya rigging tool that builds rebuildable rigs for bipeds, creatures and props.
+    pricing: Free non-commercial, studio license for commercial
+    license: Free NC
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+      output:
+        - games
+        - film-vfx
+      tech:
+        - maya
+    added_at: '2026-10-05T08:51:07.077Z'
+  - name: ngSkinTools
+    url: https://www.ngskintools.com/
+    description: Maya skinning plugin with weight layers, mirroring and smoothing brushes. Free since the Autodesk acquisition.
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+      output:
+        - games
+        - film-vfx
+      tech:
+        - maya
+    added_at: '2026-10-05T08:51:07.078Z'
+  - name: Studio Library
+    url: https://www.studiolibrary.com/
+    description: Maya pose and animation library for saving, mirroring and blending poses.
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - maya
+    added_at: '2026-10-05T08:51:07.080Z'
+  - name: animBot
+    url: https://animbot.ca/
+    description: Maya animation toolset for key editing, tweening, mirroring and graph editor helpers.
+    pricing: Yearly subscription
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+        - film-vfx
+      tech:
+        - maya
+    added_at: '2026-10-05T08:51:07.082Z'
+  - name: Ragdoll Dynamics
+    url: https://ragdolldynamics.com/
+    description: 'Physics-based posing and animation: pose characters by dragging a simulated ragdoll. Maya, Blender, standalone.'
+    pricing: From $99 one-time
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - simulation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - physics
+    added_at: '2026-10-05T08:51:07.083Z'
+  - name: Hive Auto-Rigger (Zoo Tools Pro)
+    url: https://create3dcharacters.com/
+    description: Modular Maya auto-rigger for body and joint-based facial rigs, part of Zoo Tools Pro.
+    pricing: $10/mo
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - linux
+      tech:
+        - maya
+    added_at: '2026-10-05T08:51:07.085Z'
+  - name: GS CurveTools
+    url: https://gs-curvetools.readthedocs.io/en/latest/
+    description: Maya plugin for building curve-driven hair cards, braids and tubes for real-time hair.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+      tech:
+        - maya
+    added_at: '2026-10-05T08:51:07.086Z'

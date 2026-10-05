@@ -776,3 +776,177 @@ entries:
       - tools-pipeline-utilities/retopology-mesh-tools
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Hard Ops / BoxCutter
+    url: https://superhivemarket.com/products/hard-ops--boxcutter-ultimate-bundle
+    description: Hard-surface add-on pair for Blender. BoxCutter draws boolean cuts, Hard Ops handles bevels and cleanup.
+    pricing: $38 bundle
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - product-viz
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.043Z'
+  - name: DECALmachine
+    url: https://machin3.io/DECALmachine/
+    description: Blender add-on for mesh decals and trim sheets, adds surface detail without UVs.
+    pricing: $54.99
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.045Z'
+  - name: MESHmachine
+    url: https://machin3.io/MESHmachine/
+    description: 'Blender add-on for hard-surface edits without subdivision: fuse, unfuse, fillets, unbevel.'
+    pricing: $44.99
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.048Z'
+  - name: Geo-Scatter
+    url: https://www.geoscatter.com/
+    description: Blender scattering add-on with a biome system for vegetation, city and debris environments.
+    pricing: From $99
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - archviz
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - procedural
+    added_at: '2026-10-05T08:51:07.050Z'
+  - name: botaniq
+    url: https://polygoniq.com/3d/botaniq/
+    description: Blender library of 700 tree, grass and plant assets with scatter presets and wind animation.
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - archviz
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.052Z'
+  - name: BagaPie
+    url: https://extensions.blender.org/add-ons/bagapie/
+    description: Free Blender extension with scattering, ivy, arrays, booleans and parametric architecture tools.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - procedural
+    added_at: '2026-10-05T08:51:07.055Z'
+  - name: Human Generator
+    url: https://www.humgen3d.com/
+    description: Blender add-on that builds realistic human characters with hair, outfits, poses and expressions.
+    pricing: Free tier, $68 personal, $128 commercial
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-05T08:51:07.057Z'
+  - name: Simply Cloth
+    url: https://superhivemarket.com/products/simply-cloth
+    description: Blender add-on for fast cloth simulation and garment sewing, with wind and collision presets.
+    pricing: $36
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - modeling
+      output:
+        - fashion
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - physics
+    added_at: '2026-10-05T08:51:07.060Z'
+  - name: RBDLab
+    url: https://superhivemarket.com/products/rbdlab
+    description: 'Blender add-on for rigid-body destruction: fracturing, debris, dust and metal deformation.'
+    pricing: $73
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - physics
+    added_at: '2026-10-05T08:51:07.063Z'

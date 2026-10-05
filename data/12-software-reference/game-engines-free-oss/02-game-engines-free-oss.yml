@@ -167,3 +167,47 @@ entries:
         - rendering
       platform:
         - web
+  - name: Wicked Engine
+    url: https://wickedengine.net/
+    description: Open-source C++ 3D engine with real-time path tracing, Lua scripting and VRM support.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - ios
+      tech:
+        - real-time
+        - path-tracing
+    added_at: '2026-10-05T08:51:07.108Z'
+  - name: s&box
+    url: https://sbox.game/
+    description: Facepunch engine on Source 2 with C# scripting, successor to Garry's Mod, with Steam export.
+    license: Mixed
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - linux
+      tech:
+        - real-time
+    added_at: '2026-10-05T08:51:07.110Z'
+  - name: Phaser
+    url: https://phaser.io/
+    description: Open-source HTML5 2D game framework in JavaScript and TypeScript.
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-10-05T08:51:07.111Z'

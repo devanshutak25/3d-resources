@@ -528,3 +528,57 @@ entries:
         - linux
       tech:
         - opensource-alt
+  - name: guc
+    url: https://github.com/pablode/guc
+    description: glTF to USD converter that keeps materials as MaterialX or UsdPreviewSurface.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+        - xr
+      tech:
+        - usd
+    added_at: '2026-10-05T08:51:07.421Z'
+  - name: CAD Exchanger
+    url: https://cadexchanger.com/
+    description: Desktop app and SDK for viewing and converting CAD files across 30+ formats.
+    pricing: Free viewer, paid Lab and SDK
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - product-viz
+        - automotive
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.422Z'
+  - name: Unity Asset Transformer (Pixyz)
+    url: https://www.pixyz-software.com/
+    description: CAD and 3D data prep that tessellates, decimates and optimizes heavy models for real-time use.
+    pricing: $2,450/seat/yr
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - automotive
+        - product-viz
+        - archviz
+      tech:
+        - real-time
+    added_at: '2026-10-05T08:51:07.425Z'
+  - name: Transmutr
+    url: https://lindale.io/transmutr/
+    description: Converts FBX, OBJ, glTF and USD into SketchUp models with simplification, PBR materials and proxies.
+    pricing: From €99/yr
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.427Z'

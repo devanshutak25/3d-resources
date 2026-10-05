@@ -411,3 +411,77 @@ entries:
       - Building Editor
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: Vectorworks
+    url: https://www.vectorworks.net/
+    description: CAD and BIM software line for architecture, landscape and stage lighting design.
+    pricing: Subscription
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - event-experiential
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.135Z'
+  - name: Zoo Design Studio
+    url: https://zoo.dev/
+    description: Code-and-UI CAD app with the KCL modeling language on Zoo's own geometry engine.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+        - automotive
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+    added_at: '2026-10-05T08:51:07.136Z'
+  - name: build123d
+    url: https://build123d.readthedocs.io/
+    description: Python parametric CAD library on OpenCascade that exports STEP and STL.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.138Z'
+  - name: CadQuery
+    url: https://cadquery.github.io/
+    description: Python library for parametric CAD models on the OpenCascade kernel.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.140Z'
+  - name: Dune 3D
+    url: https://dune3d.org/
+    description: Open-source parametric CAD app with a SolveSpace-derived constraint solver and STEP support.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+    added_at: '2026-10-05T08:51:07.141Z'

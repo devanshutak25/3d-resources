@@ -162,3 +162,23 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
+  - name: MCP for Blender
+    url: https://github.com/ahujasid/mcp-for-blender
+    description: 'MCP server that lets Claude and other LLM clients control Blender: build scenes, edit objects, run Python.'
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-generative
+        - blender-addon
+    dual_listed_in:
+      - ai-ml-for-cg/ai-assisted-cg-tools
+    added_at: '2026-10-05T08:51:07.021Z'

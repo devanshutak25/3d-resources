@@ -909,3 +909,32 @@ entries:
       - Tutorials
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: napari
+    url: https://napari.org/
+    description: Python n-dimensional image viewer for microscopy and bioimaging with a plugin system.
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - scientific-viz
+        - medical
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.143Z'
+  - name: OVITO
+    url: https://www.ovito.org/
+    description: Visualization and analysis of atomistic and particle simulation data, with a Python module.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.145Z'

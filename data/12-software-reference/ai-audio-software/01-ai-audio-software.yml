@@ -174,3 +174,76 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
+  - name: MMAudio
+    url: https://github.com/hkchengrex/MMAudio
+    description: Open model that generates synced sound effects for video or from text.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - games
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/ai-audio-music
+    added_at: '2026-10-05T08:51:07.022Z'
+  - name: HunyuanVideo-Foley (Tencent)
+    url: https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley
+    description: Open model that generates foley audio matched to video and text.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/ai-audio-music
+    notes: Tencent community license excludes the EU, UK and South Korea.
+    added_at: '2026-10-05T08:51:07.023Z'
+  - name: ThinkSound
+    url: https://github.com/QwenAudio/ThinkSound
+    description: Open model that generates audio from video, text or audio. Repo also hosts PrismAudio.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/ai-audio-music
+    added_at: '2026-10-05T08:51:07.025Z'
+  - name: Mirelo
+    url: https://mirelo.ai/
+    description: AI sound effects synced to video, with a browser editor, Premiere and Resolve plugins and an API.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/ai-audio-music
+    added_at: '2026-10-05T08:51:07.026Z'

@@ -428,3 +428,150 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
+  - name: SeedVR2 (ByteDance)
+    url: https://github.com/ByteDance-Seed/SeedVR
+    description: Open model that upscales and restores video and images in one diffusion step.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.028Z'
+  - name: Video2X
+    url: https://github.com/k4yt3x/video2x
+    description: Video upscaler and frame interpolator using Real-ESRGAN, Real-CUGAN and RIFE.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.030Z'
+  - name: Marey (Moonvalley)
+    url: https://www.moonvalley.com/
+    description: Video generation model trained on licensed footage, with camera, pose and motion-transfer controls.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - web
+        - cloud
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.032Z'
+  - name: MAGI-1 (Sand AI)
+    url: https://github.com/SandAI-org/MAGI-1
+    description: Open autoregressive video model that generates and extends clips chunk by chunk.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.034Z'
+  - name: Stable Virtual Camera
+    url: https://github.com/Stability-AI/stable-virtual-camera
+    description: Stability AI model that renders new camera views and camera-path videos from input images.
+    license: Free NC
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.036Z'
+  - name: Beeble
+    url: https://beeble.ai/
+    description: AI relighting for footage that extracts normal, albedo and depth passes. Web app plus local Beeble Studio.
+    pricing: Cloud from $16/mo, Studio from $42/mo
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - lighting
+        - roto
+      output:
+        - film-vfx
+      platform:
+        - web
+        - win
+        - linux
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.038Z'
+  - name: Simulon
+    url: https://simulon.com/
+    description: iPhone app that tracks camera and lighting to composite 3D assets into live-action footage.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - match-move
+        - compositing
+        - lighting
+      output:
+        - film-vfx
+      platform:
+        - ios
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.039Z'
+  - name: Cuebric
+    url: https://cuebric.com/
+    description: AI tool that turns images into layered 2.5D environments for LED-wall virtual production.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    added_at: '2026-10-05T08:51:07.041Z'

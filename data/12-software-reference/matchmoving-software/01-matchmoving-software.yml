@@ -76,3 +76,19 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
+  - name: GeoTracker (KeenTools)
+    url: https://keentools.io/products/geotracker-for-blender
+    description: Geometry-based object and camera tracking with texture projection, for Blender, Nuke, After Effects and Houdini.
+    pricing: From $15.99/mo
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - match-move
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-10-05T08:51:07.434Z'

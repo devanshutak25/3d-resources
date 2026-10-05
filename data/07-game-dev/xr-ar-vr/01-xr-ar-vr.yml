@@ -484,3 +484,41 @@ entries:
         - win
         - linux
         - vr
+  - name: Lens Studio (Snap)
+    url: https://ar.snap.com/lens-studio
+    description: Snap AR authoring app for Snapchat Lenses, web AR and Spectacles.
+    license: Free
+    entry_type: software
+    tags:
+      output:
+        - xr
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.152Z'
+  - name: Effect House (TikTok)
+    url: https://effecthouse.tiktok.com/
+    description: TikTok AR effect authoring app with visual and TypeScript scripting.
+    license: Free
+    entry_type: software
+    tags:
+      output:
+        - xr
+      platform:
+        - win
+        - mac
+    added_at: '2026-10-05T08:51:07.154Z'
+  - name: ShapesXR
+    url: https://www.shapesxr.com/
+    description: Collaborative 3D and XR scene prototyping in headset and a web editor.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - xr
+      platform:
+        - vr
+        - web
+    added_at: '2026-10-05T08:51:07.155Z'
