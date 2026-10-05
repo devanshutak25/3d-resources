@@ -292,8 +292,6 @@ left open, remove when done.
   `maintenance/freshness-2026-10` (its stale/archived flags were never merged).
 - Disable the legacy GitHub Pages build (Settings -> Pages). It publishes the whole repo, including
   `memory/`, to devanshutak25.github.io on every push; Cloudflare Pages is the real host.
-- Open PRs: #19 Normal Map Bench + #24 Remove Audio Video Converter ready to merge (#24 fit is the
-  user's call); #18 Meshory (changes requested) and #20 3DTexel (rebase requested) wait on contributors.
 - Optional: branch protection on `main` (bots push directly: link-check, release-watch, render-readme).
 - README lite mode (`render.js --mode=lite`) exists but is unwired; keep FULL or switch.
 - Launch track (pub_plan Part 2): GitHub social preview, awesome-list PRs, Reddit/HN/Discord/X,

@@ -30,3 +30,7 @@ Architectural / structural decisions w/ rationale + date.
 - Commit + push per phase, no stops between phases.
 - XSS defence: schema url ^https?:// + escape at render (not reject <>, 2 live descs use them) + JSON-LD `<` -> <.
 - Phase outcomes (2026-10-05): XSS closed (html-safe.js); /sections/ cross-links -> subsection pages; README auto-render workflow (render-readme.yml) instead of failing CI on stale README, so contributor PRs only touch data/; render.js must never read gitignored files (awesome-mining list moved to data/awesome-sources.yml); 24 bot-auto-deprecated live entries restored; texture-material-generation kept (8 mirrors); project.md §11 log -> CHANGELOG.md; memory decisions/prompts to 2026-09-30 -> memory/archive/.
+
+## 2026-10-05 — Fixing contributor PRs ourselves
+- Maintainer fixes PRs directly (maintainerCanModify true on all) instead of waiting on contributors: merge main in (no rebase/force-push), fix claims verified against the live site, add url_status/url_last_verified.
+- Deploy surface: Cloudflare Pages serves `_site/` only, no repo .md files. Public repo means .md content is already public; the only concern is the legacy GitHub Pages mirror (duplicate content / indexed internal docs).

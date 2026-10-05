@@ -61,3 +61,25 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > Make a plan to fix all the issues please
 
 **Answered:** 7-phase plan (security, anchors, deps/CI, data correctness, data quality, perf, hygiene/docs) at ~/.claude/plans/snuggly-munching-truffle.md. User choices: add top ~10 tech tags to vocab, drop 6 empty subsections, relocate obvious §12 misfits, commit + push per phase. Approved and executed: all 7 phases committed + pushed (security, links, CI/deps, data correctness, data quality, perf, hygiene/docs). Validate ✓ 32 warnings, build 12 s, 0 broken links.
+
+**Prompt:** (2026-10-05)
+> Fix up open PRs please.
+>
+> The current deployment is on cloudflare. Do you think it matters if other md files are also deployed for a public repo?
+
+**Answered:** Merged main into #18/#19/#20/#24, resolved #24 conflict, fixed Meshory pricing, tightened #19/#20 descriptions, added url_status; validate ✓. Push to forks denied by permission classifier, branches local. CF serves only _site/ (no .md); md exposure is not a secrecy issue in a public repo, but legacy GitHub Pages mirror is an SEO/duplicate-content issue: disable it.
+
+**Prompt:** (2026-10-05)
+> Run all these [the 4 git push commands to contributor forks]
+
+**Answered:** Pushed pr-18/19/20/24 to contributor branches. All 4 PRs MERGEABLE; CI awaiting maintainer approval. Merge left to user.
+
+**Prompt:** (2026-10-05)
+> merge and close these PRs, no?
+
+**Answered:** Merged #18, #19, #20 (merge commits); #24 was already merged by user. render-readme bot re-rendered README. Validate ✓ on main. No open PRs left.
+
+**Prompt:** (2026-10-05)
+> do it!
+
+**Answered:** Committed + pushed project.md and memory updates to main.
