@@ -10,3 +10,19 @@ subsections:
     title: AI Motion Capture & Animation
     description: AI-powered mocap and character animation tools.
     chunks: 1
+  - slug: mocap-libraries
+    title: Mocap & Animation Libraries
+    description: "Downloadable motion-capture and game animation clips: stores, free packs, engine samples, animal mocap."
+    chunks: 1
+  - slug: mocap-datasets
+    title: Mocap Datasets
+    description: Research and open motion-capture datasets in BVH, FBX and SMPL. Most are non-commercial.
+    chunks: 1
+  - slug: character-rigs-maya
+    title: "Character Rigs: Maya"
+    description: Free and paid Maya animation rigs, rig directories and creator stores.
+    chunks: 1
+  - slug: character-rigs-other
+    title: "Character Rigs: Other Apps"
+    description: Animation rigs for Blender, 3ds Max, Cinema 4D, Houdini, Unreal, Unity, Daz and 2D apps.
+    chunks: 1

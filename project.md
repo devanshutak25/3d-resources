@@ -10,7 +10,7 @@ This file is the canonical brief for the repo. It supersedes scattered docs wher
 
 `3d_resources` is a curated, lookup-first reference catalog for the 3D / VFX / motion / games / AI-CG industry. It ships as:
 
-- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **3,662 entries, 103 deprecated, ~3,559 unique live resources** across 12 sections / 146 subsections (2026-10-05). Public copy uses `catalog.publicCountLabel()` ("3,500+"), never a hardcoded number.
+- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **3,826 entries, 103 deprecated, ~3,723 unique live resources** across 12 sections / 150 subsections (2026-10-05). Public copy uses `catalog.publicCountLabel()` ("3,500+"), never a hardcoded number.
 - A live static site: `https://3d.devanshutak.xyz` (Cloudflare Pages).
 - An `llms.txt` + `llms-full.txt` feed for AI crawlers (ChatGPT, Perplexity, Claude).
 - An Atom feed (`feed.xml`) + sitemap + per-section indexable pages.
@@ -181,7 +181,7 @@ Full run ~12 s (was ~4 min before the 2026-10-05 render index). Order:
 2. `render.js` -> full `README.md` (input for build-html).
 3. `build-html.js` -> `_site/index.html`, 404, robots, assets copy.
 4. `build-og-images.js` -> per-section 1200x630 PNGs (section pages fall back to og-image.png if missing).
-5. `build-section-pages.js` -> `/sections/` hub + 12 section + 146 subsection pages (thin ones noindex). Renders in-process with link mode `pages`.
+5. `build-section-pages.js` -> `/sections/` hub + 12 section + 150 subsection pages (thin ones noindex). Renders in-process with link mode `pages`.
 6. `export-data.js` -> `_site/data.json` (one row per subsection+url).
 7. `build-tag-pages.js` -> `/tags/` hub + per-tag pages.
 8. MiniSearch UMD copy + `build-search-index.js`.

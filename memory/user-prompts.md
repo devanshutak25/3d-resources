@@ -83,3 +83,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > do it!
 
 **Answered:** Committed + pushed project.md and memory updates to main.
+
+**Prompt:** (2026-10-05)
+> add https://andersonrohr.gumroad.com/
+
+**Answered:** Added "Anderson Rohr Free Mocap Packs" (9 free mocap packs, incl. MetaHuman UE 5.6) to animation-rigging/ai-motion-capture. Validate ✓.
+
+**Prompt:** (2026-10-05)
+> Look up mocap libraries, enough to build out a whole section / and add this https://animationmethods.com/rigs.html + look for all the rigs you can find not just for Maya, all the software
+
+**Answered:** 4 research agents. +4 §03 subsections: mocap-libraries 35, mocap-datasets 44, character-rigs-maya 37 (incl. animationmethods + getrigs), character-rigs-other 44; +4 rig tools in §10. Moved 4 lib/dataset entries out of ai-motion-capture. Link-checked; validate ✓, build ✓. Uncommitted.

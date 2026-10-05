@@ -198,6 +198,8 @@ entries:
         - rigging
         - animation
         - skinning
+    dual_listed_in:
+      - animation-rigging/mocap-libraries
   - name: AnimKit
     url: https://www.nasrtech.dev/animkit
     added_at: '2026-07-06T20:23:41.000Z'
@@ -516,3 +518,104 @@ entries:
       - Paid
       - Maya
     best_for: Real-time hair cards
+  - name: RealMotion Pro
+    url: https://superhivemarket.com/products/realmotion-pro-blender-addon-for-animation-
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Blender add-on with a 450+ clip built-in library and 1,700+ mocap animations, retargeting to Auto-Rig Pro, Rigify, Mixamo, and Daz rigs.
+    license: Paid
+    entry_type: plugin
+    pricing: $45 (single-rig $25)
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    readme_tags:
+      - Blender
+      - Retargeting
+    notes: Supports Blender 3.6-5.2. Includes foot lock and blending tools.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: BlenRig 6 (Blender)
+    url: https://github.com/jpbouza/BlenRig
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free Blender auto-rigging system from the open movies with guided setup, body and face rig and muscle-like deformation.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Rigging
+    notes: Rig system, not a ready character. Also on Superhive.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Rigify (Blender)
+    url: https://docs.blender.org/manual/en/4.5/addons/rigging/rigify/index.html
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Blender''s bundled modular auto-rigger: generates human and animal control rigs from metarig templates.'
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+      output:
+        - generalist
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Rigging
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: CC Auto Setup (3ds Max)
+    url: https://www.reallusion.com/auto-setup/3ds-max/download.html
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free 3ds Max plugin that imports Character Creator and iClone characters as Biped or CAT rigged, shaded characters.
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Character Pipeline
+    notes: Requires Reallusion login. Pipeline tool, not standalone rig.
+    url_last_verified: '2026-10-05'
+    url_status: ok

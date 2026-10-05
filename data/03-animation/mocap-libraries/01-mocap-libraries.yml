@@ -1,0 +1,763 @@
+entries:
+  - name: Anderson Rohr Free Mocap Packs
+    url: https://andersonrohr.gumroad.com/
+    added_at: '2026-10-05T00:00:00.000Z'
+    description: Free mocap packs on Gumroad from a UE artist. Everyday actions, crowd reactions, fitness, soccer and MetaHuman-ready clips.
+    license: Free
+    entry_type: asset-source
+    url_last_verified: '2026-10-05'
+    url_status: ok
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Free Mocap
+      - MetaHuman
+  - name: Carnegie-Mellon University Graphics Lab Motion Capture Database BVH conversions
+    url: https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: 2500 free human motion-capture clips in BVH format.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - mocap
+      platform:
+        - web
+  - name: ActorCore
+    url: https://actorcore.reallusion.com/free
+    added_at: '2026-04-19T17:15:03.000Z'
+    description: Motion-capture library from Reallusion.
+    license: Freemium
+    entry_type: asset-source
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - mocap
+      platform:
+        - web
+  - name: Rokoko Motion Library
+    url: https://www.rokoko.com/products/motion-library
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Mocap marketplace inside Rokoko Studio with thousands of clips from studios and stunt performers, retargetable to Mixamo, UE, and HumanIK rigs as FBX.
+    license: Freemium
+    entry_type: marketplace
+    pricing: Free packs; paid clips per asset
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+      tech:
+        - unreal
+        - unity
+        - blender
+    readme_tags:
+      - FBX
+      - Free Packs
+    notes: Browse/download via Rokoko Studio (free account). Free packs (263+ assets incl. Eric Jacobus set) usable commercially. Distinct from existing Rokoko Vision / Smartsuit entries.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: MoCap Online
+    url: https://mocaponline.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Mocap animation store with 2,500+ clips in 30+ themed packs (locomotion, rifle, pistol, zombie) shipped as FBX, BVH, BIP, UE, Unity, Blender, and iClone.
+    license: Paid
+    entry_type: asset-source
+    pricing: From $2.99/clip; packs ~$30+
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - unreal
+        - unity
+        - blender
+        - perpetual
+    readme_tags:
+      - FBX
+      - Game-Ready
+    notes: Standard license covers commercial use, no royalties. Free sampler pack available. Also sold on Fab, Unity Asset Store, Superhive, itch.io.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: MoCap Central
+    url: https://mocapcentral.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Mocap animation packs (Core Motion 447 clips, Longsword, Village Life, Seated) delivered as UE5 MetaHuman and Unity Humanoid projects.
+    license: Freemium
+    entry_type: asset-source
+    pricing: $49.99-$139.99/pack; free 120+ clip sample
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unreal
+        - unity
+    readme_tags:
+      - MetaHuman
+      - Free Sample
+    notes: One purchase includes both UE and Unity files. Site does not name Kinetic Impulse; appears unrelated despite the pairing in the brief.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Kinetic Impulse Horse Mocap
+    url: https://www.kinetic-impulse.com/mocap_data/index.html
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Licensed horse mocap data: treadmill gait set (walk, trot, canter, gallop, transitions) plus a freestyle stunt library (rearing, bucking, turns).'
+    license: Paid
+    entry_type: asset-source
+    pricing: Quote on request
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Animals
+      - Horse
+    notes: Sold via sister site horselocomotion.com; formats and license terms by enquiry. Pick-and-mix purchase.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Truebones Studios
+    url: https://truebones.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Gumroad store for Truebones mocap libraries in FBX and BVH, incl. free UE complete mocap library and animal Zoo packs.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Free and paid packs
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - BVH
+      - Animals
+    notes: Quality varies by pack. Check per-product terms.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Truebones iClone Zoo
+    url: https://truebones.net/tb/zoo/zoo.html
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Free animal pack: 75+ animated animals (insects, reptiles, birds, dinosaurs) with motions in iAvatar and iMotion format for iClone.'
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Animals
+      - iClone
+    notes: iClone-only formats. Some models sourced from games; check rights before commercial use. FBX zoo sold separately on Truebones Gumroad.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Kubold
+    url: https://www.kubold.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Mocap animset vendor: Movement, Sword, Longsword, Spear and Halberd, Pistol, and FPP Melee sets built from real fencing and combat capture.'
+    license: Paid
+    entry_type: asset-source
+    pricing: ~$65/pack
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unity
+        - unreal
+    readme_tags:
+      - Combat
+      - Root Motion
+    notes: Sold on Unity Asset Store and Fab. Some older Unity packs deprecated.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Movement Animset Pro
+    url: https://www.fab.com/listings/9611ad11-7bff-476d-9ab0-fbb4696f1efe
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Kubold mocap pack of 180+ unarmed third-person clips (walk, run, crouch, jump, fist fight, interactions) in in-place and root-motion versions.
+    license: Paid
+    entry_type: asset-source
+    pricing: ~$65
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unreal
+    readme_tags:
+      - Locomotion
+      - Root Motion
+    notes: Animations only, no controller. Shares fab.com host with existing Fab entry.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Kevin Iglesias
+    url: https://www.keviniglesias.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Humanoid game animation packs (Basic Motions, Melee, Archer, Spellcasting, Crafting, Soldier) with free versions of most packs and Blender source files.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Free versions; paid packs
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unity
+        - blender
+    readme_tags:
+      - Free Packs
+      - Unity
+    notes: Hand-keyed, not mocap. Royalty-free, commercial use without attribution. Also on Unity Asset Store and itch.io (kevdev).
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Explosive
+    url: https://www.explosive.ws/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Game animation packs for Unity, Unreal, and Godot/Blender, incl. RPG Character pack (1,437 clips), Crafting, and Warrior sets, with free versions.
+    license: Freemium
+    entry_type: asset-source
+    pricing: $34.99-$134.99/pack; free versions
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unity
+        - unreal
+        - godot
+    readme_tags:
+      - RPG
+      - Free Packs
+    notes: Site does not state mocap; treat as keyed game animation.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: RamsterZ Animations
+    url: https://www.ramsterzanimations.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Game animation packs (hand-to-hand combat, melee, horror) in FBX for UE and Unity, with free sample sets incl. Free Anims Vol 1 (44 clips).
+    license: Freemium
+    entry_type: asset-source
+    pricing: Free samples; paid packs
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unreal
+        - unity
+    readme_tags:
+      - Combat
+      - Free Packs
+    notes: Mocap vs keyed not stated. Also sells on Fab (fab.com/sellers/RamsterZ).
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Game Animation Sample Project
+    url: https://www.fab.com/listings/880e319a-a59e-4ed2-b268-b32dac7fa016
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Epic sample with 500+ mocap locomotion and traversal clips driven by Motion Matching, compatible with all UE Mannequins and MetaHumans.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - unreal
+    readme_tags:
+      - Motion Matching
+      - MetaHuman
+    notes: Usable in any UE project incl. offline/VFX work; UE-only content license.
+    dual_listed_in:
+      - animation-rigging/character-rigs-other
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Animation Starter Pack
+    url: https://www.fab.com/listings/98ff449d-79db-4f54-9303-75486c4fb9d9
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Epic free pack of 62 animations for the classic UE Mannequin: locomotion, crouch, rifle aim, jumps, and deaths for prototyping.'
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unreal
+    readme_tags:
+      - UE Mannequin
+      - Prototyping
+    notes: UE-only content license.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Paragon Animations Retargeted to Manny
+    url: https://www.fab.com/listings/e6de87b1-b755-478d-9228-a9eb89ff4411
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Community pack of 5,300 humanoid animations from Epic's free Paragon heroes, retargeted to the UE5 Manny skeleton.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unreal
+    readme_tags:
+      - UE5 Manny
+      - Paragon
+    notes: Paragon content is UE-only license. Third-party convenience upload of Epic assets.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Lyra Starter Game
+    url: https://www.fab.com/listings/93faede1-4434-47c0-85f1-bf27c0820ad0
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Epic UE5 sample shooter with 300+ Mannequin animations (locomotion and actions) reusable via retargeting.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unreal
+    readme_tags:
+      - UE5 Mannequin
+      - Sample
+    notes: UE-only license. Animation-only extract also on Fab (Lyra Animation Sequences Only).
+    dual_listed_in:
+      - animation-rigging/character-rigs-other
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Unity Starter Assets
+    url: https://assetstore.unity.com/packages/3d/characters/first-person-third-person-character-controllers-196526
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Unity first- and third-person controllers with a rigged humanoid armature and locomotion animations, built on Cinemachine and Input System.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unity
+    readme_tags:
+      - Unity
+      - Controller
+    notes: Small animation set; mainly a controller. Unity non-standard EULA.
+    dual_listed_in:
+      - animation-rigging/character-rigs-other
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Xsens Free Mocap Assets
+    url: https://www.xsens.com/entertainment/free-xsens-motion-capture-animation-assets
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Free Xsens inertial mocap clips: 5 walk/run, 10 sports, and 7 dance animations as HD-reprocessed FBX with an MVN T-pose puppet.'
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - FBX
+      - Sports
+    notes: License terms not stated on page; check download terms. movella.com URL redirects here.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: HEAT
+    url: https://heat.tech/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Online library of 1,000+ root-motion mocap clips with on-the-fly retargeting and plugins for Blender, Daz Studio, Unity, and UE5.
+    license: Freemium
+    entry_type: service
+    pricing: Free 25 clips; $5/mo
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - motion-graphics
+        - generalist
+      platform:
+        - web
+        - cloud
+      tech:
+        - subscription
+        - blender-addon
+        - unreal-plugin
+        - unity-plugin
+    readme_tags:
+      - Retargeting
+      - MetaHuman
+    notes: Free tier is non-commercial. Mover plan ($5/mo, $50/yr) allows commercial use. Enterprise pricing for studios >15 staff or >$1M revenue.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Awesome Dog Mocap
+    url: https://awesomedog.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Dog motion capture animation packs sold as FBX and on Unity Asset Store, Fab, and the iClone marketplace.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - unity
+        - unreal
+    readme_tags:
+      - Animals
+      - Dog
+    notes: Direct FBX shop at awesomedog.co.uk (Payhip). Same studio records Abranimations' human dance mocap.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: AnimationShopee
+    url: https://www.animationshopee.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Per-clip mocap store with 2,700+ FBX animations (combat, zombie, dance, sports, daily life) at $1 each plus bundled motion packs.
+    license: Paid
+    entry_type: asset-source
+    pricing: $1/clip
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - perpetual
+    readme_tags:
+      - FBX
+      - Per-Clip
+    notes: No subscription.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: mocapdata.com
+    url: https://mocapdata.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Eyes, JAPAN mocap library with 4,671 free and 933 paid Vicon-captured motions (fighting, sports, dance, daily actions) in FBX, BVH, and C3D.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Free and paid packs
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - BVH
+      - Free Data
+    notes: Free data historically CC BY 2.1 Japan (attribution). Registration required. Confirm current terms page.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: The Motion Capture Library
+    url: https://themotioncapturelibrary.co.uk/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Centroid''s per-clip mocap store from Pinewood Studios: locomotion, combat, crowd, sword, and horse packs as 120fps MotionBuilder FBX.'
+    license: Paid
+    entry_type: asset-source
+    pricing: From ~£2/clip
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+    readme_tags:
+      - FBX
+      - Centroid
+    url_last_verified: '2026-10-05'
+    url_status: unreachable
+  - name: Game MoCap
+    url: https://gamemocap.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Mocap dance, emote, and locomotion packs for Unity and Unreal, incl. hip hop, club, and Arabian dance sets.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unity
+        - unreal
+    readme_tags:
+      - Dance
+      - Emotes
+    notes: Sold mainly via Unity Asset Store; pricing on store listings.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: XSTAGE
+    url: https://www.xstage.co/en/motions
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Mocap library of K-pop dance, VTuber, emote, idle, and locomotion clips in FBX, BVH, ANIM, and MMD formats.
+    license: Mixed
+    entry_type: asset-source
+    pricing: Per-motion; free trial data
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - xr
+      platform:
+        - web
+    readme_tags:
+      - Dance
+      - VTuber
+    notes: Standard license is non-commercial; Commercial license tier needed for games/film/UGC. Upgrade possible after purchase.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: RancidMilk Free Character Animations
+    url: https://rancidmilk.itch.io/free-character-animations
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 2,000+ CMU mocap clips converted to FBX and glTF and retargeted in Blender with Auto-Rig Pro, plus a control-rig Blender file and index.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - blender
+    readme_tags:
+      - CMU
+      - FBX
+    notes: 'CMU terms: commercial use ok, no reselling the data. Root motion, no fingers, needs cleanup.'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Free Motion Pack 1
+    url: https://jdbeardmore.itch.io/free-motion-pack-1
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 21 free mocap FBX animations on the Mixamo Exo Gray armature with T-pose on frame 1 for retargeting.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Mixamo Rig
+      - FBX
+    notes: Creator states animations can be used however you wish. No mesh included.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: cMonkeys Huge FBX Mocap Library
+    url: https://archive.org/details/Huge_FBX_Mocap_Library
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 2,534 CMU mocap clips converted to grouped FBX files for Unity, mirrored on Internet Archive.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - unity
+    readme_tags:
+      - CMU
+      - FBX
+    notes: 'CMU terms: commercial use ok, no direct resale. Variable quality. Also on Unity Asset Store in 3 parts. Overlaps RancidMilk and existing CMU cgspeed entry; maybe keep one.'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: MocapClub
+    url: https://www.mocapclub.com/Pages/Library.htm
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Motion Capture Society library of 500+ marker-data motions (fights, acrobatics, game moves) plus two dog packs, in C3D and TRC.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - C3D
+      - Animals
+    notes: Educational use only. Raw marker data, needs solving to a skeleton. Old site.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: MetaHuman Cinema Pack
+    url: https://www.fab.com/listings/b60e43c1-e2c2-4777-a673-61f9af1ba03c
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Fab pack of 562 Xsens-captured MetaHuman clips (talking, acting, office work, locomotion) plus face and hand pose libraries for UE 5.7/5.8.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+      tech:
+        - unreal
+    readme_tags:
+      - MetaHuman
+      - Cinematics
+    notes: Same seller likely has MetaHuman Performance Collection (156 clips).
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: PoserMocap
+    url: https://www.posermocap.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Mocap move packs (Everyday, Spy, Zombie, Swordplay, Sci-Fi) for Daz Genesis and Poser figures as PZ2, aniBlocks, and BVH.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Daz
+      - BVH
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Mocap ATLAS
+    url: https://www.mocapatlas.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Swiss studio mocap store: 120fps Vicon locomotion, idles, turns, and jumps in UE5, Unity, FBX, and BVH, with a free clip collection.'
+    license: Freemium
+    entry_type: asset-source
+    pricing: Free clips; from $1/clip
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - unreal
+        - unity
+        - perpetual
+    readme_tags:
+      - Free Clips
+      - 120fps
+    notes: Indie and Pro licenses both commercial (Pro if org revenue >$100k). No AI training, no redistribution.
+    url_last_verified: '2026-10-05'
+    url_status: ok

@@ -20,7 +20,7 @@ entries:
       - Rigged Characters
       - Free Animations
     dual_listed_in:
-      - animation-rigging/ai-motion-capture
+      - animation-rigging/mocap-libraries
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Anatomy 360

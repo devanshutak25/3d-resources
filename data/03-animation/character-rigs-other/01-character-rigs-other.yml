@@ -1,0 +1,1070 @@
+entries:
+  - name: Blender Studio Character Library
+    url: https://studio.blender.org/characters/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Blender Studio library of production character rigs from open movies, free CC-BY rigs plus subscriber-only archive.
+    license: Mixed
+    entry_type: asset-source
+    pricing: Free + subscription
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    notes: 21 free, ~32 subscription (Sintel, Vincent, Spring-era creatures).
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Rain Rig (Blender)
+    url: https://studio.blender.org/characters/rain/v3/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free stylized female Blender rig from Blender Studio with IK/FK snapping, face controls and pose library, no add-ons needed.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Snow Rig (Blender)
+    url: https://studio.blender.org/characters/snow/v4/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free stylized male Blender rig from Blender Studio built on the Sprite Fright rig system, with IK/FK, layered face controls and pose library.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Storm Rig (Blender)
+    url: https://studio.blender.org/characters/storm/v1/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Blender Studio production rig for Blender 5 with body, hand and face pose libraries for fast blocking.
+    license: Paid
+    entry_type: asset-source
+    pricing: Blender Studio subscription
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    notes: Subscriber download per character library page.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Sprite Rig (Blender)
+    url: https://studio.blender.org/characters/sprite/v1/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Sprite Fright creature rig for Blender with facial poses and animation loops from the film.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Ellie Rig (Blender)
+    url: https://studio.blender.org/characters/ellie/v1/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Sprite Fright teen character rig for Blender with full body and face controls, production-tested.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Rex Rig (Blender)
+    url: https://studio.blender.org/characters/rex/v1/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Sprite Fright teen character rig for Blender with body and facial controls from the production.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Einar Rig (Blender)
+    url: https://studio.blender.org/characters/einar/v1/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Old man character rig from Blender Studio's Charge film, with production body and face rig.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Autumn Rig (Blender)
+    url: https://studio.blender.org/characters/autumn/v1/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Spring open movie rig for Blender: the shepherd dog Autumn, with production body and face controls.'
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - blender
+    readme_tags:
+      - Creature Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Vincent Rig (Blender)
+    url: https://studio.blender.org/characters/vincent/v2/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Classic Blender Institute cartoon character rig with squash and stretch body and expressive face controls.
+    license: Paid
+    entry_type: asset-source
+    pricing: Blender Studio subscription
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    notes: Listed as subscription on library page.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Cookie Flex Rig (Blender)
+    url: https://blendswap.com/blend/7417
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: CG Cookie's customizable Blender character rig with body shape, face and clothing controls, released Creative Commons.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    notes: Old (2.6x era); may need fixes in modern Blender. Blend Swap login needed.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Simple Character Rig (Blender)
+    url: https://joeycarlino.gumroad.com/l/lzHRac
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Joey Carlino's lightweight Blender character rig with IK/FK limbs, heel and toe foot pivots and optional face rig.
+    license: Free
+    entry_type: asset-source
+    pricing: Pay what you want
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: P2Design Free Rigs (Blender)
+    url: https://www.p2design-academy.com/p/free-rigs
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Pierrick Picaut''s free Blender rigs: Trident, Mannequin, Crimson Ronin, P2DBOT, Trex, Mech and a 2D camera rig.'
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    notes: License terms not stated on page; email signup may be required.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Dave Character Rig (Blender)
+    url: https://superhivemarket.com/products/dave-blender-character-rig
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Cartoon Blender character built on CloudRig with full face rig and face and finger pose libraries.
+    license: Paid
+    entry_type: asset-source
+    pricing: $4
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    notes: Royalty-free license.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Free Skeleton Rig (Blender)
+    url: https://palurdasarts.gumroad.com/l/FreeSkeletonRig
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Stylized skeleton warrior rig for Blender 4.4+ with equipment toggles, cloth physics and shader controls.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - blender
+    readme_tags:
+      - Character Rigs
+    notes: CC-BY-NC-SA 4.0, by Felix Paul Kuhn.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: UE5 Mannequin Blender Rig (Blender)
+    url: https://fafuccino.itch.io/ue5-mannequin-blender-rig
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free Blender control rig for the UE5 Manny skeleton with root motion, FK/IK snapping and finger controls.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - unreal
+        - blender
+    readme_tags:
+      - Game Animation
+    notes: Mesh not included; export from UE5. Commercial use OK.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: UE5-Blender-Rig (Blender)
+    url: https://github.com/cjmlima/UE5-Blender-Rig
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Open Blender rig for UE5 Manny and Quinn skeletons with soft IK, IK/FK switch UI, finger rig and FBX export guide.
+    license: Open Source
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - unreal
+        - blender
+    readme_tags:
+      - Game Animation
+    notes: CC0-1.0.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Keeper of the Lighthouse (3ds Max)
+    url: https://www.miloscerny.com/download-keeper
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free stylized old sailor character for 3ds Max rigged from scratch with CAT, ready to animate.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Character Rigs
+    notes: CC-BY-NC; credit Milos Cerny and Oleg Knyazev.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Shalabology Free Rigs (3ds Max)
+    url: https://shalabology.wordpress.com/free-stuffs/free-rigs/3dsmax/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Free 3ds Max rigs by Shalabology: biped, Cute Box, horse quadruped and Shiko character rigs.'
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+    readme_tags:
+      - Character Rigs
+    notes: Old blog; license unclear.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: RigsArena (3ds Max)
+    url: https://rigsarena.blogspot.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Blog index of 400+ free 3ds Max character, animal and prop rigs sorted by category.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+    readme_tags:
+      - Rig Hub
+    notes: Aggregator; individual rig licenses vary, some links may be dead.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Bony4D (Cinema 4D)
+    url: https://ace5studios.com/bony4d/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free mannequin character rig for Cinema 4D by Ace5 Studios for body mechanics practice.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Character Rigs
+    notes: Download via Gumroad.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Beefy4D (Cinema 4D)
+    url: https://ace5studios.com/beefy4d/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free bulky character rig for Cinema 4D converted from the Maya Beefy rig, for body mechanics practice.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Ace5 Studios Rig Shop (Cinema 4D)
+    url: https://shop.ace5studios.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Shop of animation-ready Cinema 4D character rigs (Meldon, Missy and others) with IK/FK and face controls.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Free Girl Character Rig (Cinema 4D)
+    url: https://www.thepixellab.net/free-cinema-4d-3d-girl-character-rig
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free stylized girl character for Cinema 4D, rigged and ready for motion design animation.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Character Rigs
+    notes: License not stated.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Toon Rig (Cinema 4D)
+    url: https://www.maxon.net/en/cinema-4d/features/toon-rig
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Built-in Cinema 4D Character Object preset for cartoon rigs with stretch, squash and bendy limbs.
+    license: Paid
+    entry_type: asset-source
+    pricing: Included with Cinema 4D
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Rigging
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Character Object (Cinema 4D)
+    url: https://www.maxon.net/en/cinema-4d/features/character-object
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Cinema 4D template rig builder with biped, quadruped, bird and fish presets for fast character rigs.
+    license: Paid
+    entry_type: asset-source
+    pricing: Included with Cinema 4D
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - rigging
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Rigging
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Electra Rig (Houdini)
+    url: https://www.sidefx.com/contentlibrary/electra-rig/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: SideFX APEX character rig for Houdini 20.5 with full body IK, IK/FK blend, reverse foot, blend shapes and delta mush.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - houdini
+    readme_tags:
+      - Character Rigs
+      - KineFX
+    notes: SideFX content library license. H20 version also exists.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Luchador & Chicken (Houdini)
+    url: https://www.sidefx.com/contentlibrary/luchador-chicken/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Two annotated APEX character rigs for Houdini by Od Studios covering autorig components and procedural skinning.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - houdini
+    readme_tags:
+      - Character Rigs
+      - KineFX
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Erik Rig (Houdini)
+    url: https://www.sidefx.com/contentlibrary/erik-rig/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Rigged human character FBX from the SideFX content library for testing KineFX retargeting and animation.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - houdini
+    readme_tags:
+      - Character Rigs
+      - KineFX
+    notes: Houdini 18.5 era.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: KineFX APEX Rigging & ML Skinning (Houdini)
+    url: https://www.sidefx.com/contentlibrary/kinefx-with-apex-rigging-and-ml-skinning/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Houdini 20 scene with horse quadruped and humanoid rigs built in APEX, using ML deformation for skinning.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - rigging
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - advanced
+      tech:
+        - houdini
+    readme_tags:
+      - Creature Rigs
+      - KineFX
+    notes: 5.5 GB download.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Mannequins Asset Pack (Unreal)
+    url: https://www.fab.com/listings/ad542ee6-34d0-4828-a56c-13846cd649d0
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Manny and Quinn UE5 mannequins with Control Rigs for keyframing in Sequencer, sharing the MetaHuman skeleton.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - unreal
+    readme_tags:
+      - Control Rig
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Paragon Characters (Unreal)
+    url: https://dev.epicgames.com/documentation/en-us/unreal-engine/free-epic-games-content-for-unreal-engine
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Epic''s free Paragon hero characters on Fab: rigged game characters with skins and animation sets.'
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - unreal
+    readme_tags:
+      - Game Characters
+    notes: Points to Epic free content doc; individual heroes on Fab. Commercial use in UE allowed.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: MetaHuman Creator (Unreal)
+    url: https://www.metahuman.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Epic's free realistic human generator inside UE 5.6+, outputs fully rigged body and face characters, exportable to Maya.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - unreal
+        - maya
+    readme_tags:
+      - Digital Humans
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Unity-Chan (Unity)
+    url: https://unity-chan.com/download/index.php
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Unity Technologies Japan's free anime character with humanoid rig, animations, facial blendshapes and voices.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+      tech:
+        - unity
+    readme_tags:
+      - Anime
+    notes: 'Unity-Chan License: free incl. commercial with guideline conditions.'
+    url_last_verified: '2026-10-05'
+    url_status: redirect
+  - name: Robot Kyle (Unity)
+    url: https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free Unity robot character with humanoid rig, a common test model for Mecanim retargeting.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+      tech:
+        - unity
+    readme_tags:
+      - Game Characters
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Genesis 9 Starter Essentials (Daz Studio)
+    url: https://www.daz3d.com/genesis-9-starter-essentials
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free rigged Genesis 9 base figure with character presets, clothing, hair and poses, exportable via Daz bridges.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+        - games
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+    readme_tags:
+      - Digital Humans
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Cascadeur Scenes (RenderHub)
+    url: https://www.renderhub.com/casc-scenes
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: RenderHub section of ready-rigged Cascadeur .casc character scenes, free and paid.
+    license: Mixed
+    entry_type: marketplace
+    pricing: Free + paid
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Cascadeur
+      - Character Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Spineboy Example (Spine)
+    url: https://esotericsoftware.com/spine-examples-spineboy
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Official Spine 2D example project showing meshes, IK, transform constraints and clipping on a rigged character.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - 2D Rigs
+    notes: Raptor example also at /spine-examples-raptor.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Characters Content Pack (Moho)
+    url: https://moho.lostmarble.com/products/characters-content-pack
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Eight rigged, animated Moho characters with bone IK and Smart Bones examples.
+    license: Paid
+    entry_type: asset-source
+    pricing: $29.99
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+    readme_tags:
+      - 2D Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Animation Guides Free Puppets (Character Animator)
+    url: https://www.animationguides.com/downloads/category/puppets/free-puppets/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free rigged Adobe Character Animator puppets with walk cycles, head turns, lip sync and gesture triggers.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+    readme_tags:
+      - 2D Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Template-Chan (Toon Boom Harmony)
+    url: https://jessejayjones.gumroad.com/l/template-chan
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Toon Boom Harmony cut-out character rig template for practice or reskinning into your own character.
+    license: Free
+    entry_type: asset-source
+    pricing: Pay what you want
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+    readme_tags:
+      - 2D Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Sir Owl Rig (Toon Boom Harmony)
+    url: https://mip888art.gumroad.com/l/mip888art_owl_rig
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free Toon Boom Harmony cut-out owl rig for animation practice and demo reels.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+    readme_tags:
+      - 2D Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Cartoon Animator Content Store (Cartoon Animator)
+    url: https://www.reallusion.com/contentstore/cartoon-animator/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Reallusion store of rigged G3 2D characters and motions for Cartoon Animator, with free resources in-app.
+    license: Mixed
+    entry_type: marketplace
+    pricing: Free + paid
+    pricing_last_verified: '2026-10-05'
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+    readme_tags:
+      - 2D Rigs
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: anima.to Rigs
+    url: https://anima.to/rigs/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Community index of animation rigs filterable by software (Blender, Maya and others) with links to free and paid sources.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - blender
+        - maya
+    readme_tags:
+      - Rig Hub
+    notes: Many listings are fan rigs of IP characters.
+    url_last_verified: '2026-10-05'
+    url_status: ok

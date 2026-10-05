@@ -34,3 +34,8 @@ Architectural / structural decisions w/ rationale + date.
 ## 2026-10-05 — Fixing contributor PRs ourselves
 - Maintainer fixes PRs directly (maintainerCanModify true on all) instead of waiting on contributors: merge main in (no rebase/force-push), fix claims verified against the live site, add url_status/url_last_verified.
 - Deploy surface: Cloudflare Pages serves `_site/` only, no repo .md files. Public repo means .md content is already public; the only concern is the legacy GitHub Pages mirror (duplicate content / indexed internal docs).
+
+## 2026-10-05 — §03 mocap + rig subsections
+- New subsections in animation-rigging: mocap-libraries, mocap-datasets, character-rigs-maya, character-rigs-other. Split rigs by Maya vs rest because Maya alone fills ~40.
+- ai-motion-capture = AI tools only now; library/dataset entries moved out. Auto-rig systems (Rigify, BlenRig, CC Auto Setup) go to §10 rigging-animation-tools, not rig subsections (they're tools, not characters).
+- Fan rigs of copyrighted IP skipped as individual entries.

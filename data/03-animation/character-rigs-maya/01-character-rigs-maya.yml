@@ -1,0 +1,908 @@
+entries:
+  - name: Animation Methods Maya Rigs
+    url: https://animationmethods.com/rigs.html
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Archived directory of 150+ free and paid Maya character, creature, vehicle and prop rigs, linking to each creator's download page.
+    license: Mixed
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Rig Directory
+    notes: 'Static table by Animation Methods LLC: rig name, artist, link. Free and paid sections. Site says new rigs now go to getrigs.com. Also hosts its own rigs (Jack Barrel, Soldier, face rigs).'
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: GetRigs
+    url: https://getrigs.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Maya asset store from Animation Methods where creators give away or sell rigs, props, environments and scripts, sorted by character, animal, creature, robot and vehicle.
+    license: Mixed
+    entry_type: marketplace
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - maya
+    readme_tags:
+      - Rig Store
+    notes: Successor to animationmethods.com/rigs.html. Many $0 listings.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: AnimStarter Rig Directory
+    url: https://www.animstarter.com/animation-rigs
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Curated directory of 40+ Maya and Blender animation rigs with demo videos, filterable by software and price.
+    license: Mixed
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - maya
+        - blender
+    readme_tags:
+      - Rig Directory
+    notes: Also lists Blender rigs; Maya majority.
+    dual_listed_in:
+      - animation-rigging/character-rigs-other
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Animworks Free Maya Rigs
+    url: https://anim.works/free-maya-rigs/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Hub of 60+ free Maya rigs from game and film animators, many built on mGear, covering characters, creatures and vehicles.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Rig Directory
+    notes: Many fan-art rigs (Star Wars, Akira) by Emilio Serrano; non-commercial.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Rusty Animator Free Maya Rigs
+    url: https://rustyanimator.com/free-maya-rigs/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Curated guide to free Maya rigs grouped by skill: basics, body mechanics, acting, creatures, props and vehicles.'
+    license: Mixed
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Rig Directory
+    notes: Includes small premium-rig section.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Animator's Resource Kit Rigs
+    url: https://animatorsresourcekit.blog/category/assets/rigs/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Blog cataloging free and paid animation rigs, tools and learning resources for Maya and Blender, one post per rig.
+    license: Mixed
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - maya
+        - blender
+    readme_tags:
+      - Rig Directory
+    notes: Active blog; rigs under Assets > Rigs category.
+    dual_listed_in:
+      - animation-rigging/character-rigs-other
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: 11 Second Club Rigs
+    url: https://www.11secondclub.com/resources
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Recommended rig list for the 11 Second Club competition: Norman, Eleven, Moom, Max, Mery, Azri plus Blender rigs.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - maya
+        - blender
+    readme_tags:
+      - Rig Directory
+    notes: Norman, Moom, Max hosted as direct downloads here. Norman under non-commercial terms.
+    url_last_verified: '2026-10-05'
+    url_status: redirect
+  - name: AnimSchool Malcolm
+    url: https://animschool.edu/Characters.php
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free AnimSchool Maya character with wardrobe and hair options, facial controls and the AnimSchool Picker, downloaded 150k+ times.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Facial Rig
+    notes: Email form download. Block Malcolm variant also exists.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Animation Mentor Free Rigs
+    url: https://www.animationmentor.com/free-maya-rig/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free Animation Mentor Maya rigs Stewart (heavy body-mechanics character) and Squirrels (squash, stretch, tail), email signup.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - maya
+    readme_tags:
+      - Body Mechanics
+    notes: Stewart needs Maya 2013+.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Ray (CGTarian)
+    url: https://www.cgtarian.com/maya-character-rigs/download-free-3d-character-ray.html
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free Maya character built with DreamWorks rig specialists, full facial rig for acting and dialogue, no plugins or picker needed.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - maya
+    readme_tags:
+      - Facial Rig
+    notes: Credit CGTarian, no commercial use.
+    url_last_verified: '2026-10-05'
+    url_status: unreachable
+  - name: Mery Project
+    url: https://www.meryproject.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free stylized female Maya rig with detailed facial controls, for practice and demo reel use only.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Facial Rig
+    notes: Download at /download/ (http). Credit meryproject.com, no commercial use.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Eleven Rig
+    url: https://elevenrig.blogspot.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Open-source 11 Second Club rig with adjustable gender and body type, IK/FK limbs and hand poses; Maya 2014 and earlier.
+    license: Open Source
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - maya
+        - blender
+    notes: Discontinued 2020; Maya v1.2 still downloadable, Blender port v1.3. Commercial use allowed with credit.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Moom Rig
+    url: https://www.highend3d.com/maya/downloads/character-rigs/c/moom-version-3-for-maya
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free cartoon Maya rig by Ramtin Ahmadi with IK/FK arms and feet, stretchy spine and neck, facial control panel.
+    license: Open Source
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - maya
+    readme_tags:
+      - Cartoon
+    notes: MIT per Highend3d. Old (Maya 6-8 era). Login needed.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Andy Rig
+    url: https://www.highend3d.com/maya/downloads/character-rigs/c/the-andy-rig-for-maya
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free SCAD student rig by John Doublestein with IK/FK matching, space switching, squash and stretch, facial setup.
+    license: Open Source
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - maya
+    readme_tags:
+      - Classic
+    notes: MIT. 640k+ downloads. Legacy Maya 2008 build.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Azri Rig
+    url: https://www.gameanim.com/product/azri-rig/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free game-style Maya rig with dual scythes, IK/FK hands and skirt auto-follow, built for fast playback; Maya 2018+.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Game Animation
+    notes: From Jonathan Cooper's gameanim.com. 100k+ downloads. Reels and non-commercial prototypes allowed.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: fRigging Awesome Studios
+    url: https://www.friggingawesome.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Josh Sobel''s Maya rig shop: Bonnie 2, Kayla Unlimited, Ricardo Unlimited, Mecha-Mechs, with free Kayla-Bot.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Cartoon
+      - Facial Rig
+    notes: Successor to joshsobelrigs.com. Bonnie 2 needs MG Picker, Maya 2015+; Kayla Unlimited Maya 2020+.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: M-Rigs (Ramon Arango)
+    url: https://ramonarango.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Paid stylized Maya rigs by Ramon Arango with painterly 2D-look facial animation, Mazu and Mukuru, sold singly or as bundle.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - maya
+    readme_tags:
+      - Stylized
+      - Facial Rig
+    notes: Maya 2022. Featured on 80.lv.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Joe Daniels Rigs
+    url: https://joedanimation.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Joe Daniels'' Maya practice rigs: free flour sack and juicebox for weight drills plus paid character rigs.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - maya
+    readme_tags:
+      - Practice Rig
+      - Prop Rig
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Truong CG Artist Rigs
+    url: https://truongcgartist.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Truong''s Gumroad of mostly free Maya creature and character rigs: dragons, lizards, Hydralisk, elephant, Boxy walker.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Creature
+    notes: Companion blog truongcgartist.wordpress.com posts rig news. Some rigs also ship Unreal control rigs.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Tre Vital Rigs
+    url: https://trevital.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Free Maya creature rigs by Tre Vital: Wraith, Anthro Tiger, Argonian, Hekaton, Dragon, with IK tails.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Creature
+    notes: Body-only, minimal facial controls.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Christoph Schoch Rigs
+    url: https://thestoff.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Free fan-art Maya rigs by Christoph Schoch: Link, Ruby Rose, Liger, Shinobi, Efi Oladele, game-character style.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Game Characters
+    notes: Fan art; non-commercial only.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Emilio Serrano Rigs
+    url: https://milio-serrano.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Free mGear-built Maya rigs by Act III animator Emilio Serrano: robots, creatures, quadrupeds and fan-art characters.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Creature
+      - mGear
+    notes: Needs mGear installed. Also mirrored on anim.works.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Artem Dubyna Rigs
+    url: https://temaroots.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Cartoon Maya rigs by Artem Dubyna (TemaRoots): free Tomas cat, Amanda, Mikey and paid Jerry, Tom, Yu-Lon.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Cartoon
+      - Facial Rig
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: MegaBuBu Rigs
+    url: https://megabubu.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Anime-style Maya rigs by MegaBuBu with cloth and skirt rigs and toon viewport shader: free Reimu, paid Sanae and Sakuya.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Anime
+    notes: Non-commercial with credit.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Perry Leijten Rigs
+    url: https://peerke.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Free Maya creature rigs Skaarj and Blurgha plus character rigs and skinning tools by rigger Perry Leijten.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Creature
+    notes: Rigs free for non-commercial use with credit; tools GPL.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Squiggly Rigs
+    url: https://squigglyrigs.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Lightweight cartoon Maya rigs with bendy limbs, smear controls and full face: Thep mummy, Grey Matter Gary, Lee.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Cartoon
+      - Facial Rig
+    notes: Thep now $10 (was free); Gary free. Maya 2017+.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Alorema Rigs
+    url: https://alorema.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Stylized AdvancedSkeleton-based Maya rigs: free Franky, paid Megoo, Mia and Mailo, Jody.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Stylized
+      - Cartoon
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Lord Luigi Rigs
+    url: https://lordluigi.gumroad.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Freelance rigger Lord Luigi's Maya rigs and prop-rigging tutorials, incl. Baby rig and Priestess rig.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Character Rig
+      - Tutorials
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Kiel Figgins Rigs
+    url: https://www.3dfiggins.com/Store/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Kiel Figgins'' Maya rig store: 50+ paid game-ready rigs via TurboSquid plus about 12 free rigs (TMNT, Deadpool, Xenomorph) and MEL tools.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Game Animation
+    notes: Free rigs personal/non-commercial; no plugins required.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Built By Colossus
+    url: https://builtbycolossus.com/store
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Maya character rigs: free Ninja and Azula, paid Brawler, Liz, Harlow, Rex, Steggy at $24 or as an 8-rig bundle.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Character Rig
+    notes: Maya 2017+/2020+. Liz also for UE5.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: ProRigs
+    url: https://prorigs.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Subscription library of 35+ feature-film-style Maya characters and 20+ props from DreamWorks, Disney and Pixar riggers, Arnold-ready.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - maya
+    readme_tags:
+      - Cartoon
+    notes: Free trial character Charlie. Maya 2024-2027. Individual, school, commercial tiers.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Long Winter Studios
+    url: https://longwintermembers.com/characters/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Membership library of 30+ Maya rigs on one unified control system with blendshape faces and bendy limbs, plus BLINK manager plugin.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - maya
+    readme_tags:
+      - Facial Rig
+    notes: $15/mo. By Andrew Conroy. BLINK supports Maya 2022-2025.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Character Rigs Shop
+    url: https://www.characterrigs.com/shop
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Store of paid realistic and stylized Maya character rigs (Nina, Liam, Brad, Elephant) sold singly or in combos, plus custom rigging.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Character Rig
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: AnimProps
+    url: https://animprops.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Marketplace of 390+ 3D rigs for Maya and Blender plus 2D Moho rigs and animation tools from many sellers.
+    license: Mixed
+    entry_type: marketplace
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - maya
+        - blender
+    readme_tags:
+      - Rig Store
+    notes: Open seller accounts.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Puppeteer Lounge Rigs
+    url: https://puppeteerlounge.com/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Indian animation academy selling rigged Maya puppets ($5 to $200) incl. realistic quadruped tiger, ape and orc.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Character Rig
+      - Quadruped
+    notes: Also runs Maya/Blender rigging courses.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Shalaby Rigs
+    url: https://www.shalabyrigs.com/our-rigs
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Ahmed Shalaby''s Maya rigs: free educational X-Rig, paid Dude 2.0 with three variations, Box-Men body rigs.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - maya
+    readme_tags:
+      - Character Rig
+    notes: Older free Jasmine Rose on shalabology.wordpress.com.
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Roly HL Free Rigs
+    url: https://rolyhl.com/FREE-Downloads
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'Free Maya rigs by Roly HL for practice and challenges: Woody, Buzz, Andy''s Room set, DeLorean, station wagon.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Fan Art
+    notes: Maya 2018/2019. Google Drive downloads.
+    url_last_verified: '2026-10-05'
+    url_status: ok

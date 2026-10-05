@@ -1,0 +1,888 @@
+entries:
+  - name: Bandai Namco Research Motiondataset
+    url: https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset
+    added_at: '2026-04-19T17:29:43.000Z'
+    description: Free motion-capture dataset from Bandai Namco R&D for research and personal use.
+    entry_type: asset-source
+    license: Free
+    url_last_verified: '2026-10-01'
+    url_status: ok
+    tags:
+      workflow:
+        - mocap
+      platform:
+        - web
+    stale: true
+    last_pushed: '2023-07-04'
+  - name: CMU Graphics Lab Motion Capture Database
+    url: http://mocap.cs.cmu.edu/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Carnegie Mellon optical mocap archive of 2,600+ clips across 140+ subjects, searchable by subject and category, in ASF/AMC and C3D.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - ASF/AMC
+      - C3D
+    notes: Free for all uses incl. commercial products; no resale of raw data. HTTP only (no https).
+    year: 2003
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: AMASS
+    url: https://amass.is.tue.mpg.de/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Max Planck archive unifying 15+ optical mocap datasets into SMPL/SMPL-X body parameters, 40+ hours and 300+ subjects.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - SMPL
+      - Archive
+    notes: Registration required.
+    year: 2019
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Human3.6M
+    url: http://vision.imar.ro/human3.6m/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: IMAR benchmark of 3.6M 3D human poses from 11 actors in 17 scenarios, with synced 4-view video, mocap, and depth scans.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Pose Estimation
+      - Video
+    notes: Academic registration and approval required. HTTP only.
+    year: 2014
+    url_last_verified: '2026-10-05'
+    url_status: redirect
+  - name: HumanML3D
+    url: https://github.com/EricGuo5513/HumanML3D
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Text-motion dataset of 14,616 motions from AMASS and HumanAct12 paired with 44,970 English descriptions, 28.6 hours.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Motion
+      - SMPL
+    notes: Build scripts in repo; requires downloading AMASS under its license. Also ships processed KIT-ML.
+    year: 2022
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Motion-X
+    url: https://motion-x-dataset.github.io/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: IDEA Research whole-body SMPL-X motion dataset with face and hands, 81.1K clips and 15.6M frames, with text labels.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+        - mocap
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - SMPL-X
+      - Text-to-Motion
+    notes: Sourced partly from online video via pose estimation.
+    year: 2023
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: LAFAN1 (Ubisoft La Forge)
+    url: https://github.com/ubisoft/ubisoft-laforge-animation-dataset
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Ubisoft La Forge BVH mocap set of 77 sequences from 5 subjects, about 4.6 hours of locomotion, fights, dance, and obstacles.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - BVH
+      - In-Betweening
+    notes: CC BY-NC-ND 4.0. No commercial use, no derivatives.
+    year: 2020
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: 100STYLE
+    url: https://www.ianxmason.com/100style/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Ian Mason's Xsens BVH locomotion set covering 100 walking and running styles, about 4M frames at 60 fps.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - BVH
+      - Locomotion
+    notes: CC BY 4.0. Commercial use allowed with credit.
+    year: 2022
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: BEAT
+    url: https://pantomatrix.github.io/BEAT/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Body-Expression-Audio-Text dataset of 76 hours of speech gesture mocap from 30 speakers, with audio, text, and emotion labels.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - face-capture
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Gesture
+      - BVH
+    notes: Non-commercial license.
+    year: 2022
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: BEAT2 (EMAGE)
+    url: https://pantomatrix.github.io/EMAGE/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'BEAT2 dataset from the EMAGE project: 60 hours of SMPL-X body, hand, and FLAME face mocap for co-speech gesture.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - face-capture
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Gesture
+      - SMPL-X
+    notes: Hosted on Hugging Face; non-commercial license.
+    year: 2024
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: AIST++ Dance Motion Dataset
+    url: https://google.github.io/aistplusplus_dataset/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Google 3D dance dataset reconstructed from multi-view AIST video, 5.2 hours and 1,408 sequences across 10 genres with music.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Dance
+      - SMPL
+    notes: Annotations CC BY 4.0; source AIST Dance videos have separate terms.
+    year: 2021
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: KIT Motion-Language Dataset
+    url: https://motion-annotation.humanoids.kit.edu/dataset/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: KIT text-annotated mocap set of 3,911 motions with 6,278 natural-language descriptions, drawn from KIT and CMU databases.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Motion
+    year: 2016
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: KIT Whole-Body Human Motion Database
+    url: https://motion-database.humanoids.kit.edu/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Karlsruhe Institute of Technology mocap database of whole-body human and object motion, normalized to the MMM reference model.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - C3D
+      - Robotics
+    year: 2015
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: HDM05 Motion Capture Database
+    url: https://resources.mpi-inf.mpg.de/HDM05/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Uni Bonn and MPI database of 3+ hours of mocap from 5 actors in 130 action classes, with short labeled clips, in C3D and ASF/AMC.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - C3D
+      - ASF/AMC
+    year: 2007
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: SFU Motion Capture Database
+    url: https://mocap.cs.sfu.ca/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Simon Fraser University mocap clips of dance, martial arts, and locomotion, in BVH, C3D, and ASF/AMC with preview videos.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - BVH
+      - Dance
+    notes: Site also hosts NUS mocap set.
+    year: 2011
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: ACCAD Open Motion Project
+    url: https://accad.osu.edu/research/motion-lab/mocap-system-and-data
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Ohio State ACCAD Vicon mocap library of walking, running, martial arts, gestures, and dance, in BVH, C3D, and ASF/AMC.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - BVH
+      - C3D
+    notes: CC BY 3.0 Unported. Commercial use allowed with credit.
+    year: 2008
+    dual_listed_in:
+      - animation-rigging/mocap-libraries
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: TotalCapture
+    url: https://cvssp.org/data/totalcapture/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: University of Surrey CVSSP dataset syncing 8-view video, 13 IMUs, and Vicon mocap for 5 subjects performing actions.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - IMU
+      - Multi-View
+    notes: Request access via form; academic use only.
+    year: 2017
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: HumanEva
+    url: https://is.mpg.de/ps/code/humaneva-datasets-i-and-ii
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Brown University benchmark syncing multi-camera video with 3D mocap of subjects walking, jogging, and gesturing.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Pose Estimation
+    notes: Download host humaneva.is.tue.mpg.de is slow/intermittent; registration required.
+    year: 2006
+    url_last_verified: '2026-10-05'
+    url_status: redirect
+  - name: CMU Panoptic Studio Dataset
+    url: http://domedb.perception.cs.cmu.edu/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Carnegie Mellon dome captures from 480 VGA and 31 HD cameras, with 3D body, hand, and face keypoints of social interactions.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - face-capture
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Multi-View
+      - Hands
+    notes: HTTP only.
+    year: 2015
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Trinity Speech-Gesture Dataset
+    url: https://trinityspeechgesture.scss.tcd.ie/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Trinity College Dublin mocap of spontaneous speech with synced audio and BVH body motion for gesture generation.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Gesture
+      - BVH
+    year: 2018
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: GENEA Challenge 2023 Dataset
+    url: https://genea-workshop.github.io/2023/challenge/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: GENEA challenge dyadic speech-gesture data based on Talking With Hands, with BVH body motion and audio for both speakers.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Gesture
+      - BVH
+    notes: Released on Zenodo; derived from Meta Talking With Hands 16.2M (CC BY-NC 4.0).
+    year: 2023
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: TED Gesture Dataset
+    url: https://github.com/youngwoo-yoon/youtube-gesture-dataset
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: ETRI pipeline and prebuilt dataset of 3D upper-body gesture poses extracted from 1,766 TED talk videos with transcripts.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Gesture
+    notes: Poses estimated from video, not optical mocap. Source videos under YouTube terms.
+    year: 2019
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: 3DPW
+    url: https://virtualhumans.mpi-inf.mpg.de/3DPW/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'MPI 3D Poses in the Wild: 60 outdoor video sequences with SMPL poses recovered from IMUs and a handheld camera.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - SMPL
+      - In-the-Wild
+    year: 2018
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: BABEL
+    url: https://babel.is.tue.mpg.de/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'MPI action label layer over AMASS: 43 hours of mocap with frame-level and sequence-level English action labels.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Labels
+      - SMPL
+    notes: Labels only; motion requires AMASS download. Registration required.
+    year: 2021
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: InterHuman (InterGen)
+    url: https://tr3e.github.io/intergen-page/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Two-person interaction mocap dataset of 7,779 motions and 6.56 hours with text descriptions, from the InterGen project.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Interaction
+      - Text-to-Motion
+    year: 2023
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Motorica Dance Dataset
+    url: https://github.com/simonalexanderson/MotoricaDanceDataset
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: KTH and Motorica optical mocap of 6 hours of dance in 8 styles, retargeted to one BVH skeleton, with music.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Dance
+      - BVH
+    notes: Terms in README; music copyrights held separately. Non-commercial.
+    year: 2023
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: ZEGGS Dataset (Ubisoft ZeroEGGS)
+    url: https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Ubisoft La Forge speech gesture set of 67 monologue takes in 19 styles, BVH plus WAV, with FBX characters.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Gesture
+      - BVH
+    notes: CC BY-NC-ND 4.0 for the dataset; code and model in same repo.
+    year: 2022
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: MANN Dog Motion Capture (AI4Animation)
+    url: https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2018
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Edinburgh quadruped mocap of a dog walking, trotting, sitting, and jumping, from the Mode-Adaptive Neural Networks paper.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Animal
+      - BVH
+    notes: Download link in folder README; AI4Animation repo is CC BY-NC 4.0.
+    year: 2018
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: ARCTIC
+    url: https://arctic.is.tue.mpg.de/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: ETH and MPI dataset of two hands manipulating articulated objects, 2.1M frames with MANO hands, SMPL-X bodies, and 9 views.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Hands
+      - SMPL-X
+    year: 2023
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: GRAB
+    url: https://grab.is.tue.mpg.de/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: MPI whole-body grasping mocap of 10 subjects with 51 objects, giving SMPL-X body, MANO hands, and object meshes.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Hands
+      - SMPL-X
+    year: 2020
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: FaceScape
+    url: https://github.com/zhuhao-nju/facescape
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Nanjing University 3D face dataset of 938 subjects with 20 expressions each, topology-unified meshes and 4K textures.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - face-capture
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Face
+      - Scans
+    notes: Static expression scans, not temporal capture. License application via facescape.nju.edu.cn (site slow from outside China).
+    year: 2020
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: DIP-IMU
+    url: https://dip.is.tue.mpg.de/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: MPI Deep Inertial Poser dataset of 10 subjects wearing 17 Xsens IMUs, about 90 minutes with SMPL pose ground truth.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - IMU
+      - SMPL
+    year: 2018
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: RICH
+    url: https://rich.is.tue.mpg.de/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: 'MPI Real scenes, Interaction, Contact and Humans dataset: markerless multi-view capture with SMPL-X bodies, scene scans, and contact labels.'
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - SMPL-X
+      - Contact
+    year: 2022
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Fit3D
+    url: https://fit3d.imar.ro/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: IMAR fitness mocap dataset of 3M+ frames covering 47 exercises, with marker mocap, GHUM/SMPL-X fits, and multi-view video.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Fitness
+      - Multi-View
+    notes: Academic registration required.
+    year: 2022
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: CHI3D
+    url: https://ci3d.imar.ro/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: IMAR close-interaction mocap of pairs hugging, pushing, and fighting, with contact annotations and GHUM/SMPL-X fits.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Interaction
+      - Contact
+    notes: Academic registration required.
+    year: 2022
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: EgoBody
+    url: https://sanweiliti.github.io/egobody/egobody.html
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: ETH egocentric dataset of social interactions captured with HoloLens 2 and Kinects, with SMPL-X fits for both people.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Egocentric
+      - SMPL-X
+    year: 2022
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: Nymeria
+    url: https://www.projectaria.com/datasets/nymeria/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Meta Reality Labs dataset of 300 hours of daily-life Xsens full-body mocap paired with Project Aria egocentric video and narrations.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Egocentric
+      - BVH
+    year: 2024
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: InterHand2.6M
+    url: https://mks0601.github.io/InterHand2.6M/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Meta Reality Labs dataset of 2.6M frames of single and interacting hands with 3D joint and MANO annotations from multi-view capture.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Hands
+      - MANO
+    notes: CC BY-NC 4.0.
+    year: 2020
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: FineDance
+    url: https://github.com/li-ronghui/FineDance
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Tsinghua dance mocap dataset of 14.6 hours across 22 genres with paired music, SMPL-H body and finger motion.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Dance
+      - SMPL
+    year: 2023
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: HuMMan
+    url: https://caizhongang.github.io/projects/HuMMan/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: SenseTime and NTU multimodal 4D human dataset of 1,000 subjects and 500 actions with color, depth, point clouds, and SMPL fits.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - 4D
+      - SMPL
+    notes: Page redirects to caizhongang.com; S-LAB non-commercial license.
+    year: 2022
+    url_last_verified: '2026-10-05'
+    url_status: redirect
+  - name: MPI-INF-3DHP
+    url: https://vcai.mpi-inf.mpg.de/3dhp-dataset/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: MPI markerless multi-camera 3D pose dataset of 8 actors, 14 views, with green-screen footage for augmentation.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Pose Estimation
+      - Multi-View
+    year: 2017
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: HumanAct12
+    url: https://ericguo5513.github.io/action-to-motion/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Action-to-Motion project dataset of 1,191 Kinect-captured clips in 12 action categories with fine sub-labels, as SMPL poses.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Action Labels
+      - SMPL
+    year: 2020
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: NUS Motion Capture Database
+    url: https://mocap.cs.sfu.ca/nusmocap.html
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: National University of Singapore Vicon mocap clips of locomotion, dance, and martial arts, hosted by SFU, in BVH and C3D.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - BVH
+      - C3D
+    year: 2011
+    url_last_verified: '2026-10-05'
+    url_status: ok
+  - name: SURREAL
+    url: https://www.di.ens.fr/willow/research/surreal/
+    added_at: '2026-10-05T12:00:00.000Z'
+    description: Inria synthetic dataset of 6M frames rendering SMPL bodies driven by CMU mocap, with depth, normals, and segmentation.
+    license: Free NC
+    entry_type: asset-source
+    tags:
+      workflow:
+        - mocap
+      output:
+        - scientific-viz
+      platform:
+        - web
+    readme_tags:
+      - Synthetic
+      - SMPL
+    notes: Registration required; non-commercial license. Synthetic renders, not raw mocap.
+    year: 2017
+    url_last_verified: '2026-10-05'
+    url_status: ok
