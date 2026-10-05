@@ -111,7 +111,9 @@ entries:
       - Secure Media
       - Feature Films
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: 5th Kind acquired by Sohonet; product page gone.
+    deprecated: true
   - name: Cerebro
     url: https://cerebrohq.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -131,7 +133,7 @@ entries:
       - Tracker + Chat
       - Studio Tool
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Autodesk Flow Capture
     url: https://www.autodesk.com/products/flow-capture
     added_at: '2026-05-22T16:39:01.000Z'
@@ -155,7 +157,7 @@ entries:
     url_status: ok
     deprecated: true
   - name: Hansoft (Perforce)
-    url: https://www.perforce.com/products/hansoft
+    url: https://www.perforce.com/products/p4/p4-plan
     added_at: '2026-05-22T16:39:01.000Z'
     description: Agile PM for games and VFX studios.
     license: Paid
@@ -173,7 +175,7 @@ entries:
       - Perforce
       - Agile PM
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Anchorpoint
     url: https://www.anchorpoint.app/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -343,7 +345,7 @@ entries:
     notes: Formerly ShotGrid (renamed 2024-03-26).
     deprecated: true
   - name: AYON (Ynput)
-    url: https://ynput.io/ayon/
+    url: https://ayon.app/
     added_at: '2026-05-05T11:50:37.000Z'
     description: Open-source VFX/animation pipeline platform; successor to OpenPype (archived).
     license: Open Source
@@ -365,7 +367,7 @@ entries:
       - Open Pipeline
       - VFX Studio
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     notes: OpenPype is EOL/archived; AYON is the active successor.
   - name: Royal Render
     url: https://royalrender.de/
@@ -388,7 +390,7 @@ entries:
       - Render Farm
       - Studio
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Tractor (Pixar)
     url: https://renderman.pixar.com/tractor
     added_at: '2026-05-05T11:50:37.000Z'
@@ -504,7 +506,7 @@ entries:
       - Cloud Render Farm
       - Karma XPU
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Super Renders Farm
     url: https://superrendersfarm.com/
     added_at: '2026-05-20T14:47:05.000Z'
@@ -858,7 +860,7 @@ entries:
       - Middleware
       - Pro
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-dialogue-narrative
   - name: Photon Engine
@@ -917,20 +919,20 @@ entries:
     dual_listed_in:
       - game-development/game-dev-networking
   - name: SmartFoxServer 2X
-    url: http://docs2x.smartfoxserver.com/ExamplesUnity/introduction
+    url: https://docs2x.smartfoxserver.com/ExamplesUnity/introduction
     added_at: '2026-04-19T17:15:03.000Z'
     description: A SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++.
     license: Freemium
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
     dual_listed_in:
       - game-development/game-dev-networking
   - name: Perforce Helix Core
-    url: https://www.perforce.com/products/helix-core
+    url: https://www.perforce.com/products/p4
     added_at: '2026-04-16T19:59:30.000Z'
     description: Industry standard for large assets (free ≤5 users).
     license: Freemium
@@ -945,11 +947,11 @@ entries:
       - Industry Standard
       - Free ≤5 users
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-version-control
   - name: Plastic SCM / Unity Version Control
-    url: https://unity.com/solutions/version-control
+    url: https://unity.com/features/version-control
     added_at: '2026-04-16T19:59:30.000Z'
     description: Artist-friendly binary version control.
     license: Freemium
@@ -963,7 +965,7 @@ entries:
       - Artist-Friendly
       - Unity-Integrated
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-version-control
   - name: Visual Studio (Windows)

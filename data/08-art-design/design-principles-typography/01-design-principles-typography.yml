@@ -26,7 +26,7 @@ entries:
       - Type Inspiration
       - Real-world
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - reference

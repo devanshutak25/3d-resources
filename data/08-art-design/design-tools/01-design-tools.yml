@@ -1,6 +1,6 @@
 entries:
   - name: X Design
-    url: https://www.x-design.com/
+    url: https://zawa.ai/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Browser-based design editor for product photos and visuals.
     license: Freemium
@@ -9,7 +9,7 @@ entries:
       - Design
       - Web
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -52,7 +52,9 @@ entries:
       - Blob Tracking
       - Effect
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Tool removed; domain redirects to artkit.cc home.
+    deprecated: true
     tags:
       platform:
         - web
@@ -171,7 +173,7 @@ entries:
       platform:
         - web
   - name: Cosmos
-    url: https://www.cosmos.so/home
+    url: https://www.cosmos.so/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Visual content curation platform.
     license: Free
@@ -180,7 +182,7 @@ entries:
       - Curation
       - Visual
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -194,13 +196,14 @@ entries:
       - Mockups
       - Devices
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    deprecated: true
     tags:
       platform:
         - web
     notes: License assumed Freemium; verify on next pricing pass.
   - name: Savee
-    url: https://savee.it/
+    url: https://savee.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Visual bookmarking tool.
     license: Freemium
@@ -209,7 +212,7 @@ entries:
       - Bookmarking
       - Curation
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web

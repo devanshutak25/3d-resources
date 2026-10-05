@@ -81,7 +81,9 @@ entries:
     license: Paid
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Unity Muse retired; page redirects to Unity AI.
+    deprecated: true
     tags:
       tech:
         - ai-generative
@@ -107,14 +109,14 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Gigapixel AI
-    url: https://topazlabs.com/gigapixel-ai/
+    url: https://www.topazlabs.com/topaz-gigapixel
     added_at: '2026-04-19T17:15:03.000Z'
     description: AI photo enlargement that adds detail to upscaled images.
     entry_type: software
     license: Paid
     best_for: Detail-preserving upscaling
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative

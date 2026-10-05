@@ -21,14 +21,14 @@ entries:
       - AE Plugin
       - Mesh Track
   - name: Primatte Studio
-    url: https://borisfx.com/products/primatte-studio/
+    url: https://borisfx.com/products/continuum/features/primatte-studio/
     added_at: '2026-05-21T18:46:37.000Z'
     description: Primatte keyer in standalone form. Long-time pro chroma key tech, now under Boris FX.
     license: Paid
     entry_type: software
     best_for: Chroma key
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx

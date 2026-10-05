@@ -225,7 +225,7 @@ entries:
       - DCC Bridge
       - Academic
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: BioBlender
     url: http://www.bioblender.org/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -244,7 +244,7 @@ entries:
       - Blender Biology
       - Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: YASARA
     url: https://www.yasara.org/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -351,7 +351,7 @@ entries:
       - Medical
       - Segmentation
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: ParaView
     url: https://www.paraview.org/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -584,7 +584,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: NASA Eyes
-    url: https://eyes.nasa.gov/
+    url: https://science.nasa.gov/eyes/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Browser 3D solar system and mission explorer.
     license: Free
@@ -599,7 +599,7 @@ entries:
       - NASA
       - Browser
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: WorldWide Telescope
     url: https://worldwidetelescope.org/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -617,7 +617,7 @@ entries:
       - Astronomy
       - MIT
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: yt project
     url: https://yt-project.org/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -653,7 +653,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ansys EnSight
-    url: https://www.ansys.com/products/fluids/ansys-ensight
+    url: https://ansys.synopsys.com/products/fluids/ansys-ensight
     added_at: '2026-05-22T16:39:01.000Z'
     description: Large-dataset CFD/CAE visualization.
     license: Paid
@@ -669,7 +669,7 @@ entries:
       - Ansys
       - Large Data
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: FieldView
     url: https://www.ilight.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -745,7 +745,7 @@ entries:
       - Earth Animation
       - Browser
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: kepler.gl
     url: https://kepler.gl/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -863,7 +863,7 @@ entries:
       - Molecular Anim
       - Biomedical
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Janet Iwasa Animation Lab
     url: https://animationlab.utah.edu/
     added_at: '2026-05-22T16:39:01.000Z'

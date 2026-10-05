@@ -413,13 +413,13 @@ entries:
     stale: true
     last_pushed: '2021-02-03'
   - name: Pixelicious
-    url: https://www.pixelicious.xyz/
+    url: https://www.scenario.com/features/pixelate/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Image-to-Pixel Art converter.
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration
@@ -447,7 +447,9 @@ entries:
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Tool page removed; redirects to terribilisstudio.fr home.
+    deprecated: true
     tags:
       output:
         - generalist

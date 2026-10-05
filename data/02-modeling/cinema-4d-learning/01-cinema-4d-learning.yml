@@ -9,7 +9,7 @@ entries:
       - Official
       - Maxon
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -39,4 +39,4 @@ entries:
       - Mograph Focus
       - Structured Courses
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok

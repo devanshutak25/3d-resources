@@ -113,7 +113,9 @@ entries:
       - Foliage
       - Premium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Product removed from Superhive.
+    deprecated: true
   - name: Easy HDRI
     url: https://codeofart.com/easy-hdri-2-8/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -314,7 +316,9 @@ entries:
     license: Free
     entry_type: plugin
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: AMD removed the ProRender page; redirects to amd.com home.
+    deprecated: true
     tags:
       output:
         - generalist
@@ -406,13 +410,13 @@ entries:
         - mac
         - linux
   - name: Needle Engine
-    url: http://docs.needle.tools/blender
+    url: https://engine.needle.tools/docs/blender/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Builds interactive web apps from Blender scenes.
     license: Freemium
     entry_type: plugin
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - blender

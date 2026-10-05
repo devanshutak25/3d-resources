@@ -17,12 +17,12 @@ entries:
       tech:
         - unity-plugin
   - name: Unity AR Foundation and MARS
-    url: https://unity.com/unity/features/ar
+    url: https://docs.unity3d.com/Manual/AROverview.html
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Unity''s AR tooling: AR Foundation cross-platform framework plus MARS authoring environment.'
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -56,7 +56,9 @@ entries:
     entry_type: plugin
     license: Paid
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Asset removed; redirects to Asset Store home.
+    deprecated: true
     tags:
       output:
         - games
@@ -154,12 +156,12 @@ entries:
       tech:
         - unity-plugin
   - name: Unity3D Official Blog
-    url: https://blogs.unity3d.com/es/
+    url: https://unity.com/es/blog
     added_at: '2026-04-19T17:15:03.000Z'
     description: News and development insights from Unity.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -185,12 +187,12 @@ entries:
         - unity-plugin
         - xr
   - name: Cheatography Unity Cheatsheet
-    url: https://www.cheatography.com/narren/cheat-sheets/unity-3d-engine/
+    url: https://cheatography.com/narren/cheat-sheets/unity-3d-engine/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Hotkey reference for the Unity editor.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -204,7 +206,9 @@ entries:
     description: Collected Unity tips and tricks posted by developers.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Domain now redirects to an unrelated spam/gambling site (checked 2026-10-05). Do not restore without a new official URL.
+    deprecated: true
     tags:
       output:
         - games
@@ -229,12 +233,12 @@ entries:
         - unity-plugin
         - xr
   - name: Unity Virtual Reality
-    url: http://docs.unity3d.com/Manual/VROverview.html
+    url: https://docs.unity3d.com/Manual/VROverview.html
     added_at: '2026-04-19T17:15:03.000Z'
     description: Unity's official documentation on developing virtual reality applications.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -245,12 +249,12 @@ entries:
         - unity-plugin
         - xr
   - name: Unity Editor Hotkeys
-    url: https://docs.unity3d.com/Manual/UnityHotkeys.html
+    url: https://docs.unity3d.com/Manual/ShortcutsManager.html
     added_at: '2026-04-19T17:15:03.000Z'
     description: Unity manual page listing editor hotkeys.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -259,12 +263,12 @@ entries:
       tech:
         - unity-plugin
   - name: Unity Documentation for VR
-    url: http://docs.unity3d.com/Manual/VirtualReality.html
+    url: https://docs.unity3d.com/Manual/XR.html
     added_at: '2026-04-19T17:15:03.000Z'
     description: Unity manual section on VR development.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -784,13 +788,13 @@ entries:
     stale: true
     last_pushed: '2019-01-02'
   - name: Unity Movement AI
-    url: https://github.com/antonpantev/unity-movement-ai
+    url: https://github.com/sturdyspoon/unity-movement-ai
     added_at: '2026-04-19T17:15:03.000Z'
     description: Steering-behavior movement scripts for NPCs in Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -804,13 +808,13 @@ entries:
     stale: true
     last_pushed: '2024-05-20'
   - name: Openpath
-    url: https://github.com/mrzapp/openpath
+    url: https://github.com/unity3d-open-tools/openpath
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source pathfinding for Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

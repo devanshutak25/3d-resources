@@ -78,7 +78,7 @@ entries:
       - Browser
       - Hand Tracking
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
   - name: Live Link Face (Apple)
@@ -100,7 +100,7 @@ entries:
       - Free
       - iPhone Face Capture
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
   - name: Viggle AI

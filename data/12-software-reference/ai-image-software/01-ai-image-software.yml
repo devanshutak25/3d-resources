@@ -39,7 +39,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: FLUX.2 (Black Forest Labs)
-    url: https://blackforestlabs.ai/
+    url: https://bfl.ai/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Open-weight photorealism with Kontext editing.
     license: Freemium
@@ -54,7 +54,7 @@ entries:
       - Open Weight
       - Photoreal
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Stable Diffusion 3.5
@@ -248,7 +248,7 @@ entries:
       - Design Canvas
       - Mixed-mode
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Kolors (Kuaishou)
@@ -272,7 +272,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: HunyuanDiT (Tencent)
-    url: https://github.com/Tencent/HunyuanDiT
+    url: https://github.com/Tencent-Hunyuan/HunyuanDiT
     added_at: '2026-04-16T19:59:30.000Z'
     description: Open-source DiT-based, strong Chinese text.
     license: Open Source
@@ -288,7 +288,7 @@ entries:
       - Tencent
       - DiT
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Jimeng / Dreamina (ByteDance)
@@ -344,7 +344,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Poly
-    url: https://withpoly.com/
+    url: https://poly.app/
     added_at: '2026-04-16T19:59:30.000Z'
     description: AI-generated PBR textures and materials, tileable with full map sets.
     license: Freemium
@@ -362,7 +362,7 @@ entries:
       - AI PBR
       - Tileable
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/texture-material-generation
   - name: Scenario
@@ -492,7 +492,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Imagen
-    url: https://deepmind.google/models/imagen/
+    url: https://deepmind.google/models/gemini-image/
     added_at: '2026-06-14T22:09:48.000Z'
     description: Google photoreal image model via Gemini and Vertex.
     license: Paid
@@ -511,11 +511,11 @@ entries:
       - Photoreal
       - Google
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
   - name: Reve
-    url: https://reve.art/
+    url: https://app.reve.com/
     added_at: '2026-06-14T22:09:48.000Z'
     description: Image model with strong prompt adherence.
     license: Freemium
@@ -533,6 +533,6 @@ entries:
     readme_tags:
       - Prompt Adherence
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation

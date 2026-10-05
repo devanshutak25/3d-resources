@@ -1,6 +1,6 @@
 entries:
   - name: SideFX Content Library
-    url: https://www.sidefx.com/contentlibrary/
+    url: https://www.sidefx.com/learn/learning-library/content/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official Houdini assets.
     license: Free
@@ -9,7 +9,7 @@ entries:
       - Houdini
       - Official
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - modeling
@@ -106,7 +106,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: ZBrush Download Center
-    url: https://pixologic.com/zbrush/downloadcenter/alpha/
+    url: https://www.maxon.net/en/zbrush-plugins
     added_at: '2026-04-16T19:59:30.000Z'
     description: Alphas and brushes.
     license: Free
@@ -125,7 +125,7 @@ entries:
       - ZBrush
       - Alphas/Brushes
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Maxon Asset Browser
     url: https://www.maxon.net/en/cinema-4d/features/asset-browser
     added_at: '2026-04-16T19:59:30.000Z'
@@ -195,7 +195,7 @@ entries:
     url_status: ok
     deprecated: true
   - name: Nomad Sculpt Resources
-    url: https://nomadsculpt.com/resources/
+    url: https://nomadsculpt.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Community brushes and matcaps.
     license: Free
@@ -215,4 +215,4 @@ entries:
       - Nomad
       - Brushes/Matcaps
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok

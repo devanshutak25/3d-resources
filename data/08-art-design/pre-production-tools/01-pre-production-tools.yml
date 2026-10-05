@@ -1,6 +1,6 @@
 entries:
   - name: Storyboard Pro (Toon Boom)
-    url: https://www.toonboom.com/products/storyboardpro
+    url: https://www.toonboom.com/products/storyboard-pro
     added_at: '2026-05-22T16:39:01.000Z'
     description: Industry-standard storyboarding with animatic, camera, and audio timeline.
     license: Paid
@@ -20,7 +20,7 @@ entries:
       - Industry Std
       - Storyboard
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Storyboarder (Wonder Unit)
     url: https://wonderunit.com/storyboarder/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -43,7 +43,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: FrameForge Storyboard Studio
-    url: https://www.frameforge.com/
+    url: https://www.storyboardsmarter.com/
     added_at: '2026-05-22T16:39:01.000Z'
     description: 3D previs/storyboard hybrid with accurate lens and camera simulation.
     license: Paid
@@ -62,7 +62,7 @@ entries:
       - 3D Storyboard
       - Lens-Accurate
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Boords
     url: https://boords.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -123,7 +123,7 @@ entries:
       - iOS
       - 3D Storyboard
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: ShotDeck
     url: https://shotdeck.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -167,7 +167,9 @@ entries:
       - Cinematography Sim
       - Unreal-based
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Domain now redirects to an unrelated spam/gambling site (checked 2026-10-05). Do not restore without a new official URL.
+    deprecated: true
   - name: Cine Designer (C4D)
     url: https://cinedesigner.tv/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -325,7 +327,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Highland
-    url: https://highland2.app/
+    url: https://quoteunquoteapps.com/highland-pro/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Fountain-native Mac screenwriter.
     license: Paid
@@ -340,7 +342,7 @@ entries:
       - Fountain
       - Mac
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: WriterDuet
     url: https://writerduet.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -358,7 +360,7 @@ entries:
       - Collab
       - Browser
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: PureRef
     url: https://www.pureref.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -638,7 +640,7 @@ entries:
     readme_tags:
       - Film Stills
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Refsee
     url: https://refsee.com/
     added_at: '2026-06-21T19:32:23.000Z'
@@ -706,7 +708,9 @@ entries:
     readme_tags:
       - Video Reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Domain now redirects to an unrelated site (startupvideos.com).
+    deprecated: true
   - name: Yarn.co
     url: https://yarn.co/
     added_at: '2026-06-21T19:32:23.000Z'

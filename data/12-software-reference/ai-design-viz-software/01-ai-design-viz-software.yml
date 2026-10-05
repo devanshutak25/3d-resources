@@ -1,6 +1,6 @@
 entries:
   - name: Vizcom
-    url: https://www.vizcom.ai/
+    url: https://vizcom.com/
     added_at: '2026-06-14T22:09:48.000Z'
     description: Sketch to render for industrial, product, and footwear design with line control.
     license: Freemium
@@ -18,7 +18,7 @@ entries:
       - Sketch to Render
       - Product Design
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: NewArc
     url: https://newarc.ai/
     added_at: '2026-06-14T22:09:48.000Z'
@@ -112,7 +112,7 @@ entries:
     readme_tags:
       - Architecture
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Arko.ai
     url: https://www.arko.ai/
     added_at: '2026-06-14T22:09:48.000Z'
@@ -130,7 +130,7 @@ entries:
     readme_tags:
       - Architecture
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: LookX
     url: https://lookx.ai/
     added_at: '2026-06-14T22:09:48.000Z'
@@ -148,7 +148,7 @@ entries:
     readme_tags:
       - Architecture
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: The New Black
     url: https://thenewblack.ai/
     added_at: '2026-07-21T19:27:45.000Z'

@@ -100,13 +100,13 @@ entries:
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: Pro Motion
-    url: http://www.cosmigo.com/pixel_animation_software
+    url: https://www.cosmigo.com/pixel_animation_software
     added_at: '2026-04-19T17:15:03.000Z'
     description: Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
     license: Paid
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -117,7 +117,7 @@ entries:
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
   - name: Rebelle 8 Pro
-    url: https://www.escapemotions.com/products/rebelle
+    url: https://www.escapemotions.com/products/rebelle/about
     added_at: '2026-05-01T13:15:24.000Z'
     description: Natural-media painting app simulating real watercolor, oil, acrylic, ink with fluid dynamics.
     license: Paid
@@ -135,7 +135,7 @@ entries:
       - Natural Media
       - Watercolor Sim
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/drawing-painting-3d
   - name: Pixen (site)

@@ -206,7 +206,7 @@ entries:
       workflow:
         - modeling
   - name: 3Dzip
-    url: https://3dzip.org/
+    url: https://3dzip.info/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free 3D models and interior scenes.
     license: Free
@@ -214,7 +214,7 @@ entries:
     readme_tags:
       - Free Downloads
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - archviz
@@ -405,7 +405,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Polycam Explore
-    url: https://polycam.ai/explore
+    url: https://poly.cam/explore
     added_at: '2026-04-16T19:59:30.000Z'
     description: User-uploaded photogrammetry scans.
     entry_type: asset-source
@@ -422,7 +422,7 @@ entries:
       - Photogrammetry
       - User-Uploaded
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Blender 3D models
     url: https://www.blender-models.com/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -506,13 +506,13 @@ entries:
       workflow:
         - modeling
   - name: Quaternius's Ultimate Low-Poly Models
-    url: http://quaternius.com/index.html
+    url: https://quaternius.com/index.html
     added_at: '2026-04-19T17:15:03.000Z'
     description: Ultimate low-poly model packs (CC0).
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -523,13 +523,13 @@ entries:
       workflow:
         - modeling
   - name: Chocofur Free
-    url: https://store.chocofur.com/search/free
+    url: https://store.chocofur.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free section of Chocofur premium 3D model store.
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist

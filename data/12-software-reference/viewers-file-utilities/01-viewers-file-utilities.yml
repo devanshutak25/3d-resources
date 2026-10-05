@@ -22,7 +22,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: DJV
-    url: https://github.com/darbyjohnston/DJV
+    url: https://github.com/grizzlypeak3d/DJV
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free professional image sequence viewer.
     license: Open Source
@@ -44,7 +44,7 @@ entries:
       - Image Sequences
       - Film Pipeline
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: f3d
     url: https://f3d.app/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -92,7 +92,7 @@ entries:
       - EXR Viewer
       - VFX Pipeline
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: glb.gallery
     url: https://glb.gallery
     added_at: '2026-04-16T19:59:30.000Z'
@@ -185,13 +185,13 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Connecter
-    url: https://www.designconnected.com/connecter
+    url: https://connecterapp.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free and visual creative assets management for 3d, AEC and design professionals.
     license: Free
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - reference
@@ -286,7 +286,7 @@ entries:
       - HDR Workflow
       - EXR
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
       - tools-pipeline-utilities/photogrammetry-scanning

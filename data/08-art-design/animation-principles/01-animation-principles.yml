@@ -99,7 +99,9 @@ entries:
       - Disney/Pixar
       - Webinars
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Page now redirects to a 404.
+    deprecated: true
     tags:
       workflow:
         - animation

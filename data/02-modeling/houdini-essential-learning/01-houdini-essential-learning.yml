@@ -29,7 +29,7 @@ entries:
       - Advanced
       - Design/Mograph
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -60,9 +60,9 @@ entries:
       - FX Focus
       - ILM Pro
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: SideFX Tutorials
-    url: https://www.sidefx.com/tutorials/
+    url: https://www.sidefx.com/learn/learning-library/tutorials/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official tutorials.
     license: Free
@@ -71,7 +71,7 @@ entries:
       - Official
       - All Levels
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -269,7 +269,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: educational-hips (pedohorse)
-    url: https://github.com/pedohorse/educational-hips
+    url: https://github.com/permahorse/educational-hips
     added_at: '2026-06-17T07:16:34.000Z'
     description: Educational Houdini .hip files explaining techniques.
     license: Free
@@ -283,7 +283,7 @@ entries:
       tech:
         - houdini
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: hip-files (lightReachers)
     url: https://github.com/lightReachers/hip-files
     added_at: '2026-06-17T07:16:34.000Z'

@@ -564,7 +564,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: iZotope RX
-    url: https://www.izotope.com/en/products/rx.html
+    url: https://www.izotope.com/products/rx-advanced
     added_at: '2026-05-22T16:39:01.000Z'
     description: Industry-standard audio restoration suite.
     pricing: From $399
@@ -584,7 +584,7 @@ entries:
       - Audio Repair
       - Industry Std
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: FabFilter Pro Suite
     url: https://www.fabfilter.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -771,7 +771,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Audio Design Desk
-    url: https://audiodesigndesk.com/
+    url: https://add.app/
     added_at: '2026-08-03T19:44:41.000Z'
     description: Sound design app that places SFX, foley, and music against picture from typed cues.
     license: Paid
@@ -791,7 +791,7 @@ entries:
       - Sound to Picture
       - Cue Driven
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Ocenaudio
     url: https://www.ocenaudio.com/
     added_at: '2026-08-03T19:44:41.000Z'
@@ -965,7 +965,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Melodyne
-    url: https://www.celemony.com/en/melodyne
+    url: https://www.celemony.com/en/melodyne/what-is-melodyne
     added_at: '2026-08-03T19:44:41.000Z'
     description: Pitch and timing editor that separates notes inside polyphonic recordings.
     license: Paid
@@ -984,4 +984,4 @@ entries:
       - Pitch Editing
       - DNA
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok

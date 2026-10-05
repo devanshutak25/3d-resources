@@ -106,7 +106,7 @@ entries:
       tech:
         - opensource-alt
   - name: MaterialX (GitHub)
-    url: https://github.com/materialx/MaterialX
+    url: https://github.com/AcademySoftwareFoundation/MaterialX
     added_at: '2026-04-16T21:13:44.000Z'
     description: Source repo for the MaterialX material and look-dev interchange standard.
     license: Open Source
@@ -114,7 +114,7 @@ entries:
     readme_tags:
       - Material Interchange
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - material-authoring
@@ -128,7 +128,7 @@ entries:
       tech:
         - opensource-alt
   - name: Open Image IO
-    url: https://github.com/OpenImageIO/oiio
+    url: https://github.com/AcademySoftwareFoundation/OpenImageIO
     added_at: '2026-04-16T21:13:44.000Z'
     description: A library for reading and writing images in many common and VFX-related formats.
     license: Open Source
@@ -137,7 +137,7 @@ entries:
       - Image I/O
       - VFX Standard
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -157,7 +157,9 @@ entries:
       - EXR Deep
       - DreamWorks
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Project site gone; redirects to dreamworks.com home.
+    deprecated: true
     tags:
       workflow:
         - compositing
@@ -213,7 +215,7 @@ entries:
     license: Open Source
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -247,7 +249,7 @@ entries:
     license: Open Source
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx

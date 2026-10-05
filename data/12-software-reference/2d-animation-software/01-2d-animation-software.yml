@@ -24,7 +24,7 @@ entries:
       - Manga
       - Frame-by-Frame
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - software-reference/design-software
   - name: Procreate
@@ -279,7 +279,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Cavalry
-    url: https://cavalry.scenegroup.co/
+    url: https://cavalry.studio/en/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Procedural 2D motion design (After Effects alternative). Free tier available.
     license: Freemium
@@ -301,7 +301,7 @@ entries:
       - Procedural
       - Data-Driven
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Spine (Esoteric Software)
     url: https://esotericsoftware.com/
     added_at: '2026-04-16T20:54:45.000Z'
@@ -346,22 +346,22 @@ entries:
       output:
         - motion-graphics
   - name: Procreate Handbook
-    url: https://procreate.com/handbook
+    url: https://help.procreate.com/procreate/handbook/introduction
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official guide and brush library.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
   - name: Toon Boom Learn
-    url: https://www.toonboom.com/community/learn
+    url: https://www.toonboom.com/learn-toon-boom-animation-skills-in-days-with-new-training-courses
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official tutorials and documentation.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -579,7 +579,7 @@ entries:
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -749,7 +749,7 @@ entries:
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -898,6 +898,6 @@ entries:
       - Tilesets
       - Pixel Art
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx

@@ -58,7 +58,7 @@ entries:
       - Low-poly
       - Voxel
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: MeshLab
@@ -187,7 +187,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: Hesiod
-    url: https://github.com/otto-link/Hesiod
+    url: https://github.com/ottolink-dev/Hesiod
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free open-source node-based procedural terrain/heightmap generator.
     license: Open Source
@@ -202,7 +202,7 @@ entries:
       - Terrain Gen
       - Node-based
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: IFS Renderer
@@ -263,7 +263,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: tlRender
-    url: https://github.com/darbyjohnston/tlRender
+    url: https://github.com/grizzlypeak3d/tlRender
     added_at: '2026-04-16T21:13:44.000Z'
     description: Timeline render, is an early stage project for rendering editorial timelines.
     license: Open Source
@@ -277,7 +277,7 @@ entries:
       - Timeline
       - Editorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: VNyan
@@ -296,12 +296,12 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: KodeLife
-    url: https://hexler.net/products/kodelife
+    url: https://hexler.net/kodelife
     added_at: '2026-04-19T17:29:43.000Z'
     description: Real-time shader editor supporting GLSL, HLSL, and Metal, with a UI for creating and testing shaders.
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -348,7 +348,7 @@ entries:
         - mac
         - linux
   - name: Structure Synth
-    url: http://structuresynth.sourceforge.net/
+    url: https://structuresynth.sourceforge.net/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Generates 3D structures from a design grammar.
     entry_type: software
@@ -357,7 +357,7 @@ entries:
       - Generative
       - 3D Structures
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - creative-coding

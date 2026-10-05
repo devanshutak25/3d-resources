@@ -1,6 +1,6 @@
 entries:
   - name: SideFX Learn
-    url: https://www.sidefx.com/learn/
+    url: https://www.sidefx.com/learn-main-menu/start-here/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official curated learning hub.
     entry_type: reference
@@ -8,7 +8,7 @@ entries:
       - Official
       - Curated Hub
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -82,7 +82,7 @@ entries:
       tech:
         - houdini
   - name: SideFX Getting Started
-    url: https://www.sidefx.com/learn/getting_started/
+    url: https://www.sidefx.com/learn/learning-paths/getting-started/getting_started/
     added_at: '2026-06-17T07:16:34.000Z'
     description: Official Houdini getting-started learning path.
     license: Free
@@ -98,7 +98,7 @@ entries:
       tech:
         - houdini
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Houdini Crash Course (ikrima)
     url: https://ikrima.dev/houdini/basics/hou-crash-course/
     added_at: '2026-06-17T07:16:34.000Z'

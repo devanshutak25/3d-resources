@@ -98,7 +98,7 @@ entries:
       platform:
         - web
   - name: Game Dev League
-    url: https://discord.gg/gamedev
+    url: https://discord.com/invite/gamedev
     added_at: '2026-04-16T19:59:30.000Z'
     description: Game dev Discord.
     entry_type: community
@@ -107,14 +107,14 @@ entries:
       - Discord
       - Large Community
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
       platform:
         - web
   - name: Unreal Slackers
-    url: https://unrealslackers.org/
+    url: https://discord.com/invite/unrealsource
     added_at: '2026-04-16T19:59:30.000Z'
     description: Unreal Engine Discord community.
     entry_type: community
@@ -123,7 +123,7 @@ entries:
       - Discord
       - Unreal
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -132,7 +132,7 @@ entries:
       tech:
         - unreal-plugin
   - name: Brackeys Discord
-    url: https://discord.gg/brackeys
+    url: https://discord.com/invite/brackeys
     added_at: '2026-04-16T19:59:30.000Z'
     description: Brackeys Discord community.
     entry_type: community
@@ -141,7 +141,7 @@ entries:
       - Discord
       - Brackeys
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

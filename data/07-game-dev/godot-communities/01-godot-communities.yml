@@ -17,7 +17,7 @@ entries:
       tech:
         - godot
   - name: Godot Discord
-    url: https://discord.gg/godotengine
+    url: https://discord.com/invite/godotengine
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official Discord.
     entry_type: community
@@ -25,7 +25,7 @@ entries:
       - Discord
       - Official
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

@@ -16,7 +16,7 @@ entries:
         - web
     deprecated: true
   - name: Graphtoy
-    url: https://iquilezles.org/apps/graphtoy/
+    url: https://graphtoy.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Mathematical function grapher by Inigo Quilez.
     license: Free
@@ -25,7 +25,7 @@ entries:
       - Math Grapher
       - iq
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -185,7 +185,7 @@ entries:
     stale: true
     last_pushed: '2023-04-17'
   - name: Palladio
-    url: https://github.com/Esri/palladio
+    url: https://github.com/Esri/cityengine_for_houdini
     added_at: '2026-04-16T21:13:44.000Z'
     description: CityEngine Plugin for Houdini
     license: Open Source
@@ -207,7 +207,7 @@ entries:
       - Houdini
       - CityEngine
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: HDRI To Cube Map
     url: https://matheowis.github.io/HDRI-to-CubeMap/
     added_at: '2026-04-19T17:29:43.000Z'
@@ -511,13 +511,13 @@ entries:
     stale: true
     last_pushed: '2020-10-11'
   - name: 3DN BIP
-    url: https://github.com/3dninjas/3dn-bip
+    url: https://github.com/bonjorno7/3dn-bip
     added_at: '2026-04-19T17:29:43.000Z'
     description: Fast image-preview Python library for Blender, a bpy.utils.previews drop-in replacement.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -533,13 +533,13 @@ entries:
     stale: true
     last_pushed: '2023-07-26'
   - name: Developer Documentation
-    url: https://wiki.blender.org/wiki/Main_Page
+    url: https://developer.blender.org/docs/
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Blender developer docs: development process, design, architecture, and build instructions.'
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist

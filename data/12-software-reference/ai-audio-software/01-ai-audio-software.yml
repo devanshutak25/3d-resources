@@ -72,7 +72,7 @@ entries:
       - Open Model
       - Music + SFX
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     deprecated: true
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -92,7 +92,7 @@ entries:
       - Singing
       - Expression
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
   - name: AIVA

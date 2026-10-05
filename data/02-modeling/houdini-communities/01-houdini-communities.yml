@@ -18,7 +18,7 @@ entries:
       tech:
         - houdini
   - name: Houdini Nerd Discord
-    url: https://discord.gg/E9zA9Ft
+    url: https://discord.com/invite/E9zA9Ft
     added_at: '2026-04-16T19:59:30.000Z'
     description: Christopher Rutledge's Houdini community.
     entry_type: community
@@ -27,7 +27,7 @@ entries:
       - Discord
       - Community
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -36,7 +36,7 @@ entries:
       tech:
         - houdini
   - name: Think Procedural Discord
-    url: https://discord.gg/thinkprocedural
+    url: https://discord.com/invite/thinkprocedural
     added_at: '2026-04-16T19:59:30.000Z'
     description: Procedural-focused Houdini Discord.
     entry_type: community
@@ -45,7 +45,7 @@ entries:
       - Discord
       - Procedural
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -151,7 +151,7 @@ entries:
       tech:
         - houdini
   - name: John Kunz Discord
-    url: https://discord.gg/dbJrmM8
+    url: https://discord.com/invite/dbJrmM8
     added_at: '2026-06-17T07:16:34.000Z'
     description: Community Discord for Houdini FX and coding.
     license: Free
@@ -165,7 +165,7 @@ entries:
       tech:
         - houdini
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Awesome Houdini (wyhinton)
     url: https://github.com/wyhinton/AwesomeHoudini
     added_at: '2026-06-17T07:16:34.000Z'

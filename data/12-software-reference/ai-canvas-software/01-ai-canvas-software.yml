@@ -1,6 +1,6 @@
 entries:
   - name: Flora
-    url: https://florafauna.ai/
+    url: https://flora.ai/
     added_at: '2026-06-14T22:09:48.000Z'
     description: Node canvas for image and video gen with 50+ models and Style DNA.
     license: Freemium
@@ -18,7 +18,7 @@ entries:
       - Node Canvas
       - Multi-model
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Weavy
     url: https://weavy.ai/
     added_at: '2026-06-14T22:09:48.000Z'
@@ -38,7 +38,9 @@ entries:
       - Node Canvas
       - Pro Editing
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Domain no longer resolves.
+    deprecated: true
   - name: Higgsfield Canvas
     url: https://higgsfield.ai/canvas-intro
     added_at: '2026-06-14T22:09:48.000Z'

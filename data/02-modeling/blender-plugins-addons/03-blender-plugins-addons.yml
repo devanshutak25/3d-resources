@@ -21,13 +21,13 @@ entries:
         - mac
         - linux
   - name: BlendyPose
-    url: https://github.com/zonkosoft/BlendyPose
+    url: https://github.com/zonkypop/BlendyPose
     added_at: '2026-04-19T17:29:43.000Z'
     description: Webcam motion capture inside Blender.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -217,13 +217,13 @@ entries:
       output:
         - games
   - name: Mr Mannequins Tools
-    url: https://github.com/Jim-Kroovy/Mr-Mannequins-Tools
+    url: https://github.com/Jim-Kroovy/mr_mannequins_tools
     added_at: '2026-04-19T17:29:43.000Z'
     description: Exports animations and weighted meshes compatible with the Unreal third-person mannequin without retargeting.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - blender
@@ -1022,13 +1022,13 @@ entries:
       output:
         - scientific-viz
   - name: Blender Colab
-    url: https://github.com/syn73/blender-colab
+    url: https://github.com/ynshung/blender-colab
     added_at: '2026-04-19T17:29:43.000Z'
     description: Python script to render Blender scenes on Google Colab. Cycles only.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist

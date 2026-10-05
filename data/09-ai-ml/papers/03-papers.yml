@@ -119,13 +119,13 @@ entries:
         - advanced
     year: 2021
   - name: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes
-    url: http://www.cs.cornell.edu/~zl548/NSFF/
+    url: https://www.cs.cornell.edu/~zl548/NSFF/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Li et al., CVPR 2021 | [github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -238,13 +238,13 @@ entries:
         - advanced
     year: 2022
   - name: 'Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video'
-    url: https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/
+    url: https://vcai.mpi-inf.mpg.de/projects/nonrigid_nerf/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf)
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -323,13 +323,13 @@ entries:
         - advanced
     year: 2021
   - name: 'StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis'
-    url: http://jiataogu.me/style_nerf/
+    url: https://jiataogu.me/style_nerf/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Gu et al., Arxiv 2021
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -374,13 +374,13 @@ entries:
         - advanced
     year: 2022
   - name: Neural Scene Graphs for Dynamic Scenes
-    url: https://light.princeton.edu/neural-scene-graphs/
+    url: https://light.princeton.edu/publication/neural-scene-graphs/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Ost et al., CVPR 2021
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -464,7 +464,7 @@ entries:
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -532,7 +532,7 @@ entries:
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -560,13 +560,13 @@ entries:
         - advanced
     year: 2023
   - name: 'NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination'
-    url: http://people.csail.mit.edu/xiuming/projects/nerfactor/
+    url: https://people.csail.mit.edu/xiuming/projects/nerfactor/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Zhang et al. Arxiv 2021 | [github](https://github.com/google/nerfactor)
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -578,13 +578,13 @@ entries:
     year: 2021
     deprecated: true
   - name: 'NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis'
-    url: https://people.eecs.berkeley.edu/~pratul/nerv/
+    url: https://pratulsrinivasan.github.io/nerv/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Srinivasan et al. CVPR 2021
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - nerf
@@ -816,13 +816,13 @@ entries:
         - advanced
     year: 2022
   - name: 'iNeRF: Inverting Neural Radiance Fields for Pose Estimation'
-    url: http://yenchenlin.me/inerf/
+    url: https://yenchenlin.me/inerf/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Yen-Chen et al. IROS 2021
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - nerf

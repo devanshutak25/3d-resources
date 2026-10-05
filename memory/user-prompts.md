@@ -886,3 +886,8 @@ Every user prompt/question, verbatim, w/ timestamp + short answer note.
 > 1. yes 2. yes
 
 **Answered:** Applied batch 1 (34 ok incl. 9 URL moves, DuME repoint off a hijacked domain, 14 dead deprecated, 15 left unreachable); validate ✓; committed + pushed with Defold fix.
+
+**Prompt:** (2026-10-05)
+> don't wait after every batch, all batches approved
+
+**Answered:** Ran batch 2 (521 redirects): 336 URLs updated, 152 confirmed ok, 31 deprecated (4 hijacked domains), 2 left. Validate ✓ (432 warnings: 8 newly visible cross-section dupes). Committed + pushed.

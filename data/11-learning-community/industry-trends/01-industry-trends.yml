@@ -18,7 +18,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Real-Time Path Tracing
-    url: https://developer.nvidia.com/rtx
+    url: https://www.nvidia.com/en-us/technologies/rtx/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Shipping in games (Cyberpunk 2077, Alan Wake 2). RTX 50-series + DLSS 4 with neural rendering.
     entry_type: reference
@@ -35,7 +35,7 @@ entries:
       - Real-time RT
       - Neural
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: WebGPU Adoption
     url: https://www.w3.org/TR/webgpu/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -69,7 +69,7 @@ entries:
       - LED Volumes
       - Standardizing
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Neural Rendering
     url: https://developer.nvidia.com/rtx-kit
     added_at: '2026-04-16T19:59:30.000Z'

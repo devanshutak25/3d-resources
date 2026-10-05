@@ -29,13 +29,13 @@ entries:
       output:
         - games
   - name: Stage.js
-    url: http://piqnt.com/stage.js/
+    url: https://piqnt.com/stage.js/docs
     added_at: '2026-04-16T21:13:44.000Z'
     description: Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -48,7 +48,7 @@ entries:
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -70,19 +70,19 @@ entries:
     license: Open Source
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - real-time
         - opensource-alt
   - name: axys
-    url: https://github.com/axys1/axys
+    url: https://github.com/axmolengine/axmol
     added_at: '2026-04-16T21:13:44.000Z'
     description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
     license: Open Source
     entry_type: software
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing

@@ -771,13 +771,13 @@ entries:
     stale: true
     last_pushed: '2018-01-06'
   - name: Unity Remote 4 (iOS/tvOS)
-    url: https://itunes.apple.com/us/app/unity-remote-4/id871767552
+    url: https://apps.apple.com/us/app/unity-remote-5/id871767552
     added_at: '2026-04-19T17:15:03.000Z'
     description: Unity Remote app to preview play mode on iOS and tvOS devices.
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

@@ -485,7 +485,7 @@ entries:
     description: Forums, shaders, resources.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -506,18 +506,18 @@ entries:
     description: Free ORBX assets and cloud rendering.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
   - name: Hexels
-    url: https://www.marmoset.co/hexels/
+    url: https://marmoset.co/hexels/
     added_at: '2026-04-16T21:13:44.000Z'
     description: 2D grid-based painting tool from Marmoset.
     license: Paid
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -666,7 +666,7 @@ entries:
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - blender
@@ -703,7 +703,9 @@ entries:
       - Renderer
       - Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: AMD removed the ProRender page; redirects to amd.com home.
+    deprecated: true
   - name: DreamWork's MoonRay
     url: https://openmoonray.org/
     added_at: '2026-04-19T17:15:03.000Z'

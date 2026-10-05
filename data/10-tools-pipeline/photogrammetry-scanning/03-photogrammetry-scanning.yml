@@ -167,7 +167,7 @@ entries:
       output:
         - generalist
   - name: 'Book: The HDRI Handbook 2.0'
-    url: https://rockynook.com/product/the-hdri-handbook-2-0/
+    url: https://rockynook.com/shop/ebook/the-hdri-handbook-2-0/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Christian Bloch. Practical HDRI for VFX and photography.
     license: Paid
@@ -177,12 +177,12 @@ entries:
       - Practical
       - HDRI
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
   - name: Leica Cyclone
-    url: https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone
+    url: https://leica-geosystems.com/products/laser-scanners/software
     added_at: '2026-05-22T16:39:01.000Z'
     description: Point cloud registration and processing for Leica scanners.
     license: Paid
@@ -198,7 +198,7 @@ entries:
       - Leica
       - Point Cloud
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: FARO SCENE
     url: https://www.faro.com/en/Products/Software/SCENE-Software
     added_at: '2026-05-22T16:39:01.000Z'
@@ -234,7 +234,7 @@ entries:
       - Trimble
       - Survey
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Autodesk ReCap Pro
     url: https://www.autodesk.com/products/recap
     added_at: '2026-05-22T16:39:01.000Z'
@@ -274,7 +274,9 @@ entries:
       - Scan to Mesh
       - Geomagic
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Product page removed; redirects to an unrelated Oqton news post.
+    deprecated: true
   - name: Artec Studio
     url: https://www.artec3d.com/3d-software/artec-studio
     added_at: '2026-05-22T16:39:01.000Z'
@@ -370,7 +372,7 @@ entries:
       output:
         - scientific-viz
   - name: Stanford Digital Michelangelo
-    url: http://graphics.stanford.edu/projects/mich/
+    url: https://accademia.stanford.edu/mich/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Foundational large-statue laser scanning project (Marc Levoy).
     license: Free
@@ -380,7 +382,7 @@ entries:
       - Stanford
       - Foundational
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - scientific-viz
@@ -492,7 +494,7 @@ entries:
       - Digital Humans
       - Service
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Infinite-Realities (Triple-I)
     url: https://ir-ltd.net/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -508,7 +510,7 @@ entries:
       - Scan Service
       - Light Stage
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: MipMap
     url: https://na.mipmap3d.com/
     added_at: '2026-08-18T20:31:58.000Z'

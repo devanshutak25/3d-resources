@@ -1,6 +1,6 @@
 entries:
   - name: Veo 3.1 (Google DeepMind)
-    url: https://deepmind.google/technologies/veo/
+    url: https://deepmind.google/models/veo/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Top leaderboard, native audio, 60s+ clips.
     license: Paid
@@ -13,11 +13,11 @@ entries:
       - Top Leaderboard
       - Native Audio
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Runway Gen-4.5
-    url: https://runwayml.com/
+    url: https://runway.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Motion brushes and scene consistency on the GWM-1 world model.
     license: Freemium
@@ -30,7 +30,7 @@ entries:
       - Motion Brushes
       - Consistency
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Sora (OpenAI)
@@ -52,7 +52,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Kling 3.0
-    url: https://klingai.com/
+    url: https://kling.ai/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Up to 5min clips, strong human motion. Motion Brush control.
     license: Freemium
@@ -65,7 +65,7 @@ entries:
       - 5min Clips
       - Motion Brush
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Pika 2.0
@@ -103,7 +103,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Luma Dream Machine
-    url: https://lumalabs.ai/dream-machine
+    url: https://lumalabs.ai/app
     added_at: '2026-04-16T19:59:30.000Z'
     description: Atmospheric image-to-video. Ray3 is the first native 16-bit HDR video model.
     license: Freemium
@@ -116,7 +116,7 @@ entries:
       - HDR
       - Atmospheric
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: HunyuanVideo 1.5
@@ -205,7 +205,7 @@ entries:
       - Style Modes
       - Consistency
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Haiper
@@ -244,7 +244,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Cog Video X
-    url: https://github.com/THUDM/CogVideo
+    url: https://github.com/zai-org/CogVideo
     added_at: '2026-04-16T19:59:30.000Z'
     description: Tsinghua/Zhipu open-source, multiple sizes.
     license: Open Source
@@ -258,7 +258,7 @@ entries:
       - Open Source
       - Tsinghua
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Seedance 2.0 (ByteDance)
@@ -277,11 +277,11 @@ entries:
       - Top Quality
       - Native Audio
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: Google Flow
-    url: https://labs.google/flow
+    url: https://flow.google.com/
     added_at: '2026-06-14T22:09:48.000Z'
     description: Filmmaking app over Veo with scenebuilder and ingredients-to-video.
     license: Paid
@@ -296,7 +296,7 @@ entries:
       - Filmmaking
       - Scenebuilder
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
   - name: LTX Studio

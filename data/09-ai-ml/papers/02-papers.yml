@@ -51,13 +51,13 @@ entries:
         - advanced
     year: 2022
   - name: 'Deep Generative Models on 3D Representations: A Survey'
-    url: https://arxiv.org/pdf/2210.15663.pdf
+    url: https://arxiv.org/pdf/2210.15663
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://github.com/justimyhxu/awesome-3D-generation/)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -68,13 +68,13 @@ entries:
         - advanced
     year: 2022
   - name: 'Magic3D: High-Resolution Text-to-3D Content Creation'
-    url: https://arxiv.org/pdf/2211.10440.pdf
+    url: https://arxiv.org/pdf/2211.10440
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://research.nvidia.com/labs/dir/magic3d)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -85,13 +85,13 @@ entries:
         - advanced
     year: 2022
   - name: 'Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models'
-    url: https://arxiv.org/pdf/2212.14704.pdf
+    url: https://arxiv.org/pdf/2212.14704
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://bluestyle97.github.io/dream3d/)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -136,13 +136,13 @@ entries:
         - advanced
     year: 2022
   - name: 'Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction'
-    url: https://arxiv.org/abs/2111.11215.pdf
+    url: https://arxiv.org/abs/2111.11215
     added_at: '2026-04-19T17:29:43.000Z'
     description: Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO)
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -323,13 +323,13 @@ entries:
         - advanced
     year: 2021
   - name: 'Depth-supervised NeRF: Fewer Views and Faster Training for Free'
-    url: https://arxiv.org/pdf/2107.02791.pdf
+    url: https://arxiv.org/pdf/2107.02791
     added_at: '2026-04-19T17:29:43.000Z'
     description: Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF)
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -442,13 +442,13 @@ entries:
         - advanced
     year: 2021
   - name: 'NeRF-VAE: A Geometry Aware 3D Scene Generative Model'
-    url: https://arxiv.org/pdf/2104.00587.pdf
+    url: https://arxiv.org/pdf/2104.00587
     added_at: '2026-04-19T17:29:43.000Z'
     description: Kosiorek et al., Arxiv 2021
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative

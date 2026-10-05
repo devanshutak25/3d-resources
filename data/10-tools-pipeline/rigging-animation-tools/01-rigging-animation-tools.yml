@@ -1,6 +1,6 @@
 entries:
   - name: Auto-Rig Pro (Blender)
-    url: https://blendermarket.com/products/auto-rig-pro
+    url: https://superhivemarket.com/products/auto-rig-pro
     added_at: '2026-04-16T19:59:30.000Z'
     description: Automatic rigging and retargeting.
     license: Paid
@@ -22,7 +22,7 @@ entries:
       - Auto-Rig
       - Retargeting
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: APEX (Houdini)
     url: https://www.sidefx.com/
     added_at: '2026-04-16T19:59:30.000Z'

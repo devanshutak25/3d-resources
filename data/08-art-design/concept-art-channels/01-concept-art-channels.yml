@@ -9,7 +9,7 @@ entries:
       - Force Drawing
       - Instagram
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - concept
@@ -18,13 +18,13 @@ entries:
       skill:
         - intermediate
   - name: Neural Network-Generated Illustrations
-    url: https://ai.googleblog.com/2017/05/neural-network-generated-illustrations.html
+    url: https://research.google/blog/neural-network-generated-illustrations-in-allo/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Google Research article on AI-generated illustrations for Allo.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - concept
@@ -35,13 +35,13 @@ entries:
       tech:
         - ai-generative
   - name: Awesome Illustrations
-    url: https://awesome-illustrations.now.sh
+    url: https://awesome-illustrations.vercel.app/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Curated awesome-list of illustration resources, tools, and references.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - concept

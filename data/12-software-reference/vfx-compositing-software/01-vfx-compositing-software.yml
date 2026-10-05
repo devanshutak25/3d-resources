@@ -97,7 +97,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Mocha AE
-    url: https://borisfx.com/products/mocha-ae/
+    url: https://borisfx.com/products/mocha-ae-cc-mocha-for-after-effects/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Stripped Mocha planar tracker bundled inside After Effects. Free with AE.
     license: Free
@@ -117,7 +117,7 @@ entries:
       - Free w/ AE
       - Planar Tracking
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     deprecated: true
   - name: Boris FX Optics
     url: https://borisfx.com/products/optics/
@@ -165,7 +165,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Boris Title Studio
-    url: https://borisfx.com/products/continuum/title-studio/
+    url: https://borisfx.com/products/title-studio/
     added_at: '2026-05-22T16:39:01.000Z'
     description: 3D titler shipped inside Continuum (was a standalone product).
     license: Paid
@@ -184,7 +184,7 @@ entries:
       - 3D Titles
       - Broadcast
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     deprecated: true
   - name: Red Giant Complete
     url: https://www.maxon.net/en/red-giant
@@ -339,7 +339,7 @@ entries:
       - Real-time Sim
       - Fire/Smoke
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: LiquiGen
     url: https://jangafx.com/software/liquigen/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -364,7 +364,7 @@ entries:
       - Real-time Sim
       - Liquids
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: IlluGen
     url: https://jangafx.com/software/illugen/
     added_at: '2026-05-08T14:07:42.000Z'
@@ -392,7 +392,7 @@ entries:
       - Real-time
       - Procedural Materials
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: GeoGen (JangaFX)
     url: https://jangafx.com/software/geogen/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -416,7 +416,7 @@ entries:
       - Terrain Gen
       - Real-time
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: After Effects
     url: https://www.adobe.com/products/aftereffects.html
     added_at: '2026-04-16T19:59:30.000Z'
@@ -490,7 +490,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: TOOLL3
-    url: https://tooll.io/
+    url: https://tixl.app/
     added_at: '2026-04-16T21:13:44.000Z'
     description: Graph-based procedural real-time motion graphics for live performance or rendering.
     entry_type: software
@@ -499,7 +499,7 @@ entries:
       - Real-Time
       - Procedural
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -635,13 +635,13 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Nuke
-    url: https://www.foundry.com/products/nuke
+    url: https://www.foundry.com/products/nuke-family
     added_at: '2026-04-19T17:15:03.000Z'
     description: Industry-standard node-based compositing software by The Foundry. Free non-commercial version available.
     entry_type: software
     license: Freemium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - compositing
@@ -718,4 +718,4 @@ entries:
       - Vector Fields
       - Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok

@@ -36,7 +36,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Hugging Face Transformers
-    url: https://huggingface.co/transformers
+    url: https://huggingface.co/docs/transformers/index
     added_at: '2026-04-19T17:15:03.000Z'
     description: NLP models and pipelines.
     license: Open Source
@@ -52,7 +52,7 @@ entries:
       - NLP
       - Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: sd-concepts-library (Stable Diffusion Concepts Library)
     url: https://huggingface.co/sd-concepts-library
     added_at: '2026-04-19T17:29:43.000Z'

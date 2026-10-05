@@ -27,7 +27,7 @@ entries:
     license: Free
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative

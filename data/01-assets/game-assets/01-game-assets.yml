@@ -170,7 +170,7 @@ entries:
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -224,7 +224,7 @@ entries:
       - Cheap
       - Royalty-Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: UnluckyStudio
     url: https://unluckystudio.com/category/freegameart/
     added_at: '2026-04-16T21:37:07.000Z'
@@ -256,7 +256,7 @@ entries:
       - Classic
       - 2D + 3D
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: 420 Pixel Art Icons for RPGs
     url: http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453
     added_at: '2026-04-16T21:37:07.000Z'
@@ -274,12 +274,12 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Asset Creation Toolset
-    url: https://gumroad.com/l/hPXIh
+    url: https://mrven.gumroad.com/l/hPXIh
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon bundling tools for game asset creation.
     entry_type: tool
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -354,7 +354,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Tiny Farm RPG - Asset Pack
-    url: https://emanuelledev.itch.io/farm-rpg
+    url: https://maevedevs.itch.io/farm-rpg
     added_at: '2026-05-01T15:46:53.000Z'
     description: Pixel-art farming RPG asset pack.
     license: Free
@@ -368,7 +368,7 @@ entries:
       - Pixel Art
       - Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: 2D Pixel Art Character Template Asset Pack
     url: https://zegley.itch.io/2d-platformermetroidvania-asset-pack
     added_at: '2026-05-01T15:46:53.000Z'

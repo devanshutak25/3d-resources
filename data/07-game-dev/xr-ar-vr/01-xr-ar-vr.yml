@@ -1,11 +1,11 @@
 entries:
   - name: Building an AR game with ARKit and Spritekit
-    url: https://blog.pusher.com/building-ar-game-arkit-spritekit/
+    url: https://pusher.com/blog/building-ar-game-arkit-spritekit/
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: building an AR game with ARKit and SpriteKit.'
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -17,13 +17,13 @@ entries:
       tech:
         - xr
   - name: RealityKit
-    url: https://developer.apple.com/augmented-reality/reality-composer
+    url: https://developer.apple.com/reality-composer-pro/
     added_at: '2026-04-19T17:15:03.000Z'
     description: High-level AR framework by Apple. Comparable to Unity and Unreal Engine but specific for AR solutions.
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -34,12 +34,12 @@ entries:
       tech:
         - xr
   - name: Capturing Body Motion in 3D | Apple Developer Documentation
-    url: https://developer.apple.com/documentation/arkit/content_anchors/capturing_body_motion_in_3d
+    url: https://developer.apple.com/documentation/arkit/capturing-body-motion-in-3d
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Apple ARKit documentation: capturing body motion in 3D.'
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - mocap
@@ -51,12 +51,12 @@ entries:
       tech:
         - xr
   - name: Rigging a Model for Motion Capture | Apple Developer Documentation
-    url: https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture
+    url: https://developer.apple.com/documentation/arkit/rigging-a-model-for-motion-capture
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Apple ARKit documentation: rigging a model for motion capture.'
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rigging
@@ -93,7 +93,7 @@ entries:
     entry_type: tool
     license: Freemium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -150,7 +150,7 @@ entries:
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - sculpting
@@ -168,7 +168,9 @@ entries:
     description: 'Tutorial: supporting Gear VR and Google Cardboard in one Unity project.'
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Article removed; redirects to site home.
+    deprecated: true
     tags:
       output:
         - games
@@ -181,12 +183,12 @@ entries:
         - xr
         - unity-plugin
   - name: Advanced VR Mechanics With Unity and the HTC Vive Part 1
-    url: https://www.raywenderlich.com/159552/advanced-vr-mechanics-unity-htc-vive-part-1
+    url: https://www.kodeco.com/625-advanced-vr-mechanics-with-unity-and-the-htc-vive-part-1
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: advanced VR mechanics in Unity with the HTC Vive (part 1).'
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -199,12 +201,12 @@ entries:
         - xr
         - unity-plugin
   - name: Advanced VR Mechanics With Unity and the HTC Vive Part 2
-    url: https://www.raywenderlich.com/159610/advanced-vr-mechanics-unity-htc-vive-part-2
+    url: https://www.kodeco.com/579-advanced-vr-mechanics-with-unity-and-the-htc-vive-part-2
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: advanced VR mechanics in Unity with the HTC Vive (part 2).'
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -233,12 +235,12 @@ entries:
       tech:
         - xr
   - name: How to Create a Minimap for VR in Unity
-    url: https://somedudes.ch/2017/02/21/how-to-create-a-minimap-for-vr-in-unity/
+    url: https://somedudes.ch/news/how-to-create-a-minimap-for-vr-in-unity
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: creating a minimap for VR in Unity.'
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -285,12 +287,12 @@ entries:
       tech:
         - xr
   - name: HTC Vive VR Input
-    url: http://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/
+    url: https://wacki.me/blog/2016/06/vr-gui-input-module-for-unity-htc-vive/
     added_at: '2026-04-19T17:15:03.000Z'
     description: 'Tutorial: VR GUI input module for Unity with the HTC Vive.'
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -308,7 +310,7 @@ entries:
     description: Good resource to get started learning about VR / stereo rendering.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -420,7 +422,7 @@ entries:
         - opensource-alt
         - xr
   - name: 8th Wall
-    url: https://www.8thwall.com/
+    url: https://8thwall.org/
     added_at: '2026-05-22T16:48:26.000Z'
     description: Niantic's WebAR platform. Markerless world tracking, image targets, face effects via the browser. No app required.
     license: Paid
@@ -439,7 +441,7 @@ entries:
       - WebAR
       - Niantic
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Mozilla Hubs
     url: https://hubs.mozilla.com/
     added_at: '2026-05-22T16:48:26.000Z'
@@ -462,7 +464,9 @@ entries:
       - WebXR
       - Social
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Mozilla Hubs shut down (2024).
+    deprecated: true
   - name: Bino
     url: https://github.com/ThreeDeeJay/bino/tree/main
     added_at: '2026-04-16T21:13:44.000Z'

@@ -90,7 +90,7 @@ entries:
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -116,7 +116,9 @@ entries:
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Course page removed; redirects to OSU directory.
+    deprecated: true
     tags:
       workflow:
         - rendering
@@ -305,13 +307,13 @@ entries:
       platform:
         - web
   - name: Fast Filter-Width Estimates with Texture Maps
-    url: https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch25.html
+    url: https://developer.nvidia.com/gpugems/gpugems/part-iv-image-processing/chapter-25-fast-filter-width-estimates-texture-maps
     added_at: '2026-04-16T21:13:44.000Z'
     description: GPU Gems 1, Chapter 25.
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -335,13 +337,13 @@ entries:
       platform:
         - web
   - name: 'Ray Tracing: The Next Week'
-    url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
+    url: https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf
     added_at: '2026-04-16T21:13:44.000Z'
     description: By Peter Shirley, builds on the first book by adding effects like textures and motion blur.
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -351,13 +353,13 @@ entries:
       platform:
         - web
   - name: Multitexturing using a Blendmap
-    url: http://chinedufn.com/webgl-multitexture-blend-map-tutorial/
+    url: https://chinedufn.com/webgl-multitexture-blend-map-tutorial/
     added_at: '2026-04-19T17:29:43.000Z'
     description: How to use a blendmap to multitexture a terrain.
     entry_type: tutorial
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing

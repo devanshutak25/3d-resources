@@ -167,7 +167,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Vue (E-on)
-    url: https://info.e-onsoftware.com/
+    url: https://www.bentley.com/products/e-on-software/
     added_at: '2026-05-22T16:39:01.000Z'
     description: E-on environment/landscape DCC. Acquired by Bentley 2015, line discontinued 2023. Used on Avatar's Pandora.
     license: Paid
@@ -183,7 +183,7 @@ entries:
       - Discontinued
       - Avatar Pandora
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Mudbox
     url: https://www.autodesk.com/products/mudbox
     added_at: '2026-05-22T16:39:01.000Z'
@@ -490,7 +490,7 @@ entries:
       - Vintage
       - Installers
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Aminet
     url: https://aminet.net/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -507,7 +507,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Quartz Composer
-    url: https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html
+    url: https://developer.apple.com/library/archive/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: Apple's node-based tool for processing and rendering graphical data. Discontinued.
     license: Free
@@ -517,7 +517,7 @@ entries:
       - Mac
       - Node-based
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - creative-coding

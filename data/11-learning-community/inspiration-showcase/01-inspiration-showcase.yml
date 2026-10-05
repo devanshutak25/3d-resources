@@ -94,7 +94,7 @@ entries:
       - Instagram
       - Motion Art
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -124,7 +124,7 @@ entries:
       - Breakdowns
       - ManVsMachine
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -221,7 +221,7 @@ entries:
       platform:
         - web
   - name: The Pixel Factory
-    url: http://acko.net/files/gltalks/pixelfactory/online.html
+    url: https://acko.net/files/gltalks/pixelfactory/online.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: Talk about WebGL, GPUs and Math by Steven Wittens.
     entry_type: reference
@@ -229,12 +229,12 @@ entries:
       - WebGL
       - Talk
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
   - name: 3D Maths Cheat Sheet
-    url: http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf
+    url: https://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf
     added_at: '2026-04-19T17:29:43.000Z'
     description: Math cheatsheet by Anton Gerdelan, from his OpenGL book.
     entry_type: reference
@@ -242,12 +242,12 @@ entries:
       - Math
       - Cheatsheet
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
   - name: Writing a small software renderer
-    url: http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html
+    url: https://blog.simonrodriguez.fr/articles/2017/02/writing_a_small_software_renderer.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: Introduction to how basic software rendering works.
     entry_type: reference
@@ -255,12 +255,12 @@ entries:
       - Rendering
       - Tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
   - name: 'Gene Kogan: Perlin Noise'
-    url: http://genekogan.com/code/p5js-perlin-noise/
+    url: https://genekogan.com/code/p5js-perlin-noise/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Introduction to 2D and 3D perlin noise.
     entry_type: reference
@@ -268,7 +268,7 @@ entries:
       - Perlin Noise
       - Tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -299,7 +299,7 @@ entries:
       platform:
         - web
   - name: Introduction to Ray Tracing
-    url: http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
+    url: https://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
     added_at: '2026-04-19T17:29:43.000Z'
     description: A simple method for creating 3D images.
     entry_type: reference
@@ -307,7 +307,7 @@ entries:
       - Ray Tracing
       - SDF
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -321,7 +321,7 @@ entries:
       - Book
       - HTML5
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -335,7 +335,7 @@ entries:
       - Book
       - Physics
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -491,7 +491,7 @@ entries:
       platform:
         - web
   - name: Chrome Experiments
-    url: https://www.chromeexperiments.com/
+    url: https://experiments.withgoogle.com/collection/chrome
     added_at: '2026-04-19T17:29:43.000Z'
     description: Showcase of web experiments written by the creative coding community.
     entry_type: community
@@ -500,7 +500,7 @@ entries:
       - Creative Coding
       - Showcase
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - creative-coding
@@ -515,7 +515,7 @@ entries:
     entry_type: channel
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -532,7 +532,7 @@ entries:
       - Contemporary Arch
       - Inspiration
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - archviz

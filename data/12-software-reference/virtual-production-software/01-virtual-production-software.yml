@@ -36,7 +36,7 @@ entries:
       - LED Walls
       - Workflow
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - vfx-compositing-virtual-production/virtual-production
   - name: Vizrt
@@ -189,7 +189,7 @@ entries:
       - Indie VP
       - LED Stages
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Mo-Sys StarTracker
     url: https://mo-sys.com/products/startracker/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -227,7 +227,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Ncam Reality
-    url: https://www.ncam-tech.com/
+    url: https://www.zeiss.com/photonics-and-optics/en/cinematography/cincraft/scenario.html
     added_at: '2026-05-22T16:39:01.000Z'
     description: Markerless on-set camera tracking.
     license: Paid
@@ -243,7 +243,7 @@ entries:
       - Markerless
       - On-Set
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: ZEISS CinCraft Scenario
     url: https://www.zeiss.com/photonics-and-optics/en/cinematography/cincraft/scenario.html
     added_at: '2026-05-22T16:39:01.000Z'
@@ -325,7 +325,7 @@ entries:
       - LED Panels
       - VP
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Vicon
     url: https://www.vicon.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -365,7 +365,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Xsens MVN (Movella)
-    url: https://www.movella.com/products/motion-capture
+    url: https://www.xsens.com/products/motion-capture
     added_at: '2026-05-22T16:39:01.000Z'
     description: IMU-based inertial full-body motion capture suit.
     license: Paid
@@ -381,7 +381,7 @@ entries:
       - IMU Suit
       - Movella
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Rokoko Smartsuit Pro
     url: https://www.rokoko.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -401,7 +401,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Sony Mocopi
-    url: https://www.sony.net/Products/mocopi-dev/en/
+    url: https://www.sony.co.jp/en/Products/mocopi-dev/en/
     added_at: '2026-05-22T16:39:01.000Z'
     description: Six-sensor mobile mocap system.
     license: Paid
@@ -417,7 +417,7 @@ entries:
       - Mobile Mocap
       - 6-Sensor
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Manus
     url: https://www.manus-meta.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -452,7 +452,7 @@ entries:
       - Soft Sensor
       - Hands
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Faceware
     url: https://facewaretech.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -491,7 +491,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Smode
-    url: https://smode.fr/
+    url: https://www.smode.io/en/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Real-time 2D/3D creation, compositing, and video-mapping engine.
     entry_type: software
@@ -500,7 +500,7 @@ entries:
       - Real-time
       - Video Mapping
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - projection-mapping

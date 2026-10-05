@@ -9,7 +9,9 @@ entries:
       - Arnold
       - Volumes
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Doc page removed; redirects to Autodesk help root.
+    deprecated: true
     tags:
       workflow:
         - rendering
@@ -66,13 +68,13 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Takua Renderer
-    url: http://www.yiningkarlli.com/projects/takuarender/
+    url: https://www.yiningkarlli.com/projects/takuarenderer.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: Karl Li's hobbyist physically-based renderer project page with technical write-ups.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering

@@ -83,7 +83,7 @@ entries:
       - Free PBR
       - Tileable
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: 3D Textures
     url: https://3dtextures.me/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -285,7 +285,7 @@ entries:
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -303,7 +303,7 @@ entries:
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -321,7 +321,7 @@ entries:
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -339,7 +339,9 @@ entries:
     license: Free
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Domain now redirects to an unrelated spam/gambling site (checked 2026-10-05). Do not restore without a new official URL.
+    deprecated: true
     tags:
       workflow:
         - texturing

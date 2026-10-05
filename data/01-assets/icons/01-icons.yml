@@ -123,7 +123,7 @@ entries:
       platform:
         - web
   - name: MDI Icons
-    url: https://pictogrammers.com/library/mdi/icon/
+    url: https://pictogrammers.com/library/mdi/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Material Design Icons, huge set.
     license: Open Source
@@ -132,7 +132,7 @@ entries:
       - Material Design
       - Huge Set
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -177,13 +177,13 @@ entries:
       platform:
         - web
   - name: typicons.font
-    url: http://s-ings.com/typicons/
+    url: https://www.s-ings.com/typicons/
     added_at: '2026-04-19T17:15:03.000Z'
     description: 336 pixel-perfect all-purpose vector icons in a web-font kit.
     license: Open Source
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration

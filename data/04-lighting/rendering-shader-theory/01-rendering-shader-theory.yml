@@ -365,13 +365,13 @@ entries:
       - Weekly Digest
       - Graphics
   - name: Physically Based Rendering (3rd ed online)
-    url: http://www.pbr-book.org/3ed-2018/contents.html
+    url: https://www.pbr-book.org/3ed-2018/contents
     added_at: '2026-04-16T21:13:44.000Z'
     description: Third edition of the PBR book online, with the ray tracer implementation.
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -507,13 +507,13 @@ entries:
         - opensource-alt
         - ray-tracing
   - name: Ray Tracing in One Weekend
-    url: http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf
+    url: https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf
     added_at: '2026-04-16T21:13:44.000Z'
     description: Peter Shirley's free book to get you implementing a basic ray tracer in C++ in about 40 pages.
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -527,13 +527,13 @@ entries:
       - Free Book
       - Ray Tracing
   - name: 'Ray Tracing: The Rest of Your Life'
-    url: http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf
+    url: https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf
     added_at: '2026-04-16T21:13:44.000Z'
     description: Peter Shirley's last book in the series, covering more mathematical themes for complete renderers.
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -562,7 +562,7 @@ entries:
       tech:
         - real-time
   - name: Compact YCoCg Frame Buffer
-    url: http://jcgt.org/published/0001/01/02/
+    url: https://jcgt.org/published/0001/01/02/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Paper on compact YCoCg frame buffer for small IBL buffers.
     license: Free
@@ -571,7 +571,7 @@ entries:
       - Paper
       - Frame Buffer
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -617,13 +617,13 @@ entries:
     stale: true
     last_pushed: '2022-10-24'
   - name: Shader Displacement for EEVEE
-    url: https://gumroad.com/l/WDCRp
+    url: https://bbbn19.gumroad.com/l/WDCRp
     added_at: '2026-04-19T17:15:03.000Z'
     description: Using a few modifiers and a nodegroup, realtime shader displacement in EEVEE is now possible.
     license: Paid
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -644,7 +644,7 @@ entries:
     license: Free
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - material-authoring
@@ -677,7 +677,7 @@ entries:
     license: Free
     entry_type: tutorial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - material-authoring
@@ -836,13 +836,13 @@ entries:
     stale: true
     last_pushed: '2017-08-07'
   - name: Terrain Rendering Using GPU-Based Geometry Clipmaps
-    url: https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter02.html
+    url: https://developer.nvidia.com/gpugems/gpugems2/part-i-geometric-complexity/chapter-2-terrain-rendering-using-gpu-based-geometry
     added_at: '2026-04-16T21:13:44.000Z'
     description: GPU Gems 2 - Chapter 02.
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -908,7 +908,7 @@ entries:
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering

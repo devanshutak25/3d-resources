@@ -21,13 +21,13 @@ entries:
     stale: true
     last_pushed: '2017-07-31'
   - name: Circular Color Picker Unity
-    url: https://github.com/mathiassiig/CircularColorPickerUnity
+    url: https://github.com/zeroregard/CircularColorPickerUnity
     added_at: '2026-04-19T17:15:03.000Z'
     description: Shader and script for a circular color picker.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -83,13 +83,13 @@ entries:
     stale: true
     last_pushed: '2023-01-03'
   - name: Shader Lab Lab
-    url: https://github.com/rambutan2000/ShaderLabLab
+    url: https://github.com/TechArtistG/ShaderLabLab
     added_at: '2026-04-19T17:15:03.000Z'
     description: System using T4 Templates to generate Unity ShaderLab code in the editor.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -104,13 +104,13 @@ entries:
     stale: true
     last_pushed: '2018-12-10'
   - name: GrassBending
-    url: https://github.com/Elringus/GrassBending
+    url: https://github.com/elringus/grass-bending
     added_at: '2026-04-19T17:15:03.000Z'
     description: Replacement for Unity's terrain grass shader with alpha-blended rendering and touch bending.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -419,13 +419,13 @@ entries:
     stale: true
     last_pushed: '2016-03-20'
   - name: Unity Compute Shader Ray Tracing Practice
-    url: https://github.com/ya7gisa0/Unity-Compute-Shader-Ray-Tracing-Practice
+    url: https://github.com/yumayanagisawa/Unity-Compute-Shader-Ray-Tracing-Practice
     added_at: '2026-04-19T17:15:03.000Z'
     description: Ray tracing compute shader tutorial for Unity.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -644,13 +644,13 @@ entries:
       tech:
         - blender
   - name: 3D Programming Weekly Articles
-    url: https://www.3dkingdoms.com/weekly/weekly.php
+    url: https://3dkingdoms.com/weekly/weekly.php
     added_at: '2026-04-19T17:29:43.000Z'
     description: Collection of shader and math related resources.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -700,14 +700,14 @@ entries:
       platform:
         - web
   - name: Efficient Gradient-Domain Compositing Using Quadtrees
-    url: http://www.agarwala.org/efficient_gdc/preprint.pdf
+    url: https://www.agarwala.org/efficient_gdc/preprint.pdf
     added_at: '2026-04-19T17:29:43.000Z'
     description: ACM Trans. Graph. 2007.
     entry_type: reference
     license: Free
     year: 2007
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -732,13 +732,13 @@ entries:
       platform:
         - web
   - name: A Pixel is not a Little Square!
-    url: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
+    url: https://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
     added_at: '2026-04-19T17:29:43.000Z'
     description: Classic paper debunking "a pixel is a little square." Also an intro to sampling.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering

@@ -137,7 +137,7 @@ entries:
       - UE5
       - Tutorials
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -529,7 +529,7 @@ entries:
       platform:
         - web
   - name: 'GameDev.tv Unreal 5.0 C++ Developer: Learn C++ and Make Video Games'
-    url: https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
+    url: https://gamedev.tv/courses/unreal-5-0-c-developer-learn-c-and-make-video-games
     added_at: '2026-04-19T17:15:03.000Z'
     description: Course teaching C++ game programming in Unreal Engine 5.
     license: Paid
@@ -538,7 +538,7 @@ entries:
       - C++
       - Course
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

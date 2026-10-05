@@ -56,7 +56,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: redirect
   - name: BricsCAD
-    url: https://www.bricsys.com/bricscad
+    url: https://bricscad.octave.com/bricscad
     added_at: '2026-05-05T11:50:37.000Z'
     description: AutoCAD-compatible DWG CAD; offers both perpetual and subscription licensing.
     pricing: Lite from €314; Pro $1,752 perpetual; Ultimate from €1,176/yr
@@ -75,7 +75,7 @@ entries:
       - DWG-Compatible
       - Cross-Platform
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Shapr3D
     url: https://www.shapr3d.com/
     added_at: '2026-05-05T11:50:37.000Z'
@@ -319,7 +319,7 @@ entries:
     license: Free
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - product-viz

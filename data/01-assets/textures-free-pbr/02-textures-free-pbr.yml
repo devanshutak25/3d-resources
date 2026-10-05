@@ -42,7 +42,9 @@ entries:
     entry_type: asset-source
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Domain now redirects to an unrelated spam/gambling site (checked 2026-10-05). Do not restore without a new official URL.
+    deprecated: true
     tags:
       workflow:
         - texturing
@@ -111,13 +113,13 @@ entries:
       tech:
         - pbr
   - name: Substance Source/freebies
-    url: https://source.substance3d.com/allassets?free=true
+    url: https://substance3d.adobe.com/assets/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Hundreds of high-quality PBR materials. Free tier with a paid library.
     entry_type: asset-source
     license: Freemium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing

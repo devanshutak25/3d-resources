@@ -71,7 +71,7 @@ entries:
       - 2D Focus
       - Indie Proven
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Construct 3
     url: https://www.construct.net/
     added_at: '2026-04-16T19:59:30.000Z'

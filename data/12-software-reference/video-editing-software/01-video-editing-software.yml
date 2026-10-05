@@ -247,7 +247,7 @@ entries:
       - Windows Pro NLE
       - Track-based
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Vegas Movie Studio
     url: https://www.vegascreativesoftware.com/us/vegas-movie-studio/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -269,7 +269,7 @@ entries:
       - Consumer
       - Windows
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: DaVinci Resolve Studio
     url: https://www.blackmagicdesign.com/products/davinciresolve
     added_at: '2026-05-22T16:39:01.000Z'
@@ -366,7 +366,7 @@ entries:
       - Free
       - Apple
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Apple Motion
     url: https://www.apple.com/final-cut-pro/motion/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -389,7 +389,7 @@ entries:
       - FCP Companion
       - Mac
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Apple Compressor
     url: https://www.apple.com/final-cut-pro/compressor/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -409,7 +409,7 @@ entries:
       - FCP Encode
       - Mac
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Premiere Rush
     url: https://www.adobe.com/products/premiere-rush.html
     added_at: '2026-05-22T16:39:01.000Z'
@@ -549,7 +549,7 @@ entries:
       - Bundled w/ Windows
       - Browser
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: VSDC Free Video Editor
     url: https://www.videosoftdev.com/free-video-editor
     added_at: '2026-05-22T16:39:01.000Z'

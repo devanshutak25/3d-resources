@@ -275,13 +275,13 @@ entries:
     stale: true
     last_pushed: '2023-04-25'
   - name: UnityStudio
-    url: https://github.com/RaduMC/UnityStudio
+    url: https://github.com/RaduMC/AssetStudio
     added_at: '2026-04-19T17:15:03.000Z'
     description: Tool for exploring, extracting, and exporting assets from Unity games and apps.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -606,13 +606,13 @@ entries:
       - lua
       - scripting
   - name: LuaProfiler For Unity
-    url: https://github.com/ElPsyCongree/LuaProfiler-For-Unity
+    url: https://github.com/leinlin/Miku-LuaProfiler
     added_at: '2026-04-19T17:15:03.000Z'
     description: Profiler for Lua inside Unity.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -733,13 +733,13 @@ entries:
       - modding
       - patcher
   - name: Unity Elevator Compiler
-    url: https://github.com/m3rt32/UnityElevatorCompiler
+    url: https://github.com/mert-dev-acc/UnityElevatorCompiler
     added_at: '2026-04-19T17:15:03.000Z'
     description: Plugin that plays elevator music while Unity compiles your code.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

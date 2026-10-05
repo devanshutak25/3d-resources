@@ -274,7 +274,7 @@ entries:
       - Procedural
       - Parametric
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
   - name: Intangible

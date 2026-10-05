@@ -19,7 +19,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: USD Working Group (ASWF)
-    url: https://wiki.aswf.io/display/WGUSD/
+    url: https://lf-aswf.atlassian.net/wiki/spaces/WGUSD
     added_at: '2026-04-16T19:59:30.000Z'
     description: Alliance for Open Media USD resources.
     license: Open Source
@@ -35,9 +35,9 @@ entries:
       - ASWF
       - Working Group
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: NVIDIA USD Resources
-    url: https://developer.nvidia.com/usd
+    url: https://developer.nvidia.com/openusd
     added_at: '2026-04-16T19:59:30.000Z'
     description: Omniverse, tutorials, tools.
     license: Free
@@ -53,9 +53,9 @@ entries:
       - NVIDIA
       - Omniverse
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Apple USD Tools
-    url: https://developer.apple.com/augmented-reality/tools/
+    url: https://developer.apple.com/reality-composer-pro/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Usdz_converter, Reality Composer.
     license: Free
@@ -72,7 +72,7 @@ entries:
       - USDZ
       - Apple AR
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: USD Survival Guide
     url: https://lucascheller.github.io/VFX-UsdSurvivalGuide/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -135,7 +135,7 @@ entries:
     license: Open Source
     entry_type: tool
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist

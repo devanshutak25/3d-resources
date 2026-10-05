@@ -132,7 +132,7 @@ entries:
     stale: true
     last_pushed: '2021-08-13'
   - name: EzySlice
-    url: https://github.com/DavidArayan/EzySlice
+    url: https://github.com/DavidArayan/ezy-slice
     added_at: '2026-04-19T17:15:03.000Z'
     description: Mesh slicer framework for Unity, written in C#.
     entry_type: plugin
@@ -141,7 +141,7 @@ entries:
       - mesh
       - slicer
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -202,7 +202,7 @@ entries:
     stale: true
     last_pushed: '2022-03-31'
   - name: PerfAssist
-    url: https://github.com/GameBuildingBlocks/PerfAssist
+    url: https://github.com/vs-archives/PerfAssist
     added_at: '2026-04-19T17:15:03.000Z'
     description: Performance and profiling components for Unity development.
     entry_type: plugin
@@ -211,7 +211,7 @@ entries:
       - performance
       - profiling
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -272,7 +272,7 @@ entries:
     stale: true
     last_pushed: '2023-06-06'
   - name: Pedometer API
-    url: https://github.com/olokobayusuf/Pedometer-API
+    url: https://github.com/videokit-ai/natstep
     added_at: '2026-04-19T17:15:03.000Z'
     description: Native pedometer API for Unity on mobile.
     entry_type: plugin
@@ -281,7 +281,7 @@ entries:
       - pedometer
       - mobile
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -388,7 +388,7 @@ entries:
     stale: true
     last_pushed: '2016-03-21'
   - name: OpenStash
-    url: https://github.com/mrzapp/openstash
+    url: https://github.com/unity3d-open-tools/openstash
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source inventory framework for Unity.
     entry_type: plugin
@@ -397,7 +397,7 @@ entries:
       - inventory
       - framework
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -411,7 +411,7 @@ entries:
     stale: true
     last_pushed: '2020-11-30'
   - name: OpenConvo
-    url: https://github.com/mrzapp/openconvo
+    url: https://github.com/unity3d-open-tools/openconvo
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open-source dialogue framework for Unity.
     entry_type: plugin
@@ -420,7 +420,7 @@ entries:
       - dialogue
       - framework
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -458,7 +458,7 @@ entries:
     stale: true
     last_pushed: '2012-04-24'
   - name: Unity Atoms
-    url: https://github.com/AdamRamberg/unity-atoms
+    url: https://github.com/unity-atoms/unity-atoms
     added_at: '2026-04-19T17:15:03.000Z'
     description: Modular ScriptableObject-based architecture pieces for Unity.
     entry_type: plugin
@@ -467,7 +467,7 @@ entries:
       - scriptable-objects
       - architecture
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

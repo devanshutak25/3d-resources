@@ -1,6 +1,6 @@
 entries:
   - name: Sprytile (itch.io)
-    url: https://chemikhazi.itch.io/sprytile
+    url: https://jeiel.itch.io/sprytile
     added_at: '2026-04-16T19:59:30.000Z'
     description: Blender addon for tile-based 3D levels.
     license: Open Source
@@ -20,7 +20,7 @@ entries:
       - Blender Addon
       - Tile-based 3D
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Tiled2Unity
     url: https://github.com/Seanba/Tiled2Unity
     added_at: '2026-04-19T17:15:03.000Z'

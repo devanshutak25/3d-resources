@@ -59,7 +59,7 @@ entries:
       platform:
         - web
   - name: The 3D Artist Community (Skool)
-    url: https://www.skool.com/the-3d-artist-community
+    url: https://www.skool.com/the-3d-artist-community/about
     added_at: '2026-04-16T19:59:30.000Z'
     description: Paid Skool community for pro 3D artists working beyond VFX/games (apparel, footwear, packaging). AMAs, office hours, pooled software resources.
     entry_type: community
@@ -68,7 +68,7 @@ entries:
       - Skool
       - Pro
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -117,7 +117,7 @@ entries:
       platform:
         - web
   - name: Blender Discord (French)
-    url: https://discordapp.com/channels/168826665307209728/168826665307209728
+    url: https://discord.com/channels/168826665307209728/168826665307209728
     added_at: '2026-04-16T21:13:44.000Z'
     description: Blender Discord (French).
     entry_type: community
@@ -126,7 +126,7 @@ entries:
       - Blender
       - Discord
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -333,7 +333,7 @@ entries:
       output:
         - games
   - name: 🗨️discord/blender
-    url: https://discord.gg/blender
+    url: https://discord.com/invite/blender
     added_at: '2026-04-19T17:15:03.000Z'
     description: Community-managed Discord server.
     entry_type: community
@@ -342,14 +342,14 @@ entries:
       - Blender
       - Discord
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
       tech:
         - blender
   - name: Nexrender Discord
-    url: https://discord.gg/S2JtRcB
+    url: https://discord.com/invite/S2JtRcB
     added_at: '2026-04-19T17:15:03.000Z'
     description: Community of people specializing in scripting and video generation automation.
     entry_type: community
@@ -358,7 +358,7 @@ entries:
       - Discord
       - Automation
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -379,7 +379,7 @@ entries:
       tech:
         - ai-generative
   - name: Steam VR Template (Unreal Engine Forum)
-    url: https://forums.unrealengine.com/showthread.php?106609-Steam-VR-Template
+    url: https://forums.unrealengine.com/t/steam-vr-template/60376
     added_at: '2026-04-19T17:15:03.000Z'
     description: Community thread sharing a Steam VR project template for Unreal Engine.
     entry_type: community
@@ -388,7 +388,7 @@ entries:
       - Unreal
       - VR Template
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web
@@ -451,7 +451,9 @@ entries:
       - VR
       - Cardboard
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Google+ shut down.
+    deprecated: true
     tags:
       platform:
         - web

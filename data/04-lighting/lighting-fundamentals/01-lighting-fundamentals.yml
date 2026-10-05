@@ -58,7 +58,7 @@ entries:
       output:
         - motion-graphics
   - name: School of Motion Lighting Blog
-    url: https://www.schoolofmotion.com/blog/
+    url: https://schoolofmotion.com/blog/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Shadows, volumetrics, HDRI, and area light techniques.
     entry_type: reference
@@ -67,7 +67,7 @@ entries:
       - Techniques
       - Blog
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - lighting

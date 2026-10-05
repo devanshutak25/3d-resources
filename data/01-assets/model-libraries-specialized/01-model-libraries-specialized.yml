@@ -121,7 +121,7 @@ entries:
       - Game Rips
       - Study/Reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: NASA 3D Resources
     url: https://science.nasa.gov/3d-resources/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -375,7 +375,7 @@ entries:
     entry_type: asset-source
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration
@@ -384,13 +384,13 @@ entries:
       tech:
         - blender
   - name: Robotz
-    url: https://threedee.design/cartoon-robot
+    url: https://www.threedee.design/products/3d-models/cartoon-robot/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free modular 3D cartoon robot with customizable heads, bodies, and hands.
     entry_type: asset-source
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration

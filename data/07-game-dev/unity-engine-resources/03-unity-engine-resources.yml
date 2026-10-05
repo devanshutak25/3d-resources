@@ -44,13 +44,13 @@ entries:
     stale: true
     last_pushed: '2023-08-16'
   - name: HiSocket
-    url: https://github.com/hiramtan/HiSocket
+    url: https://github.com/hiram3512/HiSocket
     added_at: '2026-04-19T17:15:03.000Z'
     description: Lightweight socket library for Unity and C# projects.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -498,13 +498,13 @@ entries:
     stale: true
     last_pushed: '2020-11-15'
   - name: Cpp Unity TCP Client Server
-    url: https://github.com/Willtl/CppUnityTCPClientServer
+    url: https://github.com/Willtl/multiplayer-server-unity
     added_at: '2026-04-19T17:15:03.000Z'
     description: Sample Unity TCP client with a C++ (Boost) server.
     entry_type: reference
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -825,13 +825,13 @@ entries:
       - framework
     deprecated: true
   - name: Loxodon Framework
-    url: https://github.com/cocowolf/loxodon-framework
+    url: https://github.com/vovgou/loxodon-framework
     added_at: '2026-04-19T17:15:03.000Z'
     description: MVVM framework for Unity with data binding, localization, and uGUI support.
     entry_type: plugin
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

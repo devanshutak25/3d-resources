@@ -1,6 +1,6 @@
 entries:
   - name: 1 Minute VEX
-    url: https://aaronsmith.tv/1-Minute-VEX
+    url: https://1minutevex.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Bite-sized VEX lessons.
     entry_type: tutorial
@@ -9,7 +9,7 @@ entries:
       - Bite-sized
       - VEX
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -198,7 +198,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Mantra LPE Cookbook (alexwheezy)
-    url: https://github.com/alexwheezy/Mantra-LPE-Cookbook
+    url: https://github.com/cctxord/Mantra-LPE-Cookbook
     added_at: '2026-06-17T07:16:34.000Z'
     description: Light Path Expression recipes for Mantra rendering.
     license: Free
@@ -214,7 +214,7 @@ entries:
       tech:
         - houdini
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Houdini OpenCL (MysteryPancake)
     url: https://mysterypancake.github.io/Houdini-OpenCL/
     added_at: '2026-06-17T07:16:34.000Z'

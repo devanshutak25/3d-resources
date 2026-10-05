@@ -237,7 +237,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/uv-tools
   - name: Quad Remesher
-    url: https://exoside.com/quadremesher/
+    url: https://exoside.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Auto-quad retopology plugin (Exoside) for Maya, 3ds Max, Blender, C4D, Modo, Houdini, ZBrush. ZRemesher-style algorithm.
     pricing: ~$110 indie, $200 studio
@@ -254,11 +254,11 @@ entries:
       - Cross-DCC
       - Auto Quad
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: RetopoFlow 3
-    url: https://blendermarket.com/products/retopoflow
+    url: https://superhivemarket.com/products/retopoflow
     added_at: '2026-04-16T19:59:30.000Z'
     description: Blender retopology suite with sketch, contour, strip, patches, and tweak tools. Sold via Blender Market.
     pricing: ~$96
@@ -274,7 +274,7 @@ entries:
       - Blender Suite
       - Manual Retopo
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: ZWrap
@@ -296,7 +296,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
   - name: Meshmixer
-    url: https://meshmixer.com/
+    url: https://marketplace.autodesk.com/apps/2e40e347-0369-4603-b83f-ecab324aed0f
     added_at: '2026-05-22T16:39:01.000Z'
     description: Autodesk sculpt, remesh, hollow, and 3D-print prep tool. Discontinued but still downloadable and widely used.
     license: Free
@@ -314,6 +314,6 @@ entries:
       - Free
       - Discontinued
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools

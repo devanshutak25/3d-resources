@@ -51,13 +51,13 @@ entries:
         - advanced
     year: 2024
   - name: 'En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data'
-    url: http://arxiv.org/abs/2401.01173
+    url: https://arxiv.org/abs/2401.01173
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://menyifang.github.io/projects/En3D/index.html) | [💻 Code](https://github.com/menyifang/En3D)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -289,13 +289,13 @@ entries:
         - advanced
     year: 2024
   - name: 'Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving'
-    url: https://arxiv.org/pdf/2403.05907v1.pdf
+    url: https://arxiv.org/pdf/2403.05907v1
     added_at: '2026-04-19T17:29:43.000Z'
     description: Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF)
     entry_type: paper
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -357,13 +357,13 @@ entries:
         - advanced
     year: 2023
   - name: 'Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior'
-    url: https://arxiv.org/pdf/2303.14184.pdf
+    url: https://arxiv.org/pdf/2303.14184
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://make-it-3d.github.io) | [💻 Code](https://github.com/junshutang/Make-It-3D)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -442,13 +442,13 @@ entries:
         - advanced
     year: 2023
   - name: 'Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts'
-    url: https://arxiv.org/pdf/2310.11784.pdf
+    url: https://arxiv.org/pdf/2310.11784
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://cxh0519.github.io/projects/Progressive3D/) | [💻 Code](https://github.com/cxh0519/Progressive3D)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -459,13 +459,13 @@ entries:
         - advanced
     year: 2023
   - name: 'Wonder3D: Single Image to 3D using Cross-Domain Diffusion'
-    url: https://arxiv.org/pdf/2310.15008.pdf
+    url: https://arxiv.org/pdf/2310.15008
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://www.xxlong.site/Wonder3D/) | [💻 Code](https://github.com/xxlong0/Wonder3D)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -510,13 +510,13 @@ entries:
         - advanced
     year: 2023
   - name: 'One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion'
-    url: https://arxiv.org/pdf/2311.07885.pdf
+    url: https://arxiv.org/pdf/2311.07885
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://sudo-ai-3d.github.io/One2345plus_page/) | [💻 Code](https://github.com/SUDO-AI-3D/One2345plus)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -527,13 +527,13 @@ entries:
         - advanced
     year: 2023
   - name: 'Instant3D: Instant Text-to-3D Generation'
-    url: https://arxiv.org/pdf/2311.08403.pdf
+    url: https://arxiv.org/pdf/2311.08403
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://ming1993li.github.io/Instant3DProj/) | [💻 Code](https://github.com/ming1993li/Instant3DCodes)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -578,13 +578,13 @@ entries:
         - advanced
     year: 2023
   - name: 'GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians'
-    url: http://arxiv.org/abs/2312.02069
+    url: https://arxiv.org/abs/2312.02069
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://shenhanqian.github.io/gaussian-avatars)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -612,13 +612,13 @@ entries:
         - advanced
     year: 2023
   - name: 'SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance'
-    url: https://arxiv.org/pdf/2312.08889.pdf
+    url: https://arxiv.org/pdf/2312.08889
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://seeavatar3d.github.io/)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative
@@ -680,13 +680,13 @@ entries:
         - advanced
     year: 2023
   - name: 'Make-A-Character: High Quality Text-to-3D Character Generation within Minutes'
-    url: https://arxiv.org/pdf/2312.15430.pdf
+    url: https://arxiv.org/pdf/2312.15430
     added_at: '2026-04-19T17:29:43.000Z'
     description: '[🌐 Project Page](https://human3daigc.github.io/MACH/) | [💻 Code](https://github.com/Human3DAIGC/Make-A-Character)'
     entry_type: paper
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - ai-generative

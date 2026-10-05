@@ -148,12 +148,12 @@ entries:
       platform:
         - win
   - name: Turbulenz
-    url: http://biz.turbulenz.com/developers
+    url: https://ga.me/developers
     added_at: '2026-04-19T17:15:03.000Z'
     description: HTML5 game engine for building, publishing, and monetising games with 3D effects and real-time physics.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -173,12 +173,12 @@ entries:
       platform:
         - win
   - name: SpriteKit
-    url: https://developer.apple.com/spritekit/
+    url: https://developer.apple.com/documentation/spritekit/
     added_at: '2026-04-16T21:13:44.000Z'
     description: SpriteKit code to make your game work on iOS, macOS, and tvOS without a hitch.
     entry_type: reference
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - creative-coding
@@ -200,12 +200,12 @@ entries:
       platform:
         - web
   - name: 'Game Development Essentials: Game Level Design'
-    url: http://www.goodreads.com/book/show/1633392.Game_Development_Essentials
+    url: https://www.goodreads.com/book/show/1633392.Game_Development_Essentials
     added_at: '2026-04-19T17:15:03.000Z'
     description: Book on game level design fundamentals.
     entry_type: book
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games
@@ -279,7 +279,7 @@ entries:
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - games

@@ -144,13 +144,13 @@ entries:
       platform:
         - web
   - name: NVIDIA Texture Tools Exporter
-    url: https://developer.nvidia.com/nvidia-texture-tools-exporter
+    url: https://developer.nvidia.com/texture-tools-exporter
     added_at: '2026-04-19T17:15:03.000Z'
     description: Creates compressed texture files from image sources via CUDA-accelerated compression.
     license: Free
     entry_type: tool
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -164,13 +164,13 @@ entries:
       tech:
         - gpu
   - name: ShaderExpo
-    url: https://anuraghazra.github.io/ShaderExpo/
+    url: https://anuraghazra.dev/ShaderExpo/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Browser shader editor with inline error logs, autocompletion, and model/texture loading.
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist

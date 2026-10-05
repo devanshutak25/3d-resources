@@ -217,7 +217,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: SketchUp
-    url: https://www.sketchup.com/
+    url: https://sketchup.trimble.com/en
     added_at: '2026-04-16T19:59:30.000Z'
     description: Architectural and interior-design-oriented 3D modeler.
     pricing: Go $10.75/mo, Pro $33.25/mo, Studio $68.25/mo (annual)
@@ -240,7 +240,7 @@ entries:
       - Easy Learning Curve
     notes: SketchUp for Schools free for K-12 students/educators. No general free tier as of 2026.
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Modo
     url: https://www.foundry.com/products/modo
     added_at: '2026-04-16T21:37:07.000Z'
@@ -264,7 +264,9 @@ entries:
       - Foundry
       - Modeling Focus
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    notes: Foundry wound down Modo development; product page redirects to the announcement.
+    deprecated: true
   - name: Daz 3D
     url: https://www.daz3d.com/
     added_at: '2026-04-16T21:37:07.000Z'
@@ -573,7 +575,7 @@ entries:
       - Auto Config
       - Real-time
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: MatrixGold (Gemvision)
     url: https://gemvision.com/matrixgold/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -632,7 +634,7 @@ entries:
       - Jewelry CAD
       - Parametric
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Clayoo
     url: https://www.clayoo.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -655,7 +657,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: unreachable
   - name: Marmoset Toolbag
-    url: https://marmoset.co/toolbag/
+    url: https://marmoset.co/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Real-time PBR viewer, baker, and renderer. Common in game/jewelry portfolios.
     license: Paid
@@ -679,7 +681,7 @@ entries:
       - PBR Viewer
       - Baking
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - software-reference/render-engines
   - name: CLO 3D
@@ -742,7 +744,7 @@ entries:
       - Pattern + Fit
       - Industrial
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: ChyronHego (Chyron)
     url: https://chyron.com/
     added_at: '2026-05-22T16:39:01.000Z'
@@ -799,7 +801,7 @@ entries:
       - Avid
       - Virtual Sets
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Unreal MetaHuman Animator
     url: https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-animator-in-unreal-engine
     added_at: '2026-05-22T16:39:01.000Z'

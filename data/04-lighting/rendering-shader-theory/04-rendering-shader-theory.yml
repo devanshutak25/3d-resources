@@ -6,7 +6,7 @@ entries:
     entry_type: tutorial
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -15,13 +15,13 @@ entries:
       platform:
         - web
   - name: ibreakdownshaders
-    url: http://ibreakdownshaders.blogspot.com.au/
+    url: http://ibreakdownshaders.blogspot.com/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Explore the math behind shaders.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -30,13 +30,13 @@ entries:
       platform:
         - web
   - name: ISF
-    url: https://www.interactiveshaderformat.com/
+    url: https://editor.isf.video/
     added_at: '2026-04-19T17:29:43.000Z'
     description: GLSL shaders for use in interactive applications.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -58,13 +58,13 @@ entries:
       platform:
         - web
   - name: Íñigo Quílez
-    url: http://iquilezles.org/index.html
+    url: https://iquilezles.org/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Hardcore math applied to computer graphics by one of the best-known shader authors.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -131,13 +131,13 @@ entries:
       platform:
         - web
   - name: Light House 3D
-    url: http://www.lighthouse3d.com/tutorials/glsl-core-tutorial
+    url: https://www.lighthouse3d.com/2012/02/glsl-core-tutorial/
     added_at: '2026-04-19T17:29:43.000Z'
     description: GLSL core tutorial series by Lighthouse3D.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -161,14 +161,14 @@ entries:
       platform:
         - web
   - name: A Survey on Participating Media Rendering Techniques
-    url: http://maverick.inria.fr/Publications/2005/CPPSS05/cerezo.pdf
+    url: https://artis.inrialpes.fr/Publications/2005/CPPSS05/cerezo.pdf
     added_at: '2026-04-19T17:29:43.000Z'
     description: Cerezo et al. Visual Computer 2005.
     entry_type: reference
     license: Free
     year: 2005
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -183,7 +183,7 @@ entries:
     entry_type: inspiration
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -203,13 +203,13 @@ entries:
       platform:
         - win
   - name: glslViewer (write-up)
-    url: http://patriciogonzalezvivo.com/2015/glslViewer/
+    url: https://patriciogonzalezvivo.com/2015/glslViewer/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Write-up on glslViewer, a live-coding console tool that renders GLSL shaders.
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -222,7 +222,7 @@ entries:
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -250,7 +250,7 @@ entries:
     entry_type: reference
     license: Paid
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -259,14 +259,14 @@ entries:
       platform:
         - web
   - name: Experimental analysis of BRDF models
-    url: http://people.csail.mit.edu/addy/research/brdf/
+    url: https://people.csail.mit.edu/addy/research/brdf/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Ngan et al. Eurographics Symposium on Rendering 2005.
     entry_type: reference
     license: Free
     year: 2005
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -281,7 +281,7 @@ entries:
     entry_type: reference
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - animation
@@ -479,13 +479,13 @@ entries:
       platform:
         - web
   - name: ShaderFrog
-    url: https://shaderfrog.com/2/
+    url: https://shaderfrog.com/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Online shader editor and asset manager that exports shaders for Three.js, Unity, and other engines, with visual shader editing.
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -557,14 +557,14 @@ entries:
       platform:
         - web
   - name: Global illumination using photon maps
-    url: https://sites.fas.harvard.edu/~cs278/papers/pmap.pdf
+    url: https://legacy.sites.fas.harvard.edu/~cs278/papers/pmap.pdf
     added_at: '2026-04-19T17:29:43.000Z'
     description: Jensen, H. W. Rendering Techniques 1996.
     entry_type: reference
     license: Free
     year: 1996
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
@@ -579,33 +579,33 @@ entries:
     entry_type: tool
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
       platform:
         - web
   - name: ShaderTool
-    url: http://store.steampowered.com/app/314720/
+    url: https://store.steampowered.com/app/314720/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Modern shader IDE for programmers and FX artists.
     entry_type: tool
     license: Paid
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering
       platform:
         - win
   - name: Synthclipse
-    url: http://synthclipse.sourceforge.net/index.html
+    url: https://synthclipse.sourceforge.net/index.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: GLSL shader prototyping tool.
     entry_type: tool
     license: Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - rendering

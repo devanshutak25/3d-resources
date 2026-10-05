@@ -54,7 +54,7 @@ entries:
       tech:
         - c4d
   - name: Autodesk App Store
-    url: https://apps.autodesk.com/en/Home/Index
+    url: https://marketplace.autodesk.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official Maya plugins and scripts.
     entry_type: marketplace
@@ -63,7 +63,7 @@ entries:
       - Maya
       - Official
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -190,7 +190,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: MACHIN3tools
-    url: https://gumroad.com/l/MACHIN3tools
+    url: https://machin3.gumroad.com/l/MACHIN3tools
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free collection of Blender tools and pie menus in one customizable package.
     entry_type: plugin
@@ -199,7 +199,7 @@ entries:
       - Blender
       - Pie Menus
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -210,7 +210,7 @@ entries:
       tech:
         - blender-addon
   - name: Maxivz’s Interactive Tools
-    url: https://gumroad.com/l/ynJmIV
+    url: https://maxivz.gumroad.com/l/ynJmIV
     added_at: '2026-04-19T17:15:03.000Z'
     description: Collection of intuitive, context sensitive tools for Blender.
     entry_type: plugin
@@ -219,7 +219,7 @@ entries:
       - Blender
       - Modeling
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -230,7 +230,7 @@ entries:
       tech:
         - blender-addon
   - name: Archipack
-    url: https://gumroad.com/l/ZRMyP
+    url: https://blender-archipack.gumroad.com/l/ZRMyP
     added_at: '2026-04-19T17:15:03.000Z'
     description: Parametric architectural primitives for ArchViz in Blender, with realtime on-screen editing.
     entry_type: plugin
@@ -239,7 +239,7 @@ entries:
       - Blender
       - ArchViz
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - modeling
@@ -250,7 +250,7 @@ entries:
       tech:
         - blender-addon
   - name: KIT OPS
-    url: https://gumroad.com/l/kitops
+    url: https://chippwalters.gumroad.com/l/kitops
     added_at: '2026-04-19T17:15:03.000Z'
     description: Kitbash-driven hard-surface modeling for Blender. Build complex industrial designs fast.
     entry_type: plugin
@@ -259,7 +259,7 @@ entries:
       - Blender
       - Kitbash
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -270,7 +270,7 @@ entries:
       tech:
         - blender-addon
   - name: Speedflow
-    url: https://gumroad.com/l/speedflow
+    url: https://pitiwazou.gumroad.com/l/speedflow
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon for a non-destructive modifier workflow.
     entry_type: plugin
@@ -279,7 +279,7 @@ entries:
       - Blender
       - Non-destructive
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -290,7 +290,7 @@ entries:
       tech:
         - blender-addon
   - name: Poly Source
-    url: https://gumroad.com/l/polysource
+    url: https://derksen.gumroad.com/l/polysource
     added_at: '2026-04-19T17:15:03.000Z'
     description: Shows ngon/quad/tri counts on the active object to keep topology clean in Blender.
     entry_type: plugin
@@ -299,7 +299,7 @@ entries:
       - Blender
       - Topology
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -311,7 +311,7 @@ entries:
       tech:
         - blender-addon
   - name: Speedsculpt
-    url: https://gumroad.com/l/SpeedSculpt
+    url: https://pitiwazou-1.gumroad.com/l/SpeedSculpt
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon for fast character sculpting with Dyntopo, booleans, curves, skin modifier, and masks.
     entry_type: plugin
@@ -320,7 +320,7 @@ entries:
       - Blender
       - Sculpting
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -331,7 +331,7 @@ entries:
       tech:
         - blender-addon
   - name: Brush Manager for Blender
-    url: https://gumroad.com/l/zLBPz
+    url: https://tingjoybits.gumroad.com/l/zLBPz
     added_at: '2026-04-19T17:15:03.000Z'
     description: Create custom Blender brushes, store them in a file, and organize a categorized brush library.
     entry_type: plugin
@@ -340,7 +340,7 @@ entries:
       - Blender
       - Brushes
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -351,7 +351,7 @@ entries:
       tech:
         - blender-addon
   - name: Mech/Fy
-    url: https://gumroad.com/l/KZllV
+    url: https://emilianocolantoni.gumroad.com/l/KZllV
     added_at: '2026-04-19T17:15:03.000Z'
     description: A procedural workflow that automates the process of hard surfaces modelling.
     entry_type: plugin
@@ -359,7 +359,7 @@ entries:
       - Blender
       - Hard Surface
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -370,7 +370,7 @@ entries:
       tech:
         - blender-addon
   - name: BY GEN
-    url: https://gumroad.com/l/BY-GEN
+    url: https://curtisjamesholt.gumroad.com/l/BY-GEN
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender addon for non-destructive, generative modeling styles.
     entry_type: plugin
@@ -379,7 +379,7 @@ entries:
       - Blender
       - Generative
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -399,7 +399,7 @@ entries:
       - Base Mesh
       - Rigged
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - modeling
@@ -418,7 +418,7 @@ entries:
       - Blender
       - Texel Density
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -438,7 +438,7 @@ entries:
       - Blender
       - Environment
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -459,7 +459,7 @@ entries:
       - Blender
       - OSM
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - modeling
@@ -470,7 +470,7 @@ entries:
       tech:
         - blender-addon
   - name: Photographer 2
-    url: https://gumroad.com/chafouin#FWQf
+    url: https://chafouin.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blender camera addon for exposure, white balance, and autofocus. Now free.
     entry_type: plugin
@@ -479,7 +479,7 @@ entries:
       - Blender
       - Camera
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -499,7 +499,7 @@ entries:
       - Blender
       - Viewport
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -519,7 +519,7 @@ entries:
       - Blender
       - EEVEE
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -540,7 +540,7 @@ entries:
       - Blender
       - Workflow
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -551,7 +551,7 @@ entries:
       tech:
         - blender-addon
   - name: Free Hard Surface KitBash Models
-    url: https://gumroad.com/olegushenok?sort=page_layout&tags=free
+    url: https://olegushenok.gumroad.com/?sort=page_layout&tags=free
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free hard-surface and sci-fi kitbash model sets.
     entry_type: asset-source
@@ -560,7 +560,7 @@ entries:
       - Kitbash
       - Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - modeling
@@ -569,7 +569,7 @@ entries:
       platform:
         - web
   - name: gumroad/simonthommes
-    url: https://gumroad.com/simonthommes
+    url: https://simonthommes.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Simon Thommes Gumroad. Free and paid Blender materials.
     entry_type: asset-source
@@ -578,7 +578,7 @@ entries:
       - Blender
       - Materials
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -589,7 +589,7 @@ entries:
       tech:
         - blender-addon
   - name: gumroad/bluefoxcreation
-    url: https://gumroad.com/bluefoxcreation
+    url: https://bluefoxcreation.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Blue Fox Creation Gumroad. Blender motion-graphics products and tutorials.
     entry_type: marketplace
@@ -598,7 +598,7 @@ entries:
       - Creator
       - Profile
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -607,7 +607,7 @@ entries:
       tech:
         - blender-addon
   - name: jamajurabaev
-    url: https://gumroad.com/jamajurabaev
+    url: https://jamajurabaev.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Jama Jurabaev Gumroad. Concept-art brushes and tutorials.
     entry_type: marketplace
@@ -616,7 +616,7 @@ entries:
       - Creator
       - Profile
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - concept
@@ -634,7 +634,7 @@ entries:
       - Blender
       - Python API
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -654,7 +654,7 @@ entries:
       - PBR
       - Materials
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - material-authoring

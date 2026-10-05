@@ -137,7 +137,7 @@ entries:
       tech:
         - houdini
   - name: Node Studies
-    url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/
+    url: https://docs.google.com/presentation/d/1ggss5H_XdWtIZ825iRuUjk7svvzdoPWM-cP1yv4kCCc/edit
     added_at: '2026-04-16T19:59:30.000Z'
     description: Node study slide deck.
     entry_type: reference
@@ -146,7 +146,7 @@ entries:
       - Node Study
       - Deck
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx

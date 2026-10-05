@@ -224,13 +224,13 @@ entries:
         - mac
         - linux
   - name: Poliigon Blender Addon
-    url: https://help.poliigon.com/en/articles/6342599
+    url: https://help.poliigon.com/en/articles/6342599-poliigon-blender-addon
     added_at: '2026-04-19T17:15:03.000Z'
     description: Browse, download and import Poliigon textures, models and HDRs from inside Blender, with material generation from texture sets.
     entry_type: plugin
     license: Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -336,7 +336,7 @@ entries:
         - mac
         - linux
   - name: MPFB
-    url: http://static.makehumancommunity.org/mpfb.html
+    url: https://static.makehumancommunity.org/mpfb.html
     added_at: '2026-04-19T17:15:03.000Z'
     description: Open source human generator for Blender, a full rewrite of MakeHuman as an addon.
     entry_type: plugin
@@ -345,7 +345,7 @@ entries:
       - Blender Addon
       - Human Gen
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -659,13 +659,13 @@ entries:
         - mac
         - linux
   - name: Engraver
-    url: https://gumroad.com/l/qOyVO
+    url: https://johnniewooker.gumroad.com/l/qOyVO
     added_at: '2026-04-19T17:15:03.000Z'
     description: Carves decals into 3D models in Blender.
     license: Paid
     entry_type: plugin
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -697,13 +697,13 @@ entries:
       output:
         - games
   - name: FaceBuilder
-    url: https://www.keentools.io/download/facebuilder-for-blender
+    url: https://keentools.io/download/facebuilder-for-blender
     added_at: '2026-04-19T17:15:03.000Z'
     description: Builds photorealistic 3D face and head models from a few neutral-expression photos in Blender.
     license: Paid
     entry_type: plugin
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist

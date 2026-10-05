@@ -18,7 +18,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: UV Toolkit
-    url: https://gumroad.com/alexbel#NbMya
+    url: https://alexbel.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Tools collection for UV editing in blender.
     license: Paid
@@ -39,9 +39,9 @@ entries:
       - Blender
       - Toolkit
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: UV Grid Generator
-    url: http://uvchecker.byvalle.com/
+    url: https://uvchecker.atlux.one/
     added_at: '2026-06-17T07:16:34.000Z'
     description: Web tool to generate custom UV checker textures.
     license: Free
@@ -56,4 +56,4 @@ entries:
       platform:
         - web
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok

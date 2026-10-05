@@ -27,7 +27,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Bevy
-    url: https://bevyengine.org/
+    url: https://bevy.org/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Rust data-driven ECS game engine.
     license: Open Source
@@ -47,7 +47,7 @@ entries:
       - Rust
       - ECS
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Defold
     url: https://defold.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -394,7 +394,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: CopperCube
-    url: http://www.ambiera.com/coppercube/
+    url: https://www.ambiera.com/coppercube/
     added_at: '2026-04-16T21:13:44.000Z'
     description: CopperCube is an all-in-one 3D game engine. Very easy to use.
     license: Free
@@ -414,7 +414,7 @@ entries:
       - No-Code
       - All-in-One
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Cocos2d X
     url: http://cocos2d-x.org/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -437,7 +437,7 @@ entries:
       - C++
       - Mobile
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: jMonkeyEngine 3
     url: http://jmonkeyengine.org/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -525,7 +525,7 @@ entries:
       - C++11
       - Modular
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Ogre
     url: https://www.ogre3d.org/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -567,7 +567,7 @@ entries:
       - C++
       - Cross-Platform
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: ursina
     url: https://www.ursinaengine.org/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -631,7 +631,7 @@ entries:
       - Browser
       - Blender Integration
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Three.js
     url: http://threejs.org/
     added_at: '2026-04-16T21:37:07.000Z'
@@ -652,7 +652,7 @@ entries:
       - Browser
       - Standard JS 3D
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Ceramic
     url: https://ceramic-engine.com/
     added_at: '2026-04-16T21:37:07.000Z'
@@ -678,7 +678,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Irrlicht
-    url: http://irrlicht.sourceforge.net/
+    url: https://irrlicht.sourceforge.net/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Open source high-performance realtime 3D engine (C++).
     license: Open Source
@@ -697,7 +697,7 @@ entries:
       - C++
       - Classic Engine
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     notes: SourceForge returns 403 to non-browser clients (bot protection). Do not auto-deprecate.
   - name: Panda3D
     url: https://www.panda3d.org/
@@ -759,7 +759,7 @@ entries:
       - Mac-only
       - 2D
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Fusee
     url: https://github.com/FUSEEProjectTeam/Fusee/
     added_at: '2026-04-16T21:13:44.000Z'
@@ -825,7 +825,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Overload
-    url: https://github.com/adriengivry/Overload
+    url: https://github.com/Overload-Technologies/Overload
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D game engine with editor.
     license: Open Source
@@ -842,7 +842,7 @@ entries:
       - C++
       - Editor
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: UPBGE (GitHub)
     url: https://github.com/UPBGE/upbge
     added_at: '2026-04-16T21:13:44.000Z'
@@ -1050,7 +1050,7 @@ entries:
     stale: true
     last_pushed: '2023-01-04'
   - name: Screen 13
-    url: https://github.com/attackgoat/screen-13
+    url: https://github.com/attackgoat/vk-graph
     added_at: '2026-04-16T21:13:44.000Z'
     description: Easy-to-use Vulkan rendering engine with render graph for Rust.
     license: Open Source
@@ -1069,9 +1069,9 @@ entries:
       - Rust
       - Vulkan
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Whitestorm.js (GitHub)
-    url: https://github.com/WhitestormJS/whitestorm.js
+    url: https://github.com/WhitestormJS/whs.js
     added_at: '2026-04-16T21:13:44.000Z'
     description: 3D JavaScript framework for building apps and games.
     license: Open Source
@@ -1088,4 +1088,4 @@ entries:
       - JavaScript
       - Browser
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok

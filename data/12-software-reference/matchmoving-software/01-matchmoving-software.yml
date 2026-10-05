@@ -1,6 +1,6 @@
 entries:
   - name: PFTrack
-    url: https://www.thepixelfarm.co.uk/pftrack/
+    url: https://www.pftrack.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Professional matchmoving, object tracking, mesh generation.
     license: Paid
@@ -15,11 +15,11 @@ entries:
       - Matchmove
       - Pro
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
   - name: SynthEyes
-    url: https://www.ssontech.com/synovr.html
+    url: https://borisfx.com/products/syntheyes/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Camera tracking with lens distortion solving.
     license: Paid
@@ -34,7 +34,7 @@ entries:
       - Lens Distortion
       - Pro
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
   - name: 3DEqualizer

@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Topology
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -26,7 +26,7 @@ entries:
       - Blender
       - Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -48,7 +48,7 @@ entries:
       - Blender
       - Retopo
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist

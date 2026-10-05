@@ -55,7 +55,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Fstoppers Education
-    url: https://fstoppers.com/education
+    url: https://fstoppers.com/category/education
     added_at: '2026-04-16T19:59:30.000Z'
     description: Studio lighting, portrait ratios, product photography.
     entry_type: reference
@@ -63,7 +63,7 @@ entries:
       - Studio Lighting
       - Ratios
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - reference
@@ -123,7 +123,8 @@ entries:
     description: Open-source photography community on Google+.
     entry_type: community
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    deprecated: true
     tags:
       workflow:
         - reference
@@ -145,13 +146,13 @@ entries:
   - name: |-
       Femto-Photography: Visualizing Photons in Motion at a
       Trillion Frames Per Second
-    url: http://web.media.mit.edu/~raskar//trillionfps/
+    url: https://web.media.mit.edu/~raskar/trillionfps/
     added_at: '2026-04-19T17:29:43.000Z'
     description: Raskar et al., SIGGRAPH 2012.
     entry_type: reference
     year: 2012
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - reference

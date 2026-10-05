@@ -1,12 +1,12 @@
 entries:
   - name: RenderNet
-    url: https://rendernet.ai/
+    url: https://affogato.ai/
     added_at: '2026-04-19T17:15:03.000Z'
     description: AI tool for generating images and videos with control over character design, composition, and style.
     entry_type: tool
     license: Freemium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - concept
@@ -51,7 +51,7 @@ entries:
     license: Free
     entry_type: community
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       platform:
         - web

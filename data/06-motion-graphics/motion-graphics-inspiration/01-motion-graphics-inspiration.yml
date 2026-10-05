@@ -109,7 +109,7 @@ entries:
       - Portfolio
       - Resources
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -125,7 +125,7 @@ entries:
       - Title Sequences
       - Deep Dives
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -143,7 +143,7 @@ entries:
       - Showcase
       - Motion
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -256,7 +256,7 @@ entries:
       - AE Community
       - Facebook
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics
@@ -337,7 +337,7 @@ entries:
       platform:
         - web
   - name: Trapcode Suite
-    url: https://www.redgiant.com/products/trapcode-suite/
+    url: https://www.maxon.net/en/red-giant
     added_at: '2026-04-19T17:15:03.000Z'
     description: A set of 3D motion graphics and visual effects plugins for After Effects.
     entry_type: plugin
@@ -346,7 +346,7 @@ entries:
       - AE Plugin
       - 3D Motion
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - motion-graphics

@@ -87,13 +87,13 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: NASA 3D Resources
-    url: https://nasa3d.arc.nasa.gov/
+    url: https://science.nasa.gov/3d-resources/
     added_at: '2026-04-16T19:59:30.000Z'
     description: 3D models, textures, and images from NASA. Mixed CC0 / CC-BY, check per-asset license.
     entry_type: asset-source
     license: Mixed
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -154,7 +154,7 @@ entries:
       platform:
         - web
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Terrain Height Maps
     url: https://www.motionforgepictures.com/height-maps/
     added_at: '2026-06-17T07:16:34.000Z'

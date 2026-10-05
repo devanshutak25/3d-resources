@@ -273,7 +273,7 @@ entries:
       platform:
         - web
   - name: Future Fonts
-    url: https://www.futurefonts.xyz/
+    url: https://www.futurefonts.com/
     added_at: '2026-05-17T08:15:35.000Z'
     description: Buy in-progress fonts directly from indie designers at lower early-access prices.
     license: Paid
@@ -282,7 +282,7 @@ entries:
       - Indie
       - Early Access
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist
@@ -305,14 +305,14 @@ entries:
       platform:
         - web
   - name: Roboto
-    url: https://github.com/google/roboto
+    url: https://github.com/googlefonts/roboto-2
     added_at: '2026-04-19T17:29:43.000Z'
     description: Default font on Android and ChromeOS, and the recommended typeface for Material Design.
     license: Open Source
     entry_type: asset-source
     deprecated: true
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - generalist

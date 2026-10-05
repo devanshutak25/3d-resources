@@ -131,7 +131,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Maxime Roz HDRI Pack
-    url: https://www.maximeroz.com/hdri-free-pack
+    url: https://www.maxroz.com/hdri
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free studio and outdoor HDRIs for product viz.
     license: Free
@@ -147,7 +147,7 @@ entries:
       - Studio
       - Product-Viz
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: HDRI Hub
     url: https://www.hdri-hub.com/
     added_at: '2026-04-16T19:59:30.000Z'

@@ -148,7 +148,7 @@ entries:
         - houdini-addon
         - opensource-alt
   - name: Axiom
-    url: https://www.mattpuchala.com/axiom
+    url: https://www.theoryaccelerated.com/axiom
     added_at: '2026-04-16T19:59:30.000Z'
     description: Sparse fluid solver by Matthew Puchala.
     license: Paid
@@ -169,9 +169,9 @@ entries:
       - Sparse Fluids
       - GPU
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Tighe Rzankowski's Tools
-    url: https://gumroad.com/trzanko
+    url: https://trzanko.gumroad.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Feather grooming.
     license: Paid
@@ -180,7 +180,7 @@ entries:
       - Feathers
       - Grooming
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - film-vfx

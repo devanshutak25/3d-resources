@@ -15,7 +15,7 @@ entries:
       - Open Source
       - Tracking
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Tik Manager (GitHub)
@@ -87,7 +87,7 @@ entries:
       - Render Farm
       - Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Flamenco (Blender render farm)
@@ -110,7 +110,7 @@ entries:
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Coalition
-    url: http://coalition.readthedocs.io/en/latest/
+    url: https://coalition.readthedocs.io/en/latest/
     added_at: '2026-04-16T21:37:07.000Z'
     description: Render-farm manager from Mercenaries Engineering (makers of Guerilla Render).
     entry_type: software
@@ -125,7 +125,7 @@ entries:
       - Render Farm
       - Guerilla-adjacent
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/scene-pipeline-tools
   - name: Open3D
@@ -139,7 +139,7 @@ entries:
       - 3D Data Processing
       - Open Source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       tech:
         - opensource-alt

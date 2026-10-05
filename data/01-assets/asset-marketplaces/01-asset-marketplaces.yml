@@ -53,7 +53,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Blender Market
-    url: https://blendermarket.com/
+    url: https://superhivemarket.com/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Blender-specific assets and addons.
     entry_type: marketplace
@@ -70,7 +70,7 @@ entries:
       - Blender-Specific
       - Addons + Assets
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
   - name: Cubebrush
     url: https://cubebrush.co/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -104,13 +104,13 @@ entries:
       platform:
         - web
   - name: Julio Sillet (Gumroad)
-    url: https://gumroad.com/juliosillet
+    url: https://juliosillet.gumroad.com/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Free and paid PBR texture sets and material packs.
     license: Freemium
     entry_type: asset-source
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - texturing
@@ -162,7 +162,8 @@ entries:
     license: Free
     entry_type: tool
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: broken
+    deprecated: true
     notes: Being folded into Fab by Epic.
     tags:
       workflow:

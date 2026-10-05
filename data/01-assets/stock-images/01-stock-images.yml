@@ -63,7 +63,7 @@ entries:
       - Design
       - Free
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       workflow:
         - reference
@@ -232,7 +232,7 @@ entries:
     entry_type: asset-source
     license: Freemium
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration
@@ -252,13 +252,13 @@ entries:
       platform:
         - web
   - name: Control Illustrations
-    url: https://control.rocks
+    url: https://patterns.page/
     added_at: '2026-04-19T17:15:03.000Z'
     description: Combo set of 108 customizable illustrations.
     entry_type: asset-source
     license: Paid
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
     tags:
       output:
         - illustration
@@ -445,7 +445,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: Public.work
-    url: https://public.work/
+    url: https://www.cosmos.so/public-work
     added_at: '2026-06-21T19:32:23.000Z'
     description: Search public domain images from museums and libraries.
     license: Free
@@ -460,4 +460,4 @@ entries:
     readme_tags:
       - Public Domain
     url_last_verified: '2026-10-01'
-    url_status: redirect
+    url_status: ok
