@@ -39,3 +39,6 @@ Architectural / structural decisions w/ rationale + date.
 - New subsections in animation-rigging: mocap-libraries, mocap-datasets, character-rigs-maya, character-rigs-other. Split rigs by Maya vs rest because Maya alone fills ~40.
 - ai-motion-capture = AI tools only now; library/dataset entries moved out. Auto-rig systems (Rigify, BlenRig, CC Auto Setup) go to §10 rigging-animation-tools, not rig subsections (they're tools, not characters).
 - Fan rigs of copyrighted IP skipped as individual entries.
+
+## 2026-10-12 — PR #25 triage
+- #25 CADProps GLB Viewer: site live, no login needed to view, claims (static GLB only, approximate dims, server upload, price 0) match page. Validate ✓. Affiliation disclosed. Merged 2026-10-12; renamed to "CADProps GLB Viewer" on main after merge.

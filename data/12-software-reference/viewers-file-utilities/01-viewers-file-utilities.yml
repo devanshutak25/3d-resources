@@ -367,7 +367,7 @@ entries:
       - Open Source
       - OCIO
     best_for: Dailies and shot review
-  - name: CADProps
+  - name: CADProps GLB Viewer
     url: https://www.cadprops.com/tools/glb-viewer/
     description: Browser-based viewer for static, uncompressed GLB geometry and approximate dimensions.
     license: Free

@@ -93,3 +93,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > Look up mocap libraries, enough to build out a whole section / and add this https://animationmethods.com/rigs.html + look for all the rigs you can find not just for Maya, all the software
 
 **Answered:** 4 research agents. +4 §03 subsections: mocap-libraries 35, mocap-datasets 44, character-rigs-maya 37 (incl. animationmethods + getrigs), character-rigs-other 44; +4 rig tools in §10. Moved 4 lib/dataset entries out of ai-motion-capture. Link-checked; validate ✓, build ✓. Uncommitted.
+
+**Prompt:** (2026-10-12)
+> cgeck issues and prs
+
+**Answered:** 0 open issues. 1 open PR: #25 CADProps GLB Viewer (affiliated contributor). Site live, claims match, validate ✓, no CI run. Ready to merge; suggested renaming entry to "CADProps GLB Viewer".
+
+**Prompt:** (2026-10-12)
+> fix it, merge it and then close it
+
+**Answered:** Merged #25 (closed via merge). Rename push to fork missed the merge, so renamed to "CADProps GLB Viewer" on main directly. Validate ✓.
