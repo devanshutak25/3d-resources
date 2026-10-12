@@ -221,7 +221,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Video Editing Software](#video-editing-software) <span class="toc-count">(27 items)</span><br><small class="toc-desc">NLEs and post-production software.</small>
 - [Audio Software](#audio-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
 - [Design Software](#design-software) <span class="toc-count">(32 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
-- [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
+- [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
 - [Game Engines: Free & Open Source](#game-engines-free--open-source) <span class="toc-count">(65 items)</span><br><small class="toc-desc">Free and open-source game engines.</small>
 - [Game Engines: Commercial Free Tiers](#game-engines-commercial-free-tiers) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Commercial engines with generous free tiers.</small>
 - [Material & Texture Creation Software](#material--texture-creation-software) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Material authoring, texture baking, and PBR painting tools.</small>
@@ -5512,6 +5512,7 @@ Image, video, and 3D file viewers.
 | [xStudio](https://github.com/AcademySoftwareFoundation/xstudio) | Open-source playback and review tool by DNEG. Notes, sessions, and pipeline integration for dailies. | Open source | Review Player · ASWF | Dailies review, annotation |
 
 **Related:**
+- [CADProps](https://www.cadprops.com/tools/glb-viewer/). Browser-based viewer for static, uncompressed GLB geometry and approximate dimensions.
 - [Online 3D Viewer](https://3dviewer.net/). Browser viewer for OBJ, FBX, glTF, STL, 3DM, STEP and other 3D files.
 - [tev](https://github.com/Tom94/tev). HDR image viewer for comparing EXRs with pixel inspection, exposure and error metrics.
 
