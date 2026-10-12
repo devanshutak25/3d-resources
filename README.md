@@ -5512,7 +5512,7 @@ Image, video, and 3D file viewers.
 | [xStudio](https://github.com/AcademySoftwareFoundation/xstudio) | Open-source playback and review tool by DNEG. Notes, sessions, and pipeline integration for dailies. | Open source | Review Player · ASWF | Dailies review, annotation |
 
 **Related:**
-- [CADProps](https://www.cadprops.com/tools/glb-viewer/). Browser-based viewer for static, uncompressed GLB geometry and approximate dimensions.
+- [CADProps GLB Viewer](https://www.cadprops.com/tools/glb-viewer/). Browser-based viewer for static, uncompressed GLB geometry and approximate dimensions.
 - [Online 3D Viewer](https://3dviewer.net/). Browser viewer for OBJ, FBX, glTF, STL, 3DM, STEP and other 3D files.
 - [tev](https://github.com/Tom94/tev). HDR image viewer for comparing EXRs with pixel inspection, exposure and error metrics.
 
