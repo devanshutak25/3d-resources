@@ -225,3 +225,20 @@ entries:
         - web
       skill:
         - beginner
+  - name: imgmov AI Video Prompt Guide
+    url: https://imgmov.com/blog/2026-07-08-ai-video-prompts
+    added_at: '2026-10-20T15:31:44.811272Z'
+    description: Publisher guide to AI video prompts, with scene examples for subject motion, camera movement and lighting.
+    entry_type: tutorial
+    license: null
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - ai-generative
