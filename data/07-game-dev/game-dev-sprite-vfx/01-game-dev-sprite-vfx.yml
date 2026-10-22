@@ -388,3 +388,14 @@ entries:
         - games
       platform:
         - win
+  - name: Sprite Fusion Sprite Normals
+    url: https://github.com/Hugo-Dz/spritefusion-sprite-normals
+    added_at: '2026-10-22T06:49:22Z'
+    description: Generate normal maps from pixel art sprites and animations.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
