@@ -635,3 +635,18 @@ entries:
     url_last_verified: '2026-10-05'
     url_status: ok
     pricing_last_verified: '2026-10-05'
+  - name: 3D Converter
+    url: https://3dconverter.org/
+    added_at: '2026-10-23T06:20:44.000Z'
+    description: Browser-based 3D model converter and viewer for STL, OBJ, PLY, GLB, glTF, FBX, 3MF and other formats that checks each output against the source before download.
+    pricing: Free local conversion, Pro $9.9/mo
+    entry_type: tool
+    license: Freemium
+    readme_tags:
+      - Browser
+      - 3D Formats
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
