@@ -613,3 +613,21 @@ entries:
         - product-viz
       platform:
         - web
+  - name: PrintWhat
+    url: https://printwhat.app/
+    added_at: '2026-10-28T02:54:50Z'
+    description: Free search engine that queries several public 3D-printing and CAD model libraries at once and links each result to its original listing.
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - product-viz
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Model Search
+      - 3D Printing
+    best_for: Finding printable STL and CAD models across several sites
