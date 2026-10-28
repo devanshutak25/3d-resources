@@ -1011,3 +1011,25 @@ entries:
       - Blender
     best_for: Rigid-body destruction
     pricing_last_verified: '2026-10-05'
+  - name: AquaGuard
+    url: https://github.com/registerqd/AquaGuard-BlenderBackup
+    description: 'External watchdog that keeps rotating A/B/C project snapshots and detects Blender freezes or power loss so the latest work can be reopened after a restart.'
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - sculpting
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-10-28T12:13:00Z'
+    readme_tags:
+      - Free
+      - Blender
+    best_for: Recovering work after a crash or power cut
