@@ -322,3 +322,24 @@ entries:
       - Free
       - After Effects
     best_for: 2D character rigging
+  - name: WeMotion
+    url: https://wemotion.ai/
+    description: Apple silicon Mac app where you describe a motion graphics film and an AI designer built on Claude builds it as editable layers and keyframes, with MP4 export up to 4K 60 fps.
+    pricing: Free app; needs an Anthropic API key, or Claude Pro or Max
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - mac
+      tech:
+        - ai-generative
+        - real-time
+    added_at: '2026-10-18T12:45:00.000Z'
+    readme_tags:
+      - Motion Design
+      - AI
+    best_for: Launch films and title sequences from a text brief
