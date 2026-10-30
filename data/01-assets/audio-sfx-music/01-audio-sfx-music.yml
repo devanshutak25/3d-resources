@@ -261,7 +261,7 @@ entries:
     url_last_verified: '2026-10-01'
     url_status: ok
   - name: DailySounds
-    url: https://dailysounds.org/?ref=3dres
+    url: https://dailysounds.org/
     added_at: '2026-10-25T17:05:56.000Z'
     description: Free sound effects library for games, videos, and podcasts, with commercial use allowed and credit optional.
     license: Free
