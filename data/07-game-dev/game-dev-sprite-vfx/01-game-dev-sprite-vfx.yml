@@ -391,7 +391,7 @@ entries:
   - name: Sprite Fusion Sprite Normals
     url: https://github.com/Hugo-Dz/spritefusion-sprite-normals
     added_at: '2026-10-22T06:49:22Z'
-    description: Generate normal maps from pixel art sprites and animations.
+    description: Rust CLI and browser tool that generates normal maps from pixel art sprites and animated sprite sheets.
     license: Open Source
     entry_type: tool
     tags:
@@ -399,3 +399,9 @@ entries:
         - texturing
       output:
         - games
+      platform:
+        - web
+        - win
+        - mac
+        - linux
+    notes: Browser version at spritefusion.com/sprite-normals; the CLI builds from source with Cargo.
