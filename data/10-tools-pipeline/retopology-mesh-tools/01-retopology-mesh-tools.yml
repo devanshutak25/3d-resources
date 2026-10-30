@@ -170,3 +170,6 @@ entries:
       - Mesh Repair
     best_for: Inspecting STL meshes and reviewing supported repairs
     notes: Supports limited cleanup and selected local repairs, not general mesh reconstruction; passing mesh checks does not guarantee printability.
+    url_last_verified: '2026-10-31'
+    url_status: ok
+    pricing_last_verified: '2026-10-31'

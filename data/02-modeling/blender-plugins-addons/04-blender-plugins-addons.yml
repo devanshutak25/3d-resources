@@ -1013,7 +1013,7 @@ entries:
     pricing_last_verified: '2026-10-05'
   - name: AquaGuard
     url: https://github.com/registerqd/AquaGuard-BlenderBackup
-    description: 'External watchdog that keeps rotating A/B/C project snapshots and detects Blender freezes or power loss so the latest work can be reopened after a restart.'
+    description: External watchdog that keeps rotating A/B/C project snapshots and detects Blender freezes or power loss so the latest work can be reopened after a restart.
     license: Open Source
     entry_type: software
     tags:
@@ -1033,3 +1033,33 @@ entries:
       - Free
       - Blender
     best_for: Recovering work after a crash or power cut
+    url_last_verified: '2026-10-31'
+    url_status: ok
+  - name: Nebula Forge for Blender
+    url: https://nebulakit.itch.io/nebula-forge-blender
+    description: Blender add-on that generates procedural nebula world skies and exports linear EXR or HDR panoramas.
+    license: Paid
+    entry_type: plugin
+    pricing: $5 on itch.io; free demo
+    tags:
+      workflow:
+        - lighting
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - procedural
+    readme_tags:
+      - Space Skies
+      - EXR
+    best_for: Procedural space backgrounds that light the scene
+    notes: 'Blender 3.6+; maker verified 4.5 LTS and 5.2 on Windows only. Code is AI-assisted (maker disclosure, issue #26).'
+    pricing_last_verified: '2026-10-31'
+    url_last_verified: '2026-10-31'
+    url_status: ok
+    added_at: '2026-10-30T20:38:59.341Z'

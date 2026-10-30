@@ -13,6 +13,7 @@ Project-level goals and intent for 3d_resources.
 - 2026-10-05: Continue web discovery phases (assets, tutorials/learning, AI/ML workflows) after software + tools.
 
 ## Done
+- 2026-10-31: Merged PRs #27, #30-#32, #34-#38 (5 maintainer-fixed), closed #28, added issues #26 Nebula Forge + #29 RespawnStack.
 - 2026-10-05: Merged PRs #18 Meshory, #19 Normal Map Bench, #20 3DTexel, #24 Remove Audio Video Converter (maintainer-fixed).
 - 2026-10-05: Audit fix plan, 7 phases (security, links, CI/deps, data correctness, data quality, perf, hygiene/docs).
 - 2026-06-17: Workstream B SEO site features (subsection pages, tag pages, per-entry JSON-LD, sitemap).

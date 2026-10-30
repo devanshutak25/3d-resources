@@ -103,3 +103,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > fix it, merge it and then close it
 
 **Answered:** Merged #25 (closed via merge). Rename push to fork missed the merge, so renamed to "CADProps GLB Viewer" on main directly. Validate ✓.
+
+**Prompt:** (2026-10-31)
+> check pull requests and issues
+
+**Answered:** 10 open PRs (#27-#38), 2 issues (#26, #29). All merge clean together, validate ✓ 32 warnings (= base), no dupes, all sites live. Ready: #27 WeMotion, #36 STLFixer, #37 AquaGuard, #38 RefVid. Small fix: #34 drop ?ref, #31 platform+desc, #32 retopo claim, #35 paid custom-design disclosure, #30 stale pricing (875 credits, Cinema tier). Decline: #28 imgmov (vendor SEO prompt list, poor fit). Issues #26 Nebula Forge, #29 RespawnStack verified, addable. No CI ran (fork workflows need approval). Nothing posted or merged.
+
+**Prompt:** (2026-10-31)
+> push, merge and close issues
+
+**Answered:** Pushed fixes to 5 fork branches (#30/#31/#32/#34/#35), merged 9 PRs, closed #28 with note. Added Nebula Forge (§02 blender-plugins-addons) + RespawnStack (§09 ai-assisted-cg-tools), stamped url_status on all 11; commit closes #26 + #29. Validate ✓ 32, tests 7/7, build ✓.

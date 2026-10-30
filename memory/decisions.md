@@ -42,3 +42,11 @@ Architectural / structural decisions w/ rationale + date.
 
 ## 2026-10-12 — PR #25 triage
 - #25 CADProps GLB Viewer: site live, no login needed to view, claims (static GLB only, approximate dims, server upload, price 0) match page. Validate ✓. Affiliation disclosed. Merged 2026-10-12; renamed to "CADProps GLB Viewer" on main after merge.
+
+## 2026-10-31 — PR #27-#38 + issue #26/#29 triage
+- All 10 PRs + 2 issues are affiliated self-submissions; vendor affiliation alone is not a reject (same as #25).
+- Reject vendor blog/SEO posts as "tutorials" (#28 imgmov: generic AI-video prompt list ending in a credits pitch, filed under cinematography fundamentals).
+- Strip tracking params from URLs (#34 `?ref=3dres`).
+- Freemium when a free tool upsells paid human work on the same site (#35 PrintWhat custom design from $29).
+- User: "push, merge and close issues". Fixes pushed to fork branches (#30/#31/#32/#34/#35), 9 merged, #28 closed with note. #26 Nebula Forge -> §02 blender-plugins-addons (§04 has learning subsections only); #29 RespawnStack -> §09 ai-assisted-cg-tools.
+- Don't claim features a vendor page doesn't state (#32 quad retopo = just Blender remesh via Python; MCP tag unverified).

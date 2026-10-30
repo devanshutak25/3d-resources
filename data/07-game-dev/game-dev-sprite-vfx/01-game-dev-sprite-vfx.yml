@@ -405,3 +405,5 @@ entries:
         - mac
         - linux
     notes: Browser version at spritefusion.com/sprite-normals; the CLI builds from source with Cargo.
+    url_last_verified: '2026-10-31'
+    url_status: ok

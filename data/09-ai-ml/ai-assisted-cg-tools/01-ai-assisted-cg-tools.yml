@@ -432,3 +432,25 @@ entries:
       - AI
     url_last_verified: '2026-10-01'
     url_status: ok
+  - name: RespawnStack
+    url: https://respawnstack.com/
+    description: Reference of pricing, commercial-use and output-ownership terms for AI game-dev tools, each quoted from the vendor's own pages.
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Licensing
+      - Game Dev
+    best_for: Checking whether AI tool output can ship in a commercial game
+    notes: 'Has Sponsors and Advertise pages; no affiliate links live as of 2026-10-31 (issue #29).'
+    url_last_verified: '2026-10-31'
+    url_status: ok
+    added_at: '2026-10-30T20:38:59.350Z'
