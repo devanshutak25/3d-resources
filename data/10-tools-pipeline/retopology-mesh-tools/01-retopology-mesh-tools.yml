@@ -151,3 +151,22 @@ entries:
       - Paid
       - Blender
     best_for: Quick quad retopology
+  - name: STLFixer
+    url: https://stlfixer.io/
+    added_at: '2026-10-24T13:54:26Z'
+    description: Browser-based STL tool for local mesh inspection, supported repairs and before-and-after geometry comparison.
+    license: Open Source
+    entry_type: tool
+    pricing: Free; no account or subscription required
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - web
+      output:
+        - generalist
+    readme_tags:
+      - STL
+      - Mesh Repair
+    best_for: Inspecting STL meshes and reviewing supported repairs
+    notes: Supports limited cleanup and selected local repairs, not general mesh reconstruction; passing mesh checks does not guarantee printability.
