@@ -673,3 +673,26 @@ entries:
       - Paid
       - LED Wall
     best_for: 2.5D virtual production plates
+  - name: RefVid
+    url: https://refvid.com/
+    added_at: '2026-10-29T05:30:42.000Z'
+    description: Turns 1 to 5 reference photos of a character or product into video clips that keep the subject consistent across shots, running Kling, Seedance, Wan and other models.
+    license: Freemium
+    entry_type: software
+    pricing: Free first clip, pay-as-you-go credits or monthly plans
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+        - product-viz
+      platform:
+        - web
+      tech:
+        - ai-generative
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    readme_tags:
+      - Reference Images
+      - Continuity
+    best_for: Consistent characters and products
