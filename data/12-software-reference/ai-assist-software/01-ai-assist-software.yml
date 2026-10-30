@@ -203,3 +203,31 @@ entries:
       - Open Source
       - MCP
     best_for: LLM control of Blender
+  - name: 3D-Agent
+    url: https://3d-agent.com/blender-ai
+    description: Desktop AI agent that models, textures, lights, animates and renders the open Blender scene from text prompts by writing and running Blender Python.
+    license: Paid
+    entry_type: software
+    pricing: $19, $29 or $89/mo, no free tier
+    tags:
+      workflow:
+        - modeling
+        - retopo
+        - texturing
+        - animation
+        - lighting
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+      tech:
+        - ai-generative
+        - subscription
+    dual_listed_in:
+      - ai-ml-for-cg/ai-assisted-cg-tools
+    added_at: '2026-10-22T18:26:16.000Z'
+    readme_tags:
+      - AI Agent
+    best_for: Prompt-driven Blender work
