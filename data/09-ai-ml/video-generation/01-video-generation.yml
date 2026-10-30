@@ -91,10 +91,10 @@ entries:
   - name: pitchboom.io
     url: https://pitchboom.io
     added_at: '2026-10-21T14:32:41Z'
-    description: Web app that turns a product URL or a short brief into motion-design video ads with script, storyboard, voice-over and music, exported as 1080p MP4 in 16:9, 9:16, 1:1, 4:5 and 3:4.
+    description: Web app that turns a product URL or a short brief into motion-design video ads with script, storyboard, voice-over and music, exported as MP4 in 16:9, 9:16, 1:1, 4:5 and 3:4 (1080p, 4K on Pro and up).
     license: Freemium
     entry_type: tool
-    pricing: 500 free credits at sign-up; Starter €30/mo, Pro €99/mo, Premium €300/mo (excl. VAT)
+    pricing: 875 free credits at sign-up; Starter €30/mo, Pro €99/mo, Premium €300/mo, Cinema €999/mo (excl. VAT)
     tags:
       tech:
         - ai-generative
