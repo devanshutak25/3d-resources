@@ -27,7 +27,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 <details>
 <summary><a href="#assets--libraries">Assets & Libraries</a> <span class="toc-featured">Poly Haven · Quixel Megascans · Sketchfab</span></summary>
 
-- [Model Libraries: Free & General](#model-libraries-free--general) <span class="toc-count">(35 items)</span><br><small class="toc-desc">General-purpose 3D model libraries with free downloads.</small>
+- [Model Libraries: Free & General](#model-libraries-free--general) <span class="toc-count">(36 items)</span><br><small class="toc-desc">General-purpose 3D model libraries with free downloads.</small>
 - [Model Libraries: Specialized](#model-libraries-specialized) <span class="toc-count">(23 items)</span><br><small class="toc-desc">Specialty model sources: characters, scans, anatomy, museums.</small>
 - [Model Libraries: Architecture & Furniture](#model-libraries-architecture--furniture) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Arch-viz, furniture, and BIM asset libraries.</small>
 - [Asset Marketplaces](#asset-marketplaces) <span class="toc-count">(9 items)</span><br><small class="toc-desc">General asset marketplaces across multiple engines and tools.</small>
@@ -49,7 +49,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 <details>
 <summary><a href="#modeling-sculpting--texturing">Modeling, Sculpting & Texturing</a> <span class="toc-featured">Blender · Houdini · Cinema 4D</span></summary>
 
-- [Blender: Plugins & Addons](#blender-plugins--addons) <span class="toc-count">(151 items)</span><br><small class="toc-desc">Notable addons extending Blender.</small>
+- [Blender: Plugins & Addons](#blender-plugins--addons) <span class="toc-count">(152 items)</span><br><small class="toc-desc">Notable addons extending Blender.</small>
 - [Blender: Tutorials](#blender-tutorials) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Blender learning resources, beginner to advanced.</small>
 - [Houdini: Getting Started](#houdini-getting-started) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Beginner-friendly Houdini intros.</small>
 - [Houdini: Essential Learning Resources](#houdini-essential-learning-resources) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Long-form Houdini learning hubs.</small>
@@ -180,7 +180,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Scene & Pipeline Tools](#scene--pipeline-tools) <span class="toc-count">(39 items)</span><br><small class="toc-desc">Production pipelines, render management, look dev.</small>
 - [Gaussian Splatting & NeRF](#gaussian-splatting--nerf) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Neural and splatting reconstruction.</small>
 - [Photogrammetry & 3D Scanning](#photogrammetry--3d-scanning) <span class="toc-count">(73 items)</span><br><small class="toc-desc">Photogrammetry, LiDAR, and Gaussian splat capture.</small>
-- [Retopology & Mesh Tools](#retopology--mesh-tools) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Retopology and mesh processing.</small>
+- [Retopology & Mesh Tools](#retopology--mesh-tools) <span class="toc-count">(16 items)</span><br><small class="toc-desc">Retopology and mesh processing.</small>
 - [UV Tools](#uv-tools) <span class="toc-count">(7 items)</span><br><small class="toc-desc">UV unwrapping, packing, and UDIM tools.</small>
 - [Rigging & Animation Tools](#rigging--animation-tools) <span class="toc-count">(26 items)</span><br><small class="toc-desc">Auto-rig, retargeting, and animation middleware.</small>
 - [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
@@ -280,6 +280,7 @@ General-purpose 3D model libraries with free downloads.
 - [Poly Haven](https://polyhaven.com/). CC0 models, textures up to 8K+, HDRIs up to 16K.
 - [Poly Pizza](https://poly.pizza/). Low-poly models (Google Poly archive).
 - [Polycam Explore](https://poly.cam/explore) <span class="lic-pill lic-unknown" title="No license recorded for this entry">License unspecified</span>. User-uploaded photogrammetry scans.
+- [PrintWhat](https://printwhat.app/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Search engine that queries 40 public 3D-printing and CAD model sources at once and links each result to its original listing.
 - [Quaternius's Ultimate Low-Poly Models](https://quaternius.com/index.html). Ultimate low-poly model packs (CC0).
 - [RigModels](https://rigmodels.com/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Free 3D model search engine with rigged and static models in OBJ, FBX, STL, DAE and GLB.
 - [rileyb3d Library](https://rileyb3d.com/library). Free packed .blend files ready to use.
@@ -623,6 +624,11 @@ Learning per 3D application, plus texturing and material-authoring tools. Render
 
 Notable addons extending Blender.
 
+| Software | Description | License | Tags | Best For |
+|---|---|---|---|---|
+| [AquaGuard](https://github.com/registerqd/AquaGuard-BlenderBackup) | External watchdog that keeps rotating A/B/C project snapshots and detects Blender freezes or power loss so the latest work can be reopened after a restart. | Open source | Free · Blender | Recovering work after a crash or power cut |
+
+**Related:**
 - [AnimAide](https://github.com/aresdevo/animaide). Free animation helper tools for Blender.
 - [Array Tools](https://blenderartists.org/t/array-tools-all-in-one-for-translation-scale-and-rotation-array/1170295?u=peetie). Create translation, scale and rotation arrays with offset or global parameters in any direction.
 - [Arsenal](https://katharostech.github.io/arsenal). Blender-integrated game engine written in Rust.
@@ -4227,6 +4233,7 @@ Retopology and mesh processing.
 - [RetopoFlow 3](https://superhivemarket.com/products/retopoflow) <span class="lic-pill lic-paid">Paid</span>. Blender retopology suite with sketch, contour, strip, patches, and tweak tools. Sold via Blender Market.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a></small>
 - [Smart Remesh](https://superhivemarket.com/products/smart-remesh) <span class="lic-pill lic-paid">Paid</span>. Blender retopology add-on with organic and hard-surface modes for clean quad meshes.
 - [SpeedRetopo](https://gumroad.com/l/speedretopo). Free add-on for Blender to make fast and easy retopology using Bsurface.
+- [STLFixer](https://stlfixer.io/). Browser-based STL tool for local mesh inspection, supported repairs and before-and-after geometry comparison.
 - [Topology Guides](https://topologyguides.com/). Visual reference site showing clean polygon topology layouts for common shapes and edge-flow problems.
 - [ZWrap](https://www.russian3dscanner.com/zwrap/) <span class="lic-pill lic-paid">Paid</span>. ZBrush plugin (R3DS) that auto-wraps a base topology onto a scan or sculpt. Standard for garment/character retopo.<br><small class="see-also">See also: <a href="#retopology--uv-software">Software Reference → Retopology & UV Software</a></small>
 
