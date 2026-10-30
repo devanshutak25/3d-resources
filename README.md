@@ -39,7 +39,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Textures: Premium](#textures-premium) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Professional paid texture libraries.</small>
 - [Stock Images & References](#stock-images--references) <span class="toc-count">(29 items)</span><br><small class="toc-desc">Free and public-domain stock images, and 2D references.</small>
 - [Stock Footage](#stock-footage) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Free and archival video footage sources.</small>
-- [Audio: SFX & Music Libraries](#audio-sfx--music-libraries) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
+- [Audio: SFX & Music Libraries](#audio-sfx--music-libraries) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
 - [Fonts](#fonts) <span class="toc-count">(21 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
 - [Icons](#icons) <span class="toc-count">(28 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
 - [Game Assets](#game-assets) <span class="toc-count">(43 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Also listed under Game Development.</small>
@@ -126,7 +126,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Game Dev Tools: Dialogue & Narrative](#game-dev-tools-dialogue--narrative) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Dialogue, narrative scripting, and IF tools.</small>
 - [Game Dev Tools: Audio Middleware](#game-dev-tools-audio-middleware) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Adaptive audio and spatial audio middleware.</small>
 - [Game Dev Tools: Networking & Multiplayer](#game-dev-tools-networking--multiplayer) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Multiplayer frameworks and game servers.</small>
-- [Game Dev Tools: Sprite & VFX](#game-dev-tools-sprite--vfx) <span class="toc-count">(35 items)</span><br><small class="toc-desc">Sprite animation, 2D VFX, texture packers.</small>
+- [Game Dev Tools: Sprite & VFX](#game-dev-tools-sprite--vfx) <span class="toc-count">(36 items)</span><br><small class="toc-desc">Sprite animation, 2D VFX, texture packers.</small>
 - [Game Dev Tools: AI & Procedural Generation](#game-dev-tools-ai--procedural-generation) <span class="toc-count">(6 items)</span><br><small class="toc-desc">WFC, noise, procedural pipelines, economy design.</small>
 - [Game Dev Tools: Physics Engines](#game-dev-tools-physics-engines) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Open-source physics engines.</small>
 - [Game Dev Tools: Version Control](#game-dev-tools-version-control) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Version control for binary-heavy game projects.</small>
@@ -162,11 +162,11 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 
 - [Machine Learning for CG](#machine-learning-for-cg) <span class="toc-count">(8 items)</span><br><small class="toc-desc">ML fundamentals and courses for CG artists.</small>
 - [Image Generation](#image-generation) <span class="toc-count">(23 items)</span><br><small class="toc-desc">text-to-image models and platforms.</small>
-- [Video Generation](#video-generation) <span class="toc-count">(37 items)</span><br><small class="toc-desc">AI video generation platforms and models.</small>
+- [Video Generation](#video-generation) <span class="toc-count">(38 items)</span><br><small class="toc-desc">AI video generation platforms and models.</small>
 - [3D Generation](#3d-generation) <span class="toc-count">(33 items)</span><br><small class="toc-desc">AI tools for generating 3D models from text or images.</small>
 - [Texture & Material Generation](#texture--material-generation) <span class="toc-count">(8 items)</span><br><small class="toc-desc">AI-generated PBR textures and materials.</small>
 - [ComfyUI Ecosystem](#comfyui-ecosystem) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Node-based AI generation. ComfyUI and its ecosystem.</small>
-- [AI-Assisted CG Tools](#ai-assisted-cg-tools) <span class="toc-count">(31 items)</span><br><small class="toc-desc">AI tools that augment traditional CG workflows.</small>
+- [AI-Assisted CG Tools](#ai-assisted-cg-tools) <span class="toc-count">(32 items)</span><br><small class="toc-desc">AI tools that augment traditional CG workflows.</small>
 - [AI Audio & Music](#ai-audio--music) <span class="toc-count">(14 items)</span><br><small class="toc-desc">AI music generation, voice, TTS, and SFX.</small>
 - [Open-Source Models (HuggingFace)](#open-source-models-huggingface) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Notable open-source generative models.</small>
 - [Research Papers](#research-papers) <span class="toc-count">(168 items)</span><br><small class="toc-desc">Research papers on ML for CG, generative 3D, neural rendering, and related topics. Each entry: title (the plain-English summary), year, and venue/links in the description.</small>
@@ -239,7 +239,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [AI 3D Generation Software](#ai-3d-generation-software) <span class="toc-count">(27 items)</span><br><small class="toc-desc">AI text-to-3D, image-to-3D, and 3D-asset generation tools.</small>
 - [AI Audio & Music Generation Software](#ai-audio--music-generation-software) <span class="toc-count">(12 items)</span><br><small class="toc-desc">AI music, voice, and SFX generation tools.</small>
 - [AI Motion Capture Software](#ai-motion-capture-software) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Markerless and AI-driven motion capture and pose estimation tools.</small>
-- [AI-Assisted CG Software](#ai-assisted-cg-software) <span class="toc-count">(9 items)</span><br><small class="toc-desc">AI upscaling, cleanup, generative assist, and AI-powered DCC features.</small>
+- [AI-Assisted CG Software](#ai-assisted-cg-software) <span class="toc-count">(10 items)</span><br><small class="toc-desc">AI upscaling, cleanup, generative assist, and AI-powered DCC features.</small>
 - [AI Creative Canvas Software](#ai-creative-canvas-software) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Node-based and all-in-one AI canvases that chain image, video, and 3D gen.</small>
 - [AI Design Viz Software](#ai-design-viz-software) <span class="toc-count">(8 items)</span><br><small class="toc-desc">Sketch-to-render and AI design visualization for product and architecture.</small>
 - [AI Product Photography Software](#ai-product-photography-software) <span class="toc-count">(6 items)</span><br><small class="toc-desc">AI virtual product photography and 3D digital twins for ecommerce.</small>
@@ -494,6 +494,7 @@ Free and paid SFX and music libraries for games, reels, and film.
 - [Artlist](https://artlist.io/) <span class="lic-pill lic-paid">Paid</span>. Subscription music and SFX.
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/). BBC's archive of free SFX.
 - [ccMixter](https://ccmixter.org/). Creative Commons remix community.
+- [DailySounds](https://dailysounds.org/). Free sound effects library for games, videos, and podcasts, with commercial use allowed and credit optional.
 - [Ende](https://ende.app/en). Curated free audio library.
 - [Free Music Archive](https://freemusicarchive.org/). Free music, varied licenses.
 - [Freesound](https://freesound.org/). Collaborative database of CC-licensed sounds.
@@ -2856,6 +2857,7 @@ Sprite animation, 2D VFX, texture packers.
 - [Paul Robertson](https://probertson.tumblr.com/). Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
 - [PixelCraft](https://rgab1508.github.io/PixelCraft/). Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
 - [ShoeBox](https://renderhjs.net/shoebox/). Adobe Air based app with game and ui related tools.
+- [Sprite Fusion Sprite Normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals). Rust CLI and browser tool that generates normal maps from pixel art sprites and animated sprite sheets.
 - [Sprite Sheet Maker](https://isometric8.itch.io/sprite-sheet-maker). Sprite Sheet Maker is a handy no fuss utility to pack sprites.
 - [Sprite Sheet Slicer](https://isometric8.itch.io/sprite-sheet-slicer). Sprite Sheet Slicer is a handy no fuss utility to slice sprites.
 - [SpriteLib](https://www.widgetworx.com/projects/sl.html). Collection of static and animated graphic objects (also commonly known as sprites).
@@ -3501,6 +3503,7 @@ AI video generation platforms and models.
 - [Deforum Notebook v0.5 (Stable Diffusion animation)](https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/). Deforum v0.5 notebook for Stable Diffusion animation with math automation, perspective flips, prompt weights, and video masking.
 - [Deforum Stable Diffusion Animation (Artificial Selections)](https://www.youtube.com/@ArtificialSelections). YouTube channel covering Deforum Stable Diffusion animation techniques.
 - [Emu Video (Meta)](https://emu-video.metademolab.com/). Meta's text-to-video research model. Factorized generation, image-then-video. Demos and paper.
+- [pitchboom.io](https://pitchboom.io) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Web app that turns a product URL or a short brief into motion-design video ads with script, storyboard, voice-over and music, exported as MP4 in 16:9, 9:16, 1:1, 4:5 and 3:4 (1080p, 4K on Pro and up).
 - [Stable Diffusion KLMC2 Animation](https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G). Colab notebook by @RiversHaveWings generating animation from scripted prompts via KLMC2 discretization of underdamped Langevin dynamics.
 - [Stable Diffusion KLMC2 Animation (forked)](https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb). Colab notebook for Stable Diffusion animation, forked by @DigThatData.
 
@@ -3582,18 +3585,19 @@ Node-based AI generation. ComfyUI and its ecosystem.
 
 AI tools that augment traditional CG workflows.
 
-| Software | Description | License | Tags | Best For |
-|---|---|---|---|---|
-| [Autodesk Flow Studio (Wonder Dynamics)](https://www.autodesk.com/products/flow-studio/overview) | AI VFX, auto CG characters in live footage, USD export.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> | Paid | Auto CG Chars · USD Export | AI CG characters in live plates |
-| [Blockade Labs Skybox AI](https://www.blockadelabs.com/) | AI-generated 360° skyboxes/HDRIs from text.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> | Free tier | AI Skybox · 360° | AI skyboxes/HDRIs |
-| [chaiNNer](https://chainner.app/) | Node-based desktop app that chains AI upscaling and image-processing models for batch work.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small> | Open source | Open Source · Nodes | Batch AI upscaling |
-| [Gigapixel AI](https://www.topazlabs.com/topaz-gigapixel) | AI photo enlargement that adds detail to upscaled images.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> | Paid |  | Detail-preserving upscaling |
-| [Let's Enhance](https://letsenhance.io/) | Photo upscaler up to 16x with a free tier.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> | Free tier | Photo Upscale | Photo upscaling |
-| [Magnific AI](https://magnific.ai/) | Creative upscaler that adds detail. Folded into Freepik plans Apr 2026.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> | Paid | Creative Upscale · Freepik | Creative AI upscaling |
-| [Rosebud AI](https://rosebud.ai) | Prompt-to-game builder for playable 2D and 3D browser games with editable code.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a>, <a href="#ai-creative-canvas-software">Software Reference → AI Creative Canvas Software</a></small> | Free tier | AI Game Builder · Vibe Coding |  |
-| [Topaz Photo AI / Video AI](https://www.topazlabs.com/) | Upscaling, denoising, and sharpening. Topaz Bloom adds unlimited creative upscaling.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> | Paid | Upscale · Denoise | Upscale/denoise |
-| [UneeQ Digital Humans](https://www.digitalhumans.com/) | Cloud platform for real-time interactive digital humans. | Paid |  |  |
-| [Upscayl](https://upscayl.org/) | Open-source desktop upscaler that runs locally at no cost.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> | Open source | Open Source · Local | Free local upscaling |
+| Software | Description | Pricing | License | Tags | Best For |
+|---|---|---|---|---|---|
+| [3D-Agent](https://3d-agent.com/blender-ai) | Desktop AI agent that models, textures, lights, animates and renders the open Blender scene from text prompts by writing and running Blender Python.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> | $19, $29 or $89/mo, no free tier | Paid | AI Agent | Prompt-driven Blender work |
+| [Autodesk Flow Studio (Wonder Dynamics)](https://www.autodesk.com/products/flow-studio/overview) | AI VFX, auto CG characters in live footage, USD export.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> |  | Paid | Auto CG Chars · USD Export | AI CG characters in live plates |
+| [Blockade Labs Skybox AI](https://www.blockadelabs.com/) | AI-generated 360° skyboxes/HDRIs from text.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> |  | Free tier | AI Skybox · 360° | AI skyboxes/HDRIs |
+| [chaiNNer](https://chainner.app/) | Node-based desktop app that chains AI upscaling and image-processing models for batch work.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small> |  | Open source | Open Source · Nodes | Batch AI upscaling |
+| [Gigapixel AI](https://www.topazlabs.com/topaz-gigapixel) | AI photo enlargement that adds detail to upscaled images.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> |  | Paid |  | Detail-preserving upscaling |
+| [Let's Enhance](https://letsenhance.io/) | Photo upscaler up to 16x with a free tier.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> |  | Free tier | Photo Upscale | Photo upscaling |
+| [Magnific AI](https://magnific.ai/) | Creative upscaler that adds detail. Folded into Freepik plans Apr 2026.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> |  | Paid | Creative Upscale · Freepik | Creative AI upscaling |
+| [Rosebud AI](https://rosebud.ai) | Prompt-to-game builder for playable 2D and 3D browser games with editable code.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a>, <a href="#ai-creative-canvas-software">Software Reference → AI Creative Canvas Software</a></small> |  | Free tier | AI Game Builder · Vibe Coding |  |
+| [Topaz Photo AI / Video AI](https://www.topazlabs.com/) | Upscaling, denoising, and sharpening. Topaz Bloom adds unlimited creative upscaling.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> |  | Paid | Upscale · Denoise | Upscale/denoise |
+| [UneeQ Digital Humans](https://www.digitalhumans.com/) | Cloud platform for real-time interactive digital humans. |  | Paid |  |  |
+| [Upscayl](https://upscayl.org/) | Open-source desktop upscaler that runs locally at no cost.<br><small class="see-also">See also: <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></small> |  | Open source | Open Source · Local | Free local upscaling |
 
 **Related:**
 - [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP). `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
@@ -3953,16 +3957,17 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 <h3 id="mirror-ai-assist-software" data-mirror="1" tabindex="-1">AI-Assisted CG Software</h3>
 <p class="mirror-provenance">Also in <a href="#ai-assisted-cg-software">Software Reference → AI-Assisted CG Software</a></p>
 
-| Software | Description | License | Tags | Best For |
-|---|---|---|---|---|
-| [Autodesk Flow Studio (Wonder Dynamics)](https://www.autodesk.com/products/flow-studio/overview) | AI VFX, auto CG characters in live footage, USD export. | Paid | Auto CG Chars · USD Export | AI CG characters in live plates |
-| [Blockade Labs Skybox AI](https://www.blockadelabs.com/) | AI-generated 360° skyboxes/HDRIs from text. | Free tier | AI Skybox · 360° | AI skyboxes/HDRIs |
-| [Gigapixel AI](https://www.topazlabs.com/topaz-gigapixel) | AI photo enlargement that adds detail to upscaled images. | Paid |  | Detail-preserving upscaling |
-| [Let's Enhance](https://letsenhance.io/) | Photo upscaler up to 16x with a free tier. | Free tier | Photo Upscale | Photo upscaling |
-| [Magnific AI](https://magnific.ai/) | Creative upscaler that adds detail. Folded into Freepik plans Apr 2026. | Paid | Creative Upscale · Freepik | Creative AI upscaling |
-| [Rosebud AI](https://rosebud.ai) | Prompt-to-game builder for playable 2D and 3D browser games with editable code. | Free tier | AI Game Builder · Vibe Coding |  |
-| [Topaz Photo AI / Video AI](https://www.topazlabs.com/) | Upscaling, denoising, and sharpening. Topaz Bloom adds unlimited creative upscaling. | Paid | Upscale · Denoise | Upscale/denoise |
-| [Upscayl](https://upscayl.org/) | Open-source desktop upscaler that runs locally at no cost. | Open source | Open Source · Local | Free local upscaling |
+| Software | Description | Pricing | License | Tags | Best For |
+|---|---|---|---|---|---|
+| [3D-Agent](https://3d-agent.com/blender-ai) | Desktop AI agent that models, textures, lights, animates and renders the open Blender scene from text prompts by writing and running Blender Python. | $19, $29 or $89/mo, no free tier | Paid | AI Agent | Prompt-driven Blender work |
+| [Autodesk Flow Studio (Wonder Dynamics)](https://www.autodesk.com/products/flow-studio/overview) | AI VFX, auto CG characters in live footage, USD export. |  | Paid | Auto CG Chars · USD Export | AI CG characters in live plates |
+| [Blockade Labs Skybox AI](https://www.blockadelabs.com/) | AI-generated 360° skyboxes/HDRIs from text. |  | Free tier | AI Skybox · 360° | AI skyboxes/HDRIs |
+| [Gigapixel AI](https://www.topazlabs.com/topaz-gigapixel) | AI photo enlargement that adds detail to upscaled images. |  | Paid |  | Detail-preserving upscaling |
+| [Let's Enhance](https://letsenhance.io/) | Photo upscaler up to 16x with a free tier. |  | Free tier | Photo Upscale | Photo upscaling |
+| [Magnific AI](https://magnific.ai/) | Creative upscaler that adds detail. Folded into Freepik plans Apr 2026. |  | Paid | Creative Upscale · Freepik | Creative AI upscaling |
+| [Rosebud AI](https://rosebud.ai) | Prompt-to-game builder for playable 2D and 3D browser games with editable code. |  | Free tier | AI Game Builder · Vibe Coding |  |
+| [Topaz Photo AI / Video AI](https://www.topazlabs.com/) | Upscaling, denoising, and sharpening. Topaz Bloom adds unlimited creative upscaling. |  | Paid | Upscale · Denoise | Upscale/denoise |
+| [Upscayl](https://upscayl.org/) | Open-source desktop upscaler that runs locally at no cost. |  | Open source | Open Source · Local | Free local upscaling |
 
 
 <h3 id="mirror-ai-canvas-software" data-mirror="1" tabindex="-1">AI Creative Canvas Software</h3>
@@ -6104,16 +6109,17 @@ Markerless and AI-driven motion capture and pose estimation tools.
 
 AI upscaling, cleanup, generative assist, and AI-powered DCC features.
 
-| Software | Description | License | Tags | Best For |
-|---|---|---|---|---|
-| [Autodesk Flow Studio (Wonder Dynamics)](https://www.autodesk.com/products/flow-studio/overview) | AI VFX, auto CG characters in live footage, USD export.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> | Paid | Auto CG Chars · USD Export | AI CG characters in live plates |
-| [Blockade Labs Skybox AI](https://www.blockadelabs.com/) | AI-generated 360° skyboxes/HDRIs from text.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> | Free tier | AI Skybox · 360° | AI skyboxes/HDRIs |
-| [Gigapixel AI](https://www.topazlabs.com/topaz-gigapixel) | AI photo enlargement that adds detail to upscaled images.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> | Paid |  | Detail-preserving upscaling |
-| [Let's Enhance](https://letsenhance.io/) | Photo upscaler up to 16x with a free tier.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> | Free tier | Photo Upscale | Photo upscaling |
-| [Magnific AI](https://magnific.ai/) | Creative upscaler that adds detail. Folded into Freepik plans Apr 2026.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> | Paid | Creative Upscale · Freepik | Creative AI upscaling |
-| [Rosebud AI](https://rosebud.ai) | Prompt-to-game builder for playable 2D and 3D browser games with editable code.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a>, <a href="#ai-creative-canvas-software">Software Reference → AI Creative Canvas Software</a></small> | Free tier | AI Game Builder · Vibe Coding |  |
-| [Topaz Photo AI / Video AI](https://www.topazlabs.com/) | Upscaling, denoising, and sharpening. Topaz Bloom adds unlimited creative upscaling.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> | Paid | Upscale · Denoise | Upscale/denoise |
-| [Upscayl](https://upscayl.org/) | Open-source desktop upscaler that runs locally at no cost.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> | Open source | Open Source · Local | Free local upscaling |
+| Software | Description | Pricing | License | Tags | Best For |
+|---|---|---|---|---|---|
+| [3D-Agent](https://3d-agent.com/blender-ai) | Desktop AI agent that models, textures, lights, animates and renders the open Blender scene from text prompts by writing and running Blender Python.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> | $19, $29 or $89/mo, no free tier | Paid | AI Agent | Prompt-driven Blender work |
+| [Autodesk Flow Studio (Wonder Dynamics)](https://www.autodesk.com/products/flow-studio/overview) | AI VFX, auto CG characters in live footage, USD export.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> |  | Paid | Auto CG Chars · USD Export | AI CG characters in live plates |
+| [Blockade Labs Skybox AI](https://www.blockadelabs.com/) | AI-generated 360° skyboxes/HDRIs from text.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> |  | Free tier | AI Skybox · 360° | AI skyboxes/HDRIs |
+| [Gigapixel AI](https://www.topazlabs.com/topaz-gigapixel) | AI photo enlargement that adds detail to upscaled images.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> |  | Paid |  | Detail-preserving upscaling |
+| [Let's Enhance](https://letsenhance.io/) | Photo upscaler up to 16x with a free tier.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> |  | Free tier | Photo Upscale | Photo upscaling |
+| [Magnific AI](https://magnific.ai/) | Creative upscaler that adds detail. Folded into Freepik plans Apr 2026.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> |  | Paid | Creative Upscale · Freepik | Creative AI upscaling |
+| [Rosebud AI](https://rosebud.ai) | Prompt-to-game builder for playable 2D and 3D browser games with editable code.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a>, <a href="#ai-creative-canvas-software">Software Reference → AI Creative Canvas Software</a></small> |  | Free tier | AI Game Builder · Vibe Coding |  |
+| [Topaz Photo AI / Video AI](https://www.topazlabs.com/) | Upscaling, denoising, and sharpening. Topaz Bloom adds unlimited creative upscaling.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> |  | Paid | Upscale · Denoise | Upscale/denoise |
+| [Upscayl](https://upscayl.org/) | Open-source desktop upscaler that runs locally at no cost.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small> |  | Open source | Open Source · Local | Free local upscaling |
 
 **Related:**
 - [MCP for Blender](https://github.com/ahujasid/mcp-for-blender). MCP server that lets Claude and other LLM clients control Blender: build scenes, edit objects, run Python.<br><small class="see-also">See also: <a href="#ai-assisted-cg-tools">AI & Machine Learning for CG → AI-Assisted CG Tools</a></small>
