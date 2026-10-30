@@ -108,7 +108,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [After Effects: Learning & Templates](#after-effects-learning--templates) <span class="toc-count">(2 items)</span><br><small class="toc-desc">AE expressions, templates, and workflow resources.</small>
 - [Fusion (DaVinci Resolve): Learning](#fusion-davinci-resolve-learning) <span class="toc-count">(2 items)</span><br><small class="toc-desc">Fusion references and EXR workflow.</small>
 - [Motion Graphics: Inspiration](#motion-graphics-inspiration) <span class="toc-count">(30 items)</span><br><small class="toc-desc">Showcases, style frames, title sequences, ad references.</small>
-- [Motion Graphics: Tools & Utilities](#motion-graphics-tools--utilities) <span class="toc-count">(24 items)</span><br><small class="toc-desc">MG-specific tools and utilities.</small>
+- [Motion Graphics: Tools & Utilities](#motion-graphics-tools--utilities) <span class="toc-count">(25 items)</span><br><small class="toc-desc">MG-specific tools and utilities.</small>
 
 </details>
 
@@ -1871,6 +1871,7 @@ MG-specific tools and utilities.
 | [Red Giant Complete](https://www.maxon.net/en/red-giant) | Maxon-owned VFX/motion suite. Trapcode, Magic Bullet, VFX Suite, Universe.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a></small> | $85/mo or $639/yr | Paid | Plugin Suite · Motion Graphics | Motion graphics and VFX in AE/Premiere/Resolve |
 | [Resolume](https://resolume.com/software) | Live visuals and VJ software.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a></small> |  | Paid | VJ · Live Visuals | VJ, live visuals |
 | [TouchDesigner](https://derivative.ca/) | Node-based real-time visual programming for interactive media, installations, and live visuals.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a></small> |  | Free tier | Real-time · Node-based | Interactive installations, live visuals, projection mapping |
+| [WeMotion](https://wemotion.ai/) | Apple silicon Mac app where you describe a motion graphics film and an AI designer built on Claude builds it as editable layers and keyframes, with MP4 export up to 4K 60 fps. | Free app; needs an Anthropic API key, or Claude Pro or Max | Free | Motion Design · AI | Launch films and title sequences from a text brief |
 
 **Related:**
 - [Caddis](https://www.caddis.app/) <span class="lic-pill lic-paid">Paid</span>. Motion design app with layer timeline and node compositing.
