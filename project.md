@@ -14,6 +14,7 @@ This file is the canonical brief for the repo. It supersedes scattered docs wher
 - A live static site: `https://3d.devanshutak.xyz` (Cloudflare Pages).
 - An `llms.txt` + `llms-full.txt` feed for AI crawlers (ChatGPT, Perplexity, Claude).
 - An Atom feed (`feed.xml`) + sitemap + per-section indexable pages.
+- A studios directory at `/studios/` (754 animation/VFX/motion/CG/game/viz/XR studios, 2026-10-31), separate dataset (§4b).
 
 It is NOT a tutorial blog, not a news site, not a personal portfolio. It is a fast index for professionals to look up tools, asset sources, channels, books, hardware, services, and learning resources.
 
@@ -50,11 +51,13 @@ Secondary:
 │   ├── sections.yml           # Ordered list of 12 sections + featured picks.
 │   ├── aliases.yml            # Search aliases (catalog.loadAliases()).
 │   ├── awesome-sources.yml    # Awesome-lists credited in the README footer (catalog.loadAwesomeSources()).
+│   ├── studios/NN-studios.yml # Studios directory: { studios: [...] }, ≤50 each. NOT catalog entries (see §4b).
 │   ├── NN-<section>.yml       # Section metadata + subsection list (slug, title, description, chunks). No entries.
 │   └── NN-<section>/<sub>/NN-<sub>.yml   # Chunks: { entries: [...] }, ≤50 each (ADR-0001).
 │
 ├── schema/
 │   ├── entry.schema.json      # JSON Schema 2020-12 for entries (url must match ^https?://).
+│   ├── studio.schema.json     # Studio record schema (closed disciplines/size enums).
 │   └── vocab.yml              # Closed enums + curated tech list.
 │
 ├── scripts/
@@ -72,6 +75,7 @@ Secondary:
 │   ├── run-tests.js           # Runs every scripts/lib/*.test.js (npm test).
 │   ├── render.js              # data/ -> README.md (full; --mode=lite unwired; --link-mode=pages for /sections/).
 │   ├── validate.js            # Schema + vocab + duplicate checks. CI gate.
+│   ├── build-studios-page.js  # data/studios/ -> _site/studios/index.html (lib/studios.js: labels, country->region, card ids).
 │   ├── build-html.js, build-og-images.js, build-section-pages.js, build-tag-pages.js,
 │   │   export-data.js, build-search-index.js, build-graph.js, build-llms-txt.js,
 │   │   build-feed.js, build-sitemap.js           # Site build steps (§6).
@@ -150,6 +154,27 @@ Link scans never change `deprecated`: that is an editorial decision. HTTP 5xx/40
 `pricing_last_verified` — `check-pricing-freshness.js`.
 `stale`, `archived`, `last_pushed` — `check-repo-staleness.js`.
 
+## 4b. Studios directory (`/studios/`)
+
+Separate dataset, not catalog entries (decision 2026-10-31: studios aren't resources and span disciplines).
+- Files: `data/studios/NN-studios.yml` (`{ studios: [...] }`, ≤50 each). Read/write via
+  `catalog.loadStudios()` / `loadStudioChunks()` / `appendStudio()` / `saveStudioChunk()`.
+- Required: `name`, `url`, `description` (≤200), `hq{city?,country}`, `disciplines[]`, `added_at`.
+  Optional: `offices[]`, `size` (`boutique` ≤20 / `mid` 21-150 / `large` 150+), `founded`, `careers`,
+  `reel`, `notable[]` (≤4), `social{instagram,linkedin,vimeo,youtube,x,behance,artstation}`,
+  `url_status`, `url_last_verified`, `notes`.
+- `disciplines` (closed, 17): `animation`, `stop-motion`, `vfx`, `motion-design`, `cg`, `archviz`,
+  `product-viz`, `games`, `cinematics`, `virtual-production`, `previs`, `xr`, `experiential`,
+  `title-design`, `live-action`, `outsourcing`, `mocap`. Labels in `scripts/lib/studios.js`
+  (studios.test.js asserts schema == labels). Same no-invent rule as catalog enums.
+- `country` must be in `COUNTRY_REGION` (`scripts/lib/studios.js`), closed so the filter never splits
+  "UK"/"United Kingdom". Adding a country there is fine (it is a lookup table, not a taxonomy).
+- validate.js: schema, unknown country, chunk cap, duplicate url (error), duplicate name (warning),
+  em-dash/banned words in description (error).
+- check-links.js scans studios with catalog entries (monthly).
+- Active studios only. Locations must be verified on the studio's own site or LinkedIn/press. The School of
+  Motion ebook scrambles many locations (it put Blur Studio in Istanbul), so its HQs were never trusted alone.
+
 ## 5. Data flow
 
 ```
@@ -184,6 +209,7 @@ Full run ~12 s (was ~4 min before the 2026-10-05 render index). Order:
 5. `build-section-pages.js` -> `/sections/` hub + 12 section + 150 subsection pages (thin ones noindex). Renders in-process with link mode `pages`.
 6. `export-data.js` -> `_site/data.json` (one row per subsection+url).
 7. `build-tag-pages.js` -> `/tags/` hub + per-tag pages.
+7b. `build-studios-page.js` -> `/studios/` (one page, server-rendered cards, `assets/js/studios.js` filters).
 8. MiniSearch UMD copy + `build-search-index.js`.
 9. `build-graph.js` + `graph.html` copy.
 10. `build-llms-txt.js` -> llms.txt + llms-full.txt.
@@ -238,7 +264,7 @@ must not read anything gitignored: CI renders from a clean checkout and render-r
 
 Single source: `assets/js/analytics.js`. Loaded `<script defer>` by `build-html.js` (index) and `scripts/lib/page-shell.js` (all generated section/subsection/tag/hub pages) — 287 pages total. Mixpanel init is deferred to `requestIdleCallback` so it never competes with first paint (pub_plan §1.4); do not move it inline or un-defer it.
 
-**Page context:** `<body data-page-type=… data-section=… data-subsection=… data-tag-group=… data-tag-value=…>`, emitted by `analyticsAttrs()` in `page-shell.js` from the `analyticsContext` param. `page_type` ∈ `catalog | section | subsection | tag | sections-hub | tags-hub`. Any new `pageShell()` call site MUST pass `analyticsContext` or its events land as `page_type: unknown`.
+**Page context:** `<body data-page-type=… data-section=… data-subsection=… data-tag-group=… data-tag-value=…>`, emitted by `analyticsAttrs()` in `page-shell.js` from the `analyticsContext` param. `page_type` ∈ `catalog | section | subsection | tag | sections-hub | tags-hub | studios`. Studios page emits `search` and `filter_apply` with `group: studio_d | studio_size | studio_loc | studio_careers`. Any new `pageShell()` call site MUST pass `analyticsContext` or its events land as `page_type: unknown`.
 
 **Rule:** page context is merged per-event, never `mixpanel.register()` — super properties persist in a cookie and leak the previous page's section onto the next.
 
@@ -265,6 +291,7 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 - License pills: Paid / Free tier / Mixed / "Free, non-commercial" / "License unspecified" (the last only on software, tool, plugin, asset-source, marketplace, service, book, hardware). Free and Open source get no pill. Tables say "Unspecified"; prices carry `title="Pricing checked …"`.
 - Mobile tables stack into labelled cards via `data-label` (`scripts/lib/table-labels.js`); root font stays 16px on phones. TOC clicks preserve active search + filters (do not clear).
 - Per-section OG images with `: ` two-line layout.
+- `/studios/`: text cards in an auto-fill grid (name, HQ, discipline pills, size/est., one line, notable, offices, Site/Careers/Reel + social text links). No logos (hosting/trademark/rot). Filter form is `hidden` until `studios.js` runs, so no-JS visitors get the full list.
 - Material Design Icons via CDN (subset).
 - Back-to-top button (visible after 600 px scroll).
 - "Edit on GitHub" pill in each section H2.
@@ -305,6 +332,14 @@ left open, remove when done.
 - Ameede file provenance unverified (user accepted the flag, 2026-09-15).
 - Motion Design School Discord entry shares the school's site URL (user: leave as-is, 2026-06-16).
 - §07 workflow coverage is 27% by design: gameplay code, networking, UI and similar have no workflow value.
+
+**Studios directory (built 2026-10-31, see §4b + CHANGELOG):**
+- 754 studios. Goal is every studio worldwide: next batches = more regions (China, LatAm, Africa,
+  Middle East, SE Asia are thin) and thin disciplines (previs 6, mocap 12, outsourcing 17, VP 22).
+- Low-confidence HQs are country-only (29 studios have no city). Sila Sveta, MIR, Beauty and the Bit,
+  Frogwares, Light Chaser (http-only) were skipped as unverifiable; retry later.
+- Page is 1.2 MB raw (126 KB gz) at 754 cards. Past ~3,000 cards switch to JSON + client render.
+- Not verified on a real phone (headless Chrome floors the viewport at 504 px).
 
 **Site / UX:**
 - UX deferrals: UX-03 desktop category sidebar, UX-04 host-software facet, UX-39 performance budget.

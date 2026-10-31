@@ -118,10 +118,43 @@ function validateDuplicates() {
 
 const { canonicalUrl: normalizeUrl } = require('./lib/canonical-url');
 
+// Studios directory (data/studios/). Own schema; country must be in the closed
+// COUNTRY_REGION list; descriptions follow the CLAUDE.md writing rules.
+const BANNED = /—|\b(comprehensive|robust|powerful|seamless(ly)?|leverag(e|es|ed|ing)|utiliz(e|es|ed|ing)|cutting-edge|state-of-the-art|the ultimate|game-changing|unleash)\b|\b(and more|and beyond|and so much more)\.?$/i;
+
+function validateStudios() {
+  const { COUNTRY_REGION } = require('./lib/studios');
+  const ajv = new Ajv({ allErrors: true, strict: false });
+  addFormats(ajv);
+  const validate = ajv.compile(JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'schema', 'studio.schema.json'), 'utf8')));
+  const urls = new Map();
+  const names = new Map();
+  for (const { file, studios } of catalog.loadStudioChunks()) {
+    if (studios.length > catalog.CHUNK_CAP) errors.push(`studios/${file}: ${studios.length} studios (cap ${catalog.CHUNK_CAP})`);
+    for (const s of studios) {
+      const loc = `studios/${file} :: ${s.name || s.url}`;
+      if (!validate(s)) {
+        for (const err of validate.errors) errors.push(`${loc}: ${err.instancePath} ${err.message}`);
+      }
+      for (const p of [s.hq, ...(s.offices || [])]) {
+        if (p && p.country && !COUNTRY_REGION[p.country]) errors.push(`${loc}: unknown country "${p.country}" (add it to scripts/lib/studios.js)`);
+      }
+      if (BANNED.test(s.description || '')) errors.push(`${loc}: description breaks writing rules (em-dash or banned phrase)`);
+      const u = normalizeUrl(s.url);
+      if (urls.has(u)) errors.push(`${loc}: duplicate url (also ${urls.get(u)})`);
+      urls.set(u, loc);
+      const n = String(s.name || '').toLowerCase();
+      if (names.has(n)) warnings.push(`${loc}: duplicate name (also ${names.get(n)})`);
+      names.set(n, loc);
+    }
+  }
+}
+
 function main() {
   validateSchema();
   validateVocab();
   validateDuplicates();
+  validateStudios();
 
   if (warnings.length) {
     console.log(`\n⚠ Warnings (${warnings.length}):`);

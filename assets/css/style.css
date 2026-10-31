@@ -1301,6 +1301,108 @@ h2 .edit-on-gh .mdi {
 .tag-entry-where { color: var(--text-subtle); font-size: 0.85em; }
 .tag-entry-where a { color: var(--text-muted); }
 
+/* ---------- Studios directory (/studios/) ---------- */
+.studio-intro { color: var(--text-muted); max-width: 70ch; }
+.studio-credit { color: var(--text-subtle); font-size: 0.85rem; margin-top: -0.4rem; }
+.studio-credit a { color: var(--text-muted); }
+.studio-filters {
+  margin: 1rem 0 1.25rem;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--bg-secondary);
+}
+.studio-filters input[type="search"] {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.55rem 0.75rem;
+  margin-bottom: 0.4rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text);
+  font-size: 1rem;
+}
+.studio-filters input[type="search"]:focus { outline: none; border-color: var(--accent); }
+.studio-filters select {
+  max-width: 100%;
+  padding: 0.3rem 0.5rem;
+  background: var(--bg-tertiary);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+.studio-filters .filter-chip small { color: inherit; opacity: 0.7; margin-left: 0.15rem; }
+.studio-filter-foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin-top: 0.6rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.85rem;
+}
+.studio-careers { color: var(--text-muted); cursor: pointer; }
+.studio-count { margin: 0; color: var(--text-subtle); margin-left: auto; }
+.studio-clear {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  border-radius: 999px;
+  padding: 0.15rem 0.7rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+.studio-clear:hover { color: var(--text); border-color: var(--accent); }
+.studio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 0.9rem;
+}
+.studio-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.9rem 1rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+.studio-card:hover, .studio-card:focus-within { transform: translateY(-2px); border-color: var(--accent); }
+.studio-card[hidden] { display: none; }
+.studio-card p { margin: 0; }
+.studio-head { display: flex; justify-content: space-between; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; }
+.studio-name { font-size: 1.05rem; line-height: 1.3; margin: 0; border-bottom: 0; padding-bottom: 0; }
+.studio-name a { color: var(--bold); text-decoration: none; }
+.studio-name a:hover { color: var(--link); text-decoration: underline; }
+.studio-loc { color: var(--text-subtle); font-size: 0.8rem; text-align: right; }
+.studio-meta { display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; }
+.disc-pill {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.05rem 0.5rem;
+  border-radius: 999px;
+  background: rgba(56, 139, 253, 0.12);
+  color: var(--link);
+}
+.studio-fact { font-size: 0.75rem; color: var(--text-subtle); }
+.studio-fact + .studio-fact::before, .disc-pill + .studio-fact::before { content: "·"; margin-right: 0.3rem; }
+.studio-desc { color: var(--text); font-size: 0.9rem; }
+.studio-notable, .studio-offices { color: var(--text-muted); font-size: 0.82rem; }
+.studio-notable span, .studio-offices span { color: var(--text-subtle); }
+.studio-links { display: flex; flex-wrap: wrap; gap: 0.25rem 0.8rem; margin-top: auto !important; padding-top: 0.3rem; font-size: 0.82rem; }
+.studio-links a { color: var(--text-muted); text-decoration: none; }
+.studio-links a:hover { color: var(--link); text-decoration: underline; }
+.studio-links .mdi { margin-right: 0.2rem; }
+.studio-empty { color: var(--text-muted); text-align: center; padding: 2rem 0; }
+@media (max-width: 768px) {
+  .studio-grid { grid-template-columns: 1fr; }
+  .studio-filters .filter-row { grid-template-columns: 1fr; gap: 0.3rem; }
+}
+
 /* ---------- SSR filter shell (replaced by filter.js on hydration) ---------- */
 #filter-shell {
   margin: 1rem 0 1.25rem;

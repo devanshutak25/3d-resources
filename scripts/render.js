@@ -277,7 +277,7 @@ function header() {
     '',
     '> 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)**. Search and filter by License · Platform · Workflow · Output.',
     '',
-    `Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Suggest a resource](${SUGGEST_URL}) · [Contribute](${CONTRIBUTING_URL})`,
+    `Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Suggest a resource](${SUGGEST_URL}) · [Contribute](${CONTRIBUTING_URL}) · [Studios directory](${SITE_BASE}/studios/)`,
     '',
     `> <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](${REPO_URL}/issues/new?template=report-broken-link.yml).`,
     '<!-- /only:readme -->',
@@ -286,7 +286,7 @@ function header() {
     '',
     '<p class="site-tagline">Curated catalog of 3D software, assets, tutorials and tools. Search below or browse by section.</p>',
     '',
-    `<p class="site-meta">Curated by <a href="https://devanshutak.xyz">Devanshu Tak</a> · <a href="${SUGGEST_URL}">Suggest a resource</a> · <a href="${CONTRIBUTING_URL}">Contribute</a> · <a href="/graph">Explore the graph</a></p>`,
+    `<p class="site-meta">Curated by <a href="https://devanshutak.xyz">Devanshu Tak</a> · <a href="${SUGGEST_URL}">Suggest a resource</a> · <a href="${CONTRIBUTING_URL}">Contribute</a> · <a href="/graph">Explore the graph</a> · <a href="/studios/">Studios directory</a></p>`,
     '-->',
     '',
     // Blank line so the HTML block above cannot swallow the next heading.

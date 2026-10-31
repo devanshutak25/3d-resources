@@ -10,7 +10,7 @@
 
 > 🔍 **Looking for something specific?** Use the interactive site at **[3d.devanshutak.xyz](https://3d.devanshutak.xyz)**. Search and filter by License · Platform · Workflow · Output.
 
-Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues/new?template=suggest-resource.yml) · [Contribute](https://github.com/devanshutak25/3d-resources/blob/main/CONTRIBUTING.md)
+Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Suggest a resource](https://github.com/devanshutak25/3d-resources/issues/new?template=suggest-resource.yml) · [Contribute](https://github.com/devanshutak25/3d-resources/blob/main/CONTRIBUTING.md) · [Studios directory](https://3d.devanshutak.xyz/studios/)
 
 > <span aria-hidden="true">⚠️</span> **Heads up:** links rot, licenses drift, prices age. Flag anything off via [GitHub](https://github.com/devanshutak25/3d-resources/issues/new?template=report-broken-link.yml).
 <!-- /only:readme -->
@@ -19,7 +19,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 
 <p class="site-tagline">Curated catalog of 3D software, assets, tutorials and tools. Search below or browse by section.</p>
 
-<p class="site-meta">Curated by <a href="https://devanshutak.xyz">Devanshu Tak</a> · <a href="https://github.com/devanshutak25/3d-resources/issues/new?template=suggest-resource.yml">Suggest a resource</a> · <a href="https://github.com/devanshutak25/3d-resources/blob/main/CONTRIBUTING.md">Contribute</a> · <a href="/graph">Explore the graph</a></p>
+<p class="site-meta">Curated by <a href="https://devanshutak.xyz">Devanshu Tak</a> · <a href="https://github.com/devanshutak25/3d-resources/issues/new?template=suggest-resource.yml">Suggest a resource</a> · <a href="https://github.com/devanshutak25/3d-resources/blob/main/CONTRIBUTING.md">Contribute</a> · <a href="/graph">Explore the graph</a> · <a href="/studios/">Studios directory</a></p>
 -->
 
 ## Contents

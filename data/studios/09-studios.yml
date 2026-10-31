@@ -1,0 +1,970 @@
+studios:
+  - name: Taiko Studios
+    url: https://www.taikostudios.com/
+    description: Animation studio in Los Angeles and Wuhan handling content development, character design and full production for brands and entertainment.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - animation
+    careers: https://www.taikostudios.com/jobs.html
+    social:
+      instagram: https://www.instagram.com/taikostudios/
+      linkedin: https://www.linkedin.com/company/taiko-studios/
+      vimeo: https://vimeo.com/taikostudios
+      youtube: https://www.youtube.com/channel/UCjvP64z2lwhme67wZq0wZDw
+      x: https://twitter.com/TAIKOStudios
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: TAVO STUDIO
+    url: https://tavo.studio/
+    description: Madrid CGI studio making art direction and 3D motion for beauty and lifestyle brands.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - cg
+      - product-viz
+      - motion-design
+    notable:
+      - MartiDerm
+      - Givenchy
+    social:
+      instagram: https://www.instagram.com/tavo_studio/
+      linkedin: https://www.linkedin.com/company/tavo
+      vimeo: https://vimeo.com/tavostudio
+      x: https://twitter.com/tavo_studio
+      behance: https://www.behance.net/tavo_
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Taxfreefilm
+    url: https://www.taxfreefilm.net/
+    description: Parma production studio making CGI and motion design commercials for fashion, luxury and food brands.
+    hq:
+      city: Parma
+      country: Italy
+    disciplines:
+      - cg
+      - motion-design
+    notable:
+      - Bulgari
+      - Fendi
+      - McDonald's
+    social:
+      instagram: https://www.instagram.com/taxfreefilm/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: TEF Studio
+    url: https://www.tefstudio.tv/
+    description: Lisbon 3D design and animation studio making surreal product visuals and experimental films.
+    hq:
+      city: Lisbon
+      country: Portugal
+    disciplines:
+      - cg
+      - product-viz
+    notable:
+      - Philippe Starck
+      - Volkswagen
+    social:
+      instagram: https://www.instagram.com/tef_studio/
+      linkedin: https://www.linkedin.com/company/tef-studio/
+      behance: https://www.behance.net/studiotef
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tektura Studio
+    url: https://www.tektura.studio/
+    description: Łódź CGI and mixed media studio, founded by two former architects, making campaign visuals for global brands.
+    hq:
+      city: Łódź
+      country: Poland
+    disciplines:
+      - cg
+      - product-viz
+    notable:
+      - Adidas
+      - McDonald's
+      - Volvo
+    social:
+      instagram: https://www.instagram.com/tektura.studio/
+      linkedin: https://www.linkedin.com/company/tekturastudiocgi/
+      vimeo: https://vimeo.com/tektura
+      behance: https://www.behance.net/tekturastudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tendril
+    url: https://tendril.studio/
+    description: Toronto and São Paulo creative studio using design, animation, VFX and AR/XR to tell brand stories.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - motion-design
+      - animation
+      - xr
+      - vfx
+    offices:
+      - city: São Paulo
+        country: Brazil
+    careers: https://tendril.studio/careers
+    social:
+      instagram: https://instagram.com/studiotendril
+      linkedin: https://www.linkedin.com/company/tendril-studio/
+      vimeo: https://vimeo.com/tendril
+      behance: https://www.behance.net/tendril
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Territory Studio
+    url: https://territorystudio.com/
+    description: London studio making screen graphics, sci-fi interfaces and VFX for film, TV and brands, with teams in San Francisco and Barcelona.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - motion-design
+    offices:
+      - city: Barcelona
+        country: Spain
+      - city: San Francisco, CA
+        country: United States
+    careers: https://territorystudio.com/jobs/
+    social:
+      instagram: https://www.instagram.com/territorystudio/
+      linkedin: https://www.linkedin.com/company/territory-studio/
+      vimeo: https://vimeo.com/territorystudio
+      youtube: https://www.youtube.com/channel/UChduH22XZY3rxQGHT4QFF0w
+      x: https://x.com/territorystudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Animation Guys
+    url: https://www.theanimationguys.com/
+    description: London animation company making 2D, 3D and motion graphics for ads, tutorials and social content.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - animation
+      - motion-design
+    notable:
+      - Absolut Vodka
+      - Superdrug
+    social:
+      instagram: https://www.instagram.com/theanimationguys
+      linkedin: https://www.linkedin.com/company/the-animation-guys
+      x: https://twitter.com/animationguys
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Collected Works
+    url: https://www.thecollectedworks.com/
+    description: Independent design studio in New York and New Orleans making brand identities, motion, 3D and UI design.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - motion-design
+      - cg
+    notable:
+      - Expensify
+      - Dropbox
+      - PRINT Magazine
+    social:
+      instagram: https://instagram.com/thecollectedworks
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Colonie
+    url: https://www.thecolonie.com/
+    description: Woman-owned Chicago post studio doing motion design, VFX and editorial for commercials, branded and unscripted content.
+    hq:
+      city: Chicago, IL
+      country: United States
+    disciplines:
+      - motion-design
+      - vfx
+    notable:
+      - Abbott
+      - Disney
+      - Meta
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Famous Group
+    url: https://thefamousgroup.com/
+    description: Los Angeles creative technology company making mixed reality, motion graphics and fan experiences for live sports and events.
+    hq:
+      city: Culver City, CA
+      country: United States
+    disciplines:
+      - experiential
+      - xr
+      - motion-design
+    notable:
+      - Super Bowl
+      - NFL
+      - ESPN
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Frank Barton Company
+    url: https://www.thefrankbartoncompany.com/
+    description: Madrid animation and VFX studio making character animation and CG creatures for brands and agencies.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - animation
+      - vfx
+      - cg
+    size: boutique
+    notable:
+      - Audi
+      - ING
+      - O2
+    social:
+      instagram: https://www.instagram.com/the_frank_barton_company/
+      linkedin: https://www.linkedin.com/company/the-frank-barton-company
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Furrow
+    url: https://thefurrow.tv/
+    description: Lexington animation studio assembling custom creative teams for brand campaigns across many styles.
+    hq:
+      city: Lexington, KY
+      country: United States
+    disciplines:
+      - animation
+      - motion-design
+    notable:
+      - Google
+    social:
+      instagram: https://www.instagram.com/thefurrow/
+      linkedin: https://www.linkedin.com/company/thefurrow
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Heist Studio
+    url: https://theheist.com/
+    description: Design-led studio in the Thinkingbox network making motion design, 3D animation, VFX and live action for brands.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - motion-design
+      - live-action
+      - vfx
+    offices:
+      - city: Toronto
+        country: Canada
+      - city: Chicago, IL
+        country: United States
+      - city: Culver City, CA
+        country: United States
+    careers: https://theheist.com/careers
+    reel: https://theheist.com/work/heist-motion-reel
+    social:
+      instagram: https://www.instagram.com/the.heist.tbx/
+      linkedin: https://www.linkedin.com/company/theheist/
+      vimeo: https://vimeo.com/theheistfilms
+      behance: https://www.behance.net/theheist
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Hive Studio
+    url: https://thehivepro.com/
+    description: Tel Aviv animation studio making series, features and commercials in 2D, 3D and arthouse styles.
+    hq:
+      city: Tel Aviv
+      country: Israel
+    disciplines:
+      - animation
+    size: mid
+    notable:
+      - Letter to a Pig
+    social:
+      instagram: https://www.instagram.com/thehivepro/
+      linkedin: https://www.linkedin.com/company/thehivestudio/
+      vimeo: https://vimeo.com/thehivepro
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: THE LINE Studio
+    url: https://thelinestudio.com/
+    description: East London animation studio making 2D and 3D work for commercials, music videos, games and original projects.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - animation
+    founded: 2013
+    notable:
+      - Gucci
+      - Mercedes-Benz
+      - Channel 4
+    social:
+      instagram: https://www.instagram.com/thelineanimation/
+      linkedin: https://www.linkedin.com/company/the-line-studio/
+      x: https://x.com/thelinestudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Mill
+    url: https://www.themill.com/
+    description: Global VFX and creative studio with teams in London, Paris and Liège making brand content, film and series.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - live-action
+      - motion-design
+      - xr
+    offices:
+      - city: Paris
+        country: France
+      - city: Liège
+        country: Belgium
+    size: large
+    notable:
+      - Cartier
+      - Bvlgari
+    social:
+      linkedin: https://www.linkedin.com/company/the-mill/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Operators Creative
+    url: https://www.theoperators.net/
+    description: London studio mixing film, photography, CGI and animation for product films and title sequences.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - live-action
+      - animation
+      - title-design
+    notable:
+      - Roli
+      - Bowers & Wilkins
+      - Casio
+    social:
+      instagram: https://www.instagram.com/the_operators/
+      linkedin: https://www.linkedin.com/company/the-operators
+      x: https://twitter.com/The_Operators
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Sequence Group
+    url: https://thesequencegroup.com/
+    description: Vancouver design, animation and VFX studio making ads, title sequences, game cinematics and motion comics.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - motion-design
+      - title-design
+      - cinematics
+      - vfx
+    careers: https://thesequencegroup.com/jobs
+    social:
+      instagram: https://www.instagram.com/thesequencegroup/
+      linkedin: https://www.linkedin.com/company/sequence-post
+      vimeo: https://vimeo.com/sequence
+      x: https://x.com/theseqgroup
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Thinkmojo
+    url: https://thinkmojo.com/
+    description: San Francisco video and motion studio making product explainers and campaign videos for tech brands.
+    hq:
+      city: San Francisco, CA
+      country: United States
+    disciplines:
+      - motion-design
+    careers: https://thinkmojo.com/jobs
+    notable:
+      - Google
+      - Slack
+      - Salesforce
+    social:
+      instagram: https://www.instagram.com/thinkmojo
+      linkedin: https://www.linkedin.com/company/thinkmojo/
+      vimeo: https://vimeo.com/thinkmojo
+      x: https://twitter.com/thinkmojo
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tic Motion Studio
+    url: https://ticmotionstudio.com/
+    description: Beirut motion design studio making brand animation, music videos and cultural projects from concept to delivery.
+    hq:
+      city: Beirut
+      country: Lebanon
+    disciplines:
+      - motion-design
+      - animation
+    notable:
+      - Nescafé
+      - Danone
+    social:
+      instagram: https://www.instagram.com/ticmotion/
+      linkedin: https://www.linkedin.com/company/tic-motion-studio
+      behance: https://www.behance.net/ticmotion
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Ticktockrobot Animation
+    url: https://www.ticktockrobot.co.uk/
+    description: Sussex animation studio making explainers, mixed media and motion graphics for education and brand clients.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    disciplines:
+      - animation
+      - motion-design
+    reel: https://www.ticktockrobot.co.uk/projects/showreel/
+    notable:
+      - BBC Bitesize
+      - Disney
+      - Red Bull
+    social:
+      instagram: https://www.instagram.com/ticktockrobot/
+      linkedin: https://www.linkedin.com/company/ticktockrobot/
+      vimeo: https://vimeo.com/ticktockrobot
+      behance: https://www.behance.net/ticktockrobotstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tigrelab
+    url: https://tigrelab.com/
+    description: Barcelona collective making projection mapping, generative visuals and interactive installations for brands, museums and events.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - experiential
+      - motion-design
+    reel: https://tigrelab.com/reel/experiential-reel/
+    social:
+      instagram: https://www.instagram.com/tigrelab/
+      linkedin: https://www.linkedin.com/company/tigrelab/
+      vimeo: https://vimeo.com/tigrelab
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Time Based Arts
+    url: https://www.time-based-arts.com/
+    description: Shoreditch, London VFX and colour grading studio working on commercials, music videos, film and episodic content.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    founded: 2008
+    notable:
+      - Lego
+      - Apple
+      - Nike
+    social:
+      instagram: https://instagram.com/timebasedarts
+      linkedin: https://www.linkedin.com/company/time-based-arts/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tippett Studio
+    url: https://www.tippett.com/
+    description: Berkeley VFX and animation studio led by Phil Tippett, making creature and character work for film and TV.
+    hq:
+      city: Berkeley, CA
+      country: United States
+    disciplines:
+      - vfx
+      - animation
+      - stop-motion
+    careers: https://www.tippett.com/careers/
+    reel: https://www.tippett.com/portfolio/show-reel/
+    notable:
+      - The Mandalorian and Grogu
+    social:
+      instagram: https://www.instagram.com/tippettstudio
+      linkedin: https://www.linkedin.com/company/8491/
+      x: https://twitter.com/TippettStudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Toast
+    url: https://toast.tv/
+    description: Brooklyn studio making stylized 3D animation, motion graphics and AR effects for brands.
+    hq:
+      city: Brooklyn, NY
+      country: United States
+    disciplines:
+      - cg
+      - animation
+      - xr
+    notable:
+      - Google
+      - Facebook Creators
+    social:
+      instagram: https://www.instagram.com/toast_animation/
+      behance: https://www.behance.net/toast_studio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Toch Studio
+    url: https://www.toch.tv/
+    description: Madrid motion design studio making network branding, product explainers and commercials for tech and broadcast clients.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - motion-design
+    reel: https://www.toch.tv/reel-2013/
+    notable:
+      - Zee TV
+      - Withings
+      - momit
+    social:
+      vimeo: https://vimeo.com/toch
+      x: https://twitter.com/tochstudio
+      behance: https://www.behance.net/tochstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tomakti
+    url: https://www.tomakti.xyz/
+    description: Athens 3D and motion studio making stylized commercial visuals and experimental 3D films.
+    hq:
+      city: Athens
+      country: Greece
+    disciplines:
+      - cg
+      - motion-design
+    reel: https://www.tomakti.xyz/tomaktireel20222023
+    notable:
+      - DIS
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tomaszewicz Studio
+    url: https://www.tomaszewicz.co.uk/
+    description: London 3D motion studio making surreal, hyperreal brand films and experimental shorts built around objects and materials.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - motion-design
+    social:
+      instagram: https://www.instagram.com/tomaszewicz.studio
+      linkedin: https://www.linkedin.com/company/tomaszewicz-studio
+      vimeo: https://vimeo.com/tomaszewicz
+      behance: https://www.behance.net/tomaszewicz-studio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tomorrow Bureau
+    url: https://www.tomorrowbureau.io/
+    description: London CGI studio making design-led campaign films for fashion, sportswear and automotive brands.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - product-viz
+    notable:
+      - HOKA
+      - Dior
+      - Prada
+    social:
+      instagram: https://www.instagram.com/tomorrowbureau/
+      vimeo: https://vimeo.com/user46543690
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tonic DNA
+    url: https://tonicdna.com/
+    description: Montreal animation and design studio making 2D, 3D, stop-motion and mixed media work for brands and networks.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - animation
+      - stop-motion
+      - motion-design
+    founded: 1983
+    notable:
+      - Meta
+      - Coca-Cola
+      - Netflix
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: TONOS
+    url: https://www.tonos.studio/
+    description: Chicago creative studio making motion design, branding and narrative experiences for entertainment and brands.
+    hq:
+      city: Chicago, IL
+      country: United States
+    disciplines:
+      - motion-design
+      - experiential
+    notable:
+      - The Rings of Power
+      - Gaslit
+    social:
+      instagram: https://www.instagram.com/tonos.studio/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tool of North America
+    url: https://toolofna.com/
+    description: Santa Monica production company pairing a director roster with in-house technologists for branded films, AI work and immersive experiences.
+    hq:
+      city: Santa Monica, CA
+      country: United States
+    disciplines:
+      - live-action
+      - experiential
+      - xr
+    notable:
+      - Sigma_001
+      - Starburst
+      - Verizon
+    social:
+      instagram: https://www.instagram.com/toolofna/
+      linkedin: https://www.linkedin.com/company/tool-of-north-america/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: TRAUM INC
+    url: https://trauminc.com/
+    description: London studio making experimental CGI and motion design for fashion and sportswear campaigns.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - motion-design
+    notable:
+      - Beats
+      - Nike
+      - Moncler
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Triada Studio
+    url: https://triadastudio.com/
+    description: Yerevan animation and VFX studio making commercials, broadcast design, film VFX, game cinematics and the game Shadowmatic.
+    hq:
+      city: Yerevan
+      country: Armenia
+    disciplines:
+      - animation
+      - vfx
+      - cinematics
+      - games
+    reel: https://triadastudio.com/showreel
+    notable:
+      - Shadowmatic
+    social:
+      instagram: https://www.instagram.com/triada.studio/
+      vimeo: https://vimeo.com/triadastudio
+      x: https://twitter.com/triadastudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Trollbäck+Company
+    url: https://www.trollback.com/
+    description: New York branding and design studio building motion-led identity systems for broadcast, digital and experiential use.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - motion-design
+      - title-design
+    notable:
+      - Disney+
+      - Spotify
+      - Audible
+    social:
+      instagram: https://www.instagram.com/trollback/
+      linkedin: https://www.linkedin.com/company/trollback/
+      x: https://twitter.com/trollback
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: TROUBLEMAKERS
+    url: https://troublemakers.tv/
+    description: Paris animation and live action studio representing directors in 3D, 2D, stop-motion and mixed media for ads and brand films.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - animation
+      - live-action
+      - stop-motion
+    founded: 2008
+    notable:
+      - Van Cleef & Arpels
+    social:
+      instagram: https://www.instagram.com/troublemakers.tv/
+      linkedin: https://www.linkedin.com/company/troublemakers.tv
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tulips and Chimneys
+    url: https://tulipsandchimneys.tv/
+    description: Cape Town studio making hand-drawn animation, illustration and production design for film, social campaigns and brands.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - animation
+    notable:
+      - The Monster Who Came To Tea
+      - Lisa Frankenstein
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Twistedpoly
+    url: https://www.twistedpoly.com/
+    description: Ljubljana 3D design and motion practice of Nejc Polovsak, making photoreal renders and experimental shorts for brands and studios.
+    hq:
+      city: Ljubljana
+      country: Slovenia
+    disciplines:
+      - cg
+      - motion-design
+    reel: https://www.twistedpoly.com/spectrum-reel
+    social:
+      instagram: https://www.instagram.com/twistedpoly/
+      vimeo: https://vimeo.com/twistedpoly
+      x: https://twitter.com/twistedpoly
+      behance: https://www.behance.net/twistedpoly
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Two Fresh Creative
+    url: https://twofresh.tv/
+    description: Los Angeles artist-run studio making animation, design and compositing for entertainment and sports brands.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - motion-design
+      - animation
+    reel: https://twofresh.tv/project/two-fresh-2025-reel
+    notable:
+      - Netflix
+      - ESPN
+      - CBS Sports
+    social:
+      instagram: https://www.instagram.com/two_fresh_creative
+      linkedin: https://www.linkedin.com/company/two-fresh-creative/
+      vimeo: https://vimeo.com/twofreshcreative
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Ubik
+    url: https://ubik.tv/
+    description: London mixed media studio led by directors Ste Dalton and Nick Losse, combining 2D, CGI and stop-motion for agencies and brands.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - animation
+      - stop-motion
+      - cg
+    notable:
+      - 'Destiny 2: The Final Shape'
+    social:
+      instagram: https://www.instagram.com/ubikpics/
+      x: https://x.com/ubikstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Ultratype
+    url: https://www.ultratype.tv/
+    description: New York kinetic typography studio making animated type and motion graphics for brand campaigns.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - motion-design
+    notable:
+      - Netflix
+      - Chanel
+      - Uber
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Unit Motion Design
+    url: https://unit-motiondesign.fr/
+    description: Paris studio in the Unit Image group making full CG and VFX game trailers, commercials and film work.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - cinematics
+      - cg
+      - vfx
+      - motion-design
+    social:
+      instagram: https://www.instagram.com/unitmotiondesign/
+      behance: https://www.behance.net/UnitMD
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: UNIT9
+    url: https://unit9.com/
+    description: Experiential and production studio with offices in London, New York, LA, Berlin and Florence making installations, films, games and VR/AR.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - xr
+      - live-action
+      - games
+    offices:
+      - city: New York, NY
+        country: United States
+      - city: Los Angeles, CA
+        country: United States
+      - city: Berlin
+        country: Germany
+      - city: Florence
+        country: Italy
+    size: large
+    founded: 1997
+    social:
+      instagram: https://www.instagram.com/unit9ltd/
+      linkedin: https://uk.linkedin.com/company/unit9
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: UnitedSenses
+    url: https://unitedsenses.tv/
+    description: Munich design agency making on-air branding and motion identities for broadcast, sports and media brands.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - motion-design
+      - title-design
+    reel: https://unitedsenses.tv/work/sport-showreel/?cat=homepage
+    notable:
+      - COSMOTE TV
+    social:
+      linkedin: https://de.linkedin.com/company/unitedsenses
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Universal Everything
+    url: https://www.universaleverything.com/
+    description: Sheffield remote-first studio of media artists making installations, digital art and motion work for brands and new displays.
+    hq:
+      city: Sheffield
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - motion-design
+      - xr
+    founded: 2004
+    notable:
+      - BMW
+      - Google
+      - Chanel
+    social:
+      instagram: https://instagram.com/universaleverything
+      linkedin: https://www.linkedin.com/company/universal-everything
+      youtube: https://www.youtube.com/@universaleverythingstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Unsaid Studio
+    url: https://unsaidstudio.com/
+    description: New York design and motion company making 3D animation and motion graphics for consumer and tech brands.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - motion-design
+      - cg
+    reel: https://unsaidstudio.com/work/reel
+    notable:
+      - Google Nest
+      - Yonex
+      - jetBlue
+    social:
+      instagram: https://www.instagram.com/weareunsaid
+      vimeo: https://vimeo.com/weareunsaid
+      behance: https://www.behance.net/weareunsaid
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Unseen Studio
+    url: https://unseen.co/
+    description: Bristol creative studio combining branding, web design, motion and 3D, including AR and VR work.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - xr
+      - cg
+    social:
+      instagram: https://www.instagram.com/uns__nstudio/
+      linkedin: https://www.linkedin.com/company/un-seen-studio
+      x: https://twitter.com/uns__nstudio
+      behance: https://www.behance.net/unseen-studio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: UntitledArmy
+    url: https://untitledarmy.com/
+    description: Brooklyn motion design studio making stylized character-led 3D animation for clients and personal projects.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - animation
+      - cg
+    social:
+      instagram: https://www.instagram.com/untitledarmy/
+      behance: https://www.behance.net/untitledarmy
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Untold Studios
+    url: https://untoldstudios.tv/
+    description: London creative studio making VFX, motion design, title design and ads for brands and entertainment.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - motion-design
+      - title-design
+    careers: https://untoldstudios.tv/careers
+    notable:
+      - Fortnite
+      - Beats
+      - Adobe
+    social:
+      instagram: https://www.instagram.com/untold_studios/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'

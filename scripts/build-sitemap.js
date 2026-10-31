@@ -44,6 +44,11 @@ function main() {
     urls.push({ loc: `${SITE_URL}/sections/${sub.sectionSlug}/${sub.subSlug}/`, priority: '0.7', changefreq: 'weekly' });
   }
 
+  // Studios directory.
+  if (exists(path.join('studios', 'index.html'))) {
+    urls.push({ loc: `${SITE_URL}/studios/`, priority: '0.8', changefreq: 'weekly' });
+  }
+
   // Tag index pages (indexable + on disk). data.json may not exist on a partial build.
   const dataJson = path.join(SITE_DIR, 'data.json');
   if (fs.existsSync(dataJson)) {

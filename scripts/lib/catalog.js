@@ -195,8 +195,55 @@ function loadAwesomeSources() {
   return loadOptional('awesome-sources.yml', 'sources', []);
 }
 
+// Studios directory: data/studios/NN-studios.yml, each { studios: [...] }, <= CHUNK_CAP.
+// Separate from the section/chunk tree (not catalog entries).
+const STUDIOS_DIR = path.join(DATA_DIR, 'studios');
+
+function listStudioFiles() {
+  if (!fs.existsSync(STUDIOS_DIR)) return [];
+  return fs.readdirSync(STUDIOS_DIR).filter(f => /^\d+-studios\.yml$/.test(f)).sort();
+}
+
+// [{ file, studios }] in file order.
+function loadStudioChunks() {
+  return listStudioFiles().map(file => ({
+    file,
+    studios: (loadYaml(path.join(STUDIOS_DIR, file)) || {}).studios || []
+  }));
+}
+
+function loadStudios() {
+  return loadStudioChunks().flatMap(c => c.studios);
+}
+
+function saveStudioChunk(file, studios) {
+  fs.mkdirSync(STUDIOS_DIR, { recursive: true });
+  const p = path.join(STUDIOS_DIR, file);
+  fs.writeFileSync(p + '.tmp', dumpYaml({ studios }));
+  fs.renameSync(p + '.tmp', p);
+}
+
+function appendStudio(studio) {
+  studio = { ...studio, added_at: studio.added_at || new Date().toISOString() };
+  const chunks = loadStudioChunks();
+  const last = chunks[chunks.length - 1];
+  if (last && last.studios.length < CHUNK_CAP) {
+    last.studios.push(studio);
+    saveStudioChunk(last.file, last.studios);
+    return last.file;
+  }
+  const file = `${String(chunks.length + 1).padStart(2, '0')}-studios.yml`;
+  saveStudioChunk(file, [studio]);
+  return file;
+}
+
 module.exports = {
   CHUNK_CAP,
+  STUDIOS_DIR,
+  loadStudioChunks,
+  loadStudios,
+  saveStudioChunk,
+  appendStudio,
   DATA_DIR,
   loadSections,
   loadSection,

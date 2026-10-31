@@ -50,3 +50,14 @@ Architectural / structural decisions w/ rationale + date.
 - Freemium when a free tool upsells paid human work on the same site (#35 PrintWhat custom design from $29).
 - User: "push, merge and close issues". Fixes pushed to fork branches (#30/#31/#32/#34/#35), 9 merged, #28 closed with note. #26 Nebula Forge -> §02 blender-plugins-addons (§04 has learning subsections only); #29 RespawnStack -> §09 ai-assisted-cg-tools.
 - Don't claim features a vendor page doesn't state (#32 quad retopo = just Blender remesh via Python; MCP tag unverified).
+
+## 2026-10-31 — /studios/ directory (spec, not built)
+- Separate dataset, not a 13th catalog section: studios aren't resources, are multi-discipline, need location/careers/size fields. Own schema + own closed `disciplines` enum, so catalog vocab (entry_type, tags.output) stays untouched. Kept out of README.md.
+- One filterable page /studios/ (user chose this over hub + per-discipline/country pages). Text cards, no logos (hosting/trademark/rot).
+- Seed: all 500 School of Motion "500 Studios" Vol. 1 + other disciplines (VFX, feature animation, games, archviz, product viz, VP, XR, outsourcing). Long-term goal: every studio in the world.
+- SoM PDF is email-gated, copyrighted: lives only in gitignored disregard/. Extract facts only (name, domain, location, named projects/clients); write every description fresh.
+- Built same day (user: "go for all phases"). SoM location lines are unreliable (scrambled between studios): HQ kept only when the studio's own site text names the city, else agent-verified; low-confidence -> country only; unresolved -> dropped.
+- Inclusion: active only (closed, parked, expired, password-walled, portfolio-not-studio dropped). Bot-block 403 / TLS-chain failures are alive (note added), not dead.
+- Social links kept only if handle matches studio name/domain (or opaque id); drops template (squarespace, yourhandle), personal and client accounts.
+- Description cities must match hq/offices; office cities added only when the studio's own site names them.
+- JSON-LD on /studios/ kept minimal (name, url, country); full objects doubled page size.

@@ -1,0 +1,1101 @@
+studios:
+  - name: Urbanscreen
+    url: https://www.urbanscreen.com/
+    description: Bremen artist collective making architectural projection mapping, projection sculptures and media facades.
+    hq:
+      city: Bremen
+      country: Germany
+    disciplines:
+      - experiential
+    founded: 2005
+    notable:
+      - Vivid Sydney Opera House
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Vallée Duhamel
+    url: https://valleeduhamel.com/
+    description: Montreal directing duo mixing live action, CGI and AI imagery in films, motion design and video art.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - live-action
+      - motion-design
+      - cg
+    size: boutique
+    social:
+      instagram: https://www.instagram.com/valleeduhamel/
+      vimeo: https://www.vimeo.com/valleeduhamel/
+      x: https://www.twitter.com/valleeduhamel/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Vantage Films
+    url: https://vantagefilms.co/
+    description: Buenos Aires motion graphics studio making ads, brand content and in-store campaigns for global brands.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - motion-design
+    offices:
+      - city: Los Angeles, CA
+        country: United States
+    notable:
+      - Netflix
+      - Google
+      - Audi
+    social:
+      instagram: https://www.instagram.com/vantage_films
+      linkedin: https://www.linkedin.com/company/vantage-films
+      vimeo: https://vimeo.com/vantageinc
+      behance: https://www.behance.net/vantageinc
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Vasava
+    url: https://www.vasava.es/
+    description: Barcelona branding and design studio making identities, custom type, illustration and motion graphics.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - motion-design
+    founded: 1997
+    notable:
+      - Spotify
+      - UEFA Champions League
+      - Atlético Madrid
+    social:
+      instagram: https://www.instagram.com/vasavastudio
+      linkedin: https://www.linkedin.com/company/vasava
+      behance: https://www.behance.net/vasava
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Versus
+    url: https://www.weareversus.tv/
+    description: Creative and production studio of directors, designers and animators making original work for brands, agencies and entertainment.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - motion-design
+      - animation
+      - live-action
+    notable:
+      - Disney
+      - Volkswagen
+    social:
+      instagram: https://www.instagram.com/versus.creative.studio/
+      linkedin: https://www.linkedin.com/company/versusnyc/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Vessel Studios
+    url: https://vesselstudios.com/
+    description: Medical animation studio making 3D mechanism-of-action films, illustration and patient education for pharma brands.
+    hq:
+      city: Atlanta, GA
+      country: United States
+    disciplines:
+      - animation
+      - cg
+      - motion-design
+    notable:
+      - Pfizer
+      - Merck
+      - Genentech
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Vincent Studios
+    url: https://vincentstudios.co.uk/
+    description: London animation and design studio making UI, VFX, branding and generative design for games, film and ads.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - vfx
+    notable:
+      - Frostbite rebrand
+      - EA Positive Player Awards
+      - BBC
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Volvox Labs
+    url: https://www.volvoxlabs.com/
+    description: Brooklyn new media art studio making immersive installations, kinetic sculptures and interactive brand experiences.
+    hq:
+      city: Brooklyn, NY
+      country: United States
+    disciplines:
+      - experiential
+      - xr
+    careers: https://www.volvoxlabs.com/careers
+    notable:
+      - Prada Beauty
+      - Coinbase Arena NBA All-Star
+      - Microsoft
+    social:
+      instagram: https://www.instagram.com/volvoxlabs/
+      linkedin: https://www.linkedin.com/company/volvox-labs/
+      vimeo: https://vimeo.com/volvoxlabs
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Vucko
+    url: https://vucko.co/
+    description: Toronto studio designing motion systems, identities and guidelines for brand, marketing, product and events.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - motion-design
+    notable:
+      - Spotify Wrapped
+      - Google Next
+      - Canva
+    social:
+      instagram: https://www.instagram.com/vucko.co/
+      linkedin: https://linkedin.com/company/vuckoco
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Waaaw Studio
+    url: https://waaaw.studio/
+    description: Tournai creative studio making motion design, 2D and 3D illustration, concept art and video mapping for brands and events.
+    hq:
+      city: Tournai
+      country: Belgium
+    disciplines:
+      - motion-design
+      - experiential
+    social:
+      instagram: https://www.instagram.com/waaaw.studio/
+      linkedin: https://www.linkedin.com/company/waaaw-studio/
+      vimeo: https://vimeo.com/waaawstudio
+      behance: https://www.behance.net/WAAAWstudio
+      artstation: https://www.artstation.com/waaawstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Watermark Creative
+    url: https://watermarkcreative.co/
+    description: Sydney collective of illustrators and animators making character design, packaging, storyboards and animation for brands.
+    hq:
+      city: Alexandria
+      country: Australia
+    disciplines:
+      - animation
+      - motion-design
+    social:
+      instagram: https://www.instagram.com/watermark_creative/
+      linkedin: https://www.linkedin.com/company/watermark-creative
+      behance: https://www.behance.net/watermarkcreative
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: We Are Pi
+    url: https://wearepi.com/
+    description: Amsterdam brand consultancy and production studio making campaigns for drinks, fitness and car brands.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - live-action
+      - motion-design
+    notable:
+      - Johnnie Walker
+      - Virgin Active
+      - Lynk & Co
+    social:
+      instagram: https://www.instagram.com/wearepi/
+      linkedin: https://www.linkedin.com/company/we-are-pi/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: We Are Royale
+    url: https://weareroyale.com/
+    description: Design-driven production company in Los Angeles and Seattle making game trailers, cinematics and branded content.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - cinematics
+      - motion-design
+      - cg
+      - live-action
+    offices:
+      - city: Seattle, WA
+        country: United States
+    notable:
+      - Riot Games
+      - Blizzard
+    social:
+      instagram: https://www.instagram.com/weareroyale/
+      linkedin: https://www.linkedin.com/company/weareroyale/
+      vimeo: https://vimeo.com/weareroyale
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: We Ride at Dawn
+    url: https://www.wrad.work/
+    description: Columbus interactive animation studio making Rive and Spline motion for web, apps and product interfaces.
+    hq:
+      city: Columbus, OH
+      country: United States
+    disciplines:
+      - xr
+      - animation
+      - motion-design
+    size: boutique
+    notable:
+      - Duolingo
+      - Google
+      - Shopify
+    social:
+      instagram: https://www.instagram.com/wradstudio/
+      linkedin: https://www.linkedin.com/company/wrad-work/
+      x: https://x.com/wrad_work
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: WeCanMake
+    url: https://www.wecanmake.co.uk/
+    description: Broadstairs motion design studio making character-led 2D animation for brands and media.
+    hq:
+      city: Broadstairs
+      country: United Kingdom
+    disciplines:
+      - animation
+      - motion-design
+    notable:
+      - BBC
+      - TikTok
+      - Ancestry
+    social:
+      instagram: https://instagram.com/wecanmake.co.uk
+      linkedin: https://www.linkedin.com/company/wecanmake/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Wednesday Studio
+    url: https://www.wearewednesday.com/
+    description: London design and animation studio led by Daniela Negrín Ochoa and Iria López, making short-form 2D content for brands and films.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - animation
+    notable:
+      - Netflix
+      - YouTube
+      - LA Philharmonic
+    social:
+      instagram: https://www.instagram.com/wednesday__studio/
+      linkedin: https://www.linkedin.com/company/wednesdaystudio/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Where Giants Roam
+    url: https://www.wheregiantsroam.co.uk/
+    description: Scottish studio making CGI, virtual photography, VFX and live action for drinks, fragrance and luxury brands.
+    hq:
+      city: Aberdour
+      country: United Kingdom
+    disciplines:
+      - product-viz
+      - cg
+      - vfx
+      - live-action
+    notable:
+      - Glenfiddich
+      - Omega
+      - The Balvenie
+    social:
+      instagram: https://www.instagram.com/wheregiantsroam_
+      linkedin: https://www.linkedin.com/company/wheregiantsroam/
+      behance: https://www.behance.net/wheregiantsroam_
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Wicked Pixels
+    url: https://www.wickedpixels.com/
+    description: Cape Town animation and VFX studio making motion design, VFX and AI-driven campaigns for brands and agencies.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - vfx
+      - animation
+      - motion-design
+    notable:
+      - The Loerie Awards
+      - Design Indaba
+    social:
+      instagram: https://www.instagram.com/wickedpixels_vfx/
+      vimeo: https://vimeo.com/wickedpixels
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Wilderbeast
+    url: https://wilderbeast.tv/
+    description: 2D animation and motion graphics studio in Twee Riviere, South Africa, making vector character work for brands.
+    hq:
+      city: Twee Riviere
+      country: South Africa
+    disciplines:
+      - animation
+      - motion-design
+    reel: https://wilderbeast.tv/reel
+    notable:
+      - Holm Care
+      - Applitopia
+    social:
+      instagram: https://www.instagram.com/wilderbeast.tv/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Woodwork Amsterdam
+    url: https://woodwork.nl/
+    description: Amsterdam design studio making visual identities, motion branding and immersive installations for sports and media brands.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - motion-design
+      - experiential
+    careers: https://woodwork.nl/careers
+    reel: https://woodwork.nl/showreel
+    notable:
+      - Formula 1
+      - adidas
+      - Videoland
+    social:
+      instagram: https://www.instagram.com/woodworkamsterdam
+      linkedin: https://www.linkedin.com/company/woodwork-amsterdam
+      vimeo: https://vimeo.com/woodworkamsterdam
+      behance: https://www.behance.net/woodworkamsterdam
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Worship
+    url: https://www.worship.studio/
+    description: Toronto motion design studio making title sequences, brand identities and toolkits for entertainment, gaming and music.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - motion-design
+      - title-design
+    careers: https://www.worship.studio/careers
+    notable:
+      - Blade Runner 2049 end titles
+      - Valorant
+      - Cardi B tour visuals
+    social:
+      instagram: https://instagram.com/worship.studio/
+      vimeo: https://vimeo.com/worshipstudio
+      x: https://twitter.com/studioworship
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: XK studio
+    url: https://xk.studio/
+    description: London art and design studio making high-end 3D visuals and simulation-driven films for luxury and tech brands.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - vfx
+      - motion-design
+    notable:
+      - Hermès
+      - Hublot
+      - Apple
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Yambo Studio
+    url: https://www.yambo-studio.com/
+    description: CGI and motion design studio making 3D campaigns and still images for tech and sportswear brands.
+    hq:
+      city: Yanuv
+      country: Israel
+    disciplines:
+      - cg
+      - product-viz
+      - motion-design
+    notable:
+      - Nike
+      - Google
+      - Microsoft
+    social:
+      vimeo: https://vimeo.com/yambo
+      behance: https://www.behance.net/yambo
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Yamination Studios
+    url: https://www.yamination.com/
+    description: Birmingham stop-motion studio making puppets, sets, shorts, pilots and TV commercials in house.
+    hq:
+      city: Birmingham
+      country: United Kingdom
+    disciplines:
+      - stop-motion
+    founded: 2009
+    notable:
+      - Coca-Cola
+      - Cravendale
+      - Sky Arts
+    social:
+      instagram: https://www.instagram.com/yaminations
+      vimeo: https://vimeo.com/yamination
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Yeah Haus
+    url: https://www.yeahhaus.com/
+    description: Ferndale, Michigan production studio making 2D, 3D, stop-motion and live action work for commercials and short films.
+    hq:
+      city: Ferndale, MI
+      country: United States
+    disciplines:
+      - animation
+      - motion-design
+      - stop-motion
+      - live-action
+    social:
+      instagram: https://instagram.com/yeahhaus
+      linkedin: https://www.linkedin.com/company/yeah-haus/
+      vimeo: https://vimeo.com/yeahhaus
+      x: https://twitter.com/yeahhaus
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Yellow Lab
+    url: https://www.yellowlab.tv/
+    description: Kingston, Ontario motion design studio with a distributed team making motion graphics and animation for brands.
+    hq:
+      city: Kingston
+      country: Canada
+    disciplines:
+      - motion-design
+    notable:
+      - Apple
+      - Google
+      - Marvel
+    social:
+      instagram: https://www.instagram.com/yellowlabtv/
+      vimeo: https://vimeo.com/yellowlabtv
+      x: https://twitter.com/yellowlabtv
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Yes Captain
+    url: https://www.yescaptain.net/
+    description: Melbourne motion design studio making 3D explainers, commercials, infographics and live event visuals.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - motion-design
+      - cg
+    notable:
+      - Session
+      - Transurban
+    social:
+      instagram: https://www.instagram.com/yescaptain_/
+      linkedin: https://www.linkedin.com/company/yes-captain/
+      vimeo: https://vimeo.com/yescaptain
+      behance: https://behance.net/yescaptain
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Yonick
+    url: https://yonick.studio/
+    description: Sofia 3D design and motion studio making product launch films, stage content and projection mapping.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - cg
+      - product-viz
+      - experiential
+      - motion-design
+    notable:
+      - Nothing Phone 3A Pro concept
+    social:
+      instagram: https://www.instagram.com/yonick_studio/
+      behance: https://www.behance.net/yonick_studio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: yU+co
+    url: https://www.yuco.com/
+    description: Hollywood studio led by founder Garson Yu, making film title sequences, VR work and architectural projection mapping.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - title-design
+      - experiential
+      - xr
+    founded: 1998
+    social:
+      instagram: https://www.instagram.com/yuandcompany/
+      linkedin: https://www.linkedin.com/company/yu-co
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Zedem Media
+    url: https://zedemanimations.com/
+    description: Larnaca animation studio making explainers, educational videos and brand films for clients such as TED Education and PwC.
+    hq:
+      city: Larnaca
+      country: Cyprus
+    disciplines:
+      - animation
+      - motion-design
+    careers: https://zedemanimations.com/career-opportunities/
+    notable:
+      - TED Education
+      - PwC
+      - The School of Life
+    social:
+      instagram: https://www.instagram.com/zedemanimations/
+      vimeo: https://vimeo.com/zedem
+      x: https://twitter.com/zedemanimations
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Zeitguised
+    url: https://zeitguised.com/
+    description: Berlin art and design practice making digital art, spatial installations and motion for brand campaigns.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - cg
+      - experiential
+      - motion-design
+    notable:
+      - The Zoo
+      - Peripetics
+    social:
+      instagram: https://instagram.com/zeitguised
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Zero VFX
+    url: https://www.zerovfx.com/
+    description: Boston VFX studio with a Montréal hub doing compositing, environments and set extensions for features, episodics and ads.
+    hq:
+      city: Boston, MA
+      country: United States
+    disciplines:
+      - vfx
+    offices:
+      - city: Montreal
+        country: Canada
+    careers: https://www.zerovfx.com/careers
+    notable:
+      - Progressive Dr. Rick
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Zoic Studios
+    url: https://www.zoicstudios.com/
+    description: Los Angeles VFX studio with a New York team making creatures and environments for TV, film and ads.
+    hq:
+      city: Santa Monica, CA
+      country: United States
+    disciplines:
+      - vfx
+    offices:
+      - city: Vancouver
+        country: Canada
+      - city: New York, NY
+        country: United States
+    careers: https://www.zoicstudios.com/join
+    notable:
+      - 'Alien: Earth'
+    social:
+      instagram: https://instagram.com/zoicstudios
+      linkedin: https://www.linkedin.com/company/zoic-studios/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Zombie Studio
+    url: https://zombiestudio.tv/
+    description: São Paulo animation studio working in stop-motion, 2D and 3D for brands and music artists.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - animation
+      - stop-motion
+      - cg
+    offices:
+      - city: New York, NY
+        country: United States
+      - city: Lisbon
+        country: Portugal
+    notable:
+      - Gorillaz
+      - Moby
+      - Vintage Culture
+    social:
+      instagram: https://www.instagram.com/zombiestudio.tv
+      vimeo: https://vimeo.com/user12341992
+      behance: https://www.behance.net/zombie_studio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Industrial Light & Magic
+    url: https://www.ilm.com/
+    description: Lucasfilm visual effects and animation division working on feature film, episodic and immersive projects from five studios.
+    hq:
+      city: San Francisco
+      country: United States
+    disciplines:
+      - vfx
+      - animation
+      - virtual-production
+    offices:
+      - city: Vancouver
+        country: Canada
+      - city: London
+        country: United Kingdom
+      - city: Mumbai
+        country: India
+      - city: Sydney
+        country: Australia
+    size: large
+    founded: 1975
+    careers: https://www.ilm.com/careers/
+    notable:
+      - Star Wars
+      - Silo
+    social:
+      instagram: https://www.instagram.com/ilmvfx/
+      linkedin: https://www.linkedin.com/company/industrial-light-&-magic
+      youtube: https://www.youtube.com/@ILMVFX
+      x: https://twitter.com/ILMVFX
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Wētā FX
+    url: https://www.wetafx.co.nz/
+    description: Wellington VFX and animation studio, formerly Weta Digital, making creature, character and environment work for franchise films.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - vfx
+      - animation
+    size: large
+    founded: 1993
+    careers: https://careers.wetafx.co.nz/
+    notable:
+      - The Lord of the Rings
+      - 'Avatar: The Way of Water'
+      - The Last of Us
+    social:
+      instagram: https://www.instagram.com/wetafxofficial/
+      linkedin: https://www.linkedin.com/company/weta-fx
+      youtube: https://www.youtube.com/user/WetaDigitalVisualFX
+      x: https://twitter.com/WetaFXofficial
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Rodeo FX
+    url: https://www.rodeofx.com/
+    description: Montreal VFX and creative company working on feature films, episodic series, advertising, animation and experiential projects.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - vfx
+      - animation
+      - experiential
+    offices:
+      - city: Quebec City
+        country: Canada
+      - city: Toronto
+        country: Canada
+      - city: Vancouver
+        country: Canada
+      - city: Paris
+        country: France
+      - city: Los Angeles
+        country: United States
+    size: large
+    founded: 2006
+    notable:
+      - Game of Thrones
+      - Blade Runner 2049
+      - Dune
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Sony Pictures Imageworks
+    url: https://www.imageworks.com/
+    description: Sony Pictures studio headquartered in Vancouver making visual effects and feature animation for film.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - vfx
+      - animation
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Montreal
+        country: Canada
+    size: large
+    founded: 1992
+    careers: https://www.imageworks.com/job-postings
+    notable:
+      - 'Spider-Man: Far From Home'
+      - The Meg
+      - 'Men in Black: International'
+    social:
+      instagram: https://www.instagram.com/imageworksvfx/
+      x: https://twitter.com/imageworksvfx
+      youtube: https://www.youtube.com/imageworksvfx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Image Engine
+    url: https://image-engine.com/
+    description: Vancouver VFX studio for feature film and episodic work, from concept design to creatures, environments and FX.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - vfx
+    careers: https://image-engine.com/jobs/
+    reel: https://vimeo.com/1138215450
+    notable:
+      - 'Tron: Ares'
+      - Skeleton Crew
+      - The Gorge
+    social:
+      instagram: https://www.instagram.com/image.engine.vfx/
+      linkedin: https://www.linkedin.com/company/image-engine-design-inc-/
+      vimeo: https://vimeo.com/imageengine
+      youtube: https://www.youtube.com/user/ImageEngineVFX/
+      x: https://twitter.com/ImageEngine
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Cinesite
+    url: https://cinesite.com/
+    description: London-headquartered VFX and animation group whose studios work on feature films, series and animated features.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - animation
+    size: large
+    careers: https://cinesite.com/careers/
+    notable:
+      - Warfare
+      - KAOS
+      - HITPIG!
+    social:
+      instagram: https://www.instagram.com/cinesite/
+      linkedin: https://www.linkedin.com/company/cinesite/
+      x: https://twitter.com/Cinesite
+      youtube: https://www.youtube.com/c/CinesiteStudios
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Eyeline
+    url: https://www.eyelinestudios.com/
+    description: Netflix-owned VFX, virtual production and research studio, formerly Scanline VFX, working on film and episodic projects.
+    hq:
+      country: Canada
+    disciplines:
+      - vfx
+      - virtual-production
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Vancouver
+        country: Canada
+      - city: London
+        country: United Kingdom
+      - city: Seoul
+        country: South Korea
+      - city: Mumbai
+        country: India
+      - city: Hyderabad
+        country: India
+    size: large
+    founded: 1989
+    careers: https://www.eyelinestudios.com/about/careers
+    social:
+      instagram: https://www.instagram.com/eyelinestudios/
+      linkedin: https://www.linkedin.com/company/eyelinestudios/
+      vimeo: https://vimeo.com/eyelinestudios
+      youtube: https://www.youtube.com/@eyelinestudios
+      x: https://x.com/eyelinestudios
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Pixomondo
+    url: https://www.pixomondo.com/
+    description: Sony-owned VFX and virtual production studio with LED volumes, working on feature film, episodic and commercial projects.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - virtual-production
+    offices:
+      - city: Toronto
+        country: Canada
+      - city: Vancouver
+        country: Canada
+      - city: Montreal
+        country: Canada
+      - city: London
+        country: United Kingdom
+      - city: Frankfurt
+        country: Germany
+      - city: Stuttgart
+        country: Germany
+    size: large
+    founded: 2000
+    careers: https://apply.workable.com/pxo/
+    notable:
+      - House of the Dragon
+      - The Penguin
+      - Game of Thrones
+    social:
+      instagram: https://www.instagram.com/pixomondo/
+      linkedin: https://www.linkedin.com/company/pixomondo/
+      youtube: https://www.youtube.com/c/pixomondo
+      x: https://twitter.com/Pixomondo
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Union VFX
+    url: https://www.unionvfx.com/
+    description: Independent Soho VFX facility for feature films and television, with a sister studio in Montreal.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    offices:
+      - city: Montreal
+        country: Canada
+    founded: 2008
+    careers: https://www.unionvfx.com/careers/
+    notable:
+      - 28 Years Later
+      - The Banshees of Inisherin
+      - Moon Knight
+    social:
+      instagram: https://www.instagram.com/unionvfx/
+      linkedin: https://www.linkedin.com/company/union-visual-effects/
+      vimeo: https://vimeo.com/unionvfx
+      youtube: https://www.youtube.com/c/UnionVFX/
+      x: https://twitter.com/unionvfx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: BlueBolt
+    url: https://www.blue-bolt.com/
+    description: Independent London VFX studio creating visual effects for feature film and high-end television.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    founded: 2009
+    careers: https://www.blue-bolt.com/hiring
+    notable:
+      - Nosferatu
+      - Napoleon
+      - Wolf Hall
+    social:
+      instagram: https://www.instagram.com/blueboltvfx/
+      linkedin: https://www.linkedin.com/company/bluebolt/
+      youtube: https://www.youtube.com/channel/UC6H5lfkQI3ZnYdV2PwAZt1g
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Crafty Apes
+    url: https://craftyapes.com/
+    description: Full-service VFX company with studios in the US, Canada, UK and Australia, also offering set supervision and previs.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - previs
+    offices:
+      - city: New York
+        country: United States
+      - city: Vancouver
+        country: Canada
+      - city: London
+        country: United Kingdom
+      - city: Sydney
+        country: Australia
+    careers: https://craftyapes.com/career
+    social:
+      instagram: https://www.instagram.com/craftyapesvfx/
+      linkedin: https://www.linkedin.com/company/crafty-apes-llc/
+      youtube: https://www.youtube.com/@CraftyApesVFX
+      x: https://twitter.com/CraftyApesVFX
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: FOLKS
+    url: https://folksvfx.com/
+    description: VFX studio network for episodic television and feature films, with 900+ artists across North America, Europe, Colombia and India.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - vfx
+    offices:
+      - city: Toronto
+        country: Canada
+      - city: Vancouver
+        country: Canada
+      - city: Los Angeles
+        country: United States
+      - city: New York
+        country: United States
+      - city: Atlanta, GA
+        country: United States
+      - city: London
+        country: United Kingdom
+      - city: Bogotá
+        country: Colombia
+      - city: Mumbai
+        country: India
+    size: large
+    careers: https://folksvfx.com/careers/
+    notable:
+      - 'Monster: The Ed Gein Story'
+      - Happy Gilmore 2
+      - Twisted Metal
+    social:
+      instagram: https://www.instagram.com/folksvfx/
+      vimeo: https://vimeo.com/folksreel
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Important Looking Pirates
+    url: https://www.ilpvfx.com/
+    description: Stockholm VFX and digital animation studio working on feature films and episodic series, with offices in London and Hamburg.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - vfx
+      - animation
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Hamburg
+        country: Germany
+    careers: https://www.ilpvfx.com/career
+    notable:
+      - The Last of Us
+      - The Sandman
+      - 'Dune: Prophecy'
+    social:
+      instagram: https://www.instagram.com/importantlookingpirates/
+      linkedin: https://www.linkedin.com/company/important-looking-pirates-vfx
+      vimeo: https://vimeo.com/ilpvfx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Trixter
+    url: https://www.trixter.de/
+    description: German studio in Munich and Berlin making concept art, animation and visual effects for feature film and television.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - vfx
+      - animation
+    offices:
+      - city: Berlin
+        country: Germany
+    careers: https://www.trixter.de/jobs/
+    notable:
+      - Black Widow
+      - Captain Marvel
+      - The Falcon and the Winter Soldier
+    social:
+      instagram: https://www.instagram.com/trixterfilm/
+      linkedin: https://www.linkedin.com/company/trixter/
+      vimeo: https://vimeo.com/trixterfilm
+      x: https://twitter.com/trixterfilm
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: RISE Visual Effects Studios
+    url: https://www.risefx.com/
+    description: German VFX studio for feature films and series with offices in Berlin, Cologne, Munich, Stuttgart and London.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - vfx
+    offices:
+      - city: Cologne
+        country: Germany
+      - city: Munich
+        country: Germany
+      - city: Stuttgart
+        country: Germany
+      - city: London
+        country: United Kingdom
+    careers: https://www.risefx.com/rise-visual-effects-studios-jobs.php
+    reel: https://www.risefx.com/rise-visual-effects-studios-work-showreel.php
+    social:
+      instagram: https://www.instagram.com/rise_fx/
+      linkedin: https://www.linkedin.com/company/rise-visual-effects-studios
+      vimeo: https://vimeo.com/risefx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: El Ranchito
+    url: https://elranchito.es/
+    description: VFX studio in Madrid and Barcelona creating visual effects for international film and television.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+    offices:
+      - city: Barcelona
+        country: Spain
+    careers: https://careers.smartrecruiters.com/PitchBlackCreative/el-ranchito-%5Benglish%5D
+    notable:
+      - The Boys
+      - A Knight of the Seven Kingdoms
+      - The Bluff
+    social:
+      instagram: https://instagram.com/elranchito_vfx
+      linkedin: https://www.linkedin.com/company/el-ranchito/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'

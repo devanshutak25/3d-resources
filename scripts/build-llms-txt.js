@@ -176,6 +176,7 @@ function buildThin(sectionsFile, bySection, lastUpdated) {
     lines.push(`Full section (${entries.length} entries): ${SITE_URL}/sections/${meta.slug}/`);
     lines.push('');
   }
+  lines.push(...buildStudios(false));
   return lines.join('\n');
 }
 
@@ -214,7 +215,32 @@ function buildFull(sectionsFile, bySection, lastUpdated) {
       lines.push('');
     }
   }
+  lines.push(...buildStudios(true));
   return lines.join('\n');
+}
+
+// Studios directory (data/studios/): thin file gets a pointer, full file lists every studio.
+function buildStudios(full) {
+  const { DISCIPLINES, placeLabel } = require('./lib/studios');
+  const studios = catalog.loadStudios()
+    .slice()
+    .sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
+  if (!studios.length) return [];
+  const lines = [
+    '## Studios directory',
+    '',
+    `> ${studios.length.toLocaleString()} animation, VFX, motion design, CG, game and arch viz studios with location, disciplines and careers pages.`,
+    '',
+    `Directory: ${SITE_URL}/studios/`,
+    ''
+  ];
+  if (!full) return lines;
+  for (const s of studios) {
+    const disc = s.disciplines.map(d => DISCIPLINES[d] || d).join(', ');
+    lines.push(`- [${clean(s.name)}](${s.url}): ${clean(s.description)} (${placeLabel(s.hq)}; ${disc})`);
+  }
+  lines.push('');
+  return lines;
 }
 
 function sumEntries(bySection) {

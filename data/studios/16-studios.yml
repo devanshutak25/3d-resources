@@ -1,0 +1,68 @@
+studios:
+  - name: The Morrison Studio
+    url: https://themorrisonstudio.com/
+    description: London studio designing title sequences, branding and key art for feature films and TV series.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - title-design
+    notable:
+      - Brazil
+      - Batman
+      - 'Sweeney Todd: The Demon Barber of Fleet Street'
+    social:
+      linkedin: https://www.linkedin.com/company/2369360/
+      x: https://twitter.com/morrisonstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Huge Designs
+    url: https://www.hugedesigns.com/
+    description: London motion graphics studio specialising in title sequences for film and television.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - title-design
+      - motion-design
+    notable:
+      - The Walking Dead
+      - The Son
+      - Magpie Murders
+    social:
+      instagram: https://instagram.com/hugedesigns_london/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: CHIPS
+    url: https://chips.nyc/
+    description: Brooklyn design and development studio making film titles, identities and websites for film studios and cultural clients.
+    hq:
+      city: Brooklyn, NY
+      country: United States
+    disciplines:
+      - title-design
+    notable:
+      - Nosferatu
+      - Wicked
+      - Severance
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: BOOM CGI
+    url: https://boomcgi.com/
+    description: London CGI studio making photoreal stills, animation and product CGI for brands and ad agencies.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - product-viz
+    social:
+      instagram: https://www.instagram.com/boomcgi/
+      linkedin: https://www.linkedin.com/company/boom-cgi
+      x: https://x.com/boomcgi
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'

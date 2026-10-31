@@ -1,0 +1,954 @@
+studios:
+  - name: Head Gear Animation
+    url: https://www.headgearanimation.com/
+    description: Toronto animation studio making 2D, 3D, stop motion and live-action hybrid work for commercials and television.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - animation
+      - stop-motion
+      - live-action
+    social:
+      instagram: https://www.instagram.com/head_gear_animation/
+      vimeo: https://vimeo.com/headgear
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Heckler
+    url: https://heckler.tv/
+    description: Sydney VFX, post and sound studio, with sites in Singapore, Shanghai and Amsterdam, making ads, broadcast design and film titles.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - vfx
+      - motion-design
+      - title-design
+    offices:
+      - city: Singapore
+        country: Singapore
+      - city: Shanghai
+        country: China
+      - city: Amsterdam
+        country: Netherlands
+    social:
+      instagram: https://www.instagram.com/hecklerhq/
+      vimeo: https://vimeo.com/hecklertv
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Hero Studios
+    url: https://www.herostudios.tv/
+    description: New York motion design and animation studio making character-led campaigns, explainers and large deliverable systems for global brands.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - animation
+      - motion-design
+    notable:
+      - Netflix
+      - Levi's
+      - Human Rights Watch
+    social:
+      instagram: https://www.instagram.com/hero.studios.ny
+      linkedin: https://linkedin.com/company/herostudios/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Hey Jack Studio
+    url: https://heyjack.studio/
+    description: Copenhagen design studio led by Katrine Hayden and Signe Jacobsen, working across identity, art direction, video, animation and web.
+    hq:
+      city: Frederiksberg
+      country: Denmark
+    disciplines:
+      - motion-design
+    social:
+      instagram: https://www.instagram.com/heyjack_studio/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Hippie House Studio
+    url: https://www.hippiehouse.tv/
+    description: Boutique Buenos Aires animation and motion design studio making explainers, commercials and on-air rebrands for brands and agencies.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - motion-design
+      - animation
+      - stop-motion
+    size: boutique
+    notable:
+      - AMC Series rebrand
+      - UNICEF
+      - Coca-Cola
+    social:
+      instagram: https://www.instagram.com/hippiehouse_studio/
+      linkedin: https://www.linkedin.com/company/hippiehouse-studio/
+      vimeo: https://vimeo.com/hippiehouse
+      behance: https://www.behance.net/hippiehouse
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Hook Creative Studio
+    url: https://www.hook.melbourne/
+    description: Independent Melbourne creative studio making live-action and animated brand video plus communication design.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - live-action
+      - animation
+      - motion-design
+    social:
+      instagram: https://instagram.com/hook.melbourne
+      linkedin: https://www.linkedin.com/company/hook-creative-studio/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Hool & Co.
+    url: https://hooland.co/
+    description: New York film and design studio making character-led motion branding, commercials and social content for startups and brands.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - motion-design
+      - animation
+      - live-action
+    social:
+      instagram: https://www.instagram.com/hoolandco/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Hornet
+    url: https://www.hellohornet.com/
+    description: New York studio with a roster of directors making character animation, motion design and live action for global brands.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - animation
+      - motion-design
+      - live-action
+    careers: https://www.hellohornet.com/careers
+    notable:
+      - Adobe
+      - Apple
+      - Spotify
+    social:
+      instagram: https://www.instagram.com/hellohornet/
+      linkedin: https://www.linkedin.com/company/hello-hornet
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: HunterGatherer
+    url: https://huntergatherer.net/
+    description: Design agency making branding, illustration, animation and experience design, including stop-motion work for The New York Times Magazine.
+    hq:
+      city: Brooklyn, NY
+      country: United States
+    disciplines:
+      - motion-design
+      - stop-motion
+      - animation
+    founded: 2000
+    notable:
+      - Behind the Cover for NYT Magazine
+      - Google
+      - Nike
+    social:
+      instagram: https://instagram.com/huganyc
+      x: https://twitter.com/HUGANYC
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Hydra Studios
+    url: https://www.hydrastudios.com/
+    description: Director-led production house making VFX and animation for commercials, games and entertainment, including game trailers.
+    hq:
+      city: Glasgow
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - cinematics
+      - animation
+      - cg
+    careers: https://www.hydrastudios.com/join-us-2/
+    notable:
+      - Killing Floor 2 trailer
+    social:
+      instagram: https://www.instagram.com/hydrastudiospage/
+      linkedin: https://www.linkedin.com/company/68164112
+      x: https://twitter.com/HydraStudios3
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Igor + Valentine
+    url: https://www.iggyvee.com/
+    description: Charleston motion design studio making commercial work for enterprise brands, with an experimental arm called The Lab.
+    hq:
+      city: Charleston, SC
+      country: United States
+    disciplines:
+      - motion-design
+    offices:
+      - city: Charlottesville, VA
+        country: United States
+    notable:
+      - IBM Cloud
+    social:
+      instagram: https://www.instagram.com/igor_valentine
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Imaginary Forces
+    url: https://imaginaryforces.com/
+    description: Los Angeles design studio and agency making film and TV title sequences, brand identity, installations and live action.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - title-design
+      - motion-design
+      - experiential
+      - live-action
+    careers: https://imaginaryforces.com/careers
+    social:
+      instagram: https://www.instagram.com/imaginaryforcesstudio/
+      linkedin: https://www.linkedin.com/company/imaginaryforces
+      vimeo: https://vimeo.com/imaginaryforces
+      youtube: https://www.youtube.com/c/Imaginaryforces
+      x: https://twitter.com/imaginaryforces/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Immerse Studio
+    url: https://www.immerse.studio/
+    description: Venice, CA creative technology studio making projection mapping, volumetric LED, interactive installations and real-time content for events.
+    hq:
+      city: Venice, CA
+      country: United States
+    disciplines:
+      - experiential
+      - motion-design
+    notable:
+      - RayTK
+    social:
+      instagram: https://www.instagram.com/immerse.studio/
+      linkedin: https://www.linkedin.com/company/immerse-studio-la/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Inertia Studios
+    url: https://www.weareinertia.com/
+    description: London studio making CGI, animation and design for entertainment, advertising and experiential, from product films to 3D billboards.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - product-viz
+      - motion-design
+      - experiential
+    careers: https://www.weareinertia.com/careers
+    social:
+      instagram: https://www.instagram.com/inertia_studio/
+      linkedin: https://www.linkedin.com/company/weareinertia/
+      behance: https://www.behance.net/inertiastudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Inferstudio
+    url: https://inferstudio.com/
+    description: London worldbuilding and investigative design studio making speculative films, imagery and data visualisations for artists, NGOs and researchers.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - motion-design
+      - archviz
+    notable:
+      - Ocean Futurisms
+      - Daughter of the Inner Stars
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Ingenuity Studios
+    url: https://www.ingenuitystudios.com/
+    description: Los Angeles VFX company, part of Streamland Media, working on features, episodic TV, commercials and music videos.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - vfx
+    offices:
+      - city: New York, NY
+        country: United States
+      - city: Toronto
+        country: Canada
+      - city: Vancouver
+        country: Canada
+    careers: https://www.ingenuitystudios.com/careers
+    social:
+      instagram: https://www.instagram.com/ingenuityvfx/
+      linkedin: https://www.linkedin.com/company/ingenuitystudios
+      vimeo: https://vimeo.com/ingenuitystudiosvfx
+      youtube: https://www.youtube.com/@ingenuitystudios
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Inspiranimation
+    url: https://inspiranimation.com/
+    description: Stop-motion studio in Riba-roja de Túria, Spain, making clay animation and motion control work for brands and agencies.
+    hq:
+      city: Riba-roja de Túria
+      country: Spain
+    disciplines:
+      - stop-motion
+    reel: https://inspiranimation.com/showreel
+    social:
+      instagram: https://www.instagram.com/inspira_stopmotion/
+      vimeo: https://vimeo.com/user70753915
+      behance: https://www.behance.net/inspiraanimati
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Irresistible Studios
+    url: https://irresistiblestudios.com/
+    description: London production company with a director roster and in-house editorial, animation and VFX, making commercials and sports campaigns.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - live-action
+      - vfx
+      - motion-design
+    notable:
+      - Land Rover
+      - Women's Euro
+    social:
+      instagram: https://www.instagram.com/irresistiblestudios
+      linkedin: https://www.linkedin.com/company/irresistible-studios
+      x: https://twitter.com/IrreStudios
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Jacknife Films
+    url: https://www.jacknifefilms.com/
+    description: Bristol production company led by director Chris Hopewell, making stop-motion animation for music videos and commercials.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - stop-motion
+      - animation
+    notable:
+      - Radiohead There There
+      - Run The Jewels
+      - John Lewis
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: JL Design
+    url: https://jl.design/
+    description: Taipei motion design studio, with an office in Shanghai, making brand and cultural films for tech, finance and manufacturing clients.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - motion-design
+    offices:
+      - city: Shanghai
+        country: China
+    careers: https://jl.design/en/career
+    social:
+      instagram: https://www.instagram.com/jldesign01/
+      vimeo: https://vimeo.com/jldesigntv
+      behance: https://www.behance.net/jldesigntv
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Jolt Studio
+    url: https://jolt.studio/
+    description: UK 2D animation studio in Witney making explainers and character-led films for charities, healthcare, tech and finance brands.
+    hq:
+      city: Witney
+      country: United Kingdom
+    disciplines:
+      - animation
+      - motion-design
+    notable:
+      - Child Bereavement UK
+      - Diabetes UK
+      - World Animal Protection
+    social:
+      instagram: https://www.instagram.com/joltstudio/
+      linkedin: https://www.linkedin.com/company/joltstudio/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Joyrider Films
+    url: https://www.joyriderfilms.com/
+    description: London production company with a director roster making commercials, branded content and music videos, plus in-house VFX and post.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - live-action
+      - vfx
+    notable:
+      - Ford
+      - H&M
+    social:
+      vimeo: https://vimeo.com/joyrider
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Jumbla Animation Studios
+    url: https://www.jumbla.com/
+    description: Melbourne studio making 2D and 3D animation and motion graphics for agencies, corporates, government, education and game studios.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - animation
+      - motion-design
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Madrid
+        country: Spain
+      - city: Los Angeles, CA
+        country: United States
+    careers: https://www.jumbla.com/careers
+    social:
+      instagram: https://www.instagram.com/jumbla/
+      linkedin: https://www.linkedin.com/company/jumbla/
+      vimeo: https://www.vimeo.com/jumbla
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: JumpCut Productions
+    url: https://www.jumpcut.productions/
+    description: Post-production studio making VFX, 3D animation and motion design for advertising and feature films, with AI-assisted pipelines.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - vfx
+      - motion-design
+      - cg
+    careers: https://www.jumpcut.productions/workwithus
+    social:
+      instagram: https://instagram.com/we.are.jumpcut/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: JVARTA
+    url: https://www.jvarta.com/
+    description: Los Angeles design and motion studio making photoreal CGI product animation and social content for footwear, watch and electronics brands.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - product-viz
+      - motion-design
+      - cg
+    notable:
+      - NOBULL
+    social:
+      instagram: https://www.instagram.com/jvarta
+      vimeo: https://www.vimeo.com/jvarta
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Kaleida Studio
+    url: https://www.kaleida.studio/
+    description: Brooklyn animation and motion graphics company led by Julie Gratz, making documentary graphics, commercials and AR art exhibitions.
+    hq:
+      city: Brooklyn, NY
+      country: United States
+    disciplines:
+      - animation
+      - motion-design
+      - xr
+    founded: 2013
+    notable:
+      - Netflix
+      - HBO
+    social:
+      instagram: https://instagram.com/kaleidastudio
+      vimeo: https://vimeo.com/kaleidastudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Kapwa
+    url: https://www.kapwa.co/
+    description: Animation studio making animated documentaries, music videos and editorial series, including an Oscar-shortlisted short.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - animation
+    careers: https://www.kapwa.co/jobs
+    notable:
+      - Love in the Time of March Madness
+      - Accents for TED-Ed
+      - Happier Than Ever
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Kasra Design
+    url: https://www.kasradesign.com/
+    description: Animation company in Singapore, Malaysia and the US making explainer videos, motion graphics and 2D/3D animation for brands and government.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - motion-design
+      - animation
+    careers: https://www.kasradesign.com/jobs/
+    notable:
+      - Visa
+      - Pfizer
+      - Shell
+    social:
+      instagram: https://www.instagram.com/kasradesign
+      linkedin: https://www.linkedin.com/company/kasra-design
+      vimeo: https://vimeo.com/kasra
+      x: https://twitter.com/kasradesign
+      behance: https://www.behance.net/kasra-design
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Katananga
+    url: https://www.katananga.com/
+    description: Amsterdam 3D design studio making motion design, animation, VFX and stills for international brands and agencies.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - cg
+      - motion-design
+      - product-viz
+      - vfx
+    notable:
+      - Carrefour
+      - Bugaboo
+    social:
+      instagram: https://www.instagram.com/studiokatananga/
+      linkedin: https://www.linkedin.com/company/42306940/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Kate Dawkins Studio
+    url: https://katedawkinsstudio.com/
+    description: London studio making projection mapping and motion graphics for live shows, ceremonies and brand events.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - motion-design
+    notable:
+      - The Earthshot Prize
+      - Royal Edinburgh Military Tattoo
+      - Festival of Remembrance
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: khaki
+    url: https://khaki.tokyo/
+    description: Tokyo VFX direction and design company making CG and finishing for commercials, music videos and large-format experiential content.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+      - motion-design
+    reel: https://vimeo.com/841126867
+    notable:
+      - Pokémon Trading Card Game Pocket
+      - King Gnu
+      - Perfume
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Kill 2 Birds
+    url: https://www.kill2birds.tv/
+    description: El Segundo studio making entertainment marketing campaigns, from anamorphic DOOH to launch spots, for streamers and networks.
+    hq:
+      city: El Segundo, CA
+      country: United States
+    disciplines:
+      - motion-design
+      - cg
+    notable:
+      - Severance DOOH
+      - Percy Jackson launch
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: KINEMUS
+    url: https://kinemus.com/
+    description: Berlin animation and installation studio of Michelle Brand and Toby Auberg, mixing 2D, 3D and procedural work for media and spaces.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - animation
+      - motion-design
+      - experiential
+    notable:
+      - Any Instant Whatever
+    social:
+      instagram: https://www.instagram.com/kinemus.feed/
+      linkedin: https://linkedin.com/company/kinemus
+      vimeo: https://vimeo.com/kinemus
+      behance: https://www.behance.net/kinemus
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Kinisi
+    url: https://www.kinisi.tv/
+    description: York freelance duo making 2D and 3D motion design, explainers, product demos and social content for brands.
+    hq:
+      city: York
+      country: United Kingdom
+    disciplines:
+      - motion-design
+    size: boutique
+    notable:
+      - HubSpot
+      - Microsoft
+    social:
+      instagram: https://www.instagram.com/kinisi.tv/
+      linkedin: https://www.linkedin.com/company/kinisimotiondesign
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Kong Animation Studio
+    url: https://kong-studio.com/
+    description: London animation and illustration studio making character-led 2D work for ads, branded content and kids' entertainment.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - animation
+      - motion-design
+    notable:
+      - Disney
+      - Intel
+      - BBC Ideas
+    social:
+      instagram: https://www.instagram.com/KONG_STUDIO_/
+      linkedin: https://www.linkedin.com/company/kong-studio/
+      x: https://twitter.com/kong_studio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: La Manufacture
+    url: https://lamanufactureparis.fr/
+    description: Paris CGI production studio making 3D product animation for luxury, beauty and audio brands.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - product-viz
+      - cg
+    notable:
+      - L'Oréal Professionnel
+      - Viktor & Rolf
+      - Devialet
+    social:
+      instagram: https://www.instagram.com/la_manufacture_paris/
+      vimeo: https://vimeo.com/user47468097
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: LAFKON
+    url: https://lafkon.net/
+    description: Augsburg animation and graphic design studio making broadcast packages, educational animation and motion graphics.
+    hq:
+      city: Augsburg
+      country: Germany
+    disciplines:
+      - motion-design
+      - animation
+    notable:
+      - ProSieben
+      - German Aerospace Center
+      - ARD
+    social:
+      instagram: https://instagram.com/lafkon
+      behance: https://www.behance.net/lafkon
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: LAIKA Studios
+    url: https://www.laika.com/
+    description: Stop-motion feature film studio outside Portland, Oregon, behind Coraline, Kubo and the Two Strings and Missing Link.
+    hq:
+      city: Hillsboro, OR
+      country: United States
+    disciplines:
+      - stop-motion
+      - animation
+    careers: https://www.laika.com/careers
+    notable:
+      - Coraline
+      - Missing Link
+      - Wildwood
+    social:
+      instagram: https://www.instagram.com/laikastudios
+      linkedin: https://www.linkedin.com/company/laika/
+      youtube: https://www.youtube.com/@LAIKAStudios
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Lasso Studio
+    url: https://www.lassostud.io/
+    description: Nashville creative studio making branding, illustration and character animation for clients across industries.
+    hq:
+      city: Nashville, TN
+      country: United States
+    disciplines:
+      - motion-design
+      - animation
+    social:
+      instagram: https://www.instagram.com/lassostudio/
+      linkedin: https://www.linkedin.com/company/lasso-studio/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Laundry
+    url: https://www.laundry.studio/
+    description: Los Angeles studio led by four directors making animation, motion design, branding and live action, including OOH and Sphere work.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - motion-design
+      - animation
+      - live-action
+      - experiential
+    social:
+      linkedin: https://www.linkedin.com/company/laundry-design-llc
+      behance: https://www.behance.net/laundry
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Le Cube
+    url: https://lecube.tv/
+    description: Creative production studio in Buenos Aires, São Paulo and Madrid making character animation, motion graphics and VR/AR work for agencies.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - animation
+      - motion-design
+      - xr
+    offices:
+      - city: São Paulo
+        country: Brazil
+      - city: Madrid
+        country: Spain
+    careers: https://lecube.tv/careers
+    reel: https://www.lecube.tv/reel
+    social:
+      instagram: https://instagram.com/lecube.tv
+      vimeo: https://vimeo.com/lecubetv
+      x: https://twitter.com/lecubetv
+      behance: https://behance.net/lecube
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Le Pivot
+    url: https://lepivot.com/
+    description: Paris creative studio working across motion design, illustration, web and graphic design in a range of distinct visual styles.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - motion-design
+    social:
+      instagram: https://www.instagram.com/le.pivot.360
+      linkedin: https://www.linkedin.com/company/le.pivot.360
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: leftchannel
+    url: https://leftchannel.com/
+    description: Columbus motion design and brand experience studio making motion branding, brand films and experiential installations.
+    hq:
+      city: Columbus, OH
+      country: United States
+    disciplines:
+      - motion-design
+      - experiential
+    notable:
+      - Sheraton Dallas digital art installation
+    social:
+      instagram: https://www.instagram.com/leftchannel/
+      linkedin: https://it.linkedin.com/company/leftchannel
+      vimeo: https://vimeo.com/leftchannel
+      behance: https://www.behance.net/leftchannel
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Lightfarm Studios
+    url: https://lightfarm.com.br/
+    description: Brazilian 2D and 3D animation studio making CGI for advertising, game cinematics and original content.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    disciplines:
+      - cg
+      - animation
+      - cinematics
+      - product-viz
+    careers: https://lightfarm.com.br/jobs/games
+    social:
+      instagram: https://www.instagram.com/lightfarmbr
+      linkedin: https://www.linkedin.com/company/lightfarm-studios/
+      youtube: https://www.youtube.com/@Lightfarmstudio
+      behance: https://www.behance.net/lightfarm
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Linetest
+    url: https://www.linetest.tv/
+    description: Vancouver illustration and animation studio making character-led brand stories for retail, nonprofit and streaming clients.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - animation
+      - motion-design
+    notable:
+      - Home Depot
+      - WWF
+      - Netflix
+    social:
+      instagram: https://www.instagram.com/linetestcollective/
+      vimeo: https://vimeo.com/linetest
+      behance: https://www.behance.net/linetest
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: LOBO
+    url: https://lobo.cx/
+    description: Animation studio in New York and São Paulo making ad campaigns for agencies and brands, with a roster of directors.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - animation
+      - motion-design
+    offices:
+      - city: São Paulo
+        country: Brazil
+    notable:
+      - Xbox
+      - Coca-Cola
+      - Mastercard
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Lobster
+    url: https://www.lobsterstudio.tv/
+    description: Sofia animation studio making illustration-led motion, frame by frame or keyframed, for brands and agencies.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - animation
+      - motion-design
+    offices:
+      - city: Genoa
+        country: Italy
+    careers: https://www.lobsterstudio.tv/jobs
+    notable:
+      - Google
+      - Nike
+      - IKEA
+    social:
+      instagram: https://www.instagram.com/lobster_studio/
+      vimeo: https://vimeo.com/lobsterstudio
+      x: https://twitter.com/lobsterstudiotv
+      behance: https://www.behance.net/lobsterstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: LOGAN
+    url: https://logan.tv/
+    description: Content studio in Los Angeles and New York combining design, animation, VFX and live action for brands and title sequences.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - motion-design
+      - live-action
+      - vfx
+      - title-design
+    offices:
+      - city: New York, NY
+        country: United States
+    careers: https://logan.tv/jobs/
+    notable:
+      - 'Alien: Romulus titles'
+      - Apple
+      - Nike
+    social:
+      instagram: https://instagram.com/loganstudios/
+      x: https://twitter.com/logan_studios
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Loica
+    url: https://loica.tv/
+    description: Santiago broadcast design and animation studio making network packaging and brand films for TNT, Nat Geo and Adult Swim.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - motion-design
+      - title-design
+      - animation
+    careers: https://loica.tv/careers
+    notable:
+      - Adult Swim
+      - Vivint
+      - Madden
+    social:
+      instagram: https://www.instagram.com/loica.tv/
+      vimeo: https://vimeo.com/loica
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: LOOC Creative
+    url: https://loocreative.com/
+    description: Motion graphics, CG and VFX studio making commercials and cinema trailers for Korean and international brands.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - motion-design
+      - cg
+      - vfx
+    notable:
+      - Samsung
+      - SIDIZ
+      - CGV
+    social:
+      instagram: https://www.instagram.com/loocreative/
+      vimeo: https://vimeo.com/loocreative
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'

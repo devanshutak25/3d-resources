@@ -56,6 +56,27 @@ A maintainer will add it to the right place.
 
 Or reach out via [email](mailto:3dresources@devanshutak.xyz) / [Instagram](https://www.instagram.com/devanshutak25/).
 
+## Adding a studio
+
+Studios have their own directory at [/studios/](https://3d.devanshutak.xyz/studios/), separate from catalog entries. Append to the last file in `data/studios/` (50 per file, start `NN+1-studios.yml` when full). Schema: `schema/studio.schema.json`.
+
+```yaml
+- name: Framestore
+  url: https://www.framestore.com/
+  description: VFX and animation house for feature film, episodic, advertising and immersive work.
+  hq: { city: London, country: United Kingdom }
+  offices: [{ city: Montreal, country: Canada }]   # optional
+  disciplines: [vfx, animation, xr]                # closed list, see schema
+  size: large                                      # optional: boutique (<=20), mid (21-150), large (150+)
+  founded: 1986                                    # optional
+  careers: https://www.framestore.com/careers      # optional
+  notable: [Gravity, Paddington 2]                 # optional, max 4
+  social: { instagram: https://www.instagram.com/framestore/ }   # optional
+  added_at: '2026-10-31T00:00:00.000Z'
+```
+
+Active studios only. Country names come from the list in `scripts/lib/studios.js` (add one there if needed). Or use the [Suggest a studio](https://github.com/devanshutak25/3d-resources/issues/new?template=suggest-studio.yml) form.
+
 ## Quality bar
 
 - Genuinely useful to a 3D artist, animator, VFX professional or game dev.

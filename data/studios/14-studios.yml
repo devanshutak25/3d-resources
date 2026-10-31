@@ -1,0 +1,1067 @@
+studios:
+  - name: Centroid
+    url: https://www.centroid3d.com/
+    description: Motion capture company running performance capture stages in London and Serbia for film, games and sport.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - mocap
+    offices:
+      - city: Belgrade
+        country: Serbia
+    social:
+      vimeo: https://vimeo.com/centroid
+      x: https://twitter.com/Centroid3D
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Audiomotion Studios
+    url: https://www.audiomotion.com/
+    description: UK performance capture studio serving film, TV and video game productions.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - mocap
+    founded: 1997
+    careers: https://www.audiomotion.com/jobs/
+    notable:
+      - Sniper Elite 5
+      - Aquaman and the Lost Kingdom
+      - F1 23
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Imaginarium Studios
+    url: https://www.imaginariumstudios.co.uk/
+    description: Performance capture and virtual production company at Pinewood Studios, formed by Andy Serkis.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - mocap
+      - virtual-production
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/theimaginariumstudios/
+      linkedin: https://www.linkedin.com/company/2567269
+      youtube: https://www.youtube.com/@theimaginariumstudios
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: House of Moves
+    url: https://www.moves.com/
+    description: Performance capture and animation studio with stages in Los Angeles and Austin, serving games, film and TV.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - mocap
+      - cinematics
+    offices:
+      - city: Austin, TX
+        country: United States
+    founded: 1995
+    reel: https://vimeo.com/891980434?share=copy
+    notable:
+      - Mortal Kombat 1
+      - Destiny 2
+      - Halo Infinite
+    social:
+      instagram: https://www.instagram.com/officialhouseofmoves/
+      linkedin: https://www.linkedin.com/company/house-of-moves/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Animatrik
+    url: https://www.animatrik.com/
+    description: Performance capture and virtual production company with stages in Vancouver and Los Angeles.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - mocap
+      - virtual-production
+    offices:
+      - city: Los Angeles, CA
+        country: United States
+    social:
+      linkedin: https://www.linkedin.com/company/animatrik-film-design/
+      x: https://twitter.com/Animatrik
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: metricminds
+    url: https://metricminds.com/
+    description: Frankfurt studio for performance capture, keyframe animation and in-engine cinematics for games.
+    hq:
+      city: Frankfurt
+      country: Germany
+    disciplines:
+      - mocap
+      - cinematics
+      - animation
+    founded: 2001
+    careers: https://metricminds.com/jobs/
+    notable:
+      - Dead Island
+      - Bulletstorm
+    social:
+      instagram: https://www.instagram.com/metricminds/
+      linkedin: https://www.linkedin.com/company/125280/
+      youtube: https://www.youtube.com/@metricminds
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Brick Visual
+    url: https://www.brickvisual.com/
+    description: Architectural visualization studio in Budapest making renderings, films, real-time tools and project branding for architects, developers and brands.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - archviz
+      - xr
+      - product-viz
+    offices:
+      - city: Cluj-Napoca
+        country: Romania
+      - city: Porto
+        country: Portugal
+    careers: https://www.brickvisual.com/career
+    notable:
+      - Dubai Museum of Art
+      - Lumena Office Tower
+      - Wedyan The Canal
+    social:
+      instagram: https://www.instagram.com/brickvisual/
+      linkedin: https://www.linkedin.com/company/brick-visual/
+      vimeo: https://vimeo.com/brickvisual
+      youtube: https://www.youtube.com/@BrickVisualOfficial
+      behance: https://www.behance.net/Brickvisual
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Binyan Studios
+    url: https://www.binyanstudios.com/
+    description: Architectural visualization studio producing CGI, film, animation and digital sales experiences for real estate and architecture.
+    hq:
+      country: Australia
+    disciplines:
+      - archviz
+      - xr
+    offices:
+      - city: Sydney
+        country: Australia
+      - city: Melbourne
+        country: Australia
+      - city: Brisbane
+        country: Australia
+      - city: New York
+        country: United States
+      - city: London
+        country: United Kingdom
+      - city: Dubai
+        country: United Arab Emirates
+    founded: 2007
+    careers: https://www.binyanstudios.com/what-we-do/
+    social:
+      instagram: https://www.instagram.com/binyanstudios/
+      linkedin: https://www.linkedin.com/company/binyan-studios-3d-visualization
+      vimeo: https://vimeo.com/binyanstudios
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: DBOX
+    url: https://www.dbox.com/
+    description: Brand marketing consultancy for real estate and hospitality that produces CGI, animation, photography and film.
+    hq:
+      country: United States
+    disciplines:
+      - archviz
+      - live-action
+    offices:
+      - city: Miami, FL
+        country: United States
+      - city: New York
+        country: United States
+      - city: London
+        country: United Kingdom
+      - city: Budapest
+        country: Hungary
+      - city: Lviv
+        country: Ukraine
+    notable:
+      - 432 Park Avenue
+      - One West End
+      - New York By Gehry
+    social:
+      instagram: https://www.instagram.com/dboxglobal/
+      linkedin: https://www.linkedin.com/company/dboxglobal/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Luxigon
+    url: https://www.luxigon.com/
+    description: Architectural visualization studio in Paris making competition, concept and commercial imagery plus real-time 3D, AR and VR.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - archviz
+      - xr
+    social:
+      instagram: https://www.instagram.com/luxigon/
+      linkedin: https://www.linkedin.com/company/luxigon
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Squint/Opera
+    url: https://www.squintopera.com/
+    description: Experience design studio, part of Journey, creating story-driven museum, pavilion and visitor attractions across physical and digital media.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - xr
+    careers: https://www.squintopera.com/join/
+    notable:
+      - Zayed National Museum
+      - Empire State Building Observatory Experience
+      - Jewel House Exhibition, Tower of London
+    social:
+      instagram: https://www.instagram.com/squintopera
+      linkedin: https://www.linkedin.com/company/squint-opera
+      vimeo: https://vimeo.com/squintopera
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Kilograph
+    url: https://www.kilograph.com/
+    description: Narrative and creative agency making visualizations, campaign films, brand identity and interactive experiences for civic, infrastructure and commercial projects.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - archviz
+      - xr
+    offices:
+      - city: Barcelona
+        country: Spain
+    notable:
+      - The Bradbury Building
+      - Reno-Tahoe International Airport
+      - Los Angeles Aerial Rapid Transit
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Neoscape
+    url: https://neoscape.com/
+    description: Creative agency for real estate and architecture offering renderings, film, animation, digital twins, VR, branding and web.
+    hq:
+      city: Boston, MA
+      country: United States
+    disciplines:
+      - archviz
+      - xr
+      - live-action
+    offices:
+      - city: New York
+        country: United States
+      - city: Chicago, IL
+        country: United States
+    careers: https://neoscape.com/careers/
+    notable:
+      - Yellowstone Club Digital Twin
+      - Tampa International Airport Airside D
+      - Aviator House
+    social:
+      instagram: https://www.instagram.com/neoscapeinc/
+      linkedin: https://www.linkedin.com/company/neoscape
+      vimeo: https://vimeo.com/neoscape
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Recent Spaces
+    url: https://www.recentspaces.com/
+    description: London rendering agency producing stills, animated films, cinemagraphs and interactive work for developers, architects and interior designers.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - xr
+    careers: https://www.recentspaces.com/jobs
+    notable:
+      - 888 Brickell
+      - 50 West 66th Street
+      - Park Row Bellevue
+    social:
+      instagram: https://www.instagram.com/recentspaces/
+      linkedin: https://www.linkedin.com/company/recent-spaces
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Atchain
+    url: https://www.atchain.com/
+    description: Architectural visualization studio in Shanghai producing stills, films, 360 tours and VR for architects and developers.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - archviz
+      - xr
+    size: large
+    founded: 2009
+    careers: https://www.atchain.com/career
+    notable:
+      - Foster + Partners
+      - Zaha Hadid Architects
+      - Apple
+    social:
+      instagram: https://www.instagram.com/atchain/
+      linkedin: https://www.linkedin.com/company/atchain/
+      vimeo: https://vimeo.com/atchain
+      youtube: https://www.youtube.com/channel/UCgVrnDv771DXSy-LjAh0T0g
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Pixelflakes
+    url: https://www.pixelflakes.com/
+    description: Architectural marketing studio making visualisation, animation and interactive work for architects and developers.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - xr
+    offices:
+      - city: Amsterdam
+        country: Netherlands
+    notable:
+      - Nami Island
+      - Gonio
+    social:
+      instagram: https://www.instagram.com/pixelflakesldn/
+      linkedin: https://www.linkedin.com/company/pixelflakes/
+      vimeo: https://vimeo.com/pixelflakes/
+      x: https://twitter.com/pixelflakes/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Hayes Davidson
+    url: https://www.hayesdavidson.com/
+    description: Architectural visualisation studio in London producing images, film and digital work for architects and developers.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - archviz
+    social:
+      instagram: https://www.instagram.com/hayesdavidson/
+      linkedin: https://www.linkedin.com/company/hayes-davidson/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Darcstudio
+    url: https://www.darcstudio.com/
+    description: Architectural visualisation, CGI and animation studio with bases in the UK and Dubai, working on cultural, civic and residential projects.
+    hq:
+      city: Bournemouth
+      country: United Kingdom
+    disciplines:
+      - archviz
+    offices:
+      - city: Dubai
+        country: United Arab Emirates
+    notable:
+      - Penn Station, New York
+      - Lincoln Center, New York
+      - Portland Museum of Art
+    social:
+      instagram: https://www.instagram.com/darcstudio_/
+      linkedin: https://www.linkedin.com/company/darcstudio/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Methanoia
+    url: https://methanoia.com/
+    description: Buenos Aires creative agency doing architectural visualisation stills and animation, architectural design and branding for developers and architects.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - archviz
+    notable:
+      - Faena Mar
+      - Park Ave Tower
+      - Canary Wharf
+    social:
+      instagram: https://www.instagram.com/methanoia.studio/
+      linkedin: https://www.linkedin.com/company/methanoia
+      vimeo: https://vimeo.com/methanoia
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Doug and Wolf
+    url: https://dougandwolf.com/
+    description: Architectural visualisation studio in Sydney making renders for practices such as OMA, Hassell and Koichi Takada Architects.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - archviz
+    social:
+      instagram: https://www.instagram.com/dougandwolfviz/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: VIZE
+    url: https://vize.com/
+    description: Architectural visualization studio in Prague producing competition and marketing renderings and animation for European and US architects.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - archviz
+    careers: https://vize.com/index.php?tag=jobs%2Fopenings%2Fcareer
+    notable:
+      - Vltava Philharmonic Prague
+      - Tirana Twin-Towers
+      - Grand Large Dunkerque
+    social:
+      instagram: https://www.instagram.com/vizerenderings
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Cityscape Digital
+    url: https://www.cityscapedigital.co.uk/
+    description: London digital real estate consultancy producing architectural CGI, film and interactive marketing for developers and architects.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - xr
+    careers: https://www.cityscapedigital.co.uk/recruitment
+    social:
+      instagram: https://www.instagram.com/cityscapedigital/
+      linkedin: https://www.linkedin.com/company/cityscape-digital-ltd/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Miysis
+    url: https://www.miysis.be/
+    description: Belgian 3D studio making images, animation, interactive apps and AR/VR for architecture, products, furniture and industry.
+    hq:
+      city: Voroux-lez-Liers
+      country: Belgium
+    disciplines:
+      - archviz
+      - product-viz
+      - xr
+    size: mid
+    careers: https://www.miysis.be/en/working
+    notable:
+      - Notre-Dame de Paris
+      - Ferrero
+      - IBM
+    social:
+      instagram: https://www.instagram.com/miysis_3d/
+      linkedin: https://www.linkedin.com/company/miysis-sprl/
+      vimeo: https://vimeo.com/user5867283
+      x: https://twitter.com/miysis_3d
+      behance: https://www.behance.net/Miysis
+      youtube: https://www.youtube.com/channel/UCa3nlybrPrjmImjxGiycf8Q
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: INDG
+    url: https://www.indg.com/
+    description: Visual content production company making CGI product imagery, digital twins and automated brand content at scale for consumer brands.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - product-viz
+      - cg
+    careers: https://jobs.indg.com/
+    notable:
+      - Beiersdorf
+      - Moët Hennessy
+      - Opella
+    social:
+      linkedin: https://www.linkedin.com/company/indg
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Taylor James
+    url: https://www.taylorjames.com/
+    description: Creative production company making CGI, VFX, photography and film content for advertising, with a dedicated automotive group.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - product-viz
+      - cg
+      - vfx
+      - live-action
+    offices:
+      - city: New York
+        country: United States
+      - city: Los Angeles, CA
+        country: United States
+      - city: Mexico City
+        country: Mexico
+    founded: 1999
+    notable:
+      - Ford Explorer
+      - Cole Haan ZeroGrand
+      - FIJI Water
+    social:
+      instagram: https://www.instagram.com/taylorjamesltd/
+      linkedin: https://www.linkedin.com/company/taylor-james/
+      vimeo: https://vimeo.com/taylorjamesltd
+      behance: https://www.behance.net/taylorjames
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+    size: mid
+  - name: Ars Thanea
+    url: https://arsthanea.com/
+    description: Warsaw design and production studio making CGI imagery, animation and live-action content for commercial and health brands.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - cg
+      - product-viz
+      - live-action
+    founded: 2007
+    notable:
+      - 'SK-II LXP: Kintsugi'
+      - 'Pantene: Infinity Lengths'
+      - 'Bang & Olufsen: Beolab 19'
+    social:
+      instagram: https://www.instagram.com/arsthanea
+      linkedin: https://www.linkedin.com/company/ars-thanea
+      vimeo: https://vimeo.com/arsthanea
+      behance: https://www.behance.net/arsthanea
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Happy Finish
+    url: https://happyfinish.com/
+    description: Production studio making hero CGI visuals, content at scale and XR experiences for brands, part of Different Factory.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - product-viz
+      - cg
+      - xr
+    offices:
+      - city: Portland, OR
+        country: United States
+      - city: Milan
+        country: Italy
+      - city: Verona
+        country: Italy
+    notable:
+      - Nike
+      - Dyson
+      - Bang & Olufsen
+    social:
+      instagram: https://www.instagram.com/happy_finish/
+      linkedin: https://www.linkedin.com/company/happyfinish/
+      youtube: https://www.youtube.com/@HappyFinishGlobal
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Lightshape
+    url: https://www.lightshape.net/
+    description: Stuttgart agency for 3D visualization, VR, AR and WebGL, making product and technical CGI for automotive and industrial clients.
+    hq:
+      city: Stuttgart
+      country: Germany
+    disciplines:
+      - xr
+      - product-viz
+    founded: 2007
+    careers: https://www.lightshape.net/jobs
+    notable:
+      - Porsche
+      - Audi
+      - John Deere
+    social:
+      instagram: https://www.instagram.com/_lightshape_/
+      linkedin: https://www.linkedin.com/company/lightshape/
+      youtube: https://www.youtube.com/user/TheMrLightshape
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Pikcells
+    url: https://pikcells.com/
+    description: CGI studio making roomsets, product renders, animation and 360 spins for kitchen, bathroom, furniture and flooring brands.
+    hq:
+      city: Huddersfield
+      country: United Kingdom
+    disciplines:
+      - product-viz
+      - archviz
+    size: mid
+    careers: https://pikcells.com/careers
+    notable:
+      - Wren Kitchens
+      - Duravit
+      - Casper
+    social:
+      instagram: https://www.instagram.com/pikcellsuk/
+      linkedin: https://www.linkedin.com/company/pikcells
+      youtube: https://www.youtube.com/user/Pikcells
+      x: https://twitter.com/PikcellsUK
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Bloomimages
+    url: https://www.bloomimages.de/
+    description: Architecture visualization studio in Hamburg producing competition, marketing and product imagery for architects and brands.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - archviz
+      - product-viz
+    offices:
+      - city: Berlin
+        country: Germany
+      - city: Schlieren
+        country: Switzerland
+      - city: New York
+        country: United States
+    careers: https://www.bloomimages.de/career/
+    notable:
+      - Elbphilharmonie
+      - Freedom Plaza
+      - Calder Gardens
+    social:
+      instagram: https://www.instagram.com/bloomimages/
+      linkedin: https://www.linkedin.com/company/bloomimages-gmbh
+      vimeo: https://vimeo.com/bloomimages
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: ARX Creative
+    url: https://www.arxcreative.com/
+    description: Real estate visualization studio, formerly ArX Solutions, making renderings, animation, films, interactive apps and VR for developers.
+    hq:
+      city: Miami, FL
+      country: United States
+    disciplines:
+      - archviz
+      - xr
+    offices:
+      - city: Madrid
+        country: Spain
+      - city: Buenos Aires
+        country: Argentina
+    careers: https://www.arxcreative.com/careers
+    notable:
+      - Waldorf Astoria Residences Miami
+      - Baccarat Residences Brickell
+      - E11even Beyond Residences
+    social:
+      instagram: https://www.instagram.com/arx.creative
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Visualhouse
+    url: https://visualhouse.com/
+    description: Real estate marketing and architectural visualisation studio producing CGI, film, animation, branding and digital twins.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - archviz
+      - xr
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Miami, FL
+        country: United States
+      - city: Los Angeles, CA
+        country: United States
+      - city: Dubai
+        country: United Arab Emirates
+      - city: Hong Kong
+        country: Hong Kong
+    social:
+      instagram: https://instagram.com/visualhouse.co
+      linkedin: https://www.linkedin.com/company/visualhouse
+      vimeo: https://vimeo.com/visualhouseco
+      x: https://twitter.com/visualhouse
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Oddy Works
+    url: https://www.oddy.works/
+    description: São Paulo studio making automotive and product CGI, film, photography and design for brands and agencies.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - product-viz
+      - cg
+      - live-action
+    careers: https://www.oddy.works/legal/conduct
+    notable:
+      - Mercedes-Benz EQE 500 SUV
+      - BMW Motorrad R18
+      - Polestar 2
+    social:
+      instagram: https://www.instagram.com/oddy_works/
+      linkedin: https://www.linkedin.com/company/oddy_/
+      vimeo: https://vimeo.com/oddyworks
+      youtube: https://www.youtube.com/@oddy_works6126
+      behance: https://www.behance.net/oddyworks
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Recom Farmhouse
+    url: https://recomfarmhouse.com/
+    description: CGI and creative retouching house based in East London with studios in New York, Los Angeles, Stuttgart, Berlin and Sofia.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - product-viz
+      - cg
+    offices:
+      - city: New York
+        country: United States
+      - city: Los Angeles, CA
+        country: United States
+      - city: Stuttgart
+        country: Germany
+      - city: Berlin
+        country: Germany
+      - city: Sofia
+        country: Bulgaria
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+    founded: 2007
+  - name: Omegarender
+    url: https://omegarender.com/
+    description: 3D visualization studio, now trading as OMEGA, offering CGI, property branding and sales tools for real estate developers.
+    hq:
+      city: Bradford
+      country: United Kingdom
+    disciplines:
+      - archviz
+    careers: https://omegarender.com/career
+    notable:
+      - Zaha Hadid Architects
+      - EMAAR
+      - Gensler
+    social:
+      instagram: https://www.instagram.com/omegarender.studio/
+      linkedin: https://www.linkedin.com/company/omegarender-llp/
+      behance: https://www.behance.net/omega-render
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Nightnurse Images
+    url: https://www.nightnurse.ch/
+    description: Zurich architectural visualization studio making images, animation and interactive formats for competitions, marketing and public communication.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - archviz
+      - xr
+    notable:
+      - Grosshofbrücken Kriens
+      - Steinacker Kloten
+    social:
+      instagram: https://www.instagram.com/nightnurseimages
+      linkedin: https://www.linkedin.com/company/nightnurse-images
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: expressiv
+    url: https://www.expressiv.at/
+    description: Vienna visualization studio making architecture competition and design proposal images for European practices.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - archviz
+    offices:
+      - city: Hörbranz
+        country: Austria
+    size: boutique
+    notable:
+      - Babyn Yar Holocaust Memorial Center
+      - Arena Wien
+      - Komische Oper Berlin
+    social:
+      vimeo: https://vimeo.com/expressiv
+      youtube: https://www.youtube.com/user/expressivat
+      behance: https://www.behance.net/expressiv
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: ZOOM visual project
+    url: https://www.zoomvp.at/
+    description: Vienna studio making visualizations of architecture and design, plus 3D prints of unbuilt buildings.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - archviz
+    social:
+      instagram: https://www.instagram.com/zoomvp/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: ArtefactoryLab
+    url: https://www.artefactorylab.com/
+    description: Paris studio making images and films for architecture, urban planning and landscape projects.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - archviz
+    careers: https://www.artefactorylab.com/nous-rejoindre/
+    social:
+      instagram: https://www.instagram.com/artefactorylab/
+      linkedin: https://www.linkedin.com/company/artefactorylab3/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Archimation
+    url: https://archimation.com/
+    description: Berlin visualization studio producing images, films, websites and virtual environments for architects, engineers and developers.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - archviz
+      - xr
+    founded: 1993
+    notable:
+      - Kö-Bogen Düsseldorf
+      - Victoria and Albert Museum
+      - Mercedes Platz Berlin
+    social:
+      vimeo: https://vimeo.com/archimation
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Peak Studio
+    url: https://peakstudio.pl/
+    description: Warsaw architectural visualization studio making exterior and interior stills, animation and 360 VR tours for developers and architects.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - archviz
+    size: boutique
+    founded: 2014
+    notable:
+      - Skyliner Warszawa
+      - Supernova Gdynia
+      - Noho One
+    social:
+      behance: https://www.behance.net/peakstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: HISM
+    url: https://www.hism.studio/
+    description: Architectural visualization studio from Lviv making renders, animation, cinemagraphs and 360 tours for developers and architects.
+    hq:
+      city: Lviv
+      country: Ukraine
+    disciplines:
+      - archviz
+    founded: 2020
+    careers: https://www.hism.studio/hism-careers
+    notable:
+      - Camilla Residences
+      - Lifetime Tower
+      - Dubai Islands
+    social:
+      instagram: https://www.instagram.com/hism.studio/
+      linkedin: https://www.linkedin.com/company/hism-eu/
+      youtube: https://www.youtube.com/@honeyismine
+      behance: https://www.behance.net/hismeu
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Punctum Images
+    url: https://www.punctum-images.com/
+    description: Prague CGI studio focused on automotive imagery, making full-CGI films, stills and real-time configurators.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - product-viz
+      - cg
+      - xr
+    offices:
+      - city: Los Angeles, CA
+        country: United States
+    careers: https://jobs.punctum-images.com/
+    notable:
+      - Porsche Vision Gran Turismo
+      - Mercedes-AMG G 63 Film
+      - Renault 5 Film
+    social:
+      instagram: https://www.instagram.com/punctum_images/
+      linkedin: https://www.linkedin.com/company/punctum-images/
+      behance: https://www.behance.net/punctum-images
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Normandthegang+
+    url: https://www.normli.ca/
+    description: Toronto creative studio, founded as Norm Li, making architectural rendering, animation, branding and aerial photography for developers.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - archviz
+      - live-action
+    notable:
+      - Hangar District
+      - Wilson District
+      - 101 Spadina
+    social:
+      instagram: https://www.instagram.com/normandthegang/
+      linkedin: https://www.linkedin.com/company/norm-li
+      vimeo: https://vimeo.com/normliagi
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Assembly Studios
+    url: https://assemblystudios.com/
+    description: London studio making CGI, film and digital experiences for the built environment, working with architects and developers.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - xr
+      - live-action
+    offices:
+      - city: Abu Dhabi
+        country: United Arab Emirates
+    notable:
+      - Brent Cross Town
+      - 40 Leadenhall
+      - Mayfield
+    social:
+      instagram: https://www.instagram.com/assemblystudios/
+      linkedin: https://www.linkedin.com/company/assembly-studios/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: ZOA Studio
+    url: https://www.zoa3d.com/
+    description: Budapest architectural visualization and animation studio making cinematic renders, competition images and branded films.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - archviz
+    size: mid
+    careers: https://zoa3d.com/careers/
+    notable:
+      - Sanya Cultural District
+      - Alicante Congress Centre
+      - Brabus Island
+    social:
+      instagram: https://www.instagram.com/zoa3d
+      linkedin: https://www.linkedin.com/company/zoastudio
+      youtube: https://www.youtube.com/user/ZOAstudio
+      x: https://www.twitter.com/zoastudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Lunas
+    url: https://www.lunas.pro/
+    description: Montreal visualization studio building 3D sales platforms, product configurators, renders and animation for developers and e-commerce brands.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - archviz
+      - product-viz
+      - xr
+    size: mid
+    careers: https://www.lunas.pro/careers/
+    notable:
+      - Ayla Oasis
+      - 999 Boulevard De Maisonneuve West
+    social:
+      instagram: https://www.instagram.com/lunas.inc/
+      linkedin: https://www.linkedin.com/company/lunas-visualization/
+      youtube: https://www.youtube.com/@Lunas3DVisualizationStudio
+      behance: https://www.behance.net/lunas3D/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Render Atölyesi
+    url: https://www.renderatolyesi.com/
+    description: Istanbul architectural visualization and design studio making renders, animation, 360 tours and floor plans for developers and architects.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - archviz
+    social:
+      instagram: https://www.instagram.com/renderatolyesi34/
+      youtube: https://www.youtube.com/channel/UCIugRvZueU01iOUeSrYwXHA
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Visoo
+    url: https://www.visoo.co.za/
+    description: Johannesburg architectural visualisation studio making exterior and interior renders and animation for clients in Africa, the Middle East and Europe.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - archviz
+    size: boutique
+    notable:
+      - Waterfall Midrand
+    social:
+      instagram: https://www.instagram.com/visoo_emotive_imagery/
+      vimeo: https://vimeo.com/visoo
+      behance: https://www.behance.net/visoo
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Golem Images
+    url: https://golem-images.com/
+    description: French architecture visualization studio, formerly Depaule & Associés, making renders, films and interactive tools for competitions and developers.
+    hq:
+      city: Marseille
+      country: France
+    disciplines:
+      - archviz
+      - xr
+    notable:
+      - Musée d'Orsay
+      - Stade Louis Nicollin Montpellier
+      - Centre Pompidou Francilien Massy
+    social:
+      instagram: https://www.instagram.com/golem_images/
+      linkedin: https://www.linkedin.com/company/golem-images/
+      vimeo: https://vimeo.com/golemimages
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'

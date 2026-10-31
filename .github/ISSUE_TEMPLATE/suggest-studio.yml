@@ -1,0 +1,71 @@
+name: Suggest a studio
+description: Add an animation, VFX, motion design, CG, game, arch viz or other studio to the /studios/ directory.
+title: "[Studio] <Studio name>"
+labels: ["studio", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Studios live in `data/studios/` (schema: `schema/studio.schema.json`). A pull request is fastest (see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md)). Otherwise fill this out. Active studios only.
+  - type: input
+    id: name
+    attributes:
+      label: Studio name
+      placeholder: "e.g. Framestore"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Website
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: HQ city and country
+      placeholder: "e.g. London, United Kingdom"
+    validations:
+      required: true
+  - type: dropdown
+    id: disciplines
+    attributes:
+      label: Disciplines
+      multiple: true
+      options:
+        - Animation
+        - Stop motion
+        - VFX
+        - Motion design
+        - CG / 3D
+        - Arch viz
+        - Product viz
+        - Games
+        - Game cinematics
+        - Virtual production
+        - Previs
+        - XR / interactive
+        - Experiential
+        - Title design
+        - Live action
+        - Outsourcing
+        - Mocap
+    validations:
+      required: true
+  - type: input
+    id: careers
+    attributes:
+      label: Careers page (optional)
+      placeholder: "https://..."
+  - type: textarea
+    id: extra
+    attributes:
+      label: Notable work, other offices, socials (optional)
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched /studios/ and this studio isn't listed.
+          required: true

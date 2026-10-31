@@ -100,6 +100,15 @@ async function main() {
       metaFile: ie.sectionFile
     });
   }
+  // Studios directory (data/studios/) gets the same scan.
+  for (const c of catalog.loadStudioChunks()) {
+    const chunk = { _path: `studios/${c.file}`, studioFile: c.file, studios: c.studios };
+    for (const s of c.studios) {
+      if (onlyMissing && s.url_status) continue;
+      if (onlyStatus && !onlyStatus.has(s.url_status)) continue;
+      allEntries.push({ entry: s, sub: { slug: 'studios' }, chunk, metaFile: chunk._path });
+    }
+  }
 
   console.log(`Checking ${allEntries.length} URLs (concurrency ${CONCURRENCY}, timeout ${TIMEOUT_MS}ms)...`);
 
@@ -135,7 +144,10 @@ async function main() {
     // Mutations were done in-place on entry refs into each chunk; save touched chunks.
     const touched = new Map(); // chunk._path → chunk
     for (const item of allEntries) touched.set(item.chunk._path, item.chunk);
-    for (const chunk of touched.values()) catalog.saveChunk(chunk);
+    for (const chunk of touched.values()) {
+      if (chunk.studioFile) catalog.saveStudioChunk(chunk.studioFile, chunk.studios);
+      else catalog.saveChunk(chunk);
+    }
   }
 
   // Write report

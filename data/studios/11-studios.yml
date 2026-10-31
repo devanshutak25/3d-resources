@@ -1,0 +1,1155 @@
+studios:
+  - name: Hybride
+    url: https://hybride.com/
+    description: Ubisoft-owned VFX studio in Quebec creating environments, creatures, vehicles, crowds and FX for film and television.
+    hq:
+      city: Piedmont
+      country: Canada
+    disciplines:
+      - vfx
+    offices:
+      - city: Montreal
+        country: Canada
+    founded: 1991
+    reel: https://vimeo.com/1231430802
+    notable:
+      - The Mandalorian and Grogu
+      - Percy Jackson and the Olympians
+    social:
+      instagram: https://www.instagram.com/hybridevfx/
+      linkedin: https://www.linkedin.com/company/hybridevfx/
+      vimeo: https://vimeo.com/user29976293
+      youtube: https://www.youtube.com/user/HybrideTechnologies
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Raynault VFX
+    url: https://www.raynault.com/
+    description: Montreal VFX studio of 50+ artists working on feature films and premium episodic series.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - vfx
+    size: mid
+    careers: https://www.raynault.com/careers
+    reel: https://www.raynault.com/showreel
+    notable:
+      - Fallout
+      - Project Hail Mary
+      - Percy Jackson and the Olympians
+    social:
+      instagram: https://www.instagram.com/raynault_vfx
+      linkedin: https://ca.linkedin.com/company/raynault-com
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Spin VFX
+    url: https://www.spinvfx.com/
+    description: VFX studio in Toronto and Atlanta working on film and television, from creatures and crowds to invisible effects.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - vfx
+    offices:
+      - city: Atlanta, GA
+        country: United States
+    founded: 1987
+    careers: https://www.spinvfx.com/spin-careers/
+    notable:
+      - The Boys
+      - Lanterns
+    social:
+      instagram: https://www.instagram.com/spinvfxlife/
+      linkedin: https://www.linkedin.com/company/spin-vfx/
+      youtube: https://www.youtube.com/channel/UCetajS8YQyGBXvtw4liueIA
+      x: https://twitter.com/SpinVFX
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Ghost VFX
+    url: https://ghostvfx.com/
+    description: Copenhagen VFX studio working on feature film, television and game projects.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - vfx
+    founded: 1999
+    notable:
+      - Troll
+      - Fast X
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: BOT VFX
+    url: https://www.botvfx.com/
+    description: VFX company with a US base in Atlanta and production studios across India, working on film and episodic series.
+    hq:
+      city: Atlanta, GA
+      country: United States
+    disciplines:
+      - vfx
+    offices:
+      - city: Chennai
+        country: India
+      - city: Coimbatore
+        country: India
+      - city: Pune
+        country: India
+      - city: Hyderabad
+        country: India
+    careers: https://botvfx.com/jobs/
+    social:
+      instagram: https://www.instagram.com/botvfx/
+      linkedin: https://www.linkedin.com/company/bot-vfx/
+      vimeo: https://vimeo.com/botvfx
+      youtube: https://www.youtube.com/@botvfx7480
+      x: https://x.com/botvfx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Third Floor
+    url: https://thethirdfloorinc.com/
+    description: Visualization studio providing previs, postvis and techvis for films, series and theme park rides, now also making animated features.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - previs
+      - animation
+    offices:
+      - city: Atlanta, GA
+        country: United States
+      - city: London
+        country: United Kingdom
+      - city: Beijing
+        country: China
+    founded: 2004
+    careers: https://thethirdfloorinc.com/careers/
+    notable:
+      - House of the Dragon
+      - Guardians of the Galaxy Vol. 3
+      - 'Predator: Killer of Killers'
+    social:
+      instagram: https://www.instagram.com/thethirdfloor_visualization/
+      linkedin: https://www.linkedin.com/company/the-third-floor-inc-/
+      youtube: https://www.youtube.com/channel/UCWPAERdkMKUNxw3cOBdDCQA
+      x: https://twitter.com/TheThirdFloor
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Proof
+    url: https://www.proof-inc.com/
+    description: Visualization studio offering previs, techvis and postvis plus in-house VFX for film, television, advertising and immersive work.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - previs
+      - vfx
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Sydney
+        country: Australia
+    founded: 2002
+    careers: https://www.proof-inc.com/about--join-us
+    notable:
+      - Guardians of the Galaxy
+      - 'Captain America: The Winter Soldier'
+    social:
+      instagram: https://www.instagram.com/proof_previs/
+      linkedin: https://www.linkedin.com/company/proof-inc
+      x: https://twitter.com/proof_inc
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Halon Entertainment
+    url: https://halon.com/
+    description: Production partner for film, episodic and games covering previs, postvis, techvis, virtual production, animation and game cinematics.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - previs
+      - virtual-production
+      - cinematics
+      - animation
+    offices:
+      - city: Atlanta, GA
+        country: United States
+      - city: Glasgow
+        country: United Kingdom
+    careers: https://halon.com/careers
+    notable:
+      - The Mandalorian
+      - A Minecraft Movie
+      - Fortnite
+    social:
+      instagram: https://www.instagram.com/halonentertainment/
+      linkedin: https://www.linkedin.com/company/halon-entertainment
+      vimeo: https://vimeo.com/halon
+      youtube: https://www.youtube.com/@halonentertainment6264
+      x: https://x.com/halonprevis
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Day For Nite
+    url: https://www.dayfornite.com/
+    description: Visualization studio offering previs, postvis, techvis, virtual camera and finishing VFX for film, television and games.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - previs
+      - vfx
+    offices:
+      - city: Atlanta, GA
+        country: United States
+      - city: Vancouver
+        country: Canada
+      - city: London
+        country: United Kingdom
+    social:
+      vimeo: https://vimeo.com/user88401435
+      youtube: https://www.youtube.com/@dayfornite9580
+      x: https://twitter.com/DayForNiteFX
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Lux Machina
+    url: https://www.luxmc.com/
+    description: NEP-owned company engineering LED volumes, in-camera VFX and display systems for film, TV, broadcast and live events.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - virtual-production
+    careers: https://www.luxmc.com/jobs
+    notable:
+      - The Mandalorian
+      - 'Solo: A Star Wars Story'
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Dimension
+    url: https://dimensionstudio.co/
+    description: Real-time production studio offering virtual production, digital humans and performance capture, with a London office and an LED stage in Rome.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+      - xr
+      - mocap
+    offices:
+      - city: Rome
+        country: Italy
+    careers: https://dimensionstudio.co/join-us/
+    notable:
+      - Those About to Die
+      - Masters of the Air
+      - Here
+    social:
+      instagram: https://www.instagram.com/dimensionstudio/
+      linkedin: https://www.linkedin.com/company/dimensionstudio/
+      youtube: https://www.youtube.com/@dimension-studio
+      x: https://twitter.com/dimensionstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: NantStudios
+    url: https://nantstudios.com/
+    description: Virtual production company running LED volume stages in Los Angeles and Melbourne for film, TV, games and commercials.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - virtual-production
+    offices:
+      - city: Melbourne
+        country: Australia
+    notable:
+      - Westworld
+      - The Survivors
+    social:
+      instagram: https://www.instagram.com/nantstudios
+      linkedin: https://www.linkedin.com/company/nantstudios/
+      youtube: https://www.youtube.com/@NantStudiosVP
+      x: https://x.com/nantstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: MARS Volume
+    url: https://marsvolume.com/
+    description: London virtual production facility run by Bild Studios, offering an LED volume stage with its own technical crew.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+    careers: https://marsvolume.com/careers/
+    social:
+      instagram: https://www.instagram.com/marsvolume
+      linkedin: https://www.linkedin.com/company/marsvolume/
+      youtube: https://www.youtube.com/c/MARSVolume
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Stargate Studios
+    url: https://www.stargatestudios.net/
+    description: VFX and virtual production company founded by cinematographer Sam Nicholson, working on film, TV and commercials.
+    hq:
+      city: South Pasadena, CA
+      country: United States
+    disciplines:
+      - vfx
+      - virtual-production
+    offices:
+      - city: Atlanta, GA
+        country: United States
+      - city: New York
+        country: United States
+      - city: Toronto
+        country: Canada
+      - city: Bogotá
+        country: Colombia
+    founded: 1989
+    careers: https://www.stargatestudios.net/general-5
+    notable:
+      - The Walking Dead
+      - The Lincoln Lawyer
+    social:
+      instagram: https://www.instagram.com/stargatestudios/
+      linkedin: https://www.linkedin.com/company/stargate-studios
+      youtube: https://www.youtube.com/@stargatefilms
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Base FX
+    url: https://www.base-fx.com/
+    description: Chinese VFX and animation company with studios in Beijing, Wuxi, Xiamen and Kuala Lumpur working on Hollywood and Chinese productions.
+    hq:
+      city: Beijing
+      country: China
+    disciplines:
+      - vfx
+      - animation
+    offices:
+      - city: Wuxi
+        country: China
+      - city: Xiamen
+        country: China
+      - city: Kuala Lumpur
+        country: Malaysia
+      - city: Los Angeles
+        country: United States
+    size: large
+    founded: 2006
+    careers: https://www.base-fx.com/careers/
+    notable:
+      - The Pacific
+      - Deadpool & Wolverine
+    social:
+      linkedin: https://www.linkedin.com/company/base-fx/
+      vimeo: https://vimeo.com/basefx
+      x: https://twitter.com/base_fx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Node fetch fails the TLS chain (server omits intermediate cert); loads in curl and browsers (2026-10-31).
+  - name: MORE VFX
+    url: https://www.morevfx.com/
+    description: Chinese film VFX studio doing large-scale sci-fi and fantasy work on Chinese features.
+    hq:
+      country: China
+    disciplines:
+      - vfx
+    founded: 2007
+    notable:
+      - The Wandering Earth II
+      - Moon Man
+    social:
+      vimeo: https://vimeo.com/morevfx
+      youtube: https://www.youtube.com/@MOREVFX
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Dexter Studios
+    url: https://dexterstudios.com/
+    description: Seoul content studio offering VFX, virtual production, DI and sound for Korean feature films and series.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - vfx
+      - virtual-production
+    notable:
+      - Space Sweepers
+      - Escape from Mogadishu
+      - Parasite
+    social:
+      instagram: https://www.instagram.com/dexterstudios.official/
+      vimeo: https://vimeo.com/dextershowreel
+      youtube: https://www.youtube.com/@DEXTERSTUDIOSOfficial
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Shirogumi
+    url: https://shirogumi.com/
+    description: Tokyo production company making VFX, CG animation and feature films, plus game cinematics and commercials.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+      - animation
+      - cinematics
+    careers: https://shirogumi.com/careers
+    notable:
+      - Godzilla Minus One
+      - Shin Kamen Rider
+    social:
+      vimeo: https://vimeo.com/shirogumi
+      x: https://twitter.com/SHIROGUMI_INC
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Infinite Studios
+    url: https://www.infinitestudios.com.sg/
+    description: Singapore media company providing VFX, animation and post-production, with a second base in Batam, Indonesia.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - vfx
+      - animation
+    offices:
+      - city: Batam
+        country: Indonesia
+    notable:
+      - Monkey Man
+      - Crazy Rich Asians
+      - Westworld
+    social:
+      instagram: https://www.instagram.com/infinitestudiossg/
+      linkedin: https://www.linkedin.com/company/infinitestudiossingapore/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Red Chillies VFX
+    url: https://redchilliesvfx.com/
+    description: Mumbai VFX studio of Red Chillies Entertainment working on Hindi feature films.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+    reel: https://redchilliesvfx.com/showreel
+    notable:
+      - Jawan
+      - Pathaan
+    social:
+      instagram: https://www.instagram.com/redchillies.vfx/
+      linkedin: https://www.linkedin.com/company/redchillies-vfx/
+      youtube: https://www.youtube.com/user/redchilliesvfx
+      x: https://twitter.com/vfx_redchillies
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: PhantomFX
+    url: https://www.phantomfx.com/
+    description: Indian VFX and animation studio based in Chennai working on Indian and international films, series and commercials.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - vfx
+      - animation
+    offices:
+      - city: Mumbai
+        country: India
+      - city: Hyderabad
+        country: India
+      - city: London
+        country: United Kingdom
+    careers: https://recruitment.phantom-fx.com/jobs/Careers
+    social:
+      instagram: https://www.instagram.com/phantomfx_india/
+      linkedin: https://www.linkedin.com/company/phantom-fx/
+      youtube: https://www.youtube.com/c/PhantomfxIndia
+      x: https://twitter.com/phantomfx_india
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: NY VFXWaala
+    url: https://www.nyvfxwaala.com/
+    description: Mumbai VFX studio co-founded by actor Ajay Devgn, working mainly on Hindi feature films.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+    founded: 2015
+    notable:
+      - Dangal
+      - Bajirao Mastani
+      - Simmba
+    social:
+      instagram: https://www.instagram.com/ny_vfxwaala/
+      youtube: https://www.youtube.com/channel/UCeGtDRb5qsTTX22Q9s1jOSQ
+      x: https://twitter.com/nyvfxwaala
+      linkedin: https://www.linkedin.com/company/ny-vfxwaala/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: FutureWorks
+    url: https://www.futureworks.in/
+    description: Indian VFX and post-production company offering VFX, colour, sound and camera rental for film, TV and commercials.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+    offices:
+      - city: Chennai
+        country: India
+      - city: Hyderabad
+        country: India
+    careers: https://www.futureworks.in/careers
+    notable:
+      - 'Heeramandi: The Diamond Bazaar'
+      - 'Dune: Prophecy'
+      - Kesari Chapter 2
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Anibrain
+    url: https://anibrain.com/
+    description: VFX and animation studio in Pune with a 700-person team, delivering creature, FX and full VFX work for international films.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - vfx
+      - animation
+    offices:
+      - city: Los Angeles
+        country: United States
+    size: large
+    careers: https://anibrain.com/vfx-and-animation-jobs/
+    social:
+      instagram: https://www.instagram.com/anibrainstudio/
+      linkedin: https://www.linkedin.com/company/anibrain
+      vimeo: https://vimeo.com/anibrain
+      x: https://twitter.com/anibrainvfx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tau Films
+    url: https://taufilms.com/
+    description: VFX and creative content group making design, animation and VFX for film, TV, commercials and themed entertainment.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - animation
+      - experiential
+    offices:
+      - city: Vancouver
+        country: Canada
+      - city: Kuala Lumpur
+        country: Malaysia
+      - city: Hyderabad
+        country: India
+      - city: Mumbai
+        country: India
+      - city: Beijing
+        country: China
+    founded: 2014
+    careers: https://taufilms.com/careers
+    reel: https://taufilms.com/studio-reel
+    social:
+      instagram: https://www.instagram.com/taufilms/
+      linkedin: https://www.linkedin.com/company/tau-films/
+      vimeo: https://vimeo.com/taufilms
+      youtube: https://www.youtube.com/c/TauFilmsStudio
+      x: https://twitter.com/taufilms
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: BUF
+    url: https://buf.com/
+    description: Paris VFX and animation studio for feature films, series, commercials and music videos, with studios in Montreal and Los Angeles.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - vfx
+      - animation
+    offices:
+      - city: Montreal
+        country: Canada
+      - city: Los Angeles
+        country: United States
+    careers: https://buf.com/jobs
+    reel: https://buf.com/demo-reels?id=9659
+    notable:
+      - 3 Body Problem
+      - The Count of Monte Cristo
+      - 'The Walking Dead: Daryl Dixon'
+    social:
+      instagram: https://www.instagram.com/buf_vfx
+      linkedin: https://www.linkedin.com/company/buf-compagnie
+      vimeo: https://vimeo.com/bufvfx
+      x: https://twitter.com/bufvfx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Yard VFX
+    url: https://theyard-vfx.com/
+    description: Independent French VFX company for feature films and streaming series, with studios in Paris, Montpellier and London.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - vfx
+    offices:
+      - city: Montpellier
+        country: France
+      - city: London
+        country: United Kingdom
+    careers: https://careers.theyard-vfx.com/en-GB
+    notable:
+      - Minuscule 2
+    social:
+      instagram: https://www.instagram.com/theyard_vfx/
+      linkedin: https://www.linkedin.com/company/the-yard-vfx
+      vimeo: https://vimeo.com/theyardvisualeffects
+      youtube: https://www.youtube.com/@theyardvfx2077
+      x: https://x.com/theyard_vfx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: UPP
+    url: https://www.upp.cz/
+    description: Prague VFX and post-production studio for film, TV and advertising, also offering virtual production and 3D scanning.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - vfx
+      - virtual-production
+    offices:
+      - city: Budapest
+        country: Hungary
+      - city: Bratislava
+        country: Slovakia
+    careers: https://www.upp.cz/careers
+    social:
+      vimeo: https://vimeo.com/uppas
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: FIN VFX
+    url: https://www.findesign.com.au/
+    description: Sydney VFX studio for feature film, episodic and advertising work, with studios in Melbourne and on the Gold Coast.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - vfx
+    offices:
+      - city: Melbourne
+        country: Australia
+      - city: Gold Coast
+        country: Australia
+    founded: 2001
+    careers: https://www.findesign.com.au/careers
+    notable:
+      - The Creator
+      - 'Alien: Earth'
+      - M3GAN
+    social:
+      instagram: https://www.instagram.com/fin_vfx/
+      linkedin: https://www.linkedin.com/company/fin-vfx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Alt.VFX
+    url: https://www.altvfx.com/
+    description: Artist-owned VFX and post-production company for film, TV and commercials, with studios in Australia, Los Angeles and Tokyo.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - vfx
+      - virtual-production
+    offices:
+      - city: Sydney
+        country: Australia
+      - city: Melbourne
+        country: Australia
+      - city: Los Angeles
+        country: United States
+      - city: Tokyo
+        country: Japan
+    careers: https://www.altvfx.com/careers/
+    notable:
+      - The Power of the Dog
+      - Alice in Borderland
+      - Deadloch
+    social:
+      instagram: https://www.instagram.com/alt.vfx/
+      linkedin: https://www.linkedin.com/company/alt-vfx/
+      vimeo: https://vimeo.com/altvfx/
+      behance: https://www.behance.net/altvfx/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Ollin VFX
+    url: https://www.ollinvfx.com/
+    description: Mexico City VFX studio working on Hollywood and Latin American films for over 25 years, with offices in New York and London.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - vfx
+    offices:
+      - city: New York
+        country: United States
+      - city: London
+        country: United Kingdom
+    notable:
+      - Mank
+      - The Curious Case of Benjamin Button
+      - 'Godzilla: King of the Monsters'
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: The Refinery
+    url: https://therefinery.tv/
+    description: South African VFX and post-production company in Cape Town and Johannesburg working on film, series and commercials.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - vfx
+    offices:
+      - city: Johannesburg
+        country: South Africa
+      - city: Santa Cruz de Tenerife
+        country: Spain
+    careers: https://therefinery.tv/careers/
+    notable:
+      - London Calling
+      - 'Sniper: No Nation'
+    social:
+      instagram: https://www.instagram.com/therefinery.post/
+      vimeo: https://vimeo.com/therefinerypost
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: RVX
+    url: https://www.rvx.is/
+    description: Reykjavik VFX facility specialising in CG environments, set extensions and snow for high-end series and films.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    disciplines:
+      - vfx
+    founded: 2008
+    careers: https://www.rvx.is/jobs/
+    notable:
+      - House of the Dragon
+      - The Last of Us
+      - The Witcher
+    social:
+      instagram: https://www.instagram.com/rvx_vfx
+      linkedin: https://www.linkedin.com/company/rvx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: EDI Effetti Digitali Italiani
+    url: https://www.effettidigitali.it/
+    description: Milan VFX studio working on Italian and international films, series and commercials, with a virtual production offering.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - vfx
+      - virtual-production
+    founded: 2001
+    careers: https://effettidigitali.zohorecruit.eu/jobs/Careers
+    notable:
+      - Ripley
+      - 'Thor: Love and Thunder'
+      - Black Adam
+    social:
+      instagram: https://www.instagram.com/effettidigitaliitaliani/
+      linkedin: https://www.linkedin.com/company/519780/
+      youtube: https://www.youtube.com/@edieffettidigitaliitaliani
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Twin Pines
+    url: https://www.twinpines.es/
+    description: Madrid VFX company working on Spanish and international feature films and series.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+    careers: https://www.twinpines.es/recruitment
+    notable:
+      - Society of the Snow
+      - The Red Virgin
+      - See
+    social:
+      linkedin: https://www.linkedin.com/company/5317198
+      vimeo: https://vimeo.com/user17355110
+      x: https://twitter.com/twinpinesVFX
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Pixar Animation Studios
+    url: https://www.pixar.com/
+    description: Disney-owned CG feature animation studio in Emeryville, California, making theatrical films and streaming series.
+    hq:
+      city: Emeryville, CA
+      country: United States
+    disciplines:
+      - animation
+    size: large
+    founded: 1986
+    careers: https://www.pixar.com/careers
+    notable:
+      - Toy Story
+      - Inside Out
+      - Coco
+    social:
+      instagram: https://www.instagram.com/pixar/
+      linkedin: https://www.linkedin.com/company/pixar-animation-studios
+      x: https://x.com/pixar
+      youtube: https://www.youtube.com/pixar
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Walt Disney Animation Studios
+    url: https://disneyanimation.com/
+    description: Disney's feature animation studio in Burbank and Vancouver, making CG theatrical films and Disney+ series.
+    hq:
+      city: Burbank, CA
+      country: United States
+    disciplines:
+      - animation
+    offices:
+      - city: Vancouver
+        country: Canada
+    size: large
+    founded: 1923
+    careers: https://www.disneyanimation.com/careers/
+    notable:
+      - Frozen
+      - Moana
+      - Zootopia
+    social:
+      instagram: https://www.instagram.com/disneyanimation/
+      linkedin: https://www.linkedin.com/company/walt-disney-animation-studios/
+      youtube: https://www.youtube.com/user/disneyanimation
+      x: https://x.com/DisneyAnimation
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: DreamWorks Animation
+    url: https://www.dreamworks.com/
+    description: NBCUniversal-owned studio in Glendale, California, making CG feature films and animated series.
+    hq:
+      city: Glendale, CA
+      country: United States
+    disciplines:
+      - animation
+    size: large
+    founded: 1994
+    careers: https://www.dreamworks.com/careers
+    notable:
+      - Shrek
+      - How to Train Your Dragon
+      - Kung Fu Panda
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Illumination
+    url: https://www.illumination.com/
+    description: Universal-backed producer of CG family features, with animation production at its own Paris studio.
+    hq:
+      city: Santa Monica, CA
+      country: United States
+    disciplines:
+      - animation
+    offices:
+      - city: Paris
+        country: France
+    founded: 2007
+    careers: https://www.illumination.com/homepage/careers/
+    notable:
+      - Despicable Me
+      - The Super Mario Bros. Movie
+      - Sing
+    social:
+      instagram: https://www.instagram.com/illuminationent/
+      linkedin: https://www.linkedin.com/company/illumination-entertainment/
+      x: https://twitter.com/illumination
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Illumination Studios Paris
+    url: https://www.illuminationstudiosparis.com/
+    description: Paris animation studio that produces Illumination's CG feature films from story to final render.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - animation
+    size: large
+    founded: 2011
+    careers: https://www.illuminationstudiosparis.com/careers/
+    notable:
+      - Despicable Me 4
+      - Migration
+      - The Super Mario Bros. Movie
+    social:
+      linkedin: https://www.linkedin.com/company/illumination-studios-paris/
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Sony Pictures Animation
+    url: https://www.sonypicturesanimation.com/
+    description: Sony's feature animation division in Culver City, developing CG films produced with Imageworks.
+    hq:
+      city: Culver City, CA
+      country: United States
+    disciplines:
+      - animation
+    founded: 2002
+    careers: https://www.sonypicturesanimation.com/careers
+    notable:
+      - 'Spider-Man: Into the Spider-Verse'
+      - KPop Demon Hunters
+      - The Mitchells vs. the Machines
+    social:
+      instagram: https://www.instagram.com/sonyanimation/
+      x: https://twitter.com/SonyAnimation
+      youtube: https://www.youtube.com/sonyanimation
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Skydance Animation
+    url: https://www.skydanceanimation.com/
+    description: Feature and series animation studio with teams in Los Angeles and Madrid, making CG films for streaming and theatrical release.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - animation
+    offices:
+      - city: Madrid
+        country: Spain
+    founded: 2017
+    careers: https://skydance.com/job-listings/
+    notable:
+      - Luck
+      - Spellbound
+      - The Search for WondLa
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Titmouse
+    url: https://titmouse.net/
+    description: Independent studio making 2D and CG animated series, features and shorts for adult and kids audiences.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - animation
+    offices:
+      - city: New York, NY
+        country: United States
+      - city: Vancouver
+        country: Canada
+    founded: 2000
+    careers: https://titmouse.net/careers/
+    reel: https://titmouse.net/work/titmouse-reel-2026/
+    notable:
+      - The Legend of Vox Machina
+      - Big Mouth
+      - 'Star Trek: Lower Decks'
+    social:
+      instagram: https://instagram.com/titmouseinc
+      x: https://twitter.com/titmouseinc
+      youtube: https://www.youtube.com/TitmouseInc
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Reel FX
+    url: https://www.reelfx.com/
+    description: Animation studio producing CG feature films and series for studios and streamers.
+    hq:
+      city: Dallas, TX
+      country: United States
+    disciplines:
+      - animation
+    offices:
+      - city: Montreal
+        country: Canada
+      - city: Los Angeles, CA
+        country: United States
+    founded: 1993
+    careers: https://www.reelfx.com/careers/
+    notable:
+      - The Book of Life
+      - Free Birds
+      - 'The SpongeBob Movie: Search for SquarePants'
+    social:
+      instagram: https://instagram.com/wearereelfx
+      vimeo: https://vimeo.com/wearereelfx
+      x: https://twitter.com/wearereelfx
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Bento Box Entertainment
+    url: https://www.bentoboxent.com/
+    description: Fox-owned animation studio producing primetime 2D comedy series.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - animation
+    offices:
+      - city: Atlanta, GA
+        country: United States
+      - city: Toronto
+        country: Canada
+    founded: 2009
+    careers: https://jobs.lever.co/bentoboxent
+    notable:
+      - Bob's Burgers
+      - Central Park
+      - The Great North
+    social:
+      instagram: https://www.instagram.com/bentoboxent/
+      youtube: https://www.youtube.com/user/BentoBoxOfficial
+      x: https://twitter.com/BentoBoxEnt
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: ShadowMachine
+    url: https://www.shadowmachine.com/
+    description: Stop-motion and 2D animation studio producing series and features for TV, streaming and film.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - animation
+      - stop-motion
+    offices:
+      - city: Portland, OR
+        country: United States
+    founded: 1999
+    notable:
+      - BoJack Horseman
+      - Guillermo del Toro's Pinocchio
+      - Robot Chicken
+    social:
+      instagram: https://www.instagram.com/shadowmachine_official/
+      linkedin: https://www.linkedin.com/company/shadowmachine
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Tonko House
+    url: https://www.tonkohouse.com/
+    description: Independent animation studio founded by former Pixar art directors, making original films, series and books.
+    hq:
+      city: Berkeley, CA
+      country: United States
+    disciplines:
+      - animation
+    founded: 2014
+    careers: https://www.tonkohouse.com/careers
+    notable:
+      - The Dam Keeper
+      - 'Pig: The Dam Keeper Poems'
+      - 'ONI: Thunder God''s Tale'
+    social:
+      instagram: https://www.instagram.com/tonkohouse/
+      youtube: https://www.youtube.com/@tonkohouse
+      x: https://twitter.com/TonkoHouseUS
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Mercury Filmworks
+    url: https://mercuryfilmworks.com/
+    description: Ottawa animation studio producing 2D and CG series and features for streamers and broadcasters.
+    hq:
+      city: Ottawa
+      country: Canada
+    disciplines:
+      - animation
+    founded: 1997
+    careers: https://mercuryfilmworks.com/careers/
+    notable:
+      - Hilda
+      - Kid Cosmic
+      - Centaurworld
+    social:
+      instagram: https://www.instagram.com/mercuryfilmworks
+      linkedin: https://www.linkedin.com/company/mercury-filmworks
+      youtube: https://www.youtube.com/channel/UCkaPzFiQpWh23N_u5oCOKdQ
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Guru Studio
+    url: https://gurustudio.com/
+    description: Toronto animation studio making preschool and kids series, both original IP and work for hire.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - animation
+    founded: 2000
+    careers: https://gurustudio.com/careers
+    notable:
+      - PAW Patrol
+      - True and the Rainbow Kingdom
+      - Big Blue
+    social:
+      instagram: https://www.instagram.com/gurustudioto
+      linkedin: https://www.linkedin.com/company/guru-studio
+      x: https://twitter.com/gurustudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
+  - name: Bardel Entertainment
+    url: https://bardel.ca/
+    description: Vancouver animation studio producing CG and 2D series and features for studios and streamers.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - animation
+    founded: 1987
+    careers: https://apply.workable.com/bardel-entertainment/
+    notable:
+      - Rick and Morty
+      - The Dragon Prince
+      - 'Sausage Party: Foodtopia'
+    social:
+      instagram: https://www.instagram.com/bardelentertainment/
+      linkedin: https://www.linkedin.com/company/bardel-entertainment
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Returns 403 to scripts (bot protection); not a dead link (2026-10-31).

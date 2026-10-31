@@ -113,3 +113,18 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > push, merge and close issues
 
 **Answered:** Pushed fixes to 5 fork branches (#30/#31/#32/#34/#35), merged 9 PRs, closed #28 with note. Added Nebula Forge (§02 blender-plugins-addons) + RespawnStack (§09 ai-assisted-cg-tools), stamped url_status on all 11; commit closes #26 + #29. Validate ✓ 32, tests 7/7, build ✓.
+
+**Prompt:** (2026-10-31)
+> I want to make a /studios page which has aniamtion, vfx, motion design, cg, arch viz, game and any other type of studios. Ask me questions for better alignement
+
+**Answered (2 AskUserQuestion rounds):** separate studios directory (own data + schema, not in README); all studio types incl. VP, product viz/CGI ads, XR/immersive, outsourcing/support ("all relevant studios please"); fields: location, careers, notable work, size + founded, website, social media; first batch "around 200 to start with, you can use the school of motion list to begin with. the goal is to add all the studios in the world by the end", then "All 500 SoM + others"; single filterable page; text cards. SoM 500 Studios PDF supplied by user (moved repo root -> disregard/som-500-studios.pdf so it can't be committed). Spec + phase plan proposed, waiting for go.
+
+**Prompt:** (2026-10-31)
+> go for all phases please
+
+**Answered:** Built /studios/ end to end. Infra (schema, catalog loaders, validator, page builder, filter JS, CSS, sitemap/llms/header links, issue form, test). 754 studios: 481 SoM (HQs re-verified, SoM locations scrambled) + 270 from research agents. Careers 303, socials 645. check-links scans studios. Validate ✓ 32, tests 8/8, build ✓, links ✓. Not committed.
+
+**Prompt:** (2026-10-31)
+> push changes resolve conflicts please
+
+**Answered:** Committed studios work on main, rebased onto bot README re-render (c20ba87); README conflict resolved by re-rendering from data. Validate + tests before push. Pushed to origin/main.

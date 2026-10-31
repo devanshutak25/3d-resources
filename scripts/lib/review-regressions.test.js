@@ -73,7 +73,7 @@ function exportFixture() {
   });
   await test('link scans preserve editorial visibility and deprecation',async()=>{
     const entries=[{name:'Temporary',url:'https://example.test/temporary'},{name:'Retired',url:'https://example.test/retired',deprecated:true}];
-    const cat={loadSections:()=>({sections:[]}),*iterEntries(){for(const entry of entries)yield {entry,chunk:{_path:'chunk'},sectionFile:'test',subSlug:'test'}},saveChunk(){}};
+    const cat={loadSections:()=>({sections:[]}),*iterEntries(){for(const entry of entries)yield {entry,chunk:{_path:'chunk'},sectionFile:'test',subSlug:'test'}},saveChunk(){},loadStudioChunks:()=>[]};
     const scan=script('scripts/check-links.js',{'./lib/catalog':cat,fs:{mkdirSync(){},writeFileSync(){}}},/main\(\)\.catch[\s\S]*$/);
     scan.fetch=async url=>({ok:url.endsWith('retired'),status:url.endsWith('retired')?200:404,url});
     await scan.main();
